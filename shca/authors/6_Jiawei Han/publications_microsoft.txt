@@ -1,0 +1,7106 @@
+RT Journal Article
+ID 61417412
+A1 Camporesi,Carlo
+A1 Kallmann,Marcelo
+A1 Han,Jay,J.
+YR 2013
+T1 VR Solutions for Improving Physical Therapy
+
+RT Journal Article
+ID 56916385
+A1 Ding,Bolin
+A1 Wang,Haixun
+A1 Jin,Ruoming
+A1 Han,Jiawei
+A1 Wang,Zhongyuan
+YR 2012
+T1 Optimizing index for taxonomy keyword search
+SP 493
+OP 504
+
+RT Conference Proceedings
+ID 48873950
+A1 Tang,Lu-An
+A1 Zheng,Yu
+A1 Yuan,Jing
+A1 Han,Jiawei
+A1 Leung,Wen-Chih,Peng,Chih-Chieh,Hung,Alice
+YR 2012
+T1 On Discovery of Traveling Companions from Streaming Trajectories
+SP 186
+OP 197
+
+RT Conference Proceedings
+ID 56982857
+A1 Tang,Lu-An
+A1 Yu,Xiao
+A1 Kim,Sangkyum
+A1 Han,Jiawei
+A1 Peng,Wen-Chih
+A1 Sun,Yizhou
+A1 Gonzalez,Hector
+A1 Seith,Sebastian
+YR 2012
+T1 Multidimensional Analysis of Atypical Events in Cyber-Physical Data
+SP 1025
+OP 1036
+
+RT Journal Article
+ID 57014958
+A1 Zhang,Lijun
+A1 Chen,Chun
+A1 Bu,Jiajun
+A1 Chen,Zhengguang
+A1 Cai,Deng
+A1 Han,Jiawei
+YR 2012
+T1 Locally Discriminative Coclustering
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 24
+SP 1025
+OP 1035
+IS 6
+
+RT Conference Proceedings
+ID 56982875
+A1 Han,Jiawei
+A1 Sun,Yizhou
+A1 Yan,Xifeng
+A1 Yu,Philip,S.
+YR 2012
+T1 Mining Knowledge from Data: An Information Network Analysis Approach
+SP 1214
+OP 1217
+
+RT Journal Article
+ID 58575939
+A1 Liu,Xingjie
+A1 He,Qi
+A1 Tian,Yuanyuan
+A1 Lee,Wang-Chien
+A1 McPherson,John
+A1 Han,Jiawei
+YR 2012
+T1 Event-based social networks: linking the online and offline social worlds
+SP 1032
+OP 1040
+
+RT Journal Article
+ID 56920959
+A1 Spirin,Nikita
+A1 Han,Jiawei
+YR 2012
+T1 Survey on web spam detection: principles and algorithms
+JF Sigkdd Explorations
+SP 50
+OP 64
+
+RT Conference Proceedings
+ID 61424329
+A1 Weninger,Tim
+A1 Bisk,Yonatan
+A1 Han,Jiawei
+YR 2012
+T1 Document-Topic Hierarchies from Document Graphs
+
+RT Journal Article
+ID 61401769
+A1 Zhao,Bo
+A1 Rubinstein,Benjamin,I.,P.
+A1 Gemmell,Jim
+A1 Han,Jiawei
+YR 2012
+T1 A Bayesian Approach to Discovering Truth from Conflicting Sources for Data Integration
+
+RT Journal Article
+ID 61401856
+A1 Tang,Lu-An
+A1 Zheng,Yu
+A1 Yuan,Jing
+A1 Han,Jiawei
+YR 2012
+T1 A Framework of Traveling Companion Discovery on Trajectory Data Streams
+
+RT Journal Article
+ID 15231921
+A1 Liu,Hongyan
+A1 Lin,Yuan
+A1 Han,Jiawei
+YR 2011
+T1 Methods for mining frequent items in data streams: an overview
+JF Knowledge and Information Systems
+VO 26
+SP 1
+OP 30
+IS 1
+
+RT Journal Article
+ID 39219930
+A1 Weninger,Tim
+A1 Fumarola,Fabio
+A1 Barber,Rick
+A1 Han,Jiawei
+A1 Malerba,Donato
+YR 2011
+T1 Unexpected results in automatic list extraction on the web
+JF Sigkdd Explorations
+VO 12
+SP 26
+OP 30
+IS 2
+
+RT Conference Proceedings
+ID 39248516
+A1 Weninger,Tim
+A1 Fumarola,Fabio
+A1 Lin,Cindy,Xide
+A1 Barber,Rick
+A1 Han,Jiawei
+A1 Malerba,Donato
+YR 2011
+T1 Growing parallel paths for entity-page discovery
+SP 145
+OP 146
+
+RT Journal Article
+ID 51095955
+A1 Wang,Dong
+A1 Abdelzaher,Tarek
+A1 Ahmadi,Hossein
+A1 Pasternack,Jeff
+A1 Roth,Dan
+A1 Gupta,Manish
+A1 Han,Jiawei
+A1 Fatemieh,Omid
+A1 Le,Hieu
+A1 Aggarwal,Charu,C.
+YR 2011
+T1 On Bayesian interpretation of fact-finding in information networks
+
+RT Conference Proceedings
+ID 39248470
+A1 Gupta,Manish
+A1 Sun,Yizhou
+A1 Han,Jiawei
+YR 2011
+T1 Trust analysis with clustering
+SP 53
+OP 54
+
+RT Journal Article
+ID 14396764
+A1 Masud,Mohammad,M.
+A1 Gao,Jing
+A1 Khan,Latifur
+A1 Han,Jiawei
+A1 Thuraisingham,Bhavani,M.
+YR 2011
+T1 Classification and Novel Class Detection in Concept-Drifting Data Streams under Time Constraints
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 23
+SP 859
+OP 874
+IS 6
+
+RT Journal Article
+ID 39330349
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Han,Jiawei
+YR 2011
+T1 Locally Consistent Concept Factorization for Document Clustering
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 23
+SP 902
+OP 913
+IS 6
+
+RT Conference Proceedings
+ID 39248637
+A1 Yin,Zhijun
+A1 Cao,Liangliang
+A1 Han,Jiawei
+A1 Zhai,Chengxiang
+A1 Huang,Thomas,S.
+YR 2011
+T1 Geographical topic discovery and comparison
+SP 247
+OP 256
+
+RT Journal Article
+ID 51186785
+A1 He,Xiaofei
+A1 Cai,Deng
+A1 Shao,Yuanlong
+A1 Bao,Hujun
+A1 Han,Jiawei
+YR 2011
+T1 Laplacian Regularized Gaussian Mixture Model for Data Clustering
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 23
+SP 1406
+OP 1418
+IS 9
+
+RT Book, Whole
+ID 48826535
+A1 Tang,Lu-An
+A1 Zheng,Yu
+A1 Xie,Xing
+A1 Yuan,Jing
+A1 Yu,Xiao
+A1 Han,Jiawei
+YR 2011
+T1 Retrieving k-Nearest Neighboring Trajectories by a Set of Point Locations
+SP 223
+OP 241
+
+RT Journal Article
+ID 51184597
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Han,Jiawei
+A1 Huang,Thomas,S.
+YR 2011
+T1 Graph Regularized Nonnegative Matrix Factorization for Data Representation
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 33
+SP 1548
+OP 1560
+IS 8
+
+RT Conference Proceedings
+ID 51074874
+A1 Ahmadi,Hossein
+A1 Abdelzaher,Tarek
+A1 Han,Jiawei
+A1 Pham,Nam
+A1 Ganti,Raghu,K.
+YR 2011
+T1 The Sparse Regression Cube: A Reliable Modeling Technique for Open Cyber-Physical Systems
+
+RT Conference Proceedings
+ID 39271643
+A1 Khan,Mohammad,Maifi,Hasan
+A1 Ahmadi,Hossein
+A1 Dogan,Gulustan
+A1 Govindan,Kannan
+A1 Ganti,Raghu,K.
+A1 Brown,Theodore
+A1 Han,Jiawei
+A1 Mohapatra,Prasant
+A1 Abdelzaher,Tarek,F.
+YR 2011
+T1 DustDoctor: A self-healing sensor data collection system
+SP 127
+OP 128
+
+RT Conference Proceedings
+ID 51065527
+A1 Gao,Jing
+A1 Fan,Wei
+A1 Turaga,Deepak
+A1 Verscheure,Olivier
+A1 Meng,Xiaoqiao
+A1 Su,Lu
+A1 Han,Jiawei
+YR 2011
+T1 Consensus extraction from heterogeneous detectors to improve performance over network traffic anomaly detection
+SP 181
+OP 185
+
+RT Journal Article
+ID 51194280
+A1 Ding,Bolin
+A1 Zhao,Bo
+A1 Lin,Cindy,Xide
+A1 Han,Jiawei
+A1 Zhai,Chengxiang
+A1 Srivastava,Ashok
+A1 Oza,Nikunj,C.
+YR 2011
+T1 Efficient Keyword-Based Search for Top-K Cells in Text Cube
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 23
+SP 1795
+OP 1810
+IS 12
+
+RT Conference Proceedings
+ID 56994601
+A1 Masud,Mohammad,M.
+A1 Al-Khateeb,Tahseen,M.
+A1 Khan,Latifur
+A1 Aggarwal,Charu
+A1 Gao,Jing
+A1 Han,Jiawei
+A1 Thuraisingham,Bhavani
+YR 2011
+T1 Detecting Recurring and Novel Classes in Concept-Drifting Data Streams
+SP 1176
+OP 1181
+
+RT Conference Proceedings
+ID 39271656
+A1 Yang,Yong
+A1 Su,Lu
+A1 Khan,Mohammad,Maifi,Hasan
+A1 LeMay,Michael
+A1 Abdelzaher,Tarek,F.
+A1 Han,Jiawei
+YR 2011
+T1 Power watermarking: Facilitating power-based diagnosis of node silence in remote high-end sensing systems
+SP 159
+OP 160
+
+RT Conference Proceedings
+ID 51107799
+A1 Sun,Yizhou
+A1 Barber,Rick
+A1 Gupta,Manish
+A1 Aggarwal,Charu,C.
+A1 Han,Jiawei
+YR 2011
+T1 Coauthor Relationship Prediction in Heterogeneous Bibliographic Networks
+
+RT Conference Proceedings
+ID 56994500
+A1 Jin,Xin
+A1 Spangler,Scott
+A1 Chen,Ying
+A1 Cai,Keke
+A1 Ma,Rui
+A1 Zhang,Li
+A1 Wu,Xian
+A1 Han,Jiawei
+YR 2011
+T1 Patent Maintenance Recommendation with Patent Information Network Model
+SP 280
+OP 289
+
+RT Conference Proceedings
+ID 56994505
+A1 Kim,Hyungsul
+A1 Im,Sungjin
+A1 Abdelzaher,Tarek
+A1 Han,Jiawei
+A1 Sheridan,David
+A1 Vasudevan,Shobha
+YR 2011
+T1 Signature Pattern Covering via Local Greedy Algorithm and Pattern Shrink
+SP 330
+OP 339
+
+RT Conference Proceedings
+ID 51147648
+A1 Seo,Eunsoo
+A1 Khan,Mohammad,Maifi,Hasan
+A1 Mohapatra,Prasant
+A1 Han,Jiawei
+A1 Abdelzaher,Tarek
+YR 2011
+T1 Exposing Complex Bug-Triggering Conditions in Distributed Systems via Graph Mining
+SP 186
+OP 195
+
+RT Conference Proceedings
+ID 39248462
+A1 Fumarola,Fabio
+A1 Weninger,Tim
+A1 Barber,Rick
+A1 Malerba,Donato
+A1 Han,Jiawei
+YR 2011
+T1 HyLiEn: a hybrid approach to general list extraction on the web
+SP 35
+OP 36
+
+RT Book, Whole
+ID 39261824
+A1 Qu,Qiang
+A1 Zhu,Feida
+A1 Yan,Xifeng
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+A1 Li,Hongyan
+YR 2011
+T1 Efficient Topological OLAP on Information Networks
+SP 389
+OP 403
+
+RT Journal Article
+ID 39330952
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Han,Jiawei
+YR 2011
+T1 Speed up kernel discriminant analysis
+JF The Vldb Journal
+VO 20
+SP 21
+OP 33
+IS 1
+
+RT Conference Proceedings
+ID 51107813
+A1 Gupta,Manish
+A1 Aggarwal,Charu,C.
+A1 Han,Jiawei
+A1 Sun,Yizhou
+YR 2011
+T1 Evolutionary Clustering and Analysis of Bibliographic Networks
+
+RT Conference Proceedings
+ID 56994562
+A1 Yin,Zhijun
+A1 Cao,Liangliang
+A1 Han,Jiawei
+A1 Zhai,Chengxiang
+A1 Huang,Thomas
+YR 2011
+T1 LPTA: A Probabilistic Model for Latent Periodic Topic Analysis
+SP 904
+OP 913
+
+RT Journal Article
+ID 49371512
+A1 Huang,Jianbin
+A1 Sun,Heli
+A1 Han,Jiawei
+A1 Feng,Boqin
+YR 2011
+T1 Density-based shrinkage for revealing hierarchical and overlapping community structure in networks
+JF Physica A-statistical Mechanics and Its Applications
+VO 390
+SP 2160
+OP 2171
+IS 11
+
+RT Conference Proceedings
+ID 39266128
+A1 Lo,David
+A1 Ding,Bolin
+A1 Lucia
+A1 Han,Jiawei
+YR 2011
+T1 Bidirectional mining of non-redundant recurrent rules from a sequence database
+SP 1043
+OP 1054
+
+RT Journal Article
+ID 39330331
+A1 Lee,Jae-Gil
+A1 Han,Jiawei
+A1 Li,Xiaolei
+A1 Cheng,Hong
+YR 2011
+T1 Mining Discriminative Patterns for Classifying Trajectories on Road Networks
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 23
+SP 713
+OP 726
+IS 5
+
+RT Conference Proceedings
+ID 56994580
+A1 Gao,Jing
+A1 Fan,Wei
+A1 Turaga,Deepak
+A1 Parthasarathy,Srinivasan
+A1 Han,Jiawei
+YR 2011
+T1 A Spectral Framework for Detecting Inconsistency across Multi-source Object Relationships
+SP 1050
+OP 1055
+
+RT Conference Proceedings
+ID 56994510
+A1 Lin,Cindy,Xide
+A1 Mei,Qiaozhu
+A1 Han,Jiawei
+A1 Jiang,Yunliang
+A1 Danilevsky,Marina
+YR 2011
+T1 The Joint Inference of Topic Diffusion and Evolution in Social Communities
+SP 378
+OP 387
+
+RT Conference Proceedings
+ID 51107856
+A1 Yang,Yang
+A1 Sun,Yizhou
+A1 Pandit,Saurav
+A1 Chawla,Nitesh,V.
+A1 Han,Jiawei
+YR 2011
+T1 Is Objective Function the Silver Bullet? A Case Study of Community Detection Algorithms on Social Networks
+
+RT Conference Proceedings
+ID 51107827
+A1 Yu,Xiao
+A1 Pan,Ang
+A1 Tang,Lu-An
+A1 Li,Zhenhui
+A1 Han,Jiawei
+YR 2011
+T1 Geo-Friends Recommendation in GPS-based Cyber-physical Social Network
+
+RT Book, Whole
+ID 48804618
+A1 Fumarola,Fabio
+A1 Weninger,Tim
+A1 Barber,Rick
+A1 Malerba,Donato
+A1 Han,Jiawei
+YR 2011
+T1 Extracting General Lists from Web Documents: A Hybrid Approach
+SP 285
+OP 294
+
+RT Journal Article
+ID 56972117
+A1 Wang,Daobin
+A1 Zhang,Jie
+A1 Yuan,Lihua
+A1 Lei,Jingli
+A1 Chen,Sai
+A1 Han,Jiawei
+A1 Zhao,Yongli
+YR 2011
+T1 Polyatomic photonic crystal waveguides with semi-slow light and tailored dispersion properties
+SP 1
+OP 6
+
+RT Journal Article
+ID 39338113
+A1 Jin,Xin
+A1 Kim,Sangkyum
+A1 Han,Jiawei
+A1 Cao,Liangliang
+A1 Yin,Zhijun
+YR 2011
+T1 A general framework for efficient clustering of large datasets based on activity detection
+JF Statistical Analysis and Data Mining
+VO 4
+SP 11
+OP 29
+IS 1
+
+RT Conference Proceedings
+ID 51107835
+A1 Wang,Chi
+A1 Tang,Jie
+A1 Sun,Jimeng
+A1 Han,Jiawei
+YR 2011
+T1 Dynamic Social Influence Analysis through Time-Dependent Factor Graphs
+
+RT Journal Article
+ID 56905453
+A1 Gupta,Manish
+A1 Han,Jiawei
+YR 2011
+T1 Heterogeneous network-based trust analysis: a survey
+JF Sigkdd Explorations
+SP 54
+OP 71
+
+RT Conference Proceedings
+ID 51107809
+A1 Danilevsky,Marina
+A1 Hailpern,Joshua
+A1 Han,Jiawei
+YR 2011
+T1 SCENE: Structural Conversation Evolution NEtwork
+
+RT Book, Whole
+ID 47674901
+A1 Gupta,Manish
+A1 Li,Rui
+A1 Yin,Zhijun
+A1 Han,Jiawei
+YR 2011
+T1 An Overview of Social Tagging and Applications
+
+RT Journal Article
+ID 39249164
+A1 Yu,Jie
+A1 Jin,Xin
+A1 Han,Jiawei
+A1 Luo,Jiebo
+YR 2011
+T1 Collection-based sparse label propagation and its application on social group suggestion from photos
+VO 2
+SP 1
+OP 21
+IS 2
+
+RT Journal Article
+ID 56968134
+A1 Chen,Sai
+A1 Zhang,Jie
+A1 Wang,Daobin
+A1 Han,Jiawei
+YR 2011
+T1 Frequency engineering with flexible decomposition and reconstruction enabling parallel processing of optical wideband signal
+
+RT Conference Proceedings
+ID 13494092
+A1 Wang,Chi
+A1 Han,Jiawei
+A1 Jia,Yuntao
+A1 Tang,Jie
+A1 Zhang,Duo
+A1 Yu,Yintao
+A1 Guo,Jingyi
+YR 2010
+T1 Mining advisor-advisee relationships from research publication networks
+SP 203
+OP 212
+
+RT Conference Proceedings
+ID 39266433
+A1 Tang,Lu-An
+A1 Yu,Xiao
+A1 Kim,Sangkyum
+A1 Han,Jiawei
+A1 Hung,Chih-Chieh
+A1 Peng,Wen-Chih
+YR 2010
+T1 Tru-Alarm: Trustworthiness Analysis of Sensor Networks in Cyber-Physical Systems
+SP 1079
+OP 1084
+
+RT Journal Article
+ID 14086695
+A1 Wu,Tianyi
+A1 Chen,Yuguo
+A1 Han,Jiawei
+YR 2010
+T1 Re-examination of interestingness measures in pattern mining: a unified framework
+JF Data Mining and Knowledge Discovery
+VO 21
+SP 371
+OP 397
+IS 3
+
+RT Journal Article
+ID 13990096
+A1 Li,Zhenhui
+A1 Ding,Bolin
+A1 Han,Jiawei
+A1 Kays,Roland
+YR 2010
+T1 Swarm: Mining Relaxed Temporal Moving Object Clusters
+JF Proceedings of The Vldb Endowment
+VO 3
+SP 723
+OP 734
+IS 1
+
+RT Journal Article
+ID 13990034
+A1 Zhao,Peixiang
+A1 Han,Jiawei
+YR 2010
+T1 On Graph Query Optimization in Large Networks
+JF Proceedings of The Vldb Endowment
+VO 3
+SP 340
+OP 351
+IS 1
+
+RT Conference Proceedings
+ID 13494215
+A1 Lin,Cindy,Xide
+A1 Zhao,Bo
+A1 Mei,Qiaozhu
+A1 Han,Jiawei
+YR 2010
+T1 PET: a statistical model for popular events tracking in social communities
+SP 929
+OP 938
+
+RT Conference Proceedings
+ID 7013054
+A1 Khan,Mohammad,Maifi,Hasan
+A1 Le,Hieu,Khac
+A1 LeMay,Michael
+A1 Moinzadeh,Paria
+A1 Wang,Lili
+A1 Yang,Yong
+A1 Noh,Dong,Kun
+A1 Abdelzaher,Tarek,F.
+A1 Gunter,Carl,A.
+A1 Han,Jiawei
+A1 Jin,Xin
+YR 2010
+T1 Diagnostic powertracing for sensor node failure analysis
+SP 117
+OP 128
+
+RT Conference Proceedings
+ID 13934019
+A1 Cao,Liangliang
+A1 Luo,Jiebo
+A1 Jin,Xin
+A1 Han,Jiawei
+A1 Huang,Thomas,S.
+YR 2010
+T1 A WORLDWIDE TOURISM RECOMMENDATION SYSTEM BASED ON GEOTAGGED WEB PHOTOS
+SP 2274
+OP 2277
+
+RT Book, Whole
+ID 6670600
+A1 Li,Zhenhui
+A1 Lee,Jae-Gil
+A1 Li,Xiaolei
+A1 Han,Jiawei
+YR 2010
+T1 Incremental Clustering for Trajectories
+SP 32
+OP 46
+
+RT Conference Proceedings
+ID 13762496
+A1 Yin,Zhijun
+A1 Gupta,Manish
+A1 Weninger,Tim
+A1 Han,Jiawei
+YR 2010
+T1 A Unified Framework for Link Recommendation Using Random Walks
+SP 152
+OP 159
+
+RT Journal Article
+ID 39235124
+A1 Li,Zhenhui
+A1 Ding,Bolin
+A1 Han,Jiawei
+A1 Kays,Roland
+A1 Nye,Peter
+YR 2010
+T1 Mining periodic behaviors for moving objects
+SP 1099
+OP 1108
+
+RT Conference Proceedings
+ID 13277650
+A1 Li,Zhenhui
+A1 Ji,Ming
+A1 Lee,Jae-Gil
+A1 Tang,Lu-An
+A1 Yu,Yintao
+A1 Han,Jiawei
+A1 Kays,Roland
+YR 2010
+T1 MoveMine: mining moving object databases
+SP 1203
+OP 1206
+
+RT Conference Proceedings
+ID 6599732
+A1 Li,Cuiping
+A1 Han,Jiawei
+A1 He,Guoming
+A1 Jin,Xin
+A1 Sun,Yizhou
+A1 Yu,Yintao
+A1 Wu,Tianyi
+YR 2010
+T1 Fast computation of SimRank for static and dynamic information networks
+SP 465
+OP 476
+
+RT Conference Proceedings
+ID 13494153
+A1 Gao,Jing
+A1 Liang,Feng
+A1 Fan,Wei
+A1 Wang,Chi
+A1 Sun,Yizhou
+A1 Han,Jiawei
+YR 2010
+T1 On community outliers and their efficient detection in information networks
+SP 813
+OP 822
+
+RT Journal Article
+ID 6085518
+A1 Gonzalez,Hector
+A1 Han,Jiawei
+A1 Cheng,Hong
+A1 Li,Xiaolei
+A1 Klabjan,Diego
+A1 Wu,Tianyi
+YR 2010
+T1 Modeling Massive RFID Data Sets: A Gateway-Based Movement Graph Approach
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 22
+SP 90
+OP 104
+IS 1
+
+RT Book, Whole
+ID 13666533
+A1 Ji,Ming
+A1 Sun,Yizhou
+A1 Danilevsky,Marina
+A1 Han,Jiawei
+A1 Gao,Jing
+YR 2010
+T1 Graph Regularized Transductive Classification on Heterogeneous Information Networks
+SP 570
+OP 586
+
+RT Conference Proceedings
+ID 39226282
+A1 Weninger,Tim
+A1 Fumarola,Fabio
+A1 Han,Jiawei
+A1 Malerba,Donato
+YR 2010
+T1 Mapping web pages to database records via link paths
+SP 1637
+OP 1640
+
+RT Journal Article
+ID 39219921
+A1 Gupta,Manish
+A1 Li,Rui
+A1 Yin,Zhijun
+A1 Han,Jiawei
+YR 2010
+T1 Survey on social tagging techniques
+JF Sigkdd Explorations
+VO 12
+SP 58
+OP 72
+IS 1
+
+RT Conference Proceedings
+ID 6907325
+A1 Bortner,Dustin
+A1 Han,Jiawei
+YR 2010
+T1 Progressive clustering of networks using Structure-Connected Order of Traversal
+SP 653
+OP 656
+
+RT Conference Proceedings
+ID 13302541
+A1 Yu,Jie
+A1 Jin,Xin
+A1 Han,Jiawei
+A1 Luo,Jiebo
+YR 2010
+T1 Social group suggestion from user image collections
+SP 1215
+OP 1216
+
+RT Conference Proceedings
+ID 39240082
+A1 Ahmadi,Hossein
+A1 Pham,Nam
+A1 Ganti,Raghu,K.
+A1 Abdelzaher,Tarek,F.
+A1 Nath,Suman
+A1 Han,Jiawei
+YR 2010
+T1 Privacy-aware regression modeling of participatory sensing data
+SP 99
+OP 112
+
+RT Conference Proceedings
+ID 13302296
+A1 Jin,Xin
+A1 Luo,Jiebo
+A1 Yu,Jie
+A1 Wang,Gang
+A1 Joshi,Dhiraj
+A1 Han,Jiawei
+YR 2010
+T1 iRIN: image retrieval in image-rich information networks
+SP 1261
+OP 1264
+
+RT Journal Article
+ID 39235848
+A1 Sun,Yizhou
+A1 Tang,Jie
+A1 Han,Jiawei
+A1 Gupta,Manish
+A1 Zhao,Bo
+YR 2010
+T1 Community evolution detection in dynamic heterogeneous information networks
+SP 137
+OP 146
+
+RT Conference Proceedings
+ID 13301849
+A1 Cao,Liangliang
+A1 Pozo,Andrey,Del
+A1 Jin,Xin
+A1 Luo,Jiebo
+A1 Han,Jiawei
+A1 Huang,Thomas,S.
+YR 2010
+T1 RankCompete: simultaneous ranking and clustering of web photos
+SP 1071
+OP 1072
+
+RT Book, Whole
+ID 6639105
+A1 Liu,Lu
+A1 Zhu,Feida
+A1 Chen,Chen
+A1 Yan,Xifeng
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+A1 Yang,Shiqiang
+YR 2010
+T1 Mining Diversity on Networks
+SP 384
+OP 398
+
+RT Conference Proceedings
+ID 39226092
+A1 Liu,Lu
+A1 Tang,Jie
+A1 Han,Jiawei
+A1 Jiang,Meng
+A1 Yang,Shiqiang
+YR 2010
+T1 Mining topic-level influence in heterogeneous networks
+SP 199
+OP 208
+
+RT Book, Whole
+ID 13300874
+A1 Masud,Mohammad,M.
+A1 Gao,Jing
+A1 Khan,Latifur
+A1 Han,Jiawei
+A1 Thuraisingham,Bhavani,M.
+YR 2010
+T1 Classification and Novel Class Detection in Data Streams with Active Mining
+SP 311
+OP 324
+
+RT Book, Whole
+ID 13300730
+A1 Lin,Cindy,Xide
+A1 Yu,Yintao
+A1 Han,Jiawei
+A1 Liu,Bing
+YR 2010
+T1 Hierarchical WebPage Clustering via In-Page and Cross-Page Link Structures
+SP 222
+OP 229
+
+RT Conference Proceedings
+ID 13134427
+A1 Yin,Zhijun
+A1 Gupta,Manish
+A1 Weninger,Tim
+A1 Han,Jiawei
+YR 2010
+T1 LINKREC: a unified framework for link recommendation with user attributes and graph structure
+SP 1211
+OP 1212
+
+RT Journal Article
+ID 12222485
+A1 Ramakrishnan,Raghu
+A1 Ioannidis,Yannis
+A1 Fernández,Mary
+A1 Kitsuregawa,Masaru
+A1 Han,Jiawei
+A1 Laender,Alberto
+A1 Ramamritham,Krithi
+A1 Schek,Hans
+A1 Snodgrass,Rick
+A1 Weikum,Gerhard
+A1 Brown,Paul,G.
+A1 Dayal,Umeshwar
+A1 Graves,Mark
+A1 Gupta,Ashish
+A1 Korth,Hank
+A1 Mattos,Nelson,M.
+A1 Neimat,Marie-Anne
+A1 Özsu,Tamer
+A1 Schek,Hans-Jörg
+A1 Arenas,Marcelo
+A1 Barbosa,Denilson
+A1 Cetintemel,Ugur
+A1 Jeusfeld,Manfred
+A1 Lee,Dongwon
+A1 Ley,Michael
+A1 Pottinger,Rachel
+A1 Silva,Altigran,Soares,da
+A1 Yang,Jun
+YR 2010
+T1 Chair Vice-Chair Secretary/Treasurer
+
+RT Book, Whole
+ID 13314854
+A1 Han,Jiawei
+A1 Li,Zhenhui
+A1 Tang,Lu,An
+YR 2010
+T1 Mining Moving Object, Trajectory and Traffic Data
+SP 485
+OP 486
+
+RT Conference Proceedings
+ID 39236075
+A1 Jin,Xin
+A1 Gallagher,Andrew,C.
+A1 Cao,Liangliang
+A1 Luo,Jiebo
+A1 Han,Jiawei
+YR 2010
+T1 The wisdom of social multimedia: using flickr for prediction and forecast
+SP 1235
+OP 1244
+
+RT Conference Proceedings
+ID 6785422
+A1 Ding,Bolin
+A1 Zhao,Bo
+A1 Lin,Cindy,Xide
+A1 Han,Jiawei
+A1 Zhai,Chengxiang
+YR 2010
+T1 TopCells: Keyword-based search of top-k aggregated documents in text cube
+SP 381
+OP 384
+
+RT Conference Proceedings
+ID 13277563
+A1 Han,Jiawei
+A1 Sun,Yizhou
+A1 Yan,Xifeng
+A1 Yu,Philip,S.
+YR 2010
+T1 Mining knowledge from databases: an information network analysis approach
+SP 1251
+OP 1252
+
+RT Book, Whole
+ID 13264444
+A1 Kim,Hyun,Duk
+A1 Zhai,ChengXiang
+A1 Han,Jiawei
+YR 2010
+T1 Aggregation of Multiple Judgments for Evaluating Ordered Lists
+SP 166
+OP 178
+
+RT Conference Proceedings
+ID 13275946
+A1 Yan,Xifeng
+A1 He,Bin
+A1 Zhu,Feida
+A1 Han,Jiawei
+YR 2010
+T1 Top-K aggregation queries over large networks
+SP 377
+OP 380
+
+RT Journal Article
+ID 15203974
+A1 Thoma,Marisa
+A1 Cheng,Hong
+A1 Gretton,Arthur
+A1 Han,Jiawei
+A1 Kriegel,Hans-Peter
+A1 Smola,Alexander,J.
+A1 Song,Le
+A1 Yu,Philip,S.
+A1 Yan,Xifeng
+A1 Borgwardt,Karsten,M.
+YR 2010
+T1 Discriminative frequent subgraph mining with optimality guarantees
+JF Statistical Analysis and Data Mining
+VO 3
+SP 302
+OP 318
+IS 5
+
+RT Conference Proceedings
+ID 39266300
+A1 Masud,Mohammad,M.
+A1 Chen,Qing
+A1 Khan,Latifur
+A1 Aggarwal,Charu,C.
+A1 Gao,Jing
+A1 Han,Jiawei
+A1 Thuraisingham,Bhavani,M.
+YR 2010
+T1 Addressing Concept-Evolution in Concept-Drifting Data Streams
+SP 929
+OP 934
+
+RT Book, Whole
+ID 48261390
+A1 Chen,Chen
+A1 Zhu,Feida
+A1 Yan,Xifeng
+A1 Han,Jiawei
+A1 Yu,Philip
+A1 Ramakrishnan,Raghu
+YR 2010
+T1 InfoNetOLAP: OLAP and Mining of Information Networks
+
+RT Conference Proceedings
+ID 13302874
+A1 Li,Zhenhui
+A1 Zhou,Ding
+A1 Juan,Yun-Fang
+A1 Han,Jiawei
+YR 2010
+T1 Keyword extraction for social snippets
+SP 1143
+OP 1144
+
+RT Conference Proceedings
+ID 50901613
+A1 Liu,Yanjun
+A1 Hou,Shanglin
+A1 Han,Jiawei
+A1 Hu,Chunlian
+A1 Li,Suoping
+A1 Lei,Jingli
+A1 Wang,Zhongyi
+YR 2010
+T1 Influence of air-hole rings on dispersion of microstructured fibers
+
+RT Conference Proceedings
+ID 7030515
+A1 Lin,Cindy,Xide
+A1 Zhao,Bo
+A1 Weninger,Tim
+A1 Han,Jiawei
+A1 Liu,Bing
+YR 2010
+T1 Entity relation discovery from web tables and links
+SP 1145
+OP 1146
+
+RT Book, Whole
+ID 13666458
+A1 Kim,Hyungsul
+A1 Kim,Sangkyum
+A1 Weninger,Tim
+A1 Han,Jiawei
+A1 Abdelzaher,Tarek,F.
+YR 2010
+T1 NDPMine: Efficiently Mining Discriminative Numerical Features for Pattern-Based Classification
+SP 35
+OP 50
+
+RT Conference Proceedings
+ID 39226094
+A1 Huang,Jianbin
+A1 Sun,Heli
+A1 Han,Jiawei
+A1 Deng,Hongbo
+A1 Sun,Yizhou
+A1 Liu,Yaguang
+YR 2010
+T1 SHRINK: a structural clustering algorithm for detecting hierarchical communities in networks
+SP 219
+OP 228
+
+RT Book, Whole
+ID 13666450
+A1 Masud,Mohammad,M.
+A1 Chen,Qing
+A1 Gao,Jing
+A1 Khan,Latifur
+A1 Han,Jiawei
+A1 Thuraisingham,Bhavani,M.
+YR 2010
+T1 Classification and Novel Class Detection of Data Streams in a Dynamic Feature Space
+SP 337
+OP 352
+
+RT Conference Proceedings
+ID 39266323
+A1 Sun,Heli
+A1 Huang,Jianbin
+A1 Han,Jiawei
+A1 Deng,Hongbo
+A1 Zhao,Peixiang
+A1 Feng,Boqin
+YR 2010
+T1 gSkeletonClu: Density-Based Network Clustering via Structure-Connected Tree Division or Agglomeration
+SP 481
+OP 490
+
+RT Conference Proceedings
+ID 13302639
+A1 Jin,Xin
+A1 Spangler,W.,Scott
+A1 Ma,Rui
+A1 Han,Jiawei
+YR 2010
+T1 Topic initiator detection on the world wide web
+SP 481
+OP 490
+
+RT Conference Proceedings
+ID 39226154
+A1 Jin,Xin
+A1 Han,Jiawei
+A1 Cao,Liangliang
+A1 Luo,Jiebo
+A1 Ding,Bolin
+A1 Lin,Cindy,Xide
+YR 2010
+T1 Visual cube and on-line analytical processing of images
+SP 849
+OP 858
+
+RT Conference Proceedings
+ID 51016901
+A1 Arefin,Ahsan
+A1 Nahrstedt,Klara
+A1 Rivas,Raoul
+A1 Han,Jiawei
+A1 Huang,Zixia
+YR 2010
+T1 DIAMOND: Correlation-Based Anomaly Monitoring Daemon for DIME
+
+RT Journal Article
+ID 61401295
+A1 Ahmadi,Hossein
+A1 Pham,Nam
+A1 Ganti,Raghu
+A1 Abdelzaher,Tarek
+A1 Nath,Suman
+A1 Han,Jiawei
+YR 2010
+T1 Privacy-aware Regression Modelling of Participatory Sensing Data
+
+RT Journal Article
+ID 15221814
+A1 Aggarwal,Charu,C.
+A1 Chen,Chen
+A1 Han,Jiawei
+YR 2010
+T1 The Inverse Classification Problem
+JF Journal of Computer Science and Technology
+VO 25
+SP 458
+OP 468
+IS 3
+
+RT Conference Proceedings
+ID 13302739
+A1 Weninger,Tim
+A1 Hsu,William,H.
+A1 Han,Jiawei
+YR 2010
+T1 CETR: content extraction via tag ratios
+SP 971
+OP 980
+
+RT Conference Proceedings
+ID 13934133
+A1 Ganesan,Kavita
+A1 Zhai,ChengXiang
+A1 Han,Jiawei
+YR 2010
+T1 Opinosis: A Graph Based Approach to Abstractive Summarization of Highly Redundant Opinions
+SP 340
+OP 348
+
+RT Journal Article
+ID 15225423
+A1 Liu,Lu
+A1 Zhu,Feida
+A1 Jiang,Meng
+A1 Han,Jiawei
+A1 Sun,Lifeng
+A1 Yang,Shiqiang
+YR 2010
+T1 Mining diversity on social media networks
+JF Multimedia Tools and Applications
+VO 50
+SP 1
+OP 27
+IS 3
+
+RT Journal Article
+ID 39294337
+A1 Ding,Bolin
+A1 Yu,Yintao
+A1 Zhao,Bo
+A1 Lin,Cindy,Xide
+A1 Han,Jiawei
+A1 Zhai,Chengxiang
+YR 2010
+T1 Keyword Search in Text Cube: Finding Top-k Aggregated Cell Documents
+SP 145
+OP 159
+
+RT Conference Proceedings
+ID 13266782
+A1 Wu,Tianyi
+A1 Sun,Yizhou
+A1 Li,Cuiping
+A1 Han,Jiawei
+YR 2010
+T1 Region-based online promotion analysis
+SP 63
+OP 74
+
+RT Book, Whole
+ID 39360156
+A1 Wang,Haixun
+A1 Yu,Philip,S.
+A1 Han,Jiawei
+YR 2010
+T1 Mining Concept-Drifting Data Streams
+
+RT Journal Article
+ID 39247074
+A1 Kim,Sangkyum
+A1 Kim,Hyungsul
+A1 Weninger,Tim
+A1 Han,Jiawei
+YR 2010
+T1 Authorship classification: a syntactic tree mining approach
+SP 65
+OP 73
+
+RT Book, Whole
+ID 13666353
+A1 Han,Jiawei
+YR 2010
+T1 Structure Is Informative: On Mining Structured Information Networks
+SP 2
+
+RT Journal Article
+ID 39235493
+A1 Kim,Sangkyum
+A1 Jin,Xin
+A1 Han,Jiawei
+YR 2010
+T1 DisIClass: discriminative frequent pattern-based image classification
+SP 1
+OP 10
+
+RT Journal Article
+ID 39361457
+A1 Jin,Xin
+A1 Han,Jiawei
+YR 2010
+T1 Expectation Maximization Clustering
+
+RT Journal Article
+ID 39361501
+A1 Jin,Xin
+A1 Han,Jiawei
+YR 2010
+T1 Quality Threshold Clustering
+
+RT Journal Article
+ID 39361554
+A1 Jin,Xin
+A1 Han,Jiawei
+YR 2010
+T1 Mean Shift
+
+RT Journal Article
+ID 39361597
+A1 Jin,Xin
+A1 Han,Jiawei
+YR 2010
+T1 Locality Sensitive Hashing Based Clustering
+
+RT Journal Article
+ID 39361661
+A1 Jin,Xin
+A1 Han,Jiawei
+YR 2010
+T1 Partitional Clustering
+
+RT Journal Article
+ID 39235129
+A1 Han,Jiawei
+YR 2010
+T1 Mining heterogeneous information networks
+SP 1
+OP 1
+
+RT Journal Article
+ID 39247066
+A1 Han,Jiawei
+YR 2010
+T1 Mining useful patterns: my evolutionary view
+SP 6
+OP 6
+
+RT Journal Article
+ID 6101413
+A1 Han,Jiawei
+YR 2009
+T1 Data Mining
+
+RT Conference Proceedings
+ID 4706515
+A1 Sun,Yizhou
+A1 Han,Jiawei
+A1 Zhao,Peixiang
+A1 Yin,Zhijun
+A1 Cheng,Hong
+A1 Wu,Tianyi
+YR 2009
+T1 RankClus: integrating clustering with ranking for heterogeneous information network analysis
+SP 565
+OP 576
+
+RT Conference Proceedings
+ID 4971471
+A1 Sun,Yizhou
+A1 Yu,Yintao
+A1 Han,Jiawei
+YR 2009
+T1 Ranking-based clustering of heterogeneous information networks with star network schema
+SP 797
+OP 806
+
+RT Conference Proceedings
+ID 4715954
+A1 Ding,Bolin
+A1 Lo,David
+A1 Han,Jiawei
+A1 Khoo,Siau-cheng
+YR 2009
+T1 Efficient Mining of Closed Repetitive Gapped Subsequences from a Sequence Database
+SP 1024
+OP 1035
+
+RT Conference Proceedings
+ID 4973081
+A1 Lo,David
+A1 Cheng,Hong
+A1 Han,Jiawei
+A1 Khoo,Siau-cheng
+A1 Sun,Chengnian
+YR 2009
+T1 Classification of software behaviors for failure detection: a discriminative pattern mining approach
+SP 557
+OP 566
+
+RT Conference Proceedings
+ID 4729926
+A1 Zhang,Duo
+A1 Zhai,Chengxiang
+A1 Han,Jiawei
+YR 2009
+T1 Topic Cube: Topic Modeling for OLAP on Multidimensional Text Databases
+SP 1123
+OP 1134
+
+RT Conference Proceedings
+ID 4729895
+A1 Thoma,Marisa
+A1 Cheng,Hong
+A1 Gretton,Arthur
+A1 Han,Jiawei
+A1 Kriegel,Hans-peter
+A1 Smola,Alexander,J.
+A1 Song,Le
+A1 Yu,Philip,S.
+A1 Yan,Xifeng
+A1 Borgwardt,Karsten,M.
+YR 2009
+T1 Near-optimal Supervised Feature Selection among Frequent Subgraphs
+SP 1075
+OP 1086
+
+RT Conference Proceedings
+ID 4973077
+A1 Yin,Zhijun
+A1 Li,Rui
+A1 Mei,Qiaozhu
+A1 Han,Jiawei
+YR 2009
+T1 Exploring social tagging graph for web object classification
+SP 957
+OP 966
+
+RT Conference Proceedings
+ID 6030416
+A1 Zhao,Peixiang
+A1 Han,Jiawei
+A1 Sun,Yizhou
+YR 2009
+T1 PRank: a comprehensive structural similarity measure over information networks
+SP 553
+OP 562
+
+RT Conference Proceedings
+ID 4966266
+A1 Gao,Jing
+A1 Fan,Wei
+A1 Sun,Yizhou
+A1 Han,Jiawei
+YR 2009
+T1 Heterogeneous source consensus learning via decision propagation and negotiation
+SP 339
+OP 348
+
+RT Journal Article
+ID 6091248
+A1 Kim,Min-soo
+A1 Han,Jiawei
+YR 2009
+T1 A Particle-and-Density Based Evolutionary Clustering Method for Dynamic Networks
+JF Proceedings of The Vldb Endowment
+VO 2
+SP 622
+OP 633
+IS 1
+
+RT Book, Whole
+ID 6048374
+A1 Masud,Mohammad,M.
+A1 Gao,Jing
+A1 Khan,Latifur
+A1 Han,Jiawei
+A1 Thuraisingham,Bhavani,M.
+YR 2009
+T1 Integrating Novel Class Detection with Classification for Concept-Drifting Data Streams
+SP 79
+OP 94
+
+RT Journal Article
+ID 5819107
+A1 Liu,Hongyan
+A1 Wang,Xiaoyu
+A1 He,Jun
+A1 Han,Jiawei
+A1 Xin,Dong
+A1 Shao,Zheng
+YR 2009
+T1 Top-down mining of frequent closed patterns from very high dimensional data
+JF Information Sciences
+VO 179
+SP 899
+OP 924
+IS 7
+
+RT Conference Proceedings
+ID 5817812
+A1 Yu,Xiao
+A1 Tang,Lu,An
+A1 Han,Jiawei
+YR 2009
+T1 Filtering and Refinement: A Two-Stage Approach for Efficient and Effective Anomaly Detection
+SP 617
+OP 626
+
+RT Conference Proceedings
+ID 5479355
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Wang,Xuanhui
+A1 Bao,Hujun
+A1 Han,Jiawei
+YR 2009
+T1 Locality Preserving Nonnegative Matrix Factorization
+SP 1010
+OP 1015
+
+RT Conference Proceedings
+ID 4715814
+A1 Li,Xiaolei
+A1 Li,Zhenhui
+A1 Han,Jiawei
+A1 Lee,Jae-gil
+YR 2009
+T1 Temporal Outlier Detection in Vehicle Traffic Data
+SP 1319
+OP 1322
+
+RT Conference Proceedings
+ID 6046715
+A1 Ramachandran,Chandrasekar
+A1 Malik,Rahul
+A1 Jin,Xin
+A1 Gao,Jing
+A1 Nahrstedt,Klara
+A1 Han,Jiawei
+YR 2009
+T1 VideoMule: a consensus learning approach to multi-label classification from noisy user-generated videos
+SP 721
+OP 724
+
+RT Journal Article
+ID 6081574
+A1 Chen,Chen
+A1 Yan,Xifeng
+A1 Zhu,Feida
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2009
+T1 Graph OLAP: a multi-dimensional framework for graph data analysis
+JF Knowledge and Information Systems
+VO 21
+SP 41
+OP 63
+IS 1
+
+RT Book, Whole
+ID 4727793
+A1 Masud,Mohammad,M.
+A1 Gao,Jing
+A1 Khan,Latifur
+A1 Han,Jiawei
+A1 Thuraisingham,Bhavani,M.
+YR 2009
+T1 A Multi-partition Multi-chunk Ensemble Technique to Classify Concept-Drifting Data Streams
+SP 363
+OP 375
+
+RT Journal Article
+ID 5344308
+A1 Wu,Tianyi
+A1 Xin,Dong
+A1 Mei,Qiaozhu
+A1 Han,Jiawei
+YR 2009
+T1 Promotion Analysis in MultiDimensional Space
+JF Proceedings of The Vldb Endowment
+VO 2
+SP 109
+OP 120
+IS 1
+
+RT Journal Article
+ID 5632153
+A1 Chen,Chen
+A1 Lin,Cindy,Xide
+A1 Fredrikson,Matt
+A1 Christodorescu,Mihai
+A1 Yan,Xifeng
+A1 Han,Jiawei
+YR 2009
+T1 Mining Graph Patterns Efficiently via Randomized Summaries
+JF Proceedings of The Vldb Endowment
+VO 2
+SP 742
+OP 753
+IS 1
+
+RT Book, Whole
+ID 4705248
+A1 Khan,Mohammad,Maifi,Hasan
+A1 Abdelzaher,Tarek,F.
+A1 Han,Jiawei
+A1 Ahmadi,Hossein
+YR 2009
+T1 Finding Symbolic Bug Patterns in Sensor Networks
+SP 131
+OP 144
+
+RT Conference Proceedings
+ID 5820906
+A1 Gao,Jing
+A1 Jiang,Guofei
+A1 Chen,Haifeng
+A1 Han,Jiawei
+YR 2009
+T1 Modeling Probabilistic Measurement Correlations for Problem Determination in Large-Scale Distributed Systems
+SP 623
+OP 630
+
+RT Conference Proceedings
+ID 6559036
+A1 Sun,Yizhou
+A1 Han,Jiawei
+A1 Gao,Jing
+A1 Yu,Yintao
+YR 2009
+T1 iTopicModel: Information Network-Integrated Topic Modeling
+SP 493
+OP 502
+
+RT Journal Article
+ID 13260941
+A1 Zhang,Duo
+A1 Zhai,ChengXiang
+A1 Han,Jiawei
+A1 Srivastava,Ashok
+A1 Oza,Nikunj,C.
+YR 2009
+T1 Topic modeling for OLAP on multidimensional text databases: topic cube and its applications
+JF Statistical Analysis and Data Mining
+VO 2
+SP 378
+OP 395
+IS 5-6
+
+RT Journal Article
+ID 6091207
+A1 Yu,Yintao
+A1 Lin,Cindy,Xide
+A1 Sun,Yizhou
+A1 Chen,Chen
+A1 Han,Jiawei
+A1 Liao,Binbin
+A1 Wu,Tianyi
+A1 Zhai,Chengxiang
+A1 Zhang,Duo
+A1 Zhao,Bo
+YR 2009
+T1 iNextCube: Information Network-Enhanced Text Cube
+JF Proceedings of The Vldb Endowment
+VO 2
+SP 1622
+OP 1625
+IS 2
+
+RT Conference Proceedings
+ID 5710901
+A1 Hauguel,Samson
+A1 Zhai,Chengxiang
+A1 Han,Jiawei
+YR 2009
+T1 Parallel PathFinder Algorithms for Mining Structures from Graphs
+SP 812
+OP 817
+
+RT Conference Proceedings
+ID 6559107
+A1 Yu,Jie
+A1 Jin,Xin
+A1 Han,Jiawei
+A1 Luo,Jiebo
+YR 2009
+T1 Mining Personal Image Collection for Social Group Suggestion
+SP 202
+OP 207
+
+RT Conference Proceedings
+ID 4729875
+A1 Jin,Xin
+A1 Kim,Sangkyum
+A1 Han,Jiawei
+A1 Cao,Liangliang
+A1 Yin,Zhijun
+YR 2009
+T1 GAD: General Activity Detection for Fast Clustering on Large Data
+SP 2
+OP 13
+
+RT Book, Whole
+ID 6028116
+A1 Han,Jiawei
+YR 2009
+T1 Mining Heterogeneous Information Networks by Exploring the Power of Links
+SP 3
+OP 30
+
+RT Conference Proceedings
+ID 4706461
+A1 Han,Jiawei
+A1 Yan,Xifeng
+A1 Yu,Philip,S.
+YR 2009
+T1 Scalable OLAP and mining of information networks
+SP 1159
+OP 1159
+
+RT Journal Article
+ID 50836591
+A1 Han,Jiawei
+A1 Hou,Shanglin
+YR 2009
+T1 Slope-matching profile optimization of dual-concentric-core photonic crystal fiber for broadband dispersion compensation
+VO 7630
+SP 49
+
+RT Conference Proceedings
+ID 13996057
+A1 Finin,Tim
+A1 Joshi,Anupam
+A1 Kargupta,Hillol
+A1 Yesha,Yelena
+A1 Sachs,Joel
+A1 Bertino,Elisa
+A1 Li,Ninghui
+A1 Clifton,Chris
+A1 Spafford,Gene
+A1 Thuraisingham,Bhavani,M.
+A1 Kantarcioglu,Murat
+A1 Bensoussan,Alain
+A1 Berg,Nathan
+A1 Khan,Latifur
+A1 Han,Jiawei
+A1 Zhai,ChengXiang
+A1 Sandhu,Ravi,S.
+A1 Xu,Shouhuai
+A1 Massaro,Jim
+A1 Adamic,Lada,A.
+YR 2009
+T1 Assured Information Sharing Life Cycle
+SP 307
+OP 309
+
+RT Conference Proceedings
+ID 4710696
+A1 Thuraisingham,Bhavani,M.
+A1 Khan,Latifur
+A1 Kantarcioglu,Murat
+A1 Chib,Sonia
+A1 Han,Jiawei
+A1 Son,Sang
+YR 2009
+T1 Real-Time Knowledge Discovery and Dissemination for Intelligence Analysis
+SP 1
+OP 12
+
+RT Book, Whole
+ID 4732025
+A1 Malik,Rahul
+A1 Kim,Sangkyum
+A1 Jin,Xin
+A1 Ramachandran,Chandrasekar
+A1 Han,Jiawei
+A1 Gupta,Indranil
+A1 Nahrstedt,Klara
+YR 2009
+T1 MLR-Index: An Index Structure for Fast and Scalable Similarity Search in High Dimensions
+SP 167
+OP 184
+
+RT Journal Article
+ID 13285498
+A1 Chen,Hailiang
+A1 Liu,Hongyan
+A1 Han,Jiawei
+A1 Yin,Xiaoxin
+A1 He,Jun
+YR 2009
+T1 Exploring optimization of semantic relationship graph for multi-relational Bayesian classification
+JF Decision Support Systems
+VO 48
+SP 112
+OP 121
+IS 1
+
+RT Journal Article
+ID 14190328
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Han,Jiawei
+YR 2009
+T1 A Geometric Perspective on Dimensionality Reduction
+
+RT Book, Whole
+ID 6033351
+A1 Kim,Min-Soo
+A1 Han,Jiawei
+YR 2009
+T1 CHRONICLE: A Two-Stage Density-Based Clustering Algorithm for Dynamic Networks
+SP 152
+OP 167
+
+RT Journal Article
+ID 6838601
+A1 Masud,Mohammad,M.
+A1 Gao,Jing
+A1 Khan,Latifur
+A1 Han,Jiawei
+YR 2009
+T1 Classification and Novel Class Detection in Concept-Drifting Data Streams under Time Constraints
+
+RT Book, Whole
+ID 6033350
+A1 Wu,Tianyi
+A1 Han,Jiawei
+YR 2009
+T1 Subspace Discovery for Promotion: A Cell Clustering Approach
+SP 362
+OP 376
+
+RT Journal Article
+ID 6102960
+A1 Han,Jiawei
+A1 Ding,Bolin
+YR 2009
+T1 Stream Mining
+
+RT Journal Article
+ID 6101813
+A1 Cheng,Hong
+A1 Han,Jiawei
+YR 2009
+T1 Frequent Itemsets and Association Rules
+
+RT Journal Article
+ID 6102580
+A1 Cheng,Hong
+A1 Han,Jiawei
+YR 2009
+T1 Pattern-Growth Methods
+
+RT Book, Whole
+ID 48518352
+A1 Han,Jiawei
+YR 2009
+T1 Mining Heterogeneous Information Networks by Exploring the Power of Links
+
+RT Journal Article
+ID 4414567
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Han,Jiawei
+YR 2008
+T1 SRDA: An Efficient Algorithm for Large-Scale Discriminant Analysis
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 20
+SP 1
+OP 12
+IS 1
+
+RT Conference Proceedings
+ID 4317341
+A1 Yan,Xifeng
+A1 Cheng,Hong
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2008
+T1 Mining significant graph patterns by leap search
+SP 433
+OP 444
+
+RT Journal Article
+ID 4414538
+A1 He,Xiaofei
+A1 Cai,Deng
+A1 Han,Jiawei
+YR 2008
+T1 Learning a Maximum Margin Subspace for Image Retrieval
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 20
+SP 189
+OP 201
+IS 2
+
+RT Conference Proceedings
+ID 4272322
+A1 Lee,Jae-gil
+A1 Han,Jiawei
+A1 Li,Xiaolei
+YR 2008
+T1 Trajectory Outlier Detection: A Partition-and-Detect Framework
+SP 140
+OP 149
+
+RT Conference Proceedings
+ID 4272324
+A1 Cheng,Hong
+A1 Yan,Xifeng
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2008
+T1 Direct Discriminative Pattern Mining for Effective Classification
+SP 169
+OP 178
+
+RT Conference Proceedings
+ID 4716087
+A1 Masud,Mohammad,M.
+A1 Gao,Jing
+A1 Khan,Latifur
+A1 Han,Jiawei
+A1 Thuraisingham,Bhavani,M.
+YR 2008
+T1 A Practical Approach to Classify Evolving Data Streams: Training with Limited Amount of Labeled Data
+SP 929
+OP 934
+
+RT Journal Article
+ID 4439872
+A1 Lee,Jae-gil
+A1 Han,Jiawei
+A1 Li,Xiaolei
+A1 Gonzalez,Hector
+YR 2008
+T1 TraClass: trajectory classification using hierarchical region-based and trajectory-based clustering
+JF Proceedings of The Vldb Endowment
+VO 1
+SP 1081
+OP 1094
+IS 1
+
+RT Conference Proceedings
+ID 4315200
+A1 Khan,Mohammad,Maifi,Hasan
+A1 Le,Hieu,Khac
+A1 Ahmadi,Hossein
+A1 Abdelzaher,Tarek,F.
+A1 Han,Jiawei
+YR 2008
+T1 Dustminer: troubleshooting interactive complexity bugs in sensor networks
+SP 99
+OP 112
+
+RT Journal Article
+ID 4414514
+A1 Yin,Xiaoxin
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2008
+T1 Truth Discovery with Multiple Conflicting Information Providers on the Web
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 20
+SP 796
+OP 808
+IS 6
+
+RT Conference Proceedings
+ID 4716033
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Wu,Xiaoyun
+A1 Han,Jiawei
+YR 2008
+T1 Nonnegative Matrix Factorization on Manifold
+SP 63
+OP 72
+
+RT Conference Proceedings
+ID 4296547
+A1 Gao,Jing
+A1 Fan,Wei
+A1 Jiang,Jing
+A1 Han,Jiawei
+YR 2008
+T1 Knowledge transfer via multiple model local structure mapping
+SP 283
+OP 291
+
+RT Conference Proceedings
+ID 4296614
+A1 Fan,Wei
+A1 Zhang,Kun
+A1 Cheng,Hong
+A1 Gao,Jing
+A1 Yan,Xifeng
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+A1 Verscheure,Olivier
+YR 2008
+T1 Direct mining of discriminative and essential frequent patterns via model-based search tree
+SP 230
+OP 238
+
+RT Conference Proceedings
+ID 4716058
+A1 Lin,Cindy,Xinde
+A1 Ding,Bolin
+A1 Han,Jiawei
+A1 Zhu,Feida
+A1 Zhao,Bo
+YR 2008
+T1 Text Cube: Computing IR Measures for Multidimensional Text Database Analysis
+SP 905
+OP 910
+
+RT Conference Proceedings
+ID 4317322
+A1 Wu,Tianyi
+A1 Xin,Dong
+A1 Han,Jiawei
+YR 2008
+T1 ARCube: supporting ranking aggregate queries in partially materialized data cubes
+SP 79
+OP 92
+
+RT Journal Article
+ID 39235120
+A1 Han,Jiawei
+A1 Lee,Jae-Gil
+A1 Gonzalez,Hector
+A1 Li,Xiaolei
+YR 2008
+T1 Mining Massive RFID, Trajectory, and Traffic Data Sets
+
+RT Conference Proceedings
+ID 4296576
+A1 Jiang,Bin
+A1 Pei,Jian
+A1 Lin,Xuemin
+A1 Cheung,David,W.
+A1 Han,Jiawei
+YR 2008
+T1 Mining preferences from superior and inferior examples
+SP 390
+OP 398
+
+RT Conference Proceedings
+ID 4716083
+A1 Chen,Chen
+A1 Yan,Xifeng
+A1 Zhu,Feida
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2008
+T1 Graph OLAP: Towards Online Analytical Processing on Graphs
+SP 103
+OP 112
+
+RT Conference Proceedings
+ID 4272335
+A1 Xin,Dong
+A1 Han,Jiawei
+YR 2008
+T1 P-Cube: Answering Preference Queries in MultiDimensional Space
+SP 1092
+OP 1100
+
+RT Journal Article
+ID 12911038
+A1 Masud,Mohammad,M.
+A1 Gao,Jing
+A1 Khan,Latifur
+A1 Han,Jiawei
+A1 Thuraisingham,Bhavani
+YR 2008
+T1 Peer to peer botnet detection for cyber-security: a data mining approach
+SP 1
+OP 2
+
+RT Journal Article
+ID 4764033
+A1 Gao,Jing
+A1 Ding,Bolin
+A1 Fan,Wei
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2008
+T1 Classifying Data Streams with Skewed Class Distributions and Concept Drifts
+JF IEEE Internet Computing
+VO 12
+SP 37
+OP 49
+IS 6
+
+RT Conference Proceedings
+ID 4242995
+A1 Cai,Deng
+A1 Mei,Qiaozhu
+A1 Han,Jiawei
+A1 Zhai,Chengxiang
+YR 2008
+T1 Modeling hidden topics on document manifold
+SP 911
+OP 920
+
+RT Book, Whole
+ID 4446372
+A1 Cheng,Hong
+A1 Yu,Philip,S.
+A1 Han,Jiawei
+YR 2008
+T1 Approximate Frequent Itemset Mining In the Presence of Random Noise
+
+RT Conference Proceedings
+ID 4317356
+A1 Li,Xiaolei
+A1 Han,Jiawei
+A1 Yin,Zhijun
+A1 Lee,Jae-gil
+A1 Sun,Yizhou
+YR 2008
+T1 Sampling cube: a framework for statistical olap over sampling data
+SP 779
+OP 790
+
+RT Conference Proceedings
+ID 4716016
+A1 Mendes,Luiz,F.
+A1 Ding,Bolin
+A1 Han,Jiawei
+YR 2008
+T1 Stream Sequential Pattern Mining with Precise Error Bounds
+SP 941
+OP 946
+
+RT Journal Article
+ID 4765487
+A1 Ling,Xu
+A1 He,Xin
+A1 Xin,Dong
+A1 Han,Jiawei
+YR 2008
+T1 Efficiently Identifying Max-Gap Clusters in Pairwise Genome Comparison
+JF Journal of Computational Biology
+VO 15
+SP 593
+OP 609
+IS 6
+
+RT Conference Proceedings
+ID 4313726
+A1 Yuan,Ding
+A1 Lee,Kyuhyung
+A1 Cheng,Hong
+A1 Krishna,Gopal
+A1 Li,Zhenmin
+A1 Ma,Xiao
+A1 Zhou,Yuanyuan
+A1 Han,Jiawei
+YR 2008
+T1 CISpan: Comprehensive Incremental Mining Algorithms of Closed Sequential Patterns for Multi-Versional Software Mining
+SP 84
+OP 95
+
+RT Conference Proceedings
+ID 4230115
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Han,Jiawei
+YR 2008
+T1 Sparse Projections over Graph
+SP 610
+OP 615
+
+RT Conference Proceedings
+ID 4317337
+A1 Sun,Yizhou
+A1 Wu,Tianyi
+A1 Yin,Zhijun
+A1 Cheng,Hong
+A1 Han,Jiawei
+A1 Yin,Xiaoxin
+A1 Zhao,Peixiang
+YR 2008
+T1 BibNetMiner: mining bibliographic information networks
+SP 1341
+OP 1344
+
+RT Conference Proceedings
+ID 4243036
+A1 Chen,Chen
+A1 Lin,Cindy,Xide
+A1 Yan,Xifeng
+A1 Han,Jiawei
+YR 2008
+T1 On effective presentation of graph patterns: a structural representative approach
+SP 299
+OP 308
+
+RT Conference Proceedings
+ID 4313735
+A1 Kim,Sangkyum
+A1 Jin,Xin
+A1 Han,Jiawei
+YR 2008
+T1 SpaRClus: Spatial Relationship Pattern-Based Hierarchial Clustering
+SP 49
+OP 60
+
+RT Journal Article
+ID 4442896
+A1 Han,Jiawei
+YR 2008
+T1 OLAP, Spatial
+
+RT Book, Whole
+ID 4291868
+A1 Yin,Xiaoxin
+A1 Han,Jiawei
+YR 2008
+T1 Exploring the Power of Heuristics and Links in Multi-relational Data Mining
+SP 17
+OP 27
+
+RT Journal Article
+ID 4771831
+A1 Liu,Chao
+A1 Zhang,Xiangyu
+A1 Han,Jiawei
+YR 2008
+T1 A Systematic Study of Failure Proximity
+JF IEEE Transactions on Software Engineering
+VO 34
+SP 826
+OP 843
+IS 6
+
+RT Conference Proceedings
+ID 4272167
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Han,Jiawei
+YR 2008
+T1 Training Linear Discriminant Analysis in Linear Time
+SP 209
+OP 217
+
+RT Conference Proceedings
+ID 4703523
+A1 Han,Jiawei
+YR 2008
+T1 Data mining for image/video processing: a promising research frontier
+SP 1
+OP 2
+
+RT Journal Article
+ID 4931765
+A1 Borgwardt,Karsten
+A1 Yan,Xifeng
+A1 Cheng,Hong
+A1 Gretton,Arthur
+A1 Song,Le
+A1 Smola,Alex
+A1 Han,Jiawei
+A1 Yu,Philip
+A1 Kriegel,Hans-Peter
+YR 2008
+T1 Combining near-optimal feature selection with gSpan
+
+RT Book, Whole
+ID 4445607
+A1 Li,Xiaolei
+A1 Han,Jiawei
+A1 Kim,Sangkyum
+A1 Gonzalez,Hector
+YR 2008
+T1 Anomaly Detection in Moving Object
+
+RT Book, Whole
+ID 13761120
+A1 Abdelzaher,Tarek,F.
+A1 Khan,Mohammad,Maifi,Hasan
+A1 Le,Hieu,Khac
+A1 Ahmadi,Hossein
+A1 Han,Jiawei
+YR 2008
+T1 Data Mining for Diagnostic Debugging in Sensor Networks: Preliminary Evidence and Lessons Learned
+SP 1
+OP 24
+
+RT Journal Article
+ID 4766587
+A1 Jeong,Ok-ran
+A1 Han,Jiawei
+A1 Kim,Won
+A1 Lee,Eunseok
+YR 2008
+T1 On Having Search Engines Deliver Hierarchies of Web Pages
+JF Journal of Object Technology
+VO 7
+SP 33
+OP 41
+IS 4
+
+RT Conference Proceedings
+ID 4323923
+A1 Kim,Sangkyum
+A1 Kim,Jaebum
+A1 Ko,Younhee
+A1 Hwang,Seung-won
+A1 Han,Jiawei
+YR 2008
+T1 PerRank: Personalized Rank Retrieval with Categorical and Numerical Attributes
+SP 270
+OP 277
+
+RT Journal Article
+ID 4375444
+A1 Han,Jiawei
+A1 Cheng,Hong
+A1 Xin,Dong
+A1 Yan,Xifeng
+YR 2007
+T1 Frequent pattern mining: current status and future directions
+JF Data Mining and Knowledge Discovery
+VO 15
+SP 55
+OP 86
+IS 1
+
+RT Conference Proceedings
+ID 2472754
+A1 Lee,Jae-gil
+A1 Han,Jiawei
+A1 Whang,Kyu-young
+YR 2007
+T1 Trajectory clustering: a partition-and-group framework
+SP 593
+OP 604
+
+RT Conference Proceedings
+ID 4271470
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Han,Jiawei
+YR 2007
+T1 Semi-supervised Discriminant Analysis
+SP 1
+OP 7
+
+RT Conference Proceedings
+ID 2436964
+A1 Cheng,Hong
+A1 Yan,Xifeng
+A1 Han,Jiawei
+A1 Hsu,Chih-wei
+YR 2007
+T1 Discriminative Frequent Pattern Analysis for Effective Classification
+SP 716
+OP 725
+
+RT Conference Proceedings
+ID 2446295
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Zhou,Kun
+A1 Han,Jiawei
+A1 Bao,Hujun
+YR 2007
+T1 Locality Sensitive Discriminant Analysis
+SP 708
+OP 713
+
+RT Conference Proceedings
+ID 4296440
+A1 Yin,Xiaoxin
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2007
+T1 Truth discovery with multiple conflicting information providers on the web
+SP 1048
+OP 1052
+
+RT Conference Proceedings
+ID 4248106
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Hu,Yuxiao
+A1 Han,Jiawei
+A1 Huang,Thomas,S.
+YR 2007
+T1 Learning a Spatially Smooth Subspace for Face Recognition
+
+RT Conference Proceedings
+ID 4271305
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Han,Jiawei
+YR 2007
+T1 Spectral Regression for Efficient Regularized Subspace Learning
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 4322787
+A1 Gonzalez,Hector
+A1 Han,Jiawei
+A1 Li,Xiaolei
+A1 Myslinska,Margaret
+A1 Sondag,John,Paul
+YR 2007
+T1 Adaptive Fastest Path Computation on a Road Network: A Traffic Mining Approach
+SP 794
+OP 805
+
+RT Journal Article
+ID 2508357
+A1 Pei,Jian
+A1 Han,Jiawei
+A1 Wang,Wei
+YR 2007
+T1 Constraint-based sequential pattern mining: the pattern-growth methods
+JF Journal of Intelligent Information Systems
+VO 28
+SP 133
+OP 160
+IS 2
+
+RT Journal Article
+ID 4414528
+A1 Wang,Jianyong
+A1 Han,Jiawei
+A1 Li,Chun
+YR 2007
+T1 Frequent Closed Sequence Mining without Candidate Maintenance
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 19
+SP 1042
+OP 1056
+IS 8
+
+RT Book, Whole
+ID 4319819
+A1 Li,Xiaolei
+A1 Han,Jiawei
+A1 Lee,Jae-gil
+A1 Gonzalez,Hector
+YR 2007
+T1 Traffic Density-Based Discovery of Hot Routes in Road Networks
+SP 441
+OP 459
+
+RT Conference Proceedings
+ID 2472695
+A1 Xin,Dong
+A1 Han,Jiawei
+A1 Chang,Kevin,Chen-chuan
+YR 2007
+T1 Progressive and selective merge: computing top-k with ad-hoc ranking functions
+SP 103
+OP 114
+
+RT Conference Proceedings
+ID 4272494
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Han,Jiawei
+YR 2007
+T1 Efficient Kernel Discriminant Analysis via Spectral Regression
+SP 427
+OP 432
+
+RT Conference Proceedings
+ID 4302073
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Han,Jiawei
+YR 2007
+T1 Spectral regression: a unified subspace learning framework for content-based image retrieval
+SP 403
+OP 412
+
+RT Conference Proceedings
+ID 4313676
+A1 Gao,Jing
+A1 Fan,Wei
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2007
+T1 A General Framework for Mining Concept-Drifting Data Streams with Skewed Distributions
+
+RT Conference Proceedings
+ID 4242684
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Zhang,Wei,Vivian
+A1 Han,Jiawei
+YR 2007
+T1 Regularized locality preserving indexing via spectral regression
+SP 741
+OP 750
+
+RT Conference Proceedings
+ID 2437047
+A1 Yin,Xiaoxin
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2007
+T1 Object Distinction: Distinguishing Objects with Identical Names
+SP 1242
+OP 1246
+
+RT Conference Proceedings
+ID 2437062
+A1 Zhu,Feida
+A1 Yan,Xifeng
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+A1 Cheng,Hong
+YR 2007
+T1 Mining Colossal Frequent Patterns by Core Pattern Fusion
+SP 706
+OP 715
+
+RT Conference Proceedings
+ID 4313693
+A1 Li,Xiaolei
+A1 Han,Jiawei
+A1 Kim,Sangkyum
+A1 Gonzalez,Hector
+YR 2007
+T1 ROAM: Rule and Motif-Based Anomaly Detection in Massive Moving Object Data Sets
+
+RT Conference Proceedings
+ID 4229584
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Han,Jiawei
+YR 2007
+T1 Isometric Projection
+SP 528
+OP 533
+
+RT Journal Article
+ID 2494310
+A1 Xin,Dong
+A1 Han,Jiawei
+A1 Yan,Xifeng
+A1 Cheng,Hong
+YR 2007
+T1 On compressing frequent patterns
+JF Data & Knowledge Engineering
+VO 60
+SP 5
+OP 29
+IS 1
+
+RT Conference Proceedings
+ID 4272500
+A1 Gao,Jing
+A1 Fan,Wei
+A1 Han,Jiawei
+YR 2007
+T1 On Appropriate Assumptions to Mine Data Streams: Analysis and Practice
+SP 143
+OP 152
+
+RT Conference Proceedings
+ID 4272514
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Han,Jiawei
+YR 2007
+T1 Spectral Regression: A Unified Approach for Sparse Subspace Learning
+SP 73
+OP 82
+
+RT Conference Proceedings
+ID 2436966
+A1 Gonzalez,Hector
+A1 Han,Jiawei
+A1 Shen,Xuehua
+YR 2007
+T1 Cost-Conscious Cleaning of Massive RFID Data Sets
+SP 1268
+OP 1272
+
+RT Conference Proceedings
+ID 4322763
+A1 Chen,Chen
+A1 Yan,Xifeng
+A1 Yu,Philip,S.
+A1 Han,Jiawei
+A1 Zhang,Dong-qing
+A1 Gu,Xiaohui
+YR 2007
+T1 Towards Graph Containment Search and Indexing
+SP 926
+OP 937
+
+RT Book, Whole
+ID 4308501
+A1 Wu,Tianyi
+A1 Chen,Yuguo
+A1 Han,Jiawei
+YR 2007
+T1 Association Mining in Large Databases: A Re-examination of Its Measures
+SP 621
+OP 628
+
+RT Conference Proceedings
+ID 2437030
+A1 Jin,Wen
+A1 Ester,Martin
+A1 Hu,Zengjian
+A1 Han,Jiawei
+YR 2007
+T1 The Multi-Relational Skyline Operator
+SP 1276
+OP 1280
+
+RT Journal Article
+ID 4375447
+A1 Yin,Xiaoxin
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2007
+T1 CrossClus: user-guided multi-relational clustering
+JF Data Mining and Knowledge Discovery
+VO 15
+SP 321
+OP 348
+IS 3
+
+RT Book, Whole
+ID 2466084
+A1 Zhu,Feida
+A1 Yan,Xifeng
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2007
+T1 gPrune: A Constraint Pushing Framework for Graph Pattern Mining
+SP 388
+OP 400
+
+RT Journal Article
+ID 2517054
+A1 Xin,Dong
+A1 Han,Jiawei
+A1 Li,Xiaolei
+A1 Shao,Zheng
+A1 Wah,Benjamin,W.
+YR 2007
+T1 Computing Iceberg Cubes by Top-Down and Bottom-Up Integration: The StarCubing Approach
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 19
+SP 111
+OP 126
+IS 1
+
+RT Conference Proceedings
+ID 4272558
+A1 Chent,Chen
+A1 Yan,Xifeng
+A1 Zhu,Feida
+A1 Han,Jiawei
+YR 2007
+T1 gApprox: Mining Frequent Approximate Patterns from a Massive Network
+SP 445
+OP 450
+
+RT Conference Proceedings
+ID 4322725
+A1 Li,Xiaolei
+A1 Han,Jiawei
+YR 2007
+T1 Mining Approximate Top-K Subspace Anomalies in MultiDimensional Time-Series Data
+SP 447
+OP 458
+
+RT Conference Proceedings
+ID 4322736
+A1 Wu,Tianyi
+A1 Li,Xiaolei
+A1 Xin,Dong
+A1 Han,Jiawei
+A1 Lee,Jacob
+A1 Redder,Ricardo
+YR 2007
+T1 DataScope: Viewing Database Contents in Google Maps' Way
+SP 1314
+OP 1317
+
+RT Conference Proceedings
+ID 4731016
+A1 Wang,Xiaoyu
+A1 Liu,Hongyan
+A1 Han,Jiawei
+YR 2007
+T1 Finding frequent items in data streams using hierarchical information
+SP 431
+OP 436
+
+RT Journal Article
+ID 4426492
+A1 Mei,Qiaozhu
+A1 Xin,Dong
+A1 Cheng,Hong
+A1 Han,Jiawei
+A1 Zhai,Chengxiang
+YR 2007
+T1 Semantic annotation of frequent patterns
+JF ACM Transactions on Knowledge Discovery From Data
+VO 1
+SP 11
+IS 3
+
+RT Conference Proceedings
+ID 4272504
+A1 Zhu,Feida
+A1 Yan,Xifeng
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2007
+T1 Efficient Discovery of Frequent Approximate Sequential Patterns
+SP 751
+OP 756
+
+RT Journal Article
+ID 6170943
+A1 Pei,Jian
+A1 Han,Jiawei
+A1 Lu,Hongjun
+A1 Nishio,Shojiro
+A1 Tang,Shiwei
+A1 Yang,Dongqing
+YR 2007
+T1 H-Mine: Fast and space-preserving frequent pattern mining in large databases
+JF Iie Transactions
+VO 39
+SP 593
+OP 605
+IS 6
+
+RT Book, Whole
+ID 2466126
+A1 Han,Jiawei
+YR 2007
+T1 Research Frontiers in Advanced Data Mining Technologies and Applications
+SP 1
+OP 5
+
+RT Conference Proceedings
+ID 2473766
+A1 Jin,Wen
+A1 Tung,Anthony,K.,H.
+A1 Ester,Martin
+A1 Han,Jiawei
+YR 2007
+T1 On Efficient Processing of Subspace Skyline Queries on High Dimensional Data
+SP 12
+OP 12
+
+RT Conference Proceedings
+ID 4282751
+A1 Liu,Xiangyu,Zhang,Chao
+A1 Zhang,Yu
+A1 Han,Jiawei
+A1 Bhargava,Bharat,K.
+YR 2007
+T1 Indexing Noncrashing Failures: A Dynamic Program Slicing-Based Approach
+SP 455
+OP 464
+
+RT Conference Proceedings
+ID 4301464
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Han,Jiawei
+YR 2007
+T1 Regularized regression on image manifold for retrieval
+SP 11
+OP 20
+
+RT Journal Article
+ID 51172469
+A1 Xin,Dong
+A1 Han,Jiawei
+A1 Li,Xiaolei
+A1 Shao,Zheng
+A1 Wah,Benjamin,W.
+YR 2007
+T1 Computing Iceberg Cubes by Top-Down and Bottom-Up Integration: The StarCubing Approach
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 19
+SP 111
+OP 126
+IS 1
+
+RT Journal Article
+ID 6066007
+A1 Kim,Chulyun
+A1 Kim,Sangkyum
+A1 Dorer,Russell
+A1 Xie,Dan
+A1 Han,Jiawei
+A1 Zhong,Sheng
+YR 2007
+T1 TagSmart: analysis and visualization for yeast mutant fitness data measured by tag microarrays
+JF BMC Bioinformatics
+VO 8
+SP 128
+OP 9
+IS 1
+
+RT Conference Proceedings
+ID 4272086
+A1 Xin,Dong
+A1 Han,Jiawei
+YR 2007
+T1 Integrating OLAP and Ranking: The Ranking-Cube Methodology
+SP 253
+OP 256
+
+RT Book, Whole
+ID 2475778
+A1 Han,Jiawei
+YR 2007
+T1 Exploring the Power of Links in Data Mining
+SP 2
+
+RT Conference Proceedings
+ID 4339913
+A1 Han,Jiawei
+YR 2007
+T1 Mining, Indexing, and Searching Graphs in Large Data Sets
+
+RT Journal Article
+ID 2516492
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Han,Jiawei
+A1 Zhang,Hong-Jiang
+YR 2006
+T1 Orthogonal Laplacianfaces for Face Recognition
+JF IEEE Transactions on Image Processing
+VO 15
+SP 3608
+OP 3614
+IS 11
+
+RT Conference Proceedings
+ID 1796075
+A1 Gonzalez,Hector
+A1 Han,Jiawei
+A1 Li,Xiaolei
+A1 Klabjan,Diego
+YR 2006
+T1 Warehousing and Analyzing Massive RFID Data Sets
+SP 83
+
+RT Conference Proceedings
+ID 2186906
+A1 Gonzalez,Hector
+A1 Han,Jiawei
+A1 Li,Xiaolei
+YR 2006
+T1 FlowCube: Constructuing RFID FlowCubes for MultiDimensional Analysis of Commodity Flows
+SP 834
+OP 845
+
+RT Conference Proceedings
+ID 2186970
+A1 Yin,Xiaoxin
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2006
+T1 LinkClus: Efficient Clustering via Heterogeneous Semantic Links
+SP 427
+OP 438
+
+RT Journal Article
+ID 2517871
+A1 Liu,Chao
+A1 Fei,Long
+A1 Yan,Xifeng
+A1 Han,Jiawei
+A1 Midkiff,Samuel,P.
+YR 2006
+T1 Statistical Debugging: A Hypothesis Testing-Based Approach
+JF IEEE Transactions on Software Engineering
+VO 32
+SP 831
+OP 848
+IS 10
+
+RT Conference Proceedings
+ID 2461393
+A1 Liu,Chao
+A1 Chen,Chen
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2006
+T1 GPLAG: detection of software plagiarism by program dependence graph analysis
+SP 872
+OP 881
+
+RT Conference Proceedings
+ID 2472827
+A1 Liu,Chao
+A1 Han,Jiawei
+YR 2006
+T1 Failure proximity: a fault localization-based approach
+SP 46
+OP 56
+
+RT Conference Proceedings
+ID 2461436
+A1 Xin,Dong
+A1 Cheng,Hong
+A1 Yan,Xifeng
+A1 Han,Jiawei
+YR 2006
+T1 Extracting redundancy-aware top-k patterns
+SP 444
+OP 453
+
+RT Book, Whole
+ID 1840676
+A1 Jin,Wen
+A1 Tung,Anthony,K.,H.
+A1 Han,Jiawei
+A1 Wang,Wei
+YR 2006
+T1 Ranking Outliers Using Symmetric Neighborhood Relationship
+SP 577
+OP 593
+
+RT Conference Proceedings
+ID 2422206
+A1 Gonzalez,Hector
+A1 Han,Jiawei
+A1 Li,Xiaolei
+YR 2006
+T1 Mining compressed commodity workflows from massive RFID data sets
+SP 162
+OP 171
+
+RT Conference Proceedings
+ID 2461399
+A1 Mei,Qiaozhu
+A1 Xin,Dong
+A1 Cheng,Hong
+A1 Han,Jiawei
+A1 Zhai,Chengxiang
+YR 2006
+T1 Generating semantic annotations for frequent patterns with context analysis
+SP 337
+OP 346
+
+RT Conference Proceedings
+ID 2186908
+A1 Xin,Dong
+A1 Han,Jiawei
+A1 Cheng,Hong
+A1 Li,Xiaolei
+YR 2006
+T1 Answering Top-k Queries with MultiDimensional Selections: The Ranking Cube Approach
+SP 463
+OP 475
+
+RT Conference Proceedings
+ID 2195154
+A1 Chakrabarti,Kaushik
+A1 Ganti,Venkatesh
+A1 Han,Jiawei
+A1 Xin,Dong
+YR 2006
+T1 Ranking objects based on relationships
+SP 371
+OP 382
+
+RT Journal Article
+ID 1720351
+A1 Aggarwal,Charu,C.
+A1 Han,Jiawei
+A1 Wang,Jianyong
+A1 Yu,Philip,S.
+YR 2006
+T1 A Framework for On-Demand Classification of Evolving Data Streams
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 18
+SP 577
+OP 589
+IS 5
+
+RT Conference Proceedings
+ID 2164021
+A1 Liu,Chao
+A1 Yan,Xifeng
+A1 Han,Jiawei
+YR 2006
+T1 Mining Control Flow Abnormality for Logic Error Isolation
+
+RT Book, Whole
+ID 2201078
+A1 Han,Jiawei
+A1 Gonzalez,Hector
+A1 Li,Xiaolei
+A1 Klabjan,Diego
+YR 2006
+T1 Warehousing and Mining Massive RFID Data Sets
+SP 1
+OP 18
+
+RT Conference Proceedings
+ID 1795948
+A1 Xin,Dong
+A1 Shao,Zheng
+A1 Han,Jiawei
+A1 Liu,Hongyan
+YR 2006
+T1 C-Cubing: Efficient Computation of Closed Cubes by Aggregation-Based Checking
+SP 4
+
+RT Conference Proceedings
+ID 1796044
+A1 Yan,Xifeng
+A1 Zhu,Feida
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2006
+T1 Searching Substructures with Superimposed Distance
+SP 88
+
+RT Conference Proceedings
+ID 2186886
+A1 Xin,Dong
+A1 Chen,Chen
+A1 Han,Jiawei
+YR 2006
+T1 Towards Robust Indexing for Ranked Queries
+SP 235
+OP 246
+
+RT Journal Article
+ID 2516979
+A1 Chen,Yixin
+A1 Dong,Guozhu
+A1 Han,Jiawei
+A1 Pei,Jian
+A1 Wah,Benjamin,W.
+A1 Wang,Jianyong
+YR 2006
+T1 Regression Cubes with Lossless Compression and Aggregation
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 18
+SP 1585
+OP 1599
+IS 12
+
+RT Journal Article
+ID 1720357
+A1 Yin,Xiaoxin
+A1 Han,Jiawei
+A1 Yang,Jiong
+A1 Yu,Philip,S.
+YR 2006
+T1 Efficient Classification across Multiple Database Relations: A CrossMine Approach
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 18
+SP 770
+OP 783
+IS 6
+
+RT Book, Whole
+ID 1774334
+A1 Li,Xiaolei
+A1 Han,Jiawei
+A1 Kim,Sangkyum
+YR 2006
+T1 Motion-Alert: Automatic Anomaly Detection in Massive Moving Objects
+SP 166
+OP 177
+
+RT Conference Proceedings
+ID 2437218
+A1 Cheng,Hong
+A1 Yu,Philip,S.
+A1 Han,Jiawei
+YR 2006
+T1 AC-Close: Efficiently Mining Approximate Closed Itemsets by Core Pattern Recovery
+SP 839
+OP 844
+
+RT Conference Proceedings
+ID 2461438
+A1 Xin,Dong
+A1 Shen,Xuehua
+A1 Mei,Qiaozhu
+A1 Han,Jiawei
+YR 2006
+T1 Discovering interesting patterns through user's interactive feedback
+SP 773
+OP 778
+
+RT Conference Proceedings
+ID 2437236
+A1 Liu,Chao
+A1 Lian,Zeng
+A1 Han,Jiawei
+YR 2006
+T1 How Bayesians Debug
+SP 382
+OP 393
+
+RT Journal Article
+ID 2517261
+A1 Yan,Xifeng
+A1 Zhu,Feida
+A1 Yu,Philip,S.
+A1 Han,Jiawei
+YR 2006
+T1 Feature-based similarity search in graph structures
+JF ACM Transactions on Database Systems
+VO 31
+SP 1418
+OP 1453
+IS 4
+
+RT Journal Article
+ID 2181326
+A1 Pan,Fei
+A1 Kamath,Kiran
+A1 Zhang,Kangyu
+A1 Pulapura,Sudip
+A1 Achar,Avinash
+A1 Nunez-iglesias,Juan
+A1 Huang,Yu
+A1 Yan,Xifeng
+A1 Han,Jiawei
+A1 Hu,Haiyan
+A1 Xu,Min
+A1 Hu,Jianjun
+A1 Zhou,Xianghong,Jasmine
+YR 2006
+T1 Integrative Array Analyzer: a software package for analysis of cross-platform and cross-species microarray data
+JF Bioinformatics/computer Applications in The Biosciences
+VO 22
+SP 1665
+OP 1667
+IS 13
+
+RT Conference Proceedings
+ID 2191744
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Han,Jiawei
+YR 2006
+T1 Tensor space model for document analysis
+SP 625
+OP 626
+
+RT Book, Whole
+ID 2187102
+A1 Liu,Hongyan
+A1 Lu,Ying
+A1 Han,Jiawei
+A1 He,Jun
+YR 2006
+T1 Error-Adaptive and Time-Aware Maintenance of Frequency Counts over Data Streams
+SP 484
+OP 495
+
+RT Journal Article
+ID 3319361
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Han,Jiawei
+YR 2006
+T1 Learning with Tensor Representation
+
+RT Conference Proceedings
+ID 2164055
+A1 Liu,Hongyan
+A1 Han,Jiawei
+A1 Xin,Dong
+A1 Shao,Zheng
+YR 2006
+T1 Mining Interesting Patterns from Very High Dimensional Data: A Top-Down Row Enumeration Approach
+
+RT Journal Article
+ID 1720399
+A1 Wang,Jianyong
+A1 Han,Jiawei
+A1 Pei,Jian
+YR 2006
+T1 Closed Constrained Gradient Mining in Retail Databases
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 18
+SP 764
+OP 769
+IS 6
+
+RT Journal Article
+ID 3819799
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Wen,Ji-Rong
+A1 Han,Jiawei
+A1 Ma,Wei-Ying
+YR 2006
+T1 Support Tensor Machines for Text Categorization
+
+RT Conference Proceedings
+ID 1795939
+A1 Liu,Hongyan
+A1 Han,Jiawei
+A1 Xin,Dong
+A1 Shao,Zheng
+YR 2006
+T1 Top-Down Mining of Interesting Patterns from Very High Dimensional Data
+SP 114
+
+RT Conference Proceedings
+ID 1796053
+A1 Aggarwal,Charu,C.
+A1 Chen,Chen
+A1 Han,Jiawei
+YR 2006
+T1 On the Inverse Classification Problem and its Applications
+SP 111
+
+RT Journal Article
+ID 3666734
+A1 Cai,Deng
+A1 Han,Jiawei
+YR 2006
+T1 Regularized Locality Preserving Projections with Two-Dimensional Discretized Laplacian Smoothing
+
+RT Conference Proceedings
+ID 1795976
+A1 Han,Jiawei
+A1 Yan,Xifeng
+A1 Yu,Philip,S.
+YR 2006
+T1 Mining, Indexing, and Similarity Search in Graphs and Complex Structures
+SP 106
+
+RT Journal Article
+ID 4518488
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Han,Jiawei
+YR 2006
+T1 Semi-Supervised Regression using Spectral Techniques
+
+RT Journal Article
+ID 39249929
+A1 Yan,Xifeng
+A1 Zhu,Feida
+A1 Yu,Philip,S.
+A1 Han,Jiawei
+YR 2006
+T1 Feature-based similarity search in graph structures
+JF ACM Transactions on Database Systems
+SP 1418
+OP 1453
+
+RT Journal Article
+ID 2178561
+A1 Pei,Jian
+A1 Han,Jiawei
+A1 Lakshmanan,Laks,V.,S.
+YR 2006
+T1 An Erratum on "Pushing Convertible Constraints in Frequent Itemset Mining
+JF Data Mining and Knowledge Discovery
+VO 12
+SP 119
+IS 1
+
+RT Journal Article
+ID 15277085
+A1 Pei,Jian
+A1 Han,Jiawei
+A1 Lakshmanan,Laks,V.,S.
+YR 2006
+T1 An Erratum on #x201C;Pushing Convertible Constraints in Frequent Itemset Mining#x201D
+JF Data Mining and Knowledge Discovery
+VO 12
+SP 119
+OP 119
+IS 1
+
+RT Conference Proceedings
+ID 1845547
+A1 Liu,Chao
+A1 Yan,Xifeng
+A1 Fei,Long
+A1 Han,Jiawei
+A1 Midkiff,Samuel,P.
+YR 2005
+T1 SOBER: statistical model-based bug localization
+SP 286
+OP 295
+
+RT Conference Proceedings
+ID 1807260
+A1 Hu,Haiyan
+A1 Yan,Xifeng
+A1 Huang,Yu
+A1 Han,Jiawei
+A1 Zhou,Xianghong,Jasmine
+YR 2005
+T1 Mining coherent dense subgraphs across massive biological networks for functional discovery
+VO 21
+SP 213
+OP 221
+IS suppl_1
+
+RT Journal Article
+ID 1653042
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Han,Jiawei
+YR 2005
+T1 Document Clustering Using Locality Preserving Indexing
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 17
+SP 1624
+OP 1637
+IS 12
+
+RT Conference Proceedings
+ID 1817237
+A1 Xin,Dong
+A1 Han,Jiawei
+A1 Yan,Xifeng
+A1 Cheng,Hong
+YR 2005
+T1 Mining Compressed Frequent-Pattern Sets
+SP 709
+OP 720
+
+RT Conference Proceedings
+ID 1856398
+A1 Yan,Xifeng
+A1 Yu,Philip,S.
+A1 Han,Jiawei
+YR 2005
+T1 Substructure similarity search in graph databases
+SP 766
+OP 777
+
+RT Conference Proceedings
+ID 1775258
+A1 Yan,Xifeng
+A1 Cheng,Hong
+A1 Han,Jiawei
+A1 Xin,Dong
+YR 2005
+T1 Summarizing itemset patterns: a profile-based approach
+SP 314
+OP 323
+
+RT Journal Article
+ID 1653110
+A1 Wang,Jianyong
+A1 Han,Jiawei
+A1 Lu,Ying
+A1 Tzvetkov,Petre
+YR 2005
+T1 TFP: An Efficient Algorithm for Mining Top-K Frequent Closed Itemsets
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 17
+SP 652
+OP 664
+IS 5
+
+RT Journal Article
+ID 1698353
+A1 Han,Jiawei
+A1 Chen,Yixin
+A1 Dong,Guozhu
+A1 Pei,Jian
+A1 Wah,Benjamin,W.
+A1 Wang,Jianyong
+A1 Cai,Y.,Dora
+YR 2005
+T1 Stream Cube: An Architecture for MultiDimensional Analysis of Data Streams
+JF Distributed and Parallel Databases
+VO 18
+SP 173
+OP 197
+IS 2
+
+RT Conference Proceedings
+ID 1775243
+A1 Yan,Xifeng
+A1 Zhou,Xianghong,Jasmine
+A1 Han,Jiawei
+YR 2005
+T1 Mining closed relational graphs with connectivity constraints
+SP 324
+OP 333
+
+RT Journal Article
+ID 3391733
+A1 Cai,Deng
+A1 Shao,Zheng
+A1 He,Xiaofei
+A1 Yan,Xifeng
+A1 Han,Jiawei
+YR 2005
+T1 Mining hidden community in heterogeneous social networks
+SP 58
+OP 65
+
+RT Book, Whole
+ID 1812767
+A1 Cai,Deng
+A1 Shao,Zheng
+A1 He,Xiaofei
+A1 Yan,Xifeng
+A1 Han,Jiawei
+YR 2005
+T1 Community Mining from Multi-relational Networks
+SP 445
+OP 452
+
+RT Journal Article
+ID 1720475
+A1 Yan,Xifeng
+A1 Yu,Philip,S.
+A1 Han,Jiawei
+YR 2005
+T1 Graph indexing based on discriminative frequent structure analysis
+JF ACM Transactions on Database Systems
+VO 30
+SP 960
+OP 993
+IS 4
+
+RT Conference Proceedings
+ID 1778700
+A1 Liu,Chao
+A1 Yan,Xifeng
+A1 Yu,Hwanjo
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2005
+T1 Mining Behavior Graphs for "Backtrace" of Noncrashing Bugs
+
+RT Conference Proceedings
+ID 1775250
+A1 Cong,Shengnan
+A1 Han,Jiawei
+A1 Padua,David,A.
+YR 2005
+T1 Parallel mining of closed sequential patterns
+SP 562
+OP 567
+
+RT Conference Proceedings
+ID 1775193
+A1 Yin,Xiaoxin
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2005
+T1 Cross-relational clustering with user's guidance
+SP 344
+OP 353
+
+RT Journal Article
+ID 1718027
+A1 Tzvetkov,Petre
+A1 Yan,Xifeng
+A1 Han,Jiawei
+YR 2005
+T1 TSP: Mining top-k closed sequential patterns
+JF Knowledge and Information Systems
+VO 7
+SP 438
+OP 457
+IS 4
+
+RT Journal Article
+ID 1722323
+A1 Yu,Hwanjo
+A1 Yang,Jiong
+A1 Han,Jiawei
+A1 Li,Xiaolei
+YR 2005
+T1 Making SVMs Scalable to Large Data Sets using Hierarchical Cluster Indexing
+JF Data Mining and Knowledge Discovery
+VO 11
+SP 295
+OP 321
+IS 3
+
+RT Journal Article
+ID 4051736
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Han,Jiawei
+YR 2005
+T1 Using Graph Model for Face Analysis
+
+RT Conference Proceedings
+ID 4137627
+A1 Liu,Hongyan
+A1 Yin,Xiaoxin
+A1 Han,Jiawei
+YR 2005
+T1 An efficient multi-relational Naïve Bayesian classifier based on semantic relationship graph
+SP 39
+OP 48
+
+RT Conference Proceedings
+ID 1764909
+A1 He,Xiaofei
+A1 Cai,Deng
+A1 Liu,Haifeng
+A1 Han,Jiawei
+YR 2005
+T1 Image clustering with tensor representation
+SP 132
+OP 140
+
+RT Book, Whole
+ID 1908376
+A1 Bajcsy,Peter
+A1 Han,Jiawei
+A1 Liu,Lei
+A1 Yang,Jiong
+YR 2005
+T1 Survey of Biodata Analysis from a Data Mining Perspective
+JF International Journal of Data Mining and Bioinformatics
+
+RT Journal Article
+ID 1722317
+A1 Aggarwal,Charu,C.
+A1 Han,Jiawei
+A1 Wang,Jianyong
+A1 Yu,Philip,S.
+YR 2005
+T1 On High Dimensional Projected Clustering of Data Streams
+JF Data Mining and Knowledge Discovery
+VO 10
+SP 251
+OP 273
+IS 3
+
+RT Journal Article
+ID 2381933
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Han,Jiawei
+YR 2005
+T1 Subspace Learning Based on Tensor Analysis
+
+RT Conference Proceedings
+ID 1856437
+A1 Wang,Wei
+A1 Wang,Chen
+A1 Zhu,Yongtai
+A1 Shi,Baile
+A1 Pei,Jian
+A1 Yan,Xifeng
+A1 Han,Jiawei
+YR 2005
+T1 GraphMiner: a structural pattern-mining system for large disk-based graph databases and its applications
+SP 879
+OP 881
+
+RT Conference Proceedings
+ID 1778691
+A1 Cheng,Hong
+A1 Yan,Xifeng
+A1 Han,Jiawei
+YR 2005
+T1 SeqIndex: Indexing Sequences by Sequential Pattern Analysis
+
+RT Journal Article
+ID 1653087
+A1 Wang,Ke
+A1 Jiang,Yuelong
+A1 Yu,Jeffrey,Xu
+A1 Dong,Guozhu
+A1 Han,Jiawei
+YR 2005
+T1 Divide-and-Approximate: A Novel Constraint Push Strategy for Iceberg Cube Mining
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 17
+SP 354
+OP 368
+IS 3
+
+RT Conference Proceedings
+ID 1841630
+A1 Cong,Shengnan
+A1 Han,Jiawei
+A1 Hoeflinger,Jay
+A1 Padua,David,A.
+YR 2005
+T1 A sampling-based framework for parallel data mining
+SP 255
+OP 265
+
+RT Conference Proceedings
+ID 1842854
+A1 Yin,Xiaoxin
+A1 Han,Jiawei
+A1 Yang,Jiong
+YR 2005
+T1 Searching for Related Objects in Relational Databases
+SP 227
+OP 236
+
+RT Book, Whole
+ID 1812746
+A1 Yin,Xiaoxin
+A1 Han,Jiawei
+YR 2005
+T1 Efficient Classification from Multiple Heterogeneous Databases
+SP 404
+OP 416
+
+RT Book, Whole
+ID 1812736
+A1 Jin,Wen
+A1 Ester,Martin
+A1 Han,Jiawei
+YR 2005
+T1 Efficient Processing of Ranked Queries with Sweeping Selection
+SP 527
+OP 535
+
+RT Journal Article
+ID 14414617
+A1 Liu,Chao
+A1 Yan,Xifeng
+A1 Fei,Long
+A1 Han,Jiawei
+A1 Midkiff,Samuel,P.
+YR 2005
+T1 SOBER: statistical model-based bug localization
+JF ACM Sigsoft Software Engineering Notes
+VO 30
+SP 286
+OP 295
+IS 5
+
+RT Journal Article
+ID 4457044
+A1 Pan,Fei
+A1 Kamath,Kiran
+A1 Hu,Haiyan
+A1 Huang,Yu
+A1 Zhang,Kangyu
+A1 Xu,Min
+A1 Yan,Xifeng
+A1 Han,Jiawei
+A1 Zhou,X.,Jasmine
+YR 2005
+T1 BioArrayMine: A software package for integrative analysis of cross-platform and cross-species microarray data
+
+RT Journal Article
+ID 1731854
+A1 Carey,Michael,J.
+A1 Han,Jiawei
+YR 2005
+T1 A tribute to Professor Hongjun Lu
+JF Sigmod Record
+VO 34
+SP 5
+OP 5
+IS 2
+
+RT Conference Proceedings
+ID 1795695
+A1 Li,Xiaolei
+A1 Han,Jiawei
+A1 Yin,Xiaoxin
+A1 Xin,Dong
+YR 2005
+T1 Mining Evolving Customer-Product Relationships in MultiDimensional Space
+SP 580
+OP 581
+
+RT Conference Proceedings
+ID 10868164
+A1 Yan,Xifeng
+A1 Zhou,X.,Jasmine
+A1 Han,Jiawei
+YR 2005
+T1 Mining closed relational graphs with connectivity constraints
+SP 357
+OP 358
+
+RT Journal Article
+ID 1908387
+A1 Wang,Haixun
+A1 Yu,Philip,S.
+A1 Han,Jiawei
+YR 2005
+T1 Mining Data Streams
+
+RT Journal Article
+ID 2650876
+A1 Chen,Chen
+A1 Xin,Dong
+A1 Han,Jiawei
+YR 2005
+T1 Accelerating DNA sequencing-by-hybridization with noise
+SP 29
+OP 36
+
+RT Journal Article
+ID 813043
+A1 Han,Jiawei
+A1 Pei,Jian
+A1 Yin,Yiwen
+A1 Mao,Runying
+YR 2004
+T1 Mining Frequent Patterns without Candidate Generation: A Frequent-Pattern Tree Approach
+JF Data Mining and Knowledge Discovery
+VO 8
+SP 53
+OP 87
+IS 1
+
+RT Journal Article
+ID 1653038
+A1 Pei,Jian
+A1 Han,Jiawei
+A1 Mortazavi-asl,Behzad
+A1 Wang,Jianyong
+A1 Pinto,Helen
+A1 Chen,Qiming
+A1 Dayal,Umeshwar
+A1 Hsu,Mei-Chun
+YR 2004
+T1 Mining Sequential Patterns by Pattern-Growth: The PrefixSpan Approach
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 16
+SP 1424
+OP 1440
+IS 11
+
+RT Conference Proceedings
+ID 523542
+A1 Wang,Jianyong
+A1 Han,Jiawei
+YR 2004
+T1 BIDE: Efficient Mining of Frequent Closed Sequences
+SP 79
+OP 90
+
+RT Conference Proceedings
+ID 668544
+A1 Yan,Xifeng
+A1 Yu,Philip,S.
+A1 Han,Jiawei
+YR 2004
+T1 Graph indexing: a frequent structure-based approach
+SP 335
+OP 346
+
+RT Conference Proceedings
+ID 579309
+A1 Aggarwal,Charu,C.
+A1 Han,Jiawei
+A1 Wang,Jianyong
+A1 Yu,Philip,S.
+YR 2004
+T1 A Framework for Projected Clustering of High Dimensional Data Streams
+SP 852
+OP 863
+
+RT Conference Proceedings
+ID 908792
+A1 He,Bin
+A1 Chang,Kevin,Chen-Chuan
+A1 Han,Jiawei
+YR 2004
+T1 Discovering complex matchings across web query interfaces: a correlation mining approach
+SP 148
+OP 157
+
+RT Conference Proceedings
+ID 908830
+A1 Aggarwal,Charu,C.
+A1 Han,Jiawei
+A1 Wang,Jianyong
+A1 Yu,Philip,S.
+YR 2004
+T1 On demand classification of data streams
+SP 503
+OP 508
+
+RT Conference Proceedings
+ID 908850
+A1 Li,Yifan
+A1 Han,Jiawei
+A1 Yang,Jiong
+YR 2004
+T1 Clustering moving objects
+SP 617
+OP 622
+
+RT Journal Article
+ID 803263
+A1 Yu,Hwanjo
+A1 Han,Jiawei
+A1 Chang,Kevin,Chen-chuan
+YR 2004
+T1 PEBL: Web Page Classification without Negative Examples
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 16
+SP 70
+OP 81
+IS 1
+
+RT Conference Proceedings
+ID 908834
+A1 Cheng,Hong
+A1 Yan,Xifeng
+A1 Han,Jiawei
+YR 2004
+T1 IncSpan: incremental mining of sequential patterns in large database
+SP 527
+OP 532
+
+RT Book, Whole
+ID 523534
+A1 Yin,Xiaoxin
+A1 Han,Jiawei
+A1 Yang,Jiong
+A1 Yu,Philip,S.
+YR 2004
+T1 CrossMine: Efficient Classification Across Multiple Database Relations
+SP 172
+OP 195
+
+RT Conference Proceedings
+ID 579362
+A1 Li,Xiaolei
+A1 Han,Jiawei
+A1 Gonzalez,Hector
+YR 2004
+T1 High-Dimensional OLAP: A Minimal Cubing Approach
+SP 528
+OP 539
+
+RT Conference Proceedings
+ID 917811
+A1 Cai,Y.,Dora
+A1 Clutter,David
+A1 Pape,Greg
+A1 Han,Jiawei
+A1 Welge,Michael
+A1 Auvil,Loretta
+YR 2004
+T1 MAIDS: mining alarming incidents from data streams
+SP 919
+OP 920
+
+RT Journal Article
+ID 1722311
+A1 Pei,Jian
+A1 Han,Jiawei
+A1 Lakshmanan,Laks,V.,S.
+YR 2004
+T1 Pushing Convertible Constraints in Frequent Itemset Mining
+JF Data Mining and Knowledge Discovery
+VO 8
+SP 227
+OP 252
+IS 3
+
+RT Conference Proceedings
+ID 1812692
+A1 Jin,Wen
+A1 Han,Jiawei
+A1 Ester,Martin
+YR 2004
+T1 Mining Thick Skylines over Large Databases
+SP 255
+OP 266
+
+RT Conference Proceedings
+ID 908869
+A1 Wu,Andrew,Y.
+A1 Garland,Michael
+A1 Han,Jiawei
+YR 2004
+T1 Mining scale-free networks using geodesic clustering
+SP 719
+OP 724
+
+RT Journal Article
+ID 1718003
+A1 Pei,Jian
+A1 Dong,Guozhu
+A1 Zou,Wei
+A1 Han,Jiawei
+YR 2004
+T1 Mining Condensed Frequent-Pattern Bases
+JF Knowledge and Information Systems
+VO 6
+SP 570
+OP 594
+IS 5
+
+RT Journal Article
+ID 1653015
+A1 Dong,Guozhu
+A1 Han,Jiawei
+A1 Lam,Joyce,M.,W.
+A1 Pei,Jian
+A1 Wang,Ke
+A1 Zou,Wei
+YR 2004
+T1 Mining Constrained Gradients in Large Databases
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 16
+SP 922
+OP 938
+IS 8
+
+RT Book, Whole
+ID 626883
+A1 Kim,Won-young
+A1 Lee,Young-koo
+A1 Han,Jiawei
+YR 2004
+T1 CCMine: Efficient Mining of Confidence-Closed Correlated Patterns
+SP 569
+OP 579
+
+RT Conference Proceedings
+ID 1842842
+A1 Shao,Zheng
+A1 Han,Jiawei
+A1 Xin,Dong
+YR 2004
+T1 MM-Cubing: Computing Iceberg Cubes by Factorizing the Lattice Space
+SP 213
+OP 222
+
+RT Conference Proceedings
+ID 1842784
+A1 Li,Yifan
+A1 Yang,Jiong
+A1 Han,Jiawei
+YR 2004
+T1 Continuous K-Nearest Neighbor Search for Moving Objects
+SP 123
+OP 126
+
+RT Journal Article
+ID 2151222
+A1 Han,Jia-Wei
+A1 Pei,Jian
+A1 Yan,Xi-Feng
+YR 2004
+T1 From Sequential Pattern Mining to Structured Pattern Mining: A Pattern-Growth Approach
+JF Journal of Computer Science and Technology
+VO 19
+SP 257
+OP 279
+IS 3
+
+RT Conference Proceedings
+ID 1796836
+A1 Yu,Hwanjo
+A1 Searsmith,Duane
+A1 Li,Xiaolei
+A1 Han,Jiawei
+YR 2004
+T1 Scalable Construction of Topic Directory with Nonparametric Closed Termset Mining
+SP 563
+OP 566
+
+RT Conference Proceedings
+ID 902982
+A1 He,Bin
+A1 Chang,Kevin,Chen-Chuan
+A1 Han,Jiawei
+YR 2004
+T1 Mining complex matchings across Web query interfaces
+SP 3
+OP 10
+
+RT Journal Article
+ID 1247539
+A1 Unnikrishnan,K.,P.
+A1 Uthurusamy,Ramasamy
+A1 Han,Jiawei
+YR 2004
+T1 The third SIGKDD workshop on mining temporal and sequential data (KDD/TDM 2004)
+JF Sigkdd Explorations
+VO 6
+SP 152
+OP 152
+IS 2
+
+RT Conference Proceedings
+ID 50363916
+A1 Yin,Xiaoxin
+A1 Han,Jiawei
+A1 Yang,Jiong
+A1 Philip,S.,Yu.
+YR 2004
+T1 CrossMine: efficient classification across multiple database relations
+SP 399
+OP 410
+
+RT Conference Proceedings
+ID 50361434
+A1 Shao,Zheng
+A1 Han,Jiawei
+A1 Xin,Dong
+YR 2004
+T1 MM-Cubing: computing Iceberg cubes by factorizing the lattice space
+SP 213
+OP 222
+
+RT Conference Proceedings
+ID 50361423
+A1 Li,Yifan
+A1 Yang,Jiong
+A1 Han,Jiawei
+YR 2004
+T1 Continuous K-nearest neighbor search for moving objects
+SP 123
+OP 126
+
+RT Conference Proceedings
+ID 24337
+A1 Aggarwal,Charu,C.
+A1 Han,Jiawei
+A1 Wang,Jianyong
+A1 Yu,Philip,S.
+YR 2003
+T1 A framework for clustering evolving data streams
+SP 81
+OP 92
+
+RT Conference Proceedings
+ID 19582
+A1 Wang,Haixun
+A1 Fan,Wei
+A1 Yu,Philip,S.
+A1 Han,Jiawei
+YR 2003
+T1 Mining concept-drifting data streams using ensemble classifiers
+SP 226
+OP 235
+
+RT Conference Proceedings
+ID 19599
+A1 Wang,Jianyong
+A1 Han,Jiawei
+A1 Pei,Jian
+YR 2003
+T1 CLOSET+: searching for the best strategies for mining frequent closed itemsets
+SP 236
+OP 245
+
+RT Conference Proceedings
+ID 474098
+A1 Yan,Xifeng
+A1 Han,Jiawei
+YR 2003
+T1 CloseGraph: mining closed frequent graph patterns
+SP 286
+OP 295
+
+RT Conference Proceedings
+ID 37175
+A1 Yan,Xifeng
+A1 Han,Jiawei
+A1 Afshar,Ramin
+YR 2003
+T1 CloSpan: Mining Closed Sequential Patterns in Large Databases
+
+RT Conference Proceedings
+ID 34542
+A1 Yin,Xiaoxin
+A1 Han,Jiawei
+YR 2003
+T1 CPAR: Classification based on Predictive Association Rules
+
+RT Conference Proceedings
+ID 474099
+A1 Yu,Hwanjo
+A1 Yang,Jiong
+A1 Han,Jiawei
+YR 2003
+T1 Classifying large data sets using SVMs with hierarchical clusters
+SP 306
+OP 315
+
+RT Journal Article
+ID 802604
+A1 Tung,Anthony,K.,H.
+A1 Lu,Hongjun
+A1 Han,Jiawei
+A1 Feng,Ling
+YR 2003
+T1 Efficient Mining of Intertransaction Association Rules
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 15
+SP 43
+OP 56
+IS 1
+
+RT Journal Article
+ID 2077033
+A1 Dong,Guozhu
+A1 Han,Jiawei
+A1 Lakshmanan,Laks,V.,S.
+A1 Pei,Jian
+A1 Wang,Haixun
+A1 Yu,Philip,S.
+YR 2003
+T1 Online Mining of Changes from Data Streams: Research Problems and Preliminary Results
+
+RT Conference Proceedings
+ID 23349
+A1 Xin,Dong
+A1 Han,Jiawei
+A1 Li,Xiaolei
+A1 Wah,Benjamin,W.
+YR 2003
+T1 Star-Cubing: Computing Iceberg Cubes by Top-Down and Bottom-Up Integration
+SP 476
+OP 487
+
+RT Conference Proceedings
+ID 524434
+A1 Tzvetkov,Petre
+A1 Yan,Xifeng
+A1 Han,Jiawei
+YR 2003
+T1 TSP: Mining Top-K Closed Sequential Patterns
+SP 347
+OP 354
+
+RT Journal Article
+ID 706321
+A1 Lu,Ying
+A1 Han,Jiawei
+YR 2003
+T1 Cancer classification using gene expression data
+JF Information Systems
+VO 28
+SP 243
+OP 268
+IS 4
+
+RT Conference Proceedings
+ID 524433
+A1 Lee,Young-koo
+A1 Kim,Won-young
+A1 Cai,Y.,Dora
+A1 Han,Jiawei
+YR 2003
+T1 CoMine: Efficient Mining of Correlated Patterns
+SP 581
+OP 584
+
+RT Journal Article
+ID 124483
+A1 Wang,Ke
+A1 He,Yu
+A1 Han,Jiawei
+YR 2003
+T1 Pushing Support Constraints Into Association Rules Mining
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 15
+SP 642
+OP 658
+IS 3
+
+RT Journal Article
+ID 849561
+A1 Doan,Anhai
+A1 Lu,Ying
+A1 Lee,Yoonkyong
+A1 Han,Jiawei
+YR 2003
+T1 Profile-Based Object Matching for Information Integration
+JF IEEE Expert / IEEE Intelligent Systems
+VO 18
+SP 54
+OP 59
+IS 5
+
+RT Conference Proceedings
+ID 12774
+A1 Doan,Anhai
+A1 Lu,Ying
+A1 Lee,Yoonkyong
+A1 Han,Jiawei
+YR 2003
+T1 Object Matching for Information Integration: A Profiler-Based Approach
+SP 53
+OP 58
+
+RT Conference Proceedings
+ID 499920
+A1 Yu,Hwanjo
+A1 Zhai,ChengXiang
+A1 Han,Jiawei
+YR 2003
+T1 Text classification from positive and unlabeled documents
+SP 232
+OP 239
+
+RT Conference Proceedings
+ID 457996
+A1 Yu,Hwanjo
+A1 Yang,Jiong
+A1 Wang,Wei
+A1 Han,Jiawei
+YR 2003
+T1 Discovering Compact and Highly Discriminative Features or Feature Combinations of Drug Activities Using Support Vector Machines
+SP 220
+OP 228
+
+RT Conference Proceedings
+ID 522387
+A1 Wang,Ke
+A1 Jiang,Yuelong
+A1 Yu,Jeffrey,Xu
+A1 Dong,Guozhu
+A1 Han,Jiawei
+YR 2003
+T1 Pushing Aggregate Constraints by Divide-and-Approximate
+SP 291
+OP 302
+
+RT Book, Whole
+ID 431258
+A1 Ko,Su-jeong
+A1 Han,Jiawei
+YR 2003
+T1 Mining Typical Preferences of Collaborative User Groups
+SP 419
+OP 432
+
+RT Conference Proceedings
+ID 25710
+A1 Yan,Xifeng
+A1 Han,Jiawei
+YR 2002
+T1 gSpan: Graph-Based Substructure Pattern Mining
+SP 721
+OP 724
+
+RT Journal Article
+ID 2028481
+A1 Giannella,Chris
+A1 Han,Jiawei
+A1 Pei,Jian
+A1 Yan,Xifeng
+A1 Yu,Philip,S.
+YR 2002
+T1 Mining Frequent Patterns in Data Streams at Multiple Time Granularities
+
+RT Conference Proceedings
+ID 54939
+A1 Chen,Yixin
+A1 Dong,Guozhu
+A1 Han,Jiawei
+A1 Wah,Benjamin,W.
+A1 Wang,Jianyong
+YR 2002
+T1 MultiDimensional Regression Analysis of Time-Series Data Streams
+SP 323
+OP 334
+
+RT Journal Article
+ID 802406
+A1 Ng,Raymond,T.
+A1 Han,Jiawei
+YR 2002
+T1 CLARANS: A Method for Clustering Objects for Spatial Data Mining
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 14
+SP 1003
+OP 1016
+IS 5
+
+RT Conference Proceedings
+ID 473800
+A1 Yu,Hwanjo
+A1 Han,Jiawei
+A1 Chang,Kevin,Chen-Chuan
+YR 2002
+T1 PEBL: positive example based learning for Web page classification using SVM
+SP 239
+OP 248
+
+RT Conference Proceedings
+ID 36918
+A1 Liu,Junqiang
+A1 Pan,Yunhe
+A1 Wang,Ke
+A1 Han,Jiawei
+YR 2002
+T1 Mining frequent item sets by opportunistic projection
+SP 229
+OP 238
+
+RT Conference Proceedings
+ID 52381
+A1 Lakshmanan,Laks,V.,S.
+A1 Pei,Jian
+A1 Han,Jiawei
+YR 2002
+T1 Quotient Cube: How to Summarize the Semantics of a Data Cube
+SP 778
+OP 789
+
+RT Conference Proceedings
+ID 43962
+A1 Yang,Jiong
+A1 Wang,Wei
+A1 Yu,Philip,S.
+A1 Han,Jiawei
+YR 2002
+T1 Mining long sequential patterns in a noisy environment
+SP 406
+OP 417
+
+RT Conference Proceedings
+ID 32108
+A1 Pei,Jian
+A1 Han,Jiawei
+A1 Wang,Wei
+YR 2002
+T1 Mining sequential patterns with constraints in large databases
+SP 18
+OP 25
+
+RT Conference Proceedings
+ID 3392038
+A1 Han,Jiawei
+A1 Wang,Jianyong
+A1 Lu,Ying
+A1 Tzvetkov,Petre
+YR 2002
+T1 Mining Top-K Frequent Closed Patterns without Minimum Support
+SP 211
+OP 218
+
+RT Journal Article
+ID 846630
+A1 Han,Jiawei
+A1 Chang,Kevin,Chen-chuan
+YR 2002
+T1 Data Mining for Web Intelligence
+JF IEEE Computer
+VO 35
+SP 64
+OP 70
+IS 11
+
+RT Book, Whole
+ID 626815
+A1 Wang,Ke
+A1 Tang,Liu
+A1 Han,Jiawei
+A1 Liu,Junqiang
+YR 2002
+T1 Top Down FP-Growth for Association Rule Mining
+SP 334
+OP 340
+
+RT Book, Whole
+ID 510825
+A1 Wang,Ke
+A1 Zhou,Senqiang
+A1 Han,Jiawei
+YR 2002
+T1 Profit Mining: From Patterns to Actions
+SP 70
+OP 87
+
+RT Journal Article
+ID 854081
+A1 Pei,Jian
+A1 Han,Jiawei
+YR 2002
+T1 Constrained frequent pattern mining: a pattern-growth view
+JF Sigkdd Explorations
+VO 4
+SP 31
+OP 39
+IS 1
+
+RT Journal Article
+ID 26875630
+A1 Caldas,Carlos,H.
+A1 Soibelman,Lucio
+A1 Han,Jiawei
+YR 2002
+T1 Automated Classification of Construction Project Documents
+JF Journal of Computing in Civil Engineering
+VO 16
+SP 234
+IS 4
+
+RT Conference Proceedings
+ID 29029
+A1 Pei,Jian
+A1 Dong,Guozhu
+A1 Zou,Wei
+A1 Han,Jiawei
+YR 2002
+T1 On Computing Condensed Frequent Pattern Bases
+SP 378
+OP 385
+
+RT Journal Article
+ID 776414
+A1 Han,Jiawei
+A1 Altman,Russ,B.
+A1 Kumar,Vipin
+A1 Mannila,Heikki
+A1 Pregibon,Daryl
+YR 2002
+T1 Emerging scientific applications in data mining
+JF Communications of The ACM
+VO 45
+SP 54
+OP 58
+IS 8
+
+RT Conference Proceedings
+ID 473697
+A1 Han,Jiawei
+YR 2002
+T1 How Can Data Mining Help BioData Analysis?
+SP 1
+OP 2
+
+RT Journal Article
+ID 807510
+A1 Feng,Ling
+A1 Yu,Jeffrey,Xu
+A1 Lu,Hongjun
+A1 Han,Jiawei
+YR 2002
+T1 A template model for multidimensional inter-transactional association rules
+JF The Vldb Journal
+VO 11
+SP 153
+OP 175
+IS 2
+
+RT Conference Proceedings
+ID 36477
+A1 Yu,Hwanjo
+A1 Chang,Kevin,Chen-chuan
+A1 Han,Jiawei
+YR 2002
+T1 Heterogeneous Learner for Web Page Classification
+SP 538
+OP 545
+
+RT Conference Proceedings
+ID 26584
+A1 Chen,Yixin
+A1 Dong,Guozhu
+A1 Han,Jiawei
+A1 Pei,Jian
+A1 Wah,Benjamin,W.
+A1 Wang,Jianyong
+YR 2002
+T1 Online Analytical Processing Stream Data: Is It Feasible?
+
+RT Conference Proceedings
+ID 13268401
+A1 Grossman,Robert,L.
+A1 Han,Jiawei
+A1 Kumar,Vipin
+A1 Mannila,Heikki
+A1 Motwani,Rajeev
+YR 2002
+T1 Proceedings of the Second SIAM International Conference on Data Mining, Arlington, VA, USA, April 11-13, 2002
+
+RT Journal Article
+ID 854186
+A1 Winslett,Marianne
+A1 Chang,Kevin,Chen-Chuan
+A1 Doan,AnHai
+A1 Han,Jiawei
+A1 Zhai,ChengXiang
+A1 Zhou,Yuanyuan
+YR 2002
+T1 Database research at the University of Illinois at Urbana-Champaign
+JF Sigmod Record
+VO 31
+SP 97
+OP 102
+IS 3
+
+RT Conference Proceedings
+ID 667182
+A1 Han,Jiawei
+A1 Wang,Jianyong
+A1 Dong,Guozhu
+A1 Pei,Jian
+A1 Wang,Ke
+YR 2002
+T1 CubeExplorer: online exploration of data cubes
+SP 626
+OP 626
+
+RT Conference Proceedings
+ID 34364
+A1 Pei,Jian
+A1 Han,Jiawei
+A1 Mortazavi-Asl,Behzad
+A1 Pinto,Helen
+A1 Chen,Qiming
+A1 Dayal,Umeshwar
+A1 Hsu,Mei-Chun
+YR 2001
+T1 PrefixSpan,: mining sequential patterns efficiently by prefix-projected pattern growth
+SP 215
+OP 224
+
+RT Conference Proceedings
+ID 2125838
+A1 Li,Wenmin
+A1 Han,Jiawei
+A1 Pei,Jian
+YR 2001
+T1 CMAR: Accurate and Efficient Classification Based on Multiple Class-Association Rules
+SP 369
+OP 376
+
+RT Conference Proceedings
+ID 522417
+A1 Pei,Jian
+A1 Han,Jiawei
+A1 Lakshmanan,Laks,V.,S.
+YR 2001
+T1 Mining Frequent Item Sets with Convertible Constraints
+SP 433
+OP 442
+
+RT Conference Proceedings
+ID 78231
+A1 Peitt,Jian
+A1 Han,Jiawei
+A1 Lu,Hongjun
+A1 Nishios,Shojiro
+A1 Tangt,Shiwei
+A1 Yangt,Dongqing
+YR 2001
+T1 H-Mine: HyperStructure Mining of Frequent Patterns in Large Databases
+SP 441
+OP 448
+
+RT Journal Article
+ID 127197
+A1 Han,Jiawei
+A1 Pei,Jian
+A1 Dong,Guozhu
+A1 Wang,Ke
+YR 2001
+T1 Efficient Computation of Iceberg Cubes with Complex Measures
+JF Sigmod Record
+VO 30
+SP 1
+OP 12
+IS 2
+
+RT Journal Article
+ID 1286853
+A1 Han,J.
+A1 Kamber,M.
+A1 Tung,A.,K.,H.
+YR 2001
+T1 Spatial clustering methods in data mining: a survey
+JF Data Mining and Knowledge Discovery
+
+RT Conference Proceedings
+ID 522523
+A1 Pei,Jian
+A1 Han,Jiawei
+A1 Mortazavi-asl,Behzad
+A1 Pinto,Helen
+A1 Chen,Qiming
+A1 Dayal,Umeshwar
+A1 Hsu,Meichun
+YR 2001
+T1 PrefixSpan: Mining Sequential Patterns by Prefix-Projected Growth
+SP 215
+OP 224
+
+RT Conference Proceedings
+ID 136414
+A1 Jin,Wen
+A1 Tung,Anthony,K.,H.
+A1 Han,Jiawei
+YR 2001
+T1 Mining top-n local outliers in large databases
+SP 293
+OP 298
+
+RT Conference Proceedings
+ID 129331
+A1 Pinto,Helen
+A1 Han,Jiawei
+A1 Pei,Jian
+A1 Wang,Ke
+A1 Chen,Qiming
+A1 Dayal,Umeshwar
+YR 2001
+T1 Multidimensional sequential pattern mining
+SP 81
+OP 88
+
+RT Conference Proceedings
+ID 522655
+A1 Tung,Anthony,K.,H.
+A1 Hou,Jean
+A1 Han,Jiawei
+YR 2001
+T1 Spatial Clustering in the Presence of Obstacles
+SP 359
+OP 367
+
+RT Book, Whole
+ID 524826
+A1 Tung,Anthony,K.,H.
+A1 Ng,Raymond,T.
+A1 Lakshmanan,Laks,V.,S.
+A1 Han,Jiawei
+YR 2001
+T1 Constraint-based clustering in large databases
+SP 405
+OP 419
+
+RT Journal Article
+ID 3130290
+A1 Merret,T.
+A1 Han,Jiawei
+YR 2001
+T1 Fundamentals of Spatial Data Warehousing for Geographic Knowledge Discovery
+JF Data Mining and Knowledge Discovery
+
+RT Conference Proceedings
+ID 507267
+A1 Pei,Jian
+A1 Tung,Anthony,K.,H.
+A1 Han,Jiawei
+YR 2001
+T1 Fault-Tolerant Frequent Pattern Mining: Problems and Challenges
+
+RT Conference Proceedings
+ID 136518
+A1 Dong,Guozhu
+A1 Han,Jiawei
+A1 Lam,Joyce,M.,W.
+A1 Pei,Jian
+A1 Wang,Ke
+YR 2001
+T1 Mining MultiDimensional Constrained Gradients in Data Cubes
+SP 321
+OP 330
+
+RT Book, Whole
+ID 56775
+A1 Chee,Sonny,Han,Seng
+A1 Han,Jiawei
+A1 Wang,Ke
+YR 2001
+T1 RecTree: An Efficient Collaborative Filtering Method
+SP 141
+OP 151
+
+RT Journal Article
+ID 2037607
+A1 Jiawei,H
+A1 Micheline,K
+YR 2001
+T1 Data Mining: Concepts and Techniques
+
+RT Conference Proceedings
+ID 667206
+A1 Han,Jiawei
+A1 Jamil,Hasan,M.
+A1 Lu,Ying
+A1 Chen,Liangyou
+A1 Liao,Yaqin
+A1 Pei,Jian
+YR 2001
+T1 DNA-Miner: A System Prototype for Mining DNA Sequences
+SP 618
+
+RT Conference Proceedings
+ID 474003
+A1 Han,Jiawei
+A1 Lakshmanan,Laks,V.,S.
+A1 Pei,Jian
+YR 2001
+T1 Scalable frequent-pattern mining methods: an overview
+
+RT Journal Article
+ID 2885931
+A1 Tung,A.,K.,H.
+A1 Ng,R.,T.
+A1 Lakshmanan,L.,V.,D.
+A1 Han,J.
+YR 2001
+T1 Constrained clustering on large database
+
+RT Journal Article
+ID 14415249
+A1 Han,Jiawei
+A1 Jamil,Hasan
+A1 Lu,Ying
+A1 Chen,Liangyou
+A1 Liao,Yaqin
+A1 Pei,Jian
+YR 2001
+T1 DNA-miner: a system prototype for mining DNA sequences
+JF Sigmod Record
+VO 30
+SP 618
+IS 2
+
+RT Journal Article
+ID 39217266
+A1 Han,Jiawei
+A1 Pei,Jian
+A1 Dong,Guozhu
+A1 Wang,Ke
+YR 2001
+T1 Efficient computation of Iceberg cubes with complex measures
+JF Sigmod Record
+SP 1
+OP 12
+
+RT Book, Whole
+ID 694978
+A1 Han,Jiawei
+A1 Kamber,Micheline
+YR 2000
+T1 Data Mining: Concepts and Techniques
+
+RT Journal Article
+ID 668388
+A1 Han,Jiawei
+A1 Pei,Jian
+A1 Yin,Yiwen
+YR 2000
+T1 Mining frequent patterns without candidate generation
+JF Sigmod Record
+VO 29
+SP 1
+OP 12
+IS 2
+
+RT Conference Proceedings
+ID 144099
+A1 Pei,Jian
+A1 Han,Jiawei
+A1 Mao,Runying
+YR 2000
+T1 CLOSET: An Efficient Algorithm for Mining Frequent Closed Itemsets
+SP 21
+OP 30
+
+RT Conference Proceedings
+ID 474017
+A1 Han,Jiawei
+A1 Pei,Jian
+A1 Mortazavi-Asl,Behzad
+A1 Chen,Qiming
+A1 Dayal,Umeshwar
+A1 Hsu,Mei-Chun
+YR 2000
+T1 FreeSpan: frequent pattern-projected sequential pattern mining
+SP 355
+OP 359
+
+RT Book, Whole
+ID 266679
+A1 Pei,Jian
+A1 Han,Jiawei
+A1 Mortazavi-asl,Behzad
+A1 Zhu,Hua
+YR 2000
+T1 Mining Access Patterns Efficiently from Web Logs
+SP 396
+OP 407
+
+RT Conference Proceedings
+ID 473758
+A1 Pei,Jian
+A1 Han,Jiawei
+YR 2000
+T1 Can we push more constraints into frequent pattern mining?
+SP 350
+OP 354
+
+RT Journal Article
+ID 854064
+A1 Han,Jiawei
+A1 Pei,Jian
+YR 2000
+T1 Mining frequent patterns by pattern-growth: methodology and implications
+JF Sigkdd Explorations
+VO 2
+SP 14
+OP 20
+IS 2
+
+RT Journal Article
+ID 802831
+A1 Stefanovic,Nebojsa
+A1 Han,Jiawei
+A1 Koperski,Krzysztof
+YR 2000
+T1 Object-Based Selective Materialization for Efficient Implementation of Spatial Data Cubes
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 12
+SP 938
+OP 958
+IS 6
+
+RT Conference Proceedings
+ID 216338
+A1 Wang,Ke
+A1 He,Yu
+A1 Han,Jiawei
+YR 2000
+T1 Mining Frequent Itemsets Using Support Constraints
+SP 43
+OP 52
+
+RT Conference Proceedings
+ID 522886
+A1 Zaïane,Osmar,R.
+A1 Han,Jiawei
+A1 Zhu,Hua
+YR 2000
+T1 Mining Recurrent Items in Multimedia with Progressive Resolution Refinement
+SP 461
+OP 470
+
+RT Journal Article
+ID 804172
+A1 Lu,Hongjun
+A1 Feng,Ling
+A1 Han,Jiawei
+YR 2000
+T1 Beyond intratransaction association analysis: mining multidimensional intertransaction association rules
+JF ACM Transactions on Information Systems
+VO 18
+SP 423
+OP 454
+IS 4
+
+RT Journal Article
+ID 149702
+A1 Cheung,David,Wai-lok
+A1 Hwang,H.,Y.
+A1 Fu,Ada,Wai-chee
+A1 Han,Jiawei
+YR 2000
+T1 Efficient Rule-Based Attribute-Oriented Induction for Data Mining
+JF Journal of Intelligent Information Systems
+VO 15
+SP 175
+OP 200
+IS 2
+
+RT Conference Proceedings
+ID 473886
+A1 Tung,Anthony,K.,H.
+A1 Ng,Raymond,T.
+A1 Lakshmanan,Laks,V.,S.
+A1 Han,Jiawei
+YR 2000
+T1 Geo-Spatial Clustering with User-Specified Constraints
+SP 1
+OP 7
+
+RT Book, Whole
+ID 626656
+A1 Tung,Anthony,K.,H.
+A1 Hou,Jean
+A1 Han,Jiawei
+YR 2000
+T1 COE: Clustering with Obstacles Entities. A Preliminary Study
+SP 165
+OP 168
+
+RT Journal Article
+ID 170764
+A1 Miller,Harvey,J.
+A1 Han,Jiawei
+YR 2000
+T1 Discovering geographic knowledge in data rich environments: a report on a specialist meeting
+JF Sigkdd Explorations
+VO 1
+SP 105
+OP 107
+IS 2
+
+RT Book, Whole
+ID 590166
+A1 Kim,Edward
+A1 Lam,Joyce,M.,W.
+A1 Han,Jiawei
+YR 2000
+T1 AIM: Approximate Intelligent Matching for Time Series Data
+SP 347
+OP 357
+
+RT Conference Proceedings
+ID 2117882
+A1 Han,Jiawei
+A1 Pei,Jian
+YR 2000
+T1 Yiwen Yin: Mining Frequent Patterns without Candidate Generation
+
+RT Journal Article
+ID 4408111
+A1 Miller,Harvey,J.
+A1 Han,Jiawei
+YR 2000
+T1 Discovering Geographic Knowledge in Data Rich Environments: A Report on a Specialist Meeting
+JF Sigkdd Explorations
+VO 1
+SP 105
+OP 107
+IS 2
+
+RT Journal Article
+ID 39217225
+A1 Han,Jiawei
+A1 Pei,Jian
+A1 Yin,Yiwen
+YR 2000
+T1 Mining frequent patterns without candidate generation
+JF Sigmod Record
+SP 1
+OP 12
+
+RT Journal Article
+ID 15231705
+A1 Cheung,David,W.
+A1 Hwang,H.,Y.
+A1 Fu,Ada,W.
+A1 Han,Jiawei
+YR 2000
+T1 Efficient Rule-Based Attribute-Oriented Induction for Data Mining
+JF Journal of Intelligent Information Systems
+VO 15
+SP 175
+OP 200
+IS 2
+
+RT Journal Article
+ID 55509304
+A1 Zaiane,Osmar,R.
+A1 Han,Jiawei
+YR 2000
+T1 Discovering spatial associations in images
+VO 4057
+SP 138
+OP 147
+
+RT Conference Proceedings
+ID 1343715
+A1 Han,Jiawei
+A1 Dong,Guozhu
+A1 Yin,Yiwen
+YR 1999
+T1 Efficient Mining of Partial Periodic Patterns in Time Series Database
+SP 106
+OP 115
+
+RT Conference Proceedings
+ID 135190
+A1 Han,Jiawei
+A1 Dong,Guozhu
+A1 Yin,Yiwen
+YR 1999
+T1 Efficient Mining of Partial Periodic Patterns in Time Series Database In ICDE 99
+
+RT Journal Article
+ID 667441
+A1 Lakshmanan,Laks,V.,S.
+A1 Ng,Raymond,T.
+A1 Han,Jiawei
+A1 Pang,Alex
+YR 1999
+T1 Optimization of Constrained Frequent Set Queries with 2-variable Constraints
+JF Sigmod Record
+VO 28
+SP 157
+OP 168
+IS 2
+
+RT Journal Article
+ID 802368
+A1 Han,Jiawei
+A1 Fu,Yongjian
+YR 1999
+T1 Mining Multiple-Level Association Rules in Large Databases
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 11
+SP 798
+OP 804
+IS 5
+
+RT Journal Article
+ID 76075
+A1 Han,Jiawei
+A1 Lakshmanan,Laks,V.,S.
+A1 Ng,Raymond,T.
+YR 1999
+T1 Constraint-Based Multidimensional Data Mining
+JF IEEE Computer
+VO 32
+SP 46
+OP 50
+IS 8
+
+RT Book, Whole
+ID 225081
+A1 Zhou,Xiaofang
+A1 Truffet,David
+A1 Han,Jiawei
+YR 1999
+T1 Efficient Polygon Amalgamation Methods for Spatial OLAP and Spatial Data Mining
+SP 167
+OP 187
+
+RT Conference Proceedings
+ID 35106
+A1 Han,Jiawei
+A1 Yang,Qiang
+A1 Kim,Edward
+YR 1999
+T1 Plan Mining by Divide-and-Conquer
+
+RT Journal Article
+ID 345421
+A1 Ng,Raymond,T.
+A1 Lakshmanan,Laks,V.,S.
+A1 Han,Jiawei
+A1 Mah,Teresa
+YR 1999
+T1 Exploratory Mining via Constrained Frequent Set Queries
+JF Sigmod Record
+VO 28
+SP 556
+OP 558
+IS 2
+
+RT Conference Proceedings
+ID 2795184
+A1 Tung,Anthony,K.,h.
+A1 Lu,Hongjun
+A1 Han,Jiawei
+A1 Feng,Ling
+YR 1999
+T1 Breaking the barrier of transactions: mining inter-transaction association rules
+SP 297
+OP 301
+
+RT Conference Proceedings
+ID 499667
+A1 Fengl,Ling
+A1 Lu,Hongjun
+A1 Yu,Jeffrey,Xu
+A1 Han,Jiawei
+YR 1999
+T1 Mining inter-transaction associations with templates
+SP 225
+OP 233
+
+RT Journal Article
+ID 216719
+A1 Han,Jiawei
+A1 Xie,Zhaohui
+A1 Fu,Yongjian
+YR 1999
+T1 Join Index Hierarchy: An Indexing Structure for Efficient Navigation in Object-Oriented Databases
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 11
+SP 321
+OP 337
+IS 2
+
+RT Journal Article
+ID 39217174
+A1 Lakshmanan,Laks,V.,S.
+A1 Ng,Raymond
+A1 Han,Jiawei
+A1 Pang,Alex
+YR 1999
+T1 Optimization of constrained frequent set queries with 2-variable constraints
+JF Sigmod Record
+SP 157
+OP 168
+
+RT Journal Article
+ID 39217215
+A1 Ng,Raymond
+A1 Lakshmanan,Laks,V.,S.
+A1 Han,Jiawei
+A1 Mah,Teresa
+YR 1999
+T1 Exploratory mining via constrained frequent set queries
+JF Sigmod Record
+SP 556
+OP 558
+
+RT Journal Article
+ID 705926
+A1 Han,Jiawei
+YR 1999
+T1 Review - An Array-Based Algorithm for Simultaneous Multidimensional Aggregates
+JF ACM Sigmod Digital Review
+VO 1
+
+RT Journal Article
+ID 291283
+A1 Ng,Raymond,T.
+A1 Lakshmanan,Laks,V.,S.
+A1 Han,Jiawei
+A1 Pang,Alex
+YR 1998
+T1 Exploratory Mining and Pruning Optimizations of Constrained Association Rules
+JF Sigmod Record
+VO 27
+SP 13
+OP 24
+IS 2
+
+RT Conference Proceedings
+ID 268540
+A1 Zaïane,Osmar,R.
+A1 Xin,Man
+A1 Han,Jiawei
+YR 1998
+T1 Discovering Web Access Patterns and Trends by Applying OLAP and Data Mining Technology on Web Logs
+SP 19
+OP 29
+
+RT Journal Article
+ID 39217108
+A1 Ng,Raymond,T.
+A1 Lakshmanan,Laks,V.,S.
+A1 Han,Jiawei
+A1 Pang,Alex
+YR 1998
+T1 Exploratory mining and pruning optimizations of constrained associations rules
+JF Sigmod Record
+SP 13
+OP 24
+
+RT Journal Article
+ID 2969098
+A1 Lu,Wei
+A1 Han,Jiawei
+A1 Ooi,Beng,Chin
+YR 1998
+T1 Discovery of General Knowledge in Large Spatial Databases
+
+RT Conference Proceedings
+ID 318517
+A1 Han,Jiawei
+A1 Gong,Wan
+A1 Yin,Yiwen
+YR 1998
+T1 Mining Segment-Wise Periodic Patterns in Time-Related Databases
+SP 214
+OP 218
+
+RT Book, Whole
+ID 318926
+A1 Han,Jiawei
+A1 Stefanovic,Nebojsa
+A1 Koperski,Krzysztof
+YR 1998
+T1 Selective Materialization: An Efficient Method for Spatial Data Cube Construction
+SP 144
+OP 158
+
+RT Conference Proceedings
+ID 255605
+A1 Zaïane,Osmar,R.
+A1 Han,Jiawei
+A1 Li,Ze-Nian
+A1 Chee,Sonny,Han,Seng
+A1 Chiang,Jenny,Y.
+YR 1998
+T1 MultiMediaMiner: A System Prototype for Multimedia Data Mining
+SP 581
+OP 583
+
+RT Journal Article
+ID 4004167
+A1 Han,Jiawei
+YR 1998
+T1 Towards on-line analytical mining in large databases
+JF Sigmod Record
+VO 27
+SP 97
+OP 107
+IS 1
+
+RT Journal Article
+ID 152933
+A1 Han,Jiawei
+A1 Nishio,Shojiro
+A1 Kawano,Hiroyuki
+A1 Wang,Wei
+YR 1998
+T1 Generalization-Based Data Mining in Object-Oriented Databases Using an Object Cube Model
+JF Data & Knowledge Engineering
+VO 25
+SP 55
+OP 97
+IS 1-2
+
+RT Journal Article
+ID 329600
+A1 Koperski,Krzysztof
+A1 Han,Jiawei
+A1 Stefanovic,Nebojsa
+YR 1998
+T1 An Efficient Two-Step Method for Classification of Spatial Data
+
+RT Conference Proceedings
+ID 925571
+A1 Zaïane,Osmar,R.
+A1 Han,Jiawei
+A1 Li,Ze-Nian
+A1 Hou,Jean
+YR 1998
+T1 Mining multimedia data
+SP 24
+
+RT Conference Proceedings
+ID 581217
+A1 Zaïane,Osmar,R.
+A1 Han,Jiawei
+YR 1998
+T1 WebML: Querying the World-Wide Web for Resources and Knowledge
+SP 9
+OP 12
+
+RT Journal Article
+ID 1702702
+A1 Li,Deyi
+A1 Han,Jiawei
+A1 Shi,Xuemei
+A1 Chan,Man-chung
+YR 1998
+T1 Knowledge representation and discovery based on linguistic atoms
+JF Knowledge Based Systems
+VO 10
+SP 431
+OP 440
+IS 7
+
+RT Journal Article
+ID 305242
+A1 Han,Jiawei
+A1 Ng,Raymond,T.
+A1 Fu,Yongjian
+A1 Dao,Son,K.
+YR 1998
+T1 Dealing with Semantic Heterogeneity by Generalization-Based Data Mining Techniques
+
+RT Journal Article
+ID 793164
+A1 Han,Jiawei
+A1 Liu,Ling
+A1 Lu,Tong
+YR 1998
+T1 Evaluation of Declarative n-Queens Recursion: A Deductive Database Approach
+JF Information Sciences
+VO 105
+SP 69
+OP 100
+IS 1-4
+
+RT Journal Article
+ID 14415139
+A1 Zaïane,Osmar,R.
+A1 Han,Jiawei
+A1 Li,Ze-Nian
+A1 Chee,Sonny,H.
+A1 Chiang,Jenny,Y.
+YR 1998
+T1 MultiMediaMiner: a system prototype for multimedia data mining
+JF Sigmod Record
+VO 27
+SP 581
+OP 583
+IS 2
+
+RT Conference Proceedings
+ID 205416
+A1 Kamber,Micheline
+A1 Han,Jiawei
+A1 Chiang,Jenny
+YR 1997
+T1 Metarule-Guided Mining of MultiDimensional Association Rules Using Data Cubes
+SP 207
+OP 210
+
+RT Conference Proceedings
+ID 312843
+A1 Han,Jiawei
+A1 Koperski,Krzysztof
+A1 Stefanovic,Nebojsa
+YR 1997
+T1 GeoMiner: A System Prototype for Spatial Data Mining
+SP 553
+OP 556
+
+RT Conference Proceedings
+ID 568977
+A1 Kamber,Micheline
+A1 Winstone,Lara
+A1 Gon,Wang
+A1 Han,Jiawei
+YR 1997
+T1 Generalization and Decision Tree Induction: Efficient Classification in Data Mining
+SP 0
+
+RT Conference Proceedings
+ID 429796
+A1 Han,Jiawei
+YR 1997
+T1 OLAP Mining: Integration of OLAP with Data Mining
+SP 3
+OP 20
+
+RT Journal Article
+ID 397187
+A1 Kamber,Micheline
+A1 Han,Jiawei
+A1 Chiang,Jenny,Y.
+YR 1997
+T1 Using Data Cubes for Metarule-Guided Mining of MultiDimensional Association Rules
+
+RT Conference Proceedings
+ID 4240129
+A1 Han,Jiawei
+A1 Chiang,Jenny,Y.
+A1 Chee,Sonny,Han,Seng
+A1 Chen,Jianping
+A1 Chen,Qing
+A1 Cheng,Shan
+A1 Gong,Wan
+A1 Kamber,Micheline
+A1 Koperski,Krzysztof
+A1 Liu,Gang
+A1 Lu,Yijun
+A1 Stefanovic,Nebojsa
+A1 Winstone,Lara
+A1 Xia,Betty,B.
+A1 Zaïane,Osmar,R.
+A1 Zhang,Shuhua
+A1 Zhu,Hua
+YR 1997
+T1 DBMiner: a system for data mining in relational databases and data warehouses
+SP 8
+
+RT Journal Article
+ID 1314463
+A1 Ng,Raymond,T.
+A1 Lakshmanan,Laks,V.,S.
+A1 Han,Jiawei
+A1 Pang,Alex
+YR 1997
+T1 Exploratory mining and optimization of constrained association queries
+
+RT Conference Proceedings
+ID 522319
+A1 Han,Jiawei
+YR 1997
+T1 Data Mining: Where is it Heading? (Panel)
+SP 508
+
+RT Conference Proceedings
+ID 50074749
+A1 Han,Jiawei
+YR 1997
+T1 Data Mining: Where Is It Heading?
+SP 508
+OP 508
+
+RT Journal Article
+ID 359671
+A1 Chen,Ming-syan
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 1996
+T1 Data Mining: An Overview from a Database Perspective
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 8
+SP 866
+OP 883
+IS 6
+
+RT Conference Proceedings
+ID 311460
+A1 Cheung,David,Wai-lok
+A1 Hant,Jiawei
+A1 Ngtt,Vincent,T.
+A1 Wongj,C.,Y.
+YR 1996
+T1 Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique
+SP 106
+OP 114
+
+RT Conference Proceedings
+ID 328021
+A1 Cheung,David,Wai-lok
+A1 Han,Jiawei
+A1 Ng,Vincent,T.,Y.
+A1 Fu,Ada,Wai-chee
+A1 Fu,Yongjian
+YR 1996
+T1 A Fast Distributed Algorithm for Mining Association Rules
+SP 31
+OP 42
+
+RT Conference Proceedings
+ID 350928
+A1 Han,Jiawei
+A1 Fu,Yongjian
+YR 1996
+T1 Exploration of the Power of Attribute-Oriented Induction in Data Mining
+
+RT Conference Proceedings
+ID 340679
+A1 Han,Jiawei
+A1 Fu,Yongjian
+A1 Wang,Wei
+A1 Chiang,Jenny
+A1 Gong,Wan
+A1 Koperski,Krzysztof
+A1 Li,Deyi
+A1 Lu,Yijun
+A1 Rajan,Amynmohamed
+A1 Stefanovic,Nebojsa
+A1 Xia,Betty
+A1 Zaïane,Osmar,R.
+YR 1996
+T1 DBMiner: A System for Mining Knowledge in Large Relational Databases
+SP 250
+OP 255
+
+RT Conference Proceedings
+ID 31346
+A1 Koperski,Krzysztof
+A1 Adhikary,Junas
+A1 Han,Jiawei
+YR 1996
+T1 Spatial Data Mining: Progress and Challenges
+SP 0
+
+RT Journal Article
+ID 802364
+A1 Han,Jiawei
+A1 Huang,Yue
+A1 Cercone,Nick
+A1 Fu,Yongjian
+YR 1996
+T1 Intelligent Query Answering by Knowledge Discovery Techniques
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 8
+SP 373
+OP 390
+IS 3
+
+RT Conference Proceedings
+ID 696453
+A1 Han,Jiawei
+A1 Fu,Yongjian
+YR 1996
+T1 Attribute-Oriented Induction in data Mining
+
+RT Journal Article
+ID 667227
+A1 Han,Jiawei
+YR 1996
+T1 Data Mining Techniques
+JF Sigmod Record
+VO 25
+SP 545
+IS 2
+
+RT Journal Article
+ID 38042
+A1 Koperski,Krzysztof
+A1 Han,Jiawei
+YR 1996
+T1 Data Mining Methods for the Analysis of Large Geographic Databases
+JF International Journal of Geographical Information Science
+
+RT Journal Article
+ID 322681
+A1 Ooi,Beng,Chin
+A1 Han,Jiawei
+A1 Lu,Hongjun
+A1 Tan,Kian-lee
+YR 1996
+T1 Index Nesting - An Efficient Approach to Indexing in Object-Oriented Databases
+JF The Vldb Journal
+VO 5
+SP 215
+OP 228
+IS 3
+
+RT Journal Article
+ID 13279885
+A1 Simoudis,Evangelos
+A1 Han,Jiawei
+A1 Fayyad,Usama,M.
+YR 1996
+T1 Proceedings of the Second International Conference on Knowledge Discovery and Data Mining (KDD96)
+
+RT Conference Proceedings
+ID 668057
+A1 Han,Jiawei
+A1 Fu,Youngjian
+A1 Wang,Wei
+A1 Chiang,Jenny
+A1 Zaïane,Osmar,R.
+A1 Koperski,Krzysztof
+YR 1996
+T1 DBMiner: Interactive Mining of Multiple-Level Knowledge in Relational Databases
+SP 550
+
+RT Conference Proceedings
+ID 50065171
+A1 Cheung,D.,W.
+A1 Han,Jiawei
+A1 Ng,V.,T.
+A1 Fu,A.,W.
+A1 Fu,Yongjian
+YR 1996
+T1 A fast distributed algorithm for mining association rules
+
+RT Journal Article
+ID 12662975
+A1 Yu,P.,S.
+A1 Chen,Ming-syan
+A1 Han,Jiawei
+YR 1996
+T1 Data Mining: An Overview from Database Perspective
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 8
+
+RT Journal Article
+ID 39217065
+A1 Han,Jiawei
+YR 1996
+T1 Data mining techniques
+JF Sigmod Record
+SP 545
+
+RT Conference Proceedings
+ID 341138
+A1 Han,Jiawei
+A1 Fu,Yongjian
+YR 1995
+T1 Discovery of Multiple-Level Association Rules from Large Databases
+SP 420
+OP 431
+
+RT Book, Whole
+ID 386505
+A1 Koperski,Krzysztof
+A1 Han,Jiawei
+YR 1995
+T1 Discovery of Spatial Association Rules in Geographic Information Databases
+SP 47
+OP 66
+
+RT Conference Proceedings
+ID 354210
+A1 Fu,Yongjian
+A1 Han,Jiawei
+YR 1995
+T1 Meta-Rule-Guided Mining of Association Rules in Relational Databases
+SP 39
+OP 46
+
+RT Journal Article
+ID 306162
+A1 Han,Jiawei
+A1 Zaïane,Osmar,R.
+A1 Fu,Yongjian
+YR 1995
+T1 Resource and Knowledge Discovery in Global Information Systems: A Multiple Layered Database Approach
+
+RT Conference Proceedings
+ID 473977
+A1 Zaïane,Osmar,R.
+A1 Han,Jiawei
+YR 1995
+T1 Resource and Knowledge Discovery in Global Information Systems: A Preliminary Design and Experiment
+SP 331
+OP 336
+
+RT Conference Proceedings
+ID 360231
+A1 Han,Jiawei
+A1 Fraser,Simon
+YR 1995
+T1 Mining knowledge at multiple concept levels
+SP 19
+OP 24
+
+RT Conference Proceedings
+ID 2374177
+A1 Han,Jiawei
+A1 Fu,Yongjian
+A1 Koperski,Krzysztof
+A1 Melli,Gabor
+A1 Wang,Wei
+YR 1995
+T1 Knowledge Mining in Databases: An Integration of Machine Learning Methodologies with Database Technologies
+
+RT Journal Article
+ID 1974982
+A1 Gemmel,D.,James
+A1 Han,Jiawei
+A1 Beaton,Richard
+A1 Christodoulakis,Stavros
+YR 1995
+T1 Delay-Sensitive Multimedia on Disks
+JF IEEE Multimedia
+
+RT Journal Article
+ID 363272
+A1 Han,Jiawei
+YR 1995
+T1 Chain-Split Evaluation in Deductive Databases
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 7
+SP 261
+OP 273
+IS 2
+
+RT Conference Proceedings
+ID 4286026
+A1 Han,Jiawei
+A1 Fu,Yongjian
+A1 Tang,Simon
+YR 1995
+T1 Advances of the DBLearn System for Knowledge Discovery in Large Databases
+SP 2049
+OP 2050
+
+RT Journal Article
+ID 733422
+A1 Lu,Wei
+A1 Han,Jiawei
+YR 1995
+T1 Information-Associated Join Indices for Spatial Range Search
+JF International Journal of Geographical Information Science
+VO 9
+SP 221
+OP 249
+IS 3
+
+RT Journal Article
+ID 14540299
+A1 Lu,Wei
+A1 Han,Jiawei
+YR 1995
+T1 Query evaluation and optimization in deductive and object-oriented spatial databases
+JF Information & Software Technology
+VO 37
+SP 131
+OP 143
+IS 3
+
+RT Journal Article
+ID 150674
+A1 Han,Jiawei
+A1 Lakshmanan,Laks,V.,S.
+YR 1995
+T1 Evaluation of Regular Nonlinear Recursions by Deductive Database Techniques
+JF Information Systems
+VO 20
+SP 419
+OP 441
+IS 5
+
+RT Journal Article
+ID 4391587
+A1 Huang,Yan-nong
+A1 Dahl,Verónica
+A1 Han,Jiawei
+YR 1995
+T1 Fact Updates in Logic Databases
+JF International Journal of Software Engineering and Knowledge Engineering
+VO 5
+SP 467
+OP 491
+IS 3
+
+RT Book, Whole
+ID 152608
+A1 Xie,Zhaohui
+A1 Han,Jiawei
+YR 1995
+T1 Normalization and Compilation of Deductive and Object-Oriented Databases Programs for Efficient Query Evaluation
+SP 485
+OP 502
+
+RT Conference Proceedings
+ID 511336
+A1 Cheung,David,Wai-lok
+A1 Han,Jiawei
+YR 1995
+T1 Maintenance of Discovered Knowledge: A Strategy for Updating Association Rules (Abstract)
+SP 58
+OP 60
+
+RT Conference Proceedings
+ID 309765
+A1 Ng,Raymond,T.
+A1 Han,Jiawei
+YR 1994
+T1 Efficient and Effective Clustering Methods for Spatial Data Mining
+SP 144
+OP 155
+
+RT Conference Proceedings
+ID 36946
+A1 Han,Jiawei
+A1 Fu,Yongjian
+YR 1994
+T1 Dynamic Generation and Refinement of Concept Hierarchies for Knowledge Discovery in Databases
+SP 157
+OP 168
+
+RT Conference Proceedings
+ID 578394
+A1 Xie,Zhaohui
+A1 Han,Jiawei
+YR 1994
+T1 Join Index Hierarchies for Supporting Efficient Navigations in Object-Oriented Databases
+SP 522
+OP 533
+
+RT Journal Article
+ID 1994276
+A1 Gemmell,D.,James
+A1 Han,Jiawei
+YR 1994
+T1 Multimedia network file servers: Multichannel delay-sensitive data retrieval
+JF Multimedia Systems
+VO 1
+SP 240
+OP 252
+IS 6
+
+RT Journal Article
+ID 757640
+A1 Han,Jiawei
+YR 1994
+T1 Towards Efficient Induction Mechanisms in Database Systems
+JF Theoretical Computer Science
+VO 133
+SP 361
+OP 385
+IS 2
+
+RT Journal Article
+ID 850236
+A1 Gemmell,Jim
+A1 Han,Jiawei
+A1 Beaton,Richard,J.
+A1 Christodoulakis,Stavros
+YR 1994
+T1 Delay-Sensitive Multimedia on Disks
+JF IEEE Multimedia
+VO 1
+SP 56
+OP 67
+IS 3
+
+RT Conference Proceedings
+ID 668308
+A1 Han,Jiawei
+A1 Fu,Yongjian
+A1 Huang,Yue
+A1 Cai,Yandong
+A1 Cercone,Nick
+YR 1994
+T1 DBLearn: A System Prototype for Knowledge Discovery in Relational Databases
+SP 516
+
+RT Conference Proceedings
+ID 620896
+A1 Cheung,David,Wai-lok
+A1 Fu,Ada,Wai-chee
+A1 Han,Jiawei
+YR 1994
+T1 A Case-Based Reasoning Approach for Associative Query Answering
+SP 164
+OP 173
+
+RT Conference Proceedings
+ID 4245840
+A1 Han,Jiawei
+A1 Fu,Yongjian
+A1 Ng,Raymond,T.
+YR 1994
+T1 Cooperative Query Answering Using Multiple Layered Databases
+SP 47
+OP 58
+
+RT Journal Article
+ID 145989
+A1 Han,Jiawei
+YR 1994
+T1 Constraint-Based Query Evaluation in Deductive Databases
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 6
+SP 96
+OP 107
+IS 1
+
+RT Conference Proceedings
+ID 499801
+A1 Han,Jiawei
+A1 Liu,Ling
+A1 Xie,Zhaohui
+YR 1994
+T1 LogicBase: a deductive database system prototype
+SP 226
+OP 233
+
+RT Book, Whole
+ID 189408
+A1 Kawano,Hiroyuki
+A1 Nishio,Shojiro
+A1 Han,Jiawei
+A1 Hasegawa,Toshiharu
+YR 1994
+T1 How Does Knowledge Discovery Cooperate with Active Database Techniques in Controlling Dynamic Environment?
+SP 370
+OP 379
+
+RT Journal Article
+ID 802508
+A1 Lu,Wenyu
+A1 Lee,Dik,Lun
+A1 Han,Jiawei
+YR 1994
+T1 A Study on the Structure of Linear Recursion
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 6
+SP 723
+OP 737
+IS 5
+
+RT Journal Article
+ID 314943
+A1 Han,Jiawei
+A1 Cai,Yandong
+A1 Huang,Nick,Cercone,Yue
+YR 1994
+T1 Discovery of Data Evolution Regularities in Large Databases
+
+RT Journal Article
+ID 751621
+A1 Gemmell,Jim
+A1 Han,Jiawei
+YR 1994
+T1 Multichannel Delay Sensitive Data Retrieval
+JF Multimedia Systems
+VO 1
+SP 240
+OP 252
+IS 6
+
+RT Journal Article
+ID 14415020
+A1 Han,Jiawei
+A1 Fu,Yongjian
+A1 Huang,Yue
+A1 Cai,Yandong
+A1 Cercone,Nick
+YR 1994
+T1 DBLearn: a system prototype for knowledge discovery in relational databases
+JF Sigmod Record
+VO 23
+SP 516
+IS 2
+
+RT Book, Whole
+ID 621084
+A1 Huang,Yan-nong
+A1 Dahl,Verónica
+A1 Han,Jiawei
+YR 1994
+T1 Incremental Processing of Logic Database Relations
+SP 561
+OP 570
+
+RT Journal Article
+ID 61400304
+A1 Gemmell,D.,James
+A1 Han,Jiawei
+YR 1994
+T1 Multimedia Network File Servers: MultiChannel Delay Sensitive Data Retrieval
+
+RT Journal Article
+ID 803149
+A1 Han,Jiawei
+A1 Cai,Yandong
+A1 Cercone,Nick
+YR 1993
+T1 Data-Driven Discovery of Quantitative Rules in Relational Databases
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 5
+SP 29
+OP 40
+IS 1
+
+RT Journal Article
+ID 376421
+A1 Lu,Wei
+A1 Han,Jiawei
+A1 Ooi,Beng,Chin
+YR 1993
+T1 Discovery of General Knowledge in Large Spatial Databases
+
+RT Conference Proceedings
+ID 630328
+A1 Hu,Xiaohua
+A1 Cercone,Nick
+A1 Han,Jiawei
+YR 1993
+T1 An Attribute-Oriented Rough Set Approach for Knowledge Discovery in Databases
+SP 90
+OP 99
+
+RT Conference Proceedings
+ID 523327
+A1 Han,Jiawei
+A1 Zeng,Kangsheng
+A1 Lu,Tong
+YR 1993
+T1 Normalization of Linear Recursions in Deductive Databases
+SP 559
+OP 567
+
+RT Journal Article
+ID 27118782
+A1 Han,Jian-Chiu
+YR 1993
+T1 Hydraulic characteristics of mixed convection in a heated vertical pipe
+JF Journal of Fluids Engineering-transactions of The Asme
+VO 115
+SP 41
+OP 47
+IS 1
+
+RT Conference Proceedings
+ID 660078
+A1 Han,Jiawei
+A1 Liu,Ling
+A1 Xie,Zhaohui
+YR 1993
+T1 LogicBase: A System Prototype for Deductive Query Evaluation
+SP 146
+OP 160
+
+RT Conference Proceedings
+ID 255049
+A1 Lakshmanan,Laks,V.,S.
+A1 Ashraf,Karima
+A1 Han,Jiawei
+YR 1993
+T1 Homomorphic Tree Embeddings and Their Applications to Recursive Program Optimization
+SP 344
+OP 353
+
+RT Conference Proceedings
+ID 630352
+A1 Cercone,Nick
+A1 Mcfetridge,Paul
+A1 Han,Jiawei
+A1 Popowich,Fred
+YR 1993
+T1 Human-Computer Interfaces: DBLEARN and System X
+SP 32
+OP 43
+
+RT Conference Proceedings
+ID 660016
+A1 Han,Jiawei
+A1 Liu,Ling
+A1 Xie,Zhaohui
+YR 1993
+T1 Outline of the LogicBase Demonstration
+SP 165
+
+RT Journal Article
+ID 793378
+A1 Han,Jiawei
+YR 1993
+T1 Compilation and evaluation of linear mutual recursions
+JF Information Sciences
+VO 69
+SP 157
+OP 183
+IS 1
+
+RT Conference Proceedings
+ID 49954282
+A1 Han,Jiawei
+A1 Fu,Yongjian
+YR 1993
+T1 Knowledge discovery and constraint-based processing in automated manufacturing
+
+RT Conference Proceedings
+ID 483606
+A1 Han,Jiawei
+A1 Lakshmanan,Laks,V.,S.
+YR 1993
+T1 Evaluation of Regular Nonlinear Recursive Programs
+SP 648
+
+RT Conference Proceedings
+ID 33734
+A1 Han,Jiawei
+A1 Cai,Yandong
+A1 Cercone,Nick
+YR 1992
+T1 Knowledge Discovery in Databases: An Attribute-Oriented Approach
+SP 547
+OP 559
+
+RT Conference Proceedings
+ID 522349
+A1 Lu,Wei
+A1 Han,Jiawei
+YR 1992
+T1 Distance-Associated Join Indices for Spatial Range Search
+SP 284
+OP 292
+
+RT Journal Article
+ID 706299
+A1 Han,Jiawei
+A1 Zeng,Kangsheng
+YR 1992
+T1 Automatic generation of compiled forms for linear recursions
+JF Information Systems
+VO 17
+SP 299
+OP 322
+IS 4
+
+RT Journal Article
+ID 802852
+A1 Youn,Cheong
+A1 Kim,Hyoung-joo
+A1 Henschen,Lawrence,J.
+A1 Han,Jiawei
+YR 1992
+T1 Classification and Compilation of Linear Recursive Queries in Deductive Databases
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 4
+SP 52
+OP 67
+IS 1
+
+RT Book, Whole
+ID 510803
+A1 Han,Jiawei
+YR 1992
+T1 Compilation-Based List Processing in Deductive Databases
+SP 104
+OP 119
+
+RT Conference Proceedings
+ID 522318
+A1 Han,Jiawei
+YR 1992
+T1 Chain-Split Evaluation in Deductive Databases
+SP 376
+OP 384
+
+RT Conference Proceedings
+ID 660015
+A1 Han,Jiawei
+A1 Lu,Tong
+YR 1992
+T1 N-Queens Problem Revisited: A Deductive Database Approach
+SP 48
+OP 55
+
+RT Journal Article
+ID 739279
+A1 Han,Jiawei
+YR 1992
+T1 Binding Propagation Beyond the Reach of Rule/Goal Graphs
+JF Information Processing Letters
+VO 42
+SP 263
+OP 268
+IS 5
+
+RT Conference Proceedings
+ID 568925
+A1 Han,Jiawei
+YR 1992
+T1 Chain-Based Evaluation - A Bridge Linking Recursive and Nonrecursive Query Evaluation
+SP 132
+OP 139
+
+RT Conference Proceedings
+ID 635011
+A1 Han,Jiawei
+YR 1992
+T1 Efficient Deduction and Induction: Key to the Success of Data-Intensive Knowledge-Base Systems
+SP 139
+OP 157
+
+RT Conference Proceedings
+ID 660028
+A1 Liu,Ling
+A1 Han,Jiawei
+YR 1992
+T1 Compressed Counting Method
+SP 76
+OP 85
+
+RT Journal Article
+ID 4391472
+A1 HAN,JIA WEI
+YR 1992
+T1 On the Power of Query-Independent Compilation
+JF International Journal of Software Engineering and Knowledge Engineering
+VO 2
+SP 277
+OP 292
+IS 2
+
+RT Journal Article
+ID 696377
+A1 Cai,Yandong
+A1 Cercone,Nick
+A1 Han,Jiawei
+YR 1991
+T1 Attribute-Oriented Induction in Relational Databases
+
+RT Journal Article
+ID 700012
+A1 Cai,Yandong
+A1 Cercone,Nick
+A1 Han,Jiawei
+YR 1991
+T1 Learning in relational databases: an attribute-oriented approach
+JF Computational Intelligence
+VO 7
+SP 119
+OP 132
+IS 3
+
+RT Book, Whole
+ID 511344
+A1 Low,Chee,Chin
+A1 Lu,Hongjun
+A1 Ooi,Beng,Chin
+A1 Han,Jiawei
+YR 1991
+T1 Efficient Access Methods in Deductive and Object-Oriented Databases
+SP 68
+OP 84
+
+RT Conference Proceedings
+ID 522317
+A1 Han,Jiawei
+YR 1991
+T1 Constraint-Based Reasoning in Deductive Databases
+SP 257
+OP 265
+
+RT Journal Article
+ID 706298
+A1 Han,Jiawei
+A1 Wang,Qiang
+YR 1991
+T1 Evaluation of functional linear recursions: a compilation approach
+JF Information Systems
+VO 16
+SP 463
+OP 469
+IS 4
+
+RT Journal Article
+ID 765975
+A1 Han,Jiawei
+A1 Liu,Ling
+YR 1991
+T1 Efficient Evaluation of Multiple Linear Recursions
+JF IEEE Transactions on Software Engineering
+VO 17
+SP 1241
+OP 1252
+IS 12
+
+RT Book, Whole
+ID 620822
+A1 Han,Jiawei
+A1 Wang,Qiang
+YR 1991
+T1 Efficient Evaluation of Linear Recursions with Function Sysmbols in Deductive Databases
+SP 132
+OP 141
+
+RT Conference Proceedings
+ID 522503
+A1 Cai,Yandong
+A1 Cercone,Nick
+A1 Han,Jiawei
+YR 1990
+T1 An Attribute-Oriented Approach for Learning Classification Rules from Relational Databases
+SP 281
+OP 288
+
+RT Conference Proceedings
+ID 2471421
+A1 Luk,W.,S.
+A1 Zhang,Weining
+A1 Han,Jiawei
+YR 1990
+T1 Path: An Approach to Incorporate List Processing in A Relational Database
+SP 189
+OP 194
+
+RT Journal Article
+ID 706311
+A1 Han,Jiawei
+YR 1990
+T1 From transitive closure recursions to single-chain recursions
+JF Information Systems
+VO 15
+SP 479
+OP 488
+IS 4
+
+RT Journal Article
+ID 699962
+A1 Han,Jiawei
+YR 1989
+T1 Compiling general linear recursions by variable connection graph analysis
+JF Computational Intelligence
+VO 5
+SP 12
+OP 31
+IS 1
+
+RT Journal Article
+ID 706310
+A1 Han,Jiawei
+YR 1989
+T1 Multi-way counting method
+JF Information Systems
+VO 14
+SP 219
+OP 229
+IS 3
+
+RT Journal Article
+ID 647865
+A1 Han,Jiawei
+A1 Lu,Wenyu
+YR 1989
+T1 Asynchronous Chain Recursions
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 1
+SP 285
+OP 292
+IS 2
+
+RT Conference Proceedings
+ID 511266
+A1 Han,Jiawei
+A1 Henschen,Lawrence,J.
+YR 1989
+T1 The Level-Cycle Merging Method
+SP 65
+OP 81
+
+RT Conference Proceedings
+ID 483605
+A1 Han,Jiawei
+A1 Liu,Ling
+YR 1989
+T1 Processing Multiple Linear Recursions
+SP 816
+OP 830
+
+RT Conference Proceedings
+ID 2471387
+A1 Han,Jiawei
+A1 Henschen,Lawrence,J.
+A1 Zhuang,Ning
+YR 1989
+T1 Derivation of Magic Sets by Compilation
+SP 164
+OP 171
+
+RT Conference Proceedings
+ID 522428
+A1 Lee,Sanggoo
+A1 Han,Jiawei
+YR 1988
+T1 Semantic Query Optimization in Recursive Databases
+SP 444
+OP 451
+
+RT Book, Whole
+ID 511011
+A1 Han,Jiawei
+A1 Qadah,Ghassan,Z.
+A1 Chaou,Chinying
+YR 1988
+T1 The Processing and Evaluation of Transitive Closure Queries
+SP 49
+OP 75
+
+RT Journal Article
+ID 667850
+A1 Youn,Cheong
+A1 Henschen,Lawrence,J.
+A1 Han,Jiawei
+YR 1988
+T1 Classification of Recursive Formulas in Deductive Databases
+JF Sigmod Record
+VO 17
+SP 320
+OP 328
+IS 3
+
+RT Conference Proceedings
+ID 617008
+A1 Han,Jiawei
+YR 1988
+T1 Selection of Processing Strategies for Different Recursive Queries
+SP 59
+OP 68
+
+RT Conference Proceedings
+ID 617040
+A1 Youn,Cheong
+A1 Henschen,Lawrence,J.
+A1 Han,Jiawei
+YR 1988
+T1 One-Directional Recursive Formulas
+SP 69
+OP 78
+
+RT Conference Proceedings
+ID 620821
+A1 Han,Jiawei
+A1 Luk,Wo-shun
+YR 1988
+T1 What Kinds of Recursion Can Be Processed by Transitive Closure Strategies?
+SP 170
+OP 179
+
+RT Journal Article
+ID 39216687
+A1 Youn,Cheong
+A1 Henschen,Lawrence,J.
+A1 Han,Jiawei
+YR 1988
+T1 Classification of recursive formulas in deductive databases
+JF Sigmod Record
+SP 320
+OP 328
+
+RT Journal Article
+ID 667186
+A1 Han,Jiawei
+A1 Henschen,Lawrence,J.
+YR 1987
+T1 Handling Redundancy in the Processing of Recursive Database Queries
+JF Sigmod Record
+VO 16
+SP 73
+OP 81
+IS 3
+
+RT Journal Article
+ID 39216622
+A1 Han,Jiawei
+A1 Henschen,Lawrence,J.
+YR 1987
+T1 Handling redundancy in the processing of recursive database queries
+JF Sigmod Record
+SP 73
+OP 81
+
+RT Conference Proceedings
+ID 522299
+A1 Han,Jiawei
+A1 Lu,Hongjun
+YR 1986
+T1 Some Performance Results on Recursive Query Processing in Relational Database Systems
+SP 533
+OP 541
+
+RT Journal Article
+ID 2886338
+A1 Tung,A.,K.,H.
+A1 Han,J.
+A1 Lakshmanan,L.,V.,S.
+A1 Ng,R.,T.
+YR 1973
+T1 Constraint-Based Clustering in Large Databases
+
+RT Journal Article
+ID 4477938
+A1 Han,Jiawei
+A1 Kamber,Micheline
+T1 Data Mining: Concepts and Techniques (2nd edition)
+
+RT Book, Whole
+ID 314780
+A1 Cheung,David,Wai-lok
+A1 Fu,Ada,Wai-Chee
+A1 Han,Jiawei
+T1 Knowledge discovery in databases: A rule-based attribute-oriented approach
+JF Lecture Notes in Computer Science
+
+RT Journal Article
+ID 3391686
+A1 Giannella,Chris
+A1 Han,Jiawei
+A1 Robertson,Edward
+A1 Liu,Chao
+T1 Mining Frequent Itemsets Over Arbitrary Time Intervals in Data Streams
+
+RT Journal Article
+ID 5521691
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Han,Jiawei
+T1 Spectral Regression for Dimensionality Reduction
+
+RT Conference Proceedings
+ID 3644330
+A1 Chakrabarti,Kaushik
+A1 Ganti,Venkatesh
+A1 Han,Jiawei
+A1 Xin,Dong
+T1 Ranking Objects by Exploiting Relationships: Computing Top-K over Aggregation
+
+RT Book, Whole
+ID 47841023
+A1 Aggarwal,Cham,C.
+A1 Han,Jiawei
+A1 Wang,Jianyong
+A1 Yu,Philip
+T1 On Clustering Massive Data Streams: A Summarization Paradigm
+
+RT Conference Proceedings
+ID 3391694
+A1 Liu,Hongyan
+A1 Han,Jiawei
+A1 Xin,Dong
+A1 Shao,Zheng
+T1 Mining Frequent Patterns from Very High Dimensional Data: A Top-Down Row Enumeration Approach
+
+RT Journal Article
+ID 5311026
+A1 Han,Jiawei
+T1 Research Challenges for Data Mining in Science and Engineering
+
+RT Journal Article
+ID 5506964
+A1 Zaïane,Osmar,R.
+A1 Hagen,Eli
+A1 Han,Jiawei
+T1 Word Taxonomy for On-line Visual Asset Management and Mining
+
+RT Journal Article
+ID 2282814
+A1 Li,Zhenmin
+A1 Srinivasan,Sudarshan,M.
+A1 Chen,Zhifeng
+A1 Zhou,Yuanyuan
+A1 Tzvetkov,Peter
+A1 Yan,Xifeng
+A1 Han,Jiawei
+T1 Using Data Mining for Discovering Patterns in Autonomic Storage Systems
+
+RT Journal Article
+ID 4139157
+A1 Yin,Xiaoxin
+A1 Han,Jiawei
+A1 Yang,Jiong
+T1 Efficient Multi-relational Classification by Tuple ID Propagation
+
+RT Book, Whole
+ID 48806392
+A1 Han,Jiawei
+T1 Construction and Analysis of Web-Based Computer Science Information Networks
+
+RT Conference Proceedings
+ID 10018544
+A1 Gao,Jing
+A1 Liang,Feng
+A1 Fan,Wei
+A1 Sun,Yizhou
+A1 Han,Jiawei
+T1 Graph-based Consensus Maximization among Multiple Supervised and Unsupervised Models
+
+RT Journal Article
+ID 11201760
+A1 Yan,Xifeng
+A1 Yu,Philip,S.
+A1 Han,Jiawei
+T1 Graph Indexing: A Frequent Structure›based Approach
+
+RT Journal Article
+ID 6413403
+A1 Han,Jiawei
+A1 Kamber,Micheline
+T1 Data Mining: Concepts and Techniques What is Cluster Analysis?
+
+RT Journal Article
+ID 6938676
+A1 Masud,Mohammad,M.
+A1 Gao,Jing
+A1 Khan,Latifur
+A1 Han,Jiawei
+T1 Classifying Evolving Data Streams for Intrusion Detection
+
+RT Journal Article
+ID 10975608
+A1 Cai,Y.,Dora
+A1 Clutter,David
+A1 Pape,Greg
+A1 Han,Jiawei
+A1 Welge,Michael
+A1 Auvil,Loretta
+T1 MAIDS: Mining Alarming Incidents from Data Streams
+
+RT Journal Article
+ID 13137841
+A1 Anahory,Sam
+A1 Murray,Dennis
+A1 Han,Jiawei
+A1 Kamber,Micheline
+A1 Pujar,Arun
+A1 Adriaans,Pieter
+A1 Zantinge,Dolf
+A1 Berson,Alex
+T1 Unit1: Data warehousing Definition, usage and trends. DBMS vs data warehouse, Data marts, Metadata, Multidimensional data mode, Data cubes, Schemas for Multidimensional Database: stars, snowflakes and fact constellations. Unit2: Data warehouse process & architecture, OLTP vs OLAP, ROLAP vs MOLAP, types of OLAP, servers, 3Tier data warehouse architecture, distributed and virtual data warehouses, data warehouse manager. Unit3: Data warehouse implementation, computation of data cubes, modelling OLAP data, OLAP queries manager, data warehouse back end tools, complex aggregation at multiple granularities, tuning and testing of data warehouse
+
+RT Journal Article
+ID 13503686
+A1 Anahory,Sam
+A1 Murray,Dennis
+A1 Han,Jiawei
+A1 Kamber,Micheline
+A1 Pujar,Arun
+A1 Adriaans,Pieter
+A1 Zantinge,Dolf
+A1 Berson,Alex
+T1 Unit1: Data warehousing Definition, usage and trends. DBMS vs. data warehouse, Data marts, Metadata, Multidimensional data mode, Data cubes, Schemas for Multidimensional Database: stars, snowflakes and fact constellations. Unit2: Data warehouse process & architecture, OLTP vs. OLAP, ROLAP vs. MOLAP, types of OLAP, servers, 3Tier data warehouse architecture, distributed and virtual data warehouses, data warehouse manager. Unit3: Data warehouse implementation, computation of data cubes, modeling OLAP data, OLAP queries manager, data warehouse back end tools, complex aggregation at multiple granularities, tuning and testing of data warehouse
+
+RT Journal Article
+ID 3391658
+A1 Yu,Hwanjo
+A1 Doan,AnHai
+A1 Han,Jiawei
+T1 Mining for Information Discovery on the Web: Overview and Illustrative Research
+
+RT Book, Whole
+ID 4521597
+A1 Yang,Jiong
+A1 Yan,Xifeng
+A1 Han,Jiawei
+A1 Wang,Wei
+T1 Discovering an Evolutionary Classifier over a High-speed Nonstatic Stream
+
+RT Journal Article
+ID 10382762
+A1 Han,Jiawei
+A1 Kamber,Micheline
+T1 Bibliographic Notes for Chapter 10 Mining Object, Spatial, Multimedia, Text, and Web Data
+
+RT Journal Article
+ID 10395898
+A1 Han,Jiawei
+A1 Kamber,Micheline
+T1 Data Mining: Concepts and Techniques — Slides for Textbook — — Chapter 3
+
+RT Journal Article
+ID 10506447
+A1 Han,Jiawei
+A1 Kamber,Micheline
+T1 Bibliographic Notes for Chapter 3 Data Warehouse and OLAP Technology: An Overview
+
+RT Journal Article
+ID 11382598
+A1 Han,Jiawei
+A1 Kamber,Micheline
+T1 Bibliographic Notes for Chapter 11 Applications and Trends in Data Mining
+
+RT Journal Article
+ID 11506827
+A1 Han,Jiawei
+A1 Kamber,Micheline
+T1 Bibliographic Notes for Chapter 4 Data Cube Computation and Data Generalization
+
+RT Journal Article
+ID 12099764
+A1 Han,Jiawei
+A1 Kamber,Micheline
+T1 Bibliographic Notes for Chapter 8 Mining Stream, Time-Series, and Sequence Data
+
+RT Journal Article
+ID 12416401
+A1 Han,Jiawei
+A1 Kamber,Micheline
+T1 Bibliographic Notes for Chapter 5 Mining Frequent Patterns, Associations, and Correlations
+
+RT Journal Article
+ID 12431602
+A1 Han,Jiawei
+A1 Kamber,Micheline
+T1 Bibliographic Notes for Chapter 6 Classiflcation and Prediction
+
+RT Journal Article
+ID 12922527
+A1 Han,Jiawei
+A1 Kamber,Micheline
+T1 Bibliographic Notes for Chapter 9 Graph Mining, Social Network Analysis, and Multirelational Data Mining
+
+RT Journal Article
+ID 6116142
+A1 Han,Jiawei
+A1 Cai,Yandong
+A1 Cercone,Nick
+T1 Concept-Based Data Classificationin Relational Databases
+
+RT Journal Article
+ID 12702458
+A1 HAN,JIAWEI
+A1 ALTMAN,RUSS,B.
+A1 KUMAR,VIPIN
+A1 MANNILA,HEIKKI
+A1 PREGIBON,DARYL
+A1 MIURA,TERRY
+T1 Automated, scalable systems would reveal and help exploit the deeper meanings in scientific data, especially in biomedical engineering, telecommunications, geospatial exploration, and climate and Earth ecosystem modeling
+
+RT Book, Whole
+ID 47812856
+A1 Han,Jiawei
+A1 Cai,Y.
+A1 Chen,Yixin
+A1 Dong,Guozhu
+A1 Pei,Jian
+A1 Wah,Benjamin
+A1 Wang,Jianyong
+T1 MultiDimensional Analysis of Data Streams Using Stream Cubes
+
+RT Journal Article
+ID 10828997
+A1 Liu,Chao
+A1 Yany,Xifeng
+A1 Yu,Hwanjo
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+T1 Mining Beha vior Graphs for \Backtrace" of Noncrashing Bugs
+
+RT Journal Article
+ID 10605172
+A1 HAN,JIAWEI
+A1 CHEN,YIXIN
+A1 DONG,GUOZHU
+A1 PEI,JIAN
+A1 WAH,BENJAMIN,W.
+T1 for MultiDimensional Analysis of Data Streams
+
+RT Journal Article
+ID 10567267
+A1 Wang,Wei
+A1 Wang,Chen
+A1 Zhu,Yongtai
+A1 Shi,Baile
+A1 Pei,Jian
+A1 Yan,Xifeng
+A1 Han,Jiawei
+T1 GraphMiner: A Structural Pattern-Mining System for Large Disk-based Graph Databases and Its Applications
+
+RT Journal Article
+ID 48008102
+A1 Li,Zhenhui
+A1 Han,Jiawei
+A1 Ding,Bolin
+A1 Kays,Roland
+T1 Mining periodic behaviors of object movements for animal and biological sustainability studies
+JF Data Mining and Knowledge Discovery
+SP 1
+OP 32
+
+RT Journal Article
+ID 13068995
+A1 Chen,Yixin
+A1 Dong,Guozhu
+A1 Han,Jiawei
+A1 Wah,Benjamin,W.
+A1 Wang,Jianyong
+T1 and Aggregation
+
+RT Book, Whole
+ID 48082911
+A1 Chen,Chen
+A1 Lin,Cindy,Xide
+A1 Fredrikson,Matt
+A1 Christodorescu,Mihai
+A1 Yan,Xifeng
+A1 Han,Jiawei
+T1 Mining Large Information Networks by Graph Summarization
+
+RT Journal Article
+ID 10366255
+A1 Zhu,Feida
+A1 Yan,Xifeng
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+A1 Cheng,Hong
+T1 Mining Colossal Frequent Patterns by Core Pattern Fusion
+
+RT Journal Article
+ID 11464583
+A1 Cheng,Hong
+A1 Yan,Xifeng
+A1 Han,Jiawei
+A1 Hsu,Chih-Wei
+T1 Discriminative Frequent Pattern Analysis for Eective Classification
+
+RT Journal Article
+ID 11684504
+A1 Cai,Y.,Dora
+A1 Clutter,David
+A1 Pape,Greg
+A1 Han,Jiawei
+A1 Welge,Michael
+A1 Auvil,Loretta
+T1 MAIDS: Mining Alarming Incidents from Data Streams (Demonstration Proposal)
+
+RT Journal Article
+ID 11709655
+A1 Jiang,Bin
+A1 Pei,Jian
+A1 Lin,Xuemin
+A1 Cheung,David,W.
+A1 Han,Jiawei
+T1 Mining Preferences from Superior and Inferior Examples TR 2008-09
+
+RT Journal Article
+ID 10134470
+A1 Wu,Tianyi
+A1 Sun,Yizhou
+A1 Liz,Cuiping
+A1 Han,Jiawei
+T1 Region-based Online Promotion Analysis
+
+RT Journal Article
+ID 10864091
+A1 Yan,Xifeng
+A1 Cheng,Hong
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+T1 Mining Significant Graph Patterns by Leap Search
+
+RT Book, Whole
+ID 48798894
+A1 Gupta,Manish
+A1 Aggarwal,Charu,C.
+A1 Han,Jiawei
+T1 Finding Top-k Shortest Path Distance Changes in an Evolutionary Network
+
+RT Journal Article
+ID 11330296
+A1 Pei,Jian
+A1 Dong,Guozhu
+A1 Zou,Wei
+A1 Han,Jiawei
+T1 Mining Condensed Frequent Pattern
+
+RT Journal Article
+ID 6813802
+A1 Aggarwal,Charu,C.
+A1 Han,Jiawei
+A1 Chen,Chen
+T1 A Framework for Inverse Classification
+
+RT Journal Article
+ID 10506358
+A1 Sun,Yizhou
+A1 Han,Jiawei
+A1 Zhao,Peixiang
+A1 Yin,Zhijun
+A1 Cheng,Hong
+A1 Wu,Tianyi
+T1 RankClus: Integrating Clustering with Ranking for Heterogeneous Information Network Analysis
+
+RT Journal Article
+ID 12789967
+A1 Han,Jiawei
+A1 Fraser,Simon
+T1 Integrating both constraint-based and multidimensional mining into one framework provides an interactive, exploratory environment for effective and efficient data analysis and mining. Constraint-Based, Multidimensional Data Mining
+
+RT Journal Article
+ID 12992578
+A1 Yan,Xifeng
+A1 Yang,Jiong
+A1 Wang,Wei
+A1 Han,Jiawei
+T1 Approximate Quantile Computation over Sensor Networks
+
+RT Journal Article
+ID 6509436
+A1 Han,Jiawei
+A1 Yin,Xiaoxin
+A1 Yu,Philip,S.
+T1 Exploring the Power of Links in Scalable Data Analysis
+
+RT Book, Whole
+ID 47758934
+A1 Yin,Xiaoxin
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+T1 Scalable Link-Based Similarity Computation and Clustering
+
+RT Book, Whole
+ID 48134216
+A1 Yin,Xiaoxin
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+T1 Veracity Analysis and Object Distinction
+
+RT Journal Article
+ID 13211512
+A1 Masud,Mohammad,Mehedy
+A1 Gao,Jing
+A1 Khan,Latifur
+A1 Han,Jiawei
+A1 Thuraisingham,Bhavani
+T1 Facing the Reality of Data Stream Classification: Coping with Scarcity of Labeled Data
+
+RT Journal Article
+ID 61402330
+A1 Tang,Lu-An
+A1 Zheng,Yu
+A1 Xie,Xing
+A1 Yuan,Jing
+A1 Yu,Xiao
+A1 Han,Jiawei
+T1 Retr ieving k-Near est Neighbor ing Traje ctor ies by a Set of Point Locations
+
+RT Journal Article
+ID 10808875
+A1 Wu,Tianyi
+A1 Xin,Dong
+A1 Mei,Qiaozhu
+A1 Han,Jiawei
+T1 Promotion Analysis in MultiDimensional Space
+
+RT Book, Whole
+ID 48781031
+A1 Jin,Wen
+A1 Han,Jiawei
+A1 Ester,Martin
+T1 Mining Thick Skylines over Large Databases
+
+RT Journal Article
+ID 10691814
+A1 Cheng,Hong
+A1 Yu,Philip,S.
+A1 Han,Jiawei
+T1 AC-Close: Eciently Mining Approximate Closed Itemsets by Core Pattern Recovery
+
+RT Journal Article
+ID 12715146
+A1 Chen,Chen
+A1 Yan,Xifeng
+A1 Zhu,Feida
+A1 Han,Jiawei
+T1 gApprox: Mining Frequent Approximate Patterns from a Massive Network
+
+RT Book, Whole
+ID 48799400
+A1 Salvemini,Eliana
+A1 Fumarola,Fabio
+A1 Malerba,Donato
+A1 Han,Jiawei
+T1 FAST Sequence Mining Based on Sparse Id-Lists
+
+RT Journal Article
+ID 10842490
+A1 Gao,Jing
+A1 Fan,Wei
+A1 Jiang,Jing
+A1 Han,Jiawei
+T1 Knowledge Transfer via Multiple Model Local Structure Mapping
+
+RT Book, Whole
+ID 47721896
+A1 Cheng,Hong
+A1 Yan,Xifeng
+A1 Han,Jiawei
+T1 Discriminative Frequent Pattern-Based Graph Classification
+
+RT Journal Article
+ID 11088823
+A1 Gao,Jing
+A1 Fan,Wei
+A1 Sun,Yizhou
+A1 Han,Jiawei
+T1 Heterogeneous Source Consensus Learning via Decision Propagation and Negotiation
+
+RT Journal Article
+ID 13046868
+A1 Xin,Dong
+A1 Chen,Chen
+A1 Han,Jiawei
+T1 Robust Indexing for Ranked Queries
+
+RT Book, Whole
+ID 47714809
+A1 Cheng,Hong
+A1 Yan,Xifeng
+A1 Han,Jiawei
+T1 Mining Graph Patterns
+
+RT Book, Whole
+ID 48852114
+A1 Kim,Sangkyum
+A1 Barsky,Marina
+A1 Han,Jiawei
+T1 Efficient Mining of Top Correlated Patterns Based on Null-Invariant Measures
+
+RT Book, Whole
+ID 47974454
+A1 Yan,Xifeng
+A1 Han,Jiawei
+T1 Graph Indexing
+
+RT Journal Article
+ID 6663730
+A1 Li,Xiaolei
+A1 Han,Jiawei
+T1 Mining Approximate Top­K Subspace Anomalies in Multi­Dimensional Time­Series Data
+
+RT Book, Whole
+ID 48084905
+A1 Sun,Yizhou
+A1 Han,Jiawei
+T1 Integrating Clustering with Ranking in Heterogeneous Information Networks Analysis
+
+RT Journal Article
+ID 10623920
+A1 Han,Jiawei
+T1 How Can Data Mining Help BioData Analysis? (Extended Abstract)
+
+RT Journal Article
+ID 12689148
+A1 Han,Jiawei
+T1 Data mining holds the key to uncovering and cataloging the authoritative links, traversal patterns, and semantic structures that will bring intelligence and direction to our Web interactions

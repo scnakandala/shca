@@ -1,0 +1,8248 @@
+RT Journal Article
+ID 59806473
+A1 Tanaka,Hirokazu
+A1 Krakauer,John,W.
+A1 Sejnowski,Terrence,J.
+YR 2012
+T1 Generalization and Multirate Models of Motor Adaptation
+JF Neural Computation
+VO 24
+SP 939
+OP 966
+IS 4
+
+RT Journal Article
+ID 48475288
+A1 Toups,Vincent,J
+A1 Fellous,Jean-Marc
+A1 Thomas,Peter,J.
+A1 Sejnowski,Terrence,J.
+A1 Tiesinga,Paul,H
+YR 2011
+T1 Finding the event structure of neuronal spike trains
+JF Neural Computation
+VO 12
+SP 1
+OP 1
+
+RT Journal Article
+ID 39326936
+A1 Romani,Sandro
+A1 Sejnowski,Terrence,J.
+A1 Tsodyks,Misha
+YR 2011
+T1 Intracellular Dynamics of Virtual Place Cells
+JF Neural Computation
+VO 23
+SP 651
+OP 655
+IS 3
+
+RT Journal Article
+ID 48871108
+A1 Ferrante,Michele
+A1 Ascoli,Giorgio,A.
+A1 Cells,Pyramidal
+A1 Komendantov,Alexander,O.
+A1 Volman,Vladislav
+A1 Levine,Herbert
+A1 Ben-Jacob,Eshel
+A1 Sejnowski,Terrence,J.
+A1 Conductances,Dendritic
+A1 Gasparini,Sonia
+A1 Medinilla,Virginia
+A1 Migliore,Michele
+A1 Goeritz,Marie,L.
+A1 Ouyang,Qing
+A1 Harris-Warrick,Ronald,M.
+YR 2011
+T1 Signal Propagation in Oblique Dendrites of CA1
+
+RT Journal Article
+ID 55748316
+A1 Dang-Vu,T.,T.
+A1 Bonjean,M.
+A1 Schabus,M.
+A1 Boly,M.
+A1 Darsaud,A.
+A1 Desseilles,M.
+A1 Degueldre,C.
+A1 Balteau,E.
+A1 Phillips,C.
+A1 Luxen,A.
+A1 Sejnowski,T.,J.
+A1 Maquet,P.
+YR 2011
+T1 Interplay between spontaneous and induced brain activity during human non-rapid eye movement sleep
+JF Proceedings of The National Academy of Sciences
+VO 108
+SP 15438
+OP 15443
+
+RT Journal Article
+ID 59806565
+A1 Toups,J.,Vincent
+A1 Fellous,Jean-Marc
+A1 Thomas,Peter,J.
+A1 Sejnowski,Terrence,J.
+A1 Tiesinga,Paul,H.
+YR 2011
+T1 Finding the Event Structure of Neuronal Spike Trains
+JF Neural Computation
+VO 23
+SP 2169
+OP 2208
+IS 9
+
+RT Journal Article
+ID 49512978
+A1 Peterson,David,A.
+A1 Lotz,Daniel,T.
+A1 Halgren,Eric
+A1 Sejnowski,Terrence,J.
+A1 Poizner,Howard
+YR 2011
+T1 Choice modulates the neural dynamics of prediction error processing during rewarded learning
+JF Neuroimage
+VO 54
+SP 1385
+OP 1394
+IS 2
+
+RT Journal Article
+ID 58746111
+A1 Coggan,Jay,S
+A1 Ocker,Gabriel,K
+A1 Sejnowski,Terrence,J
+A1 Prescott,Steven,A
+YR 2011
+T1 Explaining pathological changes in axonal excitability through dynamical analysis of conductance-based models
+JF Journal of Neural Engineering
+VO 8
+SP 65002
+IS 6
+
+RT Journal Article
+ID 59806595
+A1 Chan,Kwokleung
+A1 Lee,Te-Won
+A1 Sejnowski,Terrence,J.
+YR 2011
+T1 Variational Bayesian Learning of ICA with Missing Data
+
+RT Journal Article
+ID 48562149
+A1 Coggan,Jay,S
+A1 Ocker,Gabriel,K
+A1 Prescott,Steven,A
+A1 Sejnowski,Terrence,J
+YR 2011
+T1 Complex symptoms of demyelination and nerve damage explained by nonlinear dynamical analysis of conductance-based models
+JF BMC Neuroscience
+VO 12
+SP 1
+OP 2
+
+RT Journal Article
+ID 54605124
+A1 Cortes,J.,M.
+A1 Marinazzo,D.
+A1 Oram,M.,W.
+A1 Sejnowski,T.,J.
+A1 Rossum,M.,C.,W.,van
+YR 2011
+T1 The effect of neural adaptation of population coding accuracy
+
+RT Journal Article
+ID 53246700
+A1 Volman,V.
+A1 Bazhenov,M.
+A1 Sejnowski,T.,J.
+YR 2011
+T1 Pattern of trauma determines the threshold for epileptic activity in a model of cortical deafferentation
+JF Proceedings of The National Academy of Sciences
+VO 108
+SP 15402
+OP 15407
+
+RT Journal Article
+ID 51194432
+A1 Yu,Theodore
+A1 Sejnowski,Terrence,J.
+A1 Cauwenberghs,Gert
+YR 2011
+T1 Biophysical Neural Spiking, Bursting, and Excitability Dynamics in Reconfigurable Analog VLSI
+JF IEEE Transactions on Biomedical Circuits and Systems
+VO 5
+SP 420
+OP 429
+IS 5
+
+RT Journal Article
+ID 14282084
+A1 Drion,Guillaume
+A1 Bonjean,Maxime
+A1 Waroux,Olivier
+A1 Scuvée-Moreau,Jacqueline
+A1 Liégeois,Jean-François
+A1 Sejnowski,Terrence,J.
+A1 Sepulchre,Rodolphe
+A1 Seutin,Vincent
+YR 2010
+T1 M-type channels selectively control bursting in rat dopaminergic neurons
+JF European Journal of Neuroscience
+VO 31
+SP 827
+OP 835
+IS 5
+
+RT Journal Article
+ID 15093229
+A1 Wang,Hsi-Ping
+A1 Spencer,Donald
+A1 Fellous,Jean-Marc
+A1 Sejnowski,Terrence,J.
+YR 2010
+T1 Synchrony of Thalamocortical Inputs Maximizes Cortical Reliability
+JF Science
+VO 328
+SP 106
+OP 109
+IS 5974
+
+RT Journal Article
+ID 38817155
+A1 Frohlich,F.
+A1 Sejnowski,T.,J.
+A1 Bazhenov,M.
+YR 2010
+T1 Network Bistability Mediates Spontaneous Transitions between Normal and Pathological Brain States
+JF Journal of Neuroscience
+VO 30
+SP 10734
+OP 10743
+IS 32
+
+RT Journal Article
+ID 14280062
+A1 Wang,Hsi-Ping
+A1 Chicca,Elisabetta
+A1 Indiveri,Giacomo
+A1 Sejnowski,Terrence,J.
+YR 2010
+T1 Reliable Computation in Noisy Backgrounds Using Real-Time Neuromorphic Hardware
+
+RT Journal Article
+ID 13239657
+A1 Nelson,Jonathan,D.
+A1 McKenzie,Craig,R.,M.
+A1 Cottrell,Garrison,W.
+A1 Sejnowski,Terrence,J.
+A1 Planck,Max
+YR 2010
+T1 Experience matters: Information acquisition optimizes probability gain
+
+RT Conference Proceedings
+ID 51021456
+A1 Yu,Theodore
+A1 Sejnowski,Terrence,J.
+A1 Cauwenberghs,Gert
+YR 2010
+T1 Biophysical neural spiking and bursting dynamics in reconfigurable analog VLSI
+
+RT Journal Article
+ID 14278991
+A1 Peterson,David,A.
+A1 Sejnowski,Terrence,J.
+A1 Poizner,Howard
+YR 2010
+T1 Neurobiology of Disease
+
+RT Journal Article
+ID 14278179
+A1 Hao,Jiucang
+A1 Lee,Intae
+A1 Lee,Te-Won
+A1 Sejnowski,Terrence,J.
+YR 2010
+T1 Independent Vector Analysis for Source Separation Using a Mixture of Gaussians Prior
+JF Neural Computation
+VO 22
+SP 1646
+OP 1673
+IS 6
+
+RT Journal Article
+ID 36549796
+A1 Peterson,David,A.
+A1 Sejnowski,Terrence,J.
+A1 Poizner,Howard
+YR 2010
+T1 Convergent evidence for abnormal striatal synaptic plasticity in dystonia
+JF Neurobiology of Disease
+VO 37
+SP 558
+OP 573
+IS 3
+
+RT Journal Article
+ID 28112395
+A1 Eagleman,D.,M.
+A1 Sejnowski,T.,J.
+YR 2010
+T1 The flash-lag illusion: distinguishing a spatial from a temporal effect, and why that matters for interpreting visual physiology
+JF Journal of Vision
+VO 1
+SP 16
+OP 16
+IS 3
+
+RT Journal Article
+ID 14403681
+A1 Hao,Jiucang
+A1 Lee,Te-Won
+A1 Sejnowski,Terrence,J.
+YR 2010
+T1 Speech Enhancement Using Gaussian Scale Mixture Models
+JF IEEE Transactions on Audio, Speech & Language Processing
+VO 18
+SP 1127
+OP 1136
+IS 6
+
+RT Journal Article
+ID 14147897
+A1 Stiefel,Klaus,M.
+A1 Fellous,Jean-Marc
+A1 Thomas,Peter,J.
+A1 Sejnowski,Terrence,J.
+YR 2010
+T1 Intrinsic subthreshold oscillations extend the influence of inhibitory synaptic inputs on cortical pyramidal neurons
+JF European Journal of Neuroscience
+VO 31
+SP 1509
+OP 1509
+IS 8
+
+RT Journal Article
+ID 14279727
+A1 Moldakarimov,Samat
+A1 Bazhenov,Maxim
+A1 Sejnowski,Terrence,J.
+YR 2010
+T1 Representation Sharpening Can Explain Perceptual Priming
+JF Neural Computation
+VO 22
+SP 1312
+OP 1332
+IS 5
+
+RT Journal Article
+ID 14277233
+A1 Hasenstaub,Andrea
+A1 Otte,Stephani
+A1 Callaway,Edward
+A1 Sejnowski,T.,J.
+YR 2010
+T1 Metabolic cost as a unifying principle governing neuronal biophysics
+JF Proceedings of The National Academy of Sciences
+VO 107
+SP 12329
+OP 12334
+IS 27
+
+RT Journal Article
+ID 14280460
+A1 Modchang,Charin
+A1 Nadkarni,Suhita
+A1 Bartol,Thomas,M.
+A1 Triampo,Wannapong
+A1 Sejnowski,Terrence,J.
+A1 Levine,Herbert
+A1 Rappel,Wouter-Jan
+YR 2010
+T1 A comparison of deterministic and stochastic simulations of neuronal vesicle release models
+JF Physical Biology
+VO 7
+SP 26008
+IS 2
+
+RT Journal Article
+ID 57415006
+A1 Nadkarni,Suhita
+A1 Bartol,Thomas,M.
+A1 Sejnowski,Terrence,J.
+A1 Levine,Herbert
+YR 2010
+T1 Modelling Vesicular Release at Hippocampal Synapses
+JF PLOS Computational Biology
+VO 6
+IS 11
+
+RT Journal Article
+ID 14277351
+A1 Moldakarimov,Samat
+A1 Bazhenov,Maxim
+A1 Sejnowski,T.,J.
+YR 2010
+T1 Perceptual priming leads to reduction of gamma frequency oscillations
+JF Proceedings of The National Academy of Sciences
+VO 107
+SP 5640
+OP 5645
+IS 12
+
+RT Journal Article
+ID 13108963
+A1 Kim,Uhnoh
+A1 Mccormick,David,A.
+A1 Wang,G.
+A1 Thompson,S.,M.
+A1 Zhang,L.
+A1 Renaud,L.,P.
+A1 Kolaj,M.
+A1 Nanou,E.
+A1 Manira,A.,El
+A1 Sejnowski,T.,J.
+A1 Conductances,Dendritic
+A1 Wree,A.
+A1 Kohling,R.
+A1 Haas,S.,J.-P.
+A1 Benecke,R.
+A1 Zhang,L.
+A1 Manita,S.
+A1 Ross,W.,N.
+YR 2010
+T1 Paraventricular Nucleus and Other Thalamic Midline Neurons Properties of a T-Type Ca2+Channel-Activated Slow Afterhyperpolarization in Thalamic
+
+RT Journal Article
+ID 13693012
+A1 Geisler,Caroline
+A1 Brunel,Nicolas
+A1 Wang,Xiao-Jing
+A1 Prescott,S.,A.
+A1 Ratte,S.
+A1 Koninck,Y.,De
+A1 Sejnowski,T.,J.
+A1 Areas,Cortical
+A1 Burns,S.,P.
+A1 Xing,D.
+A1 Shelley,M.,J.
+A1 Shapley,R.,M.
+YR 2010
+T1 Selective Attention:Gamma-Range Synchronization between Sensoryand Executive Reconciling Coherent Oscillation with Modulationof Irregular Spiking Activity in
+
+RT Journal Article
+ID 28182598
+A1 Siege,R.,M
+A1 Duann,J,R
+A1 Jung,T,P
+A1 Sejnowski,T.,J
+YR 2010
+T1 Independent component analysis and the functional architecture of the inferior parietal cortex of behaving monkey
+JF Journal of Vision
+VO 3
+SP 378
+OP 378
+IS 9
+
+RT Journal Article
+ID 52088113
+A1 Coggan,J.,S.
+A1 Prescott,S.,A.
+A1 Bartol,T.,M.
+A1 Sejnowski,T.,J.
+YR 2010
+T1 Inaugural Article: Imbalance of ionic conductances contributes to diverse symptoms of demyelination
+JF Proceedings of The National Academy of Sciences
+VO 107
+SP 20602
+OP 20609
+
+RT Journal Article
+ID 28215280
+A1 Nelson,J.,D.
+A1 McKenzie,C.
+A1 Cottrell,G.
+A1 Sejnowski,T.
+YR 2010
+T1 Towards a descriptive theory of value of information in categorization tasks: implications for theories of eye movement and information search
+JF Journal of Vision
+VO 7
+SP 960
+OP 960
+IS 9
+
+RT Journal Article
+ID 13172296
+A1 Paul,Padma,Polash
+A1 Leung,Howard
+A1 Peterson,David,A.
+A1 Sejnowski,Terrence,J.
+A1 Poizner,Howard
+YR 2010
+T1 Combining Temporal and Frequency based Prediction for EEG Signals
+SP 29
+OP 36
+
+RT Conference Proceedings
+ID 50914855
+A1 Paul,Padma,Polash
+A1 Leung,Howard
+A1 Peterson,D.,A.
+A1 Sejnowski,T.,J.
+A1 Poizner,Howard
+YR 2010
+T1 Detecting Neural Decision Patterns Using SVM-Based EEG Classification
+SP 1
+OP 4
+
+RT Journal Article
+ID 28127086
+A1 Jacobson,J.,E
+A1 Eagleman,D.,M
+A1 Sejnowski,T.,J
+YR 2010
+T1 Explaining why the perceived brightness of a flash is modified by temporal relationships with its neighbors: the commitment, adaptation, and comparison model
+JF Journal of Vision
+VO 3
+SP 594
+OP 594
+IS 9
+
+RT Journal Article
+ID 28184921
+A1 Eagleman,D.,M.
+A1 Jacobson,J.,E.
+A1 Sejnowski,T.,J.
+YR 2010
+T1 The perceived brightness of a flash can be influenced by temporal properties of its neighbors
+JF Journal of Vision
+VO 2
+SP 231
+OP 231
+IS 7
+
+RT Journal Article
+ID 14278057
+A1 Nadkarni,Suhita
+A1 Bartol,Thomas
+A1 Sejnowski,Terrence
+A1 Levine,Herbert
+YR 2010
+T1 Spatial and Temporal Correlates of Vesicular Release at Hippocampal Synapses
+
+RT Journal Article
+ID 57414998
+A1 Volman,Vladislav
+A1 Levine,Herbert
+A1 Sejnowski,Terrence,J.
+YR 2010
+T1 Shunting Inhibition Controls the Gain Modulation Mediated by Asynchronous Neurotransmitter Release in Early Development
+JF PLOS Computational Biology
+VO 6
+IS 11
+
+RT Journal Article
+ID 28163296
+A1 Wachtler,T.
+A1 Lee,T.,W.
+A1 Sejnowski,T.
+YR 2010
+T1 Efficient coding of color in natural scenes
+JF Journal of Vision
+VO 5
+SP 37
+OP 37
+IS 12
+
+RT Journal Article
+ID 28198279
+A1 Eagleman,D.,M
+A1 Sejnowski,T.,J
+YR 2010
+T1 Motion-biasing, not asynchronous feature binding, explains the feature-flash drag effect
+JF Journal of Vision
+VO 3
+SP 189
+OP 189
+IS 9
+
+RT Journal Article
+ID 36174499
+A1 Coggan,Jay,S.
+A1 Sejnowski,Terrence,J.
+YR 2010
+T1 Effects of Cellular Adaptations to Partial Demyelination on Spike Patterns in a Model Axon
+JF Biophysical Journal
+VO 98
+IS 3
+
+RT Journal Article
+ID 51605990
+A1 Sejnowski,T.,J.
+YR 2010
+T1 Learning optimal strategies in complex environments
+JF Proceedings of The National Academy of Sciences
+VO 107
+SP 20151
+OP 20152
+
+RT Journal Article
+ID 56284044
+A1 Coggan,Jay,S.
+A1 Sejnowski,Terrence,J.
+YR 2010
+T1 Effects of Cellular Adaptations to Partial Demyelination on Spike Patterns in a Model Axon
+JF Biophysical Journal
+VO 98
+SP 140
+
+RT Journal Article
+ID 59679120
+A1 Tiesinga,P.,H.,E.
+A1 Sejnowski,T.,J.
+YR 2010
+T1 Mechanisms for phase shifting in cortical networks and their role in communication through coherence
+JF Frontiers in Human Neuroscience
+SP 196
+
+RT Journal Article
+ID 14277354
+A1 Sejnowski,Terry
+YR 2010
+T1 When Will We Be Able to Build Brains Like Ours? Sooner than you think -- and the race has lately caused a 'catfight
+
+RT Journal Article
+ID 10006060
+A1 Meltzoff,Andrew,N.
+A1 Kuhl,Patricia,K.
+A1 Movellan,Javier
+A1 Sejnowski,Terrence,J.
+YR 2009
+T1 Foundations for a New Science of Learning
+JF Science
+VO 325
+SP 284
+OP 288
+IS 5938
+
+RT Journal Article
+ID 11476417
+A1 Peterlin,Z.,A.
+A1 Kozloski,J.
+A1 Mao,B.,Q.
+A1 Tsiola,A.
+A1 Yuste,R.
+A1 Bazhenov,M.
+A1 Timofeev,I.
+A1 Steriade,M.
+A1 Sejnowski,T.,J.
+A1 Hare,Todd,A.
+A1 Camerer,Colin,F.
+A1 Rangel,Antonio
+YR 2009
+T1 Self-Control in Decision-Making Involves Modulation of the vmPFC Valuation System
+JF Science
+VO 324
+SP 646
+OP 648
+IS 5927
+
+RT Journal Article
+ID 4765994
+A1 Stiefel,Klaus,M.
+A1 Gutkin,Boris,S.
+A1 Sejnowski,Terrence,J.
+YR 2009
+T1 The effects of cholinergic neuromodulation on neuronal phase-response curves of modeled cortical neurons
+JF Journal of Computational Neuroscience
+VO 26
+SP 289
+OP 301
+IS 2
+
+RT Journal Article
+ID 5389556
+A1 Tanaka,Hirokazu
+A1 Sejnowski,Terrence,J.
+A1 Krakauer,John,W.
+YR 2009
+T1 ADAPTATION TO VISUOMOTOR ROTATION THROUGH INTERACTION BETWEEN POSTERIOR PARIETAL AND MOTOR CORTICAL AREAS
+JF Journal of Neurophysiology
+VO 102
+IS 4
+
+RT Journal Article
+ID 4773435
+A1 Hao,Jiucang
+A1 Attias,Hagai
+A1 Nagarajan,Srikantan,S.
+A1 Lee,Te-won
+A1 Sejnowski,Terrence,J.
+YR 2009
+T1 Speech Enhancement, Gain, and Noise Spectrum Adaptation Using Approximate Bayesian Estimation
+JF IEEE Transactions on Audio, Speech & Language Processing
+VO 17
+SP 24
+OP 37
+IS 1
+
+RT Journal Article
+ID 10146920
+A1 Tiesinga,Paul
+A1 Sejnowski,Terrence,J.
+YR 2009
+T1 Cortical Enlightenment: Are Attentional Gamma Oscillations Driven by ING or PING?
+JF Neuron
+VO 63
+SP 727
+OP 732
+IS 6
+
+RT Journal Article
+ID 49214613
+A1 Makeig,Scott
+A1 Gramann,Klaus
+A1 Jung,Tzyy-Ping
+A1 Sejnowski,Terrence,J.
+A1 Poizner,Howard
+YR 2009
+T1 Linking brain, mind and behavior
+JF International Journal of Psychophysiology
+VO 73
+SP 95
+OP 100
+IS 2
+
+RT Journal Article
+ID 28099997
+A1 Schwartz,O.
+A1 Sejnowski,T.,J.
+A1 Dayan,P.
+YR 2009
+T1 Perceptual organization in the tilt illusion
+JF Journal of Vision
+VO 9
+SP 19
+OP 19
+IS 4
+
+RT Journal Article
+ID 6115211
+A1 Peterson,D.,A.
+A1 Elliott,C.
+A1 Song,D.,D.
+A1 Makeig,S.
+A1 Sejnowski,T.,J.
+A1 Poizner,H.
+YR 2009
+T1 Probabilistic reversal learning is impaired in Parkinson's disease
+JF Neuroscience
+VO 163
+SP 1092
+OP 1101
+IS 4
+
+RT Journal Article
+ID 5389638
+A1 Behrens,M.,Margarita
+A1 Sejnowski,Terrence,J.
+YR 2009
+T1 Does schizophrenia arise from oxidative dysregulation of parvalbumin-interneurons in the developing cortex?
+JF Neuropharmacology
+VO 57
+SP 193
+OP 200
+IS 3
+
+RT Journal Article
+ID 38815537
+A1 Conner,J.,M.
+A1 Franks,K.,M.
+A1 Titterness,A.,K.
+A1 Russell,K.
+A1 Merrill,D.,A.
+A1 Christie,B.,R.
+A1 Sejnowski,T.,J.
+A1 Tuszynski,M.,H.
+YR 2009
+T1 NGF Is Essential for Hippocampal Plasticity and Learning
+JF Journal of Neuroscience
+VO 29
+SP 10883
+OP 10889
+IS 35
+
+RT Journal Article
+ID 14198831
+A1 Purpura,Dominick,P.
+A1 Schwartz,Odelia
+A1 Sejnowski,Terrence,J.
+A1 Dayan,Peter
+YR 2009
+T1 Perceptual organization in the tilt illusion
+
+RT Journal Article
+ID 6835569
+A1 Volman,Vladislav
+A1 Levine,Herbert
+A1 Ben-Jacob,Eshel
+A1 Sejnowski,Terrence,J.
+YR 2009
+T1 Locally Balanced Dendritic Integration by Short-Term Synaptic Plasticity and Active Dendritic Conductances
+JF Journal of Neurophysiology
+VO 102
+SP 3234
+OP 3250
+IS 6
+
+RT Journal Article
+ID 6898938
+A1 Silvia,Guilherme,Testa
+A1 Bé,Jean-Vincent,Le
+A1 Riachi,Imad
+A1 Rinaldi,Tania
+A1 Markram,Kamila
+A1 Markram,Henry
+A1 Sejnowski,Terrence,J.
+YR 2009
+T1 Enhanced long term microcircuit plasticity in the valproic acid animal model of autism
+JF Frontiers in Synaptic Neuroscience
+VO 1
+
+RT Journal Article
+ID 6065529
+A1 Destexhe,Alain
+A1 Sejnowski,Terrence,J.
+YR 2009
+T1 The Wilson-Cowan model, 36 years later
+JF Biological Cybernetics
+VO 101
+SP 1
+OP 2
+IS 1
+
+RT Journal Article
+ID 14280752
+A1 Sejnowski,Terrence,J.
+A1 Zomorrodi,Reza
+A1 Kröger,Helmut
+YR 2009
+T1 Consequences of non-uniform active currents in dendrites
+
+RT Journal Article
+ID 53654631
+A1 Meltzoff,Andrew,N.
+A1 Kuhl,Patricia,K.
+A1 Movellan,Javier
+A1 Sejnowski,Terrence,J.
+YR 2009
+T1 Foundations for a New Science of Learning
+JF Science
+VO 325
+SP 284
+
+RT Journal Article
+ID 36172062
+A1 Nadkarni,Suhita
+A1 Bartol,Thomas
+A1 Sejnowski,Terrence
+A1 Levine,Hebert
+YR 2009
+T1 MCell Model of Presynaptic Calcium Dynamics Predicts the Structural Correlates of Short-term Synaptic Plasticity
+JF Biophysical Journal
+VO 96
+IS 3
+
+RT Journal Article
+ID 39095704
+A1 Sejnowski,Terrence
+A1 Moore-Kochlacs,Caroline
+A1 Hill,Evan
+A1 Frost,William,N
+A1 Wang,Jean
+YR 2009
+T1 Separation of single neurons from optical recordings in Tritonia diomedea using ICA
+JF Frontiers in Systems Neuroscience
+
+RT Journal Article
+ID 39096081
+A1 Sejnowski,Terrence
+A1 Hasenstaub,Andrea
+A1 Callaway,Ed
+A1 Otte,Stephani
+YR 2009
+T1 Intrinsic membrane properties control gamma-frequency input integration
+JF Frontiers in Systems Neuroscience
+
+RT Journal Article
+ID 53489994
+A1 Duann,Jeng-Ren
+A1 Jung,Tzyy-Ping
+A1 Sejnowski,Terrence,J.
+A1 Makeig,Scott
+YR 2009
+T1 Grouping individual independent BOLD effects: a new way to ICA group analysis
+VO 7343
+SP 32
+
+RT Journal Article
+ID 39095708
+A1 Sejnowski,Terrence
+A1 Hasenstaub,Andrea
+A1 Callaway,Ed
+YR 2009
+T1 Gene expression analysis and metabolic optimization in cortical fast-spiking interneurons
+JF Frontiers in Systems Neuroscience
+
+RT Journal Article
+ID 36171047
+A1 Coggan,Jay,S.
+A1 Bartol,Thomas,M.
+A1 Sejnowski,Terrence,J.
+YR 2009
+T1 New Metrics of Intrinsic Axonal Excitability from a Computational Model of Demyelination
+JF Biophysical Journal
+VO 96
+IS 3
+
+RT Journal Article
+ID 54279117
+A1 Coggan,Jay,S.
+A1 Bartol,Thomas,M.
+A1 Sejnowski,Terrence,J.
+YR 2009
+T1 New Metrics of Intrinsic Axonal Excitability from a Computational Model of Demyelination
+JF Biophysical Journal
+VO 96
+SP 480
+
+RT Journal Article
+ID 39096214
+A1 Sejnowski,Terrence
+A1 Moldakarimov,Samat
+A1 Bazhenov,Maxim
+YR 2009
+T1 Roles of feedforward, recurrent and feedback connections in visual processing
+JF Frontiers in Systems Neuroscience
+
+RT Journal Article
+ID 12418689
+A1 Tiesinga,Paul
+A1 Fellous,Jean-Marc
+A1 Sejnowski,Terrence,J.
+YR 2008
+T1 Regulation of spike timing in visual cortical circuits
+JF Nature Reviews Neuroscience
+VO 9
+SP 97
+OP 107
+IS 2
+
+RT Journal Article
+ID 5354486
+A1 Prescott,Steven,A.
+A1 Koninck,Yves,De
+A1 Sejnowski,Terrence,J.
+YR 2008
+T1 Biophysical Basis for Three Distinct Dynamical Mechanisms of Action Potential Initiation
+JF PLOS Computational Biology
+VO 4
+IS 10
+
+RT Journal Article
+ID 13151018
+A1 Krofczik,Sabine
+A1 Menzel,Randolf
+A1 Nawrot,Martin,P.
+A1 Sejnowski,Terrence,J.
+YR 2008
+T1 Rapid odor processing in the honeybee antennal lobe network
+JF Frontiers in Computational Neuroscience
+VO 2
+
+RT Journal Article
+ID 5386682
+A1 Keller,Daniel,X.
+A1 Franks,Kevin,M.
+A1 Jr,Thomas,M.,Bartol
+A1 Sejnowski,Terrence,J.
+YR 2008
+T1 Calmodulin Activation by Calcium Transients in the Postsynaptic Density of Dendritic Spines
+JF PLOS One
+VO 3
+IS 4
+
+RT Journal Article
+ID 5386555
+A1 Prescott,Steven,A.
+A1 Ratte,Stephanie
+A1 Koninck,Yves,De
+A1 Sejnowski,Terrence,J.
+YR 2008
+T1 Pyramidal Neurons Switch From Integrators In Vitro to Resonators Under In Vivo-Like Conditions
+JF Journal of Neurophysiology
+VO 100
+SP 3030
+OP 3042
+IS 6
+
+RT Journal Article
+ID 38814627
+A1 Frohlich,F.
+A1 Bazhenov,M.
+A1 Sejnowski,T.,J.
+YR 2008
+T1 Pathological Effect of Homeostatic Synaptic Scaling on Network Dynamics in Diseases of the Cortex
+JF Journal of Neuroscience
+VO 28
+SP 1709
+OP 1720
+IS 7
+
+RT Journal Article
+ID 6621403
+A1 Kerr,Rex,A.
+A1 Bartol,Thomas,M.
+A1 Kaminsky,Boris
+A1 Dittrich,Markus
+A1 Chang,Jen-Chien,Jack
+A1 Baden,Scott,B.
+A1 Sejnowski,Terrence,J.
+A1 Stiles,Joel,R.
+YR 2008
+T1 Fast Monte Carlo Simulation Methods for Biological Reaction-Diffusion Systems in Solution and on Surfaces
+JF Siam Journal on Scientific Computing
+VO 30
+SP 3126
+OP 3149
+IS 6
+
+RT Journal Article
+ID 4813343
+A1 Stiefel,Klaus,M.
+A1 Gutkin,Boris,S.
+A1 Sejnowski,Terrence,J.
+YR 2008
+T1 Cholinergic Neuromodulation Changes Phase Response Curve Shape and Type in Cortical Pyramidal Neurons
+JF PLOS One
+VO 3
+IS 12
+
+RT Journal Article
+ID 15182100
+A1 Low,P.,S.
+A1 Shank,S.,S.
+A1 Sejnowski,T.,J.
+A1 Margoliash,D.
+YR 2008
+T1 Mammalian-like features of sleep structure in zebra finches
+JF Proceedings of The National Academy of Sciences
+VO 105
+SP 9081
+OP 9086
+IS 26
+
+RT Journal Article
+ID 6158802
+A1 Finelli,Luca,A.
+A1 Haney,Seth
+A1 Bazhenov,Maxim
+A1 Stopfer,Mark
+A1 Sejnowski,Terrence,J.
+YR 2008
+T1 Synaptic Learning Rules and Sparse Coding in a Model Sensory System
+JF PLOS Computational Biology
+VO 4
+IS 4
+
+RT Journal Article
+ID 38814501
+A1 Prescott,S.,A.
+A1 Sejnowski,T.,J.
+YR 2008
+T1 Spike-Rate Coding and Spike-Time Coding Are Affected Oppositely by Different Adaptation Mechanisms
+JF Journal of Neuroscience
+VO 28
+SP 13649
+OP 13661
+IS 50
+
+RT Journal Article
+ID 5386598
+A1 Lopreore,Courtney,L.
+A1 Bartol,Thomas,M.
+A1 Coggan,Jay,S.
+A1 Keller,Daniel,X.
+A1 Sosinsky,Gina,E.
+A1 Ellisman,Mark,H.
+A1 Sejnowski,Terrence,J.
+YR 2008
+T1 Computational Modeling of Three-Dimensional Electrodiffusion in Biological Systems: Application to the Node of Ranvier
+JF Biophysical Journal
+VO 95
+SP 2624
+OP 2635
+IS 6
+
+RT Journal Article
+ID 5191230
+A1 Makeig,Scott
+A1 Gramann,Klaus
+A1 Jung,Tzyy-Ping
+A1 Sejnowski,Terrence,J.
+A1 Poizner,Howard
+YR 2008
+T1 Linking brain, mind, and behavior
+JF International Journal of Psychophysiology
+VO 69
+SP 137
+OP 137
+IS 3
+
+RT Journal Article
+ID 5331509
+A1 Bazhenov,Maxim
+A1 Timofeev,Igor
+A1 Fröhlich,Flavio
+A1 Sejnowski,Terrence,J.
+YR 2008
+T1 Cellular and network mechanisms of electrographic seizures
+JF Drug Discovery Today: Disease Models
+VO 5
+SP 45
+OP 57
+IS 1
+
+RT Journal Article
+ID 5386843
+A1 Chen,Eugenia
+A1 Stiefel,Klaus,M.
+A1 Sejnowski,Terrence,J.
+A1 Bullock,Theodore,H.
+YR 2008
+T1 Model of traveling waves in a coral nerve network
+JF Journal of Comparative Physiology A-neuroethology Sensory Neural and Behavioral Physiology
+VO 194
+SP 195
+OP 200
+IS 2
+
+RT Journal Article
+ID 4402942
+A1 Englitz,Bernhard
+A1 Stiefel,Klaus,M.
+A1 Sejnowski,Terrence,J.
+YR 2008
+T1 Irregular Firing of Isolated Cortical Interneurons in Vitro Driven by Intrinsic Stochastic Mechanisms
+JF Neural Computation
+VO 20
+SP 44
+OP 64
+IS 1
+
+RT Journal Article
+ID 52446406
+A1 Low,Philip,Steven
+A1 Shank,Sylvan,S.
+A1 Sejnowski,Terrence,J.
+A1 Margoliash,Daniel
+YR 2008
+T1 Mammalian-like features of sleep structure in zebra finches
+JF Proceedings of The National Academy of Sciences
+VO 105
+SP 9081
+OP 9086
+
+RT Journal Article
+ID 57413225
+A1 Finelli,Luca,A.
+A1 Haney,Seth
+A1 Bazhenov,Maxim
+A1 Stopfer,Mark
+A1 Sejnowski,Terrence,J.
+YR 2008
+T1 Synaptic Learning Rules and Sparse Coding in a Model Sensory System
+JF PLOS Computational Biology
+VO 4
+IS 4
+
+RT Journal Article
+ID 56316173
+A1 Stiefel,Klaus,M.
+A1 Gutkin,Boris,S.
+A1 Sejnowski,Terrence,J.
+A1 Ermentrout,Bard
+YR 2008
+T1 Cholinergic Neuromodulation Changes Phase Response Curve Shape and Type in Cortical Pyramidal Neurons
+JF PLOS One
+VO 3
+IS 12
+
+RT Journal Article
+ID 51880597
+A1 Keller,Daniel,X.
+A1 Franks,Kevin,M.
+A1 Bartol,Thomas,M.
+A1 Sejnowski,Terrence,J.
+A1 Greene,Ernest
+YR 2008
+T1 Calmodulin Activation by Calcium Transients in the Postsynaptic Density of Dendritic Spines
+JF PLOS One
+VO 3
+IS 4
+
+RT Journal Article
+ID 57413548
+A1 Prescott,Steven,A.
+A1 Koninck,Yves,De
+A1 Sejnowski,Terrence,J.
+YR 2008
+T1 Biophysical Basis for Three Distinct Dynamical Mechanisms of Action Potential Initiation
+JF PLOS Computational Biology
+VO 4
+IS 10
+
+RT Journal Article
+ID 38608894
+A1 Volman,Vladislav
+A1 Levine,Herbert
+A1 Sejnowski,Terrence,J
+YR 2008
+T1 Active dendritic conductances enhance processing of plastic synaptic stimuli
+JF BMC Neuroscience
+VO 9
+OP 2
+IS Suppl 1
+
+RT Journal Article
+ID 6263789
+A1 Cortes,J.,M.
+A1 Marinazzo,D.
+A1 Sejnowski,T.,J.
+YR 2008
+T1 Rapid synaptic adaptation increases cortical population coding accuracy
+
+RT Journal Article
+ID 5134799
+A1 Delorme,Arnaud
+A1 Sejnowski,Terrence
+A1 Makeig,Scott
+YR 2007
+T1 Enhanced detection of artifacts in EEG data using higher-order statistics and independent component analysis
+JF Neuroimage
+VO 34
+SP 1443
+OP 1449
+IS 4
+
+RT Journal Article
+ID 5389562
+A1 Tour,Oded
+A1 Adams,Stephen,R
+A1 Kerr,Rex,A
+A1 Meijer,Rene,M
+A1 Sejnowski,Terrence,J
+A1 Tsien,Richard,W
+A1 Tsien,Roger,Y
+YR 2007
+T1 Calcium Green FlAsH as a genetically targeted small-molecule calcium indicator
+JF Nature Chemical Biology
+VO 3
+SP 423
+OP 431
+IS 7
+
+RT Journal Article
+ID 38811957
+A1 Mishra,J.
+A1 Martinez,A.
+A1 Sejnowski,T.,J.
+A1 Hillyard,S.,A.
+YR 2007
+T1 Early Cross-Modal Interactions in Auditory and Visual Cortex Underlie a Sound-Induced Visual Illusion
+JF Journal of Neuroscience
+VO 27
+SP 4120
+OP 4131
+IS 15
+
+RT Journal Article
+ID 38381214
+A1 Stiefel,Klaus,M.
+A1 Sejnowski,Terrence,J.
+YR 2007
+T1 Mapping Function Onto Neuronal Morphology
+JF Journal of Neurophysiology
+VO 98
+SP 513
+OP 526
+IS 1
+
+RT Journal Article
+ID 5392397
+A1 Vučinić,Dejan
+A1 Sejnowski,Terrence,J.
+YR 2007
+T1 A Compact Multiphoton 3D Imaging System for Recording Fast Neuronal Activity
+JF PLOS One
+VO 2
+IS 8
+
+RT Journal Article
+ID 14200380
+A1 Eagleman,David,M.
+A1 Sejnowski,Terrence,J.
+YR 2007
+T1 Motion signals bias localization judgments: A unified explanation for the flash-lag, flash-drag, flash-jump, and Frohlich illusions
+
+RT Journal Article
+ID 13123592
+A1 Sejnowski,Terrence,J.
+A1 Koch,Christof
+A1 Churchland,Patricia,S.
+YR 2007
+T1 Computational Neuroscience
+JF Science
+
+RT Journal Article
+ID 14200656
+A1 Frohlich,F.
+A1 BAZHENOV,MAXIM
+A1 IRAGUI-MADOZ,VICENTE
+A1 SEJNOWSKI,TERRENCE,J.
+YR 2007
+T1 Potassium Dynamics in the Epileptic Cortex: New Insights on an Old Topic
+JF Neuroscientist
+VO 14
+SP 422
+OP 433
+IS 5
+
+RT Journal Article
+ID 28092131
+A1 Eagleman,D.,M.
+A1 Sejnowski,T.,J.
+YR 2007
+T1 Motion signals bias localization judgments: A unified explanation for the flash-lag, flash-drag, flash-jump, and Frohlich illusions
+JF Journal of Vision
+VO 7
+SP 3
+OP 3
+IS 4
+
+RT Journal Article
+ID 14195572
+A1 Wachtler,Thomas
+A1 Doi,Eizaburo
+A1 Lee,Te-Won
+A1 Sejnowski,Terrence,J.
+YR 2007
+T1 Cone selectivity derived from the responses of the retinal cone mosaic to natural scenes
+
+RT Journal Article
+ID 5395097
+A1 Siegel,Ralph,M.
+A1 Duann,Jeng-Ren
+A1 Jung,Tzyy-Ping
+A1 Sejnowski,Terrence
+YR 2007
+T1 Spatiotemporal Dynamics of the Functional Architecture for Gain Fields in Inferior Parietal Lobule of Behaving Monkey
+
+RT Conference Proceedings
+ID 50633894
+A1 Wang,Hsi-Ping
+A1 Chicca,Elisabetta
+A1 Indiveri,Giacomo
+A1 Sejnowski,Terrence,J.
+YR 2007
+T1 Reliable Computation in Noisy Backgrounds Using Real-Time Neuromorphic Hardware
+
+RT Journal Article
+ID 38608505
+A1 Hsi-Ping,Wang
+A1 Fellous,Jean-Marc
+A1 Spencer,Don
+A1 Sejnowski,Terrence
+YR 2007
+T1 Supralinear reliability of cortical spiking from synchronous thalamic inputs
+JF BMC Neuroscience
+VO 8
+OP 1
+IS Suppl 2
+
+RT Journal Article
+ID 6205602
+A1 Eagleman,David,M.
+A1 Coenen,Olivier,J.-M.,D.
+A1 Mitsner,Vladimir
+A1 Bartol,Thomas,M.
+A1 Sejnowski,Terrence,J.
+YR 2007
+T1 Cerebellar glomeruli: Can limited extracellular calcium propagate information among distant synapses?
+
+RT Conference Proceedings
+ID 4237641
+A1 Baden,Scott,B.
+A1 Sejnowskit,Terrence,J.
+A1 Bartol,Thomas,M.
+A1 Stiles,Joel
+YR 2007
+T1 Toward Petascale Simulation of Cellular Microphysiology
+SP 628
+OP 634
+
+RT Journal Article
+ID 38608663
+A1 Ohayon,Elan
+A1 Bazhenov,Maxim
+A1 Sejnowski,Terrence,J
+A1 Kwan,Hon,C
+A1 Burnham,W,McIntyre
+YR 2007
+T1 Structural factors leading to changes in persistent activity following focal-trauma and neurodegeneration
+JF BMC Neuroscience
+VO 8
+OP 2
+IS Suppl 2
+
+RT Journal Article
+ID 55384285
+A1 Vucinic,Dejan
+A1 Sejnowski,Terrence,J.
+A1 Lu,Bai
+YR 2007
+T1 A Compact Multiphoton 3D Imaging System for Recording Fast Neuronal Activity
+JF PLOS One
+VO 2
+IS 8
+
+RT Journal Article
+ID 28092946
+A1 Wachtler,T.
+A1 Doi,E.
+A1 Lee,T.,W.
+A1 Sejnowski,T.,J.
+YR 2007
+T1 Cone selectivity derived from the responses of the retinal cone mosaic to natural scenes
+JF Journal of Vision
+VO 7
+SP 6
+OP 6
+IS 8
+
+RT Journal Article
+ID 15083222
+A1 Sejnowski,T.,J.
+YR 2007
+T1 NEUROSCIENCE: The Hippocampus Review
+JF Science
+VO 317
+SP 44
+OP 45
+IS 5834
+
+RT Journal Article
+ID 38811656
+A1 Sejnowski,T.,J.
+YR 2006
+T1 Network Oscillations: Emerging Computational Principles
+JF Journal of Neuroscience
+VO 26
+SP 1673
+OP 1676
+IS 6
+
+RT Journal Article
+ID 14199346
+A1 Kerr,Rex,A.
+A1 Levine,Herbert
+A1 Sejnowski,Terrence,J.
+A1 Rappel,Wouter-Jan
+YR 2006
+T1 Division Accuracy in a Stochastic Model of Min Oscillations in Escherichia coli
+JF Proceedings of The National Academy of Sciences
+VO 103
+SP 347
+OP 352
+IS 2
+
+RT Journal Article
+ID 10964895
+A1 Prescott,Steven,A.
+A1 Ratté,Stéphanie
+A1 Koninck,Yves,De
+A1 Sejnowski,Terrence,J.
+YR 2006
+T1 Nonlinear Interaction between Shunting and Adaptation Controls a Switch between Integration and Coincidence Detection in Pyramidal Neurons
+JF Journal of Neuroscience
+VO 26
+SP 9084
+OP 9097
+IS 36
+
+RT Journal Article
+ID 4403196
+A1 Mishra,Jyoti
+A1 Fellous,Jean-marc
+A1 Sejnowski,Terrence,J.
+YR 2006
+T1 Selective attention through phase relationship of excitatory and inhibitory input synchrony in a model cortical neuron
+JF Neural Networks
+VO 19
+SP 1329
+OP 1346
+IS 9
+
+RT Journal Article
+ID 2503820
+A1 Anemüller,Jörn
+A1 Duann,Jeng-ren
+A1 Sejnowski,Terrence,J.
+A1 Makeig,Scott
+YR 2006
+T1 Spatio-temporal dynamics in fMRI recordings revealed with complex independent component analysis
+JF Neurocomputing
+VO 69
+SP 1502
+OP 1512
+IS 13-15
+
+RT Journal Article
+ID 14200342
+A1 Prescott,Steven,A
+A1 Sejnowski,Terrence,J
+A1 Koninck,Yves,De
+YR 2006
+T1 Reduction of anion reversal potential subverts the inhibitory control of firing rate in spinal lamina I neurons: towards a biophysical basis for neuropathic pain
+JF Molecular Pain
+VO 2
+SP 32
+OP 20
+IS 1
+
+RT Journal Article
+ID 2511486
+A1 Schwartz,Odelia
+A1 Sejnowski,Terrence,J.
+A1 Dayan,Peter
+YR 2006
+T1 Soft Mixer Assignment in a Hierarchical Generative Model of Natural Scene Statistics
+JF Neural Computation
+VO 18
+SP 2680
+OP 2718
+IS 11
+
+RT Journal Article
+ID 3266406
+A1 Zhang,K
+A1 Ginsburg,I
+A1 Mcnaughton,Bl
+A1 Sejnowski,Tj
+YR 2006
+T1 Interpreting neuronal population activity by reconstruction: unified framework with application to h
+
+RT Journal Article
+ID 36623415
+A1 Garlick,Dennis
+A1 Sejnowski,Terrence,J.
+YR 2006
+T1 There is more to fluid intelligence than working memory capacity and executive function
+JF Behavioral and Brain Sciences
+VO 29
+IS 02
+
+RT Journal Article
+ID 10373518
+A1 Sejnowski,Terrence,J.
+YR 2006
+T1 Hybrid reflecting objectives for functional multiphoton microscopy in turbid media
+JF Optics Letters
+VO 31
+SP 2447
+IS 16
+
+RT Journal Article
+ID 37626451
+A1 Siegel,R.,M.
+A1 Duann,J.-R.
+A1 Jung,T.-P.
+A1 Sejnowski,T.
+YR 2006
+T1 Spatiotemporal Dynamics of the Functional Architecture for Gain Fields in Inferior Parietal Lobule of Behaving Monkey
+JF Cerebral Cortex
+VO 17
+SP 378
+OP 390
+IS 2
+
+RT Journal Article
+ID 13523268
+A1 Wipf,David,Paul
+A1 Elkan,Charles
+A1 Kreutz-Delgado,Kenneth
+A1 Sejnowski,Terrence,J.
+YR 2006
+T1 Electrical Engineering (Intelligent Systems, Robotics & Control)
+
+RT Journal Article
+ID 52368768
+A1 Kerr,Rex,A.
+A1 Levine,Herbert
+A1 Sejnowski,Terrence,J.
+A1 Rappel,Wouter-Jan
+YR 2006
+T1 Division accuracy in a stochastic model of Min oscillations in Escherichia coli
+JF Proceedings of The National Academy of Sciences
+VO 103
+SP 347
+OP 352
+
+RT Journal Article
+ID 55441511
+A1 Vucinic,Dejan
+A1 Jr.,Thomas,M.,Bartol
+A1 Sejnowski,Terrence,J.
+YR 2006
+T1 Hybrid reflecting objectives for functional multiphoton microscopy in turbid media
+JF Optics Letters
+VO 31
+SP 2447
+OP 2449
+
+RT Journal Article
+ID 54988625
+A1 Vucinic,Dejan
+A1 Jr.,Thomas,M.,Bartol
+A1 Sejnowski,Terrence,J.
+YR 2006
+T1 Hybrid reflecting objectives for deep-tissue functional two-photon imaging
+VO 6288
+SP 28
+
+RT Journal Article
+ID 46690284
+A1 Sejnowski,Terry
+YR 2006
+T1 Terry Sejnowski
+JF New Scientist
+VO 192
+SP 69
+OP 69
+IS 2578
+
+RT Journal Article
+ID 14189294
+A1 Sejnowski,Terrence,J.
+YR 2006
+T1 NetworkOscillations:EmergingComputationalPrinciples
+
+RT Journal Article
+ID 3059713
+A1 Coggan,Jay,S.
+A1 Bartol,Thomas,M.
+A1 Esquenazi,Eduardo
+A1 Stiles,Joel,R.
+A1 Lamont,Stephan
+A1 Martone,Maryann,E.
+A1 Berg,Darwin,K.
+A1 Ellisman,Mark,H.
+A1 Sejnowski,Terrence,J.
+YR 2005
+T1 Evidence for Ectopic Neurotransmission at a Neuronal Synapse
+JF Science
+VO 309
+SP 446
+OP 451
+IS 5733
+
+RT Journal Article
+ID 5386831
+A1 Houweling,Arthur,R.
+A1 Bazhenov,Maxim
+A1 Timofeev,Igor
+A1 Steriade,Mircea
+A1 Sejnowski,Terrence,J.
+YR 2005
+T1 Homeostatic Synaptic Plasticity Can Explain Post-traumatic Epileptogenesis in Chronically Isolated Neocortex
+
+RT Journal Article
+ID 4674299
+A1 Bowd,Christopher
+A1 Medeiros,Felipe,A.
+A1 Zhang,Zuohua
+A1 Zangwill,Linda,M.
+A1 Hao,Jiucang
+A1 Lee,Te-Won
+A1 Sejnowski,Terrence,J.
+A1 Weinreb,Robert,N.
+A1 Goldbaum,Michael,H.
+YR 2005
+T1 Relevance Vector Machine and Support Vector Machine Classifier Analysis of Scanning Laser Polarimetry Retinal Nerve Fiber Layer Measurements
+
+RT Journal Article
+ID 14189608
+A1 Seamans,Jeremy,K.
+A1 Durstewitz,Daniel
+A1 Christie,Brian,R.
+A1 Stevens,Charles,F.
+A1 Sejnowski,J.
+YR 2005
+T1 Dopamine D1/D5 Receptor Modulation of Excitatory Synaptic Inputs to Layer V Prefrontal Cortex Neurons
+JF Proceedings of The National Academy of Sciences
+
+RT Journal Article
+ID 5395094
+A1 Bazhenov,Maxim
+A1 Stopfer,Mark
+A1 Sejnowski,Terrence,J.
+A1 Laurent,Gilles
+YR 2005
+T1 Fast Odor Learning Improves Reliability of Odor Responses in the Locust Antennal Lobe
+JF Neuron
+VO 46
+SP 483
+OP 492
+IS 3
+
+RT Journal Article
+ID 14191304
+A1 Destexhe,Alain
+A1 Sejnowski,Terrence,J.
+YR 2005
+T1 G Protein Activation Kinetics and Spillover of $\gamma$-Aminobutyric Acid May Account for Differences Between Inhibitory Responses in the Hippocampus and Thalamus
+JF Proceedings of The National Academy of Sciences
+
+RT Journal Article
+ID 5395067
+A1 Tiesinga,Paul,H.,E.
+A1 Fellous,Jean-Marc
+A1 Salinas,Emilio
+A1 Jose,Jorge,V.
+A1 Sejnowski,Terrence,J.
+YR 2005
+T1 Inhibitory synchrony as a mechanism for attentional gain modulation
+
+RT Journal Article
+ID 5395056
+A1 Sample,Pamela,A.
+A1 Boden,Catherine
+A1 Zhang,Zuohua
+A1 Pascual,John
+A1 Lee,Te-Won
+A1 Zangwill,Linda,M.
+A1 Weinreb,Robert,N.
+A1 Crowston,Jonathan,G.
+A1 Hoffmann,Esther,M.
+A1 Medeiros,Felipe,A.
+A1 Sejnowski,Terrence
+A1 Goldbaum,Michael
+YR 2005
+T1 Unsupervised Machine Learning with Independent Component Analysis to Identify Areas of Progression in Glaucomatous Visual Fields
+
+RT Journal Article
+ID 5180903
+A1 Fuentealba,Pablo
+A1 Timofeev,Igor
+A1 Bazhenov,Maxim
+A1 Sejnowski,Terrence,J.
+A1 Steriade,Mircea
+YR 2005
+T1 Membrane Bistability in Thalamic Reticular Neurons During Spindle Oscillations
+
+RT Journal Article
+ID 5389624
+A1 Goldbaum,Michael,H.
+A1 Sample,Pamela,A.
+A1 Zhang,Zuohua
+A1 Chan,Kwokleung
+A1 Hao,Jiucang
+A1 Lee,Te-Won
+A1 Boden,Catherine
+A1 Bowd,Christopher
+A1 Bourne,Rupert
+A1 Zangwill,Linda
+A1 Sejnowski,Terrence
+A1 Spinak,David
+A1 Weinreb,Robert,N.
+YR 2005
+T1 Using Unsupervised Learning with Independent Component Analysis to Identify Patterns of Glaucomatous Visual Field Defects
+
+RT Journal Article
+ID 5385892
+A1 Lehky,Sidney,R.
+A1 Sejnowski,Terrence,J.
+A1 Desimone,Robert
+YR 2005
+T1 Selectivity and sparseness in the responses of striate complex cells
+
+RT Journal Article
+ID 3447885
+A1 Haykin,Simon
+A1 Principe,Jose,C.
+A1 Sejnowski,Terrence,J.
+A1 McWhirter,John
+YR 2005
+T1 New Directions in Statistical Signal Processing: From Systems to Brain
+
+RT Conference Proceedings
+ID 1811725
+A1 Schwartz,Odelia
+A1 Sejnowski,Terrence,J.
+A1 Dayan,Peter
+YR 2005
+T1 A Bayesian Framework for Tilt Perception and Confidence
+
+RT Journal Article
+ID 14191497
+A1 Berns,Gregory,S.
+A1 Dayan,Peter
+A1 Sejnowski,Terrence,J.
+YR 2005
+T1 A Correlational Model for the Development of Disparity Selectivity in Visual Cortex that Depends on Prenatal and Postnatal Phases
+JF Proceedings of The National Academy of Sciences
+
+RT Journal Article
+ID 33715079
+A1 Lehky,Sidney,R.
+A1 Sejnowski,Terrence,J.
+A1 Desimone,Robert
+YR 2005
+T1 Selectivity and sparseness in the responses of striate complex cells
+JF Vision Research
+VO 45
+SP 57
+OP 73
+IS 1
+
+RT Journal Article
+ID 14197325
+A1 Timofeev,Igor
+A1 Bazhenov,Maxim
+A1 Sejnowski,Terrence
+A1 Steriade,Mircea
+YR 2005
+T1 Cortical Hyperpolarization-Activated Depolarizing Current Takes Part in the Generation of Focal Paroxysmal Activities
+
+RT Conference Proceedings
+ID 4502515
+A1 Duann,Jeng-Ren
+A1 Jung,Tzyy-Ping
+A1 Sejnowski,Terrence,J.
+A1 Makeig,Scott
+YR 2005
+T1 Repeated decompositions reveal the stability of infomax decomposition of fMRI data
+
+RT Journal Article
+ID 36614529
+A1 Fröhlich,Flavio
+A1 Bazhenov,Maxim
+A1 Timofeev,Igor
+A1 Sejnowski,Terrence,J.
+YR 2005
+T1 Maintenance and termination of neocortical oscillations by dynamic modulation of intrinsic and synaptic excitability
+JF Thalamus and Related Systems
+VO 3
+SP 147
+IS 02
+
+RT Journal Article
+ID 5389625
+A1 Prank,Klaus
+A1 Schulze,Egbert
+A1 Eckert,Olaf
+A1 Nattkemper,Tim,W
+A1 Sejnowski,Terrence,J
+A1 Grote,Arno
+A1 Penner,Erika
+A1 Brabant,Georg
+YR 2005
+T1 Machine learning approaches for phenotype-genotype mapping: predicting heterozygous mutations in the CYP21B gene from steroid profiles
+JF European Journal of Endocrinology
+VO 153
+SP 301
+OP 305
+IS 2
+
+RT Journal Article
+ID 36623040
+A1 Finelli,Luca,A.
+A1 Sejnowski,Terrence,J.
+YR 2005
+T1 What is consolidated during sleep-dependent motor skill learning?
+JF Behavioral and Brain Sciences
+VO 28
+IS 01
+
+RT Journal Article
+ID 14191947
+A1 Rev,Physiol
+A1 DESTEXHE,A.
+A1 SEJNOWSKI,T.,J.
+A1 Buzsaki,G.
+A1 Draguhn,A.
+A1 Ribeiro,S.
+A1 Nicolelis,M.,A.,L.
+A1 Rhodes,P.,A
+A1 Llinas,R.
+YR 2005
+T1 Underlying Thalamocortical Slow-Wave Oscillations Interactions Between Membrane Conductances
+
+RT Journal Article
+ID 54685075
+A1 Coggan,Jay,S.
+A1 Bartol,Thomas,M.
+A1 Esquenazi,Eduardo
+A1 Stiles,Joel,R.
+A1 Lamont,Stephan
+A1 Martone,Maryann,E.
+A1 Berg,Darwin,K.
+A1 Ellisman,Mark,H.
+A1 Sejnowski,Terrence,J.
+YR 2005
+T1 Evidence for Ectopic Neurotransmission at a Neuronal Synapse
+JF Science
+VO 309
+SP 446
+OP 451
+
+RT Journal Article
+ID 28084756
+A1 Jacobson,J.,E.
+A1 Sejnowski,T.,J.
+YR 2005
+T1 Enhancing fonts
+JF Journal of Vision
+VO 5
+SP 816
+OP 816
+IS 8
+
+RT Journal Article
+ID 4207381
+A1 Makeig,Scott
+A1 Delorme,Arnaud
+A1 Westerfield,Marissa
+A1 Jung,Tzyy-Ping
+A1 Townsend,Jeanne
+A1 Courchesne,Eric
+A1 Sejnowski,Terrence,J.
+YR 2004
+T1 Electroencephalographic Brain Dynamics Following Manually Responded Visual Targets
+JF PLOS Biology
+VO 2
+IS 6
+
+RT Journal Article
+ID 2308685
+A1 Fellous,Jean-Marc
+A1 Tiesinga,Paul,H.,E.
+A1 Thomas,Peter,J.
+A1 Sejnowski,Terrence,J.
+YR 2004
+T1 Discovering Spike Patterns in Neuronal Responses
+JF Journal of Neuroscience
+VO 24
+SP 2989
+OP 3001
+IS 12
+
+RT Journal Article
+ID 2177205
+A1 Tiesinga,Paul,H.,E.
+A1 Sejnowski,Terrence,J.
+YR 2004
+T1 Rapid Temporal Modulation of Synchrony by Competition in Cortical Interneuron Networks
+JF Neural Computation
+VO 16
+SP 251
+OP 275
+IS 2
+
+RT Journal Article
+ID 5400288
+A1 Zangwill,Linda,M.
+A1 Chan,Kwokleung
+A1 Bowd,Christopher
+A1 Hao,Jicuang
+A1 Lee,Te-Won
+A1 Weinreb,Robert,N.
+A1 Sejnowski,Terrence,J.
+A1 Goldbaum,Michael,H.
+YR 2004
+T1 Heidelberg Retina Tomograph Measurements of the Optic Disc and Parapapillary Retina for Detecting Glaucoma Analyzed by Machine Learning Classifiers
+
+RT Journal Article
+ID 14190346
+A1 Bazhenov,M.
+A1 Timofeev,I.
+A1 Steriade,M.
+A1 Sejnowski,T.,J.
+YR 2004
+T1 Potassium Model for Slow (2-3 Hz) In Vivo Neocortical Paroxysmal Oscillations
+JF Journal of Neurophysiology
+VO 92
+SP 1116
+OP 1132
+IS 2
+
+RT Journal Article
+ID 4129109
+A1 Schreiber,Susanne
+A1 Fellous,Jean-Marc
+A1 Tiesinga,Paul
+A1 Sejnowski,Terrence,J.
+YR 2004
+T1 Influence of Ionic Conductances on Spike Timing Reliability of Cortical Neurons for Suprathreshold Rhythmic Inputs
+
+RT Journal Article
+ID 10740463
+A1 Yates,Paul,A.
+A1 Holub,Alex,D.
+A1 McLaughlin,Todd
+A1 Sejnowski,Terrence,J.
+A1 O'Leary,Dennis,D.,M.
+YR 2004
+T1 Computational modeling of retinotopic map development to define contributions of EphA-ephrinA gradients, axon-axon interactions, and patterned activity
+JF Journal of Neurobiology
+VO 59
+SP 95
+OP 113
+IS 1
+
+RT Journal Article
+ID 36058922
+A1 Tiesinga,Paul,H.
+A1 Fellous,Jean-Marc
+A1 Salinas,Emilio
+A1 José,Jorge,V.
+A1 Sejnowski,Terrence,J.
+YR 2004
+T1 Inhibitory synchrony as a mechanism for attentional gain modulation
+JF Journal of Physiology-paris
+VO 98
+SP 296
+OP 314
+IS 4
+
+RT Journal Article
+ID 5386860
+A1 Sejnowski,Terrence,J.
+A1 Eagleman,David,M.
+A1 Jacobson,John,E.
+YR 2004
+T1 Perceived luminance depends on temporal context
+JF Nature
+VO 428
+SP 854
+OP 856
+IS 6985
+
+RT Conference Proceedings
+ID 1806189
+A1 Balls,Gregory,T.
+A1 Baden,Scott,B.
+A1 Kispersky,Tilman
+A1 Bartol,Thomas,M.
+A1 Sejnowski,Terrence,J.
+YR 2004
+T1 A Large Scale Monte Carlo Simulator for Cellular Microphysiology
+
+RT Journal Article
+ID 1716055
+A1 Tiesinga,Paul,H.,E.
+A1 Fellous,Jean-marc
+A1 Salinas,Emilio
+A1 José,Jorge,V.
+A1 Sejnowski,Terrence,J.
+YR 2004
+T1 Synchronization as a mechanism for attentional gain modulation
+JF Neurocomputing
+VO 58-60
+SP 641
+OP 646
+
+RT Journal Article
+ID 27294676
+A1 Shon,A
+A1 Rao,R
+A1 Sejnowski,T
+YR 2004
+T1 Motion detection and prediction through spike-timing dependent plasticity
+JF Network-computation in Neural Systems
+VO 15
+SP 179
+OP 198
+IS 3
+
+RT Journal Article
+ID 5389491
+A1 Fuentealba,Pablo
+A1 Crochet,Sylvain
+A1 Timofeev,Igor
+A1 Bazhenov,Maxim
+A1 Sejnowski,Terrence,J.
+A1 Steriade,Mircea
+YR 2004
+T1 Experimental evidence and modeling studies support a synchronizing role for electrical coupling in the cat thalamic reticular neurons in vivo
+JF European Journal of Neuroscience
+VO 20
+SP 111
+OP 119
+IS 1
+
+RT Journal Article
+ID 5386608
+A1 Sample,Pamela,A.
+A1 Chan,Kwokleung
+A1 Boden,Catherine
+A1 Lee,Te-Won
+A1 Blumenthal,Eytan,Z.
+A1 Weinreb,Robert,N.
+A1 Bernd,Antje
+A1 Pascual,John
+A1 Hao,Jiucang
+A1 Sejnowski,Terrence
+A1 Goldbaum,Michael,H.
+YR 2004
+T1 Using Unsupervised Learning with Variational Bayesian Mixture of Factor Analysis to Identify Patterns of Glaucomatous Visual Field Defects
+
+RT Journal Article
+ID 5400204
+A1 Casanova,Henri
+A1 Berman,Francine
+A1 Bartol,Thomas,M.
+A1 Gokcay,Erhan
+A1 Sejnowski,Terrence,J.
+A1 Birnbaum,Adam
+A1 Dongarra,Jack
+A1 Miller,Michelle
+A1 Ellisman,Mark,H.
+A1 Faerman,Marcio
+A1 Obertelli,Graziano
+A1 Wolski,Richard
+A1 Pomerantz,Stuart,M.
+A1 Stiles,Joel,R.
+YR 2004
+T1 The Virtual Instrument: Support for Grid-Enabled Mcell Simulations
+JF International Journal of High Performance Computing Applications
+VO 18
+SP 3
+OP 17
+IS 1
+
+RT Book, Whole
+ID 49059670
+A1 Stiles,J.,R.
+A1 Ford,W.,C.
+A1 Pattillo,J.,M.
+A1 Deerinck,T.,E.
+A1 Ellisman,M.,H.
+A1 Bartol,T.,M.
+A1 Sejnowski,T.,J.
+YR 2004
+T1 Spatially realistic computational physiology: Past, present and future
+VO 13
+SP 685
+OP 694
+
+RT Book, Whole
+ID 1880108
+A1 Anemüller,Jörn
+A1 Sejnowski,Terrence,J.
+A1 Makeig,Scott
+YR 2004
+T1 Reliable Measurement of Cortical Flow Patterns Using Complex Independent Component Analysis of Electroencephalographic Signals
+SP 1009
+OP 1016
+
+RT Conference Proceedings
+ID 1811613
+A1 Schwartz,Odelia
+A1 Sejnowski,Terrence,J.
+A1 Dayan,Peter
+YR 2004
+T1 Assignment of Multiplicative Mixtures in Natural Images
+
+RT Book, Whole
+ID 1879985
+A1 Anemüller,Jörn
+A1 Duann,Jeng-ren
+A1 Sejnowski,Terrence,J.
+A1 Makeig,Scott
+YR 2004
+T1 Unraveling Spatio-temporal Dynamics in fMRI Recordings Using Complex ICA
+SP 1103
+OP 1110
+
+RT Journal Article
+ID 49439149
+A1 Schwartz,Odelia
+A1 Movellan,Javier,R.
+A1 Wachtler,Thomas
+A1 Albright,Thomas,D.
+A1 Sejnowski,Terrence,J.
+YR 2004
+T1 Spike count distributions, factorizability, and contextual effects in area V1
+JF Neurocomputing
+VO 58
+SP 893
+OP 900
+
+RT Journal Article
+ID 49439171
+A1 Arnold,Michael
+A1 Sejnowski,Terrence
+A1 Hammerstrom,Dan
+A1 Jabri,Marwan
+YR 2004
+T1 Neural systems integration
+JF Aquatic Toxicology
+VO 58
+SP 1123
+OP 1128
+
+RT Journal Article
+ID 14194686
+A1 Arnold,Michael
+A1 Sejnowski,Terrence
+A1 Hammerstrom,Dan
+A1 Jabri,Marwan
+YR 2004
+T1 Neural systems integration
+JF Neurocomputing
+VO 58-60
+SP 1123
+OP 1128
+
+RT Journal Article
+ID 14190103
+A1 Finelli,L.,A.
+A1 Bazhenov,M.
+A1 Stopfer,M.
+A1 Sejnowski,T.,J.
+A1 Laurent,G.
+YR 2004
+T1 SYNAPTIC PLASTICITY PROMOTES HIGHLY SYNCHRONOUS ENSEMBLES OF PROJECTION NEURONS IN A MODEL OLFACTORY SYSTEM
+
+RT Journal Article
+ID 51811004
+A1 Eagleman,David,M.
+A1 Jacobson,John,E.
+A1 Sejnowski,Terrence,J.
+YR 2004
+T1 Perceived luminance depends on temporal context
+JF Nature
+VO 428
+SP 854
+OP 856
+
+RT Journal Article
+ID 53502249
+A1 Shon,A.,P.
+A1 Rao,R.,P.,N.
+A1 Sejnowski,T.,J.
+YR 2004
+T1 Motion detection and prediction through spike-timing dependent plasticity
+
+RT Journal Article
+ID 36125225
+A1 SEJNOWSKI,T
+YR 2004
+T1 In MemoriamFrancis H.C. Crick
+JF Neuron
+VO 43
+SP 619
+OP 621
+IS 5
+
+RT Journal Article
+ID 36125226
+A1 Sejnowski,Terrence,J.
+YR 2004
+T1 In Memoriam
+JF Neuron
+VO 43
+SP 619
+OP 621
+IS 5
+
+RT Journal Article
+ID 1719475
+A1 Kreutz-delgado,Kenneth
+A1 Murray,Joseph,F.
+A1 Rao,Bhaskar,D.
+A1 Engan,Kjersti
+A1 Lee,Te-won
+A1 Sejnowski,Terrence,J.
+YR 2003
+T1 Dictionary Learning Algorithms for Sparse Representation
+JF Neural Computation
+VO 15
+SP 349
+OP 396
+IS 2
+
+RT Journal Article
+ID 779839
+A1 Anemüller,Jörn
+A1 Sejnowski,Terrence,J.
+A1 Makeig,Scott
+YR 2003
+T1 Complex Independent Component Analysis of Frequency-Domain Electroencephalographic Data
+JF Neural Networks
+VO 16
+SP 1311
+OP 1323
+IS 9
+
+RT Journal Article
+ID 2856474
+A1 Saffre,F.
+A1 Furey,R.
+A1 Krafft,B.
+A1 Deneubourg,J.,L.
+A1 Laughlin,Simon,B.
+A1 Sejnowski,Terrence,J.
+YR 2003
+T1 Communication in Neuronal Networks
+JF Science
+VO 301
+SP 1870
+OP 1874
+IS 5641
+
+RT Journal Article
+ID 2337597
+A1 Schreiber,S.
+A1 Fellous,J.,M.
+A1 Whitmer,D.
+A1 Tiesinga,P.
+A1 Sejnowski,T.,J.
+YR 2003
+T1 A new correlation-based measure of spike timing reliability
+JF Neurocomputing
+VO 52
+SP 925
+OP 931
+
+RT Journal Article
+ID 2129242
+A1 Wachtler,Thomas
+A1 Sejnowski,Terrence,J.
+A1 Albright,Thomas,D.
+YR 2003
+T1 Representation of Color Stimuli in Awake Macaque Primary Visual Cortex
+JF Neuron
+VO 37
+SP 681
+OP 691
+IS 4
+
+RT Journal Article
+ID 2324923
+A1 Fellous,J.-M
+A1 Rudolph,M
+A1 Destexhe,A
+A1 Sejnowski,T.,J
+YR 2003
+T1 Synaptic background noise controls the input/output characteristics of single cells in an in vitro model of in vivo activity
+JF Neuroscience
+VO 122
+SP 811
+OP 829
+IS 3
+
+RT Journal Article
+ID 3258290
+A1 DESTEXHE,A.
+A1 SEJNOWSKI,T.,J.
+YR 2003
+T1 Interactions Between Membrane Conductances Underlying Thalamocortical Slow-Wave Oscillations
+
+RT Journal Article
+ID 5386627
+A1 Franks,Kevin,M.
+A1 Stevens,Charles,F.
+A1 Sejnowski,Terrence,J.
+YR 2003
+T1 Independent Sources of Quantal Variability at Single Glutamatergic Synapses
+
+RT Journal Article
+ID 1719467
+A1 Doi,Eizaburo
+A1 Inui,Toshio
+A1 Lee,Te-won
+A1 Wachtler,Thomas
+A1 Sejnowski,Terrence,J.
+YR 2003
+T1 Spatiochromatic Receptive Field Properties Derived from Information-Theoretic Analyses of Cone Mosaic Responses to Natural Scenes
+JF Neural Computation
+VO 15
+SP 397
+OP 417
+IS 2
+
+RT Conference Proceedings
+ID 2349936
+A1 Anemller,Jrn
+A1 Sejnowski,Terrence,J.
+A1 Makeig,Scott
+YR 2003
+T1 COMPLEX SPECTRAL-DOMAIN INDEPENDENT COMPONENT ANALYSIS OF ELECTROENCEPHALOGRAPHIC DATA
+
+RT Journal Article
+ID 925936
+A1 Chan,Kwokleung
+A1 Lee,Te-won
+A1 Sejnowski,Terrence,J.
+YR 2003
+T1 Variational Bayesian Learning of ICA with Missing Data
+JF Neural Computation
+VO 15
+SP 1991
+OP 2011
+IS 8
+
+RT Conference Proceedings
+ID 5428008
+A1 Duann,Jeng-Ren
+A1 Jung,Tzyy-Ping
+A1 Makeig,Scott
+A1 Sejnowski,Terrence,J.
+YR 2003
+T1 CONSISTENCY OF INFOMAX ICA DECOMPOSITION OF FUNCTIONAL BRAIN IMAGING DATA
+
+RT Journal Article
+ID 3667523
+A1 Fellous,Jean-Marc
+A1 Sejnowski,Terrence,J.
+YR 2003
+T1 Regulation of Persistent Activity by Background Inhibition in an In Vitro Model of a Cortical Microcircuit
+JF Cerebral Cortex
+VO 13
+SP 1232
+OP 1241
+IS 11
+
+RT Journal Article
+ID 5627489
+A1 Sejnowski,Terrence,J.
+YR 2003
+T1 The Once and Future Hebb Synapse
+JF Canadian Psychology-psychologie Canadienne
+VO 44
+SP 17
+OP 20
+IS 1
+
+RT Conference Proceedings
+ID 1840862
+A1 Stiles,J.,R.
+A1 Ford,W.,C.
+A1 Pattillo,J.,M.
+A1 Deerinck,T.,E.
+A1 Ellisman,Mark,H.
+A1 Bartol,Thomas,M.
+A1 Sejnowski,Terrence,J.
+YR 2003
+T1 Spatially Realistic Computational Physiology: Past, Present and Future
+SP 685
+OP 694
+
+RT Journal Article
+ID 37240757
+A1 Eagleman,David,M
+A1 Sejnowski,Terrence,J
+YR 2003
+T1 The line-motion illusion can be reversed by motion signals after the line disappears
+JF Perception
+VO 32
+SP 963
+OP 968
+IS 8
+
+RT Journal Article
+ID 10006247
+A1 Thomas,Peter,J.
+A1 Tiesinga,Paul,H.,E.
+A1 Fellous,Jean-Marc
+A1 Sejnowski,Terrence,J.
+YR 2003
+T1 Reliability and bifurcation in neurons driven by multiple sinusoids
+JF Neurocomputing
+VO 52
+SP 955
+OP 961
+
+RT Journal Article
+ID 2856473
+A1 Laughlin,S.
+A1 Sejnowski,T.
+YR 2003
+T1 Communication in neuronal nets
+JF Science
+
+RT Journal Article
+ID 47074983
+A1 SEJNOWSKI,TERRENCE
+YR 2003
+T1 The Computational Self
+JF Annals of The New York Academy of Sciences
+VO 1001
+SP 262
+OP 271
+IS 1
+
+RT Journal Article
+ID 51918159
+A1 Thomas,Peter,J.
+A1 Tiesinga,Paul
+A1 Fellous,Jean-Marc
+A1 Sejnowski,Terrence
+YR 2003
+T1 Spike-Time Attractors in Cortical Neurons
+
+RT Journal Article
+ID 13350989
+A1 Fellous,Jean-Marc
+A1 Spencer,Donald
+A1 Wang,Hsi-Ping
+A1 Junek,Stephan
+A1 Eagleman,David,M.
+A1 Sejnowski,Terrence,J.
+YR 2003
+T1 Firing Reliably with Unreliable Synapses
+
+RT Journal Article
+ID 14193266
+A1 Anemuller,Jorn
+A1 Sejnowski,Terrence,J.
+A1 Makeig,Scott
+A1 Torrey,N.
+YR 2003
+T1 2003 Special Issue Complex independent component analysis of frequency-domain electroencephalographic data
+
+RT Journal Article
+ID 1716064
+A1 Kretzberg,Jutta
+A1 Sejnowski,Terrence,J.
+A1 Warzecha,Anne-kathrin
+A1 Egelhaaf,Martin
+YR 2003
+T1 Variability of postsynaptic responses depends non-linearly on the number of synaptic inputs
+JF Neurocomputing
+VO 52-54
+SP 313
+OP 320
+
+RT Journal Article
+ID 5389396
+A1 Neubig,M.
+A1 Destexhe,A.
+A1 Sejnowski,T.,J.
+YR 2003
+T1 Variability of quantal synaptic currents in thalamocortical neurons
+JF Thalamus and Related Systems
+VO 2
+SP 153
+OP 168
+IS 2
+
+RT Journal Article
+ID 51268011
+A1 Laughlin,Simon,B.
+A1 Sejnowski,Terrence,J.
+YR 2003
+T1 Communication in Neuronal Networks
+JF Science
+VO 301
+SP 1870
+OP 1874
+
+RT Journal Article
+ID 54666303
+A1 Anemuller,Jorn
+A1 Sejnowski,Terrence,J.
+A1 Makeig,Scott
+YR 2003
+T1 Complex Independent Component Analysis of Frequency-Domain Electroencephalographic Data
+
+RT Journal Article
+ID 15067512
+A1 Sejnowski,T.,J.
+YR 2003
+T1 PERCEPTIONS OF SCIENCE: Tap into Science 24-7
+JF Science
+VO 301
+SP 601
+OP 601
+IS 5633
+
+RT Journal Article
+ID 5392543
+A1 RAO,RAJESH,P,N
+A1 SEJNOWSKI,TERRENCE,J
+YR 2003
+T1 Complex Cell-li ke irection Selectivity through Spike-Timing Dependent Plasticity
+
+RT Conference Proceedings
+ID 50316413
+A1 Sejnowski,T.
+YR 2003
+T1 Combinatorial representation of color in visual cortex
+VO 4
+
+RT Journal Article
+ID 12825769
+A1 M,David
+A1 Sejnowski,Terrence,J
+YR 2003
+T1 The line-motion illusion can be reversed by motion signals after the line disappears Perception, 2003, volume 32, pages 963 ^968
+
+RT Journal Article
+ID 1209700
+A1 Bartlett,Marian,Stewart
+A1 Movellan,Javier,R.
+A1 Sejnowski,Terrence,J.
+YR 2002
+T1 Face recognition by independent component analysis
+JF IEEE Transactions on Neural Networks
+VO 13
+SP 1450
+OP 1464
+IS 6
+
+RT Journal Article
+ID 2066173
+A1 Makeig,S.
+A1 Westerfield,M.
+A1 Jung,T.-P.
+A1 Enghoff,S.
+A1 Townsend,J.
+A1 Courchesne,E.
+A1 Sejnowski,T.,J.
+YR 2002
+T1 Dynamic Brain Sources of Visual Evoked Responses
+JF Science
+VO 295
+SP 690
+OP 694
+IS 5555
+
+RT Journal Article
+ID 2031555
+A1 Wiskott,Laurenz
+A1 Sejnowski,Terrence,J.
+YR 2002
+T1 Slow Feature Analysis: Unsupervised Learning of Invariances
+JF Neural Computation
+VO 14
+SP 715
+OP 770
+IS 4
+
+RT Journal Article
+ID 2075662
+A1 Duann,Jeng-Ren
+A1 Jung,Tzyy-Ping
+A1 Kuo,Wen-Jui
+A1 Yeh,Tzu-Chen
+A1 Makeig,Scott
+A1 Hsieh,Jen-Chuen
+A1 Sejnowski,Terrence,J.
+YR 2002
+T1 Single-Trial Variability in Event-Related BOLD Signals
+JF Neuroimage
+VO 15
+SP 823
+OP 835
+IS 4
+
+RT Conference Proceedings
+ID 31683
+A1 Chan,Kwokleung
+A1 Lee,Te-Won
+A1 Sample,Pamela,A.
+A1 Goldbaum,Michael,H.
+A1 Weinreb,Robert,N.
+A1 Sejnowski,Terrence,J.
+YR 2002
+T1 Comparison of Machine Learning and Traditional Classifiers in Glaucoma Diagnosis
+
+RT Journal Article
+ID 785514
+A1 Delorme,Arnaud
+A1 Makeig,Scott
+A1 Fabre-thorpe,Michèle
+A1 Sejnowski,Terrence,J.
+YR 2002
+T1 From single-trial EEG to brain area dynamics
+JF Neurocomputing
+VO 44-46
+SP 1057
+OP 1064
+IS 1-4
+
+RT Journal Article
+ID 3398603
+A1 Bazhenov,Maxim
+A1 Timofeev,Igor
+A1 Steriade,Mircea
+A1 Sejnowski,Terrence,J.
+YR 2002
+T1 Model of Thalamocortical Slow-Wave Sleep Oscillations and Transitions to Activated States
+
+RT Journal Article
+ID 5445924
+A1 Bowd,Christopher
+A1 Chan,Kwokleung
+A1 Zangwill,Linda,M.
+A1 Goldbaum,Michael,H.
+A1 Lee,Te-Won
+A1 Sejnowski,Terrence,J.
+A1 Weinreb,Robert,N.
+YR 2002
+T1 Comparing Neural Networks and Linear Discriminant Functions for Glaucoma Detection Using Confocal Scanning Laser Ophthalmoscopy of the Optic Disc
+
+RT Conference Proceedings
+ID 1811404
+A1 Bartlett,Marian,Stewart
+A1 Littlewort,Gwen
+A1 Braathen,Bjorn
+A1 Sejnowski,Terrence,J.
+A1 Movellan,Javier,R.
+YR 2002
+T1 A Prototype for Automatic Recognition of Spontaneous Facial Actions
+SP 1271
+OP 1278
+
+RT Journal Article
+ID 42595
+A1 Chan,Kwokleung
+A1 Lee,Te-won
+A1 Sejnowski,Terrence,J.
+YR 2002
+T1 Variational Learning of Clusters of Undercomplete Nonsymmetric Independent Components
+JF Journal of Machine Learning Research
+VO 3
+SP 99
+OP 114
+
+RT Journal Article
+ID 2367403
+A1 Lee,Te-Won
+A1 Wachtler,Thomas
+A1 Sejnowski,Terrence,J.
+YR 2002
+T1 Color opponency is an efficient representation of spectral properties in natural scenes
+
+RT Journal Article
+ID 4671706
+A1 Goldbaum,Michael,H.
+A1 Sample,Pamela,A.
+A1 Chan,Kwokleung
+A1 Williams,Julia
+A1 Lee,Te-Won
+A1 Blumenthal,Eytan
+A1 Girkin,Christopher,A.
+A1 Zangwill,Linda,M.
+A1 Bowd,Christopher
+A1 Sejnowski,Terrence
+A1 Weinreb,Robert,N.
+YR 2002
+T1 Comparing Machine Learning Classifiers for Diagnosing Glaucoma from Standard Automated Perimetry
+
+RT Journal Article
+ID 12697
+A1 Chan,Kwokleung
+A1 Lee,Te-Won
+A1 Sejnowski,Terrence,J.
+YR 2002
+T1 Variational Learning of Clusters of Undercomplete Nonsymmetric Independent Components
+JF Journal of Machine Learning Research
+
+RT Journal Article
+ID 1719448
+A1 Tiesinga,Paul,H.,E.
+A1 Fellous,Jean-marc
+A1 Sejnowski,Terrence,J.
+YR 2002
+T1 Attractor Reliability Reveals Deterministic Structure in Neuronal Spike Trains
+JF Neural Computation
+VO 14
+SP 1629
+OP 1650
+IS 7
+
+RT Journal Article
+ID 861907
+A1 Jordan,Michael,I.
+A1 Sejnowski,Terrence,J.
+YR 2002
+T1 Graphical Models: Foundations of Neural Computation
+JF Pattern Analysis and Applications
+VO 5
+SP 401
+OP 402
+IS 4
+
+RT Journal Article
+ID 5406838
+A1 Franks,Kevin,M.
+A1 Bartol,Thomas,M.
+A1 Sejnowski,Terrence,J.
+YR 2002
+T1 A Monte Carlo Model Reveals Independent Signaling at Central Glutamatergic Synapses
+JF Biophysical Journal
+VO 83
+SP 2333
+OP 2348
+IS 5
+
+RT Journal Article
+ID 2177158
+A1 Salinas,Emilio
+A1 Sejnowski,Terrence,J.
+YR 2002
+T1 Integrate-and-Fire Neurons Driven by Correlated Stochastic Input
+JF Neural Computation
+VO 14
+SP 2111
+OP 2155
+IS 9
+
+RT Journal Article
+ID 4219620
+A1 Franks,Kevin,M.
+A1 Sejnowski,Terrence,J.
+YR 2002
+T1 Complexity of calcium signaling in synaptic spines
+JF Bioessays
+VO 24
+SP 1130
+OP 1144
+IS 12
+
+RT Journal Article
+ID 15164793
+A1 Timofeev,Igor
+A1 Bazhenov,Maxim
+A1 Sejnowski,Terrence
+A1 Steriade,Mircea
+YR 2002
+T1 Cortical hyperpolarization-activated depolarizing current takes part in the generation of focal paroxysmal activities
+JF Proceedings of The National Academy of Sciences
+VO 99
+SP 9533
+OP 9537
+IS 14
+
+RT Journal Article
+ID 2294530
+A1 Eagleman,David,M.
+A1 Sejnowski,Terrence,J.
+YR 2002
+T1 Untangling spatial from temporal illusions
+JF Trends in Neurosciences
+VO 25
+SP 293
+OP 293
+IS 6
+
+RT Journal Article
+ID 2490630
+A1 Suri,Roland,E.
+A1 Sejnowski,Terrence,J.
+YR 2002
+T1 Spike propagation synchronized by temporally asymmetric Hebbian learning
+JF Biological Cybernetics
+VO 87
+SP 440
+OP 445
+IS 5-6
+
+RT Journal Article
+ID 4198511
+A1 Timofeev,Igor
+A1 Grenier,François
+A1 Bazhenov,Maxim
+A1 Houweling,Arthur,R.
+A1 Sejnowski,Terrence,J.
+A1 Steriade,Mircea
+YR 2002
+T1 Short and medium-term plasticity associated with augmenting responses in cortical slabs and spindles in intact cortex of cats in vivo
+JF Journal of Physiology-london
+VO 542
+SP 583
+OP 598
+IS 2
+
+RT Journal Article
+ID 5322430
+A1 Sample,Pamela,A.
+A1 Goldbaum,Michael,H.
+A1 Chan,Kwokleung
+A1 Boden,Catherine
+A1 Lee,Te-Won
+A1 Vasile,Christiana
+A1 Boehm,Andreas,G.
+A1 Sejnowski,Terrence
+A1 Johnson,Chris,A.
+A1 Weinreb,Robert,N.
+YR 2002
+T1 Using Machine Learning Classifiers to Identify Glaucomatous Change Earlier in Standard Visual Fields
+
+RT Journal Article
+ID 5667074
+A1 Destexhe,Alain
+A1 Sejnowski,Terrence,J.
+YR 2002
+T1 The initiation of bursts in thalamic neurons and the cortical control of thalamic sensitivity
+JF Philosophical Transactions of The Royal Society B: Biological Sciences
+VO 357
+SP 1649
+OP 1657
+IS 1428
+
+RT Journal Article
+ID 105421
+A1 Fellous,J-M
+A1 Sejnowski,T.,J.
+A1 Jos,J.,V.
+YR 2002
+T1 Information transfer in entrained cortical neurons
+JF Network-computation in Neural Systems
+VO 13
+SP 41
+OP 66
+IS 1
+
+RT Journal Article
+ID 27046934
+A1 Chan,Kwokleung
+A1 Lee,Te-Won
+A1 Sample,Pamela,A.
+A1 Goldbaum,Michael,H.
+A1 Weinreb,Robert,N.
+A1 Sejnowski,Terrence,J.
+YR 2002
+T1 Comparison of machine learning and traditional classifiers in glaucoma diagnosis
+JF IEEE Transactions on Biomedical Engineering
+VO 49
+SP 963
+OP 974
+IS 9
+
+RT Journal Article
+ID 3121755
+A1 Houweling,Arthur,R.
+A1 Bazhenov,Maxim
+A1 Timofeev,Igor
+A1 Grenier,François
+A1 Steriade,Mircea
+A1 Sejnowski,Terrence,J.
+YR 2002
+T1 Frequency-selective augmenting responses by short-term synaptic depression in cat neocortex
+JF Journal of Physiology-london
+VO 542
+SP 599
+OP 617
+IS 2
+
+RT Conference Proceedings
+ID 3416298
+A1 Movellan,Javier,R.
+A1 Wachtler,Thomas
+A1 Albright,Thomas,D.
+A1 Sejnowski,Terrence
+YR 2002
+T1 Morton-Style Factorial Coding of Color in Primary Visual Cortex
+
+RT Journal Article
+ID 786211
+A1 Tiesinga,Paul,H.,E.
+A1 Fellous,Jean-marc
+A1 Sejnowski,Terrence,J.
+YR 2002
+T1 Spike-time reliability of periodically driven integrate-and-fire neurons
+JF Neurocomputing
+VO 44-46
+SP 195
+OP 200
+IS 1-4
+
+RT Conference Proceedings
+ID 1811409
+A1 Chan,Kwokleung
+A1 Lee,Te-won
+A1 Sejnowski,Terrence,J.
+YR 2002
+T1 Handling Missing Data with Variational Bayesian Learning of ICA
+SP 881
+OP 888
+
+RT Journal Article
+ID 786349
+A1 Howell,F.,W.
+A1 Bazhenov,Maxim
+A1 Rogister,P.
+A1 Sejnowski,Terrence,J.
+A1 Goddard,Nigel,H.
+YR 2002
+T1 Scaling a slow-wave sleep cortical network model using NEOSIM
+JF Neurocomputing
+VO 44-46
+SP 453
+OP 458
+IS 1-4
+
+RT Journal Article
+ID 33707545
+A1 Lee,Te-Won
+A1 Wachtler,Thomas
+A1 Sejnowski,Terrence,J
+YR 2002
+T1 Color opponency is an efficient representation of spectral properties in natural scenes
+JF Vision Research
+VO 42
+SP 2095
+OP 2103
+IS 17
+
+RT Conference Proceedings
+ID 1811462
+A1 Movellan,Javier,R.
+A1 Wachtler,Thomas
+A1 Albright,Thomas,D.
+A1 Sejnowski,Terrence,J.
+YR 2002
+T1 Factorial Coding of Color in Primary Visual Cortex
+SP 205
+OP 212
+
+RT Journal Article
+ID 52249699
+A1 Tiesinga,P.,H.,E.
+A1 Fellous,J.-M.
+A1 Salinas,E.
+A1 Jose,J.,V.
+A1 Sejnowski,T.,J.
+YR 2002
+T1 Synchronization as a mechanism for attentional modulation
+
+RT Journal Article
+ID 49642761
+A1 Thoma,Peter,J.
+A1 Tiesinga,Paul,H.,E.
+A1 Sejnowski,Terrence,J.
+YR 2002
+T1 Reliability and Bifurcation in Neurons Driven by Multiple Sinusoids
+JF Chemistry and Physics of Lipids
+VO 2002
+SP 909
+OP 915
+IS 2
+
+RT Journal Article
+ID 10007013
+A1 Schreiber,Susanne
+A1 Whitmer,Diane
+A1 Fellous,Jean-Marc
+A1 Sejnowski,Terrence,J.
+YR 2002
+T1 A new correlation-based measure of spike timing reliability
+VO 2002
+SP 694
+OP 697
+IS 2
+
+RT Conference Proceedings
+ID 3911952
+A1 Bell,A.,J.
+A1 Sejnowski,T.,J.
+YR 2001
+T1 The `independent components''of natural scenes are edge filters
+
+RT Journal Article
+ID 2903612
+A1 Salinas,Emilio
+A1 Sejnowski,Terrence,J.
+YR 2001
+T1 Correlated neuronal activity and the flow of neural information
+JF Nature Reviews Neuroscience
+VO 2
+SP 539
+OP 550
+IS 8
+
+RT Journal Article
+ID 90655
+A1 Jung,Tzyy-Ping
+A1 Makeig,Scott
+A1 Westerfield,Marissa
+A1 Townsend,Jeanne
+A1 Courchesne,Eric
+A1 Sejnowski,Terrence,J.
+YR 2001
+T1 Analysis and visualization of single-trial event-related potentials
+JF Human Brain Mapping
+VO 14
+SP 166
+OP 185
+IS 3
+
+RT Journal Article
+ID 1469053
+A1 JUNG,TZYY-PING
+A1 MAKEIG,SCOTT
+A1 MCKEOWN,MARTIN,J.
+A1 BELL,ANTHONY,J.
+A1 LEE,TE-WON
+A1 SEJNOWSKI,TERRENCE,J.
+YR 2001
+T1 Imaging brain dynamics using independent component analysis
+JF Proceedings of The IEEE
+VO 89
+SP 1107
+OP 1122
+IS 7
+
+RT Journal Article
+ID 3108185
+A1 Destexhe,A
+A1 Rudolph,M
+A1 Fellous,J.-M
+A1 Sejnowski,T.,J
+YR 2001
+T1 Fluctuating synaptic conductances recreate in vivo-like activity in neocortical neurons
+JF Neuroscience
+VO 107
+SP 13
+OP 24
+IS 1
+
+RT Journal Article
+ID 181926
+A1 Wachtler,Thomas
+A1 Lee,Te-Won
+A1 Sejnowski,Terrence,J.
+YR 2001
+T1 Chromatic structure of natural scenes
+JF Journal of The Optical Society of America A-optics Image Science and Vision
+VO 18
+SP 65
+IS 1
+
+RT Journal Article
+ID 83444
+A1 Rao,Rajesh,P.,N.
+A1 Sejnowski,Terrence,J.
+YR 2001
+T1 Spike-Timing-Dependent Hebbian Plasticity as Temporal Difference Learning
+JF Neural Computation
+VO 13
+SP 2221
+OP 2237
+IS 10
+
+RT Journal Article
+ID 3234859
+A1 Brown,Glen,D.
+A1 Yamada,Satoshi
+A1 Sejnowski,Terrence,J.
+YR 2001
+T1 Independent component analysis at the neural cocktail party
+JF Trends in Neurosciences
+VO 24
+SP 54
+OP 63
+IS 1
+
+RT Journal Article
+ID 4178903
+A1 Seamans,Jk
+A1 Durstewitz,D
+A1 Christie,Br
+A1 Stevens,Cf
+A1 Sejnowski,Tj
+YR 2001
+T1 Dopamine D1/D5 receptor modulation of excitatory synaptic inputs to layers V prefrontal cortex neurons
+JF Proceedings of The National Academy of Sciences
+
+RT Journal Article
+ID 183544
+A1 FELLOUS,J.-M.
+A1 HOUWELING,A.,R.
+A1 MODI,R.,H.
+A1 RAO,R.,P.,N.
+A1 TIESINGA,P.,H.,E.
+A1 SEJNOWSKI,T.,J.
+YR 2001
+T1 Frequency Dependence of Spike Timing Reliability in Cortical Pyramidal Cells and Interneurons
+
+RT Journal Article
+ID 2372060
+A1 Jordan,M.
+A1 Sejnowski,T.
+A1 Poggio,T.
+YR 2001
+T1 Graphical models: Foundations of neural computation
+JF Journal of Computational Neuroscience
+
+RT Journal Article
+ID 10475446
+A1 Bazhenov,Maxim
+A1 Stopfer,Mark
+A1 Rabinovich,Mikhail
+A1 Huerta,Ramon
+A1 Abarbanel,Henry,D.,I.
+A1 Sejnowski,Terrence,J.
+A1 Laurent,Gilles
+YR 2001
+T1 Model of Transient Oscillatory Synchronization in the Locust Antennal Lobe
+JF Neuron
+VO 30
+SP 553
+OP 567
+IS 2
+
+RT Journal Article
+ID 106305
+A1 Bazhenov,Maxim
+A1 Stopfer,Mark
+A1 Rabinovich,Mikhail
+A1 Abarbanel,Henry,D.,I.
+A1 Sejnowski,Terrence,J.
+A1 Laurent,Gilles
+YR 2001
+T1 Model of Cellular and Network Mechanisms for Odor-Evoked Temporal Patterning in the Locust Antennal Lobe
+JF Neuron
+VO 30
+SP 569
+OP 581
+IS 2
+
+RT Journal Article
+ID 785512
+A1 Fellous,Jean-marc
+A1 Tiesinga,Paul,H.,E.
+A1 José,Jorge,V.
+A1 Sejnowski,Terrence,J.
+YR 2001
+T1 Computational model of carbachol-induced delta, theta and gamma-like oscillations in hippocampus
+JF Neurocomputing
+VO 38-40
+SP 587
+OP 593
+
+RT Journal Article
+ID 36035195
+A1 Flash,Tamar
+A1 Sejnowski,Terrence,J
+YR 2001
+T1 Computational approaches to motor control
+JF Current Opinion in Neurobiology
+VO 11
+SP 655
+OP 662
+IS 6
+
+RT Journal Article
+ID 78343
+A1 Rao,Rajesh,P.,N.
+A1 Eagleman,David,M.
+A1 Sejnowski,Terrence,J.
+YR 2001
+T1 Optimal Smoothing in Visual Motion Perception
+JF Neural Computation
+VO 13
+SP 1243
+OP 1253
+IS 6
+
+RT Journal Article
+ID 10373654
+A1 Vissel,B.
+A1 Royle,G.,A.
+A1 Christie,B.,R.
+A1 Schiffer,H.,H.
+A1 Ghetti,A.
+A1 Tritto,T.
+A1 Perez-Otano,I.
+A1 Radcliffe,R.,A.
+A1 Seamans,J.
+A1 Sejnowski,T.
+A1 Wehner,J.,M.
+A1 Collins,A.,C.
+A1 O'Gorman,S.
+A1 Heinemann,S.,F.
+YR 2001
+T1 The Role of RNA Editing of Kainate Receptors in Synaptic Plasticity and Seizures
+JF Neuron
+VO 29
+SP 217
+OP 227
+IS 1
+
+RT Journal Article
+ID 2075809
+A1 Bartlett,Marian,S.
+A1 Braathen,Bjorn
+A1 Littlewort-Ford,Gwen
+A1 Hershey,John
+A1 Fasel,Ian
+A1 Marks,Tim
+A1 Smith,Evan
+A1 Sejnowski,Terrence,J.
+A1 Movellan,Javier,R.
+YR 2001
+T1 Automatic Analysis of Spontaneous Facial Behavior: A Final Project Report
+
+RT Journal Article
+ID 858613
+A1 Coenen,Olivier,J.,M.,D.
+A1 Arnold,Michael,P.
+A1 Sejnowski,Terrence,J.
+A1 Jabri,Marwan,A.
+YR 2001
+T1 Parallel Fiber Coding in the Cerebellum for LifeLong Learning
+JF Autonomous Robots
+VO 11
+SP 291
+OP 297
+IS 3
+
+RT Journal Article
+ID 3828690
+A1 Stiles,J.,R.
+A1 Bartol,T.,M.
+A1 Salpeter,M.,M.
+A1 Salpeter,E.,E.
+A1 Sejnowski,T.,J.
+YR 2001
+T1 Synaptic variability: new insights from reconstructions and Monte Carlo simulations with MCell
+
+RT Journal Article
+ID 36923076
+A1 Pouget,Alexandre
+A1 Sejnowski,Terrence,J.
+YR 2001
+T1 Simulating a lesion in a basis function model of spatial representations: Comparison with hemineglect
+JF Psychological Review
+VO 108
+SP 653
+OP 673
+IS 3
+
+RT Journal Article
+ID 34140719
+A1 Tiesinga,Paul,H.,E.
+A1 Fellous,Jean-Marc
+A1 Sejnowski,Terrence,J.
+YR 2001
+T1 Computational model of carbachol-induced delta, theta, and gamma oscillations in the hippocampus
+JF Hippocampus
+VO 11
+SP 251
+OP 274
+IS 3
+
+RT Journal Article
+ID 126542
+A1 Wachtler,Thomas
+A1 Albright,Thomas,D.
+A1 Sejnowski,Terrence,J.
+YR 2001
+T1 Nonlocal interactions in color perception: nonlinear processing of chromatic signals from remote inducers
+
+RT Journal Article
+ID 6304791
+A1 Timofeev,I.
+A1 Bazhenov,M.
+A1 Sejnowski,T.,J.
+A1 Steriade,M.
+YR 2001
+T1 Contribution of intrinsic and synaptic factors in the desynchronization of thalamic oscillatory activity
+JF Thalamus and Related Systems
+VO 1
+SP 53
+OP 69
+IS 1
+
+RT Conference Proceedings
+ID 2848703
+A1 Needleman,Daniel,J.
+A1 Tiesinga,Paul,H.,E.
+A1 Sejnowski,Terrence,J.
+YR 2001
+T1 Collective enhancement of precision in networks of coupled oscillators
+
+RT Journal Article
+ID 38546692
+A1 Salinas,E.
+A1 Sejnowski,T.,J.
+YR 2001
+T1 Book Review: Gain Modulation in the Central Nervous System: Where Behavior, Neurophysiology, and Computation Meet
+JF Neuroscientist
+VO 7
+SP 430
+OP 440
+IS 5
+
+RT Conference Proceedings
+ID 132924
+A1 Lee,Te-won
+A1 Sejnowski,Terrence
+A1 Wachtler,Thomas
+YR 2001
+T1 Color Opponency Constitutes A Sparse Representation For the Chromatic Structure of Natural Scenes
+
+RT Journal Article
+ID 785592
+A1 Franks,Kevin,M.
+A1 Bartol,Thomas,M.
+A1 Sejnowski,Terrence,J.
+YR 2001
+T1 An MCell model of calcium dynamics and frequency-dependence of calmodulin activation in dendritic spines
+JF Neurocomputing
+VO 38-40
+SP 9
+OP 16
+IS 1-4
+
+RT Journal Article
+ID 4677836
+A1 Sejnowski,Terrence,J
+YR 2001
+T1 Precision of pulse-coupled networks of integrate-and-fire neurons
+JF Network-computation in Neural Systems
+VO 12
+SP 215
+OP 233
+IS 2
+
+RT Journal Article
+ID 786088
+A1 Tiesinga,Paul,H.,E.
+A1 Fellous,Jean-marc
+A1 José,Jorge,V.
+A1 Sejnowski,Terrence,J.
+YR 2001
+T1 Optimal information transfer in synchronized neocortical neurons
+JF Neurocomputing
+VO 38-40
+SP 397
+OP 402
+IS 1-4
+
+RT Journal Article
+ID 23298054
+A1 Läer,Leonhard
+A1 Kloppstech,Mirko
+A1 Schöfl,Christof
+A1 Sejnowski,Terrence,J.
+A1 Brabant,Georg
+A1 Prank,Klaus
+YR 2001
+T1 Noise enhanced hormonal signal transduction through intracellular calcium oscillations
+JF Biophysical Chemistry
+VO 91
+SP 157
+OP 166
+IS 2
+
+RT Journal Article
+ID 785615
+A1 Houweling,Arthur,R.
+A1 Modi,Rashmi,H.
+A1 Ganter,Paul
+A1 Fellous,Jean-marc
+A1 Sejnowski,Terrence,J.
+YR 2001
+T1 Models of frequency preferences of prefrontal cortical neurons
+JF Neurocomputing
+VO 38-40
+SP 231
+OP 238
+IS 1-4
+
+RT Journal Article
+ID 3398621
+A1 Bazhenov,M
+A1 Stopfer,M
+A1 Rabinovich,M
+A1 Huerta,R
+A1 Abarbanel,Hdi
+A1 Sejnowski,Tj
+A1 Laurent,G
+YR 2001
+T1 Model of transient synchronization in the locust antennal lobe
+
+RT Journal Article
+ID 36923077
+A1 Pouget,Alexandre
+A1 Sejnowski,Terrence,J.
+YR 2001
+T1 Simulating a Lesion in a Basis Function Model of Spatial Representations: Comparison With Hemineglect
+JF Psychological Review
+VO 108
+SP 653
+OP 673
+IS 3
+
+RT Journal Article
+ID 33704706
+A1 Wachtler,Thomas
+A1 Albright,Thomas,D
+A1 Sejnowski,Terrence,J
+YR 2001
+T1 Nonlocal interactions in color perception: nonlinear processing of chromatic signals from remote inducers
+JF Vision Research
+VO 41
+SP 1535
+OP 1546
+IS 12
+
+RT Journal Article
+ID 14193216
+A1 Duann,Jeng-Ren
+A1 Jung,Tzyy-Ping
+A1 Kuo,Wen-Jui
+A1 Yeh,Tzu-Chen
+A1 Makeig,Scott
+A1 Hsieh,Jen-Chuen
+A1 Sejnowski,Terrence
+YR 2001
+T1 Blind decomposition reveals novel hemodynamics response features
+JF Neuroimage
+VO 13
+SP 111
+OP 111
+IS 6
+
+RT Journal Article
+ID 14526993
+A1 Makeig,Scott
+A1 Jung,Tzyy-Ping
+A1 Westerfield,Marissa
+A1 Sejnowski,Terrence,J.
+YR 2001
+T1 Imaging event-related brain dynamics
+JF Neuroimage
+VO 13
+SP 1309
+OP 1309
+IS 6
+
+RT Journal Article
+ID 53074426
+A1 Tiesinga,Paul
+A1 Fellous,Jean-Marc
+A1 Jose,Jorge
+A1 Sejnowski,Terrence
+YR 2001
+T1 Synchronized Inhibition Boosts Information Transfer in Entrained Neurons
+
+RT Journal Article
+ID 5199409
+A1 Fellous,J.-M.
+A1 Tiesinga,P.,H.,E.
+A1 JoseH,J.,V.
+A1 Sejnowski,T.,J.
+A1 Torrey,N.
+YR 2001
+T1 Computational model of carbachol-induced , and -like oscillations in hippocampus
+
+RT Journal Article
+ID 15228152
+A1 Coenen,Olivier,J.-M.,D.
+A1 Arnold,Michael,P.
+A1 Sejnowski,Terrence,J.
+A1 Jabri,Marwan,A.
+YR 2001
+T1 Parallel Fiber Coding in the Cerebellum for LifeLong Learning
+JF Autonomous Robots
+VO 11
+SP 291
+OP 297
+IS 3
+
+RT Journal Article
+ID 14461252
+A1 Fellous,J.-M.
+A1 Tiesinga,P.,H.,E.
+A1 José,J.,V.
+A1 Sejnowski,T.,J.
+YR 2001
+T1 Computational model of carbachol-induced δ, θ and γ-like oscillations in hippocampus
+JF Neurocomputing
+VO 38
+SP 587
+OP 593
+IS 1-4
+
+RT Book, Whole
+ID 49037766
+A1 Zhang,Kechen
+A1 Sejnowski,Terrence,J.
+YR 2001
+T1 Chapter 21 Accuracy and learning in neuronal populations
+JF Progress in Brain Research
+VO 130
+SP 333
+OP 342
+
+RT Journal Article
+ID 5389450
+A1 Zhang,Kechen
+A1 Sejnowski,Terrence,J.
+YR 2001
+T1 Accuracy and learning in neuronal populations
+
+RT Journal Article
+ID 18338201
+A1 Needleman,Daniel,J.
+A1 Tiesinga,Paul,H.,E.
+A1 Sejnowski,Terrence,J.
+YR 2001
+T1 Collective enhancement of precision in networks of coupled oscillators
+JF Physica D-nonlinear Phenomena
+VO 155
+SP 324
+OP 336
+IS 3
+
+RT Journal Article
+ID 51395020
+A1 Needleman,D.,J.
+A1 Tiesinga,P.,H.,E.
+A1 Sejnowski,T.,J.
+YR 2001
+T1 Collective enhancement of precision in networks of coupled oscillators
+JF Physica D-nonlinear Phenomena
+VO 155
+SP 324
+OP 336
+
+RT Journal Article
+ID 785960
+A1 Wicklein,Martina
+A1 Sejnowski,Terrence,J.
+YR 2001
+T1 Perception of change in depth in the hummingbird hawkmoth Manduca sexta (Sphingidae, Lepidoptera)
+JF Neurocomputing
+VO 38-40
+SP 1595
+OP 1602
+IS 1-4
+
+RT Journal Article
+ID 798942
+A1 Lewicki,Michael,S.
+A1 Sejnowski,Terrence,J.
+YR 2000
+T1 Learning Overcomplete Representations
+JF Neural Computation
+VO 12
+SP 337
+OP 365
+IS 2
+
+RT Journal Article
+ID 187044
+A1 JUNG,TZYY-PING
+A1 MAKEIG,SCOTT
+A1 HUMPHRIES,COLIN
+A1 LEE,TE-WON
+A1 McKEOWN,MARTIN,J.
+A1 IRAGUI,VICENTE
+A1 SEJNOWSKI,TERRENCE,J.
+YR 2000
+T1 Removing electroencephalographic artifacts by blind source separation
+JF Psychophysiology
+VO 37
+SP 163
+OP 178
+IS 2
+
+RT Journal Article
+ID 31353319
+A1 Jung,Tzyy-Ping
+A1 Makeig,Scott
+A1 Westerfield,Marissa
+A1 Townsend,Jeanne
+A1 Courchesne,Eric
+A1 Sejnowski,Terrence,J.
+YR 2000
+T1 Removal of eye activity artifacts from visual event-related potentials in normal and clinical subjects
+JF Clinical Neurophysiology
+VO 111
+SP 1745
+OP 1758
+IS 10
+
+RT Journal Article
+ID 2048965
+A1 Cepko,C.,L.
+A1 Austen,C.,P.
+A1 Yang,X.
+A1 Alexiades,M.
+A1 Eagleman,David,M.
+A1 Sejnowski,Terrence,J.
+YR 2000
+T1 Motion Integration and Postdiction in Visual Awareness
+JF Science
+VO 287
+SP 2036
+OP 2038
+IS 5460
+
+RT Journal Article
+ID 1999140
+A1 Durstewitz,Daniel
+A1 Seamans,Jeremy,K.
+A1 Sejnowski,Terrence,J.
+YR 2000
+T1 Neurocomputational models of working memory
+
+RT Journal Article
+ID 2048953
+A1 Salinas,Emilio
+A1 Sejnowski,Terrence,J.
+YR 2000
+T1 Impact of Correlated Synaptic Input on Output Firing Rate and Variability in Simple Neuronal Models
+
+RT Journal Article
+ID 210422
+A1 Lee,Te-won
+A1 Lewicki,Michael,S.
+A1 Sejnowski,Terrence,J.
+YR 2000
+T1 ICA Mixture Models for Unsupervised Classification of Non-Gaussian Classes and Automatic Context Switching in Blind Signal Separation
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 22
+SP 1078
+OP 1089
+IS 10
+
+RT Journal Article
+ID 3536426
+A1 Timofeev,I.
+A1 Grenier,F
+A1 Bazhenov,M
+A1 Sejnowski,Tj
+A1 Steriade,M
+YR 2000
+T1 Origin of Slow Cortical Oscillations in Deafferented Cortical Slabs
+JF Cerebral Cortex
+VO 10
+SP 1185
+OP 1199
+IS 12
+
+RT Journal Article
+ID 1683073
+A1 Makeig,Scott
+A1 Enghoff,Sigurd
+A1 Jung,Tzyy-Ping
+A1 Sejnowski,Terrence,J.
+YR 2000
+T1 A natural basis for efficient brain-actuated control
+JF IEEE Transactions on Rehabilitation Engineering
+VO 8
+SP 208
+OP 211
+IS 2
+
+RT Journal Article
+ID 2644617
+A1 Zhang,Kechen
+A1 Sejnowski,Terrence,J.
+YR 2000
+T1 A universal scaling law between gray matter and white matter of cerebral cortex
+JF Proceedings of The National Academy of Sciences
+VO 97
+SP 5621
+OP 5626
+IS 10
+
+RT Journal Article
+ID 2079421
+A1 Paulsen,Ole
+A1 Sejnowski,Terrence,J
+YR 2000
+T1 Natural patterns of activity and long-term synaptic plasticity
+JF Current Opinion in Neurobiology
+VO 10
+SP 172
+OP 180
+IS 2
+
+RT Journal Article
+ID 170761
+A1 Jung,Tzyy-Ping
+A1 Makeig,Scott
+A1 Lee,Te-Won
+A1 McKeown,Martin,J.
+A1 Brown,Glen
+A1 Bell,Anthony,J.
+A1 Sejnowski,Terrence,J.
+YR 2000
+T1 INDEPENDENT COMPONENT ANALYSIS OF BIOMEDICAL SIGNALS
+
+RT Journal Article
+ID 4095385
+A1 Sejnowski,Terrence,J.
+A1 Destexhe,Alain
+YR 2000
+T1 Why do we sleep? 1 1 Published on the World Wide Web on 7 November 2000
+JF Brain Research
+VO 886
+SP 208
+OP 223
+IS 1
+
+RT Journal Article
+ID 5395270
+A1 Tiesinga,P.,H.,E.
+A1 Jose,Jorge,V.
+A1 Sejnowski,Terrence,J.
+YR 2000
+T1 Comparison of current-driven and conductance-driven neocortical model neurons with Hodgkin-Huxley voltage-gated channels
+JF Physical Review E
+VO 62
+SP 8413
+OP 8419
+IS 6
+
+RT Journal Article
+ID 2644336
+A1 Lee,T.,W.
+A1 Girolami,M.
+A1 Bell,A.
+A1 Sejnowski,T.
+YR 2000
+T1 A unifying framework for independent component analysis
+
+RT Journal Article
+ID 12737292
+A1 Fellous,Jean-Marc
+A1 Sejnowski,Terrence,J.
+YR 2000
+T1 Cholinergic induction of oscillations in the hippocampal slice in the slow (0.5–2 Hz), theta (5–12 Hz), and gamma (35–70 Hz) bands
+JF Hippocampus
+VO 10
+SP 187
+OP 197
+IS 2
+
+RT Journal Article
+ID 2325052
+A1 MAICEIG,SCOTT
+A1 Jung,Tzyy-Ping
+A1 Sejnowski,Terrence,J.
+YR 2000
+T1 Awareness During Drowsiness: Dynamics and Electrophysiological Correlates
+JF Canadian Journal of Experimental Psychology-revue Canadienne De Psychologie Experimentale
+VO 54
+SP 266
+OP 273
+IS 4
+
+RT Journal Article
+ID 4647014
+A1 Makeig,Scott
+A1 Enghoff,Sigurd
+A1 Jung,Tzyy-Ping
+A1 Sejnowski,Terrence,J.
+YR 2000
+T1 MOVING-WINDOW ICA DECOMPOSITION OF EEG DATA REVEALS EVENT-RELATED CHANGES IN OSCILLATORY BRAIN ACTIVITY
+
+RT Journal Article
+ID 3503
+A1 Schraudolph,Nicol,N.
+A1 Dayan,Peter
+A1 Sejnowski,Terrence,J.
+YR 2000
+T1 LEARNING TO EVALUATE GO POSITIONS VIA TEMPORAL DIFFERENCE METHODS
+
+RT Journal Article
+ID 14193599
+A1 Murthy,Venkatesh,N.
+A1 Sejnowski,Terrence,J.
+A1 Stevens,Charles,F.
+YR 2000
+T1 Dynamics of dendritic calcium transients evoked by quantal release at excitatory hippocampal synapses
+JF Proceedings of The National Academy of Sciences
+VO 97
+SP 901
+OP 906
+IS 2
+
+RT Journal Article
+ID 5364771
+A1 Christie,Brian,R.
+A1 Franks,Kevin,M.
+A1 Seamans,Jeremy,K.
+A1 Saga,Karin
+A1 Sejnowski,Terrence,J.
+YR 2000
+T1 Synaptic plasticity in morphologically identified CA1 stratum radiatum interneurons and giant projection cells
+JF Hippocampus
+VO 10
+SP 673
+OP 683
+IS 6
+
+RT Book, Whole
+ID 108772
+A1 Lee,Te-won
+A1 Wachtler,Thomas
+A1 Sejnowski,Terrence,J.
+YR 2000
+T1 The Spectral Independent Components of Natural Scenes
+SP 527
+OP 534
+
+RT Journal Article
+ID 36621570
+A1 Sejnowski,Terrence
+YR 2000
+T1 Constraining constructivism: Cortical and sub-cortical constraints on learning in development
+JF Behavioral and Brain Sciences
+VO 23
+SP 785
+OP 791
+IS 5
+
+RT Conference Proceedings
+ID 561100
+A1 Gray,Michael,S.
+A1 Sejnowski,Terrence,J.
+A1 Movellan,Javier,R.
+YR 2000
+T1 A Comparison of Image Processing Techniques for Visual Speech Recognition Applications
+SP 939
+OP 945
+
+RT Conference Proceedings
+ID 159828
+A1 Jabri,Marwan,A.
+A1 Park,Ki-young
+A1 Lee,Soo-young
+A1 Sejnowski,Terrence,J.
+YR 2000
+T1 Properties of Independent Components of Self-Motion Optical Flow
+SP 355
+OP 362
+
+RT Journal Article
+ID 176270
+A1 Park,Ki-young
+A1 Jabri,Marwan
+A1 Lee,Soo-young
+A1 Sejnowski,Terrence,J.
+YR 2000
+T1 Independent Components Of Optical Flows Have MSTd-Like Receptive Fields
+
+RT Journal Article
+ID 3597941
+A1 Rao,R
+A1 Sejnowski,T
+YR 2000
+T1 Predictive sequence learning in recurrent neocortical networks
+
+RT Conference Proceedings
+ID 560608
+A1 Lee,Te-won
+A1 Wachtler,Thomas
+A1 Sejnowski,Terrence,J.
+YR 2000
+T1 Color Opponency Constitutes a Sparse Representation for the Chromatic Structure of Natural Scenes
+SP 866
+OP 872
+
+RT Journal Article
+ID 55110074
+A1 Murthy,Venkatesh,N.
+A1 Sejnowski,Terrence,J.
+A1 Stevens,Charles,F.
+YR 2000
+T1 Dynamics of dendritic calcium transients evoked by quantal release at excitatory hippocampal synapses
+JF Proceedings of The National Academy of Sciences
+VO 97
+SP 901
+OP 906
+
+RT Journal Article
+ID 54678990
+A1 Tiesinga,P.,H.,E.
+A1 José,Jorge,V.
+A1 Sejnowski,Terrence,J.
+YR 2000
+T1 Comparison of current-driven and conductance-driven neocortical model neurons with Hodgkin-Huxley voltage-gated channels
+JF Physical Review E
+VO 62
+SP 8413
+OP 8419
+
+RT Journal Article
+ID 52655874
+A1 Jabri,Marwan,A.
+A1 Huang,Jerry
+A1 Coenen,Olivier,J.
+A1 Sejnowski,Terrence,J.
+YR 2000
+T1 Models of basal ganglia and cerebellum for sensorimotor integration and predictive control
+VO 4196
+SP 125
+OP 137
+
+RT Journal Article
+ID 53639547
+A1 Eagleman,David,M.
+A1 Sejnowski,Terrence,J.
+YR 2000
+T1 Motion Integration and Postdiction in Visual Awareness
+JF Science
+VO 287
+SP 2036
+OP 2038
+
+RT Journal Article
+ID 415563
+A1 Lee,Te-won
+A1 Girolami,Mark
+A1 Sejnowski,Terrence,J.
+YR 1999
+T1 Independent Component Analysis Using an Extended Infomax Algorithm for Mixed Sub-Gaussian and Super-Gaussian Sources
+JF Neural Computation
+VO 11
+SP 417
+OP 441
+IS 2
+
+RT Journal Article
+ID 286145
+A1 Donato,Gianluca
+A1 Bartlett,Marian,Stewart
+A1 Hager,Joseph,C.
+A1 Ekman,Paul
+A1 Sejnowski,Terrence,J.
+YR 1999
+T1 Classifying Facial Actions
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 21
+SP 974
+OP 989
+IS 10
+
+RT Journal Article
+ID 14198655
+A1 Praag,Henriette,van
+A1 Christie,Brian,R.
+A1 Sejnowski,Terrence,J.
+A1 Gage,Fred,H.
+A1 Hughes,Howard
+YR 1999
+T1 Running enhances neurogenesis, learning, and long-term potentiation in mice
+JF Proceedings of The National Academy of Sciences
+VO 96
+SP 13427
+OP 13431
+IS 23
+
+RT Journal Article
+ID 15244101
+A1 Lee,Te-Won
+A1 Girolami,Mark
+A1 Sejnowski,Terrence,J.
+YR 1999
+T1 Independent Component Analysis Using an Extended Infomax Algorithm for Mixed Subgaussian and Supergaussian Sources
+JF Neural Computation
+VO 11
+SP 417
+OP 441
+IS 2
+
+RT Journal Article
+ID 199521
+A1 BARTLETT,MARIAN,STEWART
+A1 HAGER,JOSEPH,C.
+A1 EKMAN,PAUL
+A1 SEJNOWSKI,TERRENCE,J.
+YR 1999
+T1 Measuring facial expressions by computer image analysis
+JF Psychophysiology
+VO 36
+SP 253
+OP 263
+IS 2
+
+RT Journal Article
+ID 206500
+A1 Makeig,Scott
+A1 Westerfield,Marissa
+A1 Jung,Tzyy-Ping
+A1 Covington,James
+A1 Townsend,Jeanne
+A1 Sejnowski,Terrence,J.
+A1 Courchesne,Eric
+YR 1999
+T1 Functionally Independent Components of the Late Positive Event-Related Potential during Visual Spatial Attention
+
+RT Conference Proceedings
+ID 183933
+A1 Courchesne,Eric
+A1 Townsend,Jeanne
+A1 Westerfield,Marissa
+A1 Makeig,Scott
+A1 Sejnowski,Terrence,J.
+A1 Jung,Tzyy-ping
+YR 1999
+T1 Analyzing and Visualizing Single-Trial Event-Related Potentials
+
+RT Journal Article
+ID 130690
+A1 Zhang,Kechen
+A1 Sejnowski,Terrence,J.
+YR 1999
+T1 Neuronal tuning: To Sharpen or Broaden?
+JF Neural Computation
+VO 11
+SP 75
+OP 84
+IS 1
+
+RT Conference Proceedings
+ID 1777
+A1 Hughes,Howard
+A1 Lewicki,Michael,S.
+A1 Lee,Te-won
+A1 Sejnowski,Terrence
+YR 1999
+T1 Unsupervised Classification with Non-Gaussian Mixture Models using ICA
+
+RT Journal Article
+ID 12891451
+A1 Makeig,Scott
+A1 Westerfield,Marissa
+A1 Townsend,Jeanne
+A1 Jung,Tzyy-Ping
+A1 Courchesne,Eric
+A1 Sejnowski,Terrence,J.
+YR 1999
+T1 Functionally independent components of early event-related potentials in a visual spatial attention task
+JF Philosophical Transactions of The Royal Society B: Biological Sciences
+VO 354
+SP 1135
+OP 1144
+IS 1387
+
+RT Journal Article
+ID 3862176
+A1 Sejnowski,Terrence,J
+YR 1999
+T1 The Book of Hebb
+JF Neuron
+VO 24
+SP 773
+OP 776
+IS 4
+
+RT Conference Proceedings
+ID 288594
+A1 Rao,Rajesh,P.,N.
+A1 Sejnowski,Terrence,J.
+YR 1999
+T1 Predictive Sequence Learning in Recurrent Neocortical Circuits
+SP 164
+OP 170
+
+RT Journal Article
+ID 3234970
+A1 Makeig,S.
+A1 Westerfield,M.
+A1 Jung,T.,P.
+A1 Covington,J.
+A1 Townsend,J.
+A1 Sejnowski,T.
+A1 Courchesne,E.
+YR 1999
+T1 Independent components of the late positive response complex in a visual spatial attention task
+
+RT Conference Proceedings
+ID 3234911
+A1 Jung,T.,P.
+A1 Makeig,S.
+A1 Westerfield,M.
+A1 Townsend,J.
+A1 Courchesne,E.
+A1 Sejnowski,T.,J.
+YR 1999
+T1 Independent component analysis of single-trial event-related potentials
+
+RT Conference Proceedings
+ID 228193
+A1 Bartlett,Marian,Stewart
+A1 Donato,Gianluca
+A1 Movellan,Javier,R.
+A1 Hager,Joseph,C.
+A1 Ekman,Paul
+A1 Sejnowski,Terrence,J.
+YR 1999
+T1 Image Representations for Facial Expression Coding
+SP 886
+OP 892
+
+RT Journal Article
+ID 14198829
+A1 Timofeev,I.
+A1 Steriade,M.
+A1 Sejnowski,T.,J.
+A1 Bazhenov,M.
+YR 1999
+T1 Self–sustained rhythmic activity in the thalamic reticular nucleus mediated by depolarizing GABAA receptor potentials
+JF Nature Neuroscience
+VO 2
+SP 168
+OP 174
+IS 2
+
+RT Journal Article
+ID 48108510
+A1 McKeown,Martin,J.
+A1 Humphries,Colin
+A1 Iragui,Vincente
+A1 Sejnowski,Terrence,J.
+YR 1999
+T1 Spatially Fixed Patterns Account for the Spike and Wave Features in Absence Seizures
+JF Brain Topography
+VO 12
+SP 107
+OP 116
+IS 2
+
+RT Journal Article
+ID 3443293
+A1 Abbott,L.,E.
+A1 Sejnowski,T.,J.
+YR 1999
+T1 Neural Codes and Distributed Representations
+
+RT Journal Article
+ID 266842
+A1 Pouget,A.
+A1 Deneve,S.
+A1 Sejnowski,T.,j.
+YR 1999
+T1 Frames of Reference in Hemineglect: A Computational Approach
+
+RT Journal Article
+ID 5386221
+A1 McKeown,Martin,J.
+A1 Humphries,Colin
+A1 Sejnowski,Terrence,J.
+YR 1999
+T1 Spatially Fixed Patterns Account for the Spike and Wave Features in Absence Seizures
+
+RT Journal Article
+ID 213976
+A1 Bartlett,Marian,Stewart
+A1 Donato,Gianluca
+A1 Movellan,Javier,R.
+A1 Hager,Joseph,C.
+A1 Ekman,Paul
+A1 Sejnowski,Terrence,J.
+YR 1999
+T1 Face image analysis for expression measurement and detection of deceit
+
+RT Journal Article
+ID 243691
+A1 Zhang,Kechen
+A1 Sejnowski,Terrence,J.
+YR 1999
+T1 A Theory of Geometric Constraints on Neural Activity for Natural Three-Dimensional Movement
+
+RT Journal Article
+ID 798912
+A1 Ernst,Udo
+A1 Pawelzik,Klaus
+A1 Tsodyks,Misha
+A1 Sejnowski,Terrence,J.
+YR 1999
+T1 Relation Between Retinotopical and Orientation Maps in Visual Cortex
+JF Neural Computation
+VO 11
+SP 375
+OP 379
+IS 2
+
+RT Journal Article
+ID 3257256
+A1 Wachtler,T.
+A1 Sejnowski,T.,J.
+A1 Albright,T.,D.
+YR 1999
+T1 Interactions between stimulus and background chromaticities in macaque primary visual cortex
+
+RT Journal Article
+ID 798679
+A1 Lehky,Sidney,R.
+A1 Sejnowski,Terrence,J.
+YR 1999
+T1 Seeing White: Qualia in the Context of Decoding Population Codes
+JF Neural Computation
+VO 11
+SP 1261
+OP 1280
+IS 6
+
+RT Book, Whole
+ID 49039334
+A1 Destexhe,Alain
+A1 McCormick,David,A.
+A1 Sejnowski,Terrence,J.
+YR 1999
+T1 Chapter 17 Thalamic and thalamocortical mechanisms underlying 3 Hz spike-and-wave discharges
+JF Progress in Brain Research
+VO 121
+SP 289
+OP 307
+
+RT Journal Article
+ID 331996
+A1 Pouget,Alexandre
+A1 Sejnowski,Terrence,J
+YR 1999
+T1 Lesioning a Basis Function Model of Spatial Representations in the Parietal Cortex: Comparison with Hemineglect
+
+RT Journal Article
+ID 3371953
+A1 Bartlett,M.
+A1 Hager,J.
+A1 Ekman,P.
+A1 Sejnowski,T.
+YR 1999
+T1 Measuring facial expressions by computer
+
+RT Journal Article
+ID 3791772
+A1 Seamans,J.,K.
+A1 Durstewitz,D.
+A1 Sejnowski,T.,J.
+YR 1999
+T1 State-dependence of dopamine D1 receptor modulation in prefrontal cortex neurons
+
+RT Journal Article
+ID 3964341
+A1 Lee,T.,W.
+A1 Wachtler,T.
+A1 Sejnowski,T.
+YR 1999
+T1 The spectral in-dependent components of natural scenes
+
+RT Journal Article
+ID 785449
+A1 Houweling,Arthur,R.
+A1 Bazhenov,Maxim
+A1 Timofeev,Igor
+A1 Steriade,Mircea
+A1 Sejnowski,Terrence,J.
+YR 1999
+T1 Cortical and thalamic components of augmenting responses: A modeling study
+JF Neurocomputing
+VO 26-27
+SP 735
+OP 742
+
+RT Journal Article
+ID 331749
+A1 Lee,Te-Won
+A1 Sejnowski,Terrence,J.
+YR 1999
+T1 Independent Component Analysis for Mixed Sub Gaussian and Super Gaussian Sources
+JF Neural Computation
+
+RT Book, Whole
+ID 49039323
+A1 Pouget,A.
+A1 Deneve,S.
+A1 Sejnowski,T.,J.
+YR 1999
+T1 Chapter 6 Frames of reference in hemineglect: a computational approach
+JF Progress in Brain Research
+VO 121
+SP 81
+OP 97
+
+RT Journal Article
+ID 52517295
+A1 Lee,Te-Won
+A1 Lewicki,M.,S.
+A1 Girolami,M.
+A1 Sejnowski,T.,J.
+YR 1999
+T1 Blind source separation of more sources than mixtures using overcomplete representations
+JF IEEE Signal Processing Letters
+VO 6
+SP 87
+OP 90
+
+RT Journal Article
+ID 52502697
+A1 Praag,Henriette,van
+A1 Christie,Brian,R.
+A1 Sejnowski,Terrence,J.
+A1 Gage,Fred,H.
+YR 1999
+T1 Running Enhances Neurogenesis, Learning, and Long-Term Potentiation in Mice
+JF Proceedings of The National Academy of Sciences
+VO 961
+SP 13427
+OP 13431
+
+RT Journal Article
+ID 14194255
+A1 Kreutz-Delgado,K.
+A1 Rao,B.,D.
+A1 Engan,K.
+A1 Lee,T.-W.
+A1 Sejnowski,T.
+YR 1999
+T1 Convex/Schur-Convex (CSC) Log-Priors
+
+RT Journal Article
+ID 15050090
+A1 Sejnowski,T.,J.
+YR 1999
+T1 NEUROBIOLOGY:A High Point for Evolution
+JF Science
+VO 283
+SP 1121
+OP 1121
+IS 5405
+
+RT Journal Article
+ID 51827128
+A1 Sejnowski,Terrence,J.
+YR 1999
+T1 Neural networks beyond Freud
+JF Nature
+VO 400
+SP 632
+OP 633
+
+RT Journal Article
+ID 171969
+A1 Mckeown,Martin,J.
+A1 Makeig,Scott
+A1 Brown,Greg,G.
+A1 Kindermann,Sandra,S.
+A1 Bell,Anthony,J.
+A1 Sejnowski,Terrence,J.
+YR 1998
+T1 Analysis of fMRI data by blind separation into independent spatial components
+JF Human Brain Mapping
+VO 6
+SP 160
+OP 188
+IS 3
+
+RT Journal Article
+ID 392597
+A1 Lee,Te-Won
+A1 Lewicki,Michael,S.
+A1 Girolami,Mark
+A1 Sejnowski,Terrence,J.
+YR 1998
+T1 Blind Source Separation of More Sources Than Mixtures Using Overcomplete Representations
+JF IEEE Signal Processing Letters
+
+RT Journal Article
+ID 3773705
+A1 McKeown,Martin,J.
+A1 Jung,Tzyy-Ping
+A1 Makeig,Scott
+A1 Brown,Greg
+A1 Kindermann,Sandra,S.
+A1 Lee,Te-Won
+A1 Sejnowski,Terrence,J.
+YR 1998
+T1 Spatially Independent Activity Patterns in Functional MRI Data during the Stroop Color-Naming Task
+JF Proceedings of The National Academy of Sciences
+VO 95
+SP 803
+OP 810
+IS 3
+
+RT Journal Article
+ID 208558
+A1 ZHANG,KECHEN
+A1 GINZBURG,IRIS
+A1 MCNAUGHTON,BRUCE,L.
+A1 SEJNOWSKI,TERRENCE,J.
+YR 1998
+T1 Interpreting Neuronal Population Activity by Reconstruction: Unified Framework With Application to Hippocampal Place Cells
+
+RT Journal Article
+ID 2068964
+A1 McKeown,Martin,J.
+A1 Sejnowski,Terrence,J.
+YR 1998
+T1 Independent component analysis of fMRI data: Examining the assumptions
+JF Human Brain Mapping
+VO 6
+SP 368
+OP 372
+IS 5-6
+
+RT Journal Article
+ID 1978553
+A1 Mckeown,M.
+A1 Makeig,S.
+A1 Brown,G.
+A1 Jung,T.,P
+A1 Kindermann,S.
+A1 Lee,T.,W
+A1 Sejnowski,T.,J.
+YR 1998
+T1 Spatially independent activity patterns in functional magnetic resonance imaging data during the Stroop color-naming task
+JF Proceedings of The National Academy of Sciences
+
+RT Conference Proceedings
+ID 3078479
+A1 Jung,T.,P.
+A1 Humphries,C.
+A1 Lee,T.,W.
+A1 Makeig,S.
+A1 Mckeown,M.
+A1 Iragui,V.
+A1 Sejnowski,T.,J.
+YR 1998
+T1 Extended ICA removes artifacts from electroen-cephalographic recordings
+
+RT Journal Article
+ID 2044837
+A1 Destexhe,A.
+A1 Mainen,Z.,F.
+A1 Sejnowski,T.,J.
+YR 1998
+T1 Kinetic models of synaptic transmission
+
+RT Conference Proceedings
+ID 360347
+A1 Jung,Tzyy-Ping
+A1 Humphries,Colin
+A1 Lee,Te-Won
+A1 Makeig,Scott
+A1 McKeown,Martin,J.
+A1 Iragui,Vicente
+A1 Sejnowski,T.,J.
+YR 1998
+T1 Removing electroencephalographic artifacts: comparison between ICA and PCA
+SP 63
+OP 72
+
+RT Conference Proceedings
+ID 192145
+A1 Orglmeister,Reinhold
+A1 Ziehe,Andreas
+A1 Sejnowski,Terrence
+YR 1998
+T1 COMBINING TIME-DELAY ED DECORRELATION AND ICA: TOWARDS SOLVING THE COCKTAIL PARTY PROBLEM
+
+RT Journal Article
+ID 2040874
+A1 Berns,Gregory,S.
+A1 Sejnowski,Terrence,J.
+YR 1998
+T1 A Computational Model of How the Basal Ganglia Produce Sequences
+JF Journal of Cognitive Neuroscience
+VO 10
+SP 108
+OP 121
+IS 1
+
+RT Journal Article
+ID 176150
+A1 Zemel,Richard,S.
+A1 Sejnowski,Terrence,J.
+YR 1998
+T1 A Model for Encoding Multiple Object Motions and Self-Motion in Area MST of Primate Visual Cortex
+
+RT Journal Article
+ID 2071945
+A1 Mckeown,M.
+A1 Makeig,S.
+A1 Brown,S.
+A1 Jung,T.,P
+A1 Kindermann,S.
+A1 Bell,A.
+A1 Iragui,V.
+A1 Sejnowski,T.
+YR 1998
+T1 Blind separation of functional magnetic resonance imaging (fMRI) data
+
+RT Conference Proceedings
+ID 50111055
+A1 Lee,Te-Won
+A1 Ziehe,Andreas
+A1 Orglmeister,R.
+A1 Sejnowski,T.
+YR 1998
+T1 Combining time-delayed decorrelation and ICA: towards solving the cocktail party problem
+VO 2
+SP 1249
+
+RT Journal Article
+ID 290944
+A1 Sejnowski,Terrence
+YR 1998
+T1 Learning viewpoint-invariant face representations from visual experience in an attractor network
+JF Network-computation in Neural Systems
+VO 9
+SP 399
+OP 417
+IS 3
+
+RT Journal Article
+ID 169031
+A1 Bazhenov,Maxim
+A1 Timofeev,Igor
+A1 Steriade,Mircea
+A1 Sejnowski,Terrence,J.
+YR 1998
+T1 Computational Models of Thalamocortical Augmenting Responses
+
+RT Conference Proceedings
+ID 395220
+A1 Lewicki,Michael,S.
+A1 Sejnowski,Terrence,J.
+YR 1998
+T1 Coding Time-Varying Signals Using Sparse, Shift-Invariant Representations
+SP 730
+OP 736
+
+RT Journal Article
+ID 3813704
+A1 MOORTGAT,KATHERINE,T.
+A1 KELLER,C,LIFFORD,H.
+A1 BULLOCK,H.
+A1 SEJNOWSKI,TERRENCE,J.
+YR 1998
+T1 Submicrosecond pacemaker precision is behaviorally modulated: The gymnotiform electromotor pathway
+JF Proceedings of The National Academy of Sciences
+VO 95
+SP 4684
+OP 4689
+IS 8
+
+RT Journal Article
+ID 798997
+A1 Wiskott,Laurenz
+A1 Sejnowski,Terrence,J.
+YR 1998
+T1 Constrained Optimization for Neural Map Formation: A Unifying Framework for Weight Growth and Normalization
+JF Neural Computation
+VO 10
+SP 671
+OP 716
+IS 3
+
+RT Journal Article
+ID 3672149
+A1 GRAY,MICHAEL,S.
+A1 POUGET,ALEXANDRE
+A1 ZEMEL,RICHARD,S.
+A1 NOWLAN,STEVEN,J.
+A1 SEJNOWSKI,TERRENCE,J.
+YR 1998
+T1 Reliable disparity estimation through selective integration
+JF Visual Neuroscience
+VO 15
+IS 03
+
+RT Conference Proceedings
+ID 2899779
+A1 Bazhenov,M.
+A1 Sejnowski,T.
+A1 Rabinovich,M.,I.
+YR 1998
+T1 Cooperative behavior of a chain of synaptically coupled chaotic neurons
+
+RT Journal Article
+ID 2042927
+A1 Mainen,Z.,F.
+A1 Sejnowski,T.,J.
+YR 1998
+T1 Modeling active dendritic processes in pyramidal neurons
+
+RT Journal Article
+ID 27294609
+A1 Lin,Juan
+A1 Pawelzik,Klaus
+A1 Ernst,Udo
+A1 Sejnowski,Terrence
+YR 1998
+T1 Irregular synchronous activity in stochastically-coupled networks of integrate-and-fire neurons
+JF Network-computation in Neural Systems
+VO 9
+SP 333
+OP 344
+IS 3
+
+RT Journal Article
+ID 18337424
+A1 Bazhenov,M.
+A1 Huerta,R.
+A1 Rabinovich,M.,I.
+A1 Sejnowski,T.
+YR 1998
+T1 Cooperative behavior of a chain of synaptically coupled chaotic neurons
+JF Physica D-nonlinear Phenomena
+VO 116
+SP 392
+OP 400
+IS 3
+
+RT Conference Proceedings
+ID 560603
+A1 Lee,Te-won
+A1 Lewicki,Michael,S.
+A1 Sejnowski,Terrence,J.
+YR 1998
+T1 Unsupervised Classification with Non-Gaussian Mixture Models Using ICA
+SP 508
+OP 514
+
+RT Journal Article
+ID 179077
+A1 Lu,Haw-Minn
+A1 Cottrell,Garrison
+A1 Kreutz-Delgado,Kenneth
+A1 Sejnowski,Terrence
+YR 1998
+T1 Geometric theory of images
+
+RT Journal Article
+ID 14880263
+A1 Sejnowski,Terrence,J.
+YR 1998
+T1 Neurobiology Making smooth moves
+JF Nature
+VO 394
+SP 725
+OP 726
+IS 6695
+
+RT Journal Article
+ID 35873024
+A1 Makeig,S
+A1 Brown,G.,G
+A1 Kindermann,S.,S
+A1 Jung,T-P
+A1 Bell,A.,J
+A1 Sejnowski,T.,J
+A1 McKeown,M.,J
+YR 1998
+T1 Response from Martin McKeown, Makeig, Brown, Jung, Kindermann, Bell and Sejnowski
+JF Trends in Cognitive Sciences
+VO 2
+SP 375
+OP 375
+IS 10
+
+RT Journal Article
+ID 3916334
+A1 Fellous,Jm
+A1 Sejnowski,Tj
+YR 1998
+T1 The involvement of CA1 and CA3 in carbachol-induced oscillations in the hippocampal slice
+
+RT Conference Proceedings
+ID 560260
+A1 Jung,Tzyy-ping
+A1 Makeig,Scott
+A1 Westerfield,Marissa
+A1 Townsend,Jeanne
+A1 Courchesne,Eric
+A1 Sejnowski,Terrence,J.
+YR 1998
+T1 Analyzing and Visualizing Single-Trial Event-Related Potentials
+SP 118
+OP 124
+
+RT Journal Article
+ID 52370244
+A1 Bartlett,Marian,Stewart
+A1 Lades,H.,M.
+A1 Sejnowski,Terry,J.
+YR 1998
+T1 Independent component representations for face recognition
+VO 3299
+SP 528
+OP 539
+
+RT Journal Article
+ID 51946903
+A1 Moortgat,Katherine,T.
+A1 Keller,Clifford,H.
+A1 Bullock,Theodore,H.
+A1 Sejnowski,Terrence,J.
+YR 1998
+T1 Submicrosecond Pacemaker Precision is Behaviorally Modulated: The Gymnotiform Electromotor Pathway
+JF Proceedings of The National Academy of Sciences
+VO 95
+SP 4684
+OP 4689
+
+RT Journal Article
+ID 54284807
+A1 Sejnowski,Terrence,J.
+YR 1998
+T1 Neurobiology: Making smooth moves
+JF Nature
+VO 394
+SP 725
+OP 726
+
+RT Journal Article
+ID 33694049
+A1 Bell,Anthony,J.
+A1 Sejnowski,Terrence,J.
+YR 1997
+T1 The “independent components” of natural scenes are edge filters
+JF Vision Research
+VO 37
+SP 3327
+OP 3338
+IS 23
+
+RT Conference Proceedings
+ID 231913
+A1 Jung,Tzyy-ping
+A1 Makeig,Scott
+A1 Stensmo,Magnus
+A1 Sejnowski,Terrence,J.
+YR 1997
+T1 Estimating Alertness from the EEG Power Spectrum
+
+RT Journal Article
+ID 255424
+A1 Quartz,Steven,R.
+A1 Sejnowski,Terrence,J.
+YR 1997
+T1 The neural basis of cognitive development: A constructivist manifesto
+JF Behavioral and Brain Sciences
+VO 20
+IS 04
+
+RT Journal Article
+ID 3180042
+A1 Murthy,Venkatesh,N.
+A1 Sejnowski,Terrence,J.
+A1 Stevens,Charles,F.
+YR 1997
+T1 Heterogeneous Release Properties of Visualized Individual Hippocampal Synapses
+JF Neuron
+VO 18
+SP 599
+OP 612
+IS 4
+
+RT Conference Proceedings
+ID 359442
+A1 Jung,Tzyy-ping
+A1 Humphries,Colin
+A1 Lee,Te-won
+A1 Makeig,Scott
+A1 Mckeown,Martin,J.
+A1 Iragui,Vicente
+A1 Sejnowski,Terrence,J.
+YR 1997
+T1 Extended ICA Removes Artifacts from Electroencephalographic Recordings
+
+RT Journal Article
+ID 303926
+A1 Pouget,Alexandre
+A1 Sejnowski,Terrence,J.
+YR 1997
+T1 Spatial Transformations in the Parietal Cortex Using Basis Functions
+JF Journal of Cognitive Neuroscience
+VO 9
+SP 222
+OP 237
+IS 2
+
+RT Conference Proceedings
+ID 560860
+A1 Lewicki,Michael,S.
+A1 Sejnowski,Terrence,J.
+YR 1997
+T1 Learning Nonlinear Overcomplete Representations for Efficient Coding
+
+RT Journal Article
+ID 3777873
+A1 Contreras,Diego
+A1 Destexhe,Alain
+A1 Sejnowski,Terrence,J.
+A1 Steriade,Mircea
+YR 1997
+T1 Spatiotemporal Patterns of Spindle Oscillations in Cortex and Thalamus
+
+RT Journal Article
+ID 198636
+A1 Bartlett,Marian,Stewart
+A1 Sejnowski,Terrence,J.
+YR 1997
+T1 Independent components of face images: A representation for face recognition
+
+RT Journal Article
+ID 2109717
+A1 Ritz,Raphael
+A1 Sejnowski,Terrence,J
+YR 1997
+T1 Synchronous oscillatory activity in sensory systems: new vistas on mechanisms
+JF Current Opinion in Neurobiology
+VO 7
+SP 536
+OP 546
+IS 4
+
+RT Journal Article
+ID 798879
+A1 Goodhill,Geoffrey,J.
+A1 Sejnowski,Terrence,J.
+YR 1997
+T1 A Unifying Objective Function for Topographic Mappings
+JF Neural Computation
+VO 9
+SP 1291
+OP 1303
+IS 6
+
+RT Journal Article
+ID 2102568
+A1 Pouget,Alexandre
+A1 Sejnowski,T.,J.
+YR 1997
+T1 A New View of Hemineglect Based on the Response Properties of Parietal Neurones
+JF Philosophical Transactions of The Royal Society B: Biological Sciences
+VO 352
+SP 1449
+OP 1459
+IS 1360
+
+RT Journal Article
+ID 308674
+A1 Tsodyks,Misha,V.
+A1 Skaggs,William,E.
+A1 Sejnowski,Terrence,J.
+A1 McNaughton,Bruce,L.
+YR 1997
+T1 Paradoxical Effects of External Modulation of Inhibitory Interneurons
+
+RT Journal Article
+ID 3012406
+A1 Tang,Akaysha,C.
+A1 Bartels,Andreas,M.
+A1 Sejnowski,Terrence,J.
+YR 1997
+T1 Effects of cholinergic modulation on responses of neocortical neurons to fluctuating input
+JF Cerebral Cortex
+VO 7
+SP 502
+OP 509
+IS 6
+
+RT Journal Article
+ID 27046320
+A1 Jung,Tzyy-Ping
+A1 Makeig,S.
+A1 Stensmo,M.
+A1 Sejnowski,T.,J.
+YR 1997
+T1 Estimating alertness from the EEG power spectrum
+JF IEEE Transactions on Biomedical Engineering
+VO 44
+SP 60
+OP 69
+IS 1
+
+RT Journal Article
+ID 1986996
+A1 Gray,M.
+A1 Movellan,J.
+A1 Sejnowski,T.
+YR 1997
+T1 A comparison of local versus global image de-composition for visual speechreading
+
+RT Journal Article
+ID 3982584
+A1 Sejnowski,T.,J.
+YR 1997
+T1 The Year of the Dendrite
+JF Science
+VO 275
+SP 178
+OP 179
+IS 5297
+
+RT Journal Article
+ID 2107938
+A1 Lee,T,W
+A1 Sejnowski,T.,J.
+YR 1997
+T1 Independent component analysis for sub-gaussian and super-gaussian mixtures
+
+RT Journal Article
+ID 3911954
+A1 BELL,ANTHONY,J.
+A1 SEJNOWSKI,TERRENCE,J.
+YR 1997
+T1 The "Independent Components" of Scenes are Edge Filters
+
+RT Book, Whole
+ID 603987
+A1 Ritz,Raphael
+A1 Sejnowski,Terrence,J.
+YR 1997
+T1 Correlation Coding in Stochastic Neural Networks
+SP 79
+OP 84
+
+RT Book, Whole
+ID 604253
+A1 Wiskott,Laurenz
+A1 Sejnowski,Terrence,J.
+YR 1997
+T1 Objective Functions for Neural Map Formation
+SP 243
+OP 248
+
+RT Journal Article
+ID 61399852
+A1 Bell,A.,J.
+A1 Sejnowski,T.,J.
+YR 1997
+T1 Edges are the independent components of natural scenes
+
+RT Journal Article
+ID 36620236
+A1 Quartz,Steven,R.
+A1 Sejnowski,T.,J.
+YR 1997
+T1 Controversies and issues in developmental theories of mind: Some constructive remarks
+JF Behavioral and Brain Sciences
+VO 20
+SP 578
+OP 588
+IS 4
+
+RT Conference Proceedings
+ID 329395
+A1 Bell,Anthony,J.
+A1 Makeig,Scott
+A1 Sejnowski,Terrence,J.
+A1 Jung,Tzyy-ping
+YR 1996
+T1 Independent Component Analysis of Electroencephalographic Data
+
+RT Journal Article
+ID 351983
+A1 Bell,Anthony,J
+A1 Sejnowski,Terrence,J
+YR 1996
+T1 Learning the higher-order structure of a natural sound
+JF Network-computation in Neural Systems
+VO 7
+SP 261
+OP 266
+IS 2
+
+RT Journal Article
+ID 697623
+A1 Jr.,George,N.,Reeke
+A1 Churchland,Patricia,S.
+A1 Sejnowski,Terrence,J.
+YR 1996
+T1 The Computational Brain
+JF Artificial Intelligence
+VO 82
+SP 381
+OP 391
+IS 1-2
+
+RT Journal Article
+ID 1987878
+A1 Bartlett,M.,S.
+A1 Viola,P.,A.
+A1 Sejnowski,T.,J.
+A1 Golomb,B.,A.
+A1 Larsen,J.
+A1 Hager,J.,C.
+A1 Ekman,P.
+YR 1996
+T1 Advances in Neural Information Processing Systems 8
+
+RT Journal Article
+ID 2074987
+A1 Mainen,Zachary,F.
+A1 Sejnowski,Terrence,J.
+YR 1996
+T1 Influence of dendritic structure on firing pattern in model neocortical neurons
+JF Nature
+VO 382
+SP 363
+OP 366
+IS 6589
+
+RT Conference Proceedings
+ID 335501
+A1 Bell,Anthony,J.
+A1 Sejnowski,Terrence,J.
+YR 1996
+T1 Edges are the Independent Components of Natural Scenes
+SP 831
+OP 837
+
+RT Journal Article
+ID 2392459
+A1 Contreras,Diego
+A1 Destexhe,Alain
+A1 Sejnowski,Terrence,J.
+A1 Steriade,Mircea
+YR 1996
+T1 Control of Spatiotemporal Coherence of a Thalamic Oscillation by Corticothalamic Feedback
+JF Science
+VO 274
+SP 771
+OP 774
+IS 5288
+
+RT Journal Article
+ID 386996
+A1 Destexhe,Alain
+A1 Bal,Thierry
+A1 Mccormick,David,A.
+A1 Sejnowski,Terrence,J.
+YR 1996
+T1 Ionic Mechanisms Underlying Synchronized Oscillations And Propagating Waves In A Model Of Ferret Thalamic Slices
+
+RT Journal Article
+ID 1971747
+A1 Tsodyks,Misha,V.
+A1 Skaggs,William,E.
+A1 Sejnowski,Terrence,J.
+A1 McNaughtonl,Bruce,L.
+YR 1996
+T1 Population dynamics and theta rhythm phase precession of hippocampal place cell firing: A spiking neuron model
+JF Hippocampus
+VO 6
+SP 271
+OP 280
+IS 3
+
+RT Conference Proceedings
+ID 560295
+A1 Bartlett,Marian,Stewart
+A1 Sejnowski,Terrence,J.
+YR 1996
+T1 Viewpoint Invariant Face Recognition using Independent Component Analysis and Attractor Networks
+SP 817
+OP 823
+
+RT Journal Article
+ID 2008868
+A1 Bush,Paul
+A1 Sejnowski,Terrence
+YR 1996
+T1 Inhibition synchronizes sparsely connected cortical neurons within and between columns in realistic network models
+JF Journal of Computational Neuroscience
+VO 3
+SP 91
+OP 110
+IS 2
+
+RT Journal Article
+ID 2774935
+A1 Montague,P.,R.
+A1 Dayan,P.
+A1 Person,C.
+A1 Sejnowski,T.,J.
+YR 1996
+T1 Bee Foraging in Uncertain Environments Using Predictive Hebbian Learning
+JF Nature
+
+RT Conference Proceedings
+ID 354905
+A1 Lewicki,Michael,S.
+A1 Sejnowski,Terrence,J.
+YR 1996
+T1 Bayesian Unsupervised Learning of Higher Order Structure
+SP 529
+OP 535
+
+RT Journal Article
+ID 371407
+A1 Dayan,Peter
+A1 Sejnowski,Terrence,J.
+YR 1996
+T1 Exploration Bonuses and Dual Control
+JF Machine Learning
+VO 25
+SP 5
+OP 22
+IS 1
+
+RT Conference Proceedings
+ID 424056
+A1 Delorme,A.
+A1 Makeig,S.
+A1 Sejnowski,T.
+YR 1996
+T1 AUTOMATIC ARTIFACT REJECTION FOR EEG DATA USING HIGH-ORDER STATISTICS AND INDEPENDENT COMPONENT ANALYSIS
+
+RT Conference Proceedings
+ID 561097
+A1 Gray,Michael,S.
+A1 Movellan,Javier,R.
+A1 Sejnowski,Terrence,J.
+YR 1996
+T1 Dynamic Features for Visual Speechreading: A Systematic Comparison
+SP 751
+OP 757
+
+RT Journal Article
+ID 10225444
+A1 Lytton,W.,W.
+A1 Destexhe,A.
+A1 Sejnowski,T.,J.
+YR 1996
+T1 Control of slow oscillations in the thalamocortical neuron: a computer model
+JF Neuroscience
+VO 70
+SP 673
+OP 684
+IS 3
+
+RT Journal Article
+ID 3911951
+A1 Bell,A.,J.
+A1 Sejnowski,T.,J.
+YR 1996
+T1 The independent components of natural scenes
+
+RT Conference Proceedings
+ID 221206
+A1 Makeig,Scott
+A1 Sejnowski,Terrence,J.
+A1 Jung,Tzyy-ping
+YR 1996
+T1 Using Feedforward Neural Networks to Monitor Alertness from Changes in EEG Correlation and Coherence
+
+RT Journal Article
+ID 1999130
+A1 Berns,G.,S.
+A1 Sejnowski,T.,J.
+YR 1996
+T1 How the basal ganglia make decisions
+
+RT Journal Article
+ID 14198054
+A1 Prank,Klaus
+A1 Kloppstech,Mirko
+A1 Nowlan,S.,J.
+A1 Sejnowski,T.,J.
+A1 Brabant,Georg
+YR 1996
+T1 Self-organized segmentation of time series: separating growth hormone secretion in acromegaly from normal controls
+JF Biophysical Journal
+VO 70
+SP 2540
+OP 2547
+IS 6
+
+RT Journal Article
+ID 14874332
+A1 Sejnowski,Terrence,J.
+YR 1996
+T1 Synapses get smarter
+JF Nature
+VO 382
+SP 759
+OP 760
+IS 6594
+
+RT Conference Proceedings
+ID 292541
+A1 Coenen,Olivier,J.,M.,D.
+A1 Sejnowski,Terrence,J.
+YR 1996
+T1 A Dynamical Model of Context Dependencies for the Vestibule-Ocular Reflex
+
+RT Journal Article
+ID 373421
+A1 Bartlett,Marian,Stewart
+A1 Sejnowski,Terrence,J.
+YR 1996
+T1 Unsupervised Learning Of Invariant Representations Of Faces Through Temporal Association
+
+RT Conference Proceedings
+ID 560337
+A1 Tang,Akaysha,C.
+A1 Bartels,Andreas,M.
+A1 Sejnowski,Terrence,J.
+YR 1996
+T1 Cholinergic Modulation Preserves Spike Timing Under Physiologically Realistic Fluctuating Input
+SP 111
+OP 117
+
+RT Journal Article
+ID 233183
+A1 Coenen,Olivier,J.,M.,D.
+A1 Sejnowski,Terrence,J.
+YR 1996
+T1 Learning to make predictions in the cerebellum may explain the anticipatory modulation of the vestibulo-ocular reflex (VOR) gain with vergence
+
+RT Journal Article
+ID 315460
+A1 Ghahremani,Dara
+A1 Makeig,Scott
+A1 Jung,Tzyy-ping
+A1 Bell,Anthony,J.
+A1 Sejnowski,Terrence,J.
+YR 1996
+T1 Independent Component Analysis of Simulated EEG Using a Three-Shell Spherical Head Model
+
+RT Journal Article
+ID 168175
+A1 Burdas,Giedrius,T.
+A1 Albright,Thomas,D.
+A1 Sejnowski,Terrence,J.
+YR 1996
+T1 Varieties of Attention: A Model of Visual Search
+
+RT Journal Article
+ID 5386863
+A1 Prank,Klaus
+A1 Kloppstech,Mirko
+A1 Nowlan,Steven,J.
+A1 Sejnowski,Terrence,J.
+A1 Brabant,Georg
+YR 1996
+T1 Random Secretion of Growth Hormone in Humans
+JF Physical Review Letters
+VO 77
+SP 1909
+OP 1911
+IS 9
+
+RT Journal Article
+ID 2591491
+A1 Pouget,A
+A1 Sejnowski,T
+YR 1996
+T1 A model of spatial representation in parietal cortex explains hemineglect
+
+RT Conference Proceedings
+ID 380390
+A1 Gray,Michael,S.
+A1 Pouget,Alexandre
+A1 Zemel,Richard,S.
+A1 Nowlan,Steven,J.
+A1 Sejnowski,Terrence,J.
+YR 1996
+T1 Selective Integration: A Model for Disparity Estimation
+SP 866
+OP 872
+
+RT Journal Article
+ID 15222231
+A1 Dayan,Peter
+A1 Sejnowski,Terrence,J.
+YR 1996
+T1 Exploration Bonuses and Dual Control
+JF Machine Learning
+VO 25
+SP 5
+OP 22
+IS 1
+
+RT Journal Article
+ID 56203711
+A1 Prank,Klaus
+A1 Kloppstech,Mirko
+A1 Nowlan,Steven,J.
+A1 Harms,Heio,M.
+A1 Brabant,Georg
+A1 Hesch,Rolf-Dieter
+A1 Sejnowski,Terrence,J.
+YR 1996
+T1 Nonlinear analysis and prediction of pulsatile hormone secretion
+VO 375
+SP 628
+OP 643
+
+RT Conference Proceedings
+ID 560080
+A1 Stensmo,Magnus
+A1 Sejnowski,Terrence,J.
+YR 1996
+T1 Learning Decision Theoretic Utilities through Reinforcement Learning
+SP 1061
+OP 1067
+
+RT Journal Article
+ID 55306682
+A1 Mainen,Zachary,F.
+A1 Sejnowski,Terrence,J.
+YR 1996
+T1 Influence of dendritic structure on firing pattern in model neocortical neurons
+JF Nature
+VO 382
+SP 363
+OP 366
+
+RT Journal Article
+ID 14189446
+A1 Sejnowski,Terrence,J.
+YR 1996
+T1 Probabilistic Synaptic Transmission in Hippocampal Neurons: Role of Presynaptic Calcium
+
+RT Journal Article
+ID 56471878
+A1 Sejnowski,Terrence,J.
+YR 1996
+T1 Synapses get smarter
+JF Nature
+VO 382
+SP 759
+OP 760
+
+RT Journal Article
+ID 5373637
+A1 Ritz,Raphael
+A1 Sejnowski,Terrence,J.
+YR 1996
+T1 Correlation Coding in a Stochastic Network Model of Auditory Binding
+
+RT Journal Article
+ID 293256
+A1 Coenen,Olivier,J.,M.,D.
+A1 Sejnowski,Terrence,J.
+YR 1996
+T1 A Predictive Perspective on the Cerebellum
+
+RT Journal Article
+ID 361412
+A1 Bell,Anthony,J.
+A1 Sejnowski,Terrence,J.
+YR 1995
+T1 An information-maximization approach to blind separation and blind deconvolution
+JF Neural Computation
+VO 7
+SP 1129
+OP 1159
+IS 6
+
+RT Journal Article
+ID 2031003
+A1 Mainen,Z.,F.
+A1 Sejnowski,T.,J.
+YR 1995
+T1 Reliability of spike timing in neocortical neurons
+JF Science
+VO 268
+SP 1503
+OP 1506
+IS 5216
+
+RT Journal Article
+ID 309729
+A1 Bell,Anthony
+A1 Sejnowski,Terrence,J.
+YR 1995
+T1 A Non-linear Information Maximisation Algorithm that Performs Blind Separation
+
+RT Journal Article
+ID 1625567
+A1 Li,Shaolin
+A1 Sejnowski,Terrence,J.
+YR 1995
+T1 Adaptive separation of mixed broadband sound sources with delays by a beamforming Herault-Jutten network
+JF IEEE Journal of Oceanic Engineering
+VO 20
+SP 73
+OP 79
+IS 1
+
+RT Conference Proceedings
+ID 376859
+A1 Bell,Anthony,J.
+A1 Sejnowski,Terrence,J.
+YR 1995
+T1 Blind separation and blind deconvolution: an information-theoretic approach
+VO 5
+SP 3415
+
+RT Conference Proceedings
+ID 560310
+A1 Viola,Paul,A.
+A1 Schraudolph,Nicol,N.
+A1 Sejnowski,Terrence,J.
+YR 1995
+T1 Empirical Entropy Manipulation for Real-World Problems
+SP 851
+OP 857
+
+RT Journal Article
+ID 2591495
+A1 Mainen,Zachary,F.
+A1 Huguenard,John,R.
+A1 Sejnowski,Terrence,J.
+YR 1995
+T1 A Model of Spike Initiation in Neocortical Pyramidal Neurons
+JF Nature
+
+RT Journal Article
+ID 2008696
+A1 Montague,P.,Read
+A1 Dayan,Peter
+A1 Person,Christophe
+A1 Sejnowski,Terrence,J.
+YR 1995
+T1 Bee foraging in uncertain environments using predictive hebbian learning
+JF Nature
+VO 377
+SP 725
+OP 728
+IS 6551
+
+RT Conference Proceedings
+ID 363623
+A1 Bartlett,Marian,Stewart
+A1 Viola,Paul,A.
+A1 Sejnowski,Terrence,J.
+A1 Golomb,Beatrice,A.
+A1 Larsen,Jan
+A1 Hager,Joseph,C.
+A1 Ekman,Paul
+YR 1995
+T1 Classifying Facial Action
+SP 823
+OP 829
+
+RT Journal Article
+ID 3911947
+A1 Bell,T.
+A1 Sejnowski,T.
+YR 1995
+T1 The''independent com-ponents''of natural scenes are edge filters
+
+RT Journal Article
+ID 36123531
+A1 Mainen,Zachary,F.
+A1 Joerges,Jasdan
+A1 Huguenard,John,R.
+A1 Sejnowski,Terrence,J.
+YR 1995
+T1 A model of spike initiation in neocortical pyramidal neurons
+JF Neuron
+VO 15
+SP 1427
+OP 1439
+IS 6
+
+RT Journal Article
+ID 2055699
+A1 Tsodyks,M,V
+A1 Sejnowski,T
+YR 1995
+T1 Rapid state switching in balanced cortical network models
+JF Network-computation in Neural Systems
+VO 6
+SP 111
+OP 124
+IS 2
+
+RT Journal Article
+ID 1988273
+A1 Nowlan,S.,J.
+A1 Sejnowski,Terrence,J.
+YR 1995
+T1 A Selection Model for Motion Processing in Area MT of Primates
+
+RT Conference Proceedings
+ID 561125
+A1 Makeig,Scott
+A1 Bell,Anthony,J.
+A1 Jung,Tzyy-ping
+A1 Sejnowski,Terrence,J.
+YR 1995
+T1 Independent Component Analysis of Electroencephalographic Data
+SP 145
+OP 151
+
+RT Journal Article
+ID 3315540
+A1 Lac,S.,Du
+A1 Raymond,J,L
+A1 Sejnowski,T,J
+A1 Lisberger,S,G
+YR 1995
+T1 Learning and Memory in the Vestibulo-Ocular Reflex
+JF Annual Review of Neuroscience
+VO 18
+SP 409
+OP 441
+IS 1
+
+RT Journal Article
+ID 2100644
+A1 Sejnowski,Terrence,J.
+YR 1995
+T1 Time for a new neural code?
+JF Nature
+VO 376
+SP 21
+OP 22
+IS 6535
+
+RT Journal Article
+ID 323189
+A1 Goodhill,Geoffrey,J.
+A1 Finch,Steven
+A1 Sejnowski,Terrence,J.
+YR 1995
+T1 Quantifying Neighbourhood Preservation in Topographic Mappings
+
+RT Conference Proceedings
+ID 297970
+A1 Pouget,Alexandre
+A1 Hughes,Howard
+A1 Sejnowski,Terrence,J.
+YR 1995
+T1 Spatial Representations in the Parietal Cortex May Use Basis Functions
+
+RT Journal Article
+ID 405573
+A1 Gray,Michael,S.
+A1 Lawrence,David,T.
+A1 Golomb,Beatrice,A.
+A1 Sejnowski,Terrence,J.
+YR 1995
+T1 A perceptron reveals the face of sex
+JF Neural Computation
+VO 7
+SP 1160
+OP 1164
+IS 6
+
+RT Journal Article
+ID 1971746
+A1 Tsodyks,Misha
+A1 Sejnowski,Terrence
+YR 1995
+T1 ASSOCIATIVE MEMORY AND HIPPOCAMPAL PLACE CELLS
+JF International Journal of Neural Systems
+
+RT Conference Proceedings
+ID 561249
+A1 Schraudolph,Nicol,N.
+A1 Sejnowski,Terrence,J.
+YR 1995
+T1 Tempering Backpropagation Networks: Not All Weights are Created Equal
+SP 563
+OP 569
+
+RT Journal Article
+ID 14207510
+A1 Li,Shaolin
+A1 Sejnowski,Terrence,J.
+YR 1995
+T1 Adaptive Separation of Mixed Broad Band Sound Sources with Delays by a Beamforming Herault-Jutten Network
+
+RT Journal Article
+ID 379611
+A1 Destexhe,Alain
+A1 Thalamocortical,Tc
+A1 Sejnowski,Terrence,J.
+YR 1995
+T1 G-Protein Activation Kinetics And SpillOver Of Gaba May Account For Differences Between Inhibitory Responses In The Hippocampus And Thalamus
+JF Proceedings of The National Academy of Sciences
+
+RT Journal Article
+ID 11454272
+A1 Obermayer,K.
+A1 Sejnowski,T.
+A1 Blasdel,G.,G.
+YR 1995
+T1 Neural pattern formation via a competitive Hebbian mechanism
+JF Behavioural Brain Research
+VO 66
+SP 161
+OP 167
+IS 1
+
+RT Conference Proceedings
+ID 561188
+A1 Goodhill,Geoffrey,J.
+A1 Finch,Steven
+A1 Sejnowski,Terrence,J.
+YR 1995
+T1 Optimizing Cortical Mappings
+SP 330
+OP 336
+
+RT Journal Article
+ID 28580726
+A1 Prank,K
+A1 Nowlan,S,J
+A1 Harms,H,M
+A1 Kloppstech,M
+A1 Brabant,G
+A1 Hesch,R,D
+A1 Sejnowski,T,J
+YR 1995
+T1 Time series prediction of plasma hormone concentration. Evidence for differences in predictability of parathyroid hormone secretion between osteoporotic patients and normal controls
+JF Journal of Clinical Investigation
+VO 95
+SP 2910
+OP 2919
+IS 6
+
+RT Journal Article
+ID 3645401
+A1 Tsodyks,M.,V.
+A1 Sejnowski,T.
+YR 1995
+T1 Rapid state switching in balanced cortical networks
+
+RT Journal Article
+ID 3735863
+A1 Golomb,B.
+A1 Sejnowski,T.
+YR 1995
+T1 Sex Recognition from Faces Using Neural Networks
+
+RT Conference Proceedings
+ID 300579
+A1 Pouget,Alexandre
+A1 Sejnowski,Terrence,J.
+YR 1995
+T1 A Model of Spatial Representations in Parietal Cortex Explains Hemineglect
+SP 10
+OP 16
+
+RT Journal Article
+ID 65711
+A1 Destexhe,Alain
+A1 Sejnowski,Terrence,J.
+A1 Mainen,Zachary,F.
+YR 1995
+T1 Synaptic Currents, Neuromodulation and Kinetic Models
+
+RT Journal Article
+ID 142194
+A1 Stensmo,Magnus
+A1 Sejnowski,Terrence,J.
+YR 1995
+T1 Using Temporal-Difference Reinforcement Learning to Improve Decision-Theoretic Utilities for Diagnosis
+
+RT Conference Proceedings
+ID 560777
+A1 Coenen,Olivier,J.,M.,D.
+A1 Sejnowski,Terrence,J.
+YR 1995
+T1 A Dynamical Moedl of Context Dependencies for the Vestibulo-Ocular Reflex
+SP 89
+OP 95
+
+RT Journal Article
+ID 2005867
+A1 Mainen,Z.,F.
+A1 Sejnowski,T.,J.
+YR 1995
+T1 Reliability of spike timing Michalski
+
+RT Conference Proceedings
+ID 503342
+A1 Sejnowski,Terrence,J.
+A1 Dayant,Peter
+A1 Montague,P.,Read
+YR 1995
+T1 Predictive Hebbian learning
+SP 15
+OP 18
+
+RT Journal Article
+ID 35930394
+A1 Sejnowski,Terrence,J.
+YR 1995
+T1 Neural Networks: Sleep and memory
+JF Current Biology
+VO 5
+SP 832
+OP 834
+IS 8
+
+RT Conference Proceedings
+ID 561162
+A1 Makeig,Scott
+A1 Jung,Tzyy-ping
+A1 Sejnowski,Terrence,J.
+YR 1995
+T1 Using Feedforward Neural Networks to Monitor Alertness from Changes in EEG Correlation and Coherence
+SP 931
+OP 937
+
+RT Journal Article
+ID 54689724
+A1 Mainen,Zachary,F.
+A1 Sejnowski,Terrence,J.
+YR 1995
+T1 Reliability of Spike Timing in Neocortical Neurons
+JF Science
+VO 268
+SP 1503
+OP 1506
+
+RT Journal Article
+ID 53700952
+A1 Destexhe,Alain
+A1 Sejnowski,Terrence,J.
+YR 1995
+T1 G Protein Activation Kinetics and Spillover of gamma-Aminobutyric Acid May Account for Differences Between Inhibitory Responses in the Hippocampus and Thalamus
+JF Proceedings of The National Academy of Sciences
+VO 92
+SP 9515
+OP 9519
+
+RT Journal Article
+ID 14871963
+A1 Sejnowski,Terrence,J.
+YR 1995
+T1 Evolution of artificial intelligence
+JF Nature
+VO 378
+SP 101
+OP 102
+IS 6552
+
+RT Journal Article
+ID 51245596
+A1 Sejnowski,Terrence,J.
+YR 1995
+T1 Time for a new neural code?
+JF Nature
+VO 376
+SP 21
+OP 22
+
+RT Journal Article
+ID 53630018
+A1 Sejnowski,Terrence,J.
+YR 1995
+T1 Evolution of artificial intelligence
+JF Nature
+VO 378
+SP 101
+OP 102
+
+RT Journal Article
+ID 2693012
+A1 Destexhe,Alain
+A1 Mainen,Zachary,F.
+A1 Sejnowski,Terrence,J.
+YR 1994
+T1 An Efficient Method for Computing Synaptic Conductances Based on a Kinetic Model of Receptor Binding
+JF Neural Computation
+VO 6
+SP 14
+OP 18
+IS 1
+
+RT Journal Article
+ID 5189451
+A1 Destexhe,Alain
+A1 Mainen,Zachary,F.
+A1 Sejnowski,Terrence,J.
+YR 1994
+T1 Synthesis of models for excitable membranes, synaptic transmission and neuromodulation using a common kinetic formalism
+JF Journal of Computational Neuroscience
+VO 1
+SP 195
+OP 230
+IS 3
+
+RT Journal Article
+ID 5389814
+A1 Dayan,Peter
+A1 Sejnowski,Terrence,J.
+YR 1994
+T1 TD(λ) converges with probability 1
+JF Machine Learning
+VO 14
+SP 295
+OP 301
+IS 3
+
+RT Journal Article
+ID 187129
+A1 DESTEXHE,A.
+A1 CONTRERAS,D.
+A1 SEJNOWSKI,T.,J.
+A1 STERIADE,M.
+YR 1994
+T1 A Model of Spindle Rhythmicity in the Isolated Thalamic Reticular Nucleus
+
+RT Journal Article
+ID 1999947
+A1 Montague,P.,R.
+A1 Sejnowski,T.,J.
+YR 1994
+T1 The predictive brain: Temporal coincidence and temporal order in synaptic learning mechanisms
+
+RT Journal Article
+ID 140308
+A1 Dayan,Peter
+A1 Sejnowski,Terrence,J.
+YR 1994
+T1 TD(lambda) Converges with Probability 1
+JF Machine Learning
+VO 14
+SP 295
+OP 301
+IS 1
+
+RT Journal Article
+ID 2119598
+A1 Nowlan,Steven,J.
+A1 Sejnowski,Terrence,J.
+YR 1994
+T1 Filter selection model for motion segmentation and velocity integration
+JF Journal of The Optical Society of America A-optics Image Science and Vision
+VO 11
+SP 3177
+IS 12
+
+RT Journal Article
+ID 3851847
+A1 Steriade,M
+A1 Mccormick,Da
+A1 Sejnowski,Tj
+YR 1994
+T1 Thalamocortical oscillations in the sleeping and aroused brain
+JF Science
+
+RT Journal Article
+ID 365053
+A1 Jester,I.
+A1 Campbell,Lee,W.
+A1 Sejnowski,Terrence,J.
+YR 1994
+T1 Associative EPSP-spike potentiation induced by pairing orthodromic and antidromic stimulation in rat hippocampal slices
+
+RT Journal Article
+ID 381178
+A1 Destexhe,Alain
+A1 Contreras,Diego
+A1 Sejnowski,Terrence,J.
+A1 Steriade,Mircea
+YR 1994
+T1 Modeling the control of reticular thalamic oscillations by neuromodulators
+JF Neuroreport
+VO 5
+SP 2217
+OP 2220
+IS 17
+
+RT Conference Proceedings
+ID 560597
+A1 Doya,Kenji
+A1 Sejnowski,Terrence,J.
+YR 1994
+T1 A Novel Reinforcement Model of Birdsong Vocalization Learning
+SP 101
+OP 108
+
+RT Journal Article
+ID 2595829
+A1 Pouget,Alexandre
+A1 Sejnowski,Terrence,J.
+YR 1994
+T1 A Neural Model of the Cortical Representation of Egocentric Distance
+
+RT Journal Article
+ID 15222101
+A1 Dayan,Peter
+A1 Sejnowski,Terrence,J.
+YR 1994
+T1 TD(λ) Converges with Probability 1
+JF Machine Learning
+VO 14
+SP 295
+OP 301
+IS 3
+
+RT Journal Article
+ID 3013432
+A1 BUSH,PAUL,C.
+A1 SEJNOWSKI,TERRENCE,J.
+YR 1994
+T1 Effects of Inhibition and Dendritic Saturation in Simulated Neocortical Pyramidal Cells
+
+RT Conference Proceedings
+ID 560589
+A1 Zemel,Richard,S.
+A1 Sejnowski,Terrence,J.
+YR 1994
+T1 Grouping Components of Three-Dimensional Moving Objects in Area MST of Visual Cortex
+SP 165
+OP 172
+
+RT Conference Proceedings
+ID 560306
+A1 Pouget,Alexandre
+A1 Sejnowski,Terrence,J.
+YR 1994
+T1 Spatial Representations in the Parietal Cortex May Use Basis Functions
+SP 157
+OP 164
+
+RT Journal Article
+ID 3845141
+A1 Schraudolph,N.,N.
+A1 Dyan,P.
+A1 Sejnowski,T.,J.
+YR 1994
+T1 Temporal learning of position evaluation in the game of Go
+
+RT Conference Proceedings
+ID 560079
+A1 Stensmo,Magnus
+A1 Sejnowski,Terrence,J.
+YR 1994
+T1 A Mixture Model System for Medical and Machine Diagnosis
+SP 1077
+OP 1084
+
+RT Journal Article
+ID 36619217
+A1 Quartz,Steven,R.
+A1 Sejnowski,Terrence,J.
+YR 1994
+T1 Beyond modularity: Neural evidence for constructivist principles in development
+JF Behavioral and Brain Sciences
+VO 17
+SP 725
+IS 04
+
+RT Conference Proceedings
+ID 559806
+A1 Bell,Anthony,J.
+A1 Sejnowski,Terrence,J.
+YR 1994
+T1 A Non-linear Information Maximisation Algorithm that Performs Blind Separation
+SP 467
+OP 474
+
+RT Conference Proceedings
+ID 561301
+A1 Pouget,Alexandre
+A1 Deffayet,Cedric
+A1 Sejnowski,Terrence,J.
+YR 1994
+T1 Reinforcement Learning Predicts the Site of Plasticity for Auditory Remapping in the Barn Owl
+SP 125
+OP 132
+
+RT Conference Proceedings
+ID 561248
+A1 Schraudolph,Nicol,N.
+A1 Sejnowski,Terrence,J.
+YR 1994
+T1 Plasticity-Mediated Competitive Learning
+SP 475
+OP 480
+
+RT Journal Article
+ID 54392985
+A1 Nowlan,Steven,J.
+A1 Sejnowski,Terrence,J.
+YR 1994
+T1 Filter selection model for motion segmentation and velocity integration
+JF Journal of The Optical Society of America
+
+RT Journal Article
+ID 36619193
+A1 Pouget,Alexandre
+A1 Sejnowski,Terrence,J.
+YR 1994
+T1 Is perception isomorphic with neural activity?
+JF Behavioral and Brain Sciences
+VO 17
+SP 274
+IS 02
+
+RT Journal Article
+ID 2058104
+A1 Steriade,M.
+A1 Mccormick,D.,A.
+A1 Sejnowski,T.
+YR 1993
+T1 Thalamocortical oscillations in the sleeping and aroused brain
+JF Science
+VO 262
+SP 679
+OP 685
+IS 5134
+
+RT Conference Proceedings
+ID 560657
+A1 Schraudolph,Nicol,N.
+A1 Dayan,Peter
+A1 Sejnowski,Terrence,J.
+YR 1993
+T1 Temporal Difference Learning of Position Evaluation in the Game of Go
+SP 817
+OP 824
+
+RT Journal Article
+ID 340918
+A1 Destexhe,A.
+A1 McCormick,D.,A.
+A1 Sejnowski,T.,J.
+YR 1993
+T1 A model for 8-10 Hz spindling in interconnected thalamic relay and reticularis neurons
+JF Biophysical Journal
+VO 65
+SP 2473
+OP 2477
+IS 6
+
+RT Journal Article
+ID 2031001
+A1 Destexhe,A.
+A1 Babloyantz,A.
+A1 Sejnowski,T.,J.
+YR 1993
+T1 Ionic mechanisms for intrinsic slow oscillations in thalamic relay neurons
+JF Biophysical Journal
+VO 65
+SP 1538
+OP 1552
+IS 4
+
+RT Journal Article
+ID 338684
+A1 Fisher,Stephen,A.
+A1 Sejnowski,Terrence,J.
+YR 1993
+T1 Egocentric Spatial Representation in Early Vision
+JF Journal of Cognitive Neuroscience
+
+RT Journal Article
+ID 3660774
+A1 Bush,Paul,C.
+A1 Sejnowski,Terrence,J.
+YR 1993
+T1 Reduced compartmental models of neocortical pyramidal cells
+JF Journal of Neuroscience Methods
+VO 46
+SP 159
+OP 166
+IS 2
+
+RT Journal Article
+ID 15244586
+A1 Pouget,Alexandre
+A1 Fisher,Stephen,A.
+A1 Sejnowski,Terrence,J.
+YR 1993
+T1 Egocentric Spaw Representation in Early Vision
+JF Journal of Cognitive Neuroscience
+VO 5
+SP 150
+OP 161
+IS 2
+
+RT Conference Proceedings
+ID 560001
+A1 Montague,P.,Read
+A1 Dayan,Peter
+A1 Sejnowski,Terrence,J.
+YR 1993
+T1 Foraging in an Uncertain Environment Using Predictive Hebbian Learning
+SP 598
+OP 605
+
+RT Journal Article
+ID 14864373
+A1 Ito,Masao
+A1 Sejnowski,T.,J.
+YR 1993
+T1 Cerebellar flocculus hypothesis
+JF Nature
+VO 363
+SP 24
+OP 25
+IS 6424
+
+RT Journal Article
+ID 5389418
+A1 Dayan,Peter
+A1 Sejnowski,Terrence,J.
+YR 1993
+T1 The Variance of Covariance Rules for Associative Matrix Memories and Reinforcement Learning
+JF Neural Computation
+VO 5
+SP 205
+OP 209
+IS 2
+
+RT Journal Article
+ID 35483679
+A1 LOCKERY,S
+A1 SEJNOWSKI,T
+YR 1993
+T1 The computational leech
+JF Trends in Neurosciences
+VO 16
+SP 283
+OP 290
+IS 7
+
+RT Journal Article
+ID 5386858
+A1 LOCKERY,S.,R.
+A1 SEJNOWSKI,T.,J.
+YR 1993
+T1 A lower bound on the detectability of nonassociative learning in the local bending reflex of the medicinal leech
+JF Behavioral and Neural Biology
+VO 59
+SP 208
+OP 224
+IS 3
+
+RT Journal Article
+ID 3748145
+A1 Bush,P.,C.
+A1 Sejnowski,T.,J.
+YR 1993
+T1 Simulations of synaptic integration in neocortical pyramidal cells
+
+RT Journal Article
+ID 56223700
+A1 Steriade,Mircea
+A1 McCormick,David,A.
+A1 Sejnowski,Terrence,J.
+YR 1993
+T1 Thalamocortical Oscillations in the Sleeping and Aroused Brain
+JF Science
+VO 262
+SP 679
+OP 685
+
+RT Journal Article
+ID 53475157
+A1 Berns,Gregory,S.
+A1 Dayan,Peter
+A1 Sejnowski,Terrence,J.
+YR 1993
+T1 A Correlational Model for the Development of Disparity Selectivity in Visual Cortex that Depends on Prenatal and Postnatal Phases
+JF Proceedings of The National Academy of Sciences
+VO 90
+SP 8277
+OP 8281
+
+RT Conference Proceedings
+ID 560074
+A1 Rauschecker,Josef,P.
+A1 Sejnowski,Terrence,J.
+YR 1993
+T1 Processing of Visual and Auditory Space and Its Modification by Experience
+SP 1186
+OP 1187
+
+RT Book, Whole
+ID 39256061
+A1 Churchland,Patricia,S.
+A1 Sejnowski,Terrence,J.
+YR 1992
+T1 The computational brain
+
+RT Journal Article
+ID 2084943
+A1 Lisberger,S.,G.
+A1 Sejnowski,T.,J.
+YR 1992
+T1 Motor learning in a recurrent network model based on the vestibulo–ocular reflex
+JF Nature
+VO 360
+SP 159
+OP 161
+IS 6400
+
+RT Conference Proceedings
+ID 561247
+A1 Schraudolph,Nicol,N.
+A1 Sejnowski,Terrence,J.
+YR 1992
+T1 Unsupervised Discrimination of Clustered Data via Optimization of Binary Information Gain
+SP 499
+OP 506
+
+RT Conference Proceedings
+ID 414028
+A1 Nowlan,Steven,J.
+A1 Sejnowski,Terrence,J.
+YR 1992
+T1 Filter Selection Model for Generating Visual Motion Signals
+SP 369
+OP 376
+
+RT Journal Article
+ID 5389458
+A1 Lytton,William,W.
+A1 Sejnowski,Terrence,J.
+YR 1992
+T1 Computer model of ethosuximide's effect on a thalamic neuron
+JF Annals of Neurology
+VO 32
+SP 131
+OP 139
+IS 2
+
+RT Journal Article
+ID 5223861
+A1 Wathey,John,C.
+A1 Lytton,William,W.
+A1 Jester,Jennifer,M.
+A1 Sejnowski,Terrence,J.
+YR 1992
+T1 Computer Simulations of EPSP-Spike (ES) Potentiation in Hippocampal CA 1 Pyramidal Cells
+
+RT Conference Proceedings
+ID 559626
+A1 Montague,P.,Read
+A1 Dayan,Peter
+A1 Nowlan,Steven,J.
+A1 Sejnowski,Terrence,J.
+YR 1992
+T1 Using Aperiodic Reinforcement for Directed Self-Organization During Development
+SP 969
+OP 976
+
+RT Conference Proceedings
+ID 559704
+A1 Coenen,Olivier,J.,M.,D.
+A1 Sejnowski,Terrence,J.
+A1 Lisberger,Stephen,G.
+YR 1992
+T1 Biologically Plausible Local Learning Rules for the Adaptation of the Vestibulo-Ocular Reflex
+SP 961
+OP 968
+
+RT Journal Article
+ID 61400017
+A1 Viola,P.,A.
+A1 Lisberger,S.,G.
+A1 Sejnowski,T.,J.
+YR 1992
+T1 Recurrent Eye Tracking Network Using a Distributed Representation of Image Motion
+
+RT Journal Article
+ID 51294360
+A1 Churchland,Patricia,S.
+A1 Sejnowski,Terrence,J.
+YR 1992
+T1 How Parts of the Brain Compute. (Book Reviews: The Computational Brain.)
+JF Science
+VO 258
+SP 1671
+OP 1672
+
+RT Journal Article
+ID 56245745
+A1 Lisberger,S.,G.
+A1 Sejnowski,T.,J.
+YR 1992
+T1 Motor learning in a recurrent network model based on the vestibulo-ocular reflex
+JF Nature
+VO 360
+SP 159
+OP 161
+
+RT Journal Article
+ID 15031895
+A1 Sejnowski,T.,J.
+YR 1992
+T1 Models of Vision
+JF Science
+VO 257
+SP 687
+OP 688
+IS 5070
+
+RT Journal Article
+ID 6479936
+A1 SEJNOWSKI,T.,J.
+A1 CHURCHLAND,P.,S.
+YR 1992
+T1 Innovative computer devices are being inspired by the results of research on the brains of nature's creatures
+
+RT Journal Article
+ID 14862740
+A1 Sejnowski,Terrence
+YR 1992
+T1 Network visions
+JF Nature
+VO 360
+SP 27
+OP 28
+IS 6399
+
+RT Journal Article
+ID 61399970
+A1 Nowlan,S.,J.
+A1 Sejnowski,T.,J.
+YR 1992
+T1 Filter Selection Model for Generating Visual Motion Signals for Target Tracking
+
+RT Journal Article
+ID 1980696
+A1 Lytton,W.,W.
+A1 Sejnowski,T.,J.
+YR 1991
+T1 Simulations of cortical pyramidal neurons synchronized by inhibitory interneurons
+
+RT Journal Article
+ID 4209982
+A1 Holliday,Janet
+A1 Adams,Richard,J.
+A1 Sejnowski,Terrence,J.
+A1 Spitzer,Nicholas,C.
+YR 1991
+T1 Calcium-induced release of calcium regulates differentiation of cultured spinal neurons
+JF Neuron
+VO 7
+SP 787
+OP 796
+IS 5
+
+RT Journal Article
+ID 14199070
+A1 STANTON,P
+A1 CHATTARJI,S
+A1 SEJNOWSKI,T
+YR 1991
+T1 2Amino3-phosphonopropionic acid, an inhibitor of glutamate-stimulated phosphoinositide turnover, blocks induction of homosynaptic long-term depression, but not potentiation, in rat hippocampus
+JF Neuroscience Letters
+VO 127
+SP 61
+OP 66
+IS 1
+
+RT Journal Article
+ID 5386445
+A1 Bush,Paul,C.
+A1 Sejnowski,Terrence,J.
+YR 1991
+T1 Simulations of a Reconstructed Cerebellar Purkinje Cell Based on Simplified Channel Kinetics
+JF Neural Computation
+VO 3
+SP 321
+OP 332
+IS 3
+
+RT Conference Proceedings
+ID 561246
+A1 Schraudolph,Nicol,N.
+A1 Sejnowski,Terrence,J.
+YR 1991
+T1 Competitive Anti-Hebbian Learning of Invariants
+SP 1017
+OP 1024
+
+RT Conference Proceedings
+ID 560309
+A1 Viola,Paul,A.
+A1 Lisberger,Stephen,G.
+A1 Sejnowski,Terrence,J.
+YR 1991
+T1 Recurrent Eye Tracking Network Using a Distributed Representation of Image Motion
+SP 380
+OP 387
+
+RT Conference Proceedings
+ID 560607
+A1 Venturini,Rita
+A1 Lytton,William,W.
+A1 Sejnowski,Terrence,J.
+YR 1991
+T1 Neural Network Analysis of Event Related Potentials and Electroencephalogram Predicts Vigilance
+SP 651
+OP 658
+
+RT Journal Article
+ID 35929055
+A1 Sejnowski,Terrence,J.
+YR 1991
+T1 Synaptic mechanisms for long-term depression
+JF Current Biology
+VO 1
+SP 38
+OP 40
+IS 1
+
+RT Journal Article
+ID 4511351
+A1 Cowan,Jack,D.
+A1 Grirnson,L.
+A1 Grzywacz,Norberto,M.
+A1 Hildreth,Ellen,C.
+A1 McNaughton,Bruce
+A1 Sejnowski,Terrence,J.
+YR 1991
+T1 From the Retina to the Neocortex
+
+RT Journal Article
+ID 51777956
+A1 Touretzky,David,S.
+A1 Elman,Jeffrey,L.
+A1 Sejnowski,Terrence,J.
+YR 1991
+T1 Connectionist models
+
+RT Journal Article
+ID 14858858
+A1 Sejnowski,Terrence,J.
+A1 Brasseur,Guy,P.
+YR 1991
+T1 Back together again
+JF Nature
+VO 352
+SP 669
+OP 670
+IS 6337
+
+RT Conference Proceedings
+ID 561302
+A1 Pouget,Alexandre
+A1 Fisher,Stephen,A.
+A1 Sejnowski,Terrence,J.
+YR 1991
+T1 Hierarchical Transformation of Space in the Visual System
+SP 412
+OP 419
+
+RT Journal Article
+ID 54577553
+A1 Sejnowski,Terrence,J.
+YR 1991
+T1 Back together again
+JF Nature
+VO 352
+SP 669
+OP 670
+
+RT Conference Proceedings
+ID 560448
+A1 Golomb,Beatrice,A.
+A1 Lawrence,David,T.
+A1 Sejnowski,Terrence,J.
+YR 1990
+T1 SEXNET: A Neural Network Identifies Sex From Human Faces
+SP 572
+OP 579
+
+RT Journal Article
+ID 1429121
+A1 Yuhas,B.,P.
+A1 Sejnowski,T.,J.
+A1 Jenkins,R.,E.
+YR 1990
+T1 Neural network models of sensory integration for improved vowel recognition
+JF Proceedings of The IEEE
+VO 78
+SP 1658
+OP 1668
+IS 10
+
+RT Journal Article
+ID 2137706
+A1 Lehky,Sidney,R.
+A1 Sejnowski,Terrence,J.
+YR 1990
+T1 Neural Model of Stereoacuity and Depth Interpolation Based on a Distributed Representation of Stereo Disparity
+
+RT Journal Article
+ID 3892990
+A1 Contreras,D.
+A1 Destexhe,A.
+A1 Sejnowski,T.,J.
+A1 Steriade,M.
+A1 Niedermeyer,E.
+YR 1990
+T1 The Epilepsies: Diagnosis and Management
+
+RT Journal Article
+ID 3444195
+A1 Lehky,S.,R.
+A1 Sejnowski,T.,J.
+YR 1990
+T1 Neural Network Model of Visual Cortex for Determining Surface Curvature from Images of Shaded Surfaces
+JF Proceedings of The Royal Society of London. Series B, Biological Sciences (1934-1990)
+VO 240
+SP 251
+OP 278
+IS 1298
+
+RT Journal Article
+ID 5178413
+A1 Lockery,Shawn,R.
+A1 Fang,Yan
+A1 Sejnowski,Terrence,J.
+YR 1990
+T1 A Dynamic Neural Network Model of Sensorimotor Transformations in the Leech
+JF Neural Computation
+VO 2
+SP 274
+OP 282
+IS 3
+
+RT Journal Article
+ID 14194217
+A1 Fang,Yan
+A1 Sejnowski,Terrence,J.
+YR 1990
+T1 Faster Learning for Dynamic Recurrent Backpropagation
+JF Neural Computation
+VO 2
+SP 270
+OP 273
+IS 3
+
+RT Journal Article
+ID 4091697
+A1 Qian,Ning
+A1 Sejnowski,Terrence,J.
+YR 1990
+T1 When is an Inhibitory Synapse Effective?
+JF Proceedings of The National Academy of Sciences
+VO 87
+SP 8145
+OP 8149
+IS 20
+
+RT Journal Article
+ID 5389447
+A1 LEHKY,S.,R.
+A1 POUGET,A.
+A1 SEJNOWSKI,T.,J.
+YR 1990
+T1 Neural Models of Binocular Depth Perception
+
+RT Journal Article
+ID 4088872
+A1 Churchland,P.,S.
+A1 Koch,C.
+A1 Sejnowski,T
+YR 1990
+T1 What is Computational Neuroscience
+JF Journal of Computational Neuroscience
+
+RT Conference Proceedings
+ID 2084411
+A1 Sejnowski,T.
+A1 Yuhas,B.
+A1 Goldstein,M.
+A1 Jenkins,R.
+YR 1990
+T1 Combining visual and acoustic speech signal with a neural network improves intelligibility
+
+RT Journal Article
+ID 5389574
+A1 Sejnowski,Terrence,J.
+A1 Chattarji,Sumantra
+A1 Stanton,Patric,K.
+YR 1990
+T1 Homosynaptic long-term depression in hippocampus and mescsrtex
+
+RT Conference Proceedings
+ID 49887187
+A1 Lockery,Shawn,R.
+A1 Fang,Yan
+A1 Sejnowski,Terrence,J.
+YR 1990
+T1 A dynamical neural network model of sensorimotor transformations in the leech
+
+RT Journal Article
+ID 60217932
+A1 Sejnowski,T.,J.
+A1 Goldstein,M.
+YR 1990
+T1 Massively parallel network architectures for automatic recognition of visual speech signals. Final technical report
+
+RT Journal Article
+ID 55096363
+A1 Lehky,S.,R.
+A1 Sejnowski,T.,J.
+YR 1990
+T1 Neural Network Model of Visual Cortex for Determining Surface Curvature from Images of Shaded Surfaces
+JF Proceedings of The Royal Society of London. Series B, Biological Sciences (1934-1990)
+VO 240
+SP 251
+OP 278
+
+RT Journal Article
+ID 55012552
+A1 Sejnowski,Terrence,J.
+A1 Goldstein,Moise
+YR 1990
+T1 Massively parallel network architectures for automatic recognition of visual speech signals
+
+RT Journal Article
+ID 697963
+A1 Tesauro,Gerald
+A1 Sejnowski,Terrence,J.
+YR 1989
+T1 A Parallel Network that Learns to Play Backgammon
+JF Artificial Intelligence
+VO 39
+SP 357
+OP 390
+IS 3
+
+RT Journal Article
+ID 2079423
+A1 Stanton,Patric,K.
+A1 Sejnowski,Terrence,J.
+YR 1989
+T1 Associative long-term depression in the hippocampus induced by hebbian covariance
+JF Nature
+VO 339
+SP 215
+OP 218
+IS 6221
+
+RT Journal Article
+ID 1604312
+A1 Yuhas,Ben,P.
+A1 Goldstein,Moise,H.
+A1 Sejnowski,Terrence,J.
+YR 1989
+T1 Integration of acoustic and visual speech signals using neural networks
+JF IEEE Communications Magazine
+VO 27
+SP 65
+OP 71
+IS 11
+
+RT Journal Article
+ID 2052278
+A1 Qian,Ning
+A1 Sejnowski,Terrence,J.
+YR 1989
+T1 Learning to Solve Random-Dot Stereograms of Dense and Transparent Surfaces with Recurrent Backpropagation
+JF Proceedings of The IEEE
+
+RT Journal Article
+ID 5395236
+A1 Chattarji,Sumantra
+A1 Stanton,Patric,K.
+A1 Sejnowski,Terrence,J.
+YR 1989
+T1 Commissural synapses, but not mossy fiber synapses, in hippocampal field CA3 exhibit associative long-term potentiation and depression
+JF Brain Research
+VO 495
+SP 145
+OP 150
+IS 1
+
+RT Journal Article
+ID 5386786
+A1 Qian,Ning
+A1 Sejnowski,T.,J.
+YR 1989
+T1 An electro-diffusion model for computing membrane potentials and ionic concentrations in branching dendrites, spines and axons
+JF Biological Cybernetics
+VO 62
+SP 1
+OP 15
+IS 1
+
+RT Conference Proceedings
+ID 561165
+A1 Sejnowski,Terrence,J.
+A1 Yuhas,B.
+A1 Jr.,Moise,H.,Goldstein
+A1 Jenkins,R.,E.
+YR 1989
+T1 Combining Visual and Acoustic Speech Signals with a Neural Network Improves Intelligibility
+SP 232
+OP 239
+
+RT Conference Proceedings
+ID 560186
+A1 Lockery,Shawn,R.
+A1 Fang,Yan
+A1 Sejnowski,Terrence,J.
+YR 1989
+T1 Neural Network Analysis of Distributed Representations of Dynamical Sensory-Motor Transormations in the Leech
+SP 28
+OP 35
+
+RT Journal Article
+ID 51882265
+A1 Stanton,Patric,K.
+A1 Sejnowski,Terrence,J.
+YR 1989
+T1 Associative long-term depression in the hippocampus induced by hebbian covariance
+JF Nature
+VO 339
+SP 215
+OP 218
+
+RT Journal Article
+ID 61399939
+A1 Lehky,S.,R.
+A1 Sejnowski,T.,J.
+YR 1989
+T1 Network model of shape-from-shading: Neural function arises from both receptive and projective fields
+
+RT Journal Article
+ID 14404827
+A1 Sejnowski,Terrence,J.
+YR 1989
+T1 The Computer and the Brain Revisited
+JF IEEE Annals of The History of Computing
+VO 11
+SP 197
+OP 201
+IS 3
+
+RT Journal Article
+ID 56239624
+A1 Sejnowski,Terrence
+YR 1989
+T1 IEEE Conference on Neural Information Processing Systems, Natural and Synthetic
+
+RT Journal Article
+ID 1370373
+A1 Qian,Ning
+A1 Sejnowski,Terrence,J.
+YR 1988
+T1 Predicting the secondary structure of globular proteins using neural network models
+JF Journal of Molecular Biology
+VO 202
+SP 865
+OP 884
+IS 4
+
+RT Journal Article
+ID 1934987
+A1 Gorman,R.,Paul
+A1 Sejnowski,Terrence,J.
+YR 1988
+T1 Analysis of hidden units in a layered network trained to classify sonar targets
+JF Neural Networks
+VO 1
+SP 75
+OP 89
+IS 1
+
+RT Journal Article
+ID 1583074
+A1 GORMAN,R.,PAUL
+A1 SEJNOWSKI,TERRENCE,J.
+YR 1988
+T1 Learned classification of sonar targets using a massively parallel network
+JF IEEE Transactions on Acoustics, Speech, and Signal Processing
+VO 36
+SP 1135
+OP 1140
+IS 7
+
+RT Journal Article
+ID 2016568
+A1 Lehky,Sidney,R.
+A1 Sejnowski,Terrence,J.
+YR 1988
+T1 Network model of shape-from-shading: neural function arises from both receptive and projective fields
+JF Nature
+VO 333
+SP 452
+OP 454
+IS 6172
+
+RT Journal Article
+ID 15023187
+A1 Sejnowski,T.
+A1 Koch,C
+A1 Churchland,P.
+YR 1988
+T1 Computational neuroscience
+JF Science
+VO 241
+SP 1299
+OP 1306
+IS 4871
+
+RT Journal Article
+ID 10226324
+A1 CHURCHLAND,PATRICIA,S.
+A1 SEJNOWSKI,TERRENCE,J.
+YR 1988
+T1 Perspectives on cognitive neuroscience
+JF Science
+VO 242
+SP 741
+OP 745
+IS 4879
+
+RT Journal Article
+ID 14846947
+A1 Sejnowski,Terrence,J.
+YR 1988
+T1 Neural populations revealed
+JF Nature
+VO 332
+SP 308
+OP 308
+IS 6162
+
+RT Journal Article
+ID 55751574
+A1 Churchland,Patricia,S.
+A1 Sejnowski,Terrence,J.
+YR 1988
+T1 Perspectives on Cognitive Neuroscience
+JF Science
+VO 242
+SP 741
+OP 745
+
+RT Journal Article
+ID 51437652
+A1 Sejnowski,Terrence,J.
+A1 Koch,Christof
+A1 Churchland,Patricia,S.
+YR 1988
+T1 Computational Neuroscience
+JF Science
+VO 241
+SP 1299
+OP 1306
+
+RT Journal Article
+ID 53973919
+A1 Lehky,Sidney,R.
+A1 Sejnowski,Terrence,J.
+YR 1988
+T1 Network model of shape-from-shading: neural function arises from both receptive and projective fields
+JF Nature
+VO 333
+SP 452
+OP 454
+
+RT Conference Proceedings
+ID 561109
+A1 Stanton,Patric,K.
+A1 Sejnowski,Terrence,J.
+YR 1988
+T1 Storing Covariance by the Associative Long-Term Potentation and Depression of Synaptic Strengths in the Hippocampus
+SP 394
+OP 401
+
+RT Journal Article
+ID 53728062
+A1 Sejnowski,Terrence,J.
+YR 1988
+T1 Neural populations revealed
+JF Nature
+VO 332
+SP 308
+
+RT Journal Article
+ID 1303935
+A1 Sejnowski,T.
+A1 Rosenberg,C.
+YR 1987
+T1 Para[ el networks that learn to pronounce ?english text
+
+RT Conference Proceedings
+ID 560472
+A1 Tesauro,Gerald
+A1 Sejnowski,Terrence,J.
+YR 1987
+T1 A 'Neural' Network that Learns to Play Backgammon
+SP 794
+OP 803
+
+RT Journal Article
+ID 1388293
+A1 Sejnowski,T.,J.
+A1 Rosenberg,C.,R.
+YR 1987
+T1 Nettalk: parallel networks that learn to pronounce english text
+
+RT Journal Article
+ID 35482856
+A1 Sejnowski,Terrence,J.
+YR 1987
+T1 Computational models and the development of topographic projections
+JF Trends in Neurosciences
+VO 10
+SP 304
+OP 305
+IS 8
+
+RT Journal Article
+ID 36522632
+A1 SEJNOWSKI,T
+YR 1987
+T1 Computing with connections . The Connection Machine
+JF Journal of Mathematical Psychology
+VO 31
+SP 203
+OP 210
+IS 2
+
+RT Journal Article
+ID 53699574
+A1 Lehky,Sidney,R.
+A1 Sejnowski,Terrence,J.
+YR 1987
+T1 Extracting 3-D curvatures from images of surfaces using a neural network (A)
+
+RT Conference Proceedings
+ID 1334820
+A1 Hinton,G.,E.
+A1 Sejnowski,T.,J.
+YR 1986
+T1 Learning and relearning in boltzmann machines
+
+RT Journal Article
+ID 1253547
+A1 Sejnowski,T.,J.
+A1 Rosenberg,C.,R.
+YR 1986
+T1 Nettalk: a parallel network that learns to read aloud
+JF Neurocomputing
+
+RT Conference Proceedings
+ID 5364754
+A1 SEJNOWSKI,Terrence,J.
+A1 KIENKER,Paul,K.
+A1 HINTON,Geoffrey,E.
+YR 1986
+T1 LEARNING SYMMETRY GROUPS WITH HIDDEN UNITS: BEYOND THE PERGEPTRON
+
+RT Conference Proceedings
+ID 3522012
+A1 Sejnowski,T.,J.
+YR 1986
+T1 Open questions about computation in cerebral cortex
+
+RT Journal Article
+ID 3186542
+A1 Sejnowski,Terrence,J.
+YR 1986
+T1 HIGHER-ORDER BOLTZMANN MACHINES
+
+RT Journal Article
+ID 18334638
+A1 SEJNOWSKI,T
+A1 KIENKER,P
+A1 HINTON,G
+YR 1986
+T1 Learning symmetry groups with hidden units: Beyond the perceptron
+JF Physica D-nonlinear Phenomena
+VO 22
+SP 260
+OP 270
+IS 1-3
+
+RT Journal Article
+ID 10229524
+A1 Sejnowski,Terrence,J.
+YR 1986
+T1 Computational neuroscience
+JF Behavioral and Brain Sciences
+VO 9
+SP 104
+IS 01
+
+RT Conference Proceedings
+ID 1235572
+A1 Sejnowski,Terrence,J.
+YR 1986
+T1 Language learning in massively-parallel networks
+
+RT Journal Article
+ID 844952
+A1 Ackley,David,H.
+A1 Hinton,Geoffrey,E.
+A1 Sejnowski,Terrence,J.
+YR 1985
+T1 A learning algorithm for Boltzmann machines
+JF Cognitive Science
+VO 9
+SP 147
+OP 169
+IS 1
+
+RT Journal Article
+ID 1318471
+A1 Hinton,G.,E.
+A1 Sejnowski,T.,J.
+A1 Ackley,D.,H.
+YR 1984
+T1 Boltzmann machines: constrained satisfaction networks that learn
+
+RT Journal Article
+ID 14207164
+A1 Hinton,Geoffrey,E.
+A1 Sejnowski,Terrence,J.
+YR 1984
+T1 LEARNING SEMANTIC FEATURES
+
+RT Conference Proceedings
+ID 12406463
+A1 Hinton,Geoffrey,E.
+A1 Sejnowski,J.
+YR 1983
+T1 OPTIMAL PERCEPTUAL INFERENCE
+
+RT Journal Article
+ID 14831890
+A1 Ballard,Dana,H.
+A1 Hinton,Geoffrey,E.
+A1 Sejnowski,Terrence,J.
+YR 1983
+T1 Parallel visual computation
+JF Nature
+VO 306
+SP 21
+OP 26
+IS 5938
+
+RT Conference Proceedings
+ID 491530
+A1 Fahlman,Scott,E.
+A1 Hinton,Geoffrey,E.
+A1 Sejnowski,Terrence,J.
+YR 1983
+T1 Massively Parallel Architectures for AI: NETL, Thistle, and Boltzmann Machines
+SP 109
+OP 113
+
+RT Journal Article
+ID 4163718
+A1 Kuffler,Sw
+A1 Sejnowski,Tj
+YR 1983
+T1 Peptidergic and muscarinic excita - tion at amphibian sympathetic synapses
+
+RT Journal Article
+ID 61399917
+A1 Hinton,G.,E.
+A1 Sejnowski,T.,J.
+YR 1983
+T1 Analysing cooperative computation
+
+RT Journal Article
+ID 5389528
+A1 PATON,JOHN,A.
+A1 KELLEY,DARCY,B.
+A1 SEJNOWSKI,TERRENCE,J.
+A1 YODLOWSKI,MARILYN,L.
+YR 1982
+T1 Mapping the auditory central nervous system ofXenopus laevis with 2-deoxyglucose autoradiography
+JF Brain Research
+VO 249
+SP 15
+OP 22
+IS 1
+
+RT Journal Article
+ID 2571095
+A1 Sejnowski,T.,J.
+A1 Yodlowski,M.,L.
+YR 1982
+T1 A freeze fracture study of the skate electroreceptors
+
+RT Journal Article
+ID 34471807
+A1 Sejnowski,T.,J.
+A1 Yodlowski,M.,L.
+YR 1982
+T1 A freeze-fracture study of the skate electro receptor
+JF Journal of Neurocytology
+VO 11
+SP 897
+OP 912
+IS 6
+
+RT Journal Article
+ID 3751945
+A1 Sejnowski,Tj
+YR 1981
+T1 Skeleton filters in the brain
+
+RT Journal Article
+ID 14822011
+A1 Sejnowski,T.,J.
+A1 Reingold,S.,C.
+A1 Kelley,D.,B.
+A1 Gelperin,A.
+YR 1980
+T1 Localization of [3H]-2-deoxy glucose in single molluscan neurones
+JF Nature
+VO 287
+SP 449
+OP 451
+IS 5781
+
+RT Journal Article
+ID 1991811
+A1 Sejnowski,T.,J.
+YR 1977
+T1 Storing covariance with nonlinearly interacting neurons
+JF Journal of Mathematical Biology
+VO 4
+SP 303
+OP 321
+IS 4
+
+RT Journal Article
+ID 3794194
+A1 Sejnowski,Tj
+YR 1977
+T1 Statistical constraints on synaptic plasticity
+JF Journal of Theoretical Biology
+VO 69
+SP 385
+OP 389
+IS 2
+
+RT Journal Article
+ID 3514731
+A1 Sejnowski,T.,J.
+YR 1976
+T1 On the stochastic dynamics of neuronal interaction
+JF Biological Cybernetics
+VO 22
+SP 203
+OP 211
+IS 4
+
+RT Journal Article
+ID 14192561
+A1 Sejnowski,T.,J.
+YR 1976
+T1 On global properties of neuronal interaction
+JF Biological Cybernetics
+VO 22
+SP 85
+OP 95
+IS 2
+
+RT Journal Article
+ID 1999139
+A1 DURSTEWITZ,DANIEL
+A1 SEAMANS,JEREMY,K.
+A1 SEJNOWSKI,TERRENCE,J.
+T1 Dopamine-Mediated Stabilization of Delay-Period Activity in a Network Model of Prefrontal Cortex
+
+RT Journal Article
+ID 4478951
+A1 Koch,Christof
+A1 Davis,Joel,L.
+A1 Churchland,Patricia,S.
+A1 Ramachandran,V.,S.
+A1 Sejnowski,Terrence,J.
+T1 Large-Scale Neuronal Theories of the Brain
+
+RT Journal Article
+ID 14281180
+A1 Ekman,Paul
+A1 Huang,Thomas,S.
+A1 Sejnowski,Terrence,J.
+A1 Hager,Joseph,C.
+T1 Final Report To NSF of the Planning Workshop on Facial Expression Understanding
+
+RT Journal Article
+ID 5082680
+A1 Machines,Boltzmann
+A1 Fahlman,Scott,E.
+A1 Hinton,E.
+A1 Sejnowski,J.
+T1 MASSIVELY PARALLEL ARCHITECTURES FOR Al
+
+RT Journal Article
+ID 10024875
+A1 Jung,Tzyy-Ping
+A1 Makeig,Scott
+A1 Westerfield,Marissa
+A1 Townsend,Jeanne
+A1 Courchesne,Eric
+A1 Sejnowski,Terrence,J.
+T1 Removal of eye activity artifacts from visual event-related potentials in normal and clinical subjects
+
+RT Journal Article
+ID 3673809
+A1 Jung,T.,P.
+A1 Makeig,S.
+A1 Westerfield,M.
+A1 Townsend,J.
+A1 Courchesne,E.
+A1 Sejnowski,T.
+T1 Removal of eye activity artifacts form visual event-related potential in normal and clinical subject
+
+RT Journal Article
+ID 12815825
+A1 Makeig,Scott
+A1 Jung,Tzyy-Ping
+A1 Ghahremani,Dara
+A1 Sejnowski,Terrence,J.
+T1 Independent Component Analysis of Simulated ERP Data
+
+RT Journal Article
+ID 5409490
+A1 Bell,Anthony,J.
+A1 Sejnowski,Terrence,J.
+T1 Fast blind separation based on information theory
+
+RT Journal Article
+ID 10013309
+A1 SEJNOWSKI,TERRENCE,J.
+T1 Gain Modulation in the Central Nervous System: Where Behavior, Neurophysiology, and Computation Meet
+
+RT Journal Article
+ID 10158244
+A1 Destexhe,Alain
+A1 Contreras,Diego
+A1 Steriade,Mircea
+A1 Sejnowski,Terrence,J.
+A1 Huguenard,John,R.
+T1 In Viva, ln V&o, and Computational Analysis of Dendritic Calcium Currents in Thalamic Reticular Neurons
+
+RT Journal Article
+ID 3829111
+A1 Destexhel,Alain
+A1 Sejnowski,Terrence,J.
+T1 SYNCHRONIZED OSCILLATIONS IN THALAMIC NETWORKS: INSIGHTS FROM MODELING STUDIES
+
+RT Journal Article
+ID 10482725
+A1 Lehky,Sidney,R.
+A1 Sejnowski,Terrence,J.
+A1 Desimone,Robert
+T1 Predicting Responses of Nonlinear Neurons in Monkey Striate Cortex to Complex Patterns
+
+RT Journal Article
+ID 4654750
+A1 Duann,J.-R.
+A1 Jung,T.-P.
+A1 Kuo,W.-J.
+A1 Yeh,T.-C.
+A1 Makeig,S.
+A1 Hsieh,J.-C.
+A1 Sejnowski,T.,J.
+T1 MEASURING THE VARIABILITY OF EVENT-RELATED BOLD SIGNAL
+
+RT Journal Article
+ID 3023337
+A1 Makeig,Scott
+A1 Delorme,Arnaud
+A1 Westerfield,Marissa
+A1 Jung,Tzyy-Ping
+A1 Townsend,Jeanne
+A1 Courchesne,Eric
+A1 Sejnowski,Terrence,J.
+T1 Electroencephalographic brain dynamics following visual targets requiring manual responses
+
+RT Journal Article
+ID 2044840
+A1 MOORTGAT,KATHERINE,T.
+A1 BULLOCK,THEODORE,H.
+A1 SEJNOWSKI,TERRENCE,J.
+T1 Gap Junction Effects on Precision and Frequency of a Model Pacemaker Network
+
+RT Journal Article
+ID 11451188
+A1 Ft,S.
+A1 Sejnowski,T.,J.
+T1 Distributed Processing of Sensory Information in the Leech. III. A Dynamical Neural Network Model of the Local Bending Reflex
+
+RT Journal Article
+ID 330802
+A1 Lewicki,Michael,S.
+A1 Sejnowski,Terrence,J.
+T1 ICA MIXTURE MODELS FOR UNSUPERVISED CLASSIFICATION AND AUTOMATIC CONTEXT SWITCHING
+
+RT Journal Article
+ID 10789483
+A1 KUPF,S.,W.
+A1 SEJNOWSKI,T.,J.
+T1 PEPTIDERGIC AND MUSCARINIC EXCITATION AT AMPHIBIAN SYMPATHETIC SYNAPSES
+
+RT Journal Article
+ID 11454277
+A1 Bowd,Christopher
+A1 Zangwill,Linda,M.
+A1 Medeiros,Felipe,A.
+A1 Hao,Jiucang
+A1 Chan,Kwokleung
+A1 Lee,Te-Won
+A1 Sejnowski,Terrence,J.
+A1 Goldbaum,Michael,H.
+A1 Sample,Pamela,A.
+A1 Crowston,Jonathan,G.
+A1 Weinreb,Robert,N.
+T1 Confocal Scanning Laser Ophthalmoscopy Classifiers and Stereophotograph Evaluation for Prediction of Visual Field Abnormalities in Glaucoma-Suspect Eyes
+
+RT Journal Article
+ID 5586972
+A1 Qian,Ning
+A1 Sejnowski,Terrence,J.
+T1 Connectionist Models Summer School
+
+RT Journal Article
+ID 361338
+A1 Bell,Anthony,J.
+A1 Mainen,Zachary,F.
+A1 Tsodyks,Misha
+A1 Sejnowski,Terrence,J.
+T1 'Balancing' of Conductances May Explain Irregular Cortical Spiking
+
+RT Journal Article
+ID 5180309
+A1 Sejnowski,Terrence,J.
+A1 Stanton,Patric,K.
+T1 Covariance Storage in the Hippocampus
+
+RT Journal Article
+ID 5400399
+A1 MOORTGAT,KATHERINE,T.
+A1 BULLOCK,THEODORE,H.
+A1 SEJNOWSKI,TERRENCE,J.
+T1 Precision of the Pacemaker Nucleus in a Weakly Electric Fish: Network Versus Cellular Influences
+
+RT Journal Article
+ID 10205943
+A1 SEJNOWSKI,TERRENCE,J.
+T1 Peptidergic synaptic transmission in sympathetic ganglia
+
+RT Journal Article
+ID 5386167
+A1 BAZHENOV,M.
+A1 TIMOFEEV,I.
+A1 STERIADE,M.
+A1 SEJNOWSKI,T.
+T1 Spiking-Bursting Activity in the Thalamic Reticular Nucleus Initiates Sequences of Spindle Oscillations in Thalamic Networks
+
+RT Journal Article
+ID 10476438
+A1 Jung,Tzyy-Ping
+A1 Makeig,Scott
+A1 Bell,Anthony,J.
+A1 Sejnowski,Terrence,J.
+T1 INDEPENDENT COMPONENT ANALYSIS OF ELECTROENCEPHALOGRAPHIC AhJD EVENT-RELATED POTENTIAL DATA
+
+RT Journal Article
+ID 55075
+A1 Casanova,Henri
+A1 Bartol,Thomas
+A1 Berman,Francine
+A1 Birnbaum,Adam
+A1 Dongarra,Jack
+A1 Ellisman,Mark
+A1 Faerman,Marcio
+A1 Gockay,Erhan
+A1 Miller,Michelle
+A1 Obertelli,Graziano
+A1 Pomerantz,Stuart
+A1 Sejnowski,Terry
+A1 Stiles,Joel
+A1 Wolski,Rich
+T1 The Virtual Instrument: Support for Grid-enabled Scientific Simulations
+JF International Journal of High Performance Computing Applications
+
+RT Journal Article
+ID 3368465
+A1 Bartol,T.,M.
+A1 Stiles,J.,R.
+A1 Salpeter,M.,M.
+A1 Salpeter,E.,E.
+A1 Sejnowski,T.,J.
+T1 MCELL: Generalized Monte Carlo computer simulation of synaptic transmission and chemical signaling
+
+RT Journal Article
+ID 4510768
+A1 BARTLETT,MARIAN,STEWART
+A1 MOVELLAN,JAVIER,R.
+A1 LITTLEWORT,GWEN
+A1 BRAATHEN,BJORN
+A1 FRANK,MARK,G.
+A1 SEJNOWSKI,TERRENCE,J.
+T1 Towards Automatic Recognition of Spontaneous Facial Actions
+
+RT Journal Article
+ID 353412
+A1 Goodhill,Geoffrey,J.
+A1 Finch,Steven
+A1 Sejnowski,Terrence,J.
+T1 A unifying measure for neighbourhood preservation in topographic mappings
+
+RT Journal Article
+ID 5662202
+A1 Delorme,Arnaud
+A1 Jung,Tzyy-Ping
+A1 Sejnowski,Terrence
+A1 Makeig,Scott
+T1 Improved rejection of artifacts from EEG data using high-order statistics and independent component analysis
+JF Neuroimage
+
+RT Journal Article
+ID 4483482
+A1 Stensmo,Magnus
+A1 Sejnowski,Terrence,J.
+T1 Automated Medical Diagnosis based on Decision Theory and Learning from Cases
+
+RT Journal Article
+ID 11479821
+A1 Destexhel,Alain
+A1 McCormick,David,A.
+A1 Sejnowski,Terrence,J.
+T1 Thalamic and thalamocortical mechanisms underlying 3 Hz spike-and-wave discharges
+
+RT Journal Article
+ID 11563299
+A1 Delorme,A.
+A1 Makeig,S.
+A1 Fabre-Thorpe,M.
+A1 Sejnowski,T.
+T1 From single-trial EEG to brain area dynamics
+JF Neurocomputing
+
+RT Journal Article
+ID 11843317
+A1 Prank,Klaus
+A1 Nowlan,Steven,J.
+A1 Harms,Heio,M.
+A1 Kloppstech,Mirko
+A1 Brabant,Georg
+A1 Hesch,Rolf-Dieter
+A1 Sejnowski,Terrence,J.
+T1 Time Series Prediction o lf Plasma Hormone Concentration Evidence for Differences in Predictability of Parathyroid Hormone Secretion Between Osteoporotic Patients and Normal Controls
+
+RT Journal Article
+ID 10373621
+A1 Rosenberg,Charles,R.
+A1 Sejnowski,Terrence,J.
+T1 THE SPACING EFFECT ON NETTALK, A MASSIVELY-PARALLEL NETWORK
+
+RT Journal Article
+ID 5327533
+A1 SEJNOWSKI,TERRENCE,J.
+A1 TESAURO,GERALD
+T1 Building Network Learning Algorithms from Hebbian Synapses
+
+RT Journal Article
+ID 10978061
+A1 Lehky,Sidney,R.
+A1 Sejnowski,Terrence,J.
+T1 Neural Network Model for the Cortical Representation of Surface Curvature from Images of Shaded Surfaces
+
+RT Journal Article
+ID 5938367
+A1 Stensmo,Magnus
+A1 Sejnowski,Terrence,J.
+T1 A Mixture Model Diagnosis System
+
+RT Journal Article
+ID 4134036
+A1 Rao,R.,P.,N.
+A1 Sejnowski,T.,J.
+T1 Spike - timing - dependent plasticity as temporal difference learning
+JF Neural Computation
+
+RT Journal Article
+ID 10790517
+A1 Destexhe,Alain
+A1 Mainen,Zachary,F.
+A1 Sejnowski,Terrence,J.
+T1 FAST KINETIC MODELS FOR SIMULATING AMPA, NMDA, GABAA AND GABAB RECEPTORS
+
+RT Book, Whole
+ID 361530
+A1 Bartlett,Marian,Stewart
+A1 Sejnowski,Terrence,J.
+T1 Learning Viewpoint Invariant Representations of Faces in an Attractor Network
+
+RT Journal Article
+ID 5395051
+A1 Mainen,Zachary,F.
+A1 Sejnowskit,Terrence,J.
+T1 Reliability of spike encoding in neocortical neurons
+JF Science
+
+RT Journal Article
+ID 11948107
+A1 Rao,Rajesh,P.,N.
+A1 Sejnowski,Terrence,J.
+T1 16 Predictive Coding, Cortical Feedback, and Spike-Timing Dependent Plasticity
+
+RT Journal Article
+ID 3276811
+A1 Destexhe,A
+A1 Bal,T
+A1 Mccormick,Da
+A1 Sejnowski,Tj
+T1 Ionic mechanisms underlaying synchronized and propagating waves in a model of ferret thalamic slices
+
+RT Journal Article
+ID 6488001
+A1 Lytton,William,W.
+A1 Sejnowski,Terrence,J.
+T1 INHIBITORY INTERNEURONS CAN RAPIDLY PHASE-LOCK NEURAL POPULATIONS
+
+RT Journal Article
+ID 6484157
+A1 SEJNOWSKI,TERRENCE,J.
+T1 Electrodiffusion Model of Electrical Conduction in Neuronal Processes
+
+RT Journal Article
+ID 13078324
+A1 Strick,Peter,L.
+A1 Cdl,Wayne,E.
+A1 Alexander,Garrett
+A1 Anderson,Marjorie
+A1 Baylor,Denis,A.
+A1 Burke,Robert
+A1 Bushnell,Mary,C.
+A1 Collingridge,Graham,L.
+A1 Ferster,David,L.
+A1 Fetz,Eberhard,E.
+A1 Gardner,Esther,P.
+A1 Goldberg,Michael
+A1 Goldman-Rakic,Patricia
+A1 Graybiel,Ann,M.
+A1 Hasan,Ziaul
+A1 Highstein,Stephen,M.
+A1 Hultbom,Hans
+A1 Imig,Thomas,J.
+A1 Jesse,Thomas,P.
+A1 Johansson,Roland
+A1 Johnston,Daniel
+A1 Lackner,James,R.
+A1 Light,Alan,R.
+A1 Marder,Eve,E.
+A1 Maunsell,John
+A1 McCormick,David,A.
+A1 Nelson,Phillip,G.
+A1 Nicholls,John,G.
+A1 Nicoll,Roger,A.
+A1 Oertel,Donata
+A1 Optican,Lance,M.
+A1 Pearson,Keir,G.
+A1 Petersen,Steven,E.
+A1 Rahamimoff,Rami
+A1 Redman,Stephen,J.
+A1 Segev,Idan
+A1 Sejnowski,Terrence,J.
+A1 Siegelbaum,Steven,A.
+A1 Sigvardt,Karen,A.
+A1 Tanji,Jun
+A1 Thach,Thomas,W.
+A1 Werblin,Frank,S.
+A1 Wilson,Charles,J.
+T1 CHIEF EDITOR
+
+RT Journal Article
+ID 4523024
+A1 Rao,R.,P.,N.
+A1 Sejnowski,T.,J.
+T1 Direction Selectivity from Predictive Sequence Learning in Recurrent Neocortical Circuits
+
+RT Journal Article
+ID 395114
+A1 Goodhill,Geoffrey,J.
+A1 Sejnowski,Terrence,J.
+T1 Objective Functions for Topography: A Comparison of Optimal Maps
+
+RT Journal Article
+ID 12215277
+A1 Sejnowski,Terrence
+A1 Chattarji,Sumantra
+A1 Sfanton,Patric
+T1 Induction of Synaptic Plasticity by Hebbian Covariance in the Hippocampus
+JF Computing
+
+RT Journal Article
+ID 5400175
+A1 Viola,Paul
+A1 Schraudolph,Nicol,N.
+A1 Sejnowski,Terrence,J.
+T1 Empirical Entropy Manipulation and Analysis
+
+RT Journal Article
+ID 10374073
+A1 Text,English
+A1 Sejnowski,Terrence,J.
+A1 Rosenberg,Charles,R.
+T1 Parallel Networks that Learn to Pronounce
+
+RT Journal Article
+ID 5448492
+A1 Brown,Glen,D.
+A1 Yamada,Satoshi
+A1 Nakashima,Michio
+A1 Moore-Kochlacs,Caroline
+A1 Sejnowski,Terrence,J.
+A1 Shiono,Satoru
+T1 Independent Component Analysis of Optical Recordings from Tritonia Swimming Neurons
+
+RT Journal Article
+ID 4484837
+A1 Sejnowski,Terrence,J.
+T1 THE COMPUTATIONAL NEUROETHOLOGY OF SLEEP
+
+RT Journal Article
+ID 49113220
+A1 Powell,Susan,B.
+A1 Sejnowski,Terrence,J.
+A1 Behrens,M.,Margarita
+T1 Behavioral and neurochemical consequences of cortical oxidative stress on parvalbumin-interneuron maturation in rodent models of schizophrenia
+JF Neuropharmacology
+
+RT Journal Article
+ID 5260278
+A1 Movellan,Javier,R.
+A1 Sejnowski,Terrence,J.
+T1 Face Modeling by Information Maximization1
+
+RT Journal Article
+ID 5403820
+A1 Brown,Glen,D.
+A1 Sejnowski,Terrence,J.
+T1 Output Sign Switching in Molluscan Neurons is Mediated by a Novel Voltage Dependent Sodium Current
+
+RT Journal Article
+ID 2326824
+A1 Schwartz,Odelia
+A1 Movellan,Javier,R.
+A1 Wachtler,Thomas
+A1 Albright,Thomas,D.
+A1 Sejnowski,Terrence,J.
+T1 Spike count distributions, factorizability, and contextu al effects in area V1
+
+RT Journal Article
+ID 13182659
+A1 Liebmann,L.
+A1 Karst,H.
+A1 Sidiropoulou,K.
+A1 Gemert,N.,van
+A1 Meijer,O.,C.
+A1 Poirazi,P.
+A1 Joels,M.
+A1 Alvina,K.
+A1 Khodakhah,K.
+A1 Santos,S.,F.
+A1 Pierrot,N.
+A1 Morel,N.
+A1 Gailly,P.
+A1 Sindic,C.
+A1 Octave,N.
+A1 Volman,V.
+A1 Levine,H.
+A1 Ben-Jacob,E.
+A1 Sejnowski,T.,J.
+A1 Conductances,Dendritic
+T1 Amygdala and CA1 Region: Possible Role of Calcium Channel Subunits Differential Effects of Corticosterone on the Slow Afterhyperpolarization in the Basolateral
+
+RT Journal Article
+ID 11212809
+A1 Riesenhuber,Maximilian
+A1 Poggio,Tomaso
+A1 Cadieu,Charles
+A1 Kouh,Minjoon
+A1 Pasupathy,Anitha
+A1 Connor,Charles,E.
+A1 Schwartz,O.
+A1 Sejnowski,T.,J.
+A1 Dayan,P.
+A1 Yau,J.,M.
+A1 Fitzgerald,P.,J.
+A1 Hsiao,S.,S.
+A1 Habak,C.
+A1 Wilkinson,F.
+A1 Wilson,H.,R.
+T1 non-selective mechanisms Orientation tuning of curvature adaptation reveals both curvature-polarity-selective and
+
+RT Journal Article
+ID 12872726
+A1 Tiesinga,Paul,H.,E.
+A1 Jos,Jorge,V.
+A1 Sejnowski,Terrence,J.
+T1 Synchronization as a mechanism for attentional gain modulation
+
+RT Journal Article
+ID 13029049
+A1 Marks,Tim,K.
+A1 Mills,Debra,L.
+A1 Makeig,Scott
+A1 Westerfield,Marissa
+A1 Jung,Tzyy-Ping
+A1 Bellugi,Ursula
+A1 Sejnowski,Terrence,J.
+T1 IC A Provides New Insights into ERP Data: Face Processing in Williams Syndrome
+
+RT Journal Article
+ID 12056559
+A1 Eidelberg,David
+A1 Ghez,Claude
+A1 Krakauer,John,W.
+A1 Ghilardi,Maria-Felice
+A1 Mentis,Marc
+A1 Barnes,Anna
+A1 Cortex,Cereb
+A1 Bernier,P.-M.
+A1 Burle,B.
+A1 Vidal,F.
+A1 Hasbroucq,T.
+A1 Blouin,J.
+A1 Anguera,J.,A.
+A1 Seidler,R.,D.
+A1 Gehring,W.,J.
+A1 Tanaka,H.
+A1 Sejnowski,T.,J.
+A1 Mandelblat-Cerf,Y.
+A1 Paz,R.
+A1 Vaadia,E.
+T1 Different Brain Areas in Patients With Cerebellar Degeneration Adaptation to Visuomotor Rotation and Force Field Perturbation Is Correlated to
+
+RT Journal Article
+ID 3249939
+A1 Li,Shaolin
+A1 Sejnowski,Terrence,J.
+T1 Institute for Neural Computation
+
+RT Journal Article
+ID 12727633
+A1 Bartlett,Marian,Stewart
+A1 Sejnowski,Terrence,J.
+A1 Macleod,Donald,I.,A.
+A1 Cottrell,Gary
+A1 Dobkins,Karen
+A1 Pashler,Harold
+A1 Sereno,Martin
+T1 Cognitive Science and Psychology
+
+RT Journal Article
+ID 11922053
+A1 Pumain,René
+A1 Avoli,Massimo
+A1 Tancredi,Virginia
+A1 Biagini,Giuseppe
+A1 D'Antuono,Margherita
+A1 Louvel,Jacques
+A1 DESTEXHE,A.
+A1 SEJNOWSKI,T.,J.
+A1 Gervasi,N.
+A1 Monnier,Z.
+A1 Vincent,P.
+A1 Paupardin-Tritsch,D.
+A1 Hughes,S.,W.
+A1 Crunelli,V.
+T1 Spatial Association With Substrates and Inconsistencies Among mRNA, Protein Levels, Issues About the Physiological Functions of Prolyl Oligopeptidase Based on Its Discordant
+
+RT Journal Article
+ID 13059652
+A1 Cohen,Avis
+A1 Etienne-Cummings,Ralph
+A1 Hasler,Paul
+A1 Horiuchi,Tim
+A1 Indiveri,Giacomo
+A1 Shamma,Shihab
+A1 Schaik,Andre,van
+A1 Douglas,Rodney
+A1 Koch,Christof
+A1 Sejnowski,Terry
+T1 ENGINEERING
+
+RT Journal Article
+ID 75913
+A1 Eagleman,David,M.
+A1 J-M,Olivier
+A1 Coenen,D.
+A1 Mitsner,Vladimir
+A1 Bartol,Thomas,M.
+A1 Bell,Anthony,J.
+A1 Sejnowski,Terrence,J.
+T1 Cerebellar glomeruli: Does limited extracellular calcium implement a sparse encoding strategy?
+
+RT Journal Article
+ID 13078993
+A1 Tanaka,H.
+A1 Sejnowski,T.,J.
+A1 Krakauer,J.,W.
+A1 Pham,Q.-C.
+A1 Hicheur,H.
+A1 Mandelblat-Cerf,Y.
+A1 Paz,R.
+A1 Vaadia,E.
+A1 Thaler,L.
+A1 Goodale,M.,A.
+T1 During Visual and Nonvisual Locomotion in Humans On the Open-Loop and Feedback Processes That Underlie the Formation of Trajectories
+
+RT Journal Article
+ID 14200322
+A1 Hinton,Geoffrey,E.
+A1 Sejnowski,Terrence,J.
+T1 COOPERATIVE:COMPUTATION
+
+RT Journal Article
+ID 11390359
+A1 Mod,Rashmi,H.
+A1 Gantera,Paul
+A1 Sejnowski,Terrence,J.
+A1 Pines,Torrey
+T1 Models of frequency preferences of prefrontal cortical neurons
+
+RT Journal Article
+ID 11736010
+A1 McKeownr,Martin,J.
+A1 Makeig,Scott
+A1 Brown,Greg,G.
+A1 Jung,Tzyy-Ping
+A1 Kindermann,Sandra,S.
+A1 Sejnowski,Terrence,J.
+T1 Functional Magnetic Resonance Imaging (fMRI) Data Interpreted As Spatial Mixtures
+
+RT Journal Article
+ID 14238557
+A1 Abbott,Laurence,F.
+A1 Sejnowski,Terrence,J.
+A1 Mitchison,Timothy,J.
+A1 Fraden,Seth
+A1 Safinya,Cyrus
+T1 Biography and Publications Daniel J. Needleman Ph.D
+
+RT Journal Article
+ID 10114747
+A1 Sejnowski,Terrence,J.
+A1 Tesauro,Gerald
+T1 The Hebb Rule
+
+RT Journal Article
+ID 10906542
+A1 Tesauro,G.
+A1 Sejnowski,T.,J.
+T1 A Parallel Network Play Backgammon that Learns to
+
+RT Conference Proceedings
+ID 3433763
+A1 Movellan,Javier,R.
+A1 Wachtler,Thomas
+A1 Albright,Thomas,D.
+A1 Sejnowski,Terrence
+T1 Naive Bayesian Coding of Color in Primary Visual Cortex
+
+RT Journal Article
+ID 13001670
+A1 Smith,E.
+A1 Bartlett,M.
+A1 Braathen,B.
+A1 Sejnowski,T.
+T1 G. Littlewort-Fo r d, J. Hershey, I. Fasel, T. Marks
+
+RT Journal Article
+ID 10373562
+A1 Lint,Juan,K
+A1 Pawelzikt,Klaus
+A1 Ernst,Udo
+A1 Sejnowskis,Terrence,J
+T1 Irregular synchronous activity in stochastically-coupled networks of integrate-and-fire neurons
+
+RT Journal Article
+ID 10327009
+A1 Stiles,J.,R.
+A1 Ford,W.,C.
+A1 Pattillo,J.,M.
+A1 Deerinck,T.,E.
+A1 Bartol,T.,M.
+A1 Sejnowski,T.,J.
+T1 SPATIALLY REALISTIC COMPUTATIONAL PHYSIOLOGY: PAST, PRESENT AND FUTURE
+
+RT Journal Article
+ID 10112417
+A1 Tiesingaa,P.,H.,E.
+A1 Fellous,J.-M.
+A1 Josk,J.,V.
+A1 Sejnowski,T.,J.
+T1 Optimal information transfer in synchronized neocortical neurons
+
+RT Journal Article
+ID 13155398
+A1 Garcia-Perez,Elizabeth
+A1 Wesseling,John,F.
+A1 Volman,V.
+A1 Levine,H.
+A1 Ben-Jacob,E.
+A1 Sejnowski,T.,J.
+A1 Conductances,Dendritic
+T1 Exhaustive Use at Excitatory Hippocampal Synapses Kinetic Isolation of a Slowly Recovering Component of Short-Term Depression During
+
+RT Journal Article
+ID 5112536
+A1 CELLS,PYRAMIDAL
+A1 Bush,Paul,C.
+A1 Sejnowski,Terrence,J.
+T1 SIMULATIONS OF SYNAPTIC INTEGRATION IN NEOCORTICAL
+
+RT Book, Whole
+ID 48363240
+A1 Frost,William,N.
+A1 Wang,Jean
+A1 Brandon,Christopher,J.
+A1 Moore-Kochlacs,Caroline
+A1 Sejnowski,Terrence,J.
+A1 Hill,Evan,S.
+T1 Use of Fast-Responding Voltage-Sensitive Dyes for Large-Scale Recording of Neuronal Spiking Activity with Single-Cell Resolution
+
+RT Journal Article
+ID 4513857
+A1 Lee,Te-Won
+A1 Lewicki,Michael,S.
+A1 Sejnowski,Terrence,J.
+T1 ICA mixture models for image processing
+
+RT Journal Article
+ID 59805900
+A1 Tanaka,Hirokazu
+A1 Krakauer,John,W.
+A1 Sejnowski,Terrence,J.
+T1 Generalization and Multirate Models of Motor Adaptation
+JF Neural Computation
+SP 1
+OP 28
+
+RT Journal Article
+ID 10016377
+A1 Schwartz,Odelia
+A1 Movellan,Javier,R.
+A1 Wachtler,Thomas
+A1 Albright,Thomas,D.
+A1 Sejnowski,Terrence,J.
+T1 Spike count distributions, factorizability, and contextual e(ects in area V1
+
+RT Journal Article
+ID 10624859
+A1 Brown,Glen,D.
+A1 Yamada,Satoshi
+A1 Luebben,Hendrik
+A1 Sejnowski,Terry
+T1 Independent Component Analysis of Optical Recordings from the Seaslug Tritonia
+
+RT Journal Article
+ID 10114395
+A1 Arnold,Michael,P.
+A1 SejnowskiS,Terrence,J.
+A1 Jabrit,Marwan,A.
+T1 A hypothesis for parallel fiber coding in a cerebellar model of smooth pursuit eye movement
+
+RT Journal Article
+ID 10013434
+A1 Baden,Scott,B.
+A1 Sejnowskit,Terrence,J.
+A1 LaJolla,SanDiego
+T1 Toward Petascale Simulation of Cellular Microphysiology
+
+RT Journal Article
+ID 11032336
+A1 Bartlett,Marian,Stewart
+A1 Sejnowski,Terrence,J.
+T1 Independent components of face images: A represent at ion for face recognit ion
+
+RT Journal Article
+ID 14193880
+A1 Bartlett,Marian,Stewart
+A1 Sejnowski,Terrence,J.
+T1 oint invariant face recognition using endent component analysis and at tractor networks
+
+RT Journal Article
+ID 10475245
+A1 Murthy,Venkatesh,N.
+A1 Sejnowski,Terrence,J.
+A1 Stevens,Charles,F.
+T1 Dynamics of dendritic c ransients evoked by quanta1 release at excit tory hippocampal synapses
+
+RT Journal Article
+ID 4653418
+A1 Lan,Tian
+A1 Arnold,Michael
+A1 Sejnowski,Terrence
+A1 Jabri,Marwan
+T1 A biologically inspired computational model of the Block Copying Task
+
+RT Journal Article
+ID 5362249
+A1 Gray,Michael,S.
+A1 Sejnowski,Terrence,J.
+A1 Movellan,Javier,R.
+T1 Local Filter Selection Boosts Performance of Automatic Speechreading
+
+RT Journal Article
+ID 5403668
+A1 Zhang,Kechen
+A1 Sejnowski,Terrence,J.
+T1 A conjugate neural representation of visual objects in three dimensions
+
+RT Journal Article
+ID 11603102
+A1 Nadkarni,Suhita
+A1 Bartol,Thomas
+A1 Sejnowski,Terrence
+A1 Levine,Herbert
+T1 Are the docked vesicles at CA3CA1 synapses at the active zone functionally coupled?
+
+RT Journal Article
+ID 10114758
+A1 Fröhlich,Flavio
+A1 Timofeev,Igor
+A1 Sejnowski,Terrence,J.
+A1 Bazhenov,Maxim
+T1 and Epileptogenesis
+
+RT Journal Article
+ID 5707766
+A1 Lockery,Shawn,R.
+A1 Nowlan,Steven,J.
+A1 Sejnowski,Terrence,J.
+T1 MODELING CHEMOTAXIS IN THE
+
+RT Journal Article
+ID 10152660
+A1 Mishra,Jyoti
+A1 Fellous,Jean-Marc
+A1 Sejnowski,Terrence,J.
+T1 2006 Special Issue Selective attention through phase relationship of excitatory and inhibitory input synchrony in a model cortical neuron
+
+RT Journal Article
+ID 14197318
+A1 Ginzburg,Iris
+A1 Sejnowski,Terrence,J.
+A1 Torrey,N.
+T1 ynarnics of Rule Induction by Making Queries: Transition Between Strategies
+
+RT Journal Article
+ID 14193563
+A1 Mainen,Zachary,F.
+A1 Sejnowski,J.
+T1 Reliability ofSpikeTiminginNeocortical Neurons
+
+RT Book, Whole
+ID 5334178
+A1 Fellous,Jean-Marc
+A1 Sejnowski,Terrence,J.
+A1 Navratilova,Zaneta
+T1 Intrinsic and Network Contributions to Reverberatory Activity: Reactive Clamp and Modeling Studies
+
+RT Journal Article
+ID 5406844
+A1 Tang,A.,C.
+A1 Bartels,A.,M.
+A1 Sejnowski,T.,J.
+T1 Effects of Cholinergic Modulation on Spike Frequency Adaptation and Spike Timing
+
+RT Journal Article
+ID 5220146
+A1 SEJNOWSKI,TERRENCE,J.
+A1 NOWLAN,STEVEN,J.
+T1 Processing in Area MT of Primates
+
+RT Journal Article
+ID 11036212
+A1 Destexhe,A
+A1 Sejnowski,T,J
+T1 Sleep and Sleep States: Thalamic Regulation
+
+RT Journal Article
+ID 13067007
+A1 Suri,Roland,E.
+A1 Sejnowski,Terrence,J.
+T1 Hebbian learning
+
+RT Journal Article
+ID 5406821
+A1 Eisele,Michael
+A1 Sejnowski,Terry
+T1 Model-Based Reinforcement Learning by Pyramidal Neurons: Robustness of the Learning Rule
+
+RT Journal Article
+ID 10559198
+A1 Moldakarimov,S.,B.
+A1 Sejnowski,T.,J.
+T1 1.34 Neural Computation Theories of Learning
+
+RT Journal Article
+ID 12744923
+A1 Stiefel,Klaus,M.
+A1 Sejnowski,Terrence,J.
+T1 Running head: Dendritic structure and computational function
+
+RT Journal Article
+ID 10483838
+A1 Bartol,Thomas,M.
+A1 Sejnowski,Terrence,J.
+T1 multiphoton microscopy in turbid media
+
+RT Journal Article
+ID 5367418
+A1 SEJNOWSKI,TERRENCE,J.
+T1 Chapter 5 Synaptic Integration by Electro Diffusion in Dendritic Spines
+
+RT Journal Article
+ID 10225852
+A1 Sejnowski,Terrence,J.
+T1 The Book of Hebb Minireview
+
+RT Journal Article
+ID 10487853
+A1 Sejnowski,Terrence,J.
+T1 DISCUSSION : Biological Memory Models
+
+RT Journal Article
+ID 10774262
+A1 Sejnowski,Terrence,J.
+T1 Iters in the Brain
+
+RT Journal Article
+ID 12738497
+A1 Sejnowski,Terrence,J.
+T1 Quantifyingneighbourhoodpreservation intopographicmappings
+
+RT Journal Article
+ID 12786454
+A1 Sejnowski,Terry
+T1 TALKS & EVENTS OF INTEREST
+
+RT Journal Article
+ID 12816200
+A1 Sejnowski,Terrence,J.
+T1 IndependentComponentAnalysisUsinganExtendedInfomax AlgorithmforMixedSubgaussianandSupergaussianSources
+
+RT Journal Article
+ID 13046914
+A1 Sejnowski,J.
+T1 Networks

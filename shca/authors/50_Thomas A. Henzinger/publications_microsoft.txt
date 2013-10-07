@@ -1,0 +1,4072 @@
+RT Book, Whole
+ID 39279298
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+A1 Jobstmann,Barbara
+A1 Singh,Rohit
+YR 2011
+T1 QUASY: Quantitative Synthesis Tool
+SP 267
+OP 271
+
+RT Conference Proceedings
+ID 51077612
+A1 Bloem,Roderick
+A1 Chatterjee,Krishnendu
+A1 Greimel,Karin
+A1 Henzinger,Thomas,A.
+A1 Jobstmann,Barbara
+YR 2011
+T1 Specification-centered robustness
+
+RT Book, Whole
+ID 39314953
+A1 Cerny,Pavol
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+A1 Radhakrishna,Arjun
+A1 Singh,Rohit
+YR 2011
+T1 Quantitative Synthesis for Concurrent Programs
+JF Computing Research Repository
+VO abs/1104.4
+
+RT Conference Proceedings
+ID 51107381
+A1 Cerný,Pavol
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+YR 2011
+T1 The Complexity of Quantitative Information Flow Problems
+SP 205
+OP 217
+
+RT Journal Article
+ID 56912323
+A1 Fisher,Jasmin
+A1 Harel,David
+A1 Henzinger,Thomas,A.
+YR 2011
+T1 Biology as reactivity
+JF Communications of The ACM
+SP 72
+OP 82
+
+RT Journal Article
+ID 56905693
+A1 Tripakis,Stavros
+A1 Lickly,Ben
+A1 Henzinger,Thomas,A.
+A1 Lee,Edward,A.
+YR 2011
+T1 A Theory of Synchronous Relational Interfaces
+JF ACM Transactions on Programming Languages and Systems
+SP 1
+OP 41
+
+RT Book, Whole
+ID 48852501
+A1 Fisher,Jasmin
+A1 Henzinger,Thomas,A.
+A1 Nickovic,Dejan
+A1 Piterman,Nir
+A1 Singh,Anmol,V.
+A1 Vardi,Moshe,Y.
+YR 2011
+T1 Dynamic Reactive Modules
+
+RT Conference Proceedings
+ID 51091629
+A1 Boker,Udi
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+A1 Kupferman,Orna
+YR 2011
+T1 Temporal Specifications with Accumulative Values
+SP 43
+OP 52
+
+RT Journal Article
+ID 5063148
+A1 Chatterjee,Krishnendu
+A1 Alfaro,Luca,De
+A1 Henzinger,Thomas,A.
+YR 2011
+T1 Qualitative concurrent parity games
+JF ACM Transactions on Computational Logic
+SP 1
+OP 51
+
+RT Conference Proceedings
+ID 39229258
+A1 Henzinger,Thomas,A.
+A1 Singh,Vasu
+A1 Wies,Thomas
+A1 Zufferey,Damien
+YR 2011
+T1 Scheduling large jobs by abstraction refinement
+SP 329
+OP 342
+
+RT Journal Article
+ID 39329561
+A1 Didier,Frédéric
+A1 Henzinger,Thomas,A.
+A1 Mateescu,Maria
+A1 Wolf,Verena
+YR 2011
+T1 Approximation of event probabilities in noisy cellular processes
+JF Theoretical Computer Science
+VO 412
+SP 2128
+OP 2141
+IS 21
+
+RT Conference Proceedings
+ID 51145791
+A1 Halalai,Raluca
+A1 Henzinger,Thomas,A.
+A1 Singh,Vasu
+YR 2011
+T1 Quantitative Evaluation of BFT Protocols
+
+RT Journal Article
+ID 55188699
+A1 Beyer,Dirk
+A1 Henzinger,Thomas,A.
+A1 Keremoglu,M.,Erkan
+A1 Wendler,Philipp
+YR 2011
+T1 Conditional Model Checking
+
+RT Journal Article
+ID 39314571
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+A1 Tracol,Mathieu
+YR 2011
+T1 The Decidability Frontier for Probabilistic Automata on Infinite Words
+JF Computing Research Repository
+VO abs/1104.0
+
+RT Journal Article
+ID 56917261
+A1 Henzinger,Thomas,A.
+A1 Mateescu,Maria
+YR 2011
+T1 Propagation models for computing biochemical reaction networks
+SP 1
+OP 3
+
+RT Journal Article
+ID 51154784
+A1 Cerny,Pavol
+A1 Henzinger,Thomas,A.
+YR 2011
+T1 From Boolean to quantitative synthesis
+SP 149
+OP 154
+
+RT Journal Article
+ID 5420099
+A1 Ghosal,Arkadeb
+A1 Iercan,Daniel
+A1 Kirsch,Christoph,M.
+A1 Henzinger,Thomas,A.
+A1 Sangiovanni-Vincentelli,Alberto
+YR 2010
+T1 Separate compilation of hierarchical real-time programs into linear-bounded Embedded Machine code
+JF Science of Computer Programming
+
+RT Book, Whole
+ID 13290185
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+A1 Jobstmann,Barbara
+A1 Singh,Rohit
+YR 2010
+T1 Measuring and Synthesizing Systems in Probabilistic Environments
+SP 380
+OP 395
+
+RT Book, Whole
+ID 13329162
+A1 Chatterjee,Krishnendu
+A1 Doyen,Laurent
+A1 Edelsbrunner,Herbert
+A1 Henzinger,Thomas,A.
+A1 Rannou,Philippe
+YR 2010
+T1 Mean-payoff Automaton Expressions
+JF Computing Research Repository
+VO abs/1006.1
+SP 269
+OP 283
+
+RT Conference Proceedings
+ID 50936140
+A1 Henzinger,Thomas,A.
+A1 Singh,Anmol,V.
+A1 Singh,Vasu
+A1 Wies,Thomas
+A1 Zufferey,Damien
+YR 2010
+T1 FlexPRICE: Flexible Provisioning of Resources in a Cloud Environment
+
+RT Journal Article
+ID 13494627
+A1 Chatterjee,Krishnendu
+A1 Doyen,Laurent
+A1 Henzinger,Thomas,A.
+A1 Raskin,Jean-Francois
+YR 2010
+T1 Generalized Mean-payoff and Energy Games
+JF Computing Research Repository
+VO abs/1007.1
+SP 505
+OP 516
+
+RT Book, Whole
+ID 6600149
+A1 Wies,Thomas
+A1 Zufferey,Damien
+A1 Henzinger,Thomas,A.
+YR 2010
+T1 Forward Analysis of Depth-Bounded Processes
+SP 94
+OP 108
+
+RT Book, Whole
+ID 6453082
+A1 Henzinger,Thomas,A.
+A1 Hottelier,Thibaud
+A1 Kovács,Laura
+A1 Voronkov,Andrei
+YR 2010
+T1 Invariant and Type Inference for Matrices
+SP 163
+OP 179
+
+RT Journal Article
+ID 14463053
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+A1 Piterman,Nir
+YR 2010
+T1 Strategy logic
+JF Information and Computation/information and Control
+VO 208
+SP 677
+OP 693
+IS 6
+
+RT Journal Article
+ID 6765713
+A1 Henzinger,Thomas,A.
+A1 Mateescu,Maria
+A1 Mikeev,Linar
+A1 Wolf,Verena
+YR 2010
+T1 Hybrid Numerical Solution of the Chemical Master Equation
+JF Computing Research Repository
+VO abs/1005.0
+SP 55
+OP 65
+
+RT Book, Whole
+ID 13328985
+A1 Chatterjee,Krishnendu
+A1 Doyen,Laurent
+A1 Gimbert,Hugo
+A1 Henzinger,Thomas,A.
+YR 2010
+T1 Randomness for Free
+JF Computing Research Repository
+VO abs/1006.0
+SP 246
+OP 257
+
+RT Journal Article
+ID 14425437
+A1 Chatterjee,Krishnendu
+A1 Doyen,Laurent
+A1 Henzinger,Thomas,A.
+YR 2010
+T1 Quantitative languages
+JF ACM Transactions on Computational Logic
+VO 11
+SP 1
+OP 38
+IS 4
+
+RT Journal Article
+ID 27646185
+A1 Chatterjee,Krishnendu
+A1 Doyen,Laurent
+A1 Henzinger,Thomas,A
+YR 2010
+T1 Expressiveness and Closure Properties for Quantitative Languages
+JF Logical Methods in Computer Science
+
+RT Conference Proceedings
+ID 39228996
+A1 Henzinger,Thomas,A.
+A1 Singh,Anmol,V.
+A1 Singh,Vasu
+A1 Wies,Thomas
+A1 Zufferey,Damien
+YR 2010
+T1 A marketplace for cloud resources
+SP 1
+OP 8
+
+RT Book, Whole
+ID 13290212
+A1 Bloem,Roderick
+A1 Chatterjee,Krishnendu
+A1 Greimel,Karin
+A1 Henzinger,Thomas,A.
+A1 Jobstmann,Barbara
+YR 2010
+T1 Robustness in the Presence of Liveness
+SP 410
+OP 424
+
+RT Book, Whole
+ID 14000630
+A1 Henzinger,Thomas,A.
+A1 Hottelier,Thibaud
+A1 Kovács,Laura
+A1 Rybalchenko,Andrey
+YR 2010
+T1 Aligators for Arrays (Tool Paper)
+SP 348
+OP 356
+
+RT Conference Proceedings
+ID 6559445
+A1 Henzinger,Thomas,A.
+YR 2010
+T1 From Boolean to quantitative notions of correctness
+SP 157
+OP 158
+
+RT Journal Article
+ID 15231339
+A1 Guerraoui,Rachid
+A1 Henzinger,Thomas,A.
+A1 Singh,Vasu
+YR 2010
+T1 Model checking transactional memories
+JF Distributed Computing
+VO 22
+SP 129
+OP 145
+IS 3
+
+RT Conference Proceedings
+ID 6287780
+A1 Guerraoui,Rachid
+A1 Henzinger,Thomas,A.
+A1 Kapalka,Michal
+A1 Singh,Vasu
+YR 2010
+T1 Transactions in the jungle
+SP 263
+OP 272
+
+RT Book, Whole
+ID 13990009
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+YR 2010
+T1 Probabilistic Automata on Infinite Words: Decidability and Undecidability Results
+SP 1
+OP 16
+
+RT Conference Proceedings
+ID 14019331
+A1 Doyen,Laurent
+A1 Henzinger,Thomas,A.
+A1 Legay,Axel
+A1 Nickovic,Dejan
+YR 2010
+T1 Robustness of Sequential Circuits
+SP 77
+OP 84
+
+RT Book, Whole
+ID 13758485
+A1 Cerný,Pavol
+A1 Henzinger,Thomas,A.
+A1 Radhakrishna,Arjun
+YR 2010
+T1 Simulation Distances
+SP 253
+OP 268
+
+RT Conference Proceedings
+ID 13328293
+A1 Didier,Frederic
+A1 Henzinger,Thomas,A.
+A1 Mateescu,Maria
+A1 Wolf,Verena
+YR 2010
+T1 SABRE: A Tool for Stochastic Analysis of Biochemical Reaction Networks
+VO abs/1005.2
+SP 193
+OP 194
+
+RT Journal Article
+ID 13323981
+A1 Godhal,Yashdeep
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+YR 2010
+T1 Synthesis of AMBA AHB from Formal Specification
+JF Computing Research Repository
+VO abs/1001.2
+
+RT Journal Article
+ID 14463048
+A1 Berwanger,Dietmar
+A1 Chatterjee,Krishnendu
+A1 Wulf,Martin,De
+A1 Doyen,Laurent
+A1 Henzinger,Thomas,A.
+YR 2010
+T1 Strategy construction for parity games with imperfect information
+JF Information and Computation/information and Control
+VO 208
+SP 1206
+OP 1220
+IS 10
+
+RT Book, Whole
+ID 13290288
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+A1 Jobstmann,Barbara
+A1 Radhakrishna,Arjun
+YR 2010
+T1 Gist: A Solver for Probabilistic Games
+SP 665
+OP 669
+
+RT Journal Article
+ID 13083470
+A1 Wolf,Verena
+A1 Goel,Rushil
+A1 Mateescu,Maria
+A1 Henzinger,Thomas,A.
+YR 2010
+T1 Solving the chemical master equation using sliding windows
+JF BMC Systems Biology
+VO 4
+SP 42
+OP 19
+IS 1
+
+RT Book, Whole
+ID 39275048
+A1 Blanc,Régis
+A1 Henzinger,Thomas,A.
+A1 Hottelier,Thibaud
+A1 Kovács,Laura
+YR 2010
+T1 ABC: Algebraic Bound Computation for Loops
+SP 103
+OP 118
+
+RT Journal Article
+ID 27632983
+A1 Feret,Jerome
+A1 Henzinger,Thomas,A.
+A1 Koeppl,Heinz
+A1 Petrov,Tatjana
+YR 2010
+T1 Lumpability Abstractions of Rule-based Systems
+JF Electronic Proceedings in Theoretical Computer Science
+SP 142
+OP 161
+
+RT Journal Article
+ID 13326800
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+A1 Jobstmann,Barbara
+A1 Singh,Rohit
+YR 2010
+T1 Measuring and Synthesizing Systems in Probabilistic Environments
+JF Computing Research Repository
+VO abs/1004.0
+
+RT Journal Article
+ID 13326987
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+A1 Jobstmann,Barbara
+A1 Radhakrishna,Arjun
+YR 2010
+T1 GIST: A Solver for Probabilistic Games
+JF Computing Research Repository
+VO abs/1004.2
+
+RT Journal Article
+ID 55641499
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+A1 Prabhu,Vinayak,S.
+YR 2010
+T1 Timed Parity Games: Complexity and Robustness
+
+RT Book, Whole
+ID 13286214
+A1 Beyer,Dirk
+A1 Henzinger,Thomas,A.
+A1 Thoduloz,Grgory
+A1 Zufferey,Damien
+YR 2010
+T1 Shape Refinement through Explicit Heap Analysis
+SP 263
+OP 277
+
+RT Journal Article
+ID 39313618
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+A1 Prabhu,Vinayak,S.
+YR 2010
+T1 Timed Parity Games: Complexity and Robustness
+JF Computing Research Repository
+VO abs/1011.0
+
+RT Book, Whole
+ID 13286031
+A1 Cerný,Pavol
+A1 Henzinger,Thomas,A.
+A1 Radhakrishna,Arjun
+YR 2010
+T1 Quantitative Simulation Games
+SP 42
+OP 60
+
+RT Journal Article
+ID 14411401
+A1 Henzinger,Thomas,A.
+YR 2010
+T1 From Boolean to quantitative notions of correctness
+JF Sigplan Notices
+VO 45
+SP 157
+OP 158
+IS 1
+
+RT Journal Article
+ID 54971300
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+YR 2010
+T1 Formal Modeling and Analysis of Timed Systems
+
+RT Book, Whole
+ID 4702119
+A1 Bloem,Roderick
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+A1 Jobstmann,Barbara
+YR 2009
+T1 Better Quality in Synthesis through Quantitative Objectives
+JF Computing Research Repository
+VO abs/0904.2
+SP 140
+OP 156
+
+RT Conference Proceedings
+ID 50813554
+A1 Didier,F.
+A1 Henzinger,T.,A.
+A1 Mateescu,M.
+A1 Wolf,V.
+YR 2009
+T1 Fast Adaptive Uniformization of the Chemical Master Equation
+
+RT Book, Whole
+ID 4702068
+A1 Henzinger,Thomas,A.
+A1 Mateescu,Maria
+A1 Wolf,Verena
+YR 2009
+T1 Sliding Window Abstraction for Infinite Markov Chains
+SP 337
+OP 352
+
+RT Book, Whole
+ID 4732272
+A1 Berwanger,Dietmar
+A1 Chatterjee,Krishnendu
+A1 Wulf,Martin,De
+A1 Doyen,Laurent
+A1 Henzinger,Thomas,A.
+YR 2009
+T1 Alpaga: A Tool for Solving Parity Games with Imperfect Information
+JF Computing Research Repository
+VO abs/0901.4
+SP 58
+OP 61
+
+RT Journal Article
+ID 4758494
+A1 Chatterjee,Krishnendu
+A1 Doyen,Laurent
+A1 Henzinger,Thomas,A.
+YR 2009
+T1 Expressiveness and Closure Properties for Quantitative Languages
+JF Computing Research Repository
+VO abs/0905.2
+SP 199
+OP 208
+IS 3
+
+RT Conference Proceedings
+ID 6558825
+A1 Bloem,Roderick
+A1 Greimel,Karin
+A1 Henzinger,Thomas,A.
+A1 Jobstmann,Barbara
+YR 2009
+T1 Synthesizing robust systems
+SP 85
+OP 92
+
+RT Book, Whole
+ID 6035179
+A1 Chatterjee,Krishnendu
+A1 Doyen,Laurent
+A1 Henzinger,Thomas,A.
+YR 2009
+T1 Alternating Weighted Automata
+SP 3
+OP 13
+
+RT Conference Proceedings
+ID 6034240
+A1 Tripakis,Stavros
+A1 Lickly,Ben
+A1 Henzinger,Thomas,A.
+A1 Lee,Edward,A.
+YR 2009
+T1 On relational interfaces
+SP 67
+OP 76
+
+RT Journal Article
+ID 6928184
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+A1 Horn,Florian
+YR 2009
+T1 Finitary winning in ω-regular games
+JF ACM Transactions on Computational Logic
+SP 1
+OP 27
+
+RT Book, Whole
+ID 4702086
+A1 Guerraoui,Rachid
+A1 Henzinger,Thomas,A.
+A1 Singh,Vasu
+YR 2009
+T1 Software Transactional Memory on Relaxed Memory Models
+SP 321
+OP 336
+
+RT Book, Whole
+ID 6031166
+A1 Chatterjee,Krishnendu
+A1 Doyen,Laurent
+A1 Henzinger,Thomas,A.
+YR 2009
+T1 Probabilistic Weighted Automata
+JF Computing Research Repository
+VO abs/0909.1
+SP 244
+OP 258
+
+RT Book, Whole
+ID 6030854
+A1 Didier,Frédéric
+A1 Henzinger,Thomas,A.
+A1 Mateescu,Maria
+A1 Wolf,Verena
+YR 2009
+T1 Approximation of Event Probabilities in Noisy Cellular Processes
+SP 173
+OP 188
+
+RT Book, Whole
+ID 6070277
+A1 Chatterjee,Krishnendu
+A1 Doyen,Laurent
+A1 Henzinger,Thomas,A.
+YR 2009
+T1 Qualitative Analysis of Partially-observable Markov Decision Processes
+JF Computing Research Repository
+VO abs/0909.1
+SP 258
+OP 269
+
+RT Book, Whole
+ID 5957851
+A1 Henzinger,Thomas,A.
+A1 Jobstmann,Barbara
+A1 Wolf,Verena
+YR 2009
+T1 Formalisms for Specifying Markovian Population Models
+SP 3
+OP 23
+
+RT Conference Proceedings
+ID 4731630
+A1 Chatterjee,Krishnendu
+A1 Alfaro,Luca,De
+A1 Henzinger,Thomas,A.
+YR 2009
+T1 Termination criteria for solving concurrent safety and reachability games
+SP 197
+OP 206
+
+RT Conference Proceedings
+ID 6559565
+A1 Henzinger,Thomas,A.
+A1 Kirsch,Christoph,M.
+A1 Marques,Eduardo,R.,B.
+A1 Sokolova,Ana
+YR 2009
+T1 Distributed, Modular HTL
+SP 171
+OP 180
+
+RT Book, Whole
+ID 4929571
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+A1 Horn,Florian
+YR 2009
+T1 Stochastic Games with Finitary Objectives
+SP 34
+OP 54
+
+RT Book, Whole
+ID 6038422
+A1 Chatterjee,Krishnendu
+A1 Doyen,Laurent
+A1 Henzinger,Thomas,A.
+YR 2009
+T1 A Survey of Stochastic Games with Limsup and Liminf Objectives
+SP 1
+OP 15
+
+RT Journal Article
+ID 6074493
+A1 Bryant,Randal,E.
+A1 Grumberg,Orna
+A1 Henzinger,Thomas,A.
+A1 Vardi,Moshe,Y.
+YR 2009
+T1 The 2008 CAV Award citation
+JF Formal Methods in System Design
+VO 35
+SP 4
+OP 5
+IS 1
+
+RT Book, Whole
+ID 4247206
+A1 Chatterjee,Krishnendu
+A1 Doyen,Laurent
+A1 Henzinger,Thomas,A.
+YR 2008
+T1 Quantitative Languages
+JF ACM Transactions on Computational Logic
+VO 11
+SP 385
+OP 400
+IS 4
+
+RT Journal Article
+ID 4308680
+A1 Guerraoui,Rachid
+A1 Henzinger,Thomas,A.
+A1 Jobstmann,Barbara
+A1 Singh,Vasu
+YR 2008
+T1 Model checking transactional memories
+JF Distributed Computing
+VO 22
+SP 372
+OP 382
+IS 3
+
+RT Conference Proceedings
+ID 4142191
+A1 Gupta,Ashutosh
+A1 Henzinger,Thomas,A.
+A1 Majumdar,Rupak
+A1 Rybalchenko,Andrey
+A1 Xu,Ru-gang
+YR 2008
+T1 Proving non-termination
+SP 147
+OP 158
+
+RT Conference Proceedings
+ID 4255444
+A1 Doyen,Laurent
+A1 Henzinger,Thomas,A.
+A1 Jobstmann,Barbara
+A1 Petrov,Tatjana
+YR 2008
+T1 Interface theories with component reuse
+SP 79
+OP 88
+
+RT Book, Whole
+ID 4245694
+A1 Berwanger,Dietmar
+A1 Chatterjee,Krishnendu
+A1 Doyen,Laurent
+A1 Henzinger,Thomas,A.
+A1 Raje,Sangram
+YR 2008
+T1 Strategy Construction for Parity Games with Imperfect Information
+SP 325
+OP 339
+
+RT Conference Proceedings
+ID 4296261
+A1 Beyer,Dirk
+A1 Henzinger,Thomas,A.
+A1 Thoduloz,Grgory
+YR 2008
+T1 Program Analysis with Dynamic Precision Adjustment
+SP 29
+OP 38
+
+RT Conference Proceedings
+ID 4250180
+A1 Chatterjee,Krishnendu
+A1 Ghosal,Arkadeb
+A1 Henzinger,Thomas,A.
+A1 Iercan,Daniel,T.
+A1 Kirsch,Christoph,M.
+A1 Pinello,Claudio
+A1 Sangiovanni-vincentelli,Alberto,L.
+YR 2008
+T1 Logical Reliability of Interacting Real-Time Tasks
+SP 909
+OP 914
+
+RT Book, Whole
+ID 4324221
+A1 Guerraoui,Rachid
+A1 Henzinger,Thomas,A.
+A1 Singh,Vasu
+YR 2008
+T1 Permissiveness in Transactional Memories
+SP 305
+OP 319
+
+RT Book, Whole
+ID 4299145
+A1 Henzinger,Thomas,A.
+A1 Hottelier,Thibaud
+A1 Kovács,Laura
+YR 2008
+T1 Valigator: A Verification Tool with Bound and Invariant Generation
+SP 333
+OP 342
+
+RT Book, Whole
+ID 4245693
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+A1 Jobstmann,Barbara
+YR 2008
+T1 Environment Assumptions for Synthesis
+JF Computing Research Repository
+VO abs/0805.4
+SP 147
+OP 161
+
+RT Book, Whole
+ID 4319613
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+YR 2008
+T1 Value Iteration
+SP 107
+OP 138
+
+RT Book, Whole
+ID 4245692
+A1 Guerraoui,Rachid
+A1 Henzinger,Thomas,A.
+A1 Singh,Vasu
+YR 2008
+T1 Completeness and Nondeterminism in Model Checking Transactional Memories
+SP 21
+OP 35
+
+RT Journal Article
+ID 5999146
+A1 Henzinger,Thomas,A.
+YR 2008
+T1 Two challenges in embedded systems design: predictability and robustness
+JF Philosophical Transactions of The Royal Society A: Mathematical, Physical and Engineering Sciences
+VO 366
+SP 3727
+OP 3736
+IS 1881
+
+RT Journal Article
+ID 4372860
+A1 Chatterjee,Krishnendu
+A1 Majumdar,Rupak
+A1 Henzinger,Thomas,A.
+YR 2008
+T1 Stochastic Limit-Average Games are in EXPTIME
+JF Computing Research Repository
+VO abs/0805.2
+
+RT Journal Article
+ID 4389738
+A1 Doyen,Laurent
+A1 Henzinger,Thomas,A.
+A1 Raskin,Jean-françois
+YR 2008
+T1 Equivalence of Labeled Markov Chains
+JF International Journal of Foundations of Computer Science
+VO 19
+SP 549
+OP 563
+IS 3
+
+RT Journal Article
+ID 4393030
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+YR 2008
+T1 Reduction of stochastic parity to stochastic mean-payoff games
+JF Information Processing Letters
+VO 106
+SP 1
+OP 7
+IS 1
+
+RT Book, Whole
+ID 4266784
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+A1 Prabhu,Vinayak,S.
+YR 2008
+T1 Trading Infinite Memory for Uniform Randomness in Timed Games
+SP 87
+OP 100
+
+RT Book, Whole
+ID 4348397
+A1 Fisher,Jasmin
+A1 Henzinger,Thomas,A.
+A1 Mateescu,Maria
+A1 Piterman,Nir
+YR 2008
+T1 Bounded Asynchrony: Concurrency for Modeling Cell-Cell Interactions
+SP 17
+OP 32
+
+RT Book, Whole
+ID 4259677
+A1 Chatterjee,Krishnendu
+A1 Sen,Koushik
+A1 Henzinger,Thomas,A.
+YR 2008
+T1 Model-Checking omega-Regular Properties of Interval Markov Chains
+SP 302
+OP 317
+
+RT Journal Article
+ID 4373917
+A1 Chatterjee,Krishnendu
+A1 Alfaro,Luca,De
+A1 Henzinger,Thomas,A.
+YR 2008
+T1 Termination Criteria for Solving Concurrent Safety and Reachability Games
+JF Computing Research Repository
+VO abs/0809.4
+
+RT Journal Article
+ID 4372859
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+A1 Piterman,Nir
+YR 2008
+T1 Algorithms for Büchi Games
+JF Computing Research Repository
+VO abs/0805.2
+
+RT Journal Article
+ID 4372588
+A1 Chatterjee,Krishnendu
+A1 Alfaro,Luca,De
+A1 Henzinger,Thomas,A.
+YR 2008
+T1 Strategy Improvement for Concurrent Safety Games
+JF Computing Research Repository
+VO abs/0804.4
+
+RT Journal Article
+ID 4373774
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+YR 2008
+T1 Probabilistic Systems with LimSup and LimInf Objectives
+JF Computing Research Repository
+VO abs/0809.1
+
+RT Journal Article
+ID 34396678
+A1 Chatterjee,Krishnendu
+A1 Majumdar,Rupak
+A1 Henzinger,Thomas,A.
+YR 2008
+T1 Stochastic limit-average games are in EXPTIME
+JF International Journal of Game Theory
+VO 37
+SP 219
+OP 234
+IS 2
+
+RT Book, Whole
+ID 4259563
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+A1 Prabhu,Vinayak,S.
+YR 2008
+T1 Timed Parity Games: Complexity and Robustness
+JF Computing Research Repository
+VO abs/0807.1
+SP 124
+OP 140
+
+RT Book, Whole
+ID 4266791
+A1 Chatterjee,Krishnendu
+A1 Majumdar,Rupak
+A1 Henzinger,Thomas,A.
+YR 2008
+T1 Controller Synthesis with Budget Constraints
+SP 72
+OP 86
+
+RT Journal Article
+ID 39228143
+A1 Chatterjee,Krishnendu
+A1 Ghosal,Arkadeb
+A1 Henzinger,Thomas,A.
+A1 Iercan,Daniel
+A1 Kirsch,Christoph,M.
+A1 Pinello,Claudio
+A1 Sangiovanni-Vincentelli,Alberto
+YR 2008
+T1 Logical reliability of interacting real-time tasks
+SP 909
+OP 914
+
+RT Journal Article
+ID 14411006
+A1 Gupta,Ashutosh
+A1 Henzinger,Thomas,A.
+A1 Majumdar,Rupak
+A1 Rybalchenko,Andrey
+A1 Xu,Ru-Gang
+YR 2008
+T1 Proving non-termination
+JF Sigplan Notices
+VO 43
+SP 147
+OP 158
+IS 1
+
+RT Journal Article
+ID 14410945
+A1 Guerraoui,Rachid
+A1 Henzinger,Thomas,A.
+A1 Jobstmann,Barbara
+A1 Singh,Vasu
+YR 2008
+T1 Model checking transactional memories
+JF Sigplan Notices
+VO 43
+SP 372
+OP 382
+IS 6
+
+RT Journal Article
+ID 61400194
+A1 Fisher,J.
+A1 Henzinger,T.,A.
+A1 Mateescu,M.
+A1 Piterman,N.
+YR 2008
+T1 Bounded Asynchrony: A biologically-inspired notion of concurrency
+
+RT Journal Article
+ID 55110759
+A1 Chatterjee,Krishnendu
+A1 Alfaro,Luca,de
+A1 Henzinger,Thomas,A.
+YR 2008
+T1 Strategy Improvement for Concurrent Safety Games
+
+RT Journal Article
+ID 56432619
+A1 Chatterjee,Krishnendu
+A1 Alfaro,Luca,de
+A1 Henzinger,Thomas,A.
+YR 2008
+T1 Termination Criteria for Solving Concurrent Safety and Reachability Games
+
+RT Journal Article
+ID 54138847
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+A1 Piterman,Nir
+YR 2008
+T1 Algorithms for B\
+
+RT Journal Article
+ID 52298690
+A1 Henzinger,Thomas,A.
+YR 2008
+T1 Two challenges in embedded systems design: predictability and robustness
+JF Philosophical Transactions of The Royal Society B: Biological Sciences
+VO 366
+SP 3727
+OP 3736
+
+RT Journal Article
+ID 61400235
+A1 J,Fisher
+A1 Henzinger,T.,A.
+YR 2008
+T1 Dichotomies between computational and mathematical models (Correspondence)
+
+RT Journal Article
+ID 37072240
+A1 Fisher,Jasmin
+A1 Henzinger,Thomas,A
+YR 2007
+T1 Executable cell biology
+JF Nature Biotechnology
+VO 25
+SP 1239
+OP 1249
+IS 11
+
+RT Journal Article
+ID 4365305
+A1 Henzinger,Thomas,A.
+A1 Sifakis,Joseph
+YR 2007
+T1 The Discipline of Embedded Systems Design
+JF IEEE Computer
+VO 40
+SP 32
+OP 40
+IS 10
+
+RT Journal Article
+ID 4558768
+A1 Beyer,Dirk
+A1 Henzinger,Thomas,A.
+A1 Jhala,Ranjit
+A1 Majumdar,Rupak
+YR 2007
+T1 The Software Model Checker Blast: Applications to  Software Engineering
+JF International Journal on Software Tools for Technology Transfer
+VO 9
+
+RT Journal Article
+ID 4409675
+A1 Beyer,Dirk
+A1 Henzinger,Thomas,A.
+A1 Jhala,Ranjit
+A1 Majumdar,Rupak
+YR 2007
+T1 The software model checker Blast
+JF International Journal on Software Tools for Technology Transfer
+VO 9
+SP 505
+OP 525
+IS 5-6
+
+RT Conference Proceedings
+ID 2467449
+A1 Beyer,Dirk
+A1 Henzinger,Thomas,A.
+A1 Majumdar,Rupak
+A1 Rybalchenko,Andrey
+YR 2007
+T1 Path Invariants
+SP 300
+OP 309
+
+RT Book, Whole
+ID 4140429
+A1 Beyer,Dirk
+A1 Henzinger,Thomas,A.
+A1 Majumdar,Rupak
+A1 Rybalchenko,Andrey
+YR 2007
+T1 Invariant Synthesis for Combined Theories
+SP 378
+OP 394
+
+RT Journal Article
+ID 4115384
+A1 Fisher,Jasmin
+A1 Piterman,Nir
+A1 Hajnal,Alex
+A1 Henzinger,Thomas,A.
+YR 2007
+T1 Predictive Modeling of Signaling Crosstalk during C. elegans Vulval Development
+JF PLOS Computational Biology
+VO 3
+IS 5
+
+RT Book, Whole
+ID 4240322
+A1 Beyer,Dirk
+A1 Henzinger,Thomas,A.
+A1 Thoduloz,Grgory
+YR 2007
+T1 Configurable Software Verification: Concretizing the  Convergence of Model Checking and Program Analysis
+SP 504
+OP 518
+
+RT Journal Article
+ID 12773518
+A1 Schaub,Marc,A
+A1 Henzinger,Thomas,A
+A1 Fisher,Jasmin
+YR 2007
+T1 Qualitative networks: a symbolic approach to analyze biological signaling networks
+JF BMC Systems Biology
+VO 1
+SP 4
+OP 21
+IS 1
+
+RT Journal Article
+ID 4411478
+A1 Alfaro,Luca,De
+A1 Henzinger,Thomas,A.
+A1 Kupferman,Orna
+YR 2007
+T1 Concurrent reachability games
+JF Theoretical Computer Science
+VO 386
+SP 188
+OP 217
+IS 3
+
+RT Journal Article
+ID 4367602
+A1 Chatterjee,Krishnendu
+A1 Doyen,Laurent
+A1 Henzinger,Thomas,A.
+A1 Raskin,Jean-françois
+A1 Ramanujam,R.
+YR 2007
+T1 Algorithms for Omega-Regular Games with Imperfect Information
+JF Logical Methods in Computer Science
+VO abs/0706.2
+IS 3
+
+RT Book, Whole
+ID 4245658
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+A1 Piterman,Nir
+YR 2007
+T1 Strategy Logic
+SP 59
+OP 73
+
+RT Book, Whole
+ID 2474168
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+YR 2007
+T1 Assume-Guarantee Synthesis
+SP 261
+OP 275
+
+RT Book, Whole
+ID 4240324
+A1 Beyer,Dirk
+A1 Henzinger,Thomas,A.
+A1 Singh,Vasu
+YR 2007
+T1 Algorithms for Interface Synthesis
+SP 4
+OP 19
+
+RT Book, Whole
+ID 4268396
+A1 Brihaye,Thomas
+A1 Henzinger,Thomas,A.
+A1 Prabhu,Vinayak,S.
+A1 Raskin,Jean-françois
+YR 2007
+T1 Minimum-Time Reachability in Timed Games
+SP 825
+OP 837
+
+RT Journal Article
+ID 4416371
+A1 Henzinger,Thomas,A.
+A1 Kirsch,Christoph,M.
+YR 2007
+T1 The embedded machine: Predictable, portable real-time code
+JF ACM Transactions on Programming Languages and Systems
+VO 29
+SP 33
+IS 6
+
+RT Book, Whole
+ID 2430733
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+A1 Piterman,Nir
+YR 2007
+T1 Generalized Parity Games
+SP 153
+OP 167
+
+RT Book, Whole
+ID 4319216
+A1 Henzinger,Thomas,A.
+YR 2007
+T1 Games, Time, and Probability: Graph Models for System Design and Analysis
+SP 103
+OP 110
+
+RT Conference Proceedings
+ID 2445206
+A1 Beyer,Dirk
+A1 Chakrabarti,Arindam
+A1 Henzinger,Thomas,A.
+A1 Seshia,Sanjit,A.
+YR 2007
+T1 An Application ofWeb-Service Interfaces
+SP 831
+OP 838
+
+RT Book, Whole
+ID 4252367
+A1 Henzinger,Thomas,A.
+YR 2007
+T1 Quantitative Generalizations of Languages
+SP 20
+OP 22
+
+RT Journal Article
+ID 14410753
+A1 Beyer,Dirk
+A1 Henzinger,Thomas,A.
+A1 Majumdar,Rupak
+A1 Rybalchenko,Andrey
+YR 2007
+T1 Path invariants
+JF Sigplan Notices
+VO 42
+SP 300
+OP 309
+IS 6
+
+RT Journal Article
+ID 61400199
+A1 Schaub,Marc,A.
+A1 Bezdek,April
+A1 Henzinger,Thomas,A.
+A1 Radtke,Freddy
+A1 Fisher,Jasmin
+YR 2007
+T1 Qualitative Crosstalk Analysis of Wnt and Notch Signaling in Mammalian Skin
+
+RT Journal Article
+ID 61409552
+A1 Beyer,Dirk
+A1 Chakrabarti,Arindam
+A1 Henzinger,Thomas,A.
+A1 Seshia,Sanjit,A.
+YR 2007
+T1 An Application of Web-Service Interfaces
+
+RT Journal Article
+ID 54559372
+A1 Chatterjee,Krishnendu
+A1 Doyen,Laurent
+A1 Henzinger,Thomas,A.
+YR 2007
+T1 Algorithms for Omega-Regular Games with Imperfect Information
+
+RT Conference Proceedings
+ID 13312154
+A1 Duparc,Jacques
+A1 Henzinger,Thomas,A.
+YR 2007
+T1 Computer Science Logic, 21st International Workshop, CSL 2007, 16th Annual Conference of the EACSL, Lausanne, Switzerland, September 11-15, 2007, Proceedings
+
+RT Journal Article
+ID 61409553
+A1 Beyer,Dirk
+A1 Chakrabarti,Arindam
+A1 Henzinger,Thomas,A.
+YR 2007
+T1 An Interface Formalism for Web Services
+
+RT Journal Article
+ID 4565342
+A1 Beyer,Dirk
+A1 Henzinger,Thomas,A.
+A1 Singh,Vasu
+YR 2007
+T1 Algorithms for Interface Synthesis (Invited Tutorial)
+
+RT Book, Whole
+ID 6063370
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+YR 2007
+T1 Probabilistic Systems with LimSup and LimInf Objectives
+SP 32
+OP 45
+
+RT Conference Proceedings
+ID 2472823
+A1 Gulavanibhargav,Bhargav,S.
+A1 Henzinger,Thomas,A.
+A1 Kannan,Yamini
+A1 Nori,Aditya,V.
+A1 Rajamani,Sriram,K.
+YR 2006
+T1 SYNERGY: a new algorithm for property checking
+SP 117
+OP 127
+
+RT Book, Whole
+ID 2160392
+A1 Henzinger,Thomas,A.
+A1 Sifakis,Joseph
+YR 2006
+T1 The Embedded Systems Design Challenge
+SP 1
+OP 15
+
+RT Conference Proceedings
+ID 2186384
+A1 Henzinger,Thomas,A.
+A1 Matic,Slobodan
+YR 2006
+T1 An Interface Algebra for Real-Time Components
+SP 253
+OP 266
+
+RT Conference Proceedings
+ID 2428455
+A1 Ghosal,Arkadeb
+A1 Sangiovanni-vincentelli,Alberto,L.
+A1 Kirsch,Christoph,M.
+A1 Henzinger,Thomas,A.
+A1 Iercan,Daniel,T.
+YR 2006
+T1 A hierarchical coordination language for interacting real-time tasks
+SP 132
+OP 141
+
+RT Book, Whole
+ID 2161358
+A1 Wulf,Martin,De
+A1 Doyen,Laurent
+A1 Henzinger,Thomas,A.
+A1 Raskin,Jean-françois
+YR 2006
+T1 Antichains: A New Algorithm for Checking Universality of Finite Automata
+SP 17
+OP 30
+
+RT Book, Whole
+ID 2424332
+A1 Chatterjee,Krishnendu
+A1 Doyen,Laurent
+A1 Henzinger,Thomas,A.
+A1 Raskin,Jean-françois
+YR 2006
+T1 Algorithms for Omega-Regular Games with Imperfect Information
+SP 287
+OP 302
+
+RT Book, Whole
+ID 2161349
+A1 Beyer,Dirk
+A1 Henzinger,Thomas,A.
+A1 Thoduloz,Grgory
+YR 2006
+T1 Lazy Shape Analysis
+SP 532
+OP 546
+
+RT Book, Whole
+ID 2430660
+A1 Henzinger,Thomas,A.
+A1 Prabhu,Vinayak,S.
+YR 2006
+T1 Timed Alternating-Time Temporal Logic
+SP 1
+OP 17
+
+RT Book, Whole
+ID 1843082
+A1 Chatterjee,Krishnendu
+A1 Majumdar,Rupak
+A1 Henzinger,Thomas,A.
+YR 2006
+T1 Markov Decision Processes with Multiple Objectives
+SP 325
+OP 336
+
+RT Conference Proceedings
+ID 1815705
+A1 Chatterjee,Krishnendu
+A1 Alfaro,Luca,De
+A1 Henzinger,Thomas,A.
+YR 2006
+T1 The complexity of quantitative concurrent parity games
+SP 678
+OP 687
+
+RT Journal Article
+ID 1842592
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+A1 Horn,Florian
+YR 2006
+T1 Finitary Winning in omega-Regular Games
+JF ACM Transactions on Computational Logic
+VO 11
+SP 257
+OP 271
+IS 1
+
+RT Conference Proceedings
+ID 2468290
+A1 Chatterjee,Krishnendu
+A1 Alfaro,Luca,De
+A1 Faella,Marco
+A1 Henzinger,Thomas,A.
+A1 Majumdar,Rupak
+A1 Stoelinga,Mariëlle
+YR 2006
+T1 Compositional Quantitative Reasoning
+SP 179
+OP 188
+
+RT Journal Article
+ID 2515615
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+A1 Jurdzinski,Marcin
+YR 2006
+T1 Games with secure equilibria
+JF Theoretical Computer Science
+VO 365
+SP 67
+OP 82
+IS 1-2
+
+RT Conference Proceedings
+ID 2477391
+A1 Fisher,Jasmin
+A1 Henzinger,Thomas,A.
+YR 2006
+T1 Executable biology
+SP 1675
+OP 1682
+
+RT Book, Whole
+ID 2424339
+A1 Henzinger,Thomas,A.
+A1 Piterman,Nir
+YR 2006
+T1 Solving Games Without Determinization
+SP 395
+OP 410
+
+RT Conference Proceedings
+ID 2468291
+A1 Chatterjee,Krishnendu
+A1 Alfaro,Luca,De
+A1 Henzinger,Thomas,A.
+YR 2006
+T1 Strategy Improvement for Concurrent Reachability Games
+SP 291
+OP 300
+
+RT Book, Whole
+ID 1843144
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+YR 2006
+T1 Strategy Improvement and Randomized Subexponential Algorithms for Stochastic Parity Games
+SP 512
+OP 523
+
+RT Book, Whole
+ID 2418468
+A1 Manevich,Roman
+A1 Field,John
+A1 Henzinger,Thomas,A.
+A1 Ramalingam,G.
+A1 Sagiv,Mooly
+YR 2006
+T1 Abstract Counterexample-Based Refinement for Powerset Domains
+SP 273
+OP 292
+
+RT Journal Article
+ID 1708124
+A1 Henzinger,Thomas,A.
+A1 Kupferman,Orna
+A1 Majumdar,Rupak
+YR 2006
+T1 On the universal and existential fragments of the mu-calculus
+JF Theoretical Computer Science
+VO 354
+SP 173
+OP 186
+IS 2
+
+RT Journal Article
+ID 4598839
+A1 Beyer,Dirk
+A1 Henzinger,Thomas,A.
+A1 Singh,Vasu
+YR 2006
+T1 Three Algorithms for Interface Synthesis: A Comparative  Study
+
+RT Book, Whole
+ID 2193689
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+YR 2006
+T1 Strategy Improvement for Stochastic Rabin and Streett Games
+SP 375
+OP 389
+
+RT Journal Article
+ID 59682625
+A1 Chatterjee,K.
+A1 Alfaro,L.,de
+A1 Faella,M.
+A1 Henzinger,T.,A.
+A1 Majumdar,R.
+A1 Stoelinga,M.,I.,A.
+YR 2006
+T1 Quantitative Compositional Reasoning
+
+RT Journal Article
+ID 61409555
+A1 Beyer,Dirk
+A1 Henzinger,Thomas,A.
+A1 Majumdar,Rupak
+A1 Rybalchenko,Andrey
+YR 2006
+T1 Path Invariants
+
+RT Conference Proceedings
+ID 50530081
+A1 Fisher,Jasmin
+A1 Henzinger,Thomas,A.
+YR 2006
+T1 Executable Biology
+
+RT Conference Proceedings
+ID 1242332
+A1 Beyer,Dirk
+A1 Chakrabarti,Arindam
+A1 Henzinger,Thomas,A.
+YR 2005
+T1 Web Service Interfaces
+SP 148
+OP 159
+
+RT Journal Article
+ID 1845563
+A1 Henzinger,Thomas,A.
+A1 Jhala,Ranjit
+A1 Majumdar,Rupak
+YR 2005
+T1 Permissive interfaces
+JF ACM Sigsoft Software Engineering Notes
+VO 30
+SP 31
+OP 40
+IS 5
+
+RT Conference Proceedings
+ID 1815293
+A1 Matic,Slobodan
+A1 Henzinger,Thomas,A.
+YR 2005
+T1 Trading End-to-End Latency for Composability
+SP 99
+OP 110
+
+RT Journal Article
+ID 1247862
+A1 Henzinger,Thomas,A.
+A1 Majumdar,Rupak
+A1 Raskin,Jean-François
+YR 2005
+T1 A classification of symbolic transition systems
+JF ACM Transactions on Computational Logic
+VO 6
+SP 1
+OP 32
+IS 1
+
+RT Journal Article
+ID 1853391
+A1 Henzinger,Thomas,A.
+A1 Kirsch,Christoph,M.
+A1 Matic,Slobodan
+YR 2005
+T1 Composable code generation for distributed giotto
+JF Sigplan Notices
+VO 40
+SP 21
+OP 30
+IS 7
+
+RT Conference Proceedings
+ID 2478092
+A1 Kirsch,Christoph,M.
+A1 Sanvido,Marco,A.,A.
+A1 Henzinger,Thomas,A.
+YR 2005
+T1 A programmable microkernel for real-time systems
+SP 35
+OP 45
+
+RT Book, Whole
+ID 1828095
+A1 Chatterjee,Krishnendu
+A1 Alfaro,Luca,De
+A1 Henzinger,Thomas,A.
+YR 2005
+T1 The Complexity of Stochastic Rabin and Streett Games
+SP 878
+OP 890
+
+RT Book, Whole
+ID 1850865
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+YR 2005
+T1 Semiperfect-Information Games
+SP 1
+OP 18
+
+RT Book, Whole
+ID 1791249
+A1 Beyer,Dirk
+A1 Henzinger,Thomas,A.
+A1 Jhala,Ranjit
+A1 Majumdar,Rupak
+YR 2005
+T1 Checking Memory Safety with Blast
+SP 2
+OP 18
+
+RT Conference Proceedings
+ID 1809707
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+A1 Jurdzinski,Marcin
+YR 2005
+T1 Mean-Payoff Parity Games
+SP 178
+OP 187
+
+RT Book, Whole
+ID 1872296
+A1 Henzinger,Thomas,A.
+A1 Majumdar,Rupak
+A1 Prabhu,Vinayak,S.
+YR 2005
+T1 Quantifying Similarities Between Timed Systems
+SP 226
+OP 241
+
+RT Book, Whole
+ID 1848408
+A1 Chakrabarti,Arindam
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+A1 Kupferman,Orna
+A1 Majumdar,Rupak
+YR 2005
+T1 Verifying Quantitative Properties Using Bound Functions
+SP 50
+OP 64
+
+RT Conference Proceedings
+ID 1815401
+A1 Henzinger,Thomas,A.
+YR 2005
+T1 Games in system design and verification
+SP 1
+OP 4
+
+RT Journal Article
+ID 2328689
+A1 Beyer,Dirk
+A1 Chakrabarti,Arindam
+A1 Henzinger,Thomas,A.
+YR 2005
+T1 An Interface Formalism for Web Services
+
+RT Book, Whole
+ID 1872292
+A1 Doyen,Laurent
+A1 Henzinger,Thomas,A.
+A1 Raskin,Jean-françois
+YR 2005
+T1 Automatic Rectangular Refinement of Affine Hybrid Systems
+SP 144
+OP 161
+
+RT Book, Whole
+ID 1815996
+A1 Henzinger,Thomas,A.
+A1 Jhala,Ranjit
+A1 Majumdar,Rupak
+YR 2005
+T1 The BLAST Software Verification System
+SP 25
+OP 26
+
+RT Conference Proceedings
+ID 2474681
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+A1 Jhala,Ranjit
+A1 Majumdar,Rupak
+YR 2005
+T1 Counterexample-guided Planning
+SP 104
+OP 111
+
+RT Journal Article
+ID 39220589
+A1 Henzinger,Thomas,A.
+A1 Jhala,Ranjit
+A1 Majumdar,Rupak
+YR 2005
+T1 Permissive interfaces
+JF ACM Sigsoft Software Engineering Notes
+SP 31
+OP 40
+
+RT Journal Article
+ID 61409556
+A1 Beyer,Dirk
+A1 Henzinger,Thomas,A.
+A1 Thoduloz,Grgory
+YR 2005
+T1 Lazy Shape Analysis
+
+RT Journal Article
+ID 2353374
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+YR 2005
+T1 Algorithms for Stochastic Parity Games
+
+RT Journal Article
+ID 566788
+A1 Henzinger,Thomas,A.
+A1 Jhala,Ranjit
+A1 Majumdar,Rupak
+A1 McMillan,Kenneth,L.
+YR 2004
+T1 Abstractions from proofs
+JF Sigplan Notices
+VO 39
+SP 232
+OP 244
+IS 1
+
+RT Conference Proceedings
+ID 906207
+A1 Beyer,Dirk
+A1 Chlipala,Adam,J.
+A1 Henzinger,Thomas,A.
+A1 Jhala,Ranjit
+A1 Majumdar,Rupak
+YR 2004
+T1 Generating Tests from Counterexamples
+SP 326
+OP 335
+
+RT Journal Article
+ID 887177
+A1 Henzinger,Thomas,A.
+A1 Jhala,Ranjit
+A1 Majumdar,Rupak
+YR 2004
+T1 Race checking by context inference
+JF Sigplan Notices
+VO 39
+SP 1
+OP 13
+IS 6
+
+RT Conference Proceedings
+ID 573250
+A1 Chatterjee,Krishnendu
+A1 Jurdziński,Marcin
+A1 Henzinger,Thomas,A.
+YR 2004
+T1 Quantitative stochastic parity games
+SP 121
+OP 130
+
+RT Book, Whole
+ID 659430
+A1 Ghosal,Arkadeb
+A1 Henzinger,Thomas,A.
+A1 Kirsch,Christoph,M.
+A1 Sanvido,Marco,A.,A.
+YR 2004
+T1 Event-Driven Programming with Logical Execution Times
+SP 357
+OP 371
+
+RT Book, Whole
+ID 1778480
+A1 Beyer,Dirk
+A1 Chlipala,Adam,J.
+A1 Henzinger,Thomas,A.
+A1 Jhala,Ranjit
+A1 Majumdar,Rupak
+YR 2004
+T1 The Blast Query Language for Software Verification
+SP 2
+OP 18
+
+RT Book, Whole
+ID 631877
+A1 Alfaro,Luca,De
+A1 Faella,Marco
+A1 Henzinger,Thomas,A.
+A1 Majumdar,Rupak
+A1 Stoelinga,Mariëlle
+YR 2004
+T1 Model Checking Discounted Temporal Properties
+SP 77
+OP 92
+
+RT Conference Proceedings
+ID 1888683
+A1 Chatterjee,Krishnendu
+A1 Alfaro,Luca,De
+A1 Henzinger,Thomas,A.
+YR 2004
+T1 Trading Memory for Randomness
+SP 206
+OP 217
+
+RT Book, Whole
+ID 1792334
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+A1 Jurdzinski,Marcin
+YR 2004
+T1 Games with Secure Equilibria
+SP 141
+OP 161
+
+RT Journal Article
+ID 1724643
+A1 Chatterjee,Krishnendu
+A1 Ma,Di
+A1 Majumdar,Rupak
+A1 Zhao,Tian
+A1 Henzinger,Thomas,A.
+A1 Palsberg,Jens
+YR 2004
+T1 Stack size analysis for interrupt-driven programs
+JF Information and Computation/information and Control
+VO 194
+SP 144
+OP 174
+IS 2
+
+RT Conference Proceedings
+ID 1808932
+A1 Beyer,Dirk
+A1 Henzinger,Thomas,A.
+A1 Jhala,Ranjit
+A1 Majumdar,Rupak
+YR 2004
+T1 An Eclipse Plug-in for Model Checking
+SP 251
+OP 255
+
+RT Conference Proceedings
+ID 1240477
+A1 Beyer,Dirk
+A1 Chlipala,Adam,J.
+A1 Henzinger,Thomas,A.
+A1 Jhala,Ranjit
+A1 Majumdar,Rupak
+YR 2004
+T1 Invited talk: the blast query language for software verification
+SP 201
+OP 202
+
+RT Conference Proceedings
+ID 1238776
+A1 Henzinger,Thomas,A.
+A1 Kirsch,Christoph,M.
+YR 2004
+T1 A typed assembly language for real-time programs
+SP 104
+OP 113
+
+RT Book, Whole
+ID 593010
+A1 Henzinger,Thomas,A.
+YR 2004
+T1 Rich Interfaces for Software Modules
+SP 517
+OP 518
+
+RT Book, Whole
+ID 2161161
+A1 Henzinger,Thomas,A.
+YR 2004
+T1 Embedded Software: Better Models, Better Code
+SP 35
+OP 36
+
+RT Journal Article
+ID 39219226
+A1 Henzinger,Thomas,A.
+A1 Jhala,Ranjit
+A1 Majumdar,Rupak
+A1 McMillan,Kenneth,L.
+YR 2004
+T1 Abstractions from proofs
+JF Sigplan Notices
+SP 232
+OP 244
+
+RT Journal Article
+ID 39238482
+A1 Beyer,Dirk
+A1 Chlipala,Adam,J.
+A1 Henzinger,Thomas,A.
+A1 Jhala,Ranjit
+A1 Majumdar,Rupak
+YR 2004
+T1 Invited talk: the blast query language for software verification
+SP 1
+OP 2
+
+RT Conference Proceedings
+ID 50364025
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+A1 Jurdzinski,Marcin
+YR 2004
+T1 Games with secure equilibria
+SP 160
+OP 169
+
+RT Journal Article
+ID 39219235
+A1 Henzinger,Thomas,A.
+A1 Jhala,Ranjit
+A1 Majumdar,Rupak
+YR 2004
+T1 Race checking by context inference
+JF Sigplan Notices
+SP 1
+OP 13
+
+RT Book, Whole
+ID 574167
+A1 Henzinger,Thomas,A.
+A1 Jhala,Ranjit
+A1 Majumdar,Rupak
+A1 Sutre,Grégoire
+YR 2003
+T1 Software Verification with BLAST
+SP 235
+OP 239
+
+RT Journal Article
+ID 1593380
+A1 Henzinger,Thomas,A.
+A1 Kirsch,Christoph,M.
+A1 Sanvido,Marco,A.,A.
+A1 Pree,Wolfgang
+YR 2003
+T1 From control models to real-time code using Giotto
+JF IEEE Control Systems Magazine
+VO 23
+SP 50
+OP 64
+IS 1
+
+RT Book, Whole
+ID 653395
+A1 Chakrabarti,Arindam
+A1 Alfaro,Luca,De
+A1 Henzinger,Thomas,A.
+A1 Stoelinga,Mariëlle
+YR 2003
+T1 Resource Interfaces
+SP 117
+OP 133
+
+RT Book, Whole
+ID 448180
+A1 Henzinger,Thomas,A.
+A1 Jhala,Ranjit
+A1 Majumdar,Rupak
+A1 Qadeer,Shaz
+YR 2003
+T1 Thread-Modular Abstraction Refinement
+SP 262
+OP 274
+
+RT Book, Whole
+ID 21855
+A1 Alfaro,Luca,De
+A1 Faella,Marco
+A1 Henzinger,Thomas,A.
+A1 Majumdar,Rupak
+A1 Stoelinga,Mariëlle
+YR 2003
+T1 The Element of Surprise in Timed Games
+SP 142
+OP 156
+
+RT Book, Whole
+ID 602893
+A1 Alfaro,Luca,De
+A1 Henzinger,Thomas,A.
+A1 Majumdar,Rupak
+YR 2003
+T1 Discounting the Future in Systems Theory
+SP 1022
+OP 1037
+
+RT Book, Whole
+ID 458352
+A1 Chatterjee,Krishnendu
+A1 Jurdzinski,Marcin
+A1 Henzinger,Thomas,A.
+YR 2003
+T1 Simple Stochastic Parity Games
+SP 100
+OP 113
+
+RT Book, Whole
+ID 21151
+A1 Henzinger,Thomas,A.
+A1 Jhala,Ranjit
+A1 Majumdar,Rupak
+A1 Sanvido,Marco,A.,A.
+YR 2003
+T1 Extreme Model Checking
+SP 332
+OP 358
+
+RT Book, Whole
+ID 481587
+A1 Chatterjee,Krishnendu
+A1 Ma,Di
+A1 Majumdar,Rupak
+A1 Zhao,Tian
+A1 Henzinger,Thomas,A.
+A1 Palsberg,Jens
+YR 2003
+T1 Stack Size Analysis for Interrupt-Driven Programs
+SP 109
+OP 126
+
+RT Book, Whole
+ID 653387
+A1 Henzinger,Thomas,A.
+A1 Kirsch,Christoph,M.
+A1 Matic,Slobodan
+YR 2003
+T1 Schedule-Carrying Code
+SP 241
+OP 256
+
+RT Book, Whole
+ID 603048
+A1 Henzinger,Thomas,A.
+A1 Jhala,Ranjit
+A1 Majumdar,Rupak
+YR 2003
+T1 Counterexample-Guided Control
+SP 886
+OP 902
+
+RT Journal Article
+ID 782557
+A1 Henzinger,Thomas,A.
+A1 Kupferman,Orna
+A1 Qadeer,Shaz
+YR 2003
+T1 From PreHistoric to PostModern Symbolic Model Checking
+JF Formal Methods in System Design
+VO 23
+SP 303
+OP 327
+IS 3
+
+RT Book, Whole
+ID 424825
+A1 Henzinger,Thomas,A.
+A1 Kupferman,Orna
+A1 Majumdar,Rupak
+YR 2003
+T1 On the Universal and Existential Fragments of the µ-Calculus
+SP 49
+OP 64
+
+RT Book, Whole
+ID 487116
+A1 Henzinger,Thomas,A.
+YR 2003
+T1 Automata for Specifying Component Interfaces
+SP 1
+OP 2
+
+RT Book, Whole
+ID 687315
+A1 Henzinger,Thomas,A.
+YR 2003
+T1 Model Checking: From Hardware to Software
+SP 176
+OP 177
+
+RT Journal Article
+ID 28677
+A1 Henzinger,Thomas,A.
+A1 Jhala,Ranjit
+A1 Majumdar,Rupak
+A1 Sutre,Grégoire
+YR 2002
+T1 Lazy abstraction
+JF Sigplan Notices
+VO 37
+SP 58
+OP 70
+IS 1
+
+RT Journal Article
+ID 788118
+A1 Alur,Rajeev
+A1 Henzinger,Thomas,A.
+A1 Kupferman,Orna
+YR 2002
+T1 Alternating-time temporal logic
+JF Journal of The ACM
+VO 49
+SP 672
+OP 713
+IS 5
+
+RT Conference Proceedings
+ID 96014
+A1 Henzinger,Thomas,A.
+A1 Kirsch,Christoph,M.
+YR 2002
+T1 The Embedded Machine: Predictable, Portable Real-Time Code
+SP 315
+OP 326
+
+RT Book, Whole
+ID 448093
+A1 Henzinger,Thomas,A.
+A1 Jhala,Ranjit
+A1 Majumdar,Rupak
+A1 Necula,George,C.
+A1 Sutre,Grégoire
+A1 Weimer,Westley
+YR 2002
+T1 Temporal-Safety Proofs for Systems Code
+SP 526
+OP 538
+
+RT Book, Whole
+ID 653365
+A1 Alfaro,Luca,De
+A1 Henzinger,Thomas,A.
+A1 Stoelinga,Mariëlle
+YR 2002
+T1 Timed Interfaces
+SP 108
+OP 122
+
+RT Book, Whole
+ID 55661
+A1 Henzinger,Thomas,A.
+A1 Kirsch,Christoph,M.
+A1 Majumdar,Rupak
+A1 Matic,Slobodan
+YR 2002
+T1 Time-Safety Checking for Embedded Programs
+SP 76
+OP 92
+
+RT Book, Whole
+ID 448229
+A1 Chakrabarti,Arindam
+A1 Alfaro,Luca,De
+A1 Henzinger,Thomas,A.
+A1 Jurdzinski,Marcin
+A1 Mang,Freddy,Y.,C.
+YR 2002
+T1 Interface Compatibility Checking for Software Modules
+SP 428
+OP 441
+
+RT Conference Proceedings
+ID 20631
+A1 Passerone,Roberto
+A1 Alfaro,Luca,de
+A1 Henzinger,Thomas,A.
+A1 Sangiovanni-Vincentelli,Alberto,L.
+YR 2002
+T1 Convertibility verification and converter synthesis: two faces of the same coin
+SP 132
+OP 139
+
+RT Book, Whole
+ID 39633
+A1 Kirsch,Christoph,M.
+A1 Sanvido,Marco,A.,A.
+A1 Henzinger,Thomas,A.
+A1 Pree,Wolfgang
+YR 2002
+T1 A Giotto-Based Helicopter Control System
+SP 46
+OP 60
+
+RT Book, Whole
+ID 107193
+A1 Cassez,Franck
+A1 Henzinger,Thomas,A.
+A1 Raskin,Jean-françois
+YR 2002
+T1 A Comparison of Control Problems for Timed and Hybrid Systems
+SP 134
+OP 148
+
+RT Book, Whole
+ID 448196
+A1 Chakrabarti,Arindam
+A1 Alfaro,Luca,De
+A1 Henzinger,Thomas,A.
+A1 Mang,Freddy,Y.,C.
+YR 2002
+T1 Synchronous and Bidirectional Component Interfaces
+SP 414
+OP 427
+
+RT Journal Article
+ID 857141
+A1 Henzinger,Thomas,A.
+A1 Qadeer,Shaz
+A1 Rajamani,Sriram,K.
+A1 Tasiran,Serdar
+YR 2002
+T1 An assume-guarantee rule for checking simulation
+JF ACM Transactions on Programming Languages and Systems
+VO 24
+SP 51
+OP 64
+IS 1
+
+RT Journal Article
+ID 1333448
+A1 Henzinger,T.,A.
+A1 Kirsch,C.,M.
+YR 2002
+T1 The embedded machine: predictable
+
+RT Journal Article
+ID 820489
+A1 Henzinger,Thomas,A.
+A1 Kupferman,Orna
+A1 Rajamani,Sriram,K.
+YR 2002
+T1 Fair Simulation
+JF Information and Computation/information and Control
+VO 173
+SP 64
+OP 81
+IS 1
+
+RT Journal Article
+ID 3393158
+A1 Henzinger,T.,A.
+A1 Lee,E.,A.
+A1 Sangiovanni-vincentelli,A.,L.
+A1 Sastry,S.,S.
+A1 Szti-panovits,J.
+YR 2002
+T1 Mission Statement: Center for Hybrid and Embedded Software Systems
+
+RT Journal Article
+ID 760731
+A1 Schobbens,Pierre-yves
+A1 Raskin,Jean-françois
+A1 Henzinger,Thomas,A.
+YR 2002
+T1 Axioms for real-time logics
+JF Theoretical Computer Science
+VO 274
+SP 151
+OP 182
+IS 1-2
+
+RT Book, Whole
+ID 602404
+A1 Henzinger,Thomas,A.
+A1 Krishnan,Sriram,C.
+A1 Kupferman,Orna
+A1 Mang,Freddy,Y.,C.
+YR 2002
+T1 Synthesis of Uninitialized Systems
+SP 644
+OP 656
+
+RT Book, Whole
+ID 458239
+A1 Jurdzinski,Marcin
+A1 Kupferman,Orna
+A1 Henzinger,Thomas,A.
+YR 2002
+T1 Trading Probability for Fairness
+SP 292
+OP 305
+
+RT Book, Whole
+ID 659311
+A1 Henzinger,Thomas,A.
+YR 2002
+T1 From Models to Code: The Missing Link in Embedded Software
+SP 5
+OP 6
+
+RT Book, Whole
+ID 448290
+A1 Henzinger,Thomas,A.
+YR 2002
+T1 The Symbolic Approach to Hybrid Systems
+SP 57
+
+RT Journal Article
+ID 39218965
+A1 Henzinger,Thomas,A.
+A1 Jhala,Ranjit
+A1 Majumdar,Rupak
+A1 Sutre,Grégoire
+YR 2002
+T1 Lazy abstraction
+JF Sigplan Notices
+SP 58
+OP 70
+
+RT Conference Proceedings
+ID 50291929
+A1 Passerone,Roberto
+A1 Alfaro,Luca,de
+A1 Henzinger,T.,A.
+A1 Sangiovanni-Vincentelli,A.,L.
+YR 2002
+T1 Convertibility verification and converter synthesis: two faces of the same coin [IP block interfaces]
+SP 132
+OP 139
+
+RT Journal Article
+ID 12881415
+A1 Henzinger,Thomas,A.
+A1 Kirsch,Christoph,M.
+YR 2002
+T1 The embedded machine: predictable, portable real-time code
+JF Sigplan Notices
+VO 37
+SP 315
+OP 326
+IS 5
+
+RT Journal Article
+ID 638867
+A1 Alfaro,Luca,de
+A1 Henzinger,Thomas,A.
+YR 2001
+T1 Interface automata
+JF ACM Sigsoft Software Engineering Notes
+VO 26
+SP 109
+OP 120
+IS 5
+
+RT Conference Proceedings
+ID 653370
+A1 Henzinger,Thomas,A.
+A1 Horowitz,Benjamin
+A1 Kirsch,Christoph,M.
+YR 2001
+T1 Giotto: A Time-Triggered Language for Embedded Programming
+SP 166
+OP 184
+
+RT Book, Whole
+ID 76910
+A1 Alfaro,Luca,De
+A1 Henzinger,Thomas,A.
+YR 2001
+T1 Interface Theories for Component-Based Design
+SP 148
+OP 165
+
+RT Journal Article
+ID 91193
+A1 Henzinger,Thomas,A.
+A1 Horowitz,Benjamin
+A1 Kirsch,Christoph,Meyer
+YR 2001
+T1 Embedded Control Systems Development with Giotto
+JF Sigplan Notices
+VO 36
+SP 64
+OP 72
+IS 8
+
+RT Journal Article
+ID 782452
+A1 Alur,Rajeev
+A1 Brayton,Robert,K.
+A1 Henzinger,Thomas,A.
+A1 Qadeer,Shaz
+A1 Rajamani,Sriram,K.
+YR 2001
+T1 Partial-Order Reduction in Symbolic State-Space Exploration
+JF Formal Methods in System Design
+VO 18
+SP 97
+OP 116
+IS 2
+
+RT Book, Whole
+ID 5348
+A1 Alfaro,Luca,De
+A1 Henzinger,Thomas,A.
+A1 Majumdar,Rupak
+YR 2001
+T1 Symbolic Algorithms for Infinite-State Games
+SP 536
+OP 550
+
+RT Journal Article
+ID 2040757
+A1 Henzinger,Thomas,A.
+A1 Preussig,J.
+A1 Wong-Toi,Howard
+YR 2001
+T1 Some lessons from the HYTECH experience
+
+RT Conference Proceedings
+ID 61046
+A1 Alfaro,Luca,De
+A1 Henzinger,Thomas,A.
+A1 Majumdar,Rupak
+YR 2001
+T1 From Verification to Control: Dynamic Programs for Omega-Regular Objectives
+SP 279
+OP 290
+
+RT Book, Whole
+ID 659370
+A1 Henzinger,Thomas,A.
+A1 Minea,Marius
+A1 Prabhu,Vinayak,S.
+YR 2001
+T1 Assume-Guarantee Reasoning for Hierarchical Hybrid Systems
+SP 275
+OP 290
+
+RT Conference Proceedings
+ID 540796
+A1 Alur,Rajeev
+A1 Alfaro,Luca,de
+A1 Grosu,Radu
+A1 Henzinger,Thomas,A.
+A1 Kang,M.
+A1 Kirsch,Christoph,M.
+A1 Majumdar,Rupak
+A1 Mang,Freddy,Y.,C.
+A1 Wang,Bow-Yaw
+YR 2001
+T1 JMOCHA: a model checking tool that exploits design structure
+SP 835
+OP 836
+
+RT Book, Whole
+ID 130205
+A1 Alfaro,Luca,De
+A1 Henzinger,Thomas,A.
+A1 Jhala,Ranjit
+YR 2001
+T1 Compositional Methods for Probabilistic Systems
+SP 351
+OP 365
+
+RT Conference Proceedings
+ID 132922
+A1 Alfaro,Luca,De
+A1 Henzinger,Thomas,A.
+A1 Mang,Freddy,Y.,C.
+YR 2001
+T1 MCWEB: A Model-Checking Tool for Web Site Debugging
+
+RT Book, Whole
+ID 75499
+A1 Alfaro,Luca,De
+A1 Henzinger,Thomas,A.
+A1 Mang,Freddy,Y.,C.
+YR 2001
+T1 The Control of Synchronous Systems, Part II
+SP 566
+OP 582
+
+RT Conference Proceedings
+ID 135540
+A1 Brown,T.
+A1 Pasetti,A.
+A1 Pree,W.
+A1 Henzinger,T.,A.
+A1 Kirsch,C.,M.
+YR 2001
+T1 A reusable and platform-independent framework for distributed control systems
+
+RT Conference Proceedings
+ID 2396250
+A1 Alfaro,L.,De
+A1 Henzinger,T.,A.
+A1 Majumdar,R.
+YR 2001
+T1 From veri cation to control: Dynamic programs for !-regular objectives
+
+RT Journal Article
+ID 112674
+A1 Brown,T.,B.
+A1 Henzinger,T.,A.
+A1 Kirsch,C.,M.
+A1 Pasetti,A.
+A1 Pree,W.
+YR 2001
+T1 Real-Time Middleware Concepts for Automating the Development of Distributed Embedded Control Systems
+
+RT Journal Article
+ID 15232493
+A1 Alur,R.
+A1 Brayton,R.,K.
+A1 Henzinger,T.,A.
+A1 Qadeer,S.
+A1 Rajamani,S.,K.
+YR 2001
+T1 Partial-Order Reduction in Symbolic State-Space Exploration
+JF Formal Methods in System Design
+VO 18
+SP 97
+OP 116
+IS 2
+
+RT Journal Article
+ID 39220313
+A1 Alfaro,Luca,de
+A1 Henzinger,Thomas,A.
+YR 2001
+T1 Interface automata
+JF ACM Sigsoft Software Engineering Notes
+SP 109
+OP 120
+
+RT Book, Whole
+ID 659360
+A1 Sangiovanni-vincentelli,Alberto,L.
+A1 Henzinger,Thomas,A.
+A1 Krogh,Bruce,H.
+A1 Maler,Oded
+A1 Morari,Manfred
+A1 Pantelides,Costas,C.
+A1 Pappas,George,J.
+A1 Simsec,Tunc
+A1 Sztipanovits,Janos
+A1 Tripakis,Stavros
+YR 2001
+T1 Hybrid Systems Applications: An Oxymoron?
+SP 5
+OP 6
+
+RT Journal Article
+ID 39218871
+A1 Henzinger,Thomas,A.
+A1 Horowitz,Benjamin
+A1 Kirsch,Christoph,Meyer
+YR 2001
+T1 Embedded Control Systems Development with Giotto
+JF Sigplan Notices
+SP 64
+OP 72
+
+RT Conference Proceedings
+ID 13269674
+A1 Henzinger,Thomas,A.
+A1 Kirsch,Christoph,M.
+YR 2001
+T1 Embedded Software, First International Workshop, EMSOFT 2001, Tahoe City, CA, USA, October, 8-10, 2001, Proceedings
+
+RT Book, Whole
+ID 82479
+A1 Henzinger,Thomas,A.
+A1 Horowitz,Benjamin
+A1 Majumdar,Rupak
+A1 Wong-toi,Howard
+YR 2000
+T1 Beyond HYTECH: Hybrid Systems Analysis Using Interval Numerical Methods
+SP 130
+OP 144
+
+RT Book, Whole
+ID 679267
+A1 Henzinger,Thomas,A.
+YR 2000
+T1 Masaccio: A Formal Model for Embedded Components
+SP 549
+OP 563
+
+RT Book, Whole
+ID 131645
+A1 Alfaro,Luca,De
+A1 Henzinger,Thomas,A.
+A1 Mang,Freddy,Y.,C.
+YR 2000
+T1 Detecting Errors Before Reaching Them
+SP 186
+OP 201
+
+RT Book, Whole
+ID 632801
+A1 Henzinger,Thomas,A.
+A1 Majumdar,Rupak
+YR 2000
+T1 A Classification of Symbolic Transition Systems
+SP 13
+OP 34
+
+RT Conference Proceedings
+ID 114384
+A1 Henzinger,Thomas,A.
+A1 Qadeer,Shaz
+A1 Rajamani,Sriram,K.
+YR 2000
+T1 Decomposing refinement proofs using assume-guarantee reasoning
+SP 245
+OP 253
+
+RT Book, Whole
+ID 659196
+A1 Henzinger,Thomas,A.
+A1 Raskin,Jean-françois
+YR 2000
+T1 Robust Undecidability of Timed and Hybrid Systems
+SP 145
+OP 159
+
+RT Book, Whole
+ID 177086
+A1 Alfaro,Luca,De
+A1 Henzinger,Thomas,A.
+A1 Mang,Freddy,Y.,C.
+YR 2000
+T1 The Control of Synchronous Systems
+SP 458
+OP 473
+
+RT Conference Proceedings
+ID 220492
+A1 Alfaro,Luca,De
+A1 Henzinger,Thomas,A.
+YR 2000
+T1 Concurrent Omega-Regular Games
+SP 141
+OP 154
+
+RT Book, Whole
+ID 481584
+A1 Henzinger,Thomas,A.
+A1 Majumdar,Rupak
+A1 Mang,Freddy,Y.,C.
+A1 Raskin,Jean-françois
+YR 2000
+T1 Abstract Interpretation of Game Properties
+SP 220
+OP 239
+
+RT Conference Proceedings
+ID 631752
+A1 Henzinger,Thomas,A.
+A1 Majumdar,Rupak
+YR 2000
+T1 Symbolic Model Checking for Rectangular Hybrid Systems
+SP 142
+OP 156
+
+RT Book, Whole
+ID 631753
+A1 Henzinger,Thomas,A.
+A1 Rajamani,Sriram,K.
+YR 2000
+T1 Fair Bisimulation
+SP 299
+OP 314
+
+RT Conference Proceedings
+ID 185953
+A1 Alfaro,L.,De
+A1 Alur,R.
+A1 Grosu,R.
+A1 Henzinger,T.
+A1 Kang,M.
+A1 Majumdar,R.
+A1 Mang,F.
+A1 Meyer-kirsch,C.
+A1 Wang,B.,y.
+YR 2000
+T1 MOCHA: Exploiting Modularity in Model Checking
+
+RT Journal Article
+ID 890642
+A1 Henzinger,Thomas,A.
+YR 2000
+T1 New directions in computer-aided verification
+JF ACM Sigsoft Software Engineering Notes
+VO 25
+SP 56
+OP 57
+IS 1
+
+RT Journal Article
+ID 817423
+A1 Henzinger,Thomas,A.
+YR 2000
+T1 Exploiting Design Structure in Model Checking
+JF Electronic Notes in Theoretical Computer Science
+VO 39
+IS 3
+
+RT Journal Article
+ID 14448300
+A1 Henzinger,Thomas,A.
+YR 2000
+T1 Exploiting Design Structure in Model Checking
+JF Electronic Notes in Theoretical Computer Science
+VO 39
+SP 322
+OP 322
+IS 3
+
+RT Journal Article
+ID 782465
+A1 Alur,Rajeev
+A1 Henzinger,Thomas,A.
+YR 1999
+T1 Reactive Modules
+JF Formal Methods in System Design
+VO 15
+SP 7
+OP 48
+IS 1
+
+RT Journal Article
+ID 332400
+A1 Alur,Rajeev
+A1 Fix,Limor
+A1 Henzinger,Thomas,A.
+YR 1999
+T1 Event-Clock Automata: A Determinizable Class of Timed Automata
+JF Theoretical Computer Science
+VO 211
+SP 253
+OP 273
+IS 1-2
+
+RT Journal Article
+ID 758630
+A1 Henzinger,Thomas,A.
+A1 Kopke,Peter,W.
+YR 1999
+T1 Discrete-Time Control for Rectangular Hybrid Automata
+JF Theoretical Computer Science
+VO 221
+SP 369
+OP 392
+IS 1-2
+
+RT Book, Whole
+ID 208392
+A1 Henzinger,Thomas,A.
+A1 Qadeer,Shaz
+A1 Rajamani,Sriram,K.
+YR 1999
+T1 Verifying Sequential Consistency on Shared-Memory Multiprocessor Systems
+SP 301
+OP 315
+
+RT Book, Whole
+ID 196028
+A1 Henzinger,Thomas,A.
+A1 Horowitz,Benjamin
+A1 Majumdar,Rupak
+YR 1999
+T1 Rectangular Hybrid Games
+SP 320
+OP 335
+
+RT Book, Whole
+ID 298422
+A1 Alur,Rajeev
+A1 Alfaro,Luca,De
+A1 Henzinger,Thomas,A.
+A1 Mang,Freddy,Y.,C.
+YR 1999
+T1 Automating Modular Verification
+SP 82
+OP 97
+
+RT Conference Proceedings
+ID 141674
+A1 Henzinger,Thomas,A.
+A1 Liu,Xiaojun
+A1 Qadeer,Shaz
+A1 Rajamani,Sriram,K.
+YR 1999
+T1 Formal specification and verification of a dataflow processor array
+SP 494
+OP 499
+
+RT Journal Article
+ID 14565014
+A1 Alur,Rajeev
+A1 Henzinger,Thomas,A.
+A1 Kupferman,Orna
+YR 1999
+T1 Alternating-time temporal logic
+JF Computer Standards & Interfaces
+VO 21
+SP 142
+OP 142
+IS 2
+
+RT Book, Whole
+ID 162738
+A1 Henzinger,Thomas,A.
+A1 Qadeer,Shaz
+A1 Rajamani,Sriram,K.
+YR 1999
+T1 Assume-Guarantee Refinement Between Different Time Scales
+SP 208
+OP 221
+
+RT Journal Article
+ID 15232457
+A1 Alur,Rajeev
+A1 Henzinger,Thomas,A.
+YR 1999
+T1 Reactive Modules
+JF Formal Methods in System Design
+VO 15
+SP 7
+OP 48
+IS 1
+
+RT Book, Whole
+ID 207335
+A1 Alur,Rajeev
+A1 Henzinger,Thomas,A.
+A1 Mang,Freddy,Y.,C.
+A1 Qadeer,Shaz
+A1 Rajamani,Sriram,K.
+A1 Tasiran,Serdar
+YR 1998
+T1 MOCHA: Modularity in Model Checking
+SP 521
+OP 525
+
+RT Journal Article
+ID 791138
+A1 Henzinger,Thomas,A.
+A1 Kopke,Peter,W.
+A1 Puri,Anuj
+A1 Varaiya,Pravin
+YR 1998
+T1 What's Decidable about Hybrid Automata?
+JF Journal of Computer and System Sciences
+VO 57
+SP 94
+OP 124
+IS 1
+
+RT Book, Whole
+ID 78671
+A1 Alur,Rajeev
+A1 Henzinger,Thomas,A.
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 1998
+T1 Alternating Refinement Relations
+SP 163
+OP 178
+
+RT Journal Article
+ID 1572607
+A1 Henzinger,Thomas,A.
+A1 Ho,Pei-Hsin
+A1 Wong-Toi,Howard
+YR 1998
+T1 Algorithmic analysis of nonlinear hybrid systems
+JF IEEE Transactions on Automatic Control
+VO 43
+SP 540
+OP 554
+IS 4
+
+RT Book, Whole
+ID 81850
+A1 Henzinger,Thomas,A.
+A1 Qadeer,Shaz
+A1 Rajamani,Sriram,K.
+YR 1998
+T1 You Assume, We Guarantee: Methodology and Case Studies
+SP 440
+OP 451
+
+RT Book, Whole
+ID 204211
+A1 Henzinger,Thomas,A.
+A1 Raskin,Jean-françois
+A1 Schobbens,Pierre-yves
+YR 1998
+T1 The Regular Real-Time Languages
+SP 580
+OP 591
+
+RT Journal Article
+ID 2679822
+A1 Rajeev,Alur
+A1 Henzinger,Thomas,A.
+A1 Kupferman,Orna
+YR 1998
+T1 Alternating-time temporal logic
+JF Lecture Notes in Computer Science
+
+RT Book, Whole
+ID 395675
+A1 Henzinger,Thomas,A.
+YR 1998
+T1 It's About Time: Real-Time Logics Reviewed
+SP 439
+OP 454
+
+RT Conference Proceedings
+ID 136730
+A1 Alfaro,Luca,De
+A1 Henzinger,Thomas,A.
+A1 Kupferman,Orna
+YR 1998
+T1 Concurrent Reachability Games
+SP 564
+OP 575
+
+RT Book, Whole
+ID 448354
+A1 Henzinger,Thomas,A.
+A1 Kupferman,Orna
+A1 Qadeer,Shaz
+YR 1998
+T1 From Prehistoric to Postmodern Symbolic Model Checking
+SP 195
+OP 206
+
+RT Book, Whole
+ID 380953
+A1 Alur,Rajeev
+A1 Henzinger,Thomas,A.
+A1 Rajamani,Sriram,K.
+YR 1998
+T1 Symbolic Exploration of transition Hierarchies
+SP 330
+OP 344
+
+RT Conference Proceedings
+ID 4082844
+A1 Henzinger,T.,A.
+A1 Qadeer,S.
+A1 Rajamani,K.
+YR 1998
+T1 WE GUARANTEE: METHODOLOGY AND CASE STUDIES
+
+RT Book, Whole
+ID 237704
+A1 Preußig,Jörg
+A1 Kowalewski,Stefan
+A1 Wong-toi,Howard
+A1 Henzinger,Thomas,A.
+YR 1998
+T1 An Algorithm for the Approximative Analysis of Rectangular Automata
+SP 228
+OP 240
+
+RT Book, Whole
+ID 2430505
+A1 Henzinger,Thomas,A.
+A1 Qadeer,Shaz
+A1 Rajamani,Sriram,K.
+A1 Tasiran,Serdar
+YR 1998
+T1 An Assume-Guarantee Rule for Checking Simulation
+SP 421
+OP 432
+
+RT Book, Whole
+ID 287262
+A1 Henzinger,Thomas,A.
+A1 Rusu,Vlad
+YR 1998
+T1 Reachability Verification for Hybrid Automata
+SP 190
+OP 204
+
+RT Journal Article
+ID 856910
+A1 Alur,Rajeev
+A1 Henzinger,Thomas,A.
+YR 1998
+T1 Finitary fairness
+JF ACM Transactions on Programming Languages and Systems
+VO 20
+SP 1171
+OP 1194
+IS 6
+
+RT Conference Proceedings
+ID 317513
+A1 Raskin,Jean-françois
+A1 Schobbens,Pierre-yves
+A1 Henzinger,Thomas,A.
+YR 1998
+T1 Axioms for Real-Time Logics
+SP 219
+OP 236
+
+RT Journal Article
+ID 2872247
+A1 Rajeev,Alur
+A1 Henzinger,Thomas,A.
+YR 1998
+T1 Computer Aided Veri cation: An Introduction to Model Building and Model Checking for Concurrent Sys
+
+RT Conference Proceedings
+ID 545531
+A1 Henzinger,Thomas,A.
+YR 1998
+T1 Computer-aided Verification of Embedded Systems
+SP 89
+OP 92
+
+RT Conference Proceedings
+ID 602811
+A1 Henzinger,Thomas,A.
+YR 1998
+T1 Model Checking Game Properties of Multi-agent Systems (Abstract)
+SP 543
+
+RT Conference Proceedings
+ID 13319257
+A1 Henzinger,Thomas,A.
+A1 Sastry,Shankar
+YR 1998
+T1 Hybrid Systems: Computation and Control, First International Workshop, HSCC'98, Berkeley, California, USA, April 13-15, 1998, Proceedings
+
+RT Book, Whole
+ID 240390
+A1 Henzinger,Thomas,A.
+A1 Ho,Pei-hsin
+A1 Wong-toi,Howard
+YR 1997
+T1 HYTECH: A Model Checker for Hybrid Systems
+VO 1
+SP 460
+OP 463
+IS 1-2
+
+RT Book, Whole
+ID 1826
+A1 Alur,Rajeev
+A1 Henzinger,Thomas,A.
+A1 Kupferman,Orna
+YR 1997
+T1 Alternating-Time Temporal Logic
+SP 23
+OP 60
+
+RT Book, Whole
+ID 329329
+A1 Alur,Rajeev
+A1 Henzinger,Thomas,A.
+YR 1997
+T1 Modularity for Timed and Hybrid Systems
+SP 74
+OP 88
+
+RT Book, Whole
+ID 348897
+A1 Gupta,Vineet
+A1 Henzinger,Thomas,A.
+A1 Jagadeesan,Radha
+YR 1997
+T1 Robust Timed Automata
+SP 331
+OP 345
+
+RT Journal Article
+ID 801904
+A1 Alur,Rajeev
+A1 Henzinger,Thomas,A.
+YR 1997
+T1 Real-Time System = Discrete System + Clock Variables
+JF International Journal on Software Tools for Technology Transfer
+VO 1
+SP 86
+OP 109
+IS 1-2
+
+RT Book, Whole
+ID 603047
+A1 Henzinger,Thomas,A.
+A1 Kopke,Peter,W.
+YR 1997
+T1 Discrete-Time Control for Rectangular Hybrid Automata
+SP 582
+OP 593
+
+RT Book, Whole
+ID 353269
+A1 Henzinger,Thomas,A.
+A1 Kupferman,Orna
+A1 Rajamani,Sriram,K.
+YR 1997
+T1 Fair Simulation
+SP 273
+OP 287
+
+RT Journal Article
+ID 782464
+A1 Alur,Rajeev
+A1 Courcoubetis,Costas
+A1 Henzinger,Thomas,A.
+YR 1997
+T1 Computing Accumulated Delays in Real-time Systems
+JF Formal Methods in System Design
+VO 11
+SP 137
+OP 155
+IS 2
+
+RT Conference Proceedings
+ID 401490
+A1 Alurl,Rajeev
+A1 Henzinger,Thomas,A.
+A1 Wong-toi,Howard
+YR 1997
+T1 Symbolic analysis of hybrid systems
+VO 1
+SP 702
+
+RT Book, Whole
+ID 659195
+A1 Henzinger,Thomas,A.
+A1 Kupferman,Orna
+YR 1997
+T1 From Quantity to Quality
+SP 48
+OP 62
+
+RT Conference Proceedings
+ID 50097789
+A1 Alur,R.
+A1 Henzinger,T.,A.
+A1 Kupferman,O.
+YR 1997
+T1 Alternating-time temporal logic
+SP 100
+OP 109
+
+RT Journal Article
+ID 2379321
+A1 Alur,R.
+A1 Brayton,R.,K.
+A1 Henzinger,T.,A.
+A1 Qadeer,S.
+YR 1997
+T1 Rajamani: Partial order reduction in symbolic state space exploration
+
+RT Conference Proceedings
+ID 3551546
+A1 Alur,R.
+A1 Brayton,R.,K.
+A1 Henzinger,T.,A.
+A1 Qadeer,S.
+A1 Rajamani,S.,K.
+YR 1997
+T1 Partial order reduction in sumbolic state exploration
+
+RT Journal Article
+ID 46355192
+A1 Henzinger,Thomas,A.
+A1 Ho,Pei-Hsin
+A1 Wong-Toi,Howard
+YR 1997
+T1 HYTECH: a model checker for hybrid systems
+JF International Journal on Software Tools for Technology Transfer
+VO 1
+SP 110
+OP 122
+IS 1
+
+RT Journal Article
+ID 15232417
+A1 Alur,Rajeev
+A1 Courcoubetis,Costas
+A1 Henzinger,Thomas,A.
+YR 1997
+T1 Computing Accumulated Delays in Real-time Systems
+JF Formal Methods in System Design
+VO 11
+SP 137
+OP 155
+IS 2
+
+RT Journal Article
+ID 321585
+A1 Alur,Rajeev
+A1 Henzinger,Thomas,A.
+A1 Ho,Pei-hsin
+YR 1996
+T1 Automatic Symbolic Verification of Embedded Systems
+JF IEEE Transactions on Software Engineering
+VO 22
+SP 181
+OP 201
+IS 3
+
+RT Journal Article
+ID 1305045
+A1 Alur,R.
+A1 Henzinger,T.,A.
+A1 Sontag,E.,D.
+YR 1996
+T1 Hybrid systems iii: verification and control
+JF Lecture Notes in Computer Science
+
+RT Book, Whole
+ID 348237
+A1 Henzinger,Thomas,A.
+A1 Kopke,Peter,W.
+YR 1996
+T1 State Equivalences for Rectangular Hybrid Automata
+SP 530
+OP 545
+
+RT Book, Whole
+ID 343241
+A1 Henzinger,Thomas,A.
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 1996
+T1 A Space-Efficient On-the-fly Algorithm for Real-Time Model Checking
+SP 514
+OP 529
+
+RT Journal Article
+ID 781432
+A1 Henzinger,Thomas,A.
+YR 1996
+T1 Some myths about formal verification
+JF ACM Computing Surveys
+VO 28
+SP 119
+IS 4es
+
+RT Conference Proceedings
+ID 13319252
+A1 Alur,Rajeev
+A1 Henzinger,Thomas,A.
+A1 Sontag,Eduardo,D.
+YR 1996
+T1 Hybrid Systems III: Verification and Control, Proceedings of the DIMACS/SYCON Workshop, October 22-25, 1995, Ruttgers University, New Brunswick, NJ, USA
+
+RT Conference Proceedings
+ID 13290119
+A1 Alur,Rajeev
+A1 Henzinger,Thomas,A.
+YR 1996
+T1 Computer Aided Verification, 8th International Conference, CAV '96, New Brunswick, NJ, USA, July 31 - August 3, 1996, Proceedings
+
+RT Journal Article
+ID 3384
+A1 Alur,Rajeev
+A1 Courcoubetis,Costas
+A1 Halbwachs,Nicolas
+A1 Henzinger,Thomas,A.
+A1 Ho,Pei-hsin
+A1 Nicollin,Xavier
+A1 Olivero,Alfredo
+A1 Sifakis,Joseph
+A1 Yovine,Sergio
+YR 1995
+T1 The Algorithmic Analysis of Hybrid Systems
+JF Theoretical Computer Science
+VO 138
+SP 3
+OP 34
+IS 1
+
+RT Conference Proceedings
+ID 191925
+A1 Henzinger,Thomas,A.
+A1 Kopke,Peter,W.
+A1 Puri,Anuj
+A1 Varaiya,Pravin
+YR 1995
+T1 What's decidable about hybrid automata?
+SP 373
+OP 382
+
+RT Book, Whole
+ID 336105
+A1 Henzinger,Thomas,A.
+A1 Ho,Pei-hsin
+A1 Wong-toi,Howard
+YR 1995
+T1 A User Guide to HyTech
+SP 41
+OP 71
+
+RT Conference Proceedings
+ID 380705
+A1 Henzinger,Monika,Rauch
+A1 Henzinger,Thomas,A.
+A1 Kopke,Peter,W.
+YR 1995
+T1 Computing Simulations on Finite and Infinite Graphs
+SP 453
+OP 462
+
+RT Conference Proceedings
+ID 311387
+A1 Henzingert,Thomas,A.
+A1 Ho,Pei-hsin
+A1 Wong-Toit,Howard
+YR 1995
+T1 HyTech: The Next Generation
+SP 56
+OP 65
+
+RT Journal Article
+ID 174941
+A1 ALUR,RAJEEV
+A1 HENZINGER,THOMAS,A.
+A1 LAFFERRIERE,GERARDO
+A1 PAPPAS,GEORGE,J.
+YR 1995
+T1 Discrete Abstractions of Hybrid Systems
+JF Proceedings of The IEEE
+
+RT Book, Whole
+ID 448140
+A1 Henzinger,Thomas,A.
+A1 Ho,Pei-hsin
+YR 1995
+T1 Algorithmic Analysis of Nonlinear Hybrid Systems
+SP 225
+OP 238
+
+RT Book, Whole
+ID 602250
+A1 Henzinger,Thomas,A.
+YR 1995
+T1 Hybrid Automata with Finite Bisimulatioins
+SP 324
+OP 335
+
+RT Conference Proceedings
+ID 683676
+A1 Henzinger,Thomas,A.
+A1 Wong-toi,Howard
+YR 1995
+T1 Using HyTech to Synthesize Control Parameters for a Steam Boiler
+SP 265
+OP 282
+
+RT Book, Whole
+ID 659197
+A1 Henzinger,Thomas,A.
+A1 Wong-toi,Howard
+YR 1995
+T1 Linear Phase-Portrait Approximations for Nonlinear Hybrid Systems
+SP 377
+OP 388
+
+RT Book, Whole
+ID 390180
+A1 Alur,Rajeev
+A1 Henzinger,Thomas,A.
+YR 1995
+T1 Local Liveness for Compositional Modeling of Fair Reactive Systems
+SP 166
+OP 179
+
+RT Book, Whole
+ID 168627
+A1 Henzinger,Thomas,A.
+A1 Kopke,Peter,W.
+A1 Wong-toi,Howard
+YR 1995
+T1 The Expressive Power of Clocks
+SP 417
+OP 428
+
+RT Journal Article
+ID 2079833
+A1 Alur,R.
+A1 Courcoubetis,C.
+A1 Halbwachs,N.
+A1 Henzinger,T.,A.
+A1 Ho,Pei-hsin
+A1 Olivero,A.
+A1 Nicollin,X.
+A1 Sifakis,J.
+A1 Yovine,S.
+YR 1995
+T1 Hybrid automata: An algorithmic approach to specification and verification of hybrid systems
+
+RT Conference Proceedings
+ID 372167
+A1 Alur,Rajeev
+A1 Henzinger,Thomas,A.
+YR 1994
+T1 A Really Temporal Logic
+SP 164
+OP 169
+
+RT Book, Whole
+ID 659369
+A1 Henzinger,Thomas,A.
+A1 Ho,Pei-hsin
+YR 1994
+T1 HYTECH: The Cornell HYbrid TECHnology Tool
+SP 265
+OP 293
+
+RT Book, Whole
+ID 659194
+A1 Henzinger,Thomas,A.
+A1 Ho,Pei-hsin
+YR 1994
+T1 A Note on Abstract Interpretation Strategies for Hybrid Automata
+SP 252
+OP 264
+
+RT Journal Article
+ID 786782
+A1 Alur,Rajeev
+A1 Henzinger,Thomas,A.
+YR 1994
+T1 A really temporal logic
+JF Journal of The ACM
+VO 41
+SP 181
+OP 203
+IS 1
+
+RT Book, Whole
+ID 448281
+A1 Alur,Rajeev
+A1 Fix,Limor
+A1 Henzinger,Thomas,A.
+YR 1994
+T1 A Determinizable Class of Timed Automata
+SP 1
+OP 13
+
+RT Journal Article
+ID 199769
+A1 Henzinger,Thomas,A.
+A1 Manna,Zohar
+A1 Pnueli,Amir
+YR 1994
+T1 Temporal Proof Methodologies for Timed Transition Systems
+JF Information and Computation/information and Control
+VO 112
+SP 273
+OP 337
+IS 2
+
+RT Book, Whole
+ID 310768
+A1 Alur,Rajeev
+A1 Courcoubetis,Costas
+A1 Henzinger,Thomas,A.
+YR 1994
+T1 The Observational Power of Clocks
+SP 162
+OP 177
+
+RT Book, Whole
+ID 655627
+A1 Kapur,Arjun
+A1 Henzinger,Thomas,A.
+A1 Manna,Zohar
+A1 Pnueli,Amir
+YR 1994
+T1 Prooving Safety Properties of Hybrid Systems
+SP 431
+OP 454
+
+RT Book, Whole
+ID 655536
+A1 Henzinger,Thomas,A.
+A1 Kopke,Peter,W.
+YR 1994
+T1 Verification Methods for the Divergent Runs of Clock Systems
+SP 351
+OP 372
+
+RT Conference Proceedings
+ID 571806
+A1 Alurt,Rajeev
+A1 Henzinger,Thomas,A.
+A1 Ho,Pei-hsin
+YR 1993
+T1 Automatic Symbolic Verification of Embedded Systems
+SP 2
+OP 11
+
+RT Conference Proceedings
+ID 381760
+A1 Alur,Rajeev
+A1 Henzinger,Thomas,A.
+A1 Vardi,Moshe,Y.
+YR 1993
+T1 Parametric real-time reasoning
+SP 592
+OP 601
+
+RT Journal Article
+ID 818316
+A1 Alur,Rajeev
+A1 Henzinger,Thomas,A.
+YR 1993
+T1 Real-Time Logics: Complexity and Expressiveness
+JF Information and Computation/information and Control
+VO 104
+SP 35
+OP 77
+IS 1
+
+RT Book, Whole
+ID 379727
+A1 Alur,Rajeev
+A1 Courcoubetis,Costas
+A1 Henzinger,Thomas,A.
+YR 1993
+T1 Computing Accumulated Delays in Real-time Systems
+SP 181
+OP 193
+
+RT Journal Article
+ID 54302483
+A1 Alur,Rajeev
+A1 Fix,Limor
+A1 Henzinger,Thomas,A.
+YR 1993
+T1 A determinizable class of timed automata
+
+RT Book, Whole
+ID 383677
+A1 Alur,Rajeev
+A1 Courcoubetis,Costas
+A1 Henzinger,Thomas,A.
+A1 Ho,Pei-hsin
+YR 1992
+T1 Hybrid Automata: An Algorithmic Approach to the Specification and Verification of Hybrid Systems
+SP 209
+OP 229
+
+RT Book, Whole
+ID 332123
+A1 Henzinger,Thomas,A.
+A1 Manna,Zohar
+A1 Pnueliw,Amir
+YR 1992
+T1 What Good Are Digital Clocks?
+SP 545
+OP 558
+
+RT Journal Article
+ID 108756
+A1 Henzinger,Thomas,A.
+YR 1992
+T1 Sooner is Safer Than Later
+JF Information Processing Letters
+VO 43
+SP 135
+OP 141
+IS 3
+
+RT Conference Proceedings
+ID 284277
+A1 Alur,Rajeev
+A1 Henzinger,Thomas,A.
+YR 1992
+T1 Back to the Future: Towards a Theory of Timed Regular Languages
+SP 177
+OP 186
+
+RT Book, Whole
+ID 659371
+A1 Henzinger,Thomas,A.
+A1 Manna,Zohar
+A1 Pnueli,Amir
+YR 1992
+T1 Towards Refining Temporal Specifications into Hybrid Systems
+SP 60
+OP 76
+
+RT Conference Proceedings
+ID 347515
+A1 Alur,Rajeev
+A1 Feder,Tomás
+A1 Henzinger,Thomas,A.
+YR 1991
+T1 The benefits of relaxing punctuality
+SP 139
+OP 152
+
+RT Book, Whole
+ID 479640
+A1 Alur,Rajeev
+A1 Henzinger,Thomas,A.
+YR 1991
+T1 Logics and Models of Real Time: A Survey
+SP 74
+OP 106
+
+RT Conference Proceedings
+ID 182
+A1 Henzinger,Thomas,A.
+A1 Manna,Zohar
+A1 Pnueli,Amir
+YR 1991
+T1 Temporal proof methodologies for real-time systems
+SP 353
+OP 366
+
+RT Book, Whole
+ID 479726
+A1 Henzinger,Thomas,A.
+A1 Manna,Zohar
+A1 Pnueli,Amir
+YR 1991
+T1 Timed Transition Systems
+SP 226
+OP 251
+
+RT Conference Proceedings
+ID 340913
+A1 Alur,Rajeev
+A1 Henzinger,Thomas,A.
+YR 1990
+T1 Real-time Logics: Complexity and Expressiveness
+SP 390
+OP 401
+
+RT Conference Proceedings
+ID 141420
+A1 Henzingerx,Thomas,A.
+YR 1990
+T1 Half-order modal logic: how to prove real-time properties
+SP 281
+OP 296
+
+RT Conference Proceedings
+ID 223207
+A1 Henzinger,Thomas,A.
+A1 Manna,Zohar
+A1 Pnueli,Amir
+YR 1990
+T1 An interleaving model for real-time
+
+RT Conference Proceedings
+ID 49863112
+A1 Alur,Rajeev
+A1 Henzinger,Thomas,A.
+YR 1989
+T1 A really temporal logic
+
+RT Conference Proceedings
+ID 561540
+A1 Henzinger,Thomas,A.
+A1 Hofbauer,Hubert
+YR 1985
+T1 PROOF-PAD: An Interactive Proof Generating System Using Natural Deduction
+SP 173
+OP 184
+
+RT Book, Whole
+ID 12799076
+A1 Alfaro,Luca,de
+A1 Henzinger,Thomas,A.
+T1 Interface-Based Design
+
+RT Book, Whole
+ID 48748756
+A1 Alur,R.
+A1 Courcoubetis,C.
+A1 Henzinger,T.
+A1 Ho,P.
+A1 Nicollin,X.
+A1 Olivero,A.
+A1 Sifakis,J.
+A1 Yovine,S.
+T1 The algorithmic analysis of hybrid systems
+
+RT Journal Article
+ID 2676823
+A1 Chatterjee,Krishnendu
+A1 Doyen,Laurent
+A1 Henzinger,Thomas,A.
+A1 Raskin,Jean-Francois
+T1 Algorithms for Omega-Regular Games with Incomplete Information
+
+RT Journal Article
+ID 2062900
+A1 Kirsch,Christoph,M.
+A1 Henzinger,Thomas,A.
+A1 Sanvido,Marco,A.,A.
+T1 A Programmable Microkernel for Real-Time Systems
+
+RT Book, Whole
+ID 5993498
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+T1 Finitary Winning in ω Regular Games
+
+RT Book, Whole
+ID 141411
+A1 Raskin,J.-F.
+A1 Schobbens,P.-Y.
+A1 Henzinger,T.,a.
+T1 Axioms for real-time logics
+
+RT Journal Article
+ID 2640730
+A1 Henzinger,Thomas,A.
+A1 Horowitz,Benjamin
+A1 Kirsch,Christoph,M.
+T1 A Time-triggered Language for Embedded Programming
+JF Proceedings of The IEEE
+
+RT Journal Article
+ID 4562220
+A1 Henzinger,Thomas,A.
+A1 Kirsch,Christoph,M.
+A1 Matic,Slobodan
+T1 Distributed Schedule Carrying Code ?
+
+RT Book, Whole
+ID 48834848
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+A1 Horn,Florian
+T1 The Complexity of Request-Response Games
+
+RT Journal Article
+ID 4471825
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+T1 A survey of stochastic ω-regular games
+JF Journal of Computer and System Sciences
+
+RT Journal Article
+ID 5339644
+A1 Sheikh,Farhana
+A1 II,Plan
+A1 Lee,E.,a.
+A1 henzinger,T.
+A1 Reader,Second
+T1 Visualizing Architecture and Algorithm Interaction in Embedded Systems
+
+RT Journal Article
+ID 13039894
+A1 Gulavani,Bhargav,S.
+A1 Henzinger,Thomas,A.
+A1 Kannan,Yamini
+A1 Nori,Aditya,V.
+A1 Rajamani,Sriram,K.
+T1 A New Algorithm for Property Checking
+
+RT Journal Article
+ID 11886562
+A1 Alfaro,Luca,de
+A1 Faella,Marco
+A1 Henzinger,Thomas,A.
+A1 Majumdar,Rupak
+A1 Stoelinga,Marielle
+T1 The Element of Surprise in Timed Games⋆ In Proc. of CONCUR 2003: 14th International Conference on Concurrency Theory, Lectures Notes in Computer Science, Springer-Verlag, 2003
+
+RT Journal Article
+ID 48501669
+A1 Godhal,Yashdeep
+A1 Chatterjee,Krishnendu
+A1 Henzinger,Thomas,A.
+T1 Synthesis of AMBA AHB from formal specification: a case study
+JF International Journal on Software Tools for Technology Transfer
+SP 1
+OP 17
+
+RT Journal Article
+ID 12905009
+A1 Manevich,R.
+A1 Henzinger,T.,A.
+A1 Ramalingam,G.
+A1 Sagiv,M.
+T1 Abstract Counterexample-based Refinement for Relational Domains
+
+RT Journal Article
+ID 12845017
+A1 Chatterjee,Krishnendu
+A1 Zhao,Tian
+A1 Henzinger,Thomas,A.
+A1 Palsberg,Jens
+T1 Stacksize analysis for interrupt-driven programs
+
+RT Journal Article
+ID 4569004
+A1 Jurdzi,Marcin
+A1 Kupferman,Orna
+A1 Henzinger,Thomas,A.
+T1 Trading Probability for Fairness (Extended Abstract)
+
+RT Journal Article
+ID 5417981
+A1 Chatterjee,Krishnendu
+A1 Sen,K,oushik
+A1 Henzinger,Thomas,A.
+T1 Model-Checking ω-Regular Properties of Interval Markov Chains
+
+RT Journal Article
+ID 7040379
+A1 Henzinger,Thomas,A.
+A1 Hottelier,Thibaud
+A1 Kovacs,Laura
+A1 Voronkov,Andrei
+T1 Invariant and Type Inference for Matrices
+
+RT Journal Article
+ID 12653867
+A1 Alfaro,Luca,de
+A1 Henzinger,Thomas,A.
+A1 Stoelinga,Marielle
+T1 Timed Interfaces⋆ In Proc. of EMSOFT 2002: Second International Workshop on Embedded Software, Lectures Notes in Computer Science, Springer-Verlag, 2002
+
+RT Journal Article
+ID 4663300
+A1 Fisher,Jasmin
+A1 Piterman,Nir
+A1 Hajnal,Alex
+A1 Henzinger,Thomas,A.
+T1 Computational Modeling Shedding Light on Animal Development
+
+RT Journal Article
+ID 10556974
+A1 Didier,Frederic
+A1 Henzinger,Thomas,A.
+A1 Mateescu,Maria
+A1 Wolf,Verena
+T1 Fast Adaptive Uniformization of the Chemical Master Equation (Invited Paper)
+
+RT Journal Article
+ID 49327026
+A1 Černý,Pavol
+A1 Henzinger,Thomas,A.
+A1 Radhakrishna,Arjun
+T1 Simulation distances
+JF Fuel and Energy Abstracts
+
+RT Journal Article
+ID 4570141
+A1 Ghosal,Arkadeb
+A1 Sanvido,Marco,A.,A.
+A1 Henzinger,Thomas,A.
+T1 A Preliminary Report on the Embedded Virtual Machine
+
+RT Journal Article
+ID 5922255
+A1 Henzinger,Thomas,A.
+A1 Hottelier,Thibaud
+A1 Kovacs,Laura
+T1 Type Invariants for Matrices ?
+
+RT Book, Whole
+ID 48426024
+A1 Henzinger,Thomas,A.
+T1 Model checking game properties of multi-agent systems

@@ -1,0 +1,2988 @@
+RT Journal Article
+ID 58573939
+A1 Ravindranath,Lenin
+A1 Chen,Tiffany,Yu-Han
+A1 Das,Somak
+A1 Ifrim,Raluca
+A1 Balakrishnan,Hari
+A1 Madden,Sam
+YR 2012
+T1 Demo: code in the air - simplifying tasking on smartphones
+SP 475
+OP 476
+
+RT Conference Proceedings
+ID 56965406
+A1 Subramanian,Jayashree
+A1 Morris,Robert
+A1 Balakrishnan,Hari
+YR 2012
+T1 UFlood: High-throughput flooding over wireless mesh networks
+SP 82
+OP 90
+
+RT Journal Article
+ID 57016157
+A1 Ayyar,Arun
+A1 Balakrishnan,Hari,Ram
+A1 Thangaraj,Andrew
+A1 Nagarajan,Vinoth
+A1 Giridhar,K.
+YR 2012
+T1 Block Modulation for Interference Management in Heterogeneous Wireless Networks
+JF IEEE Journal of Selected Topics in Signal Processing
+VO 6
+SP 241
+OP 256
+IS 3
+
+RT Journal Article
+ID 56920322
+A1 Ravindranath,Lenin
+A1 Thiagarajan,Arvind
+A1 Balakrishnan,Hari
+A1 Madden,Samuel
+YR 2012
+T1 Code in the air : simplifying sensing and coordination tasks on smartphones
+SP 1
+OP 6
+
+RT Journal Article
+ID 58576315
+A1 Perry,Jonathan
+A1 Iannucci,Peter,A.
+A1 Fleming,Kermin,E.
+A1 Balakrishnan,Hari
+A1 Shah,Devavrat
+YR 2012
+T1 Spinal codes
+SP 49
+OP 60
+
+RT Journal Article
+ID 58576093
+A1 Iannucci,Peter,Anthony
+A1 Perry,Jonathan
+A1 Balakrishnan,Hari
+A1 Shah,Devavrat
+YR 2012
+T1 No symbol left behind: a link-layer protocol for rateless codes
+SP 17
+OP 28
+
+RT Conference Proceedings
+ID 39259997
+A1 Curino,Carlo
+A1 Jones,Evan,P.,C.
+A1 Popa,Raluca,A.
+A1 Malviya,Nirmesh
+A1 Wu,Eugene
+A1 Madden,Samuel
+A1 Balakrishnan,Hari
+A1 Zeldovich,Nickolai
+YR 2011
+T1 Relational Cloud: a Database Service for the cloud
+SP 235
+OP 240
+
+RT Journal Article
+ID 56908642
+A1 Curino,Carlo
+A1 Jones,Evan,P.,C.
+A1 Madden,Samuel
+A1 Balakrishnan,Hari
+YR 2011
+T1 Workload-aware database monitoring and consolidation
+SP 313
+OP 324
+
+RT Journal Article
+ID 56905111
+A1 Koponen,Teemu
+A1 Shenker,Scott
+A1 Balakrishnan,Hari
+A1 Feamster,Nick
+A1 Ganichev,Igor
+A1 Ghodsi,Ali
+A1 Godfrey,P.,Brighten
+A1 McKeown,Nick
+A1 Parulkar,Guru
+A1 Raghavan,Barath
+A1 Rexford,Jennifer
+A1 Arianfar,Somaya
+A1 Kuptsov,Dmitriy
+YR 2011
+T1 Architecting for innovation
+JF Computer Communication Review
+SP 24
+OP 36
+
+RT Journal Article
+ID 39322098
+A1 Lim,Sejoon
+A1 Balakrishnan,Hari
+A1 Gifford,David
+A1 Madden,Samuel
+A1 Rus,Daniela
+YR 2011
+T1 Stochastic motion planning and applications to traffic
+JF International Journal of Robotic Research
+VO 30
+SP 699
+OP 712
+IS 6
+
+RT Conference Proceedings
+ID 56911470
+A1 Popa,Raluca,Ada
+A1 Redfield,Catherine,M.,S.
+A1 Zeldovich,Nickolai
+A1 Balakrishnan,Hari
+YR 2011
+T1 CryptDB: protecting confidentiality with encrypted query processing
+SP 85
+OP 100
+
+RT Journal Article
+ID 56901842
+A1 Perry,Jonathan
+A1 Balakrishnan,Hari
+A1 Shah,Devavrat
+YR 2011
+T1 Rateless spinal codes
+SP 1
+OP 6
+
+RT Journal Article
+ID 56910002
+A1 Popa,Raluca,Ada
+A1 Blumberg,Andrew,J.
+A1 Balakrishnan,Hari
+A1 Li,Frank,H.
+YR 2011
+T1 Privacy and accountability for location-based aggregate statistics
+SP 653
+OP 666
+
+RT Journal Article
+ID 56901854
+A1 Winstein,Keith
+A1 Balakrishnan,Hari
+YR 2011
+T1 End-to-end transmission control by modeling uncertainty about the network state
+SP 1
+OP 6
+
+RT Journal Article
+ID 39230474
+A1 Ravindranath,Lenin
+A1 Newport,Calvin,C.
+A1 Balakrishnan,Hari
+A1 Madden,Samuel
+YR 2010
+T1 "Extrasensory perception" for wireless networks
+SP 1
+OP 6
+
+RT Conference Proceedings
+ID 39224108
+A1 Ng,Man,Cheuk
+A1 Fleming,Kermin,Elliott
+A1 Vutukuru,Mythili
+A1 Gross,Samuel
+A1 Arvind,A.
+A1 Balakrishnan,Hari
+YR 2010
+T1 Airblue: a system for cross-layer wireless protocol development
+SP 1
+OP 11
+
+RT Conference Proceedings
+ID 39233691
+A1 LaCurts,Katrina
+A1 Balakrishnan,Hari
+YR 2010
+T1 Measurement and analysis of real-world 802.11 mesh networks
+SP 123
+OP 136
+
+RT Journal Article
+ID 14423603
+A1 Walfish,Michael
+A1 Vutukuru,Mythili
+A1 Balakrishnan,Hari
+A1 Karger,David
+A1 Shenker,Scott
+A1 Raicu,Ioan
+YR 2010
+T1 DDoS defense by offense
+JF ACM Transactions on Computer Systems
+VO 28
+SP 1
+OP 54
+IS 1
+
+RT Conference Proceedings
+ID 39240128
+A1 Kaler,Tim
+A1 Lynch,John,Patrick
+A1 Peng,Timothy
+A1 Ravindranath,Lenin
+A1 Thiagarajan,Arvind
+A1 Balakrishnan,Hari
+A1 Madden,Samuel
+YR 2010
+T1 Code in the air: simplifying sensing on smartphones
+SP 407
+OP 408
+
+RT Conference Proceedings
+ID 4888876
+A1 Qureshi,Asfandyar
+A1 Weber,Rick
+A1 Balakrishnan,Hari
+A1 Guttag,John,V.
+A1 Maggs,Bruce,V.
+YR 2009
+T1 Cutting the electric bill for internet-scale systems
+SP 123
+OP 134
+
+RT Conference Proceedings
+ID 4913031
+A1 Vutukuru,Mythili
+A1 Balakrishnan,Hari
+A1 Jamieson,Kyle
+YR 2009
+T1 Cross-layer wireless bit rate adaptation
+SP 3
+OP 14
+
+RT Conference Proceedings
+ID 6050043
+A1 Thiagarajan,Arvind
+A1 Ravindranath,Lenin
+A1 Lacurts,Katrina
+A1 Madden,Samuel
+A1 Balakrishnan,Hari
+A1 Toledo,Sivan
+A1 Eriksson,Jakob
+YR 2009
+T1 VTrack: accurate, energy-aware road traffic delay estimation using mobile phones
+SP 85
+OP 98
+
+RT Conference Proceedings
+ID 5307006
+A1 Newton,Ryan
+A1 Toledo,Sivan
+A1 Girod,Lewis
+A1 Balakrishnan,Hari
+A1 Madden,Samuel
+YR 2009
+T1 Wishbone: Profile-based Partitioning for Sensornet Applications
+SP 395
+OP 408
+
+RT Journal Article
+ID 4901297
+A1 Popa,Raluca,Ada
+A1 Balakrishnan,Hari
+A1 Blumberg,Andrew,J.
+YR 2009
+T1 VPriv: Protecting Privacy in Location-Based Vehicular Services
+SP 335
+OP 350
+
+RT Conference Proceedings
+ID 6688619
+A1 Gummadi,Ramakrishna
+A1 Balakrishnan,Hari
+A1 Maniatis,Petros
+A1 Ratnasamy,Sylvia
+YR 2009
+T1 Not-a-Bot: Improving Service Availability in the Face of Botnet Attacks
+SP 307
+OP 320
+
+RT Conference Proceedings
+ID 5900072
+A1 Gummadi,Ramakrishna
+A1 Balakrishnan,Hari
+A1 Seshant,Srinivasan
+YR 2009
+T1 Metronome: Coordinating spectrum sharing in heterogeneous wireless networks
+
+RT Journal Article
+ID 14416782
+A1 Qureshi,Asfandyar
+A1 Weber,Rick
+A1 Balakrishnan,Hari
+A1 Guttag,John
+A1 Maggs,Bruce
+YR 2009
+T1 Cutting the electric bill for internet-scale systems
+JF Computer Communication Review
+VO 39
+SP 123
+OP 134
+IS 4
+
+RT Journal Article
+ID 14416799
+A1 Vutukuru,Mythili
+A1 Balakrishnan,Hari
+A1 Jamieson,Kyle
+YR 2009
+T1 Cross-layer wireless bit rate adaptation
+JF Computer Communication Review
+VO 39
+SP 3
+OP 14
+IS 4
+
+RT Journal Article
+ID 4362431
+A1 Mckeown,Nick
+A1 Anderson,Tom
+A1 Balakrishnan,Hari
+A1 Parulkar,Guru,M.
+A1 Peterson,Larry,L.
+A1 Rexford,Jennifer
+A1 Shenker,Scott
+A1 Turner,Jonathan,S.
+YR 2008
+T1 OpenFlow: enabling innovation in campus networks
+JF Computer Communication Review
+VO 38
+SP 69
+OP 74
+IS 2
+
+RT Conference Proceedings
+ID 4303128
+A1 Eriksson,Jakob
+A1 Balakrishnan,Hari
+A1 Madden,Samuel
+YR 2008
+T1 Cabernet: vehicular content delivery using WiFi
+SP 199
+OP 210
+
+RT Conference Proceedings
+ID 4316118
+A1 Andersen,David,G.
+A1 Balakrishnan,Hari
+A1 Feamster,Nick
+A1 Koponen,Teemu
+A1 Moon,Daekyeong
+A1 Shenker,Scott
+YR 2008
+T1 Accountable internet protocol (aip)
+SP 339
+OP 350
+
+RT Conference Proceedings
+ID 4143718
+A1 Eriksson,Jakob
+A1 Girod,Lewis
+A1 Hull,Bret
+A1 Newton,Ryan
+A1 Madden,Samuel
+A1 Balakrishnan,Hari
+YR 2008
+T1 The pothole patrol: using a mobile sensor network for road surface monitoring
+SP 29
+OP 39
+
+RT Conference Proceedings
+ID 4316123
+A1 Katti,Sachin
+A1 Katabi,Dina
+A1 Balakrishnan,Hari
+A1 Médard,Muriel
+YR 2008
+T1 Symbol-level network coding for wireless mesh networks
+SP 401
+OP 412
+
+RT Conference Proceedings
+ID 4727610
+A1 Vutukuru,Mythili
+A1 Jamieson,Kyle
+A1 Balakrishnan,Hari
+YR 2008
+T1 Harnessing Exposed Terminals in Wireless Networks
+SP 59
+OP 72
+
+RT Journal Article
+ID 4439953
+A1 Jain,Namit
+A1 Mishra,Shailendra
+A1 Srinivasan,Anand
+A1 Gehrke,Johannes
+A1 Widom,Jennifer
+A1 Balakrishnan,Hari
+A1 Çetintemel,Ugur
+A1 Cherniack,Mitch
+A1 Tibbetts,Richard
+YR 2008
+T1 Towards a streaming SQL standard
+JF Proceedings of The Vldb Endowment
+VO 1
+SP 1379
+OP 1390
+IS 2
+
+RT Conference Proceedings
+ID 4272308
+A1 Girod,Lewis
+A1 Mei,Yuan
+A1 Newton,Ryan
+A1 Rost,Stanislav
+A1 Thiagarajan,Arvind
+A1 Balakrishnan,Hari
+A1 Madden,Samuel
+YR 2008
+T1 XStream: a Signal-Oriented Data Stream Management System
+SP 1180
+OP 1189
+
+RT Journal Article
+ID 4415631
+A1 Balazinska,Magdalena
+A1 Balakrishnan,Hari
+A1 Madden,Samuel,R.
+A1 Stonebraker,Michael
+YR 2008
+T1 Fault-tolerance in the borealis distributed stream processing system
+JF ACM Transactions on Database Systems
+VO 33
+SP 1
+OP 44
+IS 1
+
+RT Conference Proceedings
+ID 4319406
+A1 Vutukuru,Mythili
+A1 Balakrishnan,Hari
+A1 Paxson,Vern
+YR 2008
+T1 Efficient and Robust TCP Stream Normalization
+SP 96
+OP 110
+
+RT Book, Whole
+ID 5268568
+A1 Lim,Sejoon
+A1 Balakrishnan,Hari
+A1 Gifford,David
+A1 Madden,Samuel
+A1 Rus,Daniela
+YR 2008
+T1 Stochastic Motion Planning and Applications to Traffic
+SP 483
+OP 500
+
+RT Journal Article
+ID 14416752
+A1 Katti,Sachin
+A1 Katabi,Dina
+A1 Balakrishnan,Hari
+A1 Medard,Muriel
+YR 2008
+T1 Symbol-level network coding for wireless mesh networks
+JF Computer Communication Review
+VO 38
+SP 401
+OP 412
+IS 4
+
+RT Conference Proceedings
+ID 4315212
+A1 Balakrishnan,Hari
+A1 Correll,Nikolaus
+A1 Eriksson,Jakob
+A1 Lim,Sejoon
+A1 Madden,Samuel
+A1 Rus,Daniela
+YR 2008
+T1 PCP: the personal commute portal
+SP 353
+OP 354
+
+RT Journal Article
+ID 14416746
+A1 Andersen,David,G.
+A1 Balakrishnan,Hari
+A1 Feamster,Nick
+A1 Koponen,Teemu
+A1 Moon,Daekyeong
+A1 Shenker,Scott
+YR 2008
+T1 Accountable internet protocol (aip)
+JF Computer Communication Review
+VO 38
+SP 339
+OP 350
+IS 4
+
+RT Journal Article
+ID 14295665
+A1 Balakrishnan,Hari
+A1 Correll,Nikolaus
+A1 Erikkson,Jakob
+A1 Lim,Sejoon
+A1 Madden,Samuel
+A1 Rus,Daniela
+YR 2008
+T1 Demo Abstract: PCP: The Personal Commute Portal
+
+RT Conference Proceedings
+ID 4316075
+A1 Jamieson,Kyle
+A1 Balakrishnan,Hari
+YR 2007
+T1 PPR: partial packet recovery for wireless networks
+SP 409
+OP 420
+
+RT Conference Proceedings
+ID 2422076
+A1 Girod,Lewis
+A1 Mei,Yuan
+A1 Newton,Ryan
+A1 Rost,Stanislav
+A1 Thiagarajan,Arvind
+A1 Balakrishnan,Hari
+A1 Madden,Samuel
+YR 2007
+T1 The Case for a Signal-Oriented Data Stream Management System
+SP 397
+OP 406
+
+RT Conference Proceedings
+ID 2437095
+A1 Zhang,Yang
+A1 Hull,Bret
+A1 Balakrishnan,Hari
+A1 Madden,Samuel
+YR 2007
+T1 ICEDB: Intermittently-Connected Continuous Query Processing
+SP 166
+OP 175
+
+RT Journal Article
+ID 4416273
+A1 Feamster,Nick
+A1 Johari,Ramesh
+A1 Balakrishnan,Hari
+YR 2007
+T1 Implications of autonomy for the expressiveness of policy routing
+JF IEEE/ACM Transactions on Networking
+VO 15
+SP 1266
+OP 1279
+IS 6
+
+RT Conference Proceedings
+ID 4319385
+A1 Vandiver,Ben
+A1 Balakrishnan,Hari
+A1 Liskov,Barbara
+A1 Madden,Samuel
+YR 2007
+T1 Tolerating Byzantine Faults in Transaction Processing Systems using Commit Barrier Scheduling
+SP 59
+OP 72
+
+RT Conference Proceedings
+ID 4113700
+A1 Madden,Sam
+A1 Zhang,Yang
+A1 Hull,Bret
+A1 Bychkovsky,Vladimir
+A1 Balakrishnan,Hari
+YR 2007
+T1 CarTelDB: Continuous Query Processing in an Intermittently Connected World
+
+RT Journal Article
+ID 4418965
+A1 Miu,Allen
+A1 Balakrishnan,Hari
+A1 Koksal,Can,Emre
+YR 2007
+T1 Multi-radio diversity in wireless networks
+JF Wireless Networks
+VO 13
+SP 779
+OP 798
+IS 6
+
+RT Journal Article
+ID 14417850
+A1 Vandiver,Ben
+A1 Balakrishnan,Hari
+A1 Liskov,Barbara
+A1 Madden,Sam
+YR 2007
+T1 Tolerating byzantine faults in transaction processing systems using commit barrier scheduling
+JF Operating Systems Review
+VO 41
+SP 59
+OP 72
+IS 6
+
+RT Journal Article
+ID 14416699
+A1 Jamieson,Kyle
+A1 Balakrishnan,Hari
+YR 2007
+T1 PPR: partial packet recovery for wireless networks
+JF Computer Communication Review
+VO 37
+SP 409
+OP 420
+IS 4
+
+RT Journal Article
+ID 39249510
+A1 Feamster,Nick
+A1 Johari,Ramesh
+A1 Balakrishnan,Hari
+YR 2007
+T1 Implications of autonomy for the expressiveness of policy routing
+JF IEEE/ACM Transactions on Networking
+VO 15
+SP 1266
+OP 1279
+IS 6
+
+RT Conference Proceedings
+ID 4307963
+A1 Balakrishnan,Hari
+YR 2007
+T1 When the Sensors Hit the Roads (Invited Talk)
+SP 97
+
+RT Conference Proceedings
+ID 2471552
+A1 Hull,Bret
+A1 Bychkovsky,Vladimir
+A1 Zhang,Yang
+A1 Chen,Kevin
+A1 Goraczko,Michel
+A1 Miu,Allen
+A1 Shih,Eugene
+A1 Balakrishnan,Hari
+A1 Madden,Samuel
+YR 2006
+T1 CarTel: a distributed mobile sensor computing system
+SP 125
+OP 138
+
+RT Conference Proceedings
+ID 2463953
+A1 Bychkovsky,Vladimir
+A1 Hull,Bret
+A1 Miu,Allen
+A1 Balakrishnan,Hari
+A1 Madden,Samuel
+YR 2006
+T1 A measurement study of vehicular internet access using in situ Wi-Fi networks
+SP 50
+OP 61
+
+RT Book, Whole
+ID 2196559
+A1 Jamieson,Kyle
+A1 Balakrishnan,Hari
+A1 Tay,Y.,C.
+YR 2006
+T1 Sift: A MAC Protocol for Event-Driven Wireless Sensor Networks
+SP 260
+OP 275
+
+RT Journal Article
+ID 4399348
+A1 Koksal,Can,Emre
+A1 Balakrishnan,Hari
+YR 2006
+T1 Quality-Aware Routing Metrics for Time-Varying Wireless Mesh Networks
+JF IEEE Journal on Selected Areas in Communications
+VO 24
+SP 1984
+OP 1994
+IS 11
+
+RT Journal Article
+ID 2472055
+A1 Walfish,Michael
+A1 Vutukuru,Mythili
+A1 Balakrishnan,Hari
+A1 Karger,David,R.
+A1 Shenker,Scott
+YR 2006
+T1 DDoS defense by offense
+JF ACM Transactions on Computer Systems
+VO 28
+SP 303
+OP 314
+IS 1
+
+RT Conference Proceedings
+ID 6227435
+A1 Rost,Stanislav
+A1 Balakrishnan,Hari
+YR 2006
+T1 Memento: A Health Monitoring System for Wireless Sensor Networks
+
+RT Conference Proceedings
+ID 4126817
+A1 Walfish,Michael
+A1 Zamfirescu,J.,D.
+A1 Balakrishnan,Hari
+A1 Karger,David,R.
+A1 Shenker,Scott
+YR 2006
+T1 Distributed Quota Enforcement for Spam Control
+
+RT Conference Proceedings
+ID 2446944
+A1 Shin,Seungwon
+A1 Jung,Jaeyeon
+A1 Balakrishnan,Hari
+YR 2006
+T1 Malware prevalence in the KaZaA file-sharing network
+SP 333
+OP 338
+
+RT Conference Proceedings
+ID 2471544
+A1 Bychkovsky,Vladimir
+A1 Chen,Kevin
+A1 Goraczko,Michel
+A1 Hu,Hongyi
+A1 Hull,Bret
+A1 Miu,Allen
+A1 Shih,Eugene
+A1 Zhang,Yang
+A1 Balakrishnan,Hari
+A1 Madden,Samuel
+YR 2006
+T1 The CarTel mobile sensor computing system
+SP 383
+OP 384
+
+RT Conference Proceedings
+ID 2448041
+A1 Vutukuru,Mythili
+A1 Valiant,Paul
+A1 Kopparty,Swastik
+A1 Balakrishnan,Hari
+YR 2006
+T1 How to Construct a Correct and Scalable iBGP Configuration
+SP 1
+OP 12
+
+RT Conference Proceedings
+ID 2195199
+A1 Bychkovsky,Vladimir
+A1 Chen,Kevin
+A1 Goraczko,Michel
+A1 Hu,Hongyi
+A1 Hull,Bret
+A1 Miu,Allen
+A1 Shih,Eugene
+A1 Zhang,Yang
+A1 Balakrishnan,Hari
+A1 Madden,Samuel
+YR 2006
+T1 Data management in the CarTel mobile sensor computing system
+SP 730
+OP 732
+
+RT Conference Proceedings
+ID 2471580
+A1 Girod,Lewis
+A1 Jamieson,Kyle
+A1 Mei,Yuan
+A1 Newton,Ryan
+A1 Rost,Stanislav
+A1 Thiagarajan,Arvind
+A1 Balakrishnan,Hari
+A1 Madden,Samuel
+YR 2006
+T1 WaveScope: a signal-oriented data stream management system
+SP 421
+OP 422
+
+RT Journal Article
+ID 14416636
+A1 Walfish,Michael
+A1 Vutukuru,Mythili
+A1 Balakrishnan,Hari
+A1 Karger,David
+A1 Shenker,Scott
+YR 2006
+T1 DDoS defense by offense
+JF Computer Communication Review
+VO 36
+SP 303
+OP 314
+IS 4
+
+RT Journal Article
+ID 36017505
+A1 Balakrishnan,H.
+A1 Satyanarayana,L.
+A1 Gaikwad,S.,M.
+A1 Suresh,C.,G.
+YR 2006
+T1 Structural and active site modification studies implicate Glu, Trp and Arg in the activity of xylanase from alkalophilic Bacillus sp. (NCL 87-6-10)
+JF Enzyme and Microbial Technology
+VO 39
+SP 67
+OP 73
+IS 1
+
+RT Conference Proceedings
+ID 2368888
+A1 Feamster,Nick
+A1 Balakrishnan,Hari
+YR 2005
+T1 Detecting BGP configuration faults with static analysis
+SP 43
+OP 56
+
+RT Conference Proceedings
+ID 1849971
+A1 Miu,Allen,K.,L.
+A1 Balakrishnan,Hari
+A1 Koksal,Can,Emre
+YR 2005
+T1 Improving loss resilience with multi-radio diversity in wireless networks
+SP 16
+OP 30
+
+RT Conference Proceedings
+ID 2375557
+A1 Priyantha,Nissanka,B.
+A1 Balakrishnan,Hari
+A1 Demaine,Erik,D.
+A1 Teller,Seth,J.
+YR 2005
+T1 Mobile-assisted localization in wireless sensor networks
+VO 1
+SP 172
+OP 183
+
+RT Conference Proceedings
+ID 2384923
+A1 Jamieson,Kyle
+A1 Hull,Bret
+A1 Miu,Allen
+A1 Balakrishnan,Hari
+YR 2005
+T1 Understanding the real-world performance of carrier sense
+SP 52
+OP 57
+
+RT Conference Proceedings
+ID 1856381
+A1 Balazinska,Magdalena
+A1 Balakrishnan,Hari
+A1 Madden,Samuel
+A1 Stonebraker,Michael
+YR 2005
+T1 Fault-tolerance in the Borealis distributed stream processing system
+SP 13
+OP 24
+
+RT Conference Proceedings
+ID 2446978
+A1 Freedman,Michael,J.
+A1 Vutukuru,Mythili
+A1 Feamster,Nick
+A1 Balakrishnan,Hari
+YR 2005
+T1 Geographic Locality of IP Prefixes
+SP 153
+OP 158
+
+RT Conference Proceedings
+ID 2373083
+A1 Andersen,David,G.
+A1 Balakrishnan,Hari
+A1 Kaashoek,M.,Frans
+A1 Rao,Rohit,N.
+YR 2005
+T1 Improving Web Availability for Clients with MONET
+SP 115
+OP 128
+
+RT Journal Article
+ID 2192351
+A1 Feamster,Nick
+A1 Johari,Ramesh
+A1 Balakrishnan,Hari
+YR 2005
+T1 Implications of autonomy for the expressiveness of policy routing
+JF Computer Communication Review
+VO 35
+SP 25
+OP 36
+IS 4
+
+RT Journal Article
+ID 1726968
+A1 Krashinsky,Ronny
+A1 Balakrishnan,Hari
+YR 2005
+T1 Minimizing Energy for Wireless Web Access with Bounded Slowdown
+JF Wireless Networks
+VO 11
+SP 135
+OP 148
+IS 1-2
+
+RT Journal Article
+ID 1242871
+A1 Feamster,Nick
+A1 Jung,Jaeyeon
+A1 Balakrishnan,Hari
+YR 2005
+T1 An empirical study of "bogon" route advertisements
+JF Computer Communication Review
+VO 35
+SP 63
+OP 70
+IS 1
+
+RT Journal Article
+ID 2369397
+A1 Walfish,Michael
+A1 Balakrishnan,Hari
+A1 Karger,David
+A1 Shenker,Scott
+YR 2005
+T1 DoS: Fighting Fire with Fire
+
+RT Journal Article
+ID 2903522
+A1 Feamster,Nick
+A1 Balakrishnan,Hari
+YR 2005
+T1 Correctness Properties for Internet Routing
+
+RT Book, Whole
+ID 1835040
+A1 Balakrishnan,Hari
+A1 Shenker,Scott
+A1 Walfish,Michael
+YR 2005
+T1 Peering Peer-to-Peer Providers
+SP 104
+OP 114
+
+RT Conference Proceedings
+ID 3910816
+A1 Feamster,N.
+A1 Johari,R.
+A1 Balakrishnan,H.
+YR 2005
+T1 The implications of autonomy for stable policy routing
+
+RT Conference Proceedings
+ID 2381613
+A1 Feamster,Nick
+A1 Johari,Ramesh
+A1 Balakrishnan,Hari
+YR 2005
+T1 Stable Policy Routing with Provider Independence
+
+RT Journal Article
+ID 2985318
+A1 Balakrishnan,H.
+A1 Karger,D.
+A1 Shenker,S.
+YR 2005
+T1 Dos: Fighting 炉re with 炉re
+
+RT Journal Article
+ID 3334770
+A1 Rost,Stanislav
+A1 Balakrishnan,Hari
+YR 2005
+T1 Lobcast: Reliable Dissemination in Wireless Sensor Networks
+
+RT Conference Proceedings
+ID 4305300
+A1 Feamster,Nick
+A1 Balakrishnan,Hari
+YR 2005
+T1 Detecting BGP Configuration Faults with Static Analysis (Awarded Best Paper)
+
+RT Journal Article
+ID 39212562
+A1 Feamster,Nick
+A1 Johari,Ramesh
+A1 Balakrishnan,Hari
+YR 2005
+T1 Implications of autonomy for the expressiveness of policy routing
+JF Computer Communication Review
+SP 25
+OP 36
+
+RT Conference Proceedings
+ID 13274079
+A1 Redi,Jason
+A1 Balakrishnan,Hari
+A1 Zhao,Feng
+YR 2005
+T1 Proceedings of the 3rd International Conference on Embedded Networked Sensor Systems, SenSys 2005, San Diego, California, USA, November 2-4, 2005
+
+RT Conference Proceedings
+ID 2160735
+A1 Jung,Jaeyeon
+A1 Paxson,Vern
+A1 Berger,Arthur,W.
+A1 Balakrishnan,Hari
+YR 2004
+T1 Fast Portscan Detection Using Sequential Hypothesis Testing
+SP 211
+OP 225
+
+RT Conference Proceedings
+ID 1241367
+A1 Hull,Bret
+A1 Jamieson,Kyle
+A1 Balakrishnan,Hari
+YR 2004
+T1 Mitigating congestion in wireless sensor networks
+SP 134
+OP 147
+
+RT Conference Proceedings
+ID 893788
+A1 Smith,Adam
+A1 Balakrishnan,Hari
+A1 Goraczko,Michel
+A1 Priyantha,Nissanka,B.
+YR 2004
+T1 Tracking moving devices with the cricket location system
+SP 190
+OP 202
+
+RT Journal Article
+ID 1238172
+A1 Balakrishnan,Hari
+A1 Lakshminarayanan,Karthik
+A1 Ratnasamy,Sylvia
+A1 Shenker,Scott
+A1 Stoica,Ion
+A1 Walfish,Michael
+YR 2004
+T1 A layered naming architecture for the internet
+JF Computer Communication Review
+VO 34
+SP 343
+OP 352
+IS 4
+
+RT Journal Article
+ID 1588103
+A1 Tay,Y.,C.
+A1 Jamieson,Kyle
+A1 Balakrishnan,Hari
+YR 2004
+T1 Collision-minimizing CSMA and its applications to wireless sensor networks
+JF IEEE Journal on Selected Areas in Communications
+VO 22
+SP 1048
+OP 1057
+IS 6
+
+RT Conference Proceedings
+ID 1401563
+A1 Subramanian,Lakshminarayanan
+A1 Stoica,Ion
+A1 Balakrishnan,Hari
+A1 Katz,Randy,H.
+YR 2004
+T1 OverQoS: An Overlay Based Architecture for Enhancing Internet QoS
+SP 71
+OP 84
+
+RT Conference Proceedings
+ID 1255369
+A1 Walfish,Michael
+A1 Stribling,Jeremy
+A1 Krohn,Maxwell,N.
+A1 Balakrishnan,Hari
+A1 Morris,Robert
+A1 Shenker,Scott
+YR 2004
+T1 Middleboxes No Longer Considered Harmful
+SP 215
+OP 230
+
+RT Conference Proceedings
+ID 1238198
+A1 Feamster,Nick
+A1 Balakrishnan,Hari
+A1 Rexford,Jennifer
+A1 Shaikh,Aman
+A1 Merwe,Jacobus,van,der
+YR 2004
+T1 The case for separating routing from routers
+SP 5
+OP 12
+
+RT Conference Proceedings
+ID 2199289
+A1 Walfish,Michael
+A1 Balakrishnan,Hari
+A1 Shenker,Scott,J.
+YR 2004
+T1 Untangling the Web from DNS
+SP 225
+OP 238
+
+RT Conference Proceedings
+ID 1262061
+A1 Balazinska,Magdalena
+A1 Balakrishnan,Hari
+A1 Stonebraker,Michael
+YR 2004
+T1 Contract-Based Load Management in Federated Distributed Systems
+SP 197
+OP 210
+
+RT Journal Article
+ID 1588108
+A1 Balakrishnan,Hari
+A1 Barrett,Christopher,L.
+A1 Kumar,V.,S.,Anil
+A1 Marathe,Madhav,V.
+A1 Thite,Shripad
+YR 2004
+T1 The distance-2 matching problem and its relationship to the MAC-Layer capacity of ad hoc wireless networks
+JF IEEE Journal on Selected Areas in Communications
+VO 22
+SP 1069
+OP 1079
+IS 6
+
+RT Journal Article
+ID 1721060
+A1 Balakrishnan,Hari
+A1 Balazinska,Magdalena
+A1 Carney,Donald
+A1 Çetintemel,Ugur
+A1 Cherniack,Mitch
+A1 Convey,Christian
+A1 Galvez,Eduardo,F.
+A1 Salz,Jon
+A1 Stonebraker,Michael
+A1 Tatbul,Nesime
+A1 Tibbetts,Richard
+YR 2004
+T1 Retrospective on Aurora
+JF The Vldb Journal
+VO 13
+SP 370
+OP 383
+IS 4
+
+RT Journal Article
+ID 2180541
+A1 Nain,Delphine
+A1 Petigara,Noshirwan
+A1 Balakrishnan,Hari
+YR 2004
+T1 Integrated Routing and Storage for Messaging Applications in Mobile Ad Hoc Networks
+JF Mobile Networks and Applications
+VO 9
+SP 595
+OP 604
+IS 6
+
+RT Conference Proceedings
+ID 893790
+A1 Miu,Allen,K.,L.
+A1 Tan,Godfrey
+A1 Balakrishnan,Hari
+A1 Apostolopoulos,John,G.
+YR 2004
+T1 Divert: fine-grained path selection for wireless LANs
+SP 203
+OP 216
+
+RT Journal Article
+ID 2381260
+A1 Feamster,Nick
+A1 Balakrishnan,Hari
+A1 Rexford,Jennifer
+YR 2004
+T1 Some Foundational Problems in Interdomain Routing
+
+RT Journal Article
+ID 2382938
+A1 Abadi,D.
+A1 Ahmad,Y.
+A1 Balakrishnan,H.
+YR 2004
+T1 The Design of the Borealis Stream Processing Engine
+
+RT Conference Proceedings
+ID 3841523
+A1 Hull,B.
+A1 Jamieson,K.
+A1 Balakrishnan,H.
+YR 2004
+T1 Techniques for mitigating congestion in sensor networks
+
+RT Conference Proceedings
+ID 917816
+A1 Balazinska,Magdalena
+A1 Balakrishnan,Hari
+A1 Stonebraker,Michael
+YR 2004
+T1 Load management and high availability in the Medusa distributed stream processing system
+SP 929
+OP 930
+
+RT Journal Article
+ID 1267238
+A1 Feamster,Nick
+A1 Balakrishnan,Hari
+YR 2004
+T1 Verifying the Correctness of Wide-Area Internet Routing
+
+RT Journal Article
+ID 1696538
+A1 Feamster,Nick
+A1 Jung,Jaeyeon
+A1 Balakrishnan,Hari
+YR 2004
+T1 An empirical study of "bogon" route advertisements
+JF Computer Communication Review
+VO 35
+SP 63
+OP 70
+IS 1
+
+RT Journal Article
+ID 4185089
+A1 Balakrishnan,H.
+YR 2004
+T1 Opportunities in high - rate wireless sensor networking
+
+RT Journal Article
+ID 4594774
+A1 Balakrishnan,Hari
+A1 Karger,David,R.
+YR 2004
+T1 Spam-I-am: A Proposal for Spam Control using Distributed Quota Management
+
+RT Conference Proceedings
+ID 1859657
+A1 Balakrishnan,Hari
+A1 Devadas,Srinivas
+A1 Ehlert,Douglas
+A1 Arvind
+YR 2004
+T1 Rate Guarantees and Overload Protection in Input-Queued Switches
+VO 4
+SP 2185
+
+RT Conference Proceedings
+ID 1775673
+A1 Balakrishnan,Hari
+YR 2004
+T1 Opportunities and Challenges in High-Rate Wireless Sensor Networking
+SP 4
+
+RT Journal Article
+ID 48015705
+A1 Kumar,B.,Kamal
+A1 Balakrishnan,H.
+A1 Rele,M.,V.
+YR 2004
+T1 Compatibility of alkaline xylanases from an alkaliphilic Bacillus NCL (87-6-10) with commercial detergents and proteases
+JF Journal of Industrial Microbiology & Biotechnology
+VO 31
+SP 83
+OP 87
+IS 2
+
+RT Journal Article
+ID 39212558
+A1 Balakrishnan,Hari
+A1 Lakshminarayanan,Karthik
+A1 Ratnasamy,Sylvia
+A1 Shenker,Scott
+A1 Stoica,Ion
+A1 Walfish,Michael
+YR 2004
+T1 A layered naming architecture for the internet
+JF Computer Communication Review
+SP 343
+OP 352
+
+RT Journal Article
+ID 765687
+A1 Stoica,Ion
+A1 Morris,Robert
+A1 Liben-Nowell,David
+A1 Karger,David,R.
+A1 Kaashoek,M.,Frans
+A1 Dabek,Frank
+A1 Balakrishnan,Hari
+YR 2003
+T1 Chord: a scalable peer-to-peer lookup protocol for internet applications
+JF IEEE/ACM Transactions on Networking
+VO 11
+SP 17
+OP 32
+IS 1
+
+RT Journal Article
+ID 32053
+A1 Balakrishnan,Hari
+A1 Kaashoek,M.,Frans
+A1 Karger,David,R.
+A1 Morris,Robert
+A1 Stoica,Ion
+YR 2003
+T1 Looking up data in P2P systems
+JF Communications of The ACM
+VO 46
+SP 43
+OP 48
+IS 2
+
+RT Conference Proceedings
+ID 499339
+A1 Cherniack,Mitch
+A1 Balakrishnan,Hari
+A1 Balazinska,Magdalena
+A1 Carney,Donald
+A1 Çetintemel,Ugur
+A1 Xing,Ying
+YR 2003
+T1 Scalable Distributed Stream Processing
+
+RT Conference Proceedings
+ID 1375086
+A1 Priyantha,Nissanka,B.
+A1 Balakrishnan,Hari
+A1 Demaine,Erik,D.
+A1 Teller,Seth,J.
+YR 2003
+T1 Anchor-free distributed localization in sensor networks
+SP 340
+OP 341
+
+RT Journal Article
+ID 4210239
+A1 Stoica,I.
+A1 Morris,R.
+A1 Nowell,D.,Liben
+A1 Karger,D.,R.
+A1 Kaashoek,M.,F.
+A1 Dabek,F.
+A1 Balakrishnan,H.
+YR 2003
+T1 Chord: a scalable peer - to - peer lookup service for internet applica - tions
+
+RT Journal Article
+ID 33058
+A1 Feamster,Nick
+A1 Andersen,David,G.
+A1 Balakrishnan,Hari
+A1 Kaashoek,M.,Frans
+YR 2003
+T1 Measuring the effects of internet path faults on reactive routing
+JF Sigmetrics Performance Evaluation Review
+VO 31
+SP 126
+OP 137
+IS 1
+
+RT Conference Proceedings
+ID 906784
+A1 Andersen,David,G.
+A1 Snoeren,Alex,C.
+A1 Balakrishnan,Hari
+YR 2003
+T1 Best-path vs. multi-path overlay routing
+SP 91
+OP 100
+
+RT Journal Article
+ID 48333
+A1 Subramanian,Lakshminarayanan
+A1 Stoica,Ion
+A1 Balakrishnan,Hari
+A1 Katz,Randy,H.
+YR 2003
+T1 OverQoS: offering Internet QoS using overlays
+JF Computer Communication Review
+VO 33
+SP 11
+OP 16
+IS 1
+
+RT Journal Article
+ID 779114
+A1 Stonebraker,Michael
+A1 Cherniack,Mitch
+A1 Çetintemel,Ugur
+A1 Balazinska,Magdalena
+A1 Balakrishnan,Hari
+YR 2003
+T1 The Aurora and Medusa Projects
+JF IEEE Data(base) Engineering Bulletin
+VO 26
+SP 3
+OP 10
+IS 1
+
+RT Journal Article
+ID 1966766
+A1 Balakrishnan,Hari
+A1 Baliga,Roshan
+A1 Curtis,Dorothy
+A1 Goraczko,Michel
+A1 Miu,Allen
+A1 Priyantha,Bodhi
+A1 Smith,Adam
+A1 Steele,Ken
+A1 Teller,Seth
+A1 Wang,Kevin
+YR 2003
+T1 Lessons from Developing and Deploying the Cricket Indoor Location System
+
+RT Journal Article
+ID 1594243
+A1 Teller,Seth,J.
+A1 Chen,Jiawen
+A1 Balakrishnan,Hari
+YR 2003
+T1 Pervasive Pose-Aware Applications and Infrastructure
+JF IEEE Computer Graphics and Applications
+VO 23
+SP 14
+OP 18
+IS 4
+
+RT Conference Proceedings
+ID 10820128
+A1 Jung,Jaeyeon
+A1 Berger,Arthur,W.
+A1 Balakrishnan,Hari
+YR 2003
+T1 Modeling TTL-based Internet caches
+VO 1
+SP 417
+
+RT Journal Article
+ID 15912
+A1 Feamster,Nick
+A1 Balakrishnan,Hari
+YR 2003
+T1 Towards a logic for wide-area Internet routing
+JF Computer Communication Review
+VO 33
+SP 289
+OP 300
+IS 4
+
+RT Book, Whole
+ID 33043
+A1 Balakrishnan,Hari
+A1 Shenker,Scott
+A1 Walfish,Michael
+YR 2003
+T1 Semantic-Free Referencing in Linked Distributed Systems
+SP 197
+OP 206
+
+RT Conference Proceedings
+ID 1252135
+A1 Akella,Aditya
+A1 Seshan,Srinivasan
+A1 Balakrishnan,Hari
+YR 2003
+T1 The Impact of False Sharing on Shared Congestion Management
+SP 84
+OP 94
+
+RT Conference Proceedings
+ID 3847414
+A1 Salz,Jon
+A1 Balakrishnan,Hari
+A1 Snoeren,Alex,C.
+YR 2003
+T1 TESLA: A Transparent, Extensible Session-Layer Architecture for End-to-end Network Services
+
+RT Conference Proceedings
+ID 1322094
+A1 Hull,Bret
+A1 Jamieson,Kyle
+A1 Balakrishnan,Hari
+YR 2003
+T1 Bandwidth management in wireless sensor networks
+SP 306
+OP 307
+
+RT Conference Proceedings
+ID 681614
+A1 Jung,Jaeyeon
+A1 Berger,Arthur,W.
+A1 Balakrishnan,Hari
+YR 2003
+T1 Modelling TTL-based Internet Caches
+
+RT Journal Article
+ID 724129
+A1 Andersen,David,G.
+A1 Balakrishnan,Hari
+A1 Kaashoek,M.,Frans
+A1 Morris,Robert
+YR 2003
+T1 Experience with an evolving overlay network testbed
+JF Computer Communication Review
+VO 33
+SP 13
+OP 19
+IS 3
+
+RT Conference Proceedings
+ID 892603
+A1 Priyantha,Nissanka,B.
+A1 Balakrishnan,Hari
+A1 Demaine,Erik
+A1 Teller,Seth
+YR 2003
+T1 Poster abstract: anchor-free distributed localization in sensor networks
+
+RT Book, Whole
+ID 21008
+A1 Feamster,Nick
+A1 Balazinska,Magdalena
+A1 Wang,Winston
+A1 Balakrishnan,Hari
+A1 Karger,David,R.
+YR 2003
+T1 Thwarting Web Censorship with Untrusted Messenger Discovery
+SP 125
+OP 140
+
+RT Journal Article
+ID 2037457
+A1 Feamster,N.
+A1 Balakrishnan,H.
+YR 2003
+T1 A systematic approach to BGP configuration checking
+
+RT Conference Proceedings
+ID 2756229
+A1 Balakrishnan,Hari
+A1 Carney,Donald
+A1 Cetintemel,Ugur
+A1 Cherniack,Mitch
+A1 Stonebraker,Michael
+A1 Xing,Ying
+A1 Zdonik,Stanley
+YR 2003
+T1 Aurora: A Distributed Stream Processing System
+
+RT Conference Proceedings
+ID 892556
+A1 Hull,Bret
+A1 Jamieson,Kyle
+A1 Balakrishnan,Hari
+YR 2003
+T1 Poster abstract: bandwidth management in wireless sensor networks
+
+RT Journal Article
+ID 1732304
+A1 Teller,Seth,J.
+A1 Chen,Jiawen
+A1 Balakrishnan,Hari
+YR 2003
+T1 IEEE Computer Graphics & Applications: Projects In VR Pervasive Pose-Aware Applications and Infrastructure
+JF IEEE Distributed Systems Online
+VO 4
+IS 8
+
+RT Journal Article
+ID 39214240
+A1 Feamster,Nick
+A1 Andersen,David,G.
+A1 Balakrishnan,Hari
+A1 Kaashoek,M.,Frans
+YR 2003
+T1 Measuring the effects of internet path faults on reactive routing
+JF Sigmetrics Performance Evaluation Review
+SP 126
+OP 137
+
+RT Journal Article
+ID 39212534
+A1 Feamster,Nick
+A1 Balakrishnan,Hari
+YR 2003
+T1 Towards a logic for wide-area Internet routing
+JF Computer Communication Review
+SP 289
+OP 300
+
+RT Journal Article
+ID 1400770
+A1 Heinzelman,Wendi,B.
+A1 Chandrakasan,Anantha,P.
+A1 Balakrishnan,Hari
+YR 2002
+T1 An application-specific protocol architecture for wireless microsensor networks
+JF IEEE Transactions on Wireless Communications
+VO 1
+SP 660
+OP 670
+IS 4
+
+RT Journal Article
+ID 121529
+A1 Chen,Benjie
+A1 Jamieson,Kyle
+A1 Balakrishnan,Hari
+YR 2002
+T1 Span: an Energy-Efficient Coordination Algorithm for Topology Maintenance in Ad Hoc Wireless Networks
+JF Wireless Networks
+VO 8
+SP 481
+OP 494
+IS 5
+
+RT Journal Article
+ID 837772
+A1 Kulik,Joanna
+A1 Heinzelman,Wendi,Rabiner
+A1 Balakrishnan,Hari
+YR 2002
+T1 Negotiation-Based Protocols for Disseminating Information in Wireless Sensor Networks
+JF Wireless Networks
+VO 8
+SP 169
+OP 185
+IS 2-3
+
+RT Conference Proceedings
+ID 42408
+A1 Liben-Nowell,David
+A1 Balakrishnan,Hari
+A1 Karger,David,R.
+YR 2002
+T1 Analysis of the evolution of peer-to-peer systems
+SP 233
+OP 242
+
+RT Book, Whole
+ID 41296
+A1 Balazinska,Magdalena
+A1 Balakrishnan,Hari
+A1 Karger,David,R.
+YR 2002
+T1 INS/Twine: A Scalable Peer-to-Peer Architecture for Intentional Resource Discovery
+SP 195
+OP 210
+
+RT Book, Whole
+ID 10090
+A1 Liben-nowell,David
+A1 Balakrishnan,Hari
+A1 Karger,David,R.
+YR 2002
+T1 Observations on the Dynamic Evolution of Peer-to-Peer Networks
+SP 22
+OP 33
+
+RT Conference Proceedings
+ID 420530
+A1 Krashinsky,Ronny
+A1 Balakrishnan,Hari
+YR 2002
+T1 Minimizing energy for wireless web access with bounded slowdown
+SP 119
+OP 130
+
+RT Conference Proceedings
+ID 1967340
+A1 Tan,Godfrey
+A1 Miu,Allen
+A1 Guttag,John
+A1 Balakrishnan,Hari
+YR 2002
+T1 An Efficient Scatternet Formation Algorithm for Dynamic Environments
+
+RT Journal Article
+ID 43913
+A1 Feamster,Nick
+A1 Balakrishnan,Hari
+YR 2002
+T1 Packet Loss Recovery for Streaming Video
+
+RT Journal Article
+ID 4125524
+A1 Stoica,I.
+A1 Morris,R.
+A1 Nowell,D.,Liben
+A1 Karger,D.
+A1 Kaashoek,M.,F.
+A1 Dabek,F.
+A1 Balakrishnan,H.
+YR 2002
+T1 Chord: A scalable peer - to - peer lookup protocol for Internet applications
+JF IEEE/ACM Transactions on Networking
+
+RT Journal Article
+ID 878983
+A1 Andersen,David,G.
+A1 Balakrishnan,Hari
+A1 Kaashoek,Frans
+A1 Morris,Robert
+YR 2002
+T1 Resilient overlay networks
+JF Computer Communication Review
+VO 32
+SP 66
+OP 66
+IS 1
+
+RT Conference Proceedings
+ID 49736
+A1 Andersen,David,G.
+A1 Feamster,Nick
+A1 Bauer,Steve
+A1 Balakrishnan,Hari
+YR 2002
+T1 Topology inference from BGP routing dynamics
+SP 243
+OP 248
+
+RT Journal Article
+ID 2281244
+A1 Balakrishnan,H.
+A1 Padmanabhan,V.
+A1 Fairhurst,G.
+A1 Sooriyabandara,M.
+YR 2002
+T1 TCP performance implications of network path asymmetry
+
+RT Conference Proceedings
+ID 4137741
+A1 Nowell,D.,Liben
+A1 Balakrishnan,H.
+A1 Karger,D.
+YR 2002
+T1 Analysis of the Evolution of Peer - to - Peer Networks
+
+RT Journal Article
+ID 2061676
+A1 Subramanian,L.
+A1 Stoica,I.
+A1 Balakrishnan,H.
+A1 Katz,R.
+YR 2002
+T1 OverQoS: O ering QoS using Overlays
+
+RT Conference Proceedings
+ID 420037
+A1 Feamster,Nick
+A1 Balazinska,Magdalena
+A1 Harfst,Greg
+A1 Balakrishnan,Hari
+A1 Karger,David,R.
+YR 2002
+T1 Infranet: Circumventing Web Censorship and Surveillance
+SP 247
+OP 262
+
+RT Journal Article
+ID 15222899
+A1 Kulik,Joanna
+A1 Heinzelman,Wendi
+A1 Balakrishnan,Hari
+YR 2002
+T1 Negotiation-Based Protocols for Disseminating Information in Wireless Sensor Networks
+JF Wireless Networks
+VO 8
+SP 169
+OP 185
+IS 2
+
+RT Journal Article
+ID 15222922
+A1 Chen,Benjie
+A1 Jamieson,Kyle
+A1 Balakrishnan,Hari
+A1 Morris,Robert
+YR 2002
+T1 Span: An Energy-Efficient Coordination Algorithm for Topology Maintenance in Ad Hoc Wireless Networks
+JF Wireless Networks
+VO 8
+SP 481
+OP 494
+IS 5
+
+RT Journal Article
+ID 765681
+A1 Raman,Suchitra
+A1 Balakrishnan,Hari
+A1 Srinivasan,Murari
+YR 2002
+T1 ITP: an image transport protocol for the internet
+JF IEEE/ACM Transactions on Networking
+VO 10
+SP 297
+OP 307
+IS 3
+
+RT Journal Article
+ID 4111671
+A1 Heinzelman,W.
+A1 Chandrakasan,A.
+A1 Balakrishnan,H.
+YR 2002
+T1 An application - specific protocol architecture for
+JF IEEE Transactions on Wireless Communications
+
+RT Journal Article
+ID 37443935
+A1 Balakrishnan,H.
+A1 Kumar,B.,Kamal
+A1 Dutta-Choudhury,M.
+A1 Rele,M.,V.
+YR 2002
+T1 Characterization of Alkaline Thermoactive Cellulase-free Xylanases from Alkalophilic Bacillus (NCL 87-6-10)
+JF The Journal of Biochemistry, Molecular Biology and Biophysics
+VO 6
+SP 325
+OP 334
+IS 5
+
+RT Journal Article
+ID 14401370
+A1 Jung,Jaeyeon
+A1 Sit,Emil
+A1 Balakrishnan,Hari
+A1 Morris,Robert
+YR 2002
+T1 DNS performance and the effectiveness of caching
+JF IEEE/ACM Transactions on Networking
+VO 10
+SP 589
+OP 603
+IS 5
+
+RT Conference Proceedings
+ID 592318
+A1 Balakrishnan,Hari
+YR 2002
+T1 Energy v. performance in wireless networks
+SP 51
+OP 51
+
+RT Journal Article
+ID 96400
+A1 Andersen,David,G.
+A1 Balakrishnan,Hari
+A1 Kaashoek,Frans
+A1 Morris,Robert
+YR 2001
+T1 Resilient Overlay Networks
+JF Operating Systems Review
+VO 35
+SP 131
+OP 145
+IS 5
+
+RT Conference Proceedings
+ID 136504
+A1 Chen,Benjie
+A1 Jamieson,Kyle
+A1 Balakrishnan,Hari
+A1 Morris,Robert
+YR 2001
+T1 Span: An energy-efficient coordination algorithm for topology maintenance in Ad Hoc wireless networks
+SP 85
+OP 96
+
+RT Journal Article
+ID 39213684
+A1 Andersen,David
+A1 Balakrishnan,Hari
+A1 Kaashoek,Frans
+A1 Morris,Robert
+YR 2001
+T1 Resilient overlay networks
+JF Operating Systems Review
+SP 131
+OP 145
+
+RT Conference Proceedings
+ID 653095
+A1 Priyantha,Nissanka,B.
+A1 Miu,Allen,K.,L.
+A1 Balakrishnan,Hari
+A1 Teller,Seth,J.
+YR 2001
+T1 The cricket compass for context-aware mobile applications
+SP 1
+OP 14
+
+RT Conference Proceedings
+ID 135813
+A1 Dabek,Frank
+A1 Brunskill,Emma
+A1 Kaashoek,M.,Frans
+A1 Karger,David,R.
+A1 Morris,Robert
+A1 Stoica,Ion
+A1 Balakrishnan,Hari
+YR 2001
+T1 Building Peer-to-Peer Systems With Chord, a Distributed Lookup Service
+SP 81
+OP 86
+
+RT Conference Proceedings
+ID 82993
+A1 Bansal,Deepak
+A1 Balakrishnan,Hari
+YR 2001
+T1 Binomial Congestion Control Algorithms
+VO 2
+SP 631
+OP 640
+
+RT Conference Proceedings
+ID 113513
+A1 Jung,Jaeyeon
+A1 Sit,Emil
+A1 Balakrishnan,Hari
+A1 Morris,Robert
+YR 2001
+T1 DNS performance and the effectiveness of caching
+SP 153
+OP 167
+
+RT Journal Article
+ID 95833
+A1 Bansal,Deepak
+A1 Balakrishnan,Hari
+A1 Floyd,Sally
+A1 Shenker,Scott
+YR 2001
+T1 Dynamic behavior of slowly-responsive congestion control algorithms
+JF Computer Communication Review
+VO 31
+SP 263
+OP 274
+IS 4
+
+RT Conference Proceedings
+ID 4195414
+A1 Balakrishnan,H.
+YR 2001
+T1 Improving TCP/IP Performance over Wireless Networks
+
+RT Conference Proceedings
+ID 2391412
+A1 Stoica,I.
+A1 Morris,R.
+A1 Karger,D.
+A1 Kaashoek,F.
+A1 Balakr-ishnan,H.
+YR 2001
+T1 Chord: A scalable content-addressable network
+
+RT Conference Proceedings
+ID 1385674
+A1 Stoica,I.
+A1 Morris,R.
+A1 Karger,D.
+A1 Kaashoek,F.
+A1 Balakrishnan,H.
+YR 2001
+T1 Chord: a peer-to-peer lookup service for internet applications
+
+RT Conference Proceedings
+ID 139922
+A1 Andersen,David,G.
+A1 Balakrishnan,Hari
+A1 Kaashoek,M.,Frans
+A1 Morris,Robert
+YR 2001
+T1 The Case for Resilient Overlay Networks
+SP 152
+OP 157
+
+RT Conference Proceedings
+ID 108820
+A1 Snoeren,Alex,C.
+A1 Balakrishnan,Hari
+A1 Kaashoek,M.,Frans
+YR 2001
+T1 Reconsidering Internet Mobility
+SP 41
+OP 46
+
+RT Conference Proceedings
+ID 1281078
+A1 Snoeren,Alex,C.
+A1 Andersen,David,G.
+A1 Balakrishnan,Hari
+YR 2001
+T1 Fine-Grained Failover Using Connection Migration
+SP 221
+OP 232
+
+RT Journal Article
+ID 1603373
+A1 Balakrishnan,Hari
+A1 Padmanabhan,Venkata,N.
+YR 2001
+T1 How network asymmetry affects TCP
+JF IEEE Communications Magazine
+VO 39
+SP 60
+OP 67
+IS 4
+
+RT Conference Proceedings
+ID 2134156
+A1 Stoica,I.
+A1 Morris,R.
+A1 Karger,D.
+A1 Kaashoek,M.,F.
+A1 Balakrishnan,H.
+YR 2001
+T1 Chord: A scalable P2P lookup service for internet applications
+
+RT Journal Article
+ID 93243
+A1 Feamster,Nick
+A1 Bansal,Deepak
+A1 Balakrishnan,Hari
+YR 2001
+T1 On the Interactions Between Layered Quality Adaptation and Congestion Control for Streaming Video
+
+RT Journal Article
+ID 64262
+A1 Tan,Godfrey
+A1 Miu,Allen
+A1 Guttag,John
+A1 Balakrishnan,Hari
+YR 2001
+T1 Forming Scatternets from Bluetooth Personal Area Networks
+
+RT Journal Article
+ID 3774842
+A1 Chen,B.
+A1 Jamieson,K.
+A1 Balakrishnan,H.
+A1 Morris,R.
+YR 2001
+T1 Span: An energy-efficient operation in multihop wireless ad hoc networks
+
+RT Journal Article
+ID 2325249
+A1 Snoeren,Alex,C.
+A1 Balakrishnan,Hari
+A1 Kaashoek,M.,Frans
+YR 2001
+T1 The Migrate Approach to Internet Mobility1
+
+RT Journal Article
+ID 14416497
+A1 Stoica,Ion
+A1 Morris,Robert
+A1 Karger,David
+A1 Kaashoek,M.,Frans
+A1 Balakrishnan,Hari
+YR 2001
+T1 Chord: A scalable peer-to-peer lookup service for internet applications
+JF Computer Communication Review
+VO 31
+SP 149
+OP 160
+IS 4
+
+RT Journal Article
+ID 3838880
+A1 Bansal,D.
+A1 Balakrishnan,H.
+YR 2001
+T1 TCP-Friendly Congestion Control for Streaming Internet Applications
+
+RT Journal Article
+ID 3507284
+A1 Feamster,N.
+A1 Bansal,D.
+A1 Balakrishnan,H.
+YR 2001
+T1 On the interactions between congestion control and layered quality adaptation for streaming video
+
+RT Journal Article
+ID 1712370
+A1 Andersen,David,G.
+A1 Bansal,Deepak
+A1 Curtis,Dorothy
+A1 Seshan,Srinivasan
+A1 Balakrishnan,Hari
+YR 2001
+T1 System Support for Bandwidth Management and Content Adaptation in Internet Applications
+JF Computing Research Repository
+VO cs.NI/0104
+
+RT Journal Article
+ID 39212509
+A1 Bansal,Deepak
+A1 Balakrishnan,Hari
+A1 Floyd,Sally
+A1 Shenker,Scott
+YR 2001
+T1 Dynamic behavior of slowly-responsive congestion control algorithms
+JF Computer Communication Review
+SP 263
+OP 274
+
+RT Conference Proceedings
+ID 597949
+A1 Heinzelman,Wendi,Rabiner
+A1 Chandrakasan,Anantha
+A1 Balakrishnan,Hari
+YR 2000
+T1 Energy-Efficient Communication Protocol for Wireless Microsensor Networks
+
+RT Conference Proceedings
+ID 117791
+A1 Priyantha,Nissanka,B.
+A1 Chakraborty,Anit
+A1 Balakrishnan,Hari
+YR 2000
+T1 The Cricket location-support system
+SP 32
+OP 43
+
+RT Journal Article
+ID 1920057
+A1 Heinzelman,W.
+A1 Chandrakasan,A.
+A1 Balakrishnan,H.
+YR 2000
+T1 Balakrishnan "energy-efficient communication protocol for wireless microsensor networks
+
+RT Conference Proceedings
+ID 113324
+A1 Snoeren,Alex,C.
+A1 Balakrishnan,Hari
+YR 2000
+T1 An end-to-end approach to host mobility
+SP 155
+OP 166
+
+RT Conference Proceedings
+ID 1385872
+A1 Heinzelman,W.,Rabiner
+A1 Chandrakasan,A.
+A1 Balakrishnan,H.
+YR 2000
+T1 Energy-efficient routing protocols for wireless microsensor networks
+
+RT Conference Proceedings
+ID 239007
+A1 Koksal,Can,Emre
+A1 Kassab,Hisham
+A1 Balakrishnan,Hari
+YR 2000
+T1 An analysis of short-term fairness in wireless media access protocols (poster)
+SP 118
+OP 119
+
+RT Conference Proceedings
+ID 3034087
+A1 Heinzelman,W.,Rabiner
+A1 Chandrakasan,A.
+A1 Balakrish-nan,H.
+YR 2000
+T1 Energy efficient communication protocol for wireless sensor networks
+
+RT Conference Proceedings
+ID 142144
+A1 Bansal,Deepak
+A1 Balakrishnan,Hari
+YR 2000
+T1 TCP-friendly Congestion Control for Real-time Streaming Applications
+
+RT Journal Article
+ID 3774839
+A1 Chen,B
+A1 Jamieson,K
+A1 Balakrishnan,H
+A1 Morris,R
+YR 2000
+T1 Span: an energy-efficient coordination algorithm for topology maintenance in ad hoc wireless network
+
+RT Conference Proceedings
+ID 242572
+A1 Andersen,David,G.
+A1 Bansal,Deepak
+A1 Curtis,Dorothy
+A1 Seshan,Srinivasan
+A1 Balakrishnan,Hari
+YR 2000
+T1 System Support for Bandwidth Management and Content Adaptation in Internet Applications
+SP 213
+OP 226
+
+RT Conference Proceedings
+ID 179404
+A1 Lilley,Jeremy
+A1 Yang,Jason
+A1 Balakrishnan,Hari
+A1 Seshant,Srinivasan
+YR 2000
+T1 A unified header compression framework for low-bandwidth links
+SP 131
+OP 142
+
+RT Journal Article
+ID 4449867
+A1 Koksal,Can,Emre
+A1 Kassab,Hisham
+A1 Balakrishnan,Hari
+YR 2000
+T1 An analysis of short-term fairness in wireless media access protocols (poster session)
+JF Sigmetrics Performance Evaluation Review
+VO 28
+SP 118
+OP 119
+IS 1
+
+RT Conference Proceedings
+ID 220506
+A1 Raman,Suchitra
+A1 Balakrishnan,Hari
+A1 Srinivasan,Murari
+YR 2000
+T1 An Image Transport Protocol for the Internet
+SP 209
+OP 219
+
+RT Journal Article
+ID 886617
+A1 Adjie-Winoto,William
+A1 Schwartz,Elliot
+A1 Balakrishnan,Hari
+A1 Lilley,Jeremy
+YR 2000
+T1 The design and implementation of an intentional naming system
+JF Operating Systems Review
+VO 34
+SP 22
+IS 2
+
+RT Conference Proceedings
+ID 2131569
+A1 Heinzelman,W.
+A1 Chandrakasan,A.
+A1 Balakrishnan,H.
+YR 2000
+T1 Energy-Efficient Protocol for Wireless Micro sensor Networks
+
+RT Conference Proceedings
+ID 1334743
+A1 Bansal,D.
+A1 Balakrishnan,H.
+YR 2000
+T1 Binomial congestion control scheme
+
+RT Conference Proceedings
+ID 139345
+A1 Heinzelman,Wendi,Rabiner
+A1 Kulik,Joanna
+A1 Balakrishnan,Hari
+YR 1999
+T1 Adaptive protocols for information dissemination in wireless sensor networks
+SP 174
+OP 185
+
+RT Journal Article
+ID 173075
+A1 Adjie-Winoto,William
+A1 Schwartz,Elliot
+A1 Balakrishnan,Hari
+A1 Lilley,Jeremy
+YR 1999
+T1 The design and implementation of an intentional naming system
+JF Operating Systems Review
+VO 33
+SP 186
+OP 201
+IS 5
+
+RT Journal Article
+ID 153865
+A1 Balakrishnan,Hari
+A1 Rahul,Hariharan,Shankar
+A1 Seshan,Srinivasan
+YR 1999
+T1 An Integrated Congestion Management Architecture for Internet Hosts
+JF Computer Communication Review
+VO 29
+SP 175
+OP 187
+IS 4
+
+RT Journal Article
+ID 20729
+A1 Adjie-Winoto,William
+A1 Schwartz,Elliot
+A1 Balakrishnan,Hari
+YR 1999
+T1 An Architecture for Intentional Name Resolution and Application-level Routing
+
+RT Conference Proceedings
+ID 2661749
+A1 Heinzelman,W.,R.
+A1 Kulik,J.
+A1 Balakrishnan,H.
+YR 1999
+T1 Adaptive protocols for information dissemination protocol for wireless sensor networks
+
+RT Conference Proceedings
+ID 150211
+A1 Rahul,Hariharan,Shankar
+A1 Balakrishnan,Hari
+A1 Seshan,Srinivasan
+YR 1999
+T1 An End-System Architecture for Unified Congestion Management
+SP 52
+OP 57
+
+RT Journal Article
+ID 48532957
+A1 Christov,L.,P.
+A1 Szakacs,G.
+A1 Rele,M.,V.
+A1 Balakrishnan,H.
+YR 1999
+T1 Screening of cellulase-free fungal xylanases and evaluation of their performance on sulfite dissolving pulp
+JF Biotechnology Techniques
+VO 13
+SP 313
+OP 316
+IS 5
+
+RT Journal Article
+ID 15273381
+A1 Balakrishnan,Hari
+A1 Padmanabhan,Venkata,N.
+A1 Katz,Randy,H.
+YR 1999
+T1 The effects of asymmetry on TCP performance
+JF Mobile Networks and Applications
+VO 4
+SP 219
+OP 241
+IS 3
+
+RT Journal Article
+ID 39213673
+A1 Adjie-Winoto,William
+A1 Schwartz,Elliot
+A1 Balakrishnan,Hari
+A1 Lilley,Jeremy
+YR 1999
+T1 The design and implementation of an intentional naming system
+JF Operating Systems Review
+SP 186
+OP 201
+
+RT Journal Article
+ID 39212466
+A1 Balakrishnan,Hari
+A1 Rahul,Hariharan,S.
+A1 Seshan,Srinivasan
+YR 1999
+T1 An integrated congestion management architecture for Internet hosts
+JF Computer Communication Review
+SP 175
+OP 187
+
+RT Conference Proceedings
+ID 308018
+A1 Balakrishnan,Hari
+A1 Padmanabhan,Venkata,N.
+A1 Seshan,Srinivasan
+A1 Stemm,Mark
+A1 Katz,Randy,H.
+YR 1998
+T1 TCP Behavior of a Busy Internet Server: Analysis and Improvements
+VO 1
+SP 252
+OP 262
+
+RT Journal Article
+ID 1646437
+A1 Brewer,Eric,A.
+A1 Katz,Randy,H.
+A1 CHAWATHE,YATIN
+A1 GRIBBLE,STEVEN,D.
+A1 HODES,TODD
+A1 Nguyen,Giao
+A1 STEMM,MARK
+A1 HENDERSON,TOM
+A1 AMIR,ELAN
+A1 Balakrishnan,H.
+A1 Fox,A.
+A1 Padmanabhan,V.,N.
+A1 Seshan,S.
+YR 1998
+T1 A network architecture for heterogeneous mobile computing
+JF IEEE Personal Communications
+VO 5
+SP 8
+OP 24
+IS 5
+
+RT Conference Proceedings
+ID 1264065
+A1 Balakrishnan,H.
+A1 Padmanabhan,V.
+A1 Seshan,S.
+A1 Stemm,M.
+A1 Katz,R.
+YR 1998
+T1 Tcp behavior of a busy web server: analysis and improvements
+
+RT Journal Article
+ID 1976153
+A1 Balakrishnan,Hari
+A1 Katz,Randy,H.
+YR 1998
+T1 EXPLICIT LOSS NOTI CATION AND WIRELESS WEB PERFORMANCE
+
+RT Journal Article
+ID 1291954
+A1 Balakrishnan,H.
+A1 Katz,R.,H.
+YR 1998
+T1 Explicit loss notification and wireless web performance" in proceedings ieee globecom internet mini-conference
+
+RT Journal Article
+ID 1347959
+A1 Balakrishnan,Hari
+YR 1998
+T1 Challenges to reliable data transport over heterogeneous wireless networks
+
+RT Journal Article
+ID 765598
+A1 Balakrishnan,Hari
+A1 Padmanabhan,Venkata,N.
+A1 Seshan,Srinivasan
+A1 Katz,Randy,H.
+YR 1997
+T1 A comparison of mechanisms for improving TCP performance over wireless links
+JF IEEE/ACM Transactions on Networking
+VO 5
+SP 756
+OP 769
+IS 6
+
+RT Conference Proceedings
+ID 243938
+A1 Balakrishnan,Hari
+A1 Padmanabhan,Venkata,N.
+A1 Katz,Randy,H.
+YR 1997
+T1 The effects of asymmetry on TCP performance
+SP 77
+OP 89
+
+RT Journal Article
+ID 1382434
+A1 Seshan,Srinivasan
+A1 Balakrishnan,Hari
+A1 Katz,Randy,H.
+YR 1997
+T1 Handoffs in Cellular Wireless Networks: The Daedalus Implementation and Experience
+JF Wireless Networks
+
+RT Journal Article
+ID 356359
+A1 Balakrishnan,Hari
+A1 Stemm,Mark
+A1 Seshan,Srinivasan
+A1 Katz,Randy,H.
+YR 1997
+T1 Analyzing Stability in Wide-Area Network Performance
+JF Sigmetrics Performance Evaluation Review
+VO 25
+SP 2
+OP 12
+IS 1
+
+RT Journal Article
+ID 48512543
+A1 Balakrishnan,H.
+A1 Srinivasan,M.,C.
+A1 Rele,M.,V.
+YR 1997
+T1 Extracellular protease activities in relation to xylanase secretion in an alkalophilic Bacillus sp
+JF Biotechnology Letters
+VO 19
+SP 599
+OP 601
+IS 7
+
+RT Conference Proceedings
+ID 3890111
+A1 Balakrishnan,H.
+A1 Padmanabhan,V.,N.
+A1 Katz,R.,H.
+YR 1997
+T1 The effects of TCP/IP performance
+
+RT Journal Article
+ID 74780
+A1 Balakrishnan,Hari
+A1 Padmanabhan,Venkata,N.
+A1 Seshan,Srinivasan
+A1 Stemm,Mark
+YR 1997
+T1 TCP Improvements for Heterogeneous Networks: The Daedalus Approach
+
+RT Journal Article
+ID 39214058
+A1 Balakrishnan,Hari
+A1 Stemm,Mark
+A1 Seshan,Srinivasan
+A1 Katz,Randy,H.
+YR 1997
+T1 Analyzing stability in wide-area network performance
+JF Sigmetrics Performance Evaluation Review
+SP 2
+OP 12
+
+RT Journal Article
+ID 57394003
+A1 Balakrishnan,Hari
+A1 Padmanabhan,Venkata,N.
+A1 Seshan,Srinivasan
+A1 Katz,Randy,H.
+YR 1997
+T1 A comparison of mechanisms for improving TCP performance over wireless links
+VO 5
+
+RT Journal Article
+ID 57394002
+A1 Balakrishnan,Hari
+A1 Padmanabhan,Venkata,N.
+A1 Katz,Randy,H.
+YR 1997
+T1 The effects of asymmetry on TCP performance
+
+RT Journal Article
+ID 48596652
+A1 Seshan,Srinivasan
+A1 Balakrishnan,Hari
+A1 Katz,Randy,H.
+YR 1997
+T1 Handoffs in Cellular Wireless Networks: The Daedalus Implementation and Experience
+JF Wireless Personal Communications
+VO 4
+SP 141
+OP 162
+IS 2
+
+RT Journal Article
+ID 353132
+A1 Balakrishnan,Hari
+A1 Padmanabhan,Venkata,N.
+A1 Seshan,Srinivasan
+A1 Katz,Randy,H.
+YR 1996
+T1 A Comparison of Mechanisms for Improving TCP Performance over Wireless Links
+JF Computer Communication Review
+VO 26
+SP 256
+OP 269
+IS 4
+
+RT Conference Proceedings
+ID 3220188
+A1 Balakrishnan,H.
+A1 Seshan,S.
+A1 Amir,E.
+A1 Katz,R.
+YR 1996
+T1 Impro ving TCP/IP performance over wireless networks
+
+RT Conference Proceedings
+ID 45397
+A1 Katz,Randy,H.
+A1 Brewer,Eric,A.
+A1 Amir,Elan
+A1 Balakrishnan,Hari
+A1 Fox,Armando
+A1 Gribble,Steven,D.
+A1 Hodes,Todd,D.
+A1 Jiang,Daniel
+A1 Nguyen,Giao,Thanh
+A1 Padmanabhan,Venkata,N.
+A1 Stemm,Mark
+YR 1996
+T1 The Bay Area Research Wireless Access Network (BARWAN)
+SP 15
+OP 20
+
+RT Journal Article
+ID 34997575
+A1 Gübitz,G.,M.
+A1 Schnitzhofer,W.
+A1 Balakrishnan,H.
+A1 Steiner,W.
+YR 1996
+T1 Two mannanases from Sclerotium rolfsii in total chlorine free bleaching of softwood kraft pulp
+JF Journal of Biotechnology
+VO 50
+SP 181
+OP 188
+IS 2
+
+RT Journal Article
+ID 39212414
+A1 Balakrishnan,Hari
+A1 Padmanabhan,Venkata,N.
+A1 Seshan,Srinivasan
+A1 Katz,Randy,H.
+YR 1996
+T1 A comparison of mechanisms for improving TCP performance over wireless links
+JF Computer Communication Review
+SP 256
+OP 269
+
+RT Journal Article
+ID 248997
+A1 Balakrishnan,Hari
+A1 Seshan,Srinivasan
+A1 Katz,Randy,H.
+YR 1995
+T1 Improving reliable transport and handoff performance in cellular wireless networks
+JF Wireless Networks
+VO 1
+SP 469
+OP 481
+IS 4
+
+RT Conference Proceedings
+ID 653159
+A1 Balakrishnan,Hari
+A1 Seshan,Srinivasan
+A1 Amir,Elan
+A1 Katz,Randy,H.
+YR 1995
+T1 Improving TCP/IP performance over wireless networks
+SP 2
+OP 11
+
+RT Conference Proceedings
+ID 376214
+A1 Amir,Elan
+A1 Balakrishnan,Hari
+A1 Seshan,Srinivasan
+A1 Katz,Randy,H.
+YR 1995
+T1 Efficient TCP over networks with wireless links
+
+RT Conference Proceedings
+ID 366934
+A1 Seltzer,Margo,I.
+A1 Smith,Keith,A.
+A1 Balakrishnan,Hari
+A1 Chang,Jacqueline
+A1 Mcmains,Sara
+A1 Padmanabhan,Venkata,N.
+YR 1995
+T1 File System Logging versus Clustering: A Performance Comparison
+SP 249
+OP 264
+
+RT Journal Article
+ID 2091382
+A1 Balakrishnan,H.
+A1 Seshan,S.
+A1 Katz,R.,H.
+YR 1995
+T1 Improving reliable transport protocol and handoff performance in cellular wireless networks
+
+RT Journal Article
+ID 3223279
+A1 Balakrishnan,H.
+A1 Seshan,S.
+A1 Katz,R.,H.
+YR 1995
+T1 Improving reliable transport and handoff performance in cellular wireless networks; Wireless Network
+
+RT Book, Whole
+ID 579502
+A1 Balakrishnan,Hari
+A1 Rajaraman,Anand
+A1 Rangan,C.,Pandu
+YR 1993
+T1 Connected Domination and Steiner Set on Asteroidal Triple-Free Graphs
+SP 131
+OP 141
+
+RT Journal Article
+ID 34538333
+A1 Balakrishnan,H.
+A1 Dutta-Choudhury,M.
+A1 Srinivasan,M.,C.
+A1 Rele,M.,V.
+YR 1992
+T1 Cellulase-free xylanase production from an alkalophilic Bacillus species
+JF World Journal of Microbiology & Biotechnology
+VO 8
+SP 627
+OP 631
+IS 6
+
+RT Conference Proceedings
+ID 3073981
+A1 Balakrishnan,H.
+A1 Katz,R.
+YR 1988
+T1 Explicit loss notification and wireless web performance
+
+RT Journal Article
+ID 10053016
+A1 Liben-Nowell,David
+A1 Karger,David,R.
+A1 Frans,M.
+A1 Dabek,Frank
+A1 Balakrishnan,Hari
+T1 Chord: A Scalable Peer-to-peer Lookup Protocol for Internet Applications
+JF IEEE/ACM Transactions on Networking
+
+RT Journal Article
+ID 4575832
+A1 Andersen,David
+A1 Balakrishnan,Hari
+A1 Feamster,Nick
+A1 Koponen,Teemu
+A1 Moon,Daekyeong
+A1 Shenker,Scott
+T1 Holding the Internet Accountable
+
+RT Journal Article
+ID 5789957
+A1 Gummadi,Ramakrishna
+A1 Patra,Rabin
+A1 Balakrishnan,Hari
+A1 Brewer,Eric
+T1 Interference Avoidance and Control
+
+RT Journal Article
+ID 5631491
+A1 Gummadi,Ramakrishna
+A1 Balakrishnan,Hari
+T1 Wireless Networks Should Spread Spectrum Based On Demands
+
+RT Journal Article
+ID 6925838
+A1 Balakrishnan,Hari
+A1 Padmanabhan,Venkata,N.
+A1 Seshan,Srinivasan
+A1 Stemm,Mark
+A1 Amir,Elan
+A1 Katz,Randy,H.
+T1 TCP Improvements for Heterogeneous Networks: The Daedalus Approach
+
+RT Journal Article
+ID 12963807
+A1 Balazinska,Magdalena
+A1 Balakrishnan,Hari
+A1 Madden,Samuel
+A1 Stonebraker,Mike
+T1 Availability-Consistency Trade-offs in a Fault-Tolerant Stream Processing System
+
+RT Journal Article
+ID 6385125
+A1 Eriksson,Jakob
+A1 Balakrishnan,Hari
+A1 Madden,Sam
+T1 Cabernet: A Content Delivery Network for Moving Vehicles
+
+RT Journal Article
+ID 10073621
+A1 Walfish,Michael
+A1 Balakrishnan,Hari
+A1 Shenker,Scott
+T1 Untangling the Web from DNS
+
+RT Journal Article
+ID 4578675
+A1 Cetintemel,Uùgur
+A1 Abadi,Daniel
+A1 Ahmad,Yanif
+A1 Balakrishnan,Hari
+A1 Balazinska,Magdalena
+A1 Cherniack,Mitch
+A1 Hwang,Jeong-Hyon
+A1 Lindner,Wolfgang
+A1 Madden,Samuel
+A1 Maskey,Anurag
+A1 Rasin,Alexander
+A1 Ryvkina,Esther
+A1 Stonebraker,Mike
+A1 Tatbul,Nesime
+A1 Xing,Ying
+T1 The Aurora and Borealis Stream Processing Engines
+
+RT Journal Article
+ID 70161
+A1 Balakrishnan,Hari
+A1 Garg,Rahul
+T1 Multimedia Benchmarks: A Performance Comparison of Multimedia Programs on Different Architectures
+
+RT Journal Article
+ID 10609183
+A1 Walsh,Michael
+A1 Balakrishnan,Hari
+A1 Karger,David
+A1 Shenkery,Scott
+T1 DoS: Fighting Fire with Fire
+
+RT Journal Article
+ID 12994557
+A1 Balakrishnan,Hari
+A1 Padmanabhan,Venkata,N.
+A1 Seshan,Srinivasan
+A1 Katz,Randy,H.
+T1 for Improving TCP Performance over Wireless Links
+
+RT Conference Proceedings
+ID 10174301
+A1 Walsh,Michael
+A1 Zamrescu,J.,D.
+A1 Balakrishnan,Hari
+A1 Karger,David
+A1 Shenkery,Scott
+T1 Distributed Quota Enforcement for Spam Control
+
+RT Journal Article
+ID 4479314
+A1 Balazinska,Magdalena
+A1 Balakrishnan,Hari
+A1 Salz,Jon
+A1 Stonebraker,Mike
+T1 The Medusa Distributed Stream-Processing System
+
+RT Journal Article
+ID 5945681
+A1 Walfish,Michael
+A1 Balakrishnan,Hari
+T1 The Location/Identity Split is Useful for Middleboxes, Too
+
+RT Journal Article
+ID 4140649
+A1 Balakrishnan,Hari
+T1 Laboratory for Computer Science
+
+RT Conference Proceedings
+ID 4470484
+A1 Vutukuru,Mythili
+A1 Walfish,Michael
+A1 Balakrishnan,Hari
+A1 Shenker,Scott
+T1 A Distributed System For Resolving Flat Names
+
+RT Journal Article
+ID 12825511
+A1 Balakrishnan,Hari
+A1 Padmanabhan,Venkata
+A1 Seshan,Srinivasan
+A1 Stemm,Mark
+A1 Katz,Randy,H.
+T1 interfaces. In particular, I have worked on "Vertical Handoffs" across multiple network interfaces and investigating energy saving strategies for wireless network interfaces
+
+RT Journal Article
+ID 4493122
+A1 Vutukuru,Mythili
+A1 Feamster,Nick
+A1 Walsh,Michael
+A1 Balakrishnan,Hari
+A1 Shenker,Scott
+T1 Revisiting Internet Addressing: Back to the Future
+
+RT Journal Article
+ID 13369798
+A1 Line,Dialup
+A1 Balakrishnan,Hari
+A1 Padmanabhan,Venkata,N.
+T1 Submitted to IEEE Communications Magazine
+
+RT Journal Article
+ID 6410642
+A1 Newton,Ryan
+A1 Toledo,Sivan
+A1 Girod,Lewis
+A1 Madden,Samuel
+A1 Balakrishnan,Hari
+T1 Wishbone: Profile-based Partitioning for Sensornet Applications Non-final version
+
+RT Journal Article
+ID 58574816
+A1 Popa,Raluca,Ada
+A1 Redfield,Catherine,M.,S.
+A1 Zeldovich,Nickolai
+A1 Balakrishnan,Hari
+T1 CryptDB: processing queries on an encrypted database
+JF Communications of The ACM
+SP 103
+OP 111
+
+RT Journal Article
+ID 3355356
+A1 Monteleoni,Claire
+A1 Balakrishnan,Hari
+A1 Feamster,Nick
+A1 Jaakkola,Tommi
+T1 Managing the 802.11 Energy/Performance Tradeoff with Machine Learning
+
+RT Journal Article
+ID 6553030
+A1 Balakrishnan,Hari
+A1 Demaine,Erik
+A1 Stonebraker,Mike
+A1 Teller,Seth
+T1 ITR: Scalable Location-Aware Monitoring (SLAM) Systems
+
+RT Journal Article
+ID 11485318
+A1 Balakrishnan,Hari
+A1 Guttag,John,V.
+T1 9807-04 Cricket: A Location-Support System for Pervasive Mobile Computing
+
+RT Journal Article
+ID 12909357
+A1 Balakrishnan,Hari
+A1 Guttag,John,V.
+T1 System Support for Location-dependent Applications over Indoor Wireless Networks 9807-04 Proposal for 1998-1999 Funding

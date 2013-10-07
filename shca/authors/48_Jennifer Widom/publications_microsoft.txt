@@ -1,0 +1,3000 @@
+RT Conference Proceedings
+ID 56982884
+A1 Ikeda,Robert
+A1 Cho,Junsang
+A1 Fang,Charlie
+A1 Salihoglu,Semih
+A1 Torikai,Satoshi
+A1 Widom,Jennifer
+YR 2012
+T1 Provenance-Based Debugging and DrillDown in Data-Oriented Workflows
+SP 1249
+OP 1252
+
+RT Journal Article
+ID 39314110
+A1 Parameswaran,Aditya,G.
+A1 Sarma,Anish,Das
+A1 Garcia-Molina,Hector
+A1 Polyzotis,Neoklis
+A1 Widom,Jennifer
+YR 2011
+T1 Human-Assisted Graph Search: It's Okay to Ask Questions
+JF Computing Research Repository
+VO abs/1103.3
+
+RT Journal Article
+ID 59032381
+A1 Agrawal,Divyakant
+A1 Bernstein,Philip
+A1 Bertino,Elisa
+A1 Davidson,Susan
+A1 Dayal,Umeshwas
+A1 Franklin,Michael
+A1 Gehrke,Johannes
+A1 Haas,Laura
+A1 Halevy,Alon
+A1 Han,Jiawei
+A1 Jagadish,H.,V.
+A1 Labrinidis,Alexandros
+A1 Madden,Sam
+A1 Papakonstantinou,Yannis
+A1 Patel,Jignesh
+A1 Ramakrishnan,Raghu
+A1 Ross,Kenneth
+A1 Shahabi,Cyrus
+A1 Suciu,Dan
+A1 Vaithyanathan,Shiv
+A1 Widom,Jennifer
+YR 2011
+T1 Challenges and Opportunities with Big Data 2011-1
+
+RT Journal Article
+ID 39336150
+A1 Parameswaran,Aditya,G.
+A1 Sarma,Anish,Das
+A1 Garcia-Molina,Hector
+A1 Polyzotis,Neoklis
+A1 Widom,Jennifer
+YR 2011
+T1 Human-assisted graph search: it's okay to ask questions
+JF Proceedings of The Vldb Endowment
+VO 4
+SP 267
+OP 278
+IS 5
+
+RT Conference Proceedings
+ID 39259976
+A1 Ikeda,Robert
+A1 Park,Hyunjung
+A1 Widom,Jennifer
+YR 2011
+T1 Provenance for Generalized Map and Reduce Workflows
+SP 273
+OP 283
+
+RT Journal Article
+ID 51184703
+A1 Murthy,Raghotham
+A1 Ikeda,Robert
+A1 Widom,Jennifer
+YR 2011
+T1 Making Aggregation Work in Uncertain and Probabilistic Databases
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 23
+SP 1261
+OP 1273
+IS 8
+
+RT Journal Article
+ID 56901218
+A1 Ikeda,Robert
+A1 Salihoglu,Semih
+A1 Widom,Jennifer
+YR 2011
+T1 Provenance-based refresh in data-oriented workflows
+SP 1659
+OP 1668
+
+RT Journal Article
+ID 6952761
+A1 Ikeda,Robert
+A1 Widom,Jennifer
+YR 2010
+T1 Panda: A System for Provenance and Data
+VO 33
+SP 42
+OP 49
+IS 3
+
+RT Book, Whole
+ID 5054613
+A1 Sarma,Anish,Das
+A1 Theobald,Martin
+A1 Widom,Jennifer
+YR 2010
+T1 LIVE: A Lineage-Supported Versioned DBMS
+SP 416
+OP 433
+
+RT Conference Proceedings
+ID 6321832
+A1 Sarma,Anish,Das
+A1 Parameswaran,Aditya,G.
+A1 Garcia-Molina,Hector
+A1 Widom,Jennifer
+YR 2010
+T1 Synthesizing view definitions from data
+SP 89
+OP 103
+
+RT Journal Article
+ID 6652794
+A1 Agrawal,Parag
+A1 Sarma,Anish,Das
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 2010
+T1 Foundations of Uncertain-Data Integration
+JF Proceedings of The Vldb Endowment
+VO 3
+SP 1080
+OP 1090
+IS 1
+
+RT Journal Article
+ID 39309628
+A1 Agrawal,Parag
+A1 Widom,Jennifer
+YR 2010
+T1 Generalized Uncertain Databases: First Steps
+SP 99
+OP 111
+
+RT Journal Article
+ID 4418511
+A1 Benjelloun,Omar
+A1 Garcia-molina,Hector
+A1 Menestrina,David
+A1 Su,Qi
+A1 Whang,Steven,Euijong
+A1 Widom,Jennifer
+YR 2009
+T1 Swoosh: a generic approach to entity resolution
+JF The Vldb Journal
+VO 18
+SP 255
+OP 276
+IS 1
+
+RT Journal Article
+ID 5575853
+A1 Murthy,Raghotham
+A1 Ikeda,Robert
+A1 Widom,Jennifer
+YR 2009
+T1 Making Aggregation Work in Uncertain and Probabilistic Databases
+
+RT Journal Article
+ID 5050661
+A1 Sarma,Anish,Das
+A1 Benjelloun,Omar
+A1 Halevy,Alon,Y.
+A1 Nabar,Shubha,U.
+A1 Widom,Jennifer
+YR 2009
+T1 Representing uncertain data: models, properties, and algorithms
+JF The Vldb Journal
+VO 18
+SP 989
+OP 1019
+IS 5
+
+RT Journal Article
+ID 5052024
+A1 Agrawal,Parag
+A1 Widom,Jennifer
+YR 2009
+T1 Continuous Uncertainty in Trio
+SP 17
+OP 32
+
+RT Book, Whole
+ID 39250851
+A1 Garcia-Molina,Hector
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 2009
+T1 Database systems - the complete book (2. ed.)
+
+RT Conference Proceedings
+ID 4715938
+A1 Agrawal,Parag
+A1 Widom,Jennifer
+YR 2009
+T1 Confidence-Aware Join Algorithms
+SP 628
+OP 639
+
+RT Journal Article
+ID 5341714
+A1 Sarma,Anish,Das
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 2009
+T1 Schema Design for Uncertain Databases
+
+RT Journal Article
+ID 39309639
+A1 Ikeda,Robert
+A1 Widom,Jennifer
+YR 2009
+T1 Outerjoins in Uncertain Databases
+SP 33
+OP 46
+
+RT Journal Article
+ID 4418519
+A1 Benjelloun,Omar
+A1 Sarma,Anish,Das
+A1 Halevy,Alon,Y.
+A1 Theobald,Martin
+A1 Widom,Jennifer
+YR 2008
+T1 Databases with uncertainty and lineage
+JF The Vldb Journal
+VO 17
+SP 243
+OP 264
+IS 2
+
+RT Conference Proceedings
+ID 4272155
+A1 Sarma,Anish,Das
+A1 Theobald,Martin
+A1 Widom,Jennifer
+YR 2008
+T1 Exploiting Lineage for Confidence Computation in Uncertain and Probabilistic Databases
+SP 1023
+OP 1032
+
+RT Journal Article
+ID 4439953
+A1 Jain,Namit
+A1 Mishra,Shailendra
+A1 Srinivasan,Anand
+A1 Gehrke,Johannes
+A1 Widom,Jennifer
+A1 Balakrishnan,Hari
+A1 Çetintemel,Ugur
+A1 Cherniack,Mitch
+A1 Tibbetts,Richard
+YR 2008
+T1 Towards a streaming SQL standard
+JF Proceedings of The Vldb Endowment
+VO 1
+SP 1379
+OP 1390
+IS 2
+
+RT Conference Proceedings
+ID 4289001
+A1 Sarma,Anish,Das
+A1 Agrawal,Parag
+A1 Nabar,Shubha,U.
+A1 Widom,Jennifer
+YR 2008
+T1 Towards Special-Purpose Indexes and Statistics for Uncertain Data
+SP 57
+OP 72
+
+RT Conference Proceedings
+ID 2467556
+A1 Munagala,Kamesh
+A1 Srivastava,Utkarsh
+A1 Widom,Jennifer
+YR 2007
+T1 Optimization of continuous queries with shared expensive filters
+SP 215
+OP 224
+
+RT Conference Proceedings
+ID 2422056
+A1 Mutsuzaki,Michi
+A1 Theobald,Martin
+A1 Keijzer,Ander,De
+A1 Widom,Jennifer
+A1 Agrawal,Parag
+A1 Benjelloun,Omar
+A1 Sarma,Anish,Das
+A1 Murthy,Raghotham
+A1 Sugihara,Tomoe
+YR 2007
+T1 Trio-One: Layering Uncertainty and Lineage on a Conventional DBMS (Demo)
+SP 269
+OP 274
+
+RT Journal Article
+ID 39309635
+A1 Murthy,Raghotham
+A1 Widom,Jennifer
+YR 2007
+T1 Making Aggregation Work in Uncertain and Probabilistic Databases
+SP 76
+OP 90
+
+RT Journal Article
+ID 39245562
+A1 Widom,Jennifer
+YR 2007
+T1 2007 SIGMOD Edger F. Codd Innovations Award: “Research Principles Revealed”
+SP 3
+
+RT Journal Article
+ID 2178022
+A1 Arasu,Arvind
+A1 Babu,Shivnath
+A1 Widom,Jennifer
+YR 2006
+T1 The CQL continuous query language: semantic foundations and query execution
+JF The Vldb Journal
+VO 15
+SP 121
+OP 142
+IS 2
+
+RT Conference Proceedings
+ID 2187007
+A1 Benjelloun,Omar
+A1 Sarma,Anish,Das
+A1 Halevy,Alon,Y.
+A1 Widom,Jennifer
+YR 2006
+T1 ULDBs: Databases with Uncertainty and Lineage
+SP 953
+OP 964
+
+RT Conference Proceedings
+ID 1795993
+A1 Sarma,Anish,Das
+A1 Benjelloun,Omar
+A1 Halevy,Alon,Y.
+A1 Widom,Jennifer
+YR 2006
+T1 Working Models for Uncertain Data
+SP 7
+
+RT Book, Whole
+ID 2194457
+A1 Jeffery,Shawn,R.
+A1 Alonso,Gustavo
+A1 Franklin,Michael,J.
+A1 Hong,Wei
+A1 Widom,Jennifer
+YR 2006
+T1 Declarative Support for Sensor Data Cleaning
+SP 83
+OP 100
+
+RT Conference Proceedings
+ID 2187018
+A1 Agrawal,Parag
+A1 Benjelloun,Omar
+A1 Sarma,Anish,Das
+A1 Hayworth,Chris
+A1 Nabar,Shubha,U.
+A1 Sugihara,Tomoe
+A1 Widom,Jennifer
+YR 2006
+T1 Trio: A System for Data, Uncertainty, and Lineage
+SP 1151
+OP 1154
+
+RT Conference Proceedings
+ID 2187010
+A1 Srivastava,Utkarsh
+A1 Munagala,Kamesh
+A1 Widom,Jennifer
+A1 Motwani,Rajeev
+YR 2006
+T1 Query Optimization over Web Services
+SP 355
+OP 366
+
+RT Conference Proceedings
+ID 1795915
+A1 Jeffery,Shawn,R.
+A1 Alonso,Gustavo
+A1 Franklin,Michael,J.
+A1 Hong,Wei
+A1 Widom,Jennifer
+YR 2006
+T1 A Pipelined Framework for Online Cleaning of Sensor Data Streams
+SP 140
+
+RT Journal Article
+ID 2175440
+A1 Benjelloun,Omar
+A1 Sarma,Anish,Das
+A1 Hayworth,Chris
+A1 Widom,Jennifer
+YR 2006
+T1 An Introduction to ULDBs and the Trio System
+JF IEEE Data(base) Engineering Bulletin
+VO 29
+SP 5
+OP 16
+IS 1
+
+RT Journal Article
+ID 2175438
+A1 Benjelloun,Omar
+A1 Garcia-molina,Hector
+A1 Kawai,Hideki
+A1 Larson,Tait,Eliott
+A1 Menestrina,David
+A1 Su,Qi
+A1 Thavisomboon,Sutthipong
+A1 Widom,Jennifer
+YR 2006
+T1 Generic Entity Resolution in the SERF Project
+JF IEEE Data(base) Engineering Bulletin
+VO 29
+SP 13
+OP 20
+IS 2
+
+RT Conference Proceedings
+ID 4252875
+A1 Mumick,Inderpal,Singh
+A1 Dewitt,David
+A1 Lockemann,Peter
+A1 Navathe,Sham
+A1 Widom,Jennifer
+A1 Shmueli,Oded
+A1 Valduriez,Patrick
+A1 Dittrich,Klaus
+A1 Jagadish,H.,V.
+A1 Mattos,Nelson,M.
+A1 Witkowski,Andy
+A1 Ross,Kenneth,A.
+A1 Wang,Jason
+A1 Gottemukkala,Vibby
+A1 Kemp,David
+A1 Sudarshan,S.
+A1 Ullman,Jeffrey,D.
+YR 2006
+T1 Conference Organizers
+
+RT Journal Article
+ID 2517280
+A1 Afrati,Foto,N.
+A1 Widom,Jennifer
+YR 2006
+T1 Foreword to special section on SIGMOD/PODS 2005
+JF ACM Transactions on Database Systems
+VO 31
+SP 1417
+OP 1417
+IS 4
+
+RT Journal Article
+ID 39249928
+A1 Afrati,Foto
+A1 Widom,Jennifer
+YR 2006
+T1 Foreword to special section on SIGMOD/PODS 2005
+JF ACM Transactions on Database Systems
+SP 1417
+OP 1417
+
+RT Conference Proceedings
+ID 4021480
+A1 Widom,Jennifer
+YR 2005
+T1 Trio: A System for Integrated Management of Data, Accuracy, and Lineage
+SP 262
+OP 276
+
+RT Conference Proceedings
+ID 1240564
+A1 Srivastava,Utkarsh
+A1 Munagala,Kamesh
+A1 Widom,Jennifer
+YR 2005
+T1 Operator placement for in-network stream query processing
+SP 250
+OP 258
+
+RT Conference Proceedings
+ID 2184133
+A1 Babu,Shivnath
+A1 Munagalat,Kamesh
+A1 Widom,Jennifer
+A1 Motwani,Rajeev
+YR 2005
+T1 Adaptive Caching for Continuous Queries
+SP 118
+OP 129
+
+RT Journal Article
+ID 2382081
+A1 Benjelloun,O.
+A1 Garcia-molina,H.
+A1 Su,Q.
+A1 Widom,J.
+YR 2005
+T1 Swoosh: A Generic Approach to Entity Resolution
+
+RT Book, Whole
+ID 2148879
+A1 Munagala,Kamesh
+A1 Babu,Shivnath
+A1 Motwani,Rajeev
+A1 Widom,Jennifer
+YR 2005
+T1 The Pipelined Set Cover Problem
+SP 83
+OP 98
+
+RT Journal Article
+ID 3805022
+A1 Arasu,Arvind
+A1 Babcock,Brian
+A1 Babu,Shivnath
+A1 Cieslewicz,John
+A1 Datar,Mayur
+A1 Ito,Keith
+A1 Motwani,Rajeev
+A1 Srivastava,Utkarsh
+A1 Widom,Jennifer
+YR 2005
+T1 STREAM: The Stanford Data Stream Management System
+
+RT Journal Article
+ID 1711353
+A1 Olston,Christopher
+A1 Widom,Jennifer
+YR 2005
+T1 Efficient Monitoring and Querying of Distributed, Dynamic Data via Approximate Replication
+JF IEEE Data(base) Engineering Bulletin
+VO 28
+SP 11
+OP 18
+IS 1
+
+RT Conference Proceedings
+ID 1833358
+A1 Su,Qi
+A1 Widom,Jennifer
+YR 2005
+T1 Indexing Relational Database Content Offline for Efficient Keyword-Based Search
+SP 297
+OP 306
+
+RT Conference Proceedings
+ID 1817136
+A1 Bizarro,Pedro
+A1 Babu,Shivnath
+A1 DeWitt,David,J.
+A1 Widom,Jennifer
+YR 2005
+T1 Content-Based Routing: Different Plans for Different Data
+SP 757
+OP 768
+
+RT Conference Proceedings
+ID 1817165
+A1 Bernstein,Philip,A.
+A1 DeWitt,David,J.
+A1 Heuer,Andreas
+A1 Ives,Zachary,G.
+A1 Jensen,Christian,S.
+A1 Meyer,Holger
+A1 Özsu,M.,Tamer
+A1 Snodgrass,Richard,T.
+A1 Whang,Kyu-Young
+A1 Widom,Jennifer
+YR 2005
+T1 Database Publication Practices
+SP 1241
+OP 1246
+
+RT Journal Article
+ID 3969144
+A1 Benjelloun,O.
+A1 Sarma,A.,Das
+A1 Halevy,A.
+A1 Widom,J.
+YR 2005
+T1 The symbiosis of lineage and uncertainty
+
+RT Journal Article
+ID 13170341
+A1 Garcia-Molina,Hector
+A1 Widom,Jennifer
+YR 2005
+T1 Note that examples are not curriculum, meaning that the exam will not require knowl- edge of any particular example. (On the other hand it may be useful to read some of the examples to help you understand the text.)
+
+RT Conference Proceedings
+ID 668553
+A1 Babu,Shivnath
+A1 Motwani,Rajeev
+A1 Munagala,Kamesh
+A1 Nishizawa,Itaru
+A1 Widom,Jennifer
+YR 2004
+T1 Adaptive ordering of pipelined stream filters
+SP 407
+OP 418
+
+RT Conference Proceedings
+ID 1240535
+A1 Srivastava,Utkarsh
+A1 Widom,Jennifer
+YR 2004
+T1 Flexible time management in data stream systems
+SP 263
+OP 274
+
+RT Journal Article
+ID 2177809
+A1 Babu,Shivnath
+A1 Srivastava,Utkarsh
+A1 Widom,Jennifer
+YR 2004
+T1 Exploiting k -constraints to reduce memory overhead in continuous queries over data streams
+JF ACM Transactions on Database Systems
+VO 29
+SP 545
+OP 580
+IS 3
+
+RT Conference Proceedings
+ID 579331
+A1 Srivastava,Utkarsh
+A1 Widom,Jennifer
+YR 2004
+T1 Memory-Limited Execution of Windowed Stream Joins
+SP 324
+OP 335
+
+RT Conference Proceedings
+ID 579344
+A1 Arasu,Arvind
+A1 Widom,Jennifer
+YR 2004
+T1 Resource Sharing in Continuous Sliding-Window Aggregates
+SP 336
+OP 347
+
+RT Conference Proceedings
+ID 917817
+A1 Babu,Shivnath
+A1 Widom,Jennifer
+YR 2004
+T1 StreaMon: an adaptive engine for stream query processing
+SP 931
+OP 932
+
+RT Conference Proceedings
+ID 579348
+A1 Aggarwal,Gagan
+A1 Bawa,Mayank
+A1 Ganesan,Prasanna
+A1 Garcia-molina,Hector
+A1 Kenthapadi,Krishnaram
+A1 Mishra,Nina
+A1 Motwani,Rajeev
+A1 Srivastava,Utkarsh
+A1 Thomas,Dilys
+A1 Widom,Jennifer
+A1 Xu,Ying
+YR 2004
+T1 Vision Paper: Enabling Privacy for the Paranoids
+SP 708
+OP 719
+
+RT Journal Article
+ID 1245470
+A1 Arasu,Arvind
+A1 Widom,Jennifer
+YR 2004
+T1 A denotational semantics for continuous queries over streams and relations
+JF Sigmod Record
+VO 33
+SP 6
+OP 11
+IS 3
+
+RT Conference Proceedings
+ID 37491
+A1 Jeh,Glen
+A1 Widom,Jennifer
+YR 2004
+T1 Mining the space of graph properties
+SP 187
+OP 196
+
+RT Conference Proceedings
+ID 1856379
+A1 Franklin,Michael,J.
+A1 Widom,Jennifer
+A1 Weikum,Gerhard
+A1 Bernstein,Philip,A.
+A1 Halevy,Alon,Y.
+A1 Dewitt,David,J.
+A1 Ailamaki,Anastassia
+A1 Ives,Zachary,G.
+YR 2004
+T1 Rethinking the Conference Reviewing Process - Panel
+SP 957
+OP 957
+
+RT Journal Article
+ID 2890479
+A1 Bizarro,P.
+A1 Babu,S.
+A1 Dewitt,D.
+A1 Widom,J.
+YR 2004
+T1 Content-based routing for continuous query-optimization
+
+RT Conference Proceedings
+ID 917832
+A1 Franklin,Michael,J.
+A1 Widom,Jennifer
+A1 Ailamaki,Anastassia
+A1 Bernstein,Philip,A.
+A1 Dewitt,David
+A1 Halevy,Alon
+A1 Ives,Zachary
+A1 Weikum,Gerhard
+YR 2004
+T1 Rethinking the conference reviewing process
+
+RT Conference Proceedings
+ID 489171
+A1 Jeh,Glen
+A1 Widom,Jennifer
+YR 2003
+T1 Scaling personalized web search
+SP 271
+OP 279
+
+RT Conference Proceedings
+ID 499351
+A1 Motwani,Rajeev
+A1 Widom,Jennifer
+A1 Arasu,Arvind
+A1 Babcock,Brian
+A1 Babu,Shivnath
+A1 Datar,Mayur
+A1 Manku,Gurmeet,Singh
+A1 Olston,Chris
+A1 Rosenstein,Justin
+A1 Varma,Rohit
+YR 2003
+T1 Query Processing, Approximation, and Resource Management in a Data Stream Management System
+
+RT Conference Proceedings
+ID 668224
+A1 Olston,Chris
+A1 Jiang,Jing
+A1 Widom,Jennifer
+YR 2003
+T1 Adaptive filters for continuous queries over distributed data streams
+SP 563
+OP 574
+
+RT Conference Proceedings
+ID 3637651
+A1 Motwani,Rajeev
+A1 Widom,Jennifer
+A1 Arasu,Arvind
+A1 Babcock,Brian
+A1 Babu,Shivnath
+A1 Datar,Mayur
+A1 Manku,Gurmeet
+A1 Olston,Chris
+A1 Rosenstein,Justin
+A1 Varma,Rohit
+YR 2003
+T1 Query Processing, Resource Management, and Approximation in a Data Stream Management System
+
+RT Journal Article
+ID 667513
+A1 Arasu,Arvind
+A1 Babcock,Brian
+A1 Babu,Shivnath
+A1 Datar,Mayur
+A1 Ito,Keith
+A1 Nishizawa,Itaru
+A1 Rosenstein,Justin
+A1 Widom,Jennifer
+A1 Thomas,Dilys
+A1 Varma,Rohit
+YR 2003
+T1 STREAM: The Stanford Stream Data Manager
+JF IEEE Data(base) Engineering Bulletin
+VO 26
+SP 665
+OP 26
+IS 1
+
+RT Journal Article
+ID 804288
+A1 Ganesan,Prasanna
+A1 Garcia-Molina,Hector
+A1 Widom,Jennifer
+YR 2003
+T1 Exploiting hierarchical domain structure to compute similarity
+JF ACM Transactions on Information Systems
+VO 21
+SP 64
+OP 93
+IS 1
+
+RT Journal Article
+ID 779779
+A1 Abiteboul,Serge
+A1 Agrawal,Rakesh
+A1 Bernstein,Philip,A.
+A1 Carey,Michael,J.
+A1 Ceri,Stefano
+A1 Croft,W.,Bruce
+A1 Dewitt,David,J.
+A1 Franklin,Michael,J.
+A1 Molina,Hector,Garcia
+A1 Gawlick,Dieter
+A1 Gray,Jim
+A1 Haas,Laura,M.
+A1 Halevy,Alon,Y.
+A1 Hellerstein,Joseph,M.
+A1 Ioannidis,Yannis,E.
+A1 Kersten,Martin,L.
+A1 Pazzani,Michael,J.
+A1 Lesk,Michael
+A1 Maier,David
+A1 Naughton,Jeffrey,F.
+A1 Schek,Hans-jörg
+A1 Sellis,Timos,K.
+A1 Silberschatz,Avi
+A1 Stonebraker,Michael
+A1 Snodgrass,Richard,T.
+A1 Ullman,Jeffrey,D.
+A1 Weikum,Gerhard
+A1 Widom,Jennifer
+YR 2003
+T1 The Lowell Database Research Self Assessment
+JF Computing Research Repository
+VO cs.DB/0310
+
+RT Book, Whole
+ID 502825
+A1 Arasu,Arvind
+A1 Babu,Shivnath
+A1 Widom,Jennifer
+YR 2003
+T1 CQL: A Language for Continuous Queries over Streams and Relations
+SP 1
+OP 19
+
+RT Journal Article
+ID 807431
+A1 Cui,Yingwei
+A1 Widom,Jennifer
+YR 2003
+T1 Lineage tracing for general data warehouse transformations
+JF The Vldb Journal
+VO 12
+SP 41
+OP 58
+IS 1
+
+RT Conference Proceedings
+ID 4453486
+A1 Arasu,Arvind
+A1 Babcock,Brian
+A1 Babu,Shivnath
+A1 Datar,Mayur
+A1 Ito,Keith
+A1 Nishizawa,Itaru
+A1 Rosenstein,Justin
+A1 Widom,Jennifer
+YR 2003
+T1 STREAM: the stanford stream data manager (demonstration description)
+
+RT Journal Article
+ID 807593
+A1 Yang,Jun
+A1 Widom,Jennifer
+YR 2003
+T1 Incremental computation and maintenance of temporal aggregates
+JF The Vldb Journal
+VO 12
+SP 262
+OP 283
+IS 3
+
+RT Journal Article
+ID 811938
+A1 Feder,Tomás
+A1 Motwani,Rajeev
+A1 Panigrahy,Rina
+A1 Olston,Chris
+A1 Widom,Jennifer
+YR 2003
+T1 Computing the Median with Uncertainty
+JF Siam Journal on Computing
+VO 32
+SP 538
+OP 547
+IS 2
+
+RT Conference Proceedings
+ID 565278
+A1 Babcock,Brian
+A1 Babu,Shivnath
+A1 Datar,Mayur
+A1 Motwani,Rajeev
+A1 Widom,Jennifer
+YR 2002
+T1 Models and issues in data stream systems
+SP 1
+OP 16
+
+RT Conference Proceedings
+ID 55384
+A1 Jeh,Glen
+A1 Widom,Jennifer
+YR 2002
+T1 SimRank: a measure of structural-context similarity
+SP 538
+OP 543
+
+RT Journal Article
+ID 1277403
+A1 Molina,H.,G.
+A1 Ullman,J.,D.
+A1 Widom,J.
+YR 2002
+T1 Database systems: the complete book
+
+RT Conference Proceedings
+ID 565407
+A1 Arasu,Arvind
+A1 Babcock,Brian
+A1 Babu,Shivnath
+A1 McAlister,Jon
+A1 Widom,Jennifer
+YR 2002
+T1 Characterizing memory requirements for queries over continuous data streams
+SP 221
+OP 232
+
+RT Conference Proceedings
+ID 102464
+A1 Olston,Chris
+A1 Widom,Jennifer
+YR 2002
+T1 Best-effort cache synchronization with source cooperation
+SP 73
+OP 84
+
+RT Conference Proceedings
+ID 1296652
+A1 Arasu,Arvind
+A1 Babu,Shivnath
+A1 Widom,Jennifer
+YR 2002
+T1 An abstract semantics and concrete language for continuous queries over streams and relations
+
+RT Conference Proceedings
+ID 2072212
+A1 Babcock,B.
+A1 Babu,S.
+A1 Datar,M.
+A1 Motwani,R.
+A1 Widom,J.
+YR 2002
+T1 Models and issues in data streams
+
+RT Conference Proceedings
+ID 3637662
+A1 Motwani,R.
+A1 Widom,J.
+A1 Arasu,A.
+YR 2002
+T1 Query Processing Approximation and Resource Management in a Data Stream Management System
+
+RT Conference Proceedings
+ID 2660468
+A1 Olston,C.
+A1 Jiang,J.
+A1 Widom,J.
+YR 2002
+T1 Adaptive filters for continuous queries over distributed data streams
+
+RT Book, Whole
+ID 39254414
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 2002
+T1 A first course in database systems (2. ed.)
+
+RT Journal Article
+ID 1966352
+A1 Olston,Chris
+A1 Widom,Jennifer
+YR 2002
+T1 Approximate Caching for Continuous Queries over Distributed Data Sources
+
+RT Book, Whole
+ID 39254411
+A1 Garcia-Molina,Hector
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 2002
+T1 Database systems - the complete book (international edition)
+
+RT Conference Proceedings
+ID 668068
+A1 Hellerstein,Joseph,M.
+A1 Widom,Jennifer
+YR 2002
+T1 Data streams: fresh current or stagnant backwater? (panel)
+SP 632
+OP 632
+
+RT Journal Article
+ID 854262
+A1 Babu,Shivnath
+A1 Widom,Jennifer
+YR 2001
+T1 Continuous queries over data streams
+JF Sigmod Record
+VO 30
+SP 109
+OP 120
+IS 3
+
+RT Journal Article
+ID 2058584
+A1 Garcia-molina,H.
+A1 Ullman,J.
+A1 Widom,J.
+YR 2001
+T1 Database Systems: The Complete Book
+
+RT Journal Article
+ID 179188
+A1 Olston,Chris
+A1 Loo,Boon,Thau
+A1 Widom,Jennifer
+YR 2001
+T1 Adaptive Precision Setting for Cached Approximate Values
+JF Sigmod Record
+VO 30
+SP 355
+OP 366
+IS 2
+
+RT Conference Proceedings
+ID 118569
+A1 Cui,Yingwei
+A1 Widom,Jennifer
+YR 2001
+T1 Lineage Tracing for General Data Warehouse Transformations
+SP 471
+OP 480
+
+RT Conference Proceedings
+ID 238025
+A1 Yang,Jun
+A1 Widom,Jennifer
+YR 2001
+T1 Incremental Computation and Maintenance of Temporal Aggregates
+SP 51
+OP 60
+
+RT Journal Article
+ID 2059874
+A1 Babu,Shivnath
+A1 Subramanian,Lakshminarayanan
+A1 Widom,Jennifer
+YR 2001
+T1 A Data Stream Management System for Network Traffi c Management
+
+RT Journal Article
+ID 3702874
+A1 Cui,Yingwei
+A1 Widom,Jennifer
+YR 2001
+T1 Run-Time Translation of View Tuple Deletions Using Data Lineage
+
+RT Journal Article
+ID 2778687
+A1 Olston,C.
+A1 Widom,J.
+YR 2001
+T1 Best-effort cache synchronization with source cooperation
+
+RT Journal Article
+ID 39217287
+A1 Olston,Chris
+A1 Loo,Boon,Thau
+A1 Widom,Jennifer
+YR 2001
+T1 Adaptive precision setting for cached approximate values
+JF Sigmod Record
+SP 355
+OP 366
+
+RT Book, Whole
+ID 695207
+A1 Garcia-molina,Hector
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 2000
+T1 Database System Implementation
+
+RT Journal Article
+ID 803850
+A1 Cui,Yingwei
+A1 Widom,Jennifer
+A1 Wiener,Janet,L.
+YR 2000
+T1 Tracing the lineage of view data in a warehousing environment
+JF ACM Transactions on Database Systems
+VO 25
+SP 179
+OP 227
+IS 2
+
+RT Conference Proceedings
+ID 71458
+A1 Olston,Chris
+A1 Widom,Jennifer
+YR 2000
+T1 Offering a Precision-Performance Tradeoff for Aggregation Queries over Replicated Data
+SP 144
+OP 155
+
+RT Conference Proceedings
+ID 522247
+A1 Cui,Yingwei
+A1 Widom,Jennifer
+YR 2000
+T1 Practical Lineage Tracing in Data Warehouses
+SP 367
+OP 378
+
+RT Conference Proceedings
+ID 112314
+A1 Goldman,Roy
+A1 Widom,Jennifer
+YR 2000
+T1 WSQ/DSQ: A Practical Approach for Combined Querying of Databases and the Web
+SP 285
+OP 296
+
+RT Journal Article
+ID 244328
+A1 Baralis,Elena
+A1 Widom,Jennifer
+YR 2000
+T1 An algebraic approach to static analysis of active database rules
+JF ACM Transactions on Database Systems
+VO 25
+SP 269
+OP 332
+IS 3
+
+RT Conference Proceedings
+ID 1340196
+A1 Yang,Jun
+A1 Widom,Jennifer
+YR 2000
+T1 Temporal View Self-Maintenance in a Warehousing Environment
+
+RT Conference Proceedings
+ID 286481
+A1 Feder,Tomas
+A1 Motwani,Rajeev
+A1 Panigrahy,Rina
+A1 Olston,Chris
+A1 Widom,Jennifer
+YR 2000
+T1 Computing the median with uncertainty
+SP 602
+OP 607
+
+RT Book, Whole
+ID 263573
+A1 Yang,Jun
+A1 Widom,Jennifer
+YR 2000
+T1 Temporal View Self-Maintenance
+SP 395
+OP 412
+
+RT Conference Proceedings
+ID 578017
+A1 Labio,Wilburt
+A1 Yang,Jun
+A1 Cui,Yingwei
+A1 Garcia-molina,Hector
+A1 Widom,Jennifer
+YR 2000
+T1 Performance Issues in Incremental Warehouse Maintenance
+SP 461
+OP 472
+
+RT Conference Proceedings
+ID 264610
+A1 Cui,Yingwei
+A1 Widom,Jennifer
+YR 2000
+T1 Lineage Tracing in a Data Warehousing System
+SP 683
+OP 684
+
+RT Conference Proceedings
+ID 507218
+A1 Cui,Yingwei
+A1 Widom,Jennifer
+YR 2000
+T1 Storing auxiliary data for efficient maintenance and lineage tracing of complex views
+SP 11
+
+RT Conference Proceedings
+ID 578986
+A1 Ceri,Stefano
+A1 Cochrane,Roberta
+A1 Widom,Jennifer
+YR 2000
+T1 Practical Applications of Triggers and Constraints: Success and Lingering Issues (10Year Award)
+SP 254
+OP 262
+
+RT Journal Article
+ID 204802
+A1 Widom,Elena,Baralis,Jennifer
+YR 2000
+T1 Better Static Rule Analysis for Active Database Systems
+JF ACM Transactions on Database Systems
+
+RT Conference Proceedings
+ID 667680
+A1 Yang,Jun
+A1 Ying,Huacheng,C.
+A1 Widom,Jennifer
+YR 2000
+T1 TIP: A Temporal Extension to Informix
+SP 596
+
+RT Journal Article
+ID 244700
+A1 Goldman,Roy
+A1 Widom,Jennifer
+YR 2000
+T1 Summarizing and Searching Sequential Semistructured Sources
+
+RT Journal Article
+ID 2792650
+A1 Olston,C.
+A1 Widom,J.
+YR 2000
+T1 Bounded aggregation: Offering a precision-performance trade-off in replicated systems
+
+RT Journal Article
+ID 15245566
+A1 Goldman,Roy
+A1 McHugh,Jason
+A1 Widom,Jennifer
+YR 2000
+T1 From semistructured data to XML: Migrating the Lore data model and query language
+JF Markup Languages
+VO 2
+SP 153
+OP 163
+IS 2
+
+RT Journal Article
+ID 885825
+A1 Carey,Michael,J.
+A1 Widom,Jennifer
+A1 Bosworth,Adam
+A1 Lindsay,Bruce
+A1 Stonebraker,Michael
+A1 Suciu,Dan
+YR 2000
+T1 Of XML and databases (panel session): where's the beef?
+JF Sigmod Record
+
+RT Journal Article
+ID 14415201
+A1 Widom,Jennifer
+A1 Bosworth,Adam
+A1 Lindsay,Bruce
+A1 Stonebraker,Michael
+A1 Suciu,Dan
+YR 2000
+T1 Of XML and databases (panel session): where's the beef?
+JF Sigmod Record
+VO 29
+SP 576
+IS 2
+
+RT Journal Article
+ID 14415189
+A1 Goldman,Roy
+A1 Widom,Jennifer
+YR 2000
+T1 WSQ/DSQ: a practical approach for combined querying of databases and the Web
+JF Sigmod Record
+VO 29
+SP 285
+OP 296
+IS 2
+
+RT Journal Article
+ID 14415213
+A1 Yang,Jun
+A1 Ying,Huacheng,C.
+A1 Widom,Jennifer
+YR 2000
+T1 TIP: a temporal extension to Informix
+JF Sigmod Record
+VO 29
+SP 596
+IS 2
+
+RT Journal Article
+ID 807463
+A1 Widom,Jennifer
+A1 Shmueli,Oded
+YR 2000
+T1 Foreword by the VLDB '98 PC Chairmen: Best Papers of VLDB '98
+JF The Vldb Journal
+VO 8
+SP 155
+IS 3-4
+
+RT Journal Article
+ID 46353924
+A1 Shmueli,O.
+A1 Widom,J.
+YR 2000
+T1 Foreword by the VLDB '98 PC Chairmen
+JF The Vldb Journal
+VO 8
+SP 155
+OP 155
+IS 3
+
+RT Conference Proceedings
+ID 79765
+A1 Mchugh,Jason
+A1 Widom,Jennifer
+YR 1999
+T1 Query Optimization for XML
+SP 315
+OP 326
+
+RT Conference Proceedings
+ID 251608
+A1 Goldman,Roy
+A1 Mchugh,Jason
+A1 Widom,Jennifer
+YR 1999
+T1 From Semistructured Data to XML: Migrating the Lore Data Model and Query Language
+SP 25
+OP 30
+
+RT Journal Article
+ID 268186
+A1 Widom,Jennifer
+YR 1999
+T1 Data Management for XML: Research Directions
+JF IEEE Data(base) Engineering Bulletin
+VO 22
+SP 44
+OP 52
+IS 3
+
+RT Journal Article
+ID 247927
+A1 Chawathe,Sudarshan,S.
+A1 Abiteboul,Serge
+A1 Widom,Jennifer
+YR 1999
+T1 Managing Historical Semistructured Data
+JF Theory and Practice of Object Systems
+VO 5
+SP 143
+OP 162
+IS 3
+
+RT Conference Proceedings
+ID 502766
+A1 Lahiri,Tirthankar
+A1 Abiteboul,Serge
+A1 Widom,Jennifer
+YR 1999
+T1 Ozone: Integrating Structured and Semistructured Data
+SP 297
+OP 323
+
+RT Journal Article
+ID 203409
+A1 Mchugh,Jason
+A1 Widom,Jennifer
+YR 1999
+T1 Compile-Time Path Expansion in Lore
+
+RT Journal Article
+ID 155620
+A1 Garcia-molina,Hector
+A1 Widom,Jennifer
+A1 Yang,Jun
+A1 Labio,Wilburt,Juan
+A1 Cui,Yingwei
+YR 1999
+T1 Performance Issues in Incremental Warehouse Maintenance
+
+RT Conference Proceedings
+ID 233660
+A1 McHugh,Jason
+A1 Widom,Jennifer
+YR 1999
+T1 Optimizing Branching Path Expressions
+
+RT Journal Article
+ID 256119
+A1 Ying,Huacheng,C.
+A1 Widom,Jennifer
+A1 Yang,Jun
+YR 1999
+T1 TIP: A Temporal Extension to Informix
+
+RT Journal Article
+ID 52061
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 1999
+T1 Introduccion a Los Sistemas De Bases De Datos
+
+RT Journal Article
+ID 4106566
+A1 Fernadez,M.
+A1 Waleder,P.
+A1 Cluet,S.
+A1 Deusch,A.
+A1 Florescy,D.
+A1 Levy,A.
+A1 Mchugh,J.
+A1 Robie,J.
+A1 Suciu,D.
+A1 Widom,J.
+YR 1999
+T1 Xml Query languages: Experience and examples
+
+RT Journal Article
+ID 51203514
+A1 Goldman,R.
+A1 McHugh,J.
+A1 Widom,J.
+YR 1999
+T1 From Semistructured Data to XML: Migrating the Lore Data Model and Query Languages
+
+RT Journal Article
+ID 705952
+A1 Widom,Jennifer
+YR 1999
+T1 Review - Xml-ql: A Query Language for XML
+JF ACM Sigmod Digital Review
+VO 1
+
+RT Journal Article
+ID 705954
+A1 Widom,Jennifer
+YR 1999
+T1 Review - Access Path Selection in a Relational Database Management System
+JF ACM Sigmod Digital Review
+VO 1
+
+RT Journal Article
+ID 705955
+A1 Widom,Jennifer
+YR 1999
+T1 Review - Query Evaluation Techniques for Large Databases
+JF ACM Sigmod Digital Review
+VO 1
+
+RT Journal Article
+ID 705956
+A1 Widom,Jennifer
+YR 1999
+T1 Review - An Overview of Data Warehousing and OLAP Technology
+JF ACM Sigmod Digital Review
+VO 1
+
+RT Conference Proceedings
+ID 341721
+A1 Chawathe,Sudarshan,S.
+A1 Abiteboul,Serge
+A1 Widom,Jennifer
+YR 1998
+T1 Representing and Querying Changes in Semistructured Data
+SP 4
+OP 13
+
+RT Journal Article
+ID 4140236
+A1 Mchugh,J.
+A1 Widom,J.
+A1 Abiteboul,S.
+A1 Luo,Q.
+A1 Rajamaran,A.
+YR 1998
+T1 Index - ing semistructured data
+
+RT Book, Whole
+ID 379985
+A1 Goldman,Roy
+A1 Widom,Jennifer
+YR 1998
+T1 Interactive Query and Search in Semistructured Databases
+SP 52
+OP 62
+
+RT Conference Proceedings
+ID 397421
+A1 Yang,Jun
+A1 Widom,Jennifer
+YR 1998
+T1 Maintaining Temporal Views over Non-Temporal Information Sources for Data Warehousing
+SP 389
+OP 403
+
+RT Journal Article
+ID 885714
+A1 Lain,Derek
+A1 Cui,Yingwei
+A1 Cox,Donald,C.
+A1 Widom,Jennifer
+YR 1998
+T1 A location management technique to support lifelong numbering in personal communications services
+JF Mobile Computing and Communications Review
+VO 2
+SP 27
+OP 35
+IS 1
+
+RT Journal Article
+ID 3342654
+A1 Goldman,R.
+A1 Mchugh,J.
+A1 Widom,J.
+YR 1998
+T1 Lore: A database management system for XML
+JF Sigmod Record
+
+RT Conference Proceedings
+ID 351328
+A1 Cui,Yingwei
+A1 Lam,Derek
+A1 Widom,Jennifer
+A1 Cox,Donald,C.
+YR 1998
+T1 Efficient PCS Call Setup Protocols
+VO 2
+SP 728
+OP 736
+
+RT Conference Proceedings
+ID 479829
+A1 Abiteboul,Serge
+A1 Widom,Jennifer
+A1 Lahiri,Tirthankar
+YR 1998
+T1 A Unified Approach for Querying Structured Data and XML
+
+RT Journal Article
+ID 3637594
+A1 Mchugh,J.
+A1 Widom,J.
+A1 Abiteboul,S.
+A1 Luo,Q.
+A1 Rajaraman,A.
+YR 1998
+T1 Query optimization for semistructured data
+
+RT Journal Article
+ID 854783
+A1 Snodgrass,Richard,T.
+A1 Haas,Laura,M.
+A1 Mendelzon,Alberto,O.
+A1 Özsoyoglu,Z.,Meral
+A1 Paredaens,Jan
+A1 Ramamritham,Krithi
+A1 Roussopoulos,Nick
+A1 Widom,Jennifer
+A1 Yu,Philip,S.
+YR 1998
+T1 Reminiscences in influential papers
+JF Sigmod Record
+VO 27
+SP 54
+OP 57
+IS 1
+
+RT Journal Article
+ID 13295055
+A1 Gupta,Ashish
+A1 Shmueli,Oded
+A1 Widom,Jennifer
+YR 1998
+T1 VLDB'98, Proceedings of 24rd International Conference on Very Large Data Bases, August 24-27, 1998, New York City, New York, USA
+
+RT Conference Proceedings
+ID 479815
+A1 Widom,Jennifer
+YR 1998
+T1 Querying XML with Lore
+
+RT Journal Article
+ID 387210
+A1 Abiteboul,Serge
+A1 Quass,Dallan
+A1 Mchugh,Jason
+A1 Widom,Jennifer
+A1 Wiener,Janet,L.
+YR 1997
+T1 The Lorel Query Language for Semistructured Data
+JF International Journal on Digital Libraries
+VO 1
+SP 68
+OP 88
+IS 1
+
+RT Conference Proceedings
+ID 378220
+A1 Goldman,Roy
+A1 Widom,Jennifer
+YR 1997
+T1 DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases
+SP 436
+OP 445
+
+RT Journal Article
+ID 325983
+A1 McHugh,Jason
+A1 Abiteboul,Serge
+A1 Goldman,Roy
+A1 Quass,Dallan
+A1 Widom,Jennifer
+YR 1997
+T1 Lore: a database management system for semistructured data
+JF Sigmod Record
+VO 26
+SP 54
+OP 66
+IS 3
+
+RT Journal Article
+ID 386588
+A1 Garcia-molina,Hector
+A1 Papakonstantinou,Yannis
+A1 Quass,Dallan
+A1 Rajaraman,Anand
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+A1 Vassalos,Vasilis
+A1 Widom,Jennifer
+YR 1997
+T1 The TSIMMIS Approach to Mediation: Data Models and Languages
+JF Journal of Intelligent Information Systems
+VO 8
+SP 117
+OP 132
+IS 2
+
+RT Conference Proceedings
+ID 522339
+A1 Lentt,Brian
+A1 Swami,Arun,N.
+A1 Widom,Jennifer
+YR 1997
+T1 Clustering Association Rules
+SP 220
+OP 231
+
+RT Book, Whole
+ID 695208
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 1997
+T1 A First Course in Database Systems
+
+RT Journal Article
+ID 1309215
+A1 Garcia-molina,H.
+A1 Papakonstantinou,Y.
+A1 Quass,D.
+A1 Rajaraman,A.
+A1 Sagiv,Y.
+A1 Ullman,J.
+A1 Widom,J.
+YR 1997
+T1 The tsimmis project: integration of heterogeneous information sources
+JF Journal of Intelligent Information Systems
+
+RT Journal Article
+ID 119966
+A1 Lam,Derek
+A1 Cox,Donald,C.
+A1 Widom,Jennifer
+YR 1997
+T1 Teletraffic modeling for personal communications services
+JF IEEE Communications Magazine
+VO 35
+SP 79
+OP 87
+IS 2
+
+RT Journal Article
+ID 1986802
+A1 Abiteboul,Serge
+A1 Quass,Dallan
+A1 Mchugh,Jason
+A1 Widom,Jennifer
+A1 Janet,L
+YR 1997
+T1 Wiener: The Lorel Query Language for Semistructured Data
+
+RT Journal Article
+ID 248221
+A1 Cui,Yingwei
+A1 Widom,Jennifer
+YR 1997
+T1 Tracing the Lineage of View Data in a Warehousing Environment
+
+RT Journal Article
+ID 321444
+A1 Shivakumar,Narayanan
+A1 Jannink,Jan
+A1 Widom,Jennifer
+YR 1997
+T1 Per-User Profile Replication in Mobile Environments: Algorithms, Analysis, and Simulation Results
+JF Mobile Networks and Applications
+VO 2
+SP 129
+OP 140
+IS 2
+
+RT Journal Article
+ID 376113
+A1 Quass,Dallan
+A1 Widom,Jennifer
+YR 1997
+T1 On-Line Warehouse View Maintenance
+JF Sigmod Record
+VO 26
+SP 393
+OP 404
+IS 2
+
+RT Journal Article
+ID 837797
+A1 Jannink,Jan
+A1 Lam,Derek
+A1 Shivakumar,Narayanan
+A1 Widom,Jennifer
+A1 Cox,Donald,C.
+YR 1997
+T1 Efficient and flexible location management techniques for wireless communication systems
+JF Wireless Networks
+VO 3
+SP 361
+OP 374
+IS 5
+
+RT Conference Proceedings
+ID 97058
+A1 Mchugh,Jason
+A1 Widom,Jennifer
+YR 1997
+T1 Query Optimization for Semistructured Data
+
+RT Journal Article
+ID 286452
+A1 McHugh,Jason
+A1 Widom,Jennifer
+YR 1997
+T1 Integrating dynamically-fetched external information into a DBMS for semistructured data
+JF Sigmod Record
+VO 26
+SP 24
+OP 31
+IS 4
+
+RT Journal Article
+ID 3029
+A1 Wiener,Janet,L.
+A1 Gupta,Himanshu
+A1 Garcia-Molina,Hector
+A1 Widom,Jennifer
+YR 1997
+T1 The WHIPS Prototype for Data Warehouse Creation and Maintenance
+JF Sigmod Record
+VO 26
+SP 589
+OP 559
+IS 2
+
+RT Conference Proceedings
+ID 290241
+A1 Quass,Dallan
+A1 Widom,Jennifer
+YR 1997
+T1 On-Line Warehouse View Maintenance for Batch Updates
+
+RT Journal Article
+ID 729553
+A1 Grefen,Paul,W.,P.,J.
+A1 Widom,Jennifer
+YR 1997
+T1 Protocols for Integrity Constraint Checking in Federated Databases
+JF Distributed and Parallel Databases
+VO 5
+SP 327
+OP 355
+IS 4
+
+RT Journal Article
+ID 315302
+A1 Adelberg,Brad
+A1 Garcia-Molina,Hector
+A1 Widom,Jennifer
+YR 1997
+T1 The STRIP Rule System For Efficiently Maintaining Derived Data
+JF Sigmod Record
+VO 26
+SP 147
+OP 158
+IS 2
+
+RT Conference Proceedings
+ID 383331
+A1 Lam,Derek
+A1 Cui,Yingwei
+A1 Cox,Donald,C.
+A1 Widom,Jennifer
+YR 1997
+T1 A location management technique to support lifelong numbering in personal communications services
+
+RT Journal Article
+ID 39217105
+A1 Labio,Wilburt,J.
+A1 Zhuge,Yue
+A1 Wiener,Janet,L.
+A1 Gupta,Himanshu
+A1 García-Molina,Héctor
+A1 Widom,Jennifer
+YR 1997
+T1 The WHIPS prototype for data warehouse creation and maintenance
+JF Sigmod Record
+SP 557
+OP 559
+
+RT Conference Proceedings
+ID 1970501
+A1 Chawathe,S.
+A1 Abiteboul,S.
+A1 Widom,J.
+YR 1997
+T1 Managing and querying changes in semi-structured data
+
+RT Journal Article
+ID 15231619
+A1 Garcia-Molina,Hector
+A1 Papakonstantinou,Yannis
+A1 Quass,Dallan
+A1 Rajaraman,Anand
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey
+A1 Vassalos,Vasilis
+A1 Widom,Jennifer
+YR 1997
+T1 The TSIMMIS Approach to Mediation: Data Models and Languages
+JF Journal of Intelligent Information Systems
+VO 8
+SP 117
+OP 132
+IS 2
+
+RT Journal Article
+ID 748174
+A1 Quass,Dallan
+A1 Rajaraman,Anand
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+A1 Sagiv,Yehoshua
+YR 1997
+T1 Querying Semistructured Heterogeneous Information
+JF Journal of Systems Integration
+VO 7
+SP 381
+OP 407
+IS 3/4
+
+RT Journal Article
+ID 15273305
+A1 Shivakumar,Narayanan
+A1 Jannink,Jan
+A1 Widom,Jennifer
+YR 1997
+T1 Per-user profile replication in mobile environments: Algorithms, analysis, and simulation results
+JF Mobile Networks and Applications
+VO 2
+SP 129
+OP 140
+IS 2
+
+RT Journal Article
+ID 3031528
+A1 Goldman,R.
+A1 Widom,J.
+YR 1997
+T1 Enabling query formulation and optimization in semi-structured database
+
+RT Journal Article
+ID 15242303
+A1 Quass,Dallan
+A1 Rajaraman,Anand
+A1 Ullman,Jeffrey
+A1 Widom,Jennifer
+A1 Sagiv,Yehoshua
+YR 1997
+T1 Querying Semistructured Heterogeneous Information
+JF Journal of Systems Integration
+VO 7
+SP 381
+OP 407
+IS 3
+
+RT Journal Article
+ID 47639867
+A1 Abiteboul,Serge
+A1 Quass,Dallan
+A1 McHugh,Jason
+A1 Widom,Jennifer
+A1 Wiener,Janet,L.
+YR 1997
+T1 The Lorel query language for semistructured data
+JF International Journal on Digital Libraries
+VO 1
+SP 68
+OP 88
+IS 1
+
+RT Conference Proceedings
+ID 50074753
+A1 Wiener,Janet,L.
+A1 Gupta,Himanshu
+A1 Labio,Wilburt,J.
+A1 Zhuge,Yue
+A1 Garcia-Molina,Hector
+A1 Widom,Jennifer
+YR 1997
+T1 The WHIPS prototype for data warehouse creation and maintenance
+SP 589
+
+RT Journal Article
+ID 39217076
+A1 Adelberg,Brad
+A1 Garcia-Molina,Hector
+A1 Widom,Jennifer
+YR 1997
+T1 The STRIP rule system for efficiently maintaining derived data
+JF Sigmod Record
+SP 147
+OP 158
+
+RT Journal Article
+ID 39217089
+A1 Quass,Dallan
+A1 Widom,Jennifer
+YR 1997
+T1 On-line warehouse view maintenance
+JF Sigmod Record
+SP 393
+OP 404
+
+RT Book, Whole
+ID 695007
+A1 Widom,Jennifer
+A1 Ceri,Stefano
+YR 1996
+T1 Active Database Systems: Triggers and Rules For Advanced Database Processing
+
+RT Journal Article
+ID 1971
+A1 Chawathe,Sudarshan,S.
+A1 Rajaraman,Anand
+A1 Garcia-Molina,Hector
+A1 Widom,Jennifer
+YR 1996
+T1 Change Detection in Hierarchically Structured Information
+JF Sigmod Record
+VO 25
+SP 493
+OP 504
+IS 2
+
+RT Journal Article
+ID 1977256
+A1 Abiteboul,S.
+A1 Quass,D.
+A1 Mchugh,J.
+A1 Widom,J.
+A1 Wiener,J.
+YR 1996
+T1 The Lorel Query Language for Semistruc-tured Data
+
+RT Conference Proceedings
+ID 290196
+A1 Quass,Dallan
+A1 Gupta,Ashish
+A1 Mumick,Inderpal,Singh
+A1 Widom,Jennifer
+YR 1996
+T1 Making Views Self-Maintainable for Data Warehousing
+SP 158
+OP 169
+
+RT Conference Proceedings
+ID 667737
+A1 Quass,Dallan
+A1 Widom,Jennifer
+A1 Goldman,Roy
+A1 Haas,Kevin
+A1 Luo,Qingshan
+A1 McHugh,Jason
+A1 Nestorov,Svetlozar
+A1 Rajaraman,Anand
+A1 Rivero,Hugo
+A1 Abiteboul,Serge
+A1 Ullman,Jeffrey,D.
+A1 Wiener,Janet,L.
+YR 1996
+T1 LORE: A Lightweight Object REpository for Semistructured Data
+SP 549
+
+RT Conference Proceedings
+ID 354193
+A1 Jannink,Jan
+A1 Lam,Derek
+A1 Shnivakumar,Narayanan
+A1 Widom,Jennifer
+A1 Cox,Donald,C.
+YR 1996
+T1 Efficient and flexible location management techniques for wireless communication systems
+SP 38
+OP 49
+
+RT Conference Proceedings
+ID 349918
+A1 Wiener,Janet,L.
+A1 Gupta,Himanshu
+A1 Labio,Wilburt
+A1 Zhuge,Yue
+A1 Garcia-molina,Hector
+A1 Widom,Jennifer
+YR 1996
+T1 A System Prototype for Warehouse View Maintenance
+SP 26
+OP 33
+
+RT Journal Article
+ID 397497
+A1 Widom,Jennifer
+YR 1996
+T1 The Starburst Active Database Rule System
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 8
+SP 583
+OP 595
+IS 4
+
+RT Conference Proceedings
+ID 185423
+A1 Lam,Derek
+A1 Jannink,J.
+A1 Cox,D.,C.
+A1 Widom,J.
+YR 1996
+T1 Modeling location management in personal communications services
+
+RT Conference Proceedings
+ID 650452
+A1 Grefen,Paul,W.,P.,J.
+A1 Widom,Jennifer
+YR 1996
+T1 Integrity Constraint Checking in Federated Databases
+SP 38
+OP 47
+
+RT Journal Article
+ID 695053
+A1 Widom,Jennifer
+YR 1996
+T1 The Starburst Rule System
+
+RT Journal Article
+ID 3473925
+A1 Papakonstantinou,Y.
+A1 Molina,H.,G.
+A1 Widom,J.
+YR 1996
+T1 Object exchange across heterogeneous information sources
+
+RT Conference Proceedings
+ID 389880
+A1 Chawathe,Sudarshan,S.
+A1 Garcia-molina,Hector
+A1 Widom,Jennifer
+YR 1996
+T1 A Toolkit for Constraint Management in Heterogeneous Information Systems
+SP 56
+OP 65
+
+RT Journal Article
+ID 781037
+A1 Widom,Jennifer
+YR 1996
+T1 Integrating heterogeneous databases: lazy or eager?
+JF ACM Computing Surveys
+VO 28
+SP 91
+IS 4es
+
+RT Journal Article
+ID 695055
+A1 Widom,Jennifer
+A1 Ceri,Stefano
+YR 1996
+T1 Introduction to Active Database Systems
+
+RT Journal Article
+ID 695056
+A1 Widom,Jennifer
+A1 Ceri,Stefano
+YR 1996
+T1 Standards and Commercial Systems
+
+RT Conference Proceedings
+ID 50065180
+A1 Quass,Dallan
+A1 Gupta,Ashish
+A1 Mumick,I.,S.
+A1 Widom,J.
+YR 1996
+T1 Making views self-maintainable for data warehousing
+
+RT Journal Article
+ID 695057
+A1 Widom,Jennifer
+A1 Ceri,Stefano
+YR 1996
+T1 Applications of Active Databases
+
+RT Journal Article
+ID 793739
+A1 Chakravarthy,Sharma
+A1 Widom,Jennifer
+YR 1996
+T1 Foreword: Special Issue on Active Database Systems
+JF Journal of Intelligent Information Systems
+VO 7
+SP 109
+OP 110
+IS 2
+
+RT Journal Article
+ID 39217057
+A1 Chawathe,Sudarshan,S.
+A1 Rajaraman,Anand
+A1 Garcia-Molina,Hector
+A1 Widom,Jennifer
+YR 1996
+T1 Change detection in hierarchically structured information
+JF Sigmod Record
+SP 493
+OP 504
+
+RT Journal Article
+ID 14415074
+A1 Quass,Dallan
+A1 Widom,Jennifer
+A1 Goldman,Roy
+A1 Haas,Kevin
+A1 Luo,Qingshan
+A1 McHugh,Jason
+A1 Nestorov,Svetlozar
+A1 Rajaraman,Anand
+A1 Rivero,Hugo
+A1 Abiteboul,Serge
+A1 Ullman,Jeff
+A1 Wiener,Janet
+YR 1996
+T1 LORE: a Lightweight Object REpository for semistructured data
+JF Sigmod Record
+VO 25
+SP 549
+IS 2
+
+RT Journal Article
+ID 854467
+A1 Widom,Jennifer
+YR 1996
+T1 Editor's Notes
+JF Sigmod Record
+VO 25
+SP 2
+IS 1
+
+RT Journal Article
+ID 695058
+A1 Widom,Jennifer
+A1 Ceri,Stefano
+YR 1996
+T1 Conclusions and Future Directions
+
+RT Conference Proceedings
+ID 1241
+A1 Papakonstantinou,Yannis
+A1 Garcia-molina,Hector
+A1 Widom,Jennifer
+YR 1995
+T1 Object Exchange Across Heterogeneous Information Sources
+SP 251
+OP 260
+
+RT Journal Article
+ID 325994
+A1 Zhuge,Yue
+A1 Garcia-Molina,Hector
+A1 Hammer,Joachim
+A1 Widom,Jennifer
+YR 1995
+T1 View Maintenance in a Warehousing Environment
+JF Sigmod Record
+VO 24
+SP 316
+OP 327
+IS 2
+
+RT Book, Whole
+ID 351303
+A1 Quass,Dallan
+A1 Rajaraman,Anand
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 1995
+T1 Querying Semistructured Heterogeneous Information
+SP 319
+OP 344
+
+RT Conference Proceedings
+ID 206988
+A1 Widom,Jennifer
+YR 1995
+T1 Research problems in data warehousing
+SP 25
+OP 30
+
+RT Journal Article
+ID 696202
+A1 Dayal,Umeshwar
+A1 Hanson,Eric,N.
+A1 Widom,Jennifer
+YR 1995
+T1 Active Database Systems
+
+RT Journal Article
+ID 209069
+A1 Hammer,Joachim
+A1 Garcia-molina,Hector
+A1 Widom,Jennifer
+A1 Labio,Wilburt
+A1 Zhuge,Yue
+YR 1995
+T1 The Stanford Data Warehousing Project
+JF IEEE Data(base) Engineering Bulletin
+VO 18
+SP 41
+OP 48
+IS 2
+
+RT Journal Article
+ID 369055
+A1 Garcia-molina,Hector
+A1 Quass,Dallan
+A1 Papakonstantinou,Yannis
+A1 Rajaraman,Anand
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 1995
+T1 The TSIMMIS Approach to Mediation: Data Models and Languages (Extended Abstract)
+
+RT Conference Proceedings
+ID 366869
+A1 Shivakumar,Narayanan
+A1 Widom,Jennifer
+YR 1995
+T1 User profile replication for faster location lookup in mobile environments
+SP 161
+OP 169
+
+RT Journal Article
+ID 195383
+A1 Aiken,Alexander
+A1 Hellerstein,Joseph,M.
+A1 Widom,Jennifer
+YR 1995
+T1 Static analysis techniques for predicting the behavior of active database rules
+JF ACM Transactions on Database Systems
+VO 20
+SP 3
+OP 41
+IS 1
+
+RT Conference Proceedings
+ID 3974516
+A1 Garcia-Molina,Hector
+A1 Quass,Dallan
+A1 Papakonstantinou,Yannis
+A1 Rajaraman,Anand
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 1995
+T1 The TSIMMIS Approach to Mediation: Data Models and Languages
+SP 0
+
+RT Journal Article
+ID 3245291
+A1 Hammer,Joachim
+A1 Garcia-Molina,Hector
+A1 Ireland,Kelly
+A1 Papakonstantinou,Yannis
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 1995
+T1 Information Translation, Mediation, and Mosaic-Based Browsing in the TSIMMIS System
+JF Sigmod Record
+VO 24
+SP 483
+IS 2
+
+RT Journal Article
+ID 3778981
+A1 Hammer,J.
+A1 Garcia-molina,H.
+A1 Widom,J.
+A1 Labio,W.
+A1 Zhuge,Y.
+YR 1995
+T1 Special Issue on Materialised Views on Data Warehousing
+
+RT Book, Whole
+ID 323016
+A1 Baralis,Elena
+A1 Widom,Jennifer
+YR 1995
+T1 Using Delta Relations to Optimize Condition Evaluation in Active Databases
+SP 292
+OP 308
+
+RT Journal Article
+ID 1292472
+A1 Papakonstantinou,Y.
+A1 Garcia-molina,H.
+A1 Widom,J.
+YR 1995
+T1 Object exchange across heterogeneous informat
+
+RT Journal Article
+ID 3254734
+A1 Chawathe,S.
+A1 Garcia-molina,H.
+A1 Hammer,J.
+A1 Ireland,K.
+A1 Papakonstantinou,Y.
+A1 Ullman,J.
+A1 Widom,J.
+YR 1995
+T1 Integration of heterogeneous information sources
+
+RT Journal Article
+ID 778888
+A1 Widom,Jennifer
+YR 1995
+T1 Letter from the Special Issue Editor
+JF IEEE Data(base) Engineering Bulletin
+VO 18
+SP 2
+IS 2
+
+RT Journal Article
+ID 39217021
+A1 Hammer,Joachim
+A1 García-Molina,Héctor
+A1 Ireland,Kelly
+A1 Papakonstantinou,Yannis
+A1 Ullman,Jeffrey
+A1 Widom,Jennifer
+YR 1995
+T1 Information translation, mediation, and mosaic-based browsing in the TSIMMIS system
+JF Sigmod Record
+SP 483
+
+RT Journal Article
+ID 39216995
+A1 Zhuge,Yue
+A1 García-Molina,Héctor
+A1 Hammer,Joachim
+A1 Widom,Jennifer
+YR 1995
+T1 View maintenance in a warehousing environment
+JF Sigmod Record
+SP 316
+OP 327
+
+RT Journal Article
+ID 854466
+A1 Widom,Jennifer
+YR 1995
+T1 Editor's Notes
+JF Sigmod Record
+VO 24
+SP 2
+OP 3
+IS 3
+
+RT Conference Proceedings
+ID 383296
+A1 Chawathe,Sudarshan,S.
+A1 Garcia-molina,Hector
+A1 Hammer,Joachim
+A1 Ireland,Kelly
+A1 Papakonstantinou,Yannis
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 1994
+T1 The TSIMMIS Project: Integration of Heterogeneous Information Sources
+SP 7
+OP 18
+
+RT Conference Proceedings
+ID 372073
+A1 Gupta,Ashish
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 1994
+T1 Constraint checking with partial information
+SP 45
+OP 55
+
+RT Conference Proceedings
+ID 300823
+A1 Baralis,Elena
+A1 Widom,Jennifer
+YR 1994
+T1 An Algebraic Approach to Rule Analysis in Expert Database Systems
+SP 475
+OP 486
+
+RT Journal Article
+ID 348384
+A1 Ceri,Stefano
+A1 Widom,Jennifer
+YR 1994
+T1 Deriving Incremental Production Rules for Deductive Data
+JF Information Systems
+VO 19
+SP 467
+OP 490
+IS 6
+
+RT Journal Article
+ID 349253
+A1 Chawathe,Sudarshan,S.
+A1 Garcia-molina,Hector
+A1 Widom,Jennifer
+YR 1994
+T1 Flexible Constraint Management for Autonomous Distributed Databases
+JF IEEE Data(base) Engineering Bulletin
+VO 17
+SP 23
+OP 27
+IS 2
+
+RT Journal Article
+ID 854465
+A1 Widom,Jennifer
+A1 Barrera,Renato
+A1 Chakravarthy,Sharma
+A1 Dittrich,Klaus
+A1 Nassif,Rodolphe
+A1 Simon,Eric
+YR 1994
+T1 Research issues in active database systems: report from the closing panel at RIDE-ADS '94
+JF Sigmod Record
+VO 23
+SP 41
+OP 43
+IS 3
+
+RT Journal Article
+ID 13308329
+A1 Widom,Jennifer
+A1 Chakravarthy,Sharma
+YR 1994
+T1 Fourth International Workshop on Research Issues in Data Engineering: Active Database Systems, Houston, Texas, February 14-15, 1994
+
+RT Conference Proceedings
+ID 382513
+A1 Widom,Jennifer
+A1 Gupta,Ashish
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+YR 1994
+T1 Validating Constraints with Partial Information: Research Overview
+SP 375
+OP 385
+
+RT Book, Whole
+ID 386854
+A1 Gupta,Ashish
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 1994
+T1 Efficient and Complete Tests for Database Integrity Constraint Checking
+SP 173
+OP 180
+
+RT Journal Article
+ID 778887
+A1 Widom,Jennifer
+YR 1994
+T1 Letter from the Special Issue Editor
+JF IEEE Data(base) Engineering Bulletin
+VO 17
+SP 2
+OP 3
+IS 2
+
+RT Conference Proceedings
+ID 395739
+A1 Ceri,Stefano
+A1 Widom,Jennifer
+YR 1993
+T1 Managing Semantic Heterogeneity with Production Rules and Persistent Queues
+SP 108
+OP 119
+
+RT Journal Article
+ID 325465
+A1 Gupta,Ashish
+A1 Widom,Jennifer
+YR 1993
+T1 Local Verification of Global Integrity Constraints in Distributed Databases
+JF Sigmod Record
+VO 22
+SP 49
+OP 58
+IS 2
+
+RT Journal Article
+ID 2819
+A1 Garcia-molina,Hector
+A1 Widom,Jennifer
+A1 Chawathe,Sudarshan,S.
+YR 1993
+T1 Constraint Management in Loosely Coupled Distributed Databases
+
+RT Conference Proceedings
+ID 631690
+A1 Baralis,Elena
+A1 Ceri,Stefano
+A1 Widom,Jennifer
+YR 1993
+T1 Better Termination Analysis for Active Databases
+SP 163
+OP 179
+
+RT Conference Proceedings
+ID 631654
+A1 Widom,Jennifer
+YR 1993
+T1 Deductive and Active Databases: Two Paradigms or Ends of a Spectrum?
+SP 306
+OP 315
+
+RT Journal Article
+ID 2056264
+A1 Widom,J.
+A1 Dayal,U.
+YR 1993
+T1 A Guide To Active Databases
+
+RT Journal Article
+ID 318381
+A1 Baralis,Elena
+A1 Widom,Jennifer
+YR 1993
+T1 A Rewriting Technique for Using Delta Relations to Improve Condition Evaluation in Active Databases
+
+RT Journal Article
+ID 39216868
+A1 Gupta,Ashish
+A1 Widom,Jennifer
+YR 1993
+T1 Local verification of global integrity constraints in distributed databases
+JF Sigmod Record
+SP 49
+OP 58
+
+RT Conference Proceedings
+ID 305067
+A1 Aiken,Alexander
+A1 Widom,Jennifer
+A1 Hellerstein,Joseph,M.
+YR 1992
+T1 Behavior of Database Production Rules: Termination, Confluence, and Observable Determinism
+SP 59
+OP 68
+
+RT Journal Article
+ID 318854
+A1 Hanson,Eric,N.
+A1 Widom,Jennifer
+YR 1992
+T1 An Overview of Production Rules in Database Systems
+JF Knowledge Engineering Review
+
+RT Conference Proceedings
+ID 338775
+A1 Ceri,Stefano
+A1 Widom,Jennifer
+YR 1992
+T1 Production Rules in Parallel and Distributed Database Environments
+SP 339
+OP 351
+
+RT Journal Article
+ID 360594
+A1 Widom,Jennifer
+YR 1992
+T1 A denotational semantics for the Starburst production rule language
+JF Sigmod Record
+VO 21
+SP 4
+OP 9
+IS 3
+
+RT Journal Article
+ID 317521
+A1 Widom,Jennifer
+YR 1992
+T1 The Starburst Rule System: Language Design, Implementation, and Applications
+JF IEEE Data(base) Engineering Bulletin
+VO 15
+SP 15
+OP 18
+IS 1-4
+
+RT Journal Article
+ID 14414965
+A1 Aiken,Alexander
+A1 Widom,Jennifer
+A1 Hellerstein,Joseph,M.
+YR 1992
+T1 Behavior of database production rules: termination, confluence, and observable determinism
+JF Sigmod Record
+VO 21
+SP 59
+OP 68
+IS 2
+
+RT Conference Proceedings
+ID 301169
+A1 Ceri,Stefano
+A1 Widom,Jennifer
+YR 1991
+T1 Deriving Production Rules for Incremental View Maintenance
+SP 577
+OP 589
+
+RT Conference Proceedings
+ID 261617
+A1 Widom,Jennifer
+A1 Cochrane,Roberta
+A1 Lindsay,Bruce,G.
+YR 1991
+T1 Implementing Set-Oriented Production Rules as an Extension to Starburst
+SP 275
+OP 285
+
+RT Journal Article
+ID 1975624
+A1 Widom,J.
+YR 1991
+T1 Deduction in the Starburst production rule system
+
+RT Journal Article
+ID 1355242
+A1 Ceri,S.
+A1 Widom,J.
+YR 1991
+T1 Production rules for incremental view maintenance
+
+RT Journal Article
+ID 1397129
+A1 Ceri,S.
+A1 Widom,J.
+YR 1991
+T1 Deriving production rules for incremental rule maintenance
+
+RT Conference Proceedings
+ID 667753
+A1 Lohman,Guy,M.
+A1 Lapis,George
+A1 Lehman,Tobin,J.
+A1 Agrawal,Rakesh
+A1 Cochrane,Roberta
+A1 McPherson,John
+A1 Mohan,C.
+A1 Pirahesh,Hamid
+A1 Widom,Jennifer
+YR 1991
+T1 Starburst II: The Extender Strikes Back!
+SP 447
+
+RT Journal Article
+ID 14414956
+A1 Lohman,Guy,M.
+A1 Lapis,George
+A1 Lehman,Tobin
+A1 Agrawal,Rakesh
+A1 Cochrane,Roberta
+A1 McPherson,John
+A1 Mohan,C.
+A1 Pirahesh,Hamid
+A1 Widom,Jennifer
+YR 1991
+T1 Starburst II: the extender strikes back!
+JF Sigmod Record
+VO 20
+SP 447
+IS 2
+
+RT Journal Article
+ID 404735
+A1 Widom,Jennifer
+A1 Finkelstein,Sheldon,J.
+YR 1990
+T1 Set-Oriented Production Rules in Relational Database Systems
+JF Sigmod Record
+VO 19
+SP 259
+OP 270
+IS 2
+
+RT Conference Proceedings
+ID 578303
+A1 Ceri,Stefano
+A1 Widom,Jennifer
+YR 1990
+T1 Deriving Production Rules for Constraint Maintainance
+SP 566
+OP 577
+
+RT Journal Article
+ID 39216762
+A1 Widom,Jennifer
+A1 Finkelstein,S.,J.
+YR 1990
+T1 Set-oriented production rules in relational database systems
+JF Sigmod Record
+SP 259
+OP 270
+
+RT Journal Article
+ID 854487
+A1 Widom,Jennifer
+A1 Finkelstein,Sheldon,J.
+YR 1989
+T1 A Syntax and Semantics for Set-Oriented Production Rules in Relational Database Systems (Extended Abstract)
+JF Sigmod Record
+VO 18
+SP 36
+OP 45
+IS 3
+
+RT Book, Whole
+ID 627316
+A1 Hooman,Jozef
+A1 Widom,Jennifer
+YR 1989
+T1 A Temporal-Logic Based Compositional Proof System for Real-Time Message Passing
+SP 424
+OP 441
+
+RT Book, Whole
+ID 496580
+A1 Widom,Jennifer
+A1 Panangaden,Prakash
+YR 1988
+T1 Expressiveness Bounds for Completness in Trace-Based Network Proof Systems
+SP 200
+OP 214
+
+RT Journal Article
+ID 804345
+A1 Donahue,James,E.
+A1 Widom,Jennifer
+YR 1986
+T1 Whiteboards: a graphical database tool
+JF ACM Transactions on Information Systems
+VO 4
+SP 24
+OP 41
+IS 1
+
+RT Conference Proceedings
+ID 6934217
+A1 Widom,Jennifer
+T1 Object Exchange Across Heterogeneous Information Sources
+
+RT Journal Article
+ID 12850789
+A1 Goldman,Roy
+A1 Widom,Jennifer
+T1 Approximate DataGuides
+
+RT Conference Proceedings
+ID 10645993
+A1 Ceri,Stefano
+A1 Cochrane,Roberta,J.
+A1 Widom,Jennifer
+T1 Practical Applications of Triggers and Constraints: Successes and Lingering Issues
+
+RT Journal Article
+ID 6314411
+A1 Sarma,Anish,Das
+A1 Nabar,Shubha,U.
+A1 Widom,Jennifer
+T1 Representing Uncertain Data: Uniqueness, Equivalence, Minimization, and Approximation
+
+RT Journal Article
+ID 4570233
+A1 Jeffery,Shawn,R.
+A1 Alonso,Gustavo
+A1 Franklin,Michael,J.
+A1 Hong,Wei
+A1 Widom,Jennifer
+A1 Zurich,ETH
+T1 Virtual Devices: An Extensible Architecture for Bridging the Physical-Digital Divide
+
+RT Journal Article
+ID 4618016
+A1 Srivastava,Utkarsh
+A1 Babu,Shivnath
+A1 Widom,Jennifer
+T1 Monitoring Stream Properties for Continuous Query Processing
+
+RT Journal Article
+ID 6705361
+A1 Agrawal,Parag
+A1 Ikeda,Robert
+A1 Park,Hyunjung
+A1 Widom,Jennifer
+T1 Trio-ER: The Trio System as a Workbench for Entity-Resolution
+
+RT Journal Article
+ID 5353802
+A1 Sarma,Anish,Das
+A1 Theobald,Martin
+A1 Widom,Jennifer
+T1 Data Modifications and Versioning in Trio
+
+RT Journal Article
+ID 5074026
+A1 Ikeda,Robert
+A1 Widom,Jennifer
+T1 Outerjoins in Uncertain Databases
+
+RT Journal Article
+ID 6389386
+A1 Ikeda,Robert
+A1 Widom,Jennifer
+T1 Data Lineage: A Survey
+
+RT Book, Whole
+ID 48772380
+A1 Yang,Jun
+A1 Widom,Jennifer
+T1 Maintaining temporal views over non-temporal information sources for data warehousing
+
+RT Journal Article
+ID 10177071
+A1 Arasu,Arvind
+A1 Babcock,Brian
+A1 Babu,Shivnath
+A1 Datar,Mayur
+A1 Ito,Keith
+A1 Nishizawa,Itaru
+A1 Rosenstein,Justin
+A1 Widom,Jennifer
+T1 STREAM: The Stanford Stream Data Manager (Demonstration Proposal)
+
+RT Journal Article
+ID 13232211
+A1 Garcia-Molina,Hector
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+T1 Studienausrichtung IMA Informationsmanagement
+
+RT Journal Article
+ID 10866822
+A1 Agrawal,Parag
+A1 Benjelloun,Omar
+A1 Sarma,Anish,Das
+A1 Hayworth,Chris
+A1 Nabar,Shubha
+A1 Sugihara,Tomoe
+A1 Widom,Jennifer
+T1 Trio: A System for Data, Uncertainty, and Lineage∗ (Demonstration Description)
+
+RT Journal Article
+ID 12994478
+A1 Lam,Derek
+A1 Cui,Yingwei
+A1 Cox,Donald,C.
+A1 Widom,Jennifer
+T1 Numbering in Personal Communications Services
+
+RT Journal Article
+ID 12577817
+A1 Widom,Jennifer
+A1 Garcia-Molina,Hector
+T1 I certify that I have read this dissertation and that, in my opinion, it is fully adequate in scope and quality as a dissertation for the degree of Doctor of Philosophy
+
+RT Journal Article
+ID 13029600
+A1 Xie,Jun,Yang
+A1 Chen,Yuguo
+A1 Widom,Jennifer
+T1 Research Interes ts: Database and information management s ystems Recent Publicati ons 1. J unyi
+
+RT Journal Article
+ID 175338
+A1 Yang,Jun
+A1 Widom,Jennifer
+T1 Implementing Parameterized Range Types in an Extensible DBMS
+
+RT Journal Article
+ID 12799976
+A1 Widom,Jennifer
+T1 My research interests are broadly in the area of information management. They include data cleaning, query processing and optimization, and web in- formation management. EDUCATION

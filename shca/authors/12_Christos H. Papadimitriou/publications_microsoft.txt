@@ -1,0 +1,5284 @@
+RT Journal Article
+ID 58572253
+A1 Papadimitriou,Christos
+A1 Adleman,Leonard
+A1 Karp,Richard,M.
+A1 Knuth,Donald,E.
+A1 Tarjan,Robert
+A1 Valiant,Leslie,G.
+YR 2012
+T1 An Algorithmic View of the Universe
+SP 1
+
+RT Journal Article
+ID 39329496
+A1 Ito,Takehiro
+A1 Demaine,Erik,D.
+A1 Harvey,Nicholas,J.,A.
+A1 Papadimitriou,Christos,H.
+A1 Sideri,Martha
+A1 Uehara,Ryuhei
+A1 Uno,Yushi
+YR 2011
+T1 On the complexity of reconfiguration problems
+JF Theoretical Computer Science
+VO 412
+SP 1054
+OP 1065
+IS 12-14
+
+RT Conference Proceedings
+ID 39278948
+A1 Daskalakis,Constantinos
+A1 Papadimitriou,Christos,H.
+YR 2011
+T1 Continuous Local Search
+SP 790
+OP 804
+
+RT Journal Article
+ID 49469923
+A1 Fountzilas,G.
+A1 Bobos,M.
+A1 Papadimitriou,C.
+A1 Gogas,H.
+A1 Linardou,H.
+A1 Kalogeras,K.,T.
+A1 Pectasides,D.
+A1 Skarlos,P.
+A1 Koutras,A.
+A1 Dafni,U.
+YR 2011
+T1 5178 POSTER Response of Immunohistochemically (IHC) Defined Breast Cancer Sub-types to Dose-dense Sequential Adjuvant Chemotherapy. Pooled Analysis of Two Randomized Hellenic Cooperative Oncology Group (HeCOG) Phase III Trials
+JF European Journal of Cancer
+VO 47
+
+RT Journal Article
+ID 49478360
+A1 Zagouri,F.
+A1 Sergentanis,T.
+A1 Nonni,A.
+A1 Chrysikos,D.
+A1 Bletsa,G.
+A1 Flessas,I.
+A1 Lymperi,M.
+A1 Papadimitriou,C.
+A1 Dimopoulos,A.-M.
+A1 Zografos,G.
+YR 2011
+T1 P115 Decreased Hsp90 expression in the continuum of breast lobular lesions
+JF Breast
+VO 20
+
+RT Journal Article
+ID 49478398
+A1 Dimitrakakis,C.
+A1 Tsigginou,A.
+A1 Zagouri,F.
+A1 Sergentanis,T.
+A1 Marinopoulos,S.
+A1 Papadimitriou,C.
+A1 Dimopoulos,A.-M.
+A1 Zografos,G.
+A1 Antsaklis,A.
+YR 2011
+T1 P154 Diagnosis of breast cancer during pregnancy: A five year experience
+JF Breast
+VO 20
+
+RT Journal Article
+ID 49101067
+A1 Livnat,Adi
+A1 Papadimitriou,Christos
+A1 Feldman,Marcus,W.
+YR 2011
+T1 An analytical contrast between fitness maximization and selection for mixability
+JF Journal of Theoretical Biology
+VO 273
+SP 232
+OP 234
+IS 1
+
+RT Journal Article
+ID 56908862
+A1 Papadimitriou,Christos,H.
+A1 Pierrakos,George
+YR 2011
+T1 On optimal single-item auctions
+SP 119
+OP 128
+
+RT Journal Article
+ID 56906252
+A1 Dobzinski,Shahar
+A1 Papadimitriou,Christos,H.
+A1 Singer,Yaron
+YR 2011
+T1 Mechanisms for complement-free procurement
+SP 273
+OP 282
+
+RT Conference Proceedings
+ID 39248612
+A1 Papadimitriou,Christos,H.
+YR 2011
+T1 Games, algorithms, and the Internet
+SP 5
+OP 6
+
+RT Journal Article
+ID 56937319
+A1 Goldberg,Paul,W.
+A1 Papadimitriou,Christos,H.
+A1 Savani,Rahul
+YR 2011
+T1 The Complexity of the Homotopy Method, Equilibrium Selection, and Lemke-Howson Solutions
+SP 67
+OP 76
+
+RT Journal Article
+ID 39313802
+A1 Daskalakis,Constantinos
+A1 Papadimitriou,Christos,H.
+YR 2011
+T1 On Oblivious PTAS's for Nash Equilibrium
+JF Computing Research Repository
+VO abs/1102.2
+
+RT Journal Article
+ID 56906241
+A1 Papadimitriou,Christos,H.
+A1 Wilkens,Christopher,A.
+YR 2011
+T1 Economies with non-convex production and complexity equilibria
+SP 137
+OP 146
+
+RT Conference Proceedings
+ID 6650849
+A1 Buchfuhrer,Dave
+A1 Dughmi,Shaddin
+A1 Fu,Hu
+A1 Kleinberg,Robert
+A1 Mossel,Elchanan
+A1 Papadimitriou,Christos,H.
+A1 Schapira,Michael
+A1 Singer,Yaron
+A1 Umans,Christopher
+YR 2010
+T1 Inapproximability for VCG-Based Combinatorial Auctions
+SP 518
+OP 536
+
+RT Journal Article
+ID 13325310
+A1 Papadimitriou,Christos,H.
+A1 Singer,Yaron
+YR 2010
+T1 Budget Feasible Mechanisms
+JF Computing Research Repository
+VO abs/1002.2
+SP 765
+OP 774
+
+RT Journal Article
+ID 13993607
+A1 Papadimitriou,Christos,H.
+A1 Valiant,Gregory
+YR 2010
+T1 A New Look at Selfish Routing
+SP 178
+OP 187
+
+RT Journal Article
+ID 27510501
+A1 Gaitanaros,S.
+A1 Karaiskos,G.
+A1 Papadimitriou,C.
+A1 Aravas,N.
+YR 2010
+T1 A Bayesian methodology for crack identification in structures using strain measurements
+JF International Journal of Reliability and Safety
+VO 4
+SP 206
+IS 2/3
+
+RT Journal Article
+ID 15189420
+A1 Livnat,Adi
+A1 Papadimitriou,Christos
+A1 Pippenger,Nicholas
+A1 Feldman,M.,W.
+YR 2010
+T1 Sex, mixability, and modularity
+JF Proceedings of The National Academy of Sciences
+VO 107
+SP 1452
+OP 1457
+IS 4
+
+RT Journal Article
+ID 36463244
+A1 Borgs,Christian
+A1 Chayes,Jennifer
+A1 Immorlica,Nicole
+A1 Kalai,Adam,Tauman
+A1 Mirrokni,Vahab
+A1 Papadimitriou,Christos
+YR 2010
+T1 The myth of the Folk Theorem
+JF Games and Economic Behavior
+VO 70
+SP 34
+OP 43
+IS 1
+
+RT Book, Whole
+ID 14005395
+A1 Daskalakis,Constantinos
+A1 Frongillo,Rafael
+A1 Papadimitriou,Christos,H.
+A1 Pierrakos,George
+A1 Valiant,Gregory
+YR 2010
+T1 On Learning Algorithms for Nash Equilibria
+SP 114
+OP 125
+
+RT Book, Whole
+ID 14005414
+A1 Fiat,Amos
+A1 Papadimitriou,Christos,H.
+YR 2010
+T1 When the Players Are Not Expectation Maximizers
+SP 1
+OP 14
+
+RT Journal Article
+ID 13329686
+A1 Goldberg,Paul,W.
+A1 Papadimitriou,Christos,H.
+A1 Savani,Rahul
+YR 2010
+T1 The Complexity of the Homotopy Method, Equilibrium Selection, and Lemke-Howson Solutions
+JF Computing Research Repository
+VO abs/1006.5
+
+RT Journal Article
+ID 27631697
+A1 Papadimitriou,Christos,H.
+A1 Pierrakos,George
+YR 2010
+T1 On Optimal Single-Item Auctions
+JF Computing Research Repository
+VO abs/1011.1
+
+RT Journal Article
+ID 55466473
+A1 Goldberg,Paul,W.
+A1 Papadimitriou,Christos,H.
+A1 Savani,Rahul
+YR 2010
+T1 The Complexity of the Homotopy Method, Equilibrium Selection, and Lemke-Howson Solutions
+
+RT Journal Article
+ID 4755229
+A1 Daskalakis,Constantinos
+A1 Goldberg,Paul,W.
+A1 Papadimitriou,Christos,H.
+YR 2009
+T1 The complexity of computing a Nash equilibrium
+JF Communications of The ACM
+VO 52
+SP 89
+OP 97
+IS 2
+
+RT Journal Article
+ID 6091344
+A1 Koutsoupias,Elias
+A1 Papadimitriou,Christos,H.
+YR 2009
+T1 Worst-case equilibria
+JF Computer Science Review
+VO 3
+SP 65
+OP 69
+IS 2
+
+RT Journal Article
+ID 4769396
+A1 Gopalan,Parikshit
+A1 Kolaitis,Phokion,G.
+A1 Maneva,Elitza,N.
+A1 Papadimitriou,Christos,H.
+YR 2009
+T1 The Connectivity of Boolean Satisfiability: Computational and Structural Dichotomies
+JF Siam Journal on Computing
+VO 38
+SP 2330
+OP 2355
+IS 6
+
+RT Journal Article
+ID 4770550
+A1 Daskalakis,Constantinos
+A1 Mehta,Aranyak
+A1 Papadimitriou,Christos,H.
+YR 2009
+T1 A note on approximate Nash equilibria
+JF Theoretical Computer Science
+VO 410
+SP 1581
+OP 1588
+IS 17
+
+RT Conference Proceedings
+ID 4732164
+A1 Daskalakis,Constantinos
+A1 Papadimitriou,Christos,H.
+YR 2009
+T1 On oblivious PTAS's for nash equilibrium
+SP 75
+OP 84
+
+RT Book, Whole
+ID 5378321
+A1 Daskalakis,Constantinos
+A1 Papadimitriou,Christos,H.
+YR 2009
+T1 On a Network Generalization of the Minmax Theorem
+SP 423
+OP 434
+
+RT Journal Article
+ID 6074687
+A1 Spatharis,Anthony
+A1 Foudalis,Ilias
+A1 Sideri,Martha
+A1 Papadimitriou,Christos,H.
+YR 2009
+T1 Comparing Trade-off Based Models of the Internet
+JF Fundamenta Informaticae
+VO 92
+SP 363
+OP 372
+IS 4
+
+RT Conference Proceedings
+ID 6048533
+A1 Beeri,Catriel
+A1 Kolaitis,Phokion,G.
+A1 Papadimitriou,Christos,H.
+YR 2009
+T1 The ACM PODS Alberto O. Mendelzon test-of-time-award 2009
+SP 43
+OP 43
+
+RT Journal Article
+ID 36463211
+A1 Babaioff,Moshe
+A1 Kleinberg,Robert
+A1 Papadimitriou,Christos,H.
+YR 2009
+T1 Congestion games with malicious players
+JF Games and Economic Behavior
+VO 67
+SP 22
+OP 35
+IS 1
+
+RT Journal Article
+ID 4758486
+A1 Mossel,Elchanan
+A1 Papadimitriou,Christos,H.
+A1 Schapira,Michael
+A1 Singer,Yaron
+YR 2009
+T1 VC v. VCG: Inapproximability of Combinatorial Auctions via Generalizations of the VC Dimension
+JF Computing Research Repository
+VO abs/0905.1
+
+RT Book, Whole
+ID 6052362
+A1 Adler,Ilan
+A1 Daskalakis,Constantinos
+A1 Papadimitriou,Christos,H.
+YR 2009
+T1 A Note on Strictly Competitive Games
+SP 471
+OP 474
+
+RT Conference Proceedings
+ID 50834676
+A1 Torabi,S.,A.
+A1 Pourghaderi,A.,R.
+A1 Sekhavat,S.
+YR 2009
+T1 A two step approach including scatter search algorithm for the integrated procurement, production and distribution planning
+
+RT Conference Proceedings
+ID 50834686
+A1 Pourghaderi,A.,R.
+A1 Torabi,S.,A.
+A1 Sekhavat,S.
+YR 2009
+T1 Scatter search for a real-life fleet size and mix vehicle routing problem with time windows in Iran
+
+RT Journal Article
+ID 55392487
+A1 Papadimitriou,C.
+A1 Kalimeri,M.
+A1 Kopanas,J.
+A1 Antonopoulos,G.
+A1 Peratzakis,A.
+A1 Eftaxias,K.
+YR 2009
+T1 The activation of a single fault as a reduced self-affine image of the whole regional seismicity and a magnified self-affine image of the laboratory seismicity in terms of kHz electromagnetic precursors
+
+RT Book, Whole
+ID 6038413
+A1 Papadimitriou,Christos,H.
+YR 2009
+T1 Algorithmic Game Theory: A Snapshot
+SP 3
+OP 11
+
+RT Journal Article
+ID 52443859
+A1 Eftaxias,K.,A.
+A1 Balasis,G.
+A1 Papadimitriou,C.
+A1 Mandea,M.
+YR 2009
+T1 Universality in solar flares, magnetic storms, earthquakes and pre-seismic electromagnetic emissions by means of nonextensivity
+
+RT Conference Proceedings
+ID 4708057
+A1 Papadimitriou,Christos,H.
+A1 Schapira,Michael
+A1 Singer,Yaron
+YR 2008
+T1 On the Hardness of Being Truthful
+SP 250
+OP 259
+
+RT Conference Proceedings
+ID 4318967
+A1 Fabrikant,Alex
+A1 Papadimitriou,Christos,H.
+YR 2008
+T1 The complexity of game dynamics: BGP oscillations, sink equilibria, and beyond
+SP 844
+OP 853
+
+RT Journal Article
+ID 4394989
+A1 Papadimitriou,Christos,H.
+A1 Roughgarden,Tim
+YR 2008
+T1 Computing correlated equilibria in multi-player games
+JF Journal of The ACM
+VO 55
+SP 1
+OP 29
+IS 3
+
+RT Book, Whole
+ID 39251051
+A1 Dasgupta,Sanjoy
+A1 Papadimitriou,Christos,H.
+A1 Vazirani,Umesh,V.
+YR 2008
+T1 Algorithms
+
+RT Journal Article
+ID 4320352
+A1 Borgs,Christian
+A1 Chayes,Jennifer,T.
+A1 Immorlica,Nicole
+A1 Kalai,Adam,Tauman
+A1 Mirrokni,Vahab,S.
+A1 Papadimitriou,Christos,H.
+A1 Dwork,C.
+A1 Ladner,R.,E.
+YR 2008
+T1 The myth of the folk theorem
+JF Siam Journal on Computing
+SP 365
+OP 372
+
+RT Journal Article
+ID 4394999
+A1 Devanur,Nikhil,R.
+A1 Papadimitriou,Christos,H.
+A1 Saberi,Amin
+A1 Vazirani,Vijay,V.
+YR 2008
+T1 Market equilibrium via a primal--dual algorithm for a convex program
+JF Journal of The ACM
+VO 55
+SP 1
+OP 18
+IS 5
+
+RT Journal Article
+ID 4373601
+A1 Daskalakis,Constantinos
+A1 Papadimitriou,Christos,H.
+YR 2008
+T1 Discretized Multinomial Distributions and Nash Equilibria in Anonymous Games
+JF Computing Research Repository
+VO abs/0808.2
+SP 25
+OP 34
+
+RT Book, Whole
+ID 4289345
+A1 Ito,Takehiro
+A1 Demaine,Erik,D.
+A1 Harvey,Nicholas,J.,A.
+A1 Papadimitriou,Christos,H.
+A1 Sideri,Martha
+A1 Uehara,Ryuhei
+A1 Uno,Yushi
+YR 2008
+T1 On the Complexity of Reconfiguration Problems
+SP 28
+OP 39
+
+RT Conference Proceedings
+ID 4318950
+A1 Lin,Henry
+A1 Amanatidis,Christos
+A1 Sideri,Martha
+A1 Karp,Richard,M.
+A1 Papadimitriou,Christos,H.
+YR 2008
+T1 Linked decompositions of networks and the power of choice in Polya urns
+SP 993
+OP 1002
+
+RT Journal Article
+ID 15183853
+A1 Livnat,Adi
+A1 Papadimitriou,Christos
+A1 Dushoff,Jonathan
+A1 Feldman,Marcus,W.
+YR 2008
+T1 A mixability theory for the role of sex in evolution
+JF Proceedings of The National Academy of Sciences
+VO 105
+SP 19803
+OP 19808
+IS 50
+
+RT Book, Whole
+ID 4345232
+A1 Papadimitriou,Christos,H.
+YR 2008
+T1 The Search for Equilibrium Concepts
+SP 1
+OP 3
+
+RT Conference Proceedings
+ID 50719851
+A1 Pourghaderi,A.,R.
+A1 Tavakkoli-Moghaddam,R.
+A1 Alinaghian,M.
+A1 Beheshti-Pour,B.
+YR 2008
+T1 A simple and effective heuristic for periodic vehicle routing problem
+
+RT Journal Article
+ID 4443060
+A1 Papadimitriou,Christos
+A1 Steiglitz,Kenneth
+YR 2008
+T1 Mathematical Programming
+
+RT Journal Article
+ID 54480308
+A1 Balasis,G.
+A1 Daglis,I.,A.
+A1 Papadimitriou,C.
+A1 Kalimeri,M.
+A1 Anastasiadis,A.
+A1 Eftaxias,K.
+YR 2008
+T1 Dynamical complexity detection in geomagnetic activity indices using wavelet transforms and Tsallis entropy
+
+RT Journal Article
+ID 57443512
+A1 Hall,Alexander
+A1 Nikolova,Evdokia
+A1 Papadimitriou,Christos
+YR 2008
+T1 Incentive-Compatible Interdomain Routing with Linear Utilities
+JF Internet Mathematics
+VO 5
+SP 395
+OP 410
+IS 2008
+
+RT Journal Article
+ID 57723612
+A1 Hall,Alexander
+A1 Nikolova,Evdokia
+A1 Papadimitriou,Christos
+YR 2008
+T1 Incentive-Compatible Interdomain Routing with Linear Utilities
+JF Internet Mathematics
+VO 5
+SP 395
+OP 410
+IS 4
+
+RT Conference Proceedings
+ID 50719857
+A1 Pourghaderi,A.,R.
+A1 Torabi,S.,A.
+A1 Talebi,J.
+YR 2008
+T1 Scatter search for multi-mode resource-constrained project scheduling problems
+
+RT Conference Proceedings
+ID 13299829
+A1 Papadimitriou,Christos,H.
+A1 Zhang,Shuzhong
+YR 2008
+T1 Internet and Network Economics, 4th International Workshop, WINE 2008, Shanghai, China, December 17-20, 2008. Proceedings
+
+RT Book, Whole
+ID 4325320
+A1 Papadimitriou,Christos,H.
+YR 2008
+T1 Some Recent Results in Algorithmic Game Theory
+SP 17
+
+RT Conference Proceedings
+ID 4303300
+A1 Popa,Lucian
+A1 Rostamizadeh,Afshin
+A1 Karp,Richard,M.
+A1 Papadimitriou,Christos,H.
+A1 Stoica,Ion
+YR 2007
+T1 Balancing traffic load in wireless networks with curveball routing
+SP 170
+OP 179
+
+RT Conference Proceedings
+ID 2472504
+A1 Daskalakis,Constantinos
+A1 Mehta,Aranyak
+A1 Papadimitriou,Christos,H.
+YR 2007
+T1 Progress in approximate nash equilibria
+SP 355
+OP 358
+
+RT Journal Article
+ID 4193525
+A1 Daskalakis,Constantinos
+A1 Papadimitriou,Christos,H.
+YR 2007
+T1 Computing Equilibria in Anonymous Games
+JF Computing Research Repository
+VO abs/0710.5
+SP 83
+OP 93
+
+RT Conference Proceedings
+ID 2472502
+A1 Babaioff,Moshe
+A1 Kleinberg,Robert
+A1 Papadimitriou,Christos,H.
+YR 2007
+T1 Congestion games with malicious players
+SP 103
+OP 112
+
+RT Journal Article
+ID 26063972
+A1 Kolen,Antoon,W.,J.
+A1 Lenstra,Jan,Karel
+A1 Papadimitriou,Christos,H.
+A1 Spieksma,Frits,C.,R.
+YR 2007
+T1 Interval scheduling : a survey
+JF Naval Research Logistics
+VO 54
+SP 530
+OP 543
+IS 5
+
+RT Journal Article
+ID 2515871
+A1 Koltun,Vladlen
+A1 Papadimitriou,Christos,H.
+YR 2007
+T1 Approximately dominating representatives
+JF Theoretical Computer Science
+VO 371
+SP 148
+OP 154
+IS 3
+
+RT Journal Article
+ID 4760146
+A1 Borgs,Christian
+A1 Chayes,Jennifer,T.
+A1 Immorlica,Nicole
+A1 Kalai,Adam
+A1 Mirrokni,Vahab,S.
+A1 Papadimitriou,Christos,H.
+YR 2007
+T1 The Myth of the Folk Theorem
+JF Electronic Colloquium on Computational Complexity
+VO 14
+IS 082
+
+RT Book, Whole
+ID 4325390
+A1 Hall,Alexander
+A1 Nikolova,Evdokia
+A1 Papadimitriou,Christos,H.
+YR 2007
+T1 Incentive-Compatible Interdomain Routing with Linear Utilities
+JF Internet Mathematics
+VO 5
+SP 232
+OP 244
+IS 4
+
+RT Journal Article
+ID 5782162
+A1 Spatharis,Anthony
+A1 Foudalis,Ilias
+A1 Gjoka,Minas
+A1 Krouska,Panagiota
+A1 Amanatidis,Christos
+A1 Papadimitriou,Christos
+A1 Sideri,Martha
+YR 2007
+T1 Improved Tradeoff-based Models of the Internet
+VO 1
+IS 4
+
+RT Journal Article
+ID 29084323
+A1 Zafeiriou,S
+A1 Papadimitriou,Ch
+A1 Markaki,S
+A1 Voulgaris,Z
+A1 Vlachos,G
+A1 Rodolakis,A
+A1 Zervoudis,S
+A1 Diakomanolis,E
+A1 Antsaklis,A
+A1 Schindler,A
+YR 2007
+T1 Uterine Sarcomas: Therapeutic Approach, Prognostic and Epidemiologic Factors Evaluation: a Prospective Clinical Study of 36 Cases
+JF Tumordiagnostik & Therapie
+VO 28
+SP 26
+OP 32
+IS 1
+
+RT Journal Article
+ID 27706349
+A1 Aungwerojwit,A.
+A1 Gaensicke,B.,T.
+A1 Rodriguez-Gil,P.
+A1 Hagen,H.-J.
+A1 Giannakis,O.
+A1 Papadimitriou,C.
+A1 Prieto,C.,Allende
+A1 Engels,D.
+YR 2007
+T1 HS1857+5144: A hot and young pre-cataclysmic variable
+
+RT Book, Whole
+ID 4256249
+A1 Papadimitriou,Christos,H.
+YR 2007
+T1 Nash Equilibria: Where We Stand
+SP 1
+
+RT Book, Whole
+ID 4325402
+A1 Papadimitriou,Christos,H.
+YR 2007
+T1 The Computation of Equilibria
+SP 5
+OP 6
+
+RT Journal Article
+ID 50602579
+A1 Daskalakis,Constantinos
+A1 Papadimitriou,Christos
+YR 2007
+T1 Computing Equilibria in Anonymous Games
+SP 83
+OP 93
+
+RT Book, Whole
+ID 39251480
+A1 Papadimitriou,Christos,H.
+YR 2007
+T1 Computational complexity
+
+RT Conference Proceedings
+ID 2473971
+A1 Daskalakis,Constantinos
+A1 Goldberg,Paul,W.
+A1 Papadimitriou,Christos,H.
+YR 2006
+T1 The complexity of computing a Nash equilibrium
+SP 71
+OP 78
+
+RT Journal Article
+ID 3120601
+A1 Feldman,Michal
+A1 Papadimitriou,Christos,H.
+A1 Chuang,John
+A1 Stoica,Ion
+YR 2006
+T1 Free-riding and whitewashing in peer-to-peer systems
+JF IEEE Journal on Selected Areas in Communications
+VO 24
+SP 1010
+OP 1019
+IS 5
+
+RT Conference Proceedings
+ID 2473987
+A1 Goldberg,Paul,W.
+A1 Papadimitriou,Christos,H.
+YR 2006
+T1 Reducibility among equilibrium problems
+SP 61
+OP 70
+
+RT Book, Whole
+ID 2476466
+A1 Daskalakis,Constantinos
+A1 Mehta,Aranyak
+A1 Papadimitriou,Christos,H.
+YR 2006
+T1 A Note on Approximate Nash Equilibria
+SP 297
+OP 306
+
+RT Book, Whole
+ID 2189061
+A1 Gopalan,Parikshit
+A1 Kolaitis,Phokion,G.
+A1 Maneva,Elitza,N.
+A1 Papadimitriou,Christos,H.
+YR 2006
+T1 The Connectivity of Boolean Satisfiability: Computational and Structural Dichotomies
+JF Electronic Colloquium on Computational Complexity
+VO abs/cs/060
+SP 346
+OP 357
+IS 094
+
+RT Book, Whole
+ID 2189066
+A1 Daskalakis,Constantinos
+A1 Fabrikant,Alex
+A1 Papadimitriou,Christos,H.
+YR 2006
+T1 The Game World Is Flat: The Complexity of Nash Equilibria in Succinct Games
+SP 513
+OP 524
+
+RT Journal Article
+ID 2176482
+A1 Mihail,Milena
+A1 Papadimitriou,Christos,H.
+A1 Saberi,Amin
+YR 2006
+T1 On certain connectivity properties of the internet topology
+JF Journal of Computer and System Sciences
+VO 72
+SP 239
+OP 251
+IS 2
+
+RT Journal Article
+ID 3267530
+A1 Kolen,A.,W.,J.
+A1 Lenstra,J.,K.,L.
+A1 Papadimitriou,C.,H.
+A1 Spieksma,F.,C.,R
+YR 2006
+T1 Interval Scheduling: a Survey
+
+RT Conference Proceedings
+ID 2192388
+A1 Daskalakis,Constantinos
+A1 Papadimitriou,Christos,H.
+YR 2006
+T1 Computing pure nash equilibria in graphical games via markov random fields
+SP 91
+OP 99
+
+RT Journal Article
+ID 2489545
+A1 Chen,Zhi-zhong
+A1 Grigni,Michelangelo
+A1 Papadimitriou,Christos,H.
+YR 2006
+T1 Recognizing Hole-Free 4Map Graphs in Cubic Time
+JF Algorithmica
+VO 45
+SP 227
+OP 262
+IS 2
+
+RT Journal Article
+ID 1714043
+A1 Daskalakis,Konstantinos
+A1 Goldberg,Paul,W.
+A1 Papadimitriou,Christos,H.
+YR 2005
+T1 The complexity of computing a Nash equilibrium
+JF Electronic Colloquium on Computational Complexity
+IS 115
+
+RT Journal Article
+ID 1714053
+A1 Daskalakis,Konstantinos
+A1 Papadimitriou,Christos,H.
+YR 2005
+T1 Three-Player Games Are Hard
+JF Electronic Colloquium on Computational Complexity
+IS 139
+
+RT Conference Proceedings
+ID 1241885
+A1 Papadimitriou,Christos,H.
+YR 2005
+T1 Computing correlated equilibria in multi-player games
+SP 49
+OP 56
+
+RT Journal Article
+ID 1713970
+A1 Goldberg,Paul,W.
+A1 Papadimitriou,Christos,H.
+YR 2005
+T1 Reducibility Among Equilibrium Problems
+JF Electronic Colloquium on Computational Complexity
+IS 090
+
+RT Journal Article
+ID 1689995
+A1 Feigenbaum,Joan
+A1 Papadimitriou,Christos,H.
+A1 Sami,Rahul
+A1 Shenker,Scott
+YR 2005
+T1 A BGP-based mechanism for lowest-cost routing
+JF Distributed Computing
+VO 18
+SP 61
+OP 72
+IS 1
+
+RT Conference Proceedings
+ID 1815568
+A1 Papadimitriou,Christos,H.
+A1 Roughgarden,Tim
+YR 2005
+T1 Computing equilibria in multi-player games
+SP 82
+OP 91
+
+RT Journal Article
+ID 1707813
+A1 Papadimitriou,Christos,H.
+A1 Ratajczak,David
+YR 2005
+T1 On a conjecture related to geometric routing
+JF Theoretical Computer Science
+VO 344
+SP 3
+OP 14
+IS 1
+
+RT Book, Whole
+ID 1797088
+A1 Koltun,Vladlen
+A1 Papadimitriou,Christos,H.
+YR 2005
+T1 Approximately Dominating Representatives
+SP 204
+OP 214
+
+RT Conference Proceedings
+ID 1815547
+A1 Papadimitriou,Christos,H.
+A1 Safra,Shmuel
+YR 2005
+T1 The complexity of low-distortion embeddings between point sets
+SP 112
+OP 118
+
+RT Book, Whole
+ID 1771394
+A1 Daskalakis,Konstantinos
+A1 Papadimitriou,Christos,H.
+YR 2005
+T1 The Complexity of Games on Highly Regular Graphs
+SP 71
+OP 82
+
+RT Book, Whole
+ID 1847616
+A1 Hall,Alexander
+A1 Papadimitriou,Christos,H.
+YR 2005
+T1 Approximating the Distortion
+SP 111
+OP 122
+
+RT Book, Whole
+ID 1895607
+A1 Papadimitriou,Christos,H.
+YR 2005
+T1 Algorithmic Problems in Ad Hoc Networks
+SP 1
+
+RT Book, Whole
+ID 1901914
+A1 Papadimitriou,Christos,H.
+YR 2005
+T1 Recent Developments in Equilibria Algorithms
+SP 1
+OP 2
+
+RT Book, Whole
+ID 39252545
+A1 Papadimitriou,Christos,H.
+YR 2005
+T1 Turing - a novel about computation
+
+RT Conference Proceedings
+ID 1242447
+A1 Kouroupas,Georgios
+A1 Koutsoupias,Elias
+A1 Papadimitriou,Christos,H.
+A1 Sideri,Martha
+YR 2005
+T1 An economic model of the worldwide web
+SP 934
+OP 935
+
+RT Book, Whole
+ID 1901843
+A1 Kouroupas,Georgios
+A1 Koutsoupias,Elias
+A1 Papadimitriou,Christos,H.
+A1 Sideri,Martha
+YR 2005
+T1 Experiments with an Economic Model of the Worldwide Web
+SP 46
+OP 54
+
+RT Journal Article
+ID 27692489
+A1 Aungwerojwit,A.
+A1 Gaensicke,B.,T.
+A1 Rodriguez-Gil,P.
+A1 Hagen,H.-J.
+A1 Harlaftis,E.,T.
+A1 Papadimitriou,C.
+A1 Lehto,H.
+A1 Araujo-Betancor,S.
+A1 Heber,U.
+A1 Fried,R.,E.
+A1 Engels,D.
+A1 Katajainen,S.
+YR 2005
+T1 HS0139+0559, HS0229+8016, HS0506+7725 and HS0642+5049: Four new long-period cataclysmic variables
+
+RT Book, Whole
+ID 1849197
+A1 Papadimitriou,Christos,H.
+YR 2005
+T1 Games Other People Play
+SP 5
+
+RT Conference Proceedings
+ID 1780469
+A1 Papadimitriou,Christos,H.
+YR 2005
+T1 ... The Interaction Between Algorithms and Game Theory
+SP 1
+OP 3
+
+RT Conference Proceedings
+ID 919644
+A1 Fabrikant,Alex
+A1 Papadimitriou,Christos,H.
+A1 Talwar,Kunal
+YR 2004
+T1 The complexity of pure Nash equilibria
+SP 604
+OP 612
+
+RT Conference Proceedings
+ID 1238183
+A1 Feldman,Michal
+A1 Papadimitriou,Christos
+A1 Chuang,John
+A1 Stoica,Ion
+YR 2004
+T1 Free-riding and whitewashing in peer-to-peer systems
+SP 228
+OP 236
+
+RT Conference Proceedings
+ID 1319089
+A1 Fabrikant,A.
+A1 Papadimitriou,C.
+A1 Tulwar,K.
+YR 2004
+T1 On the complexity of pure equilibria
+
+RT Journal Article
+ID 788812
+A1 Kleinberg,Jon,M.
+A1 Papadimitriou,Christos,H.
+A1 Raghavan,Prabhakar
+YR 2004
+T1 Segmentation problems
+JF Journal of The ACM
+VO 51
+SP 263
+OP 280
+IS 2
+
+RT Conference Proceedings
+ID 911004
+A1 Chun,Byung-Gon
+A1 Chaudhuri,Kamalika
+A1 Wee,Hoeteck
+A1 Barreno,Marco
+A1 Papadimitriou,Christos,H.
+A1 Kubiatowicz,John
+YR 2004
+T1 Selfish caching in distributed systems: a game-theoretic analysis
+SP 21
+OP 30
+
+RT Book, Whole
+ID 625110
+A1 Elson,Jeremy
+A1 Karp,Richard,M.
+A1 Papadimitriou,Christos,H.
+A1 Shenker,Scott
+YR 2004
+T1 Global Synchronization in Sensornets
+SP 609
+OP 624
+
+RT Book, Whole
+ID 2198073
+A1 Papadimitriouand,Christos,H.
+A1 Ratajczak,David
+YR 2004
+T1 On a Conjecture Related to Geometric Routing
+SP 9
+OP 17
+
+RT Book, Whole
+ID 1793417
+A1 Papadimitriou,Christos,H.
+YR 2004
+T1 Networks and Games
+SP 7
+
+RT Journal Article
+ID 10468241
+A1 PONTIKAKIS,G.
+A1 PAPADIMITRIOU,C.
+A1 STAMATELOS,A.
+YR 2004
+T1 KINETIC PARAMETER ESTIMATION BY STANDARD OPTIMIZATION METHODS IN CATALYTIC CONVERTER MODELING
+JF Chemical Engineering Communications
+VO 191
+SP 1473
+OP 1501
+IS 11
+
+RT Journal Article
+ID 57723568
+A1 Archer,Aaron
+A1 Papadimitriou,Christos
+A1 Talwar,Kunal
+A1 Tardos,Éva
+YR 2004
+T1 An Approximate Truthful Mechanism for Combinatorial Auctions with Single Parameter Agents
+JF Internet Mathematics
+VO 1
+SP 129
+OP 150
+IS 2
+
+RT Journal Article
+ID 55847425
+A1 Papadimitriou,Christos
+A1 Harlaftis,Emilios
+YR 2004
+T1 Doppler Tomography of the Cataclysmic Variables AM Her, EX Dra and V347 Pup
+
+RT Conference Proceedings
+ID 653194
+A1 Rao,Ananth
+A1 Ratnasamy,Sylvia
+A1 Papadimitriou,Christos
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2003
+T1 Geographic routing without location information
+SP 96
+OP 108
+
+RT Journal Article
+ID 35941
+A1 Karp,Richard,M.
+A1 Shenker,Scott
+A1 Papadimitriou,Christos,H.
+YR 2003
+T1 A simple algorithm for finding frequent elements in streams and bags
+JF ACM Transactions on Database Systems
+VO 28
+SP 51
+OP 55
+IS 1
+
+RT Conference Proceedings
+ID 564864
+A1 Fabrikant,Alex
+A1 Luthra,Ankur
+A1 Maneva,Elitza,N.
+A1 Papadimitriou,Christos,H.
+A1 Shenker,Scott
+YR 2003
+T1 On a network creation game
+SP 347
+OP 351
+
+RT Journal Article
+ID 51021
+A1 Archer,Aaron
+A1 Papadimitriou,Christos,H.
+A1 Talwar,Kunal
+A1 Tardos,Éva
+YR 2003
+T1 An approximate truthful mechanism for combinatorial auctions with single parameter agents
+JF Internet Mathematics
+VO 1
+SP 205
+OP 214
+IS 2
+
+RT Conference Proceedings
+ID 514411
+A1 Mihail,Milena
+A1 Papadimitriou,Christos,H.
+A1 Saberi,Amin
+YR 2003
+T1 On Certain Connectivity Properties of the Internet Topology
+SP 28
+OP 35
+
+RT Journal Article
+ID 2135892
+A1 Karp,R.
+A1 Papadimitriou,C.
+A1 Shenker,S.
+YR 2003
+T1 A simple algorithm for nding frequent elements in sets and bags
+JF ACM Transactions on Database Systems
+
+RT Journal Article
+ID 792014
+A1 Kleinberg,Jon,M.
+A1 Papadimitriou,Christos,H.
+A1 Raghavan,Prabhakar
+YR 2003
+T1 Auditing Boolean attributes
+JF Journal of Computer and System Sciences
+VO 66
+SP 244
+OP 253
+IS 1
+
+RT Journal Article
+ID 791039
+A1 Deng,Xiaotie
+A1 Papadimitriou,Christos,H.
+A1 Safra,Shmuel
+YR 2003
+T1 On the complexity of price equilibria
+JF Journal of Computer and System Sciences
+VO 67
+SP 311
+OP 324
+IS 2
+
+RT Conference Proceedings
+ID 3264894
+A1 Mihail,M.
+A1 Papadimitriou,C.
+A1 Saberi,A.
+YR 2003
+T1 Internet is an exapnder
+
+RT Journal Article
+ID 818356
+A1 Gottlob,Georg
+A1 Papadimitriou,Christos,H.
+YR 2003
+T1 On the complexity of single-rule datalog queries
+JF Information and Computation/information and Control
+VO 183
+SP 104
+OP 122
+IS 1
+
+RT Conference Proceedings
+ID 907707
+A1 Papadimitriou,Christos,H.
+YR 2003
+T1 Mythematics: storytelling in the teaching of computer science and mathematics
+SP 1
+
+RT Journal Article
+ID 1245419
+A1 Papadimitriou,Christos,H.
+YR 2003
+T1 MythematiCS: in praise of storytelling in the teaching of computer science and math
+JF ACM Sigcse Bulletin
+VO 35
+SP 7
+OP 9
+IS 4
+
+RT Conference Proceedings
+ID 1235482
+A1 Papadimitriou,Christos,H.
+YR 2003
+T1 The new problems
+SP 10
+OP 10
+
+RT Journal Article
+ID 13032852
+A1 Kleinberg,Jon
+A1 Papadimitriou,Christos
+A1 Raghavan,Prabhakar
+YR 2003
+T1 Auditing Boolean Attributes
+JF Journal of Computer and System Sciences
+VO 66
+IS 1
+
+RT Book, Whole
+ID 461001
+A1 Papadimitriou,Christos,H.
+YR 2003
+T1 Games and Networks
+SP 157
+
+RT Journal Article
+ID 4450057
+A1 Papadimitriou,Christos,H.
+YR 2003
+T1 storytelling in the teaching of computer science and mathematics
+JF ACM Sigcse Bulletin
+
+RT Journal Article
+ID 14412422
+A1 Papadimitriou,Christos,H.
+YR 2003
+T1 Mythematics : storytelling in the teaching of computer science and mathematics
+JF ACM Sigcse Bulletin
+VO 35
+SP 1
+OP 1
+IS 3
+
+RT Conference Proceedings
+ID 56478
+A1 Feigenbaum,Joan
+A1 Papadimitriou,Christos,H.
+A1 Sami,Rahul
+A1 Shenker,Scott
+YR 2002
+T1 A BGP-based mechanism for lowest-cost routing
+SP 173
+OP 182
+
+RT Book, Whole
+ID 1387139
+A1 Fabrikant,Alex
+A1 Koutsoupias,Elias
+A1 Papadimitriou,Christos,H.
+YR 2002
+T1 Heuristically Optimized Trade-Offs: A New Paradigm for Power Laws in the Internet
+SP 110
+OP 122
+
+RT Conference Proceedings
+ID 54371
+A1 Devanur,Nikhil,R.
+A1 Papadimitriou,Christos,H.
+A1 Saberi,Amin
+A1 Vazirani,Vijay,V.
+YR 2002
+T1 Market Equilibrium via a Primal-Dual-Type Algorithm
+SP 389
+OP 395
+
+RT Conference Proceedings
+ID 71829
+A1 Deng,Xiaotie
+A1 Papadimitriou,Christos,H.
+A1 Safra,Shmuel
+YR 2002
+T1 On the complexity of equilibria
+SP 67
+OP 71
+
+RT Conference Proceedings
+ID 637968
+A1 Akella,Aditya
+A1 Seshan,Srinivasan
+A1 Karp,Richard,M.
+A1 Shenker,Scott
+A1 Papadimitriou,Christos,H.
+YR 2002
+T1 Selfish behavior and stability of the internet: a game-theoretic analysis of TCP
+SP 117
+OP 130
+
+RT Journal Article
+ID 757867
+A1 Dantsin,Evgeny
+A1 Goerdt,Andreas
+A1 Hirsch,Edward,A.
+A1 Kannan,Ravi
+A1 Kleinberg,Jon,M.
+A1 Papadimitriou,Christos,H.
+A1 Raghavan,Prabhakar
+A1 Schöning,Uwe
+YR 2002
+T1 A deterministic (2-2/(k+1))n algorithm for k-SAT based on local search
+JF Theoretical Computer Science
+VO 289
+SP 69
+OP 83
+IS 1
+
+RT Book, Whole
+ID 62831
+A1 Mihail,Milena
+A1 Papadimitriou,Christos,H.
+YR 2002
+T1 On the Eigenvalue Power Law
+SP 254
+OP 262
+
+RT Conference Proceedings
+ID 122683
+A1 Fabrikant,Alex
+A1 Koutsoupias,Elias
+A1 Papadimitriou,Christos,H.
+YR 2002
+T1 Heuristically Optimized Trade-offs: A New Paradigm for Power Laws in the Internet (Extended Abstract)
+
+RT Journal Article
+ID 3738129
+A1 Feigenbaum,J.
+A1 Papadimitriou,C.
+A1 Shenker,S.
+YR 2002
+T1 Sharin g the Cost of Multicast Transmission
+
+RT Journal Article
+ID 181618
+A1 Chen,Zhi-Zhong
+A1 Grigni,Michelangelo
+A1 Papadimitriou,Christos,H.
+YR 2002
+T1 Map graphs
+JF Journal of The ACM
+VO 49
+SP 127
+OP 138
+IS 2
+
+RT Journal Article
+ID 787769
+A1 Hellerstein,Joseph,M.
+A1 Koutsoupias,Elias
+A1 Miranker,Daniel,P.
+A1 Papadimitriou,Christos,H.
+A1 Samoladas,Vasilis
+YR 2002
+T1 On a model of indexability and its bounds for range queries
+JF Journal of The ACM
+VO 49
+SP 35
+OP 55
+IS 1
+
+RT Journal Article
+ID 2305105
+A1 Feigenbaum,J.
+A1 Papadimitriou,C.
+A1 Sami,R.
+A1 Shenker,S.
+YR 2002
+T1 Incentive-compatible interdomain routing
+
+RT Book, Whole
+ID 503238
+A1 Papadimitriou,Christos,H.
+YR 2002
+T1 Learning the Internet
+SP 396
+
+RT Journal Article
+ID 14416520
+A1 Akella,Aditya
+A1 Seshan,Srinivasan
+A1 Karp,Richard
+A1 Shenker,Scott
+A1 Papadimitriou,Christos
+YR 2002
+T1 Selfish behavior and stability of the internet:: a game-theoretic analysis of TCP
+JF Computer Communication Review
+VO 32
+SP 117
+OP 130
+IS 4
+
+RT Journal Article
+ID 791798
+A1 Ioannidis,Yannis,E.
+A1 Papadimitriou,Christos,H.
+YR 2002
+T1 Special Issue on PODS 1999 - Guest Editors' Foreword
+JF Journal of Computer and System Sciences
+VO 64
+SP 441
+OP 442
+IS 3
+
+RT Conference Proceedings
+ID 575262
+A1 Papadimitriou,Christos,H.
+YR 2002
+T1 The Joy of Theory
+SP 116
+OP 116
+
+RT Book, Whole
+ID 624926
+A1 Papadimitriou,Christos,H.
+YR 2002
+T1 The Internet, the Web, and Algorithms
+SP 2
+
+RT Book, Whole
+ID 571111
+A1 Papadimitriou,Christos,H.
+YR 2002
+T1 Understanding the Internet
+SP 1
+OP 2
+
+RT Conference Proceedings
+ID 113976
+A1 Papadimitriou,Christos,H.
+YR 2001
+T1 Algorithms, games, and the internet
+SP 749
+OP 753
+
+RT Journal Article
+ID 179753
+A1 Feigenbaum,Joan
+A1 Papadimitriou,Christos,H.
+A1 Shenker,Scott
+YR 2001
+T1 Sharing the Cost of Multicast Transmissions
+JF Journal of Computer and System Sciences
+VO 63
+SP 21
+OP 41
+IS 1
+
+RT Conference Proceedings
+ID 565189
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 2001
+T1 Multiobjective query optimization
+SP 52
+OP 59
+
+RT Conference Proceedings
+ID 7036041
+A1 KLEINBERG,JON
+A1 PAPADIMITRIOU,CHRISTOS,S.
+A1 RAGHAVAN,PRABHAKAR
+YR 2001
+T1 On the Value of Private Information
+
+RT Journal Article
+ID 125932
+A1 Blondel,Vincent,D.
+A1 Bournez,Olivier
+A1 Koiran,Pascal
+A1 Papadimitriou,Christos,H.
+A1 Tsitsiklis,John,N.
+YR 2001
+T1 Deciding stability and mortality of piecewise affine dynamical systems
+JF Theoretical Computer Science
+VO 255
+SP 687
+OP 696
+IS 1-2
+
+RT Conference Proceedings
+ID 1329183
+A1 Papadimitriou,C.
+YR 2001
+T1 Games and the internet
+
+RT Conference Proceedings
+ID 514226
+A1 Papadimitriou,Christos,H.
+YR 2001
+T1 Game Theory and Mathematical Economics: A Theoretical Computer Scientist's Introduction
+SP 4
+OP 8
+
+RT Journal Article
+ID 180992
+A1 Crescenzi,Pierluigi
+A1 Deng,Xiaotie
+A1 Papadimitriou,Christos,H.
+YR 2001
+T1 On Approximating a Scheduling Problem
+JF Journal of Combinatorial Optimization
+VO 5
+SP 287
+OP 297
+IS 3
+
+RT Journal Article
+ID 15273986
+A1 Crescenzi,Pierluigi
+A1 Deng,Xiaotie
+A1 Papadimitriou,Christos,H.
+YR 2001
+T1 On Approximating a Scheduling Problem
+JF Journal of Combinatorial Optimization
+VO 5
+SP 287
+OP 297
+IS 3
+
+RT Journal Article
+ID 4169858
+A1 Blondel,V.,D.
+A1 Bournez,O.
+A1 Koiran,P.
+A1 Papadimitriou,C.,H.
+A1 Tsitsiklis,J.,N.
+YR 2001
+T1 Deciding stability and mortality of piecewise affine systems
+
+RT Journal Article
+ID 3134066
+A1 Papadimitriou,C.,H.
+YR 2001
+T1 Game Theory and Math Economics: A TCS Introduction
+
+RT Conference Proceedings
+ID 572329
+A1 Papadimitriou,Christos,H.
+YR 2001
+T1 Game theory, algorithms, and the Internet
+SP 391
+
+RT Conference Proceedings
+ID 686197
+A1 Papadimitriou,Christos,H.
+YR 2001
+T1 Algorithmic problems related to the Internet
+SP 92
+
+RT Conference Proceedings
+ID 2402463
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 2000
+T1 On the Approximability of Trade-offs and Optimal Access of Web Sources
+SP 86
+OP 92
+
+RT Conference Proceedings
+ID 130447
+A1 Kleinberg,Jon,M.
+A1 Papadimitriou,Christos,H.
+A1 Raghavan,Prabhakar
+YR 2000
+T1 Auditing Boolean attributes
+SP 86
+OP 91
+
+RT Conference Proceedings
+ID 173277
+A1 Karp,Richard,M.
+A1 Koutsoupias,Elias
+A1 Papadimitriou,Christos,H.
+A1 Shenker,Scott
+YR 2000
+T1 Optimization Problems in Congestion Control
+SP 66
+OP 74
+
+RT Journal Article
+ID 810504
+A1 Koutsoupias,Elias
+A1 Papadimitriou,Christos,H.
+YR 2000
+T1 Beyond Competitive Analysis
+JF Siam Journal on Computing
+VO 30
+SP 300
+OP 317
+IS 1
+
+RT Journal Article
+ID 4656095
+A1 Jiang,Feng
+A1 Desper,Richard
+A1 Papadimitriou,Christos,H.
+A1 Schaffer,Alejandro,A.
+A1 Richter,Jan
+A1 Schraml,Peter
+A1 Sauter,Guido
+A1 Mihatsch,Michael,J.
+A1 Moch,Holger
+YR 2000
+T1 Construction of Evolutionary Tree Models for Renal Cell Carcinoma from Comparative Genomic Hybridization Data
+VO 11
+IS 60
+
+RT Journal Article
+ID 736800
+A1 Desper,Richard
+A1 Jiang,Feng
+A1 Kallioniemi,Olli-P.
+A1 Moch,Holger
+A1 Papadimitriou,Christos,H.
+A1 Schäffer,Alejandro,A.
+YR 2000
+T1 Distance-Based Reconstruction of Tree Models for Oncogenesis
+JF Journal of Computational Biology
+VO 7
+SP 789
+OP 803
+IS 6
+
+RT Conference Proceedings
+ID 576663
+A1 Feigenbaum,Joan
+A1 Papadimitriou,Christos,H.
+A1 Shenker,Scott
+YR 2000
+T1 Sharing the cost of muliticast transmissions (preliminary version)
+SP 218
+OP 227
+
+RT Conference Proceedings
+ID 172780
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 2000
+T1 On the Approximability of Trade-offs and Optimal Access of Web Sources (Extended Abstract)
+
+RT Journal Article
+ID 1331046
+A1 Karp,R.
+A1 Koutsoupias,E.
+A1 Papadimitriou,C.
+A1 Shenker,S.
+YR 2000
+T1 Combinatorial optimization in congestion control
+
+RT Journal Article
+ID 811242
+A1 Grigni,Michelangelo
+A1 Mirelli,Vincent
+A1 Papadimitriou,Christos,H.
+YR 2000
+T1 On the Difficulty of Designing Good Classifiers
+JF Siam Journal on Computing
+VO 30
+SP 318
+OP 323
+IS 1
+
+RT Conference Proceedings
+ID 4320260
+A1 Papadimitriou,Christos,H.
+A1 Vempala,Santosh
+YR 2000
+T1 On the approximability of the traveling salesman problem (extended abstract)
+SP 126
+OP 133
+
+RT Conference Proceedings
+ID 473650
+A1 Papadimitriou,Christos,H.
+YR 2000
+T1 On certain rigorous approaches to data mining (invited talk) (abstract only)
+SP 2
+
+RT Book, Whole
+ID 648307
+A1 Papadimitriou,Christos,H.
+YR 2000
+T1 Theoretical Problems Related to the Internet
+SP 1
+OP 2
+
+RT Book, Whole
+ID 176211
+A1 Koutsoupias,Elias
+A1 Papadimitriou,Christos,H.
+YR 1999
+T1 Worst-case Equilibria
+SP 404
+OP 413
+
+RT Journal Article
+ID 15299305
+A1 Papadimitriou,C.,H.
+A1 Tsitsiklis,J.,N.
+YR 1999
+T1 The Complexity of Optimal Queuing Network Control
+JF Mathematics of Operations Research
+VO 24
+SP 293
+OP 305
+IS 2
+
+RT Conference Proceedings
+ID 515126
+A1 Goldman,Deborah
+A1 Istrail,Sorin
+A1 Papadimitriou,Christos,H.
+YR 1999
+T1 Algorithmic Aspects of Protein Structure Similarity
+SP 512
+OP 522
+
+RT Journal Article
+ID 790504
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1999
+T1 On the Complexity of Database Queries
+JF Journal of Computer and System Sciences
+VO 58
+SP 407
+OP 427
+IS 3
+
+RT Journal Article
+ID 736801
+A1 Desper,Richard
+A1 Jiang,Feng
+A1 Kallioniemi,Olli-P.
+A1 Moch,Holger
+A1 Papadimitriou,Christos,H.
+A1 Schäffer,Alejandro,A.
+YR 1999
+T1 Inferring Tree Models for Oncogenesis from Comparative Genome Hybridization Data
+JF Journal of Computational Biology
+VO 6
+SP 37
+OP 52
+IS 1
+
+RT Journal Article
+ID 14501663
+A1 Papadimitriou,CH.
+A1 Suciu,D.
+A1 Vianu,V.
+YR 1999
+T1 Topological Queries in Spatial Databases
+JF Journal of Computer and System Sciences
+VO 58
+SP 29
+OP 53
+IS 1
+
+RT Conference Proceedings
+ID 203631
+A1 Cheung,Gene
+A1 Mccanne,Steven
+A1 Papadimitriou,Christos,H.
+YR 1999
+T1 Software Synthesis of Variable-length Code Decoder Using a Mixture of Programmed Logic and Table Lookups
+SP 121
+OP 130
+
+RT Book, Whole
+ID 557275
+A1 Gottlob,Georg
+A1 Papadimitriou,Christos,H.
+YR 1999
+T1 On the Complexity of Single-Rule Datalog Queries
+SP 201
+OP 222
+
+RT Journal Article
+ID 15212450
+A1 Deng,Xiaotie
+A1 Papadimitriou,Christos
+YR 1999
+T1 Decision-making by hierarchies of discordant agents
+JF Mathematical Programming
+VO 86
+SP 417
+OP 431
+IS 2
+
+RT Conference Proceedings
+ID 3311677
+A1 Papadimitriou,C.,H.
+A1 Raghavan,P.
+A1 Tamaki,H.
+A1 Vempala,S.
+YR 1999
+T1 Latent semantic indexing: A probabilistic analysis
+
+RT Journal Article
+ID 183219
+A1 Papadimitriou,Christos,H.
+A1 Sideri,Martha
+YR 1999
+T1 On the Floyd-Warshall Algorithm for Logic Programs
+JF Journal of Logic Programming
+VO 41
+SP 129
+OP 137
+IS 1
+
+RT Journal Article
+ID 2392964
+A1 Blondel,Vincent,D.
+A1 Bournez,Olivier
+A1 Koiran,Pascal
+A1 Papadimitriou,Christos,H.
+A1 Tsitsiklis,John,N.
+YR 1999
+T1 Deciding stability and mortality of piecewise ane dynamical systems
+
+RT Journal Article
+ID 1712984
+A1 Chen,Zhi-Zhong
+A1 Grigni,Michelangelo
+A1 Papadimitriou,Christos,H.
+YR 1999
+T1 Map Graphs
+JF Computing Research Repository
+VO cs.DM/9910
+
+RT Book, Whole
+ID 524801
+A1 Papadimitriou,Christos,H.
+YR 1999
+T1 Novel Computational Approaches to Information Retrieval and Data Mining (Abstract)
+SP 31
+
+RT Book, Whole
+ID 484632
+A1 Papadimitriou,Christos,H.
+YR 1999
+T1 Topological Queries
+SP 3
+OP 4
+
+RT Journal Article
+ID 16522019
+A1 Deng,Xiaotie
+A1 Papadimitriou,Christos,H.
+YR 1999
+T1 Exploring an unknown graph
+JF Journal of Graph Theory
+VO 32
+SP 265
+OP 297
+IS 3
+
+RT Conference Proceedings
+ID 183643
+A1 Papadimitriou,Christos,H.
+A1 Tamaki,Hisao
+A1 Raghavan,Prabhakar
+A1 Vempala,Santosh
+YR 1998
+T1 Latent semantic indexing: a probabilistic analysis
+SP 159
+OP 168
+
+RT Journal Article
+ID 787475
+A1 Deng,Xiaotie
+A1 Kameda,Tiko
+A1 Papadimitriou,Christos,H.
+YR 1998
+T1 How to learn an unknown environment. I: the rectilinear case
+JF Journal of The ACM
+VO 45
+SP 215
+OP 245
+IS 2
+
+RT Journal Article
+ID 347656
+A1 Crescenzi,Pierluigi
+A1 Goldman,Deborah
+A1 Papadimitriou,Christos,H.
+A1 Piccolboni,Antonio
+A1 Yannakakis,Mihalis
+YR 1998
+T1 On the Complexity of Protein Folding
+JF Journal of Computational Biology
+VO 5
+SP 423
+OP 466
+IS 3
+
+RT Journal Article
+ID 181152
+A1 Kleinberg,Jon,M.
+A1 Papadimitriou,Christos,H.
+A1 Raghavan,Prabhakar
+YR 1998
+T1 A Microeconomic View of Data Mining
+JF Data Mining and Knowledge Discovery
+VO 2
+SP 311
+OP 324
+IS 4
+
+RT Conference Proceedings
+ID 359621
+A1 Kleinberg,Jon,M.
+A1 Papadimitriou,Christos,H.
+A1 Raghavant,Prabhakar
+YR 1998
+T1 Segmentation problems
+SP 473
+OP 482
+
+RT Journal Article
+ID 33123308
+A1 Georgoulias,V
+A1 Kourousis,Ch
+A1 Androulakis,N
+A1 Kakolyris,S
+A1 Dimopoulos,MA
+A1 Papadakis,E
+A1 Bouros,D
+A1 Apostolopoulou,F
+A1 Papadimitriou,Ch
+A1 Agelidou,A
+A1 Tzianni,V
+A1 Apostolaki,F
+A1 Hatzakis,K
+A1 Kalbakis,K
+A1 Kotsakis,A
+A1 Sarra,E
+A1 Vardakis,N
+A1 Vlachonicolis,J
+YR 1998
+T1 Front-line treatment of advanced non-small cell lung cancer with docetaxel and gemcitabine: a multicenter phase II trial
+JF Lung Cancer
+VO 21
+
+RT Conference Proceedings
+ID 575353
+A1 Chen,Zhi-Zhong
+A1 Grigni,Enory
+A1 Papadimitriou,Christos,H.
+YR 1998
+T1 Planar map graphs
+SP 514
+OP 523
+
+RT Journal Article
+ID 325077
+A1 Gogic,Goran
+A1 Papadimitriou,Christos,H.
+A1 Sideri,Martha
+YR 1998
+T1 Incremental Recompilation of Knowledge
+JF Journal of Artificial Intelligence Research
+VO cs.AI/9801
+SP 23
+OP 37
+
+RT Book, Whole
+ID 39254938
+A1 Lewis,Harry,R.
+A1 Papadimitriou,Christos,H.
+YR 1998
+T1 Elements of the theory of computation (2. ed.)
+
+RT Conference Proceedings
+ID 4320213
+A1 Crescenzi,Pierluigi
+A1 Goldman,Deborah
+A1 Papadimitriou,Christos,H.
+A1 Piccolboni,Antonio
+A1 Yannakakis,Mihalis
+YR 1998
+T1 On the complexity of protein folding (extended abstract)
+SP 597
+OP 603
+
+RT Journal Article
+ID 819614
+A1 Abiteboul,Serge
+A1 Papadimitriou,Christos,H.
+A1 Vianu,Victor
+YR 1998
+T1 Reflective Relational Machines
+JF Information and Computation/information and Control
+VO 143
+SP 110
+OP 136
+IS 2
+
+RT Journal Article
+ID 33123345
+A1 Androulakis,N
+A1 Kourousis,Ch
+A1 Kakolyris,S
+A1 Tzannes,S
+A1 Papadakis,E
+A1 Papadimitriou,Ch
+A1 Geroyanni,A
+A1 Georgopoulou,Th
+A1 Dimopoulou,I
+A1 Souklakos,J
+A1 Tzianni,V
+A1 Apostolaki,F
+A1 Kotsakis,A
+A1 Vardakis,N
+A1 Kalikaki,T
+A1 Hatzidaki,D
+A1 Georgoulias,V
+YR 1998
+T1 Salvage treatment with paclitaxel and gemcitabine for patients with non-small cell lung cancer after cisplatin- or docetaxelbased chemotherapy: a multicenter phase II study
+JF Lung Cancer
+VO 21
+
+RT Journal Article
+ID 3721275
+A1 Kleinberg,J.
+A1 Papadimitriou,C.
+A1 Raghavan,P.
+YR 1998
+T1 Segmentation problems: A micro-economic view of data mining
+
+RT Journal Article
+ID 3311681
+A1 Papadimitriou,C.,H.
+A1 Raghvan,P.
+A1 Tamaki,H.
+A1 Vempala,S.
+YR 1998
+T1 Latent semantic analysis: A probabilistic analysis
+
+RT Journal Article
+ID 15276998
+A1 Kleinberg,Jon
+A1 Papadimitriou,Christos
+A1 Raghavan,Prabhakar
+YR 1998
+T1 A Microeconomic View of Data Mining
+JF Data Mining and Knowledge Discovery
+VO 2
+SP 311
+OP 324
+IS 4
+
+RT Conference Proceedings
+ID 4310673
+A1 Crescenzi,Pierluigi
+A1 Goldman,Deborah
+A1 Papadimitriou,Christos,H.
+A1 Piccolboni,Antonio
+A1 Yannakakis,Mihalis
+YR 1998
+T1 On the complexity of protein folding (abstract)
+SP 61
+OP 62
+
+RT Journal Article
+ID 53785325
+A1 Beck,J.,L.
+A1 Chan,E.
+A1 Papadimitriou,C.
+YR 1998
+T1 Statistical Methodology for Optimal Sensor Locations for Damage Detection in Structures
+VO 3243
+SP 349
+
+RT Journal Article
+ID 52326115
+A1 Papadimitriou,C.
+A1 Levine-West,M.
+A1 Milman,M.
+YR 1998
+T1 Application of a Finite Element Model Updating Methodology on the IPEX-II Structure
+VO 3243
+SP 952
+
+RT Conference Proceedings
+ID 648308
+A1 Papadimitriou,Christos,H.
+YR 1998
+T1 Algorithmic Approaches to Information Retrieval and Data Mining (Abstract)
+SP 1
+
+RT Conference Proceedings
+ID 380090
+A1 Hellerstein,Joseph,M.
+A1 Koutsoupiast,Elias
+A1 Papadimitriou,Christos,H.
+YR 1997
+T1 On the analysis of indexing schemes
+SP 249
+OP 256
+
+RT Conference Proceedings
+ID 1321768
+A1 Hellerstein,J.,M.
+A1 Papadimitriou,C.,H.
+A1 Koutsoupias,E.
+YR 1997
+T1 Towards an analysis of indexing schemes
+
+RT Conference Proceedings
+ID 173629
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1997
+T1 On the Complexity of Database Queries
+SP 12
+OP 19
+
+RT Book, Whole
+ID 601777
+A1 Papadimitriou,Christos,H.
+YR 1997
+T1 NP-Completeness: A Retrospective
+SP 2
+OP 6
+
+RT Journal Article
+ID 769673
+A1 Dimopoulos,Yannis
+A1 Magirou,Vangelis
+A1 Papadimitriou,Christos,H.
+YR 1997
+T1 On Kernels, Defaults and Even Graphs
+JF Annals of Mathematics and Artificial Intelligence
+VO 20
+SP 1
+OP 12
+IS 1-4
+
+RT Journal Article
+ID 873401
+A1 Aho,Alfred,V.
+A1 Johnson,David,S.
+A1 Karp,Richard,M.
+A1 Kosaraju,S.,Rao
+A1 McGeoch,Catherine,C.
+A1 Papadimitriou,Christos,H.
+A1 Pevzner,Pavel,A.
+YR 1997
+T1 Emerging opportunities for theoretical computer science
+JF Sigact News
+VO 28
+SP 65
+OP 74
+IS 3
+
+RT Conference Proceedings
+ID 4006310
+A1 Hellerstein,J.,M.
+A1 Koutsoupias,E.
+A1 Papad-imitriou,C.,H.
+YR 1997
+T1 Towards a theory of indexability
+
+RT Book, Whole
+ID 617777
+A1 Deng,Xiaotie
+A1 Papadimitriou,Christos,H.
+YR 1997
+T1 Decision-Making by Hierarchies of Discordant Agents
+SP 183
+OP 192
+
+RT Book, Whole
+ID 579402
+A1 Chen,Zhi-zhong
+A1 Grigni,Michelangelo
+A1 Papadimitriou,Christos,H.
+YR 1997
+T1 Panarity, Revisited (Extended Abstract)
+SP 472
+OP 473
+
+RT Conference Proceedings
+ID 4453098
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1997
+T1 On the complexity of database queries (extended abstract)
+
+RT Journal Article
+ID 790503
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1997
+T1 Tie-Breaking Semantics and Structural Totality
+JF Journal of Computer and System Sciences
+VO 54
+SP 48
+OP 60
+IS 1
+
+RT Conference Proceedings
+ID 448494
+A1 Papadimitriou,Christos,H.
+YR 1997
+T1 Planar Topological Queries
+SP 1
+OP 6
+
+RT Journal Article
+ID 15272057
+A1 Dimopoulos,Yannis
+A1 Magirou,Vangelis
+A1 Papadimitriou,Christos,H.
+YR 1997
+T1 On kernels, defaults and even graphs
+JF Annals of Mathematics and Artificial Intelligence
+VO 20
+SP 1
+OP 12
+IS 1/4
+
+RT Journal Article
+ID 52724725
+A1 Gogic,G.
+A1 Papadimitriou,C.,H.
+A1 Sideri,M.
+YR 1997
+T1 Incremental Recompilation of Knowledge
+
+RT Journal Article
+ID 790501
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1996
+T1 On Limited Nondeterminism and the Complexity of the VC Dimension
+JF Journal of Computer and System Sciences
+VO 53
+SP 161
+OP 170
+IS 2
+
+RT Conference Proceedings
+ID 316112
+A1 Papadimitriou,Christos,H.
+A1 Suciu,Dan
+A1 Vianu,Victor
+YR 1996
+T1 Topological queries in spatial databases
+SP 81
+OP 92
+
+RT Book, Whole
+ID 602143
+A1 Koutsoupias,Elias
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1996
+T1 Searching a Fixed Graph
+SP 280
+OP 289
+
+RT Journal Article
+ID 247191
+A1 Koutsoupias,Elias
+A1 Papadimitriou,Christos,H.
+YR 1996
+T1 The 2Evader Problem
+JF Information Processing Letters
+VO 57
+SP 249
+OP 252
+IS 5
+
+RT Journal Article
+ID 565546
+A1 Abiteboul,Serge
+A1 Kuper,Gabriel,M.
+A1 Papadimitriou,Christos,H.
+A1 Shvartsman,Alexander,A.
+A1 Vardi,Moshe,Y.
+YR 1996
+T1 In Memoriam: Paris C. Kanellakis
+JF ACM Computing Surveys
+VO 28
+SP 79
+OP 15
+IS 1
+
+RT Journal Article
+ID 1910490
+A1 Aho,A.,V.
+A1 Johnson,D.,S.
+A1 Karp,R.,M.
+A1 Kosaraju,S.,R.
+A1 Mcgeoch,C.,C.
+A1 Papadim-itriou,C.,H.
+A1 Pevzner,P.
+YR 1996
+T1 Theory of computing: goals and directions
+
+RT Book, Whole
+ID 308264
+A1 Grigni,Michelangelo
+A1 Mirelli,Vincent
+A1 Papadimitriou,Christos,H.
+YR 1996
+T1 On the Difficulty of Designing Good Classifiers
+SP 273
+OP 279
+
+RT Conference Proceedings
+ID 502859
+A1 Papadimitriou,Christos,H.
+YR 1996
+T1 The Complexity of Knowledge Representation
+SP 244
+OP 248
+
+RT Journal Article
+ID 752334
+A1 Papadimitriou,Christos,H.
+A1 Sideri,Martha
+YR 1996
+T1 The Bisection Width of Grid Graphs
+JF Theory of Computing Systems / Mathematical Systems Theory
+VO 29
+SP 97
+OP 110
+IS 2
+
+RT Journal Article
+ID 2894402
+A1 Amihood,Amir
+A1 Manuel,Blum
+A1 Loui,Michael
+A1 Pa-padimitriou,Christos
+A1 Savage,John
+A1 Smith,Carl
+YR 1996
+T1 CONTRIBUTIONS OF THEORETICAL COMPUTER SCIENCE TO PRACTICE
+JF Sigact News
+
+RT Conference Proceedings
+ID 461179
+A1 Papadimitriou,Christos,H.
+YR 1996
+T1 Computational Aspacts of Organization Theory (Extended Abstract)
+SP 559
+OP 564
+
+RT Journal Article
+ID 873427
+A1 Papadimitriou,Christos,H.
+A1 Goldreich,Oded
+A1 Wigderson,Avi
+A1 Razborov,Alexander,A.
+A1 Sipser,Michael
+YR 1996
+T1 The future of computational complexity theory: part I
+JF Sigact News
+VO 27
+SP 6
+OP 12
+IS 3
+
+RT Journal Article
+ID 860142
+A1 Deng,Xiaotie
+A1 Papadimitriou,Christos,H.
+YR 1996
+T1 Competitive Distributed Decision-Making
+JF Algorithmica
+VO 16
+SP 133
+OP 150
+IS 2
+
+RT Conference Proceedings
+ID 614738
+A1 Grigni,Michelangelo
+A1 Papadias,Dimitris
+A1 Papadimitriou,Christos,H.
+YR 1995
+T1 Topological Inference
+SP 901
+OP 907
+
+RT Journal Article
+ID 247328
+A1 Koutsoupias,Elias
+A1 Papadimitriou,Christos,H.
+YR 1995
+T1 On the k -server conjecture
+JF Journal of The ACM
+VO 42
+SP 971
+OP 983
+IS 5
+
+RT Conference Proceedings
+ID 187132
+A1 Grigni,Michelangelo
+A1 Koutsoupias,Elias
+A1 Papadimitriou,Christos,H.
+YR 1995
+T1 An Approximation Scheme for Planar Graph TSP
+SP 640
+OP 645
+
+RT Conference Proceedings
+ID 337002
+A1 Gogic,Goran
+A1 Kautz,Henry,A.
+A1 Papadimitriou,Christos,H.
+A1 Selman,Bart
+YR 1995
+T1 The Comparative Linguistics of Knowledge Representation
+SP 862
+OP 869
+
+RT Journal Article
+ID 845623
+A1 Papadimitriou,Christos,H.
+A1 Ramanathan,Srinivas
+A1 Rangan,P.,Venkat
+A1 Kumar,Srihari,Sampath
+YR 1995
+T1 Multimedia Information Caching for Personalized Video-on-Demand
+JF Computer Communications
+VO 18
+SP 204
+OP 216
+IS 3
+
+RT Journal Article
+ID 565175
+A1 Papadimitriou,Christos,H.
+YR 1995
+T1 Database metatheory: asking the big queries
+JF Sigact News
+VO 26
+SP 1
+OP 10
+IS 3
+
+RT Journal Article
+ID 758021
+A1 Crescenzi,Pierluigi
+A1 Papadimitriou,Christos,H.
+YR 1995
+T1 Reversible Simulation of Space-Bounded Computations
+JF Theoretical Computer Science
+VO 143
+SP 159
+OP 165
+IS 1
+
+RT Book, Whole
+ID 170665
+A1 Papadimitriou,Christos,H.
+A1 Ramanathan,Srinivas
+A1 Rangan,P.,Venkat
+YR 1995
+T1 Optimal Information Delivery
+SP 181
+OP 187
+
+RT Journal Article
+ID 14431043
+A1 Mislove,Michael
+A1 Nivat,Maurice
+A1 Papadimitriou,Christos
+YR 1995
+T1 Editorial on the Electronic Notes in Theoretical Computer Science
+JF Theoretical Computer Science
+VO 152
+SP 321
+OP 321
+IS 2
+
+RT Journal Article
+ID 14422067
+A1 Papadimitriou,Christos,H.
+YR 1995
+T1 Database metatheory: asking the big queries
+JF Sigact News
+VO 26
+SP 13
+OP 30
+IS 3
+
+RT Book, Whole
+ID 1307370
+A1 Papadimitriou,Christos,H.
+YR 1994
+T1 Computational complexity
+
+RT Journal Article
+ID 25966
+A1 Dahlhaus,Elias
+A1 Johnson,David,S.
+A1 Papadimitriou,Christos,H.
+A1 Seymour,Paul,D.
+A1 Yannakakis,Mihalis
+YR 1994
+T1 The Complexity of Multiterminal Cuts
+JF Siam Journal on Computing
+VO 23
+SP 864
+OP 894
+IS 4
+
+RT Journal Article
+ID 790455
+A1 Papadimitriou,Christos,H.
+YR 1994
+T1 On the Complexity of the Parity Argument and Other Inefficient Proofs of Existence
+JF Journal of Computer and System Sciences
+VO 48
+SP 498
+OP 532
+IS 3
+
+RT Journal Article
+ID 2049812
+A1 Papadimitriou,C.,H.
+YR 1994
+T1 Computational Complexity Addison-Wesley
+
+RT Conference Proceedings
+ID 610098
+A1 Papadimitriou,Christos,H.
+A1 Ramanathan,Srinivas
+A1 Rangan,P.,Venkat
+YR 1994
+T1 Information Caching for Delivery of Personalized Video Programs on Home Entertainment Channels
+SP 214
+OP 223
+
+RT Conference Proceedings
+ID 175576
+A1 Koutsoupias,Elias
+A1 Papadimitriou,Christos,H.
+YR 1994
+T1 Beyond Competitive Analysis
+SP 394
+OP 400
+
+RT Conference Proceedings
+ID 1368965
+A1 Papadimitriou,C.,H.
+A1 Yannakakis,M.
+YR 1994
+T1 On complexity as bounded rationality
+
+RT Journal Article
+ID 2128419
+A1 Deng,Xiaotie
+A1 Papadimitriou,Chris-tos,H.
+YR 1994
+T1 On the Complexity of Cooperative Solution Concepts
+JF Mathematics of Operations Research
+VO 19
+SP 257
+OP 266
+IS 2
+
+RT Journal Article
+ID 1310312
+A1 Dahlhaus,E.
+A1 Johnson,D.,S.
+A1 Papadimitriou,C.,H.
+A1 Seymour,P.,D.
+A1 Yannakakis,M.
+YR 1994
+T1 The complexity of multiway cuts
+
+RT Conference Proceedings
+ID 182049
+A1 Papadimitriou,Christos,H.
+A1 Tsitsiklis,John,N.
+YR 1994
+T1 The Complexity of Optimal Queueing Network Control
+SP 318
+OP 322
+
+RT Conference Proceedings
+ID 575301
+A1 Papadimitrioul,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1994
+T1 On complexity as bounded rationality (extended abstract)
+SP 726
+OP 733
+
+RT Conference Proceedings
+ID 919819
+A1 Koutsoupias,Elias
+A1 Papadimitriou,Christos
+YR 1994
+T1 On the k -server conjecture
+SP 507
+OP 511
+
+RT Conference Proceedings
+ID 341910
+A1 Abiteboul,Serge
+A1 Papadimitriou,Christos,H.
+A1 Vianu,Victor
+YR 1994
+T1 The Power of Reflective Relational Machines
+SP 230
+OP 240
+
+RT Book, Whole
+ID 182745
+A1 Mihail,Milena
+A1 Papadimitriou,Christos,H.
+YR 1994
+T1 On the Random Walk Method for Protocol Testing
+SP 132
+OP 141
+
+RT Conference Proceedings
+ID 82753
+A1 Papadimitriou,Christos,H.
+A1 Raghavan,P.
+A1 Sudan,Madhu
+A1 TAMAKI,HISAO
+YR 1994
+T1 Motion planning on a graph
+
+RT Journal Article
+ID 697188
+A1 Papadimitriou,Christos,H.
+A1 Sideri,Martha
+YR 1994
+T1 Default Theories that Always Have Extensions
+JF Artificial Intelligence
+VO 69
+SP 347
+OP 357
+IS 1-2
+
+RT Conference Proceedings
+ID 490232
+A1 Gogic,Goran
+A1 Papadimitriou,Christos,H.
+A1 Sideri,Martha
+YR 1994
+T1 Incremental Recompilation of Knowledge
+SP 922
+OP 927
+
+RT Journal Article
+ID 859965
+A1 Papadimitriou,Christos,H.
+A1 Rangan,P.,Venkat
+A1 Sideri,Martha
+YR 1994
+T1 Designing Secure Communication Protocols from Trust Specification
+JF Algorithmica
+VO 11
+SP 485
+OP 499
+IS 5
+
+RT Journal Article
+ID 15213172
+A1 Papadimitriou,C.,H.
+A1 Rangan,V.
+A1 Sideri,M.
+YR 1994
+T1 Designing secure communication protocols from trust specifications
+JF Algorithmica
+VO 11
+SP 485
+OP 499
+IS 5
+
+RT Journal Article
+ID 26579806
+A1 PAPADIMITRIOU,C
+A1 LUTES,L
+YR 1994
+T1 Approximate analysis of higher cumulants for multi-degree-of-freedom random vibration
+JF Probabilistic Engineering Mechanics
+VO 9
+SP 71
+OP 82
+IS 1-2
+
+RT Conference Proceedings
+ID 50009297
+A1 Yuang,Rong-Heng
+A1 Shieh,Jia-Lin
+A1 Lin,Ray-Ming
+A1 Hung-Chang-Shieh
+A1 Chyi,Jen-Inn
+YR 1994
+T1 The effects of AlGaAs cap layers on the dc and speed performance of GaAs metal-semiconductor-metal photodetectors
+
+RT Conference Proceedings
+ID 49986256
+A1 Koutsoupias,Elias
+A1 Papadimitriou,Christos,H.
+YR 1994
+T1 Beyond competitive analysis [on-line algorithms]
+
+RT Conference Proceedings
+ID 514615
+A1 Papadimitriou,Christos,H.
+A1 Raghavan,Prabhakar
+A1 Sudan,Madhu
+A1 Tamaki,Hisao
+YR 1994
+T1 Motion Planning on a Graph (Extended Abstract)
+SP 511
+OP 520
+
+RT Journal Article
+ID 15299049
+A1 Papadimitriou,C.,H.
+A1 Yannakakis,M.
+YR 1993
+T1 The Traveling Salesman Problem with Distances One and Two
+JF Mathematics of Operations Research
+VO 18
+SP 1
+OP 11
+IS 1
+
+RT Journal Article
+ID 1342457
+A1 Papadimitriou,C.,H.
+A1 Yannakakis,M.
+YR 1993
+T1 The travelling salesman problem with distances one and two
+JF Mathematics of Operations Research
+
+RT Conference Proceedings
+ID 575300
+A1 Papadimitrioul,Christos,H.
+A1 Yannakakisz,Mihalis
+YR 1993
+T1 Linear programming without the matrix
+SP 121
+OP 129
+
+RT Book, Whole
+ID 149322
+A1 Kavvadias,Dimitris,J.
+A1 Papadimitriou,Christos,H.
+A1 Sideri,Martha
+YR 1993
+T1 On Horn Envelopes and Hypergraph Transversals
+SP 399
+OP 405
+
+RT Conference Proceedings
+ID 12776519
+A1 Papadimitrioul,Christos,H.
+A1 Yannakakisz,Mihalis
+YR 1993
+T1 LINEAR PROGRAMMING WITHOUT THE MATRIX (Extended Abstract )
+
+RT Conference Proceedings
+ID 502871
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1993
+T1 On Limited Nondeterminism and the Complexity of the V.C Dimension (Extended Abstract)
+SP 12
+OP 18
+
+RT Conference Proceedings
+ID 49979591
+A1 Papadimitriou,C.,H.
+A1 Yannakakis,M.
+YR 1993
+T1 On limited nondeterminism and the complexity of the VC dimension
+
+RT Journal Article
+ID 788588
+A1 Afrati,Foto,N.
+A1 Papadimitriou,Christos,H.
+YR 1993
+T1 The parallel complexity of simple logic programs
+JF Journal of The ACM
+VO 40
+SP 891
+OP 916
+IS 4
+
+RT Journal Article
+ID 3490516
+A1 Papadimitriou,C.,H.
+A1 Yan-nakakis,M.
+YR 1993
+T1 On limited nondeterminism and the complexity of the VC dimension
+
+RT Journal Article
+ID 725542
+A1 Papadimitriou,Christos,H.
+A1 Serafini,Paolo
+A1 Yannakakis,Mihalis
+YR 1993
+T1 Computing the Throughput of a Network with Dedicated Lines
+JF Discrete Applied Mathematics
+VO 42
+SP 271
+OP 278
+IS 2
+
+RT Journal Article
+ID 3974003
+A1 Papadimitriou,C.,H.
+A1 Yannakakis,M.
+YR 1993
+T1 The travelling salesman problem with distances 1 and 2
+JF Mathematics of Operations Research
+
+RT Conference Proceedings
+ID 1250404
+A1 Dahlhaus,E.
+A1 Johnson,D.,S.
+A1 Pa-padimitriou,C.,H.
+A1 Seymour,P.,D.
+A1 Yan-nakakis,M.
+YR 1992
+T1 The complexity of multiway cuts
+
+RT Conference Proceedings
+ID 576554
+A1 Dahlhaus,Elias
+A1 Johnson,David,S.
+A1 Papadimitriou,Christos,H.
+A1 Seymour,Paul,D.
+A1 Yannakakis,Mihalis
+YR 1992
+T1 The complexity of multiway cuts (extended abstract)
+SP 241
+OP 251
+
+RT Journal Article
+ID 738816
+A1 Koutsoupias,Elias
+A1 Papadimitriou,Christos,H.
+YR 1992
+T1 On the Greedy Algorithm for Satisfiability
+JF Information Processing Letters
+VO 43
+SP 53
+OP 55
+IS 1
+
+RT Journal Article
+ID 2103495
+A1 Papadimitriou,Christos,H.
+YR 1992
+T1 On platers with a bounded number of states
+JF Games and Economic Behavior
+VO 4
+SP 122
+OP 131
+IS 1
+
+RT Journal Article
+ID 810464
+A1 Papadimitriou,Christos,H.
+YR 1992
+T1 The Complexity of the Lin-Kernighan Heuristic for the Traveling Salesman Problem
+JF Siam Journal on Computing
+VO 21
+SP 450
+OP 465
+IS 3
+
+RT Conference Proceedings
+ID 565191
+A1 Papadimitrioul,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1992
+T1 Tie-breaking semantics and structural totality
+SP 16
+OP 22
+
+RT Book, Whole
+ID 524815
+A1 Papadimitriou,Christos,H.
+A1 Sideri,Martha
+YR 1992
+T1 On Finding Extensions of Default Theories
+SP 276
+OP 281
+
+RT Conference Proceedings
+ID 544893
+A1 Deng,Xiaotie
+A1 Papadimitriou,Christos,H.
+YR 1992
+T1 Competitive Distributed Decision-Making
+SP 350
+OP 356
+
+RT Journal Article
+ID 3869668
+A1 Papadimitriou,C.,H.
+YR 1992
+T1 The complexity of Lin-Kernighan algorithm
+JF Siam Journal on Computing
+
+RT Journal Article
+ID 6078055
+A1 Koutsoupias,Elias
+A1 Papadimitriou,Christos,H.
+A1 Sideri,Martha
+YR 1992
+T1 On the Optimal Bisection of a Polygon
+JF Informs Journal on Computing
+VO 4
+SP 435
+OP 438
+IS 4
+
+RT Journal Article
+ID 790500
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1991
+T1 Optimization, Approximation, and Complexity Classes
+JF Journal of Computer and System Sciences
+VO 43
+SP 425
+OP 440
+IS 3
+
+RT Journal Article
+ID 757119
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1991
+T1 Shortest Paths Without a Map
+JF Theoretical Computer Science
+VO 84
+SP 127
+OP 150
+IS 1
+
+RT Journal Article
+ID 788362
+A1 Mitchell,Joseph,S.,B.
+A1 Papadimitriou,Christos,H.
+YR 1991
+T1 The weighted region problem: finding shortest paths through a weighted planar subdivision
+JF Journal of The ACM
+VO 38
+SP 18
+OP 73
+IS 1
+
+RT Conference Proceedings
+ID 3495522
+A1 Papadimitriou,C.H.
+YR 1991
+T1 On selecting a satisfying truth assignment
+
+RT Conference Proceedings
+ID 514230
+A1 Papadimitriou,Christos,H.
+YR 1991
+T1 On Selecting a Satisfying Truth Assignment (Extended Abstract)
+SP 163
+OP 169
+
+RT Conference Proceedings
+ID 49906403
+A1 Deng,X.
+A1 Kameda,T.
+A1 Papadimitriou,C.
+YR 1991
+T1 How to learn an unknown environment
+
+RT Conference Proceedings
+ID 2055764
+A1 Deng,X.
+A1 Kameda,T.
+A1 Papadimitriou,C.
+YR 1991
+T1 How to learn an unknown environment
+
+RT Journal Article
+ID 758817
+A1 Megiddo,Nimrod
+A1 Papadimitriou,Christos,H.
+YR 1991
+T1 On Total Functions, Existence Theorems and Computational Complexity
+JF Theoretical Computer Science
+VO 81
+SP 317
+OP 324
+IS 2
+
+RT Journal Article
+ID 791000
+A1 Kolaitis,Phokion,G.
+A1 Papadimitriou,Christos,H.
+YR 1991
+T1 Why not Negation by Fixpoint?
+JF Journal of Computer and System Sciences
+VO 43
+SP 125
+OP 144
+IS 1
+
+RT Conference Proceedings
+ID 514897
+A1 Deng,Xiaotie
+A1 Kameda,Tiko
+A1 Papadimitriou,Christos,H.
+YR 1991
+T1 How to Learn an Unknown Environment (Extended Abstract)
+SP 298
+OP 303
+
+RT Conference Proceedings
+ID 564577
+A1 Papadimitrioul,Christos,H.
+A1 Yannakakisz,Mihalis
+YR 1991
+T1 On the value of information in distributed decision-making (extended abstract)
+SP 61
+OP 64
+
+RT Journal Article
+ID 4158066
+A1 Papadimitriou,C.,H.
+A1 Yannakakis,M.
+YR 1991
+T1 On the value of information in distributed decision-making
+
+RT Journal Article
+ID 3025931
+A1 Lewis,R.,H.
+A1 Papadimitriou,C.
+YR 1991
+T1 Elements of Theory of Computation
+
+RT Journal Article
+ID 787215
+A1 Arkin,Esther,M.
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1991
+T1 Modularity of cycles and paths in graphs
+JF Journal of The ACM
+VO 38
+SP 255
+OP 274
+IS 2
+
+RT Conference Proceedings
+ID 564576
+A1 Papadimitriou,Christos,H.
+A1 Sideri,Martha
+YR 1991
+T1 Optimal coteries
+SP 75
+OP 80
+
+RT Book, Whole
+ID 655083
+A1 Papadimitriou,Christos,H.
+A1 Rangan,P.,Venkat
+A1 Sideri,Martha
+YR 1991
+T1 Designing Secure Communication Protocols from Trust Specifications
+SP 360
+OP 368
+
+RT Book, Whole
+ID 469342
+A1 Papadimitriou,Christos,H.
+YR 1991
+T1 Decision-Making with Incomplete Information
+SP 1
+
+RT Journal Article
+ID 15201523
+A1 Deng,Xiaotie
+A1 Papadimitriou,Christos,H.
+YR 1991
+T1 On path lengths modulo three
+JF Journal of Graph Theory
+VO 15
+SP 267
+OP 282
+IS 3
+
+RT Journal Article
+ID 810512
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1990
+T1 Towards an Architecture-Independent Analysis of Parallel Algorithms
+JF Siam Journal on Computing
+VO 19
+SP 322
+OP 328
+IS 2
+
+RT Journal Article
+ID 862342
+A1 Markenscoff,Xanthippi
+A1 Ni,Luqun
+A1 Papadimitriou,Christos,H.
+YR 1990
+T1 The Geometry of Grasping
+JF International Journal of Robotic Research
+VO 9
+SP 61
+OP 74
+IS 1
+
+RT Conference Proceedings
+ID 1338531
+A1 Deng,Xiaotie
+A1 Papadimitriou,C.H.
+YR 1990
+T1 Exploring an unknown graph
+
+RT Conference Proceedings
+ID 3488880
+A1 Papadimitriou,C.H.
+YR 1990
+T1 On graph-theoretic lemmata and complexity classes
+
+RT Conference Proceedings
+ID 919856
+A1 Papadimitriou,C.,H.
+A1 Schäffer,A.,A.
+A1 Yannakakis,Mihalis
+YR 1990
+T1 On the complexity of local search
+SP 438
+OP 445
+
+RT Journal Article
+ID 787410
+A1 Kolaitis,Phokion,G.
+A1 Papadimitriou,Christos,H.
+YR 1990
+T1 Some computational aspects of circumscription
+JF Journal of The ACM
+VO 37
+SP 1
+OP 14
+IS 1
+
+RT Conference Proceedings
+ID 515238
+A1 Buss,Samuel,R.
+A1 Papadimitriou,Christos,H.
+A1 Tsitsiklis,John,N.
+YR 1990
+T1 On the Predictability of Coupled Automata: An Allegory about Chaos
+SP 788
+OP 793
+
+RT Journal Article
+ID 769696
+A1 Kavvadias,Dimitris,J.
+A1 Papadimitriou,Christos,H.
+YR 1990
+T1 A Linear Programming Approach to Reasoning about Probabilities
+JF Annals of Mathematics and Artificial Intelligence
+VO 1
+SP 189
+OP 205
+IS 1-4
+
+RT Journal Article
+ID 741525
+A1 Kollias,John,G.
+A1 Manolopoulos,Yannis
+A1 Papadimitriou,Christos,H.
+YR 1990
+T1 The Optimum Execution Order of Queries in Linear Storage
+JF Information Processing Letters
+VO 36
+SP 141
+OP 145
+IS 3
+
+RT Conference Proceedings
+ID 514229
+A1 Papadimitriou,Christos,H.
+YR 1990
+T1 On Graph-Theoretic Lemmata and Complexity Classes (Extended Abstract)
+SP 794
+OP 801
+
+RT Conference Proceedings
+ID 572343
+A1 Papadimitriou,Christos,H.
+A1 Sideri,Martha
+YR 1990
+T1 The bisection width of grid graphs
+SP 405
+OP 410
+
+RT Conference Proceedings
+ID 515046
+A1 Deng,Xiaotie
+A1 Papadimitriou,Christos,H.
+YR 1990
+T1 Exploring an Unknown Graph (Extended Abstract)
+SP 355
+OP 361
+
+RT Journal Article
+ID 807916
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1990
+T1 On recognizing integer polyhedra
+JF Combinatorica
+VO 10
+SP 107
+OP 109
+IS 1
+
+RT Conference Proceedings
+ID 575645
+A1 Papadimitriou,Christos,H.
+A1 Schäffer,Alejandro,A.
+A1 Yannakakis,Mihalis
+YR 1990
+T1 On the Complexity of Local Search (Extended Abstract)
+SP 438
+OP 445
+
+RT Conference Proceedings
+ID 4507612
+A1 Buss,Sam
+A1 Papadimitriou,Christos,H.
+A1 Tsitsiklis,John,N.
+YR 1990
+T1 On the Predictability of Coupled Automata: An Allegory About Chaos
+IS 22-24
+
+RT Conference Proceedings
+ID 4244811
+A1 Koutsoupias,Elias
+A1 Papadimitriou,Christos,H.
+A1 Sideri,Martha
+YR 1990
+T1 On the optimal bisection of a polygon (extended abstract)
+SP 198
+OP 202
+
+RT Book, Whole
+ID 601806
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1989
+T1 Shortest Paths Without a Map
+SP 610
+OP 620
+
+RT Journal Article
+ID 862359
+A1 Markenscoff,Xanthippi
+A1 Papadimitriou,Christos,H.
+YR 1989
+T1 Optimum Grip of a Polygon
+JF International Journal of Robotic Research
+VO 8
+SP 17
+OP 29
+IS 2
+
+RT Journal Article
+ID 1273383
+A1 Hirsch,Michael,D.
+A1 Papadimitriou,Christos,H.
+A1 Vavasis,Stephen,A.
+YR 1989
+T1 Exponential lower bounds for finding Brouwer fix points
+JF Journal of Complexity
+VO 5
+SP 379
+OP 416
+IS 4
+
+RT Journal Article
+ID 791218
+A1 Afrati,Foto,N.
+A1 Papadimitriou,Christos,H.
+A1 Papageorgiou,George
+A1 Roussou,Athena
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+YR 1989
+T1 On the Convergence of Query Evaluation
+JF Journal of Computer and System Sciences
+VO 38
+SP 341
+OP 359
+IS 2
+
+RT Journal Article
+ID 14462642
+A1 Afrati,Foto
+A1 Papadimitriou,Christos,H.
+A1 Papageorgiou,George
+YR 1989
+T1 Corrigendum
+JF Information and Computation/information and Control
+VO 82
+SP 350
+OP 353
+IS 3
+
+RT Journal Article
+ID 735768
+A1 Feinberg,Ellen,B.
+A1 Papadimitriou,Christos,H.
+YR 1989
+T1 Finding Feasible Paths for a Two-Point Body
+JF Journal of Algorithms
+VO 10
+SP 109
+OP 119
+IS 1
+
+RT Journal Article
+ID 819841
+A1 Afrati,Foto,N.
+A1 Papadimitriou,Christos,H.
+A1 Papageorgiou,George
+YR 1989
+T1 Corrigendum: The Complexity of Cubical Graphs
+JF Information and Computation/information and Control
+VO 82
+SP 350
+OP 353
+IS 3
+
+RT Journal Article
+ID 791225
+A1 Johnson,David,S.
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1988
+T1 How Easy is Local Search?
+JF Journal of Computer and System Sciences
+VO 37
+SP 79
+OP 100
+IS 1
+
+RT Journal Article
+ID 742121
+A1 Johnson,David,S.
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1988
+T1 On Generating All Maximal Independent Sets
+JF Information Processing Letters
+VO 27
+SP 119
+OP 123
+IS 3
+
+RT Journal Article
+ID 787891
+A1 Megiddo,Nimrod
+A1 Hakimi,S.,Louis
+A1 Garey,M.,R.
+A1 Johnson,David,S.
+A1 Papadimitriou,Christos,H.
+YR 1988
+T1 The complexity of searching a graph
+JF Journal of The ACM
+VO 35
+SP 18
+OP 44
+IS 1
+
+RT Conference Proceedings
+ID 919885
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1988
+T1 Optimization, approximation, and complexity classes
+SP 229
+OP 234
+
+RT Conference Proceedings
+ID 565372
+A1 Kolaitis,Phokion,G.
+A1 Papadimitriou,Christos,H.
+YR 1988
+T1 Why not negation by fixpoint?
+SP 231
+OP 239
+
+RT Conference Proceedings
+ID 4006767
+A1 Papadimitriou,Christos
+A1 Yannakakis,Mihalis
+YR 1988
+T1 Towards an architecture-independent analysis of parallel algorithms
+SP 510
+OP 513
+
+RT Journal Article
+ID 1249139
+A1 Papadimitriou,C.
+A1 Yannakakis,M.
+YR 1988
+T1 Approximation and complexity classes
+JF Journal of Computer and System Sciences
+
+RT Conference Proceedings
+ID 575647
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1988
+T1 Towards an Architecture-Independent Analysis of Parallel Algorithms (Extended Abstract)
+SP 510
+OP 513
+
+RT Journal Article
+ID 790498
+A1 Papadimitriou,Christos,H.
+A1 Wolfe,David
+YR 1988
+T1 The Complexity of Facets Resolved
+JF Journal of Computer and System Sciences
+VO 37
+SP 2
+OP 13
+IS 1
+
+RT Journal Article
+ID 1746585
+A1 Georgakopoulos,George,F.
+A1 Kavvadias,Dimitris,J.
+A1 Papadimitriou,Christos,H.
+YR 1988
+T1 Probabilistic satisfiability
+JF Journal of Complexity
+VO 4
+SP 1
+OP 11
+IS 1
+
+RT Journal Article
+ID 791168
+A1 Kirousis,Lefteris,M.
+A1 Papadimitriou,Christos,H.
+YR 1988
+T1 The Complexity of Recognizing Polyhedral Scenes
+JF Journal of Computer and System Sciences
+VO 37
+SP 14
+OP 38
+IS 1
+
+RT Conference Proceedings
+ID 575646
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1988
+T1 Optimization, Approximation, and Complexity Classes (Extended Abstract)
+SP 229
+OP 234
+
+RT Journal Article
+ID 1386149
+A1 KNUTH,Donald,E.
+A1 PAPADIMITRIOU,Christos,H.
+A1 TSITSIKLIS,John,N.
+YR 1988
+T1 A note on strategy elimination in bimatrix games
+JF Operations Research Letters
+VO 7
+SP 103
+OP 107
+IS 3
+
+RT Conference Proceedings
+ID 490657
+A1 Kolaitis,Phokion,G.
+A1 Papadimitriou,Christos,H.
+YR 1988
+T1 Some Computational Aspects of Circumscription
+SP 455
+OP 469
+
+RT Journal Article
+ID 2075072
+A1 Johnson,D.,S.
+A1 Papadimitriou,C.,H.
+A1 Yannakakis,M.
+YR 1988
+T1 How easy is local search? Journal of Computer and System Sciences
+
+RT Book, Whole
+ID 498035
+A1 Afrati,Foto,N.
+A1 Papadimitriou,Christos,H.
+A1 Papageorgiou,George
+YR 1988
+T1 Scheduling Dags to Minimize Time and Communication
+SP 134
+OP 138
+
+RT Journal Article
+ID 860302
+A1 Afrati,Foto,N.
+A1 Papadimitriou,Christos,H.
+A1 Papageorgiou,George
+YR 1988
+T1 The Synthesis of Communication Protocols
+JF Algorithmica
+VO 3
+SP 451
+OP 472
+IS 1-4
+
+RT Journal Article
+ID 819880
+A1 Ephremidis,Sophocles
+A1 Papadimitriou,Christos,H.
+A1 Sideri,Martha
+YR 1988
+T1 Complexity Characterizations of Attribute Grammar Languages
+JF Information and Computation/information and Control
+VO 78
+SP 178
+OP 186
+IS 3
+
+RT Journal Article
+ID 1257288
+A1 Papadimitriou,C.,H.
+A1 Tsitsiklis,J.,N.
+YR 1987
+T1 The Complexity of Markov Decision Processes
+JF Mathematics of Operations Research
+VO 12
+SP 441
+OP 450
+IS 3
+
+RT Journal Article
+ID 811289
+A1 Mitchell,Joseph,S.,B.
+A1 Mount,David,M.
+A1 Papadimitriou,Christos,H.
+YR 1987
+T1 The Discrete Geodesic Problem
+JF Siam Journal on Computing
+VO 16
+SP 647
+OP 668
+IS 4
+
+RT Journal Article
+ID 810509
+A1 Papadimitriou,Christos,H.
+A1 Ullman,Jeffrey,D.
+YR 1987
+T1 A Communication-Time Tradeoff
+JF Siam Journal on Computing
+VO 16
+SP 639
+OP 646
+IS 4
+
+RT Conference Proceedings
+ID 652946
+A1 Mitchell,Joseph,S.,B.
+A1 Papadirnitriou,Christos,H.
+YR 1987
+T1 The weighted region problem
+SP 30
+OP 38
+
+RT Journal Article
+ID 735234
+A1 Georgakopoulos,George,K.
+A1 Papadimitriou,Christos,H.
+YR 1987
+T1 The 1-Steiner Tree Problem
+JF Journal of Algorithms
+VO 8
+SP 122
+OP 130
+IS 1
+
+RT Conference Proceedings
+ID 565632
+A1 Afrati,Foto,N.
+A1 Papadimitriou,Christos,H.
+YR 1987
+T1 The parallel complexity of simple chain queries
+SP 210
+OP 213
+
+RT Journal Article
+ID 2018101
+A1 Papadimitriou,C.,H.
+A1 Tsitsiklis,J.,N.
+YR 1987
+T1 The complexity of Markov chain decision processes
+JF Mathematics of Operations Research
+
+RT Journal Article
+ID 859762
+A1 Papadimitriou,Christos,H.
+A1 Silverberg,Ellen,B.
+YR 1987
+T1 Optimal Piecewise Linear Motion of an Object Among Obstacles
+JF Algorithmica
+VO 2
+SP 523
+OP 539
+IS 1-4
+
+RT Journal Article
+ID 810508
+A1 Papadimitriou,Christos,H.
+A1 Tsitsiklis,John,N.
+YR 1987
+T1 On Stochastic Scheduling with In-Tree Precedence Constraints
+JF Siam Journal on Computing
+VO 16
+SP 1
+OP 6
+IS 1
+
+RT Journal Article
+ID 810511
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1987
+T1 The Complexity of Reliable Concurrency Control
+JF Siam Journal on Computing
+VO 16
+SP 538
+OP 553
+IS 3
+
+RT Book, Whole
+ID 694571
+A1 Papadimitriou,Christos,H.
+YR 1986
+T1 The Theory of Database Concurrency Control
+
+RT Journal Article
+ID 759260
+A1 Kirousis,Lefteris,M.
+A1 Papadimitriou,Christos,H.
+YR 1986
+T1 Searching and Pebbling
+JF Theoretical Computer Science
+VO 47
+SP 205
+OP 218
+IS 3
+
+RT Journal Article
+ID 1259989
+A1 Papadimitriou,Christos,H.
+A1 Tsitsiklis,John
+YR 1986
+T1 Intractable Problems in Control Theory
+JF Siam Journal on Control and Optimization
+VO 24
+SP 639
+IS 4
+
+RT Journal Article
+ID 745297
+A1 Afrati,Foto,N.
+A1 Cosmadakis,Stavros,S.
+A1 Papadimitriou,Christos,H.
+A1 Papageorgiou,George
+A1 Papakostantinou,Nadia
+YR 1986
+T1 The Complexity of the Travelling Repairman Problem
+JF Theoretical Informatics and Applications
+VO 20
+SP 79
+OP 87
+IS 1
+
+RT Journal Article
+ID 818178
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1986
+T1 A Note on Succinct Representations of Graphs
+JF Information and Computation/information and Control
+VO 71
+SP 181
+OP 185
+IS 3
+
+RT Conference Proceedings
+ID 565420
+A1 Afrati,Foto,N.
+A1 Papadimitrioul,Christos,H.
+A1 Papageorgioul,George
+A1 Roussou,Athena
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+YR 1986
+T1 Convergence of Sideways Query Evaluation
+SP 24
+OP 30
+
+RT Journal Article
+ID 1318784
+A1 Papadimitriou,C.
+YR 1986
+T1 The theory of concurrency control
+
+RT Book, Whole
+ID 654960
+A1 Papadimitriou,Christos,H.
+YR 1986
+T1 Shortest-Path Motion
+SP 144
+OP 153
+
+RT Journal Article
+ID 787851
+A1 Tsitsiklis,John,N.
+A1 Papadimitriou,Christos,H.
+A1 Humblet,Pierre,A.
+YR 1986
+T1 The performance of a precedence-based queuing discipline
+JF Journal of The ACM
+VO 33
+SP 593
+OP 602
+IS 3
+
+RT Conference Proceedings
+ID 564949
+A1 Afrati,Foto,N.
+A1 Papadimitriou,Christos,H.
+A1 Papageorgiou,George
+YR 1986
+T1 The synthesis of communication protocols
+SP 263
+OP 271
+
+RT Journal Article
+ID 735255
+A1 Arkin,Esther,M.
+A1 Papadimitriou,Christos,H.
+YR 1986
+T1 On the Complexity of Circulations
+JF Journal of Algorithms
+VO 7
+SP 134
+OP 145
+IS 1
+
+RT Journal Article
+ID 791942
+A1 Hadzilacos,Thanasis
+A1 Papadimitriou,Christos,H.
+YR 1986
+T1 Algorithmic Aspects of Multiversion Concurrency Control
+JF Journal of Computer and System Sciences
+VO 33
+SP 297
+OP 310
+IS 2
+
+RT Journal Article
+ID 12895705
+A1 PAPADIMITRIOUr,CHRISTOS,H.
+A1 TSITS,JOHN,N.
+YR 1986
+T1 ON STOCHASTIC SCHEDULING WITH IN-TREE PRECEDENCE CONSTRAINTS
+
+RT Journal Article
+ID 790454
+A1 Papadimitriou,Christos,H.
+YR 1985
+T1 Games Against Nature
+JF Journal of Computer and System Sciences
+VO 31
+SP 288
+OP 301
+IS 2
+
+RT Journal Article
+ID 738713
+A1 Papadimitriou,Christos,H.
+YR 1985
+T1 An Algorithm for Shortest-Path Motion in Three Dimensions
+JF Information Processing Letters
+VO 20
+SP 259
+OP 263
+IS 5
+
+RT Conference Proceedings
+ID 514268
+A1 Papadimitrioll,Christos,H.
+A1 Wolfe,David
+YR 1985
+T1 The Complexity of Facets Resolved
+SP 74
+OP 78
+
+RT Journal Article
+ID 2495402
+A1 Kirousis,Lefteris,M.
+A1 Papadimitriou,Christos,H.
+YR 1985
+T1 Interval graphs and seatching
+JF Discrete Mathematics
+VO 55
+SP 181
+OP 184
+IS 2
+
+RT Journal Article
+ID 47346690
+A1 Makedon,F.,S.
+A1 Papadimitriou,C.,H.
+A1 Sudborough,I.,H.
+YR 1985
+T1 Topological Bandwidth
+JF Siam Journal on Algebraic and Discrete Methods
+VO 6
+SP 418
+IS 3
+
+RT Conference Proceedings
+ID 49834463
+A1 Johnson,David,S.
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1985
+T1 How easy is local search?
+SP 39
+OP 42
+
+RT Journal Article
+ID 2110108
+A1 Johnson,D.,S.
+A1 Papadimitriou,C.,H.
+YR 1985
+T1 Performance guarantees for heuristics
+
+RT Conference Proceedings
+ID 911411
+A1 Afrati,Foto
+A1 Papadimitriou,Christos
+A1 Papageorgiou,George
+A1 Roussou,Athena
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D
+YR 1985
+T1 Convergence of sideways query evaluation
+
+RT Journal Article
+ID 816092
+A1 Papadimitriou,Christos,H.
+YR 1985
+T1 A note the expressive power of Prolog
+JF Bulletin of The European Association for Theoretical Computer Science
+VO 26
+SP 21
+OP 22
+
+RT Conference Proceedings
+ID 565655
+A1 Hadzilacos,Thanasis
+A1 PapadimitriouZ,Christos,H.
+YR 1985
+T1 Algorithmic aspects of multiversion concurrency control
+SP 96
+OP 104
+
+RT Conference Proceedings
+ID 515047
+A1 Kirousis,Lefteris,M.
+A1 Papadimitriou,Christos,H.
+YR 1985
+T1 The Complexity of Recognizing Polyhedral Scenes (Extended Abstract)
+SP 175
+OP 185
+
+RT Conference Proceedings
+ID 565190
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1985
+T1 The complexity of reliable concurrency control
+SP 230
+OP 234
+
+RT Journal Article
+ID 811644
+A1 Kanellakis,Paris,C.
+A1 Papadimitriou,Christos,H.
+YR 1985
+T1 The Complexity of Distributed Concurrency Control
+JF Siam Journal on Computing
+VO 14
+SP 52
+OP 74
+IS 1
+
+RT Conference Proceedings
+ID 49834465
+A1 Kirousis,Lefteris,M.
+A1 Papadimitriou,Christos,H.
+YR 1985
+T1 The complexity of recognizing polyhedral scenes
+SP 175
+OP 185
+
+RT Conference Proceedings
+ID 515104
+A1 Johnson,David,S.
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1985
+T1 How Easy Is Local Search? (Extended Abstract)
+SP 39
+OP 42
+
+RT Journal Article
+ID 2367659
+A1 Johnson,D.,S.
+A1 Papadimitriou,C.,H.
+YR 1985
+T1 Computational complexity and the traveling salesman problem
+
+RT Journal Article
+ID 819840
+A1 Afrati,Foto,N.
+A1 Papadimitriou,Christos,H.
+A1 Papageorgiou,George
+YR 1985
+T1 The Complexity of Cubical Graphs
+JF Information and Computation/information and Control
+VO 66
+SP 53
+OP 60
+IS 1/2
+
+RT Conference Proceedings
+ID 49833956
+A1 Papadimitriou,Christos,H.
+A1 Tsitsiklis,John,N.
+YR 1985
+T1 Intractable problems in control theory
+
+RT Journal Article
+ID 786603
+A1 Papadimitriou,Christos,H.
+YR 1985
+T1 Correction to ``A Theorem in Database Concurrency Control
+JF Journal of The ACM
+VO 32
+SP 750
+IS 3
+
+RT Journal Article
+ID 13051693
+A1 Papadimitriou,Christos
+A1 Reif,John
+A1 Vitanyi,Paul
+YR 1985
+T1 Call for nominations
+JF Science
+VO 15
+SP 109
+OP 958
+IS 1
+
+RT Journal Article
+ID 790620
+A1 Casanova,Marco,A.
+A1 Fagin,Ronald
+A1 Papadimitriou,Christos,H.
+YR 1984
+T1 Inclusion Dependencies and Their Interaction with Functional Dependencies
+JF Journal of Computer and System Sciences
+VO 28
+SP 29
+OP 59
+IS 1
+
+RT Journal Article
+ID 790499
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1984
+T1 The Complexity of Facets (and Some Facets of Complexity)
+JF Journal of Computer and System Sciences
+VO 28
+SP 244
+OP 259
+IS 2
+
+RT Journal Article
+ID 788156
+A1 Cosmadakis,Stavros,S.
+A1 Papadimitriou,Christos,H.
+YR 1984
+T1 Updates of Relational Views
+JF Journal of The ACM
+VO 31
+SP 742
+OP 760
+IS 4
+
+RT Journal Article
+ID 803601
+A1 Papadimitriou,Christos,H.
+A1 Kanellakis,Paris,C.
+YR 1984
+T1 On Concurrency Control by Multiple Versions
+JF ACM Transactions on Database Systems
+VO 9
+SP 89
+OP 99
+IS 1
+
+RT Journal Article
+ID 790497
+A1 Papadimitriou,Christos,H.
+A1 Sipser,Michael
+YR 1984
+T1 Communication Complexity
+JF Journal of Computer and System Sciences
+VO 28
+SP 260
+OP 269
+IS 2
+
+RT Journal Article
+ID 734864
+A1 Papadimitriou,Christos,H.
+A1 Vazirani,Umesh,V.
+YR 1984
+T1 On Two Geometric Problems Related to the Traveling Salesman Problem
+JF Journal of Algorithms
+VO 5
+SP 231
+OP 246
+IS 2
+
+RT Conference Proceedings
+ID 514267
+A1 Papadimitriou,Christos,H.
+A1 Ullman,Jeffrey,D.
+YR 1984
+T1 A Communication-Time Tradeoff
+SP 84
+OP 88
+
+RT Journal Article
+ID 786602
+A1 Papadimitriou,Christos,H.
+YR 1984
+T1 On the complexity of unique solutions
+JF Journal of The ACM
+VO 31
+SP 392
+OP 400
+IS 2
+
+RT Journal Article
+ID 1941560
+A1 Lapaugh,Andrea,S.
+A1 Papadimitriou,Christos,H.
+YR 1984
+T1 The even-path problem for graphs and digraphs
+JF Networks
+VO 14
+SP 507
+OP 513
+IS 4
+
+RT Journal Article
+ID 14539006
+A1 PAPADIMITRIOU,C
+A1 VAZIRANI,U
+YR 1984
+T1 On two geometric problems related to the travelling salesman problem
+JF Journal of Algorithms
+VO 5
+SP 231
+OP 246
+IS 2
+
+RT Journal Article
+ID 811841
+A1 Cosmadakis,Stavros,S.
+A1 Papadimitriou,Christos,H.
+YR 1984
+T1 The Traveling Salesman Problem with Many Visits to Few Cities
+JF Siam Journal on Computing
+VO 13
+SP 99
+OP 108
+IS 1
+
+RT Journal Article
+ID 791382
+A1 Kanellakis,Paris,C.
+A1 Papadimitriou,Christos,H.
+YR 1984
+T1 Is Distributed Locking Harder?
+JF Journal of Computer and System Sciences
+VO 28
+SP 103
+OP 120
+IS 1
+
+RT Journal Article
+ID 4563204
+A1 PAPADIMITRIOU,Christos,H.
+A1 TSITSIKLIS,John
+YR 1984
+T1 A simple criterion for structurally fixed modes
+JF Systems & Control Letters
+VO 4
+SP 333
+OP 337
+IS 6
+
+RT Book, Whole
+ID 602720
+A1 Afrati,Foto,N.
+A1 Papadimitriou,Christos,H.
+A1 Papageorgiou,George
+YR 1984
+T1 The Complexity of Cubical Graphs (Extended Abstract)
+SP 51
+OP 57
+
+RT Conference Proceedings
+ID 49827839
+A1 Papadimitriou,Christos,H.
+YR 1983
+T1 Games against nature
+SP 446
+OP 450
+
+RT Book, Whole
+ID 484311
+A1 Papadimitriou,Christos,H.
+A1 Zachos,Stathis,K.
+YR 1983
+T1 Two remarks on the power of counting
+SP 269
+OP 276
+
+RT Conference Proceedings
+ID 565548
+A1 Cosmadakis,Stavros,S.
+A1 Papadimitriou,Christos,H.
+YR 1983
+T1 Updaies of relational views
+SP 317
+OP 331
+
+RT Book, Whole
+ID 496599
+A1 Makedon,Fillia
+A1 Papadimitriou,Christos,H.
+A1 Sudborough,Ivan,Hal
+YR 1983
+T1 Topological Bandwidth
+SP 317
+OP 331
+
+RT Journal Article
+ID 769162
+A1 Kung,H.,T.
+A1 Papadimitriou,Christos,H.
+YR 1983
+T1 An Optimality Theory of Concurrency Control for Databases
+JF Acta Informatica
+VO 19
+SP 1
+OP 11
+IS 1
+
+RT Journal Article
+ID 810463
+A1 Papadimitriou,Christos,H.
+YR 1983
+T1 Concurrency Control by Locking
+JF Siam Journal on Computing
+VO 12
+SP 215
+OP 226
+IS 2
+
+RT Book, Whole
+ID 484310
+A1 Papadimitriou,Christos,H.
+YR 1983
+T1 Theory of concurrency control
+SP 35
+OP 47
+
+RT Conference Proceedings
+ID 602646
+A1 Yannakakis,Mihalis
+A1 Kanellakis,Paris,C.
+A1 Cosmadakis,Stavros,S.
+A1 Papadimitriou,Christos,H.
+YR 1983
+T1 Cutting and Partitioning a Graph aifter a Fixed Pattern (Extended Abstract)
+SP 712
+OP 722
+
+RT Conference Proceedings
+ID 514228
+A1 Papadimitriou,Christos,H.
+YR 1983
+T1 Games Against Nature (Extended Abstract)
+SP 446
+OP 450
+
+RT Book, Whole
+ID 695192
+A1 Papadimitriou,Christos,H.
+A1 Steiglitz,Kenneth
+YR 1982
+T1 Combinatorial Optimization: Algorithms and Complexity
+
+RT Conference Proceedings
+ID 575298
+A1 Papadimitriou,Christos,H.
+A1 Sipser,Michael
+YR 1982
+T1 Communication complexity
+SP 196
+OP 200
+
+RT Journal Article
+ID 811222
+A1 Itai,Alon
+A1 Papadimitriou,Christos,H.
+A1 Szwarcfiter,Jayme,Luiz
+YR 1982
+T1 Hamilton Paths in Grid Graphs
+JF Siam Journal on Computing
+VO 11
+SP 676
+OP 686
+IS 4
+
+RT Conference Proceedings
+ID 565228
+A1 Casanova,Marco,A.
+A1 Fagin,Ronald
+A1 Papadimitriou,Christos,H.
+YR 1982
+T1 Inclusion dependencies and their interaction with functional dependencies
+SP 171
+OP 176
+
+RT Conference Proceedings
+ID 565188
+A1 Papadimitriou,Christos,H.
+A1 Kanellakis,Paris,C.
+YR 1982
+T1 On concurrency control by multiple versions
+SP 76
+OP 82
+
+RT Conference Proceedings
+ID 575299
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1982
+T1 The complexity of facets (and some facets of complexity)
+SP 255
+OP 260
+
+RT Journal Article
+ID 758411
+A1 Lewis,Harry,R.
+A1 Papadimitriou,Christos,H.
+YR 1982
+T1 Symmetric Space-Bounded Computation
+JF Theoretical Computer Science
+VO 19
+SP 161
+OP 187
+IS 2
+
+RT Journal Article
+ID 791061
+A1 Yannakakis,Mihalis
+A1 Papadimitriou,Christos,H.
+YR 1982
+T1 Algebraic Dependencies
+JF Journal of Computer and System Sciences
+VO 25
+SP 2
+OP 41
+IS 1
+
+RT Conference Proceedings
+ID 514227
+A1 Papadimitriou,Christos,H.
+YR 1982
+T1 On the Complexity of Unique Solutions
+SP 14
+OP 20
+
+RT Journal Article
+ID 786651
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1982
+T1 The complexity of restricted spanning tree problems
+JF Journal of The ACM
+VO 29
+SP 285
+OP 309
+IS 2
+
+RT Journal Article
+ID 818177
+A1 Papadimitriou,Christos,H.
+A1 Tsitsiklis,John,N.
+YR 1982
+T1 On the Complexity of Designing Distributed Protocols
+JF Information and Computation/information and Control
+VO 53
+SP 211
+OP 218
+IS 3
+
+RT Journal Article
+ID 811305
+A1 Karp,Richard,M.
+A1 Papadimitriou,Christos,H.
+YR 1982
+T1 On Linear Characterizations of Combinatorial Optimization Problems
+JF Siam Journal on Computing
+VO 11
+SP 620
+OP 632
+IS 4
+
+RT Conference Proceedings
+ID 565475
+A1 Kanellakis,Paris,C.
+A1 Papadimitriou,Christos,H.
+YR 1982
+T1 Is distributed locking harder?
+SP 98
+OP 107
+
+RT Journal Article
+ID 786601
+A1 Papadimitriou,Christos,H.
+YR 1982
+T1 A theorem in database concurrency control
+JF Journal of The ACM
+VO 29
+SP 998
+OP 1006
+IS 4
+
+RT Journal Article
+ID 3025927
+A1 Lewis,H.,R.
+A1 Papadimitriou,C.,H.
+YR 1982
+T1 Elements of the Therory of Computation
+
+RT Book, Whole
+ID 695212
+A1 Lewis,Harry,R.
+A1 Papadimitriou,Christos,H.
+YR 1981
+T1 Elements of the Theory of Computation
+JF Sigact News
+
+RT Journal Article
+ID 786600
+A1 Papadimitriou,Christos,H.
+YR 1981
+T1 On the complexity of integer programming
+JF Journal of The ACM
+VO 28
+SP 765
+OP 768
+IS 4
+
+RT Journal Article
+ID 740064
+A1 Blum,Manuel
+A1 Karp,Richard,M.
+A1 Vornberger,Oliver
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1981
+T1 The Complexity of Testing Whether a Graph is a Superconcentrator
+JF Information Processing Letters
+VO 13
+SP 164
+OP 167
+IS 4/5
+
+RT Journal Article
+ID 810462
+A1 Papadimitriou,Christos,H.
+YR 1981
+T1 Worst-Case and Probabilistic Analysis of a Geometric Location Problem
+JF Siam Journal on Computing
+VO 10
+SP 542
+OP 557
+IS 3
+
+RT Conference Proceedings
+ID 515251
+A1 Megiddo,Nimrod
+A1 Hakimi,S.,Louis
+A1 Garey,M.,R.
+A1 Johnson,David,S.
+A1 Papadimitriou,Christos,H.
+YR 1981
+T1 The Complexity of Searching a Graph (Preliminary Version)
+SP 376
+OP 385
+
+RT Journal Article
+ID 735224
+A1 Jr.,Witold,Lipski
+A1 Papadimitriou,Christos,H.
+YR 1981
+T1 A Fast Algorithm for Testing for Safety and Detecting Deadlocks in Locked Transaction Systems
+JF Journal of Algorithms
+VO 2
+SP 211
+OP 226
+IS 3
+
+RT Conference Proceedings
+ID 667033
+A1 Papadimitriou,Christos,H.
+YR 1981
+T1 On the power of locking
+SP 148
+OP 154
+
+RT Journal Article
+ID 739953
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1981
+T1 The Clique Problem for Planar Graphs
+JF Information Processing Letters
+VO 13
+SP 131
+OP 133
+IS 4/5
+
+RT Journal Article
+ID 811474
+A1 Itai,Alon
+A1 Lipton,Richard,J.
+A1 Papadimitriou,Christos,H.
+A1 Rodeh,Michael
+YR 1981
+T1 Covering Graphs by Simple Circuits
+JF Siam Journal on Computing
+VO 10
+SP 746
+OP 750
+IS 4
+
+RT Conference Proceedings
+ID 49822325
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1981
+T1 Worst-case ration for planar graphs and the method of induction on faces
+SP 358
+OP 363
+
+RT Conference Proceedings
+ID 49822326
+A1 Megiddo,N.
+A1 Hakimi,S.,L.
+A1 Garey,M.,R.
+A1 Johnson,D.,S.
+A1 Papadimitriou,C.,H.
+YR 1981
+T1 The complexity of searching a graph
+SP 376
+OP 385
+
+RT Conference Proceedings
+ID 514269
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1981
+T1 Worst-Case Ratios for Planar Graphs and the Method of Induction on Faces (Extended Abstract)
+SP 358
+OP 363
+
+RT Journal Article
+ID 2908165
+A1 Itai,A.
+A1 Lipton,R.,J.
+A1 Papadimitriou,C.,H.
+A1 Rodeh,M.
+YR 1981
+T1 Covering graphs with simple circuits
+JF Siam Journal on Computing
+
+RT Journal Article
+ID 738818
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1981
+T1 On Minimal Eulerian Graphs
+JF Information Processing Letters
+VO 12
+SP 203
+OP 205
+IS 4
+
+RT Journal Article
+ID 1300458
+A1 Kanellakis,P.-C.
+A1 Papadimitriou,C.,H.
+YR 1980
+T1 Local Search for the Asymmetric Traveling Salesman Problem
+JF Operations Research
+VO 28
+SP 1086
+OP 1099
+IS 5
+
+RT Journal Article
+ID 2011494
+A1 Garey,M.
+A1 Johnson,D.
+A1 Miller,G.
+A1 Papadimitriou,C.
+YR 1980
+T1 The complexity of coloring circular arc graphs and chords
+JF Siam Journal on Discrete Mathematics
+
+RT Journal Article
+ID 786649
+A1 Papadimitriou,Christos,H.
+A1 Kanellakis,Paris,C.
+YR 1980
+T1 Flowshop scheduling with limited temporary storage
+JF Journal of The ACM
+VO 27
+SP 533
+OP 549
+IS 3
+
+RT Conference Proceedings
+ID 514988
+A1 Karpt,Richard,M.
+A1 Papadimitriou,Christos,H.
+YR 1980
+T1 On Linear Characterizations of Combinatorial Optimization Problems
+SP 1
+OP 9
+
+RT Book, Whole
+ID 601804
+A1 Papadimitriou,Christos,H.
+A1 Bentley,Jon,Louis
+YR 1980
+T1 A Worst-Case Analysis of Nearest Neighbor Searching by Projection
+SP 470
+OP 482
+
+RT Conference Proceedings
+ID 49820240
+A1 Yannakakis,Mihalis
+A1 Papadimitriou,Christos,H.
+YR 1980
+T1 Algebraic dependencies
+SP 328
+OP 332
+
+RT Conference Proceedings
+ID 514923
+A1 Yannakakis,Mihalis
+A1 Papadimitriou,Christos,H.
+YR 1980
+T1 Algebraic Dependencies (Extended Abstract)
+SP 328
+OP 332
+
+RT Book, Whole
+ID 602174
+A1 Lewis,Harry,R.
+A1 Papadimitriou,Christos,H.
+YR 1980
+T1 Symmetric Space-Bounded Computation (Extended Abstract)
+SP 374
+OP 384
+
+RT Journal Article
+ID 856881
+A1 Papadimitriou,Christos,H.
+A1 Bernstein,Philip,A.
+YR 1980
+T1 On the performance of balanced hashing functions when the keys are not equiprobable
+JF ACM Transactions on Programming Languages and Systems
+VO 2
+SP 77
+OP 89
+IS 1
+
+RT Journal Article
+ID 786648
+A1 Papadimitriou,Christos,H.
+YR 1979
+T1 The serializability of concurrent database updates
+JF Journal of The ACM
+VO 26
+SP 631
+OP 653
+IS 4
+
+RT Conference Proceedings
+ID 668009
+A1 Kung,H.,T.
+A1 Papadimitriou,Christos,H.
+YR 1979
+T1 An optimality theory of concurrency control for databases
+SP 116
+OP 126
+
+RT Journal Article
+ID 1342898
+A1 GATES,WILLIAM,H.
+A1 Papadimitriou,Christos
+YR 1979
+T1 Bounds for sorting by prefix reversals
+JF Discrete Mathematics
+VO 27
+SP 47
+OP 57
+IS 1
+
+RT Journal Article
+ID 1295828
+A1 Papadimitriou,C.,H.
+YR 1979
+T1 Serializability of concurrent updates
+JF Journal of The ACM
+
+RT Journal Article
+ID 810510
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1979
+T1 Scheduling Interval-Ordered Tasks
+JF Siam Journal on Computing
+VO 8
+SP 405
+OP 409
+IS 3
+
+RT Conference Proceedings
+ID 1405496
+A1 Yannakakis,Mihalis
+A1 Papadimitriou,Christos,H.
+A1 Kung,H.,T.
+YR 1979
+T1 Locking Policies: Safety and Freedom from Deadlock
+SP 286
+OP 297
+
+RT Journal Article
+ID 1278362
+A1 Kung,H.,T.
+A1 Papadimitriou,C.,H.
+YR 1979
+T1 An optimality theory of database concurrency control
+JF Acta Informatica
+
+RT Journal Article
+ID 738712
+A1 Papadimitriou,Christos,H.
+YR 1979
+T1 Efficient Search for Rationals
+JF Information Processing Letters
+VO 8
+SP 1
+OP 4
+IS 1
+
+RT Journal Article
+ID 786647
+A1 Papadimitriou,Christos,H.
+YR 1979
+T1 Optimality of the Fast Fourier transform
+JF Journal of The ACM
+VO 26
+SP 95
+OP 102
+IS 1
+
+RT Journal Article
+ID 1382043
+A1 Yannakakis,M.
+A1 Papadimitriou,C.,H.
+A1 Kung,H.,T.
+YR 1979
+T1 Locking protocols: safety and freedom from deadlock
+
+RT Book, Whole
+ID 601805
+A1 Papadimitriou,Christos,H.
+A1 Yannakakis,Mihalis
+YR 1979
+T1 The Complexity of Restricted Minimum Spanning Tree Problems (Extended Abstract)
+SP 460
+OP 470
+
+RT Journal Article
+ID 767077
+A1 Bernstein,Philip,A.
+A1 Jr.,James,B.,Rothnie
+A1 Goodman,Nathan
+A1 Papadimitriou,Christos,H.
+YR 1978
+T1 The Concurrency Control Mechanism of SDD1: A System for Distributed Databases (The Fully Redundant Case)
+JF IEEE Transactions on Software Engineering
+VO 4
+SP 154
+OP 168
+IS 3
+
+RT Journal Article
+ID 15199254
+A1 Papadimitriou,C.,H.
+YR 1978
+T1 The complexity of the capacitated tree problem
+JF Networks
+VO 8
+SP 217
+OP 230
+IS 3
+
+RT Journal Article
+ID 1291567
+A1 Papadimitriou,C.,H.
+A1 Steiglitz,K.
+YR 1978
+T1 Some Examples of Difficult Traveling Salesman Problems
+JF Operations Research
+VO 26
+SP 434
+OP 443
+IS 3
+
+RT Journal Article
+ID 46788114
+A1 Lewis,Harry,R.
+A1 Papadimitriou,Christos,H.
+YR 1978
+T1 The Efficiency of Algorithms
+JF Scientific American
+VO 238
+SP 96
+OP 109
+IS 1
+
+RT Conference Proceedings
+ID 2038766
+A1 Papadimitriou,C.,H.
+YR 1978
+T1 The complexity of the capacitated tree problem
+
+RT Journal Article
+ID 3853785
+A1 Papadimitriou,Christos,H.
+YR 1978
+T1 The adjacency relation on the traveling salesman polytope is NP-Complete
+JF Mathematical Programming
+VO 14
+SP 312
+OP 324
+IS 1
+
+RT Journal Article
+ID 1345939
+A1 Papadimitriou,C.,H.
+A1 Bernstein,P.,A.
+A1 Rothnie,J.,R.
+YR 1977
+T1 Some computational problems related to database concurrency control
+
+RT Journal Article
+ID 757027
+A1 Papadimitriou,Christos,H.
+YR 1977
+T1 The Euclidean Traveling Salesman Problem is NP-Complete
+JF Theoretical Computer Science
+VO 4
+SP 237
+OP 244
+IS 3
+
+RT Journal Article
+ID 810507
+A1 Papadimitriou,Christos,H.
+A1 Steiglitz,Kenneth
+YR 1977
+T1 On the Complexity of Local Search for the Traveling Salesman Problem
+JF Siam Journal on Computing
+VO 6
+SP 76
+OP 83
+IS 1
+
+RT Journal Article
+ID 14430355
+A1 Papadimitriou,C
+YR 1977
+T1 The Euclidean travelling salesman problem is NP-complete
+JF Theoretical Computer Science
+VO 4
+SP 237
+OP 244
+IS 3
+
+RT Journal Article
+ID 1260556
+A1 Papadimitriou,C.,H.
+YR 1977
+T1 Euclidean tsp is np- complete
+
+RT Journal Article
+ID 3934389
+A1 Papadimitriou,Christos,H.
+YR 1976
+T1 The NP-Completeness of the bandwidth minimization problem
+JF Computing
+VO 16
+SP 263
+OP 270
+IS 3
+
+RT Journal Article
+ID 786599
+A1 Papadimitriou,Christos,H.
+YR 1976
+T1 On the complexity of edge traversing
+JF Journal of The ACM
+VO 23
+SP 544
+OP 554
+IS 3
+
+RT Conference Proceedings
+ID 575297
+A1 Papadimitriou,Christos,H.
+A1 Steiglitz,Kenneth
+YR 1976
+T1 Some complexity results for the Traveling Salesman Problem
+SP 1
+OP 9
+
+RT Journal Article
+ID 12264352
+A1 Gogic,Goran
+A1 Papadimitriou,Christos,H.
+A1 Sideri,Martha
+YR 1896
+T1 Knowledge
+JF Nature
+VO 55
+SP 173
+OP 173
+IS 1417
+
+RT Book, Whole
+ID 1388413
+A1 Yannakakis,Mihalis
+A1 Kanellakis,Paris
+A1 Cosmadakis,Stavros
+A1 Papadimitriou,Christos
+T1 Cutting and partitioning a graph after a fixed pattern
+
+RT Book, Whole
+ID 2392059
+A1 Papadimitriou,Christos,H.
+T1 Computational aspects of organization theory
+
+RT Journal Article
+ID 10405079
+A1 Papadimitriou,Christos,H.
+A1 Shenker,Scott
+T1 Sharing the Cost of Multicast Transmissions
+
+RT Conference Proceedings
+ID 1325045
+A1 Fabrikant,A.
+A1 Koutsoupias,E.
+A1 Papadimitriou,C.
+T1 Heuristically optimized trade-offs
+
+RT Book, Whole
+ID 48743429
+A1 Papadimitriou,Christos,H.
+T1 Algorithms, Games, and the Internet
+
+RT Journal Article
+ID 4113596
+A1 Fabrikant,A.
+A1 Koutsoupias,E.
+A1 Papadimitriou,C.,H.
+T1 Heuristically optimized trade - o s: a new paradigm for power laws in the internet ICALP 2002
+JF Lecture Notes in Computer Science
+
+RT Journal Article
+ID 10514321
+A1 Rao,Ananth
+A1 Ratnasamy,Sylvia
+A1 Papadimitriou,Christos
+A1 Shenker,Scott
+A1 Stoica,Ion
+T1 Geographic Routing without Location Information
+
+RT Journal Article
+ID 12078991
+A1 Ahuja,Ravindra,K.
+A1 Magnanti,Thomas,L.
+A1 Orlin,James,B.
+A1 Cormen,Thomas,H.
+A1 Leiserson,Charles,E.
+A1 Rivest,R.,L.
+A1 Heun,Volker
+A1 Knuth,Donald,E.
+A1 Papadimitriou,Christos,H.
+A1 Steiglitz,Kenneth
+T1 "The design and analysis of computer algorithms" Addison-Wesley Publishing Company: Reading (MA), 1974
+
+RT Journal Article
+ID 11546545
+A1 Fabrikant,Alex
+A1 Papadimitriou,Christos
+A1 Talwar,Kunal
+T1 The Complexity of Pure Nash Equilibria (Extended Abstract)
+
+RT Journal Article
+ID 6375280
+A1 Mossel,Elchanan
+A1 Papadimitriou,Christos
+A1 Schapira,Michael
+A1 Singer,Yaron
+T1 Combinatorial Auctions: VC v. VCG
+
+RT Journal Article
+ID 10224956
+A1 BYERS,JOHN,W.
+A1 Luby,Michael
+A1 Karp,Richard
+A1 Papadimitriou,Christos
+A1 Hochbaum,Dorit
+T1 Dissertation Title: Maximizing Throughput of Reliable Bulk Network Transmissi ons
+
+RT Journal Article
+ID 10216795
+A1 Dantsina,Evgeny
+A1 Goerdtb,Andreas
+A1 Hirschc,Edward,A.
+A1 Kannand,Ravi
+A1 Kleinberge,Jon
+A1 Papadimitriouf,Christos
+T1 A deterministic (2 − 2=(k + 1))n algorithm for k-SAT based on local search
+
+RT Journal Article
+ID 10603341
+A1 Blondel,Vincent,D.
+A1 Bournez,Olivier
+A1 Koiran,Pascal
+A1 Papadimitriou,Christos,H.
+A1 Tsitsiklisk,John,N.
+T1 Deciding stability and mortality of piecewise ane dynamical systems
+
+RT Journal Article
+ID 10784732
+A1 Livnaty,Adi
+A1 Papadimitriouz,Christos
+A1 Dusho,Jonathan
+A1 Feldman,Marcus,W.
+T1 A mixability theory of the role of sex in evolution
+
+RT Journal Article
+ID 12255395
+A1 Devanur,Nikhil,R.
+A1 Papadimitriou,Christos,H.
+A1 Saberi,Amin
+A1 Vazirani,Vijay,V.
+T1 Background material can be found in the other papers listed below
+
+RT Journal Article
+ID 12904547
+A1 Buss,Sam
+A1 Papadimitriou,Christos,H.
+A1 Tsitsiklis,John
+T1 ON THE PREDICTABILITY OF COUPLED AUTOMATA: AN ALLEGORY ABOUT CHAOS1 (Extended Abstract for 1990 FOCS)
+
+RT Book, Whole
+ID 48800747
+A1 Foudalis,Ilias
+A1 Jain,Kamal
+A1 Papadimitriou,Christos
+A1 Sideri,Martha
+T1 Modeling Social Networks through User Background and Behavior
+
+RT Journal Article
+ID 58574806
+A1 Papadimitriou,Christos,H.
+T1 Alan and I
+JF Communications of The ACM
+SP 42
+OP 43
+
+RT Journal Article
+ID 12748450
+A1 PAPADIMITRIOU,CHRISTOS,H.
+A1 TSITSIKLIS,JOHN
+T1 Distributed Protocols
+
+RT Journal Article
+ID 4503658
+A1 Daskalakis,Konstantinos
+A1 Papadimitriouy,Christos,H.
+T1 The Complexity of Games on Highly Regular Graphs (Extended Abstract)
+
+RT Journal Article
+ID 12335531
+A1 Chen,Zhi-Zhong
+A1 Grigni,Michelangelo
+A1 Papadimitriou,Christos,H.
+T1 Recognizing Hole-Free 4Map Graphs in Cubic Time
+
+RT Journal Article
+ID 10792948
+A1 PAPADIMITRIOUt,CHRISTOS,H.
+A1 TSITS,JOHN
+T1 INTRACTABLE PROBLEIMS IN CONTROL THEORY
+
+RT Book, Whole
+ID 47865970
+A1 Papadimitriou,Christos
+A1 Harlaftis,Emilios
+A1 Steeghs,Danny
+T1 The Structure and the Partial Opacity of the Spiral Shocks on the Novalike Cataclysmic Variables
+
+RT Journal Article
+ID 5935766
+A1 Papadimitriou,Christos
+A1 Valiant,Gregory
+T1 Selfish Routers and the Price of Anarchy
+
+RT Book, Whole
+ID 48425977
+A1 Papadimitriou,Christos
+T1 Algorithmic Approaches to Information Retrieval and Data Mining
+
+RT Book, Whole
+ID 48440578
+A1 Papadimitriou,Christos,H.
+T1 Planar topological queries (extended abstract)

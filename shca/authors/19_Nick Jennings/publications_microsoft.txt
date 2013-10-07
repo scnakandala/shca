@@ -1,0 +1,6281 @@
+RT Journal Article
+ID 61424816
+A1 Cote,Enrique,Munoz,de
+A1 Stranders,Ruben
+A1 Basilico,Nicola
+A1 Gatti,Nicola
+A1 Jennings,Nicholas,R.
+YR 2013
+T1 Introducing Alarms in Adversarial Patrolling Games
+
+RT Journal Article
+ID 61424819
+A1 Stranders,Ruben
+A1 Cote,Enrique,Munoz,de
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+YR 2013
+T1 Near-optimal continuous patrolling with teams of mobile information gathering agents
+VO 195
+SP 63
+OP 105
+
+RT Journal Article
+ID 61424821
+A1 Cote,Enrique,Munoz,de
+A1 Jennings,Nicholas,R.
+YR 2013
+T1 Optimal Planning Against Bayesian Learning Opponents
+
+RT Journal Article
+ID 48870463
+A1 Luo,Xudong
+A1 Miao,Chunyan
+A1 Jennings,Nicholas,R.
+A1 He,Minghua
+A1 Shen,Zhiqi
+A1 Zhang,Minjie
+YR 2012
+T1 KEMNAD: A Knowledge Engineering Methodology for Negotiating Agent Development
+JF Computational Intelligence
+VO 28
+IS 1
+
+RT Journal Article
+ID 7009198
+A1 Stein,Sebastian
+A1 Payne,Terry,R.
+A1 Jennings,Nicholas,R.
+YR 2011
+T1 Robust Execution of Service Workflows Using Redundancy and Advance Reservations
+JF IEEE Transactions on Services Computing
+VO 4
+SP 125
+OP 139
+IS 2
+
+RT Journal Article
+ID 5446563
+A1 Chapman,Archie,C.
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+YR 2011
+T1 Benchmarking hybrid algorithms for distributed constraint optimisation games
+JF Autonomous Agents and Multi-agent Systems
+VO 22
+SP 385
+OP 414
+IS 3
+
+RT Journal Article
+ID 39310403
+A1 Papakonstantinou,Athanasios
+A1 Rogers,Alex
+A1 Gerding,Enrico,H.
+A1 Jennings,Nicholas,R.
+YR 2011
+T1 Mechanism design for the truthful elicitation of costly probabilistic estimates in distributed information systems
+JF Artificial Intelligence
+VO 175
+SP 648
+OP 672
+IS 2
+
+RT Journal Article
+ID 49021163
+A1 Stein,S.
+A1 Gerding,E.,H.
+A1 Rogers,A.,C.
+A1 Larson,K.
+A1 Jennings,N.,R.
+YR 2011
+T1 Algorithms and mechanisms for procuring services with uncertain durations using redundancy
+JF Artificial Intelligence
+VO 175
+SP 2021
+OP 2060
+IS 14
+
+RT Journal Article
+ID 39310412
+A1 Rogers,Alex
+A1 Farinelli,Alessandro
+A1 Stranders,Ruben
+A1 Jennings,Nicholas,R.
+YR 2011
+T1 Bounded approximate decentralised coordination via the max-sum algorithm
+JF Artificial Intelligence
+VO 175
+SP 730
+OP 759
+IS 2
+
+RT Journal Article
+ID 55037509
+A1 Fatima,S.,S.
+A1 Jennings,N.,R.
+A1 Wooldridge,M.,J.
+YR 2011
+T1 Multi-Issue Negotiation with Deadlines
+
+RT Conference Proceedings
+ID 51138874
+A1 Vytelingum,Perukrishnen
+A1 Ramchurn,Sarvapali
+A1 Voice,Thomas
+A1 Rogers,Alex
+A1 Jennings,Nicholas
+YR 2011
+T1 Agent-based modeling of smart-grid market operations
+SP 1
+OP 8
+
+RT Journal Article
+ID 51186260
+A1 Cavalcante,Renato,L.,G.
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+A1 Yamada,Isao
+YR 2011
+T1 Distributed Asymptotic Minimization of Sequences of Convex Functions by a Broadcast Adaptive Subgradient Method
+JF IEEE Journal of Selected Topics in Signal Processing
+VO 5
+SP 739
+OP 753
+IS 4
+
+RT Journal Article
+ID 51862729
+A1 Cavalcante,Renato,L.,G.
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+A1 Yamada,Isao
+YR 2011
+T1 Distributed Asymptotic Minimization of Sequences of Convex Functions by a Broadcast Adaptive Subgradient Method
+JF IEEE Journal of Selected Topics in Signal Processing
+
+RT Journal Article
+ID 27602704
+A1 Voice,Thomas,D.
+A1 Polukarov,Maria
+A1 Jennings,Nicholas,R.
+YR 2011
+T1 Graph Coalition Structure Generation
+JF Computing Research Repository
+VO abs/1102.1
+
+RT Journal Article
+ID 56905539
+A1 Ramchurn,Sarvapali,D.
+A1 Vytelingum,Perukrishnen
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+YR 2011
+T1 Agent-based homeostatic control for green energy in the smart grid
+SP 1
+OP 28
+
+RT Journal Article
+ID 48963316
+A1 Stranders,Ruben
+A1 Cote,Enrique,Munoz,de
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+YR 2011
+T1 Non-Myopic Bounded Approximation for Infinite Horizon Patrolling
+
+RT Journal Article
+ID 39364859
+A1 Williams,Colin,R.
+A1 Robu,Valentin
+A1 Gerding,Enrico
+A1 Jennings,Nicholas,R.
+YR 2011
+T1 Using Gaussian Processes to Optimise Concession in Complex Negotiations against Unknown Opponents
+
+RT Journal Article
+ID 54644622
+A1 Dutta,P.,S.
+A1 Jennings,N.,R.
+A1 Moreau,L.
+YR 2011
+T1 Cooperative Information Sharing to Improve Distributed Learning in Multi-Agent Systems
+
+RT Journal Article
+ID 48963313
+A1 Cote,Enrique,Munoz,de
+A1 Jennings,Nicholas,R.
+YR 2011
+T1 Optimal Planning Against Bayesian Learning Opponents
+
+RT Conference Proceedings
+ID 6981202
+A1 Vytelingum,Perukrishnen
+A1 Voice,Thomas
+A1 Ramchurn,Sarvapali,D.
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 Agent-based micro-storage management for the Smart Grid
+SP 39
+OP 46
+
+RT Conference Proceedings
+ID 6884681
+A1 Vytelingum,Perukrishnen
+A1 Ramchurn,Sarvapali,D.
+A1 Voice,Thomas
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 Trading agents for the smart electricity grid
+SP 897
+OP 904
+
+RT Journal Article
+ID 13335651
+A1 Padhy,Paritosh
+A1 Dash,Rajdeep,K.
+A1 Martinez,Kirk
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 A utility-based adaptive sensing and multihop communication protocol for wireless sensor networks
+JF ACM Transactions on Sensor Networks
+VO 6
+SP 1
+OP 39
+IS 3
+
+RT Conference Proceedings
+ID 13989431
+A1 Ramchurn,Sarvapali,D.
+A1 Polukarov,Maria
+A1 Farinelli,Alessandro
+A1 Truong,Cuong
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 Coalition formation with spatial and temporal constraints
+SP 1181
+OP 1188
+
+RT Book, Whole
+ID 39278036
+A1 Packer,Heather,S.
+A1 Gibbins,Nicholas
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 Forgetting Fragments from Evolving Ontologies
+SP 582
+OP 597
+
+RT Conference Proceedings
+ID 6905664
+A1 Stranders,Ruben
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 A decentralised coordination algorithm for minimising conflict and maximising coverage in sensor networks
+SP 1165
+OP 1172
+
+RT Conference Proceedings
+ID 6907165
+A1 Gerding,Enrico
+A1 Stein,Sebastian
+A1 Larson,Kate
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 Scalable mechanism design for the procurement of services with uncertain durations
+SP 649
+OP 656
+
+RT Conference Proceedings
+ID 13988534
+A1 Vytelingum,Perukrishnen
+A1 Voice,Thomas
+A1 Ramchurn,Sarvapali,D.
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 Intelligent agents for the smart grid
+SP 1649
+OP 1650
+
+RT Journal Article
+ID 15238582
+A1 Vetsikas,Ioannis,A.
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 Bidding strategies for realistic multi-unit sealed-bid auctions
+JF Autonomous Agents and Multi-agent Systems
+VO 21
+SP 265
+OP 291
+IS 2
+
+RT Conference Proceedings
+ID 13759236
+A1 Meir,Reshef
+A1 Polukarov,Maria
+A1 Rosenschein,Jeffrey,S.
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 Convergence to Equilibria in Plurality Voting
+
+RT Journal Article
+ID 39323150
+A1 Chalkiadakis,Georgios
+A1 Elkind,Edith
+A1 Markakis,Evangelos
+A1 Polukarov,Maria
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 Cooperative Games with Overlapping Coalitions
+JF Journal of Artificial Intelligence Research
+VO 39
+SP 179
+OP 216
+
+RT Book, Whole
+ID 39280772
+A1 Aadithya,Karthik,V.
+A1 Ravindran,Balaraman
+A1 Michalak,Tomasz,P.
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 Efficient Computation of the Shapley Value for Centrality in Networks
+SP 1
+OP 13
+
+RT Conference Proceedings
+ID 13987747
+A1 Michalak,Tomasz,P.
+A1 Sroka,Jacek
+A1 Rahwan,Talal
+A1 Wooldridge,Michael
+A1 McBurney,Peter
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 A distributed algorithm for anytime coalition structure generation
+SP 1007
+OP 1014
+
+RT Conference Proceedings
+ID 13989819
+A1 Michalak,Tomasz,P.
+A1 Marciniak,Dorota
+A1 Szamotulski,Marcin
+A1 Rahwan,Talal
+A1 Wooldridge,Michael
+A1 McBurney,Peter
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 A logic-based representation for coalitional games with externalities
+SP 125
+OP 132
+
+RT Conference Proceedings
+ID 13989089
+A1 Robu,Valentin
+A1 Vetsikas,Ioannis,A.
+A1 Gerding,Enrico,H.
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 Flexibly priced options: a new mechanism for sequential auction markets with complementary goods
+SP 1485
+OP 1486
+
+RT Conference Proceedings
+ID 13989437
+A1 Cavalcante,Renato,L.,G.
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+A1 Yamada,Isao
+YR 2010
+T1 Distributed multiagent learning with a broadcast adaptive subgradient method
+SP 1039
+OP 1046
+
+RT Journal Article
+ID 14605954
+A1 Kho,Johnsen
+A1 Long,Tran-Thanh
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 An Agent-Based Distributed Coordination Mechanism for Wireless Visual Sensor Nodes Using Dynamic Programming
+JF The Computer Journal
+VO 53
+SP 1277
+OP 1290
+IS 8
+
+RT Journal Article
+ID 14514898
+A1 Rabinovich,Zinovi
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 A hybrid controller based on the egocentric perceptual principle
+JF Robotics and Autonomous Systems
+VO 58
+SP 1039
+OP 1048
+IS 9
+
+RT Journal Article
+ID 14606024
+A1 Jennings,Nicholas,R.
+A1 Rogers,Alex
+A1 Case,S.
+A1 Johnston,R.
+A1 Philpot,D.
+YR 2010
+T1 Decentralized Data and Information Systems: Theory and Practice
+JF The Computer Journal
+VO 53
+SP 1341
+OP 1343
+IS 9
+
+RT Conference Proceedings
+ID 13759297
+A1 Tran-Thanh,Long
+A1 Chapman,Archie,C.
+A1 Cote,Enrique,Munoz,de
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 Epsilon-First Policies for Budget Limited Multi-Armed Bandits
+
+RT Conference Proceedings
+ID 13758581
+A1 Chapman,Archie,C.
+A1 Farinelli,Alessandro
+A1 Cote,Enrique,Munoz,de
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 A Distributed Algorithm for Optimising over Pure Strategy Nash Equilibria
+SP 749
+OP 755
+
+RT Journal Article
+ID 39335902
+A1 Fatima,S.,Shaheen
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 Sequential auctions for common value objects with budget constrained bidders
+JF Multiagent and Grid Systems
+VO 6
+SP 403
+OP 414
+IS 5-6
+
+RT Conference Proceedings
+ID 6915228
+A1 Rabinovich,Zinovi
+A1 Dufton,Lachlan
+A1 Larson,Kate
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 Cultivating desired behaviour: policy teaching via environment-dynamics tweaks
+SP 1097
+OP 1104
+
+RT Conference Proceedings
+ID 13759378
+A1 Stranders,Ruben
+A1 Fave,Francesco,Maria,Delle
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 A Decentralised Coordination Algorithm for Mobile Sensors
+
+RT Conference Proceedings
+ID 13665496
+A1 Michalak,Tomasz,P.
+A1 Rahwan,Talal
+A1 Marciniak,Dorota
+A1 Szamotulski,Marcin
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 Computational Aspects of Extending the Shapley Value to Coalitional Games with Externalities
+SP 197
+OP 202
+
+RT Conference Proceedings
+ID 48963312
+A1 Cote,Enrique,Munoz,de
+A1 Chapman,Archie,C.
+A1 Sykulski,Adam,M.
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 Automated Planning in Repeated Adversarial Games
+
+RT Conference Proceedings
+ID 13665469
+A1 Voice,Thomas
+A1 Stranders,Ruben
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 A Hybrid Continuous Max-Sum Algorithm for Decentralised Coordination
+SP 61
+OP 66
+
+RT Conference Proceedings
+ID 13989760
+A1 Stefanovitch,N.
+A1 Farinelli,A.
+A1 Rogers,A.
+A1 Jennings,N.,R.
+YR 2010
+T1 Efficient multi-agent coordination using resource-aware junction trees
+SP 1413
+OP 1414
+
+RT Conference Proceedings
+ID 13758889
+A1 Rahwan,Talal
+A1 Michalak,Tomasz,P.
+A1 Croitoru,Madalina
+A1 Sroka,Jacek
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 A Network Flow Approach to Coalitional Games
+SP 1017
+OP 1018
+
+RT Conference Proceedings
+ID 13759067
+A1 Robu,Valentin
+A1 Vetsikas,Ioannis,A.
+A1 Gerding,Enrico,H.
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 Addressing the Exposure Problem of Bidding Agents Using Flexibly Priced Options
+SP 581
+OP 586
+
+RT Journal Article
+ID 14606069
+A1 Chapman,Archie,C.
+A1 Micillo,Rosa,Anna
+A1 Kota,Ramachandra
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 Decentralized Dynamic Task Allocation Using Overlapping Potential Games
+JF The Computer Journal
+VO 53
+SP 1462
+OP 1477
+IS 9
+
+RT Journal Article
+ID 14606025
+A1 Ramchurn,Sarvapali,D.
+A1 Farinelli,Alessandro
+A1 Macarthur,Kathryn,S.
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 Decentralized Coordination in RoboCup Rescue
+JF The Computer Journal
+VO 53
+SP 1447
+OP 1461
+IS 9
+
+RT Conference Proceedings
+ID 13665490
+A1 Sykulski,Adam,M.
+A1 Chapman,Archie,C.
+A1 Cote,Enrique,Munoz,de
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 EA^2: The Winning Strategy for the Inaugural Lemonade Stand GameTournament
+SP 209
+OP 214
+
+RT Conference Proceedings
+ID 39265337
+A1 Packer,Heather,S.
+A1 Gibbins,Nicholas
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 Collaborative Learning of Ontology Fragments by Co-operating Agents
+SP 89
+OP 96
+
+RT Conference Proceedings
+ID 13988212
+A1 Williamson,Simon,A.
+A1 Chapman,Archie,C.
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 Valuing search and communication in partially-observable coordination problems
+SP 1461
+OP 1462
+
+RT Book, Whole
+ID 5438519
+A1 Valkenhoef,Gert,van
+A1 Ramchurn,Sarvapali,D.
+A1 Vytelingum,Perukrishnen
+A1 Jennings,Nicholas,R.
+A1 Verbrugge,Rineke
+YR 2010
+T1 Continuous Double Auctions with Execution Uncertainty
+
+RT Journal Article
+ID 56385551
+A1 Papakonstantinou,Athanasios
+A1 Rogers,Alex
+A1 Gerding,Enrico,H.
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 Mechanism Design for Eliciting Probabilistic Estimates from Multiple Suppliers with Unknown Costs and Limited Precision
+
+RT Conference Proceedings
+ID 13759409
+A1 Shi,Bing
+A1 Gerding,Enrico,H.
+A1 Vytelingum,Perukrishnen
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 An Equilibrium Analysis of Competing Double Auction Marketplaces Using Fictitious Play
+SP 575
+OP 580
+
+RT Conference Proceedings
+ID 6905238
+A1 Shi,Bing
+A1 Gerding,Enrico,H.
+A1 Vytelingum,Perukrishnen
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 A game-theoretic analysis of market selection strategies for competing double auction marketplaces
+SP 857
+OP 864
+
+RT Journal Article
+ID 55326216
+A1 Vetsikas,Ioannis,A.
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 Sequential Auctions with Partially Substitutable Goods
+
+RT Conference Proceedings
+ID 13665502
+A1 Stein,Sebastian
+A1 Gerding,Enrico
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 Optimal Task Migration in Service-Oriented Systems: Algorithms and Mechanisms
+SP 73
+OP 78
+
+RT Conference Proceedings
+ID 13987888
+A1 Cote,Enrique,Munoz,de
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 Planning Against Fictitious Players in Repeated Normal Form Games
+SP 1073
+OP 1080
+
+RT Conference Proceedings
+ID 39268561
+A1 Sykulski,Adam,M.
+A1 Adams,Niall,M.
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 On-Line Adaptation of Exploration in the One-Armed Bandit with Covariates Problem
+SP 459
+OP 464
+
+RT Book, Whole
+ID 39280756
+A1 Bachrach,Yoram
+A1 Polukarov,Maria
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 The Good, The Bad and The Cautious: Safety Level Cooperative Games
+SP 432
+OP 443
+
+RT Journal Article
+ID 39364860
+A1 Williams,Colin,R.
+A1 Robu,Valentin
+A1 Gerding,Enrico
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 IAMhaggler: A Negotiation Agent for Complex Environments
+
+RT Book, Whole
+ID 13274471
+A1 Vetsikas,Ioannis,A.
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 Designing Trading Agents for Real-World Auctions
+SP 275
+OP 285
+
+RT Journal Article
+ID 53320962
+A1 Gerding,Enrico,H.
+A1 Larson,Kate
+A1 Jennings,Nicholas,R.
+YR 2010
+T1 Eliciting Expert Advice in Service-Oriented Computing
+
+RT Journal Article
+ID 5520315
+A1 Rahwan,Talal
+A1 Ramchurn,Sarvapali,D.
+A1 Jennings,Nicholas,R.
+A1 Giovannucci,Andrea
+YR 2009
+T1 An Anytime Algorithm for Optimal Coalition Structure Generation
+JF Journal of Artificial Intelligence Research
+VO 34
+SP 521
+OP 567
+
+RT Journal Article
+ID 4761295
+A1 Rogers,Alex
+A1 Corkill,Daniel,D.
+A1 Jennings,Nicholas,R.
+YR 2009
+T1 Agent Technologies for Sensor Networks
+JF IEEE Expert / IEEE Intelligent Systems
+VO 24
+SP 13
+OP 17
+IS 2
+
+RT Journal Article
+ID 4771544
+A1 Stein,Sebastian
+A1 Payne,Terry,R.
+A1 Jennings,Nicholas,R.
+YR 2009
+T1 Flexible provisioning of web service workflows
+JF ACM Transactions on Internet Technology
+VO 9
+SP 1
+OP 45
+IS 1
+
+RT Conference Proceedings
+ID 5480052
+A1 Stranders,Ruben
+A1 Farinelli,Alessandro
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+YR 2009
+T1 Decentralised Coordination of Mobile Sensors Using the Max-Sum Algorithm
+SP 299
+OP 304
+
+RT Journal Article
+ID 4771688
+A1 Kho,Johnsen
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+YR 2009
+T1 Decentralized control of adaptive sampling in wireless sensor networks
+JF ACM Transactions on Sensor Networks
+VO 5
+SP 1
+OP 35
+IS 3
+
+RT Conference Proceedings
+ID 5937071
+A1 Kota,Ramachandra
+A1 Gibbins,Nicholas
+A1 Jennings,Nicholas,R.
+YR 2009
+T1 Self-organising agent organisations
+SP 797
+OP 804
+
+RT Journal Article
+ID 4753829
+A1 Karunatillake,Nishan,C.
+A1 Jennings,Nicholas,R.
+A1 Rahwan,Iyad
+A1 Mcburney,Peter
+YR 2009
+T1 Dialogue games that agents play within a society
+JF Artificial Intelligence
+VO 173
+SP 935
+OP 981
+IS 9-10
+
+RT Conference Proceedings
+ID 5977210
+A1 Fatima,S.,Shaheen
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 2009
+T1 An analysis of feasible solutions for multi-issue negotiation involving nonlinear utility functions
+SP 1041
+OP 1048
+
+RT Journal Article
+ID 6276156
+A1 Ramchurn,Sarvapali,D.
+A1 Mezzetti,C.
+A1 Giovannucci,Andrea
+A1 Rodríguez-Aguilar,Juan,A.
+A1 Dash,Rajdeep,K.
+A1 Jennings,Nicholas,R.
+YR 2009
+T1 Trust-Based Mechanisms for Robust and Efficient Task Allocation in the Presence of Execution Uncertainty
+JF Journal of Artificial Intelligence Research
+VO 35
+SP 119
+OP 159
+
+RT Conference Proceedings
+ID 4820772
+A1 Chapman,Archie,C.
+A1 Micillo,Rosa,Anna
+A1 Kota,Ramachandra
+A1 Jennings,Nicholas,R.
+YR 2009
+T1 Decentralised dynamic task allocation: a practical game: theoretic approach
+SP 915
+OP 922
+
+RT Journal Article
+ID 14347367
+A1 Ramchurn,Sarvapali,D.
+A1 Farinelli,Alessandro
+A1 Macarthur,Kathryn,S.
+A1 Polukarov,Maria
+A1 Jennings,Nicholas,R.
+YR 2009
+T1 Decentralised Coordination in RoboCup Rescue
+
+RT Conference Proceedings
+ID 5079153
+A1 Stranders,Ruben
+A1 Farinelli,Alessandro
+A1 Rogers,Alex
+A1 Jennings,Nick,R.
+YR 2009
+T1 Decentralised coordination of continuously valued control parameters using the max-sum algorithm
+SP 601
+OP 608
+
+RT Conference Proceedings
+ID 6028759
+A1 Gerding,Enrico,H.
+A1 Rogers,Alex
+A1 Larson,Kate
+A1 Jennings,Nicholas,R.
+YR 2009
+T1 Mechanism design for task procurement with flexible quality of service
+SP 1259
+OP 1260
+
+RT Journal Article
+ID 5781293
+A1 Stein,Sebastian
+A1 Payne,Terry,R.
+A1 Jennings,Nicholas,R.
+YR 2009
+T1 Flexible selection of heterogeneous and unreliable services in large-scale grids
+JF Philosophical Transactions of The Royal Society A: Mathematical, Physical and Engineering Sciences
+VO 367
+SP 2483
+OP 2494
+IS 1897
+
+RT Conference Proceedings
+ID 5445016
+A1 Chalkiadakis,Georgios
+A1 Elkind,Edith
+A1 Jennings,Nicholas,R.
+YR 2009
+T1 Simple Coalitional Games with Beliefs
+SP 85
+OP 90
+
+RT Book, Whole
+ID 5828578
+A1 Byde,Andrew
+A1 Polukarov,Maria
+A1 Jennings,Nicholas,R.
+YR 2009
+T1 Games with Congestion-Averse Utilities
+SP 220
+OP 232
+
+RT Conference Proceedings
+ID 5189807
+A1 Rahwan,Talal
+A1 Michalak,Tomasz,P.
+A1 Jennings,Nicholas,R.
+A1 Wooldridge,Michael
+A1 Mcburney,Peter
+YR 2009
+T1 Coalition Structure Generation in Multi-Agent Systems with Positive and Negative Externalities
+SP 257
+OP 263
+
+RT Conference Proceedings
+ID 5480959
+A1 Stein,Sebastian
+A1 Gerding,Enrico
+A1 Rogers,Alex
+A1 Larson,Kate
+A1 Jennings,Nicholas,R.
+YR 2009
+T1 Flexible Procurement of Services with Uncertain Durations using Redundancy
+SP 292
+OP 298
+
+RT Conference Proceedings
+ID 5473148
+A1 Rabinovich,Zinovi
+A1 Gerding,Enrico
+A1 Polukarov,Maria
+A1 Jennings,Nicholas,R.
+YR 2009
+T1 Generalised Fictitious Play for a Continuum of Anonymous Players
+SP 245
+OP 250
+
+RT Conference Proceedings
+ID 5420715
+A1 Williamson,Simon,A.
+A1 Gerding,Enrico,H.
+A1 Jennings,Nicholas,R.
+YR 2009
+T1 Reward shaping for valuing communications during multi-agent coordination
+SP 641
+OP 648
+
+RT Book, Whole
+ID 6052379
+A1 Voice,Thomas
+A1 Polukarov,Maria
+A1 Byde,Andrew
+A1 Jennings,Nicholas,R.
+YR 2009
+T1 On the Impact of Strategy and Utility Structures on Congestion-Averse Games
+SP 600
+OP 607
+
+RT Conference Proceedings
+ID 5435115
+A1 Chalkiadakis,Georgios
+A1 Elkind,Edith
+A1 Polukarov,Maria
+A1 Jennings,Nicholas,R.
+YR 2009
+T1 The price of democracy in coalition formation
+SP 401
+OP 408
+
+RT Journal Article
+ID 5787604
+A1 Stein,Sebastian
+A1 Gerding,Enrico
+A1 Rogers,Alex,C.
+A1 Larson,Kate
+A1 Jennings,Nicholas,R.
+YR 2009
+T1 Flexible Procurement of Services with Uncertain Durations
+
+RT Book, Whole
+ID 6714204
+A1 Rogers,Alex
+A1 Farinelli,Alessandro
+A1 Jennings,Nicholas,R.
+YR 2009
+T1 Self-organising Sensors for Wide Area Surveillance Using the Max-sum Algorithm
+SP 84
+OP 100
+
+RT Conference Proceedings
+ID 4857059
+A1 Michalak,Tomasz,P.
+A1 Rahwan,Talal
+A1 Sroka,Jacek
+A1 Dowell,Andrew
+A1 Wooldridge,Michael,J.
+A1 McBurney,Peter,J.
+A1 Jennings,Nicholas,R.
+YR 2009
+T1 On representing coalitional games with externalities
+SP 11
+OP 20
+
+RT Book, Whole
+ID 6060507
+A1 Vytelingum,Perukrishnen
+A1 Rogers,Alex
+A1 Macbeth,Douglas,K.
+A1 Dutta,Partha,Sarathi
+A1 Stranjak,Armin
+A1 Jennings,Nicholas,R.
+YR 2009
+T1 A Market-Based Approach to Multi-factory Scheduling
+SP 74
+OP 86
+
+RT Journal Article
+ID 5438825
+A1 Chalkiadakis,Georgios
+A1 Elkind,Edith
+A1 Markakis,Evangelos
+A1 Polukarov,Maria
+A1 Jennings,Nicholas,R.
+YR 2009
+T1 Stability of overlapping coalitions
+JF Sigecom Exchanges
+VO 8
+SP 1
+OP 5
+IS 1
+
+RT Conference Proceedings
+ID 6028769
+A1 Kho,Johnsen
+A1 Tran-thanh,Long
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+YR 2009
+T1 Decentralised control of adaptive sampling and routing in wireless visual sensor networks
+SP 1237
+OP 1238
+
+RT Conference Proceedings
+ID 6028840
+A1 Vetsikas,Ioannis,A.
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+YR 2009
+T1 Pick-a-bundle: a novel bundling strategy for selling multiple items within online auctions
+SP 1225
+OP 1226
+
+RT Journal Article
+ID 5970072
+A1 Gerding,E.,H.
+A1 Rogers,A.
+A1 Larson,K.
+A1 Jennings,N.,R.
+YR 2009
+T1 Mechanism Design for Task Procurement with Flexible Quality of Service (Extended Abstract)
+
+RT Journal Article
+ID 55270255
+A1 Gerding,Enrico,H.
+A1 Larson,Kate
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+YR 2009
+T1 Mechanism Design for Task Procurement with Flexible Quality of Service
+
+RT Book, Whole
+ID 6388893
+A1 Kota,Ramachandra
+A1 Gibbins,Nicholas
+A1 Jennings,Nicholas,R.
+YR 2009
+T1 A Generic Agent Organisation Framework for Autonomic Systems
+SP 203
+OP 219
+
+RT Journal Article
+ID 5353588
+A1 Vetsikas,Ioannis,A.
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+YR 2009
+T1 Pick-A-Bundle: A Novel Bundling Strategy for Selling Multiple Items within Online Auctions (Extended Abstract)
+
+RT Book, Whole
+ID 6862897
+A1 Jennings,Nicholas,R.
+A1 Rogers,Alex
+YR 2009
+T1 Computational Service Economies: Design and Applications
+SP 1
+OP 7
+
+RT Conference Proceedings
+ID 4236535
+A1 Farinelli,Alessandro
+A1 Rogers,Alex
+A1 Petcu,Adrian
+A1 Jennings,Nicholas,R.
+YR 2008
+T1 Decentralised coordination of low-power embedded devices using the max-sum algorithm
+SP 639
+OP 646
+
+RT Conference Proceedings
+ID 4288950
+A1 Osborne,M.,A.
+A1 Roberts,S.,J.
+A1 Rogers,Alex
+A1 Ramchurn,Sarvapali,D.
+A1 Jennings,Nicholas,R.
+YR 2008
+T1 Towards Real-Time Information Processing of Sensor Network Data Using Computationally Efficient Multi-output Gaussian Processes
+SP 109
+OP 120
+
+RT Conference Proceedings
+ID 4236679
+A1 Rahwan,Talal
+A1 Jennings,Nicholas,R.
+YR 2008
+T1 An improved dynamic programming algorithm for coalition structure generation
+SP 1417
+OP 1420
+
+RT Conference Proceedings
+ID 4308032
+A1 Rogers,Alex
+A1 Osborne,Mike
+A1 Ramchurn,Sarvapali,D.
+A1 Roberts,Stephen
+A1 Jennings,Nicholas,R.
+YR 2008
+T1 Information Agents for Pervasive Sensor Networks
+SP 294
+OP 299
+
+RT Conference Proceedings
+ID 4230002
+A1 Rahwan,Talal
+A1 Jennings,Nicholas,R.
+YR 2008
+T1 Coalition Structure Generation: Dynamic Programming Meets Anytime Optimization
+SP 156
+OP 161
+
+RT Conference Proceedings
+ID 4705993
+A1 Vytelingum,Perukrishnen
+A1 Vetsikas,Ioannis,A.
+A1 Shi,Bing
+A1 Jennings,Nicholas,R.
+YR 2008
+T1 IAMwildCAT: The Winning Strategy for the TAC Market Design Competition
+SP 428
+OP 432
+
+RT Journal Article
+ID 4357448
+A1 Vytelingum,Perukrishnen
+A1 Cliff,Dave
+A1 Jennings,Nicholas,R.
+YR 2008
+T1 Strategic bidding in continuous double auctions
+JF Artificial Intelligence
+VO 172
+SP 1700
+OP 1729
+IS 14
+
+RT Journal Article
+ID 4356480
+A1 Wei,Yan,Zheng
+A1 Jennings,Nicholas,R.
+A1 Moreau,Luc
+A1 Hall,Wendy
+YR 2008
+T1 User evaluation of a market-based recommender system
+JF Autonomous Agents and Multi-agent Systems
+VO 17
+SP 251
+OP 269
+IS 2
+
+RT Conference Proceedings
+ID 4236609
+A1 Chalkiadakis,Georgios
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+YR 2008
+T1 Sequential decision making with untrustworthy service providers
+SP 755
+OP 762
+
+RT Book, Whole
+ID 5828935
+A1 Kota,Ramachandra
+A1 Gibbins,Nicholas
+A1 Jennings,Nicholas,R.
+YR 2008
+T1 Decentralised Structural Adaptation in Agent Organisations
+SP 54
+OP 71
+
+RT Conference Proceedings
+ID 4705864
+A1 Elkind,Edith
+A1 Chalkiadakis,Georgios
+A1 Jennings,Nicholas,R.
+YR 2008
+T1 Coalition Structures in Weighted Voting Games
+SP 393
+OP 397
+
+RT Conference Proceedings
+ID 4236331
+A1 Stein,Sebastian
+A1 Jennings,Nicholas,R.
+A1 Payne,Terry,R.
+YR 2008
+T1 Flexible service provisioning with advance agreements
+SP 249
+OP 256
+
+RT Journal Article
+ID 4357452
+A1 Fatima,S.,Shaheen
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 2008
+T1 A linear approximation method for the Shapley value
+JF Artificial Intelligence
+VO 172
+SP 1673
+OP 1699
+IS 14
+
+RT Journal Article
+ID 4230083
+A1 Vetsikas,Ioannis,A.
+A1 Jennings,Nicholas,R.
+YR 2008
+T1 Bidding Strategies for Realistic Multi-Unit Sealed-Bid Auctions
+JF Autonomous Agents and Multi-agent Systems
+VO 21
+SP 182
+OP 189
+IS 2
+
+RT Conference Proceedings
+ID 4705989
+A1 Papakonstantinou,Athanasios
+A1 Rogers,Alex
+A1 Gerding,Enrico,H.
+A1 Jennings,Nicholas,R.
+YR 2008
+T1 A Truthful Two-Stage Mechanism for Eliciting Probabilistic Estimates with Unknown Costs
+SP 448
+OP 452
+
+RT Conference Proceedings
+ID 4236623
+A1 Vetsikas,Ioannis,A.
+A1 Jennings,Nicholas,R.
+YR 2008
+T1 Towards agents participating in realistic multi-unit sealed-bid auctions
+SP 1621
+OP 1624
+
+RT Book, Whole
+ID 4325419
+A1 Chalkiadakis,Georgios
+A1 Elkind,Edith
+A1 Markakis,Evangelos
+A1 Jennings,Nicholas,R.
+YR 2008
+T1 Overlapping Coalition Formation
+SP 307
+OP 321
+
+RT Journal Article
+ID 4423779
+A1 Penya,Yoseba,K.
+A1 Jennings,Nicholas,R.
+YR 2008
+T1 Optimal combinatorial electricity markets
+JF Web Intelligence and Agent Systems: An International Journal
+VO 6
+SP 123
+OP 135
+IS 2
+
+RT Journal Article
+ID 4820750
+A1 Rezek,Iead
+A1 Leslie,David,S.
+A1 Reece,Steven
+A1 Roberts,Stephen,J.
+A1 Rogers,Alex
+A1 Dash,Rajdeep,K.
+A1 Jennings,Nicholas,R.
+YR 2008
+T1 On Similarities between Inference in Game Theory and Machine Learning
+JF Journal of Artificial Intelligence Research
+VO 33
+SP 259
+OP 283
+
+RT Conference Proceedings
+ID 4236553
+A1 Fatima,S.,Shaheen
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 2008
+T1 An anytime approximation method for the inverse Shapley value problem
+SP 935
+OP 942
+
+RT Journal Article
+ID 5503297
+A1 Gerding,Enrico,H.
+A1 Dash,Rajdeep,K.
+A1 Byde,Andrew
+A1 Jennings,Nicholas,R.
+YR 2008
+T1 Optimal Strategies for Bidding Agents Participating in Simultaneous Vickrey Auctions with Perfect Substitutes
+
+RT Conference Proceedings
+ID 4236642
+A1 Gerding,Enrico,H.
+A1 Rabinovich,Zinovi
+A1 Byde,Andrew
+A1 Elkind,Edith
+A1 Jennings,Nicholas,R.
+YR 2008
+T1 Approximating mixed Nash equilibria using smooth fictitious play in simultaneous auctions
+SP 1577
+OP 1580
+
+RT Conference Proceedings
+ID 4236739
+A1 Farinelli,Alessandro
+A1 Grabham,N.,J.
+A1 Padhy,Paritosh
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+YR 2008
+T1 Max-sum decentralised coordination for sensor systems
+SP 1697
+OP 1698
+
+RT Conference Proceedings
+ID 4236748
+A1 Ramchurn,Sarvapali,D.
+A1 Rogers,Alex
+A1 Macarthur,Kathryn
+A1 Farinelli,Alessandro
+A1 Vytelingum,Perukrishnen
+A1 Vetsikas,Ioannis,A.
+A1 Jennings,Nicholas,R.
+YR 2008
+T1 Agent-based coordination technologies in disaster management
+SP 1651
+OP 1652
+
+RT Journal Article
+ID 6079671
+A1 Gerding,Enrico,H.
+A1 Dash,Rajdeep,K.
+A1 Byde,Andrew
+A1 Jennings,Nicholas,R.
+YR 2008
+T1 Optimal Strategies for Simultaneous Vickrey Auctions with Perfect Substitutes
+JF Journal of Artificial Intelligence Research
+VO 32
+SP 939
+OP 982
+
+RT Conference Proceedings
+ID 13314168
+A1 Gimpel,Henner
+A1 Jennings,Nicholas,R.
+A1 Kersten,Gregory,E.
+A1 Ockenfels,Axel
+A1 Weinhardt,Christof
+YR 2008
+T1 Negotiation, Auctions, and Market Engineering, International Seminar, Dagstuhl Castle, Germany, November 12-17, 2006, Revised Selected Papers
+
+RT Conference Proceedings
+ID 4236673
+A1 Chapman,Archie,C.
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+YR 2008
+T1 Learn while you earn: two approaches to learning auction parameters in take-it-or-leave-it auctions
+SP 1561
+OP 1564
+
+RT Journal Article
+ID 5089202
+A1 Farinelli,A.
+A1 Grabham,N.,J.
+A1 Padhy,P.
+A1 Rogers,A.
+A1 Jennings,N.,R.
+YR 2008
+T1 Max-Sum Decentralised Coordination for Sensor Systems (Demo Paper)
+
+RT Journal Article
+ID 5493196
+A1 Chapman,Archie,C.
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+YR 2008
+T1 Learn While You Earn: Two Approaches to Learning Auction Parameters in Take-it-or-leave-it Auctions (Short Paper)
+
+RT Journal Article
+ID 5254471
+A1 Rahwan,Talal
+A1 Jennings,Nicholas,R.
+YR 2008
+T1 An Improved Dynamic Programming Algorithm for Coalition Structure Generation (Short Paper)
+
+RT Journal Article
+ID 5382566
+A1 Vetsikas,Ioannis,A.
+A1 Jennings,Nicholas,R.
+YR 2008
+T1 Towards Agents Participating in Realistic Multi-Unit Sealed-Bid Auctions (Short Paper)
+
+RT Journal Article
+ID 5212792
+A1 Elkind,Edith
+A1 Jennings,Nicholas,R.
+YR 2008
+T1 Approximating Mixed Nash Equilibria using Smooth Fictitious Play in Simultaneous Auctions (Short Paper)
+
+RT Conference Proceedings
+ID 2446279
+A1 Rahwan,Talal
+A1 Ramchurn,Sarvapali,D.
+A1 Dang,Viet,Dung
+A1 Jennings,Nicholas,R.
+YR 2007
+T1 Near-Optimal Anytime Coalition Structure Generation
+SP 2365
+OP 2371
+
+RT Conference Proceedings
+ID 4229895
+A1 Rahwan,Talal
+A1 Ramchurn,Sarvapali,D.
+A1 Dang,Viet,Dung
+A1 Giovannucci,Andrea
+A1 Jennings,Nicholas,R.
+YR 2007
+T1 Anytime Optimal Coalition Structure Generation
+SP 1184
+OP 1190
+
+RT Journal Article
+ID 3359287
+A1 Dash,Rajdeep,K.
+A1 Vytelingum,Perukrishnen
+A1 Rogers,Alex
+A1 David,Esther
+A1 Jennings,Nicholas,R.
+YR 2007
+T1 Market-Based Task Allocation Mechanisms for Limited-Capacity Suppliers
+JF IEEE Transactions on Systems, Man, and Cybernetics
+VO 37
+SP 391
+OP 405
+IS 3
+
+RT Conference Proceedings
+ID 4236283
+A1 Gerding,Enrico,H.
+A1 Dash,Rajdeep,K.
+A1 Yuen,David,C.,K.
+A1 Jennings,Nicholas,R.
+YR 2007
+T1 Bidding optimally in concurrent second-price auctions of perfectly substitutable goods
+SP 53
+OP 8
+
+RT Conference Proceedings
+ID 4236392
+A1 Fatima,S.,Shaheen
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 2007
+T1 Approximate and online multi-issue negotiation
+SP 156
+OP 8
+
+RT Conference Proceedings
+ID 4236214
+A1 Reece,Steven
+A1 Rogers,Alex
+A1 Roberts,Stephen
+A1 Jennings,Nicholas,R.
+YR 2007
+T1 Rumours and reputation: evaluating multi-dimensional trust within a decentralised reputation system
+SP 165
+OP 8
+
+RT Journal Article
+ID 2489396
+A1 Rahwan,Talal
+A1 Jennings,Nicholas,R.
+YR 2007
+T1 An algorithm for distributing coalitional value calculations among cooperating agents
+JF Artificial Intelligence
+VO 171
+SP 535
+OP 567
+IS 8-9
+
+RT Journal Article
+ID 4426602
+A1 Rogers,Alex
+A1 David,Esther
+A1 Jennings,Nicholas,R.
+A1 Schiff,Jeremy
+YR 2007
+T1 The effects of proxy bidding and minimum bid increments within eBay auctions
+JF ACM Transactions on The Web
+VO 1
+SP 9
+IS 2
+
+RT Journal Article
+ID 3804844
+A1 Rahwan,Iyad
+A1 Sonenberg,Liz
+A1 Jennings,Nicholas,R.
+A1 Mcburney,Peter
+YR 2007
+T1 STRATUM: A Methodology for Designing Heuristic Agent Negotiation Strategies
+JF Applied Artificial Intelligence
+VO 21
+SP 489
+OP 527
+IS 6
+
+RT Journal Article
+ID 4357379
+A1 Ramchurn,Sarvapali,D.
+A1 Sierra,Carles
+A1 Godo,Lluis
+A1 Jennings,Nicholas,R.
+YR 2007
+T1 Negotiating using rewards
+JF Artificial Intelligence
+VO 171
+SP 805
+OP 837
+IS 10-15
+
+RT Conference Proceedings
+ID 2446247
+A1 Gerding,Enrico,H.
+A1 Rogers,Alex
+A1 Dash,Rajdeep,K.
+A1 Jennings,Nicholas,R.
+YR 2007
+T1 Sellers Competing for Buyers in Online Markets: Reserve Prices, Shill Bids, and Auction Fees
+SP 1287
+OP 1293
+
+RT Conference Proceedings
+ID 4236356
+A1 Rogers,Alex
+A1 David,Esther
+A1 Payne,Terry,R.
+A1 Jennings,Nicholas,R.
+YR 2007
+T1 An advanced bidding agent for advertisement selection on public displays
+SP 51
+OP 8
+
+RT Journal Article
+ID 4415965
+A1 David,Esther
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+A1 Schiff,Jeremy
+A1 Kraus,Sarit
+A1 Rothkopf,Michael,H.
+YR 2007
+T1 Optimal design of english auctions with discrete bid levels
+JF ACM Transactions on Internet Technology
+VO 7
+SP 12
+IS 2
+
+RT Conference Proceedings
+ID 4229898
+A1 Stein,Sebastian
+A1 Jennings,Nicholas,R.
+A1 Payne,Terry,R.
+YR 2007
+T1 Provisioning Heterogeneous and Unreliable Providers for Service Workflows
+SP 1452
+OP 1458
+
+RT Conference Proceedings
+ID 4229581
+A1 Reece,Steven
+A1 Roberts,Stephen
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+YR 2007
+T1 A MultiDimensional Trust Model for Heterogeneous Contract Observations
+SP 128
+OP 135
+
+RT Conference Proceedings
+ID 4236281
+A1 Fatima,S.,Shaheen
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 2007
+T1 A randomized method for the shapley value for the voting game
+SP 157
+OP 8
+
+RT Conference Proceedings
+ID 3539176
+A1 Vetsikas,Ioannis,A.
+A1 Jennings,Nicholas,R.
+YR 2007
+T1 Outperforming the competition in multi-unit sealed bid auctions
+SP 103
+OP 8
+
+RT Conference Proceedings
+ID 2446446
+A1 Vetsikas,Ioannis,A.
+A1 Jennings,Nicholas,R.
+A1 Selman,Bart
+YR 2007
+T1 Generating Bayes-Nash Equilibria to Design Autonomous Trading Agents
+SP 1543
+OP 1550
+
+RT Journal Article
+ID 4363211
+A1 Ghanea-hercock,Robert,A.
+A1 Gelenbe,Erol
+A1 Jennings,Nicholas,R.
+A1 Smith,Oliver
+A1 Allsopp,David,N.
+A1 Healing,Alex
+A1 Duman,Hakan
+A1 Sparks,Simon
+A1 Karunatillake,Nishan,C.
+A1 Vytelingum,Perukrishnen
+YR 2007
+T1 Hyperion - Next-Generation Battlespace Information Services
+JF The Computer Journal
+VO 50
+SP 632
+OP 645
+IS 6
+
+RT Book, Whole
+ID 2486806
+A1 Stein,Sebastian
+A1 Payne,Terry,R.
+A1 Jennings,Nicholas,R.
+YR 2007
+T1 An Effective Strategy for the Flexible Provisioning of Service Workflows
+SP 16
+OP 30
+
+RT Journal Article
+ID 2489375
+A1 Luo,Xudong
+A1 Jennings,Nicholas,R.
+YR 2007
+T1 A spectrum of compromise aggregation operators for multi-attribute decision making
+JF Artificial Intelligence
+VO 171
+SP 161
+OP 184
+IS 2-3
+
+RT Book, Whole
+ID 4236810
+A1 Vytelingum,Perukrishnen
+A1 Cliff,Dave
+A1 Jennings,Nicholas,R.
+YR 2007
+T1 Analysing Buyers' and Sellers' Strategic Interactions in Marketplaces: An Evolutionary Game Theoretic Approach
+SP 151
+OP 165
+
+RT Journal Article
+ID 2515993
+A1 Rogers,Alex
+A1 Dash,Rajdeep,K.
+A1 Ramchurn,Sarvapali,D.
+A1 Vytelingum,Perukrishnen
+A1 Jennings,Nicholas,R.
+YR 2007
+T1 Coordinating team players within a noisy Iterated Prisoner's Dilemma tournament
+JF Theoretical Computer Science
+VO 377
+SP 243
+OP 259
+IS 1-3
+
+RT Conference Proceedings
+ID 2446641
+A1 Dutta,Partha,Sarathi
+A1 Goldman,Claudia,V.
+A1 Jennings,Nicholas,R.
+YR 2007
+T1 Communicating Effectively in Resource-Constrained Multi-Agent Systems
+SP 1269
+OP 1274
+
+RT Journal Article
+ID 3106714
+A1 Stein,S.
+A1 Payne,T.,R.
+A1 Jennings,N.,R.
+YR 2007
+T1 Flexible provisioning of semantic web service workflows
+JF ACM Transactions on Internet Technology
+
+RT Book, Whole
+ID 2488585
+A1 Espinoza,Fredrik
+A1 Roure,David,De
+A1 Hamfors,Ola
+A1 Hinz,Lucas
+A1 Holmberg,Jesper
+A1 Jansson,Carl-Gustaf
+A1 Jennings,Nick,R.
+A1 Luck,Michael
+A1 Lönnqvist,Peter
+A1 Ramchurn,Gopal
+A1 Sandin,Anna
+A1 Thompson,Mark,K.
+A1 Bylund,Markus
+YR 2007
+T1 Intrusiveness Management for Focused, Efficient, and Enjoyable Activities
+SP 143
+OP 157
+
+RT Book, Whole
+ID 4236817
+A1 Fatima,S.,Shaheen
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 2007
+T1 Sequential Auctions in Uncertain Information Settings
+SP 16
+OP 29
+
+RT Conference Proceedings
+ID 4272826
+A1 He,Minghua
+A1 Luo,Xudong
+A1 Jennings,Nicholas,R.
+A1 Wooldridge,Michael
+YR 2007
+T1 Forming Fuzzy Coalitions in Cooperative Superadditive Games
+SP 221
+OP 228
+
+RT Conference Proceedings
+ID 13313400
+A1 Jennings,Nick,R.
+A1 Kersten,Gregory,E.
+A1 Ockenfels,Axel
+A1 Weinhardt,Christof
+YR 2007
+T1 Negotiation and Market Engineering, 12.11. - 17.11.2006
+
+RT Conference Proceedings
+ID 4324733
+A1 Ponka,Ilja
+A1 Jennings,Nicholas,R.
+YR 2007
+T1 Changing Circumstances and Leveled Commitment: A Compensatory Approach to Contracting
+SP 185
+OP 191
+
+RT Journal Article
+ID 4581252
+A1 Vytelingum,P.
+A1 Dash,R.,K.
+A1 Vetsikas,I.,A.
+A1 Jennings,N.,R.
+YR 2007
+T1 WhiteDolphin: A TAC Travel Agent
+
+RT Journal Article
+ID 6019792
+A1 Stein,Sebastian
+A1 Jennings,Nicholas,R.
+A1 Payne,Terry,R.
+YR 2007
+T1 Provisioning Heterogeneous and Unreliable Service Providers
+
+RT Book, Whole
+ID 4319217
+A1 Jennings,Nicholas,R.
+YR 2007
+T1 Agreement Technologies
+SP 111
+OP 113
+
+RT Conference Proceedings
+ID 4126403
+A1 Jennings,Nicholas,R.
+YR 2007
+T1 Decentralised Control of Complex Systems
+SP 31
+OP 33
+
+RT Journal Article
+ID 2489036
+A1 Huynh,Trung,Dong
+A1 Jennings,Nicholas,R.
+A1 Shadbolt,Nigel,R.
+YR 2006
+T1 An integrated trust and reputation model for open multi-agent systems
+JF Autonomous Agents and Multi-agent Systems
+VO 13
+SP 119
+OP 154
+IS 2
+
+RT Conference Proceedings
+ID 2368845
+A1 He,Minghua
+A1 Rogers,Alex
+A1 Luo,Xudong
+A1 Jennings,Nicholas,R.
+YR 2006
+T1 Designing a successful trading agent for supply chain management
+SP 1159
+OP 1166
+
+RT Conference Proceedings
+ID 2427277
+A1 Payne,Terry,R.
+A1 David,Esther
+A1 Jennings,Nicholas,R.
+A1 Sharifi,Matthew
+YR 2006
+T1 Auction Mechanisms for Efficient Advertisement Selection on Public Displays
+SP 285
+OP 289
+
+RT Conference Proceedings
+ID 2417877
+A1 Padhy,Paritosh
+A1 Dash,Rajdeep,K.
+A1 Martinez,Kirk
+A1 Jennings,Nicholas,R.
+YR 2006
+T1 A utility-based sensing and communication model for a glacial sensor network
+SP 1353
+OP 1360
+
+RT Conference Proceedings
+ID 2165166
+A1 Dang,Viet,Dung
+A1 Dash,Rajdeep,K.
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+YR 2006
+T1 Overlapping Coalition Formation for Efficient Data Fusion in MultiSensor Networks
+
+RT Conference Proceedings
+ID 2417814
+A1 Huynh,Trung,Dong
+A1 Jennings,Nicholas,R.
+A1 Shadbolt,Nigel,R.
+YR 2006
+T1 Certified reputation: how an agent can trust a stranger
+SP 1217
+OP 1224
+
+RT Journal Article
+ID 2505762
+A1 Fatima,S.,Shaheen
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 2006
+T1 Multi-Issue Negotiation with Deadlines
+JF Journal of Artificial Intelligence Research
+VO 27
+SP 381
+OP 417
+
+RT Conference Proceedings
+ID 2427318
+A1 Stein,Sebastian
+A1 Jennings,Nicholas,R.
+A1 Payne,Terry,R.
+YR 2006
+T1 Flexible Provisioning of Service Workflows
+SP 295
+OP 299
+
+RT Conference Proceedings
+ID 2871068
+A1 Rogers,A.
+A1 Dash,R.,K.
+A1 Jennings,N.,R.
+A1 Reece,S.
+A1 Roberts,S.
+YR 2006
+T1 Computational Mechanism Design for Information Fusion within Sensor Networks
+
+RT Conference Proceedings
+ID 2417852
+A1 Manisterski,Efrat
+A1 David,Esther
+A1 Kraus,Sarit
+A1 Jennings,Nicholas,R.
+YR 2006
+T1 Forming efficient agent groups for completing complex tasks
+SP 834
+OP 841
+
+RT Book, Whole
+ID 2417901
+A1 Ramchurn,Sarvapali,D.
+A1 Sierra,Carles
+A1 Godo,Lluis
+A1 Jennings,Nicholas,R.
+YR 2006
+T1 Negotiating Using Rewards
+SP 175
+OP 192
+
+RT Book, Whole
+ID 2417976
+A1 Fatima,S.,Shaheen
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 2006
+T1 On Efficient Procedures for Multi-issue Negotiation
+SP 31
+OP 45
+
+RT Journal Article
+ID 2180340
+A1 Luo,Xudong
+A1 Jennings,Nicholas,R.
+A1 Shadbolt,Nigel
+YR 2006
+T1 Acquiring user tradeoff strategies and preferences for negotiating agents: A default-then-adjust method
+JF International Journal of Human-computer Studies / International Journal of Man-machine Studies
+VO 64
+SP 304
+OP 321
+IS 4
+
+RT Book, Whole
+ID 2421834
+A1 Narayanan,Vidya
+A1 Jennings,Nicholas,R.
+YR 2006
+T1 Learning to Negotiate Optimally in Non-stationary Environments
+SP 288
+OP 300
+
+RT Journal Article
+ID 2517353
+A1 He,Minghua
+A1 Jennings,Nicholas,R.
+A1 Prügel-bennett,Adam
+YR 2006
+T1 A heuristic bidding strategy for buying multiple goods in multiple english auctions
+JF ACM Transactions on Internet Technology
+VO 6
+SP 465
+OP 496
+IS 4
+
+RT Journal Article
+ID 2933919
+A1 Nguyen,Duong
+A1 Thompson,Simon
+A1 Patel,Jigar
+A1 Teacy,Luke,W,T
+A1 Jennings,Nicholas,R
+A1 Luck,Mike
+A1 Dang,Viet
+A1 Chalmers,Stuart
+A1 Oren,N
+A1 Norman,T,J
+A1 Preece,A
+A1 Gray,P,M,D
+A1 Shercliff,G
+A1 Stockreisser,P,J
+A1 Shao,J
+A1 Gray,W,A
+A1 Fiddian,N,J
+YR 2006
+T1 Delivering services by building and running virtual organisations
+JF Bt Technology Journal
+VO 24
+SP 141
+OP 152
+IS 1
+
+RT Conference Proceedings
+ID 2427191
+A1 Dang,Viet,Dung
+A1 Jennings,Nicholas,R.
+YR 2006
+T1 Coalition Structure Generation in Task-Based Settings
+SP 210
+OP 214
+
+RT Conference Proceedings
+ID 3525477
+A1 Gerding,Enrico,H.
+A1 Dash,Rajdeep,K.
+A1 Yuen,David,C.,K.
+A1 Jennings,Nicholas,R.
+YR 2006
+T1 Optimal Bidding Strategies for Simultaneous Vickrey Auctions with Perfect Substitutes
+
+RT Book, Whole
+ID 2417829
+A1 Karunatillake,Nishan,C.
+A1 Jennings,Nicholas,R.
+A1 Rahwan,Iyad
+A1 Ramchurn,Sarvapali,D.
+YR 2006
+T1 Managing Social Influences Through Argumentation-Based Negotiation
+SP 107
+OP 127
+
+RT Conference Proceedings
+ID 2427328
+A1 Yuen,David,C.,K.
+A1 Byde,Andrew
+A1 Jennings,Nicholas,R.
+YR 2006
+T1 Heuristic Bidding Strategies for Multiple Heterogeneous Auctions
+SP 300
+OP 304
+
+RT Journal Article
+ID 3889841
+A1 ROGERS,ALEX
+A1 DAVID,ESTHER
+A1 JENNINGS,NICHOLAS,R.
+YR 2006
+T1 The Effects of Proxy Bidding and Minimum Bid Increments within eBay Auctions
+JF ACM Transactions on The Web
+
+RT Conference Proceedings
+ID 2417768
+A1 Dutta,Partha,Sarathi
+A1 Jennings,Nicholas,R.
+A1 Moreau,Luc
+YR 2006
+T1 Adaptive distributed resource allocation and diagnostics using cooperative information-sharing strategies
+SP 826
+OP 833
+
+RT Book, Whole
+ID 2417979
+A1 Vytelingum,Perukrishnen
+A1 Cliff,Dave
+A1 Jennings,Nicholas,R.
+YR 2006
+T1 Evolutionary Stability of Behavioural Types in the Continuous Double Auction
+SP 103
+OP 117
+
+RT Conference Proceedings
+ID 2367559
+A1 Gerding,Enrico,H.
+A1 Rogers,Alex
+A1 Dash,Rajdeep,K.
+A1 Jennings,Nicholas,R.
+YR 2006
+T1 Competing sellers in online markets: reserve prices, shill bidding, and auction fees
+SP 1208
+OP 1210
+
+RT Conference Proceedings
+ID 2798908
+A1 Kalofonos,Dionysis
+A1 Karunatillake,Nishan,C.
+A1 Jennings,Nicholas,R.
+A1 Norman,Timothy,J.
+A1 Reed,Chris
+A1 Wells,Simon
+YR 2006
+T1 Building Agents that Plan and Argue in a Social Context
+SP 15
+OP 26
+
+RT Journal Article
+ID 2515757
+A1 Rogers,Alex
+A1 Prügel-bennett,Adam
+A1 Jennings,Nicholas,R.
+YR 2006
+T1 Phase transitions and symmetry breaking in genetic algorithms with crossover
+JF Theoretical Computer Science
+VO 358
+SP 121
+OP 141
+IS 1
+
+RT Conference Proceedings
+ID 2417906
+A1 Rogers,Alex
+A1 Dash,Rajdeep,K.
+A1 Jennings,Nicholas,R.
+A1 Reece,Steven
+A1 Roberts,Stephen
+YR 2006
+T1 Computational mechanism design for multi-sensor information fusion
+SP 1463
+OP 1464
+
+RT Conference Proceedings
+ID 4257045
+A1 Rahwan,Talal
+A1 Ramchurn,Sarvapali,D.
+A1 Dang,Viet,Dung
+A1 Jennings,Nicholas,R.
+YR 2006
+T1 Near-Optimal Anytime Coalition Structure Generation
+
+RT Book, Whole
+ID 4249053
+A1 Gerding,Enrico,H.
+A1 Rogers,Alex
+A1 Dash,Rajdeep,K.
+A1 Jennings,Nicholas,R.
+YR 2006
+T1 Sellers Competing for Buyers in Online Markets
+SP 164
+OP 170
+
+RT Book, Whole
+ID 4249544
+A1 Gimpel,Henner
+A1 Jennings,Nicholas,R.
+A1 Kersten,Gregory,E.
+A1 Ockenfels,Axel
+A1 Weinhardt,Christof
+YR 2006
+T1 Market Engineering: A Research Agenda
+SP 1
+OP 15
+
+RT Book, Whole
+ID 4249538
+A1 Dash,Rajdeep,K.
+A1 Gerding,Enrico,H.
+A1 Jennings,Nicholas,R.
+YR 2006
+T1 Optimal Financially Constrained Bidding in Multiple Simultaneous Auctions
+SP 190
+OP 199
+
+RT Conference Proceedings
+ID 4257041
+A1 Gerding,Enrico
+A1 Rogers,Alex
+A1 Dash,Rajdeep,K.
+A1 Jennings,Nicholas,R.
+YR 2006
+T1 Sellers Competing for Buyers in Online Markets: Reserve Prices, Shill Bids, and Auction Fees
+
+RT Book, Whole
+ID 2421843
+A1 Blankenburg,Bastian
+A1 He,Minghua
+A1 Klusch,Matthias
+A1 Jennings,Nicholas,R.
+YR 2006
+T1 Risk-Bounded Formation of Fuzzy Coalitions Among Service Agents
+SP 332
+OP 346
+
+RT Conference Proceedings
+ID 4249048
+A1 Jennings,Nicholas,R.
+A1 Kersten,Gregory,E.
+A1 Ockenfels,Axel
+A1 Weinhardt,Christof
+YR 2006
+T1 06461 Executive Summary -- Negotiation and Market Engineering
+
+RT Conference Proceedings
+ID 4249057
+A1 Jennings,Nicholas,R.
+A1 Kersten,Gregory,E.
+A1 Ockenfels,Axel
+A1 Weinhardt,Christof
+YR 2006
+T1 06461 Abstracts Collection -- Negotiation and Market Engineering
+
+RT Conference Proceedings
+ID 4257031
+A1 Gerding,Enrico
+A1 Dash,Rajdeep,K.
+A1 Yuen,David,C.,K.
+A1 Jennings,Nicholas,R.
+YR 2006
+T1 Optimal Strategies for Bidding on Perfect Substitutes in Simultaneous Vickrey Auctions
+
+RT Journal Article
+ID 39221386
+A1 Ramchurn,Sarvapali,D.
+A1 Sierra,Carles
+A1 Godo,Lluis
+A1 Jennings,Nicholas,R.
+YR 2006
+T1 Negotiating using rewards
+SP 400
+OP 407
+
+RT Journal Article
+ID 39221387
+A1 Karunatillake,Nishan,C.
+A1 Jennings,Nicholas,R.
+A1 Rahwan,Iyad
+A1 Ramchurn,Sarvapali,D.
+YR 2006
+T1 Managing social influences through argumentation-based negotiation
+SP 426
+OP 428
+
+RT Journal Article
+ID 1429986
+A1 ROURE,DAVID,DE
+A1 JENNINGS,NICHOLAS,R.
+A1 SHADBOLT,NIGEL,R.
+YR 2005
+T1 The Semantic Grid: Past, Present, and Future
+JF Proceedings of The IEEE
+VO 93
+SP 669
+OP 681
+IS 3
+
+RT Journal Article
+ID 1659450
+A1 Huhns,Michael,N.
+A1 Singh,Munindar,P.
+A1 Burstein,Mark,H.
+A1 Decker,Keith,S.
+A1 Durfee,Edmund,H.
+A1 Finin,Timothy,W.
+A1 Gasser,Les
+A1 Goradia,Hrishikesh,J.
+A1 Jennings,Nicholas,R.
+A1 Lakkaraju,Kiran
+A1 Nakashima,Hideyuki
+A1 Parunak,H.,Van,Dyke
+A1 Rosenschein,Jeffrey,S.
+A1 Ruvinsky,Alicia
+A1 Sukthankar,Gita
+A1 Swarup,Samarth
+A1 Sycara,Katia,P.
+A1 Tambe,Milind
+A1 Wagner,Thomas
+A1 Gutierrez,Rosa,Laura,Zavala
+YR 2005
+T1 Research Directions for Service-Oriented Multiagent Systems
+JF IEEE Internet Computing
+VO 9
+SP 65
+OP 70
+IS 6
+
+RT Journal Article
+ID 1660443
+A1 Rogers,Alex
+A1 David,Esther
+A1 Jennings,Nicholas,R.
+YR 2005
+T1 Self-organized routing for wireless microsensor networks
+JF IEEE Transactions on Systems, Man, and Cybernetics
+VO 35
+SP 349
+OP 359
+IS 3
+
+RT Conference Proceedings
+ID 1784885
+A1 Ashri,Ronald
+A1 Ramchurn,Sarvapali,D.
+A1 Sabater,Jordi
+A1 Luck,Michael
+A1 Jennings,Nicholas,R.
+YR 2005
+T1 Trust evaluation through relationship analysis
+SP 1005
+OP 1011
+
+RT Journal Article
+ID 2368849
+A1 He,Minghua
+A1 Rogers,Alex
+A1 David,Esther
+A1 Jennings,Nicholas,R.
+YR 2005
+T1 Designing and Evaluating an Adaptive Trading Agent for Supply Chain Management Applications
+
+RT Journal Article
+ID 4022560
+A1 Ramchurn,S.,D.
+A1 Huynh,D.
+A1 Jennings,N.,R.
+YR 2005
+T1 Trust in multi-agent systems
+
+RT Journal Article
+ID 1720513
+A1 Wei,Yan,Zheng
+A1 Moreau,Luc
+A1 Jennings,Nicholas,R.
+YR 2005
+T1 A market-based approach to recommender systems
+JF ACM Transactions on Information Systems
+VO 23
+SP 227
+OP 266
+IS 3
+
+RT Conference Proceedings
+ID 1782683
+A1 Rahwan,Talal
+A1 Jennings,Nicholas,R.
+YR 2005
+T1 Distributing Coalitional Value Calculations among Cooperative Agents
+SP 152
+OP 159
+
+RT Conference Proceedings
+ID 1238720
+A1 David,Esther
+A1 Rogers,Alex
+A1 Schiff,Jeremy
+A1 Kraus,Sarit
+A1 Jennings,Nicholas,R.
+YR 2005
+T1 Optimal design of English auctions with discrete bid levels
+SP 98
+OP 107
+
+RT Journal Article
+ID 1710312
+A1 Fatima,S.,Shaheen
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 2005
+T1 Bargaining with incomplete information
+JF Annals of Mathematics and Artificial Intelligence
+VO 44
+SP 207
+OP 232
+IS 3
+
+RT Journal Article
+ID 1702661
+A1 Haque,Nadim
+A1 Jennings,Nicholas,R.
+A1 Moreau,Luc
+YR 2005
+T1 Resource allocation in communication networks using market-based agents
+JF Knowledge Based Systems
+VO 18
+SP 163
+OP 170
+IS 4-5
+
+RT Journal Article
+ID 2150522
+A1 Nguyen,Thuc,Duong
+A1 Jennings,Nicholas,R.
+YR 2005
+T1 Managing commitments in multiple concurrent negotiations
+JF Electronic Commerce Research and Applications
+VO 4
+SP 362
+OP 376
+IS 4
+
+RT Journal Article
+ID 1695855
+A1 Fatima,S.,Shaheen
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 2005
+T1 A Comparative Study of Game Theoretic and Evolutionary Models of Bargaining for Software Agents
+JF Artificial Intelligence Review
+VO 23
+SP 187
+OP 205
+IS 2
+
+RT Journal Article
+ID 12396854
+A1 Paurobally,Shamimabi
+A1 Jennings,Nicholas,R.
+YR 2005
+T1 Protocol engineering for web services conversations
+JF Engineering Applications of Artificial Intelligence
+VO 18
+SP 237
+OP 254
+IS 2
+
+RT Conference Proceedings
+ID 2367951
+A1 Dash,R.,K.
+A1 Rogers,A.
+A1 Jennings,N.,R.
+A1 Reece,S.
+A1 Roberts,S.
+YR 2005
+T1 Constrained bandwidth allocation in multi-sensor information fusion: a mechanism design approach
+
+RT Conference Proceedings
+ID 1785010
+A1 Fatima,S.,Shaheen
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 2005
+T1 Sequential auctions for objects with common and private values
+SP 635
+OP 642
+
+RT Journal Article
+ID 3489045
+A1 Huynh,T.,Dong
+A1 Jennings,Nicholas,R.
+A1 Shadbolt,Nigel,R.
+YR 2005
+T1 On Handling Inaccurate Witness Reports
+
+RT Journal Article
+ID 3623042
+A1 Paurobally,S.
+A1 Jennings,N.
+YR 2005
+T1 Protocol engineering for web service conversations
+JF Engineering Applications of Artificial Intelligence
+
+RT Journal Article
+ID 2855154
+A1 Jennings,N.,R.
+YR 2005
+T1 Commitments and conventions: the foundation of coordination in multi-agent systems
+
+RT Conference Proceedings
+ID 1857392
+A1 Narayanan,Vidya
+A1 Jennings,Nicholas,R.
+YR 2005
+T1 An Adaptive Bilateral Negotiation Model for E-Commerce Settings
+SP 34
+OP 41
+
+RT Book, Whole
+ID 1784831
+A1 Karunatillake,Nishan,C.
+A1 Jennings,Nicholas,R.
+A1 Rahwan,Iyad
+A1 Norman,Timothy,J.
+YR 2005
+T1 Argument-Based Negotiation in a Social Context
+SP 104
+OP 121
+
+RT Journal Article
+ID 4130664
+A1 Zambonelli,F.
+A1 Jennings,N.
+A1 Wooldridge,M.
+YR 2005
+T1 Multi - Agent Systems as Computational Organizations: The Gaia Methodology
+
+RT Conference Proceedings
+ID 4726319
+A1 Foster,Ian,T.
+A1 Jennings,Nicholas,R.
+A1 Kesselman,Carl
+YR 2005
+T1 Brain Meets Brawn: Why Grid and Agents Need Each Other
+SP 28
+OP 40
+
+RT Journal Article
+ID 2368169
+A1 Dutta,Partha,Sarathi
+A1 Jennings,Nicholas,R.
+A1 Moreau,Luc
+YR 2005
+T1 Cooperative Information Sharing to Improve Distributed Learning in Multi-Agent Systems
+JF Journal of Artificial Intelligence Research
+VO 24
+SP 407
+OP 463
+
+RT Conference Proceedings
+ID 1785008
+A1 Blankenburg,Bastian
+A1 Dash,Rajdeep,K.
+A1 Ramchurn,Sarvapali,D.
+A1 Klusch,Matthias
+A1 Jennings,Nicholas,R.
+YR 2005
+T1 Trusted kernel-based coalition formation
+SP 989
+OP 996
+
+RT Journal Article
+ID 2955710
+A1 Ramchurn,S.
+A1 Sierra,C.
+A1 Godo,L.
+A1 Jennings,N.
+YR 2005
+T1 Devising a trust model for multiagent interactions using confidence and reputation
+JF Applied Artificial Intelligence
+
+RT Conference Proceedings
+ID 1784815
+A1 Paurobally,Shamimabi
+A1 Cunningham,Jim
+A1 Jennings,Nicholas,R.
+YR 2005
+T1 A formal framework for agent interaction semantics
+SP 91
+OP 98
+
+RT Journal Article
+ID 1653046
+A1 Wei,Yan,Zheng
+A1 Moreau,Luc
+A1 Jennings,Nicholas,R.
+YR 2005
+T1 Learning Users' Interests by Quality Classification in Market-Based Recommender Systems
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 17
+SP 1678
+OP 1688
+IS 12
+
+RT Conference Proceedings
+ID 1817973
+A1 Paurobally,Shamimabi
+A1 Jennings,Nicholas,R.
+YR 2005
+T1 Developing Agent Web Service Agreements
+SP 464
+OP 470
+
+RT Book, Whole
+ID 1848305
+A1 Karunatillake,Nishan,C.
+A1 Jennings,Nicholas,R.
+A1 Rahwan,Iyad
+A1 Norman,Timothy,J.
+YR 2005
+T1 Arguing and Negotiating in the Presence of Social Influences
+SP 223
+OP 235
+
+RT Journal Article
+ID 4589099
+A1 Haque,Nadim
+A1 Jennings,Nicholas,R.
+A1 Moreau,Luc
+YR 2005
+T1 Scalability and robustness of a network resource allocation system using market-based agents
+JF Netnomics
+VO 7
+SP 69
+OP 96
+IS 2
+
+RT Conference Proceedings
+ID 1817989
+A1 Jennings,Nick,R.
+YR 2005
+T1 Agreement Technologies
+SP 17
+
+RT Journal Article
+ID 4053977
+A1 Excelente-toledo,Cora,B.
+A1 Jennings,Nicholas,R.
+YR 2005
+T1 Using Reinforcement Learning to Coordinate Better
+JF Computational Intelligence
+VO 21
+SP 217
+OP 245
+IS 3
+
+RT Conference Proceedings
+ID 1784824
+A1 Fatima,S.,Shaheen
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 2005
+T1 An analysis of the shapley value and its uncertainty for the voting game
+SP 1201
+OP 1202
+
+RT Conference Proceedings
+ID 4038695
+A1 Rezek,I.
+A1 Roberts,S.,J.
+A1 Rogers,A.
+A1 Dash,R.,K.
+A1 Jennings,N.
+YR 2005
+T1 Unifying learning in games and graphical models
+
+RT Conference Proceedings
+ID 1871555
+A1 Penya,Yoseba,K.
+A1 Jennings,Nicholas,R.
+YR 2005
+T1 Combinatorial Markets for Efficient Energy Management
+SP 626
+OP 632
+
+RT Conference Proceedings
+ID 2479916
+A1 Penya,Yoseba,K.
+A1 Jennings,Nicholas,R.
+A1 Neumann,Gustaf
+YR 2005
+T1 An Optimal Distributed Constraint Optimisation Algorithm for Efficient Energy Management
+SP 177
+OP 182
+
+RT Journal Article
+ID 2380315
+A1 Haque,Nadim
+A1 Jennings,Nicholas,R.
+A1 Moreau,Luc
+YR 2005
+T1 Scalability and Robustness of a Market-Based Network Resource Allocation System
+
+RT Conference Proceedings
+ID 1785087
+A1 Dutta,Partha,Sarathi
+A1 Jennings,Nicholas,R.
+A1 Jennings,R.
+A1 Moreau,Luc
+YR 2005
+T1 Sharing information for Q-learning-based network bandwidth estimation and network failure detection
+SP 1107
+OP 1108
+
+RT Conference Proceedings
+ID 1881946
+A1 Fatima,S.,Shaheen
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 2005
+T1 A Model for Multi-issue Negotiation
+SP 2992
+OP 3008
+
+RT Journal Article
+ID 39221381
+A1 Karunatillake,Nishan,C.
+A1 Jennings,Nicholas,R.
+A1 Rahwan,Iyad
+A1 Norman,Timothy,J.
+YR 2005
+T1 Argument-based negotiation in a social context
+SP 1331
+OP 1332
+
+RT Book, Whole
+ID 1893619
+A1 Jennings,Nick,R.
+YR 2005
+T1 Negotiation Technologies
+SP 1
+
+RT Conference Proceedings
+ID 50438500
+A1 Jennings,N.
+YR 2005
+T1 Agreement technologies
+
+RT Conference Proceedings
+ID 1235707
+A1 Foster,Ian,T.
+A1 Jennings,Nicholas,R.
+A1 Kesselman,Carl
+YR 2004
+T1 Brain Meets Brawn: Why Grid and Agents Need Each Other
+SP 8
+OP 15
+
+RT Journal Article
+ID 2072393
+A1 RAMCHURN,SARVAPALI,D.
+A1 UYNH,DONG,H
+A1 JENNINGS,NICHOLAS,R.
+YR 2004
+T1 Trust in multi-agent systems
+
+RT Journal Article
+ID 15940
+A1 Fatima,S.,Shaheen
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 2004
+T1 An agenda-based framework for multi-issue negotiation
+JF Artificial Intelligence
+VO 152
+SP 1
+OP 45
+IS 1
+
+RT Conference Proceedings
+ID 1789403
+A1 Huynh,Trung,Dong
+A1 Jennings,Nicholas,R.
+A1 Shadbolt,Nigel,R.
+YR 2004
+T1 FIRE: An Integrated Trust and Reputation Model for Open Multi-Agent Systems
+SP 18
+OP 22
+
+RT Journal Article
+ID 15308534
+A1 RAMCHURN,SARVAPALI,D.
+A1 HUYNH,DONG
+A1 JENNINGS,NICHOLAS,R.
+YR 2004
+T1 Trust in multi-agent systems
+JF Knowledge Engineering Review
+VO 19
+IS 01
+
+RT Journal Article
+ID 1702653
+A1 Norman,Timothy,J.
+A1 Preece,Alun,D.
+A1 Chalmers,Stuart
+A1 Jennings,Nicholas,R.
+A1 Luck,Michael
+A1 Dang,Viet,Dung
+A1 Nguyen,Thuc,Duong
+A1 Deora,Vikas
+A1 Shao,Jianhua
+A1 Gray,W.,Alex
+A1 Fiddian,Nick,J
+YR 2004
+T1 Agent-based formation of virtual organisations
+JF Knowledge Based Systems
+VO 17
+SP 103
+OP 111
+IS 2-4
+
+RT Journal Article
+ID 2144179
+A1 Huynh,Dong
+A1 Jennings,Nicholas,R.
+A1 Shadbolt,Nigel,R.
+YR 2004
+T1 Developing an Integrated Trust and Reputation Model for Open Multi-Agent Systems
+
+RT Book, Whole
+ID 1856007
+A1 Bartolini,Claudio
+A1 Preist,Chris
+A1 Jennings,Nicholas,R.
+YR 2004
+T1 A Software Framework for Automated Negotiation
+SP 213
+OP 235
+
+RT Conference Proceedings
+ID 1235773
+A1 Dang,Viet,Dung
+A1 Jennings,Nicholas,R.
+YR 2004
+T1 Generating Coalition Structures with Finite Bound from the Optimal Guarantees
+SP 564
+OP 571
+
+RT Journal Article
+ID 1695644
+A1 Ramchurn,Sarvapali,D.
+A1 Jennings,Nicholas,R.
+A1 Sierra,Carles
+A1 Godo,Lluis
+YR 2004
+T1 Devising A Trust Model For Multi-Agent Interactions Using Confidence And Reputation
+JF Applied Artificial Intelligence
+VO 18
+SP 833
+OP 852
+IS 9-10
+
+RT Conference Proceedings
+ID 1236269
+A1 Coehoorn,Robert,M.
+A1 Jennings,Nicholas,R.
+YR 2004
+T1 Learning on opponent's preferences to make effective multi-issue negotiation trade-offs
+SP 59
+OP 68
+
+RT Conference Proceedings
+ID 1235834
+A1 Fatima,S.,Shaheen
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 2004
+T1 Optimal Negotiation of Multiple Issues in Incomplete Information Settings
+SP 1080
+OP 1087
+
+RT Journal Article
+ID 2178605
+A1 Excelente-Toledo,Cora,Beatriz
+A1 Jennings,Nicholas,R.
+YR 2004
+T1 The Dynamic Selection of Coordination Mechanisms
+JF Autonomous Agents and Multi-agent Systems
+VO 9
+SP 55
+OP 85
+IS 1-2
+
+RT Journal Article
+ID 2180262
+A1 Castro-schez,Jose,Jesus
+A1 Jennings,Nicholas,R.
+A1 Luo,Xudong
+A1 Shadbolt,Nigel,R.
+YR 2004
+T1 Acquiring domain knowledge for negotiating agents: a case of study
+JF International Journal of Human-computer Studies / International Journal of Man-machine Studies
+VO 61
+SP 3
+OP 31
+IS 1
+
+RT Conference Proceedings
+ID 1235832
+A1 Nguyen,Thuc,Duong
+A1 Jennings,Nicholas,R.
+YR 2004
+T1 Coordinating Multiple Concurrent Negotiations
+SP 1064
+OP 1071
+
+RT Conference Proceedings
+ID 1789394
+A1 Vytelingum,Perukrishnen
+A1 Dash,Rajdeep,K.
+A1 David,Esther
+A1 Jennings,Nicholas,R.
+YR 2004
+T1 A Risk-Based Bidding Strategy for Continuous Double Auctions
+SP 79
+OP 83
+
+RT Conference Proceedings
+ID 1235795
+A1 Dash,Rajdeep,K.
+A1 Ramchurn,Sarvapali,D.
+A1 Jennings,Nicholas,R.
+YR 2004
+T1 Trust-Based Mechanism Design
+SP 748
+OP 755
+
+RT Journal Article
+ID 2322948
+A1 Paurobally,Shamimabi
+A1 Cunningham,Jim
+A1 Jennings,Nicholas,R.
+YR 2004
+T1 Verifying the Contract Net Protocol: A Case Study in Interaction Protocol and Agent Communication Language Semantics
+
+RT Journal Article
+ID 1072973
+A1 He,Minghua
+A1 Jennings,Nicholas,R.
+YR 2004
+T1 Designing a successful trading agent: A fuzzy set approach
+JF IEEE Transactions on Fuzzy Systems
+VO 12
+SP 389
+OP 410
+IS 3
+
+RT Conference Proceedings
+ID 2342958
+A1 He,Minghua
+A1 Jennings,Nicholas,R.
+A1 Priigel-Bennett,Adam
+YR 2004
+T1 An adaptive bidding agent for multiple English auctions: a neuro-fuzzy approach
+VO 3
+SP 1519
+
+RT Conference Proceedings
+ID 1236271
+A1 Nguyen,Thuc,Duong
+A1 Jennings,Nicholas,R.
+YR 2004
+T1 Reasoning about commitments in multiple concurrent negotiations
+SP 77
+OP 84
+
+RT Book, Whole
+ID 1891374
+A1 Karunatillake,Nishan,C.
+A1 Jennings,Nicholas,R.
+YR 2004
+T1 Is It Worth Arguing?
+SP 234
+OP 250
+
+RT Conference Proceedings
+ID 1887269
+A1 Ramchurn,Sarvapali,D.
+A1 Deitch,Benjamin
+A1 Thompson,Mark,K.
+A1 Roure,David,C.,De
+A1 Jennings,Nicholas,R.
+A1 Luck,Michael
+YR 2004
+T1 Minimising Intrusiveness in Pervasive Computing Environments Using Multi-Agent Negotiation
+SP 364
+OP 372
+
+RT Book, Whole
+ID 2165762
+A1 Dash,Rajdeep,K.
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+YR 2004
+T1 A Mechanism for Multiple Goods and Interdependent Valuations
+SP 15
+OP 29
+
+RT Journal Article
+ID 13199194
+A1 AHWAN,IYAD,R
+A1 RAMCHURN,SARVAPALI,D.
+A1 JENNINGS,NICHOLAS,R.
+A1 M,PETER
+YR 2004
+T1 Argumentation-based negotiation
+
+RT Journal Article
+ID 2944965
+A1 He,M.
+A1 Jennings,N.,R.
+YR 2004
+T1 Designing a successful trading agent using fuzzy techniques
+JF IEEE Transactions on Fuzzy Systems
+
+RT Book, Whole
+ID 1833139
+A1 Wei,Yan,Zheng
+A1 Moreau,Luc
+A1 Jennings,Nicholas,R.
+YR 2004
+T1 Learning Users' Interests in a Market-Based Recommender System
+SP 833
+OP 840
+
+RT Conference Proceedings
+ID 1235941
+A1 Fatima,S.,Shaheen
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 2004
+T1 Revenue Maximising Agendas for Sequential English Auctions
+SP 1432
+OP 1433
+
+RT Book, Whole
+ID 1784089
+A1 Wei,Yan,Zheng
+A1 Moreau,Luc
+A1 Jennings,Nicholas,R.
+YR 2004
+T1 Market-Based Recommender Systems: Learning Users' Interests by Quality Classification
+SP 52
+OP 67
+
+RT Conference Proceedings
+ID 50383891
+A1 Foster,Ian
+A1 Jennings,Nicholas,R.
+A1 Kesselman,Carl
+YR 2004
+T1 Brain meets brawn:why grid and agents need each other
+
+RT Conference Proceedings
+ID 1235895
+A1 Rogers,Alex
+A1 David,Esther
+A1 Jennings,Nicholas,R.
+YR 2004
+T1 Selfish Sensors in Wireless Micro-Sensor Networks
+SP 1322
+OP 1323
+
+RT Conference Proceedings
+ID 50384014
+A1 Fatima,Shaheen
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 2004
+T1 Optimal negotiation of multiple issues in incomplete information settings
+
+RT Conference Proceedings
+ID 50384121
+A1 Fatima,Shaheen
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 2004
+T1 Revenue maximising agendas for sequential English auctions
+
+RT Conference Proceedings
+ID 50384076
+A1 Rogers,A.
+A1 David,E.
+A1 Jennings,N.,R.
+YR 2004
+T1 Selfish sensors in wireless micro-sensor networks
+
+RT Conference Proceedings
+ID 50383976
+A1 Dash,Rajdeep,K.
+A1 Ramchurn,Sarvapali,D.
+A1 Jennings,Nicholas,R.
+YR 2004
+T1 Trust-based mechanism design
+
+RT Conference Proceedings
+ID 50383954
+A1 Dang,Viet,Dung
+A1 Jennings,Nicholas,R.
+YR 2004
+T1 Generating coalition structures with finite bound from the optimal guarantees
+
+RT Conference Proceedings
+ID 50384012
+A1 Nguyen,Thuc,Duong
+A1 Jennings,Nicholas,R.
+YR 2004
+T1 Coordinating multiple concurrent negotiations
+
+RT Journal Article
+ID 1692670
+A1 Jennings,Nicholas,R.
+YR 2004
+T1 On the Application and Future of Agents and Multi-agent Systems
+JF Künstliche Intelligenz
+VO 18
+SP 38
+IS 2
+
+RT Journal Article
+ID 46968457
+A1 Jennings,N.
+YR 2004
+T1 Stand up and be counted
+JF The Computer Bulletin
+VO 46
+SP 24
+OP 24
+IS 4
+
+RT Journal Article
+ID 837631
+A1 Zambonelli,Franco
+A1 Jennings,Nicholas,R.
+A1 Wooldridge,Michael
+YR 2003
+T1 Developing multiagent systems: The Gaia methodology
+JF ACM Transactions on Software Engineering and Methodology
+VO 12
+SP 317
+OP 370
+IS 3
+
+RT Journal Article
+ID 32078
+A1 He,Minghua
+A1 Jennings,Nicholas,R.
+A1 Leung,Ho-fung
+YR 2003
+T1 On Agent-Mediated Electronic Commerce
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 15
+SP 985
+OP 1003
+IS 4
+
+RT Journal Article
+ID 849747
+A1 Dash,Rajdeep,K.
+A1 Jennings,Nicholas,R.
+A1 Parkes,David,C.
+YR 2003
+T1 Computational-Mechanism Design: A Call to Arms
+JF IEEE Expert / IEEE Intelligent Systems
+VO 18
+SP 40
+OP 47
+IS 6
+
+RT Journal Article
+ID 3959984
+A1 Roure,David,De
+A1 Jennings,Nicholas,R.
+A1 Shadbolt,Nigel,R.
+YR 2003
+T1 The Semantic Grid: A Future e-Science Infrastructure
+
+RT Journal Article
+ID 15308529
+A1 RAHWAN,IYAD
+A1 RAMCHURN,SARVAPALI,D.
+A1 JENNINGS,NICHOLAS,R.
+A1 McBURNEY,PETER
+A1 PARSONS,SIMON
+A1 SONENBERG,LIZ
+YR 2003
+T1 Argumentation-based negotiation
+JF Knowledge Engineering Review
+VO 18
+SP 343
+OP 375
+IS 4
+
+RT Journal Article
+ID 37267
+A1 Luo,Xudong
+A1 Jennings,Nicholas,R.
+A1 Shadbolt,Nigel
+A1 Leung,Ho-fung
+A1 Lee,Jimmy,Ho-man
+YR 2003
+T1 A fuzzy constraint based model for bilateral, multi-issue negotiations in semi-competitive environments
+JF Artificial Intelligence
+VO 148
+SP 53
+OP 102
+IS 1-2
+
+RT Journal Article
+ID 58116
+A1 Roure,David,De
+A1 Baker,Mark,A.
+A1 Jennings,Nicholas,R.
+A1 Shadbolt,Nigel,R.
+YR 2003
+T1 The Evolution of the Grid
+
+RT Journal Article
+ID 802369
+A1 He,Minghua
+A1 Leung,Ho-fung
+A1 Jennings,Nicholas,R.
+YR 2003
+T1 A Fuzzy-Logic Based Bidding Strategy for Autonomous Agents in Continuous Double Auctions
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 15
+SP 1345
+OP 1363
+IS 6
+
+RT Journal Article
+ID 2060045
+A1 Ramchurn,Sarvapali,D.
+A1 Jennings,Nicholas,R.
+YR 2003
+T1 A Computational Trust Model for Multi-Agent Interactions based on Confidence and Reputation
+
+RT Journal Article
+ID 2951629
+A1 Anthony,Patricia
+A1 Jennings,Nicholas,R.
+YR 2003
+T1 Developing a bidding agent for multiple heterogeneous auctions
+JF ACM Transactions on Internet Technology
+VO 3
+SP 185
+OP 217
+IS 3
+
+RT Journal Article
+ID 1593401
+A1 Jennings,N.,R.
+A1 Bussmann,S.
+YR 2003
+T1 Agent-based control systems: Why are they suited to engineering complex systems?
+JF IEEE Control Systems Magazine
+VO 23
+SP 61
+OP 73
+IS 3
+
+RT Conference Proceedings
+ID 36503
+A1 Paulussen,Torsten,O.
+A1 Jennings,Nicholas,R.
+A1 Decker,Keith,S.
+A1 Heinzl,Armin
+YR 2003
+T1 Distributed Patient Scheduling in Hospitals
+SP 1224
+OP 1232
+
+RT Conference Proceedings
+ID 495795
+A1 Fatima,S.,Shaheen
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 2003
+T1 Optimal agendas for multi-issue negotiation
+SP 129
+OP 136
+
+RT Journal Article
+ID 804410
+A1 He,Minghua
+A1 Jennings,Nicholas,R.
+YR 2003
+T1 SouthamptonTAC: An adaptive autonomous trading agent
+JF ACM Transactions on Internet Technology
+VO 3
+SP 218
+OP 235
+IS 3
+
+RT Conference Proceedings
+ID 909877
+A1 Dang,Viet,Dung
+A1 Jennings,Nicholas,R.
+YR 2003
+T1 Optimal clearing algorithms for multi-unit single-item and multi-unit combinatorial auctions with demand/supply function bidding
+SP 25
+OP 30
+
+RT Journal Article
+ID 59951
+A1 Luo,Xudong
+A1 Lee,Jimmy,Ho-man
+A1 Leung,Ho-fung
+A1 Jennings,Nicholas,R.
+YR 2003
+T1 Prioritised fuzzy constraint satisfaction problems: axioms, instantiation and validation
+JF Fuzzy Sets and Systems
+VO 136
+SP 151
+OP 188
+IS 2
+
+RT Book, Whole
+ID 1874509
+A1 Paurobally,Shamimabi
+A1 Cunningham,Jim
+A1 Jennings,Nicholas,R.
+YR 2003
+T1 Developing Agent Interaction Protocols Using Graphical and Logical Methodologies
+SP 149
+OP 168
+
+RT Conference Proceedings
+ID 495933
+A1 Paurobally,Shamimabi
+A1 Cunningham,Jim
+A1 Jennings,Nicholas,R.
+YR 2003
+T1 Ensuring consistency in the joint beliefs of interacting agents
+SP 662
+OP 669
+
+RT Conference Proceedings
+ID 23649
+A1 Wei,Yan,Zheng
+A1 Moreau,Luc
+A1 Jennings,Nicholas,R.
+YR 2003
+T1 Recommender systems: a market-based design
+SP 600
+OP 607
+
+RT Conference Proceedings
+ID 2577954
+A1 Nguyen,Thuc,Duong
+A1 Jennings,Nicholas,R.
+YR 2003
+T1 A heuristic model for concurrent bi-lateral negotiations in incomplete information settings
+SP 1467
+OP 1469
+
+RT Conference Proceedings
+ID 591752
+A1 Nguyen,Thuc,Duong
+A1 Jennings,Nicholas,R.
+YR 2003
+T1 Concurrent bi-lateral negotiation in agent systems
+SP 844
+OP 849
+
+RT Journal Article
+ID 1278611
+A1 Faratin,P.
+A1 Sierra,C.
+A1 Jennings,N.,R.
+YR 2003
+T1 Using similarity criteria to make issue trade-offs
+JF Artificial Intelligence
+
+RT Conference Proceedings
+ID 18878
+A1 Fatima,Shaheen
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 2003
+T1 Comparing Equilibria for Game-Theoretic and Evolutionary Bargaining Models
+
+RT Journal Article
+ID 806569
+A1 Paurobally,Shamimabi
+A1 Turner,Phillip,J.
+A1 Jennings,Nicholas,R.
+YR 2003
+T1 Automating negotiation for M-services
+JF IEEE Transactions on Systems, Man, and Cybernetics
+VO 33
+SP 709
+OP 724
+IS 6
+
+RT Conference Proceedings
+ID 909995
+A1 Luo,Xudong
+A1 Jennings,Nicholas,R.
+A1 Shadbolt,Nigel
+YR 2003
+T1 Knowledge-based acquisition of tradeoff preferences for negotiating agents
+SP 138
+OP 149
+
+RT Book, Whole
+ID 1783940
+A1 Luo,Xudong
+A1 Jennings,Nicholas,R.
+A1 Shadbolt,Nigel,R.
+YR 2003
+T1 Acquiring Tradeoff Preferences for Automated Negotiations: A Case Study
+SP 37
+OP 55
+
+RT Journal Article
+ID 2526340
+A1 Excelente-toledo,Cora,B.
+A1 Jennings,Nicholas,R.
+YR 2003
+T1 Learning when and how to coordinate
+JF Web Intelligence and Agent Systems: An International Journal
+VO 1
+SP 203
+OP 218
+IS 3-4
+
+RT Book, Whole
+ID 16601
+A1 Wei,Yan,Zheng
+A1 Moreau,Luc
+A1 Jennings,Nicholas,R.
+YR 2003
+T1 Market-Based Recommendations: Design, Simulation and Evaluation
+SP 61
+OP 77
+
+RT Journal Article
+ID 19534
+A1 Paurobally,Shamimabi
+A1 Turner,Phillip,J.
+A1 Jennings,Nicholas,R.
+YR 2003
+T1 Towards Automating Negotiation for M-Services
+
+RT Conference Proceedings
+ID 909874
+A1 Anthony,Patricia
+A1 Jennings,Nicholas,R.
+YR 2003
+T1 A heuristic bidding strategy for multiple heterogeneous auctions
+SP 9
+OP 16
+
+RT Journal Article
+ID 1221783
+A1 Greenwald,A.
+A1 Jennings,N.,R.
+A1 Stone,P.
+YR 2003
+T1 Agents and markets
+JF IEEE Expert / IEEE Intelligent Systems
+VO 18
+SP 12
+OP 14
+IS 6
+
+RT Journal Article
+ID 849065
+A1 Greenwald,Amy,R.
+A1 Jennings,Nicholas,R.
+A1 Stone,Peter
+YR 2003
+T1 Guest Editors' Introduction: Agents and Markets
+JF IEEE Expert / IEEE Intelligent Systems
+VO 18
+SP 12
+OP 14
+IS 6
+
+RT Journal Article
+ID 48585020
+A1 Lomuscio,Alessio,R.
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 2003
+T1 A Classification Scheme for Negotiation in Electronic Commerce
+JF Group Decision and Negotiation
+VO 12
+SP 31
+OP 56
+IS 1
+
+RT Journal Article
+ID 36744919
+A1 Faratin,Peyman
+A1 Jennings,Nicholas,R.
+YR 2003
+T1 Introduction to the Special Issue of Group Decision and Negotiation 2002: Theory and Practice of Computational Coordination Mechanisms in Multi-Agent Systems
+JF Group Decision and Negotiation
+VO 12
+SP 357
+OP 359
+IS 5
+
+RT Conference Proceedings
+ID 1904282
+A1 Excelente-toledo,Cora,B.
+A1 Jennings,Nicholas,R.
+YR 2003
+T1 Learning When to Coordinate
+SP 230
+OP 237
+
+RT Book, Whole
+ID 437682
+A1 Jennings,Nicholas,R.
+YR 2003
+T1 Negotiation Technologies
+SP 34
+OP 36
+
+RT Journal Article
+ID 61115
+A1 Faratin,Peyman
+A1 Sierra,Carles
+A1 Jennings,Nicholas,R.
+YR 2002
+T1 Using similarity criteria to make issue trade-offs in automated negotiations
+JF Artificial Intelligence
+VO 142
+SP 205
+OP 237
+IS 2
+
+RT Journal Article
+ID 3959982
+A1 Roure,David,De
+A1 Jennings,Nicholas,R.
+A1 Shadbolt,Nigel,R.
+YR 2002
+T1 The Semantic Grid: A Future e-Science Infrastructure
+JF Concurrency and Computation: Practice and Experience
+
+RT Conference Proceedings
+ID 399
+A1 Fatima,Shaheen,S.
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 2002
+T1 Multi-issue negotiation under time constraints
+SP 143
+OP 150
+
+RT Book, Whole
+ID 420092
+A1 Bartolini,Claudio
+A1 Preist,Chris
+A1 Jennings,Nicholas,R.
+YR 2002
+T1 Architecting for Reuse: A Software Framework for Automated Negotiation
+SP 88
+OP 100
+
+RT Conference Proceedings
+ID 83526
+A1 Byde,Andrew
+A1 Preist,Chris
+A1 Jennings,Nicholas,R.
+YR 2002
+T1 Decision procedures for multiple auctions
+SP 613
+OP 620
+
+RT Journal Article
+ID 1914014
+A1 Bartolini,Claudio
+A1 Gifford,Stoke
+A1 Preist,Chris
+A1 Jennings,Nicholas,R.
+YR 2002
+T1 A Generic Software Framework for Automated Negotiation
+
+RT Conference Proceedings
+ID 67639
+A1 He,Minghua
+A1 Jennings,Nicholas,R.
+YR 2002
+T1 SouthamptonTAC: Designing a Successful Trading Agent
+SP 8
+OP 12
+
+RT Journal Article
+ID 2385258
+A1 Faratin,P.
+A1 Sierra,C.
+A1 Jennings,N.,R.
+YR 2002
+T1 Using similarity criteria to make trade-o s in automated negotiations
+JF Artificial Intelligence
+
+RT Conference Proceedings
+ID 67183
+A1 Anthony,Patricia
+A1 Jennings,Nicholas,R.
+YR 2002
+T1 Evolving Bidding Strategies for Multiple Auctions
+SP 178
+OP 182
+
+RT Journal Article
+ID 852307
+A1 Sabater,Jordi
+A1 Sierra,Carles
+A1 Parsons,Simon
+A1 Jennings,Nicholas,R.
+YR 2002
+T1 Engineering Executable Agents using Multi-context Systems
+JF Journal of Logic and Computation
+VO 12
+SP 413
+OP 442
+IS 3
+
+RT Journal Article
+ID 80405
+A1 Panzarasa,Pietro
+A1 Jennings,Nicholas,R.
+A1 Norman,Timothy,J.
+YR 2002
+T1 Formalizing Collaborative Decision-making and Practical Reasoning in Multi-agent Systems
+JF Journal of Logic and Computation
+VO 12
+SP 55
+OP 117
+IS 1
+
+RT Conference Proceedings
+ID 80304
+A1 Dang,Viet,Dung
+A1 Jennings,Nicholas,R.
+YR 2002
+T1 Polynomial algorithms for clearing multi-unit single-item and multi-unit combinatorial reverse auctions
+SP 23
+OP 27
+
+RT Journal Article
+ID 61397
+A1 Reed,Chris
+A1 Norman,Timothy,J.
+A1 Jennings,Nicholas,R.
+YR 2002
+T1 Negotiating the Semantics of Agent Communication Languages
+JF Computational Intelligence
+VO 18
+SP 229
+OP 252
+IS 2
+
+RT Journal Article
+ID 2058565
+A1 Byde,A.
+A1 Preist,C.
+A1 Jennings,N.
+YR 2002
+T1 Decision procedures for multiple simultaneous auctions
+JF Autonomous Agents and Multi-agent Systems
+
+RT Book, Whole
+ID 494215
+A1 Fatima,S.,Shaheen
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 2002
+T1 The Influence of Information on Negotiation Equilibrium
+SP 180
+OP 193
+
+RT Journal Article
+ID 55140
+A1 Luo,Xudong
+A1 Zhang,Chengqi
+A1 Jennings,Nicholas,R.
+YR 2002
+T1 A Hybrid Model for Sharing Information Between Fuzzy, Uncertain and Default Reasoning Models in Multi-agent Systems
+JF International Journal of Uncertainty, Fuzziness and Knowledge-based Systems
+VO 10
+SP 401
+IS 4
+
+RT Conference Proceedings
+ID 78924
+A1 Excelente-Toledo,Cora,B.
+A1 Jennings,Nicholas,R.
+YR 2002
+T1 Learning to select a coordination mechanism
+SP 1106
+OP 1113
+
+RT Journal Article
+ID 3648853
+A1 Bussmann,S.
+A1 Jennings,N.,R.
+A1 Wooldridge,M.,J.
+YR 2002
+T1 Reuse of interaction protocols for decision-oriented applications
+
+RT Book, Whole
+ID 78526
+A1 Parsons,Simon
+A1 Jennings,Nicholas,R.
+A1 Sabater,Jordi
+A1 Sierra,Carles
+YR 2002
+T1 Agent Specification Using Multi-context Systems
+SP 205
+OP 226
+
+RT Book, Whole
+ID 495000
+A1 Bussmann,Stefan
+A1 Jennings,Nicholas,R.
+A1 Wooldridge,Michael
+YR 2002
+T1 Reuse of Interaction Protocols for Agent-Based Control Applications
+SP 73
+OP 87
+
+RT Journal Article
+ID 63134
+A1 Panzarasa,Pietro
+A1 Jennings,Nicholas,R.
+YR 2002
+T1 Social influence, negotiation and cognition
+JF Simulation Modelling Practice and Theory
+VO 10
+SP 417
+OP 453
+IS 5-7
+
+RT Conference Proceedings
+ID 56985
+A1 Moreau,Luc
+A1 Zaini,Norliza
+A1 Zhou,Jing
+A1 Jennings,Nicholas,R.
+A1 Wei,Yan,Zheng
+A1 Hall,Wendy
+A1 Roure,David,De
+A1 Gilchrist,Ian
+A1 O'dell,Mark
+A1 Reich,Siegfried
+A1 Berka,Tobias
+A1 Napoli,Claudia,Di
+YR 2002
+T1 A Market-Based Recommender System
+
+RT Journal Article
+ID 27510077
+A1 Norman,Timothy,J.
+A1 Jennings,Nicholas,R.
+YR 2002
+T1 Constructing a virtual training laboratory using intelligent agents
+JF International Journal of Continuing Engineering Education and Lifelong Learning
+VO 12
+SP 201
+IS 1/2/3/4
+
+RT Journal Article
+ID 3525660
+A1 Dang,V.,D.
+A1 Jennings,N.,R.
+YR 2002
+T1 Optimal clearing algorithms for forward and reverse combinatorial auctions with demand/supply functi
+
+RT Conference Proceedings
+ID 4524705
+A1 KALENKA,SUSANNE
+A1 JENNINGS,NICHOLAS,R.
+YR 2002
+T1 Distinguishing social agent behaviour: a formal framework
+
+RT Conference Proceedings
+ID 61227
+A1 Jennings,Nicholas,R.
+YR 2002
+T1 Agent-Based Computing
+SP 17
+OP 30
+
+RT Journal Article
+ID 10209049
+A1 Ragsdell,Gillian
+A1 Jennings,Nicholas,R
+YR 2002
+T1 Systems
+JF Or Insight
+VO 15
+SP 2
+OP 2
+IS 2
+
+RT Book, Whole
+ID 49558
+A1 Jennings,Nicholas,R.
+YR 2002
+T1 Building Automated Negotiators
+SP 19
+
+RT Journal Article
+ID 774727
+A1 Jennings,Nicholas,R.
+YR 2001
+T1 An agent-based approach for building complex software systems
+JF Communications of The ACM
+VO 44
+SP 35
+OP 41
+IS 4
+
+RT Conference Proceedings
+ID 585130
+A1 Lomuscio,Alessio
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 2001
+T1 A Classification Scheme for Negotiation in Electronic Commerce
+SP 19
+OP 33
+
+RT Journal Article
+ID 2053187
+A1 Zambonelli,Franco
+A1 Jennings,Nicholas,R.
+A1 Wooldridge,Michael
+YR 2001
+T1 Organisational Abstractions for the Analysis and Design of Multi-Agent Systems
+
+RT Journal Article
+ID 695415
+A1 Zambonelli,Franco
+A1 Jennings,Nicholas,R.
+A1 Omicini,Andrea
+A1 Wooldridge,Michael
+YR 2001
+T1 Agent-Oriented Software Engineering for Internet Applications
+
+RT Journal Article
+ID 126174
+A1 Zambonelli,Franco
+A1 Jennings,Nicholas,R.
+A1 Wooldridge,Michael
+YR 2001
+T1 Organisational Rules as an Abstraction for the Analysis and Design of Multi-Agent Systems
+JF International Journal of Software Engineering and Knowledge Engineering
+VO 11
+SP 303
+OP 328
+IS 3
+
+RT Journal Article
+ID 2128107
+A1 Roure,David,De
+A1 Jennings,Nicholas
+A1 Shadbolt,Nigel
+YR 2001
+T1 Research Agenda for the Semantic Grid: A Future e-Science Infrastructure
+
+RT Book, Whole
+ID 101840
+A1 Fatima,S.,Shaheen
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 2001
+T1 Optimal Negotiation Strategies for Agents with Incomplete Information
+SP 377
+OP 392
+
+RT Journal Article
+ID 131622
+A1 Anthony,Patricia
+A1 Dang,Viet,Dung
+A1 Jennings,Nicholas,R.
+YR 2001
+T1 AUTONOMOUS AGENTS FOR PARTICIPATING IN MULTIPLE ONLINE AUCTIONS
+
+RT Journal Article
+ID 97366
+A1 Hogg,Lisa,M.,J.
+A1 Jennings,Nicholas,R.
+YR 2001
+T1 Socially intelligent reasoning for autonomous agents
+JF IEEE Transactions on Systems, Man, and Cybernetics
+VO 31
+SP 381
+OP 393
+IS 5
+
+RT Journal Article
+ID 31943
+A1 Panzarasa,Pietro
+A1 Jennings,Nicholas,R.
+A1 Norman,Timothy,J.
+YR 2001
+T1 FORMALISING COLLABORATIVE DECISION-MAKING AND PRACTICAL REASONING IN MULTI-AGENT SYSTEMS
+JF Journal of Logic and Computation
+
+RT Conference Proceedings
+ID 112623
+A1 Excelente-Toledo,Cora,B.
+A1 Bourne,Rachel,A.
+A1 Jennings,Nicholas,R.
+YR 2001
+T1 Reasoning about commitments and penalties for coordination between autonomous agents
+SP 131
+OP 138
+
+RT Journal Article
+ID 124462
+A1 Panzarasa,Pietro
+A1 Jennings,Nicholas,R.
+A1 Norman,Timothy,J.
+YR 2001
+T1 Social Mental Shaping: Modelling the Impact of Sociality on the Mental States of Autonomous Agents
+JF Computational Intelligence
+VO 17
+SP 738
+OP 782
+IS 3
+
+RT Conference Proceedings
+ID 133709
+A1 Panzarasa,Pietro
+A1 Jennings,Nicholas,R.
+YR 2001
+T1 The Organisation of Sociality: A Manifesto for a New Science of MultiAgent Systems
+
+RT Journal Article
+ID 1383530
+A1 Matos,N.
+A1 Sierra,C.
+A1 Jennings,N.,R.
+YR 2001
+T1 Successful negotiation strategies: an evolutionary approach
+
+RT Journal Article
+ID 2799209
+A1 Jennings,N.,R.
+YR 2001
+T1 Building Complex Software System: the Case for an Agent-based Approach
+JF Communications of The ACM
+
+RT Book, Whole
+ID 120624
+A1 Bourne,Rachel,A.
+A1 Shoop,Karen
+A1 Jennings,Nicholas,R.
+YR 2001
+T1 Dynamic Evaluation of Coordination Mechanisms for Autonomous Agents
+SP 155
+OP 168
+
+RT Journal Article
+ID 124515
+A1 Panzarasa,Pietro
+A1 Jennings,Nicholas,R.
+A1 Norman,Timothy,J.
+YR 2001
+T1 Going Public and the Sale of Shares with Heterogeneous Investors: Agent-Based Computational Modelling and Computer Simulations
+
+RT Journal Article
+ID 47710393
+A1 Jennings,N.,R.
+A1 Faratin,P.
+A1 Lomuscio,A.,R.
+A1 Parsons,S.
+A1 Wooldridge,M.,J.
+A1 Sierra,C.
+YR 2001
+T1 Automated Negotiation: Prospects, Methods and Challenges
+JF Group Decision and Negotiation
+VO 10
+SP 199
+OP 215
+IS 2
+
+RT Journal Article
+ID 48281287
+A1 Panzarasa,Pietro
+A1 Jennings,Nicholas,R.
+A1 Norman,Timothy,J.
+YR 2001
+T1 Going Public and the Sale of Shares with Heterogeneous Investors: Agent‐Based Computational Modelling and Computer Simulations
+JF Group Decision and Negotiation
+VO 10
+SP 423
+OP 470
+IS 5
+
+RT Journal Article
+ID 217260
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+A1 Kinny,David
+YR 2000
+T1 The Gaia Methodology for Agent-Oriented Analysis and Design
+JF Autonomous Agents and Multi-agent Systems
+VO 3
+SP 285
+OP 312
+IS 3
+
+RT Journal Article
+ID 172239
+A1 Jennings,Nicholas,R.
+YR 2000
+T1 On agent-based software engineering
+JF Artificial Intelligence
+VO 117
+SP 277
+OP 296
+IS 2
+
+RT Conference Proceedings
+ID 180056
+A1 Jennings,N.,R.
+A1 Faratin,P.
+A1 Lomuscio,A.,R.
+A1 Parsons,S.
+A1 Sierra,C.
+A1 Wooldridge,M.
+YR 2000
+T1 Automated Negotiation: Prospects, Methods and Challenges
+
+RT Journal Article
+ID 2855156
+A1 JENNINGS,NICK,R.
+YR 2000
+T1 Commitments and Conventions: The Foundation of Coordination in Multi Agent Systems
+
+RT Journal Article
+ID 383961
+A1 Jennings,Nicholas,R.
+A1 Norman,Timothy,J.
+A1 Faratin,Peyman
+A1 O'brien,P.
+A1 Odgers,Brian
+YR 2000
+T1 Autonomous Agents for Business Process Management
+JF Applied Artificial Intelligence
+VO 14
+SP 145
+OP 189
+IS 2
+
+RT Conference Proceedings
+ID 1253130
+A1 Faratin,Peyman
+A1 Sierra,Carles
+A1 Jennings,Nicholas,R.
+YR 2000
+T1 Using Similarity Criteria to Make Negotiation Trade-Offs
+SP 119
+OP 126
+
+RT Book, Whole
+ID 494994
+A1 Zambonelli,Franco
+A1 Jennings,Nicholas,R.
+A1 Wooldridge,Michael
+YR 2000
+T1 Organizational Abstractions for the Analysis and Design of Multi-agent Systems
+SP 235
+OP 251
+
+RT Journal Article
+ID 66529
+A1 Vulkan,Nir
+A1 Jennings,Nicholas,R.
+YR 2000
+T1 Efficient mechanisms for the supply of services in multi-agent environments
+JF Decision Support Systems
+VO 28
+SP 5
+OP 19
+IS 1-2
+
+RT Journal Article
+ID 12637577
+A1 Jennings,N.,R.
+A1 Parsons,S.
+A1 Sierra,C.
+A1 Faratin,P.
+YR 2000
+T1 Automated Negotiation
+
+RT Journal Article
+ID 379865
+A1 Jennings,Nicholas,R.
+A1 Faratin,Peyman
+A1 Norman,Timothy,J.
+A1 O'brien,P.
+A1 Odgers,Brian
+A1 Alty,James,L.
+YR 2000
+T1 Implementing a Business Process Management System Using ADEPT: A Real-World Case Study
+JF Applied Artificial Intelligence
+VO 14
+SP 421
+OP 463
+IS 5
+
+RT Book, Whole
+ID 215981
+A1 Turner,Phillip,J.
+A1 Jennings,Nicholas,R.
+YR 2000
+T1 Improving the Scalability of Multi-Agent Systems
+SP 246
+OP 262
+
+RT Journal Article
+ID 2126941
+A1 Lomuscio,W.
+A1 Jennings,N.
+YR 2000
+T1 Agent-Mediated Electronic Commerce
+
+RT Conference Proceedings
+ID 179013
+A1 Bourne,Rachel,A.
+A1 Excelente-toledo,Cora,B.
+A1 Jennings,Nicholas,R.
+YR 2000
+T1 Run-Time Selection of Coordination Mechanisms in Multi-Agent Systems
+SP 348
+OP 352
+
+RT Conference Proceedings
+ID 494999
+A1 Bussmann,Stefan
+A1 Jennings,Nicholas,R.
+A1 Wooldridge,Michael
+YR 2000
+T1 On the Identification of Agents in the Design of Production Control Systems
+SP 141
+OP 162
+
+RT Journal Article
+ID 15238479
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+A1 Kinny,David
+YR 2000
+T1 The Gaia Methodology for Agent-Oriented Analysis and Design
+JF Autonomous Agents and Multi-agent Systems
+VO 3
+SP 285
+OP 312
+IS 3
+
+RT Journal Article
+ID 2066212
+A1 Norman,Timothy,J.
+A1 Jennings,Nicholas,R.
+YR 2000
+T1 Constructing a Virtual Training Laboratory using Intelligent Agents
+
+RT Journal Article
+ID 2402124
+A1 Jennings,Nick,R.
+YR 2000
+T1 On Agent-Based Software Engineering" Artificial Intelligence
+
+RT Journal Article
+ID 184042
+A1 Jennings,Nicholas,R.
+YR 2000
+T1 Building Complex Software Systems: The Case for an Agent-Based Approach
+JF Communications of The ACM
+
+RT Book, Whole
+ID 664780
+A1 Jennings,Nicholas,R.
+YR 2000
+T1 Automated Haggling: Building Artificial Negotiators
+SP 1
+
+RT Journal Article
+ID 4054321
+A1 Faratin,P.
+A1 Sierra,C.
+A1 Jennings,N.
+YR 2000
+T1 Using similarity criteria to make trade-ofis
+
+RT Journal Article
+ID 3257305
+A1 Jennings,N.,R.
+A1 Woghiren,K.
+A1 Osborn,S.
+YR 2000
+T1 Interacting AgentsDThe Way Forward for Agent-Mediated Electronic Commerce
+
+RT Journal Article
+ID 5206
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+A1 Bussmann,Stefan
+YR 2000
+T1 On the Identification of Agents
+
+RT Conference Proceedings
+ID 13283611
+A1 Jennings,Nicholas,R.
+A1 Lespérance,Yves
+YR 2000
+T1 Intelligent Agents VI, Agent Theories, Architectures, and Languages (ATAL), 6th International Workshop, ATAL '99, Orlando, Florida, USA, July 15-17, 1999, Proceedings
+
+RT Conference Proceedings
+ID 306038
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+A1 Kinnyt,David
+YR 1999
+T1 A methodology for agent-oriented analysis and design
+SP 69
+OP 76
+
+RT Book, Whole
+ID 658180
+A1 Jennings,Nicholas,R.
+YR 1999
+T1 Agent-Oriented Software Engineering
+SP 4
+OP 10
+
+RT Journal Article
+ID 1746837
+A1 Jennings,Nicholas,R.
+A1 Wooldridge,Michael
+YR 1999
+T1 Agent Technology: Foundations, Applications and Markets
+JF The Journal of Artificial Societies and Social Simulation
+VO 2
+IS 4
+
+RT Conference Proceedings
+ID 615228
+A1 Jennings,Nicholas,R.
+YR 1999
+T1 Agent-Based Computing: Promise and Perils
+SP 1429
+OP 1436
+
+RT Journal Article
+ID 51139
+A1 WOOLDRIDGE,MICHAEL,J.
+A1 Jennings,Nicholas,R.
+YR 1999
+T1 Software Engineering with Agents: Pitfalls and Pratfalls
+JF IEEE Internet Computing
+VO 3
+SP 20
+OP 27
+IS 3
+
+RT Journal Article
+ID 154348
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 1999
+T1 The Cooperative Problem-solving Process
+JF Journal of Logic and Computation
+VO 9
+SP 563
+OP 592
+IS 4
+
+RT Book, Whole
+ID 213594
+A1 Sabater,Jordi
+A1 Sierra,Carles
+A1 Parsons,Simon
+A1 Jennings,Nicholas,R.
+YR 1999
+T1 Using Multi-context Systems to Engineer Executable Agents
+SP 260
+OP 276
+
+RT Conference Proceedings
+ID 495692
+A1 Hogg,Lisa
+A1 Jennings,Nicholas,R.
+YR 1999
+T1 Variable Sociability in Agent-Based Decision Making
+SP 305
+OP 318
+
+RT Journal Article
+ID 287300
+A1 Faratin,P.
+A1 Sierra,C.
+A1 Jennings,N.,R.
+YR 1999
+T1 Designing Responsive and Deliberative Automated Negotiators
+
+RT Journal Article
+ID 216785
+A1 Beer,Martin
+A1 d'Inverno,Mark
+A1 Luck,Michael
+A1 Jennings,Nick
+A1 Preist,Chris
+A1 Schroeder,Michael
+YR 1999
+T1 Negotiation in multi-agent systems
+JF Knowledge Engineering Review
+VO 14
+SP 285
+OP 289
+IS 3
+
+RT Book, Whole
+ID 518391
+A1 Gibney,M.,A.
+A1 Jennings,Nicholas,R.
+A1 Vriend,N.,J.
+A1 Griffiths,José-marie
+YR 1999
+T1 Market-Based Call Routing in Telecommunications Networks Using Adaptive Pricing and Real Bidding
+SP 46
+OP 61
+
+RT Conference Proceedings
+ID 178346
+A1 Sierra,Carles
+A1 Faratin,Peyman
+A1 Jennings,Nicholas,R.
+YR 1999
+T1 Deliberative automated negotiators using fuzzy similarities
+SP 155
+OP 158
+
+RT Journal Article
+ID 135406
+A1 Jennings,Nicholas,R.
+A1 Panzarasa,Pietro
+A1 Norman,Timothy,J.
+YR 1999
+T1 MODELING SOCIALITY IN THE BDI FRAMEWORK
+
+RT Journal Article
+ID 77548
+A1 Gallimore,Randall,J.
+A1 Jennings,Nicholas,R.
+A1 Lamba,Harmeet,S.
+A1 Mason,Cindy,L.
+A1 Orenstein,Bernard,J.
+YR 1999
+T1 Cooperating agents for 3-D scientific data interpretation
+JF IEEE Transactions on Systems, Man, and Cybernetics
+VO 29
+SP 110
+OP 126
+IS 1
+
+RT Journal Article
+ID 2060564
+A1 Jennings,N.
+A1 Wooldridge,M.
+YR 1999
+T1 Intelligents Agents: Theory and Practice
+
+RT Conference Proceedings
+ID 583819
+A1 Sierra,Carles
+A1 Faratin,Peyman
+A1 Jennings,Nicholas,R.
+YR 1999
+T1 A Service-Oriented Negotiation Model between Autonomous Agents
+SP 201
+OP 219
+
+RT Conference Proceedings
+ID 679629
+A1 Jennings,Nicholas,R.
+A1 Mamdani,E.,H.
+YR 1999
+T1 Using Joint Responsibility To Coordinate Cooperative Problem Solving in Dynamic Environments
+SP 325
+OP 340
+
+RT Conference Proceedings
+ID 50157905
+A1 Jennings,N.
+YR 1999
+T1 Negotiating Agents for Corporate-Wide Business Process Management
+
+RT Conference Proceedings
+ID 650404
+A1 Jennings,Nicholas,R.
+YR 1999
+T1 Negotiating Agents for Corporate-Wide Business Process Management (Abstract)
+SP 2
+
+RT Journal Article
+ID 813422
+A1 Jennings,Nicholas,R.
+A1 Sycara,Katia,P.
+A1 Wooldridge,Michael
+YR 1998
+T1 A Roadmap of Agent Research and Development
+JF Autonomous Agents and Multi-agent Systems
+VO 1
+SP 7
+OP 38
+IS 1
+
+RT Journal Article
+ID 383823
+A1 Faratin,Peyman
+A1 Sierra,Carles
+A1 Jennings,Nicholas,R.
+YR 1998
+T1 Negotiation decision functions for autonomous agents
+JF Robotics and Autonomous Systems
+VO 24
+SP 159
+OP 182
+IS 3-4
+
+RT Journal Article
+ID 208119
+A1 Parsons,Simon
+A1 Sierra,Carles
+A1 Jennings,Nicholas,R.
+YR 1998
+T1 Agents That Reason and Negotiate by Arguing
+JF Journal of Logic and Computation
+VO 8
+SP 261
+OP 292
+IS 3
+
+RT Journal Article
+ID 137645
+A1 Jennings,N.,R.
+A1 Wooldridge,M.
+YR 1998
+T1 1 Applications of Intelligent Agents
+
+RT Conference Proceedings
+ID 320869
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 1998
+T1 Pitfalls of agent-oriented development
+SP 385
+OP 391
+
+RT Book, Whole
+ID 48962725
+A1 Jennings,N.
+A1 Wooldridge,M.
+YR 1998
+T1 Agent Technology : Foundations, Applications, and Markets
+
+RT Journal Article
+ID 219847
+A1 Jennings,N.,R.
+A1 Parsons,S.
+A1 Noriega,P.
+A1 Sierra,C.
+A1 Sonenberg,Liz
+YR 1998
+T1 On Argumentation-Based Negotiation
+
+RT Conference Proceedings
+ID 358792
+A1 Matos,Noyda
+A1 Sierra,Carles
+A1 Jennings,Nicholas,R.
+YR 1998
+T1 Determining Successful Negotiation Strategies: An Evolutionary Approach
+SP 182
+OP 189
+
+RT Journal Article
+ID 144036
+A1 Jennings,Nicholas,R.
+A1 Norman,Timothy,J.
+A1 Faratin,Peyman
+YR 1998
+T1 ADEPT: an agent-based approach to business process management
+JF Sigmod Record
+VO 27
+SP 32
+OP 39
+IS 4
+
+RT Journal Article
+ID 2080845
+A1 Jennings,N.,R.
+A1 Sycara,K.
+A1 Wooldridge,M.
+YR 1998
+T1 Autonomous Agents and Multi-Agent Systems
+
+RT Book, Whole
+ID 242912
+A1 Gibney,M.,A.
+A1 Jennings,Nicholas,R.
+YR 1998
+T1 Dynamic Resource Allocation by Market-Based Routing in Telecommunications Networks
+SP 102
+OP 117
+
+RT Conference Proceedings
+ID 2199000
+A1 Norman,Timothy,J.
+A1 Sierra,Carles
+A1 Jennings,Nicholas,R.
+YR 1998
+T1 Rights and Commitment in Multi-Agent Agreements
+SP 222
+OP 229
+
+RT Conference Proceedings
+ID 892807
+A1 Vulkan,Nir
+A1 Jennings,Nicholas,R.
+YR 1998
+T1 Efficient mechanisms for the supply of services in multi-agent environments
+SP 1
+OP 10
+
+RT Journal Article
+ID 15238443
+A1 Jennings,Nicholas,R.
+A1 Sycara,Katia
+A1 Wooldridge,Michael
+YR 1998
+T1 A Roadmap of Agent Research and Development
+JF Autonomous Agents and Multi-agent Systems
+VO 1
+SP 7
+OP 38
+IS 1
+
+RT Journal Article
+ID 149791
+A1 AYLETT,RUTH
+A1 BRAZIER,FRANCES
+A1 JENNINGS,NICK
+A1 LUCK,MICHAEL
+A1 Preist
+A1 Nwana,H.,S.
+YR 1998
+T1 Agent Systems and Applications
+JF Knowledge Engineering Review
+VO 13
+SP 303
+OP 308
+IS 3
+
+RT Journal Article
+ID 2005206
+A1 Jennings,N.,R.
+A1 Wooldridge,M.
+YR 1998
+T1 Applications of Agent Technology
+
+RT Journal Article
+ID 2019868
+A1 Parsons,S.
+A1 Sierra,C.
+A1 Jennings,N.
+YR 1998
+T1 Multi-context Argumentative Agents
+
+RT Journal Article
+ID 218775
+A1 Parsons,Simon
+A1 Jennings,Nick,R.
+YR 1998
+T1 Argumentation and multi-agent decision making
+
+RT Journal Article
+ID 2110685
+A1 Nir,Vulkan
+A1 R,Jennings,Nick
+YR 1998
+T1 Efficient Mechanisms for the Supply of Services in Multi-Agent Environments
+
+RT Journal Article
+ID 814111
+A1 Sierra,Carles
+A1 Jennings,Nicholas,R.
+A1 Noriega,Pablo
+A1 Parsons,Simon
+YR 1998
+T1 Negociación mediante argumentación en sistemas multiagente
+JF Inteligencia Artificial,revista Iberoamericana De Inteligencia Artificial
+VO 6
+SP 36
+OP 45
+IS 6
+
+RT Book, Whole
+ID 363662
+A1 Sierra,Carles
+A1 Faratin,Peyman
+A1 Jennings,Nicholas,R.
+YR 1997
+T1 A Service-Oriented Negotiation Model between Autonomous Agents
+SP 17
+OP 35
+
+RT Journal Article
+ID 363451
+A1 Brazier,Frances,M.,T.
+A1 Dunin-keplicz,Barbara
+A1 Jennings,Nicholas,R.
+A1 Treur,Jan
+YR 1997
+T1 DESIRE: Modelling Multi-Agent Systems in a Compositional Formal Framework
+JF International Journal of Cooperative Information Systems
+VO 6
+SP 67
+OP 94
+IS 1
+
+RT Conference Proceedings
+ID 496113
+A1 Sierra,Carles
+A1 Jennings,Nicholas,R.
+A1 Noriega,Pablo
+A1 Parsons,Simon
+YR 1997
+T1 A Framework for Argumentation-Based Negotiation
+SP 177
+OP 192
+
+RT Journal Article
+ID 2171037
+A1 Jennings,Nicholas,R.
+A1 Campos,J.,R.
+YR 1997
+T1 Towards a social level characterisation of socially responsible agents
+JF Iet Software/iee Proceedings - Software
+VO 144
+SP 11
+OP 25
+IS 1
+
+RT Book, Whole
+ID 312755
+A1 Norman,Timothy,J.
+A1 Jennings,Nicholas,R.
+A1 Faratin,Peyman
+A1 Mamdani,E.,H.
+YR 1997
+T1 Designing and Implementing a Multi-Agent Architecture for Business Process Management
+SP 261
+OP 275
+
+RT Journal Article
+ID 15308411
+A1 DORAN,J.,E.
+A1 FRANKLIN,S.
+A1 JENNINGS,N.,R.
+A1 NORMAN,T.,J.
+YR 1997
+T1 On cooperation in multi-agent systems
+JF Knowledge Engineering Review
+VO 12
+SP 309
+OP 314
+IS 3
+
+RT Conference Proceedings
+ID 165963
+A1 Jennings,N.,R.
+A1 Kalenka,S.
+YR 1997
+T1 Socially Responsible Decision Making by Autonomous Agents
+
+RT Journal Article
+ID 154833
+A1 Doran,J.,E.
+A1 Franklin,S.
+A1 Jennings,N.,R.
+A1 Norman,T.,J.
+YR 1997
+T1 On Cooperation in Multi-Agent Systemsa
+
+RT Book, Whole
+ID 589826
+A1 Nwana,Hyacinth,S.
+A1 Lee,Lyndon,C.
+A1 Jennings,Nicholas,R.
+YR 1997
+T1 Coordination in Multi-Agent Systems
+SP 42
+OP 58
+
+RT Journal Article
+ID 404427
+A1 Gibney,M.,A.
+A1 Jennings,N.,R.
+YR 1997
+T1 Market Based Multi-Agent Systems for ATM network management
+
+RT Journal Article
+ID 2015857
+A1 Wooldridge,M.
+A1 Jennings,N.
+YR 1997
+T1 Formalizing the Cooperative Problem Solving Proces
+
+RT Journal Article
+ID 3758970
+A1 Hogg,L.,M.
+A1 Jennings,N.,R.
+YR 1997
+T1 Socially rational agents
+
+RT Journal Article
+ID 218597
+A1 Hogg,Lisa,M.
+A1 Jennings,Nick,R.
+YR 1997
+T1 Socially Rational Agents - Some Preliminary Thoughts
+
+RT Journal Article
+ID 1992608
+A1 Norman,T.,J.
+A1 Jennings,N.,R.
+YR 1997
+T1 Generating states of cooperation between autonomous agents
+
+RT Book, Whole
+ID 398092
+A1 Norman,Timothy,J.
+A1 Jennings,Nicholas,R.
+YR 1997
+T1 Generating States of Joint Commitment between Autonomous Agents
+SP 123
+OP 133
+
+RT Journal Article
+ID 3495374
+A1 Turner,Pj
+A1 Jennings,Nr
+YR 1997
+T1 On Scalability of Information Management Agents
+
+RT Conference Proceedings
+ID 13283601
+A1 Müller,Jörg,P.
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 1997
+T1 Intelligent Agents III, Agent Theories, Architectures, and Languages, ECAI '96 Workshop (ATAL), Budapest, Hungary, August 12-13, 1996, Proceedings
+
+RT Journal Article
+ID 719761
+A1 Jennings,Nicholas,R.
+A1 Crabtree,I.,Barry
+YR 1997
+T1 Practical Applications of Intelligent Agents and Multiagent Technology - Introduction to the Special Issue
+JF Applied Artificial Intelligence
+VO 11
+SP 3
+OP 4
+IS 5
+
+RT Journal Article
+ID 719773
+A1 Jennings,Nicholas,R.
+A1 Crabtree,I.,Barry
+YR 1997
+T1 Introduction to the Special Issue
+JF Applied Artificial Intelligence
+VO 11
+SP 3
+OP 4
+IS 6
+
+RT Journal Article
+ID 46889382
+A1 Jennings,Nick
+YR 1997
+T1 Editorial: Developing agent-based systems
+JF Iee Proceedings - Software Engineering
+VO 144
+SP 1
+IS 1
+
+RT Journal Article
+ID 366817
+A1 Jennings,Nicholas,R.
+A1 Faratin,Peyman
+A1 Johnson,M.,J.
+A1 Norman,Timothy,J.
+A1 O'brien,P.
+A1 Wiegand,M.,E.
+YR 1996
+T1 Agent-Based Business Process Management
+JF International Journal of Cooperative Information Systems
+VO 5
+SP 105
+OP 130
+IS 2&3
+
+RT Book, Whole
+ID 2110683
+A1 O'Hare,Gregory,M.,P.
+A1 Jennings,Nicholas,R.
+YR 1996
+T1 Foundations of distributed artificial intelligence
+
+RT Conference Proceedings
+ID 401264
+A1 Parsons,Simon
+A1 Jennings,N.,r.
+YR 1996
+T1 Negotiation Through Argumentation-a Preliminary Report
+
+RT Journal Article
+ID 317055
+A1 Jennings,N.,R.
+A1 Corera,J.,M.
+A1 Laresgoiti,I.
+A1 Mamdani,E.,H.
+A1 Perriollat,F.
+A1 Skarek,P.
+A1 Varga,L.,Z.
+YR 1996
+T1 Using ARCHON™ to develop real-world DAI applications for electricity transportation management and particle accelerator control
+
+RT Journal Article
+ID 365717
+A1 Jennings,N.,R.
+A1 Faratin,P.
+A1 Johnson,M.,J.
+A1 O'Brien,P.
+A1 Wiegand,M.,E.
+YR 1996
+T1 Using Intelligent Agents to Manage Business Processes
+
+RT Conference Proceedings
+ID 307542
+A1 Jennings,N.,R.
+YR 1996
+T1 Coordination Techniques for Distributed Artificial Intelligence
+
+RT Journal Article
+ID 12337230
+A1 Jennings,Nick
+A1 Wooldridge,Michael
+YR 1996
+T1 Software agents
+JF Iee Review
+VO 42
+SP 17
+IS 1
+
+RT Journal Article
+ID 214703
+A1 Nwana,Hyacinth
+A1 Lee,Lyndon
+A1 Jennings,Nick
+YR 1996
+T1 Coordination in Software Agent Systems
+
+RT Conference Proceedings
+ID 2098746
+A1 Cockburn,D.
+A1 Jennings,N.,R.
+YR 1996
+T1 ARCHON: A distributed artificial intelligence system for industrial applications
+
+RT Journal Article
+ID 4049798
+A1 Jennings,Nicholas,R.
+A1 Mamdani,E.,H.
+A1 Corera,Jose,Manuel
+A1 Laresgoiti,Iñaki
+A1 Perriollat,Fabien
+A1 Skarek,Paul
+A1 Varga,László,Zsolt
+YR 1996
+T1 Using Archon to Develop Real-World DAI Applications, Part 1
+JF IEEE Expert / IEEE Intelligent Systems
+VO 11
+SP 64
+OP 70
+IS 6
+
+RT Journal Article
+ID 348002
+A1 Jennings,N.,R.
+A1 Faratin,P.
+A1 Norman,T.,J.
+A1 O'Brien,P.
+A1 Wiegand,M.,E.
+A1 Voudouris,C.
+A1 Alty,J.,L.
+A1 Miah,T.
+A1 Mamdani,E.,H.
+YR 1996
+T1 ADEPT: Managing Business Processes using Intelligent Agents
+
+RT Journal Article
+ID 14401706
+A1 Jennings,Nick,R.
+A1 Mamdani,E.,H.
+A1 Corera,J.,M.
+A1 Laresgoiti,I.
+A1 Perriolat,F.
+A1 Skarek,P.
+A1 Varga,L.,Z.
+YR 1996
+T1 Using Archon to develop real-world DAI applications. 1
+JF IEEE Expert / IEEE Intelligent Systems
+VO 11
+SP 64
+OP 70
+IS 6
+
+RT Journal Article
+ID 376830
+A1 Jennings,R.
+A1 Jennings,Nick,R.
+A1 Treur,Jan
+YR 1996
+T1 Modelling Distributed Industrial Processes in a Multi-Agent Framework
+
+RT Journal Article
+ID 849697
+A1 Corera,Jose,Manuel
+A1 Laresgoiti,Iñaki
+A1 Jennings,Nicholas,R.
+YR 1996
+T1 Using Archon, Part 2: Electricity Transportation Management
+JF IEEE Expert / IEEE Intelligent Systems
+VO 11
+SP 71
+OP 79
+IS 6
+
+RT Journal Article
+ID 4049792
+A1 Perriollat,Fabien
+A1 Skarek,Paul
+A1 Varga,L.,Z.
+A1 Jennings,Nick,R.
+YR 1996
+T1 Using Archon.3. Particle acceleration control
+JF IEEE Expert / IEEE Intelligent Systems
+VO 11
+SP 80
+OP 86
+IS 6
+
+RT Journal Article
+ID 3116823
+A1 O'hare,G
+A1 Jennings,N
+YR 1996
+T1 Foundations of Distributed AI
+
+RT Journal Article
+ID 14401707
+A1 Corera,Jose,Manuel
+A1 Laresgoiti,I.
+A1 Jennings,N.,R.
+YR 1996
+T1 Using Archon. 2. Electricity transportation management
+JF IEEE Expert / IEEE Intelligent Systems
+VO 11
+SP 71
+OP 79
+IS 6
+
+RT Journal Article
+ID 849473
+A1 Perriollat,Fabien
+A1 Skarek,Paul
+A1 Varga,László,Zsolt
+A1 Jennings,Nicholas,R.
+YR 1996
+T1 Using Archon, Part 3: Particle Acceleration Control
+JF IEEE Expert / IEEE Intelligent Systems
+VO 11
+SP 80
+OP 86
+IS 6
+
+RT Journal Article
+ID 2944937
+A1 Jennings,N.,R.
+A1 Pople,J.,A.
+A1 Mamdani,E.,H.
+YR 1996
+T1 Designing a reusable co-ordination module for co-operative industrial control applications
+JF Iee Proceedings-control Theory and Applications
+VO 143
+SP 91
+IS 1
+
+RT Journal Article
+ID 823378
+A1 Jennings,Nicholas,R.
+YR 1996
+T1 Special Issue on Tackling Complex Applications Using Multi-Agent Systems
+JF International Journal of Cooperative Information Systems
+VO 5
+SP 101
+OP 104
+IS 2&3
+
+RT Conference Proceedings
+ID 50050034
+A1 Altman,Z.
+A1 Mittra,R.
+A1 Jennings,N.
+A1 Murphy,J.
+YR 1996
+T1 A novel scaling procedure for deriving the solution to large-body scattering problems
+
+RT Journal Article
+ID 380669
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 1995
+T1 Intelligent Agents: Theory and Practice
+JF Knowledge Engineering Review
+VO 10
+SP 115
+IS 02
+
+RT Journal Article
+ID 177354
+A1 Jennings,Nicholas,R.
+YR 1995
+T1 Controlling Cooperative Problem Solving in Industrial Multi-Agent Systems Using Joint Intentions
+JF Artificial Intelligence
+VO 75
+SP 195
+OP 240
+IS 2
+
+RT Journal Article
+ID 1300258
+A1 Woolridge,M.
+A1 Jennings,N.
+YR 1995
+T1 Intelligent agents: theory and practice
+JF Knowledge Engineering Review
+
+RT Journal Article
+ID 2085914
+A1 Wooldridge,M.
+A1 Jennings,N
+YR 1995
+T1 Intelligent agents: theory and practice The Knowledge Engineering Review
+
+RT Conference Proceedings
+ID 2371322
+A1 Brazier,Frances,M.,T.
+A1 Dunin-keplicz,Barbara
+A1 Jennings,Nick,R.
+A1 Treur,Jan
+YR 1995
+T1 Formal Specification of Multi-Agent Systems: A Real-World Case
+SP 25
+OP 32
+
+RT Journal Article
+ID 57690
+A1 Keplicz,Barbara,Dunin
+A1 Jennings,Nick,R.
+YR 1995
+T1 Formal Specification of Multi-Agent Systems
+
+RT Journal Article
+ID 719577
+A1 Huang,Jun
+A1 Jennings,Nicholas,R.
+A1 Fox,John
+YR 1995
+T1 Agent-based approach to health care management
+JF Applied Artificial Intelligence
+VO 9
+SP 401
+OP 420
+IS 4
+
+RT Journal Article
+ID 719671
+A1 Jennings,Nicholas,R.
+A1 Wooldridge,Michael
+YR 1995
+T1 Applying agent technology
+JF Applied Artificial Intelligence
+VO 9
+SP 357
+OP 369
+IS 4
+
+RT Conference Proceedings
+ID 1881046
+A1 Jennings,Nicholas,R.
+A1 Corera,Jose,Manuel
+A1 Laresgoiti,Iñaki
+YR 1995
+T1 Developing Industrial Multi-Agent Systems
+SP 423
+OP 430
+
+RT Journal Article
+ID 25342
+A1 Jennings,N.,R.
+A1 Jackson,A.,J.
+YR 1995
+T1 Agent-based meeting scheduling: A design and implementation
+JF Electronics Letters
+VO 31
+SP 350
+IS 5
+
+RT Conference Proceedings
+ID 164148
+A1 Huntbach,Matthew,M.
+A1 Jennings,Nick,R.
+A1 Ringwood,Graem,A.
+YR 1995
+T1 How Agents Do It in Stream Logic Programming
+SP 177
+OP 184
+
+RT Journal Article
+ID 2738709
+A1 Cockburn,D.
+A1 Jennings,N.,R.
+YR 1995
+T1 ARCHON: A DAI System for Industrial Applications
+
+RT Journal Article
+ID 1969931
+A1 Jennings,N.
+A1 Corera,J.,M.
+A1 Laresgoiti,L.
+A1 Mamdani,E.
+A1 Perriollat,F.
+A1 Skarek,P.
+A1 Varga,L.
+YR 1995
+T1 Using ARCHON to Develop Real-World DAI Applications for Electricity Transportation and Particle Accelerator Control
+
+RT Journal Article
+ID 2025715
+A1 Jennings,N.
+YR 1995
+T1 The archon systems and its applications
+
+RT Journal Article
+ID 2118831
+A1 Brazier,F.
+A1 Dunin-keplicz,B.
+A1 Jennings,N.,R.
+A1 Treur,Jan
+YR 1995
+T1 Formal specifications of multi-agents systems: A real-world case study
+
+RT Journal Article
+ID 162143
+A1 Kalenka,S.
+A1 Jennings,N.,R.
+YR 1995
+T1 On Social Attitudes: A Preliminary Report
+
+RT Journal Article
+ID 2738516
+A1 Wooldridge,M.
+A1 Jennings,N.,R.
+YR 1995
+T1 Architectures and Languages: A Survey
+
+RT Journal Article
+ID 26513954
+A1 Pham,D.,T.
+A1 Jennings,N.,R.
+A1 Ross,I.
+YR 1995
+T1 Intelligent visual inspection of valve-stem seals
+JF Control Engineering Practice
+VO 3
+SP 1237
+OP 1245
+IS 9
+
+RT Journal Article
+ID 2825178
+A1 Jennings,N.,R.
+A1 Campos,J.,R.
+YR 1995
+T1 Characterising Socially Responsible Agents
+
+RT Conference Proceedings
+ID 13263538
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 1995
+T1 Intelligent Agents, ECAI94 Workshop on Agent Theories, Architectures, and Languages, Amsterdam, The Netherlands, August 8-9, 1994, Proceedings
+
+RT Book, Whole
+ID 337114
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 1994
+T1 Agent Theories, Architectures, and Languages: A Survey
+SP 1
+OP 39
+
+RT Journal Article
+ID 215377
+A1 Varga,László,Z.
+A1 Jennings,Nick,R.
+A1 Cockburn,David
+YR 1994
+T1 Integrating intelligent systems into a cooperating community for electricity distribution management
+JF Expert Systems With Applications
+VO 7
+SP 563
+OP 579
+IS 4
+
+RT Conference Proceedings
+ID 1986051
+A1 Jennings,N.,R.
+YR 1994
+T1 Cooperation in Industrial Multi-Agent Systems
+
+RT Conference Proceedings
+ID 388321
+A1 Wooldridge,Michael,J.
+A1 Jennings,Nicholas,R.
+YR 1994
+T1 Formalizing the Cooperative Problem Solving Process
+
+RT Journal Article
+ID 2664170
+A1 Alty,J.,L.
+A1 Griffiths,D.
+A1 Jennings,N.,R.
+A1 Mamdani,E.,H.
+A1 Struthers,A.
+A1 Wiegand,M.,E.
+YR 1994
+T1 ADEPT* - Advanced Decision Environment for Process Tasks: Overview and Architecture
+
+RT Conference Proceedings
+ID 660926
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+YR 1994
+T1 Towards a Theory of Cooperative Problem Solving
+SP 40
+OP 53
+
+RT Journal Article
+ID 220049
+A1 Wittig,T.
+A1 Jennings,N.,R.
+A1 Mamdani,E.,H.
+YR 1994
+T1 ARCHON: framework for intelligent co-operation
+JF Intelligent Systems Engineering
+VO 3
+SP 168
+IS 3
+
+RT Journal Article
+ID 353812
+A1 Jennings,N.,R.
+YR 1994
+T1 THE ARCHON™ SYSTEM AND ITS APPLICATIONS
+
+RT Conference Proceedings
+ID 592617
+A1 Huang,Jun
+A1 Jennings,Nicholas,R.
+A1 Fox,John
+YR 1994
+T1 An Agent Architecture for Distributed Medical Care
+SP 219
+OP 232
+
+RT Conference Proceedings
+ID 360739
+A1 Malheiro,Benedita
+A1 Jennings,Nicholas,R.
+A1 Oliveira,Eugenio
+YR 1994
+T1 Belief Revision in Multi-Agent Systems
+SP 294
+OP 298
+
+RT Conference Proceedings
+ID 650412
+A1 Huang,Jun
+A1 Jennings,Nicholas,R.
+A1 Fox,John
+YR 1994
+T1 Cooperation in Distributed Medcal Care
+SP 255
+OP 263
+
+RT Journal Article
+ID 3872711
+A1 Wooldridge,M.
+A1 Jennings,N.
+YR 1994
+T1 The cooperative problem solving process: A formal model
+
+RT Journal Article
+ID 2684912
+A1 Huang,Jun
+A1 Jennings,N.,R.
+A1 Fox,John
+YR 1994
+T1 An Agent-based Approach to Health Care Management
+JF Applied Artificial Intelligence
+
+RT Journal Article
+ID 221045
+A1 Jennings,Nick,R.
+YR 1993
+T1 Commitments and Conventions: The Foundation of Coordination in MultiAgent Systems
+
+RT Journal Article
+ID 15308235
+A1 Jennings,Nick,R.
+YR 1993
+T1 Commitments and Conventions: The Foundation of Coordination in Multi-Agent Systems
+JF Knowledge Engineering Review
+VO 8
+SP 223
+OP 250
+IS 03
+
+RT Journal Article
+ID 349380
+A1 Jennings,N.,R.
+A1 Varga,L.,Z.
+A1 Aarnts,R.,P.
+A1 Fuchs,J.
+A1 Skarek,P.
+YR 1993
+T1 Transforming Standalone Expert Systems into a Community of Cooperating Agents
+JF Engineering Applications of Artificial Intelligence
+
+RT Journal Article
+ID 166132
+A1 Jennings,Nicholas,R.
+YR 1993
+T1 Specification and Implementation of a Belief Desire-Joint_intention Architecture for Cooperative Problem Solving
+JF International Journal of Cooperative Information Systems
+VO 2
+SP 289
+OP 318
+IS 3
+
+RT Journal Article
+ID 215610
+A1 Jennings,Nick,R.
+A1 Pople,J.,A.
+YR 1993
+T1 DESIGN AND IMPLEMENTATION OF ARCHON'S COORDINATION MODULE
+
+RT Journal Article
+ID 26644449
+A1 JENNINGS,N
+A1 VARGA,L
+A1 AARNTS,R
+A1 FUCHS,J
+A1 SKAREK,P
+YR 1993
+T1 Transforming standalone expert systems into a community of cooperating agents
+JF Engineering Applications of Artificial Intelligence
+VO 6
+SP 317
+OP 331
+IS 4
+
+RT Journal Article
+ID 2942433
+A1 Jennings,N
+A1 Oliveira,E
+A1 Mouta,F
+A1 Rocha,A
+A1 Tuijnman,F.
+A1 Affarmanesh,H.
+A1 Wiedijk,G.
+YR 1993
+T1 Design guidelines for full AL functionalities
+
+RT Journal Article
+ID 323810
+A1 Jennings,Nicholas,R.
+YR 1993
+T1 Coordination through Joint Intentions in Industrial Multiagent Systems
+JF Ai Magazine
+VO 14
+SP 79
+OP 80
+IS 4
+
+RT Conference Proceedings
+ID 491782
+A1 Jennings,Nicholas,R.
+A1 Mamdani,E.,H.
+YR 1992
+T1 Using Joint Responsibility to Coordinate Collaborative Problem Solving in Dynamic Environments
+SP 269
+OP 275
+
+RT Conference Proceedings
+ID 221121
+A1 Jennings,Nicholas,R.
+YR 1992
+T1 Towards a Cooperation Knowledge Level For Collaborative Problem Solving
+SP 224
+OP 228
+
+RT Journal Article
+ID 12881367
+A1 Jennings,N.,R.
+A1 Mamdani,E.,H.
+A1 Laresgoiti,I.
+A1 Perez,J.
+A1 Corera,J.
+YR 1992
+T1 GRATE: a general framework for co-operative problem solving
+JF Intelligent Systems Engineering
+VO 1
+SP 102
+IS 2
+
+RT Journal Article
+ID 1983201
+A1 JENNINGS,N.,R.
+YR 1992
+T1 ARCHON: Theory and Practice
+
+RT Journal Article
+ID 3161982
+A1 Jennings,N.,R.
+A1 Mamdani,E.,H.
+A1 Laresgoiti,I.
+A1 Perez,J.
+A1 Corera,J.
+YR 1992
+T1 GRATE: A General Framework for Cooperative Problem Solving
+
+RT Journal Article
+ID 886396
+A1 Jennings,N.,R.
+YR 1992
+T1 On being responsible (abstract)
+JF ACM Sigois Bulletin
+VO 13
+SP 8
+IS 3
+
+RT Journal Article
+ID 396850
+A1 Cockburn,David
+A1 Varga,Laszlo,Zsolt
+A1 Jennings,Nick
+YR 1992
+T1 Cooperating Intelligent Systems for Electricity Distribution
+
+RT Journal Article
+ID 2009087
+A1 Jennings,N.,R.
+YR 1992
+T1 Using grate to build cooperating agents for industrial control
+JF Annual Review in Automatic Programming
+VO 17
+SP 397
+OP 402
+
+RT Journal Article
+ID 1999249
+A1 Jennings,N.
+YR 1992
+T1 Joint Intentions as a Model of Multi-Agent Cooperation
+
+RT Journal Article
+ID 216165
+A1 Roda,C.
+A1 Jennings,N.,R.
+A1 Mamdani,E.,H.
+YR 1991
+T1 The Impact of Heterogeneity on Cooperating Agents
+
+RT Journal Article
+ID 1983205
+A1 Aarnts,R.,P.
+A1 Corera,J.
+A1 Perez,J.
+A1 Gureghian,D.
+A1 Jennings,N.,R.
+YR 1991
+T1 Examples of Cooperative Situations and their Implementation
+
+RT Journal Article
+ID 220875
+A1 Jennings,N.,R.
+YR 1991
+T1 COOPERATION IN INDUSTRIAL SYSTEMS
+
+RT Conference Proceedings
+ID 2738712
+A1 Jennings,N.,R.
+YR 1991
+T1 ARCHON: An Architecture for Cooperating Systems
+
+RT Conference Proceedings
+ID 2690521
+A1 Jennings,N.,R.
+YR 1991
+T1 An Architecture for Cooperating Systems
+
+RT Journal Article
+ID 12996725
+A1 Jennings,Nick
+YR 1967
+T1 Problem Solving
+JF Nature
+VO 215
+SP 1119
+OP 1119
+IS 5106
+
+RT Book, Whole
+ID 1757
+A1 Sierra,Carles
+A1 Jennings,Nick,R.
+A1 Noriega,Pablo
+A1 Parsons,Simon
+T1 A framework for argumentation-based negotiation
+
+RT Journal Article
+ID 12737349
+A1 Jennings,N.,R.
+T1 ON BEING RESPONSIBLE1
+
+RT Journal Article
+ID 6939353
+A1 JENNINGS,NICK,R.
+T1 SPECIFICATION AND IMPLEMENTATION OF A BELIEF-DESIRE- JOINT-INTENTION ARCHITECTURE FOR COLLABORATIVE PROBLEM SOLVING
+
+RT Journal Article
+ID 1261350
+A1 Faratin,P.
+A1 Jennings,N.,R.
+A1 Buckle,P.
+A1 Sierra,C.
+T1 Automated Negotiation for Provisioning Virtual Private Networks using FIPA-Compliant Agents
+
+RT Journal Article
+ID 13038750
+A1 Jennings,Nick,R.
+A1 Cockburn,David
+T1 Integrating Intelligent Systems into a Cooperating Community for Electricity Distribution Management
+JF Expert Systems With Applications
+
+RT Book, Whole
+ID 387081
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+T1 Towards a theory of cooperative problem solving
+
+RT Journal Article
+ID 2278736
+A1 Norman,Timothy,J
+A1 Preece,Alun
+A1 Chalmers,Stuart
+A1 Jennings,Nicholas,R.
+A1 Luck,Michael
+A1 Dang,Viet,D
+A1 Nguyen,Thuc,D
+A1 Deora,Vikas
+A1 Shao,Jianhua
+A1 Gray,W,Alex
+A1 Fiddian,Nick,J
+T1 CONOISE: Agent-Based Formation of Virtual Organisations
+
+RT Journal Article
+ID 33867
+A1 Jennings,Nicholas,R.
+A1 Bussmann,Stefan
+T1 Agent-Based Control Systems
+
+RT Journal Article
+ID 2007070
+A1 Kalenka,S.
+A1 Jennings,N.,R.
+T1 Socially Responsible Decision Making by Autonomous Agents
+
+RT Journal Article
+ID 2060046
+A1 Ramchurn,Sarvapali,D.
+A1 Jennings,Nicholas,R.
+A1 Sierra,Carles
+T1 Persuasive Negotiation for Autonomous Agents: A Rhetorical Approach
+
+RT Book, Whole
+ID 368099
+A1 Huang,Jun
+A1 Jennings,N.,R.
+A1 Fox,John
+T1 An agent architecture for distributed medical care
+
+RT Journal Article
+ID 12756601
+A1 Hogg,L.,M.
+A1 Jennings,N.,R.
+T1 Socially Rational Agents
+
+RT Journal Article
+ID 3318519
+A1 Oliveira,Eugénio
+A1 Fonseca,José,Manuel
+A1 Jennings,Nicholas,R.
+T1 Learning to be Competitive in the Market
+
+RT Book, Whole
+ID 47646322
+A1 Haque,Nadim
+A1 Jennings,Nicholas,R.
+A1 Moreau,Luc
+T1 Resource Allocation in Communication Networks Using Market-Based Agents
+
+RT Journal Article
+ID 4581681
+A1 Huynh,Trung,Dong
+A1 Dash,Rajdeep,K.
+A1 Jennings,Nicholas,R.
+T1 The ART of IAM: The Winning Strategy for the 2006 Competition
+
+RT Journal Article
+ID 10490393
+A1 Brazier,Frances,M.,T.
+A1 Dunin-Kepliczb,Barbara
+A1 Jennings,Nick,R.
+A1 Treur,Jan
+T1 Modelling Distributed Industrial Processes in a Multi-Agent Framework
+
+RT Journal Article
+ID 4458459
+A1 Roure,David,De
+A1 Jennings,Nicholas
+A1 Shadbolt,Nigel
+T1 A Future e-Science Infrastructure
+
+RT Conference Proceedings
+ID 10253347
+A1 Panzarasa,Pietro
+A1 Jennings,Nicholas,R.
+T1 The Organisation of Sociality: A Manifesto for a New Science of Multi Agent Systems
+
+RT Journal Article
+ID 2569855
+A1 Vytelingum,Perukrishnen
+A1 Dash,Rajdeep,K.
+A1 He,Minghua
+A1 Jennings,Nicholas,R.
+T1 A Framework for Designing Strategies for Trading Agents
+
+RT Journal Article
+ID 12328663
+A1 Jennings,Nicholas,R.
+T1 Agent Software
+
+RT Journal Article
+ID 11426515
+A1 Kho,Johnsen
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+T1 Decentralised Adaptive Sampling of Wireless Sensor Networks
+
+RT Journal Article
+ID 10151640
+A1 Norman,Timothy,J.
+A1 Preece,Alun
+A1 Chalmers,Stuart
+A1 Jennings,Nicholas,R.
+A1 Luck,Michael
+A1 Dang,Viet,D.
+A1 Nguyen,Thuc,D.
+A1 Deora,Vikas
+A1 Shao,Jianhua
+A1 Gray,W.,Alex
+A1 Fiddian,Nick,J.
+T1 Agent-based formation of virtual organisations
+
+RT Book, Whole
+ID 2399241
+A1 Rogers,A.
+A1 David,E.
+A1 Schiff,J.
+A1 Kraus,S.
+A1 Jennings,N.,R.
+T1 Learning Environmental Parameters for the Design of Optimal English Auctions with Discrete Bid Levels
+
+RT Journal Article
+ID 215555
+A1 Gallimore,R.,J.
+A1 Jennings,N.,R.
+A1 Lamba,H.,S.
+A1 Mason,C.,L.
+A1 Orenstein,B.,J.
+T1 3D Scientific Data Interpretation using Cooperating Agents
+
+RT Journal Article
+ID 12948347
+A1 Jennings,Nicholas,Robert
+T1 Joint Intentions as a Model of Multi-Agent Cooperation in Complex Dynamic Environments
+
+RT Journal Article
+ID 21062
+A1 Dutta,Partha,Sarathi
+A1 Moreau,Luc
+A1 Jennings,Nicholas,R.
+T1 Finding interaction partners using cognition-based decision strategies
+
+RT Journal Article
+ID 4506680
+A1 Jennings,Nicholas,R.
+A1 Cohn,A.,G.
+A1 Fox,M.
+A1 Long,D.
+A1 Luck,M.
+A1 Michaelides,D.,t
+A1 Munroe,S.
+A1 Weal,M.,J.
+T1 Interaction Planning and Motivation
+
+RT Journal Article
+ID 2581161
+A1 Jennings,Nick
+T1 A Knowledge Level Approach to Collaborative Problem Solving
+
+RT Journal Article
+ID 5019105
+A1 Ramchurn,Sarvapali,D.
+A1 Jennings,Nicholas,R.
+T1 Trust in agent-based software
+
+RT Journal Article
+ID 5827395
+A1 Williamson,Simon,A.
+A1 Gerding,Enrico,H.
+A1 Jennings,Nicholas,R.
+T1 A Principled Information Valuation for Communications During Multi-Agent Coordination
+
+RT Journal Article
+ID 10488880
+A1 Moreau,Luc
+A1 Roure,David,De
+A1 Jennings,Nicholas
+T1 MAGNITUDE: Mobile Agents Negotiating for Itinerant Users in the Distributed Enterprise
+
+RT Journal Article
+ID 4491266
+A1 Gimpel,Henner
+A1 Jennings,Nicholas,R.
+A1 Kersten,Gregory,E.
+A1 Ockenfels,Axel
+A1 Weinhardt,Christof
+T1 Negotiation, Auctions, and Market Engineering
+
+RT Journal Article
+ID 5834800
+A1 Padhy,Paritosh
+A1 Dash,Rajdeep,K.
+A1 Martinez,Kirk
+A1 Jennings,Nicholas,R.
+T1 A Utility-Based Adaptive Sensing and Multi-Hop Communication Protocol for Wireless Sensor Networks
+
+RT Journal Article
+ID 12995229
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+T1 Agents: Theory and Practice
+
+RT Journal Article
+ID 2899981
+A1 Dutta,Partha,S.
+A1 Dasmahapatra,Srinandan
+A1 Gunn,Steve,R.
+A1 Jennings,Nicholas,R.
+A1 Moreau,Luc
+T1 Cooperative Information Sharing to Improve Distributed Learning
+JF Autonomous Agents and Multi-agent Systems
+
+RT Journal Article
+ID 5238616
+A1 Stranders,Ruben
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+T1 A Decentralised On-Line Coordination Mechanism for Monitoring Spatial Phenomena with Mobile Sensors
+
+RT Journal Article
+ID 5818710
+A1 Farinelli,A.
+A1 Rogers,A.
+A1 Jennings,N.,R.
+T1 Maximising Sensor Network Efficiency Through Agent-Based Coordination of Sense/Sleep Schedules
+
+RT Journal Article
+ID 10791326
+A1 Panzarasa,Pietro
+A1 Jennings,Nicholas,R.
+T1 I. SOCIAL INFLUENCE AND THE GENERATION OF JOINT MENTAL ATTITUDES IN MULTI-AGENT SYSTEMS
+
+RT Book, Whole
+ID 48483277
+A1 Vytelingum,P.
+A1 Dash,R.
+A1 He,M.
+A1 Sykulski,A.
+A1 Jennings,N.
+T1 Trading Strategies for Markets: A Design Framework and Its Application
+
+RT Journal Article
+ID 122303
+A1 Panzarasa,Pietro
+A1 Jennings,Nicholas,R.
+T1 Negotiation and Joint Commitments in Multi-Agent Systems
+
+RT Journal Article
+ID 13044399
+A1 Jennings,N.,R.
+T1 Dept
+
+RT Book, Whole
+ID 47786555
+A1 Papakonstantinou,Athanasios
+A1 Rogers,Alex
+A1 Gerding,Enrico,H.
+A1 Jennings,Nicholas,R.
+T1 Mechanism Design for Eliciting Probabilistic Estimates from Multiple Suppliers with Unknown Costs and Limited Precision
+
+RT Journal Article
+ID 4470753
+A1 Stein,Sebastian
+A1 Payne,Terry,R.
+A1 Jennings,Nicholas,R.
+T1 Flexible Provisioning of Semantic Web Service Workflows using a QoS Ontology
+
+RT Book, Whole
+ID 5577065
+A1 Fatima,Shaheen,S.
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+T1 An Approximation Method for Power Indices for Voting Games
+
+RT Journal Article
+ID 10814308
+A1 Brazier,Frances
+A1 Kepliczb,Barbara,Dunin
+A1 Jennings,Nick,R.
+A1 Treur,Jan
+T1 Formal Specification of Multi-Agent Systems: a Real-World Case
+
+RT Journal Article
+ID 5156841
+A1 Adams,N.,M.
+A1 Field,M.
+A1 Gelenbe,E.
+A1 Hand,D.,J.
+A1 Jennings,N.,R.
+A1 Leslie,D.,S.
+A1 Nicholson,D.
+A1 Ramchurn,S.,D.
+A1 Roberts,S.,J.
+A1 Rogers,A.
+T1 The ALADDIN Project: Intelligent Agents for Disaster Management
+
+RT Journal Article
+ID 10059381
+A1 Jennings,Nick,R.
+T1 Coordination Through Joint Intentions in Industrial Multi-Agent Systems
+JF Ai Magazine
+
+RT Book, Whole
+ID 6906911
+A1 Vetsikas,Ioannis,A.
+A1 Jennings,Nicholas,R.
+T1 Sequential Auctions with Partially Substitutable Goods
+
+RT Journal Article
+ID 12904850
+A1 Rogers,A.
+A1 Dash,R.,K.
+A1 Ramchurn,S.,D.
+A1 Vytelingum,P.
+A1 Jennings,N.,R.
+T1 Error-Correcting Codes for Team Coordination within a Noisy Iterated Prisoner's Dilemma Tournament
+
+RT Book, Whole
+ID 5391211
+A1 Gerding,Enrico,H.
+A1 Larson,Kate
+A1 Jennings,Nicholas,R.
+T1 Eliciting Expert Advice in Service-Oriented Computing
+
+RT Journal Article
+ID 5935754
+A1 Rogers,Alex
+A1 Kho,Johnsen
+A1 Dash,Rajdeep,K.
+A1 Jennings,N.,R.
+T1 Gaussian Process Information Measures for Wireless Sensor Networks
+
+RT Journal Article
+ID 5484712
+A1 Ashri,Ronald
+A1 Sabater,Jordi
+A1 Ramchurn,Sarvapali,D.
+A1 Luck,Michael
+A1 Jennings,Nick
+T1 Trust Analysis Through Relationship Identification
+
+RT Journal Article
+ID 6189437
+A1 Karunatillake,Nishan,C.
+A1 Jennings,Nicholas,R.
+A1 Rahwan,Iyad
+A1 McBurney,Peter
+T1 Formal Semantics of ABN Framework
+
+RT Journal Article
+ID 3525136
+A1 Fatima,Shaheen
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+T1 Optimal Agendas for Sequential Auctions for Common and Private Value Objects
+
+RT Book, Whole
+ID 4581497
+A1 Fatima,Shaheen,S.
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+T1 An Analysis of Sequential Auctions for Common and Private Value Objects
+
+RT Journal Article
+ID 12901679
+A1 Jennings,Nicholas,R.
+A1 Cohn,A.,G.
+A1 Fox,M.
+A1 Long,D.
+A1 Luck,M.
+A1 Michaelides,D.,T
+A1 Munroe,S.
+A1 Weal,M.,J.
+T1 Foresight Cognitive Systems Project Research Review Interaction, Planning and Motivation
+
+RT Journal Article
+ID 13014125
+A1 Jennings,N.,R.
+A1 Varga,L.,Z.
+A1 Aarnts,R.,P.
+A1 Fuchs,J.
+A1 Skarek,P.
+T1 Cooperating Agents
+
+RT Journal Article
+ID 4463444
+A1 Ramchurn,S.,D.
+A1 Allen-Williams,M.
+A1 Vetsikas,I.
+A1 Rogers,A.
+A1 Dash,R.,K.
+A1 Dutta,P.
+A1 Jennings,N.,R.
+T1 ALADDIN-Rescue Team Description
+
+RT Book, Whole
+ID 4693758
+A1 He,Minghua
+A1 Rogers,Alex
+A1 David,Esther
+A1 Jennings,Nicholas,R.
+T1 Designing and Evaluating an Adaptive Trading Agent for Supply Chain Management
+
+RT Journal Article
+ID 13039799
+A1 Lomuscio,Alessio,R.
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+T1 negotiation in electronic commerce
+
+RT Journal Article
+ID 13032137
+A1 Fatima,Shaheen
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+T1 and Evolutionary Bargaining Models
+
+RT Book, Whole
+ID 48439092
+A1 Fatima,Shaheen,S.
+A1 Wooldridge,Michael
+A1 Jennings,Nicholas,R.
+T1 An Analysis of the Shapley Value and Its Uncertainty for the Voting Game
+
+RT Journal Article
+ID 13014446
+A1 Jennings,N.,R.
+A1 Parsons,S.
+A1 Noriega,P.
+A1 Sierra,C.
+T1 On Argumentation-Base d Negotiation
+
+RT Journal Article
+ID 13047318
+A1 Cockburn,David
+A1 Varga,Laszlo,Zsolt
+A1 Jennings,Nick
+T1 Intelligent Systems for Electricity Distribution
+
+RT Journal Article
+ID 12816498
+A1 Jennings,Nicholas,R.
+A1 Tambe,Milind
+A1 Ishida,Toru
+A1 Ramchurn,Sarvapali,D.
+T1 First International Workshop on Agent Technology for Disaster Management Foreword
+
+RT Journal Article
+ID 5007427
+A1 Cuthbert,L.,G.
+A1 Gibney,M.,A.
+A1 Jennings,N.,R.
+A1 Pitts,J.,M.
+T1 Agent Technology for Connection Admission Control in Complex ATM Networks
+
+RT Journal Article
+ID 48845388
+A1 Tran-Thanh,Long
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+T1 Long-term information collection with energy harvesting wireless sensors: a multi-armed bandit based approach
+JF Autonomous Agents and Multi-agent Systems
+SP 1
+OP 43
+
+RT Journal Article
+ID 12994235
+A1 Wooldridge,M.,J.
+A1 Jennings,N.,R.
+T1 Computer Science Queen Mary & W estfield Colle ge Uni v ersity of Melbourne London E1 4NS, UK P arkville 3052, Australia
+
+RT Journal Article
+ID 12994332
+A1 Wooldridge,M.,J.
+A1 Jennings,N.,R.
+T1 Pitf alls of Agent-Oriented De v elopment Michael W ooldridge and Nicholas R. J ennings Department of Electronic Engineering Queen Mary & W estfield Colle ge Uni v ersity of London, London E1 4NS United Kingdom
+
+RT Journal Article
+ID 13007491
+A1 Wooldridge,M.,J.
+A1 Jennings,N.,R.
+T1 Pitfalls of Agent-Oriented Development Michael Wooldridge and Nicholas R. Jennings Department of Electronic Engineering Queen Mary & West fi eld College University of London, London E1 4NS United Kingdom
+
+RT Journal Article
+ID 6672597
+A1 Rogers,A.
+A1 Jennings,N.,R.
+A1 Osborne,M.,A.
+A1 Roberts,S.,J.
+T1 Information Agents for Autonomous Acquisition of Sensor Network Data
+
+RT Journal Article
+ID 10236417
+A1 Huynh,Trung,Dong
+A1 Dash,Rajdeep,K.
+A1 Jennings,Nicholas,R.
+A1 Patel,Jigar
+T1 The ART of IAM: The Winning Strategy for the 2006 Competition (ART TESTBED SPECIAL SESSION)
+
+RT Book, Whole
+ID 48745937
+A1 Gerding,Enrico
+A1 Larson,Kate
+A1 Rogers,Alex
+A1 Jennings,Nicholas
+T1 Mechanism Design for Task Procurement with Flexible Quality of Service
+
+RT Journal Article
+ID 6666413
+A1 Chapman,Archie,C.
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+A1 Leslie,David,S.
+T1 A unifying framework for iterative approximate best- response algorithms for distributed constraint optimisation problems1
+
+RT Journal Article
+ID 5773483
+A1 Kho,Johnsen
+A1 Tran-Thanh,Long
+A1 Rogers,Alex
+A1 Jennings,Nicholas,R.
+T1 Distributed Adaptive Sampling, Forwarding, and Routing Algorithms for Wireless Visual Sensor Networks
+
+RT Journal Article
+ID 5796145
+A1 Grabham,N.,J.
+A1 Rogers,A.
+A1 White,N.,M.
+A1 Jennings,N.,R.
+T1 Adaptive Energy-Aware Sensor Networks Decentralised Coordination of Energy-Harvesting Sensor Nodes
+
+RT Book, Whole
+ID 48591456
+A1 Gerding,Enrico,H.
+A1 Rogers,Alex
+A1 Dash,Rajdeep,K.
+A1 Jennings,Nicholas,R.
+T1 Competing Sellers in Online Markets: Reserve Prices, Shill Bidding, and Auction Fees
+
+RT Journal Article
+ID 12929972
+A1 Stranders,R.
+A1 Farinelli,A.
+A1 Rogers,A.
+A1 Jennings,N.,R.
+T1 Control and Management of Autonomous Mobile Sensors using the Max-Sum Algorithm
+
+RT Journal Article
+ID 6166322
+A1 Jennings,Nick
+A1 Johnston,Robert
+A1 Wright,Andy
+T1 Network Enabled Capability: Decentralised Coordination of Autonomous Agents to Achieve Operational Goals
+
+RT Journal Article
+ID 13014438
+A1 Jennings,N.,R.
+A1 Faratin,P.
+T1 Dept. Electronic Engineering, Queen Mary & W estfield Colle ge, London E1 4NS
+
+RT Journal Article
+ID 13061598
+A1 Jennings,N.,R.
+A1 Faratin,P.
+T1 Dept. Electronic Engineering, Queen Mary & Westfield College, University of London, London E1 4NS, UK
+
+RT Journal Article
+ID 7036302
+A1 Kalenka,S.
+A1 Jennings,N.,R.
+T1 ON SOCIAL ATTITUDES: A PRELIMINARY REPORT
+
+RT Journal Article
+ID 3730015
+A1 Stein,Sebastian
+A1 Payne,Terry,R.
+A1 Jennings,Nicholas,R.
+T1 Sensitivity Analysis of Flexible Provisioning
+
+RT Journal Article
+ID 5787324
+A1 Stein,Sebastian
+A1 Payne,Terry,R.
+A1 Jennings,Nicholas,R.
+T1 Flexible QoS-Based Service Selection and Provisioning in Large-Scale Grids
+
+RT Journal Article
+ID 11373488
+A1 Stein,Sebastian
+A1 Jennings,Nicholas,R.
+A1 Payne,Terry,R.
+T1 Provisioning Heterogeneous and Unreliable Providers for Service Workflow s
+
+RT Journal Article
+ID 12872671
+A1 Stein,Sebastian
+A1 Jennings,Nicholas,R.
+A1 Payne,Terry,R.
+T1 Flexible Provisioning of Service Workflows (Extended Abstract)1
+
+RT Journal Article
+ID 13586191
+A1 Stein,Sebastian
+A1 Payne,Terry,R.
+A1 Jennings,Nicholas,R.
+T1 Robust Execution of Service Workflows using Redundancy and Advance Reservations (Online Appendix)
+
+RT Journal Article
+ID 5642187
+A1 Panzarasa,P.
+A1 Ramchurn,S.,D.
+A1 Jennings,N.,R.
+T1 Intrusiveness, Trust and Argumentation: Using Automated Negotiation to Inhibit the Transmission of Disruptive Information
+
+RT Journal Article
+ID 6294787
+A1 Kouchakpour,Hesam
+A1 Jennings,Nicholas,R.
+T1 Sensor Network Characteristics, Monitoring and Control Challenges
+
+RT Journal Article
+ID 6565445
+A1 Excelente-Toledo,Cora,B.
+A1 Jennings,Nicholas,R.
+T1 Learning to coordinate better
+
+RT Journal Article
+ID 5817173
+A1 Carley,Kathleen,M.
+A1 Jennings,Nicholas,R.
+T1 TITLE: A LOGICAL APPROACH TO FORMALISING NEGOTIATION IN MULTI-AGENT SYSTEMS
+
+RT Journal Article
+ID 11443602
+A1 Dang,Viet,Dung
+A1 Jennings,Nicholas,R.
+T1 Optimal clearing algorithms for multi-unit single-item and multi-unit combinatorial auctions with demand/supply function bidding (Relevant track: eCommerce Technologies)
+
+RT Journal Article
+ID 4628437
+A1 He,Minghua
+A1 Jennings,Nick
+T1 Strategy for SouthamptonTAC-02
+
+RT Journal Article
+ID 4897467
+A1 Rogers,Alex
+A1 Jennings,Nick
+T1 Gaussian Processes for Information Processing in Sensor Networks
+
+RT Journal Article
+ID 12208678
+A1 Panzarasa,Pietro
+A1 Jennings,Nicholas,R.
+T1 Running Head: Going Public and the Sale of Shares with Heterogeneous Investors Title: Going Public and the Sale of Shares with Heterogeneous Investors: Agent-Based Computational Modelling a nd Computer Simulations
+
+RT Journal Article
+ID 6396974
+A1 Rabinovich,Zinovi
+A1 Jennings,Nicholas,R.
+T1 Extended Markov Tracking with Ensemble Actions
+
+RT Journal Article
+ID 13059760
+A1 Griffiths,D.
+A1 Jennings,N.
+T1 "ADEPT - Advanced Decision Support
+
+RT Book, Whole
+ID 48240140
+A1 Allen-Williams,Mair
+A1 Jennings,Nicholas,R.
+T1 Bayesian Learning for Cooperation in Multi-Agent Systems
+
+RT Journal Article
+ID 4599799
+A1 Jennings,Nick
+T1 Trading Places with Software Agents
+
+RT Journal Article
+ID 13005480
+A1 Jennings,N.,R.
+T1 S.D.P arsons @qmw .ac.uk Artificial Intelligence Research Institute, IIIA. Spanish Scientific Research Council, CSIC. Campus U AB
+
+RT Journal Article
+ID 13006927
+A1 JENNINGS,NICK,R.
+T1 Agent Systems

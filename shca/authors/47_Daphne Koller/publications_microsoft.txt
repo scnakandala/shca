@@ -1,0 +1,3533 @@
+RT Journal Article
+ID 56919225
+A1 Piech,Chris
+A1 Sahami,Mehran
+A1 Koller,Daphne
+A1 Cooper,Steve
+A1 Blikstein,Paulo
+YR 2012
+T1 Modeling how students learn to program
+SP 153
+OP 160
+
+RT Journal Article
+ID 51198232
+A1 Levy,Ronald
+A1 Koller,Daphne
+A1 Plevritis,Sylvia,K.
+A1 Gentles,Andrew,J.
+A1 Alizadeh,Ash,A.
+A1 Lee,Su-In
+A1 Myklebust,June,H.
+A1 Shachaf,Catherine,M.
+YR 2012
+T1 influences survival in follicular lymphoma patients A pluripotency signature predicts histologic transformation and
+
+RT Conference Proceedings
+ID 56988750
+A1 Kumar,M.,Pawan
+A1 Turki,Haithem
+A1 Preston,Dan
+A1 Koller,Daphne
+YR 2011
+T1 Learning specific-class segmentation from diverse data
+SP 1800
+OP 1807
+
+RT Journal Article
+ID 56942303
+A1 Tuysuz,A.
+A1 Koller,D.
+A1 Looser,A.
+A1 Kolar,J.,W.
+A1 Zwyssig,C.
+YR 2011
+T1 Design of a test bench for a lateral stator electrical machine
+SP 1801
+OP 1806
+
+RT Conference Proceedings
+ID 51108228
+A1 Gao,Tianshi
+A1 Packer,Benjamin
+A1 Koller,Daphne
+YR 2011
+T1 A segmentation-aware object detection model with occlusion handling
+SP 1361
+OP 1368
+
+RT Conference Proceedings
+ID 56988785
+A1 Gao,Tianshi
+A1 Koller,Daphne
+YR 2011
+T1 Discriminative learning of relaxed hierarchy for large-scale visual recognition
+SP 2072
+OP 2079
+
+RT Conference Proceedings
+ID 51108327
+A1 Wang,Huayan
+A1 Koller,Daphne
+YR 2011
+T1 Multilevel inference by relaxed dual decomposition for human pose segmentation
+SP 2433
+OP 2440
+
+RT Conference Proceedings
+ID 13765639
+A1 PlagemannVarun,Christian
+A1 Ganapathi,Varun
+A1 Koller,Daphne
+A1 Thrun,Sebastian
+YR 2010
+T1 Real-time identification and localization of body parts from depth images
+SP 3108
+OP 3113
+
+RT Conference Proceedings
+ID 39261470
+A1 Ganapathi,Varun
+A1 Plagemann,Christian
+A1 Koller,Daphne
+A1 Thrun,Sebastian
+YR 2010
+T1 Real time motion capture using a single time-of-flight camera
+SP 755
+OP 762
+
+RT Journal Article
+ID 37090936
+A1 Battle,Alexis
+A1 Jonikas,Martin,C
+A1 Walter,Peter
+A1 Weissman,Jonathan,S
+A1 Koller,Daphne
+YR 2010
+T1 Automated identification of pathways from quantitative genetic interaction data
+JF Molecular Systems Biology
+VO 6
+
+RT Conference Proceedings
+ID 27812829
+A1 Liu,Beyang
+A1 Gould,Stephen
+A1 Koller,Daphne
+YR 2010
+T1 Single Image Depth Estimation from Predicted Semantic Labels
+
+RT Journal Article
+ID 38616272
+A1 Hillenmeyer,Maureen,E
+A1 Ericson,Elke
+A1 Davis,Ronald,W
+A1 Nislow,Corey
+A1 Koller,Daphne
+A1 Giaever,Guri
+YR 2010
+T1 Systematic analysis of genome-wide fitness data in yeast reveals novel gene function and drug action
+JF Genome Biology
+VO 11
+OP 17
+IS 3
+
+RT Book, Whole
+ID 13308179
+A1 Laserson,Jonathan
+A1 Jojic,Vladimir
+A1 Koller,Daphne
+YR 2010
+T1 Genovo: De Novo Assembly for Metagenomes
+SP 341
+OP 356
+
+RT Book, Whole
+ID 39262431
+A1 Packer,Benjamin
+A1 Gould,Stephen
+A1 Koller,Daphne
+YR 2010
+T1 A Unified Contour-Pixel Model for Figure-Ground Segmentation
+SP 338
+OP 351
+
+RT Book, Whole
+ID 13994928
+A1 Wang,Huayan
+A1 Gould,Stephen
+A1 Koller,Daphne
+YR 2010
+T1 Discriminative Learning with Latent Variables for Cluttered Indoor Scene Understanding
+SP 435
+OP 449
+
+RT Conference Proceedings
+ID 13762241
+A1 Jojic,Vladimir
+A1 Gould,Stephen
+A1 Koller,Daphne
+YR 2010
+T1 Accelerated Dual Decomposition for MAP Inference
+SP 503
+OP 510
+
+RT Conference Proceedings
+ID 27812827
+A1 Packer,Ben
+A1 Gould,Stephen
+A1 Koller,Daphne
+YR 2010
+T1 A Unified Contour-Pixel Model for Segmentation
+
+RT Conference Proceedings
+ID 39261557
+A1 Kumar,M.,Pawan
+A1 Koller,Daphne
+YR 2010
+T1 Efficiently selecting regions for scene understanding
+SP 3217
+OP 3224
+
+RT Conference Proceedings
+ID 39256891
+A1 Vickrey,David
+A1 Kipersztok,Oscar
+A1 Koller,Daphne
+YR 2010
+T1 An Active Learning Approach to Finding Related Terms
+SP 371
+OP 376
+
+RT Journal Article
+ID 36379020
+A1 Moussavi,Farshid
+A1 Heitz,Geremy
+A1 Amat,Fernando
+A1 Comolli,Luis,R.
+A1 Koller,Daphne
+A1 Horowitz,Mark
+YR 2010
+T1 3D segmentation of cell boundaries from whole cell cryogenic electron tomography volumes
+JF Journal of Structural Biology
+VO 170
+SP 134
+OP 145
+IS 1
+
+RT Conference Proceedings
+ID 13762128
+A1 Vickrey,David
+A1 Lin,Cliff,Chiung-Yu
+A1 Koller,Daphne
+YR 2010
+T1 NonLocal Contrastive Objectives
+SP 1103
+OP 1110
+
+RT Journal Article
+ID 13762118
+A1 Saria,Suchi
+A1 Koller,Daphne
+A1 Penn,Anna
+YR 2010
+T1 Discovering shared and individual latent structure in multiple time series
+JF Computing Research Repository
+VO abs/1008.2
+
+RT Conference Proceedings
+ID 39261468
+A1 Liu,Beyang
+A1 Gould,Stephen
+A1 Koller,Daphne
+YR 2010
+T1 Single image depth estimation from predicted semantic labels
+SP 1253
+OP 1260
+
+RT Journal Article
+ID 28521915
+A1 Bussche,H.,van,den
+A1 Berger,K.
+A1 Kemper,C.
+A1 Barzel,A.
+A1 Glaeske,G.
+A1 Koller,D.
+YR 2010
+T1 Inzidenz, Rezidiv, Pflegebedürftigkeit und Mortalität von Schlaganfall
+JF Aktuelle Neurologie
+VO 37
+SP 131
+OP 135
+IS 03
+
+RT Journal Article
+ID 48556374
+A1 Koller,D.
+A1 Spies,G.
+A1 Bayerl,B.
+A1 Mielck,A.
+YR 2010
+T1 Soziale Unterschiede bei Wohnzufriedenheit und gesundheitlichen Risiken
+VO 5
+SP 129
+OP 135
+IS 2
+
+RT Journal Article
+ID 46477221
+A1 Koller,D.
+A1 Spies,G.
+A1 Bayerl,B.
+A1 Mielck,A.
+YR 2010
+T1 Social inequalities in living conditions and health risks within a deprived urban area: Results from an “APUG-Region” in Munich, Germany
+VO 5
+SP 129
+OP 135
+IS 2
+
+RT Journal Article
+ID 27812636
+A1 Koller,Daphne
+A1 Friedman,Nir
+YR 2009
+T1 Probabilistic Graphical Models: Principles and Techniques
+
+RT Conference Proceedings
+ID 5072714
+A1 Gould,Stephen
+A1 Fulton,Richard
+A1 Koller,Daphne
+YR 2009
+T1 Decomposing a Scene into Geometric and Semantically Consistent Regions
+SP 1
+OP 8
+
+RT Journal Article
+ID 36139075
+A1 Fiedler,Dorothea
+A1 Braberg,Hannes
+A1 Mehta,Monika
+A1 Chechik,Gal
+A1 Cagney,Gerard
+A1 Mukherjee,Paromita
+A1 Silva,Andrea,C.
+A1 Shales,Michael
+A1 Collins,Sean,R.
+A1 Wageningen,Sake,van
+A1 Kemmeren,Patrick
+A1 Holstege,Frank,C.,P.
+A1 Weissman,Jonathan,S.
+A1 Keogh,Michael-Christopher
+A1 Koller,Daphne
+A1 Shokat,Kevan,M.
+A1 Krogan,Nevan,J.
+YR 2009
+T1 Functional Organization of the S. cerevisiae Phosphorylation Network
+JF Cell
+VO 136
+SP 952
+OP 963
+IS 5
+
+RT Journal Article
+ID 5061092
+A1 Lee,Su-In
+A1 Dudley,Aimée,M.
+A1 Drubin,David
+A1 Silver,Pamela,A.
+A1 Krogan,Nevan,J.
+A1 Pe'er,Dana
+A1 Koller,Daphne
+YR 2009
+T1 Learning a Prior on Regulatory Potential from eQTL Data
+JF PLOS Genetics
+VO 5
+IS 1
+
+RT Conference Proceedings
+ID 6478676
+A1 Gould,Stephen
+A1 Gao,Tianshi
+A1 Koller,Daphne
+YR 2009
+T1 Region-based Segmentation and Object Detection
+
+RT Conference Proceedings
+ID 5074004
+A1 Gould,Stephen
+A1 Amat,Fernando
+A1 Koller,Daphne
+YR 2009
+T1 Alphabet SOUP: A Framework for Approximate Energy Minimization
+SP 903
+OP 910
+
+RT Journal Article
+ID 6076403
+A1 Heitz,Geremy
+A1 Elidan,Gal
+A1 Packer,Benjamin
+A1 Koller,Daphne
+YR 2009
+T1 Shape-Based Object Localization for Descriptive Classification
+JF International Journal of Computer Vision
+VO 84
+SP 40
+OP 62
+IS 1
+
+RT Journal Article
+ID 11157114
+A1 Wang,Haidong
+A1 Kakaradov,Boyko
+A1 Collins,Sean,R.
+A1 Karotki,Lena
+A1 Fiedler,Dorothea
+A1 Shales,Michael
+A1 Shokat,Kevan,M.
+A1 Walther,Tobias,C.
+A1 Krogan,Nevan,J.
+A1 Koller,Daphne
+YR 2009
+T1 A Complex-based Reconstruction of the Saccharomyces cerevisiae Interactome
+JF Molecular & Cellular Proteomics
+VO 8
+SP 1361
+OP 1381
+IS 6
+
+RT Journal Article
+ID 29963530
+A1 Gentles,A.,J.
+A1 Alizadeh,A.,A.
+A1 Lee,S.-I.
+A1 Myklebust,J.,H.
+A1 Shachaf,C.,M.
+A1 Shahbaba,B.
+A1 Levy,R.
+A1 Koller,D.
+A1 Plevritis,S.,K.
+YR 2009
+T1 A pluripotency signature predicts histologic transformation and influences survival in follicular lymphoma patients
+JF Blood
+VO 114
+SP 3158
+OP 3166
+IS 15
+
+RT Journal Article
+ID 6805400
+A1 Gentles,Andrew,J.
+A1 Alizadeh,Ash,A.
+A1 Lee,Su-In
+A1 Myklebust,June,H.
+A1 Shachaf,Catherine,M.
+A1 Shahbaba,Babak
+A1 Levy,Ronald
+A1 Koller,Daphne
+A1 Plevritis,Sylvia,K.
+YR 2009
+T1 Apluripotency signature predicts histologic transformation and influences survival in follicular lymphoma patients
+
+RT Journal Article
+ID 5079206
+A1 Chechik,Gal
+A1 Koller,Daphne
+YR 2009
+T1 Timing of Gene Expression Responses to Environmental Changes
+JF Journal of Computational Biology
+VO 16
+SP 279
+OP 290
+IS 2
+
+RT Conference Proceedings
+ID 13298697
+A1 Koller,Daphne
+A1 Schuurmans,Dale
+A1 Bengio,Yoshua
+A1 Bottou,Léon
+YR 2009
+T1 Advances in Neural Information Processing Systems 21, Proceedings of the Twenty-Second Annual Conference on Neural Information Processing Systems, Vancouver, British Columbia, Canada, December 8-11, 2008
+
+RT Journal Article
+ID 57408211
+A1 Lee,Su-In
+A1 Dudley,Aimée,M.
+A1 Drubin,David
+A1 Silver,Pamela,A.
+A1 Krogan,Nevan,J.
+A1 Peer,Dana
+A1 Koller,Daphne
+YR 2009
+T1 Learning a Prior on Regulatory Potential from eQTL Data
+JF PLOS Genetics
+VO 5
+IS 1
+
+RT Conference Proceedings
+ID 50782907
+A1 Gould,S.
+A1 Amat,F.
+A1 Koller,D.
+YR 2009
+T1 Alphabet SOUP: A framework for approximate energy minimization
+SP 903
+OP 910
+
+RT Book, Whole
+ID 39250871
+A1 Koller,Daphne
+A1 Friedman,Nir
+YR 2009
+T1 Probabilistic Graphical Models - Principles and Techniques
+
+RT Journal Article
+ID 15086402
+A1 Hillenmeyer,Maureen,E.
+A1 Fung,Eula
+A1 Wildenhain,Jan
+A1 Pierce,Sarah,E.
+A1 Hoon,Shawn
+A1 Lee,William
+A1 Proctor,Michael
+A1 Onge,Robert,P.,St.
+A1 Tyers,Mike
+A1 Koller,Daphne
+A1 Altman,Russ,B.
+A1 Davis,Ronald,W.
+A1 Nislow,Corey
+A1 Giaever,Guri
+YR 2008
+T1 The Chemical Genomic Portrait of Yeast: Uncovering a Phenotype for All Genes
+JF Science
+VO 320
+SP 362
+OP 365
+IS 5874
+
+RT Book, Whole
+ID 4253654
+A1 Heitz,Geremy
+A1 Koller,Daphne
+YR 2008
+T1 Learning Spatial Context: Using Stuff to Find Things
+SP 30
+OP 43
+
+RT Journal Article
+ID 4389561
+A1 Gould,Stephen
+A1 Rodgers,Jim
+A1 Cohen,David
+A1 Elidan,Gal
+A1 Koller,Daphne
+YR 2008
+T1 Multi-class Segmentation with Relative Location Prior
+JF International Journal of Computer Vision
+VO 80
+SP 300
+OP 316
+IS 3
+
+RT Conference Proceedings
+ID 27812830
+A1 Gould,Stephen
+A1 Baumstarck,Paul
+A1 Quigley,Morgan
+A1 Ng,Andrew,Y.
+A1 Koller,Daphne
+YR 2008
+T1 Integrating Visual and Range Data for Robotic Object Detection
+
+RT Journal Article
+ID 10010911
+A1 Boxem,Mike
+A1 Maliga,Zoltan
+A1 Klitgord,Niels
+A1 Li,Na
+A1 Lemmens,Irma
+A1 Mana,Miyeko
+A1 Lichtervelde,Lorenzo,de
+A1 Mul,Joram,D.
+A1 Peut,Diederik,van,de
+A1 Devos,Maxime
+A1 Simonis,Nicolas
+A1 Yildirim,Muhammed,A.
+A1 Cokol,Murat
+A1 Kao,Huey-Ling
+A1 Smet,Anne-Sophie,de
+A1 Wang,Haidong
+A1 Schlaitz,Anne-Lore
+A1 Hao,Tong
+A1 Milstein,Stuart
+A1 Fan,Changyu
+A1 Tipsword,Mike
+A1 Drew,Kevin
+A1 Galli,Matilde
+A1 Rhrissorrakrai,Kahn
+A1 Drechsel,David
+A1 Koller,Daphne
+A1 Roth,Frederick,P.
+A1 Iakoucheva,Lilia,M.
+A1 Dunker,A.,Keith
+A1 Bonneau,Richard
+A1 Gunsalus,Kristin,C.
+A1 Hill,David,E.
+A1 Piano,Fabio
+A1 Tavernier,Jan
+A1 Heuvel,Sander,van,den
+A1 Hyman,Anthony,A.
+A1 Vidal,Marc
+YR 2008
+T1 A Protein Domain-Based Interactome Network for C. elegans Early Embryogenesis
+JF Cell
+VO 134
+SP 534
+OP 545
+IS 3
+
+RT Conference Proceedings
+ID 4727382
+A1 Heitz,Geremy
+A1 Gould,Stephen
+A1 Saxena,Ashutosh
+A1 Koller,Daphne
+YR 2008
+T1 Cascaded Classification Models: Combining Models for Holistic Scene Understanding
+SP 641
+OP 648
+
+RT Conference Proceedings
+ID 4321666
+A1 Duchi,John,C.
+A1 Gould,Stephen
+A1 Koller,Daphne
+YR 2008
+T1 Projected Subgradient Methods for Learning Sparse Gaussians
+SP 145
+OP 152
+
+RT Journal Article
+ID 4914749
+A1 Chechik,Gal
+A1 Oh,Eugene
+A1 Rando,Oliver
+A1 Weissman,Jonathan
+A1 Regev,Aviv
+A1 Koller,Daphne
+YR 2008
+T1 Activity motifs reveal principles of timing in transcriptional control of the yeast metabolic network
+JF Nature Biotechnology
+VO 26
+SP 1251
+OP 1259
+IS 11
+
+RT Journal Article
+ID 4929271
+A1 Chechik,Gal
+A1 Heitz,Geremy
+A1 Elidan,Gal
+A1 Abbeel,Pieter
+A1 Koller,Daphne
+YR 2008
+T1 Max-margin Classification of Data with Absent Features
+JF Journal of Machine Learning Research
+VO 9
+SP 1
+OP 21
+
+RT Journal Article
+ID 37057044
+A1 Heng,Tracy,S,P
+A1 Painter,Michio,W
+A1 Elpek,Kutlu
+A1 Lukacs-Kornek,Veronika
+A1 Mauermann,Nora
+A1 Turley,Shannon,J
+A1 Koller,Daphne
+A1 Kim,Francis,S
+A1 Wagers,Amy,J
+A1 Asinovski,Natasha
+A1 Davis,Scott
+A1 Fassett,Marlys
+A1 Feuerer,Markus
+A1 Gray,Daniel,H,D
+A1 Haxhinasto,Sokol
+A1 Hill,Jonathan,A
+A1 Hyatt,Gordon
+A1 Laplace,Catherine
+A1 Leatherbee,Kristen
+A1 Mathis,Diane
+A1 Benoist,Christophe
+A1 Jianu,Radu
+A1 Laidlaw,David,H
+A1 Best,J,Adam
+A1 Knell,Jamie
+A1 Goldrath,Ananda,W
+A1 Jarjoura,Jessica
+A1 Sun,Joseph,C
+A1 Zhu,Yanan
+A1 Lanier,Lewis,L
+A1 Ergun,Ayla
+A1 Li,Zheng
+A1 Collins,James,J
+A1 Shinton,Susan,A
+A1 Hardy,Richard,R
+A1 Friedline,Randall
+A1 Sylvia,Katelyn
+A1 Kang,Joonsoo
+YR 2008
+T1 The Immunological Genome Project: networks of gene expression in immune cells
+JF Nature Immunology
+VO 9
+SP 1091
+OP 1094
+IS 10
+
+RT Conference Proceedings
+ID 4930784
+A1 Vickrey,David
+A1 Koller,Daphne
+YR 2008
+T1 Sentence Simplification for Semantic Role Labeling
+SP 344
+OP 352
+
+RT Conference Proceedings
+ID 4727360
+A1 Heitz,Geremy
+A1 Elidan,Gal
+A1 Packer,Benjamin
+A1 Koller,Daphne
+YR 2008
+T1 Shape-Based Object Localization for Descriptive Classification
+SP 633
+OP 640
+
+RT Journal Article
+ID 4995225
+A1 Vickrey,David
+A1 Koller,Daphne
+YR 2008
+T1 Applying Sentence Simplification to the CoNLL-2008 Shared Task
+
+RT Conference Proceedings
+ID 4321664
+A1 Elidan,Gal
+A1 Packer,Benjamin
+A1 Heitz,Geremy
+A1 Koller,Daphne
+YR 2008
+T1 Convex Point Estimation using Undirected Bayesian Transfer Hierarchies
+SP 179
+OP 186
+
+RT Conference Proceedings
+ID 4321618
+A1 Ganapathi,Varun
+A1 Vickrey,David
+A1 Duchi,John
+A1 Koller,Daphne
+YR 2008
+T1 Constrained Approximate Maximum Entropy Learning of Markov Random Fields
+SP 196
+OP 203
+
+RT Conference Proceedings
+ID 13298694
+A1 Platt,John,C.
+A1 Koller,Daphne
+A1 Singer,Yoram
+A1 Roweis,Sam,T.
+YR 2008
+T1 Advances in Neural Information Processing Systems 20, Proceedings of the Twenty-First Annual Conference on Neural Information Processing Systems, Vancouver, British Columbia, Canada, December 3-6, 2007
+
+RT Conference Proceedings
+ID 4751597
+A1 Vickrey,David
+A1 Bronzan,Aaron
+A1 Choi,William
+A1 Kumar,Aman
+A1 Turner-maier,Jason
+A1 Wang,Arthur
+A1 Koller,Daphne
+YR 2008
+T1 Online Word Games for Semantic Data Collection
+SP 533
+OP 542
+
+RT Journal Article
+ID 11335442
+A1 Stranger,Barbara,E
+A1 Nica,Alexandra,C
+A1 Forrest,Matthew,S
+A1 Dimas,Antigone
+A1 Bird,Christine,P
+A1 Beazley,Claude
+A1 Ingle,Catherine,E
+A1 Dunning,Mark
+A1 Flicek,Paul
+A1 Koller,Daphne
+A1 Montgomery,Stephen
+A1 ´,Simon,Tavare
+A1 Deloukas,Panos
+A1 Dermitzakis,Emmanouil,T
+YR 2007
+T1 Population genomics of human gene expression
+JF Nature Genetics
+VO 39
+SP 1217
+OP 1224
+IS 10
+
+RT Conference Proceedings
+ID 4278407
+A1 Lee,Su-in
+A1 Chatalbashev,Vassil
+A1 Vickrey,David
+A1 Koller,Daphne
+YR 2007
+T1 Learning a meta-level prior for feature relevance from multiple related tasks
+SP 489
+OP 496
+
+RT Journal Article
+ID 38615944
+A1 Wang,Haidong
+A1 Segal,Eran
+A1 Ben-Hur,Asa
+A1 Li,Qian-Ru
+A1 Vidal,Marc
+A1 Koller,Daphne
+YR 2007
+T1 InSite: a computational method for identifying protein-protein interaction binding sites on a proteome-wide scale
+JF Genome Biology
+VO 8
+OP 18
+IS 9
+
+RT Journal Article
+ID 29186550
+A1 Naegeli,B.
+A1 Kurz,D.,J.
+A1 Koller,D.
+A1 Straumann,E.
+A1 Furrer,M.
+A1 Maurer,D.
+A1 Minder,E.
+A1 Bertel,O.
+YR 2007
+T1 Single-chamber ventricular pacing increases markers of left ventricular dysfunction compared with dual-chamber pacing
+JF Europace
+VO 9
+SP 194
+OP 199
+IS 3
+
+RT Conference Proceedings
+ID 2474699
+A1 Elidan,Gal
+A1 Mcgraw,Ian
+A1 Koller,Daphne
+YR 2006
+T1 Residual Belief Propagation: Informed Scheduling for Asynchronous Message Passing
+
+RT Conference Proceedings
+ID 2441142
+A1 Raina,Rajat
+A1 Ng,Andrew,Y.
+A1 Koller,Daphne
+YR 2006
+T1 Constructing informative priors using transfer learning
+SP 713
+OP 720
+
+RT Conference Proceedings
+ID 4304944
+A1 Lee,Su-in
+A1 Ganapathi,Varun
+A1 Koller,Daphne
+YR 2006
+T1 Efficient Structure Learning of Markov Networks using $L_1$Regularization
+SP 817
+OP 824
+
+RT Journal Article
+ID 2508483
+A1 Abbeel,Pieter
+A1 Koller,Daphne
+A1 Ng,Andrew,Y.
+YR 2006
+T1 Learning Factor Graphs in Polynomial Time and Sample Complexity
+JF Journal of Machine Learning Research
+VO 7
+SP 1743
+OP 1788
+
+RT Journal Article
+ID 15176628
+A1 Lee,Su-In
+A1 Pe'Er,Dana
+A1 Dudley,Aimée,M.
+A1 Church,George,M.
+A1 Koller,Daphne
+YR 2006
+T1 Identifying regulatory mechanisms using individual variation reveals key role for chromatin modification
+JF Proceedings of The National Academy of Sciences
+VO 1031
+SP 14062
+OP 14067
+IS 38
+
+RT Journal Article
+ID 2505729
+A1 Blum,Ben
+A1 Shelton,Christian,R.
+A1 Koller,Daphne
+YR 2006
+T1 A Continuation Method for Nash Equilibria in Structured Games
+JF Journal of Artificial Intelligence Research
+VO 25
+SP 457
+OP 502
+
+RT Conference Proceedings
+ID 4050376
+A1 Duchi,John
+A1 Tarlow,Daniel
+A1 Elidan,Gal
+A1 Koller,Daphne
+YR 2006
+T1 Using Combinatorial Optimization within Max-Product Belief Propagation
+SP 369
+OP 376
+
+RT Conference Proceedings
+ID 2167299
+A1 Rodgers,Jim
+A1 Anguelov,Dragomir
+A1 Pang,Hoi-cheung
+A1 Koller,Daphne
+YR 2006
+T1 Object Pose Detection in Range Scan Data
+VO 2
+SP 2445
+OP 2452
+
+RT Conference Proceedings
+ID 2167354
+A1 Elidan,Gal
+A1 Heitz,Geremy
+A1 Koller,Daphne
+YR 2006
+T1 Learning Object Shape: From Drawings to Images
+VO 2
+SP 2064
+OP 2071
+
+RT Conference Proceedings
+ID 3366470
+A1 Chechik,Gal
+A1 Heitz,Geremy
+A1 Elidan,Gal
+A1 Abbeel,Pieter
+A1 Koller,Daphne
+YR 2006
+T1 Max-margin classification of incomplete data
+SP 233
+OP 240
+
+RT Conference Proceedings
+ID 4304998
+A1 Battle,Alexis
+A1 Chechik,Gal
+A1 Koller,Daphne
+YR 2006
+T1 Temporal and Cross-Subject Probabilistic Models for fMRI Prediction Tasks
+SP 121
+OP 128
+
+RT Conference Proceedings
+ID 2474698
+A1 El-hay,Tal
+A1 Friedman,Nir
+A1 Koller,Daphne
+A1 Kupferman,Raz
+YR 2006
+T1 Continuous Time Markov Networks
+
+RT Journal Article
+ID 39179892
+A1 Plank,J
+A1 Schaller,R
+A1 Ellmerer,M
+A1 Koller,D
+A1 Eberhardt,R
+A1 Köhler,G
+A1 Shoemaker,M
+A1 Obermaier,K
+A1 Toller,W
+A1 Pieber,T
+A1 Schaupp,L
+YR 2006
+T1 Continuous glucose monitoring using the SCGM1 system in postcardiothoracic surgery patients
+JF Critical Care
+VO 10
+OP 2
+IS Suppl 1
+
+RT Conference Proceedings
+ID 1800983
+A1 Taskar,Benjamin
+A1 Chatalbashev,Vassil
+A1 Koller,Daphne
+A1 Guestrin,Carlos
+YR 2005
+T1 Learning structured prediction models: a large margin approach
+SP 896
+OP 903
+
+RT Journal Article
+ID 1709820
+A1 Anguelov,Dragomir
+A1 Srinivasan,Praveen
+A1 Koller,Daphne
+A1 Thrun,Sebastian
+A1 Rodgers,Jim
+A1 Davis,James
+YR 2005
+T1 SCAPE: shape completion and animation of people
+JF ACM Transactions on Graphics
+VO 24
+SP 408
+OP 416
+IS 3
+
+RT Conference Proceedings
+ID 1788895
+A1 Anguelov,Dragomir
+A1 Taskar,Benjamin
+A1 Chatalbashev,Vassil
+A1 Koller,Daphne
+A1 Gupta,Dinkar
+A1 Heitz,Geremy
+A1 Ng,Andrew,Y.
+YR 2005
+T1 Discriminative Learning of Markov Random Fields for Segmentation of 3D Scan Data
+VO 2
+SP 169
+OP 176
+
+RT Journal Article
+ID 13006441
+A1 Segal,Eran
+A1 Friedman,Nir
+A1 Kaminski,Naftali
+A1 Regev,Aviv
+A1 Koller,Daphne
+YR 2005
+T1 From signatures to models: understanding cancer using microarrays
+JF Nature Genetics
+VO 37
+IS 6s
+
+RT Conference Proceedings
+ID 2474590
+A1 Teyssier,Marc
+A1 Koller,Daphne
+YR 2005
+T1 Ordering-Based Search: A Simple and Effective Algorithm for Learning Bayesian Networks
+SP 548
+OP 549
+
+RT Conference Proceedings
+ID 2386037
+A1 Vickrey,David
+A1 Biewald,Luke
+A1 Teyssier,Marc
+A1 Koller,Daphne
+YR 2005
+T1 Word-Sense Disambiguation for Machine Translation
+
+RT Conference Proceedings
+ID 2474676
+A1 Abbeel,Pieter
+A1 Koller,Daphne
+A1 Ng,Andrew,Y.
+YR 2005
+T1 Learning Factor Graphs in Polynomial Time & Sample Complexity
+SP 1
+OP 9
+
+RT Conference Proceedings
+ID 3872969
+A1 Anguelov,D.
+A1 Srinivasan,P.
+A1 Koller,D.
+A1 Thrun,S.
+A1 Pang,H.
+A1 Davis,J.
+YR 2005
+T1 The correlated correspondence algorithm for un-supervised registration of nonrigid surfaces
+
+RT Journal Article
+ID 2508396
+A1 Segal,Eran
+A1 Pe'er,Dana
+A1 Regev,Aviv
+A1 Koller,Daphne
+A1 Friedman,Nir
+YR 2005
+T1 Learning Module Networks
+JF Journal of Machine Learning Research
+VO 6
+SP 557
+OP 588
+
+RT Conference Proceedings
+ID 2370617
+A1 Nodelman,Uri
+A1 Shelton,Christian,R.
+A1 Koller,Daphne
+YR 2005
+T1 Expectation Maximization and Complex Duration Distributions for Continuous Time Bayesian Networks
+
+RT Conference Proceedings
+ID 2140712
+A1 Raina,Rajat
+A1 Ng,Andrew,Y.
+A1 Koller,Daphne
+YR 2005
+T1 Transfer learning by constructing informative priors
+
+RT Conference Proceedings
+ID 2370618
+A1 Nodelman,Uri
+A1 Koller,Daphne
+A1 Shelton,Christian,R.
+YR 2005
+T1 Expectation Propagation for Continuous Time Bayesian Networks
+SP 431
+OP 440
+
+RT Journal Article
+ID 4765518
+A1 Battle,Alexis
+A1 Segal,Eran
+A1 Koller,Daphne
+YR 2005
+T1 Probabilistic Discovery of Overlapping Cellular Processes and Their Regulation
+JF Journal of Computational Biology
+VO 12
+SP 909
+OP 927
+IS 7
+
+RT Journal Article
+ID 39241423
+A1 Anguelov,Dragomir
+A1 Srinivasan,Praveen
+A1 Koller,Daphne
+A1 Thrun,Sebastian
+A1 Rodgers,Jim
+A1 Davis,James
+YR 2005
+T1 SCAPE: shape completion and animation of people
+SP 408
+OP 416
+
+RT Journal Article
+ID 2150061
+A1 Thrun,Sebastian
+A1 Liu,Yufeng
+A1 Koller,Daphne
+A1 Ng,Andrew,Y.
+A1 Ghahramani,Zoubin
+A1 Durrant-whyte,Hugh,F.
+YR 2004
+T1 Simultaneous Localization and Mapping with Sparse Extended Information Filters
+JF International Journal of Robotic Research
+VO 23
+SP 693
+OP 716
+IS 7-8
+
+RT Journal Article
+ID 2592460
+A1 Segal,Eran
+A1 Friedman,Nir
+A1 Koller,Daphne
+A1 Regev,Aviv
+YR 2004
+T1 A module map showing conditional activity of expression modules in cancer
+
+RT Conference Proceedings
+ID 12673116
+A1 Taskar,Ben
+A1 Klein,Dan
+A1 Collins,Mike
+A1 Koller,Daphne
+A1 Manning,Christopher,D.
+YR 2004
+T1 Max-Margin Parsing
+SP 1
+OP 8
+
+RT Journal Article
+ID 2300459
+A1 Thrun,S.
+A1 Montemerlo,M.
+A1 Koller,D.
+A1 Wegbreit,B.
+A1 Nieto,J.
+A1 Nebot,E.
+YR 2004
+T1 FastSLAM: An efficient solution to the simultaneous localization and mapping problem with unknown data association
+JF Journal of Machine Learning Research
+
+RT Conference Proceedings
+ID 908395
+A1 Taskar,Benjamin
+A1 Chatalbashev,Vassil
+A1 Koller,Daphne
+YR 2004
+T1 Learning associative Markov networks
+SP 102
+
+RT Conference Proceedings
+ID 2368886
+A1 Anguelov,Dragomir
+A1 Koller,Daphne
+A1 Parker,Evan
+A1 Thrun,Sebastian
+YR 2004
+T1 Detecting and Modeling Doors with Mobile Robots
+VO 4
+SP 3777
+OP 3784
+
+RT Conference Proceedings
+ID 1811652
+A1 Anguelov,Dragomir
+A1 Srinivasan,Praveen
+A1 Pang,Hoi-cheung
+A1 Koller,Daphne
+A1 Thrun,Sebastian
+A1 Davis,James
+YR 2004
+T1 The Correlated Correspondence Algorithm for Unsupervised Registration of Nonrigid Surfaces
+
+RT Conference Proceedings
+ID 2474607
+A1 Anguelov,Dragomir
+A1 Koller,Daphne
+A1 Pang,Hoi-Cheung
+A1 Srinivasan,Praveen
+A1 Thrun,Sebastian
+YR 2004
+T1 Recovering Articulated Object Models from 3D Range Data
+SP 18
+OP 26
+
+RT Journal Article
+ID 1968312
+A1 Heckerman,D.
+A1 Meek,Christopher
+A1 Koller,Daphne
+YR 2004
+T1 Probabilistic Models for Relational Data
+
+RT Journal Article
+ID 37052427
+A1 Segal,Eran
+A1 Friedman,Nir
+A1 Koller,Daphne
+A1 Regev,Aviv
+YR 2004
+T1 A module map showing conditional activity of expression modules in cancer
+JF Nature Genetics
+VO 36
+SP 1090
+OP 1098
+IS 10
+
+RT Journal Article
+ID 5936626
+A1 Heckerman,David
+A1 Meek,Chris
+A1 Koller,Daphne
+YR 2004
+T1 7 Probabilistic Entity-Relationship Models, PRMs, and Plate Models
+
+RT Conference Proceedings
+ID 1811618
+A1 Wang,Haidong
+A1 Segal,Eran
+A1 Ben-hur,Asa
+A1 Koller,Daphne
+A1 Brutlag,Douglas,L.
+YR 2004
+T1 Identifying Protein-Protein Interaction Sites on a Genome-Wide Scale
+
+RT Conference Proceedings
+ID 911780
+A1 Battle,Alexis
+A1 Segal,Eran
+A1 Koller,Daphne
+YR 2004
+T1 Probabilistic discovery of overlapping cellular processes and their regulation
+SP 167
+OP 176
+
+RT Journal Article
+ID 1729394
+A1 Getoor,Lise
+A1 Rhee,Jeanne,T.
+A1 Koller,Daphne
+A1 Small,Peter
+YR 2004
+T1 Understanding tuberculosis epidemiology using structured statistical models
+JF Artificial Intelligence in Medicine
+VO 30
+SP 233
+OP 256
+IS 3
+
+RT Journal Article
+ID 1716288
+A1 Halpern,Joseph,Y.
+A1 Koller,Daphne
+YR 2004
+T1 Representation Dependence in Probabilistic Inference
+JF Journal of Artificial Intelligence Research
+VO 21
+SP 319
+OP 356
+
+RT Journal Article
+ID 53282221
+A1 Marion,Rosa,M.
+A1 Regev,Aviv
+A1 Segal,Eran
+A1 Barash,Yoseph
+A1 Koller,Daphne
+A1 Friedman,Nir
+A1 O'Shea,Erin,K.
+YR 2004
+T1 Inaugural Article by a Recently Elected Academy Member
+JF Proceedings of The National Academy of Sciences
+VO 1011
+SP 14315
+OP 14322
+
+RT Conference Proceedings
+ID 1235705
+A1 Koller,Daphne
+YR 2004
+T1 Multi-Agent Planning in Complex Uncertain Environments
+SP 2
+
+RT Conference Proceedings
+ID 50383889
+A1 Koller,Daphne
+YR 2004
+T1 Multi-agent planning in complex uncertain environments
+
+RT Conference Proceedings
+ID 2071336
+A1 Taskar,Benjamin
+A1 Guestrin,Carlos
+A1 Koller,Daphne
+YR 2003
+T1 Max-Margin Markov Networks
+
+RT Journal Article
+ID 2341493
+A1 Shapira,Michael
+A1 Regev,Aviv
+A1 Pe'er,Dana
+A1 Botstein,David
+A1 Friedman,Nir
+A1 Segal,Eran
+A1 Koller,Daphne
+YR 2003
+T1 Module networks: identifying regulatory modules and their condition-specific regulators from gene expression data
+JF Nature Genetics
+VO 34
+SP 166
+OP 176
+IS 2
+
+RT Journal Article
+ID 2572369
+A1 Stuart,Joshua,M.
+A1 Segal,Eran
+A1 Koller,Daphne
+A1 Kim,Stuart,K.
+YR 2003
+T1 A Gene-Coexpression Network for Global Discovery of Conserved Genetic Modules
+JF Science
+VO 302
+SP 249
+OP 255
+IS 5643
+
+RT Conference Proceedings
+ID 616395
+A1 Montemerlo,Michael
+A1 Thrun,Sebastian
+A1 Koller,Daphne
+A1 Wegbreit,Ben
+YR 2003
+T1 FastSLAM 2.0: An Improved Particle Filtering Algorithm for Simultaneous Localization and Mapping that Provably Converges
+SP 1151
+OP 1156
+
+RT Journal Article
+ID 708932
+A1 Friedman,Nir
+A1 Koller,Daphne
+YR 2003
+T1 Being Bayesian About Network Structure. A Bayesian Approach to Structure Discovery in Bayesian Networks
+JF Machine Learning
+VO 50
+SP 95
+OP 125
+IS 1-2
+
+RT Conference Proceedings
+ID 1811248
+A1 Taskar,Benjamin
+A1 Wong,Ming,Fai
+A1 Abbeel,Pieter
+A1 Koller,Daphne
+YR 2003
+T1 Link Prediction in Relational Data
+
+RT Journal Article
+ID 2175970
+A1 Guestrin,Carlos
+A1 Koller,Daphne
+A1 Parr,Ronald
+A1 Venkataraman,Shobha
+YR 2003
+T1 Efficient Solution Algorithms for Factored MDPs
+JF Journal of Artificial Intelligence Research
+VO 19
+SP 399
+OP 468
+
+RT Conference Proceedings
+ID 552448
+A1 Segal,Eran
+A1 Yelensky,R.
+A1 Koller,Daphne
+YR 2003
+T1 Genome-wide discovery of transcriptional modules from DNA sequence and gene expression
+VO 19
+SP 273
+OP 282
+IS 90001
+
+RT Conference Proceedings
+ID 34625
+A1 Guestrin,Carlos
+A1 Koller,Daphne
+A1 Gearhart,Chris
+A1 Kanodia,Neal
+YR 2003
+T1 Generalizing Plans to New Environments in Relational MDPs
+SP 1003
+OP 1010
+
+RT Conference Proceedings
+ID 552446
+A1 Segal,Eran
+A1 Wang,Haidong
+A1 Koller,Daphne
+YR 2003
+T1 Discovering molecular pathways from protein interaction and geneexpression data
+VO 19
+SP 264
+OP 272
+IS 90001
+
+RT Conference Proceedings
+ID 616381
+A1 Blum,Ben
+A1 Shelton,Christian,R.
+A1 Koller,Daphne
+YR 2003
+T1 A Continuation Method for Nash Equilibria in Structured Games
+SP 757
+OP 764
+
+RT Conference Proceedings
+ID 29059
+A1 Segal,Eran
+A1 Battle,Alexis
+A1 Koller,Daphne
+YR 2003
+T1 Decomposing Gene Expression into Cellular Processes
+SP 89
+OP 100
+
+RT Conference Proceedings
+ID 485758
+A1 Nodelman,Uri
+A1 Shelton,Christian,R.
+A1 Koller,Daphne
+YR 2003
+T1 Learning Continuous Time Bayesian Networks
+SP 451
+OP 458
+
+RT Journal Article
+ID 872890
+A1 Getoor,Lisa
+A1 Friedman,Nir
+A1 Koller,Daphne
+A1 Taskar,Benjamin
+YR 2003
+T1 Learning probabilistic models of link structure
+JF Journal of Machine Learning Research
+
+RT Conference Proceedings
+ID 485803
+A1 Segal,Eran
+A1 Pe'er,Dana
+A1 Koller,D.
+A1 Friedman,N.
+YR 2003
+T1 Learning Module Networks
+SP 525
+OP 534
+
+RT Conference Proceedings
+ID 530990
+A1 Taskar,Benjamin
+A1 Wong,Ming,Fai
+A1 Koller,Daphne
+YR 2003
+T1 Learning on the Test Data: Leveraging Unseen Features
+SP 744
+OP 751
+
+RT Journal Article
+ID 2081037
+A1 Friedman,Nir
+A1 Koller,Daphne
+YR 2003
+T1 A Bayesian Approach to Structure Discovery in Bayesian Netw orks
+
+RT Conference Proceedings
+ID 2148975
+A1 Segal,E
+A1 Battle,A
+A1 Koller,D
+YR 2003
+T1 Decomposing gene expression into cellular components
+
+RT Journal Article
+ID 15222547
+A1 Friedman,Nir
+A1 Koller,Daphne
+YR 2003
+T1 Being Bayesian About Network Structure. A Bayesian Approach to Structure Discovery in Bayesian Networks
+JF Machine Learning
+VO 50
+SP 95
+OP 125
+IS 1
+
+RT Journal Article
+ID 55889282
+A1 Stuart,Joshua,M.
+A1 Segal,Eran
+A1 Koller,Daphne
+A1 Kim,Stuart,K.
+YR 2003
+T1 A Gene-Coexpression Network for Global Discovery of Conserved Genetic Modules
+JF Science
+VO 302
+SP 249
+OP 255
+
+RT Journal Article
+ID 779704
+A1 Halpern,Joseph,Y.
+A1 Koller,Daphne
+YR 2003
+T1 Representation Dependence in Probabilistic Inference
+JF Computing Research Repository
+VO cs.AI/0312
+
+RT Conference Proceedings
+ID 474094
+A1 Koller,Daphne
+YR 2003
+T1 Statistical learning from relational data
+SP 4
+OP 4
+
+RT Conference Proceedings
+ID 56001
+A1 Montemerlo,Michael
+A1 Thrun,Sebastian
+A1 Koller,Daphne
+A1 Wegbreit,Ben
+YR 2002
+T1 FastSLAM: A Factored Solution to the Simultaneous Localization and Mapping Problem
+SP 593
+OP 598
+
+RT Conference Proceedings
+ID 485409
+A1 Taskar,Benjamin
+A1 Abbeel,Pieter
+A1 Koller,Daphne
+YR 2002
+T1 Discriminative probabilistic models of relational data
+SP 485
+OP 492
+
+RT Journal Article
+ID 236
+A1 Getoor,Lise
+A1 Friedman,Nir
+A1 Koller,Daphne
+A1 Taskar,Benjamin
+YR 2002
+T1 Learning Probabilistic Models of Link Structure
+JF Journal of Machine Learning Research
+VO 3
+SP 679
+OP 707
+
+RT Journal Article
+ID 872904
+A1 Tong,Simon
+A1 Koller,Daphne
+YR 2002
+T1 Support vector machine active learning with applications to text classification
+JF Journal of Machine Learning Research
+
+RT Journal Article
+ID 3748580
+A1 Thrun,S.
+A1 Koller,D.
+A1 Ghahramani,Z.
+A1 Durrant-whyte,H.
+A1 Ng,A.,Y.
+YR 2002
+T1 Simultaneous Mapping and Localization with Sparse Extended Information Filters
+
+RT Conference Proceedings
+ID 76759
+A1 Guestrin,Carlos
+A1 Venkataraman,Shobha
+A1 Koller,Daphne
+YR 2002
+T1 Context Specific Multiagent Coordination and Planning with FactoredMDPs
+SP 253
+OP 259
+
+RT Conference Proceedings
+ID 58221
+A1 Segal,Eran
+A1 Barash,Yoseph
+A1 Simon,Itamar
+A1 Friedman,Nir
+A1 Koller,Daphne
+YR 2002
+T1 From promoter sequence to expression: a probabilistic framework
+SP 263
+OP 272
+
+RT Conference Proceedings
+ID 58017
+A1 Vickrey,David
+A1 Koller,Daphne
+YR 2002
+T1 Multi-Agent Algorithms for Solving Graphical Games
+SP 345
+OP 351
+
+RT Conference Proceedings
+ID 485376
+A1 Nodelman,Uri
+A1 Shelton,Christian,R.
+A1 Koller,Daphne
+YR 2002
+T1 Continuous Time Bayesian Networks
+SP 378
+OP 387
+
+RT Conference Proceedings
+ID 61020
+A1 Anguelov,Dragomir
+A1 Biswas,Rahul
+A1 Koller,Daphne
+A1 Limketkai,Benson
+A1 Thrun,Sebastian
+YR 2002
+T1 Learning Hierarchical Object Maps of Non-Stationary Environments with Mobile Robots
+SP 10
+OP 17
+
+RT Conference Proceedings
+ID 27812626
+A1 Guestrin,Carlos
+A1 Koller,Daphne
+A1 Parr,Ronald
+YR 2002
+T1 Multiagent Planning with Factored MDPs
+
+RT Conference Proceedings
+ID 485580
+A1 Lerner,Uri
+A1 Moses,Brooks
+A1 Maricia,Scott
+A1 Mcilraith,Sheila,A.
+A1 Koller,Daphne
+YR 2002
+T1 Monitoring a Complez Physical System using a Hybrid Dynamic Bayes Net
+SP 301
+OP 310
+
+RT Journal Article
+ID 3752699
+A1 Thrun,Sebastian
+A1 Koller,Daphne
+A1 Ghahmarani,Zoubin
+A1 Durrant-Whyte,Hugh
+YR 2002
+T1 SLAM Updates Require Constant Time
+
+RT Conference Proceedings
+ID 665334
+A1 Segal,Eran
+A1 Koller,Daphne
+YR 2002
+T1 Probabilistic hierarchical clustering for biological data
+SP 273
+OP 280
+
+RT Conference Proceedings
+ID 3091516
+A1 Montemerlo,M.
+A1 Thun,S.
+A1 Koller,D.
+A1 Wegbreit,B.
+YR 2002
+T1 FastSLAM: A factored solution to simultaneous mapping and localization
+
+RT Conference Proceedings
+ID 1318308
+A1 Segal,E.
+A1 Barash,Y.
+A1 Simon,I.
+A1 Friedman,N.
+A1 Koller,D.
+YR 2002
+T1 From sequence to expression: a probabilistic framework
+
+RT Journal Article
+ID 3317783
+A1 Getoor,Lise
+A1 Friedman,Nir
+A1 Koller,Daphne
+YR 2002
+T1 Learning Probabilistic Models of Relational Structure
+JF Journal of Machine Learning Research
+
+RT Journal Article
+ID 3018814
+A1 Guestrin,Carlos
+A1 Koller,Daphne
+A1 Parr,Ronald
+A1 Venktaraman,Shobha
+YR 2002
+T1 Efficient solution methods for factored MDPs
+JF Journal of Artificial Intelligence Research
+
+RT Journal Article
+ID 1323881
+A1 Getoor,L.
+A1 Koller,D.
+A1 Taskar,B.
+YR 2002
+T1 Statistical models for relational data
+
+RT Journal Article
+ID 3318203
+A1 Getoor,L.
+A1 Friedman,N.
+A1 Koller,D.
+YR 2002
+T1 Learning Structured Staistical Models from Relational Data
+
+RT Journal Article
+ID 2374347
+A1 Getoor,L.
+A1 Friedman,N.
+A1 Koller,D.
+A1 Taskar,B.
+YR 2002
+T1 Learning probabilistic models with link uncertainty
+JF Journal of Machine Learning Research
+
+RT Journal Article
+ID 39238922
+A1 Segal,Eran
+A1 Barash,Yoseph
+A1 Simon,Itamar
+A1 Friedman,Nir
+A1 Koller,Daphne
+YR 2002
+T1 From promoter sequence to expression: a probabilistic framework
+SP 263
+OP 272
+
+RT Journal Article
+ID 5084095
+A1 Milch,Brian
+A1 Koller,Daphne
+YR 2002
+T1 Ignorable Information in Multi-Agent Scenarios
+
+RT Journal Article
+ID 5992622
+A1 Koller,Daphne
+YR 2002
+T1 Local Algorithms for Finding Equilibria in Structured Games
+
+RT Journal Article
+ID 115364
+A1 Tong,Simon
+A1 Koller,Daphne
+YR 2001
+T1 Support Vector Machine Active Learning with Applications to Text Classification
+JF Journal of Machine Learning Research
+VO 2
+SP 45
+OP 66
+
+RT Journal Article
+ID 1301425
+A1 Getoor,L.
+A1 Friedman,N.
+A1 Koller,D.
+A1 Pfeffer,A.
+YR 2001
+T1 Learning probabilistic relational models
+
+RT Conference Proceedings
+ID 116131
+A1 Koller,Daphne
+A1 Milch,Brian
+YR 2001
+T1 Multi-Agent Influence Diagrams for Representing and Solving Games
+SP 1027
+OP 1036
+
+RT Conference Proceedings
+ID 135153
+A1 Segal,Eran
+A1 Taskar,Benjamin
+A1 Gasch,Audrey
+A1 Friedman,Nir
+A1 Koller,Daphne
+YR 2001
+T1 Rich Probabilistic Models for Gene Expression
+VO 1
+SP 243
+OP 252
+
+RT Conference Proceedings
+ID 102220
+A1 Taskar,Benjamin
+A1 Segal,Eran
+A1 Koller,Daphne
+YR 2001
+T1 Probabilistic Classification and Clustering in Relational Data
+SP 870
+OP 878
+
+RT Conference Proceedings
+ID 117485
+A1 Guestrin,Carlos
+A1 Koller,Daphne
+A1 Parr,Ronald
+YR 2001
+T1 Multiagent Planning with Factored MDPs
+SP 1523
+OP 1530
+
+RT Journal Article
+ID 64465
+A1 Getoor,Lise
+A1 Taskar,Benjamin
+A1 Koller,Daphne
+YR 2001
+T1 Selectivity Estimation using Probabilistic Models
+JF Sigmod Record
+VO 30
+SP 461
+OP 472
+IS 2
+
+RT Conference Proceedings
+ID 63140
+A1 Getoor,Lise
+A1 Friedman,Nir
+A1 Koller,Daphne
+A1 Taskar,Benjamin
+YR 2001
+T1 Learning Probabilistic Models of Relational Structure
+SP 170
+OP 177
+
+RT Conference Proceedings
+ID 88241
+A1 Guestrin,Carlos
+A1 Koller,Daphne
+A1 Parr,Ronald
+YR 2001
+T1 Max-Norm Projections for Factored MDPs
+SP 673
+OP 682
+
+RT Journal Article
+ID 130082
+A1 Getoor,Lise
+A1 Segal,Eran
+A1 Taskar,Ben
+A1 Koller,Daphne
+YR 2001
+T1 Probabilistic Models of Text and Link Structure for Hypertext Classification
+
+RT Conference Proceedings
+ID 153754
+A1 Tong,Simon
+A1 Koller,Daphne
+YR 2001
+T1 Active Learning for Structure in Bayesian Networks
+SP 863
+OP 869
+
+RT Conference Proceedings
+ID 1388461
+A1 Taskar,B.
+A1 Segal,E.
+A1 Koller,D.
+YR 2001
+T1 Probabilistic clustering in relational data
+
+RT Conference Proceedings
+ID 110717
+A1 Segal,Eran
+A1 Koller,Daphne
+A1 Ormoneit,Dirk
+YR 2001
+T1 Probabilistic Abstraction Hierarchies
+SP 913
+OP 920
+
+RT Conference Proceedings
+ID 127771
+A1 Chajewska,Urszula
+A1 Koller,Daphne
+A1 Ormoneit,Dirk
+YR 2001
+T1 Learning an Agent's Utility Function by Observing Behavior
+SP 35
+OP 42
+
+RT Conference Proceedings
+ID 136960
+A1 Guestrin,Carlos
+A1 Koller,Daphne
+A1 Parr,Ronald
+YR 2001
+T1 Solving Factored POMDPs with Linear Value Functions
+
+RT Conference Proceedings
+ID 135566
+A1 Lerner,Uri
+A1 Segal,Eran
+A1 Koller,Daphne
+YR 2001
+T1 Exact Inference in Networks with Discrete Children of Continuous Parents
+SP 319
+OP 328
+
+RT Conference Proceedings
+ID 3608970
+A1 Getoor,L.
+A1 Friedman,N.
+A1 Koller,D.
+A1 Taskar,B.
+YR 2001
+T1 Probabilistic Models of Relational Structure
+
+RT Journal Article
+ID 3315825
+A1 Friedman,N.
+A1 Koller,D.
+YR 2001
+T1 Learning Bayesian networks from data
+
+RT Conference Proceedings
+ID 2970722
+A1 Taskar,P.,A.,B.
+A1 Koller,D.
+YR 2001
+T1 Discriminative probabilistic models for relational data
+
+RT Conference Proceedings
+ID 3317794
+A1 Getoor,Lise
+A1 Koller,Daphne
+A1 Taskar,Benjamin
+A1 Friedman,Nir
+YR 2001
+T1 Learning Probabilistic Relational Models with Structural Uncertainty
+
+RT Journal Article
+ID 3732976
+A1 Koller,D.
+A1 Lerner,U.
+YR 2001
+T1 Sequential Monte Carlo Methods in Practice
+
+RT Conference Proceedings
+ID 3723704
+A1 Getoor,L.
+A1 Taskar,B.
+A1 Koller,D.
+YR 2001
+T1 Selectivity Estimation using Probabilistic Relational Models
+
+RT Conference Proceedings
+ID 2970718
+A1 Taskar,B.
+A1 Abbeel,P.
+A1 Koller,D.
+YR 2001
+T1 Discriminative Probabilistic Models for Relational Classification
+
+RT Journal Article
+ID 42297143
+A1 KOLLER,D
+YR 2001
+T1 Dynamic aspects of the response of the pulvinus in the leaf of bean plants( L.) to photoexcitation
+JF Journal of Plant Physiology
+VO 158
+SP 347
+OP 356
+IS 3
+
+RT Conference Proceedings
+ID 13293164
+A1 Breese,Jack,S.
+A1 Koller,Daphne
+YR 2001
+T1 UAI '01: Proceedings of the 17th Conference in Uncertainty in Artificial Intelligence, University of Washington, Seattle, Washington, USA, August 2-5, 2001
+
+RT Journal Article
+ID 39217294
+A1 Getoor,Lise
+A1 Taskar,Benjamin
+A1 Koller,Daphne
+YR 2001
+T1 Selectivity estimation using probabilistic models
+JF Sigmod Record
+SP 461
+OP 472
+
+RT Conference Proceedings
+ID 1249988
+A1 Levoy,M.
+A1 Pulli,K.
+A1 Curless,B.
+A1 Rusinkiewicz,S.
+A1 Koller,D.
+A1 Pereira,L.
+A1 Ginzton,M.
+A1 Anderson,S.
+A1 Davis,J.
+A1 Ginsberg,J.
+A1 Shade,J.
+A1 Fulk,D.
+YR 2000
+T1 The digital michelangelo project
+
+RT Conference Proceedings
+ID 70066
+A1 Tong,Simon
+A1 Koller,Daphne
+YR 2000
+T1 Support Vector Machine Active Learning with Application sto Text Classification
+SP 999
+OP 1006
+
+RT Conference Proceedings
+ID 245895
+A1 Lerner,Uri
+A1 Parr,Ronald
+A1 Koller,Daphne
+A1 Biswas,Gautam
+YR 2000
+T1 Bayesian Fault Detection and Diagnosis in Dynamic Systems
+SP 531
+OP 537
+
+RT Conference Proceedings
+ID 238705
+A1 Chajewska,Urszula
+A1 Koller,Daphne
+A1 Parr,Ronald
+YR 2000
+T1 Making Rational Decisions Using Adaptive Utility Elicitation
+SP 363
+OP 369
+
+RT Conference Proceedings
+ID 141885
+A1 Friedman,Nir
+A1 Koller,Daphne
+YR 2000
+T1 Being Bayesian about Network Structure
+SP 201
+OP 210
+
+RT Conference Proceedings
+ID 248256
+A1 Koller,Daphne
+A1 Parr,Ronald
+YR 2000
+T1 Policy Iteration for Factored MDPs
+SP 326
+OP 334
+
+RT Conference Proceedings
+ID 561108
+A1 Tong,Simon
+A1 Koller,Daphne
+YR 2000
+T1 Active Learning for Parameter Estimation in Bayesian Networks
+SP 647
+OP 653
+
+RT Conference Proceedings
+ID 561180
+A1 Elidan,Gal
+A1 Lotner,Noam
+A1 Friedman,Nir
+A1 Koller,Daphne
+YR 2000
+T1 Discovering Hidden Variables: A Structure-Based Approach
+SP 479
+OP 485
+
+RT Conference Proceedings
+ID 242708
+A1 Pfeffer,Avi
+A1 Koller,Daphne
+YR 2000
+T1 Semantics and Inference for Recursive Probability Models
+SP 538
+OP 544
+
+RT Journal Article
+ID 167045
+A1 Koller,Daphne
+A1 Lerner,Uri
+YR 2000
+T1 Sampling in Factored Dynamic Systems
+
+RT Conference Proceedings
+ID 235896
+A1 Tong,Simon
+A1 Koller,Daphne
+YR 2000
+T1 Restricted Bayes Optimal Classifiers
+SP 658
+OP 664
+
+RT Conference Proceedings
+ID 239129
+A1 Chajewska,Urszula
+A1 Koller,Daphne
+YR 2000
+T1 Utilities as Random Variables: Density Estimation and Structure Discovery
+SP 63
+OP 71
+
+RT Journal Article
+ID 803283
+A1 Friedman,Nir
+A1 Halpern,Joseph,Y.
+A1 Koller,Daphne
+YR 2000
+T1 First-order conditional logic for default reasoning revisited
+JF ACM Transactions on Computational Logic
+VO 1
+SP 175
+OP 207
+IS 2
+
+RT Book, Whole
+ID 4051373
+A1 Desjardins,Marie
+A1 Getoor,Lise
+A1 Koller,Daphne
+YR 2000
+T1 Using Feature Hierarchies in Bayesian Network Learning
+SP 260
+OP 270
+
+RT Journal Article
+ID 183831
+A1 Getoor,Lise
+A1 Koller,Daphne
+YR 2000
+T1 Learning Probabilistic Relational Models with Structural Uncertainty
+
+RT Conference Proceedings
+ID 485282
+A1 Milch,Brian
+A1 Koller,Daphne
+YR 2000
+T1 Probabilistic Models for Agent's Beliefs and Decisions
+SP 389
+OP 396
+
+RT Conference Proceedings
+ID 235555
+A1 Getoor,Lise
+A1 Koller,Daphne
+A1 Friedman,Nir
+YR 2000
+T1 From Instances to Classes in Probabilistic Relational Models
+
+RT Journal Article
+ID 3792308
+A1 Pfefier,A.
+A1 Koller,D.
+A1 Takusagawa,K.
+YR 2000
+T1 State-space approximations for extensive form games
+
+RT Conference Proceedings
+ID 309563
+A1 Friedman,Nir
+A1 Getoor,Lise
+A1 Koller,Daphne
+A1 Pfeffer,Avi
+YR 1999
+T1 Learning Probabilistic Relational Models
+SP 1300
+OP 1309
+
+RT Conference Proceedings
+ID 152499
+A1 Koller,Daphne
+A1 Parr,Ronald
+YR 1999
+T1 Computing Factored Value Functions for Policies in Structured MDPs
+SP 1332
+OP 1339
+
+RT Conference Proceedings
+ID 288271
+A1 Koller,Daphne
+A1 Lerner,Uri
+A1 Anguelov,Dragomir
+YR 1999
+T1 A General Algorithm for Approximate Inference and Its Application to Hybrid Bayes Nets
+SP 324
+OP 333
+
+RT Conference Proceedings
+ID 256468
+A1 Pfeffer,Avi
+A1 Koller,Daphne
+A1 Milch,Brian
+A1 Takusagawa,Ken,T.
+YR 1999
+T1 SPOOK: A system for probabilistic object-oriented knowledge representation
+SP 541
+OP 550
+
+RT Book, Whole
+ID 469217
+A1 Koller,Daphne
+YR 1999
+T1 Probabilistic Relational Models
+SP 3
+OP 13
+
+RT Conference Proceedings
+ID 615617
+A1 Kearns,Michael,J.
+A1 Koller,Daphne
+YR 1999
+T1 Efficient Reinforcement Learning in Factored MDPs
+SP 740
+OP 747
+
+RT Conference Proceedings
+ID 112490
+A1 Boyen,Xavier
+A1 Koller,Daphne
+YR 1999
+T1 Exploiting the Architecture of Dynamic Systems
+SP 313
+OP 320
+
+RT Conference Proceedings
+ID 179894
+A1 Boyen,Xavier
+A1 Friedman,Nir
+A1 Koller,Daphne
+YR 1999
+T1 Discovering the Hidden Structure of Complex Dynamic Systems
+SP 91
+OP 100
+
+RT Conference Proceedings
+ID 250092
+A1 Ng,Andrew,Y.
+A1 Parr,Ronald
+A1 Koller,Daphne
+YR 1999
+T1 Policy Search via Density Estimation
+SP 1022
+OP 1028
+
+RT Conference Proceedings
+ID 3082
+A1 Pfeffer,Avi
+A1 Koller,Daphne
+A1 Friedman,Nir
+YR 1999
+T1 Structured Representation of Complex Stochastic Systems
+
+RT Conference Proceedings
+ID 2036900
+A1 Boyen,X.
+A1 Friedman,N.
+A1 Koller,D.
+YR 1999
+T1 Learning the structure of complex dynamic systems
+
+RT Conference Proceedings
+ID 265338
+A1 Rodríguez,Andrés
+A1 Parr,Ronald
+A1 Koller,Daphne
+YR 1999
+T1 Reinforcement Learning Using Approximate Belief States
+SP 1036
+OP 1042
+
+RT Conference Proceedings
+ID 3568892
+A1 Friedman,N.
+A1 Getoor,L.
+A1 Koller,D.
+YR 1999
+T1 Pfe er: Learning probabilistic relational models
+
+RT Journal Article
+ID 258808
+A1 Chajewska,Urszula
+A1 Koller,Daphne
+YR 1999
+T1 Learning the Structure of Utility Functions
+
+RT Conference Proceedings
+ID 2359
+A1 Boyen,Xavier
+A1 Koller,Daphne
+YR 1998
+T1 Tractable Inference for Complex Stochastic Processes
+SP 33
+OP 42
+
+RT Conference Proceedings
+ID 346057
+A1 Koller,Daphne
+A1 Pfeffer,Avi
+YR 1998
+T1 Probabilistic Frame-Based Systems
+SP 580
+OP 587
+
+RT Conference Proceedings
+ID 364252
+A1 Koller,Daphne
+A1 Fratkina,Raya
+YR 1998
+T1 Using Learning for Approximation in Stochastic Processes
+SP 287
+OP 295
+
+RT Conference Proceedings
+ID 400668
+A1 Boyen,Xavier
+A1 Koller,Daphne
+YR 1998
+T1 Approximate Learning of Dynamic Models
+SP 396
+OP 402
+
+RT Conference Proceedings
+ID 489868
+A1 Friedman,Nir
+A1 Koller,Daphne
+A1 Pfeffer,Avi
+YR 1998
+T1 Structured Representation of Complex Stochastic Systems
+SP 157
+OP 164
+
+RT Journal Article
+ID 40305558
+A1 Horwitz,J.,S.
+A1 Chrisey,D.,B.
+A1 Stroud,R.,M.
+A1 Carter,A.,C.
+A1 Kim,J.
+A1 Chang,W.
+A1 Pond,J.,M.
+A1 Kirchoefer,S.,W.
+A1 Osofsky,M.,S.
+A1 Koller,D.
+YR 1998
+T1 Pulsed laser deposition as a materials research tool
+JF Applied Surface Science
+VO 127
+SP 507
+OP 513
+IS 1-2
+
+RT Journal Article
+ID 2572464
+A1 Koller,D.
+A1 Lerner,U.
+A1 Angelov,D.
+YR 1998
+T1 A general algo-rithm for approximate inference and its application to hybrid bayes nets
+
+RT Journal Article
+ID 35809884
+A1 Hummer,M.
+A1 Koller,D.
+A1 Hofer,A.
+A1 Ulmer,H.
+A1 Fleischhacker,W.,W.
+YR 1998
+T1 Off-label use of antipsychotic drugs
+JF Schizophrenia Research
+VO 29
+SP 161
+OP 161
+IS 1
+
+RT Conference Proceedings
+ID 50133470
+A1 Koller,D.
+A1 Byers,J.,M.
+A1 Osofsky,M.,S.
+A1 Soulen,R.,J.
+A1 Stroud,R.
+A1 Auyeng,R.,C.,Y.
+A1 Chrisey,D.,B.
+A1 Horowitz,J.,S.
+A1 Eddy,C.,R.
+A1 Kim,J.
+YR 1998
+T1 Suppression of Superconductivity by Injection on Spin-Polarized Current
+
+RT Conference Proceedings
+ID 491881
+A1 Koller,Daphne
+YR 1998
+T1 Structured Probabilistic Models: Bayesian Networks and Beyond
+SP 1210
+OP 1211
+
+RT Conference Proceedings
+ID 50133874
+A1 Stroud,R.,M.
+A1 Kim,J.
+A1 Eddy,C.,R.
+A1 Auyeung,R.,C.,Y.
+A1 Koller,D.
+A1 Osofsky,M.,S.
+A1 Soulen,R.,J.
+A1 Horwtiz,J.,S.
+A1 Chrisey,D.,B.
+YR 1998
+T1 Fabrication of High Temperature Superconductor-Colossal Magnetoresistor Spin Injection Devices
+
+RT Journal Article
+ID 1712717
+A1 Friedman,Nir
+A1 Halpern,Joseph,Y.
+A1 Koller,Daphne
+YR 1998
+T1 First-Order Conditional Logic Revisited
+JF Computing Research Repository
+VO cs.AI/9808
+
+RT Journal Article
+ID 35809883
+A1 Eder,U.
+A1 Koller,D.
+A1 Hummer,M.
+A1 Kurzthaler,I.
+A1 Ulmer,H.
+A1 Fleischhacker,W.,W.
+YR 1998
+T1 Variables influencing outpatients compliance
+JF Schizophrenia Research
+VO 29
+SP 161
+OP 161
+IS 1
+
+RT Conference Proceedings
+ID 1481
+A1 Koller,Daphne
+A1 Sahami,Mehran
+YR 1997
+T1 Hierarchically classifying documents using very few words
+SP 170
+OP 178
+
+RT Conference Proceedings
+ID 339036
+A1 Koller,Daphne
+A1 Pfeffer,Avi
+YR 1997
+T1 Object-Oriented Bayesian Networks
+SP 302
+OP 313
+
+RT Journal Article
+ID 709006
+A1 Binder,John
+A1 Koller,Daphne
+A1 Russell,Stuart,J.
+A1 Kanazawa,Keiji
+YR 1997
+T1 Adaptive Probabilistic Networks with Hidden Variables
+JF Machine Learning
+VO 29
+SP 213
+OP 244
+IS 2-3
+
+RT Journal Article
+ID 346582
+A1 Koller,Daphne
+A1 Pfeffer,Avi
+YR 1997
+T1 Representations and Solutions for Game-Theoretic Problems
+JF Artificial Intelligence
+VO 94
+SP 167
+OP 215
+IS 1-2
+
+RT Conference Proceedings
+ID 297261
+A1 Florescu,Daniela
+A1 Koller,Daphne
+A1 Levy,Alon,Y.
+YR 1997
+T1 Using Probabilistic Information in Data Integration
+SP 216
+OP 225
+
+RT Conference Proceedings
+ID 491887
+A1 Koller,Daphne
+A1 Levy,Alon,Y.
+A1 Pfeffer,Avi
+YR 1997
+T1 P-CLASSIC: A Tractable Probablistic Description Logic
+SP 390
+OP 397
+
+RT Conference Proceedings
+ID 367702
+A1 Bauer,Eric
+A1 Koller,Daphne
+A1 Singer,Yoram
+YR 1997
+T1 Update Rules for Parameter Estimation in Bayesian Networks
+SP 3
+OP 13
+
+RT Conference Proceedings
+ID 3397
+A1 Koller,Daphne
+A1 Mcallester,David,A.
+A1 Pfeffer,Avi
+YR 1997
+T1 Effective Bayesian Inference for Stochastic Programs
+SP 740
+OP 747
+
+RT Conference Proceedings
+ID 288529
+A1 Koller,Daphne
+A1 Pfeffer,Avi
+YR 1997
+T1 Learning Probabilities for Noisy First-Order Rules
+SP 1316
+OP 1323
+
+RT Conference Proceedings
+ID 347959
+A1 Kozlov,Alexander,V.
+A1 Koller,Daphne
+YR 1997
+T1 Nonuniform Dynamic Discretization in Hybrid Networks
+SP 314
+OP 325
+
+RT Journal Article
+ID 12855250
+A1 Stengel,Bernhard,von
+A1 Koller,Daphne
+YR 1997
+T1 Team-Maxmin Equilibria
+JF Games and Economic Behavior
+VO 21
+SP 309
+OP 321
+IS 1
+
+RT Journal Article
+ID 15222283
+A1 Binder,John
+A1 Koller,Daphne
+A1 Russell,Stuart
+A1 Kanazawa,Keiji
+YR 1997
+T1 Adaptive Probabilistic Networks with Hidden Variables
+JF Machine Learning
+VO 29
+SP 213
+OP 244
+IS 2
+
+RT Journal Article
+ID 791531
+A1 Karger,David,R.
+A1 Koller,Daphne
+YR 1997
+T1 (De)randomized Construction of Small Sample Spaces in NC
+JF Journal of Computer and System Sciences
+VO 55
+SP 402
+OP 413
+IS 3
+
+RT Journal Article
+ID 2013837
+A1 Koller,D.
+YR 1997
+T1 A robust vision-based tracking technique for augmented reality applications
+
+RT Journal Article
+ID 14501644
+A1 Karger,David,R.
+A1 Koller,Daphne
+YR 1997
+T1 (De)randomized Construction of Small Sample Spaces in N C
+JF Journal of Computer and System Sciences
+VO 55
+SP 402
+OP 413
+IS 3
+
+RT Conference Proceedings
+ID 307484
+A1 Koller,Daphne
+A1 Sahami,Mehran
+YR 1996
+T1 Toward Optimal Feature Selection
+SP 284
+OP 292
+
+RT Conference Proceedings
+ID 1845
+A1 Boutilier,Craig
+A1 Friedman,Nir
+A1 Goldszmidt,Moisés
+A1 Koller,Daphne
+YR 1996
+T1 Context-Specific Independence in Bayesian Networks
+SP 115
+OP 123
+
+RT Journal Article
+ID 261669
+A1 Bacchus,Fahiem
+A1 Grove,Adam,J.
+A1 Halpern,Joseph,Y.
+A1 Koller,Daphne
+YR 1996
+T1 From Statistical Knowledge Bases to Degrees of Belief
+JF Artificial Intelligence
+VO 87
+SP 75
+OP 143
+IS 1-2
+
+RT Journal Article
+ID 337616
+A1 Koller,Daphne
+A1 Megiddo,Nimrod
+A1 Stengel,Bernhard,von
+YR 1996
+T1 Efficient Computation of Equilibria for Extensive Two-Person Games
+JF Games and Economic Behavior
+VO 14
+SP 247
+OP 259
+IS 2
+
+RT Journal Article
+ID 34396353
+A1 Koller,Daphne
+A1 Megiddo,Nimrod
+YR 1996
+T1 Finding mixed strategies with small supports in extensive form games
+JF International Journal of Game Theory
+VO 25
+SP 73
+OP 92
+IS 1
+
+RT Journal Article
+ID 2395851
+A1 KOLLER,DAPHNE
+A1 MEGIDDO,NIMROD
+YR 1996
+T1 Finding Mixed Strategies with Small Supports in Extensive Form Games1
+
+RT Conference Proceedings
+ID 401237
+A1 Koller,Daphne
+A1 Halpern,Joseph,Y.
+YR 1996
+T1 Irrelevance and Conditioning in First-Order Probabilistic Logic
+SP 569
+OP 576
+
+RT Journal Article
+ID 811295
+A1 Grove,Adam,J.
+A1 Halpern,Joseph,Y.
+A1 Koller,Daphne
+YR 1996
+T1 Asymptotic Conditional Probabilities: The Non-Unary Case
+JF Journal of Symbolic Logic
+VO 61
+SP 250
+OP 276
+IS 1
+
+RT Conference Proceedings
+ID 318966
+A1 Friedman,Nir
+A1 Halpern,Joseph,Y.
+A1 Koller,Daphne
+YR 1996
+T1 First-Order Conditional Logic Revisited
+SP 1305
+OP 1312
+
+RT Journal Article
+ID 15204289
+A1 Grove,Adam,J.
+A1 Halpern,Joseph,Y.
+A1 Koller,Daphne
+YR 1996
+T1 Asymptotic Conditional Probabilities: The Unary Case
+JF Siam Journal on Computing
+VO 25
+SP 1
+IS 1
+
+RT Journal Article
+ID 4008511
+A1 Koller,D.
+A1 Sahami,M.
+YR 1996
+T1 Towards optimal feature selection" ICML96
+
+RT Journal Article
+ID 2996772
+A1 Koller,Daphne
+A1 Megiddo,Nimrod
+A1 Stengel,Bernhard,Von
+YR 1996
+T1 Efficient computation of equilibria for extensive form games
+
+RT Journal Article
+ID 1623047
+A1 Koller,D.
+A1 Shoham,Y.
+A1 Wellman,M.,P.
+A1 Durfee,E.,H.
+A1 Birmingham,W.,P.
+A1 Carbonell,J.
+YR 1996
+T1 The role of AI in digital libraries
+JF IEEE Expert / IEEE Intelligent Systems
+VO 11
+SP 8
+OP 13
+IS 3
+
+RT Journal Article
+ID 781625
+A1 Koller,Daphne
+YR 1996
+T1 Structured representations and intractability
+JF ACM Computing Surveys
+VO 28
+SP 8
+IS 4es
+
+RT Conference Proceedings
+ID 2826
+A1 Kanazawa,Keiji
+A1 Koller,Daphne
+A1 Russell,Stuart,J.
+YR 1995
+T1 Stochastic simulation algorithms for dynamic probabilistic networks
+SP 346
+OP 351
+
+RT Conference Proceedings
+ID 1015
+A1 Russell,Stuart,J.
+A1 Binder,John
+A1 Koller,Daphne
+A1 Kanazawa,Keiji
+YR 1995
+T1 Local Learning in Probabilistic Networks with Hidden Variables
+SP 1146
+OP 1152
+
+RT Conference Proceedings
+ID 6255
+A1 Luong,Quang-tuan
+A1 Weber,Joseph
+A1 Koller,Daphne
+A1 Malik,Jitendra
+YR 1995
+T1 An Integrated Stereo-Based Approach to Automatic Vehicle Guidance
+SP 52
+OP 57
+
+RT Book, Whole
+ID 192355
+A1 Glesner,Sabine
+A1 Koller,Daphne
+YR 1995
+T1 Constructing Flexible Dynamic Belief Networks from First-Order Probalistic Knowledge Bases
+SP 217
+OP 226
+
+RT Conference Proceedings
+ID 326977
+A1 Koller,Daphne
+A1 Pfeffer,Avi
+YR 1995
+T1 Generating and Solving Imperfect Information Games
+SP 1185
+OP 1193
+
+RT Journal Article
+ID 314457
+A1 Koller,Daphne
+A1 Megiddo,Nimrod
+YR 1995
+T1 Finding Mixed Strategies with Small Supports in Extensive Form Games
+
+RT Conference Proceedings
+ID 312687
+A1 Feigenbaum,Joan
+A1 Koller,Daphne
+A1 Shor,Peter,W.
+YR 1995
+T1 A Game-Theoretic Classification of Interactive Complexity Classes
+SP 227
+OP 237
+
+RT Conference Proceedings
+ID 337511
+A1 Halpern,Joseph,Y.
+A1 Koller,Daphne
+YR 1995
+T1 Representation Dependence in Probabilistic Inference
+SP 1853
+OP 1861
+
+RT Journal Article
+ID 3335748
+A1 Russell,S.,J.
+A1 Binder,J.
+A1 Koller,D.
+A1 Kanazawa,K.
+YR 1995
+T1 Local learning in probabilistic models with hidden variables
+
+RT Conference Proceedings
+ID 83019
+A1 Koller,D.
+A1 Weber,J.
+A1 Huang,T.
+A1 Malik,J.
+A1 Ogasawara,G.
+A1 Rao,B.
+A1 Russell,S.
+YR 1994
+T1 Towards robust automatic traffic scene analysis in real-time
+
+RT Conference Proceedings
+ID 305656
+A1 Huang,Timothy
+A1 Koller,Daphne
+A1 Malik,Jitendra
+A1 Ogasawara,Gary,H.
+A1 Rao,B.
+A1 Russell,Stuart,J.
+A1 Weber,Joseph
+YR 1994
+T1 Automatic Symbolic Traffic Scene Analysis Using Belief Networks
+SP 966
+OP 972
+
+RT Conference Proceedings
+ID 367465
+A1 Koller,Daphne
+A1 Megiddot,Nimrod
+A1 Stengel,Bernhard,von
+YR 1994
+T1 Fast algorithms for finding randomized strategies in game trees
+SP 750
+OP 759
+
+RT Journal Article
+ID 384801
+A1 Grove,Adam,J.
+A1 Halpern,Joseph,Y.
+A1 Koller,Daphne
+YR 1994
+T1 Random Worlds and Maximum Entropy
+JF Journal of Artificial Intelligence Research
+VO 2
+SP 33
+OP 88
+
+RT Conference Proceedings
+ID 313555
+A1 Glesner,Sabine
+A1 Koller,Daphne
+YR 1994
+T1 Constructing Flexible Dynamic Belief Networks from First-Order Probabilistic Knowledge Bases
+
+RT Conference Proceedings
+ID 2342
+A1 Karger,David,R.
+A1 Koller,Daphne
+YR 1994
+T1 (De)randomized Construction of Small Sample Spaces in \calNC
+SP 252
+OP 263
+
+RT Conference Proceedings
+ID 386143
+A1 Bacchus,Fahiem
+A1 Grove,Adam,J.
+A1 Halpern,Joseph,Y.
+A1 Koller,Daphne
+YR 1994
+T1 Generating New Beliefs from Old
+SP 37
+OP 45
+
+RT Journal Article
+ID 15208893
+A1 Koller,Daphne
+A1 Megiddo,Nimrod
+YR 1994
+T1 Constructing Small Sample Spaces Satisfying Given Constraints
+JF Siam Journal on Discrete Mathematics
+VO 7
+SP 260
+IS 2
+
+RT Journal Article
+ID 853360
+A1 Koller,Daphne
+A1 Megiddo,Nimrod
+YR 1994
+T1 Constructing Small Sample Spaces Satisfying Given Constants
+JF Siam Journal on Discrete Mathematics
+VO 7
+SP 260
+OP 274
+IS 2
+
+RT Conference Proceedings
+ID 311738
+A1 Bacchus,Fahiem
+A1 Grove,Adam,J.
+A1 Halpern,Joseph,Y.
+A1 Koller,Daphne
+YR 1994
+T1 Forming Beliefs about a Changing World
+SP 222
+OP 229
+
+RT Journal Article
+ID 700051
+A1 Bacchus,Fahiem
+A1 Grove,Adam,J.
+A1 Halpern,Joseph,Y.
+A1 Koller,Daphne
+YR 1994
+T1 A Response to "Believing on the Basis of the Evidence
+JF Computational Intelligence
+VO 10
+SP 21
+OP 25
+
+RT Conference Proceedings
+ID 271486
+A1 Koller,D.
+A1 Luong,Q.-T.
+A1 Malik,J.
+YR 1994
+T1 Using binocular stereopsis for vision-based vehicle control
+
+RT Journal Article
+ID 3141435
+A1 Bacchus,F.
+A1 Grove,A.,J.
+A1 Halpern,J.,Y.
+A1 Koller,D.
+YR 1994
+T1 Generating degrees of belief from statistical information
+
+RT Conference Proceedings
+ID 49986257
+A1 Karger,David,R.
+A1 Koller,D.
+YR 1994
+T1 (De)randomized construction of small sample spaces in &Nscr;&Cscr
+
+RT Journal Article
+ID 52714280
+A1 Grove,A.,J.
+A1 Halpern,J.,Y.
+A1 Koller,D.
+YR 1994
+T1 Random Worlds and Maximum Entropy
+
+RT Journal Article
+ID 196901
+A1 Karger,David,R.
+A1 Koller,Daphne
+A1 Phillips,Steven,J.
+YR 1993
+T1 Finding the Hidden Path: Time Bounds for All-Pairs Shortest Paths
+JF Siam Journal on Computing
+VO 22
+SP 1199
+OP 1217
+IS 6
+
+RT Conference Proceedings
+ID 359944
+A1 Bacchus,Fahiem
+A1 Grove,Adam,J.
+A1 Halpern,Joseph,Y.
+A1 Koller,Daphne
+YR 1993
+T1 Statistical Foundations for Default Reasoning
+SP 563
+OP 569
+
+RT Conference Proceedings
+ID 316419
+A1 Koller,Daphne
+A1 Megiddo,Nimrod
+YR 1993
+T1 Constructing small sample spaces satisfying given constraints
+SP 268
+OP 277
+
+RT Book, Whole
+ID 655131
+A1 Bacchus,Fahiem
+A1 Grove,Adam,J.
+A1 Halpern,Joseph,Y.
+A1 Koller,Daphne
+YR 1993
+T1 Generating Degrees of Belief from Statistical Information: An Overview
+SP 318
+OP 325
+
+RT Journal Article
+ID 197775
+A1 Koller,Daphne
+A1 Megiddo,Nimrod
+YR 1992
+T1 The complexity of two-person zero-sum games in extensive form
+JF Games and Economic Behavior
+VO 4
+SP 528
+OP 552
+IS 4
+
+RT Conference Proceedings
+ID 342730
+A1 Bacchus,Fahiem
+A1 Grove,Adam,J.
+A1 Koller,Daphne
+A1 Halpern,Joseph,Y.
+YR 1992
+T1 From Statistics to Beliefs
+SP 602
+OP 608
+
+RT Conference Proceedings
+ID 379638
+A1 Grove,Adam,J.
+A1 Halpern,Joseph,Y.
+A1 Koller,Daphne
+YR 1992
+T1 Asymptomatic conditional probabilities for first-order logic
+SP 294
+OP 305
+
+RT Conference Proceedings
+ID 556478
+A1 Grove,Adam,J.
+A1 Halpern,Joseph,Y.
+A1 Koller,Daphne
+YR 1992
+T1 Random Worlds and Maximum Entropy
+SP 22
+OP 33
+
+RT Conference Proceedings
+ID 302040
+A1 Koller,Daphne
+A1 Halpern,Joseph,Y.
+YR 1992
+T1 A Logic for Approximate Reasoning
+SP 153
+OP 164
+
+RT Journal Article
+ID 1625337
+A1 Koller,D.
+A1 Li,Y.
+A1 Shankar,P.,M.
+A1 Newhouse,V.,L.
+YR 1992
+T1 High-speed bubble sizing using the double frequency technique for oceanographic applications
+JF IEEE Journal of Oceanic Engineering
+VO 17
+SP 288
+OP 291
+IS 3
+
+RT Journal Article
+ID 1336468
+A1 Bacchus,F.
+A1 Grove,A.
+A1 Halpern,J.,Y.
+A1 Koller,D.
+YR 1992
+T1 From statistics to degrees of belief
+
+RT Journal Article
+ID 19371000
+A1 Li,Y.
+A1 Koller,D.
+A1 George,G.
+A1 Shankar,P.,M.
+A1 Newhouse,V.,L.
+YR 1992
+T1 Underwater bubble sizing using a pulsed double frequency technique
+JF Journal of The Acoustical Society of America
+VO 92
+SP 1177
+OP 1179
+IS 2
+
+RT Journal Article
+ID 19370483
+A1 Koller,D.
+A1 Li,Y.
+A1 Shankar,P.,M.
+A1 Newhouse,V.,L.
+YR 1992
+T1 High-speed bubble sizing
+JF Journal of The Acoustical Society of America
+VO 91
+SP 2427
+IS 4
+
+RT Conference Proceedings
+ID 49905034
+A1 Koller,D.
+A1 Heinze,N.
+A1 Nagel,H.,H.
+YR 1991
+T1 Algorithmic characterization of vehicle trajectories from image sequences by motion verbs
+SP 90
+OP 95
+
+RT Conference Proceedings
+ID 2072952
+A1 Koller,D.
+A1 Heinze,D.
+A1 Nagel,H,H
+YR 1991
+T1 Algorithmic characterization of vehicle trajectories from image sequences by motion verbs
+
+RT Conference Proceedings
+ID 515871
+A1 Karger,David,R.
+A1 Koller,Daphne
+A1 Phillips,Steven,J.
+YR 1991
+T1 Finding the Hidden Path: Time Bounds for All-Pairs Shortest Paths
+SP 560
+OP 568
+
+RT Journal Article
+ID 819562
+A1 Bar-noy,Amotz
+A1 Dolev,Danny
+A1 Koller,Daphne
+A1 Peleg,David
+YR 1991
+T1 Fault-Tolerant Critical Section Management in Asynchronous Environments
+JF Information and Computation/information and Control
+VO 95
+SP 1
+OP 20
+IS 1
+
+RT Conference Proceedings
+ID 343473
+A1 Grove,Adam,J.
+A1 Koller,Daphne
+YR 1991
+T1 Probability Estimation in Face of Irrelevant Information
+SP 127
+OP 134
+
+RT Journal Article
+ID 60461597
+A1 Naclerio,R.,M.
+A1 Fisher,C.
+A1 Civelek,C.,A.
+A1 Bartenfelder,D.
+A1 Koller,D.
+A1 France,N.,D.,La
+YR 1990
+T1 Decrease in xenon clearance during response to cold, dry air: Problems of interpretation
+JF Annals of Otology Rhinology and Laryngology
+VO 99
+SP 155
+OP 159
+
+RT Book, Whole
+ID 580392
+A1 Bar-noy,Amotz
+A1 Dolev,Danny
+A1 Koller,Daphne
+A1 Peleg,David
+YR 1989
+T1 Fault-Tolerant Critical Section Management in Asynchronous Networks
+SP 13
+OP 23
+
+RT Conference Proceedings
+ID 4120072
+A1 Attiya,Hagit
+A1 Bar-Noy,Amotz
+A1 Dolev,Danny
+A1 Koller,Daphne
+A1 Pelegt,David
+A1 Reischuk,Radiger
+YR 1987
+T1 Achievable cases in an asynchronous environment
+SP 337
+OP 346
+
+RT Conference Proceedings
+ID 515662
+A1 Attiya,Hagit
+A1 Bar-noy,Amotz
+A1 Dolev,Danny
+A1 Koller,Daphne
+A1 Peleg,David
+A1 Reischuk,Rüdiger
+YR 1987
+T1 Achievable Cases in an Asynchronous Environment (Extended Abstract)
+SP 337
+OP 346
+
+RT Journal Article
+ID 40802704
+A1 KOLLER,D
+A1 MACMILLAN,N
+YR 1984
+T1 Elastic recovery of spherical indentations in annealed white cast iron
+JF Materials Science and Engineering
+VO 62
+IS 2
+
+RT Conference Proceedings
+ID 11891053
+A1 Koller,Daphne
+A1 Levy,Alon
+A1 Pfeffer,Avi
+T1 P-CLASSIC: A tractable probabilistic description logic
+
+RT Book, Whole
+ID 9544
+A1 Thrun,Sebastian
+A1 Koller,Daphne
+A1 Ghahramani,Zoubin
+A1 Durrant-Whyte,Hugh
+A1 Ng,Andrew,Y.
+T1 Simultaneous Mapping and Localization with Sparse Extended Information Filters: Theory and Initial Results
+JF International Journal of Robotic Research
+
+RT Conference Proceedings
+ID 7035297
+A1 Lerner,Uri
+A1 Moses,Brooks
+A1 Scott,Maricia
+A1 McIlraith,Sheila
+A1 Koller,Daphne
+T1 Monitoring a Complex Physical System using a Hybrid Dynamic Bayes Net
+
+RT Conference Proceedings
+ID 255588
+A1 Tong,Simon
+A1 Koller,Daphne
+T1 Bayes Optimal Hyperplanes Maximal Margin Hyperplanes
+
+RT Conference Proceedings
+ID 4499296
+A1 Taskar,Ben
+A1 Abbeel,Pieter
+A1 Wong,Ming-Fai
+A1 Koller,Daphne
+T1 Label and Link Prediction in Relational Data
+
+RT Journal Article
+ID 3209787
+A1 Pe'er,Dana
+A1 Church,George,M.
+A1 Koller,Daphne
+T1 Identifying regulatory mechanisms using individual variation reveals key role for chromatin modifica
+JF Proceedings of The National Academy of Sciences
+
+RT Conference Proceedings
+ID 4513485
+A1 Saria,Suchi
+A1 Nodelman,Uri
+A1 Koller,Daphne
+T1 Reasoning at the Right Time Granularity
+
+RT Journal Article
+ID 4580930
+A1 Segal,E.
+A1 Kaushal,A.
+A1 Yelensky,R.
+A1 Pham,T.
+A1 Regev,A.
+A1 Koller,D.
+A1 Friedman,N.
+T1 GeneXPress: A Visualization and Statistical Analysis Tool for Gene Expression and Sequence Data
+
+RT Journal Article
+ID 13039708
+A1 Segal,Eran
+A1 Barash,Yoseph
+A1 Simon,Itamar
+A1 Friedman,Nir
+A1 Koller,Daphne
+T1 From Promoter Sequence to Expression
+
+RT Conference Proceedings
+ID 4907282
+A1 Kumar,M.,Pawan
+A1 Koller,Daphne
+T1 MAP Estimation of Semi-Metric MRFs via Hierarchical Graph Cuts
+
+RT Conference Proceedings
+ID 4665521
+A1 Koller,Daphne
+A1 Milch,Brian
+T1 Structured models for multi-agent interactions
+
+RT Journal Article
+ID 5356045
+A1 Heitz,Geremy
+A1 Elidan,Gal
+A1 Koller,Daphne
+T1 Transfer Learning of Object Classes: From Cartoons to Photographs
+
+RT Book, Whole
+ID 48495977
+A1 Wang,Huayan
+A1 Gould,Stephen
+A1 Koller,Daphne
+T1 Discriminative Learning with Latent Variables for Cluttered Indoor Scene Understanding
+
+RT Journal Article
+ID 6476016
+A1 Kumar,M.,Pawan
+A1 Koller,Daphne
+T1 Learning a Small Mixture of Trees
+
+RT Journal Article
+ID 5942437
+A1 Chechik,Gal
+A1 Koller,Daphne
+T1 Timing properties of gene expression responses to environmental changes
+
+RT Journal Article
+ID 14343756
+A1 Taskar,Ben
+A1 Klein,Dan
+A1 Collins,Mike
+A1 Koller,Daphne
+A1 Manning,Christopher
+A1 Baldridge,Jason
+A1 Osborne,Miles
+A1 Kalt,Tom
+A1 Agirre,Eneko
+A1 Martinez,David
+A1 Chklovski,Timothy
+A1 Pantel,Patrick
+A1 Szpektor,Idan
+A1 Tanev,Hristo
+A1 Dagan,Ido
+A1 Coppola,Bonaventura
+T1 Session 1B - Lexical Semantics 8:45-9:10 Unsupervised WSD based on Automatically Retrieved Examples: The Importance of Bias
+
+RT Journal Article
+ID 12060931
+A1 Thrun,Sebastian
+A1 Montemerlo,Michael
+A1 Koller,Daphne
+A1 Wegbreit,Ben
+A1 Nieto,Juan
+A1 Nebot,Eduardo
+T1 FastSLAM: An Efficient Solution to the Simultaneous Localization And Mapping Problem with Unknown Data
+
+RT Journal Article
+ID 13046552
+A1 Marion,Rosa,M.
+A1 Regev,Aviv
+A1 Segal,Eran
+A1 Barash,Yoseph
+A1 Koller,Daphne
+A1 Friedman,Nir
+A1 O'Shea,Erin,K.
+T1 gene expression
+
+RT Journal Article
+ID 10762298
+A1 Wang,Haidong
+A1 Segalo,Eran
+A1 Ben-Hury,Asa
+A1 Koller,Daphne
+A1 Brutlagz,Douglas,L.
+T1 Identifying protein-protein interaction sites on a genome-wide scale
+
+RT Journal Article
+ID 39221148
+A1 Montemerlo,Michael
+A1 Thrun,Sebastian
+A1 Koller,Daphne
+A1 Wegbreit,Ben
+T1 FastSLAM: a factored solution to the simultaneous localization and mapping problem
+
+RT Journal Article
+ID 58572154
+A1 Kalogerakis,Evangelos
+A1 Chaudhuri,Siddhartha
+A1 Koller,Daphne
+A1 Koltun,Vladlen
+T1 A probabilistic model for component-based shape synthesis
+JF ACM Transactions on Graphics
+SP 1
+OP 11
+
+RT Journal Article
+ID 39221098
+A1 Guestrin,Carlos
+A1 Venkataraman,Shobha
+A1 Koller,Daphne
+T1 Context-specific multiagent coordination and planning with factored MDPs
+
+RT Journal Article
+ID 13030439
+A1 Getoor,Lise
+A1 Taskar,Ben
+A1 Koller,Daphne
+T1 Estimation using Probabilistic Models
+
+RT Journal Article
+ID 39221112
+A1 Vickrey,David
+A1 Koller,Daphne
+T1 Multi-agent algorithms for solving graphical games
+
+RT Journal Article
+ID 5098095
+A1 Chechik,Gal
+A1 Regev,Aviv
+A1 Koller,Daphne
+T1 Filling missing components in yeast metabolic pathways using heterogeneous data
+
+RT Journal Article
+ID 5537755
+A1 Chechik,Gal
+A1 Regev,Aviv
+A1 Koller,Daphne
+T1 Combining heterogeneous data and network motifs for filling missing enzymes in yeast metabolic pathways
+
+RT Journal Article
+ID 10952838
+A1 Koller,D.
+T1 Mediation ofPhytochrome intheInductive Action ofLowTemperature onDark Germination ofLettuce SeedatSupra-Optimal Temperature

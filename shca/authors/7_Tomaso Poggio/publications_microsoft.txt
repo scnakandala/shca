@@ -1,0 +1,4884 @@
+RT Journal Article
+ID 56583472
+A1 Jhuang,Hueihan
+A1 Garrote,Estibaliz
+A1 Yu,Xinlin
+A1 Khilnani,Vinita
+A1 Poggio,Tomaso
+A1 Steele,Andrew,D.
+A1 Serre,Thomas
+YR 2012
+T1 Corrigendum: Automated home-cage behavioural phenotyping of mice
+JF Nature Communications
+VO 3
+
+RT Journal Article
+ID 55660495
+A1 Zhang,Y.
+A1 Meyers,E.,M.
+A1 Bichot,N.,P.
+A1 Serre,T.
+A1 Poggio,T.,A.
+A1 Desimone,R.
+YR 2011
+T1 Object decoding with attention in inferior temporal cortex
+JF Proceedings of The National Academy of Sciences
+VO 108
+SP 8850
+OP 8855
+
+RT Conference Proceedings
+ID 56988841
+A1 Kuehne,H.
+A1 Jhuang,H.
+A1 Garrote,E.
+A1 Poggio,T.
+A1 Serre,T.
+YR 2011
+T1 HMDB: A large video database for human motion recognition
+SP 2556
+OP 2563
+
+RT Journal Article
+ID 51521152
+A1 Chikkerur,Sharat
+A1 Serre,Thomas
+A1 Tan,Cheston
+A1 Poggio,Tomaso
+YR 2011
+T1 Attention as a Bayesian inference process
+VO 7865
+SP 35
+
+RT Journal Article
+ID 39315633
+A1 Poggio,Tomaso
+A1 Voinea,Stephen
+A1 Rosasco,Lorenzo
+YR 2011
+T1 Online Learning, Stability, and Stochastic Gradient Descent
+JF Computing Research Repository
+VO abs/1105.4
+
+RT Journal Article
+ID 33729773
+A1 Chikkerur,Sharat
+A1 Serre,Thomas
+A1 Tan,Cheston
+A1 Poggio,Tomaso
+YR 2010
+T1 What and where: A Bayesian inference theory of attention
+JF Vision Research
+VO 50
+SP 2233
+OP 2247
+IS 22
+
+RT Journal Article
+ID 6616450
+A1 Smale,Steve
+A1 Rosasco,Lorenzo
+A1 Bouvrie,Jake,V.
+A1 Caponnetto,Andrea
+A1 Poggio,Tomaso
+YR 2010
+T1 Mathematics of the Neural Response
+JF Foundations of Computational Mathematics
+VO 10
+SP 67
+OP 91
+IS 1
+
+RT Journal Article
+ID 5638977
+A1 Roy,Jefferson,E.
+A1 Riesenhuber,Maximilian
+A1 Poggio,Tomaso
+A1 Miller,Earl,K.
+YR 2010
+T1 Prefrontal Cortex Activity during Flexible Categorization
+JF Journal of Neuroscience
+VO 30
+SP 8519
+OP 8528
+IS 25
+
+RT Journal Article
+ID 28158914
+A1 Cadieu,C.
+A1 Kouh,M.
+A1 Riesenhuber,M.
+A1 Poggio,T.
+YR 2010
+T1 Shape representation in V4: Investigating position-specific tuning for boundary conformation with the standard model of object recognition
+JF Journal of Vision
+VO 5
+SP 671
+OP 671
+IS 8
+
+RT Journal Article
+ID 39235386
+A1 Jhuang,Hueihan
+A1 Garrote,Estibaliz
+A1 Edelman,Nicholas
+A1 Poggio,Tomaso
+A1 Steele,Andrew
+A1 Serre,Thomas
+YR 2010
+T1 Trainable, vision-based automated home cage behavioral phenotyping
+SP 1
+OP 4
+
+RT Book, Whole
+ID 13850801
+A1 Koelstra,Sander
+A1 Yazdani,Ashkan
+A1 Soleymani,Mohammad
+A1 Mühl,Christian
+A1 Lee,Jong-Seok
+A1 Nijholt,Anton
+A1 Pun,Thierry
+A1 Ebrahimi,Touradj
+A1 Patras,Ioannis
+A1 Yao,Y.
+A1 Sun,R.
+A1 Poggio,T.
+A1 Liu,J.
+A1 Zhong,N.
+A1 Huang,J.
+YR 2010
+T1 Single Trial Classification of EEG and Peripheral Physiological Signals for Recognition of Emotions Induced by Music Videos
+SP 89
+OP 100
+
+RT Journal Article
+ID 28191511
+A1 Serre,T.
+A1 Oliva,A.
+A1 Poggio,T.
+YR 2010
+T1 Feedforward theories of visual cortex predict human performance in rapid categorization
+JF Journal of Vision
+VO 6
+SP 615
+OP 615
+IS 6
+
+RT Journal Article
+ID 13985244
+A1 Serre,Thomas
+A1 Poggio,Tomaso
+A1 Serre,Thomas
+YR 2010
+T1 A neuromorphic approach to computer vision
+JF Communications of The ACM
+VO 53
+SP 54
+OP 61
+IS 10
+
+RT Journal Article
+ID 28207437
+A1 Serre,T.,R.
+A1 Poggio,T.
+A1 Sinha,P.
+YR 2010
+T1 Face detection by humans and machines
+JF Journal of Vision
+VO 4
+SP 438
+OP 438
+IS 8
+
+RT Journal Article
+ID 28151151
+A1 Serre,T.
+A1 Reddy,L.
+A1 Tsuchyia,N.
+A1 Poggio,T.
+A1 Fabre-Thorpe,M.
+A1 Koch,C.
+YR 2010
+T1 Reading the mind's eye: Decoding object information during mental imagery from fMRI patterns
+JF Journal of Vision
+VO 9
+SP 782
+OP 782
+IS 8
+
+RT Book, Whole
+ID 13850833
+A1 Vliet,Marijn,van
+A1 Mühl,Christian
+A1 Reuderink,Boris
+A1 Poel,Mannes
+A1 Yao,Yiyu
+A1 Sun,Ron
+A1 Poggio,Tomaso
+A1 Liu,Jiming
+A1 Zhong,Ning
+A1 Huang,Jimmy
+YR 2010
+T1 Guessing What's on Your Mind: Using the N400 in Brain Computer Interfaces
+SP 180
+OP 191
+
+RT Journal Article
+ID 51391852
+A1 Jhuang,Hueihan
+A1 Garrote,Estibaliz
+A1 Yu,Xinlin
+A1 Khilnani,Vinita
+A1 Poggio,Tomaso
+A1 Steele,Andrew,D.
+A1 Serre,Thomas
+YR 2010
+T1 Automated home-cage behavioural phenotyping of mice
+JF Nature Communications
+VO 1
+SP 68
+
+RT Journal Article
+ID 13850798
+A1 Yao,Yiyu
+A1 Sun,Ron
+A1 Poggio,Tomaso
+A1 Liu,Jiming
+A1 Zhong,Ning
+A1 Huang,Jimmy
+YR 2010
+T1 Brain Informatics, International Conference, BI 2010, Toronto, ON, Canada, August 28-30, 2010. Proceedings
+
+RT Journal Article
+ID 53086976
+A1 Yao,Yiyu
+A1 Sun,Ron
+A1 Poggio,Tomaso
+A1 Liu,Jiming
+A1 Zhong,Ning
+A1 Huang,Jimmy
+YR 2010
+T1 Brain Informatics
+
+RT Journal Article
+ID 28238893
+A1 Tan,C.
+A1 Singer,J.
+A1 Serre,T.
+A1 Sheinberg,D.
+A1 Poggio,T.
+YR 2010
+T1 How STS recognizes actions: Predicting single-neuron responses in higher visual cortex
+JF Journal of Vision
+VO 10
+SP 935
+OP 935
+IS 7
+
+RT Journal Article
+ID 28212362
+A1 Sigala,R.
+A1 Serre,T.
+A1 Poggio,T.
+A1 Giese,M.,A.
+YR 2010
+T1 Learning mid-level motion features for the recognition of body movements
+JF Journal of Vision
+VO 5
+SP 26
+OP 26
+IS 8
+
+RT Journal Article
+ID 28179746
+A1 Tan,C.
+A1 Serre,T.
+A1 Chikkerur,S.
+A1 Poggio,T.
+YR 2010
+T1 Feature-based and contextual guidance mechanisms in complex natural visual search
+JF Journal of Vision
+VO 9
+SP 1189
+OP 1189
+IS 8
+
+RT Journal Article
+ID 28207843
+A1 Tan,C.
+A1 Serre,T.
+A1 Kreiman,G.
+A1 Poggio,T.
+YR 2010
+T1 Implicit coding of location, scale and configural information in feedforward hierarchical models of the visual cortex
+JF Journal of Vision
+VO 8
+SP 43
+OP 43
+IS 6
+
+RT Journal Article
+ID 28194201
+A1 Masquelier,T.
+A1 Serre,T.
+A1 Thorpe,S.
+A1 Poggio,T.
+YR 2010
+T1 Learning simple and complex cells-like receptive fields from natural images: a plausibility proof
+JF Journal of Vision
+VO 7
+SP 81
+OP 81
+IS 9
+
+RT Journal Article
+ID 28184003
+A1 Kreiman,G.
+A1 Serre,T.
+A1 Poggio,T.
+YR 2010
+T1 On the limits of feed-forward processing in visual object recognition
+JF Journal of Vision
+VO 7
+SP 1041
+OP 1041
+IS 9
+
+RT Journal Article
+ID 28213001
+A1 Geiger,G.
+A1 Ezzat,T.
+A1 Poggio,T.
+YR 2010
+T1 Explicit and implicit perceptual discrimination of videorealistic speech
+JF Journal of Vision
+VO 3
+SP 773
+OP 773
+IS 9
+
+RT Book, Whole
+ID 13666556
+A1 Poggio,Tomaso
+YR 2010
+T1 Hierarchical Learning Machines and Neuroscience of Visual Cortex
+SP 5
+
+RT Journal Article
+ID 39095767
+A1 Koch,Christof
+A1 Serre,Thomas
+A1 Poggio,Tomaso
+A1 Reddy,Leila
+A1 Tsuchi,Naotsugu
+A1 Fabre-Thorpe,Michele
+YR 2009
+T1 Reading the mind's eye: Decoding object information during mental imagery from fMRI patterns
+JF Frontiers in Systems Neuroscience
+
+RT Journal Article
+ID 39095993
+A1 Miller,Earl
+A1 Poggio,Tomaso
+A1 Freedman,David
+A1 Kreiman,Gabriel
+A1 Meyers,Ethan
+YR 2009
+T1 Decoding dynamic patterns of neural activity using a biologically plausible fixed set of weights
+JF Frontiers in Systems Neuroscience
+
+RT Journal Article
+ID 27518058
+A1 Yokoyama,Masayuki
+A1 Poggio,Tomaso
+YR 2009
+T1 A Contour-Based Moving Object Detection
+JF Ieej Transactions on Electronics, Information and Systems
+VO 129
+SP 812
+OP 817
+IS 5
+
+RT Journal Article
+ID 39095968
+A1 Knoblich,Ulf
+A1 Mutch,Jim
+A1 Poggio,Tomaso
+YR 2009
+T1 A biophysical model of cortical tuning and invariance operations using a transient population code
+JF Frontiers in Systems Neuroscience
+
+RT Journal Article
+ID 27518057
+A1 Yokono,Jerry,Jun
+A1 Poggio,Tomaso
+YR 2009
+T1 Object Recognition Using Boosted Oriented Filter Based Local Descriptors
+JF Ieej Transactions on Electronics, Information and Systems
+VO 129
+SP 806
+OP 811
+IS 5
+
+RT Journal Article
+ID 7039623
+A1 Chikkerur,Sharat
+A1 Serre,Thomas
+A1 Poggio,Tomaso
+YR 2009
+T1 A Bayesian inference theory of attention: neuroscience and algorithms
+
+RT Journal Article
+ID 4402986
+A1 Kouh,Minjoon
+A1 Poggio,Tomaso
+YR 2008
+T1 A Canonical Neural Circuit for Cortical Nonlinear Operations
+JF Neural Computation
+VO 20
+SP 1427
+OP 1451
+IS 6
+
+RT Conference Proceedings
+ID 4815212
+A1 Bouvrie,Jake,V.
+A1 Ezzat,Tony
+A1 Poggio,Tomaso
+YR 2008
+T1 Localized spectro-temporal cepstral analysis of speech
+SP 4733
+OP 4736
+
+RT Journal Article
+ID 5368369
+A1 Meyers,Ethan,M.
+A1 Freedman,David,J.
+A1 Kreiman,Gabriel
+A1 Miller,Earl,K.
+A1 Poggio,Tomaso
+YR 2008
+T1 Dynamic Population Coding of Category Information in Inferior Temporal and Prefrontal Cortex
+JF Journal of Neurophysiology
+VO 100
+SP 1407
+OP 1419
+IS 3
+
+RT Journal Article
+ID 2512416
+A1 Serre,Thomas
+A1 Wolf,Lior
+A1 Riesenhuber,Maximilian
+A1 Poggio,Tomaso
+YR 2007
+T1 Robust Object Recognition with Cortex-Like Mechanisms
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 29
+SP 411
+OP 426
+IS 3
+
+RT Conference Proceedings
+ID 4271493
+A1 Jhuang,Hueihan
+A1 Serre,Thomas
+A1 Wolf,Lior
+A1 Poggio,Tomaso
+YR 2007
+T1 A Biologically Inspired System for Action Recognition
+SP 1
+OP 8
+
+RT Journal Article
+ID 5088919
+A1 Serre,Thomas
+A1 Oliva,Aude
+A1 Poggio,Tomaso
+YR 2007
+T1 A feedforward architecture accounts for rapid categorization
+JF Proceedings of The National Academy of Sciences
+VO 104
+SP 6424
+OP 6429
+IS 15
+
+RT Journal Article
+ID 4389402
+A1 Heisele,Bernd
+A1 Serre,Thomas
+A1 Poggio,Tomaso
+YR 2007
+T1 A Component-based Framework for Face Detection and Identification
+JF International Journal of Computer Vision
+VO 74
+SP 167
+OP 181
+IS 2
+
+RT Journal Article
+ID 5375913
+A1 Cadieu,Charles
+A1 Kouh,Minjoon
+A1 Pasupathy,Anitha
+A1 Connor,Charles,E.
+A1 Riesenhuber,Maximilian
+A1 Poggio,Tomaso
+YR 2007
+T1 A Model of V4 Shape Selectivity and Invariance
+JF Journal of Neurophysiology
+VO 98
+SP 1733
+OP 1750
+IS 3
+
+RT Book, Whole
+ID 4977631
+A1 Serre,Thomas
+A1 Kreiman,Gabriel
+A1 Kouh,Minjoon
+A1 Cadieu,Charles
+A1 Knoblich,Ulf
+A1 Poggio,Tomaso
+YR 2007
+T1 A quantitative theory of immediate visual recognition
+JF Progress in Brain Research
+VO 165
+SP 33
+OP 56
+
+RT Journal Article
+ID 4572906
+A1 Ezzat,Tony
+A1 Bouvrie,Jake,V.
+A1 Poggio,Tomaso
+YR 2007
+T1 Spectro-temporal analysis of speech using 2-d Gabor filters
+SP 506
+OP 509
+
+RT Conference Proceedings
+ID 4576975
+A1 Ezzat,Tony
+A1 Bouvrie,Jake
+A1 Poggio,Tomaso
+YR 2007
+T1 AM-FM Demodulation of Spectrograms using Localized 2D Max-Gabor Analysis
+VO 4
+
+RT Journal Article
+ID 12870026
+A1 Zoccolan,D.
+A1 Kouh,M.
+A1 Poggio,T.
+A1 DiCarlo,J.,J.
+YR 2007
+T1 Trade-Off between Object Selectivity and Tolerance in Monkey Inferotemporal Cortex
+JF Journal of Neuroscience
+VO 27
+SP 12292
+OP 12307
+IS 45
+
+RT Journal Article
+ID 6331111
+A1 Masquelier,Timothee
+A1 Serre,Thomas
+A1 Thorpe,Simon
+A1 Poggio,Tomaso
+YR 2007
+T1 Learning complex cell invariance from natural videos: A plausibility proof
+
+RT Journal Article
+ID 3181466
+A1 Heisele,B.
+A1 Serre,T.
+A1 Prentice,S.
+A1 Poggio,T.
+YR 2007
+T1 Hierarchical classification and feature reduction for fast face detection with support vector machin
+
+RT Journal Article
+ID 5264376
+A1 Kreiman,Gabriel
+A1 Serre,Thomas
+A1 Poggio,Tomaso
+YR 2007
+T1 On the limits of feed-forward processing in visual object recognition
+
+RT Journal Article
+ID 5083848
+A1 Kreiman,Gabriel
+A1 Hung,Chou,P.
+A1 Kraskov,Alexander
+A1 Quiroga,Rodrigo,Quian
+A1 Poggio,Tomaso
+A1 DiCarlo,James,J.
+YR 2006
+T1 Object Selectivity of Local Field Potentials and Spikes in the Macaque Inferior Temporal Cortex
+JF Neuron
+VO 49
+SP 433
+OP 445
+IS 3
+
+RT Journal Article
+ID 5583842
+A1 Freedman,David,J.
+A1 Riesenhuber,Maximilian
+A1 Poggio,Tomaso
+A1 Miller,Earl,K.
+YR 2006
+T1 Experience-Dependent Sharpening of Visual Shape Selectivity in Inferior Temporal Cortex
+
+RT Journal Article
+ID 4356717
+A1 Mukherjee,Sayan
+A1 Niyogi,Partha
+A1 Poggio,Tomaso
+A1 Rifkin,Ryan,M.
+YR 2006
+T1 Learning theory: stability is sufficient for generalization and necessary and sufficient for consistency of empirical risk minimization
+JF Advances in Computational Mathematics
+VO 25
+SP 161
+OP 193
+IS 1-3
+
+RT Journal Article
+ID 4553806
+A1 Ezzat,Tony
+A1 Bouvrie,Jake,V.
+A1 Poggio,Tomaso
+YR 2006
+T1 Max-Gabor analysis and synthesis of spectrograms
+
+RT Book, Whole
+ID 4341474
+A1 Knoblich,Ulf
+A1 Bouvrie,Jake,V.
+A1 Poggio,Tomaso
+YR 2006
+T1 Biophysical Models of Neural Computation: Max and Tuning Circuits
+SP 164
+OP 189
+
+RT Conference Proceedings
+ID 2430229
+A1 Yokono,Jerry,Jun
+A1 Poggio,Tomaso
+YR 2006
+T1 A Multiview Face Identification Model With No Geometric Constraints
+SP 493
+OP 498
+
+RT Journal Article
+ID 4505966
+A1 Wolf,Florian
+A1 Poggio,Tomaso
+A1 Sinha,Pawan
+YR 2006
+T1 Human Document Classification Using Bags of Words
+
+RT Conference Proceedings
+ID 50513308
+A1 Poggio,T.
+YR 2006
+T1 Neuroscience: New Insights for AI?
+SP 3
+OP 5
+
+RT Conference Proceedings
+ID 2434118
+A1 Poggio,Tomaso
+YR 2006
+T1 Neuroscience: New Insights for AI?
+SP 3
+OP 8
+
+RT Conference Proceedings
+ID 50516636
+A1 Poggio,T.
+YR 2006
+T1 Neuroscience: New Insights for AI?
+
+RT Conference Proceedings
+ID 2167103
+A1 Serre,Thomas
+A1 Wolf,Lior
+A1 Poggio,Tomaso
+A1 Serre,Thomas
+YR 2005
+T1 Object recognition with features inspired by visual cortex
+VO 2
+SP 994
+OP 1000
+
+RT Journal Article
+ID 12790349
+A1 Serre,Thomas
+A1 Kouh,Minjoon
+A1 Cadieu,Charles
+A1 Knoblich,Ulf
+A1 Kreiman,Gabriel
+A1 Poggio,Tomaso
+A1 Serre,Thomas
+YR 2005
+T1 A theory of object recognition: Computations and circuits in thefeedforward path of the ventral stream in primate visual cortex
+
+RT Conference Proceedings
+ID 2363386
+A1 Serre,Thomas
+A1 Wolf,Lior
+A1 Poggio,Tomaso
+YR 2005
+T1 A New Biologically Motivated Framework for Robust Object Recognition
+
+RT Conference Proceedings
+ID 4557076
+A1 Yokoyama,Masayuki
+A1 Poggio,Tomaso
+YR 2005
+T1 A contour-based moving object detection and tracking
+
+RT Book, Whole
+ID 1829095
+A1 Sigala,Rodrigo
+A1 Serre,Thomas
+A1 Poggio,Tomaso
+A1 Giese,Martin,A.
+YR 2005
+T1 Learning Features of Intermediate Complexity for the Recognition of Biological Motion
+SP 241
+OP 246
+
+RT Conference Proceedings
+ID 4572755
+A1 Ezzat,Tony
+A1 Meyers,Ethan
+A1 Glass,James,R.
+A1 Poggio,Tomaso
+YR 2005
+T1 Morphing spectral envelopes using audio flow
+SP 2545
+OP 2548
+
+RT Conference Proceedings
+ID 50457160
+A1 Poggio,T.
+A1 Smale,S.
+YR 2005
+T1 The Mathematics of Learning: Dealing with Data
+
+RT Journal Article
+ID 28088495
+A1 Walther,D.
+A1 Serre,T.
+A1 Poggio,T.
+A1 Koch,C.
+YR 2005
+T1 Modeling feature sharing between object detection and top-down attention
+JF Journal of Vision
+VO 5
+SP 1041
+OP 1041
+IS 8
+
+RT Journal Article
+ID 53231999
+A1 Yeo,Gene,W.
+A1 Nostrand,Eric,van
+A1 Holste,Dirk
+A1 Poggio,Tomaso
+A1 Burge,Christopher,B.
+YR 2005
+T1 Identification and analysis of alternative splicing events conserved in human and mouse
+JF Proceedings of The National Academy of Sciences
+VO 102
+SP 2850
+OP 2855
+
+RT Journal Article
+ID 28082653
+A1 Serre,T.
+A1 Poggio,T.
+YR 2005
+T1 Standard model v2.0: How visual cortex might learn a universal dictionary of shape components
+JF Journal of Vision
+VO 5
+SP 742
+OP 742
+IS 8
+
+RT Conference Proceedings
+ID 50457445
+A1 Poggio,T.
+A1 Smale,S.
+YR 2005
+T1 The Mathematics of Learning: Dealing With Data
+
+RT Journal Article
+ID 53804500
+A1 Hung,Chou,P.
+A1 Kreiman,Gabriel
+A1 Poggio,Tomaso
+A1 DiCarlo,James,J.
+YR 2005
+T1 Fast Readout of Object Identity from Macaque Inferior Temporal Cortex
+JF Science
+VO 310
+SP 863
+OP 866
+
+RT Journal Article
+ID 4571215
+A1 Hung,Chou
+A1 Kreiman,Gabriel
+A1 Poggio,Tomaso
+A1 DiCarlo,James,J.
+YR 2005
+T1 Ultra-fast Object Recognition from Few Spikes
+
+RT Journal Article
+ID 28085457
+A1 Geiger,G.
+A1 Poggio,T.
+YR 2005
+T1 Preventing dyslexia? Early enhanced hand-eye coordination activities reduces reading difficulties
+JF Journal of Vision
+VO 5
+SP 809
+OP 809
+IS 8
+
+RT Journal Article
+ID 3139139
+A1 Poggio,Tomaso
+A1 Bizzi,Emilio
+YR 2004
+T1 Generalization in vision and motor control
+JF Nature
+VO 431
+SP 768
+OP 774
+IS 7010
+
+RT Journal Article
+ID 14895582
+A1 Poggio,Tomaso
+A1 Rifkin,Ryan
+A1 Mukherjee,Sayan
+A1 Niyogi,Partha
+YR 2004
+T1 General conditions for predictivity in learning theory
+JF Nature
+VO 428
+SP 419
+OP 422
+IS 6981
+
+RT Journal Article
+ID 4892219
+A1 Lampl,Ilan
+A1 Ferster,David
+A1 Poggio,Tomaso
+A1 Riesenhuber,Maximilian
+YR 2004
+T1 Intracellular Measurements of Spatial Integration and the MAX Operation in Complex Cells of the Cat Primary Visual Cortex
+JF Journal of Neurophysiology
+VO 92
+SP 2704
+OP 2713
+IS 5
+
+RT Conference Proceedings
+ID 1870680
+A1 Yokono,Jerry,Jun
+A1 Poggio,Tomaso
+YR 2004
+T1 Oriented Filters for Object Recognition: an Empirical Study
+SP 755
+OP 760
+
+RT Conference Proceedings
+ID 2966641
+A1 Shimizu,Hiroaki
+A1 Poggio,Tomaso
+YR 2004
+T1 Direction estimation of pedestrian from multiple still images
+
+RT Conference Proceedings
+ID 1870665
+A1 Ezzat,Tony
+A1 Geiger,Gadi
+A1 Poggio,Tomaso
+YR 2004
+T1 Trainable Videorealistic Speech Animation
+SP 57
+OP 66
+
+RT Journal Article
+ID 4133371
+A1 Yokono,Jerry,Jun
+A1 Poggio,Tomaso
+YR 2004
+T1 Rotation Invariant Object Recognition from One Training Example
+
+RT Journal Article
+ID 22626951
+A1 Poggio,T
+A1 Kapeliouchko,V
+A1 Arcella,V
+A1 Marchese,E
+YR 2004
+T1 Advances in fluoropolymer dispersions
+JF Surface Coatings International Part B-coatings Transactions
+VO 87
+SP 51
+OP 56
+IS 1
+
+RT Journal Article
+ID 4472303
+A1 Kreiman,Gabriel
+A1 Hung,Chou
+A1 Poggio,Tomaso
+A1 DiCarlo,James
+YR 2004
+T1 Selectivity of Local Field Potentials in Macaque Inferior Temporal Cortex
+
+RT Journal Article
+ID 4906265
+A1 Rakhlin,Alexander
+A1 Mukherjee,Sayan
+A1 Poggio,Tomaso
+YR 2004
+T1 On Stability and Concentration of Measure
+
+RT Journal Article
+ID 926533
+A1 Heisele,Bernd
+A1 Ho,Purdy
+A1 Wu,Jane
+A1 Poggio,Tomaso
+YR 2003
+T1 Face recognition: component-based versus global approaches
+JF Computer Vision and Image Understanding
+VO 91
+SP 6
+OP 21
+IS 1-2
+
+RT Journal Article
+ID 2170350
+A1 Blanz,Volker
+A1 Basso,Curzio
+A1 Poggio,Tomaso
+A1 Vetter,Thomas
+YR 2003
+T1 Reanimating Faces in Images and Video
+JF Computer Graphics Forum
+VO 22
+SP 641
+OP 650
+IS 3
+
+RT Journal Article
+ID 711724
+A1 Heisele,Bernd
+A1 Serre,Thomas
+A1 Prentice,Sam
+A1 Poggio,Tomaso
+YR 2003
+T1 Hierarchical classification and feature reduction for fast face detection with support vector machines
+JF Pattern Recognition
+VO 36
+SP 2007
+OP 2017
+IS 9
+
+RT Journal Article
+ID 711786
+A1 Nakajima,Chikahito
+A1 Pontil,Massimiliano
+A1 Heisele,Bernd
+A1 Poggio,Tomaso
+YR 2003
+T1 Full-body person recognition system
+JF Pattern Recognition
+VO 36
+SP 1997
+OP 2006
+IS 9
+
+RT Journal Article
+ID 2551867
+A1 Freedman,Dj
+A1 Riesenhuber,M
+A1 Poggio,T
+A1 Miller,Ek
+YR 2003
+T1 A compari-son of primate prefrontal and inferior temporal cortices during visual categorization
+
+RT Journal Article
+ID 802549
+A1 Evgeniou,Theodoros
+A1 Pontil,Massimiliano
+A1 Papageorgiou,Constantine
+A1 Poggio,Tomaso
+YR 2003
+T1 Image Representations and Feature Selection for Multimedia Database Search
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 15
+SP 911
+OP 920
+IS 4
+
+RT Journal Article
+ID 4490391
+A1 Rifkin,Ryan
+A1 Mukherjee,Sayan
+A1 Tamayo,Pablo
+A1 Ramaswamy,Sridhar
+A1 Yeang,Chen-Hsiang
+A1 Angelo,Michael
+A1 Reich,Michael
+A1 Poggio,Tomaso
+A1 Lander,Eric,S.
+A1 Golub,Todd,R.
+A1 Mesirov,Jill,P.
+YR 2003
+T1 An Analytical Method for Multiclass Molecular Cancer Classification
+JF ACM Sigcsim Installation Management Review
+
+RT Journal Article
+ID 37075239
+A1 Poggio,Tomaso
+A1 Giese,Martin,A.
+YR 2003
+T1 Cognitive neuroscienceNeural mechanisms for the recognition of biological movements
+JF Nature Reviews Neuroscience
+VO 4
+SP 179
+OP 192
+IS 3
+
+RT Journal Article
+ID 3443786
+A1 Giese,M,A
+A1 Poggio,T
+YR 2003
+T1 Neural mechanisms for the recognition of biological movements and action
+
+RT Journal Article
+ID 2331062
+A1 Mukherjee,Sayan
+A1 Niyogi,Partha
+A1 Poggio,Tomaso
+A1 Rifkin,Ryan
+YR 2003
+T1 Statistical Learning: Stability is Sufficient for Generalization and Necessary and Sufficient for Consistency of Empirical Risk Minimization
+JF Advances in Computational Mathematics
+
+RT Journal Article
+ID 4575122
+A1 Geiger,Gadi
+A1 Ezzat,Tony
+A1 Poggio,Tomaso
+YR 2003
+T1 Perceptual Evaluation of Video-Realistic Speech
+
+RT Journal Article
+ID 2688415
+A1 Rifkin,R.
+A1 Mukherjee,S.
+A1 Tamayo,P.
+A1 Ramaswamy,S.
+A1 Yeang,C.
+A1 Angelo,M.
+A1 Reich,M.
+A1 Poggio,T.
+A1 Lander,E.
+A1 Golub,T.
+A1 Mesirov,J.
+YR 2003
+T1 An analytical method for multi-class molecular cancer classification SIAM Review
+
+RT Journal Article
+ID 3443787
+A1 Giese,M.,A.
+A1 Poggio,T.
+YR 2003
+T1 Neural mechanisms for the recognition of complex movements and actions
+
+RT Journal Article
+ID 872900
+A1 Kandola,Jaz
+A1 Hofmann,Thomas
+A1 Poggio,Tomaso
+A1 Taylor,John,Shawe
+YR 2003
+T1 Introduction to the special issue on machine learning methods for text and images
+JF Journal of Machine Learning Research
+
+RT Journal Article
+ID 40420735
+A1 Poggio,T
+A1 Kapeliouchko,V
+A1 Arcella,V
+A1 Marchese,E
+YR 2003
+T1 Multimodal fluoropolymer dispersions
+JF Progress in Organic Coatings
+VO 48
+SP 310
+OP 315
+IS 2
+
+RT Conference Proceedings
+ID 50304457
+A1 Poggio,T.
+YR 2003
+T1 Learning and Perceptual Interfaces
+VO 5
+SP 45
+OP 45
+
+RT Journal Article
+ID 2031563
+A1 Pomeroy,Scott,L.
+A1 Tamayo,Pablo
+A1 Gaasenbeek,Michelle
+A1 Sturla,Lisa,M.
+A1 Angelo,Michael
+A1 McLaughlin,Margaret,E.
+A1 Kim,John,Y.,H.
+A1 Goumnerova,Liliana,C.
+A1 Black,Peter,M.
+A1 Lau,Ching
+A1 Allen,Jeffrey,C.
+A1 Zagzag,David
+A1 Olson,James,M.
+A1 Curran,Tom
+A1 Wetmore,Cynthia
+A1 Biegel,Jaclyn,A.
+A1 Poggio,Tomaso
+A1 Mukherjee,Shayan
+A1 Rifkin,Ryan
+A1 Califano,Andrea
+A1 Stolovitzky,Gustavo
+A1 Louis,David,N.
+A1 Mesirov,Jill,P.
+A1 Lander,Eric,S.
+A1 Golub,Todd,R.
+YR 2002
+T1 Prediction of central nervous system embryonal tumour outcome based on gene expression
+JF Nature
+VO 415
+SP 436
+OP 442
+IS 6870
+
+RT Journal Article
+ID 59332
+A1 Ezzat,Tony
+A1 Geiger,Gadi
+A1 Poggio,Tomaso
+YR 2002
+T1 Trainable videorealistic speech animation
+JF ACM Transactions on Graphics
+VO 21
+SP 388
+OP 398
+IS 3
+
+RT Book, Whole
+ID 498112
+A1 Walther,Dirk
+A1 Itti,Laurent
+A1 Riesenhuber,Maximilian
+A1 Poggio,Tomaso
+A1 Koch,Christof
+YR 2002
+T1 Attentional Selection for Object Recognition  A Gentle Way
+SP 472
+OP 479
+
+RT Journal Article
+ID 3443811
+A1 Riesenhuber,Maximilian
+A1 Poggio,Tomaso
+YR 2002
+T1 Neural mechanisms of object recognition
+JF Current Opinion in Neurobiology
+VO 12
+SP 162
+OP 168
+IS 2
+
+RT Journal Article
+ID 2338589
+A1 FREEDMAN,DAVID,J.
+A1 RIESENHUBER,MAXIMILIAN
+A1 POGGIO,TOMASO
+A1 MILLER,EARL,K.
+YR 2002
+T1 Visual Categorization and the Primate Prefrontal Cortex: Neurophysiology and Behavior
+
+RT Book, Whole
+ID 498160
+A1 Serre,Thomas
+A1 Riesenhuber,Maximilian
+A1 Louie,Jennifer
+A1 Poggio,Tomaso
+YR 2002
+T1 On the Role of Object-Specific Features for Real World Object Recognition in Biological Vision
+SP 387
+OP 397
+
+RT Journal Article
+ID 1719432
+A1 Yu,Angela,J.
+A1 Giese,Martin,A.
+A1 Poggio,Tomaso,A.
+YR 2002
+T1 Biophysiologically Plausible Implementations of the Maximum Operation
+JF Neural Computation
+VO 14
+SP 2857
+OP 2881
+IS 12
+
+RT Journal Article
+ID 6209309
+A1 Evgeniou,Theodoros
+A1 Poggio,Tomaso
+A1 Pontil,Massimiliano
+A1 Verri,Alessandro
+YR 2002
+T1 Regularization and statistical learning theory for data analysis
+JF Computational Statistics & Data Analysis
+VO 38
+SP 421
+OP 432
+IS 4
+
+RT Journal Article
+ID 1429629
+A1 HEISELE,BERND
+A1 VERRI,ALESSANDRO
+A1 POGGIO,TOMASO
+YR 2002
+T1 Learning and vision machines
+JF Proceedings of The IEEE
+VO 90
+SP 1164
+OP 1177
+IS 7
+
+RT Journal Article
+ID 2304470
+A1 Mukherjee,S.
+A1 Rifkin,R.
+A1 Poggio,T.
+YR 2002
+T1 Regression and classification with regularization
+
+RT Journal Article
+ID 6888
+A1 Riesenhuber,Maximilian
+A1 Poggio,Tomaso
+YR 2002
+T1 How Visual Cortex Recognizes Objects: The Tale of the Standard Model
+
+RT Journal Article
+ID 44480
+A1 Weinstein,Eugene
+A1 Ho,Purdy
+A1 Heisele,Bernd
+A1 Poggio,Tomaso
+A1 Steele,Ken
+A1 Agarwal,Anant
+YR 2002
+T1 Handheld Face Identification Technology in a Pervasive Computing Environment
+
+RT Conference Proceedings
+ID 4012847
+A1 Ezzat,T.
+A1 Geiger,G.
+A1 Poggio,T.
+YR 2002
+T1 Trainable videorealistic facial animation
+
+RT Journal Article
+ID 2314044
+A1 Szummer,Martin
+A1 Jaakkola,Tommi
+A1 Poggio,Tomaso
+YR 2002
+T1 Learning from Partially Labeled Data
+
+RT Journal Article
+ID 3794867
+A1 Mukherjee,S.
+A1 Niyogi,P.
+A1 Poggio,T.
+A1 Rifkin,R.
+YR 2002
+T1 Statistical learning: Stability is necessary and su cient for consistency of empirical risk minimiza
+
+RT Journal Article
+ID 12774697
+A1 Machetta,Paola
+A1 Lazzarino,Marco
+A1 Carrato,S.
+A1 Schmidt,C.
+A1 Canil,Giorgio
+A1 Kapeliouchko,V.
+A1 Poggio,T.
+YR 2002
+T1 PTFE nanoemulsions as ultralow-k dielectric materials
+JF Macromolecular Symposia
+VO 179
+SP 347
+OP 358
+IS 1
+
+RT Book, Whole
+ID 498154
+A1 Kumar,Vinay,P.
+A1 Poggio,Tomaso
+YR 2002
+T1 Recognizing Expressions by Direct Estimation of the Parameters of a Pixel Morphable Model
+SP 519
+OP 527
+
+RT Journal Article
+ID 37240567
+A1 Sinha,Pawan
+A1 Poggio,Tomasa
+A1 Poggio,Tomaso
+YR 2002
+T1 Last but not least: 'United' we stand
+JF Perception
+VO 31
+SP 133
+OP 133
+IS 1
+
+RT Journal Article
+ID 2322496
+A1 Crane,Andrew,S.
+A1 Szummer,Martin
+A1 Poggio,Tomaso
+YR 2002
+T1 Object Recognition with Partially Labeled Examples
+
+RT Book, Whole
+ID 30825
+A1 Knoblich,Ulf
+A1 Riesenhuber,Maximilian
+A1 Freedman,David,J.
+A1 Miller,Earl,K.
+A1 Poggio,Tomaso
+YR 2002
+T1 Visual Categorization: How the Monkey Brain Does It
+SP 273
+OP 281
+
+RT Journal Article
+ID 40570525
+A1 Machetta,P.
+A1 Lazzarino,M.
+A1 Carrato,S.
+A1 Schmidt,C.
+A1 Canil,G.
+A1 Kapeliouchko,V.
+A1 Poggio,T.
+A1 Sanguineti,A.
+YR 2002
+T1 PTFE nanoemulsions as ultralow- k dielectric materials
+JF Materials Science in Semiconductor Processing
+VO 5
+SP 285
+OP 290
+IS 2
+
+RT Conference Proceedings
+ID 13286084
+A1 Bülthoff,Heinrich,H.
+A1 Lee,Seong-Whan
+A1 Poggio,Tomaso
+A1 Wallraven,Christian
+YR 2002
+T1 Biologically Motivated Computer Vision Second International Workshop, BMCV 2002, Tübingen, Germany, November 22-24, 2002, Proceedings
+
+RT Journal Article
+ID 40420561
+A1 Delucchi,M
+A1 Barbucci,A
+A1 Temtchenko,T
+A1 Poggio,T
+A1 Cerisola,G
+YR 2002
+T1 Study of the crack-bridging ability of organic coatings for concrete: analysis of the mechanical behaviour of unsupported and supported films
+JF Progress in Organic Coatings
+VO 44
+SP 261
+OP 269
+IS 4
+
+RT Journal Article
+ID 51810840
+A1 Poggio,Tomaso,A.
+A1 Ezzat,Antoine,F.
+YR 2002
+T1 Talking facial display method and apparatus
+JF Journal of The Acoustical Society of America
+VO 111
+SP 660
+OP 660
+
+RT Journal Article
+ID 124818
+A1 Mohan,Anuj
+A1 Papageorgiou,Constantine
+A1 Poggio,Tomaso
+YR 2001
+T1 Example-Based Object Detection in Images by Components
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 23
+SP 349
+OP 361
+IS 4
+
+RT Journal Article
+ID 1313806
+A1 Ramaswamy,Sridhar
+A1 Tamayo,Pablo
+A1 Rifkin,Ryan
+A1 Mukherjee,Sayan
+A1 Yeang,Chen-Hsiang
+A1 Angelo,Michael
+A1 Ladd,Christine
+A1 Reich,Michael
+A1 Latulippe,Eva
+A1 Mesirov,Jill,P.
+A1 Poggio,Tomaso
+A1 Gerald,William
+A1 Loda,Massimo
+A1 Lander,Eric,S.
+A1 Golub,Todd,R.
+YR 2001
+T1 Multiclass cancer diagnosis using tumor gene expression signatures
+JF Proceedings of The National Academy of Sciences
+VO 981
+SP 15149
+OP 15154
+IS 26
+
+RT Conference Proceedings
+ID 523869
+A1 Heisele,Bernd
+A1 Hoj,Purdy
+A1 Poggio,Tomaso
+YR 2001
+T1 Face Recognition with Support Vector Machines: Global versus Component-based Approach
+SP 688
+OP 694
+
+RT Conference Proceedings
+ID 122205
+A1 Heisele,Bernd
+A1 Serre,Thomas
+A1 Pontil,Massimiliano
+A1 Vetter,Thomas
+A1 Poggio,Tomaso
+YR 2001
+T1 Categorization by Learning and Combining Object Parts
+SP 1239
+OP 1245
+
+RT Journal Article
+ID 15057114
+A1 Freedman,David,J.
+A1 Riesenhuber,Maximilian
+A1 Poggio,Tomaso
+A1 Miller,Earl,K.
+YR 2001
+T1 Categorical Representation of Visual Stimuli in the Primate Prefrontal Cortex
+JF Science
+VO 291
+SP 312
+OP 316
+IS 5502
+
+RT Journal Article
+ID 2062972
+A1 Freedman,D.,J.
+A1 Riesenhuber,M.
+A1 Poggio,T.
+A1 Miller,E.,K.
+YR 2001
+T1 Categorical representation of visual stimuli in the primate prefrontal cortex
+JF Science
+
+RT Journal Article
+ID 3224867
+A1 Weston,J.
+A1 Mukherjee,S.
+A1 Chapelle,O.
+A1 Pontil,M.
+A1 Poggio,T.
+A1 Vapnik,V.
+YR 2001
+T1 In Advances in neural information processing systems 13
+
+RT Conference Proceedings
+ID 8614
+A1 Heiselefi,Bernd
+A1 Serret,Thomas
+A1 Mukherjee,Sayan
+A1 Poggio,Tomaso
+YR 2001
+T1 Feature Reduction and Hierarchy of Classifiers for Fast Object Detection in Video Images
+VO 2
+SP 18
+OP 24
+
+RT Journal Article
+ID 2372060
+A1 Jordan,M.
+A1 Sejnowski,T.
+A1 Poggio,T.
+YR 2001
+T1 Graphical models: Foundations of neural computation
+JF Journal of Computational Neuroscience
+
+RT Journal Article
+ID 61963
+A1 Yeo,Gene
+A1 Poggio,Tomaso
+YR 2001
+T1 Multiclass Classification of SRBCTs
+
+RT Journal Article
+ID 27539992
+A1 Poggio,Tomaso
+A1 Lo,Andrew,W.
+A1 LeBaron,Blake,D.
+A1 Chan,Nicholas,T.
+YR 2001
+T1 Agent-Based Models of Financial Markets: A Comparison with Experimental Markets
+JF SSRN Electronic Journal
+
+RT Journal Article
+ID 3924686
+A1 Lampl,I.
+A1 Riesenhuber,M.
+A1 Poggio,T.
+A1 Ferster,D.
+YR 2001
+T1 The MAX operation in cells in the cat visual cortex
+
+RT Journal Article
+ID 4113246
+A1 Heisele,B.
+A1 Serre,T.
+A1 Pontil,M.
+A1 Poggio,T.
+YR 2001
+T1 Feature point - based Face Detection
+
+RT Journal Article
+ID 54847934
+A1 Freedman,David,J.
+A1 Riesenhuber,Maximilian
+A1 Poggio,Tomaso
+A1 Miller,Earl,K.
+YR 2001
+T1 Categorical Representation of Visual Stimuli in the Primate Prefrontal Cortex
+JF Science
+VO 291
+SP 312
+OP 316
+
+RT Journal Article
+ID 25554
+A1 Yu,Angela,J.
+A1 Giese,Martin,A.
+A1 Poggio,Tomaso,A.
+YR 2001
+T1 Biologically Plausible Neural Circuits for Realization of the Maximum Operations
+
+RT Journal Article
+ID 5692028
+A1 Chan,Nicholas,Tung
+A1 Poggio,T.
+YR 2001
+T1 Study of Articial Financial Markets with Adaptive Trading Agents
+
+RT Journal Article
+ID 784355
+A1 Papageorgiou,Constantine
+A1 Poggio,Tomaso
+YR 2000
+T1 A Trainable System for Object Detection
+JF International Journal of Computer Vision
+VO 38
+SP 15
+OP 33
+IS 1
+
+RT Journal Article
+ID 252332
+A1 Evgeniou,Theodoros
+A1 Pontil,Massimiliano
+A1 Poggio,Tomaso
+YR 2000
+T1 Regularization Networks and Support Vector Machines
+JF Advances in Computational Mathematics
+VO 13
+SP 1
+OP 50
+IS 1
+
+RT Conference Proceedings
+ID 560800
+A1 Weston,Jason
+A1 Mukherjee,Sayan
+A1 Chapelle,Olivier
+A1 Pontil,Massimiliano
+A1 Poggio,Tomaso
+A1 Vapnik,Vladimir
+YR 2000
+T1 Feature Selection for SVMs
+SP 668
+OP 674
+
+RT Conference Proceedings
+ID 156317
+A1 Cauwenberghs,Gert
+A1 Poggio,Tomaso
+YR 2000
+T1 Incremental and Decremental Support Vector Machine Learning
+SP 409
+OP 415
+
+RT Journal Article
+ID 176400
+A1 Heisele,Bernd
+A1 Poggio,Tomaso
+YR 2000
+T1 Face Detection in Still Gray Images
+
+RT Journal Article
+ID 207584
+A1 Giese,Martin,A.
+A1 Poggio,Tomaso
+YR 2000
+T1 Morphable Models for the Analysis and Synthesis of Complex Motion Patterns
+JF International Journal of Computer Vision
+VO 38
+SP 59
+OP 73
+IS 1
+
+RT Journal Article
+ID 784211
+A1 Ezzat,Tony
+A1 Poggio,Tomaso
+YR 2000
+T1 Visual Speech Synthesis by Morphing Visemes
+JF International Journal of Computer Vision
+VO 38
+SP 45
+OP 57
+IS 1
+
+RT Conference Proceedings
+ID 189665
+A1 Evgeniou,Theodoros
+A1 Pontil,Massimiliano
+A1 Papageorgiou,Constantine
+A1 Poggio,Tomaso
+YR 2000
+T1 Image representations for object detection using kernel classifiers
+
+RT Conference Proceedings
+ID 1870780
+A1 Kumar,Vinay,P.
+A1 Poggio,Tomaso
+YR 2000
+T1 Learning-Based Approach to Real Time Tracking and Analysis of Faces
+SP 96
+OP 101
+
+RT Journal Article
+ID 3819861
+A1 Mukherjee,S.
+A1 Tamayo,P.
+A1 Slonim,D.
+A1 Verri,A.
+A1 Golub,T.
+A1 Mesirov,J.,P.
+A1 Poggio,T.
+YR 2000
+T1 Support vector machine classification of microarray data
+
+RT Journal Article
+ID 784370
+A1 Evgeniou,Theodoros
+A1 Pontil,Massimiliano
+A1 Poggio,Tomaso
+YR 2000
+T1 Statistical Learning Theory: A Primer
+JF International Journal of Computer Vision
+VO 38
+SP 9
+OP 13
+IS 1
+
+RT Conference Proceedings
+ID 234780
+A1 Nakajima,Chikahito
+A1 Pontil,Massimiliano
+A1 Poggio,Tomaso
+YR 2000
+T1 People Recognition and Pose Estimation in Image Sequences
+VO 4
+SP 189
+OP 196
+
+RT Journal Article
+ID 15270991
+A1 Papageorgiou,Constantine
+A1 Poggio,Tomaso
+YR 2000
+T1 A Trainable System for Object Detection
+JF International Journal of Computer Vision
+VO 38
+SP 15
+OP 33
+IS 1
+
+RT Journal Article
+ID 123761
+A1 Riesenhuber,Maximilian
+A1 Poggio,Tomaso
+YR 2000
+T1 Computational Models of Object Recognition in Cortex: A Review
+
+RT Journal Article
+ID 123916
+A1 Kumar,Vinay
+A1 Poggio,Tomaso
+YR 2000
+T1 Learning-Based Approach to Estimation of Morphable Model Parameters
+
+RT Book, Whole
+ID 219774
+A1 Riesenhuber,Maximilian
+A1 Poggio,Tomaso
+YR 2000
+T1 CBF: A New Framework for Object Categorization in Cortex
+SP 1
+OP 9
+
+RT Journal Article
+ID 2641551
+A1 Papageorgiou,C.
+A1 Poggio,T.
+YR 2000
+T1 A Trainable System for Object Recognition
+
+RT Conference Proceedings
+ID 99570
+A1 Nakajima,Chikahito
+A1 Itoh,Norihiko
+A1 Pontil,Massimiliano
+A1 Poggio,Tomaso
+YR 2000
+T1 Object Recognition and Detection by a Combination of Support Vector Machine and Rotation Invariant Phase Only Correlation
+VO 4
+SP 4787
+OP 4790
+
+RT Conference Proceedings
+ID 530851
+A1 Evgeniou,Theodoros
+A1 Pérez-breva,Luis
+A1 Pontil,Massimiliano
+A1 Poggio,Tomaso
+YR 2000
+T1 Bounds on the Generalization Performance of Kernel Machine Ensembles
+SP 271
+OP 278
+
+RT Journal Article
+ID 228051
+A1 Riesenhuber,Maximilian
+A1 Poggio,Tomaso
+YR 2000
+T1 The Individual is Nothing, the Class Everything: Psychophysics and Modeling of Recognition in Object Classes
+
+RT Journal Article
+ID 784258
+A1 Poggio,Tomaso
+A1 Verri,Alessandro
+YR 2000
+T1 Introduction: Learning and Vision at CBCL
+JF International Journal of Computer Vision
+VO 38
+SP 5
+OP 7
+IS 1
+
+RT Conference Proceedings
+ID 192359
+A1 Gieses,M.,A.
+A1 Poggio,T.
+YR 2000
+T1 Quantification and classification of locomotion patterns by spatio-temporal morphable models
+
+RT Journal Article
+ID 15270995
+A1 Giese,Martin,A.
+A1 Poggio,Tomaso
+YR 2000
+T1 Morphable Models for the Analysis and Synthesis of Complex Motion Patterns
+JF International Journal of Computer Vision
+VO 38
+SP 59
+OP 73
+IS 1
+
+RT Journal Article
+ID 15270993
+A1 Ezzat,Tony
+A1 Poggio,Tomaso
+YR 2000
+T1 Visual Speech Synthesis by Morphing Visemes
+JF International Journal of Computer Vision
+VO 38
+SP 45
+OP 57
+IS 1
+
+RT Journal Article
+ID 2069200
+A1 Poggio,T.
+A1 Verri,A.
+YR 2000
+T1 Learning and Vision at CBL
+JF International Journal of Computer Vision
+
+RT Journal Article
+ID 3316999
+A1 Poggio,Tomaso
+A1 Shelton,Christian,R.
+YR 2000
+T1 Learning in brains and machines
+JF Spatial Vision
+VO 13
+SP 287
+OP 296
+IS 2
+
+RT Journal Article
+ID 3415198
+A1 Giese,M.,A.
+A1 Poggio,T.
+YR 2000
+T1 Morphable models for motion patterns
+
+RT Journal Article
+ID 15270997
+A1 Evgeniou,Theodoros
+A1 Pontil,Massimiliano
+A1 Poggio,Tomaso
+YR 2000
+T1 Statistical Learning Theory: A Primer
+JF International Journal of Computer Vision
+VO 38
+SP 9
+OP 13
+IS 1
+
+RT Journal Article
+ID 15270994
+A1 Poggio,Tomaso
+A1 Verri,Alessandro
+YR 2000
+T1 Introduction: Learning and Vision at CBCL
+JF International Journal of Computer Vision
+VO 38
+SP 5
+OP 7
+IS 1
+
+RT Conference Proceedings
+ID 13286079
+A1 Lee,Seong-Whan
+A1 Bülthoff,Heinrich,H.
+A1 Poggio,Tomaso
+YR 2000
+T1 Biologically Motivated Computer Vision, First IEEE International Workshop, BMVC 2000, Seoul, Korea, May 15-17, 2000, Proceedings
+
+RT Conference Proceedings
+ID 50201787
+A1 Poggio,T.
+YR 2000
+T1 From bits to information with learning machines: theory and applications
+
+RT Journal Article
+ID 284792
+A1 Riesenhuber,Maximilian
+A1 Poggio,Tomaso
+YR 1999
+T1 Hierarchical models of object recognition in cortex
+JF Nature Neuroscience
+VO 2
+SP 1019
+OP 1025
+IS 11
+
+RT Journal Article
+ID 2028752
+A1 Evgeniou,T.
+A1 Pontil,M.
+A1 Poggio,T.
+YR 1999
+T1 Regularization networks and support vector ma-chines
+JF Advances in Computational Mathematics
+
+RT Journal Article
+ID 30687
+A1 Evgeniou,Theodoros
+A1 Pontil,Massimiliano
+A1 Poggio,Tomaso
+YR 1999
+T1 A unified framework for Regularization Networks and Support Vector Machines
+
+RT Journal Article
+ID 2090825
+A1 Mukherjee,S.
+A1 Tamayo,P.
+A1 Slonim,D.
+A1 Verri,A.
+A1 Golub,T.
+A1 Mesirov,J.
+A1 Poggio,T.
+YR 1999
+T1 Support vector machine classification of microarray data
+
+RT Conference Proceedings
+ID 170314
+A1 Papageorgiou,Constantine
+A1 Poggio,Tomaso
+YR 1999
+T1 Trainable Pedestrian Detection
+SP 35
+OP 39
+
+RT Journal Article
+ID 284354
+A1 Riesenhuber,Maximilian
+A1 Poggio,Tomaso
+YR 1999
+T1 Are Cortical Models Really Bound by the “Binding Problem”?
+JF Neuron
+VO 24
+SP 87
+OP 93
+IS 1
+
+RT Conference Proceedings
+ID 195379
+A1 Papageorgiou,Constantine
+A1 Poggio,Tomaso
+YR 1999
+T1 A Pattern Classification Approach to Dynamical Object Detection
+SP 1223
+OP 1228
+
+RT Journal Article
+ID 3090616
+A1 Hung,Chou,P.
+A1 Kreiman,Gabriel
+A1 Poggio,Tomaso
+A1 DiCarlo,James,J.
+YR 1999
+T1 Fast Readout of Object Identity from Macaque Inferior Temporal Cortex
+JF Science
+
+RT Conference Proceedings
+ID 203986
+A1 Giese,M.,A.
+A1 Poggio,T.
+YR 1999
+T1 Synthesis and recognition of biological motion patterns based on linear superposition of prototypical motion sequences
+
+RT Journal Article
+ID 706501
+A1 Rachlevsky-reich,Benny
+A1 Ben-shaul,Israel
+A1 Chan,Nicholas,Tung
+A1 Lo,Andrew,W.
+A1 Poggio,Tomaso
+YR 1999
+T1 GEM: A Global Electronic Market System
+JF Information Systems
+VO 24
+SP 495
+OP 518
+IS 6
+
+RT Journal Article
+ID 1968504
+A1 Koch,Christof
+A1 Poggio,Tomaso
+YR 1999
+T1 Predicting the visual world: silence is golden
+JF Nature Neuroscience
+VO 2
+SP 9
+OP 10
+IS 1
+
+RT Journal Article
+ID 211091
+A1 Chan,Nicholas,T.
+A1 Lebaron,Blake
+A1 Lo,Andrew,W.
+A1 Poggio,Tomaso
+YR 1999
+T1 Agent-Based Models of Financial Markets: A Comparison with Experimental Markets
+
+RT Journal Article
+ID 2538814
+A1 Poggio,T.
+A1 Wehrhahn,C.
+YR 1999
+T1 3D analysis of the flight trajectory of flies Drosophila melanogaster
+
+RT Journal Article
+ID 182975
+A1 Poggio,Tomaso
+A1 Shelton,Christian,R.
+YR 1999
+T1 Machine Learning, Machine Vision, and the Brain
+JF Ai Magazine
+VO 20
+SP 37
+OP 55
+IS 3
+
+RT Journal Article
+ID 250406
+A1 Riesenhuber,Maximilian
+A1 Poggio,Tomaso
+YR 1999
+T1 A note on object class representation and categorical perception
+
+RT Conference Proceedings
+ID 124774
+A1 Pontil,Massimiliano
+A1 Evgeniou,Theodoros
+A1 Poggio,Tomaso
+YR 1999
+T1 Bounds on the Generalization Performance of Kernel Machine Ensembles
+
+RT Journal Article
+ID 1997761
+A1 Riesenhuber,M.,K.
+A1 Poggio,T.
+YR 1999
+T1 A hierarchical model for visual object recognition
+
+RT Conference Proceedings
+ID 4627482
+A1 Papageorgiou,Constantine
+A1 Girosi,Federico
+A1 Poggio,Tomaso
+YR 1999
+T1 Sparse correlation kernel reconstruction
+VO 3
+SP 1633
+
+RT Journal Article
+ID 58483823
+A1 Lo,Andrew
+A1 Chan,Nicholas
+A1 LeBaron,Blake
+A1 Poggio,Tomaso
+YR 1999
+T1 Information Dissemination and Aggregation in Asset Markets with Simple Intelligent Traders
+
+RT Journal Article
+ID 800919
+A1 Sung,Kah-Kay
+A1 Poggio,Tomaso
+YR 1998
+T1 Example-Based Learning for View-Based Human Face Detection
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 20
+SP 39
+OP 51
+IS 1
+
+RT Conference Proceedings
+ID 523864
+A1 Papageorgiou,Constantine,P.
+A1 Oren,Michael
+A1 Poggio,Tomaso
+YR 1998
+T1 A General Framework for Object Detection
+SP 555
+OP 562
+
+RT Journal Article
+ID 4113108
+A1 Sung,K.
+A1 Poggio,T.
+YR 1998
+T1 Example - based learning for view - based face detection
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+RT Journal Article
+ID 1953795
+A1 Jones,Michael,J.
+A1 Poggio,Tomaso
+YR 1998
+T1 Multidimensional Morphable Models: A Framework for Representing and Matching Object Classes
+JF International Journal of Computer Vision
+VO 29
+SP 107
+OP 131
+IS 2
+
+RT Journal Article
+ID 380420
+A1 Papageorgiou,Constantine
+A1 Evgeniou,Theodoros
+A1 Poggio,Tomaso
+YR 1998
+T1 A Trainable Pedestrian Detection System
+
+RT Conference Proceedings
+ID 315133
+A1 Jones,Michael,J.
+A1 Poggio,Tomaso
+YR 1998
+T1 Multidimensional Morphable Models
+SP 683
+OP 688
+
+RT Journal Article
+ID 381845
+A1 Poggio,Tomaso
+A1 Girosi,Federico
+YR 1998
+T1 A Sparse Representation For Function Approximation
+JF Neural Computation
+VO 10
+SP 1445
+OP 1454
+IS 6
+
+RT Journal Article
+ID 302961
+A1 NIYOGI,PARTHA
+A1 GIROSI,FEDERICO
+A1 POGGIO,TOMASO
+YR 1998
+T1 Incorporating prior information in machine learning by creating virtual examples
+JF Proceedings of The IEEE
+VO 86
+SP 2196
+OP 2209
+IS 11
+
+RT Conference Proceedings
+ID 322031
+A1 Ezzat,Tony
+A1 Poggio,Tomaso
+YR 1998
+T1 MikeTalk: A Talking Facial Display Based on Morphing Visemes
+SP 96
+OP 102
+
+RT Journal Article
+ID 201384
+A1 Lo,Andrew
+A1 Lebaron,Blake
+A1 Chan,Nicholas
+A1 Poggio,Tomaso
+YR 1998
+T1 Information Dissemination and Aggregation in Asset Markets with Simple Intelligent Traders
+
+RT Conference Proceedings
+ID 506672
+A1 Jones,Michael,J.
+A1 Poggio,Tomaso
+YR 1998
+T1 Hierarchical Morphable Models
+SP 820
+OP 826
+
+RT Journal Article
+ID 2023471
+A1 Papageorgiou,C.
+A1 Girosi,F.
+A1 Poggio,T.
+YR 1998
+T1 Sparse correlation kernel based signal reconstruc-tion
+
+RT Journal Article
+ID 3730
+A1 Riesenhuber,Maximilian
+A1 Poggio,Tomaso
+YR 1998
+T1 Modeling Invariances in Inferotemporal Cell Tuning
+
+RT Journal Article
+ID 2641541
+A1 Papageorogiou,C.
+A1 Evgeniou,T.
+A1 Poggio,T.
+YR 1998
+T1 A Trainable Object Detection System
+
+RT Journal Article
+ID 3830226
+A1 Giese,M.,A.
+A1 Poggio,T.
+YR 1998
+T1 Synthesis and recognition of biological motionpatterns on linear superposition prototypical motion s
+
+RT Journal Article
+ID 395392
+A1 Papageorgiou,Constantine,P.
+A1 Girosi,Federico
+A1 Poggio,Tomaso
+YR 1998
+T1 Sparse Correlation Kernel Analysis and Reconstruction
+
+RT Journal Article
+ID 347329
+A1 Poggio,Tomaso
+A1 Girosi,Federico
+YR 1998
+T1 Notes on PCA, Regularization, Sparsity and Support Vector Machines
+
+RT Journal Article
+ID 1682236
+A1 Chellappa,Rama
+A1 Fukushima,Kunihiko
+A1 Katsaggelos,Aggelos,K.
+A1 Kung,Sun-Yuan
+A1 Lecun,Yann
+A1 Nasrabadi,Nasser,M.
+A1 Poggio,Tomaso
+YR 1998
+T1 Guest Editorial Applications Of Artificial Neural Networks To Image Processing
+JF IEEE Transactions on Image Processing
+VO 7
+SP 1093
+OP 1096
+IS 8
+
+RT Conference Proceedings
+ID 388936
+A1 Oren,Michael
+A1 Papageorgiou,Constantine
+A1 Sinha,Pawan
+A1 Osuna,Edgar
+A1 Poggio,Tomaso
+YR 1997
+T1 Pedestrian Detection Using Wavelet Templates
+SP 193
+OP 199
+
+RT Journal Article
+ID 265022
+A1 Scholkopf,Bernhard
+A1 Sung,Kah-Kay
+A1 Burges,Chris,J.,C.
+A1 Girosi,Federico
+A1 Niyogi,Partha
+A1 Poggio,Tomaso
+A1 Vapnik,Vladimir
+YR 1997
+T1 Comparing support vector machines with Gaussian kernels to radial basis function classifiers
+JF IEEE Transactions on Signal Processing
+VO 45
+SP 2758
+OP 2765
+IS 11
+
+RT Journal Article
+ID 800972
+A1 Vetter,Thomas
+A1 Poggio,Tomaso
+YR 1997
+T1 Linear Object Classes and Image Synthesis From a Single Example Image
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 19
+SP 733
+OP 742
+IS 7
+
+RT Conference Proceedings
+ID 323500
+A1 Vetter,Thomas
+A1 Jones,Michael,J.
+A1 Poggio,Tomaso
+YR 1997
+T1 A bootstrapping algorithm for learning linear models of object classes
+SP 40
+OP 46
+
+RT Journal Article
+ID 2168910
+A1 Brunelli,Roberto
+A1 Poggio,Tomaso
+YR 1997
+T1 Template matching: matched spatial filters and beyond
+JF Pattern Recognition
+VO 30
+SP 751
+OP 768
+IS 5
+
+RT Journal Article
+ID 1986772
+A1 Jones,Michael,J
+A1 Sinha,Pawan
+A1 Vetter,Thomas
+A1 Poggio,Tomaso
+YR 1997
+T1 Top–down learning of low-level vision tasks
+JF Current Biology
+VO 7
+SP 991
+OP 994
+IS 12
+
+RT Conference Proceedings
+ID 319191
+A1 Riesenhuber,Maximilian
+A1 Poggio,Tomaso
+YR 1997
+T1 Just One View: Invariances in Inferotemporal Cell Tuning
+
+RT Conference Proceedings
+ID 375427
+A1 Avidan,Shai
+A1 Evgeniou,Theodoros
+A1 Shashua,Amnon
+A1 Poggio,Tomaso
+YR 1997
+T1 Image-based view synthesis by combining trilinear tensors and learning techniques
+SP 103
+OP 110
+
+RT Journal Article
+ID 33520
+A1 Ezzat,Tony
+A1 Poggio,Tomaso
+YR 1997
+T1 VIDEOREALISTIC TALKING FACES: A MORPHING APPROACH
+
+RT Conference Proceedings
+ID 588372
+A1 Poggio,Tomaso
+YR 1997
+T1 Image Representations for Visual Learning (Invited Paper)
+SP 143
+
+RT Journal Article
+ID 27825
+A1 Avidan,Shai
+A1 Evgeniou,Theodoros
+A1 Shashua,Amnon
+A1 Poggio,Tomaso
+YR 1997
+T1 Image-based View Synthesis
+JF Artificial Intelligence
+
+RT Journal Article
+ID 1641572
+A1 Constantinides,A.,G.
+A1 Haykin,S.
+A1 Hu,Yu,Hen
+A1 Hwang,Jenq-Neng
+A1 Katagiri,S.
+A1 Kung,Sun-Yuan
+A1 Poggio,T.,A.
+YR 1997
+T1 Guest Editors' Introduction: Neural Networks For Signal Processing
+JF IEEE Transactions on Signal Processing
+VO 45
+SP 2637
+OP 2638
+IS 11
+
+RT Journal Article
+ID 35872962
+A1 Sinha,P.
+A1 Poggio,T.
+YR 1997
+T1 Response from Sinha and Poggio
+JF Trends in Cognitive Sciences
+VO 1
+SP 44
+OP 44
+IS 2
+
+RT Journal Article
+ID 1384241
+A1 Beymer,David
+A1 Poggio,Tomaso
+YR 1996
+T1 Image Representations for Visual Learning
+JF Science
+VO 272
+SP 1905
+OP 1909
+IS 5270
+
+RT Conference Proceedings
+ID 342085
+A1 Ezzat,Tony
+A1 Poggio,Tomaso
+YR 1996
+T1 Facial Analysis and Synthesis Using Image-Based Models
+SP 116
+OP 121
+
+RT Book, Whole
+ID 509764
+A1 Vetter,Thomas
+A1 Poggio,Tomaso
+YR 1996
+T1 Image Synthesis from a Single Example Image
+SP 652
+OP 659
+
+RT Journal Article
+ID 3405934
+A1 Riesenhuber,Maximilian
+A1 Poggio,Tomaso
+YR 1996
+T1 Models of object recognition
+
+RT Journal Article
+ID 3171
+A1 Jones,Michael,J.
+A1 Poggio,Tomaso
+YR 1996
+T1 Model-Based Matching by Linear Combinations of Prototypes
+
+RT Journal Article
+ID 2005461
+A1 Sinha,Pawan
+A1 Poggio,Tomaso
+YR 1996
+T1 I think I know that face
+JF Nature
+VO 384
+SP 404
+OP 404
+IS 6608
+
+RT Journal Article
+ID 2017254
+A1 Sinha,Pawan
+A1 Poggio,Tomaso
+YR 1996
+T1 Role of learning in three-dimensional form perception
+JF Nature
+VO 384
+SP 460
+OP 463
+IS 6608
+
+RT Journal Article
+ID 1537771
+A1 Poggio,T.
+A1 Beymer,D.
+YR 1996
+T1 Learning to see
+JF IEEE Spectrum
+VO 33
+SP 60
+OP 69
+IS 5
+
+RT Conference Proceedings
+ID 331639
+A1 Bricolo,Emanuela
+A1 Poggio,Tomaso
+A1 Logothetis,Nikos
+YR 1996
+T1 3D Object Recognition: A Model of View-Tuned Neurons
+SP 41
+OP 47
+
+RT Journal Article
+ID 3955738
+A1 Sinha,P.
+A1 Poggio,T.
+YR 1996
+T1 The role of learning in 3-D form perception
+JF Nature
+
+RT Journal Article
+ID 1981
+A1 Girosi,Federico
+A1 Jones,Michael
+A1 Poggio,Tomaso
+YR 1995
+T1 Regularization Theory and Neural Networks Architectures
+JF Neural Computation
+VO 7
+SP 219
+OP 269
+IS 2
+
+RT Conference Proceedings
+ID 383714
+A1 Beymer,David
+A1 Poggio,Tomaso
+YR 1995
+T1 Face Recognition from One Example View
+SP 500
+OP 507
+
+RT Journal Article
+ID 1970914
+A1 Logothetis,Nikos,K.
+A1 Pauls,Jon
+A1 Poggio,Tomaso
+YR 1995
+T1 Shape representation in the inferior temporal cortex of monkeys
+JF Current Biology
+VO 5
+SP 552
+OP 563
+IS 5
+
+RT Conference Proceedings
+ID 308743
+A1 Jones,Michael,J.
+A1 Poggio,Tomaso
+YR 1995
+T1 Model-Based Matching of Line Drawings by Linear Combinations of Prototypes
+SP 531
+OP 536
+
+RT Journal Article
+ID 2082078
+A1 Beymer,D.
+A1 Poggio,T.
+YR 1995
+T1 Face recognition from one model view
+
+RT Conference Proceedings
+ID 2003637
+A1 Poggio,T.
+A1 Beymer,D.
+YR 1995
+T1 Learning networks for face analysis and synthesis
+
+RT Book, Whole
+ID 274248
+A1 Sung,Kah-Kay
+A1 Poggio,Tomaso
+YR 1995
+T1 Learning Human Face Detection in Cluttered Scenes
+SP 432
+OP 439
+
+RT Journal Article
+ID 2136273
+A1 Fahle,M.
+A1 Edelman,S.
+A1 Poggio,T.
+YR 1995
+T1 Fast perceptual learning in hyperacuity
+JF Vision Research
+VO 35
+SP 3003
+OP 3013
+IS 21
+
+RT Book, Whole
+ID 270929
+A1 Poggio,Tomaso
+A1 Sung,Kah-Kay
+YR 1995
+T1 Finding Human Faces with a Gaussian Mixture Distribution-Based Face Model
+SP 437
+OP 446
+
+RT Journal Article
+ID 3524351
+A1 Ancona,Nicola
+A1 Poggio,Tomaso
+YR 1995
+T1 Optical flow from 1-D correlation: Application to a simple time-to-crash detector
+JF International Journal of Computer Vision
+VO 14
+SP 131
+OP 146
+IS 2
+
+RT Journal Article
+ID 1986746
+A1 Vetter,Thomas
+A1 Hurlbert,Anya
+A1 Poggio,Tomaso
+YR 1995
+T1 View-based models of 3-D object recognition: invariance to imaging transformations
+JF Cerebral Cortex
+VO 5
+SP 261
+OP 269
+IS 3
+
+RT Journal Article
+ID 15231504
+A1 Brunelli,Roberto
+A1 Falavigna,Daniele
+A1 Poggio,Tomaso
+A1 Stringa,Luigi
+YR 1995
+T1 Automatic person recognition by acoustic and geometric features
+JF Machine Vision and Applications
+VO 8
+SP 317
+OP 325
+IS 5
+
+RT Journal Article
+ID 359734
+A1 Logothetis,N.,k.
+A1 Pauls,J.
+A1 Poggio,T.
+YR 1995
+T1 Spatial Reference Frames for Object Recognition Tuning for Rotations in Depth
+
+RT Journal Article
+ID 15231505
+A1 Brunelli,R.
+A1 Falavigna,D.
+A1 Poggio,T.
+A1 Stringa,L.
+YR 1995
+T1 Automatic person recognition by acoustic and geometric features
+JF Machine Vision and Applications
+VO 8
+SP 317
+OP 325
+IS 5
+
+RT Journal Article
+ID 57089741
+A1 Hutchinson,James,M.
+A1 Lo,Andrew,W.
+A1 Poggio,Tomaso
+YR 1995
+T1 A Nonparametric Approach to Pricing and Hedging Derivative Securities Via Learning Networks
+
+RT Journal Article
+ID 355703
+A1 Hutchinson,James,M.
+A1 Lo,Andrew,W.
+A1 Poggio,Tomaso
+YR 1994
+T1 A Nonparametric Approach to Pricing and Hedging Derivative Securities via Learning Networks
+
+RT Journal Article
+ID 1989584
+A1 Vetter,T.
+A1 Poggio,T.
+A1 Biilthoff,H.,H.
+YR 1994
+T1 The importance of symmetry and virtual views in three-dimensional object recognition
+JF Current Biology
+VO 4
+SP 18
+OP 23
+IS 1
+
+RT Journal Article
+ID 1986773
+A1 Logothetis,N.
+A1 Pauls,J.
+A1 Poggio,T.
+YR 1994
+T1 View-dependent object recognition by monkeys
+JF Current Biology
+VO 4
+SP 401
+OP 414
+IS 5
+
+RT Journal Article
+ID 3827235
+A1 Vetter,Thomas
+A1 Poggio,Tomaso
+YR 1994
+T1 Symmetric 3D objects are an easy case for 2D object recognition
+JF Spatial Vision
+VO 8
+SP 443
+OP 453
+IS 4
+
+RT Journal Article
+ID 185255
+A1 Toelg,Sebastian
+A1 Poggio,Tomas
+YR 1994
+T1 Towards an example-based image compression architecture for video-conferencing
+
+RT Journal Article
+ID 800246
+A1 Bhanu,Bir
+A1 Poggio,Tomaso
+YR 1994
+T1 Introduction to the Special Section on Learning in Computer Vision
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 16
+SP 865
+IS 9
+
+RT Journal Article
+ID 324746
+A1 Logothetis,N.,k.
+A1 Pauls,J.
+A1 Poggio,T.
+YR 1994
+T1 Viewer-Centered Object Recognition in Monkeys
+
+RT Journal Article
+ID 2900131
+A1 Poggio,M.
+A1 Poggio,T.
+YR 1994
+T1 Cooperative physics of fly swarms: An emergent behavior
+
+RT Journal Article
+ID 381125
+A1 Poggio,Tomaso
+A1 Girosi,F.
+YR 1994
+T1 Continuous Stochastic Cellular Automata That Have a Stationary Distribution and No Detailed Balance
+
+RT Journal Article
+ID 800861
+A1 Brunelli,Roberto
+A1 Poggio,Tomaso
+YR 1993
+T1 Face Recognition: Features Versus Templates
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 15
+SP 1042
+OP 1052
+IS 10
+
+RT Journal Article
+ID 352292
+A1 Beymer,D.
+A1 Shashua,A.
+A1 Poggio,T.
+YR 1993
+T1 Example Based Image Analysis and Synthesis
+
+RT Journal Article
+ID 1985178
+A1 Brunelli,R.
+A1 Poggio,T.
+YR 1993
+T1 Face Recognition: Features vs Templates
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 15
+IS 10
+
+RT Conference Proceedings
+ID 329396
+A1 Ancona,Nicola
+A1 Poggio,Tomaso
+YR 1993
+T1 Optical flow from 1D correlation: Application to a simple time-to-crash detector
+
+RT Journal Article
+ID 385220
+A1 Brunelli,Roberto
+A1 Poggio,Tomaso
+YR 1993
+T1 Caricatural effects in automated face perception
+JF Biological Cybernetics
+VO 69
+SP 235
+OP 241
+IS 3
+
+RT Journal Article
+ID 382199
+A1 Hurlbert,Anya
+A1 Poggio,Tomaso
+YR 1993
+T1 Observations on Cortical Mechanisms for Object Recognition and Learning
+
+RT Journal Article
+ID 315252
+A1 Brunelli,R.
+A1 Falavigna,D.
+A1 Stringa,L.
+A1 Poggio,T.
+YR 1993
+T1 Automatic Person Recognition by Using Acoustic and Geometric Features
+
+RT Journal Article
+ID 3083639
+A1 Brunelli,R.
+A1 Poggio,T.
+YR 1993
+T1 Face Recognition: Features vs Template
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+RT Journal Article
+ID 802638
+A1 Wah,Benjamin,W.
+A1 Huang,Thomas,S.
+A1 Joshi,Aravind,K.
+A1 Moldovan,Dan,I.
+A1 Aloimonos,Yiannis
+A1 Bajcsy,Ruzena
+A1 Ballard,Dana,H.
+A1 Degroot,Doug
+A1 Dejong,Kenneth
+A1 Dyer,Charles,R.
+A1 Fahlman,Scott,E.
+A1 Grishman,Ralph
+A1 Hirschman,Lynette
+A1 Korf,Richard,E.
+A1 Levinson,Stephen,E.
+A1 Miranker,Daniel,P.
+A1 Morgan,N.,H.
+A1 Nirenburg,Sergei
+A1 Poggio,Tomaso
+A1 Riseman,Edward,M.
+A1 Stanfil,Craig
+A1 Stolfo,Salvatore,J.
+A1 Tanimoto,Steven,L.
+A1 Weems,Charles,C.
+YR 1993
+T1 Report on Workshop on High Performance Computing and Communications for Grand Challenge Applications: Computer Vision, Speech and Natural Language Processing, and Artificial Intelligence
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 5
+SP 138
+OP 154
+IS 1
+
+RT Conference Proceedings
+ID 49967760
+A1 Poggio,Tomaso
+A1 Girosi,Federico
+A1 Jones,Michael
+YR 1993
+T1 From regularization to radial, tensor and additive splines
+
+RT Conference Proceedings
+ID 49975672
+A1 Poggio,Tomaso
+A1 Girosi,Federico
+A1 Jones,Michael
+YR 1993
+T1 From regularization to radial, tensor and additive splines
+
+RT Journal Article
+ID 13337000
+A1 Poggio,Tomaso
+YR 1993
+T1 Werner Reichardt 1924-1992
+JF Biological Cybernetics
+VO 69
+SP 1
+OP 3
+IS 1
+
+RT Journal Article
+ID 38469865
+A1 Poggio,Tomaso
+YR 1993
+T1 Stereopsis: some computational reflections
+JF Spatial Vision
+VO 7
+SP 82
+OP 82
+IS 1
+
+RT Journal Article
+ID 62238
+A1 Poggio,Tomaso
+A1 Vetter,Thomas
+YR 1992
+T1 Recognition and Structure from one 2D Model View: Observations on Prototypes, Object Classes and Symmetries
+
+RT Journal Article
+ID 298136
+A1 Poggio,Tomaso
+A1 Brunelli,Roberto
+YR 1992
+T1 A Novel Approach to Graphics
+
+RT Journal Article
+ID 22155399
+A1 Poggio,Tomaso
+A1 Stringa,Luigi
+YR 1992
+T1 A project for an intelligent system: Vision and learning
+JF International Journal of Quantum Chemistry
+VO 42
+SP 727
+OP 739
+IS 4
+
+RT Book, Whole
+ID 312455
+A1 Brunelli,Roberto
+A1 Poggio,Tomaso
+YR 1992
+T1 Face Recognition through Geometrical Features
+SP 792
+OP 800
+
+RT Journal Article
+ID 850455
+A1 Edelman,Shimon
+A1 Poggio,Tomaso
+YR 1992
+T1 Bringing the Grandmother back into the Picture: A Memory-Based View of Object Recognition
+JF International Journal of Pattern Recognition and Artificial Intelligence
+VO 6
+SP 37
+OP 61
+IS 1
+
+RT Journal Article
+ID 1974361
+A1 Poggio,Tomaso
+A1 Koch,Christof
+YR 1992
+T1 Multiplying with synapses and neurons
+
+RT Journal Article
+ID 4389499
+A1 Wyatt,John,L.
+A1 Keast,Craig
+A1 Seidel,Mark
+A1 Standley,David
+A1 Horn,Berthold,K.,P.
+A1 Knight,Tom
+A1 Sodini,Charles
+A1 Lee,Hae-seung
+A1 Poggio,Tomaso
+YR 1992
+T1 Analog VLSI systems for image acquisition and fast early vision processing
+JF International Journal of Computer Vision
+VO 8
+SP 217
+OP 230
+IS 3
+
+RT Conference Proceedings
+ID 49946435
+A1 Keast,Craig
+A1 Seidel,Mark
+A1 Standley,David
+A1 Horn,Berthold
+A1 Knight,Tom
+A1 Sodini,Charles
+A1 Lee,Hae-Seung
+A1 Poggio,Tomaso
+YR 1992
+T1 Analog VLSI systems for early vision processing
+
+RT Journal Article
+ID 27384119
+A1 POGGIO,T
+A1 EDELMAN,S
+A1 FAHLE,M
+YR 1992
+T1 Learning of visual modules from examples: A framework for understanding adaptive visual performance
+JF Cvgip: Image Understanding
+VO 56
+SP 22
+OP 30
+IS 1
+
+RT Journal Article
+ID 352342
+A1 Vetter,T.
+A1 Poggio,T.
+A1 Bülthoff,H.
+YR 1992
+T1 3D Object Recognition: Symmetry and Virtual Views
+
+RT Journal Article
+ID 61321618
+A1 Poggio,T.,A.
+A1 Rivest,R.
+YR 1992
+T1 Computational analysis of properties and limitations of neural networks: toward new parallel architectures for learning. Final report
+
+RT Journal Article
+ID 397857
+A1 Poggio,Tomaso
+A1 Fahle,Manfred
+A1 Edelman,Shimon
+YR 1991
+T1 Fast Perceptual Learning in Visual Hyperacuity
+JF Science
+
+RT Conference Proceedings
+ID 398687
+A1 Brunelli,Roberto
+A1 Poggio,Tomaso
+YR 1991
+T1 HyperBF Networks for Real Object Recognition
+SP 1278
+OP 1285
+
+RT Journal Article
+ID 2595687
+A1 Poggio,T.
+A1 Edelman,S.
+YR 1991
+T1 A network that learns to recognize 3D objects
+JF Nature
+
+RT Conference Proceedings
+ID 2023461
+A1 Girosi,F.
+A1 Poggio,T.
+A1 Caprile,B.
+YR 1991
+T1 Extensions of a theory of networks for approximation and learning: outliers and negative examples
+
+RT Journal Article
+ID 2092853
+A1 Poggio,T.
+A1 Verri,A.
+A1 Torre,V.
+YR 1991
+T1 Green theorems and qualitative properties of the optical ow
+
+RT Journal Article
+ID 849466
+A1 Weems,Charles,C.
+A1 Brown,Christopher,M.
+A1 Webb,Jon,A.
+A1 Poggio,Tomaso
+A1 Kender,John,R.
+YR 1991
+T1 Parallel Processing in the DARPA Strategic Computing Vision Program
+JF IEEE Expert / IEEE Intelligent Systems
+VO 6
+SP 23
+OP 38
+IS 5
+
+RT Journal Article
+ID 3405935
+A1 Edelman,S
+A1 Poggio,T
+YR 1991
+T1 Models of object recognition
+JF Current Opinion in Neurobiology
+VO 1
+SP 270
+OP 273
+IS 2
+
+RT Journal Article
+ID 77888
+A1 Poggio,Tomaso
+A1 Edelman,Shimon
+A1 Fahle,Manfred
+YR 1991
+T1 Learning of visual modules from examples: a framework for understanding adaptive visual performance
+
+RT Journal Article
+ID 53799833
+A1 Poggio,Tomaso
+A1 Verri,Alessandro
+A1 Torre,Vincent
+YR 1991
+T1 Green theorems and qualitative properties of the optical flow
+
+RT Journal Article
+ID 1376710
+A1 Poggio,T.
+A1 Girosi,F.
+YR 1990
+T1 Networks for approximation and learning
+JF Proceedings of The IEEE
+VO 78
+SP 1481
+OP 1497
+IS 9
+
+RT Journal Article
+ID 1970907
+A1 Poggio,T.
+A1 Edelman,S.
+YR 1990
+T1 A network that learns to recognize three-dimensional objects
+JF Nature
+VO 343
+SP 263
+OP 266
+IS 6255
+
+RT Journal Article
+ID 1302172
+A1 Poggio,T.
+A1 Girosi,F.
+YR 1990
+T1 Regularization Algorithms for Learning that are Equivalent to Multilayer Networks
+JF Science
+VO 247
+SP 978
+OP 982
+IS 4945
+
+RT Journal Article
+ID 15210283
+A1 Girosi,F.
+A1 Poggio,T.
+YR 1990
+T1 Networks and the best approximation property
+JF Biological Cybernetics
+VO 63
+SP 169
+OP 176
+IS 3
+
+RT Journal Article
+ID 1970906
+A1 Poggio,T.
+YR 1990
+T1 A theory of how the brain might work
+
+RT Conference Proceedings
+ID 23471
+A1 Girosi,Federico
+A1 Poggio,Tomaso
+A1 Caprile,Bruno
+YR 1990
+T1 Extensions of a Theory of Networks for Approximation and Learning
+SP 750
+OP 756
+
+RT Journal Article
+ID 2395512
+A1 Poggio,T.
+A1 Girosi,F.
+YR 1990
+T1 Extensions of a theory of networks for approximation and learning: Dimensionality reduction and clustering
+
+RT Journal Article
+ID 1977857
+A1 Poggio,T.
+A1 Girosi,F.
+YR 1990
+T1 A theory of Networks for Learning
+JF Science
+
+RT Journal Article
+ID 47349518
+A1 Kanade,T
+A1 Binford,T
+A1 Poggio,T
+A1 Rosenfeld,A
+YR 1990
+T1 Vision
+JF Annual Review of Computer Science
+VO 4
+SP 517
+OP 529
+IS 1
+
+RT Journal Article
+ID 2117520
+A1 Poggio,T
+YR 1990
+T1 A network that learns to recognize three-dimensional objects" Nature 343 263-266
+
+RT Journal Article
+ID 2596015
+A1 Poggio,T.
+A1 Edelman,S.
+YR 1990
+T1 A neural network that learns to recognize three-dimensional objects
+JF Nature
+
+RT Journal Article
+ID 329546
+A1 Poggio,Tomaso
+A1 Girosi,Federico
+YR 1989
+T1 A Theory of Networks for Approximation and Learning
+
+RT Journal Article
+ID 799925
+A1 Verri,Alessandro
+A1 Poggio,Tomaso
+YR 1989
+T1 Motion Field and Optical Flow: Qualitative Properties
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 11
+SP 490
+OP 498
+IS 5
+
+RT Journal Article
+ID 2376333
+A1 Girosi,F.
+A1 Poggio,T.
+YR 1989
+T1 Networks and the best approximation property
+JF Formal Aspects of Computing
+
+RT Journal Article
+ID 3393373
+A1 Poggio,T.
+YR 1989
+T1 Mit progress in understanding images
+
+RT Journal Article
+ID 2010632
+A1 Bülthoff,H.
+A1 Little,J.
+A1 Poggio,T.
+YR 1989
+T1 A parallel algorithm for real-time computation of optical flow
+JF Nature
+VO 337
+SP 549
+OP 553
+IS 6207
+
+RT Journal Article
+ID 15243940
+A1 Girosi,Federico
+A1 Poggio,Tomaso
+YR 1989
+T1 Representation Properties of Networks: Kolmogorov's Theorem Is Irrelevant
+JF Neural Computation
+VO 1
+SP 465
+OP 469
+IS 4
+
+RT Journal Article
+ID 947595
+A1 Gamble,E.,B.
+A1 Geiger,D.
+A1 Poggio,T.
+A1 Weinshall,D.
+YR 1989
+T1 Integration of vision modules and labeling of surface discontinuities
+JF IEEE Transactions on Systems, Man, and Cybernetics
+VO 19
+SP 1576
+OP 1581
+IS 6
+
+RT Journal Article
+ID 62690
+A1 Edelman,Shimon
+A1 Poggio,Tomaso
+YR 1989
+T1 Representations in High-Level Vision: Reassessing the Inverse Optics Paradigm
+
+RT Conference Proceedings
+ID 49861369
+A1 Bulthoff,H.,H.
+A1 Little,James,J.
+A1 Poggio,Tomaso
+YR 1989
+T1 A parallel motion algorithm consistent with psychophysics and physiology
+
+RT Journal Article
+ID 20048191
+A1 Edelman,S.
+A1 Poggio,T.
+YR 1989
+T1 Integrating visual cues for object segmentation and recognition
+JF Optics News
+VO 15
+SP 8
+IS 5
+
+RT Conference Proceedings
+ID 49866328
+A1 Weinshall,D.
+A1 Geiger,D.
+A1 Poggio,T.
+YR 1989
+T1 Labeling of Surface Discontinuities through the Integration of Vision Modules
+
+RT Journal Article
+ID 1746221
+A1 Poggio,Tomaso
+A1 Voorhees,Harry
+A1 Yuille,Alan,L.
+YR 1988
+T1 A regularized solution to edge detection
+JF Journal of Complexity
+VO 4
+SP 106
+OP 123
+IS 2
+
+RT Journal Article
+ID 1469183
+A1 BERTERO,MARIO
+A1 Poggio,T.
+YR 1988
+T1 Ill-posed problems in early vision
+JF Proceedings of The IEEE
+VO 76
+SP 869
+OP 889
+IS 8
+
+RT Journal Article
+ID 2876202
+A1 Voorhees,Harry
+A1 Poggio,Tomaso
+YR 1988
+T1 Computing texture boundaries from images
+JF Nature
+VO 333
+SP 364
+OP 367
+IS 6171
+
+RT Journal Article
+ID 2063437
+A1 Hurlbert,A.,C.
+A1 Poggio,T.,A.
+YR 1988
+T1 Synthesizing a color algorithm from examples
+JF Science
+VO 239
+SP 482
+OP 485
+IS 4839
+
+RT Journal Article
+ID 1998977
+A1 Poggio,T.
+A1 Gamble,E.,B.
+A1 Little,J.,J.
+YR 1988
+T1 Parallel Integration of Vision Modules
+JF Science
+VO 242
+SP 436
+OP 440
+IS 4877
+
+RT Conference Proceedings
+ID 2042475
+A1 Little,James,J.
+A1 Bulthoff,H.,H.
+A1 Poggio,Tomaso
+YR 1988
+T1 Parallel Optical Flow Using Local Voting
+
+RT Conference Proceedings
+ID 560541
+A1 Hurlbert,Anya,C.
+A1 Poggio,Tomaso
+YR 1988
+T1 A Network for Image Segmentation Using Color
+SP 297
+OP 304
+
+RT Journal Article
+ID 3720536
+A1 Little,James,J.
+A1 Poggio,Tomaso
+A1 Gamble,Edward,B.
+YR 1988
+T1 Seeing in Parallel: the Vision Machine
+JF International Journal of High Performance Computing Applications
+VO 2
+SP 13
+OP 28
+IS 4
+
+RT Journal Article
+ID 14497398
+A1 POGGIO,T
+YR 1988
+T1 Learning, regularization and splines
+JF Neural Networks
+VO 1
+SP 211
+
+RT Journal Article
+ID 60252124
+A1 Little,J.,J.
+A1 Poggio,T.
+A1 Gamble,E.,B.,Jr.
+YR 1988
+T1 Seeing in parallel
+
+RT Journal Article
+ID 55684788
+A1 Hurlbert,Anya,C.
+A1 Poggio,Tomaso,A.
+YR 1988
+T1 Synthesizing a Color Algorithm from Examples
+JF Science
+VO 239
+SP 482
+OP 485
+
+RT Journal Article
+ID 52277212
+A1 Geiger,Davi
+A1 Poggio,Tomaso
+YR 1988
+T1 An optimal scale for edge detection
+
+RT Journal Article
+ID 60257103
+A1 Poggio,T.
+A1 Little,J.
+YR 1988
+T1 Parallel algorithms for computer vision. Annual report No. 2, 31 August 1986-31 August 1987
+
+RT Journal Article
+ID 1982189
+A1 Marroquin,J.
+A1 Mitter,S.
+A1 Poggio,T.
+YR 1987
+T1 Probabilistic Solution of Ill-Posed Problems in Computational Vision
+JF Journal of The American Statistical Association
+VO 82
+SP 76
+OP 89
+IS 397
+
+RT Journal Article
+ID 2041979
+A1 Gamble,E.
+A1 Poggio,T.
+YR 1987
+T1 Visual Integration and Detection of Discontinuities: The Key Role of Intensity Edges
+
+RT Conference Proceedings
+ID 1974579
+A1 Voorhees,H.
+A1 Poggio,T.
+YR 1987
+T1 Detecting textons and texture boundaries in natural images
+
+RT Journal Article
+ID 2785377
+A1 Koch,C.
+A1 Poggio,T.
+YR 1987
+T1 Biophysics of computation: neurons, synapses and membranes
+
+RT Conference Proceedings
+ID 614999
+A1 Geiger,Davi
+A1 Poggio,Tomaso
+YR 1987
+T1 An Optimal Scale for Edge Detection
+SP 745
+OP 748
+
+RT Conference Proceedings
+ID 560255
+A1 Poggio,Tomaso
+A1 Hurlbert,Anya,C.
+YR 1987
+T1 Learning a Color Algorithm from Examples
+SP 622
+OP 631
+
+RT Journal Article
+ID 53439501
+A1 Bulthoff,Heinrich,H.
+A1 Little,James,J.
+A1 Poggio,Tomaso
+YR 1987
+T1 Parallel motion algorithm explains barber pole and motion capture illusions without tricks (A)
+
+RT Journal Article
+ID 61400015
+A1 Verri,A.
+A1 Poggio,T.
+YR 1987
+T1 Against Quantitative Optical Flow
+
+RT Journal Article
+ID 60051733
+A1 Poggio,T.
+A1 Little,J.
+YR 1987
+T1 Parallel algorithms for computer vision. Contract report, 31 August 1985-31 August 1986
+
+RT Journal Article
+ID 60480073
+A1 Poggio,T.
+A1 Koch,C.
+YR 1987
+T1 Synapses that compute motion. Memorandum report
+
+RT Journal Article
+ID 53327190
+A1 Poggio,T.
+YR 1987
+T1 Computer vision
+VO 755
+SP 54
+
+RT Journal Article
+ID 2009529
+A1 Yuille,Alan,L.
+A1 Poggio,Tomaso,A.
+YR 1986
+T1 Scaling Theorems for Zero Crossings
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 8
+SP 15
+OP 25
+IS 1
+
+RT Journal Article
+ID 14353229
+A1 Torre,Vincent
+A1 Poggio,Tomaso,A.
+YR 1986
+T1 On Edge Detection
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 8
+SP 147
+OP 163
+IS 2
+
+RT Journal Article
+ID 35482598
+A1 Koch,Christof
+A1 Poggio,Tomaso
+A1 Torre,Vincent
+YR 1986
+T1 Computations in the vertebrate retina: gain enhancement, differentiation and motion discrimination
+JF Trends in Neurosciences
+VO 9
+SP 204
+OP 211
+
+RT Journal Article
+ID 14840551
+A1 Hurlbert,Anya
+A1 Poggio,Tomaso
+YR 1986
+T1 Visual information: Do computers need attention?
+JF Nature
+VO 321
+SP 651
+OP 652
+IS 6071
+
+RT Journal Article
+ID 2007937
+A1 Poggio,Tomaso
+A1 Torre,Vincent
+A1 Koch,Christof
+YR 1985
+T1 Computational vision and regularization theory
+JF Nature
+VO 317
+SP 314
+OP 319
+IS 6035
+
+RT Journal Article
+ID 3211406
+A1 Poggio,T.
+A1 Koch,C.
+YR 1985
+T1 Ill-Posed Problems in Early Vision: From Computational Theory to Analogue Networks
+JF Proceedings of The Royal Society of London. Series B, Biological Sciences (1934-1990)
+VO 226
+SP 303
+OP 323
+IS 1244
+
+RT Journal Article
+ID 3101067
+A1 Yuille,A.,L.
+A1 Poggio,T.
+YR 1985
+T1 Fingerprints theorems for zero crossings
+JF Journal of The Optical Society of America A-optics Image Science and Vision
+VO 2
+SP 683
+IS 5
+
+RT Journal Article
+ID 2179125
+A1 Poggio,Tomaso
+YR 1985
+T1 Early vision: From computational structure to algorithms and parallel hardware
+JF Graphical Models /graphical Models and Image Processing /computer Vision, Graphics, and Image Processing
+VO 31
+SP 139
+OP 155
+IS 2
+
+RT Journal Article
+ID 35482447
+A1 Hurlbert,A.
+A1 Poggio,T.
+YR 1985
+T1 Spotlight on attention
+JF Trends in Neurosciences
+VO 8
+SP 309
+OP 311
+
+RT Journal Article
+ID 35291262
+A1 KOCH,C
+A1 POGGIO,T
+YR 1985
+T1 A simple algorithm for solving the cable equation in dendritic trees of arbitrary geometry
+JF Journal of Neuroscience Methods
+VO 12
+SP 303
+OP 315
+IS 4
+
+RT Journal Article
+ID 36487258
+A1 KOCH,C
+A1 POGGIO,T
+YR 1985
+T1 The biophysical properties of spines as a basis for their electrical function: a comment on Kawato & Tsukahara (1983)
+JF Journal of Theoretical Biology
+VO 113
+SP 225
+OP 229
+IS 2
+
+RT Journal Article
+ID 54361247
+A1 Poggio,T.
+A1 Voorhees,H.
+A1 Yuille,A.
+YR 1985
+T1 A regularized solution to edge detection
+
+RT Journal Article
+ID 19903354
+A1 Poggio,T.
+A1 Koch,C.
+YR 1985
+T1 Ill-Posed Problems in Early Vision: from Computational Theory to Analogue Networks
+JF Proceedings of The Royal Society A: Mathematical, Physical and Engineering Sciences
+VO 402
+SP 401
+OP 401
+IS 1823
+
+RT Journal Article
+ID 2092134
+A1 Poggio,T.
+A1 Torre,V.
+YR 1984
+T1 Ill-posed problems and regularization analysis in early vision
+
+RT Journal Article
+ID 2146843
+A1 Poggio,Gian,F.
+A1 Poggio,T.
+YR 1984
+T1 The Analysis of Stereopsis
+JF Annual Review of Neuroscience
+VO 7
+SP 379
+OP 412
+IS 1
+
+RT Journal Article
+ID 1982416
+A1 Yuille,A.,L.
+A1 Poggio,T.
+YR 1984
+T1 A generalized ordering constraint for stereo correspondence
+
+RT Conference Proceedings
+ID 491023
+A1 Yuille,Alan,L.
+A1 Poggio,Tomaso
+YR 1984
+T1 Fingerprints Theorems
+SP 362
+OP 365
+
+RT Journal Article
+ID 33649544
+A1 NIELSEN,K
+A1 POGGIO,T
+YR 1984
+T1 Vertical image registration in stereopsis
+JF Vision Research
+VO 24
+SP 1133
+OP 1140
+IS 10
+
+RT Journal Article
+ID 46788823
+A1 Poggio,Tomaso
+YR 1984
+T1 Vision by Man and Machine
+JF Scientific American
+VO 250
+SP 106
+OP 116
+IS 4
+
+RT Journal Article
+ID 4071123
+A1 Poggio,T.
+A1 Reichardt,W.
+YR 1984
+T1 Visual control of orientation behaviour in the fly
+
+RT Journal Article
+ID 61399979
+A1 Poggio,T.
+A1 Voorhees,H.
+A1 Yuille,A.,L.
+YR 1984
+T1 A regularised solution to edge detection
+
+RT Journal Article
+ID 61399898
+A1 Fahle,M.
+A1 Poggio,T.
+YR 1984
+T1 Visual hyperacuity: spatiotemporal interpolation in human vision
+
+RT Journal Article
+ID 51258378
+A1 Torre,V.
+A1 Poggio,T.
+YR 1984
+T1 On edge detection
+
+RT Journal Article
+ID 56235801
+A1 Poggio,Tomaso
+A1 Torre,Vincent
+YR 1984
+T1 Computational nature of early vision problems (A)
+
+RT Journal Article
+ID 37766848
+A1 Koch,C.
+A1 Poggio,T.
+YR 1983
+T1 A Theoretical Analysis of Electrical Properties of Spines
+JF Proceedings of The Royal Society of London. Series B, Biological Sciences (1934-1990)
+VO 218
+SP 455
+OP 477
+IS 1213
+
+RT Journal Article
+ID 2003950
+A1 Nishihara,H.,K.
+A1 Poggio,T.
+YR 1983
+T1 Stereo vision for robotics
+
+RT Journal Article
+ID 2037527
+A1 Koch,C.
+A1 Poggio,T.
+A1 Torre,V.
+YR 1983
+T1 Nonlinear Interactions in a Dendritic Tree: Localization, Timing, and Role in Information Processing
+JF Proceedings of The National Academy of Sciences
+VO 80
+SP 2799
+OP 2802
+IS 9
+
+RT Journal Article
+ID 3097644
+A1 Reichardt,Werner
+A1 Poggio,Tomaso
+A1 Hausen,Klaus
+YR 1983
+T1 Figure-ground discrimination by relative movement in the visual system of the fly
+JF Biological Cybernetics
+VO 46
+SP 1
+OP 30
+IS S1
+
+RT Journal Article
+ID 2089783
+A1 Reichardt,W.
+A1 Poggio,T.
+A1 Hausen,K.
+YR 1983
+T1 Figure-ground discrimination by relative movement in the visual system of the fly, part II: Toward the neural circuitry
+JF Formal Aspects of Computing
+
+RT Journal Article
+ID 3022888
+A1 Koch,C.
+A1 Poggio,T.
+YR 1983
+T1 Electrical properties of dendritic spines
+JF Trends in Neurosciences
+VO 6
+SP 80
+OP 83
+
+RT Journal Article
+ID 62092
+A1 Nishihara,H.,K.
+A1 Poggio,T.
+YR 1983
+T1 Hidden Cues in Random Line Stereograms
+
+RT Journal Article
+ID 2638449
+A1 Koch,C.
+A1 Poggio,T.
+YR 1983
+T1 A theoretical analysis of electrical properties of dendritic spines
+
+RT Journal Article
+ID 1996211
+A1 Koch,C.
+A1 Poggio,T.
+A1 Torre,V.
+YR 1982
+T1 Retinal Ganglion Cells: a Functional Interpretation of Dendritic Morphology
+
+RT Journal Article
+ID 15209698
+A1 Wehrhahn,Christian
+A1 Poggio,Tomaso
+A1 Biilthoff,Heinrich
+YR 1982
+T1 Tracking and chasing in houseflies ( Musca )
+JF Biological Cybernetics
+VO 45
+SP 123
+OP 130
+IS 2
+
+RT Journal Article
+ID 37773889
+A1 Koch,C.
+A1 Poggio,T.
+A1 Torres,V.
+YR 1982
+T1 Retinal Ganglion Cells: A Functional Interpretation of Dendritic Morphology
+JF Philosophical Transactions of The Royal Society B: Biological Sciences
+VO 298
+SP 227
+OP 263
+IS 1090
+
+RT Journal Article
+ID 14828788
+A1 Nishihara,H.,K.
+A1 Poggio,T.
+YR 1982
+T1 Hidden cues in random-line stereograms
+JF Nature
+VO 300
+SP 347
+OP 349
+IS 5890
+
+RT Journal Article
+ID 1982613
+A1 Fahle,M.
+A1 Poggio,T.
+YR 1981
+T1 Visual Hyperacuity: Spatiotemporal Interpolation in Human Vision
+JF Proceedings of The Royal Society of London. Series B, Biological Sciences (1934-1990)
+VO 213
+SP 451
+OP 477
+IS 1193
+
+RT Journal Article
+ID 46461513
+A1 Poggio,T.
+A1 Reichardt,W.
+A1 Hausen,K.
+YR 1981
+T1 A neuronal circuitry for relative movement discrimination by the visual system of the fly
+JF Naturwissenschaften
+VO 68
+SP 443
+OP 446
+IS 9
+
+RT Journal Article
+ID 15209593
+A1 Poggio,T.
+A1 Reichardt,W.
+YR 1981
+T1 Visual fixation and tracking by flies: Mathematical properties of simple control systems
+JF Biological Cybernetics
+VO 40
+SP 101
+OP 112
+IS 2
+
+RT Journal Article
+ID 2826602
+A1 Poggio,T.
+A1 Reichardt,W.
+YR 1981
+T1 Characterization of nonlinear interactions in the fly''s visual system
+
+RT Journal Article
+ID 2005887
+A1 Poggio,T.
+A1 Reichardt,W.
+A1 Hausen,W.
+YR 1981
+T1 A neuronal cir-Reyes
+
+RT Journal Article
+ID 15209625
+A1 Geiger,G.
+A1 Poggio,T.
+YR 1981
+T1 Asymptotic oscillations in the tracking behaviour of the fly Musca domestica
+JF Biological Cybernetics
+VO 41
+SP 197
+OP 201
+IS 3
+
+RT Journal Article
+ID 35481667
+A1 Poggio,T.
+YR 1981
+T1 Marr's computational approach to vision
+JF Trends in Neurosciences
+VO 4
+SP 258
+OP 262
+
+RT Journal Article
+ID 15209530
+A1 Poggio,T.
+A1 Reichardt,W.
+YR 1980
+T1 On the representation of multi-input systems: Computational properties of polynomial algorithms
+JF Biological Cybernetics
+VO 37
+SP 167
+OP 186
+IS 3
+
+RT Journal Article
+ID 54983929
+A1 Marr,D.
+A1 Poggio,Tomaso
+A1 Hildreth,Ellen,C.
+YR 1980
+T1 Smallest channel in early human vision
+JF Journal of The Optical Society of America
+VO 70
+SP 868
+
+RT Journal Article
+ID 1971514
+A1 Marr,D.
+A1 Poggio,T.
+YR 1979
+T1 A Computational Theory of Human Stereo Vision
+JF Proceedings of The Royal Society of London. Series B, Biological Sciences (1934-1990)
+VO 204
+SP 301
+OP 328
+IS 1156
+
+RT Journal Article
+ID 1969283
+A1 Marr,D.
+A1 Poggio,T.
+YR 1979
+T1 A theory of human stereo vision
+
+RT Journal Article
+ID 15209473
+A1 Reichardt,Werner
+A1 Poggio,Tomaso
+YR 1979
+T1 Figure-ground discrimination by relative movement in the visual system of the fly
+JF Biological Cybernetics
+VO 35
+SP 81
+OP 100
+IS 2
+
+RT Journal Article
+ID 2007652
+A1 Reichhardt,W
+A1 Poggio,T
+YR 1979
+T1 FIGURE-GROUND DISCRIMINATION BY RELATIVE MOVEMENT IN THE VISUAL SYSTEM OF THE Y
+JF Formal Aspects of Computing
+
+RT Journal Article
+ID 37525158
+A1 Poggio,T.
+YR 1979
+T1 Book Review:Movements of the Eyes. R. H. S. Carpenter
+JF Quarterly Review of Biology
+VO 54
+SP 118
+IS 1
+
+RT Journal Article
+ID 2364105
+A1 Torre,V.
+A1 Poggio,T.
+YR 1978
+T1 A Synaptic Mechanism Possibly Underlying Directional Selectivity to Motion
+JF Proceedings of The Royal Society of London. Series B, Biological Sciences (1934-1990)
+VO 202
+SP 409
+OP 416
+IS 1148
+
+RT Journal Article
+ID 15209312
+A1 Marr,D.
+A1 Palm,G.
+A1 Poggio,T.
+YR 1978
+T1 Analysis of a cooperative stereo algorithm
+JF Biological Cybernetics
+VO 28
+SP 223
+OP 239
+IS 4
+
+RT Journal Article
+ID 15206174
+A1 Palm,G.
+A1 Poggio,T.
+YR 1978
+T1 Stochastic Identification Methods for Nonlinear Systems: An Extension of the Wiener Theory
+JF Siam Journal on Applied Mathematics
+VO 34
+SP 524
+IS 3
+
+RT Journal Article
+ID 3980215
+A1 Palm,G.
+A1 Poggio,T.
+YR 1977
+T1 The Volterra Representation and the Wiener Expansion: Validity and Pitfalls
+JF Siam Journal on Applied Mathematics
+VO 33
+SP 195
+IS 2
+
+RT Journal Article
+ID 3489103
+A1 Geiger,G.
+A1 Poggio,T.
+YR 1977
+T1 On head and body movements of flying flies
+JF Biological Cybernetics
+VO 25
+SP 177
+OP 180
+IS 3
+
+RT Journal Article
+ID 2062047
+A1 Marr,D.
+A1 Poggio,T.
+YR 1977
+T1 From understanding computation to understanding neural circuitry
+
+RT Journal Article
+ID 2596997
+A1 Poggio,T.
+A1 Torre,V.
+YR 1977
+T1 A new approach to synaptic inter-actions
+
+RT Journal Article
+ID 2646379
+A1 Poggio,T.
+A1 Torre,V.
+YR 1977
+T1 A Volterra representation for some neuron models
+JF Biological Cybernetics
+VO 27
+SP 113
+OP 124
+IS 2
+
+RT Journal Article
+ID 16138039
+A1 Palm,G.
+A1 Poggio,T.
+YR 1977
+T1 Wiener-like system identification in physiology
+JF Journal of Mathematical Biology
+VO 4
+SP 375
+OP 381
+IS 4
+
+RT Journal Article
+ID 55760702
+A1 Marr,D.
+A1 Palm,G.
+A1 Poggio,T.
+YR 1977
+T1 Analysis of a cooperative stereo algorithm
+
+RT Journal Article
+ID 52699469
+A1 Poggio,Tomaso
+YR 1977
+T1 The ``fly'' machine (A)
+JF Journal of The Optical Society of America
+VO 67
+SP 1399
+
+RT Journal Article
+ID 1979027
+A1 Marr,D.
+A1 Poggio,T.
+YR 1976
+T1 Cooperative Computation of Stereo Disparity
+JF Science
+VO 194
+SP 283
+OP 287
+IS 4262
+
+RT Journal Article
+ID 4071124
+A1 Reichardt,Werner
+A1 Poggio,Tomaso
+YR 1976
+T1 Visual control of orientation behaviour in the fly: Part I. A quantitative analysis
+JF Quarterly Reviews of Biophysics
+VO 9
+SP 311
+IS 03
+
+RT Journal Article
+ID 36656484
+A1 Poggio,Tomaso
+A1 Reichardt,Werner
+YR 1976
+T1 Visual control of orientation behaviour in the fly: Part II. Towards the underlying neural interactions
+JF Quarterly Reviews of Biophysics
+VO 9
+SP 377
+IS 03
+
+RT Journal Article
+ID 4071125
+A1 Reichardt,W.
+A1 Poggio,T.
+YR 1976
+T1 Visual control of orientation behavior in the fly
+
+RT Journal Article
+ID 15209156
+A1 Heimburger,Leo
+A1 Poggio,Tomaso
+A1 Reichardt,Werner
+YR 1976
+T1 A special class of nonlinear interactions in the visual system of the fly
+JF Biological Cybernetics
+VO 21
+SP 103
+OP 105
+IS 2
+
+RT Journal Article
+ID 4071137
+A1 Poggio,T.
+A1 Reichardt,W.
+YR 1976
+T1 Visual control of the olientafion behaviour of the fly: towards the underlying neural interactions
+
+RT Journal Article
+ID 3461655
+A1 Poggio,T.
+A1 Reichart,W.
+YR 1976
+T1 Nonlinear interactions underlying visual orientation behavior of the #y
+
+RT Journal Article
+ID 14807728
+A1 Wehrhahn,C.
+A1 Poggio,T.
+YR 1976
+T1 Real-time delayed tracking in flies
+JF Nature
+VO 261
+SP 43
+OP 44
+IS 5555
+
+RT Journal Article
+ID 2628989
+A1 Poggio,T.
+A1 Reichart,W.
+YR 1976
+T1 A special class of nonlinear visual interactions in the visual system of the #y
+JF Formal Aspects of Computing
+
+RT Journal Article
+ID 2020815
+A1 Poggio,T.
+YR 1975
+T1 On optimal nonlinear associative recall
+JF Biological Cybernetics
+VO 19
+SP 201
+OP 209
+IS 4
+
+RT Journal Article
+ID 15209104
+A1 Geiger,Gad
+A1 Poggio,Tomaso
+YR 1975
+T1 The orientation of flies towards visual patterns: On the search for the underlying functional interactions
+JF Biological Cybernetics
+VO 19
+SP 39
+OP 54
+IS 1
+
+RT Journal Article
+ID 48163909
+A1 Reichardt,Werner
+A1 Poggio,Tomaso
+YR 1975
+T1 A theory of the pattern induced flight orientation of the fly Musca domestica II
+JF Biological Cybernetics
+VO 18
+SP 69
+OP 80
+IS 2
+
+RT Journal Article
+ID 2602072
+A1 Poggio,T.
+A1 Torre,V.
+YR 1975
+T1 A nonlinear transfer function for some neuron models in: G
+
+RT Journal Article
+ID 14997813
+A1 Geiger,Gad
+A1 Poggio,Tomaso
+YR 1975
+T1 The Muller-Lyer Figure and the Fly
+JF Science
+VO 190
+SP 479
+OP 480
+IS 4213
+
+RT Journal Article
+ID 2119403
+A1 Poggio,T.
+A1 Reichardt,W.
+YR 1973
+T1 Considerations on Models of Movement Detection
+
+RT Journal Article
+ID 2639896
+A1 Poggio,T.
+A1 Reichardt,W.
+YR 1973
+T1 A theory of the pattern induced flight orientation of the fly Musca domestica
+
+RT Journal Article
+ID 34519276
+A1 Borsellino,A.
+A1 Poggio,T.
+YR 1973
+T1 Convolution and correlation algebras
+JF Biological Cybernetics
+VO 13
+SP 113
+OP 122
+IS 2
+
+RT Journal Article
+ID 34519264
+A1 Poggio,T.
+A1 Reichardt,W.
+YR 1973
+T1 A theory of the pattern induced flight orientation of the fly Musca domestica
+JF Biological Cybernetics
+VO 12
+SP 185
+OP 203
+IS 4
+
+RT Journal Article
+ID 34519283
+A1 Poggio,T.
+A1 Reichardt,W.
+YR 1973
+T1 Considerations on models of movement detection
+JF Biological Cybernetics
+VO 13
+SP 223
+OP 227
+IS 4
+
+RT Journal Article
+ID 12732362
+A1 Poggio,T.
+YR 1973
+T1 On holographic models of memory
+JF Biological Cybernetics
+VO 12
+SP 237
+OP 238
+IS 4
+
+RT Journal Article
+ID 34519197
+A1 Borsellino,A.
+A1 Poggio,T.
+YR 1972
+T1 Holographic aspects of temporal memory and optomotor responses
+JF Biological Cybernetics
+VO 10
+SP 58
+OP 60
+IS 1
+
+RT Book, Whole
+ID 2090401
+A1 Poggio,Tomaso
+A1 Smale,Steve
+T1 The Mathematics of Learning: Dealing with Data
+
+RT Journal Article
+ID 12773653
+A1 Giese,Martin,A.
+A1 Poggio,Tomaso
+T1 NEURAL MECHANISMS FOR THE RECOGNITION OF BIOLOGICAL MOVEMENTS
+
+RT Journal Article
+ID 6770
+A1 Rifkin,Ryan
+A1 Yeo,Gene
+A1 Poggio,Tomaso
+T1 Regularized Least-Squares Classification
+
+RT Journal Article
+ID 10821545
+A1 Freedman,David,J.
+A1 Riesenhuber,Maximilian
+A1 Poggio,Tomaso
+A1 Miller,Earl,K.
+T1 A Comparison of Primate Prefrontal and Inferior Temporal Cortices during Visual Categorization
+
+RT Book, Whole
+ID 48599976
+A1 Poggio,Tomaso
+T1 Image representations for visual learning
+
+RT Journal Article
+ID 11459047
+A1 Rifkin,Ryan
+A1 Mukherjee,Sayan
+A1 Tamayo,Pablo
+A1 Ramaswamy,Sridhar
+A1 Yeang,Chen-Hsiang
+A1 Angelo,Michael
+A1 Reich,Michael
+A1 Poggio,Tomaso
+A1 Lander,Eric,S.
+A1 Golub,Todd,R.
+A1 Mesirov,Jill,P.
+T1 An Analytical Method For Multi-class Molecular Cancer Classification
+
+RT Journal Article
+ID 12788159
+A1 Poggio,Tomaso
+A1 Rifkin,Ryan
+A1 Mukherjee,Sayan
+A1 Rakhlin,Alex
+T1 Bagging Regularizes
+
+RT Journal Article
+ID 5539091
+A1 Dahan,Ely
+A1 Lo,Andrew,W.
+A1 Poggio,Tomaso
+A1 Chan,Nicholas
+A1 Kim,Adlar
+T1 Securities Trading of Concepts (STOC)
+
+RT Journal Article
+ID 3788694
+A1 Rakhlin,Alexander
+A1 Mukherjee,Sayan
+A1 Poggio,Tomaso
+T1 STABILITY RESULTS IN LEARNING THEORY
+
+RT Journal Article
+ID 386256
+A1 Riesenhuber,Maximilian
+A1 Poggio,Tomaso
+T1 COMMON COMPUTATIONAL STRATEGIES IN MACHINE AND BIOLOGICAL VISION
+
+RT Conference Proceedings
+ID 11572678
+A1 Evgeniou,Theodoros
+A1 Perez-Breva,Luis
+A1 Pontil,Massimiliano
+A1 Poggio,Tomaso
+T1 Bounds on the Generalization Performance of Kernel Machines Ensembles
+
+RT Conference Proceedings
+ID 6170443
+A1 Chan,Nicholas
+A1 Dahan,Ely
+A1 Kim,Adlar
+A1 Poggio,Tomaso
+T1 Securities Trading of Concepts
+
+RT Journal Article
+ID 4566935
+A1 Chan,Nicholas,T.
+A1 Dahan,Ely
+A1 Lo,Andrew,W.
+A1 Poggio,Tomaso
+T1 Experimental Markets for Product Concepts
+
+RT Journal Article
+ID 12752770
+A1 Shimizu,Hiroaki
+A1 Poggio,Tomaso
+T1 Direction Estimation of Pedestrian from Images
+
+RT Conference Proceedings
+ID 6478680
+A1 Bouvrie,Jake
+A1 Rosasco,Lorenzo
+A1 Poggio,Tomaso
+T1 On Invariance in Hierarchical Models
+
+RT Journal Article
+ID 3402131
+A1 Kim,Adlar,J.
+A1 Shelton,Christian,R.
+A1 Poggio,Tomaso
+T1 Modeling Stock Order Flows and Learning Market-Making from Data
+
+RT Journal Article
+ID 10793258
+A1 Rifkin,Ryan
+A1 Bouvrie,Jake
+A1 Schutte,Ken
+A1 Chikkerur,Sharat
+A1 Kouh,Minjoon
+A1 Ezzat,Tony
+A1 Poggio,Tomaso
+T1 Phonetic Classification Using Hierarchical, Feed-forward, Spectro-temporal Patch-based Architectures
+
+RT Journal Article
+ID 4521352
+A1 Serre,Thomas
+A1 Oliva,Aude
+A1 Poggio,Tomaso
+T1 A feedforward theory of visual cortex accounts for human performance in rapid categorization
+
+RT Journal Article
+ID 10285086
+A1 Cadieu,Charles
+A1 Kouh,Minjoon
+A1 Riesenhuber,Maximilian
+A1 Poggio,Tomaso
+T1 Shape Representation in V4: Investigating Position-Specific Tuning for Boundary Conformation with the Standard Model of Object
+
+RT Journal Article
+ID 10130563
+A1 Ezzat,Tony
+A1 Poggio,Tomaso
+T1 Discriminative Word-Spotting Using Ordered Spectro-Temporal Patch Features
+
+RT Journal Article
+ID 2276388
+A1 Rakhlin,A.
+A1 Yeo,G.
+A1 Poggio,T.
+T1 Extra-label information: experiments with view-based classification
+
+RT Journal Article
+ID 10615136
+A1 Nakajima,Chikahito
+A1 Pontil,Massimiliano
+A1 Heisele,Bernd
+A1 Poggio,Tomaso
+T1 Full-body person recognition system
+
+RT Journal Article
+ID 4881041
+A1 Caponnetto,Andrea
+A1 Poggio,Tomaso
+A1 Smale,Steve
+T1 On a model of visual cortex: learning invariance and selectivity from image sequences
+
+RT Journal Article
+ID 12804143
+A1 Yokono,Jerry,Jun
+A1 Poggio,Tomaso
+T1 Evaluation of Sets of Oriented and Non-Oriented Receptive Fields as Local Descriptors
+
+RT Journal Article
+ID 12643501
+A1 Ramaswamy,Sridhar
+A1 Tamayo,Pablo
+A1 Rifkin,Ryan
+A1 Mukherjee,Sayan
+A1 Angelo,Michael
+A1 Ladd,Christine
+A1 Reich,Michael
+A1 Latulippe,Eva
+A1 Mesirov,Jill,P.
+A1 Poggio,Tomaso
+A1 Gerald,William
+A1 Loda,Massimo
+A1 Lander,Eric,S.
+A1 Golub,Todd,R.
+T1 Multi-class Cancer Diagnosis Using Tumor Gene Expression Signatures http://www-genome.wi.mit.edu/MPR/GCM.html
+
+RT Journal Article
+ID 11212809
+A1 Riesenhuber,Maximilian
+A1 Poggio,Tomaso
+A1 Cadieu,Charles
+A1 Kouh,Minjoon
+A1 Pasupathy,Anitha
+A1 Connor,Charles,E.
+A1 Schwartz,O.
+A1 Sejnowski,T.,J.
+A1 Dayan,P.
+A1 Yau,J.,M.
+A1 Fitzgerald,P.,J.
+A1 Hsiao,S.,S.
+A1 Habak,C.
+A1 Wilkinson,F.
+A1 Wilson,H.,R.
+T1 non-selective mechanisms Orientation tuning of curvature adaptation reveals both curvature-polarity-selective and
+
+RT Book, Whole
+ID 48860742
+A1 Edelman,S.
+A1 Weinshall,D.
+A1 Biilthoff,H.,H.
+A1 Poggio,T.
+T1 A Model of the Acquisition of Object Representations in Human 3D Visual Recognition
+
+RT Journal Article
+ID 11648663
+A1 Thompson,Kevin
+A1 Heisele,Bernd
+A1 Poggio,Tomaso
+T1 A Component-Based System for Car Detection
+
+RT Journal Article
+ID 11128685
+A1 Dahan,Ely
+A1 Kim,Adlar,J.
+A1 Lo,Andrew,W.
+A1 Poggio,Tomaso
+A1 Chan,Nicholas
+T1 (Running title: SECURITIES TRADING OF CONCEPTS (STOC))
+
+RT Journal Article
+ID 11425782
+A1 Chan,Nicholas
+A1 Dahan,Ely
+A1 Kim,Adlar
+A1 Lo,Andrew
+A1 Poggio,Tomaso
+T1 Securities Trading of Concepts (STOC) (Running title: SECURITIES TRADING OF CONCEPTS (STOC))
+
+RT Journal Article
+ID 10894478
+A1 Evgeniou,Theodoros
+A1 Poggio,Tomaso
+A1 Pontil,Massimiliano
+A1 Verri,Alessandro
+T1 Regularization and statistical learning theory for data analysis
+
+RT Journal Article
+ID 12548253
+A1 Knoblich,Ulf
+A1 Riesenhuber,Maximilian
+A1 Freedman,David,J.
+A1 Miller,Earl,K.
+A1 Poggio,Tomaso
+T1 VisualCategorization:HowtheMonkeyBrainDoes It
+
+RT Journal Article
+ID 4476947
+A1 Tan,Cheston
+A1 Serre,Thomas
+A1 Oliva,Aude
+A1 Poggio,Tomaso
+T1 Investigating Top-down Influences in Human Visual Processing
+
+RT Journal Article
+ID 5586108
+A1 Kim,Adlar,Jeewook
+A1 Das,Sanmay
+A1 Poggio,Tomaso
+A1 Lo,Andrew
+T1 Artificial Financial Markets with Adaptive Trading Agents
+
+RT Journal Article
+ID 10519373
+A1 Hutchinson,James,M.
+A1 Lo,Andrew,W.
+A1 Poggio,Tomaso
+T1 NATIONAL BUREAU OF ECONOMIC RESEARCH
+
+RT Journal Article
+ID 12148869
+A1 Hung,Chou
+A1 Kreiman,Gabriel
+A1 Quiroga,Rodrigo
+A1 Koch,Christof
+A1 Poggio,Tomaso
+T1 Write-in and read-out from inferior temporal cortex for object recognition - a.k.a. "The Matrix
+
+RT Journal Article
+ID 10870654
+A1 Ezzat,Tony
+A1 Poggio,T.
+A1 Blanz,V.
+T1 3D Videorealistic Facial Animation
+
+RT Journal Article
+ID 6109174
+A1 Das,Sanmay
+A1 Poggio,Tomaso
+A1 Lo,Andrew
+T1 Emergent Properties of Price Processes in Artificial Markets
+
+RT Journal Article
+ID 10569785
+A1 Mukherjee,Sayan
+A1 Niyogi,Partha
+A1 Poggio,Tomaso
+T1 Statistical Learning : Well-posedness is necessary and sufficient for consistency of Empirical Risk Minimization
+
+RT Journal Article
+ID 12629857
+A1 Rifkin,Ryan
+A1 Yeo,Gene
+A1 Poggio,Tomaso
+T1 Chapter 7 Regularized Least-Squares Classification
+
+RT Journal Article
+ID 4980160
+A1 Shkolnik,Alec
+A1 Hung,Chou
+A1 Kreiman,Gabriel
+A1 Poggio,Tomaso
+T1 Decoding Visual Stimuli from Recordings in Inferior Temporal Cortex
+
+RT Journal Article
+ID 12002405
+A1 Evgeniou,Theodoros
+A1 Pontil,Massimiliano
+A1 Poggio,Tomaso
+T1 DRAFT{D R AFT { DRAF T
+
+RT Journal Article
+ID 10522987
+A1 Hung,Chou,P.
+A1 Kreiman,Gabriel
+A1 Poggio,Tomaso
+A1 DiCarlo,James,J.
+T1 Supporting Online Material for Fast Readout of Object Identity from Macaque Inferior Temporal Cortex
+
+RT Journal Article
+ID 12842079
+A1 Wolf,Lior
+A1 Poggio,Tomaso
+T1 The Problem: Todesignasimplealgorithmforlearningappropriatecontextforstill-imageobjectdetection tasks. Ourapproachwilllearnacomputationally-inexpensivediscriminatingfunctiontodividepixelslikely to contain the target object from those which are not. Motivation: The role of context analysis by machines is similar to that it plays in humans: to allow us to process images faster and to get more accurate results. When a vision researcher speaks of context, he
+
+RT Journal Article
+ID 11540741
+A1 Wolf,L.
+A1 Bileschi,S.
+A1 Poggio,T.
+T1 Exploring the Gap Between Variable Selection and Dimensionality Reduction
+
+RT Journal Article
+ID 4506896
+A1 Bouvrie,Jake
+A1 Ezzat,Tony
+A1 Poggio,Tomaso
+T1 Inter-voice Audio Morphing
+
+RT Journal Article
+ID 10621055
+A1 Bouvrie,Jake
+A1 Ezzat,Tony
+A1 Poggio,Tomaso
+T1 Hierarchical Spectro-Temporal Models for Speech Recognition
+
+RT Journal Article
+ID 4512547
+A1 Zacharia,Giorgos
+A1 Poggio,Tomaso
+T1 Learning Seemingly Unrelated tasks with Regularized Manifolds
+
+RT Journal Article
+ID 12867647
+A1 Chikkerur,Sharat
+A1 Wolf,Lior
+A1 Poggio,Tomaso
+T1 A Real Time Computer Vision System based on the Standard Model
+
+RT Journal Article
+ID 7039553
+A1 Chikkerur,Sharat
+A1 Serre,Thomas
+A1 Poggio,Tomaso
+T1 Attentive processing improves object recognition
+
+RT Journal Article
+ID 4646608
+A1 Riesenhuber,Maximilian
+A1 Poggio,Tomaso
+T1 How Visual Cortex Recognizes Objects: The Tale of the Standard Model (short title: Computational Object Vision)
+
+RT Journal Article
+ID 5305142
+A1 Kouh,Minjoon
+A1 Cadieu,Charles
+A1 Poggio,Tomaso
+T1 Investigating Shape Representation in Intermediate Areas of Visual Cortex
+
+RT Journal Article
+ID 6376063
+A1 Kouh,Minjoon
+A1 Knoblich,Ulf
+A1 Poggio,Tomaso
+T1 Investigating Nonlinearities in the Standard Model of Object Recognition
+
+RT Journal Article
+ID 4506874
+A1 Yokono,Jerry,Jun
+A1 Poggio,Tomaso
+T1 Evaluation of Sets of Oriented Receptive Fields for Object Recognition
+
+RT Journal Article
+ID 13050296
+A1 Fahle,Manfred
+A1 Poggio,Tomaso
+T1 Adaptation of Inputs in the Somatosensory System
+
+RT Journal Article
+ID 6659343
+A1 Shimizu,Hiroaki
+A1 Poggio,Tomaso
+T1 Direction estimation of walking people using a single image
+
+RT Journal Article
+ID 11398636
+A1 Poggio,Tomaso
+A1 Mukherjee,Sayan
+T1 Lecture 20: Bayesian Interpretations
+
+RT Journal Article
+ID 3315795
+A1 Giese,Martin
+A1 Poggio,Tomaso
+T1 Learning Based Representation of Complex Move ment Patterns
+
+RT Journal Article
+ID 12883240
+A1 Kouh,Minjoon
+A1 Poggio,Tomaso
+T1 A General Mechanism for Tuning: Gain Control Circuits and Synapses Underlie Tuning of Cortical Neurons
+
+RT Journal Article
+ID 5256816
+A1 Knoblich,Ulf
+A1 Poggio,Tomaso
+T1 Biophysical models of neural computation: MAX and normalization
+
+RT Journal Article
+ID 10420285
+A1 Poggio,Tomaso
+T1 Adaptive Man-Machine Interfaces MIT9904-15
+
+RT Journal Article
+ID 12126536
+A1 Poggio,Tomaso
+T1 Lecture 2: The Learning Problem In Perspective
+
+RT Journal Article
+ID 12821571
+A1 Poggio,T.
+T1 Multiple Market-Maker Behavior in Artificial Financial Markets
+
+RT Book, Whole
+ID 48566916
+A1 Poggio,Tomaso
+T1 Neuroscience: New Insights for AI?

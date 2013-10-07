@@ -1,0 +1,8570 @@
+RT Conference Proceedings
+ID 56982875
+A1 Han,Jiawei
+A1 Sun,Yizhou
+A1 Yan,Xifeng
+A1 Yu,Philip,S.
+YR 2012
+T1 Mining Knowledge from Data: An Information Network Analysis Approach
+SP 1214
+OP 1217
+
+RT Conference Proceedings
+ID 56982854
+A1 Peng,Yu
+A1 Wong,Raymond,Chi-Wing
+A1 Ye,Liangliang
+A1 Yu,Philip,S.
+YR 2012
+T1 Attribute-Based Subsequence Matching and Mining
+SP 989
+OP 1000
+
+RT Conference Proceedings
+ID 56982846
+A1 Aggarwal,Charu,C.
+A1 Zhao,Yuchen
+A1 Yu,Philip,S.
+YR 2012
+T1 On Text Clustering with Side Information
+SP 894
+OP 904
+
+RT Journal Article
+ID 57020376
+A1 Cao,Longbing
+A1 Ou,Yuming
+A1 Yu,Philip,S.
+YR 2012
+T1 Coupled Behavior Analysis with Applications
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 24
+SP 1378
+OP 1392
+IS 8
+
+RT Journal Article
+ID 39330342
+A1 Lu,Eric,Hsueh-Chan
+A1 Tseng,Vincent,S.
+A1 Yu,Philip,S.
+YR 2011
+T1 Mining Cluster-Based Temporal Mobile Sequential Patterns in Location-Based Service Environments
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 23
+SP 914
+OP 927
+IS 6
+
+RT Journal Article
+ID 51194288
+A1 Cheng,Jiefeng
+A1 Yu,Jeffrey,Xu
+A1 Yu,Philip,S.
+YR 2011
+T1 Graph Pattern Matching: A Join/Semijoin Approach
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 23
+SP 1006
+OP 1021
+IS 7
+
+RT Journal Article
+ID 39334250
+A1 Chen,Lien-Chin
+A1 Yu,Philip,S.
+A1 Tseng,Vincent,S.
+YR 2011
+T1 WF-MSB: A weighted fuzzy-based biclustering method for gene expression data
+JF International Journal of Data Mining and Bioinformatics
+VO 5
+SP 89
+OP 109
+IS 1
+
+RT Conference Proceedings
+ID 39266123
+A1 Aggarwal,Charu,C.
+A1 Zhao,Yuchen
+A1 Yu,Philip,S.
+YR 2011
+T1 Outlier detection in graph streams
+SP 399
+OP 409
+
+RT Book, Whole
+ID 39261824
+A1 Qu,Qiang
+A1 Zhu,Feida
+A1 Yan,Xifeng
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+A1 Li,Hongyan
+YR 2011
+T1 Efficient Topological OLAP on Information Networks
+SP 389
+OP 403
+
+RT Conference Proceedings
+ID 56994608
+A1 Tai,Chih-Hua
+A1 Tseng,Peng-Jui
+A1 Yu,Philip,S.
+A1 Chen,Ming-Syan
+YR 2011
+T1 Identities Anonymization in Dynamic Social Networks
+SP 1224
+OP 1229
+
+RT Journal Article
+ID 14396775
+A1 Gedik,Bugra
+A1 Wu,Kun-Lung
+A1 Liu,Ling
+A1 Yu,Philip,S.
+YR 2011
+T1 Load Shedding in Mobile Systems with MobiQual
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 23
+SP 248
+OP 265
+IS 2
+
+RT Journal Article
+ID 14396828
+A1 Su,Ja-Hwung
+A1 Huang,Wei-Jyun
+A1 Yu,Philip,S.
+A1 Tseng,Vincent,S.
+YR 2011
+T1 Efficient Relevance Feedback for Content-Based Image Retrieval by Mining User Navigation Patterns
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 23
+SP 360
+OP 372
+IS 3
+
+RT Book, Whole
+ID 39261795
+A1 Shie,Bai-En
+A1 Hsiao,Hui-Fang
+A1 Tseng,Vincent,S.
+A1 Yu,Philip,S.
+YR 2011
+T1 Mining High Utility Mobile Sequential Patterns in Mobile Commerce Environments
+SP 224
+OP 238
+
+RT Conference Proceedings
+ID 56994554
+A1 Wu,Cheng,Wei
+A1 Fournier-Viger,Philippe
+A1 Yu,Philip,S.
+A1 Tseng,Vincent,S.
+YR 2011
+T1 Efficient Mining of a Concise and Lossless Representation of High Utility Itemsets
+SP 824
+OP 833
+
+RT Journal Article
+ID 56905549
+A1 Wong,Raymond,Chi-Wing
+A1 Fu,Ada,Wai-Chee
+A1 Wang,Ke
+A1 Yu,Philip,S.
+A1 Pei,Jian
+YR 2011
+T1 Can the Utility of Anonymized Data be Used for Privacy Breaches?
+JF ACM Transactions on Knowledge Discovery From Data
+SP 1
+OP 24
+
+RT Journal Article
+ID 39331098
+A1 Wu,Di
+A1 Ke,Yiping
+A1 Yu,Jeffrey,Xu
+A1 Yu,Philip,S.
+A1 Chen,Lei
+YR 2011
+T1 Leadership discovery when data correlatively evolve
+JF World Wide Web
+VO 14
+SP 1
+OP 25
+IS 1
+
+RT Journal Article
+ID 39325151
+A1 Andrade,Henrique
+A1 Gedik,Bugra
+A1 Wu,K.-L.
+A1 Yu,Philip,S.
+YR 2011
+T1 Processing high data rate streams in System S
+JF Journal of Parallel and Distributed Computing
+VO 71
+SP 145
+OP 156
+IS 2
+
+RT Conference Proceedings
+ID 56994572
+A1 Aggarwal,Charu,C.
+A1 Li,Yao
+A1 Yu,Philip,S.
+YR 2011
+T1 On the Hardness of Graph Anonymization
+SP 1002
+OP 1007
+
+RT Conference Proceedings
+ID 56994610
+A1 Wang,Guan
+A1 Xie,Sihong
+A1 Liu,Bing
+A1 Yu,Philip,S.
+YR 2011
+T1 Review Graph Based Online Store Review Spammer Detection
+SP 1242
+OP 1247
+
+RT Conference Proceedings
+ID 39266172
+A1 Song,Shaoxu
+A1 Chen,Lei
+A1 Yu,Philip,S.
+YR 2011
+T1 On data dependencies in dataspaces
+SP 470
+OP 481
+
+RT Conference Proceedings
+ID 51110391
+A1 Stahl,Frederic
+A1 Gaber,Mohamed,Medhat
+A1 Bramer,Max
+A1 Yu,Philip,S
+YR 2011
+T1 Distributed hoeffding trees for pocket data mining
+
+RT Journal Article
+ID 15232024
+A1 Zhu,Xingquan
+A1 Ding,Wei
+A1 Yu,Philip,S.
+A1 Zhang,Chengqi
+YR 2011
+T1 One-class learning and concept summarization for data streams
+JF Knowledge and Information Systems
+VO 28
+SP 523
+OP 553
+IS 3
+
+RT Book, Whole
+ID 39261793
+A1 Li,Xiao-Li
+A1 Tan,Aloysius
+A1 Yu,Philip,S.
+A1 Ng,See-Kiong
+YR 2011
+T1 ECODE: Event-Based Community Detection from Social Networks
+SP 22
+OP 37
+
+RT Conference Proceedings
+ID 56994568
+A1 Zhao,Yuchen
+A1 Kong,Xiangnan
+A1 Yu,Philip,S.
+YR 2011
+T1 Positive and Unlabeled Learning for Graph Classification
+SP 962
+OP 971
+
+RT Journal Article
+ID 56901150
+A1 Xu,Yi
+A1 Zhang,Zhongfei
+A1 Yu,Philips
+A1 Long,Bo
+YR 2011
+T1 Pattern change discovery between high dimensional data sets
+SP 1097
+OP 1106
+
+RT Conference Proceedings
+ID 56994551
+A1 Wang,Xuezhi
+A1 Tang,Jie
+A1 Cheng,Hong
+A1 Yu,Philip,S.
+YR 2011
+T1 ADANA: Active Name Disambiguation
+SP 794
+OP 803
+
+RT Journal Article
+ID 39219928
+A1 Shi,Xiaoxiao
+A1 Yu,Philip,S.
+YR 2011
+T1 Limitations of matrix completion via trace norm minimization
+JF Sigkdd Explorations
+VO 12
+SP 16
+OP 20
+IS 2
+
+RT Book, Whole
+ID 39257714
+A1 Yu,Philip,S.
+YR 2011
+T1 Information Networks Mining and Analysis
+SP 1
+OP 2
+
+RT Journal Article
+ID 13330668
+A1 Fung,Benjamin,C.,M.
+A1 Wang,Ke
+A1 Chen,Rui
+A1 Yu,Philip,S.
+YR 2010
+T1 Privacy-preserving data publishing: A survey of recent developments
+JF ACM Computing Surveys
+VO 42
+IS 4
+
+RT Journal Article
+ID 13308189
+A1 Su,Ja-Hwung
+A1 Yeh,Hsin-Ho
+A1 Yu,Philip,S.
+A1 Tseng,Vincent,S.
+YR 2010
+T1 Music Recommendation Using Content and Context Information Mining
+JF IEEE Expert / IEEE Intelligent Systems
+VO 25
+SP 16
+OP 26
+IS 1
+
+RT Conference Proceedings
+ID 13270103
+A1 Aggarwal,Charu,C.
+A1 Zhao,Yuchen
+A1 Yu,Philip,S.
+YR 2010
+T1 On Clustering Graph Streams
+SP 478
+OP 489
+
+RT Conference Proceedings
+ID 13260623
+A1 Shie,Bai-En
+A1 Tseng,Vincent,S.
+A1 Yu,Philip,S.
+YR 2010
+T1 Online mining of temporal maximal utility itemsets from data streams
+SP 1622
+OP 1626
+
+RT Conference Proceedings
+ID 39269872
+A1 Stahl,Frederic,T.
+A1 Gaber,Mohamed,Medhat
+A1 Bramer,Max
+A1 Yu,Philip,S.
+YR 2010
+T1 Pocket Data Mining: Towards Collaborative Data Mining in Mobile Computing Environments
+VO 2
+SP 323
+OP 330
+
+RT Conference Proceedings
+ID 13494036
+A1 Kong,Xiangnan
+A1 Yu,Philip,S.
+YR 2010
+T1 Semi-supervised feature selection for graph classification
+SP 793
+OP 802
+
+RT Conference Proceedings
+ID 13270227
+A1 Shi,Xiaoxiao
+A1 Liu,Qi
+A1 Fan,Wei
+A1 Yang,Qiang
+A1 Yu,Philip,S.
+YR 2010
+T1 Predictive Modeling with Heterogeneous Sources
+SP 814
+OP 825
+
+RT Journal Article
+ID 15231934
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2010
+T1 On clustering massive text and categorical data streams
+JF Knowledge and Information Systems
+VO 24
+SP 171
+OP 196
+IS 2
+
+RT Book, Whole
+ID 13300876
+A1 Tong,Hanghang
+A1 Papadimitriou,Spiros
+A1 Faloutsos,Christos
+A1 Yu,Philip,S.
+A1 Eliassi-Rad,Tina
+YR 2010
+T1 BASSET: Scalable Gateway Finder in Large Graphs
+SP 449
+OP 463
+
+RT Conference Proceedings
+ID 39226160
+A1 Liu,Bo
+A1 Xiao,Yanshan
+A1 Cao,Longbing
+A1 Yu,Philip,S.
+YR 2010
+T1 Orientation distance-based discriminative feature extraction for multi-class classification
+SP 909
+OP 918
+
+RT Conference Proceedings
+ID 39266346
+A1 Wong,Raymond,Chi-Wing
+A1 Fu,Ada,Wai-Chee
+A1 Wang,Ke
+A1 Xu,Yabo
+A1 Pei,Jian
+A1 Yu,Philip,S.
+YR 2010
+T1 Probabilistic Inference Protection on Anonymized Data
+SP 1127
+OP 1132
+
+RT Conference Proceedings
+ID 13494058
+A1 Tseng,Vincent,S.
+A1 Wu,Cheng-Wei
+A1 Shie,Bai-En
+A1 Yu,Philip,S.
+YR 2010
+T1 UPGrowth: an efficient algorithm for high utility itemset mining
+SP 253
+OP 262
+
+RT Book, Whole
+ID 6639105
+A1 Liu,Lu
+A1 Zhu,Feida
+A1 Chen,Chen
+A1 Yan,Xifeng
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+A1 Yang,Shiqiang
+YR 2010
+T1 Mining Diversity on Networks
+SP 384
+OP 398
+
+RT Journal Article
+ID 13286976
+A1 Vlachos,Michail
+A1 Kozat,Suleyman,S.
+A1 Yu,Philip,S.
+YR 2010
+T1 Optimal distance bounds for fast search on compressed time-series query logs
+JF ACM Transactions on The Web
+VO 4
+SP 1
+OP 28
+IS 2
+
+RT Journal Article
+ID 39336135
+A1 Yuan,Mingxuan
+A1 Chen,Lei
+A1 Yu,Philip,S.
+YR 2010
+T1 Personalized Privacy Protection in Social Networks
+JF Proceedings of The Vldb Endowment
+VO 4
+SP 141
+OP 150
+IS 2
+
+RT Journal Article
+ID 13989105
+A1 Aggarwal,Charu,C.
+A1 Li,Yao
+A1 Yu,Philip,S.
+A1 Jin,Ruoming
+YR 2010
+T1 On Dense Pattern Mining in Graph Streams
+JF Proceedings of The Vldb Endowment
+VO 3
+SP 975
+OP 984
+IS 1
+
+RT Journal Article
+ID 39325687
+A1 Long,Bo
+A1 Zhang,Zhongfei
+A1 Yu,Philip,S.
+YR 2010
+T1 A general framework for relation graph clustering
+JF Knowledge and Information Systems
+VO 24
+SP 393
+OP 413
+IS 3
+
+RT Book, Whole
+ID 13314917
+A1 Wu,Di
+A1 Ke,Yiping
+A1 Yu,Jeffrey,Xu
+A1 Yu,Philip,S.
+A1 Chen,Lei
+YR 2010
+T1 Detecting Leaders from Correlated Time Series
+SP 352
+OP 367
+
+RT Journal Article
+ID 13333219
+A1 Zhang,Chengqi
+A1 Yu,Philip,S.
+A1 Bell,David
+YR 2010
+T1 Introduction to the Domain-Driven Data Mining Special Section
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 22
+SP 753
+OP 754
+IS 6
+
+RT Conference Proceedings
+ID 13277563
+A1 Han,Jiawei
+A1 Sun,Yizhou
+A1 Yan,Xifeng
+A1 Yu,Philip,S.
+YR 2010
+T1 Mining knowledge from databases: an information network analysis approach
+SP 1251
+OP 1252
+
+RT Journal Article
+ID 15203974
+A1 Thoma,Marisa
+A1 Cheng,Hong
+A1 Gretton,Arthur
+A1 Han,Jiawei
+A1 Kriegel,Hans-Peter
+A1 Smola,Alexander,J.
+A1 Song,Le
+A1 Yu,Philip,S.
+A1 Yan,Xifeng
+A1 Borgwardt,Karsten,M.
+YR 2010
+T1 Discriminative frequent subgraph mining with optimality guarantees
+JF Statistical Analysis and Data Mining
+VO 3
+SP 302
+OP 318
+IS 5
+
+RT Journal Article
+ID 39233194
+A1 Cohen,Aaron,M.
+A1 Adams,Clive,E.
+A1 Davis,John,M.
+A1 Yu,Clement,T.
+A1 Yu,Philip,S.
+A1 Meng,Weiyi
+A1 Duggan,Lorna
+A1 McDonagh,Marian
+A1 Smalheiser,Neil,R.
+YR 2010
+T1 Evidence-based medicine, the essential role of systematic reviews, and the need for automated text mining tools
+SP 376
+OP 380
+
+RT Book, Whole
+ID 48261390
+A1 Chen,Chen
+A1 Zhu,Feida
+A1 Yan,Xifeng
+A1 Han,Jiawei
+A1 Yu,Philip
+A1 Ramakrishnan,Raghu
+YR 2010
+T1 InfoNetOLAP: OLAP and Mining of Information Networks
+
+RT Conference Proceedings
+ID 13494231
+A1 Tai,Chih-Hua
+A1 Yu,Philip,S.
+A1 Chen,Ming-Syan
+YR 2010
+T1 k-Support anonymity based on pseudo taxonomy for outsourcing of frequent itemset mining
+SP 473
+OP 482
+
+RT Conference Proceedings
+ID 13494079
+A1 Cao,Longbing
+A1 Ou,Yuming
+A1 Yu,Philip,S.
+A1 Wei,Gang
+YR 2010
+T1 Detecting abnormal coupled sequences and sequence changes in group-based manipulative trading behaviors
+SP 85
+OP 94
+
+RT Journal Article
+ID 13579169
+A1 Lucchese,Claudio
+A1 Vlachos,Michail
+A1 Rajan,Deepak
+A1 Yu,Philip,S.
+YR 2010
+T1 Rights protection of trajectory datasets with nearest-neighbor preservation
+JF The Vldb Journal
+VO 19
+SP 531
+OP 556
+IS 4
+
+RT Journal Article
+ID 13327496
+A1 Liu,Huan
+A1 Yu,Philip,S.
+A1 Agarwal,Nitin
+A1 Suel,Torsten
+YR 2010
+T1 Guest Editors' Introduction: Social Computing in the Blogosphere
+JF IEEE Internet Computing
+VO 14
+SP 12
+OP 14
+IS 2
+
+RT Conference Proceedings
+ID 39226085
+A1 Zhao,Yuchen
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2010
+T1 On wavelet decomposition of uncertain time series data sets
+SP 129
+OP 138
+
+RT Conference Proceedings
+ID 50986132
+A1 Stenneth,Leon
+A1 Yu,Phillip,S.
+A1 Wolfson,Ouri
+YR 2010
+T1 Mobile systems location privacy: “MobiPriv” a robust k anonymous system
+
+RT Journal Article
+ID 39338121
+A1 Aggarwal,Charu,C.
+A1 Zhao,Yuchen
+A1 Yu,Philip,S.
+YR 2010
+T1 A framework for clustering massive graph streams
+JF Statistical Analysis and Data Mining
+VO 3
+SP 399
+OP 416
+IS 6
+
+RT Conference Proceedings
+ID 13268448
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2010
+T1 On Classification of High-Cardinality Data Streams
+SP 802
+OP 813
+
+RT Book, Whole
+ID 39360156
+A1 Wang,Haixun
+A1 Yu,Philip,S.
+A1 Han,Jiawei
+YR 2010
+T1 Mining Concept-Drifting Data Streams
+
+RT Conference Proceedings
+ID 39266348
+A1 Shi,Xiaoxiao
+A1 Liu,Qi
+A1 Fan,Wei
+A1 Yu,Philip,S.
+A1 Zhu,Ruixin
+YR 2010
+T1 Transfer Learning on Heterogenous Feature Spaces via Spectral Transformation
+SP 1049
+OP 1054
+
+RT Conference Proceedings
+ID 39266608
+A1 Shi,Chuan
+A1 Cai,Yanan
+A1 Yu,Philip,S.
+A1 Yan,Zhenyu
+A1 Wu,Bin
+YR 2010
+T1 A Comparison of Objective Functions in Network Community Detection
+SP 1234
+OP 1241
+
+RT Conference Proceedings
+ID 39266381
+A1 Liu,Bo
+A1 Yin,Jie
+A1 Xiao,Yanshan
+A1 Cao,Longbing
+A1 Yu,Philip,S.
+YR 2010
+T1 Exploiting Local Data Uncertainty to Boost Global Outlier Detection
+SP 304
+OP 313
+
+RT Conference Proceedings
+ID 39266588
+A1 Liu,Bo
+A1 Xiao,Yanshan
+A1 Cao,Longbing
+A1 Yu,Philip,S.
+YR 2010
+T1 Vote-Based LELC for Positive and Unlabeled Textual Data Streams
+SP 951
+OP 958
+
+RT Conference Proceedings
+ID 39266382
+A1 Shi,Xiaoxiao
+A1 Fan,Wei
+A1 Yu,Philip,S.
+YR 2010
+T1 Efficient Semi-supervised Spectral Co-clustering with Constraints
+SP 1043
+OP 1048
+
+RT Conference Proceedings
+ID 39266318
+A1 Kong,Xiangnan
+A1 Yu,Philip,S.
+YR 2010
+T1 Multi-label Feature Selection for Graph Classification
+SP 274
+OP 283
+
+RT Conference Proceedings
+ID 39266360
+A1 Xie,Yan
+A1 Yu,Philip,S.
+YR 2010
+T1 Max-Clique: A Top-Down Graph-Based Approach to Frequent Pattern Mining
+SP 1139
+OP 1144
+
+RT Journal Article
+ID 51032049
+A1 Stenneth,Leon
+A1 Yu,Phillip,S.
+YR 2010
+T1 Global privacy and transportation mode homogeneity anonymization in location based mobile systems with continuous queries
+
+RT Journal Article
+ID 6085445
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2009
+T1 A Survey of Uncertain Data Algorithms and Applications
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 21
+SP 609
+OP 623
+IS 5
+
+RT Conference Proceedings
+ID 4729895
+A1 Thoma,Marisa
+A1 Cheng,Hong
+A1 Gretton,Arthur
+A1 Han,Jiawei
+A1 Kriegel,Hans-peter
+A1 Smola,Alexander,J.
+A1 Song,Le
+A1 Yu,Philip,S.
+A1 Yan,Xifeng
+A1 Borgwardt,Karsten,M.
+YR 2009
+T1 Near-optimal Supervised Feature Selection among Frequent Subgraphs
+SP 1075
+OP 1086
+
+RT Conference Proceedings
+ID 4715959
+A1 AndradeBuù,Henrique
+A1 Gedik,Bugra
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+YR 2009
+T1 Scale-Up Strategies for Processing High-Rate Data Streams in System S
+SP 1375
+OP 1378
+
+RT Conference Proceedings
+ID 4729943
+A1 Li,Xiao-Li
+A1 Yu,Philip,S.
+A1 Liu,Bing
+A1 Ng,See-Kiong
+YR 2009
+T1 Positive Unlabeled Learning for Data Stream Classification
+SP 257
+OP 268
+
+RT Journal Article
+ID 6082533
+A1 Du,Zhidian
+A1 Li,Lin
+A1 Chen,Chin-fu
+A1 Yu,Philip,S.
+A1 Wang,James,Z.
+YR 2009
+T1 G-SESAME: web tools for GO-term-based gene similarity analysis and knowledge discovery
+JF Nucleic Acids Research
+VO 37
+SP 345
+OP 349
+IS Web-Server
+
+RT Journal Article
+ID 5171669
+A1 Aggarwal,Charu,C.
+A1 Xie,Yan
+A1 Yu,Philip,S.
+YR 2009
+T1 GConnect: A Connectivity Index for Massive Disk-resident Graphs
+JF Proceedings of The Vldb Endowment
+VO 2
+SP 862
+OP 873
+IS 1
+
+RT Journal Article
+ID 5007869
+A1 Wong,Raymond,Chi-wing
+A1 Özsu,M.,Tamer
+A1 Yu,Philip,S.
+A1 Fu,Ada,Wai-chee
+A1 Liu,Lian
+YR 2009
+T1 Efficient Method for Maximizing Bichromatic Reverse Nearest Neighbor
+JF Proceedings of The Vldb Endowment
+VO 2
+SP 1126
+OP 1137
+IS 1
+
+RT Conference Proceedings
+ID 5769640
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2009
+T1 Online Auctions: There Can Be Only One
+SP 176
+OP 181
+
+RT Conference Proceedings
+ID 5653673
+A1 Bamba,Bhuvan
+A1 Liu,Ling
+A1 Iyengar,Arun
+A1 Yu,Philip,S.
+YR 2009
+T1 Distributed Processing of Spatial Alarms: A Safe Region-Based Approach
+SP 207
+OP 214
+
+RT Conference Proceedings
+ID 4706530
+A1 Yeh,Mi-yen
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+A1 Chen,Ming-syan
+YR 2009
+T1 PROUD: a probabilistic approach to processing similarity queries over uncertain data streams
+SP 684
+OP 695
+
+RT Conference Proceedings
+ID 4715903
+A1 Han,Shuguo
+A1 Ng,Wee,Keong
+A1 Yu,Philip,S.
+YR 2009
+T1 Privacy-Preserving Singular Value Decomposition
+SP 1267
+OP 1270
+
+RT Journal Article
+ID 6081574
+A1 Chen,Chen
+A1 Yan,Xifeng
+A1 Zhu,Feida
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2009
+T1 Graph OLAP: a multi-dimensional framework for graph data analysis
+JF Knowledge and Information Systems
+VO 21
+SP 41
+OP 63
+IS 1
+
+RT Conference Proceedings
+ID 4715860
+A1 Thomas,Dina
+A1 Bordawekar,Rajesh
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2009
+T1 On Efficient Query Processing of Stream Counts on the Cell Processor
+SP 748
+OP 759
+
+RT Journal Article
+ID 4418495
+A1 Vlachos,Michail
+A1 Anagnostopoulos,Aris
+A1 Verscheure,Olivier
+A1 Yu,Philip,S.
+YR 2009
+T1 Online pairing of VoIP conversations
+JF The Vldb Journal
+VO 18
+SP 77
+OP 98
+IS 1
+
+RT Journal Article
+ID 6088726
+A1 Wan,Li
+A1 Ng,Wee,Keong
+A1 Dang,Xuan,Hong
+A1 Yu,Philip,S.
+A1 Zhang,Kuan
+YR 2009
+T1 Density-based clustering of data streams at multiple resolutions
+JF ACM Transactions on Knowledge Discovery From Data
+VO 3
+SP 1
+OP 28
+IS 3
+
+RT Journal Article
+ID 6081564
+A1 Luo,Gang
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+YR 2009
+T1 Answering linear optimization queries with an approximate stream index
+JF Knowledge and Information Systems
+VO 20
+SP 95
+OP 121
+IS 1
+
+RT Journal Article
+ID 6101023
+A1 Yu,Philip,S.
+A1 Chi,Yun
+YR 2009
+T1 Association Rule Mining on Streams
+
+RT Journal Article
+ID 6079054
+A1 Hristidis,Vagelis
+A1 Valdivia,Oscar
+A1 Vlachos,Michail
+A1 Yu,Philip,S.
+YR 2009
+T1 Information discovery across multiple streams
+JF Information Sciences
+VO 179
+SP 3268
+OP 3285
+IS 19
+
+RT Conference Proceedings
+ID 5480228
+A1 Xing,Zhengzheng
+A1 Pei,Jian
+A1 Yu,Philip,S.
+YR 2009
+T1 Early Prediction on Time Series: A Nearest Neighbor Approach
+SP 1297
+OP 1302
+
+RT Conference Proceedings
+ID 4729932
+A1 Vlachos,Michail
+A1 Kozat,Suleyman,S.
+A1 Yu,Philip,S.
+YR 2009
+T1 Optimal Distance Bounds on Time-Series Data
+SP 109
+OP 120
+
+RT Conference Proceedings
+ID 4706461
+A1 Han,Jiawei
+A1 Yan,Xifeng
+A1 Yu,Philip,S.
+YR 2009
+T1 Scalable OLAP and mining of information networks
+SP 1159
+OP 1159
+
+RT Conference Proceedings
+ID 6282157
+A1 Agarwal,Nitin
+A1 Liu,Huan
+A1 Subramanya,Shankara,B.
+A1 Salerno,John,J.
+A1 Yu,Philip,S.
+YR 2009
+T1 Connecting Sparsely Distributed Similar Bloggers
+SP 11
+OP 20
+
+RT Conference Proceedings
+ID 6559073
+A1 Gao,Wenxuan
+A1 Grossman,Robert,L.
+A1 Yu,Philip,S.
+A1 Gu,Yunhong
+YR 2009
+T1 Why Naive Ensembles Do Not Work in Cloud Computing
+SP 282
+OP 289
+
+RT Journal Article
+ID 4779562
+A1 Liu,Huan
+A1 Salerno,John,J.
+A1 Young,Michael
+A1 Agrawal,Rakesh
+A1 Yu,Philip,S.
+YR 2009
+T1 Introduction to special issue on social computing, behavioral modeling, and prediction
+JF ACM Transactions on Knowledge Discovery From Data
+VO 3
+SP 1
+OP 3
+IS 2
+
+RT Journal Article
+ID 6096757
+A1 Kozat,Suleyman,S.
+A1 Vlachos,Michail
+A1 Lucchese,Claudio
+A1 Herle,Helga,Van
+A1 Yu,Philip,S.
+YR 2009
+T1 Embedding and Retrieving Private Metadata in Electrocardiograms
+JF Journal of Medical Systems
+VO 33
+SP 241
+OP 259
+IS 4
+
+RT Conference Proceedings
+ID 13278672
+A1 Saygin,Yücel
+A1 Yu,Jeffrey,Xu
+A1 Kargupta,Hillol
+A1 Wang,Wei
+A1 Ranka,Sanjay
+A1 Yu,Philip,S.
+A1 Wu,Xindong
+YR 2009
+T1 ICDM Workshops 2009, IEEE International Conference on Data Mining Workshops, Miami, Florida, USA, 6 December 2009
+
+RT Journal Article
+ID 6070239
+A1 Wong,Raymond,Chi-wing
+A1 Fu,Ada,Wai-chee
+A1 Wang,Ke
+A1 Xu,Yabo
+A1 Pei,Jian
+A1 Yu,Philip,S.
+YR 2009
+T1 Anonymization with Worst-Case Distribution-Based Background Knowledge
+JF Computing Research Repository
+VO abs/0909.1
+
+RT Conference Proceedings
+ID 13278670
+A1 Wang,Wei
+A1 Kargupta,Hillol
+A1 Ranka,Sanjay
+A1 Yu,Philip,S.
+A1 Wu,Xindong
+YR 2009
+T1 ICDM 2009, The Ninth IEEE International Conference on Data Mining, Miami, Florida, USA, 6-9 December 2009
+
+RT Journal Article
+ID 4758475
+A1 Wong,Raymond,Chi-wing
+A1 Fu,Ada,Wai-chee
+A1 Wang,Ke
+A1 Xu,Yabo
+A1 Yu,Philip,S.
+YR 2009
+T1 Can the Utility of Anonymized Data be used for Privacy Breaches?
+JF Computing Research Repository
+VO abs/0905.1
+
+RT Journal Article
+ID 4772434
+A1 Bordawekar,Rajesh,R.
+A1 Yu,Philip,S.
+YR 2009
+T1 CellJoin: a parallel stream join operator for the cell processor
+JF The Vldb Journal
+VO 18
+SP 501
+OP 519
+IS 2
+
+RT Conference Proceedings
+ID 6559154
+A1 Ying,Jia-ching
+A1 Tseng,Vincent,S.
+A1 Yu,Philip,S.
+YR 2009
+T1 Efficient Incremental Mining of Qualified Web Traversal Patterns without Scanning Original Databases
+SP 338
+OP 343
+
+RT Conference Proceedings
+ID 4317245
+A1 Gedik,Bugra
+A1 Andrade,Henrique
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+A1 Doo,Myungcheol
+YR 2008
+T1 SPADE: the system s declarative stream processing engine
+SP 1123
+OP 1134
+
+RT Conference Proceedings
+ID 4343125
+A1 Agarwal,Nitin
+A1 Liu,Huan
+A1 Tang,Lei
+A1 Yu,Philip,S.
+YR 2008
+T1 Identifying the influential bloggers in a community
+SP 207
+OP 218
+
+RT Conference Proceedings
+ID 4343130
+A1 Ding,Xiaowen
+A1 Liu,Bing
+A1 Yu,Philip,S.
+YR 2008
+T1 A holistic lexicon-based approach to opinion mining
+SP 231
+OP 240
+
+RT Conference Proceedings
+ID 4272313
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2008
+T1 A Framework for Clustering Uncertain Data Streams
+SP 150
+OP 159
+
+RT Conference Proceedings
+ID 4317341
+A1 Yan,Xifeng
+A1 Cheng,Hong
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2008
+T1 Mining significant graph patterns by leap search
+SP 433
+OP 444
+
+RT Conference Proceedings
+ID 4272324
+A1 Cheng,Hong
+A1 Yan,Xifeng
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2008
+T1 Direct Discriminative Pattern Mining for Effective Classification
+SP 169
+OP 178
+
+RT Conference Proceedings
+ID 4296594
+A1 Xu,Yabo
+A1 Wang,Ke
+A1 Fu,Ada,Wai-chee
+A1 Yu,Philip,S.
+YR 2008
+T1 Anonymizing transaction databases for publication
+SP 767
+OP 775
+
+RT Journal Article
+ID 4414514
+A1 Yin,Xiaoxin
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2008
+T1 Truth Discovery with Multiple Conflicting Information Providers on the Web
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 20
+SP 796
+OP 808
+IS 6
+
+RT Journal Article
+ID 4426511
+A1 Sun,Jimeng
+A1 Tao,Dacheng
+A1 Papadimitriou,Spiros
+A1 Yu,Philip,S.
+A1 Faloutsos,Christos
+YR 2008
+T1 Incremental tensor analysis: Theory and applications
+JF ACM Transactions on Knowledge Discovery From Data
+VO 2
+SP 1
+OP 37
+IS 3
+
+RT Conference Proceedings
+ID 4313750
+A1 Tong,Hanghang
+A1 Papadimitriou,Spiros
+A1 Yu,Philip,S.
+A1 Faloutsos,Christos
+YR 2008
+T1 Proximity Tracking on Time-Evolving Bipartite Graphs
+SP 704
+OP 715
+
+RT Conference Proceedings
+ID 4272201
+A1 Chen,Shixi
+A1 Wang,Haixun
+A1 Zhou,Shuigeng
+A1 Yu,Philip,S.
+YR 2008
+T1 Stop Chasing Trends: Discovering High Order Models in Evolving Data
+SP 923
+OP 932
+
+RT Conference Proceedings
+ID 4313642
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2008
+T1 Outlier Detection with Uncertain Data
+SP 483
+OP 493
+
+RT Conference Proceedings
+ID 4272363
+A1 Xie,Junyi
+A1 Yang,Jun
+A1 Chen,Yuguo
+A1 Wang,Haixun
+A1 Yu,Philip,S.
+YR 2008
+T1 A Sampling-Based Approach to Information Recovery
+SP 476
+OP 485
+
+RT Conference Proceedings
+ID 4296614
+A1 Fan,Wei
+A1 Zhang,Kun
+A1 Cheng,Hong
+A1 Gao,Jing
+A1 Yan,Xifeng
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+A1 Verscheure,Olivier
+YR 2008
+T1 Direct mining of discriminative and essential frequent patterns via model-based search tree
+SP 230
+OP 238
+
+RT Conference Proceedings
+ID 4313629
+A1 Long,Bo
+A1 Yu,Philip,S.
+YR 2008
+T1 A General Model for Multiple View Unsupervised Learning
+SP 822
+OP 833
+
+RT Conference Proceedings
+ID 4272179
+A1 Cheng,Jiefeng
+A1 Yu,Jeffrey,Xu
+A1 Ding,Bolin
+A1 Yu,Philip,S.
+A1 Wang,Haixun
+YR 2008
+T1 Fast Graph Pattern Matching
+SP 913
+OP 922
+
+RT Book, Whole
+ID 4306556
+A1 Ren,Jiangtao
+A1 Qiu,Zhengyuan
+A1 Fan,Wei
+A1 Cheng,Hong
+A1 Yu,Philip,S.
+YR 2008
+T1 Forward Semi-supervised Feature Selection
+SP 970
+OP 976
+
+RT Conference Proceedings
+ID 4715666
+A1 Gu,Xiaohui
+A1 Papadimitriou,Spiros
+A1 Yu,Philip,S.
+A1 Chang,Shu-ping
+YR 2008
+T1 Toward Predictive Failure Management for Distributed Stream Processing Systems
+SP 825
+OP 832
+
+RT Conference Proceedings
+ID 4117713
+A1 Cheng,Jiefeng
+A1 Yu,Jeffrey,Xu
+A1 Lin,Xuemin
+A1 Wang,Haixun
+A1 Yu,Philip,S.
+YR 2008
+T1 Fast computing reachability labelings for large graphs with high compression rate
+SP 193
+OP 204
+
+RT Conference Proceedings
+ID 4716083
+A1 Chen,Chen
+A1 Yan,Xifeng
+A1 Zhu,Feida
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2008
+T1 Graph OLAP: Towards Online Analytical Processing on Graphs
+SP 103
+OP 112
+
+RT Conference Proceedings
+ID 4313632
+A1 Xing,Zhengzheng
+A1 Pei,Jian
+A1 Dong,Guozhu
+A1 Yu,Philip,S.
+YR 2008
+T1 Mining Sequence Classifiers for Early Prediction
+SP 644
+OP 655
+
+RT Conference Proceedings
+ID 4242973
+A1 Wang,Haixun
+A1 Yin,Jian
+A1 Perng,Chang-shing
+A1 Yu,Philip,S.
+YR 2008
+T1 Dual encryption for query integrity assurance
+SP 863
+OP 872
+
+RT Conference Proceedings
+ID 4296545
+A1 Tong,Hanghang
+A1 Papadimitriou,Spiros
+A1 Sun,Jimeng
+A1 Yu,Philip,S.
+A1 Faloutsos,Christos
+YR 2008
+T1 Colibri: fast mining of large static and dynamic graphs
+SP 686
+OP 694
+
+RT Book, Whole
+ID 4308582
+A1 Papadimitriou,Spiros
+A1 Sun,Jimeng
+A1 Faloutsos,Christos
+A1 Yu,Philip,S.
+YR 2008
+T1 Hierarchical, Parameter-Free Community Discovery
+SP 170
+OP 187
+
+RT Conference Proceedings
+ID 4716086
+A1 Xu,Tianbing
+A1 Yu,Philip,S.
+A1 Long,Bo
+YR 2008
+T1 Evolutionary Clustering by Hierarchical Dirichlet Process with Hidden Markov State
+SP 658
+OP 667
+
+RT Journal Article
+ID 4764033
+A1 Gao,Jing
+A1 Ding,Bolin
+A1 Fan,Wei
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2008
+T1 Classifying Data Streams with Skewed Class Distributions and Concept Drifts
+JF IEEE Internet Computing
+VO 12
+SP 37
+OP 49
+IS 6
+
+RT Conference Proceedings
+ID 4313740
+A1 Ren,Jiangtao
+A1 Shi,Xiaoxiao
+A1 Fan,Wei
+A1 Yu,Philip,S.
+YR 2008
+T1 Type-Independent Correction of Sample Selection Bias via Structural Discovery and Re-balancing
+SP 565
+OP 576
+
+RT Book, Whole
+ID 4446372
+A1 Cheng,Hong
+A1 Yu,Philip,S.
+A1 Han,Jiawei
+YR 2008
+T1 Approximate Frequent Itemset Mining In the Presence of Random Noise
+
+RT Conference Proceedings
+ID 4716091
+A1 Xu,Tianbing
+A1 Yu,Philip,S.
+A1 Long,Bo
+YR 2008
+T1 Dirichlet Process Based Evolutionary Clustering
+SP 648
+OP 657
+
+RT Conference Proceedings
+ID 4272187
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2008
+T1 On High Dimensional Indexing of Uncertain Data
+SP 1460
+OP 1461
+
+RT Conference Proceedings
+ID 4242994
+A1 Luo,Gang
+A1 Yu,Philip,S.
+YR 2008
+T1 Content-based filtering for efficient online materialized view maintenance
+SP 163
+OP 172
+
+RT Conference Proceedings
+ID 4272361
+A1 Gu,Xiaohui
+A1 Papadimitrioul,Spiros
+A1 Yu,Philip,S.
+A1 Chang,Shu-ping
+YR 2008
+T1 Online Failure Forecast for Fault-Tolerant Data Stream Processing
+SP 1388
+OP 1390
+
+RT Journal Article
+ID 4375457
+A1 Vlachos,Michail
+A1 Wu,Kun-lung
+A1 Chen,Shyh-kwei
+A1 Yu,Philip,S.
+YR 2008
+T1 Correlating burst events on streaming stock market data
+JF Data Mining and Knowledge Discovery
+VO 16
+SP 109
+OP 133
+IS 1
+
+RT Book, Whole
+ID 4711153
+A1 Bamba,Bhuvan
+A1 Liu,Ling
+A1 Yu,Philip,S.
+A1 Zhang,Gong
+A1 Doo,Myungcheol
+YR 2008
+T1 Scalable Processing of Spatial Alarms
+SP 232
+OP 244
+
+RT Journal Article
+ID 4416442
+A1 Hildrum,Kirsten
+A1 Douglis,Fred
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+A1 Fleischer,Lisa
+A1 Katta,Akshay
+YR 2008
+T1 Storage optimization for large-scale distributed stream-processing systems
+JF ACM Transactions on Storage
+VO 3
+SP 1
+OP 28
+IS 4
+
+RT Journal Article
+ID 4416613
+A1 Gu,Xiaohui
+A1 Wen,Zhen
+A1 Yu,Philip,S.
+A1 Shae,Zon-yin
+YR 2008
+T1 peerTalk: A Peer-to-Peer Multiparty Voice-over-IP System
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 19
+SP 515
+OP 528
+IS 4
+
+RT Conference Proceedings
+ID 4323882
+A1 Rajan,Deepak
+A1 Yu,Philip,S.
+YR 2008
+T1 Temperature-Aware Scheduling: When is System-Throttling Good Enough?
+SP 397
+OP 404
+
+RT Conference Proceedings
+ID 4230095
+A1 Long,Bo
+A1 Yu,Philip,S.
+A1 Xu,Tianbing
+YR 2008
+T1 Clustering on Complex Graphs
+SP 659
+OP 664
+
+RT Conference Proceedings
+ID 4272237
+A1 Gedik,Bugra
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+YR 2008
+T1 Efficient Construction of Compact Shedding Filters for Data Stream Processing
+SP 396
+OP 405
+
+RT Conference Proceedings
+ID 4716114
+A1 Liu,Bo
+A1 Cao,Longbing
+A1 Yu,Philip,S.
+A1 Zhang,Chengqi
+YR 2008
+T1 Multi-Space-Mapped SVMs for Multi-class Classification
+SP 911
+OP 916
+
+RT Conference Proceedings
+ID 4720262
+A1 Yang,Stephen,J.,H.
+A1 Zhang,Jia
+A1 Huang,Angus,F.,M.
+A1 Tsai,Jeffrey,J.,P.
+A1 Yu,Philip,S.
+YR 2008
+T1 A Context-Driven Content Adaptation Planner for Improving Mobile Internet Accessibility
+SP 88
+OP 95
+
+RT Conference Proceedings
+ID 4272213
+A1 Gedik,Bugra
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+A1 Liu,Ling
+YR 2008
+T1 MobiQual: QoS-aware Load Shedding in Mobile CQ Systems
+SP 1121
+OP 1130
+
+RT Journal Article
+ID 6093957
+A1 Tong,Hanghang
+A1 Papadimitriou,Spiros
+A1 Yu,Philip,S.
+A1 Faloutsos,Christos
+YR 2008
+T1 Fast Monitoring Proximity and Centrality on Time-evolving Bipartite Graphs
+JF Statistical Analysis and Data Mining
+VO 1
+SP 142
+OP 156
+IS 3
+
+RT Conference Proceedings
+ID 4716092
+A1 Li,Xin
+A1 Liu,Bing
+A1 Yu,Philip,S.
+YR 2008
+T1 Time Sensitive Ranking with Application to Publication Search
+SP 893
+OP 898
+
+RT Conference Proceedings
+ID 4242925
+A1 Luo,Gang
+A1 Yan,Rong
+A1 Yu,Philip,S.
+YR 2008
+T1 Real-time new event detection for video streams
+SP 379
+OP 388
+
+RT Journal Article
+ID 4415630
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2008
+T1 On static and dynamic methods for condensation-based privacy-preserving data mining
+JF ACM Transactions on Database Systems
+VO 33
+SP 1
+OP 39
+IS 1
+
+RT Conference Proceedings
+ID 4272218
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2008
+T1 LOCUST: An Online Analytical Processing Framework for High Dimensional Classification of Data Streams
+SP 426
+OP 435
+
+RT Journal Article
+ID 4375461
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2008
+T1 A framework for condensation-based anonymization of string data
+JF Data Mining and Knowledge Discovery
+VO 16
+SP 251
+OP 275
+IS 3
+
+RT Journal Article
+ID 4931765
+A1 Borgwardt,Karsten
+A1 Yan,Xifeng
+A1 Cheng,Hong
+A1 Gretton,Arthur
+A1 Song,Le
+A1 Smola,Alex
+A1 Han,Jiawei
+A1 Yu,Philip
+A1 Kriegel,Hans-Peter
+YR 2008
+T1 Combining near-optimal feature selection with gSpan
+
+RT Journal Article
+ID 4439921
+A1 Yeh,Mi-yen
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+A1 Chen,Ming-syan
+YR 2008
+T1 LeeWave: level-wise distribution of wavelet coefficients for processing kNN queries over distributed streams
+JF Proceedings of The Vldb Endowment
+VO 1
+SP 586
+OP 597
+IS 1
+
+RT Conference Proceedings
+ID 4272150
+A1 Lucchese,Claudio
+A1 Vlachos,Michail
+A1 Rajan,Deepak
+A1 Yu,Philip,S.
+YR 2008
+T1 Rights Protection of Trajectory Datasets
+SP 1349
+OP 1351
+
+RT Conference Proceedings
+ID 4254773
+A1 Vlachos,Michail
+A1 Lucchese,Claudio
+A1 Rajan,Deepak
+A1 Yu,Philip,S.
+YR 2008
+T1 Ownership protection of shape datasets with geodesic distance preservation
+SP 276
+OP 286
+
+RT Journal Article
+ID 4418561
+A1 Hsieh,Ming-jyh
+A1 Teng,Wei-guang
+A1 Chen,Ming-syan
+A1 Yu,Philip,S.
+YR 2008
+T1 DAWN: an efficient framework of DCT for data with error estimation
+JF The Vldb Journal
+VO 17
+SP 683
+OP 702
+IS 4
+
+RT Conference Proceedings
+ID 4313753
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2008
+T1 On Indexing High Demensional Data with Uncertainty
+SP 621
+OP 631
+
+RT Journal Article
+ID 4400527
+A1 Wu,Xindong
+A1 Kumar,Vipin
+A1 Quinlan,J.,Ross
+A1 Ghosh,Joydeep
+A1 Yang,Qiang
+A1 Motoda,Hiroshi
+A1 McLachlan,Geoffrey,J.
+A1 Ng,Angus
+A1 Liu,Bing
+A1 Yu,Philip,S.
+A1 Zhou,Zhi-Hua
+A1 Steinbach,Michael
+A1 Hand,David,J.
+A1 Steinberg,Dan
+YR 2007
+T1 Top 10 algorithms in data mining
+JF Knowledge and Information Systems
+VO 14
+SP 1
+OP 37
+IS 1
+
+RT Conference Proceedings
+ID 2472679
+A1 He,Hao
+A1 Wang,Haixun
+A1 Yang,Jun
+A1 Yu,Philip,S.
+YR 2007
+T1 BLINKS: ranked keyword searches on graphs
+SP 305
+OP 316
+
+RT Journal Article
+ID 2491281
+A1 Wang,James,Zijun
+A1 Du,Zhidian
+A1 Payattakool,Rapeeporn
+A1 Yu,Philip,S.
+A1 Chen,Chin-fu
+YR 2007
+T1 A new method to measure the semantic similarity of GO terms
+JF Bioinformatics/computer Applications in The Biosciences
+VO 23
+SP 1274
+OP 1281
+IS 10
+
+RT Conference Proceedings
+ID 4117739
+A1 Sun,Jimeng
+A1 Faloutsos,Christos
+A1 Papadimitriou,Spiros
+A1 Yu,Philip,S.
+YR 2007
+T1 GraphScope: parameter-free mining of large time-evolving graphs
+SP 687
+OP 696
+
+RT Conference Proceedings
+ID 4210110
+A1 Gedik,Bugra
+A1 Bordawekar,Rajesh
+A1 Yu,Philip,S.
+YR 2007
+T1 CellSort: High Performance Sorting on the Cell Processor
+SP 1286
+OP 1207
+
+RT Journal Article
+ID 4416577
+A1 Liu,Ling
+A1 Yu,Philip,S.
+YR 2007
+T1 ASAP: An Adaptive Sampling Approach to Data Collection in Sensor Networks
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 18
+SP 1766
+OP 1783
+IS 12
+
+RT Journal Article
+ID 2517070
+A1 Fung,Benjamin,C.,M.
+A1 Wang,Ke
+A1 Yu,Philip,S.
+YR 2007
+T1 Anonymizing Classification Data for Privacy Preservation
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 19
+SP 711
+OP 725
+IS 5
+
+RT Conference Proceedings
+ID 4296440
+A1 Yin,Xiaoxin
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2007
+T1 Truth discovery with multiple conflicting information providers on the web
+SP 1048
+OP 1052
+
+RT Conference Proceedings
+ID 4210160
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+A1 Gedik,Bugra
+A1 Hildrum,Kirsten
+A1 Aggarwal,Charu,C.
+A1 Bouillet,Eric
+A1 Fan,Wei
+A1 George,David
+A1 Gu,Xiaohui
+A1 Luo,Gang
+A1 Wang,Haixun
+YR 2007
+T1 Challenges and Experience in Prototyping a Multi-Modal Stream Analytic and Monitoring Application on System S
+SP 1185
+OP 1196
+
+RT Journal Article
+ID 3171461
+A1 Wang,Ke
+A1 Fung,Benjamin,C.,M.
+A1 Yu,Philip,S.
+YR 2007
+T1 Handicapping attacker's confidence: an alternative to k -anonymization
+JF Knowledge and Information Systems
+VO 11
+SP 345
+OP 368
+IS 3
+
+RT Conference Proceedings
+ID 4322796
+A1 Zhao,Peixiang
+A1 Yu,Jeffrey,Xu
+A1 Yu,Philip,S.
+YR 2007
+T1 Graph Indexing: Tree + Delta >= Graph
+SP 938
+OP 949
+
+RT Conference Proceedings
+ID 4291722
+A1 Yan,Xifeng
+A1 Mehan,Michael,R.
+A1 Huang,Yu
+A1 Waterman,Michael,S.
+A1 Yu,Philip,S.
+A1 Zhou,Xianghong,Jasmine
+YR 2007
+T1 A graph-based approach to systematically reconstruct human transcriptional regulatory modules
+VO 23
+SP 577
+OP 586
+IS 13
+
+RT Conference Proceedings
+ID 2437033
+A1 Jiang,Haoliang
+A1 Wang,Haixun
+A1 Yu,Philip,S.
+A1 Zhou,Shuigeng
+YR 2007
+T1 GString: A Novel Approach for Efficient Search in Graph Databases
+SP 566
+OP 575
+
+RT Journal Article
+ID 4379637
+A1 Cao,Longbing
+A1 Zhang,Chengqi
+A1 Yang,Qiang
+A1 Bell,David
+A1 Vlachos,Michail
+A1 Taneri,Bahar
+A1 Keogh,Eamonn,J.
+A1 Yu,Philip,S.
+A1 Zhong,Ning
+A1 Ashrafi,Mafruz,Zaman
+A1 Taniar,David
+A1 Dubossarsky,Eugene
+A1 Graco,Warwick
+YR 2007
+T1 Domain-Driven, Actionable Knowledge Discovery
+JF IEEE Expert / IEEE Intelligent Systems
+VO 22
+SP 78
+OP 88
+IS 4
+
+RT Conference Proceedings
+ID 4313676
+A1 Gao,Jing
+A1 Fan,Wei
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2007
+T1 A General Framework for Mining Concept-Drifting Data Streams with Skewed Distributions
+
+RT Conference Proceedings
+ID 2437047
+A1 Yin,Xiaoxin
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2007
+T1 Object Distinction: Distinguishing Objects with Identical Names
+SP 1242
+OP 1246
+
+RT Conference Proceedings
+ID 4296503
+A1 Long,Bo
+A1 Yu,Philip,S.
+YR 2007
+T1 A probabilistic framework for relational clustering
+SP 470
+OP 479
+
+RT Conference Proceedings
+ID 2437062
+A1 Zhu,Feida
+A1 Yan,Xifeng
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+A1 Cheng,Hong
+YR 2007
+T1 Mining Colossal Frequent Patterns by Core Pattern Fusion
+SP 706
+OP 715
+
+RT Conference Proceedings
+ID 4211660
+A1 Gedik,Bugra
+A1 Yu,Philip,S.
+A1 Bordawekar,Rajesh
+YR 2007
+T1 Executing Stream Joins on the Cell Processor
+SP 363
+OP 374
+
+RT Conference Proceedings
+ID 2472777
+A1 Luo,Gang
+A1 Tang,Chunqiang
+A1 Yu,Philip,S.
+YR 2007
+T1 Resource-adaptive real-time new event detection
+SP 497
+OP 508
+
+RT Conference Proceedings
+ID 2437057
+A1 Gu,Xiaohui
+A1 Yu,Philip,S.
+A1 Wang,Haixun
+YR 2007
+T1 Adaptive Load Diffusion for Multiway Windowed Stream Joins
+SP 146
+OP 155
+
+RT Conference Proceedings
+ID 4296487
+A1 Fung,Gabriel,Pui,Cheong
+A1 Yu,Jeffrey,Xu
+A1 Liu,Huan
+A1 Yu,Philip,S.
+YR 2007
+T1 Time-dependent event hierarchy construction
+SP 300
+OP 309
+
+RT Conference Proceedings
+ID 4322763
+A1 Chen,Chen
+A1 Yan,Xifeng
+A1 Yu,Philip,S.
+A1 Han,Jiawei
+A1 Zhang,Dong-qing
+A1 Gu,Xiaohui
+YR 2007
+T1 Towards Graph Containment Search and Indexing
+SP 926
+OP 937
+
+RT Conference Proceedings
+ID 4322770
+A1 Papadimitriou,Spiros
+A1 Li,Feifei
+A1 Kollios,George
+A1 Yu,Philip,S.
+YR 2007
+T1 Time Series Compressibility and Privacy
+SP 459
+OP 470
+
+RT Conference Proceedings
+ID 4214206
+A1 Yin,X.
+A1 Han,J.
+A1 Yu,P.,S.
+YR 2007
+T1 Object distinction: Distinguishing objects with identical names by link analysis
+
+RT Journal Article
+ID 4375447
+A1 Yin,Xiaoxin
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2007
+T1 CrossClus: user-guided multi-relational clustering
+JF Data Mining and Knowledge Discovery
+VO 15
+SP 321
+OP 348
+IS 3
+
+RT Conference Proceedings
+ID 2437048
+A1 Gedik,Bugra
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+A1 Liu,Ling
+YR 2007
+T1 A Load Shedding Framework and Optimizations for M-way Windowed Stream Joins
+SP 536
+OP 545
+
+RT Book, Whole
+ID 2466084
+A1 Zhu,Feida
+A1 Yan,Xifeng
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2007
+T1 gPrune: A Constraint Pushing Framework for Graph Pattern Mining
+SP 388
+OP 400
+
+RT Journal Article
+ID 4415233
+A1 Wang,James,Zijun
+A1 Yu,Philip,S.
+YR 2007
+T1 Fragmental Proxy Caching for Streaming Multimedia Objects
+JF IEEE Transactions on Multimedia
+VO 9
+SP 147
+OP 156
+IS 1
+
+RT Conference Proceedings
+ID 4278411
+A1 Long,Bo
+A1 Wu,Xiaoyun
+A1 Yu,Philip,S.
+YR 2007
+T1 Relational clustering by symmetric convex coding
+SP 569
+OP 576
+
+RT Conference Proceedings
+ID 4313624
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2007
+T1 On Anonymization of String Data
+
+RT Conference Proceedings
+ID 4313623
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2007
+T1 On Privacy-Preservation of Text and Sparse Binary Data with Sketches
+
+RT Journal Article
+ID 4408128
+A1 Cao,Longbing
+A1 Zhang,Chengqi
+A1 Zhao,Yanchang
+A1 Yu,Philip,S.
+A1 Williams,Graham
+YR 2007
+T1 DDDM2007: Domain Driven Data Mining
+JF Sigkdd Explorations
+VO 9
+SP 84
+OP 86
+IS 2
+
+RT Conference Proceedings
+ID 4272569
+A1 Long,Bo
+A1 Xu,Xiaoyun
+A1 Yu,Philip,S.
+YR 2007
+T1 Community Learning by Graph Approximation
+SP 232
+OP 241
+
+RT Journal Article
+ID 4414486
+A1 Gedik,Bugra
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+A1 Liu,Ling
+YR 2007
+T1 GrubJoin: An Adaptive, Multi-Way, Windowed Stream Join with Time Correlation-Aware CPU Load Shedding
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 19
+SP 1363
+OP 1380
+IS 10
+
+RT Conference Proceedings
+ID 2436941
+A1 Gedik,Bugra
+A1 Liu,Ling
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+YR 2007
+T1 Lira: Lightweight, Region-aware Load Shedding in Mobile CQ Systems
+SP 286
+OP 295
+
+RT Conference Proceedings
+ID 2447538
+A1 Gu,Xiaohui
+A1 Wen,Zhen
+A1 Yu,Philip,S.
+YR 2007
+T1 BridgeNet: An Adaptive Multi-Source Stream Dissemination Overlay Network
+SP 2586
+OP 2590
+
+RT Conference Proceedings
+ID 2437083
+A1 Luo,Gang
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+YR 2007
+T1 SAO: A Stream Index for Answering Linear Optimization Queries
+SP 1302
+OP 1306
+
+RT Journal Article
+ID 4400513
+A1 Gedik,Bugra
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+A1 Liu,Ling
+YR 2007
+T1 CPU load shedding for binary stream joins
+JF Knowledge and Information Systems
+VO 13
+SP 271
+OP 303
+IS 3
+
+RT Conference Proceedings
+ID 4272504
+A1 Zhu,Feida
+A1 Yan,Xifeng
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2007
+T1 Efficient Discovery of Frequent Approximate Sequential Patterns
+SP 751
+OP 756
+
+RT Journal Article
+ID 4414523
+A1 Hsieh,Ming-jyh
+A1 Chen,Ming-syan
+A1 Yu,Philip,S.
+YR 2007
+T1 Approximate Query Processing in Cube Streams
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 19
+SP 1557
+OP 1570
+IS 11
+
+RT Conference Proceedings
+ID 2448933
+A1 Hildrum,Kirsten
+A1 Douglis,Fred
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+A1 Fleischer,Lisa
+A1 Katta,Akshay
+YR 2007
+T1 Storage Optimization for Large-Scale Distributed Stream Processing Systems
+SP 1
+OP 8
+
+RT Journal Article
+ID 5878079
+A1 Yang,Junyi,Xie,Jun
+A1 Chen,Yuguo
+A1 Wang,Haixun
+A1 Yu,Philip,S.
+YR 2007
+T1 A Monte Carlo Sampling Framework for Information Recovery
+
+RT Journal Article
+ID 39358642
+A1 Sun,Xingzhi
+A1 Yu,Philip,S.
+YR 2007
+T1 Hiding Sensitive Frequent Itemsets by a Border-Based Approach
+VO 1
+SP 74
+OP 94
+IS 1
+
+RT Conference Proceedings
+ID 4229978
+A1 Long,Bo
+A1 Yu,Philip,S.
+YR 2007
+T1 Graph Partitioning Based on Link Distributions
+SP 578
+OP 583
+
+RT Book, Whole
+ID 4265952
+A1 Rajan,Deepak
+A1 Yu,Philip,S.
+YR 2007
+T1 On Temperature-Aware Scheduling for Single-Processor Systems
+SP 342
+OP 355
+
+RT Conference Proceedings
+ID 2416078
+A1 Pei,Jian
+A1 Lau,Man,Ki,Mag
+A1 Yu,Philip,S.
+YR 2007
+T1 TS-Trees: A Non-Alterable Search Tree Index for Trustworthy Databases on Write-Once-Read-Many (WORM) Storage
+SP 54
+OP 61
+
+RT Journal Article
+ID 5112804
+A1 Gu,Xiaohui
+A1 Wen,Zhen
+A1 Yu,Philip,S.
+YR 2007
+T1 BridgeNet: An Adaptive Multi-Source Stream Dissemination Service Overlay
+
+RT Conference Proceedings
+ID 4296462
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2007
+T1 On string classification in data streams
+SP 36
+OP 45
+
+RT Book, Whole
+ID 4308500
+A1 Vlachos,Michail
+A1 Taneri,Bahar
+A1 Keogh,Eamonn,J.
+A1 Yu,Philip,S.
+YR 2007
+T1 Visual Exploration of Genomic Data
+SP 613
+OP 620
+
+RT Conference Proceedings
+ID 4313681
+A1 Hristidis,Vagelis
+A1 Valdivia,Oscar
+A1 Vlachos,Michail
+A1 Yu,Philip,S.
+YR 2007
+T1 A System for Keyword Search on Textual Streams
+
+RT Conference Proceedings
+ID 4345264
+A1 Wang,James,Zijun
+A1 Du,Zhidian
+A1 Yu,Philip,S.
+A1 Chen,Chin-fu
+YR 2007
+T1 An Efficient Online Tool to Search Top-N Genes with Similar Biological Functions in Gene Ontology Database
+SP 406
+OP 411
+
+RT Conference Proceedings
+ID 6057960
+A1 Canali,Claudia
+A1 Colajanni,Michele
+A1 Lancellotti,Riccardo
+A1 Yu,Philip,S.
+YR 2007
+T1 A Distributed Infrastructure Supporting Personalized Services for the Mobile Web
+SP 66
+
+RT Conference Proceedings
+ID 50602895
+A1 Canali,Claudia
+A1 Colajanni,Michele
+A1 Lancellotti,Riccardo
+A1 Yu,Philip,S.
+YR 2007
+T1 A Distributed Infrastructure Supporting Personalized Services for the Mobile Web
+
+RT Conference Proceedings
+ID 50613751
+A1 Wang,James,Z.
+A1 Du,Zhidian
+A1 Yu,Philip,S.
+A1 Chen,Chin-Fu
+YR 2007
+T1 An Efficient Online Tool to Search Top-N Genes with Similar Biological Functions in Gene Ontology Database
+
+RT Journal Article
+ID 39235106
+A1 Yu,Philips
+A1 Zhang,Chengqi
+A1 Williams,Graham
+A1 Cao,Longbing
+YR 2007
+T1 2007 International Workshop on Domain Driven Data Mining
+SP 1
+OP 1
+
+RT Conference Proceedings
+ID 4277720
+A1 Gu,Xiaohui
+A1 Yu,Philip,S.
+YR 2007
+T1 Toward Self-Managed Media Stream Processing Service Overlays
+SP 2054
+OP 2057
+
+RT Journal Article
+ID 13030507
+A1 Fung,Benjamin,C.,M.
+A1 Wang,Ke
+A1 Yu,Philip,S.
+YR 2007
+T1 Anonymizing classification data for privacy preservation
+VO 19
+IS 5
+
+RT Conference Proceedings
+ID 1796013
+A1 Wang,Haixun
+A1 He,Hao
+A1 Yang,Jun
+A1 Yu,Philip,S.
+A1 Yu,Jeffrey,Xu
+YR 2006
+T1 Dual Labeling: Answering Graph Reachability Queries in Constant Time
+SP 75
+
+RT Conference Proceedings
+ID 2186970
+A1 Yin,Xiaoxin
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2006
+T1 LinkClus: Efficient Clustering via Heterogeneous Semantic Links
+SP 427
+OP 438
+
+RT Journal Article
+ID 2509533
+A1 Chi,Yun
+A1 Wang,Haixun
+A1 Yu,Philip,S.
+A1 Muntz,Richard,R.
+YR 2006
+T1 Catch the moment: maintaining closed frequent itemsets over a data stream sliding window
+JF Knowledge and Information Systems
+VO 10
+SP 265
+OP 294
+IS 3
+
+RT Conference Proceedings
+ID 2441123
+A1 Long,Bo
+A1 Wu,Xiaoyun
+A1 Yu,Philip,S.
+YR 2006
+T1 Spectral clustering for multi-type relational data
+SP 585
+OP 592
+
+RT Conference Proceedings
+ID 2461397
+A1 Long,Bo
+A1 Wu,Xiaoyun
+A1 Yu,Philip,S.
+YR 2006
+T1 Unsupervised learning on k-partite graphs
+SP 317
+OP 326
+
+RT Journal Article
+ID 1720334
+A1 Fung,Gabriel,Pui,Cheong
+A1 Yu,Jeffrey,Xu
+A1 Lu,Hongjun
+A1 Yu,Philip,S.
+YR 2006
+T1 Text Classification without Negative Examples Revisit
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 18
+SP 6
+OP 20
+IS 1
+
+RT Conference Proceedings
+ID 2461393
+A1 Liu,Chao
+A1 Chen,Chen
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2006
+T1 GPLAG: detection of software plagiarism by program dependence graph analysis
+SP 872
+OP 881
+
+RT Conference Proceedings
+ID 2461337
+A1 Anagnostopoulos,Aris
+A1 Vlachos,Michail
+A1 Hadjieleftheriou,Marios
+A1 Keogh,Eamonn,J.
+A1 Yu,Philip,S.
+YR 2006
+T1 Global distance-based segmentation of trajectories
+SP 34
+OP 43
+
+RT Book, Whole
+ID 1790743
+A1 Cheng,Jiefeng
+A1 Yu,Jeffrey,Xu
+A1 Lin,Xuemin
+A1 Wang,Haixun
+A1 Yu,Philip,S.
+YR 2006
+T1 Fast Computation of Reachability Labeling for Large Graphs
+SP 961
+OP 979
+
+RT Journal Article
+ID 2517005
+A1 Pei,Jian
+A1 Wang,Haixun
+A1 Liu,Jian
+A1 Wang,Ke
+A1 Wang,Jianyong
+A1 Yu,Philip,S.
+YR 2006
+T1 Discovering Frequent Closed Partial Orders from Strings
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 18
+SP 1467
+OP 1481
+IS 11
+
+RT Conference Proceedings
+ID 2461429
+A1 Wang,Haixun
+A1 Yin,Jian
+A1 Pei,Jian
+A1 Yu,Philip,S.
+A1 Yu,Jeffrey,Xu
+YR 2006
+T1 Suppressing model overfitting in mining concept-drifting data streams
+SP 736
+OP 741
+
+RT Book, Whole
+ID 1790699
+A1 Luo,Gang
+A1 Naughton,Jeffrey,F.
+A1 Yu,Philip,S.
+YR 2006
+T1 Multi-query SQL Progress Indicators
+SP 921
+OP 941
+
+RT Journal Article
+ID 1720351
+A1 Aggarwal,Charu,C.
+A1 Han,Jiawei
+A1 Wang,Jianyong
+A1 Yu,Philip,S.
+YR 2006
+T1 A Framework for On-Demand Classification of Evolving Data Streams
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 18
+SP 577
+OP 589
+IS 5
+
+RT Journal Article
+ID 1720390
+A1 Gedik,Bugra
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+A1 Liu,Ling
+YR 2006
+T1 Processing Moving Queries over Moving Objects Using Motion-Adaptive Indexes
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 18
+SP 651
+OP 668
+IS 5
+
+RT Conference Proceedings
+ID 2195242
+A1 Papadimitriou,Spiros
+A1 Yu,Philip,S.
+YR 2006
+T1 Optimal multi-scale patterns in time series streams
+SP 647
+OP 658
+
+RT Conference Proceedings
+ID 2163924
+A1 Gaber,Mohamed,Medhat
+A1 Yu,Philip,S.
+YR 2006
+T1 A framework for resource-aware knowledge discovery in data streams: a holistic approach with its application to clustering
+SP 649
+OP 656
+
+RT Conference Proceedings
+ID 2437208
+A1 Sun,Jimeng
+A1 Papadimitriou,Spiros
+A1 Yu,Philip,S.
+YR 2006
+T1 Window-based Tensor Analysis on High-dimensional and Multi-aspect Streams
+SP 1076
+OP 1080
+
+RT Conference Proceedings
+ID 2437121
+A1 Papadimitriou,Spiros
+A1 Sun,Jimeng
+A1 Yu,Philip,S.
+YR 2006
+T1 Local Correlation Tracking in Time Series
+SP 456
+OP 465
+
+RT Journal Article
+ID 1718069
+A1 Wu,Kun-lung
+A1 Chen,Shyh-kwei
+A1 Yu,Philip,S.
+YR 2006
+T1 Query indexing with containment-encoded intervals for efficient stream processing
+JF Knowledge and Information Systems
+VO 9
+SP 62
+OP 90
+IS 1
+
+RT Conference Proceedings
+ID 1796044
+A1 Yan,Xifeng
+A1 Zhu,Feida
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2006
+T1 Searching Substructures with Superimposed Distance
+SP 88
+
+RT Journal Article
+ID 1720357
+A1 Yin,Xiaoxin
+A1 Han,Jiawei
+A1 Yang,Jiong
+A1 Yu,Philip,S.
+YR 2006
+T1 Efficient Classification across Multiple Database Relations: A CrossMine Approach
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 18
+SP 770
+OP 783
+IS 6
+
+RT Conference Proceedings
+ID 2164022
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2006
+T1 A Framework for Clustering Massive Text and Categorical Data Streams
+
+RT Conference Proceedings
+ID 2437218
+A1 Cheng,Hong
+A1 Yu,Philip,S.
+A1 Han,Jiawei
+YR 2006
+T1 AC-Close: Efficiently Mining Approximate Closed Itemsets by Core Pattern Recovery
+SP 839
+OP 844
+
+RT Journal Article
+ID 2517010
+A1 Wu,Kun-lung
+A1 Chen,Shyh-kwei
+A1 Yu,Philip,S.
+YR 2006
+T1 Incremental Processing of Continual Range Queries over Moving Objects
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 18
+SP 1560
+OP 1575
+IS 11
+
+RT Conference Proceedings
+ID 2412002
+A1 Gu,Xiaohui
+A1 Wen,Zhen
+A1 Lin,Ching-Yung
+A1 Yu,Philip,S.
+YR 2006
+T1 ViCo: an adaptive distributed video correlation system
+SP 559
+OP 568
+
+RT Journal Article
+ID 2503611
+A1 Gaber,Mohamed,Medhat
+A1 Yu,Philip,S.
+YR 2006
+T1 Detection and Classification of Changes in Evolving Data Streams
+JF International Journal of Information Technology and Decision Making
+VO 5
+SP 659
+OP 670
+IS 4
+
+RT Journal Article
+ID 2517261
+A1 Yan,Xifeng
+A1 Zhu,Feida
+A1 Yu,Philip,S.
+A1 Han,Jiawei
+YR 2006
+T1 Feature-based similarity search in graph structures
+JF ACM Transactions on Database Systems
+VO 31
+SP 1418
+OP 1453
+IS 4
+
+RT Book, Whole
+ID 2467407
+A1 Li,Xin
+A1 Liu,Bing
+A1 Yu,Philip,S.
+YR 2006
+T1 Discovering Overlapping Communities of Named Entities
+SP 593
+OP 600
+
+RT Conference Proceedings
+ID 2422301
+A1 Hristidis,Vagelis
+A1 Valdivia,Oscar
+A1 Vlachos,Michail
+A1 Yu,Philip,S.
+YR 2006
+T1 Continuous keyword search on multiple text streams
+SP 802
+OP 803
+
+RT Journal Article
+ID 4403118
+A1 Gaber,Mohamed,Medhat
+A1 Yu,Philip,S.
+YR 2006
+T1 A Holistic Approach for Resource-aware Adaptive Data Stream Mining
+JF New Generation Computing
+VO 25
+SP 95
+OP 115
+IS 1
+
+RT Conference Proceedings
+ID 2437152
+A1 Verscheure,Olivier
+A1 Vlachos,Michail
+A1 Anagnostopoulos,Aris
+A1 Frossard,Pascal
+A1 Bouillet,Eric
+A1 Yu,Philip,S.
+YR 2006
+T1 Finding "Who Is Talking to Whom" in VoIP Networks via Progressive Stream Clustering
+SP 667
+OP 677
+
+RT Journal Article
+ID 2149231
+A1 Fong,Joseph
+A1 Fong,Anthony
+A1 Wong,H.,K.
+A1 Yu,Philip
+YR 2006
+T1 Translating Relational Schema with Constraints into Xml Schema
+JF International Journal of Software Engineering and Knowledge Engineering
+VO 16
+SP 201
+OP 244
+IS 2
+
+RT Journal Article
+ID 2837026
+A1 Gaber,Mohamed,Medhat
+A1 Yu,Philip,S.
+YR 2006
+T1 Classification of Changes in Evolving Data Streams using Online Clustering Result Deviation
+
+RT Journal Article
+ID 4117714
+A1 Han,J.
+A1 Yan,X.
+A1 Zhu,F.
+A1 Yu,P.,S.
+YR 2006
+T1 Feature - based substructure similarity search
+JF ACM Transactions on Database Systems
+
+RT Conference Proceedings
+ID 2165052
+A1 Wang,Ke
+A1 Xu,Yabo
+A1 She,Rong
+A1 Yu,Philip,S.
+YR 2006
+T1 Classification Spanning Private Databases
+
+RT Journal Article
+ID 2178569
+A1 Vlachos,Michail
+A1 Yu,Philip,S.
+A1 Castelli,Vittorio
+A1 Meek,Christopher
+YR 2006
+T1 Structural Periodic Measures for Time-Series Data
+JF Data Mining and Knowledge Discovery
+VO 12
+SP 1
+OP 28
+IS 1
+
+RT Conference Proceedings
+ID 4210920
+A1 Gu,X.
+A1 Wen,Z.
+A1 Lin,C.,Y.
+A1 Yu,P.,S.
+YR 2006
+T1 Design and implementation of an adaptive distributed on - line video correlation system
+
+RT Journal Article
+ID 4208614
+A1 Fan,W.
+A1 Mcclosky,J.
+A1 Yu,P.,S.
+YR 2006
+T1 A general framework for fast and accurate regression by data summarization in random decision trees
+
+RT Conference Proceedings
+ID 5055437
+A1 Turaga,Deepak,S.
+A1 Vlachos,Michail
+A1 Papadimitriou,Spiros
+A1 Yu,Philip,S.
+YR 2006
+T1 Slide: Streaming and Load-Adaptive Periodicity Estimation
+VO 3
+
+RT Book, Whole
+ID 2187092
+A1 Wu,Kun-lung
+A1 Chen,Shyh-kwei
+A1 Yu,Philip,S.
+YR 2006
+T1 On-Demand Index for Efficient Structural Joins
+SP 1
+OP 12
+
+RT Conference Proceedings
+ID 2205732
+A1 Wu,Kun-lung
+A1 Chen,Shyh-kwei
+A1 Yu,Philip,S.
+YR 2006
+T1 On Range Query Indexing for Efficient Stream Processing
+SP 530
+OP 539
+
+RT Conference Proceedings
+ID 2437172
+A1 Rajan,Deepak
+A1 Yu,Philip,S.
+YR 2006
+T1 Discovering Partial Orders in Binary Data
+SP 510
+OP 521
+
+RT Book, Whole
+ID 2467422
+A1 Vlachos,Michail
+A1 Papadimitriou,Spiros
+A1 Vagena,Zografoula
+A1 Yu,Philip,S.
+YR 2006
+T1 RIVA: Indexing and Visualization of High-Dimensional Data Via Dimension Reorderings
+SP 407
+OP 420
+
+RT Journal Article
+ID 40541566
+A1 Kim,Sejong
+A1 Geiss,Erik
+A1 Yu,Phillip
+A1 Papadimitrakopoulos,Fotios
+A1 Marcus,Harris,L.
+YR 2006
+T1 DNA-assisted binding of microspheres on glass substrates and their laser-induced release
+JF Materials Science and Engineering: C
+VO 26
+SP 1401
+OP 1407
+IS 8
+
+RT Conference Proceedings
+ID 1795976
+A1 Han,Jiawei
+A1 Yan,Xifeng
+A1 Yu,Philip,S.
+YR 2006
+T1 Mining, Indexing, and Similarity Search in Graphs and Complex Structures
+SP 106
+
+RT Journal Article
+ID 3018398
+A1 Luo,G.
+A1 Yu,P.,S.
+YR 2006
+T1 Efficient Real-time Materialized View Maintenance
+
+RT Book, Whole
+ID 1790760
+A1 Vlachos,Michail
+A1 Turaga,Deepak,S.
+A1 Yu,Philip,S.
+YR 2006
+T1 Resource Adaptive Periodicity Estimation of Streaming Data
+SP 23
+OP 40
+
+RT Journal Article
+ID 39249929
+A1 Yan,Xifeng
+A1 Zhu,Feida
+A1 Yu,Philip,S.
+A1 Han,Jiawei
+YR 2006
+T1 Feature-based similarity search in graph structures
+JF ACM Transactions on Database Systems
+SP 1418
+OP 1453
+
+RT Conference Proceedings
+ID 13279890
+A1 Nasraoui,Olfa
+A1 Zaïane,Osmar,R.
+A1 Spiliopoulou,Myra
+A1 Mobasher,Bamshad
+A1 Masand,Brij,M.
+A1 Yu,Philip,S.
+YR 2006
+T1 Advances in Web Mining and Web Usage Analysis, 7th International Workshop on Knowledge Discovery on the Web, WebKDD 2005, Chicago, IL, USA, August 21, 2005. Revised Papers
+
+RT Conference Proceedings
+ID 2461364
+A1 Fan,Wei
+A1 Mccloskey,Joe
+A1 Yu,Philip,S.
+YR 2006
+T1 A general framework for accurate and fast regression by data summarization in random decision trees
+SP 136
+OP 146
+
+RT Conference Proceedings
+ID 13303387
+A1 Yu,Philip,S.
+A1 Tsotras,Vassilis,J.
+A1 Fox,Edward,A.
+A1 Liu,Bing
+YR 2006
+T1 Proceedings of the 2006 ACM CIKM International Conference on Information and Knowledge Management, Arlington, Virginia, USA, November 6-11, 2006
+
+RT Conference Proceedings
+ID 50484599
+A1 Wu,Jun-Lung
+A1 Chen,Shyh-Kwei
+A1 Yu,Philip,S.
+YR 2006
+T1 On range query indexing for efficient stream processing
+
+RT Conference Proceedings
+ID 2437234
+A1 Wang,Peng
+A1 Wang,Haixun
+A1 Wang,Wei
+A1 Shi,Baile
+A1 Yu,Philip,S.
+YR 2006
+T1 LOCI: Load Shedding through Class-Preserving Data Acquisition
+SP 701
+OP 710
+
+RT Journal Article
+ID 4512995
+A1 Long,Bo
+A1 Wu,Xiaoyun
+A1 Yu,Philip,S.
+YR 2006
+T1 A General Model for Relational Clustering
+
+RT Conference Proceedings
+ID 1795681
+A1 Fung,Benjamin,C.,M.
+A1 Wang,Ke
+A1 Yu,Philip,S.
+YR 2005
+T1 Top-Down Specialization for Information and Privacy Preservation
+SP 205
+OP 216
+
+RT Conference Proceedings
+ID 1856398
+A1 Yan,Xifeng
+A1 Yu,Philip,S.
+A1 Han,Jiawei
+YR 2005
+T1 Substructure similarity search in graph databases
+SP 766
+OP 777
+
+RT Journal Article
+ID 1721076
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2005
+T1 An effective and efficient algorithm for high-dimensional outlier detection
+JF The Vldb Journal
+VO 14
+SP 211
+OP 221
+IS 2
+
+RT Conference Proceedings
+ID 1782434
+A1 Liu,Bing
+A1 Li,Xiaoli
+A1 Lee,Wee,Sun
+A1 Yu,Philip,S.
+YR 2005
+T1 Text Classification by Labeling Words
+SP 425
+OP 430
+
+RT Conference Proceedings
+ID 1817119
+A1 Fung,Gabriel,Pui,Cheong
+A1 Yu,Jeffrey,Xu
+A1 Yu,Philip,S.
+A1 Lu,Hongjun
+YR 2005
+T1 Parameter Free Bursty Events Detection in Text Streams
+SP 181
+OP 192
+
+RT Conference Proceedings
+ID 1796912
+A1 Wang,Ke
+A1 Fung,Benjamin,C.,M.
+A1 Yu,Philip,S.
+YR 2005
+T1 Template-Based Privacy Preservation in Classification Problems
+SP 466
+OP 473
+
+RT Conference Proceedings
+ID 1775187
+A1 Long,Bo
+A1 Yu,Philip,S.
+YR 2005
+T1 Co-clustering by block value decomposition
+SP 635
+OP 640
+
+RT Journal Article
+ID 1720475
+A1 Yan,Xifeng
+A1 Yu,Philip,S.
+A1 Han,Jiawei
+YR 2005
+T1 Graph indexing based on discriminative frequent structure analysis
+JF ACM Transactions on Database Systems
+VO 30
+SP 960
+OP 993
+IS 4
+
+RT Conference Proceedings
+ID 1778700
+A1 Liu,Chao
+A1 Yan,Xifeng
+A1 Yu,Hwanjo
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2005
+T1 Mining Behavior Graphs for "Backtrace" of Noncrashing Bugs
+
+RT Conference Proceedings
+ID 1778767
+A1 Chi,Yun
+A1 Yu,Philip,S.
+A1 Wang,Haixun
+A1 Muntz,Richard,R.
+YR 2005
+T1 Loadstar: A Load Shedding Scheme for Classifying Data Streams
+
+RT Conference Proceedings
+ID 1796936
+A1 Sun,Xingzhi
+A1 Yu,Philip,S.
+YR 2005
+T1 A Border-Based Approach for Hiding Sensitive Frequent Itemsets
+SP 426
+OP 433
+
+RT Conference Proceedings
+ID 1830331
+A1 Gu,Xiaohui
+A1 Yu,Philip,S.
+A1 Nahrstedt,Klara
+YR 2005
+T1 Optimal Component Composition for Scalable Stream Processing
+SP 773
+OP 782
+
+RT Conference Proceedings
+ID 1778753
+A1 Vlachos,Michail
+A1 Yu,Philip,S.
+A1 Castelli,Vittorio
+YR 2005
+T1 On Periodicity Detection and Structural Periodic Similarity
+
+RT Conference Proceedings
+ID 1775193
+A1 Yin,Xiaoxin
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 2005
+T1 Cross-relational clustering with user's guidance
+SP 344
+OP 353
+
+RT Conference Proceedings
+ID 1786081
+A1 Gedik,Buğgra
+A1 Wu,Kun-Lung
+A1 Yu,Philip,S.
+A1 Liu,Ling
+YR 2005
+T1 Adaptive load shedding for windowed stream joins
+SP 171
+OP 178
+
+RT Conference Proceedings
+ID 1817128
+A1 Chi,Yun
+A1 Wang,Haixun
+A1 Yu,Philip,S.
+YR 2005
+T1 Loadstar: Load Shedding in Data Stream Mining
+SP 1303
+OP 1305
+
+RT Conference Proceedings
+ID 1778704
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2005
+T1 Online Analysis of Community Evolution in Data Streams
+
+RT Conference Proceedings
+ID 1796918
+A1 Fan,Wei
+A1 Davidson,Ian
+A1 Zadrozny,Bianca
+A1 Yu,Philip,S.
+YR 2005
+T1 An Improved Categorization of Classifier's Sensitivity on Sample Selection Bias
+SP 605
+OP 608
+
+RT Conference Proceedings
+ID 4277294
+A1 Aggarwal,Charu,C.
+A1 Olshefski,David,P.
+A1 Saha,Debanjan
+A1 Shae,Zon-yin
+A1 Yu,Philip,S.
+YR 2005
+T1 CSR: Speaker Recognition from Compressed VoIP Packet Stream
+SP 970
+OP 973
+
+RT Conference Proceedings
+ID 1786126
+A1 Vlachos,Michail
+A1 Vagena,Zografoula
+A1 Yu,Philip,S.
+A1 Athitsos,Vassilis
+YR 2005
+T1 Rotation invariant indexing of shapes and line drawings
+SP 131
+OP 138
+
+RT Conference Proceedings
+ID 1778716
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2005
+T1 On Variable Constraints in Privacy Preserving Data Mining
+
+RT Conference Proceedings
+ID 1818026
+A1 Yu,Philip,S.
+A1 Li,Xin
+A1 Liu,Bing
+YR 2005
+T1 Adding the Temporal Dimension to Search - A Case Study in Publication Search
+SP 543
+OP 549
+
+RT Conference Proceedings
+ID 1785983
+A1 He,Hao
+A1 Wang,Haixun
+A1 Yang,Jun
+A1 Yu,Philip,S.
+YR 2005
+T1 Compact reachability labeling for graph-structured data
+SP 594
+OP 601
+
+RT Journal Article
+ID 1718066
+A1 Wang,Haixun
+A1 Perng,Chang-shing
+A1 Ma,Sheng
+A1 Yu,Philip,S.
+YR 2005
+T1 Demand-driven frequent itemset mining using pattern structures
+JF Knowledge and Information Systems
+VO 8
+SP 82
+OP 102
+IS 1
+
+RT Conference Proceedings
+ID 1765026
+A1 Gu,Xiaohui
+A1 Wen,Zhen
+A1 Yu,Philip,S.
+A1 Shae,Zon-Yin
+YR 2005
+T1 Supporting multi-party voice-over-IP services with peer-to-peer stream processing
+SP 303
+OP 306
+
+RT Journal Article
+ID 1722317
+A1 Aggarwal,Charu,C.
+A1 Han,Jiawei
+A1 Wang,Jianyong
+A1 Yu,Philip,S.
+YR 2005
+T1 On High Dimensional Projected Clustering of Data Streams
+JF Data Mining and Knowledge Discovery
+VO 10
+SP 251
+OP 273
+IS 3
+
+RT Conference Proceedings
+ID 1796962
+A1 Fan,Wei
+A1 Greengrass,Ed
+A1 Mccloskey,Joe
+A1 Yu,Philip,S.
+A1 Drummey,Kevin
+YR 2005
+T1 Effective Estimation of Posterior Probabilities: Explaining the Accuracy of Randomized Decision Tree Approaches
+SP 154
+OP 161
+
+RT Conference Proceedings
+ID 1796896
+A1 Pei,Jian
+A1 Liu,Jian
+A1 Wang,Haixun
+A1 Wang,Ke
+A1 Yu,Philip,S.
+A1 Wang,Jianyong
+YR 2005
+T1 Efficiently Mining Frequent Closed Partial Orders
+SP 753
+OP 756
+
+RT Conference Proceedings
+ID 1796986
+A1 Hildrum,Kirsten
+A1 Yu,Philip,S.
+YR 2005
+T1 Focused Community Discovery
+SP 641
+OP 644
+
+RT Journal Article
+ID 2180083
+A1 Yang,Jiong
+A1 Wang,Haixun
+A1 Wang,Wei
+A1 Yu,Philip,S.
+YR 2005
+T1 An Improved Biclustering Method for Analyzing Gene Expression Profiles
+JF International Journal on Artificial Intelligence Tools
+VO 14
+SP 771
+OP 790
+IS 5
+
+RT Book, Whole
+ID 1845432
+A1 Gu,Xiaohui
+A1 Yu,Philip,S.
+YR 2005
+T1 Adaptive Load Diffusion for Stream Joins
+SP 411
+OP 420
+
+RT Conference Proceedings
+ID 1841899
+A1 Canali,Claudia
+A1 Cardellini,Valeria
+A1 Colajanni,Michele
+A1 Lancellotti,Riccardo
+A1 Yu,Philip,S.
+YR 2005
+T1 A Two-Level Distributed Architecture for Efficient Web Content Adaptation and Delivery
+SP 132
+OP 139
+
+RT Book, Whole
+ID 1812708
+A1 Vlachos,Michail
+A1 Wu,Kun-lung
+A1 Chen,Shyh-kwei
+A1 Yu,Philip,S.
+YR 2005
+T1 Fast Burst Correlation of Financial Data
+SP 368
+OP 379
+
+RT Conference Proceedings
+ID 1795672
+A1 Fung,Gabriel,Pui,Cheong
+A1 Yu,Jeffrey,Xu
+A1 Lu,Hongjun
+A1 Yu,Philip,S.
+YR 2005
+T1 Text Classification without Labeled Negative Documents
+SP 594
+OP 605
+
+RT Journal Article
+ID 1747008
+A1 Wu,Kun-lung
+A1 Chen,Shyh-kwei
+A1 Yu,Philip,S.
+YR 2005
+T1 Efficient Processing of Continual Range Queries for Location-Aware Mobile Services
+JF Information Systems Frontiers
+VO 7
+SP 435
+OP 448
+IS 4-5
+
+RT Conference Proceedings
+ID 1796955
+A1 Long,Bo
+A1 Yu,Philip,S.
+YR 2005
+T1 Combining Multiple Clusterings by Soft Correspondence
+SP 282
+OP 289
+
+RT Conference Proceedings
+ID 1778721
+A1 Wang,Ke
+A1 Xu,Yabo
+A1 Yu,Philip,S.
+A1 She,Rong
+YR 2005
+T1 Building Decision Trees on Records Linked through Key References
+
+RT Conference Proceedings
+ID 1887267
+A1 Wu,Kun-lung
+A1 Chen,Shyh-kwei
+A1 Yu,Philip,S.
+YR 2005
+T1 On Incremental Processing of Continual Range Queries for Location-Aware Services and Applications
+SP 261
+OP 269
+
+RT Conference Proceedings
+ID 1242494
+A1 Wu,Kun-Lung
+A1 Chen,Shyh-Kwei
+A1 Yu,Philip,S.
+YR 2005
+T1 Efficient structural joins with on-the-fly indexing
+SP 1028
+OP 1029
+
+RT Conference Proceedings
+ID 1775175
+A1 Wang,Haixun
+A1 Pei,Jian
+A1 Yu,Philip,S.
+YR 2005
+T1 Pattern-based similarity search for microarray data
+SP 814
+OP 819
+
+RT Conference Proceedings
+ID 1786084
+A1 Hsieh,Ming-Jyh
+A1 Chen,Ming-Syan
+A1 Yu,Philip,S.
+YR 2005
+T1 Integrating DCT and DWT for approximating cube streams
+SP 179
+OP 186
+
+RT Journal Article
+ID 3850475
+A1 Fung,G.,P.,C.
+A1 Yu,J.,X.
+A1 Lu,H.
+A1 Yu,P.,S.
+YR 2005
+T1 Text classification without negative labeled examples
+
+RT Journal Article
+ID 1731729
+A1 Nasraoui,Olfa
+A1 Zaïane,Osmar,R.
+A1 Spiliopoulou,Myra
+A1 Mobasher,Bamshad
+A1 Masand,Brij,M.
+A1 Yu,Philip,S.
+YR 2005
+T1 WebKDD 2005: web mining and web usage analysis post-workshop report
+JF Sigkdd Explorations
+VO 7
+SP 139
+OP 142
+IS 2
+
+RT Conference Proceedings
+ID 1778701
+A1 She,Rong
+A1 Wang,Ke
+A1 Xu,Yabo
+A1 Yu,Philip,S.
+YR 2005
+T1 Pushing Feature Selection Ahead Of Join
+
+RT Conference Proceedings
+ID 1795752
+A1 Wang,Haixun
+A1 Pei,Jian
+A1 Yu,Philip,S.
+YR 2005
+T1 Online Mining of Data Streams: Applications, Techniques and Progress
+SP 1146
+OP 1146
+
+RT Book, Whole
+ID 2461457
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2005
+T1 On Clustering Techniques for Change Diagnosis in Data Streams
+SP 139
+OP 157
+
+RT Book, Whole
+ID 1812776
+A1 Vlachos,Michail
+A1 Vagena,Zografoula
+A1 Castelli,Vittorio
+A1 Yu,Philip,S.
+YR 2005
+T1 A Multi-metric Index for Euclidean and Periodic Matching
+SP 355
+OP 367
+
+RT Journal Article
+ID 1908387
+A1 Wang,Haixun
+A1 Yu,Philip,S.
+A1 Han,Jiawei
+YR 2005
+T1 Mining Data Streams
+
+RT Conference Proceedings
+ID 1778703
+A1 Wang,Haixun
+A1 Perng,Chang-shing
+A1 Yu,Philip,S.
+YR 2005
+T1 Near-Neighbor Search in Pattern Distance Spaces
+
+RT Conference Proceedings
+ID 1778761
+A1 Sun,Zheng
+A1 Yu,Philip,S.
+A1 Li,Xiang-yang
+YR 2005
+T1 Iterative Mining for Rules with Constrained Antecedents
+
+RT Book, Whole
+ID 1848586
+A1 Yu,Philip,S.
+YR 2005
+T1 Data Stream Mining and Resource Adaptive Computation
+SP 1
+
+RT Conference Proceedings
+ID 2457588
+A1 Yu,Philip,S.
+YR 2005
+T1 Mining Evolving Streams with Resource Adaptive Computation
+SP 4
+
+RT Conference Proceedings
+ID 1796821
+A1 Wang,Ke
+A1 Yu,Philip,S.
+A1 Chakraborty,Sourav
+YR 2004
+T1 Bottom-Up Generalization: A Data Mining Solution to Privacy Protection
+SP 249
+OP 256
+
+RT Conference Proceedings
+ID 668544
+A1 Yan,Xifeng
+A1 Yu,Philip,S.
+A1 Han,Jiawei
+YR 2004
+T1 Graph indexing: a frequent structure-based approach
+SP 335
+OP 346
+
+RT Book, Whole
+ID 511080
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2004
+T1 A Condensation Approach to Privacy Preserving Data Mining
+SP 183
+OP 199
+
+RT Conference Proceedings
+ID 579309
+A1 Aggarwal,Charu,C.
+A1 Han,Jiawei
+A1 Wang,Jianyong
+A1 Yu,Philip,S.
+YR 2004
+T1 A Framework for Projected Clustering of High Dimensional Data Streams
+SP 852
+OP 863
+
+RT Conference Proceedings
+ID 1796826
+A1 Chi,Yun
+A1 Wang,Haixun
+A1 Yu,Philip,S.
+A1 Muntz,Richard,R.
+YR 2004
+T1 Moment: Maintaining Closed Frequent Itemsets over a Stream Sliding Window
+SP 59
+OP 66
+
+RT Journal Article
+ID 2179882
+A1 Buco,Melissa,J.
+A1 Chang,Rong,N.
+A1 Luan,Laura,Z.
+A1 Ward,Christopher
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+YR 2004
+T1 Utility computing SLA management based upon business objectives
+JF Ibm Systems Journal
+VO 43
+SP 159
+OP 178
+IS 1
+
+RT Conference Proceedings
+ID 908830
+A1 Aggarwal,Charu,C.
+A1 Han,Jiawei
+A1 Wang,Jianyong
+A1 Yu,Philip,S.
+YR 2004
+T1 On demand classification of data streams
+SP 503
+OP 508
+
+RT Book, Whole
+ID 523534
+A1 Yin,Xiaoxin
+A1 Han,Jiawei
+A1 Yang,Jiong
+A1 Yu,Philip,S.
+YR 2004
+T1 CrossMine: Efficient Classification Across Multiple Database Relations
+SP 172
+OP 195
+
+RT Conference Proceedings
+ID 1778674
+A1 Fan,Wei
+A1 Huang,Yi-an
+A1 Wang,Haixun
+A1 Yu,Philip,S.
+YR 2004
+T1 Active Mining of Data Streams
+
+RT Journal Article
+ID 1646620
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+A1 Wolf,Joel,L.
+YR 2004
+T1 Segmentation of multimedia streams for proxy caching
+JF IEEE Transactions on Multimedia
+VO 6
+SP 770
+OP 780
+IS 5
+
+RT Conference Proceedings
+ID 924104
+A1 Yu,Philip,S.
+A1 Li,Xin
+A1 Liu,Bing
+YR 2004
+T1 On the temporal dimension of search
+SP 448
+OP 449
+
+RT Conference Proceedings
+ID 1237407
+A1 Wu,Kun-Lung
+A1 Chen,Shyh-Kwei
+A1 Yu,Philip,S.
+YR 2004
+T1 Interval query indexing for efficient stream processing
+SP 88
+OP 97
+
+RT Journal Article
+ID 1718002
+A1 Wang,Wei
+A1 Yang,Jiong
+A1 Yu,Philip,S.
+YR 2004
+T1 WAR: Weighted Association Rules for Item Intensities
+JF Knowledge and Information Systems
+VO 6
+SP 203
+OP 229
+IS 2
+
+RT Journal Article
+ID 803244
+A1 Aggarwal,Charu,C.
+A1 Gates,Stephen,C.
+A1 Yu,Philip,S.
+YR 2004
+T1 On Using Partial Supervision for Text Categorization
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 16
+SP 245
+OP 255
+IS 2
+
+RT Conference Proceedings
+ID 1237461
+A1 Gedik,Bugra
+A1 Wu,Kun-Lung
+A1 Yu,Philip,S.
+A1 Liu,Ling
+YR 2004
+T1 Motion adaptive indexing for moving continual queries over moving objects
+SP 427
+OP 436
+
+RT Conference Proceedings
+ID 1887246
+A1 Wu,Kun-lung
+A1 Chen,Shyh-kwei
+A1 Yu,Philip,S.
+YR 2004
+T1 Processing Continual Range Queries over Moving Objects Using VCR-Based Query Indexes
+SP 226
+OP 235
+
+RT Conference Proceedings
+ID 1842813
+A1 Wang,Haixun
+A1 Chu,Fang
+A1 Fan,Wei
+A1 Yu,Philip,S.
+A1 Pei,Jian
+YR 2004
+T1 A Fast Algorithm for Subspace Clustering by Pattern Similarity
+SP 51
+
+RT Journal Article
+ID 46279
+A1 Yang,Jiong
+A1 Wang,Wei
+A1 YU,Philips,S.
+YR 2004
+T1 Discovering High-Order Periodic Patterns
+JF Knowledge and Information Systems
+VO 6
+SP 243
+OP 268
+IS 3
+
+RT Conference Proceedings
+ID 1778686
+A1 Teng,Wei-guang
+A1 Chen,Ming-syan
+A1 Yu,Philip,S.
+YR 2004
+T1 Resource-Aware Mining with Variable Granularities in Data Streams
+
+RT Journal Article
+ID 802341
+A1 Yu,Philip,S.
+YR 2004
+T1 Editorial: State of the Transactions
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 16
+SP 1
+OP 1
+IS 1
+
+RT Conference Proceedings
+ID 481394
+A1 Wu,Kun-Lung
+A1 Chen,Shyh-Kwei
+A1 Yu,Philip,S.
+YR 2004
+T1 VCR indexing for fast event matching for highly-overlapping range predicates
+SP 740
+OP 747
+
+RT Journal Article
+ID 2178555
+A1 Yang,Jiong
+A1 Wang,Wei
+A1 Yu,Philip,S.
+YR 2004
+T1 Mining Surprising Periodic Patterns
+JF Data Mining and Knowledge Discovery
+VO 9
+SP 189
+OP 216
+IS 2
+
+RT Conference Proceedings
+ID 1845881
+A1 Andreolini,Mauro
+A1 Lancellotti,Riccardo
+A1 Yu,Philip,S.
+YR 2004
+T1 Analysis of Peer-to-Peer Systems: Workload Characterization and Effects on Traffic Cacheability
+SP 95
+OP 104
+
+RT Conference Proceedings
+ID 1923836
+A1 Wu,Kun-Lung
+A1 Chen,Shyh-Kwei
+A1 Yu,Philip,S.
+A1 Mei,Mark
+YR 2004
+T1 Efficient interval indexing for content-based subscription e-commerce and e-service
+
+RT Conference Proceedings
+ID 694326
+A1 Wu,Kun-lung
+A1 Chen,Shyh-kwei
+A1 Yu,Philip,S.
+YR 2004
+T1 Indexing Continual Range Queries for Location-Aware Mobile Services
+SP 233
+OP 240
+
+RT Book, Whole
+ID 511056
+A1 Fan,Wei
+A1 Yu,Philip,S.
+A1 Wang,Haixun
+YR 2004
+T1 Mining Extremely Skewed Trading Anomalies
+SP 801
+OP 810
+
+RT Conference Proceedings
+ID 1796880
+A1 Fan,Wei
+A1 Huang,Yi-an
+A1 Yu,Philip,S.
+YR 2004
+T1 Decision Tree Evolution Using Limited Number of Labeled Data Items from Drifting Data Streams
+SP 379
+OP 382
+
+RT Conference Proceedings
+ID 4214302
+A1 Aggarwal,C.,C.
+A1 Han,J.
+A1 Wang,J.
+A1 Yu,P.,S.
+YR 2004
+T1 On - demand classification of evolving data streams
+
+RT Journal Article
+ID 803250
+A1 Yu,Philip,S.
+YR 2004
+T1 EIC Editorial
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 16
+SP 289
+OP 291
+IS 3
+
+RT Conference Proceedings
+ID 1851438
+A1 Wu,Kun-lung
+A1 Chen,Shyh-kwei
+A1 Yu,Philip,S.
+YR 2004
+T1 Indexing Continual Range Queries with Covering Tiles for Fast Locating of Moving Objects
+SP 470
+OP 475
+
+RT Conference Proceedings
+ID 1857343
+A1 Wu,Kun-lung
+A1 Chen,Shyh-kwei
+A1 Yu,Philip,S.
+YR 2004
+T1 Shingle-Based Query Indexing for Location-Based Mobile E-Commerce
+SP 16
+OP 23
+
+RT Journal Article
+ID 58811241
+A1 Meier,Daniel
+A1 Spurrell,Chris
+A1 Alcantara,Chris
+A1 Francis,William
+A1 Gorski,Alan
+A1 Yu,Philip
+YR 2004
+T1 Unique Chemistry And Control Technology Merge To Improve Cooling Water Performance And Control
+
+RT Conference Proceedings
+ID 13258950
+A1 Das,Gautam
+A1 Liu,Bing
+A1 Yu,Philip,S.
+YR 2004
+T1 Proceedings of the 9th ACM SIGMOD Workshop on Research Issues in Data Mining and Knowledge Discovery, DMKD 2004, Paris, France, June 13, 2004
+
+RT Conference Proceedings
+ID 50361414
+A1 Wang,Haixun
+A1 Chu,Fang
+A1 Fan,Wei
+A1 Yu,Philip,S.
+A1 Pei,Jian
+YR 2004
+T1 A fast algorithm for subspace clustering by pattern similarity
+SP 51
+OP 60
+
+RT Journal Article
+ID 15231887
+A1 Wang,Wei
+A1 Yang,Jiong
+A1 Yu,Philip
+YR 2004
+T1 WAR: Weighted association rules for item intensities
+JF Knowledge and Information Systems
+VO 6
+SP 203
+OP 229
+IS 2
+
+RT Conference Proceedings
+ID 1842816
+A1 Yang,Jiong
+A1 Wang,Wei
+A1 Yu,Philip,S.
+YR 2004
+T1 BASS: Approximate Search on Large String Databases
+SP 181
+
+RT Conference Proceedings
+ID 50361431
+A1 Yang,Jiong
+A1 Wang,Wei
+A1 Yu,Philip
+YR 2004
+T1 BASS: approximate search on large string databases
+SP 181
+OP 190
+
+RT Book, Whole
+ID 587629
+A1 Yu,Philip,S.
+A1 Wu,Kun-lung
+A1 Chen,Shyh-kwei
+YR 2004
+T1 Monitoring Continual Range Queries
+SP 1
+OP 12
+
+RT Journal Article
+ID 51170659
+A1 Yu,P.,S.
+YR 2004
+T1 EIC Editorial
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 16
+SP 1025
+OP 1025
+IS 9
+
+RT Book, Whole
+ID 626851
+A1 Yu,Philip,S.
+YR 2004
+T1 Mining of Evolving Data Streams with Privacy Preservation
+SP 1
+
+RT Conference Proceedings
+ID 24337
+A1 Aggarwal,Charu,C.
+A1 Han,Jiawei
+A1 Wang,Jianyong
+A1 Yu,Philip,S.
+YR 2003
+T1 A framework for clustering evolving data streams
+SP 81
+OP 92
+
+RT Conference Proceedings
+ID 19582
+A1 Wang,Haixun
+A1 Fan,Wei
+A1 Yu,Philip,S.
+A1 Han,Jiawei
+YR 2003
+T1 Mining concept-drifting data streams using ensemble classifiers
+SP 226
+OP 235
+
+RT Conference Proceedings
+ID 35208
+A1 Wang,Haixun
+A1 Park,Sanghyun
+A1 Fan,Wei
+A1 Yu,Philip,S.
+YR 2003
+T1 ViST: a dynamic index method for querying XML data by tree structures
+SP 110
+OP 121
+
+RT Conference Proceedings
+ID 495511
+A1 Yang,Jiong
+A1 Wang,Haixun
+A1 Wang,Wei
+A1 Yu,Philip,S.
+YR 2003
+T1 Enhanced Biclustering on Expression Data
+SP 321
+OP 327
+
+RT Conference Proceedings
+ID 524442
+A1 Liu,Bing
+A1 Dai,Yang
+A1 Li,Xiaoli
+A1 Lee,Wee,Sun
+A1 Yu,Philip,S.
+YR 2003
+T1 Building Text Classifiers Using Positive and Unlabeled Examples
+SP 179
+OP 188
+
+RT Conference Proceedings
+ID 579257
+A1 Teng,Wei-guang
+A1 Chen,Ming-syan
+A1 Yu,Philip,S.
+YR 2003
+T1 A Regression-Based Temporal Pattern Mining Scheme for Data Streams
+SP 93
+OP 104
+
+RT Conference Proceedings
+ID 607307
+A1 Huang,Yi-an
+A1 Fan,Wei
+A1 Lee,Wenke
+A1 Yu,Philip,S.
+YR 2003
+T1 Cross-Feature Analysis for Detecting Ad-Hoc Routing Anomalies
+SP 478
+OP 487
+
+RT Journal Article
+ID 2077033
+A1 Dong,Guozhu
+A1 Han,Jiawei
+A1 Lakshmanan,Laks,V.,S.
+A1 Pei,Jian
+A1 Wang,Haixun
+A1 Yu,Philip,S.
+YR 2003
+T1 Online Mining of Changes from Data Streams: Research Problems and Preliminary Results
+
+RT Journal Article
+ID 802325
+A1 Chen,Ming-syan
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+YR 2003
+T1 Optimizing Index Allocation for Sequential Data Broadcasting in Wireless Mobile Computing
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 15
+SP 161
+OP 173
+IS 1
+
+RT Journal Article
+ID 806105
+A1 Cardellini,Valeria
+A1 Colajanni,Michele
+A1 Yu,Philip,S.
+YR 2003
+T1 Request Redirection Algorithms for Distributed Web Systems
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 14
+SP 355
+OP 368
+IS 4
+
+RT Journal Article
+ID 802726
+A1 Yang,Jiong
+A1 Wang,Wei
+A1 Yu,Philip,S.
+YR 2003
+T1 Mining Asynchronous Periodic Patterns in Time Series Data
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 15
+SP 613
+OP 628
+IS 3
+
+RT Conference Proceedings
+ID 524505
+A1 Pei,Jian
+A1 Zhang,Xiaoling
+A1 Cho,Moonjung
+A1 Wang,Haixun
+A1 Yu,Philip,S.
+YR 2003
+T1 MaPle: A Fast Algorithm for Maximal Pattern-based Clustering
+SP 259
+OP 266
+
+RT Conference Proceedings
+ID 38138
+A1 Wang,Haixun
+A1 Perng,Chang-shing
+A1 Fan,Wei
+A1 Park,Sanghyun
+A1 Yu,Philip,S.
+YR 2003
+T1 Indexing Weighted-Sequences in Large Databases
+SP 63
+OP 74
+
+RT Conference Proceedings
+ID 524527
+A1 Fan,Wei
+A1 Wang,Haixun
+A1 Yu,Philip,S.
+A1 Ma,Sheng
+YR 2003
+T1 Is random model better? On its accuracy and efficiency
+SP 51
+OP 58
+
+RT Conference Proceedings
+ID 618236
+A1 Buco,Melissa,J.
+A1 Chang,Rong,N.
+A1 Luan,Laura,Z.
+A1 Ward,Christopher
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+A1 Kosar,Tevfik
+A1 Shah,Syed,Umair,Ahmed
+YR 2003
+T1 Managing eBusiness on Demand SLA Contracts in Business Terms Using the Cross-SLA Execution Manager SAM
+SP 157
+
+RT Journal Article
+ID 39062
+A1 Liu,Bing
+A1 Ma,Yiming
+A1 Wong,Ching,Kian
+A1 Yu,Philip,S.
+YR 2003
+T1 Scoring the Data Using Association Rules
+JF Applied Intelligence
+VO 18
+SP 119
+OP 135
+IS 2
+
+RT Journal Article
+ID 794478
+A1 Wu,Xindong
+A1 Yu,Philip,S.
+A1 Piatetsky-shapiro,Gregory
+YR 2003
+T1 Data Mining: How Research Meets Practical Development?
+JF Knowledge and Information Systems
+VO 5
+SP 248
+OP 261
+IS 2
+
+RT Conference Proceedings
+ID 607150
+A1 Riabov,Anton
+A1 Liu,Zhen
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+A1 Zhang,Li
+YR 2003
+T1 New Algorithms for Content-Based Publication-Subscription Systems
+SP 678
+OP 686
+
+RT Conference Proceedings
+ID 32704
+A1 Fan,Wei
+A1 Wang,Haixun
+A1 Yu,Philip,S.
+A1 Lo,Shaw-hwa
+YR 2003
+T1 Inductive Learning in Less Than One Sequential Data Scan
+SP 595
+OP 600
+
+RT Conference Proceedings
+ID 474033
+A1 Salerno,John,J.
+A1 Yu,Philip,S.
+YR 2003
+T1 Applying data mining in investigating money laundering crimes
+SP 747
+OP 752
+
+RT Conference Proceedings
+ID 2563598
+A1 Cardellini,Valeria
+A1 Colajanni,Michele
+A1 Lancellotti,Riccardo
+A1 Yu,Philip,S.
+YR 2003
+T1 A distributed architecture of edge proxy servers for cooperative transcoding
+SP 66
+OP 70
+
+RT Conference Proceedings
+ID 26771
+A1 Yang,Jiong
+A1 Wang,Wei
+A1 Yu,Philip,S.
+YR 2003
+T1 STAMP: On Discovery of Statistically Important Pattern Repeats in Long Sequential Data
+
+RT Conference Proceedings
+ID 3036370
+A1 Yang,J.
+A1 Wang,H.
+A1 Wang,W.
+A1 Yu,P.,S.
+YR 2003
+T1 Enhanced Biclustering on Gene Expression data
+
+RT Journal Article
+ID 729462
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+YR 2003
+T1 Replication for Load Balancing and Hot-Spot Relief on Proxy Web Caches with Hash Routing
+JF Distributed and Parallel Databases
+VO 13
+SP 203
+OP 220
+IS 2
+
+RT Journal Article
+ID 15231868
+A1 Wu,Xindong
+A1 Yu,Philip,S.
+A1 Piatetsky-Shapiro,Gregory
+A1 Cercone,Nick
+A1 Lin,T.,Y.
+A1 Kotagiri,Ramamohanarao
+A1 Wah,Benjamin,W.
+YR 2003
+T1 Data Mining: How Research Meets Practical Development?
+JF Knowledge and Information Systems
+VO 5
+SP 248
+OP 261
+IS 2
+
+RT Journal Article
+ID 771063
+A1 Tan,Ah-hwee
+A1 Yu,Philip,S.
+YR 2003
+T1 Guest Editorial: Text and Web Mining
+JF Applied Intelligence
+VO 18
+SP 239
+OP 241
+IS 3
+
+RT Journal Article
+ID 15227802
+A1 Liu,Bing
+A1 Ma,Yiming
+A1 Wong,Ching,Kian
+A1 Yu,Philip,S.
+YR 2003
+T1 Scoring the Data Using Association Rules
+JF Applied Intelligence
+VO 18
+SP 119
+OP 135
+IS 2
+
+RT Conference Proceedings
+ID 4070767
+A1 Wang,H.
+A1 Fan,W.
+A1 Yu,P.,S.
+YR 2003
+T1 Vist: Virtual Suffix Tree for XML Indexing
+
+RT Journal Article
+ID 58810780
+A1 Hatch,Steven,R.
+A1 Willer,Michael
+A1 Yu,Philip
+A1 Borchardt,Scott
+A1 Stonecipher,David
+YR 2003
+T1 Real World Experiences With a New Cooling Water Automation System
+
+RT Conference Proceedings
+ID 1781964
+A1 Canali,Claudia
+A1 Cardellini,Valeria
+A1 Colajanni,Michele
+A1 Lancellotti,Riccardo
+A1 Yu,Philip,S.
+YR 2003
+T1 Cooperative TransCaching: A System of Distributed Proxy Servers for Web Content Adaptation
+
+RT Journal Article
+ID 802281
+A1 Yu,Philip,S.
+YR 2003
+T1 Editorial: New AE Introduction
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 15
+SP 1
+IS 1
+
+RT Journal Article
+ID 802445
+A1 Yu,Philip,S.
+YR 2003
+T1 Editorial: AE Introduction
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 15
+SP 1057
+OP 1058
+IS 5
+
+RT Journal Article
+ID 15227808
+A1 Tan,Ah-Hwee
+A1 Yu,Philip,S.
+YR 2003
+T1 Guest Editorial: Text and Web Mining
+JF Applied Intelligence
+VO 18
+SP 239
+OP 241
+IS 3
+
+RT Journal Article
+ID 54629921
+A1 Chen,M.-T.
+A1 Huang,C.-C.
+A1 Yu,P.-S.
+YR 2003
+T1 Hydrographic estimates for developing East Asian monsoon proxies in IMAGES South China Sea studies
+VO 67
+SP 60
+
+RT Journal Article
+ID 781593
+A1 Cardellini,Valeria
+A1 Casalicchio,Emiliano
+A1 Colajanni,Michele
+A1 Yu,Philip,S.
+YR 2002
+T1 The state of the art in locally distributed Web-server systems
+JF ACM Computing Surveys
+VO 34
+SP 263
+OP 311
+IS 2
+
+RT Journal Article
+ID 2028481
+A1 Giannella,Chris
+A1 Han,Jiawei
+A1 Pei,Jian
+A1 Yan,Xifeng
+A1 Yu,Philip,S.
+YR 2002
+T1 Mining Frequent Patterns in Data Streams at Multiple Time Granularities
+
+RT Conference Proceedings
+ID 43880
+A1 Wang,Haixun
+A1 Wang,Wei
+A1 Yang,Jiong
+A1 Yu,Philip,S.
+YR 2002
+T1 Clustering by pattern similarity in large data sets
+SP 394
+OP 405
+
+RT Conference Proceedings
+ID 522287
+A1 Yang,Jiong
+A1 Wang,Wei
+A1 Wang,Haixun
+A1 Yu,Philip,S.
+YR 2002
+T1 d-Clusters: Capturing Subspace Correlation in a Large Data Set
+SP 517
+OP 528
+
+RT Conference Proceedings
+ID 5522
+A1 Liu,Bing
+A1 Lee,Wee,Sun
+A1 Yu,Philip,S.
+A1 Li,Xiaoli
+YR 2002
+T1 Partially Supervised Classification of Text Documents
+SP 387
+OP 394
+
+RT Conference Proceedings
+ID 43962
+A1 Yang,Jiong
+A1 Wang,Wei
+A1 Yu,Philip,S.
+A1 Han,Jiawei
+YR 2002
+T1 Mining long sequential patterns in a noisy environment
+SP 406
+OP 417
+
+RT Conference Proceedings
+ID 489337
+A1 Wolf,Joel,L.
+A1 Squillante,Mark,S.
+A1 Yu,Philip,S.
+A1 Sethuraman,Jay
+A1 Ozsen,L.
+YR 2002
+T1 Optimal crawling strategies for web search engines
+SP 136
+OP 147
+
+RT Journal Article
+ID 802781
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2002
+T1 Redefining Clustering for High-Dimensional Applications
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 14
+SP 210
+OP 225
+IS 2
+
+RT Conference Proceedings
+ID 4360
+A1 Riabov,Anton
+A1 Liu,Zhen
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+A1 Zhang,Li
+YR 2002
+T1 Clustering Algorithms for Content-Based Publication-Subscription Systems
+SP 133
+OP 42
+
+RT Journal Article
+ID 426141
+A1 Aggarwal,Charu,C.
+A1 Procopiuc,Cecilia,Magdalena
+A1 Yu,Philip,S.
+YR 2002
+T1 Finding Localized Associations in Market Basket Data
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 14
+SP 51
+OP 62
+IS 1
+
+RT Conference Proceedings
+ID 482229
+A1 Fan,Wei
+A1 Wang,Haixun
+A1 Yu,Philip,S.
+A1 Stolfo,Salvatore,J.
+YR 2002
+T1 A Framework for Scalable Cost-sensitive Learning Based on Combing Probabilities and Benefits
+
+RT Journal Article
+ID 802366
+A1 Colajanni,Michele
+A1 Yu,Philip,S.
+YR 2002
+T1 A Performance Study of Robust Load Sharing Strategies for Distributed Heterogeneous Web Server Systems
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 14
+SP 398
+OP 414
+IS 2
+
+RT Conference Proceedings
+ID 491800
+A1 Fan,Wei
+A1 Chu,Fang
+A1 Wang,Haixun
+A1 Yu,Philip,S.
+YR 2002
+T1 Pruning and Dynamic Scheduling of Cost-Sensitive Ensembles
+SP 146
+OP 151
+
+RT Conference Proceedings
+ID 499437
+A1 Wu,Kun-Lung
+A1 Yu,Philip,S.
+YR 2002
+T1 Efficient query monitoring using adaptive multiple key hashing
+SP 477
+OP 484
+
+RT Conference Proceedings
+ID 35193
+A1 Fan,Wei
+A1 Wang,Haixun
+A1 Yu,Philip,S.
+A1 Lo,Shaw-hwa
+A1 Stolfo,Salvatore,J.
+YR 2002
+T1 Progressive Modeling
+SP 163
+OP 170
+
+RT Conference Proceedings
+ID 44376
+A1 Yang,Jiong
+A1 Wang,Wei
+A1 Yu,Philip,S.
+YR 2002
+T1 InfoMiner+: Mining Partial Periodic Patterns with Gap Penalties
+SP 725
+OP 728
+
+RT Conference Proceedings
+ID 27563
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2002
+T1 An Automated System for Web Portal Personalization
+SP 1031
+OP 1040
+
+RT Conference Proceedings
+ID 25670
+A1 Lin,Cheng-Ru
+A1 Lee,Chang-Hung
+A1 Chen,Ming-Syan
+A1 Yu,Philip,S.
+YR 2002
+T1 Distributed data mining in a chain store database of short transactions
+SP 576
+OP 581
+
+RT Journal Article
+ID 802916
+A1 Aggarwal,Charu,C.
+A1 Sun,Zheng
+A1 Yu,Philip,S.
+YR 2002
+T1 Fast Algorithms for Online Generation of Profile Association Rules
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 14
+SP 1017
+OP 1028
+IS 5
+
+RT Conference Proceedings
+ID 34620
+A1 Wang,Haixun
+A1 Perng,Chang-shing
+A1 Ma,Sheng
+A1 Yu,Philip,S.
+YR 2002
+T1 Mining Associations by Pattern Structure in Large Relational Tables
+SP 482
+OP 489
+
+RT Conference Proceedings
+ID 607717
+A1 Fan,Wei
+A1 Wang,Haixun
+A1 Yu,Philip,S.
+A1 Stolfo,Salvatore,J.
+YR 2002
+T1 A Fully Distributed Framework for Cost-Sensitive Data Mining
+SP 445
+OP 446
+
+RT Conference Proceedings
+ID 46056
+A1 Yang,Jiong
+A1 Wang,Wei
+A1 Xia,Yi
+A1 Yu,Philip,S.
+YR 2002
+T1 Accelerating Approximate Subsequence Search on Large Protein Sequence Databases
+SP 207
+
+RT Journal Article
+ID 780752
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+YR 2002
+T1 Controlled replication for hash routing-based web caching
+JF Computer Systems: Science & Engineering
+VO 17
+SP 293
+OP 302
+IS 4/5
+
+RT Journal Article
+ID 50281213
+A1 Wang,Haixun
+A1 Perng,Chang-Shing
+A1 Fan,Wei
+A1 Yu,P.,S.
+YR 2002
+T1 An index structure for pattern similarity searching in DNA microarray data
+
+RT Journal Article
+ID 752194
+A1 Aggarwal,Charu,C.
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+YR 2002
+T1 Adaptive Piggybacking Schemes for Video-On-Demand Systems
+JF Multimedia Tools and Applications
+VO 16
+SP 231
+OP 250
+IS 3
+
+RT Conference Proceedings
+ID 672964
+A1 Wu,Kun-lung
+A1 Chen,Shyh-kwei
+A1 Yu,Philip,S.
+YR 2002
+T1 Dynamic Refinement of Table Summarization or M-Commerce
+SP 179
+OP 186
+
+RT Conference Proceedings
+ID 482196
+A1 Xia,Yi
+A1 Wang,Wei
+A1 Yang,Jiong
+A1 Yu,Philip,S.
+A1 Muntz,Richard,R.
+YR 2002
+T1 Efficient Filtering of Large DatasetA User-Centric Paradigm
+
+RT Journal Article
+ID 15225214
+A1 Aggarwal,Charu,C.
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+YR 2002
+T1 Adaptive Piggybacking Schemes for Video-On-Demand Systems
+JF Multimedia Tools and Applications
+VO 16
+SP 231
+OP 250
+IS 3
+
+RT Conference Proceedings
+ID 13300560
+A1 Cheng,Ming-Shan
+A1 Yu,Philip,S.
+A1 Liu,Bing
+YR 2002
+T1 Advances in Knowledge Discovery and Data Mining, 6th Pacific-Asia Conference, PAKDD 2002, Taipei, Taiwan, May 6-8, 2002, Proceedings
+
+RT Conference Proceedings
+ID 482209
+A1 Lee,Chang-hung
+A1 Yu,Philip,S.
+A1 Chen,Ming-syan
+YR 2002
+T1 Mining Relationship between Triggering and Consequential Events in a Short Transaction Database
+
+RT Conference Proceedings
+ID 457973
+A1 Wang,Haixun
+A1 Perng,Chang-shing
+A1 Fan,Wei
+A1 Yu,Philip,S.
+YR 2002
+T1 An Index Structure for Pattern Similarity Searching in DNA Microarray Dat
+SP 256
+OP 267
+
+RT Journal Article
+ID 802444
+A1 Yu,Philip,S.
+YR 2002
+T1 Introducing the New AEs
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 14
+SP 929
+IS 5
+
+RT Journal Article
+ID 93527
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2001
+T1 Outlier detection for high dimensional data
+JF Sigmod Record
+VO 30
+SP 37
+OP 46
+IS 2
+
+RT Conference Proceedings
+ID 128485
+A1 Wu,Kun-Lung
+A1 Yu,Philip,S.
+A1 Wolf,Joel,L.
+YR 2001
+T1 Segment-based proxy caching of multimedia streams
+SP 36
+OP 44
+
+RT Conference Proceedings
+ID 489299
+A1 Aggarwal,Charu,C.
+A1 Al-Garawi,Fatima
+A1 Yu,Philip,S.
+YR 2001
+T1 Intelligent crawling on the World Wide Web with arbitrary predicates
+SP 96
+OP 105
+
+RT Journal Article
+ID 715739
+A1 Aggarwal,Charu,C.
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+YR 2001
+T1 The Maximum Factor Queue Length Batching Scheme for Video-on-Demand Systems
+JF IEEE Transactions on Computers
+VO 50
+SP 97
+OP 110
+IS 2
+
+RT Journal Article
+ID 802780
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2001
+T1 A New Approach to Online Generation of Association Rules
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 13
+SP 527
+OP 540
+IS 4
+
+RT Conference Proceedings
+ID 124108
+A1 Liu,Bing
+A1 Ma,Yiming
+A1 Yu,Philip,S.
+YR 2001
+T1 Discovering unexpected information from your competitors' web sites
+SP 144
+OP 153
+
+RT Conference Proceedings
+ID 45839
+A1 Yang,Jiong
+A1 Wang,Wei
+A1 Yu,Philip,S.
+YR 2001
+T1 Infominer: mining surprising periodic patterns
+SP 395
+OP 400
+
+RT Journal Article
+ID 804417
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+YR 2001
+T1 On balancing the load in a clustered web farm
+JF ACM Transactions on Internet Technology
+VO 1
+SP 231
+OP 261
+IS 2
+
+RT Journal Article
+ID 804295
+A1 Aggarwal,Charu,C.
+A1 Al-Garawi,Fatima
+A1 Yu,Philip,S.
+YR 2001
+T1 On the design of a learning crawler for topical resource discovery
+JF ACM Transactions on Information Systems
+VO 19
+SP 286
+OP 309
+IS 3
+
+RT Journal Article
+ID 803107
+A1 Wolf,Joel,L.
+A1 Squillante,Mark,S.
+A1 Turek,John,J.
+A1 Yu,Philip,S.
+A1 Sethuraman,Jay
+YR 2001
+T1 Scheduling Algorithms for the Broadcast Delivery of Digital Products
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 13
+SP 721
+OP 741
+IS 5
+
+RT Conference Proceedings
+ID 44063
+A1 Wang,Wei
+A1 Yang,Jiong
+A1 Yu,Philip,S.
+YR 2001
+T1 Meta-patterns: Revealing Hidden Periodic Patterns
+SP 550
+OP 557
+
+RT Conference Proceedings
+ID 3567172
+A1 Wu,Kun-Lung
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2001
+T1 Personalization with Dynamic Profiler
+
+RT Conference Proceedings
+ID 88257
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2001
+T1 On Effective Conceptual Indexing and Similarity Search in Text Data
+SP 3
+OP 10
+
+RT Conference Proceedings
+ID 524281
+A1 Wang,Haixun
+A1 Yu,Philip,S.
+YR 2001
+T1 SSDT: A Scalable Subspace-Splitting Classifier for Biased Data
+SP 542
+OP 549
+
+RT Journal Article
+ID 802917
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2001
+T1 Mining Associations with the Collective Strength Approach
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 13
+SP 863
+OP 873
+IS 6
+
+RT Conference Proceedings
+ID 499627
+A1 Kim,Sang-Wook
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2001
+T1 Effective nearest neighbor indexing with the euclidean metric
+SP 9
+OP 16
+
+RT Journal Article
+ID 859050
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+YR 2001
+T1 Load balancing for clustered web farms
+JF Sigmetrics Performance Evaluation Review
+VO 28
+SP 11
+OP 13
+IS 4
+
+RT Journal Article
+ID 39217269
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2001
+T1 Outlier detection for high dimensional data
+JF Sigmod Record
+SP 37
+OP 46
+
+RT Journal Article
+ID 780768
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+A1 Teng,James,Z.
+YR 2001
+T1 Thrashing control and avoidance for concurrent mergesorts using parallel prefetching
+JF Computer Systems: Science & Engineering
+VO 16
+SP 349
+OP 359
+IS 6
+
+RT Journal Article
+ID 57393839
+A1 Wu,Kun-Lung
+A1 Yu,Philip,S.
+A1 Wolf,Joel,L.
+YR 2001
+T1 Segment-based proxy caching of multimedia streams
+
+RT Journal Article
+ID 802443
+A1 Yu,Philip,S.
+YR 2001
+T1 Editorial: Introducing the New AEs
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 13
+SP 393
+OP 394
+IS 3
+
+RT Journal Article
+ID 98310
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2000
+T1 Finding Generalized Projected Clusters In High Dimensional Spaces
+JF Sigmod Record
+VO 29
+SP 70
+OP 81
+IS 2
+
+RT Conference Proceedings
+ID 44820
+A1 Yang,Jiong
+A1 Wang,Wei
+A1 Yu,Philip,S.
+YR 2000
+T1 Mining asynchronous periodic patterns in time series data
+SP 275
+OP 279
+
+RT Conference Proceedings
+ID 87494
+A1 Wang,Wei
+A1 Yang,Jiong
+A1 Yu,Philip,S.
+YR 2000
+T1 Efficient mining of weighted association rules (WAR)
+SP 270
+OP 274
+
+RT Conference Proceedings
+ID 217568
+A1 Liu,Bing
+A1 Xia,Yiyuan
+A1 Yu,Philip,S.
+YR 2000
+T1 Clustering through decision tree construction
+SP 20
+OP 29
+
+RT Conference Proceedings
+ID 209084
+A1 Cardellini,Valeria
+A1 Colajanni,Michele
+A1 Yu,Philip,S.
+YR 2000
+T1 Geographic Load Balancing for Scalable Distributed Web Systems
+SP 20
+OP 27
+
+RT Conference Proceedings
+ID 131250
+A1 Cardellini,Valeria
+A1 Yu,Philip,S.
+A1 Huang,Yun-Wu
+YR 2000
+T1 Collaborative proxy system for distributed Web content transcoding
+SP 520
+OP 527
+
+RT Conference Proceedings
+ID 103727
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2000
+T1 The IGrid index: reversing the dimensionality curse for similarity indexing in high dimensional space
+SP 119
+OP 129
+
+RT Journal Article
+ID 779019
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2000
+T1 Data Mining Techniques for Personalization
+JF IEEE Data(base) Engineering Bulletin
+VO 23
+SP 4
+OP 9
+IS 1
+
+RT Conference Proceedings
+ID 473907
+A1 Ma,Yiming
+A1 Liu,Bing
+A1 Wong,Ching,Kian
+A1 Yu,Philip,S.
+A1 Lee,Shuik,Ming
+YR 2000
+T1 Targeting the right students using data mining
+SP 457
+OP 464
+
+RT Journal Article
+ID 703749
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+YR 2000
+T1 Latency-sensitive hashing for collaborative Web caching
+JF Computer Networks
+VO 33
+SP 633
+OP 644
+IS 1-6
+
+RT Conference Proceedings
+ID 611998
+A1 Huang,Yun-wu
+A1 Yu,Philip,S.
+YR 2000
+T1 Lightweight Version Vectors for Pervasive Computing Devices
+SP 43
+OP 48
+
+RT Journal Article
+ID 40864
+A1 Wang,Wei
+A1 Yang,Jiong
+A1 Yu,Philip,S.
+YR 2000
+T1 Mining patterns in long sequential data with noise
+JF Sigkdd Explorations
+VO 2
+SP 28
+OP 33
+IS 2
+
+RT Conference Proceedings
+ID 656248
+A1 Aggarwal,Charu,C.
+A1 Wolf,Joel,L.
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+YR 2000
+T1 The Intelligent Recommendation Analyzer
+
+RT Conference Proceedings
+ID 607100
+A1 Lo,Ming-ling
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+YR 2000
+T1 TabSum: A Flexible and Dynamic Table Summarization Approach
+SP 628
+OP 635
+
+RT Journal Article
+ID 4125659
+A1 Cardellini,V.
+A1 Yu,P.,S.
+YR 2000
+T1 Collaborative proxy system for distributed web content A WAP - BASED, PUSH - ENABLED MOBILE INTERNET APPLICATION PLATFORM 1293 transcoding
+
+RT Conference Proceedings
+ID 903032
+A1 Lakshmi,M.,Seetha
+A1 Yu,P.,S.
+YR 2000
+T1 Effect of skew on join performance in parallel architectures
+
+RT Journal Article
+ID 729501
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+A1 Chung,Jen-yao
+A1 Teng,James,Z.
+YR 2000
+T1 Workfile Disk Management for Concurrent Mergesorts in a Multiprocessor Database System
+JF Distributed and Parallel Databases
+VO 8
+SP 279
+OP 296
+IS 3
+
+RT Journal Article
+ID 39217231
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 2000
+T1 Finding generalized projected clusters in high dimensional spaces
+JF Sigmod Record
+SP 70
+OP 81
+
+RT Journal Article
+ID 854387
+A1 Wu,Kun-Lung
+A1 Yu,Philip,S.
+YR 2000
+T1 Report on second international workshop on advanced issues of E-commerce and Web-based information systems
+JF Sigmod Record
+VO 29
+SP 19
+OP 23
+IS 3
+
+RT Journal Article
+ID 667261
+A1 Aggarwal,Charu,C.
+A1 Procopiuc,Cecilia,Magdalena
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+A1 Park,Jong,Soo
+YR 1999
+T1 Fast Algorithms for Projected Clustering
+JF Sigmod Record
+VO 28
+SP 61
+OP 72
+IS 2
+
+RT Journal Article
+ID 861475
+A1 Cardellini,Valeria
+A1 Colajanni,Michele
+A1 Yu,Philip,S.
+YR 1999
+T1 Dynamic Load Balancing on Web-Server Systems
+JF IEEE Internet Computing
+VO 3
+SP 28
+OP 39
+IS 3
+
+RT Conference Proceedings
+ID 107804
+A1 Aggarwal,Charu,C.
+A1 Wolf,Joel,L.
+A1 Wu,Kun-Lung
+A1 Yu,Philip,S.
+YR 1999
+T1 Horting hatches an egg: a new graph-theoretic approach to collaborative filtering
+SP 201
+OP 212
+
+RT Journal Article
+ID 170782
+A1 Aggarwal,Charu,C.
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+YR 1999
+T1 Caching on the World Wide Web
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 11
+SP 95
+OP 107
+IS 1
+
+RT Conference Proceedings
+ID 94223
+A1 Aggarwal,Charu,C.
+A1 Gates,Stephen,C.
+A1 Yu,Philip,S.
+YR 1999
+T1 On the merits of building categorization systems by supervised clustering
+SP 352
+OP 356
+
+RT Conference Proceedings
+ID 473981
+A1 Huang,Yun-Wu
+A1 Yu,Philip,S.
+YR 1999
+T1 Adaptive query processing for time-series data
+SP 282
+OP 286
+
+RT Conference Proceedings
+ID 607711
+A1 Cardellini,Valeria
+A1 Colajanni,Michele
+A1 Yu,Philip,S.
+YR 1999
+T1 Redirection Algorithms for Load Sharing in Distributed Web-server Systems
+SP 528
+OP 535
+
+RT Journal Article
+ID 768371
+A1 Cardellini,Valeria
+A1 Colajanni,Michele
+A1 Yu,Philip,S.
+YR 1999
+T1 DNS Dispatching Algorithms with State Estimators for Scalable Web-Server Clusters
+JF World Wide Web
+VO 2
+SP 101
+OP 113
+IS 3
+
+RT Journal Article
+ID 94381
+A1 Aggarwal,Charu,C.
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+YR 1999
+T1 A New Method for Similarity Indexing of Market Basket Data
+JF Sigmod Record
+VO 28
+SP 407
+OP 418
+IS 2
+
+RT Conference Proceedings
+ID 647836
+A1 Yu,Philip,S.
+YR 1999
+T1 Data Mining and Personalization Technologies
+SP 6
+OP 13
+
+RT Conference Proceedings
+ID 1385497
+A1 Aggarwal,C.,C.
+A1 Gates,S.,C.
+A1 Yu,P.,S.
+YR 1999
+T1 On the merits of using supervised clustering for building categorization systems
+
+RT Book, Whole
+ID 626690
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 1999
+T1 Data Mining Techniques for Associations, Clustering and Classification
+SP 13
+OP 23
+
+RT Journal Article
+ID 751549
+A1 Aggarwal,Charu,C.
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+YR 1999
+T1 Design and Analysis of Permutation-Based Pyramid Broadcasting
+JF Multimedia Systems
+VO 7
+SP 439
+OP 448
+IS 6
+
+RT Conference Proceedings
+ID 607042
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+YR 1999
+T1 Load Balancing and Hot Spot Relief for Hash Routing among a Collection of Proxy Caches
+SP 536
+OP 543
+
+RT Book, Whole
+ID 637702
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 1999
+T1 On Text Mining Techniques for Personalization
+SP 12
+OP 18
+
+RT Conference Proceedings
+ID 1775941
+A1 Aggarwal,Charu,C.
+A1 Squillante,Mark,S.
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+A1 Sethuraman,Jay
+YR 1999
+T1 Optimizing Profits in the Broadcast Delivery of Multimedia Products
+SP 88
+OP 95
+
+RT Journal Article
+ID 794452
+A1 Aggarwal,Charu,C.
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+A1 Epelman,Marina
+YR 1999
+T1 Using Unbalanced Trees for Indexing Multidimensional Objects
+JF Knowledge and Information Systems
+VO 1
+SP 157
+OP 192
+IS 3
+
+RT Journal Article
+ID 39217166
+A1 Aggarwal,Charu,C.
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+A1 Procopiuc,Cecilia
+A1 Park,Jong,Soo
+YR 1999
+T1 Fast algorithms for projected clustering
+JF Sigmod Record
+SP 61
+OP 72
+
+RT Journal Article
+ID 2991568
+A1 Cardellini,V.
+A1 Colajanni,M.
+A1 Yu,P.,S.
+YR 1999
+T1 Dynamic load balancing on web systems
+JF IEEE Internet Computing
+
+RT Journal Article
+ID 794406
+A1 Li,Chung-sheng
+A1 Yu,Philip,S.
+A1 Castelli,Vittorio
+YR 1999
+T1 Scan: A Hierarchical Algorithm for Similarity Search in Databases Consisting of Long Sequences
+JF Knowledge and Information Systems
+VO 1
+SP 229
+OP 256
+IS 2
+
+RT Conference Proceedings
+ID 499438
+A1 Wu,Kun-Lung
+A1 Yu,Philip,S.
+YR 1999
+T1 Local replication for proxy web caches with hash routing
+SP 69
+OP 76
+
+RT Journal Article
+ID 39217190
+A1 Aggarwal,Charu,C.
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+YR 1999
+T1 A new method for similarity indexing of market basket data
+JF Sigmod Record
+SP 407
+OP 418
+
+RT Journal Article
+ID 794420
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+A1 Teng,James,Z.
+YR 1999
+T1 Run Placement Policies for Concurrent Mergesorts Using Parallel Prefetching
+JF Knowledge and Information Systems
+VO 1
+SP 435
+OP 457
+IS 4
+
+RT Journal Article
+ID 15240412
+A1 Cardellini,Valeria
+A1 Colajanni,Michele
+A1 Yu,Philip,S.
+YR 1999
+T1 DNS dispatching algorithms with state estimators for scalable Web‐server clusters
+JF World Wide Web
+VO 2
+SP 101
+OP 113
+IS 3
+
+RT Conference Proceedings
+ID 628777
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+YR 1999
+T1 Replication Issues on Proxy Cache Array
+SP 836
+OP 842
+
+RT Journal Article
+ID 705918
+A1 Yu,Philip,S.
+YR 1999
+T1 Review - Mining Association Rules between Sets of Items in Large Databases
+JF ACM Sigmod Digital Review
+VO 1
+
+RT Journal Article
+ID 328176
+A1 Chen,Ming-syan
+A1 Park,Jong,Soo
+A1 Yu,Philip,S.
+YR 1998
+T1 Efficient Data Mining for Path Traversal Patterns
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 10
+SP 209
+OP 221
+IS 2
+
+RT Conference Proceedings
+ID 92577
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 1998
+T1 Online Generation of Association Rules
+SP 402
+OP 411
+
+RT Journal Article
+ID 340127
+A1 Colajanni,Michele
+A1 Yu,Philip,S.
+A1 Dias,Daniel,M.
+YR 1998
+T1 Analysis of Task Assignment Policies in Scalable Distributed Web-Server Systems
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 9
+SP 585
+OP 600
+IS 6
+
+RT Conference Proceedings
+ID 89925
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 1998
+T1 A new framework for itemset generation
+SP 18
+OP 24
+
+RT Conference Proceedings
+ID 354067
+A1 Colajanni,Michele
+A1 Yu,Philip,S.
+A1 Cardellini,Valeria
+YR 1998
+T1 Dynamic Load Balancing in Geographically Distributed Heterogeneous Web Servers
+SP 295
+OP 302
+
+RT Journal Article
+ID 821792
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+A1 Ballman,Allen
+YR 1998
+T1 SpeedTracer: A Web Usage Mining and Analysis Tool
+JF Ibm Systems Journal
+VO 37
+SP 89
+OP 105
+IS 1
+
+RT Journal Article
+ID 703763
+A1 Yu,Philip,S.
+A1 Macnair,Edward,A.
+YR 1998
+T1 Performance Study of a Collaborative Method for Hierarchical Caching in Proxy Servers
+JF Computer Networks and Isdn Systems
+VO 30
+SP 215
+OP 224
+IS 1-7
+
+RT Conference Proceedings
+ID 499468
+A1 Li,Chung-Sheng
+A1 Yu,Philip,S.
+A1 Castelli,Vittorio
+YR 1998
+T1 MALM: a framework for mining sequence database at multiple abstraction levels
+SP 267
+OP 272
+
+RT Journal Article
+ID 356531
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 1998
+T1 Mining Large Itemsets for Association Rules
+JF IEEE Data(base) Engineering Bulletin
+VO 21
+SP 23
+OP 31
+IS 1
+
+RT Book, Whole
+ID 545408
+A1 Aggarwal,Charu,C.
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+YR 1998
+T1 A Framework for the Optimizing of WWW Advertising
+SP 1
+OP 10
+
+RT Journal Article
+ID 811318
+A1 Schwiegelshohn,Uwe
+A1 Ludwig,Walter
+A1 Wolf,Joel,L.
+A1 Turek,John
+A1 Yu,Philip,S.
+YR 1998
+T1 Smart SMART Bounds for Weighted Response Time Scheduling
+JF Siam Journal on Computing
+VO 28
+SP 237
+OP 253
+IS 1
+
+RT Journal Article
+ID 94047
+A1 Shachnai,Hadas
+A1 Yu,Philip,S.
+YR 1998
+T1 Exploring Wait Tolerance in Effective Batching for Video-on-Demand Scheduling
+JF Multimedia Systems
+VO 6
+SP 382
+OP 394
+IS 6
+
+RT Conference Proceedings
+ID 582579
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+YR 1998
+T1 Range-Based Bitmap Indexing for High Cardinality Attributes with Skew
+SP 61
+OP 67
+
+RT Conference Proceedings
+ID 473898
+A1 Aggarwal,Charu,C.
+A1 Sun,Zheng
+A1 Yu,Philip,S.
+YR 1998
+T1 Online Generation of Profile Association Rules
+SP 129
+OP 133
+
+RT Conference Proceedings
+ID 499699
+A1 Aggarwal,Charų,C.
+A1 Sun,Zheng
+A1 Yu,Philip,S.
+YR 1998
+T1 Online algorithms for finding profile association rules
+SP 86
+OP 95
+
+RT Journal Article
+ID 199905
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+A1 Chen,Ming-syan
+YR 1998
+T1 Energy-Efficient Mobile Cache Invalidation
+JF Distributed and Parallel Databases
+VO 6
+SP 351
+OP 372
+IS 4
+
+RT Conference Proceedings
+ID 401317
+A1 Cardellini,Valeria
+A1 Colajanni,Michele
+A1 Yu,Philip,S.
+YR 1998
+T1 Efficient State Estimators for Load Control Policies in Scalable Web Server Clusters
+SP 449
+OP 457
+
+RT Journal Article
+ID 57275
+A1 Wu,Xindong
+A1 Yu,Philip,S.
+A1 Piatetsky-shapiro,Gregory
+A1 Cercone,Nick
+A1 Lin,T.,y.
+A1 Kotagiri,Ramamohanarao
+A1 Wah,Benjamin,W.
+YR 1998
+T1 Data Mining: How Research Meets Practical Development?
+JF Knowledge and Information Systems
+
+RT Journal Article
+ID 710811
+A1 Shachnai,Hadas
+A1 Yu,Philip,S.
+YR 1998
+T1 On Analytic Modeling of Multimedia Batching Schemes
+JF Performance Evaluation
+VO 33
+SP 201
+OP 213
+IS 3
+
+RT Journal Article
+ID 344900
+A1 Cardellini,Valeria
+A1 Colajanni,Michele
+A1 Yu,Philip,S.
+YR 1998
+T1 High Performance Web-server Systems
+
+RT Journal Article
+ID 381954
+A1 Aggarwal,Charu,C.
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+YR 1998
+T1 Optimization issues in multimedia systems
+JF International Journal of Intelligent Systems
+VO 13
+SP 1113
+OP 1135
+IS 12
+
+RT Journal Article
+ID 751465
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+YR 1998
+T1 Increasing Multimedia System Throughput with Consumption-based Buffer Management
+JF Multimedia Systems
+VO 6
+SP 421
+OP 428
+IS 6
+
+RT Journal Article
+ID 854783
+A1 Snodgrass,Richard,T.
+A1 Haas,Laura,M.
+A1 Mendelzon,Alberto,O.
+A1 Özsoyoglu,Z.,Meral
+A1 Paredaens,Jan
+A1 Ramamritham,Krithi
+A1 Roussopoulos,Nick
+A1 Widom,Jennifer
+A1 Yu,Philip,S.
+YR 1998
+T1 Reminiscences in influential papers
+JF Sigmod Record
+VO 27
+SP 54
+OP 57
+IS 1
+
+RT Journal Article
+ID 58815226
+A1 Yu,Philip
+A1 McCoy,William
+A1 Castaniento,Henry
+A1 Ginn,L.
+YR 1998
+T1 Cooling Tower Fill Fouling Control in a Geothermal Power Plant
+
+RT Conference Proceedings
+ID 607684
+A1 Huang,Yun-wu
+A1 Yu,Philip,S.
+YR 1998
+T1 A Bandwidth-Sensitive Update Scheduling Method for Internet Push
+SP 303
+OP 310
+
+RT Journal Article
+ID 4049264
+A1 Park,Jong,Soo
+A1 Chen,Ming-syan
+A1 Yu,Philip,S.
+YR 1997
+T1 Using a Hash-Based Method with Transaction Trimming for Mining Association Rules
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 9
+SP 813
+OP 825
+IS 5
+
+RT Journal Article
+ID 334179
+A1 Park,Jong,Soo
+A1 Chen,Ming-syan
+A1 Yu,Philip,S.
+YR 1997
+T1 Using a Hash-Based Method with Transaction Trimming and Database Scan Reduction for Mining Association Rules
+JF IEEE Transactions on Knowledge and Data Engineering
+
+RT Journal Article
+ID 73152
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+A1 Shachnai,Hadas
+YR 1997
+T1 Disk Load Balancing for Video-On-Demand Systems
+JF Multimedia Systems
+VO 5
+SP 358
+OP 370
+IS 6
+
+RT Conference Proceedings
+ID 607712
+A1 Colajanni,Michele
+A1 Yu,Philip,S.
+A1 Dias,Daniel,M.
+YR 1997
+T1 Scheduling Algorithms for Distributed Web Servers
+SP 0
+OP 176
+
+RT Conference Proceedings
+ID 396270
+A1 Chen,Ming-syan
+A1 Yu,Philip,S.
+A1 Wu,Kun-lung
+YR 1997
+T1 Indexed Sequential Data Broadcasting in Wireless Mobile Computing
+SP 0
+OP 131
+
+RT Conference Proceedings
+ID 499609
+A1 Aggarwal,Charu,G.
+A1 Yu,Philip,S.
+YR 1997
+T1 On disk caching of Web objects in proxy servers
+SP 238
+OP 245
+
+RT Journal Article
+ID 3783446
+A1 Wu,K.,L
+A1 Yu,P.,S
+A1 Ballman,A
+YR 1997
+T1 Speed Tracer: A Web usage mining and analysis tool
+
+RT Conference Proceedings
+ID 320558
+A1 Park,Jong,Soo
+A1 Yu,Philip,S.
+A1 Chen,Ming-Syan
+YR 1997
+T1 Mining association rules with adjustable accuracy
+SP 151
+OP 160
+
+RT Journal Article
+ID 858815
+A1 Colajanni,Michele
+A1 Yu,Philip,S.
+YR 1997
+T1 Adaptive TTL schemes for load balancing of distributed Web servers
+JF Sigmetrics Performance Evaluation Review
+VO 25
+SP 36
+OP 42
+IS 2
+
+RT Conference Proceedings
+ID 50079407
+A1 Shachnai,Hadas
+A1 Yu,Philip,S.
+YR 1997
+T1 Exploring wait tolerance in effective batching for video-on-demand scheduling
+
+RT Journal Article
+ID 821527
+A1 King,Gary,M.
+A1 Dias,Daniel,M.
+A1 Yu,Philip,S.
+YR 1997
+T1 Cluster Architectures and S/390 Parallel Sysplex Scalability
+JF Ibm Systems Journal
+VO 36
+SP 221
+OP 241
+IS 2
+
+RT Journal Article
+ID 751524
+A1 Chen,Ming-syan
+A1 Hsiao,Hui-i
+A1 Li,Chung-sheng
+A1 Yu,Philip,S.
+YR 1997
+T1 Using Rotational Mirrored Declustering for Replica Placement in a Disk-Array-Based Video Server
+JF Multimedia Systems
+VO 5
+SP 371
+OP 379
+IS 6
+
+RT Book, Whole
+ID 484747
+A1 Aggarwal,Charu,C.
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+A1 Epelman,Marina
+YR 1997
+T1 The S-Tree: An Efficient Index for Multidimensional Objects
+SP 350
+OP 373
+
+RT Journal Article
+ID 186790
+A1 Hsiao,Hui-i
+A1 Chen,Ming-syan
+A1 Yu,Philip,S.
+YR 1997
+T1 Parallel Execution of Hash Joins in Parallel Databases
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 8
+SP 872
+OP 883
+IS 8
+
+RT Journal Article
+ID 802665
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+A1 Pu,Calton
+YR 1997
+T1 Divergence Control Algorithms for Epsilon Serializability
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 9
+SP 262
+OP 274
+IS 2
+
+RT Journal Article
+ID 250332
+A1 Chen,Ming-syan
+A1 Hsiao,Hui-i
+A1 Yu,Philip,S.
+YR 1997
+T1 On Applying Hash Filters to Improving the Execution of Multi-Join Queries
+JF The Vldb Journal
+VO 6
+SP 121
+OP 131
+IS 2
+
+RT Journal Article
+ID 805579
+A1 Dan,Asit
+A1 Yu,Philip,S.
+A1 Jhingran,Anant
+YR 1997
+T1 Recovery Analysis of Data Sharing Systems under Deferred Dirty Page Propagation Policies
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 8
+SP 695
+OP 711
+IS 7
+
+RT Journal Article
+ID 340921
+A1 Chen,Ming-syan
+A1 Yu,Philip,S.
+YR 1997
+T1 Optimal Design of Multiple Hash Tables for Concurrency Control
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 9
+SP 384
+OP 390
+IS 3
+
+RT Journal Article
+ID 359671
+A1 Chen,Ming-syan
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+YR 1996
+T1 Data Mining: An Overview from a Database Perspective
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 8
+SP 866
+OP 883
+IS 6
+
+RT Conference Proceedings
+ID 301674
+A1 Chen,Ming-Syan
+A1 Park,Jong,Soo
+A1 Yu,P.,S.
+YR 1996
+T1 Data mining for path traversal patterns in a web environment
+
+RT Conference Proceedings
+ID 610429
+A1 Aggarwal,Charu,C.
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+YR 1996
+T1 A Permutation-Based Pyramid Broadcasting Scheme for Video-on-Demand Systems
+SP 118
+OP 126
+
+RT Conference Proceedings
+ID 610542
+A1 Aggarwal,Charu,C.
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+YR 1996
+T1 On Optimal Batching Policies for Video-on-Demand Storage Servers
+SP 253
+OP 258
+
+RT Conference Proceedings
+ID 522671
+A1 Wu,Kung-Lung
+A1 Yu,Philip,S.
+A1 Chen,Ming-syan
+YR 1996
+T1 Energy-Efficient Caching for Wireless Mobile Computing
+SP 336
+OP 343
+
+RT Journal Article
+ID 680753
+A1 Aggarwal,Charu,C.
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+YR 1996
+T1 On Optimal Piggyback Merging Policies for Video-on-Demand Systems
+JF Sigmetrics Performance Evaluation Review
+VO 24
+SP 200
+OP 209
+IS 1
+
+RT Conference Proceedings
+ID 522442
+A1 Li,Chung-sheng
+A1 Yu,Philip,S.
+A1 Castelli,Vittorio
+YR 1996
+T1 HierarchyScan: A Hierarchical Similarity Search Algorithm for Databases of Long Sequences
+SP 546
+OP 553
+
+RT Journal Article
+ID 715574
+A1 Merchant,Arif
+A1 Yu,Philip,S.
+YR 1996
+T1 Analytic Modeling of Clustered RAID with Mapping Based on Nearly Random Permutation
+JF IEEE Transactions on Computers
+VO 45
+SP 367
+OP 373
+IS 3
+
+RT Conference Proceedings
+ID 606925
+A1 Chen,Ming-syan
+A1 Park,Jong,Soo
+A1 Yu,Philip,S.
+YR 1996
+T1 Efficient Data Mining for Path Traversal Patterns in Distributed Systems
+SP 385
+OP 393
+
+RT Journal Article
+ID 806183
+A1 Leff,Avraham
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+YR 1996
+T1 Efficient LRU-Based Buffering in a LAN Remote Caching Architecture
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 7
+SP 191
+OP 206
+IS 2
+
+RT Journal Article
+ID 802326
+A1 Chen,Ming-syan
+A1 Yu,Philip,S.
+A1 Wu,Kun-lung
+YR 1996
+T1 Optimization of Parallel Execution for Multi-Join Queries
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 8
+SP 416
+OP 428
+IS 3
+
+RT Journal Article
+ID 367606
+A1 Chen,Ming-syan
+A1 Yu,Philip,S.
+A1 Yang,Tao-heng
+YR 1996
+T1 On Coupling Multiple Systems With A Global Buffer
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 8
+SP 339
+OP 344
+IS 2
+
+RT Journal Article
+ID 380989
+A1 Chen,Ming-syan
+A1 Chen,Jeng-chun
+A1 Yu,Philip,S.
+YR 1996
+T1 On General Results for All-to-All Broadcast
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 7
+SP 363
+OP 370
+IS 4
+
+RT Conference Proceedings
+ID 4276689
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+YR 1996
+T1 Consumption-Based Buffer Management for Maximizing System Throughput of a Multimedia System
+SP 164
+OP 171
+
+RT Conference Proceedings
+ID 3034263
+A1 Wu,K.,L.
+A1 Yu,P.,S.
+A1 Chen,M.,S.
+YR 1996
+T1 Energy-Efficient Caching for Bandwidth-Limited Wireless Mobile Computing
+
+RT Journal Article
+ID 392175
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+YR 1996
+T1 Consumption-Based Buffer Management for Maximizing System Throughputs of News-on-Demand Multimedia Systems
+
+RT Journal Article
+ID 385863
+A1 Yu,Philip,S.
+A1 Wolf,Joel,L.
+A1 Shachnai,Hadas
+YR 1996
+T1 Scheduling Issues In Video-On-Demand Systems
+
+RT Journal Article
+ID 803191
+A1 Merchant,Arif
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+A1 Chen,Ming-syan
+YR 1996
+T1 Performance Analysis of Dynamic Finite Versioning Schemes: Storage Cost vs. Obsolescence
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 8
+SP 985
+OP 1001
+IS 6
+
+RT Journal Article
+ID 2922559
+A1 Chen,M.,S.
+A1 Park,J.,S.
+A1 Yu,P.,S.
+YR 1996
+T1 Data mining for path traversal in a web environment
+
+RT Journal Article
+ID 304551
+A1 Chen,Ming-syan
+A1 Li,Chung-sheng
+A1 Yu,Philip,S.
+YR 1996
+T1 Using Content-Based Search to Download Digital Video into a Client Station
+JF Real-time Imaging
+VO 2
+SP 35
+OP 44
+IS 1
+
+RT Journal Article
+ID 695215
+A1 Yu,Philip,S.
+YR 1996
+T1 Modeling and Analysis of Concurrency Control Schemes
+
+RT Journal Article
+ID 12662975
+A1 Yu,P.,S.
+A1 Chen,Ming-syan
+A1 Han,Jiawei
+YR 1996
+T1 Data Mining: An Overview from Database Perspective
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 8
+
+RT Journal Article
+ID 39214050
+A1 Aggarwal,Charu
+A1 Wolf,Joel
+A1 Yu,Philip,S.
+YR 1996
+T1 On optimal piggyback merging policies for video-on-demand systems
+JF Sigmetrics Performance Evaluation Review
+SP 200
+OP 209
+
+RT Journal Article
+ID 56190313
+A1 Chen,Ming-Syan
+A1 Li,Chung-Sheng
+A1 Yu,Philip,S.
+YR 1996
+T1 Content-based downloading for digital video
+VO 2615
+SP 40
+OP 49
+
+RT Journal Article
+ID 308795
+A1 Park,Jong,Soo
+A1 Chen,Ming-Syan
+A1 Yu,Philip,S.
+YR 1995
+T1 An Effective Hash Based Algorithm for Mining Association Rules
+JF Sigmod Record
+VO 24
+SP 175
+OP 186
+IS 2
+
+RT Conference Proceedings
+ID 379850
+A1 Park,Jong,Soo
+A1 Chen,Ming-Syan
+A1 Yu,Philip,S.
+YR 1995
+T1 Efficient parallel data mining for association rules
+SP 31
+OP 36
+
+RT Journal Article
+ID 383102
+A1 Yu,Philip,S.
+A1 Wolf,Joel,L.
+A1 Shachnai,Hadas
+YR 1995
+T1 Design and Analysis of a Look-Ahead Scheduling Scheme to Support Pause-Resume for Video-on-Demand Applications
+JF Multimedia Systems
+VO 3
+SP 137
+OP 149
+IS 4
+
+RT Conference Proceedings
+ID 261468
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+A1 Shachnai,Hadas
+YR 1995
+T1 DASD Dancing: A Disk Load Balancing Optimization Scheme for Video-on-Demand Computer
+SP 157
+OP 166
+
+RT Journal Article
+ID 298471
+A1 Chen,Ming-syan
+A1 Kandlur,Dilip,D.
+A1 Yu,Philip,S.
+YR 1995
+T1 Storage and Retrieval Methods to Support Fully Interactive Playout in a Disk-Array-Based Video Server
+JF Multimedia Systems
+VO 3
+SP 126
+OP 135
+IS 3
+
+RT Journal Article
+ID 14418256
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+A1 Shachnai,Hadas
+YR 1995
+T1 DASD dancing: a disk load balancing optimization scheme for video-on-demand computer systems
+JF Sigmetrics Performance Evaluation Review
+VO 23
+SP 157
+OP 166
+IS 1
+
+RT Journal Article
+ID 715573
+A1 Merchant,Arif
+A1 Yu,Philip,S.
+YR 1995
+T1 Analytic Modeling and Comparisons of Striping Strategies for Replicated Disk Arrays
+JF IEEE Transactions on Computers
+VO 44
+SP 419
+OP 433
+IS 3
+
+RT Conference Proceedings
+ID 387279
+A1 Chen,Ming-Syan
+A1 Hsiao,Hui-I
+A1 Li,Chung-Sheng
+A1 Yu,Philip,S.
+YR 1995
+T1 Using rotational mirrored declustering for replica placement in a disk-array-based video server
+SP 121
+OP 130
+
+RT Journal Article
+ID 807473
+A1 Dan,Asit
+A1 Yu,Philip,S.
+A1 Chung,Jen-yao
+YR 1995
+T1 Characterization of Database Access Pattern for Analytic Prediction of Buffer Hit Probability
+JF The Vldb Journal
+VO 4
+SP 127
+OP 154
+IS 1
+
+RT Journal Article
+ID 302113
+A1 Hseush,Wenwey
+A1 Kaiser,Gail,E.
+A1 Pu,Calton
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+YR 1995
+T1 Divergence Control for Distributed Database Systems
+JF Distributed and Parallel Databases
+VO 3
+SP 85
+OP 109
+IS 1
+
+RT Journal Article
+ID 806191
+A1 Wolf,Joel,L.
+A1 Turek,John
+A1 Chen,Ming-syan
+A1 Yu,Philip,S.
+YR 1995
+T1 A Hierarchical Approach to Parallel Multiquery Scheduling
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 6
+SP 578
+OP 590
+IS 6
+
+RT Journal Article
+ID 207178
+A1 Chen,Ming-syan
+A1 Lo,Ming-ling
+A1 Yu,Philip,S.
+A1 Young,Honesty,C.
+YR 1995
+T1 Applying Segmented Right-Deep Trees to Pipelining Multiple Hash Joins
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 7
+SP 656
+OP 668
+IS 4
+
+RT Conference Proceedings
+ID 578466
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+A1 Chung,Jen-yao
+A1 Teng,James,Z.
+YR 1995
+T1 A Performance Study of Workfile Disk Management for Concurrent Mergesorts in a Multiprocessor Database System
+SP 100
+OP 109
+
+RT Journal Article
+ID 39216986
+A1 Park,Jong,Soo
+A1 Chen,Ming-Syan
+A1 Yu,Philip,S.
+YR 1995
+T1 An effective hash-based algorithm for mining association rules
+JF Sigmod Record
+SP 175
+OP 186
+
+RT Conference Proceedings
+ID 454373
+A1 Macnair,Edward,A.
+A1 Lavenberg,Stephen,S.
+A1 Yu,Philip,S.
+YR 1995
+T1 Performance Modeling For Designing Client/Server Systems
+SP 745
+OP 751
+
+RT Journal Article
+ID 51244946
+A1 Chen,Ming-Syan
+A1 Kandlur,Dilip,D.
+A1 Yu,Philip,S.
+YR 1995
+T1 Using rate staggering to store scalable video data in a disk-array-based video server
+VO 2417
+SP 338
+OP 345
+
+RT Journal Article
+ID 53918486
+A1 Yu,Philip,S.
+A1 Wolf,Joel,L.
+A1 Shachnai,Hadas
+YR 1995
+T1 Look-ahead scheduling to support pause-resume for video-on-demand applications
+VO 2417
+SP 78
+OP 89
+
+RT Journal Article
+ID 13275893
+A1 Yu,Philip,S.
+A1 Chen,Arbee,L.,P.
+YR 1995
+T1 Proceedings of the Eleventh International Conference on Data Engineering, March 6-10, 1995, Taipei, Taiwan
+
+RT Conference Proceedings
+ID 300051
+A1 Chen,Ming-Syan
+A1 Kandlur,Dilip,D.
+A1 Yu,Philip,S.
+YR 1994
+T1 Support for fully interactive playout in disk-array-based video server
+SP 391
+OP 398
+
+RT Journal Article
+ID 1468976
+A1 YU,PHILIP,S.
+A1 Wu,Kun-Lung
+A1 Lin,Kwei-Jay
+A1 SON,SANG,H.
+YR 1994
+T1 On real-time databases: concurrency control and scheduling
+JF Proceedings of The IEEE
+VO 82
+SP 140
+OP 157
+IS 1
+
+RT Conference Proceedings
+ID 383285
+A1 Chawathe,Sudarshan,S.
+A1 Chen,Ming-syan
+A1 Yu,Philip,S.
+YR 1994
+T1 On Index Selection Schemes for Nested Object Hierarchies
+SP 331
+OP 341
+
+RT Conference Proceedings
+ID 572703
+A1 Turek,John
+A1 Schwiegelshohn,Uwe
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+A1 Tiwari,Prasoon
+A1 Glasgow,Jason
+YR 1994
+T1 Scheduling parallel tasks to minimize average response time
+SP 112
+OP 121
+
+RT Journal Article
+ID 802447
+A1 Yu,Philip,S.
+A1 Dan,Asit
+YR 1994
+T1 Performance Analysis of Affinity Clustering on Transaction Processing Coupling Architecture
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 6
+SP 764
+OP 786
+IS 5
+
+RT Journal Article
+ID 805275
+A1 Yu,Philip,S.
+A1 Dan,Asit
+YR 1994
+T1 Performance Evaluation of Transaction Processing Coupling Architectures for Handling System Dynamics
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 5
+SP 139
+OP 153
+IS 2
+
+RT Journal Article
+ID 805136
+A1 Chen,Ming-syan
+A1 Yu,Philip,S.
+A1 Wu,Kun-lung
+YR 1994
+T1 Optimal NODUP All-to-All Broadcast Schemes in Distributed Computing Systems
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 5
+SP 1275
+OP 1285
+IS 12
+
+RT Conference Proceedings
+ID 6936021
+A1 Turek,John
+A1 Ludwig,Walter
+A1 Wolf,Joel,L.
+A1 Fleischer,Lisa
+A1 Tiwari,Prasoon
+A1 Glasgow,Jason
+A1 Schwiegelshohn,Uwe
+A1 Yu,Philip,S.
+YR 1994
+T1 Scheduling parallelizable tasks to minimize average response time
+SP 200
+OP 209
+
+RT Journal Article
+ID 711237
+A1 Merchant,Arif
+A1 Yu,Philip,S.
+YR 1994
+T1 An Analytical Model of Reconstruction Time in Mirrored Disks
+JF Performance Evaluation
+VO 20
+SP 115
+OP 129
+IS 1-3
+
+RT Journal Article
+ID 301902
+A1 Hsiao,Hui-I
+A1 Chen,Ming-Syan
+A1 Yu,Philip,S.
+YR 1994
+T1 On Parallel Execution of Multiple Pipelined Hash Joins
+JF Sigmod Record
+VO 23
+SP 185
+OP 196
+IS 2
+
+RT Journal Article
+ID 802698
+A1 Dan,Asit
+A1 Dias,Daniel,M.
+A1 Yu,Philip,S.
+YR 1994
+T1 Buffer Analysis for a Data Sharing Environment with Skewed Data Access
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 6
+SP 331
+OP 337
+IS 2
+
+RT Journal Article
+ID 803198
+A1 Wolf,Joel,L.
+A1 Dias,Daniel,M.
+A1 Yu,Philip,S.
+A1 Turek,John
+YR 1994
+T1 New Algorithms for Parallelizing Relational Database Joins in the Presence of Data Skew
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 6
+SP 990
+OP 997
+IS 6
+
+RT Journal Article
+ID 805749
+A1 Leff,Avraham
+A1 Yu,Philip,S.
+YR 1994
+T1 A Performance Study of Robust Distributed Load Sharing Strategies
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 5
+SP 1286
+OP 1301
+IS 12
+
+RT Journal Article
+ID 233217
+A1 Wolf,Joel,L.
+A1 Turek,John
+A1 Chen,Ming-Syan
+A1 Yu,Philip,S.
+YR 1994
+T1 Scheduling Multiple Queries on a Parallel Machine
+JF Sigmetrics Performance Evaluation Review
+VO 22
+SP 45
+OP 55
+IS 1
+
+RT Journal Article
+ID 802631
+A1 Chen,Ming-syan
+A1 Yu,Philip,S.
+YR 1994
+T1 A Graph Theoretical Approach to Determine a Join Reducer Sequence in Distributed Query Processing
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 6
+SP 152
+OP 165
+IS 1
+
+RT Conference Proceedings
+ID 394491
+A1 Pu,Calton
+A1 Tsang,Miu,K.
+A1 Wu,Kun-Lung
+A1 Yu,Philip,S.
+YR 1994
+T1 Multiversion divergence control of time fuzziness
+SP 195
+OP 202
+
+RT Journal Article
+ID 714667
+A1 Dan,Asit
+A1 Yu,Philip,S.
+A1 Dias,Daniel,M.
+YR 1994
+T1 Performance Modelling and Comparisons of Global Shared Buffer Management Policies in a Cluster Environment
+JF IEEE Transactions on Computers
+VO 43
+SP 1281
+OP 1297
+IS 11
+
+RT Conference Proceedings
+ID 302737
+A1 Li,Chung-Sheng
+A1 Chen,Ming-Syan
+A1 Yu,Philip,S.
+A1 Hsiao,Hui-I
+YR 1994
+T1 Combining replication and parity approaches for fault-tolerant disk arrays
+
+RT Conference Proceedings
+ID 522673
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+A1 Teng,James,Z.
+YR 1994
+T1 Data Placement and Buffer Management for Concurrent Mergesorts with Parallel Prefetching
+SP 418
+OP 427
+
+RT Journal Article
+ID 39213990
+A1 Bittan,Avi
+A1 Kogan,Yaakov
+A1 Yu,Philip,S.
+YR 1994
+T1 Asymptotic performance of a buffer model in a data sharing environment
+JF Sigmetrics Performance Evaluation Review
+SP 67
+OP 76
+
+RT Journal Article
+ID 3519880
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+YR 1994
+T1 Online Generation of Association Rules IBM T
+
+RT Journal Article
+ID 680587
+A1 Bittan,Avi
+A1 Kogan,Yaakov
+A1 Yu,Philip,S.
+YR 1994
+T1 Asymtotic Performance of a Buffer Model in a Data Sharing Environment
+JF Sigmetrics Performance Evaluation Review
+VO 22
+SP 67
+OP 76
+IS 1
+
+RT Journal Article
+ID 39216936
+A1 Hsiao,Hui-I
+A1 Chen,Ming-Syan
+A1 Yu,Philip,S.
+YR 1994
+T1 On parallel execution of multiple pipelined hash joins
+JF Sigmod Record
+SP 185
+OP 196
+
+RT Journal Article
+ID 39213988
+A1 Wolf,Joel,L.
+A1 Turek,John
+A1 Chen,Ming-Syan
+A1 Yu,Philip,S.
+YR 1994
+T1 Scheduling multiple queries on a parallel machine
+JF Sigmetrics Performance Evaluation Review
+SP 45
+OP 55
+
+RT Conference Proceedings
+ID 308457
+A1 Chen,Ming-syan
+A1 Yang,Tao-heng
+A1 Yu,Philip,S.
+A1 Liu,Tze-Shiu
+YR 1994
+T1 On Parallel Transaction Processing in a Coupled System
+SP 662
+OP 669
+
+RT Conference Proceedings
+ID 532548
+A1 Yu,Philip,S.
+A1 Wu,Kun-lung
+A1 Dan,Asit
+YR 1994
+T1 Dynamic Parity Grouping for Improving Write Performance of RAID5 Disk Arrays
+SP 193
+OP 196
+
+RT Journal Article
+ID 751510
+A1 Yu,Philip,S.
+A1 Chen,Ming-syan
+A1 Kandlur,Dilip,D.
+YR 1993
+T1 Grouped Sweeping Scheduling for DASD-based Multimedia Storage Management
+JF Multimedia Systems
+VO 1
+SP 99
+OP 109
+IS 3
+
+RT Conference Proceedings
+ID 252549
+A1 Chen,Mon-Song
+A1 Kandlur,Dilip,D.
+A1 Yu,Philip,S.
+YR 1993
+T1 Optimization of the grouped sweeping scheduling (GSS) with heterogeneous multimedia streams
+SP 235
+OP 242
+
+RT Journal Article
+ID 806182
+A1 Leff,Avraham
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+YR 1993
+T1 Replication Algorithms in a Remote Caching Architecture
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 4
+SP 1185
+OP 1204
+IS 11
+
+RT Journal Article
+ID 807448
+A1 Yu,Philip,S.
+A1 Cornell,Douglas,W.
+YR 1993
+T1 Buffer Management Based on Return on Consumption in a Multi-Query Environment
+JF The Vldb Journal
+VO 2
+SP 1
+OP 37
+IS 1
+
+RT Journal Article
+ID 805387
+A1 Wolf,Joel,L.
+A1 Dias,Daniel,M.
+A1 Yu,Philip,S.
+YR 1993
+T1 A Parallel Sort Merge Join Algorithm for Managing Data Skew
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 4
+SP 70
+OP 86
+IS 1
+
+RT Journal Article
+ID 787503
+A1 Yu,Philip,S.
+A1 Dias,Daniel,M.
+A1 Lavenberg,Stephen,S.
+YR 1993
+T1 On the analytical modeling of database concurrency control
+JF Journal of The ACM
+VO 40
+SP 831
+OP 872
+IS 4
+
+RT Journal Article
+ID 806204
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+A1 Turek,John
+A1 Dias,Daniel,M.
+YR 1993
+T1 A Parallel Hash Join Algorithm for Managing Data Skew
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 4
+SP 1355
+OP 1371
+IS 12
+
+RT Conference Proceedings
+ID 563051
+A1 Sitaram,Dinkar
+A1 Dan,Asit
+A1 Yu,Philip,S.
+YR 1993
+T1 Issues in the Design of Multi-Server File Systems to Cope with Load Skew
+SP 214
+OP 223
+
+RT Conference Proceedings
+ID 522710
+A1 Dan,Asit
+A1 Yu,Philip,S.
+A1 Chung,Jen-yao
+YR 1993
+T1 Database Access Characterization for Buffer Hit Prediction
+SP 134
+OP 143
+
+RT Journal Article
+ID 805112
+A1 Dan,Asit
+A1 Yu,Philip,S.
+YR 1993
+T1 Performance Analysis of Buffer Coherency Policies in a Multisystem Data Sharing Environment
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 4
+SP 289
+OP 305
+IS 3
+
+RT Journal Article
+ID 3563308
+A1 Leff,Avraham
+A1 Yu,Philip,S.
+A1 Wolf,Joel,L.
+YR 1993
+T1 Performance Issues in Object Replication for a Remote Caching Architecture
+JF Computer Systems: Science & Engineering
+
+RT Journal Article
+ID 386747
+A1 Lo,Ming-Ling
+A1 Chen,Ming-syan,Syan
+A1 Ravishankar,Chinya,V.
+A1 Yu,Philip,S.
+YR 1993
+T1 On Optimal Processor Allocation to Support Pipelined Hash Joins
+JF Sigmod Record
+VO 22
+SP 69
+OP 78
+IS 2
+
+RT Conference Proceedings
+ID 306510
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+A1 Chen,Ming-syan
+YR 1993
+T1 Dynamic Finite Versioning: An Effective Versioning Approach to Concurrent Transaction and Query Processing
+SP 577
+OP 586
+
+RT Journal Article
+ID 802630
+A1 Chen,Ming-syan
+A1 Yu,Philip,S.
+YR 1993
+T1 Combining Join and Semi-Join Operations for Distributed Query Processing
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 5
+SP 534
+OP 542
+IS 3
+
+RT Journal Article
+ID 680604
+A1 Wu,Kun-Lung
+A1 Yu,Philip,S.
+A1 Teng,James,Z.
+YR 1993
+T1 Performance Comparison of Thrashing Control Policies for Concurrent Mergesorts with Parallel Prefetching
+JF Sigmetrics Performance Evaluation Review
+VO 21
+SP 171
+OP 182
+IS 1
+
+RT Conference Proceedings
+ID 607298
+A1 Pu,Calton
+A1 Hseush,Wenwey
+A1 Kaiser,Gail,E.
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+YR 1993
+T1 Distributed Divergence Control for Epsilon Serializability
+SP 449
+OP 456
+
+RT Conference Proceedings
+ID 563084
+A1 Merchant,Arif
+A1 Yu,Philip,S.
+YR 1993
+T1 Performance Analysis of a Dual Striping Strategy for Replicated Disk Arrays
+SP 148
+OP 157
+
+RT Journal Article
+ID 766124
+A1 Yu,Philip,S.
+A1 Dias,Daniel,M.
+YR 1993
+T1 Performance Analysis of Concurrency Control Using Locking with Deferred Blocking
+JF IEEE Transactions on Software Engineering
+VO 19
+SP 982
+OP 996
+IS 10
+
+RT Book, Whole
+ID 191132
+A1 Yu,Philip,S.
+A1 Chen,Ming-syan
+A1 Wolf,Joel,L.
+A1 Turek,John
+YR 1993
+T1 Parallel Query Processing
+JF Lecture Notes in Computer Science
+SP 229
+OP 258
+
+RT Conference Proceedings
+ID 234566
+A1 Chen,Ming-syan
+A1 Yu,Philip,S.
+A1 Wu,Kun-lung
+YR 1993
+T1 Decentralized Consensus Protocols with Multi-Port Communication
+SP 356
+OP 365
+
+RT Journal Article
+ID 4365932
+A1 Pu,Calton
+A1 Florissi,Danilo
+A1 Soares,Patricia
+A1 Yu,Philip,S.
+A1 Wu,Kun-lung
+YR 1993
+T1 Performance comparison of dynamic policies for remote caching
+JF Concurrency and Computation: Practice and Experience
+VO 5
+SP 239
+OP 256
+IS 4
+
+RT Book, Whole
+ID 680406
+A1 Yu,Philip,S.
+YR 1993
+T1 Modeling and Analysis of Transaction Processing Systems
+SP 651
+OP 675
+
+RT Conference Proceedings
+ID 372156
+A1 Chen,Ming-syan
+A1 Hsiao,Hui-i
+A1 Yu,Philip,S.
+YR 1993
+T1 Applying Hash Filters to Improving the Execution of Bushy Trees
+SP 505
+OP 516
+
+RT Journal Article
+ID 39213971
+A1 Wu,Kun-Lung
+A1 Yu,Philip,S.
+A1 Teng,James,Z.
+YR 1993
+T1 Performance comparison of thrashing control policies for concurrent Mergesorts with parallel prefetching
+JF Sigmetrics Performance Evaluation Review
+SP 171
+OP 182
+
+RT Conference Proceedings
+ID 573643
+A1 Turek,John
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+YR 1992
+T1 Approximate algorithms scheduling parallelizable tasks
+SP 323
+OP 332
+
+RT Conference Proceedings
+ID 301811
+A1 Chen,Ming-syan
+A1 Lo,Ming-ling
+A1 Yu,Philip,S.
+A1 Young,Honesty,C.
+YR 1992
+T1 Using Segmented Right-Deep Trees for the Execution of Pipelined Hash Joins
+SP 15
+OP 26
+
+RT Conference Proceedings
+ID 522672
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+A1 Pu,Calton
+YR 1992
+T1 Divergence Control for Epsilon-Serializability
+SP 506
+OP 515
+
+RT Journal Article
+ID 667088
+A1 Dan,Asit
+A1 Yu,Philip,S.
+YR 1992
+T1 Performance Analysis of Coherency Control Policies through Lock Retention
+JF Sigmod Record
+VO 21
+SP 114
+OP 123
+IS 2
+
+RT Journal Article
+ID 294242
+A1 Yu,Philip,S.
+A1 Chen,Ming-syan
+A1 Heiss,Hans-ulrich
+A1 Lee,Sukho
+YR 1992
+T1 On Workload Characterization of Relational Database Environments
+JF IEEE Transactions on Software Engineering
+VO 18
+SP 347
+OP 355
+IS 4
+
+RT Conference Proceedings
+ID 680488
+A1 Turek,John
+A1 Wolf,Joel,L.
+A1 Pattipati,Krishna,R.
+A1 Yu,Philip,S.
+A1 Wolf,Icel
+YR 1992
+T1 Scheduling Parallelizable Tasks: Putting it All on the Shelf
+SP 225
+OP 236
+
+RT Conference Proceedings
+ID 522246
+A1 Chen,Ming-syan
+A1 Yu,Philip,S.
+A1 Wu,Kun-lung
+YR 1992
+T1 Scheduling and Processor Allocation for Parallel Execution of Multi-Join Queries
+SP 58
+OP 67
+
+RT Conference Proceedings
+ID 517170
+A1 Merchant,Arif
+A1 Yu,Philip,S.
+YR 1992
+T1 Design and Modeling of Clustered RAID
+SP 140
+OP 149
+
+RT Journal Article
+ID 680629
+A1 Dan,Asit
+A1 Yu,Philip,S.
+A1 Chung,Jen-Yao
+YR 1992
+T1 Characterization of Database Access Skew in a Transaction Processing Environment
+JF Sigmetrics Performance Evaluation Review
+VO 20
+SP 251
+OP 252
+IS 1
+
+RT Journal Article
+ID 766123
+A1 Yu,Philip,S.
+A1 Dias,Daniel,M.
+YR 1992
+T1 Analysis of Hybrid Concurrency Control Schemes For a High Data Contention Environment
+JF IEEE Transactions on Software Engineering
+VO 18
+SP 118
+OP 129
+IS 2
+
+RT Journal Article
+ID 232576
+A1 Chen,Ming-syan
+A1 Yu,Philip,S.
+YR 1992
+T1 Interleaving a Join Sequence with Semijoins in Distributed Query Processing
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 3
+SP 611
+OP 621
+IS 5
+
+RT Journal Article
+ID 766631
+A1 Ciciani,Bruno
+A1 Dias,Daniel,M.
+A1 Yu,Philip,S.
+YR 1992
+T1 Analysis of Concurrency-Coherency Control Protocols for Distributed Transaction Processing Systems with Regional Locality
+JF IEEE Transactions on Software Engineering
+VO 18
+SP 899
+OP 914
+IS 10
+
+RT Conference Proceedings
+ID 665487
+A1 Yu,Philip,S.
+YR 1992
+T1 Mon-Song Chen, Dilip D. Kandlur: Design and Analysis of a Grouped Sweeping Scheme for Multimedia Storage Management
+SP 44
+OP 55
+
+RT Conference Proceedings
+ID 522400
+A1 Yu,Philip,S.
+A1 Dan,Asit
+YR 1992
+T1 Effect of System Dynamics on Coupling Architectures for Transaction Processing
+SP 458
+OP 469
+
+RT Conference Proceedings
+ID 573738
+A1 Yu,Philip,S.
+A1 Dan,Asit
+YR 1992
+T1 Impact of Workload Partitionability on the Performance of Coupling Architectures for Transaction Processing
+SP 40
+OP 49
+
+RT Journal Article
+ID 302089
+A1 Merchant,Arif
+A1 Wu,Kun-Lung
+A1 Yu,Philip,S.
+A1 Chen,Ming-Syan
+YR 1992
+T1 Performance Analysis of Dynamic Finite Versioning for Concurrency Transaction and Query Processing
+JF Sigmetrics Performance Evaluation Review
+VO 20
+SP 103
+OP 114
+IS 1
+
+RT Journal Article
+ID 39213946
+A1 Merchant,Arif
+A1 Wu,Kun-Lung
+A1 Yu,Philip,S.
+A1 Chen,Ming-Syan
+YR 1992
+T1 Performance analysis of dynamic finite versioning for concurrent transaction and query processing
+JF Sigmetrics Performance Evaluation Review
+SP 103
+OP 114
+
+RT Conference Proceedings
+ID 49936523
+A1 Leff,Avraham
+A1 Wolf,J.,L.
+A1 Yu,P.,S.
+YR 1992
+T1 LRU-based replication strategies in a LAN remote caching architecture
+
+RT Conference Proceedings
+ID 606926
+A1 Chen,Ming-syan
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+YR 1992
+T1 Efficient Decentralized Consensus Protocols in a Distributed Computing System
+SP 426
+OP 433
+
+RT Conference Proceedings
+ID 543500
+A1 Pu,Calton
+A1 Florissi,Danilo
+A1 Soares,Patricia
+A1 Wu,Kun-lung
+A1 Yu,Philip,S.
+YR 1992
+T1 Performance Comparison of Active-Sender and Active-Receiver Policies for Distributed Caching
+SP 218
+OP 227
+
+RT Conference Proceedings
+ID 607410
+A1 Leff,Avraham
+A1 Yu,Philip,S.
+YR 1992
+T1 A Comparison of Regression-Based Load Sharing Strategies for Distributed Database Environments
+SP 98
+OP 107
+
+RT Journal Article
+ID 39216828
+A1 Dan,Asit
+A1 Yu,Philip,S.
+YR 1992
+T1 Performance analysis of coherency control policies through lock retention
+JF Sigmod Record
+SP 114
+OP 123
+
+RT Journal Article
+ID 39213959
+A1 Dan,Asit
+A1 Yu,Philip,S.
+A1 Chung,Jen-Yao
+YR 1992
+T1 Characterization of database access skew in a transaction processing environment
+JF Sigmetrics Performance Evaluation Review
+SP 251
+OP 252
+
+RT Conference Proceedings
+ID 533765
+A1 Leff,Avraham
+A1 Wolf,Joel,L.
+A1 Yu,Philip,S.
+YR 1992
+T1 Distributed Object Replication Strategies for a Remote Caching Architecture
+SP 114
+OP 123
+
+RT Conference Proceedings
+ID 1268456
+A1 Leff,Avraham
+A1 Yu,Philip,S.
+A1 Wolf,Joel,L.
+YR 1991
+T1 Policies for efficient memory utilization in a remote caching architecture
+
+RT Conference Proceedings
+ID 523400
+A1 Wolf,Joel,L.
+A1 Dias,Daniel,M.
+A1 Yu,Philip,S.
+A1 Turek,John
+YR 1991
+T1 An Effective Algorithm for Parallelizing Hash Joins in the Presence of Data Skew
+SP 200
+OP 209
+
+RT Conference Proceedings
+ID 522397
+A1 Yu,Philip,S.
+A1 Cornell,Douglas,W.
+YR 1991
+T1 Optimal Buffer Allocation in A Multi-Query Environment
+SP 622
+OP 631
+
+RT Journal Article
+ID 680628
+A1 Dan,Asit
+A1 Dias,Daniel,M.
+A1 Yu,Philip,S.
+YR 1991
+T1 Analytical Modeling of a Hierarchical Buffer for a Data Sharing Environment
+JF Sigmetrics Performance Evaluation Review
+VO 19
+SP 156
+OP 167
+IS 1
+
+RT Journal Article
+ID 803792
+A1 Yu,Philip,S.
+A1 Leff,Avraham
+A1 Lee,Yann-Hang
+YR 1991
+T1 On robust transaction routing and load sharing
+JF ACM Transactions on Database Systems
+VO 16
+SP 476
+OP 512
+IS 3
+
+RT Journal Article
+ID 802689
+A1 Yu,Philip,S.
+A1 Heiss,Hans-ulrich
+A1 Dias,Daniel,M.
+YR 1991
+T1 Modeling and Analysis of a Time-Stamp History Based Certification Protocol for Concurrency Control
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 3
+SP 525
+OP 537
+IS 4
+
+RT Conference Proceedings
+ID 563125
+A1 Leff,Avraham
+A1 Yu,Philip,S.
+A1 Wolf,Joel,L.
+YR 1991
+T1 Policies for Efficient Resource Utilization in a Remote Caching Architecture
+SP 198
+OP 207
+
+RT Conference Proceedings
+ID 563126
+A1 Wolf,Joel,L.
+A1 Dias,Daniel,M.
+A1 Yu,Philip,S.
+A1 Turek,John
+YR 1991
+T1 Comparative Performance of Parallel Join Algorithms
+SP 78
+OP 88
+
+RT Conference Proceedings
+ID 1292329
+A1 Dan,Asit
+A1 Yu,Philip,S.
+YR 1991
+T1 Performance comparisons of buffer coherency policies
+SP 208
+OP 217
+
+RT Conference Proceedings
+ID 1370301
+A1 Dan,A.
+A1 Dins,D.,M.
+A1 Yu,P.,S.
+YR 1991
+T1 Modelling a hierarchical buffer for the data sharing environment
+
+RT Journal Article
+ID 39213930
+A1 Dan,Asit
+A1 Dias,Daniel,M.
+A1 Yu,Philip,S.
+YR 1991
+T1 Analytical modelling of a hierarchical buffer for a data sharing environment
+JF Sigmetrics Performance Evaluation Review
+SP 156
+OP 167
+
+RT Conference Proceedings
+ID 522627
+A1 Chen,Ming-syan
+A1 Yu,Philip,S.
+YR 1991
+T1 Determining Beneficial Semijoins for a Join Sequence in Distributed Query Processing
+SP 50
+OP 58
+
+RT Journal Article
+ID 1399156
+A1 Yu,P.,S.
+A1 Dan,A.
+YR 1991
+T1 Impact of affinity on the performance of coupling architectures for transaction processing
+
+RT Journal Article
+ID 795652
+A1 Leff,Avraham
+A1 Yu,Philip,S.
+YR 1991
+T1 An Adaptive Strategy for Load Sharing in Distributed Database Environment with Information Lags
+JF Journal of Parallel and Distributed Computing
+VO 13
+SP 91
+OP 103
+IS 1
+
+RT Conference Proceedings
+ID 563017
+A1 Chen,Ming-syan
+A1 Yu,Philip,S.
+A1 Wu,Kun-lung
+YR 1991
+T1 Optimal All-to-All Broadcasting Schemes in Distributed Systems
+SP 253
+OP 260
+
+RT Conference Proceedings
+ID 532940
+A1 Leff,Avraham
+A1 Yu,Philip,S.
+YR 1991
+T1 Dynamic Load Sharing in the Presence of Information Obsolescence in Distributed Database Environments
+SP 91
+OP 98
+
+RT Conference Proceedings
+ID 49905164
+A1 Yu,P.,S.
+A1 Dias,Daniel,M.
+YR 1991
+T1 Performance analysis of optimistic concurrency control schemes with different rerun policies
+
+RT Conference Proceedings
+ID 578449
+A1 Dan,Asit
+A1 Dias,Daniel,M.
+A1 Yu,Philip,S.
+YR 1990
+T1 The Effect of Skewed Data Access on Buffer Hits and Data Contention an a Data Sharing Environment
+SP 419
+OP 431
+
+RT Conference Proceedings
+ID 511384
+A1 Wolf,Joel,L.
+A1 Dias,Daniel,M.
+A1 Yu,Philip,S.
+YR 1990
+T1 An effective algorithm for parallelizing sort merge joins in the presence of data skew
+SP 103
+OP 115
+
+RT Journal Article
+ID 802980
+A1 Lakshmi,M.,Seetha
+A1 Yu,Philip,S.
+YR 1990
+T1 Effectiveness of Parallel Joins
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 2
+SP 410
+OP 424
+IS 4
+
+RT Journal Article
+ID 802666
+A1 Ciciani,Bruno
+A1 Dias,Daniel,M.
+A1 Yu,Philip,S.
+YR 1990
+T1 Analysis of Replication in Distributed Database Systems
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 2
+SP 247
+OP 261
+IS 2
+
+RT Journal Article
+ID 767838
+A1 Cornell,Douglas,W.
+A1 Yu,Philip,S.
+YR 1990
+T1 An Effective Approach to Vertical Partitioning for Physical Design of Relational Databases
+JF IEEE Transactions on Software Engineering
+VO 16
+SP 248
+OP 258
+IS 2
+
+RT Conference Proceedings
+ID 522705
+A1 Dan,Asit
+A1 Dias,Daniel,M.
+A1 Yu,Philip,S.
+YR 1990
+T1 Database Buffer Model for the Data Sharing Environment
+SP 538
+OP 544
+
+RT Conference Proceedings
+ID 522399
+A1 Yu,Philip,S.
+A1 Dias,Daniel,M.
+YR 1990
+T1 Concurrency Control Using Locking with Deferred Blocking
+SP 30
+OP 36
+
+RT Conference Proceedings
+ID 1283291
+A1 Yu,P.,S.
+A1 Dias,D.,M.
+YR 1990
+T1 Impact of large memory on the performance of optimistic concurrency control schemes
+
+RT Journal Article
+ID 766753
+A1 Ciciani,Bruno
+A1 Dias,Daniel,M.
+A1 Iyer,Balakrishna,R.
+A1 Yu,Philip,S.
+YR 1990
+T1 A Hybrid Distributed Centralized System Structure for Transaction Processing
+JF IEEE Transactions on Software Engineering
+VO 16
+SP 791
+OP 806
+IS 8
+
+RT Conference Proceedings
+ID 511393
+A1 Chen,Ming-Syan
+A1 Yu,Philip,S.
+YR 1990
+T1 Using join operations as reducers in distributed query processing
+SP 116
+OP 123
+
+RT Journal Article
+ID 1255190
+A1 Dan,A.
+A1 Dias,D.,M.
+A1 Yu,P.,S.
+YR 1990
+T1 Modelling a hierarchical buffer for the data sharing environment
+
+RT Conference Proceedings
+ID 607219
+A1 Chen,Ming-syan
+A1 Yu,Philip,S.
+YR 1990
+T1 Using Combination of Join and Semijoin Operations for Distributed Query Processing
+SP 328
+OP 335
+
+RT Journal Article
+ID 780672
+A1 Lakshmi,M.,Seetha
+A1 Yu,Philip,S.
+YR 1990
+T1 Effectiveness of parallel processing in database systems
+JF Computer Systems: Science & Engineering
+VO 5
+SP 73
+OP 81
+IS 2
+
+RT Conference Proceedings
+ID 455009
+A1 Yu,Philip,S.
+A1 Heiss,Hans-ulrich
+A1 Lee,Sukho
+A1 Chen,Ming-syan
+YR 1990
+T1 On Workload Characterization of Relational Database Environments
+SP 235
+OP 244
+
+RT Conference Proceedings
+ID 49892615
+A1 Wolf,Joel,L.
+A1 Dias,Daniel,M.
+A1 Yu,Philip,S.
+YR 1990
+T1 An effective algorithm for parallelizing sort merge joins in the presence of data skew
+
+RT Journal Article
+ID 780683
+A1 Cornell,Douglas,W.
+A1 Yu,Philip,S.
+YR 1990
+T1 Integrated approach to buffer management and query optimization
+JF Computer Systems: Science & Engineering
+VO 5
+SP 243
+OP 251
+IS 4
+
+RT Conference Proceedings
+ID 49892616
+A1 Chen,Ming-Syan
+A1 Yu,Philip,S.
+YR 1990
+T1 Using join operations as reducers in distributed query processing
+
+RT Conference Proceedings
+ID 579178
+A1 Cornell,Douglas,W.
+A1 Yu,Philip,S.
+YR 1989
+T1 Integration of Buffer Management and Query Optimization in Relational Database Environment
+SP 247
+OP 255
+
+RT Journal Article
+ID 767522
+A1 Dias,Daniel,M.
+A1 Iyer,Balakrishna,R.
+A1 Robinson,John,T.
+A1 Yu,Philip,S.
+YR 1989
+T1 Integrated Concurrency-Coherency Controls for Multisystem Data Sharing
+JF IEEE Transactions on Software Engineering
+VO 15
+SP 437
+OP 448
+IS 4
+
+RT Conference Proceedings
+ID 523085
+A1 Lakshmi,M.,Seetha
+A1 Yu,Philip,S.
+YR 1989
+T1 Limiting Factors of Join Performance on Parallel Processors
+SP 488
+OP 496
+
+RT Journal Article
+ID 711250
+A1 Yu,Philip,S.
+A1 Cornell,Douglas,W.
+A1 Dias,Daniel,M.
+A1 Thomasian,Alexander
+YR 1989
+T1 Performance Comparison of IO Shipping and Database Call Shipping: Schemes in Multisystem Partitioned Databases
+JF Performance Evaluation
+VO 10
+SP 15
+OP 33
+IS 1
+
+RT Journal Article
+ID 767837
+A1 Cornell,Douglas,W.
+A1 Yu,Philip,S.
+YR 1989
+T1 On Optimal Site Assignment for Relations in the Distributed Database Environment
+JF IEEE Transactions on Software Engineering
+VO 15
+SP 1004
+OP 1009
+IS 8
+
+RT Journal Article
+ID 767969
+A1 Wolf,Joel,L.
+A1 Dias,Daniel,M.
+A1 Iyer,Balakrishna,R.
+A1 Yu,Philip,S.
+YR 1989
+T1 Multisystem Coupling by a Combination of Data Sharing and Data Partitioning
+JF IEEE Transactions on Software Engineering
+VO 15
+SP 854
+OP 860
+IS 7
+
+RT Conference Proceedings
+ID 680492
+A1 Yu,Philip,S.
+A1 Dias,Daniel,M.
+YR 1989
+T1 Performance Analysis of Optimistic Concurrency Control Schemes for Systems with Large Memory
+SP 238
+
+RT Conference Proceedings
+ID 533247
+A1 Lakshmi,M.,Seetha
+A1 Yu,Philip,S.
+YR 1989
+T1 Analysis of Parallel Processing Architectures for Database Systems
+SP 83
+OP 90
+
+RT Conference Proceedings
+ID 607765
+A1 Leffl,Avraham
+A1 Yu,Philip,S.
+A1 Lee,Yann-hang
+YR 1989
+T1 Adaptive Transaction Routing in a Heterogeneous Database Environment
+SP 406
+OP 413
+
+RT Journal Article
+ID 779099
+A1 Lee,Yann-hang
+A1 Yu,Philip,S.
+A1 Leff,Avraham
+YR 1989
+T1 Robust Transaction-Routing Strategies in Distributed Database Systems
+JF IEEE Data(base) Engineering Bulletin
+VO 12
+SP 51
+OP 57
+IS 1
+
+RT Conference Proceedings
+ID 574481
+A1 Ciciani,Bruno
+A1 Dias,Daniel,M.
+A1 Yu,Philip,S.
+YR 1989
+T1 Performance Comparision of Concurrency Control Protocols for Transaction Processing Systems with Regional Locality
+SP 112
+OP 118
+
+RT Conference Proceedings
+ID 49863104
+A1 Ciciani,Bruno
+A1 Dias,Daniel,M.
+A1 Yu,Philip,S.
+YR 1989
+T1 Performance comparison of concurrency control protocols for transaction processing systems with regional locality
+
+RT Conference Proceedings
+ID 49862825
+A1 Lee,Yann-Hang
+A1 Yu,P.,S.
+YR 1989
+T1 Adaptive selection of access path and join method
+
+RT Conference Proceedings
+ID 511407
+A1 Lakshmi,M.,Seetha
+A1 Yu,Philip,S.
+YR 1988
+T1 Effect of Skew on Join Performance in Parallel Architectures
+SP 107
+OP 120
+
+RT Journal Article
+ID 716211
+A1 Dias,Daniel,M.
+A1 Iyer,Balakrishna,R.
+A1 Yu,Philip,S.
+YR 1988
+T1 Tradeoffs Between Coupling Small and Large Processors for Transaction Processing
+JF IEEE Transactions on Computers
+VO 37
+SP 310
+OP 320
+IS 3
+
+RT Journal Article
+ID 766695
+A1 Yu,Philip,S.
+A1 Balsamo,Simonetta
+A1 Lee,Yann-hang
+YR 1988
+T1 Dynamic Transaction Routing in Distributed Database Systems
+JF IEEE Transactions on Software Engineering
+VO 14
+SP 1307
+OP 1318
+IS 9
+
+RT Conference Proceedings
+ID 523397
+A1 Wolf,Joel,L.
+A1 Dias,Daniel,M.
+A1 Iyer,Balakrishna,R.
+A1 Yu,Philip,S.
+YR 1988
+T1 A Hybrid Data Sharing - Data Partitioning Architecture for Transaction Processing
+SP 520
+OP 527
+
+RT Conference Proceedings
+ID 523315
+A1 Cornell,Douglas,W.
+A1 Yu,Philip,S.
+YR 1988
+T1 Site Assignment for Relations and Join Operations in the Distributed Transaction Processing Environment
+SP 100
+OP 108
+
+RT Journal Article
+ID 1361472
+A1 Lee,Y.,H.
+A1 Yu,P.,S.
+YR 1988
+T1 Adaptive selection of access path and join method
+
+RT Journal Article
+ID 714635
+A1 Yu,Philip,S.
+A1 Krishna,C.,Mani
+A1 Lee,Yann-hang
+YR 1988
+T1 Optimal Design and Sequential Analysis of VLSI Testing Strategy
+JF IEEE Transactions on Computers
+VO 37
+SP 339
+OP 347
+IS 3
+
+RT Conference Proceedings
+ID 607252
+A1 Ciciani,Bruno
+A1 Dias,Daniel,M.
+A1 Yu,Philip,S.
+YR 1988
+T1 Load Sharing in Hybrid Distributed - Centralized Database Systems
+SP 274
+OP 281
+
+RT Conference Proceedings
+ID 511400
+A1 Lee,Yann-hang
+A1 Yu,Philip,S.
+A1 Leff,Avraham
+YR 1988
+T1 Robust Transaction Routing in Distributed Database Systems
+SP 210
+OP 219
+
+RT Journal Article
+ID 780617
+A1 Iyer,Balakrishna,R.
+A1 Dias,Daniel,M.
+A1 Yu,Philip,S.
+YR 1988
+T1 Performability comparison of configurable duplex systems
+JF Computer Systems: Science & Engineering
+VO 3
+SP 201
+OP 215
+IS 4
+
+RT Conference Proceedings
+ID 523314
+A1 Cornell,Douglas,W.
+A1 Yu,Philip,S.
+YR 1987
+T1 A Vertical Partitioning Algorithm for Relational Databases
+SP 30
+OP 35
+
+RT Journal Article
+ID 1322535
+A1 Yu,P.,S.
+A1 Dias,D.,M.
+A1 Robinson,J.,T.
+A1 Iyer,B.,R.
+A1 Cornell,D.,W.
+YR 1987
+T1 On coupling multi-systems through data sharing
+JF Proceedings of The IEEE
+VO 75
+SP 573
+OP 587
+IS 5
+
+RT Journal Article
+ID 711249
+A1 Yu,Philip,S.
+A1 Cornell,Douglas,W.
+A1 Dias,Daniel,M.
+A1 Iyer,Balakrishna,R.
+YR 1987
+T1 Analysis of Affinity Based Routing in MultiSystem Data Sharing
+JF Performance Evaluation
+VO 7
+SP 87
+OP 109
+IS 2
+
+RT Conference Proceedings
+ID 577982
+A1 Dias,Daniel,M.
+A1 Iyer,Balakrishna,R.
+A1 Robinson,John,T.
+A1 Yu,Philip,S.
+YR 1987
+T1 Design and Analysis of Integrated Concurrency-Coherence Controls
+SP 463
+OP 471
+
+RT Conference Proceedings
+ID 607575
+A1 Dias,Daniel,M.
+A1 Yu,Philip,S.
+A1 Bennett,B.,T.
+YR 1987
+T1 On Centralized versus Geographically Distributed Database Systems
+SP 64
+OP 73
+
+RT Journal Article
+ID 715465
+A1 Lee,Yann-hang
+A1 Yu,Philip,S.
+A1 Iyer,Balakrishna,R.
+YR 1987
+T1 Progressive Transaction Recovery in Distributed DB/DC Systems
+JF IEEE Transactions on Computers
+VO 36
+SP 976
+OP 987
+IS 8
+
+RT Journal Article
+ID 780620
+A1 Iyer,Balakrishna,R.
+A1 Yu,Philip,S.
+A1 Donatiello,Lorenzo
+YR 1987
+T1 Analysis of Fault Tolerant Multiprocessor Architectures for Lock Engine Design
+JF Computer Systems: Science & Engineering
+VO 2
+SP 59
+OP 75
+IS 2
+
+RT Conference Proceedings
+ID 607716
+A1 Cornell,Douglas,W.
+A1 Yu,Philip,S.
+YR 1987
+T1 Relation Assignment in Distributed Transaction Processing Environment
+SP 50
+OP 55
+
+RT Conference Proceedings
+ID 557190
+A1 Yu,Philip,S.
+A1 Krishna,C.,Mani
+A1 Lee,Yann-hang
+YR 1987
+T1 An Adaptive Optimization Model with Applications to Testing
+SP 503
+OP 515
+
+RT Conference Proceedings
+ID 452118
+A1 Yu,Philip,S.
+A1 Krishna,C.,Mani
+A1 Lee,Yann-Hang
+YR 1987
+T1 VLSI circuit testing using and adaptive optimization model
+SP 399
+OP 406
+
+RT Conference Proceedings
+ID 49841449
+A1 Yu,Philip,S.
+A1 Krishna,C.,M.
+A1 Lee,Yann-Hang
+YR 1987
+T1 VLSI Circuit Testing Using an Adaptive Optimization Model
+SP 399
+OP 406
+
+RT Journal Article
+ID 767961
+A1 Cornell,Douglas,W.
+A1 Dias,Daniel,M.
+A1 Yu,Philip,S.
+YR 1986
+T1 On Multisystem Coupling Through Function Request Shipping
+JF IEEE Transactions on Software Engineering
+VO 12
+SP 1006
+OP 1017
+IS 10
+
+RT Journal Article
+ID 551454
+A1 Dias,Daniel,M.
+A1 Iyer,Balakrishna,R.
+A1 Yu,Philip,S.
+YR 1986
+T1 On coupling many small systems for transaction processing
+JF ACM Sigarch Computer Architecture News
+VO 14
+SP 104
+OP 110
+IS 2
+
+RT Conference Proceedings
+ID 607454
+A1 Yu,Philip,S.
+A1 Cornell,Douglas,W.
+A1 Dias,Daniel,M.
+A1 Thomasian,Alexander
+YR 1986
+T1 On Coupling Partitioned Database Systems
+SP 148
+OP 157
+
+RT Conference Proceedings
+ID 571575
+A1 Iyer,Balakrishna,R.
+A1 Yu,Philip,S.
+A1 Lee,Yann-hang
+YR 1986
+T1 Analysis of Recovery Protocols in Distributed On-Line Transaction Processing Systems
+SP 226
+OP 233
+
+RT Conference Proceedings
+ID 523390
+A1 Cornell,Douglas,W.
+A1 Dias,Daniel,M.
+A1 Yu,Philip,S.
+YR 1986
+T1 Analysis of MultiSystem Function Request Shipping
+SP 282
+OP 291
+
+RT Conference Proceedings
+ID 1792027
+A1 Iyer,Balakrishna,R.
+A1 Dias,Daniel,M.
+A1 Yu,Philip,S.
+YR 1986
+T1 Performability Analysis of Operation Modes of Configurable Duplex Systems
+SP 785
+OP 796
+
+RT Conference Proceedings
+ID 1792016
+A1 Yu,Philip,S.
+A1 Balsamo,Simonetta
+A1 Lee,Yann-hang
+YR 1986
+T1 Dynamic Load Sharing in Distributed Database Systems
+SP 675
+OP 683
+
+RT Conference Proceedings
+ID 574488
+A1 Yu,Philip,S.
+A1 Iyer,Balakrishna,R.
+A1 Lee,Yann-hang
+YR 1986
+T1 Transaction Recovery in Distributed DB/DC Systems: A Progressive Approach
+SP 207
+OP 214
+
+RT Conference Proceedings
+ID 578790
+A1 Yu,Philip,S.
+A1 Cornell,Douglas,W.
+A1 Dias,Daniel,M.
+A1 Iyer,Balakrishna,R.
+YR 1986
+T1 On Affinity Based Routing in MultiSystem Data Sharing
+SP 249
+OP 256
+
+RT Journal Article
+ID 680818
+A1 Yu,Philip,S.
+A1 Dias,Daniel,M.
+A1 Robinson,John,T.
+A1 Iyer,Balakrishna,R.
+A1 Cornell,Douglas,W.
+YR 1985
+T1 Modelling of Centralized Concurrency Control in a MultiSystem Environment
+JF Sigmetrics Performance Evaluation Review
+VO 13
+SP 183
+OP 191
+IS 2
+
+RT Conference Proceedings
+ID 455226
+A1 Yu,Philip,S.
+A1 Dias,Daniel,M.
+A1 Robinson,John,T.
+A1 Iyer,Balakrishna,R.
+A1 Cornell,Douglas,W.
+YR 1985
+T1 Distributed Concurrency Control Analysis for Data Sharing
+SP 13
+OP 20
+
+RT Journal Article
+ID 1370118
+A1 Iyer,B.,R.
+A1 Yu,P.,S.
+A1 Donatiello,L.
+YR 1985
+T1 Analysis of fault tolerant multiproeessor architectures for lock engine design
+
+RT Journal Article
+ID 1278568
+A1 Iyer,B.,R.
+A1 Dias,D.,M.
+A1 Yu,P.,S.
+YR 1985
+T1 Performability comparison of configurable duplex system structures
+
+RT Journal Article
+ID 39213783
+A1 Yu,Philip,S.
+A1 Dias,Daniel,M.
+A1 Robinson,John,T.
+A1 Iyer,Balakrishna,R.
+A1 Cornell,Douglas
+YR 1985
+T1 Modelling of centralized concurrency control in a multi-system environment
+JF Sigmetrics Performance Evaluation Review
+SP 183
+OP 191
+
+RT Journal Article
+ID 1282291
+A1 Bennett,B.,T.
+A1 Franaszek,P.,A.
+A1 Rosinson,J.,T.
+A1 Yu,P.,S.
+YR 1984
+T1 Check on access via hierarchical block validation
+
+RT Book, Whole
+ID 1379435
+A1 Yu,Philip
+A1 Chen,Mon
+A1 Kandlur,Dilip
+T1 Design and analysis of a grouped sweeping scheme for multimedia storage management
+
+RT Journal Article
+ID 4676752
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+T1 PRIVACY-PRESERVING DATA MINING: MODELS AND ALGORITHMS
+
+RT Journal Article
+ID 6213931
+A1 FUNG,BENJAMIN,C.,M.
+A1 YU,PHILIP,S.
+T1 Privacy-Preserving Data Publishing: A Survey on Recent Developments
+JF ACM Computing Surveys
+
+RT Book, Whole
+ID 2315716
+A1 Canali,Claudia
+A1 Cardellini,Valeria
+A1 Colajanni,Michele
+A1 Lancellotti,Riccardo
+A1 Yu,Philip,S.
+T1 Cooperative Architectures and Algorithms for Discovery and Transcoding of Multi-Version Content
+
+RT Conference Proceedings
+ID 5283160
+A1 Li,Xin
+A1 Liu,Bing
+A1 Yu,Philip,S.
+T1 Mining Community Structure of Named Entities from Web Pages and Blogs
+
+RT Book, Whole
+ID 5727490
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+T1 A Survey of Synopsis Construction in Data Streams
+
+RT Journal Article
+ID 3887992
+A1 Dan,Asit
+A1 Dias,Daniel,M.
+A1 Yu,Philip,S.
+T1 The Effect of Skewed Data Access on Buffer Hits and Data Contention in a Data Sharing Environment
+
+RT Book, Whole
+ID 47841023
+A1 Aggarwal,Cham,C.
+A1 Han,Jiawei
+A1 Wang,Jianyong
+A1 Yu,Philip
+T1 On Clustering Massive Data Streams: A Summarization Paradigm
+
+RT Book, Whole
+ID 4990941
+A1 Colajanni,Michele
+A1 Lancellotti,Riccardo
+A1 Yu,Philip
+T1 Distributed Architectures for Web Content Adaptation and Delivery
+
+RT Journal Article
+ID 5318525
+A1 Agarwal,Nitin
+A1 Liu,Huan
+A1 Salerno,John
+A1 Yu,Philip
+T1 Searching for "Familiar Strangers" on Blogosphere: Problems and Challenges
+
+RT Journal Article
+ID 10256954
+A1 Gu,Xiaohui
+A1 Wen,Zhen
+A1 Yu,Philip,S.
+A1 Shae,Zon-Yin
+T1 peerTalk: A Peer-to-Peer Multi-Party Voice-Over-IP System
+
+RT Journal Article
+ID 10864540
+A1 Chi,Yun
+A1 Yu,Philip,S.
+A1 Wang,Haixun
+A1 Muntz,Richard,R.
+T1 Loadstar: A Load Shedding Scheme for Classifying Data Streams
+
+RT Book, Whole
+ID 47860398
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+T1 Privacy-Preserving Data Mining: A Survey
+
+RT Journal Article
+ID 1251850
+A1 Lo,M.,L
+A1 Chen,M.,S
+A1 Ravishankar,C.,V.
+A1 Yu,P.,S.
+T1 Optimal processor allocation for pipelined hash joins
+
+RT Journal Article
+ID 10739592
+A1 He,Hao
+A1 Wang,Haixun
+A1 Yang,Jun
+A1 Yu,Philip,S.
+T1 Compact Reachability Labeling for Graph-Structured Data
+
+RT Book, Whole
+ID 48307471
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+T1 A General Survey of Privacy-Preserving Data Mining Models and Algorithms
+
+RT Journal Article
+ID 11201760
+A1 Yan,Xifeng
+A1 Yu,Philip,S.
+A1 Han,Jiawei
+T1 Graph Indexing: A Frequent Structure›based Approach
+
+RT Journal Article
+ID 6378255
+A1 Bamba,Bhuvan
+A1 Liu,Ling
+A1 Iyengar,Arun
+A1 Yu,Philip,S.
+T1 Safe Region Techniques for Fast Spatial Alarm Evaluation
+
+RT Journal Article
+ID 48017432
+A1 Wong,Raymond,Chi-Wing
+A1 Özsu,M.,Tamer
+A1 Fu,Ada,Wai-Chee
+A1 Yu,Philip,S.
+A1 Liu,Lian
+A1 Liu,Yubao
+T1 Maximizing bichromatic reverse nearest neighbor for L p -norm in two- and three-dimensional spaces
+JF The Vldb Journal
+SP 1
+OP 27
+
+RT Journal Article
+ID 4987706
+A1 Colajanni,Michele
+A1 Lancellotti,Riccardo
+A1 Yu,Philip,S.
+T1 Scalable architectures and services for ubiquitous Web access
+
+RT Journal Article
+ID 11902331
+A1 Basista,B.
+A1 Yu,Phil
+A1 Clark,Jerry
+A1 Look,David
+A1 Chen,C.,Q.
+A1 Yang,Jinwei
+A1 Kahn,Asif
+A1 Dmitriev,Vladimir
+A1 Chung,Sung-Yong
+A1 Jin,Niu
+A1 Pavlovicz,Ryan,E.
+A1 Berger,R.
+A1 Thompson,Phillip,E.
+T1 Refereed publications and book chapters published
+
+RT Book, Whole
+ID 6015643
+A1 Liu,Bing
+A1 Xia,Yiyuan
+A1 Yu,Philip,S.
+T1 Clustering Via Decision Tree Construction
+
+RT Journal Article
+ID 12788938
+A1 Nasraoui,Olfa
+A1 Zaïane,Osmar,R.
+A1 Spiliopoulou,Myra
+A1 Mobasher,Bamshad
+A1 Yu,Philip
+A1 Masand,Brij
+T1 Workshop on Knowledge Discovery in the Web
+
+RT Journal Article
+ID 10828997
+A1 Liu,Chao
+A1 Yany,Xifeng
+A1 Yu,Hwanjo
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+T1 Mining Beha vior Graphs for \Backtrace" of Noncrashing Bugs
+
+RT Journal Article
+ID 10366255
+A1 Zhu,Feida
+A1 Yan,Xifeng
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+A1 Cheng,Hong
+T1 Mining Colossal Frequent Patterns by Core Pattern Fusion
+
+RT Book, Whole
+ID 48346200
+A1 Sun,Jimeng
+A1 Papadimitriou,Spiros
+A1 Yu,Philip,S.
+A1 Faloutsos,Christos
+T1 Community Evolution and Change Point Detection in Time-Evolving Graphs
+
+RT Journal Article
+ID 10864091
+A1 Yan,Xifeng
+A1 Cheng,Hong
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+T1 Mining Significant Graph Patterns by Leap Search
+
+RT Book, Whole
+ID 48077762
+A1 Tong,Hanghang
+A1 Papadimitriou,Spiros
+A1 Yu,Philip,S.
+A1 Faloutsos,Christos
+T1 Proximity Tracking on Dynamic Bipartite Graphs: Problem Definitions and Fast Solutions
+
+RT Journal Article
+ID 6509436
+A1 Han,Jiawei
+A1 Yin,Xiaoxin
+A1 Yu,Philip,S.
+T1 Exploring the Power of Links in Scalable Data Analysis
+
+RT Journal Article
+ID 6657123
+A1 Pei,Jian
+A1 Liu,Jian
+A1 Wang,Haixun
+A1 Wang,Ke
+A1 Yu,Philip,S.
+A1 Wang,Jianyong
+T1 Efficiently Mining Frequent Closed Partial Orders (Extended Abstract)
+
+RT Book, Whole
+ID 47758934
+A1 Yin,Xiaoxin
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+T1 Scalable Link-Based Similarity Computation and Clustering
+
+RT Book, Whole
+ID 48134216
+A1 Yin,Xiaoxin
+A1 Han,Jiawei
+A1 Yu,Philip,S.
+T1 Veracity Analysis and Object Distinction
+
+RT Journal Article
+ID 10601685
+A1 Chi,Yun
+A1 Wang,Haixun
+A1 Yu,Philip,S.
+A1 Muntz,Richard,R.
+T1 Moment: Maintaining Closed Frequent Itemsets over a Stream Sliding Window
+
+RT Journal Article
+ID 10306561
+A1 Agarwal,Nitin
+A1 Liu,Huan
+A1 Subramanya,Shankara
+A1 Salerno,John,J.
+A1 Yu,Philip,S.
+T1 Connecting Sparsely Distributed Similar Bloggers
+
+RT Journal Article
+ID 10691814
+A1 Cheng,Hong
+A1 Yu,Philip,S.
+A1 Han,Jiawei
+T1 AC-Close: Eciently Mining Approximate Closed Itemsets by Core Pattern Recovery
+
+RT Journal Article
+ID 49632329
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+T1 On the Network Effect in Web 2.0 Applications
+JF Electronic Commerce Research and Applications
+
+RT Book, Whole
+ID 47905183
+A1 Pei,Jian
+A1 Zhang,Xiaoling
+A1 Cho,Moonjung
+A1 Wang,Haixun
+A1 Yu,Philip,S.
+T1 On Mining Maximal Pattern-Based Clusters
+
+RT Journal Article
+ID 48815917
+A1 Xing,Zhengzheng
+A1 Pei,Jian
+A1 Yu,Philip,S.
+T1 Early classification on time series
+JF Knowledge and Information Systems
+SP 1
+OP 23
+
+RT Book, Whole
+ID 48839507
+A1 Stahl,Frederic
+A1 Gaber,Mohamed,Medhat
+A1 Liu,Han
+A1 Bramer,Max
+A1 Yu,Philip
+T1 Distributed Classification for Pocket Data Mining
+
+RT Journal Article
+ID 12815906
+A1 Sun,Zheng
+A1 Yu,Philip,S.
+A1 Liz,Xiang-Yang
+T1 Iterative Mining for Rules with Constrained Antecedents
+
+RT Journal Article
+ID 58575028
+A1 Xu,Tianbing
+A1 Zhang,Zhongfei
+A1 Yu,Philip,S.
+A1 Long,Bo
+T1 Generative Models for Evolutionary Clustering
+JF ACM Transactions on Knowledge Discovery From Data
+SP 1
+OP 27
+
+RT Journal Article
+ID 11461011
+A1 Gu,Xiaohui
+A1 Papadimitriou,Spiros
+A1 Yu,Philip,S.
+A1 Chang,Shu-Ping
+T1 Online Failure Forecast for Fault-Tolerant Data Stream Processing
+
+RT Journal Article
+ID 10221519
+A1 Li,Xiao-Li
+A1 Yu,Philip,S.
+A1 Liu,Bing
+A1 Ng,See-Kiong
+T1 Positive Unlabeled Learning for Data Stream Classiflcation
+
+RT Journal Article
+ID 12117493
+A1 Chen,Ming-Syan
+A1 Yu,Philip,S.
+A1 Wu,Kun-Lung
+T1 ptimimation of f ulti-Join ri
+
+RT Journal Article
+ID 48867779
+A1 Kong,Xiangnan
+A1 Yu,Philip,S.
+T1 gMLC: a multi-label feature selection framework for graph classification
+JF Knowledge and Information Systems
+SP 1
+OP 25
+
+RT Journal Article
+ID 6894116
+A1 Long,Bo
+A1 Binghamton,SUNY
+A1 Wu,Xiaoyun
+A1 Yu,Philip,S.
+T1 Community Learning by Graph Approximation
+
+RT Journal Article
+ID 10225237
+A1 Aggarwal,C.
+A1 Yu,Philip,S.
+T1 On Indexing High Dimensional Data with Uncertainty
+
+RT Journal Article
+ID 11771420
+A1 Chen,Shixi
+A1 Wang,Haixun
+A1 Zhou,Shuigeng
+A1 Yu,Philip,S.
+T1 Stop Chasing Trends: Discovering High Order Models in Evolving Data
+
+RT Book, Whole
+ID 48199312
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+T1 A Survey of Randomization Methods for Privacy-Preserving Data Mining
+
+RT Book, Whole
+ID 48264691
+A1 Aggarwal,Charu,C.
+A1 Yu,Philip,S.
+T1 An Introduction to Privacy-Preserving Data Mining
+
+RT Journal Article
+ID 10467556
+A1 Canali,Claudia
+A1 Colajanni,Michele
+A1 Lancellotti,Riccardo
+A1 Yu,Philip,S.
+T1 Distributed system for the support of mobile Web-based services1
+
+RT Journal Article
+ID 11446826
+A1 Canali,Claudia
+A1 Colajanni,Michele
+A1 Lancellotti,Riccardo
+A1 Yu,Philip,S.
+T1 AdistributedinfrastructuresupportingpersonalizedservicesfortheMobileWeb
+
+RT Journal Article
+ID 12219381
+A1 Perng,Chang-Shing
+A1 Fan,Wei
+A1 Yu,Philip,S.
+A1 Wang,Haixun
+T1 An Index Structure for Pattern Similarity Searching in DN A Microarray Data
+
+RT Book, Whole
+ID 47990276
+A1 Long,Bo
+A1 Guo,Zhen
+A1 Xu,Tianbing
+A1 Yu,Philip,S.
+T1 Machine Learning Approaches to Link-Based Clustering
+
+RT Book, Whole
+ID 48269928
+A1 Yu,P.-S.
+A1 Chen,S.-T.
+A1 Chang,I.,F.
+T1 Real-Time Flood Stage Forecasting Using Support Vector Regression
+
+RT Book, Whole
+ID 48233767
+A1 Li,Xin
+A1 Liu,Bing
+A1 Yu,Philip,S.
+T1 Time Sensitive Ranking with Application to Publication Search
+
+RT Journal Article
+ID 11925771
+A1 Yu,Philip,S.
+T1 PERFORMANCE ANALYSIS OF COMPUTER COMMUNICATION NETWORKS VIA RANDOM ACCESS CHANNELS
+
+RT Journal Article
+ID 11926232
+A1 Yu,Philip,S.
+T1 NOTES ON MODELLING OF COMPUTER SYSTEMS AND NETWORKS

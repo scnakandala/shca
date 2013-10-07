@@ -1,0 +1,4259 @@
+RT Journal Article
+ID 57022540
+A1 Vedaldi,Andrea
+A1 Zisserman,Andrew
+YR 2012
+T1 Efficient Additive Kernels via Explicit Feature Maps
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 34
+SP 480
+OP 492
+IS 3
+
+RT Journal Article
+ID 58573444
+A1 Jammalamadaka,Nataraj
+A1 Zisserman,Andrew
+A1 Eichner,Marcin
+A1 Ferrari,Vittorio
+A1 Jawahar,C.,V.
+YR 2012
+T1 Video retrieval by mimicking poses
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 56985674
+A1 El-Labban,A.
+A1 Zisserman,A.
+A1 Toyoda,Y.
+A1 Bird,A.,W.
+A1 Hyman,A.
+YR 2012
+T1 Discriminative Semi-Markov Models for automated mitotic phase labelling
+SP 760
+OP 763
+
+RT Conference Proceedings
+ID 56981361
+A1 Parkhi,Omkar,M.
+A1 Vedaldi,Andrea
+A1 Zisserman,Andrew
+YR 2012
+T1 On-the-fly specific person retrieval
+SP 1
+OP 4
+
+RT Journal Article
+ID 61407567
+A1 Pfister,Tomas
+A1 Charles,James
+A1 Everingham,Mark
+A1 Zisserman,Andrew
+YR 2012
+T1 Automatic and Efficient Long Term Arm and Hand Tracking for Continuous Sign Language TV Broadcasts
+
+RT Journal Article
+ID 61402063
+A1 Simonyan,K.
+A1 Modat,M.
+A1 Ourselin,S.
+A1 Criminisi,A.
+A1 Zisserman,A.
+YR 2012
+T1 Immediate ROI Search for 3D Medical Images
+
+RT Journal Article
+ID 58573413
+A1 Arandjelović,Relja
+A1 Zisserman,Andrew
+YR 2012
+T1 Name that sculpture
+SP 1
+OP 8
+
+RT Journal Article
+ID 14374038
+A1 Schroff,Florian
+A1 Criminisi,Antonio
+A1 Zissermann,Andrew
+YR 2011
+T1 Harvesting Image Databases from the Web
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 33
+SP 754
+OP 766
+IS 4
+
+RT Journal Article
+ID 59437465
+A1 R,Aly
+A1 K,McGuinness
+A1 S,Chen
+A1 M,Frappier
+A1 Kleppe,M.
+A1 R,Ordelman
+A1 R,Arandjelovic
+A1 M,Juneja
+A1 J,Schwenninger
+A1 S,Tschopel
+A1 D,Schneider
+A1 E,O'Connor,N.
+A1 A,Zisserman
+A1 Beunders,H.,J.,G.
+YR 2011
+T1 AXES at TRECVid 2011
+
+RT Conference Proceedings
+ID 56990147
+A1 Whyte,Oliver
+A1 Sivic,Josef
+A1 Zisserman,Andrew
+YR 2011
+T1 Deblurring shaken and partially saturated images
+
+RT Conference Proceedings
+ID 56988844
+A1 Chai,Yuning
+A1 Lempitsky,Victor
+A1 Zisserman,Andrew
+YR 2011
+T1 BiCoS: A Bi-level co-segmentation method for image classification
+SP 2579
+OP 2586
+
+RT Conference Proceedings
+ID 56988703
+A1 Parkhi,Omkar,M
+A1 Vedaldi,Andrea
+A1 Jawahar,C.,V.
+A1 Zisserman,Andrew
+YR 2011
+T1 The truth about cats and dogs
+SP 1427
+OP 1434
+
+RT Conference Proceedings
+ID 56988648
+A1 Vedaldi,Andrea
+A1 Blaschko,Matthew
+A1 Zisserman,Andrew
+YR 2011
+T1 Learning equivariant structured output SVM regressors
+SP 959
+OP 966
+
+RT Conference Proceedings
+ID 56990194
+A1 Gulshan,Varun
+A1 Lempitsky,Victor
+A1 Zisserman,Andrew
+YR 2011
+T1 Humanising GrabCut: Learning to segment humans using the Kinect
+
+RT Conference Proceedings
+ID 51203852
+A1 Arandjelovi'c,R.
+A1 Zisserman,Andrew
+YR 2011
+T1 Smooth Object Retrieval using a Bag of Boundaries
+SP 375
+OP 382
+
+RT Conference Proceedings
+ID 56988807
+A1 Aytar,Yusuf
+A1 Zisserman,Andrew
+YR 2011
+T1 Tabula rasa: Model transfer for object category detection
+SP 2252
+OP 2259
+
+RT Journal Article
+ID 61401546
+A1 Simonyan,K.
+A1 Criminisi,A.
+A1 Zisserman,A.
+YR 2011
+T1 Immediate Structured Image Search for Medical Images
+
+RT Journal Article
+ID 15271246
+A1 Everingham,Mark
+A1 Gool,Luc,J.,Van
+A1 Williams,Christopher,K.,I.
+A1 Winn,John,M.
+A1 Zisserman,Andrew
+YR 2010
+T1 The Pascal Visual Object Classes (VOC) Challenge
+JF International Journal of Computer Vision
+VO 88
+SP 303
+OP 338
+IS 2
+
+RT Conference Proceedings
+ID 39261228
+A1 Vedaldi,Andrea
+A1 Zisserman,Andrew
+YR 2010
+T1 Efficient additive kernels via explicit feature maps
+SP 3539
+OP 3546
+
+RT Conference Proceedings
+ID 39261535
+A1 Whyte,Oliver
+A1 Sivic,Josef
+A1 Zisserman,Andrew
+A1 Ponce,Jean
+YR 2010
+T1 Non-uniform deblurring for shaken images
+SP 491
+OP 498
+
+RT Book, Whole
+ID 13994869
+A1 Philbin,James
+A1 Isard,Michael
+A1 Sivic,Josef
+A1 Zisserman,Andrew
+YR 2010
+T1 Descriptor Learning for Efficient Retrieval
+SP 677
+OP 691
+
+RT Conference Proceedings
+ID 39261463
+A1 Gulshan,Varun
+A1 Rother,Carsten
+A1 Criminisi,Antonio
+A1 Blake,Andrew
+A1 Zisserman,Andrew
+YR 2010
+T1 Geodesic star convexity for interactive image segmentation
+SP 3129
+OP 3136
+
+RT Journal Article
+ID 6212078
+A1 Kumar,M.,Pawan
+A1 Torr,Philip,H.,S.
+A1 Zisserman,Andrew
+YR 2010
+T1 OBJCUT: Efficient Segmentation Using Top-Down and Bottom-Up Cues
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 32
+SP 530
+OP 545
+IS 3
+
+RT Journal Article
+ID 14375553
+A1 Fergus,Rob
+A1 Fei-Fei,Li
+A1 Perona,Pietro
+A1 Zisserman,Andrew
+YR 2010
+T1 Learning Object Categories From Internet Image Searches
+JF Proceedings of The IEEE
+VO 98
+SP 1453
+OP 1466
+IS 8
+
+RT Conference Proceedings
+ID 39258351
+A1 Patron,Alonso
+A1 Marszalek,Marcin
+A1 Zisserman,Andrew
+A1 Reid,Ian,D.
+YR 2010
+T1 High Five: Recognising human interactions in TV shows
+SP 1
+OP 11
+
+RT Journal Article
+ID 15271293
+A1 Karlsson,Stefan,M.
+A1 Pont,Sylvia,C.
+A1 Koenderink,Jan,J.
+A1 Zisserman,Andrew
+YR 2010
+T1 Illuminance Flow Estimation by Regression
+JF International Journal of Computer Vision
+VO 90
+SP 304
+OP 312
+IS 3
+
+RT Conference Proceedings
+ID 39258410
+A1 Arandjelovic,Relja
+A1 Zisserman,Andrew
+YR 2010
+T1 Efficient image retrieval for 3D structures
+SP 1
+OP 11
+
+RT Journal Article
+ID 7014238
+A1 Nilsback,Maria-Elena
+A1 Zisserman,Andrew
+YR 2010
+T1 Delving deeper into the whorl of flower segmentation
+JF Image and Vision Computing
+VO 28
+SP 1049
+OP 1062
+IS 6
+
+RT Conference Proceedings
+ID 39261562
+A1 Prasad,Mukta
+A1 Fitzgibbon,Andrew,W.
+A1 Zisserman,Andrew
+A1 Gool,Luc,J.,Van
+YR 2010
+T1 Finding Nemo: Deformable object class modelling using curve matching
+SP 1720
+OP 1727
+
+RT Conference Proceedings
+ID 39258355
+A1 Vempati,Sreekanth
+A1 Vedaldi,Andrea
+A1 Zisserman,Andrew
+A1 Jawahar,C.,V.
+YR 2010
+T1 Generalized RBF feature maps for Efficient Detection
+SP 1
+OP 11
+
+RT Journal Article
+ID 61401300
+A1 Simonyan,K.
+A1 Zisserman,A.
+A1 Criminisi,A.
+YR 2010
+T1 Anatomy-Driven Medical Image Search
+
+RT Conference Proceedings
+ID 5306834
+A1 Vedaldi,Andrea
+A1 Gulshan,Varun
+A1 Varma,Manik
+A1 Zisserman,Andrew
+YR 2009
+T1 Multiple kernels for object detection
+SP 606
+OP 613
+
+RT Journal Article
+ID 4111414
+A1 Varma,Manik
+A1 Zisserman,Andrew
+YR 2009
+T1 A Statistical Approach to Material Classification Using Image Patch Exemplars
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 31
+SP 2032
+OP 2047
+IS 11
+
+RT Conference Proceedings
+ID 39265930
+A1 Mairal,Julien
+A1 Bach,Francis
+A1 Ponce,Jean
+A1 Sapiro,Guillermo
+A1 Zisserman,Andrew
+YR 2009
+T1 Nonlocal sparse models for image restoration
+SP 2272
+OP 2279
+
+RT Journal Article
+ID 4768264
+A1 Sivic,Josef
+A1 Zisserman,Andrew
+YR 2009
+T1 Efficient Visual Search of Videos Cast as Text Retrieval
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 31
+SP 591
+OP 606
+IS 4
+
+RT Journal Article
+ID 4582294
+A1 Pickup,Lyndsey,C.
+A1 Capel,David,P.
+A1 Roberts,Stephen,J.
+A1 Zisserman,Andrew
+YR 2009
+T1 Bayesian Methods for Image Super-Resolution
+JF The Computer Journal
+VO 52
+SP 101
+OP 113
+IS 1
+
+RT Conference Proceedings
+ID 6368188
+A1 Ferrari,Vittorio
+A1 Marín-jiménez,Manuel,J.
+A1 Zisserman,Andrew
+YR 2009
+T1 Pose search: Retrieving people using their pose
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 6368061
+A1 Buehler,Patrick
+A1 Zisserman,Andrew
+A1 Everingham,Mark
+YR 2009
+T1 Learning sign language by watching TV (using weakly aligned subtitles)
+SP 2961
+OP 2968
+
+RT Conference Proceedings
+ID 6368144
+A1 Sivic,Josef
+A1 Everingham,Mark
+A1 Zisserman,Andrew
+YR 2009
+T1 "Who are you?" - Learning person specific classifiers from video
+SP 1145
+OP 1152
+
+RT Journal Article
+ID 5590461
+A1 Everingham,Mark
+A1 Sivic,Josef
+A1 Zisserman,Andrew
+YR 2009
+T1 Taking the bite out of automated naming of characters in TV video
+JF Image and Vision Computing
+VO 27
+SP 545
+OP 559
+IS 5
+
+RT Conference Proceedings
+ID 5094381
+A1 Kumar,M.,Pawan
+A1 Zisserman,Andrew
+A1 Torr,Philip,H.,S.
+YR 2009
+T1 Efficient discriminative learning of parts-based models
+SP 552
+OP 559
+
+RT Conference Proceedings
+ID 6474929
+A1 Russell,Bryan,C.
+A1 Efros,Alexei,A.
+A1 Sivic,Josef
+A1 Freeman,William,T.
+A1 Zisserman,Andrew
+YR 2009
+T1 Segmenting Scenes by Matching Image Composites
+
+RT Conference Proceedings
+ID 6492891
+A1 Whyte,Oliver
+A1 Sivic,Josef
+A1 Zisserman,Andrew
+YR 2009
+T1 Get Out of my Picture! Internet-based Inpainting
+
+RT Conference Proceedings
+ID 6030719
+A1 Pickup,Lyndsey,C.
+A1 Zisserman,Andrew
+YR 2009
+T1 Automatic retrieval of visual continuity errors in movies
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 39258477
+A1 Sankar,K.,Pramod
+A1 Jawahar,C.,V.
+A1 Zisserman,Andrew
+YR 2009
+T1 Subtitle-free Movie to Script Alignment
+
+RT Conference Proceedings
+ID 13109024
+A1 Kurtz,Donna
+A1 Parker,Greg
+A1 Shotton,David
+A1 Klyne,G.
+A1 Schroff,F.
+A1 Zisserman,Andrew
+A1 Wilks,Y.
+YR 2009
+T1 CLAROS - Bringing Classical Art to a Global Public
+
+RT Journal Article
+ID 61401136
+A1 Everingham,Mark
+A1 Gool,Luc,Van
+A1 Williams,Christopher,K.,I.
+A1 Winn,John
+A1 Zisserman,Andrew
+YR 2009
+T1 The Pascal Visual Object Classes (VOC) Challenge
+
+RT Conference Proceedings
+ID 50782772
+A1 Sivic,Josef
+A1 Everingham,Mark
+A1 Zisserman,Andrew
+YR 2009
+T1 “Who are you?” - Learning person specific classifiers from video
+SP 1145
+OP 1152
+
+RT Conference Proceedings
+ID 50782782
+A1 Buehler,Patrick
+A1 Zisserman,A.
+A1 Everingham,M.
+YR 2009
+T1 Learning sign language by watching TV (using weakly aligned subtitles)
+SP 2961
+OP 2968
+
+RT Conference Proceedings
+ID 50782754
+A1 Ferrari,V.
+A1 Marin-Jimenez,M.
+A1 Zisserman,A.
+YR 2009
+T1 Pose search: Retrieving people using their pose
+SP 1
+OP 8
+
+RT Journal Article
+ID 4404091
+A1 Bosch,Anna
+A1 Zisserman,Andrew
+A1 Muñoz,Xavier
+YR 2008
+T1 Scene Classification Using a Hybrid Generative/Discriminative Approach
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 30
+SP 712
+OP 727
+IS 4
+
+RT Conference Proceedings
+ID 4704846
+A1 Philbin,James
+A1 Chum,Ondrej
+A1 Isard,Michael
+A1 Sivic,Josef
+A1 Zisserman,Andrew
+YR 2008
+T1 Lost in quantization: Improving particular object retrieval in large scale image databases
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 4704927
+A1 Ferrari,Vittorio
+A1 Marín-jiménez,Manuel,J.
+A1 Zisserman,Andrew
+YR 2008
+T1 Progressive search space reduction for human pose estimation
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 4704889
+A1 Mairal,Julien
+A1 Bach,Francis
+A1 Ponce,Jean
+A1 Sapiro,Guillermo
+A1 Zisserman,Andrew
+YR 2008
+T1 Discriminative learned dictionaries for local image analysis
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 5129138
+A1 Chum,Ondrej
+A1 Philbin,James
+A1 Zisserman,Andrew
+YR 2008
+T1 Near Duplicate Image Detection: min-Hash and tf-idf Weighting
+
+RT Journal Article
+ID 4373864
+A1 Mairal,Julien
+A1 Bach,Francis
+A1 Ponce,Jean
+A1 Sapiro,Guillermo
+A1 Zisserman,Andrew
+YR 2008
+T1 Supervised Dictionary Learning
+JF Computing Research Repository
+VO abs/0809.3
+SP 1033
+OP 1040
+
+RT Conference Proceedings
+ID 4704970
+A1 Sivic,Josef
+A1 Russell,Bryan,C.
+A1 Zisserman,Andrew
+A1 Freeman,William,T.
+A1 Efros,Alexei,A.
+YR 2008
+T1 Unsupervised discovery of visual object class hierarchies
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 4719984
+A1 Nilsback,Maria-elena
+A1 Zisserman,Andrew
+YR 2008
+T1 Automated Flower Classification over a Large Number of Classes
+SP 722
+OP 729
+
+RT Conference Proceedings
+ID 5385730
+A1 Schroff,Florian
+A1 Criminisi,Antonio
+A1 Zisserman,Andrew
+YR 2008
+T1 Object Class Segmentation using Random Forests
+
+RT Journal Article
+ID 4389576
+A1 Opelt,Andreas
+A1 Pinz,Axel
+A1 Zisserman,Andrew
+YR 2008
+T1 Learning an Alphabet of Shape and Appearance for Multi-Class Object Detection
+JF International Journal of Computer Vision
+VO 80
+SP 16
+OP 44
+IS 1
+
+RT Journal Article
+ID 14374271
+A1 Sivic,Josef
+A1 Zisserman,Andrew
+YR 2008
+T1 Efficient Visual Search for Objects in Videos
+JF Proceedings of The IEEE
+VO 96
+SP 548
+OP 566
+IS 4
+
+RT Journal Article
+ID 4389440
+A1 Kumar,M.,Pawan
+A1 Torr,Philip,H.,S.
+A1 Zisserman,Andrew
+YR 2008
+T1 Learning Layered Motion Segmentations of Video
+JF International Journal of Computer Vision
+VO 76
+SP 301
+OP 319
+IS 3
+
+RT Conference Proceedings
+ID 39258503
+A1 Buehler,Patrick
+A1 Everingham,Mark
+A1 Huttenlocher,Daniel,P.
+A1 Zisserman,Andrew
+YR 2008
+T1 Long Term Arm and Hand Tracking for Continuous Sign Language TV Broadcasts
+
+RT Conference Proceedings
+ID 5920380
+A1 Philbin,James
+A1 Sivic,Josef
+A1 Zisserman,Andrew
+YR 2008
+T1 Geometric LDA: A Generative Model for Particular Object Discovery
+
+RT Conference Proceedings
+ID 4719975
+A1 Philbin,James
+A1 Zisserman,Andrew
+YR 2008
+T1 Object Mining Using a Matching Graph on Very Large Image Collections
+SP 738
+OP 745
+
+RT Conference Proceedings
+ID 4718607
+A1 Targhi,Alireza,Tavakoli
+A1 Geusebroek,Jan-mark
+A1 Zisserman,Andrew
+YR 2008
+T1 Texture classification with minimal training images
+SP 1
+OP 4
+
+RT Conference Proceedings
+ID 4703545
+A1 Philbin,James
+A1 Zisserman,Andrew
+YR 2008
+T1 University of Oxford video retrieval system
+SP 565
+OP 566
+
+RT Conference Proceedings
+ID 6062719
+A1 Philbin,James
+A1 Marín-jiménez,Manuel,J.
+A1 Srinivasan,Siddharth
+A1 Zisserman,Andrew
+A1 Jain,Mihir
+A1 Vempati,Sreekanth
+A1 Sankar,K.,Pramod
+A1 Jawahar,C.,V.
+YR 2008
+T1 Oxford/IIIT TRECVID 2008 - Notebook paper
+
+RT Conference Proceedings
+ID 13264182
+A1 Forsyth,David,A.
+A1 Torr,Philip,H.,S.
+A1 Zisserman,Andrew
+YR 2008
+T1 Computer Vision - ECCV 2008, 10th European Conference on Computer Vision, Marseille, France, October 12-18, 2008, Proceedings, Part I
+
+RT Conference Proceedings
+ID 13264186
+A1 Forsyth,David,A.
+A1 Torr,Philip,H.,S.
+A1 Zisserman,Andrew
+YR 2008
+T1 Computer Vision - ECCV 2008, 10th European Conference on Computer Vision, Marseille, France, October 12-18, 2008, Proceedings, Part III
+
+RT Conference Proceedings
+ID 13264189
+A1 Forsyth,David,A.
+A1 Torr,Philip,H.,S.
+A1 Zisserman,Andrew
+YR 2008
+T1 Computer Vision - ECCV 2008, 10th European Conference on Computer Vision, Marseille, France, October 12-18, 2008, Proceedings, Part II
+
+RT Conference Proceedings
+ID 13264192
+A1 Forsyth,David,A.
+A1 Torr,Philip,H.,S.
+A1 Zisserman,Andrew
+YR 2008
+T1 Computer Vision - ECCV 2008, 10th European Conference on Computer Vision, Marseille, France, October 12-18, 2008, Proceedings, Part IV
+
+RT Conference Proceedings
+ID 4114940
+A1 Philbin,James
+A1 Chum,Ondrej
+A1 Isard,Michael
+A1 Sivic,Josef
+A1 Zisserman,Andrew
+YR 2007
+T1 Object retrieval with large vocabularies and fast spatial matching
+
+RT Conference Proceedings
+ID 4142427
+A1 Bosch,Anna
+A1 Zisserman,Andrew
+A1 Muñoz,Xavier
+YR 2007
+T1 Representing shape with a spatial pyramid kernel
+SP 401
+OP 408
+
+RT Journal Article
+ID 2512377
+A1 Ramanan,Deva
+A1 Forsyth,David,A.
+A1 Zisserman,Andrew
+YR 2007
+T1 Tracking People by Learning Their Appearance
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 29
+SP 65
+OP 81
+IS 1
+
+RT Conference Proceedings
+ID 4271425
+A1 Bosch,Anna
+A1 Zisserman,Andrew
+A1 Muñoz,Xavier
+YR 2007
+T1 Image Classification using Random Forests and Ferns
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 4116856
+A1 Chum,Ondrej
+A1 Philbin,James
+A1 Sivic,Josef
+A1 Isard,Michael
+A1 Zisserman,Andrew
+YR 2007
+T1 Total Recall: Automatic Query Expansion with a Generative Feature Model for Object Retrieval
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 4247736
+A1 Chum,Ondrej
+A1 Zisserman,Andrew
+YR 2007
+T1 An Exemplar Model for Learning Object Classes
+
+RT Conference Proceedings
+ID 4113563
+A1 Schroff,Florian
+A1 Criminisi,Antonio
+A1 Zisserman,Andrew
+YR 2007
+T1 Harvesting Image Databases from the Web
+SP 1
+OP 8
+
+RT Journal Article
+ID 2503366
+A1 Fergus,Robert
+A1 Perona,Pietro
+A1 Zisserman,Andrew
+YR 2007
+T1 Weakly Supervised Scale-Invariant Learning of Models for Visual Recognition
+JF International Journal of Computer Vision
+VO 71
+SP 273
+OP 303
+IS 3
+
+RT Conference Proceedings
+ID 4115839
+A1 Chum,Ondrej
+A1 Philbin,James
+A1 Isard,Michael
+A1 Zisserman,Andrew
+YR 2007
+T1 Scalable near identical image and shot detection
+SP 549
+OP 556
+
+RT Conference Proceedings
+ID 4727260
+A1 Ferrari,Vittorio
+A1 Zisserman,Andrew
+YR 2007
+T1 Learning Visual Attributes
+
+RT Conference Proceedings
+ID 4271294
+A1 Kumar,M.,Pawan
+A1 Torr,Philip,H.,S.
+A1 Zisserman,Andrew
+YR 2007
+T1 An Invariant Large Margin Nearest Neighbour Classifier
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 4592716
+A1 Apostoloff,Nicholas
+A1 Zisserman,Andrew
+YR 2007
+T1 Who Are You? - Real-time Person Identification
+
+RT Conference Proceedings
+ID 4579874
+A1 Nilsback,Maria-Elena
+A1 Zisserman,Andrew
+YR 2007
+T1 Delving into the Whorl of Flower Segmentation
+
+RT Journal Article
+ID 4584295
+A1 Pickup,Lyndsey,C.
+A1 Capel,David,P.
+A1 Roberts,Stephen,J.
+A1 Zisserman,Andrew
+YR 2007
+T1 Overcoming Registration Uncertainty in Image Super-Resolution: Maximize or Marginalize?
+JF Eurasip Journal on Advances in Signal Processing
+VO 2007
+SP 1
+OP 15
+
+RT Journal Article
+ID 13273581
+A1 Philbin,James
+A1 Chum,Ondrej
+A1 Sivic,Josef
+A1 Ferrari,Vittorio
+A1 Marín-Jiménez,Manuel,J.
+A1 Bosch,Anna
+A1 Apostolof,Nicholas
+A1 Zisserman,Andrew
+YR 2007
+T1 Oxford TRECVid 2007 \u2013 Notebook paper
+
+RT Journal Article
+ID 51172314
+A1 Ramanan,Deva
+A1 Forsyth,David,A.
+A1 Zisserman,Andrew
+YR 2007
+T1 Tracking People by Learning Their Appearance
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 29
+SP 65
+OP 81
+IS 1
+
+RT Book, Whole
+ID 39252170
+A1 Harltey,Andrew
+A1 Zisserman,Andrew
+YR 2006
+T1 Multiple view geometry in computer vision (2. ed.)
+
+RT Book, Whole
+ID 2427360
+A1 Bosch,Anna
+A1 Zisserman,Andrew
+A1 Muñoz,Xavier
+YR 2006
+T1 Scene Classification Via pLSA
+SP 517
+OP 530
+
+RT Conference Proceedings
+ID 2167341
+A1 Russell,Bryan,C.
+A1 Freeman,William,T.
+A1 Efros,Alexei,A.
+A1 Sivic,Josef
+A1 Zisserman,Andrew
+YR 2006
+T1 Using Multiple Segmentations to Discover Objects and their Extent in Image Collections
+VO 2
+SP 1605
+OP 1614
+
+RT Book, Whole
+ID 2427477
+A1 Opelt,Andreas
+A1 Pinz,Axel
+A1 Zisserman,Andrew
+YR 2006
+T1 A Boundary-Fragment-Model for Object Detection
+SP 575
+OP 588
+
+RT Conference Proceedings
+ID 3178243
+A1 Everingham,Mark
+A1 Sivic,Josef
+A1 Zisserman,Andrew
+YR 2006
+T1 Hello! My name is... Buffy'' -- Automatic Naming of Characters in TV Video
+SP 899
+OP 908
+
+RT Conference Proceedings
+ID 2167132
+A1 Opelt,Andreas
+A1 Pinz,Axel
+A1 Zisserman,Andrew
+YR 2006
+T1 Incremental learning of object detectors using a visual shape alphabet
+VO 1
+SP 3
+OP 10
+
+RT Conference Proceedings
+ID 2167351
+A1 Nilsback,Maria-elena
+A1 Zisserman,Andrew
+YR 2006
+T1 A Visual Vocabulary for Flower Classification
+VO 2
+SP 1447
+OP 1454
+
+RT Book, Whole
+ID 2483827
+A1 Sivic,Josef
+A1 Zisserman,Andrew
+YR 2006
+T1 Video Google: Efficient Visual Search of Videos
+VO 4170
+SP 127
+OP 144
+
+RT Book, Whole
+ID 2483825
+A1 Ponce,Jean
+A1 Berg,Tamara,L.
+A1 Everingham,Mark
+A1 Forsyth,David,A.
+A1 Hebert,Martial
+A1 Lazebnik,Svetlana
+A1 Marszalek,Marcin
+A1 Schmid,Cordelia
+A1 Russell,Bryan,C.
+A1 Torralba,Antonio,B.
+A1 Williams,Christopher,K.,I.
+A1 Zhang,Jianguo
+A1 Zisserman,Andrew
+YR 2006
+T1 Dataset Issues in Object Recognition
+SP 29
+OP 48
+
+RT Conference Proceedings
+ID 4116670
+A1 Everingham,M.
+A1 Zisserman,A.
+A1 Williams,C.
+A1 Gool,L.,V.
+YR 2006
+T1 The pascal visual object classes challenge 2006 results
+
+RT Book, Whole
+ID 2444752
+A1 Schroff,Florian
+A1 Criminisi,Antonio
+A1 Zisserman,Andrew
+YR 2006
+T1 Single-Histogram Class Models for Image Segmentation
+SP 82
+OP 93
+
+RT Journal Article
+ID 2503338
+A1 Sivic,Josef
+A1 Schaffalitzky,Frederik
+A1 Zisserman,Andrew
+YR 2006
+T1 Object Level Grouping for Video Shots
+JF International Journal of Computer Vision
+VO 67
+SP 189
+OP 210
+IS 2
+
+RT Conference Proceedings
+ID 2430241
+A1 Everingham,Mark
+A1 Zisserman,Andrew
+YR 2006
+T1 Regression and Classification Approaches to Eye Localization in Face Images
+SP 441
+OP 448
+
+RT Conference Proceedings
+ID 13307080
+A1 Ponce,Jean
+A1 Hebert,Martial
+A1 Schmid,Cordelia
+A1 Zisserman,Andrew
+YR 2006
+T1 Toward Category-Level Object Recognition
+
+RT Conference Proceedings
+ID 4304983
+A1 Pickup,Lyndsey,C.
+A1 Capel,David,P.
+A1 Roberts,Stephen,J.
+A1 Zisserman,Andrew
+YR 2006
+T1 Bayesian Image Super-resolution, Continued
+SP 1089
+OP 1096
+
+RT Conference Proceedings
+ID 4180558
+A1 Opelt,Andreas
+A1 Zisserman,Andrew
+A1 Pinz,Axel
+YR 2006
+T1 Fusing Shape and Appearance Information for Object Category Detection
+SP 117
+OP 126
+
+RT Book, Whole
+ID 2444716
+A1 Prasad,Mukta
+A1 Zisserman,Andrew
+A1 Fitzgibbon,Andrew,W.
+A1 Kumar,M.,Pawan
+A1 Torr,Philip,H.,S.
+YR 2006
+T1 Learning Class-Specific Edges for Object Detection and Segmentation
+SP 94
+OP 105
+
+RT Journal Article
+ID 3541326
+A1 Philbin,James
+A1 Bosch,Anna
+A1 Chum,Ondÿrej
+A1 Geusebroek,Jan-Mark
+A1 Sivic,Josef
+A1 Zisserman,Andrew
+YR 2006
+T1 Oxford TRECVID 2006 - Notebook paper
+JF Information and Computation/information and Control
+
+RT Conference Proceedings
+ID 2403164
+A1 Pickup,Lyndsey,C.
+A1 Roberts,Stephen,J.
+A1 Zisserman,Andrew
+YR 2006
+T1 Optimizing and Learning for Super-resolution
+SP 439
+OP 448
+
+RT Book, Whole
+ID 2483834
+A1 Fergus,Robert
+A1 Perona,Pietro
+A1 Zisserman,Andrew
+YR 2006
+T1 A Sparse Object Category Model for Efficient Learning and Complete Recognition
+SP 443
+OP 461
+
+RT Conference Proceedings
+ID 4187609
+A1 Kumar,M.,P.
+A1 Torr,P.,H.,S.
+A1 Zisserman,A.
+YR 2006
+T1 Solving Markov random fields using second order cone programming
+
+RT Conference Proceedings
+ID 2167244
+A1 Kumar,M.,Pawan
+A1 Torr,Philip,H.,S.
+A1 Zisserman,Andrew
+YR 2006
+T1 Solving Markov Random Fields using Second Order Cone Programming Relaxations
+VO 1
+SP 1045
+OP 1052
+
+RT Journal Article
+ID 4116671
+A1 Everingham,M.
+A1 Zisserman,A.
+A1 Williams,C.
+A1 Gool,L.,V.
+YR 2006
+T1 The Pascal VOC2006 results
+
+RT Book, Whole
+ID 2483819
+A1 Kumar,M.,Pawan
+A1 Torr,Philip,H.,S.
+A1 Zisserman,Andrew
+YR 2006
+T1 An Object Category Specific mrffor Segmentation
+SP 596
+OP 616
+
+RT Conference Proceedings
+ID 13313133
+A1 Malik,Jitendra
+A1 Samet,Hanan
+A1 Veltkamp,Remco,C.
+A1 Zisserman,Andrew
+YR 2006
+T1 Content-Based Retrieval, 4.-9. January 2004
+
+RT Journal Article
+ID 2386436
+A1 Mikolajczyk,Krystian
+A1 Tuytelaars,Tinne
+A1 Schmid,Cordelia
+A1 Zisserman,Andrew
+A1 Matas,Jiri
+A1 Schaffalitzky,Frederik
+A1 Kadir,Timor
+A1 Gool,Luc,J.,Van
+A1 Matas,J.
+YR 2005
+T1 A Comparison of Affine Region Detectors
+JF International Journal of Computer Vision
+VO 65
+SP 43
+OP 72
+IS 1-2
+
+RT Conference Proceedings
+ID 1796609
+A1 Sivic,Josef
+A1 Russell,Bryan,C.
+A1 Efros,Alexei,A.
+A1 Zisserman,Andrew
+A1 Freeman,William,T.
+YR 2005
+T1 Discovering Objects and their Localization in Images
+VO 1
+SP 370
+OP 377
+
+RT Conference Proceedings
+ID 1796766
+A1 Fergus,Robert
+A1 Li,Fei-fei
+A1 Perona,Pietro
+A1 Zisserman,Andrew
+YR 2005
+T1 Learning Object Categories from Google's Image Search
+VO 2
+SP 1816
+OP 1823
+
+RT Journal Article
+ID 1714746
+A1 Varma,Manik
+A1 Zisserman,Andrew
+YR 2005
+T1 A Statistical Approach to Texture Classification from Single Images
+JF International Journal of Computer Vision
+VO 62
+SP 61
+OP 81
+IS 1-2
+
+RT Conference Proceedings
+ID 2139943
+A1 Sivic,Josef
+A1 Russell,Bryan,C.
+A1 Efros,Alexei,A.
+A1 Zisserman,Andrew
+A1 Freeman,William,T.
+YR 2005
+T1 Discovering Object Categories in Image Collections
+
+RT Book, Whole
+ID 1907082
+A1 Everingham,Mark
+A1 Zisserman,Andrew
+A1 Williams,Christopher,K.,I.
+A1 Gool,Luc,J.,Van
+A1 Allan,Moray
+A1 Bishop,Christopher,M.
+A1 Chapelle,Olivier
+A1 Dalal,Navneet
+A1 Deselaers,Thomas
+A1 Dorkó,Gyuri
+A1 Duffner,Stefan
+A1 Eichhorn,Jan
+A1 Farquhar,Jason,D.,R.
+A1 Fritz,Mario
+A1 Garcia,Christophe
+A1 Griffiths,Tom
+A1 Jurie,Frédéric
+A1 Keysers,Daniel
+A1 Koskela,Markus
+A1 Laaksonen,Jorma
+A1 Larlus,Diane
+A1 Meng,Hongying
+A1 Ney,Hermann
+A1 Schiele,Bernt
+A1 Schmid,Cordelia
+A1 Seemann,Edgar
+A1 Shawe-taylor,John
+A1 Storkey,Amos,J.
+A1 Szedmák,Sándor
+A1 Triggs,Bill
+A1 Ulusoy,Ilkay
+A1 Viitaniemi,Ville
+A1 Zhang,Jianguo
+YR 2005
+T1 The 2005 PASCAL Visual Object Classes Challenge
+SP 117
+OP 176
+
+RT Conference Proceedings
+ID 2141024
+A1 Fergus,Robert
+A1 Perona,Pietro
+A1 Zisserman,Andrew
+YR 2005
+T1 A Sparse Object Category Model for Efficient Learning and Exhaustive Recognition
+VO 1
+SP 380
+OP 387
+
+RT Conference Proceedings
+ID 6594761
+A1 Kumar,M.,Pawan
+A1 Torr,Philip,H.,S.
+A1 Zisserman,Andrew
+YR 2005
+T1 OBJ CUT
+VO 1
+SP 18
+OP 25
+
+RT Conference Proceedings
+ID 1788845
+A1 Ramanan,Deva
+A1 Forsyth,David,A.
+A1 Zisserman,Andrew
+YR 2005
+T1 Strike a Pose: Tracking People by Finding Stylized Poses
+VO 1
+SP 271
+OP 278
+
+RT Book, Whole
+ID 1786200
+A1 Sivic,Josef
+A1 Everingham,Mark
+A1 Zisserman,Andrew
+YR 2005
+T1 Person Spotting: Video Shot Retrieval for Face Sets
+SP 226
+OP 236
+
+RT Conference Proceedings
+ID 1788918
+A1 Arandjelovic,Ognjen
+A1 Zisserman,Andrew
+YR 2005
+T1 Automatic Face Recognition for Film Character Retrieval in Feature-Length Films
+VO 1
+SP 860
+OP 867
+
+RT Conference Proceedings
+ID 2968803
+A1 Sivic,J.
+A1 Russell,B.
+A1 Efros,A.
+A1 Zisserman,A.
+A1 Freeman,W.,T.
+YR 2005
+T1 Discovering objets and their locations in images
+
+RT Conference Proceedings
+ID 1796620
+A1 Kumar,M.,Pawan
+A1 Torr,Philip,H.,S.
+A1 Zisserman,Andrew
+YR 2005
+T1 Learning Layered Motion Segmentation of Video
+VO 1
+SP 33
+OP 40
+
+RT Journal Article
+ID 2175691
+A1 Fitzgibbon,Andrew,W.
+A1 Wexler,Yonatan
+A1 Zisserman,Andrew
+YR 2005
+T1 Image-Based Rendering Using Image-Based Priors
+JF International Journal of Computer Vision
+VO 63
+SP 141
+OP 151
+IS 2
+
+RT Conference Proceedings
+ID 1796741
+A1 Everingham,Mark
+A1 Zisserman,Andrew
+YR 2005
+T1 Identifying Individuals in Video by Combining "Generative" and Discriminative Head Models
+VO 2
+SP 1103
+OP 1110
+
+RT Journal Article
+ID 4113211
+A1 Prasad,Mukta
+A1 Zisserman,Andrew
+A1 Fitzgibbon,Andrew,W.
+YR 2005
+T1 Fast and Controllable 3D Modelling from Silhouettes
+
+RT Conference Proceedings
+ID 1789066
+A1 Ramanan,Deva
+A1 Forsyth,David,A.
+A1 Zisserman,Andrew
+YR 2005
+T1 Tracking People and Recognizing Their Activities
+VO 2
+SP 1194
+
+RT Conference Proceedings
+ID 1865217
+A1 Loh,Angeline,M.
+A1 Zisserman,Andrew
+YR 2005
+T1 Estimating the Affine Transformation between Textures
+SP 67
+
+RT Journal Article
+ID 15271226
+A1 Varma,Manik
+A1 Zisserman,Andrew
+YR 2005
+T1 A Statistical Approach to Texture Classification from Single Images
+JF International Journal of Computer Vision
+VO 62
+SP 61
+OP 81
+IS 1
+
+RT Journal Article
+ID 26848868
+A1 Everingham,M.
+A1 Zisserman,A.
+YR 2005
+T1 Automated detection and identification of persons in video using a coarse 3-D head model and multiple texture maps
+JF Iee Proceedings-vision Image and Signal Processing
+VO 152
+SP 902
+IS 6
+
+RT Journal Article
+ID 28084827
+A1 Holub,A.,D.
+A1 Everingham,M.
+A1 Zisserman,A.
+A1 Perona,P.
+YR 2005
+T1 Combining principal component techniques and psychological spaces to find perceptually similar faces
+JF Journal of Vision
+VO 5
+SP 827
+OP 827
+IS 8
+
+RT Journal Article
+ID 13125986
+A1 Pawan,M.
+A1 Torr,Kumar,P.,H.,S.
+A1 Zisserman,A.
+YR 2005
+T1 OBJ CUT
+
+RT Conference Proceedings
+ID 50445419
+A1 Loh,Angeline,M.
+A1 Zisserman,Andrew
+YR 2005
+T1 Estimating the Affine Transformation between Textures
+
+RT Book, Whole
+ID 509916
+A1 Mikolajczyk,Krystian
+A1 Schmid,Cordelia
+A1 Zisserman,Andrew
+YR 2004
+T1 Human Detection Based on a Probabilistic Assembly of Robust Part Detectors
+SP 69
+OP 82
+
+RT Book, Whole
+ID 509900
+A1 Fergus,Robert
+A1 Perona,Pietro
+A1 Zisserman,Andrew
+YR 2004
+T1 A Visual Category Filter for Google Images
+SP 242
+OP 256
+
+RT Book, Whole
+ID 509898
+A1 Kadir,Timor
+A1 Zisserman,Andrew
+A1 Brady,Michael
+YR 2004
+T1 An affine invariant salient region detector
+SP 228
+OP 241
+
+RT Conference Proceedings
+ID 1788590
+A1 Sivic,Josef
+A1 Zisserman,Andrew
+YR 2004
+T1 Video Data Mining Using Configurations of Viewpoint Invariant Regions
+VO 1
+SP 488
+OP 495
+
+RT Book, Whole
+ID 509899
+A1 Bowden,Richard
+A1 Windridge,David
+A1 Kadir,Timor
+A1 Zisserman,Andrew
+A1 Brady,Michael
+YR 2004
+T1 A Linguistic Feature Vector for the Visual Interpretation of Sign Language
+SP 390
+OP 401
+
+RT Book, Whole
+ID 509940
+A1 Sivic,Josef
+A1 Schaffalitzky,Frederik
+A1 Zisserman,Andrew
+YR 2004
+T1 Object Level Grouping for Video Shots
+SP 85
+OP 98
+
+RT Conference Proceedings
+ID 2146628
+A1 Pawan,M.
+A1 Torr,Kumar,P.,H.,S.
+A1 Zisserman,A.
+YR 2004
+T1 Extending Pictorial Structures for Object Recognition
+
+RT Conference Proceedings
+ID 2684814
+A1 Kadir,T.
+A1 Brady,M.
+A1 Zisserman,A.
+YR 2004
+T1 An Affine Invariant Method for Selecting Salient Regions in Images
+
+RT Conference Proceedings
+ID 2965567
+A1 Bartoli,Adrien
+A1 Zisserman,Andrew
+YR 2004
+T1 Direct Estimation of Non-Rigid Registrations
+
+RT Conference Proceedings
+ID 1896598
+A1 Kumar,M.,Pawan
+A1 Torr,Philip,H.,S.
+A1 Zisserman,Andrew
+YR 2004
+T1 Learning Layered Pictorial Structures from Video
+SP 158
+OP 164
+
+RT Journal Article
+ID 1734758
+A1 Varma,Manik
+A1 Zisserman,Andrew
+YR 2004
+T1 Unifying statistical texture classification frameworks
+JF Image and Vision Computing
+VO 22
+SP 1175
+OP 1183
+IS 14
+
+RT Book, Whole
+ID 2166418
+A1 Everingham,Mark
+A1 Zisserman,Andrew
+YR 2004
+T1 Automated Person Identification in Video
+SP 289
+OP 298
+
+RT Journal Article
+ID 2550282
+A1 Mikolajczyk,K.
+A1 Tuytelaars,T.
+A1 Schmid,C.
+A1 Zisserman,A.
+A1 Matas,J.
+A1 Schaffalitzky,F.
+A1 Kadir,T.
+A1 Gool,L.,V.
+YR 2004
+T1 A comparison of affine region detectors
+JF International Journal of Computer Vision
+
+RT Conference Proceedings
+ID 1788561
+A1 Varma,Manik
+A1 Zisserman,Andrew
+YR 2004
+T1 Estimating Illumination Direction from Textured Images
+VO 1
+SP 179
+OP 186
+
+RT Book, Whole
+ID 1777019
+A1 Sivic,Josef
+A1 Zisserman,Andrew
+YR 2004
+T1 Efficient Visual Content Retrieval and Mining in Videos
+SP 471
+OP 478
+
+RT Conference Proceedings
+ID 1788583
+A1 Bartoli,Adrien
+A1 Tunzelmann,Eugénie,Von
+A1 Zisserman,Andrew
+YR 2004
+T1 Augmenting Images of Non-Rigid Scenes Using Point and Curve Correspondences
+VO 1
+SP 699
+OP 706
+
+RT Conference Proceedings
+ID 1802415
+A1 Everingham,Mark
+A1 Zisserman,Andrew
+YR 2004
+T1 Automated Visual Identification of Characters in Situation Comedies
+SP 983
+OP 986
+
+RT Conference Proceedings
+ID 1896669
+A1 Zisserman,Andrew
+YR 2004
+T1 Trainable Visual Models for Object Class Recognition
+SP 690
+
+RT Conference Proceedings
+ID 1811654
+A1 Fergus,Robert
+A1 Zisserman,Andrew
+A1 Perona,Pietro
+YR 2004
+T1 Sampling Methods for Unsupervised Learning
+
+RT Conference Proceedings
+ID 1860469
+A1 Malik,Jitendra
+A1 Samet,Hanan
+A1 Veltkamp,Remco,C.
+A1 Zisserman,Andrew
+YR 2004
+T1 04021 Abstracts Collection - Content-Based Retrieval
+
+RT Journal Article
+ID 2150697
+A1 Oskarsson,Magnus
+A1 Zisserman,Andrew
+A1 Åström,Kalle
+YR 2004
+T1 Minimal projective reconstruction for combinations of points and lines in three views
+JF Image and Vision Computing
+VO 22
+SP 777
+OP 785
+IS 10
+
+RT Conference Proceedings
+ID 50367052
+A1 Everingham,Mark
+A1 Zisserman,Andrew
+YR 2004
+T1 Automated visual identification of characters in situation comedies
+VO 4
+SP 983
+
+RT Conference Proceedings
+ID 19827
+A1 Fergus,Robert
+A1 Perona,Pietro
+A1 Zisserman,Andrew
+YR 2003
+T1 Object Class Recognition by Unsupervised Scale-Invariant Learning
+VO 2
+SP 264
+OP 271
+
+RT Conference Proceedings
+ID 1796435
+A1 Sivic,Josef
+A1 Zisserman,Andrew
+YR 2003
+T1 Video Google: A Text Retrieval Approach to Object Matching in Videos
+SP 1470
+OP 1477
+
+RT Conference Proceedings
+ID 1788395
+A1 Varma,Manik
+A1 Zisserman,Andrew
+YR 2003
+T1 Texture Classification: Are Filter Banks Necessary?
+VO 2
+SP 691
+OP 698
+
+RT Conference Proceedings
+ID 2380789
+A1 Mikolajczyk,K.
+A1 Zisserman,A.
+A1 Schmid,C.
+YR 2003
+T1 Shape recognition with edge-based features
+
+RT Conference Proceedings
+ID 1796456
+A1 Fitzgibbon,Andrew,W.
+A1 Wexler,Yonatan
+A1 Zisserman,Andrew
+YR 2003
+T1 Image-based rendering using image-based priors
+SP 1176
+OP 1183
+
+RT Journal Article
+ID 1676839
+A1 Capel,David
+A1 Zisserman,Andrew
+YR 2003
+T1 Computer vision applied to super resolution
+JF IEEE Signal Processing Magazine
+VO 20
+SP 75
+OP 86
+IS 3
+
+RT Journal Article
+ID 2159389
+A1 Schaffalitzky,Frederik
+A1 Zisserman,Andrew
+YR 2003
+T1 Automated location matching in movies
+JF Computer Vision and Image Understanding
+VO 92
+SP 236
+OP 264
+IS 2-3
+
+RT Conference Proceedings
+ID 1788296
+A1 Fitzgibbon,Andrew,W.
+A1 Zisserman,Andrew
+YR 2003
+T1 Joint Manifold Distance: a new approach to appearance based clustering
+VO 1
+SP 26
+OP 36
+
+RT Conference Proceedings
+ID 2185702
+A1 Pickup,Lyndsey,C.
+A1 Roberts,Stephen,J.
+A1 Zisserman,Andrew
+YR 2003
+T1 A Sampled Texture Prior for Image Super-Resolution
+
+RT Conference Proceedings
+ID 20461
+A1 Wexler,Yonatan
+A1 Fitzgibbon,Andrew,W.
+A1 Zisserman,Andrew
+YR 2003
+T1 Learning epipolar geometry from image sequences
+VO 2
+SP 209
+OP 216
+
+RT Conference Proceedings
+ID 2167080
+A1 Knight,Joss
+A1 Zisserman,Andrew
+A1 Reid,Ian,D.
+YR 2003
+T1 Linear AutoCalibration for Ground Plane Motion
+VO 1
+SP 503
+OP 510
+
+RT Conference Proceedings
+ID 538275
+A1 Ortin,Diego
+A1 Montiel,J.,M.,M.
+A1 Zisserman,Andrew
+YR 2003
+T1 Automated multisensor polyhedral model acquisition
+VO 1
+SP 1007
+OP 1012
+
+RT Journal Article
+ID 801224
+A1 Jiang,Guang
+A1 Tsui,Hung-tat
+A1 Quan,Long
+A1 Zisserman,Andrew
+YR 2003
+T1 Geometry of Single Axis Motions Using Conic Fitting
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 25
+SP 1343
+OP 1348
+IS 10
+
+RT Book, Whole
+ID 501490
+A1 Utcke,Sven
+A1 Zisserman,Andrew
+YR 2003
+T1 Projective Reconstruction of Surfaces of Revolution
+SP 265
+OP 272
+
+RT Conference Proceedings
+ID 4116423
+A1 Varma,M
+A1 Zisserman,A
+YR 2003
+T1 Texture classification: are filter banks really necessary
+
+RT Journal Article
+ID 4112133
+A1 Criminisi,A.
+A1 Kemp,M.
+A1 Zisserman,A.
+YR 2003
+T1 Bringing Pictorial Space to Life
+
+RT Book, Whole
+ID 509526
+A1 Schaffalitzky,Frederik
+A1 Zisserman,Andrew
+YR 2002
+T1 Multi-view Matching for Unordered Image Sets, or "How Do I Organize My Holiday Snaps?
+SP 414
+OP 431
+
+RT Conference Proceedings
+ID 3422792
+A1 Alitzky,Frederik,Scha
+A1 Zisserman,Andrew
+YR 2002
+T1 Multi-view matching for unordered image sets
+
+RT Book, Whole
+ID 71377
+A1 Varma,Manik
+A1 Zisserman,Andrew
+YR 2002
+T1 Classifying Images of Materials: Achieving Viewpoint and Illumination Independence
+SP 255
+OP 271
+
+RT Book, Whole
+ID 18879
+A1 Schaffalitzky,Frederik
+A1 Zisserman,Andrew
+YR 2002
+T1 Automated Scene Matching in Movies
+SP 186
+OP 197
+
+RT Book, Whole
+ID 509243
+A1 Werner,Tomás
+A1 Zisserman,Andrew
+YR 2002
+T1 New Techniques for Automated Architectural Reconstruction from Photographs
+SP 541
+OP 555
+
+RT Book, Whole
+ID 69855
+A1 Fitzgibbon,Andrew,W.
+A1 Zisserman,Andrew
+YR 2002
+T1 On Affine Invariant Clustering and Automatic Cast Listing in Movies
+SP 304
+OP 320
+
+RT Book, Whole
+ID 79816
+A1 Wexler,Yonatan
+A1 Fitzgibbon,Andrew,W.
+A1 Zisserman,Andrew
+YR 2002
+T1 Bayesian Estimation of Layers from Multiple Images
+SP 487
+OP 501
+
+RT Conference Proceedings
+ID 2837696
+A1 Varma,M.
+A1 Zisserman,A.
+YR 2002
+T1 Classifying materials from images: to cluster or not to cluster?
+
+RT Conference Proceedings
+ID 59723
+A1 Wexler,Yonatan
+A1 Fitzgibbon,Andrew.,W.
+A1 Zisserman,Andrew.
+YR 2002
+T1 Image-based environment matting
+SP 198
+OP 198
+
+RT Book, Whole
+ID 509858
+A1 Jiang,Guang
+A1 Tsui,Hung-tat
+A1 Quan,Long
+A1 Zisserman,Andrew
+YR 2002
+T1 Single Axis Geometry by Fitting Conics
+SP 537
+OP 550
+
+RT Journal Article
+ID 39353070
+A1 Ballester,Miguel,Ángel,González
+A1 Zisserman,Andrew,P.
+A1 Brady,Michael
+YR 2002
+T1 Estimation of the partial volume effect in MRI
+JF Medical Image Analysis
+VO 6
+SP 389
+OP 405
+IS 4
+
+RT Conference Proceedings
+ID 51215
+A1 Varma,Manik
+A1 Zisserman,Andrew
+YR 2002
+T1 Statistical Approaches to Material Classification
+
+RT Conference Proceedings
+ID 2837682
+A1 Varma,M.
+A1 Zisserman,A.
+YR 2002
+T1 Classifying images of materi-als
+
+RT Journal Article
+ID 2297563
+A1 Ballester,Miguel,Angel,Gonzalez
+A1 Zisserman,Andrew,P.
+A1 Brady,Michael
+YR 2002
+T1 E stimation of the partial volume effect in MRI
+
+RT Journal Article
+ID 2366697
+A1 Criminisi,Antonio
+A1 Kemp,Martin
+A1 Zisserman,Andrew
+YR 2002
+T1 Bringing Pictorial Space to Life: computer techniques for the analysis of paintings
+
+RT Conference Proceedings
+ID 1800364
+A1 Schaffalitzky,Frederik
+A1 Zisserman,Andrew
+A1 Werner,Tomás
+A1 Fitzgibbon,Andrew,W.
+YR 2002
+T1 Automated reconstruction from multiple photographs
+VO 3
+SP 517
+OP 520
+
+RT Conference Proceedings
+ID 498998
+A1 Oskarsson,Magnus
+A1 Zisserman,Andrew
+A1 Åström,Kalle
+YR 2002
+T1 Minimal Projective Reconstruction for Combinations of Points and Lines in Three Views
+
+RT Conference Proceedings
+ID 498958
+A1 Werner,Tomás
+A1 Zisserman,Andrew
+YR 2002
+T1 Model selection for automated reconstruction from multiple views
+
+RT Conference Proceedings
+ID 13312857
+A1 Chaudhuri,Subhasis
+A1 Zisserman,Andrew
+A1 Jain,Anil,K.
+A1 Majumder,Kantilal,L.
+YR 2002
+T1 ICVGIP 2002, Proceedings of the Third Indian Conference on Computer Vision, Graphics & Image Processing, Ahmadabad, India, December 16-18, 2002
+
+RT Conference Proceedings
+ID 123972
+A1 Schaffalitzky,Frederik
+A1 Zisserman,Andrew
+YR 2001
+T1 Viewpoint Invariant Texture Matching and Wide Baseline Stereo
+SP 636
+OP 643
+
+RT Conference Proceedings
+ID 86052
+A1 Capel,David,P.
+A1 Zisserman,Andrew
+YR 2001
+T1 Super-Resolution from Multiple Views Using Learnt Image Models
+VO 2
+SP 627
+OP 634
+
+RT Journal Article
+ID 95318
+A1 Zisserman,A
+A1 Murray,D,W
+A1 Beardsley,P,A
+YR 2001
+T1 Sequential Updating of Projective and Affine Structure from Motion
+JF International Journal of Computer Vision
+
+RT Journal Article
+ID 4007175
+A1 Zisserman,A.
+A1 Werner,T.
+A1 Schaffalitzky,F.
+YR 2001
+T1 Towards automated reconstruction of architectural scenes from multiple images
+
+RT Journal Article
+ID 101094
+A1 Montiel,J.,m.,m.
+A1 Zisserman,A.
+YR 2001
+T1 Automated Architectural Acquisition From a Camera Undergoing Planar Motion
+
+RT Conference Proceedings
+ID 13282835
+A1 Pollefeys,Marc
+A1 Gool,Luc,J.,Van
+A1 Zisserman,Andrew
+A1 Fitzgibbon,Andrew,W.
+YR 2001
+T1 3D Structure from Images - SMILE 2000, Second European Workshop on 3D Structure from Multiple Images of Large-Scale Environments Dublin, Ireland, July 12, 2000, Revised Papers
+
+RT Journal Article
+ID 1305681
+A1 Hartley,R.
+A1 Zisserman,A.
+YR 2000
+T1 Multiple view geometry in computer vision
+
+RT Journal Article
+ID 3428182
+A1 Hartley,Richard
+A1 Zisserman,Andrew
+YR 2000
+T1 Multiple View Geometry
+JF International Journal of Computer Vision
+
+RT Journal Article
+ID 2026784
+A1 Torr,Philip,H.,S.
+A1 Zisserman,Andrew
+YR 2000
+T1 MLESAC: A New Robust Estimator with Application to Estimating Image Geometry
+JF Computer Vision and Image Understanding
+VO 78
+SP 138
+OP 156
+IS 1
+
+RT Journal Article
+ID 784383
+A1 Criminisi,Antonio
+A1 Reid,Ian,D.
+A1 Zisserman,Andrew
+YR 2000
+T1 Single View Metrology
+JF International Journal of Computer Vision
+VO 40
+SP 123
+OP 148
+IS 2
+
+RT Conference Proceedings
+ID 223328
+A1 Simon,Gilles
+A1 Fitzgibbon,Andrew,W.
+A1 Zisserman,Andrew
+YR 2000
+T1 Markerless tracking using planar structures in the scene
+
+RT Conference Proceedings
+ID 227442
+A1 Capel,David,P.
+A1 Zisserman,Andrew
+YR 2000
+T1 Super-Resolution Enhancement of Text Image Sequences
+VO 1
+SP 1600
+OP 1605
+
+RT Journal Article
+ID 784203
+A1 Schmid,Cordelia
+A1 Zisserman,Andrew
+YR 2000
+T1 The Geometry and Matching of Lines and Curves Over Multiple Views
+JF International Journal of Computer Vision
+VO 40
+SP 199
+OP 233
+IS 3
+
+RT Journal Article
+ID 211108
+A1 Schaffalitzky,Frederik
+A1 Zisserman,Andrew
+YR 2000
+T1 Planar grouping for automatic detection of vanishing lines and points
+JF Image and Vision Computing
+VO 18
+SP 647
+OP 658
+IS 9
+
+RT Book, Whole
+ID 244650
+A1 Fitzgibbon,Andrew,W.
+A1 Zisserman,Andrew
+YR 2000
+T1 Multibody Structure and Motion: 3-D Reconstruction of Independently Moving Objects
+SP 891
+OP 906
+
+RT Journal Article
+ID 91267
+A1 Fitzgibbon,Andrew,W.
+A1 Zisserman,Andrew
+A1 Torr,Philip,H.,S.
+YR 2000
+T1 The Problem of Degeneracy in Structure and Motion Recovery from Uncalibrated Image Sequences
+JF International Journal of Computer Vision
+
+RT Journal Article
+ID 210315
+A1 Baillard,C.
+A1 Zisserman,A.
+YR 2000
+T1 A PLANE-SWEEP STRATEGY FOR THE 3D RECONSTRUCTION OF BUILDIN GS FROM MULTIPLE IMAGES
+
+RT Book, Whole
+ID 240333
+A1 Schaffalitzky,Frederik
+A1 Zisserman,Andrew
+A1 Hartley,Richard,I.
+A1 Torr,Philip,H.,S.
+YR 2000
+T1 A Six Point Solution for Structure and Motion
+SP 632
+OP 648
+
+RT Journal Article
+ID 2026880
+A1 Cross,Geoffrey
+A1 Zisserman,Andrew
+YR 2000
+T1 SURFACE RECONSTRUCTION FROM MULTIPLE VIEWS USING APPARENT CONTOURS AND SURFACE TEXTURE
+
+RT Book, Whole
+ID 212164
+A1 Demirdjian,David
+A1 Zisserman,Andrew
+A1 Horaud,Radu
+YR 2000
+T1 Stereo Autocalibration from One Plane
+SP 625
+OP 639
+
+RT Journal Article
+ID 2322882
+A1 Ballester,Miguel,Ángel,González
+A1 Zisserman,Andrew
+A1 Brady,Michael
+YR 2000
+T1 Segmentation and measurement of brain structures in MRI including confidence bounds
+JF Medical Image Analysis
+VO 4
+SP 189
+OP 200
+IS 3
+
+RT Conference Proceedings
+ID 222377
+A1 Criminisi,Antonio
+A1 Zisserman,Andrew
+YR 2000
+T1 Shape from Texture: Homogeneity Revisited
+
+RT Journal Article
+ID 15271025
+A1 Criminisi,A.
+A1 Reid,I.
+A1 Zisserman,A.
+YR 2000
+T1 Single View Metrology
+JF International Journal of Computer Vision
+VO 40
+SP 123
+OP 148
+IS 2
+
+RT Journal Article
+ID 3749918
+A1 Criminisi,A.
+A1 Reid,I.
+A1 Zisserman,A.
+YR 2000
+T1 Single View Geometry
+JF International Journal of Computer Vision
+
+RT Journal Article
+ID 1371391
+A1 Zisserman,Andrew
+A1 Fitzgibbon,Andrew
+A1 Baillard,Caroline
+A1 Cross,Geoffrey
+YR 2000
+T1 From images to virtual and augmented reality
+
+RT Conference Proceedings
+ID 2131911
+A1 Abdallah,S.,M.
+A1 Zisserman,A.
+YR 2000
+T1 Grouping and recognition of straight homogeneous generalized cylinders
+
+RT Journal Article
+ID 15271031
+A1 Schmid,Cordelia
+A1 Zisserman,Andrew
+YR 2000
+T1 The Geometry and Matching of Lines and Curves Over Multiple Views
+JF International Journal of Computer Vision
+VO 40
+SP 199
+OP 233
+IS 3
+
+RT Conference Proceedings
+ID 3818313
+A1 Capel,David
+A1 Zisserman,Andrew
+YR 2000
+T1 Super-resolution of text image sequences
+
+RT Conference Proceedings
+ID 13275374
+A1 Triggs,Bill
+A1 Zisserman,Andrew
+A1 Szeliski,Richard
+YR 2000
+T1 Vision Algorithms: Theory and Practice, International Workshop on Vision Algorithms, held during ICCV '99, Corfu, Greece, September 21-22, 1999, Proceedings
+
+RT Book, Whole
+ID 124569
+A1 Criminisi,Antonio
+A1 Reid,Ian,D.
+A1 Zisserman,Andrew
+YR 1999
+T1 Single View Metrology
+SP 434
+OP 441
+
+RT Journal Article
+ID 724916
+A1 Liebowitz,David
+A1 Criminisi,Antonio
+A1 Zisserman,Andrew
+YR 1999
+T1 Creating Architectural Models from Images
+JF Computer Graphics Forum
+VO 18
+SP 39
+OP 50
+IS 3
+
+RT Journal Article
+ID 191058
+A1 Baillard,C.
+A1 Schmid,C.
+A1 Zisserman,A.
+A1 Fitzgibbon,A.
+YR 1999
+T1 AUTOMATIC LINE MATCHING AND 3D RECONSTRUCTION OF BUILDINGS FROM MULTIPLE VIEWS
+
+RT Conference Proceedings
+ID 607794
+A1 Torr,Philip,H.,S.
+A1 Zisserman,Andrew
+YR 1999
+T1 Feature Based Methods for Structure and Motion Estimation
+SP 278
+OP 294
+
+RT Conference Proceedings
+ID 337228
+A1 Baillard,C.
+A1 Zisserman,Andrew
+YR 1999
+T1 Automatic Reconstruction of Piecewise Planar Models from Multiple Views
+VO 2
+SP 2559
+OP 2565
+
+RT Conference Proceedings
+ID 245575
+A1 Liebowitz,David
+A1 Zisserman,Andrew
+YR 1999
+T1 Combining Scene and AutoCalibration Constraints
+SP 293
+OP 300
+
+RT Journal Article
+ID 2115872
+A1 Torr,Philip,H.,S.
+A1 Fitzgibbon,Andrew,W.
+A1 Zisserman,Andrew
+YR 1999
+T1 The Problem of Degeneracy in Structure and Motion Recovery from Uncalibrated Image Sequences
+JF International Journal of Computer Vision
+VO 32
+SP 27
+OP 44
+IS 1
+
+RT Journal Article
+ID 863685
+A1 Criminisi,Antonio
+A1 Reid,Ian,D.
+A1 Zisserman,Andrew
+YR 1999
+T1 A plane measuring device
+JF Image and Vision Computing
+VO 17
+SP 625
+OP 634
+IS 8
+
+RT Conference Proceedings
+ID 630297
+A1 Schaffalitzky,Frederik
+A1 Zisserman,Andrew
+YR 1999
+T1 Geometric Grouping of Repeated Elements within Images
+SP 165
+OP 181
+
+RT Conference Proceedings
+ID 95977
+A1 Cross,Geoffrey
+A1 Fitzgibbon,Andrew,W.
+A1 Zisserman,Andrew
+YR 1999
+T1 Parallax Geometry of Smooth Surfaces in Multiple Views
+SP 323
+OP 329
+
+RT Conference Proceedings
+ID 82588
+A1 Criminisi,Antonio
+A1 Zisserman,Andrew
+A1 Gool,Luc,J.,van
+A1 Bramble,Simon,K.
+A1 Compton,David
+YR 1999
+T1 New approach to obtain height measurements from video
+VO 3576
+SP 227
+OP 238
+
+RT Conference Proceedings
+ID 132880
+A1 Zisserman,Andrew
+A1 Fitzgibbon,Andrew,W.
+A1 Cross,Geoffrey
+YR 1999
+T1 VHS to VRML: 3D Graphical Models from Video Sequences
+SP 51
+OP 57
+
+RT Conference Proceedings
+ID 233530
+A1 Smith,R.,A.
+A1 Fitzgibbon,Andrew,W.
+A1 Zisserman,Andrew
+YR 1999
+T1 Improving Augmented Reality using Image and Scene Constraints
+
+RT Journal Article
+ID 4189425
+A1 Torr,P
+A1 Fitzgibbon,A
+A1 Zisserman,A
+YR 1999
+T1 The Problem of Degeneracy in Structure and Motion Recovery from Uncalibrated Images
+JF International Journal of Computer Vision
+
+RT Book, Whole
+ID 630303
+A1 Schmid,Cordelia
+A1 Zisserman,Andrew
+A1 Mohr,Roger
+YR 1999
+T1 Integrating Geometric and Photometric Information for Image Retrieval
+SP 217
+OP 233
+
+RT Conference Proceedings
+ID 50157088
+A1 Criminisi,A.
+A1 Reid,I.
+A1 Zisserman,A.
+YR 1999
+T1 Single view metrology
+
+RT Journal Article
+ID 52083191
+A1 Capel,David
+A1 Zisserman,Andrew
+A1 Bramble,Simon,K.
+A1 Compton,David
+YR 1999
+T1 Automated method for the removal of unwanted nonperiodic patterns from forensic images
+VO 3576
+SP 274
+OP 284
+
+RT Conference Proceedings
+ID 126474
+A1 Pritchett,Philip
+A1 Zisserman,Andrew
+YR 1998
+T1 Wide Baseline Stereo Matching
+SP 754
+OP 760
+
+RT Book, Whole
+ID 123647
+A1 Fitzgibbon,Andrew,W.
+A1 Zisserman,Andrew
+YR 1998
+T1 Automatic Camera Recovery for Closed or Open Image Sequences
+SP 311
+OP 326
+
+RT Conference Proceedings
+ID 130531
+A1 Liebowitz,David
+A1 Zisserman,Andrew
+YR 1998
+T1 Metric Rectification for Perspective Images of Planes
+SP 482
+OP 488
+
+RT Conference Proceedings
+ID 12643827
+A1 Capel,David
+A1 Zisserman,Andrew
+YR 1998
+T1 Automated mosaicing with super-resolution zoom
+SP 885
+OP 891
+
+RT Conference Proceedings
+ID 506583
+A1 Capel,David,P.
+A1 Zisserman,Andrew
+YR 1998
+T1 Automatic Mosaicing with Super-Resolution Zoom
+SP 885
+OP 891
+
+RT Book, Whole
+ID 132796
+A1 Fitzgibbon,Andrew,W.
+A1 Cross,Geoffrey
+A1 Zisserman,Andrew
+YR 1998
+T1 Automatic 3D Model Construction for Turn-Table Sequences
+SP 155
+OP 170
+
+RT Conference Proceedings
+ID 307732
+A1 Torr,Philip,H.,S.
+A1 Zisserman,Andrew
+YR 1998
+T1 Robust Computation and Parametrization of Multiple View Relations
+SP 727
+OP 732
+
+RT Journal Article
+ID 2056842
+A1 Torr,Philip,H.,S.
+A1 Zisserman,Andrew
+A1 Maybank,Stephen,J.
+YR 1998
+T1 Robust Detection of Degenerate Configurations while Estimating the Fundamental Matrix
+JF Computer Vision and Image Understanding
+VO 71
+SP 312
+OP 333
+IS 3
+
+RT Book, Whole
+ID 346671
+A1 Criminisi,Antonio
+A1 Reid,Ian,D.
+A1 Zisserman,Andrew
+YR 1998
+T1 Duality, Rigidity and Planar Parallax
+SP 846
+OP 861
+
+RT Conference Proceedings
+ID 309326
+A1 Torr,Phil
+A1 Fitzgibbon,Andrew,W.
+A1 Zisserman,Andrew
+YR 1998
+T1 Maintaining multiple motion model hypotheses over many views to recover matching and structure
+
+RT Journal Article
+ID 315138
+A1 Zisserman,Andrew
+A1 Liebowitz,David
+A1 Armstrong,Martin
+YR 1998
+T1 Resolving ambiguities in auto-calibration
+JF Philosophical Transactions of The Royal Society A: Mathematical, Physical and Engineering Sciences
+VO 356
+SP 1193
+OP 1211
+IS 1740
+
+RT Book, Whole
+ID 129152
+A1 Pritchett,Philip
+A1 Zisserman,Andrew
+YR 1998
+T1 Matching and Reconstruction from Widely Separated Views
+SP 78
+OP 92
+
+RT Book, Whole
+ID 392118
+A1 Schaffalitzky,Frederik
+A1 Zisserman,Andrew
+YR 1998
+T1 Geometric Grouping of Repeated Elements within Images
+
+RT Conference Proceedings
+ID 84755
+A1 Cross,Geoffrey
+A1 Zisserman,Andrew
+YR 1998
+T1 Quadric reconstruction from dual-space geometry
+
+RT Journal Article
+ID 231844
+A1 Gool,Luc,J.,Van
+A1 Proesmans,Marc
+A1 Zisserman,Andrew
+YR 1998
+T1 Planar homologies as a basis for grouping and recognition
+JF Image and Vision Computing
+VO 16
+SP 21
+OP 26
+IS 1
+
+RT Conference Proceedings
+ID 256415
+A1 Jethwa,Manish
+A1 Zisserman,Andrew
+A1 Fitzgibbon,Andrew,W.
+YR 1998
+T1 Real-time Panoramic Mosaics and Augmented Reality
+
+RT Conference Proceedings
+ID 524142
+A1 Cross,Geoffrey
+A1 Zisserman,Andrew
+YR 1998
+T1 Quadric Surface Reconstruction from Dual-Space Geometry
+SP 25
+OP 34
+
+RT Book, Whole
+ID 184664
+A1 Torr,Philip,H.,S.
+A1 Zisserman,Andrew
+YR 1998
+T1 Concerning Bayesian Motion Segmentation, Model, Averaging, Matching and the Trifocal Tensor
+SP 511
+OP 527
+
+RT Book, Whole
+ID 125742
+A1 I,Cordelia,Schmid
+A1 Zisserman,Andrew
+YR 1998
+T1 The geometry and matching of curves in multiple views
+VO 1406
+SP 394
+OP 409
+
+RT Conference Proceedings
+ID 524061
+A1 Torr,Philip,H.,S.
+A1 Fitzgibbon,Andrew,W.
+A1 Zisserman,Andrew
+YR 1998
+T1 Maintaining Multiple Motion Model Hypotheses Through Many Views to Recover Matching and Structure
+SP 485
+OP 491
+
+RT Journal Article
+ID 2875196
+A1 Criminisi,A.
+A1 Reid,I.
+A1 Zisserman,A.
+YR 1998
+T1 Computing 3D euclidean distance from a single view
+
+RT Book, Whole
+ID 661649
+A1 Ballester,Miguel,Ángel,González
+A1 Zisserman,Andrew
+A1 Brady,Michael
+YR 1998
+T1 Measurement of Brain Structures Based on Statistical and Geometrical 3D Segmentation
+SP 499
+OP 508
+
+RT Journal Article
+ID 2820583
+A1 Guillemaud,R.
+A1 Sakuma,M.
+A1 Marais,P.
+A1 Feldmar,J.
+A1 Crow,R.
+A1 Delisi,L.
+A1 Zisserman,A.
+A1 Brady,M.
+YR 1998
+T1 Cerebral symmetry analysis from mri scans
+
+RT Conference Proceedings
+ID 4114391
+A1 Torr,P.,H.,S.
+A1 Fitzgibbon,A.,W.
+A1 Zisserman,A.
+YR 1998
+T1 Maintain - ing multiple motion model hypotheses over many views
+
+RT Conference Proceedings
+ID 50118214
+A1 Ballester,M.,A.,Gonzalez
+A1 Zisserman,A.
+A1 Brady,M.
+YR 1998
+T1 Combined statistical and geometrical 3D segmentation and measurement of brain structures
+
+RT Journal Article
+ID 35810138
+A1 Crow,T.,J.
+A1 Feldmar,J.
+A1 Guillemaud,R.
+A1 Sakuma,M.
+A1 Zisserman,A.
+A1 Marais,P.
+A1 Delisi,L.,E.
+A1 Brady,J.,M.
+YR 1998
+T1 Anomalies of anatomical asymmetry detected in first episode cases of schizophrenic illness by a new method of MRI reconstruction and analysis
+JF Schizophrenia Research
+VO 29
+SP 69
+OP 69
+IS 1
+
+RT Journal Article
+ID 19911773
+A1 Lasenby,J.
+A1 Zisserman,A.
+A1 Cipolla,R.
+A1 Longuet-Higgins,H.,C.
+YR 1998
+T1 Preface to New geometric techniques in computer vision. A Discussion Meeting held at the Royal Society of London
+JF Philosophical Transactions of The Royal Society A: Mathematical, Physical and Engineering Sciences
+VO 356
+SP 1065
+OP 1065
+IS 1740
+
+RT Journal Article
+ID 15280456
+A1 Zisserman,Andrew
+YR 1998
+T1 Book Review : Epipolar Geometry in Stereo, Motion and Object Recognition—A Unified Approach By Gang Xu and Zhengyou Zhang Published by Kluwer Academic Publishers Group; 1996; 313 pages; US$ 160
+JF International Journal of Robotic Research
+VO 17
+SP 903
+OP 904
+IS 8
+
+RT Journal Article
+ID 259153
+A1 Torr,Philip,H.,S.
+A1 Zisserman,Andrew
+YR 1997
+T1 Robust parameterization and computation of the trifocal tensor
+JF Image and Vision Computing
+VO 15
+SP 591
+OP 605
+IS 8
+
+RT Journal Article
+ID 130464
+A1 Beardsley,Paul,A.
+A1 Zisserman,Andrew
+A1 Murray,David,W.
+YR 1997
+T1 Sequential Updating of Projective and Affine Structure from Motion
+JF International Journal of Computer Vision
+VO 23
+SP 235
+OP 259
+IS 3
+
+RT Conference Proceedings
+ID 216768
+A1 Schmid,Cordelia
+A1 Zisserman,Andrew
+YR 1997
+T1 Automatic line matching across views
+SP 666
+OP 671
+
+RT Conference Proceedings
+ID 350306
+A1 Criminisi,Antonio
+A1 Reid,Ian,D.
+A1 Zisserman,Andrew
+YR 1997
+T1 A Plane Measuring Device
+
+RT Journal Article
+ID 3733145
+A1 Beardsley,P.,A.
+A1 Zisserman,A.
+A1 Murray,D.,W.
+YR 1997
+T1 Sequential update of projective and a ne structure from motion
+JF International Journal of Computer Vision
+
+RT Journal Article
+ID 753555
+A1 Torr,Philip,H.,S.
+A1 Zisserman,Andrew
+YR 1997
+T1 Performance characterization of fundamental matrix estimation under image degradation
+JF Machine Vision and Applications
+VO 9
+SP 321
+OP 333
+IS 5/6
+
+RT Journal Article
+ID 2082978
+A1 Sudhir,G.
+A1 Banerjee,Subhashis
+A1 Zisserman,Andrew
+YR 1997
+T1 Finding Point Correspondences in Motion Sequences Preserving Affine Structure
+JF Computer Vision and Image Understanding
+VO 68
+SP 237
+OP 246
+IS 2
+
+RT Journal Article
+ID 2759487
+A1 Gool,Luc,Van
+A1 Zisserman,Andrew
+YR 1997
+T1 Automatic 3D model building from video sequences
+JF European Transactions on Telecommunications
+VO 8
+SP 369
+OP 378
+IS 4
+
+RT Journal Article
+ID 2397678
+A1 Torr,P.,H.,S.
+A1 Zisserman,A.
+YR 1997
+T1 Image and Vision Computing
+JF Image and Vision Computing
+
+RT Journal Article
+ID 3700088
+A1 Armstrong,M.
+A1 Zisserman,A.
+YR 1997
+T1 RoRAPiD: A robust object tracker
+
+RT Book, Whole
+ID 239233
+A1 Beardsley,Paul,A.
+A1 Torr,Philip,H.,S.
+A1 Zisserman,Andrew
+YR 1996
+T1 3D Model Acquisition from Extended Image Sequences
+SP 683
+OP 695
+
+RT Book, Whole
+ID 53995
+A1 Bascle,Benedicte
+A1 Blake,Andrew
+A1 Zisserman,Andrew
+YR 1996
+T1 Motion Deblurring and Super-resolution from an Image Sequence
+SP 573
+OP 582
+
+RT Book, Whole
+ID 94036
+A1 Armstrong,Martin
+A1 Zisserman,Andrew
+A1 Hartley,Richard,I.
+YR 1996
+T1 Self-Calibration from Image Triplets
+SP 3
+OP 16
+
+RT Book, Whole
+ID 316910
+A1 Reid,Ian,D.
+A1 Zisserman,Andrew
+YR 1996
+T1 Goal-directed Video Metrology
+SP 647
+OP 658
+
+RT Conference Proceedings
+ID 498911
+A1 Torr,Philip,H.,S.
+A1 Zisserman,Andrew
+YR 1996
+T1 Robust Parameterization and Computation of the Trifocal Tensor
+
+RT Journal Article
+ID 2015458
+A1 Ponce,J.
+A1 Zisserman,A.
+A1 Hebert,M.
+YR 1996
+T1 Object Representation in Computer Vision - II
+JF Lecture Notes in Computer Science
+
+RT Book, Whole
+ID 486217
+A1 Marais,P.
+A1 Guillemaud,Régis
+A1 Sakuma,M.
+A1 Zisserman,Andrew
+A1 Brady,Michael
+YR 1996
+T1 Visualising Cerebral Asymmetry
+SP 411
+OP 416
+
+RT Conference Proceedings
+ID 374930
+A1 Clarke,J.,C.
+A1 Carlsson,S.
+A1 Zisserman,Andrew
+YR 1996
+T1 Detecting and Tracking Linear Features Efficiently
+
+RT Book, Whole
+ID 377163
+A1 Mundy,Joseph,L.
+A1 Liu,A.
+A1 Pillow,Nic
+A1 Zisserman,Andrew
+A1 Abdallah,S.
+A1 Utcke,Sven
+A1 Nayar,Shree,K.
+A1 Rothwell,Charlie
+YR 1996
+T1 An Experimental Comparison of Appearance and Geometric Model Based Recognition
+SP 247
+OP 269
+
+RT Journal Article
+ID 310290
+A1 Clarke,J.,C.
+A1 Zisserman,Andrew
+YR 1996
+T1 Detection and tracking of independent motion
+JF Image and Vision Computing
+VO 14
+SP 565
+OP 572
+IS 8
+
+RT Journal Article
+ID 408429
+A1 Carlsson,S.
+A1 Mohr,Roger
+A1 Moons,Theo
+A1 Morin,Luce
+A1 Rothwell,Charlie
+A1 Diest,Marc,Van
+A1 Gool,L.
+A1 Veillon,Francoise
+A1 Zisserman,Andrew
+YR 1996
+T1 Semi-local projective invariants for the recognition of smooth plane curves
+JF International Journal of Computer Vision
+VO 19
+SP 211
+OP 236
+IS 3
+
+RT Journal Article
+ID 35808474
+A1 Guillemaud,R.
+A1 Marais,P.
+A1 Zisserman,A.
+A1 McDonald,B.
+A1 Crow,T.,J.
+A1 Brady,M.
+YR 1996
+T1 A three dimensional mid sagittal plane for brain asymmetry measurement
+JF Schizophrenia Research
+VO 18
+SP 183
+OP 184
+IS 2
+
+RT Conference Proceedings
+ID 2018692
+A1 Armstrong,M.
+A1 Zisserman,A.
+A1 Hartley,R.,I.
+YR 1996
+T1 Self-calibration using image triplets
+
+RT Book, Whole
+ID 509400
+A1 Ponce,Jean
+A1 Hebert,Martial
+A1 Zisserman,Andrew
+YR 1996
+T1 Report on the 1996 International Workshop on Object Representation in Computer Vision
+SP 1
+OP 8
+
+RT Journal Article
+ID 1983826
+A1 Zisserman,A.
+YR 1996
+T1 A users guide to the trifocal tensor
+
+RT Conference Proceedings
+ID 13264096
+A1 Ponce,Jean
+A1 Zisserman,Andrew
+A1 Hebert,Martial
+YR 1996
+T1 Object Representation in Computer Vision II, ECCV '96 International Workshop, Cambridge. UK, April 13-14, 1996, Proceedings
+
+RT Journal Article
+ID 51643880
+A1 Saunders,R.
+A1 Zisserman,A.
+A1 McCauley,C.,J.
+YR 1996
+T1 The calculation of magnetostatic fields from axisymmetric conductors
+JF Journal of Physics D-applied Physics
+VO 29
+SP 533
+OP 539
+IS 3
+
+RT Journal Article
+ID 366209
+A1 Rothwell,C.,A.
+A1 Zisserman,Andrew
+A1 Forsyth,David,A.
+A1 Mundy,Joseph,L.
+YR 1995
+T1 Planar object recognition using projective shape representation
+JF International Journal of Computer Vision
+VO 16
+SP 57
+OP 99
+IS 1
+
+RT Conference Proceedings
+ID 320773
+A1 Zisserman,Andrew
+A1 Beardsley,Paul,A
+A1 Reid,Ian,D
+YR 1995
+T1 Metric calibration of a stereo rig
+
+RT Journal Article
+ID 1982386
+A1 Shapiro,Larry,S.
+A1 Zisserman,Andrew
+A1 Brady,Michael
+YR 1995
+T1 3D Motion recovery via affine Epipolar geometry
+JF International Journal of Computer Vision
+VO 16
+SP 147
+OP 182
+IS 2
+
+RT Conference Proceedings
+ID 125273
+A1 Torr,Philip,H.,S.
+A1 Zisserman,Andrew
+A1 Maybank,Stephen,J.
+YR 1995
+T1 Robust Detection of Degenerate Configurations for the Fundamental Matrix
+SP 1037
+
+RT Journal Article
+ID 301851
+A1 Torr,P.,H.,S.
+A1 Zisserman,A.
+A1 Robotics,D.,W.,Murray
+YR 1995
+T1 Motion Clustering using the Trilinear Constraint over Three Views
+
+RT Conference Proceedings
+ID 2538
+A1 Beardsley,Paul,A.
+A1 Reid,Ian,D.
+A1 Zisserman,Andrew
+A1 Murray,David,W.
+YR 1995
+T1 Active Visual Navigation Using Non-Metric Structure
+SP 58
+
+RT Journal Article
+ID 131053
+A1 Beardsley,Paul,A
+A1 Robotics,Andrew,Zisserman
+YR 1995
+T1 Affine Calibration of Mobile Vehicles
+
+RT Journal Article
+ID 408550
+A1 Zisserman,Andrew
+A1 Forsyth,David,A.
+A1 Mundy,Joseph,L.
+A1 Rothwell,Charlie
+A1 Liu,Jane
+A1 Pillow,Nic
+YR 1995
+T1 3D Object Recognition Using Invariance
+JF Artificial Intelligence
+VO 78
+SP 239
+OP 288
+IS 1-2
+
+RT Conference Proceedings
+ID 245111
+A1 Armstrong,Martin
+A1 Zisserman,Andrew
+YR 1995
+T1 Robust Object Tracking
+
+RT Journal Article
+ID 19911378
+A1 Mukherjee,Dipti,Prasad
+A1 Zisserman,Andrew
+A1 Brady,Michael
+YR 1995
+T1 Shape from Symmetry: Detecting and Exploiting Symmetry in Affine Images
+JF Philosophical Transactions of The Royal Society A: Mathematical, Physical and Engineering Sciences
+VO 351
+SP 77
+OP 106
+IS 1695
+
+RT Conference Proceedings
+ID 241608
+A1 Zisserman,Andrew
+A1 Mundy,Joseph,L.
+A1 Forsyth,David,A.
+A1 Liu,Jane
+A1 Pillow,Nic
+A1 Rothwell,Charlie
+A1 Utcke,Sven
+YR 1995
+T1 Class-Based Grouping in Perspective Images
+SP 183
+OP 188
+
+RT Journal Article
+ID 51401
+A1 Pillow,Nic
+A1 Utcke,Sven
+A1 Zisserman,Andrew
+YR 1995
+T1 Viewpoint-invariant representation of generalized cylinders using the symmetry set
+JF Image and Vision Computing
+VO 13
+SP 355
+OP 365
+IS 5
+
+RT Journal Article
+ID 125958
+A1 Zisserman,Andrew
+A1 Gool,Luc,Van
+A1 Proesmans,Marc
+YR 1995
+T1 Grouping and Invariants using Planar Homologies
+
+RT Conference Proceedings
+ID 127635
+A1 Liu,Jane
+A1 Mundy,Joe
+A1 Zisserman,Andrew
+YR 1995
+T1 Grouping and Structure Recovery for Images of Objects with Finite Rotational Symmetry
+
+RT Journal Article
+ID 2542754
+A1 Guillemaud,R.
+A1 Marais,P.
+A1 Zisserman,A.
+A1 Donald,T.,J.,Mc
+A1 Crow,B.
+YR 1995
+T1 A 3Dimensional midsagittal plane for brain asymmetry measure-ment
+
+RT Book, Whole
+ID 330286
+A1 Mundy,Joseph,L.
+A1 Curwen,Rupert,W.
+A1 Liu,Jane
+A1 Rothwell,Charlie
+A1 Zisserman,Andrew
+A1 Forsyth,David,A.
+YR 1995
+T1 MORSE: An Architecture for 3D Object Recognition Based on Invariants
+SP 425
+OP 434
+
+RT Journal Article
+ID 2668544
+A1 Beardsley,P.
+A1 Zisserman,A.
+YR 1995
+T1 Affine structure from motion
+
+RT Book, Whole
+ID 509712
+A1 Beardsley,Paul,A.
+A1 Zisserman,Andrew
+A1 Murray,David,W.
+YR 1994
+T1 Navigation using Affine Structure from Motion
+SP 85
+OP 96
+
+RT Book, Whole
+ID 509275
+A1 Shapiro,Larry,S.
+A1 Zisserman,Andrew
+A1 Brady,Michael
+YR 1994
+T1 Motion From Point Matches Using Affine Epipolar Geometry
+SP 73
+OP 84
+
+RT Conference Proceedings
+ID 2000389
+A1 Armstrong,M.
+A1 Zisserman,A.
+A1 Beardsley,P.
+YR 1994
+T1 Euclidean Structure from Uncalibrated Images
+
+RT Journal Article
+ID 2032186
+A1 Mundy,J.
+A1 Zisserman,A.
+A1 Forsyth,D.
+YR 1994
+T1 Applications of Invariance in Computer Vision
+JF Lecture Notes in Computer Science
+
+RT Journal Article
+ID 864014
+A1 Fawcett,Roger
+A1 Zisserman,Andrew
+A1 Brady,Michael
+YR 1994
+T1 Extracting structure from an affine view of a 3D point set with one or two bilateral symmetries
+JF Image and Vision Computing
+VO 12
+SP 615
+OP 622
+IS 9
+
+RT Conference Proceedings
+ID 3674945
+A1 Mundy,J.
+A1 Zisserman,A.
+YR 1994
+T1 Repeated structures: Image correspondence constraints and ambiguity of 3D reconstruction
+
+RT Conference Proceedings
+ID 3053090
+A1 Armstrong,M.
+A1 Zisserman,A
+A1 Beardsley,P
+YR 1994
+T1 Euclidean reconstruction from uncalibrated images
+
+RT Conference Proceedings
+ID 50010256
+A1 Forsyth,D.,A.
+A1 Mundy,J.,L.
+A1 Zisserman,A.
+A1 Rothwell,C.,A.
+YR 1994
+T1 Using global consistency to recognise Euclidean objects with an uncalibrated camera
+SP 502
+OP 507
+
+RT Book, Whole
+ID 477664
+A1 Forsyth,David,A.
+A1 Zisserman,Andrew
+A1 Malik,Jitendra
+YR 1994
+T1 Distinctive Representations for the Recognition of Curved Surfaces Using Outlines and Markings
+SP 89
+OP 99
+
+RT Conference Proceedings
+ID 528508
+A1 Tu,Peter
+A1 Zisserman,Andrew
+A1 Mason,Ian,A.
+A1 Cox,Ingemar,J.
+YR 1994
+T1 Identification of Events from 3D Volumes of Seismic Data
+SP 309
+OP 313
+
+RT Conference Proceedings
+ID 50003005
+A1 Tu,P.
+A1 Zisserman,A.
+A1 Mason,I.
+A1 Cox,I.
+YR 1994
+T1 Extraction of events from 3D volumes of seismic data
+
+RT Conference Proceedings
+ID 13275195
+A1 Mundy,Joseph,L.
+A1 Zisserman,Andrew
+A1 Forsyth,David,A.
+YR 1994
+T1 Applications of Invariance in Computer Vision, Second Joint European - US Workshop, Ponta Delgada, Azores, Portugal, October 9-14, 1993, Proceedings
+
+RT Journal Article
+ID 1976555
+A1 Blake,Andrew
+A1 Curwen,Rupert,W.
+A1 Zisserman,Andrew
+YR 1993
+T1 A framework for spatiotemporal control in the tracking of visual contours
+JF International Journal of Computer Vision
+VO 11
+SP 127
+OP 145
+IS 2
+
+RT Conference Proceedings
+ID 1985030
+A1 Blake,Andrew
+A1 Curwen,Rupert
+A1 Zisserman,A.
+YR 1993
+T1 Affine-invariant contour tracking with automatic control of spatiotemporal scale
+
+RT Conference Proceedings
+ID 354015
+A1 Rothwell,C.,A.
+A1 Forsyth,D.,A.
+A1 Zisserman,A.
+A1 Mundy,J.,L.
+YR 1993
+T1 Extracting projective structure from single perspective views of 3D point sets
+
+RT Journal Article
+ID 239712
+A1 Rothwell,C.,a.
+A1 Forsyth,D.,a.
+A1 Zisserman,A.
+A1 Mundy,J.,l.
+YR 1993
+T1 Extracting Projective Information from Single Views of 3D Point Sets
+
+RT Conference Proceedings
+ID 372157
+A1 Zisserman,A.
+A1 Blake,A.
+A1 Rothwell,C.,A.
+A1 Gool,L.,J.,Van
+A1 Diest,M.,Van
+YR 1993
+T1 Eliciting qualitative structure from image curve deformations
+
+RT Book, Whole
+ID 492725
+A1 Zisserman,Andrew
+A1 Maybank,Stephen,J.
+YR 1993
+T1 A Case Against Epipolar Geometry
+SP 69
+OP 88
+
+RT Conference Proceedings
+ID 492715
+A1 Mundy,Joseph,L.
+A1 Zisserman,Andrew
+YR 1993
+T1 Repeated Structures: Image Correspondence Constraints and 3D Structure Recovery
+SP 89
+OP 106
+
+RT Book, Whole
+ID 492722
+A1 Mundy,Joseph,L.
+A1 Zisserman,Andrew
+A1 Forsyth,David,A.
+YR 1993
+T1 Introduction and Chapter Summary
+SP 3
+OP 8
+
+RT Journal Article
+ID 2005159
+A1 Mundy,J.,L.
+A1 Zisserman,A.,P.
+YR 1992
+T1 Geometric Invariance in Computer Vision
+JF Artificial Intelligence
+
+RT Book, Whole
+ID 509595
+A1 Rothwell,Charles,A.
+A1 Zisserman,Andrew
+A1 Forsyth,David,A.
+A1 Mundy,Joseph,L.
+YR 1992
+T1 Canonical Frames for Planar Object Recognition
+SP 757
+OP 772
+
+RT Conference Proceedings
+ID 333506
+A1 Rothwell,C.,A.
+A1 Zisserman,A.
+A1 Mundy,J.,L.
+A1 Forsyth,D.,A.
+YR 1992
+T1 Efficient model library access by projectively invariant indexing functions
+SP 109
+OP 114
+
+RT Conference Proceedings
+ID 2133187
+A1 Demey,Sabine
+A1 Zisserman,Andrew
+A1 Beardsley,P.
+YR 1992
+T1 Affine and Projective Structure from Motion
+
+RT Journal Article
+ID 360232
+A1 Rothwell,Charlie
+A1 Zisserman,Andrew
+A1 Marinos,Constantinos
+A1 Forsyth,David,A.
+A1 Mundy,Joseph,L.
+YR 1992
+T1 Relative motion and pose from arbitrary plane curves
+JF Image and Vision Computing
+VO 10
+SP 250
+OP 262
+IS 4
+
+RT Book, Whole
+ID 509710
+A1 Beardsley,Paul,A.
+A1 Murray,David,W.
+A1 Zisserman,Andrew
+YR 1992
+T1 Camera Calibration Using Multiple Images
+SP 312
+OP 320
+
+RT Journal Article
+ID 65986
+A1 Mundy,Joseph,L.
+A1 Zisserman,Andrew
+YR 1992
+T1 Appendix - Projective Geometry for Machine Vision
+
+RT Journal Article
+ID 2090909
+A1 Zisserman,A.
+A1 Forsyth,D.
+A1 Mundy,J.,L.
+A1 Rothwell,C.,A.
+YR 1992
+T1 Recognizing general curved objects efficiently
+
+RT Journal Article
+ID 4071336
+A1 Blake,A.
+A1 Zisserman,A.
+A1 Cipolla,R.
+YR 1992
+T1 Visual exploration of free-space
+
+RT Journal Article
+ID 3617694
+A1 Mundy,J.,L.
+A1 Zisserman,A.
+YR 1992
+T1 Projective geometry for machine vision
+
+RT Journal Article
+ID 2006420
+A1 Mundy,J.
+A1 Zisserman,A.
+YR 1992
+T1 Introduction-towards a new framework for vision
+
+RT Book, Whole
+ID 388161
+A1 Forsyth,David,A.
+A1 Mundy,Joseph,L.
+A1 Zisserman,Andrew
+A1 Rothwell,Charlie
+YR 1992
+T1 Recognising rotationally symmetric surfaces from their outlines
+SP 639
+OP 647
+
+RT Journal Article
+ID 1990240
+A1 Cipolla,R.
+A1 Zisserman,A.
+YR 1992
+T1 Qualitative Surface Shape from Deformation of Image Curves
+JF International Journal of Computer Vision
+VO 8
+SP 53
+OP 69
+IS 1
+
+RT Journal Article
+ID 3466588
+A1 Zisserman,A.
+YR 1992
+T1 Notes on Geometric Invariance in Vision
+
+RT Book, Whole
+ID 509688
+A1 Curwen,Rupert,W.
+A1 Blake,Andrew
+A1 Zisserman,Andrew
+YR 1992
+T1 Real-time Visual Tracking for Surveillance and Path Planning
+SP 879
+OP 883
+
+RT Journal Article
+ID 2016992
+A1 Parker,A.,J.
+A1 Christou,C.
+A1 Cumming,B.,G.
+A1 Johnston,E.,B.
+A1 Hawken,M.,J.
+A1 Zisserman,A.
+YR 1992
+T1 The analysis of 3D shape: Psychophysical principles and neural mechanisms
+
+RT Journal Article
+ID 864111
+A1 Forsyth,David,A.
+A1 Mundy,Joseph,L.
+A1 Zisserman,Andrew
+YR 1992
+T1 Transformational invariance - a primer
+JF Image and Vision Computing
+VO 10
+SP 39
+OP 45
+IS 1
+
+RT Journal Article
+ID 2731455
+A1 Mundy,J.,L.
+A1 Zisserman,A.
+YR 1992
+T1 Applications of Geometric Invariance in Computer Vision
+
+RT Journal Article
+ID 800339
+A1 Forsyth,David,A.
+A1 Mundy,Joseph,L.
+A1 Zisserman,Andrew
+A1 Coelho,Chris
+A1 Heller,Aaron
+A1 Rothwell,Charlie
+YR 1991
+T1 Invariant Descriptors for 3D Object Recognition and Pose
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 13
+SP 971
+OP 991
+IS 10
+
+RT Journal Article
+ID 800700
+A1 Forsyth,David,A.
+A1 Zisserman,Andrew
+YR 1991
+T1 Reflections on Shading
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 13
+SP 671
+OP 679
+IS 7
+
+RT Journal Article
+ID 2700440
+A1 Coelho,C.
+A1 Heller,A.
+A1 Mundy,J.,L.
+A1 Forsyth,D.
+A1 Zisserman,A.
+YR 1991
+T1 An experimental evaluation of projective invariants
+
+RT Conference Proceedings
+ID 397252
+A1 Rothwell,C.,A.
+A1 Zisserman,A.
+A1 Forsyth,D.,A.
+A1 Mundy,J.,L.
+YR 1991
+T1 Using Projective Invariants for Constant Time Library Indexing in Model Based Vision
+
+RT Conference Proceedings
+ID 4071827
+A1 Blake,A.
+A1 Brady,M.
+A1 Cipolla,R.
+A1 Xie,Z.
+A1 Zisserman,A.
+YR 1991
+T1 Visual navigation around curved obstacles
+
+RT Journal Article
+ID 864175
+A1 Forsyth,David,A.
+A1 Mundy,Joseph,L.
+A1 Zisserman,Andrew
+A1 Brown,Christopher,M.
+YR 1991
+T1 Projectively invariant representations using implicit algebraic curves
+JF Image and Vision Computing
+VO 9
+SP 130
+OP 136
+IS 2
+
+RT Journal Article
+ID 3273278
+A1 Forsyth,D.,A.
+A1 Mundy,J.,L.
+A1 Zisserman,A.,P.
+A1 Heller,A.
+A1 Coehlo,C.
+A1 Rothwell,C.,A.
+YR 1991
+T1 Invariant Descriptors for 3D Recognition and Pose
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+RT Book, Whole
+ID 509237
+A1 Forsyth,David,A.
+A1 Mundy,Joseph,L.
+A1 Zisserman,Andrew
+A1 Brown,Christopher,M.
+YR 1990
+T1 Projectively Invariant Representations Using Implicit Algebraic Curves
+SP 427
+OP 436
+
+RT Conference Proceedings
+ID 2373787
+A1 Forsyth,David
+A1 Mundy,Joseph,L.
+A1 Zisserman,Andrew
+A1 Brown,Christopher,M.
+YR 1990
+T1 Invariance-a new framework for vision
+
+RT Journal Article
+ID 864239
+A1 Forsyth,David,A.
+A1 Zisserman,Andrew
+YR 1990
+T1 Shape from shading in the light of mutual illumination
+JF Image and Vision Computing
+VO 8
+SP 42
+OP 49
+IS 1
+
+RT Conference Proceedings
+ID 13401466
+A1 Zisserman,A.
+A1 Marinos,C.
+A1 Forsyth,D.,A.
+A1 Mundy,J.,L.
+YR 1990
+T1 Relative motion and pose from invariants
+
+RT Journal Article
+ID 11444707
+A1 Blake,Andrew
+A1 Cipolla,Roberto
+A1 Zisserman,Andrew
+YR 1990
+T1 Towards Qualitative Vision: Motion Parallax
+
+RT Conference Proceedings
+ID 49862622
+A1 Forsyth,David
+A1 Zisserman,Andrew
+YR 1989
+T1 Mutual illumination
+SP 466
+OP 473
+
+RT Journal Article
+ID 864275
+A1 Zisserman,Andrew
+A1 Giblin,Peter,J.
+A1 Blake,Andrew
+YR 1989
+T1 The information available to a moving observer from specularities
+JF Image and Vision Computing
+VO 7
+SP 38
+OP 42
+IS 1
+
+RT Journal Article
+ID 864247
+A1 Scott,G.,L.
+A1 Turner,S.,C.
+A1 Zisserman,Andrew
+YR 1989
+T1 Using a mixed wave/ diffusion process to elicit the symmetry set
+JF Image and Vision Computing
+VO 7
+SP 63
+OP 70
+IS 1
+
+RT Journal Article
+ID 15266546
+A1 Blake,Andrew
+A1 Zisserman,Andrew
+YR 1989
+T1 Visual Reconstruction
+JF Mathematics of Computation
+VO 53
+SP 772
+IS 188
+
+RT Journal Article
+ID 1480494
+A1 McCauley,C.,J.
+A1 Saunders,R.
+A1 Zisserman,A.
+YR 1988
+T1 Prolate harmonics and axisymmetric conductor systems
+JF IEEE Transactions on Magnetics
+VO 24
+SP 70
+OP 73
+IS 1
+
+RT Book, Whole
+ID 696474
+A1 Blake,Andrew
+A1 Zisserman,Andrew
+YR 1987
+T1 Visual Reconstruction
+
+RT Journal Article
+ID 14454466
+A1 Blake,A.
+A1 Zisserman,A.
+YR 1987
+T1 Localising discontinuities using weak continuity constraints
+JF Pattern Recognition Letters
+VO 6
+SP 51
+OP 59
+IS 1
+
+RT Journal Article
+ID 1491345
+A1 Zisserman,A.
+A1 Saunders,R.
+A1 Caldwell,J.
+YR 1987
+T1 Analytic solutions for axisymmetric magnetostatic systems involving iron
+JF IEEE Transactions on Magnetics
+VO 23
+SP 3895
+OP 3902
+IS 6
+
+RT Journal Article
+ID 864345
+A1 Mclauchlan,Philip,F.
+A1 Zisserman,Andrew
+A1 Blake,Andrew
+YR 1987
+T1 Knowledge source for describing stereoscopically viewed textured surfaces
+JF Image and Vision Computing
+VO 5
+SP 105
+OP 110
+IS 2
+
+RT Journal Article
+ID 52539966
+A1 Zisserman,A.
+A1 Saunders,R.
+A1 Caldwell,J.
+YR 1987
+T1 The effects of iron on the fields of axisymmetric conductors using a Legendre polynomial approach
+JF Journal of Physics D-applied Physics
+VO 20
+SP 174
+OP 181
+IS 2
+
+RT Conference Proceedings
+ID 1977881
+A1 Blake,A.
+A1 Zisserman,A.
+YR 1986
+T1 Invariant surface reconstruction using weak continuity constraints
+
+RT Conference Proceedings
+ID 508160
+A1 Blake,Andrew
+A1 Zisserman,Andrew
+A1 Papoulias,A.,V.
+YR 1986
+T1 Weak Continuity Constraints Generate Uniform Scale-Space Descriptions of Plane Curves
+SP 587
+OP 597
+
+RT Journal Article
+ID 26251266
+A1 SAUNDERS,R
+A1 ZISSERMAN,A
+YR 1986
+T1 Compumag 85
+JF Applied Mathematical Modelling
+VO 10
+SP 71
+OP 72
+IS 1
+
+RT Journal Article
+ID 864396
+A1 Blake,Andrew
+A1 Zisserman,Andrew
+A1 Knowles,Greg
+YR 1985
+T1 Surface descriptions from stereo and shading
+JF Image and Vision Computing
+VO 3
+SP 183
+OP 191
+IS 4
+
+RT Journal Article
+ID 1492478
+A1 Zisserman,A.
+A1 Saunders,R.
+A1 Caldwell,J.
+YR 1985
+T1 A legendre polynomial BEM for axisymmetric coil systems including Iron
+JF IEEE Transactions on Magnetics
+VO 21
+SP 2203
+OP 2206
+IS 6
+
+RT Journal Article
+ID 14560849
+A1 ZISSERMAN,A
+A1 CALDWELL,J
+YR 1984
+T1 Program F. Matinv for the solution of the sparse linear system Ax=b
+JF Advances in Engineering Software
+VO 6
+SP 2
+OP 8
+IS 1
+
+RT Journal Article
+ID 14560903
+A1 CALDWELL,J
+A1 ZISSERMAN,A
+YR 1984
+T1 Program F. MATINV for the solution of the sparse linear system Ax = b including normalisation
+JF Advances in Engineering Software
+VO 6
+SP 168
+OP 170
+IS 3
+
+RT Journal Article
+ID 53087772
+A1 Caldwell,J.
+A1 Zisserman,A.
+A1 Saunders,R.
+YR 1984
+T1 A GFUN approach to include the effects of iron on coil systems with cylindrical symmetry
+JF Journal of Physics D-applied Physics
+VO 17
+SP 1759
+OP 1772
+IS 9
+
+RT Journal Article
+ID 53089929
+A1 Caldwell,J.
+A1 Zisserman,A.
+A1 Saunders,R.
+YR 1984
+T1 A surface integral approach to determine the effects of iron on axisymmetric coil systems
+JF Journal of Applied Physics
+VO 56
+SP 3379
+OP 3383
+
+RT Journal Article
+ID 14560821
+A1 LEWIS,B
+A1 SAUNDERS,R
+A1 ZISSERMAN,A
+YR 1983
+T1 On two-dimesional quadrature for potential problems
+JF Advances in Engineering Software
+VO 5
+SP 183
+OP 187
+IS 4
+
+RT Journal Article
+ID 1485514
+A1 Caldwell,J.
+A1 Zisserman,A.
+YR 1983
+T1 Magnetostatic field calculations involving iron using an eigenfunction expansion
+JF IEEE Transactions on Magnetics
+VO 19
+SP 2725
+OP 2729
+IS 6
+
+RT Journal Article
+ID 18831329
+A1 Caldwell,J.
+A1 Zisserman,A.
+YR 1983
+T1 The effect of iron of constant permeability on the magnetostatic field of axisymmetric conductors
+JF Journal of Physics D-applied Physics
+VO 16
+SP 2075
+OP 2081
+IS 11
+
+RT Journal Article
+ID 51272732
+A1 Caldwell,J.
+A1 Zisserman,A.
+YR 1983
+T1 Equivalence of different solutions of the vector potential for a thick solenoid
+JF Journal of Applied Physics
+VO 54
+SP 6740
+OP 6741
+
+RT Journal Article
+ID 51627545
+A1 Caldwell,J.
+A1 Zisserman,A.
+YR 1983
+T1 A Fourier series approach to magnetostatic field calculations involving magnetic material
+JF Journal of Applied Physics
+VO 54
+SP 4734
+OP 4738
+
+RT Journal Article
+ID 52523612
+A1 Caldwell,J.
+A1 Zisserman,A.
+YR 1983
+T1 Magnetostatic field calculations in the presence of iron using a Green's function approach
+JF Journal of Applied Physics
+VO 54
+SP 484
+OP 487
+
+RT Journal Article
+ID 3938697
+A1 Everingham,Mark
+A1 Zisserman,Andrew
+A1 Williams,Chris
+A1 Gool,Luc,Van
+T1 The Pascal Visual Object Classes Challenge 2006 (VOC2006) Results
+
+RT Book, Whole
+ID 101263
+A1 Mundy,Joseph,L.
+A1 Zisserman,Andrew
+T1 Repeated structures: Image correspondence constraints and 3D structure recovery
+
+RT Journal Article
+ID 11599334
+A1 Fitzgibbonand,Andrew
+A1 Zisserman,Andrew
+T1 AUTOMATIC 3D MODEL ACQUISITION AND GENERATION OF NEW IMAGES FROM VIDEO SEQUENCES
+
+RT Conference Proceedings
+ID 2378015
+A1 Everingham,Mark
+A1 Gool,Luc,Van
+A1 Williams,Chris
+A1 Zisserman,Andrew
+T1 Pascal Visual Object Classes Challenge Results
+
+RT Conference Proceedings
+ID 3390033
+A1 Kadir,Timor
+A1 Bowden,Richard
+A1 Ong,Eng,Jon
+A1 Zisserman,Andrew
+T1 Minimal Training, Large Lexicon, Unconstrained Sign Language Recognition
+
+RT Journal Article
+ID 4585062
+A1 Sivic,Josef
+A1 Schaffalitzky,Frederik
+A1 Zisserman,Andrew
+T1 EFFICIENT OBJECT RETRIEVAL FROM VIDEOS
+
+RT Book, Whole
+ID 48767318
+A1 Fitzgibbon,Andrew,W.
+A1 Zisserman,Andrew
+T1 Automatic Camera Tracking
+
+RT Conference Proceedings
+ID 14376
+A1 Bowden,Richard
+A1 Zisserman,Andrew
+A1 Kadir,Timor
+A1 Brady,Mike
+T1 Vision based Interpretation of Natural Sign Languages
+
+RT Conference Proceedings
+ID 6471187
+A1 Vedaldi,Andrea
+A1 Zisserman,Andrew
+T1 Structured output regression for detection with partial truncation
+
+RT Journal Article
+ID 4589428
+A1 Werner,Tomas
+A1 Schaffalitzky,Frederik
+A1 Zisserman,Andrew
+T1 Automated Architecture Reconstruction from Close-range Photogrammetry
+
+RT Conference Proceedings
+ID 60745
+A1 Zisserman,Andrew
+T1 Model Selection for Automated Architectural Reconstruction from Multiple Views
+
+RT Journal Article
+ID 6948872
+A1 Zisserman,Andrew
+T1 Geometric Framework for Vision I: Single View and Two-View Geometry
+
+RT Journal Article
+ID 14217357
+A1 Klaser,Alexander
+A1 Marsza,Marcin
+A1 Schmid,Cordelia
+A1 Zisserman,Andrew
+T1 Human Focused Action Localization in Video
+
+RT Journal Article
+ID 4580716
+A1 Schaffalitzky,F.
+A1 Zisserman,A.
+T1 Viewpoint Invariant Scene Retrieval using Textured Regions
+
+RT Journal Article
+ID 10695943
+A1 Zisserman,Andrew
+T1 Single View and Two-View Geometry
+
+RT Journal Article
+ID 6228122
+A1 Tu,Peter
+A1 Zisserman,Andrew
+A1 Mason,Iain
+T1 Seismic Time Section Analysis Using Machine Vision
+
+RT Journal Article
+ID 4067793
+A1 Zisserman,Andrew
+A1 Schaffalitzky,Frederik
+T1 VIEWPOINT INVARIANT DESCRIPTORS FOR IMAGE MATCHING
+
+RT Journal Article
+ID 6942543
+A1 Schro,F.
+A1 Criminisi,A.
+A1 Zisserman,A.
+T1 Single-Histogram Class Models for Image Segmentation
+
+RT Journal Article
+ID 10741211
+A1 Epshtein,B.
+A1 Ullman,S.
+A1 Crandall,D.
+A1 Felzenszwalb,P.
+A1 Huttenlocher,D.
+A1 Kumar,M.
+A1 Torr,P.
+A1 Zisserman,A.
+A1 Doretto,G.
+A1 Schaefer,G.
+A1 Hordley,S.
+A1 Finlayson,G.
+A1 Yang,C.
+A1 Duraiswami,R.
+A1 Davis,L.
+A1 Martinec,D.
+A1 Pajdla,T.
+A1 Sturm,P.
+T1 8:30 - 10:10: Session 1.2 (Kontiki) Video Analysis and Reconstruction
+
+RT Journal Article
+ID 48476324
+A1 Buehler,Patrick
+A1 Everingham,Mark
+A1 Huttenlocher,Daniel,P.
+A1 Zisserman,Andrew
+T1 Upper Body Detection and Tracking in Extended Signing Sequences
+JF International Journal of Computer Vision
+SP 1
+OP 18
+
+RT Journal Article
+ID 12811952
+A1 Fergus,R.
+A1 Perona,P.
+A1 Zisserman,A.
+T1 AVisualCategoryFilterforGoogleImages
+
+RT Journal Article
+ID 4618586
+A1 Zisserman,Andrew
+A1 Hartley,Richard,I.
+A1 Mundy,Joe,L.
+A1 Beardsley,Paul
+T1 Is Epipolar Geometry Necessary?
+
+RT Book, Whole
+ID 4687486
+A1 Arandjelović,Ognjen
+A1 Zisserman,Andrew
+T1 On Film Character Retrieval in Feature-Length Films
+
+RT Journal Article
+ID 15271299
+A1 Philbin,James
+A1 Sivic,Josef
+A1 Zisserman,Andrew
+T1 Geometric Latent Dirichlet Allocation on a Matching Graph for Large-scale Image Datasets
+JF International Journal of Computer Vision
+VO 88
+SP 1
+OP 16
+IS 3
+
+RT Journal Article
+ID 4574855
+A1 Hartley,Richard
+A1 Zisserman,Andrew
+T1 Tutorial I: The Algebraic Approach to Invariance
+
+RT Journal Article
+ID 13065826
+A1 Mairal,Julien
+A1 Bach,Francis
+A1 Ponce,Jean
+A1 Sapiro,Guillermo
+A1 Zisserman,Andrew
+T1 DiscriminativeLe arnedDictionarie sforLocalImageAn alysis
+
+RT Journal Article
+ID 12737138
+A1 Pickup,Lyndsey,C.
+A1 Capel,David,P.
+A1 Roberts,Stephen,J.
+A1 Zisserman,Andrew
+T1 ResearchArticle Overcoming Registration Uncertainty in Image Super-Resolution: Maximize or Marginalize?
+
+RT Journal Article
+ID 12996542
+A1 Wexler,Yonatan
+A1 Fitzgibbon,Andrew,W.
+A1 Zisserman,Andrew
+T1 Image-based Environment Matting (Online ID 213)
+
+RT Journal Article
+ID 12801958
+A1 Schaffalitzky,F.
+A1 Zisserman,A.
+T1 AutomatedLocationMatchinginMovies
+
+RT Journal Article
+ID 12061559
+A1 Philbin,James
+A1 Marin-Jimenez,Manuel
+A1 Srinivasan,Siddharth
+A1 Zisserman,Andrew
+T1 Oxford TRECVID 2008 - Notebook paper
+
+RT Journal Article
+ID 5832748
+A1 Talmage,Dan
+A1 Noble,Alison
+A1 Zisserman,Andrew
+T1 Uncalibrated X-Ray Stereo Reconstruction
+
+RT Journal Article
+ID 12804163
+A1 Pawan,M.
+A1 Torr,Kumar,P.,H.,S.
+A1 Zisserman,A.
+T1 OBJ CUT
+
+RT Journal Article
+ID 12996923
+A1 Oskarsson,Magnus
+A1 Zisserman,Andrew
+A1 Åström,Kalle
+T1 USING COMBINATIONS OF LINES AND POINTS FOR MINIMAL PROJECTIVE RECONSTRUCTION
+
+RT Book, Whole
+ID 48418345
+A1 Ferrari,Vittorio
+A1 Marín-Jiménez,Manuel
+A1 Zisserman,Andrew
+T1 2D Human Pose Estimation in TV Shows
+
+RT Journal Article
+ID 2758091
+A1 Everingham,Mark
+A1 Zisserman,Andrew
+T1 Automated Detection and Identification of Persons in Video

@@ -1,0 +1,8179 @@
+RT Journal Article
+ID 51203635
+A1 Krioukov,Andrew
+A1 Alspaugh,Sara
+A1 Mohan,Prashanth
+A1 Dawson-Haggerty,Stephen
+A1 Culler,David,E.
+A1 Katz,Randy,H.
+YR 2012
+T1 Design and Evaluation of an Energy Agile Computing Cluster
+
+RT Conference Proceedings
+ID 56966663
+A1 Taneja,Jay
+A1 Katz,Randy
+A1 Culler,David
+YR 2012
+T1 Defining CPS Challenges in a Sustainable Electricity Grid
+
+RT Journal Article
+ID 56919312
+A1 Rabkin,Ariel,S.
+A1 Reiss,Charles
+A1 Katz,Randy
+A1 Patterson,David
+YR 2012
+T1 Experiences teaching MapReduce in the cloud
+SP 601
+OP 606
+
+RT Journal Article
+ID 58576340
+A1 Zats,David
+A1 Das,Tathagata
+A1 Mohan,Prashanth
+A1 Borthakur,Dhruba
+A1 Katz,Randy
+YR 2012
+T1 DeTail: reducing the flow completion time tail in datacenter networks
+SP 139
+OP 150
+
+RT Journal Article
+ID 56921358
+A1 Chen,Yanpei
+A1 Alspaugh,Sara
+A1 Borthakur,Dhruba
+A1 Katz,Randy
+YR 2012
+T1 Energy efficiency for large-scale MapReduce workloads with significant interactive analysis
+SP 43
+OP 56
+
+RT Conference Proceedings
+ID 51117771
+A1 Chen,Yanpei
+A1 Ganapathi,Archana
+A1 Griffith,Rean
+A1 Katz,Randy
+YR 2011
+T1 The Case for Evaluating MapReduce Performance Using Workload Suites
+SP 390
+OP 399
+
+RT Journal Article
+ID 49691219
+A1 Katz,Randy,H.
+A1 Culler,David,E.
+A1 Sanders,Seth
+A1 Alspaugh,Sara
+A1 Chen,Yanpei
+A1 Dawson-Haggerty,Stephen
+A1 Dutta,Prabal
+A1 He,Mike
+A1 Jiang,Xiaofan
+A1 Keys,Laura
+A1 Krioukov,Andrew
+A1 Lutz,Ken
+A1 Ortiz,Jorge
+A1 Mohan,Prashanth
+A1 Reutzel,Evan
+A1 Taneja,Jay
+A1 Hsu,Jeff
+A1 Shankar,Sushant
+YR 2011
+T1 An information-centric energy infrastructure: The Berkeley view
+JF Surface Science
+VO 1
+SP 7
+OP 22
+IS 1
+
+RT Journal Article
+ID 49326594
+A1 Wolfe,Frederick
+A1 Häuser,Winfried
+A1 Hassett,Afton,L.
+A1 Katz,Robert,S.
+A1 Walitt,Brian,T.
+YR 2011
+T1 The development of fibromyalgia – I: Examination of rates and predictors in patients with rheumatoid arthritis (RA)
+JF Pain
+VO 152
+SP 291
+OP 299
+IS 2
+
+RT Journal Article
+ID 39212694
+A1 Krioukov,Andrew
+A1 Mohan,Prashanth
+A1 Alspaugh,Sara
+A1 Keys,Laura
+A1 Culler,David,E.
+A1 Katz,Randy,H.
+YR 2011
+T1 NapSAC: design and implementation of a power-proportional web cluster
+JF Computer Communication Review
+VO 41
+SP 102
+OP 108
+IS 1
+
+RT Journal Article
+ID 53898138
+A1 Soderberg,Alicia,M.
+A1 Margutti,R.
+A1 Zauderer,B.,A.
+A1 Krauss,M.
+A1 Katz,B.
+A1 Chomiuk,L.
+A1 Dittmann,J.,A.
+A1 Nakar,E.
+A1 Sakamoto,T.
+A1 Kawai,N.
+A1 Hurley,K.
+A1 Barthelmy,S.
+A1 Toizumi,T.
+A1 Morii,M.
+A1 Chevalier,R.,A.
+A1 Gurwell,M.
+A1 Petitpas,G.
+A1 Rupen,M.
+A1 Alexander,K.,D.
+A1 Levesque,E.,M.
+A1 Fransson,C.
+A1 Brunthaler,A.
+A1 Bietenholz,M.,F.
+A1 Chugai,N.
+A1 Connaughton,V.
+A1 Briggs,M.
+A1 Meegan,C.
+A1 Kienlin,A.,von
+A1 Zhang,X.
+A1 Rau,A.
+A1 Golenetskii,S.
+A1 Mazets,E.
+A1 Cline,T.
+YR 2011
+T1 Panchromatic Observations of SN 2011dh Point to a Compact Progenitor Star
+
+RT Journal Article
+ID 39212697
+A1 Lee,Gunho
+A1 Tolia,Niraj
+A1 Ranganathan,Parthasarathy
+A1 Katz,Randy,H.
+YR 2011
+T1 Topology-aware resource allocation for data-intensive workloads
+JF Computer Communication Review
+VO 41
+SP 120
+OP 124
+IS 1
+
+RT Conference Proceedings
+ID 56911467
+A1 Chen,Yanpei
+A1 Srinivasan,Kiran
+A1 Goodson,Garth
+A1 Katz,Randy
+YR 2011
+T1 Design implications for enterprise storage systems via multi-dimensional trace analysis
+SP 43
+OP 56
+
+RT Journal Article
+ID 59399673
+A1 Kop,W.,J.
+A1 Seliger,S.,L.
+A1 Fink,J.,C.
+A1 Katz,R.
+A1 Odden,M.,C.
+A1 Fried,L.,F.
+A1 Rifkin,D.,E.
+A1 Sarnak,M.,J.
+A1 Gottdiener,J.,S.
+YR 2011
+T1 Longitudinal association of depressive symptoms with rapid kidney function decline and adverse clinical renal disease outcomes
+VO 6
+SP 834
+OP 844
+IS 4
+
+RT Journal Article
+ID 61412878
+A1 Chen,Yanpei
+A1 Ganapathi,Archana
+A1 Griffith,Rean
+A1 Katz,Randy
+YR 2011
+T1 update
+
+RT Conference Proceedings
+ID 39269214
+A1 Rabkin,Ariel
+A1 Katz,Randy,H.
+YR 2011
+T1 Static extraction of program configuration options
+SP 131
+OP 140
+
+RT Conference Proceedings
+ID 56930717
+A1 Rabkin,Ariel
+A1 Katz,Randy
+YR 2011
+T1 Precomputing possible configuration error diagnoses
+SP 193
+OP 202
+
+RT Journal Article
+ID 51203633
+A1 Zats,David
+A1 Das,Tathagata
+A1 Mohan,Prashanth
+A1 Katz,Randy,H.
+YR 2011
+T1 DeTail: Reducing the Flow Completion Time Tail in Datacenter Networks
+
+RT Journal Article
+ID 13572778
+A1 Wolfe,Frederick
+A1 Clauw,Daniel,J.
+A1 Fitzcharles,Mary-Ann
+A1 Goldenberg,Don,L.
+A1 Katz,Robert,S.
+A1 Mease,Philip
+A1 Russell,Anthony,S.
+A1 Russell,I.,Jon
+A1 Winfield,John,B.
+A1 Yunus,Muhammad,B.
+YR 2010
+T1 The American College of Rheumatology Preliminary Diagnostic Criteria for Fibromyalgia and Measurement of Symptom Severity
+JF Arthritis Care & Research
+VO 62
+SP 600
+OP 610
+IS 5
+
+RT Conference Proceedings
+ID 13512165
+A1 Ganapathi,Archana
+A1 Chen,Yanpei
+A1 Fox,Armando
+A1 Katz,Randy,H.
+A1 Patterson,David,A.
+YR 2010
+T1 Statistics-driven workload modeling for the Cloud
+SP 87
+OP 92
+
+RT Journal Article
+ID 7020548
+A1 Chen,Yanpei
+A1 Paxson,Vern
+A1 Katz,Randy,H.
+YR 2010
+T1 What’s New About Cloud Computing Security?
+
+RT Conference Proceedings
+ID 13759807
+A1 Krioukov,Andrew
+A1 Mohan,Prashanth
+A1 Alspaugh,Sara
+A1 Keys,Laura
+A1 Culler,David,E.
+A1 Katz,Randy,H.
+YR 2010
+T1 NapSAC: design and implementation of a power-proportional web cluster
+SP 15
+OP 22
+
+RT Conference Proceedings
+ID 13759719
+A1 Chen,Yanpei
+A1 Ganapathi,Archana,Sulochana
+A1 Katz,Randy,H.
+YR 2010
+T1 To compress or not to compress - compute vs. IO tradeoffs for mapreduce energy efficiency
+SP 23
+OP 28
+
+RT Conference Proceedings
+ID 13759815
+A1 Lee,Gunho
+A1 Tolia,Niraj
+A1 Ranganathan,Parthasarathy
+A1 Katz,Randy,H.
+YR 2010
+T1 Topology-aware resource allocation for data-intensive workloads
+SP 1
+OP 6
+
+RT Journal Article
+ID 33391923
+A1 Costenbader,Karen,H.
+A1 Khamashta,Munther
+A1 Ruiz-Garcia,Silvia
+A1 Perez-Rodriguez,Maria,Teresa
+A1 Petri,Michelle
+A1 Elliott,Jennifer
+A1 Manzi,Susan
+A1 Karlson,Elizabeth,W.
+A1 Turner-Stokes,Tabitha
+A1 Bermas,Bonnie
+A1 Coblyn,Jonathan
+A1 Massarotti,Elena
+A1 Schur,Peter
+A1 Fraser,Patricia
+A1 Navarro,Iris
+A1 Hanly,John,G.
+A1 Shaver,Timothy,S.
+A1 Katz,Robert,S.
+A1 Chakravarty,Eliza
+A1 Fortin,Paul,R.
+A1 Sanchez,Martha,L.
+A1 Liu,Jigna
+A1 Michaud,Kaleb
+A1 Alarcón,Graciela,S.
+A1 Wolfe,Frederick
+YR 2010
+T1 Development and initial validation of a self-assessed lupus organ damage instrument
+JF Arthritis Care & Research
+VO 62
+SP 559
+OP 568
+IS 4
+
+RT Journal Article
+ID 14418013
+A1 Chun,Byung-Gon
+A1 Iannaccone,G.
+A1 Katz,Randy,H.
+A1 Lee,Gunho
+A1 Niccolini,Luca
+YR 2010
+T1 An energy case for hybrid datacenters
+JF Operating Systems Review
+VO 44
+SP 76
+OP 80
+IS 1
+
+RT Journal Article
+ID 14016717
+A1 Faria,L.,C.
+A1 Mody,I.
+A1 Fujiwara-Tsukamoto,Y.
+A1 Isomura,Y.
+A1 Takada,M.
+A1 Parnas,M.
+A1 Katz,B.
+A1 Lev,S.
+A1 Tzarfaty,V.
+A1 Dadon,D.
+A1 Gordon-Shaag,A.
+A1 Metzner,H.
+A1 Yaka,R.
+YR 2010
+T1 Comparable GABAergic Mechanisms of Hippocampal Seizurelike Activity in Posttetanic
+
+RT Journal Article
+ID 33394847
+A1 Wolfe,Frederick
+A1 Clauw,Daniel,J.
+A1 Fitzcharles,Mary-Ann
+A1 Goldenberg,Don,L.
+A1 Häuser,Winfried
+A1 Katz,Robert,S.
+A1 Mease,Philip
+A1 Russell,Anthony,S.
+A1 Russell,I.,Jon
+A1 Winfield,John,B.
+YR 2010
+T1 Reply to the letter to the editor
+JF Arthritis Care & Research
+
+RT Journal Article
+ID 14243797
+A1 CLAUW,DANIEL,J.
+A1 FITZCHARLES,MARY-ANN
+A1 GOLDENBERG,DON,L.
+A1 KATZ,ROBERT,S.
+A1 MEASE,PHILIP
+A1 RUSSELL,ANTHONY,S.
+A1 RUSSELL,I.,JON
+A1 WINFIELD,JOHN,B.
+A1 YUNUS,MUHAMMAD,B.
+YR 2010
+T1 Criterios preliminares de diagnóstico del Colegio Americano de Reumatología para la Fibromialgia y para la medición de la gravedad de sus síntomas
+
+RT Journal Article
+ID 14371964
+A1 Boutaba,Raouf
+A1 Martin-Flatin,Jean-Philippe
+A1 Hellerstein,Joseph,L.
+A1 Katz,Randy,H.
+A1 Pavlou,George
+A1 Lea,Chin-Tau
+YR 2010
+T1 Recent advances in autonomic communications [Guest Editorial]
+JF IEEE Journal on Selected Areas in Communications
+VO 28
+SP 1
+OP 3
+IS 1
+
+RT Journal Article
+ID 13264568
+A1 Benhamou,Eric
+A1 Eisenberg,Jon
+A1 Katz,Randy,H.
+YR 2010
+T1 Assessing the changing U.S. IT R&D ecosystem
+JF Communications of The ACM
+VO 53
+SP 76
+OP 83
+IS 2
+
+RT Book, Whole
+ID 48132036
+A1 Yu,Fang
+A1 Diao,Yanlei
+A1 Katz,Randy,H.
+A1 Lakshman,T.,V.
+YR 2010
+T1 Fast Packet Pattern-Matching Algorithms
+
+RT Journal Article
+ID 12429136
+A1 Glashow,JL
+A1 Katz,R
+A1 Schneider,M
+A1 Scott,WN
+YR 2010
+T1 the diagnosis of anterior cruciate and meniscal lesions Double-blind assessment of the value of magnetic resonance imaging in
+
+RT Journal Article
+ID 39310756
+A1 Katz,Randy,H.
+YR 2010
+T1 RAID: A Personal Recollection of How Storage Became a System
+JF IEEE Annals of The History of Computing
+VO 32
+SP 82
+OP 87
+IS 4
+
+RT Journal Article
+ID 12054613
+A1 Katz,Ralph,V.
+YR 2010
+T1 and the Pathological Conditions of Dental Caries and Periodontal Disease An Epidemiologic Study of the Relationship between Various States of Occlusion
+
+RT Journal Article
+ID 5297423
+A1 Armbrust,Michael
+A1 Fox,Armando
+A1 Griffith,Rean
+A1 Joseph,Anthony,D.
+A1 Katz,Randy,H.
+A1 Konwinski,Andrew
+A1 Lee,Gunho
+A1 Patterson,David,A.
+A1 Rabkin,Ariel
+A1 Stoica,Ion
+A1 Zaharia,Matei
+YR 2009
+T1 Above the Clouds: A Berkeley View of Cloud Computing
+
+RT Journal Article
+ID 27061626
+A1 Katz,R.,H.
+YR 2009
+T1 Tech Titans Building Boom
+JF IEEE Spectrum
+VO 46
+SP 40
+OP 54
+IS 2
+
+RT Journal Article
+ID 5491402
+A1 Chen,Yanpei
+A1 Griffith,Rean
+A1 Liu,Junda
+A1 Katz,Randy,H.
+A1 Joseph,Anthony,D.
+YR 2009
+T1 Understanding TCP incast throughput collapse in datacenter networks
+SP 73
+OP 82
+
+RT Journal Article
+ID 5224769
+A1 Chun,Byung-Gon
+A1 Iannaccone,Gianluca
+A1 Iannaccone,Giuseppe
+A1 Katz,Randy
+A1 Lee,Gunho
+A1 Niccolini,Luca
+YR 2009
+T1 An Energy Case for Hybrid Datacenters
+
+RT Journal Article
+ID 32490400
+A1 Leavitt,Frank
+A1 Katz,Robert,S.
+YR 2009
+T1 Normalizing memory recall in fibromyalgia with rehearsal: A distraction-counteracting effect
+JF Arthritis and Rheumatism
+VO 61
+SP 740
+OP 744
+IS 6
+
+RT Journal Article
+ID 13234535
+A1 Daitch,Lauren,Kogan
+A1 Elyn,Jo
+A1 Nyman,George
+A1 Katz,Robert
+A1 Klinsky,Steven,B.
+YR 2009
+T1 2009 Educational Conference
+
+RT Conference Proceedings
+ID 6032357
+A1 Ellithorpe,Jonathan,D.
+A1 Tan,Zhangxi
+A1 Katz,Randy,H.
+YR 2009
+T1 Internet-in-a-Box: emulating datacenter network architectures using FPGAs
+SP 880
+OP 883
+
+RT Journal Article
+ID 53490365
+A1 Rosen,J.
+A1 Katz,B.
+YR 2009
+T1 Synthetic Aperture Digital Holography
+
+RT Journal Article
+ID 13205403
+A1 Katz,Randy,H.
+YR 2009
+T1 A computer scientist looks at the energy problem
+SP 14
+OP 21
+
+RT Conference Proceedings
+ID 4727664
+A1 Zaharia,Matei
+A1 Konwinski,Andy
+A1 Joseph,Anthony,D.
+A1 Katz,Randy,H.
+A1 Stoica,Ion
+YR 2008
+T1 Improving MapReduce Performance in Heterogeneous Environments
+SP 29
+OP 42
+
+RT Conference Proceedings
+ID 4727702
+A1 Ananthanarayanan,Ganesh
+A1 Katz,Randy,H.
+YR 2008
+T1 Greening the Switch
+
+RT Conference Proceedings
+ID 5635430
+A1 He,Mike,M.
+A1 Reutzel,Evan,M.
+A1 Jiang,Xiaofan
+A1 Katz,Randy,H.
+A1 Sanders,Seth,R.
+A1 Culler,David,E.
+A1 Lutz,K.
+YR 2008
+T1 An Architecture for Local Energy Generation, Distribution, and Sharing
+
+RT Journal Article
+ID 33712987
+A1 Wolfe,Frederick
+A1 Petri,Michelle
+A1 Alarcón,Graciela,S.
+A1 Goldman,John
+A1 Chakravarty,Eliza,F.
+A1 Katz,Robert,S.
+A1 Karlson,Elizabeth,W.
+YR 2008
+T1 Fibromyalgia, Systemic Lupus Erythematosus (SLE), and Evaluation of SLE Activity
+JF Journal of Rheumatology
+
+RT Journal Article
+ID 14326311
+A1 Chen,Yiann,E.
+A1 Korbet,Stephen,M.
+A1 Katz,Robert,S.
+A1 Schwartz,Melvin,M.
+A1 Lewis,Edmund,J.
+YR 2008
+T1 Value of a Complete or Partial Remission in Severe Lupus Nephritis
+
+RT Conference Proceedings
+ID 4726096
+A1 Chen,Yanpei
+A1 Wang,Tracy,Xiaoxiao
+A1 Katz,Randy,H.
+YR 2008
+T1 Energy efficient Ethernet encodings
+SP 122
+OP 129
+
+RT Journal Article
+ID 33182739
+A1 Leavitt,Frank
+A1 Katz,Robert,S.
+YR 2008
+T1 Speed of Mental Operations in Fibromyalgia: A Selective Naming Speed Deficit
+JF Jcr-journal of Clinical Rheumatology
+VO PAP
+
+RT Journal Article
+ID 6250335
+A1 Chun,Byung-Gon
+A1 Chen,Kuang
+A1 Lee,Gunho
+A1 Katz,Randy,H.
+A1 Shenker,Scott
+YR 2008
+T1 D3: Declarative Distributed Debugging
+
+RT Journal Article
+ID 11441434
+A1 Zhao,Feng
+A1 Abdelzaher,Tarek
+A1 Flinn,Jason
+A1 Gupta,Rajesh
+A1 Katz,Randy
+A1 Kozyrakis,Berkeley,Christos
+A1 Vahdat,Amin
+YR 2008
+T1 Workshop on Power Aware Computing and Systems (HotPower '08)
+
+RT Conference Proceedings
+ID 4727696
+A1 Katz,Randy
+YR 2008
+T1 What if the Energy Grid Were Designed Like the Internet?
+
+RT Journal Article
+ID 32322727
+A1 Lokshina,Irina
+A1 Feinstein,Igor
+A1 Agin,Carole
+A1 Katz,Robert
+YR 2008
+T1 Diagnosis and Treatment of Glossopharyngeal and Vagal Neuropathies in a Patient with Laryngopharyngeal Reflux
+JF Anesthesiology
+VO 109
+SP 741
+OP 743
+IS 4
+
+RT Journal Article
+ID 58785817
+A1 Volgin,E.
+A1 Katz,R.
+A1 Andriasov,A.
+YR 2008
+T1 Peculiarities of Water Flooding the Naturally Fractured Reservoir (Russian)
+
+RT Conference Proceedings
+ID 50713451
+A1 Blair-Smith,H.
+A1 Katz,R.
+A1 Kleyner,I.
+YR 2008
+T1 Back to the moon: The verification of a small microprocessor’s logic design
+
+RT Journal Article
+ID 25312976
+A1 Singh,Ramandeep
+A1 Calhoun,Sean
+A1 Shin,Minchul
+A1 Katz,Robert
+YR 2008
+T1 Pancreatic Neuroendocrine Tumor with Atypical Radiologic Presentation
+JF Radiology Case Reports
+VO 3
+IS 3
+
+RT Conference Proceedings
+ID 4144502
+A1 Fonseca,Rodrigo
+A1 Porter,George
+A1 Katz,Randy,H.
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2007
+T1 X-Trace: A Pervasive Network Tracing Framework
+
+RT Journal Article
+ID 4416235
+A1 Chen,Yan
+A1 Bindel,David
+A1 Song,Han,Hee
+A1 Katz,Randy,H.
+YR 2007
+T1 Algebra-based scalable overlay network monitoring: algorithms, evaluation, and applications
+JF IEEE/ACM Transactions on Networking
+VO 15
+SP 1084
+OP 1097
+IS 5
+
+RT Journal Article
+ID 15314945
+A1 Steiner,D.
+A1 Katz,R.
+YR 2007
+T1 Measurement Techniques for the Inspection of Porosity Flaws on Machined Surfaces
+JF Journal of Computing and Information Science in Engineering
+VO 7
+SP 85
+IS 1
+
+RT Journal Article
+ID 57358144
+A1 Starita,C.
+A1 Patel,M.
+A1 Katz,B.
+A1 Adamis,A.
+YR 2007
+T1 Vascular Endothelial Growth Factor and the Potential Therapeutic Use of Pegaptanib (Macugen®) in Diabetic Retinopathy
+VO 39
+SP 122
+OP 148
+
+RT Journal Article
+ID 34425593
+A1 Katz,Robert
+A1 Hamilton,James,A.
+A1 Pownall,Henry,J.
+A1 Deckelbaum,Richard,J.
+A1 Hillard,Cecilia,J.
+A1 LeBoeuf,Renee,C.
+A1 Watkins,Paul,A.
+YR 2007
+T1 Brain Uptake and Utilization of Fatty Acids, Lipids & Lipoproteins: Recommendations for Future Research
+JF Journal of Molecular Neuroscience
+VO 33
+SP 146
+OP 150
+IS 1
+
+RT Journal Article
+ID 39249496
+A1 Chen,Yan
+A1 Bindel,David
+A1 Song,Han,Hee
+A1 Katz,Randy,H.
+YR 2007
+T1 Algebra-based scalable overlay network monitoring: algorithms, evaluation, and applications
+JF IEEE/ACM Transactions on Networking
+VO 15
+SP 1084
+OP 1097
+IS 5
+
+RT Journal Article
+ID 14282761
+A1 Orange,Gail
+A1 COG,County
+A1 Katz,Bob
+YR 2007
+T1 THE FOLLOWING MINUTES ARE A SUMMARY THE PLANS & PROGRAMS TECHNICAL ADVISORY COMMITTEE (TAC) MEETING. THE AUDIO CASSETTE TAPE OF THE ACTUAL MEETING IS AVAILABLE FOR LISTENING IN SCAG'S OFFICE. The TAC held its meeting at the SCAG offices in Downtown Los Angeles. The meeting was called to order by Naresh Amatya, SCAG RTP Program Manager
+
+RT Conference Proceedings
+ID 13268741
+A1 Hutchison,David
+A1 Katz,Randy,H.
+YR 2007
+T1 Self-Organizing Systems, Second International Workshop, IWSOS 2007, The Lake District, UK, September 11-13, 2007, Proceedings
+
+RT Journal Article
+ID 34425592
+A1 Katz,Robert
+A1 Watkins,Paul,A.
+YR 2007
+T1 Synopses of Posters Presented at the International Workshop on Brain Uptake and Utilization of Fatty Acids, Lipids, and Lipoproteins: Application to Neurological Disorders
+JF Journal of Molecular Neuroscience
+VO 33
+SP 125
+OP 128
+IS 1
+
+RT Conference Proceedings
+ID 2484943
+A1 Yu,Fang
+A1 Chen,Zhifeng
+A1 Diao,Yanlei
+A1 Lakshman,T.,V.
+A1 Katz,Randy,H.
+YR 2006
+T1 Fast and memory-efficient regular expression matching for deep packet inspection
+SP 93
+OP 102
+
+RT Conference Proceedings
+ID 1884168
+A1 Cui,Weidong
+A1 Paxson,Vern
+A1 Weaver,Nicholas
+A1 Katz,Randy,H.
+YR 2006
+T1 Protocol-Independent Adaptive Replay of Application Dialog
+
+RT Journal Article
+ID 32437909
+A1 Katz,Robert,S.
+A1 Wolfe,Frederick
+A1 Michaud,Kaleb
+YR 2006
+T1 Fibromyalgia diagnosis: A comparison of clinical, survey, and American College of Rheumatology criteria
+JF Arthritis and Rheumatism
+VO 54
+SP 169
+OP 176
+IS 1
+
+RT Journal Article
+ID 1711060
+A1 Porter,George
+A1 Katz,Randy,H.
+YR 2006
+T1 Effective web service load balancing through statistical monitoring
+JF Communications of The ACM
+VO 49
+SP 48
+OP 54
+IS 3
+
+RT Journal Article
+ID 4399387
+A1 Yu,Fang
+A1 Lakshman,T.,V.
+A1 Motoyama,Martin,Austin
+A1 Katz,Randy,H.
+YR 2006
+T1 Efficient Multimatch Packet Classification for Network Security Applications
+JF IEEE Journal on Selected Areas in Communications
+VO 24
+SP 1805
+OP 1816
+IS 10
+
+RT Conference Proceedings
+ID 2475038
+A1 Yin,Li
+A1 Uttamchandani,Sandeep
+A1 Korupolu,Madhukar,R.
+A1 Voruganti,Kaladhar
+A1 Katz,Randy,H.
+YR 2006
+T1 SMART: An Integrated Multi-Action Advisor for Storage Systems
+SP 229
+OP 242
+
+RT Conference Proceedings
+ID 2462564
+A1 Yin,Li
+A1 Uttamchandani,Sandeep
+A1 Katz,Randy,H.
+YR 2006
+T1 An Empirical Exploration of BlackBox Performance Models for Storage Systems
+SP 433
+OP 440
+
+RT Journal Article
+ID 27450912
+A1 Katz,R.
+YR 2006
+T1 Motivating technical professionals today
+JF IEEE Engineering Management Review
+VO 34
+SP 93
+OP 93
+IS 1
+
+RT Conference Proceedings
+ID 50528938
+A1 Friedman,O.
+A1 Tsfati,Y.
+A1 Katz,R.
+A1 Tal,N.
+A1 Eliezer,O.
+YR 2006
+T1 Coexistence Performance Enhancement Techniques for DRP Based WLAN/WPAN and Cellular Radios Collocated in a Mobile Device
+
+RT Journal Article
+ID 57944466
+A1 Kravitz,Howard,M.
+A1 Esty,Mary,Lee
+A1 Katz,Robert,S.
+A1 Fawcett,Jan
+YR 2006
+T1 Treatment of Fibromyalgia Syndrome Using Low-Intensity Neurofeedback with the Flexyx Neurotherapy System: A Randomized Controlled Clinical Trial
+JF Journal of Neurotherapy
+VO 10
+SP 41
+OP 58
+IS 2-3
+
+RT Journal Article
+ID 57918281
+A1 Changrani,Jyotsna
+A1 Cruz,Gustavo
+A1 Kerr,Ross
+A1 Katz,Ralph
+A1 Gany,Francesca,M.
+YR 2006
+T1 Paan and Gutka Use in the United States
+JF Journal of Immigrant & Refugee Studies
+VO 4
+SP 99
+OP 109
+IS 1
+
+RT Journal Article
+ID 56016907
+A1 Katz,R.
+A1 Chase,C.,D.
+A1 Kris,R.
+A1 Peltinov,R.
+A1 Villarrubia,J.
+A1 Bunday,B.
+YR 2006
+T1 Bias reduction in roughness measurement through SEM noise removal
+VO 6152
+SP 1480
+OP 1491
+
+RT Conference Proceedings
+ID 2447471
+A1 Zhuang,Shelley,Q.
+A1 Geels,Dennis
+A1 Stoica,Ion
+A1 Katz,Randy,H.
+YR 2005
+T1 On failure detection algorithms in overlay networks
+VO 3
+SP 2112
+OP 2123
+
+RT Conference Proceedings
+ID 2484984
+A1 Yu,Fang
+A1 Lakshman,T.,V.
+A1 Motoyama,Martin,Austin
+A1 Katz,Randy,H.
+YR 2005
+T1 SSA: a power and memory efficient scheme to multi-match packet classification
+SP 105
+OP 113
+
+RT Journal Article
+ID 1594765
+A1 Yu,Fang
+A1 Katz,Randy,H.
+A1 Lakshman,T.,V.
+YR 2005
+T1 Efficient Multimatch Packet Classification and Lookup with TCAM
+JF IEEE Micro
+VO 25
+SP 50
+OP 59
+IS 1
+
+RT Conference Proceedings
+ID 1812861
+A1 Subramanian,Lakshminarayanan
+A1 Katz,Randy,H.
+A1 Roth,Volker
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2005
+T1 Reliable broadcast in unknown fixed-identity networks
+SP 342
+OP 351
+
+RT Conference Proceedings
+ID 2474994
+A1 Cui,Weidong
+A1 Katz,Randy,H.
+A1 Tan,Wai-tian
+YR 2005
+T1 BINDER: An Extrusion-Based Break-In Detector for Personal Computers
+SP 363
+OP 366
+
+RT Conference Proceedings
+ID 1820683
+A1 Cui,Weidong
+A1 Katz,Randy,H.
+A1 Tan,Wai-tian
+YR 2005
+T1 Design and Implementation of an Extrusion-based Break-In Detector for Personal Computers
+SP 361
+OP 370
+
+RT Journal Article
+ID 1727006
+A1 Zhuang,Shelley
+A1 Lai,Kevin
+A1 Stoica,Ion
+A1 Katz,Randy,H.
+A1 Shenker,Scott
+YR 2005
+T1 Host Mobility Using an Internet Indirection Infrastructure
+JF Wireless Networks
+VO 11
+SP 741
+OP 756
+IS 6
+
+RT Journal Article
+ID 2720733
+A1 Kannan,Jayanthkumar
+A1 Subramanian,Lakshminarayanan
+A1 Stoica,Ion
+A1 Katz,Randy,H.
+YR 2005
+T1 Analyzing Cooperative Containment of Fast Scanning Worms
+
+RT Journal Article
+ID 5355492
+A1 Fonseca,Rodrigo
+A1 Porter,George,Manning
+A1 Katz,Randy,H.
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2005
+T1 IP Options are not an option
+
+RT Journal Article
+ID 1726567
+A1 Merino,Ana,Sanz
+A1 Matsunaga,Yasuhiko
+A1 Shah,Manish
+A1 Suzuki,Takashi
+A1 Katz,Randy,H.
+YR 2005
+T1 Secure Authentication System for Public WLAN Roaming
+JF Mobile Networks and Applications
+VO 10
+SP 355
+OP 370
+IS 3
+
+RT Book, Whole
+ID 39252793
+A1 Katz,Randy,Howard
+A1 Borriello,Gaetano
+YR 2005
+T1 Contemporary logic design (2. ed.)
+
+RT Book, Whole
+ID 1839842
+A1 Katz,Randy,H.
+A1 Porter,George
+A1 Shenker,Scott
+A1 Stoica,Ion
+A1 Tsai,Mel
+YR 2005
+T1 COPS: Quality of Service vs. Any Service at All
+SP 3
+OP 15
+
+RT Journal Article
+ID 4783134
+A1 Li,Z.
+A1 Katz,R.
+YR 2005
+T1 A reconfigurable parallel kinematic drilling machine and its motion planning
+JF International Journal of Computer Integrated Manufacturing
+VO 18
+SP 610
+OP 614
+IS 7
+
+RT Conference Proceedings
+ID 50467081
+A1 McMorrow,D.
+A1 Buchner,S.
+A1 Baze,M.
+A1 Bartholet,B.
+A1 Katz,R.
+A1 O'Bryan,M.
+A1 Poivey,C.
+A1 Label,K.,A.
+A1 Ladbury,R.
+A1 Maher,M.
+A1 Sexton,F.
+YR 2005
+T1 Laser-Induced Latchup Screening and Mitigation in CMOS Devices
+
+RT Conference Proceedings
+ID 1855462
+A1 Yin,Li
+A1 Uttamchandani,Sandeep
+A1 Palmer,John
+A1 Katz,Randy,H.
+A1 Agha,Gul,A.
+YR 2005
+T1 AUTOLOOP: Automated Action Selection in the "Observe-Analyze-Act" Loop for Storage Systems
+SP 129
+OP 138
+
+RT Conference Proceedings
+ID 50468079
+A1 Yu,Fang
+A1 Lakshman,T.,V.
+A1 Motoyama,Martin,Austin
+A1 Katz,Randy,H.
+YR 2005
+T1 SSA
+
+RT Journal Article
+ID 54087705
+A1 Keken,P.,van
+A1 Currie,C.
+A1 King,S.
+A1 Katz,R.
+YR 2005
+T1 A benchmark for the modeling of subduction zones
+
+RT Conference Proceedings
+ID 1801171
+A1 Fang,Yu
+A1 Katz,Randy,H.
+A1 Lakshman,T.,V.
+YR 2004
+T1 Gigabit Rate Packet Pattern-Matching Using TCAM
+SP 174
+OP 183
+
+RT Conference Proceedings
+ID 1401563
+A1 Subramanian,Lakshminarayanan
+A1 Stoica,Ion
+A1 Balakrishnan,Hari
+A1 Katz,Randy,H.
+YR 2004
+T1 OverQoS: An Overlay Based Architecture for Enhancing Internet QoS
+SP 71
+OP 84
+
+RT Conference Proceedings
+ID 50367332
+A1 Muhammad,K.
+A1 Leipold,D.
+A1 Staszewski,B.
+A1 Ho,Y.-C.
+A1 Hung,C.,M.
+A1 Maggio,K.
+A1 Fernando,C.
+A1 Jung,T.
+A1 Wallberg,J.
+A1 Koh,J.-S.
+A1 John,S.
+A1 Deng,I.
+A1 Moreira,O.
+A1 Staszewski,R.
+A1 Katz,R.
+A1 Friedman,O.
+YR 2004
+T1 A discrete-time Bluetooth receiver in a 0.13μm digital CMOS process
+SP 268
+
+RT Conference Proceedings
+ID 3333176
+A1 Subramanian,Lakshminarayanan
+A1 Roth,Volker
+A1 Stoica,Ion
+A1 Shenker,Scott
+A1 Katz,Randy,H.
+YR 2004
+T1 Listen and Whisper: Security Mechanisms for BGP
+
+RT Journal Article
+ID 1238149
+A1 Chen,Yan
+A1 Bindel,David
+A1 Song,Han,Hee
+A1 Katz,Randy,H.
+YR 2004
+T1 An algebraic approach to practical and scalable overlay network monitoring
+JF Computer Communication Review
+VO 34
+SP 55
+OP 66
+IS 4
+
+RT Conference Proceedings
+ID 1376552
+A1 Mao,Zhuoqing,Morley
+A1 Johnson,David
+A1 Rexford,Jennifer
+A1 Wang,Jia
+A1 Katz,Randy,H.
+YR 2004
+T1 Scalable and Accurate Identification of AS-level Forwarding Paths
+VO 3
+SP 1605
+
+RT Conference Proceedings
+ID 3017916
+A1 Yu,Fang
+A1 Katz,Randy,H.
+YR 2004
+T1 Efficient multi-match packet classification with TCAM
+
+RT Conference Proceedings
+ID 2069616
+A1 Yu,Fang
+A1 Lakshman,T.,V.
+A1 Motoyama,Martin,Austin
+A1 Katz,Randy,H.
+YR 2004
+T1 SSA: A Power and Memory Efficient Scheme to Multi-Match Packet Classification
+
+RT Conference Proceedings
+ID 2371930
+A1 Yu,F.
+A1 Katz,R.,H.
+A1 Lakshman,T.,V.
+YR 2004
+T1 Gigabit Rate Packet Pattern Matching with TCAM
+
+RT Journal Article
+ID 33169696
+A1 Katz,Robert,S.
+A1 Heard,Amy,R.
+A1 Mills,Megan
+A1 Leavitt,Frank
+YR 2004
+T1 The Prevalence and Clinical Impact of Reported Cognitive Difficulties (Fibrofog) in Patients With Rheumatic Disease With and Without Fibromyalgia
+JF Jcr-journal of Clinical Rheumatology
+VO 10
+SP 53
+OP 58
+IS 2
+
+RT Journal Article
+ID 32415696
+A1 Petri,Michelle,A.
+A1 Mease,Philip,J.
+A1 Merrill,Joan,T.
+A1 Lahita,Robert,G.
+A1 Iannini,Mark,J.
+A1 Yocum,David,E.
+A1 Ginzler,Ellen,M.
+A1 Katz,Robert,S.
+A1 Gluck,Oscar,S.
+A1 Genovese,Mark,C.
+A1 Vollenhoven,Ronald,Van
+A1 Kalunian,Kenneth,C.
+A1 Manzi,Susan
+A1 Greenwald,Maria,W.
+A1 Buyon,Jill,P.
+A1 Olsen,Nancy,J.
+A1 Schiff,Michael,H.
+A1 Kavanaugh,Arthur,F.
+A1 Caldwell,Jacques,R.
+A1 Ramsey-Goldman,Rosalind
+A1 Clair,E.,William,St.
+A1 Goldman,Allan,L.
+A1 Egan,Rita,M.
+A1 Polisson,Richard,P.
+A1 Moder,Kevin,G.
+A1 Rothfield,Naomi,F.
+A1 Spencer,Robert,T.
+A1 Hobbs,Kathryn
+A1 Fessler,Barri,J.
+A1 Calabrese,Leonard,H.
+A1 Moreland,Larry,W.
+A1 Cohen,Stanley,B.
+A1 Quarles,Betty,J.
+A1 Strand,Vibeke
+A1 Gurwith,Marc
+A1 Schwartz,Kenneth,E.
+YR 2004
+T1 Effects of prasterone on disease activity and symptoms in women with active systemic lupus erythematosus: Results of a multicenter randomized, double-blind, placebo-controlled trial
+JF Arthritis and Rheumatism
+VO 50
+SP 2858
+OP 2868
+IS 9
+
+RT Journal Article
+ID 27450853
+A1 Paap,J.
+A1 Katz,R.
+YR 2004
+T1 Anticipating disruptive innovation
+JF IEEE Engineering Management Review
+VO 32
+SP 74
+OP 85
+IS 4
+
+RT Journal Article
+ID 2385437
+A1 Machiraju,Sridhar
+A1 Katz,Randy,H.
+YR 2004
+T1 Verifying Global Invariants in Multi-Provider Distributed Systems
+
+RT Conference Proceedings
+ID 1884275
+A1 Subramanian,Lakshminarayanan
+A1 Roth,Volker
+A1 Stoica,Ion
+A1 Shenker,Scott
+A1 Katz,Randy,H.
+YR 2004
+T1 Listen and Whisper: Security Mechanisms for BGP (Awarded Best Student Paper!)
+SP 127
+OP 140
+
+RT Conference Proceedings
+ID 50361778
+A1 Matsunaga,Yasuhiko
+A1 Katz,Randy,H.
+YR 2004
+T1 Inter-domain radio resource management for wireless LANs
+VO 4
+SP 2183
+
+RT Journal Article
+ID 2306621
+A1 Cui,Weidong
+A1 Machiraju,Sridhar
+A1 Katz,Randy,H.
+A1 Stoica,Ion
+YR 2004
+T1 SCONE: A Tool to Estimate Shared Congestion Among Internet Paths
+
+RT Journal Article
+ID 2353375
+A1 Machiraju,Sridhar
+A1 Katz,Randy,H.
+YR 2004
+T1 Reconciling Cooperation with Confidentiality in Multi-Provider Distributed Systems
+
+RT Journal Article
+ID 4004669
+A1 Caesar,M.
+A1 Subramanian,L.
+A1 Katz,R.
+YR 2004
+T1 Towards a BGP health inferencing system
+
+RT Journal Article
+ID 39212538
+A1 Chen,Yan
+A1 Bindel,David
+A1 Song,Hanhee
+A1 Katz,Randy,H.
+YR 2004
+T1 An algebraic approach to practical and scalable overlay network monitoring
+JF Computer Communication Review
+SP 55
+OP 66
+
+RT Journal Article
+ID 55311501
+A1 Katz,B.
+A1 Cheng,Z.
+A1 Buckley,B.
+A1 Wright,W.
+A1 Curtis,A.
+A1 Li,J.
+A1 Geen,A.,van
+YR 2004
+T1 Arsenic Levels in Tree Rings From a Contaminated Site in New Jersey, USA
+
+RT Conference Proceedings
+ID 12250
+A1 Mao,Zhuoqing,Morley
+A1 Rexford,Jennifer
+A1 Wang,Jia
+A1 Katz,Randy,H.
+YR 2003
+T1 Towards an accurate AS-level traceroute tool
+SP 365
+OP 378
+
+RT Journal Article
+ID 48333
+A1 Subramanian,Lakshminarayanan
+A1 Stoica,Ion
+A1 Balakrishnan,Hari
+A1 Katz,Randy,H.
+YR 2003
+T1 OverQoS: offering Internet QoS using overlays
+JF Computer Communication Review
+VO 33
+SP 11
+OP 16
+IS 1
+
+RT Journal Article
+ID 13576051
+A1 McGuffin,Peter
+A1 Rijsdijk,Fruhling
+A1 Andrew,Martin
+A1 Sham,Pak
+A1 Katz,Randy
+A1 Cardno,Alastair
+YR 2003
+T1 The Heritability of Bipolar Affective Disorder and the Genetic Relationship to Unipolar Depression
+JF Archives of General Psychiatry
+VO 60
+SP 497
+OP 502
+IS 5
+
+RT Conference Proceedings
+ID 653298
+A1 Zhuang,Shelley
+A1 Lai,Kevin
+A1 Stoica,Ion
+A1 Katz,Randy,H.
+A1 Shenker,Scott
+YR 2003
+T1 Host Mobility Using an Internet Indirection Infrastructure
+SP 129
+OP 144
+
+RT Conference Proceedings
+ID 22532
+A1 AgarWalt,Sharad
+A1 Chuaht,Chen-Nee
+A1 Katz,Randy,H.
+YR 2003
+T1 OPCA: robust interdomain policy routing and traffic control
+
+RT Conference Proceedings
+ID 2399560
+A1 Raman,Bhaskaran
+A1 Katz,Randy,H.
+YR 2003
+T1 Load Balancing and Stability Issues in Algorithms for Service Composition
+VO 2
+SP 1477
+
+RT Conference Proceedings
+ID 869137
+A1 Matsunaga,Yasuhiko
+A1 Merino,Ana,Sanz
+A1 Suzuki,Takashi
+A1 Katz,Randy,H.
+YR 2003
+T1 Secure authentication system for public WLAN roaming
+SP 113
+OP 121
+
+RT Journal Article
+ID 1587375
+A1 Chen,Yan
+A1 Qiu,Lili
+A1 Chen,Weiyu
+A1 Nguyen,Luan
+A1 Katz,Randy,H.
+YR 2003
+T1 Efficient and adaptive Web replication using content clustering
+JF IEEE Journal on Selected Areas in Communications
+VO 21
+SP 979
+OP 994
+IS 6
+
+RT Conference Proceedings
+ID 906795
+A1 Chen,Yan
+A1 Bindel,David
+A1 Katz,Randy,H.
+YR 2003
+T1 Tomography-based overlay network monitoring
+SP 216
+OP 231
+
+RT Journal Article
+ID 845954
+A1 Raman,Bhaskaran
+A1 Katz,Randy,H
+YR 2003
+T1 An architecture for highly available wide-area service composition
+JF Computer Communications
+VO 26
+SP 1727
+OP 1740
+IS 15
+
+RT Journal Article
+ID 1326103
+A1 Caesar,M.
+A1 Subramanian,L.
+A1 Katz,R.,H.
+YR 2003
+T1 Route cause analysis of internet routing dynamics
+
+RT Journal Article
+ID 2334087
+A1 Seshadri,Mukund
+A1 Katz,Randy,H.
+YR 2003
+T1 Dynamics of Simultaneous Overlay Network Routing
+
+RT Journal Article
+ID 1601767
+A1 Wang,J.,J.
+A1 Wong,W.
+A1 Wolday,S.
+A1 Cronquist,B.
+A1 McCollum,J.
+A1 Katz,R.
+A1 Kleyner,I.
+YR 2003
+T1 Single event upset and hardening in 0.15 μm antifuse-based field programmable gate array
+JF IEEE Transactions on Nuclear Science
+VO 50
+SP 2158
+OP 2166
+IS 6
+
+RT Journal Article
+ID 26413907
+A1 Barton,D.,S
+A1 Binello,S.
+A1 Buxton,W.
+A1 Clifford,T.
+A1 D’Ottavio,T
+A1 Hartmann,H.
+A1 Hoff,L.,T
+A1 Katz,R.
+A1 Kennell,S.
+A1 Kerner,T.
+A1 Laster,J.
+A1 Lee,R.,C
+A1 Marusic,A.
+A1 Michnoff,R.
+A1 Morris,J.
+A1 Oerter,B.,R
+A1 Olsen,R.
+A1 Piacentino,J.
+A1 Skelly,J.,F
+YR 2003
+T1 RHIC control system
+JF Nuclear Instruments & Methods in Physics Research Section A-accelerators Spectrometers Detectors and Associated Equipment
+VO 499
+SP 356
+OP 371
+IS 2
+
+RT Journal Article
+ID 724101
+A1 Chuah,Chen-Nee
+A1 Subramanian,Lakshminarayanan
+A1 Katz,Randy,H.
+YR 2003
+T1 DCAP: detecting misbehaving flows via collaborative aggregate policing
+JF Computer Communication Review
+VO 33
+SP 5
+OP 18
+IS 5
+
+RT Journal Article
+ID 3699919
+A1 Caesar,M.
+A1 Subramanian,L.
+A1 Katz,R.,H.
+YR 2003
+T1 Root Cause Analysis of BGP Dynamics
+
+RT Journal Article
+ID 40747916
+A1 Katz,R.
+A1 Cucinotta,F.,A.
+YR 2003
+T1 Low fluence
+JF Advances in Space Research
+VO 31
+SP 1553
+OP 1556
+IS 6
+
+RT Journal Article
+ID 47704173
+A1 Leavitt,Frank
+A1 Katz,Robert,S.
+YR 2003
+T1 The Dissociative Factor in Symptom Reports of Rheumatic Patients with and Without Fibromyalgia
+JF Journal of Clinical Psychology in Medical Settings
+VO 10
+SP 259
+OP 266
+IS 4
+
+RT Journal Article
+ID 57393945
+A1 Zhuang,Shelley
+A1 Lai,Kevin
+A1 Stoica,Ion
+A1 Katz,Randy
+A1 Shenker,Scott
+YR 2003
+T1 Host Mobility Using an Internet Indirection Infrastructure
+
+RT Conference Proceedings
+ID 77914
+A1 Subramanian,Lakshminarayanan
+A1 Agarwal,Sharad
+A1 Rexford,Jennifer
+A1 Katz,Randy,H.
+YR 2002
+T1 Characterizing the Internet Hierarchy from Multiple Vantage Points
+VO 2
+SP 618
+
+RT Journal Article
+ID 637927
+A1 Mao,Zhuoqing,Morley
+A1 Govindan,Ramesh
+A1 Varghese,George
+A1 Katz,Randy,H.
+YR 2002
+T1 Route flap damping exacerbates internet routing convergence
+JF Computer Communication Review
+VO 32
+SP 221
+OP 233
+IS 4
+
+RT Journal Article
+ID 837748
+A1 Hodes,Todd,D.
+A1 Czerwinski,Steven,E.
+A1 Zhao,Ben,Y.
+A1 Joseph,Anthony,D.
+A1 Katz,Randy,H.
+YR 2002
+T1 An Architecture for Secure Wide-Area Service Discovery
+JF Wireless Networks
+VO 8
+SP 213
+OP 230
+IS 2-3
+
+RT Book, Whole
+ID 69035
+A1 Chen,Yan
+A1 Katz,Randy,H.
+A1 Kubiatowicz,John,D.
+YR 2002
+T1 Dynamic Replica Placement for Scalable Content Delivery
+SP 306
+OP 318
+
+RT Book, Whole
+ID 68630
+A1 Raman,Bhaskaran
+A1 Agarwal,Sharad
+A1 Chen,Yan
+A1 Caesar,Matthew
+A1 Cui,Weidong
+A1 Johansson,Per
+A1 Lai,Kevin
+A1 Lavian,Tal
+A1 Machiraju,Sridhar
+A1 Mao,Zhuoqing,Morley
+A1 Porter,George
+A1 Roscoe,Timothy
+A1 Seshadri,Mukund
+A1 Shih,Jimmy,S.
+A1 Sklower,Keith
+A1 Subramanian,Lakshminarayanan
+A1 Suzuki,Takashi
+A1 Zhuang,Shelley
+A1 Joseph,Anthony,D.
+A1 Katz,Randy,H.
+A1 Stoica,Ion
+YR 2002
+T1 The SAHARA Model for Service Composition across Multiple Providers
+SP 1
+OP 14
+
+RT Conference Proceedings
+ID 4112008
+A1 Cui,Weidong
+A1 Stoica,Ion
+A1 Katz,Randy,H.
+YR 2002
+T1 Backup Path Allocation Based on a Correlated Link Failure Probability Model in Overlay Networks
+SP 236
+OP 245
+
+RT Conference Proceedings
+ID 38432
+A1 Subramanian,Lakshminarayanan
+A1 Padmanabhan,Venkata,N.
+A1 Katz,Randy,H.
+YR 2002
+T1 Geographic Properties of Internet Routing
+SP 243
+OP 259
+
+RT Journal Article
+ID 2061676
+A1 Subramanian,L.
+A1 Stoica,I.
+A1 Balakrishnan,H.
+A1 Katz,R.
+YR 2002
+T1 OverQoS: O ering QoS using Overlays
+
+RT Conference Proceedings
+ID 2346152
+A1 Chuah,Chen-Nee
+A1 Katz,Randy,H.
+YR 2002
+T1 Characterizing packet audio streams from Internet multimedia applications
+
+RT Journal Article
+ID 858987
+A1 Chen,Yan
+A1 Lim,Khian,Hao
+A1 Katz,Randy,H.
+A1 Overton,Chris
+YR 2002
+T1 On the stability of network distance estimation
+JF Sigmetrics Performance Evaluation Review
+VO 30
+SP 21
+OP 30
+IS 2
+
+RT Book, Whole
+ID 21709
+A1 Chen,Yan
+A1 Katz,Randy,H.
+A1 Kubiatowicz,John,D.
+YR 2002
+T1 SCAN: A Dynamic, Scalable, and Efficient Content Distribution Network
+SP 282
+OP 296
+
+RT Journal Article
+ID 705463
+A1 Ahmed,Mohiuddin
+A1 Krishnamurthy,Srikanth,V.
+A1 Katz,Randy,H.
+A1 Dao,Son,K.
+YR 2002
+T1 Trajectory control of mobile gateways for range extension in ad hoc networks
+JF Computer Networks
+VO 39
+SP 809
+OP 825
+IS 6
+
+RT Journal Article
+ID 837642
+A1 Ludwig,Reiner
+A1 Konrad,Almudena
+A1 Joseph,Anthony,D.
+A1 Katz,Randy,H.
+YR 2002
+T1 Optimizing the End-to-End Performance of Reliable Flows over Wireless Links
+JF Wireless Networks
+VO 8
+SP 289
+OP 299
+IS 2-3
+
+RT Journal Article
+ID 2063780
+A1 Zhuang,Shelley
+A1 Lai,Kevin
+A1 Stoica,Ion
+A1 Katz,Randy
+A1 Shenker,Scott
+YR 2002
+T1 Host Mobility Using an Internet Indirection Infrastructure
+
+RT Conference Proceedings
+ID 531535
+A1 Chen,Yan
+A1 Qiu,Lili
+A1 Chen,Weiyu
+A1 Nguyen,Luan
+A1 Katz,Randy,H.
+YR 2002
+T1 Clustering Web Content for Efficient Replication
+SP 165
+OP 174
+
+RT Journal Article
+ID 2277181
+A1 Raman,Bhaskaran
+A1 Katz,Randy,H.
+YR 2002
+T1 Emulation-based Evaluation of an Architecture for Wide-Area Service Composition
+
+RT Journal Article
+ID 3264896
+A1 Chen,Y.
+A1 Overton,C.
+A1 Katz,R.,H.
+YR 2002
+T1 Internet Isobar: A scalable overlay distance monitoring system
+
+RT Conference Proceedings
+ID 50280419
+A1 Katz,Randy,H.
+YR 2002
+T1 High performance VLSI processor architectures
+
+RT Journal Article
+ID 1603272
+A1 Mao,Zhuoqing,Morley
+A1 Katz,Randy
+YR 2002
+T1 Achieving service portability using self-adaptive data paths
+JF IEEE Communications Magazine
+VO 40
+SP 108
+OP 114
+IS 1
+
+RT Conference Proceedings
+ID 69754
+A1 Caesar,Matthew,Chapman
+A1 Ghosal,Dipak
+A1 Katz,Randy,H.
+YR 2002
+T1 Resource management for IP telephony networks
+
+RT Journal Article
+ID 2391375
+A1 Barillon,R.
+A1 Fromm,M.
+A1 Katz,R.
+A1 Chambaudet,A.
+YR 2002
+T1 Chemical bonds broken in latent tracks of light ions in plastic track detectors
+
+RT Journal Article
+ID 2690788
+A1 Hodes,T.,D.
+A1 Czerwinski,S.,E.
+A1 Zhao,B.,Y.
+A1 Joseph,A.,D.
+A1 Katz,R.,H.
+YR 2002
+T1 An Architecture for Secure Service Discovery Service
+JF Wireless Networks
+
+RT Journal Article
+ID 33167249
+A1 Leavitt,Frank
+A1 Katz,Robert,S.
+A1 Mills,Megan
+A1 Heard,Amy,R.
+YR 2002
+T1 Cognitive and Dissociative Manifestations in Fibromyalgia
+JF Jcr-journal of Clinical Rheumatology
+VO 8
+SP 77
+OP 84
+IS 2
+
+RT Conference Proceedings
+ID 3983
+A1 Suzuki,Takashi
+A1 Katz,Randy,H.
+YR 2002
+T1 An authorization control framework to enable service composition across domains
+
+RT Journal Article
+ID 2712657
+A1 Agarwal,S.
+A1 Chuah,C.
+A1 Katz,R.,H.
+YR 2002
+T1 An Overlay Policy Protocol to Augment BGP
+
+RT Journal Article
+ID 2290476
+A1 Mao,Z.,Morley
+A1 Katz,Randy,H.
+YR 2002
+T1 A Framework for Universal Service Access using Device Ensemble
+
+RT Conference Proceedings
+ID 4654119
+A1 Ahmed,Mohiuddin
+A1 Krishnamurthy,Srikanth
+A1 Katz,Randy
+A1 Dao,S.
+YR 2002
+T1 An architecture for providing range extension by deploying mobile gateways in ad hoc networks
+
+RT Journal Article
+ID 15222907
+A1 Ludwig,Reiner
+A1 Konrad,Almudena
+A1 Joseph,Anthony,D.
+A1 Katz,Randy,H.
+YR 2002
+T1 Optimizing the End-to-End Performance of Reliable Flows over Wireless Links
+JF Wireless Networks
+VO 8
+SP 289
+OP 299
+IS 2
+
+RT Journal Article
+ID 4136
+A1 Shih,Jimmy,S.
+A1 Katz,Randy,H.
+YR 2002
+T1 Evaluating tradeoffs of congestion pricing for voice calls
+JF Sigmetrics Performance Evaluation Review
+VO 30
+SP 254
+OP 255
+IS 1
+
+RT Journal Article
+ID 386848
+A1 Wong,Tina
+A1 Henderson,Thomas
+A1 Katz,Randy,H.
+YR 2002
+T1 Tunable Reliable Multicast for Periodic Information Dissemination
+JF Mobile Networks and Applications
+VO 7
+SP 21
+OP 36
+IS 1
+
+RT Journal Article
+ID 15222902
+A1 Hodes,Todd,D.
+A1 Czerwinski,Steven,E.
+A1 Zhao,Ben,Y.
+A1 Joseph,Anthony,D.
+A1 Katz,Randy,H.
+YR 2002
+T1 An Architecture for Secure Wide-Area Service Discovery
+JF Wireless Networks
+VO 8
+SP 213
+OP 230
+IS 2
+
+RT Journal Article
+ID 39212525
+A1 Mao,Zhuoqing,Morley
+A1 Govindan,Ramesh
+A1 Varghese,George
+A1 Katz,Randy,H.
+YR 2002
+T1 Route flap damping exacerbates internet routing convergence
+JF Computer Communication Review
+SP 221
+OP 233
+
+RT Journal Article
+ID 52545365
+A1 Cogoini,M.
+A1 Elmore,R.,D.
+A1 Engel,M.,H.
+A1 Katz,B.
+A1 Bishop,J.,L.
+A1 Harrison,W.,J.
+YR 2002
+T1 Thermal Treatment of Clays Resulting in Magnetic Mineral Formation in a Smectite - An Analogy to low Burial Conditions
+
+RT Journal Article
+ID 15273467
+A1 Wong,Tina
+A1 Henderson,Thomas
+A1 Katz,Randy,H.
+YR 2002
+T1 Tunable Reliable Multicast for Periodic Information Dissemination
+JF Mobile Networks and Applications
+VO 7
+SP 21
+OP 36
+IS 1
+
+RT Journal Article
+ID 39214216
+A1 Shih,Jimmy,S.
+A1 Katz,Randy,H.
+YR 2002
+T1 Evaluating tradeoffs of congestion pricing for voice calls
+JF Sigmetrics Performance Evaluation Review
+SP 254
+OP 255
+
+RT Journal Article
+ID 52975692
+A1 Nealy,John,E.
+A1 Anderson,Brooke,M.
+A1 Cucinotta,Francis,A.
+A1 Wilson,John,W.
+A1 Katz,Robert
+A1 Chang,C.,K.
+YR 2002
+T1 Transport of Space Environment Electrons: A Simplified Rapid-Analysis Computational Procedure
+
+RT Journal Article
+ID 55905182
+A1 Katz,R.
+A1 Cucinotta,F.
+YR 2002
+T1 Low Fluence
+
+RT Conference Proceedings
+ID 110904
+A1 Zhuang,Shelley,Q.
+A1 Zhao,Ben,Y.
+A1 Joseph,Anthony,D.
+A1 Katz,Randy,H.
+A1 Kubiatowicz,John,D.
+YR 2001
+T1 Bayeux: an architecture for scalable and fault-tolerant wide-area data dissemination
+SP 11
+OP 20
+
+RT Journal Article
+ID 704186
+A1 Gribble,Steven,D.
+A1 Welsh,Matt
+A1 Behren,J.,Robert,Von
+A1 Brewer,Eric,A.
+A1 Culler,David,E.
+A1 Borisov,Nikita
+A1 Czerwinski,Steven,E.
+A1 Gummadi,Ramakrishna
+A1 Hill,Jon,R.
+A1 Joseph,Anthony,D.
+A1 Katz,Randy,H.
+A1 Mao,Zhuoqing,Morley
+A1 Ross,Steven,J.
+A1 Zhao,Ben,Y.
+YR 2001
+T1 The Ninja architecture for robust Internet-scale systems and services
+JF Computer Networks
+VO 35
+SP 473
+OP 497
+IS 4
+
+RT Conference Proceedings
+ID 1341817
+A1 Agarwal,Sharad
+A1 Katz,Randy,H.
+A1 Krishnamurthy,Srikanth,V.
+A1 Dao,Son,K.
+YR 2001
+T1 Distributed power control in ad-hoc wireless networks
+
+RT Journal Article
+ID 107458
+A1 Mao,Zhuoqing,Morley
+A1 Brewer,Eric,A.
+A1 Katz,Randy,H.
+YR 2001
+T1 Fault-tolerant, Scalable, Wide-Area Internet Service Composition
+
+RT Journal Article
+ID 2377326
+A1 Chen,Yan
+A1 Katz,Randy
+YR 2001
+T1 On the placement of network monitoring sites
+
+RT Conference Proceedings
+ID 50252663
+A1 Ahmed,Mohiuddin
+A1 Dao,S.
+A1 Katz,R.
+YR 2001
+T1 Positioning range extension gateways in mobile ad hoc wireless networks to improve connectivity and throughput
+
+RT Book, Whole
+ID 80765
+A1 Chen,Yan
+A1 Bargteil,Adam,W.
+A1 Bindel,David
+A1 Katz,Randy,H.
+A1 Kubiatowicz,John
+YR 2001
+T1 Quantifying Network Denial of Service: A Location Service Case Study
+SP 340
+OP 351
+
+RT Conference Proceedings
+ID 2356636
+A1 Shih,Jimmy,S.
+A1 Katz,Randy,H.
+A1 Joseph,Anthony,D.
+YR 2001
+T1 Pricing experiments for a computer-telephony-service usage allocation
+
+RT Journal Article
+ID 18660348
+A1 Katz,R.
+YR 2001
+T1 THE DYNAMIC RESPONSE OF A ROTATING SHAFT SUBJECT TO AN AXIALLY MOVING AND ROTATING LOAD
+JF Journal of Sound and Vibration
+VO 246
+SP 757
+OP 775
+IS 5
+
+RT Journal Article
+ID 113787
+A1 Chuah,Chen-nee
+A1 Subramanian,Lakshminarayanan
+A1 Katz,Randy
+YR 2001
+T1 Furies: A Scalable Framework for Traffic Policing and Admission Control
+
+RT Conference Proceedings
+ID 108934
+A1 Wang,Helen,J.
+A1 Katz,Randy,H.
+YR 2001
+T1 Mobility support in unified communication networks
+SP 95
+OP 102
+
+RT Conference Proceedings
+ID 50240798
+A1 Lai,R.
+A1 Grundbacher,R.
+A1 Barsky,M.
+A1 Oki,A.
+A1 Siddiqui,M.
+A1 Pitman,B.
+A1 Katz,R.
+A1 Tran,P.
+A1 Callejo,L.
+A1 Streit,D.
+YR 2001
+T1 Extremely high P1dB MMIC amplifiers for Ka-band applications
+SP 115
+OP 117
+
+RT Journal Article
+ID 2713600
+A1 Katz,R.
+A1 Wang,J.,J.
+A1 McCollum,J.
+A1 Cronquist,B.
+A1 Chan,R.
+A1 Kleyner,I.
+A1 Paker,W.
+YR 2001
+T1 An SEU-Hard flip-Flop for Antifuse FPGAs
+
+RT Journal Article
+ID 93837
+A1 Katz,Randy,H.
+A1 Lakshminarayanan,Subramanian
+A1 Padmanabhan,Venkata,N.
+YR 2001
+T1 Geographic Properties of Internet Routing: Analysis and Implications
+
+RT Journal Article
+ID 49225253
+A1 Katz,R
+YR 2001
+T1 Réévaluation des mécanismes physiologiques qui génèrent le réflexe dˈétirement : de nouvelles hypothèses sur la physiopathologie de la spasticité
+VO 44
+SP 268
+OP 272
+IS 5
+
+RT Journal Article
+ID 4111323
+A1 Wang,Helen,J.
+A1 Morlang,Ascan
+A1 Katz,Randy,H.
+YR 2001
+T1 A personal communication service creation model for Internet-based unified communication systems
+
+RT Journal Article
+ID 34425026
+A1 Watkins,Paul,A.
+A1 Hamilton,James,A.
+A1 Leaf,Alexander
+A1 Spector,Arthur,A.
+A1 Moore,Steven,A.
+A1 Anderson,Robert,E.
+A1 Moser,Hugo,W.
+A1 Noetzel,Michael,J.
+A1 Katz,Robert
+YR 2001
+T1 Brain uptake and utilization of fatty acids
+JF Journal of Molecular Neuroscience
+VO 16
+SP 87
+OP 92
+IS 2
+
+RT Journal Article
+ID 34425025
+A1 Katz,Robert
+A1 Hamilton,James,A.
+A1 Spector,Arthur,A.
+A1 Moore,Steven,A.
+A1 Moser,Hugo,W.
+A1 Noetzel,Michael,J.
+A1 Watkins,Paul,A.
+YR 2001
+T1 Brain uptake and utilization of fatty acids
+JF Journal of Molecular Neuroscience
+VO 16
+SP 333
+OP 335
+IS 2
+
+RT Journal Article
+ID 3171735
+A1 Seshan,S.
+A1 Blakrishnan,H.
+A1 Katz,R.,H.
+YR 2001
+T1 Handoffs in Cellular Wireless Networks: The Daedalus Implementation and Experience
+
+RT Journal Article
+ID 33165580
+A1 Katz,Robert,S.
+YR 2001
+T1 Muscle Pain, Myofascial Pain, and Fibromyalgia: Recent Advances
+JF Jcr-journal of Clinical Rheumatology
+VO 7
+SP 135
+IS 2
+
+RT Journal Article
+ID 4137266
+A1 Wang,Helen,J.
+A1 Morlang,Ascan
+A1 Mang,Freddy
+A1 Joseph,Anthony,D.
+A1 Katz,Randy,H.
+YR 2001
+T1 A Service Creation Model for Integrated Communication Systems on the Internet
+
+RT Journal Article
+ID 51580093
+A1 Ahmed,Mohin
+A1 Krishnamurthy,Srikanth
+A1 Dao,Son,K.
+A1 Katz,Randy,H.
+YR 2001
+T1 Optimal selection of nodes to perform data fusion in wireless sensor networks
+VO 4396
+SP 53
+OP 64
+
+RT Journal Article
+ID 33165578
+A1 Katz,Robert,S.
+YR 2001
+T1 Concise Encyclopedia of Chronic Fatigue Syndrome
+JF Jcr-journal of Clinical Rheumatology
+VO 7
+SP 134
+IS 2
+
+RT Journal Article
+ID 13933843
+A1 Katzy,Randy,H.
+YR 2001
+T1 Mobility Support in Unified Communication Networks
+
+RT Journal Article
+ID 46636189
+A1 KATZ,R
+YR 2001
+T1 Réévaluation des mécanismes physiologiques qui génèrent le réflexe détirement : de nouvelles hypothèses sur la physiopathologie de la spasticitéReevaluation of physiological mechanisms producing the stretch reflex: new hypotheses on the physiopathology of spasticity
+VO 44
+SP 268
+OP 272
+IS 5
+
+RT Journal Article
+ID 879029
+A1 Ludwig,Reiner
+A1 Katz,Randy,H.
+YR 2000
+T1 The Eifel algorithm: making TCP robust against spurious retransmissions
+JF Computer Communication Review
+VO 30
+SP 30
+OP 36
+IS 1
+
+RT Journal Article
+ID 188260
+A1 Kahn,Joseph,M.
+A1 Katz,Randy,Howard
+A1 Pister,Kristofer,S.,J.
+YR 2000
+T1 Emerging Challenges: Mobile Networking for "Smart Dust
+JF Journal of Communications and Networks
+
+RT Conference Proceedings
+ID 246448
+A1 Gribble,Steven,D.
+A1 Welsh,Matt
+A1 Behren,Rob,von
+A1 Brewer,Eric,A.
+A1 Culler,David
+A1 Borisov,N.
+A1 Czerwinski,S.
+A1 Gummadi,R.
+A1 Hill,J.
+A1 Joseph,A.
+A1 Katz,R.,H.
+A1 Mao,Z.,M.
+A1 Ross,S.
+A1 Zhao,B.
+YR 2000
+T1 The Ninja architecture for robust Internet-scale systems and services
+
+RT Conference Proceedings
+ID 108459
+A1 Subramanian,Lakshminarayanan
+A1 Katz,Randy,H.
+YR 2000
+T1 An architecture for building self-configurable systems
+SP 63
+OP 73
+
+RT Conference Proceedings
+ID 248684
+A1 SSemrn,Mark
+A1 Seshan,Srinivasan
+A1 Katz,Randy,H.
+YR 2000
+T1 A Network Measurement Architecture for Adaptive Applications
+VO 1
+SP 285
+OP 294
+
+RT Journal Article
+ID 179140
+A1 Wang,Helen,J.
+A1 Raman,Bhaskaran
+A1 Chuah,Chen-Nee
+A1 Biswas,Rahul
+A1 Gummadi,Ramakrishna
+A1 Hohlt,Barbara
+A1 Hong,Xia
+A1 Kiciman,Emre
+A1 Mao,Zhuoqing
+A1 Shih,Jimmy,S.
+A1 Subraimanian,L.
+A1 Zhno,B.,Y.
+A1 Joseph,Anthony,D.
+A1 Katz,Randy,H.
+YR 2000
+T1 ICEBERG: an Internet core network architecture for integrated communications
+JF IEEE Personal Communications
+VO 7
+SP 10
+OP 19
+IS 4
+
+RT Journal Article
+ID 2104818
+A1 Hodes,Todd,D.
+A1 Czerwinski,Steven,E.
+A1 Zhao,Ben,Y.
+A1 Joseph,Anthony,D.
+A1 Katz,Randy,H.
+YR 2000
+T1 An architecture for a secure wide-area service discovery service
+JF Wireless Networks
+
+RT Conference Proceedings
+ID 156874
+A1 Raman,Bhaskaran
+A1 Katz,Randy,H.
+A1 Joseph,Anthony,D.
+YR 2000
+T1 Universal Inbox: providing extensible personal mobility and service mobility in an integrated communication network
+SP 95
+
+RT Conference Proceedings
+ID 247294
+A1 Wong,Tina
+A1 Katz,Randy,H.
+YR 2000
+T1 An Analysis of Multicast Forwarding State Scalability
+SP 105
+OP 115
+
+RT Conference Proceedings
+ID 237376
+A1 Chuah,Chen-Nee
+A1 Subramanian,Lakshminarayanan
+A1 Katz,Randy,H.
+A1 Joseph,Anthony,D.
+YR 2000
+T1 QoS provisioning using a clearing house architecture
+
+RT Conference Proceedings
+ID 271609
+A1 Wong,Tina
+A1 Katz,Randy,H.
+A1 Mccanne,Steven
+YR 2000
+T1 An Evaluation on Using Preference Clustering in Large-Scale Multicast Applications
+VO 2
+SP 451
+OP 460
+
+RT Conference Proceedings
+ID 226621
+A1 Henderson,Thomas,R.
+A1 Katz,Randy,H.
+YR 2000
+T1 On distributed, geographic-based packet routing for LEO satellite networks
+
+RT Journal Article
+ID 227506
+A1 Henderson,Thomas,R.
+A1 Katz,Randy,H.
+YR 2000
+T1 Network Simulation For LEO Satellite Networks
+
+RT Conference Proceedings
+ID 263545
+A1 Wang,Helen,J.
+A1 Joseph,Anthony,D.
+A1 Katz,Randy,H.
+YR 2000
+T1 A Signaling System Using Lightweight Call Sessions
+VO 2
+SP 697
+OP 706
+
+RT Journal Article
+ID 4143715
+A1 Katz,Randy,H.
+YR 2000
+T1 The Post - PC Era: It''''s All About the New Services - Enabled Internet
+
+RT Conference Proceedings
+ID 75192
+A1 Mao,Zhuoqing,Morley
+A1 Katz,Randy
+YR 2000
+T1 Achieving service portability in ICEBERG
+
+RT Conference Proceedings
+ID 592308
+A1 Katz,Randy,H.
+YR 2000
+T1 The post-PC era: it's about the services-enabled new Internet
+SP 64
+
+RT Conference Proceedings
+ID 681592
+A1 Wong,Tina
+A1 Katz,Randy,H.
+A1 McCanne,Steven
+YR 2000
+T1 An Evaluation on Using Preference Clustering in Large-Scale Multicast Applications
+SP 451
+OP 460
+
+RT Conference Proceedings
+ID 638359
+A1 Gummadi,Ramakrishna
+A1 Katz,Randy,H.
+YR 2000
+T1 The data management problem in post-pc devices and a solution
+SP 183
+OP 188
+
+RT Conference Proceedings
+ID 50194455
+A1 Subramanian,Lakshminarayanan
+A1 Katz,Randy,H.
+YR 2000
+T1 An architecture for building self-configurable systems
+
+RT Conference Proceedings
+ID 227045
+A1 Kahn,Joseph,M.
+A1 Katz,Randy,H.
+A1 Pister,Kristofer,S.,J.
+YR 1999
+T1 Next century challenges: mobile networking for “Smart Dust”
+SP 271
+OP 278
+
+RT Conference Proceedings
+ID 1294311
+A1 Kahn,J.,M.
+A1 Katz,R.,H.
+A1 Pister,K.,S.,J.
+YR 1999
+T1 Mobile networking for smart dust
+
+RT Conference Proceedings
+ID 273717
+A1 Czerwinski,Steven,E.
+A1 Zhao,Ben,Y.
+A1 Hodes,Todd,D.
+A1 Joseph,Anthony,D.
+A1 Katz,Randy,H.
+YR 1999
+T1 An architecture for a secure service discovery service
+SP 24
+OP 35
+
+RT Conference Proceedings
+ID 266530
+A1 Wang,Helen,J.
+A1 Katz,Randy,H.
+A1 Giese,Jochen
+YR 1999
+T1 Policy-Enabled Handoffs Across Heterogeneous Wireless Networks
+SP 51
+
+RT Journal Article
+ID 401057
+A1 Henderson,Thomas,R.
+A1 Katz,Randy,H.
+YR 1999
+T1 Transport protocols for Internet-compatible satellite networks
+JF IEEE Journal on Selected Areas in Communications
+VO 17
+SP 326
+OP 344
+IS 2
+
+RT Conference Proceedings
+ID 3453442
+A1 Kahn,J.
+A1 Katz,R.
+A1 Pister,K.
+YR 1999
+T1 Next Century Challenges: Mobile Networking for
+
+RT Conference Proceedings
+ID 286832
+A1 Hodes,Todd,D.
+A1 Katz,Randy,H.
+YR 1999
+T1 A Document-based Framework for Internet Application Control
+
+RT Journal Article
+ID 837877
+A1 Hodes,Todd,D.
+A1 Katz,Randy,H.
+YR 1999
+T1 Composable ad hoc location-based services for heterogeneous mobile clients
+JF Wireless Networks
+VO 5
+SP 411
+OP 427
+IS 5
+
+RT Journal Article
+ID 348446
+A1 Hodes,Todd
+A1 Newman,Mark
+A1 Mccanne,Steven
+A1 Katz,Randy
+A1 Landay,James
+YR 1999
+T1 Shared Remote Control of a Video Conferencing Application: Motivation, Design, and Implementation
+
+RT Conference Proceedings
+ID 183176
+A1 Joseph,Anthony,D.
+A1 Hohlt,Barbara
+A1 Katz,Randy
+A1 Kiciman,Emre
+YR 1999
+T1 System Support for Multi-Modal Information Access and Device Control
+
+RT Book, Whole
+ID 286726
+A1 Wong,Tina
+A1 Katz,Randy,H.
+A1 Mccanne,Steven
+YR 1999
+T1 A Preference Clustering Protocol for Large-Scale Multicast Applications
+SP 1
+OP 18
+
+RT Journal Article
+ID 147654
+A1 Henderson,Thomas,R.
+A1 Katz,Randy,H.
+YR 1999
+T1 TCP Performance over Satellite Channels
+
+RT Conference Proceedings
+ID 1985603
+A1 Amir,Elan
+A1 Mccanne,Steven
+A1 Katz,Randy,H.
+YR 1999
+T1 An active service frame-work and its application to real-time multimedia transcoding
+
+RT Book, Whole
+ID 279674
+A1 Schuett,Angela
+A1 Katz,Randy,H.
+A1 Mccanne,Steven
+YR 1999
+T1 A Distributed Recording System for High Quality MBone Archives
+SP 126
+OP 143
+
+RT Journal Article
+ID 1598869
+A1 Katz,R.
+A1 Wang,J.
+A1 McCollum,J.
+A1 Cronquist,B.
+YR 1999
+T1 The impact of software and CAE tools on SEU in field programmable gate arrays
+JF IEEE Transactions on Nuclear Science
+VO 46
+SP 1461
+OP 1468
+IS 6
+
+RT Journal Article
+ID 18519865
+A1 Katz,R.
+A1 Cucinotta,F.,A.
+YR 1999
+T1 Tracks to therapy
+JF Radiation Measurements
+VO 31
+SP 379
+OP 388
+IS 1
+
+RT Journal Article
+ID 1662654
+A1 Raman,Bhaskaran
+A1 Wang,Helen,J.
+A1 Shih,Jimmy
+A1 Joseph,Anthony,D.
+A1 Katz,Randy,H.
+YR 1999
+T1 The Iceberg project: defining the IP and telecom intersection
+JF It Professional
+VO 1
+SP 38
+OP 45
+IS 6
+
+RT Journal Article
+ID 18519931
+A1 Barillon,R.
+A1 Fromm,M.
+A1 Chambaudet,A.
+A1 Katz,R.
+A1 Stoquert,J.,P.
+A1 Pape,A.
+YR 1999
+T1 Bond scission cross sections for α-particles in cellulose nitrate (LR115)
+JF Radiation Measurements
+VO 31
+SP 71
+OP 75
+IS 1
+
+RT Journal Article
+ID 781501
+A1 McCanne,Steven
+A1 Brewer,Eric,A.
+A1 Katz,Randy,H.
+A1 Amir,Elan
+A1 Chawathe,Yatin
+A1 Hodes,Todd,D.
+A1 Mayer-Patel,Ketan
+A1 Raman,Suchitra
+A1 Romer,Cynthia
+A1 Schuett,Angela
+A1 Swan,Andrew
+A1 Tung,Teck-Lee
+A1 Wong,Tina
+A1 Wright,Kristin
+YR 1999
+T1 MASH: enabling scalable multipoint collaboration
+JF ACM Computing Surveys
+VO 31
+SP 2
+IS 2es
+
+RT Journal Article
+ID 1598981
+A1 Katz,R.
+A1 Wang,J.,J.
+A1 Reed,R.
+A1 Kleyner,I.
+A1 d'Ordine,M.
+A1 McCollum,J.
+A1 Cronquist,B.
+A1 Howard,J.
+YR 1999
+T1 The effects of architecture and process on the hardness of programmable technologies
+JF IEEE Transactions on Nuclear Science
+VO 46
+SP 1736
+OP 1743
+IS 6
+
+RT Journal Article
+ID 15273381
+A1 Balakrishnan,Hari
+A1 Padmanabhan,Venkata,N.
+A1 Katz,Randy,H.
+YR 1999
+T1 The effects of asymmetry on TCP performance
+JF Mobile Networks and Applications
+VO 4
+SP 219
+OP 241
+IS 3
+
+RT Journal Article
+ID 2302332
+A1 Mukkamalla,Sreedhar
+A1 Katz,Randy,H.
+YR 1999
+T1 A Scalable Framework for Secure Multicast
+
+RT Conference Proceedings
+ID 50180232
+A1 Wang,J.
+A1 Katz,R.
+A1 Kleyner,I.
+A1 Kleyner,F.
+A1 Sun,J.
+A1 Wong,W.
+A1 McCollum,J.
+A1 Cronquist,B.
+YR 1999
+T1 Total dose and RT annealing effects on startup current transient in antifuse FPGA
+
+RT Journal Article
+ID 61400347
+A1 Katz,Randy,H.
+A1 Padmanabhan,Vankata,N.
+YR 1999
+T1 TCP Fast Start: A Technique For Speeding Up Web Transfers
+
+RT Journal Article
+ID 836176
+A1 Stemm,Mark
+A1 Katz,Randy,H.
+YR 1998
+T1 Vertical Handoffs in Wireless Overlay Networks
+JF Mobile Networks and Applications
+VO 3
+SP 335
+OP 350
+IS 4
+
+RT Journal Article
+ID 356534
+A1 Amir,Elan
+A1 McCanne,Steven
+A1 Katz,Randy,H.
+YR 1998
+T1 An Active Service Framework and Its Application to Real-Time Multimedia Transcoding
+JF Computer Communication Review
+VO 28
+SP 178
+OP 189
+IS 4
+
+RT Conference Proceedings
+ID 308018
+A1 Balakrishnan,Hari
+A1 Padmanabhan,Venkata,N.
+A1 Seshan,Srinivasan
+A1 Stemm,Mark
+A1 Katz,Randy,H.
+YR 1998
+T1 TCP Behavior of a Busy Internet Server: Analysis and Improvements
+VO 1
+SP 252
+OP 262
+
+RT Journal Article
+ID 1646437
+A1 Brewer,Eric,A.
+A1 Katz,Randy,H.
+A1 CHAWATHE,YATIN
+A1 GRIBBLE,STEVEN,D.
+A1 HODES,TODD
+A1 Nguyen,Giao
+A1 STEMM,MARK
+A1 HENDERSON,TOM
+A1 AMIR,ELAN
+A1 Balakrishnan,H.
+A1 Fox,A.
+A1 Padmanabhan,V.,N.
+A1 Seshan,S.
+YR 1998
+T1 A network architecture for heterogeneous mobile computing
+JF IEEE Personal Communications
+VO 5
+SP 8
+OP 24
+IS 5
+
+RT Conference Proceedings
+ID 1264065
+A1 Balakrishnan,H.
+A1 Padmanabhan,V.
+A1 Seshan,S.
+A1 Stemm,M.
+A1 Katz,R.
+YR 1998
+T1 Tcp behavior of a busy web server: analysis and improvements
+
+RT Journal Article
+ID 1976153
+A1 Balakrishnan,Hari
+A1 Katz,Randy,H.
+YR 1998
+T1 EXPLICIT LOSS NOTI CATION AND WIRELESS WEB PERFORMANCE
+
+RT Conference Proceedings
+ID 299272
+A1 Padmanabhan,Venkata,N.
+A1 Katz,Randy,H.
+YR 1998
+T1 TCP Fast Start: A Technique For Speeding Up Web Transfers
+
+RT Journal Article
+ID 1291954
+A1 Balakrishnan,H.
+A1 Katz,R.,H.
+YR 1998
+T1 Explicit loss notification and wireless web performance" in proceedings ieee globecom internet mini-conference
+
+RT Conference Proceedings
+ID 215488
+A1 Ye,Tao
+A1 Jacobsen,Hans-Arno
+A1 Katz,Randy,H.
+YR 1998
+T1 Mobile awareness in a wide area wireless network of info-stations
+SP 109
+OP 120
+
+RT Conference Proceedings
+ID 673581
+A1 Joseph,Anthony,D.
+A1 Badrinath,B.,R.
+A1 Katz,Randy,H.
+YR 1998
+T1 The case for services over cascaded networks
+SP 2
+OP 10
+
+RT Journal Article
+ID 280262
+A1 Padmanabhan,Venkata,N.
+A1 Katz,Randy,H.
+YR 1998
+T1 Addressing the Challenges of Web Data Transport
+
+RT Journal Article
+ID 1596052
+A1 Katz,R.
+A1 Wang,J.,J.
+A1 Koga,R.
+A1 LaBel,K.,A.
+A1 McCollum,J.
+A1 Brown,R.
+A1 Reed,R.,A.
+A1 Cronquist,B.
+A1 Crain,S.
+A1 Scott,T.
+A1 Paolini,W.
+A1 Sin,B.
+YR 1998
+T1 Current radiation issues for programmable elements and devices
+JF IEEE Transactions on Nuclear Science
+VO 45
+SP 2600
+OP 2610
+IS 6
+
+RT Journal Article
+ID 403577
+A1 Hodes,Todd
+A1 Katz,Randy
+YR 1998
+T1 Enabling "Smart Spaces:" Entity Description and User Interface Generation for a Heterogeneous Component-based Distributed System
+
+RT Conference Proceedings
+ID 265864
+A1 Schuett,Angela
+A1 Raman,Suchitra
+A1 Chawathe,Yatin
+A1 McCanne,Steven
+A1 Katz,Randy
+YR 1998
+T1 A Soft State Protocol for Accessing Multimedia Archives
+
+RT Journal Article
+ID 356106
+A1 Wong,Tina
+A1 Henderson,Thomas
+A1 Raman,Suchitra
+A1 Costello,Adam
+A1 Katz,Randy
+YR 1998
+T1 Policy-Based Tunable Reliable Multicast for Periodic Information Dissemination
+
+RT Journal Article
+ID 15273353
+A1 Stemm,Mark
+A1 Katz,Randy,H.
+YR 1998
+T1 Vertical handoffs in wireless overlay networks
+JF Mobile Networks and Applications
+VO 3
+SP 335
+OP 350
+IS 4
+
+RT Journal Article
+ID 885711
+A1 Katz,Randy,H.
+YR 1998
+T1 Beyond third generation telecommunications architectures: the convergence of internet technology and cellular telephony
+JF Mobile Computing and Communications Review
+
+RT Journal Article
+ID 39212446
+A1 Amir,Elan
+A1 McCanne,Steven
+A1 Katz,Randy
+YR 1998
+T1 An active service framework and its application to real-time multimedia transcoding
+JF Computer Communication Review
+SP 178
+OP 189
+
+RT Journal Article
+ID 55732573
+A1 Hodes,Todd
+A1 Newman,Mark
+A1 McCanne,Steven
+A1 Katz,Randy,H.
+A1 Landay,James
+YR 1998
+T1 Shared remote control of a video conferencing application: motivation, design, and implementation
+VO 3654
+SP 17
+OP 28
+
+RT Journal Article
+ID 57393828
+A1 Amir,Elan
+A1 McCanne,Steven
+A1 Katz,Randy
+YR 1998
+T1 An active service framework and its application to real-time multimedia transcoding
+
+RT Journal Article
+ID 14423776
+A1 Katz,Randy,H.
+YR 1998
+T1 Beyond third generation telecommunications architectures: the convergence of internet technology and cellular telephony
+JF Mobile Computing and Communications Review
+VO 2
+SP 1
+OP 5
+IS 2
+
+RT Journal Article
+ID 46635733
+A1 Pol,S
+A1 Meunier,S
+A1 Katz,R
+A1 Vidailhet,M
+YR 1998
+T1 L'inhibition réciproque la est-elle impliquée dans la physiopathologie des troubles moteurs dans la maladie de Parkinson ?
+VO 41
+SP 364
+OP 364
+IS 6
+
+RT Journal Article
+ID 46635660
+A1 Aymard,C
+A1 Katz,R
+A1 Lo,E
+A1 Raoul,S
+YR 1998
+T1 Modifications de l'inhibition réciproque au poignet lors de mouvements volontaires chez les patients hémiplégiques
+VO 41
+SP 331
+OP 331
+IS 6
+
+RT Journal Article
+ID 56037075
+A1 Cucinotta,F.,A.
+A1 Katz,R.
+A1 Wilson,J.,W.
+YR 1998
+T1 Track Structure Model for Radial Distributions of Electron Spectra and Event Spectra from High-Energy Ions
+
+RT Journal Article
+ID 765598
+A1 Balakrishnan,Hari
+A1 Padmanabhan,Venkata,N.
+A1 Seshan,Srinivasan
+A1 Katz,Randy,H.
+YR 1997
+T1 A comparison of mechanisms for improving TCP performance over wireless links
+JF IEEE/ACM Transactions on Networking
+VO 5
+SP 756
+OP 769
+IS 6
+
+RT Journal Article
+ID 122329
+A1 Stemm,Mark
+A1 Katz,Randy,H.
+YR 1997
+T1 Measuring and Reducing Energy Consumption of Network Interfaces in Hand-Held devices
+VO E80-B No. 
+
+RT Conference Proceedings
+ID 71259
+A1 Seshan,Srinivasan
+A1 Stemm,Mark
+A1 Katz,Randy,H.
+YR 1997
+T1 SPAND: Shared Passive Network Performance Discovery
+
+RT Conference Proceedings
+ID 243938
+A1 Balakrishnan,Hari
+A1 Padmanabhan,Venkata,N.
+A1 Katz,Randy,H.
+YR 1997
+T1 The effects of asymmetry on TCP performance
+SP 77
+OP 89
+
+RT Conference Proceedings
+ID 330081
+A1 Hodes,Todd,D.
+A1 Katz,Randy,H.
+A1 Servan-Schreiber,Edouard
+A1 Rowe,Lawrence,A.
+YR 1997
+T1 Composable ad-hoc mobile services for universal interaction
+SP 1
+OP 12
+
+RT Journal Article
+ID 447
+A1 Noble,Brian,D.
+A1 Satyanarayanan,Mahadev
+A1 Nguyen,Giao,Thanh
+A1 Katz,Randy,H.
+YR 1997
+T1 Trace-Based Mobile Network Emulation
+JF Computer Communication Review
+VO 27
+SP 51
+OP 61
+IS 4
+
+RT Journal Article
+ID 1382434
+A1 Seshan,Srinivasan
+A1 Balakrishnan,Hari
+A1 Katz,Randy,H.
+YR 1997
+T1 Handoffs in Cellular Wireless Networks: The Daedalus Implementation and Experience
+JF Wireless Networks
+
+RT Journal Article
+ID 356359
+A1 Balakrishnan,Hari
+A1 Stemm,Mark
+A1 Seshan,Srinivasan
+A1 Katz,Randy,H.
+YR 1997
+T1 Analyzing Stability in Wide-Area Network Performance
+JF Sigmetrics Performance Evaluation Review
+VO 25
+SP 2
+OP 12
+IS 1
+
+RT Conference Proceedings
+ID 352291
+A1 McCanne,Steven
+A1 Brewer,Eric
+A1 Katz,Randy
+A1 Rowe,Lawrence
+A1 Amir,Elan
+A1 Chawathe,Yatin
+A1 Coopersmith,Alan
+A1 Mayer-Patel,Ketan
+A1 Raman,Suchitra
+A1 Schuett,Angela
+A1 Simpson,David
+A1 Swan,Andrew
+A1 Tung,Teck-Lee
+A1 Wu,David
+A1 Smith,Brian
+YR 1997
+T1 Toward a common infrastructure for multimedia-networking middleware
+
+RT Conference Proceedings
+ID 349691
+A1 Henderson,Thomas,R.
+A1 Sahouria,Emile
+A1 Mccanne,Steven
+A1 Katz,Randy,H.
+YR 1997
+T1 On Improving The Fairness Of Tcp Congestion Avoidance
+
+RT Journal Article
+ID 36644939
+A1 DAVIDSON,J.,R.,T.
+A1 COLKET,J.,T.
+A1 TUPLER,L.,A.
+A1 ROTH,S.
+A1 DAVID,D.
+A1 HERTZBERG,M.
+A1 MELLMAN,T.
+A1 BECKHAM,J.,C.
+A1 SMITH,R.,D.
+A1 DAVISON,R.,M.
+A1 KATZ,R.
+A1 FELDMAN,M.,E.
+YR 1997
+T1 Assessment of a new self-rating scale for post-traumatic stress disorder
+JF Psychological Medicine
+VO 27
+SP 153
+OP 160
+IS 1
+
+RT Conference Proceedings
+ID 398466
+A1 Amir,Elan
+A1 McCanne,Steven
+A1 Katz,Randy,H.
+YR 1997
+T1 Receiver-driven bandwidth adaptation for light-weight sessions
+SP 415
+OP 426
+
+RT Journal Article
+ID 1598193
+A1 Katz,R.
+A1 Label,K.
+A1 Wang,J.,J.
+A1 Cronquist,B.
+A1 Koga,R.
+A1 Penzin,S.
+A1 Swift,G.
+YR 1997
+T1 Radiation effects on current field programmable technologies
+JF IEEE Transactions on Nuclear Science
+VO 44
+SP 1945
+OP 1956
+IS 6
+
+RT Journal Article
+ID 1392579
+A1 Noble,B.
+A1 Satyanarayanan,M.
+A1 Nguyen,G.
+A1 Katz,R.
+YR 1997
+T1 Trace-based mobile network emulation proceedings of a cm sic comm
+
+RT Journal Article
+ID 400163
+A1 Henderson,Thomas,R.
+A1 Katz,Randy,H.
+YR 1997
+T1 Satellite Transport Protocol (STP): An SSCOP-based Transport Protocol for Datagram Satellite Networks
+
+RT Journal Article
+ID 21405
+A1 Miller,Ethan,L.
+A1 Katz,Randy,H.
+YR 1997
+T1 RAMA: An Easy-to-Use, High-Performance Parallel File System
+JF Parallel Computing
+VO 23
+SP 419
+OP 446
+IS 4-5
+
+RT Journal Article
+ID 39212422
+A1 Noble,Brian,D.
+A1 Satyanarayanan,M.
+A1 Nguyen,Giao,T.
+A1 Katz,Randy,H.
+YR 1997
+T1 Trace-based mobile network emulation
+JF Computer Communication Review
+SP 51
+OP 61
+
+RT Journal Article
+ID 3654358
+A1 Amir,E.
+A1 Mccanne,S.
+A1 Katz,R.
+YR 1997
+T1 Receiver-driven Bandwidth Allocation for Lightweight Sessions
+
+RT Conference Proceedings
+ID 3890111
+A1 Balakrishnan,H.
+A1 Padmanabhan,V.,N.
+A1 Katz,R.,H.
+YR 1997
+T1 The effects of TCP/IP performance
+
+RT Journal Article
+ID 1958848
+A1 Narayanaswamy,Shankar
+A1 Seshan,Srinivasan
+A1 Brewer,Eric
+A1 Brodersen,Robert
+A1 Burghardt,Frederick
+A1 Burstein,Andrew
+A1 Chang,Yuan-Chi
+A1 Fox,Armando
+A1 Gilbert,Jeffrey,M.
+A1 Han,Richard
+A1 Katz,Randy,H.
+A1 Long,Allan,C.
+A1 Messerschmitt,David,G.
+A1 Rabaey,Jan
+YR 1997
+T1 Application and network support for infopad
+
+RT Journal Article
+ID 3124762
+A1 Katz,B.
+YR 1997
+T1 From sentence parsing to information access on the WWW
+
+RT Conference Proceedings
+ID 50086149
+A1 Dietz,Timothy,G.
+A1 Ball,Geoffrey,R.
+A1 Katz,Bob,H.
+YR 1997
+T1 Partially implantable vibrating ossicular prosthesis
+
+RT Journal Article
+ID 39214058
+A1 Balakrishnan,Hari
+A1 Stemm,Mark
+A1 Seshan,Srinivasan
+A1 Katz,Randy,H.
+YR 1997
+T1 Analyzing stability in wide-area network performance
+JF Sigmetrics Performance Evaluation Review
+SP 2
+OP 12
+
+RT Journal Article
+ID 57394003
+A1 Balakrishnan,Hari
+A1 Padmanabhan,Venkata,N.
+A1 Seshan,Srinivasan
+A1 Katz,Randy,H.
+YR 1997
+T1 A comparison of mechanisms for improving TCP performance over wireless links
+VO 5
+
+RT Journal Article
+ID 57394002
+A1 Balakrishnan,Hari
+A1 Padmanabhan,Venkata,N.
+A1 Katz,Randy,H.
+YR 1997
+T1 The effects of asymmetry on TCP performance
+
+RT Journal Article
+ID 48596652
+A1 Seshan,Srinivasan
+A1 Balakrishnan,Hari
+A1 Katz,Randy,H.
+YR 1997
+T1 Handoffs in Cellular Wireless Networks: The Daedalus Implementation and Experience
+JF Wireless Personal Communications
+VO 4
+SP 141
+OP 162
+IS 2
+
+RT Conference Proceedings
+ID 66835
+A1 Mehrotra,Amit
+A1 Qadeer,Shaz
+A1 Ranjan,Rajeev,K.
+A1 Katz,Randy,H.
+YR 1997
+T1 Benchmarking and Analysis of Architectures for CAD Applications
+SP 670
+OP 675
+
+RT Journal Article
+ID 33160046
+A1 Lorenzo,Aileen,L.
+A1 Katz,Robert,S.
+YR 1997
+T1 Update on Deflazacort
+JF Jcr-journal of Clinical Rheumatology
+VO 3
+SP 144
+OP 146
+IS 3
+
+RT Conference Proceedings
+ID 520382
+A1 Katz,Randy,H.
+YR 1997
+T1 Is Wireless Data Dead?
+SP 604
+
+RT Journal Article
+ID 33160938
+A1 Katz,Robert,S.
+YR 1997
+T1 The Treuth Hurts
+JF Jcr-journal of Clinical Rheumatology
+VO 3
+SP 317
+OP 318
+IS 6
+
+RT Journal Article
+ID 353132
+A1 Balakrishnan,Hari
+A1 Padmanabhan,Venkata,N.
+A1 Seshan,Srinivasan
+A1 Katz,Randy,H.
+YR 1996
+T1 A Comparison of Mechanisms for Improving TCP Performance over Wireless Links
+JF Computer Communication Review
+VO 26
+SP 256
+OP 269
+IS 4
+
+RT Conference Proceedings
+ID 1390873
+A1 Stemm,Mark
+A1 Gauthier,Paul
+A1 Harada,Daishi
+A1 Katz,Randy,H.
+YR 1996
+T1 Reducing Power Consumption of Network Interfaces in Hand-Held Devices
+
+RT Conference Proceedings
+ID 104934
+A1 Nguyen,Giao,Thanh
+A1 Katz,Randy,H.
+A1 Noble,Brian
+A1 Satyanarayanan,Mahadev
+YR 1996
+T1 A trace-based approach for modeling wireless channel behavior
+SP 597
+OP 604
+
+RT Conference Proceedings
+ID 3220188
+A1 Balakrishnan,H.
+A1 Seshan,S.
+A1 Amir,E.
+A1 Katz,R.
+YR 1996
+T1 Impro ving TCP/IP performance over wireless networks
+
+RT Conference Proceedings
+ID 1339311
+A1 Stemm,M.
+A1 Katz,R.
+YR 1996
+T1 Measuring and reducing energy consumption of network interfaces in hand-held devices
+
+RT Conference Proceedings
+ID 45397
+A1 Katz,Randy,H.
+A1 Brewer,Eric,A.
+A1 Amir,Elan
+A1 Balakrishnan,Hari
+A1 Fox,Armando
+A1 Gribble,Steven,D.
+A1 Hodes,Todd,D.
+A1 Jiang,Daniel
+A1 Nguyen,Giao,Thanh
+A1 Padmanabhan,Venkata,N.
+A1 Stemm,Mark
+YR 1996
+T1 The Bay Area Research Wireless Access Network (BARWAN)
+SP 15
+OP 20
+
+RT Journal Article
+ID 1327387
+A1 Narayanaswamy,Shankar
+A1 Seshan,Srinivasan
+A1 Brewer,Eric
+A1 Brodersen,Robert
+A1 Burghardt,Frederick
+A1 Burstein,Andrew
+A1 Chang,Yuan-Chi
+A1 Fox,Armando
+A1 Gilbert,Jeffrey,M.
+A1 Han,Richard
+A1 Katz,Randy,H.
+A1 Long,Allan,C.
+A1 Messerschmitt,David,G.
+A1 Rabaey,Jan
+YR 1996
+T1 APPLICATION AND NETWORK SUPPORT FOR INFOPAD1
+
+RT Journal Article
+ID 1646421
+A1 NARAYANASWAMY,SHANKAR
+A1 Seshan,S.
+A1 Amir,E.
+A1 Brewer,E.
+A1 Brodersen,R.,W.
+A1 Burghardt,F.
+A1 Burstein,A.
+A1 Chang,Yuan-Chi
+A1 Fox,A.
+A1 Gilbert,J.,M.
+A1 Han,R.
+A1 Katz,R.,H.
+A1 Long,A.,C.
+A1 Messerschmitt,D.,G.
+A1 Rabaey,J.,M.
+YR 1996
+T1 A low-power, lightweight unit to provide ubiquitous information access application and network support for InfoPad
+JF IEEE Personal Communications
+VO 3
+SP 4
+OP 17
+IS 2
+
+RT Journal Article
+ID 4103414
+A1 Katz,R.,H.
+A1 Long,D.
+A1 Satyanarayanan,M.
+A1 Tripathi,S.
+YR 1996
+T1 Workspaces in the Information Age
+
+RT Journal Article
+ID 40743907
+A1 Cucinotta,F.,A
+A1 Wilson,J.,W
+A1 Katz,R
+A1 Atwell,W
+A1 Badhwar,G.,D
+A1 Shavers,M.,R
+YR 1996
+T1 Track structure and radiation transport model for space radiobiology studies
+JF Advances in Space Research
+VO 18
+SP 183
+OP 194
+IS 12
+
+RT Journal Article
+ID 1557502
+A1 Katz,Ralph
+A1 Rebentisch,Eric,S.
+A1 Alien,T.,J.
+YR 1996
+T1 A study of technology transfer in a multinational cooperative joint venture
+JF IEEE Transactions on Engineering Management
+VO 43
+SP 97
+OP 105
+IS 1
+
+RT Journal Article
+ID 26267221
+A1 Katz,Robert
+A1 Cucinotta,Francis,A.
+A1 Zhang,C.,X.
+YR 1996
+T1 The calculation of radial dose from heavy ions: predictions of biological action cross sections
+JF Nuclear Instruments & Methods in Physics Research Section B-beam Interactions With Materials and Atoms
+VO 107
+SP 287
+OP 291
+IS 1
+
+RT Conference Proceedings
+ID 50072547
+A1 Nguyen,Giao,T.
+A1 Noble,B.
+A1 Katz,R.,H.
+A1 Satyanarayanan,Mahadev
+YR 1996
+T1 A trace-based approach for modeling wireless channel behavior
+
+RT Journal Article
+ID 39212414
+A1 Balakrishnan,Hari
+A1 Padmanabhan,Venkata,N.
+A1 Seshan,Srinivasan
+A1 Katz,Randy,H.
+YR 1996
+T1 A comparison of mechanisms for improving TCP performance over wireless links
+JF Computer Communication Review
+SP 256
+OP 269
+
+RT Journal Article
+ID 54905622
+A1 Cucinotta,F.,A.
+A1 Wilson,J.,W.
+A1 Katz,R.
+A1 Atwell,W.
+A1 Badhwar,G.,D.
+A1 Shavers,M.,R.
+YR 1996
+T1 Track structure and radiation transport model for space radiobiology studies
+JF Advances in Space Research
+VO 18
+SP 183
+OP 194
+
+RT Journal Article
+ID 772100
+A1 Katz,Randy,H.
+YR 1996
+T1 Professor Katz Goes to Washington
+JF Communications of The ACM
+VO 39
+SP 13
+OP 17
+IS 5
+
+RT Journal Article
+ID 51660921
+A1 Katz,Randy,H.
+A1 Brewer,Eric,A.
+YR 1996
+T1 Case for wireless overlay networks
+VO 2667
+SP 77
+OP 88
+
+RT Journal Article
+ID 56810673
+A1 Cucinotta,Francis,A.
+A1 Katz,Robert
+A1 Wilson,John,W.
+A1 Dubey,Rajendra,R.
+YR 1996
+T1 Radial dose distributions in the delta-ray theory of track structure
+
+RT Journal Article
+ID 52588955
+A1 Cucinotta,Francis,A.
+A1 Katz,Robert
+A1 Wilson,John,W.
+A1 Dubey,Rajendra,R.
+YR 1996
+T1 Radial dose distributions in the delta-ray theory of track structure
+VO 362
+SP 245
+OP 265
+
+RT Journal Article
+ID 33158884
+A1 Katz,Robert,S.
+YR 1996
+T1 Back Pain Where are the Rheumatologists?
+JF Jcr-journal of Clinical Rheumatology
+VO 2
+SP 123
+OP 124
+IS 3
+
+RT Journal Article
+ID 33159610
+A1 Katz,Robert,S.
+YR 1996
+T1 DXA Bone Density Scanners
+JF Jcr-journal of Clinical Rheumatology
+VO 2
+SP 346
+OP 347
+IS 6
+
+RT Journal Article
+ID 39247544
+A1 Katz,Randy
+YR 1996
+T1 Computer architecture at the University of California, Berkeley
+SP 10
+
+RT Journal Article
+ID 248997
+A1 Balakrishnan,Hari
+A1 Seshan,Srinivasan
+A1 Katz,Randy,H.
+YR 1995
+T1 Improving reliable transport and handoff performance in cellular wireless networks
+JF Wireless Networks
+VO 1
+SP 469
+OP 481
+IS 4
+
+RT Conference Proceedings
+ID 653159
+A1 Balakrishnan,Hari
+A1 Seshan,Srinivasan
+A1 Amir,Elan
+A1 Katz,Randy,H.
+YR 1995
+T1 Improving TCP/IP performance over wireless networks
+SP 2
+OP 11
+
+RT Journal Article
+ID 203781
+A1 KATZ,RANDY,H.
+YR 1995
+T1 Adaptation and Mobility in Wireless hformation Systems
+JF IEEE Personal Communications
+
+RT Conference Proceedings
+ID 376214
+A1 Amir,Elan
+A1 Balakrishnan,Hari
+A1 Seshan,Srinivasan
+A1 Katz,Randy,H.
+YR 1995
+T1 Efficient TCP over networks with wireless links
+
+RT Journal Article
+ID 751503
+A1 Keeton,Kimberly
+A1 Katz,Randy,H.
+YR 1995
+T1 Evaluating Video Layout Strategies for a High-Performance Storage Server
+JF Multimedia Systems
+VO 3
+SP 43
+OP 52
+IS 2
+
+RT Journal Article
+ID 2091382
+A1 Balakrishnan,H.
+A1 Seshan,S.
+A1 Katz,R.,H.
+YR 1995
+T1 Improving reliable transport protocol and handoff performance in cellular wireless networks
+
+RT Conference Proceedings
+ID 337658
+A1 Chervenak,Ann,L.
+A1 Patterson,David,A.
+A1 Katz,Randy,H.
+YR 1995
+T1 Choosing the best storage system for video service
+SP 109
+OP 119
+
+RT Conference Proceedings
+ID 453183
+A1 Silva,Mário,J.
+A1 Katz,Randy,H.
+YR 1995
+T1 The case for design using the World Wide Web
+SP 579
+OP 585
+
+RT Conference Proceedings
+ID 383850
+A1 Chervenak,Ann,L.
+A1 Patterson,David,A.
+A1 Katz,Randy,H.
+YR 1995
+T1 Storage Systems for Movies-on-Demand Video Servers
+SP 246
+OP 256
+
+RT Conference Proceedings
+ID 582415
+A1 Brewer,Eric,A.
+A1 Burd,Thomas,D.
+A1 Burghard,Frederick,L.
+A1 Burstein,Andrew,J.
+A1 Doering,Roger
+A1 Lutz,Ken
+A1 Narayanaswamy,Shankar
+A1 Pering,Trevor
+A1 Richards,Brian,C.
+A1 Truman,Thomas,E.
+A1 Katz,Randy,H.
+A1 Rabaey,Jan,M.
+A1 Brodersen,Robert,W.
+YR 1995
+T1 Design of Wireless Portable Systems
+SP 169
+OP 176
+
+RT Journal Article
+ID 387851
+A1 Cucinotta,Francis,A.
+A1 Katz,Robert
+A1 Wilson,John,W.
+A1 Dubey,Rajendra,R.
+YR 1995
+T1 Heavy ion track-structure calculations for radial dose in arbitrary materials
+
+RT Conference Proceedings
+ID 670555
+A1 Miller,Ethan,L.
+A1 Katz,Randy,H.
+YR 1995
+T1 RAMA: Easy Access to a High-Bandwidth Massively Parallel File System
+SP 59
+OP 70
+
+RT Journal Article
+ID 50012485
+A1 Katz,R.
+A1 Maas,S.
+A1 Sharma,A.
+A1 Smith,D.
+YR 1995
+T1 A novel monolithic HEMT harmonic mixer at Q-band
+JF IEEE Control Systems Magazine
+
+RT Journal Article
+ID 3223279
+A1 Balakrishnan,H.
+A1 Seshan,S.
+A1 Katz,R.,H.
+YR 1995
+T1 Improving reliable transport and handoff performance in cellular wireless networks; Wireless Network
+
+RT Journal Article
+ID 50012484
+A1 Sharma,A.,K.
+A1 Smith,D.,M.
+A1 Aust,M.,V.
+A1 Katz,R.,H.
+A1 Yonaki,J.
+A1 Womack,R.,B.
+A1 Bindenbender,M.,D.
+YR 1995
+T1 A high performance transceiver chipset for millimeter-wave commercial digital communication systems
+JF IEEE Control Systems Magazine
+
+RT Conference Proceedings
+ID 582303
+A1 Pasquale,Joseph
+A1 Dozier,Jeff
+A1 Katz,Randy,H.
+YR 1995
+T1 The Redwood Project
+SP 478
+OP 481
+
+RT Journal Article
+ID 33157941
+A1 Kravitz,Howard,M.
+A1 Katz,Robert,S.
+A1 Helmke,Nancy
+A1 Jeffriess,Helen
+A1 Fawcett,Jan
+YR 1995
+T1 Fibromyalgia: A Study of Family History of Depression
+JF Jcr-journal of Clinical Rheumatology
+VO 1
+SP 165
+OP 170
+IS 3
+
+RT Journal Article
+ID 60146168
+A1 Ferrari,D.
+A1 Katz,R.
+A1 Ousterhout,J.
+YR 1995
+T1 Gigabit testbed research project. Final report, August 1, 1992December 31, 1994
+
+RT Journal Article
+ID 57393795
+A1 Chervenak,Ann,L.
+A1 Patterson,David,A.
+A1 Katz,Randy,H.
+YR 1995
+T1 Choosing the best storage system for video service
+
+RT Conference Proceedings
+ID 50024676
+A1 Pasquale,J.
+A1 Dozier,J.
+A1 Katz,R.,H.
+YR 1995
+T1 The Redwood Project [distributed information system]
+SP 478
+OP 481
+
+RT Conference Proceedings
+ID 50010739
+A1 Silva,Randy,H.,Katz,Mario,J.
+A1 Katz,Randy,H.
+YR 1995
+T1 The Case for Design Using the World Wide Web
+SP 579
+OP 585
+
+RT Journal Article
+ID 55440290
+A1 Xing,G.
+A1 Huang,X.
+A1 Bersohn,R.
+A1 Tsukiyama,K.
+A1 Katz,B.
+YR 1995
+T1 The reaction of CCl3 radicals and Cl atoms with hydrogen molecules
+JF Chemical Physics
+VO 102
+SP 3169
+OP 3171
+
+RT Journal Article
+ID 60344619
+A1 Xing,G.
+A1 Huang,X.
+A1 Bersohn,R.
+A1 Tsukiyama,K.
+A1 Katz,B.
+YR 1995
+T1 The reaction of CCl[sub 3] radicals and Cl atoms with hydrogen molecules
+JF Journal of Chemical Physics
+VO 102
+SP 3169
+OP 3171
+IS 8
+
+RT Journal Article
+ID 60167476
+A1 Katz,B.
+A1 Liu,W.
+A1 Salloux,K.
+A1 Chaput,F.
+A1 Dunn,B.
+YR 1995
+T1 Morphology and properties of vanadium oxide xerogels and aerogels. Technical report, 1 June 1994-31 May 1995
+
+RT Journal Article
+ID 53219216
+A1 Cucinotta,Francis,A.
+A1 Katz,Robert
+A1 Wilson,John,W.
+A1 Dubey,Rajendra,R.
+YR 1995
+T1 Heavy ion track-structure calculations for radial dose in arbitrary materials
+
+RT Journal Article
+ID 33157898
+A1 Katz,Robert,S.
+A1 Kravitz,Howard,M.
+YR 1995
+T1 Sleep Physiology for the Rheumatologist
+JF Jcr-journal of Clinical Rheumatology
+VO 1
+SP 72
+OP 73
+IS 2
+
+RT Journal Article
+ID 60167474
+A1 Dunn,B.
+A1 Farrington,G.,C.
+A1 Katz,B.
+YR 1995
+T1 Sol-gel approaches for solid electrolytes and electrode materials. Technical report
+
+RT Journal Article
+ID 224097
+A1 Chen,Peter,M.
+A1 Lee,Edward,K.
+A1 Gibson,Garth,A.
+A1 Katz,Randy,H.
+A1 Patterson,David,A.
+YR 1994
+T1 RAID: high-performance, reliable secondary storage
+JF ACM Computing Surveys
+VO 26
+SP 145
+OP 185
+IS 2
+
+RT Journal Article
+ID 860158
+A1 Hellerstein,Lisa
+A1 Gibson,Garth,A.
+A1 Karp,Richard,M.
+A1 Katz,Randy,H.
+A1 Patterson,David,A.
+YR 1994
+T1 Coding Techniques for Handling Failures in Large Disk Arrays
+JF Algorithmica
+VO 12
+SP 182
+OP 208
+IS 2/3
+
+RT Conference Proceedings
+ID 62527
+A1 Drapeau,Ann,L.
+A1 Shirriff,Ken,W.
+A1 Hartman,John,H.
+A1 Miller,Ethan,L.
+A1 Seshan,Srinivasan
+A1 Katz,Randy,H.
+A1 Liitz,Ken
+A1 Patterson,David,A.
+A1 Lee,Edward,K.
+A1 Chen,Peter,M.
+A1 Gibson,Garth,A.
+YR 1994
+T1 RAID-II: A High-Bandwidth Network File Server
+SP 234
+OP 244
+
+RT Journal Article
+ID 729446
+A1 Chen,Peter,M.
+A1 Lee,Edward,K.
+A1 Drapeau,Ann,L.
+A1 Lutz,Ken
+A1 Miller,Ethan,L.
+A1 Seshan,Srinivasan
+A1 Shirriff,Ken
+A1 Patterson,David,A.
+A1 Katz,Randy,H.
+YR 1994
+T1 Performance and Design Evaluation of the RAID-II Storage Server
+JF Distributed and Parallel Databases
+VO 2
+SP 243
+OP 260
+IS 3
+
+RT Journal Article
+ID 1402410
+A1 Chen,P.,M.
+A1 Lee,E.,K.
+A1 Gibson,G.,A.
+A1 Katz,R.,H.
+YR 1994
+T1 Patterson: "raid: high-performance, reliable secondary storage
+JF ACM Computing Surveys
+
+RT Journal Article
+ID 1596681
+A1 Katz,R.
+A1 Barto,R.
+A1 McKerracher,P.
+A1 Carkhuff,B.
+A1 Koga,R.
+YR 1994
+T1 SEU hardening of field programmable gate arrays (FPGAs) for space applications and device characterization
+JF IEEE Transactions on Nuclear Science
+VO 41
+SP 2179
+OP 2186
+IS 6
+
+RT Journal Article
+ID 3672293
+A1 Chen,Peter,M.
+A1 Lee,Edward,K.
+A1 Gib-son,Garth,A.
+A1 Katz,Randy,H.
+A1 David,A
+YR 1994
+T1 Reliable Secondary Storage
+JF ACM Computing Surveys
+
+RT Conference Proceedings
+ID 680951
+A1 Drapeau,Ann,L.
+A1 Patterson,David,A.
+A1 Katz,Randy,H.
+YR 1994
+T1 Toward Workload Characterization of Video Server and Digital Library Applications
+SP 274
+OP 275
+
+RT Conference Proceedings
+ID 50009875
+A1 Keeton,Kimberly
+A1 Drapeau,Ann
+A1 Patterson,David
+A1 Katz,Randy,H.
+YR 1994
+T1 Storage alternatives for video service
+
+RT Journal Article
+ID 18578302
+A1 DUNN,B
+A1 FARRINGTON,G
+A1 KATZ,B
+YR 1994
+T1 Sol-gel approaches for solid electrolytes and electrode materials
+JF Solid State Ionics
+VO 70-71
+SP 3
+OP 10
+
+RT Journal Article
+ID 14415782
+A1 Drapeau,Ann,L.
+A1 Shirriff,Ken,W.
+A1 Hartman,John,H.
+A1 Miller,Ethan,L.
+A1 Seshan,Srinivasan
+A1 Katz,Randy,H.
+A1 Lutz,K.
+A1 Patterson,D.,A.
+A1 Lee,E.,K.
+A1 Chen,P.,M.
+A1 Gibson,G.,A.
+YR 1994
+T1 RAID-II: a high-bandwidth network file server
+JF ACM Sigarch Computer Architecture News
+VO 22
+SP 234
+OP 244
+IS 2
+
+RT Journal Article
+ID 49980682
+A1 Minot,K.
+A1 Aust,M.
+A1 Kasody,R.
+A1 Katz,R.
+A1 Wang,H.
+A1 Rodgers,P.
+A1 Smith,D.
+A1 Shaw,L.
+A1 Tan,K.
+A1 Wang,N.
+A1 Dow,S.
+A1 Allen,B.
+YR 1994
+T1 A MMIC chip set for V-band crosslink communication systems
+JF IEEE Control Systems Magazine
+
+RT Journal Article
+ID 3641400
+A1 Chen,M.
+A1 Lee,E.
+A1 Gibson,G.
+A1 Katz,R.
+A1 Patterson,D.
+YR 1994
+T1 RAID: High-performance reliable secondary memory
+JF ACM Computing Surveys
+
+RT Conference Proceedings
+ID 522418
+A1 Chiueh,Tzi-cker
+A1 Katz,Randy,H.
+YR 1994
+T1 Papyrus: A History-Based VLSI Design Process Management System
+SP 385
+OP 392
+
+RT Journal Article
+ID 32047583
+A1 Kravitz,Howard
+A1 Katz,Robert
+A1 Helmke,Nancy
+A1 Jeffriess,Helen
+A1 Bukovsky,Joe
+A1 Fawcett,Jan
+YR 1994
+T1 Alprazolam and Ibuprofen in the Treatment of Fibromyalgia-Report of a Double-Blind Placebo-Controlled Study
+JF Journal of Musculoskeletal Pain
+VO 2
+SP 3
+OP 27
+IS 1
+
+RT Journal Article
+ID 57393796
+A1 Chen,Peter,M.
+A1 Lee,Edward,K.
+A1 Gibson,Garth,A.
+A1 Katz,Randy,H.
+A1 Patterson,David,A.
+YR 1994
+T1 RAID: high-performance, reliable secondary storage
+VO 26
+
+RT Journal Article
+ID 4449851
+A1 Drapeau,Ann,L.
+A1 Patterson,David,A.
+A1 Katz,Randy,H.
+YR 1994
+T1 Toward workload characterization of video server and digital library applications (extended abstract)
+JF Sigmetrics Performance Evaluation Review
+VO 22
+SP 274
+OP 275
+IS 1
+
+RT Conference Proceedings
+ID 544119
+A1 Katz,Randy,H.
+YR 1994
+T1 Reengineering Government Through Information Technology: The National Performance Review
+SP 372
+OP 379
+
+RT Journal Article
+ID 60719861
+A1 Cucinotta,F.,A.
+A1 Wilson,J.,W.
+A1 Katz,R.
+YR 1994
+T1 Radiosensitivity Parameters For Lethal Mutagenesis In Caenorhabditis Elegans
+
+RT Conference Proceedings
+ID 218195
+A1 Keeton,Kimberly
+A1 Mah,Bruce,A.
+A1 Seshan,Srinivasan
+A1 Katz,Randy,H.
+A1 Ferrari,Domenico
+YR 1993
+T1 Providing Connection-Oriented Network Services to Mobile Hosts1
+
+RT Conference Proceedings
+ID 2003518
+A1 Keeton,K.
+A1 Mah,B.,A.
+A1 Seshan,S.
+A1 Katz,R.,H.
+A1 Ferrari,D.
+YR 1993
+T1 Providing Connection-Oriented Service to Mobile Hosts
+
+RT Journal Article
+ID 680511
+A1 Lee,Edward,K.
+A1 Katz,Randy,H.
+YR 1993
+T1 An Analytic Performance Model of Disk Arrays
+JF Sigmetrics Performance Evaluation Review
+VO 21
+SP 98
+OP 109
+IS 1
+
+RT Conference Proceedings
+ID 477344
+A1 Drapeau,Ann,L.
+A1 Katz,Randy,H.
+YR 1993
+T1 Striped Tape Arrays
+SP 257
+OP 265
+
+RT Book, Whole
+ID 665524
+A1 Keeton,Kimberly
+A1 Katz,Randy,H.
+YR 1993
+T1 The Evaluation of Video Layout Strategies on a High-Bandwidth File Server
+SP 228
+OP 239
+
+RT Conference Proceedings
+ID 180896
+A1 Miller,Ethan,L.
+A1 Katz,Randy,H.
+YR 1993
+T1 An Analysis of File Migration in a UNIX Supercomputing Environment
+SP 421
+OP 434
+
+RT Journal Article
+ID 713658
+A1 Lee,Edward,K.
+A1 Katz,Randy,H.
+YR 1993
+T1 The Performance of Parity Placements in Disk Arrays
+JF IEEE Transactions on Computers
+VO 42
+SP 651
+OP 664
+IS 6
+
+RT Journal Article
+ID 270901
+A1 Katz,R.,H.
+A1 Chen,P.,M.
+A1 Drapeau,A.,L.
+A1 Lee,E.,K.
+A1 Lutz,K.
+A1 Miller,E.,L.
+A1 Seshan,S.
+A1 Patterson,D.,A.
+YR 1993
+T1 RAID-II: Design and Implementation of a Large Scale Disk Array Controller1
+
+RT Conference Proceedings
+ID 438334
+A1 Chiueh,Tzi-cker
+A1 Katz,Randy,H.
+YR 1993
+T1 Multi-resolution video representation for parallel disk arrays
+SP 401
+OP 409
+
+RT Conference Proceedings
+ID 213677
+A1 Mah,Bruce,A.
+A1 Seshan,Srinivasan
+A1 Keeton,Kimberly
+A1 Katz,Randy,H.
+A1 Ferrari,Domenico
+YR 1993
+T1 Providing Network Video Service to Mobile Clients
+SP 48
+OP 54
+
+RT Conference Proceedings
+ID 280338
+A1 Drapeau,Ann,L.
+A1 Katz,Randy,H.
+YR 1993
+T1 Striping in large tape libraries
+SP 378
+OP 387
+
+RT Journal Article
+ID 772099
+A1 Katz,Ralph
+YR 1993
+T1 Tales from the Front
+JF Communications of The ACM
+VO 36
+SP 67
+IS 2
+
+RT Conference Proceedings
+ID 453182
+A1 Silva,Mfirio,J.
+A1 Katz,Randy,H.
+YR 1993
+T1 Active documentation: a new interface for VLSI design
+SP 654
+OP 660
+
+RT Conference Proceedings
+ID 49979204
+A1 Miller,Ethan,L.
+A1 Katz,Randy,H.
+YR 1993
+T1 RAMA: a file system for massively-parallel computers
+
+RT Journal Article
+ID 729508
+A1 Katz,Randy,H.
+A1 Hong,Wei
+YR 1993
+T1 The Performance of Disk Arrays in Shared-Memory Database Machines
+JF Distributed and Parallel Databases
+VO 1
+SP 167
+OP 198
+IS 2
+
+RT Conference Proceedings
+ID 49977227
+A1 Katz,R.
+A1 Aust,M.,V.
+A1 Kasody,R.
+A1 Wang,H.
+A1 Allen,B.
+A1 Dow,G.,S.
+A1 Tan,K.
+A1 Lin,S.
+A1 Myers,R.
+YR 1993
+T1 A highly compact, wideband GaAs HEMT X-Ku band image-reject receiver MMIC
+SP 149
+
+RT Journal Article
+ID 191517
+A1 Miller,Ethan,L.
+A1 Katz,Randy,H.
+YR 1993
+T1 RAMA: A FILESYSTEM FOR MASSIVELY PARALLEL COMPUTERS
+
+RT Journal Article
+ID 2112997
+A1 Drapeau,A.,L.
+A1 Katz,R.,H.
+YR 1993
+T1 Analysis of Striped Tape Systems
+
+RT Journal Article
+ID 802466
+A1 Chiueh,Tzi-cker
+A1 Katz,Randy,H.
+YR 1993
+T1 A History Approach of Automatic Relationships Establisment for VLSI Design Database
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 5
+SP 987
+OP 990
+IS 6
+
+RT Journal Article
+ID 49965279
+A1 Chiuch,Tzi-cker
+A1 Katz,Randy,H.
+YR 1993
+T1 A distributed transaction facility for design task management
+
+RT Conference Proceedings
+ID 49971626
+A1 Seshan,Srinivasan
+A1 Katz,Randy,H.
+YR 1993
+T1 Interfacing a high performance disk array file server to a gigabit LAN
+SP 344
+OP 353
+
+RT Journal Article
+ID 49977967
+A1 Katz,R.
+A1 Aust,M.,V.
+A1 Kasody,R.
+A1 Wang,H.
+A1 Allen,B.
+A1 Dow,G.,S.
+A1 Tan,K.
+A1 Lin,S.
+A1 Myers,R.
+YR 1993
+T1 A highly compact, wideband GaAs HEMT X-Ku band image-reject receiver MMIC
+JF IEEE Control Systems Magazine
+
+RT Conference Proceedings
+ID 49979010
+A1 Drapeua,A.,L.
+A1 Katz,Randy,H.
+YR 1993
+T1 Striping in large tape libraries
+SP 378
+OP 387
+
+RT Journal Article
+ID 39213966
+A1 Lee,Edward,K.
+A1 Katz,Randy,H.
+YR 1993
+T1 An analytic performance model of disk arrays
+JF Sigmetrics Performance Evaluation Review
+SP 98
+OP 109
+
+RT Conference Proceedings
+ID 49958976
+A1 Silva,Mario,J.
+A1 Katz,Randy,H.
+YR 1993
+T1 Active Documentation: a New Interface for VLSI Design
+SP 654
+OP 660
+
+RT Journal Article
+ID 61318227
+A1 Shinn,J.,L.
+A1 Katz,R.
+A1 Cucinotta,F.,A.
+A1 Wilson,J.,W.
+A1 Ngo,D.,M.
+YR 1993
+T1 Cellular track model for study of heavy ion beams
+
+RT Journal Article
+ID 1289392
+A1 Katz,R.,H.
+YR 1992
+T1 High-performance network and channel-based storage
+JF Proceedings of The IEEE
+VO 80
+SP 1238
+OP 1261
+IS 8
+
+RT Journal Article
+ID 1325692
+A1 Lee,E.,K.
+A1 Chen,P.,M.
+A1 Hartman,J.,H.
+A1 Drapeau,A.,L.,C.
+A1 Miller,E.,L.
+A1 Katz,R.,H.
+A1 Gibson,G.,A.
+A1 Patterson,D.,A.
+YR 1992
+T1 Raid-ii: a scalable storage architecture for high-bandwidth network file service
+
+RT Journal Article
+ID 36900584
+A1 Segal,Zindel,V.
+A1 Shaw,Brian,F.
+A1 Vella,Doreen,D.
+A1 Katz,Randy
+YR 1992
+T1 Cognitive and life stress predictors of relapse in remitted unipolar depressed patients: Test of the congruency hypothesis
+JF Journal of Abnormal Psychology
+VO 101
+SP 26
+OP 36
+IS 1
+
+RT Conference Proceedings
+ID 1557623
+A1 Allen,T.,j.
+A1 Katz,R.
+YR 1992
+T1 Age, education and the technical ladder
+
+RT Journal Article
+ID 646879
+A1 Chiueh,Tzi-cker
+A1 Katz,Randy,H.
+YR 1992
+T1 Eliminating the Address Translation Bottleneck for Physical Address Cache
+JF Sigplan Notices
+VO 27
+SP 137
+OP 148
+IS 9
+
+RT Journal Article
+ID 30506938
+A1 Chen,Jinkun
+A1 Katz,Ralph,V.
+A1 Krufchkof,David,I.
+A1 Eisenberg,Ellen
+YR 1992
+T1 Lip cancer. Incidence trends in connecticut, 1935–1985
+JF Cancer
+VO 70
+SP 2025
+OP 2030
+IS 8
+
+RT Journal Article
+ID 36900585
+A1 Segal,Zindel,V.
+A1 Shaw,Brian,F.
+A1 Vella,Doreen,D.
+A1 Katz,Randy
+YR 1992
+T1 Cognitive and Life Stress Predictors of Relapse in Remitted Unipolar Depressed Patients: Test of the Congruency Hypothesis
+JF Journal of Abnormal Psychology
+VO 101
+SP 26
+OP 36
+IS 1
+
+RT Journal Article
+ID 48326351
+A1 Créange,A.
+A1 Faist,M.
+A1 Katz,R.
+A1 Pénicaud,A.
+YR 1992
+T1 Distribution of heteronymous Ia facilitation and recurrent inhibition in the human deltoid motor nucleus
+JF Experimental Brain Research
+VO 90
+SP 620
+OP 624
+IS 3
+
+RT Journal Article
+ID 1321226
+A1 Chiueh,T.
+A1 Katz,R.
+YR 1992
+T1 Beating the address translation bottleneck
+
+RT Conference Proceedings
+ID 49935100
+A1 Katz,Randy,H.
+YR 1992
+T1 Network-attached storage systems
+
+RT Journal Article
+ID 37869961
+A1 Allen,Thomas,J.
+A1 Katz,Ralph
+YR 1992
+T1 Age, education and the technical ladder
+JF IEEE Transactions on Engineering Management
+VO 39
+SP 237
+OP 245
+IS 3
+
+RT Journal Article
+ID 49934041
+A1 Chiueh,Tzi-Cker
+A1 Katz,R.,H.
+YR 1992
+T1 Intelligent VLSI design object management
+
+RT Journal Article
+ID 49934039
+A1 Chiueh,Tzi-Cker
+A1 Katz,Randy,H.
+YR 1992
+T1 Incremental meta-data construction for VLSI design databases
+
+RT Conference Proceedings
+ID 13425
+A1 Katz,Randy,H.
+A1 Patterson,David,A.
+A1 Chervenak-drapeau,Ann
+A1 Fine,Joel
+A1 Miller,Ethan
+YR 1992
+T1 An approach to cost-effective terabyte memory systems
+
+RT Journal Article
+ID 19700556
+A1 Cucinotta,Francis,A.
+A1 Wilson,J.,W.
+A1 Townsend,L.,W.
+A1 Shinn,J.,L.
+A1 Katz,Robert
+YR 1992
+T1 TRACK STRUCTURE MODEL FOR DAMAGE TO MAMMALIAN CELL CULTURES DURING SOLAR PROTON EVENTS
+JF International Journal of Radiation Applications and Instrumentation. Part D. Nuclear Tracks and Radiation Measurements
+VO 20
+SP 177
+OP 184
+IS 1
+
+RT Journal Article
+ID 39218350
+A1 Chiueh,Tzi-cker
+A1 Katz,Randy,H.
+YR 1992
+T1 Eliminating the address translation bottleneck for physical address cache
+JF Sigplan Notices
+SP 137
+OP 148
+
+RT Journal Article
+ID 34737721
+A1 Faist,M.
+A1 Katz,R.
+YR 1992
+T1 Distribution of heteronymous Ia facilitation and recurrent inhibition in the human deltoid motor nucleus
+JF Experimental Brain Research
+VO 90
+IS 3
+
+RT Journal Article
+ID 60235692
+A1 Miller,E.,L.
+A1 Katz,R.,H.
+YR 1992
+T1 An analysis of file migration in a UNIX supercomputing environment
+
+RT Conference Proceedings
+ID 183503
+A1 Miller,Ethan,L.
+A1 Katz,Randy,H.
+YR 1991
+T1 Input/output behavior of supercomputing applications
+SP 567
+OP 576
+
+RT Journal Article
+ID 646878
+A1 Lee,Edward,K.
+A1 Katz,Randy,H.
+YR 1991
+T1 Performance Consequences of Parity Placement in Disk Arrays
+JF ACM Sigarch Computer Architecture News
+VO 19
+SP 190
+OP 199
+IS 2
+
+RT Journal Article
+ID 885062
+A1 Chervenak,Ann,L.
+A1 Katz,Randy,H.
+YR 1991
+T1 Performance of a disk array protype
+JF Sigmetrics Performance Evaluation Review
+VO 19
+SP 188
+OP 197
+IS 1
+
+RT Conference Proceedings
+ID 24025
+A1 Miller,Ethan,L.
+A1 Katz,Randy,H.
+YR 1991
+T1 Analyzing the I/O behavior of supercomputer applications
+
+RT Journal Article
+ID 1413342
+A1 Lee,Edward,K.
+A1 Katz,Randy,H.
+YR 1991
+T1 An analytic performance model of disk arrays and i~ts applications
+
+RT Journal Article
+ID 36644205
+A1 McGuffin,Peter
+A1 Katz,Randy
+A1 Rutherford,Joan
+YR 1991
+T1 Nature, nurture and depression: a twin study
+JF Psychological Medicine
+VO 21
+SP 329
+IS 02
+
+RT Journal Article
+ID 3694599
+A1 Katz,R.
+YR 1991
+T1 Robo-line Storage: Low Latency, High Capacity Storage Systems Over Geographically Distributed Networ
+
+RT Conference Proceedings
+ID 680852
+A1 Chervenak,Ann,L.
+A1 Katz,Randy,H.
+YR 1991
+T1 Performance of a RAID Prototype
+SP 188
+OP 197
+
+RT Journal Article
+ID 1358362
+A1 Lee,D.,D.
+A1 Katz,R.,H.
+YR 1991
+T1 Using cache mechanisms to exploit nonrefreshing DRAMs for on-chip memories
+JF IEEE Journal of Solid-state Circuits
+VO 26
+SP 657
+OP 661
+IS 4
+
+RT Conference Proceedings
+ID 695505
+A1 Katz,Randy,H.
+A1 Chang,Ellis,E.
+YR 1991
+T1 Inheritance Issues in Computer-Aided Design Databases
+
+RT Journal Article
+ID 1276441
+A1 Katz,Randy,H.
+A1 Anderson,Thomas,E.
+A1 Ousterhout,John,K.
+A1 Patterson,David,A.
+YR 1991
+T1 Robo-line storage: lowlatency
+
+RT Conference Proceedings
+ID 667304
+A1 Chiueh,Tzi-cker
+A1 Katz,Randy,H.
+YR 1991
+T1 Trait: An Attribute Management System for VLSI Design Objects
+SP 228
+OP 237
+
+RT Conference Proceedings
+ID 49904594
+A1 Chiueh,Tzi-cker
+A1 Katz,Randy
+YR 1991
+T1 An annotation system for VLSI design
+
+RT Journal Article
+ID 60239903
+A1 Katz,R.,H.
+A1 Anderson,T.,E.
+A1 Ousterhout,J.,K.
+A1 Patterson,D.,A.
+YR 1991
+T1 Robo-line storage: Low latency, high capacity storage systems over geographically distributed networks
+
+RT Journal Article
+ID 55403367
+A1 Johnston,G.,W.
+A1 Kornweitz,H.
+A1 Schechter,I.
+A1 Persky,A.
+A1 Katz,B.
+A1 Bersohn,R.
+A1 Levine,R.,D.
+YR 1991
+T1 The branching ratio in the F+HD reaction: An experimental and computational study
+JF Chemical Physics
+VO 94
+SP 2749
+OP 2757
+
+RT Journal Article
+ID 14417372
+A1 Lee,Edward,K.
+A1 Katz,Randy,H.
+YR 1991
+T1 Performance consequences of parity placement in disk arrays
+JF Operating Systems Review
+VO 25
+SP 190
+OP 199
+IS Special Is
+
+RT Journal Article
+ID 14414948
+A1 Chiueh,Tzi-cker
+A1 Katz,Randy
+YR 1991
+T1 Trait: an attribute management system for VLSI design objects
+JF Sigmod Record
+VO 20
+SP 228
+OP 237
+IS 2
+
+RT Journal Article
+ID 39211702
+A1 Lee,Edward,K.
+A1 Katz,Randy,H.
+YR 1991
+T1 Performance consequences of parity placement in disk arrays
+JF ACM Sigarch Computer Architecture News
+SP 190
+OP 199
+
+RT Journal Article
+ID 14409722
+A1 Lee,Edward,K.
+A1 Katz,Randy,H.
+YR 1991
+T1 Performance consequences of parity placement in disk arrays
+JF Sigplan Notices
+VO 26
+SP 190
+OP 199
+IS 4
+
+RT Journal Article
+ID 56139058
+A1 Cucinotta,Francis,A.
+A1 Atwell,William
+A1 Weyland,Mark
+A1 Hardy,Alva,C.
+A1 Wilson,John,W.
+A1 Townsend,Lawrence,W.
+A1 Shinn,Judy,L.
+A1 Katz,Robert
+YR 1991
+T1 Radiation risk predictions for Space Station Freedom orbits
+
+RT Conference Proceedings
+ID 647912
+A1 Chiueh,Tzi-cker
+A1 Katz,Randy,H.
+YR 1991
+T1 Papyrus: A Structured History Database for VLSI Design Flow Management
+SP 293
+OP 301
+
+RT Journal Article
+ID 52844161
+A1 Cucinotta,Francis,A.
+A1 Katz,Robert
+A1 Wilson,John,W.
+A1 Townsend,Lawrence,W.
+A1 Nealy,John,E.
+A1 Shinn,Judy,L.
+YR 1991
+T1 Cellular track model of biological damage to mammalian cell cultures from galactic cosmic rays
+
+RT Journal Article
+ID 61378414
+A1 Cucinotta,F.,A.
+A1 Wilson,J.,W.
+A1 Townsend,L.,W.
+A1 Shinn,J.,L.
+A1 Katz,R.
+YR 1991
+T1 LET analyses of biological damage during solar particle events
+
+RT Journal Article
+ID 19698984
+A1 KATZ,R
+YR 1991
+T1 A track physics model of radiation action
+JF International Journal of Radiation Applications and Instrumentation. Part C. Radiation Physics and Chemistry
+VO 37
+SP 125
+OP 129
+IS 1
+
+RT Journal Article
+ID 19699042
+A1 KATZ,R
+YR 1991
+T1 On the normalized yield (events/rad/dalton) of biological molecules irradiated with energetic heavy ions
+JF International Journal of Radiation Applications and Instrumentation. Part C. Radiation Physics and Chemistry
+VO 37
+SP 373
+OP 374
+IS 2
+
+RT Conference Proceedings
+ID 49923146
+A1 Katz,R.
+YR 1991
+T1 Track physics model of radiation effects
+
+RT Journal Article
+ID 780954
+A1 Katz,Randy,H.
+YR 1990
+T1 Toward a unified framework for version modeling in engineering databases
+JF ACM Computing Surveys
+VO 22
+SP 375
+OP 409
+IS 4
+
+RT Journal Article
+ID 680675
+A1 Chen,Peter,M.
+A1 Gibson,Garth,A.
+A1 Katz,Randy,H.
+A1 Patterson,David,A.
+YR 1990
+T1 An Evaluation of Redundant Arrays of Disks Using an Amdahl 5890
+JF Sigmetrics Performance Evaluation Review
+VO 18
+SP 74
+OP 85
+IS 1
+
+RT Journal Article
+ID 930544
+A1 Wood,David,A.
+A1 Gibson,Garth,A.
+A1 Katz,Randy,H.
+YR 1990
+T1 Verifying a Multiprocessor Cache Controller Using Random Test Generation
+JF IEEE Design & Test of Computers
+VO 7
+SP 13
+OP 25
+IS 4
+
+RT Conference Proceedings
+ID 604511
+A1 Chiueh,Tzi-cker
+A1 Katz,Randy,H.
+YR 1990
+T1 A History Model for Managing the VLSI Design Process
+SP 358
+OP 361
+
+RT Journal Article
+ID 30470428
+A1 Chen,Jinkun
+A1 Katz,Ralph,V.
+A1 Krutchkoff,David,J.
+YR 1990
+T1 Intraoral squamous cell carcinoma: Epidemiologic patterns in connecticut from 1935 to 1985
+JF Cancer
+VO 66
+SP 1288
+OP 1296
+IS 6
+
+RT Journal Article
+ID 30459962
+A1 Chen,Jinkun
+A1 Katz,Ralph,V.
+A1 Krutchkoff,David,J.
+YR 1990
+T1 Epidemiology of oral cancer in Connecticut, 1935 to 1985
+JF Cancer
+VO 65
+SP 2796
+OP 2802
+IS 12
+
+RT Journal Article
+ID 18782778
+A1 Katz,Robert
+A1 Loh,Kim,Sum
+A1 Daling,Luo
+A1 Huang,Guo-Rong
+YR 1990
+T1 An analytic representation of the radial distribution of dose from energetic heavy ions in water, Si, LiF, NaI, and SiO2
+JF Radiation Effects and Defects in Solids
+VO 114
+SP 15
+OP 20
+IS 1-2
+
+RT Journal Article
+ID 723765
+A1 Chang,Ellis,E.
+A1 Katz,Randy,H.
+YR 1990
+T1 Inheritance in computer-aided design databases: semantics and implementation issues
+JF Computer-aided Design
+VO 22
+SP 489
+OP 499
+IS 8
+
+RT Conference Proceedings
+ID 49888190
+A1 Lee,David,D.
+A1 Katz,R.,H.
+YR 1990
+T1 Non-refreshing dynamic RAM for on-chip cache memories
+
+RT Journal Article
+ID 39213888
+A1 Chen,Peter,M.
+A1 Gibson,Garth,A.
+A1 Katz,Randy,H.
+A1 Patterson,David,A.
+YR 1990
+T1 An evaluation of redundant arrays of disks using an Amdahl 5890
+JF Sigmetrics Performance Evaluation Review
+SP 74
+OP 85
+
+RT Journal Article
+ID 55066822
+A1 Gudmundsson,B.
+A1 Wang,H.
+A1 Neiser,R.,A.
+A1 Katz,B.
+A1 Herman,H.
+A1 Suenaga,M.
+YR 1990
+T1 The effect of heat-treatment environment on the superconducting properties of plasma-sprayed YBa2Cu3Oy deposits
+JF Journal of Applied Physics
+VO 67
+SP 2653
+OP 2655
+
+RT Journal Article
+ID 60493780
+A1 Gudmundsson,B.
+A1 Wang,H.
+A1 Neiser,R.,A.
+A1 Katz,B.
+A1 Herman,H.
+A1 Suenaga,M.
+YR 1990
+T1 The effect of heat-treatment environment on the superconducting properties of plasma-sprayed YBa sub 2 Cu sub 3 O sub y deposits
+JF Journal of Applied Physics
+VO 67
+SP 2653
+OP 2655
+IS 5
+
+RT Journal Article
+ID 52792210
+A1 Smith,James,A.
+A1 Ranson,K.,Jon
+A1 Williams,Darrel,L.
+A1 Levine,Elissa,R.
+A1 Goltz,Stewart,M.
+A1 Katz,Robert,S.
+YR 1990
+T1 Sensor-fusion field experiment in forest ecosystem dynamics
+VO 1300
+SP 117
+OP 132
+
+RT Journal Article
+ID 59187763
+A1 Cucinotta,Francis,A.
+A1 Atwell,William
+A1 Hardy,Alva,C.
+A1 Golightly,Michael,J.
+A1 Wilson,John,W.
+A1 Townsend,Lawrence,W.
+A1 Shinn,Judy
+A1 Nealy,John,E.
+A1 Katz,Robert
+YR 1990
+T1 Predictions of Cell Damage Rates for Lifesat Missions
+
+RT Journal Article
+ID 56202800
+A1 D'Ottavio,T.
+A1 Enriquez,R.
+A1 Katz,R.
+A1 Skelly,J.
+YR 1990
+T1 Programs for control of an analogue-signal switching network
+JF Nuclear Instruments & Methods in Physics Research Section A-accelerators Spectrometers Detectors and Associated Equipment
+VO 293
+SP 177
+OP 182
+
+RT Journal Article
+ID 646889
+A1 Eggers,Susan,J.
+A1 Katz,Randy,H.
+YR 1989
+T1 The Effect of Sharing on the Cache and Bus Performance of Parallel Programs
+JF ACM Sigarch Computer Architecture News
+VO 17
+SP 257
+OP 270
+IS 2
+
+RT Journal Article
+ID 1261703
+A1 Katz,R.,H.
+A1 Gibson,G.,A.
+A1 Patterson,D.,A.
+YR 1989
+T1 Disk system architectures for high performance computing
+JF Proceedings of The IEEE
+VO 77
+SP 1842
+OP 1858
+IS 12
+
+RT Conference Proceedings
+ID 582308
+A1 Schulze,M.
+A1 Gibson,Garth,A.
+A1 Katz,Randy,H.
+A1 Patterson,David,A.
+YR 1989
+T1 How Reliable is a RAID?
+SP 118
+OP 123
+
+RT Journal Article
+ID 550983
+A1 Eggers,Susan,J.
+A1 Katz,Randy,H.
+YR 1989
+T1 Evaluating the Performance of Four Snooping Cache Coherency Protocols
+JF ACM Sigarch Computer Architecture News
+VO 17
+SP 2
+OP 15
+IS 3
+
+RT Journal Article
+ID 668487
+A1 Chang,Ellis,E.
+A1 Katz,Randy,H.
+YR 1989
+T1 Exploiting Inheritance and Structure Semantics for Effective Clustering and Buffering in an Object-Oriented DBMS
+JF Sigmod Record
+VO 18
+SP 348
+OP 357
+IS 2
+
+RT Journal Article
+ID 646915
+A1 Gibson,Garth,A.
+A1 Hellerstein,Lisa
+A1 Karp,Richard,M.
+A1 Katz,Randy,H.
+A1 Patterson,David,A.
+YR 1989
+T1 Failure Correction Techniques for Large Disk Arrays
+JF ACM Sigarch Computer Architecture News
+VO 17
+SP 123
+OP 132
+IS 2
+
+RT Conference Proceedings
+ID 1920686
+A1 Patterson,David,A.
+A1 Chen,Peter,M.
+A1 Gibson,Garth
+A1 Katz,Randy,H.
+YR 1989
+T1 Introduction to redundant arrays of inexpensive disks (RAID)
+
+RT Conference Proceedings
+ID 1400956
+A1 Gibson,G.,A.
+A1 Hellerstein,L.
+A1 Karp,R.,M.
+A1 Katz,R.,H.
+A1 Patterson,D.,A.
+YR 1989
+T1 Coding techniques for handling failures in large disk arrays
+
+RT Journal Article
+ID 34736888
+A1 Cavallari,P.
+A1 Katz,R.
+YR 1989
+T1 Pattern of projections of group I afferents from forearm muscles to motoneurones supplying biceps and triceps muscles in man
+JF Experimental Brain Research
+VO 78
+SP 465
+OP 478
+IS 3
+
+RT Conference Proceedings
+ID 453191
+A1 Silva,Mário,J.
+A1 Gedyet,David
+A1 Katz,Randy,H.
+A1 Newton,Richard
+YR 1989
+T1 Protection and versioning for OCT
+SP 264
+OP 269
+
+RT Journal Article
+ID 875529
+A1 Katz,Randy,H.
+A1 Ousterhout,John,K.
+A1 Patterson,David,A.
+A1 Chen,Peter
+A1 Chervenak,Ann
+A1 Drewes,Rich
+A1 Gibson,Garth
+A1 Lee,Ed
+A1 Lutz,Ken
+A1 Miller,Ethan
+A1 Rosenblum,Mendel
+YR 1989
+T1 A project on high performance I/0 subsystems
+JF ACM Sigarch Computer Architecture News
+VO 17
+SP 24
+OP 31
+IS 5
+
+RT Journal Article
+ID 763909
+A1 Chang,Ellis,E.
+A1 Gedye,David
+A1 Katz,Randy,H.
+YR 1989
+T1 The Design and Implementation of a Version Server for Computer-aided Design
+JF Software - Practice and Experience
+VO 19
+SP 199
+OP 222
+IS 3
+
+RT Journal Article
+ID 36643967
+A1 Bebbington,Paul
+A1 Katz,Randy
+A1 McGuffin,Peter
+A1 Tennant,Christopher
+A1 Hurry,Jane
+YR 1989
+T1 The risk of minor depression before age 65: results from a community survey
+JF Psychological Medicine
+VO 19
+SP 393
+IS 02
+
+RT Conference Proceedings
+ID 49861204
+A1 Silva,M.
+A1 Gedye,D.
+A1 Katz,Randy
+A1 Newton,Richard
+YR 1989
+T1 Protection and Versioning for OCT
+SP 264
+OP 269
+
+RT Journal Article
+ID 551083
+A1 Wood,David,A.
+A1 Katz,Randy,H.
+YR 1989
+T1 Supporting Reference and Dirty Bits in SPUR's Virtual Address Cache
+JF ACM Sigarch Computer Architecture News
+VO 17
+SP 122
+OP 130
+IS 3
+
+RT Journal Article
+ID 15196013
+A1 Gedye,David
+A1 Katz,Randy,H.
+YR 1989
+T1 The design and implementation of a version server for computer-aided design data
+JF Software - Practice and Experience
+VO 19
+SP 199
+OP 222
+IS 3
+
+RT Journal Article
+ID 3271669
+A1 Patterson,D.,A.
+A1 Chen,P.
+A1 Gibson,G.
+A1 Katz,R.,H.
+YR 1989
+T1 Introduction to Redundant Array of Independent Disk
+
+RT Book, Whole
+ID 645995
+A1 Chiueh,Tzi-cker,F.
+A1 Katz,Randy,H.
+A1 King,Valerie
+YR 1989
+T1 Managing the VLSI Design Process
+SP 183
+OP 199
+
+RT Journal Article
+ID 1521937
+A1 Lee,D.,D.
+A1 Kong,S.,I.
+A1 Hill,M.,D.
+A1 Taylor,G.,S.
+A1 Hodges,D.,A.
+A1 Katz,R.,H.
+A1 Patterson,D.,A.
+YR 1989
+T1 A VLSI chip set for a multiprocessor workstation. I. An RISC microprocessor with coprocessor interface and support for symbolic processing
+JF IEEE Journal of Solid-state Circuits
+VO 24
+SP 1688
+OP 1698
+IS 6
+
+RT Journal Article
+ID 33248425
+A1 Spector,David,A.
+A1 Katz,Robert,S.
+A1 Fuller,Harold
+A1 Cristiano,Lynda,M.
+A1 Vitalis,Susan
+A1 Jarrow,John
+YR 1989
+T1 Acute Non-Dilating Obstructive Renal Failure in a Patient with AIDS
+JF American Journal of Nephrology
+VO 9
+SP 129
+OP 132
+IS 2
+
+RT Journal Article
+ID 3886276
+A1 Eggers,S.,J.
+A1 Katz,R.,H.
+YR 1989
+T1 The Ef fect of Sharing on the Cache and Bus Performance
+
+RT Journal Article
+ID 27364522
+A1 Katz,R.,N.
+A1 Field,F.,H.
+YR 1989
+T1 Particle bombardment (keV) mass spectra of a tetramethyltetraphenyltrisiloxane at different temperatures and states of aggregation
+JF International Journal of Mass Spectrometry and Ion Processes
+VO 87
+SP 95
+OP 109
+IS 1
+
+RT Journal Article
+ID 19698436
+A1 KATZ,R
+A1 HUANG,G
+YR 1989
+T1 Track “core” effects in heavy ion radiolysis
+JF International Journal of Radiation Applications and Instrumentation. Part C. Radiation Physics and Chemistry
+VO 33
+SP 345
+OP 349
+IS 4
+
+RT Journal Article
+ID 1375571
+A1 Katz,Randy,H.
+YR 1989
+T1 Aproposal to develop a new curriculum based on rapid prototyping technology for undergraduate hardware design courses
+
+RT Journal Article
+ID 39211607
+A1 Eggers,S.,J.
+A1 Katz,Randy,H.
+YR 1989
+T1 Evaluating the performance of four snooping cache coherency protocols
+JF ACM Sigarch Computer Architecture News
+SP 2
+OP 15
+
+RT Journal Article
+ID 1521940
+A1 Jeong,D.-K.
+A1 Wood,D.,A.
+A1 Gibson,G.,A.
+A1 Eggers,S.,J.
+A1 Hodges,D.,A.
+A1 Katz,R.,H.
+A1 Patterson,D.,A.
+YR 1989
+T1 A VLSI chip set for a multiprocessor workstation. II. A memory management unit and cache controller
+JF IEEE Journal of Solid-state Circuits
+VO 24
+SP 1699
+OP 1707
+IS 6
+
+RT Journal Article
+ID 39216728
+A1 Chang,ElIis,E.
+A1 Katz,R.,H.
+YR 1989
+T1 Exploiting inheritance and structure semantics for effective clustering and buffering in an object-oriented DBMS
+JF Sigmod Record
+SP 348
+OP 357
+
+RT Journal Article
+ID 60402033
+A1 Jeong,D.,K.
+A1 Wood,D.,A.
+A1 Gibson,G.,A.
+A1 Eggers,S.,J.
+A1 Hodges,D.,A.
+A1 Katz,R.,H.
+A1 Patterson,D.,A.
+YR 1989
+T1 A VLSI chip set for a multiprocessor workstation; Part II: A memory management unit and cache controller
+JF IEEE Journal of Solid-state Circuits
+VO 24
+SP 1699
+OP 1707
+IS 6
+
+RT Journal Article
+ID 39211602
+A1 Eggers,Susan,J.
+A1 Katz,Randy,H.
+YR 1989
+T1 The effect of sharing on the cache and bus performance of parallel programs
+JF ACM Sigarch Computer Architecture News
+SP 257
+OP 270
+
+RT Conference Proceedings
+ID 49866437
+A1 Eggers,Susan,J.
+A1 Katz,Randy,H.
+YR 1989
+T1 Evaluating The Performance Of Four Snooping Cache Coherency Protocols
+SP 2
+OP 15
+
+RT Journal Article
+ID 26684013
+A1 KATZ,R
+A1 LEE,C
+A1 ULSOY,A
+A1 SCOTT,R
+YR 1989
+T1 Turning of slender workpieces: Modeling and experiments
+JF Mechanical Systems and Signal Processing
+VO 3
+SP 195
+OP 205
+IS 2
+
+RT Journal Article
+ID 39211620
+A1 Wood,David,A.
+A1 Katz,Randy,H.
+YR 1989
+T1 Supporting reference and dirty bits in SPUR's virtual address cache
+JF ACM Sigarch Computer Architecture News
+SP 122
+OP 130
+
+RT Conference Proceedings
+ID 49866449
+A1 Wood,D.,A.
+A1 Katz,R.,H.
+YR 1989
+T1 Supporting Reference And Dirty Bits In SPUR's Virtual Address Cache
+SP 122
+OP 130
+
+RT Journal Article
+ID 61281202
+A1 Wood,D.,A.
+A1 Gibson,G.,A.
+A1 Katz,R.,H.
+YR 1989
+T1 Verifying a multiprocessor cache controller using random case generation
+
+RT Journal Article
+ID 61303318
+A1 Clifford,T.
+A1 Katz,R.
+A1 Griffiths,C.
+YR 1989
+T1 A C programmer's view of a relational database
+
+RT Journal Article
+ID 19700050
+A1 KATZ,R
+YR 1989
+T1 Perspectives on the development of track physics
+JF International Journal of Radiation Applications and Instrumentation. Part D. Nuclear Tracks and Radiation Measurements
+VO 16
+SP 221
+OP 224
+IS 2-3
+
+RT Journal Article
+ID 18782631
+A1 Katz,Robert
+YR 1989
+T1 Detector response to swift heavy ions
+JF Radiation Effects and Defects in Solids
+VO 110
+SP 177
+OP 179
+IS 1-2
+
+RT Journal Article
+ID 26259886
+A1 Katz,Robert
+YR 1989
+T1 Particle tracks in diverse media
+JF Nuclear Instruments & Methods in Physics Research Section B-beam Interactions With Materials and Atoms
+VO 40
+SP 1271
+OP 1274
+
+RT Journal Article
+ID 667354
+A1 Patterson,David,A.
+A1 Gibson,Garth,A.
+A1 Katz,Randy,H.
+YR 1988
+T1 A case for redundant arrays of inexpensive disks (RAID)
+JF Sigmod Record
+VO 17
+SP 109
+OP 116
+IS 3
+
+RT Journal Article
+ID 550982
+A1 Eggers,Susan,J.
+A1 Katz,Randy,H.
+YR 1988
+T1 A characterization of sharing in parallel programs and its application to coherency protocol evaluation
+JF ACM Sigarch Computer Architecture News
+VO 16
+SP 373
+OP 382
+IS 2
+
+RT Conference Proceedings
+ID 3073981
+A1 Balakrishnan,H.
+A1 Katz,R.
+YR 1988
+T1 Explicit loss notification and wireless web performance
+
+RT Conference Proceedings
+ID 141747
+A1 Stonebraker,Michael
+A1 Katz,Randy,H.
+A1 Patterson,David,A.
+A1 Ousterhout,John,K.
+YR 1988
+T1 The Design of XPRS
+SP 318
+OP 330
+
+RT Journal Article
+ID 288217
+A1 Hellerstein,Lisa
+A1 Gibson,Garth,A.
+A1 Karp,Richard,M.
+A1 Katz,Randy,H.
+YR 1988
+T1 Coding Techniques for Handling Failures in Large Disk Arrays
+
+RT Journal Article
+ID 1250603
+A1 Wood,D.,A.
+A1 Gibson,G.,A.
+A1 Katz,R.,H.
+YR 1988
+T1 Verifying a mulitprocessor cache controller using random case generation
+JF IEEE Design & Test of Computers
+
+RT Conference Proceedings
+ID 1266441
+A1 Patterson,D.
+A1 Gibson,R.
+A1 Katz,R.
+YR 1988
+T1 The case for raid: redundant arrays of inexpensive disks
+
+RT Journal Article
+ID 37636161
+A1 KATZ,R.
+A1 MEUNIER,S.
+A1 PIERROT-DESEILLIGNY,E.
+YR 1988
+T1 CHANGES IN PRESYNAPTIC INHIBITION OF Ia FIBRES IN MAN WHILE STANDING
+JF Brain
+VO 111
+SP 417
+OP 437
+IS 2
+
+RT Conference Proceedings
+ID 451780
+A1 Obermeier,Fred,W.
+A1 Katz,Randy,H.
+YR 1988
+T1 An electrical optimizer that considers physical layout
+SP 453
+OP 459
+
+RT Conference Proceedings
+ID 49847073
+A1 Saldanha,A.
+A1 Katz,R.,H.
+YR 1988
+T1 PLA optimization using output encoding
+
+RT Journal Article
+ID 778818
+A1 Katz,Randy,H.
+A1 Ousterhout,John,K.
+A1 Patterson,David,A.
+A1 Stonebraker,Michael
+YR 1988
+T1 A Project on High Performance I/O Subsystems
+JF IEEE Data(base) Engineering Bulletin
+VO 11
+SP 40
+OP 47
+IS 1
+
+RT Conference Proceedings
+ID 453268
+A1 Gedye,David
+A1 Katz,Randy,H.
+YR 1988
+T1 Browsing in chip design database
+SP 269
+OP 274
+
+RT Conference Proceedings
+ID 1263854
+A1 Eggers,S.,J.
+A1 Katz,R.,H.
+YR 1988
+T1 Evaluation of the performance of four snooping cache coherency protocols
+
+RT Journal Article
+ID 1399312
+A1 Chen,Peter
+A1 Gibson,Garth
+A1 Katz,Randy,H.
+A1 Patterson,David,A.
+A1 Schulze,Martin
+YR 1988
+T1 Two papers on raids
+
+RT Journal Article
+ID 3197545
+A1 Katz,B.
+YR 1988
+T1 How to market professional services
+
+RT Conference Proceedings
+ID 49847035
+A1 Obermeier,Fred,W.
+A1 Katz,Randy,H.
+YR 1988
+T1 Combining circuit level changes with electrical optimization
+
+RT Conference Proceedings
+ID 2634396
+A1 Miller,E.,L.
+A1 Katz,R.,H.
+YR 1988
+T1 A survey of gossiping and broadcasting in communication networks
+
+RT Journal Article
+ID 1954280
+A1 Stonebraker,M.
+A1 Katz,R.
+A1 Patterson,D.
+A1 Ousterhout,J.
+YR 1988
+T1 The deslgn of xprs
+
+RT Journal Article
+ID 39216663
+A1 Patterson,David,A.
+A1 Gibson,Garth
+A1 Katz,Randy,H.
+YR 1988
+T1 A case for redundant arrays of inexpensive disks (RAID)
+JF Sigmod Record
+SP 109
+OP 116
+
+RT Journal Article
+ID 57393798
+A1 Patterson,David,A.
+A1 Gibson,Garth
+A1 Katz,Randy,H.
+YR 1988
+T1 A case for redundant arrays of inexpensive disks (RAID)
+
+RT Conference Proceedings
+ID 49846804
+A1 Eggers,Susan,J.
+A1 Katz,R.,H.
+YR 1988
+T1 A characterization of sharing in parallel programs and its application to coherency protocol evaluation
+
+RT Journal Article
+ID 61206407
+A1 Eggers,S.,J.
+A1 Katz,R.,H.
+YR 1988
+T1 The effect of sharing on the cache and bus performance of parallel programs
+
+RT Journal Article
+ID 58798479
+A1 Katz,B.
+A1 Emeis,K.,C.
+YR 1988
+T1 Hydrocarbon Shows In Scientific Ocean Drilling
+
+RT Conference Proceedings
+ID 1265753
+A1 Borriello,G.
+A1 Katz,R.,H.
+YR 1987
+T1 Synthesis and optimization of interface transducer logic
+
+RT Conference Proceedings
+ID 578504
+A1 Katz,Randy,H.
+A1 Chang,Ellis,E.
+YR 1987
+T1 Managing Change in a Computer-Aided Design Database
+SP 455
+OP 462
+
+RT Journal Article
+ID 1523936
+A1 Jeong,D.,K.
+A1 Borriello,G.
+A1 Hodges,D.,A.
+A1 Katz,R.,H.
+YR 1987
+T1 Design of PLL-based clock generation circuits
+JF IEEE Journal of Solid-state Circuits
+VO 22
+SP 255
+OP 261
+IS 2
+
+RT Journal Article
+ID 47010345
+A1 Katz,Randy
+A1 Bhateja,Rajiv
+A1 Chang,Ellis
+A1 Gedye,David
+A1 Trijanto,Vony
+YR 1987
+T1 Design Version Management
+JF IEEE Design & Test of Computers
+VO 4
+SP 12
+OP 22
+IS 1
+
+RT Journal Article
+ID 36643685
+A1 Katz,Randy
+A1 McGuffin,Peter
+YR 1987
+T1 Neuroticism in familial depression
+JF Psychological Medicine
+VO 17
+SP 155
+IS 01
+
+RT Conference Proceedings
+ID 452075
+A1 Bhateja,Rajiv
+A1 Katz,Randy,H.
+YR 1987
+T1 VALKYRIE: a validation subsystem of a version server for computer-aided design data
+SP 321
+OP 327
+
+RT Journal Article
+ID 32468839
+A1 McGuffin,Peter
+A1 Katz,Randy
+A1 Bebbington,Paul
+YR 1987
+T1 Hazard, heredity and depression. A family study
+JF Journal of Psychiatric Research
+VO 21
+SP 365
+OP 375
+IS 4
+
+RT Journal Article
+ID 2645028
+A1 Bhateja,B.
+A1 Katz,R.,N.
+YR 1987
+T1 A Validation Subsystem of a Version Server for Computer-aided Design Data
+
+RT Journal Article
+ID 2669159
+A1 Katz,B.
+A1 Fermanian,T.,W.
+A1 Michalski,R.,S.
+YR 1987
+T1 AgAssistant: An Experimental Expert System Builder for Agricultural Applications
+
+RT Journal Article
+ID 27364302
+A1 Katz,R.,N.
+A1 Chaudhary,T.
+A1 Field,F.,H.
+YR 1987
+T1 Particle bombardment (keV) mass spectra of ethylene glycol, glycerol, and water at sub-ambient temperatures
+JF International Journal of Mass Spectrometry and Ion Processes
+VO 78
+SP 85
+OP 97
+
+RT Journal Article
+ID 51819778
+A1 Abola,A.
+A1 Casella,R.
+A1 Clifford,T.
+A1 Hoff,L.
+A1 Katz,R.
+A1 Kennell,S.
+A1 Mandell,S.
+A1 McBreen,E.
+A1 Weygand,D.,P.
+YR 1987
+T1 Experience in Using Workstations as Hosts in an Accelerator Control Environment
+
+RT Conference Proceedings
+ID 49841439
+A1 Bhateja,Rajiv
+A1 Katz,Randy,H.
+YR 1987
+T1 VALKYRIE: A Validation Subsystem of a Version Server for Computer-Aided Design Data
+SP 321
+OP 327
+
+RT Journal Article
+ID 57795870
+A1 Katz,Richard,W.
+A1 Murphy,Allan,H.
+YR 1987
+T1 Quality/Value Relationship for Imperfect Information in the Umbrella Problem
+JF American Statistician
+VO 41
+SP 187
+OP 189
+IS 3
+
+RT Journal Article
+ID 60033145
+A1 Waligorski,M.,P.
+A1 Sinclair,G.,L.
+A1 Katz,R.
+YR 1987
+T1 Radiosensitivity parameters for neoplastic transformations in C3H10T1/2 cells
+
+RT Journal Article
+ID 61398276
+A1 Johnston,G.,W.
+A1 Katz,B.
+A1 Tsukiyama,K.
+A1 Bersohn,R.
+YR 1987
+T1 Isotopic variants of the H + Hâ reaction. 1. Total reaction cross sections of the H + Dâ and H + HD reactions as a function of relative energy
+
+RT Journal Article
+ID 667056
+A1 Katz,Randy,H.
+A1 Chang,Ellis,E.
+A1 Bhateja,Rajiv
+YR 1986
+T1 Version Modeling Concepts for Computer-Aided Design Databases
+JF Sigmod Record
+VO 15
+SP 379
+OP 386
+IS 2
+
+RT Journal Article
+ID 550961
+A1 Wood,David,A.
+A1 Eggers,Susan,J.
+A1 Gibson,Garth,A.
+A1 Hill,Mark,D.
+A1 Pendleton,Joan,M.
+A1 Ritchie,Scott,A.
+A1 Taylor,George,S.
+A1 Katz,Randy,H.
+A1 Patterson,David,A.
+YR 1986
+T1 An in-cache address translation mechanism
+JF ACM Sigarch Computer Architecture News
+VO 14
+SP 358
+OP 365
+IS 2
+
+RT Conference Proceedings
+ID 451364
+A1 Katz,Randy,H.
+A1 Anwarrudin,M.
+A1 Chang,Ellis,E.
+YR 1986
+T1 A version server for computer-aided design data
+SP 27
+OP 33
+
+RT Journal Article
+ID 36643617
+A1 McGuffin,Peter
+A1 Katz,Randy
+A1 Aldrich,Julie
+YR 1986
+T1 Past and Present State Examination: the assessment of ‘lifetime ever’ psychopathology
+JF Psychological Medicine
+VO 16
+SP 461
+IS 02
+
+RT Conference Proceedings
+ID 1398633
+A1 Allen,T.,J.
+A1 Katz,R.
+YR 1986
+T1 The dual ladder: motivational solution or, managerial delusion?
+
+RT Journal Article
+ID 1260194
+A1 Lams,J.,R.
+A1 Taylor,G.,S.
+A1 Adams,G.
+A1 Bose,B.,K.
+A1 Kgion,G.
+A1 Hansen,P.,M.
+A1 Keller,J.
+A1 Pendleton,J.,M.
+A1 Ritchie,S.,A.
+A1 Wood,D.,A.
+A1 Zorn,B.,G.
+A1 Hibinger,P.,N.
+A1 Hodges,D.
+A1 Katz,R.,H.
+A1 Ousterhout,I.
+A1 Patterson,D.,A.
+YR 1986
+T1 Spur: a vlsi multiprocessor workstation
+
+RT Journal Article
+ID 19699521
+A1 Katz,Robert
+A1 Sinclair,G.,L.
+A1 Waligorski,M.,P.,R.
+YR 1986
+T1 The Fricke Dosimeter as a 1Hit Detector
+JF International Journal of Radiation Applications and Instrumentation. Part D. Nuclear Tracks and Radiation Measurements
+VO 11
+SP 301
+OP 307
+IS 6
+
+RT Journal Article
+ID 40738960
+A1 Katz,R
+YR 1986
+T1 Biological effects of heavy ions from the standpoint of target theory
+JF Advances in Space Research
+VO 6
+SP 191
+OP 198
+IS 11
+
+RT Conference Proceedings
+ID 49837250
+A1 Katz,R.,H.
+A1 Anwarrudin,M.
+A1 Chang,E.
+YR 1986
+T1 A Version Server for Computer-Aided Design Data
+SP 27
+OP 33
+
+RT Journal Article
+ID 1283248
+A1 Bobrow,D.,G.
+A1 Katz,R.
+YR 1986
+T1 Context structuresivenion[ng: a survey
+
+RT Conference Proceedings
+ID 627477
+A1 Katz,Randy,H.
+YR 1986
+T1 Inheritance Semantics for Computer-Aided Design Databases
+SP 219
+OP 220
+
+RT Journal Article
+ID 39216613
+A1 Katz,Randy,H.
+A1 Chang,Ellis
+A1 Bhateja,Rajiv
+YR 1986
+T1 Version modeling concepts for computer-aided design databases
+JF Sigmod Record
+SP 379
+OP 386
+
+RT Journal Article
+ID 19699557
+A1 KATZ,R
+A1 DUNN,D
+A1 SINCLAIR,G
+YR 1986
+T1 Thindown
+JF International Journal of Radiation Applications and Instrumentation. Part D. Nuclear Tracks and Radiation Measurements
+VO 12
+SP 21
+OP 24
+IS 1-6
+
+RT Journal Article
+ID 46939414
+A1 Grossman,Michael
+A1 Katz,Robert
+YR 1986
+T1 A new approach to means of two positive numbers
+JF International Journal of Mathematical Education in Science and Technology
+VO 17
+SP 205
+OP 208
+IS 2
+
+RT Journal Article
+ID 22861869
+A1 Tsukiyama,K.
+A1 Katz,B.
+A1 Bersohn,R.
+YR 1986
+T1 Competition between photodissociation and photoionization in methyl iodide
+JF Chemical Physics Letters
+VO 124
+SP 309
+OP 312
+IS 4
+
+RT Journal Article
+ID 22861928
+A1 Katz,B.
+A1 Tsukiyama,K.
+A1 Bersohn,R.
+YR 1986
+T1 Third harmonic generation by iodine atoms and methyl iodide molecules
+JF Chemical Physics Letters
+VO 125
+SP 19
+OP 21
+IS 1
+
+RT Journal Article
+ID 54032324
+A1 Tsukiyama,K.
+A1 Katz,B.
+A1 Bersohn,R.
+YR 1986
+T1 Total reactive cross sections for the reaction H + D2 = HD + D
+JF Chemical Physics
+VO 84
+SP 1934
+
+RT Conference Proceedings
+ID 49839972
+A1 Katz,R.
+YR 1986
+T1 Reduced instruction set computers
+
+RT Journal Article
+ID 551189
+A1 Katz,Randy,H.
+A1 Eggers,Susan,J.
+A1 Wood,David,A.
+A1 Perkins,C.,L.
+A1 Sheldon,R.,G.
+YR 1985
+T1 Implementing a cache consistency protocol
+JF ACM Sigarch Computer Architecture News
+VO 13
+SP 276
+OP 283
+IS 3
+
+RT Journal Article
+ID 764045
+A1 Chou,Hong-tai
+A1 Dewitt,David,J.
+A1 Katz,Randy,H.
+A1 Klug,Anthony,C.
+YR 1985
+T1 Design and Implementation of the Wisconsin Storage System
+JF Software - Practice and Experience
+VO 15
+SP 943
+OP 962
+IS 10
+
+RT Conference Proceedings
+ID 634993
+A1 Katz,Randy,H.
+A1 Anwarrudin,M.
+A1 Chang,Ellis,E.
+YR 1985
+T1 Organizing A Design Database Across Time
+SP 287
+OP 295
+
+RT Journal Article
+ID 1276936
+A1 Katz,R.
+A1 Eggers,S.
+A1 Wood,D
+A1 Perkins,C.
+A1 Sheldon,R.,G.
+YR 1985
+T1 Implementing a cache coherence protocol
+
+RT Journal Article
+ID 34735686
+A1 Cavallari,P.
+A1 Fournier,E.
+A1 Katz,R.
+A1 Malmgren,K.
+A1 Pierrot-Deseilligny,E.
+A1 Shindo,M.
+YR 1985
+T1 Cutaneous facilitation of transmission in Ib reflex pathways in the human upper limb
+JF Experimental Brain Research
+VO 60
+SP 197
+OP 199
+IS 1
+
+RT Journal Article
+ID 36989207
+A1 Katz,Randy
+A1 Wykes,Til
+YR 1985
+T1 The Psychological Difference Between Temporally Predictable and Unpredictable Stressful Events: Evidence for Information Control Theories
+JF Journal of Personality and Social Psychology
+VO 48
+SP 781
+OP 790
+IS 3
+
+RT Journal Article
+ID 1927672
+A1 Katz,Randy,H
+A1 Eggers,Susan,J.
+A1 Wood,David,A.
+A1 Perkins,C.,L.
+YR 1985
+T1 Sheldon implementing a cache consistency protocol in proceedzngs of the 12th annual international symposzum on computer architecture
+
+RT Conference Proceedings
+ID 635141
+A1 Bobrow,Daniel,G.
+A1 Katz,Randy,H.
+YR 1985
+T1 Context Structures/Versioning: A Survey
+SP 453
+OP 459
+
+RT Journal Article
+ID 40803046
+A1 KATZ,R
+YR 1985
+T1 Applications of high performance ceramics in heat engine design
+JF Materials Science and Engineering
+VO 71
+SP 227
+OP 249
+
+RT Journal Article
+ID 1268077
+A1 Katz,R,H
+YR 1985
+T1 Informauon management for engmeenng destgn
+
+RT Conference Proceedings
+ID 900769
+A1 Obermeier,Fred,W.
+A1 Katz,Randy,H.
+YR 1985
+T1 PLA driver selection: an analytic approach
+SP 798
+OP 802
+
+RT Conference Proceedings
+ID 49833661
+A1 Obermeier,Fred,W.
+A1 Katz,Randy,H.
+YR 1985
+T1 PLA Driver Selection: An Analytic Approach
+SP 798
+OP 802
+
+RT Journal Article
+ID 36989208
+A1 Katz,Randy
+A1 Wykes,Til
+YR 1985
+T1 The psychological difference between temporally predictable and unpredictable stressful events: Evidence for information control theories
+JF Journal of Personality and Social Psychology
+VO 48
+SP 781
+OP 790
+IS 3
+
+RT Journal Article
+ID 54860814
+A1 Tsukiyama,K.
+A1 Katz,B.
+A1 Bersohn,R.
+YR 1985
+T1 Isotopic branching ratio for the reaction A+HD --> AD(H)+H(D)
+JF Chemical Physics
+VO 83
+SP 2889
+OP 2893
+
+RT Journal Article
+ID 56360619
+A1 Katz,B.
+YR 1985
+T1 Canada: Perseids
+
+RT Journal Article
+ID 667636
+A1 DeWitt,David,J.
+A1 Katz,Randy,H.
+A1 Olken,Frank
+A1 Shapiro,Leonard,D.
+A1 Wood,David,A.
+YR 1984
+T1 Implementation techniques for main memory database systems
+JF Sigmod Record
+VO 14
+SP 1
+OP 8
+IS 2
+
+RT Journal Article
+ID 766774
+A1 Katz,Randy,H.
+A1 Lehman,Tobin,J.
+YR 1984
+T1 Database Support for Versions and Alternatives of Large Design Files
+JF IEEE Transactions on Software Engineering
+VO 10
+SP 191
+OP 200
+IS 2
+
+RT Journal Article
+ID 39216531
+A1 DeWitt,David,J
+A1 Katz,Randy,H
+A1 Olken,Frank
+A1 Shapiro,Leonard,D
+A1 Stonebraker,Michael,R
+A1 Wood,David,A.
+YR 1984
+T1 Implementation techniques for main memory database systems
+JF Sigmod Record
+SP 1
+OP 8
+
+RT Journal Article
+ID 1317164
+A1 Katz,Randy,H.
+YR 1984
+T1 Information management for engineering design
+
+RT Conference Proceedings
+ID 900908
+A1 Katz,Randy,H.
+A1 Weiss,Shlomo
+YR 1984
+T1 Design transaction management
+SP 692
+OP 693
+
+RT Journal Article
+ID 1288707
+A1 Katz,R.
+A1 Lehman,T.
+YR 1984
+T1 Storage structures for versions and alternative
+
+RT Journal Article
+ID 1284241
+A1 Dewatt,D,J
+A1 Katz,R,H
+A1 Olken,F
+A1 Shapiro,L,D
+A1 Stonebraker,M,R
+YR 1984
+T1 D wood implementation techmques for main memory database systems in proceedsngs of a cm- sigmod internahonal conference on management of data
+
+RT Journal Article
+ID 34735458
+A1 Cavallari,P.
+A1 Fournier,E.
+A1 Katz,R.
+A1 Pierrot-Deseilligny,E.
+A1 Shindo,M.
+YR 1984
+T1 Changes in reciprocal Ia inhibition from wrist extensors to wrist flexors during voluntary movement in man
+JF Experimental Brain Research
+VO 56
+SP 574
+OP 576
+IS 3
+
+RT Journal Article
+ID 34735420
+A1 Fournier,E.
+A1 Katz,R.
+A1 Pierrot-Deseilligny,E.
+YR 1984
+T1 A re-evaluation of the pattern of group I fibre projections in the human lower limb on using randomly alternated stimulations
+JF Experimental Brain Research
+VO 56
+SP 193
+OP 195
+IS 1
+
+RT Journal Article
+ID 38236201
+A1 Katz,Randy
+YR 1984
+T1 Unconfounded Electrodermal Measures in Assessing the Aversiveness of Predictable and Unpredictable Shocks
+JF Psychophysiology
+VO 21
+SP 452
+OP 458
+IS 4
+
+RT Journal Article
+ID 1298086
+A1 Katz,R.,H.
+A1 Eggers,S.,J.
+A1 Wood,D.,A.
+A1 Ai,Et
+YR 1984
+T1 Implementing a cache consistencst protocol
+
+RT Journal Article
+ID 19701460
+A1 KATZ,R
+YR 1984
+T1 Formation of etchable tracks in plastics
+JF Nuclear Tracks and Radiation Measurements (1982)
+VO 8
+SP 1
+OP 8
+IS 1-4
+
+RT Journal Article
+ID 1351023
+A1 Katz,R.,H.
+A1 Scacchi,W.
+A1 Subrahmanyam,P.
+YR 1984
+T1 Development environments for vlsi and software
+
+RT Journal Article
+ID 2172344
+A1 Katz,Randy,H.
+A1 Scacchi,Walt
+A1 Subrahmanyam,P.
+YR 1984
+T1 Environments for VLSI and software engineering
+JF Journal of Systems and Software
+VO 4
+SP 13
+OP 26
+IS 1
+
+RT Journal Article
+ID 54148727
+A1 Lindzen,R.,S.
+A1 Straus,D.,M.
+A1 Katz,B.
+YR 1984
+T1 The growth, propagation and decay of global scale Rossby waves during FGGE
+
+RT Journal Article
+ID 46939227
+A1 Grossman,Michael
+A1 Katz,Robert
+YR 1984
+T1 Isomorphic calculi
+JF International Journal of Mathematical Education in Science and Technology
+VO 15
+SP 253
+OP 263
+IS 2
+
+RT Journal Article
+ID 778802
+A1 Katz,Randy,H.
+YR 1984
+T1 Letter from the Associate Editor
+JF IEEE Data(base) Engineering Bulletin
+VO 7
+SP 2
+IS 2
+
+RT Journal Article
+ID 778978
+A1 Katz,Randy,H.
+YR 1984
+T1 Database Management and Computer-Assisted VLSI Fabrication
+JF IEEE Data(base) Engineering Bulletin
+VO 7
+SP 35
+OP 38
+IS 2
+
+RT Journal Article
+ID 60078932
+A1 Melese,G.
+A1 Katz,R.
+YR 1984
+T1 Thermal and flow design of helium-cooled reactors
+
+RT Journal Article
+ID 54616771
+A1 Katz,Robert
+YR 1984
+T1 Particle Tracks
+
+RT Journal Article
+ID 846825
+A1 Katz,Randy,H.
+YR 1983
+T1 Managing the Chip Design Database
+JF IEEE Computer
+VO 16
+SP 26
+OP 36
+IS 12
+
+RT Journal Article
+ID 667566
+A1 Wong,Eugene
+A1 Katz,Randy,H.
+YR 1983
+T1 Distributing A Database for Parallelism
+JF Sigmod Record
+VO 13
+SP 23
+OP 29
+IS 4
+
+RT Journal Article
+ID 1301260
+A1 Smith,J.,E.
+A1 Pleszkun,A.,R.
+A1 Katz,R.,H.
+A1 Goodman,J.,R.
+YR 1983
+T1 Pipe: a high performance VLSI architecture
+
+RT Journal Article
+ID 803808
+A1 Katz,Randy,H.
+A1 Wong,Eugene
+YR 1983
+T1 Rosolving conflicts in global storage design through replication
+JF ACM Transactions on Database Systems
+VO 8
+SP 110
+OP 135
+IS 1
+
+RT Conference Proceedings
+ID 900923
+A1 Katz,Randy,H.
+A1 Weiss,Shlomo
+YR 1983
+T1 Chip assemblers: Concepts and capabilities
+SP 25
+OP 30
+
+RT Conference Proceedings
+ID 531435
+A1 Katz,Randy,H.
+YR 1983
+T1 Transaction Management in the Design Environment
+SP 259
+OP 273
+
+RT Journal Article
+ID 19701438
+A1 KATZ,R
+YR 1983
+T1 Track formation in plastics
+JF Nuclear Tracks and Radiation Measurements (1982)
+VO 7
+SP 31
+OP 34
+IS 1-2
+
+RT Journal Article
+ID 39216512
+A1 Wong,E.
+A1 Katz,R.,H.
+YR 1983
+T1 Distributing a database for parallelism
+JF Sigmod Record
+SP 23
+OP 29
+
+RT Journal Article
+ID 1296359
+A1 Katz,R.,H.
+A1 Weiss,S.
+YR 1983
+T1 A standard design frame for vlsi circuit prototyping
+
+RT Journal Article
+ID 22858647
+A1 Bachackashvilli,A.
+A1 Efrima,S.
+A1 Katz,B.
+A1 Priel,Z.
+YR 1983
+T1 Is there surface enhancement of raman scattering by molecules at resonance?
+JF Chemical Physics Letters
+VO 94
+SP 571
+OP 575
+IS 6
+
+RT Journal Article
+ID 22858804
+A1 Fischer,Gad
+A1 Katz,B.
+YR 1983
+T1 Vibronic interactions in s-triazine spectra
+JF Chemical Physics Letters
+VO 96
+SP 47
+OP 51
+IS 1
+
+RT Conference Proceedings
+ID 901028
+A1 Wong,Stanley
+A1 Haynie,Mark,N.
+A1 Bennett,Jack
+A1 Coelho,David,R.
+A1 Katz,Randy,H.
+A1 Sanborn,Jere,L.
+YR 1983
+T1 The relational data model for CAD(Tutorial/Panel/Workshop): Close encounters of the third normal form
+SP 598
+
+RT Conference Proceedings
+ID 49827180
+A1 Wong,Stanley
+A1 Haynie,Mark,N.
+A1 Bennett,Jack
+A1 Coelho,David,R.
+A1 Katz,Randy,H.
+A1 Sanborn,Jere,L.
+YR 1983
+T1 The Relational Data Model for CAD: Close Encounters of the Third Normal Form
+SP 598
+OP 598
+
+RT Journal Article
+ID 55128756
+A1 Anderson,R.,V.
+A1 Bost,D.
+A1 Determan,W.,R.
+A1 Harty,R.,B.
+A1 Katz,B.
+A1 Keshishian,V.
+A1 Lillie,A.,F.
+A1 Thomson,W.,B.
+YR 1983
+T1 Space reactor electric systems: System integration studies, phase 1
+
+RT Journal Article
+ID 60092441
+A1 Anderson,R.,V.
+A1 Bost,D.
+A1 Determan,W.,R.
+A1 Harty,R.,B.
+A1 Katz,B.
+A1 Keshishian,V.
+A1 Lillie,A.,F.
+A1 Thomson,W.,B.
+YR 1983
+T1 Space reactor electric systems: system integration studies, Phase 1 report
+
+RT Conference Proceedings
+ID 565506
+A1 Dayal,Umeshwar
+A1 Goodman,Nathan
+A1 Katz,Randy,H.
+YR 1982
+T1 An extended relational algebra with control over duplicate elimination
+SP 117
+OP 123
+
+RT Conference Proceedings
+ID 901112
+A1 Katz,Randy,H.
+YR 1982
+T1 A database approach for managing VLSI design data
+SP 274
+OP 282
+
+RT Journal Article
+ID 1313998
+A1 Katz,R
+A1 Lehman,T
+YR 1982
+T1 Storage structures for versions and alternauves
+
+RT Journal Article
+ID 803807
+A1 Katz,Randy,H.
+A1 Wong,Eugene
+YR 1982
+T1 Decompiling CODASYL DML into retional queries
+JF ACM Transactions on Database Systems
+VO 7
+SP 1
+OP 23
+IS 1
+
+RT Journal Article
+ID 778977
+A1 Katz,Randy,H.
+YR 1982
+T1 DAVID: Design Aids for VLSI using Inegrated Databases
+JF IEEE Data(base) Engineering Bulletin
+VO 5
+SP 29
+OP 32
+IS 2
+
+RT Journal Article
+ID 16484929
+A1 Glasnier,Moses
+A1 Katz,Richard
+YR 1982
+T1 Limits of Dirichlet finite functions along curves
+JF Rocky Mountain Journal of Mathematics
+VO 12
+SP 429
+OP 436
+IS 1982
+
+RT Conference Proceedings
+ID 617009
+A1 Katz,Randy,H.
+YR 1982
+T1 Compilation of Relational Queries into CODASYL DML
+SP 427
+OP 450
+
+RT Journal Article
+ID 854981
+A1 Boral,Haran
+A1 DeWitt,David,J.
+A1 Katz,Randy,H.
+A1 Klug,Anthony,C.
+YR 1982
+T1 Database research activities at the University of Wisconsin
+JF Sigmod Record
+VO 12
+SP 19
+OP 26
+IS 3
+
+RT Journal Article
+ID 778801
+A1 Katz,Randy,H.
+YR 1982
+T1 Letter from the Guest Editor
+JF IEEE Data(base) Engineering Bulletin
+VO 5
+SP 1
+IS 2
+
+RT Journal Article
+ID 1276263
+A1 Katz,Richard,W.
+YR 1981
+T1 On Some Criteria for Estimating the Order of a Markov Chain
+JF Technometrics
+VO 23
+SP 243
+OP 249
+IS 3
+
+RT Conference Proceedings
+ID 430785
+A1 Katz,Randy,H.
+A1 Goodman,Nathan
+YR 1981
+T1 View Processing in MULTIBASE, A Heterogeneous Database System
+SP 257
+OP 277
+
+RT Journal Article
+ID 34734712
+A1 Pierrot-Deseilligny,E.
+A1 Bergego,C.
+A1 Katz,R.
+A1 Morin,C.
+YR 1981
+T1 Cutaneous depression of Ib reflex pathways to motoneurones in man
+JF Experimental Brain Research
+VO 42
+SP 351
+OP 361
+IS 3
+
+RT Journal Article
+ID 53134110
+A1 Katz,R.
+A1 Pawlick,L.
+A1 Spencer,B.
+YR 1981
+T1 Energy in New England: Transition to the 80's
+
+RT Journal Article
+ID 854398
+A1 Katz,Randy,H.
+YR 1981
+T1 On the criteria for selecting the site of the annual SIGMOD conference
+JF Sigmod Record
+VO 11
+SP 8
+OP 11
+IS 4
+
+RT Journal Article
+ID 14414852
+A1 Katz,Randy,H.
+YR 1981
+T1 Heterogeneous databases and high level abstraction
+JF Sigmod Record
+VO 11
+SP 135
+OP 137
+IS 2
+
+RT Journal Article
+ID 14409482
+A1 Katz,Randy,H.
+YR 1981
+T1 Heterogeneous databases and high level abstraction
+JF Sigplan Notices
+VO 16
+SP 135
+OP 137
+IS 1
+
+RT Journal Article
+ID 4450015
+A1 Katz,Randy,H.
+YR 1981
+T1 Heterogeneous databases and high level abstraction
+JF Intelligence/sigart Bulletin
+SP 135
+OP 137
+IS 74
+
+RT Journal Article
+ID 1395053
+A1 Katz,R.,H.
+YR 1980
+T1 Database design and translation for multiple data models
+
+RT Conference Proceedings
+ID 667668
+A1 Katz,Randy,H.
+A1 Wong,Eugene
+YR 1980
+T1 An access path model for physical database design
+SP 22
+OP 29
+
+RT Conference Proceedings
+ID 667283
+A1 Katz,Randy,H.
+YR 1980
+T1 Heterogeneous Databases and High Level Abstraction
+SP 135
+OP 137
+
+RT Journal Article
+ID 53315274
+A1 Baumbick,R.,J.
+A1 Alexander,J.
+A1 Katz,R.
+A1 Terry,J.
+YR 1980
+T1 Optical sensors for aeronautics and space
+
+RT Journal Article
+ID 60476562
+A1 Maya,I.
+A1 Schultz,K.,R.
+A1 Katz,R.
+A1 Dombek,F.,S.
+YR 1980
+T1 Safety evaluation of hybrid blanket concepts
+
+RT Journal Article
+ID 60386176
+A1 Roth,R.,A.
+A1 Katz,R.
+YR 1980
+T1 Heavy ion beam model for radiobiology
+
+RT Journal Article
+ID 61247141
+A1 Torri,A.
+A1 Katz,R.
+YR 1980
+T1 Integration of reliability objectives into GCFR Accident Prevention Program
+
+RT Conference Proceedings
+ID 430720
+A1 Wong,Eugene
+A1 Katz,Randy,H.
+YR 1979
+T1 Logical Design and Schema Conversion for Relational and DBTG Databases
+SP 311
+OP 322
+
+RT Journal Article
+ID 35083143
+A1 PIERROTDESEILLIGNY,E
+A1 KATZ,R
+A1 MORIN,C
+YR 1979
+T1 Evidence for lb inhibition in human subjects
+JF Brain Research
+VO 166
+SP 176
+OP 179
+IS 1
+
+RT Journal Article
+ID 46460942
+A1 Katz,B.
+YR 1979
+T1 Elementary components of synaptic transmission
+JF Naturwissenschaften
+VO 66
+SP 606
+OP 610
+IS 12
+
+RT Journal Article
+ID 60229395
+A1 Oldenkamp,R.,D.
+A1 Gehri,D.,C.
+A1 Katz,B.
+YR 1979
+T1 Aqueous carbonate process for flue gas desulfurization: a status report
+
+RT Journal Article
+ID 60404152
+A1 Oldenkamp,R.,D.
+A1 Gehri,D.,C.
+A1 Katz,B.
+YR 1979
+T1 Aqueous carbonate process for flue gas desulfurization (FGD) a status report
+
+RT Journal Article
+ID 55079551
+A1 Hajela,G.,P.
+A1 Katz,B.
+YR 1978
+T1 Effect of noncondensable gases on geothermal power generation
+
+RT Journal Article
+ID 38319378
+A1 Katz,R
+A1 Morin,C
+A1 Pierrot-Deseilligny,E
+A1 Hibino,R
+YR 1977
+T1 Conditioning of H reflex by a preceding subthreshold tendon reflex stimulus
+JF Journal of Neurology Neurosurgery and Psychiatry
+VO 40
+SP 575
+OP 580
+IS 6
+
+RT Journal Article
+ID 14363594
+A1 Swanson,G.,D.
+A1 Jenkins,H.
+A1 Ward,P.
+A1 Katz,R.
+A1 Strelioff,D.
+YR 1977
+T1 Biological signal conditioning for system identification
+JF Proceedings of The IEEE
+VO 65
+SP 735
+OP 740
+IS 5
+
+RT Journal Article
+ID 35081108
+A1 PIERROTDESEILLIGNY,E
+A1 MORIN,C
+A1 KATZ,R
+A1 BUSSEL,B
+YR 1977
+T1 Influence of voluntary movement and posture on recurrent inhibition in human subjects
+JF Brain Research
+VO 124
+SP 427
+OP 436
+IS 3
+
+RT Journal Article
+ID 61256844
+A1 Larsson,L.
+A1 Roth,R.,A.
+A1 Katz,R.
+YR 1977
+T1 Supralinear detectors in neutron dosimetry
+
+RT Journal Article
+ID 55860523
+A1 Dewitt,J.
+A1 Katz,R.
+YR 1977
+T1 Organizing to use a new telecommunications technology: Communications satellites and vocational rehabilitation
+
+RT Journal Article
+ID 60473812
+A1 Sharma,S.,C.
+A1 Katz,R.
+YR 1977
+T1 Track theory applied to physical, chemical, and biological systems
+
+RT Journal Article
+ID 26939330
+A1 Kopeika,N.,S.
+A1 GLAZER,S.
+A1 KATZ,R.
+YR 1976
+T1 Low-cost tuned filters using subnormal glow discharges
+JF International Journal of Electronics
+VO 40
+SP 481
+OP 493
+IS 5
+
+RT Journal Article
+ID 60531376
+A1 Myerson,P.,J.
+A1 Myerson,D.,A.
+A1 Katz,R.
+A1 Lawson,J.,P.
+YR 1976
+T1 Gallium imaging in pulmonary artery sarcoma mimicking pulmonary embolism: case report
+
+RT Journal Article
+ID 60675344
+A1 Larsson,L.
+A1 Pinkerton,F.,E.
+A1 Katz,R.
+A1 Benton,E.,V.
+YR 1976
+T1 Particle tracks in supralinear nuclear research emulsions. [Theoretical and experimental study]
+
+RT Journal Article
+ID 60671101
+A1 Larsson,L.
+A1 Pinkerton,F.,E.
+A1 Katz,R.
+YR 1976
+T1 Supralinearity of nuclear research emulsions. [Mimics radiation response of biological systems]
+
+RT Journal Article
+ID 60825043
+A1 Katz,R.
+A1 Sharma,S.,C.
+YR 1975
+T1 RBE-dose relations for neutrons and pions
+
+RT Journal Article
+ID 55809388
+A1 Katz,B.
+YR 1975
+T1 Dynamic testing of the Kearfott 2401 accelerometer
+
+RT Journal Article
+ID 4003412
+A1 Katz,R.,H.
+YR 1974
+T1 Toward a unified framework for version modeling in engineering data-bases
+JF ACM Computing Surveys
+
+RT Journal Article
+ID 60818656
+A1 Katz,R.
+A1 Pinkerton,F.,E.
+YR 1974
+T1 Particle tracks in a special nuclear emulsion
+
+RT Journal Article
+ID 60646273
+A1 Katz,R.
+A1 Sharma,S.,C.
+YR 1974
+T1 Initial slope of the gamma-ray survival curve in the theory of RBE
+
+RT Journal Article
+ID 60646819
+A1 Katz,R.
+A1 Sharma,S.,C.
+YR 1974
+T1 RBE-dose relations for neutrons and pions
+
+RT Journal Article
+ID 55642204
+A1 Katz,R.
+YR 1974
+T1 Tract Structure
+
+RT Journal Article
+ID 2687921
+A1 Fatt,P.
+A1 Katz,B.
+YR 1973
+T1 An analysis of the endplate potential Rang
+
+RT Journal Article
+ID 60494364
+A1 Manners,L.,E.
+A1 Powell,E.
+A1 Bell,C.,R.
+A1 Goodman,L.
+A1 Katz,B.
+A1 Martin,L.
+YR 1973
+T1 Overall conceptual System Design Description, Large Leak Test Rig
+
+RT Journal Article
+ID 60678116
+A1 Katz,B.
+A1 Cross,R.
+YR 1973
+T1 Use of fire streams to control floating oil. [Use of large volume, high pressure water nozzles to establish surface currents]
+
+RT Journal Article
+ID 60652850
+A1 Katz,R.
+A1 Sharma,S.,C.
+YR 1973
+T1 Radiobiological modeling for high LET therapy
+
+RT Journal Article
+ID 61059409
+A1 Katz,R.
+A1 Sharma,S.,C.
+YR 1973
+T1 RESPONSE OF DETECTORS TO A MIXED RADIATION ENVIRONMENT
+
+RT Journal Article
+ID 55453949
+A1 Katz,R.
+YR 1973
+T1 Track Structure
+
+RT Journal Article
+ID 56067435
+A1 Katz,R.
+YR 1973
+T1 Bevalac experiments suggested by track theory
+
+RT Conference Proceedings
+ID 49806313
+A1 Seaton,C.,C.
+A1 Katz,R.,N.
+YR 1972
+T1 Sonic Degradation of Thermally Shocked Ceramics
+
+RT Journal Article
+ID 61056213
+A1 Katz,R.
+A1 Sharma,S.,C.
+A1 Homayoonfar,M.
+YR 1972
+T1 IRRADIATION EQUIVALENCE
+
+RT Journal Article
+ID 61073617
+A1 Katz,R.
+A1 Sharma,S.,C.
+A1 Homayoonfar,M.
+YR 1972
+T1 CELLULAR INACTIVATION BY HEAVY IONS, NEUTRONS, AND PIONS
+
+RT Journal Article
+ID 61074185
+A1 Katz,R.
+A1 Sharma,S.,C.
+A1 Homayoonfar,M.
+YR 1972
+T1 LET EFFECTS IN 1HIT DETECTORS. A. RADICAL PRODUCTION IN SOLID BIOLOGICAL SUBSTANCES. B. THE FRICKE DOSIMETER
+
+RT Journal Article
+ID 60535891
+A1 Grantham,L.,F.
+A1 Gehri,D.,C.
+A1 Katz,B.
+YR 1972
+T1 Absorption of sulfur oxides from flue gas
+
+RT Journal Article
+ID 60652207
+A1 Sharma,S.,C.
+A1 Katz,R.
+YR 1972
+T1 1Hit detector in the measurement of radiation quality
+
+RT Journal Article
+ID 60652209
+A1 Katz,R.
+A1 Sharma,S.,C.
+YR 1972
+T1 Two-component model in the theory of RBE
+
+RT Journal Article
+ID 16131778
+A1 Glasner,Moses
+A1 Katz,Richard
+A1 Nakai,Mitsuru
+YR 1971
+T1 Examples in the classification theory of Riemannian manifolds and the equation?u=Pu
+JF Mathematische Zeitschrift
+VO 121
+SP 233
+OP 238
+IS 3
+
+RT Journal Article
+ID 48154603
+A1 Glasner,Moses
+A1 Katz,Richard
+A1 Nakai,Mitsuru
+YR 1971
+T1 Examples in the classification theory of Riemannian manifolds and the equation Δu = Pu
+JF Mathematische Zeitschrift
+VO 121
+SP 233
+OP 238
+IS 3
+
+RT Journal Article
+ID 61141738
+A1 Katz,R.
+A1 Ackerson,B.
+A1 Homayoonfar,M.
+A1 Sharma,S.,C.
+YR 1971
+T1 INACTIVATION OF CELLS BY HEAVY ION BOMBARDMENT
+
+RT Journal Article
+ID 16382162
+A1 Glasner,Moses
+A1 Katz,Richard
+A1 Nakai,Mitsuru
+YR 1971
+T1 A remark on classification of Riemannian manifolds with respect to $\Delta u = Pu$
+JF Bulletin of The American Mathematical Society
+VO 77
+SP 425
+OP 428
+IS 1971
+
+RT Journal Article
+ID 56618169
+A1 KATZ,B.
+A1 MILEDI,R.
+YR 1971
+T1 Further Observations on Acetylcholine Noise
+VO 232
+SP 124
+OP 126
+IS 30
+
+RT Journal Article
+ID 57442246
+A1 Glasner,Moses
+A1 Katz,Richard
+YR 1970
+T1 The Royden boundary of a Riemannian manifold
+JF Illinois Journal of Mathematics
+VO 14
+SP 488
+OP 495
+IS 1970
+
+RT Journal Article
+ID 61145723
+A1 Katz,R.
+A1 Kobetich,E.,J.
+YR 1970
+T1 PARTICLE TRACKS IN CONDENSED MATTER
+
+RT Journal Article
+ID 61145724
+A1 Katz,R.
+A1 Kobetich,E.,J.
+YR 1970
+T1 PARTICLE TRACKS IN EMULSION AND RELATED PHENOMENA
+
+RT Journal Article
+ID 3681213
+A1 Katz,Robert,A.
+A1 Magnus,Wilhelm
+YR 1969
+T1 Residual properties of free groups
+JF Communications on Pure and Applied Mathematics
+VO 22
+SP 1
+OP 13
+IS 1
+
+RT Journal Article
+ID 22416100
+A1 Katz,Herbert
+A1 Sears,John,T.
+YR 1969
+T1 Electric field phenomena in fluidized and fixed beds
+JF Canadian Journal of Chemical Engineering
+VO 47
+SP 50
+OP 53
+IS 1
+
+RT Journal Article
+ID 16094140
+A1 Glasner,Moses
+A1 Katz,Richard
+YR 1969
+T1 On the behavior of solutions of δm = pu at the Royden boundary
+JF Journal D Analyse Mathematique
+VO 22
+SP 343
+OP 354
+IS 1
+
+RT Journal Article
+ID 14783464
+A1 CHADDERTON,LEWIS,T.
+A1 KRAJENBRINK,FRANS,G.
+A1 KATZ,ROBERT
+A1 POVEDA,ARCADIO
+YR 1969
+T1 Standing Waves on the Moon
+JF Nature
+VO 223
+SP 259
+OP 263
+IS 5203
+
+RT Journal Article
+ID 10121657
+A1 Glasner,Moses
+A1 Katz,Richard
+YR 1969
+T1 A note on the Royden boundary
+JF Bulletin of The American Mathematical Society
+VO 75
+SP 945
+OP 947
+IS 1969
+
+RT Journal Article
+ID 57455962
+A1 Glasner,Moses
+A1 Katz,Richard
+YR 1969
+T1 Correction to: ``Function-theoretic degeneracy criteria for Riemannian manifolds''
+JF Pacific Journal of Mathematics
+VO 31
+SP 834
+IS 1969
+
+RT Journal Article
+ID 57456161
+A1 Glasner,Moses
+A1 Katz,Richard
+YR 1969
+T1 Function-theoretic degeneracy criteria for Riemannian manifolds
+JF Pacific Journal of Mathematics
+VO 28
+SP 351
+OP 356
+IS 1969
+
+RT Journal Article
+ID 60538861
+A1 Charlip,S.
+A1 Michaels,R.
+A1 Katz,R.
+YR 1969
+T1 Design, fabrication of prototypes, and testing of sealed, rechargeable silvercadmium cells. Final report, February 1967October 1968
+
+RT Journal Article
+ID 55269448
+A1 Poveda,A.
+A1 Katz,R.
+YR 1969
+T1 Cosmic-ray damage to lunar soil
+
+RT Journal Article
+ID 14784721
+A1 KATZ,B.
+YR 1969
+T1 The EMBO Question Debated
+JF Nature
+VO 224
+SP 406
+OP 407
+IS 5218
+
+RT Journal Article
+ID 56368390
+A1 Katz,B.
+YR 1969
+T1 The EMBO Question Debated
+JF Nature
+VO 224
+SP 733
+
+RT Journal Article
+ID 61155524
+A1 Katz,R.
+A1 Kobetich,E.,J.
+YR 1969
+T1 FORMATION OF PARTICLE TRACKS
+
+RT Journal Article
+ID 57456165
+A1 Katz,Richard
+YR 1969
+T1 A note on extremal length and modulus
+JF Pacific Journal of Mathematics
+VO 28
+SP 381
+OP 382
+IS 1969
+
+RT Journal Article
+ID 61266776
+A1 Katz,B.
+A1 Oldenkamp,R.,D.
+YR 1969
+T1 Integration of molten carbonate process for control of sulfur oxide emissions into a power plant. (Paper 69WA/APC6). [Molten mixture of carbonates of K, Li, and Na converts S oxides to sulfites and sulfates]
+
+RT Journal Article
+ID 51932623
+A1 Gordon,Albert,S.
+A1 Mirand,Edwin,A.
+A1 Wenig,Jeffrey
+A1 Katz,Robert
+A1 Zanjani,Esmail,D.
+YR 1968
+T1 Androgen Actions on Erythropoiesis
+JF Annals of The New York Academy of Sciences
+VO 149
+SP 318
+OP 335
+
+RT Journal Article
+ID 57456368
+A1 Glasner,Moses
+A1 Katz,Richard
+A1 Nakai,Mitsuru
+YR 1968
+T1 Bisection into small annuli
+JF Pacific Journal of Mathematics
+VO 24
+SP 457
+OP 461
+IS 1968
+
+RT Journal Article
+ID 54677892
+A1 Katz,Robert
+A1 Cooper,George,W.
+A1 Gordon,Albert,S.
+A1 Zanjani,Esmail,D.
+YR 1968
+T1 Studies on the Site of Production of Erythropoietin
+JF Annals of The New York Academy of Sciences
+VO 149
+SP 120
+OP 127
+
+RT Journal Article
+ID 60875615
+A1 Butts,J.,J.
+A1 Katz,R.
+YR 1967
+T1 THEORY OF RBE FOR HEAVY ION BOMBARDMENT OF DRY ENZYMES AND VIRUSES
+
+RT Journal Article
+ID 27284068
+A1 Allman,R.,M.
+A1 Herman,L.,K.
+A1 Katz,B.
+YR 1966
+T1 Guidance of the U.S. Air Force Athena
+JF Journal of Spacecraft and Rockets
+VO 3
+SP 750
+OP 752
+IS 5
+
+RT Journal Article
+ID 52074418
+A1 Allman,R.,M.
+A1 Herman,L.,K.
+A1 Katz,B.
+YR 1966
+T1 Guidance of the U.S. Air Force Athena
+JF Journal of Spacecraft and Rockets
+VO 3
+SP 750
+OP 752
+
+RT Journal Article
+ID 56560252
+A1 Katz,Robert
+A1 Hood,Robert,W
+YR 1966
+T1 The Use of Topical Thiabendazole in Dimethylsulfoxide for Creeping Eruption: Preliminary Report1
+VO 46
+SP 309
+OP 310
+IS 3
+
+RT Journal Article
+ID 60640426
+A1 Hobart,E.,W.
+A1 Bjork,R.,G.
+A1 Katz,R.
+YR 1966
+T1 New cuprous reagent for the spectrophotometric determination of acetylene
+
+RT Journal Article
+ID 51395254
+A1 Katz,Herbert
+A1 Katz,Marjorie
+YR 1965
+T1 Museums: A History and a Guide. (Book Reviews: Museums, U.S.A. A History and Guide)
+JF Science
+VO 149
+SP 173
+OP 174
+
+RT Journal Article
+ID 1400958
+A1 Katz,R,H
+A1 Wong,E
+YR 1962
+T1 Decompllmg codasyl dml mto relational queries
+JF ACM Transactions on Database Systems
+
+RT Journal Article
+ID 59187875
+A1 Semat,Henry
+A1 Katz,Robert
+YR 1958
+T1 Physics, Appendix B
+
+RT Journal Article
+ID 59187878
+A1 Semat,Henry
+A1 Katz,Robert
+YR 1958
+T1 Physics, Chapter 42: Optical Spectra and Atomic Structure
+
+RT Journal Article
+ID 59187888
+A1 Semat,Henry
+A1 Katz,Robert
+YR 1958
+T1 Physics, Chapter 34: Alternating Currents
+
+RT Journal Article
+ID 59188254
+A1 Semat,Henry
+A1 Katz,Robert
+YR 1958
+T1 Physics, Contents
+
+RT Journal Article
+ID 59188257
+A1 Semat,Henry
+A1 Katz,Robert
+YR 1958
+T1 Physics, Chapter 8: Hydrostatics (Fluids at Rest)
+
+RT Journal Article
+ID 14713252
+A1 Milner,Max
+A1 Shellenberger,J.,A.
+A1 Lee,M.,R.
+A1 Katz,Robert
+YR 1952
+T1 Internal Fissuring of Wheat due to Weathering
+JF Nature
+VO 170
+SP 533
+OP 533
+IS 4326
+
+RT Journal Article
+ID 55701459
+A1 Milner,Max
+A1 Shellenberger,J.,A.
+A1 Lee,M.,R.
+A1 Katz,Robert
+YR 1952
+T1 Internal Fissuring of Wheat due to Weathering
+JF Nature
+VO 170
+SP 533
+
+RT Journal Article
+ID 14959123
+A1 Cohn,Clarence
+A1 Katz,Bertram
+A1 Cohn,Pauline
+YR 1950
+T1 Effect of Evisceration on Renal Glycogen
+JF Science
+VO 112
+SP 174
+OP 175
+IS 2902
+
+RT Journal Article
+ID 53209289
+A1 Katz,Robert
+YR 1949
+T1 Decay of TELLURIUM121 and TELLURIUM123 Isomers
+
+RT Book, Whole
+ID 72240
+A1 Katz,Randy,H.
+A1 Brewer,Eric,A.
+T1 The Case for Wireless Overlay Networks
+
+RT Journal Article
+ID 11254742
+A1 Agarwal,Sharad
+A1 Chuah,Chen-Nee
+A1 Katz,Randy,H.
+T1 OPCA: Robust Interdomain Policy Routing and Traffic Control
+
+RT Journal Article
+ID 1920937
+A1 Caesar,Matthew
+A1 Subramanian,Lakshminarayanan
+A1 Katz,Randy,H.
+T1 Towards Localizing Root Causes of BGP Dynamics
+
+RT Journal Article
+ID 11709553
+A1 Seshan,Srinivasan
+A1 Stemm,Mark
+A1 Katz,Randy,H.
+T1 BENEFITS OF TRANSPARENT CONTENT NEGOTIATION IN HTTP
+
+RT Journal Article
+ID 3028768
+A1 Kahn,Joseph,M.
+A1 Katz,Randy,Howard
+A1 Pister,Kristofer,S.,J.
+T1 Emerging Challenges: Mobile Networking
+
+RT Journal Article
+ID 10305696
+A1 Siddiqui,M.
+A1 Quijije,M.
+A1 Lawrence,A.
+A1 Pitman,B.
+A1 Katz,R.
+A1 Tran,P.
+A1 Chau,A.
+A1 Davison,D.
+A1 Din,S.
+A1 Lai,R.
+A1 Streit,D.
+T1 GaAs Components for 60 GHz Wireless Communication Applications
+
+RT Journal Article
+ID 10510454
+A1 Ernst,David,J.
+A1 Katz,Richard,N.
+A1 Sack,John,R.
+T1 Organizational and Technological Strategies for Higher Education in the Information Age
+
+RT Journal Article
+ID 11529503
+A1 Slasky,B.,S.
+A1 Sichel,J.,V.
+A1 Lieberman,A.
+A1 Katz,R.
+T1 Branchial Pouch SinusTract from the Piriform Fossa Causing Acute Suppurative Thyroiditis, Neck Abscess, or Both: CT Appearance and the Use ofAir as a Contrast Agent
+
+RT Journal Article
+ID 14091223
+A1 Speers,T.
+A1 Wang,J.,J.
+A1 Cronquist,B.
+A1 McCollum,J.
+A1 Tseng,H.
+A1 Katz,R.
+A1 Kleyner,I.
+T1 0.25 μm FLASH Memory Based FPGA for Space Applications
+
+RT Journal Article
+ID 11180913
+A1 Katz,Robert,S.
+A1 Baker,David,H.
+T1 TOXICITY OF VARIOUS ORGANIC SULFUR COMPOUNDS FOR CHICKS FED CRYSTALLINE AMINO ACID DIETS CONTAINING THREONINE AND GLYCINE AT THEIR MINIMAL DIETARY REQUIREMENTS FOR MAXIMAL GROWTH
+
+RT Journal Article
+ID 1337926
+A1 Wood,D.,A.
+A1 Jeong,D.
+A1 Katz,R.,H.
+A1 Patterson,D.,A.
+T1 The spur cache controller chip
+
+RT Journal Article
+ID 6925838
+A1 Balakrishnan,Hari
+A1 Padmanabhan,Venkata,N.
+A1 Seshan,Srinivasan
+A1 Stemm,Mark
+A1 Amir,Elan
+A1 Katz,Randy,H.
+T1 TCP Improvements for Heterogeneous Networks: The Daedalus Approach
+
+RT Journal Article
+ID 12817909
+A1 Katz,Randy,H.
+A1 Joseph,Anthony,D.
+T1 A Revolutionary Confederated Service Architecture for Future Telecommunications Systems
+
+RT Journal Article
+ID 4564682
+A1 Chuah,Chen-Nee
+A1 Katz,Randy,H.
+T1 Network Provisioning & Resource Management for IP Telephony1
+
+RT Journal Article
+ID 1284556
+A1 Craig,G.,L.
+A1 Goodman,I.,R.
+A1 Katz,R.,H.
+A1 Pleszkun,A.,R.
+A1 Ramachandran,K.
+A1 Sayah,I.
+A1 Smith,J.,E.
+T1 Pipe: a high performance vlsi processor implementation
+
+RT Journal Article
+ID 12902438
+A1 Porter,George
+A1 Tsai,Mel
+A1 Yin,Li
+A1 Katz,Randy
+T1 The OASIS Group at U.C. Berkeley: Research Summary and Future Directions
+
+RT Journal Article
+ID 11463265
+A1 Katz,R.,V.
+T1 Clinical Signs of Root Caries: Measurement Issues from an Epidemiologic Perspective
+
+RT Journal Article
+ID 12503313
+A1 Qiu,Lili
+A1 Chen,Weiyu
+A1 Nguyen,Luan
+A1 Katz,Randy,H.
+T1 On the Clustering of Web Content for Efficient Replication
+
+RT Journal Article
+ID 1365460
+A1 Kahn,J.
+A1 Katz,R.,H.
+A1 Pister,K.
+T1 Mobicom challenges: mobile networking for 'smart dust
+
+RT Journal Article
+ID 13203992
+A1 Blustain,Harvey
+A1 Braman,Sandra
+A1 Katz,Richard,N.
+T1 IT Engagement in Research: A Baseline Study
+
+RT Journal Article
+ID 3076556
+A1 Zhuang,Shelley
+A1 Geels,Dennis
+A1 Stoica,Ion
+A1 Katz,Randy
+T1 Exploring Tradeoffs in Failure Detection in Routing Overlays
+
+RT Book, Whole
+ID 6004458
+A1 Matsunaga,Yasuhiko
+A1 Katz,Randy,H.
+T1 Inter-Domain Radio Resource Management for Wireless LANs
+
+RT Journal Article
+ID 3864266
+A1 Caesar,Matthew
+A1 Subramanian,Lakshminarayanan
+A1 Katz,Randy,H.
+T1 The Case for an Internet Health Monitoring System
+
+RT Journal Article
+ID 12994557
+A1 Balakrishnan,Hari
+A1 Padmanabhan,Venkata,N.
+A1 Seshan,Srinivasan
+A1 Katz,Randy,H.
+T1 for Improving TCP Performance over Wireless Links
+
+RT Journal Article
+ID 5760265
+A1 Chen,Yanpei
+A1 Keys,Laura
+A1 Katz,Randy,H.
+T1 Towards Energy Efficient MapReduce
+
+RT Journal Article
+ID 5179930
+A1 Masutani,Michiko
+A1 lord,Stephen,J.
+A1 Woollen,John,S.
+A1 Yang,Weiyu
+A1 Sun,Haibing
+A1 Kleespies,Thomas,J.
+A1 Emmitt,G.,David
+A1 Wood,Sidney,A.
+A1 Katz,Bert
+A1 Treadon,Russ
+A1 Derber,John,C.
+A1 Greco,Steven
+A1 Terry,Joseph
+A1 Springs,Camp
+A1 Esville,Charlott
+T1 Global OSSE at NCEP
+
+RT Journal Article
+ID 4571205
+A1 Agarwal,Sharad
+A1 Katz,Randy,H.
+A1 Joseph,Anthony,D.
+T1 Reducing the Energy Consumption of Group Driven Ad-hoc Wireless Communication
+
+RT Journal Article
+ID 4795861
+A1 Katz,R.,H.
+A1 Chang,E.
+T1 Managlng Change in a Computer-Aided Design Databane
+
+RT Journal Article
+ID 5815052
+A1 Cui,Weidong
+A1 Machiraju,Sridhar
+A1 Katz,Randy,H.
+A1 Stoica,Ion
+T1 Estimating Shared Congestion Among Internet Paths
+
+RT Journal Article
+ID 3795548
+A1 Fox,Armando
+A1 Kcman,Emre
+A1 Patterson,David
+A1 Katz,Randy
+A1 Jordan,Michael
+T1 Statistical Monitoring + Predictable Recovery = Self
+
+RT Journal Article
+ID 11646628
+A1 Kannan,Jayanthkumar
+A1 Subramanian,Lakshminarayanan
+A1 Stoica,Ion
+A1 Shenker,Scott
+A1 Katz,Randy
+T1 Cooperative Containment of Fast Scanning Worms
+
+RT Journal Article
+ID 4224805
+A1 J,Del,Castillo
+A1 Katz,B
+T1 Statistical factors involved in neurotrans - mitter facilitation and depression
+
+RT Conference Proceedings
+ID 10518895
+A1 Cui,Weidong
+A1 Paxson,Vern
+A1 Weaver,Nicholas,C.
+A1 Katz,Randy,H.
+T1 Protocol-Independent Adaptive Replay of Application Dialog
+
+RT Journal Article
+ID 6261425
+A1 Patterson,David,A.
+A1 Gibson,Garth
+A1 Katz,Randy,H.
+T1 A Case for Redundant Arrays of Inexpensive
+
+RT Journal Article
+ID 12823686
+A1 Narayanaswamy,Shankar
+A1 Seshan,Srinivasan
+A1 Amir,Elan
+A1 Brewer,Eric
+A1 Brodersen,Robert,W.
+A1 Burghardt,Frederick
+A1 Burstein,Andrew
+A1 Chang,Yuan-Chi
+A1 Fox,Armando
+A1 Gilbert,Jeffrey,M.
+A1 Han,Richard
+A1 Katz,Randy,H.
+A1 Long,Allan,C.
+A1 Messerschmitt,David,G.
+A1 Rabaey,Jan,M.
+T1 Application and Network Support for InfoPad A low-power, lightweight unit to provide ubiquitous information access
+
+RT Journal Article
+ID 10227935
+A1 O'ROURKE,M.,F.
+A1 SAFAR,M.,E.
+A1 SHLIPAK,M.,G.
+A1 KATZ,R.
+A1 FRIED,L.,F.
+A1 NEWMAN,A.,B.
+A1 SISCOVICK,D.,S.
+A1 PSATY,B.
+A1 ZHOU,F.
+A1 HARPAZ,R.
+A1 JUMAAN,A.,O.
+A1 WINSTON,C.,A.
+A1 SHEFER,A.
+A1 MAGID,D.,J.
+A1 WANG,Y.
+A1 HERRIN,J.
+A1 MCNAMARA,R.,L.
+A1 BRADLEY,E.,H.
+A1 CURTIS,J.,P.
+A1 POLLACK,C.,V.
+A1 FRENCH,W.,J.
+A1 BLANEY,M.,E.
+A1 KRUMHOLZ,H.,M.
+A1 UCHINO,S.
+A1 KELLUM,J.,A.
+A1 BELLOMO,R.
+A1 DOIG,G.,S.
+A1 MORIMATSU,H.
+A1 MORGERA,S.
+A1 SCHETZ,M.
+A1 TAN,I.
+A1 BOUMAN,C.
+A1 MACEDO,E.
+A1 GIBNEY,N.
+T1 Relationship Between Time of Day, Day of Week, Timeliness of Reperfusion, and In-Hospital Mortality for Patients With Acute ST-Segment Elevation
+
+RT Journal Article
+ID 12825511
+A1 Balakrishnan,Hari
+A1 Padmanabhan,Venkata
+A1 Seshan,Srinivasan
+A1 Stemm,Mark
+A1 Katz,Randy,H.
+T1 interfaces. In particular, I have worked on "Vertical Handoffs" across multiple network interfaces and investigating energy saving strategies for wireless network interfaces
+
+RT Journal Article
+ID 6633483
+A1 Brewer,E.
+A1 Burd,T.
+A1 Burghardt,F.
+A1 Burstein,A.
+A1 Doering,R.
+A1 Lutz,K.
+A1 Narayansaramy,S.
+A1 Pering,T.
+A1 Richards,B.
+A1 Truman,T.
+A1 Katz,R.
+A1 Rabaey,J.
+A1 Brodersen,R.
+T1 Design of Wireless Portable Systems
+
+RT Journal Article
+ID 12640200
+A1 Narayanaswamy,Shankar
+A1 Seshan,Srinivasan
+A1 Brewer,Eric
+A1 Brodersen,Robert
+A1 Burghardt,Frederick
+A1 Burstein,Andrew
+A1 Chang,Yuan-Chi
+A1 Fox,Armando
+A1 Gilbert,Jeffrey,M.
+A1 Han,Richard
+A1 Katz,Randy,H.
+A1 Long,Allan,C.
+A1 Messerschmitt,David,G.
+A1 Rabaey,Jan
+T1 APPLICATION ANDNETWORKSUPPORT FORINFOPAD1
+
+RT Journal Article
+ID 12746981
+A1 Katz,Randy,H.
+A1 Ousterhout,John,K.
+A1 Patterson,David,A.
+T1 Final Report National Aeronautics and Space Agency Advanced Research Projects Agency Diskless Supercomputers: Scalable, Reliable I/O for the Tera-Op Technology Base
+
+RT Journal Article
+ID 5759490
+A1 Katz,R.
+A1 Joseph,A.
+A1 Czerwinski,S.
+A1 Hodes,T.
+A1 Hohlt,B.
+A1 Kiciman,E.
+A1 Ludwig,R.
+A1 Mukkamalla,S.
+A1 Oden,K.
+T1 A Scalable Service Architecture for Computer-Telephony Integration
+
+RT Journal Article
+ID 5200188
+A1 Porter,George
+A1 Fonseca,Rodrigo
+A1 Shenker,Scott
+A1 Stoica,Ion
+A1 Katz,Randy,H.
+T1 Router-Transparent Packet Annotations
+
+RT Journal Article
+ID 7005002
+A1 He,Mike,M.
+A1 Reutzel,Evan,M.
+A1 Jiang,Xiaofan
+A1 Katz,Randy,H.
+A1 Sanders,Seth,R.
+A1 Culler,David,E.
+T1 A n A rchitecture for Local E nergy G eneration, Distribution, and Sharing
+
+RT Journal Article
+ID 12046946
+A1 S,Roth
+A1 D,David
+A1 M,Hertzberg
+A1 T,Mellman
+A1 JC,Beckham
+A1 RM,Davison
+A1 R,Katz
+T1 Several scales have been developed and validated to facilitate screening for PTSD. These tools are helpful in understanding the degree of trauma a client has experienced and utilize ratings that are driven by self report. Sample scales include:  PTSD Checklist (Weathers FW, Litz BT, Huska J, Keane TM, 1994)  Impact of Events Scale (Horowitz MJ, 2003)
+
+RT Journal Article
+ID 11732733
+A1 TURK,JEREMY
+A1 LOZA,NASSER,F.
+A1 KASINSKI,JAN
+A1 KATZ,RANDY
+A1 MURRAY,ROBIN
+T1 The development and reliability of an instrument for routine collection of summary clinical data
+
+RT Journal Article
+ID 5415539
+A1 Zhuang,Shelley
+A1 Stoica,Ion
+A1 Katz,Randy
+T1 The Cost of Inconsistency in DHTs
+
+RT Journal Article
+ID 12656869
+A1 Culler,David
+A1 Katz,Randy,H.
+A1 Joseph,Anthony
+T1 (7) Novel Networking Technologies and Their Uses
+
+RT Journal Article
+ID 6934285
+A1 Chen,Yan
+A1 Bargteil,Adam
+A1 Katz,Randy
+A1 Kubiatowicz,John
+T1 Quantifying Network Denial of Service: A Location Service Case Study
+
+RT Journal Article
+ID 10005587
+A1 Morley,Zhuoqing
+A1 Jennifer,Mao
+A1 Wang,Rexford,Jia
+A1 Katz,Randy,H.
+T1 Towards an Accurate AS-Level Traceroute Tool
+
+RT Journal Article
+ID 13014925
+A1 Chen,Yan
+A1 Katz,Randy,H.
+A1 Kubiatowicz,John,D.
+T1 Delivery
+
+RT Journal Article
+ID 6688702
+A1 Cronquist,B.
+A1 Sarpa,M.
+A1 Wang,J.,J.
+A1 Katz,R.
+T1 Modifications of COTS FPGA Devices for Space Applications
+
+RT Journal Article
+ID 10922578
+A1 Cui,Weidong
+A1 Katz,Randy,H.
+A1 Tan,Wai-tian
+T1 BINDER: An Extrusion-based Break-In Detector for Personal Computers
+
+RT Journal Article
+ID 5719672
+A1 Caesar,Matthew
+A1 Subramanian,L.
+A1 Katz,Randy,H.
+T1 Towards Root Cause Analysis of Internet Routing Dynamics
+
+RT Journal Article
+ID 10374706
+A1 GLASNER,MOSES
+A1 KATZ,RICHARD
+A1 NAKAI,MITSURU
+T1 A REMARK ON CLASSIFICATIO N OF RIEMANNIAN MANIFOLDS WITH RESPECT TO Au = Pu
+
+RT Journal Article
+ID 4557130
+A1 Agarwal,Sharad
+A1 Chuah,Chen-Nee
+A1 Katz,Randy,H.
+T1 OPCA: Fault-Tolerant Routing and Load-Balancing
+
+RT Journal Article
+ID 211342
+A1 Cucinotta,Francis,A.
+A1 Wilson,John,W.
+A1 Katz,Robert
+T1 Calculation of Heavy Ion Inactivation and Mutation Rates in Radial Dose Model of Track Structure
+
+RT Journal Article
+ID 10707874
+A1 Machiraju,Sridhar
+A1 Katz,Randy,H.
+T1 Leveraging BGP Dynamics to Reverse-Engineer Routing Policies
+
+RT Journal Article
+ID 10074498
+A1 Katz,Robert,H.
+T1 CLOSING THE DOOR ON SCOTT-PONTZER, ET AL
+
+RT Journal Article
+ID 10118865
+A1 Katz,Randy,H.
+T1 SAHARA and OASIS: Storage Services in the New Composed Internet
+
+RT Journal Article
+ID 12335603
+A1 Katz,Randy,H.
+T1 Ann L. Drapeau
+
+RT Journal Article
+ID 12808095
+A1 Katz,Randy,H.
+T1 The UNIX System Call Layer dispatches a read or write request to the File System, which in turn calls a Block I/O routine. This calls a specific device driver to handle the scheduling the I/O request. Figure 4.2: Software Layers in the UNIX File System Extended for NFS The VFS interface allows requests to be mapped transparently among local file systems and remote file sys
+
+RT Journal Article
+ID 12996572
+A1 Katz,Randy,H.
+T1 Fang Yu
+
+RT Journal Article
+ID 13005390
+A1 Katz,Randy,H.
+T1 Video Representation for Parallel Disk Arrays
+
+RT Journal Article
+ID 14045917
+A1 Katz,Bob
+T1 How DRAG valve technology contribute to reducing O&M costs

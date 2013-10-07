@@ -1,0 +1,9812 @@
+RT Journal Article
+ID 57015655
+A1 Cattaneo,Alessandro
+A1 Sentinelli,Alexandro
+A1 Vitali,Andrea
+A1 Celetto,Luca
+A1 Marfia,Gustavo
+A1 Roccetti,Marco
+A1 Gerla,Mario
+YR 2012
+T1 Using digital fountains in future IPTV streaming platforms: a future perspective
+JF IEEE Communications Magazine
+VO 50
+SP 202
+OP 207
+IS 5
+
+RT Journal Article
+ID 57020757
+A1 Lee,Suk-Bok
+A1 Park,Joon-Sang
+A1 Gerla,Mario
+A1 Lu,Songwu
+YR 2012
+T1 Secure Incentives for Commercial Ad Dissemination in Vehicular Networks
+JF IEEE Transactions on Vehicular Technology
+VO 61
+SP 2715
+OP 2728
+IS 6
+
+RT Journal Article
+ID 56920324
+A1 Han,Seongwon
+A1 Yang,Sungwon
+A1 Kim,Jihyoung
+A1 Gerla,Mario
+YR 2012
+T1 EyeGuardian: a framework of eye tracking and blink detection for mobile device users
+SP 1
+OP 6
+
+RT Conference Proceedings
+ID 56955250
+A1 Yang,Sungwon
+A1 Jacob,Eufemia
+A1 Gerla,Mario
+YR 2012
+T1 Web-based mobile e-Diary for youth with Sickle Cell Disease
+
+RT Conference Proceedings
+ID 56955338
+A1 Lee,Kevin,C.
+A1 Sudhaakar,Raghuram
+A1 Dai,Lillian
+A1 Addepalli,Sateesh
+A1 Gerla,Mario
+YR 2012
+T1 RPL under mobility
+
+RT Conference Proceedings
+ID 56982739
+A1 Mena,Jorge
+A1 Gerla,Mario
+A1 Kalogeraki,Vana
+YR 2012
+T1 Mitigate Funnel Effect in Sensor Networks with Multi-interface Relay Nodes
+
+RT Journal Article
+ID 56915612
+A1 Yang,Sungwon
+A1 Kim,Jihyoung
+A1 Gerla,Mario
+YR 2012
+T1 Clinical quality guaranteed physiological data compression in mobile health monitoring
+SP 51
+OP 56
+
+RT Conference Proceedings
+ID 57003396
+A1 Choi,Brian,Sung,Chul
+A1 Gerla,Mario
+YR 2012
+T1 Cog-Fi: A cognitive Wi-Fi Channel Hopping architecture for urban MANETs
+
+RT Journal Article
+ID 39213446
+A1 Lee,Eun-Kyu
+A1 Oh,Soon-Young
+A1 Gerla,Mario
+YR 2011
+T1 Frequency quorum rendezvous for fast and resilient key establishment under jamming attack
+JF Mobile Computing and Communications Review
+VO 14
+SP 1
+OP 3
+IS 4
+
+RT Journal Article
+ID 13763102
+A1 Erol-Kantarci,Melike
+A1 Oktug,Sema,F.
+A1 Vieira,Luiz,Filipe,M.
+A1 Gerla,Mario
+YR 2011
+T1 Performance evaluation of distributed localization techniques for mobile underwater acoustic sensor networks
+JF Ad Hoc Networks
+VO 9
+SP 61
+OP 72
+IS 1
+
+RT Journal Article
+ID 39312904
+A1 Gerla,Mario
+A1 Kleinrock,Leonard
+YR 2011
+T1 Vehicular networks and the future of the mobile internet
+JF Computer Networks
+VO 55
+SP 457
+OP 469
+IS 2
+
+RT Journal Article
+ID 15203942
+A1 Oh,Soon-Young
+A1 Marfia,Gustavo
+A1 Gerla,Mario
+YR 2011
+T1 MANET QoS support without reservations
+JF Security and Communication Networks
+VO 4
+SP 316
+OP 328
+IS 3
+
+RT Conference Proceedings
+ID 51099606
+A1 Lee,Seung-Hoon
+A1 Gerla,Mario
+A1 Krawczyk,Hugo
+A1 Lee,Kang-Won
+A1 Quaglia,Elizabeth,A.
+YR 2011
+T1 Performance Evaluation of Secure Network Coding Using Homomorphic Signature
+
+RT Conference Proceedings
+ID 51097725
+A1 BenLetaief,Khaled
+A1 Gerla,Mario
+A1 Helmy,Ahmed
+A1 Das,Sajal
+A1 Boutaba,Raouf
+A1 Guizani,Mohsen
+YR 2011
+T1 Message from the IWCMC 2011 chairs
+
+RT Journal Article
+ID 51195360
+A1 Leontiadis,Ilias
+A1 Marfia,Gustavo
+A1 Mack,David
+A1 Pau,Giovanni
+A1 Mascolo,Cecilia
+A1 Gerla,Mario
+YR 2011
+T1 On the Effectiveness of an Opportunistic Traffic Management System for Vehicular Networks
+JF IEEE Transactions on Intelligent Transportation Systems
+VO 12
+SP 1537
+OP 1548
+IS 4
+
+RT Conference Proceedings
+ID 51159687
+A1 Ku,Ian
+A1 Weng,Jui-Ting
+A1 Giordano,Eugenio
+A1 Pau,Giovanni
+A1 Gerla,Mario
+YR 2011
+T1 Running consistent, parallel experiments in vehicular environment
+
+RT Conference Proceedings
+ID 51160554
+A1 Marfia,G.
+A1 Roccetti,M.
+A1 Cattaneo,A.
+A1 Sentinelli,A.
+A1 Vitali,A.
+A1 Celetto,L.
+A1 Gerla,M.
+YR 2011
+T1 Digital Fountains + P2P for Future IPTV Platforms: A Test-Bed Evaluation
+SP 1
+OP 5
+
+RT Conference Proceedings
+ID 56926575
+A1 Choi,Brian,Sung,Chul
+A1 Im,Hyungjune
+A1 Lee,Kevin,C.
+A1 Gerla,Mario
+YR 2011
+T1 CCH: Cognitive Channel Hopping in Vehicular Ad Hoc Networks
+SP 1
+OP 5
+
+RT Conference Proceedings
+ID 56987966
+A1 Chen,Chien-Chia
+A1 Chen,Clifford
+A1 Park,Joon-Sang
+A1 Oh,Soon,Y.
+A1 Gerla,Mario
+A1 Sanadidi,M.,Y.
+YR 2011
+T1 Multiple network coded TCP sessions in disruptive wireless scenarios
+SP 754
+OP 759
+
+RT Journal Article
+ID 49690274
+A1 Chen,Chien-Chia
+A1 Chen,Clifford
+A1 Oh,Soon,Y.
+A1 Park,Joon-Sang
+A1 Gerla,Mario
+A1 Sanadidi,M.,Y.
+YR 2011
+T1 ComboCoding: Combined intra-/interflow network coding for TCP over disruptive MANETs
+JF Journal of Advanced Research
+VO 2
+SP 241
+OP 252
+IS 3
+
+RT Conference Proceedings
+ID 51159689
+A1 Carisi,Roberto
+A1 Giordano,Eugenio
+A1 Pau,Giovanni
+A1 Gerla,Mario
+YR 2011
+T1 Enhancing in vehicle digital maps via GPS crowdsourcing
+
+RT Conference Proceedings
+ID 56987952
+A1 Lu,You
+A1 Lin,Yenan
+A1 Zhou,Biao
+A1 Gerla,Mario
+YR 2011
+T1 MPR-aware performance improvement for inter-domain routing in MANETs
+SP 673
+OP 678
+
+RT Journal Article
+ID 51184315
+A1 Giordano,Eugenio
+A1 Frank,Raphael
+A1 Pau,Giovanni
+A1 Gerla,Mario
+YR 2011
+T1 CORNER: A Radio Propagation Model for VANETs in Urban Scenarios
+JF Proceedings of The IEEE
+VO 99
+SP 1280
+OP 1294
+IS 7
+
+RT Journal Article
+ID 51189758
+A1 Sahoo,Jagruti
+A1 Wu,Eric,Hsiao-Kuang
+A1 Sahu,Pratap,Kumar
+A1 Gerla,Mario
+YR 2011
+T1 Binary-Partition-Assisted MAC-Layer Broadcast for Emergency Message Dissemination in VANETs
+JF IEEE Transactions on Intelligent Transportation Systems
+VO 12
+SP 757
+OP 770
+IS 3
+
+RT Conference Proceedings
+ID 56995900
+A1 Bajaj,Jitin
+A1 Kim,Wooseong
+A1 Oh,Soon,Y.
+A1 Gerla,Mario
+YR 2011
+T1 Cognitive radio implementation in ISM bands with Microsoft SORA
+
+RT Conference Proceedings
+ID 51101533
+A1 Kim,Wooseong
+A1 Gerla,Mario
+A1 Kassler,Andreas,J.
+A1 Felice,Marco,Di
+YR 2011
+T1 TP-UrbanX - A new transport protocol for Cognitive Multi-Radio Mesh Networks
+
+RT Conference Proceedings
+ID 51097865
+A1 Kim,Wooseong
+A1 Oh,Soon,Y.
+A1 Gerla,Mario
+A1 Lee,Kevin,C.
+YR 2011
+T1 CoRoute: A new cognitive anypath vehicular routing protocol
+
+RT Conference Proceedings
+ID 56926437
+A1 Tung,Lung-Chih
+A1 Gerla,Mario
+YR 2011
+T1 RTMB/CTMB: A Collision Avoidance Scheme for VANET Broadcast
+SP 1
+OP 5
+
+RT Conference Proceedings
+ID 39276456
+A1 Yang,Sungwon
+A1 Gerla,Mario
+YR 2011
+T1 Personal gateway in mobile health monitoring
+SP 636
+OP 641
+
+RT Journal Article
+ID 56902903
+A1 Kim,Jihyoung
+A1 Yang,Sungwon
+A1 Gerla,Mario
+YR 2011
+T1 StrokeTrack: wireless inertial motion tracking of human arms for stroke telerehabilitation
+SP 1
+OP 6
+
+RT Conference Proceedings
+ID 56987671
+A1 Lee,Eun-Kyu
+A1 Oh,Soon,Y.
+A1 Gerla,Mario
+YR 2011
+T1 Timely and robust key establishment under jamming attack in critical wireless networks
+SP 1237
+OP 1242
+
+RT Journal Article
+ID 51087672
+A1 Zhu,Konglin
+A1 Zhou,Biao
+A1 Fu,Xiaoming
+A1 Gerla,Mario
+YR 2011
+T1 Geo-Assisted Multicast Inter-Domain Routing (GMIDR) Protocol for MANETs
+SP 1
+OP 5
+
+RT Conference Proceedings
+ID 51101460
+A1 Gerla,Mario
+A1 Mingozzi,Enzo
+YR 2011
+T1 Welcome message from the general chairs
+
+RT Conference Proceedings
+ID 51095682
+A1 Kim,Wooseong
+A1 Gerla,Mario
+YR 2011
+T1 NAVOPT: Navigator Assisted Vehicular Route OPTimizer
+
+RT Conference Proceedings
+ID 51089617
+A1 Lee,Eun-Kyu
+A1 Gerla,Mario
+YR 2011
+T1 Secured Bilateral Rendezvous using self interference cancellation in wireless networks
+
+RT Journal Article
+ID 10525761
+A1 Lee,Uichin
+A1 Gerla,Mario
+YR 2010
+T1 A survey of urban vehicular sensing platforms
+JF Computer Networks
+VO 54
+SP 527
+OP 544
+IS 4
+
+RT Conference Proceedings
+ID 50872413
+A1 Giordano,Eugenio
+A1 Frank,Raphael
+A1 Pau,Giovanni
+A1 Gerla,Mario
+YR 2010
+T1 CORNER: a realistic urban propagation model for VANET
+
+RT Journal Article
+ID 27082657
+A1 Lee,Uichin
+A1 Lee,Jiyeon
+A1 Park,Joon-Sang
+A1 Gerla,Mario
+YR 2010
+T1 FleaNet: A Virtual Market Place on Vehicular Networks
+JF IEEE Transactions on Vehicular Technology
+VO 59
+SP 344
+OP 355
+IS 1
+
+RT Conference Proceedings
+ID 13987104
+A1 Giordano,Eugenio
+A1 Sena,Enzo,De
+A1 Pau,Giovanni
+A1 Gerla,Mario
+YR 2010
+T1 VERGILIUS: A Scenario Generator for VANET
+SP 1
+OP 5
+
+RT Journal Article
+ID 5241940
+A1 Cheng,Pei-Chun
+A1 Lee,Kevin,C.
+A1 Gerla,Mario
+A1 Härri,Jérôme
+YR 2010
+T1 GeoDTN+Nav: Geographic DTN Routing with Navigator Prediction for Urban Vehicular Environments
+JF Mobile Networks and Applications
+VO 15
+SP 61
+OP 82
+IS 1
+
+RT Conference Proceedings
+ID 7017187
+A1 Lee,Uichin
+A1 Wang,Paul
+A1 Noh,Youngtae
+A1 Vieira,Luiz,Filipe,M.
+A1 Gerla,Mario
+A1 Cui,Jun-Hong
+YR 2010
+T1 Pressure Routing for Underwater Sensor Networks
+SP 1676
+OP 1684
+
+RT Conference Proceedings
+ID 51032216
+A1 Yoo,Joon
+A1 Choi,Brian,Sung,Chul
+A1 Gerla,Mario
+YR 2010
+T1 An opportunistic relay protocol for vehicular road-side access with fading channels
+SP 233
+OP 242
+
+RT Conference Proceedings
+ID 39294189
+A1 Kim,Wooseong
+A1 Kassler,Andreas,J.
+A1 Felice,Marco,Di
+A1 Gerla,Mario
+YR 2010
+T1 Urban-X: Towards distributed channel assignment in cognitive multi-radio mesh networks
+SP 1
+OP 5
+
+RT Journal Article
+ID 50927945
+A1 Chen,Nanxi
+A1 Gerla,Mario
+A1 Huang,Dijiang
+A1 Hong,Xiaoyan
+YR 2010
+T1 Secure, selective group broadcast in vehicular networks using dynamic attribute based encryption
+
+RT Conference Proceedings
+ID 50890709
+A1 Cesana,Matteo
+A1 Fratta,Luigi
+A1 Gerla,Mario
+A1 Giordano,Eugenio
+A1 Pau,Giovanni
+YR 2010
+T1 C-VeT the UCLA campus vehicular testbed: Integration of VANET and Mesh networks
+
+RT Journal Article
+ID 14371875
+A1 Vieira,Luiz,Filipe,M.
+A1 Lee,Uichin
+A1 Gerla,Mario
+YR 2010
+T1 Phero-trail: a bio-inspired location service for mobile underwater sensor networks
+JF IEEE Journal on Selected Areas in Communications
+VO 28
+SP 553
+OP 563
+IS 4
+
+RT Conference Proceedings
+ID 39294121
+A1 Lee,Eun-Kyu
+A1 Oh,Soon-Young
+A1 Gerla,Mario
+YR 2010
+T1 Randomized channel hopping scheme for anti-jamming communication
+SP 1
+OP 5
+
+RT Journal Article
+ID 13988351
+A1 Marfia,Gustavo
+A1 Palazzi,Claudio,E.
+A1 Pau,Giovanni
+A1 Gerla,Mario
+A1 Roccetti,Marco
+YR 2010
+T1 TCP Libra: Derivation, analysis, and comparison with other RTT-fair TCPs
+JF Computer Networks
+VO 54
+SP 2327
+OP 2344
+IS 14
+
+RT Journal Article
+ID 5196871
+A1 Lee,Uichin
+A1 Jung,Sewook
+A1 Cho,Dae-Ki
+A1 Chang,Alexander
+A1 Choi,Junho
+A1 Gerla,Mario
+YR 2010
+T1 P2P Content Distribution to Mobile Bluetooth Users
+JF IEEE Transactions on Vehicular Technology
+VO 59
+SP 356
+OP 367
+IS 1
+
+RT Journal Article
+ID 14085657
+A1 Cavendish,Dirceu
+A1 Koide,Hiroshi
+A1 Oie,Yuji
+A1 Gerla,Mario
+YR 2010
+T1 A Mean Value Analysis approach to transaction performance evaluation of multi-server systems
+JF Concurrency and Computation: Practice and Experience
+VO 22
+SP 1267
+OP 1285
+IS 10
+
+RT Conference Proceedings
+ID 50973693
+A1 Cavendish,Dirceu
+A1 Kumazoe,Kazumi
+A1 Tsuru,Masato
+A1 Oie,Yuji
+A1 Gerla,Mario
+YR 2010
+T1 Capacity and Congestion Probing: TCP Congestion Avoidance via Path Capacity and Storage Estimation
+SP 42
+OP 48
+
+RT Conference Proceedings
+ID 39294118
+A1 Oh,Soon-Young
+A1 Lau,Davide
+A1 Gerla,Mario
+YR 2010
+T1 Content Centric Networking in tactical and emergency MANETs
+SP 1
+OP 5
+
+RT Conference Proceedings
+ID 50890704
+A1 Lee,Kevin,C.
+A1 Gerla,Mario
+YR 2010
+T1 Opportunistic vehicular routing
+
+RT Conference Proceedings
+ID 50870445
+A1 Huang,Dijiang
+A1 Zhou,Zhibin
+A1 Hong,Xiaoyan
+A1 Gerla,Mario
+YR 2010
+T1 Establishing Email-Based Social Network Trust for Vehicular Networks
+
+RT Conference Proceedings
+ID 7017209
+A1 Cho,Dae-Ki
+A1 Mun,Min
+A1 Lee,Uichin
+A1 Kaiser,Williams,J.
+A1 Gerla,Mario
+YR 2010
+T1 AutoGait: A mobile platform that accurately estimates the distance walked
+SP 116
+OP 124
+
+RT Conference Proceedings
+ID 51007393
+A1 Kim,Wooseong
+A1 Kassler,Andreas,J.
+A1 Felice,Marco,Di
+A1 Gerla,Mario
+YR 2010
+T1 Cognitive Multi-Radio Mesh Networks on ISM bands: A cross-layer architecture
+SP 34
+OP 41
+
+RT Journal Article
+ID 13289055
+A1 Lee,Kevin,C.
+A1 Cheng,Pei-Chun
+A1 Gerla,Mario
+YR 2010
+T1 GeoCross: A geographic routing protocol in the presence of loops in urban scenarios
+JF Ad Hoc Networks
+VO 8
+SP 474
+OP 488
+IS 5
+
+RT Conference Proceedings
+ID 51032211
+A1 Noh,Youngtae
+A1 Wang,Paul
+A1 Lee,Uichin
+A1 Torres,Dustin
+A1 Gerla,Mario
+YR 2010
+T1 DOTS: A propagation Delay-aware Opportunistic MAC protocol for underwater sensor networks
+SP 183
+OP 192
+
+RT Conference Proceedings
+ID 51004054
+A1 Lu,You
+A1 Zhou,Biao
+A1 Ku,I.
+A1 Gerla,M.
+YR 2010
+T1 Connectivity improvement for inter-domain routing in MANETs
+SP 617
+OP 622
+
+RT Journal Article
+ID 51175280
+A1 Huang,Dijiang
+A1 Hong,Xiaoyan
+A1 Gerla,Mario
+YR 2010
+T1 Situation-aware trust architecture for vehicular networks
+JF IEEE Communications Magazine
+VO 48
+SP 128
+OP 135
+IS 11
+
+RT Journal Article
+ID 14371919
+A1 Eltoweissy,Mohamed,Y.
+A1 Du,David,Hung-Chang
+A1 Gerla,Mario
+A1 Giordano,Silvia
+A1 Gouda,Mohamed,G.
+A1 Schulzrinne,Henning
+A1 Youssef,Moustafa
+A1 Towsley,Donald,F.
+YR 2010
+T1 Mission critical networking [Guest editorial]
+JF IEEE Journal on Selected Areas in Communications
+VO 28
+SP 625
+OP 629
+IS 5
+
+RT Conference Proceedings
+ID 39247131
+A1 Giordano,Eugenio
+A1 Frank,Raphael
+A1 Pau,Giovanni
+A1 Gerla,Mario
+YR 2010
+T1 CORNER: a step towards realistic simulations for VANET
+SP 41
+OP 50
+
+RT Journal Article
+ID 6809241
+A1 Laufer,Rafael
+A1 Vieira,Luiz,Filipe,M.
+A1 Gerla,Mario
+A1 Kleinrock,Leonard
+YR 2010
+T1 Plasma Anypath Routing in Wireless Mesh Networks
+
+RT Journal Article
+ID 13332497
+A1 Park,Joon-Sang
+A1 Lee,Uichin
+A1 Gerla,Mario
+YR 2010
+T1 Vehicular communications: emergency video streams and network coding
+JF Journal of Internet Services and Applications
+VO 1
+SP 57
+OP 68
+IS 1
+
+RT Conference Proceedings
+ID 13578375
+A1 Kwak,Jaewook
+A1 Park,Joon-Sang
+A1 Mo,Jeonghoon
+A1 Gerla,Mario
+YR 2010
+T1 An Optimization Framework for Opportunistic Receiver Scheduling in Wireless Multi-Hop Networks
+SP 1
+OP 6
+
+RT Conference Proceedings
+ID 51015369
+A1 Zeng,Hui
+A1 Li,Jason,H.
+A1 Das,Subir
+A1 McAuley,Anthony
+A1 Lee,John
+A1 Stuhrmann,Thomas
+A1 Gerla,Mario
+YR 2010
+T1 A multi-layer approach for seamless soft handoff in mobile ad hoc networks
+
+RT Journal Article
+ID 39293522
+A1 Lee,Seung-Hoon
+A1 Wong,Starsky,H.,Y.
+A1 Chau,Chi-Kin
+A1 Lee,Kang-Won
+A1 Crowcroft,Jon
+A1 Gerla,Mario
+YR 2010
+T1 InterMR: Inter-MANET routing in heterogeneous MANETs
+SP 372
+OP 381
+
+RT Conference Proceedings
+ID 13986116
+A1 Lee,Kevin,C.
+A1 Navarro,Juan,M.
+A1 Chong,Tin,Y.
+A1 Lee,Uichin
+A1 Gerla,Mario
+YR 2010
+T1 Trace-Based Evaluation of Rate Adaptation Schemes in Vehicular Environments
+SP 1
+OP 5
+
+RT Conference Proceedings
+ID 13666121
+A1 Woodbridge,Jonathan
+A1 Lan,Mars
+A1 Pau,Giovanni
+A1 Gerla,Mario
+A1 Sarrafzadeh,Majid
+YR 2010
+T1 HERO: Hybrid Emergency Route-Opening Protocol
+SP 364
+OP 369
+
+RT Conference Proceedings
+ID 6260651
+A1 Soon,Y.,O.
+A1 Lee,Eun-Kyu
+A1 Gerla,Mario
+YR 2010
+T1 Adaptive forwarding rate control for network coding in tactical manets
+SP 1381
+OP 1386
+
+RT Journal Article
+ID 47010122
+A1 Lee,Kevin,C.
+A1 Lee,Uichin
+A1 Gerla,Mario
+YR 2010
+T1 Geo-opportunistic routing for vehicular networks [Topics in Automotive Networking]
+JF IEEE Communications Magazine
+VO 48
+SP 164
+OP 170
+IS 5
+
+RT Conference Proceedings
+ID 51021103
+A1 Kumazoe,Kazumi
+A1 Cavendish,Dirceu
+A1 Tsuru,Masato
+A1 Oie,Yuji
+A1 Gerla,Mario
+YR 2010
+T1 Transmission Control Protocols Evaluation over Satellite Networks
+
+RT Conference Proceedings
+ID 51004063
+A1 Xie,Peng
+A1 Yackoski,Justin
+A1 Li,Jason,H.
+A1 Levy,Renato
+A1 Gerla,Mario
+YR 2010
+T1 TCP-Derwood: A TCP variant to address link switches
+SP 644
+OP 649
+
+RT Journal Article
+ID 27511616
+A1 Cao,Zhen
+A1 Kong,Jiejun
+A1 Gerla,Mario
+A1 Chen,Zhong
+A1 Hu,Jianbin
+YR 2010
+T1 Filtering false data via authentic consensus in vehicle ad hoc networks
+JF International Journal of Autonomous and Adaptive Communications Systems
+VO 3
+SP 217
+IS 2
+
+RT Conference Proceedings
+ID 51015356
+A1 Lu,You
+A1 Zhou,Biao
+A1 Jia,Fei
+A1 Gerla,M.
+YR 2010
+T1 Group-based secure source authentication protocol for VANETs
+
+RT Conference Proceedings
+ID 50986139
+A1 Frank,Raphael
+A1 Giordano,Eugenio
+A1 Cataldi,Pasquale
+A1 Gerla,Mario
+YR 2010
+T1 TrafRoute: A different approach to routing in vehicular networks
+
+RT Conference Proceedings
+ID 13756656
+A1 Frank,Raphael
+A1 Scherer,Thomas
+A1 Gerla,Mario
+YR 2010
+T1 EDFS a novel flooding protocol for multi-hop wireless networks
+
+RT Conference Proceedings
+ID 51014746
+A1 Tung,Lung-Chih
+A1 Gerla,Mario
+YR 2010
+T1 An efficient road-based directional broadcast protocol for urban VANETs
+SP 9
+OP 16
+
+RT Conference Proceedings
+ID 13287701
+A1 Yang,Sungwon
+A1 Gerla,Mario
+YR 2010
+T1 Energy-Efficient Accelerometer Data Transfer for Human Body Movement Studies
+SP 304
+OP 311
+
+RT Conference Proceedings
+ID 50883441
+A1 Choi,Brian,Sung,Chul
+A1 Gerla,Mario
+YR 2010
+T1 Wireless Interrupt: Inter-Device Signaling in Next Generation Wireless Networks
+
+RT Conference Proceedings
+ID 50872396
+A1 Oh,Soon,Y.
+A1 Gerla,Mario
+YR 2010
+T1 Protecting network coded packets in coalition networks
+
+RT Journal Article
+ID 50903635
+A1 Dressler,Falko
+A1 Awad,Abdalkarim
+A1 Gerla,Mario
+YR 2010
+T1 Inter-Domain Routing and Data Replication in Virtual Coordinate Based Networks
+SP 1
+OP 5
+
+RT Journal Article
+ID 6132928
+A1 Vieira,Luiz,Filipe,M.
+A1 Lee,Uichin
+A1 Gerla,Mario
+YR 2010
+T1 Phero-Trail: Bio-inspired Routing in Underwater Sensor Networks
+
+RT Journal Article
+ID 27082255
+A1 Lee,Uichin
+A1 Magistretti,Eugenio
+A1 Gerla,Mario
+A1 Bellavista,Paolo
+A1 Corradi,Antonio
+YR 2009
+T1 Dissemination and Harvesting of Urban Data Using Vehicular Sensing Platforms
+JF IEEE Transactions on Vehicular Technology
+VO 58
+SP 882
+OP 901
+IS 2
+
+RT Journal Article
+ID 4506143
+A1 Lee,Uichin
+A1 Magistretti,Eugenio
+A1 Gerla,Mario
+A1 Bellavista,Paolo
+A1 Liò,Pietro
+A1 Lee,Kang-won
+YR 2009
+T1 Bio-inspired multi-agent data harvesting in a proactive urban monitoring environment
+JF Ad Hoc Networks
+VO 7
+SP 725
+OP 741
+IS 4
+
+RT Conference Proceedings
+ID 5327206
+A1 Oh,Soon,Y.
+A1 Gerla,Mario
+A1 Tiwari,Abhishek
+YR 2009
+T1 Robust MANET routing using adaptive path redundancy and coding
+
+RT Conference Proceedings
+ID 12134402
+A1 Hamidian,Ali
+A1 Palazzi,Claudio,E.
+A1 Chong,Tin,Y.
+A1 Navarro,Juan,M.
+A1 Körner,Ulf
+A1 Gerla,Mario
+YR 2009
+T1 Deployment and Evaluation of a Wireless Mesh Network
+
+RT Conference Proceedings
+ID 5187133
+A1 Kim,Jihyoung
+A1 Lim,Jung,Soo
+A1 Friedman,Jonathan
+A1 Lee,Uichin
+A1 Vieira,L.
+A1 Rosso,D.
+A1 Gerla,M.
+A1 Srivastava,M.,B.
+YR 2009
+T1 SewerSnort: A Drifting Sensor for In-situ Sewer Gas Monitoring
+
+RT Conference Proceedings
+ID 7017185
+A1 Zhou,Biao
+A1 Cao,Zhen
+A1 Gerla,Mario
+YR 2009
+T1 Cluster-based inter-domain routing (cidr) protocol for MANETs
+
+RT Journal Article
+ID 4768381
+A1 Caini,Carlo
+A1 Firrincieli,Rosario
+A1 Lacamera,Daniele
+A1 Cola,Tomaso,De
+A1 Marchese,Mario
+A1 Marcondes,Cesar
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2009
+T1 Analysis of TCP live experiments on a real GEO satellite testbed
+JF Performance Evaluation
+VO 66
+SP 287
+OP 300
+IS 6
+
+RT Journal Article
+ID 50781437
+A1 Cataldi,Pasquale
+A1 Tomatis,Andrea
+A1 Grilli,Gianluca
+A1 Gerla,Mario
+YR 2009
+T1 CORP: Cooperative rateless code protocol for vehicular content dissemination
+
+RT Conference Proceedings
+ID 5157924
+A1 Lee,Kevin,C.
+A1 Lee,Uichin
+A1 Gerla,Mario
+YR 2009
+T1 TOGO: TOpology-assist geo-opportunistic routing in urban vehicular grids
+
+RT Conference Proceedings
+ID 5774789
+A1 Erol,Melike
+A1 Vieira,Luiz,Filipe,M.
+A1 Gerla,Mario
+YR 2009
+T1 AUV-Aided Localization for Underwater Sensor Networks
+
+RT Journal Article
+ID 6463275
+A1 Lee,Eun-Kyu
+A1 Yoo,Young,Min
+A1 Park,Chan,Gook
+A1 Kim,Minsoo
+A1 Gerla,Mario
+YR 2009
+T1 Installation and evaluation of RFID readers on moving vehicles
+SP 99
+OP 108
+
+RT Conference Proceedings
+ID 4839480
+A1 Cataldi,Pasquale
+A1 Tomatis,Andrea
+A1 Grilli,Gianluca
+A1 Gerla,Mario
+YR 2009
+T1 A novel data dissemination method for vehicular networks with rateless codes
+SP 2903
+OP 2908
+
+RT Conference Proceedings
+ID 7017207
+A1 Lee,Eun-Kyu
+A1 Yang,Sungwon
+A1 Oh,Soon-Young
+A1 Gerla,Mario
+YR 2009
+T1 RF-GPS: RFID Assisted Localization in VANETs
+SP 621
+OP 626
+
+RT Conference Proceedings
+ID 10876188
+A1 Lee,Kevin,C.
+A1 Piechowicz,Adam
+A1 Gerla,Mario
+A1 Tiwari,Abhishek
+A1 Ganguli,Anurag
+A1 Krzysiak,David
+YR 2009
+T1 Delay tolerant Mobility Aware Routing/Mobility Dissemination Protocol for the airborne network
+
+RT Conference Proceedings
+ID 6127812
+A1 Kim,Wooseong
+A1 Oh,Soon,Y.
+A1 Gerla,Mario
+A1 Park,Joon-Sang
+YR 2009
+T1 COCAST: Multicast mobile ad hoc networks using cognitive radio
+
+RT Conference Proceedings
+ID 50799438
+A1 Sahoo,Jagruti
+A1 Wu,E.
+A1 Sahu,P.,K.
+A1 Gerla,M.
+YR 2009
+T1 BPAB: Binary Partition Assisted Emergency Broadcast Protocol For Vehicular Ad Hoc Networks
+SP 1
+OP 6
+
+RT Journal Article
+ID 10261555
+A1 Chen,Ling-Jyh
+A1 Kapoor,Rohit
+A1 Jung,Sewook
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2009
+T1 An adaptive ARQ timeout approach for audio streaming over Bluetooth
+JF International Journal of Wireless and Mobile Computing
+VO 3
+SP 255
+OP 264
+IS 4
+
+RT Conference Proceedings
+ID 6222657
+A1 Cavendish,Dirceu
+A1 Kumazoe,Kazumi
+A1 Tsuru,Masato
+A1 Oie,Yuji
+A1 Gerla,Mario
+YR 2009
+T1 CapStart: An Adaptive TCP Slow Start for High Speed Networks
+
+RT Conference Proceedings
+ID 5793194
+A1 Giordano,Eugenio
+A1 Frank,Raphael
+A1 Ghosh,Abhishek
+A1 Pau,Giovanni
+A1 Gerla,Mario
+YR 2009
+T1 Two Ray or not Two Ray this is the price to pay
+SP 603
+OP 608
+
+RT Conference Proceedings
+ID 50845458
+A1 Guven,Tuna
+A1 Zeng,Hui
+A1 Li,J.,H.
+A1 Luo,Song
+A1 Das,Subir
+A1 McAuley,T.
+A1 Stuhrmann,T.
+A1 Sherrick,J.
+A1 Adelfio,C.
+A1 Spoenlein,S.
+A1 Staikos,A.
+A1 Gerla,M.
+YR 2009
+T1 A multi-layer approach for seamless handoff in ad hoc networks with wireless heterogenity
+
+RT Conference Proceedings
+ID 10779612
+A1 Zhou,Biao
+A1 Tiwari,Abhishek
+A1 Zhu,Konglin
+A1 Lu,You
+A1 Gerla,Mario
+A1 Ganguli,Anurag
+A1 Shen,Bao-hong
+A1 Krzysiak,David
+YR 2009
+T1 Geo-based inter-domain routing (GIDR) protocol for MANETs
+
+RT Conference Proceedings
+ID 6771598
+A1 Lee,Kevin,C.
+A1 Zhu,Jiajie
+A1 Fan,Jih-Chung
+A1 Gerla,Mario
+YR 2009
+T1 Histogram-based density discovery in establishing road connectivity
+
+RT Journal Article
+ID 47011439
+A1 Park,Joon-Sang
+A1 Cho,Sung-Woo
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2009
+T1 An analytical framework for neighbor discovery strategies in ad hoc networks with sectorized antennas
+JF IEEE Communications Letters
+VO 13
+SP 832
+OP 834
+IS 11
+
+RT Journal Article
+ID 6997407
+A1 Lee,Uichin
+A1 Oh,Soon,Y.
+A1 Lee,Kang-Won
+A1 Gerla,Mario
+YR 2009
+T1 Scaling properties of delay tolerant networks with correlated motion patterns
+SP 19
+OP 26
+
+RT Journal Article
+ID 5740427
+A1 Chen,Ling-jyh
+A1 Sun,Tony
+A1 Yang,Guang
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2009
+T1 AdHoc Probe: end-to-end capacity probing in wireless ad hoc networks
+JF Wireless Networks
+VO 15
+SP 111
+OP 126
+IS 1
+
+RT Journal Article
+ID 27100705
+A1 Lee,Kevin,C.
+A1 Le,Michael
+A1 Harri,Jerome
+A1 Gerla,Mario
+YR 2009
+T1 Taking the LOUVRE approach
+JF IEEE Vehicular Technology Magazine
+VO 4
+SP 86
+OP 92
+IS 1
+
+RT Conference Proceedings
+ID 7017188
+A1 Goudar,Vishwa
+A1 Cohen,Michael
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+A1 Zampognaro,Francesco
+YR 2009
+T1 Towards handoff tolerance in TCP: Link layer handoff detection for optimized data transport
+
+RT Conference Proceedings
+ID 6043989
+A1 Cavendish,Dirceu
+A1 Oie,Yuji
+A1 Koide,Hiroshi
+A1 Gerla,Mario
+YR 2009
+T1 A Mean Value Analysis approach to transaction performance evaluation on multi-server systems
+SP 50
+OP 55
+
+RT Conference Proceedings
+ID 50844453
+A1 Cavendish,Dirceu
+A1 Oie,Yuji
+A1 Koide,Hiroshi
+A1 Gerla,Mario
+YR 2009
+T1 Characterizing Transactions on Multi-server Systems
+
+RT Conference Proceedings
+ID 50845306
+A1 Oh,Soon,Y.
+A1 Gerla,Mario
+A1 Tiwari,Abhishek
+A1 Shen,Bao-Hong
+YR 2009
+T1 Thin Layer approach to increase reliability in ad hoc network
+
+RT Conference Proceedings
+ID 5737029
+A1 Vieira,Luiz,Filipe,M.
+A1 Gerla,Mario
+A1 Misra,Archan
+YR 2009
+T1 Bounds on Network Coding and Multi-Rate Diversity Gain in Multicast Wireless Applications
+
+RT Conference Proceedings
+ID 4839453
+A1 Cataldi,Pasquale
+A1 Gerla,Mario
+A1 Zampognaro,Francesco
+YR 2009
+T1 Rateless Codes for File Transfer over DVB-S
+
+RT Conference Proceedings
+ID 50824347
+A1 Gerla,M.
+YR 2009
+T1 Keynote 1
+
+RT Journal Article
+ID 4766605
+A1 Soon-young,Oh
+A1 Park,Joon-sang
+A1 Gerla,Mario
+YR 2008
+T1 E-ODMRP: Enhanced ODMRP with motion adaptive refresh
+JF Journal of Parallel and Distributed Computing
+VO 68
+SP 1044
+OP 1053
+IS 8
+
+RT Conference Proceedings
+ID 13597259
+A1 Fujimura,Atsushi
+A1 Oh,Soon,Y.
+A1 Gerla,Mario
+YR 2008
+T1 Network coding vs. erasure coding: Reliable multicast in ad hoc networks
+
+RT Conference Proceedings
+ID 4332459
+A1 Lee,Kevin,C.
+A1 Le,Michael
+A1 Härri,Jérôme
+A1 Gerla,Mario
+YR 2008
+T1 LOUVRE: Landmark Overlays for Urban Vehicular Routing Environments
+SP 1
+OP 5
+
+RT Conference Proceedings
+ID 50686668
+A1 Erol,Melike
+A1 Vieira,Luiz,F.,M.
+A1 Caruso,Antonio
+A1 Paparella,Francesco
+A1 Gerla,Mario
+A1 Oktug,Sema
+YR 2008
+T1 Multi Stage Underwater Sensor Localization Using Mobile Beacons
+
+RT Conference Proceedings
+ID 4722395
+A1 Caruso,Antonio
+A1 Paparella,Francesco
+A1 Vieira,Luiz,Filipe,M.
+A1 Erol,Melike
+A1 Gerla,Mario
+YR 2008
+T1 The Meandering Current Mobility Model and its Impact on Underwater Mobile Sensor Networks
+SP 221
+OP 225
+
+RT Conference Proceedings
+ID 5709539
+A1 Sun,Tony
+A1 Chen,Ling-Jyh
+A1 Han,Chih-Chieh
+A1 Gerla,Mario
+YR 2008
+T1 Re1:iable Sensor Networks for Planet Exploration
+
+RT Journal Article
+ID 4357148
+A1 Chen,Jiwei
+A1 Gerla,Mario
+A1 Lee,Yeng-zhong
+A1 Sanadidi,M.,Y.
+YR 2008
+T1 TCP with delayed ack for wireless networks
+JF Ad Hoc Networks
+VO 6
+SP 1098
+OP 1116
+IS 7
+
+RT Journal Article
+ID 6932790
+A1 Lee,Sung-Ju
+A1 Su,William
+A1 Gerla,Mario
+YR 2008
+T1 Exploiting the Uiiicast Functionality of the On-Demand Multicast Routing Protocol
+
+RT Conference Proceedings
+ID 13615329
+A1 Tiwari,Abhishek
+A1 Ganguli,Anurag
+A1 Sampath,Ashwin
+A1 Anderson,D.,S.
+A1 Shen,B.-h.
+A1 Krishnamurthi,Niyant
+A1 Yadegar,Joseph
+A1 Gerla,Mario
+A1 Krzysiak,David
+YR 2008
+T1 Mobility Aware Routing for the Airborne Network backbone
+
+RT Journal Article
+ID 6791745
+A1 Cao,Zhen
+A1 Kong,Jiejun
+A1 Lee,U,ichin
+A1 Gerla,Mario
+A1 Chen,Zhong
+YR 2008
+T1 Proof-of-relevance: Filtering false data via authentic consensus in Vehicle Ad-hoc Networks
+
+RT Conference Proceedings
+ID 5645062
+A1 Razdan,A.
+A1 Nandan,A.
+A1 Wang,R.
+A1 Sanadidi,M.,Y.
+A1 Gerla,M.
+YR 2008
+T1 Enhancing TCP Performance in Networks with Small Buffers
+
+RT Journal Article
+ID 4526865
+A1 Yi,Yunjung
+A1 Park,Joon-Sang
+A1 Lee,Sungwook
+A1 Lee,Yeng-Zhong
+A1 Gerla,Mario
+YR 2008
+T1 Implementation and Validation of Multicast-Enabled Landmark Ad-hoc Routing (M-LANMAR) Protocol
+
+RT Conference Proceedings
+ID 5513043
+A1 Lee,Uichin
+A1 Oh,Soon,Young
+A1 Lee,Kang-Won
+A1 Gerla,Mario
+YR 2008
+T1 RelayCast: Scalable multicast routing in Delay Tolerant Networks
+SP 218
+OP 227
+
+RT Conference Proceedings
+ID 50647335
+A1 Hu,Wendong
+A1 Gerla,Mario
+A1 Vlantis,George,A.
+A1 Pottie,Gregory,J.
+YR 2008
+T1 Efficient, flexible, and scalable inter-network spectrum sharing and communications in cognitive IEEE 802.22 networks
+
+RT Journal Article
+ID 4427665
+A1 Wang,Weichao
+A1 Kong,Jiejun
+A1 Bhargava,Bharat,K.
+A1 Gerla,Mario
+YR 2008
+T1 Visualisation of wormholes in underwater sensor networks: a distributed approach
+JF International Journal of Security and Networks
+VO 3
+SP 10
+OP 23
+IS 1
+
+RT Journal Article
+ID 4402029
+A1 Jung,Sewook
+A1 Chang,Alexander
+A1 Gerla,Mario
+YR 2008
+T1 Peer to peer video streaming in Bluetooth overlays
+JF Multimedia Tools and Applications
+VO 37
+SP 263
+OP 292
+IS 3
+
+RT Conference Proceedings
+ID 10779615
+A1 Zhou,Biao
+A1 Lee,Yeng-Zhong
+A1 Gerla,Mario
+YR 2008
+T1 “Direction” assisted Geographic Routing for mobile ad hoc networks
+
+RT Journal Article
+ID 4365039
+A1 Chen,Ling-jyh
+A1 Sun,Tony
+A1 Wang,Bo-chun
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2008
+T1 PBProbe: A capacity estimation tool for high speed networks
+JF Computer Communications
+VO 31
+SP 3883
+OP 3893
+IS 17
+
+RT Conference Proceedings
+ID 4583531
+A1 Gerla,Mario
+A1 Lee,Yeng-Zhong
+A1 Park,Joon-Sang
+A1 Yi,Yunjung
+YR 2008
+T1 On Demand Multicast Routing with Unidirectional Links
+
+RT Conference Proceedings
+ID 10504975
+A1 Jea,David
+A1 Balani,Rahul
+A1 Hsu,Ju-Lan
+A1 Cho,Dae-Ki
+A1 Gerla,Mario
+A1 Srivastava,Mani,B.
+YR 2008
+T1 Diagnostic quality driven physiological data collection for personal healthcare
+SP 2857
+OP 2860
+
+RT Conference Proceedings
+ID 4743674
+A1 Lee,Seung-hoon
+A1 Lee,Uichin
+A1 Lee,Kang-won
+A1 Gerla,Mario
+YR 2008
+T1 Content Distribution in VANETs Using Network Coding: The Effect of Disk I/O and Processing O/H
+SP 117
+OP 125
+
+RT Conference Proceedings
+ID 4304131
+A1 Marfia,Gustavo
+A1 Lutterotti,Paolo
+A1 Eidenbenz,Stephan
+A1 Pau,Giovanni
+A1 Gerla,Mario
+YR 2008
+T1 FairCast: fair multi-media streaming in ad hoc networks through local congestion control
+SP 2
+OP 9
+
+RT Journal Article
+ID 4943409
+A1 Hong,Xiaoyan
+A1 Huang,Dijiang
+A1 Gerla,Mario
+A1 Cao,Zhen
+YR 2008
+T1 SAT: situation-aware trust architecture for vehicular networks
+SP 31
+OP 36
+
+RT Journal Article
+ID 5765147
+A1 Lee,Kevin,C.
+A1 Cheng,Pei-Chun
+A1 Weng,Jui-Ting
+A1 Tung,Lung-Chih
+A1 Gerla,Mario
+YR 2008
+T1 VCLCR: A Practical Geographic Routing Protocol in Urban Scenarios
+
+RT Journal Article
+ID 5450164
+A1 Lee,Yeng-Zhong
+A1 Chen,Jason
+A1 Hong,Xiaoyan
+A1 Xu,Kaixin
+A1 Breyer,Teresa
+A1 Gerla,Mario
+YR 2008
+T1 Experimental Evaluation of LANMAR, a Scalable Ad-Hoc Routing Protocol
+
+RT Journal Article
+ID 4762421
+A1 Park,Joon-Sang
+A1 Lee,Uichin
+A1 Soon-young,Oh
+A1 Gerla,Mario
+A1 Lun,Desmond,S.
+A1 Ro,Won,Woo
+YR 2008
+T1 Delay Analysis of Car-to-Car Reliable Data Delivery Strategies Based on Data Mulling with Network Coding
+JF Ieice Transactions
+VO 91-D
+SP 2524
+OP 2527
+IS 10
+
+RT Conference Proceedings
+ID 13716727
+A1 Li,Jason,H.
+A1 Luo,Song
+A1 Guven,Tuna
+A1 Cheng,Yi
+A1 Das,Subir
+A1 McAuley,T.
+A1 Sherrick,J.
+A1 Adelfio,C.
+A1 Spoenlein,S.
+A1 Staikos,A.
+A1 Gerla,M.
+YR 2008
+T1 On providing seamless handoff in ad hoc networks with wireless heterogeneity
+
+RT Book, Whole
+ID 4304686
+A1 Barbera,Mario
+A1 Gerla,Mario
+A1 Lombardo,Alfio
+A1 Panarello,C.
+A1 Sanadidi,M.,Y.
+A1 Schembra,Giovanni
+YR 2008
+T1 Active Window Management: Performance Assessment through an Extensive Comparison with XCP
+SP 679
+OP 690
+
+RT Conference Proceedings
+ID 4752602
+A1 Iftode,Liviu
+A1 Smaldone,Stephen
+A1 Gerla,Mario
+A1 Misener,James
+YR 2008
+T1 Active Highways (Position Paper)
+SP 1
+OP 5
+
+RT Conference Proceedings
+ID 4332169
+A1 Noshadi,Hyduke
+A1 Giordano,Eugenio
+A1 Hagopian,Hagop
+A1 Pau,Giovanni
+A1 Gerla,Mario
+A1 Sarrafzadeh,Majid
+YR 2008
+T1 Remote Medical Monitoring Through Vehicular Ad Hoc Network
+SP 1
+OP 5
+
+RT Journal Article
+ID 6942434
+A1 Hong,Xiaoyan
+A1 Gerla,Mario
+A1 Bagrodia,Rajive
+A1 Kwon,Task,Jin
+A1 Estabrook,Polly
+A1 Pei,Guangyu
+YR 2008
+T1 The Mars Sensor Network: Efficient, Energy Aware Communications
+
+RT Conference Proceedings
+ID 4573312
+A1 Kazantzidis,Manthos
+A1 Gerla,Mario
+YR 2008
+T1 The impact of link layer assisted multimedia adaptation in wireless networks
+
+RT Conference Proceedings
+ID 5775332
+A1 Marcondes,Cesar
+A1 Matthews,Jerrid
+A1 Chen,Robert
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2008
+T1 A Cross-Comparison of Advanced TCP Protocols in High Speed and Satellite Environments
+
+RT Conference Proceedings
+ID 4733948
+A1 Cho,Dae-ki
+A1 Lee,Seung-hoon
+A1 Chang,Alexander
+A1 Massey,Tammara
+A1 Chang,Chia-wei
+A1 Tsai,Min-hsieh
+A1 Sarrafzadeh,Majid
+A1 Gerla,Mario
+YR 2008
+T1 Opportunistic medical monitoring using bluetooth P2P networks
+SP 1
+OP 6
+
+RT Conference Proceedings
+ID 4713652
+A1 Marcondes,Cesar
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+A1 Shimonishi,Hideyuki
+YR 2008
+T1 TCP Adaptive Westwood- Combining TCP Westwood and Adaptive Reno: A Safe Congestion Control Proposal
+SP 5569
+OP 5575
+
+RT Conference Proceedings
+ID 4505340
+A1 Lee,Seung-hoon
+A1 Jung,Sewook
+A1 Chang,Alexander
+A1 Cho,Dae-ki
+A1 Gerla,Mario
+YR 2008
+T1 Bluetooth 2.1 based Emergency Data Delivery System in HealthNet
+SP 3057
+OP 3062
+
+RT Conference Proceedings
+ID 4552208
+A1 Palazzi,C.,E.
+A1 Roseti,C.
+A1 Luglio,M.
+A1 Gerla,M.
+A1 Sanadidi,M.,Y.
+A1 Stepanek,J.
+YR 2008
+T1 Satellite coverage in urban areas using Unmanned Airborne Vehicles (UAVs)
+
+RT Conference Proceedings
+ID 4713715
+A1 Kumazoe,Kazumi
+A1 Marcondes,Cesar
+A1 Gerla,Mario
+A1 Cavendish,Dirceu
+A1 Tsuru,Masato
+A1 Oie,Yuji
+YR 2008
+T1 Conservative Slow Start: Controlling Losses in Very High Speed Networks
+SP 5798
+OP 5803
+
+RT Conference Proceedings
+ID 4303138
+A1 Vieira,Luiz,Filipe,M.
+A1 Lee,Uichin
+A1 Gerla,Mario
+YR 2008
+T1 Phero-Trail: a bio-inspired location service for mobile underwater sensor networks
+SP 43
+OP 50
+
+RT Conference Proceedings
+ID 50645429
+A1 Soldo,F.
+A1 Cigno,R.,Lo
+A1 Gerla,M.
+YR 2008
+T1 Cooperative Synchronous Broadcasting in Infrastructure-to-Vehicles Networks
+
+RT Conference Proceedings
+ID 4355625
+A1 Marcondes,Cesar
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+A1 Schwartz,Ramon,S.
+A1 Santos,Raphael,O.
+A1 Martinello,Magnos
+YR 2008
+T1 PathCrawler: Automatic harvesting web infra-structure
+SP 339
+OP 346
+
+RT Conference Proceedings
+ID 4304146
+A1 Oh,Soon,Y.
+A1 Marfia,Gustavo
+A1 Gerla,Mario
+YR 2008
+T1 ProbeCast: MANET admission control via probing
+SP 71
+OP 78
+
+RT Journal Article
+ID 4365012
+A1 Yi,Yunjung
+A1 Kong,Jiejun
+A1 Gerla,Mario
+A1 Park,Joon-sang
+YR 2008
+T1 CORA: Collaborative Opportunistic Recovery Algorithm for loss controlled, delay bounded ad hoc multicast
+JF Computer Communications
+VO 31
+SP 3672
+OP 3682
+IS 15
+
+RT Conference Proceedings
+ID 4752900
+A1 Gerlay,Mario
+A1 Cascella,Roberto,G.
+A1 Caoy,Zhen
+A1 Crispo,Bruno
+A1 Battiti,Roberto
+YR 2008
+T1 An efficient weak secrecy scheme for network coding data dissemination in VANET
+SP 1
+OP 5
+
+RT Journal Article
+ID 6371052
+A1 Conti,Marco
+A1 Gerla,Mario
+A1 Passarella,Andrea
+A1 Pau,Giovanni
+YR 2008
+T1 Report on the First MobiSys ACM workshop on mobile opportunistic networking (MobiOpp'07)
+JF Mobile Computing and Communications Review
+VO 12
+SP 65
+OP 66
+IS 2
+
+RT Conference Proceedings
+ID 5024037
+A1 Cascella,Roberto,G.
+A1 Caoy,Zhen
+A1 Gerla,Mario
+A1 Crispo,Bruno
+A1 Battiti,Roberto
+YR 2008
+T1 Weak data secrecy via obfuscation in network coding based content distribution
+
+RT Journal Article
+ID 6907646
+A1 Kong,Jiejun
+A1 Chen,Ling-Jyh
+A1 Jakobsson,Markus
+A1 Moyer,Stan
+A1 Marples,Dave
+A1 Gerla,Mario
+YR 2008
+T1 AN ENHANCED DIGITAL CONTENT MEDIATOR (DCM) APPROACH TO IMPLEMENTING LEGITIMATE AND SECURE P2P ONLINE TRANSACTIONS
+
+RT Conference Proceedings
+ID 50645420
+A1 Lim,Jungsoo
+A1 Lee,Uichin
+A1 Gerla,M.
+A1 Kaiser,W.,J.
+YR 2008
+T1 Sewage Grid: Drifting Sensors that Monitor the Wastewater Collection System
+
+RT Conference Proceedings
+ID 13719493
+A1 Zhao,Pengkai
+A1 Daneshrad,Babak
+A1 Gerla,Mario
+A1 Pei,Guangyu
+A1 Kim,Jae,H.
+YR 2008
+T1 Concurrent link capacity of MIMO ad-hoc networks with QoS constraint
+
+RT Conference Proceedings
+ID 4332440
+A1 Giordano,Eugenio
+A1 Tomatis,Andrea
+A1 Ghosh,Abhishek
+A1 Pau,Giovanni
+A1 Gerla,Mario
+YR 2008
+T1 C-VeT An Open Research Platform for VANETs: Evaluation of Peer to Peer Applications in Vehicular Networks
+SP 1
+OP 2
+
+RT Conference Proceedings
+ID 4738838
+A1 Gao,Dawei
+A1 Shu,Yantai
+A1 Yu,Li
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2008
+T1 TCP SPC: Statistic Process Control for Enhanced Transport over Wireless Links
+SP 5453
+OP 5457
+
+RT Conference Proceedings
+ID 13535760
+A1 Luo,Song
+A1 Li,Jason,H.
+A1 Levy,Renato
+A1 Das,Subir
+A1 McAuley,T.
+A1 Gerla,Mario
+YR 2008
+T1 Cross-layer design for reliable communication in Airborne Networks
+
+RT Journal Article
+ID 7017183
+A1 Tang,Ken
+A1 Correa,Mario
+A1 Gerla,Mario
+YR 2008
+T1 Isolation of Wireless Ad hoc Medium Access Mechanisms under TCP
+
+RT Conference Proceedings
+ID 50707696
+A1 Dong,Linfang
+A1 Shu,Yantai
+A1 Sanadidi,Medy
+A1 Gerla,Mario
+YR 2008
+T1 A Method for Improving the TCP Fairness in Wireless Ad Hoc Networks
+
+RT Conference Proceedings
+ID 13585439
+A1 Cho,Dae-Ki
+A1 Chang,Chia-Wei
+A1 Tsai,Min-Hsieh
+A1 Gerla,Mario
+YR 2008
+T1 Networked medical monitoring in the battlefield
+
+RT Conference Proceedings
+ID 50686360
+A1 Palazzi,Claudio,E.
+A1 Pau,Giovanni
+A1 Marcondes,Cesar
+A1 Gerla,Mario
+YR 2008
+T1 Shareable Bandwidth Estimation on Satellite Links
+
+RT Journal Article
+ID 4746784
+A1 Cao,Zhen
+A1 Kong,Jiejun
+A1 Gerla,Mario
+A1 Wu,Dapeng
+YR 2008
+T1 A Randomized Complexity-theoretic Model of Bio-inspired Mobile Epidemics via Close Contact
+SP 23
+OP 28
+
+RT Journal Article
+ID 7017191
+A1 Gerlat,Mario
+A1 Wengt,Wenjie
+A1 Cigno,Renato,Lo
+YR 2008
+T1 BA-TCP: A Bandwidth Aware TCP for Satellite Networks
+
+RT Conference Proceedings
+ID 4304120
+A1 Gerla,Mario
+YR 2008
+T1 Vehicular urban sensing: efficiency and privacy
+SP 1
+OP 1
+
+RT Journal Article
+ID 6679118
+A1 Pazos,Carlos,M.
+A1 Gerla,Mario
+YR 2008
+T1 ATM Virtual Private Networks for the Internet Multim.edia Traffic
+
+RT Journal Article
+ID 4307913
+A1 Jung,Sewook
+A1 Lee,Uichin
+A1 Chang,Alexander
+A1 Cho,Dae-ki
+A1 Gerla,Mario
+YR 2007
+T1 BlueTorrent: Cooperative Content Sharing for Bluetooth Users
+JF Pervasive and Mobile Computing
+VO 3
+SP 47
+OP 56
+IS 6
+
+RT Conference Proceedings
+ID 5451504
+A1 Lee,Kevin,C.
+A1 Lee,Seung-Hoon
+A1 Cheung,Ryan
+A1 Lee,Uichin
+A1 Gerla,Mario
+YR 2007
+T1 First Experience with CarTorrent in a Real Vehicular Ad Hoc Network Testbed
+
+RT Conference Proceedings
+ID 4142684
+A1 Lee,Suk-bok
+A1 Pan,Gabriel
+A1 Park,Joon-sang
+A1 Gerla,Mario
+A1 Lu,Songwu
+YR 2007
+T1 Secure incentives for commercial ad dissemination in vehicular networks
+SP 150
+OP 159
+
+RT Journal Article
+ID 4660917
+A1 Marfia,Gustavo
+A1 Pau,Giovanni
+A1 Sena,Enzo,De
+A1 Giordano,Eugenio
+A1 Gerla,Mario
+YR 2007
+T1 Evaluating vehicle network strategies for downtown Portland: opportunistic infrastructure and the importance of realistic mobility models
+SP 47
+OP 51
+
+RT Conference Proceedings
+ID 4529788
+A1 Palazzi,Claudio,E.
+A1 Ferretti,Stefano
+A1 Roccetti,Marco
+A1 Pau,Giovanni
+A1 Gerla,Mario
+YR 2007
+T1 How Do You Quickly Choreograph Inter-Vehicular Communications? A Fast Vehicle-to-Vehicle Multi-Hop Broadcast Algorithm, Explained
+
+RT Conference Proceedings
+ID 4302966
+A1 Erol,Melike
+A1 Vieira,Luiz,Filipe,M.
+A1 Gerla,Mario
+YR 2007
+T1 Localization with Dive'N'Rise (DNR) beacons for underwater acoustic sensor networks
+SP 97
+OP 100
+
+RT Journal Article
+ID 2517657
+A1 Lao,Li
+A1 Cui,Jun-hong
+A1 Gerla,Mario
+A1 Chen,Shigang
+YR 2007
+T1 A Scalable Overlay Multicast Architecture for Large-Scale Applications
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 18
+SP 449
+OP 459
+IS 4
+
+RT Journal Article
+ID 4414730
+A1 Kong,Jiejun
+A1 Hong,Xiaoyan
+A1 Gerla,Mario
+YR 2007
+T1 An Identity-Free and On-Demand Routing Scheme against Anonymity Threats in Mobile Ad Hoc Networks
+JF IEEE Transactions on Mobile Computing
+VO 6
+SP 888
+OP 902
+IS 8
+
+RT Conference Proceedings
+ID 5562094
+A1 Lee,Kevin,C.
+A1 Lee,Uichin
+A1 Gerla,Mario
+YR 2007
+T1 Enhanced Perimeter Routing for Geographic Forwarding Protocols in Urban Vehicular Scenarios
+
+RT Journal Article
+ID 47009534
+A1 Sentinelli,Alexandro
+A1 Marfia,Gustavo
+A1 Gerla,Mario
+A1 Kleinrock,Leonard
+A1 Tewari,Saurabh
+YR 2007
+T1 Will IPTV ride the peer-to-peer stream? [Peer-to-Peer Multimedia Streaming]
+JF IEEE Communications Magazine
+VO 45
+SP 86
+OP 92
+IS 6
+
+RT Conference Proceedings
+ID 50573946
+A1 Erol,Melike
+A1 Vieira,L.,F.,M.
+A1 Gerla,M.
+YR 2007
+T1 AUV-Aided Localization for Underwater Sensor Networks
+
+RT Journal Article
+ID 4357036
+A1 Lee,Uichin
+A1 Kong,Jiejun
+A1 Gerla,Mario
+A1 Park,Joon-sang
+A1 Magistretti,Eugenio
+YR 2007
+T1 Time-critical underwater sensor diffusion with no proactive exchanges and negligible reactive floods
+JF Ad Hoc Networks
+VO 5
+SP 943
+OP 958
+IS 6
+
+RT Journal Article
+ID 47009513
+A1 Hu,Wendong
+A1 Willkomm,Daniel
+A1 Abusubaih,Murad
+A1 Gross,James
+A1 Vlantis,George
+A1 Gerla,Mario
+A1 Wolisz,Adam
+YR 2007
+T1 COGNITIVE RADIOS FOR DYNAMIC SPECTRUM ACCESS - Dynamic Frequency Hopping Communities for Efficient IEEE 802.22 Operation
+JF IEEE Communications Magazine
+VO 45
+SP 80
+OP 87
+IS 5
+
+RT Conference Proceedings
+ID 4333964
+A1 Roccetti,Marco
+A1 Gerla,Mario
+A1 Palazzi,Claudio,E.
+A1 Ferretti,Stefano
+A1 Pau,Giovanni
+YR 2007
+T1 First Responders' Crystal Ball: How to Scry the Emergency from a Remote Vehicle
+SP 556
+OP 561
+
+RT Book, Whole
+ID 4304633
+A1 Marfia,Gustavo
+A1 Palazzi,Claudio,E.
+A1 Pau,Giovanni
+A1 Gerla,Mario
+A1 Sanadidi,M.,Y.
+A1 Roccetti,Marco
+YR 2007
+T1 TCP Libra : Exploring RTT-Fairness for TCP
+SP 1005
+OP 1013
+
+RT Conference Proceedings
+ID 3084224
+A1 Palazzi,Claudio,E.
+A1 Gerla,Mario
+A1 Fazio,Maria
+A1 Das,Shirshanka
+YR 2007
+T1 Facilitating Real-Time Applications in VANETs Through Fast Address Auto-Configuration
+
+RT Book, Whole
+ID 4256934
+A1 Sun,Tony
+A1 Liang,Nia-chiang
+A1 Chen,Ling-jyh
+A1 Chen,Ping-chieh
+A1 Gerla,Mario
+YR 2007
+T1 Evaluating Mobility Support in ZigBee Networks
+SP 87
+OP 100
+
+RT Conference Proceedings
+ID 4527662
+A1 Ravi,Nishkam
+A1 Smaldone,Stephen
+A1 Iftode,Liviu
+A1 Gerla,Mario
+YR 2007
+T1 Lane Reservation for Highways (Position Paper)
+
+RT Journal Article
+ID 4529812
+A1 Chavoutier,Vincent
+A1 Maniezzo,Daniela
+A1 Palazzi,Claudio,E.
+A1 Gerla,Mario
+YR 2007
+T1 Multimedia over Wireless Mesh Networks: Results from a Real Testbed Evaluation
+
+RT Conference Proceedings
+ID 10599125
+A1 Marfia,Gustavo
+A1 Pau,Giovanni
+A1 Giordanotl,Eugenio
+A1 Sena,Enzo,De
+A1 Gerla,Mario
+YR 2007
+T1 VANET: On Mobility Scenarios and Urban Infrastructure. A Case Study
+
+RT Journal Article
+ID 4141743
+A1 Palazzi,C.,E.
+A1 Roccetti,M.
+A1 Ferretti,S.
+A1 Pau,G.
+A1 Gerla,M.
+YR 2007
+T1 Online Games on Wheels: Fast Game Event Delivery in Vehicular Ad - hoc Networks
+
+RT Journal Article
+ID 5457859
+A1 Bellavista,Paolo
+A1 Magistretti,Eugenio
+A1 Lee,Uichin
+A1 Gerla,Mario
+YR 2007
+T1 Standard Integration of Sensing and Opportunistic Diffusion for Urban Monitoring in Vehicular Sensor Networks: the MobEyes Architecture
+
+RT Conference Proceedings
+ID 5544278
+A1 Magistretti,Eugenio
+A1 Kong,Jiejun
+A1 Lee,Uichin
+A1 Gerla,Mario
+A1 Bellavista,Paolo
+A1 Corradi,Antonio
+YR 2007
+T1 A Mobile Delay-Tolerant Approach to Long-Term Energy-Efficient Underwater Sensor Networking
+SP 2866
+OP 2871
+
+RT Conference Proceedings
+ID 5578542
+A1 Jung,Sewook
+A1 Chang,Alexander
+A1 Gerla,Mario
+YR 2007
+T1 Comparisons of ZigBee Personal Area Network (PAN) Interconnection Methods
+
+RT Journal Article
+ID 4363546
+A1 Kliazovich,Dzmitry
+A1 Granelli,Fabrizio
+A1 Gerla,Mario
+YR 2007
+T1 Performance improvement in wireless networks using cross-layer ARQ
+JF Computer Networks
+VO 51
+SP 4396
+OP 4411
+IS 15
+
+RT Conference Proceedings
+ID 4291130
+A1 Caini,Carlo
+A1 Firrincieli,Rosario
+A1 Lacamera,Daniele
+A1 Cola,Tomaso,De
+A1 Marchese,Mario
+A1 Marcondes,Cesar
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2007
+T1 TCP Live Experiments on a Real GEO Satellite Testbed
+SP 523
+OP 529
+
+RT Journal Article
+ID 4363411
+A1 Lao,Li
+A1 Cui,Jun-hong
+A1 Gerla,Mario
+YR 2007
+T1 Tackling group-to-tree matching in large scale group communications
+JF Computer Networks
+VO 51
+SP 3069
+OP 3089
+IS 11
+
+RT Conference Proceedings
+ID 4737879
+A1 Scalia,Luca
+A1 Soldo,Fabio
+A1 Gerla,Mario
+YR 2007
+T1 PiggyCode: A MAC Layer Network Coding Scheme to Improve TCP Performance Over Wireless Networks
+SP 3672
+OP 3677
+
+RT Conference Proceedings
+ID 6835966
+A1 Oh,Soon,Y.
+A1 Gerla,Mario
+A1 Park,Joon-Sang
+YR 2007
+T1 MIMO and TCP: A Case for Cross Layer Design
+
+RT Conference Proceedings
+ID 50632216
+A1 Li,Jason,H.
+A1 Luo,Song
+A1 Das,Subir
+A1 McAuley,Tony
+A1 Staikos,Aristides
+A1 Patel,Mitesh
+A1 Spoenlein,Seth
+A1 Gerla,Mario
+YR 2007
+T1 Seamless Soft Handoff in Mobile Ad Hoc Networks
+
+RT Journal Article
+ID 4357080
+A1 Kallo,Csaba,Kiss
+A1 Chiasserini,Carla-fabiana
+A1 Jung,Sewook
+A1 Brunato,Mauro
+A1 Gerla,Mario
+YR 2007
+T1 Hop count based optimization of Bluetooth scatternets
+JF Ad Hoc Networks
+VO 5
+SP 340
+OP 359
+IS 3
+
+RT Conference Proceedings
+ID 4542654
+A1 Palazzi,Claudio,E.
+A1 Chin,Brian
+A1 Ray,Paul
+A1 Pau,Giovanni
+A1 Gerla,Mario
+A1 Roccetti,Marco
+YR 2007
+T1 High Mobility in a Realistic Wireless Environment: a Mobile IP Handoff Model for NS2
+
+RT Conference Proceedings
+ID 4691021
+A1 Vieira,Luiz,Filipe,M.
+A1 Misra,Archan
+A1 Gerla,Mario
+YR 2007
+T1 Performance of Network-Coding in Multi-Rate Wireless Environments for Multicast Applications
+
+RT Journal Article
+ID 4364606
+A1 Jung,Sewook
+A1 Chang,Alexander
+A1 Gerla,Mario
+YR 2007
+T1 New bluetooth interconnection methods: Overlaid Bluetooth Piconets (OBP) and Temporary Scatternets (TS)
+JF Computer Communications
+VO 30
+SP 2258
+OP 2273
+IS 10
+
+RT Conference Proceedings
+ID 4303404
+A1 Jung,Sewook
+A1 Chang,Alexander
+A1 Gerla,Mario
+YR 2007
+T1 Temporary Interconnection of ZigBee Personal Area Network (PAN)
+SP 1
+OP 5
+
+RT Conference Proceedings
+ID 4350374
+A1 Marfia,Gustavo
+A1 Palazzi,Claudio,E.
+A1 Pau,Giovanni
+A1 Gerla,Mario
+A1 Sanadidi,Medy,Y.
+A1 Roccetti,Marco
+YR 2007
+T1 Balancing video on demand flows over links with heterogeneous delays
+SP 22
+OP 6
+
+RT Journal Article
+ID 7017205
+A1 Marcondes,Cesar
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+A1 Marlinello,M.
+A1 Schwartz,Ramon,S.
+YR 2007
+T1 Exploring Embedded Path Capacity Estimation in TCP Receiver
+JF Chemical Engineering Science
+
+RT Conference Proceedings
+ID 10508215
+A1 Oh,Soon,Y.
+A1 Gerla,Mario
+A1 Zhao,Pengkai
+A1 Daneshrad,Babak
+A1 Pei,Guangyu
+A1 Kim,Jae,H.
+YR 2007
+T1 MIMO-CAST: A Cross-Layer Ad Hoc Multicast Protocol using MIMO Radios
+
+RT Conference Proceedings
+ID 5286938
+A1 Harri,J.
+A1 Zhou,B.
+A1 Gerla,M.
+A1 Filali,F.
+A1 Bonnet,C.
+YR 2007
+T1 Neighborhood changing rate: a unifying parameter to characterize and evaluate data dissemination scenarios
+
+RT Conference Proceedings
+ID 4237712
+A1 Kong,Jiejun
+A1 Hongt,Xiaoyan
+A1 Wu,Dapeng
+A1 Gerla,Mario
+YR 2007
+T1 Complexity-theoretic Modeling of Biological Cyanide Poisoning as Security Attack in Self-organizing Networks
+SP 914
+OP 921
+
+RT Conference Proceedings
+ID 4493714
+A1 Chen,Jason
+A1 Cho,Daeki
+A1 Choi,Junho
+A1 Massey,Tammara
+A1 Noshadi,Hyduke
+A1 Gerla,Mario
+A1 Sarrafzadeh,Majid
+YR 2007
+T1 Opportunistic Remote Medical Monitoring Using BlueTorrent
+
+RT Conference Proceedings
+ID 4538178
+A1 Marcondes,Cesar
+A1 Palazzi,Claudio
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+A1 Martinello,Magnos
+A1 Torres,M.,T.
+YR 2007
+T1 Regenerating TCP Dynamics From Traces Path Characteristics
+
+RT Book, Whole
+ID 4354599
+A1 Lee,Uichin
+A1 Magistretti,Eugenio
+A1 Gerla,Mario
+A1 Bellavista,Paolo
+A1 Liò,Pietro
+A1 Lee,Kang-won
+YR 2007
+T1 Bio-Inspired Multi-agent Collaboration for Urban Monitoring Applications
+SP 204
+OP 216
+
+RT Conference Proceedings
+ID 10508226
+A1 Zhou,Biao
+A1 Gerla,Mario
+A1 He,Lin
+A1 Haerri,Jerome
+YR 2007
+T1 NCR: A Unifying Parameter to Characterize and Evaluate Data Dissemination Scenarios, and its Analytic Study
+
+RT Journal Article
+ID 12296168
+A1 Jung,Sewook
+A1 Lee,Uichin
+A1 Chang,Alexander
+A1 Cho,Dae-Ki
+A1 Gerla,Mario
+YR 2007
+T1 BlueTorrent: Cooperative content sharing for Bluetooth users
+JF Pervasive and Mobile Computing
+VO 3
+SP 609
+OP 634
+IS 6
+
+RT Conference Proceedings
+ID 50558472
+A1 Gerla,M.
+YR 2007
+T1 Vehicle communications, new ad hoc design paradigms and the role of the internet [Keynote Speech]
+
+RT Journal Article
+ID 2821527
+A1 Cui,Jun-Hong
+A1 Kong,Jiejun
+A1 Gerla,Mario
+A1 Zhou,Shengli
+YR 2006
+T1 The challenges of building scalable mobile underwater wireless sensor networks for aquatic applications
+VO 20
+SP 12
+OP 18
+IS 3
+
+RT Journal Article
+ID 4138317
+A1 Park,Joon-Sang
+A1 GERLA,MARIO
+A1 LUN,DESMOND,S.
+A1 Yi,Yunjung
+A1 Medard,Muriel
+YR 2006
+T1 Codecast: a network-coding-based ad hoc multicast protocol
+JF IEEE Wireless Communications
+VO 13
+SP 76
+OP 81
+IS 5
+
+RT Journal Article
+ID 10873338
+A1 Lee,Uichin
+A1 Magistretti,Eugenio
+A1 Zhou,Biao
+A1 Gerla,Mario
+A1 Bellavista,Paolo
+A1 Corradi,Antonio
+YR 2006
+T1 MobEyes: Smart Mobs for Urban Monitoring with a Vehicular Sensor Network
+JF IEEE Wireless Communications
+VO 13
+SP 52
+OP 57
+IS 5
+
+RT Journal Article
+ID 4138318
+A1 Lee,Uichin
+A1 Park,Joon-Sang
+A1 Yeh,Joseph
+A1 Pau,Giovanni
+A1 Gerla,Mario
+YR 2006
+T1 Code torrent: content distribution using network coding in VANET
+SP 1
+OP 5
+
+RT Journal Article
+ID 4116986
+A1 Lee,U.
+A1 Choi,M.
+A1 Cho,J.
+A1 Sanadidi,M.,Y.
+A1 Gerla,M.
+YR 2006
+T1 Understanding Pollution Dynamics in P2P File Sharing
+
+RT Conference Proceedings
+ID 1855277
+A1 Lee,Uichin
+A1 Magistretti,Eugenio
+A1 Zhou,Biao
+A1 Gerla,Mario
+A1 Bellavista,Paolo
+A1 Corradi,Antonio
+YR 2006
+T1 Efficient Data Harvesting in Mobile Sensor Platforms
+SP 352
+OP 356
+
+RT Journal Article
+ID 4507630
+A1 Lee,Uichin
+A1 Magistretti,Eugenio
+A1 Zhou,Biao
+A1 Gerla,Mario
+A1 Bellavista,Paolo
+A1 Corradi,Antonio
+YR 2006
+T1 MobEyes: Smart Mobs for Urban Monitoring with Vehicular Sensor Networks
+JF IEEE Wireless Communications
+
+RT Conference Proceedings
+ID 5274110
+A1 Liang,Nia-Chiang
+A1 Chen,Ping-Chieh
+A1 Sun,Tony
+A1 Yang,Guang
+A1 Chen,Ling-Jyh
+A1 Gerla,Mario
+YR 2006
+T1 Impact of Node Heterogeneity in ZigBee Mesh Network Routing
+
+RT Conference Proceedings
+ID 2353317
+A1 Nandan,Alok
+A1 Tewari,Saurabh
+A1 Das,Shirshanka
+A1 Gerla,Mario
+A1 Kleinrock,Leonard
+YR 2006
+T1 AdTorrent: Delivering Location Cognizant Advertisements to Car Networks
+
+RT Journal Article
+ID 1689920
+A1 Cui,Jun-hong
+A1 Lao,Li
+A1 Faloutsos,Michalis
+A1 Gerla,Mario
+YR 2006
+T1 AQoSM: Scalable QoS multicast provisioning in DiffServ networks
+JF Computer Networks
+VO 50
+SP 80
+OP 105
+IS 1
+
+RT Conference Proceedings
+ID 4302962
+A1 Park,Joon-sang
+A1 Lee,Uichin
+A1 Oh,Soon,Y.
+A1 Gerla,Mario
+A1 Lun,Desmond,S.
+YR 2006
+T1 Emergency related video streaming in VANET using network coding
+SP 102
+OP 103
+
+RT Conference Proceedings
+ID 4572355
+A1 Park,Joon-Sang
+A1 Lum,D.,S.
+A1 Soldo,Fabio
+A1 Gerla,Mario
+A1 Medard,Muriel
+YR 2006
+T1 Performance of Network Coding in Ad Hoc Networks
+
+RT Conference Proceedings
+ID 6019020
+A1 Gerla,Mario
+A1 Zhou,Biao
+A1 Lee,Yeng-Zhong
+A1 Soldo,Fabio
+A1 Lee,Uichin
+A1 Marfia,Gustavo
+YR 2006
+T1 Vehicular grid communications: the role of the internet infrastructure
+SP 19
+
+RT Journal Article
+ID 5257329
+A1 Vieira,Luiz,Filipe,M.
+A1 Lee,Uichin
+A1 Gerla,Mario
+YR 2006
+T1 Analysis of Aloha Protocols for Underwater Acoustic Sensor Networks
+
+RT Conference Proceedings
+ID 2319694
+A1 Yang,Guang
+A1 Chen,Ling-Jyh
+A1 Sun,Tony
+A1 Zhou,Biao
+A1 Gerla,Mario
+YR 2006
+T1 Ad-hoc Storage Overlay System (ASOS): A Delay-Tolerant Approach in MANETs
+
+RT Conference Proceedings
+ID 50534482
+A1 Lee,Uichin
+A1 Park,Joon-Sang
+A1 Amir,Eyal
+A1 Gerla,Mario
+YR 2006
+T1 FleaNet: A Virtual Market Place on Vehicular Networks
+
+RT Conference Proceedings
+ID 50480256
+A1 Chen,Ling-Jyh
+A1 Sun,T.
+A1 Yang,Guang
+A1 Gerla,M.
+YR 2006
+T1 USHA: a simple and practical seamless vertical handoff solution
+
+RT Journal Article
+ID 2150854
+A1 Cui,Jun-hong
+A1 Kong,Jiejun
+A1 Gerla,Mario
+A1 Zhou,Shengli
+YR 2006
+T1 The challenges of building mobile underwater wireless networks for aquatic applications
+JF IEEE Network
+VO 20
+SP 12
+OP 18
+IS 3
+
+RT Conference Proceedings
+ID 4238924
+A1 Chen,Jiwei
+A1 Lee,Yeng-zhong
+A1 Gerla,Mario
+A1 Sanadidi,M.,Y.
+YR 2006
+T1 TCP with Delayed Ack for Wireless Networks
+
+RT Journal Article
+ID 2518379
+A1 Hong,Xiaoyan
+A1 Kong,Jiejun
+A1 Gerla,Mario
+YR 2006
+T1 Mobility changes anonymity: new passive threats in mobile ad hoc networks
+JF Wireless Communications and Mobile Computing
+VO 6
+SP 281
+OP 293
+IS 3
+
+RT Conference Proceedings
+ID 50492326
+A1 Sun,Tony
+A1 Chen,Ling-Jyh
+A1 Han,Chih-Chieh
+A1 Yang,Guang
+A1 Gerla,Mario
+YR 2006
+T1 Measuring effective capacity of IEEE 802.15.4 beaconless mode
+VO 1
+SP 493
+OP 498
+
+RT Journal Article
+ID 2492787
+A1 Chen,Ling-jyh
+A1 Sun,Tony
+A1 Yang,Guang
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2006
+T1 Monitoring access link capacity using TFRC probe
+JF Computer Communications
+VO 29
+SP 1605
+OP 1613
+IS 10
+
+RT Conference Proceedings
+ID 2413088
+A1 Palazzi,Claudio,E.
+A1 Pau,Giovanni
+A1 Roccetti,Marco
+A1 Ferretti,Stefano
+A1 Gerla,Mario
+YR 2006
+T1 Wireless home entertainment center: reducing last hop delays for real-time applications
+SP 67
+
+RT Conference Proceedings
+ID 50521512
+A1 Li,J.,H.
+A1 Luo,Song
+A1 Das,S.
+A1 McAuley,T.
+A1 Patel,M.
+A1 Staikos,A.
+A1 Gerla,M.
+YR 2006
+T1 An Integrated Framework for Seamless Soft Handoff in Ad Hoc Networks
+
+RT Journal Article
+ID 2156541
+A1 Yang,Guang
+A1 Sun,Tony
+A1 Gerla,Mario
+A1 Sanadidi,M.,Y.
+A1 Chen,Ling-jyh
+YR 2006
+T1 Smooth and efficient real-time video transport in the presence of wireless errors
+JF ACM Transactions on Multimedia Computing, Communications, and Applications
+VO 2
+SP 109
+OP 126
+IS 2
+
+RT Conference Proceedings
+ID 4552203
+A1 Ferretti,Stefano
+A1 Palazzi,Claudio,E.
+A1 Roccetti,Marco
+A1 Pau,Giovanni
+A1 Gerla,Mario
+YR 2006
+T1 Buscar el levante por el poniente: in search of fairness through interactivity in massively multiplayer online games
+
+RT Conference Proceedings
+ID 2199906
+A1 Lee,Uichin
+A1 Kong,Jiejun
+A1 Park,Joon-sang
+A1 Magistretti,Eugenio
+A1 Gerla,Mario
+YR 2006
+T1 Time-Critical Underwater Sensor Diffusion with No Proactive Exchanges and Negligible Reactive Floods
+SP 609
+OP 615
+
+RT Journal Article
+ID 4090247
+A1 Palazzi,C.,E.
+A1 Ferretti,S.
+A1 Roccetti,M.
+A1 Pau,G.
+A1 Gerla,M.
+YR 2006
+T1 What's in that magic box? The home entertainment center's special protocol potion, revealed
+JF IEEE Transactions on Consumer Electronics
+VO 52
+SP 1280
+OP 1288
+IS 4
+
+RT Conference Proceedings
+ID 50521284
+A1 Chen,Jiwei
+A1 Lee,Yeng-Zhong
+A1 Zhou,He
+A1 Gerla,Mario
+A1 Shu,Yantai
+YR 2006
+T1 Robust Ad Hoc Routing for Lossy Wireless Environment
+
+RT Conference Proceedings
+ID 2761484
+A1 Fazio,Maria
+A1 Palazzi,Claudio,E.
+A1 Das,Shirshanka
+A1 Gerla,Mario
+YR 2006
+T1 Automatic IP address configuration in VANETs
+SP 100
+OP 101
+
+RT Conference Proceedings
+ID 12726833
+A1 Jung,Sewook
+A1 Chang,Alexander
+A1 Gerla,Mario
+YR 2006
+T1 Comparison of Bluetooth Interconnection Methods using BlueProbe
+
+RT Journal Article
+ID 2492556
+A1 Lao,Li
+A1 Cui,Jun-hong
+A1 Gerla,Mario
+YR 2006
+T1 A framework for realistic and systematic multicast performance evaluation
+JF Computer Networks
+VO 50
+SP 2054
+OP 2070
+IS 12
+
+RT Journal Article
+ID 4693483
+A1 Chen,Ling-Jyh
+A1 Sun,Tony
+A1 Gerla,Mario
+YR 2006
+T1 Modeling Channel Conflict Probabilities between IEEE 802.15 based Wireless Personal Area Networks
+VO 1
+SP 343
+OP 348
+
+RT Conference Proceedings
+ID 4502613
+A1 Liu,Jun
+A1 Kong,Jiejun
+A1 Hong,Xiaoyan
+A1 Gerla,Mario
+YR 2006
+T1 Performance evaluation of anonymous routing protocols in MANETs
+VO 2
+SP 646
+OP 651
+
+RT Conference Proceedings
+ID 50480264
+A1 Sun,T.
+A1 Chen,Ling-Jyh
+A1 Sarkissian,A.
+A1 Yang,Guang
+A1 Han,Simon
+A1 Gerla,M.
+YR 2006
+T1 Path capacity estimation in IEEE 802.15.4 enabled wireless sensor network via senprobe
+
+RT Conference Proceedings
+ID 4326206
+A1 Kong,Jiejun
+A1 Hong,Xiaoyan
+A1 Gerla,Mario
+YR 2006
+T1 Modeling Ad-hoc rushing attack in a negligibility-based security framework
+SP 55
+OP 64
+
+RT Conference Proceedings
+ID 50513771
+A1 Chen,Jiwei
+A1 Zhou,He
+A1 Lee,Yeng-Zhong
+A1 Gerla,Mario
+A1 Shu,Yantai
+YR 2006
+T1 AODV-DFR: Improving Ad Hoc Routing Scalability to Mobility and Load
+
+RT Conference Proceedings
+ID 5375680
+A1 Kliazovich,Dzmitry
+A1 Granelli,Fabrizio
+A1 Pau,Giovanni
+A1 Gerla,Mario
+YR 2006
+T1 APOHN: subnetwork layering to improve TCP performance over heterogeneous paths
+
+RT Conference Proceedings
+ID 6137460
+A1 Jung,Sewook
+A1 Chang,Alexander
+A1 Gerla,Mario
+YR 2006
+T1 Performance comparison of overlaid bluetooth piconets (OBP) and bluetooth scatternet
+VO 1
+SP 505
+OP 510
+
+RT Journal Article
+ID 2492315
+A1 Ferretti,Stefano
+A1 Palazzi,Claudio,E.
+A1 Roccetti,Marco
+A1 Pau,Giovanni
+A1 Gerla,Mario
+YR 2006
+T1 FILA in gameland, a holistic approach to a problem of many dimensions
+JF Computers in Entertainment
+VO 4
+SP 8
+IS 4
+
+RT Journal Article
+ID 4783824
+A1 Lee,Yeng-zhong
+A1 Gerla,Mario
+A1 Chen,Jason
+A1 Chen,Jiwei
+A1 Zhou,Biao
+A1 Caruso,Antonio
+YR 2006
+T1 "Direction" Forward Routing for Highly Mobile Ad Hoc Networks
+JF Ad Hoc & Sensor Wireless Networks
+VO 2
+IS 2
+
+RT Journal Article
+ID 2492537
+A1 Chen,Jiwei
+A1 Paganini,Fernando
+A1 Sanadidi,M.,Y.
+A1 Wang,Ren
+A1 Gerla,Mario
+YR 2006
+T1 Fluid-flow analysis of TCP Westwood with RED
+JF Computer Networks
+VO 50
+SP 1302
+OP 1326
+IS 9
+
+RT Conference Proceedings
+ID 2447895
+A1 Lao,Li
+A1 Cui,Jun-hong
+A1 Gerla,Mario
+A1 Maggiorini,Dario
+YR 2006
+T1 A Comparative Study of Multicast Protocols: Top, Bottom, or In the Middle?
+SP 1
+OP 6
+
+RT Journal Article
+ID 2512630
+A1 Sivaraman,Vijay
+A1 Chiussi,Fabio,M.
+A1 Gerla,Mario
+YR 2006
+T1 Deterministic end-to-end delay guarantees with rate controlled EDF scheduling
+JF Performance Evaluation
+VO 63
+SP 509
+OP 519
+IS 4-5
+
+RT Conference Proceedings
+ID 2474412
+A1 Marcondes,Cesar
+A1 Persson,Anders
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+A1 Firrincieli,Rosario
+A1 Beering,David,R.
+A1 Romaniak,Greg
+YR 2006
+T1 TCP in mixed internet and geo-satellite environments: Experiences and results
+OP 535
+
+RT Conference Proceedings
+ID 50492341
+A1 Kong,Jiejun
+A1 Lee,Yeng-zhong
+A1 Gerla,Mario
+YR 2006
+T1 Distributed multicast group security architecture for mobile ad hoc networks
+VO 2
+SP 640
+OP 645
+
+RT Journal Article
+ID 50506655
+A1 Borri,M.
+A1 Finelli,C.
+A1 Gerla,M.
+A1 Merani,M.,L.
+YR 2006
+T1 Adaptive GAIMD with Binary Decision: A Novel Congestion Control Approach for the Internet
+VO 1
+SP 152
+OP 157
+
+RT Conference Proceedings
+ID 4303216
+A1 Firrincieli,Rosario
+A1 Caini,Carlo
+A1 Marcondes,Cesar
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2006
+T1 Advanced TCP evaluation testbed on mixed wired internet and satellite environments
+SP 105
+OP 106
+
+RT Journal Article
+ID 14407324
+A1 Wong,K.,D.
+A1 Tepe,Kemal
+A1 Chen,Wai
+A1 Gerla,Mario
+YR 2006
+T1 INTER-VEHICULAR COMMUNICATIONS
+JF IEEE Wireless Communications
+VO 13
+SP 6
+OP 7
+IS 5
+
+RT Conference Proceedings
+ID 50521289
+A1 Le,Michael
+A1 Park,Joon-Sang
+A1 Gerla,M.
+YR 2006
+T1 UAV Assisted Disruption Tolerant Routing
+
+RT Journal Article
+ID 2530928
+A1 Rango,Floriano,De
+A1 Gerla,Mario
+A1 Marano,Salvatore
+YR 2006
+T1 A scalable routing scheme with group motion support in large and dense wireless ad hoc networks
+JF Computers & Electrical Engineering
+VO 32
+SP 224
+OP 240
+IS 1-3
+
+RT Book, Whole
+ID 1857785
+A1 Chen,Ling-jyh
+A1 Sun,Tony
+A1 Lao,Li
+A1 Yang,Guang
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2006
+T1 Estimating Link Capacity in High Speed Networks
+SP 98
+OP 109
+
+RT Conference Proceedings
+ID 50521282
+A1 Chen,Jiwei
+A1 Gerla,M.
+A1 Lee,Yeng,Zhong
+A1 Sanadidi,M.
+YR 2006
+T1 TCP with Variance Control for Multihop IEEE 802.11 Wireless Networks
+
+RT Conference Proceedings
+ID 13293986
+A1 Gerla,Mario
+A1 Petrioli,Chiara
+A1 Ramjee,Ramachandran
+YR 2006
+T1 Proceedings of the 12th Annual International Conference on Mobile Computing and Networking, MOBICOM 2006, Los Angeles, CA, USA, September 23-29, 2006
+
+RT Conference Proceedings
+ID 4303220
+A1 Jung,Sewook
+A1 Chang,Alexander
+A1 Gerla,Mario
+YR 2006
+T1 Video streaming over overlaid bluetooth piconets (OBP)
+SP 121
+OP 122
+
+RT Journal Article
+ID 50506868
+A1 Kong,Jiejun
+A1 Chen,Ling-Jyh
+A1 Jakobsson,Markus
+A1 Moyer,Stan
+A1 Marples,Dave
+A1 Gerla,Mario
+YR 2006
+T1 An Enhanced Digital Content Mediator (DCM) Approach to Implementing Legitimate and Secure P2P Online Transactions
+VO 5
+SP 2351
+OP 2356
+
+RT Journal Article
+ID 47583744
+A1 Mercado,ML
+A1 Rom,M
+A1 Micinquevich,S
+A1 Casariego,Z
+YR 2006
+T1 Proyección del estudiante de Patología y Clínica Estomatológica desde el ámbito del claustro de la Facultad al Hospital Público: Registro retrospectivo de las patologías observadas
+VO 22
+IS 5
+
+RT Conference Proceedings
+ID 50544060
+A1 Lee,Uichin
+A1 Park,Joon-Sang
+A1 Amir,Eyal
+A1 Gerla,Mario
+YR 2006
+T1 FleaNet: A Virtual Market Place on Vehicular Networks
+
+RT Journal Article
+ID 4385187
+A1 Shimonishi,Hideyuki
+A1 Hama,Takayuki
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+A1 Murase,Tutomu
+YR 2006
+T1 TCP-Westwood Low-Priority for Overlay QoS Mechanism
+JF Ieice Transactions
+VO 89-B
+SP 2414
+OP 2423
+IS 9
+
+RT Journal Article
+ID 4438321
+A1 Pavlidou,Fotini-niovi
+A1 Ruggieri,Marina
+A1 Gerla,Mario
+A1 Miura,Ryu
+YR 2006
+T1 Communications via High Altitude Platforms: Technologies and Trials
+JF International Journal of Wireless Information Networks
+VO 13
+SP 1
+OP 4
+IS 1
+
+RT Journal Article
+ID 2518431
+A1 Zhou,Biao
+A1 Lee,Yeng-zhong
+A1 Gerla,Mario
+A1 Rango,Floriano,De
+YR 2006
+T1 Geo-LANMAR: a scalable routing protocol for ad hoc networks with group motion
+JF Wireless Communications and Mobile Computing
+VO 6
+SP 989
+OP 1002
+IS 7
+
+RT Journal Article
+ID 4580732
+A1 Lao,Li
+A1 Cui,Jun-hong
+A1 Gerla,Mario
+YR 2006
+T1 Algorithms and Trade-Offs in Multicast Service Overlay Design
+JF Transactions of The Society for Modeling and Simulation International
+VO 82
+SP 369
+OP 381
+IS 6
+
+RT Journal Article
+ID 1431088
+A1 Fu,Zhenghua
+A1 Luo,Haiyun
+A1 Zerfos,Petros
+A1 Lu,Songwu
+A1 Zhang,Lixia
+A1 Gerla,Mario
+YR 2005
+T1 The Impact of Multihop Wireless Channel on TCP Performance
+JF IEEE Transactions on Mobile Computing
+VO 4
+SP 209
+OP 221
+IS 2
+
+RT Conference Proceedings
+ID 1891968
+A1 Nandan,Alok
+A1 Das,Shirshanka
+A1 Pau,Giovanni
+A1 Gerla,Mario
+A1 Sanadidi,M.,Y.
+YR 2005
+T1 Cooperative Downloading in Vehicular Ad-Hoc Wireless Networks
+SP 32
+OP 41
+
+RT Conference Proceedings
+ID 2284328
+A1 Kong,Jiejun
+A1 Cui,Jun-hong
+A1 Wu,Dapeng
+A1 Gerla,Mario
+YR 2005
+T1 Building underwater ad-hoc networks and sensor networks for large scale real-time aquatic applications
+
+RT Conference Proceedings
+ID 3774074
+A1 Park,Joon-Sang
+A1 Nandan,Alok
+A1 Gerla,Mario
+A1 Lee,Heechoon
+YR 2005
+T1 SPACE-MAC: enabling spatial reuse using MIMO channel-aware MAC
+
+RT Journal Article
+ID 1588287
+A1 Wang,Ren
+A1 Yamada,Kenshin
+A1 Sanadidi,M.,Yahya
+A1 Gerla,Mario
+YR 2005
+T1 TCP with sender-side intelligence to handle dynamic, large, leaky pipes
+JF IEEE Journal on Selected Areas in Communications
+VO 23
+SP 235
+OP 248
+IS 2
+
+RT Conference Proceedings
+ID 4326212
+A1 Kong,Jiejun
+A1 Ji,Zhengrong
+A1 Wang,Weichao
+A1 Gerla,Mario
+A1 Bagrodia,Rajive
+A1 Bhargava,Bharat,K.
+YR 2005
+T1 Low-cost attacks against packet delivery, localization and time synchronization services in under-water sensor networks
+SP 87
+OP 96
+
+RT Conference Proceedings
+ID 4602946
+A1 Chen,Ling-Jyh
+A1 Sun,Tony
+A1 Yang,Guang
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2005
+T1 Ad hoc probe: path capacity probing in wireless ad hoc networks
+
+RT Book, Whole
+ID 1857692
+A1 Lao,Li
+A1 Cui,Jun-hong
+A1 Gerla,Mario
+YR 2005
+T1 TOMA: A Viable Solution for Large-Scale Multicast Service Support
+SP 906
+OP 917
+
+RT Journal Article
+ID 4782557
+A1 Gerla,Mario
+YR 2005
+T1 From battlefields to urban grids: New research challenges in ad hoc wireless networks
+JF Pervasive and Mobile Computing
+VO 1
+SP 77
+OP 93
+IS 1
+
+RT Journal Article
+ID 1726978
+A1 Xu,Kaixin
+A1 Gerla,Mario
+A1 Qi,Lantao
+A1 Shu,Yantai
+YR 2005
+T1 TCP Unfairness in Ad Hoc Wireless Networks and a Neighborhood RED Solution
+JF Wireless Networks
+VO 11
+SP 383
+OP 399
+IS 4
+
+RT Conference Proceedings
+ID 2283584
+A1 Lao,Li
+A1 Cui,Jun-hong
+A1 Gerla,Mario
+A1 Maggiorini,Dario
+YR 2005
+T1 A comparative study of multicast protocols: top, bottom, or in the middle?
+VO 4
+SP 2809
+OP 2814
+
+RT Journal Article
+ID 2361794
+A1 Lao,Li
+A1 Cui,Jun-Hong
+A1 Gerla,Mario
+YR 2005
+T1 Multicast Service Overlay Design
+
+RT Journal Article
+ID 2665490
+A1 Nandan,Alok
+A1 Das,Shirshanka
+A1 Zhou,Biao
+A1 Pau,Giovanni
+A1 Gerla,Mario
+YR 2005
+T1 AdTorrent: Digital Billboards for Vehicular Networks
+
+RT Journal Article
+ID 1719886
+A1 Cui,Jun-hong
+A1 Kim,Jinkyu
+A1 Maggiorini,Dario
+A1 Boussetta,Khaled
+A1 Gerla,Mario
+YR 2005
+T1 Aggregated Multicast - A Comparative Study
+JF Cluster Computing
+VO 8
+SP 15
+OP 26
+IS 1
+
+RT Conference Proceedings
+ID 4452792
+A1 Sun,Tony
+A1 Yang,Guang
+A1 Chen,Ling-Jyh
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2005
+T1 A measurement study of path capacity in 802.11b based wireless networks
+SP 31
+OP 37
+
+RT Conference Proceedings
+ID 1240156
+A1 Kong,Jiejun
+A1 Hong,Xiaoyang
+A1 Yi,Yunjung
+A1 Park,Joon-Sang
+A1 Liu,Jun
+A1 Gerla,Mario
+YR 2005
+T1 A secure ad-hoc routing approach using localized self-healing communities
+SP 254
+OP 265
+
+RT Conference Proceedings
+ID 50474165
+A1 Sun,Tony
+A1 Chen,Ling-Jyh
+A1 Han,Chih-Chieh
+A1 Gerla,Mario
+YR 2005
+T1 Reliable sensor networks for planet exploration
+
+RT Conference Proceedings
+ID 1888208
+A1 Chen,Ling-jyh
+A1 Yang,Guang
+A1 Sun,Tony
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2005
+T1 Enhancing QoS Support for Vertical Handoffs Using Implicit/Explicit Handoff Notifications
+SP 37
+
+RT Conference Proceedings
+ID 4201686
+A1 Takai,M.
+A1 Bagrodia,R.
+A1 Gerla,M.
+A1 Daneshrad,B.
+A1 Fitz,M.
+A1 Royer,M.,S.,E.,Belding
+A1 Krishnamurthy,S.
+A1 Molle,M.
+A1 Mohapatra,P.
+A1 Rao,R.
+A1 Mitra,U.
+A1 Shen,C.,C.
+A1 Evans,J.
+YR 2005
+T1 Scalable testbed for next - generation wireless networking technologies
+
+RT Journal Article
+ID 3839066
+A1 Persson,Anders
+A1 Marcondes,Cesar,A.,C.
+A1 Chen,Ling-Jyh
+A1 Lao,Li
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2005
+T1 TCP Probe: A TCP with built-in Path Capacity Estimation 1
+
+RT Conference Proceedings
+ID 1860445
+A1 Gerla,Mario
+A1 Lindemann,Christoph
+A1 Rowstron,Antony,I.,T.
+YR 2005
+T1 P2P MANET's - New Research Issues
+
+RT Journal Article
+ID 2147283
+A1 Nandan,A.
+A1 Das,S.
+A1 Pau,G.
+A1 Sanadidi,M.,Y.
+A1 Gerla,M.
+YR 2005
+T1 Cooperative Downloading in Vehicular Wireless Ad Hoc Networks
+
+RT Journal Article
+ID 1729766
+A1 Yang,Guang
+A1 Wang,Ren
+A1 Gerla,Mario
+A1 Sanadidi,M.,Y.
+YR 2005
+T1 TCP bulk repeat
+JF Computer Communications
+VO 28
+SP 507
+OP 518
+IS 5
+
+RT Conference Proceedings
+ID 50479951
+A1 Shimonishi,Hideyuki
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2005
+T1 Improving efficiency-friendliness tradeoffs of TCP in wired-wireless combined networks
+
+RT Conference Proceedings
+ID 1889733
+A1 Kong,Jiejun
+A1 Hong,Xiaoyan
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2005
+T1 Mobility Changes Anonymity: Mobile Ad Hoc Networks Need Efficient Anonymous Routing
+SP 57
+OP 62
+
+RT Book, Whole
+ID 1857626
+A1 Chen,Ling-jyh
+A1 Sun,Tony
+A1 Yang,Guang
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2005
+T1 End-to-End Asymmetric Link Capacity Estimation
+SP 780
+OP 791
+
+RT Conference Proceedings
+ID 3992761
+A1 Kallo,C.,K.
+A1 Brunato,Mauro
+A1 Jung,Sewook
+A1 Chen,Ling-Jyh
+A1 Gerla,Mario
+YR 2005
+T1 Throughput, energy and path length tradeoffs in Bluetooth scatternets
+
+RT Conference Proceedings
+ID 2310690
+A1 Palazzi,Claudio,E.
+A1 Pau,Giovanni
+A1 Roccetti,Marco
+A1 Gerla,Mario
+YR 2005
+T1 In-home online entertainment: analyzing the impact of the wireless MAC-transport protocols interference
+
+RT Conference Proceedings
+ID 1889640
+A1 Yang,Guang
+A1 Chen,Ling-jyh
+A1 Sun,Tony
+A1 Gerla,Mario
+A1 Sanadidi,M.,Y.
+YR 2005
+T1 Real-Time Streaming over Wireless Links: A Comparative Study
+SP 249
+OP 254
+
+RT Conference Proceedings
+ID 5743257
+A1 Chen,Ling-Jyh
+A1 Sun,Tony
+A1 Gerla,Mario
+YR 2005
+T1 USHA: a practical vertical handoff solution
+
+RT Conference Proceedings
+ID 4597097
+A1 Lao,Li
+A1 Cui,Jun-Hong
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2005
+T1 Scalable and adaptive multicast video streaming for heterogeneous and mobile users
+
+RT Conference Proceedings
+ID 50430089
+A1 Oh,S.,Y.
+A1 Park,Joon-Sang
+A1 Gerla,M.
+YR 2005
+T1 E-ODMRP: enhanced ODMRP with motion adaptive refresh
+
+RT Book, Whole
+ID 1858108
+A1 Park,Joon-sang
+A1 Gerla,Mario
+YR 2005
+T1 MIMOMAN: A MIMO MAC Protocol for Ad Hoc Networks
+SP 207
+OP 220
+
+RT Journal Article
+ID 1689723
+A1 Ghini,Vittorio
+A1 Pau,Giovanni
+A1 Roccetti,Marco
+A1 Salomoni,Paola
+A1 Gerla,Mario
+YR 2005
+T1 For here or to go? Downloading music on the move with an ultra reliable wireless Internet application
+JF Computer Networks
+VO 49
+SP 4
+OP 26
+IS 1
+
+RT Conference Proceedings
+ID 1887379
+A1 Jung,Sewook
+A1 Gerla,Mario
+A1 Kallo,Csaba,Kiss
+A1 Brunato,Mauro
+YR 2005
+T1 Decentralized Optimization of Dynamic Bluetooth Scatternets
+SP 305
+OP 313
+
+RT Conference Proceedings
+ID 50469829
+A1 Gerla,Mario
+A1 Lee,Yeng-Zhong
+A1 Park,Joon-Sang
+A1 Yi,Yunjung
+YR 2005
+T1 On demand multicast routing with unidirectional links
+VO 4
+SP 2162
+
+RT Conference Proceedings
+ID 50469815
+A1 Lee,Yeng-Zhong
+A1 Chen,Jason
+A1 Hong,Xiaoyan
+A1 Xu,Kaixin
+A1 Breyer,Teresa
+A1 Gerla,Mario
+YR 2005
+T1 Experimental evaluation of LANMAR, a scalable ad-hoc routing protocol
+VO 4
+SP 2032
+
+RT Journal Article
+ID 2361129
+A1 Palazzi,C.,E.
+A1 Roseti,C.
+A1 Luglio,M.
+A1 Gerla,M.
+A1 Sanadidi,M.,Y.
+A1 Stepanek,J.
+YR 2005
+T1 Enhancing Transport Layer Capability in HAPS–Satellite Integrated Architecture
+JF Wireless Personal Communications
+VO 32
+SP 339
+OP 356
+IS 3
+
+RT Book, Whole
+ID 1849454
+A1 Gerla,Mario
+A1 Chen,Ling-jyh
+A1 Lee,Yeng-zhong
+A1 Zhou,Biao
+A1 Chen,Jiwei
+A1 Yang,Guang
+A1 Das,Shirshanka
+YR 2005
+T1 Dealing with Node Mobility in Ad Hoc Wireless Network
+SP 69
+OP 106
+
+RT Conference Proceedings
+ID 1904173
+A1 Kong,Jiejun
+A1 Wu,Dapeng
+A1 Hong,Xiaoyan
+A1 Gerla,Mario
+YR 2005
+T1 Mobile traffic sensor network versus motion-MIX: tracing and protecting mobile wireless nodes
+SP 97
+OP 106
+
+RT Conference Proceedings
+ID 5032049
+A1 Zhou,B.
+A1 Rango,F.,De
+A1 Gerla,M.
+A1 Marano,S.
+YR 2005
+T1 GeoLANMAR: geo assisted landmark routing for scalable, group motion wireless ad hoc networks
+VO 4
+SP 2420
+
+RT Journal Article
+ID 2860473
+A1 Kong,Jiejun
+A1 Hong,Xiaoyan
+A1 Gerla,Mario
+A1 Sanadidi,M.,Y.
+YR 2005
+T1 Comparison: ASR is a Variant of ANODR
+
+RT Conference Proceedings
+ID 13690456
+A1 Lee,Yeng-Zhong
+A1 Xu,Kaixin
+A1 Hong,Xiaoyan
+A1 Gerla,Mario
+YR 2005
+T1 Hybrid landmark routing in ad hoc networks with heterogeneous group mobility
+
+RT Conference Proceedings
+ID 3146564
+A1 Rango,Floriano,De
+A1 Marano,S.
+A1 Gerla,Mario
+A1 Zhou,Biao
+YR 2005
+T1 Geo-LANMAR routing: asymptotic analysis of a scalable routing scheme with group motion support
+
+RT Conference Proceedings
+ID 1888220
+A1 Das,Shirshanka
+A1 Nandan,Alok
+A1 Parker,Michael,G.
+A1 Pau,Giovanni
+A1 Gerla,Mario
+YR 2005
+T1 Grido- An Architecture for a Grid-based Overlay Network
+SP 27
+
+RT Conference Proceedings
+ID 50443845
+A1 Stepanek,J.
+A1 Sanadidi,M.,Y.
+A1 Gerla,M.
+YR 2005
+T1 Efficient buffer management for TCP services
+
+RT Conference Proceedings
+ID 2418777
+A1 Rango,Floriano,De
+A1 Gerla,Mario
+A1 Marano,Salvatore
+A1 Zhou,Biao
+YR 2005
+T1 GeO-LANMAR routing protocol: Asymptotic analysis in large and dense ad hoc networks
+SP 489
+OP 498
+
+RT Conference Proceedings
+ID 1889731
+A1 Cui,Jung-Hong
+A1 Lao,Li
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2005
+T1 Dynamic On-Line Group-Tree Matching for Large Scale Group Communications: A Performance Study
+SP 412
+OP 417
+
+RT Journal Article
+ID 1719861
+A1 Cigno,Renato,Lo
+A1 Procissi,Gregorio
+A1 Gerla,Mario
+YR 2005
+T1 Sender-Side TCP Modifications: Performance Analysis and Design Guidelines
+JF Cluster Computing
+VO 8
+SP 35
+OP 45
+IS 1
+
+RT Conference Proceedings
+ID 1892784
+A1 Takai,Mineo
+A1 Bagrodia,Rajive
+A1 Gerla,Mario
+A1 Daneshrad,Babak
+A1 Fitz,Michael,P.
+A1 Srivastava,Mani,B.
+A1 Belding-royer,Elizabeth,M.
+A1 Krishnamurthy,Srikanth,V.
+A1 Molle,Mart
+A1 Mohapatra,Prasant
+A1 Rao,Ramesh,R.
+A1 Mitra,Urbashi
+A1 Shen,Chien-chung
+A1 Evans,Joseph,B.
+YR 2005
+T1 Scalable Testbed for Next-Generation Wireless Networking Technologies Mineo Takai
+SP 162
+OP 171
+
+RT Conference Proceedings
+ID 13313167
+A1 Gerla,Mario
+A1 Lindemann,Christoph
+A1 Rowstron,Antony,I.,T.
+YR 2005
+T1 Perspectives Workshop: Peer-to-Peer Mobile Ad Hoc Networks - New Research Issues, 9.-12. April 2005
+
+RT Journal Article
+ID 1588284
+A1 Guizani,M.
+A1 Gerla,M.
+A1 Sawahashi,M.
+A1 Schrodi,K.,J.
+YR 2005
+T1 Guest Editorial Intelligent Services and Applications in Next-Generation Networks
+JF IEEE Journal on Selected Areas in Communications
+VO 23
+SP 197
+OP 200
+IS 2
+
+RT Conference Proceedings
+ID 4542750
+A1 Gerla,Mario
+A1 Park,Joon-Sang
+A1 Battiti,Roberto
+A1 Garg,Anurag
+YR 2005
+T1 Intelligent backbone swarms for scalable, disruption tolerant wireless networking
+
+RT Conference Proceedings
+ID 2481465
+A1 Lee,Uichin
+A1 Park,Joon-sang
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2005
+T1 Flowbased dynamic load balancing for passive network monitoring
+SP 357
+OP 362
+
+RT Conference Proceedings
+ID 50444112
+A1 Rango,Floriano,De
+A1 Gerla,Mario
+A1 Zhou,Biao
+A1 Marano,Salvatore
+YR 2005
+T1 GeO-LANMAR: a scalable routing protocol for very large, dense ad hoc networks with group motion
+
+RT Journal Article
+ID 2284575
+A1 Cui,Jun-Hong
+A1 Lao,Li
+A1 Gerla,Mario
+YR 2005
+T1 A Study of Group-Tree Matching in Large Scale Group Communications
+
+RT Conference Proceedings
+ID 2811728
+A1 Kapoor,Rohit
+A1 Chen,Ling-Jyh
+A1 Lao,Li
+A1 Gerla,Mario
+A1 Sanadidi,M.,Y.
+YR 2004
+T1 CapProbe: a simple and accurate capacity estimation technique
+SP 67
+OP 78
+
+RT Conference Proceedings
+ID 2147282
+A1 Zhou,Biao
+A1 Xu,Kaixin
+A1 Gerla,Mario
+YR 2004
+T1 Group and swarm mobility models for ad hoc network scenarios using virtual tracks
+
+RT Journal Article
+ID 2363958
+A1 Chen,Ling-Jyh
+A1 Sun,Tony
+A1 Chen,Benny
+A1 Rajendran,Venkatesh
+A1 Gerla,Mario
+YR 2004
+T1 A Smart Decision Model for Vertical Handoff
+
+RT Conference Proceedings
+ID 1859480
+A1 Wang,Ren
+A1 Pau,Giovanni
+A1 Yamada,Kenshin
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2004
+T1 TCP Start up Performance in Large Bandwidth Delay Networks
+
+RT Journal Article
+ID 2182131
+A1 Gerla,Mario
+A1 Ng,Bryan,K.,F.
+A1 Sanadidi,M.,Y.
+A1 Valla,Massimo
+A1 Wang,Ren
+YR 2004
+T1 TCP Westwood with adaptive bandwidth estimation to improve efficiency/friendliness tradeoffs
+JF Computer Communications
+VO 27
+SP 41
+OP 58
+IS 1
+
+RT Conference Proceedings
+ID 2292442
+A1 Chen,Ling-Jyh
+A1 Kapoor,Rohit
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2004
+T1 Enhancing Bluetooth TCP throughput via link layer packet adaptation
+
+RT Journal Article
+ID 1468441
+A1 Cui,Jun-hong
+A1 Faloutsos,Michalis
+A1 Gerla,Mario
+YR 2004
+T1 An architecture for scalable, efficient, and fast fault-tolerant multicast provisioning
+JF IEEE Network
+VO 18
+SP 26
+OP 34
+IS 2
+
+RT Journal Article
+ID 1247821
+A1 Cavendish,Dirceu
+A1 Gerla,Mario
+A1 Mascolo,Saverio
+YR 2004
+T1 A control theoretical approach to congestion control in packet networks
+JF IEEE/ACM Transactions on Networking
+VO 12
+SP 893
+OP 906
+IS 5
+
+RT Journal Article
+ID 927976
+A1 Balk,Alex
+A1 Gerla,Mario
+A1 Maggiorini,Dario
+A1 Sanadidi,M.,Y.
+YR 2004
+T1 Adaptive video streaming: pre-encoded MPEG4 with bandwidth scaling
+JF Computer Networks
+VO 44
+SP 415
+OP 439
+IS 4
+
+RT Book, Whole
+ID 674044
+A1 Rajendran,Venkatesh
+A1 Obraczka,Katia
+A1 Yi,Yunjung
+A1 Lee,Sung-ju
+A1 Tang,Ken
+A1 Gerla,Mario
+YR 2004
+T1 Combining Source and Localized Recovery to Achieve Reliable Multicast in Multi-hop Ad Hoc Networks
+SP 112
+OP 124
+
+RT Conference Proceedings
+ID 2200101
+A1 Yang,Guang
+A1 Gerla,Mario
+A1 Sanadidi,M.,Y.
+YR 2004
+T1 Defense against low-rate TCP-targeted denial-of-service attacks
+SP 345
+OP 350
+
+RT Book, Whole
+ID 1810975
+A1 Yang,Guang
+A1 Gerla,Mario
+A1 Sanadidi,Medy
+YR 2004
+T1 Adaptive Video Streaming in Presence of Wireless Errors
+SP 26
+OP 38
+
+RT Journal Article
+ID 4399403
+A1 Luglio,Michele
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+A1 Stepanek,J.
+YR 2004
+T1 On-board satellite "split TCP" proxy
+JF IEEE Journal on Selected Areas in Communications
+VO 22
+SP 362
+OP 370
+IS 2
+
+RT Journal Article
+ID 2384987
+A1 Chen,Ling-Jyh
+A1 Sun,Tony
+A1 Cheung,Benjamin
+A1 Nguyen,Duke
+A1 Gerla,Mario
+YR 2004
+T1 Universal Seamless Handoff Architecture in Wireless Overlay Networks
+
+RT Journal Article
+ID 2282031
+A1 Lao,Li
+A1 Cui,Jun-Hong
+A1 Gerla,Mario
+YR 2004
+T1 A Scalable Overlay Multicast Architecture for Large-Scale Applications
+
+RT Conference Proceedings
+ID 12813587
+A1 Ghini,V.
+A1 Pau,G.
+A1 Roccetti,M.
+A1 Salomoni,P.
+A1 Gerla,M.
+YR 2004
+T1 Smart download on the go: a wireless Internet application for music distribution over heterogeneous networks
+
+RT Conference Proceedings
+ID 884966
+A1 Kapoor,Rohit
+A1 Chen,Ling-Jyh
+A1 Nandan,Alok
+A1 Gerla,Mario
+A1 Sanadidi,M.,Y.
+YR 2004
+T1 CapProbe: a simple and accurate capacity estimation technique for wired and wireless environments
+SP 390
+OP 391
+
+RT Journal Article
+ID 836303
+A1 Kapoor,Rohit
+A1 Zanella,Andrea
+A1 Gerla,Mario
+YR 2004
+T1 A Fair and Traffic Dependent Scheduling Algorithm for Bluetooth Scatternets
+JF Mobile Networks and Applications
+VO 9
+SP 9
+OP 20
+IS 1
+
+RT Conference Proceedings
+ID 2200080
+A1 Chen,Ling-jyh
+A1 Sun,Tony
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2004
+T1 Improving wireless link throughput via interleaved FEC
+SP 539
+OP 544
+
+RT Journal Article
+ID 3643468
+A1 Yang,G.
+A1 Gerla,M.
+A1 Sanadidi,M.,Y.
+YR 2004
+T1 Randomization: Defense against Low-Rate TCP-targeted Denial-of-Service Attacks
+
+RT Journal Article
+ID 2388398
+A1 Chen,Ling-Jyh
+A1 Sun,Tony
+A1 Xu,Dan
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2004
+T1 Access Link Capacity Monitoring with TFRC Probe
+
+RT Journal Article
+ID 2810446
+A1 Kapoor,Rohit
+A1 Chen,Ling-Jyh
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2004
+T1 CapProbe: A Simple and Accurate Technique to Measure Path Capacity
+
+RT Conference Proceedings
+ID 1851461
+A1 Chen,Ling-jyh
+A1 Kapoor,Rohit
+A1 Lee,Kevin
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2004
+T1 Audio Streaming over Bluetooth: An Adaptive ARQ Timeout Approach
+SP 196
+OP 201
+
+RT Journal Article
+ID 1749935
+A1 Yi,Yunjung
+A1 Gerla,Mario
+A1 Obraczka,Katia
+YR 2004
+T1 Scalable team multicast in wireless ad hoc networks exploiting coordinated motion
+JF Ad Hoc Networks
+VO 2
+SP 171
+OP 184
+IS 2
+
+RT Conference Proceedings
+ID 2200053
+A1 Kapoor,Rohit
+A1 Chen,Ling-jyh
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2004
+T1 Accuracy of link capacity estimates using passive and active approaches with CapProbe
+SP 1085
+OP 1090
+
+RT Conference Proceedings
+ID 1887264
+A1 Chen,Ling-jyh
+A1 Yang,Guang
+A1 Sun,Tony
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2004
+T1 Adaptive Video Streaming in Vertical Handoff: A Case Study
+SP 111
+OP 112
+
+RT Journal Article
+ID 2301834
+A1 Lao,Li
+A1 Cui,Jun-Hong
+A1 Gerla,Mario
+YR 2004
+T1 Tackling Group-Tree Matching in Large Scale Group Communications
+
+RT Conference Proceedings
+ID 50375852
+A1 Wang,Ren
+A1 Pau,Giovanni
+A1 Yamada,Kenshin
+A1 Sanadidi,M.,Y.
+A1 Gerla,M.
+YR 2004
+T1 TCP startup performance in large bandwidth networks
+VO 2
+SP 796
+
+RT Conference Proceedings
+ID 2200108
+A1 Shimonishi,Hideyuki
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2004
+T1 Service differentiation at transport layer via TCP Westwood low-priority (TCPW-LP)
+SP 804
+OP 809
+
+RT Conference Proceedings
+ID 50390817
+A1 Palazzi,C.,E.
+A1 Roseti,C.
+A1 Luglio,M.
+A1 Gerla,M.
+A1 Sanadidi,M.,Y.
+A1 Stepanek,J.
+YR 2004
+T1 Satellite coverage in urban areas using unmanned airborne vehicles (UAVs)
+VO 5
+SP 2886
+
+RT Conference Proceedings
+ID 50390803
+A1 Gerla,Mario
+A1 Xu,Kaixin
+YR 2004
+T1 Integrating mobile swarms with large-scale sensor networks using satellites
+VO 5
+SP 2816
+
+RT Journal Article
+ID 14416575
+A1 Kapoor,Rohit
+A1 Chen,Ling-Jyh
+A1 Lao,Li
+A1 Gerla,Mario
+A1 Sanadidi,M.,Y.
+YR 2004
+T1 CapProbe: a simple and accurate capacity estimation technique
+JF Computer Communication Review
+VO 34
+SP 67
+OP 78
+IS 4
+
+RT Journal Article
+ID 4011105
+A1 Lao,Li
+A1 Cui,Jun-Hong
+A1 Gerla,Mario
+YR 2004
+T1 Tackling Group Tree Matching Problem in Large Scale Group Communications
+
+RT Journal Article
+ID 885734
+A1 Gerla,Mario
+A1 Yi,Yunjung
+YR 2004
+T1 Team communications among autonomous sensor swarms
+JF Sigmod Record
+VO 33
+SP 20
+OP 25
+IS 1
+
+RT Journal Article
+ID 4537910
+A1 Yamada,Kenshin
+A1 Wang,Ren
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2004
+T1 TCP westwood with agile probing: dealing with dynamic, large, leaky pipes
+
+RT Journal Article
+ID 14418356
+A1 Kapoor,Rohit
+A1 Chen,Ling-Jyh
+A1 Nandan,Alok
+A1 Gerla,Mario
+A1 Sanadidi,M.,Y.
+YR 2004
+T1 CapProbe: a simple and accurate capacity estimation technique for wired and wireless environments
+JF Sigmetrics Performance Evaluation Review
+VO 32
+SP 390
+OP 391
+IS 1
+
+RT Conference Proceedings
+ID 1879045
+A1 Furman,Sonia
+A1 Hammers,David,E.
+A1 Gerla,Mario
+YR 2004
+T1 The Effects of Interelement Spacing in Linear Arrays on Throughput Performance in Ad Hoc Networks
+SP 150
+OP 159
+
+RT Conference Proceedings
+ID 2200012
+A1 Gerla,Mario
+A1 Tari,Zahir
+A1 Bertók,Peter
+YR 2004
+T1 An analytical study of object relocation strategies for wireless environments
+SP 1091
+OP 1097
+
+RT Journal Article
+ID 1587447
+A1 Luglio,M.
+A1 Sanadidi,M.,y.
+A1 Gerla,M.
+A1 Stepanek,J.
+YR 2004
+T1 On-Board Satellite &#8220 Split TCP&#8221 Proxy
+
+RT Conference Proceedings
+ID 682729
+A1 Fu,Zhenghua
+A1 Zerfos,Petros
+A1 Luo,Haiyun
+A1 Lu,Songwu
+A1 Zhang,Lixia
+A1 Gerla,Mario
+YR 2003
+T1 The Impact of Multihop Wireless Channel on TCP Throughput and Loss
+VO 3
+SP 1744
+
+RT Journal Article
+ID 1749997
+A1 Xu,Kaixin
+A1 Gerla,Mario
+A1 Bae,Sang
+YR 2003
+T1 Effectiveness of RTS/CTS handshake in IEEE 802.11 based ad hoc networks
+JF Ad Hoc Networks
+VO 1
+SP 107
+OP 123
+IS 1
+
+RT Conference Proceedings
+ID 653203
+A1 Xu,Kaixin
+A1 Gerla,Mario
+A1 Qi,Lantao
+A1 Shu,Yantai
+YR 2003
+T1 Enhancing TCP fairness in ad hoc wireless networks using neighborhood RED
+SP 16
+OP 28
+
+RT Journal Article
+ID 795369
+A1 Xu,Kaixin
+A1 Hong,Xiaoyan
+A1 Gerla,Mario
+YR 2003
+T1 Landmark routing in ad hoc networks with mobile backbones
+JF Journal of Parallel and Distributed Computing
+VO 63
+SP 110
+OP 122
+IS 2
+
+RT Journal Article
+ID 1429749
+A1 Kwon,Taek,Jin
+A1 GERLA,MARIO
+A1 VARMA,VIJAY,K.
+A1 BARTON,MELBOURNE
+A1 HSING,T.,RUSSELL
+YR 2003
+T1 Efficient flooding with passive clustering-an overhead-free selective forward mechanism for ad hoc/sensor networks
+JF Proceedings of The IEEE
+VO 91
+SP 1210
+OP 1220
+IS 8
+
+RT Conference Proceedings
+ID 3839049
+A1 Lim,Haejung
+A1 Xu,Kaixin
+A1 Gerla,Mario
+YR 2003
+T1 TCP performance over multipath routing in mobile ad hoc networks
+
+RT Journal Article
+ID 855144
+A1 Gerla,Mario
+A1 Xu,Kaixin
+YR 2003
+T1 Multimedia Streaming in Large-Scale Sensor Networks with Mobile Swarms
+JF Sigmod Record
+VO 32
+SP 72
+OP 76
+IS 4
+
+RT Conference Proceedings
+ID 1287249
+A1 Yi,Yunjung
+A1 Gerla,Mario
+A1 Kwon,Taek-Jin
+YR 2003
+T1 EFFICIENT FLOODING IN AD HOC NETWORKS USING ON-DEMAND (PASSIVE) CLUSTER FORMATION
+
+RT Conference Proceedings
+ID 3017198
+A1 Yi,Yungjung
+A1 Gerla,Mario
+A1 Kwon,Taek,Jin
+YR 2003
+T1 Efficient flooding in ad hoc networks: a comparative performance study
+
+RT Conference Proceedings
+ID 4580968
+A1 Xu,Kaixin
+A1 Tang,Ken
+A1 Bagrodia,Rajive
+A1 Gerla,Mario
+A1 Bereschinsky,Michael
+YR 2003
+T1 Adaptive bandwidth management and QoS provisioning in large scale ad hoc networks
+
+RT Conference Proceedings
+ID 2326909
+A1 Cesana,Matteo
+A1 Maniezzo,Daniela
+A1 Bergamo,Pierpaolo
+A1 Gerla,Mario
+YR 2003
+T1 Interference aware (IA) MAC: an enhancement to IEEE802.11b DCF
+VO 5
+SP 2799
+
+RT Conference Proceedings
+ID 2299785
+A1 Lim,Yujin
+A1 Yu,Heeyeol
+A1 Das,Shirshanka
+A1 Lee,Scott,Seongwook
+A1 Gerla,Mario
+YR 2003
+T1 QoS-aware multiple spanning tree mechanism over a bridged LAN environment
+
+RT Conference Proceedings
+ID 2362642
+A1 Pau,G.
+A1 Maniezzo,Daniela
+A1 Das,Shirshanka
+A1 Lim,Yujin
+A1 Pyon,Janghyuk
+A1 Yu,Heeyeol
+A1 Gerla,Mario
+YR 2003
+T1 A cross-layer framework for wireless LAN QoS support
+
+RT Conference Proceedings
+ID 6678329
+A1 Tang,Ken
+A1 Obraczka,Katia
+A1 Lee,S.-J.
+A1 Gerla,M.
+YR 2003
+T1 Reliable adaptive lightweight multicast protocol
+
+RT Conference Proceedings
+ID 33778
+A1 Cui,Jun-Hong
+A1 Lao,Li
+A1 Maggiorini,Dario
+A1 Gerla,Mario
+YR 2003
+T1 BEAM: a distributed aggregated multicast protocol using bi-directional trees
+
+RT Journal Article
+ID 846038
+A1 Lee,Sung-ju
+A1 Hsu,Julian
+A1 Hayashida,Russell
+A1 Gerla,Mario
+A1 Bagrodia,Rajive
+YR 2003
+T1 Selecting a routing strategy for your ad hoc network
+JF Computer Communications
+VO 26
+SP 723
+OP 733
+IS 7
+
+RT Conference Proceedings
+ID 2647670
+A1 Kapoor,Rohit
+A1 Gerla,Mario
+YR 2003
+T1 A zone routing protocol for Bluetooth scatternets
+VO 3
+SP 1459
+
+RT Conference Proceedings
+ID 31841
+A1 Kong,Jiejun
+A1 Mirza,Mansoor
+A1 Shu,James
+A1 Yoedhana,Christian
+A1 Gerla,Mario
+A1 Lu,Songwu
+YR 2003
+T1 Random flow network modeling and simulations for DDoS attack mitigation
+
+RT Journal Article
+ID 845992
+A1 Lee,Scott,Seongwook
+A1 Das,Shirshanka
+A1 Yu,Heeyeol
+A1 Yamada,Kenshin
+A1 Pau,Giovanni
+A1 Gerla,Mario
+YR 2003
+T1 Practical QoS network system with fault tolerance
+JF Computer Communications
+VO 26
+SP 1764
+OP 1774
+IS 15
+
+RT Conference Proceedings
+ID 2316710
+A1 Chen,Jiwei
+A1 Paganini,Fernando
+A1 Wang,Ren
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2003
+T1 Fluid-flow analysis of TCP Westwood with RED
+
+RT Book, Whole
+ID 629951
+A1 Balk,Alex
+A1 Maggiorini,Dario
+A1 Gerla,Mario
+A1 Sanadidi,M.,Y.
+YR 2003
+T1 Adaptive MPEG4 Video Streaming with Bandwidth Estimation
+SP 525
+OP 538
+
+RT Conference Proceedings
+ID 906782
+A1 Cui,Jun-Hong
+A1 Faloutsos,Michalis
+A1 Maggiorini,Dario
+A1 Gerla,Mario
+A1 Boussetta,Khaled
+YR 2003
+T1 Measuring and modelling the group mmbership in the internet
+SP 65
+OP 77
+
+RT Conference Proceedings
+ID 2298468
+A1 Yang,Guang
+A1 Wang,Ren
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2003
+T1 TCPW with bulk repeat in next generation wireless networks
+
+RT Conference Proceedings
+ID 2309442
+A1 Kapoor,Rohit
+A1 Cesana,Matteo
+A1 Gerla,Mario
+YR 2003
+T1 Link layer support for streaming MPEG video over wireless links
+SP 477
+OP 482
+
+RT Conference Proceedings
+ID 2687216
+A1 Kapoor,Rohit
+A1 Sanadidi,M.,Y.,Medy
+A1 Gerla,Mario
+YR 2003
+T1 An analysis of Bluetooth scatternet topologies
+
+RT Conference Proceedings
+ID 2333100
+A1 Kong,Jiejun
+A1 Hong,Xiaoyan
+A1 Gerla,Mario
+YR 2003
+T1 A new set of passive routing attacks in mobile ad hoc networks
+
+RT Journal Article
+ID 3486493
+A1 Yi,Y.
+A1 Lee,Sj.
+A1 Su,W.
+A1 Gerla,M.
+YR 2003
+T1 On-demand multicast routing protocol (ODMRP) for ad hoc networks
+
+RT Journal Article
+ID 846069
+A1 Tang,Ken
+A1 Gerla,Mario
+YR 2003
+T1 Congestion control multicast in wireless ad hoc networks
+JF Computer Communications
+VO 26
+SP 278
+OP 288
+IS 3
+
+RT Conference Proceedings
+ID 2298589
+A1 Yu,Heeyeol
+A1 Das,Shirshanka
+A1 Lim,Yujin
+A1 Gerla,Mario
+YR 2003
+T1 Efficient building method of multiple spanning tree for QoS and load balancing
+
+RT Journal Article
+ID 3839157
+A1 Gerla,M.
+A1 Sandaidi,M.
+A1 Valla,M.
+A1 Wang,R.
+YR 2003
+T1 TCP Westwood with adaptive bandwidth estimation to improve efficiency/friendliness tradeoffs
+JF Computer Communications
+
+RT Journal Article
+ID 3405042
+A1 Cui,J.,H.
+A1 Maggiorini,D.
+A1 Faloutsos,M.
+A1 Gerla,M.
+A1 Boussetta,K.
+YR 2003
+T1 Modelling the spatial properties of multicast group members in the internet
+
+RT Conference Proceedings
+ID 869510
+A1 Kong,Jiejun
+A1 Das,Shirshanka
+A1 Tsai,Edward
+A1 Gerla,Mario
+YR 2003
+T1 ESCORT: a decentralized and localized access control system for mobile wireless access to secured domains
+SP 51
+OP 60
+
+RT Book, Whole
+ID 476785
+A1 Yi,Yunjung
+A1 Gerla,Mario
+A1 Park,Joon-sang
+A1 Maggiorini,Dario
+YR 2003
+T1 Team Oriented Multicast: A Scalable Routing Protocol for Large Mobile Networks
+SP 143
+OP 154
+
+RT Book, Whole
+ID 629927
+A1 Kazantzidis,Manthos
+A1 Maggiorini,Dario
+A1 Gerla,Mario
+YR 2003
+T1 Network Independent Available Bandwidth Sampling and Measurement
+SP 117
+OP 130
+
+RT Journal Article
+ID 2310255
+A1 Maniezzo,Daniela
+A1 Bergamoz,Pierpaolo
+A1 Cesana,Matteo
+A1 Gerla,Mario
+YR 2003
+T1 How to outperform IEEE802.11: Interference Aware (IA) MAC
+
+RT Conference Proceedings
+ID 50346501
+A1 Yi,Yunjung
+A1 Park,Joon-Sang
+A1 Lee,Sungwook
+A1 Lee,Yeng-Zhong
+A1 Gerla,Mario
+YR 2003
+T1 Implementation and validation of multicast-enabled landmark ad-hoc routing (M-LANMAR) protocol
+
+RT Conference Proceedings
+ID 4504022
+A1 Lee,Scott,Seongwook
+A1 Das,Shirshanka
+A1 Pau,Giovanni
+A1 Gerla,Mario
+YR 2003
+T1 A hierarchical multipath approach to QoS routing: performance and cost evaluation
+
+RT Conference Proceedings
+ID 4547183
+A1 Gerla,Mario
+A1 Xu,Kaixin
+A1 Hong,Xiaoyan
+YR 2003
+T1 Exploiting mobility in large scale ad hoc wireless networks
+
+RT Conference Proceedings
+ID 4537881
+A1 Furman,Sonia
+A1 Gerla,Mario
+YR 2003
+T1 The design of a spatial diversity model to mitigate narrowband and broadband interference in DSSS ad hoc networks
+
+RT Conference Proceedings
+ID 3650708
+A1 Maniezzo,D.
+A1 Cesana,M.
+A1 Bergamo,P.
+A1 Gerla,M.
+A1 Yao,K.
+YR 2003
+T1 Real-time caption streaming over WiFi network
+
+RT Conference Proceedings
+ID 50334526
+A1 Kazantzidis,Manthos
+A1 Gerla,Mario
+YR 2003
+T1 The impact of link layer assisted multimedia adaptation in wireless networks
+
+RT Journal Article
+ID 3840328
+A1 Gerla,Mario
+A1 Yi,Yunjung
+A1 Xu,K.
+YR 2003
+T1 Team communication among airborne agents
+
+RT Book, Whole
+ID 16322
+A1 Yu,Heeyeol
+A1 Das,Shirshanka
+A1 Gerla,Mario
+YR 2003
+T1 A Practical QoS Network Management System Considering Load Balancing of Resources
+SP 493
+OP 503
+
+RT Journal Article
+ID 2306673
+A1 SHAO,YUXIANG
+A1 SANADIDI,M.,Y.
+A1 GERLA,MARIO
+YR 2003
+T1 A Simulation Study of the Interoperability of TCPW with RED and ECN
+
+RT Journal Article
+ID 3825619
+A1 Gerla,M.
+YR 2003
+T1 Swarm Communications in the ONR-Minuteman Project
+
+RT Journal Article
+ID 50321054
+A1 Gerla,Mario
+A1 Yi,Yunjung
+A1 Xu,Kaixin
+A1 Hong,Xiaoyan
+YR 2003
+T1 Team communications among airborne swarms
+JF Dna Repair
+VO 3
+
+RT Journal Article
+ID 12257166
+A1 Maniezzo,Daniela
+A1 Cesana,Matteo
+A1 Bergamo,Pierpaolo
+A1 Gerla,Mario
+A1 Yao,Kung
+YR 2003
+T1 Real-Time Caption Streaming over WiFi Network
+
+RT Conference Proceedings
+ID 1904337
+A1 Gerla,Mario
+YR 2003
+T1 Ad Hoc Wireless Networks: Protocols and Applications
+SP 4
+
+RT Journal Article
+ID 257256
+A1 Kwon,Taek,Jin
+A1 Gerla,Mario
+YR 2002
+T1 Efficient Flooding with Passive Clustering (PC) in Ad Hoc Networks
+JF Computer Communication Review
+VO 32
+IS 1
+
+RT Journal Article
+ID 1468381
+A1 Hong,Xiaoyan
+A1 Xu,Kaixin
+A1 Gerla,Mario
+YR 2002
+T1 Scalable routing protocols for mobile ad hoc networks
+JF IEEE Network
+VO 16
+SP 11
+OP 21
+IS 4
+
+RT Conference Proceedings
+ID 4529757
+A1 Xu,Kaixin
+A1 Gerla,Mario
+A1 Bae,Sang
+YR 2002
+T1 How Effective is the IEEE 802.11 RTS/CTS Handshake in Ad Hoc Networks?
+
+RT Journal Article
+ID 836193
+A1 Lee,Sung-ju
+A1 Su,William
+A1 Gerla,Mario
+YR 2002
+T1 On-Demand Multicast Routing Protocol in Multihop Wireless Mobile Networks
+JF Mobile Networks and Applications
+VO 7
+SP 441
+OP 453
+IS 6
+
+RT Journal Article
+ID 837689
+A1 Casetti,Claudio
+A1 Gerla,Mario
+A1 Mascolo,Saverio
+A1 Sanadidi,M.,Y.
+A1 Wang,Ren
+YR 2002
+T1 TCP Westwood: End-to-End Congestion Control for Wired/Wireless Networks
+JF Wireless Networks
+VO 8
+SP 467
+OP 479
+IS 5
+
+RT Journal Article
+ID 1432241
+A1 KWON,TED,TAEKYOUNG
+A1 GERLA,MARIO
+A1 Das,S.
+YR 2002
+T1 Mobility management for VoIP service: Mobile IP vs. SIP
+JF IEEE Wireless Communications
+VO 9
+SP 66
+OP 75
+IS 5
+
+RT Journal Article
+ID 83506
+A1 Kong,Jiejun
+A1 Luo,Haiyun
+A1 Xu,Kaixin
+A1 Gu,Daniel,Lihui
+A1 Gerla,Mario
+A1 Lu,Songwu
+YR 2002
+T1 Adaptive Security for Multi-layer Ad-hoc Networks
+JF Wireless Communications and Mobile Computing
+
+RT Conference Proceedings
+ID 2035945
+A1 Xu,Kaixin
+A1 Hong,Xiaoyan
+A1 Gerla,Mario
+YR 2002
+T1 An ad hoc network with mobile backbones
+
+RT Journal Article
+ID 61948
+A1 CASETTI,CLAUDIO
+A1 GERLA,MARIO
+A1 MASCOLO,SAVERIO
+A1 SANADIDI,M.,YAHYA
+A1 WANG,REN
+YR 2002
+T1 TCP Westwood: End-to-End Bandwidth Estimation for Enhanced Transport over Wireless Links
+
+RT Journal Article
+ID 2030639
+A1 Gerla,M.
+A1 Hong,X.
+A1 Pei,G.
+YR 2002
+T1 Fisheye state routing protocol (FSR) for ad hoc networks
+
+RT Conference Proceedings
+ID 673600
+A1 Xu,Kaixin
+A1 Bae,Sang
+A1 Lee,Sungwook
+A1 Gerla,Mario
+YR 2002
+T1 TCP behavior across multihop wireless networks and the wired internet
+SP 41
+OP 48
+
+RT Journal Article
+ID 4532602
+A1 Hong,Xiaoyan
+A1 Gerla,Mario
+A1 Wang,Hanbiao
+A1 Clare,Loren
+YR 2002
+T1 Load balanced, energy-aware communications for Mars sensor networks
+
+RT Journal Article
+ID 16370
+A1 Gerla,Mario
+A1 Cigno,Renato,Lo
+A1 Mascolo,Saverio
+A1 Weng,Wenjie
+YR 2002
+T1 Generalized window advertising for TCP congestion control
+JF European Transactions on Telecommunications
+VO 13
+SP 549
+OP 562
+IS 6
+
+RT Conference Proceedings
+ID 20417
+A1 Wang,Ren
+A1 Valla,Massimo
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2002
+T1 Adaptive bandwidth share estimation in TCP Westwood
+
+RT Conference Proceedings
+ID 2054561
+A1 Xu,Kaixin
+A1 Gerla,Mario
+YR 2002
+T1 A heterogeneous routing protocol based on a new stable clustering scheme
+
+RT Conference Proceedings
+ID 2066951
+A1 Hong,Xiaoyan
+A1 Gerla,Mario
+A1 Yi,Yunjung
+A1 Xu,Kaixin
+A1 Kwon,Taek,Jin
+YR 2002
+T1 Scalable ad hoc routing in large, dense wireless networks using clustering and landmarks
+
+RT Conference Proceedings
+ID 421254
+A1 Wang,Ren
+A1 Valla,Massimo
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+YR 2002
+T1 Using Adaptive Rate Estimation to Provide Enhanced and Robust Transport over Heterogeneous Networks
+SP 206
+OP 215
+
+RT Conference Proceedings
+ID 68095
+A1 Wang,Ren
+A1 Valla,Massimo
+A1 Sanadidi,M.,Y.
+A1 Ng,Bryan,K.,F.
+A1 Gerla,Mario
+YR 2002
+T1 Efficiency/friendliness tradeoffs in TCP Westwood
+SP 304
+OP 311
+
+RT Journal Article
+ID 878976
+A1 Kwon,Taek,Jin
+A1 Gerla,Mario
+YR 2002
+T1 Efficient flooding with Passive Clustering (PC) in ad hoc networks
+JF Computer Communication Review
+VO 32
+SP 44
+OP 56
+IS 1
+
+RT Book, Whole
+ID 67075
+A1 Cui,Jun-hong
+A1 Kim,Jinkyu
+A1 Maggiorini,Dario
+A1 Boussetta,Khaled
+A1 Gerla,Mario
+YR 2002
+T1 Aggregated Multicast - A Comparative Study
+SP 1032
+OP 1044
+
+RT Conference Proceedings
+ID 2062532
+A1 Johansson,P.
+A1 Kapoor,R.
+A1 Kazantzidis,A.
+A1 Gerla,M.
+YR 2002
+T1 Rendezvous scheduling in Bluetooth scatternets
+
+RT Journal Article
+ID 2156606
+A1 Kong,Jiejun
+A1 Luo,Haiyun
+A1 Xu,Kaixin
+A1 Gu,Daniel,Lihui
+A1 Gerla,Mario
+A1 Lu,Songwu
+YR 2002
+T1 Adaptive security for multilevel ad hoc networks
+JF Wireless Communications and Mobile Computing
+VO 2
+SP 533
+OP 547
+IS 5
+
+RT Conference Proceedings
+ID 1889277
+A1 Kazantzidis,Manthos
+A1 Gerla,Mario
+YR 2002
+T1 End-to-end versus explicit feedback measurement in 802.11 networks
+SP 429
+OP 434
+
+RT Journal Article
+ID 1320009
+A1 Xu,K.
+A1 Gerla,M.
+A1 Bae,S.
+YR 2002
+T1 How effective is the ieee 802
+
+RT Journal Article
+ID 4438258
+A1 Johansson,Per
+A1 Kapoor,Rohit
+A1 Kazantzidis,Manthos
+A1 Gerla,Mario
+YR 2002
+T1 Personal Area Networks: Bluetooth or IEEE 802.11?
+JF International Journal of Wireless Information Networks
+VO 9
+SP 89
+OP 103
+IS 2
+
+RT Journal Article
+ID 8030
+A1 Gerla,M.
+A1 Lee,S.,S.
+A1 Pau,G.
+YR 2002
+T1 TCP Westwood Simulation Studies in Multiple-Path Cases
+
+RT Journal Article
+ID 421947
+A1 Procissi,Gregorio
+A1 Garg,Anurag
+A1 Gerla,Mario
+A1 Sanadidi,M.,Y.
+YR 2002
+T1 Token bucket characterization of long-range dependent traffic
+JF Computer Communications
+VO 25
+SP 1009
+OP 1017
+IS 11-12
+
+RT Journal Article
+ID 2132294
+A1 Hong,Xiaoyan
+A1 Gerla,Mario
+YR 2002
+T1 Dynamic Group Discovery and Routing in Ad Hoc Networks
+
+RT Conference Proceedings
+ID 56845
+A1 Cui,Jun-Hong
+A1 Kim,Jinkyu
+A1 Fei,Aiguo
+A1 Faloutsos,Michalis
+A1 Gerla,Mario
+YR 2002
+T1 Scalable QoS multicast provisioning in Diff-Serv-supported MPLS networks
+
+RT Conference Proceedings
+ID 60879
+A1 Balk,Alex
+A1 Sigler,Marc
+A1 Gerla,Mario
+YR 2002
+T1 Investigation of MPEG4 Video Streaming over SCTP
+
+RT Conference Proceedings
+ID 2383995
+A1 Stepanek,J.
+A1 Razdan,A.
+A1 Nandan,A.
+A1 Gerla,M.
+A1 Luglio,M.
+YR 2002
+T1 The use of a proxy on board the satellite to improve TCP performance
+
+RT Conference Proceedings
+ID 306
+A1 Das,S.
+A1 Gerla,M.
+A1 Lee,S.,S.
+A1 Pau,G.
+A1 Yamada,K.
+YR 2002
+T1 Practical QoS Network System with Fault Tolerance
+
+RT Conference Proceedings
+ID 3708091
+A1 Hong,X.
+A1 Gerla,M.
+A1 Yi,Y.
+A1 Xu,K.
+A1 Kwon,T.
+YR 2002
+T1 Scalable Ad Hoc Routing in Large
+
+RT Conference Proceedings
+ID 4304297
+A1 Kapoor,Rohit
+A1 Chen,Ling-jyh
+A1 Lee,Yeng-zhong
+A1 Gerla,Mario
+YR 2002
+T1 Bluetooth: carrying voice over ACL links
+SP 379
+OP 383
+
+RT Conference Proceedings
+ID 2062893
+A1 Tang,Ken
+A1 Obraczka,Katia
+A1 Lee,Sung-ju
+A1 Gerla,Mario
+YR 2002
+T1 Congestion controlled adaptive lightweight multicast in wireless mobile ad hoc networks
+SP 967
+OP 972
+
+RT Conference Proceedings
+ID 80453
+A1 Cui,Jun-Hong
+A1 Maggiorini,Dario
+A1 Kim,Jinkyu
+A1 Boussetta,Khaled
+A1 Gerla,Mario
+YR 2002
+T1 A protocol to improve the state scalability of source specific multicast
+
+RT Journal Article
+ID 2065569
+A1 Tang,K.
+A1 Obraczka,K.
+A1 Lee,S.,J
+A1 Gerla,M.
+YR 2002
+T1 Congestion controlled multicast transport protocol in multi-media multi-hop networks
+
+RT Journal Article
+ID 110925
+A1 Gerla,Mario
+A1 Cigno,Renato,Lo
+A1 Mascolo,Saverio
+A1 Weng,Wenjie
+YR 2002
+T1 Generalized window advertising for TCP congestion control
+JF European Transactions on Telecommunications
+VO 13
+SP 549
+OP 562
+IS 6
+
+RT Conference Proceedings
+ID 476824
+A1 Yi,Yunjung
+A1 Hong,Xiaoyan
+A1 Gerla,Mario
+YR 2002
+T1 Scalable Team Multicast in Wireless Ad hoc Networks Exploiting Coordinated Motion
+SP 97
+OP 104
+
+RT Book, Whole
+ID 55829
+A1 Aboobaker,Nadeem
+A1 Chanady,David
+A1 Gerla,Mario
+A1 Sanadidi,M.,Y.
+YR 2002
+T1 Streaming Media Congestion Control Using Bandwidth Estimation
+SP 89
+OP 100
+
+RT Conference Proceedings
+ID 4551699
+A1 Lee,Yeng-zhong
+A1 Kapoor,Rohit
+A1 Gerla,Mario
+YR 2002
+T1 An efficient and fair polling scheme for Bluetooth
+
+RT Journal Article
+ID 885629
+A1 Yi,Yunjung
+A1 Gerla,Mario
+YR 2002
+T1 Scalable AODV with efficient flooding based on on-demand clustering
+JF Mobile Computing and Communications Review
+VO 6
+SP 98
+OP 99
+IS 3
+
+RT Conference Proceedings
+ID 50287662
+A1 Tang,Ken
+A1 Obraczka,Katia
+A1 Lee,Sung-Ju
+A1 Geria,M.
+YR 2002
+T1 A reliable, congestion-control led multicast transport protocol in multimedia multi-hop networks
+VO 1
+SP 252
+
+RT Journal Article
+ID 3181265
+A1 Gu,Daniel,Lihui
+A1 Pei,Gaungyu
+A1 Ly,Henry
+A1 Gerla,Mario
+A1 Hong,Xiaoyan
+YR 2002
+T1 Hierarchical routing for multi-layer ad-hoc wireless networks with UAVs
+
+RT Journal Article
+ID 10257243
+A1 Gerla,Mario
+A1 Xu,Kaixin
+YR 2002
+T1 Minuteman: Forward projection of unmanned agents using the airborne internet
+
+RT Conference Proceedings
+ID 3959762
+A1 Yi,Yunjung
+A1 Gerla,Mario
+A1 Kwon,Taek,Jin
+YR 2002
+T1 The selective intermediate nodes scheme for ad hoc on-demand routing protocols
+
+RT Conference Proceedings
+ID 50283077
+A1 Razdan,A.
+A1 Nandan,A.
+A1 Wang,R.
+A1 Sanadidi,M.,Y.
+A1 Gerla,M.
+YR 2002
+T1 Enhancing TCP performance in networks with small buffers
+SP 39
+OP 44
+
+RT Conference Proceedings
+ID 80151
+A1 Gerla,Mario
+A1 Lee,Yeng-zhong
+A1 Kapoor,Rohit
+A1 Kwon,Ted,Taekyoung
+A1 Zanella,Andrea
+YR 2002
+T1 UMTS-TDD: a solution for internetworking Bluetooth piconets in indoor environments
+SP 825
+OP 830
+
+RT Conference Proceedings
+ID 420264
+A1 Kong,Jiejun
+A1 Gerla,Mario
+YR 2002
+T1 Providing real-time security support for multi-level ad-hoc networks
+
+RT Book, Whole
+ID 55062
+A1 Cigno,Renato,Lo
+A1 Procissi,Gregorio
+A1 Gerla,Mario
+YR 2002
+T1 Sender-Side TCP Modifications: An Analytical Study
+SP 600
+OP 611
+
+RT Conference Proceedings
+ID 435390
+A1 Kazantzidis,Manthos
+A1 Gerla,Mario
+YR 2002
+T1 On the Impact of Inter Piconet Scheduling in Bluetooth Scatternets
+SP 37
+OP 43
+
+RT Journal Article
+ID 15222921
+A1 Casetti,Claudio
+A1 Gerla,Mario
+A1 Mascolo,Saverio
+A1 Sanadidi,M.,Y.
+A1 Wang,Ren
+YR 2002
+T1 TCP Westwood: End-to-End Congestion Control for Wired/Wireless Networks
+JF Wireless Networks
+VO 8
+SP 467
+OP 479
+IS 5
+
+RT Conference Proceedings
+ID 50297113
+A1 Bae,Sang
+A1 Xu,Kaixin
+A1 Lee,Sungwook
+A1 Gerla,Mario
+YR 2002
+T1 Measured analysis of TCP behavior across multihop wireless and wired networks
+
+RT Journal Article
+ID 15273504
+A1 Lee,Sung-Ju
+A1 Su,William
+A1 Gerla,Mario
+YR 2002
+T1 On-Demand Multicast Routing Protocol in Multihop Wireless Mobile Networks
+JF Mobile Networks and Applications
+VO 7
+SP 441
+OP 453
+IS 6
+
+RT Journal Article
+ID 67389
+A1 Mascolo,S.
+A1 Grieco,L.,A.
+A1 Gerla,M.
+A1 Pau,G.
+A1 Casetti,C.
+YR 2002
+T1 End-to-End Bandwidth Estimation in TCP to Improve Wireless Link Utilization
+
+RT Journal Article
+ID 1588369
+A1 Blefari-Melazzi,N.
+A1 Benedettio,M.,G.,Di
+A1 Geria,M.
+A1 Luediger,H.
+A1 Win,M.,Z.
+A1 Withington,P.
+YR 2002
+T1 Guest editorial ultra-wideband radio in multiaccess wireless communications
+JF IEEE Journal on Selected Areas in Communications
+VO 20
+SP 1609
+OP 1610
+IS 9
+
+RT Conference Proceedings
+ID 50297439
+A1 Lee,Scott,Seongwook
+A1 Gerla,M.
+YR 2002
+T1 Cost-effective multiple QoS path provisioning
+
+RT Conference Proceedings
+ID 68643
+A1 Skow,Erik
+A1 Kong,Jiejun
+A1 Phan,Thomas
+A1 Cheng,Fred
+A1 Guy,Richard
+A1 Bagrodia,Rajive
+A1 Gerla,Mario
+A1 Lu,Songwu
+YR 2002
+T1 A security architecture for application session handoff
+
+RT Journal Article
+ID 3839060
+A1 Luglio,M.
+A1 Stepanek,J.
+A1 Gerla,M.
+YR 2002
+T1 TCP PERFORMANCE USING SPLITTING OVER THE SATELLITE LINK
+
+RT Journal Article
+ID 2146933
+A1 Wang,R.
+A1 Valla,M.
+A1 Sanadidi,M.,Y.
+A1 Ng,B.,K.,F
+A1 Gerla,M.
+YR 2002
+T1 E-ciency/Friendliness Tradeo s in TCP Westwood
+
+RT Journal Article
+ID 18247
+A1 Kulkarni,Gautam
+A1 Raghunathan,Vijay
+A1 Srivastava,Mani,B.
+A1 Gerla,Mario
+YR 2002
+T1 Channel allocation in OFDMA-based wireless ad-hoc networks
+VO 4791
+SP 252
+OP 261
+
+RT Journal Article
+ID 2565516
+A1 Kapoor,Rohit
+A1 Zanella,Andrea
+A1 Gerla,Mario
+YR 2002
+T1 A fair and traffic dependent polling scheme for Bluetooth
+
+RT Conference Proceedings
+ID 4551071
+A1 Hong,Xiaoyan
+A1 Gerla,Mario
+A1 Ma,Li
+YR 2002
+T1 Multiple-landmark routing for large groups in ad hoc networks
+
+RT Conference Proceedings
+ID 50293936
+A1 Bae,Sang,Ho
+A1 Lee,Sungwook
+A1 Gerla,Mario
+YR 2002
+T1 Unicast performance analysis of extended ODMRP in a wired-to-wireless ad-hoc network testbed
+
+RT Book, Whole
+ID 38215
+A1 Das,Shirshanka
+A1 Yamada,Kenshin
+A1 Yu,Heeyeol
+A1 Lee,Scott,Seongwook
+A1 Gerla,Mario
+YR 2002
+T1 A QoS Network Management System for Robust and Reliable Multimedia Services
+SP 1
+OP 11
+
+RT Conference Proceedings
+ID 562644
+A1 Das,Shirshanka
+A1 Verma,Pavan
+A1 Jain,Bijendra,N.
+A1 Gerla,Mario
+YR 2002
+T1 ZRESTORE: A Link Restoration Scheme with High Aggregation and No Reservation
+SP 295
+OP 310
+
+RT Conference Proceedings
+ID 4304272
+A1 Allali,Hommad,El
+A1 Heijenk,Geert,J.
+A1 Gerla,M.
+A1 Cambyse,G.,O.
+YR 2002
+T1 Traffic characterization for a UMTS radio access network
+SP 497
+OP 501
+
+RT Journal Article
+ID 4438249
+A1 Pavlidou,Fotini-niovi
+A1 Gerla,Mario
+A1 Mohr,Werner
+YR 2002
+T1 Guest Editorial: Ad Hoc Networking
+JF International Journal of Wireless Information Networks
+VO 9
+SP 71
+OP 74
+IS 2
+
+RT Journal Article
+ID 76553
+A1 Gerla,Mario
+A1 Lee,Scott,Seongwook
+A1 Pau,Giovanni
+YR 2002
+T1 TCP Westwood Performance Over Multiple Paths
+
+RT Conference Proceedings
+ID 147378
+A1 Lee,Sung-Ju
+A1 Gerla,Mario
+YR 2001
+T1 Split multipath routing with maximally disjoint paths in ad hoc networks
+
+RT Conference Proceedings
+ID 653125
+A1 Mascolo,Saverio
+A1 Casetti,Claudio
+A1 Gerla,Mario
+A1 Sanadidi,M.,Y.
+A1 Wang,Ren
+YR 2001
+T1 TCP westwood: Bandwidth estimation for enhanced transport over wireless links
+SP 287
+OP 297
+
+RT Journal Article
+ID 784830
+A1 Su,William
+A1 Lee,Sung-ju
+A1 Gerla,Mario
+YR 2001
+T1 Mobility prediction and routing in ad hoc wireless networks
+JF International Journal of Network Management
+VO 11
+SP 3
+OP 30
+IS 1
+
+RT Conference Proceedings
+ID 1310147
+A1 Tang,Ken
+A1 Gerla,Mario
+YR 2001
+T1 MAC reliable broadcast in ad hoc networks
+
+RT Conference Proceedings
+ID 1384523
+A1 Capone,Antonio
+A1 Gerla,Mario
+A1 Kapoor,Rohit
+YR 2001
+T1 Efficient polling schemes for Bluetooth picocells
+
+RT Journal Article
+ID 107284
+A1 Johansson,Per
+A1 Kazantzidis,M.
+A1 Kapoor,R.
+A1 Gerla,M.
+YR 2001
+T1 Bluetooth: an enabler for personal area networking
+JF IEEE Network
+VO 15
+SP 28
+OP 37
+IS 5
+
+RT Book, Whole
+ID 73228
+A1 Hong,Xiaoyan
+A1 Kwon,Taek,Jin
+A1 Gerla,Mario
+A1 Gu,Daniel,Lihui
+A1 Pei,Guangyu
+YR 2001
+T1 A Mobility Framework for Ad Hoc Wireless Networks
+SP 185
+OP 196
+
+RT Conference Proceedings
+ID 66351
+A1 Fei,Aiguo
+A1 Cui,Jun-Hong
+A1 Gerla,Mario
+A1 Faloutsos,Michalis
+YR 2001
+T1 Aggregated Multicast: an Approach to Reduce Multicast State
+
+RT Conference Proceedings
+ID 122514
+A1 Gerla,Mario
+A1 Sanadidi,M.,Y.
+A1 Wang,Ren
+A1 Zanella,Andrea
+A1 Casetti,Claudio
+A1 Mascolo,Saverio
+YR 2001
+T1 TCP Westwood: congestion window control using bandwidth estimation
+
+RT Journal Article
+ID 836192
+A1 Lee,Sung-ju
+A1 Su,William
+A1 Gerla,Mario
+YR 2001
+T1 Wireless Ad Hoc Multicast Routing with Mobility Prediction
+JF Mobile Networks and Applications
+VO 6
+SP 351
+OP 360
+IS 4
+
+RT Conference Proceedings
+ID 2065902
+A1 Mascolo,S.
+A1 Casetti,C.
+A1 Gerla,M.
+A1 Sanadidi,M.
+A1 Wang,R.
+YR 2001
+T1 TCP Westwood: End-to-end Bandwidth Estimation for Efficient Transport over Wired and Wireless Networks
+
+RT Conference Proceedings
+ID 72797
+A1 Kazantzidis,Manthos
+A1 Gerla,Mario
+A1 Lee,Sung-Ju
+YR 2001
+T1 Permissible throughput network feedback for adaptive multimedia in AODV MANETs
+
+RT Conference Proceedings
+ID 2026462
+A1 Capone,A.
+A1 Gerla,M.
+A1 Kapoor,R.
+YR 2001
+T1 Efficient Polling Schemes for Bluetooth Picocells
+
+RT Journal Article
+ID 837645
+A1 Takai,Mineo
+A1 Bagrodia,Rajive
+A1 Tang,Ken
+A1 Gerla,Mario
+YR 2001
+T1 Efficient Wireless Network Simulations with Detailed Propagation Models
+JF Wireless Networks
+VO 7
+SP 297
+OP 305
+IS 3
+
+RT Journal Article
+ID 836169
+A1 Tang,Ken
+A1 Correa,Mario
+A1 Gerla,Mario
+YR 2001
+T1 Effects of Ad Hoc MAC Layer Medium Access Mechanisms under TCP
+JF Mobile Networks and Applications
+VO 6
+SP 317
+OP 329
+IS 4
+
+RT Conference Proceedings
+ID 76451
+A1 Fei,Aiguo
+A1 Cui,Junhong
+A1 Gerla,Mario
+A1 Cavendish,Dirceu
+YR 2001
+T1 A “dual-tree” scheme for fault-tolerant multicast
+
+RT Book, Whole
+ID 68360
+A1 Fei,Aiguo
+A1 Cui,Jun-hong
+A1 Gerla,Mario
+A1 Faloutsos,Michalis
+YR 2001
+T1 Aggregated Multicast with InterGroup Tree Sharing
+SP 172
+OP 188
+
+RT Journal Article
+ID 836117
+A1 Pei,Guangyu
+A1 Gerla,Mario
+YR 2001
+T1 Mobility Management for Hierarchical Wireless Networks
+JF Mobile Networks and Applications
+VO 6
+SP 331
+OP 337
+IS 4
+
+RT Conference Proceedings
+ID 3307345
+A1 Xu,Kaixin
+A1 Hong,Xiaoyan
+A1 Gerla,Mario
+A1 Ly,Henry
+A1 Gu,Daniel,Lihui
+YR 2001
+T1 Landmark routing in large wireless battlefield networks using UAVs
+
+RT Book, Whole
+ID 67124
+A1 Lee,Scott,Seongwook
+A1 Gerla,Mario
+YR 2001
+T1 Fault Tolerance and Load Balancing in QoS Provisioning with Multiple MPLS Paths
+SP 155
+OP 169
+
+RT Conference Proceedings
+ID 43724
+A1 Zanella,Andrea
+A1 Procissi,Gregorio
+A1 Gerla,Mario
+A1 Sanadidi,M.,Y.
+YR 2001
+T1 TCP Westwood: analytic model and performance evaluation
+
+RT Conference Proceedings
+ID 125326
+A1 Sivaraman,Vijay
+A1 Chiussi,Fabio,M.
+A1 Gerla,Mario
+YR 2001
+T1 End-to-End Statistical Delay Service under GPS and EDF Scheduling: A Comparison Study
+VO 2
+SP 1113
+OP 1122
+
+RT Conference Proceedings
+ID 3672262
+A1 Tang,Ken
+A1 Gerla,Mario
+YR 2001
+T1 Reliable on-demand multicast routing with congestion control in wireless ad hoc networks
+VO 4526
+SP 109
+OP 120
+
+RT Journal Article
+ID 3104793
+A1 Geria,M.
+A1 Pei,G.
+A1 Hong,X.
+A1 Chen,T.
+YR 2001
+T1 Fisheye State Routing Protocol (FSR) for Ad Hoc Networks
+
+RT Conference Proceedings
+ID 487384
+A1 Kapoor,Rohit
+A1 Kazantzidis,Manthos
+A1 Gerla,Mario
+A1 Johansson,Per
+YR 2001
+T1 Multimedia support over bluetooth Piconets
+SP 50
+OP 55
+
+RT Conference Proceedings
+ID 2769460
+A1 Zanella,A.
+A1 Procissi,G.
+A1 Gerla,M.
+A1 Sanadidi,M.
+A1 Wang,R.
+YR 2001
+T1 Bandwidth Estimation for Enhanced Transport over Wireless Links
+
+RT Conference Proceedings
+ID 147095
+A1 Bae,Sang,Ho
+A1 Lee,Sung-Ju
+A1 Gerla,Mario
+YR 2001
+T1 Multicast protocol implementation and validation in an ad hoc network testbed
+
+RT Conference Proceedings
+ID 5158699
+A1 Yi,Yunjung
+A1 Kwon,Taek,Jin
+A1 Gerla,Mario
+YR 2001
+T1 A load aWare routing (LWR) based on local information
+
+RT Journal Article
+ID 2658238
+A1 Gerla,Mario
+A1 Kapoor,Rohit
+YR 2001
+T1 Ad hoc networking with Bluetooth
+
+RT Book, Whole
+ID 553938
+A1 Loreti,Pierpaolo
+A1 Luglio,Michele
+A1 Kapoor,Rohit
+A1 Stepanek,J.
+A1 Gerla,Mario
+A1 Vatalaro,Francesco
+A1 Vázquez-castro,Maria,Angeles
+YR 2001
+T1 Satellite Systems Performance with TCP-IP Applications
+SP 76
+OP 90
+
+RT Journal Article
+ID 129003
+A1 Gerla,Mario
+A1 Leonardi,Emilio
+A1 Neri,Fabio
+A1 Palnati,Prasasth
+YR 2001
+T1 Routing in the bidirectional shufflenet
+JF IEEE/ACM Transactions on Networking
+VO 9
+SP 91
+OP 103
+IS 1
+
+RT Journal Article
+ID 2077215
+A1 Kazantzidis,M.
+A1 Lee,S.,J
+A1 Gerla,M.
+YR 2001
+T1 Permisible Throughput Network Feedback in AODV MANETSs
+
+RT Book, Whole
+ID 78208
+A1 Fei,Aiguo
+A1 Gerla,Mario
+YR 2001
+T1 Extending BGMP for Shared-Tree Inter-Domain QoS Multicast
+SP 123
+OP 139
+
+RT Journal Article
+ID 4412406
+A1 Ritke,Ronn
+A1 Hong,Xiaoyan
+A1 Gerla,Mario
+YR 2001
+T1 Contradictory relationship between Hurst parameter and queueing performance (extended version)
+JF Telecommunication Systems
+VO 16
+SP 159
+OP 175
+IS 1-2
+
+RT Conference Proceedings
+ID 76428
+A1 Kapoor,Rohit
+A1 Casettit,Claudio
+A1 Gerla,Mario
+YR 2001
+T1 Core-stateless fair bandwidth allocation for TCP flows
+
+RT Conference Proceedings
+ID 50241414
+A1 Fei,Aiguo
+A1 Duan,Zhihong
+A1 Gerla,Mario
+YR 2001
+T1 Constructing shared-tree for group multicast with QoS constraints
+
+RT Book, Whole
+ID 78868
+A1 Gerla,Mario
+A1 Fei,Aiguo
+A1 Cui,Jun-hong
+A1 Faloutsos,Michalis
+YR 2001
+T1 Aggregated Multicast for Scalable QoS Multicast Provisioning
+SP 295
+OP 308
+
+RT Journal Article
+ID 2098481
+A1 Mascolo,S.
+A1 Casetti,C.
+A1 Gerla,M.
+A1 Lee,S.
+A1 Sana-dini,M.
+YR 2001
+T1 TCP Westwood: congestion control with faster recovery
+
+RT Book, Whole
+ID 77436
+A1 Gerla,Mario
+A1 Casetti,Claudio
+A1 Lee,Scott,Seongwook
+A1 Reali,Gianluca
+YR 2001
+T1 Resource Allocation and Admission Control Styles in QoS DiffServ Networks
+SP 113
+OP 128
+
+RT Journal Article
+ID 15273448
+A1 Lee,Sung-Ju
+A1 Su,William
+A1 Gerla,Mario
+YR 2001
+T1 Wireless Ad Hoc Multicast Routing with Mobility Prediction
+JF Mobile Networks and Applications
+VO 6
+SP 351
+OP 360
+IS 4
+
+RT Conference Proceedings
+ID 6835992
+A1 Gerla,M.
+A1 Lee,S.,S.
+A1 Reali,G.
+A1 Sorte,D.,D.
+YR 2001
+T1 Performance of different call admission schemes in a QoS Diffserv domain
+
+RT Conference Proceedings
+ID 50252673
+A1 Hong,Xiaoyan
+A1 Gerla,Mario
+A1 Bagrodia,Rajive
+A1 Kwon,Taek,Jin
+A1 Estabrook,Polly
+A1 Pei,Guangyu
+YR 2001
+T1 The Mars sensor network: efficient, energy aware communications
+
+RT Journal Article
+ID 67568
+A1 Procissi,Gregorio
+A1 Gerla,Mario
+A1 Kim,Jinkyu
+A1 Lee,Scott,Seongwook
+A1 Sanadidi,M.,Y.
+YR 2001
+T1 On Long Range Dependence and Token Buckets
+
+RT Journal Article
+ID 77237
+A1 TR,UCLA,CSD
+A1 Cui,Jun-Hong
+A1 Fei,Aiguo
+A1 Gerla,Mario
+A1 Faloutsos,Michalis
+YR 2001
+T1 An Architecture for Scalable QoS Multicast Provisioning
+
+RT Journal Article
+ID 856271
+A1 Devadhar,Siddhartha,Y.
+A1 Gerla,Mario
+A1 Yu,John
+YR 2001
+T1 The significance of finite buffer edge effects in histogram measurements of queues
+JF Telecommunication Systems
+VO 16
+SP 177
+OP 193
+IS 1-2
+
+RT Journal Article
+ID 15226174
+A1 Ritke,Ronn
+A1 Hong,Xiaoyan
+A1 Gerla,Mario
+YR 2001
+T1 Contradictory relationship between Hurst parameter and queueing performance (extended version)
+JF Telecommunication Systems
+VO 16
+SP 159
+OP 175
+IS 1
+
+RT Journal Article
+ID 15222859
+A1 Takai,Mineo
+A1 Bagrodia,Rajive
+A1 Tang,Ken
+A1 Gerla,Mario
+YR 2001
+T1 Efficient Wireless Network Simulations with Detailed Propagation Models
+JF Wireless Networks
+VO 7
+SP 297
+OP 305
+IS 3
+
+RT Journal Article
+ID 55493747
+A1 Gu,Daniel,L.
+A1 Gerla,Mario
+A1 Ly,Henry
+A1 Xu,Kaixin
+A1 Kong,Jiejun
+A1 Hong,Xiaoyan
+YR 2001
+T1 Design of multilevel heterogeneous ad-hoc wireless networks with UAVs
+VO 4586
+SP 327
+OP 338
+
+RT Journal Article
+ID 15273446
+A1 Pei,Guangyu
+A1 Gerla,Mario
+YR 2001
+T1 Mobility Management for Hierarchical Wireless Networks
+JF Mobile Networks and Applications
+VO 6
+SP 331
+OP 337
+IS 4
+
+RT Conference Proceedings
+ID 50252734
+A1 Loreti,P.
+A1 Luglio,M.
+A1 Kapoor,R.
+A1 Stepanek,J.
+A1 Gerla,M.
+A1 Vatalaro,F.
+A1 Vazquez-Castro,M.,A.
+YR 2001
+T1 Satellite systems performance with TCP-IP applications
+
+RT Journal Article
+ID 15273445
+A1 Tang,Ken
+A1 Correa,Mario
+A1 Gerla,Mario
+YR 2001
+T1 Effects of Ad Hoc MAC Layer Medium Access Mechanisms under TCP
+JF Mobile Networks and Applications
+VO 6
+SP 317
+OP 329
+IS 4
+
+RT Journal Article
+ID 2340168
+A1 KWON,T.
+A1 KAPOOR,R.
+A1 LEE,Y.
+A1 GERLA,M.
+A1 ZANELLA,A.
+YR 2001
+T1 A HYBRID ARCHITECTURE OF UMTS AND BLUETOOTH FOR INDOOR WIRELESS/MOBILE COMMUNICATIONS
+
+RT Journal Article
+ID 15226175
+A1 Devadhar,Siddhartha,Y.
+A1 Gerla,Mario
+A1 Yu,John
+YR 2001
+T1 The significance of finite buffer edge effects in histogram measurements of queues
+JF Telecommunication Systems
+VO 16
+SP 177
+OP 193
+IS 1
+
+RT Journal Article
+ID 53167441
+A1 Gerla,Mario
+YR 2001
+T1 Mobile access to the Internet: from personal bubble to satellites
+VO 4586
+SP 316
+OP 326
+
+RT Conference Proceedings
+ID 243198
+A1 Lee,Sung-ju
+A1 Su,William
+A1 Hsu,Julian
+A1 Gerla,Mario
+A1 Bagrodia,Rajive
+YR 2000
+T1 A Performance Comparison Study of Ad Hoc Wireless Multicast Protocols
+VO 2
+SP 565
+OP 574
+
+RT Conference Proceedings
+ID 210007
+A1 Lee,Sung-Ju
+A1 Gerla,Mario
+YR 2000
+T1 AODV-BR: backup routing in ad hoc networks
+VO 3
+SP 1311
+
+RT Conference Proceedings
+ID 145679
+A1 Lee,Sung-Ju
+A1 Gerla,Mario
+YR 2000
+T1 Dynamic Load-Aware Routing in Ad hoc Networks
+
+RT Conference Proceedings
+ID 233174
+A1 Pei,Guangyu
+A1 Gerla,Mario
+A1 Hong,Xiaoyan
+YR 2000
+T1 LANMAR: landmark routing for large scale wireless ad hoc networks with group mobility
+SP 11
+OP 18
+
+RT Conference Proceedings
+ID 228795
+A1 Pei,Guangyu
+A1 Gerla,Mario
+A1 Chen,Tsu-wei
+YR 2000
+T1 Fisheye State Routing: A Routing Scheme for Ad Hoc Wireless Networks
+SP 70
+OP 74
+
+RT Conference Proceedings
+ID 207839
+A1 Gerla,Mario
+A1 Kwon,Taek,Jin
+A1 Pei,Guangyu
+YR 2000
+T1 On-demand routing in large ad hoc wireless networks with passive clustering
+VO 1
+SP 100
+
+RT Conference Proceedings
+ID 3396136
+A1 Su,William
+A1 Lee,Sung-Ju
+A1 Gerla,Mario
+YR 2000
+T1 Mobility prediction in wireless networks
+
+RT Conference Proceedings
+ID 244674
+A1 Pei,Guangyu
+A1 Gerla,Mario
+A1 Chen,Tsu-wei
+YR 2000
+T1 Fisheye State Routing in Mobile Ad Hoc Networks
+
+RT Conference Proceedings
+ID 183956
+A1 Gerla,Mario
+A1 Hong,Xiaoyan
+A1 Pei,Guangyu
+YR 2000
+T1 Landmark routing for large ad hoc wireless networks
+
+RT Journal Article
+ID 227441
+A1 Bae,Sang,Ho
+A1 Lee,Sung-Ju
+A1 Su,W.
+A1 Gerla,Mario
+YR 2000
+T1 The design, implementation, and performance evaluation of the on-demand multicast routing protocol in multihop wireless networks
+JF IEEE Network
+VO 14
+SP 70
+OP 77
+IS 1
+
+RT Conference Proceedings
+ID 115322
+A1 Casetti,Claudio
+A1 Geria,M.
+A1 Lee,Scott,Seongwook
+A1 Mascolo,Saverio
+A1 Sanadidi,Medy
+YR 2000
+T1 TCP with faster recovery
+
+RT Conference Proceedings
+ID 50213110
+A1 Tang,Ken
+A1 Gerla,Mario
+YR 2000
+T1 MAC layer broadcast support in 802.11 wireless networks
+
+RT Journal Article
+ID 1971554
+A1 Lee,S.,J
+A1 Su,W.
+A1 Gerla,M.
+YR 2000
+T1 On-Demand Multicast Routing Protocol (ODMRP) for Ad Hoc Networks
+
+RT Conference Proceedings
+ID 82824
+A1 Geria,M.
+A1 Weng,Wenjie
+A1 Cigno,Renato,Lo
+YR 2000
+T1 Bandwidth feedback control of TCP and real time sources in the Internet
+
+RT Conference Proceedings
+ID 2379333
+A1 Tang,Ken
+A1 Gerla,Mario
+YR 2000
+T1 Random access MAC for efficient broadcast support in ad hoc networks
+VO 1
+SP 454
+
+RT Journal Article
+ID 121370
+A1 Gerla,M.
+A1 Sanadidi,M.
+A1 Mascolo,S.
+A1 Lee,S.,S.
+YR 2000
+T1 TCP Westwood: congestion control with faster recovery
+
+RT Conference Proceedings
+ID 222725
+A1 Bae,Sang,Ho
+A1 Lee,Sung-Ju
+A1 Gerla,Mario
+YR 2000
+T1 Unicast performance analysis of the ODMRP in a mobile ad hoc network testbed
+SP 148
+OP 153
+
+RT Conference Proceedings
+ID 177093
+A1 Gu,Daniel,Lihui
+A1 Pei,Guangyu
+A1 Ly,Henry
+A1 Gerla,Mario
+A1 Zhang,Beichuan
+A1 Hong,Xiaoyan
+YR 2000
+T1 UAV aided intelligent routing for ad-hoc wireless network in single-area theater
+VO 3
+SP 1220
+
+RT Conference Proceedings
+ID 205864
+A1 Fei,Aiguo
+A1 Gerla,Mario
+YR 2000
+T1 Receiver-Initiated Multicasting with Multiple QoS Constraints
+VO 1
+SP 62
+OP 70
+
+RT Journal Article
+ID 3252492
+A1 Gu,D.
+A1 Pei,G.
+A1 Gerla,M.
+A1 Hong,X.
+YR 2000
+T1 Integrated hierarchical routing for heterogeneous multi-hop networks
+
+RT Conference Proceedings
+ID 4269314
+A1 Dubrovsky,Alex
+A1 Gerla,Mario
+A1 Lee,Scott,Seongwook
+A1 Cavendish,Dirceu
+YR 2000
+T1 Internet QoS Routing with IP Telephony and TCP Traffic
+SP 1348
+OP 1352
+
+RT Conference Proceedings
+ID 176375
+A1 Gu,Daniel,Lihui
+A1 Pei,Guangyu
+A1 Ly,Henry
+A1 Gerla,Mario
+A1 Hong,Xiaoyan
+YR 2000
+T1 Hierarchical routing for multi-layer ad-hoc wireless networks with UAVs
+
+RT Conference Proceedings
+ID 173503
+A1 Gu,Daniel,Lihui
+A1 Ly,Henry
+A1 Hong,Xiaoyan
+A1 Gerla,Mario
+A1 Pei,Guangyu
+A1 Lee,Yeng-Zhong
+YR 2000
+T1 C-ICAMA, a centralized intelligent channel assigned multiple access for multi-layer ad-hoc wireless networks with UAVs
+VO 2
+SP 879
+
+RT Journal Article
+ID 1376023
+A1 Tang,K.
+A1 Gerla,M.
+YR 2000
+T1 Mac layer broadcast support in 802
+
+RT Conference Proceedings
+ID 210235
+A1 Lee,Sung-ju
+A1 Su,William
+A1 Gerla,Mario
+YR 2000
+T1 Exploiting the unicast functionality of the on-demand multicast routing protocol
+VO 3
+SP 1317
+
+RT Conference Proceedings
+ID 66606
+A1 Dubrovsky,Alex
+A1 Gerla,Mario
+A1 Lee,Scott,Seongwook
+A1 Cavendish,Dirceu
+YR 2000
+T1 Internet QoS Routing with IP Telephony and TCP
+
+RT Conference Proceedings
+ID 67959
+A1 Fei,Aiguo
+A1 Gerla,Mario
+YR 2000
+T1 Smart forwarding technique for routing with multiple QoS constraints
+
+RT Conference Proceedings
+ID 234002
+A1 Sivaraman,Vijay
+A1 Chiussi,Fabio,M.
+A1 Gerla,Mario
+YR 2000
+T1 Traffic shaping for end-to-end delay guarantees with EDF scheduling
+
+RT Conference Proceedings
+ID 50194450
+A1 Pei,Guangyu
+A1 Geria,M.
+A1 Hong,Xiaoyan
+YR 2000
+T1 LANMAR: landmark routing for large scale wireless ad hoc networks with group mobility
+
+RT Journal Article
+ID 3104787
+A1 Pei,Guangyu
+A1 Gerla,Mario
+A1 Chen,Tsu-wei
+YR 2000
+T1 Fisheye State Routing: a routing scheme for ad hoc wireless networks
+
+RT Book, Whole
+ID 683586
+A1 Gerla,Mario
+A1 Kazantzidis,Manthos
+A1 Pei,Guangyu
+A1 Talucci,Fabrizio
+A1 Tang,Ken
+YR 2000
+T1 Ad Hoc, Wireless, Mobile Networks: The Role of Performance Modeling and Evaluation
+SP 51
+OP 95
+
+RT Conference Proceedings
+ID 50190155
+A1 Mascolo,S.
+A1 Grieco,L.,A.
+A1 Sciascio,E.,Di
+A1 Gerla,M.
+YR 2000
+T1 End to End Congestion Control and Bandwidth Measurement in High Speed ATM Networks
+SP 149
+OP 156
+
+RT Book, Whole
+ID 68387
+A1 Fei,Aiguo
+A1 Gerla,Mario
+YR 2000
+T1 An Algorithm for Multicast with Multiple QoS Constraints and Dynamic Membership
+SP 132
+OP 143
+
+RT Conference Proceedings
+ID 196736
+A1 Hong,Xiaoyan
+A1 Gerla,Mario
+A1 Pei,Guangyu
+A1 Chiang,Ching-Chuan
+YR 1999
+T1 A group mobility model for ad hoc wireless networks
+SP 53
+OP 60
+
+RT Conference Proceedings
+ID 286955
+A1 Lee,Sung-Ju
+A1 Gerla,Mario
+A1 Chiang,Ching-Chuan
+YR 1999
+T1 On-demand multicast routing protocol
+SP 1298
+
+RT Journal Article
+ID 307544
+A1 Iwata,Atsushi
+A1 Chiang,Ching-Chuan
+A1 Pei,Guangyu
+A1 Gerla,Mario
+A1 Chen,Tsu-Wei
+YR 1999
+T1 Scalable routing strategies for ad hoc wireless networks
+JF IEEE Journal on Selected Areas in Communications
+VO 17
+SP 1369
+OP 1379
+IS 8
+
+RT Journal Article
+ID 238459
+A1 Bajaj,Lokesh
+A1 Takai,Mineo
+A1 Ahuja,Rajat
+A1 Tang,Ken
+A1 Bagrodia,Rajive
+A1 Gerla,Mario
+YR 1999
+T1 GloMoSim: A Scalable Network Simulation Environment
+
+RT Conference Proceedings
+ID 265481
+A1 Gerla,Mario
+A1 Tang,Ken
+A1 Bagrodia,Rajive
+YR 1999
+T1 TCP Performance in Wireless Multi-hop Networks
+SP 41
+OP 50
+
+RT Conference Proceedings
+ID 1932395
+A1 Kwon,Taek,Jin
+A1 Gerla,Mario
+YR 1999
+T1 Clustering with power control
+
+RT Conference Proceedings
+ID 79521
+A1 Pei,Guangyu
+A1 Gerla,Mario
+A1 Hong,Xiaoyan
+A1 Chiang,Ching-Chuan
+YR 1999
+T1 A wireless hierarchical routing protocol with group mobility
+SP 1538
+
+RT Journal Article
+ID 1941850
+A1 Lee,S.
+A1 Gerla,M.
+A1 Toh,C.
+YR 1999
+T1 On-demand multicast routing protocol (odmrp) for ad hoc networks
+
+RT Conference Proceedings
+ID 318773
+A1 Gerla,Mario
+A1 Bagrodia,Rajive
+A1 Zhang,Lixia
+A1 Tang,Ken
+A1 Wang,Lan
+YR 1999
+T1 TCP over wireless multi-hop protocols: simulation and experiments
+
+RT Journal Article
+ID 286890
+A1 Lee,Sung-Ju
+A1 Gerla,Mario
+A1 Toh,Chai-Keong
+YR 1999
+T1 A simulation study of table-driven and on-demand routing protocols for mobile ad hoc networks
+JF IEEE Network
+VO 13
+SP 48
+OP 54
+IS 4
+
+RT Journal Article
+ID 836240
+A1 Gerla,Mario
+A1 Chiang,Ching-chuan
+A1 Zhang,Lixia
+YR 1999
+T1 Tree Multicast Strategies in Mobile, Multihop Wireless Networks
+JF Mobile Networks and Applications
+VO 4
+SP 193
+OP 207
+IS 3
+
+RT Journal Article
+ID 292433
+A1 Tang,Ken
+A1 Gerla,Mario
+YR 1999
+T1 Fair Sharing of MAC under TCP in Wireless Ad Hoc Networks
+
+RT Conference Proceedings
+ID 254188
+A1 Lee,Sung-Ju
+A1 Su,William
+A1 Gerla,Mario
+YR 1999
+T1 Ad hoc wireless multicast with mobility prediction
+SP 4
+OP 9
+
+RT Conference Proceedings
+ID 266940
+A1 Su,William
+A1 Gerla,Mario
+YR 1999
+T1 IPv6 flow handoff in ad hoc wireless networks using mobility prediction
+
+RT Journal Article
+ID 837668
+A1 Lin,Chunhung,Richard
+A1 Gerla,Mario
+YR 1999
+T1 Real-time support in multihop wireless networks
+JF Wireless Networks
+VO 5
+SP 125
+OP 135
+IS 2
+
+RT Conference Proceedings
+ID 285280
+A1 Pei,Guangyu
+A1 Gerla,Mario
+YR 1999
+T1 Mobility management in hierarchical multi-hop mobile wireless networks
+SP 324
+OP 329
+
+RT Journal Article
+ID 2126964
+A1 Gerla,M.
+A1 Pei,G.
+A1 Lee,S.,J
+YR 1999
+T1 Wireless, mobile ad-hoc network routing
+
+RT Journal Article
+ID 2049624
+A1 Gerla,M.
+A1 Chiang,C.
+A1 Zhang,L.
+YR 1999
+T1 Tree multicast strategies in mobile
+
+RT Conference Proceedings
+ID 2402229
+A1 KAZANTZIDIS,MANTHOS,I.
+A1 WANG,LAN
+A1 GERLA,MARIO
+YR 1999
+T1 On fairness and efficiency of adaptive audio application layers for multihop wireless networks
+
+RT Conference Proceedings
+ID 301248
+A1 Takai,Mineo
+A1 Bagrodia,Rajive
+A1 Lee,Addison
+A1 Gerla,Mario
+YR 1999
+T1 Impact of channel models on simulation of large scale wireless networks
+SP 7
+OP 14
+
+RT Journal Article
+ID 1588353
+A1 Haas,Z.,J.
+A1 Gerla,M.
+A1 Johnson,D.,B.
+A1 Perkins,C.,E.
+A1 Pursley,M.,B.
+A1 Steenstrup,M.
+A1 Toh,C.-K.
+A1 Hayes,J.,F.
+YR 1999
+T1 Guest editorial wireless ad hoc networks
+JF IEEE Journal on Selected Areas in Communications
+VO 17
+SP 1329
+OP 1332
+IS 8
+
+RT Journal Article
+ID 2110226
+A1 L,M.,Takai
+A1 Bajaj,R
+A1 Ahuja,R.,Bagrodia
+A1 Gerla,M.
+YR 1999
+T1 GloMoSim: A Scalable Network Simulation environment" Technical report 990027
+
+RT Conference Proceedings
+ID 3281788
+A1 Tang,Ken
+A1 Correa,Mario
+A1 Geria,M.
+YR 1999
+T1 Isolation of wireless ad hoc medium access mechanisms under TCP
+SP 77
+OP 82
+
+RT Journal Article
+ID 2647254
+A1 Pei,G.
+A1 Gerla,M.
+A1 Hong,X.
+A1 Chiang,C.,C.
+YR 1999
+T1 A wireless hierarchical protocol with group mobility
+
+RT Conference Proceedings
+ID 170765
+A1 Pazos,Carlos,M.,D.
+A1 Sanchez-agrelo,Juan,C.
+A1 Gerla,Mario
+YR 1999
+T1 Using Back-Pressure to Improve TCP Performance with Many Flows
+VO 2
+SP 431
+OP 438
+
+RT Conference Proceedings
+ID 12671347
+A1 Chen,Tsuwei
+A1 Gerla,Mario
+A1 Kazantzidiz,M.
+A1 Romanenko,Y.
+A1 Slain,I.
+YR 1999
+T1 Experiments on QoS adaptation for improving end user speech perception over multi-hop wireless networks
+
+RT Journal Article
+ID 110581
+A1 Cigno,Renato,Lo
+A1 Gerla,Mario
+YR 1999
+T1 Modeling Window Based Congestion Control Protocols with Many Flows
+JF Performance Evaluation
+VO 36-37
+SP 289
+OP 306
+IS 1-4
+
+RT Conference Proceedings
+ID 78614
+A1 Fei,Aiguo
+A1 Gerla,Mario
+YR 1999
+T1 Receiver-Initiated Multicast with Multiple QoS Constraints
+
+RT Conference Proceedings
+ID 117787
+A1 Gerlat,Mario
+A1 Wengt,Wenjie
+A1 Cigno,Renato,Lo
+YR 1999
+T1 BA-TCP: a bandwidth aware TCP for satellite networks
+SP 204
+OP 207
+
+RT Journal Article
+ID 15273379
+A1 Gerla,Mario
+A1 Zhang,Lixia
+YR 1999
+T1 Tree multicast strategies in mobile, multihop wireless networks
+JF Mobile Networks and Applications
+VO 4
+SP 193
+OP 207
+IS 3
+
+RT Journal Article
+ID 148734
+A1 Cavendish,Dirceu
+A1 Dubrovsky,Alex
+A1 Gerla,Mario
+A1 Reali,Gianluca
+A1 Lee,Scott,Seongwook
+YR 1999
+T1 Statistical Internet QoS Guarantees for IP Telephony
+
+RT Journal Article
+ID 166255
+A1 Pazos,Carlos,M.,D.
+A1 Gerla,Mario
+A1 Rigolio,Giancarlo
+YR 1999
+T1 Flow control and bandwidth management in next generation Internets
+JF Telecommunication Systems
+VO 11
+SP 395
+OP 412
+IS 3-4
+
+RT Journal Article
+ID 15226076
+A1 Pazos,Carlos,M.
+A1 Gerla,Mario
+A1 Rigolio,Giancarlo
+YR 1999
+T1 Flow control and bandwidth management in next generation Internets
+JF Telecommunication Systems
+VO 11
+SP 395
+OP 412
+IS 3
+
+RT Conference Proceedings
+ID 50181101
+A1 Gerla,Mario
+A1 Weng,Wenjie
+A1 Cigno,R.,Lo
+YR 1999
+T1 Enforcing fairness with explicit network feedback in the Internet
+
+RT Conference Proceedings
+ID 317017
+A1 Zeng,Xiang
+A1 Bagrodia,Rajive
+A1 Gerla,Mario
+YR 1998
+T1 GloMoSim: A Library for Parallel Simulation of Large-Scale Wireless Networks
+SP 154
+OP 161
+
+RT Journal Article
+ID 388710
+A1 Chiang,Ching-chuan
+A1 Gerla,Mario
+A1 Zhang,Lixia
+YR 1998
+T1 Forwarding Group Multicast Protocol (FGMP) for multihop, mobile wireless networks
+JF Cluster Computing
+VO 1
+SP 187
+OP 196
+IS 2
+
+RT Conference Proceedings
+ID 352731
+A1 Chen,Tsu-Wei
+A1 Gerla,Mario
+YR 1998
+T1 Global state routing: a new routing scheme for ad-hoc wireless networks
+
+RT Conference Proceedings
+ID 335399
+A1 Chiang,Ching-chuan
+A1 Gerla,Mario
+YR 1998
+T1 On-Demand Multicast in Mobile Wireless Networks
+SP 262
+
+RT Conference Proceedings
+ID 297652
+A1 Chiang,Ching-Chuan
+A1 Gerla,Mario
+A1 Zhang,Lixia
+YR 1998
+T1 Adaptive shared tree multicast in mobile wireless networks
+
+RT Journal Article
+ID 3486489
+A1 Gerla,M.
+A1 Pei,G.
+A1 Lee,S.,J.
+A1 Chiang,C.,C.
+YR 1998
+T1 On-Demand Multicast Routing Protocol (ODMRP) for Ad Hoc Networks
+
+RT Conference Proceedings
+ID 297744
+A1 Su,William
+A1 Gerla,Mario
+YR 1998
+T1 Bandwidth allocation strategies for wireless ATM networks using predictive reservation
+
+RT Conference Proceedings
+ID 345734
+A1 Cavendish,Dirceu
+A1 Gerla,Mario
+YR 1998
+T1 Internet QoS Routing Using the Bellman-Ford Algorithm
+SP 627
+OP 646
+
+RT Book, Whole
+ID 410114
+A1 Bagrodia,Rajive
+A1 Gerla,Mario
+YR 1998
+T1 A Modular and Scalable Simulation Tool for Large Wireless Networks
+SP 1
+OP 14
+
+RT Journal Article
+ID 15237109
+A1 Gerla,Mario
+A1 Zhang,Lixia
+YR 1998
+T1 Forwarding Group Multicast Protocol (FGMP) for multihop, mobile wireless networks
+JF Cluster Computing
+VO 1
+SP 187
+OP 196
+IS 2
+
+RT Journal Article
+ID 1983796
+A1 Gerla,M.
+A1 Chiang,C.,C
+YR 1998
+T1 Shared tree multicast with RP relocation in mobile wireless networks
+
+RT Book, Whole
+ID 67368
+A1 Cavendish,Dirceu
+A1 Fei,Aiguo
+A1 Gerla,Mario
+A1 Rom,Raphael
+YR 1998
+T1 On the Construction of Low Cost Multicast Trees with Bandwidth Reservation
+SP 658
+OP 667
+
+RT Conference Proceedings
+ID 221787
+A1 Pazos,Carlos,M.,D.
+A1 Gerla,Mario
+YR 1998
+T1 A Rate Based Back-Pressure Flow Control for the Internet
+SP 555
+OP 573
+
+RT Journal Article
+ID 3155862
+A1 Zeng,X.
+A1 Bagrodia,R.
+A1 Gerla,M.
+YR 1998
+T1 GloMoSim: a Library for the Parallel Network Simulation Environment
+
+RT Journal Article
+ID 342497
+A1 Wu,Hsiao-Kuang
+A1 Hung,Chia-heng
+A1 Gerla,Mario
+A1 Bagrodia,Rajive
+YR 1998
+T1 Evaluating speech quality in large wireless networks: a case for hybrid simulation
+
+RT Journal Article
+ID 67266
+A1 Cavendish,Dirceu
+A1 Fei,Aiguo
+A1 Rom,Mario,Gerla,Raphael
+YR 1998
+T1 On The Maintenance Of Low Cost Multicast Trees With Bandwidth Reservation
+
+RT Conference Proceedings
+ID 50142556
+A1 Pazos,Carlos,M.
+A1 Gerla,Mario
+YR 1998
+T1 Improving Internet traffic transport over ABR backbones through bandwidth overbooking
+
+RT Journal Article
+ID 50126867
+A1 Tachikawa,T.
+A1 Higaki,H.
+A1 Takizawa,M.
+A1 Gerla,M.
+A1 Liu,M.,T.
+A1 Deen,M.
+YR 1998
+T1 Flexible wide-area group communication protocols-international experiments
+
+RT Journal Article
+ID 14424884
+A1 Zeng,Xiang
+A1 Bagrodia,Rajive
+A1 Gerla,Mario
+YR 1998
+T1 GloMoSim: a library for parallel simulation of large-scale wireless networks
+JF ACM Sigsim Simulation Digest
+VO 28
+SP 154
+OP 161
+IS 1
+
+RT Conference Proceedings
+ID 682578
+A1 Gerla,Mario
+A1 Palnati,Prasasth
+A1 Leonardi,Emilio
+A1 Neri,Fabio
+YR 1998
+T1 Minimum Distance Routing in the Bidirectional Shufflenet
+VO 1
+SP 102
+OP 109
+
+RT Conference Proceedings
+ID 50111644
+A1 Mascolo,Saverio
+A1 Gerla,Mario
+YR 1998
+T1 An ABR congestion control algorithm feeding back available bandwidth and queue level
+SP 91
+OP 96
+
+RT Journal Article
+ID 75687
+A1 Iwata,Atsushi
+A1 Chiang,Ching-chuan
+A1 Pei,Guangyu
+A1 Gerla,Mario
+A1 Chen,Tsu-wei
+YR 1998
+T1 Scalable Routing Strategies for Multi-Hop Ad-hoc Wireless Network
+JF IEEE Journal on Selected Areas in Communications
+
+RT Conference Proceedings
+ID 50115309
+A1 Zeng,Xiang
+A1 Bagrodia,Rajive
+A1 Gerla,Mario
+YR 1998
+T1 GloMoSim: a library for parallel simulation of large-scale wireless networks
+
+RT Journal Article
+ID 50114226
+A1 Pazos,Carlos,M.
+A1 Gerla,Mario
+YR 1998
+T1 ATM virtual private networks for the Internet multimedia traffic
+JF Journal of World Business
+
+RT Conference Proceedings
+ID 50117954
+A1 Pazos,Carlos,M.
+A1 Gerla,Mario
+A1 Rigolio,Giancarlo
+YR 1998
+T1 Flow control and bandwidth management in next generation Internets
+
+RT Journal Article
+ID 106126
+A1 MASCOLO,SAVERIO
+A1 GERLA,MARIO
+YR 1998
+T1 TCP CONGESTION AVOIDANCE USING EXPLICIT BUFFER NOTIFICATION
+
+RT Journal Article
+ID 52028005
+A1 Cavendish,Dirceu,G.
+A1 Gerla,Mario
+YR 1998
+T1 Rate-based congestion control for many-to-many multicast ABR traffic
+VO 3530
+SP 122
+OP 130
+
+RT Journal Article
+ID 294695
+A1 Lin,Chunhung,Richard
+A1 Gerla,Mario
+YR 1997
+T1 Adaptive Clustering for Mobile Wireless Networks
+JF IEEE Journal on Selected Areas in Communications
+VO 15
+SP 1265
+OP 1275
+IS 7
+
+RT Journal Article
+ID 1265183
+A1 Alwan,A.
+A1 Bagrodia,R.
+A1 Bambos,N.
+A1 Gerla,M.
+A1 Kleinrock,L.
+A1 Short,J.
+A1 Villasenor,J.
+YR 1997
+T1 Adaptive mobile multimedia networks
+JF IEEE Personal Communications
+
+RT Journal Article
+ID 300746
+A1 Chiang,Ching-Chuan
+A1 Wu,Hsiao-Kuang
+A1 Liu,Winston
+A1 Gerla,Mario
+YR 1997
+T1 Routing in Clustered Multihop Mobile Wireless Networks with Fading Channel
+
+RT Conference Proceedings
+ID 681448
+A1 Lin,Chunhung,Richard
+A1 Gerla,Mario
+YR 1997
+T1 Asynchronous Multimedia Multihop Wireless Networks
+VO 1
+SP 118
+OP 125
+
+RT Conference Proceedings
+ID 2064737
+A1 Lin,C.,R.
+A1 Gerla,M.
+YR 1997
+T1 MACA/PR: An Asynchronous Multimedia Multihop Wireless Net-work
+
+RT Conference Proceedings
+ID 317868
+A1 Chiang,Ching-Chuan
+A1 Gerla,Mario
+YR 1997
+T1 Routing and multicast in multihop, mobile wireless networks
+VO 2
+SP 546
+
+RT Conference Proceedings
+ID 387835
+A1 Chen,T.-W.
+A1 Tsai,J.,T.
+A1 Gerla,M.
+YR 1997
+T1 QoS routing performance in multihop, multimedia, wireless networks
+VO 2
+SP 557
+
+RT Conference Proceedings
+ID 344512
+A1 Talucci,Fabrizio
+A1 Gerla,Mario
+A1 Fratta,Luigi
+YR 1997
+T1 MACA-BI (MACA By Invitation)-a receiver oriented access protocol for wireless multihop networks
+
+RT Journal Article
+ID 353384
+A1 Hsu,Yu-Ching
+A1 Tsai,Tzu-Chieh
+A1 Lin,Ying-Dar
+A1 Gerla,Mario
+YR 1997
+T1 Bandwidth Routing in Multi-hop Packet Radio Environment
+
+RT Conference Proceedings
+ID 295727
+A1 Chiang,Ching-chuan
+A1 Gerla,Mario
+A1 Zhang,Lixia
+YR 1997
+T1 Shared Tree Wireless Network Multicast
+SP 28
+OP 33
+
+RT Conference Proceedings
+ID 297100
+A1 Talucci,Fabrizio
+A1 Gerla,Mario
+YR 1997
+T1 MACA-BI (MACA by invitation). A wireless MAC protocol for high speed ad hoc networking
+VO 2
+SP 913
+
+RT Journal Article
+ID 3630415
+A1 Chen,T.,W.
+A1 Gerla,M.
+A1 Tsai,J.,T.,C.
+YR 1997
+T1 QoS routing performance in a multi-hop, wireless networks
+JF Proceedings of The IEEE
+
+RT Journal Article
+ID 3395911
+A1 Chiang,C.
+A1 Gerla,M.
+A1 Zhang,L.
+YR 1997
+T1 Mobile Wireless Networks with Fading Channel
+
+RT Journal Article
+ID 711048
+A1 Mascolo,Saverio
+A1 Cavendish,Dirceu
+A1 Gerla,Mario
+YR 1997
+T1 ATM Rate-Based Congestion Control Using a Smith Predictor
+JF Performance Evaluation
+VO 31
+SP 51
+OP 65
+IS 1-2
+
+RT Conference Proceedings
+ID 309629
+A1 Roche,Christian
+A1 Palnati,Prasasth
+A1 Gerla,Mario
+A1 Neri,Fabio
+A1 Leonardi,Emilio
+YR 1997
+T1 Performance of Congestion Control Mechanisms in Wormhole Routing Networks
+VO 3
+SP 1365
+OP 1372
+
+RT Conference Proceedings
+ID 176181
+A1 Pazos,Carlos,M.,D.
+A1 Gerla,Mario
+YR 1997
+T1 Bandwidth efficiency in Internet AVPNs
+
+RT Conference Proceedings
+ID 2190890
+A1 Wu,Hsiao-kuang
+A1 Hung,Chia-heng
+A1 Gerla,Mario
+A1 Bagrodia,Rajive
+YR 1997
+T1 Speech Support in Wireless, Multihop Networks
+SP 282
+OP 288
+
+RT Conference Proceedings
+ID 392694
+A1 Pazos,Carlos,M.,D.
+A1 Gerla,Mario
+YR 1997
+T1 Using ATM virtual private networks for the internet data traffic
+SP 177
+OP 188
+
+RT Journal Article
+ID 847639
+A1 Alkhatib,Hasan
+A1 Bailey,Chase
+A1 Gerla,Mario
+A1 Mccrae,James
+YR 1997
+T1 Wireless Data Networks: Reaching the Extra Mile
+JF IEEE Computer
+VO 30
+SP 59
+OP 62
+IS 12
+
+RT Book, Whole
+ID 217883
+A1 Pazos,Carlos,M.,D.
+A1 Silva,Edilayne,M.
+A1 Gerla,Mario
+A1 Monteiro,José,Augusto,Suruagy
+A1 Fratta,Luigi
+YR 1997
+T1 Video on Demand Distribution Over ATM Virtual Private Networks
+SP 229
+OP 244
+
+RT Conference Proceedings
+ID 1801120
+A1 Walton,Simon
+A1 Gerla,Mario
+YR 1997
+T1 Practical Multicasting on a Nonbroadcast Subnetwork
+SP 251
+OP 258
+
+RT Conference Proceedings
+ID 468426
+A1 Cavendish,Dirceu
+A1 Gerla,Mario
+YR 1997
+T1 On routing with QoS constraints in ATM networks
+SP 149
+OP 165
+
+RT Conference Proceedings
+ID 50090879
+A1 Mascolo,Saverio
+A1 Gerla,Mario
+YR 1997
+T1 Classical control approach to congestion avoidance in ATM high speed networks
+
+RT Conference Proceedings
+ID 487507
+A1 Liu,Winston,W.
+A1 Chiang,Ching-Chuan
+A1 Wu,Hsiao-Kuang
+A1 Jha,Vikas
+A1 Gerla,Mario
+A1 Bagrodia,Rajive,L.
+YR 1996
+T1 Parallel simulation environment for mobile wireless networks
+SP 605
+OP 612
+
+RT Conference Proceedings
+ID 67633
+A1 Mascolo,Saverio
+A1 Cavendish,Dirceu
+A1 Gerla,Mario
+YR 1996
+T1 ATM Rate Based Congestion Control Using a Smith Predictor: An EPRCA Implementation
+VO 2
+SP 569
+OP 576
+
+RT Journal Article
+ID 307962
+A1 Bagrodia,Rajive
+A1 Chen,Yu-an
+A1 Gerla,Mario
+A1 Kwan,Bruce
+A1 Martin,Jay
+A1 Palnati,Prasasth
+A1 Walton,Simon
+YR 1996
+T1 Parallel Simulation of a High-Speed Wormhole Routing Network
+JF ACM Sigsim Simulation Digest
+VO 26
+SP 47
+OP 56
+IS 1
+
+RT Journal Article
+ID 2031393
+A1 Chiang,C.,C.
+A1 Wu,H.,K.
+A1 Liu,W.
+A1 Gerla,M.
+YR 1996
+T1 Routing in clustered multihop
+
+RT Journal Article
+ID 398640
+A1 Gerla,Mario
+A1 Palnati,Prasasth
+A1 Walton,Simon
+YR 1996
+T1 Multicasting Protocols for High-Speed, Wormhole-Routing Local Area Networks
+JF Computer Communication Review
+VO 26
+SP 184
+OP 193
+IS 4
+
+RT Journal Article
+ID 182311
+A1 Leonardi,E.
+A1 Neri,F.
+A1 Gerla,M.
+A1 Palnati,P.
+YR 1996
+T1 Congestion control in asynchronous, high-speed wormhole routing networks
+JF IEEE Communications Magazine
+VO 34
+SP 58
+OP 69
+IS 11
+
+RT Journal Article
+ID 69859
+A1 Kleinrock,L.
+A1 Gerla,M.
+A1 Bambos,N.
+A1 Gong,J.
+A1 Gafni,E.
+A1 Bergman,L.
+A1 Bannister,J.
+A1 Monacos,S.,p.
+A1 Bujewski,T.
+YR 1996
+T1 The Supercomputer Supernet Testbed: A WDM
+
+RT Journal Article
+ID 19257389
+A1 Kleinrock,L.
+A1 Gerla,M.
+A1 Bambos,N.
+A1 Gong,J.
+A1 Gafni,E.
+A1 Bergman,L.
+A1 Bannister,J.
+A1 Monacos,S.,P.
+A1 Bujewski,T.
+A1 I-In,P.
+A1 Kannan,B.
+A1 Kwan,B.
+A1 Leonardi,E.
+A1 Peck,J.
+A1 Palnati,P.
+A1 Walton,S.
+YR 1996
+T1 The Supercomputer Supernet testbed: a WDM-based supercomputer interconnect
+JF IEEE/OSA Journal of Lightwave Technology
+VO 14
+SP 1388
+OP 1399
+IS 6
+
+RT Journal Article
+ID 113823
+A1 Cavendish,D.
+A1 Gerla,M.
+A1 Mascolo,S.
+YR 1996
+T1 SP-EPRCA: an ATM Rate Based Congestion Control Scheme based on a Smith Predictor
+
+RT Conference Proceedings
+ID 297209
+A1 Palnati,Prasasth
+A1 Gerla,Mario
+A1 Leonardi,Emilio
+YR 1996
+T1 Deadlock-free routing in an optical interconnect for high-speed wormhole routing networks
+SP 256
+OP 264
+
+RT Conference Proceedings
+ID 401579
+A1 Gerla,Mario
+A1 Kannan,B.
+A1 Kwan,Bruce
+A1 Palnati,Prasasth
+A1 Walton,Simon
+A1 Leonardi,Emilio
+A1 Neri,Fabio
+YR 1996
+T1 Quality of Service Support in High Speed, Wormhole Routing Networks
+SP 40
+OP 47
+
+RT Journal Article
+ID 117372
+A1 Kahng,Andrew
+A1 Gerla,Mario
+A1 Cho,Sung,Hyun
+YR 1996
+T1 Competitive Execution in a Distributed Environment
+
+RT Conference Proceedings
+ID 50067317
+A1 Gerla,Mario
+A1 Palnati,Prasasth
+A1 Walton,Simon
+A1 Leonardi,Emilio
+A1 Neri,Fabio
+YR 1996
+T1 Multicasting in Myrinet-high-speed, wormhole-routing network
+
+RT Conference Proceedings
+ID 333241
+A1 Gerla,Mario
+A1 Palnati,Prasasth
+A1 Walton,Simon
+A1 Leonardi,Emilio
+A1 Neri,Fabio
+YR 1996
+T1 Multicasting in Myrinet — A High-Speed, Wormhole-Routing N etwork
+
+RT Conference Proceedings
+ID 50053185
+A1 Gerla,M.
+A1 Cavendish,D.
+A1 Mascolo,S.
+YR 1996
+T1 ATM networks: bandwidth allocation and congestion control
+
+RT Journal Article
+ID 12888641
+A1 Jain,Rajeev
+A1 Alwan,Abeer
+A1 Gerla,Mario
+A1 Kleinrock,Leonard
+A1 Villasenor,John,D.
+A1 Belzer,Ben
+A1 Boring,Walter
+A1 Molloy,Steve
+A1 Nazareth,Sean
+A1 Siqueira,Marcio
+A1 Short,Joel
+A1 Tsai,Jack
+YR 1996
+T1 Multimedia wireless networking
+VO 2667
+SP 70
+OP 76
+
+RT Journal Article
+ID 55861265
+A1 Bambos,Nicholas
+A1 Bannister,Joseph
+A1 Bergman,Larry,A.
+A1 Cong,Jason
+A1 Gafni,Eli
+A1 Gerla,Mario
+A1 Kleinrock,Leonard
+A1 Monacos,Steve
+A1 Hu,Po-Chi
+A1 Kannan,B.
+A1 Kwan,Bruce
+A1 Palnati,Prasath
+A1 Peck,John
+A1 Walton,Simon
+YR 1996
+T1 Supercomputer Supernet (SSN): a high-speed electro-optic campus and metropolitan network
+VO 2692
+SP 22
+OP 33
+
+RT Conference Proceedings
+ID 50072548
+A1 Liu,Winston
+A1 Chiang,Ching-Chuan
+A1 Wu,Hsiao-Kuang
+A1 Jha,Vikas
+A1 Gerla,Mario
+A1 Bagrodia,Rajive
+YR 1996
+T1 Parallel simulation environment for mobile wireless networks
+
+RT Journal Article
+ID 39219834
+A1 Bagrodia,Rajive
+A1 Chen,Yu-an
+A1 Gerla,Mario
+A1 Kwan,Bruce
+A1 Martin,Jay
+A1 Palnati,Prasasth
+A1 Walton,Simon
+YR 1996
+T1 Parallel simulation of a high-speed wormhole routing network
+JF ACM Sigsim Simulation Digest
+SP 47
+OP 56
+
+RT Conference Proceedings
+ID 50071851
+A1 Bagrodia,Rajive
+A1 Chen,Yu-an
+A1 Gerla,Mario
+A1 Kwan,Bruce
+A1 Martin,Jay
+A1 PaInati,P.
+A1 Walton,Simon
+YR 1996
+T1 Parallel Simulation of a High-Speed Wormhole Routing Network
+
+RT Journal Article
+ID 39212408
+A1 Gerla,Mario
+A1 Palnati,Prasasth
+A1 Walton,Simon
+YR 1996
+T1 Multicasting protocols for high-speed, wormhole-routing local area networks
+JF Computer Communication Review
+SP 184
+OP 193
+
+RT Journal Article
+ID 867402
+A1 Bannister,J.
+A1 Borgonovo,F.
+A1 Fratta,L.
+A1 Gerla,M.
+YR 1996
+T1 Correction to "A performance model of deflection routing in multibuffer networks with nonuniform traffic
+JF IEEE/ACM Transactions on Networking
+
+RT Journal Article
+ID 14401340
+A1 Bannister,Joseph
+A1 Borgonovo,Flaminio
+A1 Fratta,Luigi
+A1 Gerla,Mario
+YR 1996
+T1 Correction to "A performance model of deflection routing in multibuffer networks with nonuniform traffic"
+JF IEEE/ACM Transactions on Networking
+VO 4
+SP 479
+IS 3
+
+RT Journal Article
+ID 363212
+A1 Gerla,Mario
+A1 Tsai,Jack,Tzu-chieh
+YR 1995
+T1 Multicluster, mobile, multimedia radio network
+JF Wireless Networks
+VO 1
+SP 255
+OP 265
+IS 3
+
+RT Conference Proceedings
+ID 2080982
+A1 Richard,Chunhung
+A1 Gerla,Linand,Mario
+YR 1995
+T1 A Distributed Architecture for Multimedia in Dynamic Wireless Networks
+
+RT Conference Proceedings
+ID 1801175
+A1 Lin,Chunhung,Richard
+A1 Gerla,Mario
+YR 1995
+T1 Multimedia transport in multihop dynamic packet radio networks
+SP 209
+
+RT Conference Proceedings
+ID 50021470
+A1 Lin,Chunhung,Richard
+A1 Gerla,Mario
+YR 1995
+T1 A distributed architecture for multimedia in dynamic wireless networks
+
+RT Conference Proceedings
+ID 297787
+A1 Lin,Chun-hung,Richard
+A1 Gerla,Mario
+YR 1995
+T1 A distributed control scheme in multi-hop packet radio networks for voice/data traffic support
+
+RT Journal Article
+ID 772555
+A1 Fotedar,Shivi
+A1 Gerla,Mario
+A1 Crocetti,Paola
+A1 Fratta,Luigi
+YR 1995
+T1 ATM virtual private networks
+JF Communications of The ACM
+VO 38
+SP 101
+OP 109
+IS 2
+
+RT Conference Proceedings
+ID 487589
+A1 Bagrodia,Rajive
+A1 Gerla,Mario
+A1 Kleinrock,Leonard
+A1 Short,Joel
+A1 Tsai,Tzu-Chieh
+YR 1995
+T1 A hierarchical simulation environment for mobile wireless networks
+SP 563
+OP 570
+
+RT Journal Article
+ID 1283448
+A1 Gerla,M.
+A1 Tsai,J.
+YR 1995
+T1 Multicluster mobile multimedia network
+
+RT Conference Proceedings
+ID 12707463
+A1 Richard,Chun-hung
+A1 Gerla,Linand,Mario
+YR 1995
+T1 A Distributed Control Scheme in Multi-hop Packet Radio Networks for Voice/Data Traffic Support
+
+RT Journal Article
+ID 337275
+A1 Gerla,Mario
+YR 1995
+T1 A Distributed, Mobile Wireless Infrastructure for Multimedia Applications
+
+RT Conference Proceedings
+ID 1878497
+A1 Palnati,Prasasth
+A1 Leonardi,Emilio
+A1 Gerlat,Mario
+YR 1995
+T1 Bidirectional shufflenet: a multihop topology for backpressure flow control
+SP 74
+
+RT Journal Article
+ID 765158
+A1 Bannister,Joseph,A.
+A1 Borgonovo,Flaminio
+A1 Fratta,Luigi
+A1 Gerla,Mario
+YR 1995
+T1 A performance model of deflection routing in multibuffer networks with nonuniform traffic
+JF IEEE/ACM Transactions on Networking
+VO 3
+SP 509
+OP 520
+IS 5
+
+RT Journal Article
+ID 845684
+A1 Kovacevic,Milan
+A1 Gerla,Mario
+A1 Bannister,Joseph,A.
+YR 1995
+T1 Performance of Shared-Channel Multihop Lightwave Networks
+JF Computer Communications
+VO 18
+SP 37
+OP 44
+IS 1
+
+RT Journal Article
+ID 3701263
+A1 Bannister,J.
+A1 Gerla,M.
+A1 Kovacevic,M.
+YR 1995
+T1 Routing in Optical Networks
+
+RT Journal Article
+ID 845655
+A1 Crocetti,Paola
+A1 Fotedar,Shivi
+A1 Fratta,Luigi
+A1 Gallassi,Giorgio
+A1 Gerla,Mario
+YR 1995
+T1 ATM Virtual Private Network Design Alternatives
+JF Computer Communications
+VO 18
+SP 24
+OP 31
+IS 1
+
+RT Conference Proceedings
+ID 682521
+A1 Gerla,Mario
+A1 Kannan,B.
+A1 Palnati,Prasasth
+YR 1995
+T1 Protocols for an Optical Star Interconnect for High Speed Mesh Networks
+SP 146
+OP 153
+
+RT Conference Proceedings
+ID 50015207
+A1 Bagrodia,R.
+A1 Gerla,M.
+A1 Kleinrock,L.
+A1 Short,J.
+A1 Tsai,T.-C.
+YR 1995
+T1 A hierarchical simulation environment for mobile wireless networks
+
+RT Conference Proceedings
+ID 50035224
+A1 Lin,Chunhung,Richard
+A1 Gerla,Mario
+YR 1995
+T1 A framework for flexible networking
+
+RT Journal Article
+ID 1455159
+A1 Kovacevic,M.
+A1 Gerla,M.
+YR 1995
+T1 A new optical signal routing scheme for linear lightwave networks
+JF IEEE Transactions on Communications
+VO 43
+SP 3004
+OP 3014
+IS 12
+
+RT Conference Proceedings
+ID 50016100
+A1 Gerla,Mario
+A1 Pazos,C.,M.,D.
+A1 Signore,V.,A.
+YR 1995
+T1 Comparing ATM credit-based and rate-based controls for TCP sources
+
+RT Conference Proceedings
+ID 3348163
+A1 Talucci,F.
+A1 Gerla,M.
+A1 Fratta,L.
+YR 1994
+T1 MACABI (MACA by invitation): A receiver oriented access protocol for wireless multiple networks
+
+RT Conference Proceedings
+ID 3155858
+A1 Zeng,X.
+A1 Bagrodia,R.
+A1 Gerla,M.
+YR 1994
+T1 GloMoSim: a library for paral-lel simulation of large-scale wireless networks
+
+RT Conference Proceedings
+ID 2090623
+A1 Kannan,B.
+A1 Fotedar,S.
+A1 Gerla,M.
+YR 1994
+T1 A two level optical star WDM metropolitan area network
+
+RT Journal Article
+ID 49986928
+A1 Crocetti,P.
+A1 Fratta,L.
+A1 Gallassi,G.
+A1 Gerla,M.
+YR 1994
+T1 ATM virtual private networks: alternatives and performance comparisons
+
+RT Journal Article
+ID 705126
+A1 Gerla,Mario
+A1 Kovacevic,Milan
+A1 Bannister,Joseph,A.
+YR 1994
+T1 Optical Tree Topologies: Access Control and Wavelength Assignment
+JF Computer Networks and Isdn Systems
+VO 26
+SP 965
+OP 983
+IS 6-8
+
+RT Journal Article
+ID 15219564
+A1 Monteiro,José,Augusto,Suruagy
+A1 Gerla,Mario
+YR 1994
+T1 Bandwidth allocation in ATM networks
+JF Annals of Operations Research
+VO 49
+SP 25
+OP 50
+IS 1
+
+RT Journal Article
+ID 705044
+A1 Crocetti,Paola
+A1 Fratta,Luigi
+A1 Gerla,Mario
+A1 Marsiglia,M.,A.
+YR 1994
+T1 SMDS Multicast Support in ATM Networks
+JF Computer Networks and Isdn Systems
+VO 27
+SP 117
+OP 132
+IS 1
+
+RT Conference Proceedings
+ID 682293
+A1 Kovacevic,Milan
+A1 Gerla,Mario
+A1 Bannister,Joseph,A.
+YR 1994
+T1 On the Performance of Shared-Channel Multihop Lightwave Networks
+SP 544
+OP 551
+
+RT Conference Proceedings
+ID 50009848
+A1 Kannan,B.
+A1 Fotedar,Shivi
+A1 Gerla,Mario
+YR 1994
+T1 A protocol for WDM star coupler networks
+
+RT Conference Proceedings
+ID 50000058
+A1 Monteiro,J.,A.,S.
+A1 Fotedar,S.
+A1 Gerla,M.
+YR 1994
+T1 Bandwidth allocation, traffic control and topology design in ATM overlay networks
+
+RT Conference Proceedings
+ID 681943
+A1 Kannan,B.
+A1 Fotedar,Shivi
+A1 Gerla,Mario
+YR 1994
+T1 A Protocol for WDM Star Coupler Network
+SP 1536
+OP 1543
+
+RT Journal Article
+ID 705340
+A1 Fratta,Luigi
+A1 Borgonovo,Flaminio
+A1 Bannister,Joseph,A.
+A1 Gerla,Mario
+YR 1994
+T1 Routing and Admission Control in the Multihop Wavelength-Division Optical Network
+JF Computer Networks and Isdn Systems
+VO 26
+SP 985
+OP 1005
+IS 6-8
+
+RT Journal Article
+ID 49986855
+A1 Kovacevic,M.
+A1 Gerla,M.
+YR 1994
+T1 HONET: an integrated services wavelength division optical network
+
+RT Journal Article
+ID 797533
+A1 Gerla,Mario
+A1 Tai,Tsung-yuan,Charles
+A1 Gallassi,Giorgio
+YR 1993
+T1 Internetting LAN's and MAN's to BISDN's for Connectionsless Traffic Support
+JF IEEE Journal on Selected Areas in Communications
+VO 11
+SP 1145
+OP 1159
+IS 8
+
+RT Conference Proceedings
+ID 682541
+A1 Bannister,Joseph,A.
+A1 Gerla,Mario
+A1 Kovacevic,Milan
+YR 1993
+T1 An All-Optical Multifiber Tree Network
+SP 282
+OP 292
+
+RT Journal Article
+ID 19257378
+A1 Bannister,Joseph
+A1 Gerla,Mario
+A1 Kovaucevic,M.
+YR 1993
+T1 An all-optical multifiber tree network
+JF IEEE/OSA Journal of Lightwave Technology
+VO 11
+SP 997
+OP 1008
+IS 5
+
+RT Journal Article
+ID 18803647
+A1 KovaČEviĆ,Milan
+A1 Gerla,Mario
+A1 Bannister,Joseph
+YR 1993
+T1 Time and wavelength division multiaccess with acoustooptic tunable filters
+JF Fiber and Integrated Optics
+VO 12
+SP 113
+OP 132
+IS 2
+
+RT Journal Article
+ID 2182905
+A1 Crocetti,Paola
+A1 Fratta,Luigi
+A1 Gerla,Mario
+A1 Marsiglia,M.,A.
+A1 Romanò,D.
+YR 1993
+T1 Interconnection of LAN/MANs through SMDS on top of an ATM network
+JF Computer Communications
+VO 16
+SP 83
+OP 92
+IS 2
+
+RT Conference Proceedings
+ID 496481
+A1 Boiocchi,G.
+A1 Crocetti,Paola
+A1 Fratta,Luigi
+A1 Gerla,Mario
+A1 Marsiglia,M.,A.
+YR 1993
+T1 ATM Connectionless Server: Performance Evaluation
+SP 185
+OP 195
+
+RT Journal Article
+ID 796935
+A1 Lin,Ying-dar,Jason
+A1 Gerla,Mario
+YR 1993
+T1 Induction and Deduction for Autonomous Networks
+JF IEEE Journal on Selected Areas in Communications
+VO 11
+SP 1415
+OP 1425
+IS 9
+
+RT Conference Proceedings
+ID 638075
+A1 Lin,Ying-Dar,Jason
+A1 Tsai,Tzu-Chieh
+A1 Huang,San-Chiao
+A1 Gerla,Mario
+YR 1993
+T1 HAP: A New Model for Packet Arrivals
+SP 212
+OP 223
+
+RT Journal Article
+ID 49966196
+A1 Kovacevic,M.
+A1 Gerla,M.
+YR 1993
+T1 Analysis of a T/WDMA scheme with subframe tuning
+
+RT Journal Article
+ID 14416413
+A1 Lin,Ying-Dar,Jason
+A1 Tsai,Tzu-Chieh
+A1 Huang,San-Chiao
+A1 Gerla,Mario
+YR 1993
+T1 HAP: a new model for packet arrivals
+JF Computer Communication Review
+VO 23
+SP 212
+OP 223
+IS 4
+
+RT Conference Proceedings
+ID 49974041
+A1 Crocetti,P.
+A1 Gallassi,G.
+A1 Fratta,L.
+A1 Gerla,M.
+YR 1993
+T1 ATM Virtual Private Network Alternatives
+
+RT Journal Article
+ID 52757379
+A1 Gerla,Mario
+A1 Chiaretti,Guido
+A1 Rotolo,Salvatore
+YR 1993
+T1 Comb-Net: a high-density WDM network with centralized wavelength combs
+VO 2024
+SP 112
+OP 121
+
+RT Conference Proceedings
+ID 49974000
+A1 Gerla,M.
+YR 1993
+T1 Cost-Technology Tradeoffs in Multifiber Wavelength Division Networks
+
+RT Conference Proceedings
+ID 1306081
+A1 Barezzani,M.
+A1 Pedrinelli,E.
+A1 Gerla,M.
+YR 1992
+T1 Protection planning in transmission networks
+
+RT Conference Proceedings
+ID 681172
+A1 Kovacevic,Milan
+A1 Gerla,Mario
+YR 1992
+T1 Rooted Routing in Linear Lightwave Networks
+SP 39
+OP 48
+
+RT Journal Article
+ID 710808
+A1 Bannister,Joseph,A.
+A1 Borgonovo,Flaminio
+A1 Fratta,Luigi
+A1 Gerla,Mario
+YR 1992
+T1 A Versatile Model for Predicting the Performance of Deflection-Routing Networks
+JF Performance Evaluation
+VO 16
+SP 201
+OP 222
+IS 1-3
+
+RT Conference Proceedings
+ID 682523
+A1 Gerla,Mario
+A1 Tai,Tsung-yuan,Charles
+A1 Gallassi,Giorgio
+YR 1992
+T1 LAN/MAN Interconnection to ATM: A Simulation Study
+SP 2270
+OP 2279
+
+RT Conference Proceedings
+ID 682539
+A1 Bannister,Joseph,A.
+A1 Borgonovo,Flaminio
+A1 Gerla,Mario
+YR 1992
+T1 A Procedure to Evaluate the Mean Transport Time in Multibuffer Deflection-Routing Networks with Nonuniform Traffic
+SP 1069
+OP 1078
+
+RT Conference Proceedings
+ID 49946928
+A1 Gerla,Mario
+A1 Kovacevic,M.
+A1 Bannister,Joseph
+YR 1992
+T1 Multilevel optical networks
+
+RT Conference Proceedings
+ID 682518
+A1 Gerla,Mario
+A1 Camarda,Pietro
+A1 Chiaretti,Guido
+YR 1992
+T1 Fault Tolerant PON Topologies
+SP 49
+OP 56
+
+RT Conference Proceedings
+ID 49947202
+A1 Crocetti,P.
+A1 Fratta,L.
+A1 Gerla,M.
+A1 Marsiglia,M.,A.
+YR 1992
+T1 Multicast in SMDS over an ATM network
+
+RT Journal Article
+ID 2614263
+A1 Kannan,B.
+A1 Fotedar,S.
+A1 Gerla,M.
+YR 1992
+T1 A protocol for WDM star coupler networks
+JF IEEE Transactions on Communications
+
+RT Conference Proceedings
+ID 49934823
+A1 Schaffa,F.
+A1 Willebeek-LeMair,M.
+A1 Patel,B.
+A1 Gerla,M.
+YR 1992
+T1 A demand driven access protocol for high speed networks
+
+RT Conference Proceedings
+ID 49933465
+A1 Bannister,Joseph
+A1 Gerla,Mario
+A1 Kovacevic,M.
+YR 1992
+T1 An All-optical Multifiber Tree Network
+
+RT Conference Proceedings
+ID 49947279
+A1 Lin,Ying-Dar
+A1 Gerla,Mario
+YR 1992
+T1 A framework for learning and inference in network management
+
+RT Journal Article
+ID 725412
+A1 Camarda,Pietro
+A1 Gerla,Mario
+YR 1992
+T1 Design and Analysis of Fault-Tolerant Multibus Interconnection Networks
+JF Discrete Applied Mathematics
+VO 37/38
+SP 45
+OP 64
+IS 1
+
+RT Journal Article
+ID 711406
+A1 Monteiro,José,Augusto,Suruagy
+A1 Gerla,Mario
+A1 Fratta,Luigi
+YR 1991
+T1 Statistical Multiplexing in ATM Networks
+JF Performance Evaluation
+VO 12
+SP 157
+OP 167
+IS 3
+
+RT Conference Proceedings
+ID 682655
+A1 Crocetti,Paola
+A1 Gallassi,Giorgio
+A1 Gerla,Mario
+YR 1991
+T1 Bandwidth Advertising for MAN/ATM Connectionless Internetting
+SP 1145
+OP 1150
+
+RT Journal Article
+ID 796150
+A1 Silva,Edmundo,De,Souza,E
+A1 Gerla,Mario
+YR 1991
+T1 Queueing Network Models for Load Balancing in Distributed Systems
+JF Journal of Parallel and Distributed Computing
+VO 12
+SP 24
+OP 38
+IS 1
+
+RT Conference Proceedings
+ID 49914384
+A1 Tai,Tsung-Yuan
+A1 Gerla,Mario
+YR 1991
+T1 LAN interconnection: a transparent, shortest-path approach
+
+RT Journal Article
+ID 3248502
+A1 Monteiro,J.,A.,S.
+A1 Gerla,M.
+A1 Fratta,L.
+YR 1991
+T1 Input Rate Control for ATM Networks
+
+RT Conference Proceedings
+ID 49906359
+A1 Gerla,Mario
+A1 Tai,Tsung-Yuan
+A1 Monterio,J.,A.,Suruagy
+A1 Gallassi,G.
+YR 1991
+T1 Interconnecting LANs and MANs to ATM
+
+RT Conference Proceedings
+ID 2070572
+A1 Lin,Ying-Dar
+A1 Gerla,Mario
+YR 1991
+T1 Brouter: the transparent bridge with shortest path in interconnected LANs
+
+RT Conference Proceedings
+ID 49906374
+A1 Gerla,Mario
+A1 Lin,Ying-Dar
+YR 1991
+T1 Network management using database discovery tools
+
+RT Journal Article
+ID 45976032
+A1 Gerla,Mario
+A1 Fratta,Luigi
+A1 Bannister,Joseph
+YR 1991
+T1 Evolution of LANs and MANs towards high speeds: Gigabits per second and beyond
+JF European Transactions on Telecommunications
+VO 2
+SP 89
+OP 104
+IS 1
+
+RT Conference Proceedings
+ID 681307
+A1 Catania,Vincenzo
+A1 Gerla,Mario
+A1 Pavanelli,Claudio
+YR 1991
+T1 A Routing Strategy for MAN Interconnection
+SP 608
+OP 615
+
+RT Conference Proceedings
+ID 549801
+A1 Avritzer,Alberto
+A1 Gerla,Mario
+A1 Carlyle,Jack,W.
+YR 1991
+T1 A Load Sharing Interconnection Network for Hard Real-Time Systems
+SP 591
+OP 598
+
+RT Journal Article
+ID 1536907
+A1 Gerla,M.
+A1 Bannister,J.,A.
+YR 1991
+T1 A guide to data communications: high-speed local-area networks
+JF IEEE Spectrum
+VO 28
+SP 26
+IS 8
+
+RT Journal Article
+ID 51266020
+A1 Kovacevic,Milan
+A1 Gerla,Mario
+YR 1991
+T1 Efficient multiaccess scheme for linear lightwave networks
+VO 1579
+SP 74
+OP 83
+
+RT Conference Proceedings
+ID 682540
+A1 Bannister,Joseph,A.
+A1 Fratta,Luigi
+A1 Gerla,Mario
+YR 1990
+T1 Topological Design of the Wavelength-Division Optical Network
+SP 1005
+OP 1013
+
+RT Conference Proceedings
+ID 682273
+A1 Monteiro,José,Augusto,Suruagy
+A1 Gerla,Mario
+YR 1990
+T1 Topological Reconfiguration of ATM Networks
+SP 207
+OP 214
+
+RT Conference Proceedings
+ID 49883227
+A1 Bannister,Joseph,A.
+A1 Gerla,Mario
+YR 1990
+T1 Design of the wavelength-division optical network
+
+RT Conference Proceedings
+ID 2046614
+A1 Capone,A.
+A1 Capoor,R.
+A1 Gerla,M.
+YR 1990
+T1 Efficient Polling Schemes for Bluetooth Picocell
+
+RT Journal Article
+ID 705152
+A1 Bannister,Joseph,A.
+A1 Fratta,Luigi
+A1 Gerla,Mario
+YR 1990
+T1 Designing Metropolitan Area Networks for High-Performance Applications
+JF Computer Networks and Isdn Systems
+VO 20
+SP 223
+OP 230
+IS 1
+
+RT Journal Article
+ID 1516375
+A1 Yeh,C.
+A1 Lin,Maurice
+A1 Gerla,Mario
+A1 Rodrigues,Paulo
+YR 1990
+T1 RATO-net: a random-access protocol for unidirectional ultra-high-speed optical fiber network
+JF IEEE/OSA Journal of Lightwave Technology
+VO 8
+SP 78
+OP 89
+IS 1
+
+RT Conference Proceedings
+ID 49888737
+A1 Monteiro,J.,A.,S.
+A1 Gerla,Mario
+A1 Fratta,L.
+YR 1990
+T1 Leaky bucket analysis for ATM networks
+
+RT Journal Article
+ID 2183060
+A1 Camarda,Pietro
+A1 Gerla,Mario
+YR 1990
+T1 Reliability ranking of communication networks
+JF Computer Communications
+VO 13
+SP 487
+OP 493
+IS 8
+
+RT Conference Proceedings
+ID 682364
+A1 Avritzer,Alberto
+A1 Gerla,Mario
+A1 Ribeiro-neto,Berthier,A.
+A1 Carlyle,Jack,W.
+A1 Karplus,Walter,J.
+YR 1990
+T1 The Advantage of Dynamic Tuning in Distributed Asymmetric Systems
+SP 811
+OP 818
+
+RT Journal Article
+ID 1585942
+A1 Gerla,M.
+A1 Monteiro,J.,A.,Suruagy
+A1 Pazos,R.
+YR 1989
+T1 Topology design and bandwidth allocation in ATM nets
+JF IEEE Journal on Selected Areas in Communications
+VO 7
+SP 1253
+OP 1262
+IS 8
+
+RT Journal Article
+ID 26784428
+A1 Rom,M.
+A1 Avriel,M.
+YR 1989
+T1 Properties of the sequential gradient-restoration algorithm (SGRA), part 2: Convergence analysis
+JF Journal of Optimization Theory and Applications
+VO 62
+SP 99
+OP 125
+IS 1
+
+RT Journal Article
+ID 26784427
+A1 Rom,M.
+A1 Avriel,M.
+YR 1989
+T1 Properties of the sequential gradient-restoration algorithm (SGRA), part 1: Introduction and comparison with related methods
+JF Journal of Optimization Theory and Applications
+VO 62
+SP 77
+OP 98
+IS 1
+
+RT Conference Proceedings
+ID 1299844
+A1 Camarda,P.
+A1 Gerla,M.
+YR 1989
+T1 Fault-tolerance in multichannel local area networks
+
+RT Conference Proceedings
+ID 681669
+A1 Sun,Yeali,S.
+A1 Gerla,Mario
+YR 1989
+T1 SFPS: A Synchronous Fast Packet Switching Architecture for Very High Speeds
+SP 641
+OP 646
+
+RT Conference Proceedings
+ID 544176
+A1 Camarda,Pietro
+A1 Gerla,Mario
+YR 1989
+T1 Improving the Efficiency of High Speed Implicit Token FOLANs
+SP 645
+OP 650
+
+RT Journal Article
+ID 52641327
+A1 Yeh,Cavour
+A1 Gerla,Mario
+YR 1989
+T1 Adaptive gigabit fiber optics local area network
+
+RT Journal Article
+ID 1468214
+A1 Gerla,M.
+A1 Kleinrock,L.
+YR 1988
+T1 Congestion control in interconnected LANs
+JF IEEE Network
+VO 2
+SP 72
+OP 76
+IS 1
+
+RT Journal Article
+ID 1468110
+A1 Lessard,A.
+A1 Gerla,M.
+YR 1988
+T1 Wireless communications in the automated factory environment
+JF IEEE Network
+VO 2
+SP 64
+OP 69
+IS 3
+
+RT Journal Article
+ID 1587136
+A1 Gerla,M.
+A1 Fratta,L.
+YR 1988
+T1 Tree structured fiber optics MANs
+JF IEEE Journal on Selected Areas in Communications
+VO 6
+SP 934
+OP 943
+IS 6
+
+RT Conference Proceedings
+ID 4217450
+A1 Gerla,Mario
+YR 1988
+T1 Tree-Net, a multi-level fiber optics MAN
+
+RT Conference Proceedings
+ID 49845921
+A1 Camarda,P.
+A1 Gerla,M.
+YR 1988
+T1 Reliability comparison of computer networks
+
+RT Conference Proceedings
+ID 519917
+A1 Camarda,Pietro
+A1 Gerla,Mario
+YR 1988
+T1 Synthesis of reliable double loop topologies
+SP 507
+OP 511
+
+RT Conference Proceedings
+ID 519976
+A1 Sun,Yeali,S.
+A1 Gerla,Mario
+YR 1988
+T1 A virtual data queue access scheme for integrated LANs
+SP 558
+OP 562
+
+RT Journal Article
+ID 1587861
+A1 GERLA,MARIO
+A1 Wang,Guang-Shing
+A1 Rodrigues,P.
+YR 1987
+T1 Buzz-Net: A Hybrid Token/Random Access LAN
+JF IEEE Journal on Selected Areas in Communications
+VO 5
+SP 977
+OP 988
+IS 6
+
+RT Conference Proceedings
+ID 520173
+A1 Gerla,Mario
+YR 1986
+T1 Routing and Flow Control in ISDNs
+SP 643
+OP 647
+
+RT Conference Proceedings
+ID 520196
+A1 Marsan,Marco,Ajmone
+A1 Gerla,Mario
+YR 1986
+T1 TOKENET - A High Speed Token Reservation LAN
+SP 259
+OP 264
+
+RT Journal Article
+ID 700922
+A1 Rom,M.
+A1 Bergman,S.
+YR 1986
+T1 A New Technique for Automatic Contouring and Contour Representation from Machine-Readable Spatial Data
+JF The Computer Journal
+VO 29
+SP 467
+OP 471
+IS 5
+
+RT Journal Article
+ID 713905
+A1 Raghavendra,Cauligi,S.
+A1 Gerla,Mario
+A1 Avizienis,Algirdas
+YR 1985
+T1 Reliable Loop Topologies for Large Local Computer Networks
+JF IEEE Transactions on Computers
+VO 34
+SP 46
+OP 55
+IS 1
+
+RT Journal Article
+ID 1587808
+A1 Rodrigues,P.
+A1 Fratta,L.
+A1 Gerla,M.
+YR 1985
+T1 Tokenless Protocols for Fiber Optic Local Area Networks
+JF IEEE Journal on Selected Areas in Communications
+VO 3
+SP 928
+OP 940
+IS 6
+
+RT Journal Article
+ID 1293305
+A1 Gerla,Mario
+A1 Rodrigues,Paulo
+A1 Yeh,C.,W.
+YR 1985
+T1 Token-based protocols for high-speed optical-fiber networks
+JF IEEE/OSA Journal of Lightwave Technology
+VO 3
+SP 449
+OP 466
+IS 3
+
+RT Journal Article
+ID 1315206
+A1 Rodrigue,P
+A1 Gerla,M
+A1 Fratta,L
+YR 1985
+T1 Token-less protocols for fiber, optics: bus networks
+
+RT Journal Article
+ID 637956
+A1 Gerla,Mario
+A1 Chan,H.,W.
+YR 1985
+T1 Window selection in flow controlled networks
+JF Computer Communication Review
+VO 15
+SP 84
+OP 92
+IS 4
+
+RT Journal Article
+ID 39212130
+A1 Geria,Mario
+A1 Chan,H.,W.
+YR 1985
+T1 Window selection in flow controlled networks
+JF Computer Communication Review
+SP 84
+OP 92
+
+RT Journal Article
+ID 53841981
+A1 Yeh,C.
+A1 Gerla,M.
+A1 Rodrigues,P.
+YR 1985
+T1 A study of topologies and protocols for fiber optic local area network
+
+RT Journal Article
+ID 52210043
+A1 Rubin,I.
+A1 Gerla,M.
+YR 1985
+T1 Performance evaluation and control of distributed computer communication networks
+
+RT Conference Proceedings
+ID 685593
+A1 Silva,Edmundo,De,Souza,E
+A1 Gerla,Mario
+YR 1984
+T1 Load Balancing in Distributed Systems with Multiple Classes and Site Constraints
+SP 17
+OP 33
+
+RT Journal Article
+ID 1271046
+A1 Gerla,M.
+A1 Rodrigues,P.
+A1 Yeh,C.
+YR 1984
+T1 U-net: a unidirectional fiber bus network
+
+RT Conference Proceedings
+ID 467183
+A1 Gerla,Mario
+A1 Chang,H.,W.
+A1 Marca,J.,R.,Boisson,De
+YR 1984
+T1 Routing, Flow Control and Fairness in Computer Networks
+SP 1272
+OP 1275
+
+RT Conference Proceedings
+ID 467245
+A1 Rodrigues,P.,Aguiar
+A1 Fratta,Luigi
+A1 Gerla,Mario
+YR 1984
+T1 Token-Less Protocols For Fiber Optics Local Area Networks
+SP 1150
+OP 1153
+
+RT Journal Article
+ID 1605006
+A1 Gerla,M.
+A1 Pazos-Rangel,R.
+YR 1984
+T1 Bandwidth allocation and routing in ISDN's
+JF IEEE Communications Magazine
+VO 22
+SP 16
+OP 26
+IS 2
+
+RT Conference Proceedings
+ID 685586
+A1 Betser,Joseph
+A1 Gerla,Mario
+A1 Popek,Gerald,J.
+YR 1984
+T1 A Dual Priority MVA Model for a Large Distributed System: LOCUS
+SP 51
+OP 66
+
+RT Journal Article
+ID 1605409
+A1 Gerla,M.
+YR 1984
+T1 Controlling routes, traffic rates, and buffer allocation in packet networks
+JF IEEE Communications Magazine
+VO 22
+SP 11
+OP 23
+IS 11
+
+RT Journal Article
+ID 1294134
+A1 Gerla,M.
+A1 Rodrigues,P.
+A1 Yeh,C.
+YR 1983
+T1 Buzz-net: a hybrid random access/virtual token local network
+
+RT Journal Article
+ID 803478
+A1 Kobayashi,Hiroshi
+A1 Gerla,Mario
+YR 1983
+T1 Optimal routing in closed queuing networks
+JF ACM Transactions on Computer Systems
+VO 1
+SP 294
+OP 310
+IS 4
+
+RT Conference Proceedings
+ID 2563874
+A1 Gerla,M.
+A1 Kleinrock,L.
+A1 Afek,Y.
+YR 1983
+T1 A distributed routing algorithm for unidirectional networks
+
+RT Journal Article
+ID 39212077
+A1 Kobayashi,Hiroshi
+A1 Gerla,Mario
+YR 1983
+T1 Optimal routing in closed queueing networks
+JF Computer Communication Review
+SP 26
+OP 26
+
+RT Journal Article
+ID 716915
+A1 Marsan,Marco,Ajmone
+A1 Gerla,Mario
+YR 1982
+T1 Markovs Models for Multiple Bus Multiprocessor Systems
+JF IEEE Transactions on Computers
+VO 31
+SP 239
+OP 248
+IS 3
+
+RT Conference Proceedings
+ID 1390019
+A1 Raghavendra,C.,S.
+A1 Gerla,M.
+A1 Parker,D.,S.
+YR 1982
+T1 Multi*connected loop topologies for loop computer networks
+
+RT Conference Proceedings
+ID 2072157
+A1 Marsan,M.,A.
+A1 Gerla,M.
+YR 1982
+T1 Fairness in local computing networks
+
+RT Conference Proceedings
+ID 1830284
+A1 Raghavendra,Cauligi,S.
+A1 Gerla,Mario
+A1 Avizienis,Algirdas
+YR 1982
+T1 Reliability optimization in the design of distributed systems
+SP 388
+OP 393
+
+RT Journal Article
+ID 879398
+A1 Raghavendra,C.,S.
+A1 Gerla,M.
+YR 1981
+T1 Optimal loop topologies for distributed systems
+JF Computer Communication Review
+VO 11
+SP 218
+OP 223
+IS 4
+
+RT Journal Article
+ID 1251352
+A1 Gerla,M.
+YR 1981
+T1 Routing and flow control
+
+RT Journal Article
+ID 1286807
+A1 GERLA,MARIO
+A1 KLEINROCK,LEONARD
+YR 1980
+T1 Flow Control: A Comparative Survey
+JF IEEE Transactions on Communications
+VO 28
+SP 553
+OP 574
+IS 4
+
+RT Conference Proceedings
+ID 1392040
+A1 Grnarov,A.
+A1 Kleinrock,L.
+A1 Gerla,M.
+YR 1980
+T1 A highly reliable distributed loop network architecture
+
+RT Journal Article
+ID 1351856
+A1 Gerla,M.
+A1 Kleinrock,L.
+YR 1980
+T1 Flow control: a comparative study
+
+RT Conference Proceedings
+ID 1389339
+A1 Gerla,M.
+A1 Nilsson,P.,O.
+YR 1980
+T1 Routing and flow control interplay in computer networks
+
+RT Conference Proceedings
+ID 675166
+A1 Gerla,Mario
+A1 Grnarov,Aksenti
+A1 Jr.,Douglas,Stott,Parker
+YR 1980
+T1 Distributed Travelling Salesman Algorithms for Distributed Database Operation
+SP 61
+OP 67
+
+RT Journal Article
+ID 1337645
+A1 Grnarov,A.
+A1 Kleinrock,L.
+A1 Gerla,M.
+YR 1979
+T1 A new algorithm for network reliability computation
+
+RT Journal Article
+ID 1257469
+A1 Chu,W.,W
+A1 Gerla,M
+A1 Aagesen,F.,A
+YR 1979
+T1 Experimental results on tile packet satellite network
+
+RT Journal Article
+ID 56273030
+A1 Chu,W.,W.
+A1 Gerla,M.
+A1 Naylor,W.,E.
+A1 Treadwell,S.
+A1 Mills,D.
+A1 Spilling,P.
+A1 Aagesen,F.,A.
+YR 1979
+T1 Experimental results on the packet satellite network
+
+RT Journal Article
+ID 1344256
+A1 Tobagi,F.,A.
+A1 Gerla,M.
+A1 Peebles,R.,W.
+A1 Manning,E.,G.
+YR 1978
+T1 Modeling and measurement techniques in packet communication networks
+JF Proceedings of The IEEE
+VO 66
+SP 1423
+OP 1447
+IS 11
+
+RT Journal Article
+ID 1286989
+A1 Gerla,M.
+A1 Mason,D.
+YR 1978
+T1 Distributed routing in hybrid packet and circuit data networks
+
+RT Conference Proceedings
+ID 2092771
+A1 Fratta,L.
+A1 Gerla,M.
+A1 Kleinrock,L.
+YR 1978
+T1 The #ow deviation method: An approach to store-and-forward communication network design
+
+RT Journal Article
+ID 1321980
+A1 Gerla,M
+A1 Naylor,W
+YR 1978
+T1 Fhl~l technical report of the packet satellite program
+
+RT Journal Article
+ID 1367148
+A1 Gerla,M.
+A1 Kleinrock,L.
+YR 1977
+T1 On the Topological Design of Distributed Computer Networks
+JF IEEE Transactions on Communications
+VO 25
+SP 48
+OP 60
+IS 1
+
+RT Conference Proceedings
+ID 897440
+A1 Gerla,Mario
+A1 Kleinrock,Leonard
+YR 1977
+T1 Closed loop stability controls for s-aloha satellite communications
+
+RT Journal Article
+ID 3515771
+A1 Gerla,M.
+A1 Kleinrock,L.
+YR 1977
+T1 On the topological design of computer communication networks
+JF IEEE Transactions on Communications
+
+RT Conference Proceedings
+ID 519986
+A1 Chou,W.
+A1 Gerla,Mario
+YR 1976
+T1 A Unified Flow and Congestion Control Model for Packet Networks
+SP 475
+OP 482
+
+RT Conference Proceedings
+ID 520138
+A1 Hsieh,W.
+A1 Gerla,Mario
+A1 Mcgregor,P.
+A1 Eckl,J.
+YR 1976
+T1 Locating Backbone Switches in a Large Packet Network
+SP 330
+OP 339
+
+RT Conference Proceedings
+ID 4699437
+A1 Gerla,Mario
+A1 Eckl,John
+YR 1975
+T1 Moving bits by air, land and sea: carriers, vans and packets
+SP 129
+OP 135
+
+RT Journal Article
+ID 1279221
+A1 Cantor,D.,G.
+A1 Gerla,M.
+YR 1974
+T1 Optimal Routing in a Packet-Switched Computer Network
+JF IEEE Transactions on Computers
+VO C-23
+SP 1062
+OP 1069
+IS 10
+
+RT Journal Article
+ID 1252747
+A1 Gerla,M.
+A1 Frank,H.
+A1 Eckl,J.
+YR 1974
+T1 A cut saturation algorithm for topological design of packet switched communication networks
+
+RT Conference Proceedings
+ID 6488968
+A1 Gerla,Mario
+YR 1974
+T1 New line tariffs and their impact on network design
+SP 577
+OP 582
+
+RT Journal Article
+ID 1260023
+A1 Fratta,L.
+A1 Gerla,M.
+A1 Kleinrock,L.
+YR 1973
+T1 The flow deviation method: An approach to store-and-forward communication network design
+JF Networks
+VO 3
+SP 97
+OP 133
+IS 2
+
+RT Journal Article
+ID 1368574
+A1 Gerla,M.
+YR 1973
+T1 The design of store-and-forward networks, for computer communications
+
+RT Conference Proceedings
+ID 897469
+A1 Gerla,Mario
+YR 1973
+T1 Deterministic and adaptive routing policies in packet-switched computer networks
+SP 23
+OP 28
+
+RT Journal Article
+ID 1298757
+A1 Frank,H.
+A1 Gerla,M.
+A1 Chou,W.
+YR 1973
+T1 Issues in the design of large distributed computer communication networks
+
+RT Conference Proceedings
+ID 2389043
+A1 Fratta,L.
+A1 Gerla,M.
+A1 Kleinrock,L.
+YR 1971
+T1 An approach to store-and-forward communication network design
+
+RT Journal Article
+ID 5761325
+A1 Casetti,Claudio
+A1 Gerla,Mario
+A1 Lee,Scott,Seongwook
+A1 Mascolo,Saverio
+A1 Sanadidi,Medy
+T1 TCP WITH FASTER RECOVERY
+
+RT Journal Article
+ID 12662327
+A1 Sentinelli,Alexandro
+A1 Marfia,Gustavo
+A1 Gerla,Mario
+A1 Kleinrock,Leonard
+T1 Will IPTV Ride the Peer-to-Peer Stream?
+JF IEEE Communications Magazine
+
+RT Journal Article
+ID 4565905
+A1 Hu,Wendong
+A1 Willkomm,Daniel
+A1 Chu,Liwen
+A1 Abusubaih,Murad
+A1 Gross,James
+A1 Vlantis,George
+A1 Gerla,Mario
+A1 Wolisz,Adam
+T1 Dynamic Frequency Hopping Communities for Efficient IEEE 802.22 Operation
+
+RT Journal Article
+ID 6783576
+A1 Hsu,Yu-Ching
+A1 Tsai,Tzu-Chieh
+A1 Lin,Ying-Dar
+A1 Gerla,Mario
+T1 Bandwidth Routing in Multi-hop Packet Radio Environment
+
+RT Journal Article
+ID 57859
+A1 Fu,Zhenghua
+A1 Zerfos,Petros
+A1 Luo,Haiyun
+A1 Lu,Songwu
+A1 Zhang,Lixia
+A1 Gerla,Mario
+T1 On TCP Performance in Multihop Wireless Networks
+
+RT Journal Article
+ID 10258301
+A1 Tang,Ken
+A1 Obraczka,Katia
+A1 Lee,Sung-Ju
+A1 Gerla,Mario
+T1 A Reliable, Congestion-Controlled Multicast Transport Protocol in Multimedia Multi-hop Networks
+
+RT Journal Article
+ID 6836048
+A1 Mascolo,S.
+A1 Casetti,C.
+A1 Gerla,M.
+A1 Lee,S.,S.
+A1 Sanadidi,M.
+T1 TCP Westwood: congestion control with faster recovery
+
+RT Journal Article
+ID 5488010
+A1 Chen,Jiwei
+A1 Lee,Yeng-Zhong
+A1 Maniezzo,Daniela
+A1 Gerla,Mario
+T1 Performance Comparison of AODV and OFLSR in Wireless Mesh Networks
+
+RT Conference Proceedings
+ID 4653055
+A1 Kong,Jiejun
+A1 Hong,Xiaoyan
+A1 Gerla,Mario
+T1 An Anonymous On Demand Routing Protocol with Untraceable Routes for Mobile Ad-hoc Networks
+
+RT Journal Article
+ID 4597021
+A1 Cui,Jun-Hong
+A1 Kong,Jiejun
+A1 Gerla,Mario
+A1 Zhou,Shengli
+T1 Challenges: Building Scalable and Distributed Underwater Wireless Sensor Networks (UWSNs) for Aquatic Applications
+
+RT Journal Article
+ID 7036325
+A1 Chiang,Ching-Chuan
+A1 Gerla,Mario
+T1 Routing and Multicast in Multihop, Mobile Wireless Networks
+
+RT Conference Proceedings
+ID 6881995
+A1 Pazos,Carlos,M.
+A1 Agrelo,Juan,C.,Sanchez
+A1 Gerla,Mario
+T1 Using Back-Pressure to Improve TCP Performance with Many Flows
+
+RT Conference Proceedings
+ID 4546317
+A1 Bergamo,Pierpaolo
+A1 Maniezzo,Daniela
+A1 Yao,Kung
+A1 Cesana,Matteo
+A1 Pau,Giovanni
+A1 Gerla,Mario
+T1 IEEE802.11 WIRELESS NETWORK UNDER AGGRESSIVE MOBILITY SCENARIOS
+
+RT Journal Article
+ID 12767204
+A1 Rajendran,Venkatesh
+A1 Yi,Yunjung
+A1 Obraczka,Katia
+A1 Lee,Sung-Ju
+A1 Tang,Ken
+A1 Gerla,Mario
+T1 Reliable, Adaptive, Congestion-Controlled Ad hoc Multicast Transport Protocol: Combining Source-Based and Local Recovery
+JF Lecture Notes in Computer Science
+
+RT Journal Article
+ID 5225843
+A1 Sun,Tony
+A1 Chen,Ling-Jyh
+A1 Yang,Guang
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+T1 SenProbe: Path Capacity Estimation in Wireless Sensor Networks
+
+RT Journal Article
+ID 4535541
+A1 Chen,Jiwei
+A1 Xu,Kaixin
+A1 Gerla,Mario
+T1 Multipath TCP in Lossy Wireless Environment
+
+RT Journal Article
+ID 10035766
+A1 Lee,Uichin
+A1 Choy,Junghoo
+A1 Sanadidi,M.,Y.
+A1 Gerlay,Mario
+T1 Understanding Pollution Dynamics in P2P File Sharing
+
+RT Journal Article
+ID 5262979
+A1 Marfia,Gustavo
+A1 Pau,Giovanni
+A1 Gerla,Mario
+T1 P2P Streaming Systems: A Survey and Experiments
+
+RT Journal Article
+ID 10101578
+A1 Cesanax,Matteo
+A1 Maniezzo,Daniela
+A1 Bergamoy,Pierpaolo
+A1 Gerla,Mario
+T1 Interference Aware (IA) MAC: an Enhancement to IEEE802.11b DCF
+
+RT Journal Article
+ID 4550699
+A1 Luglio,M.
+A1 Roseti,C.
+A1 Gerla,M.
+T1 The Impact of Efficient Flow Control and OS Features on TCP Performance over Satellite Links
+
+RT Journal Article
+ID 4454915
+A1 Marcondes,Cesar
+A1 Persson,Anders
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+A1 Shimonishi,Hideyuki
+A1 Hama,Takayuki
+A1 Murase,Tutomu
+T1 Inline Path Characteristic Estimation to Improve TCP Performance in High Bandwidth-Delay Networks
+
+RT Journal Article
+ID 2384203
+A1 Loreti,P.
+A1 Luglio,M.
+A1 Kapoor,R.
+A1 Stepanek,J.
+A1 Gerla,M.
+A1 Vatalaro,F.
+A1 Vazquez-Castro,M.,A.
+T1 Throughput and Delay Performance of Mobile Internet Applications Using LEO Satellite Access
+
+RT Journal Article
+ID 5706678
+A1 Sun,Tony
+A1 Chen,Ling-Jyh
+A1 Han,Chih-Chieh
+A1 Gerla,Mario
+T1 Improving Data Reliability via Exploiting Redundancy in Sensor Networks
+
+RT Journal Article
+ID 3097701
+A1 Ferretti,Stefano
+A1 Palazzi,Claudio,E.
+A1 Roccetti,Marco
+A1 Pau,Giovanni
+A1 Gerla,Mario
+T1 FILA, a Holistic Approach to Massive Online Gaming: Algorithm Comparison and Performance Analysis
+
+RT Conference Proceedings
+ID 4503158
+A1 Kong,Jiejun
+A1 Gerla,Mario
+A1 Prabhu,B.,S.
+A1 Gadh,Rajit
+T1 Providing Multi-layer Security Support for Wireless Communications across Multiple Trusted Domains
+
+RT Journal Article
+ID 4181432
+A1 Maniezzo,Daniela
+A1 Cesana,Matteo
+A1 Gerla,Mario
+T1 IA-MAC: Interference Aware MAC for WLANs
+
+RT Journal Article
+ID 5212456
+A1 Kong,Jiejun
+A1 Hong,Xiaoyan
+A1 Park,Joon-sang
+A1 Yi,Yunjung
+A1 Gerla,Mario
+T1 L’Hospital: Self-healing Secure Routing for Mobile Ad-hoc Networks
+
+RT Journal Article
+ID 4551482
+A1 Gerla,M.
+A1 Luglio,M.
+A1 Kapoor,R.
+A1 Stepanek,J.
+A1 Vatalaro,F.
+A1 Vazquez-Castro,M.,A.
+T1 TCP via satellite constellations
+
+RT Journal Article
+ID 5268663
+A1 Lee,Uichin
+A1 Park,Joon-Sang
+A1 Lee,Seung-Hoon
+A1 Ro,Won,W.
+A1 Pau,Giovanni
+A1 Gerla,Mario
+T1 Efficient Peer-to-peer File Sharing using Network Coding in MANET
+JF Journal of Communications and Networks
+
+RT Journal Article
+ID 12653845
+A1 Fazio,Maria
+A1 Das,Shirshanka
+A1 Palazzi,Claudio,E.
+A1 Gerla,Mario
+T1 Vehicular Address Configuration
+
+RT Journal Article
+ID 11289556
+A1 Lee,Uichin
+A1 Park,Joon-Sang
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+T1 FLOW BASED DYNAMIC LOAD BALANCING FOR PASSIVE NETWORK MONITORING
+
+RT Journal Article
+ID 4469632
+A1 Balk,A.
+A1 Gerla,M.
+A1 Sanadidi,M.
+A1 Maggiorini,D.
+T1 Adaptive MPEG4 Video Streaming with Bandwidth Estimation: Journal Version
+
+RT Journal Article
+ID 12775459
+A1 Yang,Guang
+A1 Wang,Ren
+A1 Wang,Fei
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+T1 TCP Westwood with Bulk Repeat for Heavy Loss Environments
+
+RT Journal Article
+ID 4560010
+A1 Kazantzidis,Manthos
+A1 Zanella,Andrea
+A1 Gerla,Mario
+T1 End-to-end Adaptive Multimedia over Bluetooth Scatternets
+
+RT Journal Article
+ID 13005045
+A1 DOREL,JEAN-LUC
+A1 GERLA,MARIO
+T1 PERFORMANCE ANALYSIS OF TCP-RENO AND TCP-SACK: THE SINGLE SOURCE CASE
+
+RT Journal Article
+ID 5062404
+A1 Yang,B.
+A1 Casetti,C.
+A1 Gerla,M.
+T1 Stateless Load Balancing over Multiple MPLS Paths
+
+RT Book, Whole
+ID 11095264
+A1 Gerla,Mario
+A1 Lee,Yeng-Zhong
+A1 Zhou,Biao
+A1 Chen,Jason
+A1 Caruso,Antonio
+T1 “Direction” Forwarding for Highly Mobile, Large Scale Ad Hoc Networks
+
+RT Journal Article
+ID 5897475
+A1 Lee,Uichin
+A1 Lee,Kang-Won
+A1 Gerla,Mario
+T1 RelayCast: Scalable Multicast Routing in Delay Tolerant Coalition Networks
+
+RT Journal Article
+ID 11956709
+A1 Gerla,Mario
+A1 Hong,Xiaoyan
+A1 Xu,Kaixin
+A1 Lu,Zhihan
+A1 Flores,Charmaigne
+T1 LANMAR + OLSR: A Scalable, Group Oriented Extension of OLSR
+
+RT Journal Article
+ID 10805124
+A1 Luglio,M.
+A1 Roseti,C.
+A1 Gerla,M.
+T1 TCP Performance over Satellite in case of Multiple Sessions per Links using Efficient Flow Control and Real OS
+
+RT Journal Article
+ID 2291929
+A1 Maniezzo,Daniela
+A1 Pau,Giovanni
+A1 Gerla,Mario
+A1 Mazzini,Gianluca
+A1 Yao,Kung
+T1 T-MAH: A Token Passing MAC protocol for Ad Hoc Networks1
+
+RT Journal Article
+ID 6890302
+A1 Dressler,Falko
+A1 Awad,Abdalkarim
+A1 German,Reinhard
+A1 Gerla,Mario
+T1 Enabling Inter-Domain Routing in Virtual Coordinate Based Ad Hoc and Sensor Networks
+
+RT Book, Whole
+ID 47898062
+A1 Gerla,Mario
+T1 Ad Hoc Networks
+
+RT Book, Whole
+ID 2345085
+A1 Gerla,Mario
+A1 Chen,Ling-Jyh
+A1 Sun,Tony
+A1 Yang,Guang
+T1 Ubiquitous Video Streaming: A System Perspective
+
+RT Journal Article
+ID 58771
+A1 Yang,Guang
+A1 Wang,Ren
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+T1 Performance of TCPW BR in Next Generation Wireless and Satellite Networks
+
+RT Journal Article
+ID 11505347
+A1 Hong,Xiaoyan
+A1 Kong,Jiejun
+A1 Gerlay,Mario
+T1 Mobility Changes Anonymity: New Passive Threats in Mobile Ad Hoc Networks
+
+RT Journal Article
+ID 10504979
+A1 Liu,Jun
+A1 Kongy,Jiejun
+A1 Hong,Xiaoyan
+A1 Gerlay,Mario
+T1 Performance Evaluation of Anonymous Routing Protocols in MANETs
+
+RT Journal Article
+ID 4605114
+A1 Maniezzo,Daniela
+A1 Villa,Gianluca
+A1 Gerla,Mario
+T1 A \Smart" MAC-Routing Protocol for WLAN Mesh Networks
+
+RT Journal Article
+ID 5147196
+A1 Kong,Jiejun
+A1 Liu,Jun
+A1 Hong,Xiaoyan
+A1 Gerla,Mario
+T1 Toward Efficient Solutions to Resist Mobile Traffic Sensors: How Much Performance Cost is Paid by On-demand Anonymous Routing Protocols
+
+RT Journal Article
+ID 2327758
+A1 Cui,Jun-hong
+A1 Maggiorini,Dario
+A1 Faloutsos,Michalis
+A1 Gerla,Mario
+A1 Boussetta,Khaled
+T1 Modelling the Spatial Properties of Group Members in the Internet
+
+RT Journal Article
+ID 421123
+A1 Casetti,Claudio
+A1 Gerla,Mario
+A1 Lee,Scott
+A1 Mascolo,Saverio
+A1 Sanadidi,M.,Y.
+A1 Wang,Ren
+T1 Enhancing TCP Congestion Control Via Connection Bandwidth Estimation, A Performance Study
+
+RT Journal Article
+ID 5783651
+A1 Lee,Uichin
+A1 Lee,Kang-Won
+A1 Gerla,Mario
+T1 Understanding the Capacity and Delay Scaling Laws of Delay Tolerant Networks: A Unified Approach
+
+RT Journal Article
+ID 12992465
+A1 Crovella,Mark
+A1 Frost,Victor
+A1 Kansas,U.
+A1 Gerla,Mario
+A1 Heidemann,John
+A1 Kurose,Jim
+A1 Lepreau,Jay
+A1 Partridge,Craig
+T1 Authors and Contributors
+
+RT Journal Article
+ID 10508224
+A1 Lutterotti,Paolo
+A1 Pau,Giovanni
+A1 Jiang,Daniel
+A1 Gerlay,Mario
+A1 Delgrossi,Luca
+T1 C-VeT, the UCLA Vehicular Testbed: An Open Platform for Vehicular Networking and Urban Sensing
+
+RT Journal Article
+ID 49639122
+A1 Lim,Jung,Soo
+A1 Kim,Jihyoung
+A1 Friedman,Jonathan
+A1 Lee,Uichin
+A1 Vieira,Luiz
+A1 Rosso,Diego
+A1 Gerla,Mario
+A1 Srivastava,Mani,B.
+T1 SewerSnort: A drifting sensor for in situ Wastewater Collection System gas monitoring
+JF Ad Hoc Networks
+
+RT Journal Article
+ID 13051627
+A1 Rubin,Izhak
+A1 Yao,Kung
+A1 Gerla,Mario
+A1 Pottie,Gregory,J.
+T1 The dissertation of Mohiuddin Ahmed is approved
+
+RT Journal Article
+ID 2963121
+A1 Palazzi,Claudio,E.
+A1 Pau,Giovanni
+A1 Roccetti,Marco
+A1 Gerla,Mario
+T1 Digital Entertainment Delivery in a Wireless House: Time for a MAC Tuning
+
+RT Journal Article
+ID 12400364
+A1 Kong,Jiejun
+A1 Ji,Zhengrong
+A1 Wang,Weichao
+A1 Gerlay,Mario
+A1 Bagrodia,Rajive
+A1 Bhargava,Bharat
+T1 DISRUPTING PACKET DELIVERY, LOCALIZATION AND SYNCHRONIZATION SERVICES IN UNDERWATER SENSOR NETWORKS
+
+RT Journal Article
+ID 5123132
+A1 Kong,Jiejun
+A1 Chen,Ling-Jyh
+A1 Jakobsson,Markus
+A1 Moyer,Stan
+A1 Marples,Dave
+A1 Gerla,Mario
+T1 A DIGITAL CONTENT MEDIATOR (DCM) APPROACH TO IMPLEMENTING LEGITIMATE AND SECURE P2P ONLINE TRANSACTIONS
+
+RT Journal Article
+ID 11790724
+A1 Jea,David
+A1 Cho,Dae-Ki
+A1 Hsu,Julan
+A1 Balani,Rahul
+A1 Gerla,Mario
+A1 Srivastava,Mani,B.
+T1 Diagnostic Quality Driven Energy-efficient and Bandwidth-scalable Physiological Data Collection for Wireless Telehealth
+
+RT Journal Article
+ID 10515810
+A1 Kong,Jiejun
+A1 Wuy,Dapeng
+A1 Hongz,Xiaoyan
+A1 Gerla,Mario
+T1 Mobile Traffic Sensor Network versus Motion-MIX: Tracing and Protecting Mobile Wireless Nodes
+
+RT Journal Article
+ID 11057808
+A1 Gerlay,Mario
+A1 Cascella,Roberto,G.
+A1 Caoy,Zhen
+A1 Crispo,Bruno
+A1 Battiti,Roberto
+T1 An efficient weak secrecy scheme for network coding data dissemination in VANET Invited Paper
+
+RT Journal Article
+ID 4472731
+A1 Kong,Jiejun
+A1 Ji,Zhengrong
+A1 Wang,Weichao
+A1 Gerla,Mario
+A1 Bagrodia,Rajive
+T1 On Wormhole Attacks in UnderWater Sensor Networks: A Two-Tier Localization Approach
+
+RT Journal Article
+ID 48530548
+A1 Matthews,Jerrid
+A1 Kulkarni,Rajan
+A1 Gerla,Mario
+A1 Massey,Tammara
+T1 Rapid Dengue and Outbreak Detection with Mobile Systems and Social Networks
+JF Mobile Networks and Applications
+SP 1
+OP 14
+
+RT Journal Article
+ID 11008579
+A1 Park,Joon-Sang
+A1 Lun,Desmond,S.
+A1 Yi,Yunjung
+A1 Gerla,Mario
+T1 CodeCast: A Network Coding Based Ad Hoc
+
+RT Journal Article
+ID 10258171
+A1 Maniezzo,D.
+A1 Cesanay,M.
+A1 Bergamoy,P.
+A1 Gerla,M.
+T1 Real-Time Caption Streaming over WiFi Network
+
+RT Journal Article
+ID 10425007
+A1 Kong,Jiejun
+A1 Hong,Xiaoyan
+A1 Yi,Yunjung
+A1 Park,Joon-Sang
+A1 Liu,Jun
+A1 Gerlay,Mario
+T1 A Secure Ad-hoc Routing Approach using Localized Self-healing Communities
+
+RT Journal Article
+ID 49171850
+A1 Amini,Navid
+A1 Vahdatpour,Alireza
+A1 Xu,Wenyao
+A1 Gerla,Mario
+A1 Sarrafzadeh,Majid
+T1 Cluster size optimization in sensor networks with decentralized cluster-based protocols
+JF Computer Communications
+
+RT Journal Article
+ID 5101662
+A1 Chen,Chien-Chia
+A1 Lien,Chieh-Ning
+A1 Lee,Uichin
+A1 Oh,Soon,Y.
+A1 Gerla,Mario
+T1 CodeCast: Network Coding Based Multicast in MANETs
+
+RT Journal Article
+ID 10049902
+A1 Cui,Jun-Hong
+A1 Maggiorini,Dario
+A1 Faloutsos,Michalis
+A1 Gerla,Mario
+A1 Boussetta,Khaled
+T1 Modelling the Spatial Properties of Group Members in the Internet UCLA CSD TR # 030011
+
+RT Journal Article
+ID 7017200
+A1 Pancost,Brandon
+A1 Chen,Chien-Chia
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+T1 Buffer Estimate Filtering Using Dispersion Deltas
+
+RT Journal Article
+ID 48414037
+A1 Sahu,Pratap,Kumar
+A1 Wu,Eric,Hsiao-Kuang
+A1 Sahoo,Jagruti
+A1 Gerla,Mario
+T1 DDOR: Destination discovery oriented routing in highway/freeway VANETs +
+JF Telecommunication Systems
+SP 1
+OP 18
+
+RT Journal Article
+ID 10777021
+A1 Matthews,Jerrid
+A1 Kulkarni,Rajan
+A1 Whitesides,George
+A1 Sarrafzadeh,Majid
+A1 Gerla,Mario
+A1 Massey,Tammara
+T1 A Lightweight Solution for Real-Time Dengue Detection using Mobile Phones
+
+RT Journal Article
+ID 4602435
+A1 Chen,Ling-Jyh
+A1 Lao,Li
+A1 Sun,Tony
+A1 Yang,Guang
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+T1 PBProbe: A CapProbe based Scalable Capacity Estimation Tool
+
+RT Journal Article
+ID 10504972
+A1 Kong,Jiejun
+A1 Hong,Xiaoyan
+A1 Sanadidi,M.,Y.
+A1 Gerlay,Mario
+T1 Mobility Changes Anonymity: Mobile Ad Hoc Networks Need Efficient Anonymous Routing
+
+RT Journal Article
+ID 49639193
+A1 Mershad,Khaleel
+A1 Artail,Hassan
+A1 Gerla,Mario
+T1 ROAMER: Roadside Units as message routers in VANETs
+JF Ad Hoc Networks
+
+RT Journal Article
+ID 11201757
+A1 Kongy,Jiejun
+A1 Liu,Jun
+A1 Hong,Xiaoyan
+A1 Gerlay,Mario
+T1 Toward Efficient Solutions to Resist Mobile Traffic Sensors: How Much Performance Cost is Paid by On-demand Anonymous Routing Protocols
+
+RT Journal Article
+ID 4485752
+A1 Lee,Yeng-Zhong
+A1 Kazantzidis,Manthos
+A1 Park,Joon-Sang
+A1 Gerla,Mario
+T1 On Demand Multicast Routing Protocol for Adaptive video and performance Measurement
+
+RT Journal Article
+ID 12674845
+A1 Tang,Ken
+A1 Gerla,Mario
+T1 Random Access MAC for Efficient Broadcast Support i n Ad Hoc Network s
+
+RT Book, Whole
+ID 48802010
+A1 Kim,Wooseong
+A1 Kassler,Andreas,J.
+A1 Felice,Marco,Di
+A1 Gerla,Mario
+A1 Bononi,Luciano
+T1 Urban-X: A Self-organizing Cognitive Wireless Mesh Network for Dense City Environments
+
+RT Journal Article
+ID 6001905
+A1 Lee,Uichin
+A1 Park,Joon-Sang
+A1 Amir,Eyal
+A1 Gerla,Mario
+T1 FleaNet: A Virtual Market Place on Vehicular Networks (Invited Paper)
+
+RT Journal Article
+ID 11656720
+A1 Iftode,Liviu
+A1 Smaldone,Stephen
+A1 Gerla,Mario
+A1 Misener,James
+T1 Active Highways (Position Paper) (Invited Paper)
+
+RT Journal Article
+ID 11229928
+A1 Furman,Sonia
+A1 Hammers,David,E.
+A1 Gerla,Mario
+T1 Optimum Combining for Rapidly Fading Channels in Ad Hoc Networks
+
+RT Journal Article
+ID 10503976
+A1 Kong,Jiejun
+A1 Hong,Xiaoyan
+A1 Gerla,Mario
+T1 against Anonymity Threats in Mobile Ad-hoc Networks
+
+RT Journal Article
+ID 3839151
+A1 Gerla,Mario
+A1 Sanadidi,M.,Y.
+A1 Wang,Ren
+A1 Valla,Massimo
+T1 TCP Westwood: Efficient Transport for High-speed wired/wireless Networks
+
+RT Journal Article
+ID 49643883
+A1 Lee,Eun-Kyu
+A1 Oh,Soon,Y.
+A1 Gerla,Mario
+T1 RFID assisted vehicle positioning in VANETs
+JF Pervasive and Mobile Computing
+
+RT Journal Article
+ID 4602628
+A1 Yang,Guang
+A1 Wang,Ren
+A1 Gerla,Mario
+A1 Sanadidi,M.,Y.
+T1 TCP Bulk Repeat for Heavy Random Losses: A Performance Analysis
+
+RT Journal Article
+ID 11688747
+A1 Park,Joon-Sang
+A1 Nandan,Alok
+A1 Gerlay,Mario
+A1 Lee,Heechoon
+T1 SPACE-MAC: Enabling Spatial Reuse using MIMO channel-aware MAC
+
+RT Journal Article
+ID 5183559
+A1 Persson,Anders
+A1 Marcondes,Cesar,A.,C.
+A1 Sanadidi,M.,Y.
+A1 Gerla,Mario
+T1 TCP Westwood Experiments over Large Bandwidth-Delay Product Networks
+
+RT Journal Article
+ID 5706163
+A1 Lee,Uichin
+A1 Lee,Seung-Hoon
+A1 Lee,Kang-Won
+A1 Gerla,Mario
+T1 Understanding Processing Overheads of Network Coding Based Content Distribution in VANETs
+
+RT Journal Article
+ID 10779613
+A1 Kong,Jiejun
+A1 Lee,Yeng-zhong
+A1 Gerla,Mario
+T1 Distributed Multicast Group Security Architecture for Mobile Ad Hoc Networks1
+
+RT Journal Article
+ID 11584150
+A1 Lee,Kevin,C.
+A1 Le,Michael
+A1 Gerlay,Mario
+T1 LOUVRE: Landmark Overlays for Urban Vehicular Routing Environments
+
+RT Journal Article
+ID 3563085
+A1 Luglio,M.
+A1 Stepanek,J.
+A1 Gerla,M.
+T1 PERFORMANCE EVALUATION OF TCP BASED APPLICATIONS USING DOUBLE CONSTELLATION GEO/LEO ARCHITECTURE
+
+RT Journal Article
+ID 4815401
+A1 Chen,Ling-Jyh
+A1 Gerla,Mario
+A1 Nandan,Alok
+T1 Moving between infrastructure and ad hoc wireless networks: 'opportunistic' mobile middleware
+
+RT Book, Whole
+ID 5239791
+A1 Chen,Jiwei
+A1 Gerla,Mario
+A1 Lee,Yeng-Zhong
+T1 TCP over Geo-routing for High Mobility: Vehicle Grids and Airborne Swarms
+
+RT Journal Article
+ID 11617893
+A1 Hong,Xiaoyan
+A1 Gerla,Mario
+T1 Dynamic Group Discovery and Configuration for Automated Swarms
+
+RT Journal Article
+ID 6811825
+A1 Oh,Soon,Y.
+A1 Marfia,Gustavo
+A1 Gerla,Mario
+T1 ProbeCast: Ad Hoc Multicast Admission Control via Probing
+
+RT Journal Article
+ID 6019821
+A1 Kong,Jiejun
+A1 Gerla,Mario
+T1 Adaptive Security Support for Real-time Transmissions in Ad Hoc Networks (Extended Abstract)
+
+RT Journal Article
+ID 12472547
+A1 Rom,M.
+A1 Pozzoli,R.
+A1 Amoretti,M.
+T1 DYNAMICS OF PARTICLES IN AN ANNULAR PURE ELECTRON PLASMA UNDER STATIC MAGNETIC PERTURBATIONS
+
+RT Book, Whole
+ID 48209862
+A1 Cavendish,Dirceu
+A1 Gerla,Mario
+T1 Routing Optimization in Communication Networks
+
+RT Book, Whole
+ID 47751913
+A1 Gerla,Mario
+A1 Xu,Kaixin
+T1 Topology Management of Hierarchical Mobile Ad Hoc Networks
+
+RT Journal Article
+ID 5331670
+A1 Lee,Kevin
+A1 Gerla,Mario
+T1 Advancing Geographic Routing in Vehicular Ad Hoc Urban Networks
+
+RT Journal Article
+ID 4528370
+A1 Gerla,Mario
+T1 An IP-level Mobility Management Framework Based on Quasi-Registration in Wireless Technologies Convergence
+
+RT Journal Article
+ID 13042371
+A1 GERLA,MARIO
+T1 Bluetooth: una nuova tecnologia per reti radio personali
+
+RT Journal Article
+ID 13065968
+A1 Gerla,Mario
+T1 This tutorial includes research material produced at the UCLA Network Research Laboratory under the inspiring leadership of Professor

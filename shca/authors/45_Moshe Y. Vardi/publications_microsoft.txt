@@ -1,0 +1,5679 @@
+RT Journal Article
+ID 61401872
+A1 Benque,D.
+A1 Bourton,S.
+A1 Cockerton,C.
+A1 Cook,B.
+A1 Fisher,J.
+A1 Ishtiaq,S.
+A1 Piterman,N.
+A1 Taylor,A.
+A1 Vardi,M.
+YR 2012
+T1 Bio Model Analyzer: Visual Tool for Modeling and Analysis of Biological Networks
+
+RT Journal Article
+ID 56920715
+A1 Tabakov,Deian
+A1 Vardi,Moshe,Y.
+YR 2012
+T1 Automatic aspectization of systemC
+SP 9
+OP 14
+
+RT Journal Article
+ID 49717708
+A1 Farbstein,Dan
+A1 Blum,Shany
+A1 Pollak,Mordechai
+A1 Asaf,Roy
+A1 Viener,Hilla,Lee
+A1 Lache,Orit
+A1 Asleh,Rabea
+A1 Miller-Lotan,Rachel
+A1 Barkay,Ido
+A1 Star,Michael
+A1 Schwartz,Avery
+A1 Kalet-Littman,Shiri
+A1 Ozeri,David
+A1 Vaya,Jacob
+A1 Tavori,Hagai
+A1 Vardi,Moshe
+A1 Laor,Arie
+A1 Bucher,Stephen,E.
+A1 Anbinder,Yefim
+A1 Moskovich,Doron
+A1 Abbas,Nur
+A1 Perry,Netta
+A1 Levy,Yishai
+A1 Levy,Andrew,P.
+YR 2011
+T1 Vitamin E therapy results in a reduction in HDL function in individuals with diabetes and the haptoglobin 2-1 genotype
+JF Atherosclerosis
+VO 219
+SP 240
+OP 244
+IS 1
+
+RT Journal Article
+ID 56915704
+A1 Lenzerini,Maurizio
+A1 Vardi,Moshe,Y.
+A1 Fagin,Ronald
+A1 Ullman,Jeffrey,D.
+A1 Abiteboul,Serge
+A1 Vianu,Victor
+A1 Neven,Frank
+YR 2011
+T1 PODS 30th Anniversary Colloquium
+
+RT Conference Proceedings
+ID 39279228
+A1 Kupferman,Orna
+A1 Lustig,Yoad
+A1 Vardi,Moshe,Y.
+A1 Yannakakis,Mihalis
+YR 2011
+T1 Temporal Synthesis for Bounded Systems and Environments
+SP 615
+OP 626
+
+RT Conference Proceedings
+ID 39231483
+A1 Calvanese,Diego
+A1 Giacomo,Giuseppe,De
+A1 Lenzerini,Maurizio
+A1 Vardi,Moshe,Y.
+YR 2011
+T1 Simplifying schema mappings
+SP 114
+OP 125
+
+RT Journal Article
+ID 39323174
+A1 Bordeaux,Lucas
+A1 Katsirelos,Georges
+A1 Narodytska,Nina
+A1 Vardi,Moshe,Y.
+YR 2011
+T1 The Complexity of Integer Bound Propagation
+JF Journal of Artificial Intelligence Research
+VO 40
+SP 657
+OP 676
+
+RT Book, Whole
+ID 48852501
+A1 Fisher,Jasmin
+A1 Henzinger,Thomas,A.
+A1 Nickovic,Dejan
+A1 Piterman,Nir
+A1 Singh,Anmol,V.
+A1 Vardi,Moshe,Y.
+YR 2011
+T1 Dynamic Reactive Modules
+
+RT Journal Article
+ID 51190159
+A1 Bhatia,Amit
+A1 Maly,Matthew
+A1 Kavraki,Lydia
+A1 Vardi,Moshe
+YR 2011
+T1 Motion Planning with Complex Goals
+JF IEEE Robotics & Automation Magazine
+VO 18
+SP 55
+OP 64
+IS 3
+
+RT Journal Article
+ID 47618438
+A1 Ghanem-Zoubi,Nesrin,O
+A1 Vardi,Moshe
+A1 Laor,Arie
+A1 Weber,Gabriel
+A1 Bitterman,Haim
+YR 2011
+T1 Assessment of disease-severity scoring systems for patients with sepsis in general internal medicine departments
+JF Critical Care
+VO 15
+SP 1
+OP 7
+IS 2
+
+RT Journal Article
+ID 39209460
+A1 Vardi,Moshe,Y.
+YR 2011
+T1 Where have all the workshops gone?
+JF Communications of The ACM
+VO 54
+SP 5
+OP 5
+IS 1
+
+RT Journal Article
+ID 39209520
+A1 Vardi,Moshe,Y.
+YR 2011
+T1 Fumbling the future
+JF Communications of The ACM
+VO 54
+SP 5
+OP 5
+IS 3
+
+RT Journal Article
+ID 39209575
+A1 Vardi,Moshe,Y.
+YR 2011
+T1 Technology has social consequences
+JF Communications of The ACM
+VO 54
+SP 5
+OP 5
+IS 5
+
+RT Journal Article
+ID 56900063
+A1 Vardi,Moshe,Y.
+YR 2011
+T1 Are you talking to me?
+JF Communications of The ACM
+SP 5
+OP 5
+
+RT Journal Article
+ID 56900089
+A1 Vardi,Moshe,Y.
+YR 2011
+T1 Computing for humans
+JF Communications of The ACM
+SP 5
+OP 5
+
+RT Journal Article
+ID 56905063
+A1 Vardi,Moshe,Y.
+YR 2011
+T1 Solving the unsolvable
+JF Communications of The ACM
+SP 5
+OP 5
+
+RT Journal Article
+ID 56909213
+A1 Vardi,Moshe,Y.
+YR 2011
+T1 Is Moore's Party over?
+JF Communications of The ACM
+SP 5
+OP 5
+
+RT Journal Article
+ID 48633147
+A1 Sebastiani,Roberto
+A1 Tonetta,Stefano
+A1 Vardi,Moshe,Y.
+YR 2011
+T1 Symbolic systems, explicit properties: on hybrid approaches for LTL symbolic model checking
+JF International Journal on Software Tools for Technology Transfer
+VO 13
+SP 319
+OP 335
+IS 4
+
+RT Journal Article
+ID 55729583
+A1 Lustig,Yoad
+A1 Vardi,Moshe
+YR 2011
+T1 Synthesis from Recursive-Components Libraries
+
+RT Journal Article
+ID 49714987
+A1 Vardi,Moshe
+YR 2011
+T1 Routine peripheral catheter replacement – Does evidence support its use as a quality indicator? A commentary on Jull and Griffiths (2010)
+JF International Journal of Nursing Studies
+VO 48
+SP 784
+OP 785
+IS 6
+
+RT Journal Article
+ID 53397878
+A1 Pistore,M.
+A1 Vardi,M.,Y.
+YR 2011
+T1 The Planning Spectrum - One, Two, Three, Infinity
+
+RT Conference Proceedings
+ID 13759963
+A1 Bhatia,Amit
+A1 Kavraki,Lydia,E.
+A1 Vardi,Moshe,Y.
+YR 2010
+T1 Sampling-based motion planning with temporal goals
+SP 2689
+OP 2696
+
+RT Journal Article
+ID 30473029
+A1 Blum,Shany
+A1 Vardi,Moshe
+A1 Levy,Nina,S.
+A1 Miller-Lotan,Rachel
+A1 Levy,Andrew,P.
+YR 2010
+T1 The effect of vitamin E supplementation on cardiovascular risk in diabetic individuals with different haptoglobin phenotypes
+JF Atherosclerosis
+VO 211
+SP 25
+OP 27
+IS 1
+
+RT Conference Proceedings
+ID 39275206
+A1 Tabakov,Deian
+A1 Vardi,Moshe,Y.
+YR 2010
+T1 Monitoring temporal SystemC properties
+SP 123
+OP 132
+
+RT Journal Article
+ID 30085724
+A1 Duckitt,Roger
+A1 Tanriover,Mine,Durusu
+A1 Bosanka,Lenka
+A1 Dagna,Lorenzo
+A1 Vardi,Moshe
+YR 2010
+T1 The European Diploma of Internal Medicine — Perspectives on the exam from across Europe 1
+JF European Journal of Internal Medicine
+VO 21
+SP 46
+OP 47
+IS 1
+
+RT Conference Proceedings
+ID 39264203
+A1 Mogavero,Fabio
+A1 Murano,Aniello
+A1 Vardi,Moshe,Y.
+YR 2010
+T1 Reasoning About Strategies
+SP 133
+OP 144
+
+RT Journal Article
+ID 13999598
+A1 Plaku,Erion
+A1 Kavraki,Lydia,E.
+A1 Vardi,Moshe,Y.
+YR 2010
+T1 Motion Planning With Dynamics by a Synergistic Combination of Layers of Planning
+JF IEEE Transactions on Robotics
+VO 26
+SP 469
+OP 482
+IS 3
+
+RT Journal Article
+ID 39328858
+A1 Rozier,Kristin,Y.
+A1 Vardi,Moshe,Y.
+YR 2010
+T1 LTL satisfiability checking
+JF International Journal on Software Tools for Technology Transfer
+VO 12
+SP 123
+OP 137
+IS 2
+
+RT Journal Article
+ID 38803508
+A1 Blum,Shany
+A1 Vardi,Moshe
+A1 Brown,Jonathan,B
+A1 Russell,Allen
+A1 Milman,Uzi
+A1 Shapira,Chen
+A1 Levy,Nina,S
+A1 Miller-Lotan,Rachel
+A1 Asleh,Rabea
+A1 Levy,Andrew,P
+YR 2010
+T1 Vitamin E reduces cardiovascular disease in individuals with diabetes mellitus and the haptoglobin 2-2 genotype
+JF Pharmacogenomics
+VO 11
+SP 675
+OP 684
+IS 5
+
+RT Book, Whole
+ID 39275056
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 2010
+T1 Synthesis of Trigger Properties
+SP 312
+OP 331
+
+RT Journal Article
+ID 13263689
+A1 Vardi,Moshe,Y.
+YR 2010
+T1 Revisiting the publication culture in computing research
+JF Communications of The ACM
+VO 53
+SP 5
+OP 5
+IS 3
+
+RT Book, Whole
+ID 13285997
+A1 Kupferman,Orna
+A1 Piterman,Nir
+A1 Vardi,Moshe,Y.
+YR 2010
+T1 An Automata-Theoretic Approach to Infinite-State Systems
+SP 202
+OP 259
+
+RT Journal Article
+ID 39209404
+A1 Vardi,Moshe,Y.
+YR 2010
+T1 On P, NP, and computational complexity
+JF Communications of The ACM
+VO 53
+SP 5
+OP 5
+IS 11
+
+RT Book, Whole
+ID 6606204
+A1 Fogarty,Seth
+A1 Vardi,Moshe,Y.
+YR 2010
+T1 Efficient Büchi Universality Checking
+SP 205
+OP 220
+
+RT Journal Article
+ID 13325835
+A1 Calvanese,Diego
+A1 Giacomo,Giuseppe,De
+A1 Lenzerini,Maurizio
+A1 Vardi,Moshe,Y.
+YR 2010
+T1 View Synthesis from Schema Mappings
+JF Computing Research Repository
+VO abs/1003.1
+
+RT Journal Article
+ID 14001651
+A1 Bryant,Randal,E.
+A1 Grumberg,Orna
+A1 Sifakis,Joseph
+A1 Vardi,Moshe,Y.
+YR 2010
+T1 2009 CAV award announcement
+JF Formal Methods in System Design
+VO 36
+SP 195
+OP 197
+IS 3
+
+RT Journal Article
+ID 30087195
+A1 Roger,Duckitt
+A1 Runolfur,Palsson
+A1 Lenka,Bosanska
+A1 Lorenzo,Dagna
+A1 Mine,Durusu,Tanriover
+A1 Moshe,Vardi
+YR 2010
+T1 Common diagnoses in Internal Medicine in Europe 2009: A pan-European, Multi-Centre Survey
+JF European Journal of Internal Medicine
+VO 21
+SP 449
+OP 452
+IS 5
+
+RT Conference Proceedings
+ID 13759133
+A1 Calvanese,Diego
+A1 Giacomo,Giuseppe,De
+A1 Lenzerini,Maurizio
+A1 Vardi,Moshe,Y.
+YR 2010
+T1 Node Selection Query Languages for Trees
+
+RT Journal Article
+ID 13380715
+A1 Lev-Ran,Oren
+A1 Sharony,Ram
+A1 Weinbroum,Avi,A.
+A1 Pineau,Emmanuelle
+A1 Cantoni,Emmanuel
+A1 Bolotin,Gil
+A1 Vardi,Moshe
+A1 Pevni,Dimitry
+A1 Nesher,Nahum
+A1 Uretzky,Gideon
+A1 Insler,Steven
+A1 Nataf,Patrick
+A1 Frolkis,Inna
+YR 2010
+T1 with lower immune response and lesser myocardial damage care in patients undergoing off-pump coronary artery bypass and is associated Thermo-wrap technology preserves normothermia better than routine thermal
+
+RT Journal Article
+ID 52298864
+A1 Calvanese,Diego
+A1 Giacomo,Giuseppe,De
+A1 Lenzerini,Maurizio
+A1 Vardi,Moshe,Y.
+YR 2010
+T1 View Synthesis from Schema Mappings
+
+RT Conference Proceedings
+ID 39288849
+A1 Bhatia,Amit
+A1 Kavraki,Lydia,E.
+A1 Vardi,Moshe,Y.
+YR 2010
+T1 Motion planning with hybrid dynamics and temporal goals
+SP 1108
+OP 1115
+
+RT Journal Article
+ID 13263826
+A1 Vardi,Moshe,Y.
+YR 2010
+T1 More debate, please
+JF Communications of The ACM
+VO 53
+SP 5
+OP 5
+IS 1
+
+RT Journal Article
+ID 13264564
+A1 Vardi,Moshe,Y.
+YR 2010
+T1 Globalization and Offshoring of Software revisited
+JF Communications of The ACM
+VO 53
+SP 5
+OP 5
+IS 5
+
+RT Journal Article
+ID 13266679
+A1 Vardi,Moshe,Y.
+YR 2010
+T1 Hypercriticality
+JF Communications of The ACM
+VO 53
+SP 5
+OP 5
+IS 7
+
+RT Journal Article
+ID 13985148
+A1 Vardi,Moshe,Y.
+YR 2010
+T1 Science has only two legs
+JF Communications of The ACM
+VO 53
+SP 5
+OP 5
+IS 9
+
+RT Book, Whole
+ID 39280700
+A1 Tsai,Ming-Hsien
+A1 Fogarty,Seth
+A1 Vardi,Moshe,Y.
+A1 Tsay,Yih-Kuen
+YR 2010
+T1 State of Büchi Complementation
+SP 261
+OP 271
+
+RT Book, Whole
+ID 39275043
+A1 Mogavero,Fabio
+A1 Murano,Aniello
+A1 Vardi,Moshe,Y.
+YR 2010
+T1 Relentful Strategic Reasoning in Alternating-Time Temporal Logic
+SP 371
+OP 386
+
+RT Conference Proceedings
+ID 13276736
+A1 Vardi,Moshe,Y.
+YR 2010
+T1 From Automated Verification to Automated Design
+SP 271
+
+RT Book, Whole
+ID 39260722
+A1 Vardi,Moshe,Y.
+YR 2010
+T1 Constraints, Graphs, Algebra, Logic, and Complexity
+SP 8
+
+RT Book, Whole
+ID 4708140
+A1 Lustig,Yoad
+A1 Vardi,Moshe,Y.
+YR 2009
+T1 Synthesis from Component Libraries
+SP 395
+OP 409
+
+RT Journal Article
+ID 4755312
+A1 Vardi,Moshe,Y.
+YR 2009
+T1 Conferences vs. journals in computing research
+JF Communications of The ACM
+VO 52
+SP 5
+OP 5
+IS 5
+
+RT Book, Whole
+ID 4732303
+A1 Fogarty,Seth
+A1 Vardi,Moshe,Y.
+YR 2009
+T1 Büchi Complementation and Size-Change Termination
+SP 16
+OP 30
+
+RT Journal Article
+ID 4543566
+A1 Plaku,Erion
+A1 Kavraki,Lydia,E.
+A1 Vardi,Moshe,Y.
+YR 2009
+T1 Hybrid systems: from verification to falsification by combining motion planning and discrete search
+JF Formal Methods in System Design
+VO 34
+SP 157
+OP 182
+IS 2
+
+RT Journal Article
+ID 30081795
+A1 Ghanem-Zoabi,Nesrin
+A1 Laor,Arie
+A1 Weber,Gabriel
+A1 Vardi,Moshe
+A1 Binderis,Natalia
+A1 Bitterman,Haim
+YR 2009
+T1 O0014 ASSESMENT OF DISEASE-SEVERITY SCORING SYSTEMS FOR SEPTIC PATIENTS IN DEPARTMENTS OF INTERNAL MEDICINE
+JF European Journal of Internal Medicine
+VO 20
+
+RT Book, Whole
+ID 4732307
+A1 Plaku,Erion
+A1 Kavraki,Lydia,E.
+A1 Vardi,Moshe,Y.
+YR 2009
+T1 Falsification of LTL Safety Properties in Hybrid Systems
+SP 368
+OP 382
+
+RT Book, Whole
+ID 4744205
+A1 Vardi,Moshe,Y.
+YR 2009
+T1 From Philosophical to Industrial Logics
+SP 89
+OP 115
+
+RT Book, Whole
+ID 5793616
+A1 Calvanese,Diego
+A1 Giacomo,Giuseppe,De
+A1 Lenzerini,Maurizio
+A1 Vardi,Moshe,Y.
+YR 2009
+T1 An Automata-Theoretic Approach to Regular XPath
+SP 18
+OP 35
+
+RT Journal Article
+ID 6068060
+A1 Vardi,Moshe,Y.
+YR 2009
+T1 The financial meltdown and computing
+JF Communications of The ACM
+VO 52
+SP 5
+OP 5
+IS 9
+
+RT Conference Proceedings
+ID 6045823
+A1 Nain,Sumit
+A1 Vardi,Moshe,Y.
+YR 2009
+T1 Trace Semantics is Fully Abstract
+SP 59
+OP 68
+
+RT Journal Article
+ID 4761482
+A1 Kupferman,Orna
+A1 Piterman,Nir
+A1 Vardi,Moshe,Y.
+YR 2009
+T1 From liveness to promptness
+JF Formal Methods in System Design
+VO 34
+SP 83
+OP 103
+IS 2
+
+RT Journal Article
+ID 6074493
+A1 Bryant,Randal,E.
+A1 Grumberg,Orna
+A1 Henzinger,Thomas,A.
+A1 Vardi,Moshe,Y.
+YR 2009
+T1 The 2008 CAV Award citation
+JF Formal Methods in System Design
+VO 35
+SP 4
+OP 5
+IS 1
+
+RT Journal Article
+ID 33075755
+A1 Lurie,Yael
+A1 Wasser,Solomon,P
+A1 Taha,Muhammad
+A1 Shehade,Haj
+A1 Nijim,Josef
+A1 Hoffmann,Yoav
+A1 Basis,Fuad
+A1 Vardi,Moshe
+A1 Lavon,Ophir
+A1 Suaed,Suliman
+A1 Bisharat,Bishara
+A1 Bentur,Yedidia
+YR 2009
+T1 Mushroom poisoning from species of genus Inocybe (fiber head mushroom): a case series with exact species identification
+JF Clinical Toxicology
+VO 47
+SP 562
+OP 565
+IS 6
+
+RT Journal Article
+ID 55604248
+A1 Calvanese,Diego
+A1 Giacomo,Giuseppe,de
+A1 Lenzerini,Maurizio
+A1 Vardi,Moshe,Y.
+YR 2009
+T1 An Automata-Theoretic Approach to Regular XPath
+
+RT Journal Article
+ID 4755202
+A1 Vardi,Moshe,Y.
+YR 2009
+T1 How are we doing?
+JF Communications of The ACM
+VO 52
+SP 5
+OP 5
+IS 1
+
+RT Journal Article
+ID 4755249
+A1 Vardi,Moshe,Y.
+YR 2009
+T1 "Yes, it can be done
+JF Communications of The ACM
+VO 52
+SP 5
+OP 5
+IS 3
+
+RT Journal Article
+ID 6068017
+A1 Vardi,Moshe,Y.
+YR 2009
+T1 Open, closed, or clopen access?
+JF Communications of The ACM
+VO 52
+SP 5
+OP 5
+IS 7
+
+RT Journal Article
+ID 6068128
+A1 Vardi,Moshe,Y.
+YR 2009
+T1 Is the image crisis over?
+JF Communications of The ACM
+VO 52
+SP 5
+OP 5
+IS 11
+
+RT Journal Article
+ID 13266435
+A1 Wiener,Roni
+A1 Kamhi,Gila
+A1 Vardi,Moshe,Y.
+YR 2009
+T1 Intelligate: An Algorithm for Learning Boolean Functions for Dynamic Power Reduction
+JF Journal of Low Power Electronics
+VO 5
+SP 106
+OP 112
+IS 1
+
+RT Journal Article
+ID 33393395
+A1 Vardi,Moshe
+A1 Laor,Arie
+A1 Bitterman,Haim
+YR 2009
+T1 Activated partial thromboplastin time monitoring in patients receiving unfractionated heparin for venous thromboembolism in relation to clinical outcomes
+JF Thrombosis and Haemostasis
+
+RT Book, Whole
+ID 6049272
+A1 Vardi,Moshe,Y.
+YR 2009
+T1 Symbolic Techniques in Propositional Satisfiability Solving
+SP 2
+OP 3
+
+RT Book, Whole
+ID 4732321
+A1 Vardi,Moshe,Y.
+YR 2009
+T1 Constraints, Graphs, Algebra, Logic, and Complexity
+SP 3
+
+RT Book, Whole
+ID 6059697
+A1 Vardi,Moshe,Y.
+YR 2009
+T1 Model Checking as A Reachability Problem
+SP 35
+
+RT Journal Article
+ID 55545978
+A1 Vardi,Moshe,Y.
+YR 2009
+T1 Model Checking as A Reachability Problem
+
+RT Conference Proceedings
+ID 5775852
+A1 Tabakov,Deian
+A1 Kamhi,Gila
+A1 Vardi,Moshe,Y.
+A1 Singerman,Eli
+YR 2008
+T1 A Temporal Language for SystemC
+SP 1
+OP 9
+
+RT Book, Whole
+ID 4319608
+A1 Vardi,Moshe,Y.
+YR 2008
+T1 From Church and Prior to PSL
+SP 150
+OP 171
+
+RT Journal Article
+ID 13378001
+A1 Vardi,Moshe,Y.
+A1 Wilke,Thomas
+YR 2008
+T1 Automata: from logics to algorithms
+SP 629
+OP 736
+
+RT Book, Whole
+ID 4705021
+A1 Kolaitis,Phokion,G.
+A1 Vardi,Moshe,Y.
+YR 2008
+T1 A Logical Approach to Constraint Satisfaction
+SP 125
+OP 155
+
+RT Journal Article
+ID 6069562
+A1 Etessami,Kousha
+A1 Etessami,Kousha
+A1 Vardi,Moshe,Y.
+A1 Yannakakis,Mihalis
+A1 Huth,Michael
+YR 2008
+T1 Multi-Objective Model Checking of Markov Decision Processes
+JF Logical Methods in Computer Science
+VO abs/0810.5
+IS 4
+
+RT Book, Whole
+ID 4268503
+A1 Greimel,Karin
+A1 Bloem,Roderick
+A1 Jobstmann,Barbara
+A1 Vardi,Moshe,Y.
+YR 2008
+T1 Open Implication
+SP 361
+OP 372
+
+RT Journal Article
+ID 4373227
+A1 Alfaro,Luca,De
+A1 Majumdar,Rupak
+A1 Raman,Vishwanath
+A1 Stoelinga,Mariëlle
+A1 Scott,D.,S.
+A1 Pierce,B.,J.
+A1 Plotkin,G.,J.
+A1 Vardi,M.,Y.
+A1 Adámek,J.
+YR 2008
+T1 Game Refinement Relations and Metrics
+JF Logical Methods in Computer Science
+VO abs/0806.4
+SP 4
+IS 3
+
+RT Conference Proceedings
+ID 4281604
+A1 Plaku,Erion
+A1 Kavraki,Lydia,E.
+A1 Vardi,Moshe,Y.
+YR 2008
+T1 Impact of workspace decompositions on discrete search leading continuous exploration (DSLX) motion planning
+SP 3751
+OP 3756
+
+RT Journal Article
+ID 4373707
+A1 Bonatti,Piero,A.
+A1 Lutz,Carsten
+A1 Murano,Aniello
+A1 Vardi,Moshe,Y.
+A1 Bugliesi,Michele
+YR 2008
+T1 The Complexity of Enriched Mu-Calculi
+JF Logical Methods in Computer Science
+VO abs/0809.0
+IS 3
+
+RT Book, Whole
+ID 4711489
+A1 Fisman,Dana
+A1 Kupferman,Orna
+A1 Sheinvald-faragy,Sarai
+A1 Vardi,Moshe,Y.
+YR 2008
+T1 A Framework for Inherent Vacuity
+SP 7
+OP 22
+
+RT Book, Whole
+ID 4728090
+A1 Wiener,Roni
+A1 Kamhi,Gila
+A1 Vardi,Moshe,Y.
+YR 2008
+T1 Intelligate: Scalable Dynamic Invariant Learning for Power Reduction
+SP 52
+OP 61
+
+RT Book, Whole
+ID 4352650
+A1 Vardi,Moshe,Y.
+YR 2008
+T1 From Verification to Synthesis
+SP 2
+
+RT Book, Whole
+ID 4238527
+A1 Vardi,Moshe,Y.
+YR 2008
+T1 From Monadic Logic to PSL
+SP 656
+OP 681
+
+RT Book, Whole
+ID 4711482
+A1 Vardi,Moshe,Y.
+YR 2008
+T1 Automata-Theoretic Model Checking Revisited
+SP 2
+
+RT Conference Proceedings
+ID 13313987
+A1 Downey,Rod
+A1 Khoussainov,Bakhadyr
+A1 Kuske,Dietrich
+A1 Lohrey,Markus
+A1 Vardi,Moshe,Y.
+YR 2008
+T1 Algorithmic-Logical Theory of Infinite Structures, 28.10. - 02.11.2007
+
+RT Journal Article
+ID 56065690
+A1 Bonatti,Piero,A.
+A1 Lutz,Carsten
+A1 Murano,Aniello
+A1 Vardi,Moshe,Y.
+YR 2008
+T1 The Complexity of Enriched Mu-Calculi
+
+RT Journal Article
+ID 4361556
+A1 Vardi,Moshe,Y.
+YR 2008
+T1 CACM: past, present, and future
+JF Communications of The ACM
+VO 51
+SP 44
+OP 48
+IS 1
+
+RT Journal Article
+ID 4361597
+A1 Vardi,Moshe,Y.
+YR 2008
+T1 "Where do you come from? and where are you going?
+JF Communications of The ACM
+VO 51
+SP 5
+OP 5
+IS 7
+
+RT Journal Article
+ID 4361721
+A1 Vardi,Moshe,Y.
+YR 2008
+T1 Let us---together---make CACM exciting
+JF Communications of The ACM
+VO 51
+SP 5
+OP 5
+IS 10
+
+RT Journal Article
+ID 39238428
+A1 Vardi,Moshe
+YR 2008
+T1 PODS Alberto O. Mendelzon Test-of-Time Award 2008
+
+RT Book, Whole
+ID 4319575
+A1 Rozier,Kristin,Y.
+A1 Vardi,Moshe,Y.
+YR 2007
+T1 LTL Satisfiability Checking
+SP 149
+OP 167
+
+RT Book, Whole
+ID 4323053
+A1 Vardi,Moshe,Y.
+YR 2007
+T1 Automata-Theoretic Model Checking Revisited
+SP 137
+OP 150
+
+RT Conference Proceedings
+ID 4329165
+A1 Plaku,Erion
+A1 Kavraki,Lydia,E.
+A1 Vardi,Moshe,Y.
+YR 2007
+T1 Discrete Search Leading Continuous Exploration for Kinodynamic Motion Planning
+
+RT Conference Proceedings
+ID 2467646
+A1 Cook,Byron
+A1 Gotsman,Alexey
+A1 Podelski,Andreas
+A1 Rybalchenko,Andrey
+A1 Vardi,Moshe,Y.
+YR 2007
+T1 Proving that programs eventually do something good
+SP 265
+OP 276
+
+RT Conference Proceedings
+ID 4541803
+A1 Vardi,Moshe,Y.
+YR 2007
+T1 Formal techniques for SystemC verification
+SP 188
+OP 192
+
+RT Book, Whole
+ID 2473897
+A1 Vardi,Moshe,Y.
+YR 2007
+T1 The Büchi Complementation Saga
+SP 12
+OP 22
+
+RT Book, Whole
+ID 2474176
+A1 Etessami,Kousha
+A1 Vardi,Moshe,Y.
+A1 Yannakakis,Mihalis
+YR 2007
+T1 Multi-objective Model Checking of Markov Decision Processes
+SP 50
+OP 65
+
+RT Conference Proceedings
+ID 2425005
+A1 Vardi,Moshe,Y.
+YR 2007
+T1 Formal Techniques for SystemC Verification; Position Paper
+SP 188
+OP 192
+
+RT Conference Proceedings
+ID 4527210
+A1 Babighian,Pietro
+A1 Kamhi,Gila
+A1 Vardi,Moshe
+YR 2007
+T1 PowerQuest: Trace Driven Data Mining for Power Optimization
+
+RT Book, Whole
+ID 4240332
+A1 Plaku,Erion
+A1 Kavraki,Lydia,E.
+A1 Vardi,Moshe,Y.
+YR 2007
+T1 Hybrid Systems: From Verification to Falsification
+SP 463
+OP 476
+
+RT Book, Whole
+ID 4236974
+A1 Nain,Sumit
+A1 Vardi,Moshe,Y.
+YR 2007
+T1 Branching vs. Linear Time: Semantical Perspective
+SP 19
+OP 34
+
+RT Book, Whole
+ID 4111667
+A1 Bordeaux,Lucas
+A1 Hamadi,Youssef
+A1 Vardi,Moshe,Y.
+YR 2007
+T1 An Analysis of Slow Convergence in Interval Propagation
+SP 790
+OP 797
+
+RT Journal Article
+ID 2515881
+A1 Calvanese,Diego
+A1 Giacomo,Giuseppe,De
+A1 Lenzerini,Maurizio
+A1 Vardi,Moshe,Y.
+YR 2007
+T1 View-based query processing: On the relationship between rewriting, answering and losslessness
+JF Theoretical Computer Science
+VO 371
+SP 169
+OP 182
+IS 3
+
+RT Book, Whole
+ID 4240337
+A1 Kupferman,Orna
+A1 Piterman,Nir
+A1 Vardi,Moshe,Y.
+YR 2007
+T1 From Liveness to Promptness
+SP 406
+OP 419
+
+RT Book, Whole
+ID 4245661
+A1 Aminof,Benjamin
+A1 Murano,Aniello
+A1 Vardi,Moshe,Y.
+YR 2007
+T1 Pushdown Module Checking with Imperfect Information
+SP 460
+OP 475
+
+RT Journal Article
+ID 4115488
+A1 Cook,B.
+A1 Gotsman,A.
+A1 Podelski,A.
+A1 Rybalchenko,A.
+A1 Vardi,M.
+YR 2007
+T1 Proving that software eventually does something good
+
+RT Conference Proceedings
+ID 2443353
+A1 Plaku,Erion
+A1 Kavraki,Lydia,E.
+A1 Vardi,Moshe,Y.
+YR 2007
+T1 A Motion Planner for a Hybrid Robotic System with Kinodynamic Constraints
+SP 692
+OP 697
+
+RT Journal Article
+ID 4406056
+A1 Moore,Cristopher
+A1 Istrate,Gabriel
+A1 Demopoulos,Demetrios,D.
+A1 Vardi,Moshe,Y.
+YR 2007
+T1 A continuous-discontinuous second-order transition in the satisfiability of random Horn-SAT formulas
+JF Random Structures and Algorithms
+VO 31
+SP 173
+OP 185
+IS 2
+
+RT Book, Whole
+ID 2474194
+A1 Sebastiani,Roberto
+A1 Tonetta,Stefano
+A1 Vardi,Moshe,Y.
+YR 2007
+T1 Property-Driven Partitioning for Abstraction Refinement
+SP 389
+OP 404
+
+RT Book, Whole
+ID 4590879
+A1 Vardi,Moshe,Y.
+YR 2007
+T1 17 Automata-theoretic techniques for temporal reasoning
+JF Studies in Logic and Practical Reasoning
+VO 3
+SP 971
+OP 989
+
+RT Journal Article
+ID 4395026
+A1 Pistore,Marco
+A1 Vardi,Moshe,Y.
+YR 2007
+T1 The Planning Spectrum - One, Two, Three, Infinity
+JF Journal of Artificial Intelligence Research
+VO 30
+SP 101
+OP 132
+
+RT Conference Proceedings
+ID 4235663
+A1 Armoni,Roy
+A1 Fix,Limor
+A1 Fraer,Ranan
+A1 Heyman,Tamir
+A1 Vardi,Moshe,Y.
+A1 Vizel,Yakir
+A1 Zbar,Yael
+YR 2007
+T1 Deeper Bound in BMC by Combining Constant Propagation and Abstraction
+SP 304
+OP 309
+
+RT Journal Article
+ID 4380163
+A1 Sebastiani,Roberto
+A1 Singerman,Eli
+A1 Tonetta,Stefano
+A1 Vardi,Moshe,Y.
+YR 2007
+T1 GSTE is partitioned model checking
+JF Formal Methods in System Design
+VO 31
+SP 177
+OP 196
+IS 2
+
+RT Journal Article
+ID 59795808
+A1 Grädel,E.
+A1 Kolaitis,P.
+A1 Libkin,L.
+A1 Marx,M.,J.
+A1 Spencer,J.
+A1 Vardi,M.
+A1 Venema,Y.
+A1 Weinstein,S.
+YR 2007
+T1 Finite Model Theory and Its Applications
+
+RT Journal Article
+ID 14410668
+A1 Cook,Byron
+A1 Gotsman,Alexey
+A1 Podelski,Andreas
+A1 Rybalchenko,Andrey
+A1 Vardi,Moshe,Y.
+YR 2007
+T1 Proving that programs eventually do something good
+JF Sigplan Notices
+VO 42
+SP 265
+OP 276
+IS 1
+
+RT Conference Proceedings
+ID 4249285
+A1 Downey,Rod
+A1 Khoussainov,Bakhadyr
+A1 Kuske,Dietrich
+A1 Lohrey,Markus
+A1 Vardi,Moshe,Y.
+YR 2007
+T1 07441 Summary -- Algorithmic-Logical Theory of Infinite Structures
+
+RT Conference Proceedings
+ID 4249287
+A1 Downey,Rod
+A1 Khoussainov,Bakhadyr
+A1 Kuske,Dietrich
+A1 Lohrey,Markus
+A1 Vardi,Moshe,Y.
+YR 2007
+T1 07441 Abstracts Collection -- Algorithmic-Logical Theory of Infinite Structures
+
+RT Journal Article
+ID 30053079
+A1 Tanriover,Mine,Durusu
+A1 Vardi,Moshe
+A1 Dagna,Lorenzo
+A1 Kahnert,Jens
+YR 2007
+T1 The Young Internists Working Group of the European Federation of Internal Medicine
+JF European Journal of Internal Medicine
+VO 18
+SP 255
+OP 256
+IS 3
+
+RT Conference Proceedings
+ID 2425456
+A1 Babighian,Pietro
+A1 Kamhi,Gila
+A1 Vardi,Moshe,Y.
+YR 2007
+T1 Interactive presentation: PowerQuest: trace driven data mining for power optimization
+SP 1078
+OP 1083
+
+RT Journal Article
+ID 30054201
+A1 Vardi,Moshe
+A1 Dori,Guy
+A1 Bitterman,Haim
+YR 2007
+T1 Large-bore thoracentesis — A case report of a fatal consequence
+JF European Journal of Internal Medicine
+VO 18
+SP 443
+OP 444
+IS 5
+
+RT Book, Whole
+ID 4325080
+A1 Vardi,Moshe,Y.
+YR 2007
+T1 Linear-Time Model Checking: Automata Theory in Practice
+SP 5
+OP 10
+
+RT Book, Whole
+ID 2161390
+A1 Kupferman,Orna
+A1 Piterman,Nir
+A1 Vardi,Moshe,Y.
+YR 2006
+T1 Safraless Compositional Synthesis
+SP 31
+OP 44
+
+RT Journal Article
+ID 4591133
+A1 Osherson,Daniel
+A1 Vardi,Moshe,Y.
+YR 2006
+T1 Aggregating disparate estimates of chance
+JF Games and Economic Behavior
+VO 56
+SP 148
+OP 173
+IS 1
+
+RT Journal Article
+ID 2180366
+A1 Pan,Guoqiang
+A1 Sattler,Ulrike
+A1 Vardi,Moshe,Y.
+YR 2006
+T1 BDD-based decision procedures for the modal logic K
+JF Journal of Applied Non-classical Logics
+VO 16
+SP 169
+OP 208
+IS 1-2
+
+RT Book, Whole
+ID 2429992
+A1 Armoni,Roy
+A1 Korchemny,Dmitry
+A1 Tiemeyer,Andreas
+A1 Vardi,Moshe,Y.
+A1 Zbar,Yael
+YR 2006
+T1 Deterministic Dynamic Monitors for Linear-Time Assertions
+SP 163
+OP 177
+
+RT Conference Proceedings
+ID 2185521
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 2006
+T1 Memoryful Branching-Time Logic
+SP 265
+OP 274
+
+RT Journal Article
+ID 28959404
+A1 Nesher,Nahum
+A1 Frolkis,Ina
+A1 Vardi,Moshe
+A1 Sheinberg,Nechama
+A1 Bakir,Ihsan
+A1 Caselman,Filip
+A1 Pevni,Demitri
+A1 Ben-Gal,Yanay
+A1 Sharony,Ram
+A1 Bolotin,Gil
+A1 Loberman,Dan
+A1 Uretzky,Gideon
+A1 Weinbroum,Avi,A.
+YR 2006
+T1 Higher Levels of Serum Cytokines and Myocardial Tissue Markers During On-Pump Versus Off-Pump Coronary Artery Bypass Surgery
+JF Journal of Cardiac Surgery
+VO 21
+SP 395
+OP 402
+IS 4
+
+RT Conference Proceedings
+ID 2472409
+A1 Aspray,William
+A1 Mayadas,A.,Frank
+A1 Vardi,Moshe,Y.
+A1 Zweben,Stuart,H.
+YR 2006
+T1 educational response to offshore outsourcing
+SP 330
+OP 331
+
+RT Book, Whole
+ID 2189127
+A1 Bonatti,Piero,A.
+A1 Lutz,Carsten
+A1 Murano,Aniello
+A1 Vardi,Moshe,Y.
+YR 2006
+T1 The Complexity of Enriched µ-Calculi
+SP 540
+OP 551
+
+RT Conference Proceedings
+ID 2472407
+A1 Armoni,M.
+A1 Rodger,S.
+A1 Vardi,Moshe,Y.
+A1 Verma,R.
+YR 2006
+T1 Automata theory: its relevance to computer science students and course contents
+SP 197
+OP 198
+
+RT Conference Proceedings
+ID 2185535
+A1 Pan,Guoqiang
+A1 Vardi,Moshe,Y.
+YR 2006
+T1 Fixed-Parameter Hierarchies inside PSPACE
+SP 27
+OP 36
+
+RT Journal Article
+ID 2180065
+A1 Friedgut,Ehud
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 2006
+T1 Büchi Complementation Made Tighter
+JF International Journal of Foundations of Computer Science
+VO 17
+SP 851
+OP 868
+IS 4
+
+RT Book, Whole
+ID 2462282
+A1 Kupferman,Orna
+A1 Lustig,Yoad
+A1 Vardi,Moshe,Y.
+YR 2006
+T1 On Locally Checkable Properties
+SP 302
+OP 316
+
+RT Journal Article
+ID 2515084
+A1 Chockler,Hana
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 2006
+T1 Coverage metrics for formal verification
+JF International Journal on Software Tools for Technology Transfer
+VO 8
+SP 373
+OP 386
+IS 4-5
+
+RT Journal Article
+ID 4596713
+A1 Vardi,Moshe,Y.
+YR 2006
+T1 B¨ uchi Complementation: A Forty-Year Saga
+
+RT Conference Proceedings
+ID 13313193
+A1 Kautz,Henry,A.
+A1 Thomas,Wolfgang
+A1 Vardi,Moshe,Y.
+YR 2006
+T1 Synthesis and Planning, 12.-17. June 2005
+
+RT Journal Article
+ID 1710379
+A1 Kupferman,Orna
+A1 Safra,Shmuel
+A1 Vardi,Moshe,Y.
+YR 2006
+T1 Relating word and tree automata
+JF Annals of Pure and Applied Logic
+VO 138
+SP 126
+OP 146
+IS 1-3
+
+RT Journal Article
+ID 14412807
+A1 Aspray,William
+A1 Mayadas,A.,Frank
+A1 Vardi,Moshe,Y.
+A1 Zweben,Stuart,H.
+YR 2006
+T1 educational response to offshore outsourcing
+JF ACM Sigcse Bulletin
+VO 38
+SP 330
+OP 331
+IS 1
+
+RT Journal Article
+ID 14412772
+A1 Armoni,M.
+A1 Rodger,S.
+A1 Vardi,M.
+A1 Verma,R.
+YR 2006
+T1 automata theory: its relevance to computer science students and course contents
+JF ACM Sigcse Bulletin
+VO 38
+SP 197
+OP 198
+IS 1
+
+RT Conference Proceedings
+ID 1792545
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 2005
+T1 Safraless Decision Procedures
+SP 531
+OP 542
+
+RT Book, Whole
+ID 1848433
+A1 Bustan,Doron
+A1 Flaisher,Alon
+A1 Grumberg,Orna
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 2005
+T1 Regular Vacuity
+SP 191
+OP 206
+
+RT Book, Whole
+ID 1810281
+A1 Tabakov,Deian
+A1 Vardi,Moshe,Y.
+YR 2005
+T1 Experimental Evaluation of Classical Automata Constructions
+SP 396
+OP 411
+
+RT Book, Whole
+ID 1797099
+A1 Calvanese,Diego
+A1 Giacomo,Giuseppe,De
+A1 Lenzerini,Maurizio
+A1 Vardi,Moshe,Y.
+YR 2005
+T1 View-Based Query Processing: On the Relationship Between Rewriting, Answering and Losslessness
+SP 321
+OP 336
+
+RT Book, Whole
+ID 1767586
+A1 Arons,Tamarah
+A1 Elster,Elad
+A1 Fix,Limor
+A1 Mador-haim,Sela
+A1 Mishaeli,Michael
+A1 Shalev,Jonathan
+A1 Singerman,Eli
+A1 Tiemeyer,Andreas
+A1 Vardi,Moshe,Y.
+A1 Zuck,Lenore,D.
+YR 2005
+T1 Formal Verification of Backward Compatibility of Microcode
+SP 185
+OP 198
+
+RT Journal Article
+ID 1723840
+A1 Armoni,Roy
+A1 Fix,Limor
+A1 Fraer,Ranan
+A1 Huddleston,Scott
+A1 Piterman,Nir
+A1 Vardi,Moshe,Y.
+YR 2005
+T1 SAT-based Induction for Temporal Safety Properties
+JF Electronic Notes in Theoretical Computer Science
+VO 119
+SP 3
+OP 16
+IS 2
+
+RT Book, Whole
+ID 1767599
+A1 Sebastiani,Roberto
+A1 Tonetta,Stefano
+A1 Vardi,Moshe,Y.
+YR 2005
+T1 Symbolic Systems, Explicit Properties: On Hybrid Approaches for LTL Symbolic Model Checking
+SP 350
+OP 363
+
+RT Book, Whole
+ID 1842578
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 2005
+T1 Complementation Constructions for Nondeterministic Automata on Infinite Words
+SP 206
+OP 221
+
+RT Conference Proceedings
+ID 2189537
+A1 Armoni,Roy
+A1 Egorov,Sergey
+A1 Fraer,Ranan
+A1 Korchemny,Dmitry
+A1 Vardi,Moshe,Y.
+YR 2005
+T1 Efficient LTL compilation for SAT-based model checking
+SP 877
+OP 884
+
+RT Journal Article
+ID 1247870
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 2005
+T1 From linear time to branching time
+JF ACM Transactions on Computational Logic
+VO 6
+SP 273
+OP 294
+IS 2
+
+RT Journal Article
+ID 31831305
+A1 Nesher,Nahum
+A1 Uretzky,Gideon
+A1 Insler,Steven
+A1 Nataf,Patrick
+A1 Frolkis,Inna
+A1 Pineau,Emmanuelle
+A1 Cantoni,Emmanuel
+A1 Bolotin,Gil
+A1 Vardi,Moshe
+A1 Pevni,Dimitry
+A1 Lev-Ran,Oren
+A1 Sharony,Ram
+A1 Weinbroum,Avi,A.
+YR 2005
+T1 Thermo-wrap technology preserves normothermia better than routine thermal care in patients undergoing off-pump coronary artery bypass and is associated with lower immune response and lesser myocardial damage
+JF Journal of Thoracic and Cardiovascular Surgery
+VO 129
+SP 1371
+OP 1378
+IS 6
+
+RT Journal Article
+ID 2505843
+A1 Pan,Guoqiang
+A1 Vardi,Moshe,Y.
+YR 2005
+T1 Symbolic Techniques in Satisfiability Solving
+JF Journal of Automated Reasoning
+VO 35
+SP 25
+OP 50
+IS 1-3
+
+RT Journal Article
+ID 1707883
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 2005
+T1 From complementation to certification
+JF Theoretical Computer Science
+VO 345
+SP 83
+OP 100
+IS 1
+
+RT Conference Proceedings
+ID 1860589
+A1 Kautz,Henry,A.
+A1 Thomas,Wolfgang
+A1 Vardi,Moshe,Y.
+YR 2005
+T1 05241 Executive Summary - Synthesis and Planning
+
+RT Book, Whole
+ID 1810296
+A1 Ferrara,Andrea
+A1 Pan,Guoqiang
+A1 Vardi,Moshe,Y.
+YR 2005
+T1 Treewidth in Verification: Local vs. Global
+SP 489
+OP 503
+
+RT Book, Whole
+ID 1797086
+A1 Vardi,Moshe,Y.
+YR 2005
+T1 Model Checking for Database Theoreticians
+SP 1
+OP 16
+
+RT Journal Article
+ID 1707700
+A1 Calvanese,Diego
+A1 Giacomo,Giuseppe,De
+A1 Vardi,Moshe,Y.
+YR 2005
+T1 Decidable containment of recursive queries
+JF Theoretical Computer Science
+VO 336
+SP 33
+OP 56
+IS 1
+
+RT Book, Whole
+ID 1847626
+A1 Moore,Cristopher
+A1 Istrate,Gabriel
+A1 Demopoulos,Demetrios,D.
+A1 Vardi,Moshe,Y.
+YR 2005
+T1 A Continuous-Discontinuous Second-Order Transition in the Satisfiability of Random Horn-SAT Formulas
+SP 414
+OP 425
+
+RT Journal Article
+ID 1731828
+A1 Abiteboul,Serge
+A1 Hull,Richard
+A1 Vianu,Victor
+A1 Greibach,Sheila,A.
+A1 Harrison,Michael,A.
+A1 Horowitz,Ellis
+A1 Rosenkrantz,Daniel,J.
+A1 Ullman,Jeffrey,D.
+A1 Vardi,Moshe,Y.
+YR 2005
+T1 In memory of Seymour Ginsburg 1928 - 2004
+JF Sigmod Record
+VO 34
+SP 5
+OP 12
+IS 1
+
+RT Journal Article
+ID 3940360
+A1 Demopoulos,D.
+A1 Vardi,M.
+YR 2005
+T1 The phase transition in random 1-3 Horn-sat problems
+
+RT Conference Proceedings
+ID 1860635
+A1 Kautz,Henry,A.
+A1 Thomas,Wolfgang
+A1 Vardi,Moshe,Y.
+YR 2005
+T1 05241 Abstracts Collection - Synthesis and Planning
+
+RT Journal Article
+ID 1722017
+A1 Halpern,Joseph,Y.
+A1 Meyden,Ron,van,der
+A1 Vardi,Moshe,Y.
+YR 2004
+T1 Complete Axiomatizations for Reasoning about Knowledge and Time
+JF Siam Journal on Computing
+VO 33
+SP 674
+OP 703
+IS 3
+
+RT Book, Whole
+ID 2160262
+A1 Pan,Guoqiang
+A1 Vardi,Moshe,Y.
+YR 2004
+T1 Symbolic Decision Procedures for QBF
+SP 453
+OP 467
+
+RT Book, Whole
+ID 1878002
+A1 Friedgut,Ehud
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 2004
+T1 Büchi Complementation Made Tighter
+SP 64
+OP 78
+
+RT Book, Whole
+ID 1865763
+A1 Panand,Guoqiang
+A1 Vardi,Moshe,Y.
+YR 2004
+T1 Search vs. Symbolic Techniques in Satisfiability Solving
+SP 235
+OP 250
+
+RT Book, Whole
+ID 2161327
+A1 Sebastiani,Roberto
+A1 Singerman,Eli
+A1 Tonetta,Stefano
+A1 Vardi,Moshe,Y.
+YR 2004
+T1 GSTE Is Partitioned Model Checking
+SP 229
+OP 241
+
+RT Book, Whole
+ID 631917
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 2004
+T1 From Complementation to Certification
+SP 591
+OP 606
+
+RT Book, Whole
+ID 1761664
+A1 Atserias,Albert
+A1 Kolaitis,Phokion,G.
+A1 Vardi,Moshe,Y.
+YR 2004
+T1 Constraint Propagation as a Proof System
+SP 77
+OP 91
+
+RT Book, Whole
+ID 2161323
+A1 Bustan,Doron
+A1 Rubin,Sasha
+A1 Vardi,Moshe,Y.
+YR 2004
+T1 Verifying omega-Regular Properties of Markov Chains
+SP 189
+OP 201
+
+RT Book, Whole
+ID 2161338
+A1 Piterman,Nir
+A1 Vardi,Moshe,Y.
+YR 2004
+T1 Global Model-Checking of Infinite-State Systems
+SP 387
+OP 400
+
+RT Book, Whole
+ID 511045
+A1 Mcmahan,Benjamin,J.
+A1 Pan,Guoqiang
+A1 Porter,Patrick
+A1 Vardi,Moshe,Y.
+YR 2004
+T1 Projection Pushing Revisited
+SP 441
+OP 458
+
+RT Journal Article
+ID 31964996
+A1 Vakil,Eli
+A1 Blachstein,Haya
+A1 Rochberg,Judith
+A1 Vardi,Moshe
+YR 2004
+T1 Characterization of Memory Impairment Following Closed-Head Injury in Children Using the Rey Auditory Verbal Learning Test (AVLT)
+JF Child Neuropsychology
+VO 10
+SP 57
+OP 66
+IS 2
+
+RT Conference Proceedings
+ID 4602817
+A1 Terem,Zvi
+A1 Kamhi,Gila
+A1 Vardi,Moshe,Y.
+A1 Irron,Amitai
+YR 2004
+T1 Pattern search in hierarchical high-level designs
+
+RT Book, Whole
+ID 633375
+A1 Bustan,Doron
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 2004
+T1 A Measured Collapse of the Modal µ-Calculus Alternation Hierarchy
+SP 522
+OP 533
+
+RT Conference Proceedings
+ID 50364022
+A1 Kolaitis,P.
+A1 Nieuwenhuis,R.
+A1 Podelski,A.
+A1 Vardi,M.
+A1 Voronkov,A.
+A1 Waldmann,U.
+A1 Wilhelm,R.
+YR 2004
+T1 Dedicated to the memory of Harald Ganzinger
+
+RT Journal Article
+ID 2331463
+A1 Demopoulos,Demetrios
+A1 Vardi,Moshe,Y.
+YR 2004
+T1 The phase transition in the random 1-3-HornSAT problem
+
+RT Book, Whole
+ID 647754
+A1 Chockler,Hana
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 2003
+T1 Coverage Metrics for Formal Verification
+SP 111
+OP 125
+
+RT Book, Whole
+ID 39216
+A1 Glusman,Marcelo
+A1 Kamhi,Gila
+A1 Mador-haim,Sela
+A1 Fraer,Ranan
+A1 Vardi,Moshe,Y.
+YR 2003
+T1 Multiple-Counterexample Guided Iterative Abstraction Refinement: An Industrial Evaluation
+SP 176
+OP 191
+
+RT Journal Article
+ID 801977
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 2003
+T1 Vacuity detection in temporal model checking
+JF International Journal on Software Tools for Technology Transfer
+VO 4
+SP 224
+OP 233
+IS 2
+
+RT Book, Whole
+ID 12361
+A1 Armoni,Roy
+A1 Fix,Limor
+A1 Flaisher,Alon
+A1 Grumberg,Orna
+A1 Piterman,Nir
+A1 Tiemeyer,Andreas
+A1 Vardi,Moshe,Y.
+YR 2003
+T1 Enhanced Vacuity Detection in Linear Temporal Logic
+SP 368
+OP 380
+
+RT Book, Whole
+ID 647744
+A1 Gurumurthy,Sankar
+A1 Kupferman,Orna
+A1 Somenzi,Fabio
+A1 Vardi,Moshe,Y.
+YR 2003
+T1 On Complementing Nondeterministic Büchi Automata
+SP 96
+OP 110
+
+RT Book, Whole
+ID 49266
+A1 Calvanese,Diego
+A1 Giacomo,Giuseppe,De
+A1 Vardi,Moshe,Y.
+YR 2003
+T1 Decidable Containment of Recursive Queries
+SP 327
+OP 342
+
+RT Book, Whole
+ID 20883
+A1 Pan,Guoqiang
+A1 Vardi,Moshe,Y.
+YR 2003
+T1 Optimizing a BDD-Based Modal Solver
+SP 75
+OP 89
+
+RT Conference Proceedings
+ID 26038
+A1 Feder,Tomás
+A1 Vardi,Moshe,Y.
+YR 2003
+T1 Homomorphism Closed vs. Existential Positive
+SP 311
+OP 320
+
+RT Book, Whole
+ID 42506
+A1 Armoni,Roy
+A1 Bustan,Doron
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 2003
+T1 Resets vs. Aborts in Linear Temporal Logic
+SP 65
+OP 80
+
+RT Journal Article
+ID 4875109
+A1 Skomorovski,Kirill
+A1 Harpak,Hila
+A1 Ianovski,Anton
+A1 Vardi,Moshe
+A1 Visser,Trudi,P
+A1 Hartong,Simone,CC
+A1 Vliet,Huub,HDM
+A1 Wagemaker,Gerard
+A1 Agur,Zvia
+YR 2003
+T1 New TPO treatment schedules of increased safety and efficacy: pre-clinical validation of a thrombopoiesis simulation model
+JF British Journal of Haematology
+VO 123
+SP 683
+OP 691
+IS 4
+
+RT Journal Article
+ID 2864917
+A1 Halpern,J.
+A1 Meyden,R.,Van,Der
+A1 Vardi,M.,Y.
+YR 2003
+T1 Complete axiomatisations for reasoning about knowledge and time
+JF Siam Journal on Computing
+
+RT Conference Proceedings
+ID 2648663
+A1 Armoni,Roy
+A1 Bustan,Doron
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 2003
+T1 Aborts vs Resets in Linear Temporal Logic
+
+RT Conference Proceedings
+ID 565296
+A1 Calvanese,Diego
+A1 Giacomo,Giuseppe,De
+A1 Lenzerini,Maurizio
+A1 Vardi,Moshe,Y.
+YR 2003
+T1 View-based query containment
+SP 56
+OP 67
+
+RT Journal Article
+ID 855129
+A1 Calvanese,Diego
+A1 Giacomo,Giuseppe,De
+A1 Lenzerini,Maurizio
+A1 Vardi,Moshe,Y.
+YR 2003
+T1 Reasoning on regular path queries
+JF Sigmod Record
+VO 32
+SP 83
+OP 92
+IS 4
+
+RT Conference Proceedings
+ID 22705
+A1 Pistore,Marco
+A1 Vardi,Moshe,Y.
+YR 2003
+T1 The Planning Spectrum - One, Two, Three, Infinity
+SP 234
+OP 243
+
+RT Conference Proceedings
+ID 925135
+A1 Vardi,Moshe,Y.
+YR 2003
+T1 A call to regularity
+SP 11
+OP 11
+
+RT Journal Article
+ID 760145
+A1 Piterman,Nir
+A1 Vardi,Moshe,Y.
+YR 2003
+T1 From bidirectionality to alternation
+JF Theoretical Computer Science
+VO 295
+SP 295
+OP 321
+IS 1-3
+
+RT Book, Whole
+ID 214882
+A1 Kupferman,Orna
+A1 Piterman,Nir
+A1 Vardi,Moshe,Y.
+YR 2003
+T1 Fair Equivalence Relations
+SP 702
+OP 732
+
+RT Book, Whole
+ID 603187
+A1 Vardi,Moshe,Y.
+YR 2003
+T1 Logic and Automata: A Match Made in Heaven
+SP 64
+OP 65
+
+RT Conference Proceedings
+ID 3531599
+A1 Pan,G.
+A1 Vardi,M.,Y.
+YR 2003
+T1 Optimizing a symbolic modal solver
+
+RT Conference Proceedings
+ID 616424
+A1 Vardi,Moshe,Y.
+YR 2003
+T1 Automated Verification: Graphs, Logic, and Automata
+SP 1603
+OP 1606
+
+RT Conference Proceedings
+ID 556579
+A1 Piterman,Nir
+A1 Vardi,Moshe,Y.
+YR 2003
+T1 Micro-Macro Stack Systems: A New Frontier of Elementary Decidability for Sequential Systems
+SP 381
+OP 390
+
+RT Conference Proceedings
+ID 925134
+A1 Abiteboul,Serge
+A1 Kuper,Gabriel,M.
+A1 Mairson,Harry,G.
+A1 Shvartsman,Alexander,A.
+A1 Vardi,Moshe,Y.
+YR 2003
+T1 In Memoriam: Paris C. Kanellakis
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 570523
+A1 Calvanese,Diego
+A1 Giacomo,Giuseppe,De
+A1 Lenzerini,Maurizio
+A1 Vardi,Moshe,Y.
+YR 2003
+T1 Query Containment Using Views
+SP 467
+OP 474
+
+RT Conference Proceedings
+ID 602804
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 2003
+T1 Pi2 cap Sigma2 equiv AFMC
+SP 697
+OP 713
+
+RT Conference Proceedings
+ID 13288823
+A1 Vardi,Moshe,Y.
+A1 Voronkov,Andrei
+YR 2003
+T1 Logic for Programming, Artificial Intelligence, and Reasoning, 10th International Conference, LPAR 2003, Almaty, Kazakhstan, September 22-26, 2003, Proceedings
+
+RT Conference Proceedings
+ID 631787
+A1 Armoni,Roy
+A1 Fix,Limor
+A1 Flaisher,Alon
+A1 Gerth,Rob
+A1 Ginsburg,Boris
+A1 Kanza,Tomer
+A1 Landver,Avner
+A1 Mador-haim,Sela
+A1 Singerman,Eli
+A1 Tiemeyer,Andreas
+A1 Vardi,Moshe,Y.
+A1 Zbar,Yael
+YR 2002
+T1 The ForSpec Temporal Logic: A New Temporal Property-Specification Language
+SP 296
+OP 211
+
+RT Journal Article
+ID 820570
+A1 Etessami,Kousha
+A1 Vardi,Moshe,Y.
+A1 Wilke,Thomas
+YR 2002
+T1 First-Order Logic with Two Variables and Unary Temporal Logic
+JF Information and Computation/information and Control
+VO 179
+SP 279
+OP 295
+IS 2
+
+RT Journal Article
+ID 1711739
+A1 Halpern,Joseph,Y.
+A1 Meyden,Ron,Van,Der
+A1 Vardi,Moshe,Y.
+YR 2002
+T1 Complete Axiomatizations for Reasoning About Knowledge and Time
+JF Computing Research Repository
+VO cs.LO/0208
+
+RT Book, Whole
+ID 25985
+A1 Dalmau,Víctor
+A1 Kolaitis,Phokion,G.
+A1 Vardi,Moshe,Y.
+YR 2002
+T1 Constraint Satisfaction, Bounded Treewidth, and Finite-Variable Logics
+SP 310
+OP 326
+
+RT Book, Whole
+ID 61304
+A1 Kupferman,Orna
+A1 Sattler,Ulrike
+A1 Vardi,Moshe,Y.
+YR 2002
+T1 The Complexity of the Graded µ-Calculus
+SP 423
+OP 437
+
+RT Conference Proceedings
+ID 71329
+A1 Calvanese,Diego
+A1 Giacomo,Giuseppe,De
+A1 Lenzerini,Maurizio
+A1 Vardi,Moshe,Y.
+YR 2002
+T1 Lossless regular views
+SP 247
+OP 258
+
+RT Conference Proceedings
+ID 56033
+A1 Pan,Guoqiang
+A1 Sattler,Ulrike
+A1 Vardi,Moshe,Y.
+YR 2002
+T1 BDD-Based Decision Procedures for K
+SP 16
+OP 30
+
+RT Conference Proceedings
+ID 71717
+A1 Calvanese,Diego
+A1 Giacomo,Giuseppe,De
+A1 Vardi,Moshe,Y.
+YR 2002
+T1 Reasoning about Actions and Planning in LTL Action Theories
+SP 593
+OP 602
+
+RT Journal Article
+ID 790803
+A1 Calvanese,Diego
+A1 Giacomo,Giuseppe,De
+A1 Lenzerini,Maurizio
+A1 Vardi,Moshe,Y.
+YR 2002
+T1 Rewriting of Regular Expressions and Regular Path Queries
+JF Journal of Computer and System Sciences
+VO 64
+SP 443
+OP 465
+IS 3
+
+RT Book, Whole
+ID 402811
+A1 Kupferman,Orna
+A1 Piterman,Nir
+A1 Vardi,Moshe,Y.
+YR 2002
+T1 Pushdown Specifications
+SP 262
+OP 277
+
+RT Journal Article
+ID 820605
+A1 Harel,David
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 2002
+T1 On the Complexity of Verifying Concurrent Transition Systems
+JF Information and Computation/information and Control
+VO 173
+SP 143
+OP 161
+IS 2
+
+RT Conference Proceedings
+ID 3899099
+A1 Armoni,R.
+A1 Fix,L.
+A1 Flaisher,A.
+A1 Gerth,R.
+A1 Ginsburg,B.
+A1 Kanza,T.
+A1 Landver,A.
+A1 Mador-haim,S.
+A1 Singerman,E.
+A1 Tiemeyer,A.
+A1 Vardi,M.,Y.
+A1 Zbar,Y.
+YR 2002
+T1 The For-Spec temporal logic: A new temporal property-specification logic
+
+RT Book, Whole
+ID 67196
+A1 Kupferman,Orna
+A1 Piterman,Nir
+A1 Vardi,Moshe,Y.
+YR 2002
+T1 Model Checking Linear Properties of Prefix-Recognizable Systems
+SP 371
+OP 385
+
+RT Journal Article
+ID 788863
+A1 Peled,Doron
+A1 Vardi,Moshe,Y.
+A1 Yannakakis,Mihalis
+YR 2002
+T1 Black Box Checking
+JF Journal of Automata, Languages and Combinatorics
+VO 7
+SP 225
+OP 246
+IS 2
+
+RT Journal Article
+ID 782489
+A1 Fisler,Kathi
+A1 Vardi,Moshe,Y.
+YR 2002
+T1 Bisimulation Minimization and Symbolic Model Checking
+JF Formal Methods in System Design
+VO 21
+SP 39
+OP 78
+IS 1
+
+RT Conference Proceedings
+ID 71851
+A1 Batsell,Randy
+A1 Brenner,Lyle
+A1 Osherson,Daniel,N.
+A1 Tsavachidis,Spyros
+A1 Vardi,Moshe,Y.
+YR 2002
+T1 Eliminating Incoherence from Subjective Estimates of Chance
+SP 353
+OP 364
+
+RT Journal Article
+ID 775997
+A1 Kennedy,Ken
+A1 Vardi,Moshe,Y.
+YR 2002
+T1 A Rice University perspective on software engineering licensing
+JF Communications of The ACM
+VO 45
+SP 94
+OP 95
+IS 11
+
+RT Journal Article
+ID 54590249
+A1 Halpern,Joseph,Y.
+A1 Meyden,Ron,van,der
+A1 Vardi,Moshe,Y.
+YR 2002
+T1 Complete Axiomatizations for Reasoning About Knowledge and Time
+
+RT Conference Proceedings
+ID 13292855
+A1 Peled,Doron
+A1 Vardi,Moshe,Y.
+YR 2002
+T1 Formal Techniques for Networked and Distributed Systems - FORTE 2002, 22nd IFIP WG 6.1 International Conference Houston, Texas, USA, November 11-14, 2002, Proceedings
+
+RT Journal Article
+ID 15232528
+A1 Fisler,Kathi
+A1 Vardi,Moshe,Y.
+YR 2002
+T1 Bisimulation Minimization and Symbolic Model Checking
+JF Formal Methods in System Design
+VO 21
+SP 39
+OP 78
+IS 1
+
+RT Journal Article
+ID 817681
+A1 Vardi,Moshe,Y.
+YR 2002
+T1 Model Checking: A Complexity-Theoretic Perspective (invited talk)
+JF Electronic Notes in Theoretical Computer Science
+VO 68
+SP 484
+OP 484
+IS 4
+
+RT Book, Whole
+ID 448207
+A1 Copty,Fady
+A1 Fix,Limor
+A1 Fraer,Ranan
+A1 Giunchiglia,Enrico
+A1 Kamhi,Gila
+A1 Tacchella,Armando
+A1 Vardi,Moshe,Y.
+YR 2001
+T1 Benefits of Bounded Model Checking at an Industrial Setting
+SP 436
+OP 453
+
+RT Journal Article
+ID 803313
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 2001
+T1 Weak alternating automata are not that weak
+JF ACM Transactions on Computational Logic
+VO 2
+SP 408
+OP 429
+IS 3
+
+RT Journal Article
+ID 782468
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 2001
+T1 Model Checking of Safety Properties
+JF Formal Methods in System Design
+VO 19
+SP 291
+OP 314
+IS 3
+
+RT Book, Whole
+ID 118446
+A1 Vardi,Moshe,Y.
+YR 2001
+T1 Branching vs. Linear Time: Final Showdown
+SP 1
+OP 22
+
+RT Conference Proceedings
+ID 138409
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 2001
+T1 Synthesizing Distributed Systems
+
+RT Book, Whole
+ID 135152
+A1 Chockler,Hana
+A1 Kupferman,Orna
+A1 Kurshan,Robert,P.
+A1 Vardi,Moshe,Y.
+YR 2001
+T1 A Practical Approach to Coverage in Model Checking
+SP 66
+OP 78
+
+RT Journal Article
+ID 818714
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+A1 Wolper,Pierre
+YR 2001
+T1 Module Checking
+JF Information and Computation/information and Control
+VO 164
+SP 322
+OP 344
+IS 2
+
+RT Conference Proceedings
+ID 631856
+A1 Chockler,Hana
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 2001
+T1 Coverage Metrics for Temporal Logic Model Checking
+SP 528
+OP 542
+
+RT Book, Whole
+ID 102969
+A1 Calvanese,Diego
+A1 Giacomo,Giuseppe,De
+A1 Lenzerini,Maurizio
+A1 Vardi,Moshe,Y.
+YR 2001
+T1 View-Based Query Answering and Query Containment over Semistructured Data
+SP 40
+OP 61
+
+RT Journal Article
+ID 782486
+A1 Hardin,R.,H.
+A1 Kurshan,Robert,P.
+A1 Shukla,Sandeep,K.
+A1 Vardi,Moshe,Y.
+YR 2001
+T1 A New Heuristic for Bad Cycle Detection Using BDDs
+JF Formal Methods in System Design
+VO 18
+SP 131
+OP 140
+IS 2
+
+RT Book, Whole
+ID 135271
+A1 Sattler,Ulrike
+A1 Vardi,Moshe,Y.
+YR 2001
+T1 The Hybrid µ-Calculus
+SP 76
+OP 91
+
+RT Book, Whole
+ID 180229
+A1 Fisler,Kathi
+A1 Fraer,Ranan
+A1 Kamhi,Gila
+A1 Vardi,Moshe,Y.
+A1 Yang,Zijiang
+YR 2001
+T1 Is There a Best Symbolic Cycle-Detection Algorithm?
+SP 420
+OP 434
+
+RT Journal Article
+ID 147982
+A1 Halpern,Joseph,Y.
+A1 Harper,Robert
+A1 Immerman,Neil
+A1 Kolaitis,Phokion,G.
+A1 Vardi,Moshe,Y.
+A1 Vianu,Victor
+YR 2001
+T1 On the unusual effectiveness of logic in computer science
+JF The Bulletin of Symbolic Logic
+VO 7
+SP 213
+OP 236
+IS 2
+
+RT Book, Whole
+ID 101516
+A1 Kupferman,Orna
+A1 Piterman,Nir
+A1 Vardi,Moshe,Y.
+YR 2001
+T1 Extended Temporal Logic Revisited
+SP 519
+OP 535
+
+RT Journal Article
+ID 414517
+A1 Kesten,Yonit
+A1 Pnueli,Amir
+A1 Vardi,Moshe,Y.
+YR 2001
+T1 Verification by Augmented Abstraction: The Automata-Theoretic View
+JF Journal of Computer and System Sciences
+VO 62
+SP 668
+OP 690
+IS 4
+
+RT Book, Whole
+ID 167793
+A1 King,Valerie
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 2001
+T1 On the Complexity of Parity Word Automata
+SP 276
+OP 286
+
+RT Book, Whole
+ID 557414
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 2001
+T1 On Bounded Specifications
+SP 24
+OP 38
+
+RT Book, Whole
+ID 429128
+A1 Aguirre,Alfonso,San,Miguel
+A1 Vardi,Moshe,Y.
+YR 2001
+T1 Random 3SAT and BDDs: The Plot Thickens Further
+SP 121
+OP 136
+
+RT Book, Whole
+ID 135828
+A1 Piterman,Nir
+A1 Vardi,Moshe,Y.
+YR 2001
+T1 From Bidirectionality to Alternation
+SP 598
+OP 610
+
+RT Journal Article
+ID 4786384
+A1 Giunchiglia,Enrico
+A1 Narizzano,Massimo
+A1 Tacchella,Armando
+A1 Vardi,Moshe,Y.
+YR 2001
+T1 Towards an Efficient Library for SAT: a Manifesto
+JF Electronic Notes in Discrete Mathematics
+VO 9
+SP 290
+OP 310
+
+RT Conference Proceedings
+ID 3330797
+A1 Vardi,M.,Y.
+A1 Branching,Vs
+YR 2001
+T1 Linear time: Final showdown
+
+RT Journal Article
+ID 15232512
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 2001
+T1 Model Checking of Safety Properties
+JF Formal Methods in System Design
+VO 19
+SP 291
+OP 314
+IS 3
+
+RT Journal Article
+ID 15232490
+A1 Hardin,R.,H.
+A1 Kurshan,R.,P.
+A1 Shukla,S.,K.
+A1 Vardi,M.,Y.
+YR 2001
+T1 A New Heuristic for Bad Cycle Detection Using BDDs
+JF Formal Methods in System Design
+VO 18
+SP 131
+OP 140
+IS 2
+
+RT Journal Article
+ID 14448316
+A1 Fraer,Ranan
+A1 Kamhi,Gila
+A1 Fix,Limor
+A1 Vardi,Moshe,Y.
+YR 2001
+T1 Evaluating Semi-Exhaustive Verification Techniques for Bug Hunting
+JF Electronic Notes in Theoretical Computer Science
+VO 23
+SP 11
+OP 22
+IS 2
+
+RT Journal Article
+ID 787120
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+A1 Wolper,Pierre
+YR 2000
+T1 An automata-theoretic approach to branching-time model checking
+JF Journal of The ACM
+VO 47
+SP 312
+OP 360
+IS 2
+
+RT Journal Article
+ID 791002
+A1 Kolaitis,Phokion,G.
+A1 Vardi,Moshe,Y.
+YR 2000
+T1 Conjunctive-Query Containment and Constraint Satisfaction
+JF Journal of Computer and System Sciences
+VO 61
+SP 302
+OP 332
+IS 2
+
+RT Conference Proceedings
+ID 256992
+A1 Calvanese,Diego
+A1 Giacomo,Giuseppe,De
+A1 Lenzerini,Maurizio
+A1 Vardi,Moshe,Y.
+YR 2000
+T1 Answering Regular Path Queries Using Views
+SP 389
+OP 398
+
+RT Conference Proceedings
+ID 107213
+A1 Calvanese,Diego
+A1 Giacomo,Giuseppe,De
+A1 Lenzerini,Maurizio
+A1 Vardi,Moshe,Y.
+YR 2000
+T1 View-Based Query Processing and Constraint Satisfaction
+SP 361
+OP 371
+
+RT Book, Whole
+ID 261362
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 2000
+T1 An Automata-Theoretic Approach to Reasoning about Infinite-State Systems
+SP 36
+OP 52
+
+RT Conference Proceedings
+ID 262812
+A1 Calvanese,Diego
+A1 Giacomo,Giuseppe,De
+A1 Lenzerini,Maurizio
+A1 Vardi,Moshe,Y.
+YR 2000
+T1 Containment of Conjunctive Regular Path Queries with Inverse
+SP 176
+OP 185
+
+RT Conference Proceedings
+ID 260118
+A1 Calvanese,Diego
+A1 Vardi,Moshe,Y.
+A1 Giacomo,Giuseppe,de
+A1 Lenzerini,Maurizio
+YR 2000
+T1 View-based query processing for regular path queries with inverse
+SP 58
+OP 66
+
+RT Book, Whole
+ID 229001
+A1 Kupferman,Orna
+A1 Madhusudan,P.
+A1 Thiagarajan,P.,S.
+A1 Vardi,Moshe,Y.
+YR 2000
+T1 Open Systems in Reactive Environments: Control and Synthesis
+SP 92
+OP 107
+
+RT Conference Proceedings
+ID 74135
+A1 Kolaitis,Phokion,G.
+A1 Vardi,Moshe,Y.
+YR 2000
+T1 A Game-Theoretic Approach to Constraint Satisfaction
+SP 175
+OP 181
+
+RT Conference Proceedings
+ID 1364511
+A1 Calvanese,D.
+A1 Giacomo,G.,De
+A1 Lenzerini,M.
+A1 Vardi,M.,Y.
+YR 2000
+T1 Query processing using views for regular path queries with inverse
+
+RT Journal Article
+ID 857272
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 2000
+T1 An automata-theoretic approach to modular model checking
+JF ACM Transactions on Programming Languages and Systems
+VO 22
+SP 87
+OP 128
+IS 1
+
+RT Conference Proceedings
+ID 260837
+A1 Vardi,Moshe,Y.
+YR 2000
+T1 Constraint satisfaction and database theory: a tutorial
+SP 76
+OP 85
+
+RT Book, Whole
+ID 448160
+A1 Fraer,Ranan
+A1 Kamhi,Gila
+A1 Ziv,Barukh
+A1 Vardi,Moshe,Y.
+A1 Fix,Limor
+YR 2000
+T1 Prioritized Traversal: Efficient Reachability Analysis for Verification and Falsification
+SP 389
+OP 402
+
+RT Book, Whole
+ID 87822
+A1 Coarfa,Cristian
+A1 Demopoulos,Demetrios,D.
+A1 Aguirre,Alfonso,San,Miguel
+A1 Subramanian,Devika
+A1 Vardi,Moshe,Y.
+YR 2000
+T1 Random 3SAT: The Plot Thickens
+SP 143
+OP 159
+
+RT Book, Whole
+ID 217288
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 2000
+T1 µ-Calculus Synthesis
+SP 497
+OP 507
+
+RT Book, Whole
+ID 89670
+A1 Calvanese,Diego
+A1 Giacomo,Giuseppe,De
+A1 Lenzerini,Maurizio
+A1 Vardi,Moshe,Y.
+YR 2000
+T1 What is Query Rewriting?
+SP 51
+OP 59
+
+RT Journal Article
+ID 1281265
+A1 Vardi,M.
+YR 2000
+T1 Constraint satisfaction and database theory
+
+RT Journal Article
+ID 1282966
+A1 Barland,I
+A1 Felleisen,M.
+A1 Fisler,K
+A1 Kolatis,P.
+A1 Vardi,M.
+YR 2000
+T1 Joint position statement: integrating logic into the computer science curriculum
+
+RT Conference Proceedings
+ID 261373
+A1 Calvanese,Diego
+A1 Giacomo,Giuseppe,De
+A1 Lenzerini,Maurizio
+A1 Vardi,Moshe,Y.
+YR 2000
+T1 What is View-Based Query Rewriting?
+SP 17
+OP 27
+
+RT Journal Article
+ID 1371937
+A1 Podelski,A.
+A1 Steffen,B.
+A1 Vardi,M.
+YR 2000
+T1 Schloss ringberg seminar: model checking and program analysis
+
+RT Book, Whole
+ID 116804
+A1 Kolaitis,Phokion,G.
+A1 Vardi,Moshe,Y.
+YR 2000
+T1 0-1 Laws for Fragments of Existential Second-Order Logic: A Survey
+SP 84
+OP 98
+
+RT Conference Proceedings
+ID 655065
+A1 Kupferman,Orna
+A1 Piterman,Nir
+A1 Vardi,Moshe,Y.
+YR 2000
+T1 Fair Equivalence Relations
+SP 151
+OP 163
+
+RT Book, Whole
+ID 458553
+A1 Vardi,Moshe,Y.
+YR 2000
+T1 Automated Verification = Graphs, Automata, and Logic
+SP 139
+
+RT Book, Whole
+ID 313070
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 1999
+T1 Model Checking of Safety Properties
+SP 172
+OP 183
+
+RT Book, Whole
+ID 198916
+A1 Daniele,Marco
+A1 Giunchiglia,Fausto
+A1 Vardi,Moshe,Y.
+YR 1999
+T1 Improved Automata Generation for Linear Temporal Logic
+SP 249
+OP 260
+
+RT Conference Proceedings
+ID 78500
+A1 Calvanese,Diego
+A1 Giacomo,Giuseppe,De
+A1 Lenzerini,Maurizio
+A1 Vardi,Moshe,Y.
+YR 1999
+T1 Rewriting of regular expressions and regular path queries
+SP 194
+OP 204
+
+RT Book, Whole
+ID 302590
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 1999
+T1 Vacuity Detection in Temporal Model Checking
+SP 82
+OP 96
+
+RT Conference Proceedings
+ID 298426
+A1 Peled,Doron
+A1 Vardi,Moshe,Y.
+A1 Yannakakis,Mihalis
+YR 1999
+T1 Black Box Checking
+SP 225
+OP 240
+
+RT Book, Whole
+ID 174589
+A1 Daniele,Marco
+A1 Traverso,Paolo
+A1 Vardi,Moshe,Y.
+YR 1999
+T1 Strong Cyclic Planning Revisited
+SP 35
+OP 48
+
+RT Book, Whole
+ID 303713
+A1 Giacomo,Giuseppe,De
+A1 Vardi,Moshe,Y.
+YR 1999
+T1 Automata-Theoretic Approach to Planning for Temporally Extended Goals
+SP 226
+OP 238
+
+RT Journal Article
+ID 1754892
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 1999
+T1 Church's problem revisited
+JF The Bulletin of Symbolic Logic
+VO 5
+SP 245
+OP 263
+IS 2
+
+RT Book, Whole
+ID 345354
+A1 Vardi,Moshe,Y.
+YR 1999
+T1 Probabilistic Linear-Time Model Checking: An Overview of the Automata-Theoretic Approach
+SP 265
+OP 276
+
+RT Book, Whole
+ID 299362
+A1 Fisler,Kathi
+A1 Vardi,Moshe,Y.
+YR 1999
+T1 Bisimulation and Model Checking
+SP 338
+OP 341
+
+RT Journal Article
+ID 417810
+A1 Fagin,Ronald
+A1 Geanakoplos,John
+A1 Halpern,Joseph,Y.
+A1 Vardi,Moshe,Y.
+YR 1999
+T1 The hierarchical approach to modeling knowledge and common knowledge
+JF International Journal of Game Theory
+VO 28
+SP 331
+OP 365
+IS 3
+
+RT Book, Whole
+ID 296582
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 1999
+T1 Robust Satisfaction
+SP 383
+OP 398
+
+RT Journal Article
+ID 1740869
+A1 Feigenbaum,Joan
+A1 Kannan,Sampath
+A1 Vardi,Moshe,Y.
+A1 Viswanathan,Mahesh
+YR 1999
+T1 The Complexity of Problems on Graphs Represented as OBDDs
+JF Chicago Journal of Theoretical Computer Science
+VO 1999
+
+RT Book, Whole
+ID 344074
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 1999
+T1 The Weakness of Self-Complementation
+SP 455
+OP 466
+
+RT Conference Proceedings
+ID 634783
+A1 Calvanese,Diego
+A1 Giacomo,Giuseppe,De
+A1 Lenzerini,Maurizio
+A1 Vardi,Moshe,Y.
+YR 1999
+T1 Query Answering Using Views for Data Integration over the Web
+SP 73
+OP 78
+
+RT Journal Article
+ID 770400
+A1 Fagin,Ronald
+A1 Halpern,Joseph,Y.
+A1 Moses,Yoram
+A1 Vardi,Moshe,Y.
+YR 1999
+T1 Common Knowledge Revisited
+JF Annals of Pure and Applied Logic
+VO 96
+SP 89
+OP 105
+IS 1-3
+
+RT Journal Article
+ID 816823
+A1 Fraer,Ranan
+A1 Kamhi,Gila
+A1 Fix,Limor
+A1 Vardi,Moshe,Y.
+YR 1999
+T1 Evaluating Semi-Exhaustive Verification Techniques for Bug Hunting
+JF Electronic Notes in Theoretical Computer Science
+VO 23
+IS 2
+
+RT Journal Article
+ID 89987
+A1 Giacomo,G.,De
+A1 Lenzerini,M.
+A1 Vardi,M.
+YR 1999
+T1 Rewriting Regular Expressions in Semi-Structured Data
+
+RT Journal Article
+ID 2757636
+A1 Vardi,M.
+YR 1999
+T1 Automata-theoretic approach to design verification
+
+RT Journal Article
+ID 854277
+A1 Ross,Kenneth,A.
+A1 Chaudhuri,Surajit
+A1 Grahne,Gösta
+A1 Jagadish,H.,V.
+A1 Bussche,Jan,Van,Den
+A1 Vardi,Moshe,Y.
+YR 1999
+T1 Reminiscences on Influential Papers
+JF Sigmod Record
+VO 28
+SP 39
+OP 41
+IS 4
+
+RT Conference Proceedings
+ID 570524
+A1 Calvanese,Diego
+A1 Giacomo,Giuseppe,De
+A1 Lenzerini,Maurizio
+A1 Vardi,Moshe,Y.
+YR 1999
+T1 Rewriting of Regular Path Queries
+SP 213
+OP 224
+
+RT Journal Article
+ID 811326
+A1 Feder,Tomás
+A1 Vardi,Moshe,Y.
+YR 1998
+T1 The Computational Structure of Monotone Monadic SNP and Constraint Satisfaction: A Study through Datalog and Group Theory
+JF Siam Journal on Computing
+VO 28
+SP 57
+OP 104
+IS 1
+
+RT Book, Whole
+ID 78671
+A1 Alur,Rajeev
+A1 Henzinger,Thomas,A.
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 1998
+T1 Alternating Refinement Relations
+SP 163
+OP 178
+
+RT Conference Proceedings
+ID 405957
+A1 Kolaitis,Phokion,G.
+A1 Vardi,Moshe,Y.
+YR 1998
+T1 Conjunctive-query containment and constraint satisfaction
+SP 205
+OP 213
+
+RT Book, Whole
+ID 353568
+A1 Vardi,Moshe,Y.
+YR 1998
+T1 Reasoning about The Past with Two-Way Automata
+SP 628
+OP 641
+
+RT Conference Proceedings
+ID 346128
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 1998
+T1 Freedom, Weakness, and Determinism: From Linear-Time to Branching-Time
+SP 81
+OP 92
+
+RT Book, Whole
+ID 2153927
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 1998
+T1 Verification of Fair Transition Systems
+JF Chicago Journal of Theoretical Computer Science
+VO 1998
+
+RT Conference Proceedings
+ID 378274
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 1998
+T1 Weak alternating automata and tree automata emptiness
+SP 224
+OP 233
+
+RT Conference Proceedings
+ID 679313
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 1998
+T1 Relating linear and branching model checking
+SP 304
+OP 326
+
+RT Journal Article
+ID 259031
+A1 KUPFERMAN,ORNA
+A1 VARDI,MOSHE,Y.
+YR 1998
+T1 An Automata-Theoretic Approach to Modular Model Checking
+
+RT Book, Whole
+ID 149581
+A1 Fisler,Kathi
+A1 Vardi,Moshe,Y.
+YR 1998
+T1 Bisimulation Minimization in an Automata-Theoretic Verification Framework
+SP 115
+OP 132
+
+RT Conference Proceedings
+ID 369314
+A1 Vardi,Moshe,Y.
+YR 1998
+T1 Linear vs. Branching Time: A Complexity-Theoretic Perspective
+SP 394
+OP 405
+
+RT Journal Article
+ID 378305
+A1 Vardi,Moshe,Y.
+YR 1998
+T1 Computational Model Theory: An Overview
+JF Logic Journal of The Igpl / Bulletin of The Igpl
+VO 6
+SP 601
+OP 623
+IS 4
+
+RT Book, Whole
+ID 633122
+A1 Feigenbaum,Joan
+A1 Kannan,Sampath
+A1 Vardi,Moshe,Y.
+A1 Viswanathan,Mahesh
+YR 1998
+T1 Complexity of Problems on Graphs Represented as OBDDs (Extended Abstract)
+SP 216
+OP 226
+
+RT Book, Whole
+ID 316958
+A1 Vardi,Moshe,Y.
+YR 1998
+T1 Sometimes and Not Never Re-revisited: On Branching Versus Linear Time
+SP 1
+OP 17
+
+RT Conference Proceedings
+ID 345000
+A1 Meyden,Ron,Van,Der
+A1 Vardi,Moshe,Y.
+YR 1998
+T1 Synthesis from Knowledge-Based Specifications (Extended Abstract)
+SP 34
+OP 49
+
+RT Journal Article
+ID 1712471
+A1 Fagin,Ronald
+A1 Halpern,Joseph,Y.
+A1 Moses,Yoram
+A1 Vardi,Moshe,Y.
+YR 1998
+T1 Common knowledge revisited
+JF Computing Research Repository
+VO cs.LO/9809
+
+RT Conference Proceedings
+ID 914357
+A1 Bruce,Kim,B.
+A1 Kolaitis,Phokion,G.
+A1 Leivant,Daniel,M.
+A1 Vardi,Moshe,Y.
+YR 1998
+T1 Panel: logic in the computer science curriculum
+SP 376
+OP 377
+
+RT Journal Article
+ID 14412026
+A1 Bruce,Kim,B.
+A1 Kolaitis,Phokion,G.
+A1 Leivant,Daniel,M.
+A1 Vardi,Moshe,Y.
+YR 1998
+T1 Panel: logic in the computer science curriculum
+JF ACM Sigcse Bulletin
+VO 30
+SP 376
+OP 377
+IS 1
+
+RT Conference Proceedings
+ID 13290122
+A1 Hu,Alan,J.
+A1 Vardi,Moshe,Y.
+YR 1998
+T1 Computer Aided Verification, 10th International Conference, CAV '98, Vancouver, BC, Canada, June 28 - July 2, 1998, Proceedings
+
+RT Journal Article
+ID 140585
+A1 Grädel,Erich
+A1 Kolaitis,Phokion,G.
+A1 Vardi,Moshe,Y.
+YR 1997
+T1 On the decision problem for two-variable first-order logic
+JF The Bulletin of Symbolic Logic
+VO 3
+SP 53
+OP 69
+IS 1
+
+RT Conference Proceedings
+ID 397315
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 1997
+T1 Synthesis with Incomplete Information
+
+RT Journal Article
+ID 705608
+A1 Fagin,Ronald
+A1 Halpern,Joseph,Y.
+A1 Moses,Yoram
+A1 Vardi,Moshe,Y.
+YR 1997
+T1 Knowledge-Based Programs
+JF Distributed Computing
+VO 10
+SP 199
+OP 225
+IS 4
+
+RT Book, Whole
+ID 328206
+A1 Immerman,Neil
+A1 Vardi,Moshe,Y.
+YR 1997
+T1 Model Checking and Transitive-Closure Logic
+SP 291
+OP 302
+
+RT Book, Whole
+ID 649910
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 1997
+T1 Modular Model Checking
+SP 381
+OP 401
+
+RT Journal Article
+ID 379488
+A1 Abiteboul,Serge
+A1 Vardi,Moshe,Y.
+A1 Vianu,Victor
+YR 1997
+T1 Fixpoint logics, relational machines, and computational complexity
+JF Journal of The ACM
+VO 44
+SP 30
+OP 56
+IS 1
+
+RT Book, Whole
+ID 372144
+A1 Harel,David
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 1997
+T1 On the Complexity of Verifying Concurrent Transition Systems
+SP 258
+OP 272
+
+RT Book, Whole
+ID 448286
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 1997
+T1 Model Checking Revisited
+SP 36
+OP 47
+
+RT Book, Whole
+ID 497282
+A1 Vardi,Moshe,Y.
+YR 1997
+T1 Alternating Automata: Unifying Truth and Validity Checking for Temporal Logics
+SP 191
+OP 206
+
+RT Journal Article
+ID 218719
+A1 Vardi,Moshe,Y.
+YR 1997
+T1 Alternating Automata: Checking Truth and Validity for Temporal Logics
+
+RT Journal Article
+ID 790806
+A1 Chaudhuri,Surajit
+A1 Vardi,Moshe,Y.
+YR 1997
+T1 On the Equivalence of Recursive and Nonrecursive Datalog Programs
+JF Journal of Computer and System Sciences
+VO 54
+SP 61
+OP 78
+IS 1
+
+RT Journal Article
+ID 4089743
+A1 Vardi,M.,Y.
+YR 1997
+T1 What makes modal logic so robustly decidable? In N
+
+RT Book, Whole
+ID 185659
+A1 Vardi,Moshe,Y.
+YR 1997
+T1 Verification of Open Systems
+SP 250
+OP 266
+
+RT Journal Article
+ID 3500417
+A1 Kolaitis,P.
+A1 Vardi,M.
+YR 1997
+T1 On the complexity of the decision problem for two-variable rst-order logic
+JF The Bulletin of Symbolic Logic
+
+RT Journal Article
+ID 4197233
+A1 Graedel,E.
+A1 Kolaitis,P.
+A1 Vardi,M.
+YR 1997
+T1 On the decision problem for two variable logic
+JF The Bulletin of Symbolic Logic
+
+RT Journal Article
+ID 48535881
+A1 Fagin,Ronald
+A1 Halpern,Joseph,Y.
+A1 Moses,Yoram
+A1 Vardi,Moshe,Y.
+YR 1997
+T1 Thinking about Reasoning about Knowledge
+JF Minds and Machines
+VO 7
+SP 103
+OP 112
+IS 1
+
+RT Journal Article
+ID 48541582
+A1 Fagin,Ronald
+A1 Halpern,Joseph,Y.
+A1 Moses,Yoram
+A1 Vardi,Moshe,Y.
+YR 1997
+T1 Reasoning about Knowledge: A Response by the Authors
+JF Minds and Machines
+VO 7
+SP 113
+OP 113
+IS 1
+
+RT Journal Article
+ID 834860
+A1 Vardi,Moshe,Y.
+YR 1997
+T1 Special Selection in Logic in Computer Science
+JF Journal of Symbolic Logic
+VO 62
+SP 608
+IS 2
+
+RT Conference Proceedings
+ID 689200
+A1 Vardi,Moshe,Y.
+YR 1996
+T1 Why is Modal Logic So Robustly Decidable?
+SP 149
+OP 184
+
+RT Book, Whole
+ID 393978
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 1996
+T1 Module Checking
+SP 75
+OP 86
+
+RT Conference Proceedings
+ID 1393212
+A1 Vardi,M.,Y.
+A1 Wolper,P.
+YR 1996
+T1 An automata theoretic apporach to automatic program verification
+
+RT Book, Whole
+ID 343241
+A1 Henzinger,Thomas,A.
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 1996
+T1 A Space-Efficient On-the-fly Algorithm for Real-Time Model Checking
+SP 514
+OP 529
+
+RT Conference Proceedings
+ID 353118
+A1 Vardi,Moshe,Y.
+YR 1996
+T1 Implementing Knowledge-Based Programs
+SP 15
+OP 30
+
+RT Conference Proceedings
+ID 98906
+A1 Feigenbaum,Joan
+A1 Kannan,Sampath
+A1 Vardi,Moshe,Y.
+A1 Viswanathan,Mahesh
+YR 1996
+T1 Complexity of Problems on Graphs Represented as OBDDs
+
+RT Conference Proceedings
+ID 219636
+A1 Kupferman,Orna
+A1 Safra,Shmuel
+A1 Vardi,Moshe,Y.
+YR 1996
+T1 Relating Word and Tree Automata
+SP 322
+OP 332
+
+RT Book, Whole
+ID 327836
+A1 Fagin,Ronald
+A1 Halpern,Joseph,Y.
+A1 Moses,Yoram
+A1 Vardi,Moshe,Y.
+YR 1996
+T1 Common Knowledge Revisited
+SP 283
+OP 298
+
+RT Journal Article
+ID 565546
+A1 Abiteboul,Serge
+A1 Kuper,Gabriel,M.
+A1 Papadimitriou,Christos,H.
+A1 Shvartsman,Alexander,A.
+A1 Vardi,Moshe,Y.
+YR 1996
+T1 In Memoriam: Paris C. Kanellakis
+JF ACM Computing Surveys
+VO 28
+SP 79
+OP 15
+IS 1
+
+RT Conference Proceedings
+ID 448111
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 1996
+T1 Verification of Fair Transisiton Systems
+SP 372
+OP 382
+
+RT Journal Article
+ID 2121157
+A1 Fagin,R.
+A1 Halpern,J.,Y.
+A1 Vardi,M.,Y.
+YR 1996
+T1 A non-standard approach to the logical omniscience problem
+JF Artificial Intelligence
+
+RT Journal Article
+ID 396161
+A1 Vardi,Moshe,Y.
+YR 1996
+T1 Rank Predicates vs. Progress Measures in Concurrent-Program Verification
+JF Chicago Journal of Theoretical Computer Science
+VO 1996
+
+RT Journal Article
+ID 2679743
+A1 Vardi,M.,Y.
+YR 1996
+T1 Alternating Automata and Program Veri cation
+
+RT Conference Proceedings
+ID 522613
+A1 Chaudhuri,Surajit
+A1 Chandra,Ashok,K.
+A1 Dayal,Umeshwar
+A1 Gray,Jim
+A1 Stonebraker,Michael
+A1 Wiederhold,Gio
+A1 Vardi,Moshe,Y.
+YR 1996
+T1 Database Research: Lead, Follow, or Get Out of the Way? - Panel Abstract
+SP 190
+
+RT Journal Article
+ID 3227950
+A1 Kupferman,O.
+A1 Vardi,M.
+YR 1996
+T1 In Proceedings of the Eight International Conference on Computer Aided Verification
+
+RT Journal Article
+ID 39208350
+A1 Abiteboul,Serge
+A1 Kuper,Gabriel,M.
+A1 Mairson,Harry,G.
+A1 Shvartsman,Alexander,A.
+A1 Vardi,Moshe,Y.
+YR 1996
+T1 In memoriam Paris C. Kanellakis
+JF ACM Computing Surveys
+SP 3
+OP 15
+
+RT Journal Article
+ID 14539091
+A1 Abiteboul,Serge
+A1 Kuper,Gabriel,M.
+A1 Mairson,Harry,G.
+A1 Shvartsman,Alex,A.
+A1 Vardi,Moshe,Y.
+YR 1996
+T1 IN MEMORIAM Paris C. Kanellakis (1953–1995)
+JF Journal of Algorithms
+VO 20
+SP 203
+OP 204
+IS 2
+
+RT Journal Article
+ID 51200194
+A1 Gerth,R.
+A1 Peled,D.
+A1 Vardi,M.,Y.
+A1 Wolper,P.
+YR 1996
+T1 Simple On-The-Fly Automatic Verification of Linear Temporal Logic
+
+RT Journal Article
+ID 820741
+A1 Vardi,Moshe,Y.
+YR 1996
+T1 In Memoriam: Paris C. Kanellakis (1953-1995)
+JF Information and Computation/information and Control
+VO 127
+SP 65
+OP 65
+IS 2
+
+RT Journal Article
+ID 14462826
+A1 Vardi,Moshe,Y.
+YR 1996
+T1 Editor's Foreword
+JF Information and Computation/information and Control
+VO 127
+SP 64
+OP 64
+IS 2
+
+RT Conference Proceedings
+ID 371444
+A1 Gerth,Rob
+A1 Peled,Doron
+A1 Vardi,Moshe,Y.
+A1 Wolper,Pierre
+YR 1995
+T1 Simple on-the-fly automatic verification of linear temporal logic
+SP 3
+OP 18
+
+RT Conference Proceedings
+ID 587108
+A1 Vardi,Moshe,Y.
+YR 1995
+T1 An Automata-Theoretic Approach to Linear Temporal Logic
+SP 238
+OP 266
+
+RT Conference Proceedings
+ID 1374317
+A1 Vardi,Moshe,Y.
+YR 1995
+T1 On the Complexity of Bounded-Variable Queries
+SP 266
+OP 276
+
+RT Conference Proceedings
+ID 1837
+A1 Fagin,Ronald
+A1 Mosest,Yoram
+A1 Halpern,Joseph,Y.
+A1 Vardi,Moshe,Y.
+YR 1995
+T1 Knowledge-based programs
+SP 153
+OP 163
+
+RT Book, Whole
+ID 395661
+A1 Vardi,Moshe,Y.
+YR 1995
+T1 An Automata-Theoretic Approach to Fair Realizability and Synthesis
+SP 267
+OP 278
+
+RT Journal Article
+ID 791003
+A1 Kolaitis,Phokion,G.
+A1 Vardi,Moshe,Y.
+YR 1995
+T1 On the Expressive Power of Datalog: Tools and a Case Study
+JF Journal of Computer and System Sciences
+VO 51
+SP 110
+OP 134
+IS 1
+
+RT Book, Whole
+ID 219437
+A1 Vardi,Moshe,Y.
+YR 1995
+T1 Alternating Automata and Program Verification
+
+RT Journal Article
+ID 818868
+A1 Fagin,Ronald
+A1 Stockmeyer,Larry,J.
+A1 Vardi,Moshe,Y.
+YR 1995
+T1 On Monadic NP vs. Monadic co-NP
+JF Information and Computation/information and Control
+VO 120
+SP 78
+OP 92
+IS 1
+
+RT Journal Article
+ID 121073
+A1 Hillebrand,Gerd,G.
+A1 Kanellakis,Paris,C.
+A1 Mairson,Harry,G.
+A1 Vardi,Moshe,Y.
+YR 1995
+T1 Undecidable Boundedness Problems for Datalog Programs
+JF Journal of Logic Programming
+VO 25
+SP 163
+OP 190
+IS 2
+
+RT Conference Proceedings
+ID 218486
+A1 Vardi,Moshe,Y.
+YR 1995
+T1 On the Complexity of Modular Model Checking
+SP 101
+OP 111
+
+RT Journal Article
+ID 1278974
+A1 Fagin,R.
+A1 Stockmeyer,L.
+A1 Vardi,M.
+YR 1995
+T1 On monadic np vs
+
+RT Journal Article
+ID 393458
+A1 Abiteboul,Serge
+A1 Vardi,Moshe,Y.
+A1 Vianu,Victor
+YR 1995
+T1 Computing with Infinitary Logic
+JF Theoretical Computer Science
+VO 149
+SP 101
+OP 128
+IS 1
+
+RT Journal Article
+ID 697582
+A1 Fagin,Ronald
+A1 Halpern,Joseph,Y.
+A1 Vardi,Moshe,Y.
+YR 1995
+T1 A Nonstandard Approach to the Logical Omniscience Problem
+JF Artificial Intelligence
+VO 79
+SP 203
+OP 240
+IS 2
+
+RT Conference Proceedings
+ID 364715
+A1 Vardi,Moshe,Y.
+YR 1995
+T1 On the complexity of bounded-variable queries (extended abstract)
+
+RT Book, Whole
+ID 402228
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+YR 1995
+T1 On the Complexity of Branching Modular Model Checking (Extended Abstract)
+SP 408
+OP 422
+
+RT Journal Article
+ID 3227456
+A1 Lustig,Yoad
+A1 Vardi,Moshe,Y.
+YR 1995
+T1 Infinite Games against Nature
+
+RT Conference Proceedings
+ID 13278689
+A1 Gottlob,Georg
+A1 Vardi,Moshe,Y.
+YR 1995
+T1 Database Theory - ICDT'95, 5th International Conference, Prague, Czech Republic, January 11-13, 1995, Proceedings
+
+RT Journal Article
+ID 250983
+A1 Vardi,Moshe,Y.
+A1 Wolper,Pierre
+YR 1994
+T1 Reasoning About Infinite Computations
+JF Information and Computation/information and Control
+VO 115
+SP 1
+OP 37
+IS 1
+
+RT Book, Whole
+ID 338784
+A1 Bernholtz,Orna
+A1 Vardi,Moshe,Y.
+A1 Wolper,Pierre
+YR 1994
+T1 An Automata-Theoretic Approach to Branching-Time Model Checking (Extended Abstract)
+SP 142
+OP 155
+
+RT Conference Proceedings
+ID 322900
+A1 Halpern,Joseph,Y.
+A1 Moses,Yoram
+A1 Vardi,Moshe,Y.
+YR 1994
+T1 Algorithmic Knowledge
+SP 255
+OP 266
+
+RT Book, Whole
+ID 340108
+A1 Vardi,Moshe,Y.
+YR 1994
+T1 Nontraditional Applications of Automata Theory
+SP 575
+OP 597
+
+RT Conference Proceedings
+ID 368351
+A1 Chaudhuri,Surajit
+A1 Vardi,Moshe,Y.
+YR 1994
+T1 On the complexity of equivalence between recursive and nonrecursive Datalog programs
+SP 107
+OP 116
+
+RT Conference Proceedings
+ID 404234
+A1 Fagin,Ronald
+A1 Halpern,Joseph,Y.
+A1 Moses,Yoram
+A1 Vardi,Moshe,Y.
+YR 1994
+T1 An Operational Semantics for Knowledge Bases
+SP 1142
+OP 1147
+
+RT Journal Article
+ID 2067883
+A1 Fagin,R.
+A1 Stockmeyer,L.
+A1 Vardi,M.
+YR 1994
+T1 On monadic NP vs monadic co-NP
+JF Informs Journal on Computing
+
+RT Conference Proceedings
+ID 381760
+A1 Alur,Rajeev
+A1 Henzinger,Thomas,A.
+A1 Vardi,Moshe,Y.
+YR 1993
+T1 Parametric real-time reasoning
+SP 592
+OP 601
+
+RT Conference Proceedings
+ID 565301
+A1 Chaudhuri,Surajit
+A1 Vardi,Moshe,Y.
+YR 1993
+T1 Optimization of real conjunctive queries
+SP 59
+OP 70
+
+RT Conference Proceedings
+ID 575907
+A1 Feder,Tomiis
+A1 Vardi,Moshe,Y.
+YR 1993
+T1 Monotone monadic SNP and constraint satisfaction
+SP 612
+OP 622
+
+RT Book, Whole
+ID 245754
+A1 Aiken,Alexander
+A1 Kozen,Dexter
+A1 Vardi,Moshe,Y.
+A1 Wimmers,Edward,L.
+YR 1993
+T1 The Complexity of Set Constraints
+SP 1
+OP 17
+
+RT Journal Article
+ID 804030
+A1 Kuper,Gabriel,M.
+A1 Vardi,Moshe,Y.
+YR 1993
+T1 The logical data model
+JF ACM Transactions on Database Systems
+VO 18
+SP 379
+OP 413
+IS 3
+
+RT Journal Article
+ID 185048
+A1 Kuper,Gabriel,M.
+A1 Vardi,Moshe,Y.
+YR 1993
+T1 On the Complexity of Queries in the Logical Data Model
+JF Theoretical Computer Science
+VO 116
+SP 33
+OP 57
+IS 1&2
+
+RT Journal Article
+ID 786764
+A1 Gaifman,Haim
+A1 Mairson,Harry,G.
+A1 Sagiv,Yehoshua
+A1 Vardi,Moshe,Y.
+YR 1993
+T1 Undecidable optimization problems for database logic programs
+JF Journal of The ACM
+VO 40
+SP 683
+OP 713
+IS 3
+
+RT Conference Proceedings
+ID 3532032
+A1 Chaudhuri,S.
+A1 Vardi,M.
+YR 1993
+T1 Optimizing real conjunctive queries
+
+RT Journal Article
+ID 791751
+A1 Ramakrishnan,Raghu
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+A1 Vardi,Moshe,Y.
+YR 1993
+T1 Logical Query Optimization by Proff-Tree Transformation
+JF Journal of Computer and System Sciences
+VO 47
+SP 222
+OP 248
+IS 1
+
+RT Conference Proceedings
+ID 502966
+A1 Fagin,Ronald
+A1 Stockmeyer,Larry,J.
+A1 Vardi,Moshe,Y.
+YR 1993
+T1 On Monadic NP vs. Monadic co-NP (Extended Abstract)
+SP 19
+OP 30
+
+RT Conference Proceedings
+ID 49979590
+A1 Fagin,Ronald
+A1 Stockmeyer,Larry
+A1 Vardi,Moshe,Y.
+YR 1993
+T1 On monadic NP vs. monadic co-NP
+
+RT Journal Article
+ID 222188
+A1 Courcoubetis,Costas
+A1 Vardi,Moshe,Y.
+A1 Wolper,Pierre
+A1 Yannakakis,Mihalis
+YR 1992
+T1 Memory-Efficient Algorithms for the Verification of Temporal Properties
+JF Formal Methods in System Design
+VO 1
+SP 275
+OP 288
+IS 2/3
+
+RT Conference Proceedings
+ID 314652
+A1 Chaudhuri,Surajit
+A1 Vardi,Moshe,Y.
+YR 1992
+T1 On the equivalence of recursive and nonrecursive datalog programs
+SP 55
+OP 66
+
+RT Journal Article
+ID 787244
+A1 Fagin,Ronald
+A1 Halpern,Joseph,Y.
+A1 Vardi,Moshe,Y.
+YR 1992
+T1 What can machines know?: On the properties of knowledge in distributed systems
+JF Journal of The ACM
+VO 39
+SP 328
+OP 376
+IS 2
+
+RT Journal Article
+ID 819067
+A1 Kolaitis,Phokion,G.
+A1 Vardi,Moshe,Y.
+YR 1992
+T1 Infinitary Logics and 0-1 Laws
+JF Information and Computation/information and Control
+VO 98
+SP 258
+OP 294
+IS 2
+
+RT Journal Article
+ID 185875
+A1 Fagin,Ronald
+A1 Halpern,Joseph,Y.
+A1 Vardi,Moshe,Y.
+YR 1992
+T1 What Is an Inference Rule?
+JF Journal of Symbolic Logic
+VO 57
+SP 1018
+OP 1045
+IS 3
+
+RT Conference Proceedings
+ID 556427
+A1 Kolaitis,Phokion,G.
+A1 Vardi,Moshe,Y.
+YR 1992
+T1 Fixpoint Logic vs. Infinitary Logic in Finite-Model Theory
+SP 46
+OP 57
+
+RT Journal Article
+ID 4087504
+A1 Fagin,R.
+A1 Halpern,J.
+A1 Vardi,M.
+YR 1992
+T1 What can machines know
+
+RT Book, Whole
+ID 524909
+A1 I,Serge,Abiteboul
+A1 Vardi,Moshe,Y.
+A1 Vianu,Victor
+YR 1992
+T1 Computing with Infinitary Logic
+SP 113
+OP 123
+
+RT Conference Proceedings
+ID 572236
+A1 Fagin,Ronald
+A1 Geanakoplos,John
+A1 Halpern,Joseph,Y.
+A1 Vardi,Moshe,Y.
+YR 1992
+T1 The Expressive Power of the Kierarchical Approach to Modeling Knowledge and Common Knowledge
+SP 229
+OP 244
+
+RT Book, Whole
+ID 602280
+A1 Kolaitis,Phokion,G.
+A1 Vardi,Moshe,Y.
+YR 1992
+T1 Infinitary Logic for Computer Science
+SP 450
+OP 473
+
+RT Conference Proceedings
+ID 584312
+A1 Vardi,Moshe,Y.
+YR 1992
+T1 Automata Theory for Database Theoreticans
+SP 153
+OP 180
+
+RT Journal Article
+ID 787243
+A1 Fagin,Ronald
+A1 Halpern,Joseph,Y.
+A1 Vardi,Moshe,Y.
+YR 1991
+T1 A model-theoretic analysis of knowledge
+JF Journal of The ACM
+VO 38
+SP 382
+OP 428
+IS 2
+
+RT Conference Proceedings
+ID 298886
+A1 Halpern,Joseph,Y.
+A1 Vardi,Moshe,Y.
+YR 1991
+T1 Model Checking vs. Theorem Proving: A Manifesto
+SP 325
+OP 334
+
+RT Conference Proceedings
+ID 172887
+A1 Frühwirth,Thom,W.
+A1 Shapiro,Ehud,Y.
+A1 Vardi,Moshe,Y.
+A1 Yardeni,Eyal
+YR 1991
+T1 Logic Programs as Types for Logic Programs
+SP 300
+OP 309
+
+RT Journal Article
+ID 770794
+A1 Vardi,Moshe,Y.
+YR 1991
+T1 Verification of Concurrent Programs: The Automata-Theoretic Framework
+JF Annals of Pure and Applied Logic
+VO 51
+SP 79
+OP 98
+IS 1-2
+
+RT Conference Proceedings
+ID 565390
+A1 Hillebrand,Gerd,G.
+A1 MAIRSONt,HARRY,G.
+A1 Vardi,Moshe,Y.
+YR 1991
+T1 Tools for Datalog boundedness
+SP 1
+OP 12
+
+RT Journal Article
+ID 746253
+A1 Vardi,Moshe,Y.
+YR 1991
+T1 Database Logic Programming
+JF The Journal of Logic and Algebraic Programming
+VO 10
+SP 179
+OP 180
+IS 1/2/3&4
+
+RT Book, Whole
+ID 448043
+A1 Courcoubetis,Costas
+A1 Vardi,Moshe,Y.
+A1 Wolper,Pierre
+A1 Yannakakis,Mihalis
+YR 1990
+T1 Memory Efficient Algorithms for the Verification of Temporal Properties
+SP 233
+OP 242
+
+RT Journal Article
+ID 787369
+A1 Cosmadakis,Stavros,S.
+A1 Kanellakis,Paris,C.
+A1 Vardi,Moshe,Y.
+YR 1990
+T1 Polynomial-time implication problems for unary inclusion dependencies
+JF Journal of The ACM
+VO 37
+SP 15
+OP 46
+IS 1
+
+RT Conference Proceedings
+ID 260727
+A1 Fagin,Ronald
+A1 Halpern,Joseph,Y.
+A1 Vardi,Moshe,Y.
+YR 1990
+T1 A Nonstandard Approach to the Logical Omniscience Problem
+SP 41
+OP 55
+
+RT Journal Article
+ID 819066
+A1 Kolaitis,Phokion,G.
+A1 Vardi,Moshe,Y.
+YR 1990
+T1 0-1 Laws and Decision Problems for Fragments of Second-Order Logic
+JF Information and Computation/information and Control
+VO 87
+SP 301
+OP 337
+IS 1/2
+
+RT Conference Proceedings
+ID 1279628
+A1 Harel,David
+A1 Rosner,R.
+A1 Vardi,M.
+YR 1990
+T1 On the power of bounded concurrency. III. Reasoning about programs
+
+RT Conference Proceedings
+ID 556426
+A1 Kolaitis,Phokion,G.
+A1 Vardi,Moshe,Y.
+YR 1990
+T1 0-1 Laws for Infinitary Logics (Preliminary Report)
+SP 156
+OP 167
+
+RT Conference Proceedings
+ID 49893284
+A1 Kolaitis,P.,G.
+A1 Vardi,M.,Y.
+YR 1990
+T1 0-1 laws for infinitary logics
+
+RT Journal Article
+ID 742807
+A1 Vardi,Moshe,Y.
+YR 1990
+T1 Endmarkers can Make a Difference
+JF Information Processing Letters
+VO 35
+SP 145
+OP 148
+IS 3
+
+RT Conference Proceedings
+ID 556721
+A1 Harel,David
+A1 Rosner,Roni
+A1 Vardi,Moshe,Y.
+YR 1990
+T1 On the Power of Bounded Concurrency~III: Reasoning About Programs (Preliminary Report)
+SP 478
+OP 488
+
+RT Conference Proceedings
+ID 49893353
+A1 Fagin,Ronald
+A1 Halpern,Joseph,Y.
+A1 Vardi,Moshe,Y.
+YR 1990
+T1 What is an inference rule?
+
+RT Journal Article
+ID 14501567
+A1 Vardi,M
+YR 1990
+T1 Editor's foreword
+JF Journal of Computer and System Sciences
+VO 41
+SP 1
+IS 1
+
+RT Conference Proceedings
+ID 530372
+A1 Vardi,Moshe,Y.
+YR 1990
+T1 Global Optimization Problems for Database Logic Programs
+SP 767
+OP 771
+
+RT Journal Article
+ID 791794
+A1 Halpern,Joseph,Y.
+A1 Vardi,Moshe,Y.
+YR 1989
+T1 The Complexity of Reasoning about Knowledge and Time. I. Lower Bounds
+JF Journal of Computer and System Sciences
+VO 38
+SP 195
+OP 237
+IS 1
+
+RT Journal Article
+ID 2113246
+A1 Halpern,J.,Y.
+A1 Vardi,M.,Y.
+YR 1989
+T1 The complexity of reasoning about knowledge and time
+JF Journal of Computer and System Sciences
+
+RT Conference Proceedings
+ID 565599
+A1 Ramakrishnan,Raghu
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+A1 Vardi,Moshe,Y.
+YR 1989
+T1 Proof-tree transformation theorems and their applications
+SP 172
+OP 181
+
+RT Conference Proceedings
+ID 565679
+A1 Vardi,Moshe,Y.
+YR 1989
+T1 Automata Theory for Database Theoreticans
+SP 83
+OP 92
+
+RT Conference Proceedings
+ID 556749
+A1 Vardi,Moshe,Y.
+YR 1989
+T1 On the Complexity of Epistemic Reasoning
+SP 243
+OP 252
+
+RT Conference Proceedings
+ID 911377
+A1 Vardi,M.,Y.
+YR 1989
+T1 Invited talk: automata theory for database theoreticians
+
+RT Conference Proceedings
+ID 565563
+A1 Sagiv,Yehoshua
+A1 Vardi,Moshe,Y.
+YR 1989
+T1 Safety of datalog queries over infinite databases
+SP 160
+OP 171
+
+RT Journal Article
+ID 742806
+A1 Vardi,Moshe,Y.
+YR 1989
+T1 A Note on the Reduction of Two-Way Automata to One-Way Automata
+JF Information Processing Letters
+VO 30
+SP 261
+OP 264
+IS 5
+
+RT Conference Proceedings
+ID 3518315
+A1 Safra,S.
+A1 Vardi,M.,Y.
+YR 1989
+T1 On ω-automata and temporal logic
+SP 127
+OP 137
+
+RT Conference Proceedings
+ID 919863
+A1 Safra,S.
+A1 Vardi,M.,Y.
+YR 1989
+T1 On &ohgr;-automata and temporal logic
+
+RT Conference Proceedings
+ID 3618992
+A1 Ramakrishnan,R.
+A1 Sagiv,Y.
+A1 Ullman,J.,D.
+A1 Vardi,M.,Y.
+YR 1989
+T1 Proof tree transformations and their applica-tions
+
+RT Conference Proceedings
+ID 576306
+A1 Safra,Shmuel
+A1 Vardi,Moshe,Y.
+YR 1989
+T1 On omega-Automata and Temporal Logic (Preliminary Report)
+SP 127
+OP 137
+
+RT Journal Article
+ID 39238435
+A1 Vardi,M.,Y.
+YR 1989
+T1 Invited talk: automata theory for database theoreticians
+SP 83
+OP 92
+
+RT Conference Proceedings
+ID 1340696
+A1 Vardi,M.,Y.
+A1 Wolper,P.
+YR 1988
+T1 Reasoning about infinite computation paths
+
+RT Conference Proceedings
+ID 566748
+A1 Vardi,Moshe,Y.
+YR 1988
+T1 A temporal fixpoint calculus
+SP 250
+OP 259
+
+RT Conference Proceedings
+ID 565678
+A1 Vardi,Moshe,Y.
+YR 1988
+T1 Decidability and undecidability results for boundedness of linear recursive queries
+SP 341
+OP 351
+
+RT Conference Proceedings
+ID 576627
+A1 Cosmadakis,Stavros,S.
+A1 Gaifman,Haim
+A1 Kanellakis,Paris,C.
+A1 Vardi,Moshe,Y.
+YR 1988
+T1 Decidable Optimization Problems for Database Logic Programs (Preliminary Report)
+SP 477
+OP 490
+
+RT Conference Proceedings
+ID 565299
+A1 Ullman,Jeffrey,D.
+A1 Vardi,Moshe,Y.
+YR 1988
+T1 The complexity of ordering subgoals
+SP 74
+OP 81
+
+RT Journal Article
+ID 1976093
+A1 Halpern,J.,Y.
+A1 Vardi,M.,Y.
+YR 1988
+T1 The Complexity of Reasoning about Knowledge and Time: Synchronous Systems
+
+RT Journal Article
+ID 810064
+A1 Vardi,Moshe,Y.
+YR 1988
+T1 The Universal-Relation Data Model for Logic Independence
+JF IEEE Software
+VO 5
+SP 80
+OP 85
+IS 2
+
+RT Conference Proceedings
+ID 556425
+A1 Kolaitis,Phokion,G.
+A1 Vardi,Moshe,Y.
+YR 1988
+T1 0-1 Laws and Decision Problems for Fragments of Second-Order Logic
+SP 2
+OP 11
+
+RT Book, Whole
+ID 524966
+A1 Kuper,Gabriel,M.
+A1 Vardi,Moshe,Y.
+YR 1988
+T1 On the Complexity of Queries in the Logical Data Model (Extended Abstract)
+SP 267
+OP 280
+
+RT Conference Proceedings
+ID 576474
+A1 Halpern,Joseph,Y.
+A1 Vardi,Moshe,Y.
+YR 1988
+T1 Reasoning about knowledge and time in asynchronous systems
+SP 53
+OP 65
+
+RT Conference Proceedings
+ID 1329400
+A1 Vardi,M.,Y.
+YR 1988
+T1 Decidability and undecidability results foz boundedness of linear recursive programs
+
+RT Book, Whole
+ID 649882
+A1 Vardi,Moshe,Y.
+YR 1988
+T1 An Automata-Theoretic Approach to Protocol Verification (Abstract)
+SP 73
+
+RT Journal Article
+ID 809625
+A1 Vardi,Moshe,Y.
+YR 1988
+T1 Response to a Letter to the Editor
+JF IEEE Software
+VO 5
+SP 4
+OP 6
+IS 4
+
+RT Conference Proceedings
+ID 668460
+A1 Vardi,Moshe,Y.
+YR 1988
+T1 Database Logic Programming, Deductive Databases, and Expert Database Systems
+SP 7
+
+RT Conference Proceedings
+ID 13292190
+A1 Vardi,Moshe,Y.
+YR 1988
+T1 Proceedings of the 2nd Conference on Theoretical Aspects of Reasoning about Knowledge, Pacific Grove, CA, March 1988
+
+RT Conference Proceedings
+ID 261194
+A1 Vardi,Moshe,Y.
+YR 1987
+T1 Verification of Concurrent Programs: The Automata-Theoretic Framework
+SP 167
+OP 176
+
+RT Journal Article
+ID 757778
+A1 Sistla,A.,Prasad
+A1 Vardi,Moshe,Y.
+A1 Wolper,Pierre
+YR 1987
+T1 The Complementation Problem for Büchi Automata with Appplications to Temporal Logic
+JF Theoretical Computer Science
+VO 49
+SP 217
+OP 237
+IS 2-3
+
+RT Conference Proceedings
+ID 556306
+A1 Gaifman,Haim
+A1 Mairson,Harry,G.
+A1 Sagiv,Yehoshua
+A1 Vardi,Moshe,Y.
+YR 1987
+T1 Undecidable Optimization Problems for Database Logic Programs
+SP 106
+OP 115
+
+RT Conference Proceedings
+ID 575780
+A1 Kolaitis,Phokion,G.
+A1 Vardi,Moshe,Y.
+YR 1987
+T1 The decision problem for the probabilities of higher-order properties
+SP 425
+OP 435
+
+RT Book, Whole
+ID 485841
+A1 Vardi,Moshe,Y.
+YR 1987
+T1 Unified Verification Theory
+SP 202
+OP 212
+
+RT Journal Article
+ID 1369946
+A1 Vardi,M.,Y.
+YR 1987
+T1 Fundamentals of dependency theory
+JF Foundations and Trends in Theoretical Computer Science
+
+RT Conference Proceedings
+ID 1344451
+A1 Vardi,M.,Y.
+A1 Wolper,P.
+YR 1986
+T1 An automata-theoretic approach to automatic program verification
+
+RT Journal Article
+ID 791534
+A1 Vardi,Moshe,Y.
+A1 Wolper,Pierre
+YR 1986
+T1 Automata-Theoretic Techniques for Modal Logics of Programs
+JF Journal of Computer and System Sciences
+VO 32
+SP 183
+OP 221
+IS 2
+
+RT Journal Article
+ID 720506
+A1 Fagin,Ronald
+A1 Kuper,Gabriel,M.
+A1 Ullman,Jeffrey,D.
+A1 Vardi,Moshe,Y.
+YR 1986
+T1 Updating Logical Databases
+JF Advances in Computing Research
+VO 3
+SP 1
+OP 18
+
+RT Conference Proceedings
+ID 556609
+A1 Vardi,Moshe,Y.
+A1 Wolper,Pierre
+YR 1986
+T1 An Automata-Theoretic Approach to Automatic Program Verification (Preliminary Report)
+SP 332
+OP 344
+
+RT Journal Article
+ID 791986
+A1 Vardi,Moshe,Y.
+YR 1986
+T1 Querying Logical Databases
+JF Journal of Computer and System Sciences
+VO 33
+SP 142
+OP 160
+IS 2
+
+RT Conference Proceedings
+ID 3869807
+A1 Halpern,Joseph,Y.
+A1 Vardi,Moshe,Y.
+YR 1986
+T1 The complexity of reasoning about knowledge and time
+SP 304
+OP 315
+
+RT Conference Proceedings
+ID 4229541
+A1 Fagin,Ronald
+A1 Halpern,Joseph,Y.
+A1 Vardi,Moshe,Y.
+YR 1986
+T1 What Can Machines Know? On the Epistemic Properties of Machines
+SP 428
+OP 435
+
+RT Conference Proceedings
+ID 572307
+A1 Vardi,Moshe,Y.
+YR 1986
+T1 On Epistemic Logic and Logical Omniscience
+SP 293
+OP 305
+
+RT Journal Article
+ID 1279619
+A1 Fagin,R.
+A1 Vardi,M.,Y.
+YR 1986
+T1 The theory of data dependencies - a survey
+
+RT Conference Proceedings
+ID 576108
+A1 Courcoubetis,Costas
+A1 Vardi,Moshe,Y.
+A1 Wolper,Pierre
+YR 1986
+T1 Reasoning about fair concurrent programs
+SP 283
+OP 294
+
+RT Conference Proceedings
+ID 572295
+A1 Fagin,Ronald
+A1 Vardi,Moshe,Y.
+YR 1986
+T1 Knowledge and Implicit Knowledge in a Distributed Environment: Preliminary Report
+SP 187
+OP 206
+
+RT Conference Proceedings
+ID 4320237
+A1 Halpern,Joseph,Y.
+A1 Vardi,Moshe,Y.
+YR 1986
+T1 The Complexity of Reasoning about Knowledge and Time: Extended Abstract
+SP 304
+OP 315
+
+RT Journal Article
+ID 787863
+A1 Graham,Marc,H.
+A1 Mendelzon,Alberto,O.
+A1 Vardi,Moshe,Y.
+YR 1986
+T1 Notions of dependency satisfaction
+JF Journal of The ACM
+VO 33
+SP 105
+OP 129
+IS 1
+
+RT Conference Proceedings
+ID 565677
+A1 Vardi,Moshe,Y.
+YR 1986
+T1 On the Integrity of Databases with Incomplete Information
+SP 252
+OP 266
+
+RT Journal Article
+ID 768582
+A1 Makowsky,Johann,A.
+A1 Vardi,Moshe,Y.
+YR 1986
+T1 On the Expressive Power of Data Dependencies
+JF Acta Informatica
+VO 23
+SP 231
+OP 244
+IS 3
+
+RT Conference Proceedings
+ID 3221723
+A1 Vardi,M,Y
+A1 Stockmeyer,L
+YR 1985
+T1 Improved upper and lower bounds for modal logics of programs
+SP 240
+OP 251
+
+RT Journal Article
+ID 811874
+A1 Chandra,Ashok,K.
+A1 Vardi,Moshe,Y.
+YR 1985
+T1 The Implication Problem for Functional and Inclusion Dependencies is Undecidable
+JF Siam Journal on Computing
+VO 14
+SP 671
+OP 677
+IS 3
+
+RT Conference Proceedings
+ID 616247
+A1 Vardi,Moshe,Y.
+YR 1985
+T1 A Model-Theoretic Analysis of Monotonic Knowledge
+SP 509
+OP 512
+
+RT Conference Proceedings
+ID 576232
+A1 Vardi,Moshe,Y.
+A1 Stockmeyer,Larry,J.
+YR 1985
+T1 Improved Upper and Lower Bounds for Modal Logics of Programs: Preliminary Report
+SP 240
+OP 251
+
+RT Conference Proceedings
+ID 4453616
+A1 Fagin,Ronald
+A1 Vardi,Moshe,Y.
+YR 1985
+T1 An internal semantics for modal logic
+SP 305
+OP 315
+
+RT Book, Whole
+ID 475773
+A1 Vardi,Moshe,Y.
+YR 1985
+T1 The Taming of Converse: Reasoning about Two-way Computations
+SP 413
+OP 423
+
+RT Conference Proceedings
+ID 668301
+A1 Kuper,Gabriel,M.
+A1 Vardi,Moshe,Y.
+YR 1985
+T1 On the Expressive Power of the Logical Data Model (Preliminary Report)
+SP 180
+OP 187
+
+RT Conference Proceedings
+ID 576499
+A1 Fagin,Ronald
+A1 Vardi,Moshe,Y.
+YR 1985
+T1 An Internal Semantics for Modal Logic: Preliminary Report
+SP 305
+OP 315
+
+RT Conference Proceedings
+ID 2763100
+A1 Vardi,M.,Y.
+YR 1985
+T1 Automatic veri cation of probabilistic concurrent nite-state systems
+
+RT Journal Article
+ID 2408730
+A1 Sistla,A.
+A1 Vardi,M.
+A1 Wolper,P.
+YR 1985
+T1 The complementation problem for B¨uchi automata with applications to temporal logi
+
+RT Journal Article
+ID 757099
+A1 Beeri,Catriel
+A1 Vardi,Moshe,Y.
+YR 1985
+T1 Formal Systems for Join Dependencies
+JF Theoretical Computer Science
+VO 38
+SP 99
+OP 116
+
+RT Book, Whole
+ID 601986
+A1 Sistla,A.,Prasad
+A1 Vardi,Moshe,Y.
+A1 Wolper,Pierre
+YR 1985
+T1 The Complementation Problem for Büchi Automata with Applications to Temporal Logic (Extended Abstract)
+SP 465
+OP 474
+
+RT Journal Article
+ID 816344
+A1 Gaifman,Haim
+A1 Vardi,Moshe,Y.
+YR 1985
+T1 A simple proof that connectivity of finite graphs is not first-order definable
+JF Bulletin of The European Association for Theoretical Computer Science
+VO 26
+SP 43
+OP 44
+
+RT Journal Article
+ID 1348833
+A1 Vardi,M.
+YR 1985
+T1 Automatic verification of concurrent probabilistic finite state programs
+
+RT Journal Article
+ID 14414917
+A1 Kuper,Gabriel,M.
+A1 Vardi,Moshe,Y.
+YR 1985
+T1 On the expressive power of the logical data model: prelimiary report
+JF Sigmod Record
+VO 14
+SP 180
+OP 187
+IS 4
+
+RT Journal Article
+ID 816613
+A1 Vardi,Moshe,Y.
+YR 1985
+T1 A responce to "A complete axiomatisation for full join dependencies in relations
+JF Bulletin of The European Association for Theoretical Computer Science
+VO 26
+SP 65
+OP 66
+
+RT Journal Article
+ID 803845
+A1 Maier,David
+A1 Ullman,Jeffrey,D.
+A1 Vardi,Moshe,Y.
+YR 1984
+T1 On the foundations of the universal relation model
+JF ACM Transactions on Database Systems
+VO 9
+SP 283
+OP 308
+IS 2
+
+RT Journal Article
+ID 786636
+A1 Beeri,Catriel
+A1 Vardi,Moshe,Y.
+YR 1984
+T1 A Proof Procedure for Data Dependencies
+JF Journal of The ACM
+VO 31
+SP 718
+OP 741
+IS 4
+
+RT Journal Article
+ID 810497
+A1 Beeri,Catriel
+A1 Vardi,Moshe,Y.
+YR 1984
+T1 Formal Systems for Tuple and Equality Generating Dependencies
+JF Siam Journal on Computing
+VO 13
+SP 76
+OP 98
+IS 1
+
+RT Book, Whole
+ID 1257213
+A1 Vardi,Moshe
+A1 Wolper,Pierre
+YR 1984
+T1 Yet another process logic
+
+RT Conference Proceedings
+ID 565408
+A1 KUPERt,GABRIEL,M.
+A1 ULLMANt,JEFFREY,D.
+A1 Vardi,Moshe,Y.
+YR 1984
+T1 On the equivalence of logical databases
+SP 221
+OP 228
+
+RT Journal Article
+ID 791985
+A1 Vardi,Moshe,Y.
+YR 1984
+T1 The Implication and Finite Implication Problems for Typed Template Dependencies
+JF Journal of Computer and System Sciences
+VO 28
+SP 3
+OP 28
+IS 1
+
+RT Conference Proceedings
+ID 576233
+A1 Vardi,Moshe,Y.
+A1 Wolper,Pierre
+YR 1984
+T1 Automata theoretic techniques for modal logics of programs: (Extended abstract)
+SP 446
+OP 456
+
+RT Conference Proceedings
+ID 514720
+A1 Fagin,Ronald
+A1 Halpern,Joseph,Y.
+A1 Vardi,Moshe,Y.
+YR 1984
+T1 A Model-Theoretic Analysis of Knowledge: Preliminary Report
+SP 268
+OP 278
+
+RT Book, Whole
+ID 603028
+A1 Fagin,Ronald
+A1 Vardi,Moshe,Y.
+YR 1984
+T1 The Theory of Data Dependencies - An Overview
+SP 1
+OP 22
+
+RT Conference Proceedings
+ID 565274
+A1 Grahamt,Marc,H.
+A1 Vardi,Moshe,Y.
+YR 1984
+T1 On the complexity and axiomatizability of consistent database states
+SP 281
+OP 289
+
+RT Journal Article
+ID 818169
+A1 Beeri,Catriel
+A1 Vardi,Moshe,Y.
+YR 1984
+T1 On Acyclic Database Decompositions
+JF Information and Computation/information and Control
+VO 61
+SP 75
+OP 84
+IS 2
+
+RT Journal Article
+ID 742805
+A1 Vardi,Moshe,Y.
+YR 1984
+T1 A Note on Lossless Database Decompositions
+JF Information Processing Letters
+VO 18
+SP 257
+OP 260
+IS 5
+
+RT Conference Proceedings
+ID 1369828
+A1 Wolper,Pierre
+A1 Vardi,Moshe,Y.
+A1 Sistla,A.,Prasad
+YR 1983
+T1 Reasoning about Infinite Computation Paths
+SP 185
+OP 194
+
+RT Conference Proceedings
+ID 565332
+A1 Fagin,Ronald
+A1 Ullman,Jeffrey,D.
+A1 Vardi,Moshe,Y.
+YR 1983
+T1 On the semantics of updates in databases
+SP 352
+OP 365
+
+RT Journal Article
+ID 3869251
+A1 Sistla,A.,P.
+A1 Vardi,M.,Y.
+A1 Wolper,P.
+YR 1983
+T1 The complementation problem for Buchi automata with applications to temporal logic
+
+RT Journal Article
+ID 769472
+A1 Vardi,Moshe,Y.
+YR 1983
+T1 Inferring Multivalued Dependencies From Functional and Join Dependencies
+JF Acta Informatica
+VO 19
+SP 305
+OP 324
+IS 4
+
+RT Conference Proceedings
+ID 565423
+A1 Maier,David
+A1 Ullman,Jeffrey,D.
+A1 Vardi,Moshe,Y.
+YR 1983
+T1 The revenge of the JD
+SP 279
+OP 287
+
+RT Journal Article
+ID 742403
+A1 Fagin,Ronald
+A1 Vardi,Moshe,Y.
+YR 1983
+T1 Armstrong Databases for Functional and Inclusion Dependencies
+JF Information Processing Letters
+VO 16
+SP 13
+OP 19
+IS 1
+
+RT Conference Proceedings
+ID 575419
+A1 Kanellakis,Paris,C.
+A1 Cosmadakis,Stavros,S.
+A1 Vardi,Moshe,Y.
+YR 1983
+T1 Unary Inclusion Dependencies have Polynomial Time Inference Problems (Extended Abstract)
+SP 264
+OP 277
+
+RT Conference Proceedings
+ID 4453674
+A1 Kanellakis,Paris,C.
+A1 Cosmadakis,Stavros,S.
+A1 Vardi,Moshe,Y.
+YR 1983
+T1 Unary inclusion dependencies have polynomial time inference problems
+SP 264
+OP 277
+
+RT Conference Proceedings
+ID 515319
+A1 Wolper,Pierre
+A1 Vardi,Moshe,Y.
+A1 Sistla,A.,Prasad
+YR 1983
+T1 Reasoning about Infinite Computation Paths (Extended Abstract)
+SP 185
+OP 194
+
+RT Journal Article
+ID 4137273
+A1 Gaifman,H.
+A1 Vardi,M.,Y.
+YR 1983
+T1 A Simple Proof that Connectivity is not First - Order
+
+RT Conference Proceedings
+ID 475735
+A1 Vardi,Moshe,Y.
+A1 Wolper,Pierre
+YR 1983
+T1 Yet Another Process Logic (Preliminary Version)
+SP 501
+OP 512
+
+RT Conference Proceedings
+ID 443054
+A1 Vardi,Moshe,Y.
+YR 1983
+T1 Second-Order Dependency Theory
+
+RT Conference Proceedings
+ID 1399399
+A1 Vardi,M.
+YR 1982
+T1 Complexity of relational query languages
+
+RT Conference Proceedings
+ID 576655
+A1 Vardi,Moshe,Y.
+YR 1982
+T1 The complexity of relational query languages (Extended Abstract)
+SP 137
+OP 146
+
+RT Journal Article
+ID 1353692
+A1 Vardi,M.
+YR 1982
+T1 Relational queries computable in polynomial time
+
+RT Journal Article
+ID 1285556
+A1 Ullman,Jeffrey,D.
+A1 Vardi,M.,Y.
+A1 Maier,David
+YR 1982
+T1 The equivalence of universal relation definitions
+
+RT Book, Whole
+ID 601800
+A1 Beeri,Catriel
+A1 Vardi,Moshe,Y.
+YR 1981
+T1 The Implication Problem for Data Dependencies
+SP 73
+OP 85
+
+RT Journal Article
+ID 742804
+A1 Vardi,Moshe,Y.
+YR 1981
+T1 The Decision Problem for Database Dependencies
+JF Information Processing Letters
+VO 12
+SP 251
+OP 254
+IS 5
+
+RT Journal Article
+ID 1299940
+A1 Vardi,M.,Y.
+YR 1981
+T1 The implication problem for data dependencies in relational databases
+
+RT Journal Article
+ID 854205
+A1 Beeri,Catriel
+A1 Vardi,Moshe,Y.
+YR 1981
+T1 A note on decompositions of relational databases
+JF Sigmod Record
+VO 12
+SP 33
+OP 37
+IS 1
+
+RT Conference Proceedings
+ID 515910
+A1 Vardi,Moshe,Y.
+YR 1981
+T1 Global Decision Problems for Relational Databases
+SP 198
+OP 202
+
+RT Journal Article
+ID 1280019
+A1 Beeri,C.
+A1 Vardi,M.,Y.
+YR 1980
+T1 On the complexity of testing implications of data dependencies
+
+RT Journal Article
+ID 1914493
+A1 Beeri,C.
+A1 Vardi,M.,Y.
+YR 1980
+T1 On the properties of total join dependencies
+
+RT Journal Article
+ID 1270350
+A1 Vardi,M,Y
+YR 1980
+T1 Aximatization of functional and join dependencies in the relational model
+
+RT Conference Proceedings
+ID 442991
+A1 Beeri,Catriel
+A1 Vardi,Moshe,Y.
+YR 1980
+T1 Decision Problems for Data Dependencies
+
+RT Journal Article
+ID 61322764
+A1 Aharonov,Y.
+A1 Vardi,M.
+YR 1980
+T1 Meaning of an individual ''Feynman path''
+
+RT Conference Proceedings
+ID 492291
+A1 Beeri,Catriel
+A1 Vardi,Moshe,Y.
+YR 1979
+T1 On the Properties of Join Dependencies
+SP 25
+OP 71
+
+RT Book, Whole
+ID 4674195
+A1 Fagin,Ronald
+A1 Halpern,Joseph,Y.
+A1 Moses,Yoram
+A1 Vardi,Moshe,Y.
+T1 Reasoning About Knowledge
+
+RT Conference Proceedings
+ID 4468197
+A1 Goos,Gerhard
+A1 Hartmanis,Juris
+A1 Leeuwen,Jan,van
+A1 Hutchison,David
+A1 Kanade,Takeo
+A1 Kittler,Josef
+A1 Kleinberg,Jon,M.
+A1 Mattern,Friedemann
+A1 Mitchell,John,C.
+A1 Naor,Moni
+A1 Nierstrasz,Oscar
+A1 Rangan,C.,Pandu
+A1 Steffen,Bernhard
+A1 Sudan,Madhu
+A1 Terzopoulos,Demetri
+A1 Tygar,Doug
+A1 Vardi,Moshe,Y.
+A1 Weikum,Gerhard
+A1 Middeldorp,Aart
+A1 Oostrom,Vincent,Van
+T1 Lecture Notes in Computer Science 3728
+
+RT Book, Whole
+ID 48428131
+A1 Meyden,Ron,van,der
+A1 Vardi,Moshe,Y.
+T1 Synthesis from knowledge-based specifications
+
+RT Journal Article
+ID 13059810
+A1 Fagin,Ronald
+A1 Ullman,Jeffrey,D.
+A1 Vardi,Moshe,Y.
+T1 ON THE SEMANTICS OF UPDATES IN DATABASES Preliminary Report
+
+RT Journal Article
+ID 10592559
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+T1 Synthesis with Incomplete Informatio
+
+RT Book, Whole
+ID 47742171
+A1 Kolaitis,Phokion,G.
+A1 Vardi,Moshe,Y.
+T1 A Logical Approach to Constraint Satisfaction
+
+RT Conference Proceedings
+ID 12781670
+A1 Tran,Quocnam
+A1 Vardi,Moshe,Y.
+T1 GROEBNER BASES COMPUTATION IN BOOLEAN RINGS FOR SYMBOLIC MODEL CHECKING
+
+RT Journal Article
+ID 126741
+A1 Barland,Ian
+A1 Felleisen,Matthias
+A1 Fisler,Kathi
+A1 Kolaitis,Phokion
+A1 Vardi,Moshe,Y.
+T1 Integrating Logic into the Computer Science Curriculum
+
+RT Conference Proceedings
+ID 4547079
+A1 Tabakov,Deian
+A1 Vardi,Moshe,Y.
+T1 Model Checking B¨ uchi Specifications
+
+RT Journal Article
+ID 11699186
+A1 Nesher,Nahum
+A1 Uretzky,Gideon
+A1 Insler,Steven
+A1 Nataf,Patrick
+A1 Frolkis,Inna
+A1 Pineau,Emmanuelle
+A1 Cantoni,Emmanuel
+A1 Bolotin,Gil
+A1 Vardi,Moshe
+A1 Pevni,Dimitry
+A1 Lev-Ran,Oren
+A1 Sharony,Ram
+A1 Weinbroum,Avi,A.
+T1 Thermo-wrap technology preserves normothermia better than routine thermal care in patients undergoing off-pump coronary artery bypass and is associated with lower immune response and lesser myocardial damage
+
+RT Journal Article
+ID 11705681
+A1 Calvanese,Diego
+A1 Vardi,Moshe,Y.
+A1 Domenicani,Piazza
+T1 Decidable containment of recursive queries
+
+RT Conference Proceedings
+ID 4846468
+A1 Calvanese,Diego
+A1 Giacomo,Giuseppe,De
+A1 Lenzerini,Maurizio
+A1 Vardi,Moshe,Y.
+T1 Regular XPath: Constraints, Query Containment and View-Based Answering for XML Documents
+
+RT Journal Article
+ID 12036693
+A1 Calvanese,Diego
+A1 Lenzerini,Maurizio
+A1 Vardi,Moshe,Y.
+T1 View-based query processing: On the relationship between rewriting, answering and losslessness
+
+RT Journal Article
+ID 13030223
+A1 Simon,Janos
+A1 Halpern,Joseph
+A1 Kurtz,Stuart,A.
+A1 Abadi,Martin
+A1 Frederickson,Greg
+A1 Mitchell,John
+A1 Agarwal,Pankaj
+A1 Goldberg,Andrew
+A1 Mulmuley,Ketan
+A1 Allender,Eric
+A1 Gottlob,Georg
+A1 Neiger,Gil
+A1 Asano,Tetsuo
+A1 Hadzilacos,Vassos
+A1 Peleg,David
+A1 Babai,Laszlo
+A1 Hartmanis,Juris
+A1 Pitts,Andrew
+A1 Bach,Eric
+A1 Herlihy,Maurice
+A1 Royer,James
+A1 Brookes,Stephen
+A1 Homer,Stephen
+A1 Selman,Alan
+A1 Cai,Jin-Yi
+A1 Condon,Anne
+A1 Tardos,Kanellakis,Eva
+A1 Dwork,Cynthia
+A1 Karlo,Howard
+A1 Toueg,Sam
+A1 Eppstein,David
+A1 Klein,Philip
+A1 Vardi,Moshe
+T1 The Chicago Journal of Theoretical Computer Science is abstracted or in- dexed in Research Alert R , SciSearch R , Current Contents R /Engineering Computing & Technology, and CompuMath Citation Index R
+
+RT Conference Proceedings
+ID 12701071
+A1 Bustan,Doron
+A1 Rubin,Sasha
+A1 Vardi,Moshe,Y.
+T1 Verifying !Regular Properties of Markov Chains
+
+RT Journal Article
+ID 49722911
+A1 Kupferman,Orna
+A1 Pnueli,Amir
+A1 Vardi,Moshe,Y.
+T1 Once and for all
+JF Journal of Computer and System Sciences
+
+RT Journal Article
+ID 12222424
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+T1 Safraless Decision Procedures
+
+RT Conference Proceedings
+ID 4846478
+A1 Calvanese,Diego
+A1 Giacomo,Giuseppe,De
+A1 Lenzerini,Maurizio
+A1 Vardi,Moshe,Y.
+T1 What is View-Based Query Rewriting? (Position Paper)
+
+RT Journal Article
+ID 13004234
+A1 Gerth,R.
+A1 Peled,D.
+A1 Vardi,M.,Y.
+A1 Wolper,P.
+T1 Literaturliste
+
+RT Journal Article
+ID 48417892
+A1 Grumberg,Orna
+A1 Vardi,Moshe,Y.
+A1 Sifakis,Joseph
+A1 Alur,Rajeev
+T1 2010 CAV award announcement
+JF Formal Methods in System Design
+SP 1
+OP 4
+
+RT Journal Article
+ID 12667298
+A1 Gradel,E.
+A1 Kolaitis,P.
+A1 Libkin,L.
+A1 Marx,M.
+A1 Vardi,M.
+A1 Weinstein,S.
+T1 Finite Model Theory and its
+
+RT Journal Article
+ID 4693452
+A1 Calvanese,Diego
+A1 Giacomo,Giuseppe,De
+A1 Lenzerini,Maurizio
+A1 Vardi,Moshe,Y.
+T1 Query Containment Using Views (extended abstract)?
+
+RT Journal Article
+ID 12075342
+A1 Calvanese,D.
+A1 Giacomo,G.,De
+A1 Lenzerini,M.
+A1 Vardi,M.
+T1 Rewriting Regular Expressions in Semi-Structured Data To appear in ICDT'99 WS on Query Processing for SSD and Non-standard Data Formats
+
+RT Journal Article
+ID 12075356
+A1 Calvanese,Diego
+A1 Giacomo,Giuseppe,De
+A1 Lenzerini,Maurizio
+A1 Vardi,Moshe,Y.
+T1 What is View-Based Query Rewriting? (Position Paper) In Proc. of WS on Knowledge Representation Meets Databases (KRDB 2000)
+
+RT Journal Article
+ID 49157040
+A1 Vardi,Moshe
+A1 Dagna,Lorenzo
+A1 Haran,Michal
+A1 Duckit,Roger
+T1 Attitudes towards and practice of venous thromboembolism prevention in general internal medicine wards
+JF Thrombosis Research
+
+RT Journal Article
+ID 11903478
+A1 Vardi,Moshe,Y.
+A1 Finin,Tim
+A1 Henderson,Tom
+T1 Survey Results Show Better Balance in Supply and Demand
+
+RT Journal Article
+ID 58574818
+A1 Vardi,Moshe,Y.
+T1 Why ACM?
+JF Communications of The ACM
+SP 5
+OP 5
+
+RT Journal Article
+ID 12648931
+A1 Kupferman,Orna
+A1 Ta-Shma,Amnon
+A1 Vardi,Moshe,Y.
+T1 Concurrency Counts
+
+RT Journal Article
+ID 11498826
+A1 Etessami,Kousha
+A1 Vardi,Moshe,Y.
+A1 Wilke,Thomas
+T1 Two Variables and Unary Temporal Logic
+
+RT Book, Whole
+ID 48860812
+A1 Cook,Byron
+A1 Koskinen,Eric
+A1 Vardi,Moshe
+T1 Temporal Property Verification as a Program Analysis Task
+
+RT Journal Article
+ID 12764700
+A1 Kupferman,Orna
+A1 Vardi,Moshe,Y.
+T1 OntheComplexityof BranchingModularModelChecking (Extended Abstract)
+
+RT Book, Whole
+ID 48836633
+A1 Rozier,Kristin,Y.
+A1 Vardi,Moshe,Y.
+T1 A Multi-encoding Approach for LTL Symbolic Satisfiability Checking
+
+RT Book, Whole
+ID 48792033
+A1 Fisher,Jasmin
+A1 Piterman,Nir
+A1 Vardi,Moshe
+T1 The Only Way Is Up
+
+RT Book, Whole
+ID 48447853
+A1 Tabakov,Deian
+A1 Vardi,Moshe,Y.
+T1 Optimized Temporal Monitors for SystemC
+
+RT Journal Article
+ID 12980723
+A1 Nain,Sumit
+A1 Vardi,Moshe,Y.
+T1 Branching vs. Linear Time: Semantical Perspective Version 1.1 ?
+
+RT Journal Article
+ID 10139839
+A1 Vardi,Moshe,Y.
+T1 Extended Abstract
+
+RT Journal Article
+ID 11457005
+A1 VARDI,MOSHE,Y.
+T1 tute of Science, Rehovoth, Israel Thesis: Axiomatization of Functional and Join Dependencies in the Relational Model
+
+RT Journal Article
+ID 12764125
+A1 Vardi,Moshe,Y.
+T1 An Automata-Theoretic Approach to Fair Realizability and Synthesis (Preliminary Report)

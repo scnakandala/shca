@@ -1,0 +1,2794 @@
+<file>
+<record>
+<title>Querying heterogeneous information sources using source descriptions</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;citation_for_view=F_MI0pcAAAAJ:WqliGbK-hY8C</link>
+<authors>A Levy, A Rajaraman, J Ordille</authors>
+<source>Stanford InfoLab</source>
+<citations>1485</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Answering queries using views: A survey</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;citation_for_view=F_MI0pcAAAAJ:u-x6o8ySG0sC</link>
+<authors>AY Halevy</authors>
+<source>The VLDB Journal 10 (4), 270-294</source>
+<citations>1332</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Learning to map between ontologies on the semantic web</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;citation_for_view=F_MI0pcAAAAJ:43bX7VzcjpAC</link>
+<authors>AH Doan, J Madhavan, P Domingos, A Halevy</authors>
+<source>Proceedings of the 11th international conference on World Wide Web, 662-673</source>
+<citations>1095</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Reconciling schemas of disparate data sources: A machine-learning approach</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;citation_for_view=F_MI0pcAAAAJ:d1gkVwhDpl0C</link>
+<authors>AH Doan, P Domingos, AY Halevy</authors>
+<source>ACM Sigmod Record 30 (2), 509-520</source>
+<citations>824</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Database techniques for the World-Wide Web: A survey</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;citation_for_view=F_MI0pcAAAAJ:VL0QpB8kHFEC</link>
+<authors>D Florescu, AY Levy, AO Mendelzon</authors>
+<source>SIGMOD record 27 (3), 59-74</source>
+<citations>789</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>A query language for XML</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;citation_for_view=F_MI0pcAAAAJ:HIFyuExEbWQC</link>
+<authors>A Deutsch, M Fernandez, D Florescu, A Levy, D Suciu</authors>
+<source>Computer networks 31 (11), 1155-1169</source>
+<citations>777</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Answering queries using views</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;citation_for_view=F_MI0pcAAAAJ:ye4kPcJQO24C</link>
+<authors>AY Levy, AO Mendelzon, Y Sagiv</authors>
+<source>Proceedings of the fourteenth ACM SIGACT-SIGMOD-SIGART symposium on ...</source>
+<citations>776</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Similarity search for web services</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;citation_for_view=F_MI0pcAAAAJ:2osOgNQ5qMEC</link>
+<authors>X Dong, A Halevy, J Madhavan, E Nemes, J Zhang</authors>
+<source>Proceedings of the Thirtieth international conference on Very large data ...</source>
+<citations>627</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>An adaptive query execution system for data integration</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;citation_for_view=F_MI0pcAAAAJ:N5tVd3kTz84C</link>
+<authors>ZG Ives, D Florescu, M Friedman, A Levy, DS Weld</authors>
+<source>ACM SIGMOD Record 28 (2), 299-310</source>
+<citations>491</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Schema mediation in peer data management systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;citation_for_view=F_MI0pcAAAAJ:9yKSN-GCB0IC</link>
+<authors>AY Halevy, ZG Ives, D Suciu, I Tatarinov</authors>
+<source>Data Engineering, 2003. Proceedings. 19th International Conference on, 505-516</source>
+<citations>487</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Learning to match ontologies</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;citation_for_view=F_MI0pcAAAAJ:u5HHmVD_uO8C</link>
+<authors>AH Doan, J Madhavan, R Dhamankar, P Domingos, AY Halevy</authors>
+<source>VLDB Journal 12 (4), 303-319</source>
+<citations>470</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>From databases to dataspaces: a new abstraction for information management</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;citation_for_view=F_MI0pcAAAAJ:YsMSGLbcyi4C</link>
+<authors>M Franklin, A Halevy, D Maier</authors>
+<source>ACM Sigmod Record 34 (4), 27-33</source>
+<citations>457</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Data integration: the teenage years</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;citation_for_view=F_MI0pcAAAAJ:LkGwnXOMwfcC</link>
+<authors>A Halevy, A Rajaraman, J Ordille</authors>
+<source>Proceedings of the 32nd international conference on Very large data bases, 9-16</source>
+<citations>450</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>ULDBs: Databases with uncertainty and lineage</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;citation_for_view=F_MI0pcAAAAJ:zYLM7Y9cAGgC</link>
+<authors>O Benjelloun, AD Sarma, A Halevy, J Widom</authors>
+<source>Proceedings of the 32nd international conference on Very large data bases ...</source>
+<citations>450</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Semantic integration research in the database community: A brief survey</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;citation_for_view=F_MI0pcAAAAJ:Y0pCki6q_DkC</link>
+<authors>AH Doan, AY Halevy</authors>
+<source>AI magazine 26 (1), 83</source>
+<citations>436</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Catching the boat with Strudel: Experiences with a web-site management system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;citation_for_view=F_MI0pcAAAAJ:ZuybSZzF8UAC</link>
+<authors>M Fernandez, D Florescu, J Kang, A Levy, D Suciu</authors>
+<source>ACM SIGMOD Record 27 (2), 414-425</source>
+<citations>432</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Xml-ql: A query language for xml</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;citation_for_view=F_MI0pcAAAAJ:cK4Rrx0J3m0C</link>
+<authors>A Deutsch, M Fernandez, D Florescu, A Levy, D Suciu</authors>
+<source></source>
+<citations>422</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Piazza: Data management infrastructure for semantic web applications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;citation_for_view=F_MI0pcAAAAJ:IjCSPb-OGe4C</link>
+<authors>AY Halevy, ZG Ives, P Mork, I Tatarinov</authors>
+<source>Proceedings of the 12th international conference on World Wide Web, 556-567</source>
+<citations>417</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Updating xml</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;citation_for_view=F_MI0pcAAAAJ:UeHWp8X0CEIC</link>
+<authors>I Tatarinov, ZG Ives, AY Halevy, DS Weld</authors>
+<source>ACM SIGMOD Record 30 (2), 413-424</source>
+<citations>414</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Ontology matching: A machine learning approach</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;citation_for_view=F_MI0pcAAAAJ:W7OEmFMy1HYC</link>
+<authors>AH Doan, J Madhavan, P Domingos, A Halevy</authors>
+<source>Handbook on ontologies, 385-403</source>
+<citations>412</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>iMAP: discovering complex semantic matches between database schemas</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=20&amp;citation_for_view=F_MI0pcAAAAJ:Tyk-4Ss8FVUC</link>
+<authors>R Dhamankar, Y Lee, AH Doan, A Halevy, P Domingos</authors>
+<source>Proceedings of the 2004 ACM SIGMOD international conference on Management of ...</source>
+<citations>411</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>The information manifold</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=20&amp;citation_for_view=F_MI0pcAAAAJ:1yQoGdGgb4wC</link>
+<authors>T Kirk, AY Levy, Y Sagiv, D Srivastava</authors>
+<source>Proceedings of the AAAI 1995 Spring Symp. on Information Gathering from ...</source>
+<citations>410</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Reference reconciliation in complex information spaces</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=20&amp;citation_for_view=F_MI0pcAAAAJ:eQOLeE2rZwMC</link>
+<authors>X Dong, A Halevy, J Madhavan</authors>
+<source>Proceedings of the 2005 ACM SIGMOD international conference on Management of ...</source>
+<citations>402</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Combining Horn rules and description logics in CARIN</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=20&amp;citation_for_view=F_MI0pcAAAAJ:PR6Y55bgFSsC</link>
+<authors>AY Levy, MC Rousset</authors>
+<source>Artificial Intelligence 104 (1), 165-209</source>
+<citations>388</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Corpus-based schema matching</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=20&amp;citation_for_view=F_MI0pcAAAAJ:_FxGoFyzp5QC</link>
+<authors>J Madhavan, PA Bernstein, AH Doan, A Halevy</authors>
+<source>Data Engineering, 2005. ICDE 2005. Proceedings. 21st International ...</source>
+<citations>349</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>A vision for management of complex models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=20&amp;citation_for_view=F_MI0pcAAAAJ:ufrVoPGSRksC</link>
+<authors>PA Bernstein, AY Halevy, RA Pottinger</authors>
+<source>ACM Sigmod Record 29 (4), 55-63</source>
+<citations>342</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>What can databases do for peer-to-peer</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=20&amp;citation_for_view=F_MI0pcAAAAJ:WF5omc3nYNoC</link>
+<authors>S Gribble, A Halevy, Z Ives, M Rodrig, D Suciu</authors>
+<source>WebDB Workshop on Databases and the Web 15</source>
+<citations>331</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Answering queries with aggregation using views</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=20&amp;citation_for_view=F_MI0pcAAAAJ:UHK10RUVsp4C</link>
+<authors>D Srivastava, S Dar, HV Jagadish, AY Levy</authors>
+<source>VLDB 96, 318-329</source>
+<citations>325</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Data model and query evaluation in global information systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=20&amp;citation_for_view=F_MI0pcAAAAJ:hkOj_22Ku90C</link>
+<authors>AY Levy, D Srivastava, T Kirk</authors>
+<source>Journal of Intelligent Information Systems 5 (2), 121-143</source>
+<citations>318</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Navigational plans for data integration</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=20&amp;citation_for_view=F_MI0pcAAAAJ:JQOojiI6XY0C</link>
+<authors>M Friedman, AY Levy, TD Millstein</authors>
+<source>AAAI/IAAI 1999, 67-73</source>
+<citations>316</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>User interface for information retrieval system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=20&amp;citation_for_view=F_MI0pcAAAAJ:uLbwQdceFCQC</link>
+<authors>T Kirk, AY Levy</authors>
+<source>US Patent 5,768,578</source>
+<citations>309</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Query answering algorithms for information agents</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=20&amp;citation_for_view=F_MI0pcAAAAJ:_Ybze24A_UAC</link>
+<authors>A Levy, A Rajaraman, J Ordille</authors>
+<source></source>
+<citations>296</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>A query language and processor for a web-site management system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=20&amp;citation_for_view=F_MI0pcAAAAJ:dQ2og3OwTAUC</link>
+<authors>M Fernandez, D Florescu, A Levy, D Suciu</authors>
+<source>Proc. of the Workshop on Semi-structured Data, Tucson, Arizona, 26-33</source>
+<citations>291</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Working models for uncertain data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=20&amp;citation_for_view=F_MI0pcAAAAJ:0EnyYjriUFMC</link>
+<authors>AD Sarma, O Benjelloun, A Halevy, J Widom</authors>
+<source>Data Engineering, 2006. ICDE'06. Proceedings of the 22nd International ...</source>
+<citations>285</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Representing and reasoning about mappings between domain models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=20&amp;citation_for_view=F_MI0pcAAAAJ:roLk4NBRz8UC</link>
+<authors>J Madhavan, PA Bernstein, P Domingos, AY Halevy</authors>
+<source>AAAI/IAAI 2, 80-86</source>
+<citations>275</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>The piazza peer data management system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=20&amp;citation_for_view=F_MI0pcAAAAJ:5nxA0vEk-isC</link>
+<authors>AY Halevy, ZG Ives, J Madhavan, P Mork, D Suciu, I Tatarinov</authors>
+<source>Knowledge and Data Engineering, IEEE Transactions on 16 (7), 787-798</source>
+<citations>262</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Logic-based techniques in data integration</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=20&amp;citation_for_view=F_MI0pcAAAAJ:W5xh706n7nkC</link>
+<authors>AY Levy</authors>
+<source>Logic-based artificial intelligence, 575-595</source>
+<citations>260</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Learning to match the schemas of data sources: A multistrategy approach</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=20&amp;citation_for_view=F_MI0pcAAAAJ:Se3iqnhoufwC</link>
+<authors>A Doan, P Domingos, A Halevy</authors>
+<source>Machine Learning 50 (3), 279-301</source>
+<citations>259</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Crowdsourcing systems on the world-wide web</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=20&amp;citation_for_view=F_MI0pcAAAAJ:M3NEmzRMIkIC</link>
+<authors>A Doan, R Ramakrishnan, AY Halevy</authors>
+<source>Communications of the ACM 54 (4), 86-96</source>
+<citations>255</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>P-CLASSIC: A tractable probablistic description logic</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=20&amp;citation_for_view=F_MI0pcAAAAJ:Fu2w8maKXqMC</link>
+<authors>D Koller, A Levy, A Pfeffer</authors>
+<source>AAAI/IAAI 1997, 390-397</source>
+<citations>255</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Principles of dataspace systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=40&amp;citation_for_view=F_MI0pcAAAAJ:MXK_kJrjxJIC</link>
+<authors>A Halevy, M Franklin, D Maier</authors>
+<source>Proceedings of the twenty-fifth ACM SIGMOD-SIGACT-SIGART symposium on ...</source>
+<citations>251</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Efficient query reformulation in peer data management systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=40&amp;citation_for_view=F_MI0pcAAAAJ:UebtZRa9Y70C</link>
+<authors>I Tatarinov, A Halevy</authors>
+<source>Proceedings of the 2004 ACM SIGMOD international conference on Management of ...</source>
+<citations>251</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Composing mappings among data sources</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=40&amp;citation_for_view=F_MI0pcAAAAJ:hqOjcs7Dif8C</link>
+<authors>J Madhavan, AY Halevy</authors>
+<source>Proceedings of the 29th international conference on Very large data bases ...</source>
+<citations>251</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>A Scalable Algorithm for Answering Queries Using Views.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=40&amp;citation_for_view=F_MI0pcAAAAJ:BzfGm06jWhQC</link>
+<authors>R Pottinger, AY Levy</authors>
+<source>VLDB, 484-495</source>
+<citations>251</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Webtables: exploring the power of tables on the web</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=40&amp;citation_for_view=F_MI0pcAAAAJ:Zph67rFs4hoC</link>
+<authors>MJ Cafarella, A Halevy, DZ Wang, E Wu, Y Zhang</authors>
+<source>Proceedings of the VLDB Endowment 1 (1), 538-549</source>
+<citations>243</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Web-scale data integration: You can only afford to pay as you go</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=40&amp;citation_for_view=F_MI0pcAAAAJ:kNdYIx-mwKoC</link>
+<authors>J Madhavan, S Jeffery, S Cohen, X Dong, D Ko, C Yu, A Halevy</authors>
+<source>Proceedings of CIDR, 342-350</source>
+<citations>241</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>MiniCon: A scalable algorithm for answering queries using views</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=40&amp;citation_for_view=F_MI0pcAAAAJ:qjMakFHDy7sC</link>
+<authors>R Pottinger, A Halevy</authors>
+<source>The VLDB JournalThe International Journal on Very Large Data Bases 10 (2-3 ...</source>
+<citations>241</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>The unreasonable effectiveness of data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=40&amp;citation_for_view=F_MI0pcAAAAJ:Wp0gIr-vW9MC</link>
+<authors>A Halevy, P Norvig, F Pereira</authors>
+<source>Intelligent Systems, IEEE 24 (2), 8-12</source>
+<citations>236</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Google's deep web crawl</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=40&amp;citation_for_view=F_MI0pcAAAAJ:M3ejUd6NZC8C</link>
+<authors>J Madhavan, D Ko, Ł Kot, V Ganapathy, A Rasmussen, A Halevy</authors>
+<source>Proceedings of the VLDB Endowment 1 (2), 1241-1252</source>
+<citations>233</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Enterprise information integration: successes, challenges and controversies</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=40&amp;citation_for_view=F_MI0pcAAAAJ:3fE2CSJIrl8C</link>
+<authors>AY Halevy, N Ashish, D Bitton, M Carey, D Draper, J Pollock, A Rosenthal, V ...</authors>
+<source>Proceedings of the 2005 ACM SIGMOD international conference on Management of ...</source>
+<citations>226</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Data integration with uncertainty</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=40&amp;citation_for_view=F_MI0pcAAAAJ:YOwf2qJgpHMC</link>
+<authors>XL Dong, A Halevy, C Yu</authors>
+<source>The VLDB JournalThe International Journal on Very Large Data Bases 18 (2 ...</source>
+<citations>224</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>The Piazza peer data management project</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=40&amp;citation_for_view=F_MI0pcAAAAJ:8k81kl-MbHgC</link>
+<authors>I Tatarinov, Z Ives, J Madhavan, A Halevy, D Suciu, N Dalvi, XL Dong, Y ...</authors>
+<source>ACM Sigmod Record 32 (3), 47-52</source>
+<citations>224</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Queries independent of updates</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=40&amp;citation_for_view=F_MI0pcAAAAJ:kzcrU_BdoSEC</link>
+<authors>AY Levy, Y Sagiv</authors>
+<source>VLDB 93, 171-181</source>
+<citations>220</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>STRUDEL: a Web site management system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=40&amp;citation_for_view=F_MI0pcAAAAJ:7T2F9Uy0os0C</link>
+<authors>M Fernandez, D Florescu, J Kang, A Levy, D Suciu</authors>
+<source>ACM SIGMOD Record 26 (2), 549-552</source>
+<citations>211</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>CARIN: A representation language combining horn rules and description logics'</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=40&amp;citation_for_view=F_MI0pcAAAAJ:NJ774b8OgUMC</link>
+<authors>AY Levy, MC Rousset</authors>
+<source>ECAI, 323-327</source>
+<citations>209</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Query optimization in the presence of limited access patterns</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=40&amp;citation_for_view=F_MI0pcAAAAJ:_Re3VWB3Y0AC</link>
+<authors>D Florescu, A Levy, I Manolescu, D Suciu</authors>
+<source>ACM SIGMOD Record 28 (2), 311-322</source>
+<citations>195</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Recursive query plans for data integration</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=40&amp;citation_for_view=F_MI0pcAAAAJ:ZfRJV9d4-WMC</link>
+<authors>OM Duschka, MR Genesereth, AY Levy</authors>
+<source>The Journal of Logic Programming 43 (1), 49-73</source>
+<citations>190</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Learning Source Description for Data Integration.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=40&amp;citation_for_view=F_MI0pcAAAAJ:tzM49s52ZIMC</link>
+<authors>AH Doan, P Domingos, AY Levy</authors>
+<source>WebDB (Informal Proceedings), 81-86</source>
+<citations>186</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Rewriting queries using views in description logics</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=40&amp;citation_for_view=F_MI0pcAAAAJ:tKAzc9rXhukC</link>
+<authors>C Beeri, AY Levy, MC Rousset</authors>
+<source>Proceedings of the sixteenth ACM SIGACT-SIGMOD-SIGART symposium on ...</source>
+<citations>185</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Bootstrapping pay-as-you-go data integration systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=40&amp;citation_for_view=F_MI0pcAAAAJ:aqlVkmm33-oC</link>
+<authors>A Das Sarma, X Dong, A Halevy</authors>
+<source>Proceedings of the 2008 ACM SIGMOD international conference on Management of ...</source>
+<citations>173</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>A platform for personal information management and integration</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=60&amp;citation_for_view=F_MI0pcAAAAJ:4TOpqqG69KYC</link>
+<authors>XL Dong, A Halevy</authors>
+<source>Proceedings of VLDB 2005 PhD Workshop, 26</source>
+<citations>164</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Declarative specification of web sites with strudel</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=60&amp;citation_for_view=F_MI0pcAAAAJ:2KloaMYe4IUC</link>
+<authors>M Fernández, D Florescu, A Levy, D Suciu</authors>
+<source>The VLDB Journal 9 (1), 38-55</source>
+<citations>160</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>The Lowell database research self-assessment</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=60&amp;citation_for_view=F_MI0pcAAAAJ:ULOm3_A8WrAC</link>
+<authors>S Abiteboul, R Agrawal, P Bernstein, M Carey, S Ceri, B Croft, D DeWitt, M ...</authors>
+<source>Communications of the ACM 48 (5), 111-118</source>
+<citations>159</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Theory of answering queries using views</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=60&amp;citation_for_view=F_MI0pcAAAAJ:KlAtU1dfN6UC</link>
+<authors>AY Halevy</authors>
+<source>ACM SIGMOD Record 29 (4), 40-47</source>
+<citations>158</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>A formal perspective on the view selection problem</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=60&amp;citation_for_view=F_MI0pcAAAAJ:qxL8FJ1GzNcC</link>
+<authors>R Chirkova, AY Halevy, D Suciu</authors>
+<source>The VLDB JournalThe International Journal on Very Large Data Bases 11 (3 ...</source>
+<citations>144</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>An XML query engine for network-bound data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=60&amp;citation_for_view=F_MI0pcAAAAJ:_kc_bZDykSQC</link>
+<authors>ZG Ives, AY Halevy, DS Weld</authors>
+<source>The VLDB JournalThe International Journal on Very Large Data Bases 11 (4 ...</source>
+<citations>141</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Query containment for conjunctive queries with regular expressions</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=60&amp;citation_for_view=F_MI0pcAAAAJ:-_dYPAW6P2MC</link>
+<authors>D Florescu, A Levy, D Suciu</authors>
+<source>Proceedings of the seventeenth ACM SIGACT-SIGMOD-SIGART symposium on ...</source>
+<citations>137</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Obtaining complete answers from incomplete databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=60&amp;citation_for_view=F_MI0pcAAAAJ:fEOibwPWpKIC</link>
+<authors>AY Levy</authors>
+<source>VLDB 96, 402-412</source>
+<citations>135</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Recursive plans for information gathering</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=60&amp;citation_for_view=F_MI0pcAAAAJ:35r97b3x0nAC</link>
+<authors>OM Duschka, AY Levy</authors>
+<source>IJCAI (1), 778-784</source>
+<citations>129</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Apparatus and methods for retrieving information by modifying query plan based on description of information sources</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=60&amp;citation_for_view=F_MI0pcAAAAJ:j8SEvjWlNXcC</link>
+<authors>AY Levy, D Srivastava</authors>
+<source>US Patent 5,600,831</source>
+<citations>129</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Databases with uncertainty and lineage</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=60&amp;citation_for_view=F_MI0pcAAAAJ:dhFuZR0502QC</link>
+<authors>O Benjelloun, AD Sarma, A Halevy, M Theobald, J Widom</authors>
+<source>The VLDB Journal 17 (2), 243-264</source>
+<citations>127</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Answering queries using limited external query processors</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=60&amp;citation_for_view=F_MI0pcAAAAJ:evX43VCCuoAC</link>
+<authors>AY Halevy, A Rajaraman, JD Ullman</authors>
+<source>Proceedings of the fifteenth ACM SIGACTSIGMOD-SIGART symposium on Principles ...</source>
+<citations>126</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Using probabilistic information in data integration</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=60&amp;citation_for_view=F_MI0pcAAAAJ:uJ-U7cs_P_0C</link>
+<authors>D Florescu, D Koller, A Levy, A Pfeffer</authors>
+<source>VLDB 97, 25-29</source>
+<citations>125</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Indexing dataspaces</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=60&amp;citation_for_view=F_MI0pcAAAAJ:ZeXyd9-uunAC</link>
+<authors>X Dong, A Halevy</authors>
+<source>Proceedings of the 2007 ACM SIGMOD international conference on Management of ...</source>
+<citations>124</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Query optimization by predicate move-around</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=60&amp;citation_for_view=F_MI0pcAAAAJ:VLnqNzywnoUC</link>
+<authors>AY Levy, IS Mumick, Y Sagiv</authors>
+<source>VLDB, 96-107</source>
+<citations>123</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Data integration and genomic medicine</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=60&amp;citation_for_view=F_MI0pcAAAAJ:QIV2ME_5wuYC</link>
+<authors>B Louie, P Mork, F Martin-Sanchez, A Halevy, P Tarczy-Hornoch</authors>
+<source>Journal of biomedical informatics 40 (1), 5-16</source>
+<citations>117</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Querying XML data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=60&amp;citation_for_view=F_MI0pcAAAAJ:t7zJ5fGR-2UC</link>
+<authors>A Deutsch, MF Fernandez, D Florescu, AY Levy, D Maier, D Suciu</authors>
+<source>IEEE Data Eng. Bull. 22 (3), 10-18</source>
+<citations>111</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Adapting to source properties in processing data integration queries</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=60&amp;citation_for_view=F_MI0pcAAAAJ:mVmsd5A6BfQC</link>
+<authors>ZG Ives, AY Halevy, DS Weld</authors>
+<source>Proceedings of the 2004 ACM SIGMOD international conference on Management of ...</source>
+<citations>109</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Pay-as-you-go user feedback for dataspace systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=60&amp;citation_for_view=F_MI0pcAAAAJ:mB3voiENLucC</link>
+<authors>SR Jeffery, MJ Franklin, AY Halevy</authors>
+<source>Proceedings of the 2008 ACM SIGMOD international conference on Management of ...</source>
+<citations>107</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>The information manifold approach to data integration</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=60&amp;citation_for_view=F_MI0pcAAAAJ:9Nmd_mFXekcC</link>
+<authors>A Levy</authors>
+<source>IEEE Intelligent Systems 13 (5), 12-16</source>
+<citations>107</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Crossing the Structure Chasm.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=80&amp;citation_for_view=F_MI0pcAAAAJ:4DMP91E08xMC</link>
+<authors>AY Halevy, O Etzioni, AH Doan, ZG Ives, J Madhavan, L McDowell, I Tatarinov</authors>
+<source>CIDR</source>
+<citations>105</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Why your data won't mix</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=80&amp;citation_for_view=F_MI0pcAAAAJ:qUcmZB5y_30C</link>
+<authors>A Halevy</authors>
+<source>Queue 3 (8), 50-58</source>
+<citations>100</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Introduction to the special issue on semantic integration</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=80&amp;citation_for_view=F_MI0pcAAAAJ:7PzlFSSx8tAC</link>
+<authors>AH Doan, NF Noy, AY Halevy</authors>
+<source>ACM Sigmod Record 33 (4), 11-13</source>
+<citations>99</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Query containment for data integration systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=80&amp;citation_for_view=F_MI0pcAAAAJ:9ZlFYXVOiuMC</link>
+<authors>T Millstein, A Halevy, M Friedman</authors>
+<source>Journal of Computer and System Sciences 66 (1), 20-39</source>
+<citations>99</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Intelligent internet systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=80&amp;citation_for_view=F_MI0pcAAAAJ:XD-gHx7UXLsC</link>
+<authors>AY Levy, DS Weld</authors>
+<source>Artificial Intelligence 118 (1), 1-14</source>
+<citations>95</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>The Claremont report on database research</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=80&amp;citation_for_view=F_MI0pcAAAAJ:TQgYirikUcIC</link>
+<authors>R Agrawal, A Ailamaki, PA Bernstein, EA Brewer, MJ Carey, S Chaudhuri, AH ...</authors>
+<source>ACM SIGMOD Record 37 (3), 9-19</source>
+<citations>93</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Supporting executable mappings in model management</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=80&amp;citation_for_view=F_MI0pcAAAAJ:L8Ckcad2t8MC</link>
+<authors>S Melnik, PA Bernstein, A Halevy, E Rahm</authors>
+<source>Proceedings of the 2005 ACM SIGMOD international conference on Management of ...</source>
+<citations>93</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Personal information management with SEMEX</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=80&amp;citation_for_view=F_MI0pcAAAAJ:hFOr9nPyWt4C</link>
+<authors>Y Cai, XL Dong, A Halevy, JM Liu, J Madhavan</authors>
+<source>Proceedings of the 2005 ACM SIGMOD international conference on Management of ...</source>
+<citations>92</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Adaptive query processing for internet applications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=80&amp;citation_for_view=F_MI0pcAAAAJ:nrtMV_XWKgEC</link>
+<authors>ZG Ives, AY Levy, DS Weld, D Florescu, M Friedman</authors>
+<source>Departmental Papers (CIS), 130</source>
+<citations>86</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>A model for data integration systems of biomedical data applied to online genetic databases.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=80&amp;citation_for_view=F_MI0pcAAAAJ:IWHjjKOFINEC</link>
+<authors>P Mork, A Halevy, P Tarczy-Hornoch</authors>
+<source>Proceedings of the AMIA Symposium, 473</source>
+<citations>80</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Semantic integration</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=80&amp;citation_for_view=F_MI0pcAAAAJ:-f6ydRqryjwC</link>
+<authors>NF Noy, AH Doan, AY Halevy</authors>
+<source>AI Magazine 26 (1), 7</source>
+<citations>78</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Run-time management of data intensive Web-sites</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=80&amp;citation_for_view=F_MI0pcAAAAJ:uc_IGeMz5qoC</link>
+<authors>D Florescu, A Levy, D Suciu, K Yagoub</authors>
+<source></source>
+<citations>77</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Semantic query optimization in datalog programs</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=80&amp;citation_for_view=F_MI0pcAAAAJ:yB1At4FlUx8C</link>
+<authors>AY Levy, Y Sagiv</authors>
+<source>Proceedings of the fourteenth ACM SIGACT-SIGMOD-SIGART symposium on ...</source>
+<citations>77</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Uncovering the Relational Web.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=80&amp;citation_for_view=F_MI0pcAAAAJ:e5wmG9Sq2KIC</link>
+<authors>MJ Cafarella, AY Halevy, Y Zhang, DZ Wang, E Wu</authors>
+<source>WebDB</source>
+<citations>74</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>The Nimble XML data integration system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=80&amp;citation_for_view=F_MI0pcAAAAJ:hC7cP41nSMkC</link>
+<authors>D Draper, AY Halevy, DS Weld</authors>
+<source>Data Engineering, 2001. Proceedings. 17th International Conference on, 155-160</source>
+<citations>74</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>XML query languages: Experiences and exemplars</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=80&amp;citation_for_view=F_MI0pcAAAAJ:0KyAp5RtaNEC</link>
+<authors>M Fernandez, J Simeon, P Wadler, S Cluet, A Deutsch, D Florescu, A Levy, D ...</authors>
+<source></source>
+<citations>73</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Equivalence, query-reachability and satisfiability in Datalog extensions</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=80&amp;citation_for_view=F_MI0pcAAAAJ:epqYDVWIO7EC</link>
+<authors>A Levy, IS Mumick, Y Sagiv, O Shmueli</authors>
+<source>Proceedings of the twelfth ACM SIGACT-SIGMOD-SIGART symposium on Principles ...</source>
+<citations>73</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Constraints and redundancy in datalog</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=80&amp;citation_for_view=F_MI0pcAAAAJ:EkHepimYqZsC</link>
+<authors>A Levy, Y Sagiv</authors>
+<source>Proceedings of the eleventh ACM SIGACT-SIGMOD-SIGART symposium on Principles ...</source>
+<citations>73</citations>
+<pub_year>1992</pub_year>
+</record>
+<record>
+<title>Information integration</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=80&amp;citation_for_view=F_MI0pcAAAAJ:vDijr-p_gm4C</link>
+<authors>MA Hearst, AY Levy, C Knoblock, S Minton, W Cohen</authors>
+<source>Intelligent Systems and their Applications, IEEE 13 (5), 12-24</source>
+<citations>72</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Deciding containment for queries with complex objects</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=80&amp;citation_for_view=F_MI0pcAAAAJ:ipzZ9siozwsC</link>
+<authors>AY Levy, D Suciu</authors>
+<source>Proceedings of the sixteenth ACM SIGACT-SIGMOD-SIGART symposium on ...</source>
+<citations>72</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Google fusion tables: web-centered data management and collaboration</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=100&amp;citation_for_view=F_MI0pcAAAAJ:ns9cj8rnVeAC</link>
+<authors>H Gonzalez, AY Halevy, CS Jensen, A Langen, J Madhavan, R Shapley, W Shen, J ...</authors>
+<source>Proceedings of the 2010 ACM SIGMOD International Conference on Management of ...</source>
+<citations>69</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Combining artificial intelligence and databases for data integration</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=100&amp;citation_for_view=F_MI0pcAAAAJ:uWiczbcajpAC</link>
+<authors>AY Levy</authors>
+<source>Artificial Intelligence Today, 249-268</source>
+<citations>69</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Schema mediation for large-scale semantic data sharing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=100&amp;citation_for_view=F_MI0pcAAAAJ:WC23djZS0W4C</link>
+<authors>AY Halevy, ZG Ives, D Suciu, I Tatarinov</authors>
+<source>The VLDB Journal 14 (1), 68-83</source>
+<citations>68</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Data Integration: A Status Report.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=100&amp;citation_for_view=F_MI0pcAAAAJ:lvd772isFD0C</link>
+<authors>AY Halevy</authors>
+<source>BTW 26, 24-29</source>
+<citations>66</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>A Semantic Theory of Abstractions.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=100&amp;citation_for_view=F_MI0pcAAAAJ:URolC5Kub84C</link>
+<authors>PP Nayak, AY Levy</authors>
+<source>IJCAI, 196-203</source>
+<citations>66</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Efficient evaluation of regular path expressions on streaming XML data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=100&amp;citation_for_view=F_MI0pcAAAAJ:zLWjf1WUPmwC</link>
+<authors>Z Ives, A Levy, D Weld</authors>
+<source>Univ. of Washington Tech. Rep. CSE000502</source>
+<citations>64</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Method and system for using materialized views to evaluate queries involving aggregation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=100&amp;citation_for_view=F_MI0pcAAAAJ:AvfA0Oy_GE0C</link>
+<authors>S Dar, HV Jagadish, AY Levy, D Srivastava</authors>
+<source>US Patent 5,897,632</source>
+<citations>64</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Mangrove: Enticing ordinary people onto the semantic web via instant gratification</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=100&amp;citation_for_view=F_MI0pcAAAAJ:HDshCWvjkbEC</link>
+<authors>L McDowell, O Etzioni, SD Gribble, A Halevy, H Levy, W Pentney, D Verma, S ...</authors>
+<source>The Semantic Web-ISWC 2003, 754-770</source>
+<citations>63</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Data integration for the relational web</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=100&amp;citation_for_view=F_MI0pcAAAAJ:maZDTaKrznsC</link>
+<authors>MJ Cafarella, A Halevy, N Khoussainova</authors>
+<source>Proceedings of the VLDB Endowment 2 (1), 1090-1101</source>
+<citations>62</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Xml-ql: A query language for XML, 1998</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=100&amp;citation_for_view=F_MI0pcAAAAJ:4MWp96NkSFoC</link>
+<authors>A Deutsch, M Fernandez, D Florescu, A Levy, D Suciu</authors>
+<source>W3C submission</source>
+<citations>60</citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>The Claremont report on database research</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=100&amp;citation_for_view=F_MI0pcAAAAJ:isC4tDSrTZIC</link>
+<authors>R Agrawal, A Ailamaki, PA Bernstein, EA Brewer, MJ Carey, S Chaudhuri, A ...</authors>
+<source>Communications of the ACM 52 (6), 56-65</source>
+<citations>59</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Recovering semantics of tables on the web</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=100&amp;citation_for_view=F_MI0pcAAAAJ:yD5IFk8b50cC</link>
+<authors>P Venetis, A Halevy, J Madhavan, M Paşca, W Shen, F Wu, G Miao, C Wu</authors>
+<source>Proceedings of the VLDB Endowment 4 (9), 528-538</source>
+<citations>57</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Harnessing the deep web: Present and future</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=100&amp;citation_for_view=F_MI0pcAAAAJ:JV2RwH3_ST0C</link>
+<authors>J Madhavan, L Afanasiev, L Antova, A Halevy</authors>
+<source>arXiv preprint arXiv:0909.1785</source>
+<citations>57</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Verifying integrity constraints on web sites</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=100&amp;citation_for_view=F_MI0pcAAAAJ:BUYA1_V_uYcC</link>
+<authors>M Fernandez, D Florescu, A Levy, D Suciu</authors>
+<source>IJCAI 99, 614-619</source>
+<citations>57</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Harvesting relational tables from lists on the web</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=100&amp;citation_for_view=F_MI0pcAAAAJ:BqipwSGYUEgC</link>
+<authors>H Elmeleegy, J Madhavan, A Halevy</authors>
+<source>Proceedings of the VLDB Endowment 2 (1), 1078-1089</source>
+<citations>56</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Piazza: mediation and integration infrastructure for semantic web data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=100&amp;citation_for_view=F_MI0pcAAAAJ:R3hNpaxXUhUC</link>
+<authors>ZG Ives, AY Halevy, P Mork, I Tatarinov</authors>
+<source>Web Semantics: Science, Services and Agents on the World Wide Web 1 (2), 155-175</source>
+<citations>56</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Clustering query refinements by user intent</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=100&amp;citation_for_view=F_MI0pcAAAAJ:O3NaXMp0MMsC</link>
+<authors>E Sadikov, J Madhavan, L Wang, A Halevy</authors>
+<source>Proceedings of the 19th international conference on World wide web, 841-850</source>
+<citations>55</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Query optimization by predicate move-around</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=100&amp;citation_for_view=F_MI0pcAAAAJ:Z5m8FVwuT1cC</link>
+<authors>AY Levy, IS Mumick</authors>
+<source>US Patent 5,659,725</source>
+<citations>55</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Apparatus and methods for retrieving information</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=100&amp;citation_for_view=F_MI0pcAAAAJ:p__nRnzSRKYC</link>
+<authors>T Kirk, AY Levy, D Srivastava</authors>
+<source>US Patent 5,655,116</source>
+<citations>54</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Towards efficient information gathering agents</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=100&amp;citation_for_view=F_MI0pcAAAAJ:BwyfMAYsbu0C</link>
+<authors>AY Levy, Y Sagiv, D Srivastava</authors>
+<source>Working Notes of the AAAI Spring Symposium on Software Agents, 64-70</source>
+<citations>54</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>The limits on combining recursive Horn rules with description logics</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=120&amp;citation_for_view=F_MI0pcAAAAJ:ML0RJ9NH7IQC</link>
+<authors>AY Levy, MC Rousset</authors>
+<source>AAAI/IAAI, Vol. 1, 577-584</source>
+<citations>51</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Declarative Web Site Management with Tiramisu.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=120&amp;citation_for_view=F_MI0pcAAAAJ:vbGhcppDl1QC</link>
+<authors>CR Anderson, AY Levy, DS Weld</authors>
+<source>WebDB (Informal Proceedings), 19-24</source>
+<citations>50</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Integration of an information server database schema by generating a translation map from exemplary files</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=120&amp;citation_for_view=F_MI0pcAAAAJ:L7CI7m0gUJcC</link>
+<authors>AY Levy, JJ Ordille</authors>
+<source>US Patent 5,778,373</source>
+<citations>50</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Static analysis in datalog extensions</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=120&amp;citation_for_view=F_MI0pcAAAAJ:_Qo2XoVZTnwC</link>
+<authors>AY Halevy, IS Mumick, Y Sagiv, O Shmueli</authors>
+<source>Journal of the ACM (JACM) 48 (5), 971-1012</source>
+<citations>49</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Method and apparatus for optimizing database queries involving aggregation predicates</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=120&amp;citation_for_view=F_MI0pcAAAAJ:KUbvn5osdkgC</link>
+<authors>AY Levy, IS Mumick</authors>
+<source>US Patent 6,088,524</source>
+<citations>49</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Semantic email</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=120&amp;citation_for_view=F_MI0pcAAAAJ:4JMBOYKVnBMC</link>
+<authors>L McDowell, O Etzioni, A Halevy, H Levy</authors>
+<source>Proceedings of the 13th international conference on World Wide Web, 244-254</source>
+<citations>48</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Automated model selection for simulation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=120&amp;citation_for_view=F_MI0pcAAAAJ:EYYDruWGBe4C</link>
+<authors>Y Iwasaki, AY Levy</authors>
+<source>AAAI, 1183-1190</source>
+<citations>48</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Containment of nested XML queries</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=120&amp;citation_for_view=F_MI0pcAAAAJ:RHpTSmoSYBkC</link>
+<authors>X Dong, AY Halevy, I Tatarinov</authors>
+<source>Proceedings of the Thirtieth international conference on Very large data ...</source>
+<citations>47</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Verification of knowledge bases based on containment checking</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=120&amp;citation_for_view=F_MI0pcAAAAJ:tYavs44e6CUC</link>
+<authors>AY Levy, MC Rousset</authors>
+<source>Artificial Intelligence 101 (1), 227-250</source>
+<citations>47</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Method and apparatus for web site management</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=120&amp;citation_for_view=F_MI0pcAAAAJ:ILKRHgRFtOwC</link>
+<authors>MF Fernandez, DD Florescu, J Kang, AY Levy, D Suciu</authors>
+<source>US Patent 5,956,720</source>
+<citations>45</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Digital library information-technology infrastructures</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=120&amp;citation_for_view=F_MI0pcAAAAJ:j3f4tGmQtD8C</link>
+<authors>Y Ioannidis, D Maier, S Abiteboul, P Buneman, S Davidson, E Fox, A Halevy, C ...</authors>
+<source>International Journal on Digital Libraries 5 (4), 266-274</source>
+<citations>44</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Irrelevance reasoning in knowledge based systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=120&amp;citation_for_view=F_MI0pcAAAAJ:hMsQuOkrut0C</link>
+<authors>AY Levy</authors>
+<source>stanford university</source>
+<citations>43</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Structured Data Meets the Web: A Few Observations.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=120&amp;citation_for_view=F_MI0pcAAAAJ:iH-uZ7U-co4C</link>
+<authors>J Madhavan, AY Halevy, S Cohen, XL Dong, SR Jeffery, D Ko, C Yu</authors>
+<source>IEEE Data Eng. Bull. 29 (4), 19-26</source>
+<citations>41</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Automated model selection for simulation based on relevance reasoning</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=120&amp;citation_for_view=F_MI0pcAAAAJ:g3aElNc5_aQC</link>
+<authors>AY Levy, Y Iwasaki, R Fikes</authors>
+<source>Artificial Intelligence 96 (2), 351-394</source>
+<citations>41</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Google fusion tables: data management, integration and collaboration in the cloud</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=120&amp;citation_for_view=F_MI0pcAAAAJ:J_g5lzvAfSwC</link>
+<authors>H Gonzalez, A Halevy, CS Jensen, A Langen, J Madhavan, R Shapley, W Shen</authors>
+<source>Proceedings of the 1st ACM symposium on Cloud computing, 175-180</source>
+<citations>39</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Answering Structured Queries on Unstructured Data.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=120&amp;citation_for_view=F_MI0pcAAAAJ:k_IJM867U9cC</link>
+<authors>J Liu, X Dong, AY Halevy</authors>
+<source>WebDB 6, 25-30</source>
+<citations>39</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Integrating network-bound XML data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=120&amp;citation_for_view=F_MI0pcAAAAJ:r0BpntZqJG4C</link>
+<authors>ZG Ives, AY Halevy, DS Weld</authors>
+<source>Departmental Papers (CIS), 129</source>
+<citations>39</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>PQL: a declarative query language over dynamic biological schemata.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=120&amp;citation_for_view=F_MI0pcAAAAJ:TFP_iSt0sucC</link>
+<authors>P Mork, R Shaker, A Halevy, P Tarczy-Hornoch</authors>
+<source>Proceedings of the AMIA Symposium, 533</source>
+<citations>36</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Speeding up inferences using relevance reasoning: a formalism and algorithms</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=120&amp;citation_for_view=F_MI0pcAAAAJ:TIZ-Mc8IlK0C</link>
+<authors>AY Levy, RE Fikes, Y Sagiv</authors>
+<source>Artificial Intelligence 97 (1), 83-136</source>
+<citations>36</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Web-scale extraction of structured data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=120&amp;citation_for_view=F_MI0pcAAAAJ:RYcK_YlVTxYC</link>
+<authors>MJ Cafarella, J Madhavan, A Halevy</authors>
+<source>ACM SIGMOD Record 37 (4), 55-61</source>
+<citations>35</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Malleable Schemas: A Preliminary Report.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=140&amp;citation_for_view=F_MI0pcAAAAJ:blknAaTinKkC</link>
+<authors>X Dong, AY Halevy</authors>
+<source>WebDB, 139-144</source>
+<citations>32</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Visualization of heterogeneous data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=140&amp;citation_for_view=F_MI0pcAAAAJ:GnPB-g6toBAC</link>
+<authors>M Cammarano, X Dong, B Chan, J Klingner, J Talbot, A Halevy, P Hanrahan</authors>
+<source>Visualization and Computer Graphics, IEEE Transactions on 13 (6), 1200-1207</source>
+<citations>30</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Reasoning with aggregation constraints</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=140&amp;citation_for_view=F_MI0pcAAAAJ:gsN89kCJA0AC</link>
+<authors>AY Levy, IS Mumick</authors>
+<source>Advances in Database TechnologyEDBT'96, 514-534</source>
+<citations>30</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Structured data on the web</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=140&amp;citation_for_view=F_MI0pcAAAAJ:f2IySw72cVMC</link>
+<authors>MJ Cafarella, A Halevy, J Madhavan</authors>
+<source>Communications of the ACM 54 (2), 72-79</source>
+<citations>28</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Openii: an open source information integration toolkit</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=140&amp;citation_for_view=F_MI0pcAAAAJ:M05iB0D1s5AC</link>
+<authors>L Seligman, P Mork, A Halevy, K Smith, MJ Carey, K Chen, C Wolf, J Madhavan ...</authors>
+<source>Proceedings of the 2010 ACM SIGMOD International Conference on Management of ...</source>
+<citations>28</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Semex: Toward on-the-fly personal information integration</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=140&amp;citation_for_view=F_MI0pcAAAAJ:YFjsv_pBGBYC</link>
+<authors>X Dong, A Halevy, E Nemes, S Sigurdsson, P Domingos</authors>
+<source>Proc. of the VLDB IIWeb Workshop</source>
+<citations>28</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Evolving the Semantic Web with Mangrove.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=140&amp;citation_for_view=F_MI0pcAAAAJ:NMxIlDl6LWMC</link>
+<authors>L McDowell, O Etzioni, SD Gribble, AY Halevy, HM Levy, W Pentney, D Verma, S ...</authors>
+<source>WWW (Posters)</source>
+<citations>28</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Data management projects at Google</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=140&amp;citation_for_view=F_MI0pcAAAAJ:NaGl4SEjCO4C</link>
+<authors>M Cafarella, E Chang, A Fikes, A Halevy, W Hsieh, A Lerner, J Madhavan, S ...</authors>
+<source>ACM SIGMOD Record 37 (1), 34-38</source>
+<citations>27</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Information gathering plans with sensing actions</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=140&amp;citation_for_view=F_MI0pcAAAAJ:kuK5TVdYjLIC</link>
+<authors>N Ashish, CA Knoblock, A Levy</authors>
+<source>Recent Advances in AI Planning, 13-25</source>
+<citations>27</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Information manifold for query processing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=140&amp;citation_for_view=F_MI0pcAAAAJ:LI9QrySNdTsC</link>
+<authors>AY Levy, JJ Ordille, A Rajaraman</authors>
+<source>US Patent 5,995,961</source>
+<citations>26</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Creating abstractions using relevance reasoning</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=140&amp;citation_for_view=F_MI0pcAAAAJ:b1wdh0AR-JQC</link>
+<authors>AY Levy</authors>
+<source>AAAI, 588-594</source>
+<citations>26</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Representing uncertain data: models, properties, and algorithms</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=140&amp;citation_for_view=F_MI0pcAAAAJ:g5m5HwL7SMYC</link>
+<authors>AD Sarma, O Benjelloun, A Halevy, S Nabar, J Widom</authors>
+<source>The VLDB Journal 18 (5), 989-1019</source>
+<citations>25</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Corpus-based knowledge representation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=140&amp;citation_for_view=F_MI0pcAAAAJ:hMod-77fHWUC</link>
+<authors>AY Halevy, J Madhavan</authors>
+<source>IJCAI 3, 1567-1572</source>
+<citations>25</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>The Nimble integration engine</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=140&amp;citation_for_view=F_MI0pcAAAAJ:RGFaLdJalmkC</link>
+<authors>D Draper, AY Halevy, DS Weld</authors>
+<source>ACM SIGMOD Record 30 (2), 567-568</source>
+<citations>25</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>A query language for XML</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=140&amp;citation_for_view=F_MI0pcAAAAJ:tuHXwOkdijsC</link>
+<authors>D Florescu, A Deutsch, A Levy, D Suciu, M Fernandez</authors>
+<source>Proceedings of Eighth International World Wide Web Conference</source>
+<citations>23</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Semantic email: theory and applications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=140&amp;citation_for_view=F_MI0pcAAAAJ:70eg2SAEIzsC</link>
+<authors>L McDowell, O Etzioni, A Halevy</authors>
+<source>Web Semantics: Science, Services and Agents on the World Wide Web 2 (2), 153-183</source>
+<citations>21</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>The view selection problem for XML content based routing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=140&amp;citation_for_view=F_MI0pcAAAAJ:lSLTfruPkqcC</link>
+<authors>AK Gupta, D Suciu, AY Halevy</authors>
+<source>Proceedings of the twenty-second ACM SIGMOD-SIGACT-SIGART symposium on ...</source>
+<citations>21</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Overview of Strudel - A Web-Site Management System</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=140&amp;citation_for_view=F_MI0pcAAAAJ:MLfJN-KU85MC</link>
+<authors>MF Fernandez, D Florescu, J Kang, AY Levy, D Suciu</authors>
+<source>Networking and Information Systems 1 (1), 115-140</source>
+<citations>20</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Hyper-local, directions-based ranking of places</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=140&amp;citation_for_view=F_MI0pcAAAAJ:a0OBvERweLwC</link>
+<authors>P Venetis, H Gonzalez, CS Jensen, A Halevy</authors>
+<source>Proceedings of the VLDB Endowment 4 (5), 290-301</source>
+<citations>19</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Mass collaboration systems on the world-wide web</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=140&amp;citation_for_view=F_MI0pcAAAAJ:WHdLCjDvYFkC</link>
+<authors>AH Doan, R Ramakrishnan, AY Halevy</authors>
+<source>Communications of the ACM 15 (2), 196-216</source>
+<citations>18</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Data modeling in dataspace support platforms</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=160&amp;citation_for_view=F_MI0pcAAAAJ:pyW8ca7W8N0C</link>
+<authors>AD Sarma, XL Dong, AY Halevy</authors>
+<source>Conceptual Modeling: Foundations and Applications, 122-138</source>
+<citations>18</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Mining structures for semantics</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=160&amp;citation_for_view=F_MI0pcAAAAJ:pqnbT2bcN3wC</link>
+<authors>X Dong, J Madhavan, A Halevy</authors>
+<source>ACM SIGKDD Explorations Newsletter 6 (2), 53-60</source>
+<citations>18</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>View Selection for Stream Processing.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=160&amp;citation_for_view=F_MI0pcAAAAJ:35N4QoGY0k4C</link>
+<authors>AK Gupta, AY Halevy, D Suciu</authors>
+<source>WebDB, 83-88</source>
+<citations>18</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Principles of data integration</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=160&amp;citation_for_view=F_MI0pcAAAAJ:ZzlSgRqYykMC</link>
+<authors>AH Doan, A Halevy, Z Ives</authors>
+<source>Access Online via Elsevier</source>
+<citations>17</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Exploring schema repositories with schemr</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=160&amp;citation_for_view=F_MI0pcAAAAJ:ldfaerwXgEUC</link>
+<authors>K Chen, A Kannan, J Madhavan, A Halevy</authors>
+<source>ACM SIGMOD Record 40 (1), 11-16</source>
+<citations>17</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Functional Dependency Generation and Applications in Pay-As-You-Go Data Integration Systems.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=160&amp;citation_for_view=F_MI0pcAAAAJ:4OULZ7Gr8RgC</link>
+<authors>DZ Wang, XL Dong, AD Sarma, MJ Franklin, AY Halevy</authors>
+<source>WebDB</source>
+<citations>16</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Databases and Web 2.0 panel at VLDB 2007</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=160&amp;citation_for_view=F_MI0pcAAAAJ:2P1L_qKh6hAC</link>
+<authors>S Amer-Yahia, V Markl, A Halevy, AH Doan, G Alonso, D Kossmann, G Weikum</authors>
+<source>ACM SIGMOD Record 37 (1), 49-52</source>
+<citations>16</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Semantic Email: Adding Lightweight Data Manipulation Capabilities to the Email Habitat.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=160&amp;citation_for_view=F_MI0pcAAAAJ:vV6vV6tmYwMC</link>
+<authors>O Etzioni, AY Halevy, HM Levy, L McDowell</authors>
+<source>WebDB, 13-18</source>
+<citations>16</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Web-site management: The Strudel approach</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=160&amp;citation_for_view=F_MI0pcAAAAJ:VaXvl8Fpj5cC</link>
+<authors>M Fernandez, D Florescu, A Levy, D Suciu</authors>
+<source></source>
+<citations>16</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Exploiting irrelevance reasoning to guide problem solving</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=160&amp;citation_for_view=F_MI0pcAAAAJ:lmc2jWPfTJgC</link>
+<authors>AY Levy, Y Sagiv</authors>
+<source>IJCAI, 138-145</source>
+<citations>16</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>A first tutorial on dataspaces</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=160&amp;citation_for_view=F_MI0pcAAAAJ:u_35RYKgDlwC</link>
+<authors>M Franklin, A Halevy, D Maier</authors>
+<source>Proceedings of the VLDB Endowment 1 (2), 1516-1517</source>
+<citations>14</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Relevance reasoning to guide compositional modeling</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=160&amp;citation_for_view=F_MI0pcAAAAJ:k8Z6L05lTy4C</link>
+<authors>AY Levy, Y Iwasaki, H Motoda</authors>
+<source>Knowledge Systems Laboratory, Department of Computer Science, Stanford ...</source>
+<citations>14</citations>
+<pub_year>1992</pub_year>
+</record>
+<record>
+<title>Harvesting relational tables from lists on the web</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=160&amp;citation_for_view=F_MI0pcAAAAJ:5awf1xo2G04C</link>
+<authors>H Elmeleegy, J Madhavan, A Halevy</authors>
+<source>The VLDB JournalThe International Journal on Very Large Data Bases 20 (2 ...</source>
+<citations>12</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Structures, semantics and statistics</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=160&amp;citation_for_view=F_MI0pcAAAAJ:HoB7MX3m0LUC</link>
+<authors>AY Halevy</authors>
+<source>Proceedings of the Thirtieth international conference on Very large data ...</source>
+<citations>12</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Query processing in the information manifold</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=160&amp;citation_for_view=F_MI0pcAAAAJ:e_rmSamDkqQC</link>
+<authors>A Levy, A Rajaraman, J Ordille</authors>
+<source>Proc. VLDB Conference</source>
+<citations>12</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Learning mappings between data schemas</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=160&amp;citation_for_view=F_MI0pcAAAAJ:kz9GbA2Ns4gC</link>
+<authors>AH Doan, P Domingos, AY Levy</authors>
+<source>Proceedings of the AAAI-2000 Workshop on Learning Statistical Models from ...</source>
+<citations>11</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Using Description Logics to Model and Reason About Views.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=160&amp;citation_for_view=F_MI0pcAAAAJ:M7yex6snE4oC</link>
+<authors>AY Levy, MC Rousset</authors>
+<source>KRDB</source>
+<citations>11</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>A semantics for model management operators</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=160&amp;citation_for_view=F_MI0pcAAAAJ:3s1wT3WcHBgC</link>
+<authors>S Melnik, PA Bernstein, A Halevy, E Rahm</authors>
+<source>Microsoft Technical Report, 1-12</source>
+<citations>10</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>An evolutionary approach to the semantic web</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=160&amp;citation_for_view=F_MI0pcAAAAJ:SeFeTyx0c_EC</link>
+<authors>O Etzioni, S Gribble, A Halevy, H Levy, L McDowell</authors>
+<source>Poster presentation at the first international semantic web conference 770</source>
+<citations>10</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Self-organizing data sharing communities with SAGRES</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=160&amp;citation_for_view=F_MI0pcAAAAJ:WZBGuue-350C</link>
+<authors>J Su, WTT Yeung</authors>
+<source></source>
+<citations>10</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Exploiting run-time information for efficient processing of queries</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=180&amp;citation_for_view=F_MI0pcAAAAJ:oNZyr7d5Mn4C</link>
+<authors>CA Knoblock, A Levy</authors>
+<source>Working Notes of the AAAI Spring Symposium on Information Gathering in ...</source>
+<citations>10</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Data integration with dependent sources</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=180&amp;citation_for_view=F_MI0pcAAAAJ:CHSYGLWDkRkC</link>
+<authors>AD Sarma, XL Dong, A Halevy</authors>
+<source>Proceedings of the 14th International Conference on Extending Database ...</source>
+<citations>9</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Dataspaces: A new abstraction for information management</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=180&amp;citation_for_view=F_MI0pcAAAAJ:rO6llkc54NcC</link>
+<authors>AY Halevy, MJ Franklin, D Maier</authors>
+<source>Database Systems for Advanced Applications, 1-2</source>
+<citations>9</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Information integration research: Summary of NSF IDM workshop breakout session</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=180&amp;citation_for_view=F_MI0pcAAAAJ:zA6iFVUQeVQC</link>
+<authors>A Halevy, C Li, CFP Bernstein, K Chang, J Shanmugasundaram, M Uschold</authors>
+<source></source>
+<citations>9</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Query optimization by predicate move-around</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=180&amp;citation_for_view=F_MI0pcAAAAJ:xtoqd-5pKcoC</link>
+<authors>AY Levy, IS Mumick</authors>
+<source>EP Patent 0,689,148</source>
+<citations>9</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>An experiment in integrating internet information sources</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=180&amp;citation_for_view=F_MI0pcAAAAJ:i2xiXl-TujoC</link>
+<authors>A Levy, J Ordille</authors>
+<source>AAAI Fall Symposium on AI Applications in Knowledge Navigation and Retrieval ...</source>
+<citations>9</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Efficient spatial sampling of large geographical tables</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=180&amp;citation_for_view=F_MI0pcAAAAJ:yFnVuubrUp4C</link>
+<authors>A Das Sarma, H Lee, H Gonzalez, J Madhavan, A Halevy</authors>
+<source>Proceedings of the 2012 ACM SIGMOD International Conference on Management of ...</source>
+<citations>8</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Searching through content which is accessible through web-based forms</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=180&amp;citation_for_view=F_MI0pcAAAAJ:OU6Ihb5iCvQC</link>
+<authors>AY Halevy, J Madhavan, DH Ko</authors>
+<source>US Patent 8,037,068</source>
+<citations>7</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Facilitating searches through content which is accessible through web-based forms</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=180&amp;citation_for_view=F_MI0pcAAAAJ:XiSMed-E-HIC</link>
+<authors>AY Halevy, J Madhavan, DH Ko</authors>
+<source>US Patent 7,739,258</source>
+<citations>7</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Technical perspective Schema mappings: rules for mixing data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=180&amp;citation_for_view=F_MI0pcAAAAJ:bFI3QPDXJZMC</link>
+<authors>A Halevy</authors>
+<source>Communications of the ACM 53 (1), 100-100</source>
+<citations>7</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Managing change in large-scale data sharing systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=180&amp;citation_for_view=F_MI0pcAAAAJ:dfsIfKJdRG4C</link>
+<authors>P Mork, SD Gribble, AY Halevy</authors>
+<source>UW CS\ &amp;E Technical Reports UW-CSE-04-04-01. pdf</source>
+<citations>7</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Reasoning About Web-Site Structure.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=180&amp;citation_for_view=F_MI0pcAAAAJ:S16KYo8Pm5AC</link>
+<authors>MF Fernandez, D Florescu, AY Levy, D Suciu</authors>
+<source>KRDB, 10.1-10.9</source>
+<citations>7</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Uncertainty in data integration</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=180&amp;citation_for_view=F_MI0pcAAAAJ:_xSYboBqXhAC</link>
+<authors>AD Sarma, X Dong, A Halevy</authors>
+<source>Managing and Mining Uncertain Data, 185-217</source>
+<citations>6</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Crossing the structure chasm</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=180&amp;citation_for_view=F_MI0pcAAAAJ:cFHS6HbyZ2cC</link>
+<authors>O Etzioni, A Halevy, A Doan, ZG Ives, J Madhaven, L McDowell, I Tatarinov</authors>
+<source>Database Research Group (CIS), 31</source>
+<citations>6</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>XML and object technology</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=180&amp;citation_for_view=F_MI0pcAAAAJ:foquWX3nUaYC</link>
+<authors>B Catania, E Ferrari, A Levy, AO Meldelzon</authors>
+<source>Object-Oriented Technology, 191-202</source>
+<citations>6</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Information Gathering from Heterogeneous, Distributed Environments</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=180&amp;citation_for_view=F_MI0pcAAAAJ:SpbeaW3--B0C</link>
+<authors>C Knoblock, A Levy</authors>
+<source>AAAI Symposium</source>
+<citations>6</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Dataspaces: The tutorial</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=180&amp;citation_for_view=F_MI0pcAAAAJ:D03iK_w7-QYC</link>
+<authors>AY Halevy, D Maier, MJ Franklin</authors>
+<source>PVLDB 8, 23-28</source>
+<citations>5</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Rethinking the conference reviewing process</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=180&amp;citation_for_view=F_MI0pcAAAAJ:abG-DnoFyZgC</link>
+<authors>A Halevy, Z Ives, G Weikum</authors>
+<source></source>
+<citations>5</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Specifying Semantic Email Processes.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=180&amp;citation_for_view=F_MI0pcAAAAJ:EUQCXRtRnyEC</link>
+<authors>L McDowell, O Etzioni, AY Halevy</authors>
+<source>WWW Workshop On Application Design, Development and Implementation Issues in ...</source>
+<citations>5</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Discovering structure in a corpus of schemas</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=180&amp;citation_for_view=F_MI0pcAAAAJ:fPk4N6BV_jEC</link>
+<authors>AY Halevy, J Madhavan, PA Bernstein</authors>
+<source>IEEE Data Eng. Bull. 26 (3), 26-33</source>
+<citations>5</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>System and method for obtaining complete and correct answers from incomplete and/or incorrect databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=200&amp;citation_for_view=F_MI0pcAAAAJ:HbR8gkJAVGIC</link>
+<authors>AY Levy</authors>
+<source>US Patent 5,987,450</source>
+<citations>5</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Recent progress in data integrationA tutorial</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=200&amp;citation_for_view=F_MI0pcAAAAJ:q3CdL3IzO_QC</link>
+<authors>D Florescu, A Levy</authors>
+<source>Advances in Databases and Information Systems, 1-2</source>
+<citations>5</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Verification of Knowledge Bases: a Unifying Logical View.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=200&amp;citation_for_view=F_MI0pcAAAAJ:Dip1O2bNi0gC</link>
+<authors>AY Levy, MC Rousset</authors>
+<source>EUROVAV, 7-18</source>
+<citations>5</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Identifying Aspects for Web-Search Queries.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=200&amp;citation_for_view=F_MI0pcAAAAJ:8AbLer7MMksC</link>
+<authors>F Wu, J Madhavan, AY Halevy</authors>
+<source>J. Artif. Intell. Res.(JAIR) 40, 677-700</source>
+<citations>4</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Answering web questions using structured data: dream or reality?</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=200&amp;citation_for_view=F_MI0pcAAAAJ:KxtntwgDAa4C</link>
+<authors>F Pereira, A Rajaraman, S Sarawagi, W Tunstall-Pedoe, G Weikum, A Halevy</authors>
+<source>Proceedings of the VLDB Endowment 2 (2), 1646-1646</source>
+<citations>4</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>The specification of agent behavior by ordinary people: A case study</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=200&amp;citation_for_view=F_MI0pcAAAAJ:NhqRSupF_l8C</link>
+<authors>L McDowell, O Etzioni, A Halevy</authors>
+<source>The Semantic WebISWC 2004, 182-197</source>
+<citations>4</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Learning to Match the Schemas of Data Sources: A Multistrategy</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=200&amp;citation_for_view=F_MI0pcAAAAJ:7H_MAutzIkAC</link>
+<authors>D AnHai, P DOMINGOS, A HALEVY</authors>
+<source>Machine Learning 50 (3)</source>
+<citations>4</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Warehousing and incremental evaluation for Web Site management.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=200&amp;citation_for_view=F_MI0pcAAAAJ:PoWvk5oyLR8C</link>
+<authors>MF Fernández, D Florescu, AY Levy, D Suciu</authors>
+<source>BDA</source>
+<citations>4</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>A proof-theoretic approach to irrelevance: Foundations and applications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=200&amp;citation_for_view=F_MI0pcAAAAJ:XoXfffV-tXoC</link>
+<authors>AY Levy, RE Fikes, Y Sagiv</authors>
+<source>Working Notes of the AAAI Fall Symposium on Relevance</source>
+<citations>4</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>E cient query processing for information gathering agents</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=200&amp;citation_for_view=F_MI0pcAAAAJ:ruyezt5ZtCIC</link>
+<authors>CA Knoblock, A Levy</authors>
+<source>Proceedings of the Workshop on Intelligent Information Agents, Gaithersburg, MD</source>
+<citations>4</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Finding related tables</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=200&amp;citation_for_view=F_MI0pcAAAAJ:3htObqc8RwsC</link>
+<authors>A Das Sarma, L Fang, N Gupta, A Halevy, H Lee, F Wu, R Xin, C Yu</authors>
+<source>Proceedings of the 2012 ACM SIGMOD International Conference on Management of ...</source>
+<citations>3</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Web data management</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=200&amp;citation_for_view=F_MI0pcAAAAJ:XiVPGOgt02cC</link>
+<authors>MJ Cafarella, AY Halevy</authors>
+<source>Proceedings of the 2011 ACM SIGMOD International Conference on Management of ...</source>
+<citations>3</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Uncertainty in Data Integration and Dataspace Support Platforms</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=200&amp;citation_for_view=F_MI0pcAAAAJ:sSrBHYA8nusC</link>
+<authors>AD Sarma, XL Dong, AY Halevy</authors>
+<source>Schema Matching and Mapping, 75-108</source>
+<citations>3</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Enhancements of personal information</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=200&amp;citation_for_view=F_MI0pcAAAAJ:P5F9QuxV20EC</link>
+<authors>D Maier, A Halevy, M Bates, H Bruce, B Bederson, M Knox</authors>
+<source>Breakout Group Summary, PIM Workshop 2005</source>
+<citations>3</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Semantic Integration Workshop at the 2nd International Semantic Web Conference (ISWC-2003)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=200&amp;citation_for_view=F_MI0pcAAAAJ:b0M2c_1WBrUC</link>
+<authors>AH Doan, AY Halevy, NF Noy</authors>
+<source>SIGMOD Record 33 (1), 138-140</source>
+<citations>3</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Learning about data integration challenges from day one</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=200&amp;citation_for_view=F_MI0pcAAAAJ:xtRiw3GOFMkC</link>
+<authors>AY Halevy</authors>
+<source>SIGMOD Record 32 (3), 16-17</source>
+<citations>3</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Challenges for global information systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=200&amp;citation_for_view=F_MI0pcAAAAJ:FPJr55Dyh1AC</link>
+<authors>AY Levy, A Silberschatz, D Srivastava, M Zemankova</authors>
+<source>VLDB, 755</source>
+<citations>3</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>A Semantic Theory of Abstractions: A Preliminary Report</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=200&amp;citation_for_view=F_MI0pcAAAAJ:edDO8Oi4QzsC</link>
+<authors>PP Nayak, AY Levy, H Lum Jr</authors>
+<source></source>
+<citations>3</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>A Measurement Study of Two Web-based Collaborative Visual Analytics Systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=200&amp;citation_for_view=F_MI0pcAAAAJ:tH6gc1N1XXoC</link>
+<authors>K Morton, M Balazinska, D Grossman, R Kosara, J Mackinlay, A Halevy</authors>
+<source>Technical Report UW-CSE-12-08-01, Univ. of Washington, ftp://ftp. cs ...</source>
+<citations>2</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Principles of Data Integration</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=200&amp;citation_for_view=F_MI0pcAAAAJ:r_AWSJRzSzQC</link>
+<authors>A Halevy, Z Ives</authors>
+<source>Elsevier Science &amp; Technology</source>
+<citations>2</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>User-focused database management</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=220&amp;citation_for_view=F_MI0pcAAAAJ:p2g8aNsByqUC</link>
+<authors>AY Halevy</authors>
+<source>Proceedings of the 14th international conference on Intelligent user ...</source>
+<citations>2</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Google Fusion Tables</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=220&amp;citation_for_view=F_MI0pcAAAAJ:MhiOAD_qIWkC</link>
+<authors>A Halevy, R Shapley</authors>
+<source>User Experience http://googleresearch. blogspot. com/2009/06/google-fusion ...</source>
+<citations>2</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Soliciting User Feedback in a Dataspace System</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=220&amp;citation_for_view=F_MI0pcAAAAJ:PELIpwtuRlgC</link>
+<authors>SR Jeffery, MJ Franklin, AY Halevy, SR Jeffery</authors>
+<source>Electrical Engineering and Computer Sciences University of California at ...</source>
+<citations>2</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Data-spaces: a new abstraction for data management</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=220&amp;citation_for_view=F_MI0pcAAAAJ:nVrZBo8bIpAC</link>
+<authors>M Franklin, A Halevy, J Widom</authors>
+<source>SIGMOD Record, December</source>
+<citations>2</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>XML and data integration</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=220&amp;citation_for_view=F_MI0pcAAAAJ:1sJd4Hv_s6UC</link>
+<authors>A Halevy</authors>
+<source>EDBT Summerschool presentation</source>
+<citations>2</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Data engineering special issue on adaptive query processing, june 2000</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=220&amp;citation_for_view=F_MI0pcAAAAJ:0N-VGjzr574C</link>
+<authors>A Levy, A Query</authors>
+<source></source>
+<citations>2</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Special issue on intelligent internet systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=220&amp;citation_for_view=F_MI0pcAAAAJ:XvxMoLDsR5gC</link>
+<authors>A Levy, D Weld</authors>
+<source>Artificial Intelligence 100 (1), 339-339</source>
+<citations>2</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Querying heterogeneous information sources using source descriptions</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=220&amp;citation_for_view=F_MI0pcAAAAJ:7wO8s98CvbsC</link>
+<authors>A Rajaraman, AY Levy, JO Joann</authors>
+<source>Proceedings of the 22nd International Conference on Very Large Databases ...</source>
+<citations>2</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Information Gathering from Heterogeneous</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=220&amp;citation_for_view=F_MI0pcAAAAJ:U4n9YNQMCAIC</link>
+<authors>CA Knoblock, A Levy</authors>
+<source>Distributed Environments</source>
+<citations>2</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Towards an ecosystem of structured data on the web</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=220&amp;citation_for_view=F_MI0pcAAAAJ:bKqednn6t2AC</link>
+<authors>AY Halevy</authors>
+<source>Proceedings of the 15th International Conference on Extending Database ...</source>
+<citations>1</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Data Management for Journalism.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=220&amp;citation_for_view=F_MI0pcAAAAJ:6yz0xqPARnAC</link>
+<authors>AY Halevy, S McGregor</authors>
+<source>IEEE Data Eng. Bull. 35 (3), 7-15</source>
+<citations>1</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Reports of the AAAI 2010 Conference Workshops</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=220&amp;citation_for_view=F_MI0pcAAAAJ:HE397vMXCloC</link>
+<authors>DW Aha, M Boddy, V Bulitko, ASA Garcez, P Doshi, S Edelkamp, C Geib, P ...</authors>
+<source>AI Magazine 31 (4), 95-108</source>
+<citations>1</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Structured data on the web</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=220&amp;citation_for_view=F_MI0pcAAAAJ:K3LRdlH-MEoC</link>
+<authors>AY Halevy</authors>
+<source>Web Conference (APWEB), 2010 12th International Asia-Pacific, 7-7</source>
+<citations>1</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Finding with the Crowd</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=220&amp;citation_for_view=F_MI0pcAAAAJ:Ehil0879vHcC</link>
+<authors>AD Sarma, A Parameswaran, H Garcia-Molina, A Halevy</authors>
+<source>Stanford InfoLab</source>
+<citations>1</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Fusion Tables: new ways to collaborate on structured data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=220&amp;citation_for_view=F_MI0pcAAAAJ:t6usbXjVLHcC</link>
+<authors>JG Kidon</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations>1</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>What does Web 2.0 have to do with databases?</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=220&amp;citation_for_view=F_MI0pcAAAAJ:uWQEDVKXjbEC</link>
+<authors>S Amer-Yahia, A Halevy</authors>
+<source>Proceedings of the 33rd international conference on Very large data bases ...</source>
+<citations>1</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Dataspaces: Co-existence with Heterogeneity.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=220&amp;citation_for_view=F_MI0pcAAAAJ:WbkHhVStYXYC</link>
+<authors>D Maier, AY Halevy, MJ Franklin</authors>
+<source>KR, 3</source>
+<citations>1</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Semantic integration workshop at the second international semantic web conference (ISWC-2003)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=220&amp;citation_for_view=F_MI0pcAAAAJ:Tiz5es2fbqcC</link>
+<authors>AH Doan, AY Halevy, NF Noy</authors>
+<source>AI Magazine 25 (1), 109</source>
+<citations>1</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Semantic Integration</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=220&amp;citation_for_view=F_MI0pcAAAAJ:jgBuDB5drN8C</link>
+<authors>AH Doan, A Halevy, N Noy</authors>
+<source></source>
+<citations>1</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Research on statistical relational learning at the university of washington</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=220&amp;citation_for_view=F_MI0pcAAAAJ:SP6oXDckpogC</link>
+<authors>P Domingos, Y Abe, C Anderson, AH Doan, D Fox, A Halevy, G Hulten, H Kautz ...</authors>
+<source>Proceedings of the IJCAI-2003 Workshop on Learning Statistical Models from ...</source>
+<citations>1</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Learning Complex Semantic Mappings between Structured Representations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=240&amp;citation_for_view=F_MI0pcAAAAJ:yMeIxYmEMEAC</link>
+<authors>AH Doan, P Domingos, AY Halevy</authors>
+<source>Unpublished Manuscript</source>
+<citations>1</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Data Integration: A Killer App for Multistrategy Learning</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=240&amp;citation_for_view=F_MI0pcAAAAJ:5qfkUJPXOUwC</link>
+<authors>AH Doan, P Domingos, A Levy</authors>
+<source>Proceedings of The Fifth International Workshop on Multistrategy Learning ...</source>
+<citations>1</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Answering queries using views</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=240&amp;citation_for_view=F_MI0pcAAAAJ:hCrLmN-GePgC</link>
+<authors>AY Levy, AO Mendelzon, Y Sagiv, D Srivastava</authors>
+<source>Materialized views, 93-106</source>
+<citations>1</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Exploiting Run-Time Information to Locate Relevant Data Sources</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=240&amp;citation_for_view=F_MI0pcAAAAJ:NXb4pA-qfm4C</link>
+<authors>CA Knoblock, AY Levy</authors>
+<source>Working Notes of the AAAI Spring Symposium on Information Gathering from ...</source>
+<citations>1</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Personal information management with SEMEX</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=240&amp;citation_for_view=F_MI0pcAAAAJ:KbBQZpvPDL4C</link>
+<authors>XL Dong, Y Cai, A Halevy, JM Liu, J Madhavan</authors>
+<source>SIGMOD05: Proceedings of the 2005 ACM SIGMOD international conference on ...</source>
+<citations>1</citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Directions-based ranking of places returned by local search queries</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=240&amp;citation_for_view=F_MI0pcAAAAJ:6_hjMsCP8ZoC</link>
+<authors>H Gonzalez, P Venetis, CS Jensen, AY Halevy</authors>
+<source>US Patent 8,538,973</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Determining a geographic location relevant to a web page</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=240&amp;citation_for_view=F_MI0pcAAAAJ:1yWc8FF-_SYC</link>
+<authors>AY Halevy, J Madhavan, DH Ko</authors>
+<source>US Patent 8,468,156</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Clustering query refinements by inferred user intent</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=240&amp;citation_for_view=F_MI0pcAAAAJ:LdasjJ6CEcoC</link>
+<authors>E Sadikov, J Madhavan, A Halevy</authors>
+<source>US Patent 8,423,538</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Recent progress towards an ecosystem of structured data on the Web</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=240&amp;citation_for_view=F_MI0pcAAAAJ:PYBJJbyH-FwC</link>
+<authors>N Gupta, AY Halevy, B Harb, H Lam, H Lee, J Madhavan, F Wu, C Yu</authors>
+<source>Data Engineering (ICDE), 2013 IEEE 29th International Conference on, 5-8</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Determining keyword for a form page</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=240&amp;citation_for_view=F_MI0pcAAAAJ:ubry08Y2EpUC</link>
+<authors>J Madhavan, D Ko, LA Kot, A Halevy</authors>
+<source>US Patent 20,130,031,083</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Analyzing a Form Page for Indexing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=240&amp;citation_for_view=F_MI0pcAAAAJ:1lhNe0rCu4AC</link>
+<authors>J Madhavan, A Halevy, D Ko</authors>
+<source>US Patent 20,130,031,503</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Opportunities and Challenges in Data journalism</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=240&amp;citation_for_view=F_MI0pcAAAAJ:AXkvAH5U_nMC</link>
+<authors>S McGregor, A Halevy</authors>
+<source>Computation for Humanity: Information Technology to Advance Society, 407</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Special issue on structured and crowd-sourced data on the Web</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=240&amp;citation_for_view=F_MI0pcAAAAJ:owLR8QvbtFgC</link>
+<authors>M Brambilla, S Ceri, A Halevy</authors>
+<source>The VLDB Journal, 1-2</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>SCALABLE RENDERING OF LARGE SPATIAL DATABASES</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=240&amp;citation_for_view=F_MI0pcAAAAJ:buQ7SEKw-1sC</link>
+<authors>H Gonzalez, J Madhavan, A Von Richenberg, A Langen, A Halevy</authors>
+<source>US Patent 20,120,278,313</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Scalable rendering of large spatial databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=240&amp;citation_for_view=F_MI0pcAAAAJ:dBIO0h50nwkC</link>
+<authors>H Gonzalez, J Madhavan, A Von Richenberg, A Langen, A Halevy</authors>
+<source>US Patent 8,244,743</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Harvesting relational tables from lists on the web</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=240&amp;citation_for_view=F_MI0pcAAAAJ:HtS1dXgVpQUC</link>
+<authors>H Elmeleegy, J Madhavan, A Halevy</authors>
+<source>US Patent 8,140,533</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Big Data Storytelling Through Interactive Maps.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=240&amp;citation_for_view=F_MI0pcAAAAJ:a3BOlSfXSfwC</link>
+<authors>J Madhavan, S Balakrishnan, K Brisbin, H Gonzalez, N Gupta, AY Halevy, K ...</authors>
+<source>IEEE Data Eng. Bull. 35 (2), 46-54</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Bringing (Web) Databases to the Masses.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=240&amp;citation_for_view=F_MI0pcAAAAJ:fFSKOagxvKUC</link>
+<authors>AY Halevy</authors>
+<source>ESWC, 3</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>IDENTIFYING QUERY ASPECTS</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=240&amp;citation_for_view=F_MI0pcAAAAJ:cWzG1nlazyYC</link>
+<authors>F WU, J Madhavan, A Halevy</authors>
+<source>EP Patent 2,391,959</source>
+<citations></citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>SEARCHING THROUGH CONTENT WHICH IS ACCESIBLE THROUGH WEB-BASED FORMS</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=240&amp;citation_for_view=F_MI0pcAAAAJ:OP4eGU-M3BUC</link>
+<authors>AY Halevy, J Madhavan, DH Ko</authors>
+<source>US Patent App. 13/246,519</source>
+<citations></citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>TABLE SEARCH USING RECOVERED SEMANTIC INFORMATION</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=260&amp;citation_for_view=F_MI0pcAAAAJ:4vMrXwiscB8C</link>
+<authors>J Madhavan, CM Wu, A Halevy, G Miao, M Pasca, WHY Shen</authors>
+<source>US Patent App. 13/179,413</source>
+<citations></citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Challenges and Opportunities with Big Data 2011-1</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=260&amp;citation_for_view=F_MI0pcAAAAJ:yqoGN6RLRZoC</link>
+<authors>D Agrawal, P Bernstein, E Bertino, S Davidson, U Dayal, M Franklin, J Gehrke ...</authors>
+<source></source>
+<citations></citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Challenges and Opportunities with Big Data 2012-2</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=260&amp;citation_for_view=F_MI0pcAAAAJ:OcBU2YAGkTUC</link>
+<authors>D Agrawal, P Bernstein, E Bertino, S Davidson, U Dayal, M Franklin, J Gehrke ...</authors>
+<source></source>
+<citations></citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Challenges and Opportunities with Big Data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=260&amp;citation_for_view=F_MI0pcAAAAJ:ODE9OILHJdcC</link>
+<authors>E Bertino, P Bernstein, D Agrawal, S Davidson, U Dayal, M Franklin, J Gehrke ...</authors>
+<source></source>
+<citations></citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Best-effort modeling of structured data on the web</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=260&amp;citation_for_view=F_MI0pcAAAAJ:bnK-pcrLprsC</link>
+<authors>A Halevy</authors>
+<source>Conceptual ModelingER 2011, 32-32</source>
+<citations></citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Table Search Using Recovered Semantics</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=260&amp;citation_for_view=F_MI0pcAAAAJ:6bLC7aUMtPcC</link>
+<authors>P Venetis, A Halevy, J Madhavan, M Pasca, W Shen, F Wu, G Miao, C Wu</authors>
+<source></source>
+<citations></citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Socializing Data with Google Fusion Tables</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=260&amp;citation_for_view=F_MI0pcAAAAJ:eflP2zaiRacC</link>
+<authors>H Gonzalez, A Halevy, A Langen, J Madhavan, R McChesney, R Shapley, W Shen ...</authors>
+<source></source>
+<citations></citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Surfacing the Deep Web</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=260&amp;citation_for_view=F_MI0pcAAAAJ:geHnlv5EZngC</link>
+<authors>A Halevy, J Madhaven</authors>
+<source>Beautiful Data: The Stories Behind Elegant Data Solutions, 133</source>
+<citations></citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Discovering Functional Dependencies in Pay-As-You-Go Data Integration Systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=260&amp;citation_for_view=F_MI0pcAAAAJ:08ZZubdj9fEC</link>
+<authors>DZ Wang, M Franklin, L Dong, AD Sarma, A Halevy</authors>
+<source></source>
+<citations></citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Identifying query aspects</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=260&amp;citation_for_view=F_MI0pcAAAAJ:eq2jaN3J8jMC</link>
+<authors>F Wu, J Madhavan, A Halevy</authors>
+<source>US Patent App. 12/512,908</source>
+<citations></citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Keynote talks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=260&amp;citation_for_view=F_MI0pcAAAAJ:B3FOqHPlNUQC</link>
+<authors>A Halevy</authors>
+<source>International Conference on Management of Data: Proceedings of the 2007 ACM ...</source>
+<citations></citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>SEARCHING THROUGH CONTENT WHICH IS ACCESSIBLE THROUGH WEB-BASED FORMS</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=260&amp;citation_for_view=F_MI0pcAAAAJ:_OXeSy2IsFwC</link>
+<authors>AY HALEVY, J MADHAVAN, DH KO</authors>
+<source>WO Patent 2,006,108,069</source>
+<citations></citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>1 Department of Computer and Information Science, University of Pennsylvania, Philadelphia, United States zives@ cis. upenn. edu 2 Department of Computer Science and Engineering, University of Washington, Seattle</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=260&amp;citation_for_view=F_MI0pcAAAAJ:4fKUyHm3Qg0C</link>
+<authors>ZG Ives, AY Halevy, P Mork, I Tatarinov</authors>
+<source>Semantic Web and Peer-to-Peer: Decentralized Management and Exchange of ...</source>
+<citations></citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Scalable, Peer-Based Mediation Across XML Schemas and Ontologies</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=260&amp;citation_for_view=F_MI0pcAAAAJ:Y5dfb0dijaUC</link>
+<authors>ZG Ives, AY Halevy, P Mork, I Tatarinov</authors>
+<source>Semantic Web and Peer-to-Peer, 235-258</source>
+<citations></citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Editors and Staff, 2005</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=260&amp;citation_for_view=F_MI0pcAAAAJ:AXPGKjj_ei8C</link>
+<authors>M Tennenholtz, T Walsh, F Bacchus, P Bartlett, C Cardie, W Daelemans, AD Luc ...</authors>
+<source></source>
+<citations></citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Mining Structures to Predict Semantics (Invited Talk)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=260&amp;citation_for_view=F_MI0pcAAAAJ:5Ul4iDaHHb8C</link>
+<authors>AY Halevy</authors>
+<source>International Workshop on Mining for and from the Semantic Web, 36</source>
+<citations></citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>SEMEX: Mining for Personal Information Integration</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=260&amp;citation_for_view=F_MI0pcAAAAJ:9vf0nzSNQJEC</link>
+<authors>X Dong, A Halevy, E Nemes, SB Sigurdsson, P Domingos</authors>
+<source>Mining for and from the Semantic Web 2004 (SWM 2004)</source>
+<citations></citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>KNOWLEDGE AND DATA ENGINEERING</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=260&amp;citation_for_view=F_MI0pcAAAAJ:eJXPG6dFmWUC</link>
+<authors>B Cui, BC Ooi, J Su, KL Tan, YK Woon, WK Ng, EP Lim, KL Tan, AY Halevy, ZG ...</authors>
+<source></source>
+<citations></citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Semantic Integration Workshop (SI-2003)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=260&amp;citation_for_view=F_MI0pcAAAAJ:GFxP56DSvIMC</link>
+<authors>AH Doan, A Halevy, N Noy</authors>
+<source></source>
+<citations></citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Special Issue on PODS 2000</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=260&amp;citation_for_view=F_MI0pcAAAAJ:j7_hQOaDUrUC</link>
+<authors>JF Lynch, T Millstein, A Halevy, M Friedman, M Spielmann, T Milo, D Suciu, V ...</authors>
+<source></source>
+<citations></citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>The Piazza Peer Data Management Project</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=280&amp;citation_for_view=F_MI0pcAAAAJ:1qzjygNMrQYC</link>
+<authors>IT Zachary, Z Ives, J Madhavan, A Halevy, D Suciu, N Dalvi</authors>
+<source></source>
+<citations></citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Special issue on XML query processing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=280&amp;citation_for_view=F_MI0pcAAAAJ:MpfHP-DdYjUC</link>
+<authors>AY Halevy</authors>
+<source>VLDB JOURNAL 11 (4), 273-273</source>
+<citations></citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Next Generation Information Technologies and Systems: 5th International Workshop, NGITS 2002, Caesarea, Israel, June 24-25, 2002. Proceedings</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=280&amp;citation_for_view=F_MI0pcAAAAJ:olpn-zPbct0C</link>
+<authors></authors>
+<source>Springer</source>
+<citations></citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Proceedings of the 5th International Workshop on Next Generation Information Technologies and Systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=280&amp;citation_for_view=F_MI0pcAAAAJ:WA5NYHcadZ8C</link>
+<authors>AY Halevy, A Gal</authors>
+<source>Springer-Verlag</source>
+<citations></citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Peer-Data Management Systems: Plumbing for the Semantic Web</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=280&amp;citation_for_view=F_MI0pcAAAAJ:mvPsJ3kp5DgC</link>
+<authors>AY Halevy</authors>
+<source>Invited talk at the AAAI Spring Symposium on Mining Answers from Text and ...</source>
+<citations></citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Next Generation Information Technologies and Systems: 5th International Workshop, NGITS 2002: Proceedings</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=280&amp;citation_for_view=F_MI0pcAAAAJ:Mojj43d5GZwC</link>
+<authors></authors>
+<source>Springer-Verlag</source>
+<citations></citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>The Nimble XML Data Integration System</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=280&amp;citation_for_view=F_MI0pcAAAAJ:_B80troHkn4C</link>
+<authors>AY HaLevy</authors>
+<source>Proceedings of the 17th International Conference on Data Engineering, 155</source>
+<citations></citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Ь Ц б а Сви ж и гв в в иб</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=280&amp;citation_for_view=F_MI0pcAAAAJ:u-coK7KVo8oC</link>
+<authors>D Draper, AY Halevy, DS Weld</authors>
+<source></source>
+<citations></citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Reminiscences on Influential Papers.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=280&amp;citation_for_view=F_MI0pcAAAAJ:wKETBy42zhYC</link>
+<authors>KA Ross, C Faloutsos, AY Levy, PE O'Neil, E Simon, D Srivastava, V Vianu, G ...</authors>
+<source>SIGMOD Record 29 (1), 52-65</source>
+<citations></citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Erratum to:``Conjunctive partial deduction: foundations, control, algorithms and experiments''[The Journal of Logic Programming 41 (1999) 231](3) 265 Dekhtyar, A. and VS Subrahmanian, Hybrid probabilistic programs (3) 187</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=280&amp;citation_for_view=F_MI0pcAAAAJ:FiytvqdAVhgC</link>
+<authors>M DucassÈ, J NoyÈ, OM Duschka, MR Genesereth, AY Levy</authors>
+<source>The Journal of Logic Programming 43 (267), 268</source>
+<citations></citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Ambite, JL and CA Knoblock Flexible and scalable cost-based query planning in mediators: A trans-formational approach 115161 Cohen, WW WHIRL: A word-based information representation language 163196</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=280&amp;citation_for_view=F_MI0pcAAAAJ:7BrZ7Jt4UNcC</link>
+<authors>M Craven, D DiPasquo, D Freitag, A McCallum, T Mitchell, K Nigam, S Slattery ...</authors>
+<source>Artificial Intelligence 118, 299</source>
+<citations></citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Reminiscences on Influential Papers</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=280&amp;citation_for_view=F_MI0pcAAAAJ:IRz6iEL74y4C</link>
+<authors>C Faloutsos, A Levy, P O'Neil, E Simon, D Srivastava, V Vianu, G Weikum</authors>
+<source>SIGMOD RECORD 29 (1), 52-56</source>
+<citations></citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Reminiscences on Influential Papers</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=280&amp;citation_for_view=F_MI0pcAAAAJ:KaMxkj08jr0C</link>
+<authors>KA Ross, C Faloutsos, A Levy, P O'Neil</authors>
+<source>SIGMOD Record 28 (4), 39</source>
+<citations></citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>FIFTEENTH ACM SIGACT-SIGMOD-SIGART SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS-Answering Queries Using Limited External Query Processors</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=280&amp;citation_for_view=F_MI0pcAAAAJ:OTTXONDVkokC</link>
+<authors>AY Levy, A Rajaraman, JD Ullman</authors>
+<source>Journal of Computer and System Sciences 58 (1), 69-82</source>
+<citations></citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Verifying Integrity Constraints on Web Sites</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=280&amp;citation_for_view=F_MI0pcAAAAJ:_FM0Bhl9EiAC</link>
+<authors>D Florescu, A Levy, D Suciu</authors>
+<source>In IJCAI</source>
+<citations></citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Next Generation Information Technologies:... International Workshop; Proceedings. Zikhron-Yaakov, Israel, July 5-7, 1999</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=280&amp;citation_for_view=F_MI0pcAAAAJ:J-pR_7NvFogC</link>
+<authors>A Halevy, RY Pinter</authors>
+<source>Springer</source>
+<citations></citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Is Web-site Management a Database Problem?</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=280&amp;citation_for_view=F_MI0pcAAAAJ:_5tno0g5mFcC</link>
+<authors>D Florescu, A Levy, D Suciu</authors>
+<source>VLDB, 696</source>
+<citations></citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>METHOD AND APPARATUS FOR WEB SITE MANAGEMENT</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=280&amp;citation_for_view=F_MI0pcAAAAJ:LgRImbQfgY4C</link>
+<authors>M FERNANDEZ, D FLORESCU, J KANG, A LEVY, D SUCIU</authors>
+<source>WO Patent 1,998,035,305</source>
+<citations></citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Warehousing and Incremental Evaluation for Web Site Management</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=280&amp;citation_for_view=F_MI0pcAAAAJ:4fGpz3EwCPoC</link>
+<authors>D Florescu, A Levy, D Suciu</authors>
+<source></source>
+<citations></citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>METHOD AND SYSTEM FOR USING MATERIALIZED VIEWS TO EVALUATE QUERIES INVOLVING AGGREGATION</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=280&amp;citation_for_view=F_MI0pcAAAAJ:Aul-kAQHnToC</link>
+<authors>S DAR, H JAGADISH, A LEVY, D SRIVASTAVA</authors>
+<source>WO Patent 1,998,009,238</source>
+<citations></citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>XML Query and transformation language.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=300&amp;citation_for_view=F_MI0pcAAAAJ:IUKN3-7HHlwC</link>
+<authors>A Bosworth, A Layman, A Ardeleanu, D Schach</authors>
+<source>QL</source>
+<citations></citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Method and apparatus for optimizing database queries involving aggregation predicates</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=300&amp;citation_for_view=F_MI0pcAAAAJ:2VqYfGB8ITEC</link>
+<authors>AY Levy, IS Mumick</authors>
+<source>EP Patent 0,791,882</source>
+<citations></citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>A. Hossain and KS Ray, An extension of QSIM with qualitative curvature</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=300&amp;citation_for_view=F_MI0pcAAAAJ:nRpfm8aw39MC</link>
+<authors>AY Levy, Y Iwasaki, R Fikes</authors>
+<source>Artificial Intelligence 95, 441-442</source>
+<citations></citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>APPARATUS AND METHOD FOR RETRIEVING INFORMATION</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=300&amp;citation_for_view=F_MI0pcAAAAJ:GtLg2Ama23sC</link>
+<authors>T Kirk, AY Levy, D Srivastava</authors>
+<source>EP Patent 0,696,366</source>
+<citations></citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Switching Terminologies-Creating a New View of An Old World: Preliminary Report.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=300&amp;citation_for_view=F_MI0pcAAAAJ:LO7wyVUgiFcC</link>
+<authors>C Beeri, AY Levy, MC Rousset</authors>
+<source>Description Logics, 79-83</source>
+<citations></citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Irrelevance reasoning in knowledge-based systems(Ph. D. Thesis)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=300&amp;citation_for_view=F_MI0pcAAAAJ:WJVC3Jt7v1AC</link>
+<authors>A LEVY</authors>
+<source></source>
+<citations></citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Speeding Up Inferences in Large Knowledge Bases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=300&amp;citation_for_view=F_MI0pcAAAAJ:86PQX7AUzd4C</link>
+<authors>AY Levy, RE Fikes, Y Sagiv</authors>
+<source></source>
+<citations></citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Acquiring (Ir) relevance Knowledge for Problem Solving</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=300&amp;citation_for_view=F_MI0pcAAAAJ:sNmaIFBj_lkC</link>
+<authors>AY Levy, Y Iwasaki, H Motoda</authors>
+<source>Knowledge Systems Laboratory, Department of Computer Science, Stanford ...</source>
+<citations></citations>
+<pub_year>1992</pub_year>
+</record>
+<record>
+<title>Exploiting (ir) relevence to Guide Problem-solving</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=300&amp;citation_for_view=F_MI0pcAAAAJ:YohjEiUPhakC</link>
+<authors>AY Levy</authors>
+<source>Knowledge Systems Laboratory, Department of Computer Science, Stanford ...</source>
+<citations></citations>
+<pub_year>1991</pub_year>
+</record>
+<record>
+<title>The magazine archive includes every article published in Communications of the ACM for over the past 50 years.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=300&amp;citation_for_view=F_MI0pcAAAAJ:rHJHxKgnXwkC</link>
+<authors>RA Popa, CMS Redfield, N Zeldovich, H Balakrishnan</authors>
+<source>Communications of the ACM 55 (9), 103-111</source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>The magazine archive includes every article published in Communications of the ACM for over the past 50 years.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=300&amp;citation_for_view=F_MI0pcAAAAJ:Ade32sEp0pkC</link>
+<authors>G Goth</authors>
+<source>Communications of the ACM 55 (11), 13-15</source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Synthesizing Union Tables from the Web</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=300&amp;citation_for_view=F_MI0pcAAAAJ:LPtt_HFRSbwC</link>
+<authors>X Ling, A Halevy, F Wu, C Yu</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Guest Editorial Peter Tarczy-Hornoch, Mia K. Markey, John A. Smith, Tadaaki Hiruki. Bio* Medical informatics and genomic medicine: Research and training.............................. 1 Methodological Review</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=300&amp;citation_for_view=F_MI0pcAAAAJ:1taIhTC69MYC</link>
+<authors>B Louie, P Mork, F Martin-Sanchez, A Halevy, PTH Data, N Sioutos, S de ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Ben-Eliyahu-Zohary, R. and L. Palopoli Reasoning with minimal models: efficient algorithms and applica-tions Castillo, E., C. Solares and P Gomez Tail uncertainty analysis in complex systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=300&amp;citation_for_view=F_MI0pcAAAAJ:IaI1MmNe2tcC</link>
+<authors>A Hossain, KS Ray, M Kaminski, AY Levy, Y Iwasaki, R Fikes, V Lifschitz</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Special Issue: Bio* Medical Informatics</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=300&amp;citation_for_view=F_MI0pcAAAAJ:PaBasH6fAo0C</link>
+<authors>B Louie, P Mork, F Martin-Sanchez, A Halevy, PTH Data</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Consistent Thinning of Large Geographical Data for Map Visualization</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=300&amp;citation_for_view=F_MI0pcAAAAJ:7Hz3ACDFbsoC</link>
+<authors>AD Sarma, H Lee, H Gonzalez, J Madhavan, A Halevy</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Data Warehousing: Lessons from Experience</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=300&amp;citation_for_view=F_MI0pcAAAAJ:Ak0FvsSvgGUC</link>
+<authors>R Winter, WC Principal</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Declarative Specification of Web Sites with</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=300&amp;citation_for_view=F_MI0pcAAAAJ:5MTHONV0fEkC</link>
+<authors>M Fernandez, D Florescu, A Levy, D Suciu</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Mining Structures for Semantics</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=300&amp;citation_for_view=F_MI0pcAAAAJ:P7Ujq4OLJYoC</link>
+<authors>A Halevy, J Madhavan, X Dong</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Data Engineering</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=300&amp;citation_for_view=F_MI0pcAAAAJ:F9fV5C73w3QC</link>
+<authors>A Aiyer, M Bautin, GJ Chen, P Damania, P Khemani, K Muthukkaruppan, K ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Querying and Searching a Dataspace</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=320&amp;citation_for_view=F_MI0pcAAAAJ:LhH-TYMQEocC</link>
+<authors>X Dong, A Halevy, J Liu</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Convergent Query Processing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=320&amp;citation_for_view=F_MI0pcAAAAJ:HeT0ZceujKMC</link>
+<authors>ZG Ives, AY Halevy, DS Weld</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Towards E cient Information Gathering Agents Alon Y. Levy AT&amp;T Bell Laboratories AI Principles Research Department Murray Hill, NJ, USA.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=320&amp;citation_for_view=F_MI0pcAAAAJ:9c2xU6iGI7YC</link>
+<authors>AY Levy</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Intelligent Internet Systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=320&amp;citation_for_view=F_MI0pcAAAAJ:mlAyqtXpCwEC</link>
+<authors>DS Weld, A Levy</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Reasoning with Aggregation Constraints in Views</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=320&amp;citation_for_view=F_MI0pcAAAAJ:umqufdRvDiIC</link>
+<authors>S Dar, HV Jagadish, AY Levy, D Srivastava</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Overview of Strudel-A Web-Site Management System</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=320&amp;citation_for_view=F_MI0pcAAAAJ:4hFrxpcac9AC</link>
+<authors>MFDFJ Kang, A Levy, D Suciu</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Inria Roquencourt dana@ rodin. inria. fr</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=320&amp;citation_for_view=F_MI0pcAAAAJ:a9-T7VOCCH8C</link>
+<authors>D Florescu, A Levy, A Mendelzon</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Discussion of: Forget It!</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=320&amp;citation_for_view=F_MI0pcAAAAJ:0izLItjtcgwC</link>
+<authors>F Lin, R Reiter, AY Levy</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>CARIN: Description Logics as a Constraint Language in Horn Rule Languages</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=320&amp;citation_for_view=F_MI0pcAAAAJ:8d8msizDQcsC</link>
+<authors>AY Levy, MC Rousset</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Panel Session</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=320&amp;citation_for_view=F_MI0pcAAAAJ:FAceZFleit8C</link>
+<authors>A Levy, A Mendelson</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Towards E cient Information Gathering Agents</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=320&amp;citation_for_view=F_MI0pcAAAAJ:bz8QjSJIRt4C</link>
+<authors>AY Levy, Y Sagiv, D Srivastava</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>RoboCup 2010 Standard Platform League Team BURST Description</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=320&amp;citation_for_view=F_MI0pcAAAAJ:kh2fBNsKQNwC</link>
+<authors>M Keidar, I Aharon, D Barda, O Kamara, A Levy, E Polosetski, D Ramati, L ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Bulletin of the Technical Committee on</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=320&amp;citation_for_view=F_MI0pcAAAAJ:Ri6SYOTghG4C</link>
+<authors>S Chandrasekaran, A Deshpande, K Hildrum, S Madden, V Raman, MA Shah, ZG ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>AI Principles Research Department, AT&amp;T Laboratories 600 Mountain Avenue, Room 2C-406 Murray Hill, NJ, 07974, USA email: levy@ research. att. com &amp;</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=320&amp;citation_for_view=F_MI0pcAAAAJ:rmuvC79q63oC</link>
+<authors>A Levy, MC Rousset</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>E ciently Ordering Query Plans for Data Integration</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=320&amp;citation_for_view=F_MI0pcAAAAJ:PVjk1bu6vJQC</link>
+<authors>AH Doan, A Levy</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Next Generation Information Technologies:... International Workshop; Proceedings</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=320&amp;citation_for_view=F_MI0pcAAAAJ:dTyEYWd-f8wC</link>
+<authors>A Halevy, RY Pinter</authors>
+<source>Springer.</source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Data Complexity of Query An-swering in Description Logics, 260 Dataspaces: Co-existence with Heterogeneity, 3</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=320&amp;citation_for_view=F_MI0pcAAAAJ:tkaPQYYpVKoC</link>
+<authors>N Alechina, A Avron, JA Baier, J Ben-Naim, B Bennett, P Besnard, M Bienvenu ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Workshop Officers</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=320&amp;citation_for_view=F_MI0pcAAAAJ:eMMeJKvmdy0C</link>
+<authors>L Haas, Z Ives, M Mohania, M Bhide, D Agrawal, P Bernstein, K Chang, Y Chen ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>NGITS 2002: next generation information technologies and systems(Caesarea, 24-25 June 2002)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=320&amp;citation_for_view=F_MI0pcAAAAJ:5ugPr518TE4C</link>
+<authors>A Halevy, A Gal</authors>
+<source>Lecture notes in computer science</source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Corpus-based Schema Matching</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=320&amp;citation_for_view=F_MI0pcAAAAJ:V3AGJWp-ZtQC</link>
+<authors>J ant Madhavan, P Bernstein, K Chen, A Halevy, P Shenoy</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Evaluating Temporal Graphs Built from Texts via Transitive Reduction............................... 375 X. Tannier, P. Muller On-Line Planning and Scheduling: An Application to Controlling Modular Printers.................... 415 W. Ruml, MB Do, R. Zhou, MPJ Fromherz Narrowing the Modeling Gap: A Cluster-Ranking Approach to Coreference Resolution................. 469</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=340&amp;citation_for_view=F_MI0pcAAAAJ:kRWSkSYxWN8C</link>
+<authors>A Rahman, V Ng, R He, E Brunskill, N Roy, IA Kash, EJ Friedman, JY Halpern ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Data Integration</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=340&amp;citation_for_view=F_MI0pcAAAAJ:q3oQSFYPqjQC</link>
+<authors>A Halevy</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>ICDM 2005 Workshop Proposal</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=340&amp;citation_for_view=F_MI0pcAAAAJ:BrmTIyaxlBUC</link>
+<authors>K Borner, A Halevy, H Jagadish, M Singh</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>DIMACS Workshop on Algorithms in the Field</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=340&amp;citation_for_view=F_MI0pcAAAAJ:VOx2b1Wkg3QC</link>
+<authors>SE Fienberg, A Halevy, J Doyle, KP Bennett, AK Mok, GL Miller, C Mellon, E ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Schemr: a Schema Search Engine for Information Integration</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=340&amp;citation_for_view=F_MI0pcAAAAJ:fQNAKQ3IYiAC</link>
+<authors>K Chen, J Madhavan, A Halevy</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Ullas Nambiar (IBM India Research Lab, New Delhi, India), Cochair Zaiqing Nie (Microsoft Research Asia, Beijing, PR China), Cochair</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=340&amp;citation_for_view=F_MI0pcAAAAJ:LPZeul_q3PIC</link>
+<authors>A Halevy, KCC Chang, S Kambhampati, A Gal, A McCallum, B Srivastava, B Liu ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Author-Title Index Volume 40, 2011</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=340&amp;citation_for_view=F_MI0pcAAAAJ:vRqMK49ujn8C</link>
+<authors>V Aravantinos, A Atserias, H Aziz, Y Bachrach, L Bordeaux, D Borrajo, E ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Data Engineering</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=340&amp;citation_for_view=F_MI0pcAAAAJ:tOudhMTPpwUC</link>
+<authors>PA Bernstein, N Dani, B Khessib, R Manne, D Shutt, J Madhavan, A Halevy, S ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Follow Us</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=F_MI0pcAAAAJ&amp;cstart=340&amp;citation_for_view=F_MI0pcAAAAJ:l7t_Zn2s7bgC</link>
+<authors>A Halevy, J Madhavan</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+</file>

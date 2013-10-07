@@ -1,0 +1,4895 @@
+RT Journal Article
+ID 56946585
+A1 Calhoun,Benton,H.
+A1 Lach,John
+A1 Stankovic,John
+A1 Wentzloff,David,D.
+A1 Whitehouse,Kamin
+A1 Barth,Adam,T.
+A1 Brown,Jonathan,K.
+A1 Li,Qiang
+A1 Oh,Seunghyun
+A1 Roberts,Nathan,E.
+A1 Zhang,Yanqing
+YR 2012
+T1 Body Sensor Networks: A Holistic Approach From Silicon to Users
+JF Proceedings of The IEEE
+VO 100
+SP 91
+OP 106
+IS 1
+
+RT Journal Article
+ID 61420168
+A1 Hu,Pan
+A1 Shen,Guobin
+A1 Jiang,Xiaofan
+A1 Shih,Shao-fu
+A1 Lu,Donghuan
+A1 Zhao,Feng
+A1 Hong,Dezhi
+A1 Li,Qiang
+A1 Nirjon,Shahriar
+A1 Dickerson,Robert
+A1 Stankovic,John,A.
+YR 2012
+T1 Septimu 2 : Earphones for Continuous and Non-Intrusive Physiological and Environmental Monitoring
+
+RT Journal Article
+ID 61416247
+A1 Nirjon,Shahriar
+A1 Dickerson,Robert,F.
+A1 Li,Qiang
+A1 Asare,Philip
+A1 Stankovic,John,A.
+A1 Hong,Dezhi
+A1 Zhang,Ben
+A1 Jiang,Xiaofan
+A1 Shen,Guobin
+A1 Zhao,Feng
+YR 2012
+T1 MusicalHeart: A Hearty Way of Listening to Music
+
+RT Journal Article
+ID 57026099
+A1 Stoleru,Radu
+A1 He,Tian
+A1 Mathiharan,Siddhartha,S.
+A1 George,Stephen,M.
+A1 Stankovic,John,A.
+YR 2012
+T1 Asymmetric Event-Driven Node Localization in Wireless Sensor Networks
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 23
+SP 634
+OP 642
+IS 4
+
+RT Conference Proceedings
+ID 56970248
+A1 Nirjon,Shahriar
+A1 Nicoara,Angela
+A1 Hsu,Cheng-Hsin
+A1 Singh,Jatinder
+A1 Stankovic,John
+YR 2012
+T1 MultiNets: Policy Oriented Real-Time Switching of Wireless Interfaces on Mobile Devices
+SP 251
+OP 260
+
+RT Journal Article
+ID 51195158
+A1 Kang,Woochul
+A1 Son,Sang,Hyuk
+A1 Stankovic,John,A.
+YR 2012
+T1 Design, Implementation, and Evaluation of a QoS-Aware Real-Time Embedded Database
+JF IEEE Transactions on Computers
+VO 61
+SP 45
+OP 59
+IS 1
+
+RT Journal Article
+ID 56915364
+A1 Hong,Dezhi
+A1 Zhang,Ben
+A1 Li,Qiang
+A1 Nirjon,Shahriar
+A1 Dickerson,Robert
+A1 Shen,Guobin
+A1 Jiang,Xiaofan
+A1 Stankovic,John
+YR 2012
+T1 SEPTIMU: continuous in-situ human wellness monitoring and feedback using sensors embedded in earphones
+SP 159
+OP 160
+
+RT Journal Article
+ID 61401833
+A1 Hong,Dezhi
+A1 Zhang,Ben
+A1 Li,Qiang
+A1 Nirjon,Shahriar
+A1 Dickerson,Robert
+A1 Shen,Guobin
+A1 Jiang,Xiaofan
+A1 Stankovic,John,A.
+YR 2012
+T1 Demo Abstract: SEPTIMU - Continuous In-situ Human Wellness Monitoring and Feedback using Sensors Embedded in Earphones
+
+RT Conference Proceedings
+ID 56966682
+A1 Asare,Philip
+A1 Lach,John
+A1 Stankovic,John,A.
+YR 2012
+T1 WiP Abstract: Enabling Holistic Design of Body Sensor Networks
+
+RT Journal Article
+ID 57013691
+A1 Vicaire,Pascal,A.
+A1 Hoque,Enamul
+A1 Xie,Zhiheng
+A1 Stankovic,John,A.
+YR 2012
+T1 Bundle: A Group-Based Programming Abstraction for Cyber-Physical Systems
+JF IEEE Transactions on Industrial Informatics
+VO 8
+SP 379
+OP 392
+IS 2
+
+RT Conference Proceedings
+ID 56982721
+A1 Nirjon,Shahriar
+A1 Stankovic,John,A.
+YR 2012
+T1 Kinsight: Localizing and Tracking Household Objects Using Depth-Camera Sensors
+
+RT Journal Article
+ID 56900420
+A1 Zhou,Gang
+A1 Li,Qiang
+A1 Li,Jingyuan
+A1 Wu,Yafeng
+A1 Lin,Shan
+A1 Lu,Jian
+A1 Wan,Chieh-Yih
+A1 Yarvis,Mark,D.
+A1 Stankovic,John,A.
+YR 2011
+T1 Adaptive and Radio-Agnostic QoS for Body Sensor Networks
+JF ACM Transactions in Embedded Computing Systems
+SP 1
+OP 34
+
+RT Journal Article
+ID 56904045
+A1 Hnat,Timothy,W.
+A1 Srinivasan,Vijay
+A1 Lu,Jiakang
+A1 Sookoor,Tamim,I.
+A1 Dawson,Raymond
+A1 Stankovic,John
+A1 Whitehouse,Kamin
+YR 2011
+T1 The hitchhiker's guide to successful residential sensing deployments
+SP 232
+OP 245
+
+RT Journal Article
+ID 56903410
+A1 Xie,Zhiheng
+A1 Hong,Mingyi
+A1 Liu,Hengchang
+A1 Li,Jingyuan
+A1 Zhu,Kangyuan
+A1 Stankovic,John
+YR 2011
+T1 Quantitative uncertainty-based incremental localization and anchor selection in wireless sensor networks
+SP 417
+OP 426
+
+RT Conference Proceedings
+ID 56995533
+A1 Liu,Hengchang
+A1 Xie,Zhiheng
+A1 Li,Jingyuan
+A1 Whitehouse,Kamin
+A1 Stankovic,John
+A1 Lin,Shan
+A1 Siu,David
+YR 2011
+T1 Efficient and reliable breadcrumb systems via coordination among multiple first responders
+
+RT Journal Article
+ID 39330397
+A1 Chipara,Octav
+A1 Lu,Chenyang
+A1 Stankovic,John,A.
+A1 Roman,Gruia-Catalin
+YR 2011
+T1 Dynamic Conflict-Free Transmission Scheduling for Sensor Network Queries
+JF IEEE Transactions on Mobile Computing
+VO 10
+SP 734
+OP 748
+IS 5
+
+RT Journal Article
+ID 56904838
+A1 Dickerson,Robert,F.
+A1 Gorlin,Eugenia,I.
+A1 Stankovic,John,A.
+YR 2011
+T1 Empath: a continuous remote emotional health monitoring system for depressive illness
+SP 1
+OP 10
+
+RT Journal Article
+ID 56904855
+A1 Dickerson,Robert,F.
+A1 Hnat,Timothy
+A1 Hoque,Enamul
+A1 Stankovic,John,A.
+YR 2011
+T1 Demonstration of sleep monitoring and caregiver displays for depression monitoring
+SP 1
+OP 2
+
+RT Journal Article
+ID 56904839
+A1 Li,Qiang
+A1 Stankovic,John,A.
+YR 2011
+T1 Grammar-based, posture- and context-cognitive detection for falls with different activity levels
+SP 1
+OP 10
+
+RT Conference Proceedings
+ID 13493349
+A1 Lee,Insup
+A1 Sha,Lui
+A1 Stankovic,John,A.
+YR 2010
+T1 Cyber-physical systems: the next computing revolution
+SP 731
+OP 736
+
+RT Conference Proceedings
+ID 13322378
+A1 Munir,Sirajum
+A1 Lin,Shan
+A1 Hoque,Enamul
+A1 Nirjon,S.,M.,Shahriar
+A1 Stankovic,John,A.
+A1 Whitehouse,Kamin
+YR 2010
+T1 Addressing burstiness for reliable communication and latency bound generation in wireless sensor networks
+SP 303
+OP 314
+
+RT Journal Article
+ID 51175951
+A1 Ko,JeongGil
+A1 Lu,Chenyang
+A1 Srivastava,Mani,B.
+A1 Stankovic,John,A.
+A1 Terzis,Andreas
+A1 Welsh,Matt
+YR 2010
+T1 Wireless Sensor Networks for Healthcare
+JF Proceedings of The IEEE
+VO 98
+SP 1947
+OP 1960
+IS 11
+
+RT Conference Proceedings
+ID 39240090
+A1 Lu,Jiakang
+A1 Sookoor,Tamim,I.
+A1 Srinivasan,Vijay
+A1 Gao,Ge
+A1 Holben,Brian
+A1 Stankovic,John,A.
+A1 Field,Eric
+A1 Whitehouse,Kamin
+YR 2010
+T1 The smart thermostat: using occupancy sensors to save energy in homes
+SP 211
+OP 224
+
+RT Journal Article
+ID 13332008
+A1 Zhou,Gang
+A1 Wu,Yafeng
+A1 Yan,Ting
+A1 He,Tian
+A1 Huang,Chengdu
+A1 Stankovic,John,A.
+A1 Abdelzaher,Tarek,F.
+YR 2010
+T1 A multifrequency MAC specially designed for wireless sensor network applications
+JF ACM Transactions in Embedded Computing Systems
+VO 9
+SP 1
+OP 41
+IS 4
+
+RT Book, Whole
+ID 13303398
+A1 Srinivasan,Vijay
+A1 Stankovic,John,A.
+A1 Whitehouse,Kamin
+YR 2010
+T1 Using Height Sensors for Biometric Identification in Multi-resident Homes
+SP 337
+OP 354
+
+RT Conference Proceedings
+ID 13294267
+A1 Liu,Hengchang
+A1 Li,Jingyuan
+A1 Xie,Zhiheng
+A1 Lin,Shan
+A1 Whitehouse,Kamin
+A1 Stankovic,John,A.
+A1 Siu,David
+YR 2010
+T1 Automatic and robust breadcrumb system deployment for indoor firefighter applications
+SP 21
+OP 34
+
+RT Journal Article
+ID 39231423
+A1 Vicaire,Pascal,A.
+A1 Hoque,Enamul
+A1 Xie,Zhiheng
+A1 Stankovic,John,A.
+YR 2010
+T1 Bundle: a group based programming abstraction for cyber physical systems
+SP 32
+OP 41
+
+RT Conference Proceedings
+ID 13668662
+A1 Wu,Yafeng
+A1 Zhou,Gang
+A1 Stankovic,John,A.
+YR 2010
+T1 ACR: Active Collision Recovery in Dense Wireless Sensor Networks
+SP 911
+OP 919
+
+RT Journal Article
+ID 4900135
+A1 Guo,Shuo
+A1 He,Tian
+A1 Mokbel,Mohamed,F.
+A1 Stankovic,John,A.
+A1 Abdelzaher,Tarek,F.
+YR 2010
+T1 On accurate and efficient statistical counting in sensor-based surveillance systems
+JF Pervasive and Mobile Computing
+VO 6
+SP 74
+OP 92
+IS 1
+
+RT Conference Proceedings
+ID 6607654
+A1 Mi,Qi
+A1 Stankovic,John,A.
+A1 Stoleru,Radu
+YR 2010
+T1 Secure walking GPS: a secure localization and key distribution scheme for wireless sensor networks
+SP 163
+OP 168
+
+RT Conference Proceedings
+ID 13599718
+A1 Vicaire,Pascal,A.
+A1 Xie,Zhiheng
+A1 Hoque,Enamul
+A1 Stankovic,John,A.
+YR 2010
+T1 Physicalnet: A Generic Framework for Managing and Programming Across Pervasive Computing Networks
+SP 269
+OP 278
+
+RT Conference Proceedings
+ID 50938440
+A1 Nirjon,S.,M.,Shahriar
+A1 Stankovic,John,A.
+A1 Whitehouse,Kamin
+YR 2010
+T1 IAA: Interference aware anticipatory algorithm for scheduling and routing periodic real-time streams in wireless sensor networks
+
+RT Journal Article
+ID 39247913
+A1 Hoque,Enamul
+A1 Dickerson,Robert,F.
+A1 Stankovic,John,A.
+YR 2010
+T1 Monitoring body positions and movements during sleep using WISPs
+SP 44
+OP 53
+
+RT Conference Proceedings
+ID 50938451
+A1 Li,Jingyuan
+A1 Wu,Yafeng
+A1 Stankovic,John,A.
+A1 Song,S.,H.
+A1 Zhong,Ziguo
+A1 He,Tian
+A1 Kim,Bong,Wan
+A1 Joo,Seong-Soon
+YR 2010
+T1 Predictive dependency constraint directed self-healing for wireless sensor networks
+
+RT Journal Article
+ID 39319407
+A1 Barnum,Sean
+A1 Sastry,Shankar
+A1 Stankovic,John,A.
+YR 2010
+T1 Roundtable: Reliability of Embedded and Cyber-Physical Systems
+JF IEEE Security & Privacy
+VO 8
+SP 27
+OP 32
+IS 5
+
+RT Journal Article
+ID 39233947
+A1 Wu,Yafeng
+A1 Kapitanova,Krasimira
+A1 Li,Jingyuan
+A1 Stankovic,John,A.
+A1 Son,Sang,H.
+A1 Whitehouse,Kamin
+YR 2010
+T1 Run time assurance of application-level requirements in wireless sensor networks
+SP 197
+OP 208
+
+RT Conference Proceedings
+ID 50938434
+A1 Liu,Hengchang
+A1 Srinivasan,Aravind
+A1 Whitehouse,Kamin
+A1 Stankovic,John,A.
+YR 2010
+T1 Mélange: Supporting heterogeneous QoS requirements in delay tolerant sensor networks
+
+RT Journal Article
+ID 39247915
+A1 Li,Jingyuan
+A1 Tamminedi,Tejaswi
+A1 Yosiphon,Guy
+A1 Ganguli,Anurag
+A1 Zhang,Lei
+A1 Stankovic,John,A.
+A1 Yadegar,Jacob
+YR 2010
+T1 Remote physiological monitoring of first responders with intermittent network connectivity
+SP 64
+OP 73
+
+RT Conference Proceedings
+ID 13322437
+A1 Hoque,Enamul
+A1 Stankovic,John,A.
+YR 2010
+T1 Monitoring quantity and quality of sleeping using WISPs
+SP 370
+OP 371
+
+RT Journal Article
+ID 39247938
+A1 Hoque,Enamul
+A1 Stankovic,John,A.
+YR 2010
+T1 Detecting coughing episodes passively from acoustic signals in a home environment: demo abstract
+SP 206
+OP 207
+
+RT Conference Proceedings
+ID 5010376
+A1 Li,Qiang
+A1 Stankovic,John,A.
+A1 Hanson,Mark,A.
+A1 Barth,Adam,T.
+A1 Lach,John
+A1 Zhou,Gang
+YR 2009
+T1 Accurate, Fast Fall Detection Using Gyroscopes and Accelerometer-Derived Posture Information
+SP 138
+OP 143
+
+RT Journal Article
+ID 4771685
+A1 Vicaire,Pascal
+A1 He,Tian
+A1 Cao,Qing
+A1 Yan,Ting
+A1 Zhou,Gang
+A1 Gu,Lin
+A1 Luo,Liqian
+A1 Stoleru,Radu
+A1 Stankovic,John,A.
+A1 Abdelzaher,Tarek,F.
+YR 2009
+T1 Achieving long-term surveillance in VigilNet
+JF ACM Transactions on Sensor Networks
+VO 5
+SP 1
+OP 39
+IS 1
+
+RT Journal Article
+ID 4771671
+A1 Luo,Liqian
+A1 Cao,Qing
+A1 Huang,Chengdu
+A1 Wang,Lili
+A1 Abdelzaher,Tarek,F.
+A1 Stankovic,John,A.
+A1 Ward,Michael
+YR 2009
+T1 Design, implementation, and evaluation of EnviroMic: A storage-centric audio sensor network
+JF ACM Transactions on Sensor Networks
+VO 5
+SP 1
+OP 35
+IS 3
+
+RT Conference Proceedings
+ID 5540207
+A1 Lin,Shan
+A1 Zhou,Gang
+A1 Whitehouse,Kamin
+A1 Wu,Yafeng
+A1 Stankovic,John,A.
+A1 He,Tian
+YR 2009
+T1 Towards Stable Network Performance in Wireless Sensor Networks
+SP 227
+OP 237
+
+RT Book, Whole
+ID 4705242
+A1 Wood,Anthony,D.
+A1 Stankovic,John,A.
+YR 2009
+T1 Online Coding for Reliable Data Transfer in Lossy Wireless Sensor Networks
+SP 159
+OP 172
+
+RT Conference Proceedings
+ID 6050047
+A1 Li,Jingyuan
+A1 Wu,Yafeng
+A1 Kapitanova,Krasimira
+A1 Stankovic,John,A.
+A1 Whitehouse,Kamin
+A1 Son,Sang,Hyuk
+YR 2009
+T1 Run time assurance of application-level requirements in wireless sensor networks
+SP 367
+OP 368
+
+RT Conference Proceedings
+ID 5691138
+A1 Kang,Woochul
+A1 Son,Sang,Hyuk
+A1 Stankovic,John,A.
+YR 2009
+T1 QeDB: A Quality-Aware Embedded Real-Time Database
+SP 108
+OP 117
+
+RT Conference Proceedings
+ID 5999364
+A1 Kang,Woochul
+A1 Son,Sang,H.
+A1 Stankovic,John,A.
+YR 2009
+T1 PRIDE: A Data Abstraction Layer for Large-Scale 2-tier Sensor Networks
+
+RT Conference Proceedings
+ID 6050065
+A1 Nirjon,S.,M.,Shahriar
+A1 Stankovic,John,A.
+A1 Whitehouse,Kamin
+YR 2009
+T1 Heuristics for scheduling periodic real-time streams in wireless sensor networks
+SP 385
+OP 386
+
+RT Conference Proceedings
+ID 6050038
+A1 Vicaire,Pascal,A.
+A1 Xie,Zhiheng
+A1 Hoque,Enamul
+A1 Stankovic,John,A.
+YR 2009
+T1 Physicalnet: a middleware for programming concurrent, across administrative domain sensor and actuator networks
+SP 317
+OP 318
+
+RT Journal Article
+ID 5729627
+A1 Kang,Woochul
+A1 Son,Sang,Hyuk
+A1 Stankovic,John,A.
+YR 2009
+T1 DRACON: QoS Management for Large-Scale Distributed Real-Time Databases
+JF Journal of Software
+VO 4
+SP 747
+OP 757
+IS 7
+
+RT Conference Proceedings
+ID 4700872
+A1 Stankovic,John,A.
+YR 2009
+T1 Cyber physical systems: aspects as a basis for robustness and openness
+SP 123
+OP 124
+
+RT Conference Proceedings
+ID 4722516
+A1 Wu,Yafeng
+A1 Stankovic,John,A.
+A1 He,Tian
+A1 Lin,Shan
+YR 2008
+T1 Realistic and Efficient MultiChannel Communications in Wireless Sensor Networks
+SP 1193
+OP 1201
+
+RT Journal Article
+ID 4767699
+A1 Wood,Anthony,D.
+A1 Stankovic,John,A.
+A1 Virone,Gilles
+A1 Selavo,Leo
+A1 He,Zhimin
+A1 Cao,Qiuhua
+A1 Doan,Thao
+A1 Wu,Yafeng
+A1 Fang,Lei
+A1 Stoleru,Radu
+YR 2008
+T1 Context-aware wireless sensor networks for assisted living and residential monitoring
+JF IEEE Network
+VO 22
+SP 26
+OP 33
+IS 4
+
+RT Journal Article
+ID 4414165
+A1 Virone,Gilles
+A1 Alwan,Majd
+A1 Dalal,Siddharth
+A1 Kell,Steven,W.
+A1 Turner,Beverely
+A1 Stankovic,John,A.
+A1 Felder,Robin
+YR 2008
+T1 Behavioral Patterns of Older Adults in Assisted Living
+JF IEEE Transactions on Information Technology in Biomedicine
+VO 12
+SP 387
+OP 398
+IS 3
+
+RT Conference Proceedings
+ID 4288936
+A1 Cao,Qing
+A1 Abdelzaher,Tarek,F.
+A1 Stankovic,John,A.
+A1 He,Tian
+YR 2008
+T1 The LiteOS Operating System: Towards Unix-Like Abstractions for Wireless Sensor Networks
+SP 233
+OP 244
+
+RT Conference Proceedings
+ID 4722334
+A1 Zhou,Gang
+A1 Lu,Jian
+A1 Wan,Chieh-yih
+A1 Yarvis,Mark,D.
+A1 Stankovic,John,A.
+YR 2008
+T1 BodyQoS: Adaptive and Radio-Agnostic QoS for Body Sensor Networks
+SP 565
+OP 573
+
+RT Journal Article
+ID 4467027
+A1 Stankovic,John,A.
+YR 2008
+T1 Wireless Sensor Networks
+JF IEEE Computer
+VO 41
+SP 92
+OP 95
+IS 10
+
+RT Conference Proceedings
+ID 4315196
+A1 Cao,Qing
+A1 Abdelzaher,Tarek,F.
+A1 Stankovic,John,A.
+A1 Whitehouse,Kamin
+A1 Luo,Liqian
+YR 2008
+T1 Declarative tracepoints: a programmable and application independent debugging system for wireless sensor networks
+SP 85
+OP 98
+
+RT Conference Proceedings
+ID 4266653
+A1 Srinivasan,Vijay
+A1 Stankovic,John,A.
+A1 Whitehouse,Kamin
+YR 2008
+T1 Protecting your daily in-home activity information from a wireless snooping attack
+SP 202
+OP 211
+
+RT Journal Article
+ID 47574667
+A1 Stankovic,John,A.
+YR 2008
+T1 When Sensor and Actuator Networks Cover the World
+JF Etri Journal
+VO 30
+SP 627
+OP 633
+IS 5
+
+RT Book, Whole
+ID 4250583
+A1 Wood,Anthony,D.
+A1 Selavo,Leo
+A1 Stankovic,John,A.
+YR 2008
+T1 SenQ: An Embedded Query System for Streaming Data in Heterogeneous Interactive Wireless Sensor Networks
+SP 531
+OP 543
+
+RT Journal Article
+ID 4412358
+A1 Yan,Ting
+A1 Gu,Yu
+A1 He,Tian
+A1 Stankovic,John,A.
+YR 2008
+T1 Design and optimization of distributed sensing coverage in wireless sensor networks
+JF ACM Transactions in Embedded Computing Systems
+VO 7
+SP 1
+OP 40
+IS 3
+
+RT Journal Article
+ID 4767691
+A1 Stoleru,Radu
+A1 Stankovic,John,A.
+A1 Son,Sang,Hyuk
+YR 2008
+T1 On composability of localization protocols for wireless sensor networks
+JF IEEE Network
+VO 22
+SP 21
+OP 25
+IS 4
+
+RT Conference Proceedings
+ID 4722483
+A1 He,Tian
+A1 Stankovic,John,A.
+A1 Stoleru,Radu
+A1 Gu,Yu
+A1 Wu,Yafeng
+YR 2008
+T1 Essentia: Architecting Wireless Sensor Networks Asymmetrically
+SP 1184
+OP 1192
+
+RT Conference Proceedings
+ID 4315239
+A1 Li,Qiang
+A1 Zhou,Gang
+A1 Stankovic,John,A.
+YR 2008
+T1 Accurate, fast fall detection using posture and context information
+SP 443
+OP 444
+
+RT Book, Whole
+ID 4250577
+A1 Cao,Qiuhua
+A1 Stankovic,John,A.
+YR 2008
+T1 An In-Field-Maintenance Framework for Wireless Sensor Networks
+SP 457
+OP 468
+
+RT Journal Article
+ID 14427295
+A1 Lin,Shan
+A1 He,Tian
+A1 Stankovic,John,A.
+YR 2008
+T1 CPS-IP: cyber physical systems interconnection protocol
+JF ACM Sigbed Review
+VO 5
+SP 1
+OP 2
+IS 1
+
+RT Conference Proceedings
+ID 5626815
+A1 Kang,Woochul
+A1 Stankovic,John,A.
+A1 Son,Sang,H.
+YR 2008
+T1 On Using Weather Information for Efficient Remote Data Collection in WSN
+
+RT Journal Article
+ID 14427303
+A1 Wood,Anthony,D.
+A1 Stankovic,John,A.
+YR 2008
+T1 Human in the loop: distributed data streams for immersive cyber-physical systems
+JF ACM Sigbed Review
+VO 5
+SP 1
+OP 2
+IS 1
+
+RT Conference Proceedings
+ID 4715616
+A1 Zhang,Jingbin
+A1 Zhou,Gang
+A1 Son,Sang,Hyuk
+A1 Stankovic,John,A.
+A1 Whitehouse,Kamin
+YR 2008
+T1 Performance Analysis of Group Based Detection for Sparse Sensor Networks
+SP 111
+OP 122
+
+RT Journal Article
+ID 14427300
+A1 Vicaire,Pascal,A.
+A1 Stankovic,John,A.
+YR 2008
+T1 Physicalnet: cross-network applications for multi-user sensor and actuator networks
+JF ACM Sigbed Review
+VO 5
+SP 1
+OP 2
+IS 1
+
+RT Conference Proceedings
+ID 50696768
+A1 ShuozGuo
+A1 He,Tian
+A1 Mokbel,Mohamed,F.
+A1 Stankovic,J.,A.
+A1 Abdelzaher,Tarek,F.
+YR 2008
+T1 On accurate and efficient statistical counting in sensor-based surveillance systems
+
+RT Conference Proceedings
+ID 4315237
+A1 Wood,Anthony,D.
+A1 Stankovic,John,A.
+YR 2008
+T1 Rateless erasure codes for bulk transfer in asymmetric wireless sensor networks
+SP 449
+OP 450
+
+RT Conference Proceedings
+ID 4288915
+A1 Dickerson,Robert,F.
+A1 Lu,Jiakang
+A1 Li,Jingyuan
+A1 Chantree,Billy
+A1 Lu,Jian
+A1 Stankovic,John,A.
+A1 Whitehouse,Kamin
+YR 2008
+T1 MetroNet: Case Study for Collaborative Data Sharing on the World Wide Web
+SP 557
+OP 558
+
+RT Conference Proceedings
+ID 4315220
+A1 Lin,Shan
+A1 Zhou,Gang
+A1 Wu,Yafeng
+A1 Whitehouse,Kamin
+A1 Stankovic,John,A.
+A1 He,Tian
+YR 2008
+T1 Achieving stable network performance for wireless sensornetworks
+SP 453
+OP 454
+
+RT Journal Article
+ID 14427298
+A1 Srinivasan,Vijay
+A1 Stankovic,John
+A1 Whitehouse,Kamin
+YR 2008
+T1 A fingerprint and timing-based snooping attack on residential sensor systems
+JF ACM Sigbed Review
+VO 5
+SP 1
+OP 2
+IS 1
+
+RT Journal Article
+ID 18691253
+A1 Murray,E.
+A1 Brougham,D.,F.
+A1 Stankovic,J.
+A1 Abrahams,I.
+YR 2008
+T1 Conductivity and Fluoride Ion Dynamics in α-PbSnF4; 19F Field-Cycling NMR and Diffraction Studies
+JF Journal of Physical Chemistry C
+VO 112
+SP 5672
+OP 5678
+IS 14
+
+RT Conference Proceedings
+ID 4729202
+A1 Kang,Woochul
+A1 Son,Sang,Hyuk
+A1 Stankovic,John,A.
+YR 2008
+T1 Power-Aware Data Buffer Cache Management in Real-Time Embedded Databases
+SP 35
+OP 44
+
+RT Conference Proceedings
+ID 4315194
+A1 Selavo,Leo
+A1 Wood,Anthony,D.
+A1 Cao,Qing
+A1 Sookoor,T.
+A1 Liu,H.
+A1 Srinivasan,A.
+A1 Wu,Yafeng
+A1 Kang,Woochul
+A1 Stankovic,John,A.
+A1 Young,D.
+A1 Porter,J.
+YR 2007
+T1 LUSTER: wireless sensor network for environmental research
+SP 103
+OP 116
+
+RT Conference Proceedings
+ID 4592366
+A1 Zhang,Jingbin
+A1 Zhou,Gang
+A1 Huang,Chengdu
+A1 Son,Sang,Hyuk
+A1 Stankovic,John,A.
+YR 2007
+T1 TMMAC: An Energy Efficient MultiChannel MAC Protocol for Ad Hoc Networks
+SP 3554
+OP 3561
+
+RT Conference Proceedings
+ID 4743692
+A1 Wood,Anthony,D.
+A1 Stankovic,John,A.
+A1 Zhou,Gang
+YR 2007
+T1 DEEJAM: Defeating Energy-Efficient Jamming in IEEE 802.15.4-based Wireless Networks
+SP 60
+OP 69
+
+RT Journal Article
+ID 4406168
+A1 He,Tian
+A1 Blum,Brian,M.
+A1 Cao,Qing
+A1 Stankovic,John,A.
+A1 Son,Sang,Hyuk
+A1 Abdelzaher,Tarek,F.
+YR 2007
+T1 Robust and timely communication over highly dynamic sensor networks
+JF Real-time Systems
+VO 37
+SP 261
+OP 289
+IS 3
+
+RT Conference Proceedings
+ID 2436682
+A1 Luo,Liqian
+A1 Cao,Qing
+A1 Huang,Chengdu
+A1 Abdelzaher,Tarek,F.
+A1 Stankovic,John,A.
+A1 Ward,Michael
+YR 2007
+T1 EnviroMic: Towards Cooperative Storage and Retrieval in Audio Sensor Networks
+SP 34
+OP 34
+
+RT Conference Proceedings
+ID 4345348
+A1 Stoleru,Radu
+A1 Stankovic,John,A.
+A1 Son,Sang,Hyuk
+YR 2007
+T1 Robust node localization for wireless sensor networks
+SP 48
+OP 52
+
+RT Conference Proceedings
+ID 2447654
+A1 Luo,Liqian
+A1 Huang,Chengdu
+A1 Abdelzaher,Tarek,F.
+A1 Stankovic,Jack
+YR 2007
+T1 EnviroStore: A Cooperative Storage System for Disconnected Operation in Sensor Networks
+SP 1802
+OP 1810
+
+RT Journal Article
+ID 2514286
+A1 Zhang,Jingbin
+A1 Yan,Ting
+A1 Stankovic,John,A.
+A1 Son,Sang,Hyuk
+YR 2007
+T1 Thunder: towards practical, zero cost acoustic localization for outdoor wireless sensor networks
+JF Mobile Computing and Communications Review
+VO 11
+SP 15
+OP 28
+IS 1
+
+RT Conference Proceedings
+ID 4311504
+A1 Prasad,Vibha
+A1 Yan,Ting
+A1 Jayachandran,Praveen
+A1 Li,Zengzhong
+A1 Son,Sang,Hyuk
+A1 Stankovic,John,A.
+A1 Hansson,Jörgen
+A1 Abdelzaher,Tarek,F.
+YR 2007
+T1 ANDES: An ANalysis-Based DEsign Tool for Wireless Sensor Networks
+SP 203
+OP 213
+
+RT Conference Proceedings
+ID 4345347
+A1 Liu,H.
+A1 Selavo,Leo
+A1 Stankovic,John,A.
+YR 2007
+T1 SeeDTV: deployment-time validation for wireless sensor networks
+SP 23
+OP 27
+
+RT Journal Article
+ID 4399955
+A1 He,Tian
+A1 Stankovic,John,A.
+A1 Marley,Michael
+A1 Lu,Chenyang
+A1 Lu,Ying
+A1 Abdelzaher,Tarek,F.
+A1 Son,Sang,Hyuk
+A1 Tao,Gang
+YR 2007
+T1 Feedback control-based dynamic resource management in distributed real-time systems
+JF Journal of Systems and Software
+VO 80
+SP 997
+OP 1004
+IS 7
+
+RT Conference Proceedings
+ID 4311492
+A1 Kang,Woochul
+A1 Son,Sang,Hyuk
+A1 Stankovic,John,A.
+A1 Amirijoo,Mehdi
+YR 2007
+T1 I/O-Aware Deadline Miss Ratio Management in Real-Time Embedded Databases
+SP 277
+OP 287
+
+RT Conference Proceedings
+ID 4315162
+A1 Cao,Qing
+A1 Abdelzaher,Tarek,F.
+A1 Stankovic,John,A.
+A1 He,Tian
+YR 2007
+T1 An interactive UNIX shell for low-end sensor nodes with LiteOS
+SP 381
+OP 382
+
+RT Journal Article
+ID 24091526
+A1 Hadzifejzovic,Emina
+A1 Stankovic,Jovan
+A1 Firth,Steven
+A1 McMillan,Paul,F.
+A1 Caruana,Daren,J.
+YR 2007
+T1 Plasma electrochemistry: electroreduction in a flame
+JF Physical Chemistry Chemical Physics
+VO 9
+SP 5335
+IS 39
+
+RT Conference Proceedings
+ID 50611370
+A1 Prasad,Vibha
+A1 Yan,Ting
+A1 Jayachandran,Praveen
+A1 Li,Zengzhong
+A1 Son,Sang,H.
+A1 Stankovic,John,A.
+A1 Hansson,J.
+A1 Abdelzaher,T.
+YR 2007
+T1 ANDES: An ANalysis-Based DEsign Tool for Wireless Sensor Networks
+SP 203
+OP 213
+
+RT Conference Proceedings
+ID 2449355
+A1 Zhou,Gang
+A1 Wan,Chieh-yih
+A1 Yarvis,Mark,D.
+A1 Stankovic,John,A.
+YR 2007
+T1 Aggregator-centric QoS for body sensor networks
+SP 539
+OP 540
+
+RT Conference Proceedings
+ID 50597422
+A1 Zhou,Gang
+A1 Wan,Chieh-Yih
+A1 Yarvis,M.,D.
+A1 Stankovic,J.,A.
+YR 2007
+T1 Aggregator-Centric QoS for Body Sensor Networks
+
+RT Conference Proceedings
+ID 50611376
+A1 Kang,Woochul
+A1 Son,Sang,H.
+A1 Stankovic,John,A.
+A1 Amirijoo,Mehdi
+YR 2007
+T1 I/O-Aware Deadline Miss Ratio Management in Real-Time Embedded Databases
+SP 277
+OP 287
+
+RT Book, Whole
+ID 2433662
+A1 Stankovic,John,A.
+YR 2007
+T1 Control Challenges in Wireless Sensor Networks
+SP 2
+
+RT Journal Article
+ID 2412023
+A1 He,Tian
+A1 Krishnamurthy,Sudha
+A1 Luo,Liqian
+A1 Yan,Ting
+A1 Gu,Lin
+A1 Stoleru,Radu
+A1 Zhou,Gang
+A1 Cao,Qing
+A1 Vicaire,Pascal
+A1 Stankovic,John,A.
+A1 Abdelzaher,Tarek,F.
+A1 Hui,Jonathan
+A1 Krogh,Bruce,H.
+YR 2006
+T1 VigilNet: An integrated sensor network system for energy-efficient surveillance
+JF ACM Transactions on Sensor Networks
+VO 2
+SP 1
+OP 38
+IS 1
+
+RT Journal Article
+ID 2517523
+A1 Zhou,Gang
+A1 He,Tian
+A1 Krishnamurthy,Sudha
+A1 Stankovic,John,A.
+YR 2006
+T1 Models and solutions for radio irregularity in wireless sensor networks
+JF ACM Transactions on Sensor Networks
+VO 2
+SP 221
+OP 262
+IS 2
+
+RT Conference Proceedings
+ID 2471530
+A1 Lin,Shan
+A1 Zhang,Jingbin
+A1 Zhou,Gang
+A1 Gu,Lin
+A1 Stankovic,John,A.
+A1 He,Tian
+YR 2006
+T1 ATPC: adaptive transmission power control for wireless sensor networks
+SP 223
+OP 236
+
+RT Conference Proceedings
+ID 2447892
+A1 Zhou,Gang
+A1 Huang,Chengdu
+A1 Yan,Ting
+A1 He,Tian
+A1 Stankovic,John,A.
+A1 Abdelzaher,Tarek,F.
+YR 2006
+T1 MMSN: Multi-Frequency Media Access Control for Wireless Sensor Networks
+SP 1
+OP 13
+
+RT Journal Article
+ID 2517574
+A1 Lu,Chenyang
+A1 Lu,Ying
+A1 Abdelzaher,Tarek,F.
+A1 Stankovic,John,A.
+A1 Son,Sang,Hyuk
+YR 2006
+T1 Feedback Control Architecture and Design Methodology for Service Delay Guarantees in Web Servers
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 17
+SP 1014
+OP 1027
+IS 9
+
+RT Conference Proceedings
+ID 3651721
+A1 Chipara,Octav
+A1 He,Zhimin
+A1 Xing,Guoliang
+A1 Chen,Qin
+A1 Wang,Xiaorui
+A1 Lu,Chenyang
+A1 Stankovic,John,A.
+A1 Abdelzaher,Tarek,F.
+YR 2006
+T1 Real-time Power-Aware Routing in Sensor Networks
+SP 83
+OP 92
+
+RT Conference Proceedings
+ID 2193806
+A1 Ganti,Raghu,K.
+A1 Jayachandran,Praveen
+A1 Abdelzaher,Tarek,F.
+A1 Stankovic,John,A.
+YR 2006
+T1 SATIRE: a software architecture for smart AtTIRE
+SP 110
+OP 123
+
+RT Journal Article
+ID 2516303
+A1 Luo,Liqian
+A1 Abdelzaher,Tarek,F.
+A1 He,Tian
+A1 Stankovic,John,A.
+YR 2006
+T1 EnviroSuite: An environmentally immersive programming framework for sensor networks
+JF ACM Transactions in Embedded Computing Systems
+VO 5
+SP 543
+OP 576
+IS 3
+
+RT Conference Proceedings
+ID 2311258
+A1 Cao,Qing
+A1 He,Tian
+A1 Fang,Lei
+A1 Abdelzaher,Tarek,F.
+A1 Stankovic,John,A.
+A1 Son,Sang,Hyuk
+YR 2006
+T1 Efficiency Centric Communication Model for Wireless Sensor Networks
+SP 1
+OP 12
+
+RT Conference Proceedings
+ID 2447946
+A1 He,Tian
+A1 Vicaire,Pascal
+A1 Yan,Ting
+A1 Cao,Qing
+A1 Zhou,Gang
+A1 Gu,Lin
+A1 Luo,Liqian
+A1 Stoleru,Radu
+A1 Stankovic,John,A.
+A1 Abdelzaher,Tarek,F.
+YR 2006
+T1 Achieving Long-Term Surveillance in VigilNet
+SP 1
+OP 12
+
+RT Conference Proceedings
+ID 2448088
+A1 Luo,Liqian
+A1 He,Tian
+A1 Zhou,Gang
+A1 Gu,Lin
+A1 Abdelzaher,Tarek,F.
+A1 Stankovic,John,A.
+YR 2006
+T1 Achieving Repeatability of Asynchronous Events in Wireless Sensor Networks with EnviroLog
+SP 1
+OP 14
+
+RT Conference Proceedings
+ID 2469647
+A1 Wood,Anthony,D.
+A1 Fang,Lei
+A1 Stankovic,John,A.
+A1 He,Tian
+YR 2006
+T1 SIGF: a family of configurable, secure routing protocols for wireless sensor networks
+SP 35
+OP 48
+
+RT Conference Proceedings
+ID 2471512
+A1 Gu,Lin
+A1 Stankovic,John,A.
+YR 2006
+T1 t-kernel: providing reliable OS support to wireless sensor networks
+SP 1
+OP 14
+
+RT Conference Proceedings
+ID 2186368
+A1 He,Tian
+A1 Vicaire,Pascal
+A1 Yan,Ting
+A1 Luo,Liqian
+A1 Gu,Lin
+A1 Zhou,Gang
+A1 Stoleru,Radu
+A1 Cao,Qing
+A1 Stankovic,John,A.
+A1 Abdelzaher,Tarek,F.
+YR 2006
+T1 Achieving Real-Time Target Tracking UsingWireless Sensor Networks
+SP 37
+OP 48
+
+RT Conference Proceedings
+ID 12777475
+A1 Virone,G.
+A1 Wood,A.
+A1 Selavo,L.
+A1 Cao,Q.
+A1 Fang,L.
+A1 Doan,T.
+A1 He,Z.
+A1 Stoleru,R.
+A1 Lin,S.
+A1 Stankovic,J.,A.
+YR 2006
+T1 An Assisted Living Oriented Information System Based on a Residential Wireless Sensor Network
+
+RT Conference Proceedings
+ID 4238930
+A1 Selavo,Leo
+A1 Zhou,Gang
+A1 Stankovic,John,A.
+YR 2006
+T1 SeeMote: In-Situ Visualization and Logging Device for Wireless Sensor Networks
+
+RT Conference Proceedings
+ID 2471540
+A1 Stoleru,Radu
+A1 Vicaire,Pascal
+A1 He,Tian
+A1 Stankovic,John,A.
+YR 2006
+T1 StarDust: a flexible architecture for passive localization in wireless sensor networks
+SP 57
+OP 70
+
+RT Conference Proceedings
+ID 2468989
+A1 Wei,Yuan
+A1 Prasad,Vibha
+A1 Son,Sang,Hyuk
+A1 Stankovic,John,A.
+YR 2006
+T1 Prediction-Based QoS Management for Real-Time Data Streams
+SP 344
+OP 358
+
+RT Conference Proceedings
+ID 2990553
+A1 Chipara,Octav
+A1 Lu,Chenyang
+A1 Stankovic,John,A.
+YR 2006
+T1 Dynamic Conflict-free Query Scheduling for Wireless Sensor Networks
+SP 321
+OP 331
+
+RT Conference Proceedings
+ID 2190955
+A1 Wei,Yuan
+A1 Son,Sang,Hyuk
+A1 Stankovic,John,A.
+YR 2006
+T1 RTSTREAM: Real-Time Query Processing for Data Streams
+SP 141
+OP 150
+
+RT Journal Article
+ID 2379935
+A1 Krishnamurthy,Sudha
+A1 He,Tian
+A1 Zhou,Gang
+A1 Stankovic,John,A.
+A1 Son,Sang,H.
+YR 2006
+T1 RESTORE: A Real-Time Event Correlation and Storage Service for Sensor Networks
+
+RT Conference Proceedings
+ID 2448723
+A1 He,Tian
+A1 Gu,Lin
+A1 Luo,Liqian
+A1 Yan,Ting
+A1 Stankovic,John,A.
+A1 Son,Sang,Hyuk
+YR 2006
+T1 An overview of data aggregation architecture for real-time tracking with sensor networks
+
+RT Journal Article
+ID 14426376
+A1 He,Tian
+A1 Stankovic,John,A.
+A1 Abdelzaher,Tarek,F.
+A1 Hui,Jonathan
+A1 Krogh,Bruce
+A1 Krishnamurthy,Sudha
+A1 Luo,Liqian
+A1 Yan,Ting
+A1 Gu,Lin
+A1 Stoleru,Radu
+A1 Zhou,Gang
+A1 Cao,Qing
+A1 Vicaire,Pascal
+YR 2006
+T1 VigilNet: An integrated sensor network system for energy-efficient surveillance
+JF ACM Transactions on Sensor Networks
+VO 2
+SP 1
+OP 38
+IS 1
+
+RT Conference Proceedings
+ID 2471572
+A1 Wood,Anthony,D.
+A1 Stankovic,John,A.
+YR 2006
+T1 AMSecure: secure link-layer communication in TinyOS for IEEE 802.15.4-based wireless sensor networks
+SP 395
+OP 396
+
+RT Conference Proceedings
+ID 3833759
+A1 Gu,L.
+A1 Stankovic,J.
+YR 2006
+T1 T-kernel: A Naturalizing OS Kernel for Low-Power Cost-Effective Computers
+
+RT Conference Proceedings
+ID 13321971
+A1 Stankovic,John,A.
+A1 Gibbons,Phillip,B.
+A1 Wicker,Stephen,B.
+A1 Paradiso,Joseph,A.
+YR 2006
+T1 Proceedings of the Fifth International Conference on Information Processing in Sensor Networks, IPSN 2006, Nashville, Tennessee, USA, April 19-21, 2006
+
+RT Journal Article
+ID 1715760
+A1 Ristanovic,D.
+A1 Stefanovic,B.,D.
+A1 Milosevic,N.,T.
+A1 Grgurevic,M.
+A1 Stankovic,J.,B.
+YR 2006
+T1 Mathematical modeling and computational analysis of neuronal cell images: Application to dendritic arborization of Golgi-impregnated neurons in dorsal horns of the rat spinal cord
+JF Neurocomputing
+VO 69
+SP 403
+OP 423
+IS 4-6
+
+RT Journal Article
+ID 39250119
+A1 Zhou,Gang
+A1 He,Tian
+A1 Krishnamurthy,Sudha
+A1 Stankovic,John,A.
+YR 2006
+T1 Models and solutions for radio irregularity in wireless sensor networks
+JF ACM Transactions on Sensor Networks
+SP 221
+OP 262
+
+RT Conference Proceedings
+ID 2471527
+A1 Gu,Lin
+A1 Stankovic,John,A.
+YR 2006
+T1 A virtualizing OS kernel for wireless sensor networks
+SP 385
+OP 386
+
+RT Conference Proceedings
+ID 2461419
+A1 Stankovic,John,A.
+YR 2006
+T1 Self-Organizing wireless sensor networks in action
+SP 1
+OP 1
+
+RT Conference Proceedings
+ID 1807013
+A1 Cao,Qing
+A1 Abdelzaher,Tarek,F.
+A1 He,Tian
+A1 Stankovic,John,A.
+YR 2005
+T1 Towards optimal sleep scheduling in sensor networks for rare-event detection
+SP 20
+OP 27
+
+RT Conference Proceedings
+ID 1900860
+A1 Gu,Lin
+A1 Jia,Dong
+A1 Vicaire,Pascal
+A1 Yan,Ting
+A1 Luo,Liqian
+A1 Tirumala,Ajay
+A1 Cao,Qing
+A1 He,Tian
+A1 Stankovic,John,A.
+A1 Abdelzaher,Tarek,F.
+A1 Krogh,Bruce,H.
+YR 2005
+T1 Lightweight detection and classification for wireless sensor networks in realistic environments
+SP 205
+OP 217
+
+RT Journal Article
+ID 1665205
+A1 He,Tian
+A1 Stankovic,John,A.
+A1 Lu,Chenyang
+A1 Abdelzaher,Tarek,F.
+YR 2005
+T1 A Spatiotemporal Communication Protocol for Wireless Sensor Networks
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 16
+SP 995
+OP 1006
+IS 10
+
+RT Conference Proceedings
+ID 2380014
+A1 Zhou,Gang
+A1 He,Tian
+A1 Stankovic,John,A.
+A1 Abdelzaher,Tarek,F.
+YR 2005
+T1 RID: radio interference detection in wireless sensor networks
+VO 2
+SP 891
+OP 901
+
+RT Conference Proceedings
+ID 1900845
+A1 Stoleru,Radu
+A1 He,Tian
+A1 Stankovic,John,A.
+A1 Luebke,David,P.
+YR 2005
+T1 A high-accuracy, low-cost localization system for wireless sensor networks
+SP 13
+OP 26
+
+RT Book, Whole
+ID 1895652
+A1 Cao,Qing
+A1 Yan,Ting
+A1 Stankovic,John,A.
+A1 Abdelzaher,Tarek,F.
+YR 2005
+T1 Analysis of Target Detection Performance for Wireless Sensor Networks
+SP 276
+OP 292
+
+RT Journal Article
+ID 4099600
+A1 Stankovic,J.,A.
+A1 Cao,Q.
+A1 Doan,T.
+A1 Fang,L.
+A1 He,Z.
+A1 Kiran,R.
+A1 Lin,S.
+A1 Son,S.
+A1 Stoleru,R.
+A1 Wood,A.
+YR 2005
+T1 Wireless Sensor Networks for In-Home Healthcare: Potential and Challenges
+
+RT Journal Article
+ID 1610604
+A1 Stankovic,John,A.
+A1 Lee,Insup
+A1 Mok,Aloysius,K.
+A1 Rajkumar,Raj
+YR 2005
+T1 Opportunities and Obligations for Physical Computing Systems
+JF IEEE Computer
+VO 38
+SP 23
+OP 31
+IS 11
+
+RT Journal Article
+ID 1719937
+A1 He,Tian
+A1 Huang,Chengdu
+A1 Blum,Brian,M.
+A1 Stankovic,John,A.
+A1 Abdelzaher,Tarek,F.
+YR 2005
+T1 Range-free localization and its impact on large scale sensor networks
+JF ACM Transactions in Embedded Computing Systems
+VO 4
+SP 877
+OP 906
+IS 4
+
+RT Journal Article
+ID 1706816
+A1 Gu,Lin
+A1 Stankovic,John,A.
+YR 2005
+T1 Radio-Triggered Wake-Up for Wireless Sensor Networks
+JF Real-time Systems
+VO 29
+SP 157
+OP 182
+IS 2-3
+
+RT Journal Article
+ID 2385505
+A1 He,Tian
+A1 Krishnamurthy,Sudha
+A1 Luo,Liqian
+A1 Yan,Ting
+A1 Gu,Lin
+A1 Stoleru,Radu
+A1 Zhou,Gang
+A1 Cao,Qing
+A1 Vicaire,Pascal
+A1 Stankovic,John,A.
+A1 Abdelzaher,Tarek,F.
+YR 2005
+T1 VigilNet: An Integrated Sensor Network System for Energy-Ecien t Surveillance
+JF ACM Transactions on Sensor Networks
+
+RT Journal Article
+ID 3136439
+A1 Jiao,Binjia
+A1 Son,Sang,H.
+A1 Stankovic,John,A.
+YR 2005
+T1 GEM: Generic Event Service Middleware for Wireless Sensor Networks
+
+RT Book, Whole
+ID 1895632
+A1 Luo,Liqian
+A1 Abdelzaher,Tarek,F.
+A1 He,Tian
+A1 Stankovic,John,A.
+YR 2005
+T1 Design and Comparison of Lightweight Group Management Strategies in EnviroSuite
+SP 155
+OP 172
+
+RT Conference Proceedings
+ID 1868712
+A1 He,Tian
+A1 Luo,Liqian
+A1 Yan,Ting
+A1 Gu,Lin
+A1 Cao,Qing
+A1 Zhou,Gang
+A1 Stoleru,Radu
+A1 Vicaire,Pascal
+A1 Cao,Qiuhua
+A1 Stankovic,John,A.
+A1 Son,Sang,Hyuk
+A1 Abdelzaher,Tarek,F.
+YR 2005
+T1 An Overview of the VigilNet Architecture
+SP 109
+OP 114
+
+RT Journal Article
+ID 4167861
+A1 Gu,L.
+A1 Stankovic,J.
+YR 2005
+T1 Radio - Triggered Wake - Up for Sensor Networks
+JF Real-time Systems
+
+RT Conference Proceedings
+ID 1815299
+A1 Huang,Chengdu
+A1 Zhou,Gang
+A1 Abdelzaher,Tarek,F.
+A1 Son,Sang,Hyuk
+A1 Stankovic,John,A.
+YR 2005
+T1 Load Balancing in Bounded-Latency Content Distribution
+SP 50
+OP 61
+
+RT Conference Proceedings
+ID 39246064
+A1 Gu,Lin
+A1 Stankovic,John,A.
+YR 2005
+T1 t-kernel: a naturalizing OS kernel for low-power cost-effective computers
+SP 1
+OP 2
+
+RT Conference Proceedings
+ID 1900851
+A1 Stoleru,Radu
+A1 He,Tian
+A1 Stankovic,John,A.
+YR 2005
+T1 Localization system for outdoor wireless sensor networks
+SP 318
+OP 318
+
+RT Conference Proceedings
+ID 1850084
+A1 Cao,Qiuhua
+A1 Stankovic,John,A.
+YR 2005
+T1 Dual face phased array radar scheduling with multiple constraints
+SP 361
+OP 370
+
+RT Book, Whole
+ID 1896473
+A1 Stankovic,John,A.
+YR 2005
+T1 Self-organizing Wireless Sensor Networks in Action
+SP 1
+
+RT Conference Proceedings
+ID 893774
+A1 Zhou,Gang
+A1 He,Tian
+A1 Krishnamurthy,Sudha
+A1 Stankovic,John,A.
+YR 2004
+T1 Impact of radio irregularity on wireless sensor networks
+SP 125
+OP 138
+
+RT Journal Article
+ID 39209089
+A1 Perrig,Adrian
+A1 Stankovic,John
+A1 Wagner,David
+YR 2004
+T1 Security in wireless sensor networks
+JF Communications of The ACM
+SP 53
+OP 57
+
+RT Conference Proceedings
+ID 893803
+A1 He,Tian
+A1 Krishnamurthy,Sudha
+A1 Stankovic,John,A.
+A1 Abdelzaher,Tarek,F.
+A1 Luo,Liqian
+A1 Stoleru,Radu
+A1 Yan,Ting
+A1 Gu,Lin
+A1 Hui,Jonathan
+A1 Krogh,Bruce,H.
+YR 2004
+T1 Energy-efficient surveillance system using wireless sensor networks
+SP 270
+OP 283
+
+RT Journal Article
+ID 928118
+A1 Stankovic,John,A.
+A1 Wagner,David
+YR 2004
+T1 Security in wireless sensor networks
+JF Communications of The ACM
+VO 47
+SP 65
+OP 65
+IS 6
+
+RT Journal Article
+ID 892759
+A1 He,Tian
+A1 Blum,Brian,M.
+A1 Stankovic,John,A.
+A1 Abdelzaher,Tarek,F.
+YR 2004
+T1 AIDA: Adaptive application-independent data aggregation in wireless sensor networks
+JF ACM Transactions in Embedded Computing Systems
+VO 3
+SP 426
+OP 457
+IS 2
+
+RT Conference Proceedings
+ID 35549
+A1 Abdelzaher,Tarek,F.
+A1 Blum,Brian,M.
+A1 Cao,Qing
+A1 Chen,Y.
+A1 Evans,D.
+A1 George,J.
+A1 George,S.
+A1 Gu,Lin
+A1 He,Tian
+A1 Krishnamurthy,Sudha
+A1 Luo,Liqian
+A1 Son,Sang,Hyuk
+A1 Stankovic,Jack
+A1 Stoleru,Radu
+A1 Wood,Anthony,D.
+YR 2004
+T1 EnviroTrack: Towards an Environmental Computing Paradigm for Distributed Sensor Networks
+SP 582
+OP 589
+
+RT Conference Proceedings
+ID 1815107
+A1 Gu,Lin
+A1 Stankovic,John,A.
+YR 2004
+T1 Radio-Triggered Wake-Up Capability for Sensor Networks
+SP 27
+OP 37
+
+RT Conference Proceedings
+ID 2140217
+A1 Stoleru,Radu
+A1 Stankovic,John,A.
+YR 2004
+T1 Probability grid: a location estimation scheme for wireless sensor networks
+
+RT Journal Article
+ID 1233617
+A1 Kang,Kyoung-don
+A1 Son,Sang,Hyuk
+A1 Stankovic,John,A.
+YR 2004
+T1 Managing Deadline Miss Ratio and Sensor Data Freshness in Real-Time Databases
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 16
+SP 1200
+OP 1216
+IS 10
+
+RT Journal Article
+ID 1732039
+A1 Li,Shuoqi
+A1 Lin,Ying
+A1 Son,Sang,Hyuk
+A1 Stankovic,John,A.
+A1 Wei,Yuan
+YR 2004
+T1 Event Detection Services Using Data Service Middleware in Distributed Sensor Networks
+JF Telecommunication Systems
+VO 26
+SP 351
+OP 368
+IS 2-4
+
+RT Conference Proceedings
+ID 1775643
+A1 Stoleru,Radu
+A1 He,Tian
+A1 Stankovic,John,A.
+YR 2004
+T1 Walking GPS: A Practical Solution for Localization in Manually Deployed Wireless Sensor Networks
+SP 480
+OP 489
+
+RT Journal Article
+ID 1706807
+A1 Stankovic,John,A.
+A1 Rajkumar,Raj
+YR 2004
+T1 Real-Time Operating Systems
+JF Real-time Systems
+VO 28
+SP 237
+OP 253
+IS 2-3
+
+RT Journal Article
+ID 2385506
+A1 He,T.
+A1 Krishnamurthy,S.
+A1 Stankovic,J.,A.
+A1 Abdelzaher,T.
+A1 Luo,L.
+A1 Stoleru,R.
+A1 Yan,T.
+A1 Gu,L.
+A1 Zhou,G.
+A1 Hui,J.
+A1 Krogh,B.
+YR 2004
+T1 Vigilnet:an integrated sensor network system for energy-efficient surveillance
+JF ACM Transactions on Sensor Networks
+
+RT Journal Article
+ID 3679925
+A1 Stankovic,John,A.
+YR 2004
+T1 Research challenges for wireless sensor networks
+JF ACM Sigbed Review
+VO 1
+SP 9
+OP 12
+IS 2
+
+RT Conference Proceedings
+ID 4546148
+A1 Abdelzaher,Tarek
+A1 He,Tian
+A1 Stankovic,John
+YR 2004
+T1 Feedback control of data aggregation in sensor networks
+VO 2
+SP 1490
+
+RT Journal Article
+ID 1658722
+A1 Kim,Sooyeon
+A1 Son,Sang,H.
+A1 Stankovic,John,A.
+A1 Choi,Yanghee
+YR 2004
+T1 Data dissemination over wireless sensor networks
+JF IEEE Communications Letters
+VO 8
+SP 561
+OP 563
+IS 9
+
+RT Journal Article
+ID 1560072
+A1 Tang,Xidong
+A1 Tao,Gang
+A1 Wang,Lingfeng
+A1 Stankovic,J.,A.
+YR 2004
+T1 Robust and adaptive actuator failure compensation designs for a rocket fairing structural-acoustic model
+JF IEEE Transactions on Aerospace and Electronic Systems
+VO 40
+SP 1359
+OP 1366
+IS 4
+
+RT Conference Proceedings
+ID 1859482
+A1 Zhang,Ronghua
+A1 Abdelzaher,Tarek,F.
+A1 Stankovic,John,A.
+YR 2004
+T1 Efficient TCP Connection Failover in Web Server Clusters
+VO 2
+SP 1219
+
+RT Conference Proceedings
+ID 3533054
+A1 Wei,Yuan
+A1 Aslinger,Andrew,A.
+A1 Son,Sang,H.
+A1 Stankovic,John,A.
+YR 2004
+T1 ORDER: A Dynamic Replication Algorithm for Periodic Transactions in Distributed Real-Time Databases ?
+
+RT Conference Proceedings
+ID 50388299
+A1 Mosse,D.
+A1 Baker,T.
+A1 Baruah,S.
+A1 Buttazzo,G.
+A1 Burns,A.
+A1 Sha,L.
+A1 Stankovic,J.
+YR 2004
+T1 Fixed or Dynamic Priority? That is the Question
+SP 9
+OP 9
+
+RT Conference Proceedings
+ID 1238782
+A1 Stankovic,John,A.
+A1 Nagaraddi,Prashant
+A1 Yu,Zhendong
+A1 He,Zhimin
+A1 Ellis,Brian
+YR 2004
+T1 Exploiting prescriptive aspects: a design time capability
+SP 165
+OP 174
+
+RT Conference Proceedings
+ID 1824187
+A1 Wei,Yuan
+A1 Son,Sang,Hyuk
+A1 Stankovic,John,A.
+YR 2004
+T1 Maintaining Data Freshness in Distributed Real-Time Databases
+SP 251
+OP 260
+
+RT Journal Article
+ID 1689447
+A1 Shu,Lihchyun
+A1 Stankovic,John,A.
+A1 Son,Sang,Hyuk
+YR 2004
+T1 Achieving Bounded and Predictable Recovery using Real-Time Logging
+JF The Computer Journal
+VO 47
+SP 373
+OP 394
+IS 3
+
+RT Conference Proceedings
+ID 1241406
+A1 He,Tian
+A1 Cao,Qiuhua
+A1 Luo,Liqian
+A1 Yan,Ting
+A1 Gu,Lin
+A1 Stankovic,John,A.
+A1 Abdelzaher,Tarek,F.
+YR 2004
+T1 Electronic tripwires for power-efficient surveillance and target classification
+SP 315
+OP 315
+
+RT Conference Proceedings
+ID 13274077
+A1 Stankovic,John,A.
+A1 Arora,Anish
+A1 Govindan,Ramesh
+YR 2004
+T1 Proceedings of the 2nd International Conference on Embedded Networked Sensor Systems, SenSys 2004, Baltimore, MD, USA, November 3-5, 2004
+
+RT Conference Proceedings
+ID 50361494
+A1 Wei,Yuan
+A1 Son,Sang,H.
+A1 Stankovic,John,A.
+YR 2004
+T1 Maintaining data freshness in distributed real-time databases
+SP 251
+OP 260
+
+RT Conference Proceedings
+ID 1815288
+A1 Stankovic,John,A.
+YR 2004
+T1 Let's Get the Real into Real-Time Computing
+SP 3
+OP 3
+
+RT Conference Proceedings
+ID 29556
+A1 He,Tian
+A1 Huang,Chengdu
+A1 Blum,Brian,M.
+A1 Stankovic,John,A.
+A1 Abdelzaher,Tarek,F.
+YR 2003
+T1 Range-free localization schemes for large scale sensor networks
+SP 81
+OP 95
+
+RT Conference Proceedings
+ID 12551
+A1 He,Tian
+A1 Stankovic,John,A.
+A1 Lu,Chenyang
+A1 Abdelzaher,Tarek,F.
+YR 2003
+T1 SPEED: A Stateless Protocol for Real-Time Communication in Sensor Networks
+SP 46
+OP 55
+
+RT Conference Proceedings
+ID 38146
+A1 Yan,Ting
+A1 He,Tian
+A1 Stankovic,John,A.
+YR 2003
+T1 Differentiated surveillance for sensor networks
+SP 51
+OP 62
+
+RT Journal Article
+ID 18199
+A1 Stankovic,John,A.
+A1 Abdelzaher,Tarek,F.
+A1 Lu,Chengyang
+A1 Sha,Lui
+A1 Hou,Jennifer,C.
+YR 2003
+T1 Real-time communication and coordination in embedded sensor networks
+JF Proceedings of The IEEE
+VO 91
+SP 1002
+OP 1022
+IS 7
+
+RT Book, Whole
+ID 550622
+A1 Li,Shuoqi
+A1 Son,Sang,Hyuk
+A1 Stankovic,John,A.
+YR 2003
+T1 Event Detection Services Using Data Service Middleware in Distributed Sensor Networks
+SP 502
+OP 517
+
+RT Conference Proceedings
+ID 571966
+A1 Wood,Anthony,D.
+A1 Stankovic,John,A.
+A1 Son,Sang,Hyuk
+YR 2003
+T1 JAM: A Jammed-Area Mapping Service for Sensor Networks
+SP 286
+OP 297
+
+RT Conference Proceedings
+ID 2956721
+A1 Yan,T.
+A1 He,T.
+A1 Stankovic,J.
+YR 2003
+T1 Di erentiated Surveillance Service for Sensor Networks
+
+RT Journal Article
+ID 1593402
+A1 Abdelzaher,T.,F.
+A1 Stankovic,J.,A.
+A1 Lu,Chenyang
+A1 Zhang,Ronghua
+A1 Lu,Ying
+YR 2003
+T1 Feedback performance control in software services
+JF IEEE Control Systems Magazine
+VO 23
+SP 74
+OP 90
+IS 3
+
+RT Conference Proceedings
+ID 571429
+A1 Stankovic,John,A.
+A1 Zhu,Ruiqing
+A1 Poornalingam,Ram
+A1 Lu,Chenyang
+A1 Yu,Zhendong
+A1 Humphrey,Marty
+A1 Ellis,Brian
+YR 2003
+T1 VEST: An Aspect-Based Composition Tool for Real-Time Systems
+SP 58
+OP 69
+
+RT Conference Proceedings
+ID 14427
+A1 Blum,Brian,M.
+A1 Nagaraddi,Prashant
+A1 Wood,Anthony,D.
+A1 Abdelzaher,Tarek,F.
+A1 Son,Sang,Hyuk
+A1 Stankovic,Jack
+YR 2003
+T1 An entity maintenance and connection service for sensor networks
+SP 201
+OP 214
+
+RT Conference Proceedings
+ID 11075405
+A1 Kim,Sooyeon
+A1 Son,Sang,H.
+A1 Stankovic,John,A.
+A1 Li,Shuoqi
+A1 Choi,Yanghee
+YR 2003
+T1 SAFE: a data dissemination protocol for periodic updates in sensor networks
+
+RT Conference Proceedings
+ID 3286572
+A1 Wood,A.
+A1 Stankovic,J
+A1 Son,S.,H
+YR 2003
+T1 JAM: A Mapping Service for Jammed Regions in Sensor Networks
+
+RT Journal Article
+ID 18171
+A1 Blum,M.
+A1 He,Tian
+A1 Son,Sang
+A1 Stankovic,John,A.
+YR 2003
+T1 IGF: A State-Free Robust Communication Protocol for Wireless Sensor Networks
+
+RT Conference Proceedings
+ID 1318660
+A1 He,T.
+A1 Huang,C.
+A1 Blum,B.
+A1 Stankovic,J.
+A1 Abdelzaher,T.
+YR 2003
+T1 Range-free localization schemes in large scale sensor network
+
+RT Journal Article
+ID 22730
+A1 Abdelzaher,Tarek
+A1 Stankovic,John
+A1 Lu,Chenyang
+A1 Zhang,Ronghua
+A1 Lu,Ying
+YR 2003
+T1 Feedback Performance Control in Sofware Services
+
+RT Conference Proceedings
+ID 3783317
+A1 He,T.
+A1 Stankovic,J.
+A1 Lu,C.
+A1 Abdelzaher,T.
+YR 2003
+T1 SPEED: A re al-time routing protocol for sensor networks
+
+RT Conference Proceedings
+ID 656153
+A1 Kim,Sooyeon
+A1 Son,Sang,Hyuk
+A1 Stankovic,John,A.
+A1 Li,Shuoqi
+A1 Cho,Yanghee
+YR 2003
+T1 SAFE: A Data Dissemination Protocol for Periodic Updates in Sensor Network
+SP 228
+OP 234
+
+RT Journal Article
+ID 2397661
+A1 Blum,B.,M.
+A1 He,T.
+A1 Son,S.
+A1 Stankovic,J.,A.
+YR 2003
+T1 IGF: A robust state-free communication protocol for sensor networks
+
+RT Conference Proceedings
+ID 2550950
+A1 Abdelzaher,Tarek,F.
+A1 Stankovic,Jack
+A1 Son,Sang,Hyuk
+A1 Blum,Brian,M.
+A1 He,Tian
+A1 Wood,Anthony,D.
+A1 Lu,Chenyang
+YR 2003
+T1 A Communication Architecture and Programming Abstractions for Real-Time Embedded Sensor Networks
+SP 220
+
+RT Journal Article
+ID 55884
+A1 Kang,Kyoung-don
+A1 Son,Sang,Hyuk
+A1 Stankovic,John,A.
+YR 2003
+T1 Differentiated Real-Time Data Services for E-Commerce Applications
+JF Electronic Commerce Research
+VO 3
+SP 113
+OP 142
+IS 1-2
+
+RT Conference Proceedings
+ID 571949
+A1 Wei,Yuan
+A1 Son,Sang,Hyuk
+A1 Stankovic,John,A.
+A1 Kang,Kyoung-don
+YR 2003
+T1 QoS Management in Replicated Real Time Databases
+SP 86
+OP 97
+
+RT Conference Proceedings
+ID 571312
+A1 Zhang,Ronghua
+A1 Abdelzaher,Tarek,F.
+A1 Stankovic,John,A.
+YR 2003
+T1 Kernel Support for Open QoS-Aware Computing
+SP 96
+OP 105
+
+RT Conference Proceedings
+ID 3630333
+A1 Wei,Yuan
+A1 Son,Sang,H.
+A1 Stankovic,John,A.
+A1 Kang,K.,D.
+YR 2003
+T1 QoS Management in Distributed Real-Time Databases
+
+RT Conference Proceedings
+ID 50322856
+A1 Wang,Lingfeng
+A1 Tao,Gang
+A1 Stankovic,John,A.
+A1 Taiig,Xidong
+YR 2003
+T1 Real-time design and simulation of an actuator failure compensation algorithm for a rocket fairing vibration reduction model
+VO 1
+SP 515
+
+RT Journal Article
+ID 15242254
+A1 Kang,Kyoung-Don
+A1 Son,Sang,H.
+A1 Stankovic,John,A.
+YR 2003
+T1 Differentiated Real-Time Data Services for E-Commerce Applications
+JF Electronic Commerce Research
+VO 3
+SP 113
+OP 142
+IS 1
+
+RT Journal Article
+ID 46765
+A1 Wood,Anthony,D.
+A1 Stankovic,John,A.
+YR 2002
+T1 Denial of Service in Sensor Networks
+JF IEEE Computer
+VO 35
+SP 54
+OP 62
+IS 10
+
+RT Conference Proceedings
+ID 3644465
+A1 Lu,Chenyang
+A1 Blum,Brian,M.
+A1 Abdelzaher,Tarek,F.
+A1 Stankovic,John,A.
+A1 He,Tian
+YR 2002
+T1 RAP: A Real-Time Communication Architecture for Large-Scale Wireless Sensor Networks
+SP 55
+OP 66
+
+RT Journal Article
+ID 14742
+A1 Lu,Chenyang
+A1 Stankovic,John,A.
+A1 Son,Sang,Hyuk
+A1 Tao,Gang
+YR 2002
+T1 Feedback Control Real-Time Scheduling: Framework, Modeling, and Algorithms
+JF Real-time Systems
+VO 23
+SP 85
+OP 126
+IS 1-2
+
+RT Conference Proceedings
+ID 2028004
+A1 Zhang,Ronghua
+A1 Lu,Chenyang
+A1 Abdelzaher,Tarek,F.
+A1 Stankovic,John,A.
+YR 2002
+T1 ControlWare: A Middleware Architecture for Feedback Control of Software Performance
+SP 301
+OP 310
+
+RT Conference Proceedings
+ID 36800
+A1 Kang,Kyoung-don
+A1 Son,Sang,Hyuk
+A1 Stankovic,John,A.
+A1 Abdelzaher,Tarek,F.
+YR 2002
+T1 A QoS-Sensitive Approach for Timeliness and Freshness Guarantees in Real-Time Databases
+SP 203
+OP 212
+
+RT Conference Proceedings
+ID 62452
+A1 He,Tian
+A1 Stankovic,John,A
+A1 Lu,Chenyang
+A1 Abdelzaher,Tarek
+YR 2002
+T1 SPEED: A Real-Time Routing Protocol for Sensor Networks 1
+
+RT Conference Proceedings
+ID 71358
+A1 Kang,Kyoung-don
+A1 Son,Sang,Hyuk
+A1 Stankovic,John,A.
+YR 2002
+T1 Service Differentiation in Real-Time Main Memory Databases
+SP 119
+OP 128
+
+RT Journal Article
+ID 79241
+A1 Zhang,Ronghua
+A1 Lu,Chenyang
+A1 Abdelzaher,Tarek,F.
+A1 Stankovic,John,A.
+YR 2002
+T1 ControlWare: A Middleware Architecture for Feedback Control of Software
+
+RT Journal Article
+ID 803173
+A1 Xiong,Ming
+A1 Ramamritham,Krithi
+A1 Stankovic,John,A.
+A1 Towsley,Donald,F.
+A1 Sivasankaran,Rajendran,M.
+YR 2002
+T1 Scheduling Transactions with Temporal Constraints: Exploiting Data Semantics
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 14
+SP 1155
+OP 1166
+IS 5
+
+RT Conference Proceedings
+ID 571391
+A1 Kim,Suhee
+A1 Son,Sang,Hyuk
+A1 Stankovic,John,A.
+YR 2002
+T1 Performance Evaluation on a Real-Time Database
+SP 253
+OP 265
+
+RT Journal Article
+ID 706924
+A1 Xiong,Ming
+A1 Ramamritham,Krithi
+A1 Haritsa,Jayant,R.
+A1 Stankovic,John,A.
+YR 2002
+T1 MIRROR: a state-conscious concurrency control protocol for replicated real-time databases
+JF Information Systems
+VO 27
+SP 277
+OP 297
+IS 4
+
+RT Journal Article
+ID 15274343
+A1 Lu,Chenyang
+A1 Stankovic,John,A.
+A1 Son,Sang,H.
+A1 Tao,Gang
+YR 2002
+T1 Feedback Control Real-Time Scheduling: Framework, Modeling, and Algorithms
+JF Real-time Systems
+VO 23
+SP 85
+OP 126
+IS 1
+
+RT Conference Proceedings
+ID 571411
+A1 Shu,Lihchyun
+A1 Stankovic,John,A.
+A1 Son,Sang,Hyuk
+YR 2002
+T1 Achieving Bounded and Predictable Recovery using Real-Time Logging
+SP 286
+OP 297
+
+RT Conference Proceedings
+ID 49972
+A1 Kang,Kyoung-don
+A1 Son,Sang,Hyuk
+A1 Stankovic,John,A.
+YR 2002
+T1 STAR: Secure Real-Time Transaction Processing with Timeliness Guarantees
+SP 303
+OP 314
+
+RT Conference Proceedings
+ID 2363702
+A1 Kang,K.
+A1 Son,S.
+A1 Stankovic,J.
+A1 Abdelzaher,T.
+YR 2002
+T1 A qos-sensitive approach for miss ratio and freshness guarantees in real-time databases
+
+RT Journal Article
+ID 52634
+A1 Kang,Kyoung-Don
+A1 Son,Sang,H.
+A1 Stankovic,John,A.
+YR 2002
+T1 Specifying and Managing Quality of Real-Time Data Services
+
+RT Journal Article
+ID 2304921
+A1 Shu,L.
+A1 Stankovic,J.
+A1 Son,S.
+YR 2002
+T1 Real-Time Logging and Failure Recovery
+
+RT Journal Article
+ID 24429
+A1 Kang,Kyoung-Don
+A1 Son,Sang,H.
+A1 Stankovic,John,A.
+A1 Abdelzaher,Tarek,F.
+YR 2002
+T1 FLUTE: A Flexible Real-Time Data Management Architecture for Peformance Guarantees
+
+RT Conference Proceedings
+ID 571419
+A1 Lu,Chenyang
+A1 Abdelzaher,Tarek,F.
+A1 Stankovic,John,A.
+A1 Son,Sang,Hyuk
+YR 2001
+T1 A Feedback Control Approach for Guaranteeing Relative Delays in Web Servers
+SP 51
+OP 62
+
+RT Conference Proceedings
+ID 67507
+A1 Regehr,John
+A1 Stankovic,John,A.
+YR 2001
+T1 HLS: A Framework for Composing Soft Real-Time Schedulers
+SP 3
+OP 14
+
+RT Conference Proceedings
+ID 571493
+A1 Stankovic,John,A.
+A1 Son,Sang,Hyuk
+A1 Hansson,Jörgen
+YR 2001
+T1 Misconceptions About Real-Time Databases
+SP 9
+OP 16
+
+RT Conference Proceedings
+ID 64732
+A1 Stankovic,John,A.
+A1 He,Tian
+A1 Abdelzaher,Tarek,F.
+A1 Marley,Michael
+A1 Tao,Gang
+A1 Son,Sang,Hyuk
+A1 Cenyan,L
+YR 2001
+T1 Feedback Control Scheduling in Distributed Real-Time Systems
+SP 59
+
+RT Conference Proceedings
+ID 2371082
+A1 Stankovic,J.,A.
+YR 2001
+T1 Feedback control scheduling in distributed systems
+
+RT Journal Article
+ID 1594518
+A1 Friedrich,L.,Fernando
+A1 Stankovic,John
+A1 Humphrey,Marty
+A1 Marley,Michael
+A1 Jr,John,Haskins
+YR 2001
+T1 A survey of configurable, component-based operating systems for embedded applications
+JF IEEE Micro
+VO 21
+SP 54
+OP 68
+IS 3
+
+RT Journal Article
+ID 2355354
+A1 Lu,Chenyang
+A1 Stankovic,John,A.
+A1 Tao,Gang
+A1 Son,Sang,H.
+YR 2001
+T1 Feedback Control Real-Time Scheduling: Framework, Modeling, and Algorithms
+JF Real-time Systems
+
+RT Conference Proceedings
+ID 653338
+A1 Stankovic,John,A.
+YR 2001
+T1 VEST - A Toolset for Constructing and Analyzing Component Based Embedded Systems
+SP 390
+OP 402
+
+RT Conference Proceedings
+ID 10336059
+A1 Regehr,John
+A1 Stankovic,John,A.
+YR 2001
+T1 Augmented CPU reservations: towards predictable execution on general-purpose operating systems
+SP 141
+OP 148
+
+RT Conference Proceedings
+ID 139740
+A1 Regehr,John
+A1 Stankovic,John,A.
+YR 2001
+T1 Augmented CPU Reservations: Towards Predictable Execution on General-Purpose Operating System
+SP 141
+OP 148
+
+RT Conference Proceedings
+ID 2371081
+A1 Stankovic,J.,A.
+A1 He,T.
+A1 Abdelzaher,T.,F.
+A1 Marley,M.
+A1 Tao,G.
+A1 Son,S.,H.
+A1 Lu,C.
+YR 2001
+T1 Feedback Control Real-Time Scheduling in Distributed Real-Time Systems
+
+RT Book, Whole
+ID 571454
+A1 Sivasankaran,Rajendran,M.
+A1 Ramamritham,Krithi
+A1 Stankovic,John,A.
+YR 2001
+T1 System Failure and Recovery
+SP 109
+OP 124
+
+RT Journal Article
+ID 102659
+A1 He,Tian
+A1 Blum,Brian,M.
+A1 Stankovic,John,A
+A1 Abdelzaher,Tarek
+YR 2000
+T1 AIDA: Adaptive Application Independent Data Aggregation in Wireless Sensor Networks
+JF ACM Transactions in Embedded Computing Systems
+
+RT Conference Proceedings
+ID 4860885
+A1 Lu,Chenyang
+A1 Stankovic,John,A.
+A1 Abdelzaher,Tarek,F.
+A1 Tao,Gang
+A1 Son,Sang,Hyuk
+A1 Marley,Michael
+YR 2000
+T1 Performance Specifications and Metrics for Adaptive Real-Time Systems
+SP 13
+OP 24
+
+RT Journal Article
+ID 412383
+A1 Burns,A.
+A1 Prasad,D.
+A1 Bondavalli,Andrea
+A1 Giandomenico,Felicita,Di
+A1 Ramamritham,Krithi
+A1 Stankovic,John,A.
+A1 Strigini,Lorenzo
+YR 2000
+T1 The meaning and role of value in scheduling flexible real-time systems
+JF Journal of Systems Architecture
+VO 46
+SP 305
+OP 325
+IS 4
+
+RT Journal Article
+ID 3520145
+A1 Rexford,J.
+A1 Sen,S.
+A1 Dey,J.
+A1 Feng,W.
+A1 Kurose,J.
+A1 Stankovic,J.
+A1 Towsley,D.
+YR 2000
+T1 Online Smoothing of Live, Variable-Bit-Rate Video
+JF IEEE Transactions on Multimedia
+
+RT Conference Proceedings
+ID 218871
+A1 Lee,Victor,C.,S.
+A1 Stankovic,John,A.
+A1 Son,Sang,Hyuk
+YR 2000
+T1 Intrusion Detection in Real-Time Database Systems via Time Signatures
+SP 124
+OP 133
+
+RT Journal Article
+ID 2385462
+A1 Stankovic,John,A.
+YR 2000
+T1 VEST: A Toolset For Constructing and Analyzing Component Based Operating Systems For Embedded and Real-Time Systems
+
+RT Journal Article
+ID 715498
+A1 Natale,Marco,Di
+A1 Stankovic,John,A.
+YR 2000
+T1 Scheduling Distributed Real-Time Tasks with Minimum Jitter
+JF IEEE Transactions on Computers
+VO 49
+SP 303
+OP 316
+IS 4
+
+RT Journal Article
+ID 259952
+A1 Regehr,John
+A1 Stankovic,Jack
+A1 Humphrey,Marty
+YR 2000
+T1 The Case for Hierarchical Schedulers with Performance Guarantees
+
+RT Journal Article
+ID 146384
+A1 Jones,Michael,B.
+A1 Stankovic,John,A.
+YR 2000
+T1 Operating System Support for Multimedia: The Programming Model Matters
+
+RT Journal Article
+ID 2046426
+A1 Hilton,E.
+A1 Humphrey,M.
+A1 Stankovic,J.,A.
+A1 Allaire,P.
+YR 2000
+T1 Design of an Open Source, Hard Real-Time Controls Implementation Platform for Active Magnetic Bearings
+
+RT Journal Article
+ID 886628
+A1 Regehr,John
+A1 Stankovic,John,A.
+YR 2000
+T1 Hierarchical schedulers, performance guarantee, and resource management
+JF Operating Systems Review
+VO 34
+SP 31
+IS 2
+
+RT Journal Article
+ID 886632
+A1 Lu,Chenyang
+A1 Stankovic,John,A.
+A1 Abdelzaher,Tarek
+A1 Son,Sang,H.
+A1 Tao,Gang
+YR 2000
+T1 Feedback control real-time scheduling: support for performance guarantees in unpredictable environments
+JF Operating Systems Review
+
+RT Journal Article
+ID 4449819
+A1 Lu,Chenyang
+A1 Stankovic,John,A.
+A1 Abdelzaher,Tarek
+A1 Son,Sang,H.
+A1 Tao,Gang
+YR 2000
+T1 Feedback control real-time scheduling: support for performance guarantees in unpredictable environments (Poster Session)
+JF Operating Systems Review
+
+RT Journal Article
+ID 14417544
+A1 Lu,Chenyang
+A1 Stankovic,John,A.
+A1 Abdelzaher,Tarek
+A1 Son,Sang,H.
+A1 Tao,Gang
+YR 2000
+T1 Feedback control real-time scheduling: support for performance guarantees in unpredictable environments
+JF Operating Systems Review
+VO 34
+SP 33
+IS 2
+
+RT Journal Article
+ID 14417556
+A1 Lu,Chenyang
+A1 Stankovic,John,A.
+A1 Abdelzaher,Tarek
+A1 Son,Sang,H.
+A1 Tao,Gang
+YR 2000
+T1 Feedback control real-time scheduling: support for performance guarantees in unpredictable environments (Poster Session)
+JF Operating Systems Review
+VO 34
+SP 40
+IS 2
+
+RT Conference Proceedings
+ID 1992595
+A1 Stankovic,Jack,A.
+A1 Lu,Chenyang
+A1 Son,Sang,Hyuk
+A1 Tao,Gang
+YR 1999
+T1 The case for feedback control real-time scheduling
+SP 11
+OP 20
+
+RT Conference Proceedings
+ID 571839
+A1 Lu,Chenyang
+A1 Stankovic,John,A.
+A1 Tao,Gang
+A1 Son,Sang,Hyuk
+YR 1999
+T1 Design and Evaluation of a Feedback Control EDF Scheduling Algorithm
+SP 56
+OP 67
+
+RT Journal Article
+ID 256896
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+A1 Niehaus,Douglas
+A1 Humphrey,Marty
+A1 Wallace,Gary
+YR 1999
+T1 The Spring System: Integrated Support for Complex Real-Time Systems
+JF Real-time Systems
+VO 16
+SP 223
+OP 251
+IS 2-3
+
+RT Conference Proceedings
+ID 571439
+A1 Xiong,Ming
+A1 Ramamritham,Krithi
+A1 Haritsa,Jayant,R.
+A1 Stankovic,John,A.
+YR 1999
+T1 MIRROR: A State-Conscious Concurrency Control Protocol for Replicated Real-Time Databases
+SP 100
+OP 110
+
+RT Journal Article
+ID 1176479
+A1 Burleson,Wayne,P.
+A1 Ko,Jason
+A1 Niehaus,Douglas
+A1 Ramamritham,Krithi
+A1 Stankovic,John,A.
+A1 Wallace,Gary
+A1 Weems,Charles,C.
+YR 1999
+T1 The spring scheduling coprocessor: a scheduling accelerator
+JF IEEE Transactions on Very Large Scale Integration Systems
+VO 7
+SP 38
+OP 47
+IS 1
+
+RT Journal Article
+ID 805190
+A1 Humphrey,Marty
+A1 Stankovic,John,A.
+YR 1999
+T1 Predictable Threads for Dynamic, Hard Real-Time Environments
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 10
+SP 281
+OP 296
+IS 3
+
+RT Journal Article
+ID 3666848
+A1 Xiong,M.
+A1 Ramamritham,K.
+A1 Haritsa,J.
+A1 Stank-ovic,J.,A.
+YR 1999
+T1 Regulating Concurrent Access to Replicated Data in Distributed Real-Time Systems
+
+RT Journal Article
+ID 15274261
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+A1 Niehaus,Douglas
+A1 Humphrey,Marty
+A1 Wallace,Gary
+YR 1999
+T1 The Spring System: Integrated Support for Complex Real-Time Systems
+JF Real-time Systems
+VO 16
+SP 223
+OP 251
+IS 2
+
+RT Conference Proceedings
+ID 662485
+A1 Stankovic,John,A.
+YR 1999
+T1 Reflection in Real-Time Systems (abstract)
+SP 1
+
+RT Book, Whole
+ID 1396088
+A1 Stankovic,J.
+A1 Spuri,M.
+A1 Ramamritham,K.
+A1 Buttazzo,G.
+YR 1998
+T1 Deadline scheduling for real-time systems: edf and related algorithms
+
+RT Conference Proceedings
+ID 185852
+A1 Stankovic,John,A.
+A1 Son,Sang,Hyuk
+YR 1998
+T1 Architecture and Object Model for Distributed Object-Oriented Real-Time Databases
+SP 414
+OP 424
+
+RT Conference Proceedings
+ID 2989641
+A1 Hansson,Jörgen
+A1 Son,Sang,Hyuk
+A1 Stankovic,John,A.
+A1 Andler,Sten
+YR 1998
+T1 Dynamic Transaction Scheduling and Reallocation in Overloaded Real-Time Database Systems
+SP 293
+OP 302
+
+RT Journal Article
+ID 3665994
+A1 Xiong,M.
+A1 Ramamritham,K.
+A1 Haritsa,J.
+A1 Stankovic,J.,A.
+YR 1998
+T1 Regu-lating Concurrent Access to Replicated Data in Distributed Real-Time Databases
+
+RT Conference Proceedings
+ID 272121
+A1 Stankovic,John,A.
+A1 Son,Sang,Hyuk
+A1 Nguyen,Chi,D.
+YR 1998
+T1 The Cogency Monitor: An External Interface Architecture for a Distributed Object-Oriented Real-Time Database System
+SP 71
+OP 78
+
+RT Journal Article
+ID 55495959
+A1 Sen,Subhabrata
+A1 Dey,Jayanta,K.
+A1 Kurose,James,F.
+A1 Stankovic,John,A.
+A1 Towsley,Don
+YR 1998
+T1 Streaming CBR transmission of VBR stored video
+VO 3228
+SP 26
+OP 36
+
+RT Journal Article
+ID 353795
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+YR 1997
+T1 A Reflective Architecture for Real-Time Operating Systems
+JF Real-time Systems
+
+RT Conference Proceedings
+ID 334574
+A1 Rexford,J.
+A1 Sen,S.
+A1 Dey,J.
+A1 Feng,W.
+A1 Kurose,J.
+A1 Stankovic,J.
+A1 Towsley,D.
+YR 1997
+T1 Online smoothing of live, variable-bit-rate video
+
+RT Book, Whole
+ID 2513
+A1 Stankovic,John,A.
+A1 Son,Sang,Hyuk
+A1 Liebeherr,Jörg
+YR 1997
+T1 BeeHive: Global Multimedia Database Support for Dependable, Real-Time Applications
+SP 51
+OP 69
+
+RT Journal Article
+ID 356856
+A1 Stankovic,John,A.
+YR 1997
+T1 Real-Time and Embedded Systems
+
+RT Conference Proceedings
+ID 571905
+A1 González,Oscar
+A1 Shrikumar,H.
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+YR 1997
+T1 Adaptive fault tolerance and graceful degradation under dynamic hard real-time scheduling
+SP 79
+OP 89
+
+RT Journal Article
+ID 358203
+A1 Xiong,Ming
+A1 Sivasankaran,Rajendran
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+YR 1997
+T1 Scheduling Access To Temporal Data In Real-Time Databases
+
+RT Journal Article
+ID 1659581
+A1 Jelly,I.,E.
+A1 Gorton,I.
+A1 Burkhart,H.
+A1 Decker,K.,M.
+A1 Fekete,A.
+A1 Potter,J.,M.
+A1 Gomaa,H.
+A1 Kramer,J.
+A1 Schmidt,D.,C.
+A1 Stankovic,J.,A.
+YR 1997
+T1 Software engineering for parallel and distributed systems
+JF IEEE Concurrency
+VO 5
+SP 16
+OP 27
+IS 3
+
+RT Journal Article
+ID 2405068
+A1 Stankovic,J.,A.
+A1 Son,S.,H.
+A1 Liebeherr,J.
+YR 1997
+T1 Real-Time Databases and Information Systems
+
+RT Journal Article
+ID 183816
+A1 González,Oscar
+A1 Sen,Subhabrata
+A1 Ramamritham,Krithi
+A1 Stankovic,John,A.
+YR 1997
+T1 Incorporation of multimedia capabilities in distributed real-time applications
+SP 5
+OP 9
+
+RT Book, Whole
+ID 588060
+A1 Mok,Aloysius,K.
+A1 Stankovic,John,A.
+A1 Ulusoy,Özgür
+A1 Hansson,Jörgen
+A1 Lam,Kam-yiu
+A1 Lin,Kwei-jay
+YR 1997
+T1 Panel Session: Predictability in Active Real-Time/Temporal Databases
+SP 231
+OP 237
+
+RT Book, Whole
+ID 588042
+A1 Stankovic,John,A.
+A1 Datta,Anindya
+A1 Kersten,Martin,L.
+A1 Andler,Sten
+YR 1997
+T1 Panel Session: Practical and Industrial Experience in Active Real-Time Databases
+SP 238
+OP 244
+
+RT Journal Article
+ID 48871591
+A1 Stankovic,JA
+A1 Kramer,BJ
+A1 Volkerldots,N
+YR 1997
+T1 Special issue on safety-critical systems
+
+RT Journal Article
+ID 164837
+A1 Stankovic,John,A.
+YR 1996
+T1 Strategic directions in real-time and embedded systems
+JF ACM Computing Surveys
+VO 28
+SP 751
+OP 763
+IS 4
+
+RT Conference Proceedings
+ID 313003
+A1 Xiong,Ming
+A1 Sivasankaran,Rajendran,M.
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+A1 Towsley,Donald,F.
+YR 1996
+T1 Scheduling transactions with temporal constraints: exploiting data semantics
+SP 240
+OP 251
+
+RT Conference Proceedings
+ID 228113
+A1 Kaneko,Hiroyuki
+A1 Stankovic,John,A.
+A1 Sen,Subhabrata
+A1 Ramamritham,Krithi
+YR 1996
+T1 Integrated scheduling of multimedia and hard real-time tasks
+SP 206
+OP 217
+
+RT Journal Article
+ID 397402
+A1 Sivasankaran,Rajendran,M.
+A1 Stankovic,John,A.
+A1 Towsley,Donald,F.
+A1 Purimetla,Bhaskar
+A1 Ramamritham,Krithi
+YR 1996
+T1 Priority Assignment in Real-Time Active Databases
+JF The Vldb Journal
+VO 5
+SP 19
+OP 34
+IS 1
+
+RT Conference Proceedings
+ID 374874
+A1 Xiong,Ming
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+A1 Towsley,Donald,F.
+A1 Sivasankaran,Rajendran,M.
+YR 1996
+T1 Maintaining Temporal Consistency: Issues and Algorithms
+SP 1
+OP 6
+
+RT Journal Article
+ID 780939
+A1 Stankovic,John,A.
+YR 1996
+T1 Real-time and embedded systems
+JF ACM Computing Surveys
+VO 28
+SP 205
+OP 208
+IS 1
+
+RT Journal Article
+ID 3174
+A1 Ramamritham,Krithi
+A1 Sivasankaran,Rajendran,M.
+A1 Stankovic,John,A.
+A1 Towsley,Donald,F.
+A1 Xiong,Ming
+YR 1996
+T1 Integrating temporal, real-time, an active databases
+JF Sigmod Record
+VO 25
+SP 8
+OP 12
+IS 1
+
+RT Conference Proceedings
+ID 364585
+A1 Humphrey,Marty
+A1 Stankovic,John,A.
+YR 1996
+T1 CAISARTS: a tool for real-time scheduling assistance
+SP 150
+OP 159
+
+RT Journal Article
+ID 361027
+A1 Kaneko,Hiroyuki
+A1 Stankovic,John,A.
+YR 1996
+T1 A Multimedia Server on the Spring Real-Time System
+
+RT Journal Article
+ID 781084
+A1 Stankovic,John,A.
+YR 1996
+T1 The pervasiveness of real-time computing
+JF ACM Computing Surveys
+VO 28
+SP 188
+IS 4es
+
+RT Conference Proceedings
+ID 230677
+A1 Bickford,Carlton
+A1 Teo,Marie,S.
+A1 Wallace,Gary
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+YR 1996
+T1 A robotic assembly application on the Spring real-time system
+SP 19
+OP 28
+
+RT Journal Article
+ID 48963092
+A1 Fohler,G.
+A1 Stankovic,J.,A.
+YR 1996
+T1 Support for Flexible Integrated Design and Analysis for Manufacturing
+
+RT Journal Article
+ID 847262
+A1 Stankovic,John,A.
+A1 Spuri,Marco
+A1 Natale,Marco,Di
+A1 Buttazzo,Giorgio,C.
+YR 1995
+T1 Implications of Classical Scheduling Results for Real-Time Systems
+JF IEEE Computer
+VO 28
+SP 16
+OP 25
+IS 6
+
+RT Journal Article
+ID 361211
+A1 Wang,Fuxing
+A1 Ramamritham,Krithi
+A1 Stankovic,John,A.
+YR 1995
+T1 Determining Redundancy Levels for Fault Tolerant Real-Time Systems
+JF IEEE Transactions on Computers
+VO 44
+SP 292
+OP 301
+IS 2
+
+RT Conference Proceedings
+ID 571764
+A1 Natale,Marco,Di
+A1 Stankovic,John,A.
+YR 1995
+T1 Applicability of Simulated Annealing Methods to Real-Time Scheduling and Jitter Control
+SP 190
+OP 199
+
+RT Conference Proceedings
+ID 320517
+A1 Sivasankaran,Rajendran,M.
+A1 Ramamritham,Krithi
+A1 Stankovic,John,A.
+A1 Towsley,Donald,F.
+YR 1995
+T1 Data Placement, Logging and Recovery in Real-Time Active Databases
+SP 226
+OP 241
+
+RT Conference Proceedings
+ID 250956
+A1 Niehaus,Douglas
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+YR 1995
+T1 A real-time system description language
+SP 104
+OP 115
+
+RT Conference Proceedings
+ID 173688
+A1 Stankovic,John,A.
+YR 1995
+T1 Continuous and multimedia OS support in real-time control applications
+
+RT Conference Proceedings
+ID 375294
+A1 Humphrey,Marty
+A1 Wallace,Gary
+A1 Stankovic,John,A.
+YR 1995
+T1 Kernel-Level Threads for Dynamic, Hard Real-Time Environments
+SP 38
+OP 48
+
+RT Journal Article
+ID 3218966
+A1 Stankovic,J.
+A1 Spuri,M.
+A1 Natale,M.,Di
+A1 Buttazzo,G.
+YR 1995
+T1 Implications of classical scheduling results for real-time scheduling
+
+RT Conference Proceedings
+ID 656540
+A1 Goettge,Robert,T.
+A1 Brehm,Eric,W.
+A1 Palczak,Charles
+A1 Stankovic,John,A.
+A1 Humphrey,Marty
+YR 1995
+T1 Knowledge-Based assistance for real-time systems
+SP 223
+
+RT Conference Proceedings
+ID 50012400
+A1 Stankovic,John,A.
+YR 1995
+T1 Distributed real-time computing
+
+RT Conference Proceedings
+ID 233717
+A1 Stankovic,John,A.
+YR 1995
+T1 The many faces of multi-level real-time scheduling
+SP 2
+
+RT Journal Article
+ID 328222
+A1 Humphrey,Marty
+A1 Stankovic,John,A.
+YR 1995
+T1 MultiLevel Scheduling for Flexible Manufacturing
+
+RT Journal Article
+ID 351687
+A1 RAMAMRITHAM,KRITHI
+A1 STANKOVIC,JOHN,A.
+YR 1994
+T1 Scheduling algorithms and operating systems support for real-time systems
+JF Proceedings of The IEEE
+VO 82
+SP 55
+OP 67
+IS 1
+
+RT Conference Proceedings
+ID 392273
+A1 Natale,Marco,Di
+A1 Stankovic,John,A.
+YR 1994
+T1 Dynamic End-to-End Guarantees in Distributed Real Time Systems
+SP 215
+OP 227
+
+RT Conference Proceedings
+ID 182302
+A1 Purimetla,Bhaskar
+A1 Sivasankaran,Rajendran,M.
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+A1 Towsley,Donald,F.
+YR 1994
+T1 Priority Assignment in Real-Time Active Databases
+SP 176
+OP 184
+
+RT Journal Article
+ID 713198
+A1 Spuri,Marco
+A1 Stankovic,John,A.
+YR 1994
+T1 How to Integrate Precedence Constraints and Shared Resources in Real-Time Scheduling
+JF IEEE Transactions on Computers
+VO 43
+SP 1407
+OP 1412
+IS 12
+
+RT Conference Proceedings
+ID 50010113
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+A1 Zlokapa,Goran
+YR 1994
+T1 Real-time platforms and environments for time constrained flexible manufacturing
+
+RT Conference Proceedings
+ID 49986255
+A1 Stankovic,John,A.
+YR 1994
+T1 Adjustable flow control filters and reflective memories as support for distributed real-time systems
+
+RT Journal Article
+ID 13050118
+A1 Shu,Lih,Chyun
+A1 Stankovic,John,A.
+A1 Son,Sang,H.
+YR 1994
+T1 Logging
+JF IEEE Micro
+VO 14
+SP 62
+IS 5
+
+RT Journal Article
+ID 805909
+A1 Shen,Chia
+A1 Ramamritham,Krithi
+A1 Stankovic,John,A.
+YR 1993
+T1 Resource Reclaiming in Multiprocessor Real-Time Systems
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 4
+SP 382
+OP 397
+IS 4
+
+RT Book, Whole
+ID 696654
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+YR 1993
+T1 Advances in Real-Time Systems
+
+RT Journal Article
+ID 2004107
+A1 Buttazzo,G.
+A1 Stankovic,J.
+YR 1993
+T1 RED: A Robust Earliest Deadline Scheduling Algorithm
+
+RT Journal Article
+ID 397275
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+YR 1993
+T1 What is Predictability for Real-Time Systems?
+
+RT Conference Proceedings
+ID 173050
+A1 Burleson,Wayne
+A1 Ko,Jason
+A1 Niehaus,Douglas
+A1 Ramamritham,Krithi
+A1 Stankovic,John,A.
+A1 Wallace,Gary
+A1 Weems,Charles,C.
+YR 1993
+T1 The Spring Scheduling CoProcessor: A Scheduling Accelerator
+SP 140
+OP 144
+
+RT Journal Article
+ID 382260
+A1 Buttazzo,Giorgio,C.
+A1 Stankovic,John,A.
+YR 1993
+T1 RED: Robust Earliest Deadline Scheduling
+
+RT Journal Article
+ID 374990
+A1 Stankovic,John,A.
+A1 Niehaus,Douglas
+A1 Ramamritham,Krithi
+YR 1993
+T1 SpringNet: A Scalable Architecture For High Performance, Predictable, and Distributed Real-Time Computing
+
+RT Conference Proceedings
+ID 351799
+A1 Purimetla,Bhaskar
+A1 Sivasankaran,Rajendran,M.
+A1 Stankovic,John,A.
+YR 1993
+T1 A Study of Distributed Real-Time Active Database Applications
+
+RT Journal Article
+ID 263221
+A1 Niehaus,Douglas
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+YR 1993
+T1 The Spring System Description Language
+
+RT Conference Proceedings
+ID 571693
+A1 Niehaus,Douglas
+A1 Ramamritham,Krithi
+A1 Stankovic,John,A.
+A1 Wallace,Gary
+A1 Weems,Charles,C.
+A1 Burleson,Wayne
+A1 Ko,Jason
+YR 1993
+T1 The Spring Scheduling CoProcessor: Design, Use, and Performance
+SP 106
+OP 111
+
+RT Conference Proceedings
+ID 376235
+A1 Sivasankaran,Rajendran,M.
+A1 Purimetla,Bhaskar
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+YR 1993
+T1 Network Services Database-a distributed active real-time database (DARTDB) application
+
+RT Journal Article
+ID 756709
+A1 Stankovic,John,A.
+YR 1993
+T1 Introduction: Real-Time Language and Language-Level Timing Tools and Analysis
+JF Real-time Systems
+VO 5
+SP 9
+OP 12
+IS 1
+
+RT Journal Article
+ID 15274189
+A1 Stankovic,John,A.
+YR 1993
+T1 Editorial: Real-time kernel interfaces
+JF Real-time Systems
+VO 5
+SP 5
+OP 8
+IS 1
+
+RT Journal Article
+ID 15274191
+A1 Stankovic,John,A.
+YR 1993
+T1 Editorial: Resource allocation in Real-Time Systems
+JF Real-time Systems
+VO 5
+IS 2
+
+RT Journal Article
+ID 756786
+A1 Huang,Jiandong
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+A1 Towsley,Donald,F.
+A1 Purimetla,Bhaskar
+YR 1992
+T1 Priority Inheritance in Soft Real-Time Databases
+JF Real-time Systems
+VO 4
+SP 243
+OP 268
+IS 3
+
+RT Journal Article
+ID 358270
+A1 Stankovic,John,A.
+YR 1992
+T1 Distributed Real-Time Computing: The Next Generation
+
+RT Conference Proceedings
+ID 2793484
+A1 Wang,Fuxing
+A1 Ramamritham,Krithi
+A1 Stankovic,John,A.
+YR 1992
+T1 Bounds on the performance of heuristic algorithms for multiprocessor scheduling of hard real-time tasks
+SP 136
+OP 145
+
+RT Journal Article
+ID 1373052
+A1 Niehaus,D.
+A1 Nahum,E.
+A1 Stankovic,J.
+A1 Ramamritham,K.
+YR 1992
+T1 Architecture and o/s support for predictable real-time systems
+
+RT Journal Article
+ID 405358
+A1 Stankovic,John,A.
+A1 Wang,Fuxing
+YR 1992
+T1 The Integration of Scheduling and Fault Tolerance in Real-Time Systems
+
+RT Conference Proceedings
+ID 2793494
+A1 Wang,F.
+A1 Ramamritham,K.
+A1 Stankovic,J.,A.
+YR 1992
+T1 Bounds on the schedule length for some heuristic scheduling algorithms for hard real-time systems
+
+RT Journal Article
+ID 855001
+A1 Ramamritham,Krithi
+A1 Moss,E.
+A1 Stankovic,John,A.
+A1 Stemple,David,W.
+A1 Croft,B.
+A1 Towsley,Donald,F.
+YR 1992
+T1 Summary of database research activities at the University of Massachusetts, Amherst
+JF Sigmod Record
+VO 21
+SP 139
+OP 143
+IS 1
+
+RT Journal Article
+ID 809237
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+YR 1991
+T1 The Spring Kernel: A New Paradigm for Real-Time Systems
+JF IEEE Software
+VO 8
+SP 62
+OP 72
+IS 3
+
+RT Conference Proceedings
+ID 241196
+A1 Huang,Jiandong
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+A1 Towsley,Donald,F.
+YR 1991
+T1 Experimental Evaluation of Real-Time Optimistic Concurrency Control Schemes
+SP 35
+OP 46
+
+RT Journal Article
+ID 242278
+A1 Chen,Shenze
+A1 Stankovic,John,A.
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1991
+T1 Performance Evaluation of Two New Disk Scheduling algorithms for Real-Time Systems
+JF Real-time Systems
+VO 3
+SP 307
+OP 336
+IS 3
+
+RT Journal Article
+ID 756928
+A1 Arvind,K.
+A1 Ramamritham,Krithi
+A1 Stankovic,John,A.
+YR 1991
+T1 A Local Area Network Architecture for Communication in Distributed Real-Time Systems
+JF Real-time Systems
+VO 3
+SP 115
+OP 147
+IS 2
+
+RT Conference Proceedings
+ID 571709
+A1 Huang,Jiandong
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+A1 Towsley,Donald,F.
+YR 1991
+T1 On Using Priority Inheritance In Real-Time Databases
+SP 210
+OP 221
+
+RT Journal Article
+ID 1386120
+A1 Niehaus,D.
+A1 Nahum,E.
+A1 Stankovic,J.
+YR 1991
+T1 Predictable real-time caching in the spring system
+
+RT Journal Article
+ID 3711761
+A1 Ramamritham,Krithi
+A1 Stankovic,John
+YR 1991
+T1 Scheduling strategies adopted in spring: An overview
+
+RT Conference Proceedings
+ID 230533
+A1 Stankovic,John,A.
+YR 1991
+T1 On the Reflective Nature of the Spring Kernel
+SP 2
+OP 18
+
+RT Journal Article
+ID 334880
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+A1 Towsley,Don
+YR 1991
+T1 Scheduling In Real-Time Transaction Systems
+
+RT Journal Article
+ID 4086546
+A1 Zlokapa,G.
+A1 Stankovic,J.,A.
+A1 Ramam-ritham,K.
+YR 1991
+T1 Well-Timed Scheduling: A Framework for Dynamic Real-Time Scheduling
+JF IEEE Transactions on Parallel and Distributed Systems
+
+RT Journal Article
+ID 1316176
+A1 Stankovic,J.,A.
+A1 Ramamritham,K.
+YR 1991
+T1 Hard real- time systems tutorial
+
+RT Journal Article
+ID 805160
+A1 Ramamritham,Krithi
+A1 Stankovic,John,A.
+A1 Shiah,Perng-fei
+YR 1990
+T1 Efficient Scheduling Algorithms for Real-Time Multiprocessor Systems
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 1
+SP 184
+OP 194
+IS 2
+
+RT Journal Article
+ID 716485
+A1 Zhao,Wei
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+YR 1990
+T1 A Window Protocol for Transmission of Time-Constrained Messages
+JF IEEE Transactions on Computers
+VO 39
+SP 1186
+OP 1203
+IS 9
+
+RT Journal Article
+ID 795636
+A1 Mirchandaney,Ravi
+A1 Towsley,Donald,F.
+A1 Stankovic,John,A.
+YR 1990
+T1 Adaptive Load Sharing in Heterogeneous Distributed Systems
+JF Journal of Parallel and Distributed Computing
+VO 9
+SP 331
+OP 346
+IS 4
+
+RT Journal Article
+ID 15274183
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+YR 1990
+T1 What is predictability for real-time systems?
+JF Real-time Systems
+VO 2
+SP 247
+OP 254
+IS 4
+
+RT Conference Proceedings
+ID 571826
+A1 Shen,Chia
+A1 Ramamritham,Krithi
+A1 Stankovic,John,A.
+YR 1990
+T1 Resource Reclaiming in Real-Time
+SP 41
+OP 50
+
+RT Journal Article
+ID 208095
+A1 Molesky,L.,D.
+A1 Ramamritham,K.
+A1 Shen,C.
+A1 Stankovic,J.,A.
+YR 1990
+T1 Implementing a Predictable Real-Time Multiprocessor Kernel -- The Spring Kernel
+
+RT Journal Article
+ID 239224
+A1 Huang,Jiandong
+A1 Stankovic,John,A.
+YR 1990
+T1 Concurrency Control in Real-Time Database Systems: Optimistic Scheme vs. Two-Phase Locking
+
+RT Journal Article
+ID 232728
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+YR 1990
+T1 Editorial: What is Predictability for Real-Time Systems?
+JF Real-time Systems
+VO 2
+SP 247
+OP 254
+IS 4
+
+RT Journal Article
+ID 805434
+A1 Towsley,Donald,F.
+A1 Rommel,C.,Gary
+A1 Stankovic,John,A.
+YR 1990
+T1 Analysis of Fork-Join Program Response Times on Multiprocessors
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 1
+SP 286
+OP 303
+IS 3
+
+RT Journal Article
+ID 232778
+A1 Huang,Jiandong
+A1 Stankovic,John,A.
+YR 1990
+T1 Buffer Management in Real-Time Databases
+
+RT Journal Article
+ID 1321331
+A1 Stankovic,J.,A.
+A1 Ramamrithm,K.
+YR 1990
+T1 What is predictability for real-time system?
+JF Real-time Systems
+
+RT Journal Article
+ID 1402804
+A1 Huang,J.
+A1 Stankovic,J.
+A1 Ramaritham,K.
+A1 Towsley,D.
+YR 1990
+T1 On using priority inheritance in real-time databases
+
+RT Journal Article
+ID 1289625
+A1 Mirchandaney,R.
+A1 Towsley,D.
+A1 Stankovic,J.,A.
+YR 1990
+T1 Adaptive load sharing in heterogeneous systems
+
+RT Journal Article
+ID 49893298
+A1 Stankovic,John,A.
+YR 1990
+T1 The Spring architecture
+
+RT Journal Article
+ID 195579
+A1 Shih,Chia-shiang
+A1 Stankovic,John,A.
+YR 1990
+T1 Survey of Deadlock Detection in Distributed Concurrent Programming Environments and Its Application to Real-Time Systems and Ada
+
+RT Conference Proceedings
+ID 913424
+A1 Shih,Chia-Shiang
+A1 Stankovic,John,A.
+YR 1990
+T1 Distributed deadlock detection in Ada run-time environments
+SP 362
+OP 375
+
+RT Journal Article
+ID 35136142
+A1 Stanković,J.,B.
+A1 Milonjić,S.,K.
+A1 Kopečni,M.,M.
+A1 Ćeranić,T.,S.
+YR 1990
+T1 Sorption of alkaline-earth cations on amorphous zirconium oxide
+JF Colloids and Surfaces
+VO 46
+SP 283
+OP 296
+IS 2
+
+RT Journal Article
+ID 3018605
+A1 Ramamrithnam,K.
+A1 Stankovic,J.
+A1 Shiah,P.,F.
+YR 1990
+T1 Efficient Scheduling algorithms for multi-processor real-time systems
+JF IEEE Transactions on Parallel and Distributed Systems
+
+RT Journal Article
+ID 18640063
+A1 Mirchandaney,Ravi
+A1 Towsley,Don
+A1 Stankovic,John,A.
+YR 1990
+T1 Adaptive load sharing in heterogeneous distributed systems
+JF Journal of Parallel and Distributed Computing
+VO 9
+SP 331
+OP 346
+IS 4
+
+RT Journal Article
+ID 713114
+A1 Ramamritham,Krithi
+A1 Stankovic,John,A.
+A1 Zhao,Wei
+YR 1989
+T1 Distributed Scheduling of Tasks with Deadlines and Resource Requirements
+JF IEEE Transactions on Computers
+VO 38
+SP 1110
+OP 1123
+IS 8
+
+RT Journal Article
+ID 855367
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+YR 1989
+T1 The Spring kernel: a new paradigm for real-time operating systems
+JF Operating Systems Review
+VO 23
+SP 54
+OP 71
+IS 3
+
+RT Conference Proceedings
+ID 571710
+A1 Huang,Jiandong
+A1 Stankovic,John,A.
+A1 Towsley,Donald,F.
+A1 Ramamritham,Krithi
+YR 1989
+T1 Experimental Evaluation of Real-Time Transaction Processing
+SP 144
+OP 155
+
+RT Journal Article
+ID 715415
+A1 Mirchandaney,Ravi
+A1 Towsley,Donald,F.
+A1 Stankovic,John,A.
+YR 1989
+T1 Analysis of the Effects of Delays on Load Sharing
+JF IEEE Transactions on Computers
+VO 38
+SP 1513
+OP 1525
+IS 11
+
+RT Journal Article
+ID 767221
+A1 Choudhary,Alok,N.
+A1 Kohler,Walter,H.
+A1 Stankovic,John,A.
+A1 Towsley,Donald,F.
+YR 1989
+T1 A Modified Priority Based Probe Algorithm for Distributed Deadlock Detection and Resolution
+JF IEEE Transactions on Software Engineering
+VO 15
+SP 10
+OP 17
+IS 1
+
+RT Journal Article
+ID 713486
+A1 Stankovic,John,A.
+YR 1989
+T1 Decentralized Decision Making for Task Reallocation in a Hard Real-Time System
+JF IEEE Transactions on Computers
+VO 38
+SP 341
+OP 355
+IS 3
+
+RT Conference Proceedings
+ID 531718
+A1 Ramamritham,Krithi
+A1 Stankovic,John,A.
+A1 Shiah,Perng-fei
+YR 1989
+T1 O (n) Scheduling Algorithms for Real-Time Multiprocessor Systems
+SP 143
+OP 152
+
+RT Conference Proceedings
+ID 49862664
+A1 Mirchandaney,R.
+A1 Towsley,Don
+A1 Stankovic,John,A.
+YR 1989
+T1 Adaptive load sharing in heterogeneous systems
+
+RT Conference Proceedings
+ID 571793
+A1 Zhao,Wei
+A1 Stankovic,John,A.
+YR 1989
+T1 Performance Analysis of FCFS and Improved FCFS Scheduling Algorithms for Dynamic Real-Time Computer Systems
+SP 156
+OP 165
+
+RT Journal Article
+ID 1971061
+A1 Stankovic,J.,A.
+A1 Ramamritham,K
+YR 1989
+T1 Overview of the Spring Project
+
+RT Conference Proceedings
+ID 3518081
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+A1 Niehaus,Douglas
+YR 1989
+T1 On using the Spring kernel to support real-time AI applications
+
+RT Journal Article
+ID 767067
+A1 Choudhary,Alok,N.
+A1 Kohler,Walter,H.
+A1 Stankovic,John,A.
+A1 Towsley,Donald,F.
+YR 1989
+T1 Correction to ``A Modified Priority Based Probe Algorithm for Distributed Deadlock Detection and Resolution
+JF IEEE Transactions on Software Engineering
+VO 15
+SP 1644
+IS 12
+
+RT Journal Article
+ID 14374264
+A1 Choudhary,A.,N.
+A1 Kohler,W.,H.
+A1 Stankovic,J.,A.
+A1 Towsley,D.
+YR 1989
+T1 Correction to `a modified priority based probe algorithm for distributed deadlock detection and resolution' [A.N. Choudhary et al.]
+JF IEEE Transactions on Software Engineering
+VO 15
+SP 1644
+IS 12
+
+RT Journal Article
+ID 929244
+A1 Stankovic,J.,a.
+YR 1988
+T1 Misconceptions About Real-Time Computing: A Serious Problem for Next-Generation Systems
+
+RT Journal Article
+ID 846776
+A1 Stankovic,John,A.
+YR 1988
+T1 Misconceptions About Real-Time Computing
+JF IEEE Computer
+VO 21
+SP 10
+OP 19
+IS 10
+
+RT Journal Article
+ID 1322178
+A1 Stankovic,J.
+YR 1988
+T1 Real-time computing systems: the next generation
+JF Real-time Systems
+
+RT Journal Article
+ID 1269183
+A1 Stankovic,J.,A.
+A1 Ramamritham,K.
+YR 1988
+T1 Hard real- time systems
+JF IEEE Computer Society
+
+RT Journal Article
+ID 854527
+A1 Stankovic,John,A.
+A1 Zhao,Wei
+YR 1988
+T1 On real-time transactions
+JF Sigmod Record
+VO 17
+SP 4
+OP 18
+IS 1
+
+RT Journal Article
+ID 1920852
+A1 Cheng,S.
+A1 Stankovic,J.,A.
+YR 1988
+T1 Scheduling algorithms for hard real-time systems - a brief survey
+JF Real-time Systems
+
+RT Conference Proceedings
+ID 571543
+A1 Biyabani,Sara,R.
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+YR 1988
+T1 The Integration of Deadline and Criticalness in Hard Real-Time Scheduling
+SP 152
+OP 160
+
+RT Journal Article
+ID 1992582
+A1 Stankovic,John
+A1 Ramamritham,Krithi
+YR 1988
+T1 Tutorial on hard real-time systems
+JF IEEE Computer Society
+
+RT Conference Proceedings
+ID 607165
+A1 Pulidas,Spiridon
+A1 Towsley,Donald,F.
+A1 Stankovic,John,A.
+YR 1988
+T1 Imbedding Gradient Estimators in Load Balancing Algorithms
+SP 482
+OP 490
+
+RT Conference Proceedings
+ID 607643
+A1 Zhao,Wei
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+YR 1988
+T1 A Multi-Access Window Protocol for Transmission of Time Constrained Messages
+SP 384
+OP 392
+
+RT Journal Article
+ID 1308423
+A1 Stankovic,J.,A.
+A1 Ramamritham,K.
+YR 1988
+T1 Hard real-time systems: a tutorial
+
+RT Journal Article
+ID 14383227
+A1 Stankovic,J.,A.
+YR 1988
+T1 Misconceptions about real-time computing: a serious problem for next-generation systems
+JF IEEE Computer
+VO 21
+SP 10
+OP 19
+IS 10
+
+RT Conference Proceedings
+ID 2110000
+A1 Biyabani,S.
+A1 Stankovic,J.,A.
+A1 Ramamritham,K.
+YR 1988
+T1 The integration of criticalness and deadlines in scheduling real-time tasks
+
+RT Journal Article
+ID 2025758
+A1 Stankovic,J.,A.
+YR 1988
+T1 Misconception of real-time computing
+
+RT Journal Article
+ID 60268571
+A1 Stankovic,J.,A.
+A1 Ramamritham,K.
+YR 1988
+T1 SpringNet: a network of multiprocessors for hard real-time. Final report
+
+RT Journal Article
+ID 767657
+A1 Zhao,Wei
+A1 Ramamritham,Krithi
+A1 Stankovic,John,A.
+YR 1987
+T1 Scheduling Tasks with Resource Requirements in Hard Real-Time Systems
+JF IEEE Transactions on Software Engineering
+VO 13
+SP 564
+OP 577
+IS 5
+
+RT Journal Article
+ID 716483
+A1 Zhao,Wei
+A1 Ramamritham,Krithi
+A1 Stankovic,John,A.
+YR 1987
+T1 Preemptive Scheduling Under Time and Resource Constraints
+JF IEEE Transactions on Computers
+VO 36
+SP 949
+OP 960
+IS 8
+
+RT Conference Proceedings
+ID 571663
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+YR 1987
+T1 The Design of the Spring Kernel
+SP 146
+OP 157
+
+RT Conference Proceedings
+ID 606949
+A1 Ramamritham,Krithi
+A1 Stankovic,John,A.
+A1 Zhao,Wei
+YR 1987
+T1 Meta-Level Control in Distributed Real-Time Systems
+SP 10
+OP 17
+
+RT Journal Article
+ID 3711146
+A1 Cheng,S.,C.
+A1 Stankovic,J.,A.
+YR 1987
+T1 Scheduling algorithms for hard real-time systems
+
+RT Journal Article
+ID 1257945
+A1 Rommel,C.,G.
+A1 Towsley,D.
+A1 Stankovic,J.,A.
+YR 1987
+T1 Analysis of fork-join jobs using processor sharing
+
+RT Conference Proceedings
+ID 607446
+A1 Choudhary,Alok,N.
+A1 Kohler,Walter,H.
+A1 Stankovic,John,A.
+A1 Towsley,Donald,F.
+YR 1987
+T1 A Priority Based Probe Algorithm for Distributed Deadlock Detection and Resolution
+SP 162
+OP 169
+
+RT Journal Article
+ID 1315935
+A1 Zhao,Wei
+A1 Ramamritham,Krithi
+A1 Stankovic,John,A.
+YR 1987
+T1 Scheduling tasks with requirement in hard real-time systems
+
+RT Conference Proceedings
+ID 571728
+A1 Cheng,Shengchang
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+YR 1986
+T1 Dynamic Scheduling of Groups of Tasks with Precedence Constraints in Distributed Hard Real-Time Systems
+SP 166
+OP 174
+
+RT Journal Article
+ID 795055
+A1 Mirchandaney,Ravi
+A1 Stankovic,John,A.
+YR 1986
+T1 Using Stochastic Learning Automata for Job Scheduling in Distributed Processing Systems
+JF Journal of Parallel and Distributed Computing
+VO 3
+SP 527
+OP 552
+IS 4
+
+RT Conference Proceedings
+ID 607208
+A1 Stankovic,John,A.
+A1 Towsley,Donald,F.
+YR 1986
+T1 Dynamic Reallocation in a Highly Integrated Real-Time Distributed System
+SP 374
+OP 381
+
+RT Journal Article
+ID 716967
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+A1 Cheng,Shengchang
+YR 1985
+T1 Evaluation of a Flexible Task Scheduling Algorithm for Distributed Hard Real-Time Systems
+JF IEEE Transactions on Computers
+VO 34
+SP 1130
+OP 1143
+IS 12
+
+RT Journal Article
+ID 713485
+A1 Stankovic,John,A.
+YR 1985
+T1 An Application of Bayesian Decision Theory to Decentralized Control of Job Scheduling
+JF IEEE Transactions on Computers
+VO 34
+SP 117
+OP 130
+IS 2
+
+RT Journal Article
+ID 766096
+A1 Stankovic,John,A.
+YR 1985
+T1 Stability and distributed scheduling algorithms
+JF IEEE Transactions on Software Engineering
+VO 11
+SP 47
+OP 57
+IS 10
+
+RT Book, Whole
+ID 39253301
+A1 Stankovic,John,A.
+YR 1985
+T1 Reliable distributed system software
+
+RT Journal Article
+ID 51166691
+A1 STANKOVIC,JOHN,A.
+YR 1985
+T1 Stability and Distributed Scheduling Algorithms
+JF IEEE Transactions on Software Engineering
+VO SE-11
+SP 1141
+OP 1152
+IS 10
+
+RT Journal Article
+ID 1960973
+A1 Ramamritham,K.
+A1 Stankovic,J.,A.
+YR 1984
+T1 Dynamic Task Scheduling in Hard Real-Time Distributed systems
+JF IEEE Software
+VO 1
+SP 65
+OP 75
+IS 3
+
+RT Conference Proceedings
+ID 607647
+A1 Ramamritham,Krithi
+A1 Stankovic,John,A.
+YR 1984
+T1 Dynamic Task Scheduling in Distributed Real-Time Systems
+SP 96
+OP 107
+
+RT Conference Proceedings
+ID 607207
+A1 Stankovic,John,A.
+A1 Sidhu,Inderjit,S.
+YR 1984
+T1 An Adaptive Bidding Algorithm For Processes, Clusters and Distributed Groups
+SP 49
+OP 59
+
+RT Journal Article
+ID 703727
+A1 Stankovic,John,A.
+YR 1984
+T1 Simulations of Three Adaptive, Decentralized Controlled, Job Scheduling Algorithms
+JF Computer Networks and Isdn Systems
+VO 8
+SP 199
+OP 217
+IS 3
+
+RT Journal Article
+ID 713484
+A1 Stankovic,John,A.
+YR 1984
+T1 A Perspective on Distributed Computer Systems
+JF IEEE Transactions on Computers
+VO 33
+SP 1102
+OP 1115
+IS 12
+
+RT Journal Article
+ID 2608175
+A1 Stankovic,J.,A.
+YR 1984
+T1 A perspective on distributed computing systems
+JF IEEE Transactions on Computers
+
+RT Journal Article
+ID 667898
+A1 Kohler,Walter,H.
+A1 Wilner,Kenneth,C.
+A1 Stankovic,John,A.
+YR 1983
+T1 An Experimental Comparison of Locking Policies in a Testbed Database System
+JF Sigmod Record
+VO 13
+SP 108
+OP 119
+IS 4
+
+RT Journal Article
+ID 39216520
+A1 Kohler,Walter,H.
+A1 Wilner,Kenneth,C.
+A1 Stankovic,John,A.
+YR 1983
+T1 An experimental comparison of locking policies in a testbed database system
+JF Sigmod Record
+SP 108
+OP 119
+
+RT Conference Proceedings
+ID 681354
+A1 Stankovic,John,A.
+YR 1983
+T1 A Heuristic for Cooperation Among Decentralized Controllers
+SP 331
+OP 339
+
+RT Journal Article
+ID 846775
+A1 Stankovic,John,A.
+YR 1982
+T1 Software Communication Mechanisms: Procedure Calls Versus Messages
+JF IEEE Computer
+VO 15
+SP 19
+OP 25
+IS 4
+
+RT Journal Article
+ID 766095
+A1 Stankovic,John,A.
+YR 1982
+T1 Good System Structure Features: Their Complexity and Execution Time Cost
+JF IEEE Transactions on Software Engineering
+VO 8
+SP 306
+OP 318
+IS 4
+
+RT Journal Article
+ID 713483
+A1 Stankovic,John,A.
+YR 1981
+T1 The Types and Interactions of Vertical Migrations of Functions in a Multilevel Interpretive System
+JF IEEE Transactions on Computers
+VO 30
+SP 505
+OP 513
+IS 7
+
+RT Journal Article
+ID 1276960
+A1 Stankovic,J.,A.
+YR 1981
+T1 Improving system structure and its affect on vertical migration
+JF Microprocessing and Microprogramming
+VO 8
+SP 203
+OP 217
+IS 3-5
+
+RT Journal Article
+ID 14389199
+A1 Eckhouse,R.H.
+A1 Stankovic,J.A.
+A1 Dam,A.,van
+YR 1978
+T1 Issues in Distributed Processing - an Overview of Two Workshops
+JF IEEE Computer
+VO 11
+SP 22
+OP 26
+IS 1
+
+RT Journal Article
+ID 3810523
+A1 Stankovic,J.,A.
+YR 1974
+T1 Structured systems and their performance improvement through vertical migration
+
+RT Journal Article
+ID 5148094
+A1 Wood,A.
+A1 Virone,G.
+A1 Doan,T.
+A1 Cao,Q.
+A1 Selavo,L.
+A1 Wu,Y.
+A1 Fang,L.
+A1 He,Z.
+A1 Lin,S.
+A1 Stankovic,J.
+T1 ALARM-NET: Wireless Sensor Networks for Assisted-Living and Residential Monitoring
+
+RT Book, Whole
+ID 291993
+A1 Bondavalli,A.
+A1 Stankovic,J.
+A1 Strigini,I
+T1 Adaptable Fault Tolerance for Real-Time Systems
+
+RT Book, Whole
+ID 1998674
+A1 Buttazzo,Giorgio,C.
+A1 Stankovic,John,A.
+T1 Adding Robustness in Dynamic Preemptive Scheduling
+
+RT Conference Proceedings
+ID 4537958
+A1 Zhou,Gang
+A1 Stankovic,John,A.
+A1 Son,Sang,H.
+T1 Crowded Spectrum in Wireless Sensor Networks
+
+RT Journal Article
+ID 12758412
+A1 Virone,G.
+A1 Wood,A.
+A1 Selavo,L.
+A1 Cao,Q.
+A1 Fang,L.
+A1 Doan,T.
+A1 He,Z.
+A1 Stoleru,R.
+A1 Lin,S.
+A1 Stankovic,J.,A.
+T1 An Advanced Wireless Sensor Network for Health Monitoring
+
+RT Journal Article
+ID 10046979
+A1 He,Tian
+A1 Vicaire,Pascal
+A1 Yan,Ting
+A1 Luo,Liqian
+A1 Guy,Lin
+A1 Zhou,Gang
+A1 Stoleru,Radu
+A1 Cao,Qing
+A1 Stankovic,John,A.
+A1 Abdelzaher,Tarek
+T1 Achieving Real-Time Target Tracking Using Wireless Sensor Networks1
+
+RT Journal Article
+ID 4692054
+A1 Wood,Anthony,D.
+A1 Stankovic,John,A.
+T1 A Taxonomy for Denial-of-Service Attacks in Wireless Sensor Networks
+
+RT Journal Article
+ID 4552338
+A1 Zhang,Jingbin
+A1 Zhou,Gang
+A1 Son,Sang,H.
+A1 Stankovic,John,A.
+T1 Ears on the Ground: An Acoustic Streaming Service in Wireless Sensor Networks
+
+RT Book, Whole
+ID 243515
+A1 Stankovic,John,A.
+T1 Reflection in Real-Time Systems
+
+RT Book, Whole
+ID 12801935
+A1 Stoleru,Radu
+A1 He,Tian
+A1 Stankovic,John,A.
+T1 Range-Free Localization
+
+RT Journal Article
+ID 11368693
+A1 Ramamritham,Krithi
+A1 Haritsa,Jayant,R.
+A1 Stankovic,John,A.
+T1 MIRROR: a state-conscious concurrency control protocol for replicated real-time databases
+
+RT Journal Article
+ID 12653890
+A1 Wood,Anthony,D.
+A1 Stankovic,John,A.
+T1 Poster Abstract: AMSecure—Secure Link-Layer Communication in TinyOS for IEEE 802.15.4-based Wireless Sensor Networks
+
+RT Journal Article
+ID 12886667
+A1 Sen,Subhabrata
+A1 Dey,Jayanta,K.
+A1 Kurose,James,F.
+A1 Stankovic,John,A.
+A1 Towsley,Don
+T1 Online smoothing of live video transmissions
+
+RT Journal Article
+ID 13068014
+A1 Luo,Liqian
+A1 Huang,Chengdu
+A1 Abdelzaher,Tarek
+A1 Stankovic,John
+T1 Networks
+
+RT Journal Article
+ID 4927095
+A1 ZHOU,GANG
+A1 WU,YAFENG
+A1 YAN,TING
+A1 HE,TIAN
+A1 HUANG,CHENGDU
+A1 STANKOVIC,JOHN,A.
+A1 ABDELZAHER,TAREK,F.
+T1 A Multi-Frequency MAC Specially Designed for Wireless Sensor Network Applications
+
+RT Conference Proceedings
+ID 12776803
+A1 Zhang,Ronghua
+A1 Parekh,Sujay
+A1 Diao,Yixin
+A1 Surendra,Maheswaran
+A1 Abdelzaher,Tarek
+A1 Stankovic,John
+T1 Control of Weighted Fair Queueing: Modeling, Implementation, and Experiences
+
+RT Journal Article
+ID 5496671
+A1 Cao,Qing
+A1 Abdelzaher,Tarek
+A1 Stankovic,John
+A1 He,Tian
+T1 LiteOS, A Unix-like Operating System and Programming Platform for Wireless Sensor Networks
+
+RT Journal Article
+ID 295184
+A1 Victor,Anand
+A1 Stankovic,John,A.
+A1 Son,Sang,H.
+T1 QoS Support for Real-Time Databases
+
+RT Journal Article
+ID 5428595
+A1 Wood,Anthony,D.
+A1 Srinivasan,Vijay
+A1 Stankovic,John,A.
+T1 Autonomous Defenses for Security Attacks in Pervasive CPS Infrastructure
+
+RT Journal Article
+ID 3348133
+A1 He,Tian
+A1 Pointurier,Yvan
+A1 Stankovic,John,A.
+T1 MAC Layer Abstraction for Simulation Scalability Improvements in Large-scale Sensor Networks
+
+RT Journal Article
+ID 389756
+A1 Stankovic,John,A.
+T1 Admission Control, Reservation, and Reflection in Operating Systems
+
+RT Journal Article
+ID 6021776
+A1 Lin,Shan
+A1 He,Tian
+A1 Stankovic,John,A.
+T1 CPS-IP: Cyber Physical Systems Interconnection Protocol
+
+RT Journal Article
+ID 12776282
+A1 Kang,Kyoung-Don
+A1 Son,Sang,H.
+A1 Stankovic,John,A.
+A1 Abdelzaher,Tarek,F.
+T1 FLUTE: A Flexible Real-Time Data Management Architecture for Performance Guarantees
+
+RT Journal Article
+ID 12812855
+A1 Luo,Liqian
+A1 Cao,Qing
+A1 Huang,Chengdu
+A1 Abdelzaher,Tarek
+A1 Stankovic,John,A.
+A1 Ward,Michael
+T1 EnviroMic: TowardsCooperativeStorageandRetrievalinAudioSensor Networks
+
+RT Journal Article
+ID 13067923
+A1 Luo,Liqian
+A1 Cao,Qing
+A1 Huang,Chengdu
+A1 Abdelzaher,Tarek
+A1 Stankovic,John,A.
+A1 Ward,Michael
+T1 Sensor Networks
+
+RT Journal Article
+ID 10303361
+A1 Zhou,Gang
+A1 Lu,Jian
+A1 Wan,Chieh-Yih
+A1 Yarvis,Mark,D.
+A1 Stankovic,John,A.
+T1 BodyQoS: Adaptive and Radio-Agnostic QoS for Body Sensor Networks
+
+RT Journal Article
+ID 13915888
+A1 Lin,Shan
+A1 Zhou,Gang
+A1 Wu,Yafeng
+A1 Whitehouse,Kamin
+A1 Stankovic,John,A.
+A1 He,Tian
+T1 Poster Abstract: Achieving Stable Network Performance for Wireless Sensor Networks
+
+RT Journal Article
+ID 12036589
+A1 Lu,Chenyang
+A1 Stankovic,John,A.
+A1 Tao,Gang
+A1 Son,Sang,H.
+T1 Design and Evaluation of a Feedback Control EDF Sch eduling
+
+RT Book, Whole
+ID 48704648
+A1 Stankovic,John,A.
+A1 Wood,Anthony,D.
+A1 He,Tian
+T1 Realistic Applications for Wireless Sensor Networks
+
+RT Journal Article
+ID 5808736
+A1 Jiao,Binjia
+A1 Son,Sang,H.
+A1 Stankovic,John,A.
+T1 FEDL: A Formalized Event Description Language for Wireless Sensor Networks
+
+RT Journal Article
+ID 10684536
+A1 Wood,Anthony,D.
+A1 Stankovic,John,A.
+T1 Security of Distributed, Ubiquitous, and Embedded Computing Platforms
+
+RT Journal Article
+ID 12660576
+A1 Stoleru,Radu
+A1 He,Tian
+A1 Stankovic,John,A.
+T1 Demo Abstract: Localization System for Outdoor Wireless Sensor Networks
+
+RT Journal Article
+ID 5647591
+A1 Vicaire,Pascal,A.
+A1 Stankovic,John,A.
+T1 Physicalnet: A Framework for Programming Mobility-aware, Cross-network, Concurrent Applications for Sensor and Actuator Networks
+
+RT Journal Article
+ID 6530661
+A1 Vicaire,Pascal,A.
+A1 Stankovic,John,A.
+T1 Physicalnet: Cross-network Applications for Multi-user Sensor and Actuator Networks
+
+RT Journal Article
+ID 6551973
+A1 Lin,Shan
+A1 Stankovic,John,A.
+T1 Performance Composition for Cyber Physical Systems
+
+RT Journal Article
+ID 12667269
+A1 Gu,Lin
+A1 Stankovic,John,A.
+T1 Demo Abstract: A Virtualizing OS Kernel for Wireless Sensor Networks

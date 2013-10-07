@@ -1,0 +1,5562 @@
+RT Conference Proceedings
+ID 13255416
+A1 Zaharia,Matei
+A1 Sarma,Joydeep,Sen
+A1 Elmeleegy,Khaled
+A1 Shenker,Scott
+A1 Borthakur,Dhruba
+A1 Stoica,Ion
+YR 2011
+T1 Delay scheduling: a simple technique for achieving locality and fairness in cluster scheduling
+SP 265
+OP 278
+
+RT Journal Article
+ID 56905111
+A1 Koponen,Teemu
+A1 Shenker,Scott
+A1 Balakrishnan,Hari
+A1 Feamster,Nick
+A1 Ganichev,Igor
+A1 Ghodsi,Ali
+A1 Godfrey,P.,Brighten
+A1 McKeown,Nick
+A1 Parulkar,Guru
+A1 Raghavan,Barath
+A1 Rexford,Jennifer
+A1 Arianfar,Somaya
+A1 Kuptsov,Dmitriy
+YR 2011
+T1 Architecting for innovation
+JF Computer Communication Review
+SP 24
+OP 36
+
+RT Journal Article
+ID 56916848
+A1 Heller,Brandon
+A1 Erickson,David
+A1 McKeown,Nick
+A1 Griffith,Rean
+A1 Ganichev,Igor
+A1 Whyte,Scott
+A1 Zarifis,Kyriakos
+A1 Moon,Daekyeong
+A1 Stuart,Stephen
+YR 2011
+T1 Ripcord: a modular platform for data center networking
+SP 457
+OP 458
+
+RT Journal Article
+ID 56905241
+A1 Nguyen,Giang,T.,K.
+A1 Agarwal,Rachit
+A1 Liu,Junda
+A1 Caesar,Matthew
+A1 Godfrey,P.,Brighten
+A1 Shenker,Scott
+YR 2011
+T1 Slick packets
+JF Sigmetrics Performance Evaluation Review
+SP 205
+OP 216
+
+RT Journal Article
+ID 13759745
+A1 Heller,Brandon
+A1 Erickson,David
+A1 McKeown,Nick
+A1 Griffith,Rean
+A1 Ganichev,Igor
+A1 Whyte,Scott
+A1 Zarifis,Kyriakos
+A1 Moon,Daekyeong
+A1 Shenker,Scott
+A1 Stuart,Stephen
+YR 2010
+T1 Ripcord: a modular platform for data center networking
+SP 457
+OP 458
+
+RT Conference Proceedings
+ID 5540187
+A1 Godfrey,Brighten
+A1 Schapira,Michael
+A1 Zohar,Aviv
+A1 Shenker,Scott
+YR 2010
+T1 Incentive compatibility and dynamics of congestion control
+SP 95
+OP 106
+
+RT Journal Article
+ID 39212673
+A1 Ganichev,Igor
+A1 Dai,Bin
+A1 Godfrey,P.,Brighten
+A1 Shenker,Scott
+YR 2010
+T1 YAMR: yet another multipath routing protocol
+JF Computer Communication Review
+VO 40
+SP 13
+OP 19
+IS 5
+
+RT Journal Article
+ID 14418630
+A1 Godfrey,P.,Brighten
+A1 Schapira,Michael
+A1 Zohar,Aviv
+A1 Shenker,Scott
+YR 2010
+T1 Incentive compatibility and dynamics of congestion control
+JF Sigmetrics Performance Evaluation Review
+VO 38
+SP 95
+OP 106
+IS 1
+
+RT Journal Article
+ID 14423603
+A1 Walfish,Michael
+A1 Vutukuru,Mythili
+A1 Balakrishnan,Hari
+A1 Karger,David
+A1 Shenker,Scott
+A1 Raicu,Ioan
+YR 2010
+T1 DDoS defense by offense
+JF ACM Transactions on Computer Systems
+VO 28
+SP 1
+OP 54
+IS 1
+
+RT Journal Article
+ID 13277743
+A1 Caesar,Matthew
+A1 Casado,Martin
+A1 Koponen,Teemu
+A1 Rexford,Jennifer
+A1 Shenker,Scott
+YR 2010
+T1 Dynamic route recomputation considered harmful
+JF Computer Communication Review
+VO 40
+SP 66
+OP 71
+IS 2
+
+RT Journal Article
+ID 39212660
+A1 Heller,Brandon
+A1 Erickson,David
+A1 McKeown,Nick
+A1 Griffith,Rean
+A1 Ganichev,Igor
+A1 Whyte,Scott
+A1 Zarifis,Kyriakos
+A1 Moon,Daekyeong
+A1 Shenker,Scott
+A1 Stuart,Stephen
+YR 2010
+T1 Ripcord: a modular platform for data center networking
+SP 457
+OP 458
+
+RT Journal Article
+ID 39238567
+A1 Casado,Martín
+A1 Koponen,Teemu
+A1 Ramanathan,Rajiv
+A1 Shenker,Scott
+YR 2010
+T1 Virtualizing the network forwarding plane
+SP 1
+OP 6
+
+RT Journal Article
+ID 6228920
+A1 Zaharia,Matei
+A1 Borthakur,Dhruba
+A1 Sarma,Joydeep,Sen
+A1 Elmeleegy,Khaled
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2009
+T1 Job Scheduling for Multi-User MapReduce Clusters
+
+RT Conference Proceedings
+ID 6050256
+A1 Godfrey,Brighten
+A1 Ganichev,Igor
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2009
+T1 Pathlet routing
+SP 111
+OP 122
+
+RT Journal Article
+ID 14416781
+A1 Godfrey,P.,Brighten
+A1 Ganichev,Igor
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2009
+T1 Pathlet routing
+JF Computer Communication Review
+VO 39
+SP 111
+OP 122
+IS 4
+
+RT Conference Proceedings
+ID 5897760
+A1 Hinrichs,Timothy,L.
+A1 Gude,Natasha,S.
+A1 Casado,Martin
+A1 Mitchell,John,C.
+A1 Shenker,Scott
+YR 2009
+T1 Practical declarative network management
+SP 1
+OP 10
+
+RT Journal Article
+ID 5416253
+A1 Casado,Martin
+A1 Freedman,Michael,J.
+A1 Pettit,Justin
+A1 Luo,Jianying
+A1 Gude,Natasha
+A1 McKeown,Nick
+A1 Shenker,Scott
+YR 2009
+T1 Rethinking Enterprise Network Control
+JF IEEE/ACM Transactions on Networking
+VO 17
+SP 1270
+OP 1283
+IS 4
+
+RT Conference Proceedings
+ID 4707522
+A1 Chun,Byung-gon
+A1 Maniatis,Petros
+A1 Shenker,Scott
+A1 Kubiatowicz,John
+YR 2009
+T1 Tiered Fault Tolerance for Long-Term Integrity
+SP 267
+OP 282
+
+RT Journal Article
+ID 6653332
+A1 Hindman,Benjamin
+A1 Konwinski,Andy
+A1 Zaharia,Matei
+A1 Ghodsi,Ali
+A1 Joseph,Anthony,D.
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2009
+T1 Nexus: A Common Substrate for Cluster Computing
+
+RT Conference Proceedings
+ID 4707525
+A1 Ermolinskiy,Andrey
+A1 Moon,Daekyeong
+A1 Chun,Byung-gon
+A1 Shenker,Scott
+YR 2009
+T1 Minuet: Rethinking Concurrency Control in Storage Area Networks
+SP 311
+OP 324
+
+RT Journal Article
+ID 4756046
+A1 Tang,Li
+A1 Li,Jun
+A1 Li,Yanda
+A1 Shenker,Scott
+YR 2009
+T1 An investigation of the Internet's IP-layer connectivity
+JF Computer Communications
+VO 32
+SP 913
+OP 926
+IS 5
+
+RT Journal Article
+ID 39249732
+A1 Casado,Martín
+A1 Freedman,Michael,J.
+A1 Pettit,Justin
+A1 Luo,Jianying
+A1 Gude,Natasha
+A1 McKeown,Nick
+A1 Shenker,Scott
+YR 2009
+T1 Rethinking enterprise network control
+JF IEEE/ACM Transactions on Networking
+VO 17
+SP 1270
+OP 1283
+IS 4
+
+RT Journal Article
+ID 5168830
+A1 Ananthanarayanan,Ganesh
+A1 Heimerl,Kurtis
+A1 Zaharia,Matei
+A1 Demmer,Michael
+A1 Koponen,Teemu
+A1 Tavakoli,Arsalan
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2009
+T1 A New Communications API
+
+RT Journal Article
+ID 4362431
+A1 Mckeown,Nick
+A1 Anderson,Tom
+A1 Balakrishnan,Hari
+A1 Parulkar,Guru,M.
+A1 Peterson,Larry,L.
+A1 Rexford,Jennifer
+A1 Shenker,Scott
+A1 Turner,Jonathan,S.
+YR 2008
+T1 OpenFlow: enabling innovation in campus networks
+JF Computer Communication Review
+VO 38
+SP 69
+OP 74
+IS 2
+
+RT Journal Article
+ID 4755614
+A1 Gude,Natasha
+A1 Koponen,Teemu
+A1 Pettit,Justin
+A1 Pfaff,Ben
+A1 Casado,Martin
+A1 Mckeown,Nick
+A1 Shenker,Scott
+YR 2008
+T1 NOX: towards an operating system for networks
+JF Computer Communication Review
+VO 38
+SP 105
+OP 110
+IS 3
+
+RT Conference Proceedings
+ID 4316118
+A1 Andersen,David,G.
+A1 Balakrishnan,Hari
+A1 Feamster,Nick
+A1 Koponen,Teemu
+A1 Moon,Daekyeong
+A1 Shenker,Scott
+YR 2008
+T1 Accountable internet protocol (aip)
+SP 339
+OP 350
+
+RT Conference Proceedings
+ID 4316105
+A1 Anand,Ashok
+A1 Gupta,Archit
+A1 Akella,Aditya
+A1 Seshan,Srinivasan
+A1 Shenker,Scott
+YR 2008
+T1 Packet caches on routers: the implications of universal redundant traffic elimination
+SP 219
+OP 230
+
+RT Journal Article
+ID 4361671
+A1 Levis,Philip
+A1 Brewer,Eric,A.
+A1 Culler,David,E.
+A1 Gay,David
+A1 Madden,Samuel
+A1 Patel,Neil
+A1 Polastre,Joseph
+A1 Shenker,Scott
+A1 Szewczyk,Robert
+A1 Woo,Alec
+YR 2008
+T1 The emergence of a networking primitive in wireless sensor networks
+JF Communications of The ACM
+VO 51
+SP 99
+OP 106
+IS 7
+
+RT Conference Proceedings
+ID 4732836
+A1 Chun,Byung-gon
+A1 Maniatis,Petros
+A1 Shenker,Scott
+YR 2008
+T1 Diverse Replication for Single-Machine Byzantine-Fault Tolerance
+SP 287
+OP 292
+
+RT Journal Article
+ID 6233972
+A1 Tavakoli,Arsalan
+A1 Culler,David
+A1 Shenker,Scott
+YR 2008
+T1 The Case for Predicate-Oriented Debugging of Sensornets
+
+RT Conference Proceedings
+ID 4288949
+A1 Dutta,Prabal
+A1 Culler,David,E.
+A1 Shenker,Scott
+YR 2008
+T1 Asynchronous Neighbor Discovery: Finding Needles of Connectivity in Haystacks of Time
+SP 531
+OP 532
+
+RT Journal Article
+ID 6250335
+A1 Chun,Byung-Gon
+A1 Chen,Kuang
+A1 Lee,Gunho
+A1 Katz,Randy,H.
+A1 Shenker,Scott
+YR 2008
+T1 D3: Declarative Distributed Debugging
+
+RT Journal Article
+ID 14416746
+A1 Andersen,David,G.
+A1 Balakrishnan,Hari
+A1 Feamster,Nick
+A1 Koponen,Teemu
+A1 Moon,Daekyeong
+A1 Shenker,Scott
+YR 2008
+T1 Accountable internet protocol (aip)
+JF Computer Communication Review
+VO 38
+SP 339
+OP 350
+IS 4
+
+RT Journal Article
+ID 14416734
+A1 Anand,Ashok
+A1 Gupta,Archit
+A1 Akella,Aditya
+A1 Seshan,Srinivasan
+A1 Shenker,Scott
+YR 2008
+T1 Packet caches on routers: the implications of universal redundant traffic elimination
+JF Computer Communication Review
+VO 38
+SP 219
+OP 230
+IS 4
+
+RT Conference Proceedings
+ID 4316078
+A1 Koponen,Teemu
+A1 Chawla,Mohit
+A1 Chun,Byung-gon
+A1 Ermolinskiy,Andrey
+A1 Kim,Kye,Hyun
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2007
+T1 A data-oriented (and beyond) network architecture
+SP 181
+OP 192
+
+RT Conference Proceedings
+ID 4316068
+A1 Casado,Martin
+A1 Freedman,Michael,J.
+A1 Pettit,Justin
+A1 Luo,Jianying
+A1 McKeown,Nick
+A1 Shenker,Scott
+YR 2007
+T1 Ethane: Taking Control of the Enterprise
+SP 1
+OP 12
+
+RT Conference Proceedings
+ID 4144502
+A1 Fonseca,Rodrigo
+A1 Porter,George
+A1 Katz,Randy,H.
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2007
+T1 X-Trace: A Pervasive Network Tracing Framework
+
+RT Conference Proceedings
+ID 4315179
+A1 Kim,Sukun
+A1 Fonseca,Rodrigo
+A1 Dutta,Prabal
+A1 Tavakoli,Arsalan
+A1 Culler,David,E.
+A1 Levis,Philip
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2007
+T1 Flush: a reliable bulk transport protocol for multihop wireless networks
+SP 351
+OP 365
+
+RT Conference Proceedings
+ID 3877073
+A1 Chu,David
+A1 Popa,Lucian
+A1 Tavakoli,Arsalan
+A1 Hellerstein,Joseph,M.
+A1 Levis,Philip
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2007
+T1 The design and implementation of a declarative sensor network system
+SP 175
+OP 188
+
+RT Conference Proceedings
+ID 4316079
+A1 Lakshminarayanan,Karthik
+A1 Caesar,Matthew
+A1 Rangan,Murali
+A1 Anderson,Tom
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2007
+T1 Achieving convergence-free routing using failure-carrying packets
+SP 241
+OP 252
+
+RT Conference Proceedings
+ID 4319387
+A1 Chun,Byung-gon
+A1 Maniatis,Petros
+A1 Shenker,Scott
+A1 Kubiatowicz,John
+YR 2007
+T1 Attested append-only memory: making adversaries stick to their word
+SP 189
+OP 204
+
+RT Journal Article
+ID 4658046
+A1 Jiang,Xiaofan
+A1 Taneja,Jay
+A1 Ortiz,Jorge
+A1 Tavakoli,Arsalan
+A1 Dutta,Prabal
+A1 Jeong,Jaein
+A1 Culler,David
+A1 Levis,Philip
+A1 Shenker,Scott
+YR 2007
+T1 An architecture for energy management in wireless sensor networks
+JF ACM Sigbed Review
+VO 4
+SP 31
+OP 36
+IS 3
+
+RT Conference Proceedings
+ID 4316070
+A1 Ee,Cheng,Tien
+A1 Ramachandran,Vijay
+A1 Chun,Byung-gon
+A1 Lakshminarayanan,Kaushik
+A1 Shenker,Scott
+YR 2007
+T1 Resolving inter-domain policy disputes
+SP 157
+OP 168
+
+RT Conference Proceedings
+ID 4278735
+A1 Argyraki,Katerina,J.
+A1 Maniatis,Petros
+A1 Irzak,O.
+A1 Ashish,S.
+A1 Shenker,Scott
+YR 2007
+T1 Loss and Delay Accountability for the Internet
+SP 194
+OP 205
+
+RT Journal Article
+ID 14427283
+A1 Tavakoli,Arsalan
+A1 Dutta,Prabal
+A1 Jeong,Jaein
+A1 Kim,Sukun
+A1 Ortiz,Jorge
+A1 Culler,David
+A1 Levis,Phillip
+A1 Shenker,Scott
+YR 2007
+T1 A modular sensornet architecture: past, present, and future directions
+JF ACM Sigbed Review
+VO 4
+SP 49
+OP 54
+IS 3
+
+RT Journal Article
+ID 4573857
+A1 Tavakoli,Arsalan
+A1 Chu,David
+A1 Hellerstein,Joseph,M.
+A1 Levis,Phillip
+A1 Shenker,Scott
+YR 2007
+T1 A declarative sensornet architecture
+JF ACM Sigbed Review
+VO 4
+SP 55
+OP 60
+IS 3
+
+RT Journal Article
+ID 4399426
+A1 Feldman,Michal
+A1 Chuang,John
+A1 Stoica,Ion
+A1 Shenker,Scott
+YR 2007
+T1 Hidden-Action in Network Routing
+JF IEEE Journal on Selected Areas in Communications
+VO 25
+SP 1161
+OP 1172
+IS 6
+
+RT Journal Article
+ID 14416678
+A1 Koponen,Teemu
+A1 Chawla,Mohit
+A1 Chun,Byung-Gon
+A1 Ermolinskiy,Andrey
+A1 Kim,Kye,Hyun
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2007
+T1 A data-oriented (and beyond) network architecture
+JF Computer Communication Review
+VO 37
+SP 181
+OP 192
+IS 4
+
+RT Journal Article
+ID 4116018
+A1 Ee,Cheng,Tien
+A1 Lee,John
+A1 Maltz,Dave
+A1 Shenker,Scott
+A1 Subramanian,Lakshminarayanan
+YR 2007
+T1 Simplifying Access Control in Enterprise Networks
+
+RT Journal Article
+ID 14416683
+A1 Lakshminarayanan,Karthik
+A1 Caesar,Matthew
+A1 Rangan,Murali
+A1 Anderson,Tom
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2007
+T1 Achieving convergence-free routing using failure-carrying packets
+JF Computer Communication Review
+VO 37
+SP 241
+OP 252
+IS 4
+
+RT Journal Article
+ID 14416670
+A1 Casado,Martin
+A1 Freedman,Michael,J.
+A1 Pettit,Justin
+A1 Luo,Jianying
+A1 McKeown,Nick
+A1 Shenker,Scott
+YR 2007
+T1 Ethane: taking control of the enterprise
+JF Computer Communication Review
+VO 37
+SP 1
+OP 12
+IS 4
+
+RT Journal Article
+ID 14416676
+A1 Ee,Cheng,Tien
+A1 Ramachandran,Vijay
+A1 Chun,Byung-Gon
+A1 Lakshminarayanan,Kaushik
+A1 Shenker,Scott
+YR 2007
+T1 Resolving inter-domain policy disputes
+JF Computer Communication Review
+VO 37
+SP 157
+OP 168
+IS 4
+
+RT Journal Article
+ID 14417858
+A1 Chun,Byung-Gon
+A1 Maniatis,Petros
+A1 Shenker,Scott
+A1 Kubiatowicz,John
+YR 2007
+T1 Attested append-only memory: making adversaries stick to their word
+JF Operating Systems Review
+VO 41
+SP 189
+OP 204
+IS 6
+
+RT Journal Article
+ID 14416620
+A1 Godfrey,P.,Brighten
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2006
+T1 Minimizing churn in distributed systems
+JF Computer Communication Review
+VO 36
+SP 147
+OP 158
+IS 4
+
+RT Conference Proceedings
+ID 3706542
+A1 Casado,Martin
+A1 Garfinkle,Tal
+A1 Akella,Aditya
+A1 Freedman,Michael,J.
+A1 Boneh,Dan
+A1 McKeown,Nick
+A1 Shenker,Scott
+YR 2006
+T1 SANE: A Protection Architecture for Enterprise Networks
+
+RT Conference Proceedings
+ID 2375454
+A1 Godfrey,Brighten
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2006
+T1 Minimizing churn in distributed systems
+SP 147
+OP 158
+
+RT Journal Article
+ID 2472055
+A1 Walfish,Michael
+A1 Vutukuru,Mythili
+A1 Balakrishnan,Hari
+A1 Karger,David,R.
+A1 Shenker,Scott
+YR 2006
+T1 DDoS defense by offense
+JF ACM Transactions on Computer Systems
+VO 28
+SP 303
+OP 314
+IS 1
+
+RT Conference Proceedings
+ID 2472049
+A1 Ratnasamy,Sylvia
+A1 Ermolinskiy,Andrey
+A1 Shenker,Scott
+YR 2006
+T1 Revisiting IP multicast
+SP 15
+OP 26
+
+RT Conference Proceedings
+ID 2465586
+A1 Ee,Cheng,Tien
+A1 Fonseca,Rodrigo
+A1 Kim,Sukun
+A1 Moon,Daekyeong
+A1 Tavakoli,Arsalan
+A1 Culler,David,E.
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2006
+T1 A Modular Network Layer for Sensornets
+SP 249
+OP 262
+
+RT Journal Article
+ID 2975815
+A1 Zheng,Changxi
+A1 Shen,Guobin
+A1 Li,Shipeng
+A1 Shenker,Scott
+YR 2006
+T1 Distributed Segment Tree: Support of Range Query and Cover Query over DHT
+
+RT Journal Article
+ID 1316838
+A1 Lakshminarayanan,Karthik
+A1 Stoica,Ion
+A1 Shenker,Scott
+A1 Rexford,Jennifer
+YR 2006
+T1 Routing as a Service
+
+RT Conference Proceedings
+ID 4126817
+A1 Walfish,Michael
+A1 Zamfirescu,J.,D.
+A1 Balakrishnan,Hari
+A1 Karger,David,R.
+A1 Shenker,Scott
+YR 2006
+T1 Distributed Quota Enforcement for Spam Control
+
+RT Journal Article
+ID 2517460
+A1 Kohler,Eddie
+A1 Li,Jinyang
+A1 Paxson,Vern
+A1 Shenker,Scott
+YR 2006
+T1 Observed structure of addresses in IP traffic
+JF IEEE/ACM Transactions on Networking
+VO 16
+SP 1207
+OP 1218
+IS 6
+
+RT Conference Proceedings
+ID 2471551
+A1 Kim,Young-jin
+A1 Govindan,Ramesh
+A1 Karp,Brad
+A1 Shenker,Scott
+YR 2006
+T1 Lazy cross-link removal for geographic routing
+SP 112
+OP 124
+
+RT Journal Article
+ID 2517419
+A1 Qiu,Lili
+A1 Yang,Yang,Richard
+A1 Zhang,Yin
+A1 Shenker,Scott
+YR 2006
+T1 On selfish routing in internet-like environments
+JF IEEE/ACM Transactions on Networking
+VO 14
+SP 725
+OP 738
+IS 4
+
+RT Conference Proceedings
+ID 2404198
+A1 Ee,Cheng,Tien
+A1 Ratnasamy,Sylvia
+A1 Shenker,Scott
+YR 2006
+T1 Practical Data-Centric Storage
+
+RT Conference Proceedings
+ID 2448080
+A1 Kannan,Jayanthkumar
+A1 Yang,Beverly
+A1 Shenker,Scott
+A1 Sharma,Puneet
+A1 Banerjee,Sujata
+A1 Basu,Sujoy
+A1 Lee,Sung-ju
+YR 2006
+T1 SmartSeer: Using a DHT to Process Continuous Queries Over Peer-to-Peer Networks
+SP 1
+OP 12
+
+RT Journal Article
+ID 1689945
+A1 Lakshminarayanan,Karthik
+A1 Rao,Ananth
+A1 Stoica,Ion
+A1 Shenker,Scott
+YR 2006
+T1 End-host controlled multicast routing
+JF Computer Networks
+VO 50
+SP 807
+OP 825
+IS 6
+
+RT Conference Proceedings
+ID 2595609
+A1 Ee,C.
+A1 Fonseca,R.
+A1 Kim,S.
+A1 Tavakoli,A.
+A1 Culler,D.
+A1 Shenker,S.
+A1 Stoica,I.
+YR 2006
+T1 A Network Layer Architecture for Sensornets
+
+RT Journal Article
+ID 2362017
+A1 Freedman,Michael,J.
+A1 Stoica,Ion
+A1 Mazi'eres,David
+A1 Shenker,Scott
+YR 2006
+T1 Group Therapy for Systems: Using link-attestations to manage failures
+
+RT Conference Proceedings
+ID 2475012
+A1 Geels,Dennis
+A1 Altekar,Gautam
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2006
+T1 Replay Debugging for Distributed Applications (Awarded Best Paper!)
+SP 289
+OP 300
+
+RT Journal Article
+ID 14416636
+A1 Walfish,Michael
+A1 Vutukuru,Mythili
+A1 Balakrishnan,Hari
+A1 Karger,David
+A1 Shenker,Scott
+YR 2006
+T1 DDoS defense by offense
+JF Computer Communication Review
+VO 36
+SP 303
+OP 314
+IS 4
+
+RT Journal Article
+ID 39249386
+A1 Kohler,Eddie
+A1 Li,Jinyang
+A1 Paxson,Vern
+A1 Shenker,Scott
+YR 2006
+T1 Observed structure of addresses in IP traffic
+JF IEEE/ACM Transactions on Networking
+VO 14
+SP 1207
+OP 1218
+IS 6
+
+RT Journal Article
+ID 14416621
+A1 Ratnasamy,Sylvia
+A1 Ermolinskiy,Andrey
+A1 Shenker,Scott
+YR 2006
+T1 Revisiting IP multicast
+JF Computer Communication Review
+VO 36
+SP 15
+OP 26
+IS 4
+
+RT Journal Article
+ID 2171063
+A1 Mehta,Aranyak
+A1 Shenker,Scott
+A1 Vazirani,Vijay,V.
+YR 2006
+T1 Posted price profit maximization for multicast by approximating fixed points
+JF Journal of Algorithms
+VO 58
+SP 150
+OP 164
+IS 2
+
+RT Journal Article
+ID 39249367
+A1 Qiu,Lili
+A1 Yang,Yang,Richard
+A1 Zhang,Yin
+A1 Shenker,Scott
+YR 2006
+T1 On selfish routing in internet-like environments
+JF IEEE/ACM Transactions on Networking
+VO 14
+SP 725
+OP 738
+IS 4
+
+RT Journal Article
+ID 4428300
+A1 Bian,Fang
+A1 Li,Xin
+A1 Govindan,Ramesh
+A1 Shenker,Scott
+YR 2006
+T1 Using hierarchical location names for scalable routing and rendezvous in wireless sensor networks
+JF International Journal of Ad Hoc and Ubiquitous Computing
+VO 1
+SP 179
+OP 193
+IS 4
+
+RT Conference Proceedings
+ID 1968401
+A1 Rhea,Sean,C.
+A1 Godfrey,Brighten
+A1 Karp,Brad
+A1 Kubiatowicz,John
+A1 Ratnasamy,Sylvia
+A1 Shenker,Scott
+A1 Stoica,Ion
+A1 Yu,Harlan
+YR 2005
+T1 OpenDHT: a public DHT service and its uses
+SP 73
+OP 84
+
+RT Journal Article
+ID 1610875
+A1 Anderson,Thomas,E.
+A1 Peterson,Larry,L.
+A1 Shenker,Scott
+A1 Turner,Jonathan,S.
+YR 2005
+T1 Overcoming the Internet Impasse through Virtualization
+JF IEEE Computer
+VO 38
+SP 34
+OP 41
+IS 4
+
+RT Conference Proceedings
+ID 1900843
+A1 Polastre,Joseph
+A1 Hui,Jonathan
+A1 Levis,Philip
+A1 Zhao,Jerry
+A1 Culler,David,E.
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2005
+T1 A unifying link abstraction for wireless sensor networks
+SP 76
+OP 89
+
+RT Conference Proceedings
+ID 2371873
+A1 Kim,Young-jin
+A1 Govindan,Ramesh
+A1 Karp,Brad
+A1 Shenker,Scott
+YR 2005
+T1 Geographic Routing Made Practical
+SP 217
+OP 230
+
+RT Conference Proceedings
+ID 2366408
+A1 Fonseca,Rodrigo
+A1 Ratnasamy,Sylvia
+A1 Zhao,Jerry
+A1 Ee,Cheng,Tien
+A1 Culler,David,E.
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2005
+T1 Beacon Vector Routing: Scalable Point-to-Point Routing in Wireless Sensornets
+SP 329
+OP 342
+
+RT Conference Proceedings
+ID 2192353
+A1 Subramanian,Lakshminarayanan
+A1 Caesar,Matthew
+A1 Ee,Cheng,Tien
+A1 Handley,Mark
+A1 Mao,Zhuoqing,Morley
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2005
+T1 HLP: a next generation inter-domain routing protocol
+SP 13
+OP 24
+
+RT Conference Proceedings
+ID 2139259
+A1 Huebsch,Ryan
+A1 Chun,Brent,N.
+A1 Hellerstein,Joseph,M.
+A1 Loo,Boon,Thau
+A1 Maniatis,Petros
+A1 Roscoe,Timothy
+A1 Shenker,Scott
+A1 Stoica,Ion
+A1 Yumerefendi,Aydan,R.
+YR 2005
+T1 The Architecture of PIER: an Internet-Scale Query Processor
+SP 28
+OP 43
+
+RT Journal Article
+ID 2192356
+A1 Chawathe,Yatin
+A1 Ramabhadran,Sriram
+A1 Ratnasamy,Sylvia
+A1 LaMarca,Anthony
+A1 Shenker,Scott
+A1 Hellerstein,Joseph,M.
+YR 2005
+T1 A case study in building layered DHT applications
+JF Computer Communication Review
+VO 35
+SP 97
+OP 108
+IS 4
+
+RT Conference Proceedings
+ID 2301970
+A1 Culler,David,E.
+A1 Dutta,Prabal
+A1 Ee,Cheng,Tien
+A1 Fonseca,Rodrigo
+A1 Hui,Jonathan
+A1 Levis,Philip
+A1 Polastre,Joseph
+A1 Shenker,Scott
+A1 Stoica,Ion
+A1 Tolle,Gilman
+A1 Zhao,Jerry
+YR 2005
+T1 Towards a Sensor Network Architecture: Lowering the Waistline
+
+RT Journal Article
+ID 1689995
+A1 Feigenbaum,Joan
+A1 Papadimitriou,Christos,H.
+A1 Sami,Rahul
+A1 Shenker,Scott
+YR 2005
+T1 A BGP-based mechanism for lowest-cost routing
+JF Distributed Computing
+VO 18
+SP 61
+OP 72
+IS 1
+
+RT Journal Article
+ID 2395950
+A1 Rhea,Sean
+A1 Chun,Byung-Gon
+A1 Kubiatowicz,John
+A1 Shenker,Scott
+YR 2005
+T1 Fixing the Embarrassing Slowness of OpenDHT on PlanetLab
+
+RT Conference Proceedings
+ID 1823937
+A1 Kim,Young-Jin
+A1 Govindan,Ramesh
+A1 Karp,Brad
+A1 Shenker,Scott
+YR 2005
+T1 On the pitfalls of geographic face routing
+SP 34
+OP 43
+
+RT Book, Whole
+ID 2147141
+A1 Stribling,Jeremy
+A1 Councill,Isaac,G.
+A1 Li,Jinyang
+A1 Kaashoek,M.,Frans
+A1 Karger,David,R.
+A1 Morris,Robert
+A1 Shenker,Scott
+YR 2005
+T1 OverCite: A Cooperative Digital Research Library
+SP 69
+OP 79
+
+RT Conference Proceedings
+ID 1238722
+A1 Feldman,Michal
+A1 Chuang,John
+A1 Stoica,Ion
+A1 Shenker,Scott
+YR 2005
+T1 Hidden-action in multi-hop routing
+SP 117
+OP 126
+
+RT Journal Article
+ID 2192349
+A1 Ratnasamy,Sylvia
+A1 Shenker,Scott
+A1 McCanne,Steven
+YR 2005
+T1 Towards an evolvable internet architecture
+JF Computer Communication Review
+VO 35
+SP 313
+OP 324
+IS 4
+
+RT Conference Proceedings
+ID 1812861
+A1 Subramanian,Lakshminarayanan
+A1 Katz,Randy,H.
+A1 Roth,Volker
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2005
+T1 Reliable broadcast in unknown fixed-identity networks
+SP 342
+OP 351
+
+RT Journal Article
+ID 2369397
+A1 Walfish,Michael
+A1 Balakrishnan,Hari
+A1 Karger,David
+A1 Shenker,Scott
+YR 2005
+T1 DoS: Fighting Fire with Fire
+
+RT Book, Whole
+ID 1835040
+A1 Balakrishnan,Hari
+A1 Shenker,Scott
+A1 Walfish,Michael
+YR 2005
+T1 Peering Peer-to-Peer Providers
+SP 104
+OP 114
+
+RT Journal Article
+ID 1727006
+A1 Zhuang,Shelley
+A1 Lai,Kevin
+A1 Stoica,Ion
+A1 Katz,Randy,H.
+A1 Shenker,Scott
+YR 2005
+T1 Host Mobility Using an Internet Indirection Infrastructure
+JF Wireless Networks
+VO 11
+SP 741
+OP 756
+IS 6
+
+RT Journal Article
+ID 5355492
+A1 Fonseca,Rodrigo
+A1 Porter,George,Manning
+A1 Katz,Randy,H.
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2005
+T1 IP Options are not an option
+
+RT Journal Article
+ID 2985318
+A1 Balakrishnan,H.
+A1 Karger,D.
+A1 Shenker,S.
+YR 2005
+T1 Dos: Fighting 炉re with 炉re
+
+RT Journal Article
+ID 1711355
+A1 Hellerstein,Joseph,M.
+A1 Paxson,Vern
+A1 Peterson,Larry,L.
+A1 Roscoe,Timothy
+A1 Shenker,Scott
+A1 Wetherall,David
+YR 2005
+T1 The Network Oracle
+JF IEEE Data(base) Engineering Bulletin
+VO 28
+SP 3
+OP 10
+IS 1
+
+RT Journal Article
+ID 3106313
+A1 Bergemann,Dirk
+A1 Eisenbach,Thomas
+A1 Feigenbaum,Joan
+A1 Shenker,Scott
+YR 2005
+T1 Flexibility as an Instrument in Digital Rights Management
+
+RT Journal Article
+ID 3754841
+A1 Kannan,J.
+A1 Yang,B.
+A1 Shenker,S.
+A1 Sharma,P.
+A1 Baner-jee,S.
+A1 Basu,S.
+A1 Lee,S.,J.
+YR 2005
+T1 SmartSeer: Continuous queries over CiteSeer
+
+RT Book, Whole
+ID 1839842
+A1 Katz,Randy,H.
+A1 Porter,George
+A1 Shenker,Scott
+A1 Stoica,Ion
+A1 Tsai,Mel
+YR 2005
+T1 COPS: Quality of Service vs. Any Service at All
+SP 3
+OP 15
+
+RT Journal Article
+ID 5673391
+A1 Sankararaman,Sriram
+A1 Chun,Byung-Gon
+A1 Yatin,Chawathe
+A1 Shenker,Scott
+YR 2005
+T1 Key Consistency in DHTs
+
+RT Journal Article
+ID 14416600
+A1 Rhea,Sean
+A1 Godfrey,Brighten
+A1 Karp,Brad
+A1 Kubiatowicz,John
+A1 Ratnasamy,Sylvia
+A1 Shenker,Scott
+A1 Stoica,Ion
+A1 Yu,Harlan
+YR 2005
+T1 OpenDHT: a public DHT service and its uses
+JF Computer Communication Review
+VO 35
+SP 73
+OP 84
+IS 4
+
+RT Journal Article
+ID 57393870
+A1 Rhea,Sean
+A1 Godfrey,Brighten
+A1 Karp,Brad
+A1 Kubiatowicz,John
+A1 Ratnasamy,Sylvia
+A1 Shenker,Scott
+A1 Stoica,Ion
+A1 Yu,Harlan
+YR 2005
+T1 OpenDHT: a public DHT service and its uses
+
+RT Journal Article
+ID 10255294
+A1 Chawathe,Yatin
+A1 Ramabhadran,Sriram
+A1 Ratnasamy,Sylvia
+A1 LaMarca,Anthony
+A1 Shenker,Scott
+A1 Hellerstein,Joseph
+YR 2005
+T1 A case study in building layered DHT applications
+JF Computer Communication Review
+SP 97
+OP 108
+
+RT Journal Article
+ID 39212575
+A1 Ratnasamy,Sylvia
+A1 Shenker,Scott
+A1 McCanne,Steven
+YR 2005
+T1 Towards an evolvable internet architecture
+JF Computer Communication Review
+SP 313
+OP 324
+
+RT Conference Proceedings
+ID 13322555
+A1 Voelker,Geoffrey,M.
+A1 Shenker,Scott
+YR 2005
+T1 Peer-to-Peer Systems III, Third International Workshop, IPTPS 2004, La Jolla, CA, USA, February 26-27, 2004, Revised Selected Papers
+
+RT Book, Whole
+ID 4288979
+A1 Karp,Brad
+A1 Ratnasamy,Sylvia
+A1 Rhea,Sean,C.
+A1 Shenker,Scott
+YR 2004
+T1 Spurring Adoption of DHTs with OpenHash, a Public DHT Service
+SP 195
+OP 205
+
+RT Conference Proceedings
+ID 2411191
+A1 Levis,P.
+A1 Patel,N.
+A1 Culler,D.
+A1 Shenker,S.
+YR 2004
+T1 Trickle: A self-regulating algorithm for code propagation and maintenance in wireless sensor networks
+
+RT Journal Article
+ID 1238172
+A1 Balakrishnan,Hari
+A1 Lakshminarayanan,Karthik
+A1 Ratnasamy,Sylvia
+A1 Shenker,Scott
+A1 Stoica,Ion
+A1 Walfish,Michael
+YR 2004
+T1 A layered naming architecture for the internet
+JF Computer Communication Review
+VO 34
+SP 343
+OP 352
+IS 4
+
+RT Journal Article
+ID 893866
+A1 Stoica,Ion
+A1 Adkins,Daniel
+A1 Zhuang,Shelley
+A1 Shenker,Scott
+A1 Surana,Sonesh
+YR 2004
+T1 Internet indirection infrastructure
+JF IEEE/ACM Transactions on Networking
+VO 12
+SP 205
+OP 218
+IS 2
+
+RT Journal Article
+ID 1942056
+A1 Levis,P.
+A1 Patel,N.
+A1 Culler,D.
+A1 Shenker,S.
+YR 2004
+T1 Trickle: a self-regulating algorithm for code propagation
+
+RT Conference Proceedings
+ID 3333176
+A1 Subramanian,Lakshminarayanan
+A1 Roth,Volker
+A1 Stoica,Ion
+A1 Shenker,Scott
+A1 Katz,Randy,H.
+YR 2004
+T1 Listen and Whisper: Security Mechanisms for BGP
+
+RT Conference Proceedings
+ID 1255369
+A1 Walfish,Michael
+A1 Stribling,Jeremy
+A1 Krohn,Maxwell,N.
+A1 Balakrishnan,Hari
+A1 Morris,Robert
+A1 Shenker,Scott
+YR 2004
+T1 Middleboxes No Longer Considered Harmful
+SP 215
+OP 230
+
+RT Conference Proceedings
+ID 2199289
+A1 Walfish,Michael
+A1 Balakrishnan,Hari
+A1 Shenker,Scott,J.
+YR 2004
+T1 Untangling the Web from DNS
+SP 225
+OP 238
+
+RT Journal Article
+ID 2148332
+A1 Peterson,Larry
+A1 Shenker,Scott
+A1 Turner,Jonathan
+YR 2004
+T1 Overcoming the Internet Impasse through Virtualization
+
+RT Conference Proceedings
+ID 579323
+A1 Loo,Boon,Thau
+A1 Hellerstein,Joseph,M.
+A1 Huebsch,Ryan
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2004
+T1 Enhancing P2P file-sharing with an internet-scale query processor
+SP 432
+OP 443
+
+RT Conference Proceedings
+ID 2326472
+A1 Fonseca,R.
+A1 Ratnasamy,S.
+A1 Culler,D.
+A1 Shenker,S.
+A1 Stoica,I.
+YR 2004
+T1 Beacon vector routing: Scalable point-to-point in wireless sensornets
+
+RT Conference Proceedings
+ID 1255944
+A1 Karp,B.
+A1 Ratnasamy,S.
+A1 Rhea,S.
+A1 Shenker,S.
+YR 2004
+T1 Spurring adoption of dhts with openhash
+
+RT Conference Proceedings
+ID 911003
+A1 Feigenbaum,Joan
+A1 Sami,Rahul
+A1 Shenker,Scott
+YR 2004
+T1 Mechanism design for policy routing
+SP 11
+OP 20
+
+RT Conference Proceedings
+ID 911045
+A1 Ramabhadran,Sriram
+A1 Ratnasamy,Sylvia
+A1 Hellerstein,Joseph,M.
+A1 Shenker,Scott
+YR 2004
+T1 Brief announcement: prefix hash tree
+SP 368
+OP 368
+
+RT Journal Article
+ID 36462917
+A1 Archer,Aaron
+A1 Feigenbaum,Joan
+A1 Krishnamurthy,Arvind
+A1 Sami,Rahul
+A1 Shenker,Scott
+YR 2004
+T1 Approximation and collusion in multicast cost sharing
+JF Games and Economic Behavior
+VO 47
+SP 36
+OP 71
+IS 1
+
+RT Book, Whole
+ID 625110
+A1 Elson,Jeremy
+A1 Karp,Richard,M.
+A1 Papadimitriou,Christos,H.
+A1 Shenker,Scott
+YR 2004
+T1 Global Synchronization in Sensornets
+SP 609
+OP 624
+
+RT Conference Proceedings
+ID 1241393
+A1 Kim,Young-Jin
+A1 Govindan,Ramesh
+A1 Karp,Brad
+A1 Shenker,Scott
+YR 2004
+T1 Practical and robust geographic routing in wireless networks
+SP 295
+OP 296
+
+RT Journal Article
+ID 2284607
+A1 Gummadi,Ramakrishna
+A1 Govindan,Ramesh
+A1 Kothari,Nupur
+A1 Karp,Brad
+A1 Kim,Young-jin
+A1 Shenker,Scott
+YR 2004
+T1 Reduced State Routing in the Internet
+
+RT Journal Article
+ID 4875052
+A1 Friedman,Eric
+A1 Shor,Mikhael
+A1 Shenker,Scott
+A1 Sopher,Barry
+YR 2004
+T1 An experiment on learning with limited information: nonconvergence, experimentation cascades, and the advantage of being slow
+JF Games and Economic Behavior
+VO 47
+SP 325
+OP 352
+IS 2
+
+RT Conference Proceedings
+ID 1884275
+A1 Subramanian,Lakshminarayanan
+A1 Roth,Volker
+A1 Stoica,Ion
+A1 Shenker,Scott
+A1 Katz,Randy,H.
+YR 2004
+T1 Listen and Whisper: Security Mechanisms for BGP (Awarded Best Student Paper!)
+SP 127
+OP 140
+
+RT Journal Article
+ID 2384424
+A1 Subramanian,Lakshminarayanan
+A1 Caesar,Matthew
+A1 Ee,Tien
+A1 Handley,Mark
+A1 Mao,Morley
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2004
+T1 Towards a Next Generation Inter-domain Routing Protocol
+
+RT Conference Proceedings
+ID 1241398
+A1 Bian,Fang
+A1 Govindan,Ramesh
+A1 Shenker,Scott,J.
+A1 Li,Xin
+YR 2004
+T1 Using hierarchical location names for scalable routing and rendezvous in wireless sensor networks
+SP 305
+OP 306
+
+RT Journal Article
+ID 2333003
+A1 Bergemann,D.
+A1 Feigenbaum,J.
+A1 Shenker,S.
+A1 Smith,J.
+YR 2004
+T1 Towards an Economic Analysis of Trusted Systems
+
+RT Conference Proceedings
+ID 917820
+A1 Chun,Brent,N.
+A1 Hellerstein,Joseph,M.
+A1 Huebsch,Ryan
+A1 Jeffery,Shawn,R.
+A1 Loo,Boon,Thau
+A1 Mardanbeigi,Sam
+A1 Roscoe,Timothy
+A1 Rhea,Sean,C.
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2004
+T1 Querying at Internet scale
+SP 935
+OP 936
+
+RT Conference Proceedings
+ID 4305304
+A1 Levis,Philip
+A1 Patel,Neil
+A1 Culler,David,E.
+A1 Shenker,Scott
+YR 2004
+T1 Trickle: A Self-Regulating Algorithm for Code Propagation and Maintenance in Wireless Sensor Networks (Awarded Best Paper!)
+SP 15
+OP 28
+
+RT Journal Article
+ID 2909222
+A1 Culler,D.
+A1 Shenker,S.
+A1 Stoica,I.
+YR 2004
+T1 Creating an architecture for wireless sensor networks
+
+RT Journal Article
+ID 2699975
+A1 Friedman,E.
+A1 Shor,M.
+A1 Shenker,S.
+A1 Sopher,B.
+YR 2004
+T1 An experi-ment on learning with limited information: Nonconvergence
+
+RT Journal Article
+ID 39212558
+A1 Balakrishnan,Hari
+A1 Lakshminarayanan,Karthik
+A1 Ratnasamy,Sylvia
+A1 Shenker,Scott
+A1 Stoica,Ion
+A1 Walfish,Michael
+YR 2004
+T1 A layered naming architecture for the internet
+JF Computer Communication Review
+SP 343
+OP 352
+
+RT Journal Article
+ID 57393946
+A1 Stoica,Ion
+A1 Adkins,Daniel
+A1 Zhuang,Shelley
+A1 Shenker,Scott
+A1 Surana,Sonesh
+YR 2004
+T1 Internet indirection infrastructure
+VO 12
+
+RT Conference Proceedings
+ID 638218
+A1 Chawathe,Yatin
+A1 Ratnasamy,Sylvia
+A1 Breslau,Lee
+A1 Lanham,Nick
+A1 Shenker,Scott
+YR 2003
+T1 Making gnutella-like P2P systems scalable
+SP 407
+OP 418
+
+RT Conference Proceedings
+ID 638213
+A1 Gummadi,K.
+A1 Gummadi,Ramakrishna
+A1 Gribble,Steven,D.
+A1 Ratnasamy,Sylvia
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2003
+T1 The impact of DHT routing geometry on resilience and proximity
+SP 381
+OP 394
+
+RT Conference Proceedings
+ID 653194
+A1 Rao,Ananth
+A1 Ratnasamy,Sylvia
+A1 Papadimitriou,Christos
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2003
+T1 Geographic routing without location information
+SP 96
+OP 108
+
+RT Journal Article
+ID 724094
+A1 Shenker,Scott
+A1 Ratnasamy,Sylvia
+A1 Karp,Brad
+A1 Govindan,Ramesh
+A1 Estrin,Deborah
+YR 2003
+T1 Data-centric storage in sensornets
+JF Computer Communication Review
+VO 33
+SP 137
+OP 142
+IS 1
+
+RT Conference Proceedings
+ID 579095
+A1 Huebsch,Ryan
+A1 Hellerstein,Joseph,M.
+A1 Lanham,Nick
+A1 Loo,Boon,Thau
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2003
+T1 Querying the Internet with PIER
+SP 321
+OP 332
+
+RT Journal Article
+ID 38184
+A1 Ratnasamy,Sylvia
+A1 Karp,Brad
+A1 Shenker,Scott
+A1 Estrin,Deborah
+A1 Govindan,Ramesh
+A1 Yin,Li
+A1 Yu,Fang
+YR 2003
+T1 Data-Centric Storage in Sensornets with GHT, a Geographic Hash Table
+JF Mobile Networks and Applications
+VO 8
+SP 427
+OP 442
+IS 4
+
+RT Journal Article
+ID 765357
+A1 Stoica,Ion
+A1 Shenker,Scott
+A1 Zhang,Hui
+YR 2003
+T1 Core stateless fair queueing: a scalable architecture to approximate fair bandwidth allocations in high-speed networks
+JF IEEE/ACM Transactions on Networking
+VO 11
+SP 33
+OP 46
+IS 1
+
+RT Journal Article
+ID 35941
+A1 Karp,Richard,M.
+A1 Shenker,Scott
+A1 Papadimitriou,Christos,H.
+YR 2003
+T1 A simple algorithm for finding frequent elements in streams and bags
+JF ACM Transactions on Database Systems
+VO 28
+SP 51
+OP 55
+IS 1
+
+RT Conference Proceedings
+ID 5717
+A1 Qiu,Lili
+A1 Yang,Yang,Richard
+A1 Zhang,Yin
+A1 Shenker,Scott
+YR 2003
+T1 On selfish routing in internet-like environments
+SP 151
+OP 162
+
+RT Conference Proceedings
+ID 564864
+A1 Fabrikant,Alex
+A1 Luthra,Ankur
+A1 Maneva,Elitza,N.
+A1 Papadimitriou,Christos,H.
+A1 Shenker,Scott
+YR 2003
+T1 On a network creation game
+SP 347
+OP 351
+
+RT Journal Article
+ID 2962681
+A1 Greenstein,Benjamin
+A1 Ratnasamy,Sylvia
+A1 Shenker,Scott
+A1 Govindan,Ramesh
+A1 Estrin,Deborah
+YR 2003
+T1 DIFS: a distributed index for features in sensor networks
+JF Ad Hoc Networks
+VO 1
+SP 333
+OP 349
+IS 2-3
+
+RT Journal Article
+ID 724112
+A1 Pan,Rong
+A1 Breslau,Lee
+A1 Prabhakar,Balaji
+A1 Shenker,Scott
+YR 2003
+T1 Approximate fairness through differential dropping
+JF Computer Communication Review
+VO 33
+SP 23
+OP 39
+IS 2
+
+RT Journal Article
+ID 29908
+A1 Karp,Richard
+A1 Elson,Jeremy
+A1 Estrin,Deborah
+A1 Shenker,Scott
+YR 2003
+T1 Optimal and Global Time Synchronization in Sensornets
+
+RT Conference Proceedings
+ID 653298
+A1 Zhuang,Shelley
+A1 Lai,Kevin
+A1 Stoica,Ion
+A1 Katz,Randy,H.
+A1 Shenker,Scott
+YR 2003
+T1 Host Mobility Using an Internet Indirection Infrastructure
+SP 129
+OP 144
+
+RT Journal Article
+ID 32378
+A1 Feigenbaum,Joan
+A1 Krishnamurthy,Arvind
+A1 Sami,Rahul
+A1 Shenker,Scott
+YR 2003
+T1 Hardness results for multicast cost sharing
+JF Theoretical Computer Science
+VO 1-3
+SP 215
+OP 236
+IS 304
+
+RT Journal Article
+ID 1395785
+A1 Kohler,E.
+A1 Handley,M.
+A1 Shenker,S.
+YR 2003
+T1 Datagram congestion control protocol (dccp)
+
+RT Conference Proceedings
+ID 638291
+A1 Feigenbaum,Joan
+A1 Krishnamurthy,Arvind
+A1 Sami,Rahul
+A1 Shenker,Scott
+YR 2003
+T1 Approximation and collusion in multicast cost sharing
+SP 280
+OP 280
+
+RT Journal Article
+ID 2135892
+A1 Karp,R.
+A1 Papadimitriou,C.
+A1 Shenker,S.
+YR 2003
+T1 A simple algorithm for nding frequent elements in sets and bags
+JF ACM Transactions on Database Systems
+
+RT Journal Article
+ID 2342576
+A1 Ratnasamy,Sylvia
+A1 Hellerstein,Joseph,M.
+A1 Shenker,Scott
+YR 2003
+T1 Range Queries over DHTs
+
+RT Book, Whole
+ID 33043
+A1 Balakrishnan,Hari
+A1 Shenker,Scott
+A1 Walfish,Michael
+YR 2003
+T1 Semantic-Free Referencing in Linked Distributed Systems
+SP 197
+OP 206
+
+RT Journal Article
+ID 3701083
+A1 Ratnasamy,Sylvia
+A1 Shenker,Scott,J.
+A1 Stoica,Ion
+YR 2003
+T1 Routing Algorithms for DHTs: Some Open Questions
+
+RT Journal Article
+ID 2366735
+A1 Lakshminarayanan,K.
+A1 Stoica,I.
+A1 Shenker,S.
+YR 2003
+T1 Building a flexible and efficient routing infrastructure: Need and challenges
+
+RT Journal Article
+ID 724141
+A1 Anderson,Thomas,E.
+A1 Shenker,Scott
+A1 Stoica,Ion
+A1 Wetherall,David
+YR 2003
+T1 Design guidelines for robust Internet protocols
+JF Computer Communication Review
+VO 33
+SP 125
+OP 130
+IS 1
+
+RT Journal Article
+ID 1354333
+A1 Braden,B.
+A1 Chiappa,N.
+A1 Clark,D.
+A1 Faber,T.
+A1 Falk,A.
+A1 Handley,M.
+A1 Shenker,S.
+A1 Sollins,K.
+A1 Wroclawski,J.
+YR 2003
+T1 Newarch project: future-generation internet architecture
+
+RT Conference Proceedings
+ID 3352069
+A1 Chawathe,Yatin
+A1 Ratnasamy,Sylvia
+A1 Breslau,Lee
+A1 Lanham,Nick
+A1 Shenker,Scott
+YR 2003
+T1 Making gnutella-like networks scalable
+
+RT Conference Proceedings
+ID 638303
+A1 Mehta,Aranyak
+A1 Shenker,Scott
+A1 Vazirani,Vijay,V.
+YR 2003
+T1 Profit-maximizing multicast pricing by approximating fixed points
+SP 218
+OP 219
+
+RT Journal Article
+ID 19744
+A1 Kelly,Tom
+A1 Floyd,Sally
+A1 Shenker,Scott
+YR 2003
+T1 Patterns of Congestion Collapse
+
+RT Conference Proceedings
+ID 3351668
+A1 Chawathe,Y.
+A1 Ratnasamy,S.
+A1 Breslau,L.
+A1 Lanham,N.
+A1 Shenker,S.
+YR 2003
+T1 Making Gnutella-like Peer-to-Peer Systems Scalable
+
+RT Journal Article
+ID 4192160
+A1 Karp,R.
+A1 Paradimitriou,C.
+A1 Shenker,S.
+YR 2003
+T1 A simple algorithm for finding elements in sets and bags
+JF ACM Transactions on Database Systems
+
+RT Conference Proceedings
+ID 50307556
+A1 Greenstein,Benjamin
+A1 Estrin,Deborah
+A1 Govindan,R.
+A1 Ratnasamy,S.
+A1 Shenker,S.
+YR 2003
+T1 DIFS: a distributed index for features in sensor networks
+
+RT Conference Proceedings
+ID 578852
+A1 Shenker,Scott
+YR 2003
+T1 The Data-Centric Revolution in Networking
+SP 15
+
+RT Journal Article
+ID 835565
+A1 Pan,Rong
+A1 Prabhakar,Balaji
+A1 Breslau,Lee
+A1 Shenker,Scott
+YR 2003
+T1 Approximate Fair Allocation of Link Bandwidth
+JF IEEE Micro
+VO 23
+SP 36
+OP 43
+IS 1
+
+RT Journal Article
+ID 3644031
+A1 Ratnasamay,S.
+A1 Hellerstein,J.,M.
+A1 Shenker,S.
+YR 2003
+T1 Range queries in DHTs
+
+RT Journal Article
+ID 57393991
+A1 Chawathe,Yatin
+A1 Ratnasamy,Sylvia
+A1 Breslau,Lee
+A1 Lanham,Nick
+A1 Shenker,Scott
+YR 2003
+T1 Making gnutella-like P2P systems scalable
+
+RT Journal Article
+ID 57393774
+A1 Gummadi,K.
+A1 Gummadi,R.
+A1 Gribble,S.
+A1 Ratnasamy,S.
+A1 Shenker,S.
+A1 Stoica,I.
+YR 2003
+T1 The impact of DHT routing geometry on resilience and proximity
+
+RT Journal Article
+ID 57393945
+A1 Zhuang,Shelley
+A1 Lai,Kevin
+A1 Stoica,Ion
+A1 Katz,Randy
+A1 Shenker,Scott
+YR 2003
+T1 Host Mobility Using an Internet Indirection Infrastructure
+
+RT Conference Proceedings
+ID 4452103
+A1 Mehta,Aranyak
+A1 Shenker,Scott
+A1 Vazirani,Vijay,V.
+YR 2003
+T1 Profit-maximizing multicast pricing by approximating fixed points [Extended Abstract]
+
+RT Journal Article
+ID 816632
+A1 Feigenbaum,Joan
+A1 Shenker,Scott
+YR 2003
+T1 Distributed algorithmic mechanism design: recent results and future directions, Distributed Computing Column
+JF Bulletin of The European Association for Theoretical Computer Science
+VO 79
+SP 101
+OP 121
+
+RT Journal Article
+ID 1606307
+A1 Zhang,Lixia
+A1 Deering,Stephen
+A1 Estrin,Deborah
+A1 Shenker,Scott
+A1 Zappala,Daniel
+YR 2002
+T1 RSVP: a new resource reservation protocol
+JF IEEE Communications Magazine
+VO 40
+SP 116
+OP 127
+IS 5
+
+RT Conference Proceedings
+ID 5503
+A1 Qin,Lv
+A1 Cao,Pei
+A1 Cohen,Edith
+A1 Li,Kai
+A1 Shenker,Scott
+YR 2002
+T1 Search and replication in unstructured peer-to-peer networks
+SP 84
+OP 95
+
+RT Journal Article
+ID 41451
+A1 Stoica,Ion
+A1 Adkins,Daniel
+A1 Ratnasamy,Sylvia
+A1 Shenker,Scott
+A1 Surana,Sonesh
+A1 Zhuang,Shelley
+YR 2002
+T1 Internet Indirection Infrastructure
+JF Computer Communication Review
+VO 32
+SP 191
+OP 202
+IS 4
+
+RT Conference Proceedings
+ID 77427
+A1 Ratnasamy,Sylvia
+A1 Handley,Mark
+A1 Karp,Richard,M.
+A1 Shenker,Scott
+YR 2002
+T1 Topologically-Aware Overlay Construction and Server Selection
+VO 3
+SP 1190
+
+RT Journal Article
+ID 39212518
+A1 Stoica,Ion
+A1 Adkins,Daniel
+A1 Zhuang,Shelley
+A1 Shenker,Scott
+A1 Surana,Sonesh
+YR 2002
+T1 Internet indirection infrastructure
+JF Computer Communication Review
+SP 73
+OP 86
+
+RT Conference Proceedings
+ID 47333
+A1 Ratnasamy,Sylvia
+A1 Karp,Brad
+A1 Yin,Li
+A1 Yu,Fang
+A1 Estrin,Deborah
+A1 Govindan,Ramesh
+A1 Shenker,Scott
+YR 2002
+T1 GHT: a geographic hash table for data-centric storage
+SP 78
+OP 87
+
+RT Journal Article
+ID 878969
+A1 Mahajan,Ratul
+A1 Bellovin,Steven,M.
+A1 Floyd,Sally
+A1 Ioannidis,John
+A1 Paxson,Vern
+A1 Shenker,Scott
+YR 2002
+T1 Controlling high bandwidth aggregates in the network
+JF Computer Communication Review
+VO 32
+SP 62
+OP 73
+IS 3
+
+RT Journal Article
+ID 52459
+A1 Cohen,Edith
+A1 Shenker,Scott
+YR 2002
+T1 Replication strategies in unstructured peer-to-peer networks
+JF Computer Communication Review
+VO 32
+SP 177
+OP 190
+IS 4
+
+RT Book, Whole
+ID 80995
+A1 Harren,Matthew
+A1 Hellerstein,Joseph,M.
+A1 Huebsch,Ryan
+A1 Loo,Boon,Thau
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2002
+T1 Complex Queries in DHT-based Peer-to-Peer Networks
+SP 242
+OP 259
+
+RT Conference Proceedings
+ID 61893
+A1 Tangmunarunkit,Hongsuda
+A1 Govindan,Ramesh
+A1 Jamin,Sugih
+A1 Shenker,Scott
+A1 Willinger,Walter
+YR 2002
+T1 Network topology generators: degree-based vs. structural
+SP 147
+OP 159
+
+RT Book, Whole
+ID 68739
+A1 Ratnasamy,Sylvia
+A1 Stoica,Ion
+A1 Shenker,Scott
+YR 2002
+T1 Routing Algorithms for DHTs: Some Open Questions
+SP 45
+OP 52
+
+RT Conference Proceedings
+ID 62498
+A1 Feigenbaum,Joan
+A1 Shenker,Scott
+YR 2002
+T1 Distributed algorithmic mechanism design: recent results and future directions
+SP 1
+OP 13
+
+RT Conference Proceedings
+ID 56478
+A1 Feigenbaum,Joan
+A1 Papadimitriou,Christos,H.
+A1 Sami,Rahul
+A1 Shenker,Scott
+YR 2002
+T1 A BGP-based mechanism for lowest-cost routing
+SP 173
+OP 182
+
+RT Conference Proceedings
+ID 80435
+A1 Chen,Qian
+A1 Chang,Hyunseok
+A1 Govindan,Ramesh
+A1 Jamin,Sugih
+A1 Shenker,Scott,J.
+A1 Willinger,Walter
+YR 2002
+T1 The Origin of Power-Laws in Internet Topologies Revisited
+VO 2
+SP 608
+
+RT Book, Whole
+ID 82336
+A1 Qin,Lv
+A1 Ratnasamy,Sylvia
+A1 Shenker,Scott
+YR 2002
+T1 Can Heterogeneity Make Gnutella Scalable?
+SP 94
+OP 103
+
+RT Journal Article
+ID 680573
+A1 Chang,Hyunseok
+A1 Govindan,Ramesh
+A1 Jamin,Sugih
+A1 Shenker,Scott,J.
+A1 Willinger,Walter
+YR 2002
+T1 Towards capturing representative AS-level Internet topologies
+JF Sigmetrics Performance Evaluation Review
+VO 30
+SP 280
+OP 281
+IS 1
+
+RT Journal Article
+ID 25586
+A1 Zhang,Yin
+A1 Breslau,Lee
+A1 Paxson,Vern
+A1 Shenker,Scott
+YR 2002
+T1 On the characteristics and origins of internet flow rates
+JF Computer Communication Review
+VO 32
+SP 309
+OP 322
+IS 4
+
+RT Conference Proceedings
+ID 2371924
+A1 Ratnasamy,S.
+A1 Karp,B.
+A1 Yin,L.
+A1 Yu,F.
+A1 Estrin,D.
+A1 Govin-dan,R.
+A1 Shenker,S.
+YR 2002
+T1 GHT: A Geographic Hash Table for Data-Centric Storage in SensorNets
+
+RT Journal Article
+ID 1349194
+A1 Govindan,Ramesh
+A1 Hellerstein,Joseph,M.
+A1 Hong,Wei
+A1 Madden,Samuel
+A1 Franklin,Michael
+A1 Shenker,Scott
+YR 2002
+T1 The Sensor Network as a Database
+
+RT Journal Article
+ID 878991
+A1 Tangmunarunkit,Hongsuda
+A1 Govindan,Ramesh
+A1 Jamin,Sugih
+A1 Shenker,Scott
+A1 Willinger,Walter
+YR 2002
+T1 Network topologies, power laws, and hierarchy
+JF Computer Communication Review
+VO 32
+SP 76
+OP 76
+IS 1
+
+RT Conference Proceedings
+ID 637968
+A1 Akella,Aditya
+A1 Seshan,Srinivasan
+A1 Karp,Richard,M.
+A1 Shenker,Scott
+A1 Papadimitriou,Christos,H.
+YR 2002
+T1 Selfish behavior and stability of the internet: a game-theoretic analysis of TCP
+SP 117
+OP 130
+
+RT Journal Article
+ID 1399794
+A1 Willinger,W.
+A1 Govindan,R.
+A1 Jamin,S.
+A1 Paxson,V.
+A1 Shenker,S.
+YR 2002
+T1 Scaling phenomena in the Internet: Critically examining criticality
+JF Proceedings of The National Academy of Sciences
+VO 99
+SP 2573
+OP 2580
+IS 90001
+
+RT Conference Proceedings
+ID 50803
+A1 Kohler,Eddie
+A1 Li,Jinyang
+A1 Paxson,Vern
+A1 Shenker,Scott
+YR 2002
+T1 Observed structure of addresses in IP traffic
+SP 253
+OP 266
+
+RT Journal Article
+ID 4114842
+A1 Tangmunarunkit,H.
+A1 Govindan,R.
+A1 Jamin,S.
+A1 Shenker,S.
+A1 Willinger,W.
+YR 2002
+T1 Network topology generators: Degree - based vs
+
+RT Journal Article
+ID 1932070
+A1 Floyd,Sally
+A1 Ratnasamy,Sylvia
+A1 Shenker,Scott
+YR 2002
+T1 Modifying TCP's Congestion Control for High Speeds
+
+RT Journal Article
+ID 33559
+A1 Archer,Aaron
+A1 Shenker,Scott
+YR 2002
+T1 Approximation and Collusion in Multicast Cost Sharing1
+
+RT Book, Whole
+ID 4139850
+A1 Feigenbaum,Joan
+A1 Krishnamurthy,Arvind
+A1 Sami,Rahul
+A1 Shenker,Scott
+YR 2002
+T1 Hardness Results for Multicast Cost Sharing
+SP 133
+OP 144
+
+RT Journal Article
+ID 2063780
+A1 Zhuang,Shelley
+A1 Lai,Kevin
+A1 Stoica,Ion
+A1 Katz,Randy
+A1 Shenker,Scott
+YR 2002
+T1 Host Mobility Using an Internet Indirection Infrastructure
+
+RT Journal Article
+ID 3738129
+A1 Feigenbaum,J.
+A1 Papadimitriou,C.
+A1 Shenker,S.
+YR 2002
+T1 Sharin g the Cost of Multicast Transmission
+
+RT Conference Proceedings
+ID 52915
+A1 Feigenbaum,Joan
+A1 Krishnamurthy,Arvind
+A1 Sami,Rahul
+A1 Shenker,Scott
+YR 2002
+T1 Hardness Results for Multicast Cost Sharing (Extended Abstract)
+
+RT Conference Proceedings
+ID 76714
+A1 Stoica,Ion
+A1 Zhang,Hui
+A1 Shenker,Scott
+YR 2002
+T1 Self-Verifying CSFQ
+VO 1
+SP 21
+
+RT Journal Article
+ID 878989
+A1 Pan,Rong
+A1 Breslau,Lee
+A1 Prabhakar,Balaji
+A1 Shenker,Scott
+YR 2002
+T1 Approximate fairness through differential dropping: (summary)
+JF Computer Communication Review
+VO 32
+SP 72
+OP 72
+IS 1
+
+RT Journal Article
+ID 2305105
+A1 Feigenbaum,J.
+A1 Papadimitriou,C.
+A1 Sami,R.
+A1 Shenker,S.
+YR 2002
+T1 Incentive-compatible interdomain routing
+
+RT Journal Article
+ID 1917228
+A1 Pan,R.
+A1 Breslau,L.
+A1 Prabhakar,B.
+A1 Shenker,S.
+YR 2002
+T1 Approximate fairness through differential dropping (one page summary)
+JF Computer Communication Review
+
+RT Conference Proceedings
+ID 4266210
+A1 Pan,Rong
+A1 Breslau,Lee
+A1 Prabhakar,Balaji
+A1 Shenker,Scott
+YR 2002
+T1 A Flow Table-Based Design to Approximate Fairness
+SP 37
+OP 42
+
+RT Journal Article
+ID 2866065
+A1 Harren,M.
+A1 Hellerstein,J.,M.
+A1 Huebsch,R.
+A1 Loo,B.,T.
+A1 Shenker,S.
+A1 Stoica,I.
+YR 2002
+T1 Complex Queries in DHT-Based P2P Networks
+
+RT Journal Article
+ID 1934265
+A1 Tangmunarunkit,H.
+A1 Govindan,R.
+A1 Jamin,S.
+A1 Shenker,S.
+A1 Willinger,W.
+YR 2002
+T1 Network topology generators - structural vs
+
+RT Journal Article
+ID 878986
+A1 Mahajan,Ratul
+A1 Bellovin,Steven,M.
+A1 Floyd,Sally
+A1 Ioannidis,John
+A1 Paxson,Vern
+A1 Shenker,Scott
+YR 2002
+T1 Aggregate congestion control
+JF Computer Communication Review
+VO 32
+SP 69
+OP 69
+IS 1
+
+RT Journal Article
+ID 39212522
+A1 Cohen,Edith
+A1 Shenker,Scott
+YR 2002
+T1 Replication strategies in unstructured peer-to-peer networks
+JF Computer Communication Review
+SP 177
+OP 190
+
+RT Journal Article
+ID 14416520
+A1 Akella,Aditya
+A1 Seshan,Srinivasan
+A1 Karp,Richard
+A1 Shenker,Scott
+A1 Papadimitriou,Christos
+YR 2002
+T1 Selfish behavior and stability of the internet:: a game-theoretic analysis of TCP
+JF Computer Communication Review
+VO 32
+SP 117
+OP 130
+IS 4
+
+RT Journal Article
+ID 14416521
+A1 Tangmunarunkit,Hongsuda
+A1 Govindan,Ramesh
+A1 Jamin,Sugih
+A1 Shenker,Scott
+A1 Willinger,Walter
+YR 2002
+T1 Network topology generators: degree-based vs. structural
+JF Computer Communication Review
+VO 32
+SP 147
+OP 159
+IS 4
+
+RT Journal Article
+ID 39212530
+A1 Zhang,Yin
+A1 Breslau,Lee
+A1 Paxson,Vern
+A1 Shenker,Scott
+YR 2002
+T1 On the characteristics and origins of internet flow rates
+JF Computer Communication Review
+SP 309
+OP 322
+
+RT Journal Article
+ID 39214226
+A1 Chang,Hyunseok
+A1 Govindan,Ramesh
+A1 Jamin,Sugih
+A1 Shenker,Scott,J.
+A1 Willinger,Walter
+YR 2002
+T1 Towards capturing representative AS-level Internet topologies
+JF Sigmetrics Performance Evaluation Review
+SP 280
+OP 281
+
+RT Journal Article
+ID 14418325
+A1 Lv,Qin
+A1 Cao,Pei
+A1 Cohen,Edith
+A1 Li,Kai
+A1 Shenker,Scott
+YR 2002
+T1 Search and replication in unstructured peer-to-peer networks
+JF Sigmetrics Performance Evaluation Review
+VO 30
+SP 258
+OP 259
+IS 1
+
+RT Journal Article
+ID 57393866
+A1 Lv,Qin
+A1 Cao,Pei
+A1 Cohen,Edith
+A1 Li,Kai
+A1 Shenker,Scott
+YR 2002
+T1 Search and replication in unstructured peer-to-peer networks
+
+RT Journal Article
+ID 57393776
+A1 Cohen,Edith
+A1 Shenker,Scott
+YR 2002
+T1 Replication strategies in unstructured peer-to-peer networks
+
+RT Journal Article
+ID 113308
+A1 Ratnasamy,Sylvia
+A1 Francis,Paul
+A1 Handley,Mark
+A1 Karp,Richard,M.
+A1 Shenker,Scott,J.
+YR 2001
+T1 A scalable content-addressable network
+JF Computer Communication Review
+VO 31
+SP 161
+OP 172
+IS 4
+
+RT Book, Whole
+ID 117827
+A1 Ratnasamy,Sylvia
+A1 Handley,Mark
+A1 Karp,Richard,M.
+A1 Shenker,Scott
+YR 2001
+T1 Application-Level Multicast Using Content-Addressable Networks
+SP 14
+OP 29
+
+RT Journal Article
+ID 114537
+A1 Ganesan,Deepak
+A1 Govindan,Ramesh
+A1 Shenker,Scott
+A1 Estrin,Deborah
+YR 2001
+T1 Highly-resilient, energy-efficient multipath routing in wireless sensor networks
+JF Mobile Computing and Communications Review
+VO 5
+SP 251
+OP 254
+IS 4
+
+RT Conference Proceedings
+ID 2321117
+A1 Lv,C.
+A1 Cao,P.
+A1 Cohen,E.
+A1 Li,Kai
+A1 Shenker,S.
+YR 2001
+T1 Search and replication in unstructured peer-to-peer networks
+
+RT Journal Article
+ID 179753
+A1 Feigenbaum,Joan
+A1 Papadimitriou,Christos,H.
+A1 Shenker,Scott
+YR 2001
+T1 Sharing the Cost of Multicast Transmissions
+JF Journal of Computer and System Sciences
+VO 63
+SP 21
+OP 41
+IS 1
+
+RT Conference Proceedings
+ID 176808
+A1 Tangmunarunkit,Hongsuda
+A1 Govindan,Ramesh
+A1 Shenker,Scott
+A1 Estrin,Deborah
+YR 2001
+T1 The Impact of Routing Policy on Internet Paths
+VO 2
+SP 736
+OP 742
+
+RT Journal Article
+ID 126776
+A1 Floyd,Sally
+A1 Gummadi,Ramakrishna
+A1 Shenker,Scott
+YR 2001
+T1 Adaptive RED: An Algorithm for Increasing the Robustness of RED's Active Queue Management
+
+RT Journal Article
+ID 95833
+A1 Bansal,Deepak
+A1 Balakrishnan,Hari
+A1 Floyd,Sally
+A1 Shenker,Scott
+YR 2001
+T1 Dynamic behavior of slowly-responsive congestion control algorithms
+JF Computer Communication Review
+VO 31
+SP 263
+OP 274
+IS 4
+
+RT Conference Proceedings
+ID 2061350
+A1 Ratnasamy,Sylvia
+A1 Shenker,Scott
+A1 Stoica,Ion
+YR 2001
+T1 Routing Algorithms for DHTs: Some Open Questions
+
+RT Journal Article
+ID 91863
+A1 Mahajan,Ratul
+A1 Bellovin,Steven,M.
+A1 Floyd,Sally
+A1 Ioannidis,John
+A1 Paxson,Vern
+A1 Shenker,Scott
+YR 2001
+T1 Controlling High Bandwidth Aggregates in the Network (Extended Version)
+JF Computer Communication Review
+
+RT Journal Article
+ID 1394279
+A1 Ganesan,D.
+A1 Govindan,R.
+A1 Shenker,S.
+A1 Estrin,D.
+YR 2001
+T1 Energy-efficient multipath routing in wireless sensor networks
+JF Mobile Computing and Communications Review
+
+RT Journal Article
+ID 1328904
+A1 Ratnasamy,S.
+A1 Francis,P.
+A1 Handley,M.
+A1 Karp,R.
+A1 Padhye,J.
+A1 Shenker,S.
+YR 2001
+T1 Grass-roots content distribution: raid meets the web
+
+RT Journal Article
+ID 113947
+A1 Tangmunarunkit,Hongsuda
+A1 Govindan,Ramesh
+A1 Shenker,Scott
+YR 2001
+T1 Internet path inflation due to policy routing
+VO 4526
+SP 188
+OP 195
+
+RT Journal Article
+ID 114603
+A1 Tangmunarunkit,Hongsuda
+A1 Doyle,John
+A1 Govindan,Ramesh
+A1 Willinger,Walter
+A1 Jamin,Sugih
+A1 Shenker,Scott
+YR 2001
+T1 Does AS size determine degree in as topology?
+JF Computer Communication Review
+VO 31
+SP 7
+OP 8
+IS 5
+
+RT Conference Proceedings
+ID 1262454
+A1 Tangmunarunkit,H.
+A1 Govindan,R.
+A1 Shenker,S.
+A1 Estrin,D.
+YR 2001
+T1 The impact of policy on internet paths
+
+RT Journal Article
+ID 2658574
+A1 Floyd,S.
+A1 Gummadi,R.
+A1 Shenker,S.
+YR 2001
+T1 Adaptive RED: An algorithm for increasing the robustness of RED
+
+RT Conference Proceedings
+ID 2557332
+A1 Ratnasamy,Sylvia
+A1 Handley,Paul,Francis,Mark
+A1 Karp,Richard
+A1 Shenker,Scott
+YR 2001
+T1 A Content Addressable Network
+
+RT Journal Article
+ID 3528593
+A1 Cohen,E.
+A1 Shenker,S.
+YR 2001
+T1 Optimal replica-tion in random search networks
+
+RT Journal Article
+ID 2981898
+A1 Tangmunarunkit,H.
+A1 Doyle,J.
+A1 Govindan,R.
+A1 Jamin,S.
+A1 Willinger,W.
+A1 Shenker,S.
+YR 2001
+T1 Does AS Size Determine AS Degree
+JF Computer Communication Review
+
+RT Journal Article
+ID 2374394
+A1 Greenwald,Amy
+A1 Friedman,Eric,J.
+A1 Shenker,Scott
+YR 2001
+T1 Learning in Network Contexts: Experimental Results from Simulations
+JF Games and Economic Behavior
+VO 35
+SP 80
+OP 123
+IS 1
+
+RT Journal Article
+ID 3317086
+A1 Greenwald,A.
+A1 Friedman,E.
+A1 Shenker,S.
+YR 2001
+T1 Learning in network contexts: Results from experimental simulations
+
+RT Journal Article
+ID 4116247
+A1 Moulin,H.
+A1 Shenker,S.
+YR 2001
+T1 Strategyproof Sharing of Submodular Costs: Budget Balance vs
+
+RT Conference Proceedings
+ID 1305294
+A1 Tangmunarunkit,H.
+A1 Govindan,R.
+A1 Shenker,S.
+A1 Estrin,D.
+YR 2001
+T1 The impact of internet policy on internet paths
+
+RT Journal Article
+ID 39212509
+A1 Bansal,Deepak
+A1 Balakrishnan,Hari
+A1 Floyd,Sally
+A1 Shenker,Scott
+YR 2001
+T1 Dynamic behavior of slowly-responsive congestion control algorithms
+JF Computer Communication Review
+SP 263
+OP 274
+
+RT Journal Article
+ID 39213408
+A1 Ganesan,Deepak
+A1 Govindan,Ramesh
+A1 Shenker,Scott
+A1 Estrin,Deborah
+YR 2001
+T1 Highly-resilient, energy-efficient multipath routing in wireless sensor networks
+JF Mobile Computing and Communications Review
+SP 11
+OP 25
+
+RT Journal Article
+ID 39236410
+A1 Ganesan,Deepak
+A1 Govindan,Ramesh
+A1 Shenker,Scott
+A1 Estrin,Deborah
+YR 2001
+T1 Highly-resilient, energy-efficient multipath routing in wireless sensor networks
+SP 251
+OP 254
+
+RT Conference Proceedings
+ID 4316396
+A1 Feigenbaum,Joan
+A1 Krishnamurthy,Arvind
+A1 Sami,Rahul
+A1 Shenker,Scott
+YR 2001
+T1 Approximation and collusion in multicast cost sharing (extended abstract)
+SP 253
+OP 255
+
+RT Conference Proceedings
+ID 179829
+A1 Karp,Richard,M.
+A1 Schindelhauer,Christian
+A1 Shenker,Scott
+A1 Vocking,B.
+YR 2000
+T1 Randomized rumor spreading
+SP 565
+OP 574
+
+RT Conference Proceedings
+ID 236570
+A1 Breslau,Lee
+A1 Knightly,Edward,W.
+A1 Shenker,Scott
+A1 Stoica,Ion
+A1 Zhang,Hui
+YR 2000
+T1 Endpoint admission control: Architectural issues and performance
+SP 57
+OP 69
+
+RT Journal Article
+ID 232040
+A1 Zhang,Yin
+A1 Paxson,Vern
+A1 Shenker,Scott
+YR 2000
+T1 The Stationarity of Internet Path Properties: Routing, Loss, and Throughput
+
+RT Conference Proceedings
+ID 155257
+A1 Breslau,Lee
+A1 Jamin,Sugih
+A1 Shenker,Scott
+YR 2000
+T1 Comments on the Performance of Measurement-Based Admission Control Algorithms
+VO 3
+SP 1233
+OP 1242
+
+RT Conference Proceedings
+ID 227525
+A1 Feigenbaum,Joan
+A1 Papad,Christos,H.
+A1 Shenker,Scott
+YR 2000
+T1 Sharing the Cost of Multicast Transmissions
+
+RT Journal Article
+ID 245456
+A1 Radoslavov,Pavlin
+A1 Tangmunarunkit,Hongsuda
+A1 Yu,Haobo
+A1 Govindan,Ramesh
+A1 Shenker,Scott
+A1 Estrin,Deborah
+YR 2000
+T1 On Characterizing Network Topologies and Analyzing Their Impact on Protocol Design
+
+RT Conference Proceedings
+ID 173277
+A1 Karp,Richard,M.
+A1 Koutsoupias,Elias
+A1 Papadimitriou,Christos,H.
+A1 Shenker,Scott
+YR 2000
+T1 Optimization Problems in Congestion Control
+SP 66
+OP 74
+
+RT Journal Article
+ID 1392058
+A1 Braden,Robert
+A1 Clark,David
+A1 Shenker,Scott
+A1 Wroclawski,John
+YR 2000
+T1 Developing a Next-Generation Internet Architecture
+
+RT Conference Proceedings
+ID 576663
+A1 Feigenbaum,Joan
+A1 Papadimitriou,Christos,H.
+A1 Shenker,Scott
+YR 2000
+T1 Sharing the cost of muliticast transmissions (preliminary version)
+SP 218
+OP 227
+
+RT Journal Article
+ID 1331046
+A1 Karp,R.
+A1 Koutsoupias,E.
+A1 Papadimitriou,C.
+A1 Shenker,S.
+YR 2000
+T1 Combinatorial optimization in congestion control
+
+RT Journal Article
+ID 14416486
+A1 Breslau,Lee
+A1 Knightly,Edward,W.
+A1 Shenker,Scott
+A1 Stoica,Ion
+A1 Zhang,Hui
+YR 2000
+T1 Endpoint admission control: architectural issues and performance
+JF Computer Communication Review
+VO 30
+SP 57
+OP 69
+IS 4
+
+RT Conference Proceedings
+ID 3499565
+A1 Zhang,Y.
+A1 Bresslau,L.
+A1 Paxson,V.
+A1 Shenker,S.
+YR 2000
+T1 On the characteristics and origins of internet flow rates
+
+RT Journal Article
+ID 58479276
+A1 Sopher,Barry
+A1 Friedman,Eric
+A1 Shenker,Scott
+A1 Shor,Mikhael
+YR 2000
+T1 Asynchronous Learning with Limited Information: An Experimental Analysis
+
+RT Conference Proceedings
+ID 269410
+A1 Breslau,Lee
+A1 Cao,Pei
+A1 Fan,Li
+A1 Phillips,Graham
+A1 Shenker,Scott
+YR 1999
+T1 Web Caching and Zipf-like Distributions: Evidence and Implications
+VO 1
+SP 126
+OP 134
+
+RT Conference Proceedings
+ID 248984
+A1 Phillips,Graham
+A1 Shenker,Scott
+A1 Tangmunarunkit,Hongsuda
+YR 1999
+T1 Scaling of Multicast Trees: Comments on the Chuang-Sirbu Scaling Law
+SP 41
+OP 51
+
+RT Journal Article
+ID 174852
+A1 Yu,Haobo
+A1 Breslau,Lee
+A1 Shenker,Scott
+YR 1999
+T1 A Scalable Web Cache Consistency Architecture
+JF Computer Communication Review
+VO 29
+SP 163
+OP 174
+IS 4
+
+RT Conference Proceedings
+ID 115221
+A1 Chang,Hyunseok
+A1 Govindan,Ramesh
+A1 Jamin,Sugih
+A1 Shenker,Scott,J.
+A1 Willinger,Walter
+YR 1999
+T1 On Inferring AS-Level Connecti vity from BGP Routing Tables
+
+RT Journal Article
+ID 1283643
+A1 Bajaj,S.
+A1 Breslau,L.
+A1 Estrin,D.
+A1 Fall,K.
+A1 Floyd,S.
+A1 Haldar,P.
+A1 Handley,M.
+A1 Helmy,A.
+A1 Heidemann,J.
+A1 Huang,P.
+A1 Kumar,S.
+A1 Mccanne,S.
+A1 Rejaie,R.
+A1 Sharma,P.
+A1 Shenker,S.
+A1 Varadhan,K.
+A1 Yu,H.
+A1 Xu,Y.
+A1 Zappala,D.
+YR 1999
+T1 Improving simulation for network research technical report 99-702
+
+RT Conference Proceedings
+ID 1306891
+A1 Breslau,L.
+A1 Cao,R
+A1 Fan,L.
+A1 Phillips,G.
+A1 Shenker,S.
+YR 1999
+T1 On the implications of zipf's law for web caching
+
+RT Conference Proceedings
+ID 150031
+A1 Breslau,Lee
+A1 Jamin,Sugih
+A1 Shenker,Scott
+YR 1999
+T1 Measurement-based admission control: what is the research agenda?
+
+RT Journal Article
+ID 2022447
+A1 Bajaj,S.
+A1 Breslau,L.
+A1 Estrin,D.
+A1 Fall,K.
+A1 Floyd,S.
+A1 Haldar,P.
+A1 Handley,M.
+A1 Helmy,A.
+A1 Heidemann,J.
+A1 Huang,P.
+A1 Kumar,S.
+A1 Mccanne,S.
+A1 Rejaie,R.
+A1 Sharma,P.
+A1 Shenker,S.
+A1 Varadhan,K.
+A1 Yu,H.
+A1 Xu,Y.
+A1 Zappala,D.
+YR 1999
+T1 Virtual InterNetwork Testbed: Status and Research Agenda
+
+RT Journal Article
+ID 36462696
+A1 Moulin,Hervé
+A1 Shenker,Scott
+YR 1999
+T1 Distributive and Additive Costsharing of an Homogeneous Good
+JF Games and Economic Behavior
+VO 27
+SP 299
+OP 330
+IS 2
+
+RT Conference Proceedings
+ID 4141675
+A1 Zhang,L.,Breslau
+A1 Paxson,V.
+A1 Shenker,S.
+YR 1999
+T1 On the Characteristics and Origins of Internet Flow Rates
+
+RT Journal Article
+ID 14416472
+A1 Phillips,Graham
+A1 Shenker,Scott
+A1 Tangmunarunkit,Hongsuda
+YR 1999
+T1 Scaling of multicast trees: comments on the Chuang-Sirbu scaling law
+JF Computer Communication Review
+VO 29
+SP 41
+OP 51
+IS 4
+
+RT Journal Article
+ID 39212465
+A1 Yu,Haobo
+A1 Breslau,Lee
+A1 Shenker,Scott
+YR 1999
+T1 A scalable Web cache consistency architecture
+JF Computer Communication Review
+SP 163
+OP 174
+
+RT Journal Article
+ID 220473
+A1 Raman,Suchitra
+A1 Shenker,S.
+YR 1999
+T1 An Application-Controlled Framework for Reliable Multicast Transport
+
+RT Journal Article
+ID 1279806
+A1 Braden,B.
+A1 Clark,D.
+A1 Crowcroft,J.
+A1 Davie,UCL,B.
+A1 Deering,S.
+A1 Estrin,D.
+A1 Jacobson,V.
+A1 Minshall,G.
+A1 Partridge,C.
+A1 Peterson,BBN,L.
+A1 Ramakrishnan,K.
+A1 Shenker,S.
+A1 Zhang,LCS,L.
+YR 1998
+T1 Recommendations on Queue Management and Congestion Avoidance in the Internet
+
+RT Conference Proceedings
+ID 38245
+A1 Breslau,Lee
+A1 Cue,Pei
+A1 Fan,Li
+A1 Phillips,Graham
+A1 Shenker,Scott
+YR 1998
+T1 Web Caching and Zipf-like Distributions: Evidence and Implications
+
+RT Conference Proceedings
+ID 637979
+A1 Stoica,Ion
+A1 Shenker,Scott
+A1 Zhang,Hui
+YR 1998
+T1 Core-Stateless Fair Queueing: Achieving Approximately Fair Bandwidth Allocations in High Speed Networks
+SP 118
+OP 130
+
+RT Journal Article
+ID 2010703
+A1 Raman,S.
+A1 Mccanne,S.
+A1 Shenker,S.
+YR 1998
+T1 Asymptotic scaling behavior of global recovery in SRM
+
+RT Journal Article
+ID 161137
+A1 Bajaj,Sandeep
+A1 Breslau,Lee
+A1 Shenker,Scott
+YR 1998
+T1 Uniform versus Priority Dropping for Layered Video
+JF Computer Communication Review
+VO 28
+SP 131
+OP 143
+IS 4
+
+RT Conference Proceedings
+ID 161252
+A1 Breslau,Lee
+A1 Shenker,Scott
+YR 1998
+T1 Best-Effort versus Reservations: A Simple Comparative Analysis
+SP 3
+OP 16
+
+RT Journal Article
+ID 206840
+A1 Friedman,Eric,J.
+A1 Shenker,Scott
+YR 1998
+T1 Learning and Implementation on the Internet
+
+RT Journal Article
+ID 121635
+A1 Phillips,Graham
+A1 Breslau,Lee
+A1 Fan,Li
+A1 Cao,Pei
+A1 Shenker,Scott
+YR 1998
+T1 On the Implications of Zipf's Law for Web Caching
+
+RT Journal Article
+ID 765606
+A1 Liu,Ching-Gung
+A1 Estrin,Deborah
+A1 Shenker,Scott
+A1 Zhang,Lixia
+YR 1998
+T1 Local error recovery in SRM: comparison of two approaches
+JF IEEE/ACM Transactions on Networking
+VO 6
+SP 686
+OP 699
+IS 6
+
+RT Journal Article
+ID 70
+A1 Bajaj,Sandeep
+A1 Breslau,Lee
+A1 Shenker,Scott
+YR 1998
+T1 Is Service Priority Useful in Networks?
+JF Sigmetrics Performance Evaluation Review
+VO 26
+SP 66
+OP 77
+IS 1
+
+RT Conference Proceedings
+ID 2778703
+A1 Breslau,Lee
+A1 Shenker,Scott
+YR 1998
+T1 Best Effort vs. Reservations: A Comparative Analysis
+
+RT Journal Article
+ID 680934
+A1 Raman,Suchitra
+A1 McCanne,Steven
+A1 Shenker,Scott
+YR 1998
+T1 Asymptotic Behavior of Global Recovery in SRM
+JF Sigmetrics Performance Evaluation Review
+VO 26
+SP 90
+OP 99
+IS 1
+
+RT Journal Article
+ID 1983282
+A1 Braden,B.
+A1 Clark,D.
+A1 Crowcroft,J.
+A1 Davie,B.
+A1 Deering,S.
+A1 Estrin,D.
+A1 Floyd,S.
+A1 Jacobson,V.
+A1 Minshall,G.
+A1 Partridge,C.
+A1 Peterson,L.
+A1 Ramakrishnan,K.
+A1 Shenker,S.
+A1 Wroclawski,J.
+A1 Zhang,L.
+YR 1998
+T1 Request for comments: 2309
+
+RT Journal Article
+ID 14416458
+A1 Stoica,Ion
+A1 Shenker,Scott
+A1 Zhang,Hui
+YR 1998
+T1 Core stateless fair queueing: achieving approximately fair bandwidth allocations in high speed networks
+JF Computer Communication Review
+VO 28
+SP 118
+OP 130
+IS 4
+
+RT Journal Article
+ID 27533072
+A1 Moulin,Hervé
+A1 Shenker,Scott
+YR 1998
+T1 Distributive and Additive Costsharing of an Homogeneous Good
+JF SSRN Electronic Journal
+
+RT Conference Proceedings
+ID 4138632
+A1 Stoica,I.
+A1 Shenker,S.
+A1 Zhang,H.
+YR 1998
+T1 Core - stateless fair allocations in high speed networks
+
+RT Journal Article
+ID 39214084
+A1 Raman,Suchitra
+A1 McCanne,Steven
+A1 Shenker,Scott
+YR 1998
+T1 Asymptotic behavior of global recovery in SRM
+JF Sigmetrics Performance Evaluation Review
+SP 90
+OP 99
+
+RT Journal Article
+ID 39212443
+A1 Bajaj,Sandeep
+A1 Breslau,Lee
+A1 Shenker,Scott
+YR 1998
+T1 Uniform versus priority dropping for layered video
+JF Computer Communication Review
+SP 131
+OP 143
+
+RT Journal Article
+ID 14416462
+A1 Breslau,Lee
+A1 Shenker,Scott
+YR 1998
+T1 Best-effort versus reservations: a simple comparative analysis
+JF Computer Communication Review
+VO 28
+SP 3
+OP 16
+IS 4
+
+RT Journal Article
+ID 39214083
+A1 Bajaj,Sandeep
+A1 Breslau,Lee
+A1 Shenker,Scott
+YR 1998
+T1 Is service priority useful in networks?
+JF Sigmetrics Performance Evaluation Review
+SP 66
+OP 77
+
+RT Journal Article
+ID 58479308
+A1 Friedman,Eric
+A1 Shenker,Scott
+A1 Greenwald,Amy
+YR 1998
+T1 Learning in Networks Contexts: Experimental Results from Simulations
+
+RT Journal Article
+ID 144983
+A1 Shenker,S.
+A1 Partridge,C.
+A1 Guerin,R.
+YR 1997
+T1 Specification of Guaranteed Quality of Service
+
+RT Journal Article
+ID 1368653
+A1 Shenker,S
+A1 Wroclawski,J
+YR 1997
+T1 General characterization parameters for integrated service network element
+
+RT Conference Proceedings
+ID 3500991
+A1 Zhang,Yin
+A1 Duffield,Nick
+A1 Paxson,Vern
+A1 Shenker,Scott
+YR 1997
+T1 On the Constancy of Internet Path Properties
+
+RT Journal Article
+ID 765704
+A1 Jamin,Sugih
+A1 Danzig,Peter,B.
+A1 Shenker,Scott,J.
+A1 Zhang,Lixia
+YR 1997
+T1 A measurement-based admission control algorithm for integrated service packet networks
+JF IEEE/ACM Transactions on Networking
+VO 5
+SP 56
+OP 70
+IS 1
+
+RT Conference Proceedings
+ID 681893
+A1 Jamin,Sugih
+A1 Shenker,Scott,J.
+A1 Danzig,Peter,B.
+YR 1997
+T1 Comparison of Measurement-Based Call Admission Control Algorithms for Controlled-Load Service
+VO 3
+SP 973
+OP 980
+
+RT Journal Article
+ID 248584
+A1 Liu,Ching-gung
+A1 Estrin,Deborah
+A1 Zhang,Lixia
+A1 Shenker,Scott
+YR 1997
+T1 Local Error Recovery in SRM : Comparison of Two Approaches
+
+RT Journal Article
+ID 1385895
+A1 Shenker,S.
+A1 Wroclawski,J.
+YR 1997
+T1 Network elelnent service specification template
+
+RT Journal Article
+ID 88324
+A1 Shenker,Scott
+YR 1997
+T1 Strategyproof Sharing of Submodular Costs: budget balance versus efficiency
+
+RT Conference Proceedings
+ID 319917
+A1 Estrin,Deborah
+A1 Shenker,Scott
+YR 1997
+T1 Alternate Path Routing and Pinning for Interdomain Multicast Routing
+
+RT Journal Article
+ID 2032979
+A1 Shenker,S.
+A1 Wroclawski,J.
+YR 1997
+T1 Network Element QoS Control Service Specification Template
+
+RT Journal Article
+ID 1682325
+A1 Herzog,S.
+A1 Shenker,S.
+A1 Estrin,D.
+YR 1997
+T1 Sharing the (quote)cost(quote) of multicast trees: an axiomatic analysis
+JF IEEE/ACM Transactions on Networking
+
+RT Journal Article
+ID 2025846
+A1 Shenker,S.
+A1 Partridge,C.
+A1 Guerin,R.
+YR 1997
+T1 RFC 2581Specification of Guaranteed Quality of Service
+
+RT Journal Article
+ID 324245
+A1 Estrin,Deborah
+A1 Shenker,Scott
+YR 1997
+T1 Interdomain Multicast Routing Support for Integrated Services Networks
+
+RT Journal Article
+ID 272803
+A1 Estrin,Deborah
+A1 Zhang,Lixia
+A1 Shenker,Scott
+YR 1997
+T1 Timer Adjustment in SRM
+
+RT Journal Article
+ID 2044933
+A1 Shenker,Scott
+A1 Partridge,Craig
+A1 Guerin,Roch
+YR 1997
+T1 RFC 2212Specification of Guaranteed Service
+
+RT Journal Article
+ID 2035676
+A1 Ganesan,D.
+A1 Govindan,R.
+A1 Shenker,S.
+A1 Estrin,D.
+YR 1997
+T1 Energy-Efficient Multipath Routing in Wireless Sensor Networks
+JF Mobile Computing and Communications Review
+
+RT Journal Article
+ID 3778597
+A1 Shenker,S.
+A1 Partridge,C.
+A1 Guerin,R.
+YR 1997
+T1 Speci cation of the Controlled-Load Network Element Service
+
+RT Journal Article
+ID 27532066
+A1 Moulin,Hervé
+A1 Shenker,Scott
+YR 1997
+T1 Strategyproof Sharing of Submodular Access Costs: Budget Balance versus Efficiency
+JF SSRN Electronic Journal
+
+RT Journal Article
+ID 58155243
+A1 Moulin,HervÈ
+A1 Shenker,Scott
+YR 1997
+T1 Distributive and Additive Costsharing of an Homogeneous Good
+
+RT Journal Article
+ID 879092
+A1 Shenker,Scott
+A1 Clark,David
+A1 Estrin,Deborah
+A1 Herzog,Shai
+YR 1996
+T1 Pricing in computer networks: Reshaping the research agenda
+JF Telecommunications Policy
+VO 20
+SP 183
+OP 201
+IS 3
+
+RT Journal Article
+ID 14416438
+A1 Shenker,S.
+A1 Clark,D.
+A1 Estrin,D.
+A1 Herzog,S.
+YR 1996
+T1 Pricing in computer networks: reshaping the research agenda
+JF Computer Communication Review
+VO 26
+SP 19
+OP 43
+IS 2
+
+RT Journal Article
+ID 387232
+A1 Lefelhocz,Christopher
+A1 Lyles,Bryan
+A1 Shenker,Scott
+A1 Zhang,Lixia
+YR 1996
+T1 Congestion control for best-effort service: why we need a new paradigm
+JF IEEE Network
+VO 10
+SP 10
+OP 19
+IS 1
+
+RT Journal Article
+ID 3441929
+A1 Shenker,S.
+A1 Wroclawski,J.
+YR 1996
+T1 Network element service specification template
+
+RT Journal Article
+ID 2017442
+A1 Shenker,S.
+A1 Partridge,C.
+A1 Guerin,R.
+YR 1996
+T1 Speci cation of Guaranteed Quality of Service
+
+RT Journal Article
+ID 2116906
+A1 Moulin,Herve
+A1 Shenker,Scott
+YR 1996
+T1 Strategyproof Sharing of Submodular Access Costs: Budget Balance versus Efficiency
+
+RT Journal Article
+ID 2070075
+A1 Moulin,H.
+A1 Shenker,S.
+YR 1996
+T1 Strategyproof Sharing of Submodular Costs: Budget Balance Versus E ciency
+
+RT Journal Article
+ID 2406400
+A1 MacKie-Mason,Jeff
+A1 Shenker,Scott
+A1 Varian,Hal
+YR 1996
+T1 Service architecture and content provision. The network provider as editor
+JF Telecommunications Policy
+VO 20
+SP 203
+OP 217
+IS 3
+
+RT Journal Article
+ID 193494
+A1 Friedman,Eric,J.
+A1 Shenker,Scott
+YR 1996
+T1 Synchronous and Asynchronous Learning by Responsive Learning Automata
+
+RT Journal Article
+ID 285519
+A1 Mackie-mason,J.
+A1 Shenker,S.
+YR 1996
+T1 Network Architecture and Content Provision: An Economic Analysis
+
+RT Journal Article
+ID 680496
+A1 Greenberg,Albert,G.
+A1 Shenker,Scott
+A1 Stolyar,Alexander,L.
+YR 1996
+T1 Asynchronous Updates in Large Parallel Systems
+JF Sigmetrics Performance Evaluation Review
+VO 24
+SP 91
+OP 103
+IS 1
+
+RT Journal Article
+ID 39214044
+A1 Greenberg,Albert,G.
+A1 Shenker,S.
+A1 Stolyar,Alexander,L.
+YR 1996
+T1 Asynchronous updates in large parallel systems
+JF Sigmetrics Performance Evaluation Review
+SP 91
+OP 103
+
+RT Journal Article
+ID 400647
+A1 Shenker,Scott
+YR 1995
+T1 Fundamental design issues for the future Internet
+JF IEEE Journal on Selected Areas in Communications
+VO 13
+SP 1176
+OP 1188
+IS 7
+
+RT Conference Proceedings
+ID 515049
+A1 Yao,F.,Frances
+A1 Demers,Alan,J.
+A1 Shenker,Scott,J.
+YR 1995
+T1 A Scheduling Model for Reduced CPU Energy
+SP 374
+OP 382
+
+RT Journal Article
+ID 148842
+A1 Jamin,Sugih
+A1 Danzig,Peter,B.
+A1 Shenker,Scott
+A1 Zhang,Lixia
+YR 1995
+T1 A Measurement-Based Admission Control Algorithm for Integrated Services Packet Networks
+JF Computer Communication Review
+VO 25
+SP 2
+OP 13
+IS 4
+
+RT Journal Article
+ID 223426
+A1 Shenker,S.
+A1 Clark,D.
+A1 Estrin,D.
+A1 Herzog,S.
+YR 1995
+T1 Pricing in Computer Networks: Reshaping the Research Agenda
+JF Computer Communication Review
+
+RT Journal Article
+ID 319264
+A1 Shenker,Scott
+YR 1995
+T1 Service Models and Pricing Policies for an Integrated Services Internet
+
+RT Conference Proceedings
+ID 184878
+A1 Herzog,Shai
+A1 Shenker,Scott
+A1 Estrin,Deborah
+YR 1995
+T1 Sharing the ``Cost'' of Multicast Trees: An Axiomatic Analysis
+SP 315
+OP 327
+
+RT Journal Article
+ID 329223
+A1 Shenker,Scott
+A1 Breslau,Lee
+YR 1995
+T1 Two Issues in Reservation Establishment
+JF Computer Communication Review
+VO 25
+SP 14
+OP 26
+IS 4
+
+RT Journal Article
+ID 1302639
+A1 Partridge,C.
+A1 Shenker,S.
+YR 1995
+T1 Specification of guaranteed quality of service
+
+RT Journal Article
+ID 3767917
+A1 Shenker,Scott,J.
+YR 1995
+T1 Some Fundamental Design Decisions for the Future Internet
+JF IEEE Journal on Selected Areas in Communications
+
+RT Conference Proceedings
+ID 3680892
+A1 Zhang,L.
+A1 Shenker,S.
+A1 Clark,D.
+A1 Huitema,C.
+A1 Deering,S.
+A1 Ferrari,D.
+YR 1995
+T1 Reservations or no reser-vations
+
+RT Journal Article
+ID 2064780
+A1 Shenker,S.
+YR 1995
+T1 Making greed work in networks
+JF IEEE/ACM Transactions on Networking
+
+RT Journal Article
+ID 1267312
+A1 Shenker,S.
+A1 Zhang,L
+A1 Clark,D.
+YR 1995
+T1 A scheduling service model and a scheduling architectur~ for an integrated services packet networks
+
+RT Journal Article
+ID 1275953
+A1 Shenker,S.
+A1 Partridge,C.
+A1 Davie,B.
+A1 Breslau,L.
+YR 1995
+T1 Specification of predictive quality of service
+
+RT Journal Article
+ID 1337693
+A1 Shenker,S.
+A1 Partridge,C.
+A1 Wroclawski,J.
+YR 1995
+T1 Specification of controlled delay quality of service
+
+RT Journal Article
+ID 397570
+A1 Estrin,Deborah
+A1 Shenker,Scott
+A1 Zappala,Daniel
+YR 1995
+T1 Routing Support For RSVP
+
+RT Journal Article
+ID 3733986
+A1 Mackie-mason,Je,Rey,K.
+A1 Shenker,Scott
+A1 Varian,Hal
+YR 1995
+T1 Service architecture and content provision
+
+RT Conference Proceedings
+ID 2586587
+A1 Jamin,S.
+A1 Danzig,P.
+A1 Shenker,S.
+A1 Zhang,L.
+YR 1995
+T1 A measurement-based call admission control for integrated services packet networks
+
+RT Journal Article
+ID 1292896
+A1 Shenker,Scott
+YR 1995
+T1 A game theoretic analysis of switch service disciplines
+
+RT Journal Article
+ID 1984008
+A1 Shenker,S
+A1 Wroclawski,J.
+YR 1995
+T1 Network Element Specification Template
+
+RT Journal Article
+ID 39212378
+A1 Jamin,Sugih
+A1 Danzig,Peter,B.
+A1 Shenker,Scott
+A1 Zhang,Lixia
+YR 1995
+T1 A measurement-based admission control algorithm for integrated services packet networks
+JF Computer Communication Review
+SP 2
+OP 13
+
+RT Conference Proceedings
+ID 3370224
+A1 Jamin,S
+A1 Danzig,P.,B
+A1 Shenker,S
+A1 Zhang,L
+YR 1995
+T1 Measurement-based admission control algorithms for controlled-load service
+
+RT Journal Article
+ID 2894252
+A1 Shenker,Scott,J.
+YR 1995
+T1 Contribution to the Int-serv mailing list
+
+RT Journal Article
+ID 4399225
+A1 Shenker,Scott
+YR 1995
+T1 Fundamental Design Issues for the Future Internet (Invited Paper)
+JF IEEE Journal on Selected Areas in Communications
+VO 13
+SP 1176
+OP 1188
+IS 7
+
+RT Journal Article
+ID 14416436
+A1 Herzog,Shai
+A1 Shenker,Scott
+A1 Estrin,Deborah
+YR 1995
+T1 Sharing the “cost” of multicast trees: an axiomatic analysis
+JF Computer Communication Review
+VO 25
+SP 315
+OP 327
+IS 4
+
+RT Journal Article
+ID 39212379
+A1 Shenker,Scott
+A1 Breslau,Lee
+YR 1995
+T1 Two issues in reservation establishment
+JF Computer Communication Review
+SP 14
+OP 26
+
+RT Conference Proceedings
+ID 299293
+A1 Bharghavan,Vaduvur
+A1 Demers,Alan,J.
+A1 Shenker,Scott
+A1 Zhang,Lixia
+YR 1994
+T1 MACAW: A Media Access Protocol for Wireless LAN's
+SP 212
+OP 225
+
+RT Journal Article
+ID 1258893
+A1 Braden,Bob
+A1 Clark,David,D.
+A1 Shenker,Scott,J.
+YR 1994
+T1 Integrated services in the internet architecture: an overview
+
+RT Book, Whole
+ID 346949
+A1 Weiser,Mark
+A1 Welch,Brent,B.
+A1 Demers,Alan,J.
+A1 Shenker,Scott,J.
+YR 1994
+T1 Scheduling for Reduced CPU Energy
+SP 13
+OP 23
+
+RT Journal Article
+ID 1262574
+A1 Weiser,M.
+A1 Welch,B.
+A1 Demers,A.
+A1 Shenker,S.
+YR 1994
+T1 Scheduling for reduced cpu energy;' in proceedings of the first usenix symposium on operating systems design and implementation (osdi)
+
+RT Conference Proceedings
+ID 210205
+A1 Shenker,Scott
+YR 1994
+T1 Making Greed Work in Networks: A Game-Theoretic Analysis of Switch Service Disciplines
+SP 47
+OP 57
+
+RT Journal Article
+ID 2622602
+A1 Shenker,S.
+A1 Clark,D.,C.
+A1 Zhang,L.
+YR 1994
+T1 A scheduling service model and a scheduling architecture for an integrated services packet network
+
+RT Journal Article
+ID 279403
+A1 Mitzel,Danny,J.
+A1 Shenker,Scott
+YR 1994
+T1 Asymptotic Resource Consumption in Multicast Reservation Styles
+JF Computer Communication Review
+VO 24
+SP 226
+OP 233
+IS 4
+
+RT Conference Proceedings
+ID 660
+A1 Mitzel,Danny,J.
+A1 Estrin,Deborah
+A1 Shenker,Scott
+A1 Zhang,Lixia
+YR 1994
+T1 An Architectural Comparison of ST-II and RSVP
+SP 716
+OP 725
+
+RT Journal Article
+ID 1343772
+A1 Braden,R.
+A1 Clark,D.
+A1 Shenker,S.
+YR 1994
+T1 Rfc 1633: integrated services in the internet architecture: an overview
+
+RT Journal Article
+ID 4195715
+A1 Braden,R.
+A1 Clark,D.
+A1 Shenker,S.
+YR 1994
+T1 Integrated services in the internet architec - ture
+
+RT Conference Proceedings
+ID 3734366
+A1 Shenker,Scott
+A1 Clark,David,D.
+A1 Zhang,Lixia
+YR 1994
+T1 Services or infrastructure: why we need a network service model
+
+RT Conference Proceedings
+ID 503708
+A1 Shenker,Scott
+A1 Weinrib,Abel
+A1 Schooler,Eve,M.
+YR 1994
+T1 Managing Shared Ephemeral Teleconferencing State: Policy and Mechanism
+SP 69
+OP 88
+
+RT Journal Article
+ID 14416421
+A1 Bharghavan,Vaduvur
+A1 Demers,Alan
+A1 Shenker,Scott
+A1 Zhang,Lixia
+YR 1994
+T1 MACAW: a media access protocol for wireless LAN's
+JF Computer Communication Review
+VO 24
+SP 212
+OP 225
+IS 4
+
+RT Conference Proceedings
+ID 3348203
+A1 Bharghavan,V.
+A1 Demers,A.
+A1 Shenker,S.
+A1 Zhang,L.
+YR 1994
+T1 Macaw: A medium access control for wireless lans
+
+RT Conference Proceedings
+ID 4170841
+A1 Bharghavan,V.
+A1 Demers,A.
+A1 Shenker,S.
+A1 Zhang,L.
+YR 1994
+T1 MAC AW: A Media - Access Protocol for Packet Radio
+
+RT Conference Proceedings
+ID 50007865
+A1 Shenker,Scott
+YR 1994
+T1 An architecture for the future internet
+
+RT Journal Article
+ID 50005757
+A1 Kuindersma,P.,I.
+A1 Cuypers,G.,P.,J.,M.
+A1 Gestel,P.,van
+A1 Binsma,J.,J.,M.
+A1 Dongen,T.,van
+A1 Tjassens,H.
+A1 Roijen,R.,van
+A1 Thijs,P.
+A1 Hendrix,L.
+A1 Roemburg,R.,van
+A1 MoIs,P.,P.,G.
+A1 Tomesen,M.
+A1 Hummel,E.
+YR 1994
+T1 10 Gbit/s modules with monolithic electroabsorption modulator and distributed feedback laser
+JF Ndt & E International
+
+RT Journal Article
+ID 39212370
+A1 Mitzel,Danny,J.
+A1 Shenker,Scott
+YR 1994
+T1 Asymptotic resource consumption in multicast reservation styles
+JF Computer Communication Review
+SP 226
+OP 233
+
+RT Journal Article
+ID 14416425
+A1 Shenker,Scott
+YR 1994
+T1 Making greed work in networks: a game-theoretic analysis of switch service disciplines
+JF Computer Communication Review
+VO 24
+SP 47
+OP 57
+IS 4
+
+RT Conference Proceedings
+ID 50007866
+A1 Shenker,S.
+YR 1994
+T1 An architecture for the future internet
+
+RT Journal Article
+ID 383344
+A1 Estrin,Deborah
+A1 Zhang,Lixia
+A1 Shenker,Scott
+A1 Deering,Steve
+YR 1993
+T1 RSVP: A New Resource ReSerVation Protocol
+
+RT Journal Article
+ID 14404249
+A1 Zhang,L.
+A1 Deering,S.
+A1 Estrin,D.
+A1 Shenker,S.
+A1 Zappala,D.
+YR 1993
+T1 RSVP: a new resource ReSerVation Protocol
+JF IEEE Network
+VO 7
+SP 8
+OP 18
+IS 5
+
+RT Journal Article
+ID 178054
+A1 Cocchi,Ron
+A1 Shenker,Scott
+A1 Estrin,Deborah
+A1 Zhang,Lixia
+YR 1993
+T1 Pricing in computer networks: motivation, formulation, and example
+JF IEEE/ACM Transactions on Networking
+VO 1
+SP 614
+OP 627
+IS 6
+
+RT Journal Article
+ID 1289436
+A1 Zhang,Lisa
+A1 Deering,Stephen
+A1 Estrin,Deborah
+A1 Shenker,Scott,J.
+YR 1993
+T1 Zappala: rsvp: a new resource reservation protocol
+
+RT Journal Article
+ID 212699
+A1 Shenker,Scott
+YR 1993
+T1 A Scheduling Service Model and a Scheduling Architecture for an Integrated Services Packet Network
+
+RT Conference Proceedings
+ID 2624481
+A1 Shenker,S.
+A1 Clark,D.
+A1 Zhang,L.
+YR 1993
+T1 A Service Model for the Integrated Services Internet
+
+RT Journal Article
+ID 3450027
+A1 Zhang,L.
+A1 Deering,L.
+A1 Estrin,D.
+A1 Shenker,S.
+A1 Zappala,D.
+YR 1993
+T1 New Resource Reservation Protocol
+
+RT Journal Article
+ID 230512
+A1 Shenker,Scott
+YR 1993
+T1 Some Technical Results on Continuity, Strategy-proofness, and Related Strategic Concepts
+
+RT Journal Article
+ID 180161
+A1 Shenker,Scott
+YR 1993
+T1 On the Strategy-Proof and Smooth Allocation of Private Goods in Production Economies
+
+RT Conference Proceedings
+ID 4168138
+A1 Zhang,Lixia
+A1 Deering,Steve
+A1 Estrin,Deborah
+A1 Shenker,Scott
+A1 Zappala,Daniel
+YR 1993
+T1 RSVP: A New Reservation Protocol
+
+RT Journal Article
+ID 184145
+A1 Friedman,Eric,J.
+A1 Shenker,Scott
+YR 1993
+T1 Learning by Distributed Automata
+
+RT Journal Article
+ID 1293538
+A1 Shenker,Scott
+A1 Weinrib,Abel
+A1 Schooler,Eve
+YR 1993
+T1 An algorithm for managing shared teleconferencing state
+
+RT Conference Proceedings
+ID 1049
+A1 Clark,David,D.
+A1 Shenker,Scott
+A1 Zhang,Lixia
+YR 1992
+T1 Supporting Real-Time Applications in an Integrated Services Packet Network: Architecture and Mechanism
+SP 14
+OP 26
+
+RT Book, Whole
+ID 665593
+A1 Jamin,Sugih
+A1 Shenker,Scott
+A1 Zhang,Lixia
+A1 Clark,David,D.
+YR 1992
+T1 An Admission Control Algorithm for Predictive Real-Time Service (Extended Abstract)
+SP 349
+OP 356
+
+RT Conference Proceedings
+ID 2664987
+A1 Jamin,S.
+A1 Shenker,S.
+A1 Zhang,L.
+A1 Andclark,D.
+YR 1992
+T1 Admission Control Algorithm for Predictive Real-Time Service
+
+RT Conference Proceedings
+ID 2014701
+A1 Clark,D.,D.
+A1 Shenker,S.
+A1 Zhang,L.
+YR 1992
+T1 SupportingReal-Time Applicationsin an IntegratedServices Packet Net-work
+
+RT Journal Article
+ID 2101870
+A1 Cocchi,R.
+A1 Estrin,D.
+A1 Shenker,S.
+A1 Zhang,L.
+YR 1992
+T1 Pricing in computer networks: Motivation
+JF IEEE/ACM Transactions on Networking
+
+RT Journal Article
+ID 3514774
+A1 Shenker,S.
+YR 1992
+T1 On the Strategy-Proof and Smooth Allocation of Private Goods in a Production Economy Mimeo
+
+RT Journal Article
+ID 14416405
+A1 Clarkl,David,D.
+A1 Shenker,Scott
+A1 Zhang,Lixia
+YR 1992
+T1 Supporting real-time applications in an Integrated Services Packet Network: architecture and mechanism
+JF Computer Communication Review
+VO 22
+SP 14
+OP 26
+IS 4
+
+RT Journal Article
+ID 58166047
+A1 Moulin,Herve
+A1 Shenker,Scott
+YR 1992
+T1 Serial Cost Sharing
+
+RT Conference Proceedings
+ID 234028
+A1 Zhang,Lixia
+A1 Shenker,Scott
+A1 Clark,David,D.
+YR 1991
+T1 Observations on the Dynamics of a Congestion Control Algorithm: The Effects of Two-Way Traffic
+SP 133
+OP 147
+
+RT Journal Article
+ID 262059
+A1 Cocchi,Ron
+A1 Estrin,Deborah
+A1 Shenker,Scott
+A1 Zhang,Lixia
+YR 1991
+T1 A Study of Priority Pricing in Multiple Service Class Networks
+JF Computer Communication Review
+VO 21
+SP 123
+OP 130
+IS 4
+
+RT Journal Article
+ID 373072
+A1 Boehm,Hans-Juergen
+A1 Demers,Alan,J.
+A1 Shenker,Scott
+YR 1991
+T1 Mostly Parallel Garbage Collection
+JF Sigplan Notices
+VO 26
+SP 157
+OP 164
+IS 6
+
+RT Journal Article
+ID 1358344
+A1 Zhang,L.
+A1 Shenker,S.
+YR 1991
+T1 Clarlq "ob~ons on the dynamics of a congestion control algorithm: the effects of two- way traffics' proc. slgcomm '91
+
+RT Conference Proceedings
+ID 1991785
+A1 Zhang,L.
+A1 Shenker,S.
+A1 Clark,D.
+YR 1991
+T1 Observation on the Dynamics of a Congestion Control
+
+RT Journal Article
+ID 27388677
+A1 McCormick,S.,Thomas
+A1 Pinedo,Michael,L.
+A1 Shenker,Scott
+A1 Wolf,Barry
+YR 1991
+T1 Transient behavior in a flexible assembly system
+JF International Journal of Flexible Manufacturing Systems
+VO 3
+SP 27
+OP 44
+IS 1
+
+RT Journal Article
+ID 14416381
+A1 Zhang,Lixia
+A1 Shenker,Scott
+A1 Clark,Daivd,D.
+YR 1991
+T1 Observations on the dynamics of a congestion control algorithm: the effects of two-way traffic
+JF Computer Communication Review
+VO 21
+SP 133
+OP 147
+IS 4
+
+RT Conference Proceedings
+ID 3503237
+A1 Zhang,L.
+A1 Shenker,S.
+A1 Clark,D.
+YR 1991
+T1 On the dynamics of congestion control algorithms: the effects of the two-way traffic
+
+RT Journal Article
+ID 39212289
+A1 Cocchi,Ron
+A1 Estrin,Deborah
+A1 Shenker,Scott
+A1 Zhang,Lixia
+YR 1991
+T1 A study of priority pricing in multiple service class networks
+JF Computer Communication Review
+SP 123
+OP 130
+
+RT Journal Article
+ID 39218266
+A1 Boehm,Hans-J.
+A1 Demers,Alan,J.
+A1 Shenker,Scott
+YR 1991
+T1 Mostly parallel garbage collection
+JF Sigplan Notices
+SP 157
+OP 164
+
+RT Journal Article
+ID 1325682
+A1 Demers,A.
+A1 Keshav,S.
+A1 Shenker,S.
+YR 1990
+T1 Analysis and simulation of a fair queueing algorithm
+
+RT Journal Article
+ID 879247
+A1 Shenker,Scott,J.
+A1 zhang,lixia
+A1 Clark,David,D.
+YR 1990
+T1 Some observations on the dynamics of a congestion control algorithm
+JF Computer Communication Review
+VO 20
+SP 30
+OP 39
+IS 5
+
+RT Journal Article
+ID 638078
+A1 Shenker,Scott
+YR 1990
+T1 A Theoretical Analysis of Feedback Flow Control
+JF Computer Communication Review
+VO 20
+SP 156
+OP 165
+IS 4
+
+RT Journal Article
+ID 680555
+A1 Shenker,Scott
+YR 1990
+T1 Making Greed Work in Networks: A Game-Theoretic Analysis of Gateway Service Disciplines
+JF Sigmetrics Performance Evaluation Review
+VO 18
+SP 241
+OP 242
+IS 1
+
+RT Conference Proceedings
+ID 685540
+A1 Shenker,Scott
+YR 1990
+T1 Efficient Network Allocations with Selfish Users
+SP 279
+OP 285
+
+RT Conference Proceedings
+ID 566395
+A1 Demers,Alan,J.
+A1 Weiser,Mark
+A1 Hayes,Barry
+A1 Boehm,Hans-juergen
+A1 Bobrow,Daniel,G.
+A1 Shenker,Scott
+YR 1990
+T1 Combining Generational and Conservative Garbage Collection: Framework and Implementations
+SP 261
+OP 269
+
+RT Journal Article
+ID 39212265
+A1 Shenker,S.
+YR 1990
+T1 A theoretical analysis of feedback flow control
+JF Computer Communication Review
+SP 156
+OP 165
+
+RT Journal Article
+ID 680780
+A1 Shenker,Scott
+YR 1990
+T1 Making Flow Control Work in Networks: A Control-Theoretic Analysis of Gateway Service Disciplines
+JF Sigmetrics Performance Evaluation Review
+VO 18
+SP 239
+OP 240
+IS 1
+
+RT Journal Article
+ID 39213903
+A1 Shenker,Scott
+YR 1990
+T1 Making flow control work in networks: a control-theoretic analysis of gateway service disciplines
+JF Sigmetrics Performance Evaluation Review
+SP 239
+OP 240
+
+RT Journal Article
+ID 39213904
+A1 Shenker,Scott
+YR 1990
+T1 Making greed work in networks: a game-theoretic analysis of gateway service disciplines
+JF Sigmetrics Performance Evaluation Review
+SP 241
+OP 242
+
+RT Journal Article
+ID 637983
+A1 Demers,Alan,J.
+A1 Keshav,Srinivasan
+A1 Shenker,Scott,J.
+YR 1989
+T1 Analysis and simulation of a fair queueing algorithm
+JF Computer Communication Review
+VO 19
+SP 1
+OP 12
+IS 4
+
+RT Journal Article
+ID 1280059
+A1 Shenker,S.
+YR 1989
+T1 Comments on the ietf performance and congestion control working group draft on gateway congestion control policies
+
+RT Journal Article
+ID 1366649
+A1 Shenker,S.
+YR 1989
+T1 Game-theoretic analysis of gateway algorithms
+
+RT Journal Article
+ID 3732581
+A1 Mccormick,S.,T.
+A1 Pinedo,M.
+A1 Shenker,Scott,J.
+A1 Wolf,B.
+YR 1989
+T1 Sequencing in an assembly line with blocking to minimize cycle time
+JF Operations Research
+VO 37
+SP 925
+OP 935
+IS 6
+
+RT Conference Proceedings
+ID 1294194
+A1 Demers,A.
+A1 Keshav,S.
+A1 Shenker,S.
+YR 1989
+T1 Design and analysis of a fair queuing algorithm
+
+RT Conference Proceedings
+ID 911536
+A1 Demmers,Alan
+A1 Weiser,Mark
+A1 Hayes,Barry
+A1 Boehm,Hans
+A1 Bobrow,Daniel
+A1 Shenker,Scott
+YR 1989
+T1 Combining generational and conservative garbage collection: framework and implementations
+
+RT Journal Article
+ID 1281686
+A1 Shenker,S.
+YR 1989
+T1 Making greed work in networks: a game-theoretic analysis of g#teway service disciplines
+
+RT Conference Proceedings
+ID 1283654
+A1 Demers,A.
+A1 Keshav,S.
+A1 Shenker,S.
+YR 1989
+T1 Analysis and scheduling of a fair queueing algorithm
+
+RT Journal Article
+ID 714020
+A1 Shenker,Scott
+A1 Weinrib,Abel
+YR 1989
+T1 The Optimal Control of Heterogeneous Queueing Systems: A Paradigm for Load-Sharing and Routing
+JF IEEE Transactions on Computers
+VO 38
+SP 1724
+OP 1735
+IS 12
+
+RT Journal Article
+ID 39212221
+A1 Demers,Alan
+A1 Keshav,S.
+A1 Shenker,Scott
+YR 1989
+T1 Analysis and simulation of a fair queueing algorithm
+JF Computer Communication Review
+SP 1
+OP 12
+
+RT Journal Article
+ID 1992169
+A1 Demers,Alan
+A1 Gealy,Mark
+A1 Greene,Dan
+A1 Hauser,Carl
+A1 Irish,Wes
+A1 Larson,John
+A1 Manning,Sue
+A1 Shenker,Scott
+A1 Sturgis,Howard
+A1 Swinehart,Dan
+A1 Terry,Doug
+A1 Woods,Don
+YR 1989
+T1 Epidemic algorithms for replicated database maintenance
+
+RT Conference Proceedings
+ID 2941750
+A1 Demers,A.
+A1 Keshav,S.
+A1 Shenker,S.
+YR 1989
+T1 Design and Simulation of a Fair Queuing Algorithm
+
+RT Journal Article
+ID 855207
+A1 Demers,Alan,J.
+A1 Greene,Daniel,H.
+A1 Houser,Carl
+A1 Irish,Wes
+A1 Larson,John
+A1 Shenker,Scott
+A1 Sturgis,Howard,E.
+A1 Swinehart,Daniel,C.
+A1 Terry,Douglas,B.
+YR 1988
+T1 Epidemic algorithms for replicated database maintenance
+JF Operating Systems Review
+VO 22
+SP 8
+OP 32
+IS 1
+
+RT Conference Proceedings
+ID 1326146
+A1 Weinrig,A.
+A1 Shenker,Scott
+YR 1988
+T1 Greed is not enough: adaptive load sharing in large heterogeneous systems
+
+RT Journal Article
+ID 680556
+A1 Shenker,Scott
+A1 Weinrib,Abel
+YR 1988
+T1 Asymptotic Analysis of Large Heterogeneous Queueing Systems
+JF Sigmetrics Performance Evaluation Review
+VO 16
+SP 56
+OP 62
+IS 1
+
+RT Journal Article
+ID 39213840
+A1 Shenker,Scott
+A1 Weinrib,A.
+YR 1988
+T1 A symptotic analysis of large heterogeneous queueing systems
+JF Sigmetrics Performance Evaluation Review
+SP 56
+OP 62
+
+RT Conference Proceedings
+ID 564769
+A1 Demers,Alan,J.
+A1 Greene,Daniel,H.
+A1 Hauser,Carl
+A1 Irish,Wes
+A1 Larson,John
+A1 Shenker,Scott,J.
+A1 Sturgis,Howard,E.
+A1 Swinehart,Daniel,C.
+A1 Terry,Douglas,B.
+YR 1987
+T1 Epidemic algorithms for replicated database maintenance
+SP 1
+OP 12
+
+RT Journal Article
+ID 680779
+A1 Shenker,Scott
+YR 1987
+T1 Some Conjectures on the Behavior of Acknowledgment-Based Transmission Control of Random Access Communication Channels
+JF Sigmetrics Performance Evaluation Review
+VO 15
+SP 245
+OP 255
+IS 1
+
+RT Conference Proceedings
+ID 1925090
+A1 Demers,Alan
+A1 Greene,Dan
+A1 Hauser,Carl
+A1 Irish,Wes
+A1 Larson,John
+A1 Shenker,Scott
+A1 Sturgis,Howard
+A1 Swinehart,Dan
+A1 Terry,Doug
+YR 1987
+T1 Epidemic algorithms for replicated database management
+
+RT Journal Article
+ID 39213832
+A1 Shenker,Scott
+YR 1987
+T1 Some conjectures on the behavior of acknowledgement-based transmission control of random access communication channels
+JF Sigmetrics Performance Evaluation Review
+SP 245
+OP 255
+
+RT Journal Article
+ID 57393834
+A1 Demers,Alan
+A1 Greene,Daniel
+A1 Hauser,Carl
+A1 Irish,Wes
+A1 Larson,John
+A1 Shenker,Scott
+A1 Sturgis,Howard
+A1 Swinehart,Daniel
+A1 Terry,Douglas
+YR 1987
+T1 Epidemic algorithms for replicated database maintenance
+
+RT Journal Article
+ID 19127679
+A1 Fisher,Daniel,S.
+A1 Friedan,Daniel
+A1 Qiu,Zongan
+A1 Shenker,Scott,J.
+A1 Shenker,Stephen,H.
+YR 1985
+T1 Random walks in two-dimensional random environments with constrained drift forces
+JF Physical Review A
+VO 31
+SP 3841
+OP 3845
+IS 6
+
+RT Journal Article
+ID 3803104
+A1 Widom,Michael
+A1 Bensimon,David
+A1 Kadanoff,Leo,P.
+A1 Shenker,Scott,J.
+YR 1983
+T1 Strange objects in the complex plane
+JF Journal of Statistical Physics
+VO 32
+SP 443
+OP 454
+IS 3
+
+RT Journal Article
+ID 52658262
+A1 Widom,Michael
+A1 Bensimon,David
+A1 Kadanoff,Leo,P.
+A1 Shenker,Scott,J.
+YR 1983
+T1 Strange objects in the complex plane
+JF Journal of Statistical Physics
+VO 32
+SP 443
+OP 454
+
+RT Journal Article
+ID 55528851
+A1 Shenker,Scott,J.
+YR 1983
+T1 Quasiperiodicity in dissipative systems: A renormalisation group analysis
+JF Physica D-nonlinear Phenomena
+VO 7
+SP 301
+OP 301
+
+RT Conference Proceedings
+ID 3636826
+A1 Kadanoff,L.,P.
+A1 Feigenbaum,M.,J.
+A1 Shenker,S.,J.
+YR 1982
+T1 Quasiperiodicity in dissipative systems: a renormalization group analysis
+
+RT Journal Article
+ID 18699894
+A1 Shenker,Scott,J.
+A1 Kadanoff,Leo,P.
+YR 1982
+T1 Critical behavior of a KAM surface: I. Empirical results
+JF Journal of Statistical Physics
+VO 27
+SP 631
+OP 656
+IS 4
+
+RT Journal Article
+ID 2911107
+A1 Shenker,S.,J.
+A1 Kadanoj,L.,P.
+YR 1982
+T1 Critical behavior of a KAM surface: I
+
+RT Journal Article
+ID 19124679
+A1 Zisook,Albert
+A1 Shenker,Scott
+YR 1982
+T1 Renormalization group for intermittency in area-preserving mappings
+JF Physical Review A
+VO 25
+SP 2824
+OP 2826
+IS 5
+
+RT Journal Article
+ID 53048290
+A1 Feigenbaum,Mitchell,J.
+A1 Kadanoff,Leo,P.
+A1 Shenker,Scott,J.
+YR 1982
+T1 Quasiperiodicity in dissipative systems: A renormalization group analysis
+JF Physica D-nonlinear Phenomena
+VO 5
+SP 370
+OP 386
+
+RT Journal Article
+ID 56499911
+A1 Shenker,Scott,J.
+A1 Kadanoff,Leo,P.
+YR 1982
+T1 Critical behavior of a KAM surface: I. Empirical results
+JF Journal of Statistical Physics
+VO 27
+SP 631
+OP 656
+
+RT Journal Article
+ID 19125221
+A1 Zisook,Albert
+A1 Shenker,Scott
+YR 1982
+T1 Erratum: Renormalization group for intermittency in area-preserving mappings
+JF Physical Review A
+VO 26
+SP 3704
+OP 3704
+IS 6
+
+RT Journal Article
+ID 52294273
+A1 Zisook,Albert,B.
+A1 Shenker,Scott,J.
+YR 1982
+T1 Erratum: Renormalization group for intermittency in area-preserving mappings
+JF Physical Review A
+VO 26
+SP 3704
+
+RT Journal Article
+ID 53795755
+A1 Zisook,Albert,B.
+A1 Shenker,Scott,J.
+YR 1982
+T1 Renormalization group for intermittency in area-preserving mappings
+JF Physical Review A
+VO 25
+SP 2824
+OP 2826
+
+RT Journal Article
+ID 52384494
+A1 Shenker,Scott,J.
+YR 1982
+T1 Scaling behavior in a map of a circle onto itself: Empirical results
+JF Physica D-nonlinear Phenomena
+VO 5
+SP 405
+OP 411
+
+RT Journal Article
+ID 53456775
+A1 Shenker,S.,J.
+A1 Kadanoff,L.,P.
+YR 1981
+T1 Band to band hopping in one-dimensional maps
+JF Journal of Physics A-mathematical and General
+VO 14
+IS 2
+
+RT Journal Article
+ID 51522011
+A1 Shenker,S.,J.
+A1 Kadanoff,L.,P.
+A1 Pruisken,A.,M.,M.
+YR 1979
+T1 A variational real-space renormalisation-group transformation based on the cumulant expansion
+JF Journal of Physics A-mathematical and General
+VO 12
+SP 91
+OP 97
+IS 1
+
+RT Conference Proceedings
+ID 10009528
+A1 Levis,Philip
+A1 Patel,Neil
+A1 Culler,David
+A1 Shenker,Scott
+T1 Trickle: A Self-Regulating Algorithm for Code Propagation and Maintenance in Wireless Sensor Networks
+
+RT Journal Article
+ID 12367115
+A1 Ballani,Hitesh
+A1 Chawathe,Yatin
+A1 Ratnasamy,Sylvia
+A1 Roscoe,Timothy
+A1 Shenker,Scott
+T1 Off by Default
+
+RT Journal Article
+ID 1279753
+A1 Lakshminarayanan,Karthik
+A1 Rao,Ananth
+A1 Stoica,Ion
+A1 Shenker,Scott
+T1 Flexible and Robust Large Scale Multicast using
+
+RT Conference Proceedings
+ID 3675141
+A1 Geels,Dennis
+A1 Altekar,Gautam
+A1 Shenker,Scott
+A1 Stoica,Ion
+T1 Replay Debugging for Distributed Applications
+
+RT Journal Article
+ID 4465024
+A1 Jamin,Sugih
+A1 Danzig,Peter,B.
+A1 Shenker,Scott,J.
+A1 Zhang,Lixia
+T1 A Measurement-based Admission Control Algorithm for Integrated Services Packet Networks (Extended Version)
+JF IEEE/ACM Transactions on Networking
+
+RT Journal Article
+ID 2022792
+A1 Jamin,Sugih
+A1 Shenker,Scott
+T1 Measurement-based Admission Control Algorithms for Controlled-load Service: A Structural Examination
+
+RT Journal Article
+ID 4482102
+A1 Dutta,Prabal
+A1 Culler,David
+A1 Shenker,Scott
+T1 Procrastination Might Lead to a Longer and More Useful Life
+
+RT Journal Article
+ID 12723356
+A1 Argyraki,Katerina
+A1 Maniatis,Petros
+A1 Cheriton,David
+A1 Shenker,Scott
+T1 Providing Packet Obituaries
+
+RT Book, Whole
+ID 302818
+A1 Shenker,Scott
+A1 Weinrib,Abel
+A1 Schooler,Eve
+T1 Managing shared ephemeral teleconferencing state: Policy and mechanism
+
+RT Journal Article
+ID 10405079
+A1 Papadimitriou,Christos,H.
+A1 Shenker,Scott
+T1 Sharing the Cost of Multicast Transmissions
+
+RT Journal Article
+ID 4511191
+A1 Demmer,Michael
+A1 Fall,Kevin
+A1 Koponen,Teemu
+A1 Shenker,Scott
+T1 Towards a Modern Communications API
+
+RT Journal Article
+ID 5560882
+A1 Casado,Martin
+A1 Koponen,Teemu
+A1 Moon,Daekyeong
+A1 Shenker,Scott
+T1 Rethinking Packet Forwarding Hardware
+
+RT Book, Whole
+ID 48617838
+A1 Stoica,Ion
+A1 Adkins,Daniel
+A1 Ratnasamy,Sylvia
+A1 Shenker,Scott
+A1 Surana,Sonesh
+A1 Zhuang,Shelley
+T1 Internet Indirection Infrastructure
+
+RT Journal Article
+ID 4575832
+A1 Andersen,David
+A1 Balakrishnan,Hari
+A1 Feamster,Nick
+A1 Koponen,Teemu
+A1 Moon,Daekyeong
+A1 Shenker,Scott
+T1 Holding the Internet Accountable
+
+RT Journal Article
+ID 3097545
+A1 Allman,Mark
+A1 Blanton,Ethan
+A1 Paxson,Vern
+A1 Shenker,Scott
+T1 Fighting Coordinated Attackers with Cross-Organizational Information Sharing
+
+RT Journal Article
+ID 4558077
+A1 Casado,Martin
+A1 Akella,Aditya
+A1 Cao,Pei
+A1 Provos,Niels
+A1 Shenker,Scott
+T1 Cookies Along Trust-Boundaries (CAT): Accurate and Deployable Flood Protection
+
+RT Journal Article
+ID 6353402
+A1 Tavakoli,Arsalan
+A1 Casado,Martin
+A1 Koponen,Teemu
+A1 Shenker,Scott
+T1 Applying NOX to the Datacenter
+
+RT Journal Article
+ID 13058939
+A1 Akella,Aditya
+A1 Seshan,Srinivasan
+A1 Shenker,Scott
+A1 Stoica,Ion
+T1 Exploring Congestion Control 1
+
+RT Journal Article
+ID 6761358
+A1 Shenker,S.
+A1 Varian,H.,R.
+T1 Network Architecture and Content Provision: An Economic Analysis
+
+RT Journal Article
+ID 62249
+A1 Mahajan,Ratul
+A1 Bellovin,Steven,M.
+A1 Floyd,Sally
+A1 Ioannidis,John
+A1 Paxson,Vern
+A1 Shenker,Scott
+T1 Aggregate-Based Congestion Control
+JF Computer Communication Review
+
+RT Journal Article
+ID 4457655
+A1 Tavakoli,Arsalan
+A1 Dutta,Prabal
+A1 Jeong,Jaein
+A1 Kim,Sukun
+A1 Ortiz,Jorge
+A1 Culler,David
+A1 Levis,Phillip
+A1 Shenker,Scott
+T1 A Modular Sensornet Architecture: Past, Present, and Future Directions
+JF ACM Sigbed Review
+
+RT Conference Proceedings
+ID 10408474
+A1 Kim,Sukun
+A1 Fonseca,Rodrigo
+A1 Dutta,Prabal
+A1 Tavakoli,Arsalan
+A1 Culler,David,E.
+A1 Levis,Philip
+A1 Shenker,Scott
+A1 Stoica,Ion
+T1 Flush: A Reliable Bulk Transport Protocol for Multihop Wireless Network
+
+RT Journal Article
+ID 6458852
+A1 Shenker,Scott
+A1 Zhan,Lixia
+A1 Clar,David,D.
+T1 Some Observations on the Dynamics of a Congestio n Control Algorith m
+
+RT Journal Article
+ID 10176264
+A1 Seehra,Arun
+A1 Naous,Jad
+A1 Walfish,Michael
+A1 Mazieres,David
+A1 Nicolosi,Antonio
+A1 Shenker,Scott
+T1 A policy framework for the future Internet
+
+RT Journal Article
+ID 10073621
+A1 Walfish,Michael
+A1 Balakrishnan,Hari
+A1 Shenker,Scott
+T1 Untangling the Web from DNS
+
+RT Journal Article
+ID 4991169
+A1 Gupta,Archit
+A1 Akella,Aditya
+A1 Seshan,Srinivasan
+A1 Shenker,Scott
+A1 Wang,Jia
+T1 Understanding and Exploiting Network Traffic Redundancy
+
+RT Journal Article
+ID 6109452
+A1 Tangmunarunkit,H.
+A1 Govindan,R.
+A1 Jamin,S.
+A1 Shenker,S.
+A1 Willinger,W.
+T1 On Characterizing Network Hierarchy
+
+RT Journal Article
+ID 6835945
+A1 Hinrichs,Timothy
+A1 Gude,Natasha
+A1 Shenker,Scott
+T1 Expressing and Enforcing Flow-Based Network Security Policies
+
+RT Journal Article
+ID 10903708
+A1 Ermolinskiy,Andrey
+A1 Shenker,Scott
+T1 Reducing Transient Disconnectivity using Anomaly Cognizant Forwarding
+
+RT Journal Article
+ID 10514321
+A1 Rao,Ananth
+A1 Ratnasamy,Sylvia
+A1 Papadimitriou,Christos
+A1 Shenker,Scott
+A1 Stoica,Ion
+T1 Geographic Routing without Location Information
+
+RT Journal Article
+ID 11646628
+A1 Kannan,Jayanthkumar
+A1 Subramanian,Lakshminarayanan
+A1 Stoica,Ion
+A1 Shenker,Scott
+A1 Katz,Randy
+T1 Cooperative Containment of Fast Scanning Worms
+
+RT Journal Article
+ID 4532403
+A1 Tangmunarunkit,Hongsuda
+A1 Govindan,Ramesh
+A1 Shenker,Scott
+T1 Internet Topology: Discovery and Policy Impact
+
+RT Journal Article
+ID 5682366
+A1 Ee,Cheng,Tien
+A1 Shenker,Scott
+T1 Interference Avoidance in Wireless Multihop Networks
+
+RT Journal Article
+ID 3252848
+A1 Braden,R.
+A1 Clark,D.
+A1 Shenker,S.
+T1 Integrated Services in the Internet Environment
+
+RT Conference Proceedings
+ID 4470484
+A1 Vutukuru,Mythili
+A1 Walfish,Michael
+A1 Balakrishnan,Hari
+A1 Shenker,Scott
+T1 A Distributed System For Resolving Flat Names
+
+RT Journal Article
+ID 10110342
+A1 Feigenbaum,Joan
+A1 Krishnamurthy,Arvind
+A1 Sami,Rahul
+A1 Shenker,Scott
+T1 Hardness Results for Multicast Cost Sharing (Extended Abstract) ?
+
+RT Journal Article
+ID 5639081
+A1 Naous,Jad
+A1 Seehra,Arun
+A1 Walfish,Michael
+A1 Eres,David,Mazi
+A1 Nicolosi,Antonio
+A1 Shenker,Scott
+T1 The design and implementation of a policy framework for the future Internet
+
+RT Journal Article
+ID 6942189
+A1 Godfrey,P.,Brighten
+A1 Caesar,Matthew
+A1 Haken,Ian
+A1 Singer,Yaron
+A1 Shenker,Scott
+A1 Stoica,Ion
+T1 Stabilizing Route Selection in BGP
+
+RT Journal Article
+ID 5479301
+A1 Dutta,Prabal
+A1 Ee,Cheng,Tien
+A1 Fonseca,Rodrigo
+A1 Hui,Jonathan
+A1 Levis,Philip
+A1 Polastre,Joseph
+A1 Tolle,Gillman
+A1 Zhao,Jerry
+A1 Culler,David
+A1 Shenker,Scott
+A1 Stoica,Ion
+T1 A Case for a Sensor Network Architecture
+
+RT Journal Article
+ID 11524104
+A1 Clarkl,David,D.
+A1 Shenker,Scott
+A1 Zhang,Lixia
+T1 Architecture and Mechanism
+
+RT Journal Article
+ID 13006282
+A1 Ratnasamy,Sylvia
+A1 Handley,Mark
+A1 Karp,Richard
+A1 Shenker,Scott
+T1 Selection
+
+RT Journal Article
+ID 12764545
+A1 Feigenbaum,Joan
+A1 Nisan,Noam
+A1 Ramachandran,Vijay
+A1 Sami,Rahul
+A1 Shenker,Scott
+T1 Agents' Privacy in Distributed Algorithmic Mechanisms (Position Paper)
+
+RT Journal Article
+ID 13068063
+A1 Crowcroft,J.
+A1 Pias,M.
+A1 Sharma,R.
+A1 Ratnasamy,S.
+A1 Francis,P.
+A1 Handley,M.
+A1 Shenker,S.
+A1 Darlagiannis,V.
+T1 3.1 TUD-1 - Design and Evalua tion of Peer-to-Peer Overlays Institution: TU-Darmstadt Advisor: Aleksandra Kovacevic
+
+RT Journal Article
+ID 4493122
+A1 Vutukuru,Mythili
+A1 Feamster,Nick
+A1 Walsh,Michael
+A1 Balakrishnan,Hari
+A1 Shenker,Scott
+T1 Revisiting Internet Addressing: Back to the Future
+
+RT Journal Article
+ID 4639526
+A1 Huebsch,Ryan
+A1 Chun,Brent
+A1 Hellerstein,Joseph,M.
+A1 Loo,Boon,Thau
+A1 Maniatis,Petros
+A1 Roscoe,Timothy
+A1 Shenker,Scott
+A1 Stoica,Ion
+A1 Yumerefendi,Aydan,R.
+T1 The Architecture of PIER: an Internet-Scale Query Processor Under Submission ñ Do Not Redistribute
+
+RT Journal Article
+ID 12948103
+A1 Kim,Young-Jin
+A1 Govindan,Ramesh
+A1 Karp,Brad
+A1 Shenker,Scott
+T1 Poster Abstract: Practical and Robust Geographic Routing In Wireless Networks
+
+RT Journal Article
+ID 12803338
+A1 Ganesan,Deepak
+A1 Govindan,Ramesh
+A1 Shenker,Scott
+A1 Estrin,Deborah
+T1 Previously proposed sensor network data dissemination sch emes require periodic low-rate flooding of data in order to allow recovery from failure. We consider c onstructing two kinds of multipaths to enable energy efficient recovery from failure of the shortes t path between source and sink. Disjoint multipath has been studied in the literature. We propose a no vel braided multipath scheme, which results in several partially disjoint multipath schemes. W e find that braided multipaths are a viable alternative for energy-efficient recovery from isolated an d patterned failures
+
+RT Journal Article
+ID 4683995
+A1 Lakshminarayanan,Karthik
+A1 Anderson,Thomas
+A1 Shenker,Scott
+A1 Stoica,Ion
+A1 Wetherall,David
+T1 Decoupling Connectivity from Routing
+
+RT Journal Article
+ID 12904731
+A1 Shenker,Scott
+A1 Smith,Jonathan,M.
+T1 Towards an Economic Analysis of Trusted Systems (Position Paper)
+
+RT Journal Article
+ID 5200188
+A1 Porter,George
+A1 Fonseca,Rodrigo
+A1 Shenker,Scott
+A1 Stoica,Ion
+A1 Katz,Randy,H.
+T1 Router-Transparent Packet Annotations
+
+RT Journal Article
+ID 11513976
+A1 Ü,Ramakrishna,Gummadi
+A1 Govindaná,Ramesh
+A1 Kothari,Nupur
+A1 Kimk,Jin
+A1 Shenker,Scott
+T1 Reduced State Routing in the Internet
+
+RT Journal Article
+ID 13053145
+A1 Breslau,Lee
+A1 Jamin,Sugih
+A1 Shenker,Scott
+T1 Measurement-Base d Admission Control Algorithms
+
+RT Journal Article
+ID 12767937
+A1 Godfrey,P.,Brighten
+A1 Caesar,Matthew
+A1 Haken,Ian
+A1 Shenker,Scott
+A1 Stoica,Ion
+T1 Stabilizing BGP, Safely
+
+RT Journal Article
+ID 10721781
+A1 Gupta,Archit
+A1 Akella,Aditya
+A1 Seshan,Srinivasan
+A1 Shenker,Scott
+A1 Wang,Jia
+T1 Computer Sciences Department Understanding and Exploiting Network Traffic Redundancy
+
+RT Journal Article
+ID 12059596
+A1 Gude,Natasha
+A1 Koponen,Teemu
+A1 Casado,Martín
+A1 McKeown,Nick
+A1 Shenker,Scott
+T1 This article is an editorial note submitted to CCR. It has NOT been peer reviewed. Authors take full responsibility for this article's technical content. Comments can be posted through CCR Online
+
+RT Journal Article
+ID 12840714
+A1 Clark,D.
+A1 Shenker,S.
+T1 Integrated Services in the Internet Architecture: an Overview Status of this Memo This memo provides information for the Internet community. This memo does not specify an Internet standard of any kind. Distribution
+
+RT Journal Article
+ID 12384149
+A1 Shenker,Scott
+A1 Washington,Turner
+T1 Overcoming the Internet Impasse through Virtualization
+
+RT Journal Article
+ID 4524456
+A1 Greenberg,Albert,G.
+A1 Shenker,S.
+A1 Stolyar,Alexander,L.
+T1 Asynchronous Updates in Large
+
+RT Journal Article
+ID 12821163
+A1 Singh,Sumeet
+A1 Shenker,Scott
+A1 Varghese,George
+T1 Why http redirect is the model for the future
+
+RT Journal Article
+ID 12823200
+A1 Ee,Cheng,Tien
+A1 Ramachandran,Vijay
+A1 Chun,Byung-Gon
+A1 Shenker,Scott
+T1 Resolving BGP Disputes
+
+RT Journal Article
+ID 10245934
+A1 Shenker,Scott
+A1 Walfish,Michael
+T1 Semantic-Free Referencing in Linked Distributed Systems
+
+RT Journal Article
+ID 13005747
+A1 Shenker,S.
+T1 Integrated Services in the Internet Architecture: an Overview Status of this Memo This memo provides information for the Internet community. This memo does not specify an Internet standard of any kind. Distribution of this memo is unlimited

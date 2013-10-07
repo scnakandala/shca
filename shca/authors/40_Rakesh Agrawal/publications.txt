@@ -1,0 +1,2986 @@
+<file>
+<record>
+<title>Fast algorithms for mining association rules</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;citation_for_view=XPdhXUUAAAAJ:u5HHmVD_uO8C</link>
+<authors>R Agrawal, R Srikant</authors>
+<source>Proc. 20th Int. Conf. Very Large Data Bases, VLDB 1215, 487-499</source>
+<citations>14438</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Mining association rules between sets of items in large databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;citation_for_view=XPdhXUUAAAAJ:u-x6o8ySG0sC</link>
+<authors>R Agrawal, T Imieliński, A Swami</authors>
+<source>ACM SIGMOD Record 22 (2), 207-216</source>
+<citations>13202</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Mining sequential patterns</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;citation_for_view=XPdhXUUAAAAJ:d1gkVwhDpl0C</link>
+<authors>R Agrawal, R Srikant</authors>
+<source>Data Engineering, 1995. Proceedings of the Eleventh International Conference ...</source>
+<citations>4672</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Fast Discovery of Association Rules.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;citation_for_view=XPdhXUUAAAAJ:9yKSN-GCB0IC</link>
+<authors>R Agrawal, H Mannila, R Srikant, H Toivonen, AI Verkamo</authors>
+<source>Advances in knowledge discovery and data mining 12, 307-328</source>
+<citations>2631</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Automatic subspace clustering of high dimensional data for data mining applications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;citation_for_view=XPdhXUUAAAAJ:70eg2SAEIzsC</link>
+<authors>R Agrawal, J Gehrke, D Gunopulos, P Raghavan</authors>
+<source>ACM SIGMOD Record 27 (2), 94-105</source>
+<citations>2294</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Privacy-preserving data mining</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;citation_for_view=XPdhXUUAAAAJ:qjMakFHDy7sC</link>
+<authors>R Agrawal, R Srikant</authors>
+<source>ACM Sigmod Record 29 (2), 439-450</source>
+<citations>2195</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Mining sequential patterns: Generalizations and performance improvements</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;citation_for_view=XPdhXUUAAAAJ:UeHWp8X0CEIC</link>
+<authors>R Srikant, R Agrawal</authors>
+<source>Advances in Database TechnologyEDBT'96, 1-17</source>
+<citations>2107</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Mining quantitative association rules in large relational tables</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;citation_for_view=XPdhXUUAAAAJ:zYLM7Y9cAGgC</link>
+<authors>R Srikant, R Agrawal</authors>
+<source>ACM SIGMOD Record 25 (2), 1-12</source>
+<citations>1752</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Mining generalized association rules</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;citation_for_view=XPdhXUUAAAAJ:NDuN12AVoxsC</link>
+<authors>R Srikant, R Agrawal</authors>
+<source>VLDB 95, 407-419</source>
+<citations>1742</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Efficient similarity search in sequence databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;citation_for_view=XPdhXUUAAAAJ:Tyk-4Ss8FVUC</link>
+<authors>R Agrawal, C Faloutsos, A Swami</authors>
+<source>Foundations of Data Organization and Algorithms, 69-84</source>
+<citations>1736</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Database mining: A performance perspective</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;citation_for_view=XPdhXUUAAAAJ:Y0pCki6q_DkC</link>
+<authors>R Agrawal, T Imielinski, A Swami</authors>
+<source>Knowledge and Data Engineering, IEEE Transactions on 5 (6), 914-925</source>
+<citations>1395</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Parallel mining of association rules</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;citation_for_view=XPdhXUUAAAAJ:W7OEmFMy1HYC</link>
+<authors>R Agrawal, JC Shafer</authors>
+<source>Knowledge and Data Engineering, IEEE Transactions on 8 (6), 962-969</source>
+<citations>1161</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>SPRINT: A scalable parallel classi er for data mining</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;citation_for_view=XPdhXUUAAAAJ:YsMSGLbcyi4C</link>
+<authors>J Shafer, R Agrawal, M Mehta</authors>
+<source>Proc. 1996 Int. Conf. Very Large Data Bases, 544-555</source>
+<citations>988</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Mining Association Rules with Item Constraints.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;citation_for_view=XPdhXUUAAAAJ:eQOLeE2rZwMC</link>
+<authors>R Srikant, Q Vu, R Agrawal</authors>
+<source>KDD 97, 67-73</source>
+<citations>901</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>SLIQ: A fast scalable classifier for data mining</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;citation_for_view=XPdhXUUAAAAJ:WF5omc3nYNoC</link>
+<authors>M Mehta, R Agrawal, J Rissanen</authors>
+<source>Advances in Database TechnologyEDBT'96, 18-32</source>
+<citations>897</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Privacy preserving mining of association rules</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;citation_for_view=XPdhXUUAAAAJ:ufrVoPGSRksC</link>
+<authors>A Evfimievski, R Srikant, R Agrawal, J Gehrke</authors>
+<source>Information Systems 29 (4), 343-364</source>
+<citations>758</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Data privacy through optimal k-anonymization</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;citation_for_view=XPdhXUUAAAAJ:UebtZRa9Y70C</link>
+<authors>RJ Bayardo, R Agrawal</authors>
+<source>Data Engineering, 2005. ICDE 2005. Proceedings. 21st International ...</source>
+<citations>729</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Hippocratic databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;citation_for_view=XPdhXUUAAAAJ:LkGwnXOMwfcC</link>
+<authors>R Agrawal, J Kiernan, R Srikant, Y Xu</authors>
+<source>Proceedings of the 28th international conference on Very Large Data Bases ...</source>
+<citations>715</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>On the computation of multidimensional aggregates</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;citation_for_view=XPdhXUUAAAAJ:_FxGoFyzp5QC</link>
+<authors>S Agarwal, R Agrawal, PM Deshpande, A Gupta, JF Naughton, R Ramakrishnan, S ...</authors>
+<source>VLDB 96, 506-521</source>
+<citations>690</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Fast algorithms for mining association rules</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;citation_for_view=XPdhXUUAAAAJ:ziOE8S1-AIUC</link>
+<authors>R Agarwal, R Srikant</authors>
+<source>Proc. of the 20th VLDB Conference, 487-499</source>
+<citations>684</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Mining process models from workflow logs</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=20&amp;citation_for_view=XPdhXUUAAAAJ:hqOjcs7Dif8C</link>
+<authors>R Agrawal, D Gunopulos, F Leymann</authors>
+<source>Advances in Database TechnologyEDBT'98, 467-483</source>
+<citations>677</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Mining the most interesting rules</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=20&amp;citation_for_view=XPdhXUUAAAAJ:Se3iqnhoufwC</link>
+<authors>RJ Bayardo Jr, R Agrawal</authors>
+<source>Proceedings of the fifth ACM SIGKDD international conference on Knowledge ...</source>
+<citations>625</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Modeling multidimensional databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=20&amp;citation_for_view=XPdhXUUAAAAJ:roLk4NBRz8UC</link>
+<authors>R Agrawal, A Gupta, S Sarawagi</authors>
+<source>Data Engineering, 1997. Proceedings. 13th International Conference on, 232-243</source>
+<citations>625</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Trust management for the semantic web</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=20&amp;citation_for_view=XPdhXUUAAAAJ:5nxA0vEk-isC</link>
+<authors>M Richardson, R Agrawal, P Domingos</authors>
+<source>The Semantic Web-ISWC 2003, 351-368</source>
+<citations>597</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Information sharing across private databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=20&amp;citation_for_view=XPdhXUUAAAAJ:3fE2CSJIrl8C</link>
+<authors>R Agrawal, A Evfimievski, R Srikant</authors>
+<source>Proceedings of the 2003 ACM SIGMOD international conference on Management of ...</source>
+<citations>504</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Concurrency control performance modeling: alternatives and implications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=20&amp;citation_for_view=XPdhXUUAAAAJ:8k81kl-MbHgC</link>
+<authors>R Agrawal, MJ Carey, M Livny</authors>
+<source>ACM Transactions on Database Systems (TODS) 12 (4), 609-654</source>
+<citations>471</citations>
+<pub_year>1987</pub_year>
+</record>
+<record>
+<title>Order preserving encryption for numeric data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=20&amp;citation_for_view=XPdhXUUAAAAJ:ULOm3_A8WrAC</link>
+<authors>R Agrawal, J Kiernan, R Srikant, Y Xu</authors>
+<source>Proceedings of the 2004 ACM SIGMOD international conference on Management of ...</source>
+<citations>468</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Integrating association rule mining with relational database systems: Alternatives and implications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=20&amp;citation_for_view=XPdhXUUAAAAJ:MXK_kJrjxJIC</link>
+<authors>S Sarawagi, S Thomas, R Agrawal</authors>
+<source>ACM SIGMOD Record 27 (2), 343-354</source>
+<citations>439</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Diversifying search results</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=20&amp;citation_for_view=XPdhXUUAAAAJ:dhFuZR0502QC</link>
+<authors>R Agrawal, S Gollapudi, A Halverson, S Ieong</authors>
+<source>Proceedings of the Second ACM International Conference on Web Search and ...</source>
+<citations>386</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Constraint-based rule mining in large, dense databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=20&amp;citation_for_view=XPdhXUUAAAAJ:pAkWuXOU-OoC</link>
+<authors>RJ Bayardo Jr, R Agrawal, D Gunopulos</authors>
+<source>Data Engineering, 1999. Proceedings., 15th International Conference on, 188-197</source>
+<citations>386</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>An interval classi er for database mining applications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=20&amp;citation_for_view=XPdhXUUAAAAJ:kNdYIx-mwKoC</link>
+<authors>R Agrawal, S Ghosh, T Imielinski, B Iyer, A Swami</authors>
+<source>Proc. of the VLDB Conference, 560-573</source>
+<citations>369</citations>
+<pub_year>1992</pub_year>
+</record>
+<record>
+<title>Efficient management of transitive relationships in large data and knowledge bases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=20&amp;citation_for_view=XPdhXUUAAAAJ:Zph67rFs4hoC</link>
+<authors>R Agrawal, A Borgida, HV Jagadish</authors>
+<source>ACM SIGMOD Record 18 (2), 253-262</source>
+<citations>358</citations>
+<pub_year>1989</pub_year>
+</record>
+<record>
+<title>Watermarking relational databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=20&amp;citation_for_view=XPdhXUUAAAAJ:U_HPUtbDl20C</link>
+<authors>R Agrawal, J Kiernan</authors>
+<source>Proceedings of the 28th international conference on Very Large Data Bases ...</source>
+<citations>352</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Ode (object database and environment): the language and the data model</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=20&amp;citation_for_view=XPdhXUUAAAAJ:KlAtU1dfN6UC</link>
+<authors>R Agrawal, NH Gehani</authors>
+<source>ACM SIGMOD Record 18 (2), 36-45</source>
+<citations>350</citations>
+<pub_year>1989</pub_year>
+</record>
+<record>
+<title>A Linear Method for Deviation Detection in Large Databases.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=20&amp;citation_for_view=XPdhXUUAAAAJ:YOwf2qJgpHMC</link>
+<authors>A Arning, R Agrawal, P Raghavan</authors>
+<source>KDD, 164-169</source>
+<citations>339</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Discovery-driven exploration of OLAP data cubes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=20&amp;citation_for_view=XPdhXUUAAAAJ:4TOpqqG69KYC</link>
+<authors>S Sarawagi, R Agrawal, N Megiddo</authors>
+<source>Advances in Database TechnologyEDBT'98, 168-182</source>
+<citations>306</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Range queries in OLAP data cubes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=20&amp;citation_for_view=XPdhXUUAAAAJ:_kc_bZDykSQC</link>
+<authors>CT Ho, R Agrawal, N Megiddo, R Srikant</authors>
+<source>ACM SIGMOD Record 26 (2), 73-88</source>
+<citations>294</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Multilevel taxonomy based on features derived from training documents classification using fisher values as discrimination values</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=20&amp;citation_for_view=XPdhXUUAAAAJ:qxL8FJ1GzNcC</link>
+<authors>R Agrawal, S Chakrabarti, BE Dom, P Raghavan</authors>
+<source>US Patent 6,233,575</source>
+<citations>286</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>A framework for expressing and combining preferences</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=20&amp;citation_for_view=XPdhXUUAAAAJ:M3ejUd6NZC8C</link>
+<authors>R Agrawal, EL Wimmers</authors>
+<source>ACM SIGMOD Record 29 (2), 297-306</source>
+<citations>266</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Mining generalized association rules</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=20&amp;citation_for_view=XPdhXUUAAAAJ:IjCSPb-OGe4C</link>
+<authors>R Srikant, R Agrawal</authors>
+<source>Future Generation Computer Systems 13 (2), 161-180</source>
+<citations>261</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Scalable feature selection, classification and signature generation for organizing large text databases into hierarchical topic taxonomies</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=40&amp;citation_for_view=XPdhXUUAAAAJ:4DMP91E08xMC</link>
+<authors>S Chakrabarti, B Dom, R Agrawal, P Raghavan</authors>
+<source>The VLDB journal 7 (3), 163-178</source>
+<citations>253</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>The Quest Data Mining System.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=40&amp;citation_for_view=XPdhXUUAAAAJ:aqlVkmm33-oC</link>
+<authors>R Agrawal, M Mehta, JC Shafer, R Srikant, A Arning, T Bollinger</authors>
+<source>KDD 96, 244-249</source>
+<citations>252</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Discovering Trends in Text Databases.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=40&amp;citation_for_view=XPdhXUUAAAAJ:mVmsd5A6BfQC</link>
+<authors>B Lent, R Agrawal, R Srikant</authors>
+<source>KDD 97, 227-230</source>
+<citations>238</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Limiting disclosure in hippocratic databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=40&amp;citation_for_view=XPdhXUUAAAAJ:L8Ckcad2t8MC</link>
+<authors>K LeFevre, R Agrawal, V Ercegovac, R Ramakrishnan, Y Xu, D DeWitt</authors>
+<source>Proceedings of the Thirtieth international conference on Very large data ...</source>
+<citations>219</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>MDL-Based Decision Tree Pruning.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=40&amp;citation_for_view=XPdhXUUAAAAJ:9ZlFYXVOiuMC</link>
+<authors>M Mehta, J Rissanen, R Agrawal</authors>
+<source>KDD 95, 216-221</source>
+<citations>219</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Method of file access in a distributed processing computer network</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=40&amp;citation_for_view=XPdhXUUAAAAJ:QIV2ME_5wuYC</link>
+<authors>R Agrawal, AK Ezzat</authors>
+<source>US Patent 4,825,354</source>
+<citations>199</citations>
+<pub_year>1989</pub_year>
+</record>
+<record>
+<title>Storage and querying of e-commerce data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=40&amp;citation_for_view=XPdhXUUAAAAJ:IWHjjKOFINEC</link>
+<authors>R Agrawal, A Somani, Y Xu</authors>
+<source>VLDB 1, 149-158</source>
+<citations>196</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Alert: An architecture for transforming a passive DBMS into an active DBMS</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=40&amp;citation_for_view=XPdhXUUAAAAJ:ZeXyd9-uunAC</link>
+<authors>U Schreier, H Pirahesh, R Agrawal, C Mohan</authors>
+<source>Proceedings of the 17th International Conference on Very Large Data Bases ...</source>
+<citations>188</citations>
+<pub_year>1991</pub_year>
+</record>
+<record>
+<title>Alpha: An extension of relational algebra to express a class of recursive queries</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=40&amp;citation_for_view=XPdhXUUAAAAJ:7PzlFSSx8tAC</link>
+<authors>R Agrawal</authors>
+<source>Software Engineering, IEEE Transactions on 14 (7), 879-885</source>
+<citations>185</citations>
+<pub_year>1988</pub_year>
+</record>
+<record>
+<title>Constraint-based rule mining in large, dense databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=40&amp;citation_for_view=XPdhXUUAAAAJ:0EnyYjriUFMC</link>
+<authors>RJ Bayardo Jr, R Agrawal, D Gunopulos</authors>
+<source>Data Mining and Knowledge Discovery 4 (2-3), 217-240</source>
+<citations>174</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Mining newsgroups using networks arising from social behavior</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=40&amp;citation_for_view=XPdhXUUAAAAJ:_Qo2XoVZTnwC</link>
+<authors>R Agrawal, S Rajagopalan, R Srikant, Y Xu</authors>
+<source>Proceedings of the 12th international conference on World Wide Web, 529-535</source>
+<citations>170</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Privacy preserving OLAP</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=40&amp;citation_for_view=XPdhXUUAAAAJ:RHpTSmoSYBkC</link>
+<authors>R Agrawal, R Srikant, D Thomas</authors>
+<source>Proceedings of the 2005 ACM SIGMOD international conference on Management of ...</source>
+<citations>161</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>The Lowell database research self-assessment</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=40&amp;citation_for_view=XPdhXUUAAAAJ:hC7cP41nSMkC</link>
+<authors>S Abiteboul, R Agrawal, P Bernstein, M Carey, S Ceri, B Croft, D DeWitt, M ...</authors>
+<source>Communications of the ACM 48 (5), 111-118</source>
+<citations>159</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>On integrating catalogs</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=40&amp;citation_for_view=XPdhXUUAAAAJ:-f6ydRqryjwC</link>
+<authors>R Agrawal, R Srikant</authors>
+<source>Proceedings of the 10th international conference on World Wide Web, 603-612</source>
+<citations>157</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Watermarking relational data: framework, algorithms and analysis</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=40&amp;citation_for_view=XPdhXUUAAAAJ:Wp0gIr-vW9MC</link>
+<authors>R Agrawal, PJ Haas, J Kiernan</authors>
+<source>The VLDB journal 12 (2), 157-169</source>
+<citations>152</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Method of propagating resource information in a computer network</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=40&amp;citation_for_view=XPdhXUUAAAAJ:qUcmZB5y_30C</link>
+<authors>R Agrawal, AK Ezzat</authors>
+<source>US Patent 4,800,488</source>
+<citations>149</citations>
+<pub_year>1989</pub_year>
+</record>
+<record>
+<title>Using taxonomy, discriminants, and signatures for navigating in text databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=40&amp;citation_for_view=XPdhXUUAAAAJ:HDshCWvjkbEC</link>
+<authors>S Chakrabarti, B Dom, R Agrawal, P Raghavan</authors>
+<source>VLDB 97, 446-455</source>
+<citations>145</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Integrated concurrency control and recovery mechanisms: Design and performance evaluation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=40&amp;citation_for_view=XPdhXUUAAAAJ:TQgYirikUcIC</link>
+<authors>R Agrawal, DJ Dewitt</authors>
+<source>ACM Transactions on Database Systems (TODS) 10 (4), 529-564</source>
+<citations>144</citations>
+<pub_year>1985</pub_year>
+</record>
+<record>
+<title>Developing Tightly-Coupled Data Mining Applications on a Relational Database System.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=40&amp;citation_for_view=XPdhXUUAAAAJ:hFOr9nPyWt4C</link>
+<authors>R Agrawal, K Shim</authors>
+<source>KDD, 287-290</source>
+<citations>141</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Automatic subspace clustering of high dimensional data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=40&amp;citation_for_view=XPdhXUUAAAAJ:RGFaLdJalmkC</link>
+<authors>R Agrawal, J Gehrke, D Gunopulos, P Raghavan</authors>
+<source>Data Mining and Knowledge Discovery 11 (1), 5-33</source>
+<citations>139</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Active Data Mining.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=60&amp;citation_for_view=XPdhXUUAAAAJ:R3hNpaxXUhUC</link>
+<authors>R Agrawal, G Psaila</authors>
+<source>KDD, 3-8</source>
+<citations>139</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Static type checking of multi-methods</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=60&amp;citation_for_view=XPdhXUUAAAAJ:mB3voiENLucC</link>
+<authors>R Agrawal, LG DeMichiel, BG Lindsay</authors>
+<source>ACM SIGPLAN Notices 26 (11), 113-128</source>
+<citations>137</citations>
+<pub_year>1991</pub_year>
+</record>
+<record>
+<title>Auditing compliance with a hippocratic database</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=60&amp;citation_for_view=XPdhXUUAAAAJ:JV2RwH3_ST0C</link>
+<authors>R Agrawal, R Bayardo, C Faloutsos, J Kiernan, R Rantzau, R Srikant</authors>
+<source>Proceedings of the Thirtieth international conference on Very large data ...</source>
+<citations>131</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>System and method for mining generalized association rules in databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=60&amp;citation_for_view=XPdhXUUAAAAJ:r0BpntZqJG4C</link>
+<authors>R Agrawal, R Srikant</authors>
+<source>US Patent 5,615,341</source>
+<citations>127</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Direct transitive closure algorithms: Design and performance evaluation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=60&amp;citation_for_view=XPdhXUUAAAAJ:e5wmG9Sq2KIC</link>
+<authors>R Agrawal, S Dar, HV Jagadish</authors>
+<source>ACM Transactions on Database Systems (TODS) 15 (3), 427-458</source>
+<citations>122</citations>
+<pub_year>1990</pub_year>
+</record>
+<record>
+<title>On computing the data cube</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=60&amp;citation_for_view=XPdhXUUAAAAJ:iH-uZ7U-co4C</link>
+<authors>S Sarawagi, R Agrawal, A Gupta</authors>
+<source>IBM Research Division</source>
+<citations>121</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Direct Algorithms for Computing the Transitive Closure of Database Relations.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=60&amp;citation_for_view=XPdhXUUAAAAJ:isC4tDSrTZIC</link>
+<authors>R Agrawal, HV Jagadish</authors>
+<source>VLDB 87, 1-4</source>
+<citations>120</citations>
+<pub_year>1987</pub_year>
+</record>
+<record>
+<title>OdeView: The graphical interface to Ode</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=60&amp;citation_for_view=XPdhXUUAAAAJ:bEWYMUwI8FkC</link>
+<authors>R Agrawal, NH Gehani, J Srinivasan</authors>
+<source>ACM SIGMOD Record 19 (2), 34-43</source>
+<citations>116</citations>
+<pub_year>1990</pub_year>
+</record>
+<record>
+<title>DBMS research at a crossroads: The vienna update</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=60&amp;citation_for_view=XPdhXUUAAAAJ:PVgj2kMGcgYC</link>
+<authors>M Stonebraker, R Agrawal, U Dayal, EJ Neuhold, A Reuter</authors>
+<source>VLDB, 688-692</source>
+<citations>111</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Keyboard acoustic emanations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=60&amp;citation_for_view=XPdhXUUAAAAJ:2P1L_qKh6hAC</link>
+<authors>D Asonov, R Agrawal</authors>
+<source>Security and Privacy, 2004. Proceedings. 2004 IEEE Symposium on, 3-11</source>
+<citations>110</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Athena: Mining-based interactive management of text databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=60&amp;citation_for_view=XPdhXUUAAAAJ:M3NEmzRMIkIC</link>
+<authors>R Agrawal, R Bayardo, R Srikant</authors>
+<source>Advances in Database TechnologyEDBT 2000, 365-379</source>
+<citations>110</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>A study of transitive closure as a recursion mechanism</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=60&amp;citation_for_view=XPdhXUUAAAAJ:NMxIlDl6LWMC</link>
+<authors>HV Jagadish, R Agrawal, L Ness</authors>
+<source>ACM SIGMOD Record 16 (3), 331-344</source>
+<citations>110</citations>
+<pub_year>1987</pub_year>
+</record>
+<record>
+<title>Extending relational database systems to automatically enforce privacy policies</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=60&amp;citation_for_view=XPdhXUUAAAAJ:35N4QoGY0k4C</link>
+<authors>R Agrawal, P Bird, T Grandison, J Kiernan, S Logan, W Rjaibi</authors>
+<source>Data Engineering, 2005. ICDE 2005. Proceedings. 21st International ...</source>
+<citations>108</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Models for studying concurrency control performance: alternatives and implications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=60&amp;citation_for_view=XPdhXUUAAAAJ:j3f4tGmQtD8C</link>
+<authors>R Agrawal, MJ Carey, M Livny</authors>
+<source>ACM SIGMOD Record 14 (4), 108-121</source>
+<citations>108</citations>
+<pub_year>1985</pub_year>
+</record>
+<record>
+<title>An XPath-based preference language for P3P</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=60&amp;citation_for_view=XPdhXUUAAAAJ:blknAaTinKkC</link>
+<authors>R Agrawal, J Kiernan, R Srikant, Y Xu</authors>
+<source>Proceedings of the 12th international conference on World Wide Web, 629-639</source>
+<citations>106</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Discovery-driven exploration of OLAP data cubes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=60&amp;citation_for_view=XPdhXUUAAAAJ:hMod-77fHWUC</link>
+<authors>R Agrawal, S Sarawagi</authors>
+<source>US Patent 6,094,651</source>
+<citations>105</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>The performance of alternative strategies for dealing with deadlocks in database management systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=60&amp;citation_for_view=XPdhXUUAAAAJ:maZDTaKrznsC</link>
+<authors>R Agrawal, MJ Carey, LW McVoy</authors>
+<source>Software Engineering, IEEE Transactions on, 1348-1363</source>
+<citations>105</citations>
+<pub_year>1987</pub_year>
+</record>
+<record>
+<title>Vinci: A service-oriented architecture for rapid development of web applications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=60&amp;citation_for_view=XPdhXUUAAAAJ:O3NaXMp0MMsC</link>
+<authors>R Agrawal, RJ Bayardo Jr, D Gruhl, S Papadimitriou</authors>
+<source>Computer Networks 39 (5), 523-539</source>
+<citations>104</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Parallel classification for data mining on shared-memory multiprocessors</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=60&amp;citation_for_view=XPdhXUUAAAAJ:BqipwSGYUEgC</link>
+<authors>MJ Zaki, CT Ho, R Agrawal</authors>
+<source>Data Engineering, 1999. Proceedings., 15th International Conference on, 198-205</source>
+<citations>104</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Using the wisdom of the crowds for keyword generation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=60&amp;citation_for_view=XPdhXUUAAAAJ:3s1wT3WcHBgC</link>
+<authors>A Fuxman, P Tsaparas, K Achan, R Agrawal</authors>
+<source>Proceedings of the 17th international conference on World Wide Web, 61-70</source>
+<citations>101</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Method for high-dimensionality indexing in a multi-media database</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=80&amp;citation_for_view=XPdhXUUAAAAJ:YFjsv_pBGBYC</link>
+<authors>R Agrawal, WR Equitz, C Faloutsos, MD Flickner, AN Swami</authors>
+<source>US Patent 5,647,058</source>
+<citations>101</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Self-adaptive method and system for providing a user-preferred ranking order of object sets</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=80&amp;citation_for_view=XPdhXUUAAAAJ:RYcK_YlVTxYC</link>
+<authors>R Agrawal, A Arning, R Seiffert, R Srikant</authors>
+<source>US Patent 6,370,526</source>
+<citations>98</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Database system and method employing data cube operator for group-by operations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=80&amp;citation_for_view=XPdhXUUAAAAJ:GnPB-g6toBAC</link>
+<authors>R Agrawal, A Gupta, S Sarawagi</authors>
+<source>US Patent 5,832,475</source>
+<citations>97</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>The Claremont report on database research</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=80&amp;citation_for_view=XPdhXUUAAAAJ:_xSYboBqXhAC</link>
+<authors>R Agrawal, A Ailamaki, PA Bernstein, EA Brewer, MJ Carey, S Chaudhuri, AH ...</authors>
+<source>ACM SIGMOD Record 37 (3), 9-19</source>
+<citations>93</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Method and system for mining quantitative association rules in large relational tables</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=80&amp;citation_for_view=XPdhXUUAAAAJ:J_g5lzvAfSwC</link>
+<authors>R Agrawal, R Srikant</authors>
+<source>US Patent 5,724,573</source>
+<citations>92</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>On maintaining priorities in a production rule system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=80&amp;citation_for_view=XPdhXUUAAAAJ:NaGl4SEjCO4C</link>
+<authors>R Agrawal, RJ Cochrane, BG Lindsay</authors>
+<source></source>
+<citations>89</citations>
+<pub_year>1991</pub_year>
+</record>
+<record>
+<title>Are Web Services the Next Revolution in e-Commerce?(Panel).</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=80&amp;citation_for_view=XPdhXUUAAAAJ:vV6vV6tmYwMC</link>
+<authors>S Tsur, S Abiteboul, R Agrawal, U Dayal, J Klein, G Weikum</authors>
+<source>VLDB 1, 614-617</source>
+<citations>88</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>High-dimensional similarity joins</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=80&amp;citation_for_view=XPdhXUUAAAAJ:ns9cj8rnVeAC</link>
+<authors>K Shim, R Srikant, R Agrawal</authors>
+<source>Data Engineering, 1997. Proceedings. 13th International Conference on, 301-311</source>
+<citations>87</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Deriving process models for workflow management systems from audit trails</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=80&amp;citation_for_view=XPdhXUUAAAAJ:SeFeTyx0c_EC</link>
+<authors>R Agrawal, F Leymann, D Roller</authors>
+<source>US Patent 6,278,977</source>
+<citations>85</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Context-sensitive ranking</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=80&amp;citation_for_view=XPdhXUUAAAAJ:bFI3QPDXJZMC</link>
+<authors>R Agrawal, R Rantzau, E Terzi</authors>
+<source>Proceedings of the 2006 ACM SIGMOD international conference on Management of ...</source>
+<citations>83</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>On the deployment of hierarchical databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=80&amp;citation_for_view=XPdhXUUAAAAJ:YsrPvlHIBpEC</link>
+<authors>Z Zhou, R Agarwal, F Robinson</authors>
+<source>Proceedings of ASPLOS</source>
+<citations>83</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Implementing P3P using database technology</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=80&amp;citation_for_view=XPdhXUUAAAAJ:ldfaerwXgEUC</link>
+<authors>R Agrawal, J Kiernan, R Srikant, Y Xu</authors>
+<source>Data Engineering, 2003. Proceedings. 19th International Conference on, 595-606</source>
+<citations>80</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Method and system for performing range max/min queries on a data cube</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=80&amp;citation_for_view=XPdhXUUAAAAJ:HoB7MX3m0LUC</link>
+<authors>R Agrawal, CT Ho, N Megiddo</authors>
+<source>US Patent 5,926,820</source>
+<citations>79</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Fast algorithms for mining frequent itemsets</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=80&amp;citation_for_view=XPdhXUUAAAAJ:jE2MZjpN3IcC</link>
+<authors>R Agrawal, R Srikant</authors>
+<source>Proceedings of the 20th International Conference Very Large DataBase ...</source>
+<citations>79</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Integrating association rule mining with relational database systems: alternatives and implications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=80&amp;citation_for_view=XPdhXUUAAAAJ:lSLTfruPkqcC</link>
+<authors>S Sarawagi, S Thomas, R Agrawal</authors>
+<source>Data mining and knowledge discovery 4 (2-3), 89-125</source>
+<citations>78</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Data mining method and system for generating a decision tree classifier for data records based on a minimum description length (MDL) and presorting of records</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=80&amp;citation_for_view=XPdhXUUAAAAJ:pqnbT2bcN3wC</link>
+<authors>R Agrawal, M Mehta, JJ Rissanen</authors>
+<source>US Patent 5,787,274</source>
+<citations>76</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Partitioning techniques for large-grained parallelism</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=80&amp;citation_for_view=XPdhXUUAAAAJ:ZHo1McVdvXMC</link>
+<authors>R Agrawal, HV Jagadish</authors>
+<source>Computers, IEEE Transactions on 37 (12), 1627-1634</source>
+<citations>76</citations>
+<pub_year>1988</pub_year>
+</record>
+<record>
+<title>Securing electronic health records without impeding the flow of information</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=80&amp;citation_for_view=XPdhXUUAAAAJ:xtRiw3GOFMkC</link>
+<authors>R Agrawal, C Johnson</authors>
+<source>International journal of medical informatics 76 (5), 471-479</source>
+<citations>75</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>System and method for quickly mining association rules in databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=80&amp;citation_for_view=XPdhXUUAAAAJ:D03iK_w7-QYC</link>
+<authors>R Agrawal, R Srikant</authors>
+<source>US Patent 5,794,209</source>
+<citations>75</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Method and system for performing range-sum queries on a data cube</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=80&amp;citation_for_view=XPdhXUUAAAAJ:rO6llkc54NcC</link>
+<authors>R Agrawal, CT Ho, R Srikant</authors>
+<source>US Patent 5,799,300</source>
+<citations>74</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>System and method for organizing repositories of semi-structured documents such as email</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=100&amp;citation_for_view=XPdhXUUAAAAJ:yD5IFk8b50cC</link>
+<authors>R Agrawal, RJ Bayardo, D Gunopulos, CTH Ho, S Sarawagi, JC Shafer, R Srikant</authors>
+<source>US Patent 6,592,627</source>
+<citations>71</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Multiprocessor transitive closure algorithms</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=100&amp;citation_for_view=XPdhXUUAAAAJ:g5m5HwL7SMYC</link>
+<authors>R Agrawal, HV Jagadish</authors>
+<source>Proceedings of the first international symposium on Databases in parallel ...</source>
+<citations>69</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Algorithms for searching massive graphs</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=100&amp;citation_for_view=XPdhXUUAAAAJ:a0OBvERweLwC</link>
+<authors>R Agrawal, HV Jagadish</authors>
+<source>Knowledge and Data Engineering, IEEE Transactions on 6 (2), 225-238</source>
+<citations>69</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Object versioning in Ode</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=100&amp;citation_for_view=XPdhXUUAAAAJ:zA6iFVUQeVQC</link>
+<authors>R Agrawal, S Buroff, N Gehani, D Shasha</authors>
+<source>Data Engineering, 1991. Proceedings. Seventh International Conference on ...</source>
+<citations>66</citations>
+<pub_year>1991</pub_year>
+</record>
+<record>
+<title>Towards traceability across sovereign, distributed RFID databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=100&amp;citation_for_view=XPdhXUUAAAAJ:nb7KW1ujOQ8C</link>
+<authors>R Agrawal, A Cheung, K Kailing, S Schonauer</authors>
+<source>Database Engineering and Applications Symposium, 2006. IDEAS'06. 10th ...</source>
+<citations>65</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Apparatus for and method of displaying a data item of a database using the display function of a selected data item</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=100&amp;citation_for_view=XPdhXUUAAAAJ:fPk4N6BV_jEC</link>
+<authors>R Agrawal, NH Gehani, J Srinivasan</authors>
+<source>US Patent 5,412,774</source>
+<citations>64</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Rationale for the Design of Persistence and Query Processing Facilities in the Database Programming Language O++.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=100&amp;citation_for_view=XPdhXUUAAAAJ:u_35RYKgDlwC</link>
+<authors>R Agrawal, NH Gehani</authors>
+<source>DBPL, 25-40</source>
+<citations>64</citations>
+<pub_year>1989</pub_year>
+</record>
+<record>
+<title>Multilevel taxonomy based on features derived from training documents classification using fisher values as discrimination values</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=100&amp;citation_for_view=XPdhXUUAAAAJ:bKqednn6t2AC</link>
+<authors>R Agrawal, S Chakrabarti, BE Dom, P Raghavan</authors>
+<source>US Patent App. 09/777,278</source>
+<citations>63</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Mapping words, phrases using sequential-pattern to find user specific trends in a text database</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=100&amp;citation_for_view=XPdhXUUAAAAJ:cFHS6HbyZ2cC</link>
+<authors>R Agrawal, R Srikant, BS Lent</authors>
+<source>US Patent 6,006,223</source>
+<citations>62</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Privacy-preserving indexing of documents on the network</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=100&amp;citation_for_view=XPdhXUUAAAAJ:f2IySw72cVMC</link>
+<authors>M Bawa, RJ Bayardo Jr, R Agrawal</authors>
+<source>Proceedings of the 29th international conference on Very large data bases ...</source>
+<citations>61</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Hybrid Transitive Closure Algorithms.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=100&amp;citation_for_view=XPdhXUUAAAAJ:dfsIfKJdRG4C</link>
+<authors>R Agrawal, HV Jagadish</authors>
+<source>VLDB, 326-334</source>
+<citations>61</citations>
+<pub_year>1990</pub_year>
+</record>
+<record>
+<title>Integrated database and data-mining system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=100&amp;citation_for_view=XPdhXUUAAAAJ:1sJd4Hv_s6UC</link>
+<authors>R Agrawal, S Sarawagi, S Thomas</authors>
+<source>US Patent 6,324,533</source>
+<citations>60</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Generating process models from workflow logs</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=100&amp;citation_for_view=XPdhXUUAAAAJ:P5F9QuxV20EC</link>
+<authors>R Agrawal, D Gunopulos, F Leymann, DH Roller</authors>
+<source>US Patent 6,038,538</source>
+<citations>60</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Method and system for performing partial-sum queries on a data cube</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=100&amp;citation_for_view=XPdhXUUAAAAJ:EUQCXRtRnyEC</link>
+<authors>R Agrawal, J Bruck, CT Ho</authors>
+<source>US Patent 5,890,151</source>
+<citations>60</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Method and system for generating a decision-tree classifier independent of system memory size</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=100&amp;citation_for_view=XPdhXUUAAAAJ:b0M2c_1WBrUC</link>
+<authors>R Agrawal, M Mehta, JC Shafer</authors>
+<source>US Patent 5,799,311</source>
+<citations>60</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>The Claremont report on database research</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=100&amp;citation_for_view=XPdhXUUAAAAJ:tS2w5q8j5-wC</link>
+<authors>R Agrawal, A Ailamaki, PA Bernstein, EA Brewer, MJ Carey, S Chaudhuri, A ...</authors>
+<source>Communications of the ACM 52 (6), 56-65</source>
+<citations>59</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Location independent remote execution in NEST</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=100&amp;citation_for_view=XPdhXUUAAAAJ:abG-DnoFyZgC</link>
+<authors>R Agrawal, AK Ezzat</authors>
+<source>Software Engineering, IEEE Transactions on, 905-912</source>
+<citations>57</citations>
+<pub_year>1987</pub_year>
+</record>
+<record>
+<title>Taming compliance with Sarbanes-Oxley internal controls using database technology</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=100&amp;citation_for_view=XPdhXUUAAAAJ:KxtntwgDAa4C</link>
+<authors>R Agrawal, C Johnson, J Kiernan, F Leymann</authors>
+<source>Data Engineering, 2006. ICDE'06. Proceedings of the 22nd International ...</source>
+<citations>56</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Method and system for mining generalized sequential patterns in a large database</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=100&amp;citation_for_view=XPdhXUUAAAAJ:CHSYGLWDkRkC</link>
+<authors>R Agrawal, R Srikant</authors>
+<source>US Patent 5,742,811</source>
+<citations>54</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Materialization and incremental update of path information</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=100&amp;citation_for_view=XPdhXUUAAAAJ:NhqRSupF_l8C</link>
+<authors>R Agrawal, HV Jagadish</authors>
+<source>Data Engineering, 1989. Proceedings. Fifth International Conference on, 374-383</source>
+<citations>54</citations>
+<pub_year>1989</pub_year>
+</record>
+<record>
+<title>Release of iron from ferritin by metabolites of benzene and superoxide radical generating agents</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=120&amp;citation_for_view=XPdhXUUAAAAJ:MAUkC_7iAq8C</link>
+<authors>R Agrawal, PK Sharma, GS Rao</authors>
+<source>Toxicology 168 (3), 223-230</source>
+<citations>52</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Sovereign joins</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=120&amp;citation_for_view=XPdhXUUAAAAJ:738O_yMBCRsC</link>
+<authors>R Agrawal, D Asonov, M Kantarcioglu, Y Li</authors>
+<source>Data Engineering, 2006. ICDE'06. Proceedings of the 22nd International ...</source>
+<citations>48</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>System and method for parallel mining of association rules in databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=120&amp;citation_for_view=XPdhXUUAAAAJ:OU6Ihb5iCvQC</link>
+<authors>R Agrawal, JC Shafer</authors>
+<source>US Patent 5,842,200</source>
+<citations>48</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Methods to support multimethod function overloading with compile-time type checking</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=120&amp;citation_for_view=XPdhXUUAAAAJ:dshw04ExmUIC</link>
+<authors>R Agrawal, LG De Michiel, BG Lindsay</authors>
+<source>US Patent 5,696,974</source>
+<citations>46</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Method and apparatus for partitioning a database upon a timestamp, support values for phrases and generating a history of frequently occurring phrases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=120&amp;citation_for_view=XPdhXUUAAAAJ:WbkHhVStYXYC</link>
+<authors>R Agrawal, R Srikant, BS Lent</authors>
+<source>US Patent 6,308,172</source>
+<citations>45</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Method and system for generating a decision-tree classifier in parallel in a multi-processor system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=120&amp;citation_for_view=XPdhXUUAAAAJ:Tiz5es2fbqcC</link>
+<authors>R Agrawal, M Mehta, JC Shafer</authors>
+<source>US Patent 5,870,735</source>
+<citations>45</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>A One-Pass Space-E cient Algorithm for Finding Quantiles</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=120&amp;citation_for_view=XPdhXUUAAAAJ:u9iWguZQMMsC</link>
+<authors>R Agrawal, A Swami</authors>
+<source>Proc. 7th Intl. Conf. Management of Data (COMAD-95), Pune, India</source>
+<citations>43</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>YouServ: a web-hosting and content sharing tool for the masses</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=120&amp;citation_for_view=XPdhXUUAAAAJ:UxriW0iASnsC</link>
+<authors>RJ Bayardo Jr, R Agrawal, D Gruhl, A Somani</authors>
+<source>Proceedings of the 11th international conference on World Wide Web, 345-354</source>
+<citations>42</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Partial-sum queries in OLAP data cubes using covering codes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=120&amp;citation_for_view=XPdhXUUAAAAJ:XiSMed-E-HIC</link>
+<authors>CT Ho, J Bruck, R Agrawal</authors>
+<source>Computers, IEEE Transactions on 47 (12), 1326-1340</source>
+<citations>42</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Moving selections into linear least fixpoint queries</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=120&amp;citation_for_view=XPdhXUUAAAAJ:p2g8aNsByqUC</link>
+<authors>R Agrawal, P Devanbu</authors>
+<source>Knowledge and Data Engineering, IEEE Transactions on 1 (4), 424-432</source>
+<citations>42</citations>
+<pub_year>1989</pub_year>
+</record>
+<record>
+<title>Enabling the 21st century health care information technology revolution</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=120&amp;citation_for_view=XPdhXUUAAAAJ:vRqMK49ujn8C</link>
+<authors>R Agrawal, T Grandison, C Johnson, J Kiernan</authors>
+<source>Communications of the ACM 50 (2), 34-42</source>
+<citations>41</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Method and system for generating a decision-tree classifier in parallel in a multi-processor system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=120&amp;citation_for_view=XPdhXUUAAAAJ:tOudhMTPpwUC</link>
+<authors>R Agrawal, M Mehta, JC Shafer</authors>
+<source>US Patent 6,138,115</source>
+<citations>40</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Method and system for performing proximity joins on high-dimensional data points in parallel</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=120&amp;citation_for_view=XPdhXUUAAAAJ:l7t_Zn2s7bgC</link>
+<authors>R Agrawal, JC Shafer</authors>
+<source>US Patent 5,884,320</source>
+<citations>40</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>The O++ database programming language: Implementation and experience</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=120&amp;citation_for_view=XPdhXUUAAAAJ:SP6oXDckpogC</link>
+<authors>R Agrawal, S Dar, N Gehani</authors>
+<source>Data Engineering, 1993. Proceedings. Ninth International Conference on, 61-70</source>
+<citations>40</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>System and method for mining sequential patterns in a large database</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=120&amp;citation_for_view=XPdhXUUAAAAJ:K3LRdlH-MEoC</link>
+<authors>R Agrawal, R Srikant</authors>
+<source>US Patent 5,819,266</source>
+<citations>38</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Data mining: Crossing the chasm</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=120&amp;citation_for_view=XPdhXUUAAAAJ:uWQEDVKXjbEC</link>
+<authors>R Agrawal</authors>
+<source></source>
+<citations>37</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Uniform search system and method for selectively sharing distributed access-controlled documents</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=120&amp;citation_for_view=XPdhXUUAAAAJ:gKiMpY-AVTkC</link>
+<authors>R Agrawal, M Bawa, RJ Bayardo</authors>
+<source>US Patent 7,711,727</source>
+<citations>35</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Parallel classification for data mining in a shared-memory multiprocessor system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=120&amp;citation_for_view=XPdhXUUAAAAJ:5Ul4iDaHHb8C</link>
+<authors>R Agrawal, CT Ho, MJ Zaki</authors>
+<source>US Patent 6,230,151</source>
+<citations>35</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>On honesty in sovereign information sharing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=120&amp;citation_for_view=XPdhXUUAAAAJ:sSrBHYA8nusC</link>
+<authors>R Agrawal, E Terzi</authors>
+<source>Advances in Database Technology-EDBT 2006, 240-256</source>
+<citations>33</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Methods to support multimethod function overloading with compile-time type checking</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=120&amp;citation_for_view=XPdhXUUAAAAJ:08ZZubdj9fEC</link>
+<authors>R Agrawal, LG De Michiel, BG Lindsay</authors>
+<source>US Patent 5,488,727</source>
+<citations>33</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Extending SQL with generalized transitive closure</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=140&amp;citation_for_view=XPdhXUUAAAAJ:4fKUyHm3Qg0C</link>
+<authors>S Dar, R Agrawal</authors>
+<source>Knowledge and Data Engineering, IEEE Transactions on 5 (5), 799-812</source>
+<citations>33</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Searching with numbers</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=140&amp;citation_for_view=XPdhXUUAAAAJ:olpn-zPbct0C</link>
+<authors>R Agrawal, R Srikant</authors>
+<source>Knowledge and Data Engineering, IEEE Transactions on 15 (4), 855-870</source>
+<citations>31</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>System and method for constraint-based rule mining in large, dense data-sets</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=140&amp;citation_for_view=XPdhXUUAAAAJ:VOx2b1Wkg3QC</link>
+<authors>R Agrawal, RJ Bayardo, D Gunopulos</authors>
+<source>US Patent 6,278,997</source>
+<citations>31</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Method and apparatus for mining association rules having item constraints</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=140&amp;citation_for_view=XPdhXUUAAAAJ:B3FOqHPlNUQC</link>
+<authors>R Agrawal, R Srikant, Q Vu</authors>
+<source>US Patent 6,061,682</source>
+<citations>31</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Managing healthcare data hippocratically</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=140&amp;citation_for_view=XPdhXUUAAAAJ:mvPsJ3kp5DgC</link>
+<authors>R Agrawal, A Kini, K LeFevre, A Wang, Y Xu, D Zhou</authors>
+<source>Proceedings of the 2004 ACM SIGMOD international conference on Management of ...</source>
+<citations>30</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>An access structure for generalized transitive closure queries</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=140&amp;citation_for_view=XPdhXUUAAAAJ:8AbLer7MMksC</link>
+<authors>R Agrawal, J Kiernan</authors>
+<source>Data Engineering, 1993. Proceedings. Ninth International Conference on, 429-438</source>
+<citations>30</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Method for computing transitive closure</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=140&amp;citation_for_view=XPdhXUUAAAAJ:geHnlv5EZngC</link>
+<authors>R Agrawal, HV Jagadish</authors>
+<source>US Patent 4,930,072</source>
+<citations>30</citations>
+<pub_year>1990</pub_year>
+</record>
+<record>
+<title>XPref: a preference language for P3P</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=140&amp;citation_for_view=XPdhXUUAAAAJ:J-pR_7NvFogC</link>
+<authors>R Agrawal, J Kiernan, R Srikant, Y Xu</authors>
+<source>Computer Networks 48 (5), 809-827</source>
+<citations>28</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Method and system for performing spatial similarity joins on high-dimensional points</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=140&amp;citation_for_view=XPdhXUUAAAAJ:LPZeul_q3PIC</link>
+<authors>R Agrawal, K Shim, R Srikant</authors>
+<source>US Patent 5,978,794</source>
+<citations>28</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Continuous querying in database-centric web applications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=140&amp;citation_for_view=XPdhXUUAAAAJ:fQNAKQ3IYiAC</link>
+<authors>JC Shafer, R Agrawal</authors>
+<source>Computer Networks 33 (1), 519-531</source>
+<citations>27</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Tutorial database mining</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=140&amp;citation_for_view=XPdhXUUAAAAJ:eJXPG6dFmWUC</link>
+<authors>R Agrawal</authors>
+<source>Proceedings of the thirteenth ACM SIGACT-SIGMOD-SIGART symposium on ...</source>
+<citations>25</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Processor sharing in NEST: A network of computer workstations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=140&amp;citation_for_view=XPdhXUUAAAAJ:eflP2zaiRacC</link>
+<authors>R Agrawal, AK Ezzat</authors>
+<source>1st International Conference on Computer Workstations, 198-208</source>
+<citations>25</citations>
+<pub_year>1985</pub_year>
+</record>
+<record>
+<title>Generating labels from clicks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=140&amp;citation_for_view=XPdhXUUAAAAJ:eMMeJKvmdy0C</link>
+<authors>R Agrawal, A Halverson, K Kenthapadi, N Mishra, P Tsaparas</authors>
+<source>Proceedings of the Second ACM International Conference on Web Search and ...</source>
+<citations>24</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Interactive mining of most interesting rules with population constraints</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=140&amp;citation_for_view=XPdhXUUAAAAJ:WA5NYHcadZ8C</link>
+<authors>R Agrawal, RJ Bayardo</authors>
+<source>US Patent 6,651,048</source>
+<citations>24</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Method and system for building a decision-tree classifier from privacy-preserving data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=140&amp;citation_for_view=XPdhXUUAAAAJ:JoZmwDi-zQgC</link>
+<authors>R Agrawal, R Srikant</authors>
+<source>US Patent 6,546,389</source>
+<citations>24</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Parallel algorithms for high-dimensional proximity joins</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=140&amp;citation_for_view=XPdhXUUAAAAJ:BrmTIyaxlBUC</link>
+<authors>JC Shafer, R Agrawal</authors>
+<source>Proceedings of the International Conference on Very Large Data Bases, 176-185</source>
+<citations>24</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>On correctly configuring versioned objects</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=140&amp;citation_for_view=XPdhXUUAAAAJ:D_sINldO8mEC</link>
+<authors>R Agrawal, HV Jagadish</authors>
+<source>Proceedings of the Fifth VLDB Conference</source>
+<citations>24</citations>
+<pub_year>1989</pub_year>
+</record>
+<record>
+<title>Recovery architectures for multiprocessor database machines</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=140&amp;citation_for_view=XPdhXUUAAAAJ:q3oQSFYPqjQC</link>
+<authors>R Agrawal, DJ DeWitt</authors>
+<source>ACM SIGMOD Record 14 (4), 131-145</source>
+<citations>24</citations>
+<pub_year>1985</pub_year>
+</record>
+<record>
+<title>Homophily in the digital world: A LiveJournal case study</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=140&amp;citation_for_view=XPdhXUUAAAAJ:UHK10RUVsp4C</link>
+<authors>H Lauw, JC Shafer, R Agrawal, A Ntoulas</authors>
+<source>Internet Computing, IEEE 14 (2), 15-23</source>
+<citations>23</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Enabling sovereign information sharing using web services</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=140&amp;citation_for_view=XPdhXUUAAAAJ:WqliGbK-hY8C</link>
+<authors>R Agrawal, D Asonov, R Srikant</authors>
+<source>Proceedings of the 2004 ACM SIGMOD international conference on Management of ...</source>
+<citations>22</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>A system for watermarking relational databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=160&amp;citation_for_view=XPdhXUUAAAAJ:_B80troHkn4C</link>
+<authors>R Agrawal, PJ Haas, J Kiernan</authors>
+<source>Proceedings of the 2003 ACM SIGMOD international conference on Management of ...</source>
+<citations>22</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>System and method for query optimization using quantile values of a large unordered data set</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=160&amp;citation_for_view=XPdhXUUAAAAJ:kRWSkSYxWN8C</link>
+<authors>R Agrawal, AN Swami</authors>
+<source>US Patent 5,664,171</source>
+<citations>22</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>System and method for web-based querying</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=160&amp;citation_for_view=XPdhXUUAAAAJ:Y5dfb0dijaUC</link>
+<authors>R Agrawal, JC Shafer</authors>
+<source>US Patent 6,633,885</source>
+<citations>21</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Method for directly providing content and services via a computer network</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=160&amp;citation_for_view=XPdhXUUAAAAJ:oNZyr7d5Mn4C</link>
+<authors>R Agrawal, RJ Bayardo, DF Gruhl, A Somani, R Srikant, Y Xu</authors>
+<source>US Patent App. 10/295,717</source>
+<citations>21</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Quest: A project on database mining</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=160&amp;citation_for_view=XPdhXUUAAAAJ:Mojj43d5GZwC</link>
+<authors>R Agrawal, M Carey, C Faloutsos, S Ghosh, M Houtsma, T Imieliński, B Iyer, A ...</authors>
+<source>ACM SIGMOD Record 23 (2), 514</source>
+<citations>21</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Type derivation using the projection operation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=160&amp;citation_for_view=XPdhXUUAAAAJ:bnK-pcrLprsC</link>
+<authors>R Agrawal, LG DeMichiel</authors>
+<source>Information Systems 19 (1), 55-68</source>
+<citations>21</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Optimization of generalized transitive closure queries</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=160&amp;citation_for_view=XPdhXUUAAAAJ:5ugPr518TE4C</link>
+<authors>S Dar, R Agrawal, HV Jagadish</authors>
+<source>Data Engineering, 1991. Proceedings. Seventh International Conference on ...</source>
+<citations>21</citations>
+<pub_year>1991</pub_year>
+</record>
+<record>
+<title>Efficient Search in Very Large Databases.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=160&amp;citation_for_view=XPdhXUUAAAAJ:V3AGJWp-ZtQC</link>
+<authors>R Agrawal, HV Jagadish</authors>
+<source>VLDB, 407-418</source>
+<citations>21</citations>
+<pub_year>1988</pub_year>
+</record>
+<record>
+<title>Whither hundreds of processors in a database machine?</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=160&amp;citation_for_view=XPdhXUUAAAAJ:1qzjygNMrQYC</link>
+<authors>R Agrawal, DJ DeWitt</authors>
+<source>Proceedings of the International Workshop on High-Level Architectures</source>
+<citations>21</citations>
+<pub_year>1984</pub_year>
+</record>
+<record>
+<title>Concurrency control and recovery in multiprocessor database machines: Design and performance evaluation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=160&amp;citation_for_view=XPdhXUUAAAAJ:PELIpwtuRlgC</link>
+<authors>R Agrawal</authors>
+<source>The University of Wisconsin-Madison</source>
+<citations>21</citations>
+<pub_year>1983</pub_year>
+</record>
+<record>
+<title>Deadlock detection is cheap</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=160&amp;citation_for_view=XPdhXUUAAAAJ:wbdj-CoPYUoC</link>
+<authors>R Agrawal, MJ Carey, DJ DeWitt</authors>
+<source>ACM Sigmod Record 13 (2), 19-34</source>
+<citations>21</citations>
+<pub_year>1983</pub_year>
+</record>
+<record>
+<title>High-dimensional similarity joins</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=160&amp;citation_for_view=XPdhXUUAAAAJ:AXPGKjj_ei8C</link>
+<authors>K Shim, R Srikant, R Agrawal</authors>
+<source>Knowledge and Data Engineering, IEEE Transactions on 14 (1), 156-171</source>
+<citations>20</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>System and method for query optimization using quantile values of a large unordered data set</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=160&amp;citation_for_view=XPdhXUUAAAAJ:tkaPQYYpVKoC</link>
+<authors>R Agrawal, AN Swami</authors>
+<source>US Patent 5,864,841</source>
+<citations>19</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>System and method for tightly coupling application programs with relational databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=160&amp;citation_for_view=XPdhXUUAAAAJ:dQ2og3OwTAUC</link>
+<authors>R Agrawal, K Shim</authors>
+<source>US Patent 5,734,885</source>
+<citations>19</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Updating hypothetical data bases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=160&amp;citation_for_view=XPdhXUUAAAAJ:XiVPGOgt02cC</link>
+<authors>R Agrawal, DJ Dewitt</authors>
+<source>Information processing letters 16 (3), 145-146</source>
+<citations>19</citations>
+<pub_year>1983</pub_year>
+</record>
+<record>
+<title>System and method for generating horizontal view for SQL queries to vertical database</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=160&amp;citation_for_view=XPdhXUUAAAAJ:1yQoGdGgb4wC</link>
+<authors>R Agrawal, A Somani, Y Xu</authors>
+<source>US Patent 6,763,350</source>
+<citations>18</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Watermarking relational databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=160&amp;citation_for_view=XPdhXUUAAAAJ:KNjnJ3z-R6IC</link>
+<authors>J Kiernan, R Agrawal</authors>
+<source>Proceedings of the 28th International Conference on Very Large Databases VLDB</source>
+<citations>18</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>System and method for discovering similar time sequences in databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=160&amp;citation_for_view=XPdhXUUAAAAJ:t6usbXjVLHcC</link>
+<authors>R Agrawal, KI Lin, HS Sawhney, K Shim</authors>
+<source>US Patent 5,664,174</source>
+<citations>18</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Polyglot: Extensions to relational databases for sharable types and functions in a multi-language environment</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=160&amp;citation_for_view=XPdhXUUAAAAJ:9vf0nzSNQJEC</link>
+<authors>LG DeMichiel, DD Chamberlin, BG Lindsay, R Agrawal, M Arya</authors>
+<source>Data Engineering, 1993. Proceedings. Ninth International Conference on, 651-660</source>
+<citations>17</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Recovery algorithms for database machines with non-volatile main memory</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=160&amp;citation_for_view=XPdhXUUAAAAJ:dTyEYWd-f8wC</link>
+<authors>R Agrawal, HV Jagadish</authors>
+<source>Database Machines, 269-285</source>
+<citations>17</citations>
+<pub_year>1989</pub_year>
+</record>
+<record>
+<title>Segmentation and classification of tuberculosis bacilli from ZN-stained sputum smear images</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=180&amp;citation_for_view=XPdhXUUAAAAJ:prdVHNxh-e8C</link>
+<authors>V Makkapati, R Agrawal, R Acharya</authors>
+<source>Automation Science and Engineering, 2009. CASE 2009. IEEE International ...</source>
+<citations>16</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Developing tightly-coupled applications on IBM DB2/CS relational database system: Methodology and experience</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=180&amp;citation_for_view=XPdhXUUAAAAJ:eq2jaN3J8jMC</link>
+<authors>R Agrawal, K Shim</authors>
+<source>IBM Research Division</source>
+<citations>16</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Enriching textbooks through data mining</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=180&amp;citation_for_view=XPdhXUUAAAAJ:XD-gHx7UXLsC</link>
+<authors>R Agrawal, S Gollapudi, K Kenthapadi, N Srivastava, R Velu</authors>
+<source>Proceedings of the First ACM Symposium on Computing for Development, 19</source>
+<citations>15</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Answering web queries using structured data sources</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=180&amp;citation_for_view=XPdhXUUAAAAJ:VL0QpB8kHFEC</link>
+<authors>S Paparizos, A Ntoulas, J Shafer, R Agrawal</authors>
+<source>Proceedings of the 2009 ACM SIGMOD International Conference on Management of ...</source>
+<citations>14</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>System and method for discovering similar time sequences in databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=180&amp;citation_for_view=XPdhXUUAAAAJ:SdhP9T11ey4C</link>
+<authors>R Agrawal, KI Lin, HS Sawhney, K Shim</authors>
+<source>US Patent 5,930,789</source>
+<citations>14</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Improving classification accuracy using automatically extracted training data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=180&amp;citation_for_view=XPdhXUUAAAAJ:hkOj_22Ku90C</link>
+<authors>A Fuxman, A Kannan, AB Goldberg, R Agrawal, P Tsaparas, J Shafer</authors>
+<source>Proceedings of the 15th ACM SIGKDD international conference on Knowledge ...</source>
+<citations>13</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Index-based method for supporting multimethod function overloading with compile-time type checking and run-time dispatch</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=180&amp;citation_for_view=XPdhXUUAAAAJ:N5tVd3kTz84C</link>
+<authors>R Agrawal, LG DeMichiel, BG Lindsay</authors>
+<source>US Patent 5,696,973</source>
+<citations>13</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Privacy-preserving indexing of documents on the network</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=180&amp;citation_for_view=XPdhXUUAAAAJ:ZuybSZzF8UAC</link>
+<authors>M Bawa, RJ Bayardo Jr, R Agrawal, J Vaidya</authors>
+<source>The VLDB JournalThe International Journal on Very Large Data Bases 18 (4 ...</source>
+<citations>12</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>On learning asymmetric dissimilarity measures</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=180&amp;citation_for_view=XPdhXUUAAAAJ:W5xh706n7nkC</link>
+<authors>K Kummamuru, R Krishnapuram, R Agrawal</authors>
+<source>Data Mining, Fifth IEEE International Conference on, 4 pp.</source>
+<citations>12</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Peer-to-Peer Sharing of Web Applications.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=180&amp;citation_for_view=XPdhXUUAAAAJ:JQOojiI6XY0C</link>
+<authors>RJ Bayardo Jr, A Crainiceanu, R Agrawal, R Meier</authors>
+<source>WWW (Posters)</source>
+<citations>12</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Method and system for linearly detecting data deviations in a large database</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=180&amp;citation_for_view=XPdhXUUAAAAJ:NJ774b8OgUMC</link>
+<authors>R Agrawal, A Arning</authors>
+<source>US Patent 5,813,002</source>
+<citations>12</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Composition of database relations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=180&amp;citation_for_view=XPdhXUUAAAAJ:LjlpjdlvIbIC</link>
+<authors>R Agrawal, S Dar, HV Jagadish</authors>
+<source>Data Engineering, 1989. Proceedings. Fifth International Conference on, 102-108</source>
+<citations>12</citations>
+<pub_year>1989</pub_year>
+</record>
+<record>
+<title>Identifying enrichment candidates in textbooks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=180&amp;citation_for_view=XPdhXUUAAAAJ:epqYDVWIO7EC</link>
+<authors>R Agrawal, S Gollapudi, A Kannan, K Kenthapadi</authors>
+<source>Proceedings of the 20th international conference companion on World wide web ...</source>
+<citations>11</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Watermarking relational data: framework, algorithms and analysis</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=180&amp;citation_for_view=XPdhXUUAAAAJ:oi2SiIJ9l4AC</link>
+<authors>J Kiernan, R Agrawal, PJ Haas</authors>
+<source>The VLDB Journal The International Journal on Very Large Data Bases 12 (2 ...</source>
+<citations>11</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>System and method for mining generalized association rules in databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=180&amp;citation_for_view=XPdhXUUAAAAJ:PR6Y55bgFSsC</link>
+<authors>R Agrawal, R Srikant</authors>
+<source>EP Patent 0,742,524</source>
+<citations>11</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Ramakrishnan Srikant</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=180&amp;citation_for_view=XPdhXUUAAAAJ:tKAzc9rXhukC</link>
+<authors>R Agrawa</authors>
+<source>Fa st Alg orithm f or Mining Association Rules in Large Databas e</source>
+<citations>11</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>A parallel logging algorithm for multiprocessor database machines</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=180&amp;citation_for_view=XPdhXUUAAAAJ:ye4kPcJQO24C</link>
+<authors>R Agrawal</authors>
+<source>Database Machines, 256-276</source>
+<citations>11</citations>
+<pub_year>1985</pub_year>
+</record>
+<record>
+<title>Enriching textbooks with images</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=180&amp;citation_for_view=XPdhXUUAAAAJ:AHdEip9mkN0C</link>
+<authors>R Agrawal, S Gollapudi, A Kannan, K Kenthapadi</authors>
+<source>Proceedings of the 20th ACM international conference on Information and ...</source>
+<citations>9</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Query classification based on query click logs</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=180&amp;citation_for_view=XPdhXUUAAAAJ:_axFR9aDTf0C</link>
+<authors>K Achan, A Fuxman, R Agrawal, P Tsaparas</authors>
+<source>US Patent 7,877,404</source>
+<citations>9</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>An implementation of P3P using database technology</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=180&amp;citation_for_view=XPdhXUUAAAAJ:tzM49s52ZIMC</link>
+<authors>R Agrawal, J Kiernan, R Srikant, Y Xu</authors>
+<source>Advances in Database Technology-EDBT 2004, 845-847</source>
+<citations>9</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Server-centric p3p</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=200&amp;citation_for_view=XPdhXUUAAAAJ:-_dYPAW6P2MC</link>
+<authors>R Agrawal, J Kiernan, R Srikant, Y Xu</authors>
+<source>Proc. of the W3C Workshop on the Future of P3P</source>
+<citations>9</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Database technologies for electronic commerce</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=200&amp;citation_for_view=XPdhXUUAAAAJ:kzcrU_BdoSEC</link>
+<authors>R Agrawal, R Srikant, Y Xu</authors>
+<source>Proceedings of the 28th international conference on Very Large Data Bases ...</source>
+<citations>9</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Data mining (Invited talk. Abstract only): crossing the Chasm</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=200&amp;citation_for_view=XPdhXUUAAAAJ:2KloaMYe4IUC</link>
+<authors>R Agrawal</authors>
+<source>Proceedings of the fifth ACM SIGKDD international conference on Knowledge ...</source>
+<citations>9</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Data mining: the quest perspective</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=200&amp;citation_for_view=XPdhXUUAAAAJ:ipzZ9siozwsC</link>
+<authors>R Agrawal</authors>
+<source></source>
+<citations>9</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Software implementation of a recursive fault tolerance algorithm on a network of computers</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=200&amp;citation_for_view=XPdhXUUAAAAJ:_Re3VWB3Y0AC</link>
+<authors>P Agrawal, R Agrawal</authors>
+<source>ACM SIGARCH Computer Architecture News 14 (2), 65-72</source>
+<citations>9</citations>
+<pub_year>1986</pub_year>
+</record>
+<record>
+<title>Making Oneself Known in a Distributed World.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=200&amp;citation_for_view=XPdhXUUAAAAJ:_Ybze24A_UAC</link>
+<authors>AK Ezzat, R Agrawal</authors>
+<source>ICPP, 139-142</source>
+<citations>9</citations>
+<pub_year>1985</pub_year>
+</record>
+<record>
+<title>Auditing disclosure by relevance ranking</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=200&amp;citation_for_view=XPdhXUUAAAAJ:evX43VCCuoAC</link>
+<authors>R Agrawal, A Evfimievski, J Kiernan, R Velu</authors>
+<source>Proceedings of the 2007 ACM SIGMOD international conference on Management of ...</source>
+<citations>8</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Learning spatially variant dissimilarity (SVaD) measures</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=200&amp;citation_for_view=XPdhXUUAAAAJ:uLbwQdceFCQC</link>
+<authors>K Kummamuru, R Krishnapuram, R Agrawal</authors>
+<source>Proceedings of the tenth ACM SIGKDD international conference on Knowledge ...</source>
+<citations>8</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>A reusable platform for building sovereign information sharing applications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=200&amp;citation_for_view=XPdhXUUAAAAJ:Fu2w8maKXqMC</link>
+<authors>R Agrawal, D Asonov, P Baliga, L Liang, B Porst, R Srikant</authors>
+<source>1st Workshop on Databases in Virtual Organisations</source>
+<citations>8</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Method and system for building a Naive Bayes classifier from privacy-preserving data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=200&amp;citation_for_view=XPdhXUUAAAAJ:7T2F9Uy0os0C</link>
+<authors>R Agrawal, R Srikant</authors>
+<source>US Patent 6,694,303</source>
+<citations>8</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Fast Algorithms for Mining Association Rules in Large Data Bases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=200&amp;citation_for_view=XPdhXUUAAAAJ:HhcuHIWmDEUC</link>
+<authors>R Agraval, R Srikant</authors>
+<source>20th Inter-national Conference on Very Large Databases, Santiagom</source>
+<citations>8</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Data mining for improving textbooks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=200&amp;citation_for_view=XPdhXUUAAAAJ:ubry08Y2EpUC</link>
+<authors>R Agrawal, S Gollapudi, A Kannan, K Kenthapadi</authors>
+<source>ACM SIGKDD Explorations Newsletter 13 (2), 7-19</source>
+<citations>7</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Matching unstructured product offers to structured product specifications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=200&amp;citation_for_view=XPdhXUUAAAAJ:HIFyuExEbWQC</link>
+<authors>A Kannan, IE Givoni, R Agrawal, A Fuxman</authors>
+<source>Proceedings of the 17th ACM SIGKDD international conference on Knowledge ...</source>
+<citations>7</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>System and method for fast querying of encrypted databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=200&amp;citation_for_view=XPdhXUUAAAAJ:AvfA0Oy_GE0C</link>
+<authors>R Agrawal, GG Kiernan</authors>
+<source>US Patent 7,395,437</source>
+<citations>7</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Visually-represented results to search queries in rich media content</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=200&amp;citation_for_view=XPdhXUUAAAAJ:q3CdL3IzO_QC</link>
+<authors>R Agrawal</authors>
+<source>US Patent App. 11/321,044</source>
+<citations>7</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>System and architecture for privacy-preserving data mining</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=200&amp;citation_for_view=XPdhXUUAAAAJ:9Nmd_mFXekcC</link>
+<authors>R Agrawal, R Srikant</authors>
+<source>US Patent 6,931,403</source>
+<citations>7</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>SYSTEM AND METHOD FOR LIMITING DISCLOSURE IN HIPPOCRATIC DATABASES</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=200&amp;citation_for_view=XPdhXUUAAAAJ:e_rmSamDkqQC</link>
+<authors>R Agrawal, GG Kiernan, KR Lefevre, R Srikant, YIR XU</authors>
+<source>US Patent App. 10/908,145</source>
+<citations>7</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Mining association rules over privacy preserving data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=200&amp;citation_for_view=XPdhXUUAAAAJ:mNrWkgRL2YcC</link>
+<authors>R Agrawal, A Evfimievski, R Srikant</authors>
+<source>US Patent App. 10/624,069</source>
+<citations>7</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>System and method for defining shapes with which to mine time sequences in computerized databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=200&amp;citation_for_view=XPdhXUUAAAAJ:j8SEvjWlNXcC</link>
+<authors>R Agrawal, G Psaila, EL Wimmers, M Zait</authors>
+<source>US Patent 5,737,593</source>
+<citations>7</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Empowering authors to diagnose comprehension burden in textbooks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=200&amp;citation_for_view=XPdhXUUAAAAJ:7BrZ7Jt4UNcC</link>
+<authors>R Agrawal, S Chakraborty, S Gollapudi, A Kannan, K Kenthapadi</authors>
+<source>Proceedings of the 18th ACM SIGKDD international conference on Knowledge ...</source>
+<citations>6</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Synthesizing products for online catalogs</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=220&amp;citation_for_view=XPdhXUUAAAAJ:mlAyqtXpCwEC</link>
+<authors>H Nguyen, A Fuxman, S Paparizos, J Freire, R Agrawal</authors>
+<source>Proceedings of the VLDB Endowment 4 (7), 409-418</source>
+<citations>6</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Symphony: Enabling Search-Driven Applications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=220&amp;citation_for_view=XPdhXUUAAAAJ:ZfRJV9d4-WMC</link>
+<authors>JC Shafer, R Agrawal, HW Lauw</authors>
+<source>USETIM (Using Search Engine Technology for Information Management) Workshop ...</source>
+<citations>6</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>System and method for quickly mining association rules in databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=220&amp;citation_for_view=XPdhXUUAAAAJ:t7zJ5fGR-2UC</link>
+<authors>R Agrawal, R Srikant</authors>
+<source>EP Patent 0,735,497</source>
+<citations>6</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Untitled</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=220&amp;citation_for_view=XPdhXUUAAAAJ:JTqpx9DYBaYC</link>
+<authors></authors>
+<source>CA Patent 1,270,337</source>
+<citations>6</citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>System and method for order-preserving encryption for numeric data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=220&amp;citation_for_view=XPdhXUUAAAAJ:M7yex6snE4oC</link>
+<authors>R Agrawal, GG Kiernan, S Ramakrishnan, Y Xu</authors>
+<source>US Patent 7,873,840</source>
+<citations>5</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Method and system for merging hierarchies</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=220&amp;citation_for_view=XPdhXUUAAAAJ:yB1At4FlUx8C</link>
+<authors>R Agrawal, R Srikant</authors>
+<source>US Patent 6,687,705</source>
+<citations>5</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Interactive mining of most interesting rules</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=220&amp;citation_for_view=XPdhXUUAAAAJ:fEOibwPWpKIC</link>
+<authors>R Agrawal, RJ Bayardo</authors>
+<source>US Patent 6,651,049</source>
+<citations>5</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>The changing role of ethnic entrepreneurs in Australia</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=220&amp;citation_for_view=XPdhXUUAAAAJ:DBa1UEJaJKAC</link>
+<authors>M Chavan, R Agrawal</authors>
+<source>The International Journal of Entrepreneurship and Innovation 3 (3), 175-182</source>
+<citations>5</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Bioreactivity of glutathionyl hydroquinone with implications to benzene toxicity</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=220&amp;citation_for_view=XPdhXUUAAAAJ:KaMxkj08jr0C</link>
+<authors>S Ahmad, R Agrawal, DK Agrawal, GS Rao</authors>
+<source>Toxicology 150 (1), 31-39</source>
+<citations>5</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Parallel classification on SMP systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=220&amp;citation_for_view=XPdhXUUAAAAJ:uJ-U7cs_P_0C</link>
+<authors>MJ Zaki, CT Ho, R Agrawal</authors>
+<source>Age 17 (20), 23</source>
+<citations>5</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Entrepreneurship Development amongst the ethnic community in Australia</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=220&amp;citation_for_view=XPdhXUUAAAAJ:rHJHxKgnXwkC</link>
+<authors>RK Agrawal, M Chavan</authors>
+<source>Retrieved June 8, 2005</source>
+<citations>5</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>System and method for explaining exceptions in data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=220&amp;citation_for_view=XPdhXUUAAAAJ:EkHepimYqZsC</link>
+<authors>R Agrawal, S Sarawagi</authors>
+<source>US Patent 6,691,098</source>
+<citations>4</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Method and system for reconstructing original distributions from randomized numeric data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=220&amp;citation_for_view=XPdhXUUAAAAJ:z_wVstp3MssC</link>
+<authors>R Agrawal, R Srikant</authors>
+<source>US Patent 6,687,691</source>
+<citations>4</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Privacy in data systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=220&amp;citation_for_view=XPdhXUUAAAAJ:0KyAp5RtaNEC</link>
+<authors>R Agrawal</authors>
+<source>Proceedings of the twenty-second ACM SIGMOD-SIGACT-SIGART symposium on ...</source>
+<citations>4</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>System and method for defining shapes with which to mine time sequences in computerized databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=220&amp;citation_for_view=XPdhXUUAAAAJ:VLnqNzywnoUC</link>
+<authors>R Agrawal, G Psaila, EL Wimmers, M Zait</authors>
+<source>US Patent 5,878,413</source>
+<citations>4</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>A method for computing transitive closure</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=220&amp;citation_for_view=XPdhXUUAAAAJ:zLWjf1WUPmwC</link>
+<authors>R Agrawal, HV Jagadish</authors>
+<source>EP Patent 0,306,197</source>
+<citations>4</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Design of the persistence and query processing facilities in O++: the rationale</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=220&amp;citation_for_view=XPdhXUUAAAAJ:BwyfMAYsbu0C</link>
+<authors>R Agrawal, N Gehani</authors>
+<source>Data Engineering 12 (3), 21-28</source>
+<citations>4</citations>
+<pub_year>1989</pub_year>
+</record>
+<record>
+<title>On participation in group chats on Twitter</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=220&amp;citation_for_view=XPdhXUUAAAAJ:sszUF3NjhM4C</link>
+<authors>C Budak, R Agrawal</authors>
+<source>Proceedings of the 22nd international conference on World Wide Web, 165-176</source>
+<citations>3</citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Learning the Nature of Information in Social Networks.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=220&amp;citation_for_view=XPdhXUUAAAAJ:EYYDruWGBe4C</link>
+<authors>R Agrawal, M Potamias, E Terzi</authors>
+<source>ICWSM</source>
+<citations>3</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Ameliorating buyer's remorse</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=220&amp;citation_for_view=XPdhXUUAAAAJ:tYavs44e6CUC</link>
+<authors>R Agrawal, S Ieong, R Velu</authors>
+<source>Proceedings of the 17th ACM SIGKDD international conference on Knowledge ...</source>
+<citations>3</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Enriching education through data mining</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=240&amp;citation_for_view=XPdhXUUAAAAJ:a9-T7VOCCH8C</link>
+<authors>R Agrawal</authors>
+<source>Machine Learning and Knowledge Discovery in Databases, 1-2</source>
+<citations>3</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>CUSTOMIZED SEARCH</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=240&amp;citation_for_view=XPdhXUUAAAAJ:IUKN3-7HHlwC</link>
+<authors>JC Shafer, R Agrawal</authors>
+<source>US Patent App. 12/253,658</source>
+<citations>3</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Data mining: the next generation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=240&amp;citation_for_view=XPdhXUUAAAAJ:uWiczbcajpAC</link>
+<authors>R Ramakrishnan, R Agrawal, J Freytag, J Gherke, T Bollinger, C Clifton, S ...</authors>
+<source>Internat. Begegnungs-und Forschungszentrum für Informatik</source>
+<citations>3</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Managing disclosure of private health data with hippocratic databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=240&amp;citation_for_view=XPdhXUUAAAAJ:vDijr-p_gm4C</link>
+<authors>R Agrawal, D Asonov, R Bayardo, T Grandison, C Johnson, J Kiernan</authors>
+<source>IBM Research White Paper, Januray</source>
+<citations>3</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>System and method for discovering similar time sequences in databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=240&amp;citation_for_view=XPdhXUUAAAAJ:nZcligLrVowC</link>
+<authors>R Agrawal, K Lin, HS Sawhney, K Shim</authors>
+<source>EP Patent 0,742,525</source>
+<citations>3</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Matching unstructured offers to structured product descriptions</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=240&amp;citation_for_view=XPdhXUUAAAAJ:-jrNzM816MMC</link>
+<authors>A Kannan, I Givoni, R Agrawal, A Fuxman</authors>
+<source>Proceedings of ACM SIGKDD international conference on Knowledge discovery ...</source>
+<citations>2</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>COMBINING ATTRIBUTE REFINEMENTS AND TEXTUAL QUERIES</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=240&amp;citation_for_view=XPdhXUUAAAAJ:6yz0xqPARnAC</link>
+<authors>R Agrawal, JC Shafer, FM Suchanek</authors>
+<source>US Patent App. 12/796,673</source>
+<citations>2</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>System and Method for Tracking Database Disclosures</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=240&amp;citation_for_view=XPdhXUUAAAAJ:Ri6SYOTghG4C</link>
+<authors>R Agrawal, AV Evfimievski, G Kiernan, R Velu</authors>
+<source>US Patent App. 12/131,079</source>
+<citations>2</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>SYSTEM AND METHOD FOR TRACKING DATABASE DISCLOSURES</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=240&amp;citation_for_view=XPdhXUUAAAAJ:9pM33mqn1YgC</link>
+<authors>R Agrawal, AV Evfimievski, G Kiernan, R Velu</authors>
+<source>US Patent App. 11/772,054</source>
+<citations>2</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Query Specialization</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=240&amp;citation_for_view=XPdhXUUAAAAJ:LI9QrySNdTsC</link>
+<authors>S Gollapudi, R Agrawal, E Terzi</authors>
+<source>US Patent App. 11/696,455</source>
+<citations>2</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>System and Method for Automating Internal Controls</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=240&amp;citation_for_view=XPdhXUUAAAAJ:LO7wyVUgiFcC</link>
+<authors>R Agrawal, C Johnson, GG Kiernan, F Leymann</authors>
+<source>US Patent App. 11/692,842</source>
+<citations>2</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Intersections of Law and Technology in Balancing Privacy Rights with Free Information Flow</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=240&amp;citation_for_view=XPdhXUUAAAAJ:4MWp96NkSFoC</link>
+<authors>C Johnson, R Agrawal</authors>
+<source>4th International Conference on Law and Technology, Cambridge, 222-232</source>
+<citations>2</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Automatic Subspace Clustering of High Dimensional Data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=240&amp;citation_for_view=XPdhXUUAAAAJ:CdxZDUztZiMC</link>
+<authors>J Gehrke, R Agrawal, D Gunopulos</authors>
+<source>Data mining and knowledge discovery 11 (1), 5-33</source>
+<citations>2</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>The lowell database research self-assessment meeting</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=240&amp;citation_for_view=XPdhXUUAAAAJ:ML0RJ9NH7IQC</link>
+<authors>S Abiteboul, R AGRAWAL, P BERNSTEIN</authors>
+<source>Com munication of ACM: The Lowell Database Resear ch Self-Assessment Meting ...</source>
+<citations>2</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Data privacy</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=240&amp;citation_for_view=XPdhXUUAAAAJ:uc_IGeMz5qoC</link>
+<authors>R Agrawal</authors>
+<source>Knowledge Discovery in Databases: PKDD 2004, 8-8</source>
+<citations>2</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Privacy cognizant information systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=240&amp;citation_for_view=XPdhXUUAAAAJ:Z5m8FVwuT1cC</link>
+<authors>R Agrawal</authors>
+<source>Conference on Computer and Communications Security: Proceedings of the 10 th ...</source>
+<citations>2</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Method for accessing data in a database</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=240&amp;citation_for_view=XPdhXUUAAAAJ:_5tno0g5mFcC</link>
+<authors>R Agrawal, R Srikant</authors>
+<source>EP Patent 0,730,240</source>
+<citations>2</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>On the interrelationship of workflow technology and other software technologies}}</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=240&amp;citation_for_view=XPdhXUUAAAAJ:1taIhTC69MYC</link>
+<authors>F Leymann, F Leymann, D Roller, R Agrawal, D Gunopulos, F Leymann</authors>
+<source>Proceedings of the 5th International Conference on the Software Process ...</source>
+<citations>2</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Tutorial data mining</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=240&amp;citation_for_view=XPdhXUUAAAAJ:BUYA1_V_uYcC</link>
+<authors>R Agrawal</authors>
+<source></source>
+<citations>2</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Are We Polishing a Round Ball?</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=240&amp;citation_for_view=XPdhXUUAAAAJ:lgwcVrK6X84C</link>
+<authors>M Stonbraker</authors>
+<source>Panel at the International Conf. on Data Engineering</source>
+<citations>2</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Aggregating web offers to determine product prices</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=260&amp;citation_for_view=XPdhXUUAAAAJ:BzfGm06jWhQC</link>
+<authors>R Agrawal, S Ieong</authors>
+<source>Proceedings of the 18th ACM SIGKDD international conference on Knowledge ...</source>
+<citations>1</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Search result diversification</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=260&amp;citation_for_view=XPdhXUUAAAAJ:yMeIxYmEMEAC</link>
+<authors>S Gollapudi, R Agrawal, S Ieong</authors>
+<source>US Patent App. 13/329,574</source>
+<citations>1</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Timing when to buy</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=260&amp;citation_for_view=XPdhXUUAAAAJ:9c2xU6iGI7YC</link>
+<authors>R Agrawal, S Ieong, R Velu</authors>
+<source>Proceedings of the 20th ACM international conference on Information and ...</source>
+<citations>1</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>System and method for fast querying of encrypted databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=260&amp;citation_for_view=XPdhXUUAAAAJ:r_AWSJRzSzQC</link>
+<authors>R Agrawal, GG Kiernan</authors>
+<source>US Patent 7,890,774</source>
+<citations>1</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Optimizing merchant revenue with rebates</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=260&amp;citation_for_view=XPdhXUUAAAAJ:VaXvl8Fpj5cC</link>
+<authors>R Agrawal, S Ieong, R Velu</authors>
+<source>Proceedings of the fourth ACM international conference on Web search and ...</source>
+<citations>1</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>System and method for digital watermarking of data repository</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=260&amp;citation_for_view=XPdhXUUAAAAJ:GtLg2Ama23sC</link>
+<authors>R Agrawal, GG Kiernan</authors>
+<source>US Patent 7,752,446</source>
+<citations>1</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Humane data mining</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=260&amp;citation_for_view=XPdhXUUAAAAJ:hMsQuOkrut0C</link>
+<authors>R Agrawal</authors>
+<source>Proceedings of the 17th ACM conference on Information and knowledge ...</source>
+<citations>1</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>GENERATING TRAINING DATA FROM CLICK LOGS</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=260&amp;citation_for_view=XPdhXUUAAAAJ:OP4eGU-M3BUC</link>
+<authors>N Mishra, R Agrawal, S Gollapudi, A Halverson, KNG Kenthapadi, R Panigrahy ...</authors>
+<source>US Patent App. 12/140,272</source>
+<citations>1</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Information integration across autonomous enterprises</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=260&amp;citation_for_view=XPdhXUUAAAAJ:k8Z6L05lTy4C</link>
+<authors>R Agrawal, AV Evfimievski, R Srikant</authors>
+<source>US Patent 7,290,150</source>
+<citations>1</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>System and method for generating horizontal view for SQL queries to vertical database</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=260&amp;citation_for_view=XPdhXUUAAAAJ:tuHXwOkdijsC</link>
+<authors>R Agrawal, A Somani, Y Xu</authors>
+<source>US Patent 7,260,566</source>
+<citations>1</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Next frontier</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=260&amp;citation_for_view=XPdhXUUAAAAJ:kuK5TVdYjLIC</link>
+<authors>R Agrawal</authors>
+<source>Conference on Knowledge Discovery in Data: Proceedings of the 12 th ACM ...</source>
+<citations>1</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Sovereign information sharing service</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=260&amp;citation_for_view=XPdhXUUAAAAJ:WZBGuue-350C</link>
+<authors>R Agrawal, D Asonov, M Kantarcioglu, Y Li</authors>
+<source>US Patent App. 11/393,356</source>
+<citations>1</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Method and system for searching documents with numbers</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=260&amp;citation_for_view=XPdhXUUAAAAJ:gsN89kCJA0AC</link>
+<authors>R Agrawal, R Srikant</authors>
+<source>US Patent 7,010,520</source>
+<citations>1</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Predict protein-protein interaction using heuristic approaches</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=260&amp;citation_for_view=XPdhXUUAAAAJ:KUbvn5osdkgC</link>
+<authors>RK Agrawal, A Mittal, RC Joshi</authors>
+<source>Intelligent Sensing and Information Processing, 2005. ICISIP 2005. Third ...</source>
+<citations>1</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Managing Disclosure of Private Financial Data with Hippocratic Databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=260&amp;citation_for_view=XPdhXUUAAAAJ:b1wdh0AR-JQC</link>
+<authors>R Agrawal, D Asonov, R Bayardo, T Grandison, C Johnson</authors>
+<source>IBM Almaden Research Center</source>
+<citations>1</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Privacy Enhancing Techniques for Database Systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=260&amp;citation_for_view=XPdhXUUAAAAJ:48xauSegjOkC</link>
+<authors>R Agrawal</authors>
+<source>9 th International Conference for Extending Database Technology, Greece ...</source>
+<citations>1</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Method and system of partitioning authors on a given topic in a newsgroup into two opposite classes of the authors</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=260&amp;citation_for_view=XPdhXUUAAAAJ:IRz6iEL74y4C</link>
+<authors>R Agrawal, S Rajagopalan, R Srikani, Y Xu</authors>
+<source>US Patent App. 10/676,970</source>
+<citations>1</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Hippocratic Computing: Protecting Our Privacy</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=260&amp;citation_for_view=XPdhXUUAAAAJ:TIZ-Mc8IlK0C</link>
+<authors>R Agrawal</authors>
+<source>DM REVIEW 13, 12-13</source>
+<citations>1</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>A Fast Algorithm for high-dimensional Similarity Joins</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=260&amp;citation_for_view=XPdhXUUAAAAJ:p__nRnzSRKYC</link>
+<authors>K Shim, R Srikant, R Agrawal</authors>
+<source>Technical report, IBM Almaden Research Center</source>
+<citations>1</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Reducing page thrashing in recursive query processing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=260&amp;citation_for_view=XPdhXUUAAAAJ:MLfJN-KU85MC</link>
+<authors>R Agrawal, J Kiernan</authors>
+<source>Foundations of Data Organization and Algorithms, 247-263</source>
+<citations>1</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Starburst II: the extender strikes back!</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=280&amp;citation_for_view=XPdhXUUAAAAJ:OcBU2YAGkTUC</link>
+<authors>GM Lohman, G Lapis, T Lehman, R Agrawal, R Cochrane, J McPherson, C Mohan, H ...</authors>
+<source>ACM SIGMOD Record 20 (2), 447</source>
+<citations>1</citations>
+<pub_year>1991</pub_year>
+</record>
+<record>
+<title>OdeView: a user-friendly graphical interface to Ode</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=280&amp;citation_for_view=XPdhXUUAAAAJ:L7CI7m0gUJcC</link>
+<authors>R Agrawal, NH Gehani, J Srinivasan</authors>
+<source>ACM SIGMOD Record 19 (2), 389</source>
+<citations>1</citations>
+<pub_year>1990</pub_year>
+</record>
+<record>
+<title>SLIQ: A FastScalable Class er for Data Mining</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=280&amp;citation_for_view=XPdhXUUAAAAJ:sJsF-0ZLhtgC</link>
+<authors>M Mehta, R Agrawai, J Rissanen</authors>
+<source>Proc. 1996 lnt. Conf. Extending Database Technology (EDBT96), Avignon ...</source>
+<citations>1</citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>THE PROCEEDINGS</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=280&amp;citation_for_view=XPdhXUUAAAAJ:kz9GbA2Ns4gC</link>
+<authors>P ENGINEERS</authors>
+<source></source>
+<citations>1</citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Secure design and instantiation of trapdoor-less truncated hash functions</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=280&amp;citation_for_view=XPdhXUUAAAAJ:5bg8sr1QxYwC</link>
+<authors>TK Bansal, SK Sanadhya, RK Agrawal, SK Kaul</authors>
+<source></source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>DirectShare: a fast and secure peer to peer file sharing protocol</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=280&amp;citation_for_view=XPdhXUUAAAAJ:kzcSZmkxUKAC</link>
+<authors>A Jati, SK Sanadhya, S Kaul, RK Agrawal</authors>
+<source></source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Product Synthesis From Multiple Sources</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=280&amp;citation_for_view=XPdhXUUAAAAJ:VN7nJs4JPk0C</link>
+<authors>A Fuxman, H Nguyen, F De, S Paparizos, R Agrawal, Z Chen, LW Colagiovanni, P ...</authors>
+<source>US Patent 20,130,091,159</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>With a little help from my friends</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=280&amp;citation_for_view=XPdhXUUAAAAJ:k_7cPK9k7w8C</link>
+<authors>JC Shafer, S Paparizos, R Agrawal, A Nandi</authors>
+<source>Proceedings of the 2013 IEEE International Conference on Data Engineering ...</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Reimaging Textbooks Through the Data Lens</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=280&amp;citation_for_view=XPdhXUUAAAAJ:RoXSNcbkSzsC</link>
+<authors>R Agrawal</authors>
+<source></source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>ACCURATE TEXT CLASSIFICATION THROUGH SELECTIVE USE OF IMAGE DATA</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=280&amp;citation_for_view=XPdhXUUAAAAJ:QyXJ3EUuO1IC</link>
+<authors>A Kannan, PP Talukdar, N Rasiwasia, Q Ke, R Agrawal</authors>
+<source>US Patent 20,120,314,941</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Implementation of identity based distributed cloud storage encryption scheme using PHP and C languages on linux platform</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=280&amp;citation_for_view=XPdhXUUAAAAJ:FiDNX6EVdGUC</link>
+<authors>S Madaan, R Agrawal</authors>
+<source>Parallel Distributed and Grid Computing (PDGC), 2012 2nd IEEE International ...</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Textbooks for developing regions</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=280&amp;citation_for_view=XPdhXUUAAAAJ:q-HalDI95KYC</link>
+<authors>R Agrawal, S Gollapudi, A Kannan, K Kenthapadi</authors>
+<source>Proceedings of the first workshop on Information and knowledge management ...</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>First international workshop on information and knowledge management for developing region</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=280&amp;citation_for_view=XPdhXUUAAAAJ:AXkvAH5U_nMC</link>
+<authors>R Agrawal, DW Oard, N Rajput</authors>
+<source>Proceedings of the 21st ACM international conference on Information and ...</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>CONCEPT DISCOVERY IN SEARCH LOGS</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=280&amp;citation_for_view=XPdhXUUAAAAJ:S16KYo8Pm5AC</link>
+<authors>R Agrawal, S Gollapudi, N Mishra</authors>
+<source>EP Patent 2,502,160</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Middleware for query processing across a network of RFID databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=280&amp;citation_for_view=XPdhXUUAAAAJ:8d8msizDQcsC</link>
+<authors>R Agrawal, AK Cheung, K Kailing, S Schoenauer</authors>
+<source>US Patent 8,244,747</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Associating structured records to text documents</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=280&amp;citation_for_view=XPdhXUUAAAAJ:1lhNe0rCu4AC</link>
+<authors>R Agrawal, A Fuxman, A Kannan, J Shafer, PP Talukdar</authors>
+<source>Proceedings of the 21st international conference companion on World Wide Web ...</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Search and browse</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=280&amp;citation_for_view=XPdhXUUAAAAJ:jgBuDB5drN8C</link>
+<authors>R Agrawal, L McCaughan</authors>
+<source></source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Intuitionistic Gustafson-Kessel Algorithm for Segmentation of MRI Brian Image</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=280&amp;citation_for_view=XPdhXUUAAAAJ:-mN3Mh-tlDkC</link>
+<authors>H Verma, RK Agrawal</authors>
+<source>Proceedings of the International Conference on Soft Computing for Problem ...</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Electronic Textbooks and Data Mining</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=280&amp;citation_for_view=XPdhXUUAAAAJ:kVjdVfd2voEC</link>
+<authors>R Agrawal, S Gollapudi, A Kannan, K Kenthapadi</authors>
+<source>Web-Age Information Management, 20-21</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Providing time-sensitive information for purchase determinations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=280&amp;citation_for_view=XPdhXUUAAAAJ:bz8QjSJIRt4C</link>
+<authors>A Fuxman, S Ieong, RP Velu, R Agrawal</authors>
+<source>US Patent 8,065,198</source>
+<citations></citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Providing time-sensitive information for purchase determinations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=300&amp;citation_for_view=XPdhXUUAAAAJ:65Yg0jNCQDAC</link>
+<authors>R Agrawal, A Fuxman, S Ieong, RP Velu</authors>
+<source>US Patent App. 13/296,982</source>
+<citations></citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Providing time-sensitive information for purchase determinations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=300&amp;citation_for_view=XPdhXUUAAAAJ:MhiOAD_qIWkC</link>
+<authors>A Fuxman, S Ieong, RP Velu, R Agrawal</authors>
+<source>US Patent App. 13/297,045</source>
+<citations></citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Information integration across autonomous enterprises</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=300&amp;citation_for_view=XPdhXUUAAAAJ:PVjk1bu6vJQC</link>
+<authors>R Agrawal, AV Evfimievski, R Srikant</authors>
+<source>US Patent 8,041,706</source>
+<citations></citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Data Externality.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=300&amp;citation_for_view=XPdhXUUAAAAJ:OR75R8vi5nAC</link>
+<authors>R Agrawal</authors>
+<source>CIDR, 184-186</source>
+<citations></citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Auditing compliance with a hippocratic database</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=300&amp;citation_for_view=XPdhXUUAAAAJ:F1b5ZUV5XREC</link>
+<authors>R Agrawal, R Bayardo, C Faloutsos, GG Kiernan, R Rantzau, R Srikant</authors>
+<source>US Patent 7,810,142</source>
+<citations></citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>DETERMINING QUERY INTENT</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=300&amp;citation_for_view=XPdhXUUAAAAJ:NyGDZy8z5eUC</link>
+<authors>KNG Kenthapadi, P Tsaparas, S Gollapudi, R Agrawal</authors>
+<source>US Patent App. 12/816,389</source>
+<citations></citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Product synthesis from multiple sources</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=300&amp;citation_for_view=XPdhXUUAAAAJ:2VqYfGB8ITEC</link>
+<authors>A Fuxman, H Nguyen, JFL e Silva, S Paparizos, R Agrawal, Z Chen, LW ...</authors>
+<source>US Patent App. 12/764,676</source>
+<citations></citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>System and method for distributed querying and presentation of information from heterogeneous data sources</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=300&amp;citation_for_view=XPdhXUUAAAAJ:ClCfbGk0d_YC</link>
+<authors>R Agrawal, A Somani</authors>
+<source>US Patent 7,702,617</source>
+<citations></citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Symphony: A platform for search-driven applications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=300&amp;citation_for_view=XPdhXUUAAAAJ:tH6gc1N1XXoC</link>
+<authors>JC Shafer, R Agrawal, HW Lauw</authors>
+<source>Data Engineering (ICDE), 2010 IEEE 26th International Conference on, 1189-1192</source>
+<citations></citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Homophily in the Digital World: A LiveJournal Case Study (HTML)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=300&amp;citation_for_view=XPdhXUUAAAAJ:w1MjKQ0l0TYC</link>
+<authors>HW Lauw, JC Shafer, R Agrawal, A Ntoulas</authors>
+<source></source>
+<citations></citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Concept Discovery in Search Logs</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=300&amp;citation_for_view=XPdhXUUAAAAJ:vDZJ-YLwNdEC</link>
+<authors>R Agrawal, S Gollapudi, N Mishra</authors>
+<source>US Patent App. 12/620,600</source>
+<citations></citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Query classification using implicit labels</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=300&amp;citation_for_view=XPdhXUUAAAAJ:cWzG1nlazyYC</link>
+<authors>AD Fuxman, A Kannan, AB Goldberg, R Agrawal</authors>
+<source>US Patent App. 12/560,427</source>
+<citations></citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>CCC Workshop on Computer Science and Global Development</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=300&amp;citation_for_view=XPdhXUUAAAAJ:kh2fBNsKQNwC</link>
+<authors>E Brewer, T Parikh, B Raman, K Toyama, G Borriello, D Estrin, R Katz, R Agrawal</authors>
+<source></source>
+<citations></citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Bachelorarbeitsthemen im SS 2009</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=300&amp;citation_for_view=XPdhXUUAAAAJ:lvd772isFD0C</link>
+<authors>R Agrawal, H Mannila, R Srikant, H Toivonen, AI Verkamo, UM Fayyad, G ...</authors>
+<source></source>
+<citations></citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Introduction to special issue on social computing, behavioral modeling, and prediction</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=300&amp;citation_for_view=XPdhXUUAAAAJ:XoXfffV-tXoC</link>
+<authors>H Liu, J Salerno, M Young, R Agrawal, PS Yu</authors>
+<source>ACM Transactions on Knowledge Discovery from Data (TKDD) 3 (2), 6</source>
+<citations></citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>OPTIMIZING CASHBACK RATES</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=300&amp;citation_for_view=XPdhXUUAAAAJ:WJVC3Jt7v1AC</link>
+<authors>R Agrawal, LW Colagiovanni, AK Sacheti, S Ieong, RP Velu</authors>
+<source>US Patent App. 12/415,683</source>
+<citations></citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Object classification using taxonomies</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=300&amp;citation_for_view=XPdhXUUAAAAJ:Bg7qf7VwUHIC</link>
+<authors>P Tsaparas, P Papadimitriou, AD Fuxman, LC Getoor, R Agrawal</authors>
+<source>US Patent App. 12/414,065</source>
+<citations></citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Uniform search system and method for selectively sharing distributed access-controlled documents</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=300&amp;citation_for_view=XPdhXUUAAAAJ:Ehil0879vHcC</link>
+<authors>R Agrawal, M Bawa, RJ Bayardo</authors>
+<source>US Patent 7,409,406</source>
+<citations></citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>COMPARISON BETWEEN ZIEHL NEELSEN AND AURAMINE-O STAINING FOR DETECTION OF ACID FAST BACILLI</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=300&amp;citation_for_view=XPdhXUUAAAAJ:4X0JR2_MtJMC</link>
+<authors>R Kansal, A Pandey, AK Asthana, RK Agrawal</authors>
+<source>ASIAN JOURNAL OF MICROBIOLOGY BIOTECHNOLOGY AND ENVIRONMENTAL SCIENCES 9 (4 ...</source>
+<citations></citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>SYSTEM AND METHOD FOR DIGITAL WATERMARKING OF DATA REPOSITORY</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=300&amp;citation_for_view=XPdhXUUAAAAJ:yqoGN6RLRZoC</link>
+<authors>R Agrawal, GG Kiernan</authors>
+<source>EP Patent 1,506,467</source>
+<citations></citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>2006 IEEE/WIC/ACM International Conference on Web Intelligence (WI'06)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=320&amp;citation_for_view=XPdhXUUAAAAJ:WC23djZS0W4C</link>
+<authors>A Skowron</authors>
+<source></source>
+<citations></citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Data Mining: The Next Generation (Data Mining: Die nächste Generation)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=320&amp;citation_for_view=XPdhXUUAAAAJ:_FM0Bhl9EiAC</link>
+<authors>JC Freytag, R Ramakrishnan, R Agrawal</authors>
+<source>it-Information Technology 47 (5/2005), 308-312</source>
+<citations></citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Fifth IEEE International Conference on Data Mining (ICDM'05)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=320&amp;citation_for_view=XPdhXUUAAAAJ:-nhnvRiOwuoC</link>
+<authors>K Kummamuru, R Krishnapuram, R Agrawal</authors>
+<source></source>
+<citations></citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Mining information extraction rules from datasheets without linguistic parsing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=320&amp;citation_for_view=XPdhXUUAAAAJ:Ug5p-4gJ2f0C</link>
+<authors>R Agrawal, H Ho, F Jacquenet, M Jacquenet</authors>
+<source>Innovations in Applied Artificial Intelligence, 510-520</source>
+<citations></citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>DATABASE QUERY PROCESSING ACROSS TWO PRIVATE DATABASES</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=320&amp;citation_for_view=XPdhXUUAAAAJ:4xDN1ZYqzskC</link>
+<authors>R AGRAWAL, A EVFIMIEVSKI, R SRIKANT</authors>
+<source>WO Patent 2,004,111,873</source>
+<citations></citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Whither data mining?</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=320&amp;citation_for_view=XPdhXUUAAAAJ:5MTHONV0fEkC</link>
+<authors>RAR Srikant</authors>
+<source>Proceedings 2004 VLDB Conference: The 30th International Conference on Very ...</source>
+<citations></citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Database technologies for E-commerce</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=320&amp;citation_for_view=XPdhXUUAAAAJ:3htObqc8RwsC</link>
+<authors>R Agrawal</authors>
+<source>Data Engineering, 2003. Proceedings. 19th International Conference on, 801-801</source>
+<citations></citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Privacy Preserving Mining of Association Rules</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=320&amp;citation_for_view=XPdhXUUAAAAJ:nVrZBo8bIpAC</link>
+<authors>AER Srikant, R Agrawal, J Gehrke</authors>
+<source></source>
+<citations></citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>18th International Conference on Data Engineering [: Proceedings: 26 Feb.-1 March 2002</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=320&amp;citation_for_view=XPdhXUUAAAAJ:HtEfBTGE9r8C</link>
+<authors></authors>
+<source>IEEE</source>
+<citations></citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Referees voluntarily contribute their time and ex-pertise to review a manuscript. They consider its validity, its value to our readers, the quality of the presentation, and how the manuscript might be im</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=320&amp;citation_for_view=XPdhXUUAAAAJ:0izLItjtcgwC</link>
+<authors>GD Abowd, M Ackerman, S Adak, S Adams, R Agrawal, M Ahamad, V Albaugh, C ...</authors>
+<source>IBM Systems Journal 40 (3), 806</source>
+<citations></citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>of Proceedings: Proceedings of 27th International Conference on Very Large Data Bases (VLDB 2001)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=320&amp;citation_for_view=XPdhXUUAAAAJ:ruyezt5ZtCIC</link>
+<authors>S Tsur, S Abiteboul, R Agrawal, U Dayal, J Klein, G Weikum</authors>
+<source>Morgan Kaufmann</source>
+<citations></citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Parallel Classification on Shared-Memory Systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=320&amp;citation_for_view=XPdhXUUAAAAJ:QYdC8u9Cj1oC</link>
+<authors>MJ Zaki, CT Ho, R Agrawal</authors>
+<source>Advances in Distributed and Parallel Knowledge Discovery, 377</source>
+<citations></citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Aaltonen, M., see Kaasinen, E. 231</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=320&amp;citation_for_view=XPdhXUUAAAAJ:w0F2JDEymm0C</link>
+<authors>N Abe, T Kamba, R Agrawal, JC Shafer, J Angele, S Staab, V Anupam, J Freire ...</authors>
+<source>Computer Networks 33, 837-839</source>
+<citations></citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>15th International Conference on Data Engineering (ICDE'99)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=320&amp;citation_for_view=XPdhXUUAAAAJ:WAzi4Gm8nLoC</link>
+<authors>RJ Bayardo Jr, R Agrawal, D Gunopulos</authors>
+<source></source>
+<citations></citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Reminiscences on Influential Papers-R. Snodgrass, ed</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=320&amp;citation_for_view=XPdhXUUAAAAJ:gVv57TyPmFsC</link>
+<authors>R Agrawal, P Bernstien, D Chamberlin, J Gray, D Haderle, W Kim, B Lindsay, C ...</authors>
+<source>SIGMOD RECORD 28, 43-48</source>
+<citations></citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Solid Superbase Alumina</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=320&amp;citation_for_view=XPdhXUUAAAAJ:DUooU5lO8OsC</link>
+<authors>R Agrawal, R Goske, A Gupta, M Iyer</authors>
+<source>CHEMICAL WEEKLY-BOMBAY- 44, 161-168</source>
+<citations></citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>New and Forgotten Dreams in Database Research</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=320&amp;citation_for_view=XPdhXUUAAAAJ:KbBQZpvPDL4C</link>
+<authors>S Chaudhuri, R Agrawal, K Dittrich, A Reuter, A Silberschatz, G Weikum</authors>
+<source>PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON DATA ENGINEERING, 573-574</source>
+<citations></citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>13th International Conference on Data Engineering (ICDE'97)(PDF)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=320&amp;citation_for_view=XPdhXUUAAAAJ:raTqNPD5sRQC</link>
+<authors>S Chaudhuri, R Agrawal, K Dittrich, A Reuter, A Silberschatz, G Weikum</authors>
+<source></source>
+<citations></citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>13th International Conference on Data Engineering (ICDE'97)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=320&amp;citation_for_view=XPdhXUUAAAAJ:mUJArPsKIAAC</link>
+<authors>R Agrawal, A Gupta, S Sarawagi</authors>
+<source></source>
+<citations></citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>High-dimensional Proximity Joins</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=320&amp;citation_for_view=XPdhXUUAAAAJ:F9fV5C73w3QC</link>
+<authors>K Shim, R Srikant, R Agrawal</authors>
+<source>IBM Thomas J. Watson Research Center</source>
+<citations></citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>19th International Conference on Very Large Data Bases, August</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=340&amp;citation_for_view=XPdhXUUAAAAJ:FAceZFleit8C</link>
+<authors></authors>
+<source>Morgan Kaufmann}</source>
+<citations></citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Proceedings of the Nineteenth International Conference on Very Large Data Bases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=340&amp;citation_for_view=XPdhXUUAAAAJ:YohjEiUPhakC</link>
+<authors>International Conference on Very Large Data Bases, DA Bell, R Agrawal, S Baker</authors>
+<source>Morgan Kaufmann</source>
+<citations></citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>ordinator), Erich Neuhold (European Co-ordinator), Shojiro Nishio (Asian Co-ordinator), and Ron</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=340&amp;citation_for_view=XPdhXUUAAAAJ:4hFrxpcac9AC</link>
+<authors>R Agrawal</authors>
+<source>Bulletin of the Technical Committee on 15 (1), 1</source>
+<citations></citations>
+<pub_year>1992</pub_year>
+</record>
+<record>
+<title>Database Technologies for the 90's and Beyond (Panel)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=340&amp;citation_for_view=XPdhXUUAAAAJ:fFSKOagxvKUC</link>
+<authors>MN Kamel, U Dayal, R Agrawal, D Tolbert, G Vidal</authors>
+<source>Proceedings of the 17th International Conference on Very Large Data Bases, 453</source>
+<citations></citations>
+<pub_year>1991</pub_year>
+</record>
+<record>
+<title>DISTRIBUTED CONTROL ALGORITHMS</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=340&amp;citation_for_view=XPdhXUUAAAAJ:dBIO0h50nwkC</link>
+<authors>R Agrawal</authors>
+<source>Proceedings, 165</source>
+<citations></citations>
+<pub_year>1990</pub_year>
+</record>
+<record>
+<title>Databases in parallel and distributed systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=340&amp;citation_for_view=XPdhXUUAAAAJ:NXb4pA-qfm4C</link>
+<authors>R Agrawal, D Bell</authors>
+<source>Piscataway, NJ (United States); IEEE Service Center</source>
+<citations></citations>
+<pub_year>1990</pub_year>
+</record>
+<record>
+<title>PANEL SESSION Future research directions: Evidence from this conference</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=340&amp;citation_for_view=XPdhXUUAAAAJ:rmuvC79q63oC</link>
+<authors>PMG Apers</authors>
+<source>Proceedings of the... International Conference on Very Large Data Bases, 465</source>
+<citations></citations>
+<pub_year>1989</pub_year>
+</record>
+<record>
+<title>International Symposium on Databases in</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=340&amp;citation_for_view=XPdhXUUAAAAJ:5qfkUJPXOUwC</link>
+<authors>S Jajodia, R Agrawal, D DeGroot</authors>
+<source>Data ri, 64</source>
+<citations></citations>
+<pub_year>1988</pub_year>
+</record>
+<record>
+<title>Performance Modeling and Optimization of PaRing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=340&amp;citation_for_view=XPdhXUUAAAAJ:7H_MAutzIkAC</link>
+<authors>Y Qu, LH Landweber, M Livny, R Agrawal, MJ Carey, LW McVoy, P Brierley, B ...</authors>
+<source>University of Wisconsin-Madison, Computer Sciences Department</source>
+<citations></citations>
+<pub_year>1985</pub_year>
+</record>
+<record>
+<title>Further Optimism in Optimistic Methods of Concurrency Control</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=340&amp;citation_for_view=XPdhXUUAAAAJ:-95Q15plzcUC</link>
+<authors>R Agrawal, DJ De Witt, DVA Frost, FN Kotsonis, J Kochan, E Schenker, BP ...</authors>
+<source>Computer Sciences Department, University of Wisconsin, Madison</source>
+<citations></citations>
+<pub_year>1982</pub_year>
+</record>
+<record>
+<title>Open Access Research Article</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=340&amp;citation_for_view=XPdhXUUAAAAJ:kF1pexMAQbMC</link>
+<authors>R Agrawal, K Margandan, K Singh, R Acharya, S Sharma, K Qanungo</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Implementation of Identity Based Distributed Cloud Storage Encryption Scheme using PHP and C for Hadoop File System</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=340&amp;citation_for_view=XPdhXUUAAAAJ:3bvyWxjaHKcC</link>
+<authors>S Madaan, RK Agrawal</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>2012 2nd IEEE International Conference on Parallel, Distributed and Grid Computing (PDGC)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=340&amp;citation_for_view=XPdhXUUAAAAJ:PyEswDtIyv0C</link>
+<authors>AM Abbas, M ABID, D Acharjee, A Acharya, S Acharya, N Agarwal, S Aggarwal, A ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>With a Little Help from My Friends</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=340&amp;citation_for_view=XPdhXUUAAAAJ:Dem6FJhTUoYC</link>
+<authors>A Nandi, S Paparizos, JC Shafer, R Agrawal</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Computer Sciences Technical Report# 531 January 198%</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=340&amp;citation_for_view=XPdhXUUAAAAJ:CB2v5VPnA5kC</link>
+<authors>R Agrawal</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Second international symposium on databases in parallel and distributed systems, July 2-4, 1990, Dublin</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=340&amp;citation_for_view=XPdhXUUAAAAJ:owLR8QvbtFgC</link>
+<authors>R Agrawal, D Bell</authors>
+<source>IEEE Computer Society Press</source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>2003 Index IEEE Transactions on Knowledge and Data Engineering Vol. 15</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=340&amp;citation_for_view=XPdhXUUAAAAJ:WHdLCjDvYFkC</link>
+<authors>CC Aggarwal, D Agrawal, R Agrawal, G Alonso, N An, R Ananthakrishna, J ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Optimization of Generalized Transitive Closure Queries</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=340&amp;citation_for_view=XPdhXUUAAAAJ:ALROH1vI_8AC</link>
+<authors>J t HV, S Dar, R Agrawal</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>1 2 Fast Discovery of Association Rules</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=340&amp;citation_for_view=XPdhXUUAAAAJ:buQ7SEKw-1sC</link>
+<authors>R Agrawal, H Mannila, H Toivonen, AI Verkamo</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Назад в библиотеку</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=340&amp;citation_for_view=XPdhXUUAAAAJ:0CzhzZyukY4C</link>
+<authors>M Mehta, R Agrawal, J Rissanen</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Jane Grimson Trinity College Dublin Se&amp;n Baker Trinity College Dublin</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=360&amp;citation_for_view=XPdhXUUAAAAJ:Ak0FvsSvgGUC</link>
+<authors>A Mullally, J Leech, M OConnor, D Dolan, D Bell, N Ireland, R Agrawal, M ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Partial-Sum Queries in OLAP Data Cubes Using Covering Codes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=360&amp;citation_for_view=XPdhXUUAAAAJ:_OXeSy2IsFwC</link>
+<authors>CTHJ Brück, R Agrawal</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Conference Officers</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=360&amp;citation_for_view=XPdhXUUAAAAJ:P7Ujq4OLJYoC</link>
+<authors>Y Masunaga, M Aoyama, H Arisawa, M Furuya, H Hayashi, T Higashi, Y Hirata, Y ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>A System for Translating P3P Privacy Policies into FGAC Restrictions</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=360&amp;citation_for_view=XPdhXUUAAAAJ:ODE9OILHJdcC</link>
+<authors>R Agrawal, P Bird, A Cheung, T Grandison, J Kiernan, S Logan, W Rjaibi</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Session: Attacks and Defenses</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=360&amp;citation_for_view=XPdhXUUAAAAJ:sNmaIFBj_lkC</link>
+<authors>D Asonov, R Agrawal</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Andreas Arning</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=360&amp;citation_for_view=XPdhXUUAAAAJ:umqufdRvDiIC</link>
+<authors>R Agrawal, P Raghavan</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Passive DBMS into an Active DBMS</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=360&amp;citation_for_view=XPdhXUUAAAAJ:XvxMoLDsR5gC</link>
+<authors>U Schreier, H Pirahesh, R Agrawal</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>VLDB Endowment Board of Trustees</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=360&amp;citation_for_view=XPdhXUUAAAAJ:86PQX7AUzd4C</link>
+<authors>J Mylopoulos, KG Jeffery, S Su, R Agrawal, ML Brodie, MJ Carey, S tefano ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Parallel Classification for Data Mining on Shared-Memory Multiprocessors</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=360&amp;citation_for_view=XPdhXUUAAAAJ:hCrLmN-GePgC</link>
+<authors>MJZCT Ho, R Agrawal</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>KDD-98 Organization</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=360&amp;citation_for_view=XPdhXUUAAAAJ:HbR8gkJAVGIC</link>
+<authors>G Piatetsky-Shapiro, R Agrawal, P Stolorz, F Provost, P Smyth, R Kohavi, I ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Aberer, Karl (EPFL, Switzerland)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=360&amp;citation_for_view=XPdhXUUAAAAJ:PoWvk5oyLR8C</link>
+<authors>A Aboulnaga, R Agrawal, M Ahmad, MH Ali, L Al Moakar, G Alonso, MK Anand</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>IBM Almaden Research Center 650 Harry Road, San Jose, CA 95120 ragrawal@ almaden. ibm. com psaila@ elet. polimi. it</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=360&amp;citation_for_view=XPdhXUUAAAAJ:SpbeaW3--B0C</link>
+<authors>AD Mining, R Agrawal</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Technische Universität München Hauptseminar InformatikDatabase Hall of Fame </title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=XPdhXUUAAAAJ&amp;cstart=360&amp;citation_for_view=XPdhXUUAAAAJ:i2xiXl-TujoC</link>
+<authors>R Agrawal</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+</file>

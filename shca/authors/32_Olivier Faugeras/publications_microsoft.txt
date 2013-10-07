@@ -1,0 +1,3904 @@
+RT Journal Article
+ID 57014935
+A1 Pezoa,Javier,Baladron
+A1 Fasoli,Diego
+A1 Faugeras,Olivier
+YR 2012
+T1 Three Applications of GPU Computing in Neuroscience
+JF Computing in Science and Engineering
+VO 14
+SP 40
+OP 47
+IS 3
+
+RT Journal Article
+ID 59806518
+A1 Galtier,Mathieu,N.
+A1 Faugeras,Olivier,D.
+A1 Bressloff,Paul,C.
+YR 2012
+T1 Hebbian Learning of Recurrent Connections: A Geometrical Perspective
+JF Neural Computation
+VO 24
+SP 2346
+OP 2383
+IS 9
+
+RT Journal Article
+ID 51187478
+A1 Deneux,Thomas
+A1 Faugeras,Olivier
+A1 Takerkart,Sylvain
+A1 Masson,Guillaume,S.
+A1 Vanzetta,Ivo
+YR 2011
+T1 A New Variational Method for Erythrocyte Velocity Estimation in Wide-Field Imaging In Vivo
+JF IEEE Transactions on Medical Imaging
+VO 30
+SP 1527
+OP 1545
+IS 8
+
+RT Journal Article
+ID 27607053
+A1 GaltierOlivier,Mathieu,N.
+A1 Faugeras,Olivier,D.
+A1 Bressloff,Paul,C.
+YR 2011
+T1 Hebbian Learning of Recurrent Connections: A Geometrical Perspective
+JF Neural Computation
+SP 1
+OP 38
+
+RT Journal Article
+ID 52499469
+A1 Baladron,Javier
+A1 Fasoli,Diego
+A1 Faugeras,Olivier
+A1 Touboul,Jonathan
+YR 2011
+T1 Mean Field description of and propagation of chaos in recurrent multipopulation networks of Hodgkin-Huxley and Fitzhugh-Nagumo neurons
+
+RT Journal Article
+ID 59806541
+A1 Touboul,Jonathan
+A1 Wendling,Fabrice
+A1 Chauvel,Patrick
+A1 Faugeras,Olivier
+YR 2011
+T1 Neural Mass Activity, Bifurcations, and Epilepsy
+JF Neural Computation
+VO 23
+SP 3232
+OP 3286
+IS 12
+
+RT Journal Article
+ID 48166634
+A1 Chossat,Pascal
+A1 Faye,Grégory
+A1 Faugeras,Olivier
+YR 2011
+T1 Bifurcation of Hyperbolic Planforms
+JF Journal of Nonlinear Science
+SP 1
+OP 34
+
+RT Journal Article
+ID 56374873
+A1 Touboul,Jonathan
+A1 Hermann,Geoffroy
+A1 Faugeras,Olivier
+YR 2011
+T1 Noise-induced behaviors in neural mean field dynamics
+
+RT Journal Article
+ID 53485113
+A1 Galtier,Mathieu,N.
+A1 Faugeras,Olivier,D.
+A1 Bressloff,Paul,C.
+YR 2011
+T1 Hebbian learning of recurrent connections: a geometrical perspective
+
+RT Journal Article
+ID 48615923
+A1 Faye,Gregory
+A1 Chossat,Pascal
+A1 Faugeras,Olivier
+YR 2011
+T1 Analysis of a hyperbolic geometric model for visual texture perception
+VO 1
+SP 1
+OP 43
+IS 1
+
+RT Journal Article
+ID 48001152
+A1 Veltz,Romain
+A1 Faugeras,Olivier
+YR 2011
+T1 Stability of the stationary solutions of neural field equations with propagation delays
+VO 1
+SP 1
+OP 25
+IS 1
+
+RT Journal Article
+ID 27162956
+A1 Veltz,Romain
+A1 Faugeras,Olivier,D.
+YR 2010
+T1 Local/Global Analysis of the Stationary Solutions of Some Neural Field Equations
+JF Siam Journal on Applied Dynamical Systems
+VO 9
+SP 954
+OP 998
+IS 3
+
+RT Journal Article
+ID 18339921
+A1 Faye,Grégory
+A1 Faugeras,Olivier
+YR 2010
+T1 Some theoretical and numerical results for delayed neural field equations
+JF Physica D-nonlinear Phenomena
+VO 239
+SP 561
+OP 578
+IS 9
+
+RT Journal Article
+ID 27653761
+A1 Chossat,Pascal
+A1 Faye,Grégory
+A1 Faugeras,Olivier
+YR 2010
+T1 Bifurcation of hyperbolic planforms
+
+RT Journal Article
+ID 15244230
+A1 Deneux,Thomas
+A1 Faugeras,Olivier,D.
+YR 2010
+T1 EEG-fMRI Fusion of Paradigm-Free Activity Using Kalman Filtering
+JF Neural Computation
+VO 22
+SP 906
+OP 948
+IS 4
+
+RT Journal Article
+ID 27677001
+A1 Touboul,Jonathan
+A1 Ermentrout,Bard
+A1 Faugeras,Olivier
+A1 Cessac,Bruno
+YR 2010
+T1 Stochastic firing rate models
+
+RT Journal Article
+ID 27664323
+A1 Faye,Grégory
+A1 Chossat,Pascal
+A1 Faugeras,Olivier
+YR 2010
+T1 Some theoretical results for a class of neural mass equations
+
+RT Journal Article
+ID 27653762
+A1 Veltz,Romain
+A1 Faugeras,Olivier
+YR 2010
+T1 Illusions in the Ring Model of visual orientation selectivity
+
+RT Journal Article
+ID 5944912
+A1 Faugeras,Olivier,D.
+A1 Veltz,Romain
+A1 Grimbert,François
+YR 2009
+T1 Persistent Neural States: Stationary Localized Activity Patterns in Nonlinear Continuous n-Population, q-Dimensional Neural Networks
+JF Neural Computation
+VO 21
+SP 147
+OP 187
+IS 1
+
+RT Journal Article
+ID 27700780
+A1 Chossat,Pascal
+A1 Faugeras,Olivier
+YR 2009
+T1 Hyperbolic planforms in relation to visual edges and textures perception
+JF PLOS Computational Biology
+VO 5
+IS 12
+
+RT Journal Article
+ID 6462808
+A1 Lenglet,Christophe
+A1 Prados,Emmanuel
+A1 Pons,Jean-Philippe
+A1 Deriche,Rachid
+A1 Faugeras,Olivier,D.
+YR 2009
+T1 Brain Connectivity Mapping Using Riemannian Geometry, Control Theory, and PDEs
+JF Siam Journal on Imaging Sciences
+VO 2
+SP 285
+OP 322
+IS 2
+
+RT Journal Article
+ID 27600288
+A1 Touboul,Jonathan,D.
+A1 Faugeras,Olivier,D.
+YR 2009
+T1 A Markovian event-based framework for stochastic spiking neural networks
+JF Journal of Computational Neuroscience
+SP 1
+OP 23
+
+RT Journal Article
+ID 39095921
+A1 Cessac,Bruno
+A1 Faugeras,Olivier
+A1 Touboul,Jonathan
+YR 2009
+T1 A constructive mean-field analysis of multi population neural networks with random synaptic weights
+JF Frontiers in Systems Neuroscience
+
+RT Journal Article
+ID 57414405
+A1 Chossat,Pascal
+A1 Faugeras,Olivier
+YR 2009
+T1 Hyperbolic Planforms in Relation to Visual Edges and Textures Perception
+JF PLOS Computational Biology
+VO 5
+IS 12
+
+RT Journal Article
+ID 16487851
+A1 Touboul,J.
+A1 Faugeras,O.
+YR 2009
+T1 Correction: A characterization of the first hitting time of double integral processes to curved boundaries
+JF Advances in Applied Probability
+VO 41
+SP 309
+OP 309
+IS 2009
+
+RT Journal Article
+ID 39095982
+A1 Faugeras,Olivier
+A1 Veltz,Romain
+YR 2009
+T1 Bifurcation analysis of neural mass equations
+JF Frontiers in Systems Neuroscience
+
+RT Journal Article
+ID 52903298
+A1 Veltz,Romain
+A1 Faugeras,Olivier
+YR 2009
+T1 Local/global analysis of the stationary solutions of some neural field equations
+
+RT Journal Article
+ID 27728119
+A1 Touboul,Jonathan
+A1 Faugeras,Olivier
+YR 2009
+T1 Codimension Two Bifurcations and Rythms in Neural Mass Models
+
+RT Journal Article
+ID 58507821
+A1 Faugeras,Olivier
+YR 2009
+T1 Prediction via the Quantile-Copula Conditional Density Estimator
+
+RT Journal Article
+ID 4391200
+A1 Kokkinos,Iasonas
+A1 Deriche,Rachid
+A1 Faugeras,Olivier,D.
+A1 Maragos,Petros
+YR 2008
+T1 Computational analysis and learning for a biologically motivated model of boundary detection
+JF Neurocomputing
+VO 71
+SP 1798
+OP 1812
+IS 10-12
+
+RT Journal Article
+ID 4769377
+A1 Faugeras,Olivier,D.
+A1 Grimbert,François
+A1 Slotine,Jean-jacques,E.
+YR 2008
+T1 Absolute Stability and Complete Synchronization in a Class of Neural Fields Models
+JF Siam Journal on Applied Mathematics
+VO 69
+SP 205
+OP 250
+IS 1
+
+RT Journal Article
+ID 6959037
+A1 Faugeras,Olivier
+A1 Touboul,Jonathan
+A1 Cessac,Bruno
+YR 2008
+T1 A constructive mean field analysis of multi population neural networks with random synaptic weights and stochastic inputs
+JF Frontiers in Computational Neuroscience
+VO 3
+
+RT Journal Article
+ID 16487823
+A1 Touboul,Jonathan
+A1 Faugeras,Olivier
+YR 2008
+T1 A characterization of the first hitting time of double integral processes to curved boundaries
+JF Advances in Applied Probability
+VO 40
+SP 501
+OP 528
+IS 2008
+
+RT Journal Article
+ID 15244155
+A1 Faugeras,Olivier
+A1 Veltz,Romain
+A1 Grimbert,François
+YR 2008
+T1 Persistent Neural States: Stationary Localized Activity Patterns in Nonlinear Continuous n Population, q Dimensional Neural Networks
+JF Neural Computation
+VO 0
+SP 808041436
+OP 41
+IS 0
+
+RT Journal Article
+ID 5540411
+A1 Faugeras,Olivier
+A1 Grimbert,François
+YR 2008
+T1 Bumps in simple two-dimensional neural field models
+
+RT Journal Article
+ID 2503389
+A1 Pons,Jean-philippe
+A1 Keriven,Renaud
+A1 Faugeras,Olivier,D.
+YR 2007
+T1 Multi-View Stereo Reconstruction and Scene Flow Estimation with a Global Image-Based Matching Score
+JF International Journal of Computer Vision
+VO 72
+SP 179
+OP 193
+IS 2
+
+RT Journal Article
+ID 3139920
+A1 Charpiat,Guillaume
+A1 Maurel,Pierre
+A1 Pons,Jean-philippe
+A1 Keriven,Renaud
+A1 Faugeras,Olivier,D.
+YR 2007
+T1 Generalized Gradients: Priors on Minimization Flows
+JF International Journal of Computer Vision
+VO 73
+SP 325
+OP 344
+IS 3
+
+RT Conference Proceedings
+ID 4247760
+A1 Charpiat,Guillaume
+A1 Faugeras,Olivier,D.
+A1 Keriven,Renaud
+YR 2007
+T1 Shape Statistics for Image Segmentation with Prior
+
+RT Journal Article
+ID 36059069
+A1 Touboul,Jonathan
+A1 Faugeras,Olivier
+YR 2007
+T1 The spikes trains probability distributions: A stochastic calculus approach
+JF Journal of Physiology-paris
+VO 101
+SP 78
+OP 98
+IS 1
+
+RT Journal Article
+ID 4955649
+A1 Faugeras,Olivier
+A1 Papadopoulo,Theo
+A1 Touboul,Jonathan
+A1 Bossy,Mireille
+A1 Talay,Denis
+A1 Tanre,Etienne
+YR 2007
+T1 THE STATISTICS OF SPIKES TRAINS FOR SOME SIMPLE TYPES OF NEURON MODELS
+
+RT Journal Article
+ID 38608557
+A1 Faugeras,Olivier
+A1 Slotine,Jean-Jacques
+YR 2007
+T1 Synchronizing a 2D continuum of two populations of neural masses
+JF BMC Neuroscience
+VO 8
+OP 2
+IS Suppl 2
+
+RT Journal Article
+ID 38608605
+A1 Touboul,Jonathan
+A1 Faugeras,Olivier
+A1 Rochel,Olivier
+YR 2007
+T1 Event-driven mathematical framework for noisy integrate-and-fire neuron networks: spike trains statistics via stochastic calculus, network analysis inspired by queuing theory and an event-driven simulator
+JF BMC Neuroscience
+VO 8
+OP 2
+IS Suppl 2
+
+RT Journal Article
+ID 36059065
+A1 Faugeras,Olivier
+A1 Frégnac,Yves
+A1 Samuelides,Manuel
+YR 2007
+T1 A future for systems and computational neuroscience in France?
+JF Journal of Physiology-paris
+VO 101
+SP 1
+OP 8
+IS 1
+
+RT Journal Article
+ID 52368979
+A1 Kybic,Jan
+A1 Faugeras,Olivier
+A1 Clerc,Maureen
+A1 Papadopoulo,Théo
+YR 2007
+T1 Neural mass model parameter identification for MEG/EEG
+VO 6511
+SP 11
+
+RT Journal Article
+ID 38608649
+A1 Faugeras,Olivier
+A1 Grimbert,François
+YR 2007
+T1 Bumps and waves in a two-dimensional multilayer neural field model
+JF BMC Neuroscience
+VO 8
+OP 2
+IS Suppl 2
+
+RT Journal Article
+ID 4198850
+A1 Lenglet,Christophe
+A1 Rousson,Mikaël
+A1 Deriche,Rachid
+A1 Faugeras,Olivier,D.
+YR 2006
+T1 Statistics on the Manifold of Multivariate Normal Distributions: Theory and Application to Diffusion Tensor MRI Processing
+JF Journal of Mathematical Imaging and Vision
+VO 25
+SP 423
+OP 444
+IS 3
+
+RT Conference Proceedings
+ID 2167266
+A1 Prados,Emmanuel
+A1 Soatto,Stefano
+A1 Lenglet,Christophe
+A1 Pons,Jean-philippe
+A1 Wotawa,Nicolas
+A1 Deriche,Rachid
+A1 Faugeras,Olivier,D.
+YR 2006
+T1 Control Theory and Fast Marching Techniques for Brain Connectivity Mapping
+VO 1
+SP 1076
+OP 1083
+
+RT Journal Article
+ID 14529837
+A1 Deneux,Thomas
+A1 Faugeras,Olivier
+YR 2006
+T1 Using nonlinear models in fMRI data analysis: Model selection and activation detection
+JF Neuroimage
+VO 32
+SP 1669
+OP 1689
+IS 4
+
+RT Journal Article
+ID 2644303
+A1 Prados,Emmanuel
+A1 Camilli,Fabio
+A1 Faugeras,Olivier,D.
+YR 2006
+T1 A Unifying and Rigorous Shape from Shading Method Adapted to Realistic Data and Applications
+JF Journal of Mathematical Imaging and Vision
+VO 25
+SP 307
+OP 328
+IS 3
+
+RT Journal Article
+ID 2511489
+A1 Grimbert,François
+A1 Faugeras,Olivier,D.
+YR 2006
+T1 Bifurcation Analysis of Jansen's Neural Mass Model
+JF Neural Computation
+VO 18
+SP 3052
+OP 3068
+IS 12
+
+RT Journal Article
+ID 18841855
+A1 Kybic,Jan
+A1 Clerc,Maureen
+A1 Faugeras,Olivier
+A1 Keriven,Renaud
+A1 Papadopoulo,Théo
+YR 2006
+T1 Generalized head models for MEG/EEG: boundary element method beyond nested volumes
+JF Physics in Medicine and Biology
+VO 51
+SP 1333
+OP 1346
+IS 5
+
+RT Journal Article
+ID 4668388
+A1 Pons,J.-P.
+A1 Hermosillo,G.
+A1 Keriven,R.
+A1 Faugeras,O.
+YR 2006
+T1 Maintaining the point correspondence in the level set framework
+JF Journal of Computational Physics
+VO 220
+SP 339
+OP 354
+IS 1
+
+RT Conference Proceedings
+ID 50490922
+A1 Charpiat,Guillaume
+A1 Faugeras,Olivier
+A1 Keriven,Renaud
+A1 Maurel,Pierre
+YR 2006
+T1 Distance-Based Shape Statistics
+VO 5
+
+RT Conference Proceedings
+ID 2442780
+A1 Maurel,Pierre
+A1 Keriven,Renaud
+A1 Faugeras,Olivier,D.
+YR 2006
+T1 Reconciling Landmarks and Level Sets
+VO 4
+SP 69
+OP 72
+
+RT Journal Article
+ID 11357019
+A1 Prados,Emmanuel
+A1 Camilli,Fabio
+A1 Faugeras,Olivier
+YR 2006
+T1 A viscosity solution method for Shape-From-Shading without image boundary data
+JF Mathematical Modelling and Numerical Analysis
+VO 40
+SP 393
+OP 412
+IS 2
+
+RT Conference Proceedings
+ID 2449961
+A1 Deneux,Thomas
+A1 Faugeras,Olivier,D.
+YR 2006
+T1 EEG-fMRI fusion of non-triggered data using Kalman filtering
+SP 1068
+OP 1071
+
+RT Conference Proceedings
+ID 2449696
+A1 Vanzetta,Ivo
+A1 Deneux,Thomas
+A1 Masson,Guillaume,S.
+A1 Faugeras,Olivier,D.
+YR 2006
+T1 Cerebral blood flow recorded at high sensitivity in two dimensions using high resolution optical imaging
+SP 1264
+OP 1267
+
+RT Journal Article
+ID 1750044
+A1 Charpiat,Guillaume
+A1 Faugeras,Olivier,D.
+A1 Keriven,Renaud
+YR 2005
+T1 Approximations of Shape Metrics and Application to Shape Warping and Empirical Shape Statistics
+JF Foundations of Computational Mathematics
+VO 5
+SP 1
+OP 58
+IS 1
+
+RT Conference Proceedings
+ID 1788983
+A1 Pons,Jean-philippe
+A1 Keriven,Renaud
+A1 Faugeras,Olivier,D.
+YR 2005
+T1 Modelling Dynamic Scenes by Registering Multi-View Image Sequences
+VO 2
+SP 822
+OP 827
+
+RT Conference Proceedings
+ID 1788936
+A1 Prados,Emmanuel
+A1 Faugeras,Olivier,D.
+YR 2005
+T1 Shape from Shading: A Well-Posed Problem?
+VO 2
+SP 870
+OP 877
+
+RT Journal Article
+ID 1513110
+A1 Kybic,Jan
+A1 Clerc,Maureen
+A1 Abboud,Touffic
+A1 Faugeras,Olivier,D.
+A1 Keriven,Renaud
+A1 Papadopoulo,Théodore
+YR 2005
+T1 A common formalism for the Integral formulations of the forward EEG problem
+JF IEEE Transactions on Medical Imaging
+VO 24
+SP 12
+OP 28
+IS 1
+
+RT Conference Proceedings
+ID 1796688
+A1 Charpiat,Guillaume
+A1 Keriven,Renaud
+A1 Pons,Jean-philippe
+A1 Faugeras,Olivier,D.
+YR 2005
+T1 Designing Spatially Coherent Minimizing Flows for Variational Problems Based on Active Contours
+VO 2
+SP 1403
+OP 1408
+
+RT Book, Whole
+ID 1805851
+A1 Lenglet,Christophe
+A1 Rousson,Mikaël
+A1 Deriche,Rachid
+A1 Faugeras,Olivier,D.
+A1 Lehericy,Stéphane
+A1 Ugurbil,Kamil
+YR 2005
+T1 A Riemannian Approach to Diffusion Tensor Images Segmentation
+SP 591
+OP 602
+
+RT Journal Article
+ID 2140920
+A1 Prados,Emmanuel
+A1 Faugeras,Olivier,D.
+YR 2005
+T1 A Generic and Provably Convergent Shape-from-Shading Method for Orthographic and Pinhole Cameras
+JF International Journal of Computer Vision
+VO 65
+SP 97
+OP 125
+IS 1-2
+
+RT Conference Proceedings
+ID 1796565
+A1 Charpiat,Guillaume
+A1 Faugeras,Olivier,D.
+A1 Keriven,Renaud
+YR 2005
+T1 Image Statistics Based on Diffeomorphic Matching
+VO 1
+SP 852
+OP 857
+
+RT Journal Article
+ID 2140917
+A1 Prados,E.
+A1 Camilli,F.
+A1 Faugeras,O.
+YR 2005
+T1 A viscosity solution method for shape-from-shading without boundary data
+
+RT Journal Article
+ID 4597855
+A1 Kybic,Jan
+A1 Clerc,Maureen
+A1 Faugeras,Olivier
+A1 Keriven,Renaud
+A1 Papadopoulo,Théo
+YR 2005
+T1 Fast multipole acceleration of the MEG/EEG boundary element method
+JF Physics in Medicine and Biology
+VO 50
+SP 4695
+OP 4710
+IS 19
+
+RT Conference Proceedings
+ID 13295122
+A1 Paragios,Nikos
+A1 Faugeras,Olivier,D.
+A1 Chan,Tony
+A1 Schnörr,Christoph
+YR 2005
+T1 Variational, Geometric, and Level Set Methods in Computer Vision, Third International Workshop, VLSM 2005, Beijing, China, October 16, 2005, Proceedings
+
+RT Journal Article
+ID 60013109
+A1 Campbell-Kelly,Martin
+A1 Blythe,Mark,A.
+A1 Knight,John
+A1 Thompson,Nato
+A1 Barber,John,F.
+A1 R,Michael
+A1 Frith,Fred
+A1 Brown,Chris
+A1 Ryssen,Stefaan,Van
+A1 Wil,David,Gordon
+A1 Faugeras,Olivier
+A1 Whitelaw,Mitchell
+YR 2005
+T1 Cheap at Half the Price
+
+RT Journal Article
+ID 51170942
+A1 Kybic,Jan
+A1 Clerc,Maureen
+A1 Abboud,Toufic
+A1 Faugeras,Olivier
+A1 Keriven,Renaud
+A1 Papadopoulo,Théo
+YR 2005
+T1 A common formalism for the Integral formulations of the forward EEG problem
+JF IEEE Transactions on Medical Imaging
+VO 24
+SP 12
+OP 28
+IS 1
+
+RT Journal Article
+ID 2145940
+A1 Lenglet,C.
+A1 Rousson,M.
+A1 Deriche,R.
+A1 Faugeras,O.
+YR 2004
+T1 Statistics on multivariate normal distributions: A geometric approach and its application to di usion tensor MRI
+
+RT Journal Article
+ID 5120632
+A1 Chefd'hotel,C.
+A1 Deriche,R.
+A1 Faugeras,O.
+YR 2004
+T1 Regularizing Flows for Constrained Matrix-Valued Images
+JF Journal of Mathematical Imaging and Vision
+VO 20
+SP 147
+OP 162
+IS 1/2
+
+RT Conference Proceedings
+ID 1790100
+A1 Lenglet,Christophe
+A1 Deriche,Rachid
+A1 Faugeras,Olivier,D.
+YR 2004
+T1 Inferring White Matter Geometry from Di.usion Tensor MRI: Application to Connectivity Mapping
+SP 127
+OP 140
+
+RT Journal Article
+ID 18058839
+A1 Peeters,Ronald,R.
+A1 Kornprobst,Pierre
+A1 Nikolova,Mila
+A1 Sunaert,Stefan
+A1 Vieville,Thierry
+A1 Deriche,Rachid
+A1 Faugeras,Olivier
+A1 Ng,Michael
+A1 Hecke,Paul,Van
+YR 2004
+T1 The use of super-resolution techniques to reduce slice thickness in functional MRI
+JF International Journal of Imaging Systems and Technology
+VO 14
+SP 131
+OP 138
+IS 3
+
+RT Book, Whole
+ID 1966763
+A1 Prados,Emmanuel
+A1 Faugeras,Olivier,D.
+YR 2004
+T1 Unifying Approaches and Removing Unrealistic Assumptions in Shape from Shading: Mathematics Can Help
+SP 141
+OP 154
+
+RT Conference Proceedings
+ID 2318278
+A1 Prados,Emmanuel
+A1 Faugeras,Olivier
+YR 2004
+T1 A rigorous and realistic Shape From Shading method and some of its applications
+
+RT Journal Article
+ID 2318792
+A1 Faugeras,Olivier
+A1 Adde,Geoffray
+A1 Charpiat,Guillaume
+A1 Chefd'Hotel,Christophe
+A1 Clerc,Maureen
+A1 Deneux,Thomas
+A1 Deriche,Rachid
+A1 Hermosillo,Gerardo
+A1 Keriven,Renaud
+A1 Kornprobst,Pierre
+A1 Kybic,Jan
+A1 Lenglet,Christophe
+A1 Lopez-Perez,Lucero
+A1 Papadopoulo,Théo
+A1 Pons,Jean-Philippe
+A1 Segonne,Florent
+A1 Thirion,Bertrand
+A1 Tschumperlé,David
+A1 Viéville,Thierry
+A1 Wotawa,Nicolas
+YR 2004
+T1 Variational, geometric, and statistical methods for modeling brain anatomy and function
+JF Neuroimage
+VO 23
+
+RT Journal Article
+ID 6618451
+A1 Chefd'Hotel,Christophe
+A1 Tschumperlé,David
+A1 Deriche,Rachid
+A1 Faugeras,Olivier,D.
+YR 2004
+T1 Regularizing Flows for Constrained Matrix-Valued Images
+JF Journal of Mathematical Imaging and Vision
+VO 20
+SP 147
+OP 162
+IS 1-2
+
+RT Journal Article
+ID 4086521
+A1 Hermosillo,Gerardo
+A1 Faugeras,Olivier,D.
+YR 2004
+T1 Well-Posedness of Two Nonrigid Multimodal Image Registration Methods
+JF Siam Journal on Applied Mathematics
+VO 64
+SP 1550
+OP 1587
+IS 5
+
+RT Journal Article
+ID 2128919
+A1 Prados,E.
+A1 Camilli,F.
+A1 Faugeras,O.
+YR 2004
+T1 A viscosity method for Shape from Shading without boudary data
+
+RT Journal Article
+ID 39353023
+A1 Thirion,Bertrand
+A1 Faugeras,Olivier,D.
+YR 2004
+T1 Feature characterization in fMRI data: the Information Bottleneck approach
+JF Medical Image Analysis
+VO 8
+SP 403
+OP 419
+IS 4
+
+RT Conference Proceedings
+ID 693949
+A1 Faugeras,Olivier,D.
+A1 Thirion,Bertrand
+YR 2004
+T1 Nonlinear Dimension Reduction of fMRI Data: The Laplacian Embedding Approach
+SP 372
+OP 375
+
+RT Book, Whole
+ID 1853706
+A1 Pons,Jean-philippe
+A1 Keriven,Renaud
+A1 Faugeras,Olivier,D.
+YR 2004
+T1 Area Preserving Cortex Unfolding
+SP 376
+OP 383
+
+RT Book, Whole
+ID 509944
+A1 Kokkinos,Iasonas
+A1 Deriche,Rachid
+A1 Maragos,Petros
+A1 Faugeras,Olivier,D.
+YR 2004
+T1 A Biologically Motivated and Computationally Tractable Model of Low and Mid-Level Vision Tasks
+SP 506
+OP 517
+
+RT Journal Article
+ID 2301238
+A1 Bullier,J.
+A1 Deriche,R.
+A1 Faugeras,O.
+A1 Fize,D.
+A1 Girard,P.
+A1 Guyonneau,R.
+A1 Kornprobst,P.
+YR 2004
+T1 RIVAGe Feedback during Visual Integration : towards a Generic Architecture
+
+RT Journal Article
+ID 1714703
+A1 Faugeras,Olivier,D.
+YR 2004
+T1 In Memory of Hugh Christopher Longuet-Higgins
+JF International Journal of Computer Vision
+VO 60
+SP 1
+OP 2
+IS 1
+
+RT Journal Article
+ID 7000361
+A1 Galtier,M.
+A1 Faugeras,O.
+YR 2004
+T1 D ´ ETECTION DE CONTOURS VISUELS PAR UN MOD` ELE DE CHAMP NEURONAL
+
+RT Journal Article
+ID 423771
+A1 Aubert,Gilles
+A1 Barlaud,Michel
+A1 Faugeras,Olivier,D.
+A1 Jehan-Besson,Stéphanie
+YR 2003
+T1 Image Segmentation Using Active Contours: Calculus of Variations or Shape Gradients?
+JF Siam Journal on Applied Mathematics
+VO 63
+SP 2128
+OP 2154
+IS 6
+
+RT Conference Proceedings
+ID 2069067
+A1 Prados,Emmanuel
+A1 Faugeras,Olivier,D.
+YR 2003
+T1 "Perspective Shape from Shading" and Viscosity Solutions
+SP 826
+OP 831
+
+RT Conference Proceedings
+ID 1796413
+A1 Jehan-besson,Stéphanie
+A1 Barlaud,Michel
+A1 Aubert,Gilles
+A1 Faugeras,Olivier,D.
+YR 2003
+T1 Shape Gradients for Histogram Segmentation using Active Contours
+SP 408
+OP 415
+
+RT Journal Article
+ID 4225718
+A1 Fize,Denis
+A1 Vanduffel,Wim
+A1 Nelissen,Koen
+A1 Denys,Katrien
+A1 d'Hotel,Christophe,Chef
+A1 Faugeras,Olivier
+A1 Orban,Guy,A.
+YR 2003
+T1 The Retinotopic Organization of Primate Dorsal V4 and Surrounding Areas: A Functional Magnetic Resonance Imaging Study in Awake Monkeys
+
+RT Journal Article
+ID 5997931
+A1 Thirion,Bertrand
+A1 Faugeras,Olivier
+YR 2003
+T1 Dynamical components analysis of fMRI data through kernel PCA
+JF Neuroimage
+VO 20
+SP 34
+OP 49
+IS 1
+
+RT Conference Proceedings
+ID 1796506
+A1 Pons,Jean-philippe
+A1 Hermosillo,Gerardo
+A1 Keriven,Renaud
+A1 Faugeras,Olivier,D.
+YR 2003
+T1 How To Deal with Point Correspondences and Tangential Velocities in the Level Set Framework
+SP 894
+OP 899
+
+RT Conference Proceedings
+ID 1796416
+A1 Pons,Jean-philippe
+A1 Keriven,Renaud
+A1 Faugeras,Olivier,D.
+A1 Hermosillo,Gerardo
+YR 2003
+T1 Variational Stereovision and 3D Scene Flow Estimation with Statistical Similarity Measures
+SP 597
+OP 602
+
+RT Journal Article
+ID 2069066
+A1 Prados,E.
+A1 Faugeras,O.
+YR 2003
+T1 A mathematical and algorithmic study of the lam-bertian SFS problem for orthographic and pinhole cameras
+
+RT Conference Proceedings
+ID 2184225
+A1 Charpiat,Guillaume
+A1 Faugeras,Olivier,D.
+A1 Keriven,Renaud
+YR 2003
+T1 Shape metrics, warping and statistics
+VO 2
+SP 627
+OP 630
+
+RT Book, Whole
+ID 548267
+A1 Adde,Geoffray
+A1 Clerc,Maureen
+A1 Faugeras,Olivier,D.
+A1 Keriven,Renaud
+A1 Kybic,Jan
+A1 Papadopoulo,Théodore
+YR 2003
+T1 Symmetric BEM Formulation for the M/EEG Forward Problem
+SP 524
+OP 535
+
+RT Journal Article
+ID 2343207
+A1 Lenglet,C.
+A1 Deriche,R.
+A1 Faugeras,O.
+YR 2003
+T1 Diffusion Tensor Magnetic Resonance Imaging: Brain Connectivity Mapping
+
+RT Journal Article
+ID 4061214
+A1 Faugeras,O.
+A1 Gomes,J.
+A1 Keriven,R.
+YR 2003
+T1 Variational principles in computational stereo
+
+RT Journal Article
+ID 784305
+A1 Gomes,José
+A1 Faugeras,Olivier,D.
+YR 2003
+T1 The Vector Distance Functions
+JF International Journal of Computer Vision
+VO 52
+SP 161
+OP 187
+IS 2-3
+
+RT Book, Whole
+ID 662152
+A1 Thirion,Bertrand
+A1 Faugeras,Olivier,D.
+YR 2003
+T1 Feature Detection in fMRI Data: The Information Bottleneck Approach
+SP 83
+OP 91
+
+RT Conference Proceedings
+ID 3251928
+A1 Kybic,Jan
+A1 Clerc,Maureen
+A1 Abboud,Toufic
+A1 Faugeras,Olivier
+A1 Keriven,Renaud
+A1 Papadopoulo,Th'eo
+YR 2003
+T1 Integral formulations for the eeg problem
+
+RT Journal Article
+ID 2736403
+A1 Charpiat,G.
+A1 Faugeras,O.
+A1 Keriven,R.
+YR 2003
+T1 Approximations of shape metrics and application to shape warping and shape statisctics
+
+RT Book, Whole
+ID 662908
+A1 Thirion,Bertrand
+A1 Faugeras,Olivier,D.
+YR 2003
+T1 Dynamical Components Analysis of FMRI Data: A Second Order Solution
+SP 552
+OP 563
+
+RT Journal Article
+ID 2324228
+A1 Thirion,B.
+A1 Kherif,F.
+A1 Poline,J.
+A1 Faugeras,O.
+YR 2003
+T1 Multivariate analysis of fMRI data: Is it worth using nonlinear methods
+
+RT Journal Article
+ID 15271184
+A1 Gomes,José
+A1 Faugeras,Olivier
+YR 2003
+T1 The Vector Distance Functions
+JF International Journal of Computer Vision
+VO 52
+SP 161
+OP 187
+IS 2
+
+RT Journal Article
+ID 784279
+A1 Hermosillo,Gerardo
+A1 Chefd'hotel,Christophe
+A1 Faugeras,Olivier,D.
+YR 2002
+T1 Variational Methods for Multimodal Image Matching
+JF International Journal of Computer Vision
+VO 50
+SP 329
+OP 343
+IS 3
+
+RT Conference Proceedings
+ID 2450209
+A1 Chefd'hotel,Christophe
+A1 Hermosillo,Gerardo
+A1 Faugeras,Olivier,D.
+YR 2002
+T1 Flows of diffeomorphisms for multimodal image registration
+SP 753
+OP 756
+
+RT Book, Whole
+ID 42666
+A1 Prados,Emmanuel
+A1 Faugeras,Olivier,D.
+A1 Rouy,Elisabeth
+YR 2002
+T1 Shape from Shading and Viscosity Solutions
+SP 790
+OP 804
+
+RT Book, Whole
+ID 509593
+A1 Chefd'hotel,Christophe
+A1 Tschumperlé,David
+A1 Deriche,Rachid
+A1 Faugeras,Olivier,D.
+YR 2002
+T1 Constrained Flows of Matrix-Valued Functions: Application to Diffusion Tensor Regularization
+SP 251
+OP 265
+
+RT Conference Proceedings
+ID 50302306
+A1 Leventon,Michael,E.
+A1 Grimson,W.,E.,L.
+A1 Faugeras,O.
+YR 2002
+T1 Statistical shape influence in geodesic active contours
+
+RT Conference Proceedings
+ID 11579210
+A1 Faugeras,Olivier
+A1 Hermosillo,Gerardo
+YR 2002
+T1 Well-posedness of eight problems of multi-modal statistical image-matching
+
+RT Journal Article
+ID 15271165
+A1 Hermosillo,Gerardo
+A1 Chefd'Hotel,Christophe
+A1 Faugeras,Olivier
+YR 2002
+T1 Variational Methods for Multimodal Image Matching
+JF International Journal of Computer Vision
+VO 50
+SP 329
+OP 343
+IS 3
+
+RT Conference Proceedings
+ID 2315471
+A1 Clerc,Maureen
+A1 Faugeras,Olivier,D.
+A1 Keriven,Renaud
+A1 Kybic,Jan
+A1 Papadopoulo,Théodore
+YR 2002
+T1 The fast multipole method for the direct E/MEG problem
+SP 1023
+OP 1026
+
+RT Journal Article
+ID 2298144
+A1 Clerc,Maureen
+A1 Dervieux,Alain
+A1 Keriven,Renaud
+A1 Faugeras,Olivier
+A1 Kybic,Jan
+A1 Papadopoulo,Theo
+YR 2002
+T1 COMPARISON OF BEM AND FEM METHODS FOR THE E/MEG PROBLEM
+
+RT Conference Proceedings
+ID 50302305
+A1 Leventon,Michael,E.
+A1 Faugeras,O.
+A1 Grimson,W.,E.,L.
+YR 2002
+T1 Level set based segmentation with intensity and curvature priors
+
+RT Conference Proceedings
+ID 2296746
+A1 Thirion,Bertrand
+A1 Faugeras,Olivier,D.
+YR 2002
+T1 Dynamical components analysis of fMRI data
+SP 915
+OP 918
+
+RT Journal Article
+ID 14571168
+A1 Faugeras,Olivier
+A1 Perona,Pietro
+A1 Sapiro,Guillermo
+YR 2002
+T1 Special Issue on Partial Differential Equations in Image Processing, Computer Vision, and Computer Graphics
+JF Journal of Visual Communication and Image Representation
+VO 13
+SP 1
+OP 2
+IS 1
+
+RT Conference Proceedings
+ID 50302307
+A1 Faugeras,Olivier
+A1 Keriven,Renaud
+YR 2002
+T1 Variational principles, surface evolution, PDE's, level set methods and the stereo problem
+
+RT Conference Proceedings
+ID 50302304
+A1 Gomes,Jose
+A1 Faugeras,O.
+YR 2002
+T1 Reconciling distance functions and level sets
+
+RT Journal Article
+ID 2032182
+A1 Faugeras,O.
+A1 Luong,Q.,T
+A1 Papadopoulo,T.
+YR 2001
+T1 The Geometry of Multiple Images
+
+RT Journal Article
+ID 6992845
+A1 Devernay,Fr,ed,eric
+A1 Faugeras,Olivier
+YR 2001
+T1 Straight Lines Have to Be Straight Automatic Calibration and Removal of Distortion from Scenes of Structured Environments
+JF Machine Vision and Applications
+
+RT Journal Article
+ID 2126216
+A1 Lorigo,Liana,M.
+A1 Faugeras,Olivier,D.
+A1 Grimson,W.,Eric,L.
+A1 Keriven,Renaud
+A1 Kikinis,Ron
+A1 Nabavi,Arya
+A1 Westin,Carl-Fredrik
+YR 2001
+T1 CURVES: Curve evolution for vessel segmentation
+JF Medical Image Analysis
+VO 5
+SP 195
+OP 206
+IS 3
+
+RT Book, Whole
+ID 2026994
+A1 Faugeras,Olivier,D.
+A1 Luong,Quang-Tuan
+A1 Papadopoulo,Théodore
+YR 2001
+T1 The geometry of multiple images - the laws that govern the formation of multiple images of a scene and some of their applications
+
+RT Conference Proceedings
+ID 10505241
+A1 Chefd'Hotel,C.
+A1 Hermosillo,G.
+A1 Faugeras,O.
+YR 2001
+T1 A variational approach to multi-modal image matching
+
+RT Journal Article
+ID 2159752
+A1 Delamarre,Quentin
+A1 Faugeras,Olivier,D.
+YR 2001
+T1 3D Articulated Models and Multiview Tracking with Physical Forces
+JF Computer Vision and Image Understanding
+VO 81
+SP 328
+OP 357
+IS 3
+
+RT Journal Article
+ID 3903175
+A1 Faugeras,O.
+A1 Luong,Q.,T.
+A1 Papadopoulo,T.
+YR 2001
+T1 The geometry of multiple images
+
+RT Conference Proceedings
+ID 2070134
+A1 Hermosillo,Gerardo
+A1 Faugeras,Olivier,D.
+YR 2001
+T1 Dense Image Matching with Global and Local Statistical Criteria: A Variational Approach
+VO 1
+SP 73
+OP 78
+
+RT Book, Whole
+ID 674211
+A1 Gomes,José
+A1 Faugeras,Olivier,D.
+YR 2001
+T1 Using the Vector Distance Functions to Evolve Manifolds of Arbitrary Codimension
+SP 1
+OP 13
+
+RT Conference Proceedings
+ID 2296978
+A1 Thirion,Bertrand
+A1 Faugeras,Olivier
+YR 2001
+T1 Revisiting non-parametric activation detection on fMRI time series
+
+RT Journal Article
+ID 50238416
+A1 Bouabdellah,R.
+A1 Yasuoka,K.
+A1 Ishii,S.
+YR 2001
+T1 Interaction of the pulsed aluminum wire plasma with the polyethylene wall
+JF Clinical Neurophysiology
+SP 155
+
+RT Conference Proceedings
+ID 217691
+A1 Leventon,Michael,E.
+A1 Grimson,W.,Eric,L.
+A1 Faugeras,Olivier,D.
+YR 2000
+T1 Statistical Shape Influence in Geodesic Active Contours
+VO 1
+SP 1316
+OP 1323
+
+RT Conference Proceedings
+ID 216517
+A1 Leventon,Michael,E.
+A1 Faugeras,Olivier
+A1 Grimson,W.,E.,L.
+YR 2000
+T1 Level set based segmentation with intensity and curvature priors
+
+RT Conference Proceedings
+ID 188266
+A1 Lorigo,Liana,M.
+A1 Grimson,W.,Eric,L.
+A1 Faugeras,Olivier,D.
+A1 Keriven,Renaud
+A1 Kikinis,Ron
+A1 Nabavi,Arya
+A1 Westin,Carl-fredrik
+YR 2000
+T1 Codimension - Two Geodesic Active Contours for the Segmentation of Tubular Structures
+VO 1
+SP 1444
+OP 1451
+
+RT Journal Article
+ID 799771
+A1 Faugeras,Olivier,D.
+A1 Quan,Long
+A1 Sturm,Peter,F.
+YR 2000
+T1 Self-Calibration of a 1D Projective Camera and Its Application to the Self-Calibration of a 2D Projective Camera
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 22
+SP 1179
+OP 1185
+IS 10
+
+RT Book, Whole
+ID 182518
+A1 Gomes,José
+A1 Faugeras,Olivier,D.
+YR 2000
+T1 Level Sets and Distance Functions
+SP 588
+OP 602
+
+RT Book, Whole
+ID 184936
+A1 Westin,Carl-fredrik
+A1 Lorigo,Liana,M.
+A1 Faugeras,Olivier,D.
+A1 Grimson,W.,Eric,L.
+A1 Dawson,Steven
+A1 Norbash,Alexander
+A1 Kikinis,Ron
+YR 2000
+T1 Segmentation by Adaptive Geodesic Active Contours
+SP 266
+OP 275
+
+RT Conference Proceedings
+ID 171690
+A1 Faugeras,Olivier,D.
+A1 Gomes,José
+YR 2000
+T1 Dynamic Shapes of Arbitrary Dimension: The Vector Distance Functions
+SP 227
+OP 262
+
+RT Conference Proceedings
+ID 2844448
+A1 Lorigo,L.
+A1 Faugeras,O.
+A1 Grimson,W.,E.,L.
+A1 Keriven,R.
+A1 Kikinis,R.
+A1 Westin,C.,F.
+YR 2000
+T1 Codimension-Two Geodesic Active Contours
+
+RT Conference Proceedings
+ID 498724
+A1 Grimson,W.,Eric,L.
+A1 Leventon,Michael,E.
+A1 Faugeras,Olivier,D.
+YR 2000
+T1 Computer Vision Methods for Image Guided Surgery
+
+RT Journal Article
+ID 3670386
+A1 Robert,L.
+A1 Faugeras,O.
+YR 2000
+T1 Relative 3-D positioning and 3-D convex hull A
+
+RT Conference Proceedings
+ID 50210912
+A1 Gomes,Jose
+A1 Faugeras,Olivier
+YR 2000
+T1 Segmentation of the inner and outer surfaces of the human cortex: an approach based on partial differential equations
+VO 3
+SP 1764
+
+RT Journal Article
+ID 14571143
+A1 Faugeras,Olivier
+A1 Nielsen,Mads
+A1 Perona,Pietro
+A1 Romeny,Bar,ter,Haar
+A1 Sapiro,Guillermo
+YR 2000
+T1 Special Issue on the Second International Conference on Scale Space Theory in Computer Vision
+JF Journal of Visual Communication and Image Representation
+VO 11
+SP 95
+OP 95
+IS 2
+
+RT Conference Proceedings
+ID 2538827
+A1 Delamarre,Quentin
+A1 Faugeras,Olivier,D.
+YR 1999
+T1 3D Articulated Models and Multi-View Tracking with Silhouettes
+SP 716
+OP 721
+
+RT Journal Article
+ID 3903180
+A1 Faugeras,O.
+A1 Luong,Q.,T.
+A1 Papadopoulo,T.
+YR 1999
+T1 The Geometry of Multiple Images
+
+RT Book, Whole
+ID 269101
+A1 Gomes,José
+A1 Faugeras,Olivier,D.
+YR 1999
+T1 Reconciling Distance Functions and Level Sets
+SP 70
+OP 81
+
+RT Book, Whole
+ID 186921
+A1 Lorigo,Liana,M.
+A1 Faugeras,Olivier,D.
+A1 Grimson,W.,Eric,L.
+A1 Keriven,Renaud
+A1 Kikinis,Ron
+A1 Westin,Carl-fredrik
+YR 1999
+T1 Co-dimension 2 Geodesic Active Contours for MRA Segmentation
+SP 126
+OP 139
+
+RT Conference Proceedings
+ID 4051660
+A1 Zoghalmi,I.
+A1 Faugeras,O.
+A1 Deriche,R.
+YR 1999
+T1 Using Geometric Corners to Build a 2D Mosaic from a set of Images
+
+RT Journal Article
+ID 134449
+A1 Delamarre,Quentin
+A1 Faugeras,Olivier
+YR 1999
+T1 3D articulated models and multi-view tracking with physical forces
+JF Computer Vision and Image Understanding
+
+RT Journal Article
+ID 800439
+A1 Csurka,Gabriella
+A1 Faugeras,Olivier,D.
+YR 1999
+T1 Algebraic and Geometric Tools to Compute Projective and Permutation Invariants
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 21
+SP 58
+OP 65
+IS 1
+
+RT Journal Article
+ID 263163
+A1 Faugeras,O.
+A1 Clément,F.
+A1 Deriche,R.
+A1 Keriven,R.
+A1 Papadopoulo,T.
+A1 Roberts,J.
+A1 Viéville,T.
+A1 Devernay,F.
+A1 Gomes,J.
+A1 Hermosillo,G.
+A1 Kornprobst,P.
+A1 Lingrand,D.
+YR 1999
+T1 The inverse EEG and MEG problems: The adjoint state approach I: The continuous case
+
+RT Book, Whole
+ID 674186
+A1 Hermosillo,Gerardo
+A1 Faugeras,Olivier,D.
+A1 Gomes,José
+YR 1999
+T1 Unfolding the Cerebral Cortex Using Level Set Methods
+SP 58
+OP 69
+
+RT Book, Whole
+ID 607788
+A1 Anandan,P.
+A1 Faugeras,Olivier,D.
+A1 Hartley,Richard,I.
+A1 Malik,Jitendra
+A1 Mundy,Joseph,L.
+YR 1999
+T1 Summary of the Panel Session
+SP 376
+OP 382
+
+RT Journal Article
+ID 1681336
+A1 Faugeras,Olivier,D.
+A1 Keriven,Renaud
+YR 1998
+T1 Variational principles, surface evolution, PDEs, level set methods, and the stereo problem
+JF IEEE Transactions on Image Processing
+VO 7
+SP 336
+OP 344
+IS 3
+
+RT Book, Whole
+ID 219616
+A1 Faugeras,Olivier,D.
+A1 Keriven,Renaud
+YR 1998
+T1 Complete Dense Stereovision Using Level Set Methods
+SP 379
+OP 393
+
+RT Book, Whole
+ID 325295
+A1 Faugeras,Olivier,D.
+A1 Quan,Long
+A1 Sturm,Peter,F.
+YR 1998
+T1 Self-Calibration of a 1D Projective Camera and Its Application to the Self-Calibration of a 2D Projective Camera
+SP 36
+OP 52
+
+RT Conference Proceedings
+ID 2197950
+A1 Delamarre,Quentin
+A1 Faugeras,Olivier,D.
+YR 1998
+T1 Finding Pose of Hand in Video Images: A Stereo-Based Approach
+SP 585
+OP 590
+
+RT Journal Article
+ID 2128796
+A1 Faugeras,Olivier,D.
+A1 Robert,Luc
+A1 Laveau,Stéphane
+A1 Csurka,Gabriella
+A1 Zeller,Cyril
+A1 Gauclin,Cyrille
+A1 Zoghlami,Imad
+YR 1998
+T1 3-D Reconstruction of Urban Scenes from Image Sequences
+JF Computer Vision and Image Understanding
+VO 69
+SP 292
+OP 309
+IS 3
+
+RT Book, Whole
+ID 296030
+A1 Lorigo,Liana,M.
+A1 Faugeras,Olivier,D.
+A1 Grimson,W.,Eric,L.
+A1 Keriven,Renaud
+A1 Kikinis,Ron
+YR 1998
+T1 Segmentation of Bone in Clinical Knee MRI Using Texture-Based Geodesic Active Contours
+SP 1195
+OP 1204
+
+RT Conference Proceedings
+ID 419661
+A1 Faugeras,Olivier,D.
+A1 Papadopoulo,Théodore
+YR 1998
+T1 A Nonlinear Method for Estimating the Projective Geometry of Three Views
+SP 477
+OP 484
+
+RT Journal Article
+ID 3504412
+A1 Faugeras,Olivier
+YR 1998
+T1 On the evolution of simple curves of the real projective plane
+
+RT Journal Article
+ID 2396043
+A1 Grimson,W.,E.,L.
+A1 Stauffer,C.
+A1 Romano,R.
+A1 Lee,L.
+A1 Viola,P.
+A1 Faugeras,O.
+YR 1998
+T1 Forest of sensors: Using adaptive tracking to classify and monitor activities in a site
+
+RT Journal Article
+ID 863782
+A1 Csurka,Gabriella
+A1 Faugeras,Olivier,D.
+YR 1998
+T1 Computing three dimensional project invariants from a pair of images using the Grassmann-Cayley algebra
+JF Image and Vision Computing
+VO 16
+SP 3
+OP 12
+IS 1
+
+RT Book, Whole
+ID 182256
+A1 Papadopoulo,Théodore
+A1 Faugeras,Olivier,D.
+YR 1998
+T1 A New Characterization of the Trifocal Tensor
+SP 109
+OP 123
+
+RT Book, Whole
+ID 268410
+A1 Deriche,Rachid
+A1 Bouvin,Christophe
+A1 Faugeras,Olivier,D.
+YR 1998
+T1 Front Propagation and Level-Set Approach for Geodesic Active Stereovision
+SP 640
+OP 647
+
+RT Journal Article
+ID 304581
+A1 Luong,Quang-tuan
+A1 Faugeras,Olivier,D.
+YR 1998
+T1 On the Determination of Epipoles Using Cross-Ratios
+JF Computer Vision and Image Understanding
+VO 71
+SP 1
+OP 18
+IS 1
+
+RT Conference Proceedings
+ID 50109677
+A1 Faugeras,Olivier
+YR 1998
+T1 From geometry to variational calculus: theory and applications of three-dimensional vision
+
+RT Conference Proceedings
+ID 2950714
+A1 Luong,Q.,T.
+A1 Faugeras,O.
+YR 1998
+T1 Determining the Fundamental Matrix with Planes
+
+RT Journal Article
+ID 19911777
+A1 Faugeras,O.
+A1 Papadopoulo,T.
+YR 1998
+T1 Grassman-Cayley algebra for modelling systems of cameras and the algebraic equations of the manifold of trifocal tensors
+JF Philosophical Transactions of The Royal Society A: Mathematical, Physical and Engineering Sciences
+VO 356
+SP 1123
+OP 1152
+IS 1740
+
+RT Journal Article
+ID 177983
+A1 Gomes,José
+A1 Faugeras,Olivier
+YR 1998
+T1 PDE-based stereo applied to human faces capture
+
+RT Conference Proceedings
+ID 50108440
+A1 DERICHE,Rachid
+A1 BOUVIN,Christophe
+A1 FAUGERAS,Olivier
+YR 1998
+T1 Front propagation and level-set approach for geodesic active stereovision
+
+RT Journal Article
+ID 398282
+A1 Luong,Quang-tuan
+A1 Faugeras,Olivier,D.
+YR 1997
+T1 Self-Calibration of a Moving Camera from Point Correspondences and Fundamental Matrices
+JF International Journal of Computer Vision
+VO 22
+SP 261
+OP 289
+IS 3
+
+RT Conference Proceedings
+ID 50083638
+A1 Zoghlami,I.
+A1 Faugeras,O.
+A1 Deriche,R.
+YR 1997
+T1 Using geometric corners to build a 2D mosaic from a set of images
+SP 420
+OP 425
+
+RT Journal Article
+ID 1991475
+A1 Csurka,Gabriella
+A1 Zeller,Cyril
+A1 Zhang,Zhengyou
+A1 Faugeras,Olivier,D.
+YR 1997
+T1 Characterizing the Uncertainty of the Fundamental Matrix
+JF Computer Vision and Image Understanding
+VO 68
+SP 18
+OP 36
+IS 1
+
+RT Conference Proceedings
+ID 173596
+A1 Zoghlami,Imad
+A1 Faugeras,Olivier,D.
+A1 Deriche,Rachid
+YR 1997
+T1 Using geometric corners to build a 2D mosaic from a set of image
+SP 420
+OP 425
+
+RT Book, Whole
+ID 198724
+A1 Faugeras,Olivier,D.
+A1 Keriven,Renaud
+YR 1997
+T1 Level Set Methods and the Stereo Problem
+SP 272
+OP 283
+
+RT Journal Article
+ID 342360
+A1 Luong,Q.,t
+A1 Faugeras,O.,d.
+YR 1997
+T1 Camera Calibration, Scene Motion and Structure recovery from point correspondences and fundamental matrices
+
+RT Journal Article
+ID 4389527
+A1 Navab,Nassir
+A1 Faugeras,Olivier,D.
+YR 1997
+T1 The Critical Sets of Lines for Camera Displacement Estimation: A Mixed Euclidean-Projective and Constructive Approach
+JF International Journal of Computer Vision
+VO 23
+SP 17
+OP 44
+IS 1
+
+RT Journal Article
+ID 243912
+A1 Faugeras,O.
+A1 Papadopoulo,T.
+YR 1997
+T1 Grassmann-Cayley algebra for modeling systems of cameras and the algebraic equations of the manifold of trifocal tensors
+
+RT Journal Article
+ID 2159285
+A1 Rothwell,Charlie
+A1 Faugeras,Olivier,D.
+A1 Csurka,Gabriella
+YR 1997
+T1 A Comparison of Projective Reconstruction Methods for Pairs of Views
+JF Computer Vision and Image Understanding
+VO 68
+SP 37
+OP 58
+IS 1
+
+RT Journal Article
+ID 2567732
+A1 Faugeras,O.
+A1 Keriven,R.
+A1 Srairi,I.,E.
+YR 1997
+T1 A first implementation of a complete dense surface reconstruction from 2D images
+
+RT Book, Whole
+ID 366442
+A1 Csurka,Gabriella
+A1 Faugeras,Olivier,D.
+YR 1997
+T1 Algebraic and Geometric Tools to Compute Projective and Permutation Invariants
+SP 207
+OP 218
+
+RT Journal Article
+ID 53052197
+A1 Deriche,Rachid
+A1 Bouvin,Christophe
+A1 Faugeras,Olivier,D.
+YR 1997
+T1 Level-set approach for stereo
+VO 2942
+SP 150
+OP 161
+
+RT Conference Proceedings
+ID 497624
+A1 Csurka,Gabriela
+A1 Faugeras,Olivier,D.
+YR 1997
+T1 Computing Protective and Permutation Invariants of Points and Lines
+SP 66
+OP 73
+
+RT Journal Article
+ID 2021603
+A1 Faugeras,O.
+YR 1996
+T1 Three-Dimensional Computer Vision: A Geometric Viewpoint
+JF Artificial Intelligence
+
+RT Journal Article
+ID 416889
+A1 Luong,Quang-tuan
+A1 Faugeras,Olivier,D.
+YR 1996
+T1 The fundamental matrix: Theory, algorithms, and stability analysis
+JF International Journal of Computer Vision
+VO 17
+SP 43
+OP 75
+IS 1
+
+RT Journal Article
+ID 336988
+A1 Faugeras,Olivier,D.
+A1 Robert,Luc
+YR 1996
+T1 What can two images tell us about a third one?
+JF International Journal of Computer Vision
+VO 18
+SP 5
+OP 19
+IS 1
+
+RT Journal Article
+ID 324572
+A1 Zeller,Cyril
+A1 Faugeras,Olivier
+YR 1996
+T1 Camera Self-Calibration from Video Sequences: the Kruppa Equations Revisited
+
+RT Journal Article
+ID 4143553
+A1 Luong,Q.,T.
+A1 Faugeras,O.,D.
+YR 1996
+T1 The fundamen - tal matrix: Theory
+
+RT Book, Whole
+ID 293107
+A1 Laveau,Stéphane
+A1 Faugeras,Olivier,D.
+YR 1996
+T1 Oriented Projective Geometry for Computer Vision
+SP 147
+OP 156
+
+RT Conference Proceedings
+ID 219896
+A1 Devernay,Frederic
+A1 Faugeras,Olivier,D.
+YR 1996
+T1 From projective to Euclidean reconstruction
+SP 264
+OP 269
+
+RT Journal Article
+ID 2375904
+A1 Viéville,Thierry
+A1 Faugeras,Olivier,D.
+A1 Luong,Quang-tuan
+YR 1996
+T1 Motion of points and lines in the uncalibrated case
+JF International Journal of Computer Vision
+VO 17
+SP 7
+OP 41
+IS 1
+
+RT Journal Article
+ID 2159754
+A1 Viéville,Thierry
+A1 Faugeras,Olivier,D.
+YR 1996
+T1 The First Order Expansion of Motion Equations in the Uncalibrated Case
+JF Computer Vision and Image Understanding
+VO 64
+SP 128
+OP 146
+IS 1
+
+RT Journal Article
+ID 2021246
+A1 Deriche,R.
+A1 Bouvin,S.
+A1 Faugeras,O.
+YR 1996
+T1 A level-set approach for stereo
+
+RT Book, Whole
+ID 509747
+A1 Papadopoulo,Théodore
+A1 Faugeras,Olivier,D.
+YR 1996
+T1 Computing Structure and Motion of General 3D Curves from Monocular Sequences of Perspective Images
+SP 696
+OP 708
+
+RT Conference Proceedings
+ID 2007765
+A1 Leymarie,F.
+A1 Fortelle,A.,de,la
+A1 Koenderink,J.,J.
+A1 Kappers,A.,M.,L.
+A1 Stavridi,M.
+A1 Ginneken,B.,van
+A1 Muller,S.
+A1 Krake,S.
+A1 Faugeras,O.
+A1 Robert,L.
+A1 Gauclin,C.
+A1 Laveau,S.
+A1 Zeller,C.
+YR 1996
+T1 REALISE: reconstruction of REALity from Image SEquences
+
+RT Journal Article
+ID 4013288
+A1 Zoghlami,I.
+A1 Faugeras,O.
+A1 Deriche,R.
+YR 1996
+T1 Traitement des occlu-sions pour la modification d''objet plan dans une sequence d''image
+
+RT Journal Article
+ID 372997
+A1 Zhang,Zhengyou
+A1 Deriche,Rachid
+A1 Faugeras,Olivier,D.
+A1 Luong,Quang-tuan
+YR 1995
+T1 A Robust Technique for Matching two Uncalibrated Images Through the Recovery of the Unknown Epipolar Geometry
+JF Artificial Intelligence
+VO 78
+SP 87
+OP 119
+IS 1-2
+
+RT Conference Proceedings
+ID 205919
+A1 Faugeras,Olivier,D.
+A1 Mourrain,Bernard
+YR 1995
+T1 On the Geometry and Algebra of the Point and Line Correspondences Between N Images
+SP 951
+OP 956
+
+RT Journal Article
+ID 3804617
+A1 Faugeras,Olivier
+YR 1995
+T1 Stratification of three-dimensional vision: projective, affine, and metric representations
+JF Journal of The Optical Society of America A-optics Image Science and Vision
+VO 12
+SP 465
+IS 3
+
+RT Journal Article
+ID 355293
+A1 Faugeras,Olivier
+YR 1995
+T1 Stratification of 3-D vision: projective, affine, and metric representations
+
+RT Journal Article
+ID 2013982
+A1 Deriche,R.
+A1 Faugeras,O.
+YR 1995
+T1 Les edp en traitement des images et vision par ordinateur
+
+RT Conference Proceedings
+ID 360728
+A1 Rothwell,Charlie
+A1 Csurka,Gabriela
+A1 Faugeras,Olivier,D.
+YR 1995
+T1 A Comparison of Projective Reconstruction Methods for Pairs of Views
+SP 932
+OP 937
+
+RT Journal Article
+ID 236096
+A1 Faugeras,Olivier
+A1 Laveau,Stephane
+A1 Robert,Luc
+A1 Csurka,Gabriella
+A1 Zeller,Cyril
+YR 1995
+T1 3-D Reconstruction of Urban Scenes from Sequences of Images
+JF Computer Vision and Image Understanding
+
+RT Journal Article
+ID 251195
+A1 Robert,Luc
+A1 Zeller,Cyril
+A1 Faugeras,Olivier
+A1 Hebert,Martial
+YR 1995
+T1 Applications of non-metric vision to some visually guided robotics tasks
+
+RT Journal Article
+ID 863933
+A1 Robert,Luc
+A1 Faugeras,Olivier,D.
+YR 1995
+T1 Relative 3D positioning and 3D convex hull computation from a weakly calibrated stereo pair
+JF Image and Vision Computing
+VO 13
+SP 189
+OP 196
+IS 3
+
+RT Journal Article
+ID 2000661
+A1 Vie'ville,T.
+A1 Luong,Q.
+A1 Faugeras,O.
+YR 1995
+T1 Motion of points and lines in the uncalibrated case
+JF International Journal of Computer Vision
+
+RT Conference Proceedings
+ID 523990
+A1 Viéville,Thierry
+A1 Faugeras,Olivier,D.
+YR 1995
+T1 Motion Analysis with a Camera with Unknown, and Possibly Varying Intrinsic Parameters
+SP 750
+OP 756
+
+RT Journal Article
+ID 2008494
+A1 Seales,W.,Brent
+A1 Faugeras,Olivier,D.
+YR 1995
+T1 Building Three-Dimensional Object Models from Image Sequences
+JF Computer Vision and Image Understanding
+VO 61
+SP 308
+OP 324
+IS 3
+
+RT Conference Proceedings
+ID 265353
+A1 Faugeras,O.
+A1 Mourrain,B.
+YR 1995
+T1 About the correspondences of points between N images
+
+RT Journal Article
+ID 316752
+A1 Zhang,Zhengyou
+A1 Faugeras,Olivier
+A1 Deriche,Rachid
+YR 1995
+T1 Calibrating A Binocular Stereo Through Projective Reconstruction Using Both A Calibration Object And The Environment
+
+RT Journal Article
+ID 242886
+A1 Papadopoulo,Theo
+A1 Faugeras,Olivier
+YR 1995
+T1 Computing Structure and Motion of General 3D Rigid Curves from Monocular Sequences of Perspective Images
+
+RT Conference Proceedings
+ID 232219
+A1 Faugeras,Olivier
+A1 Keriven,Renaud
+YR 1995
+T1 Some recent results on the projective evolution of 2-D curves
+
+RT Journal Article
+ID 172243
+A1 Keriven,Renaud
+A1 Faugeras,Olivier
+YR 1995
+T1 Scale-Spaces and Affine Curvature
+
+RT Journal Article
+ID 365828
+A1 Rothwell,Charlie
+A1 Faugeras,Olivier
+YR 1995
+T1 Different Paths Towards Projective Reconstruction
+
+RT Journal Article
+ID 3416822
+A1 Eville,T.,Vi'
+A1 Faugeras,O.,D.
+YR 1995
+T1 Motion analysis with a camera with unknown and possibly varying pa-rameters
+
+RT Journal Article
+ID 54528912
+A1 Zeller,Cyril
+A1 Faugeras,Olivier,D.
+YR 1995
+T1 Projective, affine, and metric measurements from video sequences
+VO 2567
+SP 103
+OP 114
+
+RT Journal Article
+ID 55525476
+A1 Devernay,Frederic
+A1 Faugeras,Olivier,D.
+YR 1995
+T1 Automatic calibration and removal of distortion from scenes of structured environments
+VO 2567
+SP 62
+OP 72
+
+RT Conference Proceedings
+ID 309373
+A1 Laveau,Stéphane
+A1 Faugeras,Olivier
+YR 1994
+T1 3-D Scene Representation as a Collection of Images and Fundamental Matrices
+
+RT Book, Whole
+ID 86826
+A1 Deriche,Rachid
+A1 Zhang,Zhengyou
+A1 Luong,Quang-tuan
+A1 Faugeras,Olivier,D.
+YR 1994
+T1 Robust Recovery of the Epipolar Geometry for an Uncalibrated Stereo Rig
+SP 567
+OP 576
+
+RT Conference Proceedings
+ID 393733
+A1 Devernay,F.
+A1 Faugeras,O.,D.
+YR 1994
+T1 Computing differential properties of 3-D shapes from stereoscopic images without 3-D models
+SP 208
+OP 213
+
+RT Conference Proceedings
+ID 1999654
+A1 Laveau,S.
+A1 Faugeras,O.,D.
+YR 1994
+T1 3-D scene representation as a collection of images
+
+RT Conference Proceedings
+ID 226600
+A1 Zeller,Cyril
+A1 Faugeras,Olivier
+YR 1994
+T1 Applications of non-metric vision to some visual guided tasks
+
+RT Book, Whole
+ID 509522
+A1 Luong,Quang-tuan
+A1 Faugeras,Olivier,D.
+YR 1994
+T1 A Stability Analysis of the Fundamental Matrix
+SP 577
+OP 588
+
+RT Conference Proceedings
+ID 389782
+A1 Luong,Q.-T.
+A1 Faugeras,O.,D.
+YR 1994
+T1 An optimization framework for efficient self-calibration and motion determination
+
+RT Conference Proceedings
+ID 2379875
+A1 Faugeras,Olivier
+A1 Laveau,St'ephane
+YR 1994
+T1 Representing three-dimensional data as a collection of images and fundamental matrices for image synthesis
+
+RT Conference Proceedings
+ID 50002843
+A1 Zhang,Z.
+A1 Luong,Q.-T.
+A1 Faugeras,O.
+YR 1994
+T1 Motion of an uncalibrated stereo rig: self-calibration and metric reconstruction
+
+RT Journal Article
+ID 4389508
+A1 Viéville,Thierry
+A1 Faugeras,Olivier,D.
+YR 1994
+T1 Robust and fast computation of edge characteristics in image sequences
+JF International Journal of Computer Vision
+VO 13
+SP 153
+OP 179
+IS 2
+
+RT Conference Proceedings
+ID 50002781
+A1 Luong,Q.-T.
+A1 Faugeras,O.,D.
+YR 1994
+T1 On the direct determination of epipoles: a case study in algebraic methods for geometric problems
+
+RT Journal Article
+ID 50009468
+A1 Seales,W.,Brent
+A1 Faugeras,Olivier,D.
+YR 1994
+T1 Building three-dimensional CAD/CAM models from image sequences
+
+RT Book, Whole
+ID 265415
+A1 Papadopoulo,Théodore
+A1 Faugeras,Olivier,D.
+YR 1994
+T1 Motion Field of Curves: Applications
+SP 71
+OP 82
+
+RT Conference Proceedings
+ID 50002771
+A1 Papadopoulo,T.
+A1 Faugeras,O.
+YR 1994
+T1 Estimation of the second order spatio-temporal derivatives of deforming image curves
+
+RT Journal Article
+ID 3990615
+A1 Olivier,Faugeras
+YR 1993
+T1 Three Dimensional Computer Vision-A Geometrical Viewpoint
+
+RT Journal Article
+ID 2134883
+A1 Faugeras,O.
+YR 1993
+T1 Three-dimensionnal computer vision: a geometric viewpoint
+
+RT Journal Article
+ID 1264967
+A1 Faugeras,Olivier
+YR 1993
+T1 Three-dimensional computer vision
+
+RT Journal Article
+ID 1256063
+A1 Faugeras,O.
+YR 1993
+T1 Three-dimensional computer vision: a geometric viewpoint
+
+RT Conference Proceedings
+ID 1984871
+A1 Luong,Q.,T.
+A1 Deriche,R.
+A1 Faugeras,O.,D.
+A1 Papadopoulo,T.
+YR 1993
+T1 On determining the fundamental matrix: Analysis of different methods and experimental results
+
+RT Journal Article
+ID 2031373
+A1 Faugeras,O.
+A1 Hotz,B.
+A1 Mathieu,H.
+A1 Viville,T.
+A1 Zhang,Z.
+A1 Fua,P.
+A1 Thron,E.
+A1 Moll,L.
+A1 Berry,G.
+A1 Vuillemin,J.
+A1 Bertin,P.
+A1 Proy,C.
+YR 1993
+T1 Real time correlation-based stereo: algorithm, implementations and application
+
+RT Conference Proceedings
+ID 302053
+A1 Luong,Q.-T.
+A1 Faugeras,O.,D.
+YR 1993
+T1 Determining the fundamental matrix with planes: instability and new algorithms
+SP 489
+OP 494
+
+RT Journal Article
+ID 325993
+A1 Zhang,Zhengyou
+A1 Luong,Quang-tuan
+A1 Faugeras,Olivier
+YR 1993
+T1 Motion of an Uncalibrated Stereo Rig: Self-Calibration and Metric Reconstruction
+JF IEEE Transactions on Robotics and Automation
+
+RT Conference Proceedings
+ID 49962997
+A1 Robert,L.
+A1 Faugeras,O.,D.
+YR 1993
+T1 Relative 3D positioning and 3D convex hull computation from a weakly calibrated stereo pair
+
+RT Journal Article
+ID 406822
+A1 Faugeras,Olivier,D.
+A1 Papadopoulo,Théodore
+YR 1993
+T1 A theory of the motion fields of curves
+JF International Journal of Computer Vision
+VO 10
+SP 125
+OP 156
+IS 2
+
+RT Journal Article
+ID 3486698
+A1 Luong,Q.,T.
+A1 Deriche,R.
+A1 Faugeras,O.,D.
+A1 Papadopoulo,T.
+YR 1993
+T1 On determining the fundamental matrix
+
+RT Conference Proceedings
+ID 49970016
+A1 ViCvillel,T.
+A1 Romann,F.
+A1 Hotz,B.
+A1 Mathieu,H.
+A1 Buffa,M.
+A1 Robert,L.
+A1 Facao,P.,E.,D.,S.
+A1 Faugeras,O.,D.
+A1 Audren,J.,T.
+YR 1993
+T1 Autonomous navigation of a mobile robot using inertial and visual cues
+
+RT Conference Proceedings
+ID 492727
+A1 Faugeras,Olivier,D.
+YR 1993
+T1 Cartan's Moving Frame Method and Its Application to the Geometry and Evolution of Curves in the Euclidean, Affine and Projective Planes
+SP 11
+OP 46
+
+RT Conference Proceedings
+ID 3412585
+A1 Navab,Nassir
+A1 Faugeras,Olivier
+YR 1993
+T1 Monocular pose determination from lines: critical sets and maximum number of solutions
+SP 254
+OP 260
+
+RT Conference Proceedings
+ID 49962981
+A1 Navab,Nassir
+A1 Faugeras,Olivier,D.
+A1 Vieville,T.
+YR 1993
+T1 The critical sets of lines for camera displacement estimation: A mixed Euclidean-projective and constructive approach
+
+RT Journal Article
+ID 3518645
+A1 Proy,C.
+A1 Hotz,B.
+A1 Faugeras,O.
+A1 Gernesson,P.
+A1 Berhod,M.
+YR 1993
+T1 Onboard vision system for a mobile planetary exploration robot
+
+RT Journal Article
+ID 4389470
+A1 Faugeras,Olivier,D.
+YR 1993
+T1 Computer vision research at INRIA
+JF International Journal of Computer Vision
+VO 10
+SP 91
+OP 99
+IS 2
+
+RT Journal Article
+ID 244704
+A1 Buffa,Michel
+A1 Faugeras,Olivier
+YR 1993
+T1 A Stereovision-Based Navigation System for a Mobile Robot
+
+RT Journal Article
+ID 3123437
+A1 Faugeras,O.
+YR 1993
+T1 From geometry to variational calculus: Theory and applications of three-dimensional vision
+
+RT Journal Article
+ID 3990620
+A1 Faugeras,O.
+YR 1993
+T1 Three-Dimensional Computer Vision-Chapters: 2
+
+RT Book, Whole
+ID 492735
+A1 Papadopoulo,Théodore
+A1 Faugeras,Olivier,D.
+YR 1993
+T1 Applications of Motion Field of Curves
+SP 277
+OP 296
+
+RT Journal Article
+ID 55534768
+A1 Seales,W.,Brent
+A1 Faugeras,Olivier,D.
+YR 1993
+T1 Global surface reconstruction from many views of the extremal boundary
+VO 2059
+SP 358
+OP 367
+
+RT Book, Whole
+ID 509551
+A1 Faugeras,Olivier,D.
+YR 1992
+T1 What can be seen in three dimensions with an uncalibrated stereo rig
+SP 563
+OP 578
+
+RT Book, Whole
+ID 361156
+A1 Faugeras,Olivier,D.
+A1 Luong,Quang-tuan
+A1 Maybank,Stephen,J.
+YR 1992
+T1 Camera Self-Calibration: Theory and Experiments
+SP 321
+OP 334
+
+RT Journal Article
+ID 1972013
+A1 Maybank,Stephen,J.
+A1 Faugeras,Olivier,D.
+YR 1992
+T1 A theory of self-calibration of a moving camera
+JF International Journal of Computer Vision
+VO 8
+SP 123
+OP 151
+IS 2
+
+RT Journal Article
+ID 2069783
+A1 Zhang,Zhengyou
+A1 Faugeras,Olivier
+YR 1992
+T1 A 3D World Model Builder with a Mobile Robot
+JF International Journal of Robotic Research
+VO 11
+SP 269
+OP 285
+IS 4
+
+RT Journal Article
+ID 2008698
+A1 Zhang,Z.
+A1 Faugeras,O.
+YR 1992
+T1 3D Dynamic Scene Analysis
+
+RT Journal Article
+ID 800966
+A1 Vaillant,Régis
+A1 Faugeras,Olivier,D.
+YR 1992
+T1 Using Extremal Boundaries for 3-D Object Modeling
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 14
+SP 157
+OP 173
+IS 2
+
+RT Journal Article
+ID 2110824
+A1 Zhang,Zhengyou
+A1 Faugeras,Olivier,D.
+YR 1992
+T1 Three-dimensional motion computation and object segmentation in a long sequence of stereo frames
+JF International Journal of Computer Vision
+VO 7
+SP 211
+OP 241
+IS 3
+
+RT Journal Article
+ID 800963
+A1 Zhang,Zhengyou
+A1 Faugeras,Olivier,D.
+YR 1992
+T1 Estimation of Displacements from Two 3-D Frames Obtained From Stereo
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 14
+SP 1141
+OP 1156
+IS 12
+
+RT Conference Proceedings
+ID 1336307
+A1 Monga,Olivier
+A1 Benayoun,Serge
+A1 Faugeras,Olivier,D.
+YR 1992
+T1 From partial derivatives of 3-D density images to ridge lines
+VO 1808
+SP 354
+OP 359
+
+RT Journal Article
+ID 2016150
+A1 Zhang,Z.
+A1 Faugeras,O.
+YR 1992
+T1 3D Dynamic Scene Analysis: a stereo based approach
+
+RT Journal Article
+ID 4087466
+A1 Faugeras,O
+YR 1992
+T1 What can be seen in three dimensions with an unclibrated stereo rig? In Computer Vision ECCV铆92
+
+RT Book, Whole
+ID 509428
+A1 Viéville,Thierry
+A1 Faugeras,Olivier,D.
+YR 1992
+T1 Robust and fast computation of unbiased intensity derivatives in images
+SP 203
+OP 211
+
+RT Conference Proceedings
+ID 508500
+A1 Robert,Luc
+A1 Deriche,Rachid
+A1 Faugeras,Olivier,D.
+YR 1992
+T1 Dense Depth Recovery From Stereo Images
+SP 821
+OP 823
+
+RT Conference Proceedings
+ID 49935681
+A1 Luong,Q.-T.
+A1 Faugeras,O.,D.
+YR 1992
+T1 Self-calibration of a camera using multiple images
+
+RT Journal Article
+ID 3633752
+A1 Faugeras,O.,D.
+A1 Fua,P.
+A1 Hotz,B.
+A1 Ma,R.
+A1 Robert,L.
+A1 Thonnat,M.
+A1 Zhang,Z.
+YR 1992
+T1 Quantitative and Qualitative Comparison of some Area and Feature-based Stereo Algorithms
+
+RT Journal Article
+ID 27384105
+A1 FAUGERAS,O
+A1 MUNDY,J
+A1 AHUJA,N
+A1 DYER,C
+A1 PENTLAND,A
+A1 JAIN,R
+A1 IKEUCHI,K
+A1 BOWYER,K
+YR 1992
+T1 Why aspect graphs are not (yet) practical for computer vision
+JF Cvgip: Image Understanding
+VO 55
+SP 212
+OP 218
+IS 2
+
+RT Journal Article
+ID 3724123
+A1 Luong,Q.,T.
+A1 Faugeras,O.,D.
+YR 1992
+T1 Self-calibration of a camera using multiples images
+
+RT Journal Article
+ID 3124181
+A1 Deriche,R.
+A1 Vaillant,R.
+A1 Faugeras,O.
+YR 1992
+T1 From noisy edge points to 3D reconstruction of a scene: A robust approach and its uncertainty analys
+
+RT Conference Proceedings
+ID 4055400
+A1 Monga,Olivier
+A1 Benayoun,Serge
+A1 Faugeras,Olivier
+YR 1992
+T1 Using third order deriv-atives to extract ridge lines in 3D images
+
+RT Journal Article
+ID 850745
+A1 Faugeras,Olivier,D.
+A1 Deriche,Rachid
+A1 Mathieu,Hervé
+A1 Ayache,Nicholas
+A1 Randall,Gregory
+YR 1992
+T1 The Depth and Motion Analysis Machine
+JF International Journal of Pattern Recognition and Artificial Intelligence
+VO 6
+SP 353
+OP 385
+IS 2&3
+
+RT Book, Whole
+ID 509757
+A1 Zhang,Zhengyou
+A1 Faugeras,Olivier,D.
+YR 1992
+T1 Finding Clusters and Planes from 3D Line Segments with Application to 3D Motion Determination
+SP 227
+OP 236
+
+RT Journal Article
+ID 3656270
+A1 Faugeras,O.,D.
+A1 Herbert,M.
+YR 1992
+T1 Recognition and locating of 3-d objects
+JF International Journal of Robotic Research
+
+RT Conference Proceedings
+ID 49934509
+A1 Boissier,L.
+A1 Hotz,B.
+A1 Proy,C.
+A1 Faugeras,O.
+A1 Fua,P.
+YR 1992
+T1 Autonomous planetary rover (VAP): on-board perception system concept and stereovision by correlation approach
+
+RT Conference Proceedings
+ID 507928
+A1 Luong,Quang-tuan
+A1 Faugeras,Olivier,D.
+YR 1992
+T1 Active Head Movements Help Solve Stereo Correspondence
+SP 800
+OP 802
+
+RT Conference Proceedings
+ID 4346984
+A1 Buffa,Michel
+A1 Faugeras,Olivier,D.
+A1 Zhang,Zhengyou
+YR 1992
+T1 A Complete Navigation System for a Mobile Robot, Using Real-Time Stereovision and the Delaunay Triangulation
+SP 191
+OP 194
+
+RT Journal Article
+ID 2018510
+A1 Seales,W.,B.
+A1 Faugeras,O.,D.
+YR 1992
+T1 Global surface reconstruction from the extremal boundary
+
+RT Journal Article
+ID 864194
+A1 Zhang,Zhengyou
+A1 Faugeras,Olivier,D.
+YR 1991
+T1 Determining motion from 3D line segment matches: a comparative study
+JF Image and Vision Computing
+VO 9
+SP 10
+OP 19
+IS 1
+
+RT Conference Proceedings
+ID 2018735
+A1 Robert,Luc
+A1 Faugeras,Olivier,D.
+YR 1991
+T1 Curve-based stereo: figural continuity and curvature
+SP 57
+OP 62
+
+RT Journal Article
+ID 49905017
+A1 Faugeras,O.
+A1 Mundy,J.
+A1 Ahuja,N.
+A1 Dyer,C.
+A1 Pentland,A.
+A1 Jain,R.
+A1 Ikeuchi,K.
+A1 Bowyer,K.
+YR 1991
+T1 Why aspect graphs are not (yet) practical for computer vision
+
+RT Journal Article
+ID 3651184
+A1 Eville,T,Vi'
+A1 Faugeras,O,D
+YR 1991
+T1 Real time gaze control: architecture for sensing behaviors
+
+RT Conference Proceedings
+ID 49917972
+A1 Zhang,Zhengyou
+A1 Faugeras,Olivier,D.
+YR 1991
+T1 Tracking 3D line segments: new developments
+
+RT Journal Article
+ID 56301170
+A1 Faugeras,Olivier,D.
+A1 Navab,Nassir
+A1 Deriche,Rachid
+YR 1991
+T1 On the information contained in the motion field of lines and the cooperation between motion and stereo
+
+RT Journal Article
+ID 53864422
+A1 Zhang,Zhengyou
+A1 Faugeras,Olivier,D.
+YR 1991
+T1 Estimation of displacements from two 3D frames obtained from stereo
+
+RT Journal Article
+ID 54482491
+A1 Zhang,Zhengyou
+A1 Faugeras,Olivier,D.
+YR 1991
+T1 Three-dimensional motion computation and object segmentation in a long sequence of stereo frames
+
+RT Journal Article
+ID 2084318
+A1 Faugeras,Olivier,D.
+A1 Maybank,Stephen,J.
+YR 1990
+T1 Motion from point matches: Multiplicity of solutions
+JF International Journal of Computer Vision
+VO 4
+SP 225
+OP 246
+IS 3
+
+RT Book, Whole
+ID 509678
+A1 Deriche,Rachid
+A1 Faugeras,Olivier,D.
+YR 1990
+T1 Tracking Line Segments
+SP 259
+OP 268
+
+RT Journal Article
+ID 800597
+A1 Liu,Yuncai
+A1 Huang,Thomas,S.
+A1 Faugeras,Olivier,D.
+YR 1990
+T1 Determination of Camera Location from 2-D to 3-D Line and Point Correspondences
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 12
+SP 28
+OP 37
+IS 1
+
+RT Journal Article
+ID 697459
+A1 Faugeras,Olivier,D.
+A1 Bras-mehlman,E.,Le
+A1 Boissonnat,Jean-daniel
+YR 1990
+T1 Representing Stereo Data with the Delaunay Triangulation
+JF Artificial Intelligence
+VO 44
+SP 41
+OP 87
+IS 1-2
+
+RT Conference Proceedings
+ID 2031303
+A1 Vieville,T.
+A1 Faugeras,Olivier
+YR 1990
+T1 Feed-forward recovery of motion and structure from a sequence of 2D-lines matches
+
+RT Conference Proceedings
+ID 2386209
+A1 Deriche,Rachid
+A1 Faugeras,Olivier
+YR 1990
+T1 2-D curve matching using high curvature points: application to stereo vision
+
+RT Book, Whole
+ID 509550
+A1 Faugeras,Olivier,D.
+YR 1990
+T1 On the motion of 3D curves and its relationship to optical flow
+SP 107
+OP 117
+
+RT Conference Proceedings
+ID 49892857
+A1 Navab,Nassir
+A1 Deriche,Rachid
+A1 Faugeras,Olivier,D.
+YR 1990
+T1 Recovering 3D motion and structure from stereo and 2D token tracking cooperation
+
+RT Journal Article
+ID 2130980
+A1 Liu,Y.
+A1 Huang,T.,S.
+A1 Faugeras,O.,D.
+YR 1990
+T1 Determination of camera location from 2D to 3D line and point
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+RT Conference Proceedings
+ID 49892926
+A1 Zhang,Zhengyou
+A1 Faugeras,Olivier
+YR 1990
+T1 Building a 3D world model with a mobile robot: 3D line segment representation and integration
+
+RT Journal Article
+ID 18058338
+A1 Faugeras,Olivier,D.
+A1 Navab,Nassir
+A1 Deriche,Rachid
+YR 1990
+T1 Information contained in the motion field of lines and the cooperation between motion and stereo
+JF International Journal of Imaging Systems and Technology
+VO 2
+SP 356
+OP 370
+IS 4
+
+RT Conference Proceedings
+ID 508366
+A1 Zhang,Zhengyou
+A1 Faugeras,Olivier,D.
+YR 1990
+T1 Tracking and Motion Estimation in a Sequence of Stereo Frames
+SP 747
+OP 752
+
+RT Conference Proceedings
+ID 49892865
+A1 Zhang,Zhengyou
+A1 Faugeras,Olivier,D.
+YR 1990
+T1 Tracking and grouping 3D line segments
+
+RT Journal Article
+ID 14502968
+A1 DERICHE,R
+A1 FAUGERAS,O
+YR 1990
+T1 Tracking line segments
+JF Image and Vision Computing
+VO 8
+SP 261
+OP 270
+IS 4
+
+RT Conference Proceedings
+ID 13264064
+A1 Faugeras,Olivier,D.
+YR 1990
+T1 Computer Vision - ECCV'90, First European Conference on Computer Vision, Antibes, France, April 23-27, 1990, Proceedings
+
+RT Journal Article
+ID 52363064
+A1 Zhang,Z.
+A1 Faugeras,O.,D.
+YR 1990
+T1 Motion analysis of two stereo views and its applications
+VO 1395
+SP 638
+
+RT Journal Article
+ID 1663353
+A1 AYACHE,NICHOLAS
+A1 FAUGERAS,OLIVIER,D.
+YR 1989
+T1 Maintaining representations of the environment of a mobile robot
+JF IEEE Transactions on Robotics and Automation
+VO 5
+SP 804
+OP 819
+IS 6
+
+RT Journal Article
+ID 801040
+A1 Huang,Thomas,S.
+A1 Faugeras,Olivier,D.
+YR 1989
+T1 Some Properties of the E Matrix in Two-View Motion Estimation
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 11
+SP 1310
+OP 1312
+IS 12
+
+RT Conference Proceedings
+ID 49861376
+A1 Faugeras,Olivier,D.
+A1 Maybank,Steve
+YR 1989
+T1 Motion from point matches: multiplicity of solutions
+
+RT Conference Proceedings
+ID 2869806
+A1 Vieville,T.
+A1 Faugeras,O.
+YR 1989
+T1 Computation of inertial information on a robot
+
+RT Conference Proceedings
+ID 49861383
+A1 Zhang,Zhengyou
+A1 Faugeras,Olivier,D.
+YR 1989
+T1 Calibration of a mobile robot with application to visual navigation
+
+RT Conference Proceedings
+ID 49863538
+A1 Vaillant,R.
+A1 Faugeras,O.,D.
+YR 1989
+T1 Using occluding contours for recovering shape properties of objects
+
+RT Journal Article
+ID 2179301
+A1 Mitiche,Amar
+A1 Faugeras,Olivier,D.
+A1 Aggarwal,Jake,K.
+YR 1989
+T1 Counting straight lines
+JF Graphical Models /graphical Models and Image Processing /computer Vision, Graphics, and Image Processing
+VO 47
+SP 353
+OP 360
+IS 3
+
+RT Conference Proceedings
+ID 49880270
+A1 VAILLANT,Rkgis
+A1 DERICHE,Rachid
+A1 FAUGERAS,Olivier
+YR 1989
+T1 3D vision on the parallel machine CAPITAN
+
+RT Journal Article
+ID 2017069
+A1 Faugeras,O.,D.
+A1 Toscani,G.
+YR 1989
+T1 The Calibration Problem for Stereoscopic Vision
+
+RT Journal Article
+ID 2567053
+A1 Faugeras,O.,D.
+YR 1989
+T1 A FEW STEPS TOWARDS ARTI CIAL 3D VISION
+
+RT Journal Article
+ID 61400016
+A1 Vieville,T.
+A1 Faugeras,O.
+YR 1989
+T1 Cooperation of the inertial and visual systems
+
+RT Book, Whole
+ID 654870
+A1 Faugeras,Olivier,D.
+A1 Maybank,Stephen,J.
+YR 1988
+T1 Motion from point matches: multiplicity of solutions
+SP 172
+OP 193
+
+RT Journal Article
+ID 2017451
+A1 Faugeras,O.,D.
+A1 Lustman,F.
+YR 1988
+T1 Motion and structure from motion in a piecewise planar environment
+JF International Journal of Pattern Recognition and Artificial Intelligence
+
+RT Journal Article
+ID 862412
+A1 Ayache,Nicholas
+A1 Faugeras,Olivier,D.
+YR 1988
+T1 Building, Registrating, and Fusing Noisy Visual Maps
+JF International Journal of Robotic Research
+VO 7
+SP 45
+OP 65
+IS 6
+
+RT Conference Proceedings
+ID 2365515
+A1 Zhang,Zhengyou
+A1 Faugeras,Olivier,D.
+A1 Ayache,N.
+YR 1988
+T1 Analysis Of A Sequence Of Stereo Scenes Containing Multiple Moving Objects Using Rigidity Constraints
+
+RT Conference Proceedings
+ID 49846822
+A1 Liu,Yuncai
+A1 Huang,Thomas,S.
+A1 Faugeras,O.,D.
+YR 1988
+T1 Determination of camera location from 2D to 3D line and point correspondences
+SP 82
+OP 88
+
+RT Conference Proceedings
+ID 49847366
+A1 Faugeras,O.,D.
+A1 Ayache,Nicholas
+A1 Zhang,Z.
+YR 1988
+T1 A preliminary investigation of the problem of determining ego- and object motions from stereo
+
+RT Conference Proceedings
+ID 3678177
+A1 Boissonnat,J.,D.
+A1 Faugeras,O.,D.
+A1 Bras-Mehlman,E.,Le
+YR 1988
+T1 Representing stereo data with the Delaunay triangulation
+
+RT Conference Proceedings
+ID 49849053
+A1 Bras-Mehlman,E.,Le
+A1 Schmitt,M.
+A1 Faugeras,O.,D.
+A1 Boissonnat,J.,D.
+YR 1988
+T1 How the Delaunay Triangulation Can Be used For Representing Stereo Data
+
+RT Conference Proceedings
+ID 49847472
+A1 Mitiche,A.
+A1 Faugeras,O.
+A1 Aggarwal,J.
+YR 1988
+T1 Counting the line
+
+RT Conference Proceedings
+ID 49849025
+A1 Ayache,N.
+A1 Faugeras,O.,D.
+A1 Lustman,F.
+A1 Zhang,Z.
+YR 1988
+T1 Visual Navigation of a Mobile Robot: Recent Steps
+
+RT Journal Article
+ID 53136834
+A1 Henderson,Thomas,C.
+A1 Faugeras,Olivier,D.
+YR 1988
+T1 High-level multisensor integration
+VO 1003
+SP 307
+
+RT Journal Article
+ID 1997292
+A1 Faugeras,Olivier
+A1 Toscani,Giorgio
+YR 1987
+T1 Camera Calibration for 3D Computer Vision
+
+RT Conference Proceedings
+ID 2016516
+A1 Faugeras,O,D
+A1 Lustman,F.
+A1 Toscani,G.
+YR 1987
+T1 Motion and Structure from Motion from Point and Line Matches
+
+RT Conference Proceedings
+ID 3351212
+A1 Ayache,N.
+A1 Faugeras,O.
+YR 1987
+T1 Maintaining Representation of the Environment of a Mobile Robot
+
+RT Journal Article
+ID 2365385
+A1 Ponce,J.
+A1 Faugeras,O.
+YR 1987
+T1 An object centered hierarchical representation for 3d objects: the prism tree
+
+RT Conference Proceedings
+ID 615986
+A1 Ayache,Nicholas
+A1 Faugeras,Olivier,D.
+YR 1987
+T1 Building a Consistent 3D Representation of a Mobile Robot Environment by Combining Multiple Stereo Views
+SP 808
+OP 810
+
+RT Journal Article
+ID 3809542
+A1 Toscani,G.
+A1 Faugeras,O.
+YR 1987
+T1 Structure from motion using the reconstruction reprojection technique
+
+RT Conference Proceedings
+ID 49844060
+A1 Toscani,G.
+A1 Faugeras,O.
+YR 1987
+T1 Structure and motion from two noisy perspective views
+
+RT Conference Proceedings
+ID 615122
+A1 Faugeras,Olivier,D.
+YR 1987
+T1 Artificial 3D Vision
+SP 1169
+OP 1171
+
+RT Journal Article
+ID 16202328
+A1 PONCE,J
+A1 FAUGERAS,O
+YR 1987
+T1 An object centered hierarchical representation for 3D objects: The prism tree
+JF Graphical Models /graphical Models and Image Processing /computer Vision, Graphics, and Image Processing
+VO 38
+SP 1
+OP 28
+IS 1
+
+RT Journal Article
+ID 61399842
+A1 Ayache,N.
+A1 Faugeras,O.
+YR 1987
+T1 Building, Registration and Fusing Noisy Visual Maps
+
+RT Journal Article
+ID 2383703
+A1 Faugeras,O.,D.
+A1 Hebert,M.
+YR 1986
+T1 The Representation, Recognition, and Locating of 3-D Objects
+JF International Journal of Robotic Research
+VO 5
+SP 27
+OP 52
+IS 3
+
+RT Conference Proceedings
+ID 1984841
+A1 Faugeras,O.
+A1 Toscani,G.
+YR 1986
+T1 The Calibration Problem for Stereo
+
+RT Journal Article
+ID 1913980
+A1 Ayache,Nicholas
+A1 Faugeras,Olivier,D.
+YR 1986
+T1 HYPER: A New Approach for the Recognition and Positioning of Two-Dimensional Objects
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 8
+SP 44
+OP 54
+IS 1
+
+RT Conference Proceedings
+ID 1969543
+A1 Faugeras,O.,D.
+A1 Ayache,N.
+A1 Faverjon,B.
+YR 1986
+T1 Building visual maps by combining noisy stereo measurements
+
+RT Journal Article
+ID 2126500
+A1 Faugeras,O.,D.
+A1 Lustman,F.
+YR 1986
+T1 Let us suppose that the world is piecewise planar
+JF International Journal of Robotic Research
+
+RT Journal Article
+ID 3656269
+A1 Faugeras,O.
+A1 Hebert,M.
+YR 1986
+T1 Recognition and locating of 3-D objects
+JF International Journal of Robotic Research
+
+RT Conference Proceedings
+ID 49835621
+A1 Faugeras,O.
+A1 Ayache,N.
+A1 Faverjon,B.
+YR 1985
+T1 Geometric matcher for recognizing and positioning 3-D rigid objects from passive stereo
+
+RT Journal Article
+ID 1917645
+A1 Bhanu,Bir
+A1 Faugeras,Olivier,D.
+YR 1984
+T1 Shape Matching of Two-Dimensional Objects
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 6
+SP 137
+OP 156
+IS 2
+
+RT Journal Article
+ID 1321823
+A1 Faugeras,O.,D.
+YR 1984
+T1 New steps toward a flexible 3-d vision system for robotics
+
+RT Journal Article
+ID 2179046
+A1 Faugeras,Olivier,D.
+A1 Hebert,Martial
+A1 Mussi,P.
+A1 Boissonnat,Jean-daniel
+YR 1984
+T1 Polyhedral approximation of 3-D objects without holes
+JF Graphical Models /graphical Models and Image Processing /computer Vision, Graphics, and Image Processing
+VO 25
+SP 169
+OP 183
+IS 2
+
+RT Conference Proceedings
+ID 614649
+A1 Faugeras,Olivier,D.
+A1 Hebert,Martial
+YR 1983
+T1 A 3-D Recognition and Positioning Algorithm Using Geometrical Matching Between Primitive Surfaces
+SP 996
+OP 1002
+
+RT Conference Proceedings
+ID 1293432
+A1 Faugeras,O.
+A1 Hebert,M.
+A1 Pauchon,E.
+YR 1983
+T1 Segmentation of range data into planar and quadratic patches
+
+RT Conference Proceedings
+ID 614651
+A1 Faugeras,Olivier,D.
+A1 Ponce,Jean
+YR 1983
+T1 Prism Trees: A Hierarchical Representation for 3-D Objects
+SP 982
+OP 988
+
+RT Journal Article
+ID 14381747
+A1 Bhanu,Bir
+A1 Faugeras,Olivier,D.
+YR 1982
+T1 Segmentation of Images Having Unimodal Distributions
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO PAMI-4
+SP 408
+OP 419
+IS 4
+
+RT Conference Proceedings
+ID 49826288
+A1 Keskes,N.
+A1 Boulanouar,A.
+A1 Faugeras,O.
+YR 1982
+T1 Application of image analysis techniques to seismic data
+
+RT Conference Proceedings
+ID 49826307
+A1 Faugeras,O.
+YR 1982
+T1 Image understanding and graph matching
+
+RT Journal Article
+ID 14381838
+A1 Bhanu,Bir
+A1 Faugeras,Olivier,D.
+YR 1982
+T1 Correction to ``Segmentation of Images Having Unimodal Distributions''
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO PAMI-4
+SP 689
+OP 689
+IS 6
+
+RT Journal Article
+ID 2005575
+A1 Faugeras,Olivier,D.
+A1 Berthod,Marc
+YR 1981
+T1 Improving Consistency and Reducing Ambiguity in Stochastic Labeling: An Optimization Approach
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO PAMI-3
+SP 412
+OP 424
+IS 4
+
+RT Journal Article
+ID 14380960
+A1 Faugeras,Olivier,D.
+A1 Price,Keith,E.
+YR 1981
+T1 Semantic Description of Aerial Images Using Stochastic Labeling
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO PAMI-3
+SP 633
+OP 642
+IS 6
+
+RT Journal Article
+ID 2731816
+A1 Pratt,W.,K.
+A1 Faugeras,O.,D.
+A1 Gagalowicz,A.
+YR 1981
+T1 Applications of stochastic texture field models to image processing
+JF Proceedings of The IEEE
+VO 69
+SP 542
+OP 551
+IS 5
+
+RT Conference Proceedings
+ID 1834358
+A1 Boissonnat,Jean-daniel
+A1 Faugeras,Olivier,D.
+YR 1981
+T1 Triangulation of 3-D Objects
+SP 658
+OP 660
+
+RT Journal Article
+ID 16201880
+A1 FAUGERAS,O
+YR 1981
+T1 Decomposition and decentralization techniques in relaxation labeling
+JF Graphical Models /graphical Models and Image Processing /computer Vision, Graphics, and Image Processing
+VO 16
+SP 341
+OP 355
+IS 4
+
+RT Journal Article
+ID 51476107
+A1 Pratt,W.,K.
+A1 Faugeras,O.,D.
+A1 Gagalowicz,A.
+YR 1981
+T1 Applications of stochastic texture field models to image processing
+JF Proceedings of The IEEE
+VO 69
+SP 542
+OP 551
+
+RT Conference Proceedings
+ID 500832
+A1 Faugeras,Olivier,D.
+YR 1981
+T1 Stochastic Labeling Techniques for Recognition of Partially Visible 2-D und 3-D Objects
+SP 117
+OP 117
+
+RT Journal Article
+ID 2016399
+A1 Faugeras,Olivier,D.
+A1 Pratt,William,K.
+YR 1980
+T1 Decorrelation Methods of Texture Feature Extraction
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO PAMI-2
+SP 323
+OP 332
+IS 4
+
+RT Journal Article
+ID 1694236
+A1 Faugeras,Olivier,D.
+A1 Berthod,Marc
+YR 1980
+T1 Scene labeling: an optimization approach
+JF Pattern Recognition
+VO 12
+SP 339
+OP 347
+IS 5
+
+RT Conference Proceedings
+ID 546048
+A1 Berthod,Marc
+A1 Faugeras,Olivier,D.
+YR 1980
+T1 Using Context in the Global Recognition of a Set of Objects: An Optimization Approach
+SP 695
+OP 698
+
+RT Conference Proceedings
+ID 491025
+A1 Faugeras,Olivier,D.
+YR 1980
+T1 An Optimisation Approach for Using Contextual Information in Conputer Vision
+SP 56
+OP 60
+
+RT Journal Article
+ID 1584188
+A1 Faugeras,O.
+YR 1979
+T1 Digital color image processing within the framework of a human visual model
+JF IEEE Transactions on Acoustics, Speech, and Signal Processing
+VO 27
+SP 380
+OP 393
+IS 4
+
+RT Journal Article
+ID 2076118
+A1 Faugeras,O.,D.
+YR 1979
+T1 Digital Image Color Processing Within the Framework of a Human Visual System
+
+RT Conference Proceedings
+ID 49818980
+A1 Faugeras,O.
+A1 Abramatic,J.
+YR 1979
+T1 2-D FIR filter design from independent "Small" generating kernels using a mean square and Tchebyshev error criterion
+
+RT Journal Article
+ID 4071253
+A1 Pratt,William,K.
+A1 Faugeras,Olivier,D.
+A1 Gagalowicz,Andre
+YR 1978
+T1 Visual Discrimination of Stochastic Texture Fields
+JF IEEE Transactions on Systems, Man, and Cybernetics
+VO 8
+SP 796
+OP 804
+IS 11
+
+RT Conference Proceedings
+ID 2759838
+A1 Faugeras,Olivier
+T1 Automatic calibration and removal of distortion from scenes of structured environments
+
+RT Journal Article
+ID 2405067
+A1 Faugeras,O.,D.
+T1 Real-time Correlation-Based Stereo: Algorithm
+
+RT Conference Proceedings
+ID 12040224
+A1 Chefd,C.
+A1 Tschumperle,D.
+A1 Deriche,R.
+A1 Faugeras,O.
+T1 Constrained Flows of Matrix-Valued Functions: Application to Diffusion Tensor Regularization
+
+RT Book, Whole
+ID 48665803
+A1 Lenglet,Christophe
+A1 Deriche,Rachid
+A1 Faugeras,Olivier
+T1 Inferring White Matter Geometry from Diffusion Tensor MRI: Application to Connectivity Mapping
+
+RT Book, Whole
+ID 47838435
+A1 Charpiat,Guillaume
+A1 Faugeras,Olivier
+A1 Keriven,Renaud
+A1 Maurel,Pierre
+T1 Approximations of Shape Metrics and Application to Shape Warping and Empirical Shape Statistics
+
+RT Journal Article
+ID 10267607
+A1 Zhang,Zhengyou
+A1 Faugeras,Olivier
+A1 Deriche,Rachid
+T1 An Effective Technique for Calibrating a Binocular Stereo Through Projective Reconstruction Using Both a Calibration Object and the Environment
+
+RT Book, Whole
+ID 47952805
+A1 Leventon,Michael
+A1 Grimson,Eric
+A1 Faugeras,Olivier
+A1 Kikinis,Ron
+A1 Wells,William
+T1 Knowledge-Based Segmentation of Medical Images
+
+RT Book, Whole
+ID 12332319
+A1 Prados,Emmanuel
+A1 Faugeras,Olivier
+T1 Shape From Shading
+
+RT Book, Whole
+ID 253628
+A1 Faugeras,Olivier
+A1 Keriven,Renaud
+T1 On projective plane curve evolution
+
+RT Conference Proceedings
+ID 5864413
+A1 Prados,Emmanuel
+A1 Lenglet,Christophe
+A1 Pons,Jean-Philippe
+A1 Wotawa,Nicolas
+A1 Deriche,Rachid
+A1 Faugeras,Olivier
+A1 Soatto,Stefano
+T1 Control Theory and Fast Marching Methods for Brain Connectivity Mapping
+
+RT Conference Proceedings
+ID 183673
+A1 Gomes,José
+A1 Faugeras,Olivier
+T1 Shape Representation as the Intersection of n-k hypersurfaces
+
+RT Journal Article
+ID 3403833
+A1 Pons,Jean-Philippe
+A1 Keriven,Renaud
+A1 Faugeras,Olivier
+T1 Modelling Dynamic Scenes by Registrating Multi-View Image Sequences
+
+RT Book, Whole
+ID 47906360
+A1 Faugeras,Olivier
+A1 Gomes,Jose
+A1 Keriven,Renaud
+T1 Computational Stereo: A Variational Method
+
+RT Journal Article
+ID 13016186
+A1 Grimson,Eric
+A1 Mayhew,John
+A1 Frisby,John
+A1 Herman,Marty
+A1 Neumann,Bernd
+A1 Hildreth,Ellen
+A1 Waxman,Allan
+A1 Faugeras,Olivier
+A1 Ponce,Jean
+A1 Wandell,Brian
+A1 Geisler,W.
+A1 Anstis,S.
+A1 Nakyma,K.
+A1 Deriche,Rachid
+A1 Mallat,Stephane
+A1 Crowley,James
+A1 Pizer,Stephen
+A1 Hoff,Willian
+A1 Bergholm,Frederik
+A1 Neuman,Weiko
+A1 Olufson,Goran
+A1 Koenderink,Jan
+A1 Chetverikov,Demitry
+A1 Aloimonos,Yanis
+A1 Kanatani,K.
+A1 Solina,Frank
+A1 Risanen,Jorma
+A1 Fua,Pascal
+A1 Nohre,Ragnar
+T1 Summer schools, workshops in Computer Vision held at DIKU 1984 - 2003
+
+RT Book, Whole
+ID 5550973
+A1 Pons,Jean-Philippe
+A1 Keriven,Renaud
+A1 Faugeras,O.
+T1 Modelling Non-Rigid Dynamic Scenes from Multi-View Image Sequences
+
+RT Journal Article
+ID 5136463
+A1 Grimbert,François
+A1 Faugeras,Olivier
+T1 Analysis of Jansen's model of a single cortical column
+
+RT Book, Whole
+ID 48498671
+A1 Faugeras,Olivier,D.
+A1 Voluceau,Domaine,de
+T1 Optimization techniques in image analysis
+
+RT Journal Article
+ID 2960160
+A1 Audibert,Jean-Yves
+A1 Charpiat,Guillaume
+A1 Faugeras,Olivier
+A1 Keriven,Renaud
+T1 Diffeomorphic Matching and Image Statistics
+
+RT Journal Article
+ID 10201630
+A1 HOTEL,C.,CHEFD'
+A1 E,TSCHUMPERL
+A1 DERICHE,R.
+A1 FAUGERAS,O.
+T1 REGULARIZING FLOWS FOR CONSTRAINED MATRIX-VALUED IMAGES
+
+RT Journal Article
+ID 4624945
+A1 Bonnardel,Philippe
+A1 Robert,Luc
+A1 Faugeras,Olivier
+T1 Modélisation réaliste à partir de photographies : recherches et application à la modélisation d'un plan-relief du Mont St-Michel
+
+RT Journal Article
+ID 4461959
+A1 Thorpe,Simon
+A1 Vieville,Thierry
+A1 Faugeras,Olivier
+T1 Traitement d'images avec des neurones à spikes: Performances, analyse mathématique, et perspectives pour les images en mouvement
+
+RT Book, Whole
+ID 48469366
+A1 Csurka,Gabriella
+A1 Faugeras,Olivier
+T1 Computing projective and permutation invariants of points and lines
+
+RT Book, Whole
+ID 48180584
+A1 Tlapale,Émilien
+A1 Kornprobst,Pierre
+A1 Masson,Guillaume,S.
+A1 Faugeras,Olivier
+T1 A Neural Field Model for Motion Estimation
+
+RT Journal Article
+ID 4499774
+A1 Chefd,Christophe
+A1 Faugeras,Olivier
+T1 Evolving Smooth Manifolds of Arbitrary Codimen- sion in Rn
+
+RT Journal Article
+ID 5362368
+A1 TOUBOUL,Jonathan
+A1 FAUGERAS,Olivier
+A1 ROCHEL,Olivier
+T1 EVENT-DRIVEN MATHEMATICAL FRAMEWORK FOR NOISY INTEGRATE-AND-FIRE NEURON NETWORKS
+
+RT Journal Article
+ID 158635
+A1 Devernay,Frederic
+A1 Faugeras,Olivier
+T1 Shape from Stereo Using Fine Correlation: Method and Error Analysis
+
+RT Journal Article
+ID 12651315
+A1 FAUGERAS,Olivier
+A1 STURM,Peter
+T1 Application to the Self-calibration of a 2D Projective Camera
+
+RT Journal Article
+ID 13061853
+A1 Prados,E.
+A1 Faugeras,O.
+T1 Key aspect of the modeling in Shape From Shading
+
+RT Journal Article
+ID 10840214
+A1 Deneux,T.
+A1 Faugeras,O.
+T1 Purpose: A simple mean square method to estimate the parameters of a physiological model for fMRI response
+
+RT Journal Article
+ID 10932317
+A1 Kybic,Jan
+A1 Faugeras,Olivier
+T1 Generalized Head Models for MEG/EEG: BEM beyond Nested Volumes
+
+RT Journal Article
+ID 13575876
+A1 Faugeras,Olivier
+T1 Variational Methods for Multimodal Image Matching: theory and applications

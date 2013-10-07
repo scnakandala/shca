@@ -1,0 +1,6705 @@
+RT Journal Article
+ID 57708593
+A1 Sopan,Awalin
+A1 Freire,Manuel
+A1 Taieb-Maimon,Meirav
+A1 Plaisant,Catherine
+A1 Golbeck,Jennifer
+A1 Shneiderman,Ben
+YR 2012
+T1 Exploring Data Distributions: Visual Design and Evaluation
+JF International Journal of Human-computer Interaction
+VO just-accep
+IS just-accep
+
+RT Journal Article
+ID 56912345
+A1 Heer,Jeffrey
+A1 Shneiderman,Ben
+YR 2012
+T1 Interactive dynamics for visual analysis
+JF Communications of The ACM
+SP 45
+OP 54
+
+RT Journal Article
+ID 4889856
+A1 Wang,Taowei,David
+A1 Deshpande,Amol
+A1 Shneiderman,Ben
+YR 2012
+T1 A Temporal Pattern Search Algorithm for Personal History Event Visualization
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 24
+SP 799
+OP 812
+IS 5
+
+RT Journal Article
+ID 57189521
+A1 Shneiderman,Ben
+A1 Dunne,Cody
+A1 Sharma,Puneet
+A1 Wang,Ping
+YR 2012
+T1 Innovation trajectories for information visualizations: Comparing treemaps, cone trees, and hyperbolic trees
+JF Information Visualization
+VO 11
+SP 87
+OP 105
+IS 2
+
+RT Journal Article
+ID 56918283
+A1 Heer,Jeffrey
+A1 Shneiderman,Ben
+YR 2012
+T1 Interactive Dynamics for Visual Analysis
+JF ACM Queue
+SP 30
+OP 55
+
+RT Conference Proceedings
+ID 56957536
+A1 Shneiderman,Ben
+YR 2012
+T1 Challenges for information visualization research: Visual quality and data quantity
+
+RT Conference Proceedings
+ID 39259351
+A1 Wongsuphasawat,Krist
+A1 Gómez,John,Alexis,Guerra
+A1 Plaisant,Catherine
+A1 Wang,Taowei,David
+A1 Taieb-Maimon,Meirav
+A1 Shneiderman,Ben
+YR 2011
+T1 LifeFlow: visualizing an overview of event sequences
+SP 1747
+OP 1756
+
+RT Conference Proceedings
+ID 39259570
+A1 Rotman,Dana
+A1 Vieweg,Sarah
+A1 Yardi,Sarita
+A1 Chi,Ed,Huai-hsin
+A1 Preece,Jenny
+A1 Shneiderman,Ben
+A1 Pirolli,Peter
+A1 Glaisyer,Tom
+YR 2011
+T1 From slacktivism to activism: participatory culture in the age of social media
+SP 819
+OP 822
+
+RT Journal Article
+ID 49396343
+A1 Goldberg,Larry
+A1 Lide,Bettijoyce
+A1 Lowry,Svetlana
+A1 Massett,Holly,A.
+A1 O'Connell,Trisha
+A1 Preece,Jennifer
+A1 Quesenbery,Whitney
+A1 Shneiderman,Ben
+YR 2011
+T1 Usability and Accessibility in Consumer Health Informatics
+JF American Journal of Preventive Medicine
+VO 40
+IS 5
+
+RT Journal Article
+ID 56900049
+A1 Shneiderman,Ben
+A1 Preece,Jennifer
+A1 Pirolli,Peter
+YR 2011
+T1 Realizing the value of social media requires innovative computing research
+JF Communications of The ACM
+SP 34
+OP 37
+
+RT Journal Article
+ID 5614380
+A1 Lieberman,Michael,D.
+A1 Taheri,Sima
+A1 Guo,whatever
+A1 Mirrashed,Fatemeh
+A1 Yahav,Inbal
+A1 Aris,Aleks
+A1 Shneiderman,Ben
+YR 2011
+T1 Visual Exploration across Biomedical Databases
+JF IEEE/ACM Transactions on Computational Biology and Bioinformatics
+VO 8
+SP 536
+OP 550
+IS 2
+
+RT Journal Article
+ID 39259557
+A1 Hourcade,Juan,Pablo
+A1 Bullock-Rest,Natasha,E.
+A1 Friedman,Batya
+A1 Nelson,Mark
+A1 Shneiderman,Ben
+A1 Zaphiris,Panayiotis
+YR 2011
+T1 HCI for peace: from idealism to concrete steps
+SP 613
+OP 616
+
+RT Journal Article
+ID 57015042
+A1 Wong,Pak,Chung
+A1 Chen,Chaomei
+A1 Gorg,Carsten
+A1 Shneiderman,Ben
+A1 Stasko,John
+A1 Thomas,Jim
+YR 2011
+T1 Graph Analytics-Lessons Learned and Challenges Ahead
+JF IEEE Computer Graphics and Applications
+VO 31
+SP 18
+OP 29
+IS 5
+
+RT Journal Article
+ID 60699437
+A1 Wong,Pak,C.
+A1 Chen,Chaomei
+A1 Gorg,Carsten
+A1 Shneiderman,Ben
+A1 Stasko,John,T.
+A1 Thomas,Jim
+YR 2011
+T1 Graph Analytics Selected Lessons Learned and Challenges Ahead
+JF IEEE Computer Graphics and Applications
+
+RT Conference Proceedings
+ID 39259634
+A1 Butler,Keith,A.
+A1 Payne,Thomas
+A1 Shneiderman,Ben
+A1 Brennan,Patricia
+A1 Zhang,Jiajie
+YR 2011
+T1 Re-engineering health care with information technology: the role of computer-human interaction
+SP 451
+OP 454
+
+RT Conference Proceedings
+ID 39259809
+A1 Wongsuphasawat,Krist
+A1 Gómez,John,Alexis,Guerra
+A1 Plaisant,Catherine
+A1 Wang,Taowei,David
+A1 Taieb-Maimon,Meirav
+A1 Shneiderman,Ben
+YR 2011
+T1 LifeFlow: visualizing an overview of event sequences (video preview)
+SP 507
+OP 510
+
+RT Book, Whole
+ID 39292403
+A1 Sharma,Puneet
+A1 Khurana,Udayan
+A1 Shneiderman,Ben
+A1 Scharrenbroich,Max
+A1 Locke,John
+YR 2011
+T1 Speeding Up Network Layout and Centrality Measures for Social Computing Goals
+SP 244
+OP 251
+
+RT Conference Proceedings
+ID 56932570
+A1 Gomez,John,Alexis,Guerra
+A1 Buck-Coleman,Audra
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+YR 2011
+T1 TreeVersity: Comparing tree structures by topology and node's attributes differences
+
+RT Book, Whole
+ID 39292385
+A1 Ahn,Jae-Wook
+A1 Taieb-Maimon,Meirav
+A1 Sopan,Awalin
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+YR 2011
+T1 Temporal Visualization of Social Network Dynamics: Prototypes for Nation of Neighbors
+SP 309
+OP 316
+
+RT Journal Article
+ID 48871502
+A1 Rodrigues,Eduarda,Mendes
+A1 Milic-Frayling,Natasa
+A1 Smith,Marc,A.
+A1 Shneiderman,Ben
+A1 Hansen,Derek,L.
+YR 2011
+T1 Group-In-a-Box Layout for Multifaceted Analysis of Communities
+
+RT Conference Proceedings
+ID 13708857
+A1 Hansen,Derek,L.
+A1 Smith,Marc,A.
+A1 Shneiderman,Ben
+YR 2011
+T1 EventGraphs: Charting Collections of Conference Connections
+SP 1
+OP 10
+
+RT Journal Article
+ID 56900175
+A1 Hochheiser,Harry
+A1 Shneiderman,Ben
+YR 2011
+T1 Electronic medical records: usability challenges and opportunities
+JF Interactions
+SP 48
+OP 49
+
+RT Journal Article
+ID 56900178
+A1 Shneiderman,Ben
+YR 2011
+T1 Tragic errors: usability and electronic health records
+JF Interactions
+SP 60
+OP 63
+
+RT Journal Article
+ID 56912516
+A1 Shneiderman,Ben
+YR 2011
+T1 Claiming success, charting the future: micro-HCI and macro-HCI
+JF Interactions
+SP 10
+OP 11
+
+RT Book, Whole
+ID 39250701
+A1 Shneiderman,Ben
+A1 Plaisant,Catherine
+YR 2010
+T1 Designing the User Interface - Strategies for Effective Human-Computer Interaction (5. ed.)
+
+RT Conference Proceedings
+ID 5629557
+A1 Freire,Manuel
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+A1 Golbeck,Jen
+YR 2010
+T1 ManyNets: an interface for multiple network analysis and visualization
+SP 213
+OP 222
+
+RT Journal Article
+ID 39313292
+A1 Pirolli,Peter
+A1 Preece,Jenny
+A1 Shneiderman,Ben
+YR 2010
+T1 Cyberinfrastructure for Social Action on National Priorities
+JF IEEE Computer
+VO 43
+SP 20
+OP 21
+IS 11
+
+RT Journal Article
+ID 39233157
+A1 Wang,Taowei,David
+A1 Wongsuphasawat,Krist
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+YR 2010
+T1 Visual information seeking in multiple electronic health records: design recommendations and a process model
+SP 46
+OP 55
+
+RT Conference Proceedings
+ID 39308924
+A1 May,Richard
+A1 Hanrahan,Pat
+A1 Keim,Daniel,A.
+A1 Shneiderman,Ben
+A1 Card,Stuart,K.
+YR 2010
+T1 The state of visual analytics: Views on what visual analytics is and where it is going
+SP 257
+OP 259
+
+RT Conference Proceedings
+ID 51019881
+A1 Kim,Sung-Rae
+A1 Han,Kyung,Joon
+A1 Lee,Kin-Sing
+A1 Kim,Tae-Hoon
+A1 Wolfman,J.
+A1 Wang,Yu
+A1 Ben,S.
+A1 Hauch,K.
+A1 Kim,Hyuk
+A1 Lee,Poong-Yeub
+A1 Minh,E.
+A1 Jia,Yingbo
+A1 Dhaoui,F.
+A1 Liu,P.
+A1 Tseng,Huan-Chung
+YR 2010
+T1 Single Bit Read Disturb failure mechanism and transistor size optimization for dual port SRAM bitcell in embedded NVM process SOC applications
+SP 86
+OP 88
+
+RT Journal Article
+ID 13312771
+A1 Wilson,Max,L.
+A1 Kules,Bill
+A1 schraefel,m.,c.
+A1 Shneiderman,Ben
+YR 2010
+T1 From Keyword Search to Exploration: Designing Future Search Interfaces for the Web
+JF Foundations and Trends in Web Science
+VO 2
+SP 1
+OP 97
+IS 1
+
+RT Book, Whole
+ID 13762662
+A1 Hansen,Derek,L.
+A1 Shneiderman,Ben
+A1 Smith,Marc,A.
+YR 2010
+T1 Visualizing Threaded Conversation Networks: Mining Message Boards and Email Lists for Actionable Insights
+SP 47
+OP 62
+
+RT Journal Article
+ID 39209962
+A1 Hochheiser,Harry
+A1 Shneiderman,Ben
+YR 2010
+T1 From bowling alone to tweeting together: technology-mediated social participation
+JF Interactions
+VO 17
+SP 64
+OP 67
+IS 2
+
+RT Book, Whole
+ID 13762720
+A1 Shneiderman,Ben
+YR 2010
+T1 Technology-Mediated Social Participation: Deep Science and Extreme Technology
+SP 1
+OP 4
+
+RT Journal Article
+ID 4900355
+A1 Smith,Marc,A.
+A1 Shneiderman,Ben
+A1 Milic-Frayling,Natasa
+A1 Rodrigues,Eduarda,Mendes
+A1 Barash,Vladimir
+A1 Capone,Tony
+A1 Perer,Adam
+YR 2009
+T1 Analyzing (social media) networks with NodeXL
+SP 255
+OP 264
+
+RT Journal Article
+ID 4755702
+A1 Perer,Adam
+A1 Shneiderman,Ben
+YR 2009
+T1 Integrating Statistics and Visualization for Exploratory Power: From Long-Term Case Studies to Design Guidelines
+JF IEEE Computer Graphics and Applications
+VO 29
+SP 39
+OP 51
+IS 3
+
+RT Conference Proceedings
+ID 4702961
+A1 Fischer,Gerhard
+A1 Jennings,Pamela
+A1 Maher,Mary,Lou
+A1 Resnick,Mitchel
+A1 Shneiderman,Ben
+YR 2009
+T1 Creativity challenges and opportunities in social computing
+SP 3283
+OP 3286
+
+RT Conference Proceedings
+ID 4894702
+A1 Wongsuphasawat,Krist
+A1 Shneiderman,Ben
+YR 2009
+T1 Finding comparable temporal categorical records: A similarity measure with an interactive visualization
+SP 27
+OP 34
+
+RT Conference Proceedings
+ID 4972995
+A1 Bonsignore,Elizabeth,M.
+A1 Dunne,Cody
+A1 Rotman,Dana
+A1 Smith,Marc
+A1 Capone,Tony
+A1 Hansen,Derek,L.
+A1 Shneiderman,Ben
+YR 2009
+T1 First Steps to Netviz Nirvana: Evaluating Social Network Analysis with NodeXL
+SP 332
+OP 339
+
+RT Journal Article
+ID 4904438
+A1 Wang,Taowei,David
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+A1 Spring,Neil
+A1 Roseman,David
+A1 Marchand,Greg
+A1 Mukherjee,Vikramjit
+A1 Smith,Mark
+YR 2009
+T1 Temporal Summaries: Supporting Temporal Categorical Searching, Aggregation and Comparison
+JF IEEE Transactions on Visualization and Computer Graphics
+VO 15
+SP 1049
+OP 1056
+IS 6
+
+RT Journal Article
+ID 15089994
+A1 Shneiderman,B.
+YR 2009
+T1 A National Initiative for Social Participation
+JF Science
+VO 323
+SP 1426
+OP 1427
+IS 5920
+
+RT Journal Article
+ID 15091368
+A1 Shneiderman,B.
+YR 2009
+T1 Civic Collaboration
+JF Science
+VO 325
+SP 540
+OP 540
+IS 5940
+
+RT Journal Article
+ID 5834545
+A1 Aris,Aleks
+A1 Shneiderman,Ben
+A1 Qazvinian,Vahed
+A1 Radev,Dragomir,R.
+YR 2009
+T1 Visual Overviews for Discovering Key Papers and Influences Across Research Fronts
+JF Journal of The American Society for Information Science and Technology
+VO 60
+SP 2219
+OP 2228
+IS 11
+
+RT Conference Proceedings
+ID 4703055
+A1 Schraefel,M.,C.
+A1 André,Paul
+A1 White,Ryen
+A1 Tan,Desney
+A1 Berners-lee,Tim
+A1 Consolvo,Sunny
+A1 Jacobs,Robert
+A1 Kohane,Isaac,S.
+A1 Dantec,Christopher,A.,Le
+A1 Mamykina,Lena
+A1 Marsden,Gary
+A1 Shneiderman,Ben
+A1 Szolovits,Peter
+A1 Weitzner,Daniel,J.
+YR 2009
+T1 Interacting with eHealth: towards grand challenges for HCI
+SP 3309
+OP 3312
+
+RT Conference Proceedings
+ID 6053278
+A1 Shneiderman,Ben
+A1 Churchill,Elizabeth,F.
+A1 Fischer,Gerhard
+A1 Goldberg,Ken
+YR 2009
+T1 Promoting social creativity: a component of a national initiative for social participation
+SP 7
+OP 8
+
+RT Book, Whole
+ID 46930945
+A1 Shneiderman,B.
+A1 Plaisant,C.
+A1 Cohen,M.
+A1 Jacobs,S.
+YR 2009
+T1 Designing the user interface: strategies for effective human-computerinteraction
+JF Information Design Journal
+VO 17
+SP 157
+OP 158
+IS 2
+
+RT Journal Article
+ID 50759421
+A1 Shneiderman,Ben
+YR 2009
+T1 Understanding social computing participation with visual exploration tools
+
+RT Conference Proceedings
+ID 4241862
+A1 Perer,Adam
+A1 Shneiderman,Ben
+YR 2008
+T1 Integrating statistics and visualization: case studies of gaining clarity during exploratory data analysis
+SP 265
+OP 274
+
+RT Conference Proceedings
+ID 4241837
+A1 Wang,Taowei,David
+A1 Plaisant,Catherine
+A1 Quinn,Alexander,J.
+A1 Stanchak,Roman
+A1 Murphy,Shawn
+A1 Shneiderman,Ben
+YR 2008
+T1 Aligning temporal data by sentinel events: discovering patterns in electronic health records
+SP 457
+OP 466
+
+RT Journal Article
+ID 4393276
+A1 Kules,Bill
+A1 Shneiderman,Ben
+YR 2008
+T1 Users can change their web search tactics: Design guidelines for categorized overviews
+JF Information Processing and Management
+VO 44
+SP 463
+OP 484
+IS 2
+
+RT Conference Proceedings
+ID 4294700
+A1 Perer,Adam
+A1 Shneiderman,Ben
+YR 2008
+T1 Systematic yet flexible discovery: guiding domain experts through exploratory data analysis
+SP 109
+OP 118
+
+RT Conference Proceedings
+ID 4317352
+A1 Shneiderman,Ben
+YR 2008
+T1 Extreme visualization: squeezing a billion records into a million pixels
+SP 3
+OP 12
+
+RT Journal Article
+ID 15085951
+A1 Shneiderman,B.
+YR 2008
+T1 COMPUTER SCIENCE: Science 2.0
+JF Science
+VO 319
+SP 1349
+OP 1350
+IS 5868
+
+RT Journal Article
+ID 4415419
+A1 Zhao,Haixia
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+A1 Lazar,Jonathan
+YR 2008
+T1 Data Sonification for Users with Visual Impairment: A Case Study with Georeferenced Data
+JF ACM Transactions on Computer-human Interaction
+VO 15
+SP 1
+OP 28
+IS 1
+
+RT Journal Article
+ID 4830209
+A1 Friedler,Sorelle,A.
+A1 Tan,Yee,Lin
+A1 Peer,Nir,J.
+A1 Shneiderman,Ben
+YR 2008
+T1 Enabling teachers to explore grade patterns to identify individual needs and promote fairer student assessment
+JF Computers & Education
+VO 51
+SP 1467
+OP 1485
+IS 4
+
+RT Journal Article
+ID 45014610
+A1 Schneiderman,Bette,E.
+YR 2008
+T1 Creating a Learning Space That Is Virtual and Experiential
+JF The Journal of Aesthetic Education
+VO 42
+SP 38
+OP 50
+IS 2
+
+RT Journal Article
+ID 15086891
+A1 Shneiderman,B.
+YR 2008
+T1 Science 2.0: Not So New?
+JF Science
+VO 320
+SP 1290
+OP 1291
+IS 5881
+
+RT Journal Article
+ID 4772190
+A1 Kang,Hyunmo
+A1 Getoor,Lise
+A1 Shneiderman,Ben
+A1 Bilgic,Mustafa
+A1 Licamele,Louis
+YR 2008
+T1 Interactive Entity Resolution in Relational Data: A Visual Analytic Tool and Its Evaluation
+JF IEEE Transactions on Visualization and Computer Graphics
+VO 14
+SP 999
+OP 1014
+IS 5
+
+RT Journal Article
+ID 39562446
+A1 Wu,Philip,Fei
+A1 Qu,Yan
+A1 Fleischmann,Ken
+A1 Golbeck,Jennifer
+A1 Jaeger,Paul
+A1 Preece,Jennifer
+A1 Shneiderman,Ben
+YR 2008
+T1 Designing community-based emergency communication system: A preliminary study
+JF Proceedings of The Asist Annual Meeting
+VO 45
+SP 1
+OP 3
+IS 1
+
+RT Journal Article
+ID 4767300
+A1 Dao,Huyen,Tue
+A1 Bazinet,Adam,L.
+A1 Berthier,Robin
+A1 Shneiderman,Ben
+YR 2008
+T1 NASDAQ Velocity and Forces: An Interactive Visualization of Activity and Change
+JF Journal of Universal Computer Science
+VO 14
+SP 1391
+OP 1410
+IS 9
+
+RT Conference Proceedings
+ID 50722274
+A1 Essafi,Kawther
+A1 Ben,S.
+YR 2008
+T1 A perceptual based input decorrelation for monophonic acoustic echo cancellation
+
+RT Journal Article
+ID 60000088
+A1 Schneiderman,Bette,E.
+YR 2008
+T1 Creating a Learning Space That Is Virtual and Experiential
+JF Journal of Aesthetic Education
+VO  42
+IS  2
+
+RT Journal Article
+ID 4361534
+A1 Shneiderman,Ben
+YR 2007
+T1 Creativity support tools: accelerating discovery and innovation
+JF Communications of The ACM
+VO 50
+SP 20
+OP 32
+IS 12
+
+RT Conference Proceedings
+ID 4242801
+A1 Don,Anthony
+A1 Zheleva,Elena
+A1 Gregory,Machon
+A1 Tarkan,Sureyya
+A1 Auvil,Loretta
+A1 Clement,Tanya
+A1 Shneiderman,Ben
+A1 Plaisant,Catherine
+YR 2007
+T1 Discovering interesting usage patterns in text collections: integrating text mining with visualization
+SP 213
+OP 222
+
+RT Journal Article
+ID 4361464
+A1 Shneiderman,Ben
+YR 2007
+T1 Web science: a provocative invitation to computer science
+JF Communications of The ACM
+VO 50
+SP 25
+OP 27
+IS 6
+
+RT Journal Article
+ID 10635960
+A1 Schatz,Michael,C
+A1 Phillippy,Adam,M
+A1 Shneiderman,Ben
+A1 Salzberg,Steven,L
+YR 2007
+T1 Hawkeye: an interactive visual analytics tool for genome assemblies
+JF Genome Biology
+VO 8
+SP 1
+OP 12
+IS 3
+
+RT Journal Article
+ID 41209520
+A1 Jaeger,Paul,T.
+A1 Shneiderman,Ben
+A1 Fleischmann,Kenneth,R.
+A1 Preece,Jennifer
+A1 Qu,Yan
+A1 Wu,Philip,Fei
+YR 2007
+T1 Community response grids: E-government, social networks, and effective emergency management
+JF Telecommunications Policy
+VO 31
+SP 592
+OP 604
+IS 10
+
+RT Journal Article
+ID 30666611
+A1 Hesse,Bradford,W.
+A1 Shneiderman,Ben
+YR 2007
+T1 eHealth Research from the User’s Perspective
+JF American Journal of Preventive Medicine
+VO 32
+IS 5
+
+RT Journal Article
+ID 4394588
+A1 Aris,Aleks
+A1 Shneiderman,Ben
+YR 2007
+T1 Designing semantic substrates for visual network exploration
+JF Information Visualization
+VO 6
+SP 281
+OP 300
+IS 4
+
+RT Journal Article
+ID 15081751
+A1 Shneiderman,B.
+A1 Preece,J.
+YR 2007
+T1 PUBLIC HEALTH: 911.gov
+JF Science
+VO 315
+SP 944
+OP 944
+IS 5814
+
+RT Journal Article
+ID 4379626
+A1 Shneiderman,Ben
+YR 2007
+T1 Human Responsibility for Autonomous Agents
+JF IEEE Expert / IEEE Intelligent Systems
+VO 22
+SP 60
+OP 61
+IS 2
+
+RT Conference Proceedings
+ID 4242654
+A1 Jr,Galileo,Mark,Namata
+A1 Staats,Brian
+A1 Getoor,Lise
+A1 Shneiderman,Ben
+YR 2007
+T1 A dual-view approach to interactive network visualization
+SP 939
+OP 942
+
+RT Journal Article
+ID 4541348
+A1 Wu,Philip,Fei
+A1 Preece,Jenny
+A1 Shneiderman,Ben
+A1 Jaeger,Paul
+A1 Qu,Yan
+YR 2007
+T1 Community Response Grids for Older Adults: Motivations, Usability, and Sociability
+
+RT Journal Article
+ID 43175624
+A1 Jaeger,Paul,T.
+A1 Fleischmann,Kenneth,R.
+A1 Preece,Jennifer
+A1 Shneiderman,Ben
+A1 Wu,Philip,Fei
+A1 Qu,Yan
+YR 2007
+T1 Community Response Grids: Using Information Technology to Help Communities Respond to Bioterror Emergencies
+JF Biosecurity and Bioterrorism-biodefense Strategy Practice and Science
+VO 5
+SP 335
+OP 346
+IS 4
+
+RT Journal Article
+ID 2505014
+A1 Tanin,Egemen
+A1 Shneiderman,Ben
+A1 Xie,Hairuo
+YR 2007
+T1 Browsing large online data tables using generalized query previews
+JF Information Systems
+VO 32
+SP 402
+OP 423
+IS 3
+
+RT Conference Proceedings
+ID 4333212
+A1 Shneiderman,Ben
+A1 Colwell,Rita,R.
+A1 Diamond,Sara
+A1 Greenhalgh,Paul
+A1 Wulf,William
+YR 2007
+T1 Bridging art and science with creativity support tools
+SP 309
+OP 309
+
+RT Conference Proceedings
+ID 13255395
+A1 Shneiderman,Ben
+A1 Fischer,Gerhard
+A1 Giaccardi,Elisa
+A1 Eisenberg,Michael
+YR 2007
+T1 Proceedings of the 6th Conference on Creativity & Cognition, Washington, DC, USA, June 13-15, 2007
+
+RT Book, Whole
+ID 4288210
+A1 Shneiderman,Ben
+YR 2007
+T1 Human Values for Shaping the Made World
+SP 1
+
+RT Journal Article
+ID 2504647
+A1 Shneiderman,Ben
+YR 2007
+T1 25 years of CHI conferences: capturing the exchange of ideas
+JF Interactions
+VO 14
+SP 24
+OP 31
+IS 2
+
+RT Conference Proceedings
+ID 4237307
+A1 Shneiderman,Ben
+A1 Plaisant,Catherine
+YR 2006
+T1 Strategies for evaluating information visualization tools: multi-dimensional in-depth long-term case studies
+SP 1
+OP 7
+
+RT Journal Article
+ID 2518050
+A1 Perer,Adam
+A1 Shneiderman,Ben
+YR 2006
+T1 Balancing Systematic and Flexible Exploration of Social Networks
+JF IEEE Transactions on Visualization and Computer Graphics
+VO 12
+SP 693
+OP 700
+IS 5
+
+RT Journal Article
+ID 2518142
+A1 Shneiderman,Ben
+A1 Aris,Aleks
+YR 2006
+T1 Network Visualization by Semantic Substrates
+JF IEEE Transactions on Visualization and Computer Graphics
+VO 12
+SP 733
+OP 740
+IS 5
+
+RT Journal Article
+ID 5823991
+A1 Bakay,Marina
+A1 Wang,Zuyi
+A1 Melcon,Gisela
+A1 Schiltz,Louis
+A1 Xuan,Jianhua
+A1 Zhao,Po
+A1 Sartorelli,Vittorio
+A1 Seo,Jinwook
+A1 Pegoraro,Elena
+A1 Angelini,Corrado
+A1 Shneiderman,Ben
+A1 Escolar,Diana
+A1 Chen,Yi-Wen
+A1 Winokur,Sara,T.
+A1 Pachman,Lauren,M.
+A1 Fan,Chenguang
+A1 Mandler,Raul
+A1 Nevo,Yoram
+A1 Gordon,Erynn
+A1 Zhu,Yitan
+A1 Dong,Yibin
+A1 Wang,Yue
+A1 Hoffman,Eric,P.
+YR 2006
+T1 Nuclear envelope dystrophies show a transcriptional fingerprint suggesting disruption of Rb-MyoD pathways in muscle regeneration
+JF Brain
+VO 129
+SP 996
+OP 1013
+IS 4
+
+RT Conference Proceedings
+ID 2184979
+A1 Kules,Bill
+A1 Kustanowitz,Jack
+A1 Scneiderman,Ben
+YR 2006
+T1 Categorizing web search results into meaningful and stable categories using fast-feature techniques
+SP 210
+OP 219
+
+RT Journal Article
+ID 2177959
+A1 Seo,Jinwook
+A1 Shneiderman,Ben
+YR 2006
+T1 Knowledge Discovery in High-Dimensional Data: Case Studies and a User Survey for the Rank-by-Feature Framework
+JF IEEE Transactions on Visualization and Computer Graphics
+VO 12
+SP 311
+OP 322
+IS 3
+
+RT Journal Article
+ID 1711099
+A1 Shneiderman,Ben
+A1 Bederson,Benjamin,B.
+A1 Drucker,Steven,M.
+YR 2006
+T1 Find that photo!: interface strategies to annotate, browse, and share
+JF Communications of The ACM
+VO 49
+SP 69
+OP 71
+IS 4
+
+RT Journal Article
+ID 6616787
+A1 Shneiderman,Ben
+A1 Fischer,Gerhard
+A1 Czerwinski,Mary
+A1 Resnick,Mitchel
+A1 Myers,Brad,A.
+A1 Candy,Linda
+A1 Edmonds,Ernest,A.
+A1 Eisenberg,Mike
+A1 Giaccardi,Elisa
+A1 Hewett,Thomas,T.
+A1 Jennings,Pamela
+A1 Kules,Bill
+A1 Nakakoji,Kumiyo
+A1 Nunamaker,Jay,F.
+A1 Pausch,Randy,F.
+A1 Selker,Ted
+A1 Sylvan,Elisabeth
+A1 Terry,Michael,A.
+YR 2006
+T1 Creativity Support Tools: Report From a U.S. National Science Foundation Sponsored Workshop
+JF International Journal of Human-computer Interaction
+VO 20
+SP 61
+OP 77
+IS 2
+
+RT Journal Article
+ID 2175271
+A1 Kang,Hyunmo
+A1 Shneiderman,Ben
+YR 2006
+T1 Exploring personal media: A spatial interface supporting user-defined semantic regions
+JF Journal of Visual Languages and Computing
+VO 17
+SP 254
+OP 283
+IS 3
+
+RT Journal Article
+ID 2499895
+A1 Shmueli,Galit
+A1 Jank,Wolfgang
+A1 Aris,Aleks
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+YR 2006
+T1 Exploring auction databases through interactive visualization
+JF Decision Support Systems
+VO 42
+SP 1521
+OP 1538
+IS 3
+
+RT Journal Article
+ID 2171453
+A1 Lazar,Jonathan
+A1 Jones,Adam
+A1 Hackley,Mary
+A1 Shneiderman,Ben
+YR 2006
+T1 Severity and impact of computer user frustration: A comparison of student and workplace users
+JF Interacting with Computers
+VO 18
+SP 187
+OP 207
+IS 2
+
+RT Conference Proceedings
+ID 10743340
+A1 Fails,Jerry,Alan
+A1 Karlson,Amy,K.
+A1 Shahamat,Layla
+A1 Shneiderman,Ben
+YR 2006
+T1 A Visual Interface for Multivariate Temporal Data: Finding Patterns of Events across Multiple Histories
+SP 167
+OP 174
+
+RT Conference Proceedings
+ID 39308986
+A1 Bilgic,Mustafa
+A1 Licamele,Louis
+A1 Getoor,Lise
+A1 Shneiderman,Ben
+YR 2006
+T1 D-Dupe: An Interactive Tool for Entity Resolution in Social Networks
+SP 43
+OP 50
+
+RT Journal Article
+ID 6074998
+A1 Kustanowitz,Jack
+A1 Shneiderman,Ben
+YR 2006
+T1 Hierarchical Layouts for Photo Libraries
+JF IEEE Multimedia
+VO 13
+SP 62
+OP 72
+IS 4
+
+RT Journal Article
+ID 11976019
+A1 Bessière,Katie
+A1 Newhagen,John,E.
+A1 Robinson,John,P.
+A1 Shneiderman,Ben
+YR 2006
+T1 A model for computer frustration: the role of instrumental and dispositional factors on incident, session, and post-session frustration and mood
+JF Computers in Human Behavior
+VO 22
+SP 941
+OP 961
+IS 6
+
+RT Journal Article
+ID 4440883
+A1 Lazar,Jonathan
+A1 Jones,Adam
+A1 Shneiderman,Ben
+YR 2006
+T1 Workplace user frustration with computers: an exploratory investigation of the causes and severity
+JF Behaviour & Information Technology
+VO 25
+SP 239
+OP 251
+IS 3
+
+RT Journal Article
+ID 2505904
+A1 Perer,Adam
+A1 Shneiderman,Ben
+A1 Oard,Douglas,W.
+YR 2006
+T1 Using rhythms of relationships to understand e-mail archives
+JF Journal of The American Society for Information Science and Technology
+VO 57
+SP 1936
+OP 1948
+IS 14
+
+RT Journal Article
+ID 46262391
+A1 Haas,Stephanie,W.
+A1 Denn,Sheila
+A1 Locke,David
+A1 Shneiderman,Ben
+A1 Brown,Laurie
+YR 2006
+T1 Toward an enriched (and revitalized) sense of help: Summary of an ASIS&T 2005 panel session
+JF Bulletin of The American Society for Information Science and Technology
+VO 32
+SP 23
+OP 26
+IS 5
+
+RT Journal Article
+ID 2493625
+A1 Shneiderman,Ben
+YR 2006
+T1 A Telescope for High-Dimensional Data
+JF Computing in Science and Engineering
+VO 8
+SP 48
+OP 53
+IS 2
+
+RT Conference Proceedings
+ID 2421324
+A1 Shneiderman,Ben
+A1 Bishop,Ann,Peterson
+A1 Friedman,Batya
+A1 Lazar,Jonathan
+A1 Marsden,Gary
+A1 Nass,Clifford
+YR 2006
+T1 Making a difference: integrating socially relevant projects into HCI teaching
+SP 41
+OP 44
+
+RT Conference Proceedings
+ID 4251639
+A1 Marchionini,Gary
+A1 Haas,Stephanie,W.
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+YR 2006
+T1 Integrating data and interfaces to enhance understanding of government statistics: toward the national statistical knowledge network project briefing
+SP 334
+OP 335
+
+RT Journal Article
+ID 5298417
+A1 Shneiderman,Ben
+A1 Aris,Aleks
+YR 2006
+T1 Network Visualization by Meaningful Substrates
+
+RT Book, Whole
+ID 2946249
+A1 Shneiderman,Ben
+A1 Plaisant,Catherine
+YR 2005
+T1 Designing the user interface - strategies for effective human-computer interaction (4. ed.)
+
+RT Conference Proceedings
+ID 1786077
+A1 Shneiderman,Ben
+YR 2005
+T1 Leonardo's laptop: human needs and the new computing technologies
+SP 1
+OP 1
+
+RT Journal Article
+ID 1702561
+A1 Seo,Jinwook
+A1 Shneiderman,Ben
+YR 2005
+T1 A rank-by-feature framework for interactive exploration of multidimensional data
+JF Information Visualization
+VO 4
+SP 96
+OP 113
+IS 2
+
+RT Book, Whole
+ID 1861089
+A1 Aris,Aleks
+A1 Shneiderman,Ben
+A1 Plaisant,Catherine
+A1 Shmueli,Galit
+A1 Jank,Wolfgang
+YR 2005
+T1 Representing Unevenly-Spaced Time Series Data for Visualization and Interactive Exploration
+SP 835
+OP 846
+
+RT Journal Article
+ID 2385248
+A1 Perer,Adam
+A1 Shneiderman,Ben
+A1 Oard,Douglas,W.
+YR 2005
+T1 Using Rhythms of Relationships to Understand Email Archives
+JF Journal of The American Society for Information Science and Technology
+
+RT Book, Whole
+ID 1762588
+A1 Bilgic,Mustafa
+A1 Licamele,Louis
+A1 Getoor,Lise
+A1 Shneiderman,Ben
+YR 2005
+T1 D-Dupe: An Interactive Tool for Entity Resolution in Social Networks
+SP 505
+OP 507
+
+RT Conference Proceedings
+ID 1238406
+A1 Kustanowitz,Jack
+A1 Shneiderman,Ben
+YR 2005
+T1 Meaningful presentations of photo libraries: rationale and applications of bi-level radial quantum layouts
+SP 188
+OP 196
+
+RT Conference Proceedings
+ID 1237322
+A1 Zhao,Haixia
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+YR 2005
+T1 "I hear the pattern": interactive sonification of geographical data patterns
+SP 1905
+OP 1908
+
+RT Journal Article
+ID 1710924
+A1 Klawe,Maria,M.
+A1 Shneiderman,Ben
+YR 2005
+T1 Crisis and opportunity in computer science
+JF Communications of The ACM
+VO 48
+SP 27
+OP 28
+IS 11
+
+RT Conference Proceedings
+ID 2160782
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+YR 2005
+T1 Show Me! Guidelines for Producing Recorded Demonstrations
+SP 171
+OP 178
+
+RT Journal Article
+ID 1699439
+A1 Zhao,Haixia
+A1 Shneiderman,Ben
+YR 2005
+T1 Colour-coded pixel-based highly interactive Web mapping for georeferenced data exploration
+JF International Journal of Geographical Information Science
+VO 19
+SP 413
+OP 428
+IS 4
+
+RT Conference Proceedings
+ID 39228562
+A1 Shneiderman,Ben
+A1 Bederson,Benjamin,B.
+YR 2005
+T1 Maintaining concentration to achieve task completion
+SP 9
+
+RT Book, Whole
+ID 1819556
+A1 Seo,Jinwook
+A1 Shneiderman,Ben
+YR 2005
+T1 A Knowledge Integration Framework for Information Visualization
+SP 207
+OP 220
+
+RT Journal Article
+ID 1685713
+A1 Zhao,Haixia
+A1 Smith,Benjamin,K.
+A1 Norman,Kent,L.
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+YR 2005
+T1 Interactive Sonification of Choropleth Maps
+JF IEEE Multimedia
+VO 12
+SP 26
+OP 35
+IS 2
+
+RT Conference Proceedings
+ID 1892873
+A1 Shneiderman,Ben
+YR 2005
+T1 Human-computer interaction themes in digital government: web site comprehension and statistics visualization
+SP 7
+OP 8
+
+RT Conference Proceedings
+ID 1847951
+A1 Zhao,Haixia
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+YR 2005
+T1 iSonic: interactive sonification for non-visual data exploration
+SP 194
+OP 195
+
+RT Conference Proceedings
+ID 12782921
+A1 Buono,Paolo
+A1 Arisbc,Aleks
+A1 Plaisant,Catherine
+A1 Khellabc,Amir
+A1 Shneidermanbc,Ben
+YR 2005
+T1 Interactive Pattern Search in Time Series
+VO 5669
+SP 175
+OP 186
+
+RT Conference Proceedings
+ID 1892914
+A1 Marchionini,Gary
+A1 Haas,Stephanie,W.
+A1 Shneiderman,Ben
+A1 Plaisant,Catherine
+A1 Hert,Carol,A.
+YR 2005
+T1 Project highlight: toward a statistical knowledge network--2004-05
+SP 177
+OP 178
+
+RT Journal Article
+ID 39562076
+A1 Haas,Stephanie,W.
+A1 Brown,Laurie
+A1 Denn,Sheila
+A1 Locke,David
+A1 Shneiderman,Ben
+YR 2005
+T1 Envisioning help resources for the future information ecology: Toward an enriched sense of help
+JF Proceedings of The Asist Annual Meeting
+VO 42
+IS 1
+
+RT Book, Whole
+ID 51198748
+A1 Shneiderman,Ben
+A1 Plaisant,Catherine
+YR 2005
+T1 Designing the User Interface: Strategies for Effective Human-ComputerInteraction (4th Edition)
+
+RT Conference Proceedings
+ID 1900901
+A1 Shneiderman,Ben
+YR 2005
+T1 Managing Design Processes for Successful User Interfaces
+SP 15
+OP 30
+
+RT Journal Article
+ID 745801
+A1 Hochheiser,Harry
+A1 Shneiderman,Ben
+YR 2004
+T1 Dynamic query tools for time series data sets: Timebox widgets for interactive exploration
+JF Information Visualization
+VO 3
+SP 1
+OP 18
+IS 1
+
+RT Conference Proceedings
+ID 1859731
+A1 Seo,Jinwook
+A1 Shneiderman,Ben
+YR 2004
+T1 A Rank-by-Feature Framework for Unsupervised Multidimensional Data Exploration Using Low Dimensional Projections
+SP 65
+OP 72
+
+RT Conference Proceedings
+ID 1267084
+A1 Zhao,Haixia
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+A1 Duraiswami,Ramani
+YR 2004
+T1 Sonification of Geo-Referenced Data for Auditory Information Seeking: Design Principle and Pilot Study
+
+RT Journal Article
+ID 1727966
+A1 Seo,Jinwook
+A1 Bakay,Marina
+A1 Chen,Yi-wen
+A1 Hilmer,Sara
+A1 Shneiderman,Ben
+A1 Hoffman,Eric,P.
+YR 2004
+T1 Interactively optimizing signal-to-noise ratios in expression profiling: project-specific algorithm selection and detection p-value weighting in Affymetrix microarrays
+JF Bioinformatics/computer Applications in The Biosciences
+VO 20
+SP 2534
+OP 2544
+IS 16
+
+RT Journal Article
+ID 6616717
+A1 Ceaparu,Irina
+A1 Lazar,Jonathan
+A1 Bessiere,Katie
+A1 Robinson,John
+A1 Shneiderman,Ben
+YR 2004
+T1 Determining Causes and Severity of End-User Frustration
+JF International Journal of Human-computer Interaction
+VO 17
+SP 333
+OP 356
+IS 3
+
+RT Journal Article
+ID 1755541
+A1 Baehrecke,Eric,H.
+A1 Dang,Niem
+A1 Babaria,Ketan
+A1 Shneiderman,Ben
+YR 2004
+T1 Visualization and analysis of microarray and gene ontology data with treemaps
+JF BMC Bioinformatics
+VO 5
+SP 84
+OP 12
+IS 1
+
+RT Conference Proceedings
+ID 1764184
+A1 Chintalapani,Gouthami
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+YR 2004
+T1 Extending the Utility of Treemaps with Flexible Hierarchy
+SP 335
+OP 344
+
+RT Journal Article
+ID 1702496
+A1 Kules,Bill
+A1 Kang,Hyunmo
+A1 Plaisant,Catherine
+A1 Rose,Anne
+A1 Shneiderman,Ben
+YR 2004
+T1 Immediate usability: a case study of public access design for a community photo library
+JF Interacting with Computers
+VO 16
+SP 1171
+OP 1193
+IS 6
+
+RT Journal Article
+ID 1243248
+A1 Shneiderman,Ben
+YR 2004
+T1 Designing for fun: how can we design user interfaces to be more fun?
+JF Interactions
+VO 11
+SP 48
+OP 50
+IS 5
+
+RT Journal Article
+ID 2180400
+A1 Ceaparu,Irina
+A1 Shneiderman,Ben
+YR 2004
+T1 Finding governmental statistical data on the Web: A study of categorically organized links for the FedStats topics page
+JF Journal of The American Society for Information Science and Technology
+VO 55
+SP 1008
+OP 1015
+IS 11
+
+RT Journal Article
+ID 2854122
+A1 Shneiderman,B.
+YR 2004
+T1 Comment during session at InfoVis 2004
+
+RT Conference Proceedings
+ID 1892881
+A1 Marchionini,Gary
+A1 Haas,Stephanie,W.
+A1 Shneiderman,Ben
+A1 Plaisant,Catherine
+A1 Hert,Carol,A.
+YR 2004
+T1 Toward the National Statistical Knowledge Network
+
+RT Conference Proceedings
+ID 893741
+A1 Shneiderman,Ben
+YR 2004
+T1 Human needs and mobile technologies: small, fast, and fun
+SP 1
+OP 1
+
+RT Conference Proceedings
+ID 50388664
+A1 Seo,Jinwook
+A1 Shneiderman,Ben
+YR 2004
+T1 A Rank-by-Feature Framework for Unsupervised Multidimensional Data Exploration Using Low Dimensional Projections
+SP 65
+OP 72
+
+RT Conference Proceedings
+ID 1764172
+A1 Shneiderman,Ben
+YR 2004
+T1 Facilitating Understanding of Information Visualizations: Emerging Principles and Examples
+SP 5
+OP 5
+
+RT Conference Proceedings
+ID 877228
+A1 Shneiderman,Ben
+YR 2003
+T1 Promoting universal usability with multi-layer interface design
+
+RT Conference Proceedings
+ID 1892848
+A1 Kang,Hyunmo
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+YR 2003
+T1 New Approaches to Help Users Get Started with Visual Interfaces: Multi-Layered Interfaces and Integrated Initial Guidance
+
+RT Journal Article
+ID 1220984
+A1 Shneiderman,Ben
+YR 2003
+T1 Why Not Make Interfaces Better than 3D Reality?
+JF IEEE Computer Graphics and Applications
+VO 23
+SP 12
+OP 15
+IS 6
+
+RT Journal Article
+ID 15312891
+A1 Shneiderman,Ben
+YR 2003
+T1 Leonardo's Laptop: Human Needs and the New Computing Technologies
+JF The Electronic Library
+VO 21
+SP 174
+OP 175
+IS 2
+
+RT Conference Proceedings
+ID 12660196
+A1 Hochheiser,Harry
+A1 Baehrecke,Eric,H.
+A1 Mount,Stephen,M.
+A1 Shneiderman,Ben
+YR 2003
+T1 Dynamic querying for pattern identification in microarray and genomic data
+
+RT Journal Article
+ID 36089001
+A1 Zhao,Po
+A1 Seo,Jinwook
+A1 Wang,Zuyi
+A1 Wang,Yue
+A1 Shneiderman,Ben
+A1 Hoffman,Eric,P.
+YR 2003
+T1 In vivo filtering of in vitro expression data reveals MyoD targets
+JF Comptes Rendus Biologies
+VO 326
+SP 1049
+OP 1065
+IS 10
+
+RT Journal Article
+ID 2295768
+A1 Lazar,Jonathan
+A1 Bessiere,Katie
+A1 Ceaparu,Irina
+A1 Robinson,John
+A1 Shneiderman,Ben
+YR 2003
+T1 Help! I'm Lost: User Frustration in Web Navigation
+
+RT Conference Proceedings
+ID 11999114
+A1 Seo,Jinwook
+A1 Bakay,Marina
+A1 Zhao,Po
+A1 Chen,Yi-Wen
+A1 Clarkson,Priscilla
+A1 Shneiderman,Ben
+A1 Hoffman,Eric,P
+YR 2003
+T1 Interactive color mosaic and dendrogram displays for signal/noise optimization in microarray data analysis
+
+RT Conference Proceedings
+ID 1893081
+A1 Marchionini,Gary
+A1 Haas,Stephanie,W.
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+YR 2003
+T1 Toward a Statistical Knowledge Network
+
+RT Conference Proceedings
+ID 1892782
+A1 Kang,Hyunmo
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+YR 2003
+T1 Helping Users Get Started with Visual Interfaces: Multi-Layered Interfaces, Integrated Initial Guidance and Video Demonstrations
+
+RT Conference Proceedings
+ID 450511
+A1 Kang,Hyunmo
+A1 Shneiderman,Ben
+YR 2003
+T1 MediaFinder: an interface for dynamic personal media management with semantic regions
+SP 764
+OP 765
+
+RT Conference Proceedings
+ID 1892888
+A1 Kules,Bill
+A1 Shneiderman,Ben
+A1 Plaisant,Catherine
+YR 2003
+T1 Data Exploration with Paired Hierarchical Visualizations: Initial Designs of Pair Trees
+
+RT Journal Article
+ID 774262
+A1 Hert,Carol,A.
+A1 Liddy,Elizabeth,D.
+A1 Shneiderman,Ben
+A1 Marchionini,Gary
+YR 2003
+T1 Supporting statistical electronic table usage by citizens
+JF Communications of The ACM
+VO 46
+SP 52
+OP 54
+IS 1
+
+RT Journal Article
+ID 36595
+A1 Zhao,Haixia
+A1 Shneiderman,Ben
+YR 2003
+T1 Image-based highly interactive Web mapping for geo- referenced data publishing1
+
+RT Journal Article
+ID 825847
+A1 Golub,Evan
+A1 Shneiderman,Ben
+YR 2003
+T1 Dynamic query visualizations on World Wide Web clients: a DHTML solution for maps and scattergrams
+JF International Journal of Web Engineering and Technology
+VO 1
+SP 63
+OP 78
+IS 1
+
+RT Conference Proceedings
+ID 1892935
+A1 Zhao,Haixia
+A1 Shneiderman,Ben
+A1 Plaisant,Catherine
+A1 Zotkin,Dmitry,N.
+A1 Duraiswami,Ramani
+YR 2003
+T1 Improving Accessibility and Usability of Geo-referenced Statistical Data
+
+RT Conference Proceedings
+ID 1893068
+A1 Kules,Bill
+A1 Shneiderman,Ben
+YR 2003
+T1 Designing a Metadata Driven Visual Information Browser for Federal Statistics
+
+RT Journal Article
+ID 3771788
+A1 Zhao,H.
+A1 Plaisant,C.
+A1 Shneiderman,B.
+A1 Zotkin,D.,N.
+A1 Duraiswami,R.
+YR 2003
+T1 Sonification of dynamic choro-pleth maps: Geo-referenced data exploration for the vision-impaired
+
+RT Journal Article
+ID 15309580
+A1 Golub,Evan
+A1 Shneiderman,Ben
+YR 2003
+T1 Dynamic query visualisations on World Wide Web clients: a DHTML solution for maps and scattergrams
+JF International Journal of Web Engineering and Technology
+VO 1
+SP 63
+IS 1
+
+RT Journal Article
+ID 3259007
+A1 Hochheiser,H.
+A1 Shneiderman,B.
+YR 2003
+T1 Interactive graphical querying of time series and linear sequences data sets Computer Science
+
+RT Conference Proceedings
+ID 1853210
+A1 Grinstein,Georges,G.
+A1 Kobsa,Alfred
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+A1 Stasko,John,T.
+YR 2003
+T1 Which Comes First, Utility or Usability?
+SP 605
+OP 606
+
+RT Journal Article
+ID 764946
+A1 Bederson,Benjamin,B.
+A1 Shneiderman,Ben
+A1 Wattenberg,Martin
+YR 2002
+T1 Ordered and quantum treemaps: Making effective use of 2D space to display hierarchies
+JF ACM Transactions on Graphics
+VO 21
+SP 833
+OP 854
+IS 4
+
+RT Journal Article
+ID 847141
+A1 Seo,Jinwook
+A1 Shneiderman,Ben
+YR 2002
+T1 Interactively Exploring Hierarchical Clustering Results
+JF IEEE Computer
+VO 35
+SP 80
+OP 86
+IS 7
+
+RT Journal Article
+ID 745782
+A1 Shneiderman,Ben
+YR 2002
+T1 Inventing discovery tools: combining information visualization with data mining?
+JF Information Visualization
+VO 1
+SP 5
+OP 12
+IS 1
+
+RT Journal Article
+ID 775979
+A1 Shneiderman,Ben
+YR 2002
+T1 Creativity support tools
+JF Communications of The ACM
+VO 45
+SP 116
+OP 120
+IS 10
+
+RT Journal Article
+ID 1610415
+A1 Seo,Jinwook
+A1 Shneiderman,B.
+YR 2002
+T1 Interactively exploring hierarchical clustering results [gene identification]
+JF IEEE Computer
+VO 35
+SP 80
+OP 86
+IS 7
+
+RT Book, Whole
+ID 53895
+A1 Keogh,Eamonn,J.
+A1 Hochheiser,Harry
+A1 Shneiderman,Ben
+YR 2002
+T1 An Augmented Visual Query Mechanism for Finding Patterns in Time Series Data
+SP 240
+OP 250
+
+RT Conference Proceedings
+ID 3224263
+A1 Ceaparu,Irina
+A1 Shneiderman,Ben
+YR 2002
+T1 Improving Web-based civic information access: a case study of the 50 US states
+
+RT Journal Article
+ID 869569
+A1 Shneiderman,Ben
+A1 Kang,Hyunmo
+A1 Kules,Bill
+A1 Plaisant,Catherine
+A1 Rose,Anne
+A1 Rucheir,Richesh
+YR 2002
+T1 A photo history of SIGCHI: evolution of design from personal to public
+JF Interactions
+VO 9
+SP 17
+OP 23
+IS 3
+
+RT Journal Article
+ID 3068423
+A1 Zaphiris,Panayiotis
+A1 Shneiderman,Ben
+A1 Norman,Kent,L.
+YR 2002
+T1 Expandable indexes vs. sequential menus for searching hierarchies on the World Wide Web
+VO 21
+SP 201
+OP 207
+IS 3
+
+RT Conference Proceedings
+ID 894326
+A1 Scholtz,Jean
+A1 Johnson,Jeff
+A1 Shneiderman,Ben
+A1 Hope-Tindall,Peter
+A1 Gosling,Marcus
+A1 Phillips,Jonathon
+A1 Wexelblat,Alan
+YR 2002
+T1 Interacting with identification technology: can it make us more secure?
+SP 564
+OP 565
+
+RT Journal Article
+ID 6354
+A1 Bessiere,Katie
+A1 Ceaparu,Irina
+A1 Lazar,Jonathan
+A1 Robinson,John
+A1 Shneiderman,Ben
+YR 2002
+T1 Understanding Computer User Frustration: Measuring and Modeling the Disruption from Poor Designs
+
+RT Journal Article
+ID 774146
+A1 Shneiderman,Ben
+YR 2002
+T1 ACM's computing professionals face new challenges
+JF Communications of The ACM
+VO 45
+SP 31
+OP 34
+IS 2
+
+RT Journal Article
+ID 869551
+A1 Shneiderman,Ben
+YR 2002
+T1 Understanding human reactivites and relationships: an excerpt from Leonardo's laptop
+JF Interactions
+VO 9
+SP 40
+OP 53
+IS 5
+
+RT Journal Article
+ID 4450140
+A1 Shneiderman,Ben
+YR 2002
+T1 Promoting universal usability with multi-layer interface design
+JF ACM Sigcaph Computers and The Physically Handicapped
+SP 1
+OP 8
+IS 73-74
+
+RT Conference Proceedings
+ID 924764
+A1 Shneiderman,Ben
+YR 2002
+T1 Creativity support tools: a tutorial overview
+SP 1
+OP 2
+
+RT Conference Proceedings
+ID 894303
+A1 Hochheiser,Harry
+A1 Shneiderman,Ben
+YR 2002
+T1 A dynamic query interface for finding patterns in time series data
+SP 522
+OP 523
+
+RT Journal Article
+ID 3273791
+A1 Schneiderman,B.
+YR 2002
+T1 Inventing Discovery Tools: Combining Information Visualization with Data Mining
+JF Information Visualization
+
+RT Conference Proceedings
+ID 894387
+A1 Shneiderman,Ben
+A1 Card,Stuart,K.
+A1 Norman,Donald,A.
+A1 Tremaine,Marilyn
+A1 Waldrop,M.,Mitchell
+YR 2002
+T1 CHI@20: fighting our way from marginality to power
+SP 688
+OP 691
+
+RT Conference Proceedings
+ID 34310
+A1 Kang,Hyunmo
+A1 Shneiderman,Ben
+A1 Wolff,Gregory,J.
+YR 2002
+T1 Dynamic Layout Management in a Multimedia Bulletin Board
+SP 51
+OP 53
+
+RT Journal Article
+ID 850140
+A1 Shneiderman,Ben
+YR 2002
+T1 Meeting Human Needs with New Digital Imaging Technologie
+JF IEEE Multimedia
+VO 9
+SP 8
+OP 14
+IS 4
+
+RT Journal Article
+ID 3175291
+A1 Shneiderman,B.
+YR 2002
+T1 HCI theory is like the public library
+
+RT Conference Proceedings
+ID 894397
+A1 James,Frankie
+A1 Lai,Jennifer
+A1 Suhm,Bernhard
+A1 Balentine,Bruce
+A1 Makhoul,John
+A1 Nass,Clifford
+A1 Shneiderman,Ben
+YR 2002
+T1 Getting real about speech: overdue or overhyped?
+SP 708
+OP 709
+
+RT Journal Article
+ID 57189493
+A1 Shneiderman,Ben
+YR 2002
+T1 Inventing Discovery Tools: Combining Information Visualization with Data Mining1
+JF Information Visualization
+VO 1
+SP 5
+OP 12
+IS 1
+
+RT Journal Article
+ID 857547
+A1 Shneiderman,Ben
+YR 2002
+T1 IEEE Multimedia: Visions and Views - Meeting Human Needs with New Digital Imaging Technologies
+JF IEEE Distributed Systems Online
+VO 3
+IS 11
+
+RT Conference Proceedings
+ID 682893
+A1 Shneiderman,Ben
+A1 Wattenberg,Martin
+YR 2001
+T1 Ordered Treemap Layouts
+SP 73
+OP 78
+
+RT Book, Whole
+ID 445156
+A1 Shneiderman,Ben
+YR 2001
+T1 Inventing Discovery Tools: Combining Information Visualization with Data Mining
+SP 58
+OP 28
+
+RT Journal Article
+ID 265810
+A1 Hochheiser,Harry
+A1 Shneiderman,Ben
+YR 2001
+T1 Using interactive visualizations of WWW log data to characterize access patterns and inform site design
+JF Journal of The American Society for Information Science and Technology
+VO 52
+SP 331
+OP 343
+IS 4
+
+RT Conference Proceedings
+ID 436880
+A1 Dang,Gunjan
+A1 North,Chris
+A1 Shneiderman,Ben
+YR 2001
+T1 Dynamic Queries and Brushing on Choropleth Maps
+SP 757
+OP 764
+
+RT Book, Whole
+ID 458875
+A1 Hochheiser,Harry
+A1 Shneiderman,Ben
+YR 2001
+T1 Interactive Exploration of Time Series Data
+SP 441
+OP 446
+
+RT Journal Article
+ID 869644
+A1 Hochheiser,Harry
+A1 Shneiderman,Ben
+YR 2001
+T1 Universal usability statements: Marking the trail for all users
+JF Interactions
+VO 8
+SP 16
+OP 18
+IS 2
+
+RT Journal Article
+ID 126928
+A1 Marchionini,Gary
+A1 Hert,Carol
+A1 Shneiderman,Ben
+A1 Liddy,Liz
+YR 2001
+T1 E-Tables: NonSpecialist Use and Understanding of Statistical Data
+
+RT Journal Article
+ID 4440711
+A1 Shneiderman,Ben
+A1 Hochheiser,Harry
+YR 2001
+T1 Universal usability as a stimulus to advanced interface design
+JF Behaviour & Information Technology
+VO 20
+SP 367
+OP 376
+IS 5
+
+RT Conference Proceedings
+ID 894619
+A1 North,Chris
+A1 Shneiderman,Ben
+YR 2001
+T1 Component-based, user-constructed, multiple-view visualization
+SP 201
+OP 202
+
+RT Book, Whole
+ID 2989909
+A1 Tang,Lida
+A1 Shneiderman,Ben
+YR 2001
+T1 Dynamic Aggregation to Support Pattern Discovery: A Case Study with Web Logs
+SP 464
+OP 469
+
+RT Journal Article
+ID 9027
+A1 Tang,Lida
+A1 Shneiderman,Ben
+YR 2001
+T1 Dynamic Aggregation to Support Pattern Discovery
+
+RT Journal Article
+ID 869643
+A1 Shneiderman,Ben
+YR 2001
+T1 Design: CUU: bridging the digital divide with universal usability
+JF Interactions
+VO 8
+SP 11
+OP 15
+IS 2
+
+RT Conference Proceedings
+ID 436730
+A1 Shneiderman,Ben
+YR 2001
+T1 Information Visualization: The Path from Innovation to Adoption
+SP 3
+
+RT Journal Article
+ID 39371600
+A1 Hochheiser,Harry
+A1 Shneiderman,Ben
+YR 2001
+T1 Using interactive visualizations of WWW log data to characterize access patterns and inform site design
+JF Journal of The American Society for Information Science and Technology
+VO 52
+SP 331
+OP 343
+IS 4
+
+RT Conference Proceedings
+ID 232465
+A1 Kang,Hyunmo
+A1 Shneiderman,Ben
+YR 2000
+T1 Visualization Methods for Personal Photo Collections: Browsing and Searching in the PhotoFinder
+SP 1539
+OP 1542
+
+RT Conference Proceedings
+ID 240069
+A1 Shneiderman,Ben
+A1 Kang,Hyunmo
+YR 2000
+T1 Direct Annotation: A Drag-and-Drop Strategy for Labeling Photos
+SP 88
+OP 95
+
+RT Journal Article
+ID 774145
+A1 Shneiderman,Ben
+YR 2000
+T1 Universal usability
+JF Communications of The ACM
+VO 43
+SP 84
+OP 91
+IS 5
+
+RT Conference Proceedings
+ID 162576
+A1 North,Chris
+A1 Shneiderman,Ben
+YR 2000
+T1 Snap-together visualization: a user interface for coordinating visualizations via relational schemata
+SP 128
+OP 135
+
+RT Journal Article
+ID 837448
+A1 Shneiderman,Ben
+YR 2000
+T1 Creating creativity: user interfaces for supporting innovation
+JF ACM Transactions on Computer-human Interaction
+VO 7
+SP 114
+OP 138
+IS 1
+
+RT Journal Article
+ID 775978
+A1 Shneiderman,Ben
+YR 2000
+T1 Designing trust into online experiences
+JF Communications of The ACM
+VO 43
+SP 57
+OP 59
+IS 12
+
+RT Conference Proceedings
+ID 429669
+A1 Shneiderman,Ben
+A1 Feldman,David
+A1 Rose,Anne
+A1 Grau,Xavier,Ferré
+YR 2000
+T1 Visualizing digital library search results with categorical and hierarchical axes
+SP 57
+OP 66
+
+RT Journal Article
+ID 160501
+A1 Shneiderman,Ben
+YR 2000
+T1 The limits of speech recognition
+JF Communications of The ACM
+VO 43
+SP 63
+OP 65
+IS 9
+
+RT Journal Article
+ID 826096
+A1 Greene,Stephan
+A1 Marchionini,Gary
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+YR 2000
+T1 Previews and overviews in digital libraries: Designing surrogates to support visual information seeking
+JF Journal of The American Society for Information Science
+VO 51
+SP 380
+OP 393
+IS 4
+
+RT Journal Article
+ID 101822
+A1 Shneiderman,Ben
+YR 2000
+T1 Universal Usability: Pushing Human-Computer Interaction Research to Empower Every Citizen
+JF Communications of The ACM
+
+RT Journal Article
+ID 78077
+A1 North,Chris
+A1 Shneiderman,Ben
+YR 2000
+T1 Snap-together visualization: can users construct and operate coordinated visualizations?
+JF International Journal of Human-computer Studies / International Journal of Man-machine Studies
+VO 53
+SP 715
+OP 739
+IS 5
+
+RT Conference Proceedings
+ID 187412
+A1 Christian,Kevin
+A1 Kules,Bill
+A1 Shneiderman,Ben
+A1 Youssef,Adel,M.
+YR 2000
+T1 A comparison of voice controlled and mouse controlled web browsing
+SP 72
+OP 79
+
+RT Journal Article
+ID 132891
+A1 Hochheiser,Harry
+A1 Shneiderman,Ben
+YR 2000
+T1 Performance Benefits of Simultaneous Over Sequential Menus as Task Complexity Increases
+JF International Journal of Human-computer Interaction
+VO 12
+SP 173
+OP 192
+IS 2
+
+RT Journal Article
+ID 1396317
+A1 Schneiderman,B
+YR 2000
+T1 The limits of speech recognition
+JF Communications of The ACM
+
+RT Conference Proceedings
+ID 4019710
+A1 Johnson,B.
+A1 Schneiderman,B.
+YR 2000
+T1 Tree-maps: a Space-filling Approach to the Visualization of Hierarchical Information Structures
+
+RT Conference Proceedings
+ID 233416
+A1 Gandhi,Rajiv
+A1 Bederson,Benjamin,B.
+A1 Kumar,G.
+A1 Shneiderman,Ben
+YR 2000
+T1 Domain Name Based Visualization of Web Histories in a Zoomable User Interface
+SP 591
+OP 600
+
+RT Journal Article
+ID 2909361
+A1 Schneiderman,B.
+YR 2000
+T1 Creating Creativity: User Interfaces for Supporting Innovation
+JF ACM Transactions on Computer-human Interaction
+
+RT Journal Article
+ID 268065
+A1 North,Chris
+A1 Shneiderman,Ben
+YR 2000
+T1 Snap-Together Visualization: Evaluating Coordination Usage and Construction
+
+RT Conference Proceedings
+ID 190020
+A1 Marchionini,Gary
+A1 Hert,Carol,A.
+A1 Liddy,Liz
+A1 Shneiderman,Ben
+YR 2000
+T1 Extending understanding of federal statistics in tables
+
+RT Conference Proceedings
+ID 188377
+A1 Tanin,Egemen
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+YR 2000
+T1 BROWSING LARGE ONLINE DATA WITH QUERY PREVIEWS
+
+RT Journal Article
+ID 1375548
+A1 Schneiderman,B
+YR 2000
+T1 Universal usability: pushing human-computer interaction research to empower every citizen
+JF Communications of The ACM
+
+RT Conference Proceedings
+ID 598578
+A1 Shneiderman,Ben
+YR 2000
+T1 Supporting Creativity with Powerful Composition Tools for Artifacts and Performances
+
+RT Journal Article
+ID 2022118
+A1 Tanin,E.
+A1 Plaisant,C.
+A1 Shneiderman,B.
+YR 2000
+T1 Generalizing Query Previews: Broadening Access to Large Online Databases
+
+RT Conference Proceedings
+ID 10324655
+A1 Marchionini,Gary
+A1 Hert,Carol
+A1 Liddy,Liz
+A1 Shneiderman,Ben
+YR 2000
+T1 Extending understanding of federal statistics in tables
+SP 132
+OP 138
+
+RT Conference Proceedings
+ID 188924
+A1 Hochheiser,Harry
+A1 Shneiderman,Ben
+YR 2000
+T1 Coordinating Overviews and Detail Views of WWW Log Data
+
+RT Journal Article
+ID 3901275
+A1 Shneiderman,B.
+YR 2000
+T1 The Future of the Web: Visual
+
+RT Journal Article
+ID 877968
+A1 Shneiderman,Ben
+A1 Hewett,Tom
+YR 2000
+T1 A trip report on creativity &amp; cognition 1999: an insider's report on a far out conference
+JF ACM Sigchi Bulletin
+
+RT Journal Article
+ID 14420301
+A1 Shneiderman,Ben
+A1 Hewett,Tom
+YR 2000
+T1 A trip report on creativity & cognition 1999: an insider's report on a far out conference
+JF ACM Sigchi Bulletin
+VO 32
+SP 43
+OP 46
+IS 1
+
+RT Journal Article
+ID 869194
+A1 Gehl,John
+A1 Shneiderman,Ben
+YR 2000
+T1 Credit for computer crashes?: creative solutions to usability problems can serve all users
+JF Ubiquity
+VO 2000
+SP 2
+IS October
+
+RT Journal Article
+ID 877960
+A1 Shneiderman,Ben
+YR 2000
+T1 Report on closing the digital divide: meeting of the Deparment of Commerce, Washington, DC December 9, 1999
+JF ACM Sigchi Bulletin
+
+RT Journal Article
+ID 14420306
+A1 Shneiderman,Ben
+YR 2000
+T1 Report on closing the digital divide: meeting of the Deparment of Commerce, Washington, DC December 9, 1999
+JF ACM Sigchi Bulletin
+VO 32
+SP 43
+OP 44
+IS 2
+
+RT Journal Article
+ID 47349026
+A1 Shneiderman,Ben
+YR 2000
+T1 Universal Usability
+JF Ubiquity
+VO 2000
+SP 1
+IS August
+
+RT Journal Article
+ID 39210365
+A1 Shneiderman,Ben
+YR 2000
+T1 Universal Usability
+
+RT Book, Whole
+ID 1310056
+A1 Card,Stuart,K.
+A1 Mackinlay,Jock,D.
+A1 Shneiderman,Ben
+YR 1999
+T1 Readings in information visualization - using vision to think
+
+RT Journal Article
+ID 133196
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+A1 Doan,Khoa
+A1 Bruns,Tom
+YR 1999
+T1 Interface and data architecture for query preview in networked information systems
+JF ACM Transactions on Information Systems
+VO 17
+SP 320
+OP 341
+IS 3
+
+RT Journal Article
+ID 2058232
+A1 Schneiderman,B.
+YR 1999
+T1 Designing the User Interface
+
+RT Journal Article
+ID 131545
+A1 Greene,Stephan
+A1 Marchionini,Gary
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+A1 STRACT,AB
+YR 1999
+T1 Previews and Overviews in Digital Libraries: Designing Surrogates to Support Visual Information Seeking
+
+RT Journal Article
+ID 3326146
+A1 Plaisant,Catherine
+A1 Mushlin,Richard
+A1 Snyder,Aaron
+A1 Li,Jia
+A1 Heller,Dan
+A1 Shneiderman,Ben
+YR 1999
+T1 LifeLines: Using Visualization to Enhance Navigation and Analysis of Patient Records
+
+RT Conference Proceedings
+ID 95395
+A1 Plaisant,Catherine
+A1 Rose,Anne
+A1 Rubloff,Gary
+A1 Salter,Richard
+A1 Shneiderman,Ben
+YR 1999
+T1 The Design of History Mechanisms and their Use in Collaborative Educational Simulations
+
+RT Journal Article
+ID 206365
+A1 Hochheiser,Harry
+A1 Human,Ben,Shneiderman
+YR 1999
+T1 Understanding Patterns of User Visits to Web Sites: Interactive Starfield Visualizations of WWW Log Data
+
+RT Conference Proceedings
+ID 250182
+A1 Fredrikson,Anna
+A1 North,Chris
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+YR 1999
+T1 Temporal, geographical and categorical aggregations viewed through coordinated displays: a case study with highway incident data
+SP 26
+OP 34
+
+RT Conference Proceedings
+ID 2992721
+A1 Shneiderman,Ben
+YR 1999
+T1 Dynamic queries, starfield displays, and the path to Spotfire
+
+RT Journal Article
+ID 181953
+A1 Zhang,Zhijun
+A1 Basili,Victor,R.
+A1 Shneiderman,Ben
+YR 1999
+T1 Perspective-based Usability Inspection: An Empirical Validation of Efficacy
+JF Empirical Software Engineering
+VO 4
+SP 43
+OP 69
+IS 1
+
+RT Journal Article
+ID 794671
+A1 Greene,Stephan
+A1 Tanin,Egemen
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+A1 Olsen,Lola
+A1 Major,Gene
+A1 Johns,Steve
+YR 1999
+T1 The End of Zero-hit Queries: Query Previews for NASA's Global Change Master Directory
+JF International Journal on Digital Libraries
+VO 2
+SP 79
+OP 90
+IS 2-3
+
+RT Journal Article
+ID 120418
+A1 North,Chris
+A1 Shneiderman,Ben
+YR 1999
+T1 Snap-Together Visualization: Coordinating Multiple Views to Explore Information
+
+RT Journal Article
+ID 247185
+A1 Shneiderman,Ben
+YR 1999
+T1 Supporting Creativity with Advanced Information-Abundant User Interfaces
+
+RT Journal Article
+ID 883033
+A1 Brown,Judith,R.
+A1 Dam,Andy,van
+A1 Earnshaw,Rae,A.
+A1 Encarnação,José,L.
+A1 Guedj,Richard
+A1 Preece,Jennifer
+A1 Shneiderman,Ben
+A1 Vince,John
+YR 1999
+T1 Human-Centered Computing, Online Communities, and Virtual Environments
+JF IEEE Computer Graphics and Applications
+VO 19
+SP 70
+OP 74
+IS 6
+
+RT Conference Proceedings
+ID 924799
+A1 Shneiderman,Ben
+YR 1999
+T1 User interfaces for creativity support tools
+SP 15
+OP 22
+
+RT Journal Article
+ID 129915
+A1 Shneiderman,Ben
+YR 1999
+T1 Creating Creativity for Everyone: User Interfaces f or Supporting Innovation
+
+RT Journal Article
+ID 877508
+A1 Shneiderman,Ben
+YR 1999
+T1 Human values and the future of technology: a declaration of responsibility
+JF ACM Sigcas Computers and Society
+
+RT Journal Article
+ID 3562332
+A1 Hochheiser,Harry
+A1 Shneiderman,Ben
+YR 1999
+T1 Performance Benefits of Simultaneous Over Sequential Menus as Task Complexity Increases
+VO 12
+SP 173
+OP 192
+
+RT Conference Proceedings
+ID 895011
+A1 Friedman,Batya
+A1 Thomas,John,C.
+A1 Grudin,Jonathan
+A1 Nass,Clifford
+A1 Nissenbaum,Helen
+A1 Schlager,Mark
+A1 Schneiderman,Ben
+YR 1999
+T1 Trust me, I'm accountable: trust and accountability online
+SP 79
+OP 80
+
+RT Journal Article
+ID 15277187
+A1 Zhang,Zhijun
+A1 Basili,Victor
+A1 Shneiderman,Ben
+YR 1999
+T1 Perspective-based Usability Inspection: An Empirical Validation of Efficacy
+JF Empirical Software Engineering
+VO 4
+SP 43
+OP 69
+IS 1
+
+RT Journal Article
+ID 4224030
+A1 Card,S.,K.
+A1 Mackinlay,J.,D.
+A1 Schneiderman,B.
+YR 1999
+T1 Readings in Information Visualization: Using Vision to Think: Morgan Kaufmann
+
+RT Journal Article
+ID 132901
+A1 Harris,Chanda
+A1 Allen,Robert,B.
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+YR 1999
+T1 Temporal Visualization for Legal Case Histories
+
+RT Journal Article
+ID 877977
+A1 Scholtz,Jean
+A1 Muller,Michael
+A1 Novick,David
+A1 Olsen,Dan,R.
+A1 Shneiderman,Ben
+A1 Wharton,Cathleen
+YR 1999
+T1 A research agenda for highly effective human-computer interaction: useful, usable, and universal
+JF ACM Sigchi Bulletin
+
+RT Journal Article
+ID 39213052
+A1 Brown,Judith,R.
+A1 Dam,Andy,van
+A1 Earnshaw,Rae
+A1 Encarnação,Jose
+A1 Guedj,Richard
+A1 Preece,Jennifer
+A1 Shneiderman,Ben
+A1 Vince,John
+YR 1999
+T1 Human-centered computing, online communities and virtual environments
+JF ACM Siggraph Computer Graphics
+SP 42
+OP 62
+
+RT Conference Proceedings
+ID 895065
+A1 Scholtz,Jean,C.
+A1 Muller,Michael
+A1 Novick,David
+A1 Shneiderman,Ben
+A1 Wharton,Cathleen
+YR 1999
+T1 An international SIGCHI research agenda
+SP 171
+OP 171
+
+RT Journal Article
+ID 14420295
+A1 Scholtz,Jean
+A1 Muller,Michael
+A1 Novick,David
+A1 Jr.,Dan,R.,Olsen
+A1 Shneiderman,Ben
+A1 Wharton,Cathleen
+YR 1999
+T1 A research agenda for highly effective human-computer interaction: useful, usable, and universal
+JF ACM Sigchi Bulletin
+VO 31
+SP 13
+OP 16
+IS 4
+
+RT Conference Proceedings
+ID 895150
+A1 Johnson,Jeff
+A1 Shneiderman,Ben
+A1 Soloway,Elliot
+A1 Henderson,Austin
+A1 Simons,Barbara
+YR 1999
+T1 SIGCHI's role in influencing technology policy
+SP 349
+OP 349
+
+RT Journal Article
+ID 731864
+A1 Scholtz,Jean
+A1 Shneiderman,Ben
+YR 1999
+T1 Introduction to Special Issue on Usability Engineering
+JF Empirical Software Engineering
+VO 4
+SP 5
+OP 10
+IS 1
+
+RT Journal Article
+ID 15277188
+A1 Scholtz,Jean
+A1 Shneiderman,Ben
+YR 1999
+T1 Introduction to Special Issue on Usability Engineering
+JF Empirical Software Engineering
+VO 4
+SP 5
+OP 10
+IS 1
+
+RT Journal Article
+ID 14423358
+A1 Shneiderman,Ben
+YR 1999
+T1 Human values and the future of technology: a declaration of responsibility
+JF ACM Sigcas Computers and Society
+VO 29
+SP 5
+OP 9
+IS 3
+
+RT Journal Article
+ID 1263549
+A1 Card,S.,K.
+A1 Mackinlay,J.
+A1 Shneiderman,B.
+YR 1998
+T1 Readings in information visualization: using vision to think
+
+RT Journal Article
+ID 776736
+A1 Shneiderman,Ben
+A1 Byrd,Donald
+A1 Croft,W.,Bruce
+YR 1998
+T1 Sorting out searching: a user-interface framework for text searches
+JF Communications of The ACM
+VO 41
+SP 95
+OP 98
+IS 4
+
+RT Journal Article
+ID 743051
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+A1 Mushlin,Rich
+YR 1998
+T1 An Information Architecture to Support the Visualization of Personal Histories
+JF Information Processing and Management
+VO 34
+SP 581
+OP 597
+IS 5
+
+RT Journal Article
+ID 4638873
+A1 Shneiderman,Ben
+A1 Borkowski,Ellen,Yu
+A1 Alavi,Maryam
+A1 Norman,Kent
+YR 1998
+T1 Emergent patterns of teaching/learning in electronic classrooms
+JF Educational Technology Research and Development
+VO 46
+SP 23
+OP 42
+IS 4
+
+RT Journal Article
+ID 895224
+A1 Shneiderman,Ben
+YR 1998
+T1 Codex, Memex, Genex: The Pursuit of Transformational Technologies
+JF International Journal of Human-computer Interaction
+VO 10
+SP 87
+OP 106
+IS 2
+
+RT Journal Article
+ID 174248
+A1 Zhang,Zhijun
+A1 Basili,Victor
+A1 Shneiderman,Ben
+YR 1998
+T1 An Empirical Study Of Perspective-Based Usability Inspection
+
+RT Conference Proceedings
+ID 895189
+A1 Plaisant,Catherine
+A1 Heller,Daniel
+A1 Li,Jia
+A1 Shneiderman,Ben
+A1 Mushlin,Rich
+A1 Karat,John
+YR 1998
+T1 Visualizing medical records with LifeLines
+SP 28
+OP 29
+
+RT Conference Proceedings
+ID 130785
+A1 Li,Jia
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+YR 1998
+T1 Data object and label placement for information abundant visualizations
+SP 41
+OP 48
+
+RT Journal Article
+ID 213417
+A1 Tanin,Egemen
+A1 Lotem,Amnon
+A1 Haddadin,Ihab
+A1 Shneiderman,Ben
+A1 Plaisant,Catherine
+A1 Slaughter,Laura
+YR 1998
+T1 Facilitati ng Network Data Exploration with Query Previews: A Study of User Performance and Preference
+JF Behaviour & Information Technology
+
+RT Journal Article
+ID 2946266
+A1 Ben,Shneiderman
+YR 1998
+T1 Designing the User Interface
+
+RT Conference Proceedings
+ID 895218
+A1 Laurillard,Diana
+A1 Preece,Jenny
+A1 Shneiderman,Ben
+A1 Neal,Lisa
+A1 Wærn,Yvonne
+YR 1998
+T1 Distance learning: is it the end of education as most of us know it?
+SP 86
+OP 87
+
+RT Conference Proceedings
+ID 895221
+A1 Shneiderman,Ben
+A1 Nielsen,Jakob
+A1 Butler,Scott
+A1 Levi,Michael
+A1 Conrad,Frederick
+YR 1998
+T1 Is the Web really different from everything else?
+SP 92
+OP 93
+
+RT Conference Proceedings
+ID 895272
+A1 Kandogan,Eser
+A1 Shneiderman,Ben
+YR 1998
+T1 Using elastic windows for World-Wide Web Browsing
+SP 189
+OP 190
+
+RT Journal Article
+ID 14557832
+A1 Shneiderman,Ben
+YR 1998
+T1 Relate–Create–Donate: a teaching/learning philosophy for the cyber-generation
+JF Computers & Education
+VO 31
+SP 25
+OP 39
+IS 1
+
+RT Journal Article
+ID 15196075
+A1 Kandogan,Eser
+A1 Shneiderman,Ben
+YR 1998
+T1 Elastic windows: design, implementation, and evaluation of multi‐window operations
+JF Software - Practice and Experience
+VO 28
+SP 225
+OP 248
+IS 3
+
+RT Journal Article
+ID 3892203
+A1 Greene,S.
+A1 Tanin,E.
+A1 Plaisant,C.
+A1 Shneiderman,B.
+YR 1998
+T1 The End of Zero-Hit Queries: Query Previews for NASA''s Global Change Master Dictionary
+
+RT Conference Proceedings
+ID 895250
+A1 Shneiderman,Ben
+A1 Plaisant,Catherine
+YR 1998
+T1 Information visualization advanced interface and Web design
+SP 145
+OP 146
+
+RT Journal Article
+ID 763192
+A1 Kandogan,Eser
+A1 Shneiderman,Ben
+YR 1998
+T1 Elastic Windows: Design, Implementation, and Evaluation of Multiwindow Operations
+JF Software - Practice and Experience
+VO 28
+SP 225
+OP 248
+IS 3
+
+RT Journal Article
+ID 15196076
+A1 Kandogan,Eser
+A1 Shneiderman,Ben
+YR 1998
+T1 Elastic windows: design, implementation, and evaluation of multi-window operations
+JF Software - Practice and Experience
+VO 28
+SP 225
+OP 248
+IS 3
+
+RT Journal Article
+ID 878105
+A1 Shneiderman,Ben
+YR 1998
+T1 Visualizing Personal Histories: A Workshop, July 21-22, 1997
+JF ACM Sigchi Bulletin
+
+RT Journal Article
+ID 14420243
+A1 Shneiderman,Ben
+YR 1998
+T1 Visualizing Personal Histories: A Workshop, July 21-22, 1997
+JF ACM Sigchi Bulletin
+VO 30
+SP 34
+OP 35
+IS 1
+
+RT Journal Article
+ID 39225969
+A1 Shneiderman,Ben
+YR 1998
+T1 Codex, memex, genex: the pursuit of transformational technologies
+SP 98
+OP 99
+
+RT Journal Article
+ID 1918638
+A1 Shneiderman,Ben
+A1 Byrd,Don
+A1 Croft,W.,Bruce
+YR 1997
+T1 Clarifying Search: A User-Interface Framework for Text Serches
+JF D-lib Magazine
+VO 3
+IS 1
+
+RT Journal Article
+ID 869859
+A1 Shneiderman,Ben
+A1 Maes,Pattie
+YR 1997
+T1 Direct manipulation vs. interface agents
+JF Interactions
+VO 4
+SP 42
+OP 61
+IS 6
+
+RT Conference Proceedings
+ID 222793
+A1 Shneiderman,Ben
+YR 1997
+T1 Direct manipulation for comprehensible, predictable and controllable user interfaces
+SP 33
+OP 39
+
+RT Conference Proceedings
+ID 133732
+A1 Kandogan,Eser
+A1 Shneiderman,Ben
+YR 1997
+T1 Elastic Windows: evaluation of multi-window operations
+SP 250
+OP 257
+
+RT Journal Article
+ID 160011
+A1 Shneiderman,Ben
+YR 1997
+T1 Designing information-abundant web sites: issues and recommendations
+JF International Journal of Human-computer Studies / International Journal of Man-machine Studies
+VO 47
+SP 5
+OP 29
+IS 1
+
+RT Conference Proceedings
+ID 127415
+A1 North,Chris
+A1 Shneiderman,Ben
+YR 1997
+T1 A Taxono my of Multiple Window Coordinations
+
+RT Journal Article
+ID 774151
+A1 Shneiderman,Ben
+YR 1997
+T1 Between hope and fear
+JF Communications of The ACM
+VO 40
+SP 59
+OP 62
+IS 2
+
+RT Conference Proceedings
+ID 197486
+A1 Kandogan,Eser
+A1 Shneiderman,Ben
+YR 1997
+T1 Elastic Windows: a hierarchical multi-window World-Wide Web browser
+SP 169
+OP 177
+
+RT Journal Article
+ID 211389
+A1 Doan,Khoa
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+A1 Bruns,Tom
+YR 1997
+T1 Query previews for networked information systems: a case study with NASA environmental data
+JF Sigmod Record
+VO 26
+SP 75
+OP 81
+IS 1
+
+RT Journal Article
+ID 825654
+A1 Kumar,Harsha,P.
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+YR 1997
+T1 Browsing hierarchical data with multi-level dynamic queries and pruning
+JF International Journal of Human-computer Studies / International Journal of Man-machine Studies
+VO 46
+SP 103
+OP 124
+IS 1
+
+RT Journal Article
+ID 1279774
+A1 Schneiderman,B.
+YR 1997
+T1 Designing information-abundant web sites: issues and recommendations
+
+RT Journal Article
+ID 767098
+A1 Mahajan,Rohit
+A1 Shneiderman,Ben
+YR 1997
+T1 Visual and Textual Consistency Checking Tools for Graphical User Interfaces
+JF IEEE Transactions on Software Engineering
+VO 23
+SP 722
+OP 735
+IS 11
+
+RT Book, Whole
+ID 642511
+A1 Slaughter,Laura,A.
+A1 Shneiderman,Ben
+A1 Marchionini,Gary
+YR 1997
+T1 Comprehension and Object Recognition Capabilities for Presentations of Simultaneous Video Key Frame Surrogates
+SP 41
+OP 54
+
+RT Conference Proceedings
+ID 191718
+A1 Tanin,Egemen
+A1 Beigel,Richard
+A1 Shneiderman,Ben
+YR 1997
+T1 Design and Evaluation of Incremental Data Structures and Algorithms for Dynamic Query Interfaces
+SP 81
+OP 86
+
+RT Conference Proceedings
+ID 2393623
+A1 Schneiderman,B.
+YR 1997
+T1 Direct Manipulation for Comprehensible, Predictable and Controllable User Interfaces
+
+RT Journal Article
+ID 2393624
+A1 Maes,P.
+A1 Schneiderman,B.
+YR 1997
+T1 Direct manipulation vs. interface agents: A debate
+JF Interactions
+
+RT Journal Article
+ID 1971510
+A1 Shneiderman,Ben
+YR 1997
+T1 Strategies for Effective Human-Computer Interaction: Third Edition
+
+RT Conference Proceedings
+ID 449930
+A1 Plaisant,Catherine
+A1 Bruns,Tom
+A1 Shneiderman,Ben
+A1 Doan,Khoa
+YR 1997
+T1 Query Previews in Networked Information Systems: the Case of EOSDIS
+SP 202
+OP 203
+
+RT Conference Proceedings
+ID 438419
+A1 Scarlatos,Lori,L.
+A1 Darken,Rudolph,P.
+A1 Harada,Komei
+A1 Heeter,Carrie
+A1 Muller,Richard
+A1 Shneiderman,Ben
+YR 1997
+T1 Designing interactive multimedia (panel)
+SP 215
+OP 218
+
+RT Journal Article
+ID 809863
+A1 Plaisant,Catherine
+A1 Rose,Anne
+A1 Shneiderman,Ben
+A1 Vanniamparampil,Ajit,J.
+YR 1997
+T1 Low-Effort, High-Payoff User Interface Reengineering
+JF IEEE Software
+VO 14
+SP 66
+OP 72
+IS 4
+
+RT Journal Article
+ID 46598207
+A1 Shneiderman,Ben
+YR 1997
+T1 The next generation of graphical user interfaces: information visualization and better window management
+JF Displays
+VO 17
+SP 125
+OP 129
+IS 3
+
+RT Conference Proceedings
+ID 449063
+A1 Miller,Jim
+A1 Maes,Pattie
+A1 Shneiderman,Ben
+YR 1997
+T1 Intelligent Software Agents vs. User-Controlled Direct Manipulation: A Debate (Panel)
+SP 105
+OP 106
+
+RT Journal Article
+ID 809443
+A1 Shneiderman,Ben
+YR 1997
+T1 Interface: A Framework for Search Interfaces
+JF IEEE Software
+VO 14
+SP 18
+OP 20
+IS 2
+
+RT Conference Proceedings
+ID 149960
+A1 Shneiderman,Ben
+YR 1996
+T1 The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations
+SP 336
+OP 343
+
+RT Conference Proceedings
+ID 131708
+A1 Plaisant,Catherine
+A1 Milash,Brett
+A1 Rose,Anne
+A1 Widoff,Seth
+A1 Shneiderman,Ben
+YR 1996
+T1 LifeLines: visualizing personal histories
+SP 221
+OP 227
+
+RT Conference Proceedings
+ID 130448
+A1 Kandogan,Eser
+A1 Shneiderman,Ben
+YR 1996
+T1 Elastic windows: improved spatial layout and rapid multiple window operations
+SP 29
+OP 38
+
+RT Journal Article
+ID 854543
+A1 Tanin,Egemen
+A1 Beigel,Richard
+A1 Shneiderman,Ben
+YR 1996
+T1 Incremental data structures and algorithms for dynamic query interfaces
+JF Sigmod Record
+VO 25
+SP 21
+OP 24
+IS 4
+
+RT Conference Proceedings
+ID 405238
+A1 Shneiderman,Ben
+A1 Rose,Anne
+YR 1996
+T1 Social impact statements: engaging public participation in information technology design
+SP 90
+OP 96
+
+RT Journal Article
+ID 126072
+A1 Mahajan,Rohit
+A1 Shneiderman,Ben
+YR 1996
+T1 Visual & Textual Consistency Checking Tools for Graphical User Interfaces
+
+RT Journal Article
+ID 129251
+A1 Shneiderman,Ben
+YR 1996
+T1 Designing Information-Abundant Websites
+
+RT Journal Article
+ID 3896832
+A1 Schneiderman,B.
+YR 1996
+T1 The eyes have it: A task by data type taxonomy for information visualization
+
+RT Journal Article
+ID 781256
+A1 Shneiderman,Ben
+YR 1996
+T1 Advanced graphic user interfaces: elastic and tightly coupled windows
+JF ACM Computing Surveys
+VO 28
+SP 144
+IS 4es
+
+RT Conference Proceedings
+ID 435613
+A1 Joyce,Michael
+A1 Kolker,Robert
+A1 Moulthrop,Stuart
+A1 Shneiderman,Ben
+A1 Unsworth,John,Merritt
+YR 1996
+T1 Visual metaphor and the problem of complexity in the design of Web sites: techniques for generating, recognizing and visualizing structure
+SP 257
+
+RT Journal Article
+ID 1742367
+A1 Harvey,Francis
+A1 Gross,Ben
+A1 Agre,Philip,E.
+A1 Shneiderman,Ben
+YR 1996
+T1 The Durango Declarations Forum
+JF The Information Society
+VO 12
+SP 73
+OP 73
+IS 1
+
+RT Journal Article
+ID 1742386
+A1 Shneiderman,Ben
+YR 1996
+T1 Durango Declarations Forum Commentaries
+JF The Information Society
+VO 12
+SP 77
+OP 78
+IS 1
+
+RT Journal Article
+ID 808889
+A1 Plaisant,Catherine
+A1 Carr,David,A.
+A1 Shneiderman,Ben
+YR 1995
+T1 Image-Browser Taxonomy and Guidelines for Designers
+JF IEEE Software
+VO 12
+SP 21
+OP 32
+IS 2
+
+RT Journal Article
+ID 774374
+A1 Shneiderman,Ben
+A1 Alavi,Maryann
+A1 Norman,Kent,L.
+A1 Borkowski,Ellen,Yu
+YR 1995
+T1 Windows of opportunity in electronic classrooms
+JF Communications of The ACM
+VO 38
+SP 19
+OP 24
+IS 11
+
+RT Journal Article
+ID 1277487
+A1 Asahi,Toshiyuki
+A1 Turo,David
+A1 Shneiderman,Ben
+YR 1995
+T1 Using Treemaps to Visualize the Analytic Hierarchy Process
+JF Information Systems Research
+VO 6
+SP 357
+OP 375
+IS 4
+
+RT Journal Article
+ID 1305741
+A1 Plaisant,Catherine
+A1 Carr,David
+A1 Shneiderman,Ben
+YR 1995
+T1 Image Browsers: Taxonomy, Guidelines, and Informal Specifications
+JF IEEE Software
+
+RT Journal Article
+ID 325372
+A1 Shneiderman,Ben
+A1 Plaisant,Catherine
+A1 Kumar,Harsha,P.
+A1 Shneiderman,Kumar,Plaisant
+YR 1995
+T1 Browsing Hierarchical Data with MultiLevel Dynamic Queries and Pruning
+
+RT Journal Article
+ID 869978
+A1 Shneiderman,Ben
+YR 1995
+T1 Looking for the bright side of user interface agents
+JF Interactions
+VO 2
+SP 13
+OP 15
+IS 1
+
+RT Conference Proceedings
+ID 335609
+A1 Jog,Ninad
+A1 Human,Ben,Shneiderman
+YR 1995
+T1 Starfield Information Visualization with Interactive Smooth Zooming
+
+RT Conference Proceedings
+ID 364564
+A1 Rose,Anne
+A1 Shneiderman,Ben
+A1 Plaisant,Catherine
+YR 1995
+T1 An applied ethnographic method for redesigning user interfaces
+SP 115
+OP 122
+
+RT Conference Proceedings
+ID 214525
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+YR 1995
+T1 Organization overviews and role management: inspiration for future desktop environments
+SP 419
+OP 420
+
+RT Conference Proceedings
+ID 385479
+A1 Slaughter,Laura
+A1 Norman,Kent,L.
+A1 Shneiderman,Ben
+YR 1995
+T1 Assessing Users' Subjective Satisfaction with the Information System for Youth Services (ISYS)
+
+RT Journal Article
+ID 387579
+A1 Korn,Flip
+A1 Shneiderman,Ben
+YR 1995
+T1 Navigating Terminology Hierarchies to Access a Digital Library of Medical Images
+
+RT Conference Proceedings
+ID 683257
+A1 Guzdial,Mark
+A1 Kafai,Yasmin,B.
+A1 Carroll,John,B.
+A1 Fischer,Gerhard
+A1 Schank,Roger,C.
+A1 Soloway,Elliot
+A1 Shneiderman,Ben
+YR 1995
+T1 Learner-centered system design: HCI perspective for the future
+SP 143
+OP 147
+
+RT Conference Proceedings
+ID 406893
+A1 Asahi,Toshiyuki
+A1 Turo,David
+A1 Shneiderman,Ben
+YR 1995
+T1 Visual decision-making: using treemaps for the analytic hierarchy process
+SP 405
+OP 406
+
+RT Conference Proceedings
+ID 128217
+A1 Mahajan,Rohit
+A1 Shneiderman,Ben
+YR 1995
+T1 A Family of User Interface Consistency Checking Tools
+
+RT Journal Article
+ID 376276
+A1 Shneiderman,Ben
+A1 Chimera,Richard
+A1 Jog,Ninad
+A1 Stimart,Ren
+A1 White,David
+YR 1995
+T1 Evaluating spatial and textual style of displays
+
+RT Journal Article
+ID 877653
+A1 Shneiderman,Ben
+YR 1995
+T1 Human values and the future of technology
+JF ACM Sigcas Computers and Society
+VO 25
+SP 15
+OP 16
+IS 3
+
+RT Conference Proceedings
+ID 486511
+A1 Jog,N.,K.
+A1 Shneiderman,Ben
+YR 1995
+T1 Starfield Visualization with Interactive Smooth Zooming
+SP 3
+OP 14
+
+RT Journal Article
+ID 224845
+A1 Preece,Jennifer
+A1 Shneiderman,Ben
+YR 1995
+T1 Survival of the fittest: the evolution of multimedia user interfaces
+JF ACM Computing Surveys
+VO 27
+SP 557
+OP 559
+IS 4
+
+RT Journal Article
+ID 12774024
+A1 Baras,John,S.
+A1 Atallah,George,C.
+A1 Ball,Mike
+A1 Goli,Shravan
+A1 Karne,Ramesh,K.
+A1 Kelley,Steve
+A1 Kumar,Harsha
+A1 Plaisant,Catherine
+A1 Roussopoulos,Nick
+A1 Schneiderman,Ben
+A1 Srinivasarao,Mulugu
+A1 Stathatos,Kostas
+A1 Teittinen,Marko
+A1 Whitefield,David
+YR 1995
+T1 Next generation network management technology
+
+RT Conference Proceedings
+ID 486557
+A1 Catarci,Tiziana
+A1 Costabile,Maria,Francesca
+A1 Cruz,Isabel,F.
+A1 Ioannidis,Yannis,E.
+A1 Shneiderman,Ben
+YR 1995
+T1 Panel: Data Models, Visual Representations, Metaphors: How to Solve the Puzzle?
+SP 177
+OP 182
+
+RT Conference Proceedings
+ID 449468
+A1 Riecken,Doug
+A1 Maes,Pattie
+A1 Shneiderman,Ben
+A1 Smith,David,Canfield
+YR 1995
+T1 Dealing with complexity: uniting agents and direct manipulation (panel session)
+SP 191
+OP 192
+
+RT Journal Article
+ID 774150
+A1 Shneiderman,Ben
+YR 1995
+T1 The info superhighway: for the people
+JF Communications of The ACM
+VO 38
+SP 162
+IS 1
+
+RT Journal Article
+ID 126714
+A1 Ellis,Jason
+A1 Tran,Chi
+A1 Ryoo,Jake
+A1 Shneirderman,Ben
+YR 1995
+T1 Buttons vs. Menus: An exploratory study of pull - down menu selection as compared to button bars
+SP 1
+OP 20
+
+RT Journal Article
+ID 39214672
+A1 Shneiderman,Ben
+YR 1995
+T1 Dissertations
+JF ACM Sigchi Bulletin
+SP 96
+OP 97
+
+RT Conference Proceedings
+ID 626286
+A1 Shneiderman,Ben
+YR 1995
+T1 The Future of Graphical User Interfaces
+SP 0
+
+RT Conference Proceedings
+ID 394504
+A1 Ahlberg,Christopher
+A1 Shneiderman,Ben
+YR 1994
+T1 Visual information seeking: tight coupling of dynamic query filters with starfield displays
+SP 222
+OP 317
+
+RT Journal Article
+ID 123796
+A1 Shneiderman,Ben
+YR 1994
+T1 Dynamic Queries for Visual Information Seeking
+JF IEEE Software
+VO 11
+SP 70
+OP 77
+IS 6
+
+RT Journal Article
+ID 774306
+A1 Rivlin,Ehud
+A1 Botafogo,Rodrigo,A.
+A1 Shneiderman,Ben
+YR 1994
+T1 Navigating in hyperspace: designing a structure-based toolbox
+JF Communications of The ACM
+VO 37
+SP 87
+OP 96
+IS 2
+
+RT Conference Proceedings
+ID 388659
+A1 Ahlberg,Christopher
+A1 Shneiderman,Ben
+YR 1994
+T1 The alphaslider: a compact and rapid selector
+SP 226
+OP 371
+
+RT Journal Article
+ID 930752
+A1 Schneiderman,Ben
+YR 1994
+T1 Dynamic Queries for Visual Information Seeking
+JF IEEE Software
+
+RT Journal Article
+ID 129259
+A1 Sears,Andrew
+A1 Shneiderman,Ben
+YR 1994
+T1 Split menus: effectively using selection frequency to organize menus
+VO 1
+SP 27
+OP 51
+IS 1
+
+RT Journal Article
+ID 405547
+A1 Chimera,Richard
+A1 Shneiderman,Ben
+YR 1994
+T1 An exploratory evaluation of three interfaces for browsing large hierarchical tables of contents
+JF ACM Transactions on Information Systems
+VO 12
+SP 383
+OP 406
+IS 4
+
+RT Conference Proceedings
+ID 4071545
+A1 Alhberg,C.
+A1 Schneiderman,B.
+YR 1994
+T1 Visual Information Seeking: Tight Coupling of Dynamic Query Filters with Starfield Displays
+
+RT Conference Proceedings
+ID 131640
+A1 Jain,Vinit
+A1 Shneiderman,Ben
+YR 1994
+T1 Data structures for dynamic queries: an analytical and experimental evaluation
+SP 1
+OP 11
+
+RT Conference Proceedings
+ID 82734
+A1 Shneiderman,Ben
+A1 Plaisant,Catherine
+YR 1994
+T1 The Future of Graphic User Interfaces: Personal Role Managers
+SP 3
+OP 8
+
+RT Journal Article
+ID 3791301
+A1 Jog,Ninad
+A1 Shneiderman,Ben
+YR 1994
+T1 Starfield Information Visualization with Interactive Smooth Zooming
+
+RT Journal Article
+ID 2081255
+A1 Kumar,Harsha
+A1 Plaisant,Catherine
+A1 Teittinen,Marko
+A1 Shneiderman,Ben
+YR 1994
+T1 Visual Information Management for Network Configuration
+
+RT Journal Article
+ID 2000964
+A1 Kurnar,H
+A1 Plaisant,C
+A1 Teittinen,M
+A1 Schneiderman,B
+YR 1994
+T1 Visual Information for Network Configuration
+
+RT Conference Proceedings
+ID 895704
+A1 Friedman,Batya
+A1 Levenson,Nancy
+A1 Shneiderman,Ben
+A1 Suchman,Lucy,A.
+A1 Winograd,Terry
+YR 1994
+T1 Beyond accuracy, reliability, and efficiency: criteria for a good computer system
+SP 195
+OP 198
+
+RT Conference Proceedings
+ID 660649
+A1 Gershon,Nahum,D.
+A1 Card,Stuart,K.
+A1 Roth,Steven,F.
+A1 Shneiderman,Ben
+YR 1994
+T1 Visualization in the information highway
+SP 4
+OP 7
+
+RT Journal Article
+ID 1244778
+A1 Shneiderman,Ben
+A1 Badre,AI
+A1 Santos,Paulo
+YR 1994
+T1 AVI '94: An International Workshop
+JF ACM Sigchi Bulletin
+VO 26
+SP 54
+OP 55
+IS 4
+
+RT Journal Article
+ID 39225926
+A1 Ahlberg,Christopher
+A1 Shneiderman,Ben
+YR 1994
+T1 Visual information seeking: tight coupling of dynamic query filters with starfield displays
+SP 313
+OP 317
+
+RT Journal Article
+ID 39225932
+A1 Ahlberg,Christopher
+A1 Shneiderman,Ben
+YR 1994
+T1 The alphaslider: a compact and rapid selector
+SP 365
+OP 371
+
+RT Journal Article
+ID 39214670
+A1 Humphrey,Susanne,M.
+A1 Shneiderman,Ben
+YR 1994
+T1 Abstracts of Interest
+JF ACM Sigchi Bulletin
+SP 86
+
+RT Conference Proceedings
+ID 660365
+A1 Shneiderman,Ben
+YR 1994
+T1 The Future of Graphic User Interfaces
+SP 7
+
+RT Journal Article
+ID 130814
+A1 SEARS,ANDREW
+A1 REVIS,DOREEN
+A1 SWATSKI,JANET
+A1 CRITTENDEN,ROB
+A1 SHNEIDERMAN,BEN
+YR 1993
+T1 Investigating touchscreen typing: the effect of keyboard size on typing speed
+JF Behaviour & Information Technology
+VO 12
+SP 17
+OP 22
+IS 1
+
+RT Journal Article
+ID 129842
+A1 Young,Degi
+A1 Shneiderman,Ben
+YR 1993
+T1 A Graphical Filter/Flow Representation of Boolean Queries: A Prototype Implementation and Evaluation
+JF Journal of The American Society for Information Science and Technology
+VO 44
+SP 327
+OP 339
+IS 6
+
+RT Journal Article
+ID 106422
+A1 Osada,Masakazu
+A1 Liao,Holmes
+A1 Shneiderman,Ben
+YR 1993
+T1 AlphaSlider: Searching Textual Lists with Sliders
+
+RT Journal Article
+ID 1962822
+A1 Young,D.
+A1 Shneiderman,B.
+YR 1993
+T1 A graphical filter/flow model for boolean queries: an implementation and experiment
+JF Journal of The American Society for Information Science and Technology
+
+RT Journal Article
+ID 988615
+A1 Shneiderman,B.
+YR 1993
+T1 Beyond intelligent machines: just do it
+JF IEEE Software
+VO 10
+SP 100
+OP 103
+IS 1
+
+RT Journal Article
+ID 825804
+A1 Karl,Lewis,R.
+A1 Pettey,Michael
+A1 Shneiderman,Ben
+YR 1993
+T1 Speech versus Mouse Commands for Word Processing: An Empirical Evaluation
+JF International Journal of Human-computer Studies / International Journal of Man-machine Studies
+VO 39
+SP 667
+OP 687
+IS 4
+
+RT Journal Article
+ID 4144043
+A1 Johnson,Brian
+A1 Shneiderman,Ben
+YR 1993
+T1 Treemaps: a space - filling approach to the visualization of hierarchical information structures
+
+RT Journal Article
+ID 1950103
+A1 Shneiderman,B.
+YR 1993
+T1 Education by engagement and construction: experiences in the at&t teaching theater
+
+RT Journal Article
+ID 127027
+A1 Weiland,William,J.
+A1 Shneiderman,Ben
+YR 1993
+T1 A graphical query interface based on aggregation/generalization hierarchies
+JF Information Systems
+VO 18
+SP 215
+OP 232
+IS 4
+
+RT Conference Proceedings
+ID 444168
+A1 Citrin,Wayne
+A1 Halbert,Dan
+A1 Hewitt,Carl
+A1 Meyrowitz,Norman,K.
+A1 Shneiderman,Ben
+YR 1993
+T1 Potentials and limitations of pen-based computers
+SP 536
+OP 539
+
+RT Journal Article
+ID 252438
+A1 Shneiderman,Ben
+YR 1993
+T1 .4 User interface consistency: an evaluation of original and revised interfaces for a videodisk library
+
+RT Journal Article
+ID 3223661
+A1 Potter,R.,L.
+A1 Weldon,L.,J.
+A1 Schneiderman,B.
+YR 1993
+T1 Improving the accuracy of touchscreens: an experimental evaluation of three strategies
+
+RT Journal Article
+ID 15243671
+A1 Shneiderman,Ben
+YR 1993
+T1 Engagement and construction: Educational strategies for the post-TV era
+JF Journal of Computing in Higher Education
+VO 4
+SP 106
+OP 116
+IS 2
+
+RT Journal Article
+ID 4620558
+A1 SHNEIDERMAN,BEN
+A1 LEWIS,CLAYTON
+YR 1993
+T1 Building HCI partnerships and infrastructure
+JF Behaviour & Information Technology
+VO 12
+SP 130
+OP 135
+IS 2
+
+RT Journal Article
+ID 46565762
+A1 Schneiderman,E
+YR 1993
+T1 Longer-term growth prediction using GAUSS
+JF Computers in Biology and Medicine
+VO 23
+SP 149
+OP 154
+IS 2
+
+RT Journal Article
+ID 1244725
+A1 Humphrey,Susanne,M.
+A1 Shneiderman,Ben
+YR 1993
+T1 ABSTRACTS OF INTEREST
+JF ACM Sigchi Bulletin
+VO 25
+SP 80
+OP 95
+IS 3
+
+RT Journal Article
+ID 14420075
+A1 Humphrey,Susanne,M.
+A1 Shneiderman,Ben
+YR 1993
+T1 Dissertations: ABSTRACTS OF INTEREST
+JF ACM Sigchi Bulletin
+VO 25
+SP 80
+OP 88
+IS 2
+
+RT Journal Article
+ID 46565786
+A1 Schneiderman,E
+YR 1993
+T1 Clustering on the basis of longitudinal data
+JF Computers in Biology and Medicine
+VO 23
+SP 399
+OP 406
+IS 5
+
+RT Conference Proceedings
+ID 443977
+A1 Shneiderman,Ben
+YR 1993
+T1 Beyond the graphical user interface (abstract)
+SP 510
+
+RT Journal Article
+ID 1286600
+A1 Schneiderman,B.
+YR 1992
+T1 Designing the user interface: strategies for effective human- computer interaction
+
+RT Journal Article
+ID 764959
+A1 Shneiderman,Ben
+YR 1992
+T1 Tree visualization with tree-maps: 2-d space-filling approach
+JF ACM Transactions on Graphics
+VO 11
+SP 92
+OP 99
+IS 1
+
+RT Conference Proceedings
+ID 329837
+A1 Ahlberg,Christopher
+A1 Williamson,Christopher
+A1 Shneiderman,Ben
+YR 1992
+T1 Dynamic queries for information exploration: an implementation and evaluation
+SP 619
+OP 626
+
+RT Journal Article
+ID 804290
+A1 Botafogo,Rodrigo,A.
+A1 Rivlin,Ehud
+A1 Shneiderman,Ben
+YR 1992
+T1 Structural analysis of hypertexts: identifying hierarchies and useful metrics
+JF ACM Transactions on Information Systems
+VO 10
+SP 142
+OP 180
+IS 2
+
+RT Conference Proceedings
+ID 630905
+A1 Williamson,Christopher
+A1 Shneiderman,Ben
+YR 1992
+T1 The dynamic HomeFinder: evaluating dynamic queries in a real-estate information exploration system
+SP 338
+OP 346
+
+RT Conference Proceedings
+ID 449854
+A1 Don,Abbe
+A1 Brennan,Susan
+A1 Laurel,Brenda
+A1 Shneiderman,Ben
+YR 1992
+T1 Anthropomorphism: from Eliza to Terminator 2
+SP 67
+OP 70
+
+RT Journal Article
+ID 1398486
+A1 Shneiderman,B.
+YR 1992
+T1 Designing the user interface (2nd ed
+
+RT Journal Article
+ID 4019888
+A1 Schneiderman,B.
+YR 1992
+T1 Tree visualization with tree-maps: 2-d space-filling approach
+JF ACM Transactions on Graphics
+
+RT Journal Article
+ID 4019960
+A1 Shneiderman,Ben
+YR 1992
+T1 Treemaps for space-constrained visualization of hierarchies
+JF ACM Transactions on Graphics
+
+RT Journal Article
+ID 825569
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+YR 1992
+T1 Scheduling Home Control Devices: Design Issues and Usability Evaluation of Four Touchscreen Interfaces
+JF International Journal of Human-computer Studies / International Journal of Man-machine Studies
+VO 36
+SP 375
+OP 393
+IS 3
+
+RT Conference Proceedings
+ID 449971
+A1 Shneiderman,Ben
+A1 Williamson,Christopher
+A1 Ahlberg,Christopher
+YR 1992
+T1 Dynamic queries: database searching by direct manipulation
+SP 669
+OP 670
+
+RT Conference Proceedings
+ID 1333213
+A1 Ahlberg,C.
+A1 Williamson,C.
+A1 Schneiderman,B.
+YR 1992
+T1 Dynamic queries: an implementation and evaluation
+
+RT Journal Article
+ID 2569060
+A1 Liao,H.
+A1 Osada,M.
+A1 Shneiderman,Ben
+YR 1992
+T1 A formative evaluation of three interfaces for browsing directories using dynamic queries
+
+RT Book, Whole
+ID 605285
+A1 Shneiderman,Ben
+YR 1992
+T1 Engagement and Construction: Educational Strategies for the Post-TV Era
+SP 39
+OP 45
+
+RT Journal Article
+ID 210406
+A1 Shneiderman,Ben
+YR 1992
+T1 Education by Engagement and Construction: A Strategic Education Initiative for a Multimedia Renewal of American Education
+
+RT Journal Article
+ID 6901509
+A1 Sears,Andrew
+A1 Revis,Doreen
+A1 Swatski,Janet
+A1 Crittenden,Rob
+A1 Shneiderman,Ben
+YR 1992
+T1 Investigating Touchscreen Typing: The effect of keyboard size on typing speed
+
+RT Journal Article
+ID 878456
+A1 Shneiderman,Ben
+YR 1992
+T1 Socially responsible computing I: a call to action following the L.A. riots
+JF ACM Sigchi Bulletin
+
+RT Journal Article
+ID 1244702
+A1 Humphrey,Susanne,M.
+A1 Shneiderman,Ben
+YR 1992
+T1 ABSTRACTS OF INTEREST
+JF ACM Sigchi Bulletin
+VO 24
+SP 62
+OP 66
+IS 3
+
+RT Journal Article
+ID 1244717
+A1 Humphrey,Susanne,M.
+A1 Shneiderman,Ben
+YR 1992
+T1 DISSERTATIONS: ABSTRACTS OF INTEREST
+JF ACM Sigchi Bulletin
+VO 24
+SP 58
+OP 75
+IS 2
+
+RT Journal Article
+ID 878457
+A1 Shneiderman,Ben
+YR 1992
+T1 Socially responsible computing II: first steps on the path to positive contributions
+JF ACM Sigchi Bulletin
+
+RT Journal Article
+ID 14420053
+A1 Shneiderman,Ben
+YR 1992
+T1 Socially responsible computing I: a call to action following the L.A. riots
+JF ACM Sigchi Bulletin
+VO 24
+SP 14
+OP 15
+IS 3
+
+RT Journal Article
+ID 14420054
+A1 Shneiderman,Ben
+YR 1992
+T1 Socially responsible computing II: first steps on the path to positive contributions
+JF ACM Sigchi Bulletin
+VO 24
+SP 16
+OP 17
+IS 3
+
+RT Journal Article
+ID 39214665
+A1 Shneiderman,Ben
+YR 1992
+T1 ABSTRACTS OF INTEREST
+JF ACM Sigchi Bulletin
+SP 54
+OP 69
+
+RT Conference Proceedings
+ID 660582
+A1 Johnson,Brian
+A1 Shneiderman,Ben
+YR 1991
+T1 Tree-Maps: a space-filling approach to the visualization of hierarchical information structures
+SP 284
+OP 291
+
+RT Journal Article
+ID 377210
+A1 Shneiderman,Ben
+YR 1991
+T1 Tree visualization with Tree-maps: A 2-d space-filling approach
+JF ACM Transactions on Graphics
+
+RT Conference Proceedings
+ID 128163
+A1 Botafogo,Rodrigo,A.
+A1 Shneiderman,Ben
+YR 1991
+T1 Identifying aggregates in hypertext structures
+SP 63
+OP 74
+
+RT Conference Proceedings
+ID 896211
+A1 Myers,Brad,A.
+A1 Cypher,Allen
+A1 Maulsby,David
+A1 Smith,David,C.
+A1 Shneiderman,Ben
+YR 1991
+T1 Demonstrational interfaces: Coming soon?
+SP 393
+OP 396
+
+RT Journal Article
+ID 195570
+A1 Sears,Andrew
+A1 Shneiderman,Ben
+YR 1991
+T1 High Precision Touchscreens: Design Strategies and Comparisons with a Mouse
+JF International Journal of Human-computer Studies / International Journal of Man-machine Studies
+VO 34
+SP 593
+OP 613
+IS 4
+
+RT Conference Proceedings
+ID 4019956
+A1 Johnson,B.
+A1 Shneiderman,B.
+YR 1991
+T1 Treemaps: A space-fi lling approach to the visualization of hierarchical information
+
+RT Conference Proceedings
+ID 4142963
+A1 Johnson,B.
+A1 Shneiderman,B.
+YR 1991
+T1 Space - filling approach to the visualization of hierarchical informa - tion structures
+
+RT Journal Article
+ID 959231
+A1 Shneiderman,B.
+YR 1991
+T1 Touch screens now offer compelling uses
+JF IEEE Software
+VO 8
+SP 93
+OP 94
+IS 2
+
+RT Journal Article
+ID 2003493
+A1 Shneiderman,B.
+YR 1991
+T1 Visual user interfaces for information exploration
+
+RT Conference Proceedings
+ID 896239
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+YR 1991
+T1 Scheduling on-off home control devices
+SP 459
+OP 460
+
+RT Journal Article
+ID 706082
+A1 Shneiderman,Ben
+A1 Plaisant,Catherine
+A1 Botafogo,Rodrigo,A.
+A1 Hopkins,Don
+A1 Weiland,William,J.
+YR 1991
+T1 Designing to Facilitate Browsing: A Look Back at the Hyperties Workstation Browser
+JF New Review of Hypermedia and Multimedia / Hypermedia
+VO 3
+SP 101
+OP 117
+IS 2
+
+RT Journal Article
+ID 14420009
+A1 Shneiderman,Ben
+YR 1991
+T1 Human values and the future of technology: a declaration of responsibility
+JF ACM Sigchi Bulletin
+VO 23
+SP 11
+OP 16
+IS 1
+
+RT Journal Article
+ID 45535119
+A1 Psotka,Joseph
+A1 Shneiderman,Ben
+A1 Kearsley,Greg
+YR 1991
+T1 Hypertext Hands-on!: An Introduction to a New Way of Organizing and Accessing Information
+JF Educational Researcher
+VO 20
+SP 26
+IS 6
+
+RT Journal Article
+ID 877704
+A1 Shneiderman,Ben
+A1 Naisbitt,John
+YR 1990
+T1 Human values and the future of technology: a declaration of empowerment
+JF ACM Sigcas Computers and Society
+VO 20
+SP 1
+OP 6
+IS 3
+
+RT Conference Proceedings
+ID 443944
+A1 Sears,Andrew
+A1 Kochavy,Yoram
+A1 Shneiderman,Ben
+YR 1990
+T1 Touchscreen field specification for public access database queries: let your fingers do the walking
+SP 1
+OP 7
+
+RT Journal Article
+ID 204432
+A1 Faloutsos,Christos
+A1 Lee,Raymond
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+YR 1990
+T1 Incorporating String Search in a Hypertext System: User Interface and Signature File Design Issues
+JF New Review of Hypermedia and Multimedia / Hypermedia
+VO 2
+SP 183
+OP 200
+IS 3
+
+RT Journal Article
+ID 1391882
+A1 FURUTA,RICHARD
+A1 PLAISANT,CATHERINE
+A1 SHNEIDERMAN,BEN
+YR 1990
+T1 Automatically transforming regularly structured linear documents into Hypertext1
+
+RT Journal Article
+ID 87316
+A1 Shneiderman,Ben
+YR 1990
+T1 Future directions for human-computer interaction
+JF International Journal of Human-computer Interaction
+VO 2
+SP 73
+OP 90
+IS 1
+
+RT Journal Article
+ID 4450030
+A1 Shneiderman,Ben
+YR 1990
+T1 Human values and the future of technology: a declaration of responsibility
+JF ACM Sigchi Bulletin
+
+RT Journal Article
+ID 878519
+A1 Shneiderman,Ben
+YR 1990
+T1 Protecting rights in user interface designs
+JF ACM Sigchi Bulletin
+VO 22
+SP 18
+OP 19
+IS 2
+
+RT Journal Article
+ID 272663
+A1 Jones,Tricia
+A1 Shneiderman,Ben
+YR 1990
+T1 Examining Usability for a Training-Oriented Hypertext: Can HyperActivity be Good?
+JF Electronic Publishing - Origination, Dissemination and Design
+VO 3
+SP 207
+OP 225
+IS 4
+
+RT Conference Proceedings
+ID 510073
+A1 Baird,Patricia
+A1 Covo,Jacqueline
+A1 Shneiderman,Ben
+A1 Williams,Ian
+A1 Deter,Renee
+YR 1990
+T1 The Advantages of Hypertext for Large Information Spaces; Where Are the Big Systems? (Panel)
+SP 343
+OP 346
+
+RT Journal Article
+ID 1244628
+A1 Humphrey,Susanne,M.
+A1 Shneiderman,Ben
+YR 1990
+T1 ABSTRACTS OF INTEREST
+JF ACM Sigchi Bulletin
+VO 21
+SP 91
+OP 105
+IS 3
+
+RT Journal Article
+ID 39214659
+A1 Humphrey,Susanne,M.
+A1 Shneiderman,Ben
+YR 1990
+T1 ABSTRACTS OF INTEREST
+JF ACM Sigchi Bulletin
+SP 64
+OP 76
+
+RT Book, Whole
+ID 1377335
+A1 Shneiderman,Ben
+A1 Kearsley,Greg
+YR 1989
+T1 Hypertext Hands-on! - an introduction to a new way of organizing and accessing information
+
+RT Journal Article
+ID 706086
+A1 Furuta,Richard
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+YR 1989
+T1 A Spectrum of Automatic Hypertext Constructions
+JF New Review of Hypermedia and Multimedia / Hypermedia
+VO 1
+SP 179
+OP 195
+IS 2
+
+RT Journal Article
+ID 133243
+A1 Shneiderman,Ben
+YR 1989
+T1 Reflections on Authoring, Editing, and Managing Hypertext
+
+RT Journal Article
+ID 200123
+A1 Shneiderman,Ben
+A1 Brethauer,Dorothy
+A1 Plaisant,Catherine
+A1 Potter,Richard
+YR 1989
+T1 Evaluating three museum installations of a hypertext system
+JF Journal of The American Society for Information Science and Technology
+VO 40
+SP 172
+OP 182
+IS 3
+
+RT Journal Article
+ID 1395678
+A1 Potter,Richard
+A1 Berman,Mitchell
+A1 Shneiderman,Ben
+YR 1989
+T1 An experimental evaluation of three touch screen strategies within a hypertext database
+JF International Journal of Human-computer Interaction
+VO 1
+SP 41
+OP 52
+IS 1
+
+RT Journal Article
+ID 2601831
+A1 Shneiderman,B.
+YR 1989
+T1 A nonanthropomorphic style guide: overcoming the humpty dumpty syndrome
+JF Computing
+
+RT Journal Article
+ID 745480
+A1 Seabrook,Richard,H.,C.
+A1 Shneiderman,Ben
+YR 1989
+T1 The User Interface in a Hypertext, Multiwindow Program Browser
+JF Interacting with Computers
+VO 1
+SP 299
+OP 337
+IS 3
+
+RT Journal Article
+ID 3432382
+A1 Shneiderman,Ben
+YR 1989
+T1 My Star Wars Plan: A Strategic Education Initiative
+
+RT Journal Article
+ID 42593407
+A1 Shneiderman,Ben
+YR 1989
+T1 Social and Individual Impact
+JF Educational Media International
+VO 26
+SP 101
+OP 106
+IS 2
+
+RT Conference Proceedings
+ID 435955
+A1 Halasz,Frank,G.
+A1 Mccracken,Donald,L.
+A1 Meyrowitz,Norman,K.
+A1 Pearl,Amy
+A1 Shneiderman,Ben
+YR 1989
+T1 Confessions - What's Wrong with Our Systems
+SP 399
+
+RT Conference Proceedings
+ID 435898
+A1 Balzer,Robert
+A1 Begeman,Michael,L.
+A1 Garg,Pankaj,K.
+A1 Schwartz,Mayer,D.
+A1 Shneiderman,Ben
+YR 1989
+T1 Hypertext and software engineering
+SP 395
+OP 396
+
+RT Conference Proceedings
+ID 544991
+A1 Shneiderman,Ben
+YR 1989
+T1 Intelligent User Interfaces: From Fantasy to Fact
+SP 915
+
+RT Conference Proceedings
+ID 435845
+A1 Rous,Bernard
+A1 Shneiderman,Ben
+A1 Yankelovich,Nicole
+A1 Yoder,Elise,A.
+YR 1989
+T1 Lessons learned from the ACM hypertext on hypertext project
+SP 385
+OP 386
+
+RT Journal Article
+ID 878691
+A1 Shneiderman,B.
+A1 Humphrey,S.
+YR 1989
+T1 Abstracts of interest
+JF ACM Sigchi Bulletin
+VO 20
+SP 24
+OP 32
+IS 3
+
+RT Journal Article
+ID 39214654
+A1 Humphrey,Susanne,M.
+A1 Shneiderman,Ben
+YR 1989
+T1 ABSTRACTS OF INTEREST
+JF ACM Sigchi Bulletin
+SP 85
+OP 91
+
+RT Journal Article
+ID 39214655
+A1 Humphrey,Susanne,M.
+A1 Shneiderman,Ben
+YR 1989
+T1 ABSTRACTS OF INTEREST
+JF ACM Sigchi Bulletin
+SP 102
+OP 113
+
+RT Journal Article
+ID 878672
+A1 Shneiderman,B.
+YR 1989
+T1 Human-computer interaction lab, University of Maryland
+JF ACM Sigchi Bulletin
+VO 20
+SP 309
+OP 310
+IS SI
+
+RT Journal Article
+ID 846627
+A1 Marchionini,Gary
+A1 Shneiderman,Ben
+YR 1988
+T1 Finding Facts vs. Browsing Knowledge in Hypertext Systems
+JF IEEE Computer
+VO 21
+SP 70
+OP 80
+IS 1
+
+RT Conference Proceedings
+ID 896353
+A1 Callahan,Jack
+A1 Hopkins,Don
+A1 Weiser,M.
+A1 Shneiderman,Ben
+YR 1988
+T1 An empirical comparison of pie vs. linear menus
+SP 95
+OP 100
+
+RT Journal Article
+ID 743853
+A1 Ostroff,Daniel
+A1 Shneiderman,Ben
+YR 1988
+T1 Selection devices for user of an electronic encyclopedia: An empirical comparison of four possibilities
+JF Information Processing and Management
+VO 24
+SP 665
+OP 680
+IS 6
+
+RT Journal Article
+ID 1291392
+A1 SHNEIDERMAN,BEN
+YR 1988
+T1 We can design better user interfaces: A review of human-computer interaction styles
+JF Ergonomics
+VO 31
+SP 699
+OP 710
+IS 5
+
+RT Conference Proceedings
+ID 2144950
+A1 Shneiderman,B
+YR 1988
+T1 Relate-Create-Donate: an educational philosophy for the cyber-generation
+
+RT Journal Article
+ID 928780
+A1 Shneiderman,Ben
+A1 Carroll,John,M.
+YR 1988
+T1 Ecological studies of professional programmers
+JF Communications of The ACM
+VO 31
+SP 1256
+OP 1258
+IS 11
+
+RT Journal Article
+ID 2118305
+A1 Baroff,J.
+A1 Simon,R.
+A1 Gilman,F.
+A1 Schneiderman,B.
+YR 1988
+T1 Direct Manipulation User Interfaces for Expert Systems in Hendler
+
+RT Journal Article
+ID 818086
+A1 Furuta,Richard
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+YR 1988
+T1 Automatically Transforming Regularly Structured Documents into Hypertext
+JF Electronic Publishing - Origination, Dissemination and Design
+VO 2
+SP 211
+OP 229
+IS 4
+
+RT Journal Article
+ID 2695798
+A1 Callahan,J.
+A1 Hopkins,D.
+A1 Weiser,M.
+A1 Schneiderman,B.
+YR 1988
+T1 An empircal comparison of pie menus versus linear menus
+
+RT Journal Article
+ID 775981
+A1 Shneiderman,Ben
+A1 Carroll,John,M.
+YR 1988
+T1 Ecological Studies of Professional Programmers (Introduction to the Special Section)
+JF Communications of The ACM
+VO 31
+SP 1256
+OP 1258
+IS 11
+
+RT Journal Article
+ID 57658555
+A1 Ashburn,Elizabeth,A.
+A1 Mann,Margaret
+A1 Barrett,Joan
+A1 Schneiderman,Beth
+YR 1988
+T1 ERIC Clearinghouse on Teacher Education
+VO 10
+SP 62
+OP 64
+IS 3
+
+RT Journal Article
+ID 1244857
+A1 Humphrey,Susanne,M.
+A1 Shneiderman,Ben
+YR 1988
+T1 ABSTRACTS OF INTEREST
+JF ACM Sigchi Bulletin
+VO 19
+SP 9
+OP 16
+IS 3
+
+RT Journal Article
+ID 14498714
+A1 Shneiderman,B
+YR 1988
+T1 Information processing and human-machine interaction: An approach to cognitive engineering ?. North-Holland, Elsevier Science Publishers, New York (1986). vii + 212 pp., $39.50, ISBN 0-444-00987-6
+JF Information Processing and Management
+VO 24
+SP 103
+IS 1
+
+RT Journal Article
+ID 877172
+A1 Shneiderman,Ben
+YR 1987
+T1 Designing the user interface strategies for effective human-computer interaction
+JF ACM Sigbio Newsletter
+VO 9
+SP 6
+IS 1
+
+RT Journal Article
+ID 1250079
+A1 Shneiderman,B.
+YR 1987
+T1 designing the user interface
+
+RT Conference Proceedings
+ID 464099
+A1 Shneiderman,Ben
+YR 1987
+T1 User Interface Design and Evaluation for an Electronic Encyclopedia
+SP 207
+OP 223
+
+RT Conference Proceedings
+ID 435770
+A1 Shneiderman,Ben
+YR 1987
+T1 User Interface Design for the Hyperties Electronic Encyclopedia
+SP 189
+OP 194
+
+RT Conference Proceedings
+ID 464753
+A1 Reisel,J.,F.
+A1 Shneiderman,Ben
+YR 1987
+T1 Is Bigger Better? The Effects of Display Size on Program Reading
+SP 113
+OP 122
+
+RT Journal Article
+ID 1946578
+A1 Ostroff,D.
+A1 Shneiderman,B.
+YR 1987
+T1 Selection devices for users of an electronic encyclopedia: an empirical comparison of four possibilities
+JF Information Processing and Management
+
+RT Journal Article
+ID 1405966
+A1 Schneiderman,B.
+YR 1987
+T1 Designing the user interface strategies for effective human computer interation
+
+RT Journal Article
+ID 1979009
+A1 Shneiderman,Ben
+A1 Anderson,Nancy,S.
+A1 Wallace,Daniel,F.
+YR 1987
+T1 Time Stress Effects on Two Menu Selection Systems
+SP 64
+OP 71
+
+RT Journal Article
+ID 1250501
+A1 Shneiderman,B.
+YR 1987
+T1 designing the user interface strategies for human-computer interaction
+
+RT Journal Article
+ID 2946237
+A1 Schneiderman,B.
+YR 1987
+T1 Designing the User Intelface
+
+RT Journal Article
+ID 1978985
+A1 Laverson,Alan
+A1 Norman,Kent
+A1 Shneiderman,Ben
+YR 1987
+T1 An evaluation of jump-ahead techniques in menu selection
+JF Behaviour & Information Technology
+VO 6
+SP 97
+OP 108
+IS 2
+
+RT Journal Article
+ID 224245
+A1 Margono,Sepeedeh
+A1 Shneiderman,Ben
+YR 1987
+T1 A Study of File Manipulation by Novices Using Commands vs. Direct Manipulation
+
+RT Conference Proceedings
+ID 1305448
+A1 Schneiderman,B
+YR 1987
+T1 User interface design for the hyperties electronic encyclopedia
+
+RT Conference Proceedings
+ID 4451706
+A1 Greif,Irene
+A1 Curtis,Bill
+A1 Krasner,Herb
+A1 Malone,Thomas,W.
+A1 Shneiderman,Ben
+YR 1987
+T1 Computer-supported cooperative work (panel): is this REALLY a new field of research?
+
+RT Journal Article
+ID 14419938
+A1 Greif,Irene
+A1 Curtis,Bill
+A1 Krasner,Herb
+A1 Malone,Thomas,W.
+A1 Shneiderman,Ben
+YR 1987
+T1 Computer-supported cooperative work (panel): is this REALLY a new field of research?
+JF ACM Sigchi Bulletin
+VO 18
+SP 227
+OP 228
+IS 4
+
+RT Conference Proceedings
+ID 4452431
+A1 Shneiderman,Ben
+YR 1987
+T1 User interface design for the Hyperties electronic encyclopedia (panel session)
+SP 189
+OP 194
+
+RT Journal Article
+ID 1338625
+A1 Shneiderman,B.
+A1 Morariu,J.
+YR 1986
+T1 The interactive encyclopedia system (ties)
+
+RT Journal Article
+ID 825006
+A1 Norman,Kent,L.
+A1 Weldon,Linda,J.
+A1 Shneiderman,Ben
+YR 1986
+T1 Cognitive Layouts of Windows and Multiple Screens for User Interfaces
+JF International Journal of Human-computer Studies / International Journal of Man-machine Studies
+VO 25
+SP 229
+OP 248
+IS 2
+
+RT Journal Article
+ID 1950102
+A1 Shneiderman,Ben
+YR 1986
+T1 Designing menu selection systems
+VO 37
+SP 57
+OP 70
+IS 2
+
+RT Journal Article
+ID 824490
+A1 Ewing,John
+A1 Mehrabanzad,Simin
+A1 Sheck,Scott
+A1 Ostroff,Daniel
+A1 Shneiderman,Ben
+YR 1986
+T1 An Experimental Comparison of a Mouse and Arrow-Jump Keys for an Interactive Encyclopedia
+JF International Journal of Human-computer Studies / International Journal of Man-machine Studies
+VO 24
+SP 29
+OP 45
+IS 1
+
+RT Journal Article
+ID 896511
+A1 Shneiderman,B.
+YR 1986
+T1 Seven plus or minus two central issues in human-computer interaction
+JF ACM Sigchi Bulletin
+VO 17
+SP 343
+OP 349
+IS 4
+
+RT Journal Article
+ID 2946272
+A1 Schneidermann,B.
+YR 1986
+T1 Designing the User Interface
+
+RT Journal Article
+ID 891701
+A1 Iseki,Osamu
+A1 Shneiderman,Ben
+YR 1986
+T1 Applying direct manipulation concepts: direct manipulation dik operating system (DMDOS)
+JF ACM Sigsoft Software Engineering Notes
+
+RT Journal Article
+ID 44622152
+A1 MacArthur,C.,A.
+A1 Shneiderman,B.
+YR 1986
+T1 Learning Disabled Students' Difficulties in Learning to Use A Word Processor: Implications for Instruction and Software Evaluation
+JF Journal of Learning Disabilities
+VO 19
+SP 248
+OP 253
+IS 4
+
+RT Journal Article
+ID 4450037
+A1 Shneiderman,Ben
+YR 1986
+T1 Human-computer interaction research at the University of Maryland
+JF ACM Sigchi Bulletin
+VO 17
+SP 27
+OP 32
+IS 3
+
+RT Journal Article
+ID 878744
+A1 Shneiderman,Ben
+YR 1986
+T1 No members, no officers, no dues: A ten year history of the software psychology society
+JF ACM Sigchi Bulletin
+VO 18
+SP 14
+OP 16
+IS 2
+
+RT Journal Article
+ID 896428
+A1 Greif,Irene
+A1 Curtis,Bill
+A1 Krasner,Herb
+A1 Malone,Thomas,W.
+A1 Shneiderman,Ben
+YR 1986
+T1 Computer-supported cooperative work (panel): is this REALLY a new field of research?
+JF ACM Sigchi Bulletin
+
+RT Journal Article
+ID 14419901
+A1 Greif,Irene
+A1 Curtis,Bill
+A1 Krasner,Herb
+A1 Malone,Thomas,W.
+A1 Shneiderman,Ben
+YR 1986
+T1 Computer-supported cooperative work (panel): is this REALLY a new field of research?
+JF ACM Sigchi Bulletin
+VO 17
+SP 227
+OP 228
+IS SI
+
+RT Journal Article
+ID 4450039
+A1 Macarthur,Charles,A.
+A1 Shneiderman,Ben
+YR 1986
+T1 Learning disabled students' difficulties in learning to use a word processor: implications for design
+JF ACM Sigchi Bulletin
+
+RT Journal Article
+ID 14414110
+A1 Iseki,Osamu
+A1 Shneiderman,Ben
+YR 1986
+T1 Applying direct manipulation concepts: direct manipulation dik operating system (DMDOS)
+JF ACM Sigsoft Software Engineering Notes
+VO 11
+SP 22
+OP 26
+IS 2
+
+RT Journal Article
+ID 14419896
+A1 MacArthur,Charles,A.
+A1 Shneiderman,Ben
+YR 1986
+T1 Learning disabled students' difficulties in learning to use a word processor: implications for design
+JF ACM Sigchi Bulletin
+VO 17
+SP 41
+OP 46
+IS 3
+
+RT Journal Article
+ID 1244763
+A1 Humphrey,Susanne,M.
+A1 Shneiderman,Ben
+YR 1986
+T1 Abstracts of interest
+JF ACM Sigchi Bulletin
+VO 18
+SP 24
+OP 32
+IS 1
+
+RT Conference Proceedings
+ID 1341365
+A1 Shneiderman,B.
+YR 1985
+T1 A model programming environment
+
+RT Journal Article
+ID 37336714
+A1 Parton,Diana
+A1 Huffman,Keith
+A1 Pridgen,Patty
+A1 Norman,Kent
+A1 Shneiderman,Ben
+YR 1985
+T1 Learning a menu selection tree: training methods compared
+JF Behaviour & Information Technology
+VO 4
+SP 81
+OP 91
+IS 2
+
+RT Journal Article
+ID 14404684
+A1 Schneiderman,Ben
+YR 1985
+T1 The Relationship Between COBOL and Computer Science
+JF IEEE Annals of The History of Computing
+VO 7
+SP 348
+OP 352
+IS 4
+
+RT Journal Article
+ID 781255
+A1 Shneiderman,Ben
+YR 1984
+T1 Response time and display rate in human performance with computers
+JF ACM Computing Surveys
+VO 16
+SP 265
+OP 285
+IS 3
+
+RT Journal Article
+ID 825577
+A1 Powers,Matthew
+A1 Lashley,Conda
+A1 Sanchez,Pamela
+A1 Shneiderman,Ben
+YR 1984
+T1 An Experimental Comparison of Tabular and Graphic Data Presentation
+JF International Journal of Human-computer Studies / International Journal of Man-machine Studies
+VO 20
+SP 545
+OP 566
+IS 6
+
+RT Journal Article
+ID 1252365
+A1 Schneiderman,B.
+YR 1984
+T1 Response time and display rate in human performance with computers
+JF ACM Computing Surveys
+
+RT Journal Article
+ID 847553
+A1 Shneiderman,Ben
+YR 1983
+T1 Direct Manipulation: A step beyond programming languages
+JF IEEE Computer
+VO 16
+SP 57
+OP 69
+IS 8
+
+RT Journal Article
+ID 1301431
+A1 Schneiderman,B.
+YR 1983
+T1 Direct manipulation: a step beyond programming languages
+
+RT Journal Article
+ID 772841
+A1 Miara,Richard,J.
+A1 Musselman,Joyce,A.
+A1 Navarro,Juan,A.
+A1 Shneiderman,Ben
+YR 1983
+T1 Program indentation and comprehensibility
+JF Communications of The ACM
+VO 26
+SP 861
+OP 867
+IS 11
+
+RT Journal Article
+ID 4138925
+A1 Shneiderman,B.
+YR 1983
+T1 Direct manipulation: a step beyond programming
+
+RT Journal Article
+ID 1298033
+A1 Schneidermann,B
+YR 1983
+T1 Direct manipulation: a step beyond programming language
+
+RT Journal Article
+ID 1304948
+A1 Shneiderman,B.
+YR 1983
+T1 Design issues and experimental results for menu selection systems
+
+RT Book, Whole
+ID 466010
+A1 Shneiderman,Ben
+YR 1983
+T1 Human factors of interactive software
+SP 9
+OP 29
+
+RT Journal Article
+ID 763583
+A1 Sykes,Floyd
+A1 Tillman,Raymund,T.
+A1 Shneiderman,Ben
+YR 1983
+T1 The Effect of Scope Delimiters on Program Comprehension
+JF Software - Practice and Experience
+VO 13
+SP 817
+OP 824
+IS 9
+
+RT Journal Article
+ID 1244598
+A1 Shneiderman,Ben
+YR 1983
+T1 High-tech can stimulate creative action: the increased ease-of-use of computers supports individual competence and productive work
+JF ACM Sigchi Bulletin
+
+RT Journal Article
+ID 14419847
+A1 Shneiderman,Ben
+YR 1983
+T1 High-tech can stimulate creative action: the increased ease-of-use of computers supports individual competence and productive work
+JF ACM Sigchi Bulletin
+VO 14
+SP 6
+OP 7
+IS 4
+
+RT Journal Article
+ID 1265011
+A1 SHNEIDERMAN,BEN
+YR 1982
+T1 The future of interactive systems and the emergence of direct manipulation
+JF Behaviour & Information Technology
+VO 1
+SP 237
+OP 256
+IS 3
+
+RT Journal Article
+ID 774149
+A1 Shneiderman,Ben
+YR 1982
+T1 Control flow and data structure documentation: two experiments
+JF Communications of The ACM
+VO 25
+SP 55
+OP 63
+IS 1
+
+RT Journal Article
+ID 1270447
+A1 Shneiderman,Ben
+YR 1982
+T1 Multiparty Grammars and Related Features for Defining Interactive Systems
+JF IEEE Transactions on Systems, Man, and Cybernetics
+VO 12
+SP 148
+OP 154
+IS 2
+
+RT Journal Article
+ID 929057
+A1 Shneiderman,Ben
+YR 1982
+T1 Designing computer system messages
+JF Communications of The ACM
+VO 25
+SP 610
+OP 611
+IS 9
+
+RT Journal Article
+ID 803978
+A1 Shneiderman,Ben
+A1 Thomas,Glenn
+YR 1982
+T1 An architecture for automatic relational database sytem conversion
+JF ACM Transactions on Database Systems
+VO 7
+SP 235
+OP 257
+IS 2
+
+RT Conference Proceedings
+ID 1340095
+A1 Shneiderman,B.
+YR 1982
+T1 System message design: guidelines and experimental results
+
+RT Journal Article
+ID 1914354
+A1 Badre,Albert
+A1 Shneiderman,Ben
+YR 1982
+T1 Directions in human-computer interaction
+
+RT Journal Article
+ID 1276954
+A1 Shneiderman,Ben
+YR 1982
+T1 How to design with the user in mind
+
+RT Journal Article
+ID 775980
+A1 Shneiderman,Ben
+YR 1982
+T1 Pracniques: Designing Computer System Messages
+JF Communications of The ACM
+VO 25
+SP 610
+OP 611
+IS 9
+
+RT Journal Article
+ID 881108
+A1 Shneiderman,Ben
+YR 1982
+T1 Teaching software psychology experimentation through team projects
+JF ACM Sigcse Bulletin
+VO 14
+SP 38
+OP 40
+IS 3
+
+RT Conference Proceedings
+ID 4699967
+A1 Shneiderman,Ben
+A1 Thomas,Glenn
+YR 1982
+T1 Automatic database system conversion: schema revision, data translation, and source-to-source program transformation
+SP 579
+OP 587
+
+RT Journal Article
+ID 854674
+A1 Shneiderman,Ben
+YR 1982
+T1 Response to N. C. Rowe's review
+JF Sigmod Record
+VO 13
+SP 98
+OP 98
+IS 1
+
+RT Journal Article
+ID 4451101
+A1 Shneiderman,Ben
+YR 1982
+T1 Human factors studies with system message styles (abstract only)
+JF ACM Sigsoc Bulletin
+VO 13
+SP 138
+IS 2-3
+
+RT Journal Article
+ID 4451110
+A1 Shneiderman,Ben
+YR 1982
+T1 Direct manipulation: A step beyond programming languages (abstract only)
+JF ACM Sigsoc Bulletin
+
+RT Journal Article
+ID 14426957
+A1 Shneiderman,Ben
+YR 1982
+T1 Direct manipulation: A step beyond programming languages (abstract only)
+JF ACM Sigsoc Bulletin
+VO 13
+SP 143
+IS 2-3
+
+RT Journal Article
+ID 39225802
+A1 Shneiderman,Ben
+YR 1982
+T1 Teaching software psychology experimentation through team projects
+SP 299
+OP 301
+
+RT Journal Article
+ID 706576
+A1 Shneiderman,Ben
+YR 1981
+T1 A Note on Human Factors Issues of Natural Language Interaction With Database Systems
+JF Information Systems
+VO 6
+SP 125
+IS 2
+
+RT Conference Proceedings
+ID 896745
+A1 Shneiderman,Ben
+YR 1981
+T1 Direct manipulation: A step beyond programming languages (abstract only)
+
+RT Journal Article
+ID 898173
+A1 Shneiderman,Ben
+YR 1981
+T1 Putting the human factor into systems development
+SP 1
+OP 13
+
+RT Journal Article
+ID 14363624
+A1 Shneiderman,B.
+YR 1981
+T1 Comments from a Letter Written on July 19, 1978
+JF IEEE Transactions on Software Engineering
+VO SE-7
+SP 370
+OP 371
+IS 4
+
+RT Conference Proceedings
+ID 896730
+A1 Shneiderman,Ben
+YR 1981
+T1 Human factors studies with system message styles (abstract only)
+
+RT Journal Article
+ID 39351801
+A1 Shneiderman,Ben
+YR 1981
+T1 Advances in computer programming management: Edited by Thomas A. Rullo, Heyden and Sons, Inc., Philadelphia, 1980, 238 pages
+JF Information & Management
+VO 4
+SP 47
+IS 1
+
+RT Journal Article
+ID 1277190
+A1 Shneiderman,B
+YR 1980
+T1 Software psychology: human factors in computer and information systems
+
+RT Conference Proceedings
+ID 578926
+A1 Shneiderman,Ben
+A1 Thomas,Glenn
+YR 1980
+T1 Path Expressions for Complex Queries and Automatic Database Program Conversion
+SP 33
+OP 44
+
+RT Conference Proceedings
+ID 15411
+A1 Shneiderman,Ben
+YR 1980
+T1 Natural Vs. Precise Concise Languages for Human Operation of Computers: Research Issues and Experimental Approaches
+
+RT Journal Article
+ID 1307322
+A1 Schneiderman,Ben
+YR 1980
+T1 Software psychology: human factors in computer and information systems
+
+RT Journal Article
+ID 824788
+A1 Persio,Tom,Di
+A1 Isbister,Dan
+A1 Shneiderman,Ben
+YR 1980
+T1 An Experiment Using Memorization/Reconstruction as a Measure of Programmer Ability
+JF International Journal of Human-computer Studies / International Journal of Man-machine Studies
+VO 13
+SP 339
+OP 354
+IS 3
+
+RT Journal Article
+ID 39351826
+A1 Shneiderman,Ben
+YR 1980
+T1 Hardware options, evaluation metrics, and a design sequence for interactive information systems
+JF Information & Management
+VO 3
+SP 3
+OP 18
+IS 1
+
+RT Journal Article
+ID 1335071
+A1 Shneiderman,Ben
+A1 Mayer,Richard
+YR 1979
+T1 Syntactic/semantic interactions in programmer behavior: A model and experimental results
+JF International Journal of Parallel Programming
+VO 8
+SP 219
+OP 238
+IS 3
+
+RT Journal Article
+ID 1275637
+A1 Shneiderman,B.
+YR 1979
+T1 Human Factors Experiments in Designing Interactive Systems
+JF IEEE Computer
+VO 12
+SP 9
+OP 19
+IS 12
+
+RT Conference Proceedings
+ID 578772
+A1 Taylor,Robert,W.
+A1 Fry,James,P.
+A1 Shneiderman,Ben
+A1 Smith,Diane,C.,P.
+A1 Su,Stanley,Y.,W.
+YR 1979
+T1 Database Program Conversion: A Framework for Research
+SP 299
+OP 312
+
+RT Journal Article
+ID 1277996
+A1 Shneiderman,B.
+YR 1979
+T1 Human factors experiments in designing interactive systems
+
+RT Journal Article
+ID 803842
+A1 Shneiderman,Ben
+YR 1978
+T1 Improving the human factors aspect of database interactions
+JF ACM Transactions on Database Systems
+VO 3
+SP 417
+OP 439
+IS 4
+
+RT Journal Article
+ID 1302819
+A1 Brosey,M.,K.
+A1 Shneiderman,B.
+YR 1978
+T1 Two experimental comparisons of relational and hierarchical database models
+JF International Journal of Human-computer Studies / International Journal of Man-machine Studies
+VO 10
+SP 625
+OP 637
+IS 6
+
+RT Journal Article
+ID 774148
+A1 Shneiderman,Ben
+YR 1978
+T1 Jump searching: a fast sequential search technique
+JF Communications of The ACM
+VO 21
+SP 831
+OP 834
+IS 10
+
+RT Journal Article
+ID 1365741
+A1 Schneiderman,B.
+YR 1978
+T1 Jump searching: a fast sequential search technique
+JF Communications of The ACM
+
+RT Conference Proceedings
+ID 547665
+A1 Shneiderman,Ben
+YR 1978
+T1 A Framework for Automatic Conversion of Network Database Programs Under Schema Transformations
+SP 279
+OP 288
+
+RT Conference Proceedings
+ID 895408
+A1 Lee,Jeanne,M.
+A1 Shneiderman,Ben
+YR 1978
+T1 Personality and programming: Timesharing vs. batch preference
+SP 561
+OP 569
+
+RT Journal Article
+ID 39351336
+A1 Shneiderman,Ben
+YR 1978
+T1 Information policy issues: selecting a policy framework and defining the schema horizon
+JF Information & Management
+VO 1
+SP 207
+OP 218
+IS 4
+
+RT Journal Article
+ID 39351361
+A1 Shneiderman,Ben
+YR 1978
+T1 Review of "modelling in data base management systems": by G. M. Nijssen, North-Holland Publishing Company, Amsterdam, The Netherlands, 418 pages, US $35.00
+JF Information & Management
+VO 1
+SP 85
+IS 2
+
+RT Journal Article
+ID 774457
+A1 Shneiderman,Ben
+A1 Mayer,Richard,E.
+A1 McKay,Don
+A1 Heller,Peter
+YR 1977
+T1 Experimental investigations of the utility of detailed flowcharts in programming
+JF Communications of The ACM
+VO 20
+SP 373
+OP 381
+IS 6
+
+RT Journal Article
+ID 824983
+A1 Shneiderman,Ben
+YR 1977
+T1 Measuring Computer Program Quality and Comprehension
+JF International Journal of Human-computer Studies / International Journal of Man-machine Studies
+VO 9
+SP 465
+OP 478
+IS 4
+
+RT Journal Article
+ID 1381981
+A1 Shneiderman,B.
+YR 1977
+T1 Reduced combined indexes for efficient multiple attribute retrieval
+VO 2
+SP 149
+OP 154
+IS 4
+
+RT Journal Article
+ID 706575
+A1 Shneiderman,Ben
+YR 1977
+T1 Recuced combined indexes for efficient multiple attribute retrieval
+JF Information Systems
+VO 2
+SP 149
+OP 154
+IS 4
+
+RT Journal Article
+ID 1370944
+A1 Shneiderman,B.
+YR 1977
+T1 Teaching programming: A spiral approach to syntax and semantics
+JF Computers & Education
+VO 1
+SP 193
+OP 197
+IS 4
+
+RT Conference Proceedings
+ID 898232
+A1 Anderson,Nancy
+A1 Shneiderman,Ben
+YR 1977
+T1 Use of peer ratings in evaluating computer program quality
+SP 218
+OP 226
+
+RT Journal Article
+ID 744156
+A1 Shneiderman,Ben
+YR 1977
+T1 Design, development and utilization perspectives on database management systems
+JF Information Processing and Management
+VO 13
+SP 23
+OP 33
+IS 1
+
+RT Journal Article
+ID 14498260
+A1 Shneiderman,B
+YR 1977
+T1 Assembly language programming and the IBM 360 and 370 computers ?. Prentice-Hall Inc., Englewood Cliffs, NJ 1976, $16.95, pp. 553. ISBN 0-13-049536-0
+JF Information Processing and Management
+VO 13
+SP 202
+OP 203
+IS 3
+
+RT Journal Article
+ID 14498262
+A1 Shneiderman,B
+YR 1977
+T1 Telecommunications and the Computer ?. Prentice-Hall Inc., Englewood Cliffs, NJ 1976, 2nd Edition, $28.00. pp. 670. ISBN 0-13-902494-8
+JF Information Processing and Management
+VO 13
+SP 203
+IS 3
+
+RT Journal Article
+ID 881549
+A1 Shneiderman,Ben
+YR 1977
+T1 Evaluating introductory programming textbooks: A guide for students, instructors, authors and publishers
+JF ACM Sigcse Bulletin
+
+RT Journal Article
+ID 14411567
+A1 Shneiderman,Ben
+YR 1977
+T1 Evaluating introductory programming textbooks: A guide for students, instructors, authors and publishers
+JF ACM Sigcse Bulletin
+VO 9
+SP 56
+OP 58
+IS 3
+
+RT Journal Article
+ID 1357108
+A1 Shneiderman,Ben
+YR 1976
+T1 Exploratory experiments in programmer behavior
+JF International Journal of Parallel Programming
+VO 5
+SP 123
+OP 143
+IS 2
+
+RT Journal Article
+ID 803977
+A1 Shneiderman,Ben
+A1 Goodman,Victor
+YR 1976
+T1 Batched searching of sequential and tree structured files
+JF ACM Transactions on Database Systems
+VO 1
+SP 268
+OP 275
+IS 3
+
+RT Journal Article
+ID 1352180
+A1 Shneiderman,B.
+A1 Mckay,D.
+YR 1976
+T1 Experimental investigations of computer program debugging and modification
+
+RT Journal Article
+ID 763886
+A1 Shneiderman,Ben
+YR 1976
+T1 A Review of Design Techniques for Programs and Data
+JF Software - Practice and Experience
+VO 6
+SP 555
+OP 567
+IS 4
+
+RT Journal Article
+ID 881623
+A1 Buck,John
+A1 Shneiderman,Ben
+YR 1976
+T1 An internship in information systems: Combining computer science education with realistic problems
+JF ACM Sigcse Bulletin
+
+RT Journal Article
+ID 46467606
+A1 Shneiderman,Ben
+A1 Shapiro,Stuart,C.
+YR 1976
+T1 Toward a theory of encoded data structures and data translation
+JF International Journal of Parallel Programming
+VO 5
+SP 33
+OP 43
+IS 1
+
+RT Journal Article
+ID 14411562
+A1 Buck,John
+A1 Shneiderman,Ben
+YR 1976
+T1 An internship in information systems: Combining computer science education with realistic problems
+JF ACM Sigcse Bulletin
+VO 8
+SP 80
+OP 83
+IS 3
+
+RT Journal Article
+ID 14498231
+A1 Shneiderman,B
+YR 1976
+T1 An introduction to database systems ?, Addison-Wesley, Reading, Mass., Jan. 1975
+JF Information Processing and Management
+VO 12
+SP 229
+OP 230
+IS 3
+
+RT Journal Article
+ID 14498233
+A1 Shneiderman,B
+YR 1976
+T1 Travels in computerland or incompatibilities and interfaces ?, Addison-Wesley, Reading, Mass., 1974
+JF Information Processing and Management
+VO 12
+SP 230
+IS 3
+
+RT Conference Proceedings
+ID 1326285
+A1 Shneiderman,Ben
+YR 1975
+T1 Experimental testing in programming languages, stylistic considerations and design techniques
+SP 653
+OP 656
+
+RT Journal Article
+ID 1292589
+A1 Kreitzberg,Charles,B.
+A1 Shneiderman,Ben
+YR 1975
+T1 Fortran programming: a spiral approach
+
+RT Journal Article
+ID 888930
+A1 Shneiderman,Ben
+YR 1975
+T1 Cognitive psychology and programming language design
+JF Sigplan Notices
+VO 10
+SP 46
+OP 47
+IS 7
+
+RT Journal Article
+ID 14498213
+A1 Shneiderman,B
+YR 1975
+T1 Man-machine systems—Information, control, and decision models of human performance ? and ?. MIT Press, Cambridge, Massachusetts (1974)
+JF Information Processing and Management
+VO 11
+SP 77
+IS 1-2
+
+RT Journal Article
+ID 4144680
+A1 Shneiderman,B.
+YR 1974
+T1 A computer graphics system for polynomials
+
+RT Journal Article
+ID 775982
+A1 Shneiderman,Ben
+A1 Scheuermann,Peter
+YR 1974
+T1 Structured data structures
+JF Communications of The ACM
+VO 17
+SP 566
+OP 574
+IS 10
+
+RT Journal Article
+ID 854673
+A1 Shneiderman,Ben
+YR 1974
+T1 Opportunities for data base reorganization
+JF Sigmod Record
+VO 6
+SP 1
+OP 8
+IS 4
+
+RT Journal Article
+ID 889019
+A1 Shneiderman,Ben
+YR 1974
+T1 The chemistry of control structures
+JF Sigplan Notices
+VO 9
+SP 29
+OP 34
+IS 12
+
+RT Journal Article
+ID 14409279
+A1 Shneiderman,Ben
+A1 Scheuermann,Peter
+YR 1974
+T1 Structured data structures
+JF Sigplan Notices
+VO 9
+SP 71
+OP 72
+IS 4
+
+RT Journal Article
+ID 703152
+A1 Shneiderman,Ben
+YR 1974
+T1 Bibliography on Data Structures
+JF ACM Sigmis Database
+VO 6
+SP 3
+OP 9
+IS 1
+
+RT Journal Article
+ID 889157
+A1 Nassi,I.
+A1 Shneiderman,B.
+YR 1973
+T1 Flowchart techniques for structured programming
+JF Sigplan Notices
+VO 8
+SP 12
+OP 26
+IS 8
+
+RT Journal Article
+ID 774147
+A1 Shneiderman,Ben
+YR 1973
+T1 Optimum data base reorganization points
+JF Communications of The ACM
+VO 16
+SP 362
+OP 365
+IS 6
+
+RT Journal Article
+ID 1267385
+A1 Schneiderman,B.
+YR 1973
+T1 Optimum data base reorganization points
+JF Communications of The ACM
+
+RT Journal Article
+ID 763216
+A1 Shneiderman,Ben
+YR 1973
+T1 Polynomial Search
+JF Software - Practice and Experience
+VO 3
+SP 5
+OP 8
+IS 1
+
+RT Journal Article
+ID 837080
+A1 Shneiderman,Ben
+YR 1973
+T1 Bibliography on Data Base Structures
+JF Sigir Forum
+VO 8
+SP 15
+OP 22
+IS 2
+
+RT Journal Article
+ID 837095
+A1 Heller,J.
+A1 Shneiderman,Ben
+YR 1972
+T1 A Graph Theoretic Model of Data Structures
+JF Sigir Forum
+VO 7
+SP 36
+OP 44
+IS 4
+
+RT Journal Article
+ID 39217698
+A1 Schneiderman,Ben
+YR 1972
+T1 A graph theoretic model of data structures
+JF Sigir Forum
+SP 36
+OP 44
+
+RT Journal Article
+ID 45456319
+A1 Shneiderman,Ben
+YR 1972
+T1 Sixth Annual Symposium on the Application of Computers to the Problems of Urban Society--A Report
+JF Journal of Environmental Systems
+VO 1
+SP 1
+OP 1
+IS 4
+
+RT Journal Article
+ID 881995
+A1 Shneiderman,Ben
+YR 1971
+T1 Computer science education and social relevance
+JF ACM Sigcse Bulletin
+VO 3
+SP 21
+OP 24
+IS 1
+
+RT Conference Proceedings
+ID 11421125
+A1 North,Chris
+A1 Shneiderman,Ben
+T1 Snap-Together Visualization: A User Interface for Coordinating Visualizations via Relational Schemata
+
+RT Journal Article
+ID 1344400
+A1 Chimera,Richard
+A1 Wolman,Kay
+A1 Mark,Sharon
+A1 Shneiderman,Ben
+T1 Evaluation of three interfaces for browsing hierarchical tables of contents
+
+RT Journal Article
+ID 4929767
+A1 Kustanowitz,Jack
+A1 Shneiderman,Ben
+T1 Motivating Annotation for Personal Digital Photo Libraries: Lowering Barriers While Raising Incentives
+
+RT Journal Article
+ID 3214377
+A1 Kules,Bill
+A1 Kang,Hyunmo
+A1 Plaisant,Catherine
+A1 Rose,Anne
+A1 Shneiderman,Ben
+T1 Immediate Usability: Kiosk design principles from the CHI 2001 Photo Library
+
+RT Conference Proceedings
+ID 14262284
+A1 Scarlatos,Lori,L.
+A1 Darken,Rudolph,P.
+A1 Harada,Komei
+A1 Heeter,Carrie
+A1 Muller,Richard
+A1 Shneiderman,Ben
+T1 Designing Interactive Multimedia
+
+RT Journal Article
+ID 4521560
+A1 Resnick,Mitchel
+A1 Myers,Brad
+A1 Nakakoji,Kumiyo
+A1 Shneiderman,Ben
+A1 Pausch,Randy
+A1 Eisenberg,Mike
+T1 Design Principles for Tools to Support Creative Thinking
+
+RT Journal Article
+ID 4533584
+A1 Zhao,Po
+A1 Seo,Jinwook
+A1 Wang,Zuyi
+A1 Wang,Yue
+A1 Shneiderman,Ben
+A1 Hoffman,Eric,P
+T1 In vivo filtering of in vitro MyoD target data: An approach for identification of biologically relevant novel downstream targets of transcription factors
+
+RT Journal Article
+ID 11168545
+A1 Kules,Bill
+A1 Shneiderman,Ben
+T1 Categorized Graphical Overviews for Web Search Results: An Exploratory Study using U.S. Government Agencies as a Meaningful and Stable Structure
+
+RT Journal Article
+ID 34821
+A1 Bessiere,Katie
+A1 Ceaparu,Irina
+A1 Lazar,Jonathan
+A1 Robinson,John
+A1 Shneiderman,Ben
+T1 Social and Psychological Influences on Computer User Frustration
+
+RT Conference Proceedings
+ID 12091141
+A1 Hochheiser,Harry
+A1 Shneiderman,Ben
+T1 Visual Queries for Finding Patterns in Time Series Data
+
+RT Journal Article
+ID 33153
+A1 Seo,Jinwook
+A1 Shneiderman,Ben
+T1 Understanding Hierarchical Clustering Results by Interactive Exploration of Dendrograms: A Case Study with Genomic Microarray Data
+
+RT Journal Article
+ID 2992724
+A1 Norman,Kent,L.
+A1 Zhao,Haixia
+A1 Shneiderman,Ben
+T1 Dynamic Query Chloropleth Maps for Information Seeking and Decision Making
+
+RT Conference Proceedings
+ID 6916795
+A1 Hochheiser,Harry
+A1 Shneiderman,Ben
+T1 Visual Specification of Queries for Finding Patterns in Time-Series Data
+
+RT Journal Article
+ID 11283359
+A1 Seo,Jinwook
+A1 Shneiderman,Ben
+T1 Knowledge Discovery in High Dimensional Data: Case Studies and a User Survey for an Information Visualization Tool
+JF IEEE Transactions on Visualization and Computer Graphics
+
+RT Journal Article
+ID 4650096
+A1 Shneiderman,Ben
+T1 Bridging the Digital Divide with Universal Usability
+JF Interactions
+
+RT Book, Whole
+ID 5207917
+A1 Jank,Wolfgang
+A1 Shmueli,Galit
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+T1 Visualizing Functional Data with an Application to eBay’s Online Auctions
+
+RT Journal Article
+ID 4534964
+A1 North,Chris
+A1 Shneiderman,Ben
+A1 Plaisant,Catherine
+T1 Visual Information Seeking in Digital Image Libraries: The Visible Human Explorer
+
+RT Journal Article
+ID 4901657
+A1 Dunne,Cody
+A1 Shneiderman,Ben
+T1 Improving Graph Drawing Readability by Incorporating Readability Metrics: A Software Tool for Network Analysts
+
+RT Journal Article
+ID 11900885
+A1 Kules,Bill
+A1 Shneiderman,Ben
+T1 From Keyword Search to Exploration: How Result Visualization Aids Discovery on the Web
+
+RT Journal Article
+ID 12775406
+A1 Ceaparu,Irina
+A1 Shneiderman,Ben
+T1 Finding Governmental Statistical Data on the Web: Three Empirical Studies of the FedStats Topics Page
+JF Journal of The American Society for Information Science and Technology
+
+RT Journal Article
+ID 4550585
+A1 Perer,Adam
+A1 Shneiderman,Ben
+T1 Beyond Threads: Identifying Discussions in Email Archives
+
+RT Journal Article
+ID 4925254
+A1 Plaisant,Catherine
+A1 Lam,Stanley
+A1 Shneiderman,Ben
+A1 Smith,Mark,S.
+A1 Roseman,David
+A1 Marchand,Greg
+A1 Gillam,Michael
+A1 Feied,Craig
+A1 Handler,Jonathan
+A1 Rappaport,Hank
+T1 Searching Electronic Health Records for Temporal Patterns in Patient Histories: A Case Study with Microsoft Amalga
+
+RT Journal Article
+ID 4830565
+A1 Kreitzberg,Charles,B.
+A1 Shneiderman,Ben
+T1 Making Computer and Internet Usability a Priority
+
+RT Journal Article
+ID 10114497
+A1 Wu,Philip,Fei
+A1 Preece,Jennifer
+A1 R,Kenneth
+A1 Golbeck,Jennifer
+A1 Jaeger,Paul,T.
+A1 Shneiderman,Ben
+T1 Community Response Grid (CRG) for a University Campus: Design Requirements and Implications
+
+RT Journal Article
+ID 34075
+A1 Shneiderman,Ben
+A1 Ceaparu,Irina
+T1 Improving Web-based Civic Information Access
+
+RT Journal Article
+ID 12940192
+A1 Liu,Xu
+A1 Luo,Ming
+A1 Shneiderman,Ben
+T1 Visualization of Sets
+
+RT Journal Article
+ID 4629376
+A1 Faloutsos,Christos
+A1 Lee,Raymond
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+T1 Incorporating String Search in a Hypertext System
+
+RT Journal Article
+ID 4540825
+A1 Lazar,Jonathan
+A1 Jones,Adam
+A1 Bessiere,Katie
+A1 Ceaparu,Irina
+A1 Shneiderman,Ben
+T1 User Frustration with Technology in the Workplace
+
+RT Journal Article
+ID 4538832
+A1 Tanin,Egemen
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+T1 Broadening Access to Large Online Databases by Generalizing Query Previews
+
+RT Conference Proceedings
+ID 4555654
+A1 Konishi,Makoto
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+T1 Enabling Commuters to Find the Best Route: An Interface for Analyzing Driving History Logs
+
+RT Journal Article
+ID 4628990
+A1 Liao,Holmes,S.
+A1 Osada,Masakazu
+A1 Shneiderman,Ben
+T1 Browsing Unix Directories With Dynamic Queries: An Evaluation of Three Information Display Techniques
+
+RT Journal Article
+ID 13031182
+A1 Shneiderman,Ben
+T1 ENGAGEMENT AND CONSTRUCTION: EDUCATION STRATEGIES FOR THE POST-TV ERA
+
+RT Journal Article
+ID 4540880
+A1 Kules,Bill
+A1 Shneiderman,Ben
+T1 Using meaningful and stable categories to support exploratory web search: Two formative studies
+
+RT Journal Article
+ID 83893
+A1 Potter,Richard
+A1 Shneiderman,Ben
+A1 Bederson,Ben
+T1 Pixel Data Access for End-User Programming and Graphical Macros
+
+RT Journal Article
+ID 4525260
+A1 Kustanowitz,Jack
+A1 Shneiderman,Ben
+T1 Bi-level Hierarchical Layouts for Photo Libraries: Algorithms for Design Optimization with Quantum Content
+
+RT Journal Article
+ID 12748751
+A1 Shneiderman,Ben
+A1 Baker,H.,Ross
+A1 Duarte,Nicolas,B.
+A1 Haririnia,Aydin
+A1 Klinesmith,Dawn,E.
+A1 Lee,Hannah
+A1 Velikovich,Leonid,A.
+A1 Wanga,Alfred,O.
+A1 Westhoff,Matthew,J.
+T1 Personal Role Management: Overview and a Design Study of Email for University Students
+
+RT Conference Proceedings
+ID 11758335
+A1 Zhao,Haixia
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+A1 Lazar,Jonathan
+T1 A Framework for Auditory Data Exploration and Evaluation with Geo-referenced Data Sonification
+
+RT Journal Article
+ID 4551251
+A1 Zhao,Haixia
+A1 Smith,Benjamin,K.
+A1 Norman,Kent
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+T1 Listening to Maps: User Evaluation of Interactive Sonifications of Geo-Referenced Data (2004)
+
+RT Journal Article
+ID 10593444
+A1 Seo,Jinwook
+A1 Bakay,Marina
+A1 Chen,Yi-Wen
+A1 Hilmer,Sara
+A1 Shneiderman,Ben
+A1 Hoffman,Eric,P
+T1 Optimizing signal/noise ratios in expression profiling: Project-specific algorithm selection and detection p value weighting in Affymetrix microarrays
+
+RT Journal Article
+ID 28012
+A1 Kules,Bill
+A1 Kang,Hyunmo
+A1 Plaisant,Catherine
+A1 Rose,Anne
+A1 Shneiderman,Ben
+T1 Immediate Usability: Kiosk design principles from the CHI
+
+RT Journal Article
+ID 4528540
+A1 Seo,Jinwook
+A1 Shneiderman,Ben
+T1 Interactive Exploration of Multidimensional Microarray Data: Scatterplot Ordering, Gene Ontology Browser, and Profile Search
+
+RT Journal Article
+ID 13059230
+A1 Shneiderman,Ben
+A1 Fischer,Gerhard
+A1 Czerwinski,Mary
+A1 Arias,Ernesto
+A1 Edmonds,Ernest
+A1 Eisenberg,Michael
+A1 Giaccardi,Elisa
+A1 Guimbretiere,Francois
+A1 Jennings,Pamela
+A1 Ko,Andy
+A1 Kules,Bill
+A1 Maeda,John
+A1 Nakakoji,Kumiyo
+A1 Olson,Gary
+T1 NSF Workshop Report on Creativity Support Tools Participants List
+
+RT Journal Article
+ID 13016035
+A1 Bakay,Marina
+A1 Melcon,Gisela
+A1 Wang,Zuyi
+A1 Schiltz,Louis
+A1 Xuan,Jianhua
+A1 Zhao,Po
+A1 Sartorelli,Vittorio
+A1 Seo,Jinwook
+A1 Nader,Gustavo
+A1 Dong,Yibin
+A1 Shneiderman,Ben
+A1 Escolar,Diana
+A1 Chen,Yi-Wen
+A1 Winokur,Sara
+A1 Fan,Chenguang
+A1 Mitchell,Stephanie
+A1 Tandon,Sonia
+A1 Chen,Josephine
+A1 Mandler,Raul
+A1 Nevo,Yoram
+A1 Gordon,Erynn
+A1 Zhu,Yitan
+A1 Wang,Yue
+A1 Hoffman,Eric,P.
+T1 Lamin A/C and emerin mutations in Emery-Dreifuss muscular dystrophy disrupt Rb-MyoD pathways
+
+RT Journal Article
+ID 13035374
+A1 RAO,SRIKUMAR,S.
+A1 JR,ORLAND,J.,BLANCHARD
+A1 GOLDSTEIN,ROGER
+A1 GROSSKOPF,ANKE
+A1 THOMPSON,ELAINE
+A1 CHU,HETING
+A1 COONEY,MARTHA
+A1 KRICHEL,THOMAS
+A1 SCHNEIDERMAN,BETTE
+T1 INTERNATIONAL AFFAIRS
+
+RT Journal Article
+ID 12770785
+A1 Bederson,Ben
+A1 Druin,Allison
+A1 Guimbretière,François
+A1 Norman,Kent
+A1 Oard,Douglas
+A1 Preece,Jenny
+A1 Shneiderman,Ben
+T1 University of Maryland: Three options for HCI Ph.D. education
+
+RT Journal Article
+ID 49392323
+A1 Rios-Berrios,Miguel
+A1 Sharma,Puneet
+A1 Lee,Tak,Yeon
+A1 Schwartz,Rachel
+A1 Shneiderman,Ben
+T1 TreeCovery: Coordinated Dual Treemap Visualization for Exploring the Recovery Act
+JF Government Information Quarterly
+
+RT Journal Article
+ID 10253651
+A1 Bonsignore,Elizabeth,M.
+A1 Dunne,Cody
+A1 Rotman,Dana
+A1 Smith,Marc
+A1 Caponek,Tony
+A1 Hansen,Derek,L.
+A1 Shneiderman,Ben
+T1 First Steps to NetViz Nirvana: Evaluating Social Network Analysis with NodeXL
+
+RT Journal Article
+ID 4538372
+A1 Gregory,Machon
+A1 Don,Anthony
+A1 Zheleva,Elena
+A1 Tarkan,Sureyya
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+T1 Shape Search in Temporal Data to Facilitate Knowledge Discovery: A User Interface to Find Spikes, Sinks and Slopes
+
+RT Journal Article
+ID 6835917
+A1 Jong,Chang-Han
+A1 Rajkumar,Prahalad
+A1 Siddiquie,Behjat
+A1 Clement,Tanya
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+T1 Interactive Exploration of Versions across Multiple Documents
+
+RT Journal Article
+ID 10217441
+A1 LAZAR,JONATHAN
+A1 BESSIERE,KATIE
+A1 CEAPARU,IRINA
+A1 ROBINSON,JOHN
+A1 SHNEIDERMAN,BEN
+T1 USER FRUSTRATION IN WEB NAVIGATION
+
+RT Journal Article
+ID 12808713
+A1 Seo,Jinwook
+A1 Bakay,Marina
+A1 Hilmer,Sara
+A1 Shneiderman,Ben
+A1 Hoffman,Eric,P
+T1 Building a Coherent Data Pipeline in Microarray Data Analyses: Optimization of Signal/Noise Ratios Using an Interactive Visualization Tool and a Novel Noise Filtering Method
+
+RT Journal Article
+ID 11588767
+A1 Ahlberg,Christopher
+A1 Shneiderman,Ben
+T1 Seeking: Tight Coupling of Dynamic Query Filters with Starfield Displays
+
+RT Journal Article
+ID 4545136
+A1 Axelrod,Adam
+A1 Golbeck,Jennifer
+A1 Shneiderman,Ben
+T1 Generating and Querying Semantic Web Environments for Photo Libraries
+
+RT Journal Article
+ID 5661078
+A1 Zalinger,Jason
+A1 Freier,Nathan,G.
+A1 Freire,Manuel
+A1 Oard,Doug
+A1 Shneiderman,Ben
+T1 Reading Ben Shneiderman's Email: Identifying Narrative Elements in Email Archives
+
+RT Journal Article
+ID 128180
+A1 Plaisant,Catherine
+A1 Rose,Anne
+A1 Shneiderman,Ben
+A1 Vanniamparampil,Ajit,J.
+T1 User Interface Reengineering: Low-Effort, High-Payoff Strategies
+
+RT Journal Article
+ID 48358982
+A1 Wang,Taowei,David
+A1 Wongsuphasawat,Krist
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+T1 Extracting Insights from Electronic Health Records: Case Studies, a Visual Analytics Process Model, and Design Recommendations
+JF Journal of Medical Systems
+SP 1
+OP 18
+
+RT Journal Article
+ID 12715070
+A1 Apitz,Georg
+A1 Bederson,Ben
+A1 Shneiderman,Ben
+T1 Interrupted Coordinated Activities
+
+RT Journal Article
+ID 4526833
+A1 Zhao,Haixia
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+A1 Lazar,Jonathan
+T1 Interactive Auditory Data Exploration: A Framework and Evaluation with Geo-referenced Data Sonification
+
+RT Journal Article
+ID 12797804
+A1 Shneiderman,Ben
+A1 Kaufman,Morgan
+T1 Selected Visualization References Set 3 - Perception, Cognition and Design
+
+RT Journal Article
+ID 4626492
+A1 Tanin,Egemen
+A1 Beigel,Richard
+A1 Shneiderman,Ben
+T1 Research Report Design and Evaluation of Incremental Data Structures and Algorithms for Dynamic Query Interfaces
+
+RT Journal Article
+ID 4971506
+A1 Namata,Galileo
+A1 Staats,Brian
+A1 Shneiderman,Ben
+T1 DualNet: A Coordinated View Approach to Network Visualization
+
+RT Journal Article
+ID 5770374
+A1 Tanin,Egemen
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+T1 Broadening Access to Large Online Databases by
+
+RT Journal Article
+ID 6807609
+A1 Wongsuphasawat,Krist
+A1 Plaisant,Catherine
+A1 Shneiderman,Ben
+T1 Event Sequence Queries by Example or by Filters: Design and Empirical Evaluation
+
+RT Journal Article
+ID 192425
+A1 Kuester,Steven,P.
+A1 Shneiderman,Ben
+T1 User Interfaces for a Complex Robotic Task: A Comparison of Tiled vs. Overlapped Windows
+
+RT Journal Article
+ID 13024370
+A1 Carr,David,Andrew
+A1 Shneiderman,Ben
+T1 Title of Dissertation: A Compact Graphical Representation of User Interface
+
+RT Journal Article
+ID 6319664
+A1 Aris,Aleks
+A1 Shneiderman,Ben
+T1 A Node Aggregation Strategy to Reduce Complexity of Network Visualization using Semantic Substrates
+
+RT Journal Article
+ID 10425496
+A1 Seo,Jinwook
+A1 Shneiderman,Ben
+T1 Understanding Clusters in Multidimensional Spaces: Making Meaning by Combining Insights from Coordinated Views of Domain Knowledge
+
+RT Journal Article
+ID 285436
+A1 Chapman,Roger,J.
+A1 Shneiderman,Ben
+T1 Booksites as Web-based Dynamic Supplements to Computer Science Textbooks
+
+RT Journal Article
+ID 12793150
+A1 Zhao,Haixia
+A1 Shneiderman,Ben
+T1 Title of Document: INTERACTIVE SONIFICATION OF ABSTRACT DATA - FRAMEWORK, DESIGN SPACE, EVALUATION, AND USER TOOL
+
+RT Journal Article
+ID 350974
+A1 Shneiderman,Ben
+T1 The River Beyond the Rapids: Responsive Services for Responsible Users
+
+RT Book, Whole
+ID 5131409
+A1 Shneiderman,Ben
+T1 Creativity Support Tools: A Grand Challenge for HCI Researchers
+
+RT Journal Article
+ID 6112119
+A1 Shneiderman,Ben
+T1 Research Agenda: Visual Overviews for Exploratory Search
+
+RT Journal Article
+ID 10014611
+A1 SHNEIDERMAN,BEN
+T1 DYNAMIC QUERIES FOR VISUAL
+
+RT Journal Article
+ID 13024573
+A1 Shneiderman,Ben
+T1 Johns Hopkins University
+
+RT Journal Article
+ID 13029696
+A1 Shneiderman,Ben
+T1 Block II: Web Design für spezielle Anwendungen
+
+RT Journal Article
+ID 13044767
+A1 S,Ben
+T1 NATURAL VS. PRECISE CONCISE LANGUAGES FOR HUMAN OPERATION OF COMPUTERS: RESEARCH ISSUES AND EXPERIMENTAL APPROACHES
+
+RT Journal Article
+ID 14218499
+A1 Shneiderman,Ben
+T1 The Thrill of Discovery: Information Visualization for High-Dimensional Spaces
+
+RT Book, Whole
+ID 48801719
+A1 Shneiderman,Ben
+T1 Technology-Mediated Social Participation: The Next 25 Years of HCI Challenges

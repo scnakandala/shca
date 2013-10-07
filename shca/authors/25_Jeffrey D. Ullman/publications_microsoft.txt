@@ -1,0 +1,4704 @@
+RT Conference Proceedings
+ID 56982814
+A1 Afrati,Foto,N.
+A1 Sarma,Anish,Das
+A1 Menestrina,David
+A1 Parameswaran,Aditya
+A1 Ullman,Jeffrey,D.
+YR 2012
+T1 Fuzzy Joins Using MapReduce
+SP 498
+OP 509
+
+RT Conference Proceedings
+ID 39228829
+A1 Afrati,Foto,N.
+A1 Borkar,Vinayak,R.
+A1 Carey,Michael,J.
+A1 Polyzotis,Neoklis
+A1 Ullman,Jeffrey,D.
+YR 2011
+T1 Map-reduce extensions and recursive queries
+SP 1
+OP 8
+
+RT Journal Article
+ID 51186788
+A1 Afrati,Foto,N.
+A1 Ullman,Jeffrey,D.
+YR 2011
+T1 Optimizing Multiway Joins in a Map-Reduce Environment
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 23
+SP 1282
+OP 1298
+IS 9
+
+RT Conference Proceedings
+ID 5330361
+A1 Afrati,Foto,N.
+A1 Ullman,Jeffrey,D.
+YR 2010
+T1 Optimizing joins in a map-reduce environment
+SP 99
+OP 110
+
+RT Journal Article
+ID 6652794
+A1 Agrawal,Parag
+A1 Sarma,Anish,Das
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 2010
+T1 Foundations of Uncertain-Data Integration
+JF Proceedings of The Vldb Endowment
+VO 3
+SP 1080
+OP 1090
+IS 1
+
+RT Conference Proceedings
+ID 6194399
+A1 Parameswaran,Aditya,G.
+A1 Garcia-Molina,Hector
+A1 Ullman,Jeffrey,D.
+YR 2010
+T1 Evaluating, combining and generalizing recommendations with prerequisites
+SP 919
+OP 928
+
+RT Book, Whole
+ID 39250851
+A1 Garcia-Molina,Hector
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 2009
+T1 Database systems - the complete book (2. ed.)
+
+RT Journal Article
+ID 5341714
+A1 Sarma,Anish,Das
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 2009
+T1 Schema Design for Uncertain Databases
+
+RT Journal Article
+ID 4755185
+A1 Ullman,Jeffrey,D.
+YR 2009
+T1 Viewpoint - Advising students for success
+JF Communications of The ACM
+VO 52
+SP 34
+OP 37
+IS 3
+
+RT Journal Article
+ID 4397355
+A1 Afrati,Foto,N.
+A1 Li,Chen
+A1 Ullman,Jeffrey,D.
+YR 2007
+T1 Using views to generate efficient evaluation plans for queries
+JF Journal of Computer and System Sciences
+VO 73
+SP 703
+OP 724
+IS 5
+
+RT Journal Article
+ID 15180325
+A1 Ghaemmaghami,S.
+A1 Phuan,P.-W.
+A1 Perkins,B.
+A1 Ullman,J.
+A1 May,B.,C.,H.
+A1 Cohen,F.,E.
+A1 Prusiner,S.,B.
+YR 2007
+T1 From the Cover: Cell division modulates prion accumulation in cultured cells
+JF Proceedings of The National Academy of Sciences
+VO 104
+SP 17971
+OP 17976
+IS 46
+
+RT Conference Proceedings
+ID 4252875
+A1 Mumick,Inderpal,Singh
+A1 Dewitt,David
+A1 Lockemann,Peter
+A1 Navathe,Sham
+A1 Widom,Jennifer
+A1 Shmueli,Oded
+A1 Valduriez,Patrick
+A1 Dittrich,Klaus
+A1 Jagadish,H.,V.
+A1 Mattos,Nelson,M.
+A1 Witkowski,Andy
+A1 Ross,Kenneth,A.
+A1 Wang,Jason
+A1 Gottemukkala,Vibby
+A1 Kemp,David
+A1 Sudarshan,S.
+A1 Ullman,Jeffrey,D.
+YR 2006
+T1 Conference Organizers
+
+RT Conference Proceedings
+ID 1874321
+A1 Ullman,Jeffrey,D.
+YR 2005
+T1 Gradiance On-Line Accelerated Learning
+SP 3
+OP 6
+
+RT Journal Article
+ID 1731828
+A1 Abiteboul,Serge
+A1 Hull,Richard
+A1 Vianu,Victor
+A1 Greibach,Sheila,A.
+A1 Harrison,Michael,A.
+A1 Horowitz,Ellis
+A1 Rosenkrantz,Daniel,J.
+A1 Ullman,Jeffrey,D.
+A1 Vardi,Moshe,Y.
+YR 2005
+T1 In memory of Seymour Ginsburg 1928 - 2004
+JF Sigmod Record
+VO 34
+SP 5
+OP 12
+IS 1
+
+RT Journal Article
+ID 779779
+A1 Abiteboul,Serge
+A1 Agrawal,Rakesh
+A1 Bernstein,Philip,A.
+A1 Carey,Michael,J.
+A1 Ceri,Stefano
+A1 Croft,W.,Bruce
+A1 Dewitt,David,J.
+A1 Franklin,Michael,J.
+A1 Molina,Hector,Garcia
+A1 Gawlick,Dieter
+A1 Gray,Jim
+A1 Haas,Laura,M.
+A1 Halevy,Alon,Y.
+A1 Hellerstein,Joseph,M.
+A1 Ioannidis,Yannis,E.
+A1 Kersten,Martin,L.
+A1 Pazzani,Michael,J.
+A1 Lesk,Michael
+A1 Maier,David
+A1 Naughton,Jeffrey,F.
+A1 Schek,Hans-jörg
+A1 Sellis,Timos,K.
+A1 Silberschatz,Avi
+A1 Stonebraker,Michael
+A1 Snodgrass,Richard,T.
+A1 Ullman,Jeffrey,D.
+A1 Weikum,Gerhard
+A1 Widom,Jennifer
+YR 2003
+T1 The Lowell Database Research Self Assessment
+JF Computing Research Repository
+VO cs.DB/0310
+
+RT Conference Proceedings
+ID 667640
+A1 Gray,Jim
+A1 Schek,Hans-Jörg
+A1 Stonebraker,Michael
+A1 Ullman,Jeffrey,D.
+YR 2003
+T1 The Lowell report
+SP 680
+OP 680
+
+RT Conference Proceedings
+ID 667922
+A1 Ullman,Jeffrey,D.
+YR 2003
+T1 Improving the efficiency of database-system teaching
+SP 1
+OP 3
+
+RT Conference Proceedings
+ID 50305516
+A1 Ullman,J.,D.
+YR 2003
+T1 A survey of new directions in database systems
+
+RT Journal Article
+ID 14301390
+A1 Automatentheorie,Vorlesung
+A1 Hopcroft,J.,E.
+A1 Ullman,J.,D.
+A1 Khoussainov,B.
+A1 Nerode,A.
+YR 2003
+T1 Einige Literaturhinweise
+
+RT Book, Whole
+ID 39254101
+A1 Hopcroft,John,E.
+A1 Motwani,Rajeev
+A1 Ullman,Jeffrey,D.
+YR 2003
+T1 Introduction to automata theory, languages, and computation - international edition (2. ed)
+
+RT Conference Proceedings
+ID 648056
+A1 Ullman,Jeffrey,D.
+YR 2003
+T1 A Survey of New Directions in Database System
+SP 3
+
+RT Journal Article
+ID 1277403
+A1 Molina,H.,G.
+A1 Ullman,J.,D.
+A1 Widom,J.
+YR 2002
+T1 Database systems: the complete book
+
+RT Journal Article
+ID 3605530
+A1 Ullman,J
+YR 2002
+T1 Principles of Database System
+
+RT Book, Whole
+ID 39254332
+A1 Hopcroft,John,E.
+A1 Motwani,Rajeev
+A1 Ullman,Jeffrey,D.
+YR 2002
+T1 Einführung in die Automatentheorie, formale Sprachen und Komplexitätstheorie (2. Aufl.)
+
+RT Book, Whole
+ID 39254414
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 2002
+T1 A first course in database systems (2. ed.)
+
+RT Book, Whole
+ID 39254411
+A1 Garcia-Molina,Hector
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 2002
+T1 Database systems - the complete book (international edition)
+
+RT Journal Article
+ID 3270212
+A1 Hopcroft,J.,E.
+A1 Motwani,R.
+A1 Ullman,J.,D.
+YR 2001
+T1 Introduction to Automata Theory, Language, and Computation
+JF Sigact News
+
+RT Book, Whole
+ID 39250505
+A1 Hopcroft,John,E.
+A1 Motwani,Rajeev
+A1 Ullman,Jeffrey,D.
+YR 2001
+T1 Introduction to automata theory, languages, and computation - (2. ed.)
+
+RT Journal Article
+ID 2058584
+A1 Garcia-molina,H.
+A1 Ullman,J.
+A1 Widom,J.
+YR 2001
+T1 Database Systems: The Complete Book
+
+RT Journal Article
+ID 802832
+A1 Cohen,Edith
+A1 Datar,Mayur
+A1 Fujiwara,Shinji
+A1 Gionis,Aristides
+A1 Indyk,Piotr
+A1 Motwani,Rajeev
+A1 Ullman,Jeffrey,D.
+A1 Yang,Cheng
+YR 2001
+T1 Finding Interesting Associations without Support Pruning
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 13
+SP 64
+OP 78
+IS 1
+
+RT Journal Article
+ID 143419
+A1 Afrati,Foto,N.
+A1 Li,Chen
+A1 Ullman,Jeffrey,D.
+YR 2001
+T1 Generating Efficient Plans for Queries Using Views
+JF Sigmod Record
+VO 30
+SP 319
+OP 330
+IS 2
+
+RT Book, Whole
+ID 1323530
+A1 Li,Chen
+A1 Bawa,Mayank
+A1 Ullman,Jeffrey,D.
+YR 2001
+T1 Minimizing View Sets without Losing Query-Answering Power
+SP 99
+OP 113
+
+RT Conference Proceedings
+ID 565346
+A1 Rajaraman,Anand
+A1 Ullmann,Jeffrey,D.
+YR 2001
+T1 Querying websites using compact skeletons
+SP 16
+OP 27
+
+RT Journal Article
+ID 3605517
+A1 Ullman,J.
+YR 2001
+T1 Principles of Database and Knowledge-Base System
+
+RT Conference Proceedings
+ID 2127539
+A1 Afrati,F.
+A1 Li,C.
+A1 Ullman,J.,D.
+YR 2001
+T1 Generating efficient plans using views
+
+RT Journal Article
+ID 39217285
+A1 Afrati,Foto,N.
+A1 Li,Chen
+A1 Ullman,Jeffrey,D.
+YR 2001
+T1 Generating efficient plans for queries using views
+JF Sigmod Record
+SP 319
+OP 330
+
+RT Conference Proceedings
+ID 522885
+A1 Cohen,Edith
+A1 Datar,Mayur
+A1 Fujiwara,Shinji
+A1 Gionis,Aristides
+A1 Indyk,Piotr
+A1 Motwani,Rajeev
+A1 Ullman,Jeffrey,D.
+A1 Yang,Cheng
+YR 2000
+T1 Finding Interesting Associations without Support Pruning
+SP 489
+OP 499
+
+RT Book, Whole
+ID 695207
+A1 Garcia-molina,Hector
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 2000
+T1 Database System Implementation
+
+RT Journal Article
+ID 760042
+A1 Ullman,Jeffrey,D.
+YR 2000
+T1 Information integration using logical views
+JF Theoretical Computer Science
+VO 239
+SP 189
+OP 210
+IS 2
+
+RT Journal Article
+ID 812966
+A1 Silverstein,Craig
+A1 Brin,Sergey
+A1 Motwani,Rajeev
+A1 Ullman,Jeffrey,D.
+YR 2000
+T1 Scalable Techniques for Mining Causal Structures
+JF Data Mining and Knowledge Discovery
+VO 4
+SP 163
+OP 192
+IS 2/3
+
+RT Journal Article
+ID 1340508
+A1 Corless,R.
+A1 Davenport,J.
+A1 Jeffrey,D.
+A1 Watt,S.
+YR 2000
+T1 According to abramowitz and stegun
+JF ACM Sigsam Bulletin
+
+RT Conference Proceedings
+ID 248456
+A1 Fujiwara,Shinji
+A1 Ullman,Jeffrey,D.
+A1 Motwani,Rajeev
+YR 2000
+T1 Dynamic Miss-Counting Algorithms: Finding Implication and Similarity Rules with Confidence Pruning
+SP 501
+OP 511
+
+RT Book, Whole
+ID 39250487
+A1 Hopcroft,John,E.
+A1 Ullman,Jeffrey,D.
+YR 2000
+T1 Introduction to Automata Theory, Languages and Computation, Second Edition
+
+RT Journal Article
+ID 15277025
+A1 Silverstein,Craig
+A1 Brin,Sergey
+A1 Motwani,Rajeev
+A1 Ullman,Jeff
+YR 2000
+T1 Scalable Techniques for Mining Causal Structures
+JF Data Mining and Knowledge Discovery
+VO 4
+SP 163
+OP 192
+IS 2
+
+RT Book, Whole
+ID 458824
+A1 Ullman,Jeffrey,D.
+YR 2000
+T1 A Survey of Association-Rule Mining
+SP 1
+OP 14
+
+RT Journal Article
+ID 355580
+A1 Yerneni,Ramana
+A1 Li,Chen
+A1 Garcia-Molina,Hector
+A1 Ullman,Jeffrey,D.
+YR 1999
+T1 Computing Capabilities of Mediators
+JF Sigmod Record
+VO 28
+SP 443
+OP 454
+IS 2
+
+RT Journal Article
+ID 790890
+A1 Levy,Alon,Y.
+A1 Rajaraman,Anand
+A1 Ullman,Jeffrey,D.
+YR 1999
+T1 Answering Queries Using Limited External Query Processors
+JF Journal of Computer and System Sciences
+VO 58
+SP 69
+OP 82
+IS 1
+
+RT Book, Whole
+ID 282167
+A1 Yerneni,Ramana
+A1 Li,Chen
+A1 Ullman,Jeffrey,D.
+A1 Garcia-molina,Hector
+YR 1999
+T1 Optimizing Large Join Queries in Mediation Systems
+SP 348
+OP 364
+
+RT Journal Article
+ID 2392886
+A1 Grossman,R.
+A1 Kasif,S.
+A1 Moore,R.
+A1 Rocke,D.
+A1 Ullman,J.
+YR 1999
+T1 Data Mining Research: Opportunities and Challenges
+
+RT Journal Article
+ID 52061
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 1999
+T1 Introduccion a Los Sistemas De Bases De Datos
+
+RT Journal Article
+ID 2776195
+A1 Aho,Alfred,V.
+A1 Linn,Marcia
+A1 Packer,Arnold
+A1 Tucker,Allen
+A1 Ullman,Jeffrey
+A1 Dam,Andries,Van
+YR 1999
+T1 Being Fluent with Information Technology
+
+RT Journal Article
+ID 39217193
+A1 Yerneni,Ramana
+A1 Li,Chen
+A1 Garcia-Molina,Hector
+A1 Ullman,Jeffrey
+YR 1999
+T1 Computing capabilities of mediators
+JF Sigmod Record
+SP 443
+OP 454
+
+RT Conference Proceedings
+ID 611557
+A1 Ullman,Jeffrey,D.
+YR 1999
+T1 The MIDAS Data-Mining Project at Stanford
+SP 460
+OP 464
+
+RT Conference Proceedings
+ID 626298
+A1 Ullman,Jeffrey,D.
+YR 1999
+T1 Some Advances in Data-Mining Techniques (Abstract)
+SP 1
+
+RT Conference Proceedings
+ID 383318
+A1 Fang,Min
+A1 Shivakumar,Narayanan
+A1 Garcia-molina,Hector
+A1 Motwani,Rajeev
+A1 Ullman,Jeffrey,D.
+YR 1998
+T1 Computing Iceberg Queries Efficiently
+SP 299
+OP 310
+
+RT Conference Proceedings
+ID 2562
+A1 Silverstein,Craig
+A1 Brin,Sergey
+A1 Motwani,Rajeev
+A1 Ullman,Jeffrey,D.
+YR 1998
+T1 Scalable Techniques for Mining Causal Structures
+SP 594
+OP 605
+
+RT Journal Article
+ID 854927
+A1 Bernstein,Philip,A.
+A1 Brodie,Michael,L.
+A1 Ceri,Stefano
+A1 DeWitt,David,J.
+A1 Franklin,Michael,J.
+A1 Garcia-Molina,Hector
+A1 Gray,Jim
+A1 Held,Jerry
+A1 Hellerstein,Joseph,M.
+A1 Jagadish,H.,V.
+A1 Lesk,Michael
+A1 Maier,David
+A1 Naughton,Jeffrey,F.
+A1 Pirahesh,Hamid
+A1 Stonebraker,Michael
+A1 Ullman,Jeffrey,D.
+YR 1998
+T1 The Asilomar report on database research
+JF Sigmod Record
+VO 27
+SP 74
+OP 80
+IS 4
+
+RT Conference Proceedings
+ID 667757
+A1 Tsur,Shalom
+A1 Ullman,Jeffrey,D.
+A1 Abiteboul,Serge
+A1 Clifton,Chris
+A1 Motwani,Rajeev
+A1 Nestorov,Svetlozar
+A1 Rosenthal,Arnon
+YR 1998
+T1 Query Flocks: A Generalization of Association-Rule Mining
+SP 1
+OP 12
+
+RT Journal Article
+ID 1348882
+A1 Ullman,J.,D.
+YR 1998
+T1 Elements of ml programming
+
+RT Journal Article
+ID 353430
+A1 Li,Chen
+A1 Yerneni,Ramana
+A1 Vassalos,Vasilis
+A1 Garcia-Molina,Hector
+A1 Papakonstantinou,Yannis
+A1 Ullman,Jeffrey,D.
+A1 Valiveti,Murty
+YR 1998
+T1 Capability Based Mediation in TSIMMIS
+JF Sigmod Record
+VO 27
+SP 564
+OP 566
+IS 2
+
+RT Journal Article
+ID 14415119
+A1 Tsur,Dick
+A1 Ullman,Jeffrey,D.
+A1 Abiteboul,Serge
+A1 Clifton,Chris
+A1 Motwani,Rajeev
+A1 Nestorov,Svetlozar
+A1 Rosenthal,Arnon
+YR 1998
+T1 Query flocks: a generalization of association-rule mining
+JF Sigmod Record
+VO 27
+SP 1
+OP 12
+IS 2
+
+RT Book, Whole
+ID 3025777
+A1 Ullman,Jeffrey,D.
+YR 1998
+T1 Elements of ML programming - ML 97 edition
+
+RT Journal Article
+ID 2646250
+A1 Ullman,J.
+A1 Milner,R.
+A1 Shastri,V.
+A1 Brown,G.
+A1 Perlis,A.
+A1 Suzuki,B.
+YR 1998
+T1 A visualization of the World Wide Web using FlaggyCold
+
+RT Journal Article
+ID 39217159
+A1 Li,Chen
+A1 Yerneni,Ramana
+A1 Vassalos,Vasilis
+A1 Garcia-Molina,Hector
+A1 Papakonstantinou,Yannis
+A1 Ullman,Jeffrey
+A1 Valiveti,Murty
+YR 1998
+T1 Capability based mediation in TSIMMIS
+JF Sigmod Record
+SP 564
+OP 566
+
+RT Book, Whole
+ID 57388342
+A1 Aho,A.
+A1 Ullman,J.
+YR 1998
+T1 Concepts fondamentaux de l'informatique
+
+RT Journal Article
+ID 354749
+A1 Brin,Sergey
+A1 Motwani,Rajeev
+A1 Ullman,Jeffrey,D.
+A1 Tsur,Shalom
+YR 1997
+T1 Dynamic itemset counting and implication rules for market basket data
+JF Sigmod Record
+VO 26
+SP 255
+OP 264
+IS 2
+
+RT Book, Whole
+ID 393613
+A1 Ullman,Jeffrey,D.
+YR 1997
+T1 Information Integration Using Logical Views
+SP 19
+OP 40
+
+RT Journal Article
+ID 386588
+A1 Garcia-molina,Hector
+A1 Papakonstantinou,Yannis
+A1 Quass,Dallan
+A1 Rajaraman,Anand
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+A1 Vassalos,Vasilis
+A1 Widom,Jennifer
+YR 1997
+T1 The TSIMMIS Approach to Mediation: Data Models and Languages
+JF Journal of Intelligent Information Systems
+VO 8
+SP 117
+OP 132
+IS 2
+
+RT Conference Proceedings
+ID 383271
+A1 Gupta,Himanshu
+A1 Harinarayan,Venky
+A1 Rajaraman,Anand
+A1 Ullman,Jeffrey,D.
+YR 1997
+T1 Index Selection for OLAP
+SP 208
+OP 219
+
+RT Conference Proceedings
+ID 231654
+A1 Nestorov,Svetlozar
+A1 Ullman,Jeffrey,D.
+A1 Wiener,Janet,L.
+A1 Chawathe,Sudarshan,S.
+YR 1997
+T1 Representative Objects: Concise Representations of Semistructured, Hierarchial Data
+SP 79
+OP 90
+
+RT Book, Whole
+ID 695208
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 1997
+T1 A First Course in Database Systems
+
+RT Journal Article
+ID 1309215
+A1 Garcia-molina,H.
+A1 Papakonstantinou,Y.
+A1 Quass,D.
+A1 Rajaraman,A.
+A1 Sagiv,Y.
+A1 Ullman,J.
+A1 Widom,J.
+YR 1997
+T1 The tsimmis project: integration of heterogeneous information sources
+JF Journal of Intelligent Information Systems
+
+RT Conference Proceedings
+ID 10496334
+A1 Nestorov,Svetlozar
+A1 Ullman,Jeffrey
+A1 Wiener,Janet
+A1 Chawathe,Sudarshan
+YR 1997
+T1 Representative objects: concise representations of semistructured, hierarchical data
+SP 79
+OP 90
+
+RT Journal Article
+ID 854296
+A1 Buneman,Peter
+A1 Raschid,Louiqa
+A1 Ullman,Jeffrey,D.
+YR 1997
+T1 Mediator Languages - a Proposal for a Standard: report of an I 3 /POB working group held at the University of Maryland, April 12 and 13, 1996
+JF Sigmod Record
+VO 26
+SP 39
+OP 44
+IS 1
+
+RT Journal Article
+ID 15231619
+A1 Garcia-Molina,Hector
+A1 Papakonstantinou,Yannis
+A1 Quass,Dallan
+A1 Rajaraman,Anand
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey
+A1 Vassalos,Vasilis
+A1 Widom,Jennifer
+YR 1997
+T1 The TSIMMIS Approach to Mediation: Data Models and Languages
+JF Journal of Intelligent Information Systems
+VO 8
+SP 117
+OP 132
+IS 2
+
+RT Journal Article
+ID 748174
+A1 Quass,Dallan
+A1 Rajaraman,Anand
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+A1 Sagiv,Yehoshua
+YR 1997
+T1 Querying Semistructured Heterogeneous Information
+JF Journal of Systems Integration
+VO 7
+SP 381
+OP 407
+IS 3/4
+
+RT Conference Proceedings
+ID 12707503
+A1 Rusnak,Brian
+A1 Haynes,W.,B.
+A1 Chan,K.,C.,D.
+A1 Gentzlinger,R.,B.
+A1 Kidman,R.
+A1 King,N.,S.,P.
+A1 Lujan,R.,E.
+A1 Maloney,M.
+A1 Ney,S.
+A1 Shapiro,A.,H.
+A1 Ullmann,J.
+A1 Hanson,A.
+A1 Safa,H.
+YR 1997
+T1 In-situ proton irradiation and measurement of superconducting RF cavities under cryogenic conditions
+
+RT Journal Article
+ID 885897
+A1 Buneman,Peter
+A1 Raschid,Louiqa
+A1 Ullman,Jeffrey
+YR 1997
+T1 Mediator languages---a proposal for a standard: report of an I/POB working group held at the University of Maryland, April 12 and 13, 1996
+JF Sigmod Record
+
+RT Journal Article
+ID 39217083
+A1 Brin,Sergey
+A1 Motwani,Rajeev
+A1 Ullman,Jeffrey,D.
+A1 Tsur,Shalom
+YR 1997
+T1 Dynamic itemset counting and implication rules for market basket data
+JF Sigmod Record
+SP 255
+OP 264
+
+RT Journal Article
+ID 15242303
+A1 Quass,Dallan
+A1 Rajaraman,Anand
+A1 Ullman,Jeffrey
+A1 Widom,Jennifer
+A1 Sagiv,Yehoshua
+YR 1997
+T1 Querying Semistructured Heterogeneous Information
+JF Journal of Systems Integration
+VO 7
+SP 381
+OP 407
+IS 3
+
+RT Journal Article
+ID 313583
+A1 Harinarayan,Venky
+A1 Rajaraman,Anand
+A1 Ullman,Jeffrey,D.
+YR 1996
+T1 Implementing data cubes efficiently
+JF Sigmod Record
+VO 25
+SP 205
+OP 216
+IS 2
+
+RT Conference Proceedings
+ID 522839
+A1 Papakorlstantinou,Yannis
+A1 Garcia-molina,Hector
+A1 Ullman,Jeffrey,D.
+YR 1996
+T1 MedMaker: A Mediation System Based on Declarative Specifications
+SP 132
+OP 141
+
+RT Conference Proceedings
+ID 300540
+A1 Levy,Alon,Y.
+A1 Rajaraman,Anand
+A1 Ullman,Jeffrey,D.
+YR 1996
+T1 Answering Queries Using Limited External Processors
+SP 227
+OP 237
+
+RT Journal Article
+ID 361227
+A1 Silberschatz,Abraham
+A1 Stonebraker,Michael
+A1 Ullman,Jeffrey,D.
+YR 1996
+T1 Database research: achievements and opportunities into the 1st century
+JF Sigmod Record
+VO 25
+SP 52
+OP 63
+IS 1
+
+RT Conference Proceedings
+ID 667737
+A1 Quass,Dallan
+A1 Widom,Jennifer
+A1 Goldman,Roy
+A1 Haas,Kevin
+A1 Luo,Qingshan
+A1 McHugh,Jason
+A1 Nestorov,Svetlozar
+A1 Rajaraman,Anand
+A1 Rivero,Hugo
+A1 Abiteboul,Serge
+A1 Ullman,Jeffrey,D.
+A1 Wiener,Janet,L.
+YR 1996
+T1 LORE: A Lightweight Object REpository for Semistructured Data
+SP 549
+
+RT Conference Proceedings
+ID 565347
+A1 Rajaraman,Anand
+A1 Ullman,Jeffrey,D.
+YR 1996
+T1 Integrating Information by Outerjoins and Full Disjunctions
+SP 238
+OP 248
+
+RT Conference Proceedings
+ID 473881
+A1 Ullman,Jeffrey,D.
+YR 1996
+T1 Efficient Implementation of Data Cubes Via Materialized Views
+SP 386
+OP 388
+
+RT Conference Proceedings
+ID 491186
+A1 Ullman,Jeffrey,D.
+YR 1996
+T1 The Database Approach to Knowledge Represention
+SP 1346
+OP 1348
+
+RT Conference Proceedings
+ID 4453096
+A1 Levy,Alon,Y.
+A1 Rajaraman,Anand
+A1 Ullman,Jeffrey,D.
+YR 1996
+T1 Answering queries using limited external query processors (extended abstract)
+
+RT Book, Whole
+ID 39253466
+A1 Aho,Alfred,V.
+A1 Ullman,Jeffrey,D.
+YR 1996
+T1 Informatik - Datenstrukturen und Konzepte der Abstraktion
+
+RT Conference Proceedings
+ID 475241
+A1 Siebes,Arno
+A1 Tsur,Shalom
+A1 Ullman,Jeffrey,D.
+A1 Vieille,Laurent
+A1 Zaniolo,Carlo
+YR 1996
+T1 Deductive Databases: Challenges, Opportunities and Future Directions (Panel Discussion)
+SP 225
+OP 229
+
+RT Conference Proceedings
+ID 4453097
+A1 Rajaraman,Anand
+A1 Ullman,Jeffrey,D.
+YR 1996
+T1 Integrating information by outerjoins and full disjunctions (extended abstract)
+
+RT Journal Article
+ID 14415074
+A1 Quass,Dallan
+A1 Widom,Jennifer
+A1 Goldman,Roy
+A1 Haas,Kevin
+A1 Luo,Qingshan
+A1 McHugh,Jason
+A1 Nestorov,Svetlozar
+A1 Rajaraman,Anand
+A1 Rivero,Hugo
+A1 Abiteboul,Serge
+A1 Ullman,Jeff
+A1 Wiener,Janet
+YR 1996
+T1 LORE: a Lightweight Object REpository for semistructured data
+JF Sigmod Record
+VO 25
+SP 549
+IS 2
+
+RT Journal Article
+ID 39217036
+A1 Harinarayan,Venky
+A1 Rajaraman,Anand
+A1 Ullman,Jeffrey,D.
+YR 1996
+T1 Implementing data cubes efficiently
+JF Sigmod Record
+SP 205
+OP 216
+
+RT Journal Article
+ID 39238447
+A1 Levy,Alon,Y.
+A1 Rajaraman,Anand
+A1 Ullman,Jeffrey,D.
+YR 1996
+T1 Answering queries using limited external query processors (extended abstract)
+SP 227
+OP 237
+
+RT Journal Article
+ID 781355
+A1 Ullman,Jeffrey,D.
+YR 1996
+T1 Moving database theory into database practice
+JF ACM Computing Surveys
+VO 28
+SP 90
+IS 4es
+
+RT Conference Proceedings
+ID 570630
+A1 Ullman,Jeffrey,D.
+YR 1996
+T1 The TSIMMIS Database Integration Project
+SP 7
+OP 14
+
+RT Book, Whole
+ID 351303
+A1 Quass,Dallan
+A1 Rajaraman,Anand
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 1995
+T1 Querying Semistructured Heterogeneous Information
+SP 319
+OP 344
+
+RT Conference Proceedings
+ID 565601
+A1 Rajaraman,Anancl
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+YR 1995
+T1 Answering Queries Using Templates with Binding Patterns
+SP 105
+OP 112
+
+RT Book, Whole
+ID 2792
+A1 Papakonstantinou,Yannis
+A1 Gupta,Ashish
+A1 Garcia-molina,Hector
+A1 Ullman,Jeffrey,D.
+YR 1995
+T1 A Query Translation Scheme for Rapid Implementation of Wrappers
+SP 161
+OP 186
+
+RT Journal Article
+ID 369055
+A1 Garcia-molina,Hector
+A1 Quass,Dallan
+A1 Papakonstantinou,Yannis
+A1 Rajaraman,Anand
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 1995
+T1 The TSIMMIS Approach to Mediation: Data Models and Languages (Extended Abstract)
+
+RT Conference Proceedings
+ID 3974515
+A1 Papakonstantinou,Y.
+A1 Quass,D.
+A1 Rajaraman,Anand
+A1 Sagiv,Yehoshua
+A1 Widow,J.
+YR 1995
+T1 The TSIMMIS Approach to Mediation: Data Models and Languages
+SP 0
+
+RT Conference Proceedings
+ID 3974516
+A1 Garcia-Molina,Hector
+A1 Quass,Dallan
+A1 Papakonstantinou,Yannis
+A1 Rajaraman,Anand
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 1995
+T1 The TSIMMIS Approach to Mediation: Data Models and Languages
+SP 0
+
+RT Journal Article
+ID 3245291
+A1 Hammer,Joachim
+A1 Garcia-Molina,Hector
+A1 Ireland,Kelly
+A1 Papakonstantinou,Yannis
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 1995
+T1 Information Translation, Mediation, and Mosaic-Based Browsing in the TSIMMIS System
+JF Sigmod Record
+VO 24
+SP 483
+IS 2
+
+RT Journal Article
+ID 745911
+A1 Ramakrishnan,Raghu
+A1 Ullman,Jeffrey,D.
+YR 1995
+T1 A survey of deductive database systems
+JF Journal of Logic Programming
+VO 23
+SP 125
+OP 149
+IS 2
+
+RT Journal Article
+ID 759605
+A1 Naughton,Jeffrey,F.
+A1 Ramakrishnan,Raghu
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+YR 1995
+T1 Argument Reduction by Factoring
+JF Theoretical Computer Science
+VO 146
+SP 269
+OP 310
+IS 1&2
+
+RT Conference Proceedings
+ID 346978
+A1 Kellert,Arthur,M.
+A1 Ullman,Jeffrey,D.
+YR 1995
+T1 A Version Numbering Scheme with a Useful Lexicographical Order
+SP 240
+OP 248
+
+RT Journal Article
+ID 3254734
+A1 Chawathe,S.
+A1 Garcia-molina,H.
+A1 Hammer,J.
+A1 Ireland,K.
+A1 Papakonstantinou,Y.
+A1 Ullman,J.
+A1 Widom,J.
+YR 1995
+T1 Integration of heterogeneous information sources
+
+RT Journal Article
+ID 781354
+A1 Ullman,Jeffrey,D.
+YR 1995
+T1 The role of theory today
+JF ACM Computing Surveys
+VO 27
+SP 43
+OP 44
+IS 1
+
+RT Conference Proceedings
+ID 4453085
+A1 Rajaraman,Anand
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+YR 1995
+T1 Answering queries using templates with binding patterns (extended abstract)
+
+RT Journal Article
+ID 39217021
+A1 Hammer,Joachim
+A1 García-Molina,Héctor
+A1 Ireland,Kelly
+A1 Papakonstantinou,Yannis
+A1 Ullman,Jeffrey
+A1 Widom,Jennifer
+YR 1995
+T1 Information translation, mediation, and mosaic-based browsing in the TSIMMIS system
+JF Sigmod Record
+SP 483
+
+RT Conference Proceedings
+ID 383296
+A1 Chawathe,Sudarshan,S.
+A1 Garcia-molina,Hector
+A1 Hammer,Joachim
+A1 Ireland,Kelly
+A1 Papakonstantinou,Yannis
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 1994
+T1 The TSIMMIS Project: Integration of Heterogeneous Information Sources
+SP 7
+OP 18
+
+RT Conference Proceedings
+ID 372073
+A1 Gupta,Ashish
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 1994
+T1 Constraint checking with partial information
+SP 45
+OP 55
+
+RT Journal Article
+ID 193993
+A1 Howard,H.,Craig
+A1 Keller,Arthur,M.
+A1 Gupta,Ashish
+A1 Krishnamurthy,Karthik
+A1 Law,Kincho,H.
+A1 Teicholz,Paul,M.
+A1 Tiwari,Sanjai
+A1 Ullman,Jeffrey,D.
+YR 1994
+T1 Versions, Configurations, and Constraints in CEDB
+
+RT Journal Article
+ID 337254
+A1 Ullman,Jeffrey
+YR 1994
+T1 Assigning an Appropriate Meaning to Database Logic with Negation
+
+RT Journal Article
+ID 2008806
+A1 Ullman,J.,D.
+A1 Widow,J.
+YR 1994
+T1 A First Course in Database Systems
+
+RT Conference Proceedings
+ID 382513
+A1 Widom,Jennifer
+A1 Gupta,Ashish
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+YR 1994
+T1 Validating Constraints with Partial Information: Research Overview
+SP 375
+OP 385
+
+RT Book, Whole
+ID 386854
+A1 Gupta,Ashish
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 1994
+T1 Efficient and Complete Tests for Database Integrity Constraint Checking
+SP 173
+OP 180
+
+RT Book, Whole
+ID 39255870
+A1 Hopcroft,John,E.
+A1 Ullman,Jeffrey,D.
+YR 1994
+T1 Einführung in die Automatentheorie, formale Sprachen und Komplexitätstheorie (3. Aufl.)
+
+RT Journal Article
+ID 325795
+A1 Ramakrishnan,Raghu
+A1 Ullman,Jeffrey,D.
+YR 1993
+T1 A Survey of Research on Deductive Database Systems
+
+RT Journal Article
+ID 791751
+A1 Ramakrishnan,Raghu
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+A1 Vardi,Moshe,Y.
+YR 1993
+T1 Logical Query Optimization by Proff-Tree Transformation
+JF Journal of Computer and System Sciences
+VO 47
+SP 222
+OP 248
+IS 1
+
+RT Journal Article
+ID 2036010
+A1 Hopcroft,J.,E.
+A1 Ullman,J.,D.
+YR 1993
+T1 Einführung in die Automatentheorie
+
+RT Journal Article
+ID 36521572
+A1 Robertson,S.,P.
+A1 Weber,K.
+A1 Ullman,J.,D.
+A1 Mehta,A.
+YR 1993
+T1 Parallel Question Parsing and Memory Retrieval
+JF Journal of Memory and Language
+VO 32
+SP 155
+OP 168
+IS 2
+
+RT Journal Article
+ID 1249444
+A1 Aho,A.,V.
+A1 Ullman,J.,D.
+YR 1992
+T1 Foundations of computer science
+
+RT Conference Proceedings
+ID 584137
+A1 Ullman,Jeffrey,D.
+YR 1992
+T1 The Interface Between Language Theory and Database Theory
+SP 133
+OP 151
+
+RT Conference Proceedings
+ID 660057
+A1 Gupta,Ashish
+A1 Ullman,Jeffrey,D.
+YR 1992
+T1 Generalizing Conjunctive Query Containment for View Maintenance and Integrity Constraint Verification (Abstract)
+SP 195
+
+RT Book, Whole
+ID 617164
+A1 Ullman,Jeffrey,D.
+YR 1992
+T1 New Frontiers in Database System Research
+SP 87
+OP 101
+
+RT Journal Article
+ID 27235827
+A1 WOOTTON,J
+A1 PICKUP,L
+A1 ROBERTS,M
+A1 THARMANATHER,K
+A1 KEEN,K
+A1 LOVELL,A
+A1 COTTELL,M
+A1 MCLEAN,T
+A1 MAURO,V
+A1 CHEVREUIL,M
+A1 KELLER,H
+A1 CALLERY,M
+A1 JEFFREY,D
+YR 1992
+T1 PREPARING FOR NEW TECHNOLOGIES IN TRANSPORT: THE EUROPEAN DRIVE INITIATIVE. (SUMMARY OF ONE-DAY CONFERENCE HELD ON 5 FEB 1992. ORGANISED BY MANCHESTER BRANCH OF ICE)
+JF Proceedings of The Institution of Civil Engineers-municipal Engineer
+VO 93
+SP 179
+OP 182
+IS 3
+
+RT Journal Article
+ID 54788932
+A1 Lande,K.
+A1 Cleveland,B.
+A1 Daily,T.
+A1 Davis,R.
+A1 Distel,J.
+A1 Lee,C.,K.
+A1 Weinberger,A.
+A1 Wildenhain,P.
+A1 Ullman,J.
+YR 1992
+T1 Solar neutrino observations with the Homestake 37Cl detector
+VO 243
+SP 1122
+OP 1133
+
+RT Journal Article
+ID 51869471
+A1 Cleveland,B.
+A1 Daily,T.
+A1 Davis,R.
+A1 Distel,J.
+A1 Lande,K.
+A1 Lee,C.,K.
+A1 Wildenhain,P.
+A1 Ullman,J.
+YR 1992
+T1 Measurement of the solar nue flux with the Homestake 37Cl detector
+
+RT Journal Article
+ID 810947
+A1 Ullman,Jeffrey,D.
+A1 Yannakakis,Mihalis
+YR 1991
+T1 High-Probability Parallel Transitive-Closure Algorithms
+JF Siam Journal on Computing
+VO 20
+SP 100
+OP 125
+IS 1
+
+RT Journal Article
+ID 769652
+A1 Ullman,Jeffrey,D.
+A1 Yannakakis,Mihalis
+YR 1991
+T1 The Input/Output Complexity of Transitive Closure
+JF Annals of Mathematics and Artificial Intelligence
+VO 3
+SP 331
+OP 360
+IS 2-4
+
+RT Book, Whole
+ID 336356
+A1 Ullman,Jeffrey,D.
+YR 1991
+T1 A Comparison between Deductive and Object-Oriented Database Systems
+SP 263
+OP 277
+
+RT Journal Article
+ID 1329794
+A1 Silberschatz,A.
+A1 Stonebraker,M.
+A1 Ullman,J.
+YR 1991
+T1 Database systems: achievements and ~rmnities
+JF Communications of The ACM
+
+RT Journal Article
+ID 53306518
+A1 Cleveland,B.
+A1 Daily,T.
+A1 Davis,R.
+A1 Distel,J.
+A1 Lande,K.
+A1 Lee,C.,K.
+A1 Weinberger,A.
+A1 Wildenhain,P.
+A1 Ullman,J.
+YR 1991
+T1 Results from the Homestake Solar Neutrino Observatory
+
+RT Journal Article
+ID 54217199
+A1 Lande,K.
+A1 Cleveland,B.
+A1 Daily,T.
+A1 Davis,R.
+A1 Distel,J.
+A1 Lee,C.,K.
+A1 Weinberger,A.
+A1 Wildenhain,P.
+A1 Ullman,J.
+YR 1991
+T1 Status and Future of Solar Neutrino Observations
+
+RT Journal Article
+ID 667364
+A1 Ullman,Jeffrey,D.
+A1 Yannakakis,Mihalis
+YR 1990
+T1 The Input/Output Complexity of Transitive Closure
+JF Sigmod Record
+VO 19
+SP 44
+OP 53
+IS 2
+
+RT Journal Article
+ID 886020
+A1 Silberschatz,Avi
+A1 Ullman,J.,D.
+YR 1990
+T1 Database Systems: Achievements and Opportunites
+JF Sigmod Record
+
+RT Conference Proceedings
+ID 573409
+A1 Ullmani,Jeffrey,D.
+A1 Yannakakis,Mihalis
+YR 1990
+T1 High-probability parallel transitive closure algorithms
+SP 200
+OP 209
+
+RT Journal Article
+ID 854495
+A1 Silberschatz,Abraham
+A1 Stonebraker,Michael
+A1 Ullman,Jeffrey,D.
+YR 1990
+T1 Database Systems: Achievements and Opportunities - The "Lagunita" Report of the NSF Invitational Workshop on the Future of Database System Research held in Palo Alto, California, February 22-23, 1990
+JF Sigmod Record
+VO 19
+SP 6
+OP 22
+IS 4
+
+RT Journal Article
+ID 854440
+A1 Ullman,Jeffrey,D.
+A1 Zaniolo,Carlo
+YR 1990
+T1 Deductive databases: achievements and future directions
+JF Sigmod Record
+VO 19
+SP 75
+OP 82
+IS 4
+
+RT Journal Article
+ID 1962922
+A1 Silberschatz,A
+A1 Stonebraker,M
+A1 Ullman,J.,D
+YR 1990
+T1 Ullman: database systems: achievements and opportunities
+
+RT Conference Proceedings
+ID 49891834
+A1 Ullman,J.,D.
+YR 1990
+T1 The theory of deductive database systems
+
+RT Journal Article
+ID 3918736
+A1 Silbershatz,A.
+A1 Stonebraker,M.
+A1 Ullman,J.,D.
+YR 1990
+T1 The "Lagunita" report of the NSF invitational workshop on the future of database systems research
+
+RT Book, Whole
+ID 39256174
+A1 Hopcroft,John,E.
+A1 Ullman,Jeffrey,D.
+YR 1990
+T1 Einführung in die Automatentheorie, formale Sprachen und Komplexitätstheorie (2. Aufl.)
+
+RT Journal Article
+ID 854896
+A1 Keller,Arthur,M.
+A1 Rathmann,Peter
+A1 Ullman,Jeffrey,D.
+A1 Wiederhold,Gio
+YR 1990
+T1 Selected database research at Stanford
+JF Sigmod Record
+VO 19
+SP 119
+OP 127
+IS 4
+
+RT Journal Article
+ID 39216742
+A1 Ullmant,Jeffrey,D
+A1 Yannakakis,Mihalis
+YR 1990
+T1 The input/output complexity of transitive closure
+JF Sigmod Record
+SP 44
+OP 53
+
+RT Journal Article
+ID 55811931
+A1 Davis,R.
+A1 Lande,K.
+A1 Lee,K.,C.
+A1 Cleveland,T.,B.
+A1 Ullman,J.
+YR 1990
+T1 Results of the Homestake Chlorine Solar Neutrino Experiment
+
+RT Journal Article
+ID 54568848
+A1 J,R.,Davis
+A1 Lande,K.
+A1 Lee,C.,K.
+A1 Wildenhain,P.
+A1 Weinberger,A.
+A1 Daily,T.
+A1 Cleveland,B.,T.
+A1 Ullman,J.
+YR 1990
+T1 Time Dependence of the Solar Neutrino Flux Observed at Homestake
+
+RT Journal Article
+ID 54932152
+A1 Davis,Raymond
+A1 Lande,K.
+A1 Lee,C.,K.
+A1 Cleveland,B.,T.
+A1 Ullman,J.
+YR 1990
+T1 Report on the Homestake Chlorine Solar Neutrino Experiment
+
+RT Journal Article
+ID 1293396
+A1 Ullman,Jeffrey,D.
+YR 1989
+T1 Pmnczples of database and knowledge- base systems
+
+RT Book, Whole
+ID 2404354
+A1 Ullman,Jeffrey,D.
+YR 1989
+T1 Principles of Database and Knowledge-Base Systems, Volume II
+
+RT Journal Article
+ID 810598
+A1 Peleg,David
+A1 Ullman,Jeffrey,D.
+YR 1989
+T1 An Optimal Synchronizer for the Hypercube
+JF Siam Journal on Computing
+VO 18
+SP 740
+OP 747
+IS 4
+
+RT Conference Proceedings
+ID 565599
+A1 Ramakrishnan,Raghu
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+A1 Vardi,Moshe,Y.
+YR 1989
+T1 Proof-tree transformation theorems and their applications
+SP 172
+OP 181
+
+RT Journal Article
+ID 1364901
+A1 Ullman,Jeffrey,D.
+YR 1989
+T1 Principles of database and knowledgebase systems
+
+RT Conference Proceedings
+ID 565480
+A1 Ullman,Jeffrey,D.
+YR 1989
+T1 Bottom-up beats top-down for datalog
+SP 140
+OP 149
+
+RT Conference Proceedings
+ID 578620
+A1 Naughton,Jeffrey,F.
+A1 Ramakrishnan,Raghu
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+YR 1989
+T1 Argument Reduction by Factoring
+SP 173
+OP 182
+
+RT Journal Article
+ID 1272001
+A1 Ullman,Jeffrey,D.
+YR 1989
+T1 Principles of database and knowledgebase systems h: the new technologies
+
+RT Journal Article
+ID 667810
+A1 Naughton,Jeffrey,F.
+A1 Ramakrishnan,Raghu
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+YR 1989
+T1 Efficient Evaluation of Right, Left, and Mult-Lineare Rules
+JF Sigmod Record
+VO 18
+SP 235
+OP 242
+IS 2
+
+RT Journal Article
+ID 1260659
+A1 Naughton,J.
+A1 Sagiv,Y.
+A1 Ullman,J.
+YR 1989
+T1 Argument reduction through factoring
+
+RT Journal Article
+ID 39216719
+A1 Naughton,J.,F.
+A1 Ramakrishnan,R.
+A1 Sagiv,Y.
+A1 Ullman,J.,D.
+YR 1989
+T1 Efficient evaluation of right-, left-, and multi-linear rules
+JF Sigmod Record
+SP 235
+OP 242
+
+RT Journal Article
+ID 791218
+A1 Afrati,Foto,N.
+A1 Papadimitriou,Christos,H.
+A1 Papageorgiou,George
+A1 Roussou,Athena
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+YR 1989
+T1 On the Convergence of Query Evaluation
+JF Journal of Computer and System Sciences
+VO 38
+SP 341
+OP 359
+IS 2
+
+RT Journal Article
+ID 1380657
+A1 Ullman,J.,D.
+YR 1989
+T1 Principles of database and knowledge
+
+RT Conference Proceedings
+ID 3618992
+A1 Ramakrishnan,R.
+A1 Sagiv,Y.
+A1 Ullman,J.,D.
+A1 Vardi,M.,Y.
+YR 1989
+T1 Proof tree transformations and their applica-tions
+
+RT Journal Article
+ID 40621910
+A1 Scharff,W.
+A1 HAMMER,K
+A1 STENZEL,O
+A1 ULLMAN,J
+A1 VOGEL,M
+A1 FRAUENHEIM,T
+A1 EIBISCH,B
+A1 ROTH,S
+A1 SCHULZE,S
+A1 MUHLING,I
+YR 1989
+T1 Preparation of amorphous iC films by ion-assisted methods
+JF Thin Solid Films
+VO 171
+SP 157
+OP 169
+IS 1
+
+RT Journal Article
+ID 53632830
+A1 J,R.,Davis
+A1 Lande,K.
+A1 Cleveland,B.,T.
+A1 Ullman,J.
+A1 Rowley,J.,K.
+YR 1989
+T1 Report on the chlorine solar neutrino experiment
+
+RT Journal Article
+ID 55829710
+A1 Davis,R.
+A1 Lande,K.
+A1 Lee,C.,K.
+A1 Cleveland,B.,T.
+A1 Ullman,J.
+YR 1989
+T1 Results of the Homestake Chlorine Solar Neutrino Experiment
+
+RT Book, Whole
+ID 694575
+A1 Ullman,Jeffrey,D.
+YR 1988
+T1 Principles of Database and Knowledge-Base Systems, Volume I
+
+RT Book, Whole
+ID 1273903
+A1 Ullman,J.,D.
+YR 1988
+T1 Principles of database and knowledge-base systems
+
+RT Journal Article
+ID 1327205
+A1 Ullman,J.,D.
+YR 1988
+T1 Database and knowledge-base systems
+
+RT Journal Article
+ID 787121
+A1 Ullman,Jeffrey,D.
+A1 Gelder,Allen,Van
+YR 1988
+T1 Efficient tests for top-down termination of logical rules
+JF Journal of The ACM
+VO 35
+SP 345
+OP 373
+IS 2
+
+RT Journal Article
+ID 859938
+A1 Ullman,Jeffrey,D.
+A1 Gelder,Allen,Van
+YR 1988
+T1 Parallel Complexity of Logical Query Programs
+JF Algorithmica
+VO 3
+SP 5
+OP 42
+IS 1-4
+
+RT Journal Article
+ID 1334566
+A1 Ullman,J,D
+YR 1988
+T1 Database and knowledge-base systems volume 1
+
+RT Conference Proceedings
+ID 565299
+A1 Ullman,Jeffrey,D.
+A1 Vardi,Moshe,Y.
+YR 1988
+T1 The complexity of ordering subgoals
+SP 74
+OP 81
+
+RT Journal Article
+ID 3605765
+A1 Ullman,J.,D.
+YR 1988
+T1 Principles of Knowledge and Database Systems; Volume 1
+
+RT Journal Article
+ID 1951805
+A1 Ullman,J.
+YR 1988
+T1 Pr-inciptes of database and knowledge-bc
+
+RT Journal Article
+ID 16460967
+A1 Ullman,Jeffrey,D.
+YR 1988
+T1 Mathematics of Information Processing (Michael Anshel and William Gewirtz, eds.)
+JF Siam Review
+VO 30
+SP 165
+IS 1
+
+RT Conference Proceedings
+ID 564907
+A1 Peleg,David
+A1 Ullman,Jeffrey,D.
+YR 1987
+T1 An optimal synchronizer for the hypercube
+SP 77
+OP 85
+
+RT Journal Article
+ID 810509
+A1 Papadimitriou,Christos,H.
+A1 Ullman,Jeffrey,D.
+YR 1987
+T1 A Communication-Time Tradeoff
+JF Siam Journal on Computing
+VO 16
+SP 639
+OP 646
+IS 4
+
+RT Conference Proceedings
+ID 565479
+A1 Ullman,Jeffrey,D.
+YR 1987
+T1 Database theory—past and future
+SP 1
+OP 10
+
+RT Journal Article
+ID 778795
+A1 Morris,Katherine,A.
+A1 Naughton,Jeffrey,F.
+A1 Saraiya,Yatin,P.
+A1 Ullman,Jeffrey,D.
+A1 Gelder,Allen,Van
+YR 1987
+T1 YAWN! (Yet Another Window on NAIL!)
+JF IEEE Data(base) Engineering Bulletin
+VO 10
+SP 28
+OP 43
+IS 4
+
+RT Journal Article
+ID 1946758
+A1 Papadxmltrou,C,H
+A1 Ullman,J
+YR 1987
+T1 A commumcatmn-tlme trade-off~, siam journal of computing, "col
+
+RT Journal Article
+ID 860403
+A1 Karlin,Anna,R.
+A1 Trickey,Howard,W.
+A1 Ullman,Jeffrey,D.
+YR 1987
+T1 Algorithms for the Compilation of Regular Expressions into PLAs
+JF Algorithmica
+VO 2
+SP 283
+OP 314
+IS 1-4
+
+RT Book, Whole
+ID 694565
+A1 Aho,Alfred,V.
+A1 Sethi,Ravi
+A1 Ullman,Jeffrey,D.
+YR 1986
+T1 Compilers: Principles, Techniques, and Tools
+
+RT Journal Article
+ID 1269372
+A1 Aho,A.
+A1 Ullman,J.
+A1 Sethi,R.
+YR 1986
+T1 Compilers: principles
+
+RT Conference Proceedings
+ID 565674
+A1 Bancilhon,François
+A1 Maierl,David
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+YR 1986
+T1 Magic Sets and Other Strange Ways to Implement Logic Programs
+SP 1
+OP 15
+
+RT Book, Whole
+ID 529583
+A1 Morris,Katherine,A.
+A1 Ullman,Jeffrey,D.
+A1 Gelder,Allen,Van
+YR 1986
+T1 Design Overview of the NAIL! System
+SP 554
+OP 568
+
+RT Journal Article
+ID 3606256
+A1 Aho,A.,V.
+A1 Sethi,R.
+A1 Ullman,D.
+YR 1986
+T1 Principles Techniques and Tools
+
+RT Journal Article
+ID 1282585
+A1 Aho,A.,V.
+A1 Sethi,R.
+A1 Ullman,J.,D.
+YR 1986
+T1 Compilers" principles, techniques, and tools. addison- wesley
+JF ACM Transactions on Programming Languages and Systems
+
+RT Journal Article
+ID 720506
+A1 Fagin,Ronald
+A1 Kuper,Gabriel,M.
+A1 Ullman,Jeffrey,D.
+A1 Vardi,Moshe,Y.
+YR 1986
+T1 Updating Logical Databases
+JF Advances in Computing Research
+VO 3
+SP 1
+OP 18
+
+RT Conference Proceedings
+ID 514633
+A1 Ullman,Jeffrey,D.
+A1 Gelder,Allen,Van
+YR 1986
+T1 Parallel Complexity of Logical Query Programs
+SP 438
+OP 454
+
+RT Conference Proceedings
+ID 565420
+A1 Afrati,Foto,N.
+A1 Papadimitrioul,Christos,H.
+A1 Papageorgioul,George
+A1 Roussou,Athena
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+YR 1986
+T1 Convergence of Sideways Query Evaluation
+SP 24
+OP 30
+
+RT Journal Article
+ID 1320405
+A1 Aho,Alfred,V.
+A1 Sethi,Ravi
+A1 Jeffrey,D
+YR 1986
+T1 Ullman: "compilers m principles, techniques and tools
+
+RT Journal Article
+ID 1403447
+A1 Aho,A.,V.
+A1 Sethi,R.
+A1 Ullman,J.,D.
+YR 1986
+T1 Addison wesley publishing company
+
+RT Journal Article
+ID 1993983
+A1 Aho,A.,V.
+A1 Sethi,R.
+A1 Ullman,J.,D.
+YR 1986
+T1 Compilers: Practical techniques and tools
+
+RT Journal Article
+ID 14546327
+A1 ULLMAN,J
+YR 1986
+T1 Norm oscillatory weight measures
+JF Journal of Approximation Theory
+VO 46
+SP 204
+OP 212
+IS 2
+
+RT Journal Article
+ID 1285886
+A1 Aho,A.
+A1 Sethi,R.
+A1 Ullman,J.
+YR 1985
+T1 Compilers: principles and techniques and tools
+
+RT Journal Article
+ID 1349977
+A1 Ullman,Jeffrey,D.
+YR 1985
+T1 Implementation of logical query languages for databases
+JF ACM Transactions on Database Systems
+VO 10
+SP 289
+OP 321
+IS 3
+
+RT Conference Proceedings
+ID 667923
+A1 Ullman,Jeffrey,D.
+YR 1985
+T1 Implementation of Logical Query Languages for Databases (Abstract)
+SP 444
+
+RT Conference Proceedings
+ID 911409
+A1 Bancilhon,Francois
+A1 Maier,David
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D
+YR 1985
+T1 Magic sets and other strange ways to implement logic programs (extended abstract)
+
+RT Journal Article
+ID 1262094
+A1 Ullman,J.
+YR 1985
+T1 Implementation of logic query languages for databases
+JF ACM Transactions on Database Systems
+
+RT Conference Proceedings
+ID 911411
+A1 Afrati,Foto
+A1 Papadimitriou,Christos
+A1 Papageorgiou,George
+A1 Roussou,Athena
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D
+YR 1985
+T1 Convergence of sideways query evaluation
+
+RT Journal Article
+ID 1326066
+A1 Aho,Alfred,V.
+A1 Hopcroft,John,E.
+A1 Jeffrey,D
+YR 1985
+T1 Ullman: data structures and algorithms
+
+RT Conference Proceedings
+ID 1364220
+A1 Bancilhon,F.
+A1 Ier,D.,Ma.
+A1 Sagiv,Y.
+A1 Ullman,J.
+YR 1985
+T1 Magic sets and other strange ways to implement logic programs
+
+RT Conference Proceedings
+ID 1361801
+A1 Ullman,D
+YR 1985
+T1 Implementatlon of logical luerg language for databases
+
+RT Conference Proceedings
+ID 635114
+A1 Ullman,Jeffrey,D.
+YR 1985
+T1 Logic and Database Systems
+SP 121
+OP 123
+
+RT Journal Article
+ID 14414922
+A1 Ullman,Jeffrey,D.
+YR 1985
+T1 Implementation of logiclal query languages for databases (abstract only)
+JF Sigmod Record
+VO 14
+SP 444
+IS 4
+
+RT Conference Proceedings
+ID 635030
+A1 Ullman,Jeffrey,D.
+YR 1985
+T1 An Approach To Processing Queries In A Logic-Based Query Language
+SP 147
+OP 164
+
+RT Journal Article
+ID 803845
+A1 Maier,David
+A1 Ullman,Jeffrey,D.
+A1 Vardi,Moshe,Y.
+YR 1984
+T1 On the foundations of the universal relation model
+JF ACM Transactions on Database Systems
+VO 9
+SP 283
+OP 308
+IS 2
+
+RT Journal Article
+ID 803872
+A1 Korth,Henry,F.
+A1 Kuper,Gabriel,M.
+A1 Feigenbaum,Joan
+A1 Gelder,Allen,van
+A1 Ullman,Jeffrey,D.
+YR 1984
+T1 SYSTEM/U: a database system based on the universal relation assumption
+JF ACM Transactions on Database Systems
+VO 9
+SP 331
+OP 347
+IS 3
+
+RT Journal Article
+ID 1394982
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+YR 1984
+T1 Complexity of A Top-Down Capture Rule
+
+RT Conference Proceedings
+ID 514267
+A1 Papadimitriou,Christos,H.
+A1 Ullman,Jeffrey,D.
+YR 1984
+T1 A Communication-Time Tradeoff
+SP 84
+OP 88
+
+RT Conference Proceedings
+ID 565408
+A1 KUPERt,GABRIEL,M.
+A1 ULLMANt,JEFFREY,D.
+A1 Vardi,Moshe,Y.
+YR 1984
+T1 On the equivalence of logical databases
+SP 221
+OP 228
+
+RT Journal Article
+ID 795672
+A1 Ullman,Jeffrey,D.
+YR 1984
+T1 Flux, Sorting, and Supercomputer Organization for AI Applications
+JF Journal of Parallel and Distributed Computing
+VO 1
+SP 131
+OP 151
+IS 2
+
+RT Journal Article
+ID 667426
+A1 Keller,Arthur,M.
+A1 Ullman,Jeffrey,D.
+YR 1984
+T1 On Complementary and Independent Mappings on Databases
+JF Sigmod Record
+VO 14
+SP 143
+OP 148
+IS 2
+
+RT Journal Article
+ID 1316381
+A1 Ullman,Jeffrey,D.
+YR 1984
+T1 Computational aspects of vlsl
+
+RT Journal Article
+ID 757290
+A1 Maier,David
+A1 Ullman,Jeffrey,D.
+YR 1984
+T1 Connections in Acyclic Hypergraphs
+JF Theoretical Computer Science
+VO 32
+SP 185
+OP 199
+IS 1-2
+
+RT Conference Proceedings
+ID 2186804
+A1 Ullman,Jeffrey,D.
+YR 1984
+T1 Some Thoughts About Supercomputer Organization
+SP 424
+OP 432
+
+RT Conference Proceedings
+ID 575872
+A1 Dolev,Danny
+A1 Maier,David
+A1 Mairson,Ilarry
+A1 Ullman,Jeffrey,D.
+YR 1984
+T1 Correcting faults in write-once memory
+SP 225
+OP 229
+
+RT Journal Article
+ID 2870381
+A1 Ullman,J.,D.
+YR 1984
+T1 Computational Aspects of VLSI Design
+
+RT Journal Article
+ID 1353027
+A1 Mater,D
+A1 Ullman,J,D
+A1 Vardl,M,Y
+YR 1984
+T1 On the foundations of the umversal relatmn model
+JF ACM Transactions on Database Systems
+
+RT Journal Article
+ID 39216543
+A1 Keller,Arthur,M
+A1 Ullman,Jeffrey,D
+YR 1984
+T1 On complementary and independent mappings on databases
+JF Sigmod Record
+SP 143
+OP 148
+
+RT Book, Whole
+ID 694563
+A1 Aho,Alfred,V.
+A1 Hopcroft,John,E.
+A1 Ullman,Jeffrey,D.
+YR 1983
+T1 Data Structures and Algorithms
+
+RT Journal Article
+ID 1357643
+A1 Ullman,J.
+YR 1983
+T1 Computational aspects of vlsi
+
+RT Conference Proceedings
+ID 565332
+A1 Fagin,Ronald
+A1 Ullman,Jeffrey,D.
+A1 Vardi,Moshe,Y.
+YR 1983
+T1 On the semantics of updates in databases
+SP 352
+OP 365
+
+RT Journal Article
+ID 803624
+A1 Maier,David
+A1 Ullman,Jeffrey,D.
+YR 1983
+T1 Maximal objects and the semantics of universal relation databases
+JF ACM Transactions on Database Systems
+VO 8
+SP 1
+OP 14
+IS 1
+
+RT Journal Article
+ID 1351888
+A1 Ullman,J.,D.
+YR 1983
+T1 Principles o~ database systems
+
+RT Conference Proceedings
+ID 565423
+A1 Maier,David
+A1 Ullman,Jeffrey,D.
+A1 Vardi,Moshe,Y.
+YR 1983
+T1 The revenge of the JD
+SP 279
+OP 287
+
+RT Journal Article
+ID 2923324
+A1 Aho,A.,V.
+A1 Hopcroft,J.,E.
+A1 Ullman,J.,D.
+YR 1983
+T1 Data Structures and Algorithms: Addison-Wesley
+
+RT Journal Article
+ID 811348
+A1 Fagin,Ronald
+A1 Maier,David
+A1 Ullman,Jeffrey,D.
+A1 Yannakakis,Mihalis
+YR 1983
+T1 Tools for Template Dependencies
+JF Siam Journal on Computing
+VO 12
+SP 36
+OP 59
+IS 1
+
+RT Conference Proceedings
+ID 545278
+A1 Ullman,Jeffrey,D.
+YR 1983
+T1 Universal Relation Interfaces for Database Systems
+SP 243
+OP 252
+
+RT Journal Article
+ID 667114
+A1 Maier,David
+A1 Ullman,Jeffrey,D.
+YR 1983
+T1 Fragments of Relations
+JF Sigmod Record
+VO 13
+SP 15
+OP 22
+IS 4
+
+RT Journal Article
+ID 803719
+A1 Ullman,Jeffrey,D.
+YR 1983
+T1 On Kent's "Consequences of Assuming a Universal Relation
+JF ACM Transactions on Database Systems
+VO 8
+SP 637
+OP 643
+IS 4
+
+RT Conference Proceedings
+ID 1388797
+A1 Karlin,A.,R.
+A1 Trickey,H.,W.
+A1 Ullman,J.,D.
+YR 1983
+T1 Experience with a regular expression compiler
+
+RT Journal Article
+ID 803897
+A1 Ullman,Jeffrey,D.
+YR 1983
+T1 Corrigendum: The Theory of Joins in Relational Databases
+JF ACM Transactions on Database Systems
+VO 8
+SP 287
+IS 2
+
+RT Journal Article
+ID 51686036
+A1 Hennessy,J.
+A1 Kallath,T.
+A1 Feigenbaum,E.,A.
+A1 Buchanan,B.,G.
+A1 Ullman,J.,D.
+A1 Meindl,J.,T.
+YR 1983
+T1 Research in VLSI systems. Heuristic programming project and VLSI theory project: A fast turn around facility for Very Large Scale Integration (VLSI)
+
+RT Journal Article
+ID 3999422
+A1 MAIERS,DAVID
+A1 ULLMANO,JEFFREY,D.
+A1 YANNAKAKISY,MIHALIS
+YR 1983
+T1 TOOLS FOR TEMPLATE DEPENDENCIES
+
+RT Journal Article
+ID 51609038
+A1 Hennessy,J.
+A1 Matthews,R.
+A1 Newkirk,J.
+A1 Shott,J.
+A1 Ullman,J.,D.
+A1 Brown,H.
+YR 1983
+T1 Research in VLSI systems. Heuristic programming project and VLSI theory project. A fast turn around facility for very large scale integration (VLSI)
+
+RT Journal Article
+ID 39216511
+A1 Maier,David
+A1 Ullman,Jeffrey,D.
+YR 1983
+T1 Fragments of relations
+JF Sigmod Record
+SP 15
+OP 22
+
+RT Book, Whole
+ID 694574
+A1 Ullman,Jeffrey,D.
+YR 1982
+T1 Principles of Database Systems, 2nd Edition
+
+RT Journal Article
+ID 803740
+A1 Fagin,Ronald
+A1 Mendelzon,Alberto,O.
+A1 Ullman,Jeffrey,D.
+YR 1982
+T1 A simplied universal relation assumption and its properties
+JF ACM Transactions on Database Systems
+VO 7
+SP 343
+OP 360
+IS 3
+
+RT Conference Proceedings
+ID 565203
+A1 Maier,David
+A1 Ullman,Jeffrey,D.
+YR 1982
+T1 Connections in Acyclic Hypergraphs
+SP 34
+OP 39
+
+RT Conference Proceedings
+ID 565478
+A1 Ullman,Jeffrey,D.
+YR 1982
+T1 The U. R. strikes back
+SP 10
+OP 22
+
+RT Journal Article
+ID 787927
+A1 Floyd,Robert,W.
+A1 Ullman,Jeffrey,D.
+YR 1982
+T1 The Compilation of Regular Expressions into Integrated Circuits
+JF Journal of The ACM
+VO 29
+SP 603
+OP 622
+IS 3
+
+RT Conference Proceedings
+ID 911451
+A1 Maier,David
+A1 Ullman,Jeffrey,D.
+YR 1982
+T1 Connections in acyclic hypergraphs: extended abstract
+
+RT Journal Article
+ID 788179
+A1 Sadri,Fereidoon
+A1 Ullman,Jeffrey,D.
+YR 1982
+T1 Template Dependencies: A Large Class of Dependencies in Relational Databases and Its Complete Axiomatization
+JF Journal of The ACM
+VO 29
+SP 363
+OP 372
+IS 2
+
+RT Journal Article
+ID 1910734
+A1 Aho,A.
+A1 Ullman,J.
+A1 Wyner,A.
+A1 Yannakakis,M.
+YR 1982
+T1 Bounds on the size and transmission rate of communications protocols
+JF Computers & Mathematics With Applications
+VO 8
+SP 205
+OP 214
+IS 3
+
+RT Journal Article
+ID 1285556
+A1 Ullman,Jeffrey,D.
+A1 Vardi,M.,Y.
+A1 Maier,David
+YR 1982
+T1 The equivalence of universal relation definitions
+
+RT Journal Article
+ID 1316823
+A1 Fagin,R.
+A1 Mendelson,A.,O.
+A1 Ullman,J.,D.
+YR 1982
+T1 A simplified universal assumption and its properties
+JF ACM Transactions on Database Systems
+
+RT Journal Article
+ID 760589
+A1 Sadri,Fereidoon
+A1 Ullman,Jeffrey,D.
+YR 1982
+T1 The Theory of Functional and Template Dependencies
+JF Theoretical Computer Science
+VO 17
+SP 317
+OP 331
+IS 3
+
+RT Conference Proceedings
+ID 2187693
+A1 Trickey,Howard
+A1 Ullman,Jeffrey,D.
+YR 1982
+T1 A Regular Expression Compiler
+SP 345
+OP 348
+
+RT Journal Article
+ID 779108
+A1 Ullman,Jeffrey,D.
+YR 1982
+T1 Query Processing in Universal Relation Systems
+JF IEEE Data(base) Engineering Bulletin
+VO 5
+SP 6
+OP 10
+IS 3
+
+RT Journal Article
+ID 54483880
+A1 Ullman,J.,D.
+YR 1982
+T1 Combining state machines and regular expressions for automatic synthesis of VLSI circuits
+
+RT Journal Article
+ID 811584
+A1 Toueg,Sam
+A1 Ullman,Jeffrey,D.
+YR 1981
+T1 Deadlock-Free Packet Switching Networks
+JF Siam Journal on Computing
+VO 10
+SP 594
+OP 611
+IS 3
+
+RT Journal Article
+ID 812334
+A1 Aho,Alfred,V.
+A1 Sagiv,Yehoshua
+A1 Szymanski,Thomas,G.
+A1 Ullman,Jeffrey,D.
+YR 1981
+T1 Inferring a Tree from Lowest Common Ancestors with an Application to the Optimization of Relational Expressions
+JF Siam Journal on Computing
+VO 10
+SP 405
+OP 421
+IS 3
+
+RT Conference Proceedings
+ID 576169
+A1 Beeri,Catriel
+A1 Fagin,Ronald
+A1 Maier,David
+A1 Mendelzon,Alberto,O.
+A1 Ullman,Jeffrey,D.
+A1 Yannakakis,Mihalis
+YR 1981
+T1 Properties of acyclic database schemes
+SP 355
+OP 362
+
+RT Journal Article
+ID 811944
+A1 Beeri,Catriel
+A1 Mendelzon,Alberto,O.
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+YR 1981
+T1 Equivalence of Relational Database Schemes
+JF Siam Journal on Computing
+VO 10
+SP 352
+OP 370
+IS 2
+
+RT Conference Proceedings
+ID 576485
+A1 Dolev,Danny
+A1 Karplus,Kevin
+A1 Siegel,Alan
+A1 Strong,Alex
+A1 Ullman,Jeffrey,D.
+YR 1981
+T1 Optimal wiring between rectangles
+SP 312
+OP 317
+
+RT Conference Proceedings
+ID 442996
+A1 Maier,David
+A1 Ullman,Jeffrey,D.
+YR 1981
+T1 Connections in Acyclic Hypergraphs
+
+RT Book, Whole
+ID 602658
+A1 Ullman,Jeffrey,D.
+YR 1981
+T1 A View of Directions in Relational Database Theory
+SP 165
+OP 176
+
+RT Conference Proceedings
+ID 443015
+A1 Maier,David
+A1 Ullman,Jeffrey,D.
+YR 1981
+T1 Fragments of Relations: First Hack
+
+RT Journal Article
+ID 24478529
+A1 Ullman,David,L.
+YR 1981
+T1 Current Limited by Transport Through the Space-Charge Region of a Semiconductor Electrode
+JF Journal of The Electrochemical Society
+VO 128
+SP 1269
+IS 6
+
+RT Journal Article
+ID 24478690
+A1 Ullman,David,L.
+YR 1981
+T1 Erratum: “Current Limited by Transport Through the Space-Charge Region of a Semiconductor Electrode”
+JF Journal of The Electrochemical Society
+VO 128
+SP 1938
+IS 9
+
+RT Journal Article
+ID 56137686
+A1 Ullman,Jeffrey,D.
+YR 1981
+T1 Principles of database systems
+
+RT Journal Article
+ID 1274578
+A1 Ullman,J.,D.
+YR 1980
+T1 Principles o[database systems
+
+RT Book, Whole
+ID 694573
+A1 Ullman,Jeffrey,D.
+YR 1980
+T1 Principles of Database Systems, 1st Edition
+
+RT Journal Article
+ID 1309021
+A1 R,A.,O.,Mendelzon
+A1 Ullman,J.,D.
+YR 1980
+T1 A simplified universal relation assumption and its properties
+JF ACM Transactions on Database Systems
+
+RT Conference Proceedings
+ID 442992
+A1 Korth,Henry,F.
+A1 Ullman,Jeffrey,D.
+YR 1980
+T1 System/U: A Database System Based on the Universal Relation Assumption
+
+RT Conference Proceedings
+ID 576279
+A1 SadriJ,Fereidoon
+A1 Ullman,Jeffrey,D.
+YR 1980
+T1 A complete axiomatization for a large class of dependencies in relational datatbases
+SP 117
+OP 122
+
+RT Journal Article
+ID 791759
+A1 Maier,David
+A1 Mendelzon,Alberto,O.
+A1 Sadri,Fereidoon
+A1 Ullman,Jeffrey,D.
+YR 1980
+T1 Adequacy of Decompositions of Relational Databases
+JF Journal of Computer and System Sciences
+VO 21
+SP 368
+OP 379
+IS 3
+
+RT Journal Article
+ID 1294929
+A1 Maier,David
+A1 Ullman,Jeffrey,D.
+YR 1980
+T1 Maximal objects and the semantics of universal relation databases
+JF IEEE Transactions on Reliability
+
+RT Journal Article
+ID 787656
+A1 KAPLAbl,MARC,A.
+A1 Ullman,Jeffrey,D.
+YR 1980
+T1 A Scheme for the Automatic Inference of Variable Types
+JF Journal of The ACM
+VO 27
+SP 128
+OP 145
+IS 1
+
+RT Journal Article
+ID 1345958
+A1 Ullman,J,D
+YR 1980
+T1 Prrnczples of database systems
+
+RT Conference Proceedings
+ID 668086
+A1 Sadrit,Fereidoon
+A1 Ullman,Jeffrey,D.
+YR 1980
+T1 The interaction between functional dependencies and template dependencies
+SP 45
+OP 51
+
+RT Conference Proceedings
+ID 515281
+A1 Floyd,Robert,W.
+A1 Ullman,Jeffrey,D.
+YR 1980
+T1 The Compilation of Regular Expressions into Integrated Circuits (Extended Abstract)
+SP 260
+OP 269
+
+RT Journal Article
+ID 1958484
+A1 Morris,K.
+A1 Ullman,Jeffrey,D.
+A1 Gelder,A.,Van
+YR 1980
+T1 Design overview of the NAIL] system
+
+RT Journal Article
+ID 52557304
+A1 Floyd,R.,W.
+A1 Ullman,J.,D.
+YR 1980
+T1 The compilation of regular expressions into integrated circuits
+
+RT Conference Proceedings
+ID 443024
+A1 Ullman,Jeffrey,D.
+YR 1980
+T1 Universal Instances
+
+RT Journal Article
+ID 24477931
+A1 Ullman,David,L.
+YR 1980
+T1 Discussion of “The Potential Distribution at the TiO[sub 2] Aqueous Electrolyte Interface” [Micha Tomkiewicz (pp. 1505–1510, Vol. 126, No. 9)]
+JF Journal of The Electrochemical Society
+VO 127
+SP 1321
+IS 6
+
+RT Book, Whole
+ID 694544
+A1 Hopcroft,John,E.
+A1 Ullman,Jeffrey,D.
+YR 1979
+T1 Introduction to Automata Theory, Languages and Computation
+
+RT Conference Proceedings
+ID 566771
+A1 Aho,Alfred,V.
+A1 UllmanT,Jeffrey,D.
+YR 1979
+T1 Universality of data retrieval languages
+SP 110
+OP 120
+
+RT Journal Article
+ID 812400
+A1 Aho,Alfred,V.
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+YR 1979
+T1 Equivalences Among Relational Expressions
+JF Siam Journal on Computing
+VO 8
+SP 218
+OP 246
+IS 2
+
+RT Journal Article
+ID 804077
+A1 Aho,Alfred,V.
+A1 Beeri,Catriel
+A1 Ullman,Jeffrey,D.
+YR 1979
+T1 The theory of joins in relational databases
+JF ACM Transactions on Database Systems
+VO 4
+SP 297
+OP 314
+IS 3
+
+RT Journal Article
+ID 804078
+A1 Aho,Alfred,V.
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+YR 1979
+T1 Efficient optimization of a class of relational expressions
+JF ACM Transactions on Database Systems
+VO 4
+SP 435
+OP 454
+IS 4
+
+RT Conference Proceedings
+ID 576071
+A1 Touegt,Sam
+A1 Ullman,Jeffrey,D.
+YR 1979
+T1 Deadlock-free packet switching networks
+SP 89
+OP 98
+
+RT Journal Article
+ID 804080
+A1 Aho,Alfred,V.
+A1 Ullman,Jeffrey,D.
+YR 1979
+T1 Optimal partial-match retrieval when fields are independently specified
+JF ACM Transactions on Database Systems
+VO 4
+SP 168
+OP 179
+IS 2
+
+RT Journal Article
+ID 1273751
+A1 Aho,A.,V.
+A1 Sagiv,Y.
+A1 Ullman,J.,D.
+YR 1979
+T1 Equivalence of relational expressions
+JF Siam Journal on Computing
+
+RT Conference Proceedings
+ID 576333
+A1 Beeri,Catriel
+A1 Mendelzon,Alberto,O.
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+YR 1979
+T1 Equivalence of relational database schemes
+SP 319
+OP 329
+
+RT Journal Article
+ID 2923337
+A1 Aho,A.,V.
+A1 Ullman,J.,D.
+YR 1979
+T1 Data structures and algorithms
+
+RT Conference Proceedings
+ID 515953
+A1 Aho,Alfred,V.
+A1 Ullman,Jeffrey,D.
+A1 Yannakakis,Mihalis
+YR 1979
+T1 Modeling Communications Protocols by Automata
+SP 267
+OP 273
+
+RT Conference Proceedings
+ID 492322
+A1 Maier,David
+A1 Mendelzon,Alberto,O.
+A1 Sadri,Fereidoon
+A1 Ullman,Jeffrey,D.
+YR 1979
+T1 Adequacy of Decompositions of Relational Databases
+SP 101
+OP 114
+
+RT Journal Article
+ID 2130257
+A1 Hopcroft,J.,E.
+A1 Ullman,J.,D.
+YR 1979
+T1 Addison-wesley Publishing Company
+
+RT Journal Article
+ID 1311059
+A1 Aho,A,V
+A1 Sagiv,Y
+A1 Ullman,J,D
+YR 1979
+T1 Efficmnt opttm#zalaon of a class of relauonal expressions
+JF ACM Transactions on Database Systems
+
+RT Journal Article
+ID 1338000
+A1 Aim,A.,V
+A1 Ullman,J,D
+YR 1979
+T1 Optnnal pamal-match retrieval when fields axe independendy spectfied
+JF ACM Transactions on Database Systems
+
+RT Journal Article
+ID 1344669
+A1 Aho,A,V
+A1 Ullman,J,D
+YR 1979
+T1 Unlversahty of data retnecal languages
+
+RT Journal Article
+ID 1283942
+A1 Aho,A
+A1 Ullman,J
+YR 1979
+T1 Un-zvetsalzty of data retneval languages
+
+RT Journal Article
+ID 1358269
+A1 Aho,A
+A1 Ullman,J
+YR 1979
+T1 Pranczples of compzler deszgn
+
+RT Journal Article
+ID 1957140
+A1 Mamr,D.
+A1 Ullman,J.,D.
+A1 Varm,M.,Y.
+YR 1979
+T1 On the foundations of the universal relational model
+
+RT Journal Article
+ID 1957460
+A1 Mater,D
+A1 Ullman,J,D
+A1 Saglv,Y
+YR 1979
+T1 Q'estmg tmphcatton of data dependencies
+JF ACM Transactions on Database Systems
+
+RT Journal Article
+ID 1261227
+A1 Ullman,J,D
+YR 1978
+T1 Principles of database systems
+
+RT Conference Proceedings
+ID 668493
+A1 Aho,Alfred,V.
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+YR 1978
+T1 Efficient Optimization of a Class of Relational Expressions (Abstract)
+SP 39
+OP 39
+
+RT Conference Proceedings
+ID 566430
+A1 Kaplan,Marc,A.
+A1 Ullman,Jeffrey,D.
+YR 1978
+T1 A general scheme for the automatic inference of variable types
+SP 60
+OP 75
+
+RT Conference Proceedings
+ID 4453473
+A1 Aho,A.,V.
+A1 Sagiv,Y.
+A1 Ullman,J.,D.
+YR 1978
+T1 Efficient optimization of a class of relational expressions
+
+RT Journal Article
+ID 1295315
+A1 Aho,A.,V.
+A1 Ullman,J.,D.
+YR 1978
+T1 Reference manual for the green programming language
+
+RT Conference Proceedings
+ID 895119
+A1 Bhargava,Bharat,K.
+A1 Kimbleton,Stephen,R.
+A1 Liskov,Barbara,H.
+A1 Minker,Jack
+A1 Ullman,Jeffrey,D.
+YR 1978
+T1 Crossfertilization Of DBMS Research With Other Disciplines Of Computer Science (Panel Discussion)
+SP 325
+
+RT Journal Article
+ID 1251464
+A1 Aho,A.,V.
+A1 Ullman,J.,D.
+YR 1977
+T1 Principles of compiler design
+
+RT Journal Article
+ID 768626
+A1 Kam,John,B.
+A1 Ullman,Jeffrey,D.
+YR 1977
+T1 Monotone Data Flow Analysis Frameworks
+JF Acta Informatica
+VO 7
+SP 305
+OP 317
+IS 3
+
+RT Journal Article
+ID 788788
+A1 Aho,Alfred,V.
+A1 Johnson,Stephen,C.
+A1 Ullman,Jeffrey,D.
+YR 1977
+T1 Code Generation for Expressions with Common Subexpressions
+JF Journal of The ACM
+VO 24
+SP 146
+OP 160
+IS 1
+
+RT Journal Article
+ID 803679
+A1 Kam,John,B.
+A1 Ullman,Jeffrey,D.
+YR 1977
+T1 A model of statistical database their security
+JF ACM Transactions on Database Systems
+VO 2
+SP 1
+OP 10
+IS 1
+
+RT Conference Proceedings
+ID 515950
+A1 Aho,Alfred,V.
+A1 Beeri,Catriel
+A1 Ullman,Jeffrey,D.
+YR 1977
+T1 The Theory of Joins in Relational Data Bases (Extended Abstract)
+SP 107
+OP 113
+
+RT Conference Proceedings
+ID 566767
+A1 Aho,Alfred,V.
+A1 Johnson,Stephen,C.
+A1 Ullman,Jeffrey,D.
+YR 1977
+T1 Code-generation for machines with multiregister operations
+SP 21
+OP 28
+
+RT Journal Article
+ID 1384958
+A1 Aho,A.,V.
+A1 Ullman,J.,D.
+YR 1977
+T1 Principles of compiler design (addison-wesley publishing company
+
+RT Conference Proceedings
+ID 49813404
+A1 Aho,A.,V.
+A1 Beeri,A.
+A1 Ullman,J.,D.
+YR 1977
+T1 The theory of joins in relational data bases
+SP 107
+OP 113
+
+RT Journal Article
+ID 2844085
+A1 Aho,A.
+A1 Johnson,S.
+A1 Ullman,J.
+YR 1977
+T1 Code generation for expressions with sub-expressions
+JF Journal of The ACM
+
+RT Journal Article
+ID 771457
+A1 III,Harry,B.,Hunt
+A1 Ullman,J.,D.
+A1 Szymanski,T.,G.
+YR 1977
+T1 Operations on sparse relations
+JF Communications of The ACM
+VO 20
+SP 171
+OP 176
+IS 3
+
+RT Journal Article
+ID 761006
+A1 Geller,Matthew,M.
+A1 III,Harry,B.,Hunt
+A1 Szymanski,Thomas,G.
+A1 Ullman,Jeffrey,D.
+YR 1977
+T1 Economy of Description by Parsers, DPDA'S, and PDA'S
+JF Theoretical Computer Science
+VO 4
+SP 143
+OP 153
+IS 2
+
+RT Journal Article
+ID 810525
+A1 Szymanski,Thomas,G.
+A1 Ullman,Jeffrey,D.
+YR 1977
+T1 Evaluating Relational Expressions with Dense and Sparse Arguments
+JF Siam Journal on Computing
+VO 6
+SP 109
+OP 122
+IS 1
+
+RT Journal Article
+ID 1311172
+A1 Aho,Alfred,V.
+A1 Ullman,Jeffrey,D.
+YR 1977
+T1 Principles of compiler construction
+
+RT Journal Article
+ID 791781
+A1 Fong,Amelia,C.
+A1 Ullman,Jeffrey,D.
+YR 1977
+T1 Finding the Depth of a Flow Graph
+JF Journal of Computer and System Sciences
+VO 15
+SP 300
+OP 309
+IS 3
+
+RT Journal Article
+ID 1260280
+A1 Aho,A.,V.
+A1 Ullman,J.,D.
+YR 1977
+T1 Principle of compiler deaign
+
+RT Journal Article
+ID 46895399
+A1 Vogel,J.
+A1 Ullman,J.
+A1 Entine,G.
+YR 1977
+T1 Use of CdTe detectors in bone mineral measurements
+VO 12
+SP 375
+OP 378
+IS 2
+
+RT Journal Article
+ID 775810
+A1 Harrison,Michael,A.
+A1 Ruzzo,Walter,L.
+A1 Ullman,Jeffrey,D.
+YR 1976
+T1 Protection in operating systems
+JF Communications of The ACM
+VO 19
+SP 461
+OP 471
+IS 8
+
+RT Journal Article
+ID 786996
+A1 Kam,John,B.
+A1 Ullman,Jeffrey,D.
+YR 1976
+T1 Global Data Flow Analysis and Iterative Algorithms
+JF Journal of The ACM
+VO 23
+SP 158
+OP 171
+IS 1
+
+RT Journal Article
+ID 788784
+A1 Ullman,J.,D.
+A1 Aho,A.,V.
+A1 Hirschberg,D.,S.
+YR 1976
+T1 Bounds on the Complexity of the Longest Common Subsequence Problem
+JF Journal of The ACM
+VO 23
+SP 1
+OP 12
+IS 1
+
+RT Journal Article
+ID 1315320
+A1 Ullman,J.
+YR 1976
+T1 An algorithm for subgraph isomorphism
+JF Journal of The ACM
+
+RT Conference Proceedings
+ID 566766
+A1 Aho,Alfred,V.
+A1 Johnson,Stephen,C.
+A1 Ullman,Jeffrey,D.
+YR 1976
+T1 Code Generation for Expressions with Common Subexpressions
+SP 19
+OP 31
+
+RT Journal Article
+ID 1297497
+A1 Kam,J.,B.
+A1 Ullman,J.,D.
+YR 1976
+T1 Global optimization problems and iterative algorithms
+
+RT Conference Proceedings
+ID 566661
+A1 Fong,Amelia,C.
+A1 Ullman,Jeffrey,D.
+YR 1976
+T1 Induction variables in very high level languages
+SP 104
+OP 112
+
+RT Journal Article
+ID 2117257
+A1 Ullman,J.,D.
+YR 1976
+T1 Complexity of sequencing problems
+
+RT Journal Article
+ID 812396
+A1 Aho,Alfred,V.
+A1 Hopcroft,John,E.
+A1 Ullman,Jeffrey,D.
+YR 1976
+T1 On Finding Lowest Common Ancestors in Trees
+JF Siam Journal on Computing
+VO 5
+SP 115
+OP 132
+IS 1
+
+RT Journal Article
+ID 792037
+A1 Aho,Alfred,V.
+A1 Ullman,Jeffrey,D.
+YR 1976
+T1 Node Listings for Reducible Flow Graphs
+JF Journal of Computer and System Sciences
+VO 13
+SP 286
+OP 299
+IS 3
+
+RT Journal Article
+ID 19264873
+A1 Kaufman,Leon
+A1 Gamsu,Gordon
+A1 Savoca,Charles
+A1 Swann,Sybil
+A1 Murphey,Louis
+A1 Hruska,Bernard
+A1 Palmer,David
+A1 Ullman,John
+YR 1976
+T1 Measurement of Absolute Lung Density by Compton-Scatter Densitometry
+JF IEEE Transactions on Nuclear Science
+VO 23
+SP 599
+OP 605
+IS 1
+
+RT Conference Proceedings
+ID 576463
+A1 Fong,Amelia,C.
+A1 Ullman,Jeffrey,D.
+YR 1976
+T1 Finding the depth of a flow graph
+SP 121
+OP 125
+
+RT Conference Proceedings
+ID 4453139
+A1 Aho,A.,V.
+A1 Johnson,S.,C.
+A1 Ullman,J.,D.
+YR 1976
+T1 Code generation for expressions with common subexpressions (Extended Abstract)
+
+RT Journal Article
+ID 57393856
+A1 Harrison,Michael,A.
+A1 Ruzzo,Walter,L.
+A1 Ullman,Jeffrey,D.
+YR 1976
+T1 Protection in operating systems
+VO 19
+
+RT Journal Article
+ID 791402
+A1 Ullman,Jeffrey,D.
+YR 1975
+T1 NP - Complete Scheduling Problems
+JF Journal of Computer and System Sciences
+VO 10
+SP 384
+OP 393
+IS 3
+
+RT Journal Article
+ID 574078
+A1 Harrison,Michael,A.
+A1 Ruzzo,Walter,L.
+A1 Ullman,Jeffrey,D.
+YR 1975
+T1 On protection in operating systems
+JF Operating Systems Review
+VO 9
+SP 14
+OP 24
+IS 5
+
+RT Journal Article
+ID 811655
+A1 Hecht,Matthew,S.
+A1 Ullman,Jeffrey,D.
+YR 1975
+T1 A Simple Algorithm for Global Data Flow Analysis Problems
+JF Siam Journal on Computing
+VO 4
+SP 519
+OP 532
+IS 4
+
+RT Journal Article
+ID 777470
+A1 Aho,Alfred,V.
+A1 Johnson,Stephen,C.
+A1 Ullman,Jeffrey,D.
+YR 1975
+T1 Deterministic parsing of ambiguous grammars
+JF Communications of The ACM
+VO 18
+SP 441
+OP 452
+IS 8
+
+RT Conference Proceedings
+ID 566740
+A1 Fong,Amelia,C.
+A1 Kam,John,B.
+A1 Ullman,Jeffrey,D.
+YR 1975
+T1 Application of lattice algebra to loop optimization
+SP 1
+OP 9
+
+RT Conference Proceedings
+ID 576699
+A1 Aho,Alfred,V.
+A1 Ullman,Jeffrey,D.
+YR 1975
+T1 Node listings for reducible flow graphs
+SP 177
+OP 185
+
+RT Journal Article
+ID 1910486
+A1 Aho,A.,V.
+A1 Hopcroft,E.
+A1 Ullman,J.,D.
+YR 1975
+T1 The design and analys~s of computer algorzthms addison-wesley
+
+RT Journal Article
+ID 566157
+A1 III,Harry,B.,Hunt
+A1 Szymanski,Thomas,G.
+A1 Ullman,Jeffrey,D.
+YR 1975
+T1 On the complexity of LR(k) testing
+JF Communications of The ACM
+VO 18
+SP 130
+OP 136
+IS 12
+
+RT Journal Article
+ID 812399
+A1 Aho,Alfred,V.
+A1 Steiglitz,Kenneth
+A1 Ullman,Jeffrey,D.
+YR 1975
+T1 Evaluating Polynomials at Fixed Sets of Points
+JF Siam Journal on Computing
+VO 4
+SP 533
+OP 539
+IS 4
+
+RT Conference Proceedings
+ID 514282
+A1 Szymanski,Thomas,G.
+A1 Ullman,Jeffrey,D.
+YR 1975
+T1 Evaluating Relational Expressions with Dense and Sparse Arguments
+SP 90
+OP 97
+
+RT Conference Proceedings
+ID 49810227
+A1 Geller,Matthew,M.
+A1 Hunt,Harry,B.
+A1 Szymanski,Thomas,G.
+A1 Ullman,Jeffrey,D.
+YR 1975
+T1 Economy of description by parsers, DPDA's, and PDA's
+SP 122
+OP 127
+
+RT Conference Proceedings
+ID 515617
+A1 Geller,Matthew,M.
+A1 III,Harry,B.,Hunt
+A1 Szymanski,Thomas,G.
+A1 Ullman,Jeffrey,D.
+YR 1975
+T1 Economy of Descriptions by Parsers, DPDA's, and PDA's
+SP 122
+OP 127
+
+RT Journal Article
+ID 39208535
+A1 III,Harry,B.,Hunt
+A1 Szymanski,Thomas,G.
+A1 Ullman,Jeffrey,D.
+YR 1975
+T1 On the complexity of LR(k) testing
+JF Communications of The ACM
+SP 707
+OP 716
+
+RT Journal Article
+ID 60836587
+A1 Ullman,J.
+A1 Brown,S.
+A1 Silverstein,A.
+A1 Vogel,J.
+A1 Mazess,R.,B.
+YR 1975
+T1 Bone mineral computation with a rectilinear scanner
+
+RT Journal Article
+ID 1304427
+A1 Aho,A.,V
+A1 Hopcrofr,J.,E
+A1 Ullman,J,D.
+YR 1974
+T1 The design and analysts of computer algorithms addison-wesley
+
+RT Journal Article
+ID 812294
+A1 Johnson,David,S.
+A1 Demers,Alan,J.
+A1 Ullman,Jeffrey,D.
+A1 Garey,M.,R.
+A1 Graham,Ronald,L.
+YR 1974
+T1 Worst-Case Performance Bounds for Simple One-Dimensional Packing Algorithms
+JF Siam Journal on Computing
+VO 3
+SP 299
+OP 325
+IS 4
+
+RT Journal Article
+ID 787929
+A1 Hecht,Matthew,S.
+A1 Ullman,Jeffrey,D.
+YR 1974
+T1 Characterizations of Reducible Flow Graphs
+JF Journal of The ACM
+VO 21
+SP 367
+OP 375
+IS 3
+
+RT Journal Article
+ID 1296092
+A1 Aho,A.,V.
+A1 Hopcroft,J.,E.
+A1 Ullman,J.,D.
+YR 1974
+T1 The design and analyaia oj computer algorithms
+
+RT Journal Article
+ID 1258482
+A1 Aho,A.,V.
+A1 Hopcroft,J.,E.
+A1 Ullman,J.,D.
+YR 1974
+T1 The design and analysis of algorithms
+
+RT Conference Proceedings
+ID 49809139
+A1 Aho,A.,V.
+A1 Hirschberg,D.,S.
+A1 Ullman,J.,D.
+YR 1974
+T1 Bounds on the complexity of the longest common subsequence problem
+SP 104
+OP 109
+
+RT Journal Article
+ID 1324266
+A1 Hopcroft,J.,E.
+A1 Ullman,D.
+YR 1974
+T1 The design and analysis o! computer algorithrnz
+
+RT Journal Article
+ID 1329525
+A1 Aho,A.,V.
+A1 Ullman,J.D.
+YR 1974
+T1 Dynamic Memories with Rapid Random and Sequential Access
+JF IEEE Transactions on Computers
+VO C-23
+SP 272
+OP 276
+IS 3
+
+RT Journal Article
+ID 2386059
+A1 Johnson,D.,S.
+A1 Demers,A.
+A1 Ullman,J.,D.
+A1 Garey,M.,R.
+A1 Graham,R.,L.
+YR 1974
+T1 Worst case bounds for simple one-dimensional packing algorithms
+JF Siam Journal on Computing
+
+RT Conference Proceedings
+ID 1328671
+A1 Hunt,Harry,B.
+A1 Szymanski,Thomas,G.
+A1 Ullman,Jeffrey,D.
+YR 1974
+T1 Operations on sparse relations and efficient algorithms for grammar problems
+SP 127
+OP 132
+
+RT Journal Article
+ID 1392942
+A1 Aho,A.
+A1 Hoperoft,J.
+A1 Ullman,J.
+YR 1974
+T1 The destgn and analysts of computer al&ortt
+
+RT Journal Article
+ID 1348382
+A1 Johnson,D.,S.
+A1 Demers,A.
+A1 Ullman,J,D
+A1 Garey,M.,R.
+A1 Graham,R.
+YR 1974
+T1 L worst-case performance bounds for rumple one-dimensional packing algorithms siam j
+
+RT Journal Article
+ID 53049536
+A1 Aho,Alfred,V.
+A1 Hopcroft,John,E.
+A1 Ullman,Jeffrey,D.
+YR 1974
+T1 The design and analysis of computer algorithms
+
+RT Conference Proceedings
+ID 515951
+A1 Aho,Alfred,V.
+A1 Hirschberg,Daniel,S.
+A1 Ullman,Jeffrey,D.
+YR 1974
+T1 Bounds on the Complexity of the Longest Common Subsequence Problem (Extended Abstract)
+SP 104
+OP 109
+
+RT Conference Proceedings
+ID 514342
+A1 III,Harry,B.,Hunt
+A1 Szymanski,Thomas,G.
+A1 Ullman,Jeffrey,D.
+YR 1974
+T1 Operations on Sparse Relations and Efficient Algorithms for Grammar Problems (Extended Abstract)
+SP 127
+OP 132
+
+RT Journal Article
+ID 1314874
+A1 Aho,A.,V.
+A1 Hopcroft,J.
+A1 Ullman,J.,D.
+YR 1973
+T1 The design and analysis of computer algorithms
+
+RT Journal Article
+ID 1251942
+A1 Aho,A.,V.
+A1 Ullman,J.,D.
+YR 1973
+T1 The theory of parsing
+
+RT Journal Article
+ID 812239
+A1 Hopcroft,John,E.
+A1 Ullman,Jeffrey,D.
+YR 1973
+T1 Set Merging Algorithms
+JF Siam Journal on Computing
+VO 2
+SP 294
+OP 303
+IS 4
+
+RT Journal Article
+ID 769085
+A1 Ullman,Jeffrey,D.
+YR 1973
+T1 Fast Algorithms for the Elimination of Common Subexpressions
+JF Acta Informatica
+VO 2
+SP 191
+OP 213
+IS 3
+
+RT Journal Article
+ID 574043
+A1 Ullman,Jeffrey,D.
+YR 1973
+T1 Polynomial complete scheduling problems
+JF Operating Systems Review
+VO 7
+SP 96
+OP 101
+IS 4
+
+RT Journal Article
+ID 1330319
+A1 Aho,A.,V
+A1 Ullman,J.,D
+YR 1973
+T1 The theory of parsing, translation and compiling
+
+RT Conference Proceedings
+ID 566520
+A1 Hecht,Matthew,S.
+A1 Ullman,Jeffrey,D.
+YR 1973
+T1 Analysis of a Simple Algorithm for Global Flow Problems
+SP 207
+OP 217
+
+RT Conference Proceedings
+ID 911645
+A1 Hecht,Matthew,S.
+A1 Ullman,Jeffrey,D.
+YR 1973
+T1 Analysis of a simple algorithm global data flow problems
+
+RT Conference Proceedings
+ID 576688
+A1 Aho,Alfred,V.
+A1 Hopcroft,John,E.
+A1 Ullman,Jeffrey,D.
+YR 1973
+T1 On finding lowest common ancestors in trees
+SP 253
+OP 265
+
+RT Conference Proceedings
+ID 566765
+A1 Aho,Alfred,V.
+A1 Johnson,Steven,C.
+A1 Ullman,Jeffrey,D.
+YR 1973
+T1 Deterministic parsing of ambiguous grammars
+SP 1
+OP 21
+
+RT Journal Article
+ID 819301
+A1 Birman,Alexander
+A1 Ullman,Jeffrey,D.
+YR 1973
+T1 Parsing Algorithms with Backtrack
+JF Information and Computation/information and Control
+VO 23
+SP 1
+OP 34
+IS 1
+
+RT Journal Article
+ID 812407
+A1 Aho,Alfred,V.
+A1 Ullman,Jeffrey,D.
+YR 1973
+T1 A Technique for Speeding up LR(k) Parsers
+JF Siam Journal on Computing
+VO 2
+SP 106
+OP 127
+IS 2
+
+RT Conference Proceedings
+ID 1261792
+A1 Ullman,J.,D.
+YR 1973
+T1 Polynomical complete scheduling problem
+
+RT Journal Article
+ID 753176
+A1 Aho,Alfred,V.
+A1 Ullman,Jeffrey,D.
+YR 1973
+T1 Error Detection in Precedence Parsers
+JF Theory of Computing Systems / Mathematical Systems Theory
+VO 7
+SP 97
+OP 113
+IS 2
+
+RT Journal Article
+ID 15204007
+A1 Aho,A.,V.
+A1 Ullman,J.,D.
+YR 1973
+T1 A Technique for Speeding up ${\text{LR}}(k)$ Parsers
+JF Siam Journal on Computing
+VO 2
+SP 106
+IS 2
+
+RT Journal Article
+ID 1300539
+A1 Aho,H.
+A1 Ullman,J.
+YR 1972
+T1 The theory of parsing, translation and compiling
+
+RT Journal Article
+ID 812395
+A1 Aho,Alfred,V.
+A1 Garey,M.,R.
+A1 Ullman,Jeffrey,D.
+YR 1972
+T1 The Transitive Reduction of a Directed Graph
+JF Siam Journal on Computing
+VO 1
+SP 131
+OP 137
+IS 2
+
+RT Journal Article
+ID 576129
+A1 Hecht,Matthew,S.
+A1 Ullman,Jeffrey,D.
+YR 1972
+T1 Flow Graph Reducibility
+JF Siam Journal on Computing
+VO 1
+SP 238
+OP 250
+IS 2
+
+RT Conference Proceedings
+ID 575874
+A1 Garey,M.,R.
+A1 Graham,Ronald,L.
+A1 Ullman,Jeffrey,D.
+YR 1972
+T1 Worst-case analysis of memory allocation algorithms
+SP 143
+OP 150
+
+RT Conference Proceedings
+ID 515282
+A1 Ullman,Jeffrey,D.
+YR 1972
+T1 A Fast Algorithm for the Elimination of Common Subexpressions
+SP 161
+OP 176
+
+RT Journal Article
+ID 1328459
+A1 Hopcroft,J.,E.
+A1 Ullman,J.,D.
+YR 1972
+T1 an n log n algorithm for detecting reducible graphs
+
+RT Journal Article
+ID 787934
+A1 Ullman,Jeffrey,D.
+YR 1972
+T1 A Note on the Efficiency of Hashing Functions
+JF Journal of The ACM
+VO 19
+SP 569
+OP 575
+IS 3
+
+RT Journal Article
+ID 1338666
+A1 Aho,A.,V.
+A1 Ullman,J.,D.
+YR 1972
+T1 Optimization of straight line code
+
+RT Journal Article
+ID 812406
+A1 Aho,Alfred,V.
+A1 Ullman,Jeffrey,D.
+YR 1972
+T1 Optimization of Straight Line Programs
+JF Siam Journal on Computing
+VO 1
+SP 1
+OP 19
+IS 1
+
+RT Journal Article
+ID 1353240
+A1 Aho,A.,V.
+A1 Sethi,R.
+A1 Ullman,J.,D.
+YR 1972
+T1 Code optimization and finite church-rosser theorems
+
+RT Conference Proceedings
+ID 576698
+A1 Aho,Alfred,V.
+A1 Ullman,Jeffrey,D.
+YR 1972
+T1 A technique for speeding up LR(k) parsers
+SP 251
+OP 263
+
+RT Journal Article
+ID 788782
+A1 Aho,Alfred,V.
+A1 Denning,Peter,J.
+A1 Ullman,Jeffrey,D.
+YR 1972
+T1 Weak and Mixed Strategy Precedence Parsing
+JF Journal of The ACM
+VO 19
+SP 225
+OP 243
+IS 2
+
+RT Journal Article
+ID 792027
+A1 Aho,Alfred,V.
+A1 Ullman,Jeffrey,D.
+YR 1972
+T1 Optimization of LR(k) Parsers
+JF Journal of Computer and System Sciences
+VO 6
+SP 573
+OP 602
+IS 6
+
+RT Journal Article
+ID 1910709
+A1 Aho,A.,V.
+A1 Hopcroft,J.,E.
+A1 Ullman,J.,D.
+YR 1972
+T1 On finding the least common ancestors in trees
+
+RT Journal Article
+ID 792036
+A1 Aho,Alfred,V.
+A1 Ullman,Jeffrey,D.
+YR 1972
+T1 Equivalence of Programs with Structured Variables
+JF Journal of Computer and System Sciences
+VO 6
+SP 125
+OP 137
+IS 2
+
+RT Journal Article
+ID 39223376
+A1 Ullman,J.,D.
+YR 1972
+T1 Applications of language theory to compiler design
+SP 235
+OP 242
+
+RT Journal Article
+ID 15287336
+A1 Aho,A.,V.
+A1 Ullman,J.D.
+YR 1972
+T1 Linear precedence functions for weak precedence grammars
+JF International Journal of Computer Mathematics
+VO 3
+SP 149
+OP 155
+IS 1-4
+
+RT Journal Article
+ID 39246471
+A1 Hecht,Matthew,S.
+A1 Ullman,Jeffrey,D.
+YR 1972
+T1 Flow graph reducibility
+SP 238
+OP 250
+
+RT Journal Article
+ID 788781
+A1 Aho,Alfred,V.
+A1 Denning,Peter,J.
+A1 Ullman,Jeffrey,D.
+YR 1971
+T1 Principles of Optimal Page Replacement
+JF Journal of The ACM
+VO 18
+SP 80
+OP 93
+IS 1
+
+RT Journal Article
+ID 820805
+A1 Aho,Alfred,V.
+A1 Ullman,Jeffrey,D.
+YR 1971
+T1 Translations on a Context-Free Grammar
+JF Information and Computation/information and Control
+VO 19
+SP 439
+OP 475
+IS 5
+
+RT Journal Article
+ID 1274346
+A1 Ullman,J.,D.
+YR 1971
+T1 The performance of a memory allocation algorithm
+
+RT Conference Proceedings
+ID 576697
+A1 Aho,Alfred,V.
+A1 Ullman,Jeffrey,D.
+YR 1971
+T1 The care and feeding of LR(k) grammars
+SP 159
+OP 170
+
+RT Journal Article
+ID 753175
+A1 Aho,Alfred,V.
+A1 Ullman,Jeffrey,D.
+YR 1971
+T1 Characterizations and Extensions of Pushdown Translations
+JF Theory of Computing Systems / Mathematical Systems Theory
+VO 5
+SP 172
+OP 192
+IS 2
+
+RT Journal Article
+ID 787741
+A1 Sethi,Ravi
+A1 Ullman,Jeffrey,D.
+YR 1970
+T1 The Generation of Optimal Code for Arithmetic Expressions
+JF Journal of The ACM
+VO 17
+SP 715
+OP 728
+IS 4
+
+RT Journal Article
+ID 889371
+A1 Aho,Alfred,V.
+A1 Sethi,Ravi
+A1 Ullman,J.,D.
+YR 1970
+T1 A formal approach to code optimization
+JF Sigplan Notices
+VO 5
+SP 86
+OP 100
+IS 7
+
+RT Conference Proceedings
+ID 515003
+A1 Birman,Alexander
+A1 Ullman,Jeffrey,D.
+YR 1970
+T1 Parsing Algorithms with Backtrack
+SP 153
+OP 174
+
+RT Journal Article
+ID 1910742
+A1 Aho,A.,V.
+A1 Ullman,J.,D.
+YR 1970
+T1 Transformations on straight line programs
+
+RT Conference Proceedings
+ID 576696
+A1 Aho,Alfred,V.
+A1 Ullman,Jeffrey,D.
+YR 1970
+T1 Transformations on straight line programs - (Preliminary Version)
+SP 136
+OP 148
+
+RT Journal Article
+ID 792035
+A1 Aho,Alfred,V.
+A1 Ullman,Jeffrey,D.
+YR 1970
+T1 A Characterization of Two-Way Deterministic Classes of Languages
+JF Journal of Computer and System Sciences
+VO 4
+SP 523
+OP 538
+IS 6
+
+RT Conference Proceedings
+ID 515964
+A1 Aho,Alfred,V.
+A1 Ullman,Jeffrey,D.
+YR 1970
+T1 Equivalence of Programs with Structured Variables
+SP 25
+OP 31
+
+RT Journal Article
+ID 792028
+A1 Aho,Alfred,V.
+A1 Ullman,Jeffrey,D.
+A1 Hopcroft,John,E.
+YR 1970
+T1 On the Computational Power of Pushdown Automata
+JF Journal of Computer and System Sciences
+VO 4
+SP 129
+OP 136
+IS 2
+
+RT Journal Article
+ID 1260657
+A1 Hopcroft,John,E.
+A1 Ullman,Jeffrey,D.
+YR 1969
+T1 Formal languages and their relation to automata
+
+RT Conference Proceedings
+ID 576695
+A1 Aho,Alfred,V.
+A1 Ullman,Jeffrey,D.
+YR 1969
+T1 Translations on a context free grammar
+SP 93
+OP 112
+
+RT Journal Article
+ID 792034
+A1 Aho,Alfred,V.
+A1 Ullman,Jeffrey,D.
+YR 1969
+T1 Syntax Directed Translations and the Pushdown Assembler
+JF Journal of Computer and System Sciences
+VO 3
+SP 37
+OP 56
+IS 1
+
+RT Journal Article
+ID 4200112
+A1 FRIEDMAN,ARTHUR,D.
+A1 Graham,R.,L.
+A1 Ullman,J.,D.
+YR 1969
+T1 Universal Single Transition Time Asynchronous State Assignments
+JF IEEE Transactions on Computers
+VO C-18
+SP 541
+OP 547
+IS 6
+
+RT Journal Article
+ID 788603
+A1 Hopcroft,John,E.
+A1 Ullman,Jeffrey,D.
+YR 1969
+T1 Some Results on Tape-Bounded Turing Machines
+JF Journal of The ACM
+VO 16
+SP 168
+OP 177
+IS 1
+
+RT Journal Article
+ID 792026
+A1 Aho,Alfred,V.
+A1 Ullman,Jeffrey,D.
+YR 1969
+T1 Properties of Syntax Directed Translations
+JF Journal of Computer and System Sciences
+VO 3
+SP 319
+OP 334
+IS 3
+
+RT Journal Article
+ID 753166
+A1 Aho,Alfred,V.
+A1 Hopcroft,John,E.
+A1 Ullman,Jeffrey,D.
+YR 1969
+T1 A General Theory of Translation
+JF Theory of Computing Systems / Mathematical Systems Theory
+VO 3
+SP 193
+OP 221
+IS 3
+
+RT Conference Proceedings
+ID 515963
+A1 Aho,Alfred,V.
+A1 Ullman,Jeffrey,D.
+YR 1969
+T1 A Characterization of Two-Way Deterministic Classes of Languages
+SP 231
+OP 239
+
+RT Journal Article
+ID 3072536
+A1 Ullman,J
+YR 1969
+T1 Experiments with the N-mple method of Patter Recognition
+JF IEEE Transactions on Computers
+
+RT Journal Article
+ID 787933
+A1 Ullman,Jeffrey,D.
+YR 1969
+T1 Halting Stack Automata
+JF Journal of The ACM
+VO 16
+SP 550
+OP 563
+IS 1
+
+RT Journal Article
+ID 3770660
+A1 Hopcroft,J.
+A1 Ullman,J.
+YR 1969
+T1 Some results on tape-bounded computation
+
+RT Journal Article
+ID 14368165
+A1 Ullman,J.,D.
+YR 1969
+T1 R69-19 On the Elimination of Endmarkers
+JF IEEE Transactions on Computers
+VO C-18
+SP 669
+OP 669
+IS 7
+
+RT Journal Article
+ID 820793
+A1 Aho,Alfred,V.
+A1 Hopcroft,John,E.
+A1 Ullman,Jeffrey,D.
+YR 1968
+T1 Time and Tape Complexity of Pushdown Automaton Languages
+JF Information and Computation/information and Control
+VO 13
+SP 186
+OP 206
+IS 3
+
+RT Journal Article
+ID 788174
+A1 Hopcroft,John,E.
+A1 Ullman,Jeffrey,D.
+YR 1968
+T1 Relations Between Time and Tape Complexities
+JF Journal of The ACM
+VO 15
+SP 414
+OP 427
+IS 3
+
+RT Journal Article
+ID 753174
+A1 Aho,Alfred,V.
+A1 Ullman,Jeffrey,D.
+YR 1968
+T1 The Theory of Languages
+JF Theory of Computing Systems / Mathematical Systems Theory
+VO 2
+SP 97
+OP 125
+IS 2
+
+RT Conference Proceedings
+ID 514637
+A1 Ullman,Jeffrey,D.
+A1 Weiner,Peter
+YR 1968
+T1 Universal Two State Machines: Characterization Theorems and Decomposition Schemes
+SP 413
+OP 426
+
+RT Journal Article
+ID 820543
+A1 Hopcroft,John,E.
+A1 Ullman,Jeffrey,D.
+YR 1968
+T1 Sets Accepted by One-Way Stack Automata Are Context Sensitive
+JF Information and Computation/information and Control
+VO 13
+SP 114
+OP 133
+IS 2
+
+RT Journal Article
+ID 791876
+A1 Hopcroft,John,E.
+A1 Ullman,Jeffrey,D.
+YR 1968
+T1 Deterministic Stack Automata and the Quotient Operator
+JF Journal of Computer and System Sciences
+VO 2
+SP 1
+OP 12
+IS 1
+
+RT Journal Article
+ID 788602
+A1 Hopcroft,John,E.
+A1 Ullman,Jeffrey,D.
+YR 1968
+T1 Decidable and Undecidable Questions About Automata
+JF Journal of The ACM
+VO 15
+SP 317
+OP 324
+IS 2
+
+RT Conference Proceedings
+ID 515962
+A1 Aho,Alfred,V.
+A1 Ullman,Jeffrey,D.
+YR 1968
+T1 Automaton Analogs of Syntax Directed Translation Schemata
+SP 143
+OP 159
+
+RT Conference Proceedings
+ID 900362
+A1 Aho,Alfred,V.
+A1 Hopcroft,John,E.
+A1 Ullman,Jeffrey,D.
+YR 1968
+T1 A recognition algorithm for pushdown store systems
+SP 597
+OP 604
+
+RT Journal Article
+ID 61009287
+A1 Bardin,R.,K.
+A1 Gollon,P.,J.
+A1 Ullman,J.,D.
+A1 Wu,C.,S.
+YR 1968
+T1 DOUBLE BETA DECAY IN â´â¸Ca AND THE CONSERVATION OF LEPTONS
+
+RT Journal Article
+ID 791875
+A1 Hopcroft,John,E.
+A1 Ullman,Jeffrey,D.
+YR 1967
+T1 Nonerasing Stack Automata
+JF Journal of Computer and System Sciences
+VO 1
+SP 166
+OP 186
+IS 2
+
+RT Journal Article
+ID 1449469
+A1 Ullman,J.
+YR 1967
+T1 On the capabilities of codes to correct synchronization errors
+JF IEEE Transactions on Information Theory
+VO 13
+SP 95
+OP 105
+IS 1
+
+RT Conference Proceedings
+ID 515489
+A1 Hopcroft,John,E.
+A1 Ullman,Jeffrey,D.
+YR 1967
+T1 An Approach to a Unified Theory of Automata
+SP 140
+OP 147
+
+RT Conference Proceedings
+ID 515488
+A1 Hopcroft,John,E.
+A1 Ullman,Jeffrey,D.
+YR 1967
+T1 Two Results on One-Way Stack Automata
+SP 37
+OP 44
+
+RT Journal Article
+ID 1452873
+A1 ULLMAN,JEFFREY,D.
+YR 1966
+T1 Near-optimal, single-synchronization-error-correcting code
+JF IEEE Transactions on Information Theory
+VO 12
+SP 418
+OP 424
+IS 4
+
+RT Journal Article
+ID 1945715
+A1 Hopcroft,J.,E.
+A1 Ullman,J.,D.
+YR 1966
+T1 Error correction for formal languages
+
+RT Journal Article
+ID 15269156
+A1 Ullman,J.,D.
+YR 1965
+T1 Decoding of Cyclic Codes Using Position Invariant Functions
+JF Ibm Journal of Research and Development
+VO 9
+SP 233
+OP 240
+IS 4
+
+RT Journal Article
+ID 42197988
+A1 Gorodetzky,S.
+A1 Ullman,J.
+A1 Bergdolt,G.
+A1 Gallmann,A.
+YR 1961
+T1 Mesures de la polarisation de protons diffusés élastiquement sur 12C au voisinage de 5 MeV
+JF Journal De Physique Et Le Radium
+VO 22
+SP 570
+OP 572
+IS 10
+
+RT Journal Article
+ID 61185532
+A1 Gorodetzky,S.
+A1 Ullman,J.
+A1 Bergdolt,G.
+A1 Gallmann,A.
+YR 1961
+T1 MEASUREMENT OF THE POLARIZATION OF PROTONS ELASTICALLY SCATTERED FROM CÂ¹Â² IN THE VICINITY OF 5 Mev
+
+RT Journal Article
+ID 1371855
+A1 Aho,A.,V.
+A1 Ullman,J.,D
+T1 Principles of compiler desisst
+
+RT Journal Article
+ID 1264479
+A1 Ullman,J,D
+A1 Gelder,A,Van
+T1 Parallel complexity of logic programs
+
+RT Journal Article
+ID 13059810
+A1 Fagin,Ronald
+A1 Ullman,Jeffrey,D.
+A1 Vardi,Moshe,Y.
+T1 ON THE SEMANTICS OF UPDATES IN DATABASES Preliminary Report
+
+RT Journal Article
+ID 12555531
+A1 Aho,A.,V.
+A1 Sethi,R.
+A1 Ullman,J.,D.
+A1 Chen,W.,H.
+A1 Smith,C.,H.
+A1 Fralick,S.,C.
+A1 Micheli,G.,De
+A1 Lagnese,E.,Dirkes
+T1 8 References
+
+RT Journal Article
+ID 4554880
+A1 Grossman,Robert
+A1 Kasif,Simon
+A1 Moore,Reagan
+A1 Rocke,David
+A1 Ullman,Jeff
+T1 A Report of three NSF Workshops on Mining Large, Massive, and Distributed Data
+
+RT Journal Article
+ID 12566960
+A1 Aho,Alfred,V.
+A1 Hopcroft,John,E.
+A1 Ullman,Jeffrey,D.
+A1 Cormen,Thomas,H.
+A1 Leiserson,Charles,E.
+A1 Rivest,R.,L.
+A1 Knuth,Donald,E.
+A1 Mehlhorn,Kurt
+T1 Vorlesungsinhalt
+
+RT Journal Article
+ID 12814153
+A1 Abiteboul,S.
+A1 Agrawal,R.
+A1 Bernstein,P.,A.
+A1 Carey,M.,J.
+A1 Ceri,S.
+A1 Croft,W.,B.
+A1 DeWitt,D.,J.
+A1 Franklin,M.,J.
+A1 Garcia-Molina,H.
+A1 Gawlick,D.
+A1 Gray,J.
+A1 Haas,L.,M.
+A1 Halevy,A.,Y.
+A1 Hellerstein,J.,M.
+A1 Ioannidis,Y.,E.
+A1 Kersten,M.,L.
+A1 Pazzani,M.,J.
+A1 Lesk,M.
+A1 Maier,D.
+A1 Naughton,J.,F.
+A1 Schek,H.-J.
+A1 Sellis,T.,K.
+A1 Silberschatz,A.
+A1 Stonebraker,M.
+A1 Snodgrass,R.,T.
+A1 Ullman,J.,D.
+T1 BRICKS Progress Report 2005 Appendix A: Scientific Publications 2005
+
+RT Conference Proceedings
+ID 6855060
+A1 Afrati,Foto,N.
+A1 Ullman,Jeffrey,D.
+T1 A New Computation Model for Rack-Based Computing
+
+RT Journal Article
+ID 12727506
+A1 Aho,A.,V.
+A1 Sethi,R.
+A1 Ullman,J.,D.
+A1 Camposano,R.
+A1 Brayton,R.
+T1 10 Bibliography
+
+RT Journal Article
+ID 13016181
+A1 Hopcroft,John,E.
+A1 Ullman,D.
+A1 Salomaa,Arto,K.
+A1 Wagner,Klaus,W.
+T1 Grundlagen der Theoretischen Informatik
+
+RT Journal Article
+ID 10504976
+A1 Harinarayan,Venky
+A1 Rajaraman,Anand
+A1 U,Jeffrey,D.
+T1 Data Cubes Efficiently
+
+RT Journal Article
+ID 13232211
+A1 Garcia-Molina,Hector
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+T1 Studienausrichtung IMA Informationsmanagement
+
+RT Book, Whole
+ID 48601645
+A1 Siebes,Arno
+A1 Tsur,Shalom
+A1 Ullman,Jeff
+A1 Vieille,Laurent
+A1 Zaniolo,Carlo
+T1 Deductive Databases: Challenges, opportunities and future directions
+
+RT Journal Article
+ID 5584134
+A1 Ullman,Jeffrey
+A1 Law,Kincho
+A1 Teicholz,Paul
+A1 Keller,Arthur
+A1 Tiwari,Sanjai
+A1 Gupta,Ashish
+A1 Krishnamurthy,Karthik
+T1 Integrated Data Exchange and Concurrent Design for Engineered Facilities
+
+RT Journal Article
+ID 13035927
+A1 Hopcroft-Ullman,J.
+A1 Ullman,J.
+T1 1 Quellen
+
+RT Journal Article
+ID 11691688
+A1 Afrati,Foto,N.
+A1 Ullman,Jeffrey,D.
+T1 Using Views to Generate Efficient Evaluation Plans for Queries
+
+RT Journal Article
+ID 58575089
+A1 Ullman,Jeffrey,D.
+T1 Designing good MapReduce algorithms
+JF ACM Crossroads Student Magazine
+SP 30
+OP 34
+
+RT Journal Article
+ID 11782454
+A1 Bressan,Stephane
+A1 Ullman,Jeffrey,D.
+T1 Root Questions for Large Classes
+
+RT Book, Whole
+ID 48429204
+A1 Ullman,Jeffrey
+T1 Some Advances in Data-Mining Techniques

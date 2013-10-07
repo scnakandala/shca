@@ -1,0 +1,5181 @@
+RT Journal Article
+ID 6549864
+A1 Goodchild,Michael,F.
+A1 Guo,Huadong
+A1 Annoni,Alessandro
+A1 Bian,Ling
+A1 Bie,Kees,de
+A1 Campbell,Frederick
+A1 Craglia,Max
+A1 Ehlers,Manfred
+A1 Genderen,John,van
+A1 Jackson,Davina
+A1 Lewis,Anthony,J.
+A1 Pesaresi,Martino
+A1 Remetey-Fueloepp,Gabor
+A1 Simpson,Richard
+A1 Skidmore,Andrew
+A1 Wang,Changlin
+A1 Woodgate,Peter
+YR 2012
+T1 Next-generation Digital Earth
+VO 109
+SP 11088
+OP 11094
+
+RT Journal Article
+ID 57416662
+A1 Parikh,Priti,P.
+A1 Minning,Todd,A.
+A1 Nguyen,Vinh
+A1 Lalithsena,Sarasi
+A1 Asiaee,Amir,H.
+A1 Sahoo,Satya,S.
+A1 Doshi,Prashant
+A1 Tarleton,Rick
+A1 Sheth,Amit,P.
+YR 2012
+T1 A Semantic Problem Solving Environment for Integrative Parasite Research: Identification of Intervention Targets for Trypanosoma cruzi
+JF PLOS Neglected Tropical Diseases
+VO 6
+IS 1
+
+RT Journal Article
+ID 39354839
+A1 Thomas,Christopher
+A1 Sheth,Amit,P.
+YR 2011
+T1 Web Wisdom: An essay on how Web 2.0 and Semantic Web can foster a global knowledge society
+JF Computers in Human Behavior
+VO 27
+SP 1285
+OP 1293
+IS 4
+
+RT Journal Article
+ID 49302123
+A1 Patel,A.
+A1 Tilmon,S.
+A1 Sheth,A.
+A1 Nguyen,L.
+A1 Chaparala,S.
+A1 Bhogireddy,V.
+A1 Chor,J.
+A1 Patel,D.
+A1 Keith,L.
+YR 2011
+T1 No improvement in emergency contraception provision after sexual assault: a national survey, 2004 and 2009
+JF Contraception
+VO 84
+SP 316
+OP 316
+IS 3
+
+RT Book, Whole
+ID 39263003
+A1 Jain,Prateek
+A1 Yeh,Peter,Z.
+A1 Verma,Kunal
+A1 Vasquez,Reymonrod,G.
+A1 Damova,Mariana
+A1 Hitzler,Pascal
+A1 Sheth,Amit,P.
+YR 2011
+T1 Contextual Ontology Alignment of LOD with an Upper Ontology: A Case Study with Proton
+SP 80
+OP 92
+
+RT Journal Article
+ID 51194924
+A1 Ilarri,Sergio
+A1 lllarramendi,Arantza
+A1 Mena,Eduardo
+A1 Sheth,Amit
+YR 2011
+T1 Semantics in Location-Based Services [Guest editor's introduction]
+JF IEEE Internet Computing
+VO 15
+SP 10
+OP 14
+IS 6
+
+RT Conference Proceedings
+ID 56944259
+A1 Cameron,Delroy
+A1 Kavuluru,Ramakanth
+A1 Bodenreider,Olivier
+A1 Mendes,Pablo,N.
+A1 Sheth,Amit,P.
+A1 Thirunarayan,Krishnaprasad
+YR 2011
+T1 Semantic Predications for Complex Information Needs in Biomedical Literature
+
+RT Journal Article
+ID 61416241
+A1 Desai,Pratikkumar
+A1 Henson,Cory
+A1 Anatharam,Pramod
+A1 Sheth,Amit
+YR 2011
+T1 SECURE: Semantics Empowered resCUe Environment (Demonstration Paper)
+SP 110
+OP 113
+
+RT Journal Article
+ID 39248563
+A1 Nagarajan,Meenakshi
+A1 Sheth,Amit,P.
+A1 Velmurugan,Selvam
+YR 2011
+T1 Citizen Sensor Data Mining, Social Media Analytics and Development Centric Web Applications
+SP 289
+OP 290
+
+RT Journal Article
+ID 51194929
+A1 Ranabahu,Ajith
+A1 Anderson,Paul
+A1 Sheth,Amit
+YR 2011
+T1 The Cloud Agnostic e-Science Analysis Platform
+JF IEEE Internet Computing
+VO 15
+SP 85
+OP 89
+IS 6
+
+RT Journal Article
+ID 61416236
+A1 Desai,Pratikkumar
+A1 Henson,Cory
+A1 Sheth,Amit
+A1 Anantharam,Pramod
+YR 2011
+T1 Demonstration: SECURE -- Semantics Empowered resCUe Environment
+
+RT Journal Article
+ID 51194922
+A1 Sheth,Amit
+YR 2011
+T1 Semantics Scales Up: Beyond Search in Web 3.0
+JF IEEE Internet Computing
+VO 15
+SP 3
+OP 6
+IS 6
+
+RT Journal Article
+ID 49436284
+A1 Sheth,A.
+YR 2011
+T1 JS03-02 - Diagnostic and Treatment Procedures of Depression in India
+JF European Psychiatry
+VO 26
+SP 2004
+OP 2004
+
+RT Journal Article
+ID 39363949
+A1 Sheth,Amit,P.
+YR 2011
+T1 Semantic Social Mashup approach for Designing Citizen Diplomacy
+
+RT Journal Article
+ID 50886039
+A1 Patni,Harshal
+A1 Henson,Cory
+A1 Sheth,Amit
+YR 2010
+T1 Linked sensor data
+
+RT Conference Proceedings
+ID 39280468
+A1 Mendes,Pablo,N.
+A1 Passant,Alexandre
+A1 Kapanipathi,Pavan
+A1 Sheth,Amit,P.
+YR 2010
+T1 Linked Open Social Signals
+SP 224
+OP 231
+
+RT Journal Article
+ID 39221908
+A1 Cameron,Delroy
+A1 Mendes,Pablo,N.
+A1 Sheth,Amit,P.
+A1 Chan,Victor
+YR 2010
+T1 Semantics-empowered text exploration for knowledge discovery
+SP 1
+OP 6
+
+RT Book, Whole
+ID 39278038
+A1 Jain,Prateek
+A1 Hitzler,Pascal
+A1 Sheth,Amit,P.
+A1 Verma,Kunal
+A1 Yeh,Peter,Z.
+YR 2010
+T1 Ontology Alignment for Linked Open Data
+SP 402
+OP 417
+
+RT Journal Article
+ID 50886012
+A1 Thirunarayan,Krishnaprasad
+A1 Anantharam,Pramod
+A1 Henson,Cory,A.
+A1 Sheth,Amit,P.
+YR 2010
+T1 Some trust issues in social networks and sensor networks
+
+RT Journal Article
+ID 39330941
+A1 Gruhl,Daniel
+A1 Nagarajan,Meenakshi
+A1 Pieper,Jan
+A1 Robson,Christine
+A1 Sheth,Amit,P.
+YR 2010
+T1 Multimodal social intelligence in a real-time dashboard system
+JF The Vldb Journal
+VO 19
+SP 825
+OP 848
+IS 6
+
+RT Journal Article
+ID 13495681
+A1 Thomas,Christopher
+A1 Wang,Wenbo
+A1 Mehra,Pankaj
+A1 Cameron,Delroy
+A1 Mendes,Pablo,N.
+A1 Sheth,Amit
+YR 2010
+T1 What Goes Around Comes Around — Improving Linked Open Data through On-Demand Model Creation
+
+RT Journal Article
+ID 13519433
+A1 Mendes,Pablo,N.
+A1 Kapanipathi,Pavan
+A1 Cameron,Delroy
+A1 Sheth,Amit,P.
+YR 2010
+T1 Dynamic Associative Relationships on the Linked Open Data Web
+
+RT Conference Proceedings
+ID 14003378
+A1 Manjunatha,Ashwin
+A1 Anderson,Paul
+A1 Sahoo,Satya
+A1 Ranabahu,Ajith
+A1 Raymer,Michael
+A1 Sheth,Amit
+YR 2010
+T1 Cloud Based Scientific Workflow for NMR Data Analysis
+
+RT Journal Article
+ID 14001923
+A1 Sheth,Amit,P.
+A1 Ranabahu,Ajith
+YR 2010
+T1 Semantic Modeling for Cloud Computing, Part 1
+JF IEEE Internet Computing
+VO 14
+SP 81
+OP 83
+IS 3
+
+RT Journal Article
+ID 14001919
+A1 Sheth,Amit,P.
+A1 Ranabahu,Ajith
+YR 2010
+T1 Semantic Modeling for Cloud Computing, Part 2
+JF IEEE Internet Computing
+VO 14
+SP 81
+OP 84
+IS 4
+
+RT Conference Proceedings
+ID 51022507
+A1 Anantharam,Pramod
+A1 Henson,Cory,A.
+A1 Thirunarayan,Krishnaprasad
+A1 Sheth,Amit,P.
+YR 2010
+T1 Trust model for semantic sensor and social networks: A preliminary report
+SP 1
+OP 5
+
+RT Journal Article
+ID 38306981
+A1 Escobar-Alvarez,S.
+A1 Gardner,J.
+A1 Sheth,A.
+A1 Manfredi,G.
+A1 Yang,G.
+A1 Ouerfelli,O.
+A1 Heaney,M.,L.
+A1 Scheinberg,D.,A.
+YR 2010
+T1 Inhibition of Human Peptide Deformylase Disrupts Mitochondrial Function
+JF Molecular and Cellular Biology
+VO 30
+IS 15
+
+RT Journal Article
+ID 13327512
+A1 Sheth,Amit
+YR 2010
+T1 Computing for Human Experience: Semantics-Empowered Sensors, Services, and Social Computing on the Ubiquitous Web
+JF IEEE Internet Computing
+VO 14
+SP 88
+OP 91
+IS 1
+
+RT Book, Whole
+ID 13286654
+A1 Sahoo,Satya,Sanket
+A1 Bodenreider,Olivier
+A1 Hitzler,Pascal
+A1 Sheth,Amit,P.
+A1 Thirunarayan,Krishnaprasad
+YR 2010
+T1 Provenance Context Entity (PaCE): Scalable Provenance Tracking for Scientific RDF Data
+SP 461
+OP 470
+
+RT Journal Article
+ID 39284966
+A1 Cameron,Delroy
+A1 Aleman-Meza,Boanerges
+A1 Arpinar,Ismailcem,Budak
+A1 Decker,Sheron,L.
+A1 Sheth,Amit,P.
+YR 2010
+T1 A Taxonomy-Based Model for Expertise Extrapolation
+JF IEEE Internet Computing
+SP 333
+OP 340
+
+RT Conference Proceedings
+ID 39290225
+A1 Gunaratna,Kalpa
+A1 Anderson,Paul
+A1 Ranabahu,Ajith
+A1 Sheth,Amit,P.
+YR 2010
+T1 A Study in Hadoop Streaming with Matlab for NMR Data Processing
+SP 786
+OP 789
+
+RT Journal Article
+ID 39284886
+A1 Aleman-Meza,Boanerges
+A1 Arpinar,Ismailcem,Budak
+A1 Nural,Mustafa,V.
+A1 Sheth,Amit,P.
+YR 2010
+T1 Ranking Documents Semantically Using Ontological Relationships
+JF IEEE Internet Computing
+SP 299
+OP 304
+
+RT Journal Article
+ID 31586262
+A1 Sheth,A.
+A1 Boktor,M.
+A1 Diamond,K.
+A1 Lavu,K.
+A1 Sangster,G.
+YR 2010
+T1 Complete esophageal obliteration secondary to cytomegalovirus in AIDS patient: Esophageal obliteration secondary to CMV
+JF Diseases of The Esophagus
+
+RT Journal Article
+ID 51175659
+A1 Sheth,Amit
+A1 Thomas,C.
+A1 Mehra,P.
+YR 2010
+T1 Continuous Semantics to Analyze Real-Time Data
+JF IEEE Internet Computing
+VO 14
+SP 84
+OP 89
+IS 6
+
+RT Conference Proceedings
+ID 15317962
+A1 Manjunatha,Ashwin
+A1 Ranabahu,Ajith
+A1 Sheth,Amit,P.
+A1 Thirunarayan,Krishnaprasad
+YR 2010
+T1 Power of Clouds In Your Pocket: An Efficient Approach for Cloud Mobile Hybrid Application Development
+SP 496
+OP 503
+
+RT Conference Proceedings
+ID 39221958
+A1 Wang,Wenbo
+A1 Thomas,Christopher
+A1 Sheth,Amit,P.
+A1 Chan,Victor
+YR 2010
+T1 Pattern-based synonym and antonym extraction
+SP 1
+OP 4
+
+RT Journal Article
+ID 15317963
+A1 Ranabahu,A.
+A1 Sheth,A.
+A1 Manjunatha,A.
+A1 Thirunarayan,K.
+YR 2010
+T1 Towards Cloud Mobile Hybrid Application Generation using Semantically Enriched Domain Specific Languages
+
+RT Conference Proceedings
+ID 39290232
+A1 Ranabahu,Ajith
+A1 Sheth,Amit,P.
+YR 2010
+T1 Semantics Centric Solutions for Application and Data Portability in Cloud Computing
+SP 234
+OP 241
+
+RT Book, Whole
+ID 6052622
+A1 Nagarajan,Meenakshi
+A1 Gomadam,Karthik
+A1 Sheth,Amit,P.
+A1 Ranabahu,Ajith
+A1 Mutharaju,Raghava
+A1 Jadhav,Ashutosh
+YR 2009
+T1 Spatio-Temporal-Thematic Analysis of Citizen Sensor Data: Challenges and Experiences
+SP 539
+OP 553
+
+RT Journal Article
+ID 6078600
+A1 Sheth,Amit
+YR 2009
+T1 Citizen Sensing, Social Signals, and Enriching Human Experience
+JF IEEE Internet Computing
+VO 13
+SP 87
+OP 92
+IS 4
+
+RT Journal Article
+ID 4764116
+A1 Sheth,Amit
+A1 Nagarajan,Meenakshi
+YR 2009
+T1 Semantics-Empowered Social Computing
+JF IEEE Internet Computing
+VO 13
+SP 76
+OP 80
+IS 1
+
+RT Journal Article
+ID 50759451
+A1 Henson,Cory,A.
+A1 Pschorr,Josh,K.
+A1 Sheth,Amit,P.
+A1 Thirunarayan,Krishnaprasad
+YR 2009
+T1 SemSOS: Semantic sensor Observation Service
+
+RT Journal Article
+ID 4945899
+A1 Thirunarayan,Krishnaprasad
+A1 Henson,Cory,A.
+A1 Sheth,Amit,P.
+YR 2009
+T1 Situation awareness via abductive reasoning from Semantic Sensor data: A preliminary report
+
+RT Book, Whole
+ID 5843202
+A1 Gruhl,Daniel
+A1 Nagarajan,Meenakshi
+A1 Pieper,Jan
+A1 Robson,Christine
+A1 Sheth,Amit,P.
+YR 2009
+T1 Context and Domain Knowledge Enhanced Entity Spotting in Informal Text
+SP 260
+OP 276
+
+RT Conference Proceedings
+ID 4942386
+A1 Thirunarayan,Krishnaprasad
+A1 Althuru,Dharan,K.
+A1 Henson,Cory,A.
+A1 Sheth,Amit,P.
+YR 2009
+T1 A Local Qualitative Approach to Referral and Functional Trust
+SP 574
+OP 588
+
+RT Book, Whole
+ID 6047718
+A1 Sahoo,Satya,Sanket
+A1 Weatherly,D.,Brent
+A1 Mutharaju,Raghava
+A1 Anantharam,Pramod
+A1 Sheth,Amit,P.
+A1 Tarleton,Rick,L.
+YR 2009
+T1 Ontology-Driven Provenance Management in eScience: An Application in Parasite Research
+SP 992
+OP 1009
+
+RT Conference Proceedings
+ID 5659632
+A1 Nagarajan,Meenakshi
+A1 Baid,Kamal
+A1 Sheth,Amit,P.
+A1 Wang,Shaojun
+YR 2009
+T1 Monetizing User Activity on Social Networks - Challenges and Experiences
+SP 92
+OP 99
+
+RT Journal Article
+ID 37654923
+A1 Newton,J.,L.
+A1 Sheth,A.
+A1 Shin,J.
+A1 Pairman,J.
+A1 Wilton,K.
+A1 Burt,J.,A.
+A1 Jones,D.,E.,J.
+YR 2009
+T1 Lower Ambulatory Blood Pressure in Chronic Fatigue Syndrome
+JF Psychosomatic Medicine
+VO 71
+SP 361
+OP 365
+IS 3
+
+RT Book, Whole
+ID 6036012
+A1 Jain,Prateek
+A1 Yeh,Peter,Z.
+A1 Verma,Kunal
+A1 Henson,Cory,A.
+A1 Sheth,Amit,P.
+YR 2009
+T1 SPARQL Query Rewriting Using Partonomy Based Transformation Rules
+SP 140
+OP 158
+
+RT Journal Article
+ID 54043753
+A1 Jain,Prateek
+A1 Yeh,Peter,Z.
+A1 Verma,Kunal
+A1 Henson,Cory,A.
+A1 Sheth,Amit,P.
+YR 2009
+T1 SPARQL Query Rewriting Using Partonomy Based Transformation Rules
+
+RT Journal Article
+ID 27806973
+A1 Henson,C.,A.
+A1 Pschorr,J.,K.
+A1 Sheth,A.,P.
+A1 Thirunarayan,K.
+YR 2009
+T1 International Symposium on Collaborative Technologies and Systems(CTS 2009)
+
+RT Book, Whole
+ID 47875866
+A1 Gomadam,Karthik
+A1 Ranabahu,Ajith
+A1 Wu,Zixin
+A1 Sheth,Amit,P.
+A1 Miller,John
+YR 2009
+T1 A Declarative Approach using SAWSDL and Semantic Templates Towards Process Mediation
+
+RT Journal Article
+ID 4764067
+A1 Sheth,Amit,P.
+A1 Henson,Cory
+A1 Sahoo,Satya,Sanket
+YR 2008
+T1 Semantic Sensor Web
+JF IEEE Internet Computing
+VO 12
+SP 78
+OP 83
+IS 4
+
+RT Journal Article
+ID 4764039
+A1 Benslimane,Djamal
+A1 Dustdar,Schahram
+A1 Sheth,Amit,P.
+YR 2008
+T1 Services Mashups: The New Generation of Web Applications
+JF IEEE Internet Computing
+VO 12
+SP 13
+OP 15
+IS 5
+
+RT Journal Article
+ID 4764101
+A1 Sheth,Amit,P.
+A1 Perry,Matthew
+YR 2008
+T1 Traveling the Semantic Web through Space, Time, and Theme
+JF IEEE Internet Computing
+VO 12
+SP 81
+OP 86
+IS 2
+
+RT Journal Article
+ID 4764029
+A1 Sahoo,Satya,Sanket
+A1 Sheth,Amit,P.
+A1 Henson,Cory
+YR 2008
+T1 Semantic Provenance for eScience: Managing the Deluge of Scientific Data
+JF IEEE Internet Computing
+VO 12
+SP 46
+OP 54
+IS 4
+
+RT Journal Article
+ID 4765242
+A1 Sahoo,Satya,Sanket
+A1 Bodenreider,Olivier
+A1 Rutter,Joni,L.
+A1 Skinner,Karen,J.
+A1 Sheth,Amit,P.
+YR 2008
+T1 An ontology-driven semantic mashup of gene and biological pathway information: Application to the domain of nicotine dependence
+JF Journal of Biomedical Informatics
+VO 41
+SP 752
+OP 765
+IS 5
+
+RT Book, Whole
+ID 4314942
+A1 Wielemaker,Jan
+A1 Hildebrand,Michiel
+A1 Ossenbruggen,Jacco,Van
+A1 Schreiber,Guus
+A1 Sheth,A.
+YR 2008
+T1 Thesaurus-Based Search in Large Heterogeneous Collections
+SP 695
+OP 708
+
+RT Conference Proceedings
+ID 4720310
+A1 Ranabahu,Ajith
+A1 Nagarajan,Meenakshi
+A1 Sheth,Amit,P.
+A1 Verma,Kunal
+YR 2008
+T1 A Faceted Classification Based Approach to Search and Rank Web APIs
+SP 177
+OP 184
+
+RT Conference Proceedings
+ID 4351118
+A1 Gomadam,Karthik
+A1 Ranabahu,Ajith
+A1 Ramaswamy,Lakshmish
+A1 Sheth,Amit,P.
+A1 Verma,Kunal
+YR 2008
+T1 Mediatability: Estimating the Degree of Human Involvement in XML Schema Mediation
+SP 394
+OP 401
+
+RT Journal Article
+ID 4376272
+A1 Sheth,Amit,P.
+A1 Gomadam,Karthik
+A1 Ranabahu,Ajith
+YR 2008
+T1 Semantics enhanced Services: METEOR-S, SAWSDL and SA-REST
+JF IEEE Data(base) Engineering Bulletin
+VO 31
+SP 8
+OP 12
+IS 3
+
+RT Conference Proceedings
+ID 4733435
+A1 Thomas,Christopher
+A1 Mehra,Pankaj
+A1 Brooks,Roger
+A1 Sheth,Amit,P.
+YR 2008
+T1 Growing Fields of Interest - Using an Expand and Reduce Strategy for Domain Model Extraction
+SP 496
+OP 502
+
+RT Journal Article
+ID 4426615
+A1 Aleman-meza,Boanerges
+A1 Nagarajan,Meenakshi
+A1 Ding,Li
+A1 Sheth,Amit,P.
+A1 Arpinar,Ismailcem,Budak
+A1 Joshi,Anupam
+A1 Finin,Timothy,W.
+YR 2008
+T1 Scalable semantic analytics on social networks for addressing the problem of conflict of interest detection
+JF ACM Transactions on The Web
+VO 2
+SP 1
+OP 29
+IS 1
+
+RT Journal Article
+ID 4376372
+A1 Dustdar,Schahram
+A1 Fiadeiro,José,Luiz
+A1 Sheth,Amit,P.
+YR 2008
+T1 Business process management
+JF Data & Knowledge Engineering
+VO 64
+SP 1
+OP 2
+IS 1
+
+RT Conference Proceedings
+ID 4733546
+A1 Ramakrishnan,Cartic
+A1 Mendes,Pablo,N.
+A1 Gama,Rodrigo,A.,T.,S.,Da
+A1 Ferreira,Guilherme,C.,N.
+A1 Sheth,Amit,P.
+YR 2008
+T1 Joint Extraction of Compound Entities and Relationships from Biomedical Literature
+SP 398
+OP 401
+
+RT Book, Whole
+ID 4256670
+A1 Maduko,Angela
+A1 Anyanwu,Kemafor
+A1 Sheth,Amit,P.
+A1 Schliekelman,Paul
+YR 2008
+T1 Graph Summaries for Subgraph Frequency Estimation
+SP 508
+OP 523
+
+RT Journal Article
+ID 33645730
+A1 Howard,A.
+A1 Hoffman,J.
+A1 Sheth,A.
+YR 2008
+T1 Clinical Application of Voriconazole Concentrations in the Treatment of Invasive Aspergillosis
+JF Annals of Pharmacotherapy
+VO 42
+SP 1859
+OP 1864
+IS 12
+
+RT Journal Article
+ID 5223871
+A1 Sahoo,Satya,S.
+A1 Barga,Roger,S.
+A1 Goldstein,Jonathan
+A1 Sheth,Amit,P.
+YR 2008
+T1 Provenance Algebra and Materialized View-based Provenance Management
+
+RT Journal Article
+ID 4351196
+A1 Mendes,Pablo,N.
+A1 Mcknight,Bobby
+A1 Sheth,Amit,P.
+A1 Kissinger,Jessica,C.
+YR 2008
+T1 TcruziKB: Enabling Complex Queries for Genomic Data Exploration
+SP 432
+OP 439
+
+RT Conference Proceedings
+ID 4326865
+A1 Sheng,Quan,Z.
+A1 Nambiar,Ullas
+A1 Sheth,Amit,P.
+A1 Srivastava,Biplav
+A1 Maamar,Zakaria
+A1 Elnaffar,Said
+YR 2008
+T1 WS3: international workshop on context-enabled source and service selection, integration and adaptation (CSSSIA 2008)
+SP 1263
+OP 1264
+
+RT Conference Proceedings
+ID 50665804
+A1 Deligiannidis,Leonidas
+A1 Hakimpour,Farshad
+A1 Sheth,Amit,P.
+YR 2008
+T1 Event visualization in a 3D environment
+
+RT Book, Whole
+ID 4255325
+A1 Ramakrishnan,Cartic
+A1 Mendes,Pablo,N.
+A1 Wang,Shaojun
+A1 Sheth,Amit,P.
+YR 2008
+T1 Unsupervised Discovery of Compound Entities for Relationship Extraction
+SP 146
+OP 155
+
+RT Book, Whole
+ID 4314957
+A1 Hildebrand,Michiel
+A1 Sheth,A.
+YR 2008
+T1 Interactive Exploration of Heterogeneous Cultural Heritage Collections
+SP 914
+OP 919
+
+RT Conference Proceedings
+ID 13273975
+A1 Sheth,Amit,P.
+A1 Staab,Steffen
+A1 Dean,Mike
+A1 Paolucci,Massimo
+A1 Maynard,Diana
+A1 Finin,Timothy,W.
+A1 Thirunarayan,Krishnaprasad
+YR 2008
+T1 The Semantic Web - ISWC 2008, 7th International Semantic Web Conference, ISWC 2008, Karlsruhe, Germany, October 26-30, 2008. Proceedings
+
+RT Conference Proceedings
+ID 4326850
+A1 Sheng,Quan,Z.
+A1 Nambiar,Ullas
+A1 Sheth,Amit,P.
+A1 Srivastava,Biplav
+A1 Maamar,Zakaria
+A1 Elnaffar,Said
+YR 2008
+T1 International Workshop on Context Enabled Source and Service Selection, Integration and Adaptation: workshop summary
+SP 1
+OP 2
+
+RT Conference Proceedings
+ID 13301728
+A1 Sheng,Quan,Z.
+A1 Nambiar,Ullas
+A1 Sheth,Amit,P.
+A1 Srivastava,Biplav
+A1 Maamar,Zakaria
+A1 Elnaffar,Said
+YR 2008
+T1 Proceedings of the 2008 International Workshop on Context Enabled Source and Service Selection, Integration and Adaptation: organized with the 17th International World Wide Web Conference (WWW 2008), CSSSIA 2008, Beijing, China, April 22, 2008
+
+RT Journal Article
+ID 51200241
+A1 Cardoso,J.
+A1 Bussler,C.
+A1 Sheth,AP
+A1 Sandkuhl,Kurt
+YR 2008
+T1 Inter-enterprise System and Application Integration: A Reality Check
+VO 12
+
+RT Conference Proceedings
+ID 4315099
+A1 Jain,Prateek
+A1 Yeh,Peter,Z.
+A1 Verma,Kunal
+A1 Kass,Alex
+A1 Sheth,Amit
+YR 2008
+T1 Enhancing process-adaptation capabilities with web-based corporate radar technologies
+SP 2
+OP 6
+
+RT Book, Whole
+ID 4306158
+A1 Leenheer,Pieter,De
+A1 Hepp,Martin
+A1 Sheth,Amit,P.
+YR 2008
+T1 COMBEK 2008 PC Co-chairs' Message
+SP 181
+OP 182
+
+RT Book, Whole
+ID 4255885
+A1 Sheth,Amit,P.
+YR 2008
+T1 Relationship Web: Spinning the Web from Trailblazing to Semantic Analytics
+SP 12
+OP 14
+
+RT Journal Article
+ID 4392723
+A1 Verma,Kunal
+A1 Sheth,Amit,P.
+YR 2007
+T1 Semantically Annotating a Web Service
+JF IEEE Internet Computing
+VO 11
+SP 83
+OP 85
+IS 2
+
+RT Journal Article
+ID 4392823
+A1 Sheth,Amit,P.
+A1 Gomadam,Karthik
+A1 Lathem,Jon
+YR 2007
+T1 SA-REST: Semantically Interoperable and Easier-to-Use Services and Mashups
+JF IEEE Internet Computing
+VO 11
+SP 91
+OP 94
+IS 6
+
+RT Conference Proceedings
+ID 4117491
+A1 Anyanwu,Kemafor
+A1 Maduko,Angela
+A1 Sheth,Amit,P.
+YR 2007
+T1 SPARQ2L: towards support for subgraph extraction queries in rdf databases
+SP 797
+OP 806
+
+RT Journal Article
+ID 4351239
+A1 Lathem,Jon
+A1 Gomadam,Karthik
+A1 Sheth,Amit,P.
+YR 2007
+T1 SA-REST and (S)mashups : Adding Semantics to RESTful Services
+SP 469
+OP 476
+
+RT Journal Article
+ID 4681521
+A1 Wu,Zixin
+A1 Ranabahu,Ajith
+A1 Gomadam,Karthik
+A1 Sheth,Amit,P.
+A1 Miller,John,A.
+YR 2007
+T1 Automatic Composition of Semantic Web Services using Process and Data Mediation
+
+RT Journal Article
+ID 4419075
+A1 Aleman-meza,Boanerges
+A1 Hakimpour,Farshad
+A1 Arpinar,Ismailcem,Budak
+A1 Sheth,Amit,P.
+YR 2007
+T1 SwetoDblp ontology of Computer Science publications
+JF Journal of Web Semantics
+VO 5
+SP 151
+OP 155
+IS 3
+
+RT Conference Proceedings
+ID 4242698
+A1 Deligiannidis,Leonidas
+A1 Kochut,Krys,J.
+A1 Sheth,Amit,P.
+YR 2007
+T1 RDF data exploration and visualization
+SP 39
+OP 46
+
+RT Journal Article
+ID 4400451
+A1 Nagarajan,Meenakshi
+A1 Verma,Kunal
+A1 Sheth,Amit,P.
+A1 Miller,John,A.
+YR 2007
+T1 Ontology Driven Data Mediation in Web Services
+JF International Journal of Web Services Research
+VO 4
+SP 104
+OP 126
+IS 4
+
+RT Conference Proceedings
+ID 2445220
+A1 Gomadam,Karthik
+A1 Ranabahu,Ajith
+A1 Ramaswamy,Lakshmish
+A1 Sheth,Amit,P.
+A1 Verma,Kunal
+YR 2007
+T1 A Semantic Framework for Identifying Events in a Service Oriented Architecture
+SP 545
+OP 552
+
+RT Journal Article
+ID 4392734
+A1 Sheth,Amit,P.
+A1 Ramakrishnan,Cartic
+YR 2007
+T1 Relationship Web: Blazing Semantic Trails between Web Resources
+JF IEEE Internet Computing
+VO 11
+SP 77
+OP 81
+IS 4
+
+RT Book, Whole
+ID 4261873
+A1 Perry,Matthew
+A1 Sheth,Amit,P.
+A1 Hakimpour,Farshad
+A1 Jain,Prateek
+YR 2007
+T1 Supporting Complex Thematic, Spatial and Temporal Queries over Semantic Web Data
+SP 228
+OP 246
+
+RT Conference Proceedings
+ID 4273250
+A1 Wu,Zixin
+A1 Gomadam,Karthik
+A1 Ranabahu,Ajith
+A1 Sheth,Amit,P.
+A1 Miller,John,A.
+YR 2007
+T1 Automatic Composition of Semantic Web Services Using Process Mediation
+SP 453
+OP 462
+
+RT Conference Proceedings
+ID 4324383
+A1 Thomas,Christopher
+A1 Sheth,Amit,P.
+YR 2007
+T1 Semantic Convergence of Wikipedia Articles
+SP 600
+OP 606
+
+RT Journal Article
+ID 27093795
+A1 Martin,David
+A1 Domingue,John
+A1 Sheth,Amit
+A1 Battle,Steve
+A1 Sycara,Katia
+A1 Fensel,Dieter
+YR 2007
+T1 Semantic Web Services, Part 2
+JF IEEE Expert / IEEE Intelligent Systems
+VO 22
+SP 8
+OP 15
+IS 6
+
+RT Conference Proceedings
+ID 4556168
+A1 Sahoo,Satya,S.
+A1 Bodenreider,Olivier
+A1 Zeng,Kelly
+A1 Sheth,Amit
+YR 2007
+T1 An experiment in integrating large biomedical knowledge resources with RDF: Application to associating genotype and phenotype information
+
+RT Book, Whole
+ID 5937355
+A1 Hakimpour,Farshad
+A1 Aleman-Meza,Boanerges
+A1 Perry,Matthew
+A1 Sheth,Amit
+YR 2007
+T1 Spatiotemporal-Thematic Data Processing for the Semantic Web
+
+RT Conference Proceedings
+ID 4137556
+A1 Nagarajan,Meenakshi
+A1 Sheth,Amit,P.
+A1 Aguilera,Marcos,Kawazoe
+A1 Keeton,Kimberly
+A1 Merchant,Arif
+A1 Uysal,Mustafa
+YR 2007
+T1 Altering document term vectors for classification: ontologies as expectations of co-occurrence
+SP 1225
+OP 1226
+
+RT Conference Proceedings
+ID 4326735
+A1 Maduko,Angela
+A1 Anyanwu,Kemafor
+A1 Sheth,Amit,P.
+A1 Schliekelman,Paul
+YR 2007
+T1 Estimating the cardinality of RDF graph patterns
+SP 1233
+OP 1234
+
+RT Journal Article
+ID 4392793
+A1 Davies,John
+A1 Lytras,Miltiadis,D.
+A1 Sheth,Amit,P.
+YR 2007
+T1 Guest Editors' Introduction: Semantic-Web-Based Knowledge Management
+JF IEEE Internet Computing
+VO 11
+SP 14
+OP 16
+IS 5
+
+RT Book, Whole
+ID 4272945
+A1 Sheth,Amit,P.
+A1 Gomadam,Karthik
+YR 2007
+T1 The 4×4 semantic model - exploiting data, functional, non-functional and execution semantics across business process, workflow, partner services and middleware services tiers
+SP 1
+OP 4
+
+RT Journal Article
+ID 4550639
+A1 Sahoo,Satya,Sanket
+A1 Zeng,Kelly
+A1 Bodenreider,Olivier
+A1 Sheth,Amit,P.
+YR 2007
+T1 From "Glycosyltransferase" to "Congenital Muscular Dystrophy": Integrating Knowledge from NCBI Entrez Gene and the Gene Ontology
+SP 1260
+OP 1264
+
+RT Conference Proceedings
+ID 2414209
+A1 Narendra,Nanjangud,C.
+A1 Ponnalagu,Karthikeyan
+A1 Gomadam,Karthik
+A1 Sheth,Amit,P.
+YR 2007
+T1 Variation Oriented Service Composition and Adaptation (VOSCA): A Work in Progress
+SP 694
+OP 696
+
+RT Conference Proceedings
+ID 2457345
+A1 Deligiannidis,Leonidas
+A1 Hakimpour,Farshad
+A1 Sheth,Amit,P.
+YR 2007
+T1 Visualization of Events in a Spatially and Multimedia Enriched Virtual Environment
+SP 266
+OP 269
+
+RT Conference Proceedings
+ID 4249357
+A1 Sheth,Amit,P.
+YR 2007
+T1 Role of semantics in Autonomic and Adaptive Web Services & Processes
+
+RT Book, Whole
+ID 13269464
+A1 Sheth,Amit,P.
+A1 Agrawal,S.
+A1 Lathem,Jon
+A1 Oldham,Nicole
+A1 Wingate,H.
+A1 Yadav,P.
+A1 Gallagher,K.
+YR 2007
+T1 Active Semantic Electronic Medical Records
+SP 123
+OP 140
+
+RT Conference Proceedings
+ID 4249353
+A1 Koehler,Jana
+A1 Pistore,Marco
+A1 Sheth,Amit,P.
+A1 Traverso,Paolo
+A1 Wirsing,Martin
+YR 2007
+T1 07061 Abstracts Collection -- Autonomous and Adaptive Web Services
+
+RT Book, Whole
+ID 4273700
+A1 Cardoso,Jorge
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Bussler,Christoph
+A1 Sheth,Amit,P.
+A1 Sandkuhl,Kurt
+YR 2007
+T1 Inter-enterprise System and Application Integration: A Reality Check
+SP 3
+OP 15
+
+RT Conference Proceedings
+ID 13314026
+A1 Koehler,Jana
+A1 Pistore,Marco
+A1 Sheth,Amit,P.
+A1 Traverso,Paolo
+A1 Wirsing,Martin
+YR 2007
+T1 Autonomous and Adaptive Web Services, 04.02. - 09.02.2007
+
+RT Book, Whole
+ID 4238792
+A1 Battle,Steven
+A1 Domingue,John
+A1 Martin,David
+A1 Roman,Dumitru
+A1 Sheth,Amit,P.
+YR 2007
+T1 Introduction to the 2nd Edition of the Workshop "Advances in Semantics for Web Services 2007" (Semantics4ws 2007)
+SP 457
+OP 459
+
+RT Journal Article
+ID 30676927
+A1 Gupta,J.
+A1 Grube,E.
+A1 Lucky,A.
+A1 Sheth,A.
+A1 Assa'ad,A.
+A1 Hershey,G.,K.,Khurana
+YR 2007
+T1 Transepidermal Water Loss As A Biological Marker In Atopic Dermatitis In Children
+JF Journal of Allergy and Clinical Immunology
+VO 119
+IS 1
+
+RT Journal Article
+ID 4376941
+A1 Elmagarmid,Ahmed,K.
+A1 Sheth,Amit,P.
+YR 2007
+T1 Welcome to Prof. Amit Sheth
+JF Distributed and Parallel Databases
+VO 22
+SP 105
+OP 106
+IS 2-3
+
+RT Conference Proceedings
+ID 50621763
+A1 Thomas,Christopher
+A1 Sheth,Amit,P.
+YR 2007
+T1 Semantic Convergence of Wikipedia Articles
+
+RT Conference Proceedings
+ID 4302515
+A1 Sheth,Amit
+YR 2007
+T1 Relationship web: realizing the Memex vision with the help of semantic web
+SP 1
+OP 2
+
+RT Conference Proceedings
+ID 2164757
+A1 Oldham,Nicole
+A1 Verma,Kunal
+A1 Sheth,Amit,P.
+A1 Hakimpour,Farshad
+YR 2006
+T1 Semantic WS-agreement partner selection
+SP 697
+OP 706
+
+RT Conference Proceedings
+ID 2164780
+A1 Aleman-meza,Boanerges
+A1 Nagarajan,Meenakshi
+A1 Ramakrishnan,Cartic
+A1 Ding,Li
+A1 Kolari,Pranam
+A1 Sheth,Amit,P.
+A1 Arpinar,Ismailcem,Budak
+A1 Joshi,Anupam
+A1 Finin,Tim
+YR 2006
+T1 Semantic analytics on social networks: experiences in addressing the problem of conflict of interest detection
+SP 407
+OP 416
+
+RT Book, Whole
+ID 13269385
+A1 Cardoso,Jorge
+A1 Sheth,Amit,P.
+YR 2006
+T1 Semantic Web Services, Processes and Applications
+
+RT Conference Proceedings
+ID 2445010
+A1 Nagarajan,Meenakshi
+A1 Verma,Kunal
+A1 Sheth,Amit,P.
+A1 Miller,John,A.
+A1 Lathem,Jon
+YR 2006
+T1 Semantic Interoperability of Web Services - Challenges and Experiences
+SP 373
+OP 382
+
+RT Conference Proceedings
+ID 2445011
+A1 Verma,Kunal
+A1 Doshi,Prashant
+A1 Gomadam,Karthik
+A1 Miller,John,A.
+A1 Sheth,Amit,P.
+YR 2006
+T1 Optimal Adaptation in Web Processes with Coordination Constraints
+SP 257
+OP 264
+
+RT Journal Article
+ID 2491406
+A1 Sheth,Amit,P.
+A1 Verma,Kunal
+A1 Gomadam,Karthik
+YR 2006
+T1 Semantics to energize the full services spectrum
+JF Communications of The ACM
+VO 49
+SP 55
+OP 61
+IS 7
+
+RT Conference Proceedings
+ID 2365611
+A1 Perry,Matthew
+A1 Hakimpour,Farshad
+A1 Sheth,Amit,P.
+YR 2006
+T1 Analyzing theme, space, and time: an ontology-based approach
+SP 147
+OP 154
+
+RT Book, Whole
+ID 2471487
+A1 Ramakrishnan,Cartic
+A1 Kochut,Krys,J.
+A1 Sheth,Amit,P.
+YR 2006
+T1 A Framework for Schema-Driven Relationship Discovery from Unstructured Text
+SP 583
+OP 596
+
+RT Journal Article
+ID 3150315
+A1 Arpinar,Ismailcem,Budak
+A1 Sheth,Amit,P.
+A1 Ramakrishnan,Cartic
+A1 Usery,E.,Lynn
+A1 Azami,Molly
+A1 Kwan,Mei-po
+YR 2006
+T1 Geospatial Ontology Development and Semantic Analytics
+JF Transactions in Gis
+VO 10
+SP 551
+OP 575
+IS 4
+
+RT Book, Whole
+ID 2418688
+A1 Müller,Dominic
+A1 Herbst,Joachim
+A1 Hammori,Markus
+A1 Reichert,Manfred
+A1 Dustdar,S.
+A1 Fiadeiro,J.,L.
+A1 Sheth,A.
+YR 2006
+T1 IT Support for Release Management Processes in the Automotive Industry
+SP 368
+OP 377
+
+RT Conference Proceedings
+ID 2164761
+A1 Sahoo,Satya,Sanket
+A1 Thomas,Christopher
+A1 Sheth,Amit,P.
+A1 York,William,S.
+A1 Tartir,Samir
+YR 2006
+T1 Knowledge modeling and its application in life sciences: a tale of two ontologies
+SP 317
+OP 326
+
+RT Conference Proceedings
+ID 3407654
+A1 Thomas,Christopher,J.
+A1 Sheth,Amit,P.
+A1 York,William,S.
+YR 2006
+T1 Modular Ontology Design Using Canonical Building Blocks in the Biochemistry Domain
+SP 115
+OP 127
+
+RT Journal Article
+ID 2880968
+A1 VERMA,KUNAL
+A1 Gomadam,Karthik
+A1 Doshi,Prashant
+A1 Miller,John,A.
+A1 Sheth,Amit,P.
+YR 2006
+T1 CONFIGURATION AND ADAPTATION OF SEMANTIC WEB PROCESSES
+
+RT Book, Whole
+ID 11086332
+A1 Li,Ke
+A1 Verma,Kunal
+A1 Mulye,Ranjit
+A1 Rabbani,Reiman
+A1 Miller,John,A.
+A1 Sheth,Amit,P.
+YR 2006
+T1 Designing Semantic Web Processes: The Wsdl-S Approach
+SP 161
+OP 193
+
+RT Journal Article
+ID 29672634
+A1 SHETH,A.,P.
+A1 ESTERLY,N.,B.
+A1 RATOOSH,S.,L.
+A1 SMITH,J.,P.
+A1 HEBERT,A.,A.
+A1 SILVERMAN,E.
+YR 2006
+T1 U1RNP positive neonatal lupus erythematosus: association with anti-La antibodies?
+JF British Journal of Dermatology
+VO 132
+SP 520
+OP 526
+IS 4
+
+RT Journal Article
+ID 4488640
+A1 Sheth,Amit
+A1 Verma,Kunal
+A1 Gomadam,Karthik
+YR 2006
+T1 Semantics to energize the full Services Spectrum Ontological approach to better exploit services at technical and business levels
+JF Communications of The ACM
+
+RT Book, Whole
+ID 2471497
+A1 Sheth,Amit,P.
+A1 Agrawal,S.
+A1 Lathem,Jon
+A1 Oldham,Nicole
+A1 Wingate,H.
+A1 Yadav,P.
+A1 Gallagher,K.
+YR 2006
+T1 Active Semantic Electronic Medical Record
+SP 913
+OP 926
+
+RT Journal Article
+ID 2380622
+A1 Aleman-Meza,Boanerges
+A1 Sheth,Amit
+A1 Palaniswami,Devanand
+A1 Eavenson,Matthew
+A1 Arpinar,I.,Budak
+YR 2006
+T1 Semantic Analytics in Intelligence: Applying Semantic Association Discovery to determine Relevance of Heterogeneous Documents
+
+RT Book, Whole
+ID 13269407
+A1 Cardoso,Jorge
+A1 Sheth,Amit,P.
+YR 2006
+T1 The Semantic Web and its Applications
+SP 3
+OP 33
+
+RT Book, Whole
+ID 1774375
+A1 Deligiannidis,Leonidas
+A1 Sheth,Amit,P.
+A1 Aleman-meza,Boanerges
+YR 2006
+T1 Semantic Analytics Visualization
+SP 48
+OP 59
+
+RT Journal Article
+ID 4685302
+A1 Sahoo,Satya,S.
+A1 Bodenreider,Olivier
+A1 Zeng,Kelly
+A1 Sheth,Amit,P.
+YR 2006
+T1 Adapting resources to the Semantic Web: Experience with Entrez Gene
+
+RT Book, Whole
+ID 1774393
+A1 Mathew,Amit
+A1 Sheth,Amit,P.
+A1 Deligiannidis,Leonidas
+YR 2006
+T1 SemanticSpy: Suspect Tracking Using Semantic Data in a Multimedia Environment
+SP 492
+OP 497
+
+RT Journal Article
+ID 39310551
+A1 Achtner,Wolfgang
+A1 Aïmeur,Esma
+A1 Anand,Sarabjot,Singh
+A1 Appelt,Doug
+A1 Ashish,Naveen
+A1 Barnes,Tiffany
+A1 Beck,Joseph,E.
+A1 Dias,M.,Bernardine
+A1 Doshi,Prashant
+A1 Drummond,Chris
+A1 Elazmeh,William
+A1 Felner,Ariel
+A1 Freitag,Dayne
+A1 Geffner,Hector
+A1 Geib,Christopher,W.
+A1 Goodwin,Richard
+A1 Holte,Robert,C.
+A1 Hutter,Frank
+A1 Isaac,Fair
+A1 Japkowicz,Nathalie
+A1 Kaminka,Gal,A.
+A1 Koenig,Sven
+A1 Lagoudakis,Michail,G.
+A1 Leake,David,B.
+A1 Lewis,Lundy
+A1 Liu,Hugo
+A1 Metzler,Ted
+A1 Mihalcea,Rada
+A1 Mobasher,Bamshad
+A1 Poupart,Pascal
+A1 Pynadath,David,V.
+A1 Roth-Berghofer,Thomas
+A1 Ruml,Wheeler
+A1 Schulz,Stefan
+A1 Schwarz,Sven
+A1 Seneff,Stephanie
+A1 Sheth,Amit,P.
+A1 Sun,Ron
+A1 Thielscher,Michael
+A1 Upal,Afzal
+A1 Williams,Jason,D.
+A1 Young,Steve
+A1 Zelenko,Dmitry
+YR 2006
+T1 Reports on the Twenty-First National Conference on Artificial Intelligence (AAAI06) Workshop Program
+JF Ai Magazine
+VO 27
+SP 92
+OP 102
+IS 4
+
+RT Journal Article
+ID 39310555
+A1 Abecker,Andreas
+A1 Alami,Rachid
+A1 Baral,Chitta
+A1 Bickmore,Timothy,W.
+A1 Durfee,Edmund,H.
+A1 Fong,Terry
+A1 Göker,Mehmet,H.
+A1 Green,Nancy
+A1 Liberman,Mark
+A1 Lebiere,Christian
+A1 Martin,James,H.
+A1 Mentzas,Gregoris
+A1 Musliner,David,J.
+A1 Nicolov,Nicolas
+A1 Nourbakhsh,Illah,R.
+A1 Salvetti,Franco
+A1 Shapiro,Daniel,G.
+A1 Schrekenghost,Debbie
+A1 Sheth,Amit,P.
+A1 Stojanovic,Ljiljana
+A1 SunSpiral,Vytas
+A1 Wray,Robert,E.
+YR 2006
+T1 AAAI 2006 Spring Symposium Reports
+JF Ai Magazine
+VO 27
+SP 107
+OP 112
+IS 3
+
+RT Journal Article
+ID 30885804
+A1 Sheth,A
+YR 2006
+T1 Bolus thrombolytic infusion during prolonged refractory cardiac arrest of undiagnosed cause
+JF Emergency Medicine Journal
+VO 23
+IS 3
+
+RT Journal Article
+ID 39209190
+A1 Sheth,Amit
+A1 Verma,Kunal
+A1 Gomadam,Karthik
+YR 2006
+T1 Semantics to energize the full services spectrum
+JF Communications of The ACM
+SP 55
+OP 61
+
+RT Journal Article
+ID 3740961
+A1 Pavagada,Ravi
+A1 Thomas,Christopher
+A1 Sheth,Amit
+A1 York,William,S.
+YR 2006
+T1 Show Me What You Mean! Exploiting Domain Semantics in Ontology Visualization
+
+RT Conference Proceedings
+ID 13286189
+A1 Dustdar,Schahram
+A1 Fiadeiro,José,Luiz
+A1 Sheth,Amit,P.
+YR 2006
+T1 Business Process Management, 4th International Conference, BPM 2006, Vienna, Austria, September 5-7, 2006, Proceedings
+
+RT Book, Whole
+ID 13269423
+A1 Gomadam,Karthik
+A1 Verma,Kunal
+A1 Sheth,Amit,P.
+A1 Li,Ke
+YR 2006
+T1 Keywords, Port Types and Semantics: A Journey in the Land of Web Service Discovery
+SP 89
+OP 105
+
+RT Book, Whole
+ID 27384261
+A1 Thomas,Christopher
+A1 Sheth,Amit
+YR 2006
+T1 Chapter 1 On the expressiveness of the languages for the semantic web — Making a case for ‘a little more’
+JF Capturing Intelligence
+VO 1
+SP 3
+OP 20
+
+RT Journal Article
+ID 15318252
+A1 Cardoso,Jorge
+A1 Sheth,Amit
+YR 2006
+T1 Semantic Web and Beyond: Computing for Human Experience
+
+RT Journal Article
+ID 3596228
+A1 Thomas,Christopher
+A1 Sheth,Amit,P.
+YR 2006
+T1 Predicting Domain Specific Entities with Limited Background Knowledge
+
+RT Book, Whole
+ID 13269461
+A1 Sahoo,Satya,Sanket
+A1 Sheth,Amit,P.
+YR 2006
+T1 Bioinformatics Applications Of Web Services, Web Processes And Role Of Semantics
+SP 305
+OP 322
+
+RT Journal Article
+ID 2385800
+A1 Akkiraju,R.
+A1 Farell,J.
+A1 Miller,J.,A.
+A1 Nagarajan,M.
+A1 Sheth,A.
+A1 Verma,K.
+YR 2005
+T1 Web Service Semantics - WSDL-S
+
+RT Journal Article
+ID 36740666
+A1 Verma,Kunal
+A1 Sivashanmugam,Kaarthik
+A1 Sheth,Amit
+A1 Patil,Abhijit
+A1 Oundhakar,Swapna
+A1 Miller,John
+YR 2005
+T1 METEOR-S WSDI: A Scalable P2P Infrastructure of Registries for Semantic Publication and Discovery of Web Services
+JF Information Technology & Management
+VO 6
+SP 17
+OP 39
+IS 1
+
+RT Journal Article
+ID 1659566
+A1 Burstein,Mark,H.
+A1 Bussler,Christoph
+A1 Zaremba,Michal
+A1 Finin,Timothy,W.
+A1 Huhns,Michael,N.
+A1 Paolucci,Massimo
+A1 Sheth,Amit,P.
+A1 Williams,Stuart,K.
+YR 2005
+T1 A Semantic Web Services Architecture
+JF IEEE Internet Computing
+VO 9
+SP 72
+OP 81
+IS 5
+
+RT Journal Article
+ID 1749348
+A1 Sheth,Amit,P.
+A1 Ramakrishnan,Cartic
+A1 Thomas,Christopher
+YR 2005
+T1 Semantics for the Semantic Web: The Implicit, the Formal and the Powerful
+JF International Journal on Semantic Web and Information Systems
+VO 1
+SP 1
+OP 18
+IS 1
+
+RT Journal Article
+ID 2383436
+A1 Verma,Kunal
+A1 Gomadam,Karthik
+A1 Sheth,Amit,P.
+A1 Miller,John,A.
+A1 Wu,Zixin
+YR 2005
+T1 The METEOR-S Approach for Configuring and Executing Dynamic Web Processes
+
+RT Conference Proceedings
+ID 1242329
+A1 Anyanwu,Kemafor
+A1 Maduko,Angela
+A1 Sheth,Amit,P.
+YR 2005
+T1 SemRank: ranking complex relationship search results on the semantic web
+SP 117
+OP 127
+
+RT Journal Article
+ID 1659535
+A1 Aleman-meza,Boanerges
+A1 Halaschek-wiener,Christian
+A1 Arpinar,Ismailcem,Budak
+A1 Ramakrishnan,Cartic
+A1 Sheth,Amit,P.
+YR 2005
+T1 Ranking Complex Relationships on the Semantic Web
+JF IEEE Internet Computing
+VO 9
+SP 37
+OP 44
+IS 3
+
+RT Journal Article
+ID 3726613
+A1 Sheth,Amit,P.
+A1 Aleman-meza,Boanerges
+A1 Arpinar,Ismailcem,Budak
+A1 Bertram,Clemens
+A1 Warke,Yashodhan,S.
+A1 Ramakrishnan,Cartic
+A1 Halaschek,Chris
+A1 Anyanwu,Kemafor
+A1 Avant,David
+A1 Arpinar,F.,S.
+A1 Kochut,Krys
+YR 2005
+T1 Semantic Association Identification and Knowledge Discovery for National Security Applications
+JF Journal of Database Management
+VO 16
+SP 33
+OP 53
+IS 1
+
+RT Journal Article
+ID 1731724
+A1 Ramakrishnan,Cartic
+A1 Milnor,William,H.
+A1 Perry,Matthew
+A1 Sheth,Amit,P.
+YR 2005
+T1 Discovering informative connection subgraphs in multi-relational graphs
+JF Sigkdd Explorations
+VO 7
+SP 56
+OP 63
+IS 2
+
+RT Conference Proceedings
+ID 2377501
+A1 Tartir,Samir
+A1 Arpinar,I.,Budak
+A1 Moore,Michael
+A1 Sheth,Amit,P.
+A1 Aleman-Meza,Boanerges
+YR 2005
+T1 OntoQA: Metric-Based Ontology Quality Analysis
+
+RT Journal Article
+ID 2369191
+A1 Oundhakar,Swapna,A.
+A1 Verma,Kunal
+A1 Sivashanmugam,Kaarthik
+A1 Sheth,Amit,P.
+A1 Miller,John,A.
+YR 2005
+T1 Discovery of Web Services in a Multi-Ontology and Federated Registry Environment
+JF International Journal of Web Services Research
+VO 2
+SP 1
+OP 32
+IS 3
+
+RT Book, Whole
+ID 1774462
+A1 Aleman-meza,Boanerges
+A1 Burns,Phillip
+A1 Eavenson,Matthew
+A1 Palaniswami,Devanand
+A1 Sheth,Amit,P.
+YR 2005
+T1 An Ontological Approach to the Document Access Problem of Insider Threat
+SP 486
+OP 491
+
+RT Book, Whole
+ID 1864172
+A1 Verma,Kunal
+A1 Sheth,Amit,P.
+YR 2005
+T1 Autonomic Web Processes
+SP 1
+OP 11
+
+RT Conference Proceedings
+ID 1860285
+A1 Sheth,Amit,P.
+YR 2005
+T1 From Semantic Search & Integration to Analytics
+
+RT Journal Article
+ID 2371966
+A1 Sahoo,Satya,S.
+A1 Thomas,Christopher
+A1 Sheth,Amit
+A1 Henson,Cory
+A1 York,William,S.
+YR 2005
+T1 GLYDE—an expressive XML standard for the representation of glycan structure
+JF Carbohydrate Research
+VO 340
+SP 2802
+OP 2807
+IS 18
+
+RT Journal Article
+ID 27806567
+A1 Cardoso,Jorge
+A1 Sheth,Amit
+YR 2005
+T1 Introduction to Semantic Web Services and Web Process Composition
+
+RT Conference Proceedings
+ID 13313140
+A1 Kalfoglou,Yannis
+A1 Schorlemmer,W.,Marco
+A1 Sheth,Amit,P.
+A1 Staab,Steffen
+A1 Uschold,Michael
+YR 2005
+T1 Semantic Interoperability and Integration
+
+RT Journal Article
+ID 3838099
+A1 Kashyap,Vipul
+A1 Ramakrishnan,Cartic
+A1 Thomas,Christopher
+A1 Sheth,Amit,P.
+YR 2005
+T1 TaxaMiner: an experimentation framework for automated taxonomy bootstrapping
+JF International Journal of Web and Grid Services
+VO 1
+SP 240
+OP 266
+IS 2
+
+RT Conference Proceedings
+ID 1804819
+A1 Mulye,Ranjit
+A1 Miller,John,A.
+A1 Verma,Kunal
+A1 Gomadam,Karthik
+A1 Sheth,Amit,P.
+YR 2005
+T1 A Semantic Template Based Designer for Web Processes
+SP 461
+OP 469
+
+RT Book, Whole
+ID 1774289
+A1 Aleman-meza,Boanerges
+A1 Halaschek-wiener,Christian
+A1 Sahoo,Satya,Sanket
+A1 Sheth,Amit,P.
+A1 Arpinar,Ismailcem,Budak
+YR 2005
+T1 Template Based Semantic Similarity for Security Applications
+SP 621
+OP 622
+
+RT Book, Whole
+ID 1864127
+A1 Gomadam,Karthik
+A1 Verma,Kunal
+A1 Sheth,Amit,P.
+A1 Miller,John,A.
+YR 2005
+T1 Demonstrating Dynamic Configuration and Execution of Web Processes
+SP 502
+OP 507
+
+RT Conference Proceedings
+ID 1877307
+A1 Perry,Matthew
+A1 Janik,Maciej
+A1 Ramakrishnan,Cartic
+A1 Ibañez,Conrad
+A1 Arpinar,Ismailcem,Budak
+A1 Sheth,Amit,P.
+YR 2005
+T1 Peer-to-Peer Discovery of Semantic Associations
+
+RT Journal Article
+ID 5626264
+A1 Cardoso,Jorge
+A1 Sheth,Amit
+YR 2005
+T1 Adaptation and Workflow Management Systems
+
+RT Conference Proceedings
+ID 3729402
+A1 Anywanwu,K.
+A1 Maduko,A.
+A1 Sheth,A.
+YR 2005
+T1 SemRank: Ranking complex semantic relationship search results on the semantic Web
+
+RT Book, Whole
+ID 1864121
+A1 Vasquez,Ivan
+A1 Miller,John,A.
+A1 Verma,Kunal
+A1 Sheth,Amit,P.
+YR 2005
+T1 OpenWS-Transaction: Enabling Reliable Web Service Transactions
+SP 490
+OP 494
+
+RT Journal Article
+ID 15318253
+A1 Cardoso,Jorge
+A1 Sheth,Amit
+YR 2005
+T1 Semantic Web Process: powering next generation of processes withSemantics and Web services
+JF Lecture Notes in Computer Science
+
+RT Journal Article
+ID 15318246
+A1 Cardoso,Jorge
+A1 Bussler,Christoph
+A1 Sheth,Amit
+YR 2005
+T1 Lifecycle of Semantic Web Processes
+
+RT Journal Article
+ID 15318254
+A1 Cardoso,Jorge
+A1 Sheth,Amit
+YR 2005
+T1 Proceedings of the 2nd International Workshop on Semantic and DynamicWeb Processes (SDWP 2005). In conjunction with the 2005 IEEE InternationalConference on Web Services (ICWS 2005)
+
+RT Journal Article
+ID 38579341
+A1 Sheth,A.
+YR 2005
+T1 Severe Acute Respiratory Syndrome: Emergence of a New Pandemic
+JF Journal of Pharmacy Practice
+VO 18
+SP 63
+OP 70
+IS 1
+
+RT Journal Article
+ID 1745277
+A1 Cardoso,Jorge
+A1 Sheth,A.,P.
+A1 Miller,J.,A.
+A1 Arnold,Jonathan
+A1 Kochut,Krys
+YR 2004
+T1 Quality of service for workflows and web service processes
+JF Journal of Web Semantics
+VO 1
+SP 281
+OP 308
+IS 3
+
+RT Conference Proceedings
+ID 924198
+A1 Patil,Abhijit,A.
+A1 Oundhakar,Swapna,A.
+A1 Sheth,Amit,P.
+A1 Verma,Kunal
+YR 2004
+T1 Meteor-s web service annotation framework
+SP 553
+OP 562
+
+RT Journal Article
+ID 2123087
+A1 Verma,Kunal
+A1 Sivashanmugam,Kaarthik
+A1 Sheth,Amit
+A1 Patil,Abhijit
+A1 Oundhakar,Swapna
+A1 Miller,John
+YR 2004
+T1 METEOR-S WSDI: A Scalable Infrastructure of Registries for Semantic Publication and Discovery of Web Services
+JF International Journal of Information Technology and Management
+
+RT Journal Article
+ID 2371420
+A1 Sivashanmugam,Kaarthik
+A1 Miller,John,A.
+A1 Sheth,Amit,P.
+A1 Verma,Kunal
+YR 2004
+T1 Framework for Semantic Web Process Composition
+
+RT Book, Whole
+ID 1856125
+A1 Rajasekaran,Preeda
+A1 Miller,John,A.
+A1 Verma,Kunal
+A1 Sheth,Amit,P.
+YR 2004
+T1 Enhancing Web Services Description and Discovery to Facilitate Composition
+SP 55
+OP 68
+
+RT Conference Proceedings
+ID 1804655
+A1 Sivashanmugam,Kaarthik
+A1 Verma,Kunal
+A1 Sheth,Amit,P.
+YR 2004
+T1 Discovery of Web Services in a Federated Registry Environment
+SP 270
+OP 278
+
+RT Conference Proceedings
+ID 2126199
+A1 Aleman-Meza,Boanerges
+A1 Halaschek,Chris
+A1 Sheth,Amit
+A1 Arpinar,I.,Budak
+A1 Sannapareddy,Gowtham
+YR 2004
+T1 SWETO: Large-Scale Semantic Web Test-bed
+
+RT Conference Proceedings
+ID 915643
+A1 Miller,John,A.
+A1 Baramidze,Gregory,T.
+A1 Sheth,Amit,P.
+A1 Fishwick,Paul,A.
+YR 2004
+T1 Investigating Ontologies for Simulation Modeling
+SP 55
+OP 63
+
+RT Book, Whole
+ID 1856090
+A1 Oldham,Nicole
+A1 Thomas,Christopher
+A1 Sheth,Amit,P.
+A1 Verma,Kunal
+YR 2004
+T1 METEOR-S Web Service Annotation Framework with Machine Learning Classification
+SP 137
+OP 146
+
+RT Book, Whole
+ID 1856106
+A1 Cardoso,Jorge
+A1 Sheth,Amit,P.
+YR 2004
+T1 Introduction to Semantic Web Services and Web Process Composition
+SP 1
+OP 13
+
+RT Conference Proceedings
+ID 1817089
+A1 Halaschek-wiener,Christian
+A1 Aleman-meza,Boanerges
+A1 Arpinar,Ismailcem,Budak
+A1 Sheth,Amit,P.
+YR 2004
+T1 Discovering and Ranking Semantic Associations over a Large RDF Metabase
+SP 1317
+OP 1320
+
+RT Journal Article
+ID 27806563
+A1 Cardoso,Jorge
+A1 Bostrom,Robert,P.
+A1 Sheth,Amit
+YR 2004
+T1 Workflow Management Systems and ERP Systems: Differences, Commonalities,and Applications
+JF International Journal of Information Technology and Management
+
+RT Book, Whole
+ID 1880885
+A1 Sriharee,Natenapa
+A1 Senivongse,Twittie
+A1 Verma,Kunal
+A1 Sheth,Amit,P.
+YR 2004
+T1 On Using WS-Policy, Ontology, and Rule Reasoning to Discover Web Services
+SP 246
+OP 255
+
+RT Journal Article
+ID 2992692
+A1 Verma,K.
+A1 Sheth,A.
+A1 Miller,J.
+A1 Aggarwal,R.
+YR 2004
+T1 Dynamic QoS based Supply Chain
+
+RT Journal Article
+ID 4105160
+A1 Miller,J.
+A1 Verma,K.
+A1 Rajasekaran,P.
+A1 Sheth,A.
+A1 Aggarwal,R.
+A1 Sivashanmugam,K.
+YR 2004
+T1 WSDL-S: A proposal to the W3C WSDL Committee
+
+RT Conference Proceedings
+ID 1804716
+A1 Curbera,Francisco
+A1 Sheth,Amit,P.
+A1 Verma,Kunal
+YR 2004
+T1 Services Oriented Architecture and Semantic Web Processes
+
+RT Journal Article
+ID 15318248
+A1 Cardoso,Jorge
+A1 Curbera,Francisco
+A1 Sheth,Amit
+YR 2004
+T1 Service Oriented Archiectures and Semantic Web Processes
+
+RT Journal Article
+ID 3170774
+A1 Arpinar,I.
+A1 Sheth,A.
+A1 Ramakrishnan,C.
+YR 2004
+T1 Handbook of Geographic Information Science
+
+RT Conference Proceedings
+ID 50362530
+A1 Curbera,F.
+A1 Sheth,A.
+A1 Verma,K.
+YR 2004
+T1 Tutorial session services oriented architecture and semantic web processes
+
+RT Conference Proceedings
+ID 50362561
+A1 Sivashanmugam,Kaarthik
+A1 Verma,Kunal
+A1 Sheth,Amit
+YR 2004
+T1 Discovery of Web services in a federated registry environment
+
+RT Journal Article
+ID 36740664
+A1 Cardoso,Jorge
+A1 Bostrom,Robert,P.
+A1 Sheth,Amit
+YR 2004
+T1 Workflow Management Systems and ERP Systems: Differences, Commonalities, and Applications
+JF Information Technology & Management
+VO 5
+SP 319
+OP 338
+IS 3
+
+RT Conference Proceedings
+ID 13273945
+A1 Cardoso,Jorge
+A1 Sheth,Amit,P.
+YR 2004
+T1 Semantic Web Services and Web Process Composition, First International Workshop, SWSWPC 2004, San Diego, CA, USA, July 6, 2004, Revised Selected Papers
+
+RT Journal Article
+ID 793816
+A1 Cardoso,Jorge
+A1 Sheth,Amit,P.
+YR 2003
+T1 Semantic e-Workflow Composition
+JF Journal of Intelligent Information Systems
+VO 21
+SP 191
+OP 225
+IS 3
+
+RT Conference Proceedings
+ID 542112
+A1 Sivashanmugam,Kaarthik
+A1 Verma,Kunal
+A1 Sheth,Amit,P.
+A1 Miller,John,A.
+YR 2003
+T1 Adding Semantics to Web Services Standards
+SP 395
+OP 401
+
+RT Conference Proceedings
+ID 489208
+A1 Anyanwu,Kemafor
+A1 Sheth,Amit,P.
+YR 2003
+T1 Ρ-Queries: enabling querying for semantic associations on the semantic web
+SP 690
+OP 699
+
+RT Journal Article
+ID 2134681
+A1 Verma,Kunal
+A1 Sivashanmugam,Kaarthik
+A1 Sheth,Amit
+A1 Patil,Abhijit
+A1 Oundhakar,Swapna
+A1 Miller,John
+YR 2003
+T1 METEOR-S WSDI: A Scalable P2P Infrastructure of Registries for Semantic Publication and Discovery of Web Services
+JF International Journal of Information Technology and Management
+
+RT Conference Proceedings
+ID 666158
+A1 Aleman-meza,Boanerges
+A1 Halaschek-wiener,Christian
+A1 Arpinar,Ismailcem,Budak
+A1 Sheth,Amit,P.
+YR 2003
+T1 Context-Aware Semantic Association Ranking
+SP 33
+OP 50
+
+RT Journal Article
+ID 849836
+A1 Staab,Steffen
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Benjamins,V.,Richard
+A1 Sheth,Amit,P.
+A1 Miller,John,A.
+A1 Bussler,Christoph
+A1 Maedche,Alexander
+A1 Fensel,Dieter
+A1 Gannon,Dennis
+YR 2003
+T1 Web Services: Been There, Done That?
+JF IEEE Expert / IEEE Intelligent Systems
+VO 18
+SP 72
+OP 85
+IS 1
+
+RT Journal Article
+ID 860650
+A1 Chandrasekaran,Senthilanand
+A1 Miller,John,A.
+A1 Silver,Gregory,A.
+A1 Arpinar,Ismailcem,Budak
+A1 Sheth,Amit,P.
+YR 2003
+T1 Performance Analysis and Simulation of Composite Web Services
+JF Electronic Markets
+VO 13
+SP 120
+OP 132
+IS 2
+
+RT Journal Article
+ID 779350
+A1 Sheth,Amit,P.
+A1 Ramakrishnan,Cartic
+YR 2003
+T1 Semantic (Web) Technology In Action: Ontology Driven Information Systems for Search, Integration and Analysis
+JF IEEE Data(base) Engineering Bulletin
+VO 26
+SP 40
+OP 48
+IS 4
+
+RT Journal Article
+ID 729493
+A1 Kochut,Krys
+A1 Arnold,Jonathan
+A1 Sheth,Amit,P.
+A1 Cardoso,Jorge
+YR 2003
+T1 IntelliGEN: A Distributed Workflow System for Discovering Protein-ProteinInteractions
+JF Distributed and Parallel Databases
+VO 13
+SP 43
+OP 72
+IS 1
+
+RT Journal Article
+ID 1695712
+A1 Anyanwu,Kemafor
+A1 Sheth,Amit,P.
+A1 Cardoso,Jorge
+A1 Miller,John,A.
+A1 Kochut,Krys,J.
+YR 2003
+T1 Healthcare Enterprise Process Development and Integration
+JF Journal of Research and Practice in Information Technology
+VO 35
+SP 83
+OP 98
+IS 2
+
+RT Journal Article
+ID 2380642
+A1 Sheth,A.
+YR 2003
+T1 Semantic Web Process Lifecycle: Role of Semantics in Annotation, Discovery, Composition and Orchestration
+
+RT Journal Article
+ID 3726598
+A1 Patil,A
+A1 Oundhakar,S
+A1 Sheth,A
+YR 2003
+T1 Semantic annotation of web services
+
+RT Journal Article
+ID 729583
+A1 Luo,Zongwei
+A1 Sheth,Amit,P.
+A1 Kochut,Krys
+A1 Arpinar,Ismailcem,Budak
+YR 2003
+T1 Exception Handling for Conflict Resolution in Cross-Organizational Workflows
+JF Distributed and Parallel Databases
+VO 13
+SP 271
+OP 306
+IS 3
+
+RT Journal Article
+ID 807540
+A1 Sheth,Amit,P.
+A1 Thacker,Sanjeev
+A1 Patel,Shuchi
+YR 2003
+T1 Complex relationships and knowledge discovery support in the InfoQuilt system
+JF The Vldb Journal
+VO 12
+SP 2
+OP 27
+IS 1
+
+RT Journal Article
+ID 61325
+A1 Cardoso,Jorge
+A1 Bostrom,Robert,P.
+A1 Sheth,Amit
+YR 2003
+T1 Workflow Management Systems and ERP Systems: Differences, Commonalities, and Applications
+JF International Journal of Information Technology and Management
+
+RT Journal Article
+ID 3727092
+A1 Sheth,A
+YR 2003
+T1 Semantic Meta Data for Enterprise Information Integration
+
+RT Conference Proceedings
+ID 683475
+A1 Thacker,Sanjeev
+A1 Sheth,Amit,P.
+A1 Patel,Shuchi
+YR 2003
+T1 Complex Relationships for the Semantic Web
+SP 279
+OP 315
+
+RT Journal Article
+ID 15231791
+A1 Cardoso,Jorge
+A1 Sheth,Amit
+YR 2003
+T1 Semantic E-Workflow Composition
+JF Journal of Intelligent Information Systems
+VO 21
+SP 191
+OP 225
+IS 3
+
+RT Conference Proceedings
+ID 581564
+A1 Cardoso,Jorge
+A1 Sheth,Amit,P.
+YR 2003
+T1 Semantic Web Processes: Semantics Enabled Annotation, Discovery,Composition and Orchestration of Web Scale Processes
+SP 375
+OP 376
+
+RT Journal Article
+ID 3903354
+A1 Fonseca,F.
+A1 Sheth,A.
+YR 2003
+T1 The geospa-tial semantic web
+
+RT Conference Proceedings
+ID 15318255
+A1 Cardoso,Jorge
+A1 Sheth,Amit
+YR 2003
+T1 Semantic Web Processes
+
+RT Conference Proceedings
+ID 666277
+A1 Sheth,Amit,P.
+YR 2003
+T1 From Semantic Search to Analytics and Discovery on Heterogeneous Content: Changing Focus from Documents and Entities to Relationships
+SP 7
+
+RT Journal Article
+ID 29349452
+A1 Boyd,Roland,L.
+A1 Murdison,Ken,A.
+A1 Baffa,Jeanne,M.
+A1 Brumund,Michael
+A1 Sheth,Amit,P.
+A1 Karp,Warren,B.
+A1 Bhatia,Jatinder
+YR 2003
+T1 A Low-Cost Web-Based Tool for Pediatric Echocardiographic Consultation
+JF Clinical Pediatrics
+VO 42
+SP 185
+OP 186
+IS 2
+
+RT Journal Article
+ID 2584438
+A1 Boyd,Roland,L.
+A1 Murdison,Ken,A.
+A1 Baffa,Jeanne,M.
+A1 Brumund,Michael
+A1 Sheth,Amit,P.
+A1 Karp,Warren,B.
+A1 Bhatia,Jatinder
+YR 2003
+T1 A Low-Cost Web-Based Tool for Pediatric Echocardiographic Consultation
+
+RT Journal Article
+ID 51344
+A1 Cardoso,Jorge
+A1 Miller,John
+A1 Sheth,Amit
+A1 Arnold,Jonathan
+YR 2002
+T1 Modeling Quality of Service for Workflows and Web Service Processes
+JF The Vldb Journal
+
+RT Journal Article
+ID 44066
+A1 Sheth,Amit,P.
+A1 Cardoso,Jorge
+A1 Miller,John,A.
+A1 Kochut,Krys,J.
+A1 Kang,Myong
+YR 2002
+T1 QoS for Service-Oriented Middleware
+
+RT Journal Article
+ID 861537
+A1 Sheth,Amit,P.
+A1 Bertram,Clemens
+A1 Avant,David
+A1 Hammond,Brian
+A1 Kochut,Krysztof
+A1 Warke,Yashodhan,S.
+YR 2002
+T1 Managing Semantic Content for the Web
+JF IEEE Internet Computing
+VO 6
+SP 80
+OP 87
+IS 4
+
+RT Conference Proceedings
+ID 72922
+A1 Cardoso,Jorge
+A1 Sheth,Amit,P.
+A1 Miller,John,A.
+YR 2002
+T1 Workflow Quality of Service
+SP 303
+OP 311
+
+RT Journal Article
+ID 59628
+A1 Hammond,Brian
+A1 Sheth,Amit
+A1 Kochut,Krzysztof
+YR 2002
+T1 Semantic Enhancement Engine: A Modular Document Enhancement Platform for Semantic Applications over Heterogeneous Content
+
+RT Journal Article
+ID 3939117
+A1 ARUMUGAM,MADHAN
+A1 Sheth,Amit
+A1 Budak,I.
+YR 2002
+T1 THE PEER-TO-PEER SEMANTIC WEB: A DISTRIBUTED ENVIRONMENT FOR SHARING SEMANTIC KNOWLEDGE ON THE WEB
+
+RT Journal Article
+ID 854882
+A1 Sheth,Amit,P.
+A1 Meersman,Robert
+YR 2002
+T1 Amicalola report: database and information systems research challenges and opportunities in semantic web and enterprises
+JF Sigmod Record
+VO 31
+SP 98
+OP 106
+IS 4
+
+RT Conference Proceedings
+ID 4603420
+A1 Chandrasekaran,Senthilanand
+A1 Silver,Gregory
+A1 Miller,John,A.
+A1 Cardoso,Jorge
+A1 Sheth,Amit,P.
+YR 2002
+T1 Web service technologies and their synergy with simulation
+
+RT Journal Article
+ID 854525
+A1 Anyanwu,Kemafor
+A1 Sheth,Amit,P.
+YR 2002
+T1 The ρ operator: discovering and ranking associations on the semantic web
+JF Sigmod Record
+VO 31
+SP 42
+OP 47
+IS 4
+
+RT Journal Article
+ID 53386
+A1 Wu,Shengli
+A1 Sheth,Amit,P.
+A1 Miller,John,A.
+A1 Luo,Zongwei
+YR 2002
+T1 Authorization and Access Control of Application Data in Workflow Systems
+JF Journal of Intelligent Information Systems
+VO 18
+SP 71
+OP 94
+IS 1
+
+RT Journal Article
+ID 1332835
+A1 Sheth,Amit
+A1 Bertram,Clemens
+A1 Avant,David
+A1 Hammond,Brian
+A1 Kochut,Krysztof
+A1 Warke,Yashodhan
+YR 2002
+T1 Semantic Content Management for Enterprises and the Web
+JF IEEE Internet Computing
+
+RT Journal Article
+ID 6934745
+A1 Chandrasekaran,Senthilanand
+A1 Miller,John,A.
+A1 Silver,Gregory,S.
+A1 Arpinar,Budak
+A1 Sheth,Amit,P.
+YR 2002
+T1 Composition, Performance Analysis and Simulation of Web Services
+JF Distributed and Parallel Databases
+
+RT Conference Proceedings
+ID 1780823
+A1 Chandrasekaran,Senthilanand
+A1 Silver,Gregory,A.
+A1 Miller,John,A.
+A1 Cardoso,Jorge
+A1 Sheth,Amit,P.
+YR 2002
+T1 XML-based modeling and simulation: web service technologies and theirsynergy with simulation
+SP 606
+OP 615
+
+RT Journal Article
+ID 2866100
+A1 Sheth,Amit
+A1 Thacker,Sanjeev
+A1 Patel,Shuchi
+YR 2002
+T1 Complex Relationship and Knowledge Discovery Support in the InfoQuilt System
+JF The Vldb Journal
+
+RT Journal Article
+ID 56062
+A1 Cardoso,Jorge
+A1 Sheth,Amit
+A1 Kochut,Krys
+YR 2002
+T1 Implementing QoS Management for Workflow Systems
+
+RT Conference Proceedings
+ID 499621
+A1 Avant,David
+A1 Baum,M.
+A1 Bertram,Clemens
+A1 Fisher,M.
+A1 Sheth,Amit,P.
+A1 Warke,Yashodhan,S.
+YR 2002
+T1 Semantic technology applications for homeland security
+SP 611
+OP 613
+
+RT Journal Article
+ID 2127651
+A1 Cardoso,J.
+A1 Miller,J.
+A1 Sheth,A.
+YR 2002
+T1 Workflow quality of service: Its specification and computation
+
+RT Journal Article
+ID 2060397
+A1 Cardoso,J.
+A1 Bussler,C.
+A1 Sheth,A.
+YR 2002
+T1 Tutorial: Semantic Web Services and processes: Semantic composition and quality of service
+
+RT Journal Article
+ID 40478663
+A1 Sheth,A.
+A1 Trembath,K.
+YR 2002
+T1 Statistically designed experimental study of sol–gel-based film coating scheme for high-temperature superconductor and buffer materials and related processing cost evaluation
+JF Journal of Materials Processing Technology
+VO 123
+SP 167
+OP 178
+IS 1
+
+RT Journal Article
+ID 2615099
+A1 Cardoso,J.
+A1 Miller,J.
+A1 Sheth,A.
+YR 2002
+T1 A Quality of Service Model for Workflow Processes
+
+RT Journal Article
+ID 15231741
+A1 Wu,Shengli
+A1 Sheth,Amit
+A1 Miller,John
+A1 Luo,Zongwei
+YR 2002
+T1 Authorization and Access Control of Application Data in Workflow Systems
+JF Journal of Intelligent Information Systems
+VO 18
+SP 71
+OP 94
+IS 1
+
+RT Conference Proceedings
+ID 669633
+A1 Goranson,H.,Ted
+A1 Chu,Bei-tseng
+A1 Grüninger,Michael
+A1 Ivezic,Nenad
+A1 Kulvatunyou,Sern
+A1 Labrou,Yannis
+A1 Masuoka,Ryusuke
+A1 Peng,Yun
+A1 Sheth,Amit,P.
+A1 Shorter,David
+YR 2002
+T1 Ontologies as a New Cost Factor in Enterprise Integration
+SP 253
+OP 263
+
+RT Journal Article
+ID 15318273
+A1 Sheth,Amit
+A1 Cardoso,Jorge
+A1 Miller,John
+A1 kochut,Krys
+A1 Kang,M.
+YR 2002
+T1 Service-oriented Middleware
+
+RT Journal Article
+ID 2144314
+A1 Sheth,A.
+YR 2002
+T1 DB-IS research for Semantic Web and enterprises
+
+RT Journal Article
+ID 15318256
+A1 Cardoso,Jorge
+A1 Sheth,Amit
+YR 2002
+T1 Process Quality of Service Specification
+
+RT Journal Article
+ID 66267
+A1 Arpinar,I.,Budak
+A1 Miller,John
+A1 Sheth,Amit,P.
+A1 Lab,LSDIS
+YR 2001
+T1 An Efficient Data Extraction and Storage Utility For XML Documents
+
+RT Journal Article
+ID 2382164
+A1 Sheth,A.
+A1 Avant,D.
+A1 Bertram,C.
+YR 2001
+T1 System and Method for Creating Semantic Web and Its Applications in Browsing, Searching, Profiling, Personalization and Advertisement
+
+RT Book, Whole
+ID 124903
+A1 Patel,Shuchi
+A1 Sheth,Amit,P.
+YR 2001
+T1 Planning and Optimizing Semantic Information Requests Using Domain Modeling and Resource Characteristics
+SP 135
+OP 149
+
+RT Conference Proceedings
+ID 67304
+A1 Lima,Tarcisio
+A1 Ashish,Naveen
+A1 Guntamadugu,Mukesh
+A1 Lakshminarayan,Sriram
+A1 Palsena,Narayanan
+A1 Singh,Dilpreet
+YR 2001
+T1 Digital Library Services Supporting Information Integration over the Web
+SP 19
+OP 26
+
+RT Journal Article
+ID 35208807
+A1 Crotts,G
+A1 Sheth,A
+A1 Twist,J
+A1 Ghebre-Sellassie,I
+YR 2001
+T1 Development of an enteric coating formulation and process for tablets primarily composed of a highly water-soluble, organic acid
+JF European Journal of Pharmaceutics and Biopharmaceutics
+VO 51
+SP 71
+OP 76
+IS 1
+
+RT Journal Article
+ID 4055807
+A1 Hall,D.
+A1 Miller,J.
+A1 Arnold,J.
+A1 Kochut,K.
+A1 Sheth,A.
+A1 Weise,M.
+YR 2001
+T1 Using Workflow to Build an Information Management System for a Geographically Distributed Genome Seq
+
+RT Journal Article
+ID 79767
+A1 Sheth,Amit,P.
+A1 Miller,John,A.
+A1 Kochut,Krys
+A1 Arpinar,Budak
+YR 2001
+T1 Research in multi-organizational processes and semantic information brokering at the LSDIS lab
+JF Sigmod Record
+VO 30
+SP 123
+OP 128
+IS 4
+
+RT Journal Article
+ID 850287
+A1 Kashyap,Vipul
+A1 Sheth,Amit,P.
+YR 2001
+T1 Building Successful Human-Centered Systems
+JF IEEE Multimedia
+VO 8
+SP 102
+OP 103
+IS 3
+
+RT Journal Article
+ID 1685693
+A1 Kashyap,V.
+A1 Sheth,A.
+YR 2001
+T1 Building successful human-centered systems [Book Review]
+JF IEEE Multimedia
+VO 8
+SP 102
+OP 103
+IS 3
+
+RT Journal Article
+ID 30975290
+A1 Dabholkar,Jyoti,P.
+A1 Sheth,Amit
+YR 2001
+T1 Malignant Otitis Externa
+JF Indian Journal of Otolaryngology and Head & Neck Surgery
+VO 53
+SP 55
+OP 56
+IS 1
+
+RT Journal Article
+ID 16239383
+A1 Sheth,A.S.Kleshchev,and,J.
+YR 2001
+T1 On Extensions of Simple Modules over Symmetric and Algebraic Groups
+JF Journal of Algebra
+VO 238
+SP 843
+OP 844
+IS 2
+
+RT Journal Article
+ID 231407
+A1 Mena,Eduardo
+A1 Illarramendi,Arantza
+A1 Kashyap,Vipul
+A1 Sheth,Amit,P.
+YR 2000
+T1 OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies
+JF Distributed and Parallel Databases
+VO 8
+SP 223
+OP 271
+IS 2
+
+RT Journal Article
+ID 76479
+A1 Luo,Zongwei
+A1 Sheth,Amit,P.
+A1 Kochut,Krys
+A1 Miller,John,A.
+YR 2000
+T1 Exception Handling in Workflow Systems
+JF Applied Intelligence
+VO 13
+SP 125
+OP 147
+IS 2
+
+RT Journal Article
+ID 120581
+A1 Mena,Eduardo
+A1 Kashyap,Vipul
+A1 Illarramendi,Arantza
+A1 Sheth,Amit,P.
+YR 2000
+T1 Imprecise Answers in Distributed Environments: Estimation of Information Loss for Multi-Ontology Based Query Processing
+JF International Journal of Cooperative Information Systems
+VO 9
+SP 403
+OP 425
+IS 4
+
+RT Journal Article
+ID 3243001
+A1 Kashyap,V.
+A1 Sheth,A.
+YR 2000
+T1 Information Brokerage Across Heterogeneous Digital Data
+
+RT Journal Article
+ID 15227711
+A1 Luo,Zongwei
+A1 Sheth,Amit
+A1 Kochut,Krys
+A1 Miller,John
+YR 2000
+T1 Exception Handling in Workflow Systems
+JF Applied Intelligence
+VO 13
+SP 125
+OP 147
+IS 2
+
+RT Journal Article
+ID 59479450
+A1 Hoppenbrouwers,J.,J.,A.,C.
+A1 Lima,T.,de,Souza
+A1 Papazoglou,M.
+A1 Sheth,A.
+YR 2000
+T1 Proceedings of the IEEE Advances in Digital Libraries 2000 Conference
+
+RT Journal Article
+ID 184788
+A1 Sheth,Amit,P.
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Arpinar,Ismailcem,Budak
+YR 1999
+T1 Processes Driving the Networked Economy
+JF IEEE Concurrency
+VO 7
+SP 18
+OP 31
+IS 3
+
+RT Journal Article
+ID 1928235
+A1 Elmagarmid,A.
+A1 Rusinkiewicz,M.
+A1 Sheth,A.
+YR 1999
+T1 Management of heterogeneous and autonomous database systems
+
+RT Book, Whole
+ID 66951
+A1 Kang,Myong,H.
+A1 Froscher,Judith,N.
+A1 Sheth,Amit,P.
+A1 Kochut,Krys,J.
+A1 Miller,John,A.
+YR 1999
+T1 A Multilevel Secure Workflow Management System
+VO 1626
+SP 271
+OP 285
+
+RT Journal Article
+ID 854306
+A1 Ouksel,Aris,M.
+A1 Sheth,Amit,P.
+YR 1999
+T1 Semantic Interoperability in Global Information Systems: A Brief Introduction to the Research Area and the Special Section
+JF Sigmod Record
+VO 28
+SP 5
+OP 12
+IS 1
+
+RT Journal Article
+ID 10902207
+A1 Sheth,A.P.
+A1 Arpinar,I.,B.
+YR 1999
+T1 Processes Driving the Networked Economy:ProcessPortals, ProcessVortex, and Dynamically Trading Processes
+JF IEEE Concurrency
+VO 7
+SP 18
+OP 31
+
+RT Journal Article
+ID 1962774
+A1 Sheth,A.
+YR 1999
+T1 Changing focus on interoperability in information systems: from system
+
+RT Journal Article
+ID 1985546
+A1 Mena,E.
+A1 Illarramendi,A.
+A1 Kashyap,V.
+A1 Sheth,A.
+YR 1999
+T1 OBSERVER: An approach for query processing in global information systems based on interoperation across pre-existing ontologies
+JF Distributed and Parallel Databases
+
+RT Book, Whole
+ID 450819
+A1 Sheth,Amit,P.
+A1 Kashyap,Vipul
+A1 Lima,Tarcisio
+YR 1999
+T1 Semantic Information Brokering: How Can a Multi-agent Approach Help?
+SP 303
+OP 322
+
+RT Journal Article
+ID 861312
+A1 Shah,Kshitij
+A1 Sheth,Amit,P.
+YR 1999
+T1 Infoharness: Managing Distributed, Heterogeneous Information
+JF IEEE Internet Computing
+VO 3
+SP 18
+OP 28
+IS 6
+
+RT Journal Article
+ID 2074427
+A1 Kochut,K.
+A1 Sheth,A.
+A1 Miller,J.
+YR 1999
+T1 Optimizing workflow, using a CORBA based, fully distributed process to create scalable dynamic systems
+
+RT Conference Proceedings
+ID 429777
+A1 Sheth,Amit,P.
+A1 Shah,Kshitij
+YR 1999
+T1 Searching Distributed and Heterogeneous Digital Media
+SP 311
+OP 330
+
+RT Journal Article
+ID 854900
+A1 Sheth,Amit,P.
+A1 Bertram,Clemens
+A1 Shah,Kshitij
+YR 1999
+T1 VideoAnywhere: A System for Searching and Managing Distributed Video Assets
+JF Sigmod Record
+VO 28
+SP 104
+OP 109
+IS 1
+
+RT Journal Article
+ID 3612200
+A1 Sheth,A.
+A1 Arpinar,I.,B.
+YR 1999
+T1 Processes Driving the Networked Economy: Process Portals
+
+RT Journal Article
+ID 37608891
+A1 Jerram,M.
+A1 Sheth,A.
+A1 Kaplan,E.
+A1 Seidman,L.
+YR 1999
+T1 A process-oriented approach to clock drawing in schizophrenia
+JF Archives of Clinical Neuropsychology
+VO 14
+SP 115
+OP 115
+IS 1
+
+RT Journal Article
+ID 4450070
+A1 Sheth,Amit
+A1 Bertram,Clemens
+A1 Shah,Kshitij
+YR 1999
+T1 a system for searching and managing distributed heterogeneous video assets
+JF Sigmod Record
+
+RT Journal Article
+ID 14415152
+A1 Sheth,Amit
+A1 Bertram,Clemens
+A1 Shah,Kshitij
+YR 1999
+T1 Video anywhere : a system for searching and managing distributed heterogeneous video assets
+JF Sigmod Record
+VO 28
+SP 104
+OP 114
+IS 1
+
+RT Journal Article
+ID 51169241
+A1 Sheth,A.
+A1 Lasrado,V.
+A1 White,M.
+A1 Paranthaman,M.
+YR 1999
+T1 Errata to "bench scale evaluation of batch mode dip-coating of sol-gel LaAlO3 buffer material"
+JF IEEE Transactions on Applied Superconductivity
+VO 9
+SP 4733
+OP 4733
+IS 4
+
+RT Conference Proceedings
+ID 2391280
+A1 Sheth,A.,P.
+YR 1998
+T1 Changing Focus on Interoperability in Information Systems: From System, Syntax, Structure to Semantics
+
+RT Conference Proceedings
+ID 1260664
+A1 Mena,E.
+A1 Kashyap,V.
+A1 Illarramendi,A.
+A1 Sheth,A.
+YR 1998
+T1 Domain specific ontologies for semantic information brokering on the global information infrastructure
+
+RT Journal Article
+ID 3726896
+A1 Kashyap,V.
+A1 Sheth,A.
+YR 1998
+T1 Semantic Heterogeneity in Global Information Systems: the Role of Metadata, Context and Ontologies
+
+RT Journal Article
+ID 793699
+A1 Miller,John,A.
+A1 Palaniswami,Devanand
+A1 Sheth,Amit,P.
+A1 Kochut,Krys
+A1 Singh,Harvinder
+YR 1998
+T1 WebWork: METEOR2's Web-Based Workflow Management System
+JF Journal of Intelligent Information Systems
+VO 10
+SP 185
+OP 215
+IS 2
+
+RT Conference Proceedings
+ID 2042284
+A1 Han,Y.
+A1 Sheth,Amit
+A1 Bussler,C.
+YR 1998
+T1 A taxonomy of adaptive workflow management
+
+RT Book, Whole
+ID 694968
+A1 Sheth,Amit,P.
+A1 Klas,Wolfgang
+YR 1998
+T1 Multimedia Data Management: Using Metadata to Integrate and Apply Digital Media
+
+RT Journal Article
+ID 4867531
+A1 Kochut,Krys,J.
+A1 Sheth,Amit,P.
+A1 Miller,John,A.
+YR 1998
+T1 ORBWork: A CORBA-Based Fully Distributed, Scalable and Dynamic Workflow Enactment Service for METEOR
+
+RT Journal Article
+ID 2010587
+A1 Han,Y.
+A1 Sheth,A.
+YR 1998
+T1 On Adaptive Workflow Modeling
+SP 108
+OP 116
+
+RT Journal Article
+ID 2029191
+A1 Kashyap,V.
+A1 Sheth,A.
+YR 1998
+T1 Semantic heterogeneity in global information systems: The role of metadata
+
+RT Journal Article
+ID 694949
+A1 Boll,Susanne
+A1 Klas,Wolfgang
+A1 Sheth,Amit,P.
+YR 1998
+T1 Overview on Using Metadata to manage Multimedia Data
+
+RT Conference Proceedings
+ID 321089
+A1 Shah,Kshitij
+A1 Sheth,Amit,P.
+YR 1998
+T1 Logical Information Modeling of Web-Accessible Heterogeneous Digital Assets
+SP 266
+OP 275
+
+RT Conference Proceedings
+ID 1395985
+A1 Kalinichenko,L.
+A1 Azsu,M.,T.
+YR 1998
+T1 Workflow management systems and interoperability
+
+RT Journal Article
+ID 120199
+A1 Illarramendi,A.
+A1 Sheth,A.
+A1 Mena,E.
+A1 Kashyap,V.
+YR 1998
+T1 Estimating Information Loss for Multi-ontology Based Query Processing
+
+RT Journal Article
+ID 15231646
+A1 Miller,John,A.
+A1 Palaniswami,Devanand
+A1 Sheth,Amit,P.
+A1 Kochut,Krys,J.
+A1 Singh,Harvinder
+YR 1998
+T1 WebWork: METEOR 2 's Web-Based Workflow Management System
+JF Journal of Intelligent Information Systems
+VO 10
+SP 185
+OP 215
+IS 2
+
+RT Conference Proceedings
+ID 50135120
+A1 Sheth,A.
+A1 Gopinath,K.
+YR 1998
+T1 Data structure distribution and multi-threading of Linux file system for multiprocessors
+
+RT Conference Proceedings
+ID 523324
+A1 Mudumbai,Srilekha
+A1 Shah,Kshitij
+A1 Sheth,Amit,P.
+A1 Parasuraman,Krishnan
+A1 Bertram,Clemens
+YR 1998
+T1 ZEBRA Image Access System
+SP 602
+
+RT Journal Article
+ID 884599
+A1 Dogac,A.
+A1 Kalinichenko,L.
+A1 Ozsu,T.
+A1 Sheth,A.
+YR 1998
+T1 NATO advanced study institute on workflow systems and interoperability
+JF ACM Siggroup Bulletin
+
+RT Conference Proceedings
+ID 50124656
+A1 Agaian,SOS
+A1 Sheth,Amit
+YR 1998
+T1 Class of nonlinear filters based on fuzzy membership functions
+
+RT Journal Article
+ID 363388
+A1 Sheth,Amit
+A1 Kochut,Krys,J.
+YR 1997
+T1 Workflow Applications to Research Agenda: Scalable and Dynamic Work Coordination and Collaboration Systems
+
+RT Journal Article
+ID 244828
+A1 Worah,Devashish
+A1 Sheth,Amit,P.
+YR 1997
+T1 Transactions in Transactional Workflows
+
+RT Journal Article
+ID 591770
+A1 Sheth,Amit,P.
+YR 1997
+T1 From Contemporary Workflow Process Automation to Dynamic Work Activity Coordination and Collaboration
+JF ACM Siggroup Bulletin
+VO 18
+SP 24
+OP 27
+
+RT Journal Article
+ID 3353993
+A1 Elmagarmid,R.,M.
+A1 Rusinkiewicz,M.
+A1 Sheth,A.
+YR 1997
+T1 Management of Heterogeneous and Autonomous Database Systems
+
+RT Journal Article
+ID 729546
+A1 Singh,Munindar,P.
+A1 Cannata,Philip,E.
+A1 Huhns,Michael,N.
+A1 Jacobs,Nigel
+A1 Ksiezyk,Tomasz
+A1 Ong,Kayliang
+A1 Sheth,Amit,P.
+A1 Tomlinson,Christine
+A1 Woelk,Darrell
+YR 1997
+T1 The Carnot Heterogeneous Database Project: Implemented Applications
+JF Distributed and Parallel Databases
+VO 5
+SP 207
+OP 225
+IS 2
+
+RT Journal Article
+ID 1308254
+A1 Worah,D.
+A1 Sheth,A.
+YR 1997
+T1 Transactions in transactional workflows" in advanced transaction models and architectures
+
+RT Journal Article
+ID 196920
+A1 Worah,D.
+A1 Sheth,A.
+A1 Kochut,K.
+YR 1997
+T1 An Error Handling Framework for the ORBWork Workflow Enactment Service of METEOR
+
+RT Journal Article
+ID 890962
+A1 Sheth,Amit
+A1 Georgakopoulos,Dimitrios
+A1 Joosten,Stef,M.,M.
+A1 Rusinkiewicz,Marek
+A1 Scacchi,Walt
+A1 Wileden,Jack
+A1 Wolf,Alexander,L.
+YR 1997
+T1 Report from the NSF workshop on workflow and process automation in information systems
+JF ACM Sigsoft Software Engineering Notes
+VO 22
+SP 28
+OP 38
+IS 1
+
+RT Journal Article
+ID 2099083
+A1 Kashyap,V.
+A1 Sheth,A.
+YR 1997
+T1 Cooperative Information Systems: Current Trends and Directions
+
+RT Journal Article
+ID 3926426
+A1 Sheth,A.
+A1 Worah,D.
+A1 Kochut,K.
+A1 Miller,J.
+A1 Zheng,K.
+A1 Palaniswami,D.
+A1 Das,S.
+YR 1997
+T1 The METEOR Workflow Management System and Its Use in Prototyping Significant Healthcare Applications
+
+RT Book, Whole
+ID 430430
+A1 Miller,John,A.
+A1 Sheth,Amit,P.
+A1 Kochut,Krys,J.
+YR 1997
+T1 Perspectives in Modeling: Simulation, Database, and Workflow
+SP 154
+OP 167
+
+RT Journal Article
+ID 884647
+A1 Sheth,Amit
+YR 1997
+T1 NSF Workshop on Workflow and Process Automation in Information Systems: State-of-the-Art and Future Directions
+JF ACM Siggroup Bulletin
+
+RT Conference Proceedings
+ID 666346
+A1 Sheth,Amit,P.
+YR 1997
+T1 Managing with Less than Absolute Integrity
+SP 195
+OP 202
+
+RT Journal Article
+ID 884622
+A1 Sheth,Amit
+YR 1997
+T1 WORP (a public resource and repository for workflow and process management) and upcoming events in workflow
+JF ACM Siggroup Bulletin
+
+RT Journal Article
+ID 884645
+A1 Sheth,Amit
+YR 1997
+T1 From the SIGGROUP's US Advisor for Workflow
+JF ACM Siggroup Bulletin
+
+RT Conference Proceedings
+ID 50088021
+A1 Sheth,Amit
+YR 1997
+T1 From contemporary workflow process automation to adaptive and dynamic work activity coordination and collaboration
+
+RT Journal Article
+ID 398353
+A1 Kashyap,Vipul
+A1 Sheth,Amit,P.
+YR 1996
+T1 Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach
+JF The Vldb Journal
+VO 5
+SP 276
+OP 304
+IS 4
+
+RT Conference Proceedings
+ID 233327
+A1 Mena,Eduardo
+A1 Kashyap,Vipul
+A1 Sheth,Amit,P.
+A1 Illarramendi,Arantza
+YR 1996
+T1 OBSERVER: An Approach for Query Processing in Global Information Systems based on Interoperation across Pre-existing Ontologies
+SP 14
+OP 25
+
+RT Journal Article
+ID 338578
+A1 Sheth,Amit,P.
+A1 Georgakopoulos,Dimitrios
+A1 Joosten,Stef,M.,M.
+A1 Rusinkiewicz,Marek
+A1 Scacchi,Walt
+A1 Wileden,Jack,C.
+A1 Wolf,Alexander,L.
+YR 1996
+T1 Report from the NSF workshop on workflow and process automation in information systems
+JF Sigmod Record
+VO 25
+SP 55
+OP 67
+IS 4
+
+RT Journal Article
+ID 381629
+A1 Miller,J.,a.
+A1 Sheth,A.,p.
+A1 Kochut,K.,j.
+A1 Wang,X.
+YR 1996
+T1 CORBA-Based Run-Time Architectures for Workflow Management Systems
+JF Journal of Database Management
+
+RT Conference Proceedings
+ID 578259
+A1 Sheth,Amit,P.
+A1 Kochut,Krys
+A1 Miller,John,A.
+A1 Worah,Devashish
+A1 Das,Souvik
+A1 Lin,Chenye
+A1 Palaniswami,Devanand
+A1 Lynch,John
+A1 Shevchenko,Ivan
+YR 1996
+T1 Supporting StateWide Immunisation Tracking Using Multi-Paradigm Workflow Technology
+SP 263
+OP 273
+
+RT Conference Proceedings
+ID 118977
+A1 Mena,Eduardo
+A1 Kashyap,Vipul
+A1 Illarramendi,Arantza
+A1 Sheth,Amit,P.
+YR 1996
+T1 Managing Multiple Information Sources through Ontologies: Relationship between Vocabulary Heterogeneity and Loss of Information
+
+RT Journal Article
+ID 232360
+A1 Das,S.
+A1 Kochut,K.
+A1 Miller,J.
+A1 Sheth,A.
+A1 Worah,D.
+YR 1996
+T1 ORBWork: A Reliable Distributed CORBA-based Workflow Enactment System for METEOR2
+
+RT Journal Article
+ID 729549
+A1 Krychniak,Piotr
+A1 Rusinkiewicz,Marek
+A1 Cichocki,Andrzej
+A1 Sheth,Amit,P.
+A1 Thomas,Gomer
+YR 1996
+T1 Bounding the Effects of Compensation under Relaxed Multilevel Serializability
+JF Distributed and Parallel Databases
+VO 4
+SP 355
+OP 374
+IS 4
+
+RT Journal Article
+ID 729665
+A1 Attie,Paul,C.
+A1 Singh,Munindar,P.
+A1 Emerson,E.,Allen
+A1 Sheth,Amit,P.
+A1 Rusinkiewicz,Marek
+YR 1996
+T1 Scheduling Workflows by Enforcing Intertask Dependencies
+JF Distributed Systems Engineering
+VO 3
+SP 222
+OP 238
+IS 4
+
+RT Journal Article
+ID 3726894
+A1 Kashayp,V.
+A1 Sheth,A.
+YR 1996
+T1 Semantic Heterogeneity in Global Information System: The Role of Metadata, Context and Ontologies
+
+RT Journal Article
+ID 695734
+A1 Kashyap,Vipul
+A1 Shah,Kshitij
+A1 Sheth,Amit,P.
+YR 1996
+T1 Metadata for Building the MultiMedia Patch Quilt
+
+RT Journal Article
+ID 4203144
+A1 Kashyap,V.
+A1 Sheth,A.
+YR 1996
+T1 Semantic Heterogeneity in Global Information System: The Role of Metadata
+
+RT Journal Article
+ID 51859777
+A1 Attie,P.,C.
+A1 Singh,M.,P.
+A1 Emerson,E.,A.
+A1 Sheth,A.
+A1 Rusinkiewicz,M.
+YR 1996
+T1 Scheduling workflows by enforcing intertask dependencies
+
+RT Conference Proceedings
+ID 522283
+A1 Sheth,Amit,P.
+A1 Meersman,Robert
+A1 Neuhold,Erich,J.
+A1 Pu,Calton
+A1 Subrahmanian,V.,S.
+YR 1996
+T1 What's in a WWW Link? - Panel
+SP 308
+
+RT Conference Proceedings
+ID 578794
+A1 Sheth,Amit,P.
+YR 1996
+T1 Bellcore's ADAPT/X Harness System for Managing Information on Internet and Intranets
+SP 585
+
+RT Journal Article
+ID 314456
+A1 Georgakopoulos,Diimitrios
+A1 Hornick,Mark,F.
+A1 Sheth,Amit,P.
+YR 1995
+T1 An Overview of Workflow Management: From Process Modeling to Workflow Automation Infrastructure
+JF Distributed and Parallel Databases
+VO 3
+SP 119
+OP 153
+IS 2
+
+RT Journal Article
+ID 247173
+A1 Rusinkiewicz,Marek
+A1 Sheth,Amit,P.
+YR 1995
+T1 Specification and Execution of Transactional Workflows
+
+RT Journal Article
+ID 729502
+A1 Krishnakumar,Narayanan
+A1 Sheth,Amit,P.
+YR 1995
+T1 Managing Hetergeneous Multisystem Tasks to Support Enterprise-Wide Operations
+JF Distributed and Parallel Databases
+VO 3
+SP 155
+OP 186
+IS 2
+
+RT Journal Article
+ID 48742761
+A1 Krishnakumar,Narayanan
+A1 Sheth,Amit
+YR 1995
+T1 Managing heterogeneous multi-system tasks to support enterprise-wide operations
+JF Distributed and Parallel Databases
+VO 3
+SP 155
+OP 186
+IS 2
+
+RT Book, Whole
+ID 235160
+A1 Shklar,Leon,A.
+A1 Sheth,Amit,P.
+A1 Kashyap,Vipul
+A1 Shah,Kshitij
+YR 1995
+T1 InfoHarness: Use of Automatically Generated Metadata for Search and Retrieval of Heterogeneous Information
+SP 217
+OP 230
+
+RT Journal Article
+ID 2002316
+A1 Kashyap,V.
+A1 Sheth,A.
+YR 1995
+T1 Schematic and Semantic Similarities between Database Objects: A Context based Approach
+
+RT Journal Article
+ID 2713466
+A1 Georgakopoulos,D.
+A1 Hornick,M
+A1 Sheth,A
+YR 1995
+T1 An overview of workflow management: From process modeling to infrastructure for automation
+JF Distributed and Parallel Databases
+
+RT Conference Proceedings
+ID 398140
+A1 Miller,John,A.
+A1 Sheth,Amit,P.
+A1 Kochut,Krys,J.
+A1 Wang,Xuzhong
+A1 Murugan,Arun
+YR 1995
+T1 Simulation modeling within workflow technology
+SP 612
+OP 619
+
+RT Journal Article
+ID 336443
+A1 Sheth,A.
+YR 1995
+T1 Data Semantics: what, where and how?
+
+RT Journal Article
+ID 230194
+A1 Sheth,Amit
+YR 1995
+T1 Workflow automation: applications, technology and research
+JF Sigmod Record
+
+RT Conference Proceedings
+ID 667993
+A1 Sheth,Amit,P.
+YR 1995
+T1 Workflow Automation: Applications, Technology, and Research (Tutorial)
+SP 469
+
+RT Journal Article
+ID 3708117
+A1 Sheth,A.,P.
+A1 Kochut,K.
+YR 1995
+T1 Scalable and Dynamic Work Coordination and Collaboration Systems
+
+RT Conference Proceedings
+ID 667181
+A1 Shklar,Leon,A.
+A1 Sheth,Amit,P.
+A1 Kashyap,Vipul
+A1 Thatte,Satish
+YR 1995
+T1 InfoHarness: A System for Search and Retrieval of Heterogeneous Information
+SP 478
+
+RT Journal Article
+ID 2754301
+A1 Sheth,A.
+A1 Kashyap,V.
+A1 Leblanc,W.
+YR 1995
+T1 Attribute-based Access of Heterogeneous Digital Data
+
+RT Conference Proceedings
+ID 429935
+A1 Sheth,Amit,P.
+YR 1995
+T1 Panel: Data Semantics: what, where and how?
+SP 601
+OP 610
+
+RT Journal Article
+ID 14415047
+A1 Shklar,Leon
+A1 Sheth,Amit
+A1 Kashyap,Vipul
+A1 Thatte,Satish
+YR 1995
+T1 InfoHarness: a system for search and retrieval of heterogeneous information
+JF Sigmod Record
+VO 24
+SP 478
+IS 2
+
+RT Conference Proceedings
+ID 626319
+A1 Shklar,Leon,A.
+A1 Shah,Kshitij
+A1 Basu,Chumki
+A1 Sheth,Amit,P.
+A1 Kashyap,Vipul
+YR 1995
+T1 Modeling Heterogeneous Software Components
+SP 0
+
+RT Conference Proceedings
+ID 50015213
+A1 Miller,John,A.
+A1 Sheth,Amit,P.
+A1 Kochut,Krys,J.
+A1 Wang,Xuzhong
+A1 Murugan,Arun
+YR 1995
+T1 Simulation modeling within workflow technology
+
+RT Journal Article
+ID 14415043
+A1 Sheth,Amit
+YR 1995
+T1 Workflow automation: applications, technology and research
+JF Sigmod Record
+VO 24
+SP 469
+IS 2
+
+RT Conference Proceedings
+ID 590794
+A1 Sheth,Amit,P.
+YR 1995
+T1 From Data Dirt Roads to Infocosmm
+SP 0
+
+RT Journal Article
+ID 1997949
+A1 Krishnakumar,N.
+A1 Sheth,A.
+YR 1994
+T1 Managing heterogeneous multi-system tasks to support enterprise-wide operations
+JF Distributed and Parallel Databases
+
+RT Conference Proceedings
+ID 264877
+A1 Kashyap,Vipul
+A1 Sheth,Amit,P.
+YR 1994
+T1 Semantics-based information brokering
+SP 363
+OP 370
+
+RT Journal Article
+ID 348039
+A1 Georgakopoulos,Dimitrios
+A1 Rusinkiewicz,Marek
+A1 Sheth,Amit,P.
+YR 1994
+T1 Using Tickets to Enforce the Serializability of Multidatabase Transactions
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 6
+SP 166
+OP 180
+IS 1
+
+RT Journal Article
+ID 33830240
+A1 SHETH,A
+A1 OLSON,J
+A1 ESTERLY,N
+YR 1994
+T1 Cutaneous polyarteritis nodosa of childhood
+JF Journal of The American Academy of Dermatology
+VO 31
+SP 561
+OP 566
+IS 4
+
+RT Journal Article
+ID 854713
+A1 Klas,Wolfgang
+A1 Sheth,Amit,P.
+YR 1994
+T1 Metadata for Digital Media: Introduction to the Special Issue
+JF Sigmod Record
+VO 23
+SP 19
+OP 20
+IS 4
+
+RT Journal Article
+ID 349510
+A1 Shklar,Leon
+A1 Thatte,Satish
+A1 Marcus,Howard
+A1 Sheth,Amit
+YR 1994
+T1 The "InfoHarness" Information Integration Platform
+
+RT Conference Proceedings
+ID 50009649
+A1 Sheth,A.
+YR 1994
+T1 Transactional workflows: research, enabling technologies and applications
+
+RT Conference Proceedings
+ID 585900
+A1 Rusinkiewicz,Marek
+A1 Sheth,Amit,P.
+YR 1994
+T1 Transactional Workflow Management in Distributed Systems (Invited Paper)
+SP 18
+OP 33
+
+RT Journal Article
+ID 28764378
+A1 Sheth,A.,P.
+YR 1994
+T1 Cutaneous porphyrialike photosensitivity after liver transplantation
+JF Archives of Dermatology
+VO 130
+SP 614
+OP 617
+IS 5
+
+RT Conference Proceedings
+ID 523005
+A1 Sheth,Amit,P.
+YR 1994
+T1 Transactional Workflows: Research, Enabling Technologies, and Applications (Abstract)
+SP 403
+
+RT Conference Proceedings
+ID 362131
+A1 Attie,Paul,C.
+A1 Singh,Munindar,P.
+A1 Sheth,Amit,P.
+A1 Rusinkiewicz,Marek
+YR 1993
+T1 Specifying and Enforcing Intertask Dependencies
+SP 134
+OP 145
+
+RT Journal Article
+ID 396578
+A1 Breitbart,Yuri
+A1 Deacon,Andrew
+A1 Schek,Hans-Jörg
+A1 Sheth,Amit,P.
+A1 Weikum,Gerhard
+YR 1993
+T1 Merging application-centric and data-centric approaches to support transaction-oriented multi-system workflows
+JF Sigmod Record
+VO 22
+SP 23
+OP 30
+IS 3
+
+RT Journal Article
+ID 246363
+A1 Sheth,Amit,P.
+A1 Rusinkiewicz,Marek
+YR 1993
+T1 On Transactional Workflows
+JF IEEE Data(base) Engineering Bulletin
+VO 16
+SP 37
+OP 40
+IS 2
+
+RT Journal Article
+ID 823468
+A1 Sheth,Amit,P.
+A1 Gala,Sunit,K.
+A1 Navathe,Shamkant,B.
+YR 1993
+T1 On Automatic Reasoning for Schema Integration
+JF International Journal of Cooperative Information Systems
+VO 2
+SP 23
+OP 50
+IS 1
+
+RT Journal Article
+ID 73062
+A1 Jin,W.,Woody
+A1 Rusinkiewicz,Marek
+A1 Ness,Linda
+A1 Sheth,Amit,P.
+YR 1993
+T1 Concurrency Control and Recovery of Multidatabase Work Flows in Telecommunication Applications
+JF Sigmod Record
+VO 22
+SP 456
+OP 459
+IS 2
+
+RT Journal Article
+ID 779027
+A1 Tomlinson,Christine
+A1 Attie,Paul,C.
+A1 Cannata,Philip
+A1 Meredith,Greg
+A1 Sheth,Amit,P.
+A1 Singh,Munindar,P.
+A1 Woelk,Darrell
+YR 1993
+T1 Workflow Support in Carnot
+JF IEEE Data(base) Engineering Bulletin
+VO 16
+SP 33
+OP 36
+IS 2
+
+RT Journal Article
+ID 847842
+A1 Lee,Kuo,Chu
+A1 Mansfield,William,H.
+A1 Sheth,Amit,P.
+YR 1993
+T1 A Framework for Controlling Cooperative Agents
+JF IEEE Computer
+VO 26
+SP 8
+OP 16
+IS 7
+
+RT Journal Article
+ID 668336
+A1 Woelk,Darrell
+A1 Attie,Paul,C.
+A1 Cannata,Philip
+A1 Meredith,Greg
+A1 Sheth,Amit,P.
+A1 Singh,Munindar,P.
+A1 Tomlinson,Christine
+YR 1993
+T1 Task Scheduling Using Intertask Dependencies in Carot
+JF Sigmod Record
+VO 22
+SP 491
+OP 494
+IS 2
+
+RT Journal Article
+ID 247074
+A1 Sheth,Amit,P.
+A1 Karabatis,George
+YR 1993
+T1 Multidatabase Interdependencies in Industry
+JF Sigmod Record
+VO 22
+SP 483
+OP 486
+IS 2
+
+RT Journal Article
+ID 3066886
+A1 Jin,W.,Woody
+A1 Ness,Linda
+A1 Rusinkiewicz,Marek
+A1 Sheth,Amit
+YR 1993
+T1 Executing Service Provisioning Applications as Multidatabase Flexible Transactions
+
+RT Conference Proceedings
+ID 228611
+A1 Sheth,Amit,P.
+A1 Wood,Christopher
+A1 Kashyap,Vipul
+YR 1993
+T1 Q-Data: Using Deductive Database Technology to Improve Data Quality
+SP 23
+OP 56
+
+RT Journal Article
+ID 13308326
+A1 Schek,Hans-Jörg
+A1 Sheth,Amit,P.
+A1 Czejdo,Bogdan,D.
+YR 1993
+T1 RIDE-IMS '93, Thirst International Workshop on Research Issues in Data Engineering: Interoperability in Multidatabase Systems, Vienna, Austria, April 19-20, 1993
+
+RT Journal Article
+ID 39216912
+A1 Woelk,Darrell
+A1 Attie,Paul
+A1 Cannata,Phil
+A1 Meredith,Greg
+A1 Sheth,Amit
+A1 Singh,Munindar
+A1 Tomlinson,Christine
+YR 1993
+T1 Task scheduling using intertask dependencies in Carnot
+JF Sigmod Record
+SP 491
+OP 494
+
+RT Journal Article
+ID 4399798
+A1 Geller,James
+A1 Perl,Yehoshua
+A1 Cannata,Philip
+A1 Sheth,Amit,P.
+A1 Neuhold,Erich,J.
+YR 1993
+T1 Structural integration: Concepts and case study
+JF Journal of Systems Integration
+VO 3
+SP 133
+OP 161
+IS 2
+
+RT Book, Whole
+ID 798663
+A1 Karabatis,George
+A1 Rusinkiewicz,Marek
+A1 Sheth,Amit,P.
+YR 1993
+T1 Correctness and Enforcement of Multidatabase Interdependencies
+JF Lecture Notes in Computer Science
+SP 337
+OP 358
+
+RT Journal Article
+ID 39216904
+A1 Jin,W.,Woody
+A1 Rusinkiewicz,Marek
+A1 Ness,Linda
+A1 Sheth,Amit
+YR 1993
+T1 Concurrency control and recovery of multidatabase work flows in telecommunication applications
+JF Sigmod Record
+SP 456
+OP 459
+
+RT Journal Article
+ID 39216910
+A1 Sheth,Amit,P.
+A1 Karabatis,George
+YR 1993
+T1 Multidatabase interdependencies in industry
+JF Sigmod Record
+SP 483
+OP 486
+
+RT Conference Proceedings
+ID 246759
+A1 Ansari,Mansoor
+A1 Ness,Linda
+A1 Rusinkiewicz,Marek
+A1 Sheth,Amit,P.
+YR 1992
+T1 Using Flexible Transactions to Support MultiSystem Telecommunication Applications
+SP 65
+OP 76
+
+RT Conference Proceedings
+ID 347557
+A1 Sheth,Amit,P.
+A1 Kashyap,Vipul
+YR 1992
+T1 So Far (Schematically) yet So Near (Semantically)
+SP 283
+OP 312
+
+RT Journal Article
+ID 257121
+A1 Sheth,Amit,P.
+A1 Rusinkiewicz,Marek
+A1 Karabatis,George
+YR 1992
+T1 Using Polytransactions to Manage Interdependent Data
+
+RT Journal Article
+ID 38642882
+A1 Weiss,M.,G.
+A1 Doongaji,D.,R.
+A1 Siddhartha,S.
+A1 Wypij,D.
+A1 Pathare,S.
+A1 Bhatawdekar,M.
+A1 Bhave,A.
+A1 Sheth,A.
+A1 Fernandes,R.
+YR 1992
+T1 The Explanatory Model Interview Catalogue (EMIC). Contribution to cross- cultural research methods from a study of leprosy and mental health
+JF British Journal of Psychiatry
+VO 160
+SP 819
+OP 830
+IS 6
+
+RT Conference Proceedings
+ID 228449
+A1 Sheth,Amit
+A1 Kalinichenko,Leonid
+YR 1992
+T1 Information Modeling in Multidatabase Systems: Beyond Data Modeling
+
+RT Journal Article
+ID 706817
+A1 Geller,James
+A1 Perl,Yehoshua
+A1 Neuhold,Erich,J.
+A1 Sheth,Amit,P.
+YR 1992
+T1 Structural schema integration with full and partial correspondence using the Dual Model
+JF Information Systems
+VO 17
+SP 443
+OP 464
+IS 6
+
+RT Conference Proceedings
+ID 49933718
+A1 Ansari,Mansoor
+A1 Rusinkiewicz,Marek
+A1 Ness,Linda
+A1 Sheth,Amit
+YR 1992
+T1 Executing multidatabase transactions
+
+RT Conference Proceedings
+ID 49934192
+A1 Geller,J.
+A1 Mehta,A.
+A1 Perl,Y.
+A1 Neuhold,E.
+A1 Sheth,A.
+YR 1992
+T1 Algorithms for structural schema integration
+
+RT Conference Proceedings
+ID 578096
+A1 Rusinkiewicz,Marek
+A1 Sheth,Amit,P.
+YR 1992
+T1 Multidatabase Applications: Semantic and System Issues
+SP 545
+
+RT Conference Proceedings
+ID 578793
+A1 Sheth,Amit,P.
+YR 1991
+T1 Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases
+SP 489
+
+RT Conference Proceedings
+ID 353884
+A1 Georgakopoulos,Dimitrios
+A1 Rusinkiewicz,Marek
+A1 Sheth,Amit,P.
+YR 1991
+T1 On Serializability of Multidatabase Transactions Through Forced Local Conflicts
+SP 314
+OP 323
+
+RT Journal Article
+ID 847604
+A1 Rusinkiewicz,Marek
+A1 Sheth,Amit,P.
+A1 Karabatis,George
+YR 1991
+T1 Specifying Interdatabase Dependencies in a Multidatabase Environment
+JF IEEE Computer
+VO 24
+SP 46
+OP 53
+IS 12
+
+RT Journal Article
+ID 1296090
+A1 Sheth,Amit,P.
+A1 Leu,Yungho
+A1 Elmagarmid,Ahmed,K.
+YR 1991
+T1 Maintaining Consistency of Interdependent Data in Multidatabase Systems
+
+RT Conference Proceedings
+ID 568922
+A1 Savasere,Ashoka
+A1 Sheth,Amit,P.
+A1 Gala,Sunit,K.
+A1 Navathe,Shamkant,B.
+A1 Markus,H.
+YR 1991
+T1 On Applying Classification to Schema Integration
+SP 258
+OP 261
+
+RT Journal Article
+ID 706544
+A1 Larson,James,A.
+A1 Sheth,Amit,P.
+YR 1991
+T1 Updating relational views using knowledge at view definition and view update time
+JF Information Systems
+VO 16
+SP 145
+OP 168
+IS 2
+
+RT Conference Proceedings
+ID 523104
+A1 Sheth,Amit,P.
+A1 O'hare,Anthony,B.
+YR 1991
+T1 The Architecture of BrAID: A System for Bridging AI/DB Systems
+SP 570
+OP 581
+
+RT Journal Article
+ID 854814
+A1 Sheth,Amit,P.
+YR 1991
+T1 Semantic Issues in Multidatabase Systems - Preface by the Special Issue Editor
+JF Sigmod Record
+VO 20
+SP 5
+OP 9
+IS 4
+
+RT Journal Article
+ID 778807
+A1 Rusinkiewicz,Marek
+A1 Sheth,Amit,P.
+YR 1991
+T1 Polytransactions for Managing Independent Data
+JF IEEE Data(base) Engineering Bulletin
+VO 14
+SP 44
+OP 48
+IS 1
+
+RT Journal Article
+ID 779097
+A1 Lee,K.,C.
+A1 Mansfield,William,H.
+A1 Sheth,Amit,P.
+YR 1991
+T1 An Interactive Transaction Model for Distributed Cooperative Tasks
+JF IEEE Data(base) Engineering Bulletin
+VO 14
+SP 24
+OP 28
+IS 1
+
+RT Journal Article
+ID 3780757
+A1 Sheth,A.
+YR 1991
+T1 Specifying interdatabase dependencies in a MDB environment
+
+RT Conference Proceedings
+ID 49906004
+A1 Cameron,E.,Jane
+A1 Ness,Linda,A.
+A1 Sheth,Amit,P.
+YR 1991
+T1 An executor for multidatabase transactions which achieves maximal parallelism
+
+RT Conference Proceedings
+ID 578930
+A1 Spaccapietra,Stefano
+A1 Navathe,Shamkant,B.
+A1 Neuhold,Erich,J.
+A1 Sheth,Amit,P.
+YR 1991
+T1 Cooperative Database Design (Panel)
+SP 315
+
+RT Journal Article
+ID 781468
+A1 Sheth,Amit,P.
+A1 Larson,James,A.
+YR 1990
+T1 Federated database systems for managing distributed, heterogeneous, and autonomous databases
+JF ACM Computing Surveys
+VO 22
+SP 183
+OP 236
+IS 3
+
+RT Journal Article
+ID 1357191
+A1 Sheth,A.
+A1 Larson,J.,A.
+YR 1990
+T1 Federated databases: architectures and integration
+JF ACM Computing Surveys
+
+RT Conference Proceedings
+ID 581634
+A1 Sheth,Amit,P.
+A1 Rusinkiewicz,Marek
+YR 1990
+T1 Management of Interdependent Data: Specifying Dependency and Consistency Requirements
+SP 133
+OP 136
+
+RT Journal Article
+ID 1371157
+A1 Sheth,A.
+A1 Arson,I
+YR 1990
+T1 Federated database systems for managing distributed, heterogeneous, and autonomous databases
+JF ACM Computing Surveys
+VO 22
+IS 3
+
+RT Journal Article
+ID 3094530
+A1 Sheth,A.
+A1 Larson,J.
+YR 1990
+T1 Federated databases: architectures and issues
+JF ACM Computing Surveys
+
+RT Journal Article
+ID 3354013
+A1 Sheth,A.
+A1 Rusienkiewicz,M.
+YR 1990
+T1 Management of interdependent data: Specifying dependency
+
+RT Journal Article
+ID 2754353
+A1 Sheth,A.
+A1 Gala,S.
+YR 1989
+T1 Attribute relationships: An impediment in automating schema integration
+
+RT Journal Article
+ID 1400981
+A1 Sheth,A.
+A1 Krishnamurthy,P.
+YR 1989
+T1 Redundant data management in bellcore and bcc databases
+
+RT Journal Article
+ID 854724
+A1 O'Hare,Anthony,B.
+A1 Sheth,Amit,P.
+YR 1989
+T1 The interpreted-compiled range of AI/DB systems
+JF Sigmod Record
+VO 18
+SP 32
+OP 42
+IS 1
+
+RT Conference Proceedings
+ID 523004
+A1 Sheth,Amit,P.
+YR 1989
+T1 Does Loose AI-DBMS Coupling Stand a Chance?
+SP 252
+OP 254
+
+RT Conference Proceedings
+ID 49862659
+A1 Sheth,Amit,P.
+YR 1989
+T1 Fault tolerance in a very large database system: a strawman analysis
+
+RT Conference Proceedings
+ID 522184
+A1 Sheth,Amit,P.
+A1 Larson,James,A.
+A1 Cornelio,Aloysius
+A1 Navathe,Shamkant,B.
+YR 1988
+T1 A Tool for Integrating Conceptual Schemas and User Views
+SP 176
+OP 183
+
+RT Book, Whole
+ID 510963
+A1 Sheth,Amit,P.
+A1 Larson,James,A.
+A1 Watkins,Evan
+YR 1988
+T1 TAILOR, A Tool for Updating Views
+SP 190
+OP 213
+
+RT Conference Proceedings
+ID 523003
+A1 Sheth,Amit,P.
+YR 1988
+T1 Managing and Integrating Unstructured and Structured Data: Problems of Representation, Features, and Abstraction (position paper)
+SP 598
+OP 599
+
+RT Conference Proceedings
+ID 49845755
+A1 Sheth,Amit,P.
+A1 Larson,James
+A1 Luther,Willis
+A1 Phillips,Brian
+A1 Yost,Robert,A.
+YR 1988
+T1 Can we meaningfully integrate drawing, text, image and voice with structured data?
+
+RT Journal Article
+ID 36223797
+A1 SHETH,A
+A1 RAVIKUMAR,M
+A1 HOSUR,R
+A1 GOVIL,G
+A1 MILES,H
+YR 1987
+T1 Two dimensional NMR studies on the solution structure of d-CTCGAGCTCGAG
+JF Biochemical and Biophysical Research Communications
+VO 144
+SP 26
+OP 34
+IS 1
+
+RT Conference Proceedings
+ID 523123
+A1 Sheth,Amit,P.
+A1 Singhal,Anoop
+A1 Liu,Ming,T.
+YR 1987
+T1 Performance Analysis of Resiliency Mechanisms in Distributed Datbase Systems
+SP 419
+OP 428
+
+RT Conference Proceedings
+ID 522713
+A1 Elmagarmid,Ahmed,K.
+A1 Sheth,Amit,P.
+A1 Liu,Ming,T.
+YR 1986
+T1 Deadlock Detection Algorithms in Distributed Database Systems
+SP 556
+OP 564
+
+RT Conference Proceedings
+ID 607549
+A1 Sheth,Amit,P.
+A1 Liu,Ming,T.
+YR 1986
+T1 Integrating Locking and Optimistic Concurrency Control in Distributed Database Systems
+SP 89
+OP 99
+
+RT Journal Article
+ID 34923243
+A1 HOSUR,R
+A1 RAVIKUMAR,M
+A1 CHARY,K
+A1 SHETH,A
+A1 GOVIL,G
+A1 ZUKUN,T
+A1 MILES,H
+YR 1986
+T1 Solution structure of d-GAATTCGAATTC by 2D NMRA new approach to determination of sugar geometries in DNA segments
+JF Febs Letters
+VO 205
+SP 71
+OP 76
+IS 1
+
+RT Journal Article
+ID 36223071
+A1 HOSUR,R
+A1 SHETH,A
+A1 CHARY,K
+A1 RAVIKUMAR,M
+A1 GOVIL,G
+A1 ZUKUN,T
+A1 TODDMILES,H
+YR 1986
+T1 A novel loop structure observed in d-GAATTCCCGAATTC by 2D NMR
+JF Biochemical and Biophysical Research Communications
+VO 139
+SP 1224
+OP 1232
+IS 3
+
+RT Journal Article
+ID 767511
+A1 Sheth,Amit,P.
+A1 Singhal,Anoop
+A1 Liu,Ming,T.
+YR 1985
+T1 An Analysis of the Effect of Network Parameters on the Performance of Distributed Database Systems
+JF IEEE Transactions on Software Engineering
+VO 11
+SP 1174
+OP 1184
+IS 10
+
+RT Journal Article
+ID 46467799
+A1 Elmagarmid,Ahmed,K.
+A1 Sheth,Amit,P.
+A1 Liu,Ming,T.
+YR 1985
+T1 A partially distributed deadlock detection algorithm
+JF International Journal of Parallel Programming
+VO 14
+SP 307
+OP 330
+IS 5
+
+RT Conference Proceedings
+ID 523122
+A1 Sheth,Amit,P.
+A1 Singhal,Anoop
+A1 Liu,Ming,T.
+YR 1984
+T1 An Adaptive Concurrency Control Strategy for Distributed Database Systems
+SP 474
+OP 482
+
+RT Conference Proceedings
+ID 49831659
+A1 Singhal,A.
+A1 Sheth,A.,P.
+A1 Liu,M.,T.
+YR 1984
+T1 An Analysis Of The Effect Of Network Load And Topology On The Performance Of A Concurrency Control Aigorithm In Distributed Database Systems
+
+RT Conference Proceedings
+ID 918860
+A1 Sheth,A.
+A1 Swaminathan,S.,S.
+YR 1980
+T1 Who is carrying the monkey? the service manager concept
+SP 90
+OP 92
+
+RT Journal Article
+ID 2305554
+A1 Sheth,Amit
+A1 Aleman-Meza,Boanerges
+A1 Arpinar,I.,Budak
+A1 Halaschek,Chris
+A1 Ramakrishnan,Cartic
+A1 Bertram,Clemens
+A1 Warke,Yashodhan
+A1 Avant,David
+A1 Arpinar,F.,Sena
+A1 Anyanwu,Kemafor
+A1 Kochut,Krys
+T1 Semantic Association Identification and Knowledge Discovery for National Security Applications
+JF Journal of Database Management
+
+RT Journal Article
+ID 4476665
+A1 SHETH,AMIT
+A1 ARPINAR,I.,BUDAK
+A1 KASHYAP,VIPUL
+T1 Relationships at the Heart of Semantic Web: Modeling, Discovering, and Exploiting Complex Semantic Relationships
+
+RT Journal Article
+ID 11327991
+A1 Sheth,Amit
+A1 Meersman,Robert
+T1 Amicalola Report: Database and Information Systems Research Challenges and Opportunities in Semantic Web and Enterprises
+JF Sigmod Record
+
+RT Journal Article
+ID 4543155
+A1 Sivashanmugam,Kaarthik
+A1 Sheth,Amit
+A1 Miller,John
+A1 Verma,Kunal
+T1 Metadata and Semantics for Web Services and Processes
+
+RT Journal Article
+ID 4084757
+A1 Sheth,Amit
+A1 Miller,John,A.
+T1 Web Services: Technical Evolution yet Practical Revolution?
+
+RT Journal Article
+ID 4105161
+A1 Miller,John
+A1 Verma,Kunal
+A1 Rajasekaran,Preeda
+A1 Sheth,Amit
+A1 Aggarwal,Rohit
+A1 Sivashanmugam,Kaarthik
+T1 WSDL-S: Adding Semantics to WSDL-White Paper
+
+RT Journal Article
+ID 4567912
+A1 Silver,Gregory,A.
+A1 Maduko,Angela
+A1 Jafri,Rabia
+A1 Miller,John,A.
+A1 Sheth,Amit,P.
+T1 Modeling and Simulation of Quality of Service for Composite Web Services
+
+RT Journal Article
+ID 3727709
+A1 Verma,Kunal
+A1 Gomadam,Karthik
+A1 Lathem,Jon
+A1 Sheth,Amit,P.
+A1 Miller,John,A.
+T1 Semantics enabled Dynamic Process Configuration
+
+RT Journal Article
+ID 4881453
+A1 Sheth,Amit
+A1 York,William
+A1 Thomas,Christopher
+A1 Nagarajan,Meenakshi
+A1 Miller,John,A.
+A1 Sahoo,Satya,S.
+A1 Yi,Xiaochuan
+T1 Semantic Web technology in support of Bioinformatics for Glycan Expression
+
+RT Journal Article
+ID 12364091
+A1 Luo,ZongWei
+A1 Sheth,Amit
+A1 Kochut,Krys
+A1 Miller,John
+A1 Poulsen,Annette
+A1 Watson,Richard
+T1 Knowledge Sharing, Coordinated Exception Handling, and Intelligent Problem Solving for Cross-Organizational Business Processes
+
+RT Journal Article
+ID 6195825
+A1 Fisher,Mark
+A1 Sheth,Amit
+T1 Semantic Enterprise Content Management
+
+RT Journal Article
+ID 3150312
+A1 Perry,Matthew
+A1 Sheth,Amit
+A1 Arpinar,Ismailcem,Budak
+A1 Hakimpour,Farshad
+T1 Geospatial and Temporal Semantic Analytics
+
+RT Journal Article
+ID 6725819
+A1 Jain,Prateek
+A1 Hitzler,Pascal
+A1 Yehy,Peter,Z.
+A1 Vermay,Kunal
+A1 Sheth,Amit,P.
+T1 Linked Data is Merely More Data
+
+RT Journal Article
+ID 5312740
+A1 Ouksel,Aris,M.
+A1 Sheth,Amit
+T1 A brief introduction to the research area and the special section
+JF Sigmod Record
+
+RT Journal Article
+ID 10116655
+A1 Henson,Cory,A.
+A1 Neuhaus,Holger
+A1 Sheth,Amit,P.
+A1 Thirunarayan,Krishnaprasad
+A1 Buyya,Rajkumar
+T1 An Ontological Representation of Time Series Observations on the Semantic Sensor Web
+
+RT Journal Article
+ID 11454666
+A1 Thomas,Christopher
+A1 Sheth,Amit
+T1 On the Expressiveness of the Languages for the Semantic Web - Making a Case for 'A Little More
+
+RT Book, Whole
+ID 2370258
+A1 Sheth,Amit
+T1 Enterprise Applications of Semantic Web: The Sweet Spot of Risk and Compliance
+
+RT Conference Proceedings
+ID 3948549
+A1 Anyanwu,Kemafor
+A1 Sheth,Amit
+T1 The r-Operator: Enabling Querying for Semantic Associations on the Semantic Web
+
+RT Journal Article
+ID 4488064
+A1 Deligiannidis,Leonidas
+A1 Kochut,Krzysztof,J.
+A1 Sheth,Amit,P.
+T1 User-Centered Incremental Data Exploration and Visualization
+
+RT Journal Article
+ID 11498169
+A1 Halaschek,Chris
+A1 Aleman-Meza,Boanerges
+A1 Arpinar,I.,Budak
+A1 Ramakrishnan,Cartic
+A1 Sheth,Amit
+T1 A Flexible Approach for Analyzing and Ranking Complex Relationships on the Semantic Web1
+JF IEEE Internet Computing
+
+RT Journal Article
+ID 6397379
+A1 Wu,Zixin
+A1 Harney,John,F.
+A1 Verma,Kunal
+A1 Miller,John,A.
+A1 Sheth,Amit,P.
+T1 Composing Semantic Web services with Interaction Protocols
+
+RT Journal Article
+ID 4995485
+A1 Milnor,William,H.
+A1 Perry,Matthew
+A1 Sheth,Amit,P.
+A1 Kochut,Krzysztof,J.
+T1 DISCOVERING INFORMATIVE SUBGRAPHS IN RDF GRAPHS
+
+RT Journal Article
+ID 5699813
+A1 Perry,Matthew,S.
+A1 Sheth,Amit,P
+A1 Jain,Prateek
+T1 A Framework to Support Spatial, Temporal and Thematic Analytics over Semantic Web Data
+
+RT Book, Whole
+ID 5401985
+A1 Perry,Matthew
+A1 Jain,Prateek
+T1 SPARQL-ST: Extending SPARQL to Support Spatiotemporal Queries
+
+RT Journal Article
+ID 11544004
+A1 Verma,Kunal
+A1 Doshi,Prashant
+A1 Gomadam,Karthik
+A1 Miller,John
+A1 Sheth,Amit
+T1 Optimal Adaptation in Autonomic Web Processes with InterService Dependencies
+
+RT Book, Whole
+ID 4880042
+A1 Tartir,Samir
+A1 Arpinar,I.,Budak
+A1 Sheth,Amit,P.
+T1 Ontological Evaluation and Validation
+
+RT Journal Article
+ID 4459078
+A1 Hakimpour,Farshad
+A1 Aleman-Meza,Boanerges
+A1 Perry,Matthew
+A1 Sheth,Amit
+T1 Data Processing in Space, Time and Semantics Dimensions
+
+RT Journal Article
+ID 13697314
+A1 Manjunatha,Ashwin
+A1 Ranabahu,Ajith
+A1 Sheth,Amit
+A1 Thirunarayan,Krishnaprasad
+T1 A Domain Specific Language Based Method to Develop Cloud-Mobile Hybrid Applications
+
+RT Book, Whole
+ID 48467191
+A1 Missier,Paolo
+A1 Sahoo,Satya,S.
+A1 Zhao,Jun
+A1 Goble,Carole
+A1 Sheth,Amit
+T1 Janus : From Workflows to Semantic Provenance and Linked Open Data
+
+RT Book, Whole
+ID 6866440
+A1 Deligiannidis,Leonidas
+A1 Sheth,Amit
+T1 Visualization of Two Parameters in a Three-Dimensional Environment
+
+RT Journal Article
+ID 10537997
+A1 Acharya,Anurag
+A1 Manjunath,Bangalore
+A1 Agrawal,Divyakant
+A1 Mayer,Richard
+A1 Nideffer,Robert
+A1 Frew,James
+A1 Moore,Reagan
+A1 Goodchild,Michael
+A1 Lucier,Richard
+A1 Smith,Terence
+A1 Almeroth,Kevin
+A1 Freeston,Mike
+A1 Larsgaard,Mary
+A1 Schauser,Klaus
+A1 Andresen,Dan
+A1 Freitas,Nathan
+A1 Leazer,Gregory
+A1 Singh,Ambuj
+A1 Baru,Chaitanya
+A1 French,Beverly
+A1 Loomis,Jack
+A1 Su,Jianwen
+A1 Brandriff,Robert
+A1 Hill,Linda
+A1 Lovette,Kevin
+A1 Swetland,Anne
+A1 Carver,Larry
+A1 Janee,Greg
+A1 Wang,Sanjit,Mitra,Yuan-Fang
+A1 Rick,Michael,D',Zmura
+A1 Stanley,Johnson
+A1 Tao,Nicholson
+A1 Omer,Yang
+A1 Richard,Egecioglu
+A1 Sunil,Kemmerer
+A1 Qi,Prabhakar
+A1 Amr,Zheng
+A1 Abbadi,El
+A1 Kochut,Krys
+A1 Rajasekar,Arcot
+T1 THE ALEXANDRIA DIGITAL EARTH MODELING SYSTEM (ADEPT) TOWARDS A DISTRIBUTED DIGITAL MODEL OF THE EARTH IN SUPPORT OF LEARNING
+
+RT Conference Proceedings
+ID 12046012
+A1 Sahoo,Satya,S.
+A1 Barga,Roger,S.
+A1 Goldstein,Jonathan
+A1 Sheth,Amit,P.
+A1 Thirunarayan,K.
+T1 "Where did you come from…Where did you go?" An Algebra and RDF Query Engine for Provenance
+
+RT Journal Article
+ID 12474699
+A1 Sheth,Amit
+T1 Beyond SAWSDL—a game plan for broader adoption of Semantic Web Services
+
+RT Journal Article
+ID 3838100
+A1 Ramakrishnan,Cartic
+A1 Thomas,Christopher
+A1 Kashyap,Vipul
+A1 Sheth,Amit
+T1 TaxaMiner: Improving Taxonomy Label Quality Using Latent Semantic Indexing
+
+RT Journal Article
+ID 39363948
+A1 Cross,Valerie
+A1 Stroe,Cosmin
+A1 Hu,Xueheng
+A1 Silwal,Pramit
+A1 Panahiazar,Maryam
+A1 Cruz,Isabel,F.
+A1 Parikh,Priti
+A1 Sheth,Amit
+T1 Aligning the Parasite Experiment Ontology and the Ontology for Biomedical Investigations Using AgreementMaker
+
+RT Journal Article
+ID 14048680
+A1 Jadhav,Ashutosh
+A1 Wang,Wenbo
+A1 Mutharaju,Raghava
+A1 Anantharam,Pramod
+A1 Nyugen,Vinh
+A1 Sheth,Amit,P.
+A1 Gomadam,Karthik
+A1 Nagarajan,Meenakshi
+A1 Ranabahu,Ajith
+T1 Twitris: Socially Influenced Browsing
+
+RT Journal Article
+ID 10878674
+A1 Sheth,A.
+A1 Agrawal,S.
+A1 Lathem,J.
+A1 Oldham,N.
+A1 Wingate,H.
+A1 Yadav,P.
+A1 Gallagher,K.
+T1 ACTIVE SEMANTIC ELECTRONIC MEDICAL RECORDS An application of Active Semantic Documents
+
+RT Journal Article
+ID 10303825
+A1 Sheng,Quan,Z.
+A1 Nambiar,Ullas
+A1 Sheth,Amit,P.
+A1 Srivastava,Biplav
+A1 Maamr,Zakaria
+A1 Elnaffar,Said
+T1 Workshop Summary - International Workshop on Context-Enabled Source and Service Selection, Integration and Adaptation
+
+RT Journal Article
+ID 10494620
+A1 Verma,Kunal
+A1 Mocan,Adrian
+A1 Zaremba,Michal
+A1 Sheth,Amit
+A1 Miller,John,A.
+A1 Bussler,Christoph
+T1 LINKING SEMANTICS WEB SERVICE EFFORTS Integrating WSMX and METEOR-S
+
+RT Journal Article
+ID 4477775
+A1 MILLER,JOHN,A.
+A1 BARAMIDZE,GREGORY,T.
+A1 SHETH,AMIT,P.
+A1 FISHWICK,PAUL,A.
+T1 Ontologies for Modeling and Simulation: An Initial Framework
+
+RT Journal Article
+ID 13024550
+A1 Attie,P.
+A1 Cannata,P.
+A1 Sheth,A.
+A1 Singh,M.
+T1 developed in the Carnot project at MCC are applicable to accessing information in digital libraries. For example, just as an enterprise model is valuable in the integration of enterprise databases, a Carnot model of an information domain can help to provide intelligent indexing to concepts
+
+RT Journal Article
+ID 10868741
+A1 Sahoo,Satya,S.
+A1 Barga,Roger
+A1 Thirunarayan,K.
+A1 Sheth,Amit
+A1 Goldstein,Jonathan
+T1 "Where did you come from…Where did you go?"An Algebra and Query Engine for Scientific Data Provenance
+
+RT Journal Article
+ID 5491537
+A1 Gomadam,Karthik
+A1 Ranabahu,Ajith
+A1 Verma,Kunal
+A1 Ramaswamy,Lakshmish
+A1 Sheth,Amit,P.
+T1 Mediatability: Estimating User Effort to Mediate Between Two XML Schemas
+
+RT Journal Article
+ID 5578505
+A1 Rajasekaran,Preeda
+A1 Verma,Kunal
+A1 Miller,John
+A1 Sheth,Amit
+T1 A Plug-in for Adding Semantics to WSDL
+
+RT Book, Whole
+ID 48155367
+A1 Sahoo,Satya,S.
+A1 Sheth,Amit
+A1 Hunter,Blake
+A1 York,William,S.
+T1 Sembowser - Semantic Biological Web Services Registry
+
+RT Journal Article
+ID 15317960
+A1 Manjunatha,A.
+A1 Ranabahu,A.
+A1 Anderson,P.
+A1 Sheth,A.
+T1 Getting Code Near the Data: A Study of Generating Customized Data Intensive Scientific Workflows with Domain Specific Language
+
+RT Journal Article
+ID 27810141
+A1 Manjunatha,A.
+A1 Anderson,P.
+A1 Ranabahu,A.
+A1 Sheth,A.
+T1 Identifying and Implementing the Underlying Operators for Nuclear Magnetic Resonance based Metabolomics Data Analysis
+
+RT Journal Article
+ID 13358174
+A1 Sahoo,Satya,S.
+A1 Raymer,Michael
+A1 Henson,Cory
+A1 Sheth,Amit
+A1 York,Will
+T1 Ontology driven Semantic Provenance for Heterogeneous Bionomics Experimental Data
+
+RT Journal Article
+ID 39363950
+A1 Zhao,Jun
+A1 Sahoo,Satya,S.
+A1 Missier,Paolo
+A1 Sheth,Amit
+A1 Goble,Carole
+T1 Extending Semantic provenance into the Web of Data
+
+RT Journal Article
+ID 3156337
+A1 Sahoo,Satya,S.
+A1 Thomas,Christopher
+A1 Sheth,Amit,P.
+A1 York,William,S.
+T1 GlycO and ProPreO: A case study of two deep domain life sciences ontologies
+
+RT Journal Article
+ID 10618679
+A1 Perry,Matthew
+A1 Sheth,Amit,P.
+A1 Hakimpour,Farshad
+A1 Jain,Prateek
+T1 What, Where and When: Supporting Semantic, Spatial and Temporal Queries in a DBMS
+
+RT Journal Article
+ID 15317961
+A1 Manjunatha,A.
+A1 Ranabahu,A.
+A1 Sheth,A.
+A1 Thirunarayan,K.
+T1 MobiCloud-Making Clouds Reachable: A Toolkit for Easy and Efficient Development of Customized Cloud Mobile Hybrid Application
+
+RT Journal Article
+ID 12869392
+A1 Burns,Phillip
+A1 Sheth,Amit
+T1 An Ontological Approach to Assessing IC Need to Know
+
+RT Journal Article
+ID 14274206
+A1 Nagarajan,Meenakshi
+A1 Purohit,Hemant
+A1 Sheth,Amit
+T1 A Qualitative Examination of Topical Tweet and Retweet Practices
+
+RT Journal Article
+ID 12421180
+A1 Fonseca,Frederico
+A1 Sheth,Amit
+T1 The University Consortium for Geographic Information Science
+
+RT Journal Article
+ID 13252918
+A1 Ramakrishnan,Cartic
+A1 Sheth,Amit,P.
+T1 Blazing Semantic Trails in Text: Extracting Complex Relationships from Biomedical Literature
+
+RT Journal Article
+ID 4659395
+A1 Nagarajan,Meenakshi
+A1 Sheth,Amit
+T1 Ontologies as Expectations of Term Co-occurrences
+
+RT Journal Article
+ID 12155026
+A1 Patel,Shuchi
+A1 Sheth,Amit
+T1 Planning And Optimizing Semantic Information Requests Using Domain Modeling And Resource Characteristics (Technical Report)
+
+RT Journal Article
+ID 4584229
+A1 Sheth,Amit
+T1 Keynote talk: What can semantics do for Bioinformatics?
+
+RT Journal Article
+ID 10105529
+A1 Sheth,Amit
+T1 International Journal on Semantic Web & Information Systems
+
+RT Journal Article
+ID 12496052
+A1 Sheth,Amit
+T1  AIS SIGSEMIS
+
+RT Journal Article
+ID 12896864
+A1 Sheth,Amit,P.
+T1 "Semantic technology is here to stay
+
+RT Journal Article
+ID 12923034
+A1 Sheth,Amit
+T1 Driving Deep Semantics in Middleware and Networks: What, why and how?

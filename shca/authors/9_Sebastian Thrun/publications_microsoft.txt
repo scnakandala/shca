@@ -1,0 +1,4629 @@
+RT Conference Proceedings
+ID 56979732
+A1 Kim,Young,Min
+A1 Dolson,Jennifer
+A1 Sokolsky,Mike
+A1 Koltun,Vladlen
+A1 Thrun,Sebastian
+YR 2012
+T1 Interactive acquisition of residential floor plans
+SP 3055
+OP 3062
+
+RT Journal Article
+ID 57172363
+A1 Teichman,Alex
+A1 Thrun,Sebastian
+YR 2012
+T1 Tracking-based semi-supervised learning
+JF International Journal of Robotic Research
+VO 31
+SP 804
+OP 818
+IS 7
+
+RT Conference Proceedings
+ID 56979859
+A1 Held,David
+A1 Levinson,Jesse
+A1 Thrun,Sebastian
+YR 2012
+T1 A probabilistic framework for car detection in images using context and scale
+SP 1628
+OP 1634
+
+RT Conference Proceedings
+ID 51099918
+A1 Teichman,Alex
+A1 Levinson,Jesse
+A1 Thrun,Sebastian
+YR 2011
+T1 Towards 3D object recognition via classification of arbitrary object tracks
+SP 4034
+OP 4041
+
+RT Conference Proceedings
+ID 51068024
+A1 Levinson,Jesse
+A1 Askeland,Jake
+A1 Becker,Jan
+A1 Dolson,Jennifer
+A1 Held,David
+A1 Kammel,Soeren
+A1 Kolter,J.,Zico
+A1 Langer,Dirk
+A1 Pink,Oliver
+A1 Pratt,Vaughan
+A1 Sokolsky,Michael
+A1 Stanek,Ganymed
+A1 Stavens,David
+A1 Teichman,Alex
+A1 Werling,Moritz
+A1 Thrun,Sebastian
+YR 2011
+T1 Towards fully autonomous driving: Systems and algorithms
+SP 163
+OP 168
+
+RT Conference Proceedings
+ID 51099925
+A1 Huang,Joseph
+A1 Millman,David
+A1 Quigley,Morgan
+A1 Stavens,David
+A1 Thrun,Sebastian
+A1 Aggarwal,Alok
+YR 2011
+T1 Efficient, generalized indoor WiFi GraphSLAM
+SP 1038
+OP 1043
+
+RT Journal Article
+ID 51275098
+A1 Burgard,W.
+A1 Fox,D.
+A1 Thrun,S.
+YR 2011
+T1 Markov Localization for Mobile Robots in Dynamic Environments
+
+RT Conference Proceedings
+ID 51099995
+A1 Levinson,Jesse
+A1 Askeland,Jake
+A1 Dolson,Jennifer
+A1 Thrun,Sebastian
+YR 2011
+T1 Traffic light mapping, localization, and state detection for autonomous vehicles
+SP 5784
+OP 5791
+
+RT Journal Article
+ID 54842490
+A1 Roy,N.
+A1 Gordon,G.
+A1 Thrun,S.
+YR 2011
+T1 Finding Approximate POMDP solutions Through Belief Compression
+
+RT Journal Article
+ID 51661801
+A1 Pineau,J.
+A1 Gordon,G.
+A1 Thrun,S.
+YR 2011
+T1 Anytime Point-Based Approximations for Large POMDPs
+
+RT Journal Article
+ID 15094577
+A1 Gilbert,P.,M.
+A1 Havenstrite,K.,L.
+A1 Magnusson,K.,E.,G.
+A1 Sacco,A.
+A1 Leonardi,N.,A.
+A1 Kraft,P.
+A1 Nguyen,N.,K.
+A1 Thrun,S.
+A1 Lutolf,M.,P.
+A1 Blau,H.,M.
+YR 2010
+T1 Substrate Elasticity Regulates Skeletal Muscle Stem Cell Self-Renewal in Culture
+JF Science
+VO 329
+SP 1078
+OP 1081
+IS 5995
+
+RT Conference Proceedings
+ID 13765639
+A1 PlagemannVarun,Christian
+A1 Ganapathi,Varun
+A1 Koller,Daphne
+A1 Thrun,Sebastian
+YR 2010
+T1 Real-time identification and localization of body parts from depth images
+SP 3108
+OP 3113
+
+RT Conference Proceedings
+ID 39261470
+A1 Ganapathi,Varun
+A1 Plagemann,Christian
+A1 Koller,Daphne
+A1 Thrun,Sebastian
+YR 2010
+T1 Real time motion capture using a single time-of-flight camera
+SP 755
+OP 762
+
+RT Journal Article
+ID 39261461
+A1 Cui,Yan
+A1 Schuon,Sebastian
+A1 Chan,Derek
+A1 Thrun,Sebastian
+A1 Theobalt,Christian
+YR 2010
+T1 3D Shape Scanning with a Time-of-Flight Camera
+SP 1173
+OP 1180
+
+RT Conference Proceedings
+ID 39261317
+A1 Dolson,Jennifer
+A1 Baek,Jongmin
+A1 Plagemann,Christian
+A1 Thrun,Sebastian
+YR 2010
+T1 Upsampling range data in dynamic environments
+SP 1141
+OP 1148
+
+RT Conference Proceedings
+ID 13758509
+A1 Kolter,J.,Zico
+A1 Plagemann,Christian
+A1 Jackson,David,T.
+A1 Ng,Andrew,Y.
+A1 Thrun,Sebastian
+YR 2010
+T1 A probabilistic approach to mixed open-loop and closed-loop control, with application to extreme autonomous driving
+SP 839
+OP 845
+
+RT Conference Proceedings
+ID 13758281
+A1 Levinson,Jesse
+A1 Thrun,Sebastian
+YR 2010
+T1 Robust vehicle localization in urban environments using probabilistic maps
+SP 4372
+OP 4378
+
+RT Conference Proceedings
+ID 13764846
+A1 Werling,Moritz
+A1 Ziegler,Julius
+A1 Kammel,Sören
+A1 Thrun,Sebastian
+YR 2010
+T1 Optimal trajectory generation for dynamic street scenarios in a Frenét Frame
+SP 987
+OP 993
+
+RT Journal Article
+ID 15280605
+A1 Dolgov,Dmitri
+A1 Thrun,Sebastian
+A1 Montemerlo,Michael
+A1 Diebel,James
+YR 2010
+T1 Path Planning for Autonomous Vehicles in Unknown Semi-structured Environments
+JF International Journal of Robotic Research
+VO 29
+SP 485
+OP 501
+IS 5
+
+RT Journal Article
+ID 27810893
+A1 Stoll,Carsten
+A1 Gall,Juergen
+A1 Aguiar,Edilson,de
+A1 Thrun,Sebastian
+A1 Theobalt,Christian
+YR 2010
+T1 Video-based Reconstruction of Animatable Human Characters
+VO 29
+
+RT Journal Article
+ID 13334327
+A1 Levine,Sergey
+A1 Krähenbühl,Philipp
+A1 Thrun,Sebastian
+A1 Koltun,Vladlen
+YR 2010
+T1 Gesture controllers
+JF ACM Transactions on Graphics
+VO 29
+SP 1
+IS 4
+
+RT Conference Proceedings
+ID 50989153
+A1 Quigley,Morgan
+A1 Stavens,David
+A1 Coates,Adam
+A1 Thrun,Sebastian
+YR 2010
+T1 Sub-meter indoor localization in unmodified environments with inexpensive sensors
+SP 2039
+OP 2046
+
+RT Conference Proceedings
+ID 39261528
+A1 Stavens,David
+A1 Thrun,Sebastian
+YR 2010
+T1 Unsupervised learning of invariant features using video
+SP 1649
+OP 1656
+
+RT Journal Article
+ID 39330563
+A1 Stoll,Carsten
+A1 Gall,Juergen
+A1 Aguiar,Edilson,de
+A1 Thrun,Sebastian
+A1 Theobalt,Christian
+YR 2010
+T1 Video-based reconstruction of animatable human characters
+JF ACM Transactions on Graphics
+VO 29
+SP 139
+OP 10
+IS 6
+
+RT Journal Article
+ID 47559812
+A1 Matthews,J.,T.
+A1 Sereika,S.
+A1 Engberg,S.
+A1 Rogers,J.,C.
+A1 Thrun,S.
+YR 2010
+T1 Responsiveness of older adults to navigational guidance from mobile robots in retirement communities
+JF Gerontechnology
+VO 9
+SP 308
+IS 2
+
+RT Journal Article
+ID 48672722
+A1 Theobalt,Christian
+A1 Aguiar,Edilson,de
+A1 Stoll,Carsten
+A1 Seidel,Hans-Peter
+A1 Thrun,Sebastian
+YR 2010
+T1 Performance Capture from Multi-view Video
+VO 5
+SP 127
+OP 149
+
+RT Journal Article
+ID 13264575
+A1 Thrun,Sebastian
+YR 2010
+T1 Toward robotic cars
+JF Communications of The ACM
+VO 53
+SP 99
+OP 106
+IS 4
+
+RT Journal Article
+ID 39245389
+A1 Stoll,Carsten
+A1 Gall,Juergen
+A1 Aguiar,Edilson,de
+A1 Thrun,Sebastian
+A1 Theobalt,Christian
+YR 2010
+T1 Video-based reconstruction of animatable human characters
+SP 1
+OP 10
+
+RT Journal Article
+ID 39244591
+A1 Levine,Sergey
+A1 Krähenbühl,Philipp
+A1 Thrun,Sebastian
+A1 Koltun,Vladlen
+YR 2010
+T1 Gesture controllers
+SP 1
+OP 11
+
+RT Conference Proceedings
+ID 39229995
+A1 Thrun,Sebastian
+YR 2010
+T1 Photographing the world ground up
+SP 2
+OP 2
+
+RT Journal Article
+ID 6065389
+A1 Petrovskaya,Anna
+A1 Thrun,Sebastian
+YR 2009
+T1 Model based vehicle detection and tracking for autonomous urban driving
+JF Autonomous Robots
+VO 26
+SP 123
+OP 139
+IS 2-3
+
+RT Journal Article
+ID 6140319
+A1 Kim,Young,Min
+A1 Theobalt,Christian
+A1 Diebel,James
+A1 Kosecka,Jana
+A1 Thrun,Sebastian
+YR 2009
+T1 Multi-view Image and ToF Sensor Fusion for Dense 3D Reconstruction
+SP 1542
+OP 1549
+
+RT Journal Article
+ID 6368089
+A1 Schuon,Sebastian
+A1 Theobalt,Christian
+A1 Davis,James
+A1 Thrun,Sebastian
+YR 2009
+T1 LidarBoost: Depth Superresolution for ToF 3D Shape Scanning
+SP 343
+OP 350
+
+RT Conference Proceedings
+ID 5968359
+A1 Kümmerle,Rainer
+A1 Hähnel,Dirk
+A1 Dolgov,Dmitri
+A1 Thrun,Sebastian
+A1 Burgard,Wolfram
+YR 2009
+T1 Autonomous driving in a multi-level parking structure
+SP 3395
+OP 3400
+
+RT Conference Proceedings
+ID 6559255
+A1 Dolgov,Dmitri
+A1 Thrun,Sebastian
+YR 2009
+T1 Autonomous driving in semi-structured environments: Mapping and planning
+SP 3407
+OP 3414
+
+RT Conference Proceedings
+ID 13295213
+A1 Srivastava,Savil
+A1 Saxena,Ashutosh
+A1 Theobalt,Christian
+A1 Thrun,Sebastian
+A1 Ng,Andrew,Y.
+YR 2009
+T1 i23 - Rapid Interactive 3D Reconstruction from a Single Image
+SP 19
+OP 28
+
+RT Conference Proceedings
+ID 50783057
+A1 Schuon,Sebastian
+A1 Theobalt,Christian
+A1 Davis,James
+A1 Thrun,S.
+YR 2009
+T1 LidarBoost: Depth superresolution for ToF 3D shape scanning
+SP 343
+OP 350
+
+RT Journal Article
+ID 39250251
+A1 Margaritis,Dimitris
+A1 Faloutsos,Christos
+A1 Thrun,Sebastian
+YR 2009
+T1 NetCube
+
+RT Journal Article
+ID 4789882
+A1 Montemerlo,Michael
+A1 Becker,Jan
+A1 Bhat,Suhrid
+A1 Dahlkamp,Hendrik
+A1 Dolgov,Dmitri
+A1 Ettinger,Scott
+A1 Hähnel,Dirk
+A1 Hilden,Tim
+A1 Hoffmann,Gabe
+A1 Huhnke,Burkhard
+A1 Johnston,Doug
+A1 Klumpp,Stefan
+A1 Langer,Dirk
+A1 Levandowski,Anthony
+A1 Levinson,Jesse
+A1 Marcil,Julien
+A1 Orenstein,David
+A1 Paefgen,Johannes
+A1 Penny,Isaac
+A1 Petrovskaya,Anna
+A1 Pflueger,Mike
+A1 Stanek,Ganymed
+A1 Stavens,David
+A1 Vogt,Antone
+A1 Thrun,Sebastian
+YR 2008
+T1 Junior: The Stanford entry in the Urban Challenge
+JF Journal of Field Robotics
+VO 25
+SP 569
+OP 597
+IS 9
+
+RT Journal Article
+ID 4415827
+A1 Aguiar,Edilson,De
+A1 Stoll,Carsten
+A1 Theobalt,Christian
+A1 Ahmed,Naveed
+A1 Seidel,Hans-peter
+A1 Thrun,Sebastian
+YR 2008
+T1 Performance capture from sparse multi-view video
+JF ACM Transactions on Graphics
+VO 27
+SP 1
+IS 3
+
+RT Journal Article
+ID 5107822
+A1 Schuon,Sebastian
+A1 Theobalt,Christian
+A1 Davis,James
+A1 Thrun,Sebastian
+YR 2008
+T1 High-quality Scanning using Time-of-Flight Depth Superresolution
+SP 1
+OP 7
+
+RT Journal Article
+ID 4357450
+A1 Likhachev,Maxim
+A1 Ferguson,Dave
+A1 Gordon,Geoff
+A1 Stentz,Anthony
+A1 Thrun,Sebastian
+YR 2008
+T1 Anytime search in dynamic graphs
+JF Artificial Intelligence
+VO 172
+SP 1613
+OP 1643
+IS 14
+
+RT Conference Proceedings
+ID 4444598
+A1 Thrun,Sebastian
+A1 Leonard,John,J.
+YR 2008
+T1 Simultaneous Localization and Mapping
+
+RT Journal Article
+ID 50660630
+A1 Kim,Young,Min
+A1 Chan,D.
+A1 Theobalt,Christian
+A1 Thrun,S.
+YR 2008
+T1 Design and Calibration of a Multi-view TOF Sensor Fusion System
+SP 1
+OP 7
+
+RT Journal Article
+ID 4930768
+A1 Chan,Derek
+A1 Buisman,Hylke
+A1 Theobalt,Christian
+A1 Thrun,Sebastian
+YR 2008
+T1 A Noise-Aware Filter for Real-Time Depth Upsampling
+SP 1
+OP 12
+
+RT Conference Proceedings
+ID 4704833
+A1 Ahmed,Naveed
+A1 Theobalt,Christian
+A1 Rössl,Christian
+A1 Thrun,Sebastian
+A1 Seidel,Hans-peter
+YR 2008
+T1 Dense correspondence finding for parametrization-free animation reconstruction from video
+SP 1
+OP 8
+
+RT Journal Article
+ID 4362966
+A1 Aguiar,Edilson,De
+A1 Theobalt,Christian
+A1 Thrun,Sebastian
+A1 Seidel,Hans-peter
+YR 2008
+T1 Automatic Conversion of Mesh Animations into Skeleton-based Animations
+JF Computer Graphics Forum
+VO 27
+SP 389
+OP 397
+IS 2
+
+RT Journal Article
+ID 4704531
+A1 Ahmed,Naveed
+A1 Theobalt,Christian
+A1 Dobrev,Petar
+A1 Seidel,Hans-Peter
+A1 Thrun,Sebastian
+YR 2008
+T1 Robust Fusion of Dynamic Shape and Normal Capture for High-quality Reconstruction of Time-varying Geometry
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 4353975
+A1 Abbeel,Pieter
+A1 Dolgov,Dmitri
+A1 Ng,Andrew,Y.
+A1 Thrun,Sebastian
+YR 2008
+T1 Apprenticeship learning for motion planning with application to parking lot navigation
+SP 1083
+OP 1090
+
+RT Book, Whole
+ID 4723923
+A1 Dolgov,Dmitri
+A1 Thrun,Sebastian
+A1 Montemerlo,Michael
+A1 Diebel,James
+YR 2008
+T1 Path Planning for Autonomous Driving in Unknown Environments
+SP 55
+OP 64
+
+RT Book, Whole
+ID 4723940
+A1 Petrovskaya,Anna
+A1 Thrun,Sebastian
+YR 2008
+T1 Efficient Techniques for Dynamic Vehicle Detection
+SP 79
+OP 91
+
+RT Journal Article
+ID 4416425
+A1 Park,Sungwoo
+A1 Pfenning,Frank
+A1 Thrun,Sebastian
+YR 2008
+T1 A probabilistic language based on sampling functions
+JF ACM Transactions on Programming Languages and Systems
+VO 31
+SP 1
+OP 46
+IS 1
+
+RT Conference Proceedings
+ID 39243843
+A1 Aguiar,Edilson,de
+A1 Stoll,Carsten
+A1 Theobalt,Christian
+A1 Ahmed,Naveed
+A1 Seidel,Hans-Peter
+A1 Thrun,Sebastian
+YR 2008
+T1 Performance capture from sparse multi-view video
+SP 1
+OP 10
+
+RT Journal Article
+ID 6076959
+A1 Wang,Chieh-chih
+A1 Thorpe,Charles,E.
+A1 Thrun,Sebastian
+A1 Hebert,Martial
+A1 Durrant-whyte,Hugh,F.
+YR 2007
+T1 Simultaneous Localization, Mapping and Moving Object Tracking
+JF International Journal of Robotic Research
+VO 26
+SP 889
+OP 916
+IS 9
+
+RT Conference Proceedings
+ID 4329161
+A1 Levinson,Jesse
+A1 Montemerlo,Michael
+A1 Thrun,Sebastian
+YR 2007
+T1 Map-Based Precision Vehicle Localization in Urban Environments
+
+RT Conference Proceedings
+ID 4539688
+A1 Hoffmann,Gabriel,M.
+A1 Tomlin,Claire,J.
+A1 Montemerlo,Michael
+A1 Thrun,Sebastian
+YR 2007
+T1 Autonomous Automobile Trajectory Tracking for Off-Road Driving: Controller Design, Experimental Validation and Racing
+SP 2296
+OP 2301
+
+RT Journal Article
+ID 4389403
+A1 Lookingbill,Andrew
+A1 Rogers,Jim
+A1 Lieb,David
+A1 Curry,J.
+A1 Thrun,Sebastian
+YR 2007
+T1 Reverse Optical Flow for Self-Supervised Adaptive Autonomous Robot Navigation
+JF International Journal of Computer Vision
+VO 74
+SP 287
+OP 302
+IS 3
+
+RT Book, Whole
+ID 4266720
+A1 Biswas,Rahul
+A1 Thrun,Sebastian
+A1 Fujimura,Kikuo
+YR 2007
+T1 Recognizing Activities with Multiple Cues
+SP 255
+OP 270
+
+RT Conference Proceedings
+ID 2446552
+A1 Stavens,David
+A1 Hoffmann,Gabriel
+A1 Thrun,Sebastian
+YR 2007
+T1 Online Speed Adaptation Using Supervised Learning for High-Speed, Off-Road Autonomous Driving
+SP 2218
+OP 2224
+
+RT Journal Article
+ID 6076964
+A1 Matsuoka,Masayoshi
+A1 Chen,Alan
+A1 Singh,Surya,P.,N.
+A1 Coates,Adam
+A1 Ng,Andrew,Y.
+A1 Thrun,Sebastian
+YR 2007
+T1 Autonomous Helicopter Tracking and Localization Using a Self-surveying Camera Array
+JF International Journal of Robotic Research
+VO 26
+SP 205
+OP 215
+IS 2
+
+RT Journal Article
+ID 4361432
+A1 Thrun,Sebastian
+YR 2007
+T1 Why we compete in DARPA's Urban Challenge autonomous robot race
+JF Communications of The ACM
+VO 50
+SP 29
+OP 31
+IS 10
+
+RT Conference Proceedings
+ID 4271349
+A1 Loewke,Kevin,E.
+A1 Camarillo,David,B.
+A1 Salisbury,Kenneth
+A1 Thrun,Sebastian
+YR 2007
+T1 Deformable Image Mosaicing for Optical Biopsy
+SP 1
+OP 8
+
+RT Journal Article
+ID 13294645
+A1 Thrun,Sebastian
+A1 Brooks,Rodney,A.
+A1 Durrant-Whyte,Hugh,F.
+YR 2007
+T1 Robotics Research: Results of the 12th International Symposium, ISRR 2005, October 12-15, 2005, San Francisco, CA, USA
+
+RT Conference Proceedings
+ID 4258956
+A1 Thrun,Sebastian
+YR 2007
+T1 Self-Driving Cars - An AI-Robotics Challenge
+SP 12
+
+RT Journal Article
+ID 3791164
+A1 Thrun,Sebastian
+A1 Montemerlo,Michael
+A1 Dahlkamp,Hendrik
+A1 Stavens,David
+A1 Aron,Andrei
+A1 Diebel,James
+A1 Fong,Philip
+A1 Gale,John
+A1 Halpenny,Morgan
+A1 Hoffmann,Gabriel
+A1 Lau,Kenny
+A1 Oakley,Celia,M.
+A1 Palatucci,Mark
+A1 Pratt,Vaughan
+A1 Stang,Pascal
+A1 Strohband,Sven
+A1 Dupont,Cedric
+A1 Jendrossek,Lars-erik
+A1 Koelen,Christian
+A1 Markey,Charles
+A1 Rummel,Carlo
+A1 Niekerk,Joe,Van
+A1 Jensen,Eric
+A1 Alessandrini,Philippe
+A1 Bradski,Gary,R.
+A1 Davies,Bob
+A1 Ettinger,Scott
+A1 Kaehler,Adrian
+A1 Nefian,Ara,V.
+A1 Mahoney,Pamela
+YR 2006
+T1 Stanley: The robot that won the DARPA Grand Challenge
+JF Journal of Field Robotics
+VO 23
+SP 661
+OP 692
+IS 9
+
+RT Conference Proceedings
+ID 2380612
+A1 Dahlkamp,Hendrik
+A1 Kaehler,Adrian
+A1 Stavens,David
+A1 Thrun,Sebastian
+A1 Bradski,Gary,R.
+YR 2006
+T1 Self-supervised Monocular Road Detection in Desert Terrain
+
+RT Book, Whole
+ID 2467415
+A1 Thrun,Sebastian
+YR 2006
+T1 Winning the DARPA Grand Challenge
+SP 4
+
+RT Journal Article
+ID 2150151
+A1 Thrun,Sebastian
+A1 Montemerlo,Michael
+YR 2006
+T1 The Graph SLAM Algorithm with Applications to Large-Scale Mapping of Urban Structures
+JF International Journal of Robotic Research
+VO 25
+SP 403
+OP 429
+IS 5-6
+
+RT Journal Article
+ID 2150163
+A1 Gerkey,Brian,P.
+A1 Thrun,Sebastian
+A1 Gordon,Geoffrey,J.
+YR 2006
+T1 Visibility-based Pursuit-evasion with Limited Field of View
+JF International Journal of Robotic Research
+VO 25
+SP 299
+OP 315
+IS 4
+
+RT Conference Proceedings
+ID 2378869
+A1 Thrun,Sebastian
+A1 Montemerlo,Michael
+A1 Aron,Andrei
+YR 2006
+T1 Probabilistic Terrain Analysis For High-Speed Desert Driving
+
+RT Journal Article
+ID 2505751
+A1 Pineau,Joelle
+A1 Gordon,Geoffrey,J.
+A1 Thrun,Sebastian
+YR 2006
+T1 Anytime Point-Based Approximations for Large POMDPs
+JF Journal of Artificial Intelligence Research
+VO 27
+SP 335
+OP 380
+
+RT Conference Proceedings
+ID 2165234
+A1 Montemerlo,Michael
+A1 Thrun,Sebastian
+A1 Dahlkamp,Hendrik
+A1 Stavens,David
+A1 Strohband,Sven
+YR 2006
+T1 Winning the DARPA Grand Challenge with an AI Robot
+
+RT Conference Proceedings
+ID 4281220
+A1 Petrovskaya,Anna
+A1 Khatib,Oussama
+A1 Thrun,Sebastian
+A1 Ng,Andrew,Y.
+YR 2006
+T1 Bayesian Estimation for Autonomous Object Manipulation based on Tactile Sensors
+SP 707
+OP 714
+
+RT Journal Article
+ID 2175082
+A1 Diebel,James,R.
+A1 Thrun,Sebastian
+A1 Brünig,Michael
+YR 2006
+T1 A Bayesian method for probable surface reconstruction and decimation
+JF ACM Transactions on Graphics
+VO 25
+SP 39
+OP 59
+IS 1
+
+RT Conference Proceedings
+ID 2474723
+A1 Stavens,David
+A1 Thrun,Sebastian
+YR 2006
+T1 A Self-Supervised Terrain Roughness Estimator for Off-Road Autonomous Driving
+
+RT Conference Proceedings
+ID 2483777
+A1 Schumitsch,Brad
+A1 Thrun,Sebastian
+A1 Guibas,Leonidas,J.
+A1 Olukotun,Kunle
+YR 2006
+T1 The Identity Management Kalman Filter (IMKF)
+
+RT Book, Whole
+ID 48477555
+A1 Thrun,Sebastian
+YR 2006
+T1 Simultaneous Localization and Mapping
+
+RT Conference Proceedings
+ID 2461323
+A1 Thrun,Sebastian
+YR 2006
+T1 Winning the DARPA Grand Challenge: A Robot Race through the Mojave Desert
+SP 11
+OP 11
+
+RT Journal Article
+ID 27100778
+A1 Thrun,Sebastian
+YR 2006
+T1 Teaching Challenge
+JF IEEE Robotics & Automation Magazine
+VO 13
+SP 12
+OP 14
+IS 4
+
+RT Journal Article
+ID 2150180
+A1 Asama,Hajime
+A1 Prassler,Erwin
+A1 Thrun,Sebastian
+A1 Zelinsky,Alexander
+YR 2006
+T1 Editorial: Special Issue on the Fourth International Conference on Field and Service Robotics, 2003
+JF International Journal of Robotic Research
+VO 25
+SP 3
+OP 5
+IS 1
+
+RT Journal Article
+ID 13294755
+A1 Yuta,Shin'ichi
+A1 Asama,Hajime
+A1 Thrun,Sebastian
+A1 Prassler,Erwin
+A1 Tsubouchi,Takashi
+YR 2006
+T1 Field and Service Robotics, Recent Advances in Reserch and Applications, FSR 2003, Lake Yamanaka, Japan, 14-16 July 2003
+
+RT Journal Article
+ID 39310550
+A1 Thrun,Sebastian
+YR 2006
+T1 A Personal Account of the Development of Stanley, the Robot That Won the DARPA Grand Challenge
+JF Ai Magazine
+VO 27
+SP 69
+OP 82
+IS 4
+
+RT Book, Whole
+ID 4298050
+A1 Thrun,Sebastian
+YR 2006
+T1 1996-2006 Autonomous Robots
+SP 449
+OP 450
+
+RT Book, Whole
+ID 776271
+A1 Thrun,Sebastian
+A1 Burgard,Wolfram
+A1 Fox,Dieter
+YR 2005
+T1 Probabilistic Robotics
+SP 52
+OP 57
+
+RT Conference Proceedings
+ID 1783829
+A1 Likhachev,Maxim
+A1 Ferguson,David,I.
+A1 Gordon,Geoffrey,J.
+A1 Stentz,Anthony
+A1 Thrun,Sebastian
+YR 2005
+T1 Anytime Dynamic A*: An Anytime, Replanning Algorithm
+SP 262
+OP 271
+
+RT Journal Article
+ID 1709820
+A1 Anguelov,Dragomir
+A1 Srinivasan,Praveen
+A1 Koller,Daphne
+A1 Thrun,Sebastian
+A1 Rodgers,Jim
+A1 Davis,James
+YR 2005
+T1 SCAPE: shape completion and animation of people
+JF ACM Transactions on Graphics
+VO 24
+SP 408
+OP 416
+IS 3
+
+RT Journal Article
+ID 4115413
+A1 Choset,Howie
+A1 Lynch,Kevin,M.
+A1 Hutchinson,Seth
+A1 Kantor,George
+A1 Burgard,Wol,Fram
+A1 Kavraki,Lydia,E.
+A1 Thrun,Sebastian
+YR 2005
+T1 Principles of Robot Motion
+
+RT Conference Proceedings
+ID 1811857
+A1 Diebel,James
+A1 Thrun,Sebastian
+YR 2005
+T1 An Application of Markov Random Fields to Range Sensing
+
+RT Journal Article
+ID 2150113
+A1 Bennewitz,Maren
+A1 Burgard,Wolfram
+A1 Cielniak,Grzegorz
+A1 Thrun,Sebastian
+YR 2005
+T1 Learning Motion Patterns of People for Compliant Robot Motion
+JF International Journal of Robotic Research
+VO 24
+SP 31
+OP 48
+IS 1
+
+RT Journal Article
+ID 1716311
+A1 Roy,Nicholas
+A1 Gordon,Geoffrey,J.
+A1 Thrun,Sebastian
+YR 2005
+T1 Finding Approximate POMDP solutions Through Belief Compression
+JF Journal of Artificial Intelligence Research
+VO 23
+SP 1
+OP 40
+
+RT Journal Article
+ID 2148448
+A1 Choset,H.
+A1 Lynch,K.
+A1 Hutchinson,S.
+A1 Kantor,G.
+A1 Burgard,W.
+A1 Kavraki,L.
+A1 Thrun,S.
+YR 2005
+T1 Principles of Robot Motion: Theory
+
+RT Conference Proceedings
+ID 2483794
+A1 Lieb,David
+A1 Lookingbill,Andrew
+A1 Thrun,Sebastian
+YR 2005
+T1 Adaptive Road Following using Self-Supervised Learning and Reverse Optical Flow
+SP 273
+OP 280
+
+RT Conference Proceedings
+ID 1796686
+A1 Thrun,Sebastian
+A1 Wegbreit,Ben
+YR 2005
+T1 Shape from Symmetry
+VO 2
+SP 1824
+OP 1831
+
+RT Journal Article
+ID 1240599
+A1 Park,Sungwoo
+A1 Pfenning,Frank
+A1 Thrun,Sebastian
+YR 2005
+T1 A probabilistic language based upon sampling functions
+JF Sigplan Notices
+VO 40
+SP 171
+OP 182
+IS 1
+
+RT Conference Proceedings
+ID 2483733
+A1 Abbeel,Pieter
+A1 Coates,Adam
+A1 Montemerlo,Michael
+A1 Ng,Andrew,Y.
+A1 Thrun,Sebastian
+YR 2005
+T1 Discriminative Training of Kalman Filters
+SP 289
+OP 296
+
+RT Conference Proceedings
+ID 1811807
+A1 Thrun,Sebastian
+YR 2005
+T1 Affine Structure From Sound
+
+RT Conference Proceedings
+ID 2396409
+A1 Emery-montemerlo,Rosemary
+A1 Gordon,Geoffrey,J.
+A1 Schneider,Jeff,G.
+A1 Thrun,Sebastian
+YR 2005
+T1 Game Theoretic Control for Robot Teams
+SP 1163
+OP 1169
+
+RT Conference Proceedings
+ID 3872969
+A1 Anguelov,D.
+A1 Srinivasan,P.
+A1 Koller,D.
+A1 Thrun,S.
+A1 Pang,H.
+A1 Davis,J.
+YR 2005
+T1 The correlated correspondence algorithm for un-supervised registration of nonrigid surfaces
+
+RT Conference Proceedings
+ID 1811779
+A1 Schumitsch,Brad
+A1 Thrun,Sebastian
+A1 Bradski,Gary,R.
+A1 Olukotun,Kunle
+YR 2005
+T1 The Information-Form Data Association Filter
+
+RT Conference Proceedings
+ID 1806957
+A1 Shin,Jaewon
+A1 Lee,Nelson
+A1 Thrun,Sebastian
+A1 Guibas,Leonidas,J.
+YR 2005
+T1 Lazy inference on object identities in wireless sensor networks
+SP 174
+OP 180
+
+RT Conference Proceedings
+ID 3315310
+A1 Lookingbill,Andrew
+A1 Lieb,David
+A1 Stavens,David
+A1 Thrun,Sebastian
+YR 2005
+T1 Learning Activity-Based Ground Models from a Moving Helicopter Platform
+SP 3948
+OP 3953
+
+RT Journal Article
+ID 2764440
+A1 Thrun,Sebastian
+A1 Thayer,Scott
+A1 Whittaker,William
+A1 Baker,Christopher
+A1 Burgard,Wolfram
+A1 Ferguson,David
+A1 Montemerlo,Michael
+A1 Morris,Aaron
+A1 Omohundro,Zachary
+A1 Reverte,Charlie
+A1 Whittaker,Warren
+YR 2005
+T1 Autonomous Exploration and Mapping of Abandoned Mines
+
+RT Conference Proceedings
+ID 2474562
+A1 Paskin,Mark
+A1 Thrun,Sebastian
+YR 2005
+T1 Robotic Mapping with Polygonal Random Fields
+SP 450
+OP 458
+
+RT Conference Proceedings
+ID 4280456
+A1 Patel,Kayur
+A1 Macklem,Walter
+A1 Thrun,Sebastian
+A1 Montemerlo,Michael
+YR 2005
+T1 Active Sensing for High-Speed Offroad Driving
+SP 3162
+OP 3168
+
+RT Journal Article
+ID 12653308
+A1 Verma,Vandi
+A1 GORDON,GEOFF
+A1 SIMMONS,REID
+A1 THRUN,SEBASTIAN
+YR 2005
+T1 Tractable particle filters for robot fault diagnosis
+
+RT Book, Whole
+ID 2764473
+A1 Matsuoka,Masayoshi
+A1 Chen,Alan
+A1 Singh,Surya,P.,N.
+A1 Coates,Adam
+A1 Ng,Andrew,Y.
+A1 Thrun,Sebastian
+YR 2005
+T1 Autonomous Helicopter Tracking and Localization Using a Self-Surveying Camera Array
+JF International Journal of Robotic Research
+SP 19
+OP 30
+
+RT Book, Whole
+ID 4352355
+A1 Kaestner,Ralf
+A1 Thrun,Sebastian
+A1 Montemerlo,Michael
+A1 Whalley,Matt
+YR 2005
+T1 A Non-rigid Approach to Scan Alignment and Change Detection Using Range Sensor Data
+SP 179
+OP 194
+
+RT Conference Proceedings
+ID 1782562
+A1 Biswas,Rahul
+A1 Thrun,Sebastian
+YR 2005
+T1 A Distributed Approach to Passive Localization for Sensor Networks
+SP 1248
+OP 1253
+
+RT Book, Whole
+ID 1764607
+A1 Thrun,Sebastian
+YR 2005
+T1 175 Miles Through the Desert
+SP 17
+
+RT Journal Article
+ID 39241423
+A1 Anguelov,Dragomir
+A1 Srinivasan,Praveen
+A1 Koller,Daphne
+A1 Thrun,Sebastian
+A1 Rodgers,Jim
+A1 Davis,James
+YR 2005
+T1 SCAPE: shape completion and animation of people
+SP 408
+OP 416
+
+RT Journal Article
+ID 39219291
+A1 Park,Sungwoo
+A1 Pfenning,Frank
+A1 Thrun,Sebastian
+YR 2005
+T1 A probabilistic language based upon sampling functions
+JF Sigplan Notices
+SP 171
+OP 182
+
+RT Conference Proceedings
+ID 13307074
+A1 Thrun,Sebastian
+A1 Sukhatme,Gaurav,S.
+A1 Schaal,Stefan
+YR 2005
+T1 Robotics: Science and Systems I, June 8-11, 2005, Massachusetts Institute of Technology, Cambridge, Massachusetts
+
+RT Journal Article
+ID 2150061
+A1 Thrun,Sebastian
+A1 Liu,Yufeng
+A1 Koller,Daphne
+A1 Ng,Andrew,Y.
+A1 Ghahramani,Zoubin
+A1 Durrant-whyte,Hugh,F.
+YR 2004
+T1 Simultaneous Localization and Mapping with Sparse Extended Information Filters
+JF International Journal of Robotic Research
+VO 23
+SP 693
+OP 716
+IS 7-8
+
+RT Conference Proceedings
+ID 2137889
+A1 Nüchter,Andreas
+A1 Surmann,Hartmut
+A1 Lingemann,Kai
+A1 Hertzberg,Joachim
+A1 Thrun,Sebastian
+YR 2004
+T1 6D SLAM with an Application in Autonomous Mine Mapping
+VO 2
+SP 1998
+OP 2003
+
+RT Journal Article
+ID 2300459
+A1 Thrun,S.
+A1 Montemerlo,M.
+A1 Koller,D.
+A1 Wegbreit,B.
+A1 Nieto,J.
+A1 Nebot,E.
+YR 2004
+T1 FastSLAM: An efficient solution to the simultaneous localization and mapping problem with unknown data association
+JF Journal of Machine Learning Research
+
+RT Conference Proceedings
+ID 1235723
+A1 Emery-Montemerlo,Rosemary
+A1 Gordon,Geoffrey,J.
+A1 Schneider,Jeff,G.
+A1 Thrun,Sebastian
+YR 2004
+T1 Approximate Solutions for Partially Observable Stochastic Games with Common Payoffs
+SP 136
+OP 143
+
+RT Journal Article
+ID 2128339
+A1 Thrun,Sebastian
+YR 2004
+T1 Toward a Framework for Human-Robot Interaction
+JF Human-computer Interaction
+VO 19
+SP 9
+OP 24
+IS 1
+
+RT Conference Proceedings
+ID 2368886
+A1 Anguelov,Dragomir
+A1 Koller,Daphne
+A1 Parker,Evan
+A1 Thrun,Sebastian
+YR 2004
+T1 Detecting and Modeling Doors with Mobile Robots
+VO 4
+SP 3777
+OP 3784
+
+RT Journal Article
+ID 1653509
+A1 VERMA,VANDI
+A1 GORDON,GEOFF
+A1 SIMMONS,REID
+A1 THRUN,SEBASTIAN
+YR 2004
+T1 Real-time fault diagnosis [robot fault diagnosis]
+JF IEEE Robotics & Automation Magazine
+VO 11
+SP 56
+OP 66
+IS 2
+
+RT Conference Proceedings
+ID 1782472
+A1 Gerkey,Brian,P.
+A1 Thrun,Sebastian
+A1 Gordon,Geoffrey,J.
+YR 2004
+T1 Visibility-Based Pursuit-Evasion with Limited Field of View
+SP 20
+OP 27
+
+RT Conference Proceedings
+ID 1782385
+A1 Montemerlo,Michael
+A1 Thrun,Sebastian
+YR 2004
+T1 A Multi-Resolution Pyramid for Outdoor Robot Terrain Perception
+SP 464
+OP 469
+
+RT Conference Proceedings
+ID 1811652
+A1 Anguelov,Dragomir
+A1 Srinivasan,Praveen
+A1 Pang,Hoi-cheung
+A1 Koller,Daphne
+A1 Thrun,Sebastian
+A1 Davis,James
+YR 2004
+T1 The Correlated Correspondence Algorithm for Unsupervised Registration of Nonrigid Surfaces
+
+RT Conference Proceedings
+ID 2474607
+A1 Anguelov,Dragomir
+A1 Koller,Daphne
+A1 Pang,Hoi-Cheung
+A1 Srinivasan,Praveen
+A1 Thrun,Sebastian
+YR 2004
+T1 Recovering Articulated Object Models from 3D Range Data
+SP 18
+OP 26
+
+RT Conference Proceedings
+ID 908392
+A1 Rosencrantz,Matthew
+A1 Gordon,Geoffrey,J.
+A1 Thrun,Sebastian
+YR 2004
+T1 Learning low dimensional predictive representations
+SP 88
+
+RT Book, Whole
+ID 3310108
+A1 Montemerlo,Michael
+A1 Thrun,Sebastian
+YR 2004
+T1 Large-Scale Robotic 3-D Mapping of Urban Structures
+SP 141
+OP 150
+
+RT Journal Article
+ID 1653544
+A1 THRUN,SEBASTIAN
+A1 THAYER,SCOTT
+A1 WHITTAKER,WILLIAM
+A1 BAKER,CHRISTOPHER
+A1 BURGARD,WOLFRAM
+A1 FERGUSON,DAVID
+A1 HÄHNEL,DIRK
+A1 Montemerlo,D.
+A1 MORRIS,AARON
+A1 OMOHUNDRO,ZACHARY
+A1 REVERTE,CHARLIE
+A1 WHITTAKER,WARREN
+YR 2004
+T1 Autonomous exploration and mapping of abandoned mines
+JF IEEE Robotics & Automation Magazine
+VO 11
+SP 79
+OP 91
+IS 4
+
+RT Conference Proceedings
+ID 893027
+A1 Biswas,Rahul
+A1 Thrun,Sebastian
+A1 Guibas,Leonidas,J.
+YR 2004
+T1 A probabilistic approach to inference with limited information in sensor networks
+SP 269
+OP 276
+
+RT Journal Article
+ID 1664584
+A1 Thrun,Sebastian
+A1 Martin,Christian
+A1 Liu,Yufeng
+A1 Hähnel,Dirk
+A1 Emery-Montemerlo,Rosemary
+A1 Chakrabarti,Deepayan
+A1 Burgard,Wolfram
+YR 2004
+T1 A real-time expectation-maximization algorithm for acquiring multiplanar maps of indoor environments with mobile robots
+JF IEEE Transactions on Robotics and Automation
+VO 20
+SP 433
+OP 443
+IS 3
+
+RT Conference Proceedings
+ID 2546395
+A1 Baker,Christopher
+A1 Morris,Aaron
+A1 Ferguson,David,I.
+A1 Thayer,Scott
+A1 Whittaker,Warren
+A1 Omohundro,Zachary
+A1 Reverte,Carlos,F.
+A1 Hähnel,Dirk
+A1 Thrun,Sebastian
+YR 2004
+T1 A Campaign in Autonomous Mine Mapping
+VO 2
+SP 2004
+OP 2009
+
+RT Journal Article
+ID 4576513
+A1 Verma,Vandi
+A1 Gordon,Geoff
+A1 Simmons,Reid
+A1 Thrun,Sebastian
+YR 2004
+T1 Particle Filters for Rover Fault Diagnosis
+
+RT Journal Article
+ID 10632016
+A1 Dearden,Richard
+A1 Willeke,Thomas
+A1 Simmons,R.
+A1 Verma,V.
+A1 Hutter,F.
+A1 Thrun,Sebastian
+YR 2004
+T1 Real-time fault detection and situational awareness for rovers: report on the Mars technology program task
+VO 2
+SP 826
+
+RT Conference Proceedings
+ID 3748541
+A1 Diebel,J.
+A1 Reutersward,K.
+A1 Thrun,S.
+A1 Davis,J.
+A1 Gupta,R.
+YR 2004
+T1 Simultaneous localization and mapping with active stereo vision
+
+RT Conference Proceedings
+ID 2309415
+A1 Glover,Jared
+A1 Thrun,Sebastian
+A1 Matthews,Judith,T.
+YR 2004
+T1 Learning User Models of Mobility-related Activities through Instrumented Walking Aids
+VO 4
+SP 3306
+OP 3312
+
+RT Conference Proceedings
+ID 2838118
+A1 Gerkey,B.
+A1 Thrun,S.
+A1 Gordon,G.
+YR 2004
+T1 Clear the building: Pursuit-evasion with teams of robots
+
+RT Conference Proceedings
+ID 11665651
+A1 Biswas,Rahul
+A1 Thrun,Sebastian
+YR 2004
+T1 A passive approach to sensor network localization
+
+RT Conference Proceedings
+ID 1811496
+A1 Likhachev,Maxim
+A1 Gordon,Geoffrey,J.
+A1 Thrun,Sebastian
+YR 2004
+T1 Planning for Markov Decision Processes with Sparse Stochasticity
+
+RT Journal Article
+ID 2405715
+A1 Choset,H.
+A1 Lynch,K.,M.
+A1 Kavraki,L.
+A1 Burgard,W.
+A1 Hutchinson,S.,A.
+A1 Kantor,G.
+A1 Thrun,S.
+YR 2004
+T1 Robotic Motion Planning: Foundations and Implementation
+
+RT Journal Article
+ID 2288718
+A1 Dixon,Kevin,R.
+A1 Khosla,Pradeep,K.
+A1 Krogh,Bruce,H.
+A1 Mataric,Maja,J.
+A1 Paredis,Christiaan,J.,J.
+A1 Thrun,Sebastian,B.
+YR 2004
+T1 Inferring User Intent for Learning by Observation
+
+RT Journal Article
+ID 4558371
+A1 THRUN,SEBASTIAN
+A1 THAYER,SCOTT
+A1 WHITTAKER,WILLIAM
+A1 BAKER,CHRISTOPHER
+A1 BURGARD,WOLFRAM
+A1 FERGUSON,DAVID
+A1 HÄHNEL,DIRK
+A1 MONTEMERLO,MICHAEL
+A1 MORRIS,AARON
+A1 OMOHUNDRO,ZACHARY
+A1 REVERTE,CHARLIE
+A1 WHITTAKER,WARREN
+YR 2004
+T1 Software Architecture of an Autonomous Robotic System
+
+RT Conference Proceedings
+ID 13298684
+A1 Thrun,Sebastian
+A1 Saul,Lawrence,K.
+A1 Schölkopf,Bernhard
+YR 2004
+T1 Advances in Neural Information Processing Systems 16 [Neural Information Processing Systems, NIPS 2003, December 8-13, 2003, Vancouver and Whistler, British Columbia, Canada]
+
+RT Conference Proceedings
+ID 50360461
+A1 Biswas,Rahul
+A1 Thrun,Sebastian
+A1 Guibas,Leonidas,J.
+YR 2004
+T1 A probabilistic approach to inference with limited information in sensor networks
+
+RT Conference Proceedings
+ID 50383906
+A1 Emery-Montemerlo,Rosemary
+A1 Gordon,Geoff
+A1 Schneider,Jeff
+A1 Thrun,Sebastian
+YR 2004
+T1 Approximate solutions for partially observable stochastic games with common payoffs
+
+RT Conference Proceedings
+ID 34357
+A1 Pineau,Joelle
+A1 Gordon,Geoffrey,J.
+A1 Thrun,Sebastian
+YR 2003
+T1 Point-based value iteration: An anytime algorithm for POMDPs
+SP 1025
+OP 1032
+
+RT Conference Proceedings
+ID 53380
+A1 Monternerlo,Michael
+A1 Thrun,Sebastian
+YR 2003
+T1 Simultaneous localization and mapping with unknown data association using fastSLAM
+VO 2
+SP 1985
+OP 1991
+
+RT Conference Proceedings
+ID 2050428
+A1 Hahnel,D.
+A1 Burgard,Wolfram
+A1 Fox,Dieter
+A1 Thrun,Sebastian
+YR 2003
+T1 An efficient fastSLAM algorithm for generating maps of large-scale cyclic environments from raw laser range measurements
+
+RT Conference Proceedings
+ID 2077979
+A1 Montemerlo,Michael
+A1 Roy,Nicholas
+A1 Thrun,Sebastian
+YR 2003
+T1 Perspectives on standardization in mobile robot programming: the Carnegie Mellon Navigation (CARMEN) Toolkit
+
+RT Conference Proceedings
+ID 616395
+A1 Montemerlo,Michael
+A1 Thrun,Sebastian
+A1 Koller,Daphne
+A1 Wegbreit,Ben
+YR 2003
+T1 FastSLAM 2.0: An Improved Particle Filtering Algorithm for Simultaneous Localization and Mapping that Provably Converges
+SP 1151
+OP 1156
+
+RT Journal Article
+ID 2056339
+A1 Pineau,Joelle
+A1 Montemerlo,Michael
+A1 Pollack,Martha,E.
+A1 Roy,Nicholas
+A1 Thrun,Sebastian
+YR 2003
+T1 Towards robotic assistants in nursing homes: Challenges and results
+JF Robotics and Autonomous Systems
+VO 42
+SP 271
+OP 281
+IS 3-4
+
+RT Conference Proceedings
+ID 34134
+A1 Wang,Chieh-chih
+A1 Thorpe,Charles,E.
+A1 Thrun,Sebastian
+YR 2003
+T1 Online simultaneous localization and mapping with detection and tracking of moving objects: theory and results from a ground vehicle in crowded urban areas
+VO 1
+SP 842
+OP 849
+
+RT Journal Article
+ID 1753040
+A1 Hähnel,Dirk
+A1 Burgard,Wolfram
+A1 Thrun,Sebastian
+YR 2003
+T1 Learning compact 3D models of indoor and outdoor environments with a mobile robot
+JF Robotics and Autonomous Systems
+VO 44
+SP 15
+OP 27
+IS 1
+
+RT Conference Proceedings
+ID 21102
+A1 Rosencrantz,Matthew
+A1 Gordon,Geoffrey,J.
+A1 Thrun,Sebastian
+YR 2003
+T1 Decentralized Sensor Fusion with Distributed Particle Filters
+SP 493
+OP 500
+
+RT Book, Whole
+ID 2128494
+A1 Hähnel,Dirk
+A1 Thrun,Sebastian
+A1 Wegbreit,Ben
+A1 Burgard,Wolfram
+YR 2003
+T1 Towards Lazy Data Association in SLAM
+JF International Journal of Robotic Research
+SP 421
+OP 431
+
+RT Conference Proceedings
+ID 1811291
+A1 Likhachev,Maxim
+A1 Gordon,Geoffrey,J.
+A1 Thrun,Sebastian
+YR 2003
+T1 ARA*: Anytime A* with Provable Bounds on SubOptimality
+
+RT Journal Article
+ID 858720
+A1 Thrun,Sebastian
+YR 2003
+T1 Learning Occupancy Grid Maps with Forward Sensor Models
+JF Autonomous Robots
+VO 15
+SP 111
+OP 127
+IS 2
+
+RT Conference Proceedings
+ID 48537
+A1 Hahneltt,Dirk
+A1 Triebelt,Rudolph
+A1 Burgard,Wolfram
+A1 Thrun,Sebastian
+YR 2003
+T1 Map building with mobile robots in dynamic environments
+VO 2
+SP 1557
+OP 1563
+
+RT Conference Proceedings
+ID 13939
+A1 Rosencrantz,Matthew
+A1 Gordon,Geoffrey,J.
+A1 Thrun,Sebastian
+YR 2003
+T1 Locating moving entities in indoor environments with teams of mobile robots
+SP 233
+OP 240
+
+RT Conference Proceedings
+ID 538884
+A1 Liu,Yufeng
+A1 Thrun,Sebastian
+YR 2003
+T1 Results for outdoor-SLAM using sparse extended information filters
+VO 1
+SP 1227
+OP 1233
+
+RT Conference Proceedings
+ID 2063062
+A1 Haehnel,D.
+A1 Burgard,W.
+A1 Fox,D.
+A1 Thrun,S.
+YR 2003
+T1 A highly efficient FastSLAM algorithm for generating cyclic maps of large-scale environ-ments from raw laser range measurements
+
+RT Conference Proceedings
+ID 52023
+A1 Morris,Aaron
+A1 Donamukkala,Raghavendra
+A1 Kapuria,Anuj
+A1 Steinfeld,Aaron
+A1 Matthews,Judith,T.
+A1 Dunbar-jacobs,Jacqueline
+A1 Thrun,Sebastian
+YR 2003
+T1 A Robotic Walker that Provides Guidance
+VO 1
+SP 25
+OP 30
+
+RT Book, Whole
+ID 3422278
+A1 Thrun,Sebastian
+A1 Liu,Yufeng
+YR 2003
+T1 Multi-robot SLAM with Sparse Extended Information Filers
+SP 254
+OP 266
+
+RT Journal Article
+ID 709132
+A1 Dellaert,Frank
+A1 Seitz,Steven,M.
+A1 Thorpe,Charles,E.
+A1 Thrun,Sebastian
+YR 2003
+T1 EM, MCMC, and Chain Flipping for Structure from Motion with Unknown Correspondence
+JF Machine Learning
+VO 50
+SP 45
+OP 71
+IS 1-2
+
+RT Journal Article
+ID 6788988
+A1 Rosencrantz,Matthew
+A1 Gordon,Geoffrey
+A1 Thrun,Sebastian
+YR 2003
+T1 Locating Moving Entities in Dynamic Indoor Environments with Teams of Mobile Robots
+
+RT Book, Whole
+ID 3709926
+A1 Thrun,Sebastian
+A1 Diel,Mark
+A1 Hähnel,Dirk
+YR 2003
+T1 Scan Alignment and 3-D Surface Modeling with a Helicopter Platform
+SP 287
+OP 297
+
+RT Conference Proceedings
+ID 26108
+A1 Nieto,Juan
+A1 Guivant,José,E.
+A1 Nebot,Eduardo,Mario
+A1 Thrun,Sebastian
+YR 2003
+T1 Real time data association for FastSLAM
+VO 1
+SP 412
+OP 418
+
+RT Conference Proceedings
+ID 616334
+A1 Verma,Vandi
+A1 Thrun,Sebastian
+A1 Simmons,Reid,G.
+YR 2003
+T1 Variable Resolution Particle Filter
+SP 976
+OP 984
+
+RT Conference Proceedings
+ID 2050430
+A1 Roy,N.
+A1 Montemerlo,M.
+A1 Thrun,S.
+YR 2003
+T1 Perspectives on standardization in mobile robot programming
+
+RT Conference Proceedings
+ID 1811219
+A1 Ferguson,David,I.
+A1 Morris,Aaron
+A1 Hähnel,Dirk
+A1 Baker,Christopher
+A1 Omohundro,Zachary
+A1 Reverte,Carlos,F.
+A1 Thayer,Scott
+A1 Whittaker,Charles
+A1 Whittaker,William
+A1 Burgard,Wolfram
+A1 Thrun,Sebastian
+YR 2003
+T1 An Autonomous Robotic System for Mapping Abandoned Mines
+
+RT Conference Proceedings
+ID 34408
+A1 Hähnel,Dirk
+A1 Thrun,Sebastian
+A1 Burgard,Wolfram
+YR 2003
+T1 An Extension of the ICP Algorithm for Modeling Nonrigid Objects with Mobile Robots
+SP 915
+OP 920
+
+RT Conference Proceedings
+ID 4286059
+A1 Thrun,Sebastian
+A1 Gordon,Geoffrey,J.
+A1 Pfenning,Frank
+A1 Berna,Mary
+A1 Sellner,Brennan
+A1 Lisien,Brad
+YR 2003
+T1 A Learning Algorithm for Localizing People Based on Wireless Signal Strength that Uses Labeled and Unlabeled Data
+SP 1427
+OP 1428
+
+RT Conference Proceedings
+ID 426201
+A1 Pineau,Joelle
+A1 Gordon,Geoffrey,J.
+A1 Thrun,Sebastian
+YR 2003
+T1 Policy-contingent abstraction for robust robot control
+SP 477
+OP 484
+
+RT Book, Whole
+ID 4352404
+A1 Baker,Christopher
+A1 Omohundro,Zachary
+A1 Thayer,Scott
+A1 Whittaker,William
+A1 Montemerlo,Michael
+A1 Thrun,Sebastian
+YR 2003
+T1 A Case Study in Robotic Mapping of Abandoned Mines
+SP 487
+OP 495
+
+RT Conference Proceedings
+ID 538335
+A1 Bennewitz,Maren
+A1 Burgard,Wolfram
+A1 Thrun,Sebastian
+YR 2003
+T1 Adapting navigation strategies using motions patterns of people
+VO 2
+SP 2000
+OP 2005
+
+RT Book, Whole
+ID 2927353
+A1 Nettleton,Eric
+A1 Thrun,Sebastian
+A1 Durrant-whyte,Hugh,F.
+A1 Sukkarieh,Salah
+YR 2003
+T1 Decentralised SLAM with Low-Bandwidth Communication for Teams of Vehicles
+SP 179
+OP 188
+
+RT Conference Proceedings
+ID 1811312
+A1 Bererton,Curt,A.
+A1 Gordon,Geoffrey,J.
+A1 Thrun,Sebastian
+YR 2003
+T1 Auction Mechanism Design for Multi-Robot Coordination
+
+RT Book, Whole
+ID 16047
+A1 Roy,Nicholas
+A1 Gordon,Geoffrey
+A1 Thrun,Sebastian
+YR 2003
+T1 Planning under Uncertainty for Reliable Health Care Robotics
+SP 417
+OP 426
+
+RT Journal Article
+ID 4005154
+A1 Thrun,Sebastian
+YR 2003
+T1 Towards A Framework for Human-Robot Interaction
+
+RT Journal Article
+ID 15228224
+A1 Thrun,Sebastian
+YR 2003
+T1 Learning Occupancy Grid Maps with Forward Sensor Models
+JF Autonomous Robots
+VO 15
+SP 111
+OP 127
+IS 2
+
+RT Conference Proceedings
+ID 17741
+A1 Pineau,Joelle
+A1 Gordon,Geoffrey,J.
+A1 Thrun,Sebastian
+YR 2003
+T1 Applying Metric-Trees to Belief-Point POMDPs
+
+RT Conference Proceedings
+ID 2814479
+A1 Baker,C.
+A1 Omohundro,Z.
+A1 Thayer,S.
+A1 Whittaker,W.
+A1 Montemerlo,M.
+A1 Thrun,S.
+YR 2003
+T1 Case Studies in Robotic Mine Mapping
+
+RT Journal Article
+ID 15222544
+A1 Dellaert,Frank
+A1 Seitz,Steven,M.
+A1 Thorpe,Charles,E.
+A1 Thrun,Sebastian
+YR 2003
+T1 EM, MCMC, and Chain Flipping for Structure from Motion with Unknown Correspondence
+JF Machine Learning
+VO 50
+SP 45
+OP 71
+IS 1
+
+RT Conference Proceedings
+ID 13298681
+A1 Becker,Suzanna
+A1 Thrun,Sebastian
+A1 Obermayer,Klaus
+YR 2003
+T1 Advances in Neural Information Processing Systems 15 [Neural Information Processing Systems, NIPS 2002, December 9-14, 2002, Vancouver, British Columbia, Canada]
+
+RT Journal Article
+ID 925250
+A1 Thrun,Sebastian
+YR 2002
+T1 Robotic Mapping: A Survey
+
+RT Conference Proceedings
+ID 56001
+A1 Montemerlo,Michael
+A1 Thrun,Sebastian
+A1 Koller,Daphne
+A1 Wegbreit,Ben
+YR 2002
+T1 FastSLAM: A Factored Solution to the Simultaneous Localization and Mapping Problem
+SP 593
+OP 598
+
+RT Conference Proceedings
+ID 13535
+A1 Montemerlo,Michael
+A1 Thrun,Sebastian
+A1 Whittaker,William
+YR 2002
+T1 Conditional Particle Filters for Simultaneous Mobile Robot Localization and People-Tracking
+SP 695
+OP 701
+
+RT Conference Proceedings
+ID 9737
+A1 Montemerlo,Michael
+A1 Pineau,Joelle
+A1 Roy,Nicholas
+A1 Thrun,Sebastian
+A1 Verma,Vandi
+YR 2002
+T1 Experiences with a Mobile Robotic Guide for the Elderly
+SP 587
+OP 592
+
+RT Journal Article
+ID 3748580
+A1 Thrun,S.
+A1 Koller,D.
+A1 Ghahramani,Z.
+A1 Durrant-whyte,H.
+A1 Ng,A.,Y.
+YR 2002
+T1 Simultaneous Mapping and Localization with Sparse Extended Information Filters
+
+RT Conference Proceedings
+ID 52604
+A1 Thrun,Sebastian
+YR 2002
+T1 Particle Filters in Robotics
+SP 511
+OP 518
+
+RT Journal Article
+ID 78983
+A1 Pollack,Martha,E.
+A1 Brown,Laura
+A1 Colbry,Dirk
+A1 Orosz,Cheryl
+A1 Peintner,Bart
+A1 Ramakrishnan,Sailesh
+A1 Engberg,Sandra
+A1 Matthews,Judith,T.
+A1 Dunbar-Jacob,Jacqueline
+A1 McCarthy,Colleen,E.
+A1 Thrun,Sebastian
+A1 Montemerlo,Michael
+A1 Pineau,Joelle
+A1 Roy,Nicholas
+YR 2002
+T1 Pearl: A Mobile Robotic Assistant for the Elderly
+
+RT Conference Proceedings
+ID 61020
+A1 Anguelov,Dragomir
+A1 Biswas,Rahul
+A1 Koller,Daphne
+A1 Limketkai,Benson
+A1 Thrun,Sebastian
+YR 2002
+T1 Learning Hierarchical Object Maps of Non-Stationary Environments with Mobile Robots
+SP 10
+OP 17
+
+RT Journal Article
+ID 47992
+A1 Bennewitz,Maren
+A1 Burgard,Wolfram
+A1 Thrun,Sebastian
+YR 2002
+T1 Finding and Optimizing Solvable Priority Schemes for Decoupled Path Planning Techniques for Teams of Mobile Robots
+JF Robotics and Autonomous Systems
+VO 41
+SP 89
+OP 99
+IS 2-3
+
+RT Conference Proceedings
+ID 54606
+A1 Martin,Christian
+A1 Thrun,Sebastian
+YR 2002
+T1 Real-Time Acquisition of Compact Volumetric 3D Maps with Mobile Robots
+SP 311
+OP 316
+
+RT Journal Article
+ID 425205
+A1 Thrun,Sebastian
+YR 2002
+T1 Learning Occupancy Grids With Forward Sensor Models
+JF Autonomous Robots
+
+RT Conference Proceedings
+ID 50540
+A1 Biswas,Rahul
+A1 Limketkai,Benson
+A1 Sanner,Scott
+A1 Thrun,Sebastian
+YR 2002
+T1 Towards object mapping in non-stationary environments with mobile robots
+
+RT Conference Proceedings
+ID 2032917
+A1 Martin,C.
+A1 Thrun,S.
+YR 2002
+T1 Online acquisition of compact volumetric maps with mobile robots
+
+RT Conference Proceedings
+ID 2384501
+A1 Biswas,R.
+A1 Limketkai,B.
+A1 Sanner,S.
+A1 Thrun,S.
+YR 2002
+T1 Towards object mapping in dynamic environments with mobile robots
+
+RT Conference Proceedings
+ID 2620971
+A1 Morris,Aaron
+A1 Donamukkala,Raghavendra
+A1 Kapuria,Anuj
+A1 Steinfeld,Aaron
+A1 Matthews,Judith,T.
+A1 Dunbar-Jacob,Jacqueline
+A1 Thrun,Sebastian
+YR 2002
+T1 A Robotic Walker That Provides Guidance
+
+RT Journal Article
+ID 2309831
+A1 Pineau,J.
+A1 Thrun,S.
+YR 2002
+T1 An integrated approach to hierarchy and abstraction for pomdps
+
+RT Journal Article
+ID 3752699
+A1 Thrun,Sebastian
+A1 Koller,Daphne
+A1 Ghahmarani,Zoubin
+A1 Durrant-Whyte,Hugh
+YR 2002
+T1 SLAM Updates Require Constant Time
+
+RT Conference Proceedings
+ID 51314
+A1 Avots,Dzintars
+A1 Lim,Edward
+A1 Thibaux,Romain
+A1 Thrun,Sebastian
+YR 2002
+T1 A probabilistic technique for simultaneous localization and door state estimation with mobile robots in dynamic environments
+
+RT Conference Proceedings
+ID 2636181
+A1 Montemerlo,M.
+A1 Ferguson,D.
+A1 Triebel,R.
+A1 Burgard,W.
+A1 Thrun,S.
+YR 2002
+T1 A system for volumetric robotic mapping of underground mines
+
+RT Journal Article
+ID 1348692
+A1 Montemerlo,M.
+A1 Roy,N.
+A1 Thrun,S.
+YR 2002
+T1 Carmen: carnegie mellon robot navigation toolkit
+
+RT Conference Proceedings
+ID 38099
+A1 Pineau,Joelle
+A1 Thrun,Sebastian
+YR 2002
+T1 High-level robot behavior control using POMDPs
+
+RT Journal Article
+ID 2690022
+A1 Majumder,S.
+A1 Durrant-whyte,H.
+A1 Thrun,S.
+A1 Battista,M.,De
+YR 2002
+T1 An approximate Bayesian method for simultaneous localisation and mapping
+
+RT Journal Article
+ID 2556938
+A1 Nettleton,E.
+A1 Thrun,S.
+A1 Durrant-whyte,H.
+YR 2002
+T1 A constant time communications algorithm for decentralised SLAM
+
+RT Journal Article
+ID 3850453
+A1 Nigam,K.
+A1 Mccallum,A.
+A1 Thrun,S.
+A1 Mitchell,T.,M.
+YR 2002
+T1 Text classification from labeled and unlabeled docu-ments using EM
+
+RT Conference Proceedings
+ID 3069798
+A1 Montemerlo,M.
+A1 Pineau,J
+A1 Roy,N.
+A1 Thrun,S.
+A1 Verma,V.
+YR 2002
+T1 Experiences with a Mobile Robotic Elderly Guide for the Elderly
+
+RT Conference Proceedings
+ID 50281929
+A1 Zalama,Eduardo
+A1 Candela,G.
+A1 Gomez,J.
+A1 Thrun,S.
+YR 2002
+T1 Concurrent mapping and localization for mobile robots with segmented local maps
+
+RT Book, Whole
+ID 4291297
+A1 Limketkai,Benson
+A1 Biswas,Rahul
+A1 Thrun,Sebastian
+YR 2002
+T1 Learning Occupancy Grids of Non-Stationary Objects with Mobile Robots
+SP 222
+OP 231
+
+RT Journal Article
+ID 61794
+A1 Thrun,Sebastian
+A1 Fox,Dieter
+A1 Burgard,Wolfram
+A1 Dellaert,Frank
+YR 2001
+T1 Robust Monte Carlo localization for mobile robots
+JF Artificial Intelligence
+VO 128
+SP 99
+OP 141
+IS 1-2
+
+RT Journal Article
+ID 2150093
+A1 Thrun,Sebastian
+YR 2001
+T1 A Probabilistic On-Line Mapping Algorithm for Teams of Mobile Robots
+JF International Journal of Robotic Research
+VO 20
+SP 335
+OP 363
+IS 5
+
+RT Journal Article
+ID 212940
+A1 Fox,Dieter
+A1 Thrun,Sebastian
+A1 Burgard,Wolfram
+A1 Dellaert,Frank
+YR 2001
+T1 Particle Filters for Mobile Robot Localization
+
+RT Conference Proceedings
+ID 531364
+A1 Liu,Yufeng
+A1 Emery,Rosemary
+A1 Chakrabarti,Deepayan
+A1 Burgard,Wolfram
+A1 Thrun,Sebastian
+YR 2001
+T1 Using EM to Learn 3D Models of Indoor Environments with Mobile Robots
+SP 329
+OP 336
+
+RT Conference Proceedings
+ID 101008
+A1 Liu,Yufeng
+A1 Emery,Rosemary
+A1 Chakrabarti,Deepayan
+A1 Burgard,Wolfram
+A1 Thrun,Sebastian
+YR 2001
+T1 Using EM to Learn 3D Environment Models with Mobile Robots
+
+RT Journal Article
+ID 4008579
+A1 Roy,Nicholas
+A1 Baltus,Gregory
+A1 Fox,Dieter
+A1 Gemperle,Francine
+A1 Goetz,Jennifer
+A1 Hirsch,Tad
+A1 Margaritis,Dimitris
+A1 Montemerlo,Mike
+A1 Pineau,Joelle
+A1 Schulte,Jamie
+A1 Thrun,Sebastian
+YR 2001
+T1 Towards Personal Service Robots for the Elderly
+
+RT Journal Article
+ID 422412
+A1 Thrun,Sebastian
+YR 2001
+T1 An Online Mapping Algorithm for Teams of Mobile Robots
+JF International Journal of Robotic Research
+
+RT Conference Proceedings
+ID 94703
+A1 Thrun,Sebastian
+A1 Langford,John
+A1 Verma,Vandi
+YR 2001
+T1 Risk Sensitive Particle Filters
+SP 961
+OP 968
+
+RT Conference Proceedings
+ID 55757
+A1 Thrun,Sebastian
+YR 2001
+T1 Learning occupancy grids with forward models
+
+RT Book, Whole
+ID 2032913
+A1 Durrant-whyte,Hugh,F.
+A1 Majumder,Somajyoti
+A1 Thrun,Sebastian
+A1 Battista,Marc,De
+A1 Scheding,Steve
+YR 2001
+T1 A Bayesian Algorithm for Simultaneous Localisation and Map Building
+SP 49
+OP 60
+
+RT Journal Article
+ID 28895
+A1 Pineau,Joelle
+A1 Roy,Nicholas
+A1 Thrun,Sebastian
+YR 2001
+T1 A Hierarchical Approach to POMDP Planning and Execution
+
+RT Conference Proceedings
+ID 129924
+A1 Bennewitzt,Maren
+A1 Burgardt,Wolfram
+A1 Thrun,Sebastian
+YR 2001
+T1 Optimizing Schedules for Prioritized Path Planning of Multi-Robot Systems
+VO 1
+SP 271
+OP 276
+
+RT Conference Proceedings
+ID 110067
+A1 Rosenberg,Charles,R.
+A1 Hebert,Martial
+A1 Thrun,Sebastian
+YR 2001
+T1 Color Constancy Using KL-Divergence
+SP 239
+OP 246
+
+RT Conference Proceedings
+ID 485068
+A1 Margaritis,Dimitris
+A1 Thrun,Sebastian
+YR 2001
+T1 A Bayesian Multiresolution Independence Test for Continuous Variables
+SP 346
+OP 353
+
+RT Conference Proceedings
+ID 128885
+A1 Margaritis,Dimitris
+A1 Faloutsos,Christos
+A1 Thrun,Sebastian
+YR 2001
+T1 NetCube: A Scalable Tool for Fast Data Mining and Compression
+SP 311
+OP 320
+
+RT Journal Article
+ID 2373856
+A1 Thrun,Sebastian
+YR 2001
+T1 Is Robotics Going Statistics? The Field of Probabilistic Robotics
+JF Communications of The ACM
+
+RT Conference Proceedings
+ID 41909
+A1 Bennewitzt,Maren
+A1 Burgardt,Wolfram
+A1 Thrun,Sebastian
+YR 2001
+T1 Exploiting constraints during prioritized path planning for teams of mobile robots
+
+RT Conference Proceedings
+ID 101400
+A1 Roy,Nicholas
+A1 Thrun,Sebastian
+YR 2001
+T1 Integrating value functions and policy search for continuous Markov Decision Processes
+
+RT Conference Proceedings
+ID 645842
+A1 Lita,Lucian,Vlad
+A1 Schulte,Jamieson
+A1 Thrun,Sebastian
+YR 2001
+T1 A system for multi-agent coordination in uncertain environments
+SP 21
+OP 22
+
+RT Journal Article
+ID 4554643
+A1 Schulte,Jamieson
+A1 Thrun,Sebastian
+YR 2001
+T1 A Heuristic Search Algorithm for Acting Optimally in Markov Decision Processes with Deterministic Hidden State
+
+RT Book, Whole
+ID 4351366
+A1 Thrun,Sebastian
+A1 Burgard,Wolfram
+A1 Chakrabarti,Deepayan
+A1 Emery,Rosemary
+A1 Liu,Yufeng
+A1 Martin,Christian
+YR 2001
+T1 A Real-time Algorithm for Acquiring Multi-Planar Volumetric Models with Mobile Robots
+SP 21
+OP 35
+
+RT Book, Whole
+ID 130501
+A1 Bennewitz,Maren
+A1 Burgard,Wolfram
+A1 Thrun,Sebastian
+YR 2001
+T1 Constraint-Based Optimization of Priority Schemes for Decoupled Path Planning Techniques
+SP 78
+OP 93
+
+RT Journal Article
+ID 709168
+A1 Nigam,Kamal
+A1 McCallum,Andrew,K.
+A1 Thrun,Sebastian
+A1 Mitchell,Tom,M.
+YR 2000
+T1 Text Classification from Labeled and Unlabeled Documents using EM
+JF Machine Learning
+VO 39
+SP 103
+OP 134
+IS 2/3
+
+RT Conference Proceedings
+ID 535611
+A1 Thrun,Sebastian
+A1 Burgard,Wolfram
+A1 Fox,Dieter
+YR 2000
+T1 A Real-Time Algorithm for Mobile Robot Mapping With Applications to Multi-Robot and 3D Mapping
+VO 1
+SP 321
+OP 328
+
+RT Journal Article
+ID 212142
+A1 Fox,Dieter
+A1 Burgard,Wolfram
+A1 Kruppa,Hannes
+A1 Thrun,Sebastian
+YR 2000
+T1 A Probabilistic Approach to Collaborative Multi-Robot Localization
+JF Autonomous Robots
+VO 8
+SP 325
+OP 344
+IS 3
+
+RT Conference Proceedings
+ID 235656
+A1 Burgardt,Wolfram
+A1 Moorstt,Mark
+A1 Fox,Dieter
+A1 Simmons,Reid,G.
+A1 Thrun,Sebastian
+YR 2000
+T1 Collaborative Multi-Robot Exploration
+VO 1
+SP 476
+OP 481
+
+RT Journal Article
+ID 61473
+A1 Thrun,Sebastian
+A1 Beetz,Michael
+A1 Bennewitz,Maren
+A1 Burgard,Wolfram
+A1 Cremers,Armin,B.
+A1 Dellaert,Frank
+A1 Fox,Dieter
+A1 Hähnel,Dirk
+A1 Rosenberg,Charles,R.
+A1 Roy,Nicholas
+A1 Schulte,Jamieson
+A1 Schulz,Dirk
+YR 2000
+T1 Probabilistic Algorithms and the Interactive Museum Tour-Guide Robot Minerva
+JF International Journal of Robotic Research
+VO 19
+SP 972
+OP 999
+IS 11
+
+RT Conference Proceedings
+ID 238149
+A1 Simmons,Reid,G.
+A1 Apfelbaum,David
+A1 Burgard,Wolfram
+A1 Fox,Dieter
+A1 Moors,Mark
+A1 Thrun,Sebastian
+A1 Younes,Håkan,L.,S.
+YR 2000
+T1 Coordination for Multi-Robot Exploration and Mapping
+SP 852
+OP 858
+
+RT Journal Article
+ID 177333
+A1 Thrun,Sebastian
+YR 2000
+T1 Probabilistic Algorithms in Robotics
+JF Ai Magazine
+VO 21
+SP 93
+OP 109
+IS 4
+
+RT Conference Proceedings
+ID 50099
+A1 Thrun,Sebastian
+A1 Fox,Dieter
+A1 Burgard,Wolfram
+YR 2000
+T1 Monte Carlo Localization with Mixture Proposal Distribution
+SP 859
+OP 865
+
+RT Conference Proceedings
+ID 181328
+A1 Roy,Nicholas
+A1 Pineau,Joelle
+A1 Thrun,Sebastian
+YR 2000
+T1 Spoken dialogue management using probabilistic reasoning
+
+RT Conference Proceedings
+ID 237647
+A1 Boutilier,Craig
+A1 Reiter,Raymond
+A1 Soutchanski,Mikhail
+A1 Thrun,Sebastian
+YR 2000
+T1 Decision-Theoretic, High-Level Agent Programming in the Situation Calculus
+SP 355
+OP 362
+
+RT Conference Proceedings
+ID 269644
+A1 Dellaert,Frank
+A1 Seitz,Steven,M.
+A1 Thorpe,Charles,E.
+A1 Thrun,Sebastian
+YR 2000
+T1 Structure from Motion without Correspondence
+VO 2
+SP 2557
+OP 2564
+
+RT Journal Article
+ID 59418
+A1 Waldherr,Stefan
+A1 Romero,Roseli
+A1 Thrun,Sebastian
+YR 2000
+T1 A Gesture Based Interface for Human-Robot Interaction
+JF Autonomous Robots
+VO 9
+SP 151
+OP 173
+IS 2
+
+RT Journal Article
+ID 1653319
+A1 Schulz,D.
+A1 Burgard,W.
+A1 Fox,D.
+A1 Thrun,S.
+A1 Cremers,A.,B.
+YR 2000
+T1 Web interfaces for mobile robots in public places
+JF IEEE Robotics & Automation Magazine
+VO 7
+SP 48
+OP 56
+IS 1
+
+RT Conference Proceedings
+ID 246376
+A1 Simmons,Reid
+A1 Apfelbaum,David
+A1 Fox,Dieter
+A1 Goldman,Robert,P.
+A1 Haigh,Karen,Zita
+A1 Musliner,David,J.
+A1 Pelican,Michael
+A1 Thrun,Sebastian
+YR 2000
+T1 Coordinated deployment of multiple, heterogeneous robots
+
+RT Conference Proceedings
+ID 57039
+A1 Roy,Nicholas
+A1 Pineau,Joelle
+A1 Thrun,Sebastian
+YR 2000
+T1 Spoken Dialog Management for Robots
+
+RT Journal Article
+ID 15228073
+A1 Fox,Dieter
+A1 Burgard,Wolfram
+A1 Kruppa,Hannes
+A1 Thrun,Sebastian
+YR 2000
+T1 A Probabilistic Approach to Collaborative Multi-Robot Localization
+JF Autonomous Robots
+VO 8
+SP 325
+OP 344
+IS 3
+
+RT Journal Article
+ID 15222400
+A1 Nigam,Kamal
+A1 Mccallum,Andrew,Kachites
+A1 Thrun,Sebastian
+A1 Mitchell,Tom
+YR 2000
+T1 Text Classification from Labeled and Unlabeled Documents using EM
+JF Machine Learning
+VO 39
+SP 103
+OP 134
+IS 2
+
+RT Conference Proceedings
+ID 560817
+A1 Dellaert,Frank
+A1 Seitz,Steven,M.
+A1 Thrun,Sebastian
+A1 Thorpe,Charles,E.
+YR 2000
+T1 Feature Correspondence: A Markov Chain Monte Carlo Approach
+SP 852
+OP 858
+
+RT Conference Proceedings
+ID 124400
+A1 Thrun,Sebastian
+YR 2000
+T1 Towards Programming Tools for Robots that Integrate Probabilistic Computation and Learning
+VO 1
+SP 306
+OP 312
+
+RT Journal Article
+ID 2667046
+A1 Thrun,S.
+YR 2000
+T1 Advances in Neural Information Processing Systems
+
+RT Journal Article
+ID 4116416
+A1 Nigam,K
+A1 Mccallum,A
+A1 Thrun,S
+A1 Mitchell,T
+YR 2000
+T1 Text classification from labeled and unlabeled examples
+
+RT Journal Article
+ID 3850432
+A1 Nigam,K.
+A1 Mccallum,A.,K.
+A1 Thrun,S.
+A1 Mitchell,T.
+YR 2000
+T1 Text Classi炉cation from Labeled in Unlabeled Data
+
+RT Journal Article
+ID 3732970
+A1 Fox,D.
+A1 Thrun,S.
+A1 Burgard,W.
+A1 Dellaert,F.
+YR 2000
+T1 Sequential Monte Carlo Methods in Practice
+
+RT Journal Article
+ID 3608167
+A1 Thrun,S
+A1 Beetz,M
+A1 Bennewitz,M
+A1 Burgard,W
+A1 Cremers,Ab
+A1 Dellaert,F
+A1 Fox,D
+A1 Haehnel,D
+A1 Rosenberg,C
+A1 Roy,N
+A1 Schulte,J
+A1 Schulz,D
+YR 2000
+T1 Probabilistic algorithms and the interactive museum tour-guide robot
+
+RT Journal Article
+ID 849227
+A1 Thrun,Sebastian
+A1 Schulte,Jamieson
+A1 Rosenberg,Charles,R.
+YR 2000
+T1 Robots With Humanoid Features in Public Places: A Case Study
+JF IEEE Expert / IEEE Intelligent Systems
+VO 15
+SP 7
+OP 11
+IS 4
+
+RT Journal Article
+ID 2612066
+A1 Dieter,Fox
+A1 Wolfram,Burgard
+A1 Hannes,Kruppa
+A1 Sebastian,Thrun
+YR 2000
+T1 A Probabilistic Approach to Collaborative Multi-Robot Localization
+JF Autonomous Robots
+
+RT Journal Article
+ID 15228086
+A1 Waldherr,Stefan
+A1 Romero,Roseli
+A1 Thrun,Sebastian
+YR 2000
+T1 A Gesture Based Interface for Human-Robot Interaction
+JF Autonomous Robots
+VO 9
+SP 151
+OP 173
+IS 2
+
+RT Journal Article
+ID 721097
+A1 Thrun,Sebastian
+A1 Littman,Michael,L.
+YR 2000
+T1 A Review of Reinforcement Learning
+JF Ai Magazine
+VO 21
+SP 103
+OP 105
+IS 1
+
+RT Conference Proceedings
+ID 376423
+A1 Fox,Dieter
+A1 Burgard,Wolfram
+A1 Dellaert,Frank
+A1 Thrun,Sebastian
+YR 1999
+T1 Monte Carlo Localization: Efficient Position Estimation for Mobile Robots
+SP 343
+OP 349
+
+RT Journal Article
+ID 243868
+A1 Fox,Dieter
+A1 Burgard,Wolfram
+A1 Thrun,Sebastian
+YR 1999
+T1 Markov Localization for Mobile Robots in Dynamic Environments
+JF Journal of Artificial Intelligence Research
+VO 11
+SP 391
+OP 427
+
+RT Journal Article
+ID 297436
+A1 Burgard,Wolfram
+A1 Cremers,Armin,B.
+A1 Fox,Dieter
+A1 Hähnel,Dirk
+A1 Lakemeyer,Gerhard
+A1 Schulz,Dirk
+A1 Steiner,Walter
+A1 Thrun,Sebastian
+YR 1999
+T1 Experiences with an Interactive Museum Tour-Guide Robot
+JF Artificial Intelligence
+VO 114
+SP 3
+OP 55
+IS 1-2
+
+RT Conference Proceedings
+ID 314338
+A1 Thrun,Sebastian
+A1 Bennewitz,Maren
+A1 Burgard,Wolfram
+A1 Cremers,Armin,B.
+A1 Dellaert,Frank
+A1 Fox,Dieter
+A1 Hähnel,Dirk
+A1 Rosenberg,Charles,R.
+A1 Roy,Nicholas
+A1 Schulte,Jamieson
+A1 Schulz,Dirk
+YR 1999
+T1 MINERVA: A Second-Generation Museum Tour-Guide Robot
+VO 3
+SP 1999
+OP 2005
+
+RT Conference Proceedings
+ID 2008378
+A1 Thrun,S.
+A1 Bennewitz,M.
+A1 Burgard,W.
+A1 Cremers,A.,B.
+A1 Dellaert,F.
+A1 Fox,D.
+A1 Rosen-berg,C.
+A1 Roy,N.
+A1 Schulte,J.
+A1 Schulz,D.
+YR 1999
+T1 MINERVA: A second generation mobile tour-guide robot
+
+RT Conference Proceedings
+ID 232225
+A1 Roy,Nicholas
+A1 Thrun,Sebastian
+YR 1999
+T1 Coastal Navigation with Mobile Robots
+SP 1043
+OP 1049
+
+RT Book, Whole
+ID 203102
+A1 Fox,Dieter
+A1 Burgard,Wolfram
+A1 Kruppa,Hannes
+A1 Thrun,Sebastian
+YR 1999
+T1 Collaborative Multi-Robot Localization
+SP 15
+OP 26
+
+RT Conference Proceedings
+ID 560973
+A1 Thrun,Sebastian
+YR 1999
+T1 Monte Carlo POMDPs
+SP 1064
+OP 1070
+
+RT Conference Proceedings
+ID 535714
+A1 Roy,Nicholas
+A1 Thrun,Sebastian
+YR 1999
+T1 Online Self-Calibration for Mobile Robots
+VO 3
+SP 2292
+
+RT Conference Proceedings
+ID 3333
+A1 Roy,Nicholas
+A1 Burgard,Wolfram
+A1 Fox,Dieter
+A1 Thrun,Sebastian
+YR 1999
+T1 Coastal Navigation: Mobile Robot Navigation with Uncertainty in Dynamic Environments
+VO 1
+SP 35
+OP 40
+
+RT Conference Proceedings
+ID 531214
+A1 Burgard,Wolfram
+A1 Fox,Dieter
+A1 Jans,Hauke
+A1 Matenar,Christian
+A1 Thrun,Sebastian
+YR 1999
+T1 Sonar-Based Mapping of Large-Scale Mobile Robot Environments using EM
+SP 67
+OP 76
+
+RT Conference Proceedings
+ID 197151
+A1 Margaritis,Dimitris
+A1 Thrun,Sebastian
+YR 1999
+T1 Bayesian Network Induction via Local Neighborhoods
+SP 505
+OP 511
+
+RT Journal Article
+ID 285610
+A1 Schulz,Dirk
+A1 Burgard,Wolfram
+A1 Cremers,Armin,B.
+A1 Fox,Dieter
+A1 Thrun,Sebastian
+YR 1999
+T1 Web Interfaces for Mobile Robots in Public Places
+
+RT Journal Article
+ID 2035526
+A1 Fox,D.
+A1 Burgard,W.
+A1 Dellaert,F.
+A1 Thrun,S.
+YR 1999
+T1 Efficient position estimation for mobile robots
+
+RT Conference Proceedings
+ID 3785649
+A1 Schulte,J.
+A1 Rosenberg,C.
+A1 Thrun,S.
+YR 1999
+T1 Spontaneous short-term interaction with mobile robots in public places
+
+RT Conference Proceedings
+ID 298962
+A1 Thrun,Sebastian
+A1 Langford,John
+A1 Fox,Dieter
+YR 1999
+T1 Monte Carlo Hidden Markov Models: Learning Non-Parametric Models of Partially Observable Stochastic Processes
+SP 415
+OP 424
+
+RT Journal Article
+ID 258373
+A1 Dellaert,Frank
+A1 Thrun,Sebastian
+A1 Thorpe,Chuck
+YR 1999
+T1 Mosaicing a Large Number of Widely Dispersed, Noisy, and Distorted Images: A Bayesian Approach
+
+RT Book, Whole
+ID 437317
+A1 Thrun,Sebastian
+A1 Bennewitz,Maren
+A1 Burgard,Wolfram
+A1 Cremers,Armin,B.
+A1 Dellaert,Frank
+A1 Fox,Dieter
+A1 Hähnel,Dirk
+A1 Rosenberg,Charles,R.
+A1 Roy,Nicholas
+A1 Schulte,Jamieson
+A1 Schulz,Dirk
+YR 1999
+T1 MINERVA: A Tour-Guide Robot that Learns
+SP 14
+OP 26
+
+RT Conference Proceedings
+ID 388317
+A1 Schulte,Jamieson
+A1 Rosenberg,Charles,R.
+A1 Thrun,Sebastian
+YR 1999
+T1 Spontaneous, Short-Term Interaction with Mobile Robots
+VO 1
+SP 658
+OP 663
+
+RT Journal Article
+ID 305595
+A1 Fox,Dieter
+A1 Burgard,Wolfram
+A1 Kruppa,Hannes
+A1 Thrun,Sebastian
+YR 1999
+T1 A Monte Carlo Algorithm for Multi-Robot Localization
+
+RT Conference Proceedings
+ID 2843616
+A1 Roy,N.
+A1 Burgard,W.
+A1 Fox,D.
+A1 Thrun,S.
+YR 1999
+T1 Coastal navigation: Robot navigation under uncertainty in dynamic environments
+
+RT Conference Proceedings
+ID 2291104
+A1 Thrun,S.
+A1 Bennewitz,M.
+A1 Burgard,W.
+A1 Cremers,A.,B.
+A1 Dellaert,F.
+A1 Fox,D.
+A1 Lakemeyer,G.
+A1 Rosenberg,C.
+A1 Roy,N.
+A1 Schulte,J.
+A1 Schulz,D.
+A1 Steiner,W.
+YR 1999
+T1 Experiences with two Deployed Interactive Tour-Guide Robots
+
+RT Conference Proceedings
+ID 126772
+A1 Fox,Dieter
+A1 Burgard,Wolfram
+A1 Kruppa,Hannes
+A1 Thrun,Sebastian
+YR 1999
+T1 Efficient Multi-Robot Localization Based on Monte Carlo Approximation
+
+RT Conference Proceedings
+ID 2843614
+A1 Roy,N.
+A1 Thrun,S.
+YR 1999
+T1 Coastal navigation for mobile robot navigation
+
+RT Journal Article
+ID 720957
+A1 Thrun,Sebastian
+A1 Faloutsos,Christos
+A1 Mitchell,Tom,M.
+A1 Wasserman,Larry
+YR 1999
+T1 Automated Learning and Discovery Stat-Of-The-Art and Research Topics in a Rapidly Growing Field
+JF Ai Magazine
+VO 20
+SP 78
+OP 82
+IS 3
+
+RT Conference Proceedings
+ID 2036404
+A1 Boutilier,C.
+A1 Reiter,R.
+A1 Soutchanski,M.
+A1 Thrun,S.
+YR 1999
+T1 High level agent programming in the situation calculus
+
+RT Journal Article
+ID 698354
+A1 Thrun,Sebastian
+YR 1998
+T1 Learning Metric-Topological Maps for Indoor Mobile Robot Navigation
+JF Artificial Intelligence
+VO 99
+SP 21
+OP 71
+IS 1
+
+RT Conference Proceedings
+ID 491713
+A1 Burgard,Wolfram
+A1 Cremers,Armin,B.
+A1 Fox,Dieter
+A1 Hähnel,Dirk
+A1 Lakemeyer,Gerhard
+A1 Schulz,Dirk
+A1 Steiner,Walter
+A1 Thrun,Sebastian
+YR 1998
+T1 The Interactive Museum Tour-Guide Robot
+SP 11
+OP 18
+
+RT Conference Proceedings
+ID 375012
+A1 Nigam,Kamal
+A1 McCallum,Andrew,K.
+A1 Thrun,Sebastian
+A1 Mitchell,Tom,M.
+YR 1998
+T1 Learning to classify text from labeled and unlabeled documents
+SP 792
+OP 799
+
+RT Journal Article
+ID 366654
+A1 Fox,Dieter
+A1 Burgard,Wolfram
+A1 Thrun,Sebastian
+YR 1998
+T1 Active Markov localization for mobile robots
+JF Robotics and Autonomous Systems
+VO 25
+SP 195
+OP 207
+IS 3-4
+
+RT Journal Article
+ID 709173
+A1 Thrun,Sebastian
+YR 1998
+T1 Bayesian Landmark Learning for Mobile Robot Localization
+JF Machine Learning
+VO 33
+SP 41
+OP 76
+IS 1
+
+RT Conference Proceedings
+ID 380208
+A1 Fox,Dieter
+A1 Burgard,Wolfram
+A1 Thrun,Sebastian
+A1 Cremers,Armin,B.
+YR 1998
+T1 Position Estimation for Mobile Robots in Dynamic Environments
+SP 983
+OP 988
+
+RT Journal Article
+ID 3357050
+A1 Thrun,S.
+A1 Burgard,W.
+A1 Fox,D.
+A1 Fr?ˉ?ohlinghaus,T.
+A1 Hennig,D.
+A1 Krell,M.
+A1 Schimdt,T.
+YR 1998
+T1 Map learning and high-speed navigation in RHINO
+
+RT Conference Proceedings
+ID 534854
+A1 Fox,Dieter
+A1 Burgard,Wolfram
+A1 Thrun,Sebastian
+A1 Cremers,Armin,B.
+YR 1998
+T1 A Hybrid Collision Avoidance Method for Mobile Robots
+VO 2
+SP 1238
+OP 1243
+
+RT Journal Article
+ID 294167
+A1 Thrun,Sebastian
+YR 1998
+T1 Learning Maps for Indoor Mobile Robot Navigation
+JF Artificial Intelligence
+
+RT Conference Proceedings
+ID 3198
+A1 Thrun,Sebastian
+A1 Gutmann,Jens-steffen
+A1 Fox,Dieter
+A1 Burgard,Wolfram
+A1 Kuipers,Benjamin
+YR 1998
+T1 Integrating Topological and Metric Maps for Mobile Robot Navigation: A Statistical Approach
+SP 989
+OP 995
+
+RT Conference Proceedings
+ID 3154
+A1 Thrun,Sebastian
+YR 1998
+T1 Finding Landmarks for Mobile Robot Navigation
+VO 2
+SP 958
+OP 963
+
+RT Conference Proceedings
+ID 3389367
+A1 Thrun,S.
+A1 Bennewitz,M.
+A1 Burgard,W.
+A1 Cremers,A.
+A1 Dellaert,F.
+A1 Fox,D.
+A1 Rosenberg,C.
+A1 Roy,N.
+A1 Schulte,J.
+A1 Schulz,D.
+YR 1998
+T1 MINERVA: A second generation mobile tour-guide robot
+
+RT Conference Proceedings
+ID 520
+A1 Thrun,Sebastian
+A1 Fox,Dieter
+A1 Burgard,Wolfram
+YR 1998
+T1 Probabilistic Mapping of an Environment by a Mobile Robot
+VO 2
+SP 1546
+OP 1551
+
+RT Conference Proceedings
+ID 4114048
+A1 Dellaert,Frank
+A1 Thrun,Sebastian
+A1 Thorpe,Chuck
+YR 1998
+T1 Jacobian images of super-resolved texture maps for model-based motion estimation and tracking
+
+RT Conference Proceedings
+ID 297360
+A1 Nagatani,Keiji
+A1 Choset,Howie
+A1 Thrun,Sebastian
+YR 1998
+T1 Towards Exact Localization without Explicit Localization with the Generalized Voronoi Graph
+VO 1
+SP 342
+OP 348
+
+RT Conference Proceedings
+ID 292589
+A1 Waldherr,Stefan
+A1 Thrun,Sebastian
+A1 Romero,Roseli
+A1 Margaritis,Dimitris
+YR 1998
+T1 Template-Based Recognition of Pose and Motion Gestures On a Mobile Robot
+SP 977
+OP 982
+
+RT Conference Proceedings
+ID 332705
+A1 Dellaert,Frank
+A1 Thorpe,Chuck
+A1 Thrun,Sebastian
+YR 1998
+T1 Super-resolved texture tracking of planar surface patches
+
+RT Journal Article
+ID 15222307
+A1 Thrun,Sebastian
+A1 Burgard,Wolfram
+A1 Fox,Dieter
+YR 1998
+T1 A Probabilistic Approach to Concurrent Mapping and Localization for Mobile Robots
+JF Machine Learning
+VO 31
+SP 29
+OP 53
+IS 1
+
+RT Conference Proceedings
+ID 341207
+A1 Margaritis,Dimitris
+A1 Thrun,Sebastian
+YR 1998
+T1 Learning to Locate an Object in 3D Space from a Sequence of Camera Images
+SP 332
+OP 340
+
+RT Journal Article
+ID 299136
+A1 Thrun,Sebastian
+YR 1998
+T1 A Framework for Programming Embedded Systems: Initial Design and Results
+
+RT Journal Article
+ID 15222327
+A1 Thrun,Sebastian
+A1 Langley,Pat
+YR 1998
+T1 Bayesian Landmark Learning for Mobile Robot Localization
+JF Machine Learning
+VO 33
+SP 41
+OP 76
+IS 1
+
+RT Conference Proceedings
+ID 168078
+A1 Roy,Nicholas
+A1 Burgard,Wolfram
+A1 Fox,Dieter
+A1 Thrun,Sebastian
+YR 1998
+T1 Coastal Navigation { Robot Motion with Uncertainty
+
+RT Conference Proceedings
+ID 3608874
+A1 Thrun,S.
+A1 Fox,D.,D.
+A1 Burgard,W.
+YR 1998
+T1 Probabilistic mobile robot local-ization and mapping
+
+RT Journal Article
+ID 158366
+A1 Thrun,Sebastian
+A1 Faloutsos,Christos
+A1 Mitchell,Tom
+A1 Wasserman,Larry
+YR 1998
+T1 Automated Learning and Discovery: State-Of-The-Art and Research Topics in a Rapidly Growing Field
+JF Ai Magazine
+
+RT Journal Article
+ID 3318774
+A1 Thrun,Sebastian
+A1 Pratt,Lorien
+YR 1998
+T1 Learning to learn: Introduction and overview
+
+RT Journal Article
+ID 1170183
+A1 Thrun,S.
+YR 1998
+T1 When robots meet people
+JF IEEE Intelligent Systems & Their Applications
+VO 13
+SP 27
+OP 29
+IS 3
+
+RT Journal Article
+ID 2091202
+A1 Thrun,S.
+YR 1998
+T1 Learning maps for indoor mobile robots
+JF Artificial Intelligence
+
+RT Journal Article
+ID 320937
+A1 Nigam,Kamal
+A1 McCallum,Andrew
+A1 Thrun,Sebastian
+A1 Mitchell,Tom
+YR 1998
+T1 Using EM to Classify Text from Labeled and Unlabeled Documents
+
+RT Journal Article
+ID 306414
+A1 Thrun,Sebastian
+A1 Langford,John
+YR 1998
+T1 Monte Carlo Hidden Markov Models
+
+RT Conference Proceedings
+ID 206766
+A1 Waldherr,Stefan
+A1 Thrun,Sebastian
+A1 Romero,Roseli
+YR 1998
+T1 A Neural-Network based Approach for Recognition of Pose and Motion Gestures on a Mobile Robot
+SP 79
+OP 84
+
+RT Book, Whole
+ID 684229
+A1 Fox,Dieter
+A1 Burgard,Wolfram
+A1 Thrun,Sebastian
+YR 1998
+T1 Markov Localization for Reliable Robot Navigation and People Detection
+SP 1
+OP 20
+
+RT Journal Article
+ID 2508
+A1 Thrun,Sebastian
+YR 1998
+T1 When Robots Meet People: Research Directions In Mobile Robotics
+
+RT Journal Article
+ID 15228002
+A1 Thrun,Sebastian
+A1 Burgard,Wolfram
+A1 Fox,Dieter
+YR 1998
+T1 A Probabilistic Approach to Concurrent Mapping and Localization for Mobile Robots
+JF Autonomous Robots
+VO 5
+SP 253
+OP 271
+IS 3
+
+RT Conference Proceedings
+ID 445505
+A1 Burgard,Wolfram
+A1 Cremers,Armin,B.
+A1 Fox,Dieter
+A1 Hähnel,Dirk
+A1 Lakemeyer,Gerhard
+A1 Schulz,Dirk
+A1 Steiner,Walter
+A1 Thrun,Sebastian
+YR 1998
+T1 The Museum Tour-Guide Robot RHINO
+SP 245
+OP 254
+
+RT Journal Article
+ID 3308637
+A1 Simmons,R.
+A1 Thrun,S.
+YR 1998
+T1 Languages and Tools for Task-Level Robotics Integration
+
+RT Journal Article
+ID 849724
+A1 Thrun,Sebastian
+YR 1998
+T1 New Directions: When Robots Meet People
+JF IEEE Expert / IEEE Intelligent Systems
+VO 13
+SP 27
+OP 29
+IS 3
+
+RT Journal Article
+ID 1117
+A1 Fox,D.
+A1 Burgard,W.
+A1 Thrun,S.
+YR 1997
+T1 The dynamic window approach to collision avoidance
+JF IEEE Robotics & Automation Magazine
+VO 4
+SP 23
+OP 33
+IS 1
+
+RT Journal Article
+ID 2063940
+A1 Thrun,Sebastian
+A1 Bucken,Arno
+A1 Burgard,Wolfram
+A1 Fox,Dieter
+A1 Hennig,Daniel
+A1 Hofmann,Thomas
+A1 Krell,Michael
+A1 Schmidt,Timo
+YR 1997
+T1 Map Learning and High-Speed Navigation in RHINO
+
+RT Conference Proceedings
+ID 182676
+A1 Burgard,Wolfram
+A1 Fox,Dieter
+A1 Thrun,Sebastian
+YR 1997
+T1 Active Mobile Robot Localization
+SP 1346
+OP 1352
+
+RT Journal Article
+ID 3997793
+A1 Thrun,Sebastian
+YR 1997
+T1 To Know or Not To Know: On the Utility of Models in Mobile Robotics
+JF Ai Magazine
+
+RT Conference Proceedings
+ID 4617024
+A1 Burgard,Wolfram
+A1 Fox,Dieter
+A1 Thrun,Sebastian
+YR 1997
+T1 Active mobile robot localization by entropy minimization
+
+RT Journal Article
+ID 323676
+A1 Thrun,Sebastian
+A1 Burgard,Wolfram
+A1 Fox,Dieter
+YR 1997
+T1 A Probabilistic Approach for Concurrent Map Acquisition and Localization for Mobile Robots
+
+RT Journal Article
+ID 15222268
+A1 Caruana,Rich
+A1 Pratt,Lorien
+A1 Thrun,Sebastian
+YR 1997
+T1 Multitask Learning
+JF Machine Learning
+VO 28
+SP 41
+OP 75
+IS 1
+
+RT Journal Article
+ID 2010854
+A1 Burgard,W.
+A1 Fox,D.
+A1 Lakemeyer,G.
+A1 Schulz,D.
+A1 Steiner,W.
+A1 Thrun,S.
+A1 Cremers,A.,B.
+YR 1997
+T1 Real robots for the real world - the RHINO museum tour-guide project
+
+RT Journal Article
+ID 354228
+A1 Thrun,Sebastian
+A1 Fox,Dieter
+A1 Burgard,Wolfram
+YR 1997
+T1 Probabilistic Methods for State Estimation in Robotics
+
+RT Journal Article
+ID 2140110
+A1 Thrun,S.
+A1 Pratt,L.
+YR 1997
+T1 Special issue on Inductive Transfer
+
+RT Journal Article
+ID 2774990
+A1 Christiansen,W.
+A1 Kurien,J.
+A1 More,G.
+A1 Sawyer,T.
+A1 Smart,B.
+A1 Thrun,S.
+YR 1997
+T1 BeeSoft User''s Guide and Software Reference
+
+RT Journal Article
+ID 123859
+A1 Thrun,Sebastian
+YR 1997
+T1 Discovering Landmarks for Mobile Robot Navigation
+
+RT Conference Proceedings
+ID 491009
+A1 Thrun,Sebastian
+A1 Bücken,Arno
+YR 1996
+T1 Integrating Grid-Based and Topological Maps for Mobile Robot Navigation
+SP 944
+OP 950
+
+RT Conference Proceedings
+ID 531061
+A1 Thrun,Sebastian
+A1 O'sullivan,Joseph
+YR 1996
+T1 Discovering Structure in Multiple Learning Tasks: The TC Algorithm
+SP 489
+OP 497
+
+RT Journal Article
+ID 2021669
+A1 Thrun,S.
+YR 1996
+T1 Explanation-Based Neural Network Learning-A Lifelong Learning Approach
+
+RT Journal Article
+ID 388001
+A1 Thrun,Sebastian
+YR 1996
+T1 A Bayesian Approach to Landmark Discovery and Active Perception in Mobile Robot Navigation
+
+RT Conference Proceedings
+ID 365689
+A1 Foxt,Dieter
+A1 Burgardt,Wolfram
+A1 Thrun,S.
+YR 1996
+T1 Controlling synchro-drive robots with the dynamic window approach to collision avoidance
+
+RT Journal Article
+ID 13060257
+A1 Thrun,Sebastian
+A1 Bucken,Arno
+YR 1996
+T1 Learning Maps for Indoor Mobile Robot Navigation
+
+RT Journal Article
+ID 3073607
+A1 Thrun,S.
+YR 1996
+T1 Explanation-based Neural Network Learning
+
+RT Journal Article
+ID 2398676
+A1 Thrun,S.
+YR 1996
+T1 Is learning the n-th thing any easier than learning the first? In: Advances in Neural Information Processing Systems 8
+
+RT Journal Article
+ID 88530
+A1 Thrun,S.
+YR 1996
+T1 Learning To Learn: Introduction
+
+RT Journal Article
+ID 3997792
+A1 Thrun,S.
+YR 1996
+T1 To Know or Not To Know: The Role of Models in Mobile Robotics
+JF Ai Magazine
+
+RT Journal Article
+ID 351951
+A1 Tom,M
+A1 O'sullivan,Joseph
+A1 Thrun,Sebastian
+YR 1996
+T1 Explanation-Based Learning for Mobile Robot Perception
+
+RT Conference Proceedings
+ID 6594734
+A1 Simmons,Reid,G.
+A1 Thrun,Sebastian
+A1 Armstrong,Greg
+A1 Goodwin,Richard
+A1 Haigh,Karen,Zita
+A1 Koenig,Sven
+A1 Mahamud,Shyjan
+A1 Nikovski,Daniel
+A1 O'Sullivan,Joseph
+YR 1996
+T1 Amelia
+SP 1358
+
+RT Conference Proceedings
+ID 490933
+A1 Bücken,Arno
+A1 Thrun,Sebastian
+YR 1996
+T1 Learning Topological Maps: An Alternative Approach
+SP 1380
+
+RT Journal Article
+ID 296882
+A1 Thrun,Sebastian
+A1 O'Sullivan,Joseph
+YR 1996
+T1 LEARNING MORE FROM LESS DATA: EXPERIMENTS WITH LIFELONG ROBOT LEARNING
+
+RT Journal Article
+ID 4583235
+A1 Thrun,Sebastian
+YR 1996
+T1 The Role of Transfer in Learning (extended abstract)
+
+RT Journal Article
+ID 339837
+A1 Buhmann,Joachim,M.
+A1 Burgard,Wolfram
+A1 Cremers,Armin,B.
+A1 Fox,Dieter
+A1 Hofmann,Thomas
+A1 Schneider,Frank,E.
+A1 Strikos,Jiannis
+A1 Thrun,Sebastian
+YR 1995
+T1 The mobile robot Rhino
+VO 16
+SP 31
+OP 38
+IS 2
+
+RT Conference Proceedings
+ID 560972
+A1 Thrun,Sebastian
+YR 1995
+T1 Is Learning The n-th Thing Any Easier Than Learning The First?
+SP 640
+OP 646
+
+RT Conference Proceedings
+ID 331431
+A1 Thrun,Sebastian
+YR 1995
+T1 Finding Structure in Reinforcement Learning
+
+RT Conference Proceedings
+ID 1974
+A1 Thrun,Sebastian
+A1 Mitchell,Tom,M.
+YR 1995
+T1 Learning One More Thing
+SP 1217
+OP 1225
+
+RT Conference Proceedings
+ID 301681
+A1 Thrun,Sebastian
+YR 1995
+T1 Extracting Rules from Artificial Neural Networks with Distributed Representations
+
+RT Journal Article
+ID 1752896
+A1 Thrun,Sebastian
+A1 Mitchell,Tom,M.
+YR 1995
+T1 Lifelong robot learning
+JF Robotics and Autonomous Systems
+VO 15
+SP 25
+OP 46
+IS 1-2
+
+RT Journal Article
+ID 328573
+A1 Thrun,Sebastian
+YR 1995
+T1 Exploration in Active Learning
+
+RT Journal Article
+ID 296641
+A1 Thrun,Sebastian
+YR 1995
+T1 An approach to learning mobile robot navigation
+JF Robotics and Autonomous Systems
+VO 15
+SP 301
+OP 319
+IS 4
+
+RT Journal Article
+ID 297927
+A1 Thrun,Sebastian
+YR 1995
+T1 Clustering Learning Tasks and the Selective Cross-Task Transfer of Knowledge
+
+RT Journal Article
+ID 293212
+A1 Thrun,Sebastian
+YR 1995
+T1 Lifelong Learning: A Case Study
+
+RT Journal Article
+ID 2001055
+A1 Mitchell,J
+A1 Thrun,S.
+YR 1995
+T1 Explanation-Based Neural Network Learning from Mobile Robot Perception
+
+RT Journal Article
+ID 34631
+A1 Mitchell,Tom,M.
+A1 Thrun,Sebastian,B.
+YR 1995
+T1 Learning Analytically and Inductively1
+
+RT Journal Article
+ID 123827
+A1 O'sullivan,Joseph
+A1 Thrun,Sebastian
+YR 1995
+T1 A Robot That Improves Its Ability To Learn
+
+RT Journal Article
+ID 3695157
+A1 Thrun,S.
+YR 1995
+T1 Robotics and Autonomous Systems
+
+RT Journal Article
+ID 708507
+A1 Cremers,Armin,B.
+A1 Buhmann,Joachim,M.
+A1 Thrun,Sebastian
+YR 1995
+T1 Komplexe lernende Systeme: der mobile Roboter RHINO
+JF Künstliche Intelligenz
+VO 9
+SP 48
+OP 49
+IS 2
+
+RT Journal Article
+ID 358940
+A1 ASADA,MINORU
+A1 NODA,SHOICHI
+A1 TAWARATSUMIDA,SUKOYA
+A1 HOSODA,KOH
+A1 Franklin,Judy,A.
+A1 Mitchell,Tom,M.
+A1 Thrun,Sebastian
+YR 1994
+T1 Purposive Behavior Acquisition for a Real Robot by Vision-Based Reinforcement Learning
+
+RT Conference Proceedings
+ID 560486
+A1 Thrun,Sebastian
+YR 1994
+T1 Learning to Play the Game of Chess
+SP 1069
+OP 1076
+
+RT Conference Proceedings
+ID 560488
+A1 Thrun,Sebastian
+A1 Schwartz,Anton
+YR 1994
+T1 Finding Structure in Reinforcement Learning
+SP 385
+OP 392
+
+RT Conference Proceedings
+ID 301736
+A1 Thrun,Sebastian
+YR 1994
+T1 A lifelong learning perspective for mobile robot control
+
+RT Journal Article
+ID 3081169
+A1 Thrun,S.,B.
+YR 1994
+T1 Extracting provably correct rules from neural networks
+
+RT Conference Proceedings
+ID 336206
+A1 Cremers,Armin,B.
+A1 Thrun,Sebastian
+A1 Burgard,Wolfram
+YR 1994
+T1 From AI Technology Research to Applications
+SP 333
+OP 340
+
+RT Conference Proceedings
+ID 560971
+A1 Thrun,Sebastian
+YR 1994
+T1 Extracting Rules from Artifical Neural Networks with Distributed Representations
+SP 505
+OP 512
+
+RT Conference Proceedings
+ID 341784
+A1 Thrun,Sebastian,B.
+A1 III,ur,Informatik
+YR 1993
+T1 Exploration and model building in mobile robot domains
+
+RT Journal Article
+ID 392756
+A1 Thrun,Sebastian
+A1 Schwartz,Anton
+YR 1993
+T1 Issues in Using Function Approximation for Reinforcement Learning
+
+RT Conference Proceedings
+ID 2020
+A1 Thrun,Sebastian,B.
+A1 Mitchell,Tom,M.
+YR 1993
+T1 Explanation-Based Neural Network Learning for Robot Control
+
+RT Conference Proceedings
+ID 374502
+A1 Thrun,Sebastian
+A1 Mitchell,Tom,M.
+YR 1993
+T1 Integrating Inductive Neural Network Learning and Explanation-Based Learning
+SP 930
+OP 936
+
+RT Journal Article
+ID 362512
+A1 Thrun,Sebastian,B.
+YR 1993
+T1 Extracting Provably Correct Rules from Artificial Neural Networks
+
+RT Conference Proceedings
+ID 352354
+A1 Mitchell,Tom,M.
+A1 Thrun,Sebastian
+YR 1993
+T1 Explanation Based Learning: A Comparison of Symbolic and Neural Network Approaches
+SP 197
+OP 204
+
+RT Journal Article
+ID 290588
+A1 White,David,A.
+A1 Sofge,Donald,A.
+A1 Thrun,Sebastian,B.
+YR 1992
+T1 The Role Of Exploration In Learning Control
+
+RT Journal Article
+ID 349436
+A1 Thrun,Sebastian,B.
+YR 1992
+T1 Efficient Exploration In Reinforcement Learning
+
+RT Conference Proceedings
+ID 297023
+A1 Moller,Knut
+A1 Thrun,Sebastian,B.
+YR 1992
+T1 Active Exploration in Dynamic Environments
+
+RT Journal Article
+ID 20066
+A1 Becker,S.
+A1 Thrun,S.
+A1 Eds,K.,Obermayer
+YR 1992
+T1 In Advances in Neural Information Processing Systems 15
+
+RT Conference Proceedings
+ID 364144
+A1 Mitchell,Tom,M.
+A1 Thrun,Sebastian
+YR 1992
+T1 Explanation-Based Neural Network Learning for Robot Control
+SP 287
+OP 294
+
+RT Journal Article
+ID 12092622
+A1 Melamed,Myron,R.
+A1 Thrun,Sebastian
+YR 1992
+T1 Detection
+JF Journal of Cellular Biochemistry
+VO 50
+SP 72
+OP 72
+IS S16I
+
+RT Journal Article
+ID 257760
+A1 Thrun,S.,b.
+A1 Bala,J.
+A1 Bloedorn,E.
+A1 Bratko,I.
+A1 Cestnik,B.
+A1 Cheng,J.
+A1 De,K.
+YR 1991
+T1 The MONK's Problems A Performance Comparison of Different Learning Algorithms
+
+RT Journal Article
+ID 1997675
+A1 Thrun,S,B.
+YR 1991
+T1 The MONK''s Problems-A Performance Comparison of Different Learning Algorithms. Tech Rep. CMU-CS-91-197
+
+RT Journal Article
+ID 142422
+A1 Thrun,Sebastian,B.
+A1 Möller,Knut
+YR 1991
+T1 On Planning And Exploration In NonDiscrete Environments
+
+RT Journal Article
+ID 335022
+A1 Linden,Alexander
+A1 Moller,Knut
+A1 Thrun,Sebastian,B.
+YR 1991
+T1 Planning with an Adaptive World Model
+
+RT Journal Article
+ID 372991
+A1 Fox,Dieter
+A1 Heinze,Volker
+A1 Möller,Knut
+A1 Thrun,Sebastian
+A1 Veenker,Gerd
+YR 1991
+T1 Learning By Error-Driven Decomposition
+
+RT Conference Proceedings
+ID 560487
+A1 Thrun,Sebastian
+A1 Möller,Knut
+YR 1991
+T1 Active Exploration in Dynamic Environments
+SP 531
+OP 538
+
+RT Journal Article
+ID 2032451
+A1 Thrun,S.,B.
+YR 1991
+T1 A performance comparison of di erent learning algorithms
+
+RT Journal Article
+ID 2383461
+A1 Thrun,S.,B
+YR 1991
+T1 The MONK''s problems: a performance comparison of different learning algorithms. Carnegie Mellon University, CMU-CS-91-197
+
+RT Journal Article
+ID 2017415
+A1 Thrun,S.,B.
+YR 1991
+T1 THE MONK''S PROBLEM-A PERFORMANCE COMPARISON OF DIFFERENT LEARNING ALGORITHM. CARNEGIE MELLON UNIVERSITY, TECHNICAL REPORT CMU-CS-91-197
+
+RT Journal Article
+ID 3928608
+A1 Thrun,S.
+A1 Bala,J.
+A1 Bloedorn,E.
+A1 Bratko,I.
+A1 Cestnik,B.
+A1 Cheng,J.
+A1 Jong,K.,De
+A1 Dzeroski,S.
+A1 Fahlman,S.
+A1 Hammann,R.
+A1 Kaufman,K.
+A1 Keller,S.
+A1 Kononenko,I.
+A1 Kreuziger,J.
+A1 Michalski,R.,S.
+A1 Mitchell,T.
+A1 Pachowicz,P.
+A1 Vafaie,H.
+A1 Velde,W.,Van,De
+A1 Wenzel,W.
+A1 Wnek,J.
+A1 Zhang,J.
+YR 1991
+T1 The Monk''s Problem''s: A Performance Comparison of Different Learning Methods
+
+RT Journal Article
+ID 3928609
+A1 Thrun,S.,B
+YR 1991
+T1 The MONK''s Problems-A Performance Comparison of Different Learning Algorithms, CMU-CS-91-197, Sch
+
+RT Journal Article
+ID 718361
+A1 Möller,Knut
+A1 Thrun,Sebastian
+YR 1991
+T1 Adaptive Roboterkontrolle mit künstlichen Neuronalen Netzen
+JF Wirtschaftsinformatik / Angewandte Informatik
+VO 33
+SP 408
+OP 419
+IS 5
+
+RT Conference Proceedings
+ID 561533
+A1 Thrun,Sebastian
+A1 Möller,Knut
+A1 Linden,Alexander
+YR 1990
+T1 Adaptive Look-Ahead Planning
+SP 238
+OP 246
+
+RT Book, Whole
+ID 643442
+A1 Thrun,Sebastian
+A1 Linden,Alexander
+YR 1990
+T1 Inversion in Time
+SP 130
+OP 140
+
+RT Conference Proceedings
+ID 560051
+A1 Thrun,Sebastian
+A1 Möller,Knut
+A1 Linden,Alexander
+YR 1990
+T1 Planning with an Adaptive World Model
+SP 450
+OP 456
+
+RT Conference Proceedings
+ID 10106580
+A1 Dellaert,Frank
+A1 Burgard,Wolfram
+A1 Fox,Dieter
+A1 Thrun,Sebastian
+T1 Using the CONDENSATION Algorithm for Robust, Vision-based Mobile Robot Localization
+
+RT Conference Proceedings
+ID 10370662
+A1 Thrun,Sebastian
+A1 Ferguson,David
+A1 Montemerlo,Michael
+A1 Bakery,Christopher
+T1 A System for Volumetric Robotic Mapping of Abandoned Mines
+
+RT Conference Proceedings
+ID 5580349
+A1 Burgard,Wolfram
+A1 Fox,Dieter
+A1 Jans,Hauke
+A1 Matenar,Christian
+A1 Thrun,Sebastian
+T1 Sonar-Based Mapping With Mobile Robots Using EM
+
+RT Book, Whole
+ID 9544
+A1 Thrun,Sebastian
+A1 Koller,Daphne
+A1 Ghahramani,Zoubin
+A1 Durrant-Whyte,Hugh
+A1 Ng,Andrew,Y.
+T1 Simultaneous Mapping and Localization with Sparse Extended Information Filters: Theory and Initial Results
+JF International Journal of Robotic Research
+
+RT Journal Article
+ID 2004617
+A1 Thrun,Sebastian
+A1 Bucken,Arno
+T1 Learning Maps for Indoor Mobile Robot Navigation
+JF Artificial Intelligence
+
+RT Conference Proceedings
+ID 11596300
+A1 Bennewitz,Maren
+A1 Burgard,Wolfram
+A1 Thrun,Sebastian
+T1 Learning Motion Patterns of Persons for Mobile Service Robots
+
+RT Conference Proceedings
+ID 10374909
+A1 Thrun,Sebastian
+A1 Martin,Christian
+A1 Liu,Yufeng
+A1 Hahnel,Dirk
+A1 Emery-Montemerlo,Rosemary
+A1 Chakrabarti,Deepayan
+A1 Burgard,Wolfram
+T1 A Real-Time Expectation Maximization Algorithm for Acquiring Multi-Planar Maps of Indoor Environments with Mobile Robots
+
+RT Book, Whole
+ID 6818602
+A1 Thrun,Sebastian
+A1 Montemerlo,Mike
+A1 Dahlkamp,Hendrik
+A1 Stavens,David
+A1 Aron,Andrei
+A1 Diebel,James
+A1 Fong,Philip
+A1 Gale,John
+A1 Halpenny,Morgan
+A1 Hoffmann,Gabriel
+A1 Lau,Kenny
+A1 Oakley,Celia
+A1 Palatucci,Mark
+A1 Pratt,Vaughan
+A1 Stang,Pascal
+A1 Strohband,Sven
+A1 Dupont,Cedric
+A1 Jendrossek,Lars-Erik
+A1 Koelen,Christian
+A1 Markey,Charles
+A1 Rummel,Carlo
+A1 Niekerk,Joe,van
+A1 Jensen,Eric
+A1 Alessandrini,Philippe
+A1 Bradski,Gary
+A1 Davies,Bob
+A1 Ettinger,Scott
+A1 Kaehler,Adrian
+A1 Nefian,Ara
+A1 Mahoney,Pamela
+T1 Stanley: The Robot That Won the DARPA Grand Challenge
+
+RT Conference Proceedings
+ID 6385124
+A1 Petrovskaya,Anna
+A1 Thrun,Sebastian
+T1 Model Based Vehicle Tracking for Autonomous Driving in Urban Environments
+
+RT Journal Article
+ID 50475
+A1 Thrun,Sebastian
+A1 Schulte,Jamie
+A1 Rosenberg,Chuck
+T1 Interaction With Mobile Robots in Public Places
+JF International Journal of Intelligent Systems
+
+RT Book, Whole
+ID 3547787
+A1 Gerkey,Brian,P.
+A1 Thrun,Sebastian
+A1 Gordon,Geoff
+T1 Parallel Stochastic Hill Climbing with Small Teams
+
+RT Journal Article
+ID 2127440
+A1 Glover,Jared
+A1 Holstius,David
+A1 Manojlovich,Michael
+A1 Montgomery,Keirsten
+A1 Powers,Aaron
+A1 Wu,Jack
+A1 Kiesler,Sara
+A1 Matthews,Judith
+A1 Thrun,Sebastian
+T1 A Robotically-Augmented Walker for Older Adults
+
+RT Journal Article
+ID 12866342
+A1 Likhachev,Maxim
+A1 Gordon,Geo
+A1 Thrun,Sebastian
+T1 ARA*: Formal Analysis
+
+RT Journal Article
+ID 5264459
+A1 Pineau,Joelle
+A1 Gordon,Georey
+A1 Thrun,Sebastian
+T1 Point-based approximations for fast POMDP solving
+JF Journal of Artificial Intelligence Research
+
+RT Journal Article
+ID 5535623
+A1 Fox,Dieter
+A1 Burgard,Wolfram
+A1 Thrun,Sebastian
+T1 Probabilistic Methods for Mobile Robot Mapping
+
+RT Journal Article
+ID 6923732
+A1 Mitchell,Tom,M.
+A1 O'Sullivan,Joseph
+A1 Thrun,Sebastian
+T1 Explanation-Based Learning for Mobile Robot Perception
+
+RT Conference Proceedings
+ID 6390808
+A1 Dolgov,Dmitri
+A1 Thrun,Sebastian
+T1 Detection of Principal Directions in Unknown Environments for Autonomous Navigation
+
+RT Conference Proceedings
+ID 2822163
+A1 Primdahl,Keith
+A1 Katz,Itai
+A1 Feinstein,Oren
+A1 Mok,Yi,Lang
+A1 Dahlkamp,Hendrik
+A1 Stavens,David
+A1 Montemerlo,Michael
+A1 Thrun,Sebastian
+T1 Change Detection From Multiple Camera Images Extended to Non-Stationary Cameras
+
+RT Conference Proceedings
+ID 2636152
+A1 Montemerlo,Michael
+A1 Ferguson,David
+A1 Triebel,Rudolph
+A1 Burgard,Wolfram
+A1 Thayer,Scott
+A1 Whittaker,William
+A1 Thrun,Sebastian
+T1 A System for Three-Dimensional Robotic Mapping of Underground Mines
+
+RT Conference Proceedings
+ID 5816015
+A1 Petrovskaya,Anna
+A1 Khatib,Oussama
+A1 Thrun,Sebastian
+A1 Ng,Andrew,Y.
+T1 Touch Based Perception for Object Manipulation
+
+RT Journal Article
+ID 14246346
+A1 Segal,Aleksandr,V.
+A1 Haehnel,Dirk
+A1 Thrun,Sebastian
+T1 Generalized-ICP
+
+RT Journal Article
+ID 10924281
+A1 Matthews,Judith,Tabolt
+A1 Thrun,Sebastian
+A1 Dunbar-Jacob,Jacqueline
+T1 ROBOTIC ASSISTIVE TECHNOLOGY FOR COMMUNITY-RESIDING OLDER ADULTS AND PERSONS WITH DISABILITIES: AN INTER INSTITUTIONAL INITIATIVE FOR STUDENTS IN THE HEALTH AND TECHNOLOGY FIELDS
+
+RT Journal Article
+ID 6325995
+A1 Petrovskaya,Anna
+A1 Thrun,Sebastian
+T1 Model Based Vehicle Tracking in Urban Environments
+
+RT Journal Article
+ID 22187
+A1 Liu,Yufeng
+A1 Thrun,Sebastian
+T1 Gaussian Multi-Robot SLAM
+
+RT Journal Article
+ID 2727763
+A1 Likhachev,Maxim
+A1 Ferguson,Dave
+A1 Gordon,Geo
+A1 Stentz,Anthony
+A1 Thrun,Sebastian
+T1 Anytime Dynamic A*: The Proofs
+
+RT Journal Article
+ID 5096954
+A1 Dolgov,Dmitri
+A1 Thrun,Sebastian
+A1 Montemerlo,Michael
+A1 Diebel,James
+T1 Practical Search Techniques in Path Planning for Autonomous Driving
+
+RT Journal Article
+ID 100113
+A1 Pineau,Joelle
+A1 Thrun,Sebastian
+T1 Hierarchical POMDP Decomposition for A Conversational Robot
+
+RT Journal Article
+ID 117436
+A1 Thrun,Sebastian
+T1 A Programming Language Extension for Probabilistic Robot Programming
+
+RT Journal Article
+ID 12180638
+A1 Nettleton,Eric
+A1 Thrun,Sebastian
+A1 Durrant-Whyte,Hugh
+A1 Sukkarieh,Salah
+T1 Decentralised SLAM with Low-Bandwidth Communication for Teams of Vehicles
+
+RT Book, Whole
+ID 48525448
+A1 Lookingbill,Andrew
+A1 Lieb,David
+A1 Thrun,Sebastian
+T1 Optical Flow Approaches for Self-supervised Learning in Autonomous Mobile Robot Navigation
+
+RT Journal Article
+ID 38270
+A1 Pineau,Joelle
+A1 Montemerlo,Michael
+A1 Pollack,Martha
+A1 Roy,Nicholas
+A1 Thrun,Sebastian
+T1 Probablistic Control of Human Robot Interaction: Experiments with A Robotic Assistant for Nursing Homes
+
+RT Book, Whole
+ID 48552999
+A1 Montemerlo,Michael
+A1 Becker,Jan
+A1 Bhat,Suhrid
+A1 Dahlkamp,Hendrik
+A1 Dolgov,Dmitri
+A1 Ettinger,Scott
+A1 Haehnel,Dirk
+A1 Hilden,Tim
+A1 Hoffmann,Gabe
+A1 Huhnke,Burkhard
+A1 Johnston,Doug
+A1 Klumpp,Stefan
+A1 Langer,Dirk
+A1 Levandowski,Anthony
+A1 Levinson,Jesse
+A1 Marcil,Julien
+A1 Orenstein,David
+A1 Paefgen,Johannes
+A1 Penny,Isaac
+A1 Petrovskaya,Anna
+A1 Pflueger,Mike
+A1 Stanek,Ganymed
+A1 Stavens,David
+A1 Vogt,Antone
+A1 Thrun,Sebastian
+T1 Junior: The Stanford Entry in the Urban Challenge
+
+RT Journal Article
+ID 31917
+A1 Park,Sungwoo
+A1 Pfenning,Frank
+A1 Thrun,Sebastian
+T1 A Monadic Probabilistic Language
+
+RT Journal Article
+ID 6340473
+A1 Lita,Lucian,Vlad
+A1 Schulte,Jamieson
+A1 Thrun,Sebastian
+T1 A Multi-Agent System for Agent Coordination in Uncertain Environments
+
+RT Journal Article
+ID 14297616
+A1 Gudmundsson,Olafur
+A1 Miller,Brett
+A1 Potter,Jordan
+A1 Sullivan,Todd
+A1 Hoang,Salik,Syed,Doreen
+A1 Liao,Ki-Shui
+A1 Nahass,Pasha
+A1 Schwab,Amanda
+A1 Yuan,Jessica
+A1 Stavens,David
+A1 Plagemann,Christian
+A1 Nass,Clifford
+A1 Thrun,Sebastian
+T1 Assisted Highway Lane Changing with RASCL
+
+RT Journal Article
+ID 11731289
+A1 HallPhiladelphia,Levine
+A1 Thrun,Sebastian
+A1 Gordon,Geoff
+A1 Blum,Manuel
+A1 Koenig,Sven
+T1 M A X I M L I K H A C H E V RESEARCH ASSISTANT PROFESSOR Computer and Information Science University of Pennsylvania
+
+RT Journal Article
+ID 12060931
+A1 Thrun,Sebastian
+A1 Montemerlo,Michael
+A1 Koller,Daphne
+A1 Wegbreit,Ben
+A1 Nieto,Juan
+A1 Nebot,Eduardo
+T1 FastSLAM: An Efficient Solution to the Simultaneous Localization And Mapping Problem with Unknown Data
+
+RT Journal Article
+ID 19324
+A1 Dixon,Kevin,R.
+A1 Khosla,Pradeep,K.
+A1 Krogh,Bruce,H.
+A1 Mataric,Maja,J.
+A1 Paredis,Christiaan,J.,J.
+A1 Thrun,Sebastian,B.
+T1 Task Automation by Interpreting User Intent
+
+RT Journal Article
+ID 10615700
+A1 Majumder,Somajyoti
+A1 Durrant-Whyte,Hugh
+A1 Thrun,Sebastian
+A1 Battista,Marc,de
+A1 Thrun,Sebastain
+T1 IEEE Trans. Robotics and Automation Submission Cover Page For Submission as a regular paper: Title: An Approximate Bayesian Method for Simultaneous Localisation and Mapping
+
+RT Journal Article
+ID 39221147
+A1 Montemerlo,Michael
+A1 Pineau,Joelle
+A1 Roy,Nicholas
+A1 Thrun,Sebastian
+A1 Verma,Vandi
+T1 Experiences with a mobile robotic guide for the elderly
+
+RT Journal Article
+ID 39221148
+A1 Montemerlo,Michael
+A1 Thrun,Sebastian
+A1 Koller,Daphne
+A1 Wegbreit,Ben
+T1 FastSLAM: a factored solution to the simultaneous localization and mapping problem
+
+RT Journal Article
+ID 2334987
+A1 Thrun,Sebastian
+A1 Burgard,Wolfram
+A1 Chakrabarti,Deepayan
+A1 Emery,Rosemary
+A1 Liu,Yufeng
+T1 A Method for Acquiring Multi-Planar Volumetric Models with Mobile Robots Based on the EM Algorithm
+
+RT Journal Article
+ID 48565335
+A1 Burgard,Wolfram
+A1 Fox,Dieter
+A1 Thrun,Sebastian
+T1 Probabilistic State Estimation Techniques for Autonomous and Decision Support Systems
+JF Informatik Spektrum
+SP 1
+OP 7
+
+RT Journal Article
+ID 12823018
+A1 Thrun,Sebastian,B.
+A1 Mitchell,Tom,M.
+T1 Network Learning and d Learning
+
+RT Journal Article
+ID 2554064
+A1 Gerkey,Brian,P.
+A1 Thrun,Sebastian
+A1 Gordon,Geoff
+T1 A complete algorithm for visibility-based pursuit-evasion with limited field of view
+
+RT Journal Article
+ID 11812768
+A1 Montemerlo,Michael
+A1 Thrun,Sebastian
+T1 Large­ScaleRobotic3­DMappingofUrban Structures
+
+RT Journal Article
+ID 420528
+A1 Thrun,Sebastian
+A1 Schulte,Jamieson,E.
+T1 Reinforcement Learning with Policy Constraints
+
+RT Journal Article
+ID 10542210
+A1 Roy,Nicholas
+A1 Thrun,Sebastian
+T1 Motion Planning through Policy Search
+
+RT Book, Whole
+ID 48387216
+A1 Thrun,Sebastian
+T1 Winning the DARPA Grand Challenge

@@ -1,0 +1,3114 @@
+<file>
+<record>
+<title>FastSLAM: A factored solution to the simultaneous localization and mapping problem</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;citation_for_view=5Iqe53IAAAAJ:u5HHmVD_uO8C</link>
+<authors>M Montemerlo, S Thrun, D Koller, B Wegbreit</authors>
+<source>AAAI/IAAI, 593-598</source>
+<citations>1426</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Support vector machine active learning with applications to text classification</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;citation_for_view=5Iqe53IAAAAJ:d1gkVwhDpl0C</link>
+<authors>S Tong, D Koller</authors>
+<source>The Journal of Machine Learning Research 2, 45-66</source>
+<citations>1350</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Probabilistic graphical models: principles and techniques</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;citation_for_view=5Iqe53IAAAAJ:_FxGoFyzp5QC</link>
+<authors>D Kollar, N Friedman</authors>
+<source>The MIT Press</source>
+<citations>1320</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Module networks: identifying regulatory modules and their condition-specific regulators from gene expression data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;citation_for_view=5Iqe53IAAAAJ:u-x6o8ySG0sC</link>
+<authors>E Segal, M Shapira, A Regev, D Pe'er, D Botstein, D Koller, N Friedman</authors>
+<source>Nature genetics 34 (2), 166-176</source>
+<citations>1280</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Toward optimal feature selection</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;citation_for_view=5Iqe53IAAAAJ:9yKSN-GCB0IC</link>
+<authors>D Koller, M Sahami</authors>
+<source>Stanford InfoLab</source>
+<citations>1222</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>A gene-coexpression network for global discovery of conserved genetic modules</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;citation_for_view=5Iqe53IAAAAJ:2osOgNQ5qMEC</link>
+<authors>JM Stuart, E Segal, D Koller, SK Kim</authors>
+<source>Science 302 (5643), 249-255</source>
+<citations>1051</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Hierarchically classifying documents using very few words</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;citation_for_view=5Iqe53IAAAAJ:qjMakFHDy7sC</link>
+<authors>D Koller, M Sahami</authors>
+<source>Stanford InfoLab</source>
+<citations>937</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Max-Margin Markov Networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;citation_for_view=5Iqe53IAAAAJ:UeHWp8X0CEIC</link>
+<authors>BTCGD Koller</authors>
+<source></source>
+<citations>913</citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Learning probabilistic relational models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;citation_for_view=5Iqe53IAAAAJ:rHJHxKgnXwkC</link>
+<authors>N Friedman, L Getoor, D Koller, A Pfeffer</authors>
+<source>IJCAI 99, 1300-1309</source>
+<citations>716</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>FastSLAM 2.0</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;citation_for_view=5Iqe53IAAAAJ:zYLM7Y9cAGgC</link>
+<authors>M Montemerlo, S Thrun</authors>
+<source>FastSLAM: A Scalable Method for the Simultaneous Localization and Mapping ...</source>
+<citations>686</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Population genomics of human gene expression</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;citation_for_view=5Iqe53IAAAAJ:LkGwnXOMwfcC</link>
+<authors>BE Stranger, AC Nica, MS Forrest, A Dimas, CP Bird, C Beazley, CE Ingle, M ...</authors>
+<source>Nature genetics 39 (10), 1217-1224</source>
+<citations>597</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Discriminative probabilistic models for relational data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;citation_for_view=5Iqe53IAAAAJ:YsMSGLbcyi4C</link>
+<authors>B Taskar, P Abbeel, D Koller</authors>
+<source>Proceedings of the Eighteenth conference on Uncertainty in artificial ...</source>
+<citations>574</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Simultaneous localization and mapping with sparse extended information filters</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;citation_for_view=5Iqe53IAAAAJ:yMeIxYmEMEAC</link>
+<authors>S Thrun, Y Liu, D Koller, AY Ng, Z Ghahramani, H Durrant-Whyte</authors>
+<source>The International Journal of Robotics Research 23 (7-8), 693-716</source>
+<citations>560</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Context-specific independence in Bayesian networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;citation_for_view=5Iqe53IAAAAJ:W7OEmFMy1HYC</link>
+<authors>C Boutilier, N Friedman, M Goldszmidt, D Koller</authors>
+<source>Proceedings of the Twelfth international conference on Uncertainty in ...</source>
+<citations>545</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>A module map showing conditional activity of expression modules in cancer</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;citation_for_view=5Iqe53IAAAAJ:ufrVoPGSRksC</link>
+<authors>E Segal, N Friedman, D Koller, A Regev</authors>
+<source>Nature genetics 36 (10), 1090-1098</source>
+<citations>518</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Being Bayesian about network structure. A Bayesian approach to structure discovery in Bayesian networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;citation_for_view=5Iqe53IAAAAJ:Tyk-4Ss8FVUC</link>
+<authors>N Friedman, D Koller</authors>
+<source>Machine learning 50 (1-2), 95-125</source>
+<citations>504</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Tractable inference for complex stochastic processes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;citation_for_view=5Iqe53IAAAAJ:eQOLeE2rZwMC</link>
+<authors>X Boyen, D Koller</authors>
+<source>Proceedings of the Fourteenth conference on Uncertainty in artificial ...</source>
+<citations>499</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Object-oriented Bayesian networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;citation_for_view=5Iqe53IAAAAJ:WF5omc3nYNoC</link>
+<authors>D Koller, A Pfeffer</authors>
+<source>Proceedings of the Thirteenth conference on Uncertainty in artificial ...</source>
+<citations>487</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>The chemical genomic portrait of yeast: uncovering a phenotype for all genes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;citation_for_view=5Iqe53IAAAAJ:hqOjcs7Dif8C</link>
+<authors>ME Hillenmeyer, E Fung, J Wildenhain, SE Pierce, S Hoon, W Lee, M Proctor ...</authors>
+<source>Science 320 (5874), 362-365</source>
+<citations>442</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Towards robust automatic traffic scene analysis in real-time</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;citation_for_view=5Iqe53IAAAAJ:roLk4NBRz8UC</link>
+<authors>D Koller, J Weber, T Huang, J Malik, G Ogasawara, B Rao, S Russell</authors>
+<source>Pattern Recognition, 1994. Vol. 1-Conference A: Computer Vision &amp; Image ...</source>
+<citations>410</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Scape: shape completion and animation of people</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=20&amp;citation_for_view=5Iqe53IAAAAJ:MXK_kJrjxJIC</link>
+<authors>D Anguelov, P Srinivasan, D Koller, S Thrun, J Rodgers, J Davis</authors>
+<source>ACM Transactions on Graphics (TOG) 24 (3), 408-416</source>
+<citations>388</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Adaptive probabilistic networks with hidden variables</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=20&amp;citation_for_view=5Iqe53IAAAAJ:Se3iqnhoufwC</link>
+<authors>J Binder, D Koller, S Russell, K Kanazawa</authors>
+<source>Machine Learning 29 (2-3), 213-244</source>
+<citations>352</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Probabilistic frame-based systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=20&amp;citation_for_view=5Iqe53IAAAAJ:UebtZRa9Y70C</link>
+<authors>D Koller, A Pfeffer</authors>
+<source>AAAI/IAAI, 580-587</source>
+<citations>331</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Multi-agent influence diagrams for representing and solving games</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=20&amp;citation_for_view=5Iqe53IAAAAJ:8k81kl-MbHgC</link>
+<authors>D Koller, B Milch</authors>
+<source>Games and Economic Behavior 45 (1), 181-221</source>
+<citations>310</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Efficient solution algorithms for factored MDPs</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=20&amp;citation_for_view=5Iqe53IAAAAJ:3fE2CSJIrl8C</link>
+<authors>C Guestrin, D Koller, R Parr, S Venkataraman</authors>
+<source>J. Artif. Intell. Res.(JAIR) 19, 399-468</source>
+<citations>307</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>From signatures to models: understanding cancer using microarrays</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=20&amp;citation_for_view=5Iqe53IAAAAJ:5nxA0vEk-isC</link>
+<authors>E Segal, N Friedman, N Kaminski, A Regev, D Koller</authors>
+<source>Nature genetics 37, S38-S45</source>
+<citations>306</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Genome-wide discovery of transcriptional modules from DNA sequence and gene expression</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=20&amp;citation_for_view=5Iqe53IAAAAJ:0EnyYjriUFMC</link>
+<authors>E Segal, R Yelensky, D Koller</authors>
+<source>Bioinformatics 19 (suppl 1), i273-i282</source>
+<citations>281</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Multiagent Planning with Factored MDPs.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=20&amp;citation_for_view=5Iqe53IAAAAJ:Zph67rFs4hoC</link>
+<authors>C Guestrin, D Koller, R Parr</authors>
+<source>NIPS 1, 1523-1530</source>
+<citations>270</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Stochastic simulation algorithms for dynamic probabilistic networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=20&amp;citation_for_view=5Iqe53IAAAAJ:kNdYIx-mwKoC</link>
+<authors>K Kanazawa, D Koller, S Russell</authors>
+<source>Proceedings of the Eleventh conference on Uncertainty in artificial ...</source>
+<citations>269</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Discovering molecular pathways from protein interaction and gene expression data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=20&amp;citation_for_view=5Iqe53IAAAAJ:KlAtU1dfN6UC</link>
+<authors>E Segal, H Wang, D Koller</authors>
+<source>Bioinformatics 19 (suppl 1), i264-i272</source>
+<citations>268</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Learning structured prediction models: A large margin approach</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=20&amp;citation_for_view=5Iqe53IAAAAJ:4TOpqqG69KYC</link>
+<authors>B Taskar, V Chatalbashev, D Koller, C Guestrin</authors>
+<source>Proceedings of the 22nd international conference on Machine learning, 896-903</source>
+<citations>264</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Rich probabilistic models for gene expression</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=20&amp;citation_for_view=5Iqe53IAAAAJ:ULOm3_A8WrAC</link>
+<authors>E Segal, B Taskar, A Gasch, N Friedman, D Koller</authors>
+<source>Bioinformatics 17 (suppl 1), S243-S252</source>
+<citations>261</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Relational data mining</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=20&amp;citation_for_view=5Iqe53IAAAAJ:IjCSPb-OGe4C</link>
+<authors>L Getoor, N Friedman, D Koller, A Pfeffer</authors>
+<source>Learning Probabilistic Relational Models, 307-335</source>
+<citations>260</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Link prediction in relational data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=20&amp;citation_for_view=5Iqe53IAAAAJ:Wp0gIr-vW9MC</link>
+<authors>B Taskar, MF Wong, P Abbeel, D Koller</authors>
+<source>Advances in neural information processing systems, None</source>
+<citations>255</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>P-CLASSIC: A tractable probablistic description logic</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=20&amp;citation_for_view=5Iqe53IAAAAJ:YOwf2qJgpHMC</link>
+<authors>D Koller, A Levy, A Pfeffer</authors>
+<source>AAAI/IAAI 1997, 390-397</source>
+<citations>255</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Probabilistic classification and clustering in relational data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=20&amp;citation_for_view=5Iqe53IAAAAJ:_kc_bZDykSQC</link>
+<authors>B Taskar, E Segal, D Koller</authors>
+<source>International Joint Conference on Artificial Intelligence 17 (1), 870-878</source>
+<citations>252</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Learning probabilistic models of link structure</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=20&amp;citation_for_view=5Iqe53IAAAAJ:M3ejUd6NZC8C</link>
+<authors>L Getoor, N Friedman, D Koller, B Taskar</authors>
+<source>The Journal of Machine Learning Research 3, 679-707</source>
+<citations>251</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Discriminative learning of markov random fields for segmentation of 3d scan data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=20&amp;citation_for_view=5Iqe53IAAAAJ:9ZlFYXVOiuMC</link>
+<authors>D Anguelov, B Taskarf, V Chatalbashev, D Koller, D Gupta, G Heitz, A Ng</authors>
+<source>Computer Vision and Pattern Recognition, 2005. CVPR 2005. IEEE Computer ...</source>
+<citations>232</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Bayesian fault detection and diagnosis in dynamic systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=20&amp;citation_for_view=5Iqe53IAAAAJ:mVmsd5A6BfQC</link>
+<authors>U Lerner, R Parr, D Koller, G Biswas</authors>
+<source>AAAI/IAAI, 531-537</source>
+<citations>202</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Representations and solutions for game-theoretic problems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=20&amp;citation_for_view=5Iqe53IAAAAJ:aqlVkmm33-oC</link>
+<authors>D Koller, A Pfeffer</authors>
+<source>Artificial Intelligence 94 (1), 167-215</source>
+<citations>202</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>From statistical knowledge bases to degrees of belief</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=40&amp;citation_for_view=5Iqe53IAAAAJ:qxL8FJ1GzNcC</link>
+<authors>F Bacchus, AJ Grove, JY Halpern, D Koller</authors>
+<source>Artificial intelligence 87 (1), 75-143</source>
+<citations>197</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Sfp1 is a stress-and nutrient-sensitive regulator of ribosomal protein gene expression</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=40&amp;citation_for_view=5Iqe53IAAAAJ:QIV2ME_5wuYC</link>
+<authors>RM Marion, A Regev, E Segal, Y Barash, D Koller, N Friedman, EK O'Shea</authors>
+<source>Proceedings of the National Academy of Sciences of the United States of ...</source>
+<citations>189</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Max-Margin Parsing.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=40&amp;citation_for_view=5Iqe53IAAAAJ:4DMP91E08xMC</link>
+<authors>B Taskar, D Klein, M Collins, D Koller, CD Manning</authors>
+<source>EMNLP 1 (1.1), 3</source>
+<citations>187</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Selectivity estimation using probabilistic models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=40&amp;citation_for_view=5Iqe53IAAAAJ:7PzlFSSx8tAC</link>
+<authors>L Getoor, B Taskar, D Koller</authors>
+<source>ACM SIGMOD Record 30 (2), 461-472</source>
+<citations>175</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Making rational decisions using adaptive utility elicitation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=40&amp;citation_for_view=5Iqe53IAAAAJ:L8Ckcad2t8MC</link>
+<authors>U Chajewska, D Koller, R Parr</authors>
+<source>AAAI/IAAI, 363-369</source>
+<citations>173</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Local learning in probabilistic networks with hidden variables</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=40&amp;citation_for_view=5Iqe53IAAAAJ:dhFuZR0502QC</link>
+<authors>S Russell, J Binder, D Koller, K Kanazawa</authors>
+<source>IJCAI 95, 1146-1152</source>
+<citations>172</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Mcrank: Learning to rank using multiple classification and gradient boosting</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=40&amp;citation_for_view=5Iqe53IAAAAJ:lSLTfruPkqcC</link>
+<authors>P Li, Q Wu, CJ Burges</authors>
+<source>Advances in neural information processing systems, 897-904</source>
+<citations>171</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Learning spatial context: Using stuff to find things</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=40&amp;citation_for_view=5Iqe53IAAAAJ:BqipwSGYUEgC</link>
+<authors>G Heitz, D Koller</authors>
+<source>Computer VisionECCV 2008, 30-43</source>
+<citations>169</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Efficient computation of equilibria for extensive two-person games</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=40&amp;citation_for_view=5Iqe53IAAAAJ:ZeXyd9-uunAC</link>
+<authors>D Koller, N Megiddo, B Von Stengel</authors>
+<source>Games and Economic Behavior 14 (2), 247-259</source>
+<citations>166</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Learning probabilistic models of relational structure</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=40&amp;citation_for_view=5Iqe53IAAAAJ:IWHjjKOFINEC</link>
+<authors>L Getoor, N Friedman, D Koller, B Taskar</authors>
+<source>ICML 1, 170-177</source>
+<citations>163</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>An integrated stereo-based approach to automatic vehicle guidance</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=40&amp;citation_for_view=5Iqe53IAAAAJ:kWvqk_afx_IC</link>
+<authors>QT Luong, J Weber, D Koller, J Malik</authors>
+<source>Computer Vision, 1995. Proceedings., Fifth International Conference on, 52-57</source>
+<citations>161</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Decomposing a scene into geometric and semantically consistent regions</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=40&amp;citation_for_view=5Iqe53IAAAAJ:4OULZ7Gr8RgC</link>
+<authors>S Gould, R Fulton, D Koller</authors>
+<source>Computer Vision, 2009 IEEE 12th International Conference on, 1-8</source>
+<citations>160</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Generalizing plans to new environments in relational MDPs</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=40&amp;citation_for_view=5Iqe53IAAAAJ:qUcmZB5y_30C</link>
+<authors>C Guestrin, D Koller, C Gearhart, N Kanodia</authors>
+<source>In International Joint Conference on Artificial Intelligence (IJCAI-03</source>
+<citations>157</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Functional Organization of the S. cerevisiae Phosphorylation Network</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=40&amp;citation_for_view=5Iqe53IAAAAJ:lgwcVrK6X84C</link>
+<authors>D Fiedler, H Braberg, M Mehta, G Chechik, G Cagney, P Mukherjee, AC Silva, M ...</authors>
+<source>Cell 136 (5), 952-963</source>
+<citations>149</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>The Immunological Genome Project: networks of gene expression in immune cells</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=40&amp;citation_for_view=5Iqe53IAAAAJ:7wO8s98CvbsC</link>
+<authors>TSP Heng, MW Painter, K Elpek, V Lukacs-Kornek, N Mauermann, SJ Turley, D ...</authors>
+<source>Nature immunology 9 (10), 1091-1094</source>
+<citations>149</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>The complexity of two-person zero-sum games in extensive form</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=40&amp;citation_for_view=5Iqe53IAAAAJ:hC7cP41nSMkC</link>
+<authors>D Koller, N Megiddo</authors>
+<source>Games and economic behavior 4 (4), 528-552</source>
+<citations>146</citations>
+<pub_year>1992</pub_year>
+</record>
+<record>
+<title>Constructing informative priors using transfer learning</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=40&amp;citation_for_view=5Iqe53IAAAAJ:_Qo2XoVZTnwC</link>
+<authors>R Raina, AY Ng, D Koller</authors>
+<source>Proceedings of the 23rd international conference on Machine learning, 713-720</source>
+<citations>144</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Efficient Structure Learning of Markov Networks using $ L_1 $-Regularization</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=40&amp;citation_for_view=5Iqe53IAAAAJ:maZDTaKrznsC</link>
+<authors>SI Lee, V Ganapathi, D Koller</authors>
+<source>Advances in neural Information processing systems, 817-824</source>
+<citations>144</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Fast algorithms for finding randomized strategies in game trees</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=40&amp;citation_for_view=5Iqe53IAAAAJ:e5wmG9Sq2KIC</link>
+<authors>D Koller, N Megiddo, B Von Stengel</authors>
+<source>Proceedings of the twenty-sixth annual ACM symposium on Theory of computing ...</source>
+<citations>144</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Being Bayesian about network structure</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=40&amp;citation_for_view=5Iqe53IAAAAJ:L1USKYWJimsC</link>
+<authors>N Friedman, D Koller</authors>
+<source>Proceedings of the Sixteenth conference on Uncertainty in artificial ...</source>
+<citations>142</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Residual belief propagation: Informed scheduling for asynchronous message passing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=60&amp;citation_for_view=5Iqe53IAAAAJ:TFP_iSt0sucC</link>
+<authors>G Elidan, I McGraw, D Koller</authors>
+<source>arXiv preprint arXiv:1206.6837</source>
+<citations>141</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Active learning for structure in Bayesian networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=60&amp;citation_for_view=5Iqe53IAAAAJ:R3hNpaxXUhUC</link>
+<authors>S Tong, D Koller</authors>
+<source>International joint conference on artificial intelligence 17 (1), 863-869</source>
+<citations>140</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Automatic symbolic traffic scene analysis using belief networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=60&amp;citation_for_view=5Iqe53IAAAAJ:-f6ydRqryjwC</link>
+<authors>T Huang, D Koller, J Malik, G Ogasawara, B Rao, SJ Russell, J Weber</authors>
+<source>AAAI 94, 966-972</source>
+<citations>140</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Multi-class segmentation with relative location prior</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=60&amp;citation_for_view=5Iqe53IAAAAJ:ZHo1McVdvXMC</link>
+<authors>S Gould, J Rodgers, D Cohen, G Elidan, D Koller</authors>
+<source>International Journal of Computer Vision 80 (3), 300-316</source>
+<citations>138</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Fastslam: An efficient solution to the simultaneous localization and mapping problem with unknown data association</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=60&amp;citation_for_view=5Iqe53IAAAAJ:4JMBOYKVnBMC</link>
+<authors>S Thrun, M Montemerlo, D Koller, B Wegbreit, J Nieto, E Nebot</authors>
+<source>Journal of Machine Learning Research 4 (3), 380-407</source>
+<citations>138</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>The correlated correspondence algorithm for unsupervised registration of nonrigid surfaces</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=60&amp;citation_for_view=5Iqe53IAAAAJ:hMod-77fHWUC</link>
+<authors>D Anguelov, P Srinivasan, HC Pang, D Koller, S Thrun, J Davis</authors>
+<source>Advances in neural information processing systems 17, 33-40</source>
+<citations>132</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Policy iteration for factored MDPs</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=60&amp;citation_for_view=5Iqe53IAAAAJ:mB3voiENLucC</link>
+<authors>D Koller, R Parr</authors>
+<source>Proceedings of the Sixteenth Conference on Uncertainty in Artificial ...</source>
+<citations>132</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Learning associative Markov networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=60&amp;citation_for_view=5Iqe53IAAAAJ:JV2RwH3_ST0C</link>
+<authors>B Taskar, V Chatalbashev, D Koller</authors>
+<source>Proceedings of the twenty-first international conference on Machine learning ...</source>
+<citations>131</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Nonuniform dynamic discretization in hybrid networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=60&amp;citation_for_view=5Iqe53IAAAAJ:TQgYirikUcIC</link>
+<authors>AV Kozlov, D Koller</authors>
+<source>Proceedings of the Thirteenth conference on Uncertainty in artificial ...</source>
+<citations>129</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Finding the hidden path: Time bounds for all-pairs shortest paths</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=60&amp;citation_for_view=5Iqe53IAAAAJ:r0BpntZqJG4C</link>
+<authors>DR Karger, D Koller, SJ Phillips</authors>
+<source>SIAM Journal on Computing 22 (6), 1199-1217</source>
+<citations>128</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Computing factored value functions for policies in structured MDPs</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=60&amp;citation_for_view=5Iqe53IAAAAJ:RHpTSmoSYBkC</link>
+<authors>D Koller, R Parr</authors>
+<source>IJCAI 99, 1332-1339</source>
+<citations>126</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Update rules for parameter estimation in Bayesian networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=60&amp;citation_for_view=5Iqe53IAAAAJ:j3f4tGmQtD8C</link>
+<authors>E Bauer, D Koller, Y Singer</authors>
+<source>Proceedings of the Thirteenth conference on Uncertainty in artificial ...</source>
+<citations>126</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Ordering-based search: A simple and effective algorithm for learning Bayesian networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=60&amp;citation_for_view=5Iqe53IAAAAJ:GnPB-g6toBAC</link>
+<authors>M Teyssier, D Koller</authors>
+<source>arXiv preprint arXiv:1207.1429</source>
+<citations>125</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Using probabilistic information in data integration</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=60&amp;citation_for_view=5Iqe53IAAAAJ:hFOr9nPyWt4C</link>
+<authors>D Florescu, D Koller, A Levy, A Pfeffer</authors>
+<source>VLDB 97, 25-29</source>
+<citations>125</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Context-specific multiagent coordination and planning with factored MDPs</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=60&amp;citation_for_view=5Iqe53IAAAAJ:iH-uZ7U-co4C</link>
+<authors>C Guestrin, S Venkataraman, D Koller</authors>
+<source>AAAI/IAAI, 253-259</source>
+<citations>122</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>From promoter sequence to expression: a probabilistic framework</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=60&amp;citation_for_view=5Iqe53IAAAAJ:HDshCWvjkbEC</link>
+<authors>E Segal, Y Barash, I Simon, N Friedman, D Koller</authors>
+<source>Proceedings of the sixth annual international conference on Computational ...</source>
+<citations>121</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>A general algorithm for approximate inference and its application to hybrid Bayes nets</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=60&amp;citation_for_view=5Iqe53IAAAAJ:bEWYMUwI8FkC</link>
+<authors>D Koller, U Lerner, D Angelov</authors>
+<source>Proceedings of the Fifteenth conference on Uncertainty in artificial ...</source>
+<citations>121</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Detecting and modeling doors with mobile robots</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=60&amp;citation_for_view=5Iqe53IAAAAJ:blknAaTinKkC</link>
+<authors>D Anguelov, D Koller, E Parker, S Thrun</authors>
+<source>Robotics and Automation, 2004. Proceedings. ICRA'04. 2004 IEEE International ...</source>
+<citations>119</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Efficient reinforcement learning in factored MDPs</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=60&amp;citation_for_view=5Iqe53IAAAAJ:M3NEmzRMIkIC</link>
+<authors>M Kearns, D Koller</authors>
+<source>IJCAI 16, 740-747</source>
+<citations>115</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Probabilistic reasoning for complex systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=60&amp;citation_for_view=5Iqe53IAAAAJ:k_IJM867U9cC</link>
+<authors>AJ Pfeffer, D Koller</authors>
+<source>Stanford University</source>
+<citations>114</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>SPOOK: A system for probabilistic object-oriented knowledge representation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=80&amp;citation_for_view=5Iqe53IAAAAJ:isC4tDSrTZIC</link>
+<authors>A Pfeffer, D Koller, B Milch, KT Takusagawa</authors>
+<source>Proceedings of the Fifteenth conference on Uncertainty in artificial ...</source>
+<citations>113</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Learning module networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=80&amp;citation_for_view=5Iqe53IAAAAJ:O3NaXMp0MMsC</link>
+<authors>E Segal, D Pe'er, A Regev, D Koller</authors>
+<source>Proceedings of the Nineteenth conference on Uncertainty in Artificial ...</source>
+<citations>112</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Real time motion capture using a single time-of-flight camera</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=80&amp;citation_for_view=5Iqe53IAAAAJ:XiSMed-E-HIC</link>
+<authors>V Ganapathi, C Plagemann, D Koller, S Thrun</authors>
+<source>Computer Vision and Pattern Recognition (CVPR), 2010 IEEE Conference on, 755-762</source>
+<citations>110</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Continuous time Bayesian networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=80&amp;citation_for_view=5Iqe53IAAAAJ:fbc8zXXH2BUC</link>
+<authors>U Nodelman, CR Shelton, D Koller</authors>
+<source>Proceedings of the Eighteenth conference on Uncertainty in artificial ...</source>
+<citations>110</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Max-norm projections for factored MDPs</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=80&amp;citation_for_view=5Iqe53IAAAAJ:NMxIlDl6LWMC</link>
+<authors>C Guestrin, D Koller, R Parr</authors>
+<source>IJCAI 1, 673-682</source>
+<citations>106</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Active learning for parameter estimation in Bayesian networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=80&amp;citation_for_view=5Iqe53IAAAAJ:RYcK_YlVTxYC</link>
+<authors>S Tong, D Koller</authors>
+<source>NIPS 13, 647-653</source>
+<citations>105</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Identifying regulatory mechanisms using individual variation reveals key role for chromatin modification</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=80&amp;citation_for_view=5Iqe53IAAAAJ:2P1L_qKh6hAC</link>
+<authors>SI Lee, D Pe'Er, AM Dudley, GM Church, D Koller</authors>
+<source>Proceedings of the National Academy of Sciences 103 (38), 14062-14067</source>
+<citations>103</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Learning factor graphs in polynomial time and sample complexity</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=80&amp;citation_for_view=5Iqe53IAAAAJ:g5m5HwL7SMYC</link>
+<authors>P Abbeel, D Koller, AY Ng</authors>
+<source>The Journal of Machine Learning Research 7, 1743-1788</source>
+<citations>101</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Word-sense disambiguation for machine translation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=80&amp;citation_for_view=5Iqe53IAAAAJ:ns9cj8rnVeAC</link>
+<authors>D Vickrey, L Biewald, M Teyssier, D Koller</authors>
+<source>Proceedings of the conference on Human Language Technology and Empirical ...</source>
+<citations>101</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Multi-agent algorithms for solving graphical games</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=80&amp;citation_for_view=5Iqe53IAAAAJ:RGFaLdJalmkC</link>
+<authors>D Vickrey, D Koller</authors>
+<source>AAAI/IAAI, 345-351</source>
+<citations>101</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Using Learning for Approximation in Stochastic Processes.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=80&amp;citation_for_view=5Iqe53IAAAAJ:YFjsv_pBGBYC</link>
+<authors>D Koller, R Fratkina</authors>
+<source>ICML, 287-295</source>
+<citations>100</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Learning a prior on regulatory potential from eQTL data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=80&amp;citation_for_view=5Iqe53IAAAAJ:f2IySw72cVMC</link>
+<authors>SI Lee, AM Dudley, D Drubin, PA Silver, NJ Krogan, D Pe'er, D Koller</authors>
+<source>PLoS genetics 5 (1), e1000358</source>
+<citations>99</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Discovering hidden variables: A structure-based approach</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=80&amp;citation_for_view=5Iqe53IAAAAJ:vV6vV6tmYwMC</link>
+<authors>G Elidan, N Lotner, N Friedman, D Koller</authors>
+<source>NIPS 13, 479-485</source>
+<citations>96</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Achievable cases in an asynchronous environment</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=80&amp;citation_for_view=5Iqe53IAAAAJ:GFxP56DSvIMC</link>
+<authors>H Attiya, A Bar-Noy, D Dolev, D Koller, D Peleg, R Reischuk</authors>
+<source>Foundations of Computer Science, 1987., 28th Annual Symposium on, 337-346</source>
+<citations>92</citations>
+<pub_year>1987</pub_year>
+</record>
+<record>
+<title>Probabilistic models for relational data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=80&amp;citation_for_view=5Iqe53IAAAAJ:J_g5lzvAfSwC</link>
+<authors>D Heckerman, C Meek, D Koller</authors>
+<source>Technical Report MSR-TR-2004-30, Microsoft Research</source>
+<citations>91</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>A Protein Domain-Based Interactome Network for C. elegans Early Embryogenesis</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=80&amp;citation_for_view=5Iqe53IAAAAJ:Aul-kAQHnToC</link>
+<authors>M Boxem, Z Maliga, N Klitgord, N Li, I Lemmens, M Mana, L de Lichtervelde ...</authors>
+<source>Cell 134 (3), 534-545</source>
+<citations>90</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Decomposing gene expression into cellular processes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=80&amp;citation_for_view=5Iqe53IAAAAJ:70eg2SAEIzsC</link>
+<authors>E Segal, A Battle, D Koller</authors>
+<source>Proceedings of the Pacific Symposium on Biocomputing 8, 89-100</source>
+<citations>90</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Random worlds and maximum entropy</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=80&amp;citation_for_view=5Iqe53IAAAAJ:35N4QoGY0k4C</link>
+<authors>AJ Grove, JY Halpern, D Koller</authors>
+<source>Logic in Computer Science, 1992. LICS'92., Proceedings of the Seventh Annual ...</source>
+<citations>89</citations>
+<pub_year>1992</pub_year>
+</record>
+<record>
+<title>Learning statistical models from relational data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=80&amp;citation_for_view=5Iqe53IAAAAJ:ldfaerwXgEUC</link>
+<authors>L Getoor, L Mihalkova</authors>
+<source>Proceedings of the 2011 ACM SIGMOD International Conference on Management of ...</source>
+<citations>88</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Learning probabilities for noisy first-order rules</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=80&amp;citation_for_view=5Iqe53IAAAAJ:NaGl4SEjCO4C</link>
+<authors>D Koller, A Pfeffer</authors>
+<source>IJCAI, 1316-1323</source>
+<citations>88</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Real-time identification and localization of body parts from depth images</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=100&amp;citation_for_view=5Iqe53IAAAAJ:tOudhMTPpwUC</link>
+<authors>C Plagemann, V Ganapathi, D Koller, S Thrun</authors>
+<source>Robotics and Automation (ICRA), 2010 IEEE International Conference on, 3108-3113</source>
+<citations>84</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Learning an agent's utility function by observing behavior</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=100&amp;citation_for_view=5Iqe53IAAAAJ:zA6iFVUQeVQC</link>
+<authors>U Chajewska, D Koller, D Ormoneit</authors>
+<source>ICML, 35-42</source>
+<citations>84</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>A new view of automatic relevance determination</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=100&amp;citation_for_view=5Iqe53IAAAAJ:U4n9YNQMCAIC</link>
+<authors>DP Wipf, SS Nagarajan</authors>
+<source>Advances in Neural Information Processing Systems, 1625-1632</source>
+<citations>83</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Learning hierarchical object maps of non-stationary environments with mobile robots</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=100&amp;citation_for_view=5Iqe53IAAAAJ:pqnbT2bcN3wC</link>
+<authors>D Anguelov, R Biswas, D Koller, B Limketkai, S Thrun</authors>
+<source>Proceedings of the Eighteenth conference on Uncertainty in artificial ...</source>
+<citations>82</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>A Continuation Method for Nash Equilibria in Structured Games.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=100&amp;citation_for_view=5Iqe53IAAAAJ:rO6llkc54NcC</link>
+<authors>B Blum, CR Shelton, D Koller</authors>
+<source>J. Artif. Intell. Res.(JAIR) 25, 457-502</source>
+<citations>80</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Recovering articulated object models from 3D range data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=100&amp;citation_for_view=5Iqe53IAAAAJ:dfsIfKJdRG4C</link>
+<authors>D Anguelov, D Koller, HC Pang, P Srinivasan, S Thrun</authors>
+<source>Proceedings of the 20th conference on Uncertainty in artificial intelligence ...</source>
+<citations>80</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Probabilistic models of text and link structure for hypertext classification</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=100&amp;citation_for_view=5Iqe53IAAAAJ:HoB7MX3m0LUC</link>
+<authors>L Getoor, E Segal, B Taskar, D Koller</authors>
+<source>IJCAI workshop on text learning: beyond supervision, 24-29</source>
+<citations>80</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Probabilistic relational models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=100&amp;citation_for_view=5Iqe53IAAAAJ:SeFeTyx0c_EC</link>
+<authors>D Koller</authors>
+<source>Inductive logic programming, 3-13</source>
+<citations>80</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Discovering the hidden structure of complex dynamic systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=100&amp;citation_for_view=5Iqe53IAAAAJ:u_35RYKgDlwC</link>
+<authors>X Boyen, N Friedman, D Koller</authors>
+<source>Proceedings of the Fifteenth conference on Uncertainty in artificial ...</source>
+<citations>78</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Sampling in factored dynamic systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=100&amp;citation_for_view=5Iqe53IAAAAJ:fPk4N6BV_jEC</link>
+<authors>D Koller, U Lerner</authors>
+<source>Sequential Monte Carlo Methods in Practice, 445-464</source>
+<citations>77</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Simultaneous mapping and localization with sparse extended information filters: Theory and initial results</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=100&amp;citation_for_view=5Iqe53IAAAAJ:_OXeSy2IsFwC</link>
+<authors>S Thrun, D Koller, Z Ghahramani, H Durrant-Whyte, AY Ng</authors>
+<source>School of Computer Science, Carnegie Mellon University</source>
+<citations>76</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Statistical foundations for default reasoning</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=100&amp;citation_for_view=5Iqe53IAAAAJ:M05iB0D1s5AC</link>
+<authors>F Bacchus, AJ Grove, JY Halpern, D Koller</authors>
+<source>IJCAI, 563-569</source>
+<citations>76</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>From statistics to beliefs</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=100&amp;citation_for_view=5Iqe53IAAAAJ:3s1wT3WcHBgC</link>
+<authors>F Bacchus, A Grove, D Koller, JY Halpern</authors>
+<source>AAAI, 602-608</source>
+<citations>75</citations>
+<pub_year>1992</pub_year>
+</record>
+<record>
+<title>Effective Bayesian inference for stochastic programs</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=100&amp;citation_for_view=5Iqe53IAAAAJ:cFHS6HbyZ2cC</link>
+<authors>D Koller, D McAllester, A Pfeffer</authors>
+<source>AAAI/IAAI, 740-747</source>
+<citations>73</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Learning continuous time Bayesian networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=100&amp;citation_for_view=5Iqe53IAAAAJ:yD5IFk8b50cC</link>
+<authors>U Nodelman, CR Shelton, D Koller</authors>
+<source>Proceedings of the Nineteenth conference on Uncertainty in Artificial ...</source>
+<citations>70</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Cascaded classification models: Combining models for holistic scene understanding</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=100&amp;citation_for_view=5Iqe53IAAAAJ:b0M2c_1WBrUC</link>
+<authors>G Heitz, S Gould, A Saxena, D Koller</authors>
+<source>Advances in Neural Information Processing Systems, 641-648</source>
+<citations>69</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Utilities as random variables: Density estimation and structure discovery</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=100&amp;citation_for_view=5Iqe53IAAAAJ:Ehil0879vHcC</link>
+<authors>U Chajewska, D Koller</authors>
+<source>Proceedings of the Sixteenth conference on Uncertainty in artificial ...</source>
+<citations>69</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Constructing flexible dynamic belief networks from first-order probabilistic knowledge bases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=100&amp;citation_for_view=5Iqe53IAAAAJ:a0OBvERweLwC</link>
+<authors>S Glesner, D Koller</authors>
+<source>Symbolic and Quantitative Approaches to Reasoning and Uncertainty, 217-226</source>
+<citations>65</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Projected subgradient methods for learning sparse gaussians</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=100&amp;citation_for_view=5Iqe53IAAAAJ:u9iWguZQMMsC</link>
+<authors>J Duchi, S Gould, D Koller</authors>
+<source>arXiv preprint arXiv:1206.3249</source>
+<citations>64</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Exact inference in networks with discrete children of continuous parents</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=100&amp;citation_for_view=5Iqe53IAAAAJ:D03iK_w7-QYC</link>
+<authors>U Lerner, E Segal, D Koller</authors>
+<source>Proceedings of the Seventeenth conference on Uncertainty in artificial ...</source>
+<citations>64</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Learning a meta-level prior for feature relevance from multiple related tasks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=120&amp;citation_for_view=5Iqe53IAAAAJ:EUQCXRtRnyEC</link>
+<authors>SI Lee, V Chatalbashev, D Vickrey, D Koller</authors>
+<source>Proceedings of the 24th international conference on Machine learning, 489-496</source>
+<citations>62</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Region-based segmentation and object detection</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=120&amp;citation_for_view=5Iqe53IAAAAJ:vRqMK49ujn8C</link>
+<authors>S Gould, T Gao, D Koller</authors>
+<source>Advances in neural information processing systems, 655-663</source>
+<citations>61</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Activity motifs reveal principles of timing in transcriptional control of the yeast metabolic network</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=120&amp;citation_for_view=5Iqe53IAAAAJ:CHSYGLWDkRkC</link>
+<authors>G Chechik, E Oh, O Rando, J Weissman, A Regev, D Koller</authors>
+<source>Nature biotechnology 26 (11), 1251-1259</source>
+<citations>61</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Single image depth estimation from predicted semantic labels</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=120&amp;citation_for_view=5Iqe53IAAAAJ:SdhP9T11ey4C</link>
+<authors>B Liu, S Gould, D Koller</authors>
+<source>Computer Vision and Pattern Recognition (CVPR), 2010 IEEE Conference on ...</source>
+<citations>59</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Monitoring a complex physical system using a hybrid dynamic bayes net</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=120&amp;citation_for_view=5Iqe53IAAAAJ:bFI3QPDXJZMC</link>
+<authors>U Lerner, B Moses, M Scott, S McIlraith, D Koller</authors>
+<source>Proceedings of the Eighteenth conference on Uncertainty in artificial ...</source>
+<citations>57</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Constructing small sample spaces satisfying given constraints</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=120&amp;citation_for_view=5Iqe53IAAAAJ:pyW8ca7W8N0C</link>
+<authors>D Koller, N Megiddo</authors>
+<source>SIAM Journal on Discrete Mathematics 7 (2), 260-274</source>
+<citations>57</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Integrating visual and range data for robotic object detection</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=120&amp;citation_for_view=5Iqe53IAAAAJ:WbkHhVStYXYC</link>
+<authors>S Gould, P Baumstarck, M Quigley, AY Ng, D Koller</authors>
+<source>Workshop on Multi-camera and Multi-modal Sensor Fusion Algorithms and ...</source>
+<citations>55</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>InSite: a computational method for identifying protein-protein interaction binding sites on a proteome-wide scale</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=120&amp;citation_for_view=5Iqe53IAAAAJ:_xSYboBqXhAC</link>
+<authors>H Wang, E Segal, A Ben-Hur, QR Li, M Vidal, D Koller</authors>
+<source>Genome Biol 8 (9), R192</source>
+<citations>55</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Probabilistic entity-relationship models, PRMs, and plate models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=120&amp;citation_for_view=5Iqe53IAAAAJ:P5F9QuxV20EC</link>
+<authors>D Heckerman, C Meek, D Koller</authors>
+<source>Introduction to statistical relational learning, 201</source>
+<citations>53</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>A complex-based reconstruction of the Saccharomyces cerevisiae interactome</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=120&amp;citation_for_view=5Iqe53IAAAAJ:sSrBHYA8nusC</link>
+<authors>H Wang, B Kakaradov, SR Collins, L Karotki, D Fiedler, M Shales, KM Shokat ...</authors>
+<source>Molecular &amp; Cellular Proteomics 8 (6), 1361-1381</source>
+<citations>52</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Probabilistic discovery of overlapping cellular processes and their regulation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=120&amp;citation_for_view=5Iqe53IAAAAJ:abG-DnoFyZgC</link>
+<authors>A Battle, E Segal, D Koller</authors>
+<source>Journal of Computational Biology 12 (7), 909-927</source>
+<citations>48</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Solving factored POMDPs with linear value functions</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=120&amp;citation_for_view=5Iqe53IAAAAJ:NhqRSupF_l8C</link>
+<authors>C Guestrin, D Koller, R Parr</authors>
+<source>Seventeenth International Joint Conference on Artificial Intelligence (IJCAI ...</source>
+<citations>48</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Using combinatorial optimization within max-product belief propagation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=120&amp;citation_for_view=5Iqe53IAAAAJ:uWQEDVKXjbEC</link>
+<authors>JDDTG Elidan, D Koller</authors>
+<source>Advances in Neural Information Processing Systems 19: Proceedings of the ...</source>
+<citations>47</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Exploiting the architecture of dynamic systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=120&amp;citation_for_view=5Iqe53IAAAAJ:xtRiw3GOFMkC</link>
+<authors>X Boyen, D Koller</authors>
+<source>AAAI/IAAI, 313-320</source>
+<citations>47</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>2 Graphical Models in a Nutshell</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=120&amp;citation_for_view=5Iqe53IAAAAJ:K3LRdlH-MEoC</link>
+<authors>D Koller, N Friedman, L Getoor, B Taskar</authors>
+<source>STATISTICAL RELATIONAL LEARNING, 13</source>
+<citations>43</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Restricted bayes optimal classifiers</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=120&amp;citation_for_view=5Iqe53IAAAAJ:1sJd4Hv_s6UC</link>
+<authors>S Tong, D Koller</authors>
+<source>AAAI/IAAI, 658-664</source>
+<citations>43</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Sentence Simplification for Semantic Role Labeling.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=120&amp;citation_for_view=5Iqe53IAAAAJ:738O_yMBCRsC</link>
+<authors>D Vickrey, D Koller</authors>
+<source>ACL, 344-352</source>
+<citations>42</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Self-paced learning for latent variable models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=120&amp;citation_for_view=5Iqe53IAAAAJ:UHK10RUVsp4C</link>
+<authors>MP Kumar, B Packer, D Koller</authors>
+<source>Advances in Neural Information Processing Systems, 1189-1197</source>
+<citations>41</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Accelerated dual decomposition for MAP inference</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=120&amp;citation_for_view=5Iqe53IAAAAJ:_B80troHkn4C</link>
+<authors>V Jojic, S Gould, D Koller</authors>
+<source>Proceedings of the 27th International Conference on Machine Learning (ICML ...</source>
+<citations>41</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>SLAM updates require constant time</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=120&amp;citation_for_view=5Iqe53IAAAAJ:KxtntwgDAa4C</link>
+<authors>S Thrun, D Koller, Z Ghahmarani, H Durrant-Whyte</authors>
+<source>School of Computer Science, Carnegie Mellon University, Pittsburgh, Tech. Rep</source>
+<citations>40</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Generating and solving imperfect information games</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=140&amp;citation_for_view=5Iqe53IAAAAJ:UxriW0iASnsC</link>
+<authors>D Koller, A Pfeffer</authors>
+<source>IJCAI, 1185-1193</source>
+<citations>40</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Automated identification of pathways from quantitative genetic interaction data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=140&amp;citation_for_view=5Iqe53IAAAAJ:J-pR_7NvFogC</link>
+<authors>A Battle, MC Jonikas, P Walter, JS Weissman, D Koller</authors>
+<source>Molecular systems biology 6 (1)</source>
+<citations>39</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Policy Search via Density Estimation.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=140&amp;citation_for_view=5Iqe53IAAAAJ:nb7KW1ujOQ8C</link>
+<authors>AY Ng, R Parr, D Koller</authors>
+<source>NIPS, 1022-1028</source>
+<citations>38</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>First-order conditional logic for default reasoning revisited</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=140&amp;citation_for_view=5Iqe53IAAAAJ:08ZZubdj9fEC</link>
+<authors>N Friedman, JY Halpern, D Koller</authors>
+<source>ACM Transactions on Computational Logic (TOCL) 1 (2), 175-207</source>
+<citations>37</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Semantics and inference for recursive probability models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=140&amp;citation_for_view=5Iqe53IAAAAJ:p2g8aNsByqUC</link>
+<authors>A Pfeffer, D Koller</authors>
+<source>AAAI/IAAI, 538-544</source>
+<citations>37</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Finding mixed strategies with small supports in extensive form games</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=140&amp;citation_for_view=5Iqe53IAAAAJ:dshw04ExmUIC</link>
+<authors>D Koller, N Megiddo</authors>
+<source>International Journal of Game Theory 25 (1), 73-92</source>
+<citations>37</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Method Systematic analysis of genome-wide fitness data in yeast reveals novel gene function and drug action</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=140&amp;citation_for_view=5Iqe53IAAAAJ:9vf0nzSNQJEC</link>
+<authors>ME Hillenmeyer, E Ericson, RW Davis, C Nislow, D Koller, G Giaever</authors>
+<source>Genome biology 11 (3)</source>
+<citations>36</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Max-margin classification of data with absent features</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=140&amp;citation_for_view=5Iqe53IAAAAJ:tS2w5q8j5-wC</link>
+<authors>G Chechik, G Heitz, G Elidan, P Abbeel, D Koller</authors>
+<source>The Journal of Machine Learning Research 9, 1-21</source>
+<citations>36</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Learning object shape: From drawings to images</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=140&amp;citation_for_view=5Iqe53IAAAAJ:l7t_Zn2s7bgC</link>
+<authors>G Elidan, G Heitz, D Koller</authors>
+<source>Computer Vision and Pattern Recognition, 2006 IEEE Computer Society ...</source>
+<citations>36</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Structured representation of complex stochastic systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=140&amp;citation_for_view=5Iqe53IAAAAJ:SP6oXDckpogC</link>
+<authors>N Friedman, D Koller, A Pfeffer</authors>
+<source>AAAI/IAAI, 157-164</source>
+<citations>36</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>A game-theoretic classification of interactive complexity classes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=140&amp;citation_for_view=5Iqe53IAAAAJ:geHnlv5EZngC</link>
+<authors>J Feigenbaum, D Koller, P Shor</authors>
+<source>Structure in Complexity Theory Conference, 1995., Proceedings of Tenth ...</source>
+<citations>35</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Expectation maximization and complex duration distributions for continuous time Bayesian networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=140&amp;citation_for_view=5Iqe53IAAAAJ:Tiz5es2fbqcC</link>
+<authors>U Nodelman, CR Shelton, D Koller</authors>
+<source>arXiv preprint arXiv:1207.1402</source>
+<citations>34</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Systematic analysis of breast cancer morphology uncovers stromal features associated with survival</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=140&amp;citation_for_view=5Iqe53IAAAAJ:XoXfffV-tXoC</link>
+<authors>AH Beck, AR Sangoi, S Leung, RJ Marinelli, TO Nielsen, MJ van de Vijver, RB ...</authors>
+<source>Sci Transl Med 3 (108), 108ra113</source>
+<citations>34</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Probabilistic abstraction hierarchies</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=140&amp;citation_for_view=5Iqe53IAAAAJ:OU6Ihb5iCvQC</link>
+<authors>E Segal, D Koller, D Ormoneit</authors>
+<source>Advances in Neural Information Processing Systems 2, 913-920</source>
+<citations>33</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Genovo: de novo assembly for metagenomes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=140&amp;citation_for_view=5Iqe53IAAAAJ:ZfRJV9d4-WMC</link>
+<authors>J Laserson, V Jojic, D Koller</authors>
+<source>Journal of Computational Biology 18 (3), 429-443</source>
+<citations>32</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Understanding tuberculosis epidemiology using structured statistical models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=140&amp;citation_for_view=5Iqe53IAAAAJ:LPZeul_q3PIC</link>
+<authors>L Getoor, JT Rhee, D Koller, P Small</authors>
+<source>Artificial Intelligence in Medicine 30 (3), 233-256</source>
+<citations>32</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Discriminative learning with latent variables for cluttered indoor scene understanding</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=140&amp;citation_for_view=5Iqe53IAAAAJ:hkOj_22Ku90C</link>
+<authors>H Wang, S Gould, D Roller</authors>
+<source>Communications of the ACM 56 (4), 92-99</source>
+<citations>31</citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Discriminative learning of relaxed hierarchy for large-scale visual recognition</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=140&amp;citation_for_view=5Iqe53IAAAAJ:XvxMoLDsR5gC</link>
+<authors>T Gao, D Koller</authors>
+<source>Computer Vision (ICCV), 2011 IEEE International Conference on, 2072-2079</source>
+<citations>31</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Expectation propagation for continuous time Bayesian networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=140&amp;citation_for_view=5Iqe53IAAAAJ:B3FOqHPlNUQC</link>
+<authors>U Nodelman, D Koller, CR Shelton</authors>
+<source>arXiv preprint arXiv:1207.1401</source>
+<citations>30</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Object pose detection in range scan data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=140&amp;citation_for_view=5Iqe53IAAAAJ:mvPsJ3kp5DgC</link>
+<authors>J Rodgers, D Anguelov, HC Pang, D Koller</authors>
+<source>Computer Vision and Pattern Recognition, 2006 IEEE Computer Society ...</source>
+<citations>30</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Integration of early physiological responses predicts later illness severity in preterm infants</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=160&amp;citation_for_view=5Iqe53IAAAAJ:_Re3VWB3Y0AC</link>
+<authors>S Saria, AK Rajani, J Gould, DL Koller, AA Penn</authors>
+<source>Science translational medicine 2 (48), 48ra65</source>
+<citations>29</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Identifying protein-protein interaction sites on a genome-wide scale</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=160&amp;citation_for_view=5Iqe53IAAAAJ:uVUOdF_882EC</link>
+<authors>H Wang, E Segal, A Ben-Hur, D Koller, DL Brutlag</authors>
+<source>Advances in neural information processing systems, 1465-1472</source>
+<citations>28</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Method and apparatus for learning probabilistic relational models having attribute and link uncertainty and for performing selectivity estimation using probabilistic relational models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=160&amp;citation_for_view=5Iqe53IAAAAJ:BUYA1_V_uYcC</link>
+<authors>D Koller, L Getoor, A Pfeffer, N Friedman, B Taskar</authors>
+<source>US Patent App. 09/922,324</source>
+<citations>28</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Representation dependence in probabilistic inference</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=160&amp;citation_for_view=5Iqe53IAAAAJ:fQNAKQ3IYiAC</link>
+<authors>JY Halpern, D Koller</authors>
+<source>J. Artif. Intell. Res. (JAIR) 21, 319-356</source>
+<citations>27</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>On computational power and the order-chaos phase transition in reservoir computing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=160&amp;citation_for_view=5Iqe53IAAAAJ:nZcligLrVowC</link>
+<authors>B Schrauwen, L Büsing, R Legenstein</authors>
+<source>NIPS Foundation 21, 1425-1432</source>
+<citations>26</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>(De) randomized construction of small sample spaces in &amp;Nscr; &amp;Cscr</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=160&amp;citation_for_view=5Iqe53IAAAAJ:4fKUyHm3Qg0C</link>
+<authors>DR Karger, D Koller</authors>
+<source>Foundations of Computer Science, 1994 Proceedings., 35th Annual Symposium on ...</source>
+<citations>26</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Shape-based object localization for descriptive classification</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=160&amp;citation_for_view=5Iqe53IAAAAJ:1qzjygNMrQYC</link>
+<authors>G Heitz, G Elidan, B Packer, D Koller</authors>
+<source>International journal of computer vision 84 (1), 40-62</source>
+<citations>25</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Timing of gene expression responses to environmental changes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=160&amp;citation_for_view=5Iqe53IAAAAJ:bnK-pcrLprsC</link>
+<authors>G Chechik, D Koller</authors>
+<source>Journal of Computational Biology 16 (2), 279-290</source>
+<citations>25</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Learning latent temporal structure for complex event detection</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=160&amp;citation_for_view=5Iqe53IAAAAJ:5icHVeHT4IsC</link>
+<authors>K Tang, L Fei-Fei, D Koller</authors>
+<source>Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on ...</source>
+<citations>24</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Label and link prediction in relational data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=160&amp;citation_for_view=5Iqe53IAAAAJ:kRWSkSYxWN8C</link>
+<authors>B Taskar, P Abbeel, MF Wong, D Koller</authors>
+<source>Proceedings of the IJCAI Workshop on Learning Statistical Models from ...</source>
+<citations>24</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Efficiently selecting regions for scene understanding</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=160&amp;citation_for_view=5Iqe53IAAAAJ:1yQoGdGgb4wC</link>
+<authors>MP Kumar, D Koller</authors>
+<source>Computer Vision and Pattern Recognition (CVPR), 2010 IEEE Conference on ...</source>
+<citations>23</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Generating new beliefs from old</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=160&amp;citation_for_view=5Iqe53IAAAAJ:8AbLer7MMksC</link>
+<authors>F Bacchus, AJ Grove, JY Halpern, D Koller</authors>
+<source>Proceedings of the Tenth international conference on Uncertainty in ...</source>
+<citations>23</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Reasoning at the right time granularity</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=160&amp;citation_for_view=5Iqe53IAAAAJ:eflP2zaiRacC</link>
+<authors>S Saria, U Nodelman, D Koller</authors>
+<source>arXiv preprint arXiv:1206.5260</source>
+<citations>22</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Sequential hypothesis testing under stochastic deadlines</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=160&amp;citation_for_view=5Iqe53IAAAAJ:eMMeJKvmdy0C</link>
+<authors>P Frazier, JY Angela</authors>
+<source>Advances in neural information processing systems, 465-472</source>
+<citations>22</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Probabilistic models for agents' beliefs and decisions</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=160&amp;citation_for_view=5Iqe53IAAAAJ:5Ul4iDaHHb8C</link>
+<authors>B Milch, D Koller</authors>
+<source>Proceedings of the Sixteenth conference on Uncertainty in artificial ...</source>
+<citations>22</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Advances in neural information processing systems 20</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=160&amp;citation_for_view=5Iqe53IAAAAJ:BrmTIyaxlBUC</link>
+<authors>JC Platt, D Koller, Y Singer, ST Roweis</authors>
+<source>Neural Information Processing Systems Foundation</source>
+<citations>21</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Probabilistic hierarchical clustering for biological data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=160&amp;citation_for_view=5Iqe53IAAAAJ:eJXPG6dFmWUC</link>
+<authors>E Segal, D Koller</authors>
+<source>Proceedings of the sixth annual international conference on Computational ...</source>
+<citations>21</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Constrained approximate maximum entropy learning of markov random fields</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=160&amp;citation_for_view=5Iqe53IAAAAJ:Mojj43d5GZwC</link>
+<authors>V Ganapathi, D Vickrey, J Duchi, D Koller</authors>
+<source>arXiv preprint arXiv:1206.3257</source>
+<citations>20</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>A pluripotency signature predicts histologic transformation and influences survival in follicular lymphoma patients</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=160&amp;citation_for_view=5Iqe53IAAAAJ:5awf1xo2G04C</link>
+<authors>AJ Gentles, AA Alizadeh, SI Lee, JH Myklebust, CM Shachaf, B Shahbaba, R ...</authors>
+<source>Blood 114 (15), 3158-3166</source>
+<citations>20</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>From instances to classes in probabilistic relational models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=160&amp;citation_for_view=5Iqe53IAAAAJ:q3oQSFYPqjQC</link>
+<authors>L Getoor, D Koller, N Friedman</authors>
+<source>Proc. ICML 2000 Workshop on Attribute-Value and Relational Learning</source>
+<citations>20</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Asymptotic conditional probabilities: the non-unary case</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=180&amp;citation_for_view=5Iqe53IAAAAJ:5ugPr518TE4C</link>
+<authors>AJ Grove, JY Halpern, D Koller</authors>
+<source>Journal of Symbolic Logic, 250-276</source>
+<citations>20</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Alphabet SOUP: A framework for approximate energy minimization</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=180&amp;citation_for_view=5Iqe53IAAAAJ:t6usbXjVLHcC</link>
+<authors>S Gould, F Amat, D Koller</authors>
+<source>Computer Vision and Pattern Recognition, 2009. CVPR 2009. IEEE Conference on ...</source>
+<citations>19</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Transfer learning by constructing informative priors</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=180&amp;citation_for_view=5Iqe53IAAAAJ:V3AGJWp-ZtQC</link>
+<authors>R Raina, AY Ng, D Koller</authors>
+<source>Inductive Transfer 10</source>
+<citations>19</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Learning on the test data: Leveraging unseen features</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=180&amp;citation_for_view=5Iqe53IAAAAJ:D_sINldO8mEC</link>
+<authors>B Taskar, MF Wong, D Koller</authors>
+<source>ICML, 744-751</source>
+<citations>19</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Team-maxmin equilibria</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=180&amp;citation_for_view=5Iqe53IAAAAJ:wbdj-CoPYUoC</link>
+<authors>B Von Stengel, D Koller</authors>
+<source>Games and Economic Behavior 21 (1), 309-321</source>
+<citations>19</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Transcriptomes of the B and T lineages compared by multiplatform microarray profiling</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=180&amp;citation_for_view=5Iqe53IAAAAJ:MhiOAD_qIWkC</link>
+<authors>MW Painter, S Davis, RR Hardy, D Mathis, C Benoist, Y Zhou, S Shinton, R ...</authors>
+<source>The Journal of Immunology 186 (5), 3047-3057</source>
+<citations>17</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Asymptomatic conditional probabilities for first-order logic</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=180&amp;citation_for_view=5Iqe53IAAAAJ:VOx2b1Wkg3QC</link>
+<authors>AJ Grove, JY Halpern, D Koller</authors>
+<source>Proceedings of the twenty-fourth annual ACM symposium on Theory of computing ...</source>
+<citations>17</citations>
+<pub_year>1992</pub_year>
+</record>
+<record>
+<title>Bayesian inference for spiking neuron models with a sparsity prior</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=180&amp;citation_for_view=5Iqe53IAAAAJ:CaZNVDsoPx4C</link>
+<authors>S Gerwinn, M Bethge, JH Macke, M Seeger</authors>
+<source>Advances in neural information processing systems, 529-536</source>
+<citations>16</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Using feature hierarchies in bayesian network learning</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=180&amp;citation_for_view=5Iqe53IAAAAJ:JoZmwDi-zQgC</link>
+<authors>L Getoor, D Koller</authors>
+<source>Abstraction, Reformulation, and Approximation, 260-270</source>
+<citations>16</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Asymptotic conditional probabilities: the unary case</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=180&amp;citation_for_view=5Iqe53IAAAAJ:olpn-zPbct0C</link>
+<authors>AJ Grove, JY Halpern, D Koller</authors>
+<source>SIAM J. Comput. 25 (1), 1-51</source>
+<citations>16</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Adaptive probabilistic networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=180&amp;citation_for_view=5Iqe53IAAAAJ:XiVPGOgt02cC</link>
+<authors>S Russell, J Binder, D Koller</authors>
+<source>Computer Science Division (EECS), University of California</source>
+<citations>16</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>A segmentation-aware object detection model with occlusion handling</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=180&amp;citation_for_view=5Iqe53IAAAAJ:vbGhcppDl1QC</link>
+<authors>T Gao, B Packer, D Koller</authors>
+<source>Computer Vision and Pattern Recognition (CVPR), 2011 IEEE Conference on ...</source>
+<citations>15</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>6 Relational Markov Networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=180&amp;citation_for_view=5Iqe53IAAAAJ:WqliGbK-hY8C</link>
+<authors>B Taskar, P Abbeel, MF Wong, D Koller</authors>
+<source>STATISTICAL RELATIONAL LEARNING, 175</source>
+<citations>15</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>A probabilistic model for component-based shape synthesis</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=180&amp;citation_for_view=5Iqe53IAAAAJ:tH6gc1N1XXoC</link>
+<authors>E Kalogerakis, S Chaudhuri, D Koller, V Koltun</authors>
+<source>ACM Transactions on Graphics (TOG) 31 (4), 55</source>
+<citations>14</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Death knell for the lecture: Technology as a passport to personalized education</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=180&amp;citation_for_view=5Iqe53IAAAAJ:jL-93Qbq4QoC</link>
+<authors>D Koller</authors>
+<source>New York Times 5</source>
+<citations>14</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Multi-level inference by relaxed dual decomposition for human pose segmentation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=180&amp;citation_for_view=5Iqe53IAAAAJ:KbBQZpvPDL4C</link>
+<authors>H Wang, D Koller</authors>
+<source>Computer Vision and Pattern Recognition (CVPR), 2011 IEEE Conference on ...</source>
+<citations>14</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Irrelevance and conditioning in first-order probabilistic logic</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=180&amp;citation_for_view=5Iqe53IAAAAJ:HE397vMXCloC</link>
+<authors>D Koller, JY Halpern</authors>
+<source>AAAI/IAAI, Vol. 1, 569-576</source>
+<citations>14</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Modeling how students learn to program</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=180&amp;citation_for_view=5Iqe53IAAAAJ:OP4eGU-M3BUC</link>
+<authors>C Piech, M Sahami, D Koller, S Cooper, P Blikstein</authors>
+<source>Proceedings of the 43rd ACM technical symposium on Computer Science ...</source>
+<citations>13</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>GeneXPress: a visualization and statistical analysis tool for gene expression and sequence data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=180&amp;citation_for_view=5Iqe53IAAAAJ:WA5NYHcadZ8C</link>
+<authors>E Segal, R Yelensky, A Kaushal, T Pham, A Regev, D Koller, N Friedman</authors>
+<source>Proceedings of the 11th International Conference on Intelligent Systems for ...</source>
+<citations>13</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>A Logic for Approximate Reasoning.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=180&amp;citation_for_view=5Iqe53IAAAAJ:Y5dfb0dijaUC</link>
+<authors>D Koller, JY Halpern</authors>
+<source>KR, 153-164</source>
+<citations>13</citations>
+<pub_year>1992</pub_year>
+</record>
+<record>
+<title>Continuous time markov networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=200&amp;citation_for_view=5Iqe53IAAAAJ:PELIpwtuRlgC</link>
+<authors>T El-Hay, N Friedman, D Koller, R Kupferman</authors>
+<source>arXiv preprint arXiv:1206.6838</source>
+<citations>12</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Active classification based on value of classifier</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=200&amp;citation_for_view=5Iqe53IAAAAJ:Z5m8FVwuT1cC</link>
+<authors>T Gao, D Koller</authors>
+<source>Advances in Neural Information Processing Systems, 1062-1070</source>
+<citations>12</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>MAP estimation of semi-metric MRFs via hierarchical graph cuts</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=200&amp;citation_for_view=5Iqe53IAAAAJ:tkaPQYYpVKoC</link>
+<authors>MP Kumar, D Koller</authors>
+<source>Proceedings of the Twenty-Fifth Conference on Uncertainty in Artificial ...</source>
+<citations>12</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Forming beliefs about a changing world</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=200&amp;citation_for_view=5Iqe53IAAAAJ:AXPGKjj_ei8C</link>
+<authors>F Bacchus, AJ Grove, JY Halpern, D Koller</authors>
+<source>AAAI, 222-229</source>
+<citations>12</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Online word games for semantic data collection</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=200&amp;citation_for_view=5Iqe53IAAAAJ:_Ybze24A_UAC</link>
+<authors>D Vickrey, A Bronzan, W Choi, A Kumar, J Turner-Maier, A Wang, D Koller</authors>
+<source>Proceedings of the Conference on Empirical Methods in Natural Language ...</source>
+<citations>11</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Max-margin classification of incomplete data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=200&amp;citation_for_view=5Iqe53IAAAAJ:1lhNe0rCu4AC</link>
+<authors>G Chechik, G Heitz, G Elidan, P Abbeel, D Koller</authors>
+<source>Advances in Neural Information Processing Systems, 233-240</source>
+<citations>11</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Genovo: de novo assembly for metagenomes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=200&amp;citation_for_view=5Iqe53IAAAAJ:Fu2w8maKXqMC</link>
+<authors>J Laserson, V Jojic, D Koller</authors>
+<source>Research in Computational Molecular Biology, 341-356</source>
+<citations>10</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Non-local contrastive objectives</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=200&amp;citation_for_view=5Iqe53IAAAAJ:VL0QpB8kHFEC</link>
+<authors>D Vickrey, CC Lin, D Koller</authors>
+<source>Proceedings of the 27th International Conference on Machine Learning (ICML ...</source>
+<citations>10</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Applying sentence simplification to the conll-2008 shared task</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=200&amp;citation_for_view=5Iqe53IAAAAJ:ye4kPcJQO24C</link>
+<authors>D Vickrey, D Koller</authors>
+<source>Proceedings of the Twelfth Conference on Computational Natural Language ...</source>
+<citations>9</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Reinforcement learning using approximate belief states</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=200&amp;citation_for_view=5Iqe53IAAAAJ:N5tVd3kTz84C</link>
+<authors>A Rodrıguez, R Parr, D Koller</authors>
+<source>Advances in Neural Information Processing Systems 12, 1036-1042</source>
+<citations>9</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>An active learning approach to finding related terms</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=200&amp;citation_for_view=5Iqe53IAAAAJ:VLnqNzywnoUC</link>
+<authors>D Vickrey, O Kipersztok, D Koller</authors>
+<source>Proceedings of the ACL 2010 Conference Short Papers, 371-376</source>
+<citations>8</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Probabilistic Graphical Models: Principles and Techniques (Adaptive Computation and Machine Learning series)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=200&amp;citation_for_view=5Iqe53IAAAAJ:yxmsSjX2EkcC</link>
+<authors>D Koller, N Friedman</authors>
+<source>The MIT Press</source>
+<citations>8</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Receptive fields without spike-triggering</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=200&amp;citation_for_view=5Iqe53IAAAAJ:buQ7SEKw-1sC</link>
+<authors>JH Macke, G Zeck, M Bethge, S Gerwinn, M Seeger, G Zeck, M Bethge, M Bethge ...</authors>
+<source>Advances in neural information processing systems 21, 969-976</source>
+<citations>8</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Bayesian networks and decision-theoretic reasoning for artificial intelligence</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=200&amp;citation_for_view=5Iqe53IAAAAJ:ZuybSZzF8UAC</link>
+<authors>JS Breese, D Koller</authors>
+<source>Tutorial for AAAI 97</source>
+<citations>8</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Information agents: A new challenge for ai</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=200&amp;citation_for_view=5Iqe53IAAAAJ:LjlpjdlvIbIC</link>
+<authors>D Koller, Y Shoham</authors>
+<source>IEEE Expert 11 (3)</source>
+<citations>8</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Learning specific-class segmentation from diverse data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=200&amp;citation_for_view=5Iqe53IAAAAJ:a3BOlSfXSfwC</link>
+<authors>MP Kumar, H Turki, D Preston, D Koller</authors>
+<source>Computer Vision (ICCV), 2011 IEEE International Conference on, 1800-1807</source>
+<citations>7</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Discovering shared and individual latent structure in multiple time series</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=200&amp;citation_for_view=5Iqe53IAAAAJ:-_dYPAW6P2MC</link>
+<authors>S Saria, D Koller, A Penn</authors>
+<source>arXiv preprint arXiv:1008.2028</source>
+<citations>7</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>3D segmentation of cell boundaries from whole cell cryogenic electron tomography volumes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=200&amp;citation_for_view=5Iqe53IAAAAJ:35r97b3x0nAC</link>
+<authors>F Moussavi, G Heitz, F Amat, LR Comolli, D Koller, M Horowitz</authors>
+<source>Journal of structural biology 170 (1), 134-145</source>
+<citations>7</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Learning a small mixture of trees</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=200&amp;citation_for_view=5Iqe53IAAAAJ:fEOibwPWpKIC</link>
+<authors>MP Kumar, D Koller</authors>
+<source>Advances in Neural Information Processing Systems, 1051-1059</source>
+<citations>7</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Max-margin min-entropy models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=200&amp;citation_for_view=5Iqe53IAAAAJ:LhH-TYMQEocC</link>
+<authors>K Miller, MP Kumar, B Packer, D Goodman, D Koller</authors>
+<source>AISTATS</source>
+<citations>6</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Structured models for multi-agent interactions</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=220&amp;citation_for_view=5Iqe53IAAAAJ:PR6Y55bgFSsC</link>
+<authors>D Koller, B Milch</authors>
+<source>Proceedings of the 8th conference on Theoretical aspects of rationality and ...</source>
+<citations>6</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Structured probabilistic models: Bayesian networks and beyond</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=220&amp;citation_for_view=5Iqe53IAAAAJ:dQ2og3OwTAUC</link>
+<authors>D Koller</authors>
+<source>AAAI/IAAI, 1210-1211</source>
+<citations>6</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>The Genotype-Tissue Expression (GTEx) project</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=220&amp;citation_for_view=5Iqe53IAAAAJ:pAkWuXOU-OoC</link>
+<authors>J Lonsdale, J Thomas, M Salvatore, R Phillips, E Lo, S Shad, R Hasz, G ...</authors>
+<source>Nature genetics 45 (6), 580-585</source>
+<citations>5</citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>A combined pose, object, and feature model for action understanding.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=220&amp;citation_for_view=5Iqe53IAAAAJ:AHdEip9mkN0C</link>
+<authors>B Packer, K Saenko, D Koller</authors>
+<source>CVPR, 1378-1385</source>
+<citations>5</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Convex envelopes of complexity controlling penalties: the case against premature envelopment</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=220&amp;citation_for_view=5Iqe53IAAAAJ:ClCfbGk0d_YC</link>
+<authors>V Jojic, S Saria, D Koller</authors>
+<source>International Conference on Artificial Intelligence and Statistics, 399-406</source>
+<citations>5</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Multiclass boosting with hinge loss based on output coding</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=220&amp;citation_for_view=5Iqe53IAAAAJ:FPJr55Dyh1AC</link>
+<authors>T Gao, D Koller</authors>
+<source>Proceedings of the 28th International Conference on Machine Learning (ICML ...</source>
+<citations>5</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Transfer learning of object classes: From cartoons to photographs</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=220&amp;citation_for_view=5Iqe53IAAAAJ:JQOojiI6XY0C</link>
+<authors>G Heitz, G Elidan, D Koller</authors>
+<source>NIPS 2005 Workshop on Inductive Transfer: 10 Years Later</source>
+<citations>5</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>A RESPONSE TO BELIEVING ON THE BASIS OF THE EVIDENCE</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=220&amp;citation_for_view=5Iqe53IAAAAJ:kzcrU_BdoSEC</link>
+<authors>F Bacchus, A Grove, JY Halpern, D Koller</authors>
+<source>Computational Intelligence 10 (1), 21-25</source>
+<citations>5</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Fault-tolerant critical section management in asynchronous environments</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=220&amp;citation_for_view=5Iqe53IAAAAJ:nVrZBo8bIpAC</link>
+<authors>A Bar-Noy, D Dolev, D Koller, D Peleg</authors>
+<source>Information and Computation 95 (1), 1-20</source>
+<citations>5</citations>
+<pub_year>1991</pub_year>
+</record>
+<record>
+<title>Identification of transcriptional regulators in the mouse immune system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=220&amp;citation_for_view=5Iqe53IAAAAJ:KaMxkj08jr0C</link>
+<authors>V Jojic, T Shay, K Sylvia, O Zuk, X Sun, J Kang, A Regev, D Koller</authors>
+<source>Nature immunology 14 (6), 633-643</source>
+<citations>4</citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Modeling latent variable uncertainty for loss-based learning</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=220&amp;citation_for_view=5Iqe53IAAAAJ:BJbdYPG6LGMC</link>
+<authors>MP Kumar, B Packer, D Koller</authors>
+<source>arXiv preprint arXiv:1206.4636</source>
+<citations>4</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Convex point estimation using undirected bayesian transfer hierarchies</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=220&amp;citation_for_view=5Iqe53IAAAAJ:2KloaMYe4IUC</link>
+<authors>G Elidan, B Packer, G Heitz, D Koller</authors>
+<source>arXiv preprint arXiv:1206.3252</source>
+<citations>4</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Real-time human pose tracking from range data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=220&amp;citation_for_view=5Iqe53IAAAAJ:QD3KBmkZPeQC</link>
+<authors>V Ganapathi, C Plagemann, D Koller, S Thrun</authors>
+<source>Computer VisionECCV 2012, 738-751</source>
+<citations>4</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>A unified contour-pixel model for figure-ground segmentation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=220&amp;citation_for_view=5Iqe53IAAAAJ:EkHepimYqZsC</link>
+<authors>B Packer, S Gould, D Koller</authors>
+<source>Computer VisionECCV 2010, 338-351</source>
+<citations>4</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Learning structured statistical models from relational data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=220&amp;citation_for_view=5Iqe53IAAAAJ:tKAzc9rXhukC</link>
+<authors>L Getoor, N Friedman, D Koller</authors>
+<source>Linköping Electronic Articles in Computer and Information Science 7, 13</source>
+<citations>4</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Discovering the structure of utility functions based on additive and conditionally additive independence properties between utility attributes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=220&amp;citation_for_view=5Iqe53IAAAAJ:W5xh706n7nkC</link>
+<authors>U Chajewska, M Kuppermann, D Koller</authors>
+<source>Proceedings of the 21st Annual Meeting of the Society for Medical Decision ...</source>
+<citations>4</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>The role of AI in digital libraries</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=220&amp;citation_for_view=5Iqe53IAAAAJ:7T2F9Uy0os0C</link>
+<authors>D Koller, Y Shoham, MP Wellman, EH Durfee, WP Birmingham, J Carbonell</authors>
+<source>IEEE Expert 11 (3), 8-13</source>
+<citations>4</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Mid-level features improve recognition of interactive activities</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=220&amp;citation_for_view=5Iqe53IAAAAJ:CB2v5VPnA5kC</link>
+<authors>K Saenko, B Packer, CY Chen, S Bandla, Y Lee, Y Jia, JC Niebles, D Koller, L ...</authors>
+<source>Technical report, 2012. http://www. eecs. berkeley. edu/Pubs/TechRpts/. 7, 8</source>
+<citations>3</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Discovering deformable motifs in continuous time series data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=220&amp;citation_for_view=5Iqe53IAAAAJ:umqufdRvDiIC</link>
+<authors>S Saria, A Duchi, D Koller</authors>
+<source>Proceedings of the Twenty-Second international joint conference on ...</source>
+<citations>3</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Learning individual and population level traits from clinical temporal data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=220&amp;citation_for_view=5Iqe53IAAAAJ:9pM33mqn1YgC</link>
+<authors>S Saria, D Koller, A Penn</authors>
+<source>Proc. Neural Information Processing Systems (NIPS), Predictive Models in ...</source>
+<citations>3</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Towards dependable perception: Guaranteed inference for global localization</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=240&amp;citation_for_view=5Iqe53IAAAAJ:0KyAp5RtaNEC</link>
+<authors>A Petrovskaya, S Thrun, D Koller, O Khatib</authors>
+<source>Dependable Robots in Human Environments Workshop at Robotics: Science and ...</source>
+<citations>3</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Taskar. Probabilistic relational models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=240&amp;citation_for_view=5Iqe53IAAAAJ:5MTHONV0fEkC</link>
+<authors>F Getoor, P Koller, D Pfeffer</authors>
+<source>Statistical relational learning. MIT</source>
+<citations>3</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Proceedings of the Seventeenth conference on Uncertainty in artificial intelligence</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=240&amp;citation_for_view=5Iqe53IAAAAJ:j8SEvjWlNXcC</link>
+<authors>J Breese, D Koller</authors>
+<source>Morgan Kaufmann Publishers Inc.</source>
+<citations>3</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>State-space approximations for extensive form games</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=240&amp;citation_for_view=5Iqe53IAAAAJ:tzM49s52ZIMC</link>
+<authors>A Pfeffer, D Koller, K Takusagawa</authors>
+<source>Talk given at the First International Congress of the Game Theory Society ...</source>
+<citations>3</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Bayes optimal hyperplanes! maximal margin hyperplanes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=240&amp;citation_for_view=5Iqe53IAAAAJ:NJ774b8OgUMC</link>
+<authors>S Tong, D Koller</authors>
+<source>Submitted to IJCAI 99</source>
+<citations>3</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Qualitative planning under assumptions: A preliminary report</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=240&amp;citation_for_view=5Iqe53IAAAAJ:evX43VCCuoAC</link>
+<authors>N Friedman, D Koller</authors>
+<source>Proceedings of the AAAI Spring Symposium on Decision-Theoretic Planning, 106-112</source>
+<citations>3</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Tuned Models of Peer Assessment in MOOCs</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=240&amp;citation_for_view=5Iqe53IAAAAJ:1Ye0OR6EYb4C</link>
+<authors>C Piech, J Huang, Z Chen, C Do, A Ng, D Koller</authors>
+<source></source>
+<citations>3</citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Apoptosis and other immune biomarkers predict influenza vaccine responsiveness</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=240&amp;citation_for_view=5Iqe53IAAAAJ:jFemdcug13IC</link>
+<authors>D Furman, V Jojic, B Kidd, S Shen-Orr, J Price, J Jarrell, T Tse, H Huang, P ...</authors>
+<source>Molecular systems biology 9 (1)</source>
+<citations>2</citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Conservation and divergence in the transcriptional programs of the human and mouse immune systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=240&amp;citation_for_view=5Iqe53IAAAAJ:Br1UauaknNIC</link>
+<authors>T Shay, V Jojic, O Zuk, K Rothamel, D Puyraimond-Zemmour, T Feng, E ...</authors>
+<source>Proceedings of the National Academy of Sciences 110 (8), 2946-2951</source>
+<citations>2</citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Subproblem-tree calibration: A unified approach to max-product message passing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=240&amp;citation_for_view=5Iqe53IAAAAJ:LPtt_HFRSbwC</link>
+<authors>H Wang, K Daphne</authors>
+<source>Proceedings of the 30th International Conference on Machine Learning (ICML ...</source>
+<citations>2</citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Shifting weights: Adapting object detectors from image to video</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=240&amp;citation_for_view=5Iqe53IAAAAJ:WC23djZS0W4C</link>
+<authors>K Tang, V Ramanathan, L Fei-Fei, D Koller</authors>
+<source>Advances in Neural Information Processing Systems 25, 647-655</source>
+<citations>2</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Combining Structured and Free-text Data for Automatic Coding of Patient Outcomes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=240&amp;citation_for_view=5Iqe53IAAAAJ:L7CI7m0gUJcC</link>
+<authors>S Saria, G McElvain, AK Rajani, AA Penn, DL Koller</authors>
+<source>AMIA Annual Symposium Proceedings 2010, 712</source>
+<citations>2</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Ignorable information in multi-agent scenarios</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=240&amp;citation_for_view=5Iqe53IAAAAJ:8d8msizDQcsC</link>
+<authors>B Milch, D Koller</authors>
+<source></source>
+<citations>2</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Disulfide connectivity prediction via kernelized matching</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=240&amp;citation_for_view=5Iqe53IAAAAJ:9Nmd_mFXekcC</link>
+<authors>V Chatalbashev, B Taskar, D Koller</authors>
+<source>RECOMB</source>
+<citations>2</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Multi-agent planning in complex uncertain environments</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=240&amp;citation_for_view=5Iqe53IAAAAJ:uc_IGeMz5qoC</link>
+<authors>D Koller</authors>
+<source>Proceedings of the Third International Joint Conference on Autonomous Agents ...</source>
+<citations>2</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Conditional first-order logic revisited</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=240&amp;citation_for_view=5Iqe53IAAAAJ:t7zJ5fGR-2UC</link>
+<authors>J Halpern, D Koller</authors>
+<source>ACM Trans. Computational Logic 1 (1), 175-207</source>
+<citations>2</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Learning the Structure of Utility Functions</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=240&amp;citation_for_view=5Iqe53IAAAAJ:z_wVstp3MssC</link>
+<authors>U Chajewska, D Koller</authors>
+<source>Unpublished report. Stanford University, Stanford CA</source>
+<citations>2</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Learning in Rational Agents.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=240&amp;citation_for_view=5Iqe53IAAAAJ:XD-gHx7UXLsC</link>
+<authors>SJ Russell, J WORK, E WEFALD, D SUBRAMANIAN, S ZILBERSTEIN, G OGASAWARA, RON ...</authors>
+<source>NIPS</source>
+<citations>2</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Evidence-directed belief network simplification</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=240&amp;citation_for_view=5Iqe53IAAAAJ:uJ-U7cs_P_0C</link>
+<authors>D Koller</authors>
+<source>Working Notes of the AAAI Fall Symposium on Flexible Computation in ...</source>
+<citations>2</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>E cient computation of equilibria for extensive two-person games</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=240&amp;citation_for_view=5Iqe53IAAAAJ:SjuI4pbJlxcC</link>
+<authors>D Koller, N Megiddo, B von Stengel</authors>
+<source>Games and Economic Behavior, to appear</source>
+<citations>2</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Generating degrees of belief from statistical information: An overview</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=260&amp;citation_for_view=5Iqe53IAAAAJ:nrtMV_XWKgEC</link>
+<authors>F Bacchus, AJ Grove, JY Halpern, D Koller</authors>
+<source>Foundations of Software Technology and Theoretical Computer Science, 318-325</source>
+<citations>2</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Fault-tolerant critical section management in asynchronous networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=260&amp;citation_for_view=5Iqe53IAAAAJ:ZzlSgRqYykMC</link>
+<authors>A Bar-Noy, D Dolev, D Koller, D Peleg</authors>
+<source>Distributed Algorithms, 13-23</source>
+<citations>2</citations>
+<pub_year>1989</pub_year>
+</record>
+<record>
+<title>Module networks: discovering regulatory modules and their condition specific regulators from gene expression data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=260&amp;citation_for_view=5Iqe53IAAAAJ:DBa1UEJaJKAC</link>
+<authors>E Segal, M Shapira, A Regev, D Peer, D Botstein, D Koller, N Friedman</authors>
+<source>Nat. Genet. v34 i2, 166-176</source>
+<citations>2</citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Convergent Antibody Signatures in Human Dengue</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=260&amp;citation_for_view=5Iqe53IAAAAJ:mKu_rENv82IC</link>
+<authors>P Parameswaran, Y Liu, KM Roskin, KKL Jackson, VP Dixit, JY Lee, KL Artiles ...</authors>
+<source>Cell host &amp; microbe 13 (6), 691-700</source>
+<citations>1</citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>glm-ie: Generalised Linear Models Inference &amp; Estimation Toolbox</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=260&amp;citation_for_view=5Iqe53IAAAAJ:gKiMpY-AVTkC</link>
+<authors>H Nickisch</authors>
+<source>The Journal of Machine Learning Research 98888, 1699-1703</source>
+<citations>1</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>The Online Revolution: Education at Scale</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=260&amp;citation_for_view=5Iqe53IAAAAJ:0CzhzZyukY4C</link>
+<authors>A Ng, D Koller</authors>
+<source></source>
+<citations>1</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>What Makes a Good Detector?Structured Priors for Learning from Few Examples</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=260&amp;citation_for_view=5Iqe53IAAAAJ:4X0JR2_MtJMC</link>
+<authors>T Gao, M Stark, D Koller</authors>
+<source>Computer VisionECCV 2012, 354-367</source>
+<citations>1</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Fine-Grained Categorization for 3D Scene Understanding</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=260&amp;citation_for_view=5Iqe53IAAAAJ:jgBuDB5drN8C</link>
+<authors>M Stark, J Krause, B Pepik, D Meger, JJ Little, B Schiele, D Koller</authors>
+<source>International Journal of Robotics Research 30 (13), 1543-1552</source>
+<citations>1</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Loops: Localizing object outlines using probabilistics shape</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=260&amp;citation_for_view=5Iqe53IAAAAJ:vDijr-p_gm4C</link>
+<authors>G Heitz, G Elidan, B Parker, D Koller</authors>
+<source>NIPS</source>
+<citations>1</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Max-margin classiﬁcation of incomplete data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=260&amp;citation_for_view=5Iqe53IAAAAJ:dTyEYWd-f8wC</link>
+<authors>G Chechik, G Heitz, G Elidan, P Abbeel, D Koller</authors>
+<source>Advances in Neural Information Processing Systems: Proceedings of the 2006 ...</source>
+<citations>1</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Strategic and Tactical Decision-Making Under Uncertainty</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=260&amp;citation_for_view=5Iqe53IAAAAJ:8xutWZnSdmoC</link>
+<authors>MI Jordan, V Anantharam, L El Ghaoui, S Russell, S Sastry, D Koller, B Van ...</authors>
+<source>CALIFORNIA UNIV REGENTS BERKELEY</source>
+<citations>1</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Reasoning at the right time granularity</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=260&amp;citation_for_view=5Iqe53IAAAAJ:_FM0Bhl9EiAC</link>
+<authors>S Suchi, U Nodelman, D Koller</authors>
+<source></source>
+<citations>1</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Structured models of complex decision problems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=260&amp;citation_for_view=5Iqe53IAAAAJ:epqYDVWIO7EC</link>
+<authors>D Koller</authors>
+<source>Invited talk at the First International Congress of the Game Theory Society</source>
+<citations>1</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Structured representations and intractability</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=260&amp;citation_for_view=5Iqe53IAAAAJ:yB1At4FlUx8C</link>
+<authors>D Koller</authors>
+<source>ACM Computing Surveys (CSUR) 28 (4es), 8</source>
+<citations>1</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>From knowledge to belief</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=260&amp;citation_for_view=5Iqe53IAAAAJ:URolC5Kub84C</link>
+<authors>D Koller</authors>
+<source>stanford university</source>
+<citations>1</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Probability estimation in face of irrelevant information</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=260&amp;citation_for_view=5Iqe53IAAAAJ:zLWjf1WUPmwC</link>
+<authors>AJ Grove, D Koller</authors>
+<source>Proceedings of the Seventh conference on Uncertainty in Artificial ...</source>
+<citations>1</citations>
+<pub_year>1991</pub_year>
+</record>
+<record>
+<title>Self-Driven Mastery in Massive Open Online Courses</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=260&amp;citation_for_view=5Iqe53IAAAAJ:w1MjKQ0l0TYC</link>
+<authors>CB Do, Z Chen, R Brandman, D Koller</authors>
+<source>MOOCs FORUM 1 (P), 14-16</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Differential splicing across immune system lineages</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=260&amp;citation_for_view=5Iqe53IAAAAJ:w0F2JDEymm0C</link>
+<authors>A Ergun, G Doran, JC Costello, HH Paik, JJ Collins, D Mathis, C Benoist, DA ...</authors>
+<source>Proceedings of the National Academy of Sciences 110 (35), 14324-14329</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>The online revolution: education for everyone</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=260&amp;citation_for_view=5Iqe53IAAAAJ:F2UWTTQJPOcC</link>
+<authors>A Ng, D Koller</authors>
+<source>Proceedings of the 19th ACM SIGKDD international conference on Knowledge ...</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Parameter Estimation and Energy Minimization for Region-based Semantic Segmentation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=260&amp;citation_for_view=5Iqe53IAAAAJ:mUJArPsKIAAC</link>
+<authors>MP Kumar, H Turki, D Preston, D Koller</authors>
+<source></source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Normalizing RNA-Sequencing Data by Modeling Hidden Covariates with Prior Knowledge</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=280&amp;citation_for_view=5Iqe53IAAAAJ:VN7nJs4JPk0C</link>
+<authors>S Mostafavi, A Battle, X Zhu, AE Urban, D Levinson, SB Montgomery, D Koller</authors>
+<source>PloS one 8 (7), e68141</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>A Fast and Exact Energy Minimization Algorithm for Cycle MRFs</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=280&amp;citation_for_view=5Iqe53IAAAAJ:-7ulzOJl1JYC</link>
+<authors>H Wang, D Koller</authors>
+<source>Proceedings of the 30th International Conference on 1, 1</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Systems and methods for analysis to build predictive models from microscopic cancer images</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=280&amp;citation_for_view=5Iqe53IAAAAJ:-nhnvRiOwuoC</link>
+<authors>AH Beck, D Koller</authors>
+<source>US Patent App. 13/773,288</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Proceedings of the Seventeenth Conference on Uncertainty in Artificial Intelligence (2001)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=280&amp;citation_for_view=5Iqe53IAAAAJ:-mN3Mh-tlDkC</link>
+<authors>J Breese, D Koller</authors>
+<source>arXiv preprint arXiv:1301.4607</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>AUTOMATIC CODING OF PATIENT OUTCOMES</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=280&amp;citation_for_view=5Iqe53IAAAAJ:jU7OWUQzBzMC</link>
+<authors>S Saria, G Mcelvain, AK Rajani, AA Penn, D Koller</authors>
+<source>US Patent 20,120,290,319</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Mid-level Features Improve Recognition of Interactive Activities</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=280&amp;citation_for_view=5Iqe53IAAAAJ:6_hjMsCP8ZoC</link>
+<authors>T Darrell, Y Lee, C Chen, K Saenko, B Packer, S Bandla, Y Jia, J Niebles, D ...</authors>
+<source>CALIFORNIA UNIV BERKELEY DEPT OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCE</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Imputing gene expression from selectively reduced probe sets</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=280&amp;citation_for_view=5Iqe53IAAAAJ:WHdLCjDvYFkC</link>
+<authors>Y Donner, T Feng, C Benoist, D Koller</authors>
+<source>Nature methods 9 (11), 1120-1125</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Learning Factor Graphs in Polynomial Time &amp; Sample Complexity</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=280&amp;citation_for_view=5Iqe53IAAAAJ:1DsIQWDZLl8C</link>
+<authors>P Abbeel, D Koller, AY Ng</authors>
+<source>arXiv preprint arXiv:1207.1366</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>UNRAVELING THE GENETICS OF HUMAN DISEASES BY INTEGRATING PATTERNS FOR EPISTASIS DETECTION</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=280&amp;citation_for_view=5Iqe53IAAAAJ:XUvXOeBm_78C</link>
+<authors>H Cho, D Koller</authors>
+<source></source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Shape completion, animation and marker-less motion capture of people, animals or characters</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=280&amp;citation_for_view=5Iqe53IAAAAJ:uLbwQdceFCQC</link>
+<authors>DD Anguelov, P Srinivasan, D Koller, S Thrun</authors>
+<source>US Patent 8,139,067</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>MEDICAL SCORING SYSTEMS AND METHODS</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=280&amp;citation_for_view=5Iqe53IAAAAJ:CdxZDUztZiMC</link>
+<authors>S SARIA, A PENN, D KOLLER, A RAJANI, J GOULD</authors>
+<source>WO Patent 2,012,033,771</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Clonal Structure of B Cell Populations in Human Lymphoid Tissues Supplementary Material</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=280&amp;citation_for_view=5Iqe53IAAAAJ:kuK5TVdYjLIC</link>
+<authors>J Laserson, RS Ohgami, EL Marshall, JD Merker, E Hope, KJL Jackson, CU ...</authors>
+<source></source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Systematic Identification of Prognostic Biological Pathways in Breast Cancer Molecular Subtypes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=280&amp;citation_for_view=5Iqe53IAAAAJ:ziOE8S1-AIUC</link>
+<authors>J Kaplan, S Schnitt, D Koller, AH Beck</authors>
+<source>LABORATORY INVESTIGATION 92, 45A-45A</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Computational Image Analysis Identifies New Morphologic Features That Predict Breast Cancer Outcome</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=280&amp;citation_for_view=5Iqe53IAAAAJ:oi2SiIJ9l4AC</link>
+<authors>AH Beck, RB West, M van de Vijver, D Koller</authors>
+<source>LABORATORY INVESTIGATION 91, 28A-28A</source>
+<citations></citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Large Scale Bayesian Inference and Experimental Design for Sparse Linear Models}</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=280&amp;citation_for_view=5Iqe53IAAAAJ:4xDN1ZYqzskC</link>
+<authors>S MW, SM Kakade, DP Foster, S MW</authors>
+<source>SIAM Journal on Imaging Sciences} 1, 761-768</source>
+<citations></citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Paper: Continuous-Time Markov Networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=280&amp;citation_for_view=5Iqe53IAAAAJ:mNrWkgRL2YcC</link>
+<authors>T El-Hay, N Friedman, D Koller, R Kupferman</authors>
+<source>Reasoning about Structured Stochastic Systems in Continuous-Time, 15</source>
+<citations></citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Course Information</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=280&amp;citation_for_view=5Iqe53IAAAAJ:VaXvl8Fpj5cC</link>
+<authors>D Koller, N Friedman</authors>
+<source></source>
+<citations></citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Understanding Gene Regulatory Networks and Their Variations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=280&amp;citation_for_view=5Iqe53IAAAAJ:Dem6FJhTUoYC</link>
+<authors>D Koller</authors>
+<source>FASEB JOURNAL 24</source>
+<citations></citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Motion Capture Using Intelligent Part Identification</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=280&amp;citation_for_view=5Iqe53IAAAAJ:p__nRnzSRKYC</link>
+<authors>HV Ganapathi, C Plagemann, S Thrun, D Koller</authors>
+<source>US Patent App. 12/712,871</source>
+<citations></citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>CS 229 Final Project: Single Image Depth Estimation From Predicted Semantic Labels</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=280&amp;citation_for_view=5Iqe53IAAAAJ:6ZxmRoH8BuwC</link>
+<authors>B Liu, S Gould, D Koller</authors>
+<source></source>
+<citations></citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>METHOD FOR VOCABULARY AMPLIFICATION</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=300&amp;citation_for_view=5Iqe53IAAAAJ:EYYDruWGBe4C</link>
+<authors>O Kipersztok, D Vickrey, P Harrison, D Koller</authors>
+<source>US Patent App. 12/332,228</source>
+<citations></citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Stress, noradrenaline, and realistic prediction of mouse behaviour using reinforcement learning</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=300&amp;citation_for_view=5Iqe53IAAAAJ:RoXSNcbkSzsC</link>
+<authors>C Sandi, W Gerstner, G Lukys</authors>
+<source>Advances in Neural Information Processing Systems, 1001-1008</source>
+<citations></citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Identifying Protein Complexes in Saccharomyces cerevisiae</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=300&amp;citation_for_view=5Iqe53IAAAAJ:0N-VGjzr574C</link>
+<authors>H Wang, S Collins, N Krogan, D Koller</authors>
+<source>to the Eighth Annual Symposium on Biomedical Computation at Stanford (BCATS ...</source>
+<citations></citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Optimality, Robustness, and Noise in Metabolic Network Control</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=300&amp;citation_for_view=5Iqe53IAAAAJ:edDO8Oi4QzsC</link>
+<authors>M Chen, G Chechik, D Koller</authors>
+<source></source>
+<citations></citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Editors and Staff, 2005</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=300&amp;citation_for_view=5Iqe53IAAAAJ:anf4URPfarAC</link>
+<authors>M Tennenholtz, T Walsh, F Bacchus, P Bartlett, C Cardie, W Daelemans, AD Luc ...</authors>
+<source></source>
+<citations></citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Learning Statistical Patterns in Relational Data Using Probabilistic Relational Models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=300&amp;citation_for_view=5Iqe53IAAAAJ:YohjEiUPhakC</link>
+<authors>D Koller</authors>
+<source>STANFORD UNIV CA</source>
+<citations></citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Sebastian Thrun</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=300&amp;citation_for_view=5Iqe53IAAAAJ:yFnVuubrUp4C</link>
+<authors>Y Liu, D Koller, AY Ng, Z Ghahramani, H Durrant-Whyte</authors>
+<source>The International Journal of Robotics Research 23 (7-8), 693-716</source>
+<citations></citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Learning associative Markov networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=300&amp;citation_for_view=5Iqe53IAAAAJ:jE2MZjpN3IcC</link>
+<authors>V Chatalbashev, D Koller, B Taskar</authors>
+<source>Proceedings of the 21st International Conference on Machine Learning (ICML ...</source>
+<citations></citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Statistical learning from relational data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=300&amp;citation_for_view=5Iqe53IAAAAJ:Dip1O2bNi0gC</link>
+<authors>D Koller</authors>
+<source>Proceedings of the ninth ACM SIGKDD international conference on Knowledge ...</source>
+<citations></citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Abbink, Klaus, 19 Arrow, Kenneth J., 15</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=300&amp;citation_for_view=5Iqe53IAAAAJ:QyXJ3EUuO1IC</link>
+<authors>RJ Aumann, P Battigalli, K Binmore, J Buchta, DP Foster, D Gale, U Gneezy ...</authors>
+<source>Games and Economic Behavior 45, 499</source>
+<citations></citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Molecular Biology: A Gene-Coexpression Network for Global Discovery of Conserved Genetic Modules</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=300&amp;citation_for_view=5Iqe53IAAAAJ:PVjk1bu6vJQC</link>
+<authors>JM Stuart, E Segal, D Koller, SK Kim</authors>
+<source>SCIENCE-NEW YORK THEN WASHINGTON-, 249-254</source>
+<citations></citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Discovering conserved pathways and core molecular machinery on a global scale.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=300&amp;citation_for_view=5Iqe53IAAAAJ:xtoqd-5pKcoC</link>
+<authors>JM Stuart, E Segal, D Koller, S Kim</authors>
+<source>International Worm Meeting</source>
+<citations></citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Simultaneous Mapping and Localization with Sparse Extended Information Filters: Theory and Initial Results (revised)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=300&amp;citation_for_view=5Iqe53IAAAAJ:P7Ujq4OLJYoC</link>
+<authors>S Thrun, D Koller, Z Ghahramani, H Durrant-Whyte, AY Ng</authors>
+<source>CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE</source>
+<citations></citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Proceedings of the Eighteenth conference on Uncertainty in artificial intelligence</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=300&amp;citation_for_view=5Iqe53IAAAAJ:ipzZ9siozwsC</link>
+<authors>A Darwiche, N Friedman</authors>
+<source>Morgan Kaufmann Publishers Inc.</source>
+<citations></citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>PROGRESS REPORT March 1, 2003 Strategic and Tactical Decision-Making under Uncertainty</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=300&amp;citation_for_view=5Iqe53IAAAAJ:HIFyuExEbWQC</link>
+<authors>MJ PI, V Anantharam, L El Ghaoui, S Russell, S Sastry, D Koller, B Van Roy ...</authors>
+<source></source>
+<citations></citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Local Algorithms for Finding Equilibria in Structured Games</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=300&amp;citation_for_view=5Iqe53IAAAAJ:b1wdh0AR-JQC</link>
+<authors>D Vickrey, D Koller</authors>
+<source></source>
+<citations></citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Being Bayesian About Network Structure: A Bayesian Approach to Structure Discovery in Bayesian Networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=300&amp;citation_for_view=5Iqe53IAAAAJ:ILKRHgRFtOwC</link>
+<authors>D Koller, N Friedman</authors>
+<source>STANFORD UNIV CA DEPT OF COMPUTER SCIENCE</source>
+<citations></citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Method and apparatus for learning probabilistic relational models having attribute and link uncertainty and for performing selectivity estimation using probabilistic relational models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=300&amp;citation_for_view=5Iqe53IAAAAJ:3bvyWxjaHKcC</link>
+<authors>N Friedman, L Getoor, D Koller, A Pfeffer, B Taskar</authors>
+<source></source>
+<citations></citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>PROGRESS REPORT February 15, 2001 Strategic and Tactical DecisionMaking under Uncertainty</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=300&amp;citation_for_view=5Iqe53IAAAAJ:SpbeaW3--B0C</link>
+<authors>MJ PI, V Anantharam, L El Ghaoui, S Russell, S Sastry, D Koller, B Van Roy ...</authors>
+<source></source>
+<citations></citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Uncertainty in Artificial Intelligence: Proceedings of the Seventeenth Conference (2001), August 2-5, 2001, University of Washington, Seattle, Washington</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=300&amp;citation_for_view=5Iqe53IAAAAJ:-95Q15plzcUC</link>
+<authors>A Pimenta, M Goldszmidt</authors>
+<source>Morgan Kaufmann Publishers</source>
+<citations></citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>In Proceedings of the Seventeenth National Conference on Artificial Intelligence (AAAI-00), pages 531-537, Austin, Texas, August 2000</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=320&amp;citation_for_view=5Iqe53IAAAAJ:rmuvC79q63oC</link>
+<authors>U Lerner, R Parr, D Koller, G Biswas</authors>
+<source></source>
+<citations></citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Sensors &amp; Symbols: An Integrated Framework</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=320&amp;citation_for_view=5Iqe53IAAAAJ:DUooU5lO8OsC</link>
+<authors>D Koller</authors>
+<source>STANFORD UNIV CA SCHOOL OF ENGINEERING</source>
+<citations></citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>In Proceedings of the Sixteenth National Conference on Artificial Intelligence (AAAI-99), pages 313-320, Orlando, Florida, July 18-22, 1999</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=320&amp;citation_for_view=5Iqe53IAAAAJ:a9-T7VOCCH8C</link>
+<authors>X Boyen, D Koller</authors>
+<source></source>
+<citations></citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Maximal Margin Hyperplane Classifiers using Non-Parametric Density Estimation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=320&amp;citation_for_view=5Iqe53IAAAAJ:lmc2jWPfTJgC</link>
+<authors>S Tong, D Koller</authors>
+<source></source>
+<citations></citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>First-Order Conditional Logic Revisited</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=320&amp;citation_for_view=5Iqe53IAAAAJ:eq2jaN3J8jMC</link>
+<authors>N Friedman, JY Halpern, D Koller</authors>
+<source>arXiv preprint cs.AI/9808005</source>
+<citations></citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>In Proceedings of the Fifteenth National Conference on Artificial Intelligence (AAAI-98), pages 157-164, Madison, Wisconsin, July 1998</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=320&amp;citation_for_view=5Iqe53IAAAAJ:9c2xU6iGI7YC</link>
+<authors>N Friedman, D Koller, A Pfeffer</authors>
+<source></source>
+<citations></citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>In Proceedings of the Fifteenth National Conference on Artificial Intelligence (AAAI-98), pages 580-587, Madison, Wisconsin, July 1998</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=320&amp;citation_for_view=5Iqe53IAAAAJ:WJVC3Jt7v1AC</link>
+<authors>D Koller, A Pfeffer</authors>
+<source></source>
+<citations></citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Knowledge Representation for an Uncertain World.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=320&amp;citation_for_view=5Iqe53IAAAAJ:ruyezt5ZtCIC</link>
+<authors>D Koller</authors>
+<source>STANFORD UNIV CA</source>
+<citations></citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Master Index-Volumes 8 l-90</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=320&amp;citation_for_view=5Iqe53IAAAAJ:U_HPUtbDl20C</link>
+<authors>H Almuallim, D Ash, B Hayes-Roth, F Baader, M Buchheit, B Hollunder, F ...</authors>
+<source>Artificial Intelligence 90, 355-364</source>
+<citations></citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>AUMANN, ROBERT J., 2</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=320&amp;citation_for_view=5Iqe53IAAAAJ:OBSaB-F7qqsC</link>
+<authors>KEN BINMORE, PS FAYNZILBERG, DP FOSTER, S GOVINDAN, D GROMB, RON HOLZMAN, S ...</authors>
+<source>Games and Economic Behavior 21, 326</source>
+<citations></citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Knowledge Representation for an Uncertain World(Annual Report, 1 Apr. 1996- 31 Mar. 1997)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=320&amp;citation_for_view=5Iqe53IAAAAJ:mlAyqtXpCwEC</link>
+<authors>D KOLLER</authors>
+<source></source>
+<citations></citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Asymptotic conditional probabilities: The non-unary case (vol 61, pg 276, 1996)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=320&amp;citation_for_view=5Iqe53IAAAAJ:MAUkC_7iAq8C</link>
+<authors>A Grove, J Halpern, D Koller</authors>
+<source>JOURNAL OF SYMBOLIC LOGIC 61 (4), R8-R8</source>
+<citations></citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>ELSEVIER Artificial Intelligence 87 (1996) 395</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=320&amp;citation_for_view=5Iqe53IAAAAJ:PyEswDtIyv0C</link>
+<authors>F Bacchus, AJ Grove, JY Halpern, D Koller, FJ Dfez, E Ephrati, JS ...</authors>
+<source>Artificial Intelligence 87, 395</source>
+<citations></citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>AMANN, ERWIN</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=320&amp;citation_for_view=5Iqe53IAAAAJ:-jrNzM816MMC</link>
+<authors>M AMIR, B BENSAID, SK BERNINGHAUS, F BLOCH, G BOSE, W BOSSERT, RJ GARY-BOBO ...</authors>
+<source>Games and Economic Behavior 14, 299</source>
+<citations></citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Believing on basis of the evidence</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=320&amp;citation_for_view=5Iqe53IAAAAJ:oNZyr7d5Mn4C</link>
+<authors>E NEUFELD, HE KYBURG, F BACCHUS, A GROVE, JY HALPERN, D KOLLER, C BOUTILIER ...</authors>
+<source>Computational intelligence 10 (1), 1-115</source>
+<citations></citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Random Worlds and Maximum Entropy</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=320&amp;citation_for_view=5Iqe53IAAAAJ:MpfHP-DdYjUC</link>
+<authors>AJGJY Halpern, D Koller</authors>
+<source>Proceedings 7, 22</source>
+<citations></citations>
+<pub_year>1992</pub_year>
+</record>
+<record>
+<title>APOSTOLICO, A., 16 KEARNS, MICHAEL, 129</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=320&amp;citation_for_view=5Iqe53IAAAAJ:HGTzPopzzJcC</link>
+<authors>D KOLLER, DA BARRINGTON, N LITTLESTONE, L COLUSSI, M CROCHEMORE, D DOLEV, J ...</authors>
+<source>Information and Computation 95, 252</source>
+<citations></citations>
+<pub_year>1991</pub_year>
+</record>
+<record>
+<title>The magazine archive includes every article published in Communications of the ACM for over the past 50 years.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=320&amp;citation_for_view=5Iqe53IAAAAJ:YsrPvlHIBpEC</link>
+<authors>T Ball, V Levin, SK Rajamani</authors>
+<source>Communications of the ACM 54 (7), 68-76</source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Ol1 Object-Oriented Bayesian Networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=320&amp;citation_for_view=5Iqe53IAAAAJ:O0nohqN1r9EC</link>
+<authors>D Roller</authors>
+<source>Uncertainty in Artificial Intelligence 13, 302</source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Crowd-scale Interactive Formal Reasoning and Analytics</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=320&amp;citation_for_view=5Iqe53IAAAAJ:ce2CqMG-AY4C</link>
+<authors>E Fast, C Lee, A Aiken, M Bernstein, D Koller, E Smith, K Institute</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Modeling Instance Appearance for RecognitionCan We Do Better Than EM?</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=340&amp;citation_for_view=5Iqe53IAAAAJ:sszUF3NjhM4C</link>
+<authors>A Chou, H Wang, M Stark, D Koller</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Reinhard Selten, Klaus Abbink, Joachim Buchta, and Abdolkarim Sadrieh.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=340&amp;citation_for_view=5Iqe53IAAAAJ:NDuN12AVoxsC</link>
+<authors>P Battigalli, M Siniscalchi, DP Foster, HP Young, JK Goeree, CA Holt, TR ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Patterns of interaction in the genetics of complex human traits and guided discovery from diverse genomic assays</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=340&amp;citation_for_view=5Iqe53IAAAAJ:3NQIlFlcGxIC</link>
+<authors>A Battle, H Cho, D Koller</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>IEEE TRANSACTIONS ONPATTERN ANALYSIS AND MACHINE INTELLIGENCE S</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=340&amp;citation_for_view=5Iqe53IAAAAJ:1yWc8FF-_SYC</link>
+<authors>C BISHOP, A BLAKE, D FLEET, Z GHAHRAMANI, E GRIMSON, DAN HUTTENLOCHER, D ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>TRECVID 2012 GENIE</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=340&amp;citation_for_view=5Iqe53IAAAAJ:hsZV8lGYWTMC</link>
+<authors>A Vahdat, K Cannons, H Hajimirsadeghi, G Mori, S McCloskey, B Miller, S ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Visual and Range Data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=340&amp;citation_for_view=5Iqe53IAAAAJ:ALROH1vI_8AC</link>
+<authors>S Gould, P Baumstarck, M Quigley, AY Ng, D Koller</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Identifying temporal population codes in the retina using canonical correlation analysis}</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=340&amp;citation_for_view=5Iqe53IAAAAJ:uDGL6kOW6j0C</link>
+<authors>M Bethge, JH Macke, S Gerwinn, G Zeck, S Gerwinn, M Seeger, G Zeck, M Bethge ...</authors>
+<source>31st Göttingen Neurobiology Conference} 1, 21</source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>合肥工业大学学报 (自然科学版) 60 周年校庆学术论文专辑即将出版</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=340&amp;citation_for_view=5Iqe53IAAAAJ:PVgj2kMGcgYC</link>
+<authors>J Binder, D Koller, S Russel</authors>
+<source>合肥工业大学学报 (自然科学版) 28, E3</source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>In Proceedings of the Seventeenth National Conference on Artificial Intelligence (AAAI-00), pages 538-544, Austin, Texas, August 2000</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=340&amp;citation_for_view=5Iqe53IAAAAJ:fFSKOagxvKUC</link>
+<authors>A Pfeffer, D Koller</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>From Statistical Knowledge Bases to Degrees of Belief* Fahiem Bacchus Computer science Dept. University of Waterloo Waterloo, Ontario</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=340&amp;citation_for_view=5Iqe53IAAAAJ:3htObqc8RwsC</link>
+<authors>JY Halpern, D Koller</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Fahiem Bacchus</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=340&amp;citation_for_view=5Iqe53IAAAAJ:OR75R8vi5nAC</link>
+<authors>JY Halpern, D Koller</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Filling missing components in yeast metabolic pathways using heterogeneous data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=340&amp;citation_for_view=5Iqe53IAAAAJ:OcBU2YAGkTUC</link>
+<authors>G Chechik, A Regev, D Koller</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Bayes Optimal Hyperplanes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=340&amp;citation_for_view=5Iqe53IAAAAJ:ODE9OILHJdcC</link>
+<authors>S Tong, D Koller</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>In Proceedings of the Sixteenth International Joint Conference on Artificial Intelligence (IJCAI-99), Stockholm, Sweden, August 1999</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=340&amp;citation_for_view=5Iqe53IAAAAJ:bKqednn6t2AC</link>
+<authors>M Kearns, D Koller</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Graphical Models for Joint Learning, Part II.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=340&amp;citation_for_view=5Iqe53IAAAAJ:HtS1dXgVpQUC</link>
+<authors>J Stuart, D Koller, N Friedman</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>In Proceedings of the Fifteenth International Joint Conference on Artificial Intelligence (IJCAI-97), Nagoya, Japan, August 1997</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=340&amp;citation_for_view=5Iqe53IAAAAJ:dBIO0h50nwkC</link>
+<authors>D Koller, A Pfeffer</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Efficient Structure Learning of Markov Networks using L-Regularization</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=340&amp;citation_for_view=5Iqe53IAAAAJ:IUKN3-7HHlwC</link>
+<authors>SILV Ganapahthi, D Koller</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>In Proceedings of the Twelfth Annual Conference on Uncertainty in Artificial Intelligence (UAI-96), pages 115-123, Portland, Oregon, August 1996</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=340&amp;citation_for_view=5Iqe53IAAAAJ:OTTXONDVkokC</link>
+<authors>C Boutilier, N Friedman, M Goldszmidt, D Koller</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Discriminative Learning of Relaxed Hierarchy for Large-scale Visual RecognitionSupplementary Material</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=340&amp;citation_for_view=5Iqe53IAAAAJ:2VqYfGB8ITEC</link>
+<authors>T Gao, D Koller</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>In Advances in Neural Information Processing Systems (NIPS-11) pages 396-402, Denver, Colorado, December 1998</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=340&amp;citation_for_view=5Iqe53IAAAAJ:4hFrxpcac9AC</link>
+<authors>X Boyen, D Koller</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Tuned protein variability in yeast metabolism</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=360&amp;citation_for_view=5Iqe53IAAAAJ:NXb4pA-qfm4C</link>
+<authors>G Chechik, M Chen, D Koller</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Active Learning for Parameter Estimation in Bayesian Networks Simon Tong Computer Science Department Stanford University</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=360&amp;citation_for_view=5Iqe53IAAAAJ:0izLItjtcgwC</link>
+<authors>D Koller</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Wellman, MP (1993)" A Market-Oriented Programming Environment and its Application to Distributed Multicommodity Flow Problems", Volume 1, pages 1-23. PostScript: volume1/wellman93a. ps (348K) PDF: volume1/wellman93a. pdf (265K)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=360&amp;citation_for_view=5Iqe53IAAAAJ:LO7wyVUgiFcC</link>
+<authors>ML Ginsberg, IP Gent, T Walsh, JC Schlimmer, LA Hermens, F Bergadano, D ...</authors>
+<source>System 3, 187-222</source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>PLoS genetics Volume: 5 ISSN: 1553-7404 ISO Abbreviation: PLoS Genet. Publication Date: 2009 Jan</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=360&amp;citation_for_view=5Iqe53IAAAAJ:FAceZFleit8C</link>
+<authors>SI Lee, AM Dudley, D Drubin, PA Silver, NJ Krogan, D Pe'er, D Koller</authors>
+<source>Detail:</source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>poster Efficient prediction of protein-protein interactions using Markov networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=360&amp;citation_for_view=5Iqe53IAAAAJ:GtLg2Ama23sC</link>
+<authors>M Schefer, G Elidan, D Koller</authors>
+<source>abst ra ct book, 56</source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>In Proceedings of the Fifteenth International Conference on Machine Learning (ICML-98), pages 287-295, Madison, Wisconsin, July 1998</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=360&amp;citation_for_view=5Iqe53IAAAAJ:4fGpz3EwCPoC</link>
+<authors>D Koller, R Fratkina</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Construction of a gene co-expression network</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=360&amp;citation_for_view=5Iqe53IAAAAJ:bz8QjSJIRt4C</link>
+<authors>JM Stuart, E Segal, D Koller, SK Kim</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>In Proceedings of the Thirteenth Annual Conference on Uncertainty in Artificial Intelligence (UAI-97), pages 302-313, Providence, Rhode Island, August 1-3, 1997</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=360&amp;citation_for_view=5Iqe53IAAAAJ:Ri6SYOTghG4C</link>
+<authors>D Koller, A Pfeffer</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Statistical Foundations for Default Reasoning</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=360&amp;citation_for_view=5Iqe53IAAAAJ:_axFR9aDTf0C</link>
+<authors>AJ Grove, JY Halpern, D Koller</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>From Bayesian Networks to Probabilistic Relational Models: Bridging the Gap</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=360&amp;citation_for_view=5Iqe53IAAAAJ:86PQX7AUzd4C</link>
+<authors>L Getoor, D Koller, N Friedman</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>A gene co-expression network for global discovery of conserved genetic modules in H. sapiens, D. melanogaster, C. elegans, and S. cerevisiae</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=360&amp;citation_for_view=5Iqe53IAAAAJ:5qfkUJPXOUwC</link>
+<authors>JM Stuart, E Segal, D Koller, SK Kim</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>In Proceedings of the Fourteenth Annual Conference on Uncertainty in Artificial Intelligence (UAI-98), pages 33-42, Madison, Wisconsin, July 1998</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=360&amp;citation_for_view=5Iqe53IAAAAJ:Ug5p-4gJ2f0C</link>
+<authors>X Boyen, D Koller</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Learning first-order Markov models for control, Pieter Abbeel, and Andrew Y. Ng, Stanford University....................................... 1 A Large Deviation Bound for the Area Under the ROC Curve</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=360&amp;citation_for_view=5Iqe53IAAAAJ:q3CdL3IzO_QC</link>
+<authors>CKI Williams, HCP Srinivasan, D Koller, S Thrun, MI Jordan, GRG Lanckriet</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>The Correlated Correspondence Algorithm for Unsupervised Registration of Nonrigid Surfaces** Stanford AI Lab Technical Report SAIL-2004-100**</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=360&amp;citation_for_view=5Iqe53IAAAAJ:foquWX3nUaYC</link>
+<authors>D Anguelov, D Koller, P Srinivasan, S Thrun, HC Pang, J Davis</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>A¡ esponse to elieving on the (asis of evidence@ Fahiem Bacchus Department of Computer Science University of Waterloo</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=360&amp;citation_for_view=5Iqe53IAAAAJ:PoWvk5oyLR8C</link>
+<authors>J Halpern, D Koller</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Combining heterogeneous data and network motifs for filling missing enzymes in yeast metabolic pathways</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=360&amp;citation_for_view=5Iqe53IAAAAJ:i2xiXl-TujoC</link>
+<authors>G Chechik, A Regev, D Koller</authors>
+<source>margin 10, 20</source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Author-Title Index Volume 21, 2004</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=360&amp;citation_for_view=5Iqe53IAAAAJ:S16KYo8Pm5AC</link>
+<authors>O Arieli, M Babaioff, A Ben-Yair, A Borodin, C Boutilier, RI Brafman, M ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Computer Science Department Computer Science Department Gates Building 1A Gates Building 1A Stanford University Stanford University Stanford, CA 94305-9010 Stanford, CA 94305-9010</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=360&amp;citation_for_view=5Iqe53IAAAAJ:WZBGuue-350C</link>
+<authors>D Koller, M Sahami</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>In Proceedings of the Fifteenth Annual Conference on Uncertainty in Artificial Intelligence (UAI-99), pages 324-333, Stockholm, Sweden, August 1999</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=360&amp;citation_for_view=5Iqe53IAAAAJ:M7yex6snE4oC</link>
+<authors>D Koller, U Lerner, D Angelov</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Generating New Beliefs From Old</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=360&amp;citation_for_view=5Iqe53IAAAAJ:kz9GbA2Ns4gC</link>
+<authors>AJ Grove, JY Halpern, D Koller, B UniversityofCalifornia</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Discovering Hidden Variables: A Structure-Based Approach Gal Elidan Noam Lotner Nir Friedman Hebrew University {galel, noaml, nir}@ cs. huji. ac. il</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=380&amp;citation_for_view=5Iqe53IAAAAJ:k8Z6L05lTy4C</link>
+<authors>D Koller</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Policy Search via Density Estimation Andrew Y. Ng Computer Science Division UC Berkeley Berkeley, CA 94720</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=380&amp;citation_for_view=5Iqe53IAAAAJ:MLfJN-KU85MC</link>
+<authors>R Parr, D Koller</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>In Proceedings of the Seventeenth National Conference on Artificial Intelligence (AAAI-00), pages 658-664, Austin, Texas, August 2000</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=380&amp;citation_for_view=5Iqe53IAAAAJ:tuHXwOkdijsC</link>
+<authors>S Tong, D Koller</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>In Proceedings of the Thirteenth Annual Conference on Uncertainty in Artificial Intelligence (UAI-97), pages 3-13, Providence, Rhode Island, August 1-3, 1997</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=380&amp;citation_for_view=5Iqe53IAAAAJ:TIZ-Mc8IlK0C</link>
+<authors>E Bauer, D Koller, Y Singer</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>ICML 2004 Workshop on Statistical Relational Learning and its Connections to Other Fields</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=380&amp;citation_for_view=5Iqe53IAAAAJ:tYavs44e6CUC</link>
+<authors>T Dietterich, J Cussens, P Domingos, D Jensen, D Koller, A McCallum, T Sato ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>In Proceedings of the Fourteenth National Conference on Artificial Intelligence (AAAI-97), pages 740-747, Providence, Rhode Island, August 1997</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=380&amp;citation_for_view=5Iqe53IAAAAJ:KUbvn5osdkgC</link>
+<authors>D Koller, D McAllester, A Pfeffer</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>PRO RESS REPORT</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=380&amp;citation_for_view=5Iqe53IAAAAJ:g3aElNc5_aQC</link>
+<authors>MJ PI, V Anantharam, L El Ghaoui, S Russell, S Sastry, D Koller, B Van Roy ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>LOOPS: Shape-Based Object Localization for Descriptive Classification</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=380&amp;citation_for_view=5Iqe53IAAAAJ:BwyfMAYsbu0C</link>
+<authors>G Heitz, G Elidan, B Packer, D Koller</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Gene Module Regulatory Network Analysis of Follicular Lymphoma Transformation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=5Iqe53IAAAAJ&amp;cstart=380&amp;citation_for_view=5Iqe53IAAAAJ:ML0RJ9NH7IQC</link>
+<authors>AJ Gentles, SI Lee, B Shahbaba, CM Shachaf, R Levy, D Koller, SK Plevritis</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+</file>

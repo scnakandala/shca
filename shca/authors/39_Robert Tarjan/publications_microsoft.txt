@@ -1,0 +1,5006 @@
+RT Journal Article
+ID 58572253
+A1 Papadimitriou,Christos
+A1 Adleman,Leonard
+A1 Karp,Richard,M.
+A1 Knuth,Donald,E.
+A1 Tarjan,Robert
+A1 Valiant,Leslie,G.
+YR 2012
+T1 An Algorithmic View of the Universe
+SP 1
+
+RT Journal Article
+ID 56916596
+A1 Brodal,Gerth,Stølting
+A1 Lagogiannis,George
+A1 Tarjan,Robert,E.
+YR 2012
+T1 Strict fibonacci heaps
+SP 1177
+OP 1184
+
+RT Journal Article
+ID 5729550
+A1 Haeupler,Bernhard
+A1 Kavitha,Telikepalli
+A1 Mathew,Rogers
+A1 Sen,Siddhartha
+A1 Tarjan,Robert,Endre
+YR 2011
+T1 Incremental Cycle Detection, Topological Ordering, and Strong Component Maintenance
+VO abs/1105.2
+
+RT Journal Article
+ID 39248773
+A1 Georgiadis,Loukas
+A1 Kaplan,Haim
+A1 Shafrir,Nira
+A1 Tarjan,Robert,Endre
+A1 Werneck,Renato,Fonseca,F.
+YR 2011
+T1 Data structures for mergeable trees
+JF ACM Transactions on Algorithms
+VO 7
+SP 1
+OP 30
+IS 2
+
+RT Journal Article
+ID 13304085
+A1 Ward,Julie
+A1 Zhang,Bin
+A1 Jain,Shailendra
+A1 Fry,Chris
+A1 Olavson,Thomas
+A1 Mishal,Holger
+A1 Amaral,Jason
+A1 Beyer,Dirk
+A1 Brecht,Ann
+A1 Cargille,Brian
+A1 Chadinha,Russ
+A1 Chou,Kathy
+A1 DeNyse,Gavin
+A1 Feng,Qi
+A1 Padovani,Cookie
+A1 Raj,Sesh
+A1 Sunderbruch,Kurt
+A1 Tarjan,Robert,Endre
+A1 Venkatraman,Krishna
+A1 Woods,Joseph
+A1 Zhou,Jing
+YR 2010
+T1 HP Transforms Product Portfolio Management with Operations Research
+JF Interfaces
+VO 40
+SP 17
+OP 32
+IS 1
+
+RT Conference Proceedings
+ID 6479321
+A1 Sen,Siddhartha
+A1 Tarjan,Robert,Endre
+YR 2010
+T1 Deletion Without Rebalancing in Balanced Binary Trees
+SP 1490
+OP 1499
+
+RT Book, Whole
+ID 47646768
+A1 Pólya,George
+A1 Tarjan,Robert,E.
+A1 Woods,Donald,R.
+YR 2010
+T1 Part 3: Generating Functions
+
+RT Book, Whole
+ID 47667231
+A1 Pólya,George
+A1 Tarjan,Robert,E.
+A1 Woods,Donald,R.
+YR 2010
+T1 Part 12; Network Flow
+
+RT Book, Whole
+ID 47689737
+A1 Pólya,George
+A1 Tarjan,Robert,E.
+A1 Woods,Donald,R.
+YR 2010
+T1 Part 14: Planarity and the Four-Color Theorem
+
+RT Book, Whole
+ID 47698153
+A1 Pólya,George
+A1 Tarjan,Robert,E.
+A1 Woods,Donald,R.
+YR 2010
+T1 Part 5: Stirling Numbers
+
+RT Book, Whole
+ID 47704495
+A1 Pólya,George
+A1 Tarjan,Robert,E.
+A1 Woods,Donald,R.
+YR 2010
+T1 Part 11: Matchings (Maximum Matchings)
+
+RT Book, Whole
+ID 47714091
+A1 Pólya,George
+A1 Tarjan,Robert,E.
+A1 Woods,Donald,R.
+YR 2010
+T1 Part 13: Hamiltonian and Eulerian Paths
+
+RT Book, Whole
+ID 47753327
+A1 Pólya,George
+A1 Tarjan,Robert,E.
+A1 Woods,Donald,R.
+YR 2010
+T1 Part 7:Outlook
+
+RT Book, Whole
+ID 47763288
+A1 Pólya,George
+A1 Tarjan,Robert,E.
+A1 Woods,Donald,R.
+YR 2010
+T1 Part 6: Pólya’s Theory of Counting
+
+RT Book, Whole
+ID 47769113
+A1 Pólya,George
+A1 Tarjan,Robert,E.
+A1 Woods,Donald,R.
+YR 2010
+T1 Part 4: Principle of Inclusion and Exclusion
+
+RT Book, Whole
+ID 47792935
+A1 Pólya,George
+A1 Tarjan,Robert,E.
+A1 Woods,Donald,R.
+YR 2010
+T1 Part 8: Midterm Examination
+
+RT Book, Whole
+ID 47812632
+A1 Pólya,George
+A1 Tarjan,Robert,E.
+A1 Woods,Donald,R.
+YR 2010
+T1 Part 15: Final Examination
+
+RT Book, Whole
+ID 47837176
+A1 Pólya,George
+A1 Tarjan,Robert,E.
+A1 Woods,Donald,R.
+YR 2010
+T1 Part 9: Ramsey Theory
+
+RT Book, Whole
+ID 47857702
+A1 Pólya,George
+A1 Tarjan,Robert,E.
+A1 Woods,Donald,R.
+YR 2010
+T1 Part 10: Matchings (Stable Marriages)
+
+RT Book, Whole
+ID 47974682
+A1 Pólya,George
+A1 Tarjan,Robert,E.
+A1 Woods,Donald,R.
+YR 2010
+T1 Part 2; Combinations and Permutations
+
+RT Book, Whole
+ID 6051904
+A1 Haeupler,Bernhard
+A1 Sen,Siddhartha
+A1 Tarjan,Robert,Endre
+YR 2009
+T1 Rank-Balanced Trees
+SP 351
+OP 362
+
+RT Conference Proceedings
+ID 4700754
+A1 Georgiadis,Loukas
+A1 Goldberg,Andrew,V.
+A1 Tarjan,Robert,Endre
+A1 Werneck,Renato,Fonseca,F.
+YR 2009
+T1 An Experimental Study of Minimum Mean Cycle Algorithms
+SP 1
+OP 13
+
+RT Book, Whole
+ID 6043833
+A1 Sen,Siddhartha
+A1 Tarjan,Robert,Endre
+YR 2009
+T1 Deletion without Rebalancing in Multiway Search Trees
+SP 832
+OP 841
+
+RT Book, Whole
+ID 6034532
+A1 Haeupler,Bernhard
+A1 Sen,Siddhartha
+A1 Tarjan,Robert,Endre
+YR 2009
+T1 Rank-Pairing Heaps
+SP 659
+OP 670
+
+RT Journal Article
+ID 4757713
+A1 Haeupler,Bernhard
+A1 Sen,Siddhartha
+A1 Tarjan,Robert,Endre
+YR 2009
+T1 Heaps Simplified
+JF Computing Research Repository
+VO abs/0903.0
+
+RT Journal Article
+ID 61401283
+A1 Cherkassky,Boris,V.
+A1 Georgiadis,Loukas
+A1 Goldberg,Andrew,V.
+A1 Tarjan,Robert,E.
+A1 Werneck,Renato,F.
+YR 2009
+T1 Shortest-Path Feasibility Algorithms: An Experimental Evaluation
+
+RT Book, Whole
+ID 4699070
+A1 Byde,Andrew
+A1 Kelly,Terence
+A1 Zhou,Yunhong
+A1 Tarjan,Robert,Endre
+YR 2009
+T1 Efficiently Generating k-Best Solutions to Procurement Auctions
+SP 68
+OP 84
+
+RT Journal Article
+ID 14426173
+A1 Tarjan,Robert,E.
+A1 Werneck,Renato,F.
+YR 2009
+T1 Dynamic trees in practice
+JF ACM Journal of Experimental Algorithms
+VO 14
+
+RT Conference Proceedings
+ID 4312250
+A1 Ene,Alina
+A1 Horne,William
+A1 Milosavljevic,Nikola
+A1 Rao,Prasad
+A1 Schreiber,Robert
+A1 Tarjan,Robert,Endre
+YR 2008
+T1 Fast exact and heuristic methods for role minimization problems
+SP 1
+OP 10
+
+RT Journal Article
+ID 4409849
+A1 Kaplan,Haim
+A1 Tarjan,Robert,Endre
+YR 2008
+T1 Thin heaps, thick heaps
+JF ACM Transactions on Algorithms
+VO 4
+SP 1
+OP 14
+IS 1
+
+RT Book, Whole
+ID 4268409
+A1 Haeupler,Bernhard
+A1 Kavitha,Telikepalli
+A1 Mathew,Rogers
+A1 Sen,Siddhartha
+A1 Tarjan,Robert,Endre
+YR 2008
+T1 Faster Algorithms for Incremental Topological Ordering
+SP 421
+OP 433
+
+RT Journal Article
+ID 4407586
+A1 Buchsbaum,Adam,L.
+A1 Georgiadis,Loukas
+A1 Kaplan,Haim
+A1 Rogers,Anne
+A1 Tarjan,Robert,Endre
+A1 Westbrook,Jeffery,R.
+YR 2008
+T1 Linear-Time Algorithms for Dominators and Other Path-Evaluation Problems
+JF Siam Journal on Computing
+VO 38
+SP 1533
+OP 1573
+IS 4
+
+RT Journal Article
+ID 13288819
+A1 Mishra,Nina
+A1 Schreiber,Robert
+A1 Stanton,Isabelle
+A1 Tarjan,Robert,Endre
+YR 2008
+T1 Finding Strongly Knit Clusters in Social Networks
+JF Internet Mathematics
+VO 5
+SP 155
+OP 174
+IS 1
+
+RT Journal Article
+ID 4786091
+A1 Haeupler,Bernhard
+A1 Tarjan,Robert,Endre
+YR 2008
+T1 Planarity Algorithms via PQ-Trees (Extended Abstract)
+JF Electronic Notes in Discrete Mathematics
+VO 31
+SP 143
+OP 149
+
+RT Journal Article
+ID 4700767
+A1 Cherkassky,Boris,V.
+A1 Georgiadis,Loukas
+A1 Goldberg,Andrew,V.
+A1 Tarjan,Robert,Endre
+A1 Werneck,Renato,Fonseca,F.
+YR 2008
+T1 Shortest Path Feasibility Algorithms: An Experimental Evaluation
+JF ACM Journal of Experimental Algorithms
+VO 14
+SP 118
+OP 132
+
+RT Journal Article
+ID 4372149
+A1 Haeupler,Bernhard
+A1 Sen,Siddhartha
+A1 Tarjan,Robert,Endre
+YR 2008
+T1 Incremental Topological Ordering and Strong Component Maintenance
+JF Computing Research Repository
+VO abs/0803.0
+
+RT Journal Article
+ID 4768053
+A1 Haeupler,Bernhard
+A1 Tarjan,Robert,Endre
+YR 2008
+T1 Finding a feasible flow in a strongly connected network
+JF Operations Research Letters
+VO 36
+SP 397
+OP 398
+IS 4
+
+RT Book, Whole
+ID 4289367
+A1 Tarjan,Robert,Endre
+YR 2008
+T1 Reachability Problems on Directed Graphs
+SP 3
+
+RT Book, Whole
+ID 4323985
+A1 Mishra,Nina
+A1 Schreiber,Robert
+A1 Stanton,Isabelle
+A1 Tarjan,Robert,Endre
+YR 2007
+T1 Clustering Social Networks
+SP 56
+OP 67
+
+RT Book, Whole
+ID 2475938
+A1 Babenko,Maxim,A.
+A1 Derryberry,Jonathan
+A1 Goldberg,Andrew,V.
+A1 Tarjan,Robert,Endre
+A1 Zhou,Yunhong
+YR 2007
+T1 Experimental Evaluation of Parametric Max-Flow Algorithms
+SP 256
+OP 269
+
+RT Journal Article
+ID 4371138
+A1 Georgiadis,Loukas
+A1 Kaplan,Haim
+A1 Shafrir,Nira
+A1 Tarjan,Robert,Endre
+A1 Werneck,Renato,Fonseca,F.
+YR 2007
+T1 Data Structures for Mergeable Trees
+JF Computing Research Repository
+VO abs/0711.1
+
+RT Book, Whole
+ID 2475964
+A1 Tarjan,Robert,Endre
+A1 Werneck,Renato,Fonseca,F.
+YR 2007
+T1 Dynamic Trees in Practice
+JF ACM Journal of Experimental Algorithms
+VO 14
+SP 80
+OP 93
+
+RT Journal Article
+ID 4357933
+A1 Chaudhuri,Kamalika
+A1 Kothari,Anshul
+A1 Pendavingh,Rudi
+A1 Swaminathan,Ram
+A1 Tarjan,Robert,Endre
+A1 Zhou,Yunhong
+YR 2007
+T1 Server Allocation Algorithms for Tiered Systems
+JF Algorithmica
+VO 48
+SP 129
+OP 146
+IS 2
+
+RT Journal Article
+ID 4371179
+A1 Haeupler,Bernhard
+A1 Tarjan,Robert,Endre
+YR 2007
+T1 Finding a Feasible Flow in a Strongly Connected Network
+JF Computing Research Repository
+VO abs/0711.2
+
+RT Conference Proceedings
+ID 1815641
+A1 Georgiadis,Loukas
+A1 Tarjan,Robert,Endre
+A1 Werneck,Renato,Fonseca,F.
+YR 2006
+T1 Design of data structures for mergeable trees
+SP 394
+OP 403
+
+RT Book, Whole
+ID 2428676
+A1 Tarjan,Robert,Endre
+A1 Ward,Julie
+A1 Zhang,Bin
+A1 Zhou,Yunhong
+A1 Mao,Jia
+YR 2006
+T1 Balancing Applied to Maximum Network Flow Problems
+SP 612
+OP 623
+
+RT Journal Article
+ID 4398261
+A1 Georgiadis,Loukas
+A1 Tarjan,Robert,Endre
+A1 Werneck,Renato,Fonseca,F.
+YR 2006
+T1 Finding Dominators in Practice
+JF Journal of Graph Algorithms and Applications
+VO 10
+SP 69
+OP 94
+IS 1
+
+RT Journal Article
+ID 2515155
+A1 Mendelson,Ran
+A1 Tarjan,Robert,Endre
+A1 Thorup,Mikkel
+A1 Zwick,Uri
+YR 2006
+T1 Melding priority queues
+JF ACM Transactions on Algorithms
+VO 2
+SP 535
+OP 556
+IS 4
+
+RT Book, Whole
+ID 2186766
+A1 Tarjan,Robert,Endre
+YR 2006
+T1 Results and Problems on Self-adjusting Search Trees and Related Data Structures
+SP 2
+
+RT Conference Proceedings
+ID 1815591
+A1 Tarjan,Robert,Endre
+A1 Werneck,Renato,Fonseca,F.
+YR 2005
+T1 Self-adjusting top trees
+SP 813
+OP 822
+
+RT Conference Proceedings
+ID 1815944
+A1 Anderson,Eric
+A1 Beyer,Dirk
+A1 Chaudhuri,Kamalika
+A1 Kelly,Terence
+A1 Salazar,Norman
+A1 Santos,Cipriano,A.
+A1 Swaminathan,Ram
+A1 Tarjan,Robert,Endre
+A1 Wiener,Janet,L.
+A1 Zhou,Yunhong
+YR 2005
+T1 Value-maximizing deadline scheduling and its application to animation rendering
+SP 299
+OP 308
+
+RT Conference Proceedings
+ID 1815510
+A1 Georgiadis,Loukas
+A1 Tarjan,Robert,Endre
+YR 2005
+T1 Dominator tree verification and vertex-disjoint paths
+SP 433
+OP 442
+
+RT Book, Whole
+ID 1848765
+A1 Chaudhuri,Kamalika
+A1 Kothari,Anshul
+A1 Pendavingh,Rudi
+A1 Swaminathan,Ram
+A1 Tarjan,Robert,Endre
+A1 Zhou,Yunhong
+YR 2005
+T1 Server Allocation Algorithms for Tiered Systems
+SP 632
+OP 643
+
+RT Journal Article
+ID 1859340
+A1 Anderson,Eric
+A1 Beyer,Dirk
+A1 Chaudhuri,Kamalika
+A1 Kelly,Terence
+A1 Salazar,Norman
+A1 Santos,Cipriano,A.
+A1 Swaminathan,Ram
+A1 Tarjan,Robert,Endre
+A1 Wiener,Janet,L.
+A1 Zhou,Yunhong
+YR 2005
+T1 Deadline scheduling for animation rendering
+JF Sigmetrics Performance Evaluation Review
+VO 33
+SP 384
+OP 385
+IS 1
+
+RT Journal Article
+ID 39214338
+A1 Anderson,Eric
+A1 Beyer,Dirk
+A1 Chaudhuri,Kamalika
+A1 Kelly,Terence
+A1 Salazar,Norman
+A1 Santos,Cipriano
+A1 Swaminathan,Ram
+A1 Tarjan,Robert
+A1 Wiener,Janet
+A1 Zhou,Yunhong
+YR 2005
+T1 Deadline scheduling for animation rendering
+JF Sigmetrics Performance Evaluation Review
+SP 384
+OP 385
+
+RT Conference Proceedings
+ID 573209
+A1 Georgiadis,Loukas
+A1 Tarjan,Robert,Endre
+YR 2004
+T1 Finding dominators revisited: extended abstract
+SP 869
+OP 878
+
+RT Book, Whole
+ID 1771324
+A1 Georgiadis,Loukas
+A1 Werneck,Renato,Fonseca,F.
+A1 Tarjan,Robert,Endre
+A1 Triantafyllis,Spyridon
+A1 August,David,I.
+YR 2004
+T1 Finding Dominators in Practice
+SP 677
+OP 688
+
+RT Book, Whole
+ID 2068465
+A1 Mendelson,Ran
+A1 Tarjan,Robert,Endre
+A1 Thorup,Mikkel
+A1 Zwick,Uri
+YR 2004
+T1 Melding Priority Queues
+SP 223
+OP 235
+
+RT Journal Article
+ID 4426864
+A1 Flake,Gary,William
+A1 Tarjan,Robert,Endre
+A1 Tsioutsiouliklis,Kostas
+YR 2003
+T1 Graph Clustering and Minimum Cut Trees
+JF Internet Mathematics
+VO 1
+IS 4
+
+RT Conference Proceedings
+ID 575954
+A1 Kaplan,Haim
+A1 Molad,Eyal
+A1 Tarjan,Robert,Endre
+YR 2003
+T1 Dynamic rectangular intersection with priorities
+SP 639
+OP 648
+
+RT Book, Whole
+ID 633762
+A1 Haber,Stuart
+A1 Horne,Bill,G.
+A1 Pato,Joe
+A1 Sander,Tomas
+A1 Tarjan,Robert,Endre
+YR 2003
+T1 If Piracy Is the Problem, Is DRM the Answer?
+SP 224
+OP 233
+
+RT Journal Article
+ID 1711573
+A1 Young,Neal,E.
+A1 Tarjan,Robert,Endre
+A1 Orlin,James,B.
+YR 2002
+T1 Faster Parametric Shortest Path and Minimum Balance Algorithms
+JF Computing Research Repository
+VO cs.DS/0205
+
+RT Conference Proceedings
+ID 2369527
+A1 Horne,B.
+A1 Matheson,L.
+A1 Sheehan,C.
+A1 Tarjan,R.
+YR 2002
+T1 Dynamic self-checking techniques for improved tamper resistance
+
+RT Conference Proceedings
+ID 25108
+A1 Kaplan,Haim
+A1 Shafrir,Nira
+A1 Tarjan,Robert,Endre
+YR 2002
+T1 Meldable heaps and boolean union-find
+SP 573
+OP 582
+
+RT Journal Article
+ID 3160614
+A1 Flake,Gary,William
+A1 Tsioutsiouliklis,Kostas
+A1 Tarjan,Robert,E.
+YR 2002
+T1 Graph clustering techniques based on minimum cut trees
+
+RT Conference Proceedings
+ID 27533
+A1 Kaplan,Haim
+A1 Shafrir,Nira
+A1 Tarjan,Robert,Endre
+YR 2002
+T1 Union-find with deletions
+SP 19
+OP 28
+
+RT Conference Proceedings
+ID 3031150
+A1 Tarjan,R.
+A1 Gil,T.,M.
+A1 Sun,E.
+A1 Daubechies,I.
+A1 Jacobson,V.
+A1 Garcia,T.
+A1 Jackson,K.,S.
+YR 2002
+T1 Emulating superblocks using robust modalities
+
+RT Journal Article
+ID 4458305
+A1 Buchsbaum,Adam,L.
+A1 Georgiadis,Loukas
+A1 Kaplan,Haim
+A1 Rogers,Anne
+A1 Tarjan,Robert,E.
+A1 Westbrook,Jeffery,R.
+YR 2002
+T1 Linear-Time Pointer-Machine Algorithms for Path-Evaluation Problems on Trees and Graphs
+
+RT Book, Whole
+ID 29252
+A1 Horne,Bill,G.
+A1 Matheson,Lesley,R.
+A1 Sheehan,Casey
+A1 Tarjan,Robert,Endre
+YR 2001
+T1 Dynamic Self-Checking Techniques for Improved Tamper Resistance
+SP 141
+OP 159
+
+RT Journal Article
+ID 735043
+A1 Gabow,Harold,N.
+A1 Kaplan,Haim
+A1 Tarjan,Robert,Endre
+YR 2001
+T1 Unique Maximum Matching Algorithms
+JF Journal of Algorithms
+VO 40
+SP 159
+OP 183
+IS 2
+
+RT Conference Proceedings
+ID 37732
+A1 Kaplan,Haim
+A1 Tarjan,Robert,Endre
+A1 Tsioutsiouliklis,Kostas
+YR 2001
+T1 Faster kinetic heaps and their use in broadcast scheduling
+SP 836
+OP 844
+
+RT Journal Article
+ID 58599556
+A1 Achard,P
+A1 Adriani,O
+A1 Aguilar-Benítez,M
+A1 Alcaraz,J
+A1 Alemanni,G
+A1 Allaby,James,V
+A1 Aloisio,A
+A1 Alviggi,M,G
+A1 Anderhub,H
+A1 Andreev,V,P
+A1 Anselmo,F
+A1 Arefev,A
+A1 Azemoon,T
+A1 Aziz,T
+A1 Bagnaia,P
+A1 Bajo,A
+A1 Baksay,G
+A1 Baksay,L
+A1 Baldew,S,V
+A1 Banerjee,S
+A1 Barczyk,A
+A1 Barillère,R
+A1 Bartalini,P
+A1 Basile,M
+A1 Batalova,N
+A1 Battiston,R
+A1 Bay,A
+A1 Becattini,F
+A1 Becker,U
+A1 Behner,F
+A1 Bellucci,L
+A1 Berbeco,R
+A1 Berdugo,J
+A1 Berges,P
+A1 Bertucci,B
+A1 Betev,B,L
+A1 Biasini,M
+A1 Biglietti,M
+A1 Biland,A
+A1 Blaising,J,J
+A1 Blyth,S,C
+A1 Bobbink,Gerjan,J
+A1 Böhm,A
+A1 Boldizsar,L
+A1 Borgia,B
+A1 Bottai,S
+A1 Bourilkov,D
+A1 Bourquin,Maurice
+A1 Braccini,S
+A1 Branson,J,G
+A1 Brochu,F
+A1 Buijs,A
+A1 Burger,J,D
+A1 Burger,W,J
+A1 Cai,X,D
+A1 Capell,M
+A1 Romeo,G,Cara
+A1 Carlino,G
+A1 Cartacci,A,M
+A1 Casaus,J
+A1 Cavallari,F
+A1 Cavallo,N
+A1 Cecchi,C
+A1 Cerrada,M
+A1 Chamizo-Llatas,M
+A1 Chang,Y,H
+A1 Chemarin,M
+A1 Chen,A
+A1 Chen,G
+A1 Chen,H,F
+A1 Chen,H,S
+A1 Chiefari,G
+A1 Cifarelli,Luisa
+A1 Cindolo,F
+A1 Clare,I
+A1 Clare,R
+A1 Coignet,G
+A1 Colino,N
+A1 Costantini,S
+A1 Cruz,B,de,la
+A1 Cucciarelli,S
+A1 Dalen,J,A,van
+A1 Asmundis,R,De
+A1 Déglon,P,L
+A1 Debreczeni,J
+A1 Degré,A
+A1 Deiters,K
+A1 Volpe,D,Della
+A1 Delmeire,E
+A1 Denes,P
+A1 Notaristefani,F,De
+A1 Salvo,A,De
+A1 Diemoz,M
+A1 Dierckxsens,M
+A1 Dierendonck,D,N,Van
+A1 Dionisi,C
+A1 Dittmar,Michael
+A1 Doria,A
+A1 Dova,M,T
+A1 Duchesneau,D
+A1 Duinker,P
+A1 Echenard,B
+A1 Eline,A
+A1 El-Mamouni,H
+A1 Engler,A
+A1 Eppling,F,J
+A1 Ewers,A
+A1 Extermann,Pierre
+A1 Falagán,M,A
+A1 Falciano,S
+A1 Favara,A
+A1 Fay,J
+A1 Fedin,O
+A1 Felcini,Marta
+A1 Ferguson,T
+A1 Fesefeldt,H,S
+A1 Fiandrini,E
+A1 Field,J,H
+A1 Filthaut,Frank
+A1 Fisher,P,H
+A1 Fisher,W
+A1 Fisk,I
+A1 Forconi,G
+A1 Freudenreich,Klaus
+A1 Furetta,C
+A1 Galaktionov,Yu
+A1 Ganguli,S,N
+A1 García-Abia,P
+A1 Gataullin,M
+A1 Gentile,S
+A1 Giagu,S
+A1 Gong,Z,F
+A1 Grenier,G
+A1 Grimm,O
+A1 Grünewald,M,W
+A1 Guida,M
+A1 Gulik,R,van
+A1 Gupta,V,K
+A1 Gurtu,A
+A1 Gutay,L,J
+A1 Haas,D
+A1 Hatzifotiadou,D
+A1 Hebbeker,T
+A1 Hervé,A
+A1 Hirschfelder,J
+A1 Hofer,H
+A1 Hohlmann,M
+A1 Holzner,G
+A1 Hou,S,R
+A1 Hu,Y
+A1 Jin,B,N
+A1 Jones,L,W
+A1 Jong,P,de
+A1 Josa-Mutuberria,I
+A1 Käfer,D
+A1 Kaur,M
+A1 Kienzle-Focacci,M,N
+A1 Kim,J,K
+A1 Kirkby,Jasper
+A1 Kittel,E,W
+A1 Klimentov,A
+A1 König,A,C
+A1 Kopal,M
+A1 Koutsenko,V,F
+A1 Kräber,M,H
+A1 Krämer,R,W
+A1 Krenz,W
+A1 Krüger,A
+A1 Kunin,A
+A1 Guevara,P,Ladrón,de
+A1 Laktineh,I
+A1 Landi,G
+A1 Lebeau,M
+A1 Lebedev,A
+A1 Lebrun,P
+A1 Lecomte,P
+A1 Lecoq,P
+A1 Coultre,P,Le
+A1 Goff,J,M,Le
+A1 Leiste,R
+A1 Levchenko,P,M
+A1 Chuan,Li
+A1 Likhoded,S,A
+A1 Lin,C,H
+A1 Lin,W,T
+A1 Linde,Frank,L
+A1 Lista,L
+A1 Liu,Z,A
+A1 Lohmann,W
+A1 Longo,E
+A1 Lü,Y,S
+A1 Lübelsmeyer,K
+A1 Luci,C
+A1 Luminari,L
+A1 Lustermann,W
+A1 Gan,Ma,Wen
+A1 Malgeri,L
+A1 Malinin,A
+A1 Maña,C
+A1 Mangeol,D,J,J
+A1 Mans,J
+A1 Martin,J,P
+A1 Marzano,F
+A1 Mazumdar,K
+A1 McNeil,R,R
+A1 Mele,S
+A1 Merola,L
+A1 Meschini,M
+A1 Metzger,W,J
+A1 Mihul,A
+A1 Milcent,H
+A1 Mirabelli,G
+A1 Mnich,J
+A1 Mohanty,G,B
+A1 Muanza,G,S
+A1 Muijs,A,J,M
+A1 Musicar,B
+A1 Musy,M
+A1 Nagy,S
+A1 Natale,S
+A1 Napolitano,M
+A1 Nessi-Tedaldi,F
+A1 Newman,H
+A1 Niessen,T
+A1 Nisati,A
+A1 Nowak,H
+A1 Ofierzynski,R,A
+A1 Organtini,G
+A1 Palomares,C
+A1 Pandoulas,D
+A1 Paolucci,P
+A1 Paramatti,R
+A1 Passaleva,G
+A1 Patricelli,S
+A1 Paul,T
+A1 Pauluzzi,M
+A1 Paus,C
+A1 Pauss,Felicitas
+A1 Pedace,M
+A1 Pensotti,S
+A1 Perret-Gallix,D
+A1 Petersen,B
+A1 Piccolo,D
+A1 Pierella,F
+A1 Pioppi,M
+A1 Piroué,P,A
+A1 Pistolesi,E
+A1 Plyaskin,V
+A1 Pohl,M
+A1 Pozhidaev,V
+A1 Pothier,J
+A1 Prokofiev,D,O
+A1 Prokofev,D
+A1 Quartieri,J
+A1 Rahal-Callot,G
+A1 Rahaman,M,A
+A1 Raics,P
+A1 Raja,N
+A1 Ramelli,R
+A1 Rancoita,P,G
+A1 Ranieri,R
+A1 Raspereza,A,V
+A1 Razis,P,A
+A1 Ren,D
+A1 Rescigno,M
+A1 Reucroft,S
+A1 Riemann,S
+A1 Riles,K
+A1 Roe,B,P
+A1 Romero,L
+A1 Rosca,A
+A1 Rosier-Lees,S
+A1 Roth,S
+A1 Rosenbleck,C
+A1 Roux,B
+A1 Rubio,Juan,Antonio
+A1 Ruggiero,G
+A1 Rykaczewski,H
+A1 Sakharov,A
+A1 Saremi,S
+A1 Sarkar,S
+A1 Salicio,J
+A1 Sánchez,E
+A1 Sanders,M,P
+A1 Schäfer,C
+A1 Shchegelskii,V
+A1 Schmidt-Kärst,S
+A1 Schmitz,D
+A1 Schopper,Herwig,Franz
+A1 Schotanus,D,J
+A1 Schwering,G
+A1 Sciacca,C
+A1 Servoli,L
+A1 Shevchenko,S
+A1 Shivarov,N
+A1 Shoutko,V
+A1 Shumilov,E
+A1 Shvorob,A,V
+A1 Siedenburg,T
+A1 Son,D
+A1 Spillantini,P
+A1 Steuer,M
+A1 Stickland,D,P
+A1 Stoyanov,B
+A1 Strässner,A
+A1 Sudhakar,K
+A1 Sultanov,G,G
+A1 Sun,L,Z
+A1 Sushkov,S,V
+A1 Suter,H
+A1 Swain,J,D
+A1 Szillási,Z
+A1 Tang,X,W
+A1 Tarjan,R,E
+A1 Tauscher,Ludwig
+A1 Taylor,L
+A1 Tellili,B
+A1 Teyssier,D
+A1 Timmermans,C
+A1 Ting,Samuel,C,C
+A1 Ting,S,M
+A1 Tonwar,S,C
+A1 Tóth,J
+A1 Tully,C
+A1 Tung,K,L
+A1 Ulbricht,J
+A1 Valente,E
+A1 Valle,R,T,Van,de
+A1 Walle,M,De
+A1 Veszpremi,V
+A1 Vesztergombi,G
+A1 Vetlitskii,I
+A1 Vicinanza,D
+A1 Viertel,Gert,M
+A1 Villa,S
+A1 Vivargent,M
+A1 Vlachos,S
+A1 Vodopyanov,I
+A1 Vogel,H
+A1 Vogt,H
+A1 Vorobev,I
+A1 Vorobyov,A,A
+A1 Wadhwa,M
+A1 Wallraff,W
+A1 Wang,X,L
+A1 Wang,Z,M
+A1 Weber,M
+A1 Wienemann,P
+A1 Wilkens,H
+A1 Wynhoff,S
+A1 Xia,L
+A1 Xu,Z,Z
+A1 Yamamoto,J
+A1 Yang,B,Z
+A1 Yang,C,G
+A1 Yang,H,J
+A1 Yang,M
+A1 Yeh,S,C
+A1 Zalite,A
+A1 Zalite,Yu
+A1 Zhang,Z,P
+A1 Zhao,J
+A1 Zhu,G,Y
+A1 Zhu,R,Y
+A1 Zhuang,H,L
+A1 Zichichi,A
+A1 Zilizi,G
+A1 Zimmermann,B
+A1 Zöller,M
+YR 2001
+T1 f$_1$(1285) Formation in Two-Photon Collisions at LEP
+
+RT Journal Article
+ID 27711026
+A1 Wadhwa,Maneesh
+A1 Adriani,O
+A1 Aguilar-Benítez,M
+A1 Alcaraz,J
+A1 Alemanni,G
+A1 Allaby,James,V
+A1 Aloisio,A
+A1 Alviggi,M,G
+A1 Anderhub,H
+A1 Andreev,V,P
+A1 Anselmo,F
+A1 Arefev,A
+A1 Azemoon,T
+A1 Aziz,T
+A1 Bagnaia,P
+A1 Bajo,A
+A1 Baksay,G
+A1 Baksay,L
+A1 Baldew,S,V
+A1 Banerjee,S
+A1 Barczyk,A
+A1 Barillère,R
+A1 Bartalini,P
+A1 Basile,M
+A1 Batalova,N
+A1 Battiston,R
+A1 Bay,A
+A1 Becattini,F
+A1 Becker,U
+A1 Behner,F
+A1 Bellucci,L
+A1 Berbeco,R
+A1 Berdugo,J
+A1 Berges,P
+A1 Bertucci,B
+A1 Betev,B,L
+A1 Biasini,M
+A1 Biglietti,M
+A1 Biland,A
+A1 Blaising,J,J
+A1 Blyth,S,C
+A1 Bobbink,Gerjan,J
+A1 Böhm,A
+A1 Boldizsar,L
+A1 Borgia,B
+A1 Bottai,S
+A1 Bourilkov,D
+A1 Bourquin,Maurice
+A1 Braccini,S
+A1 Branson,J,G
+A1 Brochu,F
+A1 Buijs,A
+A1 Burger,J,D
+A1 Burger,W,J
+A1 Cai,X,D
+A1 Capell,M
+A1 Romeo,G,Cara
+A1 Carlino,G
+A1 Cartacci,A,M
+A1 Casaus,J
+A1 Cavallari,F
+A1 Cavallo,N
+A1 Cecchi,C
+A1 Cerrada,M
+A1 Chamizo-Llatas,M
+A1 Chang,Y,H
+A1 Chemarin,M
+A1 Chen,A
+A1 Chen,G
+A1 Chen,H,F
+A1 Chen,H,S
+A1 Chiefari,G
+A1 Cifarelli,Luisa
+A1 Cindolo,F
+A1 Clare,I
+A1 Clare,R
+A1 Coignet,G
+A1 Colino,N
+A1 Costantini,S
+A1 Cruz,B,de,la
+A1 Cucciarelli,S
+A1 Dalen,J,A,van
+A1 Asmundis,R,De
+A1 Déglon,P,L
+A1 Debreczeni,J
+A1 Degré,A
+A1 Deiters,K
+A1 Volpe,D,Della
+A1 Delmeire,E
+A1 Denes,P
+A1 Notaristefani,F,De
+A1 Salvo,A,De
+A1 Diemoz,M
+A1 Dierckxsens,M
+A1 Dierendonck,D,N,Van
+A1 Dionisi,C
+A1 Dittmar,Michael
+A1 Doria,A
+A1 Dova,M,T
+A1 Duchesneau,D
+A1 Duinker,P
+A1 Echenard,B
+A1 Eline,A
+A1 El-Mamouni,H
+A1 Engler,A
+A1 Eppling,F,J
+A1 Ewers,A
+A1 Extermann,Pierre
+A1 Falagán,M,A
+A1 Falciano,S
+A1 Favara,A
+A1 Fay,J
+A1 Fedin,O
+A1 Felcini,Marta
+A1 Ferguson,T
+A1 Fesefeldt,H,S
+A1 Fiandrini,E
+A1 Field,J,H
+A1 Filthaut,Frank
+A1 Fisher,P,H
+A1 Fisher,W
+A1 Fisk,I
+A1 Forconi,G
+A1 Freudenreich,Klaus
+A1 Furetta,C
+A1 Galaktionov,Yu
+A1 Ganguli,S,N
+A1 García-Abia,P
+A1 Gataullin,M
+A1 Gentile,S
+A1 Giagu,S
+A1 Gong,Z,F
+A1 Grenier,G
+A1 Grimm,O
+A1 Grünewald,M,W
+A1 Guida,M
+A1 Gulik,R,van
+A1 Gupta,V,K
+A1 Gurtu,A
+A1 Gutay,L,J
+A1 Haas,D
+A1 Hatzifotiadou,D
+A1 Hebbeker,T
+A1 Hervé,A
+A1 Hirschfelder,J
+A1 Hofer,H
+A1 Hohlmann,M
+A1 Holzner,G
+A1 Hou,S,R
+A1 Hu,Y
+A1 Jin,B,N
+A1 Jones,L,W
+A1 Jong,P,de
+A1 Josa-Mutuberria,I
+A1 Käfer,D
+A1 Kaur,M
+A1 Kienzle-Focacci,M,N
+A1 Kim,J,K
+A1 Kirkby,Jasper
+A1 Kittel,E,W
+A1 Klimentov,A
+A1 König,A,C
+A1 Kopal,M
+A1 Koutsenko,V,F
+A1 Kräber,M,H
+A1 Krämer,R,W
+A1 Krenz,W
+A1 Krüger,A
+A1 Kunin,A
+A1 Guevara,P,Ladrón,de
+A1 Laktineh,I
+A1 Landi,G
+A1 Lebeau,M
+A1 Lebedev,A
+A1 Lebrun,P
+A1 Lecomte,P
+A1 Lecoq,P
+A1 Coultre,P,Le
+A1 Goff,J,M,Le
+A1 Leiste,R
+A1 Levchenko,P,M
+A1 Chuan,Li
+A1 Likhoded,S,A
+A1 Lin,C,H
+A1 Lin,W,T
+A1 Linde,Frank,L
+A1 Lista,L
+A1 Liu,Z,A
+A1 Lohmann,W
+A1 Longo,E
+A1 Lü,Y,S
+A1 Lübelsmeyer,K
+A1 Luci,C
+A1 Luminari,L
+A1 Lustermann,W
+A1 Gan,Ma,Wen
+A1 Malgeri,L
+A1 Malinin,A
+A1 Maña,C
+A1 Mangeol,D,J,J
+A1 Mans,J
+A1 Martin,J,P
+A1 Marzano,F
+A1 Mazumdar,K
+A1 McNeil,R,R
+A1 Mele,S
+A1 Merola,L
+A1 Meschini,M
+A1 Metzger,W,J
+A1 Mihul,A
+A1 Milcent,H
+A1 Mirabelli,G
+A1 Mnich,J
+A1 Mohanty,G,B
+A1 Muanza,G,S
+A1 Muijs,A,J,M
+A1 Musicar,B
+A1 Musy,M
+A1 Nagy,S
+A1 Natale,S
+A1 Napolitano,M
+A1 Nessi-Tedaldi,F
+A1 Newman,H
+A1 Niessen,T
+A1 Nisati,A
+A1 Nowak,H
+A1 Ofierzynski,R,A
+A1 Organtini,G
+A1 Palomares,C
+A1 Pandoulas,D
+A1 Paolucci,P
+A1 Paramatti,R
+A1 Passaleva,G
+A1 Patricelli,S
+A1 Paul,T
+A1 Pauluzzi,M
+A1 Paus,C
+A1 Pauss,Felicitas
+A1 Pedace,M
+A1 Pensotti,S
+A1 Perret-Gallix,D
+A1 Petersen,B
+A1 Piccolo,D
+A1 Pierella,F
+A1 Pioppi,M
+A1 Piroué,P,A
+A1 Pistolesi,E
+A1 Plyaskin,V
+A1 Pohl,M
+A1 Pozhidaev,V
+A1 Pothier,J
+A1 Prokofiev,D,O
+A1 Prokofev,D
+A1 Quartieri,J
+A1 Rahal-Callot,G
+A1 Rahaman,M,A
+A1 Raics,P
+A1 Raja,N
+A1 Ramelli,R
+A1 Rancoita,P,G
+A1 Ranieri,R
+A1 Raspereza,A,V
+A1 Razis,P,A
+A1 Ren,D
+A1 Rescigno,M
+A1 Reucroft,S
+A1 Riemann,S
+A1 Riles,K
+A1 Roe,B,P
+A1 Romero,L
+A1 Rosca,A
+A1 Rosier-Lees,S
+A1 Roth,S
+A1 Rosenbleck,C
+A1 Roux,B
+A1 Rubio,Juan,Antonio
+A1 Ruggiero,G
+A1 Rykaczewski,H
+A1 Sakharov,A
+A1 Saremi,S
+A1 Sarkar,S
+A1 Salicio,J
+A1 Sánchez,E
+A1 Sanders,M,P
+A1 Schäfer,C
+A1 Shchegelskii,V
+A1 Schmidt-Kärst,S
+A1 Schmitz,D
+A1 Schopper,Herwig,Franz
+A1 Schotanus,D,J
+A1 Schwering,G
+A1 Sciacca,C
+A1 Servoli,L
+A1 Shevchenko,S
+A1 Shivarov,N
+A1 Shoutko,V
+A1 Shumilov,E
+A1 Shvorob,A,V
+A1 Siedenburg,T
+A1 Son,D
+A1 Spillantini,P
+A1 Steuer,M
+A1 Stickland,D,P
+A1 Stoyanov,B
+A1 Strässner,A
+A1 Sudhakar,K
+A1 Sultanov,G,G
+A1 Sun,L,Z
+A1 Sushkov,S,V
+A1 Suter,H
+A1 Swain,J,D
+A1 Szillási,Z
+A1 Tang,X,W
+A1 Tarjan,R,E
+A1 Tauscher,Ludwig
+A1 Taylor,L
+A1 Tellili,B
+A1 Teyssier,D
+A1 Timmermans,C
+A1 Ting,Samuel,C,C
+A1 Ting,S,M
+A1 Tonwar,S,C
+A1 Tóth,J
+A1 Tully,C
+A1 Tung,K,L
+A1 Ulbricht,J
+A1 Valente,E
+A1 Valle,R,T,Van,de
+A1 Walle,M,De
+A1 Veszpremi,V
+A1 Vesztergombi,G
+A1 Vetlitskii,I
+A1 Vicinanza,D
+A1 Viertel,Gert,M
+A1 Villa,S
+A1 Vivargent,M
+A1 Vlachos,S
+A1 Vodopyanov,I
+A1 Vogel,H
+A1 Vogt,H
+A1 Vorobev,I
+A1 Vorobyov,A,A
+A1 Wallraff,W
+A1 Wang,X,L
+A1 Wang,Z,M
+A1 Weber,M
+A1 Wienemann,P
+A1 Wilkens,H
+A1 Wynhoff,S
+A1 Xia,L
+A1 Xu,Z,Z
+A1 Yamamoto,J
+A1 Yang,B,Z
+A1 Yang,C,G
+A1 Yang,H,J
+A1 Yang,M
+A1 Yeh,S,C
+A1 Zalite,A
+A1 Zalite,Yu
+A1 Zhang,Z,P
+A1 Zhao,J
+A1 Zhu,G,Y
+A1 Zhu,R,Y
+A1 Zhuang,H,L
+A1 Zichichi,A
+A1 Zilizi,G
+A1 Zimmermann,B
+A1 Zöller,M
+YR 2001
+T1 Double tag events in two-photon collisions at LEP
+VO 571
+SP 140
+OP 146
+
+RT Journal Article
+ID 15204326
+A1 Kaplan,Haim
+A1 Shamir,Ron
+A1 Tarjan,Robert,E.
+YR 2000
+T1 A Faster and Simpler Algorithm for Sorting Signed Permutations by Reversals
+JF Siam Journal on Computing
+VO 29
+SP 880
+IS 3
+
+RT Journal Article
+ID 811387
+A1 Kaplan,Haim
+A1 Okasaki,Chris
+A1 Tarjan,Robert,Endre
+YR 2000
+T1 Simple Confluently Persistent Catenable Lists
+JF Siam Journal on Computing
+VO 30
+SP 965
+OP 977
+IS 3
+
+RT Journal Article
+ID 56495
+A1 Kaplan,Haim
+A1 Okasaki,Chris
+A1 Tarjan,Robert,Endre
+YR 2000
+T1 Simple Confluently Persistent Catenable Lists
+JF Siam Journal on Computing
+VO 30
+SP 965
+OP 977
+IS 3
+
+RT Journal Article
+ID 811388
+A1 Kaplan,Haim
+A1 Shamir,Ron
+A1 Tarjan,Robert,Endre
+YR 1999
+T1 A Faster and Simpler Algorithm for Sorting Signed Permutations by Reversals
+JF Siam Journal on Computing
+VO 29
+SP 880
+OP 892
+IS 3
+
+RT Journal Article
+ID 811495
+A1 Kaplan,Haim
+A1 Shamir,Ron
+A1 Tarjan,Robert,Endre
+YR 1999
+T1 Tractability of Parameterized Completion Problems on Chordal, Strongly Chordal, and Proper Interval Graphs
+JF Siam Journal on Computing
+VO 28
+SP 1906
+OP 1922
+IS 5
+
+RT Journal Article
+ID 812317
+A1 Ghosh,Bhaskar
+A1 Leighton,Frank,Thomson
+A1 Maggs,Bruce,M.
+A1 Muthukrishnan,S.
+A1 Plaxton,C.,Greg
+A1 Rajaraman,Rajmohan
+A1 Richa,Andréa,W.
+A1 Tarjan,Robert,Endre
+A1 Zuckerman,David
+YR 1999
+T1 Tight Analyses of Two Local Load Balancing Algorithms
+JF Siam Journal on Computing
+VO 29
+SP 29
+OP 64
+IS 1
+
+RT Conference Proceedings
+ID 575574
+A1 Gabow,Harold,N.
+A1 Kaplan,Haim
+A1 Tarjan,Robert,Endre
+YR 1999
+T1 Unique maximum matching algorithms
+SP 70
+OP 78
+
+RT Journal Article
+ID 29502
+A1 Kaplan,Haim
+A1 Tarjan,Robert,E.
+YR 1999
+T1 Purely functional, real-time deques with catenation
+JF Journal of The ACM
+VO 46
+SP 577
+OP 603
+IS 5
+
+RT Conference Proceedings
+ID 250129
+A1 Kilian,Joe
+A1 Leighton,F.,Thomson
+A1 Matheson,Lesley,R.
+A1 Shamoon,Talal,G.
+A1 Tarjan,Robert,E.
+A1 Zane,Francis
+YR 1998
+T1 Resistance of digital watermarks to collusive attacks
+
+RT Book, Whole
+ID 430299
+A1 Matheson,Lesley,R.
+A1 Mitchell,Stephen,G.
+A1 Shamoon,Talal,G.
+A1 Tarjan,Robert,Endre
+A1 Zane,Francis
+YR 1998
+T1 Robustness and Security of Digital Watermarks
+SP 227
+OP 240
+
+RT Journal Article
+ID 3681495
+A1 Kilian,Joe
+A1 Leighton,F.,Thomson
+A1 Mathe-son,Lesley,R.
+A1 Shamoon,Talal,G.
+A1 Tarjan,Robert,E.
+A1 Zane,Francis
+YR 1998
+T1 Resistance of digital ngerprints to collusional attacks
+
+RT Conference Proceedings
+ID 576919
+A1 Kaplan,Haim
+A1 Okasaki,Chris
+A1 Tarjan,Robert,Endre
+YR 1998
+T1 Simple Confluently Persistent Catenable Lists (Extended Abstract)
+SP 119
+OP 130
+
+RT Conference Proceedings
+ID 599116
+A1 Matheson,Lesley,R.
+A1 Shamoon,Talal
+A1 Tarjan,Robert,Endre
+YR 1998
+T1 Culturally-Induced Information Impactedness: A Prescription for Failure in Software Ventures
+VO 15
+SP 329
+OP 338
+IS 2
+
+RT Conference Proceedings
+ID 245539
+A1 Kaplan,Haim
+A1 Shamir,Ron
+A1 Tarjan,Robert,Endre
+YR 1997
+T1 Faster and simpler algorithm for sorting signed permutations by reversals
+SP 163
+OP 351
+
+RT Journal Article
+ID 2938094
+A1 Tarjan,R.
+YR 1997
+T1 Dept-first search and linear graph algorithms
+JF Siam Journal on Computing
+
+RT Journal Article
+ID 237037
+A1 Tarjan,Robert,Endre
+YR 1997
+T1 Dynamic trees as search trees via Euler tours, applied to the network simplex algorithm
+JF Mathematical Programming
+VO 77
+SP 169
+OP 177
+IS 2
+
+RT Journal Article
+ID 859794
+A1 Dixon,Brandon
+A1 Tarjan,Robert,Endre
+YR 1997
+T1 Optimal Parallel Verification of Minimum Spanning Trees in Logarithmic Time
+JF Algorithmica
+VO 17
+SP 11
+OP 18
+IS 1
+
+RT Journal Article
+ID 2993645
+A1 Tarjan,R.,E.
+YR 1997
+T1 Dynamic trees as search trees via euler tours
+
+RT Journal Article
+ID 15284507
+A1 Dorward,Susan,E.
+A1 Matheson,Lesley,R.
+A1 Tarjan,Robert,E.
+YR 1997
+T1 Toward Efficient Unstructured Multigrid Preprocessing
+JF International Journal of High Performance Computing Applications
+VO 11
+SP 12
+OP 33
+IS 1
+
+RT Conference Proceedings
+ID 401221
+A1 Kaplanl,Haim
+A1 Tarjan,Robert,Endre
+YR 1996
+T1 Purely functional representations of catenable sorted lists
+SP 202
+OP 211
+
+RT Conference Proceedings
+ID 281120
+A1 Cole,Richard
+A1 Kleint,Philip,N.
+A1 Tarjan,Robert,Endre
+YR 1996
+T1 Finding minimum spanning forests in logarithmic time and linear work using random sampling
+SP 243
+OP 250
+
+RT Journal Article
+ID 271578
+A1 Goldberg,Andrew,V.
+A1 Tarjan,Robert,E.
+YR 1996
+T1 Expected Performance of Dijkstra's Shortest Path Algorithm
+
+RT Journal Article
+ID 1734529
+A1 Matheson,Lesley,R.
+A1 Tarjan,Robert,Endre
+YR 1996
+T1 Dominating Sets in Planar Graphs
+JF European Journal of Combinatorics
+VO 17
+SP 565
+OP 568
+IS 6
+
+RT Journal Article
+ID 2132267
+A1 Matheson,Lesley,R.
+A1 Tarjan,Robert,E.
+YR 1996
+T1 Parallelism in multigrid methods: How much is too much?
+JF International Journal of Parallel Programming
+VO 24
+SP 397
+OP 432
+IS 5
+
+RT Journal Article
+ID 1290713
+A1 Kaplan,Haim
+A1 Tarjan,Robert,E.
+YR 1996
+T1 Purely functional lists with catenation via recursive slow-down
+
+RT Journal Article
+ID 795607
+A1 Matheson,Lesley,R.
+A1 Tarjan,Robert,Endre
+YR 1996
+T1 Analysis of Multigrid Algorithms on Massively Parallel Computers: Architectural Implications
+JF Journal of Parallel and Distributed Computing
+VO 33
+SP 33
+OP 43
+IS 1
+
+RT Journal Article
+ID 4505829
+A1 Aggarwal,C.
+A1 Kaplan,H.
+A1 Orlin,J.
+A1 Tarjan,R.
+YR 1996
+T1 A Faster Primal Network Simplex Algorithm
+
+RT Book, Whole
+ID 584605
+A1 Dorward,Susan,E.
+A1 Matheson,Lesley,R.
+A1 Tarjan,Robert,Endre
+YR 1996
+T1 Toward Efficient Unstructured Multigrid Preprocessing (Extended Abstract)
+SP 105
+OP 118
+
+RT Journal Article
+ID 168260
+A1 Karger,David,R.
+A1 Klein,Philip,N.
+A1 Tarjan,Robert,Endre
+YR 1995
+T1 A randomized linear-time algorithm to find minimum spanning trees
+JF Journal of The ACM
+VO 42
+SP 321
+OP 328
+IS 2
+
+RT Conference Proceedings
+ID 387211
+A1 Ghosh,Bhaskar
+A1 Leighton,Frank,Thomson
+A1 Maggs,Bruce,M.
+A1 Muthukrishnan,S.
+A1 Plaxton,C.,Greg
+A1 Rajaraman,Rajmohan
+A1 Richa,Andréa,W.
+A1 Tarjan,Robert,Endre
+A1 Zuckerman,David
+YR 1995
+T1 Tight analyses of two local load balancing algorithms
+SP 548
+OP 558
+
+RT Conference Proceedings
+ID 306717
+A1 Maggs,Bruce,M.
+A1 Matheson,Lesley,R.
+A1 Tarjan,Robert,Endre
+YR 1995
+T1 Models of parallel computation: a survey and synthesis
+SP 61
+
+RT Conference Proceedings
+ID 575945
+A1 Kaplan,Haim
+A1 Tarjan,Robert,Endre
+YR 1995
+T1 Persistent lists with catenation via recursive slow-down
+SP 93
+OP 102
+
+RT Journal Article
+ID 735306
+A1 Buchsbaum,Adam,L.
+A1 Tarjan,Robert,Endre
+YR 1995
+T1 Confluently Persistent Deques via Data-Structural Bootstrapping
+JF Journal of Algorithms
+VO 18
+SP 513
+OP 547
+IS 3
+
+RT Journal Article
+ID 190339
+A1 Han,Xiaofeng
+A1 Kelsen,Pierre
+A1 Ramachandran,Vijaya
+A1 Tarjan,Robert,Endre
+YR 1995
+T1 Computing Minimal Spanning Subgraphs in Linear Time
+JF Siam Journal on Computing
+VO 24
+SP 1332
+OP 1358
+IS 6
+
+RT Journal Article
+ID 812269
+A1 Buchsbaum,Adam,L.
+A1 Sundar,Rajamani
+A1 Tarjan,Robert,Endre
+YR 1995
+T1 Data-Structural Bootstrapping, Linear Path Compression, and Catenable Heap-Ordered Double-Ended Queues
+JF Siam Journal on Computing
+VO 24
+SP 1190
+OP 1206
+IS 6
+
+RT Journal Article
+ID 3329787
+A1 Karger,D.,R.
+A1 Klein,P.,N.
+A1 Tarjan,R.,E.
+YR 1995
+T1 Linear expected-time algorithms for connectivity problems
+
+RT Journal Article
+ID 769411
+A1 Buchsbaum,Adam,L.
+A1 Sundar,Rajamani
+A1 Tarjan,Robert,Endre
+YR 1995
+T1 Lazy Structure Sharing for Query Optimization
+JF Acta Informatica
+VO 32
+SP 255
+OP 270
+IS 3
+
+RT Journal Article
+ID 811279
+A1 Dietzfelbinger,Martin
+A1 Karlin,Anna,R.
+A1 Mehlhorn,Kurt
+A1 Heide,Friedhelm,Meyer,Auf,Der
+A1 Rohnert,Hans
+A1 Tarjan,Robert,Endre
+YR 1994
+T1 Dynamic Perfect Hashing: Upper and Lower Bounds
+JF Siam Journal on Computing
+VO 23
+SP 738
+OP 761
+IS 4
+
+RT Journal Article
+ID 313836
+A1 Ahuja,Ravindra,K.
+A1 Orlin,James,B.
+A1 Stein,Clifford
+A1 Tarjan,Robert,Endre
+YR 1994
+T1 Improved Algorithms for Bipartite Network Flow
+JF Siam Journal on Computing
+VO 23
+SP 906
+OP 933
+IS 5
+
+RT Journal Article
+ID 734945
+A1 King,V.
+A1 Rao,S.
+A1 Tarjan,Robert,Endre
+YR 1994
+T1 A Faster Deterministic Maximum Flow Algorithm
+JF Journal of Algorithms
+VO 17
+SP 447
+OP 474
+IS 3
+
+RT Conference Proceedings
+ID 210662
+A1 Kleint,Philip,N.
+A1 Tarjan,Robert,Endre
+YR 1994
+T1 A randomized linear-time algorithm for finding minimum spanning trees
+SP 9
+OP 15
+
+RT Conference Proceedings
+ID 332079
+A1 Klein,Philip,N.
+A1 Cole,Richard
+A1 Tarjan,Robert,E.
+YR 1994
+T1 A Linear-Work Parallel Algorithm for Finding Minimum Spanning Trees
+
+RT Journal Article
+ID 788170
+A1 Driscoll,James,R.
+A1 Sleator,Daniel,Dominic
+A1 Tarjan,Robert,Endre
+YR 1994
+T1 Fully persistent lists with catenation
+JF Journal of The ACM
+VO 41
+SP 943
+OP 959
+IS 5
+
+RT Conference Proceedings
+ID 4259407
+A1 Kaplan,Haim
+A1 Shamir,Ron
+A1 Tarjan,Robert,Endre
+YR 1994
+T1 Tractability of parameterized completion problems on chordal and interval graphs: Minimum Fill-in and Physical Mapping
+SP 780
+OP 791
+
+RT Book, Whole
+ID 499057
+A1 Dixon,Brandon
+A1 Tarjan,Robert,Endre
+YR 1994
+T1 Optimal Parallel Verification of Minimum Spanning Trees in Logarithmic Time
+SP 13
+OP 22
+
+RT Journal Article
+ID 4194635
+A1 Harel,D.
+A1 Tarjan,R.,E.
+YR 1994
+T1 Fast algorithms for finding nearest common ancestor
+JF Siam Journal on Computing
+
+RT Journal Article
+ID 3220345
+A1 Ahuja,R.,K.
+A1 Orlin,J.,B.
+A1 Stein,C.
+A1 Tarjan,R.,E.
+YR 1994
+T1 Improved algorithms for bipartite network flow problems
+JF Siam Journal on Computing
+
+RT Conference Proceedings
+ID 599392
+A1 Dorward,Susan,E.
+A1 Matheson,Lesley,R.
+A1 Tarjan,Robert,Endre
+YR 1994
+T1 Unstructured Multigrid Strategies on Massively Parallel Computers: A Case for Integrated Design
+SP 169
+OP 178
+
+RT Journal Article
+ID 811894
+A1 Sundar,Rajamani
+A1 Tarjan,Robert,Endre
+YR 1994
+T1 Unique Binary-Search-Tree Representations and Equality Testing of Sets and Sequences
+JF Siam Journal on Computing
+VO 23
+SP 24
+OP 44
+IS 1
+
+RT Journal Article
+ID 233975
+A1 Cai,Jiazhen
+A1 Han,Xiaofeng
+A1 Tarjan,Robert,Endre
+YR 1993
+T1 An O(m log n)Time Algorithm for the Maximal Planar Subgraph Problem
+JF Siam Journal on Computing
+VO 22
+SP 1142
+OP 1162
+IS 6
+
+RT Conference Proceedings
+ID 327897
+A1 Buchsbaum,Adam,L.
+A1 Tarjan,Robert,Endre
+YR 1993
+T1 Confluently persistent deques via data structuaral bootstrapping
+SP 155
+OP 164
+
+RT Journal Article
+ID 735437
+A1 Booth,Heather
+A1 Tarjan,Robert,Endre
+YR 1993
+T1 Finding the Minimum-Cost Maximum Flow in a Series-Parallel Network
+JF Journal of Algorithms
+VO 15
+SP 416
+OP 446
+IS 3
+
+RT Journal Article
+ID 735420
+A1 Eppstein,David
+A1 Italiano,Giuseppe,F.
+A1 Tamassia,Roberto
+A1 Tarjan,Robert,Endre
+A1 Westbrook,Jeffery
+A1 Yung,Moti
+YR 1993
+T1 Corrigendum: Maintenance of a Minimum Spanning Forest in a Dynamic Plane Graph
+JF Journal of Algorithms
+VO 15
+SP 173
+IS 1
+
+RT Journal Article
+ID 363100
+A1 Eppstein,David
+A1 Italiano,Giuseppe,F.
+A1 Tamassia,Roberto
+A1 Tarjan,Robert,Endre
+A1 Westbrook,Jeffery
+A1 Yung,Moti
+YR 1992
+T1 Maintenance of a Minimum Spanning Forest in a Dynamic Plane Graph
+JF Journal of Algorithms
+VO 13
+SP 33
+OP 54
+IS 1
+
+RT Conference Proceedings
+ID 572389
+A1 King,V.
+A1 Rao,S.
+A1 Tarjan,Robert,Endre
+YR 1992
+T1 A faster deterministic maximum flow algorithm
+SP 157
+OP 164
+
+RT Journal Article
+ID 336560
+A1 Dixon,Brandon
+A1 Rauch,Monika
+A1 Tarjan,Robert,Endre
+YR 1992
+T1 Verification and Sensitivity Analysis of Minimum Spanning Trees in Linear Time
+JF Siam Journal on Computing
+VO 21
+SP 1184
+OP 1192
+IS 6
+
+RT Journal Article
+ID 2131064
+A1 Ahuja,Ravindra,K.
+A1 Goldberg,Andrew,V.
+A1 Orlin,James,B.
+A1 Tarjan,Robert,Endre
+YR 1992
+T1 Finding minimum-cost flows by double scaling
+JF Mathematical Programming
+VO 53
+SP 243
+OP 266
+IS 1-3
+
+RT Journal Article
+ID 860512
+A1 Westbrook,Jeffery
+A1 Tarjan,Robert,Endre
+YR 1992
+T1 Maintaining Bridge-Connected and Biconnected Components On-Line
+JF Algorithmica
+VO 7
+SP 433
+OP 464
+IS 5&6
+
+RT Journal Article
+ID 234583
+A1 Cai,Jiazhen
+A1 Paige,Robert
+A1 Tarjan,Robert,Endre
+YR 1992
+T1 More Efficient Bottom-Up Multi-Pattern Matching in Trees
+JF Theoretical Computer Science
+VO 106
+SP 21
+OP 60
+IS 1
+
+RT Journal Article
+ID 853791
+A1 Sleator,Daniel,Dominic
+A1 Tarjan,Robert,Endre
+A1 Thurston,William,P.
+YR 1992
+T1 Short Encodings of Evolving Structures
+JF Siam Journal on Discrete Mathematics
+VO 5
+SP 428
+OP 450
+IS 3
+
+RT Journal Article
+ID 372399
+A1 Clarkson,Kenneth,L.
+A1 Cole,Richard
+A1 Tarjan,Robert,Endre
+YR 1992
+T1 Randomized parallel algorithms for trapezoidal diagrams
+JF International Journal of Computational Geometry and Applications
+VO 2
+SP 117
+OP 133
+IS 2
+
+RT Conference Proceedings
+ID 332528
+A1 Buchsbaum,Adam,L.
+A1 Sundar,Rajamani
+A1 Tarjan,Robert,Endre
+YR 1992
+T1 Data Structural Bootstrapping, Linear Path Compression, and Catenable Heap Ordered Double Ended Queues
+SP 40
+OP 49
+
+RT Conference Proceedings
+ID 572407
+A1 Han,Xiaofeng
+A1 Kelsen,Pierre
+A1 Ramachandrant,Vijaya
+A1 Tarjan,Robert,Endre
+YR 1992
+T1 Computing minimal spanning subgraphs in linear time
+SP 146
+OP 156
+
+RT Journal Article
+ID 199612
+A1 Mishra,Bhubaneswar
+A1 Tarjan,Robert,Endre
+YR 1992
+T1 A Linear-Time Algorithm for Finding an Ambitus
+JF Algorithmica
+VO 7
+SP 521
+OP 554
+IS 5&6
+
+RT Journal Article
+ID 823039
+A1 Clarkson,Kenneth,L.
+A1 Cole,Richard
+A1 Tarjan,Robert,Endre
+YR 1992
+T1 Erratum: Randomized parallel algorithms for trapezoidal diagrams
+JF International Journal of Computational Geometry and Applications
+VO 2
+SP 341
+OP 343
+IS 3
+
+RT Journal Article
+ID 728140
+A1 Kirkpatrick,David,G.
+A1 Klawe,Maria,M.
+A1 Tarjan,Robert,Endre
+YR 1992
+T1 Polygon Triangulation in O (n log log n) Time with Simple Data Structures
+JF Discrete & Computational Geometry
+VO 7
+SP 329
+OP 346
+
+RT Journal Article
+ID 15212922
+A1 Kirkpatrick,David,G.
+A1 Klawe,Maria,M.
+A1 Tarjan,Robert,E.
+YR 1992
+T1 Polygon triangulation in O ( n log log n ) time with simple data structures
+JF Discrete & Computational Geometry
+VO 7
+SP 329
+OP 346
+IS 1
+
+RT Journal Article
+ID 787616
+A1 Gablow,Harold,N.
+A1 Tarjan,Robert,Endre
+YR 1991
+T1 Faster scaling algorithms for general graph matching problems
+JF Journal of The ACM
+VO 38
+SP 815
+OP 853
+IS 4
+
+RT Journal Article
+ID 2061204
+A1 Goldberg,Andrew,V.
+A1 Grigoriadis,Michael,D.
+A1 Tarjan,Robert,Endre
+YR 1991
+T1 Use of dynamic trees in a network simplex algorithm for the maximum flow problem
+JF Mathematical Programming
+VO 50
+SP 277
+OP 290
+IS 1-3
+
+RT Conference Proceedings
+ID 572841
+A1 Driscoll,James,R.
+A1 Sleator,Daniel,Dominic
+A1 Tarjan,Robert,Endre
+YR 1991
+T1 Fully persistent lists with catenation
+SP 89
+OP 99
+
+RT Journal Article
+ID 735751
+A1 Gibbons,Phillip,B.
+A1 Karp,Richard,M.
+A1 Ramachandran,Vijaya
+A1 Soroker,Danny
+A1 Tarjan,Robert,Endre
+YR 1991
+T1 Transitive Compaction in Parallel via Branchings
+JF Journal of Algorithms
+VO 12
+SP 110
+OP 125
+IS 1
+
+RT Journal Article
+ID 3015778
+A1 Tarjan,R.,E.
+YR 1991
+T1 Efficiency of the Primal Network Simplex Algorithm for the Minimum-Cost Circulation Problem
+JF Mathematics of Operations Research
+VO 16
+SP 272
+OP 291
+IS 2
+
+RT Conference Proceedings
+ID 652562
+A1 Clarkson,Kenneth,L.
+A1 Cole,Richard
+A1 Tarjan,Robert,Endre
+YR 1991
+T1 Randomized parallel algorithms for trapezoidal diagrams
+SP 152
+OP 161
+
+RT Journal Article
+ID 15199642
+A1 Young,Neal,E.
+A1 Tarjant,Robert,E.
+A1 Orlin,James,B.
+YR 1991
+T1 Faster parametric shortest path and minimum-balance algorithms
+JF Networks
+VO 21
+SP 205
+OP 221
+IS 2
+
+RT Journal Article
+ID 787904
+A1 Ahuja,Ravindra,K.
+A1 Mehlhorn,Kurt
+A1 Orlin,James,B.
+A1 Tarjan,Robert,Endre
+YR 1990
+T1 Faster algorithms for the shortest path problem
+JF Journal of The ACM
+VO 37
+SP 213
+OP 223
+IS 2
+
+RT Journal Article
+ID 1363352
+A1 Goldberg,A.,V.
+A1 Tarjan,R.,E.
+YR 1990
+T1 Finding Minimum-Cost Circulations by Successive Approximation
+JF Mathematics of Operations Research
+VO 15
+SP 430
+OP 466
+IS 3
+
+RT Conference Proceedings
+ID 572785
+A1 Eppstein,David
+A1 Italiano,Giuseppe,F.
+A1 Tamassia,Roberto
+A1 Tarjan,Robert,Endre
+A1 Westbrook,Jeffery
+A1 Yung,Moti
+YR 1990
+T1 Maintenance of a minimum spanning forest in a dynamic planar graph
+SP 1
+OP 11
+
+RT Journal Article
+ID 1980034
+A1 Goldberg,A.,V.
+A1 Tarjan,R.,E.
+YR 1990
+T1 Solving minimum cost ow problems by successive approximation
+JF Mathematics of Operations Research
+
+RT Journal Article
+ID 3473474
+A1 Kirkpatrick,D.,G.
+A1 Klawe,M.,M.
+A1 Tarjan,R.,E.
+YR 1990
+T1 O(n log log n) polygon triangulation with simple data structures
+
+RT Journal Article
+ID 740011
+A1 Fung,Khun,Yee
+A1 Nicholl,Tina,M.
+A1 Tarjan,Robert,Endre
+A1 Wyk,Christopher,J.,Van
+YR 1990
+T1 Simplified Linear-Time Jordan Sorting and Polygon Clipping
+JF Information Processing Letters
+VO 35
+SP 85
+OP 92
+IS 2
+
+RT Book, Whole
+ID 496568
+A1 Cai,Jiazhen
+A1 Paige,Robert
+A1 Tarjan,Robert,Endre
+YR 1990
+T1 More Efficient Bottom-Up Tree Pattern Matching
+SP 72
+OP 86
+
+RT Conference Proceedings
+ID 576295
+A1 Sundar,Rajamani
+A1 Tarjan,Robert,Endre
+YR 1990
+T1 Unique binary search tree representations and equality-testing of sets and sequences
+SP 18
+OP 25
+
+RT Conference Proceedings
+ID 652770
+A1 Kirkpatrick,David,G.
+A1 Klawe,Maria,M.
+A1 Tarjan,Robert,Endre
+YR 1990
+T1 Polygon Triangulation in O(n log log n) Time with Simple Data-Structures
+SP 34
+OP 43
+
+RT Journal Article
+ID 4163719
+A1 Coffman,E.,G.
+A1 Gamy,M.,R.
+A1 Johnson,D.,S.
+A1 Tarjan,R.,E.
+YR 1990
+T1 Per - formance Bounds for Level - Oriented Two - Dimensional Packing Algo - - - rithms
+JF Siam Journal on Computing
+
+RT Conference Proceedings
+ID 4453253
+A1 Kirkpatrick,David,G.
+A1 Klawe,Maria,M.
+A1 Tarjan,Robert,E.
+YR 1990
+T1 Polygon triangulation in ) time with simple data-structures
+
+RT Journal Article
+ID 791045
+A1 Driscoll,James,R.
+A1 Sarnak,Neil
+A1 Sleator,Daniel,Dominic
+A1 Tarjan,Robert,Endre
+YR 1989
+T1 Making Data Structures Persistent
+JF Journal of Computer and System Sciences
+VO 38
+SP 86
+OP 124
+IS 1
+
+RT Journal Article
+ID 811336
+A1 Gabow,Harold,N.
+A1 Tarjan,Robert,Endre
+YR 1989
+T1 Faster Scaling Algorithms for Network Problems
+JF Siam Journal on Computing
+VO 18
+SP 1013
+OP 1036
+IS 5
+
+RT Journal Article
+ID 811642
+A1 Gallo,Giorgio
+A1 Grigoriadis,Michael,D.
+A1 Tarjan,Robert,Endre
+YR 1989
+T1 A Fast Parametric Maximum Flow Algorithm and Applications
+JF Siam Journal on Computing
+VO 18
+SP 30
+OP 55
+IS 1
+
+RT Journal Article
+ID 811726
+A1 Ahuja,Ravindra,K.
+A1 Orlin,James,B.
+A1 Tarjan,Robert,Endre
+YR 1989
+T1 Improved Time Bounds for the Maximum Flow Problem
+JF Siam Journal on Computing
+VO 18
+SP 939
+OP 954
+IS 5
+
+RT Journal Article
+ID 788655
+A1 Goldberg,Andrew,V.
+A1 Tarjan,Robert,Endre
+YR 1989
+T1 Finding minimum-cost circulations by canceling negative cycles
+JF Journal of The ACM
+VO 36
+SP 873
+OP 886
+IS 4
+
+RT Journal Article
+ID 727833
+A1 Clarkson,Kenneth,L.
+A1 Tarjan,Robert,Endre
+A1 Wyk,Christopher,J.,Van
+YR 1989
+T1 A Fast Las Vegas Algorithm for Triangulating a Simple Polygon
+JF Discrete & Computational Geometry
+VO 4
+SP 423
+OP 432
+IS 1
+
+RT Journal Article
+ID 812186
+A1 Westbrook,Jeffery
+A1 Tarjan,Robert,Endre
+YR 1989
+T1 Amortized Analysis of Algorithms for Set Union with Backtracking
+JF Siam Journal on Computing
+VO 18
+SP 1
+OP 11
+IS 1
+
+RT Journal Article
+ID 741051
+A1 Ginat,David
+A1 Sleator,Daniel,Dominic
+A1 Tarjan,Robert,Endre
+YR 1989
+T1 A Tight Amortized Bound for Path Reversal
+JF Information Processing Letters
+VO 31
+SP 3
+OP 5
+IS 1
+
+RT Journal Article
+ID 2566460
+A1 Gallo,G.
+A1 Gridoriadis,M.,D.
+A1 Tarjan,R.,E.
+YR 1989
+T1 A fast parametric flow algorithm
+JF Siam Journal on Computing
+
+RT Journal Article
+ID 742677
+A1 Goldberg,Andrew,V.
+A1 Tarjan,Robert,Endre
+YR 1989
+T1 A Parallel Algorithm for Finding a Blocking Flow in an Acyclic Network
+JF Information Processing Letters
+VO 31
+SP 265
+OP 271
+IS 5
+
+RT Journal Article
+ID 4975669
+A1 Goldberg,Andrew,V.
+A1 Grigoriadis,Michael,D.
+A1 Tarjan,Robert,E.
+YR 1989
+T1 Efficiency of the Network Simplex Algorithm for the Maximum Flow Problem
+JF Mathematical Programming
+
+RT Journal Article
+ID 47057970
+A1 Sarnak,Neil
+A1 Tarjan,Robert,E.
+YR 1989
+T1 Planar Point Location Using Persistent Search Trees
+JF Annals of The New York Academy of Sciences
+VO 555
+SP 352
+OP 362
+IS 1 Combinat
+
+RT Conference Proceedings
+ID 514959
+A1 Dietzfelbinger,Martin
+A1 Karlin,Anna,R.
+A1 Mehlhorn,Kurt
+A1 Heide,Friedhelm,Meyer,Auf,Der
+A1 Rohnert,Hans
+A1 Tarjan,Robert,Endre
+YR 1988
+T1 Dynamic Perfect Hashing: Upper and Lower Bounds
+SP 524
+OP 531
+
+RT Journal Article
+ID 812229
+A1 Tarjan,Robert,Endre
+A1 Wyk,Christopher,J.,Van
+YR 1988
+T1 An O(n log log n)Time Algorithm for Triangulating a Simple Polygon
+JF Siam Journal on Computing
+VO 17
+SP 143
+OP 178
+IS 1
+
+RT Journal Article
+ID 15298873
+A1 Garey,M.,R.
+A1 Tarjan,R.,E.
+A1 Wilfong,G.,T.
+YR 1988
+T1 One-Processor Scheduling with Symmetric Earliness and Tardiness Penalties
+JF Mathematics of Operations Research
+VO 13
+SP 330
+OP 348
+IS 2
+
+RT Journal Article
+ID 773369
+A1 Driscoll,James,R.
+A1 Gabow,Harold,N.
+A1 Shrairman,Ruth
+A1 Tarjan,Robert,Endre
+YR 1988
+T1 Relaxed heaps: an alternative to Fibonacci heaps with applications to parallel computation
+JF Communications of The ACM
+VO 31
+SP 1343
+OP 1354
+IS 11
+
+RT Conference Proceedings
+ID 576589
+A1 Goldberg,Andrew,V.
+A1 Tarjan,Robert,Endre
+YR 1988
+T1 Finding minimum-cost circulations by canceling negative cycles
+SP 388
+OP 397
+
+RT Journal Article
+ID 735253
+A1 Gabow,Harold,N.
+A1 Tarjan,Robert,Endre
+YR 1988
+T1 Algorithms for Two Bottleneck Optimization Problems
+JF Journal of Algorithms
+VO 9
+SP 411
+OP 417
+IS 3
+
+RT Conference Proceedings
+ID 652564
+A1 Clarkson,Kenneth,L.
+A1 Tarjan,Robert,Endre
+A1 Wyk,Christopher,J.,Van
+YR 1988
+T1 A fast Las Vegas algorithm for triangulating a simple polygon
+SP 18
+OP 22
+
+RT Conference Proceedings
+ID 575911
+A1 Gabow,Harold,N.
+A1 Tarjan,Robert,Endre
+YR 1988
+T1 Almost-optimum speed-ups of algorithms for bipartite matching and related problems
+SP 514
+OP 527
+
+RT Journal Article
+ID 3519251
+A1 Garey,M.,R.
+A1 Tarjan,R.,E.
+A1 Wilfong,G.,T.
+YR 1988
+T1 One-processor scheduling with symmetric earliness and tardiness penalties
+JF Mathematics of Operations Research
+
+RT Journal Article
+ID 740720
+A1 Gabow,Harold,N.
+A1 Tarjan,Robert,Endre
+YR 1988
+T1 A Linear-Time Algorithm for Finding a Minimum Spanning Pseudoforest
+JF Information Processing Letters
+VO 27
+SP 259
+OP 263
+IS 5
+
+RT Journal Article
+ID 2597069
+A1 Goldberg,A.,J.
+A1 Tarjan,R.,E.
+YR 1988
+T1 A New Approach to the Max Flow Problem
+JF Journal of The ACM
+
+RT Journal Article
+ID 60433485
+A1 Gibbons,P.
+A1 Karp,R.
+A1 Remachandran,V.
+A1 Soroker,D.
+A1 Tarjan,R.
+YR 1988
+T1 Transitive reduction in parallel via branchings
+
+RT Journal Article
+ID 60310565
+A1 Gibbons,P.
+A1 Karp,R.
+A1 Ramachandran,V.
+A1 Soroker,D.
+A1 Tarjan,R.,E.
+YR 1988
+T1 Transitive reduction in parallel via branchings
+
+RT Journal Article
+ID 60343213
+A1 Gibbons,P.
+A1 Karp,R.
+A1 Ramachandran,V.
+A1 Soroker,D.
+A1 Tarjan,R.
+YR 1988
+T1 Transitive reduction in parallel via branchings. Technical report
+
+RT Journal Article
+ID 811787
+A1 Tarjan,Robert,Endre
+A1 Wyk,Christopher,J.,Van
+YR 1988
+T1 Erratum: An O(n log log n)Time Algorithm for Triangulating a Simple Polygon
+JF Siam Journal on Computing
+VO 17
+SP 1061
+IS 5
+
+RT Journal Article
+ID 60325288
+A1 Driscoll,J.,R.
+A1 Gabow,H.,N.
+A1 Shrairman,R.
+A1 Tarjan,R.,E.
+YR 1988
+T1 Relaxed heaps
+
+RT Journal Article
+ID 60259382
+A1 Goldberg,A.,V.
+A1 Tarjan,R.,E.
+YR 1988
+T1 A parallel algorithm for finding a blocking flow in an acyclic network
+
+RT Journal Article
+ID 60474027
+A1 Goldberg,A.,V.
+A1 Tarjan,R.,E.
+YR 1988
+T1 Parallel algorithm for finding a blocking flow in an acyclic network
+
+RT Journal Article
+ID 812320
+A1 Paige,Robert
+A1 Tarjan,Robert,Endre
+YR 1987
+T1 Three Partition Refinement Algorithms
+JF Siam Journal on Computing
+VO 16
+SP 973
+OP 989
+IS 6
+
+RT Journal Article
+ID 860104
+A1 Guibas,Leonidas,J.
+A1 Hershberger,John
+A1 Leven,Daniel
+A1 Sharir,Micha
+A1 Tarjan,Robert,Endre
+YR 1987
+T1 Linear-Time Algorithms for Visibility and Shortest Path Problems Inside Triangulated Simple Polygons
+JF Algorithmica
+VO 2
+SP 209
+OP 233
+IS 1-4
+
+RT Conference Proceedings
+ID 576588
+A1 Goldberg,Andrew,V.
+A1 Tarjan,Robert,Endre
+YR 1987
+T1 Solving minimum-cost flow problems by successive approximation
+SP 7
+OP 18
+
+RT Journal Article
+ID 1369577
+A1 Gilbert,J.,R.
+A1 Tarjan,R.,E.
+YR 1987
+T1 The analysis of a nested dissection algorithm
+
+RT Journal Article
+ID 2395811
+A1 Fredman,M.
+A1 Tarjan,R.
+YR 1987
+T1 Fibonacci heaps and their uses in improved network optimization problems
+JF Journal of The ACM
+
+RT Journal Article
+ID 1959716
+A1 Paige,R
+A1 Tarjan,R.
+YR 1987
+T1 Three efficient algorithms based on partition refinements
+JF Siam Journal on Computing
+
+RT Journal Article
+ID 774209
+A1 Tarjan,Robert,Endre
+YR 1987
+T1 Algorithmic Design
+JF Communications of The ACM
+VO 30
+SP 204
+OP 212
+IS 3
+
+RT Conference Proceedings
+ID 515794
+A1 Tarjan,Robert,Endre
+A1 Wyk,Christopher,J.,Van
+YR 1987
+T1 Correction to ``A Linear-Time Algorithm for Triangulating Simple Polygons
+SP 486
+OP 486
+
+RT Conference Proceedings
+ID 576587
+A1 Goldberg,Andrew,V.
+A1 Tarjan,Robert,Endre
+YR 1986
+T1 A new approach to the maximum flow problem
+SP 136
+OP 146
+
+RT Journal Article
+ID 776764
+A1 Bentley,Jon,Louis
+A1 Sleator,Daniel,Dominic
+A1 Tarjan,Robert,Endre
+A1 Wei,Victor,K.
+YR 1986
+T1 A locally adaptive data compression scheme
+JF Communications of The ACM
+VO 29
+SP 320
+OP 330
+IS 4
+
+RT Journal Article
+ID 773707
+A1 Sarnak,Neil
+A1 Tarjan,Robert,Endre
+YR 1986
+T1 Planar point location using persistent search trees
+JF Communications of The ACM
+VO 29
+SP 669
+OP 679
+IS 7
+
+RT Conference Proceedings
+ID 575828
+A1 Driscoll,James,R.
+A1 Sarnak,Neil
+A1 Sleator,Daniel,Dominic
+A1 Tarjan,Robert,Endre
+YR 1986
+T1 Making data structures persistent
+SP 109
+OP 121
+
+RT Journal Article
+ID 808396
+A1 Gabow,Harold,N.
+A1 Galil,Zvi
+A1 Spencer,Thomas,H.
+A1 Tarjan,Robert,Endre
+YR 1986
+T1 Efficient algorithms for finding minimum spanning trees in undirected and directed graphs
+JF Combinatorica
+VO 6
+SP 109
+OP 122
+IS 2
+
+RT Journal Article
+ID 727949
+A1 Rosenstiehl,Pierre
+A1 Tarjan,Robert,Endre
+YR 1986
+T1 Rectilinear Planar Layouts and Bipolar Orientations of Planar Graphs
+JF Discrete & Computational Geometry
+VO 1
+SP 343
+OP 353
+IS 1
+
+RT Conference Proceedings
+ID 576526
+A1 Sleator,Daniel,Dominic
+A1 Tarjan,Robert,Endre
+A1 Thurston,William,P.
+YR 1986
+T1 Rotation distance, triangulations, and hyperbolic geometry
+SP 122
+OP 135
+
+RT Journal Article
+ID 811942
+A1 Sleator,Daniel,Dominic
+A1 Tarjan,Robert,Endre
+YR 1986
+T1 Self-Adjusting Heaps
+JF Siam Journal on Computing
+VO 15
+SP 52
+OP 69
+IS 1
+
+RT Conference Proceedings
+ID 652693
+A1 Guibas,Leonidas,J.
+A1 Hershberger,John
+A1 Leven,Daniel
+A1 Sharir,Micha
+A1 Tarjan,Robert,Endre
+YR 1986
+T1 Linear time algorithms for visibility and shortest path problems inside simple polygons
+SP 1
+OP 13
+
+RT Journal Article
+ID 859981
+A1 Fredman,Michael,L.
+A1 Sedgewick,Robert
+A1 Sleator,Daniel,Dominic
+A1 Tarjan,Robert,Endre
+YR 1986
+T1 The Pairing Heap: A New Form of Self-Adjusting Heap
+JF Algorithmica
+VO 1
+SP 111
+OP 129
+IS 1
+
+RT Journal Article
+ID 820208
+A1 Hoffman,Kurt
+A1 Mehlhorn,Kurt
+A1 Rosenstiehl,Pierre
+A1 Tarjan,Robert,Endre
+YR 1986
+T1 Sorting Jordan Sequences in Linear Time Using Level-Linked Search Trees
+JF Information and Computation/information and Control
+VO 68
+SP 170
+OP 184
+IS 1-3
+
+RT Journal Article
+ID 2010225
+A1 Bentley,J.,L.
+A1 Sleator,D.,D.
+A1 Tarjan,R.,E.
+A1 Wei,V.,K.
+YR 1986
+T1 A locally adaptive data compression algorithm
+JF Communications of The ACM
+
+RT Journal Article
+ID 1951249
+A1 Tarjan,R.,E.
+A1 Wyk,C.,J.,Van
+YR 1986
+T1 An o(n log log n) time algorithm for triangulating simple polygons
+JF Siam Journal on Computing
+
+RT Journal Article
+ID 1329448
+A1 Rosenstiehl,P.
+A1 Tarjan,R.,E.
+YR 1986
+T1 Rectilinear planar layouts of planar graphs and bipolar orientations
+JF Discrete & Computational Geometry
+
+RT Journal Article
+ID 739538
+A1 Gajewska,H.
+A1 Tarjan,Robert,Endre
+YR 1986
+T1 Deques with Heap Order
+JF Information Processing Letters
+VO 22
+SP 197
+OP 200
+IS 4
+
+RT Journal Article
+ID 1931228
+A1 Gabow,H.,N.
+A1 Galil,Z.
+A1 Spencer,T.,H.
+A1 Tarjan,R.,E.
+YR 1986
+T1 Efficient algorithms for minimum spanning trees on directed and undirected graphs
+JF Combinatorica
+
+RT Conference Proceedings
+ID 576538
+A1 Tarjan,Robert,Endre
+A1 Wyk,Christopher,J.,Van
+YR 1986
+T1 A linear-time algorithm for triangulating simple polygons
+SP 380
+OP 388
+
+RT Journal Article
+ID 2583573
+A1 Bentley,J.
+A1 Sleator,D.
+A1 Tarjan,R.
+A1 Wei,V.
+YR 1986
+T1 A locally adaptive compression scheme
+JF Communications of The ACM
+
+RT Journal Article
+ID 1354631
+A1 Driscolt,J.
+A1 Sarnak,N.
+A1 Sleator,D.
+A1 Tarjan,R
+YR 1986
+T1 Making data structures persistent in proceedings of the esghteenth annual a cm symposium on the theory o
+JF Computing
+
+RT Journal Article
+ID 16018815
+A1 Gilbert,John,R.
+A1 Tarjan,Robert,Endre
+YR 1986
+T1 The analysis of a nested dissection algorithm
+JF Numerische Mathematik
+VO 50
+SP 377
+OP 404
+IS 4
+
+RT Journal Article
+ID 4501596
+A1 Munro,Ian
+A1 BENTLEY,JON,LOUIS
+A1 SLEATOR,DANIEL,D.
+A1 TARJAN,ROBERT,E.
+A1 WEI,VICTOR,K.
+YR 1986
+T1 Data Structures A Locally Adaptive Data
+
+RT Journal Article
+ID 14436976
+A1 Tarjan,R
+YR 1986
+T1 Sensitivity analysis of minimum spanning trees and shortest path trees Information Processing Letters Vol. 14, No. 1 (27 March 1982) pp. 30–33
+JF Information Processing Letters
+VO 23
+SP 219
+IS 4
+
+RT Journal Article
+ID 775983
+A1 Sleator,Daniel,Dominic
+A1 Tarjan,Robert,Endre
+YR 1985
+T1 Amortized efficiency of list update and paging rules
+JF Communications of The ACM
+VO 28
+SP 202
+OP 208
+IS 2
+
+RT Journal Article
+ID 788285
+A1 Sleator,Daniel,Dominic
+A1 Tarjan,Robert,Endre
+YR 1985
+T1 Self-adjusting binary search trees
+JF Journal of The ACM
+VO 32
+SP 652
+OP 686
+IS 3
+
+RT Journal Article
+ID 812228
+A1 Tarjan,Robert,Endre
+A1 Vishkin,Uzi
+YR 1985
+T1 An Efficient Parallel Biconnectivity Algorithm
+JF Siam Journal on Computing
+VO 14
+SP 862
+OP 874
+IS 4
+
+RT Journal Article
+ID 47346678
+A1 Tarjan,Robert,Endre
+YR 1985
+T1 Amortized Computational Complexity
+JF Siam Journal on Algebraic and Discrete Methods
+VO 6
+SP 306
+IS 2
+
+RT Journal Article
+ID 791142
+A1 Gabow,Harold,N.
+A1 Tarjan,Robert,Endre
+YR 1985
+T1 A Linear-Time Algorithm for a Special Case of Disjoint Set Union
+JF Journal of Computer and System Sciences
+VO 30
+SP 209
+OP 221
+IS 2
+
+RT Journal Article
+ID 1289343
+A1 Tarjan,Robert,Endre
+YR 1985
+T1 Decomposition by clique separators
+JF Discrete Mathematics
+VO 55
+SP 221
+OP 232
+IS 2
+
+RT Journal Article
+ID 2923356
+A1 Tarjan,Robert,E.
+YR 1985
+T1 Data Structures and Network Algorithms
+
+RT Journal Article
+ID 1315889
+A1 Tarjan,Robert,E.
+A1 Vishkin,Uzi
+YR 1985
+T1 Finding biconnected components and computing tree functions in logarithmic parallel time
+JF Siam Journal on Computing
+
+RT Journal Article
+ID 810843
+A1 Bent,Samuel,W.
+A1 Sleator,Daniel,Dominic
+A1 Tarjan,Robert,Endre
+YR 1985
+T1 Biased Search Trees
+JF Siam Journal on Computing
+VO 14
+SP 545
+OP 568
+IS 3
+
+RT Journal Article
+ID 1319013
+A1 Roskind,J.
+A1 Tarjan,R.,E.
+YR 1985
+T1 A Note on Finding Minimum-Cost Edge-Disjoint Spanning Trees
+JF Mathematics of Operations Research
+VO 10
+SP 701
+OP 708
+IS 4
+
+RT Journal Article
+ID 808266
+A1 Tarjan,Robert,Endre
+YR 1985
+T1 Sequential access in play trees takes linear time
+JF Combinatorica
+VO 5
+SP 367
+OP 378
+IS 4
+
+RT Journal Article
+ID 15216222
+A1 Tarjan,R.,E.
+YR 1985
+T1 Sequential access in splay trees takes linear time
+JF Combinatorica
+VO 5
+SP 367
+OP 378
+IS 4
+
+RT Journal Article
+ID 758579
+A1 Paige,Robert
+A1 Tarjan,Robert,Endre
+A1 Bonic,Robert
+YR 1985
+T1 A Linear Time Solution to the Single Function Coarsest Partition Problem
+JF Theoretical Computer Science
+VO 40
+SP 67
+OP 84
+
+RT Journal Article
+ID 812231
+A1 Tarjan,Robert,Endre
+A1 Yannakakis,Mihalis
+YR 1985
+T1 Addendum: Simple Linear-Time Algorithms to Test Chordality of Graphs, Test Acyclicity of Hypergraphs, and Selectively Reduce Acyclic Hypergraphs
+JF Siam Journal on Computing
+VO 14
+SP 254
+OP 255
+IS 1
+
+RT Journal Article
+ID 3806969
+A1 Chung,Fan,R.,K.
+A1 Garey,Michael,R.
+A1 Tarjan,Robert,E.
+YR 1985
+T1 Strongly connected orientations of mixed multigraphs
+JF Networks
+VO 15
+SP 477
+OP 484
+IS 4
+
+RT Conference Proceedings
+ID 913142
+A1 Hoffmann,Kurt
+A1 Mehlhorn,Kurt
+A1 Rosenstiehl,Pierre
+A1 Tarjan,Robert,Endre
+YR 1985
+T1 Sorting Jordan sequences in linear time
+SP 196
+OP 203
+
+RT Journal Article
+ID 47346691
+A1 Chung,F.,R.,K.
+A1 Tarjan,R.,E.
+A1 Paul,W.,J.
+A1 Reischuk,R.
+YR 1985
+T1 Coding Strings by Pairs of Strings
+JF Siam Journal on Algebraic and Discrete Methods
+VO 6
+SP 445
+IS 3
+
+RT Conference Proceedings
+ID 514751
+A1 Fredman,Michael,L.
+A1 Tarjan,Robert,Endre
+YR 1984
+T1 Fibonacci Heaps and Their Uses in Improved Network Optimization Algorithms
+SP 338
+OP 346
+
+RT Journal Article
+ID 810953
+A1 Harel,Dov
+A1 Tarjan,Robert,Endre
+YR 1984
+T1 Fast Algorithms for Finding Nearest Common Ancestors
+JF Siam Journal on Computing
+VO 13
+SP 338
+OP 355
+IS 2
+
+RT Journal Article
+ID 812230
+A1 Tarjan,Robert,Endre
+A1 Yannakakis,Mihalis
+YR 1984
+T1 Simple Linear-Time Algorithms to Test Chordality of Graphs, Test Acyclicity of Hypergraphs, and Selectively Reduce Acyclic Hypergraphs
+JF Siam Journal on Computing
+VO 13
+SP 566
+OP 579
+IS 3
+
+RT Journal Article
+ID 1364557
+A1 Surballe,J.,W.
+A1 Tarjan,R.,E.
+YR 1984
+T1 A quick method for finding shortest pairs of disjoint paths
+JF Networks
+VO 14
+SP 325
+OP 336
+IS 2
+
+RT Journal Article
+ID 788594
+A1 Tarjan,Robert,Endre
+A1 Leeuwen,Jan,van
+YR 1984
+T1 Worst-case Analysis of Set Union Algorithms
+JF Journal of The ACM
+VO 31
+SP 245
+OP 281
+IS 2
+
+RT Conference Proceedings
+ID 575573
+A1 Gabow,Harold,N.
+A1 Bentley,Jon,Louis
+A1 Tarjan,Robert,Endre
+YR 1984
+T1 Scaling and related techniques for geometry problems
+SP 135
+OP 143
+
+RT Journal Article
+ID 735662
+A1 Gilbert,John,R.
+A1 Hutchinson,Joan,P.
+A1 Tarjan,Robert,Endre
+YR 1984
+T1 A Separator Theorem for Graphs of Bounded Genus
+JF Journal of Algorithms
+VO 5
+SP 391
+OP 407
+IS 3
+
+RT Journal Article
+ID 735252
+A1 Gabow,Harold,N.
+A1 Tarjan,Robert,Endre
+YR 1984
+T1 Efficient Algorithms for a Family of Matroid Intersection Problems
+JF Journal of Algorithms
+VO 5
+SP 80
+OP 131
+IS 1
+
+RT Journal Article
+ID 2626664
+A1 Tarjan,R.,E
+YR 1984
+T1 A simple version of Karzanov's blocking flow algorithm
+JF Operations Research Letters
+VO 2
+SP 265
+OP 268
+IS 6
+
+RT Journal Article
+ID 1971326
+A1 Tarjan,R.,E.
+A1 Yannakakis,M.
+YR 1984
+T1 Simple linear time algorithm to test chordality of graphs
+JF Siam Journal on Computing
+
+RT Conference Proceedings
+ID 576331
+A1 Sleator,Daniel,Dominic
+A1 Tarjan,Robert,Endre
+YR 1984
+T1 Amortized efficiency of list update rules
+SP 488
+OP 492
+
+RT Conference Proceedings
+ID 3099607
+A1 Tarjan,Robert,E.
+A1 Vishkin,Uzi
+YR 1984
+T1 Finding biconnected componemts and computing tree functions in logarithmic parallel time
+SP 12
+OP 20
+
+RT Journal Article
+ID 2693085
+A1 Tarjan,R.,E.
+A1 Vishkin,U.
+YR 1984
+T1 An efficient parallel biconnectivity algorithm
+JF Siam Journal on Computing
+
+RT Journal Article
+ID 735278
+A1 Rosenstiehl,Pierre
+A1 Tarjan,Robert,Endre
+YR 1984
+T1 Gauss Codes, Planar Hamiltonian Graphs, and Stack-Sortable Permutations
+JF Journal of Algorithms
+VO 5
+SP 375
+OP 390
+IS 3
+
+RT Conference Proceedings
+ID 515793
+A1 Tarjan,Robert,Endre
+A1 Vishkin,Uzi
+YR 1984
+T1 Finding Biconnected Components and Computing Tree Functions in Logarithmic Parallel Time (Extended Summary)
+SP 12
+OP 20
+
+RT Journal Article
+ID 1577686
+A1 Tarjan,R.
+YR 1984
+T1 Input-output decomposition of dynamic systems is NP-complete
+JF IEEE Transactions on Automatic Control
+VO 29
+SP 863
+OP 864
+IS 9
+
+RT Book, Whole
+ID 603158
+A1 Paige,Robert
+A1 Tarjan,Robert,Endre
+YR 1984
+T1 A Linear Time Algorithm to Solve the Single Function Coarsest Partition Problem
+SP 371
+OP 379
+
+RT Journal Article
+ID 1251502
+A1 Tarjan,R.,E.
+YR 1983
+T1 Data structures and network algorithms
+
+RT Journal Article
+ID 791653
+A1 Sleator,Daniel,Dominic
+A1 Tarjan,Robert,Endre
+YR 1983
+T1 A Data Structure for Dynamic Trees
+JF Journal of Computer and System Sciences
+VO 26
+SP 362
+OP 391
+IS 3
+
+RT Conference Proceedings
+ID 575910
+A1 Gabow,Harold,N.
+A1 Tarjan,Robert,Endre
+YR 1983
+T1 A linear-time algorithm for a special case of disjoint set union
+SP 246
+OP 251
+
+RT Conference Proceedings
+ID 576330
+A1 Sleator,Daniel,Dominic
+A1 Tarjan,Robert,Endre
+YR 1983
+T1 Self-adjusting binary trees
+SP 235
+OP 245
+
+RT Journal Article
+ID 740936
+A1 Tarjan,Robert,Endre
+YR 1983
+T1 Updating a Balanced Search Tree in O(1) Rotations
+JF Information Processing Letters
+VO 16
+SP 253
+OP 257
+IS 5
+
+RT Journal Article
+ID 3466375
+A1 Tarjan,R.,E.
+A1 Woods,D.,R.
+YR 1983
+T1 Notes in Introductory Combinatorics
+
+RT Journal Article
+ID 1312808
+A1 Tarjan,R.,E.
+A1 Vishk,U.
+YR 1983
+T1 An efficient parallel biconnectivity algorithm
+
+RT Journal Article
+ID 2923357
+A1 Tarjan,R.,E.
+YR 1983
+T1 Data Structures and Network Algorithms SIAM
+
+RT Journal Article
+ID 47346578
+A1 Garey,M.,R.
+A1 Johnson,D.,S.
+A1 Tarjan,R.,E.
+A1 Yannakakis,M.
+YR 1983
+T1 Scheduling Opposing Forests
+JF Siam Journal on Algebraic and Discrete Methods
+VO 4
+SP 72
+IS 1
+
+RT Journal Article
+ID 4027326
+A1 Feigenbaum,J.
+A1 Tarjan,R.,E.
+YR 1983
+T1 Two new kinds of biased search trees
+
+RT Journal Article
+ID 742539
+A1 Tarjan,Robert,Endre
+YR 1983
+T1 An Improved Algorithm for Hierarchical Clustering Using Strong Components
+JF Information Processing Letters
+VO 17
+SP 37
+OP 41
+IS 1
+
+RT Journal Article
+ID 46605227
+A1 Tarjan,R
+YR 1983
+T1 An improved algorithm for hierarchical clustering using strong components
+JF Computer Compacts
+VO 1
+SP 212
+IS 4
+
+RT Journal Article
+ID 893417
+A1 Tarjan,Robert,Endre
+YR 1983
+T1 Space-Efficient Implementations of Graph Search Methods
+JF ACM Transactions on Mathematical Software
+VO 9
+SP 326
+OP 339
+IS 3
+
+RT Journal Article
+ID 3331869
+A1 Tarjan,Robert,Endre
+YR 1983
+T1 Linking and cutting trees
+
+RT Journal Article
+ID 1359316
+A1 Tarjan,R,E
+YR 1982
+T1 Depth first search and linear graphs algorithms
+JF Siam Journal on Computing
+
+RT Journal Article
+ID 811425
+A1 Reif,John,H.
+A1 Tarjan,Robert,Endre
+YR 1982
+T1 Symbolic Program Analysis in Almost-Linear Time
+JF Siam Journal on Computing
+VO 11
+SP 81
+OP 93
+IS 1
+
+RT Journal Article
+ID 786888
+A1 Lengauer,Thomas
+A1 Tarjan,Robert,Endre
+YR 1982
+T1 Asymptotically tight bounds on time-space trade-offs in a pebble game
+JF Journal of The ACM
+VO 29
+SP 1087
+OP 1130
+IS 4
+
+RT Journal Article
+ID 742538
+A1 Tarjan,Robert,Endre
+YR 1982
+T1 Sensitivity Analysis of Minimum Spanning Trees and Shortest Path Trees
+JF Information Processing Letters
+VO 14
+SP 30
+OP 33
+IS 1
+
+RT Journal Article
+ID 740935
+A1 Tarjan,Robert,Endre
+YR 1982
+T1 A Hierarchical Clustering Algorithm Using Strong Components
+JF Information Processing Letters
+VO 14
+SP 26
+OP 29
+IS 1
+
+RT Journal Article
+ID 3730023
+A1 Tarjan,R.,E.
+YR 1982
+T1 Sensitivity analysis of minimum spanning trees and shortest path problems
+JF Information Processing Letters
+
+RT Conference Proceedings
+ID 576329
+A1 Sleator,Daniel,Dominic
+A1 Tarjan,Robert,Endre
+YR 1981
+T1 A data structure for dynamic trees
+SP 114
+OP 122
+
+RT Journal Article
+ID 788593
+A1 Tarjan,Robert,Endre
+YR 1981
+T1 Fast Algorithms for Solving Path Problems
+JF Journal of The ACM
+VO 28
+SP 594
+OP 614
+IS 3
+
+RT Journal Article
+ID 788592
+A1 Tarjan,Robert,Endre
+A1 JAN,TAR
+YR 1981
+T1 A Unified Approach to Path Problems
+JF Journal of The ACM
+VO 28
+SP 577
+OP 593
+IS 3
+
+RT Journal Article
+ID 812210
+A1 Garey,M.,R.
+A1 Johnson,David,S.
+A1 Simons,Barbara,B.
+A1 Tarjan,Robert,Endre
+YR 1981
+T1 Scheduling Unit-Time Tasks with Arbitrary Release Times and Deadlines
+JF Siam Journal on Computing
+VO 10
+SP 256
+OP 269
+IS 2
+
+RT Journal Article
+ID 811594
+A1 Reingold,Edward,M.
+A1 Tarjan,Robert,Endre
+YR 1981
+T1 On a Greedy Heuristic for Complete Matching
+JF Siam Journal on Computing
+VO 10
+SP 676
+OP 681
+IS 4
+
+RT Journal Article
+ID 3744801
+A1 Tarjan,R.,E.
+A1 Yannakakis,M.
+YR 1981
+T1 Simple Linear Time Algorithms to Test Chordality of Graphs
+JF Siam Journal on Computing
+
+RT Journal Article
+ID 1343905
+A1 Tarjan,R.,E
+YR 1981
+T1 A unified approach to path programs" j
+
+RT Journal Article
+ID 2719389
+A1 Matula,D.,W.
+A1 Shiloach,Y.
+A1 Tarjan,R.,E.
+YR 1981
+T1 Analysis of two linear-time algorithms for five-coloring a planar graph
+
+RT Journal Article
+ID 16460063
+A1 Tarjan,Robert,E.
+YR 1981
+T1 Review of Graphs and Networks (Bernard Carré)
+JF Siam Review
+VO 23
+SP 397
+IS 3
+
+RT Journal Article
+ID 812215
+A1 Lipton,Richard,J.
+A1 Tarjan,Robert,Endre
+YR 1980
+T1 Applications of a Planar Separator Theorem
+JF Siam Journal on Computing
+VO 9
+SP 615
+OP 627
+IS 3
+
+RT Journal Article
+ID 787074
+A1 Downey,Peter,J.
+A1 Sethi,Ravi
+A1 Tarjan,Robert,Endre
+YR 1980
+T1 Variations on the Common Subexpression Problem
+JF Journal of The ACM
+VO 27
+SP 758
+OP 771
+IS 4
+
+RT Journal Article
+ID 810943
+A1 Jr.,Edward,G.,Coffman
+A1 Garey,M.,R.
+A1 Johnson,David,S.
+A1 Tarjan,Robert,Endre
+YR 1980
+T1 Performance Bounds for Level-Oriented Two-Dimensional Packing Algorithms
+JF Siam Journal on Computing
+VO 9
+SP 808
+OP 826
+IS 4
+
+RT Journal Article
+ID 810600
+A1 Brown,Mark,R.
+A1 Tarjan,Robert,Endre
+YR 1980
+T1 Design and Analysis of a Data Structure for Representing Sorted Lists
+JF Siam Journal on Computing
+VO 9
+SP 594
+OP 614
+IS 3
+
+RT Conference Proceedings
+ID 566458
+A1 Tarjan,Robert,Endre
+A1 Valdesfl,Jacobo
+YR 1980
+T1 Prime subprogram parsing of a program
+SP 95
+OP 105
+
+RT Conference Proceedings
+ID 514574
+A1 Bent,Samuel,W.
+A1 Sleator,Daniel,Dominic
+A1 Tarjan,Robert,Endre
+YR 1980
+T1 Biased 2-3 Trees
+SP 248
+OP 254
+
+RT Journal Article
+ID 812171
+A1 Gilbert,John,R.
+A1 Lengauer,Thomas
+A1 Tarjan,Robert,Endre
+YR 1980
+T1 The Pebbling Problem is Complete in Polynomial Space
+JF Siam Journal on Computing
+VO 9
+SP 513
+OP 524
+IS 3
+
+RT Journal Article
+ID 739262
+A1 Lengauer,Thomas
+A1 Tarjan,Robert,Endre
+YR 1980
+T1 The Space Complexity of Pebble Games on Trees
+JF Information Processing Letters
+VO 10
+SP 184
+OP 188
+IS 4/5
+
+RT Journal Article
+ID 4027121
+A1 Mat,David
+A1 Shiloach,Yossi
+A1 Tarjan,Robert
+YR 1980
+T1 TWO LINEAR-TIME ALGORITHMS FOR FIVE-COLORING A PLANAR GRAPH
+
+RT Journal Article
+ID 3329788
+A1 Karp,Richard,M.
+A1 Tarjan,Robert,Endre
+YR 1980
+T1 Linear Expected-Time Algorithms for Connectivity Problems
+JF Journal of Algorithms
+VO 1
+SP 374
+OP 393
+IS 4
+
+RT Conference Proceedings
+ID 575889
+A1 Karp,Richard,M.
+A1 Tarjan,Robert,Endre
+YR 1980
+T1 Linear Expected-Time Algorithms for Connectivity Problems (Extended Abstract)
+VO 1
+SP 368
+OP 377
+IS 4
+
+RT Journal Article
+ID 46557089
+A1 ROSE,D
+A1 WHITTEN,G
+A1 SHERMAN,A
+A1 TARJAN,R
+YR 1980
+T1 Algorithms and software for in-core factorization of sparse symmetric positive definite matrices
+JF Computers & Structures
+VO 11
+SP 597
+OP 608
+IS 6
+
+RT Journal Article
+ID 39246475
+A1 Karp,Richard,M.
+A1 Tarjan,Robert,Endre
+YR 1980
+T1 Linear expected-time algorithms for connectivity problems (Extended Abstract)
+SP 368
+OP 377
+
+RT Journal Article
+ID 1264378
+A1 Lipton,Richard,J.
+A1 Tarjan,Robert,E.
+YR 1979
+T1 A SEPARATOR THEOREM FOR PLANAR GRAPHS
+JF Siam Journal on Applied Mathematics
+
+RT Journal Article
+ID 856938
+A1 Lengauer,Thomas
+A1 Tarjan,Robert,Endre
+YR 1979
+T1 A fast algorithm for finding dominators in a flowgraph
+JF ACM Transactions on Programming Languages and Systems
+VO 1
+SP 121
+OP 141
+IS 1
+
+RT Journal Article
+ID 787724
+A1 Tarjan,Robert,Endre
+YR 1979
+T1 Applications of Path Compression on Balanced Trees
+JF Journal of The ACM
+VO 26
+SP 690
+OP 715
+IS 4
+
+RT Journal Article
+ID 741974
+A1 Aspvall,Bengt
+A1 Plass,Michael,F.
+A1 Tarjan,Robert,Endre
+YR 1979
+T1 A Linear-Time Algorithm for Testing the Truth of Certain Quantified Boolean Formulas
+JF Information Processing Letters
+VO 8
+SP 121
+OP 123
+IS 3
+
+RT Conference Proceedings
+ID 576231
+A1 Valdes,Jacobo
+A1 Tarjan,Robert,Endre
+A1 Lawler,Eugene,L.
+YR 1979
+T1 The recognition of Series Parallel digraphs
+SP 1
+OP 12
+
+RT Journal Article
+ID 776785
+A1 Tarjan,Robert,Endre
+A1 Yao,Andrew,Chi-Chih
+YR 1979
+T1 Storing a sparse table
+JF Communications of The ACM
+VO 22
+SP 606
+OP 611
+IS 11
+
+RT Journal Article
+ID 16455269
+A1 Lipton,Richard,J.
+A1 Rose,Donald,J.
+A1 Tarjan,Robert,Endre
+YR 1979
+T1 Generalized Nested Dissection
+JF Siam Journal on Numerical Analysis
+VO 16
+SP 346
+IS 2
+
+RT Journal Article
+ID 791237
+A1 Tarjan,Robert,Endre
+YR 1979
+T1 A Class of Algorithms which Require Nonlinear Time to Maintain Disjoint Sets
+JF Journal of Computer and System Sciences
+VO 18
+SP 110
+OP 127
+IS 2
+
+RT Journal Article
+ID 786762
+A1 Brown,Mark,R.
+A1 Tarjan,Robert,Endre
+YR 1979
+T1 A Fast Merging Algorithm
+JF Journal of The ACM
+VO 26
+SP 211
+OP 226
+IS 2
+
+RT Conference Proceedings
+ID 576497
+A1 Gilbert,John,R.
+A1 Lengauer,Thomas
+A1 Tarjan,Robert,Endre
+YR 1979
+T1 The pebbling problem is complete in polynomial space
+SP 237
+OP 248
+
+RT Conference Proceedings
+ID 575443
+A1 Lengauer,Thomas
+A1 Tarjan,Robert,Endre
+YR 1979
+T1 Upper and lower bounds on time-space tradeoffs
+SP 262
+OP 277
+
+RT Journal Article
+ID 1384980
+A1 Tarjan,R.,E.
+YR 1979
+T1 A class of algorithms that require nonlinear time to maintain disjoint sets
+JF Journal of Computer and System Sciences
+
+RT Conference Proceedings
+ID 515029
+A1 Gabow,Harold,N.
+A1 Tarjan,Robert,Endre
+YR 1979
+T1 Efficient Algorithms for Simple Matroid Intersection Problems
+SP 196
+OP 204
+
+RT Journal Article
+ID 52610660
+A1 Lipton,Richard,J.
+A1 Rose,Donald,J.
+A1 Tarjan,Robert,Endre
+YR 1979
+T1 Generalized Nested Dissection
+JF Siam Journal on Numerical Analysis
+VO 16
+SP 346
+OP 358
+
+RT Journal Article
+ID 2566172
+A1 Lengauer,T
+A1 Tarjan,Re
+YR 1979
+T1 A fast dominator algorithm for nding dominators in a flow graph
+JF ACM Transactions on Programming Languages and Systems
+
+RT Journal Article
+ID 46556967
+A1 ROSE,D
+A1 WHITTEN,G
+A1 SHERMAN,A
+A1 TARJAN,R
+YR 1979
+T1 Algorithms and software for in-core factorization of sparse symmetric positive definite matrices
+JF Computers & Structures
+VO 10
+SP 411
+OP 418
+IS 1-2
+
+RT Journal Article
+ID 742485
+A1 Garey,M.,R.
+A1 Johnson,David,S.
+A1 Preparata,Franco,P.
+A1 Tarjan,Robert,Endre
+YR 1978
+T1 Triangulating a Simple Polygon
+JF Information Processing Letters
+VO 7
+SP 175
+OP 179
+IS 4
+
+RT Journal Article
+ID 1337733
+A1 Rose,Donald,J.
+A1 Tarjan,Robert,Endre
+YR 1978
+T1 Algorithmic Aspects of Vertex Elimination on Directed Graphs
+JF Siam Journal on Applied Mathematics
+VO 34
+SP 176
+IS 1
+
+RT Conference Proceedings
+ID 575363
+A1 Brown,Mark,R.
+A1 Tarjan,Robert,Endre
+YR 1978
+T1 A representation for linear lists with movable fingers
+SP 19
+OP 29
+
+RT Journal Article
+ID 768588
+A1 Paul,Wolfgang,J.
+A1 Tarjan,Robert,Endre
+YR 1978
+T1 Time-Space Trade-Offs in a Pebble Game
+JF Acta Informatica
+VO 10
+SP 111
+OP 115
+IS 2
+
+RT Journal Article
+ID 1307041
+A1 Tarjan,R.,E.
+YR 1978
+T1 Complexity of monotone networks for computing conjunctions
+
+RT Journal Article
+ID 1297269
+A1 Tarjan,Robert,Endre
+YR 1978
+T1 Complexity of Combinatorial Algorithms
+JF Siam Review
+VO 20
+SP 457
+IS 3
+
+RT Journal Article
+ID 741420
+A1 Garey,M.,R.
+A1 Tarjan,Robert,Endre
+YR 1978
+T1 A Linear-Time Algorithm for Finding All Feedback Vertices
+JF Information Processing Letters
+VO 7
+SP 274
+OP 276
+IS 6
+
+RT Journal Article
+ID 15199224
+A1 Tarjan,R.,E.
+YR 1977
+T1 Finding optimum branchings
+JF Networks
+VO 7
+SP 25
+OP 35
+IS 1
+
+RT Journal Article
+ID 752409
+A1 Paul,Wolfgang,J.
+A1 Tarjan,Robert,Endre
+A1 Celoni,James,R.
+YR 1977
+T1 Space Bounds for a Game on Graphs
+JF Theory of Computing Systems / Mathematical Systems Theory
+VO 10
+SP 239
+OP 251
+
+RT Conference Proceedings
+ID 515781
+A1 Lipton,Richard,J.
+A1 Tarjan,Robert,Endre
+YR 1977
+T1 Application of a Planar Separator Theorem
+SP 162
+OP 170
+
+RT Journal Article
+ID 812227
+A1 Tarjan,Robert,Endre
+A1 Trojanowski,Anthony,E.
+YR 1977
+T1 Finding a Maximum Independent Set
+JF Siam Journal on Computing
+VO 6
+SP 537
+OP 546
+IS 3
+
+RT Conference Proceedings
+ID 49813405
+A1 Lipton,Richard,J.
+A1 Tarjan,Robert,Endre
+YR 1977
+T1 Applications of a planar separator theorem
+SP 162
+OP 170
+
+RT Book, Whole
+ID 601946
+A1 Paul,Wolfgang,J.
+A1 Tarjan,Robert,Endre
+YR 1977
+T1 Time-Space Trade-Offs in a Pebble Game
+SP 365
+OP 369
+
+RT Conference Proceedings
+ID 576007
+A1 Tarjan,Robert,Endre
+YR 1977
+T1 Reference machines require non-linear time to maintain disjoint sets
+SP 18
+OP 29
+
+RT Journal Article
+ID 760966
+A1 Even,Shimon
+A1 Tarjan,Robert,Endre
+YR 1977
+T1 Corrigendum: Computing an st-Numbering. TCS 2(1976):339-344
+JF Theoretical Computer Science
+VO 4
+SP 123
+IS 1
+
+RT Journal Article
+ID 752363
+A1 Paul,Wolfgang,J.
+A1 Tarjan,Robert,Endre
+A1 Celoni,James,R.
+YR 1977
+T1 Correction: Space Bounds for a Game on Graphs
+JF Theory of Computing Systems / Mathematical Systems Theory
+VO 11
+SP 85
+
+RT Journal Article
+ID 811162
+A1 Rose,Donald,J.
+A1 Tarjan,Robert,Endre
+A1 Lueker,George,S.
+YR 1976
+T1 Algorithmic Aspects of Vertex Elimination on Graphs
+JF Siam Journal on Computing
+VO 5
+SP 266
+OP 283
+IS 2
+
+RT Journal Article
+ID 812303
+A1 Cheriton,David,R.
+A1 Tarjan,Robert,Endre
+YR 1976
+T1 Finding Minimum Spanning Trees
+JF Siam Journal on Computing
+VO 5
+SP 724
+OP 742
+IS 4
+
+RT Journal Article
+ID 575440
+A1 Paul,Wolfgang,J.
+A1 Tarjan,Robert,Endre
+A1 Celoni,James,R.
+YR 1976
+T1 Space Bounds for a Game of Graphs
+JF Theory of Computing Systems / Mathematical Systems Theory
+VO 10
+SP 149
+OP 160
+IS 1
+
+RT Journal Article
+ID 760965
+A1 Even,Shimon
+A1 Tarjan,Robert,Endre
+YR 1976
+T1 Computing an st Numbering
+JF Theoretical Computer Science
+VO 2
+SP 339
+OP 344
+IS 3
+
+RT Journal Article
+ID 810552
+A1 Eswaran,Kapali,P.
+A1 Tarjan,Robert,Endre
+YR 1976
+T1 Augmentation Problems
+JF Siam Journal on Computing
+VO 5
+SP 653
+OP 665
+IS 4
+
+RT Journal Article
+ID 811287
+A1 Garey,M.,R.
+A1 Johnson,David,S.
+A1 Tarjan,Robert,Endre
+YR 1976
+T1 The Planar Hamiltonian Circuit Problem is NP-Complete
+JF Siam Journal on Computing
+VO 5
+SP 704
+OP 714
+IS 4
+
+RT Journal Article
+ID 1303079
+A1 Tarjan,R.,E.
+YR 1976
+T1 Iterative algorithms for global flow analysis
+
+RT Journal Article
+ID 3160993
+A1 Tarjan,Robert,Endre
+YR 1976
+T1 Graph Theory and Gaussian Elimination
+
+RT Journal Article
+ID 788354
+A1 Even,Shimon
+A1 Tarjan,Robert,Endre
+YR 1976
+T1 A Combinatorial Problem Which Is Complete in Polynomial Space
+JF Journal of The ACM
+VO 23
+SP 710
+OP 719
+IS 4
+
+RT Journal Article
+ID 1346731
+A1 Ehrlich,Gideon
+A1 Even,Shimon
+A1 Tarjan,Robert,Endre
+YR 1976
+T1 Intersection graphs of curves in the plane
+JF Journal of Combinatorial Theory
+VO 21
+SP 8
+OP 20
+IS 1
+
+RT Journal Article
+ID 768998
+A1 Tarjan,Robert,Endre
+YR 1976
+T1 Edge-Disjoint Spanning Trees and Depth-First Search
+JF Acta Informatica
+VO 6
+SP 171
+OP 185
+IS 2
+
+RT Journal Article
+ID 810917
+A1 Goodman,S.,E.
+A1 Hedetniemi,Stephen,T.
+A1 Tarjan,Robert,Endre
+YR 1976
+T1 b-Matchings in Trees
+JF Siam Journal on Computing
+VO 5
+SP 104
+OP 108
+IS 1
+
+RT Journal Article
+ID 14428138
+A1 MARKOWSKY,G
+A1 TARJAN,R
+YR 1976
+T1 Lower bounds on the lengths of node sequences in directed graphs
+JF Discrete Mathematics
+VO 16
+SP 329
+OP 337
+IS 4
+
+RT Journal Article
+ID 39246473
+A1 Paul,Wolfgang,J.
+A1 Tarjan,Robert,Endre
+A1 Celoni,James,R.
+YR 1976
+T1 Space bounds for a game on graphs
+SP 149
+OP 160
+
+RT Journal Article
+ID 787723
+A1 Tarjan,Robert,Endre
+A1 JAN,TAR
+YR 1975
+T1 Efficiency of a Good But Not Linear Set Union Algorithm
+JF Journal of The ACM
+VO 22
+SP 215
+OP 225
+IS 2
+
+RT Journal Article
+ID 812017
+A1 Even,Shimon
+A1 Tarjan,Robert,Endre
+YR 1975
+T1 Network Flow and Testing Graph Connectivity
+JF Siam Journal on Computing
+VO 4
+SP 507
+OP 518
+IS 4
+
+RT Journal Article
+ID 1341065
+A1 Tarjan,R.,E.
+YR 1975
+T1 Solving path problems on directed graphs
+
+RT Journal Article
+ID 1948427
+A1 Read,R.,C.
+A1 Tarjan,R.,E.
+YR 1975
+T1 Bounds on backtrack algorithms for listing cycles
+
+RT Conference Proceedings
+ID 576392
+A1 Even,Shimon
+A1 Tarjan,Robert,Endre
+YR 1975
+T1 A combinatorial problem which is complete in polynomial space
+SP 66
+OP 71
+
+RT Journal Article
+ID 2019235
+A1 Tarjan,R.,E.
+YR 1975
+T1 A good algorithm for edge disjoint branchings
+JF Information Processing Letters
+
+RT Conference Proceedings
+ID 576150
+A1 Rose,Donald,J.
+A1 Tarjan,Robert,Endre
+YR 1975
+T1 Algorithmic aspects of vertex elimination
+SP 245
+OP 254
+
+RT Journal Article
+ID 740603
+A1 Misra,Jayadev
+A1 Tarjan,Robert,Endre
+YR 1975
+T1 Optimal Chain Partitions of Trees
+JF Information Processing Letters
+VO 4
+SP 24
+OP 26
+IS 1
+
+RT Journal Article
+ID 1957333
+A1 Tarjan,R.,E.
+YR 1975
+T1 Lower bounds on the lengths of node sequences in directed graphs
+
+RT Journal Article
+ID 788601
+A1 Hopcroft,John,E.
+A1 Tarjan,Robert,Endre
+YR 1974
+T1 Efficient Planarity Testing
+JF Journal of The ACM
+VO 21
+SP 549
+OP 568
+IS 4
+
+RT Journal Article
+ID 811461
+A1 Tarjan,Robert,Endre
+YR 1974
+T1 Finding Dominators in Directed Graphs
+JF Siam Journal on Computing
+VO 3
+SP 62
+OP 89
+IS 1
+
+RT Journal Article
+ID 791236
+A1 Tarjan,Robert,Endre
+YR 1974
+T1 Testing Flow Graph Reducibility
+JF Journal of Computer and System Sciences
+VO 9
+SP 355
+OP 365
+IS 3
+
+RT Journal Article
+ID 2064782
+A1 Hopcroft,J.
+A1 Tarjan,R.,E.
+YR 1974
+T1 Efficient planarity testing
+JF Journal of The ACM
+
+RT Journal Article
+ID 742537
+A1 Tarjan,Robert,Endre
+YR 1974
+T1 A Good Algorithm for Edge-Disjoint Branching
+JF Information Processing Letters
+VO 3
+SP 51
+OP 53
+IS 2
+
+RT Journal Article
+ID 740934
+A1 Tarjan,Robert,Endre
+YR 1974
+T1 A Note on Finding the Bridges of a Graph
+JF Information Processing Letters
+VO 2
+SP 160
+OP 161
+IS 6
+
+RT Conference Proceedings
+ID 576006
+A1 Tarjan,Robert,Endre
+YR 1974
+T1 Testing graph connectivity
+SP 185
+OP 193
+
+RT Journal Article
+ID 742536
+A1 Tarjan,Robert,Endre
+YR 1974
+T1 A New Algorithm for Finding Weak Components
+JF Information Processing Letters
+VO 3
+SP 13
+OP 15
+IS 1
+
+RT Journal Article
+ID 60839368
+A1 Cieleszky,V.
+A1 Czegledi,P.
+A1 Dobrovolszky,A.
+A1 Hapka,S.
+A1 Tarjan,R.
+YR 1974
+T1 Determination of $beta$-activity of foodstuffs and menus
+
+RT Journal Article
+ID 790768
+A1 Blum,Manuel
+A1 Floyd,Robert,W.
+A1 Pratt,Vaughan,R.
+A1 Rivest,Ronald,L.
+A1 Tarjan,Robert,Endre
+YR 1973
+T1 Time Bounds for Selection
+JF Journal of Computer and System Sciences
+VO 7
+SP 448
+OP 461
+IS 4
+
+RT Journal Article
+ID 812238
+A1 Hopcroft,John,E.
+A1 Tarjan,Robert,Endre
+YR 1973
+T1 Dividing a Graph into Triconnected Components
+JF Siam Journal on Computing
+VO 2
+SP 135
+OP 158
+IS 3
+
+RT Journal Article
+ID 1337778
+A1 Hopcroft,J.
+A1 Tarjan,R.
+YR 1973
+T1 Efficient algorithms for graph manipulation
+JF Communications of The ACM
+
+RT Conference Proceedings
+ID 576005
+A1 Tarjan,Robert,Endre
+YR 1973
+T1 Testing flow graph reducibility
+SP 96
+OP 107
+
+RT Journal Article
+ID 1246653
+A1 Hopcroft,John
+A1 Tarjan,Robert
+YR 1973
+T1 Algorithm 447: efficient algorithms for graph manipulation
+JF Communications of The ACM
+VO 16
+SP 372
+OP 378
+IS 6
+
+RT Journal Article
+ID 791874
+A1 Hopcroft,John,E.
+A1 Tarjan,Robert,Endre
+YR 1973
+T1 A V log V Algorithm for Isomorphism of Triconnected Planar Graphs
+JF Journal of Computer and System Sciences
+VO 7
+SP 323
+OP 331
+IS 3
+
+RT Journal Article
+ID 811460
+A1 Tarjan,Robert,Endre
+YR 1973
+T1 Enumeration of the Elementary Circuits of a Directed Graph
+JF Siam Journal on Computing
+VO 2
+SP 211
+OP 216
+IS 3
+
+RT Journal Article
+ID 776817
+A1 Hopcroft,John,E.
+A1 Tarjan,Robert,Endre
+YR 1973
+T1 Efficient Algorithms for Graph Manipulation [H] (Algorithm 447)
+JF Communications of The ACM
+VO 16
+SP 372
+OP 378
+IS 6
+
+RT Journal Article
+ID 811459
+A1 Tarjan,Robert,Endre
+YR 1972
+T1 Depth-First Search and Linear Graph Algorithms
+JF Siam Journal on Computing
+VO 1
+SP 146
+OP 160
+IS 2
+
+RT Journal Article
+ID 1261515
+A1 Hopcroft,J.,E.
+A1 Tarjan,R.,E.
+YR 1972
+T1 Isomorphism of planar graphs
+
+RT Journal Article
+ID 787722
+A1 Tarjan,Robert,Endre
+YR 1972
+T1 Sorting Using Networks of Queues and Stacks
+JF Journal of The ACM
+VO 19
+SP 341
+OP 346
+IS 2
+
+RT Conference Proceedings
+ID 575579
+A1 Blum,Manuel
+A1 Floyd,Robert,W.
+A1 Pratt,Vaughan,R.
+A1 Rivest,Ronald,L.
+A1 Tarjan,Robert,Endre
+YR 1972
+T1 Linear time bounds for median computations
+SP 119
+OP 124
+
+RT Journal Article
+ID 1296007
+A1 Hopcroft,J.
+A1 Tarjan,R.
+YR 1972
+T1 Isomorphism of planar graphs (working paper)
+
+RT Journal Article
+ID 1348962
+A1 Hopcroft,J.,E.
+A1 Tarjan,R,E.
+YR 1972
+T1 Isomorphism of planar graphs in complexity of computer computatwns
+
+RT Journal Article
+ID 3099426
+A1 Tarjan,R.
+YR 1972
+T1 Finding a maximum clique
+
+RT Journal Article
+ID 2371165
+A1 Hopcroft,J.,E.
+A1 Tarjan,R.,E.
+YR 1972
+T1 Finding the triconnected components of a graph
+JF IEEE Transactions on Reliability
+
+RT Journal Article
+ID 1360874
+A1 Tarjan,R,E
+YR 1972
+T1 Depth first search and hnear graph algontl~ms
+
+RT Journal Article
+ID 740933
+A1 Tarjan,Robert,Endre
+YR 1972
+T1 Determining Whether a Groupoid is a Group
+JF Information Processing Letters
+VO 1
+SP 120
+OP 124
+IS 3
+
+RT Conference Proceedings
+ID 515119
+A1 Tarjan,Robert,Endre
+YR 1971
+T1 Depth-First Search and Linear Graph Algorithms (Working Paper)
+SP 114
+OP 121
+
+RT Journal Article
+ID 1393472
+A1 Tarjan,R.
+YR 1971
+T1 An efficient planarity algorithm
+
+RT Journal Article
+ID 742556
+A1 Hopcroft,John,E.
+A1 Tarjan,Robert,Endre
+YR 1971
+T1 A V² Algorithm for Determining Isomorphism of Planar Graphs
+JF Information Processing Letters
+VO 1
+SP 32
+OP 34
+IS 1
+
+RT Conference Proceedings
+ID 546019
+A1 Hopcroft,John,E.
+A1 Tarjan,Robert,Endre
+YR 1971
+T1 Planarity Testing in V log V Steps: Extended Abstract
+SP 85
+OP 90
+
+RT Conference Proceedings
+ID 49805780
+A1 Tarjan,Robert
+YR 1971
+T1 Depth-first search and linear graph algorithms
+SP 114
+OP 121
+
+RT Journal Article
+ID 37363168
+A1 Tarjan,Robert
+A1 Miller,Curtis
+YR 1971
+T1 An Analytical Positive Manifold Algorithm for Use With Latent Class Analysis
+JF Multivariate Behavioral Research
+VO 6
+SP 363
+OP 371
+IS 3
+
+RT Journal Article
+ID 47018802
+A1 Tarjan,R.
+YR 1965
+T1 Computer Group News
+JF IEEE Transactions on Electronic Computers
+VO EC-14
+SP 762
+OP 762
+IS 5
+
+RT Journal Article
+ID 2675433
+A1 Rose,D.,J.
+A1 Tarjan,R.,E.
+A1 Lueker,G.,S.
+YR 1961
+T1 Algo-42 rithmic aspects of vertex elimination on graphs
+JF Siam Journal on Computing
+
+RT Journal Article
+ID 1926950
+A1 Driscoll,James,R.
+A1 Gabow,Harold,N.
+A1 Shrairman,Ruth
+A1 Tarjan,Robert,E.
+T1 Relaxed heaps: an alternative to fibonacci heaps
+JF Communications of The ACM
+
+RT Journal Article
+ID 4974215
+A1 Gilbert,John,R.
+A1 Tarjan,Robert,E.
+T1 VARIATIONS OF A PEBBLE GAME ON GRAPHS
+
+RT Book, Whole
+ID 47885280
+A1 Tarjan,Robert,E.
+T1 Algorithms for maximum network flow
+
+RT Journal Article
+ID 12786602
+A1 AHUJAtIt,RAVINDRA,K.
+A1 ORLINt,JAMES,B.
+A1 TARJAN,ROBERT,E.
+T1 IMPROVED TIME BOUNDS FOR THE MAXIMUM FLOW PROBLEM
+JF Siam Journal on Computing
+
+RT Journal Article
+ID 10870779
+A1 Munro,Ian
+A1 BENTLEY,JON,LOUIS
+A1 SLEATOR,DANIEL,D.
+A1 TARJAN,ROBERT,E.
+T1 Compression Scheme
+
+RT Journal Article
+ID 10448772
+A1 Horowitz,Ellis
+A1 SLEATOR,DANIEL,D.
+A1 TARJAN,ROBERT,E.
+T1 Update and Paging Rules
+
+RT Journal Article
+ID 10221634
+A1 SLEATOR,DANIEL,D.
+A1 TARJAN,ROBERT,E.
+T1 Techniques and Amortized Efficiency Of List Ellis Editor Horowitz Update and Paging Rules
+
+RT Journal Article
+ID 12110153
+A1 ORLINt,JAMES,B.
+A1 STEIN,CLIFFORD
+A1 TARJAN,ROBERT,E.
+T1 IMPROVED ALGORITHMS FOR BIPARTITE NETWORK FLOW
+
+RT Journal Article
+ID 11926246
+A1 Lipton,R.,J.
+A1 Rose,D.,J.
+A1 Tarjan,R.,E.
+T1 GENERALIZED NESTED D I S SECT I ON
+
+RT Journal Article
+ID 10784556
+A1 SARNAK,NEIL
+A1 TARJAN,ROBERT,E.
+T1 Persistent Search Trees
+
+RT Journal Article
+ID 5989407
+A1 Chaudhuri,Kamalika
+A1 Kothari,Anshul
+A1 Swaminathan,Ram
+A1 Tarjan,Robert
+A1 Zhang,Alex
+A1 Zhou,Yunhong
+T1 Server Allocation Problem for Multi-Tiered Applications
+
+RT Journal Article
+ID 4965709
+A1 Goldberf,Andrew,V.
+A1 Tarjant,Robert,E.
+T1 Finding am Blocking Flow in aan Acyclic Network
+
+RT Journal Article
+ID 11827290
+A1 Cai,Jiazhen
+A1 Han,Xiaofeng
+A1 Tarjan,Robert,E.
+T1 An O (mlogn) O (mlogn)Time Algorithm for the Maximal Planar Subgraph Problem
+
+RT Journal Article
+ID 5402483
+A1 Tarjan,Robert
+A1 Ward,Julie
+A1 Zhang,Bin
+A1 Zhou,Yunhong
+A1 Mao,Jia
+T1 Balancing Applied to Maximum Network Flow Problems (Extended Abstract)
+
+RT Journal Article
+ID 10298336
+A1 Kaplan,Haim
+A1 S,Ron
+A1 Tarjant,Robert,E.
+T1 Faster and Simpler Algorithm for Sorting Signed Permutations by Reversals
+
+RT Journal Article
+ID 10620563
+A1 Tarjan,Robert,E.
+A1 Werneck,Renato,F.
+T1 Self-Adjusting Top Trees
+
+RT Book, Whole
+ID 47654966
+A1 Tarjan,Robert,E.
+T1 Problems in Data Structures and Algorithms
+
+RT Journal Article
+ID 11040509
+A1 Sen,Siddhartha
+A1 Tarjan,Robert,E.
+T1 Deletion Without Rebalancing in Balanced Binary Trees
+
+RT Journal Article
+ID 4471478
+A1 Haeupler,Bernhard
+A1 Tarjany,Robert,E.
+T1 Planarity Algorithms via PQ-Trees
+
+RT Journal Article
+ID 11926391
+A1 Tarjan,Robert,E.
+T1 EDGE-DISJOINT SPANNINGTREES, DOMINATORS, AND DEPTH-FIRST SEARCH
+
+RT Book, Whole
+ID 48804224
+A1 Tarjan,Robert
+T1 Theory vs. Practice in the Design and Analysis of Algorithms

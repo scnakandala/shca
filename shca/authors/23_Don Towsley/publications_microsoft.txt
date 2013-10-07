@@ -1,0 +1,8694 @@
+RT Journal Article
+ID 57014312
+A1 Wei,Wei
+A1 Jaiswal,Sharad
+A1 Kurose,Jim
+A1 Towsley,Don
+A1 Suh,Kyoungwon
+A1 Wang,Bing
+YR 2012
+T1 Identifying 802.11 Traffic From Passive Measurements Using Iterative Bayesian Inference
+JF IEEE/ACM Transactions on Networking
+VO 20
+SP 325
+OP 338
+IS 2
+
+RT Conference Proceedings
+ID 56965052
+A1 Sheikholeslami,Azadeh
+A1 Goeckel,Dennis
+A1 Pishro-Nik,Hossein
+A1 Towsley,Don
+YR 2012
+T1 Physical layer security from inter-session interference in large wireless networks
+SP 1179
+OP 1187
+
+RT Journal Article
+ID 57022562
+A1 Ding,Zhiguo
+A1 Leung,Kin,K.
+A1 Goeckel,Dennis,L.
+A1 Towsley,Don
+YR 2012
+T1 On the Application of Cooperative Transmission to Secrecy Communications
+JF IEEE Journal on Selected Areas in Communications
+VO 30
+SP 359
+OP 368
+IS 2
+
+RT Conference Proceedings
+ID 56965248
+A1 Chen,Yung-Chih
+A1 Kurose,Jim
+A1 Towsley,Don
+YR 2012
+T1 A mixed queueing network model of mobility in a campus wireless network
+SP 2656
+OP 2660
+
+RT Conference Proceedings
+ID 56965049
+A1 Capar,Cagatay
+A1 Goeckel,Dennis
+A1 Liu,Benyuan
+A1 Towsley,Don
+YR 2012
+T1 Secret communication in large wireless networks without eavesdropper location information
+SP 1152
+OP 1160
+
+RT Journal Article
+ID 56916276
+A1 Figueiredo,Daniel
+A1 Nain,Philippe
+A1 Ribeiro,Bruno
+A1 Silva,Edmundo,de,Souza,e
+A1 Towsley,Don
+YR 2012
+T1 Characterizing continuous time random walks on time varying graphs
+SP 307
+OP 318
+
+RT Conference Proceedings
+ID 56965368
+A1 Chau,Chi-Kin
+A1 Gibbens,Richard,J.
+A1 Towsley,Don
+YR 2012
+T1 Impact of directional transmission in large-scale multi-hop wireless ad hoc networks
+SP 522
+OP 530
+
+RT Conference Proceedings
+ID 56965200
+A1 Zhu,Ting
+A1 Mohaisen,Abedelaziz
+A1 Ping,Yi
+A1 Towsley,Don
+YR 2012
+T1 DEOS: Dynamic energy-oriented scheduling for sustainable wireless sensor networks
+SP 2363
+OP 2371
+
+RT Conference Proceedings
+ID 57002844
+A1 Basu,Prithwish
+A1 Guha,Saikat
+A1 Swami,Ananthram
+A1 Towsley,Don
+YR 2012
+T1 Percolation phenomena in networks under random dynamics
+
+RT Conference Proceedings
+ID 57002820
+A1 Ramakrishnan,K.,K.
+A1 Shorey,Rajeev
+A1 Towsley,Donald
+YR 2012
+T1 Message from the general chairs
+
+RT Conference Proceedings
+ID 56963948
+A1 Ribeiro,Bruno
+A1 Basu,Prithwish
+A1 Towsley,Don
+YR 2012
+T1 Multiple random walks to uncover short paths in power law networks
+
+RT Journal Article
+ID 39209459
+A1 Key,Peter,B.
+A1 Massoulié,Laurent
+A1 Towsley,Donald,F.
+YR 2011
+T1 Path selection and multipath congestion control
+JF Communications of The ACM
+VO 54
+SP 109
+OP 116
+IS 1
+
+RT Conference Proceedings
+ID 39282364
+A1 Capar,Cagatay
+A1 Goeckel,Dennis
+A1 Liu,Benyuan
+A1 Towsley,Donald,F.
+YR 2011
+T1 Cooperative jamming to improve the connectivity of the 1-D secrecy graph
+SP 1
+OP 6
+
+RT Conference Proceedings
+ID 51065744
+A1 Bash,Boulat,A.
+A1 Goeckel,Dennis
+A1 Towsley,Don
+YR 2011
+T1 Clustering in cooperative networks
+SP 486
+OP 490
+
+RT Journal Article
+ID 56946457
+A1 Ying,Lei
+A1 Srikant,R.
+A1 Towsley,Don
+A1 Liu,Shihuan
+YR 2011
+T1 Cluster-Based Back-Pressure Routing Algorithm
+JF IEEE/ACM Transactions on Networking
+VO 19
+SP 1773
+OP 1786
+IS 6
+
+RT Journal Article
+ID 51158008
+A1 Goeckel,Dennis
+A1 Vasudevan,Sudarshan
+A1 Towsley,Don
+A1 Adams,Stephan
+A1 Ding,Z.
+A1 Leung,K.
+YR 2011
+T1 Artificial Noise Generation from Cooperative Relays for Everlasting Secrecy in Two-Hop Wireless Networks
+JF IEEE Journal on Selected Areas in Communications
+VO 29
+SP 2067
+OP 2076
+IS 10
+
+RT Journal Article
+ID 51179634
+A1 Wei,Wei
+A1 Wang,Bing
+A1 Towsley,Don
+A1 Kurose,Jim
+YR 2011
+T1 Model-Based Identification of Dominant Congested Links
+JF IEEE/ACM Transactions on Networking
+VO 19
+SP 456
+OP 469
+IS 2
+
+RT Journal Article
+ID 56231232
+A1 Rao,Ashwin
+A1 Lim,Yeon-Sup
+A1 Barakat,Chadi
+A1 Legout,Arnaud
+A1 Towsley,Don
+A1 Dabbous,Walid
+YR 2011
+T1 Network Characteristics of Video Streaming Traffic
+SP 1
+OP 12
+
+RT Conference Proceedings
+ID 51065494
+A1 Wang,Pinghui
+A1 Guan,Xiaohong
+A1 Gong,Weibo
+A1 Towsley,Don
+YR 2011
+T1 A new virtual indexing method for measuring host connection degrees
+SP 156
+OP 160
+
+RT Conference Proceedings
+ID 51065643
+A1 Chau,Chi-Kin
+A1 Gibbens,Richard,J.
+A1 Hancock,Robert,E.
+A1 Towsley,Don
+YR 2011
+T1 Robust multipath routing in large wireless networks
+SP 271
+OP 275
+
+RT Journal Article
+ID 27615243
+A1 Liu,Benyuan
+A1 Dousse,Olivier
+A1 Nain,Philippe
+A1 Towsley,Donald,F.
+YR 2011
+T1 Dynamic Coverage of Mobile Sensor Networks
+JF Computing Research Repository
+VO abs/1101.0
+
+RT Journal Article
+ID 56905263
+A1 Ribeiro,Bruno
+A1 Figueiredo,Daniel
+A1 Silva,Edmundo,de,Souza,e
+A1 Towsley,Don
+YR 2011
+T1 Characterizing continuous-time random walks on dynamic networks
+JF Sigmetrics Performance Evaluation Review
+SP 343
+OP 344
+
+RT Journal Article
+ID 51184739
+A1 Ding,Zhiguo
+A1 Leung,Kin,K.
+A1 Goeckel,Dennis,L.
+A1 Towsley,Don
+YR 2011
+T1 Opportunistic Relaying for Secrecy Communications: Cooperative Jamming vs. Relay Chatting
+JF IEEE Transactions on Wireless Communications
+VO 10
+SP 1725
+OP 1729
+IS 6
+
+RT Conference Proceedings
+ID 56925918
+A1 Zhang,Honggang
+A1 Vasudevan,Sudarshan
+A1 Li,Ran
+A1 Towsley,Don
+YR 2011
+T1 A case for coalitions in data swarming systems
+
+RT Conference Proceedings
+ID 51063683
+A1 Zhao,Junzhou
+A1 Lui,John,C.,S.
+A1 Towsley,Don
+A1 Guan,Xiaohong
+A1 Zhou,Yadong
+YR 2011
+T1 Empirical analysis of the evolution of follower network: A case study on Douban
+
+RT Journal Article
+ID 56908612
+A1 Ribeiro,Bruno
+A1 Figueiredo,Daniel
+A1 Silva,Edmundo,de,Souza,e
+A1 Towsley,Don
+YR 2011
+T1 Characterizing continuous-time random walks on dynamic networks
+SP 151
+OP 152
+
+RT Conference Proceedings
+ID 51120510
+A1 Lim,Yeon-sup
+A1 Menasche,Daniel,S.
+A1 Ribeiro,Bruno
+A1 Towsley,Don
+A1 Basu,Prithwish
+YR 2011
+T1 Online estimating the k central nodes of a network
+
+RT Journal Article
+ID 39312891
+A1 Cai,Yan
+A1 Lee,Patrick,P.,C.
+A1 Gong,Weibo
+A1 Towsley,Donald,F.
+YR 2011
+T1 Analysis of traffic correlation attacks on router queues
+JF Computer Networks
+VO 55
+SP 734
+OP 747
+IS 3
+
+RT Journal Article
+ID 56919784
+A1 Menasché,Daniel,Sadoc
+A1 Rocha,Antonio,A.,de,A.
+A1 Towsley,Don
+A1 Leäo,Rosa,M.,Meri
+YR 2011
+T1 Implications of peer selection strategies by publishers on the performance of P2P swarming systems
+JF Sigmetrics Performance Evaluation Review
+SP 55
+OP 57
+
+RT Journal Article
+ID 39314845
+A1 Capar,Cagatay
+A1 Goeckel,Dennis
+A1 Towsley,Donald,F.
+YR 2011
+T1 Broadcast Analysis for Large Cooperative Wireless Networks
+JF Computing Research Repository
+VO abs/1104.3
+
+RT Conference Proceedings
+ID 56932073
+A1 Zhu,Ting
+A1 Xiao,Sheng
+A1 Ping,Yi
+A1 Towsley,Don
+A1 Gong,Weibo
+YR 2011
+T1 A secure energy routing mechanism for sharing renewable energy in smart microgrid
+
+RT Journal Article
+ID 56917822
+A1 Chen,Yung-Chih
+A1 Kurose,Jim
+A1 Towsley,Don
+YR 2011
+T1 A simple queueing network model of mobility in a campus wireless network
+SP 5
+OP 8
+
+RT Journal Article
+ID 49202495
+A1 Jiang,Bo
+A1 Cai,Yan
+A1 Towsley,Don
+YR 2011
+T1 On the resource utilization and traffic distribution of multipath transmission control
+JF Performance Evaluation
+VO 68
+SP 1175
+OP 1192
+IS 11
+
+RT Conference Proceedings
+ID 51063563
+A1 Zhu,Ting
+A1 Towsley,Don
+YR 2011
+T1 E2R: Energy efficient routing for multi-hop green wireless networks
+
+RT Conference Proceedings
+ID 51159468
+A1 Towsley,Don
+YR 2011
+T1 Keynote speaker
+
+RT Conference Proceedings
+ID 13276553
+A1 Xia,Cathy,H.
+A1 Liu,Zhen
+A1 Towsley,Donald,F.
+YR 2010
+T1 A unified modeling framework for distributed resource allocation of general fork and join processing networks
+SP 299
+OP 310
+
+RT Conference Proceedings
+ID 6874335
+A1 Xiao,Sheng
+A1 Gong,Weibo
+A1 Towsley,Donald,F.
+YR 2010
+T1 Secure Wireless Communication with Dynamic Secrets
+SP 1568
+OP 1576
+
+RT Conference Proceedings
+ID 50874765
+A1 Vasudevan,Sudarshan
+A1 Adams,Stephan
+A1 Goeckel,Dennis
+A1 Ding,Zhiguo
+A1 Towsley,Donald
+A1 Leung,Kin
+YR 2010
+T1 Multi-user diversity for secrecy in wireless networks
+
+RT Conference Proceedings
+ID 39236425
+A1 Vasudevan,Sudarshan
+A1 Goeckel,Dennis
+A1 Towsley,Donald,F.
+YR 2010
+T1 Security-capacity trade-off in large wireless networks using keyless secrecy
+SP 21
+OP 30
+
+RT Journal Article
+ID 13325191
+A1 Ribeiro,Bruno,F.
+A1 Towsley,Donald,F.
+YR 2010
+T1 Estimating and Sampling Graphs with Multidimensional Random Walks
+JF Computing Research Repository
+VO abs/1002.1
+SP 390
+OP 403
+
+RT Journal Article
+ID 39326982
+A1 Gauvin,William
+A1 Ribeiro,Bruno,F.
+A1 Towsley,Donald,F.
+A1 Liu,Benyuan
+A1 Wang,Jie
+YR 2010
+T1 Measurement and gender-specific analysis of user publishing characteristics on MySpace
+JF IEEE Network
+VO 24
+SP 38
+OP 43
+IS 5
+
+RT Journal Article
+ID 13326762
+A1 Menasché,Daniel,S.
+A1 Rocha,Antonio,Augusto,de,Aragão
+A1 Silva,Edmundo,A.,de,Souza,e
+A1 Leão,Rosa,Maria,Meri
+A1 Towsley,Donald,F.
+A1 Venkataramani,Arun
+YR 2010
+T1 Estimating Self-Sustainability in Peer-to-Peer Swarming Systems
+JF Computing Research Repository
+VO abs/1004.0
+
+RT Conference Proceedings
+ID 13668691
+A1 Menasché,Daniel,Sadoc
+A1 Massoulié,Laurent
+A1 Towsley,Donald,F.
+YR 2010
+T1 Reciprocity and Barter in Peer-to-Peer Systems
+SP 1505
+OP 1513
+
+RT Journal Article
+ID 39330944
+A1 Hay,Michael
+A1 Miklau,Gerome
+A1 Jensen,David
+A1 Towsley,Donald,F.
+A1 Li,Chao
+YR 2010
+T1 Resisting structural re-identification in anonymized social networks
+JF The Vldb Journal
+VO 19
+SP 797
+OP 823
+IS 6
+
+RT Conference Proceedings
+ID 13668467
+A1 Khalili,Ramin
+A1 Goeckel,Dennis
+A1 Towsley,Donald,F.
+A1 Swami,Ananthram
+YR 2010
+T1 Neighbor Discovery with Reception Status Feedback to Transmitters
+SP 2375
+OP 2383
+
+RT Conference Proceedings
+ID 13668541
+A1 Rosensweig,Elisha,J.
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2010
+T1 Approximate Models for General Cache Networks
+SP 1100
+OP 1108
+
+RT Book, Whole
+ID 39280296
+A1 Avrachenkov,Konstantin
+A1 Ribeiro,Bruno,F.
+A1 Towsley,Donald,F.
+YR 2010
+T1 Improving Random Walk Estimation Accuracy with Uniform Restarts
+SP 98
+OP 109
+
+RT Conference Proceedings
+ID 50883513
+A1 Ribeiro,Bruno
+A1 Gauvin,William
+A1 Liu,Benyuan
+A1 Towsley,D.
+YR 2010
+T1 On MySpace Account Spans and Double Pareto-Like Distribution of Friends
+
+RT Conference Proceedings
+ID 13666241
+A1 Wei,Wei
+A1 He,Ting
+A1 Bisdikian,Chatschik
+A1 Goeckel,Dennis
+A1 Towsley,Donald,F.
+YR 2010
+T1 Target tracking with packet delays and losses - QoI amid latencies and missing data
+SP 93
+OP 98
+
+RT Conference Proceedings
+ID 13268097
+A1 Chen,Yung-Chih
+A1 Rosensweig,Elisha,J.
+A1 Kurose,Jim
+A1 Towsley,Donald,F.
+YR 2010
+T1 Group detection in mobility traces
+SP 875
+OP 879
+
+RT Journal Article
+ID 39334959
+A1 Ding,Zhiguo
+A1 Leung,Kin,K.
+A1 Goeckel,Dennis,L.
+A1 Towsley,Donald,F.
+YR 2010
+T1 Cooperative Transmission Protocols for Wireless Broadcast Channels
+JF IEEE Transactions on Wireless Communications
+VO 9
+SP 3701
+OP 3713
+IS 12
+
+RT Conference Proceedings
+ID 6723730
+A1 Xia,Cathy,H.
+A1 Liu,Zhen
+A1 Towsley,Donald,F.
+YR 2010
+T1 Distributed Resource Allocation for Synchronous Fork and Join Processing Networks
+SP 446
+OP 450
+
+RT Journal Article
+ID 14543998
+A1 Menasché,Daniel,S.
+A1 Rocha,Antonio,Augusto,de,Aragão
+A1 Leão,Rosa,Maria,Meri
+A1 Towsley,Donald,F.
+A1 Venkataramani,Arun
+YR 2010
+T1 Estimating self-sustainability in peer-to-peer swarming systems
+JF Performance Evaluation
+VO 67
+SP 1243
+OP 1258
+IS 11
+
+RT Journal Article
+ID 13561598
+A1 Lu,Xiaofeng
+A1 Hui,Pan
+A1 Towsley,Don
+A1 Pu,Juahua
+A1 Xiong,Zhang
+YR 2010
+T1 Anti-localization anonymous routing for Delay Tolerant Network
+JF Computer Networks
+VO 54
+SP 1899
+OP 1910
+IS 11
+
+RT Journal Article
+ID 26732118
+A1 Lu,Xiaofeng
+A1 Wicker,Fletcher,D.
+A1 Towsley,Don
+A1 Xiong,Zhang
+A1 Lio’,Pietro
+YR 2010
+T1 Detection Probability Estimation of Directional Antennas and OmniDirectional Antennas
+JF Wireless Personal Communications
+VO 55
+SP 51
+OP 63
+IS 1
+
+RT Journal Article
+ID 14371919
+A1 Eltoweissy,Mohamed,Y.
+A1 Du,David,Hung-Chang
+A1 Gerla,Mario
+A1 Giordano,Silvia
+A1 Gouda,Mohamed,G.
+A1 Schulzrinne,Henning
+A1 Youssef,Moustafa
+A1 Towsley,Donald,F.
+YR 2010
+T1 Mission critical networking [Guest editorial]
+JF IEEE Journal on Selected Areas in Communications
+VO 28
+SP 625
+OP 629
+IS 5
+
+RT Conference Proceedings
+ID 13759712
+A1 Seetharam,Anand
+A1 Somasundaram,Manikandan
+A1 Towsley,Donald,F.
+A1 Kurose,Jim
+A1 Shenoy,Prashant,J.
+YR 2010
+T1 Shipping to streaming: is this shift green?
+SP 61
+OP 68
+
+RT Journal Article
+ID 14366895
+A1 Ding,Zhiguo
+A1 Leung,Kin,K.
+A1 Goeckel,Dennis,L.
+A1 Towsley,Donald,F.
+YR 2010
+T1 A Relay Assisted Cooperative Transmission Protocol for Wireless Multiple Access Systems
+JF IEEE Transactions on Communications
+VO 58
+SP 2425
+OP 2435
+IS 8
+
+RT Conference Proceedings
+ID 13276579
+A1 Tan,Jian
+A1 Wei,Wei
+A1 Jiang,Bo
+A1 Shroff,Ness
+A1 Towsley,Donald,F.
+YR 2010
+T1 Can multipath mitigate power law delays?: effects of parallelism on tail performance
+SP 381
+OP 382
+
+RT Journal Article
+ID 14418640
+A1 Tan,Jian
+A1 Wei,Wei
+A1 Jiang,Bo
+A1 Shroff,Ness
+A1 Towsley,Don
+YR 2010
+T1 Can multipath mitigate power law delays?: effects of parallelism on tail performance
+JF Sigmetrics Performance Evaluation Review
+VO 38
+SP 381
+OP 382
+IS 1
+
+RT Conference Proceedings
+ID 51003878
+A1 He,Ting
+A1 Bisdikian,Chatschik
+A1 Kaplan,Lance
+A1 Wei,Wei
+A1 Towsley,Don
+YR 2010
+T1 Multi-target tracking using proximity sensors
+SP 1777
+OP 1782
+
+RT Conference Proceedings
+ID 50959149
+A1 Tan,Jian
+A1 Wei,Wei
+A1 Jiang,Bo
+A1 Shroff,Ness
+A1 Towsley,Don
+YR 2010
+T1 Can multipath mitigate power law delays? - Effects of parallelism on tail performance
+
+RT Journal Article
+ID 14418663
+A1 Xia,Cathy,H.
+A1 Liu,Zhen
+A1 Towsley,Don
+YR 2010
+T1 A unified modeling framework for distributed resource allocation of general fork and join processing networks
+JF Sigmetrics Performance Evaluation Review
+VO 38
+SP 299
+OP 310
+IS 1
+
+RT Conference Proceedings
+ID 51031363
+A1 Xiao,Sheng
+A1 Gong,Weibo
+A1 Towsley,Don
+YR 2010
+T1 From uncertainty to secrecy: A dynamic approach
+SP 37
+OP 41
+
+RT Journal Article
+ID 14581324
+A1 Lu,Xiaofeng
+A1 Hui,Pan
+A1 Towsley,Don
+A1 Pu,Juhua
+A1 Xiong,Zhang
+YR 2010
+T1 LOPP: A Location Privacy Protected Anonymous Routing Protocol for Disruption Tolerant Network
+JF Ieice Transactions
+VO 93-D
+SP 503
+OP 509
+IS 3
+
+RT Journal Article
+ID 50904151
+A1 Ding,Zhiguo
+A1 Leung,Kin,K.
+A1 Goeckel,Dennis,L.
+A1 Towsley,Don
+YR 2010
+T1 On the Application of Cooperative Transmission to Wireless Broadcast Channels
+SP 1
+OP 5
+
+RT Journal Article
+ID 39239042
+A1 Menasché,Daniel,S.
+A1 Goeckel,Dennis
+A1 Towsley,Don
+YR 2010
+T1 Optimal forwarding strategies for the relay channel under average delay constraints
+SP 1
+OP 4
+
+RT Journal Article
+ID 5484284
+A1 Ding,Zhiguo
+A1 Leung,Kin,K.
+A1 Goeckel,Dennis,L.
+A1 Towsley,Donald,F.
+YR 2009
+T1 On the study of network coding with diversity
+JF IEEE Transactions on Wireless Communications
+VO 8
+SP 1247
+OP 1259
+IS 3
+
+RT Conference Proceedings
+ID 4886020
+A1 Menasché,Daniel,Sadoc
+A1 Rocha,Antonio,Augusto,de,Aragão
+A1 Li,Bin
+A1 Towsley,Donald,F.
+A1 Venkataramani,Arun
+YR 2009
+T1 Content availability and bundling in swarming systems
+SP 121
+OP 132
+
+RT Conference Proceedings
+ID 5002126
+A1 Vasudevan,Sudarshan
+A1 Towsley,Donald,F.
+A1 Goeckel,Dennis
+A1 Khalili,Ramin
+YR 2009
+T1 Neighbor discovery in wireless networks and the coupon collector's problem
+SP 181
+OP 192
+
+RT Journal Article
+ID 4771364
+A1 Ghaderi,Majid
+A1 Sridharan,Ashwin
+A1 Zang,Hui
+A1 Towsley,Donald,F.
+A1 Cruz,Rene,L.
+YR 2009
+T1 TCP-Aware Channel Allocation in CDMA Networks
+JF IEEE Transactions on Mobile Computing
+VO 8
+SP 14
+OP 28
+IS 1
+
+RT Journal Article
+ID 6085722
+A1 Wang,Bing
+A1 Wei,Wei
+A1 Guo,Zheng
+A1 Towsley,Donald,F.
+YR 2009
+T1 Multipath live streaming via TCP: Scheme, performance and benefits
+JF ACM Transactions on Multimedia Computing, Communications, and Applications
+VO 5
+SP 1
+OP 23
+IS 3
+
+RT Journal Article
+ID 6081283
+A1 Liu,Junning
+A1 Goeckel,Dennis
+A1 Towsley,Donald,F.
+YR 2009
+T1 Bounds on the throughput gain of network coding in unicast and multicast wireless networks
+JF IEEE Journal on Selected Areas in Communications
+VO 27
+SP 582
+OP 592
+IS 5
+
+RT Conference Proceedings
+ID 4893274
+A1 Menasche,Daniel,Sadoc
+A1 Neglia,Giovanni
+A1 Towsley,Don
+A1 Zilberstein,Shlomo
+YR 2009
+T1 Strategic reasoning about bundling in swarming systems
+
+RT Journal Article
+ID 6081306
+A1 Liu,Benyuan
+A1 Westphal,Cédric
+A1 Towsley,Donald,F.
+A1 Wang,Liaoruo
+A1 Goeckel,Dennis
+YR 2009
+T1 Asymptotic Connectivity Properties of Cooperative Wireless Ad Hoc Networks
+JF IEEE Journal on Selected Areas in Communications
+VO 27
+SP 1226
+OP 1237
+IS 7
+
+RT Journal Article
+ID 10973836
+A1 Menasche,Daniel,Sadoc
+A1 Rocha,Antonio,Augusto,de,Aragão
+A1 Li,Bin
+A1 Towsley,Donald,F.
+A1 Venkataramani,Arun
+YR 2009
+T1 Modeling content availability in peer-to-peer swarming systems
+JF Sigmetrics Performance Evaluation Review
+VO 37
+SP 87
+OP 88
+IS 2
+
+RT Conference Proceedings
+ID 6436001
+A1 Subramanian,Anand,Prabhu
+A1 Lundgren,Henrik
+A1 Salonidis,Theodoros
+A1 Towsley,Don
+YR 2009
+T1 Topology Control Protocol Using Sectorized Antennas in Dense 802.11 Wireless Networks
+SP 1
+OP 10
+
+RT Journal Article
+ID 4771394
+A1 Wei,Wei
+A1 Suh,Kyoungwon
+A1 Wang,Bing
+A1 Gu,Yu
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+A1 Jaiswal,Sharad
+YR 2009
+T1 Passive Online Detection of 802.11 Traffic Using Sequential Hypothesis Testing with TCP ACK-Pairs
+JF IEEE Transactions on Mobile Computing
+VO 8
+SP 398
+OP 412
+IS 3
+
+RT Journal Article
+ID 6081294
+A1 Haenggi,Martin
+A1 Andrews,Jeffrey,G.
+A1 Baccelli,François
+A1 Dousse,Olivier
+A1 Franceschetti,Massimo
+A1 Towsley,Donald,F.
+YR 2009
+T1 Guest Editorial: Geometry and Random Graphs for the Analysis and Design of Wireless Networks
+JF IEEE Journal on Selected Areas in Communications
+VO 27
+SP 1025
+OP 1028
+IS 7
+
+RT Journal Article
+ID 5582614
+A1 Miklau,Gerome
+A1 Hay,Michael
+A1 Jensen,David
+A1 Towsley,Don
+A1 Rastogi,Vibhor
+A1 Suciu,Dan
+YR 2009
+T1 Analyzing Private Network Data Using Output Perturbation
+
+RT Conference Proceedings
+ID 50781183
+A1 Ding,Zhiguo
+A1 Goeckel,D.,L.
+A1 Leung,Kin
+A1 Towsley,Don
+YR 2009
+T1 Application of joint source-relay scheduling to cooperative multiple access channels
+
+RT Conference Proceedings
+ID 5328655
+A1 Menasche,Daniel,Sadoc
+A1 Rocha,A.,A.,de,Aragao
+A1 Li,Bin
+A1 Towsley,D.
+A1 Venkataramani,A.
+YR 2009
+T1 Modeling Unavailability in Peer-to-Peer Systems
+
+RT Journal Article
+ID 39356413
+A1 Lu,Xiaofeng
+A1 Towsley,Don
+A1 Wicker,Fletcher
+YR 2009
+T1 Minimizing Detection Probability Routing in Ad Hoc Networks Using Directional Antennas
+JF Eurasip Journal on Wireless Communications and Networking
+VO 2009
+SP 1
+OP 9
+
+RT Journal Article
+ID 4439998
+A1 Hay,Michael
+A1 Miklau,Gerome
+A1 Jensen,David
+A1 Towsley,Donald,F.
+A1 Weis,Philipp
+YR 2008
+T1 Resisting structural re-identification in anonymized social networks
+JF Proceedings of The Vldb Endowment
+VO 1
+SP 102
+OP 114
+IS 1
+
+RT Conference Proceedings
+ID 4722396
+A1 Ghaderi,Majid
+A1 Towsley,Donald,F.
+A1 Kurose,James,F.
+YR 2008
+T1 Reliability Gain of Network Coding in Lossy Wireless Networks
+SP 2171
+OP 2179
+
+RT Conference Proceedings
+ID 4303051
+A1 Banerjee,Nilanjan
+A1 Corner,Mark,D.
+A1 Towsley,Donald,F.
+A1 Levine,Brian,Neil
+YR 2008
+T1 Relays, Base Stations, and Meshes: Enhancing Mobile Networks with Infrastructure
+SP 81
+OP 91
+
+RT Journal Article
+ID 4416056
+A1 Wang,Bing
+A1 Kurose,Jim
+A1 Shenoy,Prashant,J.
+A1 Towsley,Donald,F.
+YR 2008
+T1 Multimedia streaming via TCP: An analytic performance study
+JF ACM Transactions on Multimedia Computing, Communications, and Applications
+VO 4
+SP 1
+OP 22
+IS 2
+
+RT Conference Proceedings
+ID 4727134
+A1 Ribeiro,Bruno,F.
+A1 Chen,Weifeng
+A1 Miklau,Gerome
+A1 Towsley,Donald,F.
+YR 2008
+T1 Analyzing Privacy in Enterprise Packet Trace Anonymization
+
+RT Conference Proceedings
+ID 4506241
+A1 Huang,Yong
+A1 Ghaderi,Majid
+A1 Towsley,Donald,F.
+A1 Gong,Weibo
+YR 2008
+T1 TCP Performance in Coded Wireless Mesh Networks
+SP 179
+OP 187
+
+RT Conference Proceedings
+ID 4722531
+A1 Ying,Lei
+A1 Srikant,R.
+A1 Towsley,Donald,F.
+YR 2008
+T1 Cluster-Based Back-Pressure Routing Algorithm
+SP 484
+OP 492
+
+RT Conference Proceedings
+ID 5158958
+A1 Liu,Benyuan
+A1 Towsley,D.
+A1 Swami,A.
+YR 2008
+T1 Data gathering capacity of large scale multihop wireless networks
+
+RT Conference Proceedings
+ID 4722361
+A1 Ying,Lei
+A1 Liu,Zhen
+A1 Towsley,Donald,F.
+A1 Xia,Cathy,H.
+YR 2008
+T1 Distributed Operator Placement and Data Caching in Large-Scale Sensor Networks
+SP 977
+OP 985
+
+RT Conference Proceedings
+ID 4303258
+A1 Wang,Liaoruo
+A1 Liu,Benyuan
+A1 Goeckel,Dennis
+A1 Towsley,Donald,F.
+A1 Westphal,Cédric
+YR 2008
+T1 Connectivity in cooperative wireless ad hoc networks
+SP 121
+OP 130
+
+RT Journal Article
+ID 4364700
+A1 Guo,Yang
+A1 Suh,Kyoungwon
+A1 Kurose,Jim
+A1 Towsley,Donald,F.
+YR 2008
+T1 DirectStream: A directory-based peer-to-peer video streaming service
+JF Computer Communications
+VO 31
+SP 520
+OP 536
+IS 3
+
+RT Conference Proceedings
+ID 5637416
+A1 Khalili,Ramin
+A1 Ghaderi,Majid
+A1 Kurose,Jim
+A1 Towsley,Don
+YR 2008
+T1 On the performance of Random Linear Network Coding in relay networks
+
+RT Journal Article
+ID 4404483
+A1 Garetto,Michele
+A1 Towsley,Donald,F.
+YR 2008
+T1 An efficient technique to analyze the impact of bursty TCP traffic in wide-area networks
+JF Performance Evaluation
+VO 65
+SP 181
+OP 202
+IS 2
+
+RT Conference Proceedings
+ID 4286958
+A1 Ribeiro,Bruno,F.
+A1 Ye,Tao
+A1 Towsley,Donald,F.
+YR 2008
+T1 A resource-minimalist flow size histogram estimator
+SP 285
+OP 290
+
+RT Conference Proceedings
+ID 13640602
+A1 Lu,Xiaofeng
+A1 Wicker,Fletcher
+A1 Lio,Pietro
+A1 Towsley,Don
+YR 2008
+T1 Security estimation model with directional antennas
+
+RT Conference Proceedings
+ID 14104860
+A1 Zhang,Honggang
+A1 DeCleene,Brian
+A1 Kurose,Jim
+A1 Towsley,Don
+YR 2008
+T1 Bootstrapping deny-by-default access control for mobile ad-hoc networks
+
+RT Journal Article
+ID 4766979
+A1 Zhang,Honggang
+A1 Neglia,Giovanni
+A1 Towsley,Donald,F.
+A1 Presti,Giuseppe,Lo
+YR 2008
+T1 Stability and Efficiency of Unstructured File Sharing Networks
+JF IEEE Journal on Selected Areas in Communications
+VO 26
+SP 1284
+OP 1294
+IS 7
+
+RT Conference Proceedings
+ID 4308817
+A1 Towsley,Donald,F.
+YR 2008
+T1 The internet is flat: a brief history of networking in the next ten years
+SP 11
+OP 12
+
+RT Conference Proceedings
+ID 4316092
+A1 Towsley,Donald,F.
+YR 2008
+T1 Modeling the internet is fun!: but can you make a living?
+SP 1
+OP 2
+
+RT Journal Article
+ID 14416723
+A1 Towsley,Don
+YR 2008
+T1 Modeling the internet is fun!: but can you make a living?
+JF Computer Communication Review
+VO 38
+SP 1
+OP 2
+IS 4
+
+RT Journal Article
+ID 57394001
+A1 Wang,Bing
+A1 Kurose,Jim
+A1 Shenoy,Prashant
+A1 Towsley,Don
+YR 2008
+T1 Multimedia streaming via TCP: An analytic performance study
+VO 4
+
+RT Journal Article
+ID 4404465
+A1 Wu,Yujing
+A1 Gong,Weibo
+A1 Towsley,Donald,F.
+YR 2008
+T1 Decomposition properties in fluid queues
+JF Performance Evaluation
+VO 65
+SP 82
+OP 98
+IS 1
+
+RT Conference Proceedings
+ID 13680316
+A1 Ding,Zhiguo
+A1 Leung,Kin,K.
+A1 Goeckel,Dennis,L.
+A1 Towsley,Don
+YR 2008
+T1 A new form of network coded cooperative transmission for multiple access channels
+
+RT Conference Proceedings
+ID 50735095
+A1 Hardwick,Kery
+A1 Goeckel,Dennis
+A1 Towsley,Don
+YR 2008
+T1 Modeling distributed beamforming in wireless networks
+
+RT Conference Proceedings
+ID 6047790
+A1 Towsley,Donald,F.
+YR 2008
+T1 Mobility Models for Wireless Networks: Challenges, Pitfalls, and Successes
+SP 3
+
+RT Journal Article
+ID 6252775
+A1 Towsley,Don
+A1 Twigg,Andrew
+YR 2008
+T1 Rate-optimal decentralized broadcasting: the wireless case
+
+RT Conference Proceedings
+ID 50657364
+A1 Towsley,Don
+YR 2008
+T1 Mobility Models for Wireless Networks: Challenges, Pitfalls, and Successes
+SP 3
+OP 3
+
+RT Conference Proceedings
+ID 4302906
+A1 Zhang,Xiaolan
+A1 Kurose,Jim
+A1 Levine,Brian,Neil
+A1 Towsley,Donald,F.
+A1 Zhang,Honggang
+YR 2007
+T1 Study of a Bus-Based Disruption Tolerant Network: Mobility Modeling and Impact on Routing
+SP 195
+OP 206
+
+RT Conference Proceedings
+ID 2447800
+A1 Liu,Junning
+A1 Goeckel,Dennis
+A1 Towsley,Donald,F.
+YR 2007
+T1 Bounds on the Gain of Network Coding and Broadcasting in Wireless Networks
+SP 724
+OP 732
+
+RT Journal Article
+ID 4399496
+A1 Suh,Kyoungwon
+A1 Diot,Christophe
+A1 Kurose,Jim
+A1 Massoulié,Laurent
+A1 Neumann,Christoph
+A1 Towsley,Donald,F.
+A1 Varvello,Matteo
+YR 2007
+T1 Push-to-Peer Video-on-Demand System: Design and Evaluation
+JF IEEE Journal on Selected Areas in Communications
+VO 25
+SP 1706
+OP 1716
+IS 9
+
+RT Conference Proceedings
+ID 2447594
+A1 Neglia,Giovanni
+A1 Reina,Giuseppe
+A1 Zhang,Honggang
+A1 Towsley,Donald,F.
+A1 Venkataramani,Arun
+A1 Danaher,John,S.
+YR 2007
+T1 Availability in BitTorrent Systems
+SP 2216
+OP 2224
+
+RT Conference Proceedings
+ID 4303277
+A1 Liu,Benyuan
+A1 Thiran,Patrick
+A1 Towsley,Donald,F.
+YR 2007
+T1 Capacity of a wireless ad hoc network with infrastructure
+SP 239
+OP 246
+
+RT Conference Proceedings
+ID 2447558
+A1 Key,Peter,B.
+A1 Massoulié,Laurent
+A1 Towsley,Donald,F.
+YR 2007
+T1 Path Selection and Multipath Congestion Control
+SP 143
+OP 151
+
+RT Journal Article
+ID 4412180
+A1 Zou,Cliff,Changchun
+A1 Towsley,Donald,F.
+A1 Gong,Weibo
+YR 2007
+T1 Modeling and Simulation Study of the Propagation and Defense of Internet E-mail Worms
+JF IEEE Transactions on Dependable and Secure Computing
+VO 4
+SP 105
+OP 118
+IS 2
+
+RT Conference Proceedings
+ID 4286896
+A1 Wei,Wei
+A1 Suh,Kyoungwon
+A1 Wang,Bing
+A1 Gu,Yu
+A1 Kurose,Jim
+A1 Towsley,Donald,F.
+YR 2007
+T1 Passive online rogue access point detection using sequential hypothesis testing with TCP ACK-pairs
+SP 365
+OP 378
+
+RT Conference Proceedings
+ID 4345439
+A1 Wang,Bing
+A1 Wei,Wei
+A1 Guo,Zheng
+A1 Towsley,Donald,F.
+YR 2007
+T1 Multipath live streaming via TCP: scheme, performance and benefits
+SP 11
+OP 12
+
+RT Journal Article
+ID 4416170
+A1 Ji,Ping
+A1 Ge,Zihui
+A1 Kurose,Jim
+A1 Towsley,Donald,F.
+YR 2007
+T1 A comparison of hard-state and soft-state signaling protocols
+JF IEEE/ACM Transactions on Networking
+VO 15
+SP 281
+OP 294
+IS 2
+
+RT Conference Proceedings
+ID 2447670
+A1 Gu,Yu
+A1 Towsley,Donald,F.
+A1 Hollot,C.,V.
+A1 Zhang,Honggang
+YR 2007
+T1 Congestion Control for Small Buffer High Speed Networks
+SP 1037
+OP 1045
+
+RT Conference Proceedings
+ID 4551768
+A1 Ghaderi,Majid
+A1 Towsley,Don
+A1 Kurose,Jim
+YR 2007
+T1 Network Coding Performance for Reliable Multicast
+
+RT Journal Article
+ID 2510619
+A1 Guo,Yang
+A1 Suh,Kyoungwon
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2007
+T1 P2Cast: peer-to-peer patching for video on demand service
+JF Multimedia Tools and Applications
+VO 33
+SP 109
+OP 129
+IS 2
+
+RT Conference Proceedings
+ID 2447491
+A1 Zhang,Honggang
+A1 Neglia,Giovanni
+A1 Towsley,Donald,F.
+A1 Presti,Giuseppe,Lo
+YR 2007
+T1 On Unstructured File Sharing Networks
+SP 2189
+OP 2197
+
+RT Journal Article
+ID 4416201
+A1 Jaiswal,Sharad
+A1 Iannaccone,Gianluca
+A1 Diot,Christophe
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2007
+T1 Measurement and classification of out-of-sequence packets in a tier-1 IP backbone
+JF IEEE/ACM Transactions on Networking
+VO 15
+SP 54
+OP 66
+IS 1
+
+RT Book, Whole
+ID 4339614
+A1 Neglia,Giovanni
+A1 Presti,Giuseppe,Lo
+A1 Zhang,Honggang
+A1 Towsley,Donald,F.
+YR 2007
+T1 A Network Formation Game Approach to Study BitTorrent Tit-for-Tat
+SP 13
+OP 22
+
+RT Conference Proceedings
+ID 4884234
+A1 Hao,Yonggang
+A1 Goeckel,Dennis
+A1 Dingt,Zhiguo
+A1 Towsley,Don
+A1 Leung,Kin,K.
+YR 2007
+T1 Achievable Rates for Network Coding on the Exchange Channel
+
+RT Conference Proceedings
+ID 2436693
+A1 Xia,Cathy,H.
+A1 Towsley,Donald,F.
+A1 Zhang,Chun
+YR 2007
+T1 Distributed Resource Management and Admission Control of Stream Processing Systems with Max Utility
+SP 68
+OP 68
+
+RT Conference Proceedings
+ID 10620484
+A1 Liu,Junning
+A1 Liu,Zhen
+A1 Towsley,Don
+A1 Xia,Cathy,H.
+YR 2007
+T1 Maximizing the Data Utility of a Data Archiving & Querying System through Joint Coding and Scheduling
+
+RT Book, Whole
+ID 4304644
+A1 Ghaderi,Majid
+A1 Sridharan,Ashwin
+A1 Zang,Hui
+A1 Towsley,Donald,F.
+A1 Cruz,Rene,L.
+YR 2007
+T1 Modeling TCP in a Multi-rate Multi-user CDMA System
+SP 403
+OP 414
+
+RT Journal Article
+ID 4404417
+A1 Wang,Bing
+A1 Wei,Wei
+A1 Kurose,Jim
+A1 Towsley,Donald,F.
+A1 Pattipati,Krishna,R.
+A1 Guo,Zheng
+A1 Peng,Zheng
+YR 2007
+T1 Application-layer multipath data transfer via TCP: Schemes and performance tradeoffs
+JF Performance Evaluation
+VO 64
+SP 965
+OP 977
+IS 9-12
+
+RT Conference Proceedings
+ID 4114754
+A1 Key,Peter
+A1 Massoulié,Laurent
+A1 Towsley,Don
+YR 2007
+T1 Multipath Routing, Congestion Control and Load Balancing
+
+RT Conference Proceedings
+ID 2449348
+A1 Liu,Junning
+A1 Liu,Zhen
+A1 Towsley,Donald,F.
+A1 Xia,Cathy,H.
+YR 2007
+T1 Maximizing the data utility of a data archiving &amp; querying system through joint coding and scheduling
+SP 244
+OP 253
+
+RT Conference Proceedings
+ID 5186115
+A1 Huang,Yong
+A1 Liu,Yong
+A1 Gong,Weibo
+A1 Towsley,Don
+YR 2007
+T1 Two-level stochastic fluid tandem queuing model for burst impact analysis
+SP 3042
+OP 3047
+
+RT Journal Article
+ID 6206018
+A1 Zhang,Xiaolan
+A1 Kurose,Jim
+A1 Levine,Brian
+A1 Towsley,Don
+A1 Zhang,Honggang
+YR 2007
+T1 Modeling of a Bus-based Disruption Tolerant Network Trace
+
+RT Conference Proceedings
+ID 2472631
+A1 Xia,Cathy,H.
+A1 Liu,Zhen
+A1 Towsley,Donald,F.
+A1 Lelarge,Marc
+YR 2007
+T1 Scalability of fork/join queueing networks with blocking
+SP 133
+OP 144
+
+RT Conference Proceedings
+ID 4114753
+A1 Key,Peter
+A1 Massoulie,Laurent
+A1 Towsley,Don
+YR 2007
+T1 Multipath Routing, Congestion Control and Dynamic Load Balancing
+VO 4
+
+RT Journal Article
+ID 6768292
+A1 Jaiswal,Sharad
+A1 Iannaccone,Gianluca
+A1 Diot,Christophe
+A1 Kurose,Jim
+A1 Towsley,Don
+YR 2007
+T1 Measurement and classification of out-of-sequence packets in a tier-1 IP backbone
+JF IEEE/ACM Transactions on Networking
+VO 15
+SP 54
+OP 66
+IS 1
+
+RT Conference Proceedings
+ID 2472622
+A1 Smirni,Evgenia
+A1 Darema,Frederica
+A1 Greenberg,Albert,G.
+A1 Hoisie,Adolfy
+A1 Towsley,Donald,F.
+YR 2007
+T1 Future directions in performance evaluation research
+SP 251
+OP 252
+
+RT Journal Article
+ID 39249438
+A1 Ji,Ping
+A1 Ge,Zihui
+A1 Kurose,Jim
+A1 Towsley,Don
+YR 2007
+T1 A comparison of hard-state and soft-state signaling protocols
+JF IEEE/ACM Transactions on Networking
+VO 15
+SP 281
+OP 294
+IS 2
+
+RT Journal Article
+ID 14418447
+A1 Smirni,Evgenia
+A1 Darema,Frederica
+A1 Greenberg,Albert
+A1 Hoisie,Adolfy
+A1 Towsley,Don
+YR 2007
+T1 Future directions in performance evaluation research
+JF Sigmetrics Performance Evaluation Review
+VO 35
+SP 251
+OP 252
+IS 1
+
+RT Journal Article
+ID 14418436
+A1 Xia,Cathy,H.
+A1 Liu,Zhen
+A1 Towsley,Don
+A1 Lelarge,Marc
+YR 2007
+T1 Scalability of fork/join queueing networks with blocking
+JF Sigmetrics Performance Evaluation Review
+VO 35
+SP 133
+OP 144
+IS 1
+
+RT Book, Whole
+ID 1857881
+A1 Zhang,Xiaolan
+A1 Neglia,Giovanni
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2006
+T1 Performance Modeling of Epidemic Routing
+JF Computer Networks
+SP 827
+OP 839
+
+RT Journal Article
+ID 2517469
+A1 Han,Huaizhong
+A1 Shakkottai,Srinivas
+A1 Hollot,C.,V.
+A1 Srikant,R.
+A1 Towsley,Donald,F.
+YR 2006
+T1 Multipath TCP: a joint congestion control and routing scheme to exploit path diversity in the internet
+JF IEEE/ACM Transactions on Networking
+VO 16
+SP 1260
+OP 1271
+IS 6
+
+RT Journal Article
+ID 2512602
+A1 Zou,Cliff,Changchun
+A1 Towsley,Donald,F.
+A1 Gong,Weibo
+YR 2006
+T1 On the performance of Internet worm scanning strategies
+JF Performance Evaluation
+VO 63
+SP 700
+OP 723
+IS 7
+
+RT Conference Proceedings
+ID 2463981
+A1 Liu,Junning
+A1 Adler,Micah
+A1 Towsley,Donald,F.
+A1 Zhang,Chun
+YR 2006
+T1 On optimal communication cost for gathering correlated data through wireless sensor networks
+SP 310
+OP 321
+
+RT Conference Proceedings
+ID 3498971
+A1 Zhang,Xiaolan
+A1 Neglia,Giovanni
+A1 Kurose,Jim
+A1 Towsley,Don
+YR 2006
+T1 On the Benefits of Random Linear Coding for Unicast Applications in Disruption Tolerant Networks
+
+RT Conference Proceedings
+ID 2448046
+A1 Suh,Kyoungwon
+A1 Figueiredo,Daniel,R.
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2006
+T1 Characterizing and Detecting Skype-Relayed Traffic
+SP 1
+OP 12
+
+RT Conference Proceedings
+ID 2446956
+A1 Ribeiro,Bruno,F.
+A1 Towsley,Donald,F.
+A1 Ye,Tao
+A1 Bolot,Jean,C.
+YR 2006
+T1 Fisher information of sampled packets: an application to flow size estimation
+SP 15
+OP 26
+
+RT Conference Proceedings
+ID 6851364
+A1 Liu,Junning
+A1 Goeckel,Dennis
+A1 Towsley,Don
+YR 2006
+T1 The Throughput Order of Ad Hoc Networks Employing Network Coding and Broadcasting
+
+RT Conference Proceedings
+ID 2448027
+A1 Wei,Wei
+A1 Jaiswal,Sharad
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2006
+T1 Identifying 802.11 Traffic from Passive Measurements Using Iterative Bayesian Inference
+SP 1
+OP 12
+
+RT Conference Proceedings
+ID 4112345
+A1 Key,Peter
+A1 Massoulié,Laurent
+A1 Towsley,Don
+YR 2006
+T1 Combining Multipath Routing and Congestion Control for Robustness
+
+RT Journal Article
+ID 2373331
+A1 Wei,Wei
+A1 Zhang,Chun
+A1 Zang,Hui
+A1 Kurose,Jim
+A1 Towsley,Don
+YR 2006
+T1 Inference and Evaluation of Split-Connection Approaches in Cellular Data Networks
+
+RT Conference Proceedings
+ID 4278713
+A1 Zhang,Chun
+A1 Kurose,Jim
+A1 Liu,Yong
+A1 Towsley,Donald,F.
+A1 Zink,Michael
+YR 2006
+T1 A Distributed Algorithm for Joint Sensing and Routing in Wireless Networks with Non-Steerable Directional Antennas
+SP 218
+OP 227
+
+RT Conference Proceedings
+ID 2447973
+A1 Zhang,Honggang
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2006
+T1 Can an Overlay Compensate for a Careless Underlay?
+SP 1
+OP 12
+
+RT Journal Article
+ID 2517468
+A1 Duffield,Nick,G.
+A1 Presti,Francesco,Lo
+A1 Paxson,Vern
+A1 Towsley,Donald,F.
+YR 2006
+T1 Network loss tomography using striped unicast probes
+JF IEEE/ACM Transactions on Networking
+VO 14
+SP 697
+OP 710
+IS 4
+
+RT Conference Proceedings
+ID 2463957
+A1 Ghaderi,Majid
+A1 Sridharan,Ashwin
+A1 Zang,Hui
+A1 Towsley,Donald,F.
+A1 Cruz,Rene,L.
+YR 2006
+T1 TCP-aware resource allocation in CDMA networks
+SP 215
+OP 226
+
+RT Journal Article
+ID 4416250
+A1 Chen,Zesheng
+A1 Bu,Tian
+A1 Ammar,Mostafa,H.
+A1 Towsley,Donald,F.
+YR 2006
+T1 Comments on "modeling TCP reno performance: a simple model and its empirical validation
+JF IEEE/ACM Transactions on Networking
+VO 14
+SP 451
+OP 453
+IS 2
+
+RT Journal Article
+ID 4399297
+A1 Zou,Cliff,Changchun
+A1 Duffield,Nick,G.
+A1 Towsley,Donald,F.
+A1 Gong,Weibo
+YR 2006
+T1 Adaptive Defense Against Various Network Attacks
+JF IEEE Journal on Selected Areas in Communications
+VO 24
+SP 1877
+OP 1888
+IS 10
+
+RT Conference Proceedings
+ID 2447956
+A1 Bu,Tian
+A1 Liu,Yong
+A1 Towsley,Donald,F.
+YR 2006
+T1 On the TCP-Friendliness of VoIP Traffic
+SP 1
+OP 12
+
+RT Journal Article
+ID 2492972
+A1 Guo,Yang
+A1 Ge,Zihui
+A1 Urgaonkar,Bhuvan
+A1 Shenoy,Prashant,J.
+A1 Towsley,Donald,F.
+YR 2006
+T1 Dynamic cache reconfiguration strategies for cluster-based streaming proxy
+JF Computer Communications
+VO 29
+SP 1710
+OP 1721
+IS 10
+
+RT Conference Proceedings
+ID 2447901
+A1 Vasudevan,Sudarshan
+A1 Zhang,Chun
+A1 Goeckel,Dennis
+A1 Towsley,Donald,F.
+YR 2006
+T1 Optimal Power Allocation in Wireless Networks with Transmitter-Receiver Power Tradeoffs
+SP 1
+OP 11
+
+RT Journal Article
+ID 2516547
+A1 Duffield,Nicholas,G.
+A1 Horowitz,Joseph
+A1 Presti,Francesco,Lo
+A1 Towsley,Donald,F.
+YR 2006
+T1 Explicit Loss Inference in Multicast Tomography
+JF IEEE Transactions on Information Theory
+VO 52
+SP 3852
+OP 3855
+IS 8
+
+RT Conference Proceedings
+ID 2448038
+A1 Song,Sanquan
+A1 Goeckel,Dennis,L.
+A1 Towsley,Donald,F.
+YR 2006
+T1 Collaboration Improves the Connectivity of Wireless Networks
+SP 1
+OP 11
+
+RT Journal Article
+ID 2666353
+A1 Zou,Cliff,Changchun
+A1 Towsley,Donald,F.
+A1 Gong,Weibo
+A1 Cai,Songlin
+YR 2006
+T1 Advanced Routing Worm and Its Security Challenges
+JF Transactions of The Society for Modeling and Simulation International
+VO 82
+SP 75
+OP 85
+IS 1
+
+RT Journal Article
+ID 2492472
+A1 Figueiredo,Daniel,R.
+A1 Liu,Benyuan
+A1 Guo,Yang
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2006
+T1 On the efficiency of fluid simulation of networks
+JF Computer Networks
+VO 50
+SP 1974
+OP 1994
+IS 12
+
+RT Conference Proceedings
+ID 2448047
+A1 Jaiswal,Sharad
+A1 Iannaccone,Gianluca
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2006
+T1 Formal Analysis of Passive Measurement Inference Techniques
+SP 1
+OP 12
+
+RT Journal Article
+ID 14401402
+A1 Cai,Ning
+A1 Chiang,Mung
+A1 Effros,Michelle
+A1 Koetter,Ralf
+A1 Médard,Muriel
+A1 Prabhakar,Balaji
+A1 Srikant,R.
+A1 Towsley,Don
+A1 Yeung,Raymond,W.
+YR 2006
+T1 Introduction to the special issue on networking and information theory
+JF IEEE/ACM Transactions on Networking
+VO 14
+SP 674
+OP 674
+IS 4
+
+RT Journal Article
+ID 39249307
+A1 Cai,Ning
+A1 Chiang,Mung
+A1 Effros,Michelle
+A1 Koetter,Ralf
+A1 Médard,Muriel
+A1 Prabhakar,Balaji
+A1 Srikant,R.
+A1 Towsley,Don
+A1 Yeung,Raymond,W.
+YR 2006
+T1 Introduction to the special issue on networking and information theory
+JF IEEE/ACM Transactions on Networking
+VO 52
+SP 2285
+OP 2288
+IS 6
+
+RT Journal Article
+ID 2174526
+A1 Cai,Ning
+A1 Chiang,Mung
+A1 Effros,Michelle
+A1 Koetter,Ralf
+A1 Médard,Muriel
+A1 Prabhakar,Balaji
+A1 Srikant,Rayadurgam
+A1 Towsley,Donald,F.
+A1 Yeung,Raymond,W.
+YR 2006
+T1 Introduction to the special issue on networking and information theory
+JF IEEE Transactions on Information Theory
+VO 52
+SP 2285
+OP 2288
+IS 6
+
+RT Journal Article
+ID 39249365
+A1 Duffield,Nick
+A1 Presti,Francesco,Lo
+A1 Paxson,Vern
+A1 Towsley,Don
+YR 2006
+T1 Network loss tomography using striped unicast probes
+JF IEEE/ACM Transactions on Networking
+VO 14
+SP 697
+OP 710
+IS 4
+
+RT Journal Article
+ID 39249390
+A1 Han,Huaizhong
+A1 Shakkottai,Srinivas
+A1 Hollot,C.,V.
+A1 Srikant,R.
+A1 Towsley,Don
+YR 2006
+T1 Multipath TCP: a joint congestion control and routing scheme to exploit path diversity in the internet
+JF IEEE/ACM Transactions on Networking
+VO 14
+SP 1260
+OP 1271
+IS 6
+
+RT Journal Article
+ID 39249362
+A1 Chen,Zesheng
+A1 Bu,Tian
+A1 Ammar,Mostafa
+A1 Towsley,Don
+YR 2006
+T1 Comments on "modeling TCP reno performance: a simple model and its empirical validation"
+JF IEEE/ACM Transactions on Networking
+VO 14
+SP 451
+OP 453
+IS 2
+
+RT Journal Article
+ID 2517466
+A1 Towsley,Donald,F.
+YR 2006
+T1 Abstracts from the IEEE transactions on information theory, special issue, June 2006
+JF IEEE/ACM Transactions on Networking
+VO 14
+SP 675
+OP 682
+IS 4
+
+RT Journal Article
+ID 39249363
+A1 Towsley,Don
+YR 2006
+T1 Abstracts from the IEEE transactions on information theory, special issue, June 2006
+JF IEEE/ACM Transactions on Networking
+SP 675
+OP 682
+
+RT Conference Proceedings
+ID 4935559
+A1 Liu,Junning
+A1 Adler,Micah
+A1 Towsley,Don
+YR 2006
+T1 On the Distance Entropy of a Data Collection Network
+
+RT Conference Proceedings
+ID 1240160
+A1 Liu,Benyuan
+A1 Brass,Peter
+A1 Dousse,Olivier
+A1 Nain,Philippe
+A1 Towsley,Donald,F.
+YR 2005
+T1 Mobility improves coverage of sensor networks
+SP 300
+OP 308
+
+RT Conference Proceedings
+ID 2134549
+A1 Nain,Philippe
+A1 Towsley,Donald,F.
+A1 Liu,Benyuan
+A1 Liu,Zhen
+YR 2005
+T1 Properties of random direction models
+VO 3
+SP 1897
+OP 1907
+
+RT Conference Proceedings
+ID 2447319
+A1 Ganesh,Ayalvadi,J.
+A1 Massoulié,Laurent
+A1 Towsley,Donald,F.
+YR 2005
+T1 The effect of network topology on the spread of epidemics
+VO 2
+SP 1455
+OP 1466
+
+RT Conference Proceedings
+ID 2447423
+A1 Vasudevan,Sudarshan
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2005
+T1 On neighbor discovery in wireless networks with directional antennas
+VO 4
+SP 2502
+OP 2512
+
+RT Journal Article
+ID 1682562
+A1 Zou,Cliff,Changchun
+A1 Gong,Weibo
+A1 Towsley,Donald,F.
+A1 Gao,Lixin
+YR 2005
+T1 The monitoring and early detection of internet worms
+JF IEEE/ACM Transactions on Networking
+VO 13
+SP 961
+OP 974
+IS 5
+
+RT Conference Proceedings
+ID 2947103
+A1 Gu,Yu
+A1 Mccallum,Andrew
+A1 Towsley,Donald,F.
+YR 2005
+T1 Detecting Anomalies in Network Traffic Using Maximum Entropy Estimation
+SP 345
+OP 350
+
+RT Journal Article
+ID 1696562
+A1 Raina,Gaurav
+A1 Towsley,Donald,F.
+A1 Wischik,Damon
+YR 2005
+T1 Part II: control theory for buffer sizing
+JF Computer Communication Review
+VO 35
+SP 79
+OP 82
+IS 3
+
+RT Conference Proceedings
+ID 2320625
+A1 Tao,Shu
+A1 Xu,Kuai
+A1 Estepa,Antonio
+A1 Fei,Teng
+A1 Gao,Lixin
+A1 Guérin,Roch
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+A1 Zhang,Zhi-li
+YR 2005
+T1 Improving VoIP quality through path switching
+VO 4
+SP 2268
+OP 2278
+
+RT Conference Proceedings
+ID 2446991
+A1 Vasudevan,Sudarshan
+A1 Papagiannaki,Konstantina
+A1 Diot,Christophe
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2005
+T1 Facilitating Access Point Selection in IEEE 802.11 Wireless Networks
+SP 293
+OP 298
+
+RT Conference Proceedings
+ID 1812182
+A1 Zou,Cliff,Changchun
+A1 Towsley,Donald,F.
+A1 Gong,Weibo
+A1 Cai,Songlin
+YR 2005
+T1 Routing Worm: A Fast, Selective Attack Worm Based on IP Address Information
+SP 199
+OP 206
+
+RT Conference Proceedings
+ID 2447412
+A1 Suh,Kyoungwon
+A1 Guo,Yang
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2005
+T1 Locating network monitors: complexity, heuristics, and coverage
+VO 1
+SP 351
+OP 361
+
+RT Conference Proceedings
+ID 3507238
+A1 Liu,Yong
+A1 Zhang,Honggang
+A1 Gongi,Weibo
+A1 Towsley,Donald,F.
+YR 2005
+T1 On the interaction between overlay routing and underlay routing
+VO 4
+SP 2543
+OP 2553
+
+RT Conference Proceedings
+ID 2377266
+A1 Liu,Yong
+A1 Zhang,Honggang
+A1 Gongy,Weibo
+A1 Towsley,Don
+YR 2005
+T1 On the Interaction Between Overlay Routing and Traffic Engineering
+
+RT Conference Proceedings
+ID 2827307
+A1 Suh,K.
+A1 Figueiredo,D.,R.
+A1 Kurose,J.
+A1 Towsley,D.
+YR 2005
+T1 Characterizing and detecting relayed trafc: A case study using Skype
+
+RT Conference Proceedings
+ID 1801211
+A1 Zhang,Chun
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+A1 Ge,Zihui
+A1 Liu,Yong
+YR 2005
+T1 Optimal Routing with Multiple Traffic Matrices Tradeoff between Average andWorst Case Performance
+SP 215
+OP 224
+
+RT Conference Proceedings
+ID 2447460
+A1 Zhang,Chun
+A1 Liu,Yong
+A1 Gong,Weibo
+A1 Kurose,James,F.
+A1 Moll,R.
+A1 Towsley,Donald,F.
+YR 2005
+T1 On optimal routing with multiple traffic matrices
+VO 1
+SP 607
+OP 618
+
+RT Conference Proceedings
+ID 2447426
+A1 Wei,Wei
+A1 Wang,Bing
+A1 Zhang,Chun
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2005
+T1 Classification of access network types: Ethernet wireless LAN, ADSL, cable modem or dialup?
+VO 2
+SP 1060
+OP 1071
+
+RT Conference Proceedings
+ID 1801221
+A1 Figueiredo,Daniel,R.
+A1 Shapiro,Jonathan,K.
+A1 Towsley,Donald,F.
+YR 2005
+T1 Incentives to Promote Availability in Peer-to-Peer Anonymity Systems
+SP 110
+OP 121
+
+RT Journal Article
+ID 1689809
+A1 Gong,Wei-Bo
+A1 Liu,Yong
+A1 Misra,Vishal
+A1 Towsley,Donald,F.
+YR 2005
+T1 Self-similarity and long range dependence on the internet: a second look at the evidence, origins and implications
+JF Computer Networks
+VO 48
+SP 377
+OP 399
+IS 3
+
+RT Book, Whole
+ID 1869034
+A1 Chen,Weifeng
+A1 Huang,Yong
+A1 Ribeiro,Bruno,F.
+A1 Suh,Kyoungwon
+A1 Zhang,Honggang
+A1 Silva,Edmundo,De,Souza,E
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2005
+T1 Exploiting the IPID Field to Infer Network Path and End-System Characteristics
+SP 108
+OP 120
+
+RT Journal Article
+ID 1682651
+A1 Chait,Yossi
+A1 Hollot,C.,V.
+A1 Misra,Vishal
+A1 Towsley,Donald,F.
+A1 Zhang,Honggang
+A1 Cui,Yong
+YR 2005
+T1 Throughput differentiation using coloring at the network edge and preferential marking at the core
+JF IEEE/ACM Transactions on Networking
+VO 13
+SP 743
+OP 754
+IS 4
+
+RT Conference Proceedings
+ID 1801204
+A1 Zhang,Honggang
+A1 Towsley,Donald,F.
+A1 Gong,Weibo
+YR 2005
+T1 TCP Connection Game: A Study on the Selfish Behavior of TCP Users
+SP 301
+OP 310
+
+RT Conference Proceedings
+ID 2447291
+A1 Chen,Weifeng
+A1 Clarke,Lori
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2005
+T1 Optimizing cost-sensitive trust-negotiation protocols
+VO 2
+SP 1431
+OP 1442
+
+RT Journal Article
+ID 1693205
+A1 Figueiredo,Daniel,R.
+A1 Liu,Benyuan
+A1 Feldmann,Anja
+A1 Misra,Vishal
+A1 Towsley,Donald,F.
+A1 Willinger,Walter
+YR 2005
+T1 On TCP and self-similar traffic
+JF Performance Evaluation
+VO 61
+SP 129
+OP 141
+IS 2-3
+
+RT Journal Article
+ID 39347198
+A1 Su,S.
+A1 Fortes,José,A.,B.
+A1 Kasad,T.,R.
+A1 Patil,M.
+A1 Matsunaga,Andréa,M.
+A1 Tsugawa,Maurício,O.
+A1 Cavalli-Sforza,Violetta
+A1 Carbonell,Jaime,G.
+A1 Jansen,Peter,J.
+A1 Ward,W.
+A1 Cole,R.
+A1 Towsley,Donald,F.
+A1 Chen,Weifeng
+A1 Antón,Annie,I.
+A1 He,Qingfeng
+A1 McSweeney,C.
+A1 deBrens,L.
+A1 Ventura,J.
+A1 Taveras,P.
+A1 Connolly,R.
+A1 Ortega,C.
+A1 Piñeres,B.
+A1 Brooks,O.
+A1 Murillo,G.,A.
+A1 Herrera,M.
+YR 2005
+T1 Transnational Information Sharing, Event Notification, Rule Enforcement and Process Coordination
+VO 1
+SP 1
+OP 26
+IS 2
+
+RT Journal Article
+ID 2284619
+A1 Gu,Y.
+A1 Mccallum,A.
+A1 Towsley,D.
+YR 2005
+T1 Detecting anomalies in network traffic using maximum entropy
+
+RT Journal Article
+ID 1693257
+A1 Duffield,Nick,G.
+A1 Arya,Vijay
+A1 Bellino,R.
+A1 Friedman,Timur
+A1 Horowitz,Joseph
+A1 Towsley,Donald,F.
+A1 Turletti,Thierry
+YR 2005
+T1 Network tomography from aggregate loss reports
+JF Performance Evaluation
+VO 62
+SP 147
+OP 163
+IS 1-4
+
+RT Conference Proceedings
+ID 2337307
+A1 Liu,Yong
+A1 Towsley,Donald,F.
+A1 Ye,Tao
+A1 Bolot,Jean-chrysostome
+YR 2005
+T1 An Information-theoretic Approach to Network Monitoring and Measurement
+SP 159
+OP 172
+
+RT Conference Proceedings
+ID 50447000
+A1 Han,H.
+A1 Hollot,C.,V.
+A1 Towsley,Don
+A1 Chait,Y.
+YR 2005
+T1 Synchronization of TCP Flows in Networks with Small DropTail Buffers
+
+RT Journal Article
+ID 2401048
+A1 Wang,Bing
+A1 Kurose,Jim
+A1 Towsley,Don
+A1 Wei,Wei
+YR 2005
+T1 Multipath Overlay Data Transfer
+
+RT Conference Proceedings
+ID 1240286
+A1 Bradshaw,Michael,K.
+A1 Kurose,James,F.
+A1 Shenoy,Prashant,J.
+A1 Towsley,Donald,F.
+YR 2005
+T1 Online scheduling in modular multimedia systems with stream reuse
+SP 195
+OP 200
+
+RT Conference Proceedings
+ID 1801239
+A1 Chen,Weifeng
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+A1 Ge,Zihui
+YR 2005
+T1 Optimizing Event Distribution in Publish/Subscribe Systems in the Presence of Policy-Constraints and Composite Events
+SP 191
+OP 200
+
+RT Journal Article
+ID 4370774
+A1 Song,Sanquan
+A1 Goeckel,Dennis,L.
+A1 Towsley,Donald,F.
+YR 2005
+T1 An Improved Lower Bound to the Number of Neighbors Required for the Asymptotic Connectivity of Ad Hoc Networks
+JF Computing Research Repository
+VO abs/cs/050
+
+RT Journal Article
+ID 4112340
+A1 Key,Peter
+A1 Massoulie,Laurent
+A1 Towsley,Don
+YR 2005
+T1 Combined Multipath Routing and Congestion Control: a Robust Internet Architecture
+
+RT Journal Article
+ID 39249224
+A1 Chait,Yossi
+A1 Hollot,C.,V.
+A1 Misra,Vishal
+A1 Towsley,Don
+A1 Zhang,Honggang
+A1 Cui,Yong
+YR 2005
+T1 Throughput differentiation using coloring at the network edge and preferential marking at the core
+JF IEEE/ACM Transactions on Networking
+VO 13
+SP 743
+OP 754
+IS 4
+
+RT Journal Article
+ID 39249240
+A1 Zou,Cliff,C.
+A1 Gong,Weibo
+A1 Towsley,Don
+A1 Gao,Lixin
+YR 2005
+T1 The monitoring and early detection of internet worms
+JF IEEE/ACM Transactions on Networking
+VO 13
+SP 961
+OP 974
+IS 5
+
+RT Conference Proceedings
+ID 50472046
+A1 Zou,Cliff,C.
+A1 Towsley,Don
+A1 Gong,Weibo
+A1 Cai,Songlin
+YR 2005
+T1 Routing worm: a fast, selective attack worm based on IP address information
+SP 199
+OP 206
+
+RT Conference Proceedings
+ID 1801231
+A1 Shapiro,Jonathan,K.
+A1 Hollot,C.,V.
+A1 Towsley,Donald,F.
+YR 2005
+T1 Trading Precision for Stability in Congestion Control with Probabilistic Packet Marking
+SP 321
+OP 331
+
+RT Book, Whole
+ID 1896426
+A1 Towsley,Donald,F.
+YR 2005
+T1 The Internet Control Architecture: Successes and Challenges
+SP 2
+
+RT Conference Proceedings
+ID 2632654
+A1 Liu,Benyuan
+A1 Towsley,Don
+YR 2004
+T1 A study of the coverage of large-scale sensor networks
+
+RT Journal Article
+ID 2167957
+A1 Bu,Tian
+A1 Gao,Lixin
+A1 Towsley,Donald,F.
+YR 2004
+T1 On characterizing BGP routing table growth
+JF Computer Networks
+VO 45
+SP 45
+OP 54
+IS 1
+
+RT Conference Proceedings
+ID 1260479
+A1 Jaiswalt,Sharad
+A1 Iannaccone,Gianluca
+A1 DiotF,Christophe
+A1 Towsley,Donald,F.
+YR 2004
+T1 Inferring TCP Connection Characteristics Through Passive Measurements
+VO 3
+SP 1582
+
+RT Conference Proceedings
+ID 884974
+A1 Wang,Bing
+A1 Kurose,James,F.
+A1 Shenoy,Prashant,J.
+A1 Towsley,Donald,F.
+YR 2004
+T1 Multimedia streaming via TCP: an analytic performance study
+SP 908
+OP 915
+
+RT Journal Article
+ID 884980
+A1 Tao,Shu
+A1 Xu,Kuai
+A1 Xu,Ying
+A1 Fei,Teng
+A1 Gao,Lixin
+A1 Guérin,Roch
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+A1 Zhang,Zhi-Li
+YR 2004
+T1 Exploring the Performance Benefits of End-to-End Path Switching
+JF Sigmetrics Performance Evaluation Review
+VO 32
+SP 304
+OP 315
+IS 1
+
+RT Journal Article
+ID 1646605
+A1 Wang,Bing
+A1 Sen,Subhabrata
+A1 Adler,Micah
+A1 Towsley,Donald,F.
+YR 2004
+T1 Optimal proxy cache allocation for efficient streaming media distribution
+JF IEEE Transactions on Multimedia
+VO 6
+SP 366
+OP 374
+IS 2
+
+RT Conference Proceedings
+ID 2184377
+A1 Vasudevan,Sudarshan
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2004
+T1 Design and Analysis of a Leader Election Algorithm for Mobile Ad Hoc Networks
+SP 350
+OP 360
+
+RT Conference Proceedings
+ID 1878255
+A1 Zou,Cliff,Changchun
+A1 Towsley,Donald,F.
+A1 Gong,Weibo
+YR 2004
+T1 Email Worms Modeling and Defense
+SP 409
+OP 414
+
+RT Conference Proceedings
+ID 1859629
+A1 Gu,Yu
+A1 Liu,Yong
+A1 Towsley,Donald,F.
+YR 2004
+T1 On Integrating Fluid Models with Packet Simulation
+VO 4
+SP 2856
+
+RT Journal Article
+ID 893615
+A1 Liu,Yong
+A1 Presti,Francesco,Lo
+A1 Misra,Vishal
+A1 Towsley,Donald,F.
+A1 Gu,Yu
+YR 2004
+T1 Scalable fluid models and simulations for large-scale IP networks
+JF ACM Transactions on Modeling and Computer Simulation
+VO 14
+SP 305
+OP 324
+IS 3
+
+RT Journal Article
+ID 927933
+A1 Ji,Ping
+A1 Liu,Benyuan
+A1 Towsley,Donald,F.
+A1 Ge,Zihui
+A1 Kurose,James,F.
+YR 2004
+T1 Modeling frame-level errors in GSM wireless channels
+JF Performance Evaluation
+VO 55
+SP 165
+OP 181
+IS 1-2
+
+RT Conference Proceedings
+ID 1801187
+A1 Jaiswal,Sharad
+A1 Rosenberg,Arnold,L.
+A1 Towsley,Donald,F.
+YR 2004
+T1 Comparing the Structure of Power-Law Graphs and the Internet AS Graph
+SP 294
+OP 303
+
+RT Journal Article
+ID 2353537
+A1 Liu,Yong
+A1 Gu,Yu
+A1 Zhang,Honggang
+A1 Gong,Weibo
+A1 Towsley,Don
+YR 2004
+T1 Application Level Relay for High-Bandwidth Data Transport
+
+RT Journal Article
+ID 1227257
+A1 Guo,Yang
+A1 Gao,Lixin
+A1 Towsley,Donald,F.
+A1 Sen,Subhabrata
+YR 2004
+T1 Smooth workload adaptive broadcast
+JF IEEE Transactions on Multimedia
+VO 6
+SP 387
+OP 395
+IS 2
+
+RT Conference Proceedings
+ID 3224248
+A1 Tao,S.
+A1 Xu,K.
+A1 Estepa,A.
+A1 Fei,T.
+A1 Gao,L.
+A1 Guerin,R.
+A1 Kurose,J.
+A1 Towsley,D.
+YR 2004
+T1 Improving VoIP quality through path switching
+
+RT Journal Article
+ID 927236
+A1 Rubenstein,Dan
+A1 Kasera,Sneha,Kumar
+A1 Towsley,Donald,F.
+A1 Kurose,James,F.
+YR 2004
+T1 Improving reliable multicast using active parity encoding services
+JF Computer Networks
+VO 44
+SP 63
+OP 78
+IS 1
+
+RT Conference Proceedings
+ID 3240309
+A1 Jaiswal,S.
+A1 Iannaccone,G.
+A1 Diot,C.
+A1 Kurose,J.
+A1 Towsley,D.
+YR 2004
+T1 Inferring TCP Connection Characteristics from Passive Measurements
+
+RT Journal Article
+ID 2148288
+A1 Vasudevan,Sudarshan
+A1 Goeckel,Dennis
+A1 Towsley,Don
+YR 2004
+T1 Optimal Power Allocation in Channel-Coded Wireless Networks
+
+RT Journal Article
+ID 2290520
+A1 Zou,Cliff,C.
+A1 Gong,Weibo
+A1 Towsley,Don
+YR 2004
+T1 Feedback Email Worm Defense System for Enterprise Networks
+
+RT Conference Proceedings
+ID 910261
+A1 Bradshaw,Michael,K.
+A1 Guo,Yang
+A1 Wang,Bing
+A1 Kurose,James,F.
+A1 Shenoy,Prashant,J.
+A1 Towsley,Donald,F.
+YR 2004
+T1 AMPS: a flexible, scalable proxy testbed for implementing streaming services
+SP 116
+OP 121
+
+RT Book, Whole
+ID 674014
+A1 Chen,Weifeng
+A1 Ge,Zihui
+A1 Zhang,Chun
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2004
+T1 On Dynamic Subset Difference Revocation Scheme
+SP 743
+OP 758
+
+RT Conference Proceedings
+ID 2200395
+A1 Su,S.
+A1 Fortes,José,A.,B.
+A1 Kasad,T.,R.
+A1 Patil,M.
+A1 Matsunaga,Andréa,M.
+A1 Tsugawa,Maurício,O.
+A1 Cavalli-sforza,Violetta
+A1 Carbonell,Jaime,G.
+A1 Jansen,Peter,J.
+A1 Ward,W.
+A1 Cole,R.
+A1 Towsley,Donald,F.
+A1 Chen,Weifeng
+A1 Antón,Annie,I.
+A1 He,Qingfeng
+A1 Mcsweeney,C.
+A1 Debrens,L.
+A1 Ventura,J.
+A1 Taveras,P.
+A1 Connolly,R.
+A1 Ortega,C.
+A1 Piñeres,B.
+A1 Brooks,O.
+A1 Herrera,M.
+YR 2004
+T1 A Prototype System for Transnational Information Sharing and Process Coordination
+
+RT Journal Article
+ID 2343407
+A1 Figueiredo,Daniel,R.
+A1 Shapiro,Jonathan,K.
+A1 Towsley,Don
+YR 2004
+T1 Payment-based Incentives for Anonymous Peer-to-Peer Systems
+
+RT Journal Article
+ID 3497581
+A1 Figueiredo,D.,R.
+A1 Feldmann,A.
+A1 Liu,B.
+A1 Misra,V.
+A1 Towsley,D.
+A1 Willinger,W.
+YR 2004
+T1 On TCP and self-similar traffic
+JF Performance Evaluation
+
+RT Journal Article
+ID 3027362
+A1 Zou,Cli,C.
+A1 Towsley,Don
+A1 Gong,Weibo
+YR 2004
+T1 Email virus and worm propagation simulation
+
+RT Journal Article
+ID 39214295
+A1 Tao,Shu
+A1 Xu,Kuai
+A1 Xu,Ying
+A1 Fei,Teng
+A1 Gao,Lixin
+A1 Guerin,Roch
+A1 Kurose,Jim
+A1 Towsley,Don
+A1 Zhang,Zhi-Li
+YR 2004
+T1 Exploring the performance benefits of end-to-end path switching
+JF Sigmetrics Performance Evaluation Review
+SP 418
+OP 419
+
+RT Journal Article
+ID 2351512
+A1 Figueiredo,Daniel,R.
+A1 Garetto,Michele
+A1 Towsley,Don
+YR 2004
+T1 Exploiting Mobility in Ad-Hoc Wireless Networks with Incentives
+
+RT Conference Proceedings
+ID 1892895
+A1 Su,S.
+A1 Fortes,José,A.,B.
+A1 Kasad,T.,R.
+A1 Patil,M.
+A1 Matsunaga,Andréa,M.
+A1 Tsugawa,Maurício,O.
+A1 Cavalli-sforza,Violetta
+A1 Carbonell,Jaime,G.
+A1 Jansen,Peter,J.
+A1 Ward,W.
+A1 Cole,R.
+A1 Towsley,Donald,F.
+A1 Chen,Weifeng
+A1 Antón,Annie,I.
+A1 He,Qingfeng
+A1 Mcsweeney,C.
+A1 Debrens,L.
+A1 Ventura,J.
+A1 Taveras,P.
+A1 Connolly,R.
+A1 Ortega,C.
+A1 Piñeres,B.
+A1 Brooks,O.
+A1 Herrera,M.
+YR 2004
+T1 A Prototype System for Transnational Information Sharing and Process Coordination: System Demo
+
+RT Journal Article
+ID 2290431
+A1 Chen,W.
+A1 Clarke,L.
+A1 Kurose,J.
+A1 Towsley,D.
+YR 2004
+T1 Optimizing Costsensitive Trust-negotiation Protocols
+
+RT Conference Proceedings
+ID 2351584
+A1 Hazarika,Sugata
+A1 Towsley,Don
+YR 2004
+T1 Delay analysis of application level multicast on content addressable networks
+
+RT Journal Article
+ID 2300019
+A1 Figueiredo,Daniel,R.
+A1 Nain,Philippe
+A1 Towsley,Don
+YR 2004
+T1 On the Analysis of the Predecessor Attack on Anonymity Systems
+
+RT Conference Proceedings
+ID 50374303
+A1 Tao,Shu
+A1 Xu,Kuai
+A1 Xu,Ying
+A1 Fei,Teng
+A1 Gao,Lixin
+A1 Guerin,R.
+A1 Kurose,J.
+A1 Towsley,D.
+A1 Zhang,Zhi-Li
+YR 2004
+T1 Exploring the performance benefits of end-to-end path switching
+SP 304
+OP 315
+
+RT Journal Article
+ID 14418358
+A1 Wang,Bing
+A1 Kurose,Jim
+A1 Shenoy,Prashant
+A1 Towsley,Don
+YR 2004
+T1 Multimedia streaming via TCP: an analytic performance study
+JF Sigmetrics Performance Evaluation Review
+VO 32
+SP 406
+OP 407
+IS 1
+
+RT Journal Article
+ID 53717387
+A1 Bradshaw,Michael,K.
+A1 Kurose,Jim,F.
+A1 Page,Lela,Jane
+A1 Shenoy,Prashant,J.
+A1 Towsley,Don
+YR 2004
+T1 A reconfigurable on-the-fly resource-aware streaming pipeline scheduler
+VO 5680
+SP 131
+OP 135
+
+RT Book, Whole
+ID 1882884
+A1 Friedman,Timur
+A1 Towsley,Donald,F.
+A1 Kurose,James,F.
+YR 2004
+T1 Scalable End-to-End Multicast Tree Fault Isolation
+SP 1347
+OP 1358
+
+RT Conference Proceedings
+ID 33873
+A1 Liu,Benyuan
+A1 Liu,Zhen
+A1 Towsley,Donald,F.
+YR 2003
+T1 On the Capacity of Hybrid Wireless Networks
+VO 2
+SP 1543
+
+RT Conference Proceedings
+ID 37838
+A1 Ge,Zihui
+A1 Figueiredo,Daniel,R.
+A1 Jaiswal,Sharad
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2003
+T1 Modeling Peer-Peer File Sharing Systems
+VO 3
+SP 2188
+
+RT Conference Proceedings
+ID 924886
+A1 Zou,Cliff,Changchun
+A1 Gao,Lixin
+A1 Gong,Weibo
+A1 Towsley,Donald,F.
+YR 2003
+T1 Monitoring and early warning for internet worms
+SP 190
+OP 199
+
+RT Conference Proceedings
+ID 489255
+A1 Guo,Yang
+A1 Suh,Kyoungwon
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2003
+T1 P2Cast: peer-to-peer patching scheme for VoD service
+SP 301
+OP 309
+
+RT Conference Proceedings
+ID 926488
+A1 Zou,Cliff,Changchun
+A1 Gong,Weibo
+A1 Towsley,Donald,F.
+YR 2003
+T1 Worm propagation modeling and analysis under dynamic quarantine defense
+SP 51
+OP 60
+
+RT Conference Proceedings
+ID 681165
+A1 Jaiswal,Sharad
+A1 Iannaccone,Gianluca
+A1 Diot,Christophe
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2003
+T1 Measurement and Classification of Out-of-Sequence Packets in a Tier1 IP Backbone
+VO 2
+SP 1199
+
+RT Conference Proceedings
+ID 1968467
+A1 Guo,Yang
+A1 Suh,Kyoungwon
+A1 Kurose,Jim
+A1 Towsley,Don
+YR 2003
+T1 A peer-to-peer on-demand streaming service and its performance evaluation
+
+RT Journal Article
+ID 680449
+A1 Liu,Yong
+A1 Presti,Francesco,Lo
+A1 Misra,Vishal
+A1 Towsley,Donald,F.
+A1 Gu,Yu
+YR 2003
+T1 Fluid models and solutions for large-scale IP networks
+JF Sigmetrics Performance Evaluation Review
+VO 31
+SP 91
+OP 101
+IS 1
+
+RT Conference Proceedings
+ID 638205
+A1 Ji,Ping
+A1 Ge,Zihui
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2003
+T1 A comparison of hard-state and soft-state signaling protocols
+SP 251
+OP 262
+
+RT Conference Proceedings
+ID 682033
+A1 Hollot,C.,V.
+A1 Liu,Yong
+A1 Misra,Vishal
+A1 Towsley,Donald,F.
+YR 2003
+T1 Unresponsive Flows and AQM Performance
+VO 1
+SP 85
+
+RT Conference Proceedings
+ID 27161
+A1 Garetto,Michele
+A1 Gong,Weibo
+A1 Towsley,Donald,F.
+YR 2003
+T1 Modeling Malware Spreading Dynamics
+VO 3
+SP 1869
+
+RT Journal Article
+ID 680910
+A1 Garetto,Michele
+A1 Towsley,Donald,F.
+YR 2003
+T1 Modeling, simulation and measurements of queuing delay under long-tail internet traffic
+JF Sigmetrics Performance Evaluation Review
+VO 31
+SP 47
+OP 57
+IS 1
+
+RT Journal Article
+ID 680701
+A1 Zhang,Honggang
+A1 Towsley,Donald,F.
+A1 Hollot,C.,V.
+A1 Misra,Vishal
+YR 2003
+T1 A self-tuning structure for adaptation in TCP/AQM networks
+JF Sigmetrics Performance Evaluation Review
+VO 31
+SP 302
+OP 303
+IS 1
+
+RT Journal Article
+ID 751653
+A1 Bradshaw,Michael,K.
+A1 Wang,Bing
+A1 Sen,Subhabrata
+A1 Gao,Lixin
+A1 Kurose,James,F.
+A1 Shenoy,Prashant,J.
+A1 Towsley,Donald,F.
+YR 2003
+T1 Periodic broadcast and patching services - implementation, measurement and analysis in an internet streaming video testbed
+JF Multimedia Systems
+VO 9
+SP 78
+OP 93
+IS 1
+
+RT Journal Article
+ID 1339829
+A1 Zou,Cliff,C.
+A1 Towsley,Don
+A1 Gong,Weibo
+YR 2003
+T1 Email Virus Propagation Modeling and Analysis
+
+RT Conference Proceedings
+ID 2136730
+A1 Vasudevan,Sudarshan
+A1 Decleene,Brian
+A1 Immerman,Neil
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2003
+T1 Leader Election Algorithms for Wireless Ad Hoc Networks
+SP 261
+OP 272
+
+RT Journal Article
+ID 2283210
+A1 Liu,Benyuan
+A1 Towsley,Don
+YR 2003
+T1 On the Coverage and Detectability of Large-scale Wireless Sensor Networks
+
+RT Conference Proceedings
+ID 681768
+A1 Adler,Micah
+A1 Cai,Jin-yi
+A1 Shapiro,Jonathan,K.
+A1 Towsley,Donald,F.
+YR 2003
+T1 Estimation of Congestion Price Using Probabilistic Packet Marking
+VO 3
+SP 2068
+
+RT Journal Article
+ID 765741
+A1 Gao,Lixin
+A1 Zhang,Zhi-Li
+A1 Towsley,Donald,F.
+YR 2003
+T1 Proxy-assisted techniques for delivering continuous multimedia streams
+JF IEEE/ACM Transactions on Networking
+VO 11
+SP 884
+OP 894
+IS 6
+
+RT Conference Proceedings
+ID 2590122
+A1 Pandhye,J.
+A1 Kurose,J.
+A1 Towsley,D.
+A1 Koodli,R.
+YR 2003
+T1 A model based TCP-friendly rate control protocol
+
+RT Journal Article
+ID 1329855
+A1 Liu,B.
+A1 Towsley,D.
+YR 2003
+T1 On the coverage and detectability of wireless sensor networks
+
+RT Conference Proceedings
+ID 1801080
+A1 Ge,Zihui
+A1 Ji,Ping
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2003
+T1 Matchmaker: Signaling for Dynamic Publish/Subscribe Applications
+SP 222
+OP 233
+
+RT Journal Article
+ID 3412020
+A1 Zou,Cliff,C.
+A1 Gong,Weibo
+A1 Towsley,Don
+A1 Gao,Lixin
+YR 2003
+T1 Monitoring and Early Detection for Internet Worms
+
+RT Conference Proceedings
+ID 906785
+A1 Wei,Wei
+A1 Wang,Bing
+A1 Towsley,Donald,F.
+A1 Kurose,James,F.
+YR 2003
+T1 Model-based identification of dominant congested links
+SP 115
+OP 128
+
+RT Journal Article
+ID 858968
+A1 Duarte,Flávio,P.
+A1 Silva,Edmundo,de,Souza,e
+A1 Towsley,Donald,F.
+YR 2003
+T1 An adaptive FEC algorithm using hidden Markov chains
+JF Sigmetrics Performance Evaluation Review
+VO 31
+SP 11
+OP 13
+IS 2
+
+RT Conference Proceedings
+ID 4111117
+A1 Ping,J.
+A1 Ge,Z.
+A1 Kurose,J.
+A1 Towsley,D.
+YR 2003
+T1 A comparison of hard - state and soft - state protocols
+
+RT Journal Article
+ID 2065683
+A1 Figueiredo,Daniel,R.
+A1 Shapiro,Jonathan,K.
+A1 Towsley,Don
+YR 2003
+T1 Incentives for Cooperation in Anonymity Systems
+
+RT Journal Article
+ID 2279957
+A1 Figueiredo,Daniel,R.
+A1 Shapiro,Jonathan,K.
+A1 Towsley,Don
+YR 2003
+T1 Using Payments to Promote Cooperation in Anonymity Protocols
+
+RT Conference Proceedings
+ID 50335698
+A1 Wu,Yujing
+A1 Gong,Weibo
+A1 Towsley,Don
+YR 2003
+T1 Analysis of abstract simulation via stochastic differential equation models
+VO 3
+SP 2620
+
+RT Journal Article
+ID 2553225
+A1 Ji,P.
+A1 Ge,Z.
+A1 Kurose,J.
+A1 Towsley,D.
+YR 2003
+T1 A comparison of soft-state versus hard-state signaling
+
+RT Conference Proceedings
+ID 33506
+A1 Adler,Micah
+A1 Cai,Jin-yi
+A1 Shapiro,Jonathan,K.
+A1 Towsley,Don
+YR 2003
+T1 Estimation of Probabilistic Congestion Price Using Packet Marking
+
+RT Journal Article
+ID 2769383
+A1 Guo,Yang
+A1 Ge,Zihui
+A1 Urgaonkar,Bhuvan
+A1 Shenoy,Prashant
+A1 Towsley,Don
+YR 2003
+T1 Bandwidth and Space-Constrained Caching Strategies for Cluster-Based Streaming Proxies
+
+RT Conference Proceedings
+ID 4695713
+A1 Wang,Bing
+A1 Sen,Subhabrata
+A1 Adler,Micah
+A1 Towsley,Don
+YR 2003
+T1 Using multicast for streaming videos across wide area networks
+
+RT Journal Article
+ID 765738
+A1 Bhattacharyya,Supratik
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+A1 Nagarajan,Ramesh
+YR 2003
+T1 Efficient rate-controlled bulk data transfer using multiple multicast groups
+JF IEEE/ACM Transactions on Networking
+VO 11
+SP 895
+OP 907
+IS 6
+
+RT Journal Article
+ID 1587376
+A1 Jamin,S.
+A1 Raz,D.
+A1 Shavitt,Y.
+A1 Towsley,D.
+A1 Peterson,L.
+YR 2003
+T1 Guest editorial internet and WWW measurement, mapping, and modeling
+JF IEEE Journal on Selected Areas in Communications
+VO 21
+SP 877
+OP 878
+IS 6
+
+RT Journal Article
+ID 39214237
+A1 Liu,Yong
+A1 Presti,Francesco,Lo
+A1 Misra,Vishal
+A1 Towsley,Don
+A1 Gu,Yu
+YR 2003
+T1 Fluid models and solutions for large-scale IP networks
+JF Sigmetrics Performance Evaluation Review
+SP 91
+OP 101
+
+RT Journal Article
+ID 39214255
+A1 Zhang,Honggang
+A1 Towsley,Don
+A1 Hollot,C.,V.
+A1 Misra,Vishal
+YR 2003
+T1 A self-tuning structure for adaptation in TCP/AQM networks
+JF Sigmetrics Performance Evaluation Review
+SP 302
+OP 303
+
+RT Conference Proceedings
+ID 50331397
+A1 Zhang,Honggang
+A1 Hollot,C.,V.
+A1 Towsley,Don
+A1 Misra,Vishal
+YR 2003
+T1 A self-tuning structure for adaptation in TCP/AQM networks
+
+RT Conference Proceedings
+ID 1801077
+A1 Bradshaw,Michael,K.
+A1 Rosenberg,Arnold,L.
+A1 Towsley,Donald,F.
+YR 2003
+T1 Planned Object Duplication Strategies in Dynamic PRR Meshes
+SP 50
+OP 60
+
+RT Journal Article
+ID 39214233
+A1 Garetto,Michele
+A1 Towsley,Don
+YR 2003
+T1 Modeling, simulation and measurements of queuing delay under long-tail internet traffic
+JF Sigmetrics Performance Evaluation Review
+SP 47
+OP 57
+
+RT Conference Proceedings
+ID 448655
+A1 Zou,Cliff,Changchun
+A1 Gong,Weibo
+A1 Towsley,Donald,F.
+YR 2002
+T1 Code red worm propagation modeling and analysis
+SP 138
+OP 147
+
+RT Journal Article
+ID 1575339
+A1 Hollot,C.,V.
+A1 Misra,Vishal
+A1 Towsley,Donald
+A1 Gong,Weibo
+YR 2002
+T1 Analysis and design of controllers for AQM routers supporting TCP flows
+JF IEEE Transactions on Automatic Control
+VO 47
+SP 945
+OP 959
+IS 6
+
+RT Conference Proceedings
+ID 100808
+A1 Bu,Tian
+A1 Towsley,Donald,F.
+YR 2002
+T1 On Distinguishing between Internet Power Law Topology Generators
+VO 2
+SP 638
+
+RT Journal Article
+ID 84698
+A1 Rubenstein,Dan
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2002
+T1 Detecting shared congestion of flows via end-to-end measurement
+JF IEEE/ACM Transactions on Networking
+VO 10
+SP 381
+OP 395
+IS 3
+
+RT Journal Article
+ID 249459
+A1 Presti,Francesco,Lo
+A1 Duffield,Nick,G.
+A1 Horowitz,Joseph
+A1 Towsley,Donald,F.
+YR 2002
+T1 Multicast-based inference of network-internal delay distributions
+JF IEEE/ACM Transactions on Networking
+VO 10
+SP 761
+OP 775
+IS 6
+
+RT Journal Article
+ID 751580
+A1 Gao,Lixin
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2002
+T1 Efficient schemes for broadcasting popular videos
+JF Multimedia Systems
+VO 8
+SP 284
+OP 294
+IS 4
+
+RT Journal Article
+ID 419894
+A1 Bu,Tian
+A1 Duffield,Nick,G.
+A1 Presti,Francesco,Lo
+A1 Towsley,Donald,F.
+YR 2002
+T1 Network tomography on general topologies
+JF Sigmetrics Performance Evaluation Review
+VO 30
+SP 21
+OP 30
+IS 1
+
+RT Conference Proceedings
+ID 66635
+A1 Wang,Bing
+A1 Sen,Subhabrata
+A1 Adler,Micah
+A1 Towsley,Donald,F.
+YR 2002
+T1 Optimal Proxy Cache Allocation for Efficient Streaming Media Distribution
+VO 3
+SP 1726
+
+RT Journal Article
+ID 125847
+A1 Duffield,Nick,G.
+A1 Horowitz,Joseph
+A1 Presti,Francesco,Lo
+A1 Towsley,Donald,F.
+YR 2002
+T1 Multicast topology inference from measured end-to-end loss
+JF IEEE Transactions on Information Theory
+VO 48
+SP 26
+OP 45
+IS 1
+
+RT Journal Article
+ID 82417
+A1 Rubenstein,Dan
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2002
+T1 The impact of multicast layering on network fairness
+JF IEEE/ACM Transactions on Networking
+VO 10
+SP 169
+OP 182
+IS 2
+
+RT Conference Proceedings
+ID 49310
+A1 Jaiswalt,Sharad
+A1 Iannaccone,Gianluca
+A1 Diot,Christophe
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2002
+T1 Measurement and classification of out-of-sequence packets in a tier-1 IP backbone
+SP 113
+OP 114
+
+RT Journal Article
+ID 55556
+A1 Firoiu,Victor
+A1 Boudec,Jean-Yves,Le
+A1 Towsley,Don
+A1 Zhang,Zhi-Li
+YR 2002
+T1 Theories and models for Internet quality of service
+JF Proceedings of The IEEE
+VO 90
+SP 1565
+OP 1591
+IS 9
+
+RT Journal Article
+ID 703541
+A1 Figueiredo,Daniel,R.
+A1 Liu,Benyuan
+A1 Misra,Vishal
+A1 Towsley,Donald,F.
+YR 2002
+T1 On the autocorrelation structure of TCP traffic
+JF Computer Networks
+VO 40
+SP 339
+OP 361
+IS 3
+
+RT Journal Article
+ID 88549
+A1 Bu,Tian
+A1 Gao,Lixin
+A1 Towsley,Donald,F.
+YR 2002
+T1 On routing table growth
+JF Computer Communication Review
+VO 32
+SP 77
+OP 77
+IS 1
+
+RT Journal Article
+ID 1292812
+A1 Duffield,Nick
+A1 Horowitz,Joseph
+A1 Towsley,Don
+A1 Wei,Wei
+A1 Friedman,Timur
+YR 2002
+T1 Multicast-based loss inference with missing data
+JF IEEE Journal on Selected Areas in Communications
+VO 20
+SP 700
+OP 713
+IS 4
+
+RT Conference Proceedings
+ID 2057358
+A1 Liu,Benyuan
+A1 Goeckel,Dennis,L.
+A1 Towsley,Don
+YR 2002
+T1 TCP-cognizant adaptive forward error correction in wireless networks
+
+RT Journal Article
+ID 711144
+A1 Zhang,Chun
+A1 Decleene,Brian
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2002
+T1 Comparison of inter-area rekeying algorithms for secure wireless group communications
+JF Performance Evaluation
+VO 49
+SP 1
+OP 20
+IS 1/4
+
+RT Journal Article
+ID 710938
+A1 Wei,Wei
+A1 Wang,Bing
+A1 Towsley,Donald,F.
+YR 2002
+T1 Continuous-time hidden Markov models for network performance evaluation
+JF Performance Evaluation
+VO 49
+SP 129
+OP 146
+IS 1/4
+
+RT Journal Article
+ID 2401309
+A1 Coffman,E.,G.
+A1 Ge,Z.
+A1 Misra,V.
+A1 Towsley,D.
+YR 2002
+T1 Network resilience: exploring cascading failures within BGP
+
+RT Conference Proceedings
+ID 590054
+A1 Zabele,Steve
+A1 Dorsch,M.
+A1 Ge,Zihui
+A1 Ji,Ping
+A1 Keaton,Mark
+A1 Kurose,James,F.
+A1 Shapiro,Jonathan,K.
+A1 Towsley,Donald,F.
+YR 2002
+T1 SANDS: Specialized Active Networking for Distributed Simulation
+SP 356
+
+RT Conference Proceedings
+ID 50270590
+A1 Chait,Y.
+A1 Hollot,C.,V.
+A1 Misra,Vishal
+A1 Towsley,Don
+A1 Zhang,H.
+A1 Lui,John,C.,S.
+YR 2002
+T1 Providing throughput differentiation for TCP flows using adaptive two-color marking and two-level AQM
+VO 2
+SP 837
+
+RT Journal Article
+ID 803173
+A1 Xiong,Ming
+A1 Ramamritham,Krithi
+A1 Stankovic,John,A.
+A1 Towsley,Donald,F.
+A1 Sivasankaran,Rajendran,M.
+YR 2002
+T1 Scheduling Transactions with Temporal Constraints: Exploiting Data Semantics
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 14
+SP 1155
+OP 1166
+IS 5
+
+RT Journal Article
+ID 2148255
+A1 Guo,Yang
+A1 Gao,Lixin
+A1 Towsley,Don
+A1 Sen,Subhabrata
+YR 2002
+T1 Seamless Workload Adaptive Broadcast
+
+RT Conference Proceedings
+ID 1290253
+A1 Guo,Yang
+A1 Sen,Subhabrata
+A1 Towsley,Don
+YR 2002
+T1 Prefix caching assisted periodic broadcast for streaming popular videos
+
+RT Conference Proceedings
+ID 67205
+A1 Chait,Yossi
+A1 Hollot,C.,V.
+A1 Misra,Vishal
+A1 Towsley,Donald,F.
+A1 Zhang,Honggang
+A1 Lui,John,C.,S.
+YR 2002
+T1 Providing Throughput Differentiation for TCP Flows Using Adaptive TwoColor Marking and MultiLevel AQM
+
+RT Journal Article
+ID 673769
+A1 Shapiro,Jonathan,K.
+A1 Towsley,Donald,F.
+A1 Kurose,James,F.
+YR 2002
+T1 Optimization-Based Congestion Control for Multicast Communications
+JF IEEE Communications Magazine
+VO 40
+SP 423
+OP 442
+IS 9
+
+RT Conference Proceedings
+ID 2031621
+A1 Bu,T.
+A1 Towsley,D.
+YR 2002
+T1 On distiniguishing between Internet power-law generators
+
+RT Conference Proceedings
+ID 1298072
+A1 Shapiro,Jonathan,K.
+A1 Kurose,Jim
+A1 Towsley,D.
+A1 Zabele,S.
+YR 2002
+T1 Topology discovery service for router-assisted multicast transport
+
+RT Conference Proceedings
+ID 50297273
+A1 Ji,Ping
+A1 Liu,Benyuan
+A1 Towsley,D.
+A1 Kurose,J.
+YR 2002
+T1 Modeling frame-level errors in GSM wireless channels
+
+RT Conference Proceedings
+ID 2404640
+A1 Chait,Y.
+A1 Hollot,C.
+A1 Misra,V.
+A1 Towsley,D.
+A1 Zhang,H.
+YR 2002
+T1 Providing throughput di erentiation for tcp ows using adaptive two color marking and multi-level aqm
+
+RT Journal Article
+ID 2562999
+A1 Guo,Y.
+A1 Suh,K.
+A1 Kurose,J.
+A1 Towsley,D.
+YR 2002
+T1 A directory-based peer-to-peer on-demand streaming service
+
+RT Journal Article
+ID 1371956
+A1 Cain,Brad
+A1 Speakman,Tony
+A1 Towsley,Don
+YR 2002
+T1 Generic router assist (gra) for multicast transport protocols
+
+RT Journal Article
+ID 1336576
+A1 Towsley,D.
+YR 2002
+T1 Modeling the internet: seeing the forest through the trees
+
+RT Conference Proceedings
+ID 590050
+A1 Kasera,Sneha,Kumar
+A1 Bhattacharyya,Supratik
+A1 Keaton,Mark
+A1 Zabele,Steve
+A1 Kiwior,Diane
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2002
+T1 Scalable Fair Multicast Using Active Services
+SP 333
+OP 343
+
+RT Journal Article
+ID 2147746
+A1 Ge,Zihui
+A1 Ji,Ping
+A1 Kurose,Jim
+A1 Towsley,Don
+YR 2002
+T1 Min-Cost Matchmaker Problem in Distributed Publish/Subscribe Infrastructures
+
+RT Conference Proceedings
+ID 682543
+A1 Kurose,James,F.
+A1 Diot,Christophe
+A1 Nagshineh,Mahmoud
+A1 Towsley,Donald,F.
+A1 Turner,Jonathan,S.
+A1 Zhang,Lixia
+YR 2002
+T1 Defining the next generation of challenges in networking research
+
+RT Journal Article
+ID 2402205
+A1 Bu,T.
+A1 Towsley,D.
+YR 2002
+T1 On distinguishing between internet power-laws topologies
+
+RT Journal Article
+ID 1587238
+A1 Sen,Subhabrata
+A1 Towsley,Don
+A1 Zhang,Zhi-Li
+A1 Dey,Jayanta,K.
+YR 2002
+T1 Optimal multicast smoothing of streaming video over the Internet
+JF IEEE Journal on Selected Areas in Communications
+VO 20
+SP 1345
+OP 1359
+IS 7
+
+RT Journal Article
+ID 1588370
+A1 Towsley,D.
+A1 Diot,C.
+A1 Levine,B.N.
+A1 Rizzo,L.
+YR 2002
+T1 Guest editorial - network support for multicast communications
+JF IEEE Journal on Selected Areas in Communications
+VO 20
+SP 1441
+OP 1443
+IS 8
+
+RT Journal Article
+ID 39214199
+A1 Bu,Tian
+A1 Duffield,Nick
+A1 Presti,Francesco,Lo
+A1 Towsley,Don
+YR 2002
+T1 Network tomography on general topologies
+JF Sigmetrics Performance Evaluation Review
+SP 21
+OP 30
+
+RT Conference Proceedings
+ID 133099
+A1 Hollot,C.,V.
+A1 Misra,Vishal
+A1 Towsley,Donald,F.
+A1 Gong,Wei-Bo
+YR 2001
+T1 On Designing Improved Controllers for AQM Routers Supporting TCP Flows
+VO 3
+SP 1726
+OP 1734
+
+RT Conference Proceedings
+ID 130725
+A1 Hollot,C.,V.
+A1 Misra,Vishal
+A1 Towsley,Donald,F.
+A1 Gong,Wei-Bo
+YR 2001
+T1 A Control Theoretic Analysis of RED
+VO 3
+SP 1510
+OP 1519
+
+RT Conference Proceedings
+ID 130701
+A1 Duffield,Nick,G.
+A1 Presti,Francesco,Lo
+A1 Paxson,Vern
+A1 Towsley,Donald,F.
+YR 2001
+T1 Inferring Link Loss Using Striped Unicast Probes
+VO 2
+SP 915
+OP 923
+
+RT Journal Article
+ID 680461
+A1 Bu,Tian
+A1 Towsley,Donald,F.
+YR 2001
+T1 Fixed point approximations for TCP behavior in an AQM network
+JF Sigmetrics Performance Evaluation Review
+VO 29
+SP 216
+OP 225
+IS 1
+
+RT Conference Proceedings
+ID 126874
+A1 Liu,Benyuan
+A1 Figueiredo,Daniel,R.
+A1 Guo,Yang
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2001
+T1 A Study of Networks Simulation Efficiency: Fluid Simulation vs. Packet-level Simulation
+VO 3
+SP 1244
+OP 1253
+
+RT Journal Article
+ID 859043
+A1 Bu,Tian
+A1 Towsley,Donald,F.
+YR 2001
+T1 A fixed point approximation of TCP behavior in a network
+JF Sigmetrics Performance Evaluation Review
+VO 28
+SP 17
+OP 18
+IS 4
+
+RT Journal Article
+ID 217548
+A1 Gao,Lixin
+A1 Towsley,Donald,F.
+YR 2001
+T1 Threshold-based multicast for continuous media delivery
+JF IEEE Transactions on Multimedia
+VO 3
+SP 405
+OP 414
+IS 4
+
+RT Conference Proceedings
+ID 128835
+A1 Alouf,Sara
+A1 Nain,Philippe
+A1 Towsley,Donald,F.
+YR 2001
+T1 Inferring Network Characteristics via Moment-Based Estimators
+VO 2
+SP 1045
+OP 1054
+
+RT Book, Whole
+ID 107624
+A1 Duffield,Nick,G.
+A1 Horowitz,Joseph
+A1 Presti,Francesco,Lo
+A1 Towsley,Donald,F.
+YR 2001
+T1 Network Delay Tomography from End-to-End Unicast Measurements
+SP 576
+OP 595
+
+RT Conference Proceedings
+ID 2122249
+A1 DeCleene,B.
+A1 Dondeti,L.
+A1 Griffin,S.
+A1 Hardjono,T.
+A1 Kiwior,D.
+A1 Kurose,J.
+A1 Towsley,D.
+A1 Vasudevan,S.
+A1 Zhang,C.
+YR 2001
+T1 Secure group communications for wireless networks
+
+RT Book, Whole
+ID 108630
+A1 Adler,Micah
+A1 Bu,Tian
+A1 Sitaraman,Ramesh,K.
+A1 Towsley,Donald,F.
+YR 2001
+T1 Tree Layout for Internal Network Characterizations in Multicast Networks
+SP 189
+OP 204
+
+RT Conference Proceedings
+ID 1274175
+A1 Sen,Subhabrata
+A1 Gao,Lixin
+A1 Towsley,Don
+YR 2001
+T1 Frame-based periodic broadcast and fundamental resource tradeoffs
+
+RT Conference Proceedings
+ID 130509
+A1 Wang,Bing
+A1 Sen,Subhabrata
+A1 Adler,Micah
+A1 Towsley,Don
+YR 2001
+T1 Proxy-based Distribution of Streaming Video over Unicast/Multicast Connections
+
+RT Conference Proceedings
+ID 131587
+A1 Guo,Yang
+A1 Sen,Subhabrata
+A1 Towsley,Don
+YR 2001
+T1 Prefix Caching assisted Periodic Broadcast: Framework and Techniques to Support Streaming for Popular Videos
+
+RT Journal Article
+ID 764798
+A1 Furini,Marco
+A1 Towsley,Donald,F.
+YR 2001
+T1 Real-time traffic transmission over the Internet
+JF IEEE Transactions on Multimedia
+VO 3
+SP 33
+OP 40
+IS 1
+
+RT Conference Proceedings
+ID 2184330
+A1 Adler,Micah
+A1 Ge,Zihui
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+A1 Zabele,Steve
+YR 2001
+T1 Channelization Problem in Large Scale Data Dissemination
+SP 100
+OP 109
+
+RT Conference Proceedings
+ID 438465
+A1 Bradshaw,Michael,K.
+A1 Wang,Bing
+A1 Sen,Subhabrata
+A1 Kurose,James,F.
+A1 Shenoy,Prashant,J.
+A1 Towsley,Donald,F.
+YR 2001
+T1 Periodic broadcast and patching services: implementation, measurement, and analysis in an internet streaming video testbed
+SP 280
+OP 290
+
+RT Journal Article
+ID 70278
+A1 Rubenstein,Dan
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2001
+T1 A study of proactive hybrid FEC/ARQ and scalable feedback techniques for reliable, real-time multicast
+JF Computer Communications
+VO 24
+SP 563
+OP 574
+IS 5-6
+
+RT Journal Article
+ID 14418317
+A1 Bradshaw,Michael,K.
+A1 Wang,Bing
+A1 Sen,Subhabrata
+A1 Gao,Lixin
+A1 Kurose,Jim
+A1 Shenoy,Prashant
+A1 Towsley,Don
+YR 2001
+T1 Periodic broadcast and patching services: implementation, measurement, and analysis in an Internet streaming video testbed
+JF Sigmetrics Performance Evaluation Review
+VO 29
+SP 312
+OP 313
+IS 1
+
+RT Journal Article
+ID 2060737
+A1 Chait,Y.
+A1 Hollot,C.,V.
+A1 Misra,Vishal
+A1 Towsley,Don
+A1 Zhang,H.
+A1 Lui,John,C.,S.
+YR 2001
+T1 Providing Throughput Differentiation for TCP Flows Using Adaptive Two-Color Marking and Two-Level AQM
+
+RT Journal Article
+ID 226807
+A1 Bhattacharyya,Supratik
+A1 Towsley,Donald,F.
+A1 Kurose,James,F.
+YR 2001
+T1 A novel loss indication filtering approach for multicast congestion control
+JF Computer Communications
+VO 24
+SP 512
+OP 524
+IS 5-6
+
+RT Book, Whole
+ID 553924
+A1 Graves,Emily,E.
+A1 Srikant,R.
+A1 Towsley,Donald,F.
+YR 2001
+T1 Decentralized Computation of Weighted Max-Min Fair Bandwidth Allocation in Networks with Multicast Flows
+SP 326
+OP 342
+
+RT Journal Article
+ID 3108548
+A1 Liu,D.
+A1 Figueiredo,D.,R.
+A1 Guo,Y.
+A1 Kurose,J.
+A1 Towsley,D.
+YR 2001
+T1 Fluid models and solutions for large-scale IP networks
+
+RT Conference Proceedings
+ID 50232015
+A1 Chait,Yossi
+A1 Hollot,C.,V.
+A1 Misra,Vishal
+A1 Oldak,Salomon
+A1 Towsley,Don
+A1 Gong,Wei-Bo
+YR 2001
+T1 Fixed and adaptive model-based controllers for active queue management
+VO 4
+SP 2981
+
+RT Journal Article
+ID 116907
+A1 Firoiu,Victor
+A1 Boudec,Jean-Yves,Le
+A1 Towsley,Don
+A1 Zhang,Zhi-Li
+YR 2001
+T1 Advances in Internet Quality of Service
+
+RT Book, Whole
+ID 553893
+A1 Ji,Ping
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2001
+T1 Activating and Deactivating Repair Servers in Active Multicast Trees
+SP 507
+OP 523
+
+RT Journal Article
+ID 3442363
+A1 Man,E.,G.,Co
+A1 Ge,Z.
+A1 Misra,V.
+A1 Towsley,D.
+YR 2001
+T1 Network Resilience: Exploring Cascading Failures within BGP
+
+RT Book, Whole
+ID 646023
+A1 Towsley,Donald,F.
+YR 2001
+T1 Network Tomography through End-to-End Measurements
+SP 60
+
+RT Journal Article
+ID 39236984
+A1 Bradshaw,Michael,K.
+A1 Wang,Bing
+A1 Gao,Lixin
+A1 Kurose,Jim
+A1 Shenoy,Prashant
+A1 Towsley,Don
+A1 Sen,Subhabrata
+YR 2001
+T1 Periodic broadcast and patching services: implementation, measurement, and analysis in an internet streaming video testbed
+SP 280
+OP 290
+
+RT Journal Article
+ID 39236985
+A1 Bradshaw,Michael,K.
+A1 Wang,Bing
+A1 Sen,Subhabrata
+A1 Gao,Lixin
+A1 Kurose,Jim
+A1 Shenoy,Prashant
+A1 Towsley,Don
+YR 2001
+T1 Periodic broadcast and patching services: implementation, measurement, and analysis in an internet streaming video testbed
+SP 638
+OP 639
+
+RT Journal Article
+ID 39214173
+A1 Bu,Tian
+A1 Towsley,Don
+YR 2001
+T1 Fixed point approximations for TCP behavior in an AQM network
+JF Sigmetrics Performance Evaluation Review
+SP 216
+OP 225
+
+RT Journal Article
+ID 145888
+A1 Misra,Vishal
+A1 Gong,Wei-bo
+A1 Towsley,Donald,F.
+YR 2000
+T1 Fluid-based analysis of a network of AQM routers supporting TCP flows with an application to RED
+JF Computer Communication Review
+VO 30
+SP 151
+OP 160
+IS 4
+
+RT Journal Article
+ID 765202
+A1 Padhye,Jitendra
+A1 Firoiu,Victor
+A1 Towsley,Donald,F.
+A1 Kurose,James,F.
+YR 2000
+T1 Modeling TCP Reno performance: a simple model and its empirical validation
+JF IEEE/ACM Transactions on Networking
+VO 8
+SP 133
+OP 145
+IS 2
+
+RT Journal Article
+ID 204825
+A1 Adams,Andrew
+A1 Bu,Tian
+A1 Friedman,Timur
+A1 Horowitz,Joseph
+A1 Towsley,D.
+A1 Caceres,R.
+A1 Duffield,N.
+A1 Presti,F.,L.
+A1 Moon,S.,B.
+A1 Paxson,V.
+YR 2000
+T1 The use of end-to-end multicast measurements for characterizing internal network behavior
+JF IEEE Communications Magazine
+VO 38
+SP 152
+OP 159
+IS 5
+
+RT Journal Article
+ID 281296
+A1 Kasera,Sneha,K.
+A1 Bhattacharyya,Supratik
+A1 Keaton,Mark
+A1 Kiwior,Diane
+A1 Zabele,S.
+A1 Kurose,J.
+A1 Towsley,D.
+YR 2000
+T1 Scalable fair reliable multicast using active services
+JF IEEE Network
+VO 14
+SP 48
+OP 57
+IS 1
+
+RT Journal Article
+ID 239723
+A1 Sahu,Sambit
+A1 Nain,Philippe
+A1 Diot,Christophe
+A1 Firoiu,Victor
+A1 Towsley,Donald,F.
+A1 Iowsley,Don
+YR 2000
+T1 On achievable service differentiation with token bucket marking for TCP
+JF Sigmetrics Performance Evaluation Review
+VO 28
+SP 23
+OP 33
+IS 1
+
+RT Journal Article
+ID 764779
+A1 Sen,Subhabrata
+A1 Rexford,Jennifer,L.
+A1 Dey,Jayanta,K.
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2000
+T1 Online Smoothing of Variable-Bit-Rate Streaming Video
+JF IEEE Transactions on Multimedia
+VO 2
+SP 37
+OP 48
+IS 1
+
+RT Journal Article
+ID 765379
+A1 Kasera,Sneha,Kumar
+A1 Hjálmtýsson,Gísli
+A1 Towsley,Donald,F.
+A1 Kurose,James,F.
+YR 2000
+T1 Scalable reliable multicast using multiple multicast channels
+JF IEEE/ACM Transactions on Networking
+VO 8
+SP 294
+OP 310
+IS 3
+
+RT Journal Article
+ID 3520145
+A1 Rexford,J.
+A1 Sen,S.
+A1 Dey,J.
+A1 Feng,W.
+A1 Kurose,J.
+A1 Stankovic,J.
+A1 Towsley,D.
+YR 2000
+T1 Online Smoothing of Live, Variable-Bit-Rate Video
+JF IEEE Transactions on Multimedia
+
+RT Conference Proceedings
+ID 260453
+A1 Guo,Yang
+A1 Gong,Weibo
+A1 Towsley,Donald,F.
+YR 2000
+T1 Time-Stepped Hybrid Simulation (TSHS) for Large Scale Networks
+VO 2
+SP 441
+OP 450
+
+RT Conference Proceedings
+ID 1983227
+A1 Padhye,J.
+A1 Firoiu,V.
+A1 Towsley,D.
+A1 Kurose,J.
+YR 2000
+T1 A Simple Model and Its Empirical Validation
+
+RT Journal Article
+ID 2182153
+A1 Casetti,Claudio
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2000
+T1 An adaptive algorithm for measurement-based admission control in integrated services packet networks
+JF Computer Communications
+VO 23
+SP 1363
+OP 1376
+IS 14-15
+
+RT Journal Article
+ID 2093766
+A1 Cain,B.
+A1 Speakman,T.
+A1 Towsley,D.
+YR 2000
+T1 Generic Router Assist GRA Building Block Motivation and Architecture
+
+RT Conference Proceedings
+ID 2116344
+A1 Bu,T.
+A1 Towsley,D.
+YR 2000
+T1 Fixed Point Approximation for TCP behavior in an AQM Network
+
+RT Book, Whole
+ID 673947
+A1 Furini,Marco
+A1 Towsley,Donald,F.
+YR 2000
+T1 Real-Time Traffic Transmission over the Internet
+SP 483
+OP 494
+
+RT Journal Article
+ID 3423181
+A1 Caceres,N.,Duffield
+A1 Horowitz,J.
+A1 Towsley,D.
+YR 2000
+T1 Multicast-based inference of network-internal loss characteristics
+JF IEEE Transactions on Information Theory
+
+RT Conference Proceedings
+ID 673794
+A1 Cain,Brad
+A1 Towsley,Donald,F.
+YR 2000
+T1 Generic Multicast Transport Services: Router Support for Multicast Applications
+SP 108
+OP 120
+
+RT Conference Proceedings
+ID 476783
+A1 Kasera,Sneha,Kumar
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2000
+T1 Buffer requirements and replacement policies for multicast repair service
+SP 5
+OP 14
+
+RT Journal Article
+ID 3222543
+A1 Zabele,S.
+A1 Stanzione,T.
+A1 Kurose,J.
+A1 Towsley,D.
+YR 2000
+T1 Improving Distributed Simulation Performance Using Active Networks
+
+RT Journal Article
+ID 705061
+A1 Hwang,Ren-hung
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 2000
+T1 MDP routing for multi-rate loss networks
+JF Computer Networks
+VO 34
+SP 241
+OP 261
+IS 2
+
+RT Journal Article
+ID 2040069
+A1 Duffield,N.
+A1 Horowitz,J.
+A1 Presti,F.,L.
+A1 Towsley,D.
+YR 2000
+T1 Multicast Topology Inference From Measured End-to-End Measurements
+
+RT Journal Article
+ID 7036018
+A1 Sahut,Sambit
+A1 Nain,Philippe
+A1 Diot,Christophe
+A1 Firoiu,Victor
+A1 Towsley,Don
+YR 2000
+T1 On achievable service differentiation with token bucket marking for TCP
+JF Sigmetrics Performance Evaluation Review
+SP 23
+OP 33
+
+RT Journal Article
+ID 711477
+A1 Sahu,Sambit
+A1 Firoiu,Victor
+A1 Towsley,Donald,F.
+A1 Kurose,James,F.
+YR 2000
+T1 Traffic models and admission control for variable bit rate continuous media transmission with deterministic service
+JF Performance Evaluation
+VO 40
+SP 115
+OP 133
+IS 1-3
+
+RT Journal Article
+ID 3755652
+A1 Hordijk,Arie
+A1 Liu,Zhen
+A1 Towsley,Don
+YR 2000
+T1 Smoothing effect of the superposition of homogeneous sources in tandem networks
+JF Journal of Applied Probability
+VO 37
+SP 900
+OP 913
+IS 2000
+
+RT Conference Proceedings
+ID 476767
+A1 Towsley,Donald,F.
+YR 2000
+T1 Network tomography using end-to-end multicast measurements (invited talk)
+SP 103
+
+RT Journal Article
+ID 1587037
+A1 Ramjee,Ramachandran
+A1 Porta,Thomas,F.,La
+A1 Kurose,Jim
+A1 Towsley,Don
+YR 2000
+T1 User agent migration policies in wireless networks
+JF IEEE Journal on Selected Areas in Communications
+VO 18
+SP 2465
+OP 2477
+IS 11
+
+RT Journal Article
+ID 39212479
+A1 Misra,Vishal
+A1 Gong,Wei-Bo
+A1 Towsley,Don
+YR 2000
+T1 Fluid-based analysis of a network of AQM routers supporting TCP flows with an application to RED
+JF Computer Communication Review
+SP 151
+OP 160
+
+RT Journal Article
+ID 39214143
+A1 Rubenstein,Dan
+A1 Kurose,Jim
+A1 Towsley,Don
+YR 2000
+T1 Detecting shared congestion of flows via end-to-end measurement
+JF Sigmetrics Performance Evaluation Review
+SP 145
+OP 155
+
+RT Conference Proceedings
+ID 682005
+A1 Yajnik,Maya
+A1 Moon,Sue,B.
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1999
+T1 Measurement and Modeling of the Temporal Dependence in Packet Loss
+SP 345
+OP 352
+
+RT Conference Proceedings
+ID 682189
+A1 Sent,Subhabrata
+A1 Rexford,Jennifer
+A1 Towsley,Donald,F.
+YR 1999
+T1 Proxy Prefix Caching for Multimedia Streams
+VO 3
+SP 1310
+OP 1319
+
+RT Journal Article
+ID 1447942
+A1 Cáceres,Ramón
+A1 Duffield,Nick,G.
+A1 Horowitz,Joseph
+A1 Towsley,Donald,F.
+YR 1999
+T1 Multicast-based inference of network-internal loss characteristics
+JF IEEE Transactions on Information Theory
+VO 45
+SP 2462
+OP 2480
+IS 7
+
+RT Conference Proceedings
+ID 285264
+A1 Bolot,Jean-chrysostome
+A1 Fosse-parisis,Sacha
+A1 Towsley,Donald,F.
+YR 1999
+T1 Adaptive FEC-Based Error Control for Internet Telephony
+VO 3
+SP 1453
+OP 1460
+
+RT Conference Proceedings
+ID 682571
+A1 Cáceres,Ramón
+A1 Duffield,Nick,G.
+A1 Horowitz,Joseph
+A1 Towsley,Donald,F.
+A1 Bu,Tian
+YR 1999
+T1 Multicast-Based Inference of Network-Internal Characteristics: Accuracy of Packet Loss Estimation
+VO 1
+SP 371
+OP 379
+
+RT Conference Proceedings
+ID 393970
+A1 Moont,Sue,B.
+A1 Skellyt,Paul
+A1 Towsley,Donald,F.
+YR 1999
+T1 Estimation and Removal of Clock Skew from Network Delay Measurements
+VO 1
+SP 227
+OP 234
+
+RT Conference Proceedings
+ID 11613342
+A1 Yajnik,Maya
+A1 Moon,Sue
+A1 Kurose,Jim
+A1 Towsley,Don
+YR 1999
+T1 Measurement and modelling of the temporal dependence in packet loss
+VO 1
+SP 345
+
+RT Conference Proceedings
+ID 384475
+A1 Padhye,Jitendra
+A1 Kurose,Jim
+A1 Towsley,Don
+A1 Koodli,Rajeev
+YR 1999
+T1 A Model Based TCP-Friendly Rate Control Protocol
+
+RT Conference Proceedings
+ID 346235
+A1 Gao,Lixin
+A1 Towsley,Donald,F.
+YR 1999
+T1 Supplying Instantaneous Video-on-Demand Services Using Controlled Multicast
+SP 117
+OP 121
+
+RT Conference Proceedings
+ID 290081
+A1 Misra,Vishal
+A1 Gong,Wei-Bo
+A1 Towsley,Don
+YR 1999
+T1 Stochastic Differential Equation Modeling and Analysis of TCP-Windowsize Behavior
+
+RT Journal Article
+ID 638093
+A1 Rubenstein,Dan
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1999
+T1 The Impact of Multicast Layering on Network Fairness
+JF Computer Communication Review
+VO 29
+SP 27
+OP 38
+IS 4
+
+RT Journal Article
+ID 331251
+A1 Rexford,Jennifer
+A1 Towsley,Donald,F.
+YR 1999
+T1 Smoothing variable-bit-rate video in an Internetwork
+JF IEEE/ACM Transactions on Networking
+VO 7
+SP 202
+OP 215
+IS 2
+
+RT Conference Proceedings
+ID 378574
+A1 Sen,Subhabrata
+A1 Gao,Lixin
+A1 Rexford,Jennifer
+A1 Towsley,Don
+YR 1999
+T1 Optimal Patching Schemes for Efficient Multimedia Streaming
+
+RT Journal Article
+ID 2112027
+A1 Padhye,J.
+A1 Firoiu,V.
+A1 Towsley,D.
+A1 Kurose,J.
+YR 1999
+T1 A Stchastic Model of TCP Reno Congestion Avoidance and Control
+
+RT Conference Proceedings
+ID 271788
+A1 Liu,Benyuan
+A1 Guo,Yang
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+A1 Gong,Weibo
+YR 1999
+T1 Fluid Simulation of Large Scale Networks: Issues and Tradeoffs
+SP 2136
+OP 2142
+
+RT Conference Proceedings
+ID 60538
+A1 Friedman,Timur
+A1 Towsley,Donald,F.
+YR 1999
+T1 Multicast Session Membership Size Estimation
+VO 2
+SP 965
+OP 972
+
+RT Conference Proceedings
+ID 217476
+A1 Sahu,Sambit
+A1 Towsley,Don
+A1 Kurose,Jim
+YR 1999
+T1 A quantitative study of differentiated services for the Internet
+
+RT Conference Proceedings
+ID 68162
+A1 Bhattacharyya,Supratik
+A1 Towsley,Donald,F.
+A1 Kurose,James,F.
+YR 1999
+T1 The Loss Path Multiplicity Problem in Multicast Congestion Control
+VO 2
+SP 856
+OP 863
+
+RT Journal Article
+ID 680448
+A1 Padhye,Jitendra
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+A1 Koodli,Rajeev
+YR 1999
+T1 A TCP-Friendly Rate Adjustment Protocol for Continuous Media Flows over Best Effort Networks
+JF Sigmetrics Performance Evaluation Review
+VO 27
+SP 220
+OP 221
+IS 1
+
+RT Conference Proceedings
+ID 295199
+A1 Gao,Lixin
+A1 Zhang,Zhi-Li
+A1 Towsley,Donald,F.
+YR 1999
+T1 Catching and selective catching: efficient latency reduction techniques for delivering continuous multimedia streams
+SP 203
+OP 206
+
+RT Conference Proceedings
+ID 4137466
+A1 Bolot,J.
+A1 Parisis,S.,Fosse
+A1 Towsley,D.
+YR 1999
+T1 Adaptive FEC - based error control for interactive audio on the Internet
+
+RT Conference Proceedings
+ID 290156
+A1 Caceres,R.
+A1 Duffield,N.,G.
+A1 Horowitz,J.
+A1 Presti,F.,Lo
+A1 Towsley,D.
+YR 1999
+T1 Loss-based inference of multicast network topology
+VO 3
+SP 3065
+
+RT Conference Proceedings
+ID 246566
+A1 Rubenstein,Dan
+A1 Kasera,Sneha,Kumar
+A1 Towsley,Donald,F.
+A1 Kurose,James,F.
+YR 1999
+T1 Improving Reliable Multicast Using Active Parity Encoding Services (APES)
+VO 3
+SP 1248
+OP 1255
+
+RT Conference Proceedings
+ID 81205
+A1 Caceres,R.
+A1 Duffield,N.,G.
+A1 Moon,S.,B.
+A1 Towsley,Don
+YR 1999
+T1 Inference of internal loss rates in the MBone
+
+RT Journal Article
+ID 286286
+A1 Koole,Ger
+A1 Sparaggis,Panayotis,D.
+A1 Towsley,Don
+YR 1999
+T1 Minimizing response times and queue lengths in systems of parallel queues
+JF Journal of Applied Probability
+VO 36
+SP 1185
+OP 1193
+IS 1999
+
+RT Conference Proceedings
+ID 2114554
+A1 Caceres,R.
+A1 Duffield,N.,G.
+A1 Presti,J.,Horowitz,F.,Lo
+A1 Towsley,D.
+YR 1999
+T1 Statistical Inference of Multicast Network Topology
+
+RT Journal Article
+ID 292773
+A1 Caceres,Ramon
+A1 Duffield,N.,G.
+A1 Moon,Sue,B.
+A1 Towsley,Don
+YR 1999
+T1 Inferring Link-Level Performance from End-to-End Multicast Measurements
+
+RT Conference Proceedings
+ID 681868
+A1 Sen,Subhabrata
+A1 Towsley,Donald,F.
+A1 Zhang,Zhi-li
+A1 Dey,Jayanta,K.
+YR 1999
+T1 Optimal Multicast Smoothing of Streaming Video over an Internetwork
+VO 2
+SP 455
+OP 463
+
+RT Journal Article
+ID 765711
+A1 Presti,Francesco,Lo
+A1 Zhang,Zhi-Li
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1999
+T1 Source time scale and optimal buffer/bandwidth tradeoff for heterogeneous regulated traffic in a network node
+JF IEEE/ACM Transactions on Networking
+VO 7
+SP 490
+OP 501
+IS 4
+
+RT Conference Proceedings
+ID 1366681
+A1 Sahu,S.
+A1 Nain,P.
+A1 Towsley,D.
+A1 Diot,C.
+A1 Firoiu,V.
+YR 1999
+T1 On achievable service differentiation with token bucket marking for tce
+
+RT Journal Article
+ID 1261049
+A1 Mistra,V.
+A1 Gong,W.,B
+A1 Towsley,D.
+YR 1999
+T1 Stochastic differential equation modeling and analysis of tcp-windowsize behaviour performance
+
+RT Journal Article
+ID 1389124
+A1 Gao,L.
+A1 Towsley,D.
+YR 1999
+T1 Supplying instantaneous video-on-demand systems using controlled multicast
+
+RT Journal Article
+ID 48025094
+A1 Liu,Zhen
+A1 Nain,Philippe
+A1 Towsley,Don
+YR 1999
+T1 Bounds for a class of stochastic recursive equations
+JF Mathematical Methods of Operations Research
+VO 49
+SP 325
+OP 333
+IS 2
+
+RT Journal Article
+ID 1293351
+A1 Cain,B.
+A1 Speakman,T.
+A1 Towsley,D.
+YR 1999
+T1 Generic router assist (gra) building block
+
+RT Journal Article
+ID 3369894
+A1 Garg,A.
+A1 Kasera,S.,K.
+A1 Kumar,R.
+A1 Towsley,D.
+YR 1999
+T1 Measurement of Join Latency on the Mbone
+
+RT Journal Article
+ID 1322865
+A1 Misra,V.
+A1 Gong,W.
+A1 Towsley,D.
+YR 1999
+T1 Differential equation modeling and analysis of tcp window size behavior
+
+RT Conference Proceedings
+ID 5109411
+A1 Caceres,R.
+A1 Duffield,N.,G.
+A1 Horowitz,J.
+A1 LoPresti,F.
+A1 Towsley,D.
+YR 1999
+T1 Statistical inference for internal link parameters in a network
+
+RT Journal Article
+ID 2989851
+A1 Osland,Per-oddvar
+A1 Kasera,Sneha,K.
+A1 Kurose,Jim
+A1 Towsley,Don
+YR 1999
+T1 Dynamic activation and deactivation of repair servers in a multicast tree
+
+RT Journal Article
+ID 3800105
+A1 Misra,V.
+A1 Gong,W.
+A1 Towsley,D.,F.
+YR 1999
+T1 Stochastic differential modellingand analysis of TCP window size behavior
+
+RT Journal Article
+ID 39212459
+A1 Rubenstein,Dan
+A1 Kurose,Jim
+A1 Towsley,Don
+YR 1999
+T1 The impact of multicast layering on network fairness
+JF Computer Communication Review
+SP 27
+OP 38
+
+RT Journal Article
+ID 39214129
+A1 Padhyet,Jitendra
+A1 Kurose,Jim
+A1 Towsley,Don
+A1 Koodli,Rajeev
+YR 1999
+T1 A TCP-friendly rate adjustment protocol for continuous media flows over best effort networks
+JF Sigmetrics Performance Evaluation Review
+SP 220
+OP 221
+
+RT Conference Proceedings
+ID 682003
+A1 Firoiu,Victor
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1999
+T1 Performance Evaluation of ATM Shortcut Connections in Overlaid IP/ATM Networks
+VO 3
+SP 1480
+OP 1487
+
+RT Journal Article
+ID 859085
+A1 Cáceres,Ramón
+A1 Duffield,Nick,G.
+A1 Horowitz,Joseph
+A1 Presti,Francesco,Lo
+A1 Towsley,Donald,F.
+YR 1999
+T1 Statistical inference of internal network loss and topology
+JF Sigmetrics Performance Evaluation Review
+VO 27
+SP 5
+OP 6
+IS 3
+
+RT Journal Article
+ID 57458282
+A1 Liu,Zhen
+A1 Nain,Philippe
+A1 Towsley,Don
+A1 Zhang,Zhi-Li
+YR 1999
+T1 Asymptotic behavior of a multiplexer fed by a long-range dependent process
+JF Journal of Applied Probability
+VO 36
+SP 105
+OP 118
+IS 1999
+
+RT Journal Article
+ID 859081
+A1 Liu,Zhen
+A1 Towsley,Donald,F.
+YR 1999
+T1 Stochastic bounds for queueing systems with multiple Markov modulated sources
+JF Sigmetrics Performance Evaluation Review
+VO 27
+SP 23
+IS 3
+
+RT Journal Article
+ID 57393920
+A1 Rexford,Jennifer
+A1 Towsley,Don
+YR 1999
+T1 Smoothing variable-bit-rate video in an Internetwork
+VO 7
+
+RT Conference Proceedings
+ID 267260
+A1 Padhye,Jitendra
+A1 Firoiu,Victor
+A1 Towsley,Donald,F.
+A1 Kurose,James,F.
+YR 1998
+T1 Modeling TCP Throughput: A Simple Model and Its Empirical Validation
+SP 303
+OP 314
+
+RT Journal Article
+ID 83198
+A1 Nonnenmacher,Jörg
+A1 Biersack,Ernst,W.
+A1 Towsley,Donald,F.
+YR 1998
+T1 Parity-based loss recovery for reliable multicast transmission
+JF IEEE/ACM Transactions on Networking
+VO 6
+SP 349
+OP 361
+IS 4
+
+RT Journal Article
+ID 1377
+A1 Salehi,James,D.
+A1 Zhang,Shi-Li
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1998
+T1 Supporting stored video: reducing rate variability and end-to-end resource requirements through optimal smoothing
+JF IEEE/ACM Transactions on Networking
+VO 6
+SP 397
+OP 410
+IS 4
+
+RT Journal Article
+ID 751470
+A1 Moon,Sue,B.
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1998
+T1 Packet Audio Playout Delay Adjustment: Performance Bounds and Algorithms
+JF Multimedia Systems
+VO 6
+SP 17
+OP 28
+IS 1
+
+RT Conference Proceedings
+ID 234982
+A1 Duffield,N.,G.
+A1 Horowitz,J.
+A1 Towsley,D.
+YR 1998
+T1 Multicast-Based Inference of Network-Internal Loss Characteristics
+
+RT Journal Article
+ID 911
+A1 Ramjee,Ramachandran
+A1 Porta,Thomas,F.,La
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1998
+T1 Performance evaluation of connection rerouting schemes for ATM-based wireless networks
+JF IEEE/ACM Transactions on Networking
+VO 6
+SP 249
+OP 261
+IS 3
+
+RT Conference Proceedings
+ID 277226
+A1 Bolot,Jean
+A1 Fosse-Parisis,Sacha
+A1 Towsley,Don
+YR 1998
+T1 Adaptive FEC-Based Error Control for Interactive Audio in the Internet
+
+RT Conference Proceedings
+ID 361220
+A1 Kasera,Sneha,Kumar
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1998
+T1 A Comparison of Server-Based and Receiver-Based Local Recovery Approaches for Scalable Reliable Multicast
+VO 3
+SP 988
+OP 995
+
+RT Journal Article
+ID 1371240
+A1 Moon,S.
+A1 Kurose,J.
+A1 Towsley,D.
+YR 1998
+T1 Correlation of packet delay and loss in the internet
+
+RT Conference Proceedings
+ID 239213
+A1 Bhattacharyya,Supratik
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+A1 Nagarajan,Ramesh
+YR 1998
+T1 Efficient Rate-Controlled Bulk Data Transfer Using Multiple Multicast Groups
+VO 3
+SP 1172
+OP 1179
+
+RT Journal Article
+ID 765462
+A1 Firoiu,Victor
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1998
+T1 Efficient admission control of piecewise linear traffic envelopes at EDF schedulers
+JF IEEE/ACM Transactions on Networking
+VO 6
+SP 558
+OP 570
+IS 5
+
+RT Journal Article
+ID 14416463
+A1 Padhye,Jitendra
+A1 Firoiu,Victor
+A1 Towsley,Don
+A1 Kurose,Jim
+YR 1998
+T1 Modeling TCP throughput: a simple model and its empirical validation
+JF Computer Communication Review
+VO 28
+SP 303
+OP 314
+IS 4
+
+RT Journal Article
+ID 738282
+A1 Zhang,Zhi-li
+A1 Liu,Zhen
+A1 Towsley,Donald,F.
+YR 1998
+T1 Closed-Form Deterministic End-to-End Performance Bounds for the Generalized Processor Sharing Scheduling Discipline
+JF Journal of Combinatorial Optimization
+VO 1
+SP 457
+OP 481
+IS 4
+
+RT Journal Article
+ID 258386
+A1 Lui,John,C.,S.
+A1 Muntz,Richard,R.
+A1 Towsley,Donald,F.
+YR 1998
+T1 Computing Performance Bounds of Fork-Join Parallel Programs Under a Multiprocessing Environment
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 9
+SP 295
+OP 311
+IS 3
+
+RT Conference Proceedings
+ID 2661627
+A1 Ramjee,R.
+A1 Kurose,J.
+A1 Towsley,D.
+A1 Schulzrinne,H.
+YR 1998
+T1 Adaptive playout mechanism for packetized audio applications in wide area networks
+
+RT Journal Article
+ID 347999
+A1 Salehi,James,D.
+A1 Zhang,Zhi-Li
+A1 Kurose,James,F.
+A1 Towsley,Don
+YR 1998
+T1 Optimal Smoothing of Stored Video and the Impact on Network Resource Requirements
+JF IEEE/ACM Transactions on Networking
+
+RT Journal Article
+ID 3423325
+A1 Friedman,Timur
+A1 Towsley,Don
+YR 1998
+T1 Multicast session size estimation
+
+RT Journal Article
+ID 858911
+A1 Rubenstein,Dan
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1998
+T1 Optimistic parallel simulation of reliable multicast protocols
+JF Sigmetrics Performance Evaluation Review
+VO 25
+SP 22
+OP 29
+IS 4
+
+RT Journal Article
+ID 1586765
+A1 Jean-Marie,Alain
+A1 Liu,Zhen
+A1 Nain,Philippe
+A1 Towsley,Don
+YR 1998
+T1 Computational aspects of the workload distribution in the MMPP/GI/1 queue
+JF IEEE Journal on Selected Areas in Communications
+VO 16
+SP 640
+OP 652
+IS 5
+
+RT Journal Article
+ID 272346
+A1 Liu,Zhen
+A1 Nain,Philippe
+A1 Niclausse,Nicolas
+A1 Towsley,Don
+YR 1998
+T1 Static Caching of Web Servers
+
+RT Conference Proceedings
+ID 682738
+A1 Ramjee,Ramachandran
+A1 Porta,Thomas,F.,La
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1998
+T1 User Agent Migration Policies in Multimedia Wireless Networks
+VO 3
+SP 1147
+OP 1155
+
+RT Journal Article
+ID 53594134
+A1 Sahu,Sambit
+A1 Firoiu,Victor
+A1 Towsley,Don
+A1 Kurose,James,F.
+YR 1998
+T1 Traffic models and admission control for variable-bit-rate continuous media transmission with deterministic service
+VO 3530
+SP 86
+OP 97
+
+RT Journal Article
+ID 55495959
+A1 Sen,Subhabrata
+A1 Dey,Jayanta,K.
+A1 Kurose,James,F.
+A1 Stankovic,John,A.
+A1 Towsley,Don
+YR 1998
+T1 Streaming CBR transmission of VBR stored video
+VO 3228
+SP 26
+OP 36
+
+RT Journal Article
+ID 15273895
+A1 Zhang,Zhi-Li
+A1 Liu,Zhen
+A1 Towsley,Don
+YR 1998
+T1 Closed-Form Deterministic End-to-End Performance Bounds for the Generalized Processor Sharing Scheduling Discipline
+JF Journal of Combinatorial Optimization
+VO 1
+SP 457
+OP 481
+IS 4
+
+RT Journal Article
+ID 313411
+A1 Nonnenmacher,Jörg
+A1 Biersack,Ernst
+A1 Towsley,Donald,F.
+YR 1997
+T1 Parity-Based Loss Recovery for Reliable Multicast Transmission
+JF Computer Communication Review
+VO 27
+SP 289
+OP 300
+IS 4
+
+RT Journal Article
+ID 797023
+A1 Towsley,Donald,F.
+A1 Kurose,James,F.
+A1 Pingali,Sridhar
+YR 1997
+T1 A Comparison of Sender-Initiated and Receiver-Initiated Reliable Multicast Protocols
+JF IEEE Journal on Selected Areas in Communications
+VO 15
+SP 398
+OP 406
+IS 3
+
+RT Journal Article
+ID 837798
+A1 Ramjee,Ramachandran
+A1 Towsley,Donald,F.
+A1 Nagarajan,Ramesh
+YR 1997
+T1 On optimal call admission control in cellular networks
+JF Wireless Networks
+VO 3
+SP 29
+OP 41
+IS 1
+
+RT Journal Article
+ID 680660
+A1 Kasera,Sneha,Kumar
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1997
+T1 Scalable Reliable Multicast Using Multiple Multicast Groups
+JF Sigmetrics Performance Evaluation Review
+VO 25
+SP 64
+OP 74
+IS 1
+
+RT Conference Proceedings
+ID 334574
+A1 Rexford,J.
+A1 Sen,S.
+A1 Dey,J.
+A1 Feng,W.
+A1 Kurose,J.
+A1 Stankovic,J.
+A1 Towsley,D.
+YR 1997
+T1 Online smoothing of live, variable-bit-rate video
+
+RT Journal Article
+ID 797245
+A1 Zhang,Zhi-li
+A1 Kurose,James,F.
+A1 Salehi,James,D.
+A1 Towsley,Donald,F.
+YR 1997
+T1 Smoothing, Statistical Multiplexing, and Call Admission Control for Stored Video
+JF IEEE Journal on Selected Areas in Communications
+VO 15
+SP 1148
+OP 1166
+IS 6
+
+RT Conference Proceedings
+ID 172260
+A1 Firoiu,Victor
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1997
+T1 Efficient Admission Control for EDF Schedulers
+VO 1
+SP 310
+OP 317
+
+RT Conference Proceedings
+ID 1287194
+A1 Presti,Francesco,Lo
+A1 Zhang,Zhi-li
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1997
+T1 Source Time Scale and Optimal Buffer/Bandwidth Trade-Off for Regulated Traffic in an ATM Node
+VO 2
+SP 675
+OP 682
+
+RT Journal Article
+ID 188528
+A1 Liu,Zhen
+A1 Nain,Philippe
+A1 Towsley,Don
+A1 Zhang,Zhi-li
+YR 1997
+T1 Asymptotic Behavior of a Multiplexer Fed by a Long-Range Dependent Process
+JF Journal of Applied Probability
+
+RT Conference Proceedings
+ID 360676
+A1 Dey,Jayanta,K.
+A1 Sen,Subhabrata
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+A1 Salehi,James,D.
+YR 1997
+T1 Playback Restart in Interactive Streaming Video Applications
+SP 458
+OP 465
+
+RT Journal Article
+ID 680831
+A1 Nahum,Erich,M.
+A1 Yates,David,J.
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1997
+T1 Cache Behavior of Network Protocols
+JF Sigmetrics Performance Evaluation Review
+VO 25
+SP 169
+OP 180
+IS 1
+
+RT Conference Proceedings
+ID 4287856
+A1 Yamamotot,Miki
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+A1 Ikeda,Hiromasa
+YR 1997
+T1 A Delay Analysis of Sender-Initiated and Receiver-Initiated Reliable Multicast Protocols
+VO 2
+SP 480
+OP 488
+
+RT Journal Article
+ID 1663996
+A1 Dallery,Yves
+A1 Liu,Zhen
+A1 Towsley,Don
+YR 1997
+T1 Properties of fork/join queueing networks with blocking under various operating mechanisms
+JF IEEE Transactions on Robotics and Automation
+VO 13
+SP 503
+OP 518
+IS 4
+
+RT Journal Article
+ID 856226
+A1 Zhang,Zhi-li
+A1 Liu,Zhen
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1997
+T1 Call admission control schemes under generalized processor sharing scheduling
+JF Telecommunication Systems
+VO 7
+SP 125
+OP 152
+IS 1-3
+
+RT Journal Article
+ID 413169
+A1 Presti,Francesco,Lo
+A1 Zhang,Zhi-li
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1997
+T1 Source Time Scale and Optimal Buffer/Bandwidth Trade-off for Heterogeneous Regulated Traffic in a Network Node
+JF IEEE/ACM Transactions on Networking
+
+RT Journal Article
+ID 1315531
+A1 Zhang,Z.
+A1 Kurose,J.
+A1 Salehi,J.
+A1 Towsley,D.
+YR 1997
+T1 Statistical multiplexing and call admission control for stored video
+JF IEEE Journal on Selected Areas in Communications
+
+RT Conference Proceedings
+ID 381814
+A1 Sahu,Sambit
+A1 Zhang,Zhi-li
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1997
+T1 On the Efficient Retrieval of VBR Video in a Multimedia Server
+SP 46
+OP 53
+
+RT Journal Article
+ID 1308737
+A1 Decleene,B.
+A1 Bhattacharaya,S.
+A1 Friedman,T.
+A1 Keaton,Ivi.
+A1 Kurose,J.
+A1 Rubenstern,D.
+A1 Towsley,D.
+YR 1997
+T1 Reliable multicast framework(rmf): a white paper
+
+RT Journal Article
+ID 343084
+A1 Liu,Zhen
+A1 Nain,Philippe
+A1 Towsley,Donald,F.
+YR 1997
+T1 Exponential bounds with applications to call admission
+JF Journal of The ACM
+VO 44
+SP 366
+OP 394
+IS 3
+
+RT Journal Article
+ID 2840632
+A1 Zhang,Z.,Liu,Z.,L.
+A1 Towsley,D.
+YR 1997
+T1 Closed-form deterministic performance bounds for the generalized processor sharing scheduling discip
+
+RT Journal Article
+ID 1325510
+A1 Towsley,D.
+A1 Kurose,J.
+A1 Pingali,S.
+YR 1997
+T1 A comparison of sender-initiated reliable multicast and receiver-initiated reliable multicast protocols
+JF IEEE Journal on Selected Areas in Communications
+
+RT Journal Article
+ID 2130668
+A1 Towsley,D.
+A1 Kurose,J.
+A1 Pingali,S.
+YR 1997
+T1 A Comparison of sender and receiver-initiated reliable multicast protocols
+JF IEEE Journal on Selected Areas in Communications
+
+RT Journal Article
+ID 167627
+A1 Towsley,Don
+A1 Kurose,Jim
+A1 Firoiu,Victor
+YR 1997
+T1 Performance Evaluation of ATM Shortcut Connections in Overlaid IP/ATM Networks
+
+RT Journal Article
+ID 84868
+A1 Liu,Zhen
+A1 Nain,Philippe
+A1 Niclausse,Nicolas
+A1 Towsley,Don
+YR 1997
+T1 Static caching of Web servers
+VO 3310
+SP 179
+OP 190
+
+RT Journal Article
+ID 39214062
+A1 Kasera,Sneha,K.
+A1 Kurose,Jim
+A1 Towsley,Don
+YR 1997
+T1 Scalable reliable multicast using multiple multicast groups
+JF Sigmetrics Performance Evaluation Review
+SP 64
+OP 74
+
+RT Journal Article
+ID 15225968
+A1 Liu,Zhen
+A1 Kurose,Jim
+A1 Towsley,Don
+YR 1997
+T1 Call admission control schemes under generalized processor sharing scheduling
+JF Telecommunication Systems
+VO 7
+SP 125
+OP 152
+IS 1
+
+RT Journal Article
+ID 39212436
+A1 Nonnenmacher,Jörg
+A1 Biersack,Ernst
+A1 Towsley,Don
+YR 1997
+T1 Parity-based loss recovery for reliable multicast transmission
+JF Computer Communication Review
+SP 289
+OP 300
+
+RT Journal Article
+ID 39214071
+A1 Nahum,Erich
+A1 Yates,David
+A1 Kurose,Jim
+A1 Towsley,Don
+YR 1997
+T1 Cache behavior of network protocols
+JF Sigmetrics Performance Evaluation Review
+SP 169
+OP 180
+
+RT Journal Article
+ID 52808736
+A1 Rexford,Jennifer
+A1 Towsley,Don
+YR 1997
+T1 Smoothing variable-bit-rate video in an internetwork
+VO 3231
+SP 345
+OP 357
+
+RT Conference Proceedings
+ID 182737
+A1 Yajnik,Maya
+A1 Kurose,Jim
+A1 Towsley,Don
+YR 1996
+T1 Packet loss correlation in the MBone multicast network
+
+RT Conference Proceedings
+ID 332166
+A1 Ramjee,Ramachandran
+A1 Nagarajan,Ramesh
+A1 Towsley,Donald,F.
+YR 1996
+T1 On Optimal Call Admission Control in Cellular Networks
+VO 1
+SP 43
+OP 50
+
+RT Conference Proceedings
+ID 680764
+A1 Salehi,James,D.
+A1 Zhang,Zhi-Li
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1996
+T1 Supporting Stored Video: Reducing Rate Variability and End-to-End Resource Requirements through Optimal Smoothing
+SP 222
+OP 231
+
+RT Journal Article
+ID 714938
+A1 Dey,Jayanta,K.
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1996
+T1 On-Line Scheduling Policies for a Class of IRIS (Increasing Reward with Increasing Service) Real-Time Tasks
+JF IEEE Transactions on Computers
+VO 45
+SP 802
+OP 813
+IS 7
+
+RT Conference Proceedings
+ID 383741
+A1 Firoiu,Victor
+A1 Towsley,Donald,F.
+YR 1996
+T1 Call Admission and Resource Reservation for Multicast Sessions
+VO 1
+SP 94
+OP 101
+
+RT Conference Proceedings
+ID 313003
+A1 Xiong,Ming
+A1 Sivasankaran,Rajendran,M.
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+A1 Towsley,Donald,F.
+YR 1996
+T1 Scheduling transactions with temporal constraints: exploiting data semantics
+SP 240
+OP 251
+
+RT Journal Article
+ID 714379
+A1 Chen,Shenze
+A1 Towsley,Donald,F.
+YR 1996
+T1 A Performance Evaluation of RAID Architectures
+JF IEEE Transactions on Computers
+VO 45
+SP 1116
+OP 1130
+IS 10
+
+RT Conference Proceedings
+ID 563967
+A1 Casetti,Claudio
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1996
+T1 A new algorithm for measurement-based admission control in integrated services packet networks
+SP 13
+OP 28
+
+RT Journal Article
+ID 397402
+A1 Sivasankaran,Rajendran,M.
+A1 Stankovic,John,A.
+A1 Towsley,Donald,F.
+A1 Purimetla,Bhaskar
+A1 Ramamritham,Krithi
+YR 1996
+T1 Priority Assignment in Real-Time Active Databases
+JF The Vldb Journal
+VO 5
+SP 19
+OP 34
+IS 1
+
+RT Conference Proceedings
+ID 617
+A1 Towsley,Don
+A1 Kurose,Jim
+A1 Zhang,Zhi-li
+YR 1996
+T1 Source Time Scale and Optimal Buffer/Bandwidth Trade-off for Regulated Traffic in an ATM Node
+
+RT Journal Article
+ID 346794
+A1 Yates,David,J.
+A1 Nahum,Erich,M.
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1996
+T1 Networking Support for Large Scale Multiprocessor Servers
+JF Sigmetrics Performance Evaluation Review
+VO 24
+SP 116
+OP 125
+IS 1
+
+RT Conference Proceedings
+ID 374874
+A1 Xiong,Ming
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+A1 Towsley,Donald,F.
+A1 Sivasankaran,Rajendran,M.
+YR 1996
+T1 Maintaining Temporal Consistency: Issues and Algorithms
+SP 1
+OP 6
+
+RT Conference Proceedings
+ID 3528025
+A1 Sen,S.
+A1 Gao,L.
+A1 Rexford,J.
+A1 Towsley,D.
+YR 1996
+T1 Optimal patching scheme for efficient multimedia streaming
+
+RT Conference Proceedings
+ID 681219
+A1 Presti,Francesco,Lo
+A1 Zhang,Zhi-li
+A1 Towsley,Donald,F.
+YR 1996
+T1 Bounds, Approximations and Applications for A Two-Queue GPS System
+VO 3
+SP 1310
+OP 1317
+
+RT Conference Proceedings
+ID 1257013
+A1 Salehi,James,D.
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1996
+T1 The Effectiveness of Affinity-Based Scheduling in Multiprocessor Networking
+VO 1
+SP 215
+OP 223
+
+RT Journal Article
+ID 3174
+A1 Ramamritham,Krithi
+A1 Sivasankaran,Rajendran,M.
+A1 Stankovic,John,A.
+A1 Towsley,Donald,F.
+A1 Xiong,Ming
+YR 1996
+T1 Integrating temporal, real-time, an active databases
+JF Sigmod Record
+VO 25
+SP 8
+OP 12
+IS 1
+
+RT Conference Proceedings
+ID 2033751
+A1 Yajnik,M.
+A1 Kurose,J.
+A1 Towsley,D.
+YR 1996
+T1 Packet loss cor-relation in the MBone multicast network: Experimental measurements and Markov chain models
+
+RT Journal Article
+ID 4416164
+A1 Salehi,James,D.
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1996
+T1 The effectiveness of affinity-based scheduling in multiprocessor network protocol processing (extended version)
+JF IEEE/ACM Transactions on Networking
+VO 4
+SP 516
+OP 530
+IS 4
+
+RT Journal Article
+ID 310647
+A1 Salehi,J.,d.
+A1 Kurose,J.,f.
+A1 Towsley,D.
+YR 1996
+T1 The Effectiveness of Affinity-Based Scheduling in Multiprocessor Networking (Extended Version)
+
+RT Conference Proceedings
+ID 305774
+A1 Liu,Zhen
+A1 Nain,Philippe
+A1 Towsley,Donald,F.
+YR 1996
+T1 Bounds on Finite Horizon QoS Metrics with Application to Call Admission
+VO 3
+SP 1338
+OP 1345
+
+RT Journal Article
+ID 372211
+A1 Nicol,David,M.
+A1 Simha,Rahul
+A1 Towsley,Donald,F.
+YR 1996
+T1 Static Assignment of Stochastic Tasks Using Majorization
+JF IEEE Transactions on Computers
+VO 45
+SP 730
+OP 740
+IS 6
+
+RT Journal Article
+ID 26733369
+A1 Sparaggis,Panayotis,D.
+A1 Towsley,Don
+A1 Cassandras,Christos,G.
+YR 1996
+T1 Optimal control of multiclass parallel service systems
+JF Discrete Event Dynamic Systems
+VO 6
+SP 139
+OP 158
+IS 2
+
+RT Journal Article
+ID 14418269
+A1 Salehi,James,D.
+A1 Zhang,Zhi-Li
+A1 Kurose,James,F.
+A1 Towsley,Don
+YR 1996
+T1 Supporting stored video: reducing rate variability and end-to-end resource requirements through optimal smoothing
+JF Sigmetrics Performance Evaluation Review
+VO 24
+SP 222
+OP 231
+IS 1
+
+RT Journal Article
+ID 39214045
+A1 Yates,David,J.
+A1 Nahum,Erich,M.
+A1 Kurose,James,F.
+A1 Towsley,Don
+YR 1996
+T1 Networking support for large scale multiprocessor servers
+JF Sigmetrics Performance Evaluation Review
+SP 116
+OP 125
+
+RT Conference Proceedings
+ID 1342383
+A1 Yajnik,Maya
+A1 Kurose,Jim
+A1 Towsley,Don
+YR 1995
+T1 Packet Loss Correlation in the MBone Multicast Network: Experimental Measurements and Markov Chain Models
+
+RT Journal Article
+ID 257670
+A1 Dan,Asit
+A1 Shahabuddin,Perwez
+A1 Sitaram,Dinkar
+A1 Towsley,Donald,F.
+YR 1995
+T1 Channel Allocation under Batching and VCR Control in Movie-On-Demand Servers
+JF Journal of Parallel and Distributed Computing
+
+RT Journal Article
+ID 236311
+A1 Zhang,Zhi-li
+A1 Towsley,Donald,F.
+A1 Kurose,James,F.
+YR 1995
+T1 Statistical Analysis of Generalized Processor Sharing Scheduling Discipline
+JF IEEE Journal on Selected Areas in Communications
+VO 13
+SP 1071
+OP 1080
+IS 6
+
+RT Journal Article
+ID 2367061
+A1 Dan,Asit
+A1 Shahabuddin,Perwez
+A1 Sitaram,Dinkar
+A1 Towsley,Donald,F.
+YR 1995
+T1 Channel Allocation under Batching and VCR Control in Video-on-Demand Systems
+JF Journal of Parallel and Distributed Computing
+VO 30
+SP 168
+OP 179
+IS 2
+
+RT Conference Proceedings
+ID 534
+A1 Kamath,Mohan
+A1 Ramamritham,Krithi
+A1 Towsley,Donald,F.
+YR 1995
+T1 Continuous Media Sharing in Multimedia Database Systems
+SP 79
+OP 86
+
+RT Journal Article
+ID 247175
+A1 Hwang,Ren-Hung
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1995
+T1 On-call processing delay in high speed networks
+JF IEEE/ACM Transactions on Networking
+VO 3
+SP 628
+OP 639
+IS 6
+
+RT Journal Article
+ID 1322832
+A1 Moon,Sue,B.
+A1 Kurose,Jim
+A1 Towsley,Don
+YR 1995
+T1 Packet audio playout delay adjustment algorithms: performance bounds and algorithms
+
+RT Journal Article
+ID 393994
+A1 Lui,John,C.,S.
+A1 Muntz,Richard,R.
+A1 Towsley,Donald,F.
+YR 1995
+T1 Bounding the Mean Response Time of the Minimum Expected Delay Routing Policy: An Algorithmic Approach
+JF IEEE Transactions on Computers
+VO 44
+SP 1371
+OP 1382
+IS 12
+
+RT Conference Proceedings
+ID 320517
+A1 Sivasankaran,Rajendran,M.
+A1 Ramamritham,Krithi
+A1 Stankovic,John,A.
+A1 Towsley,Donald,F.
+YR 1995
+T1 Data Placement, Logging and Recovery in Real-Time Active Databases
+SP 226
+OP 241
+
+RT Journal Article
+ID 405742
+A1 Liu,Zhen
+A1 Nain,Philippe
+A1 Towsley,Donald,F.
+YR 1995
+T1 Sample path methods in the control of queues
+JF Queueing Systems - Theory and Applications
+VO 21
+SP 293
+OP 335
+IS 3-4
+
+RT Conference Proceedings
+ID 411059
+A1 Salehi,James,D.
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1995
+T1 The Performance Impact of Scheduling for Cache Affinity in Parallel Network Processing
+SP 66
+OP 77
+
+RT Conference Proceedings
+ID 285076
+A1 Yang,Hong
+A1 Gong,Wei-Bo
+A1 Towsley,Don
+YR 1995
+T1 Efficient calculation of cell loss in ATM multiplexers
+
+RT Journal Article
+ID 765166
+A1 Cao,Xi-Ren
+A1 Towsley,Donald,F.
+YR 1995
+T1 A performance model for ATM switches with general packet length distributions
+JF IEEE/ACM Transactions on Networking
+VO 3
+SP 299
+OP 309
+IS 3
+
+RT Journal Article
+ID 680435
+A1 Salehi,James,D.
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1995
+T1 Scheduling for Cache Affinity in Parallelized Communication Protocols
+JF Sigmetrics Performance Evaluation Review
+VO 23
+SP 311
+OP 312
+IS 1
+
+RT Journal Article
+ID 1377442
+A1 Lui,J.,C.,S.
+A1 Muntz,R.,R.
+A1 Towsley,D
+YR 1995
+T1 Bounding the response time of a minimum expected delay routing system: an algorithmic approach
+JF IEEE Transactions on Computers
+
+RT Journal Article
+ID 3151406
+A1 Wagner,T.
+A1 Towsley,D.
+YR 1995
+T1 Getting started with posix threads
+
+RT Journal Article
+ID 765309
+A1 Liu,Zhen
+A1 Towsley,Donald,F.
+YR 1995
+T1 Burst reduction properties of rate-control throttles: downstream queue behavior
+JF IEEE/ACM Transactions on Networking
+VO 3
+SP 82
+OP 90
+IS 1
+
+RT Conference Proceedings
+ID 336627
+A1 Liu,Zhen
+A1 Nain,Philippe
+A1 Towsley,Don
+YR 1995
+T1 Bounds on the tail distributions of Markov-modulated stochastic max-plus systems
+VO 2
+SP 1395
+
+RT Journal Article
+ID 39214032
+A1 Salehi,James,D.
+A1 Kurose,James,F.
+A1 Towsley,Don
+YR 1995
+T1 Scheduling for cache affinity in parallelized communication protocols
+JF Sigmetrics Performance Evaluation Review
+SP 311
+OP 312
+
+RT Journal Article
+ID 337247
+A1 Pingali,Sridhar
+A1 Towsley,Donald,F.
+A1 Kurose,James,F.
+YR 1994
+T1 A Comparison of Sender-Initiated and Receiver-Initiated Reliable Multicast Protocols
+JF Sigmetrics Performance Evaluation Review
+VO 22
+SP 221
+OP 230
+IS 1
+
+RT Conference Proceedings
+ID 313201
+A1 Ramjee,Ramachandran
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+A1 Schulzrinne,Henning
+YR 1994
+T1 Adaptive Playout Mechanisms for Packetized Audio Applications in Wide-Area Networks
+SP 680
+OP 688
+
+RT Conference Proceedings
+ID 182384
+A1 Dey-Sircar,Jayanata,K.
+A1 Salehi,James,D.
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1994
+T1 Providing VCR capabilities in large-scale video servers
+SP 25
+OP 32
+
+RT Journal Article
+ID 1297163
+A1 Kamath,M.
+A1 Towsley,D.
+A1 Ramamritham,K
+YR 1994
+T1 Buffer management for continuous media sharing in multimedia database systems
+
+RT Journal Article
+ID 637912
+A1 Zhang,Zhi-Li
+A1 Towsley,Donald,F.
+A1 Kurose,James,F.
+YR 1994
+T1 Statistical Analysis of Generalized Processor Sharing Scheduling Discipline
+JF Computer Communication Review
+VO 24
+SP 68
+OP 77
+IS 4
+
+RT Conference Proceedings
+ID 186016
+A1 Nahum,Erich,M.
+A1 Yates,David,J.
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1994
+T1 Performance Issues in Parallelized Network Protocols
+SP 125
+OP 137
+
+RT Conference Proceedings
+ID 182302
+A1 Purimetla,Bhaskar
+A1 Sivasankaran,Rajendran,M.
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+A1 Towsley,Donald,F.
+YR 1994
+T1 Priority Assignment in Real-Time Active Databases
+SP 176
+OP 184
+
+RT Conference Proceedings
+ID 177614
+A1 Hwang,Ren-hung
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1994
+T1 MDP Routing in ATM Networks Using the Virtual Path Concept
+SP 1509
+OP 1517
+
+RT Journal Article
+ID 181428
+A1 Dallery,Yves
+A1 Liu,Zhen
+A1 Towsley,Donald,F.
+YR 1994
+T1 Equivalence, reversibility, symmetry and concavity properties in fork-join queuing networks with blocking
+JF Journal of The ACM
+VO 41
+SP 903
+OP 942
+IS 5
+
+RT Conference Proceedings
+ID 1389524
+A1 LIU,Zhen
+A1 NAIN,Philippe
+A1 TOWSLEY,Don
+YR 1994
+T1 Exponential bounds for a class of stochastic processes with application to call admission control in networks
+
+RT Journal Article
+ID 226452
+A1 Nagarajan,Ramesh
+A1 Kurose,Jim
+A1 Towsley,Don
+YR 1994
+T1 Finite-Horizon Statistical Quality-of-Service Measures for High-Speed Networks
+JF Journal of High Speed Networks
+
+RT Journal Article
+ID 288469
+A1 Liu,Zhen
+A1 Towsley,Don
+YR 1994
+T1 Optimality of the Round Robin Routing Policy
+
+RT Journal Article
+ID 234085
+A1 Liu,Zhen
+A1 Nain,Philippe
+A1 Towsley,Don
+YR 1994
+T1 Exponential Bounds With An Application To Call Admission
+JF Journal of The ACM
+
+RT Journal Article
+ID 403605
+A1 Nain,Philippe
+A1 Towsley,Don
+YR 1994
+T1 Optimal scheduling in a machine with stochastic varying processing rate
+JF IEEE Transactions on Automatic Control
+VO 39
+SP 1853
+OP 1855
+IS 9
+
+RT Journal Article
+ID 240670
+A1 Towsley,Don
+A1 Liu,Zhen
+YR 1994
+T1 Stochastic Scheduling in In-Forest Networks
+
+RT Conference Proceedings
+ID 341312
+A1 Schulzrinne,Henning
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1994
+T1 An Evaluation of Scheduling Mechanisms for Providing Best-Effort Real-Time Communication in Wide-Area Networks
+SP 1352
+OP 1361
+
+RT Journal Article
+ID 176801
+A1 Chen,Shenze
+A1 Towsley,Donald,F.
+YR 1994
+T1 Scheduling Customers in a Non-Removal Real-time System with an Application to Disk Scheduling
+JF Real-time Systems
+VO 6
+SP 55
+OP 72
+IS 1
+
+RT Journal Article
+ID 3793754
+A1 Zhang,Z.,L.
+A1 Towsley,D.
+A1 Kurose,J.
+YR 1994
+T1 Statistical analysis of generalized processor sharing discipline
+
+RT Journal Article
+ID 711160
+A1 Tran-gia,Phuoc
+A1 Blondia,Chris
+A1 Towsley,Donald,F.
+YR 1994
+T1 Discrete-Time Models and Analysis Methods
+JF Performance Evaluation
+VO 21
+SP 1
+OP 2
+IS 1-2
+
+RT Journal Article
+ID 15219551
+A1 Liu,Zhen
+A1 Towsley,Don
+YR 1994
+T1 Effects of service disciplines inG/GI/s queueing systems
+JF Annals of Operations Research
+VO 48
+SP 401
+OP 429
+IS 4
+
+RT Journal Article
+ID 15219568
+A1 Liu,Zhen
+A1 Towsley,Don
+YR 1994
+T1 Burst reduction properties of rate-control throttles: departure process
+JF Annals of Operations Research
+VO 49
+SP 51
+OP 78
+IS 1
+
+RT Journal Article
+ID 26692070
+A1 Sparaggis,Panayotis,D.
+A1 Towsley,Don
+YR 1994
+T1 Optimal Routing and Scheduling of Customers with Deadlines
+JF Probability in The Engineering and Informational Sciences
+VO 8
+SP 33
+IS 01
+
+RT Journal Article
+ID 1572128
+A1 Sparaggis,Panayotis,D.
+A1 Towsley,Don
+A1 Cassandras,Christos,G.
+YR 1994
+T1 Routing with limited state information in queueing systems with blocking
+JF IEEE Transactions on Automatic Control
+VO 39
+SP 1492
+OP 1497
+IS 7
+
+RT Journal Article
+ID 231877
+A1 Liu,Zhen
+A1 Nain,Philippe
+A1 Towsley,Don
+YR 1994
+T1 On a Generalization of Kingman's Bounds
+
+RT Journal Article
+ID 39214003
+A1 Pingali,Sridhar
+A1 Towsley,Don
+A1 Kurose,James,F.
+YR 1994
+T1 A comparison of sender-initiated and receiver-initiated reliable multicast protocols
+JF Sigmetrics Performance Evaluation Review
+SP 221
+OP 230
+
+RT Conference Proceedings
+ID 237702
+A1 Towsley,Don
+A1 Ramakrishnan,K.,K.
+A1 Biswas,Prabuddha
+YR 1994
+T1 Exploiting Non-Volatile Memory in Disks for Write Caching
+
+RT Journal Article
+ID 39212358
+A1 Zhang,Zhi-Li
+A1 Towsley,Don
+A1 Kurose,Jim
+YR 1994
+T1 Statistical analysis of generalized processor sharing scheduling discipline
+JF Computer Communication Review
+SP 68
+OP 77
+
+RT Journal Article
+ID 4365880
+A1 Biswas,Prabuddha
+A1 Towsley,Donald,F.
+A1 Ramakrishnan,K.,K.
+A1 Krishna,C.,Mani
+YR 1994
+T1 Performance benefits of non-volatile caches in distributed file systems
+JF Concurrency and Computation: Practice and Experience
+VO 6
+SP 289
+OP 323
+IS 4
+
+RT Journal Article
+ID 57393792
+A1 Dey-Sircar,Jayanata,K.
+A1 Salehi,James,D.
+A1 Kurose,James,F.
+A1 Towsley,Don
+YR 1994
+T1 Providing VCR capabilities in large-scale video servers
+
+RT Journal Article
+ID 1270571
+A1 Yates,David,J.
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+A1 Hluchyj,Michael,G.
+YR 1993
+T1 On Per-Session End-to-End Delay Distributions and the Call Admission Problem for Real-Time Applications with QOS Requirements
+JF Computer Communication Review
+VO 23
+SP 2
+OP 12
+IS 4
+
+RT Journal Article
+ID 248141
+A1 Yates,David,J.
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+A1 Hluchyj,Michael,G.
+YR 1993
+T1 On per-session end-to-end delay and the call admission problem for real-time applications with QOS requirements
+
+RT Conference Proceedings
+ID 177508
+A1 Nagarajan,Ramesh
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1993
+T1 Local Allocation of End-to-End Quality-of-Service in High-Speed Networks
+SP 99
+OP 118
+
+RT Journal Article
+ID 680773
+A1 Biswas,Prabuddha
+A1 Ramakrishnan,K.,K.
+A1 Towsley,Don
+YR 1993
+T1 Trace Driven Analysis of Write Caching Policies for Disks
+JF Sigmetrics Performance Evaluation Review
+VO 21
+SP 13
+OP 23
+IS 1
+
+RT Book, Whole
+ID 680460
+A1 Towsley,Donald,F.
+YR 1993
+T1 Providing Quality of Service Packet Switched Networks
+SP 560
+OP 586
+
+RT Conference Proceedings
+ID 173443
+A1 Dey,Jayanta,K.
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+A1 Krishna,C.,M.
+A1 Girkar,Mahesh
+YR 1993
+T1 Efficient On-Line Processor Scheduling for a Class of IRIS (Increasing Reward with Increasing Service.) Real-Time Tasks
+SP 217
+OP 228
+
+RT Journal Article
+ID 795295
+A1 Chen,Shenze
+A1 Towsley,Donald,F.
+YR 1993
+T1 The Design and Evaluation of RAID 5 and Parity Striping Disk Array Architectures
+JF Journal of Parallel and Distributed Computing
+VO 17
+SP 58
+OP 74
+IS 1-2
+
+RT Journal Article
+ID 1316021
+A1 Biswas,Prabuddha
+A1 Ramakrishnan,K.,K.
+A1 Towsley,Don
+YR 1993
+T1 Trace driven analysis of write caching policies for disks
+JF Sigmetrics Performance Evaluation Review
+SP 13
+OP 23
+
+RT Journal Article
+ID 2011203
+A1 Nagarajan,R.
+A1 Kurose,J.,F.
+A1 Towsley,D.
+YR 1993
+T1 Allocation of local quality of service constraints to meet end-to-end requirements
+
+RT Journal Article
+ID 243698
+A1 Berg,Jacob,Van,Den
+A1 Towsley,Donald,F.
+YR 1993
+T1 Properties of the Miss Ratio for a 2Level Storage Model with LRU or FIFO Replacement Strategy and Independent References
+JF IEEE Transactions on Computers
+VO 42
+SP 508
+OP 512
+IS 4
+
+RT Journal Article
+ID 4449849
+A1 Dey,Jayanta,K.
+A1 Kurose,James,F.
+A1 Towsley,Don
+A1 Krishna,C.,M.
+A1 Girkar,Mahesh
+YR 1993
+T1 Efficient on-line processor scheduling for a class of IRIS () real-time tasks
+JF Sigmetrics Performance Evaluation Review
+
+RT Conference Proceedings
+ID 543462
+A1 Biswas,Prabuddha
+A1 Ramakrishnan,K.,K.
+A1 Towsley,Donald,F.
+A1 Krishna,C.,M.
+YR 1993
+T1 Performance Analysis of Distributed File Systems with Non-Volatile Caches
+SP 252
+OP 262
+
+RT Journal Article
+ID 242345
+A1 Blanc,J.,p.,c.
+A1 Waal,P.,r.,De
+A1 Nain,P.
+A1 Towsley,D.
+YR 1993
+T1 Optimal Control Of Admission To A Multi-Server Queue With Two Arrival Streams
+
+RT Journal Article
+ID 1455908
+A1 Panwar,Shivendra,S.
+A1 Towsley,Don
+A1 Armoni,Yehuda
+YR 1993
+T1 Collision resolution algorithms for a time-constrained multiaccess channel
+JF IEEE Transactions on Communications
+VO 41
+SP 1023
+OP 1026
+IS 7
+
+RT Journal Article
+ID 786632
+A1 Nelson,Randolph,D.
+A1 Towsley,Donald,F.
+YR 1993
+T1 A performance evaluation of several priority policies for parallel processing systems
+JF Journal of The ACM
+VO 40
+SP 714
+OP 740
+IS 3
+
+RT Journal Article
+ID 181181
+A1 Towsley,Don
+A1 Cao,Xi-ren
+YR 1993
+T1 A Performance Model for ATM Switches with General Packet Length Distributions
+JF IEEE/ACM Transactions on Networking
+
+RT Journal Article
+ID 14541926
+A1 Towsley,D
+YR 1993
+T1 A study of a queueing system with three-phase service
+JF Operations Research Letters
+VO 13
+SP 189
+OP 195
+IS 3
+
+RT Journal Article
+ID 1363055
+A1 Towsley,D.
+YR 1993
+T1 Provzding quahty of serv, ce in packet swztched networks
+
+RT Journal Article
+ID 786958
+A1 Baccelli,François
+A1 Liu,Zhen
+A1 Towsley,Donald,F.
+YR 1993
+T1 Extremal scheduling of parallel processing with and without real-time constraints
+JF Journal of The ACM
+VO 40
+SP 1209
+OP 1237
+IS 5
+
+RT Conference Proceedings
+ID 496409
+A1 Liu,Zhen
+A1 Towsley,Donald,F.
+YR 1993
+T1 Burst Reduction Properties of the Token Bank in ATM Networks
+SP 263
+OP 273
+
+RT Journal Article
+ID 2020189
+A1 Nagarajan,R.
+A1 Kurose,J.
+A1 Towsley,D.
+YR 1993
+T1 Local allocation of end-to-end quality of service measures in high speed networks
+
+RT Journal Article
+ID 39212331
+A1 Yates,David
+A1 Kurosel,James
+A1 Towsley,Don
+A1 Hluchyj,Michael,G.
+YR 1993
+T1 On per-session end-to-end delay distributions and the call admission problem for real-time applications with QOS requirements
+JF Computer Communication Review
+SP 2
+OP 12
+
+RT Journal Article
+ID 14418246
+A1 Dey,Jayanta,K.
+A1 Kurose,James,F.
+A1 Towsley,Don
+A1 Krishna,C.,M.
+A1 Girkar,Mahesh
+YR 1993
+T1 Efficient on-line processor scheduling for a class of IRIS ( increasing reward with increasing service ) real-time tasks
+JF Sigmetrics Performance Evaluation Review
+VO 21
+SP 217
+OP 228
+IS 1
+
+RT Conference Proceedings
+ID 681114
+A1 Nicol,David,M.
+A1 Simha,Rahul
+A1 Towsley,Donald,F.
+YR 1993
+T1 Load Balancing of Complex Stochastic Tasks Using Stochastic Majorization
+SP 1306
+OP 1313
+
+RT Journal Article
+ID 356487
+A1 Liu,Zhen
+A1 Nain,Philippe
+A1 Towsley,Donald,F.
+YR 1992
+T1 On optimal polling policies
+JF Queueing Systems - Theory and Applications
+VO 11
+SP 59
+OP 83
+IS 1-2
+
+RT Conference Proceedings
+ID 303184
+A1 Schulzrinne,Henning
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1992
+T1 Loss correlation for queues with bursty input streams
+
+RT Journal Article
+ID 756786
+A1 Huang,Jiandong
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+A1 Towsley,Donald,F.
+A1 Purimetla,Bhaskar
+YR 1992
+T1 Priority Inheritance in Soft Real-Time Databases
+JF Real-time Systems
+VO 4
+SP 243
+OP 268
+IS 3
+
+RT Journal Article
+ID 1572005
+A1 Towsley,D.
+A1 Sparaggis,P.,D.
+A1 Cassandras,C.,G.
+YR 1992
+T1 Optimal routing and buffer allocation for a class of finite capacity queueing systems
+JF IEEE Transactions on Automatic Control
+VO 37
+SP 1446
+OP 1451
+IS 9
+
+RT Conference Proceedings
+ID 2023577
+A1 Hwang,Ren-Hung
+A1 Kurose,James,F.
+A1 Towsley,Don
+YR 1992
+T1 State dependent routing for multirate loss networks
+
+RT Journal Article
+ID 209384
+A1 Towsley,Don
+A1 Dallery,Yves
+A1 Liu,Zhen
+YR 1992
+T1 Properties of Fork/Join Queueing Networks with Blocking under Various Operating Mechanisms
+
+RT Conference Proceedings
+ID 682479
+A1 Hwang,Ren-hung
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1992
+T1 The Effect of Processing Delay and QoS Requirements in High Speed Networks
+SP 160
+OP 169
+
+RT Conference Proceedings
+ID 308309
+A1 Sparaggis,Panayotis,D.
+A1 Cassandras,Christos,G.
+A1 Towsley,Don
+YR 1992
+T1 On the duality between routing and scheduling systems with finite buffer space
+
+RT Journal Article
+ID 1575161
+A1 Blanc,J.,P.,C.
+A1 Waal,Peter,R.,de
+A1 Nain,Philippe
+A1 Towsley,Donald
+YR 1992
+T1 Optimal control of admission to a multiserver queue with two arrival streams
+JF IEEE Transactions on Automatic Control
+VO 37
+SP 785
+OP 797
+IS 6
+
+RT Journal Article
+ID 716368
+A1 Nain,Philippe
+A1 Towsley,Donald,F.
+YR 1992
+T1 Comparison of Hybrid Minimum Laxity/First-In-First-Out Scheduling Policies for Real-Time Multiprocessors
+JF IEEE Transactions on Computers
+VO 41
+SP 1271
+OP 1278
+IS 10
+
+RT Journal Article
+ID 704005
+A1 Towsley,Donald,F.
+A1 Fdida,Serge
+A1 Santoso,Harry
+YR 1992
+T1 Congestion Avoidance in High-Speed Interconnection Systems
+JF Computer Networks and Isdn Systems
+VO 24
+SP 185
+OP 195
+IS 2
+
+RT Journal Article
+ID 274197
+A1 Liu,Zhen
+A1 Towsley,Don
+YR 1992
+T1 Effects of Service Disciplines in G/GI/s Queueing Systems
+
+RT Conference Proceedings
+ID 49931976
+A1 Nain,P.
+A1 Towsley,D.
+YR 1992
+T1 Stochastic scheduling in a multiclass G/G/1 queue
+
+RT Conference Proceedings
+ID 49932187
+A1 Sparaggis,Panayotis,D.
+A1 Cassandras,Christos,G.
+A1 Towsley,D.
+YR 1992
+T1 Very weak, P-weak majorization and their application
+
+RT Journal Article
+ID 855001
+A1 Ramamritham,Krithi
+A1 Moss,E.
+A1 Stankovic,John,A.
+A1 Stemple,David,W.
+A1 Croft,B.
+A1 Towsley,Donald,F.
+YR 1992
+T1 Summary of database research activities at the University of Massachusetts, Amherst
+JF Sigmod Record
+VO 21
+SP 139
+OP 143
+IS 1
+
+RT Journal Article
+ID 293139
+A1 Towsley,Donald,F.
+A1 Schulzrinne,Henning
+A1 Kurose,James,F.
+YR 1992
+T1 Loss Correlation for Queues with Single and Multiple Input Streams
+
+RT Journal Article
+ID 58388513
+A1 Blanc,J.,P.,C.
+A1 Waal,P.,R.,de
+A1 Nain,P.
+A1 Towsley,D.
+YR 1992
+T1 Optimal control of admission to a multi-server queue with two arrival streams
+
+RT Journal Article
+ID 243351
+A1 Nagarajan,Ramesh
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1991
+T1 Approximation Techniques for Computing Packet Loss in Finite-Buffered Voice Multiplexers
+JF IEEE Journal on Selected Areas in Communications
+VO 9
+SP 368
+OP 377
+IS 3
+
+RT Conference Proceedings
+ID 241196
+A1 Huang,Jiandong
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+A1 Towsley,Donald,F.
+YR 1991
+T1 Experimental Evaluation of Real-Time Optimistic Concurrency Control Schemes
+SP 35
+OP 46
+
+RT Journal Article
+ID 242278
+A1 Chen,Shenze
+A1 Stankovic,John,A.
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1991
+T1 Performance Evaluation of Two New Disk Scheduling algorithms for Real-Time Systems
+JF Real-time Systems
+VO 3
+SP 307
+OP 336
+IS 3
+
+RT Conference Proceedings
+ID 571709
+A1 Huang,Jiandong
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+A1 Towsley,Donald,F.
+YR 1991
+T1 On Using Priority Inheritance In Real-Time Databases
+SP 210
+OP 221
+
+RT Conference Proceedings
+ID 682545
+A1 Zhao,Zheng-xue
+A1 Panwar,Shivendra,S.
+A1 Towsley,Donald,F.
+YR 1991
+T1 Queueing Performance with Impatient Customers
+SP 400
+OP 409
+
+RT Journal Article
+ID 334880
+A1 Stankovic,John,A.
+A1 Ramamritham,Krithi
+A1 Towsley,Don
+YR 1991
+T1 Scheduling In Real-Time Transaction Systems
+
+RT Journal Article
+ID 241589
+A1 Towsley,Don
+YR 1991
+T1 Optimality of the Stochastic Earliest Deadline Policy for the G/M/c Queue Serving Customers with Deadlines
+
+RT Journal Article
+ID 1269327
+A1 Chen,S.
+A1 Towsley,D.
+YR 1991
+T1 A queueing analysis of raid architectures
+
+RT Journal Article
+ID 14541793
+A1 Towsley,D
+YR 1991
+T1 A single server priority queue with server failures and queue flushing
+JF Operations Research Letters
+VO 10
+SP 353
+OP 362
+IS 6
+
+RT Journal Article
+ID 1456235
+A1 Shacham,Nachum
+A1 Towsley,Don
+YR 1991
+T1 Resequencing delay and buffer occupancy in selective repeat ARQ with multiple receivers
+JF IEEE Transactions on Communications
+VO 39
+SP 928
+OP 937
+IS 6
+
+RT Journal Article
+ID 14541750
+A1 Towsley,D
+YR 1991
+T1 Comparisons of service disciplines in a tandem queueing network with real time constraints
+JF Operations Research Letters
+VO 10
+SP 49
+OP 55
+IS 1
+
+RT Journal Article
+ID 680593
+A1 Chen,Shenze
+A1 Towsley,Donald,F.
+YR 1991
+T1 Performance od a Mirrored Disk in a Real-Time Transaction System
+JF Sigmetrics Performance Evaluation Review
+VO 19
+SP 198
+OP 207
+IS 1
+
+RT Conference Proceedings
+ID 49924887
+A1 Sparaggis,Panayotis,D.
+A1 Towsley,D.
+A1 Cassandras,C.,G.
+YR 1991
+T1 Optimality of static routing policies in queueing systems with blocking
+
+RT Journal Article
+ID 1260621
+A1 Kurose,J.
+A1 Towsley,D.
+YR 1991
+T1 Design and analysis of processor scheduling policies for real-time systems
+
+RT Conference Proceedings
+ID 49924891
+A1 Sparaggis,Panayotis,D.
+A1 Towsley,D.
+A1 Cassandras,C.,G.
+YR 1991
+T1 Extremal properties of the SNQ and the LNQ policies in finite capacity systems with state-dependent service rates
+
+RT Journal Article
+ID 39213933
+A1 Chen,Shenze
+A1 Towsley,Don
+YR 1991
+T1 Performance of a mirrored disk in a real-time transaction system
+JF Sigmetrics Performance Evaluation Review
+SP 198
+OP 207
+
+RT Journal Article
+ID 1709083
+A1 Philips,Thomas,K.
+A1 Towsley,Donald,F.
+A1 Wolf,Jack,K.
+YR 1991
+T1 Correction to 'On the Diameter of a Class of Random Graphs
+JF IEEE Transactions on Information Theory
+VO 37
+SP 224
+IS 1
+
+RT Journal Article
+ID 59711348
+A1 Blanc,J.,P.,C.
+A1 R,Waal,de,P.
+A1 Nain,P.
+A1 Towsley,D.
+YR 1991
+T1 A new device for the synthesis problem of optimal control of admission to an M/M/c queue
+
+RT Journal Article
+ID 680422
+A1 Dantand,Asit
+A1 Towsley,Donald,F.
+YR 1990
+T1 An Approximate Analysis of the LRU and FIFO Buffer Replacement Schemes
+JF Sigmetrics Performance Evaluation Review
+VO 18
+SP 143
+OP 152
+IS 1
+
+RT Conference Proceedings
+ID 399385
+A1 Schulzrinne,Henning
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1990
+T1 Congestion Control for Real-Time Traffic in High-Speed Networks
+SP 543
+OP 550
+
+RT Journal Article
+ID 795636
+A1 Mirchandaney,Ravi
+A1 Towsley,Donald,F.
+A1 Stankovic,John,A.
+YR 1990
+T1 Adaptive Load Sharing in Heterogeneous Distributed Systems
+JF Journal of Parallel and Distributed Computing
+VO 9
+SP 331
+OP 346
+IS 4
+
+RT Journal Article
+ID 1281342
+A1 Cassandras,C.,G.
+A1 Abidi,M.,V.
+A1 Towsley,D.
+YR 1990
+T1 Distributed routing with on-line marginal delay estimation
+JF IEEE Transactions on Communications
+VO 38
+SP 348
+OP 359
+IS 3
+
+RT Journal Article
+ID 805434
+A1 Towsley,Donald,F.
+A1 Rommel,C.,Gary
+A1 Stankovic,John,A.
+YR 1990
+T1 Analysis of Fork-Join Program Response Times on Multiprocessors
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 1
+SP 286
+OP 303
+IS 3
+
+RT Journal Article
+ID 1402804
+A1 Huang,J.
+A1 Stankovic,J.
+A1 Ramaritham,K.
+A1 Towsley,D.
+YR 1990
+T1 On using priority inheritance in real-time databases
+
+RT Journal Article
+ID 1289625
+A1 Mirchandaney,R.
+A1 Towsley,D.
+A1 Stankovic,J.,A.
+YR 1990
+T1 Adaptive load sharing in heterogeneous systems
+
+RT Journal Article
+ID 49893290
+A1 Towsley,D.
+A1 Panwar,S.,S.
+YR 1990
+T1 On the optimality of minimum laxity and earliest deadline scheduling for real-time multiprocessors
+
+RT Conference Proceedings
+ID 685438
+A1 Towsley,Donald,F.
+A1 Chen,Shenze
+A1 Yu,Shou-pin
+YR 1990
+T1 Performance Analysis of a Fault Tolerant Mirrored Disk System
+SP 239
+OP 253
+
+RT Journal Article
+ID 1248585
+A1 Goli,P.
+A1 Heidelberger,P.
+A1 Towsley,D.
+A1 Yu,Q.
+YR 1990
+T1 Processor assignment and synchronization in parallel simulation of multistage interconnection networks
+
+RT Conference Proceedings
+ID 49899040
+A1 Mohanty,B.,P.
+A1 Cassandras,C.,G.
+A1 Towsley,D.
+YR 1990
+T1 Performance comparison of routing algorithms in packet switched networks
+
+RT Conference Proceedings
+ID 681678
+A1 Nagarajan,Ramesh
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1990
+T1 Approximation Techniques for Computing Packet Loss in Finite-Buffered Voice Multiplexers
+SP 947
+OP 955
+
+RT Journal Article
+ID 1455446
+A1 KUROSE,JAMES,F.
+A1 SHRIVASTAVA,ATUL
+A1 TOWSLEY,DON
+YR 1990
+T1 Stack algorithms for random multiple-access networks in the presence of asymmetric feedback
+JF IEEE Transactions on Communications
+VO 38
+SP 1308
+OP 1313
+IS 9
+
+RT Journal Article
+ID 1447793
+A1 Philips,Thomas,K.
+A1 Towsley,Donald,F.
+A1 Wolf,Jack,K.
+YR 1990
+T1 On the diameter of a class of random graphs
+JF IEEE Transactions on Information Theory
+VO 36
+SP 285
+OP 288
+IS 2
+
+RT Journal Article
+ID 177127
+A1 Nagarajan,Ramesh
+A1 Kurose,James,F.
+A1 Towsley,Don
+YR 1990
+T1 On Defining, Computing and Guaranteeing Statistical Quality-of-Service in High-Speed Networks
+
+RT Journal Article
+ID 852921
+A1 Baccelli,François
+A1 Towsley,Donald,F.
+YR 1990
+T1 The Customer Response Times in the Processor Sharing Queue are Associated
+JF Queueing Systems - Theory and Applications
+VO 7
+SP 269
+OP 282
+IS 3
+
+RT Journal Article
+ID 1958948
+A1 Nelson,R.
+A1 Tantawi,A.,N.
+A1 Towsley,D.
+YR 1990
+T1 The order statistics of the sojourn times of customers that form a single batch in the mx/m/c queue
+
+RT Journal Article
+ID 1243841
+A1 Panwar,Shivendra,S.
+A1 Towsley,Don
+A1 Wolf,Jack,K.
+YR 1990
+T1 Optimal scheduling policies for a class of Queues with customer deadlines to the beginning of service
+JF Sigmetrics Performance Evaluation Review
+VO 18
+SP 25
+IS 3
+
+RT Journal Article
+ID 766005
+A1 Towsley,Donald,F.
+YR 1990
+T1 Correction to ``Allocating Programs Containing Branches and Loops Within a Multiple Processor System
+JF IEEE Transactions on Software Engineering
+VO 16
+SP 472
+IS 4
+
+RT Journal Article
+ID 39213895
+A1 Dantand,Asit
+A1 Towsley,Don
+YR 1990
+T1 An approximate analysis of the LRU and FIFO buffer replacement schemes
+JF Sigmetrics Performance Evaluation Review
+SP 143
+OP 152
+
+RT Journal Article
+ID 18640063
+A1 Mirchandaney,Ravi
+A1 Towsley,Don
+A1 Stankovic,John,A.
+YR 1990
+T1 Adaptive load sharing in heterogeneous distributed systems
+JF Journal of Parallel and Distributed Computing
+VO 9
+SP 331
+OP 346
+IS 4
+
+RT Conference Proceedings
+ID 49889597
+A1 Nain,P.
+A1 Towsley,D.
+YR 1990
+T1 Properties of the ML(n) policy for scheduling jobs with real-time constraints
+
+RT Conference Proceedings
+ID 682102
+A1 Chipalkatti,Renu
+A1 Kurose,James,F.
+A1 Towsley,Donald,F.
+YR 1989
+T1 Scheduling Policies for Real-Time and Non-Real-Time Traffic in a Statistical Multiplexer
+SP 774
+OP 783
+
+RT Conference Proceedings
+ID 571710
+A1 Huang,Jiandong
+A1 Stankovic,John,A.
+A1 Towsley,Donald,F.
+A1 Ramamritham,Krithi
+YR 1989
+T1 Experimental Evaluation of Real-Time Transaction Processing
+SP 144
+OP 155
+
+RT Journal Article
+ID 715415
+A1 Mirchandaney,Ravi
+A1 Towsley,Donald,F.
+A1 Stankovic,John,A.
+YR 1989
+T1 Analysis of the Effects of Delays on Load Sharing
+JF IEEE Transactions on Computers
+VO 38
+SP 1513
+OP 1525
+IS 11
+
+RT Journal Article
+ID 1263528
+A1 Chipalkatti,R.
+A1 Kurose,J.
+A1 Towsley,D.
+YR 1989
+T1 Schedulin9 policies/or real-time and non-real
+
+RT Journal Article
+ID 713771
+A1 Hong,Jiawei
+A1 Tan,Xiaonan
+A1 Towsley,Donald,F.
+YR 1989
+T1 A Performance Analysis of Minimum Laxity and Earliest Deadline Scheduling in a Real-Time System
+JF IEEE Transactions on Computers
+VO 38
+SP 1736
+OP 1744
+IS 12
+
+RT Journal Article
+ID 786959
+A1 Baccelli,François
+A1 Massey,William,A.
+A1 Towsley,Donald,F.
+YR 1989
+T1 Acyclic fork-join queuing networks
+JF Journal of The ACM
+VO 36
+SP 615
+OP 642
+IS 3
+
+RT Journal Article
+ID 767221
+A1 Choudhary,Alok,N.
+A1 Kohler,Walter,H.
+A1 Stankovic,John,A.
+A1 Towsley,Donald,F.
+YR 1989
+T1 A Modified Priority Based Probe Algorithm for Distributed Deadlock Detection and Resolution
+JF IEEE Transactions on Software Engineering
+VO 15
+SP 10
+OP 17
+IS 1
+
+RT Conference Proceedings
+ID 49862664
+A1 Mirchandaney,R.
+A1 Towsley,Don
+A1 Stankovic,John,A.
+YR 1989
+T1 Adaptive load sharing in heterogeneous systems
+
+RT Conference Proceedings
+ID 49868228
+A1 Kallmes,Michelle,Hruby
+A1 Towsley,Don
+A1 Cassandras,Christos,G.
+YR 1989
+T1 Optimality of the last-in-first-out (LIFO) service discipline in queuing systems with real-time constraints
+
+RT Conference Proceedings
+ID 682011
+A1 Cassandras,Christos,G.
+A1 Kallmes,Michelle,Hruby
+A1 Towsley,Donald,F.
+YR 1989
+T1 Optimal Routing and Flow Control in Networks with Real-Time Traffic
+SP 784
+OP 791
+
+RT Journal Article
+ID 1395126
+A1 Yu,Q.
+A1 Towsley,D.
+A1 Heidelberger,P.
+YR 1989
+T1 Timedriven parallel simulation of multistage interconnection networks
+
+RT Journal Article
+ID 767067
+A1 Choudhary,Alok,N.
+A1 Kohler,Walter,H.
+A1 Stankovic,John,A.
+A1 Towsley,Donald,F.
+YR 1989
+T1 Correction to ``A Modified Priority Based Probe Algorithm for Distributed Deadlock Detection and Resolution
+JF IEEE Transactions on Software Engineering
+VO 15
+SP 1644
+IS 12
+
+RT Conference Proceedings
+ID 681425
+A1 Lee,Kyoo,Jeong
+A1 Towsley,Donald,F.
+YR 1989
+T1 An Asymptotic Analysis of a Threshold Load Balancing Policy
+SP 740
+OP 748
+
+RT Journal Article
+ID 14374264
+A1 Choudhary,A.,N.
+A1 Kohler,W.,H.
+A1 Stankovic,J.,A.
+A1 Towsley,D.
+YR 1989
+T1 Correction to `a modified priority based probe algorithm for distributed deadlock detection and resolution' [A.N. Choudhary et al.]
+JF IEEE Transactions on Software Engineering
+VO 15
+SP 1644
+IS 12
+
+RT Journal Article
+ID 61368002
+A1 Cassandras,C.,G.
+A1 Kurose,J.,F.
+A1 Towsley,D.
+YR 1989
+T1 Resource contention management in parallel systems. Final report, June-December 1987
+
+RT Journal Article
+ID 786747
+A1 Panwar,Shivendra,S.
+A1 Towsley,Donald,F.
+A1 Wolf,Jack,K.
+YR 1988
+T1 Optimal scheduling policies for a class of queues with customer deadlines to the beginning of service
+JF Journal of The ACM
+VO 35
+SP 832
+OP 844
+IS 4
+
+RT Journal Article
+ID 3402251
+A1 Padhye,J.
+A1 Firoiu,V.
+A1 Towsley,D.
+A1 Kurose,J.
+YR 1988
+T1 Modeling TCP through-put: A simple model and its empirical validation
+
+RT Journal Article
+ID 766212
+A1 Nelson,Randolph,D.
+A1 Towsley,Donald,F.
+A1 Tantawi,Asser,N.
+YR 1988
+T1 Performance Analysis of Parallel Processing Systems
+JF IEEE Transactions on Software Engineering
+VO 14
+SP 532
+OP 540
+IS 4
+
+RT Conference Proceedings
+ID 607165
+A1 Pulidas,Spiridon
+A1 Towsley,Donald,F.
+A1 Stankovic,John,A.
+YR 1988
+T1 Imbedding Gradient Estimators in Load Balancing Algorithms
+SP 482
+OP 490
+
+RT Journal Article
+ID 1357661
+A1 Bhargava,A.
+A1 Kurose,J.,F.
+A1 Towsley,D.
+A1 Vanleemput,G.
+YR 1988
+T1 Performance comparison of error control schemes in high-speed computer communication networks
+JF IEEE Journal on Selected Areas in Communications
+VO 6
+SP 1565
+OP 1575
+IS 9
+
+RT Conference Proceedings
+ID 49845889
+A1 Shacham,Nachum
+A1 Towsley,D.
+YR 1988
+T1 Resequencing delay and buffer occupancy in selective repeat ARQ with multiple receivers
+
+RT Journal Article
+ID 680847
+A1 Tantawi,Asser,N.
+A1 Wolf,Jack,K.
+A1 Towsley,Donald,F.
+YR 1988
+T1 Optimal Allocation of Multiple Class Resources in Computer Systems
+JF Sigmetrics Performance Evaluation Review
+VO 16
+SP 253
+OP 260
+IS 1
+
+RT Conference Proceedings
+ID 522708
+A1 Dan,Asit
+A1 Towsley,Donald,F.
+A1 Kohler,Walter,H.
+YR 1988
+T1 Modeling the Effects of Data and Resource Contention on the Performance of Optimistic Concurrency Control Protocols
+SP 418
+OP 425
+
+RT Journal Article
+ID 767833
+A1 Jenq,Bao-chyuan
+A1 Kohler,Walter,H.
+A1 Towsley,Donald,F.
+YR 1988
+T1 A Queueing Network Model for a Distributed Database Testbed System
+JF IEEE Transactions on Software Engineering
+VO 14
+SP 908
+OP 921
+IS 7
+
+RT Conference Proceedings
+ID 49845896
+A1 Cassandras,Christos,G.
+A1 Abidi,M.,Vasmi
+A1 Towsley,Don
+YR 1988
+T1 Distributed routing with on-line marginal delay estimation
+
+RT Conference Proceedings
+ID 49845905
+A1 Bhargava,Amit
+A1 Kurose,James,F.
+A1 Towsley,Don
+A1 Leemput,Guy,Van
+YR 1988
+T1 Performance comparison of error control schemes in high speed computer communication networks
+
+RT Journal Article
+ID 1586340
+A1 Bhargava,A.
+A1 Kurose,J.,F.
+A1 Towsley,D.
+YR 1988
+T1 A hybrid media access protocol for high-speed ring networks [fibre optic LAN]
+JF IEEE Journal on Selected Areas in Communications
+VO 6
+SP 924
+OP 933
+IS 6
+
+RT Journal Article
+ID 49854178
+A1 BHARGAVA,AMIT
+A1 KUROSE,JAMES,F.
+A1 TOWSLEY,DON
+YR 1988
+T1 A hybrid media access protocol for a fiber optic ring network
+JF Archives of Clinical Neuropsychology
+
+RT Journal Article
+ID 680525
+A1 Nelson,Randolph,D.
+A1 Towsley,Donald,F.
+A1 Tantawi,Asser,N.
+YR 1987
+T1 Performance Analysis of Parallel Processing Systems
+JF Sigmetrics Performance Evaluation Review
+VO 15
+SP 93
+OP 94
+IS 1
+
+RT Conference Proceedings
+ID 1993234
+A1 Towsley,D.
+A1 Mithal,S.
+YR 1987
+T1 A Selective Repeat ARQ Protocol for a Point to MultipointChannel
+
+RT Journal Article
+ID 1315990
+A1 Towsley,D.
+A1 Vales,P.,O.
+YR 1987
+T1 Announced Arrival Random Access Protocols
+JF IEEE Transactions on Communications
+VO 35
+SP 513
+OP 521
+IS 5
+
+RT Journal Article
+ID 1257945
+A1 Rommel,C.,G.
+A1 Towsley,D.
+A1 Stankovic,J.,A.
+YR 1987
+T1 Analysis of fork-join jobs using processor sharing
+
+RT Journal Article
+ID 1310891
+A1 Towsley,D.
+YR 1987
+T1 Approximating the Mean Time in System in a Multiple-Server Queue that Uses Threshold Scheduling
+JF Operations Research
+VO 35
+SP 419
+OP 427
+IS 3
+
+RT Conference Proceedings
+ID 523309
+A1 Jenq,Bao-chyuan
+A1 Kohler,Walter,H.
+A1 Towsley,Donald,F.
+YR 1987
+T1 A Queueing Network Model for a Distributed Database Testbed System
+SP 62
+OP 71
+
+RT Conference Proceedings
+ID 557169
+A1 Towsley,Donald,F.
+A1 Mirchandaney,Ravi
+YR 1987
+T1 The Effect of Communication Delays on the Performance of Load Balancing Policies in Distributed Systems
+SP 213
+OP 226
+
+RT Conference Proceedings
+ID 607446
+A1 Choudhary,Alok,N.
+A1 Kohler,Walter,H.
+A1 Stankovic,John,A.
+A1 Towsley,Donald,F.
+YR 1987
+T1 A Priority Based Probe Algorithm for Distributed Deadlock Detection and Resolution
+SP 162
+OP 169
+
+RT Journal Article
+ID 39213818
+A1 Nelson,R.
+A1 Towsley,D.
+A1 Tantawi,A.,N.
+YR 1987
+T1 Performance analysis of parallel processing systems
+JF Sigmetrics Performance Evaluation Review
+SP 93
+OP 94
+
+RT Journal Article
+ID 26062825
+A1 Towsley,Don
+YR 1987
+T1 An application of the reflection principle to the transient analysis of theM/M/1 queue
+JF Naval Research Logistics
+VO 34
+SP 451
+OP 456
+IS 3
+
+RT Journal Article
+ID 1260741
+A1 Towsley,D.
+A1 Yu,S.,P.
+YR 1987
+T1 Bounds for two server fork-join queueing systems
+
+RT Journal Article
+ID 1397462
+A1 Towsley,D.
+A1 Yu,S.,P.
+YR 1987
+T1 Bounds on the performance of two server fork-joln queueing systems
+
+RT Journal Article
+ID 54868232
+A1 Kurose,James,F.
+A1 Shrivastava,Atul
+A1 Towsley,Don
+YR 1987
+T1 Stack algorithms for random multiple access networks with asymmetric noisy feedback
+
+RT Journal Article
+ID 766004
+A1 Towsley,Donald,F.
+YR 1986
+T1 Allocating Programs Containing Branches and Loops Within a Multiple Processor System
+JF IEEE Transactions on Software Engineering
+VO 12
+SP 1018
+OP 1024
+IS 10
+
+RT Journal Article
+ID 713227
+A1 Towsley,Donald,F.
+YR 1986
+T1 Approximate Models of Multiple Bus Multiprocessor Systems
+JF IEEE Transactions on Computers
+VO 35
+SP 220
+OP 228
+IS 3
+
+RT Journal Article
+ID 1331227
+A1 Kim,Byung
+A1 Towsley,D.
+YR 1986
+T1 Dynamic Flow Control Protocols for Packet-Switching Multiplexers Serving Real-Time Multipacket Messages
+JF IEEE Transactions on Communications
+VO 34
+SP 348
+OP 356
+IS 4
+
+RT Journal Article
+ID 680513
+A1 Lee,Kyoo,Jeong
+A1 Towsley,Donald,F.
+YR 1986
+T1 A Comparison of Priority-Based Decentralized Load Balancing Policies
+JF Sigmetrics Performance Evaluation Review
+VO 14
+SP 70
+OP 77
+IS 1
+
+RT Journal Article
+ID 1322026
+A1 Towsley,D.
+YR 1986
+T1 The allocation of programs containing loops and branches on a multiple processor system
+
+RT Conference Proceedings
+ID 607208
+A1 Stankovic,John,A.
+A1 Towsley,Donald,F.
+YR 1986
+T1 Dynamic Reallocation in a Highly Integrated Real-Time Distributed System
+SP 374
+OP 381
+
+RT Journal Article
+ID 39213792
+A1 Lee,Kyoo,Jeong
+A1 Towsley,Don
+YR 1986
+T1 A comparison of priority-based decentralized load balancing policies
+JF Sigmetrics Performance Evaluation Review
+SP 70
+OP 77
+
+RT Journal Article
+ID 788051
+A1 Tantawi,Asser,N.
+A1 Towsley,Donald,F.
+YR 1985
+T1 Optimal static load balancing in distributed computer systems
+JF Journal of The ACM
+VO 32
+SP 445
+OP 465
+IS 2
+
+RT Journal Article
+ID 1274863
+A1 TOWSLEY,DON
+YR 1985
+T1 An Analysis of a Point-to-Multipoint Channel Using a Go-Back-N Error Control Protocol
+JF IEEE Transactions on Communications
+VO 33
+SP 282
+OP 285
+IS 3
+
+RT Journal Article
+ID 1577411
+A1 Rosberg,Z.
+A1 Towsley,D.
+YR 1985
+T1 Customer routing to parallel servers with different rates
+JF IEEE Transactions on Automatic Control
+VO 30
+SP 1140
+OP 1143
+IS 11
+
+RT Journal Article
+ID 1451017
+A1 Panwar,Shivendra,S.
+A1 Towsley,Donald,F.
+A1 Wolf,Jack,K.
+YR 1985
+T1 On the throughput of degenerate intersection and first-come first-served collision resolution algorithms
+JF IEEE Transactions on Information Theory
+VO 31
+SP 274
+OP 279
+IS 2
+
+RT Conference Proceedings
+ID 685534
+A1 Tantawi,Asser,N.
+A1 Towsley,Donald,F.
+YR 1984
+T1 A General Model for Optimal Static Load Balancing in Star Network Configurations
+SP 277
+OP 291
+
+RT Journal Article
+ID 1360596
+A1 Berger,T.
+A1 Mehravari,N.
+A1 Towsley,D.
+A1 Wolf,J.
+YR 1984
+T1 Random Multiple-Access Communication and Group Testing
+JF IEEE Transactions on Communications
+VO 32
+SP 769
+OP 779
+IS 7
+
+RT Journal Article
+ID 1459685
+A1 TOWSLEY,DON
+A1 WOLF,JACK,KEIL
+YR 1984
+T1 On Adaptive Tree Polling Algorithms
+JF IEEE Transactions on Communications
+VO 32
+SP 1294
+OP 1298
+IS 12
+
+RT Journal Article
+ID 1576439
+A1 Rosenkrantz,W.
+A1 Towsley,D.
+YR 1983
+T1 On the instability of slotted ALOHA multiaccess algorithm
+JF IEEE Transactions on Automatic Control
+VO 28
+SP 994
+OP 996
+IS 10
+
+RT Conference Proceedings
+ID 917689
+A1 Towsley,Don
+YR 1983
+T1 An approximate analysis of multiprocessor systems
+SP 207
+OP 213
+
+RT Journal Article
+ID 712893
+A1 Towsley,Donald,F.
+A1 Venkatesh,G.
+YR 1982
+T1 Window Random Access Protocols for Local Computer Networks
+JF IEEE Transactions on Computers
+VO 31
+SP 715
+OP 722
+IS 8
+
+RT Journal Article
+ID 1457513
+A1 Towsley,D.
+YR 1981
+T1 A Statistical Analysis of ARQ Protocols Operating in a Nonindependent Error Environment
+JF IEEE Transactions on Communications
+VO 29
+SP 971
+OP 981
+IS 7
+
+RT Journal Article
+ID 786870
+A1 Towsley,Donald,F.
+YR 1980
+T1 Queuing Network Models with State-Dependent Routing
+JF Journal of The ACM
+VO 27
+SP 323
+OP 337
+IS 2
+
+RT Journal Article
+ID 1457823
+A1 TOWSLEY,DON
+YR 1980
+T1 The Analysis of a Statistical Multiplexer with Nonindependent Arrivals and Errors
+JF IEEE Transactions on Communications
+VO 28
+SP 65
+OP 72
+IS 1
+
+RT Journal Article
+ID 1359909
+A1 Kim,B.,G.
+A1 Towsley,D.,F.
+YR 1980
+T1 Dynamic flow control protocols for voice packet multiplexers
+
+RT Journal Article
+ID 14365046
+A1 Towsley,D.
+A1 Wolf,J.
+YR 1979
+T1 On the Statistical Analysis of Queue Lengths and Waiting Times for Statistical Multiplexers with ARQ Retransmission Schemes
+JF IEEE Transactions on Communications
+VO 27
+SP 693
+OP 702
+IS 4
+
+RT Journal Article
+ID 1381576
+A1 TOWSLEY,DON
+YR 1979
+T1 The Stutter Go Back-N ARQ Protocol
+JF IEEE Transactions on Communications
+VO 27
+SP 869
+OP 875
+IS 6
+
+RT Journal Article
+ID 1293855
+A1 Towsley,D.
+A1 Wolf,J.
+YR 1979
+T1 On the statistical analysis of queue lengths and waiting times for statistical multiplexors with arq retransmissiojl schemes
+
+RT Journal Article
+ID 55288475
+A1 Kim,B.,G.
+A1 Towsley,D.,F.
+A1 Wolf,J.,K.
+YR 1979
+T1 On discrete-time queueing systems
+
+RT Journal Article
+ID 772803
+A1 Towsley,Donald,F.
+A1 Chandy,K.,Mani
+A1 Browne,James,C.
+YR 1978
+T1 Models for parallel processing within programs: application to CPU: I/O and I/O: I/O overlap
+JF Communications of The ACM
+VO 21
+SP 821
+OP 831
+IS 10
+
+RT Conference Proceedings
+ID 550817
+A1 Towsley,Donald,F.
+YR 1978
+T1 The effects of CPU: I/O overlap on computer system configurations
+SP 238
+OP 241
+
+RT Conference Proceedings
+ID 454952
+A1 Dubois,Donald,F.
+A1 Kohler,Walter,H.
+A1 Towsley,Donald,F.
+YR 1978
+T1 Two-Class Finite Memory Analytic Models for Non-Pages Computer Systems
+SP 159
+OP 167
+
+RT Journal Article
+ID 788187
+A1 Chandy,K.,Mani
+A1 Jr.,John,H.,Howard
+A1 Towsley,Donald,F.
+YR 1977
+T1 Product Form and Local Balance in Queueing Networks
+JF Journal of The ACM
+VO 24
+SP 250
+OP 263
+IS 2
+
+RT Journal Article
+ID 1274383
+A1 Chandy,K.,Mani
+A1 Howard,J.
+A1 Towsley,D.
+YR 1977
+T1 Product form and local balance in queuing networks journal of the acm
+
+RT Conference Proceedings
+ID 2377977
+A1 Nonnenmacher,J.
+A1 Biersack,E.
+A1 Towsley,D.
+YR 1977
+T1 Parity-based loss recovery for reliable multicast communication
+
+RT Conference Proceedings
+ID 685549
+A1 Chandy,K.,Mani
+A1 Jr.,John,H.,Howard
+A1 Towsley,Donald,F.
+YR 1976
+T1 Product Form and Local Balance in Queueing Networks
+SP 89
+OP 101
+
+RT Journal Article
+ID 1272695
+A1 BROWNE,JAMES,C.
+A1 Chandy,K.,M.
+A1 Brown,R.,M.
+A1 KELLER,TOM,W.
+A1 TOWSLEY,DONALD,F.
+A1 DISSLY,C.,WILLIAM
+YR 1975
+T1 Hierarchical techniques for the development of realistic models of complex computer systems
+JF Proceedings of The IEEE
+VO 63
+SP 966
+OP 975
+IS 6
+
+RT Journal Article
+ID 1263545
+A1 Towsley,D.,F.
+YR 1975
+T1 Local balance models of computer systems
+
+RT Journal Article
+ID 6976899
+A1 Yajnik,Maya
+A1 Kurose,Jim
+A1 Towsley,Don
+T1 Packet Loss Correlation in the MBone Multicast Network1
+
+RT Journal Article
+ID 2322843
+A1 Han,H.
+A1 Shakkottai,S.
+A1 Hollot,C.,V.
+A1 Srikant,R.
+A1 Towsley,D.
+T1 Overlay TCP for MultiPath Routing and Congestion Control
+JF IEEE/ACM Transactions on Networking
+
+RT Conference Proceedings
+ID 2377838
+A1 Guo,Yang
+A1 Suh,Kyoungwon
+A1 Kurose,Jim
+A1 Towsley,Don
+T1 Cast: P2P Patching Scheme for VoD Service
+
+RT Conference Proceedings
+ID 7036438
+A1 Rubenstein,Dan
+A1 Kurose,Jim
+A1 Towsley,Don
+T1 Real-Time Reliable Multicast Using Proactive Forward Error Correction
+
+RT Journal Article
+ID 4857146
+A1 Yu,Xiang
+A1 Qiao,Chunming
+A1 Liu,Yong
+A1 Towsley,Don
+T1 Performance Evaluation of TCP Implementations in OBS Networks
+
+RT Journal Article
+ID 2300844
+A1 Zou,Cliff,C.
+A1 Towsley,Don
+A1 Gong,Weibo
+T1 A Firewall Network System for Worm Defense in Enterprise Networks
+
+RT Book, Whole
+ID 2300163
+A1 Guo,Yang
+A1 Ge,Zihui
+A1 Urgaonkar,Bhuvan
+A1 Shenoy,Prashant
+A1 Towsley,Don
+T1 Dynamic Cache Reconfiguration Strategies for a Cluster-Based Streaming Proxy
+
+RT Journal Article
+ID 7040134
+A1 Ghaderi,Majid
+A1 Towsley,Don
+A1 Kurose,Jim
+T1 Reliability Benefit of Network Coding
+
+RT Journal Article
+ID 4688066
+A1 Hao,Yonggang
+A1 Goeckel,Dennis
+A1 Ding,Zhiguo
+A1 Towsley,Don
+A1 Leung,Kin,K.
+T1 Achievable Rates of Physical Layer Network Coding Schemes on the Exchange Channel
+
+RT Conference Proceedings
+ID 4166471
+A1 Bhattacharyya,Supratik
+A1 Kurose,James,F.
+A1 Towsley,Don
+T1 Efficient Multicast Flow Control using Multiple Multicast Groups
+
+RT Journal Article
+ID 351263
+A1 Nagarajan,Ramesh
+A1 Towsley,Don
+T1 A Note on the Convexity of the Probability of a Full Buffer in the M/M/1/K Queue
+
+RT Journal Article
+ID 10597153
+A1 Duffield,N.,G.
+A1 Horowitz,J.
+A1 Towsley,D.
+T1 Loss-based Inference of Multicast Network Topology
+
+RT Journal Article
+ID 10308993
+A1 Zou,Cliff,C.
+A1 Towsley,Don
+A1 Gong,Weibo
+T1 On the performance of Internet worm scanning strategies
+
+RT Journal Article
+ID 10966147
+A1 Zhang,H.
+A1 Liu,Yong
+A1 Towsley,Don
+A1 Gong,Weibo
+T1 Understanding the interaction between overlay routing and Traffic Engineering
+
+RT Journal Article
+ID 10683872
+A1 Liu,Yong
+A1 Towsley,Don
+A1 Weng,Jing
+A1 Goeckel,Dennis
+T1 An Information Theoretic Approach to Network Trace Compression
+
+RT Journal Article
+ID 6964613
+A1 Presti,Francesco,Lo
+A1 Zhang,Zhi-Li
+A1 Towsley,Don
+A1 Kurose,Jim
+T1 Source Time Scale and Optimal Buffer/Bandwidth Trade-off for Regulated Traffic in an ATM Node
+JF IEEE/ACM Transactions on Networking
+
+RT Journal Article
+ID 12994188
+A1 Huang,Y.
+A1 Sridharan,A.
+A1 Tao,S.
+A1 Vergetis,E.
+A1 Diot,C.
+A1 Gao,L.
+A1 Kurose,J.
+A1 Sarkar,S.
+A1 Towsley,D.
+T1 And colleagues
+
+RT Journal Article
+ID 5265969
+A1 Wang,Bing
+A1 Wei,Wei
+A1 Guo,Zheng
+A1 Towsley,Don
+T1 Multipath Live Streaming via TCP: Performance and Benefits
+
+RT Journal Article
+ID 12712762
+A1 Salehi,James,D.
+A1 Kurose,James,F.
+A1 Towsley,Don
+T1 Further Results in Affinity-Based Scheduling of Parallel Networking
+
+RT Journal Article
+ID 10558892
+A1 Wei,Wei
+A1 Suh,Kyoungwon
+A1 Wang,Bing
+A1 Guy,Yu
+A1 Kurose,Jim
+A1 Towsley,Don
+T1 Passive Online Rogue Access Point Detection Using Sequential Hypothesis Testing with TCP ACK-Pairs
+
+RT Journal Article
+ID 10797538
+A1 Wei,Wei
+A1 Zhang,Chun
+A1 Zang,Hui
+A1 Kurose,Jim
+A1 Towsley,Don
+T1 Inference and Evaluation of Split-Connection Approaches in Cellular Data Networks
+
+RT Journal Article
+ID 4619073
+A1 Kamra,Abhinav
+A1 Misra,Vishal
+A1 Towsley,Don
+T1 Achieving High Throughput in Low Multiplexed, High Bandwidth, High Delay Environments
+
+RT Journal Article
+ID 4571235
+A1 Yates,David,J.
+A1 Nahum,Erich,M.
+A1 Kurose,James,F.
+A1 Towsley,Don
+T1 Networking Support for Large Scale Multiprocessor Servers (Extended Abstract)
+
+RT Book, Whole
+ID 48608521
+A1 Shapiro,Jonathan,K.
+A1 Towsley,Don
+A1 Kurose,Jim
+T1 Optimization-Based Congestion Control for Multicast Communications
+
+RT Journal Article
+ID 6177819
+A1 Hardwick,Kery
+A1 Goeckel,Dennis
+A1 Towsley,Don
+A1 Leung,Kin
+A1 Ding,Zhiguo
+T1 Antenna Beam Pattern Model for Cooperative Ad-Hoc Networks
+
+RT Journal Article
+ID 10966854
+A1 Vasudevan,Sudarshan
+A1 Zhang,Chun
+A1 Goeckel,Dennis
+A1 Towsley,Don
+T1 Optimal Power Allocation in Wireless Networks with Transmitter-Receiver Power Tradeoffs
+
+RT Conference Proceedings
+ID 10036571
+A1 Vasudevan,K.,Papagiannakiz
+A1 Diot,C.
+A1 Towsley,D.
+T1 Facilitating Access Point Selection in IEEE 802.11 Wireless Networks
+
+RT Journal Article
+ID 12932567
+A1 Cavalli-Sforza,V.
+A1 Antón,A.,I.
+A1 Brooks,O.
+A1 Towsley,D.
+A1 Ventura,J.
+A1 Ward,W.
+T1 Enabling Transnational Collection, Notification, and Sharing of Information
+
+RT Journal Article
+ID 12886667
+A1 Sen,Subhabrata
+A1 Dey,Jayanta,K.
+A1 Kurose,James,F.
+A1 Stankovic,John,A.
+A1 Towsley,Don
+T1 Online smoothing of live video transmissions
+
+RT Journal Article
+ID 4627736
+A1 Ge,Zihui
+A1 Ji,Ping
+A1 Kurose,Jim
+A1 Towsley,Don
+T1 Matchmaker: A Distributed Publish/Subscribe Architecture
+
+RT Journal Article
+ID 5918406
+A1 Huang,Yong
+A1 Gong,Weibo
+A1 Towsley,Don
+T1 Application layer relays for wireless 802.11 mesh networks
+
+RT Journal Article
+ID 14022195
+A1 Schulzrinne,Henning
+A1 Levi,Julian,Clarence
+A1 Kurose,J.
+A1 Towsley,D.
+A1 Cassandras,C.
+A1 Ramamoorthy,P.,A.
+A1 EE,B.,S.
+A1 IE,B.,S.
+T1 Professional Preparation
+
+RT Journal Article
+ID 353671
+A1 Kurose,Jim
+A1 Towsley,Don
+A1 Yajnik,Maya
+A1 Moon,Sue,B.
+A1 Kasera,Sneha
+T1 Measuring Internet/MBone Packet Loss and Delay: Experimental results and reflections on the measurement process
+
+RT Journal Article
+ID 7021343
+A1 Ghaderi,Majid
+A1 Sridharan,Ashwin
+A1 ATL,Sprint
+A1 Zang,Hui
+A1 Towsley,Don
+A1 Cruz,Rene
+T1 TCP-Aware Resource Allocation in CDMA Networks
+
+RT Journal Article
+ID 13006671
+A1 Montgomery,T.
+A1 Kaplan,S.
+A1 Griffioen,J.
+A1 Pingali,S.
+A1 Towsley,D.
+T1 Madhu Sudan, "A Reliable Dissemination Protocol for Interactive Collaborative Applications," Proc. ACM Multimedia, 1995. (7) J.C. Lin, and S. Paul, "RMTP: A Reliable Multicast Transport Protocol," Proc
+
+RT Journal Article
+ID 10731490
+A1 Ghaderi,Majid
+A1 Sridharan,Ashwin
+A1 Zang,Hui
+A1 Towsley,Don
+A1 Cruz,Rene
+T1 Modeling TCP in a Multi-Rate Multi-User CDMA System
+
+RT Journal Article
+ID 13043218
+A1 Neufeld,G.
+A1 Goldberg,M.
+A1 McCutcheon,M.
+A1 Krishnakumar,A.
+A1 Shaw,A.
+A1 Towsley,D.
+A1 Miloucheva,I.
+T1 HIPOD: An Architecture for High Speed Protocol Implementation, High Performance Networking IV , 1993 21
+
+RT Journal Article
+ID 13029102
+A1 Ramjee,R.
+A1 Kurose,J.
+A1 Towsley,D.
+A1 Schulzrinne,H.
+T1 ECPE 6504 - Advanced Topics in Computer Engineering: Network QoS Spring 2001 - L. DaSilva Homework Assignment # 1 - Due Tuesday, February 6 th 2001 Adaptive Playout Mechanisms for Packet Audio
+
+RT Journal Article
+ID 11841979
+A1 Khalili,Ramin
+A1 Goeckel,Dennis,L.
+A1 Jones,Emma
+A1 Swami,Ananthram
+A1 Towsley,Don
+A1 Castle,Beckington
+T1 Neighbor discovery with reception status feedback
+
+RT Journal Article
+ID 13015440
+A1 Jaiswal,Sharad
+A1 Iannaccone,Gianluca
+A1 Diot,Christophe
+A1 Kurose,Jim
+A1 Towsley,Don
+T1 Packets in a Tier1 IP Backbone
+
+RT Journal Article
+ID 13015449
+A1 Jaiswal,Sharad
+A1 Iannaccone,Gianluca
+A1 Diot,Christophe
+A1 Kurose,Jim
+A1 Towsley,Don
+T1 Through Passive Measurements
+
+RT Journal Article
+ID 12423400
+A1 Zhang,Chun
+A1 Liu,Yong
+A1 Gong,Weibo
+A1 Kurosea,Jim
+A1 Molla,Robert
+A1 Towsley,Don
+T1 On Optimal Routing with Multiple Trafc Matrices
+
+RT Journal Article
+ID 58571881
+A1 Figueiredo,Daniel
+A1 Nain,Philippe
+A1 Ribeiro,Bruno
+A1 Silva,Edmundo,de,Souza,e
+A1 Towsley,Don
+T1 Characterizing continuous time random walks on time varying graphs
+JF Sigmetrics Performance Evaluation Review
+SP 307
+OP 318
+
+RT Journal Article
+ID 12035286
+A1 Wang,Bing
+A1 Wei,Wei
+A1 Kurose,Jim
+A1 Towsley,Don
+A1 Pattipati,Krishna,R.
+A1 Guo,Zheng
+A1 Peng,Zheng
+T1 Application-layer multipath data transfer via TCP: Schemes and performance tradeoffs
+
+RT Journal Article
+ID 13063731
+A1 Wang,Bing
+A1 Wei,Wei
+A1 Kurose,Jim
+A1 Towsley,Don
+A1 Guo,Zheng
+A1 Peng,Zheng
+A1 Pattipati,Krishna,R.
+T1 Distributed Application-layer Rate Control for Efficient Multipath Data Transfer via TCP
+
+RT Journal Article
+ID 13032387
+A1 Rubenstein,Dan
+A1 Kasera,Sneha
+A1 Towsley,Don
+A1 Kurose,Jim
+T1 Encoding Services (APES)
+
+RT Journal Article
+ID 11992323
+A1 Vasudevan,Sudarshan
+A1 Adams,Stephan
+A1 Goeckel,Dennis
+A1 Ding,Zhiguo
+A1 Towsley,Donald
+A1 Leung,Kin
+T1 Multi-User Diversity for Secrecy in Wireless Networks UMass Computer Science Technical Report UM-CS-2009-048
+
+RT Journal Article
+ID 10691530
+A1 Jaiswal,Sharad
+A1 Iannaccone,Gianluca
+A1 Kurose,Jim
+A1 Towsley,Don
+T1 Formal Analysis of Passive Measurement Inference Techniques
+
+RT Journal Article
+ID 4605107
+A1 Wei,Wei
+A1 Wang,Bing
+A1 Zhang,Chun
+A1 Towsley,Don
+A1 Kurose,Jim
+T1 Classicat ion of Access Network Types: LAN, Wireless LAN, ADSL, Cable or Dialup?
+
+RT Journal Article
+ID 10479464
+A1 Zhang,Chun
+A1 Kurose,Jim
+A1 Liu,Yong
+A1 Towsley,Don
+A1 Zink,Michael
+T1 A Distributed Algorithm for Joint Sensing and Routing in Wireless Networks with Non-Steerable Directional Antennas
+
+RT Journal Article
+ID 13006405
+A1 Wei,Wei
+A1 Wang,Bing
+A1 Zhang,Chun
+A1 Kurose,Jim
+A1 Towsley,Don
+T1 Wireless LAN, ADSL, Cable Modem or Dialup?
+
+RT Journal Article
+ID 13032164
+A1 Wei,Wei
+A1 Wang,Bing
+A1 Zhang,Chun
+A1 Towsley,Don
+A1 Kurose,Jim
+T1 Wireless LAN, ADSL, Cable or Dialup?
+
+RT Journal Article
+ID 13006377
+A1 Wang,Bing
+A1 Kurose,Jim
+A1 Shenoy,Prashant
+A1 Towsley,Don
+T1 via TCP: An Analytic Performance Study
+
+RT Journal Article
+ID 12807950
+A1 Wei,Wei
+A1 Jaiswal,Sharad
+A1 Kurose,Jim
+A1 Towsley,Don
+T1 Measurements Using Iterative Bayesian Inference
+
+RT Journal Article
+ID 5249505
+A1 Ji,Ping
+A1 Ge,Zihui
+A1 Kurose,Jim
+A1 Towsley,Don
+T1 Signaling Protocols for Distributed Multicast-Based Publish/Subscribe Applications
+
+RT Journal Article
+ID 233735
+A1 Bhattacharyya,Supratik
+A1 Towsley,Don
+A1 Kurose,Jim
+T1 Design and Analysis of Loss Indication Filters for Multicast Congestion Control
+
+RT Journal Article
+ID 5048533
+A1 Arag,Antonio,A.,de
+A1 Menasche,Daniel,Sadoc
+A1 Towsley,Don
+A1 Venkataramani,Arun
+T1 On P2P systems for enterprise content delivery
+
+RT Journal Article
+ID 13014417
+A1 Bhattacharyya,Supratik
+A1 Towsley,Don
+A1 Kurose,Jim
+T1 Design and Analysis of Loss Indication Filters for
+
+RT Journal Article
+ID 6246396
+A1 Lu,Yu-En
+A1 Liu,Benyuan
+A1 Li,Pietro
+A1 Towsley,Don
+T1 Systemic Availability and Connectivity in Hard Terrain Environments
+
+RT Journal Article
+ID 12328565
+A1 Liu,Yong
+A1 Gu,Yu
+A1 Zhang,Honggang
+A1 Gong,Weibo
+A1 Towsley,Don
+T1 Application Level Relay for High-Bandwidth Data Transport
+
+RT Journal Article
+ID 13044318
+A1 Duffield,N.,G.
+A1 Moon,Sue,B.
+A1 Towsley,Don
+T1 Inferring Link-Level Performance from End-to-End
+
+RT Journal Article
+ID 13039697
+A1 Wang,Bing
+A1 Sen,Subhabrata
+A1 Adler,Micah
+A1 Towsley,Don
+T1 Streaming Media Distribution
+
+RT Journal Article
+ID 5972933
+A1 Liu,Junning
+A1 Adler,Micah
+A1 Towsley,Don
+A1 Zhang,Chun
+T1 Collecting Correlated Data through a Network with Minimum Cost: Distance Entropy and a Practical Order Optimal Design
+
+RT Journal Article
+ID 6115057
+A1 Liu,Junning
+A1 Adler,Micah
+A1 Towsley,Don
+A1 Zhang,Chun
+T1 Collecting Correlated Data through a Network with Minimum Cost: Distance Entropy and a Practical Design
+
+RT Journal Article
+ID 6274862
+A1 Ding,Zhiguo
+A1 Leung,Kin,K.
+A1 Goeckel,Dennis,L.
+A1 Towsley,Don
+T1 On the Capacity of Network Coding with Diverstiy
+
+RT Journal Article
+ID 6593256
+A1 Ding,Zhiguo
+A1 Leung,Kin,K.
+A1 Goeckel,Dennis,L.
+A1 Towsley,Don
+T1 Relay Beamforming in Wireless Secrecy Communication Systems
+
+RT Journal Article
+ID 4807281
+A1 Koole,Ger
+A1 Liu,Zhen
+A1 Towsley,Don
+T1 Comparison and majorization of queueing systems with ono sources
+
+RT Journal Article
+ID 10292882
+A1 Bu,Tian
+A1 Liu,Yong
+A1 Towsley,Don
+T1 On the TCP-Friendliness of VoIP Traffic
+
+RT Journal Article
+ID 7017848
+A1 Menasche,Daniel,Sadoc
+A1 Towsley,Don
+A1 Zilberstein,Shlomo
+T1 Strategic Bundling: Incentive Compatible and Content Aware Replication Strategies in P2P Networks under Competition
+
+RT Journal Article
+ID 5931560
+A1 Menasche,Daniel,Sadoc
+A1 Rocha,Antonio,A.,Aragao
+A1 Towsley,Don
+A1 Venkataramani,Arun
+T1 Availability in Swarming Systems
+
+RT Journal Article
+ID 13031998
+A1 Alouf,Sara
+A1 Nain,Philippe
+A1 Towsley,Don
+T1 Moment-Based Estimators
+
+RT Journal Article
+ID 12921929
+A1 Presti,Francesco,Lo
+A1 Zhang,Zhi-Li
+A1 Towsley,Don
+T1 BOUNDS, APPROXIMATIONS ANDAPPLICATIONS FOR A TWO-QUEUE
+
+RT Book, Whole
+ID 48443582
+A1 Heidelberger,Philip
+A1 Towsley,Don
+T1 Sensitivity analysis from sample paths using the method of likelihoods
+
+RT Journal Article
+ID 13024275
+A1 Bu,Tian
+A1 Towsley,Don
+T1 Generators
+
+RT Journal Article
+ID 12770444
+A1 Gao,Lixin
+A1 Towsley,Don
+T1 Supplying Instantaneous Video-on-Demand Services Using
+
+RT Journal Article
+ID 12388365
+A1 Garetto,Michele
+A1 Towsley,Don
+T1 An efficient technique to analyze the impact of bursty TCP traffic in wide-area networksI
+
+RT Journal Article
+ID 2331478
+A1 Chen,Weifeng
+A1 Towsley,Don
+T1 A Distributed Architecture for the TDG Project-Some Issues and Problems
+
+RT Journal Article
+ID 13021144
+A1 Towsley,Don
+T1 Kurose, Prashant Shenoy

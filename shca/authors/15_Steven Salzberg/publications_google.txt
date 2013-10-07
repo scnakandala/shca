@@ -1,0 +1,2506 @@
+<file>
+<record>
+<title>The sequence of the human genome</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;citation_for_view=sUVeH-4AAAAJ:u5HHmVD_uO8C</link>
+<authors>JC Venter, EW Adams, M.D., Myers, PW Li, RJ Mural, et al.</authors>
+<source>Science 291 (5507), 1304-1351</source>
+<citations>11436</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Analysis of the genome sequence of the flowering plant Arabidopsis thaliana.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;citation_for_view=sUVeH-4AAAAJ:nVrZBo8bIpAC</link>
+<authors>GI Arabidopsis</authors>
+<source>Nature 408 (6814), 796</source>
+<citations>6125</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Ultrafast and memory-efficient alignment of short DNA sequences to the human genome</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;citation_for_view=sUVeH-4AAAAJ:Tyk-4Ss8FVUC</link>
+<authors>B Langmead, C Trapnell, M Pop, SL Salzberg</authors>
+<source>Genome Biol 10 (3), R25</source>
+<citations>2909</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Genome sequence of the human malaria parasite Plasmodium falciparum</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;citation_for_view=sUVeH-4AAAAJ:u-x6o8ySG0sC</link>
+<authors>MJ Gardner, N Hall, E Fung, O White, M Berriman, RW Hyman, JM Carlton, A ...</authors>
+<source>Nature 419 (6906), 498-511</source>
+<citations>2838</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Genomic sequence of a Lyme disease spirochaete, Borrelia burgdorferi</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;citation_for_view=sUVeH-4AAAAJ:d1gkVwhDpl0C</link>
+<authors>CM Fraser, S Casjens, WM Huang, GG Sutton, R Clayton, R Lathigra, O White ...</authors>
+<source>Nature 390 (6660), 580-586</source>
+<citations>1633</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>The genome sequence of the malaria mosquito Anopheles gambiae</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;citation_for_view=sUVeH-4AAAAJ:9yKSN-GCB0IC</link>
+<authors>RA Holt, GM Subramanian, A Halpern, GG Sutton, R Charlab, DR Nusskern, P ...</authors>
+<source>Science 298 (5591), 129-149</source>
+<citations>1547</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Improved microbial gene identification with GLIMMER</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;citation_for_view=sUVeH-4AAAAJ:qjMakFHDy7sC</link>
+<authors>AL Delcher, D Harmon, S Kasif, O White, SL Salzberg</authors>
+<source>Nucleic acids research 27 (23), 4636-4641</source>
+<citations>1432</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>TopHat: discovering splice junctions with RNA-Seq</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;citation_for_view=sUVeH-4AAAAJ:7PzlFSSx8tAC</link>
+<authors>C Trapnell, L Pachter, SL Salzberg</authors>
+<source>Bioinformatics 25 (9), 1105-1111</source>
+<citations>1319</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Evidence for lateral gene transfer between Archaea and bacteria from genome sequence of Thermotoga maritima</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;citation_for_view=sUVeH-4AAAAJ:2osOgNQ5qMEC</link>
+<authors>KE Nelson, RA Clayton, SR Gill, ML Gwinn, RJ Dodson, DH Haft, EK Hickey, JD ...</authors>
+<source>Nature 399 (6734), 323-329</source>
+<citations>1312</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>DNA sequence of both chromosomes of the cholera pathogen Vibrio cholerae</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;citation_for_view=sUVeH-4AAAAJ:UeHWp8X0CEIC</link>
+<authors>JF Heidelberg, JA Eisen, WC Nelson, RA Clayton, ML Gwinn, RJ Dodson, DH Haft ...</authors>
+<source>Nature 406 (6795), 477-483</source>
+<citations>1254</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>The transcriptional landscape of the mammalian genome</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;citation_for_view=sUVeH-4AAAAJ:IjCSPb-OGe4C</link>
+<authors>P Carninci, T Kasukawa, S Katayama, J Gough, MC Frith, N Maeda, R Oyama, T ...</authors>
+<source>Science 309 (5740), 1559-1563</source>
+<citations>1162</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Transcript assembly and quantification by RNA-Seq reveals unannotated transcripts and isoform switching during cell differentiation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;citation_for_view=sUVeH-4AAAAJ:TQgYirikUcIC</link>
+<authors>C Trapnell, BA Williams, G Pertea, A Mortazavi, G Kwan, MJ van Baren, SL ...</authors>
+<source>Nature biotechnology 28 (5), 511-515</source>
+<citations>1136</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Versatile and open software for comparing large genomes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;citation_for_view=sUVeH-4AAAAJ:roLk4NBRz8UC</link>
+<authors>S Kurtz, A Phillippy, AL Delcher, M Smoot, M Shumway, C Antonescu, SL Salzberg</authors>
+<source>Genome biology 5 (2), R12</source>
+<citations>1037</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Complete genome sequence of Neisseria meningitidis serogroup B strain MC58</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;citation_for_view=sUVeH-4AAAAJ:zYLM7Y9cAGgC</link>
+<authors>H Tettelin, NJ Saunders, J Heidelberg, AC Jeffries, KE Nelson, JA Eisen, KA ...</authors>
+<source>Science 287 (5459), 1809-1815</source>
+<citations>969</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Complete genome sequence of a virulent isolate of Streptococcus pneumoniae</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;citation_for_view=sUVeH-4AAAAJ:Y0pCki6q_DkC</link>
+<authors>H Tettelin, KE Nelson, IT Paulsen, JA Eisen, TD Read, S Peterson, J ...</authors>
+<source>Science 293 (5529), 498-506</source>
+<citations>953</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Evolution of genes and genomes on the Drosophila phylogeny</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;citation_for_view=sUVeH-4AAAAJ:ufrVoPGSRksC</link>
+<authors>AG Clark, MB Eisen, DR Smith, CM Bergman, B Oliver, TA Markow, TC Kaufman, M ...</authors>
+<source>Nature 450 (7167), 203-218</source>
+<citations>920</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>The genome of the African trypanosome Trypanosoma brucei</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;citation_for_view=sUVeH-4AAAAJ:YsMSGLbcyi4C</link>
+<authors>M Berriman, E Ghedin, C Hertz-Fowler, G Blandin, H Renauld, DC Bartholomeu ...</authors>
+<source>Science 309 (5733), 416-422</source>
+<citations>913</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Complete genome sequence of Treponema pallidum, the syphilis spirochete</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;citation_for_view=sUVeH-4AAAAJ:W7OEmFMy1HYC</link>
+<authors>CM Fraser, SJ Norris, GM Weinstock, O White, GG Sutton, R Dodson, M Gwinn ...</authors>
+<source>Science 281 (5375), 375-388</source>
+<citations>883</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Microbial gene identification using interpolated Markov models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;citation_for_view=sUVeH-4AAAAJ:LkGwnXOMwfcC</link>
+<authors>SL Salzberg, AL Delcher, S Kasif, O White</authors>
+<source>Nucleic acids research 26 (2), 544-548</source>
+<citations>794</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>A system for induction of oblique decision trees</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;citation_for_view=sUVeH-4AAAAJ:_FxGoFyzp5QC</link>
+<authors>SK Murthy, S Kasif, S Salzberg</authors>
+<source>arXiv preprint cs/9408103</source>
+<citations>779</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>The genome sequence of Trypanosoma cruzi, etiologic agent of Chagas disease</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=20&amp;citation_for_view=sUVeH-4AAAAJ:UebtZRa9Y70C</link>
+<authors>NM El-Sayed, PJ Myler, DC Bartholomeu, D Nilsson, G Aggarwal, AN Tran, E ...</authors>
+<source>Science 309 (5733), 409-415</source>
+<citations>774</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>A weighted nearest neighbor algorithm for learning with symbolic features</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=20&amp;citation_for_view=sUVeH-4AAAAJ:WF5omc3nYNoC</link>
+<authors>S Cost, S Salzberg</authors>
+<source>Machine learning 10 (1), 57-78</source>
+<citations>768</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Genome sequence of the radioresistant bacterium Deinococcus radiodurans R1</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=20&amp;citation_for_view=sUVeH-4AAAAJ:eQOLeE2rZwMC</link>
+<authors>O White, JA Eisen, JF Heidelberg, EK Hickey, JD Peterson, RJ Dodson, DH Haft ...</authors>
+<source>Science 286 (5444), 1571-1577</source>
+<citations>766</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Genomic sequence of the pathogenic and allergenic filamentous fungus Aspergillus fumigatus</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=20&amp;citation_for_view=sUVeH-4AAAAJ:5nxA0vEk-isC</link>
+<authors>WC Nierman, A Pain, MJ Anderson, JR Wortman, HS Kim, J Arroyo, M Berriman, K ...</authors>
+<source>Nature 438 (7071), 1151-1156</source>
+<citations>739</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Alignment of whole genomes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=20&amp;citation_for_view=sUVeH-4AAAAJ:Se3iqnhoufwC</link>
+<authors>AL Delcher, S Kasif, RD Fleischmann, J Peterson, O White, SL Salzberg</authors>
+<source>Nucleic Acids Research 27 (11), 2369-2376</source>
+<citations>713</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Identifying bacterial genes and endosymbiont DNA with Glimmer</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=20&amp;citation_for_view=sUVeH-4AAAAJ:4DMP91E08xMC</link>
+<authors>AL Delcher, KA Bratke, EC Powers, SL Salzberg</authors>
+<source>Bioinformatics 23 (6), 673-679</source>
+<citations>707</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>The genome sequence of Bacillus anthracis Ames and comparison to closely related bacteria</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=20&amp;citation_for_view=sUVeH-4AAAAJ:hqOjcs7Dif8C</link>
+<authors>TD Read, SN Peterson, N Tourasse, LW Baillie, IT Paulsen, KE Nelson, H ...</authors>
+<source>Nature 423 (6935), 81-86</source>
+<citations>693</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Genome sequences of Chlamydia trachomatis MoPn and Chlamydia pneumoniae AR39</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=20&amp;citation_for_view=sUVeH-4AAAAJ:0EnyYjriUFMC</link>
+<authors>TD Read, RC Brunham, C Shen, SR Gill, JF Heidelberg, O White, EK Hickey, J ...</authors>
+<source>Nucleic Acids Research 28 (6), 1397-1406</source>
+<citations>651</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Genome sequence and comparative analysis of the model rodent malaria parasite Plasmodium yoelii yoelii</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=20&amp;citation_for_view=sUVeH-4AAAAJ:8k81kl-MbHgC</link>
+<authors>JM Carlton, SV Angiuoli, BB Suh, TW Kooij, M Pertea, JC Silva, MD Ermolaeva ...</authors>
+<source>Nature 419 (6906), 512-519</source>
+<citations>608</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Whole-genome comparison of Mycobacterium tuberculosis clinical and laboratory strains</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=20&amp;citation_for_view=sUVeH-4AAAAJ:MXK_kJrjxJIC</link>
+<authors>RD Fleischmann, D Alland, JA Eisen, L Carpenter, O White, J Peterson, R ...</authors>
+<source>Journal of bacteriology 184 (19), 5479-5490</source>
+<citations>569</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>On comparing classifiers: Pitfalls to avoid and a recommended approach</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=20&amp;citation_for_view=sUVeH-4AAAAJ:kNdYIx-mwKoC</link>
+<authors>SL Salzberg</authors>
+<source>Data Mining and knowledge discovery 1 (3), 317-328</source>
+<citations>538</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>A nearest hyperrectangle learning method</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=20&amp;citation_for_view=sUVeH-4AAAAJ:3fE2CSJIrl8C</link>
+<authors>S Salzberg</authors>
+<source>Machine learning 6 (3), 251-276</source>
+<citations>490</citations>
+<pub_year>1991</pub_year>
+</record>
+<record>
+<title>Fast algorithms for large-scale genome alignment and comparison</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=20&amp;citation_for_view=sUVeH-4AAAAJ:Zph67rFs4hoC</link>
+<authors>AL Delcher, A Phillippy, J Carlton, SL Salzberg</authors>
+<source>Nucleic acids research 30 (11), 2478-2483</source>
+<citations>487</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Genome sequence of Aedes aegypti, a major arbovirus vector</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=20&amp;citation_for_view=sUVeH-4AAAAJ:aqlVkmm33-oC</link>
+<authors>V Nene, JR Wortman, D Lawson, B Haas, C Kodira, ZJ Tu, B Loftus, Z Xi, K ...</authors>
+<source>Science 316 (5832), 1718-1723</source>
+<citations>472</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Chromosome 2 sequence of the human malaria parasite Plasmodium falciparum</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=20&amp;citation_for_view=sUVeH-4AAAAJ:KlAtU1dfN6UC</link>
+<authors>MJ Gardner, H Tettelin, DJ Carucci, LM Cummings, L Aravind, EV Koonin, S ...</authors>
+<source>Science 282 (5391), 1126-1132</source>
+<citations>468</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Comparative genomics of trypanosomatid parasitic protozoa</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=20&amp;citation_for_view=sUVeH-4AAAAJ:4TOpqqG69KYC</link>
+<authors>NM El-Sayed, PJ Myler, G Blandin, M Berriman, J Crabtree, G Aggarwal, E ...</authors>
+<source>Science 309 (5733), 404-409</source>
+<citations>453</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Comparative genome and proteome analysis of Anopheles gambiae and Drosophila melanogaster</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=20&amp;citation_for_view=sUVeH-4AAAAJ:ULOm3_A8WrAC</link>
+<authors>EM Zdobnov, C von Mering, I Letunic, D Torrents, M Suyama, RR Copley, GK ...</authors>
+<source>Science 298 (5591), 149-159</source>
+<citations>442</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>The genome of the basidiomycetous yeast and human pathogen Cryptococcus neoformans</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=20&amp;citation_for_view=sUVeH-4AAAAJ:_kc_bZDykSQC</link>
+<authors>BJ Loftus, E Fung, P Roncaglia, D Rowley, P Amedeo, D Bruno, J Vamathevan, M ...</authors>
+<source>Science 307 (5713), 1321-1324</source>
+<citations>439</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>The draft genome of the transgenic tropical fruit tree papaya (Carica papaya Linnaeus)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=20&amp;citation_for_view=sUVeH-4AAAAJ:L8Ckcad2t8MC</link>
+<authors>R Ming, S Hou, Y Feng, Q Yu, A Dionne-Laporte, JH Saw, P Senin, W Wang, BV ...</authors>
+<source>Nature 452 (7190), 991-996</source>
+<citations>429</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Draft genome sequence of the sexually transmitted pathogen Trichomonas vaginalis</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=20&amp;citation_for_view=sUVeH-4AAAAJ:9ZlFYXVOiuMC</link>
+<authors>JM Carlton, RP Hirt, JC Silva, AL Delcher, M Schatz, Q Zhao, JR Wortman, SL ...</authors>
+<source>Science 315 (5809), 207-212</source>
+<citations>401</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Complete genome sequence of Caulobacter crescentus</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=40&amp;citation_for_view=sUVeH-4AAAAJ:YOwf2qJgpHMC</link>
+<authors>WC Nierman, TV Feldblyum, MT Laub, IT Paulsen, KE Nelson, J Eisen, JF ...</authors>
+<source>Proceedings of the National Academy of Sciences 98 (7), 4136-4141</source>
+<citations>395</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Comparative genome sequencing for discovery of novel polymorphisms in Bacillus anthracis</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=40&amp;citation_for_view=sUVeH-4AAAAJ:M3ejUd6NZC8C</link>
+<authors>TD Read, SL Salzberg, M Pop, M Shumway, L Umayam, L Jiang, E Holtzapple, JD ...</authors>
+<source>Science 296 (5575), 2028-2033</source>
+<citations>392</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>The genome of the blood fluke Schistosoma mansoni</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=40&amp;citation_for_view=sUVeH-4AAAAJ:-f6ydRqryjwC</link>
+<authors>M Berriman, BJ Haas, PT LoVerde, RA Wilson, GP Dillon, GC Cerqueira, ST ...</authors>
+<source>Nature 460 (7253), 352-358</source>
+<citations>391</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>The Brucella suis genome reveals fundamental similarities between animal and plant pathogens and symbionts</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=40&amp;citation_for_view=sUVeH-4AAAAJ:qxL8FJ1GzNcC</link>
+<authors>IT Paulsen, R Seshadri, KE Nelson, JA Eisen, JF Heidelberg, TD Read, RJ ...</authors>
+<source>Proceedings of the National Academy of Sciences 99 (20), 13148-13153</source>
+<citations>390</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Macronuclear genome sequence of the ciliate Tetrahymena thermophila, a model eukaryote</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=40&amp;citation_for_view=sUVeH-4AAAAJ:mVmsd5A6BfQC</link>
+<authors>JA Eisen, RS Coyne, M Wu, D Wu, M Thiagarajan, JR Wortman, JH Badger, Q Ren ...</authors>
+<source>PLoS biology 4 (9), e286</source>
+<citations>362</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Draft genome of the filarial nematode parasite Brugia malayi</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=40&amp;citation_for_view=sUVeH-4AAAAJ:qUcmZB5y_30C</link>
+<authors>E Ghedin, S Wang, D Spiro, E Caler, Q Zhao, J Crabtree, JE Allen, AL Delcher ...</authors>
+<source>Science 317 (5845), 1756-1760</source>
+<citations>345</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Large-scale sequencing of human influenza reveals the dynamic nature of viral genome evolution</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=40&amp;citation_for_view=sUVeH-4AAAAJ:QIV2ME_5wuYC</link>
+<authors>E Ghedin, NA Sengamalay, M Shumway, J Zaborsky, T Feldblyum, V Subbu, DJ ...</authors>
+<source>Nature 437 (7062), 1162-1166</source>
+<citations>333</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Comparative genomics of the neglected human malaria parasite Plasmodium vivax</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=40&amp;citation_for_view=sUVeH-4AAAAJ:j3f4tGmQtD8C</link>
+<authors>JM Carlton, JH Adams, JC Silva, SL Bidwell, H Lorenzi, E Caler, J Crabtree ...</authors>
+<source>Nature 455 (7214), 757-763</source>
+<citations>324</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>A comparison of whole-genome shotgun-derived mouse chromosome 16 and the human genome</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=40&amp;citation_for_view=sUVeH-4AAAAJ:Wp0gIr-vW9MC</link>
+<authors>RJ Mural, MD Adams, EW Myers, HO Smith, GLG Miklos, R Wides, A Halpern, PW ...</authors>
+<source>Science 296 (5573), 1661-1671</source>
+<citations>302</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Fast gapped-read alignment with Bowtie 2</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=40&amp;citation_for_view=sUVeH-4AAAAJ:0izLItjtcgwC</link>
+<authors>B Langmead, SL Salzberg</authors>
+<source>Nature methods 9 (4), 357-359</source>
+<citations>279</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Bioinformatics challenges of new sequencing technology</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=40&amp;citation_for_view=sUVeH-4AAAAJ:r0BpntZqJG4C</link>
+<authors>M Pop, SL Salzberg</authors>
+<source>Trends in Genetics 24 (3), 142-149</source>
+<citations>277</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Improving the Arabidopsis genome annotation using maximal transcript alignment assemblies</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=40&amp;citation_for_view=sUVeH-4AAAAJ:HDshCWvjkbEC</link>
+<authors>BJ Haas, AL Delcher, SM Mount, JR Wortman, RK Smith Jr, LI Hannick, R Maiti ...</authors>
+<source>Nucleic acids research 31 (19), 5654-5666</source>
+<citations>274</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Whole-genome analysis of human influenza A virus reveals multiple persistent lineages and reassortment among recent H3N2 viruses</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=40&amp;citation_for_view=sUVeH-4AAAAJ:mB3voiENLucC</link>
+<authors>EC Holmes, E Ghedin, N Miller, J Taylor, Y Bao, K St George, BT Grenfell, SL ...</authors>
+<source>PLoS biology 3 (9), e300</source>
+<citations>270</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Gene index analysis of the human genome estimates approximately 120,000 genes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=40&amp;citation_for_view=sUVeH-4AAAAJ:dhFuZR0502QC</link>
+<authors>F Liang, I Holt, G Pertea, S Karamycheva, SL Salzberg, J Quackenbush</authors>
+<source>nature genetics 25 (2), 239-240</source>
+<citations>270</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>GeneSplicer: a new computational method for splice site prediction</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=40&amp;citation_for_view=sUVeH-4AAAAJ:IWHjjKOFINEC</link>
+<authors>M Pertea, X Lin, SL Salzberg</authors>
+<source>Nucleic acids research 29 (5), 1185-1190</source>
+<citations>269</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Prediction of operons in microbial genomes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=40&amp;citation_for_view=sUVeH-4AAAAJ:ZeXyd9-uunAC</link>
+<authors>MD Ermolaeva, O White, SL Salzberg</authors>
+<source>Nucleic acids research 29 (5), 1216-1221</source>
+<citations>259</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Genome sequence of Chlamydophila caviae (Chlamydia psittaci GPIC): examining the role of niche‐specific genes in the evolution of the Chlamydiaceae</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=40&amp;citation_for_view=sUVeH-4AAAAJ:hC7cP41nSMkC</link>
+<authors>TD Read, GSA Myers, RC Brunham, WC Nelson, IT Paulsen, J Heidelberg, E ...</authors>
+<source>Nucleic Acids Research 31 (8), 2134-2147</source>
+<citations>249</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Microbial genes in the human genome: lateral transfer or gene loss?</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=40&amp;citation_for_view=sUVeH-4AAAAJ:R3hNpaxXUhUC</link>
+<authors>SL Salzberg, O White, J Peterson, JA Eisen</authors>
+<source>Science 292 (5523), 1903-1906</source>
+<citations>225</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Differential gene and transcript expression analysis of RNA-seq experiments with TopHat and Cufflinks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=40&amp;citation_for_view=sUVeH-4AAAAJ:GtLg2Ama23sC</link>
+<authors>C Trapnell, A Roberts, L Goff, G Pertea, D Kim, DR Kelley, H Pimentel, SL ...</authors>
+<source>Nature protocols 7 (3), 562-578</source>
+<citations>221</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>In-depth view of structure, activity, and evolution of rice chromosome 10</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=40&amp;citation_for_view=sUVeH-4AAAAJ:hFOr9nPyWt4C</link>
+<authors>Y Yu, T Rambo, J Currie, C Saski, HR Kim, K Collura, S Thompson, J Simmons ...</authors>
+<source>Science 300, 1566-1569</source>
+<citations>219</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Prediction of transcription terminators in bacterial genomes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=60&amp;citation_for_view=sUVeH-4AAAAJ:RHpTSmoSYBkC</link>
+<authors>MD Ermolaeva, HG Khalak, O White, HO Smith, SL Salzberg</authors>
+<source>Journal of Molecular Biology 301 (1), 27-33</source>
+<citations>218</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>A whole-genome assembly of the domestic cow, Bos taurus</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=60&amp;citation_for_view=sUVeH-4AAAAJ:HoB7MX3m0LUC</link>
+<authors>AV Zimin, AL Delcher, L Florea, DR Kelley, MC Schatz, D Puiu, F Hanrahan, G ...</authors>
+<source>Genome Biol 10 (4), R42</source>
+<citations>214</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>The genome of woodland strawberry (Fragaria vesca)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=60&amp;citation_for_view=sUVeH-4AAAAJ:sSrBHYA8nusC</link>
+<authors>V Shulaev, DJ Sargent, RN Crowhurst, TC Mockler, O Folkerts, AL Delcher, P ...</authors>
+<source>Nature genetics 43 (2), 109-116</source>
+<citations>213</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Evidence for symmetric chromosomal inversions around the replication origin in bacteria</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=60&amp;citation_for_view=sUVeH-4AAAAJ:e5wmG9Sq2KIC</link>
+<authors>JA Eisen, JF Heidelberg, O White, SL Salzberg</authors>
+<source>Genome Biol 1 (6), 1-0011.9</source>
+<citations>213</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Understanding the adaptation of Halobacterium species NRC-1 to its extreme environment through computational analysis of its genome sequence</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=60&amp;citation_for_view=sUVeH-4AAAAJ:iH-uZ7U-co4C</link>
+<authors>SP Kennedy, WV Ng, SL Salzberg, L Hood, S DasSarma</authors>
+<source>Genome Research 11 (10), 1641-1650</source>
+<citations>208</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Finding genes in DNA with a hidden Markov model</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=60&amp;citation_for_view=sUVeH-4AAAAJ:_Qo2XoVZTnwC</link>
+<authors>J Henderson, S Salzberg, KH Fasman</authors>
+<source>Journal of Computational Biology 4 (2), 127-141</source>
+<citations>207</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Genome sequence of Theileria parva, a bovine pathogen that transforms lymphocytes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=60&amp;citation_for_view=sUVeH-4AAAAJ:bEWYMUwI8FkC</link>
+<authors>MJ Gardner, R Bishop, T Shah, EP de Villiers, JM Carlton, N Hall, Q Ren, IT ...</authors>
+<source>Science 309 (5731), 134-137</source>
+<citations>202</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Computational identification of developmental enhancers: conservation and function of transcription factor binding-site clusters in Drosophila melanogaster and Drosophila pseudoobscura</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=60&amp;citation_for_view=sUVeH-4AAAAJ:TFP_iSt0sucC</link>
+<authors>BP Berman, BD Pfeiffer, TR Laverty, SL Salzberg, GM Rubin, MB Eisen, SE Celniker</authors>
+<source>Genome biology 5 (9), R61</source>
+<citations>195</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Genomic insights into methanotrophy: the complete genome sequence of Methylococcus capsulatus (Bath)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=60&amp;citation_for_view=sUVeH-4AAAAJ:maZDTaKrznsC</link>
+<authors>N Ward, Ø Larsen, J Sakwa, L Bruseth, H Khouri, AS Durkin, G Dimitrov, L ...</authors>
+<source>PLoS biology 2 (10), e303</source>
+<citations>194</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Interpolated Markov models for eukaryotic gene finding</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=60&amp;citation_for_view=sUVeH-4AAAAJ:4JMBOYKVnBMC</link>
+<authors>SL Salzberg, M Pertea, AL Delcher, MJ Gardner, H Tettelin</authors>
+<source>Genomics 59 (1), 24-31</source>
+<citations>194</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Rapid, accurate, computational discovery of Rho-independent transcription terminators illuminates their relationship to DNA uptake</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=60&amp;citation_for_view=sUVeH-4AAAAJ:NaGl4SEjCO4C</link>
+<authors>CL Kingsford, K Ayanbule, SL Salzberg</authors>
+<source>Genome biology 8 (2), R22</source>
+<citations>185</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Induction of oblique decision trees</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=60&amp;citation_for_view=sUVeH-4AAAAJ:pqnbT2bcN3wC</link>
+<authors>D Heath, S Kasif, S Salzberg</authors>
+<source>IJCAI, 1002-1007</source>
+<citations>177</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Searching for SNPs with cloud computing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=60&amp;citation_for_view=sUVeH-4AAAAJ:xtRiw3GOFMkC</link>
+<authors>B Langmead, MC Schatz, J Lin, M Pop, SL Salzberg</authors>
+<source>Genome Biol 10 (11), R134</source>
+<citations>175</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>TigrScan and GlimmerHMM: two open source ab initio eukaryotic gene-finders</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=60&amp;citation_for_view=sUVeH-4AAAAJ:YFjsv_pBGBYC</link>
+<authors>WH Majoros, M Pertea, SL Salzberg</authors>
+<source>Bioinformatics 20 (16), 2878-2879</source>
+<citations>174</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Minimus: a fast, lightweight genome assembler</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=60&amp;citation_for_view=sUVeH-4AAAAJ:nb7KW1ujOQ8C</link>
+<authors>D Sommer, A Delcher, S Salzberg, M Pop</authors>
+<source>BMC bioinformatics 8 (1), 64</source>
+<citations>171</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Full-length messenger RNA sequences greatly improve genome</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=60&amp;citation_for_view=sUVeH-4AAAAJ:isC4tDSrTZIC</link>
+<authors>BJ Haas, N Volfovsky, CD Town, M Troukhan, N Alexandrov, KA Feldmann, RB ...</authors>
+<source>Genome Biology 3 (6), 1-0029.12</source>
+<citations>169</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Sequence and analysis of chromosome 1 of the plant Arabidopsis thaliana</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=60&amp;citation_for_view=sUVeH-4AAAAJ:blknAaTinKkC</link>
+<authors>A Theologis, JR Ecker, CJ Palm, NA Federspiel, S Kaul, O White, J Alonso, H ...</authors>
+<source>Nature 408 (6814), 816-820</source>
+<citations>168</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Skewed oligomers and origins of replication</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=60&amp;citation_for_view=sUVeH-4AAAAJ:k_IJM867U9cC</link>
+<authors>SL Salzberg, AJ Salzberg, AR Kerlavage, JF Tomb</authors>
+<source>Gene 217 (1), 57-67</source>
+<citations>166</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Phymm and PhymmBL: metagenomic phylogenetic classification with interpolated Markov models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=60&amp;citation_for_view=sUVeH-4AAAAJ:EUQCXRtRnyEC</link>
+<authors>A Brady, SL Salzberg</authors>
+<source>Nature methods 6 (9), 673-676</source>
+<citations>154</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>OC1: A randomized algorithm for building oblique decision trees</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=60&amp;citation_for_view=sUVeH-4AAAAJ:JV2RwH3_ST0C</link>
+<authors>SK Murthy, S Kasif, S Salzberg, R Beigel</authors>
+<source>Proceedings of AAAI 93, 322-327</source>
+<citations>154</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Sequence of Plasmodium falciparum chromosomes 2, 10, 11 and 14</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=80&amp;citation_for_view=sUVeH-4AAAAJ:hMod-77fHWUC</link>
+<authors>MJ Gardner, SJ Shallom, JM Carlton, SL Salzberg, V Nene, A Shoaibi, A Ciecko ...</authors>
+<source>Nature 419 (6906), 531-534</source>
+<citations>153</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Assembly of large genomes using second-generation sequencing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=80&amp;citation_for_view=sUVeH-4AAAAJ:p2g8aNsByqUC</link>
+<authors>MC Schatz, AL Delcher, SL Salzberg</authors>
+<source>Genome research 20 (9), 1165-1173</source>
+<citations>151</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>An optimized protocol for analysis of EST sequences</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=80&amp;citation_for_view=sUVeH-4AAAAJ:M3NEmzRMIkIC</link>
+<authors>F Liang, I Holt, G Pertea, S Karamycheva, SL Salzberg, J Quackenbush</authors>
+<source>Nucleic acids research 28 (18), 3657-3665</source>
+<citations>151</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>A probabilistic method for identifying start codons in bacterial genomes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=80&amp;citation_for_view=sUVeH-4AAAAJ:ns9cj8rnVeAC</link>
+<authors>BE Suzek, MD Ermolaeva, M Schreiber, SL Salzberg</authors>
+<source>Bioinformatics 17 (12), 1123-1130</source>
+<citations>149</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Genome analysis linking recent European and African influenza (H5N1) viruses</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=80&amp;citation_for_view=sUVeH-4AAAAJ:GnPB-g6toBAC</link>
+<authors>SL Salzberg, C Kingsford, G Cattoli, DJ Spiro, DA Janies, MM Aly, IH Brown ...</authors>
+<source>Emerging infectious diseases 13 (5), 713</source>
+<citations>145</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>A method for identifying splice sites and translational start sites in eukaryotic mRNA</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=80&amp;citation_for_view=sUVeH-4AAAAJ:NMxIlDl6LWMC</link>
+<authors>SL Salzberg</authors>
+<source>Computer applications in the biosciences: CABIOS 13 (4), 365-376</source>
+<citations>145</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>How to map billions of short reads onto genomes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=80&amp;citation_for_view=sUVeH-4AAAAJ:u_35RYKgDlwC</link>
+<authors>C Trapnell, SL Salzberg</authors>
+<source>Nature biotechnology 27 (5), 455</source>
+<citations>143</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Comparative genome assembly</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=80&amp;citation_for_view=sUVeH-4AAAAJ:lSLTfruPkqcC</link>
+<authors>M Pop, A Phillippy, AL Delcher, SL Salzberg</authors>
+<source>Briefings in bioinformatics 5 (3), 237-248</source>
+<citations>143</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Multi-platform next-generation sequencing of the domestic turkey (Meleagris gallopavo): genome assembly and analysis</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=80&amp;citation_for_view=sUVeH-4AAAAJ:P5F9QuxV20EC</link>
+<authors>RA Dalloul, JA Long, AV Zimin, L Aslam, K Beal, P Bouffard, DW Burt, O ...</authors>
+<source>PLoS biology 8 (9), e1000475</source>
+<citations>136</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Microbial genome sequencing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=80&amp;citation_for_view=sUVeH-4AAAAJ:BqipwSGYUEgC</link>
+<authors>CM Fraser, JA Eisen, SL Salzberg</authors>
+<source>Nature 406 (6797), 799-803</source>
+<citations>134</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>On growing better decision trees from data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=80&amp;citation_for_view=sUVeH-4AAAAJ:O3NaXMp0MMsC</link>
+<authors>KVS Murthy, SL Salzberg</authors>
+<source>Johns Hopkins University</source>
+<citations>132</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>DAGchainer: a tool for mining segmental genome duplications and synteny</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=80&amp;citation_for_view=sUVeH-4AAAAJ:RYcK_YlVTxYC</link>
+<authors>BJ Haas, AL Delcher, JR Wortman, SL Salzberg</authors>
+<source>Bioinformatics 20 (18), 3643-3646</source>
+<citations>131</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>A clustering method for repeat analysis in DNA sequences</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=80&amp;citation_for_view=sUVeH-4AAAAJ:RGFaLdJalmkC</link>
+<authors>N Volfovsky, BJ Haas, SL Salzberg</authors>
+<source>Genome Biol 2 (8), 0027.1-0027.11</source>
+<citations>131</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Genome sequence and rapid evolution of the rice pathogen Xanthomonas oryzae pv. oryzae PXO99A</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=80&amp;citation_for_view=sUVeH-4AAAAJ:a0OBvERweLwC</link>
+<authors>SL Salzberg, DD Sommer, MC Schatz, AM Phillippy, PD Rabinowicz, S Tsuge, A ...</authors>
+<source>BMC genomics 9 (1), 204</source>
+<citations>130</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Hierarchical scaffolding with Bambus</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=80&amp;citation_for_view=sUVeH-4AAAAJ:2P1L_qKh6hAC</link>
+<authors>M Pop, DS Kosack, SL Salzberg</authors>
+<source>Genome research 14 (1), 149-159</source>
+<citations>126</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Optimized multiplex PCR: efficiently closing a whole-genome shotgun sequencing project</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=80&amp;citation_for_view=sUVeH-4AAAAJ:70eg2SAEIzsC</link>
+<authors>H Tettelin, D Radune, S Kasif, H Khouri, SL Salzberg</authors>
+<source>Genomics 62 (3), 500-507</source>
+<citations>118</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Computational gene prediction using multiple sources of evidence</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=80&amp;citation_for_view=sUVeH-4AAAAJ:35N4QoGY0k4C</link>
+<authors>JE Allen, M Pertea, SL Salzberg</authors>
+<source>Genome Research 14 (1), 142-148</source>
+<citations>117</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>A decision tree system for finding genes in DNA</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=80&amp;citation_for_view=sUVeH-4AAAAJ:J_g5lzvAfSwC</link>
+<authors>S Salzberg, AL Delcher, KH Fasman, J Henderson</authors>
+<source>Journal of Computational Biology 5 (4), 667-680</source>
+<citations>117</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Quake: quality-aware detection and correction of sequencing errors</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=80&amp;citation_for_view=sUVeH-4AAAAJ:q3oQSFYPqjQC</link>
+<authors>DR Kelley, MC Schatz, SL Salzberg</authors>
+<source>Genome Biol 11 (11), R116</source>
+<citations>115</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Sequence and analysis of chromosome 3 of the plant Arabidopsis thaliana</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=80&amp;citation_for_view=sUVeH-4AAAAJ:M05iB0D1s5AC</link>
+<authors>H Erfle, R Ventzki, H Voss, S Rechmann, V Benes, J Stegemann, W Ansorge, L ...</authors>
+<source>Nature 408 (6814), 820-2</source>
+<citations>114</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Computational methods in molecular biology</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=100&amp;citation_for_view=sUVeH-4AAAAJ:vV6vV6tmYwMC</link>
+<authors></authors>
+<source>Access Online via Elsevier</source>
+<citations>108</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>DNA uptake signal sequences in naturally transformable bacteria</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=100&amp;citation_for_view=sUVeH-4AAAAJ:ldfaerwXgEUC</link>
+<authors>HO Smith, ML Gwinn, SL Salzberg</authors>
+<source>Research in microbiology 150 (9), 603-616</source>
+<citations>104</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>JIGSAW: integration of multiple sources of evidence for gene prediction</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=100&amp;citation_for_view=sUVeH-4AAAAJ:fPk4N6BV_jEC</link>
+<authors>JE Allen, SL Salzberg</authors>
+<source>Bioinformatics 21 (18), 3596-3603</source>
+<citations>103</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Genome re-annotation: a wiki solution</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=100&amp;citation_for_view=sUVeH-4AAAAJ:3s1wT3WcHBgC</link>
+<authors>SL Salzberg</authors>
+<source>Genome Biol 8 (1), 102</source>
+<citations>101</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Repetitive DNA and next-generation sequencing: computational challenges and solutions</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=100&amp;citation_for_view=sUVeH-4AAAAJ:rmuvC79q63oC</link>
+<authors>TJ Treangen, SL Salzberg</authors>
+<source>Nature Reviews Genetics 13 (1), 36-46</source>
+<citations>99</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>On comparing classifiers: A critique of current research and methods</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=100&amp;citation_for_view=sUVeH-4AAAAJ:SeFeTyx0c_EC</link>
+<authors>SL Salzberg</authors>
+<source>Data mining and knowledge discovery 1 (1)</source>
+<citations>95</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Butterfly genome reveals promiscuous exchange of mimicry adaptations among species</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=100&amp;citation_for_view=sUVeH-4AAAAJ:HIFyuExEbWQC</link>
+<authors>KK Dasmahapatra, JR Walters, AD Briscoe, JW Davey, A Whibley, NJ Nadeau, AV ...</authors>
+<source>Nature 487 (7405), 94</source>
+<citations>93</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Genome sequence assembly: Algorithms and issues</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=100&amp;citation_for_view=sUVeH-4AAAAJ:rO6llkc54NcC</link>
+<authors>M Pop, SL Salzberg, M Shumway</authors>
+<source>Computer 35 (7), 47-54</source>
+<citations>93</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Cloud computing and the DNA data race</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=100&amp;citation_for_view=sUVeH-4AAAAJ:wbdj-CoPYUoC</link>
+<authors>MC Schatz, B Langmead, SL Salzberg</authors>
+<source>Nature biotechnology 28 (7), 691</source>
+<citations>91</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Lookahead and pathology in decision tree induction</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=100&amp;citation_for_view=sUVeH-4AAAAJ:ZHo1McVdvXMC</link>
+<authors>SK Murthy, S Salzberg</authors>
+<source>IJCAI, 1025-1033</source>
+<citations>83</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>GAGE: A critical evaluation of genome assemblies and assembly algorithms</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=100&amp;citation_for_view=sUVeH-4AAAAJ:kh2fBNsKQNwC</link>
+<authors>SL Salzberg, AM Phillippy, A Zimin, D Puiu, T Magoc, S Koren, TJ Treangen ...</authors>
+<source>Genome Research 22 (3), 557-567</source>
+<citations>82</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Serendipitous discovery of Wolbachia genomes in multiple Drosophila species</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=100&amp;citation_for_view=sUVeH-4AAAAJ:yD5IFk8b50cC</link>
+<authors>SL Salzberg, JC Hotopp, AL Delcher, M Pop, DR Smith, MB Eisen, WC Nelson</authors>
+<source>Genome Biol 6 (3), R23</source>
+<citations>79</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Predicting protein secondary structure with a nearest-neighbor algorithm</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=100&amp;citation_for_view=sUVeH-4AAAAJ:dfsIfKJdRG4C</link>
+<authors>S Salzberg, S Cost</authors>
+<source>Journal of molecular biology 227 (2), 371-374</source>
+<citations>78</citations>
+<pub_year>1992</pub_year>
+</record>
+<record>
+<title>The age of the Arabidopsis thaliana genome duplication</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=100&amp;citation_for_view=sUVeH-4AAAAJ:4OULZ7Gr8RgC</link>
+<authors>MD Ermolaeva, M Wu, JA Eisen, SL Salzberg</authors>
+<source>Plant molecular biology 51 (6), 859-866</source>
+<citations>77</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Learning with nested generalized exemplars</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=100&amp;citation_for_view=sUVeH-4AAAAJ:zA6iFVUQeVQC</link>
+<authors>SL Salzberg</authors>
+<source>Harvard University</source>
+<citations>75</citations>
+<pub_year>1990</pub_year>
+</record>
+<record>
+<title>The value of complete microbial genome sequencing (you get what you pay for)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=100&amp;citation_for_view=sUVeH-4AAAAJ:CHSYGLWDkRkC</link>
+<authors>CM Fraser, JA Eisen, KE Nelson, IT Paulsen, SL Salzberg</authors>
+<source>Journal of bacteriology 184 (23), 6403-6405</source>
+<citations>74</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Automated eukaryotic gene structure annotation using EVidenceModeler and the Program to Assemble Spliced Alignments</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=100&amp;citation_for_view=sUVeH-4AAAAJ:l7t_Zn2s7bgC</link>
+<authors>BJ Haas, SL Salzberg, W Zhu, M Pertea, JE Allen, J Orvis, O White, CR Buell ...</authors>
+<source>Genome biology 9 (1), R7</source>
+<citations>69</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Hawkeye: an interactive visual analytics tool for genome assemblies</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=100&amp;citation_for_view=sUVeH-4AAAAJ:SP6oXDckpogC</link>
+<authors>MC Schatz, AM Phillippy, B Shneiderman, SL Salzberg</authors>
+<source>Genome biology 8 (3), R34</source>
+<citations>69</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Sequence and analysis of the Arabidopsis genome</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=100&amp;citation_for_view=sUVeH-4AAAAJ:cFHS6HbyZ2cC</link>
+<authors>M Bevan, K Mayer, O White, JA Eisen, D Preuss, T Bureau, SL Salzberg, HW Mewes</authors>
+<source>Current opinion in plant biology 4 (2), 105-110</source>
+<citations>69</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Decision trees for automated identification of cosmic-ray hits in Hubble Space Telescope images</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=100&amp;citation_for_view=sUVeH-4AAAAJ:pyW8ca7W8N0C</link>
+<authors>S Salzberg, R Chandar, H Ford, SK Murthy, R White</authors>
+<source>Publications of the Astronomical Society of the Pacific, 279-288</source>
+<citations>68</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Gene synteny and evolution of genome architecture in trypanosomatids</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=120&amp;citation_for_view=sUVeH-4AAAAJ:bFI3QPDXJZMC</link>
+<authors>E Ghedin, F Bringaud, J Peterson, P Myler, M Berriman, A Ivens, B Andersson ...</authors>
+<source>Molecular and biochemical parasitology 134 (2), 183-191</source>
+<citations>67</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Locating protein coding regions in human DNA using a decision tree algorithm</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=120&amp;citation_for_view=sUVeH-4AAAAJ:D03iK_w7-QYC</link>
+<authors>S Salzberg</authors>
+<source>Journal of Computational Biology 2 (3), 473-485</source>
+<citations>64</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>The sequence of rice chromosomes 11 and 12, rich in disease resistance genes and recent gene duplications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=120&amp;citation_for_view=sUVeH-4AAAAJ:dshw04ExmUIC</link>
+<authors>N Choisne, N Demange, G Orjeda, S Samain, A D'Hont, L Cattolico, E Pelletier ...</authors>
+<source>BMC biology 3</source>
+<citations>63</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>BIOINFORMATICS LETTER TO THE EDITOR</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=120&amp;citation_for_view=sUVeH-4AAAAJ:uWQEDVKXjbEC</link>
+<authors>SL Salzberg, JA Yorke</authors>
+<source>Bioinformatics 21 (24), 4320-4321</source>
+<citations>61</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Rice bioinformatics. Analysis of rice sequence data and leveraging the data to other plant species</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=120&amp;citation_for_view=sUVeH-4AAAAJ:KxtntwgDAa4C</link>
+<authors>Q Yuan, J Quackenbush, R Sultana, M Pertea, SL Salzberg, CR Buell</authors>
+<source>Plant Physiology 125 (3), 1166-1174</source>
+<citations>60</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>GlimmerM, Exonomy and Unveil: three ab initio eukaryotic genefinders</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=120&amp;citation_for_view=sUVeH-4AAAAJ:b0M2c_1WBrUC</link>
+<authors>WH Majoros, M Pertea, C Antonescu, SL Salzberg</authors>
+<source>Nucleic acids research 31 (13), 3601-3604</source>
+<citations>59</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Computational gene finding in plants</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=120&amp;citation_for_view=sUVeH-4AAAAJ:abG-DnoFyZgC</link>
+<authors>M Pertea, SL Salzberg</authors>
+<source>Plant Molecular Biology 48 (1-2), 39-48</source>
+<citations>59</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Efficient algorithms for finding multi-way splits for decision trees</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=120&amp;citation_for_view=sUVeH-4AAAAJ:_xSYboBqXhAC</link>
+<authors>T Fulton, S Kasif, S Salzberg</authors>
+<source>MACHINE LEARNING-INTERNATIONAL WORKSHOP THEN CONFERENCE-, 244-251</source>
+<citations>59</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>The sequence and analysis of Trypanosoma brucei chromosome II</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=120&amp;citation_for_view=sUVeH-4AAAAJ:1sJd4Hv_s6UC</link>
+<authors>NMA El‐Sayed, E Ghedin, J Song, A MacLeod, F Bringaud, C Larkin, D Wanless ...</authors>
+<source>Nucleic acids research 31 (16), 4856-4863</source>
+<citations>57</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Finding a Majority Among N Votes.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=120&amp;citation_for_view=sUVeH-4AAAAJ:HtEfBTGE9r8C</link>
+<authors>MJ Fischer, SL Salzberg</authors>
+<source>YALE UNIV NEW HAVEN CT DEPT OF COMPUTER SCIENCE</source>
+<citations>56</citations>
+<pub_year>1982</pub_year>
+</record>
+<record>
+<title>TopHat-Fusion: an algorithm for discovery of novel fusion transcripts</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=120&amp;citation_for_view=sUVeH-4AAAAJ:ILKRHgRFtOwC</link>
+<authors>D Kim, SL Salzberg</authors>
+<source>Genome Biol 12 (8), R72</source>
+<citations>55</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Comprehensive DNA signature discovery and validation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=120&amp;citation_for_view=sUVeH-4AAAAJ:OU6Ihb5iCvQC</link>
+<authors>AM Phillippy, JA Mason, K Ayanbule, DD Sommer, E Taviani, A Huq, RR Colwell ...</authors>
+<source>PLoS computational biology 3 (5), e98</source>
+<citations>54</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>C4. 5: Programs for Machine Learning by J. Ross Quinlan. Morgan Kaufmann Publishers, Inc., 1993</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=120&amp;citation_for_view=sUVeH-4AAAAJ:LPZeul_q3PIC</link>
+<authors>SL Salzberg</authors>
+<source>Machine Learning 16 (3), 235-240</source>
+<citations>53</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Sequence, annotation, and analysis of synteny between rice chromosome 3 and diverged grass species.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=120&amp;citation_for_view=sUVeH-4AAAAJ:NhqRSupF_l8C</link>
+<authors>CR Buell, Q Yuan, S Ouyang, J Liu, W Zhu, A Wang, R Maiti, B Haas, J Wortman ...</authors>
+<source>Genome research 15 (9), 1284-1291</source>
+<citations>51</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>2009 Swine-origin influenza A (H1N1) resembles previous influenza isolates</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=120&amp;citation_for_view=sUVeH-4AAAAJ:738O_yMBCRsC</link>
+<authors>C Kingsford, N Nagarajan, SL Salzberg</authors>
+<source>Plos one 4 (7), e6402</source>
+<citations>47</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Computational discovery of internal micro-exons</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=120&amp;citation_for_view=sUVeH-4AAAAJ:u9iWguZQMMsC</link>
+<authors>N Volfovsky, BJ Haas, SL Salzberg</authors>
+<source>Genome Research 13 (6a), 1216-1221</source>
+<citations>47</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Towards a Better Understanding of Memory-based Reasoning Systems.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=120&amp;citation_for_view=sUVeH-4AAAAJ:UxriW0iASnsC</link>
+<authors>J Rachlin, S Kasif, S Salzberg, DW Aha</authors>
+<source>ICML, 242-250</source>
+<citations>46</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Gene-boosted assembly of a novel bacterial genome from very short reads</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=120&amp;citation_for_view=sUVeH-4AAAAJ:08ZZubdj9fEC</link>
+<authors>SL Salzberg, DD Sommer, D Puiu, VT Lee</authors>
+<source>PLoS computational biology 4 (9), e1000186</source>
+<citations>45</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>What are decision trees?</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=120&amp;citation_for_view=sUVeH-4AAAAJ:kRWSkSYxWN8C</link>
+<authors>C Kingsford, SL Salzberg</authors>
+<source>Nature biotechnology 26 (9), 1011-1013</source>
+<citations>45</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>JIGSAW, GeneZilla, and GlimmerHMM: puzzling out the features of human genes in the ENCODE regions</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=120&amp;citation_for_view=sUVeH-4AAAAJ:WbkHhVStYXYC</link>
+<authors>JE Allen, WH Majoros, M Pertea, SL Salzberg</authors>
+<source>Genome Biol 7 (Suppl 1), 1-13</source>
+<citations>45</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Physiogenomic resources for rat models of heart, lung and blood disorders</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=140&amp;citation_for_view=sUVeH-4AAAAJ:Tiz5es2fbqcC</link>
+<authors>RL Malek, H Wang, AE Kwitek, AS Greene, N Bhagabati, G Borchardt, L Cahill ...</authors>
+<source>Nature genetics 38 (2), 234-239</source>
+<citations>45</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Bacillus anthracis comparative genome analysis in support of the Amerithrax investigation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=140&amp;citation_for_view=sUVeH-4AAAAJ:W5xh706n7nkC</link>
+<authors>DA Rasko, PL Worsham, TG Abshire, ST Stanley, JD Bannan, MR Wilson, RJ ...</authors>
+<source>Proceedings of the National Academy of Sciences 108 (12), 5027-5032</source>
+<citations>43</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Between a chicken and a grape: estimating the number of human genes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=140&amp;citation_for_view=sUVeH-4AAAAJ:HE397vMXCloC</link>
+<authors>M Pertea, SL Salzberg</authors>
+<source>Genome Biol 11 (5), 206</source>
+<citations>42</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Mugsy: fast multiple alignment of closely related whole genomes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=140&amp;citation_for_view=sUVeH-4AAAAJ:JQOojiI6XY0C</link>
+<authors>SV Angiuoli, SL Salzberg</authors>
+<source>Bioinformatics 27 (3), 334-342</source>
+<citations>41</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Heuristics for Inductive Learning.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=140&amp;citation_for_view=sUVeH-4AAAAJ:LgRImbQfgY4C</link>
+<authors>S Salzberg</authors>
+<source>IJCAI, 603-609</source>
+<citations>41</citations>
+<pub_year>1985</pub_year>
+</record>
+<record>
+<title>OperonDB: a comprehensive database of predicted operons in microbial genomes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=140&amp;citation_for_view=sUVeH-4AAAAJ:8AbLer7MMksC</link>
+<authors>M Pertea, K Ayanbule, M Smedinghoff, SL Salzberg</authors>
+<source>Nucleic acids research 37 (suppl 1), D479-D482</source>
+<citations>38</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Insight into the genome of Aspergillus fumigatus: analysis of a 922kb region encompassing the nitrate assimilation gene cluster</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=140&amp;citation_for_view=sUVeH-4AAAAJ:K3LRdlH-MEoC</link>
+<authors>A Pain, J Woodward, MA Quail, MJ Anderson, R Clark, M Collins, N Fosker, A ...</authors>
+<source>Fungal Genetics and Biology 41 (4), 443-453</source>
+<citations>38</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>A computational survey of candidate exonic splicing enhancer motifs in the model plant Arabidopsis thaliana</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=140&amp;citation_for_view=sUVeH-4AAAAJ:geHnlv5EZngC</link>
+<authors>M Pertea, SM Mount, SL Salzberg</authors>
+<source>BMC bioinformatics 8 (1), 159</source>
+<citations>37</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Using MUMmer to identify similar regions in large sequence sets</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=140&amp;citation_for_view=sUVeH-4AAAAJ:D_sINldO8mEC</link>
+<authors>AL Delcher, SL Salzberg, AM Phillippy</authors>
+<source>Current Protocols in Bioinformatics, 10.3. 1-10.3. 18</source>
+<citations>37</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Acquisition and evolution of plant pathogenesisassociated gene clusters and candidate determinants of tissue-specificity in Xanthomonas</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=140&amp;citation_for_view=sUVeH-4AAAAJ:V3AGJWp-ZtQC</link>
+<authors>H Lu, P Patil, MA Van Sluys, FF White, RP Ryan, JM Dow, P Rabinowicz, SL ...</authors>
+<source>PLoS One 3 (11), e3828</source>
+<citations>36</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>The complete genome sequence of Bacillus anthracis Ames Ancestor</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=140&amp;citation_for_view=sUVeH-4AAAAJ:fQNAKQ3IYiAC</link>
+<authors>J Ravel, L Jiang, ST Stanley, MR Wilson, RS Decker, TD Read, P Worsham, PS ...</authors>
+<source>Journal of bacteriology 191 (1), 445-446</source>
+<citations>35</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Automated correction of genome sequence errors</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=140&amp;citation_for_view=sUVeH-4AAAAJ:B3FOqHPlNUQC</link>
+<authors>P Gajer, M Schatz, SL Salzberg</authors>
+<source>Nucleic acids research 32 (2), 562-569</source>
+<citations>35</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>A teaching strategy for memory-based control</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=140&amp;citation_for_view=sUVeH-4AAAAJ:4fKUyHm3Qg0C</link>
+<authors>JW Sheppard, SL Salzberg</authors>
+<source>Artificial Intelligence Review 11 (1-5), 343-370</source>
+<citations>35</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Efficient implementation of a generalized pair hidden Markov model for comparative gene finding</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=140&amp;citation_for_view=sUVeH-4AAAAJ:vRqMK49ujn8C</link>
+<authors>WH Majoros, M Pertea, SL Salzberg</authors>
+<source>Bioinformatics 21 (9), 1782-1788</source>
+<citations>34</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Distance metrics for instance-based learning</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=140&amp;citation_for_view=sUVeH-4AAAAJ:tOudhMTPpwUC</link>
+<authors>S Salzberg</authors>
+<source>Methodologies for Intelligent Systems, 399-408</source>
+<citations>34</citations>
+<pub_year>1991</pub_year>
+</record>
+<record>
+<title>Learning with a helpful teacher</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=140&amp;citation_for_view=sUVeH-4AAAAJ:XiSMed-E-HIC</link>
+<authors>S Salzberg, A Delcher, D Heath, S Kasif</authors>
+<source>Morgan Kaufmann</source>
+<citations>34</citations>
+<pub_year>1991</pub_year>
+</record>
+<record>
+<title>Managing information for concurrent engineering: challenges and barriers</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=140&amp;citation_for_view=sUVeH-4AAAAJ:jL-93Qbq4QoC</link>
+<authors>S Salzberg, M Watkins</authors>
+<source>Research in Engineering Design 2 (1), 35-52</source>
+<citations>33</citations>
+<pub_year>1990</pub_year>
+</record>
+<record>
+<title>Two new complete genome sequences offer insight into host and tissue specificity of plant pathogenic Xanthomonas spp.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=140&amp;citation_for_view=sUVeH-4AAAAJ:_Re3VWB3Y0AC</link>
+<authors>AJ Bogdanove, R Koebnik, H Lu, A Furutani, SV Angiuoli, PB Patil, MA Van ...</authors>
+<source>Journal of bacteriology 193 (19), 5450-5464</source>
+<citations>31</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Learning to catch: Applying nearest neighbor algorithms to dynamic control tasks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=140&amp;citation_for_view=sUVeH-4AAAAJ:tS2w5q8j5-wC</link>
+<authors>DW Aha, SL Salzberg</authors>
+<source>Selecting Models from Data, 321-328</source>
+<citations>30</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Methods for computational gene prediction</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=140&amp;citation_for_view=sUVeH-4AAAAJ:nZcligLrVowC</link>
+<authors>WH Majoros</authors>
+<source>Cambridge University Press</source>
+<citations>29</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>A probabilistic framework for memory-based reasoning</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=160&amp;citation_for_view=sUVeH-4AAAAJ:BrmTIyaxlBUC</link>
+<authors>S Kasif, S Salzberg, D Waltz, J Rachlin, DW Aha</authors>
+<source>Artificial Intelligence 104 (1), 287-311</source>
+<citations>28</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Committees of decision trees</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=160&amp;citation_for_view=sUVeH-4AAAAJ:5Ul4iDaHHb8C</link>
+<authors>D Heath, S Kasif, S Salzberg</authors>
+<source>Advances in Psychology 113, 305-317</source>
+<citations>28</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Best-case results for nearest-neighbor learning</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=160&amp;citation_for_view=sUVeH-4AAAAJ:VOx2b1Wkg3QC</link>
+<authors>S Salzberg, AL Delcher, D Heath, S Kasif</authors>
+<source>Pattern Analysis and Machine Intelligence, IEEE Transactions on 17 (6), 599-608</source>
+<citations>28</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Combining Genetic Algorithms with Memory Based Reasoning.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=160&amp;citation_for_view=sUVeH-4AAAAJ:eJXPG6dFmWUC</link>
+<authors>JW Sheppard, S Salzberg</authors>
+<source>ICGA, 452-459</source>
+<citations>27</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Genome sequence of the Wolbachia endosymbiont of Culex quinquefasciatus JHB</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=160&amp;citation_for_view=sUVeH-4AAAAJ:olpn-zPbct0C</link>
+<authors>SL Salzberg, D Puiu, DD Sommer, V Nene, NH Lee</authors>
+<source>Journal of bacteriology 191 (5), 1725-1725</source>
+<citations>26</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Clustering metagenomic sequences with interpolated Markov models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=160&amp;citation_for_view=sUVeH-4AAAAJ:VL0QpB8kHFEC</link>
+<authors>D Kelley, S Salzberg</authors>
+<source>BMC bioinformatics 11 (1), 544</source>
+<citations>25</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Probing the pan-genome of Listeria monocytogenes: new insights into intraspecific niche expansion and genomic diversification</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=160&amp;citation_for_view=sUVeH-4AAAAJ:uLbwQdceFCQC</link>
+<authors>X Deng, A Phillippy, Z Li, S Salzberg, W Zhang</authors>
+<source>BMC genomics 11 (1), 500</source>
+<citations>25</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Decision Tree Induction: How Effective Is the Greedy Heuristic?</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=160&amp;citation_for_view=sUVeH-4AAAAJ:5ugPr518TE4C</link>
+<authors>SK Murthy, S Salzberg</authors>
+<source>KDD, 222-227</source>
+<citations>25</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>FLASH: fast length adjustment of short reads to improve genome assemblies</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=160&amp;citation_for_view=sUVeH-4AAAAJ:ClCfbGk0d_YC</link>
+<authors>T Magoč, SL Salzberg</authors>
+<source>Bioinformatics 27 (21), 2957-2963</source>
+<citations>23</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Finding genes in Plasmodium falciparum</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=160&amp;citation_for_view=sUVeH-4AAAAJ:mvPsJ3kp5DgC</link>
+<authors>M Pertea, SL Salzberg, MJ Gardner</authors>
+<source>NATURE-LONDON-, 34-34</source>
+<citations>23</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Towards a better understanding of memory-based and bayesian classifiers</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=160&amp;citation_for_view=sUVeH-4AAAAJ:eflP2zaiRacC</link>
+<authors>J Rachlin, S Kasif, S Salzberg, DW Aha</authors>
+<source>Proceedings of the Eleventh International Machine Learning Conference, 242-250</source>
+<citations>23</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>COMBREX: a project to accelerate the functional annotation of prokaryotic genomes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=160&amp;citation_for_view=sUVeH-4AAAAJ:NJ774b8OgUMC</link>
+<authors>RJ Roberts, YC Chang, Z Hu, JN Rachlin, BP Anton, RM Pokrzywa, HP Choi, LL ...</authors>
+<source>Nucleic acids research 39 (suppl 1), D11-D14</source>
+<citations>22</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Genome sequence of the dioxin-mineralizing bacterium Sphingomonas wittichii RW1</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=160&amp;citation_for_view=sUVeH-4AAAAJ:tKAzc9rXhukC</link>
+<authors>TR Miller, AL Delcher, SL Salzberg, E Saunders, JC Detter, RU Halden</authors>
+<source>Journal of bacteriology 192 (22), 6101-6102</source>
+<citations>22</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Efficient decoding algorithms for generalized hidden Markov model gene finders</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=160&amp;citation_for_view=sUVeH-4AAAAJ:1qzjygNMrQYC</link>
+<authors>WH Majoros, M Pertea, AL Delcher, SL Salzberg</authors>
+<source>BMC bioinformatics 6 (1), 16</source>
+<citations>22</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>The genome Assembly Archive: a new public resource</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=160&amp;citation_for_view=sUVeH-4AAAAJ:J-pR_7NvFogC</link>
+<authors>SL Salzberg, D Church, M DiCuccio, E Yaschenko, J Ostell</authors>
+<source>PLoS biology 2 (9), e285</source>
+<citations>22</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Insignia: a DNA signature search web server for diagnostic assay development</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=160&amp;citation_for_view=sUVeH-4AAAAJ:ye4kPcJQO24C</link>
+<authors>AM Phillippy, K Ayanbule, NJ Edwards, SL Salzberg</authors>
+<source>Nucleic acids research 37 (suppl 2), W229-W234</source>
+<citations>20</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>The contents of the syringe</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=160&amp;citation_for_view=sUVeH-4AAAAJ:Mojj43d5GZwC</link>
+<authors>S Salzberg</authors>
+<source>Nature 454 (7201), 160-161</source>
+<citations>19</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Improving classification methods via feature selection</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=160&amp;citation_for_view=sUVeH-4AAAAJ:QYdC8u9Cj1oC</link>
+<authors>S Salzberg</authors>
+<source>John Hopkins TR</source>
+<citations>18</citations>
+<pub_year>1992</pub_year>
+</record>
+<record>
+<title>PhymmBL expanded: confidence scores, custom databases, parallelization and more</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=160&amp;citation_for_view=sUVeH-4AAAAJ:VLnqNzywnoUC</link>
+<authors>A Brady, S Salzberg</authors>
+<source>Nature methods 8 (5), 367-367</source>
+<citations>17</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Do-it-yourself genetic testing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=160&amp;citation_for_view=sUVeH-4AAAAJ:LjlpjdlvIbIC</link>
+<authors>SL Salzberg, M Pertea</authors>
+<source>Genome Biol 11 (10), 404</source>
+<citations>17</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>An empirical analysis of training protocols for probabilistic gene finders</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=180&amp;citation_for_view=sUVeH-4AAAAJ:bnK-pcrLprsC</link>
+<authors>WH Majoros, SL Salzberg</authors>
+<source>BMC bioinformatics 5 (1), 206</source>
+<citations>17</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Characterization of insertion sites in Rainbow papaya, the first commercialized transgenic fruit crop</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=180&amp;citation_for_view=sUVeH-4AAAAJ:N5tVd3kTz84C</link>
+<authors>JY Suzuki, S Tripathi, GA Fermín, FJ Jan, S Hou, JH Saw, CM Ackerman, Q Yu ...</authors>
+<source>Tropical Plant Biology 1 (3-4), 293-309</source>
+<citations>16</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Genome-wide analysis of repetitive elements in papaya</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=180&amp;citation_for_view=sUVeH-4AAAAJ:dTyEYWd-f8wC</link>
+<authors>N Nagarajan, R Navajas-Pérez, M Pop, M Alam, R Ming, AH Paterson, SL Salzberg</authors>
+<source>Tropical Plant Biology 1 (3-4), 191-201</source>
+<citations>16</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Correction: Serendipitous discovery of Wolbachia genomes in multiple Drosophila species</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=180&amp;citation_for_view=sUVeH-4AAAAJ:F1b5ZUV5XREC</link>
+<authors>SL Salzberg, JCD Hotopp, AL Delcher, M Pop, DR Smith, MB Eisen, WC Nelson</authors>
+<source>Genome biology 6 (7), 402</source>
+<citations>15</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Finding Genes in DNA Using Decision Trees and Dynamic Programming.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=180&amp;citation_for_view=sUVeH-4AAAAJ:XiVPGOgt02cC</link>
+<authors>S Salzberg, X Chen, J Henderson, KH Fasman</authors>
+<source>ISMB, 201-210</source>
+<citations>15</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Hawkeye and AMOS: visualizing and assessing the quality of genome assemblies</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=180&amp;citation_for_view=sUVeH-4AAAAJ:bz8QjSJIRt4C</link>
+<authors>MC Schatz, AM Phillippy, DD Sommer, AL Delcher, D Puiu, G Narzisi, SL ...</authors>
+<source>Briefings in bioinformatics 14 (2), 213-224</source>
+<citations>13</citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>A unified model explaining the offsets of overlapping and near-overlapping prokaryotic genes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=180&amp;citation_for_view=sUVeH-4AAAAJ:JoZmwDi-zQgC</link>
+<authors>C Kingsford, AL Delcher, SL Salzberg</authors>
+<source>Molecular biology and evolution 24 (9), 2091-2098</source>
+<citations>13</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>A phylogenetic generalized hidden Markov model for predicting alternatively spliced exons</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=180&amp;citation_for_view=sUVeH-4AAAAJ:t6usbXjVLHcC</link>
+<authors>JE Allen, SL Salzberg</authors>
+<source>Algorithms for Molecular Biology 1 (1), 1-13</source>
+<citations>13</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Lateral gene transfer or viral colonization?</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=180&amp;citation_for_view=sUVeH-4AAAAJ:r_AWSJRzSzQC</link>
+<authors>V DeFilippis, LP Villarreal, SL Salzberg, JA Eisen</authors>
+<source>Science 293 (5532), 1048-1048</source>
+<citations>13</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Gene prediction with Glimmer for metagenomic sequences augmented by classification and clustering</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=180&amp;citation_for_view=sUVeH-4AAAAJ:_axFR9aDTf0C</link>
+<authors>DR Kelley, B Liu, AL Delcher, M Pop, SL Salzberg</authors>
+<source>Nucleic acids research 40 (1), e9-e9</source>
+<citations>12</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Towards a framework for memory-based reasoning</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=180&amp;citation_for_view=sUVeH-4AAAAJ:WA5NYHcadZ8C</link>
+<authors>S Kasif, S Salzberg, D Waltz, J Rachlin, D Aha</authors>
+<source>Manuscript, in review</source>
+<citations>12</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Nested hyper-rectangles for exemplar-based learning</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=180&amp;citation_for_view=sUVeH-4AAAAJ:AXPGKjj_ei8C</link>
+<authors>S Salzberg</authors>
+<source>Analogical and Inductive Inference, 184-201</source>
+<citations>12</citations>
+<pub_year>1989</pub_year>
+</record>
+<record>
+<title>TopHat2: accurate alignment of transcriptomes in the presence of insertions, deletions and gene fusions</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=180&amp;citation_for_view=sUVeH-4AAAAJ:NyGDZy8z5eUC</link>
+<authors>D Kim, G Pertea, C Trapnell, H Pimentel, R Kelley, SL Salzberg</authors>
+<source>Genome biology 14 (4), R36</source>
+<citations>11</citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Efficient oligonucleotide probe selection for pan-genomic tiling arrays</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=180&amp;citation_for_view=sUVeH-4AAAAJ:eq2jaN3J8jMC</link>
+<authors>AM Phillippy, X Deng, W Zhang, SL Salzberg</authors>
+<source>BMC bioinformatics 10 (1), 293</source>
+<citations>11</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Detection and correction of false segmental duplications caused by genome mis-assembly</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=180&amp;citation_for_view=sUVeH-4AAAAJ:PR6Y55bgFSsC</link>
+<authors>DR Kelley, SL Salzberg</authors>
+<source>Genome biology 11 (3), R28</source>
+<citations>10</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Using GlimmerM to find genes in eukaryotic genomes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=180&amp;citation_for_view=sUVeH-4AAAAJ:a3BOlSfXSfwC</link>
+<authors>M Pertea, SL Salzberg</authors>
+<source>Current Protocols in Bioinformatics, 4.4. 1-4.4. 20</source>
+<citations>10</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Gene discovery in DNA sequences</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=180&amp;citation_for_view=sUVeH-4AAAAJ:_B80troHkn4C</link>
+<authors>SL Salzberg</authors>
+<source>Intelligent Systems and their Applications, IEEE 14 (6), 44-48</source>
+<citations>10</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Learning with nested generalized exemplars</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=180&amp;citation_for_view=sUVeH-4AAAAJ:_FM0Bhl9EiAC</link>
+<authors>SL Salzberg</authors>
+<source>Harvard University, Center for Research in Computing Technology, Aiken ...</source>
+<citations>10</citations>
+<pub_year>1989</pub_year>
+</record>
+<record>
+<title>Pinpointing good hypotheses with heuristics</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=180&amp;citation_for_view=sUVeH-4AAAAJ:2tRrZ1ZAMYUC</link>
+<authors>S Salzberg</authors>
+<source>Artificial intelligence and statistics, 133-158</source>
+<citations>10</citations>
+<pub_year>1986</pub_year>
+</record>
+<record>
+<title>Solution to problem 81-5</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=180&amp;citation_for_view=sUVeH-4AAAAJ:HeT0ZceujKMC</link>
+<authors>MJ Fischer, SL Salzberg</authors>
+<source>Journal of Algorithms 3 (4), 375-379</source>
+<citations>10</citations>
+<pub_year>1982</pub_year>
+</record>
+<record>
+<title>Decision trees and Markov chains for gene finding</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=200&amp;citation_for_view=sUVeH-4AAAAJ:Y5dfb0dijaUC</link>
+<authors>SL Salzberg</authors>
+<source>New Comprehensive Biochemistry 32, 187-203</source>
+<citations>9</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Improving pan-genome annotation using whole genome multiple alignment</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=200&amp;citation_for_view=sUVeH-4AAAAJ:S16KYo8Pm5AC</link>
+<authors>S Angiuoli, JD Hotopp, S Salzberg, H Tettelin</authors>
+<source>BMC bioinformatics 12 (1), 272</source>
+<citations>8</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Genomics: Yeast rises again</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=200&amp;citation_for_view=sUVeH-4AAAAJ:9vf0nzSNQJEC</link>
+<authors>SL Salzberg</authors>
+<source>Nature 423 (6937), 233-234</source>
+<citations>8</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Unrestricted free access works and must continue</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=200&amp;citation_for_view=sUVeH-4AAAAJ:WqliGbK-hY8C</link>
+<authors>S Salzberg, E Birney, S Eddy, O White</authors>
+<source>Nature 422 (6934), 801-801</source>
+<citations>8</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Testing simple polygons</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=200&amp;citation_for_view=sUVeH-4AAAAJ:PELIpwtuRlgC</link>
+<authors>EM Arkin, P Belleville, JSB Mitchell, D Mount, K Romanik, S Salzberg, D Souvaine</authors>
+<source>Computational Geometry 8 (2), 97-114</source>
+<citations>8</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Local Induction of Decision Trees: Towards Interactive Data Mining.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=200&amp;citation_for_view=sUVeH-4AAAAJ:SdhP9T11ey4C</link>
+<authors>T Fulton, S Kasif, S Salzberg, DL Waltz</authors>
+<source>KDD, 14-19</source>
+<citations>8</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Testing orthogonal shapes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=200&amp;citation_for_view=sUVeH-4AAAAJ:eMMeJKvmdy0C</link>
+<authors>K Romanik, S Salzberg</authors>
+<source>Computational Geometry 5 (1), 33-49</source>
+<citations>8</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Learning nested concept classes with limited storage</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=200&amp;citation_for_view=sUVeH-4AAAAJ:tkaPQYYpVKoC</link>
+<authors>D Heath, S Kasif, SR Kosaraju, S Salzberg, G Sullivan</authors>
+<source>Proceedings of the 12th international joint conference on Artificial ...</source>
+<citations>8</citations>
+<pub_year>1991</pub_year>
+</record>
+<record>
+<title>Generating Hypotheses to Explain Prediction Failures.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=200&amp;citation_for_view=sUVeH-4AAAAJ:ZuybSZzF8UAC</link>
+<authors>S Salzberg</authors>
+<source>AAAI, 352-355</source>
+<citations>8</citations>
+<pub_year>1983</pub_year>
+</record>
+<record>
+<title>Complete Columbian mammoth mitogenome suggests interbreeding with woolly mammoths</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=200&amp;citation_for_view=sUVeH-4AAAAJ:p__nRnzSRKYC</link>
+<authors>J Enk, A Devault, R Debruyne, CE King, T Treangen, D O'Rourke, SL Salzberg ...</authors>
+<source>Genome biology 12 (5), R51</source>
+<citations>7</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Transcript assembly and abundance estimation from RNA-Seq reveals thousands of new transcripts and switching among isoforms</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=200&amp;citation_for_view=sUVeH-4AAAAJ:U4n9YNQMCAIC</link>
+<authors>C Trapnell, BA Williams, G Pertea, A Mortazavi, G Kwan, MJ van Baren, SL ...</authors>
+<source>Nature biotechnology 28 (5), 511</source>
+<citations>7</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Analysis of Carica papaya telomeres and telomere-associated proteins: Insights into the evolution of telomere maintenance in Brassicales</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=200&amp;citation_for_view=sUVeH-4AAAAJ:UHK10RUVsp4C</link>
+<authors>EV Shakirov, SL Salzberg, M Alam, DE Shippen</authors>
+<source>Tropical plant biology 1 (3-4), 202-215</source>
+<citations>7</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Exemplar-based learning to predict protein folding</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=200&amp;citation_for_view=sUVeH-4AAAAJ:5awf1xo2G04C</link>
+<authors>S Cost, S Salzberg</authors>
+<source>Proceedings of the Annual Symposium on Computer Application in Medical Care, 114</source>
+<citations>7</citations>
+<pub_year>1990</pub_year>
+</record>
+<record>
+<title>Genome assembly has a major impact on gene content: a comparison of annotation in two Bos taurus assemblies</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=200&amp;citation_for_view=sUVeH-4AAAAJ:tYavs44e6CUC</link>
+<authors>L Florea, A Souvorov, TS Kalbfleisch, SL Salzberg</authors>
+<source>PloS one 6 (6), e21400</source>
+<citations>6</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Recent advances in RNA sequence analysis</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=200&amp;citation_for_view=sUVeH-4AAAAJ:2KloaMYe4IUC</link>
+<authors>SL Salzberg</authors>
+<source>F1000 biology reports 2</source>
+<citations>6</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Corrigendum: Genomic sequence of the pathogenic and allergenic filamentous fungus Aspergillus fumigatus</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=200&amp;citation_for_view=sUVeH-4AAAAJ:hkOj_22Ku90C</link>
+<authors>WC Nierman, A Pain, MJ Anderson, JR Wortman, HS Kim, J Arroyo, M Berriman, K ...</authors>
+<source>Nature 439 (7075), 502-502</source>
+<citations>6</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Finding repeats in genome sequences</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=200&amp;citation_for_view=sUVeH-4AAAAJ:tzM49s52ZIMC</link>
+<authors>BJ Haas, SL Salzberg</authors>
+<source>Bioinformatics-From Genomes to Therapies, 197-233</source>
+<citations>5</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Shared data are key to beating threat from flu</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=200&amp;citation_for_view=sUVeH-4AAAAJ:1yQoGdGgb4wC</link>
+<authors>S Salzberg, E Ghedin, D Spiro</authors>
+<source>Nature 440 (7084), 605-605</source>
+<citations>5</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>An introduction to biological sequence analysis</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=200&amp;citation_for_view=sUVeH-4AAAAJ:_Ybze24A_UAC</link>
+<authors>KH Fasman, SL Salzberg</authors>
+<source>New Comprehensive Biochemistry 32, 29-42</source>
+<citations>5</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Re-assembly of the genome of Francisella tularensis subsp. holarctica OSU18</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=200&amp;citation_for_view=sUVeH-4AAAAJ:kzcrU_BdoSEC</link>
+<authors>D Puiu, SL Salzberg</authors>
+<source>PloS one 3 (10), e3427</source>
+<citations>4</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>A method to improve the performance of translation start site detection and its application for gene finding</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=220&amp;citation_for_view=sUVeH-4AAAAJ:fEOibwPWpKIC</link>
+<authors>M Pertea, SL Salzberg</authors>
+<source>Algorithms in Bioinformatics, 210-219</source>
+<citations>4</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Contamination in the draft of the human genome masquerades as lateral gene transfer</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=220&amp;citation_for_view=sUVeH-4AAAAJ:Fu2w8maKXqMC</link>
+<authors>E Willerslev, T Mourier, AJ Hansen, B Christensen, I Barnes, SL Salzberg</authors>
+<source>Mitochondrial DNA 13 (2), 75-76</source>
+<citations>4</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>The perils of gene patents</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=220&amp;citation_for_view=sUVeH-4AAAAJ:mlAyqtXpCwEC</link>
+<authors>SL Salzberg</authors>
+<source>Clinical pharmacology and therapeutics 91 (6), 969</source>
+<citations>3</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Closure of the NCBI SRA and implications for the long-term future of genomics data storage.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=220&amp;citation_for_view=sUVeH-4AAAAJ:3htObqc8RwsC</link>
+<authors>D Lipman, P Flicek, S Salzberg, M Gerstein, R Knight</authors>
+<source>Genome biology 12 (3), 402</source>
+<citations>3</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Open access: the sooner the better.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=220&amp;citation_for_view=sUVeH-4AAAAJ:XD-gHx7UXLsC</link>
+<authors>B Alberts</authors>
+<source>Science (New York, NY) 325 (5938), 266</source>
+<citations>3</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Gemina: a web-based epidemiology and genomic metadata system designed to identify infectious agents</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=220&amp;citation_for_view=sUVeH-4AAAAJ:ZfRJV9d4-WMC</link>
+<authors>LM Schriml, A Gussman, K Phillippy, S Angiuoli, K Hari, A Goates, R Jain, T ...</authors>
+<source>Intelligence and Security Informatics: Biosurveillance, 228-229</source>
+<citations>3</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>It is time to end the patenting of software</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=220&amp;citation_for_view=sUVeH-4AAAAJ:9Nmd_mFXekcC</link>
+<authors>J Quackenbush, SL Salzberg</authors>
+<source>Bioinformatics 22 (12), 1416-1417</source>
+<citations>3</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Genomics of Theileria parva</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=220&amp;citation_for_view=sUVeH-4AAAAJ:tH6gc1N1XXoC</link>
+<authors>V Nene, R Bishop, J Quackenbush, M Pertea, SL Salzberg, E Taracha, S ...</authors>
+<source>Theileria, 85-92</source>
+<citations>3</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Bootstrapping memory-based learning with genetic algorithms</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=220&amp;citation_for_view=sUVeH-4AAAAJ:evX43VCCuoAC</link>
+<authors>JW Sheppard, SL Salzberg</authors>
+<source>Proceedings of the 1994 AAAI Workshop on Case-based Reasoning, Technical ...</source>
+<citations>3</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>PEBLS 2.0 User's Guide</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=220&amp;citation_for_view=sUVeH-4AAAAJ:35r97b3x0nAC</link>
+<authors>J Rachlin, S Salzberg</authors>
+<source>Machine Learning 10 (1), 57-78</source>
+<citations>3</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>GAGE-B: an evaluation of genome assemblers for bacterial organisms</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=220&amp;citation_for_view=sUVeH-4AAAAJ:PVgj2kMGcgYC</link>
+<authors>T Magoc, S Pabinger, S Canzar, X Liu, Q Su, D Puiu, LJ Tallon, SL Salzberg</authors>
+<source>Bioinformatics</source>
+<citations>2</citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Open access to tree genomes: the path to a better forest</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=220&amp;citation_for_view=sUVeH-4AAAAJ:43bX7VzcjpAC</link>
+<authors>DB Neale, CH Langley, SL Salzberg, JL Wegrzyn</authors>
+<source>Genome Biology 14 (6), 120</source>
+<citations>2</citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Genes and genomes, an imperfect world: comparison of gene annotations of two Bos taurus draft assemblies</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=220&amp;citation_for_view=sUVeH-4AAAAJ:lmc2jWPfTJgC</link>
+<authors>L Florea, A Souvorov, SL Salzberg</authors>
+<source>Genome Biology 11 (Suppl 1), P13</source>
+<citations>2</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Drosophila 12 Genomes Consor; Broad Inst Genome Sequencing; Broad, and A. Whole Genome. Evolution of genes and genomes on the Drosophila phylogeny</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=220&amp;citation_for_view=sUVeH-4AAAAJ:anf4URPfarAC</link>
+<authors>C Matthews, W McCusker, S McDonough, T Mehta, J Meldrim, L Meneus, O Mihai ...</authors>
+<source>Nature 450, 203-218</source>
+<citations>2</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Tools for gene finding and whole genome comparison</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=220&amp;citation_for_view=sUVeH-4AAAAJ:z_wVstp3MssC</link>
+<authors>SL Salzberg, AL Delcher</authors>
+<source>Microbial Genomes, 19-31</source>
+<citations>2</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Complete genome sequence of Caulobacter crescentus (vol 98, pg 4136, 2001)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=220&amp;citation_for_view=sUVeH-4AAAAJ:buQ7SEKw-1sC</link>
+<authors>WC Nierman, TV Feldblyum, MT Laub, IT Paulsen, KE Nelson, J Eisen, JF ...</authors>
+<source>Proceedings of the National Academy of Sciences of the United States of ...</source>
+<citations>2</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>KEYWORDS. SOURCE Treponema pallidum subsp. pallidum str. Nichols ORGANISM Treponema pallidum subsp. pallidum str. Nichols Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Treponema. REFERENCE 1 (bases 1 to 1138011)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=220&amp;citation_for_view=sUVeH-4AAAAJ:v1_lew4L6wgC</link>
+<authors>CM Fraser, SJ Norris, GM Weinstock, O White, GG Sutton, R Dodson, M Gwinn ...</authors>
+<source>Science 281 (5375), 375-388</source>
+<citations>2</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Induction of shallow decision trees</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=220&amp;citation_for_view=sUVeH-4AAAAJ:7T2F9Uy0os0C</link>
+<authors>D Dobkin, D Gunopoulous, T Fulton, S Kasif, S Salzberg</authors>
+<source>IEEE Trans. on Pattern Analysis and Machine Intelligence</source>
+<citations>2</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Memory-based learning of pursuit games</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=220&amp;citation_for_view=sUVeH-4AAAAJ:j8SEvjWlNXcC</link>
+<authors>JW Sheppard, SL Salzberg</authors>
+<source>Tech. Rep. JHU-93/94-02, Department of Computer Science, Johns Hopkins ...</source>
+<citations>2</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Learning to catch: Applying nearest neighbor algorithms to dynamic control tasks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=220&amp;citation_for_view=sUVeH-4AAAAJ:uJ-U7cs_P_0C</link>
+<authors>SL Salzberg, DW Aha</authors>
+<source>Department of Computer Science, Johns Hopkins University</source>
+<citations>2</citations>
+<pub_year>1992</pub_year>
+</record>
+<record>
+<title>The MaSuRCA genome assembler</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=240&amp;citation_for_view=sUVeH-4AAAAJ:j7_hQOaDUrUC</link>
+<authors>A Zimin, G Marçais, D Puiu, M Roberts, SL Salzberg, JA Yorke</authors>
+<source>Bioinformatics, btt476</source>
+<citations>1</citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>eDGe-pro: estimated Degree of Gene expression in prokaryotic Genomes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=240&amp;citation_for_view=sUVeH-4AAAAJ:6yz0xqPARnAC</link>
+<authors>T Magoc, D Wood, SL Salzberg</authors>
+<source>Evolutionary bioinformatics online 9, 127</source>
+<citations>1</citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>A preliminary comparison of the mouse and human genomes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=240&amp;citation_for_view=sUVeH-4AAAAJ:kuK5TVdYjLIC</link>
+<authors>RJ Mural, EW Myers, H Smith, GL Gabor Miklos, R Wides, A Halpern, PW Li, G ...</authors>
+<source>International Congress Series 1246, 169-181</source>
+<citations>1</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>A tutorial introduction to computation for biologists</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=240&amp;citation_for_view=sUVeH-4AAAAJ:yB1At4FlUx8C</link>
+<authors>SL Salzberg</authors>
+<source>New Comprehensive Biochemistry 32, 11-27</source>
+<citations>1</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>An introduction to hidden Markov models for biological sequences</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=240&amp;citation_for_view=sUVeH-4AAAAJ:yMeIxYmEMEAC</link>
+<authors>SL Salzberg, DB Searls, S Kasif</authors>
+<source>Computational Methods in Molecular Biology 32, 45</source>
+<citations>1</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Investigations of the greedy heuristic for classification tree induction</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=240&amp;citation_for_view=sUVeH-4AAAAJ:TIZ-Mc8IlK0C</link>
+<authors>SK Murthy, SL Salzberg</authors>
+<source></source>
+<citations>1</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Small Genome Annotation and Data Management at TIGR</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=240&amp;citation_for_view=sUVeH-4AAAAJ:nrtMV_XWKgEC</link>
+<authors>M Gwinn, W Nelson, R Dodson, S Salzberg, O White</authors>
+<source>The Institute for Genomic Research</source>
+<citations>1</citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Thousands of exon skipping events differentiate among splicing patterns in sixteen human tissues</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=240&amp;citation_for_view=sUVeH-4AAAAJ:1taIhTC69MYC</link>
+<authors>L Florea, L Song, SL Salzberg</authors>
+<source>F1000Research 2</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Insights into the Loblolly Pine Genome: Characterization of BAC and Fosmid Sequences</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=240&amp;citation_for_view=sUVeH-4AAAAJ:IaI1MmNe2tcC</link>
+<authors>JL Wegrzyn, BY Lin, JJ Zieve, WM Dougherty, PJ Martínez-García, M Koriabine ...</authors>
+<source>PloS one 8 (9), e72439</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>The COMBREX Project: Design, Methodology, and Initial Results</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=240&amp;citation_for_view=sUVeH-4AAAAJ:7BrZ7Jt4UNcC</link>
+<authors>BP Anton, YC Chang, P Brown, HP Choi, LL Faller, J Guleria, Z Hu, N Klitgord ...</authors>
+<source>PLoS biology 11 (8), e1001638</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Computational challenges in next-generation genomics</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=240&amp;citation_for_view=sUVeH-4AAAAJ:PaBasH6fAo0C</link>
+<authors>SL Salzberg</authors>
+<source>Proceedings of the 25th International Conference on Scientific and ...</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>The 15th Genomic Standards Consortium meeting</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=240&amp;citation_for_view=sUVeH-4AAAAJ:LdasjJ6CEcoC</link>
+<authors>L Schriml, I Mizrachi, P Sterl, D Field, L Hirschman, T Tatusova, S Sansone ...</authors>
+<source>Standards in Genomic Sciences 8 (1)</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Sequestration: inadvertently killing biomedical research to score political points</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=240&amp;citation_for_view=sUVeH-4AAAAJ:0CzhzZyukY4C</link>
+<authors>JT Leek, SL Salzberg</authors>
+<source>Genome biology 14 (3), 109</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>NIH funding: It does support innovators</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=240&amp;citation_for_view=sUVeH-4AAAAJ:5icHVeHT4IsC</link>
+<authors>SL Salzberg</authors>
+<source>Nature 493 (7430), 26-26</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Thousands of exon skipping events differentiate among splicing patterns in sixteen human tissues [v1; ref status: awaiting peer</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=240&amp;citation_for_view=sUVeH-4AAAAJ:FiytvqdAVhgC</link>
+<authors>L Florea, L Song, SL Salzberg</authors>
+<source></source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Thousands of missed genes found in bacterial genomes and their analysis with COMBREX</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=240&amp;citation_for_view=sUVeH-4AAAAJ:lvd772isFD0C</link>
+<authors>DE Wood, H Lin, A Levy-Moonshine, R Swaminathan, YC Chang, BP Anton, L ...</authors>
+<source>Biology direct 7 (1), 37</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Mis-Assembled Segmental Duplications in Two Versions of the Bos taurus Genome</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=240&amp;citation_for_view=sUVeH-4AAAAJ:4vMrXwiscB8C</link>
+<authors>AV Zimin, DR Kelley, M Roberts, G Marçais, SL Salzberg, JA Yorke</authors>
+<source>PloS one 7 (8), e42680</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>A Scientist and an Advocate</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=240&amp;citation_for_view=sUVeH-4AAAAJ:wMgC3FpKEyYC</link>
+<authors>K Nybo, S Salzberg</authors>
+<source>BioTechniques 53 (2), 71</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>GAGE: A critical evaluation of genome assemblies and assembly algorithms (vol 22, pg 557, 2012)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=240&amp;citation_for_view=sUVeH-4AAAAJ:otzGkya1bYkC</link>
+<authors>SL Salzberg, AM Phillippy, A Zimin, D Puiu, T Magoc, S Koren, TJ Treangen ...</authors>
+<source>GENOME RESEARCH 22 (6), 1196-1196</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Detection of lineage-specific evolutionary changes among primate species</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=240&amp;citation_for_view=sUVeH-4AAAAJ:EkHepimYqZsC</link>
+<authors>M Pertea, G Pertea, S Salzberg</authors>
+<source>BMC bioinformatics 12 (1), 274</source>
+<citations></citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>DNA, DINOSAURS, AND METAGENOMICS: A NEW TOOL FOR MASS IDENTIFICATION OF DNA FROM FOSSIL BONE</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=260&amp;citation_for_view=sUVeH-4AAAAJ:QD3KBmkZPeQC</link>
+<authors>S Salzberg, B Novak, H Poinar, T Kaye, M Maccoss</authors>
+<source>JOURNAL OF VERTEBRATE PALEONTOLOGY 31, 185-185</source>
+<citations></citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Clustering metagenomic sequences with interpolated Markov models.(under review)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=260&amp;citation_for_view=sUVeH-4AAAAJ:Z5m8FVwuT1cC</link>
+<authors>DR Kelley, SL Salzberg</authors>
+<source></source>
+<citations></citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Mind the gaps</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=260&amp;citation_for_view=sUVeH-4AAAAJ:KUbvn5osdkgC</link>
+<authors>SL Salzberg</authors>
+<source>Nature methods 7 (2), 105</source>
+<citations></citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Algorithms in Bioinformatics: 9th International Workshop, WABI 2009, Philadelphia, USA, September 12-13, 2009. Proceedings</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=260&amp;citation_for_view=sUVeH-4AAAAJ:XoXfffV-tXoC</link>
+<authors></authors>
+<source>Springer</source>
+<citations></citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Proceedings of the 9th international conference on Algorithms in bioinformatics</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=260&amp;citation_for_view=sUVeH-4AAAAJ:tuHXwOkdijsC</link>
+<authors>SL Salzberg, T Warnow</authors>
+<source>Springer-Verlag</source>
+<citations></citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Abstracts of Beyond the Genome: The true gene count, human evolution and disease genomics. Boston, Massachusetts, USA. October 11-13, 2010.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=260&amp;citation_for_view=sUVeH-4AAAAJ:BzfGm06jWhQC</link>
+<authors>M Pertea, SL Salzberg</authors>
+<source>Genome biology 11 (Suppl 1), I1-14, O1-13, P1-43</source>
+<citations></citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>The Complete Genome Sequence of Bacillus anthracis, Ames Ancestor. Genome Announcements</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=260&amp;citation_for_view=sUVeH-4AAAAJ:gsN89kCJA0AC</link>
+<authors>J Ravel, L Jiang, ST Stanley, MR Wilson, RS Decker, TD Read, P Worsham, PS ...</authors>
+<source>INSTITUTE FOR GENOMIC RESEARCH ROCKVILLE MD</source>
+<citations></citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Human SNPs from short reads in hours using cloud compu ng</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=260&amp;citation_for_view=sUVeH-4AAAAJ:0KyAp5RtaNEC</link>
+<authors>B Langmead, MC Schatz, J Lin, M Pop, SL Salzberg</authors>
+<source></source>
+<citations></citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Efforts to deregulate Rainbow papaya in Japan: Molecular Characterization of Transgene and Vector Inserts</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=260&amp;citation_for_view=sUVeH-4AAAAJ:vbGhcppDl1QC</link>
+<authors>GA Fermín, JH Saw, CM Ackerman, JY Suzuki, S Tripathi, MC Schatz, KY Pitz, M ...</authors>
+<source>II International Symposium on Papaya 851, 235-240</source>
+<citations></citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Using protein domains to improve the accuracy of Ab Initio gene finding</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=260&amp;citation_for_view=sUVeH-4AAAAJ:M7yex6snE4oC</link>
+<authors>M Pertea, SL Salzberg</authors>
+<source>Algorithms in Bioinformatics, 208-215</source>
+<citations></citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Systems for expression of heterologous proteins in M. capsulatus</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=260&amp;citation_for_view=sUVeH-4AAAAJ:foquWX3nUaYC</link>
+<authors>NK Birkeland, I Eidhammer, I Jonassen, HB Jensen, T Lien, JR Lillehaug, I ...</authors>
+<source>US Patent 7,087,410</source>
+<citations></citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Three new Xanthomonas genome sequences and comparative analyses of pathogenesis associated gene clusters</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=260&amp;citation_for_view=sUVeH-4AAAAJ:b1wdh0AR-JQC</link>
+<authors>H Lu, M Van Sluys, V Brendel, FF White, PD Rabinowicz, SL Salzberg, JE Leach ...</authors>
+<source>Phytopathology 96 (6)</source>
+<citations></citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>BIOINFORMATICS EDITORIAL</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=260&amp;citation_for_view=sUVeH-4AAAAJ:Ug5p-4gJ2f0C</link>
+<authors>J Quackenbush, SL Salzberg</authors>
+<source>BIOINFORMATICS 22 (12), 1416-1417</source>
+<citations></citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Movers</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=260&amp;citation_for_view=sUVeH-4AAAAJ:q3CdL3IzO_QC</link>
+<authors>S Salzberg</authors>
+<source>Nature 435 (7041), 534-534</source>
+<citations></citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>The Tetrahymena thermophila genome sequence: 1. Genome‐wide uniformity of macronuclear chromosome copy number in spite of amitotic (random) copy distribution</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=260&amp;citation_for_view=sUVeH-4AAAAJ:edDO8Oi4QzsC</link>
+<authors>E Orias, SL Salzberg, AL Delcher</authors>
+<source>Journal of Eukaryotic Microbiology 52 (2), 7S-27S</source>
+<citations></citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Shotgun Sequencing And Analysis of the Macronuclear Genome of the Model Eukaryote, the Shotgun Ciliate Tetrahymena thermophila</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=260&amp;citation_for_view=sUVeH-4AAAAJ:L7CI7m0gUJcC</link>
+<authors>JA Eisen, M Wu, E Hamilton, WC Nierman, S van Aken, T Feldblyum, H Koo, A ...</authors>
+<source>Abstract Book of 12th International Congress of Protozoology</source>
+<citations></citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Comparative genomics of the Bacillus anthracis family: insights into physiology and evolution of a pathogenic species</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=260&amp;citation_for_view=sUVeH-4AAAAJ:CaZNVDsoPx4C</link>
+<authors>C Fraser, J Ravel, D Rasko, S Peterson, T Read, M Shumway, S Salzberg</authors>
+<source>FASEB JOURNAL 18 (8), C225-C226</source>
+<citations></citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Automated correction of genome sequence errors</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=260&amp;citation_for_view=sUVeH-4AAAAJ:i2xiXl-TujoC</link>
+<authors>M Schatz, P Gajer, SL Salzberg</authors>
+<source>Nucleic acids research, 562-569</source>
+<citations></citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>SYSTEMS FOR EXPRESSION OF HETEROLOGOUS PROTEINS IN M. CAPSULATUS</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=260&amp;citation_for_view=sUVeH-4AAAAJ:ruyezt5ZtCIC</link>
+<authors>NK Birkeland, I Eidhammer, I Jonassen, HB Jensen, T Lien, JR Lillehaug, I ...</authors>
+<source>EP Patent 1,360,194</source>
+<citations></citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Genome Paleontology: Discoveries from Complete Genomes.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=260&amp;citation_for_view=sUVeH-4AAAAJ:BUYA1_V_uYcC</link>
+<authors>S Salzberg</authors>
+<source>BIOKDD, 1</source>
+<citations></citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>METYLOCOCCUS CAPSULATUS GENES AND DNA ARRAY FOR THE DETERMINATION OF GENE EXPRESSION IN METYLOCOCCUS CAPSULATUS</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=280&amp;citation_for_view=sUVeH-4AAAAJ:DJbcl8HfkQkC</link>
+<authors>N BIRKELAND, I EIDHAMMER, I JONASSEN, H JENSEN, T LIEN, J LILLEHAUG, I ...</authors>
+<source>WO Patent 2,002,055,655</source>
+<citations></citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>SYSTEMS FOR EXPRESSION OF HETEROLOGOUS PROTEINS IN M. CAPSULATUS</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=280&amp;citation_for_view=sUVeH-4AAAAJ:mNrWkgRL2YcC</link>
+<authors>N BIRKELAND, I EIDHAMMER, I JONASSEN, H JENSEN, T LIEN, J LILLEHAUG, I ...</authors>
+<source>WO Patent 2,002,055,549</source>
+<citations></citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>SCIENCE'S COMPASS-LETTERS-Response-Lateral Gene Transfer or Viral Colonization?</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=280&amp;citation_for_view=sUVeH-4AAAAJ:PVjk1bu6vJQC</link>
+<authors>SL Salzberg, JA Elsen</authors>
+<source>Science-International Edition-AAAS 293 (5532), 1045</source>
+<citations></citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>DEVELOPMENT OF SOFTWARE TOOLS TO MAKE USE OF GENOME SEQUENCING DATA IN DNA MICROARRAY CONSTRUCTION AND ANALYSIS</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=280&amp;citation_for_view=sUVeH-4AAAAJ:5qfkUJPXOUwC</link>
+<authors>AA Witney, M Pertea, S Salzberg, SL Hoffman, DJ Carucci</authors>
+<source>AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE 62 (3; SUPP), 631-631</source>
+<citations></citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Classiﬁcation-based molecular sequence analysis</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=280&amp;citation_for_view=sUVeH-4AAAAJ:yqoGN6RLRZoC</link>
+<authors>SL Salzberg, DB Searls, S Kasif</authors>
+<source>Computational Methods in Molecular Biology 32, 87</source>
+<citations></citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Suggestions for further reading in computational biology</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=280&amp;citation_for_view=sUVeH-4AAAAJ:OR75R8vi5nAC</link>
+<authors>SL Salzberg, DB Searls, S Kasif</authors>
+<source>Computational Methods in Molecular Biology 32, 361</source>
+<citations></citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Software and databases for computational biology on the Internet</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=280&amp;citation_for_view=sUVeH-4AAAAJ:yFnVuubrUp4C</link>
+<authors>SL Salzberg, DB Searls, S Kasif</authors>
+<source>Computational Methods in Molecular Biology 32, 355</source>
+<citations></citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Master index of Volumes 1-10</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=280&amp;citation_for_view=sUVeH-4AAAAJ:ubry08Y2EpUC</link>
+<authors>EM Arkin, P Belleville, JSB Mitchell, D Mount, K Romanik, S Salzberg, D ...</authors>
+<source>Computational Geometry 10, 321-332</source>
+<citations></citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>ABSTRACTS-Complete genome sequence of Treponema pallidum, the syphilis spirochete</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=280&amp;citation_for_view=sUVeH-4AAAAJ:AHdEip9mkN0C</link>
+<authors>CM Fraser, SJ Norris, GM Weinstock, O White, GG Sutton, R Dodson, M Gwinn ...</authors>
+<source>American Journal of Ophthalmology 126 (6), 863</source>
+<citations></citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Algorithms to Dynamic Control Tasks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=280&amp;citation_for_view=sUVeH-4AAAAJ:g3aElNc5_aQC</link>
+<authors>DW Aha, SL Salzberg</authors>
+<source>Selecting Models from Data: Artificial Intelligence and Statistics IV, 321</source>
+<citations></citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Book Review: by J. Ross Quinlan. Morgan Kaufmann Publishers, Inc., 1993</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=280&amp;citation_for_view=sUVeH-4AAAAJ:lgwcVrK6X84C</link>
+<authors>SL Salzberg</authors>
+<source>Machine Learning 16 (3), 235-240</source>
+<citations></citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>by J. Ross Quinlan. Morgan Kaufmann Publishers, Inc., 1993.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=280&amp;citation_for_view=sUVeH-4AAAAJ:xtoqd-5pKcoC</link>
+<authors>SL SALZBERG</authors>
+<source>Machine Learning 1, 6</source>
+<citations></citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Learning to Catch: Applying Nearest Neighbor Algorithms to Dynamic Control Tasks Extended Abstract</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=280&amp;citation_for_view=sUVeH-4AAAAJ:kz9GbA2Ns4gC</link>
+<authors>DW Aha, SL Salzberg</authors>
+<source>Preliminary papers of the fourth International Workshop on Artificial ...</source>
+<citations></citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Testing Orthogonal Shapes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=280&amp;citation_for_view=sUVeH-4AAAAJ:ODE9OILHJdcC</link>
+<authors>K Romanik, SL Salzberg</authors>
+<source>Department of Computer Science, Johns Hopkins University</source>
+<citations></citations>
+<pub_year>1991</pub_year>
+</record>
+<record>
+<title>A Comparison of Learning Methods that Use Geometric Primitives</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=280&amp;citation_for_view=sUVeH-4AAAAJ:dBIO0h50nwkC</link>
+<authors>SL Salzberg</authors>
+<source>Department of Computer Science, Johns Hopkins University</source>
+<citations></citations>
+<pub_year>1991</pub_year>
+</record>
+<record>
+<title>Learning with a Helpful Teacher: Preliminary Draft</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=280&amp;citation_for_view=sUVeH-4AAAAJ:OcBU2YAGkTUC</link>
+<authors>SL Salzberg</authors>
+<source>Department of Computer Science, Johns Hopkins University</source>
+<citations></citations>
+<pub_year>1990</pub_year>
+</record>
+<record>
+<title>114 Evolution of protein-coding genes in Drosophila</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=280&amp;citation_for_view=sUVeH-4AAAAJ:jgBuDB5drN8C</link>
+<authors>AJ Greenberg, A Wong, ND Singh, D Sturgill, Y Zhang, B Oliver, AG Clark, CP ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Tropical Plant Biology An International Journal devoted to original research in tropical plants© Springer-Verlag 2008 10.1007/s12042-007-9004-8 The Fruits of Tropical Plant Genomics</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=280&amp;citation_for_view=sUVeH-4AAAAJ:4xDN1ZYqzskC</link>
+<authors>AH Paterson, P Felker, SP Hubbell, R Ming</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Reconstruc on and Es ma on of Fusion Transcripts from RNA-‐Sequencing Reads</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=280&amp;citation_for_view=sUVeH-4AAAAJ:uDGL6kOW6j0C</link>
+<authors>D Kim, SL Salzberg</authors>
+<source>Gene 1 (e2), e3</source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>TopHat2: Parallel mapping of transcriptomes to detect indels, gene fusions, and more</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=280&amp;citation_for_view=sUVeH-4AAAAJ:2VqYfGB8ITEC</link>
+<authors>D Kim, G Pertea, C Trapnell, H Pimentel, R Kelley, SL Salzberg</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Decision Tree Induction: How E ective is the Greedy Heuristic?</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=300&amp;citation_for_view=sUVeH-4AAAAJ:NXb4pA-qfm4C</link>
+<authors>S Murthy, S Salzberg</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Tracking Infectious Diseases since 2006</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=300&amp;citation_for_view=sUVeH-4AAAAJ:Ri6SYOTghG4C</link>
+<authors>SL Salzberg, C Kingsford, G Cattoli, DJ Spiro, DA Janies, MM Aly, IH Brown ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Paper Analysis</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=300&amp;citation_for_view=sUVeH-4AAAAJ:0N-VGjzr574C</link>
+<authors>R Tewari, D Dorin, R Moon, C Doerig, O Billker, E Ghedin, F Bringaud, J ...</authors>
+<source>Course Information Document Molecular and Cellular Parasitology Level-4 ...</source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Quality-‐aware error correc on of sequencing reads</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=300&amp;citation_for_view=sUVeH-4AAAAJ:HbR8gkJAVGIC</link>
+<authors>D Kelley, M Schatz, S Salzberg</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Nucleic acids research Volume: 28 ISSN: 1362-4962 ISO Abbreviation: Nucleic Acids Res. Publication Date: 2000 Mar</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=300&amp;citation_for_view=sUVeH-4AAAAJ:Dip1O2bNi0gC</link>
+<authors>TD Read, RC Brunham, C Shen, SR Gill, JF Heidelberg, O White, EK Hickey, J ...</authors>
+<source>Detail:</source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>SUPPLEMENTARY METHODS FOR THE PAPER TRANSCRIPT ASSEMBLY AND QUANTIFICATION BY RNA-SEQ REVEALS UNANNOTATED TRANSCRIPTS AND ISOFORM SWITCHING DURING CELL DIFFERENTIATION</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=300&amp;citation_for_view=sUVeH-4AAAAJ:SpbeaW3--B0C</link>
+<authors>C TRAPNELL, BA WILLIAMS, GEO PERTEA, ALI MORTAZAVI, G KWAN, MJ VAN BAREN, SL ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Nucleic acids research Volume: 31 ISSN: 1362-4962 ISO Abbreviation: Nucleic Acids Res. Publication Date: 2003 Jul</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=300&amp;citation_for_view=sUVeH-4AAAAJ:WZBGuue-350C</link>
+<authors>WH Majoros, M Pertea, C Antonescu, SL Salzberg</authors>
+<source>Detail:</source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Mammoth DNA sequencing &amp; evidence of interbreeding between Columbian and woolly mammoths</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=300&amp;citation_for_view=sUVeH-4AAAAJ:oNZyr7d5Mn4C</link>
+<authors>J Enk¹, TJ Treangen, SL Salzberg</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Sub-optimal predictions increase sensitivity of gene finders</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=300&amp;citation_for_view=sUVeH-4AAAAJ:VaXvl8Fpj5cC</link>
+<authors>M Pertea, S Salzberg</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Keynote Talk Genome Paleontology: Discoveries from Complete Genomes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=300&amp;citation_for_view=sUVeH-4AAAAJ:LI9QrySNdTsC</link>
+<authors>SL Salzberg</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Artificial Intelligence Approaches to Problems in the Human Genome Project</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=300&amp;citation_for_view=sUVeH-4AAAAJ:vDijr-p_gm4C</link>
+<authors>S Kasif, S Salzberg</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Improving Genome Assembly without Sequencing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=300&amp;citation_for_view=sUVeH-4AAAAJ:ipzZ9siozwsC</link>
+<authors>MC Schatz, AL Delcher, P Gajer, J Miller, M Shumway, SL Salzberg</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>ADDITIONAL DATA FILE 2: Figures S1-S8 and Literature Cited</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=sUVeH-4AAAAJ&amp;cstart=300&amp;citation_for_view=sUVeH-4AAAAJ:uc_IGeMz5qoC</link>
+<authors>J ENK, R DEBRUYNE, A DEVAULT, CE KING, T TREANGEN, D OROURKE, SL SALZBERG ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+</file>

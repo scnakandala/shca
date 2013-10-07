@@ -1,0 +1,4341 @@
+RT Journal Article
+ID 56916361
+A1 Sarma,Anish,Das
+A1 Lee,Hongrae
+A1 Gonzalez,Hector
+A1 Madhavan,Jayant
+A1 Halevy,Alon
+YR 2012
+T1 Efficient spatial sampling of large geographical tables
+SP 193
+OP 204
+
+RT Journal Article
+ID 56916443
+A1 Sarma,Anish,Das
+A1 Fang,Lujun
+A1 Gupta,Nitin
+A1 Halevy,Alon
+A1 Lee,Hongrae
+A1 Wu,Fei
+A1 Xin,Reynold
+A1 Yu,Cong
+YR 2012
+T1 Finding related tables
+SP 817
+OP 828
+
+RT Journal Article
+ID 56914834
+A1 Halevy,Alon,Y.
+YR 2012
+T1 Towards an ecosystem of structured data on the web
+SP 1
+OP 2
+
+RT Journal Article
+ID 39209542
+A1 Doan,Anhai
+A1 Ramakrishnan,Raghu
+A1 Halevy,Alon,Y.
+YR 2011
+T1 Crowdsourcing systems on the World-Wide Web
+JF Communications of The ACM
+VO 54
+SP 86
+OP 96
+IS 4
+
+RT Journal Article
+ID 59032381
+A1 Agrawal,Divyakant
+A1 Bernstein,Philip
+A1 Bertino,Elisa
+A1 Davidson,Susan
+A1 Dayal,Umeshwas
+A1 Franklin,Michael
+A1 Gehrke,Johannes
+A1 Haas,Laura
+A1 Halevy,Alon
+A1 Han,Jiawei
+A1 Jagadish,H.,V.
+A1 Labrinidis,Alexandros
+A1 Madden,Sam
+A1 Papakonstantinou,Yannis
+A1 Patel,Jignesh
+A1 Ramakrishnan,Raghu
+A1 Ross,Kenneth
+A1 Shahabi,Cyrus
+A1 Suciu,Dan
+A1 Vaithyanathan,Shiv
+A1 Widom,Jennifer
+YR 2011
+T1 Challenges and Opportunities with Big Data 2011-1
+
+RT Journal Article
+ID 56249674
+A1 Dunn,J.
+A1 Shepherd,R.
+A1 Graf,A.
+A1 Steel,A.
+A1 Moon,S.,J.
+A1 Lee,R.,W.
+A1 Audebert,P.
+A1 Levy,A.
+A1 Gauthier,M.
+A1 Fuchs,J.
+A1 Fritz,D.,M.
+A1 Cammarata,M.
+A1 Milathianaki,D.
+A1 Lee,H.,J.
+A1 Nagler,B.
+A1 Fourment,C.
+A1 Deneuville,F.
+A1 Williams,G.
+A1 Fajardo,M.
+A1 Gaudin,J.
+A1 Vinko,S.
+A1 Ciricosta,O.
+A1 Wark,J.
+A1 Chung,H.,K.
+YR 2011
+T1 Spectroscopic studies of hard x-ray free-electron laser-heated foils at 1016 Wcm-2 irradiances
+VO 8140
+SP 126
+
+RT Journal Article
+ID 56905331
+A1 Chen,Kuang
+A1 Kannan,Akshay
+A1 Madhavan,Jayant
+A1 Halevy,Alon
+YR 2011
+T1 Exploring schema repositories with schemr
+JF Sigmod Record
+SP 11
+OP 16
+
+RT Journal Article
+ID 39209483
+A1 Cafarella,Michael,J.
+A1 Halevy,Alon,Y.
+A1 Madhavan,Jayant
+YR 2011
+T1 Structured data on the web
+JF Communications of The ACM
+VO 54
+SP 72
+OP 79
+IS 2
+
+RT Journal Article
+ID 56359132
+A1 Fourmaux,S.
+A1 Buffechoux,S.
+A1 Gnedyuk,S.
+A1 Albertazzi,B.
+A1 Capelli,D.
+A1 Lecherbourg,L.
+A1 Lévy,A.
+A1 Audebert,P.
+A1 Houde,D.
+A1 Marjoribanks,R.
+A1 Martin,F.
+A1 Pépin,H.
+A1 Fuchs,J.
+A1 Kieffer,J.,C.
+YR 2011
+T1 Laser-based proton acceleration on ultrathin foil with a 100-TW-class high intensity laser system
+VO 8007
+SP 20
+
+RT Journal Article
+ID 39323175
+A1 Wu,Fei
+A1 Madhavan,Jayant
+A1 Halevy,Alon,Y.
+YR 2011
+T1 Identifying Aspects for Web-Search Queries
+JF Journal of Artificial Intelligence Research
+VO 40
+SP 677
+OP 700
+
+RT Journal Article
+ID 39330956
+A1 Elmeleegy,Hazem
+A1 Madhavan,Jayant
+A1 Halevy,Alon,Y.
+YR 2011
+T1 Harvesting relational tables from lists on the web
+JF The Vldb Journal
+VO 20
+SP 209
+OP 226
+IS 2
+
+RT Journal Article
+ID 39336148
+A1 Venetis,Petros
+A1 Gonzalez,Hector
+A1 Jensen,Christian,S.
+A1 Halevy,Alon,Y.
+YR 2011
+T1 Hyper-local, directions-based ranking of places
+JF Proceedings of The Vldb Endowment
+VO 4
+SP 290
+OP 301
+IS 5
+
+RT Journal Article
+ID 57337893
+A1 Kapusta,A.
+A1 Levy,A.
+A1 Mikhailovich,B.
+YR 2011
+T1 Phase-modulated currents in induction heating
+JF Compel-the International Journal for Computation and Mathematics in Electrical and Electronic Engineering
+VO 30
+SP 1598
+OP 1605
+IS 5
+
+RT Conference Proceedings
+ID 6886998
+A1 Sarma,Anish,Das
+A1 Dong,Xin,Luna
+A1 Halevy,Alon,Y.
+YR 2011
+T1 Data integration with dependent sources
+SP 401
+OP 412
+
+RT Journal Article
+ID 48805586
+A1 Shimshi,E.
+A1 Ben-Dor,G.
+A1 Levy,A.
+YR 2011
+T1 Viscous simulation of shock reflection hysteresis in ideal and tapered overexpanded planar nozzles
+JF Shock Waves
+VO 21
+SP 205
+OP 214
+IS 3
+
+RT Journal Article
+ID 49491000
+A1 Levy,A.
+A1 Corre,S.,Le
+A1 Chevaugeon,N.
+A1 Poitou,A.
+YR 2011
+T1 A level set based approach for the finite element simulation of a forming process involving multiphysics coupling: Ultrasonic welding of thermoplastic composites
+JF European Journal of Mechanics A-solids
+VO 30
+SP 501
+OP 509
+IS 4
+
+RT Journal Article
+ID 56908720
+A1 Cafarella,Michael,J.
+A1 Halevy,Alon,Y.
+YR 2011
+T1 Web data management
+SP 1199
+OP 1200
+
+RT Journal Article
+ID 54502044
+A1 Levy,Alon
+YR 2011
+T1 The Semistable Reduction Problem for the Space of Morphisms on $\mathbb{P}^{n}$
+
+RT Conference Proceedings
+ID 13277467
+A1 Gonzalez,Hector
+A1 Halevy,Alon,Y.
+A1 Jensen,Christian,S.
+A1 Langen,Anno
+A1 Madhavan,Jayant
+A1 Shapley,Rebecca
+A1 Shen,Warren
+A1 Goldberg-Kidon,Jonathan
+YR 2010
+T1 Google fusion tables: web-centered data management and collaboration
+SP 1061
+OP 1066
+
+RT Conference Proceedings
+ID 13302976
+A1 Sadikov,Eldar
+A1 Madhavan,Jayant
+A1 Wang,Lu
+A1 Halevy,Alon,Y.
+YR 2010
+T1 Clustering query refinements by user intent
+SP 841
+OP 850
+
+RT Journal Article
+ID 13281380
+A1 Gonzalez,Hector
+A1 Halevy,Alon,Y.
+A1 Jensen,Christian,S.
+A1 Langen,Anno
+A1 Madhavan,Jayant
+A1 Shapley,Rebecca
+A1 Shen,Warren
+YR 2010
+T1 Google fusion tables: data management, integration and collaboration in the cloud
+SP 175
+OP 180
+
+RT Conference Proceedings
+ID 13277619
+A1 Seligman,Len
+A1 Mork,Peter
+A1 Halevy,Alon,Y.
+A1 Smith,Ken
+A1 Carey,Michael,J.
+A1 Chen,Kuang
+A1 Wolf,Chris
+A1 Madhavan,Jayant
+A1 Kannan,Akshay
+A1 Burdick,Doug
+YR 2010
+T1 OpenII: an open source information integration toolkit
+SP 1057
+OP 1060
+
+RT Journal Article
+ID 11133109
+A1 NOLAN,L.,A.
+A1 HART,E.,J.
+A1 WINDLE,R.,J.
+A1 WOOD,S.,A.
+A1 HU,X.,W.
+A1 LEVI,A.,J.
+A1 INGRAM,C.,D.
+A1 LEVY,A.
+YR 2010
+T1 Lack of Effect of Protein Deprivation-Induced Intrauterine Growth Retardation on Behavior and Corticosterone and Growth Hormone Secretion in Adult Male Rats: A Long-Term Follow-Up Study
+
+RT Journal Article
+ID 24316447
+A1 Brosh,T.
+A1 Levy,A.
+YR 2010
+T1 Modeling of Heat Transfer in Pneumatic Conveyer Using a Combined DEM-CFD Numerical Code
+JF Drying Technology
+VO 28
+SP 155
+OP 164
+IS 2
+
+RT Journal Article
+ID 13264640
+A1 Halevy,Alon,Y.
+YR 2010
+T1 Technical perspective - Schema mappings: rules for mixing data
+JF Communications of The ACM
+VO 53
+SP 100
+IS 1
+
+RT Journal Article
+ID 39316413
+A1 Gonzalez,Hector
+A1 Halevy,Alon,Y.
+A1 Langen,Anno
+A1 Madhavan,Jayant
+A1 McChesney,Rod
+A1 Shapley,Rebecca
+A1 Shen,Warren
+A1 Goldberg-Kidon,Jonathan
+YR 2010
+T1 Socialising Data with Google Fusion Tables
+JF IEEE Data(base) Engineering Bulletin
+VO 33
+SP 25
+OP 32
+IS 3
+
+RT Journal Article
+ID 51812496
+A1 Lenoir,Benjamin
+A1 Christophe,B.
+A1 Foulon,B.
+A1 Touboul,P.
+A1 Lévy,A.
+A1 Léon-Hirtz,S.
+A1 Biancale,R.
+A1 Sohl,F.
+A1 Dittus,H.
+A1 Zoest,T.,van
+A1 Courty,J.-M.
+A1 B,S.,Reynaud,Lamine
+A1 Métris,G.
+A1 Wolf,P.
+A1 Lümmerzahl,C.
+A1 Selig,H.
+YR 2010
+T1 A scale dependence test of gravity with Odyssey 2 Mission
+
+RT Journal Article
+ID 53344731
+A1 Lenoir,Benjamin
+A1 Christophe,B.
+A1 Foulon,B.
+A1 Touboul,P.
+A1 Lévy,A.
+A1 Léon-Hirtz,S.
+A1 Biancale,R.
+A1 Sohl,F.
+A1 Dittus,H.
+A1 Zoest,T.,van
+A1 Courty,J.-M.
+A1 Reynaud,S.
+A1 Lamine,B.
+A1 Métris,G.
+A1 Wolf,P.
+A1 Lümmerzahl,C.
+A1 Selig,H.
+YR 2010
+T1 Planetary objectives of Odyssey2 Mission: Neptune and Triton
+
+RT Journal Article
+ID 49566569
+A1 Boubli,L.
+A1 Bretelle,F.
+A1 D’Ercole,C.
+A1 Gamerre,M.
+A1 Heinemann,M.
+A1 Ivorra-Deleuze,D.
+A1 Lévy,A.
+A1 Philip,N.
+A1 Toga,C.
+YR 2010
+T1 Mise en place du dépistage combiné de la trisomie 21 au sein des centres pluridisciplinaires de diagnostic prénatal marseillais
+JF Gynecologie Obstetrique & Fertilite
+VO 38
+SP 786
+OP 788
+IS 12
+
+RT Conference Proceedings
+ID 13132351
+A1 Shiloni,Asaf
+A1 Levy,Alon
+A1 Felner,Ariel
+A1 Kalech,Meir
+YR 2010
+T1 Ants meeting algorithms
+SP 567
+OP 574
+
+RT Journal Article
+ID 14409073
+A1 Halevy,Alon
+YR 2010
+T1 Technical perspectiveSchema mappings: rules for mixing data
+JF Communications of The ACM
+VO 53
+SP 100
+OP 100
+IS 1
+
+RT Journal Article
+ID 52444108
+A1 Levy,A.
+A1 Touboul,P.
+A1 Rodrigues,M.
+A1 Métris,G.
+A1 Robert,A.
+YR 2010
+T1 The MICROSCOPE space mission and the inflight calibration approach for its instrument
+
+RT Conference Proceedings
+ID 50888916
+A1 Halevy,Alon,Y.
+YR 2010
+T1 Structured Data on the Web
+
+RT Journal Article
+ID 53779321
+A1 Levy,A.
+YR 2010
+T1 In flight calibration plan for the instrument of the MICROSCOPE space mission
+
+RT Journal Article
+ID 4761353
+A1 Halevy,Alon,Y.
+A1 Norvig,Peter
+A1 Pereira,Fernando
+YR 2009
+T1 The Unreasonable Effectiveness of Data
+JF IEEE Expert / IEEE Intelligent Systems
+VO 24
+SP 8
+OP 12
+IS 2
+
+RT Journal Article
+ID 4755283
+A1 Agrawal,Rakesh
+A1 Ailamaki,Anastasia
+A1 Bernstein,Philip,A.
+A1 Brewer,Eric,A.
+A1 Carey,Michael,J.
+A1 Chaudhuri,Surajit
+A1 Doan,Anhai
+A1 Florescu,Daniela
+A1 Franklin,Michael,J.
+A1 Garcia-molina,Hector
+A1 Gehrke,Johannes
+A1 Gruenwald,Le
+A1 Haas,Laura,M.
+A1 Halevy,Alon,Y.
+A1 Hellerstein,Joseph,M.
+A1 Ioannidis,Yannis,E.
+A1 Korth,Henry,F.
+A1 Kossmann,Donald
+A1 Madden,Samuel
+A1 Magoulas,Roger
+A1 Ooi,Beng,Chin
+A1 O'reilly,Tim
+A1 Ramakrishnan,Raghu
+A1 Sarawagi,Sunita
+A1 Stonebraker,Michael
+A1 Szalay,Alexander,S.
+A1 Weikum,Gerhard
+YR 2009
+T1 The Claremont report on database research
+JF Communications of The ACM
+VO 52
+SP 56
+OP 65
+IS 6
+
+RT Journal Article
+ID 4918891
+A1 Cafarella,Michael,J.
+A1 Halevy,Alon,Y.
+A1 Khoussainova,Nodira
+YR 2009
+T1 Data Integration for the Relational Web
+JF Proceedings of The Vldb Endowment
+VO 2
+SP 1090
+OP 1101
+IS 1
+
+RT Journal Article
+ID 5634559
+A1 Elmeleegy,Hazem
+A1 Madhavan,Jayant
+A1 Halevy,Alon,Y.
+YR 2009
+T1 Harvesting Relational Tables from Lists on the Web
+JF Proceedings of The Vldb Endowment
+VO 2
+SP 1078
+OP 1089
+IS 1
+
+RT Conference Proceedings
+ID 5817472
+A1 Chen,Kuang
+A1 Madhavan,Jayant
+A1 Halevy,Alon,Y.
+YR 2009
+T1 Exploring schema repositories with schemr
+SP 1095
+OP 1098
+
+RT Journal Article
+ID 4772424
+A1 Dong,Xin,Luna
+A1 Halevy,Alon,Y.
+A1 Yu,Cong
+YR 2009
+T1 Data integration with uncertainty
+JF The Vldb Journal
+VO 18
+SP 469
+OP 500
+IS 2
+
+RT Journal Article
+ID 4703414
+A1 Madhavan,Jayant
+A1 Afanasiev,Loredana
+A1 Antova,Lyublena
+A1 Halevy,Alon,Y.
+YR 2009
+T1 Harnessing the Deep Web: Present and Future
+JF Computing Research Repository
+VO abs/0909.1
+
+RT Journal Article
+ID 5050661
+A1 Sarma,Anish,Das
+A1 Benjelloun,Omar
+A1 Halevy,Alon,Y.
+A1 Nabar,Shubha,U.
+A1 Widom,Jennifer
+YR 2009
+T1 Representing uncertain data: models, properties, and algorithms
+JF The Vldb Journal
+VO 18
+SP 989
+OP 1019
+IS 5
+
+RT Conference Proceedings
+ID 5412369
+A1 Wang,Daisy,Zhe
+A1 Dong,Xin,Luna
+A1 Sarma,Anish,Das
+A1 Franklin,Michael,J.
+A1 Halevy,Alon,Y.
+YR 2009
+T1 Functional Dependency Generation and Applications in Pay-As-You-Go Data Integration Systems
+
+RT Journal Article
+ID 6102080
+A1 Halevy,Alon,Y.
+YR 2009
+T1 Information Integration
+
+RT Book, Whole
+ID 6029396
+A1 Sarma,Anish,Das
+A1 Dong,Xin,Luna
+A1 Halevy,Alon,Y.
+YR 2009
+T1 Data Modeling in Dataspace Support Platforms
+SP 122
+OP 138
+
+RT Book, Whole
+ID 6047358
+A1 Halevy,Alon,Y.
+YR 2009
+T1 Structured Data on the Web
+SP 2
+
+RT Journal Article
+ID 6091196
+A1 Pereira,Fernando
+A1 Rajaraman,Anand
+A1 Sarawagi,Sunita
+A1 Tunstall-pedoe,William
+A1 Weikum,Gerhard
+A1 Halevy,Alon,Y.
+YR 2009
+T1 Answering Web Questions Using Structured Data - Dream or Reality?
+JF Proceedings of The Vldb Endowment
+VO 2
+SP 1646
+IS 2
+
+RT Journal Article
+ID 51248076
+A1 Peyrusse,O.
+A1 Mazevet,S.
+A1 Recoules,V.
+A1 Dorchies,F.
+A1 Harmand,M.
+A1 Levy,A.
+A1 Fuchs,J.
+A1 Mancic,A.
+A1 Nakatsutsumi,M.
+A1 Renaudin,P.
+A1 Audebert,P.
+YR 2009
+T1 Kedge Absorption spectra in Warm Dense Matter
+VO 1161
+SP 200
+OP 206
+
+RT Conference Proceedings
+ID 4725164
+A1 Halevy,Alon,Y.
+YR 2009
+T1 User-focused database management
+SP 5
+OP 6
+
+RT Journal Article
+ID 52362063
+A1 Christophe,B.
+A1 Foulon,B.
+A1 Levy,A.
+YR 2009
+T1 Gravity Advanced Package to probe Solar System gravitation
+
+RT Journal Article
+ID 6103609
+A1 Halevy,Alon,Y.
+YR 2009
+T1 XML Information Integration
+
+RT Journal Article
+ID 4439971
+A1 Cafarella,Michael,J.
+A1 Halevy,Alon,Y.
+A1 Wang,Daisy,Zhe
+A1 Wu,Eugene
+A1 Zhang,Yang
+YR 2008
+T1 WebTables: exploring the power of tables on the web
+JF Proceedings of The Vldb Endowment
+VO 1
+SP 538
+OP 549
+IS 1
+
+RT Conference Proceedings
+ID 4317290
+A1 Sarma,Anish,Das
+A1 Dong,Xin
+A1 Halevy,Alon,Y.
+YR 2008
+T1 Bootstrapping pay-as-you-go data integration systems
+SP 861
+OP 874
+
+RT Journal Article
+ID 4439887
+A1 Madhavan,Jayant
+A1 Ko,David
+A1 Kot,Lucja
+A1 Ganapathy,Vignesh
+A1 Rasmussen,Alex
+A1 Halevy,Alon,Y.
+YR 2008
+T1 Google's Deep Web crawl
+JF Proceedings of The Vldb Endowment
+VO 1
+SP 1241
+OP 1252
+IS 2
+
+RT Journal Article
+ID 4418519
+A1 Benjelloun,Omar
+A1 Sarma,Anish,Das
+A1 Halevy,Alon,Y.
+A1 Theobald,Martin
+A1 Widom,Jennifer
+YR 2008
+T1 Databases with uncertainty and lineage
+JF The Vldb Journal
+VO 17
+SP 243
+OP 264
+IS 2
+
+RT Journal Article
+ID 4408429
+A1 Agrawal,Rakesh, 
+A1 Bernstein,Philip,A.
+A1 Brewer,Eric,A.
+A1 Carey,Michael,J.
+A1 Chaudhuri,Surajit
+A1 Doan,Anhai
+A1 Florescu,Daniela
+A1 Franklin,Michael,J.
+A1 Garcia-molina,Hector
+A1 Gehrke,Johannes
+A1 Gruenwald,Le
+A1 Haas,Laura,M.
+A1 Halevy,Alon,Y.
+A1 Hellerstein,Joseph,M.
+A1 Ioannidis,Yannis,E.
+A1 Korth,Henry,F.
+A1 Kossmann,Donald
+A1 Madden,Samuel
+A1 Magoulas,Roger
+A1 Ooi,Beng,Chin
+A1 O'reilly,Tim
+A1 Ramakrishnan,Raghu
+A1 Sarawagi,Sunita
+A1 Stonebraker,Michael
+A1 Szalay,Alexander,S.
+A1 Weikum,Gerhard
+YR 2008
+T1 The Claremont report on database research
+JF Sigmod Record
+VO 37
+SP 9
+OP 19
+IS 3
+
+RT Conference Proceedings
+ID 4317254
+A1 Jeffery,Shawn,R.
+A1 Franklin,Michael,J.
+A1 Halevy,Alon,Y.
+YR 2008
+T1 Pay-as-you-go user feedback for dataspace systems
+SP 847
+OP 860
+
+RT Conference Proceedings
+ID 4324318
+A1 Cafarella,Michael,J.
+A1 Halevy,Alon,Y.
+A1 Zhang,Yang
+A1 Wang,Daisy,Zhe
+A1 Wu,Eugene
+YR 2008
+T1 Uncovering the Relational Web
+
+RT Journal Article
+ID 4408422
+A1 Cafarella,Michael,J.
+A1 Chang,Edward
+A1 Fikes,Andrew
+A1 Halevy,Alon,Y.
+A1 Hsieh,Wilson,C.
+A1 Lerner,Alberto
+A1 Madhavan,Jayant
+A1 Muthukrishnan,S.
+YR 2008
+T1 Data management projects at Google
+JF Sigmod Record
+VO 37
+SP 34
+OP 38
+IS 1
+
+RT Journal Article
+ID 4408395
+A1 Amer-yahia,Sihem
+A1 Markl,Volker
+A1 Halevy,Alon,Y.
+A1 Doan,Anhai
+A1 Alonso,Gustavo
+A1 Kossmann,Donald
+A1 Weikum,Gerhard
+YR 2008
+T1 Databases and Web 2.0 panel at VLDB 2007
+JF Sigmod Record
+VO 37
+SP 49
+OP 52
+IS 1
+
+RT Journal Article
+ID 4769425
+A1 Cafarella,Michael,J.
+A1 Madhavan,Jayant
+A1 Halevy,Alon,Y.
+YR 2008
+T1 Web-scale extraction of structured data
+JF Sigmod Record
+VO 37
+SP 55
+OP 61
+IS 4
+
+RT Journal Article
+ID 4439895
+A1 Franklin,Michael,J.
+A1 Halevy,Alon,Y.
+A1 Maier,David
+YR 2008
+T1 A first tutorial on dataspaces
+JF Proceedings of The Vldb Endowment
+VO 1
+SP 1516
+OP 1517
+IS 2
+
+RT Journal Article
+ID 10933253
+A1 Christophe,B.
+A1 Foulon,B.
+A1 Levy,A.
+A1 Anderson,J.,D.
+A1 Sumner,T.,J.
+A1 Bertolami,O.
+A1 Gil,P.
+A1 Paramos,J.
+A1 Progrebenko,S.,V.
+A1 Gurtvis,L.
+A1 Reynaud,S.
+A1 Courty,J.-M.
+A1 Asmar,S.,W.
+A1 Métris,G.
+A1 Bério,P.
+A1 Bingham,R.
+A1 Kent,B.
+A1 Olsen,O.
+A1 Andersen,P.,H.
+A1 Dittus,H.
+A1 Lämmerzahl,K.
+A1 Theil,S.
+A1 Rievers,B.
+A1 Bremer,S.
+YR 2008
+T1 Gravity Advanced Package, an accelerometer package for Laplace or Tandem missions
+
+RT Conference Proceedings
+ID 50650293
+A1 Dahan,D.
+A1 Levy,A.
+A1 Jacobian,D.
+A1 Yohi,E.
+A1 Mahlab,U.
+YR 2008
+T1 ASE Noise Instability Migration in WSS ROADM Based Closed Amplified Ring Networks
+
+RT Journal Article
+ID 61288276
+A1 Levy,A.
+A1 Slamovich,E.
+A1 Man,Y.
+YR 2008
+T1 Erosion-corrosion mechanisms in oxidizing environments
+VO 56
+SP 55
+
+RT Journal Article
+ID 11150856
+A1 Levy,A.
+A1 Christophe,B.
+A1 Reynaud,S.
+A1 Courty,J.-M.
+A1 Bério,P.
+A1 Métris,G.
+YR 2008
+T1 Pioneer 10 Data Analysis: Investigation on Periodic Anomalies
+
+RT Journal Article
+ID 4442409
+A1 Halevy,Alon
+YR 2008
+T1 Data Integration
+
+RT Conference Proceedings
+ID 2422067
+A1 Madhavan,Jayant
+A1 Cohen,Shirley
+A1 Dong,Xin,Luna
+A1 Halevy,Alon,Y.
+A1 Jeffery,Shawn,R.
+A1 Ko,David
+A1 Yu,Cong
+YR 2007
+T1 Web-Scale Data Integration: You can afford to Pay as You Go
+SP 342
+OP 350
+
+RT Conference Proceedings
+ID 4210798
+A1 Dong,Xin,Luna
+A1 Halevy,Alon,Y.
+A1 Yu,Cong
+YR 2007
+T1 Data Integration with Uncertainty
+SP 687
+OP 698
+
+RT Conference Proceedings
+ID 2472719
+A1 Dong,Xin
+A1 Halevy,Alon,Y.
+YR 2007
+T1 Indexing dataspaces
+SP 43
+OP 54
+
+RT Journal Article
+ID 2506116
+A1 Louie,Brenton
+A1 Mork,Peter
+A1 Martín-sánchez,Fernando
+A1 Halevy,Alon,Y.
+A1 Tarczy-hornoch,Peter
+YR 2007
+T1 Data integration and genomic medicine
+JF Journal of Biomedical Informatics
+VO 40
+SP 5
+OP 16
+IS 1
+
+RT Journal Article
+ID 4417613
+A1 Cammarano,Mike
+A1 Dong,Xin,Luna
+A1 Chan,Bryan
+A1 Klingner,Jeff
+A1 Talbot,Justin
+A1 Halevy,Alon,Y.
+A1 Hanrahan,Pat
+A1 Halevey,Alon
+YR 2007
+T1 Visualization of Heterogeneous Data
+JF IEEE Transactions on Visualization and Computer Graphics
+VO 13
+SP 1200
+OP 1207
+IS 6
+
+RT Conference Proceedings
+ID 4322811
+A1 Amer-yahia,Sihem
+A1 Halevy,Alon,Y.
+YR 2007
+T1 What does Web 2.0 have to do with databases?
+SP 1443
+
+RT Journal Article
+ID 4659354
+A1 Abiteboul,S.
+A1 Agrawal,R.
+A1 Bernstein,P.,A.
+A1 Carey,M.,J.
+A1 Ceri,S.
+A1 Croft,W.,B.
+A1 DeWitt,D.,J.
+A1 Franklin,M.,J.
+A1 Garcia-Molina,H.
+A1 Gawlick,D.
+A1 Gray,J.
+A1 Haas,L.,M.
+A1 Halevy,A.,Y.
+A1 Hellerstein,J.,M.
+A1 Ioannidis,Y.,E.
+A1 Kersten,M.,L.
+A1 Pazzani,M.,J.
+A1 Lesk,M.
+A1 Maier,D.
+A1 Naughton,J.,F.
+YR 2007
+T1 IS1 Collected Scientific Publications: 2004 - 2007 References
+
+RT Conference Proceedings
+ID 50575303
+A1 Rozen,O.
+A1 Cohen,T.
+A1 Kats,G.
+A1 Sadot,D.
+A1 Levy,A.
+A1 Mahlab,U.
+YR 2007
+T1 Dispersion Compensation in Non-Linear Self Phase Modulation (SPM) and Cross Phase Modulation (XPM) Induced Optical Channel Using Vectorial MLSE Equalizer
+
+RT Journal Article
+ID 5722164
+A1 Jeffery,Shawn
+A1 Franklin,Michael
+A1 Halevy,Alon
+YR 2007
+T1 Soliciting User Feedback in a Dataspace System
+
+RT Journal Article
+ID 53455294
+A1 Levy,A.
+A1 Christophe,B.
+A1 Reynaud,S.
+A1 Courty,J.-M.
+A1 Bério,P.
+A1 Métris,G.
+YR 2007
+T1 The Pioneer Anomaly: Data Analysis and Mission Proposal
+
+RT Conference Proceedings
+ID 4312895
+A1 Halevy,Alon,Y.
+YR 2007
+T1 Dataspaces: A New Paradigm for Data Integration
+SP 379
+
+RT Conference Proceedings
+ID 2187007
+A1 Benjelloun,Omar
+A1 Sarma,Anish,Das
+A1 Halevy,Alon,Y.
+A1 Widom,Jennifer
+YR 2006
+T1 ULDBs: Databases with Uncertainty and Lineage
+SP 953
+OP 964
+
+RT Conference Proceedings
+ID 1795993
+A1 Sarma,Anish,Das
+A1 Benjelloun,Omar
+A1 Halevy,Alon,Y.
+A1 Widom,Jennifer
+YR 2006
+T1 Working Models for Uncertain Data
+SP 7
+
+RT Conference Proceedings
+ID 2187005
+A1 Halevy,Alon,Y.
+A1 Rajaraman,Anand
+A1 Ordille,Joann,J.
+YR 2006
+T1 Data Integration: The Teenage Years
+SP 9
+OP 16
+
+RT Conference Proceedings
+ID 2185964
+A1 Halevy,Alon,Y.
+A1 Franklin,Michael,J.
+A1 Maier,David
+YR 2006
+T1 Principles of dataspace systems
+SP 1
+OP 9
+
+RT Journal Article
+ID 2494157
+A1 Madhavan,Jayant
+A1 Halevy,Alon,Y.
+A1 Cohen,Shirley
+A1 Dong,Xin,Luna
+A1 Jeffery,Shawn,R.
+A1 Ko,David
+A1 Yu,Cong
+YR 2006
+T1 Structured Data Meets the Web: A Few Observations
+JF IEEE Data(base) Engineering Bulletin
+VO 29
+SP 19
+OP 26
+IS 4
+
+RT Conference Proceedings
+ID 4111806
+A1 Liu,Jing
+A1 Dong,Xin
+A1 Halevy,Alon,Y.
+YR 2006
+T1 Answering Structured Queries on Unstructured Data
+
+RT Book, Whole
+ID 1848582
+A1 Halevy,Alon,Y.
+A1 Franklin,Michael,J.
+A1 Maier,David
+YR 2006
+T1 Dataspaces: A New Abstraction for Information Management
+SP 1
+OP 2
+
+RT Journal Article
+ID 50489237
+A1 Mantooth,H.,A.
+A1 Levy,A.
+A1 Francis,A.,M.
+A1 Cilioq,E.,S.
+A1 Lostetter,A.,B.
+YR 2006
+T1 Model-based design tools for extending COTS components to extreme environments
+
+RT Conference Proceedings
+ID 2160626
+A1 Maier,David
+A1 Halevy,Alon,Y.
+A1 Franklin,Michael,J.
+YR 2006
+T1 Dataspaces: Co-existence with Heterogeneity
+SP 3
+
+RT Conference Proceedings
+ID 1856369
+A1 Dong,Xin
+A1 Halevy,Alon,Y.
+A1 Madhavan,Jayant
+YR 2005
+T1 Reference reconciliation in complex information spaces
+SP 85
+OP 96
+
+RT Journal Article
+ID 1731883
+A1 Franklin,Michael,J.
+A1 Halevy,Alon,Y.
+A1 Maier,David
+YR 2005
+T1 From databases to dataspaces: a new abstraction for information management
+JF Sigmod Record
+VO 34
+SP 27
+OP 33
+IS 4
+
+RT Conference Proceedings
+ID 1287726
+A1 Madhavan,Jayant
+A1 Bernstein,Philip,A.
+A1 Doan,Anhai
+A1 Halevy,Alon,Y.
+YR 2005
+T1 Corpus-based Schema Matching
+SP 57
+OP 68
+
+RT Journal Article
+ID 2169987
+A1 Doan,Anhai
+A1 Halevy,Alon,Y.
+YR 2005
+T1 Semantic Integration Research in the Database Community: A Brief Survey
+JF Ai Magazine
+VO 26
+SP 83
+OP 94
+IS 1
+
+RT Conference Proceedings
+ID 1785892
+A1 Dong,Xin
+A1 Halevy,Alon,Y.
+YR 2005
+T1 A Platform for Personal Information Management and Integration
+SP 119
+OP 130
+
+RT Conference Proceedings
+ID 1856459
+A1 Halevy,Alon,Y.
+A1 Ashish,Naveen
+A1 Bitton,Dina
+A1 Carey,Michael,J.
+A1 Draper,Denise
+A1 Pollock,Jeff
+A1 Rosenthal,Arnon
+A1 Sikka,Vishal
+YR 2005
+T1 Enterprise information integration: successes, challenges and controversies
+SP 778
+OP 787
+
+RT Conference Proceedings
+ID 1856423
+A1 Melnik,Sergey
+A1 Bernstein,Philip,A.
+A1 Halevy,Alon,Y.
+A1 Rahm,Erhard
+YR 2005
+T1 Supporting executable mappings in model management
+SP 167
+OP 178
+
+RT Journal Article
+ID 2169956
+A1 Noy,Natalya,Fridman
+A1 Doan,Anhai
+A1 Halevy,Alon,Y.
+YR 2005
+T1 Semantic Integration
+JF Ai Magazine
+VO 26
+SP 7
+OP 10
+IS 1
+
+RT Conference Proceedings
+ID 1856451
+A1 Cai,Yuhan
+A1 Dong,Xin,Luna
+A1 Halevy,Alon,Y.
+A1 Liu,Jing,Michelle
+A1 Madhavan,Jayant
+YR 2005
+T1 Personal information management with SEMEX
+SP 921
+OP 923
+
+RT Journal Article
+ID 1721077
+A1 Halevy,Alon,Y.
+A1 Ives,Zachary,G.
+A1 Suciu,Dan
+A1 Tatarinov,Igor
+YR 2005
+T1 Schema mediation for large-scale semantic data sharing
+JF The Vldb Journal
+VO 14
+SP 68
+OP 83
+IS 1
+
+RT Journal Article
+ID 1726697
+A1 Halevy,Alon,Y.
+YR 2005
+T1 Why your data won't mix
+JF ACM Queue
+VO 3
+SP 50
+OP 58
+IS 8
+
+RT Journal Article
+ID 1718164
+A1 Ioannidis,Yannis,E.
+A1 Maier,David
+A1 Abiteboul,Serge
+A1 Buneman,Peter
+A1 Davidson,Susan,B.
+A1 Fox,Edward,A.
+A1 Halevy,Alon,Y.
+A1 Knoblock,Craig,A.
+A1 Rabitti,Fausto
+A1 Schek,Hans-jörg
+A1 Weikum,Gerhard
+YR 2005
+T1 Digital library information-technology infrastructures
+JF International Journal on Digital Libraries
+VO 5
+SP 266
+OP 274
+IS 4
+
+RT Conference Proceedings
+ID 1844435
+A1 Dong,Xin
+A1 Halevy,Alon,Y.
+YR 2005
+T1 Malleable Schemas: A Preliminary Report
+SP 139
+OP 144
+
+RT Journal Article
+ID 3849234
+A1 Hennessy,C.,A.
+A1 Levy,A.
+A1 Whited,T.,M.
+YR 2005
+T1 Testing Q theory with ? nancing frictions
+
+RT Journal Article
+ID 3779047
+A1 Doan,A.
+A1 Halevy,A.,Y.
+YR 2005
+T1 Special Issue on Semantic Integration
+JF Ai Magazine
+
+RT Journal Article
+ID 4139261
+A1 Halevy,A.,Y.
+A1 Ashish,N.
+A1 Bitton,D.
+A1 Carey,M.,J.
+A1 Draper,D.
+A1 Pollock,J.
+A1 Rosenthal,A.
+A1 Sikka,V.
+YR 2005
+T1 Enter - prise information integration: successes
+
+RT Journal Article
+ID 3969144
+A1 Benjelloun,O.
+A1 Sarma,A.,Das
+A1 Halevy,A.
+A1 Widom,J.
+YR 2005
+T1 The symbiosis of lineage and uncertainty
+
+RT Journal Article
+ID 24047345
+A1 SOREK,S.
+A1 LEVI-HEVRONI,D.
+A1 LEVY,A.
+A1 BEN-DOR,G.
+YR 2005
+T1 Extensions to the Macroscopic Navier–Stokes Equation
+JF Transport in Porous Media
+VO 61
+SP 215
+OP 233
+IS 2
+
+RT Journal Article
+ID 54779003
+A1 Malamud,G.
+A1 Levi-Hevroni,D.
+A1 Levy,A.
+YR 2005
+T1 Two-dimensional effects of the head on interaction between planar shock wave with low density foam
+
+RT Conference Proceedings
+ID 579334
+A1 Dong,Xin
+A1 Halevy,Alon,Y.
+A1 Madhavan,Jayant
+A1 Nemes,Ema
+A1 Zhang,Jun
+YR 2004
+T1 Simlarity Search for Web Services
+SP 372
+OP 383
+
+RT Conference Proceedings
+ID 917771
+A1 Dhamankar,Robin
+A1 Lee,Yoonkyong
+A1 Doan,Anhai
+A1 Halevy,Alon
+A1 Domingos,Pedro
+YR 2004
+T1 iMAP: discovering complex semantic matches between database schemas
+
+RT Journal Article
+ID 696064
+A1 Doan,Anhai
+A1 Madhavan,Jayant
+A1 Domingos,Pedro
+A1 Halevy,Alon,Y.
+YR 2004
+T1 Ontology Matching: A Machine Learning Approach
+
+RT Conference Proceedings
+ID 668548
+A1 Tatarinov,Igor
+A1 Halevy,Alon,Y.
+YR 2004
+T1 Efficient query reformulation in peer data management systems
+SP 539
+OP 550
+
+RT Journal Article
+ID 1228659
+A1 Halevy,Alon,Y.
+A1 Ives,Zachary,G.
+A1 Madhavan,Jayant
+A1 Mork,Peter
+A1 Suciu,Dan
+A1 Tatarinov,Igor
+YR 2004
+T1 The Piazza Peer Data Management System
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 16
+SP 787
+OP 798
+IS 7
+
+RT Conference Proceedings
+ID 668503
+A1 Dhamankar,Robin
+A1 Lee,Yoonkyong
+A1 Doan,Anhai
+A1 Halevy,Alon,Y.
+A1 Domingos,Pedro
+YR 2004
+T1 iMAP: Discovering Complex Mappings between Database Schemas
+SP 383
+OP 394
+
+RT Conference Proceedings
+ID 668559
+A1 Ives,Zachary,G.
+A1 Halevy,Alon,Y.
+A1 Weld,Daniel,S.
+YR 2004
+T1 Adapting to source properties in processing data integration queries
+SP 395
+OP 406
+
+RT Journal Article
+ID 1245484
+A1 Doan,AnHai
+A1 Noy,Natalya,Fridman
+A1 Halevy,Alon,Y.
+YR 2004
+T1 Introduction to the special issue on semantic integration
+JF Sigmod Record
+VO 33
+SP 11
+OP 13
+IS 4
+
+RT Conference Proceedings
+ID 924162
+A1 McDowell,Luke
+A1 Etzioni,Oren
+A1 Halevy,Alon,Y.
+A1 Levy,Henry,M.
+YR 2004
+T1 Semantic email
+SP 244
+OP 254
+
+RT Journal Article
+ID 1745261
+A1 Ives,Zachary,G.
+A1 Halevy,Alon,Y.
+A1 Mork,Peter
+A1 Tatarinov,Igor
+YR 2004
+T1 Piazza: mediation and integration infrastructure for Semantic Web data
+JF Journal of Web Semantics
+VO 1
+SP 155
+OP 175
+IS 2
+
+RT Conference Proceedings
+ID 579326
+A1 Dong,Xin
+A1 Halevy,Alon,Y.
+A1 Tatarinov,Igor
+YR 2004
+T1 Containment of Nested XML Queries
+SP 132
+OP 143
+
+RT Conference Proceedings
+ID 1817092
+A1 Halevy,Alon,Y.
+YR 2004
+T1 Structures, Semantics and Statistics
+SP 4
+OP 6
+
+RT Journal Article
+ID 1745298
+A1 Mcdowell,Luke
+A1 Etzioni,Oren
+A1 Halevy,Alon,Y.
+YR 2004
+T1 Semantic email: theory and applications
+JF Journal of Web Semantics
+VO 2
+SP 153
+OP 183
+IS 2
+
+RT Journal Article
+ID 2623889
+A1 Melnik,Sergey
+A1 Bernstein,Philip,A.
+A1 Halevy,Alon
+A1 Rahm,Erhard
+YR 2004
+T1 A Semantics for Model Management Operators
+
+RT Journal Article
+ID 1731715
+A1 Dong,Xin
+A1 Madhavan,Jayant
+A1 Halevy,Alon,Y.
+YR 2004
+T1 Mining structures for semantics
+JF Sigkdd Explorations
+VO 6
+SP 53
+OP 60
+IS 2
+
+RT Conference Proceedings
+ID 1856379
+A1 Franklin,Michael,J.
+A1 Widom,Jennifer
+A1 Weikum,Gerhard
+A1 Bernstein,Philip,A.
+A1 Halevy,Alon,Y.
+A1 Dewitt,David,J.
+A1 Ailamaki,Anastassia
+A1 Ives,Zachary,G.
+YR 2004
+T1 Rethinking the Conference Reviewing Process - Panel
+SP 957
+OP 957
+
+RT Journal Article
+ID 6491609
+A1 Halevy,Alon
+A1 Li,Chen
+YR 2004
+T1 Information Integration Research: Summary of NSF IDM Workshop Breakout Session
+
+RT Journal Article
+ID 2317548
+A1 Mork,Peter
+A1 Gribble,Steven,D.
+A1 Halevy,Alon,Y.
+YR 2004
+T1 Managing Change in Large-Scale Data Sharing Systems
+
+RT Journal Article
+ID 1695792
+A1 Doan,Anhai
+A1 Halevy,Alon,Y.
+A1 Noy,Natalya,Fridman
+YR 2004
+T1 Semantic Integration Workshop at the Second International Semantic Web Conference (ISWC2003)
+JF Ai Magazine
+VO 25
+SP 109
+OP 112
+IS 1
+
+RT Book, Whole
+ID 1856080
+A1 Mcdowell,Luke
+A1 Etzioni,Oren
+A1 Halevy,Alon,Y.
+YR 2004
+T1 The Specification of Agent Behavior by Ordinary People: A Case Study
+SP 182
+OP 197
+
+RT Conference Proceedings
+ID 917832
+A1 Franklin,Michael,J.
+A1 Widom,Jennifer
+A1 Ailamaki,Anastassia
+A1 Bernstein,Philip,A.
+A1 Dewitt,David
+A1 Halevy,Alon
+A1 Ives,Zachary
+A1 Weikum,Gerhard
+YR 2004
+T1 Rethinking the conference reviewing process
+
+RT Journal Article
+ID 39245557
+A1 Dhamankar,Robin
+A1 Lee,Yoonkyong
+A1 Doan,AnHai
+A1 Halevy,Alon
+A1 Domingos,Pedro
+YR 2004
+T1 iMAP: discovering complex semantic matches between database schemas
+SP 383
+OP 394
+
+RT Conference Proceedings
+ID 2164655
+A1 Mcdowell,Luke
+A1 Etzioni,Oren
+A1 Halevy,Alon,Y.
+YR 2004
+T1 Specifying Semantic Email Processes
+
+RT Conference Proceedings
+ID 523297
+A1 Halevy,Alon,Y.
+A1 Ives,Zachary,G.
+A1 Suciu,Dan
+A1 Tatarinov,Igor
+YR 2003
+T1 Schema Mediation in Peer Data Management Systems
+SP 505
+
+RT Conference Proceedings
+ID 2378348
+A1 Halevy,Alon,Y.
+A1 Ives,Zachary,G.
+A1 Mork,Peter
+A1 Tatarinov,Igor
+YR 2003
+T1 Piazza: data management infrastructure for semantic web applications
+SP 556
+OP 567
+
+RT Journal Article
+ID 807590
+A1 Doan,Anhai
+A1 Madhavan,Jayant
+A1 Dhamankar,Robin
+A1 Domingos,Pedro
+A1 Halevy,Alon,Y.
+YR 2003
+T1 Learning to match ontologies on the Semantic Web
+JF The Vldb Journal
+VO 12
+SP 303
+OP 319
+IS 4
+
+RT Conference Proceedings
+ID 578968
+A1 Madhavan,Jayant
+A1 Halevy,Alon,Y.
+YR 2003
+T1 Composing Mappings Among Data Sources
+SP 572
+OP 583
+
+RT Journal Article
+ID 709081
+A1 Doan,Anhai
+A1 Domingos,Pedro
+A1 Halevy,Alon,Y.
+YR 2003
+T1 Learning to Match the Schemas of Data Sources: A Multistrategy Approach
+JF Machine Learning
+VO 50
+SP 279
+OP 301
+IS 3
+
+RT Conference Proceedings
+ID 39037
+A1 Halevy,Alon,Y.
+A1 Etzioni,Oren
+A1 Doan,Anhai
+A1 Ives,Zachary,G.
+A1 Madhavan,Jayant
+A1 Mcdowell,Luke
+A1 Tatarinov,Igor
+YR 2003
+T1 Crossing the Structure Chasm
+
+RT Journal Article
+ID 854807
+A1 Tatarinov,Igor
+A1 Ives,Zachary,G.
+A1 Madhavan,Jayant
+A1 Halevy,Alon,Y.
+A1 Suciu,Dan
+A1 Dalvi,Nilesh,N.
+A1 Kadiyska,Yana
+A1 Miklau,Gerome
+A1 Mork,Peter
+YR 2003
+T1 The Piazza peer data management project
+JF Sigmod Record
+VO 32
+SP 47
+OP 52
+IS 3
+
+RT Conference Proceedings
+ID 14211
+A1 Madhavan,Jayant
+A1 Bernstein,Philip,A.
+A1 Chen,Kuang
+A1 Halevy,Alon,Y.
+A1 Shenoy,Pradeep
+YR 2003
+T1 Corpus-based Schema Matching
+SP 59
+OP 63
+
+RT Journal Article
+ID 3318804
+A1 Doan,A.,H.
+A1 Madhavan,J.
+A1 Dhamankar,R.
+A1 Domingos,P.
+A1 Halevy,A.
+YR 2003
+T1 Learning to map ontologies on the semantic web
+
+RT Journal Article
+ID 779779
+A1 Abiteboul,Serge
+A1 Agrawal,Rakesh
+A1 Bernstein,Philip,A.
+A1 Carey,Michael,J.
+A1 Ceri,Stefano
+A1 Croft,W.,Bruce
+A1 Dewitt,David,J.
+A1 Franklin,Michael,J.
+A1 Molina,Hector,Garcia
+A1 Gawlick,Dieter
+A1 Gray,Jim
+A1 Haas,Laura,M.
+A1 Halevy,Alon,Y.
+A1 Hellerstein,Joseph,M.
+A1 Ioannidis,Yannis,E.
+A1 Kersten,Martin,L.
+A1 Pazzani,Michael,J.
+A1 Lesk,Michael
+A1 Maier,David
+A1 Naughton,Jeffrey,F.
+A1 Schek,Hans-jörg
+A1 Sellis,Timos,K.
+A1 Silberschatz,Avi
+A1 Stonebraker,Michael
+A1 Snodgrass,Richard,T.
+A1 Ullman,Jeffrey,D.
+A1 Weikum,Gerhard
+A1 Widom,Jennifer
+YR 2003
+T1 The Lowell Database Research Self Assessment
+JF Computing Research Repository
+VO cs.DB/0310
+
+RT Conference Proceedings
+ID 25613
+A1 Halevy,Alon,Y.
+A1 Ives,Zachary,G.
+A1 Mork,Peter
+A1 Tatarinov,Igor
+YR 2003
+T1 Piazza: Data Management Infrastructure for Semantic Web
+
+RT Conference Proceedings
+ID 450985
+A1 Halevy,Alon,Y.
+YR 2003
+T1 Data Integration: A Status Report
+SP 24
+OP 29
+
+RT Book, Whole
+ID 666251
+A1 Mcdowell,Luke
+A1 Etzioni,Oren
+A1 Gribble,Steven,D.
+A1 Halevy,Alon,Y.
+A1 Levy,Henry,M.
+A1 Pentney,William
+A1 Verma,Deepak
+A1 Vlasseva,Stani
+YR 2003
+T1 Mangrove: Enticing Ordinary People onto the Semantic Web via Instant Gratification
+SP 754
+OP 770
+
+RT Conference Proceedings
+ID 616545
+A1 Halevy,Alon,Y.
+A1 Madhavan,Jayant
+YR 2003
+T1 Corpus-Based Knowledge Representation
+SP 1567
+OP 1572
+
+RT Conference Proceedings
+ID 634807
+A1 Etzioni,Oren
+A1 Halevy,Alon,Y.
+A1 Levy,Henry,M.
+A1 Mcdowell,Luke
+YR 2003
+T1 Semantic Email: Adding Lightweight Data Manipulation Capabilities to the Email Habitat
+SP 13
+OP 18
+
+RT Journal Article
+ID 791679
+A1 Millstein,Todd,D.
+A1 Halevy,Alon,Y.
+A1 Friedman,Marc
+YR 2003
+T1 Query containment for data integration systems
+JF Journal of Computer and System Sciences
+VO 66
+SP 20
+OP 39
+IS 1
+
+RT Conference Proceedings
+ID 35943
+A1 Mcdowell,Luke
+A1 Etzioni,Oren
+A1 Gribble,Steven,D.
+A1 Halevy,Alon,Y.
+A1 Levy,Henry,M.
+A1 Pentney,William
+A1 Verma,Deepak
+A1 Vlasseva,Stani
+YR 2003
+T1 Evolving the Semantic Web with Mangrove
+
+RT Conference Proceedings
+ID 2375073
+A1 Madhavan,J.
+A1 Bernstein,P.
+A1 Chen,K.
+A1 Halevy,A.
+A1 Shenoy,P.
+YR 2003
+T1 Matching schemas by learning from a schema corpus
+
+RT Conference Proceedings
+ID 565361
+A1 Gupta,Ashish,Kumar
+A1 Suciu,Dan
+A1 Halevy,Alon,Y.
+YR 2003
+T1 The view selection problem for XML content based routing
+SP 68
+OP 77
+
+RT Conference Proceedings
+ID 3558359
+A1 Halevy,A.,Y
+A1 Zachary,G.,I
+A1 Mork,P
+A1 Tatarinov,I
+YR 2003
+T1 Peer Data Management Systems: Infrastructure for the Semantic Web
+
+RT Conference Proceedings
+ID 3709873
+A1 Halevy,A.
+A1 Ives,Z.
+A1 Mork,P.
+A1 Tatarinov,I.
+YR 2003
+T1 Scaling up the semantic web: Piazza: data management infrastructure for semantic web applications
+
+RT Journal Article
+ID 15222551
+A1 Doan,AnHai
+A1 Domingos,Pedro
+A1 Halevy,Alon
+YR 2003
+T1 Learning to Match the Schemas of Data Sources: A Multistrategy Approach
+JF Machine Learning
+VO 50
+SP 279
+OP 301
+IS 3
+
+RT Journal Article
+ID 2032515
+A1 Madhavan,Jayant
+A1 Bernstein,Philip
+A1 Chen,Kuang
+A1 Halevy,Alon
+A1 Shenoy,Pradeep
+YR 2003
+T1 Matching schemas by learning from others
+
+RT Journal Article
+ID 15712
+A1 Domingos,Pedro
+A1 Abe,Yeuhi
+A1 Anderson,Corin
+A1 Doan,AnHai
+A1 Fox,Dieter
+A1 Halevy,Alon
+A1 Hulten,Geoff
+A1 Kautz,Henry
+A1 Lau,Tessa
+A1 Liao,Lin
+A1 Madhavan,Jayant
+A1 Mausam
+A1 Patterson,Donald,J.
+A1 Richardson,Matthew
+A1 Sanghai,Sumit
+A1 Weld,Daniel
+A1 Wolfman,Steve
+YR 2003
+T1 Research on Statistical Relational Learning at the University of Washington
+
+RT Journal Article
+ID 44930
+A1 Doan,Anhai
+A1 Domingos,Pedro
+A1 Halevy,Alon
+YR 2003
+T1 Learning to Match Schemas of Data Sources
+
+RT Journal Article
+ID 27265188
+A1 Malamud,G.
+A1 Levi-Hevroni,D.
+A1 Levy,A.
+YR 2003
+T1 Two-Dimensional Model for Simulating Shock-Wave Interaction with Rigid Porous Materials
+JF Aiaa Journal
+VO 41
+SP 663
+OP 673
+IS 4
+
+RT Journal Article
+ID 854330
+A1 Halevy,Alon,Y.
+YR 2003
+T1 Learning about data integration challenges from day one
+JF Sigmod Record
+VO 32
+SP 16
+OP 17
+IS 3
+
+RT Journal Article
+ID 779352
+A1 Halevy,Alon,Y.
+A1 Madhavan,Jayant
+A1 Bernstein,Philip,A.
+YR 2003
+T1 Discovering Structure in a Corpus of Schemas
+JF IEEE Data(base) Engineering Bulletin
+VO 26
+SP 26
+OP 33
+IS 3
+
+RT Conference Proceedings
+ID 13276826
+A1 Halevy,Alon,Y.
+A1 Ives,Zachary,G.
+A1 Doan,AnHai
+YR 2003
+T1 Proceedings of the 2003 ACM SIGMOD International Conference on Management of Data, San Diego, California, USA, June 9-12, 2003
+
+RT Journal Article
+ID 39169077
+A1 Jacques,C
+A1 Recklies,A
+A1 Levy,A
+A1 Labat,A
+A1 Berenbaum,F
+YR 2003
+T1 Role of HC-gp39 in chondrogenesis: upregulation of SOX9 expression by HC-gp39 in mouse chondrocytes
+JF Arthritis Research & Therapy
+VO 5
+SP 54
+OP 2
+IS Suppl 3
+
+RT Conference Proceedings
+ID 489293
+A1 Doan,AnHai
+A1 Madhavan,Jayant
+A1 Domingos,Pedro
+A1 Halevy,Alon,Y.
+A1 Sridhar,M,S
+YR 2002
+T1 Learning to map between ontologies on the semantic web
+SP 662
+OP 673
+
+RT Conference Proceedings
+ID 7544
+A1 Madhavan,Jayant
+A1 Bernstein,Philip,A.
+A1 Domingos,Pedro
+A1 Halevy,Alon,Y.
+YR 2002
+T1 Representing and Reasoning about Mappings between Domain Models
+SP 80
+OP 86
+
+RT Journal Article
+ID 807527
+A1 Ives,Zachary,G.
+A1 Halevy,Alon,Y.
+A1 Weld,Daniel,S.
+YR 2002
+T1 An XML query engine for network-bound data
+JF The Vldb Journal
+VO 11
+SP 380
+OP 402
+IS 4
+
+RT Conference Proceedings
+ID 43609
+A1 Doan,Anhai
+A1 Halevy,Alon,Y.
+YR 2002
+T1 Efficiently Ordering Query Plans for Data Integration
+SP 393
+OP 402
+
+RT Conference Proceedings
+ID 3318805
+A1 Doan,A.
+A1 Madhavan,J.
+A1 Domingos,P.
+A1 Halevy,A.
+YR 2002
+T1 Learning to map ontologies on the Semantic Web
+
+RT Journal Article
+ID 58300
+A1 Mork,P.
+A1 Shaker,R.
+A1 Halevy,A.
+A1 Tarczy-Hornoch,P.
+YR 2002
+T1 PQL: A Declarative Query Language over Dynamic Biological Schemata
+
+RT Journal Article
+ID 807524
+A1 Chirkova,Rada
+A1 Halevy,Alon,Y.
+A1 Suciu,Dan
+YR 2002
+T1 A formal perspective on the view selection problem
+JF The Vldb Journal
+VO 11
+SP 216
+OP 237
+IS 3
+
+RT Conference Proceedings
+ID 634787
+A1 Gupta,Ashish,Kumar
+A1 Halevy,Alon,Y.
+A1 Suciu,Dan
+YR 2002
+T1 View Selection for Stream Processing
+SP 83
+OP 88
+
+RT Journal Article
+ID 1628169
+A1 Izuhara,T.
+A1 Fujita,J.
+A1 Levy,A.
+YR 2002
+T1 Integration of magnetooptical waveguides onto a III-V semiconductor surface
+JF IEEE Photonics Technology Letters
+VO 14
+SP 167
+OP 169
+IS 2
+
+RT Journal Article
+ID 24400
+A1 Etzioni,Oren
+A1 Gribble,Steve
+A1 Halevy,Alon
+A1 Levy,Henry
+A1 McDowell,Luke
+YR 2002
+T1 An Evolutionary Approach to the Semantic Web
+
+RT Journal Article
+ID 3619161
+A1 Mork,P.
+A1 Gribble,S.
+A1 Halevy,A.
+YR 2002
+T1 Propagating updates in a peer data management system
+
+RT Journal Article
+ID 58822057
+A1 Levy,A
+A1 au
+YR 2002
+T1 SPAR &endash; ULTRA-DEEPWATER PETROLEUM PLATFORMS VIRTUAL REALITY SIMULATION SYSTEM
+
+RT Journal Article
+ID 53448874
+A1 Piccirillo,L.
+A1 dall'Oglio,G.
+A1 Farese,P.
+A1 Gundersen,J.
+A1 Keating,B.
+A1 Klawikowski,S.
+A1 Knox,L.
+A1 Levy,A.
+A1 Lubin,P.
+A1 O'dell,C.
+A1 Timbie,P.
+A1 Ruhl,J.
+YR 2002
+T1 COMPASS: A 2.6 m telescope for CMBR polarization studies
+VO 616
+SP 183
+OP 186
+
+RT Journal Article
+ID 53388025
+A1 Villela,T.
+A1 Wuensche,C.
+A1 Figueiredo,N.
+A1 Pina,A.
+A1 Tello,C.
+A1 Meinhold,P.
+A1 Childers,J.
+A1 Kangas,M.
+A1 Levy,A.
+A1 Parendo,S.
+A1 Lubin,P.
+YR 2002
+T1 The Ace Project: a Program to Measure Anisotropies and Polarization in the Cosmic Microwave Background Radiation
+
+RT Conference Proceedings
+ID 13298617
+A1 Halevy,Alon,Y.
+A1 Gal,Avigdor
+YR 2002
+T1 Next Generation Information Technologies and Systems, 5th International Workshop, NGITS 2002, Caesarea, Israel, June 24-25, 2002, Proceedings
+
+RT Conference Proceedings
+ID 84754
+A1 Doan,AnHai
+A1 Domingos,Pedro
+A1 Halevy,Alon,Y.
+YR 2001
+T1 Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach
+SP 509
+OP 520
+
+RT Journal Article
+ID 807438
+A1 Halevy,Alon,Y.
+YR 2001
+T1 Answering queries using views: A survey
+JF The Vldb Journal
+VO 10
+SP 270
+OP 294
+IS 4
+
+RT Journal Article
+ID 92859
+A1 Tatarinov,Igor
+A1 Ives,Zachary,G.
+A1 Halevy,Alon,Y.
+A1 Weld,Daniel,S.
+YR 2001
+T1 Updating XML
+JF Sigmod Record
+VO 30
+SP 413
+OP 424
+IS 2
+
+RT Conference Proceedings
+ID 634814
+A1 Gribble,Steven,D.
+A1 Halevy,Alon,Y.
+A1 Ives,Zachary,G.
+A1 Rodrig,Maya
+A1 Suciu,Dan
+YR 2001
+T1 What Can Database Do for Peer-to-Peer?
+SP 31
+OP 36
+
+RT Journal Article
+ID 807454
+A1 Pottinger,Rachel
+A1 Halevy,Alon,Y.
+YR 2001
+T1 MiniCon: A scalable algorithm for answering queries using views
+JF The Vldb Journal
+VO 10
+SP 182
+OP 198
+IS 2-3
+
+RT Conference Proceedings
+ID 83662
+A1 Chirkova,Rada
+A1 Halevy,Alon,Y.
+A1 Suciu,Dan
+YR 2001
+T1 A Formal Perspective on the View Selection Problem
+SP 59
+OP 68
+
+RT Conference Proceedings
+ID 141632
+A1 Gribble,Steven
+A1 Halevy,Alon
+A1 Ives,Zachary
+A1 Rodrig,Maya
+A1 Suciu,Dan
+YR 2001
+T1 What Can Peer-to-Peer Do for Databases, and Vice Versa?
+
+RT Journal Article
+ID 122826
+A1 Mork,P.
+A1 Halevy,A.
+A1 Tarczy-Hornoch,P.
+YR 2001
+T1 A Model for Data Integration Systems of Biomedical Data Applied to Online Genetic Databases
+
+RT Conference Proceedings
+ID 125916
+A1 Draper,Denise
+A1 Halevy,Alon,Y.
+A1 Weld,Daniel,S.
+YR 2001
+T1 The Nimble XML Data Integration System
+SP 155
+OP 160
+
+RT Journal Article
+ID 788625
+A1 Halevy,Alon,Y.
+A1 Mumick,Inderpal,Singh
+A1 Sagiv,Yehoshua
+A1 Shmueli,Oded
+YR 2001
+T1 Static analysis in datalog extensions
+JF Journal of The ACM
+VO 48
+SP 971
+OP 1012
+IS 5
+
+RT Journal Article
+ID 83237
+A1 Ives,Zachary,G.
+A1 Halevy,Alon,Y.
+A1 Weld,Daniel,S.
+YR 2001
+T1 Integrating Network-Bound XML Data
+JF IEEE Data(base) Engineering Bulletin
+VO 24
+SP 20
+OP 26
+IS 2
+
+RT Journal Article
+ID 1514195
+A1 Levy,A.
+A1 Yang,H.,C.
+A1 Steel,M.,J.
+A1 Fujita,J.
+YR 2001
+T1 Flattop response in one-dimensional magnetic photonic bandgap structures with Faraday rotation enhancement
+JF IEEE/OSA Journal of Lightwave Technology
+VO 19
+SP 1964
+OP 1969
+IS 12
+
+RT Conference Proceedings
+ID 3933506
+A1 Draper,D.
+A1 Halevy,A.,Y.
+A1 Weld,D.,S.
+YR 2001
+T1 The nimble integration system
+
+RT Journal Article
+ID 124349
+A1 Draper,Denise
+A1 Halevy,Alon,Y.
+A1 Weld,Daniel,S.
+YR 2001
+T1 The Nimble Integration Engine
+JF Sigmod Record
+VO 30
+SP 567
+OP 568
+IS 2
+
+RT Journal Article
+ID 3019361
+A1 Doan,A.
+A1 Halevy,A.,Y.
+YR 2001
+T1 Efficiently ordering query plans
+
+RT Journal Article
+ID 14415234
+A1 Doan,AnHai
+A1 Domingos,Pedro
+A1 Halevy,Alon,Y.
+YR 2001
+T1 Reconciling schemas of disparate data sources: a machine-learning approach
+JF Sigmod Record
+VO 30
+SP 509
+OP 520
+IS 2
+
+RT Journal Article
+ID 39217291
+A1 Tatarinov,Igor
+A1 Ives,Zachary,G.
+A1 Halevy,Alon,Y.
+A1 Weld,Daniel,S.
+YR 2001
+T1 Updating XML
+JF Sigmod Record
+SP 413
+OP 424
+
+RT Journal Article
+ID 39217302
+A1 Draper,Denise
+A1 Halevy,Alon,Y.
+A1 Weld,Daniel,S.
+YR 2001
+T1 The nimble integration engine
+JF Sigmod Record
+SP 567
+OP 568
+
+RT Journal Article
+ID 52135314
+A1 Natoli,P.
+A1 Bersanelli,M.
+A1 Childers,J.
+A1 Figueiredo,N.
+A1 Halevi,D.
+A1 Kangas,M.
+A1 Levy,A.
+A1 Lubin,P.
+A1 Mandolesi,N.
+A1 Meinhold,P.
+A1 Parendo,S.
+A1 Staren,J.
+A1 Villela,T.
+A1 Wuensche,C.
+YR 2001
+T1 Imaging the cosmic microwave background: The BEAST experiment
+VO 555
+SP 324
+OP 327
+
+RT Journal Article
+ID 778774
+A1 Halevy,Alon,Y.
+YR 2001
+T1 Letter from the Special Issue Editor
+JF IEEE Data(base) Engineering Bulletin
+VO 24
+SP 2
+IS 2
+
+RT Book, Whole
+ID 49052964
+A1 Mason,D.,J.
+A1 Levy,A.
+YR 2001
+T1 Two-layer model for non-suspension gas-solids flow of fine powders in pipes
+VO 10
+SP 361
+OP 368
+
+RT Conference Proceedings
+ID 432721
+A1 Halevy,Alon,Y.
+YR 2001
+T1 Adaptive Query Processing: Enabling Web-based Query Processing
+SP 336
+OP 336
+
+RT Journal Article
+ID 59212998
+A1 Levy,A.
+YR 2001
+T1 A Lifetime Portfolio of Risky and Risk-Free Sexual Behaviour and the Prevalence of AIDS
+
+RT Journal Article
+ID 88808
+A1 Bernstein,Phillip,A.
+A1 Halevy,Alon,Y.
+A1 Pottinger,Rachel,A.
+YR 2000
+T1 A vision for management of complex models
+JF Sigmod Record
+VO 29
+SP 55
+OP 63
+IS 4
+
+RT Journal Article
+ID 2090409
+A1 Bernstein,P.,A.
+A1 Halevy,A.
+YR 2000
+T1 Pottinger: A Vision for Management of Complex Models
+JF Sigmod Record
+
+RT Conference Proceedings
+ID 2363840
+A1 Pottinger,Rachel
+A1 Levy,Alon,Y.
+YR 2000
+T1 A Scalable Algorithm for Answering Queries Using Views
+SP 484
+OP 495
+
+RT Journal Article
+ID 746129
+A1 Duschka,Oliver,M.
+A1 Genesereth,Michael,R.
+A1 Levy,Alon,Y.
+YR 2000
+T1 Recursive Query Plans for Data Integration
+JF Journal of Logic Programming
+VO 43
+SP 49
+OP 73
+IS 1
+
+RT Conference Proceedings
+ID 634803
+A1 Doan,Anhai
+A1 Domingos,Pedro
+A1 Levy,Alon,Y.
+YR 2000
+T1 Learning Source Description for Data Integration
+SP 81
+OP 86
+
+RT Journal Article
+ID 74921
+A1 Fernández,Mary,F.
+A1 Florescu,Daniela
+A1 Levy,Alon,Y.
+A1 Suciu,Dan
+YR 2000
+T1 Declarative Specification of Web Sites with Strudel
+JF The Vldb Journal
+VO 9
+SP 38
+OP 55
+IS 1
+
+RT Journal Article
+ID 668473
+A1 Ives,Zachary,G.
+A1 Levy,Alon,Y.
+A1 Madhavan,Jayant
+A1 Pottinger,Rachel
+A1 Saroiu,Stefan
+A1 Tatarinov,Igor
+A1 Betzler,Shiori
+A1 Chen,Qiong
+A1 Jaslikowska,Ewa
+A1 Su,Jing
+A1 Yeung,Wai,Tak,Theodora
+YR 2000
+T1 Self-Organizing Data Sharing Communities with SAGRES
+JF Sigmod Record
+VO 29
+SP 582
+IS 2
+
+RT Journal Article
+ID 132228
+A1 Halevy,Alon,Y.
+YR 2000
+T1 Theory of answering queries using views
+JF Sigmod Record
+VO 29
+SP 40
+OP 47
+IS 4
+
+RT Journal Article
+ID 247824
+A1 Ives,Zachary
+A1 Levy,Alon
+A1 Weld,Daniel
+YR 2000
+T1 Efficient Evaluation of Regular Path Expressions on Streaming XML Data
+
+RT Conference Proceedings
+ID 131133
+A1 Millstein,Todd,D.
+A1 Levy,Alon,Y.
+A1 Friedman,Marc
+YR 2000
+T1 Query containment for data integration systems
+SP 67
+OP 75
+
+RT Journal Article
+ID 168999
+A1 Levy,Alon,Y.
+A1 Weld,Daniel,S.
+YR 2000
+T1 Intelligent Internet systems
+JF Artificial Intelligence
+VO 118
+SP 1
+OP 14
+IS 1-2
+
+RT Conference Proceedings
+ID 3227089
+A1 Halevy,A.,Y.
+YR 2000
+T1 In: Logic-based techniques in data integration
+
+RT Journal Article
+ID 214213
+A1 Ives,Zachary,G.
+A1 Levy,Alon,Y.
+A1 Weld,Daniel,S.
+A1 Florescu,Daniela
+A1 Friedman,Marc
+YR 2000
+T1 Adaptive Query Processing for Internet Applications
+JF IEEE Data(base) Engineering Bulletin
+VO 23
+SP 19
+OP 26
+IS 2
+
+RT Journal Article
+ID 2060777
+A1 Bernstein,P.,A.
+A1 Halevy,A.,Y.
+A1 Pottinger,R.,A.
+YR 2000
+T1 Model management: Managing complex information structures
+JF Sigmod Record
+
+RT Journal Article
+ID 2054184
+A1 Lomet,D.
+A1 Levy,A.
+YR 2000
+T1 Special issue on adaptive query processing
+
+RT Journal Article
+ID 2920354
+A1 Fernandez,Mary,F.
+A1 Florescu,Daniela
+A1 Levy,Alon,Y.
+YR 2000
+T1 Dan Suciu: Declarative Specification of Web Sites with Strudel
+JF The Vldb Journal
+
+RT Conference Proceedings
+ID 2406242
+A1 Ives,Z.
+A1 Levy,A.
+A1 Madhavan,J.
+A1 Pottinger,R.
+A1 Saroiu,S.
+A1 Tatarinov,I.
+A1 Jaslikowska,E.
+A1 Yeung,T.
+YR 2000
+T1 Self-organizing data sharing communities with SAGRES: System demonstration
+
+RT Book, Whole
+ID 181313
+A1 Catania,Barbara
+A1 Ferrari,Elena
+A1 Levy,Alon,Y.
+A1 Mendelzon,Alberto,O.
+YR 2000
+T1 XML and Object Technology
+SP 191
+OP 202
+
+RT Journal Article
+ID 2922217
+A1 Doan,AnHai
+A1 Domingos,Pedro
+A1 Levy,Alon,Y.
+YR 2000
+T1 Data Integration: A "Killer App" for Multistrategy Learning
+
+RT Journal Article
+ID 46352381
+A1 Fernández,Mary
+A1 Florescu,Daniela
+A1 Levy,Alon
+A1 Suciu,Dan
+YR 2000
+T1 Declarative specification of Web sites with S trudel
+JF The Vldb Journal
+VO 9
+SP 38
+OP 55
+IS 1
+
+RT Journal Article
+ID 39217261
+A1 Ives,Zachary
+A1 Levy,Alon
+A1 Madhavan,Jayant
+A1 Pottinger,Rachel
+A1 Saroiu,Stefan
+A1 Tatarinov,Igor
+A1 Betzler,Shiori
+A1 Chen,Qiong
+A1 Jaslikowska,Ewa
+A1 Su,Jing
+A1 Yeung,Wai,Tak,Theodora
+YR 2000
+T1 Self-organizing data sharing communities with SAGRES
+JF Sigmod Record
+SP 582
+
+RT Journal Article
+ID 778819
+A1 Levy,Alon,Y.
+YR 2000
+T1 Letter from the Special Issue Editor
+JF IEEE Data(base) Engineering Bulletin
+VO 23
+SP 2
+IS 2
+
+RT Journal Article
+ID 704126
+A1 Deutsch,Alin
+A1 Fernández,Mary,F.
+A1 Florescu,Daniela
+A1 Levy,Alon,Y.
+A1 Suciu,Dan
+YR 1999
+T1 A Query Language for XML
+JF Computer Networks
+VO 31
+SP 1155
+OP 1169
+IS 11-16
+
+RT Journal Article
+ID 298363
+A1 Ives,Zachary,G.
+A1 Florescu,Daniela
+A1 Friedman,Marc
+A1 Levy,Alon,Y.
+A1 Weld,Daniel,S.
+YR 1999
+T1 An Adaptive Query Execution System for Data Integration
+JF Sigmod Record
+VO 28
+SP 299
+OP 310
+IS 2
+
+RT Journal Article
+ID 170599
+A1 Florescu,Daniela
+A1 Levy,Alon,Y.
+A1 Manolescu,Ioana
+A1 Suciu,Dan
+YR 1999
+T1 Query Optimization in the Presence of Limited Access Patterns
+JF Sigmod Record
+VO 28
+SP 41
+OP 60
+IS 2
+
+RT Conference Proceedings
+ID 302004
+A1 Friedman,Marc
+A1 Levy,Alon,Y.
+A1 Millstein,Todd,D.
+YR 1999
+T1 Navigational Plans For Data Integration
+SP 67
+OP 73
+
+RT Conference Proceedings
+ID 175116
+A1 Levy,Alon,Y.
+YR 1999
+T1 Logic-Based Techniques In Data Integration
+
+RT Conference Proceedings
+ID 172075
+A1 Florescu,Daniela
+A1 Levy,Alon,Y.
+A1 Suciu,Dan
+A1 Yagoub,Khaled
+YR 1999
+T1 Optimization of Run-time Management of Data Intensive Web-sites
+SP 627
+OP 638
+
+RT Journal Article
+ID 192507
+A1 Deutsch,Alin
+A1 Fernández,Mary,F.
+A1 Florescu,Daniela
+A1 Levy,Alon,Y.
+A1 Maier,David
+A1 Suciu,Dan
+YR 1999
+T1 Querying XML Data
+JF IEEE Data(base) Engineering Bulletin
+VO 22
+SP 10
+OP 18
+IS 3
+
+RT Journal Article
+ID 790890
+A1 Levy,Alon,Y.
+A1 Rajaraman,Anand
+A1 Ullman,Jeffrey,D.
+YR 1999
+T1 Answering Queries Using Limited External Query Processors
+JF Journal of Computer and System Sciences
+VO 58
+SP 69
+OP 82
+IS 1
+
+RT Conference Proceedings
+ID 614919
+A1 Fernández,Mary,F.
+A1 Florescu,Daniela
+A1 Levy,Alon,Y.
+A1 Suciu,Dan
+YR 1999
+T1 Verifying Integrity Constraints on Web Sites
+SP 614
+OP 619
+
+RT Conference Proceedings
+ID 281042
+A1 Anderson,Corin,R.
+A1 Levy,Alon,Y.
+A1 Weld,Daniel,S.
+YR 1999
+T1 Declarative Web Site Management with Tiramisu
+SP 19
+OP 24
+
+RT Conference Proceedings
+ID 1286139
+A1 Ives,Z.
+A1 Florescu,D.
+A1 Friedman,M.
+A1 Levy,A.
+A1 Weld,D.
+YR 1999
+T1 An adaptive query execution engine for data integration
+
+RT Journal Article
+ID 2725842
+A1 Halevy,A.
+YR 1999
+T1 Answering Queries Using Views
+
+RT Journal Article
+ID 695714
+A1 Levy,Alon,Y.
+YR 1999
+T1 Combibining Artificial Intelligence and Databases for Data Integration
+
+RT Conference Proceedings
+ID 170556
+A1 Florescu,Daniela
+A1 Levy,Alon,Y.
+A1 Suciu,Dan
+A1 Yagoub,Khaled
+YR 1999
+T1 Run-Time Management of Data Intensive Web Sites
+SP 7
+OP 12
+
+RT Conference Proceedings
+ID 1977257
+A1 Fernandez,M.
+A1 Florescu,D.
+A1 Kang,J.
+A1 Levy,A.
+A1 Suciu,D.
+YR 1999
+T1 Experiences with a web-site management system
+
+RT Conference Proceedings
+ID 376515
+A1 Doan,Anhai
+A1 Levy,Alon,Y.
+YR 1999
+T1 Efficiently Ordering Query Plans for Data Integration
+
+RT Journal Article
+ID 3527554
+A1 Levy,A.
+YR 1999
+T1 Optimal Low Diemensional Approximation, Theoretical and Computational Aspects
+
+RT Journal Article
+ID 48745681
+A1 Sorek,S.
+A1 Levy,A.
+A1 Ben-dor,G.
+A1 Smeulders,D.
+YR 1999
+T1 Contributions to Theoretical/Experimental Developments in Shock Waves Propagation in Porous Media
+JF Transport in Porous Media
+VO 34
+SP 63
+OP 100
+IS 1
+
+RT Journal Article
+ID 3810829
+A1 Fernandez,M.
+A1 Florescu,D.
+A1 Levy,A.
+A1 Suciu,D.
+A1 Kang,J.
+A1 Sudarsky,S.
+A1 Tatarinov,I.
+YR 1999
+T1 Strudel Website Management System User''s Guide
+
+RT Journal Article
+ID 39217184
+A1 Ives,Zachary,G.
+A1 Florescu,Daniela
+A1 Friedman,Marc
+A1 Levy,Alon
+A1 Weld,Daniel,S.
+YR 1999
+T1 An adaptive query execution system for data integration
+JF Sigmod Record
+SP 299
+OP 310
+
+RT Journal Article
+ID 39217185
+A1 Florescu,Daniela
+A1 Levy,Alon
+A1 Manolescu,Ioana
+A1 Suciu,Dan
+YR 1999
+T1 Query optimization in the presence of limited access patterns
+JF Sigmod Record
+SP 311
+OP 322
+
+RT Journal Article
+ID 51797543
+A1 Desforges,F.,X.
+A1 Blocksidge,B.
+A1 Levy,A.
+A1 Girault,M.
+A1 Martin,Ph.
+A1 Lefevre,H.,C.
+A1 Boyer,C.
+A1 Viguie,J.,C.
+A1 Harter,I.
+A1 Cecil,M.
+A1 Farr,W.
+YR 1999
+T1 Applications of Fiber-Optic Refractive Index Measurements in Chemical Processing
+VO 3746
+SP 248
+
+RT Journal Article
+ID 27713581
+A1 Staren,J.
+A1 Meinhold,P.
+A1 Childers,J.
+A1 Lim,M.
+A1 Levy,A.
+A1 Lubin,P.
+A1 Seiffert,M.
+A1 Gaier,T.
+A1 Figueiredo,N.
+A1 Villela,T.
+A1 Wuensche,C.,A.
+A1 Tegmark,M.
+A1 Oliveira-Costa,A.,de
+YR 1999
+T1 A Spin Modulated Telescope to Make Two Dimensional CMB Maps
+
+RT Journal Article
+ID 705941
+A1 Levy,Alon,Y.
+YR 1999
+T1 Review - Answering Recursive Queries Using Views
+JF ACM Sigmod Digital Review
+VO 1
+
+RT Journal Article
+ID 705990
+A1 Levy,Alon,Y.
+YR 1999
+T1 Review - The GMAP: A Versatile Tool for Physical Data Independence
+JF ACM Sigmod Digital Review
+VO 1
+
+RT Journal Article
+ID 705991
+A1 Levy,Alon,Y.
+YR 1999
+T1 Review - Complexity of Answering Queries Using Materialized Views
+JF ACM Sigmod Digital Review
+VO 1
+
+RT Journal Article
+ID 705992
+A1 Levy,Alon,Y.
+YR 1999
+T1 Review - Decidable Reasoning in Terminological Knowledge Representation Systems
+JF ACM Sigmod Digital Review
+VO 1
+
+RT Conference Proceedings
+ID 2531247
+A1 Deutsch,Alin
+A1 Fernandez,Mary,F.
+A1 Florescu,Daniela
+A1 Levy,Alon,Y.
+A1 Suciu,Dan
+YR 1998
+T1 XML-QL: A Query Language for XML
+
+RT Journal Article
+ID 331128
+A1 Florescu,Daniela
+A1 Levy,Alon,Y.
+A1 Mendelzon,Alberto,O.
+YR 1998
+T1 Database techniques for the World-Wide Web: a survey
+JF Sigmod Record
+VO 27
+SP 59
+OP 74
+IS 3
+
+RT Conference Proceedings
+ID 386520
+A1 Fernández,Mary,F.
+A1 Florescu,Daniela
+A1 Kang,Jaewoo
+A1 Levy,Alon,Y.
+A1 Suciu,Dan
+YR 1998
+T1 Catching the boat with Strudel: experiences with a Web Site management system
+SP 414
+OP 425
+
+RT Journal Article
+ID 697580
+A1 Levy,Alon,Y.
+A1 Rousset,Marie-christine
+YR 1998
+T1 Combining Horn Rules and Description Logics in CARIN
+JF Artificial Intelligence
+VO 104
+SP 165
+OP 209
+IS 1-2
+
+RT Conference Proceedings
+ID 308313
+A1 Florescu,Daniela
+A1 Levy,Alon,Y.
+A1 Suciu,Dan
+YR 1998
+T1 Query containment for conjunctive queries with regular expressions
+SP 139
+OP 148
+
+RT Journal Article
+ID 306216
+A1 Levy,Alon,Y.
+YR 1998
+T1 The Information Manifold Approach to Data Integration
+
+RT Conference Proceedings
+ID 2009313
+A1 Fernandez,Mary,F.
+A1 Florescu,Daniela
+A1 Kang,Jaewoo
+A1 Levy,Alon,Y.
+A1 Suciu,Dan
+YR 1998
+T1 Catching the Boat with Strudel: Experiences with a WebSite Management System
+
+RT Journal Article
+ID 698099
+A1 Levy,Alon,Y.
+A1 Rousset,Marie-christine
+YR 1998
+T1 Verification of Knowledge Bases Based on Containment Checking
+JF Artificial Intelligence
+VO 101
+SP 227
+OP 250
+IS 1-2
+
+RT Journal Article
+ID 2098573
+A1 Levy,A.
+A1 Knoblock,C.
+A1 Minton,S.
+A1 Cohen,W.
+YR 1998
+T1 Trends and controversies: Information integration
+JF International Journal of Intelligent Systems
+
+RT Conference Proceedings
+ID 338478
+A1 Fernandez,Mary,F.
+A1 Florescu,Daniela
+A1 Levy,Alon,Y.
+A1 Suciu,Dan
+YR 1998
+T1 Reasoning About WebSite Structure
+
+RT Journal Article
+ID 299153
+A1 Fernández,Mary,F.
+A1 Florescu,Daniela
+A1 Kang,Jaewoo
+A1 Levy,Alon,Y.
+A1 Suciu,Dan
+YR 1998
+T1 Overview of Strudel - A WebSite Management System
+JF Networking and Information Systems Journal
+VO 1
+SP 115
+OP 140
+IS 1
+
+RT Conference Proceedings
+ID 2161082
+A1 Fernández,Mary,F.
+A1 Florescu,Daniela
+A1 Levy,Alon,Y.
+A1 Suciu,Dan
+YR 1998
+T1 Warehousing and incremental evaluation for Web Site management
+
+RT Journal Article
+ID 1659841
+A1 Hearst,M.,A.
+A1 Levy,A.,Y.
+A1 Knoblock,C.
+A1 Minton,S.
+A1 Cohen,W.
+YR 1998
+T1 Information integration
+JF IEEE Intelligent Systems & Their Applications
+VO 13
+SP 12
+OP 24
+IS 5
+
+RT Journal Article
+ID 167690
+A1 Fernandez,Mary,F.
+A1 Florescu,Daniela
+A1 Levy,Alon,Y.
+A1 Suciu,Dan
+YR 1998
+T1 WebSite Management: The Strudel Approach
+JF IEEE Data(base) Engineering Bulletin
+VO 21
+SP 14
+OP 20
+IS 2
+
+RT Journal Article
+ID 26201365
+A1 Levy,A.
+A1 Ben-Dor,G.
+A1 Sorek,S.
+YR 1998
+T1 Numerical investigation of the propagation of shock waves in rigid porous materials: flow field behavior and parametric study
+JF Shock Waves
+VO 8
+SP 127
+OP 137
+IS 3
+
+RT Book, Whole
+ID 585923
+A1 Florescu,Daniela
+A1 Levy,Alon,Y.
+YR 1998
+T1 Recent Progress in Data Integration - A Tutorial
+SP 1
+OP 2
+
+RT Journal Article
+ID 1379469
+A1 Florescu,D.
+A1 Levy,A.
+A1 Mendelzon,A.
+YR 1998
+T1 Database techniques for the world
+
+RT Conference Proceedings
+ID 6595088
+A1 Deutsch,Alin
+A1 Fernández,Mary,F.
+A1 Florescu,Daniela
+A1 Levy,Alon,Y.
+A1 Suciu,Dan
+YR 1998
+T1 XML-QL
+
+RT Conference Proceedings
+ID 522715
+A1 Rabinovich,Michael
+A1 Bowman,C.,Mic
+A1 Garcia-molina,Hector
+A1 Levy,Alon,Y.
+A1 Malaika,Susan
+A1 Mendelzon,Alberto,O.
+YR 1998
+T1 WWW and the Internet - Did We Miss the Boat? (Panel)
+SP 74
+
+RT Journal Article
+ID 14415123
+A1 Fernaindez,Mary
+A1 Florescu,Daniela
+A1 Kang,Jaewoo
+A1 Levy,Alon
+A1 Suciu,Dan
+YR 1998
+T1 Catching the boat with Strudel: experiences with a Website management system
+JF Sigmod Record
+VO 27
+SP 414
+OP 425
+IS 2
+
+RT Conference Proceedings
+ID 578246
+A1 Florescu,Daniela
+A1 Levy,Alon,Y.
+A1 Suciu,Dan
+YR 1998
+T1 Is Website Management a Database Problem?
+SP 696
+
+RT Journal Article
+ID 27728259
+A1 Heiselberg,H.
+A1 Levy,A.
+YR 1998
+T1 Elliptic Flow and HBT in non-central Nuclear Collisions
+JF Physical Review C
+
+RT Conference Proceedings
+ID 2161083
+A1 Levy,Alon,Y.
+YR 1998
+T1 Answering queries using views: algorithms, applications and opportunities
+
+RT Journal Article
+ID 59213001
+A1 Levy,A.
+YR 1998
+T1 Would a Rational Lucy Take-Off Without Accessing the Probability of a Crash Landing?
+
+RT Journal Article
+ID 324657
+A1 Fernandez,Mary,F.
+A1 Florescu,Daniela
+A1 Levy,Alon,Y.
+A1 Suciu,Dan
+YR 1997
+T1 A query language for a Website management system
+JF Sigmod Record
+VO 26
+SP 4
+OP 11
+IS 3
+
+RT Conference Proceedings
+ID 321672
+A1 Fernández,Mary,F.
+A1 Florescu,Daniela
+A1 Kang,Jaewoo
+A1 Levy,Alon,Y.
+A1 Suciu,Dan
+YR 1997
+T1 STRUDEL: A Website Management System
+SP 549
+OP 552
+
+RT Journal Article
+ID 2908
+A1 Levy,Alon
+A1 Suciu,Dan
+A1 Florescu,Daniela
+A1 Fernandez,Mary
+YR 1997
+T1 A Query Language and Processor for a WebSite Management System
+JF Sigmod Record
+
+RT Conference Proceedings
+ID 565283
+A1 Beeri,Catriel
+A1 Levy,Alon,Y.
+A1 Rousset,Marie-Christine
+YR 1997
+T1 Rewriting queries using views in description logics
+SP 99
+OP 108
+
+RT Conference Proceedings
+ID 361295
+A1 Duschka,Oliver,M.
+A1 Levy,Alon,Y.
+YR 1997
+T1 Recursive Plans for Information Gathering
+SP 778
+OP 784
+
+RT Conference Proceedings
+ID 1389730
+A1 Fernandez,M.
+A1 Florescu,D.
+A1 Kang,J.
+A1 Levy,A.
+A1 Suciu,D.
+YR 1997
+T1 System demonstration strudel: a web-site management system
+
+RT Conference Proceedings
+ID 297261
+A1 Florescu,Daniela
+A1 Koller,Daphne
+A1 Levy,Alon,Y.
+YR 1997
+T1 Using Probabilistic Information in Data Integration
+SP 216
+OP 225
+
+RT Conference Proceedings
+ID 491887
+A1 Koller,Daphne
+A1 Levy,Alon,Y.
+A1 Pfeffer,Avi
+YR 1997
+T1 P-CLASSIC: A Tractable Probablistic Description Logic
+SP 390
+OP 397
+
+RT Conference Proceedings
+ID 4308916
+A1 Levy,Alon,Y.
+A1 Suciu,Dan
+YR 1997
+T1 Deciding Containment for Queries with Complex Objects
+SP 20
+OP 31
+
+RT Conference Proceedings
+ID 180232
+A1 Levy,Alon,Y.
+A1 Suciu,Dan
+YR 1997
+T1 Deciding Containment for Queries with Complex Objects and Aggregations
+
+RT Journal Article
+ID 697578
+A1 Levy,Alon,Y.
+A1 Fikes,Richard,E.
+A1 Sagiv,Yehoshua
+YR 1997
+T1 Speeding up Inferences Using Relevance Reasoning: A Formalism and Algorithms
+JF Artificial Intelligence
+VO 97
+SP 83
+OP 136
+IS 1-2
+
+RT Book, Whole
+ID 321386
+A1 Ashish,Naveen
+A1 Knoblock,Craig,A.
+A1 Levy,Alon,Y.
+YR 1997
+T1 Information Gathering Plans With Sensing Actions
+SP 13
+OP 25
+
+RT Journal Article
+ID 1307536
+A1 Florescu,D.
+A1 Levy,A.
+A1 Suciu,D.
+YR 1997
+T1 A query optimization algorithm for semistructured data
+
+RT Journal Article
+ID 81037
+A1 Levy,Alon,Y.
+A1 Iwasaki,Yumi
+A1 Fikes,Richard
+YR 1997
+T1 Automated Model Selection for Simulation Based on Relevance Reasoning
+JF Artificial Intelligence
+VO 96
+SP 351
+OP 394
+IS 2
+
+RT Journal Article
+ID 26201350
+A1 Schotz,M.
+A1 Levy,A.
+A1 Ben-Dor,G.
+A1 Igra,O.
+YR 1997
+T1 Analytical prediction of the wave configuration size in steady flow Mach reflections
+JF Shock Waves
+VO 7
+SP 363
+OP 372
+IS 6
+
+RT Journal Article
+ID 27010688
+A1 Ben-Dor,G.
+A1 Levy,A.
+A1 Sorek,S.
+YR 1997
+T1 Numerical investigation of the propagation of shock waves in rigid porous materials : Solution of the Riemann problem
+JF International Journal of Numerical Methods for Heat & Fluid Flow
+VO 7
+SP 801
+OP 813
+IS 8
+
+RT Conference Proceedings
+ID 4453099
+A1 Levy,Alon,Y.
+A1 Suciu,Dan
+YR 1997
+T1 Deciding containment for queries with complex objects (extended abstract)
+
+RT Conference Proceedings
+ID 348513
+A1 Levy,Alon,Y.
+A1 Rousset,Marie-christine
+YR 1997
+T1 Verification of Knowledge Bases: a Unifying Logical View
+SP 7
+OP 18
+
+RT Conference Proceedings
+ID 50089331
+A1 Swecker,A.
+A1 Strojwas,Andrzej
+A1 Li,Xiaolei
+A1 Levy,A.
+YR 1997
+T1 Simulation of defect detection schemes for wafer inspection in VLSI manufacturing
+
+RT Journal Article
+ID 14415105
+A1 Fernandez,Mary
+A1 Florescu,Daniela
+A1 Kang,Jaewoo
+A1 Levy,Alon
+A1 Suciu,Dan
+YR 1997
+T1 STRUDEL: a Web site management system
+JF Sigmod Record
+VO 26
+SP 549
+OP 552
+IS 2
+
+RT Conference Proceedings
+ID 13258792
+A1 Brachman,Ronald,J.
+A1 Donini,Francesco,M.
+A1 Franconi,Enrico
+A1 Horrocks,Ian
+A1 Levy,Alon,Y.
+A1 Rousset,Marie-Christine
+YR 1997
+T1 Proceedings of the 1997 International Workshop on Description Logics, Université Paris-Sud, Centre d'Orsay, Laboratoire de Recherche en Informatique LRI
+
+RT Conference Proceedings
+ID 50103514
+A1 Swecker,Aaron,L.
+A1 Strojwas,Anbj,J.
+A1 Li,Xiaolei
+A1 Levy,A.
+A1 Bell,B.
+YR 1997
+T1 Optimization of CMP defect detection schemes [VLSI manufacture]
+
+RT Journal Article
+ID 58522084
+A1 Levy,A.
+YR 1997
+T1 Median Income Versus Per Capita Income: Implications for Assessing Growth and Convergence
+
+RT Conference Proceedings
+ID 358448
+A1 Levy,Alon,Y.
+A1 Rajaraman,Anand
+A1 Ordille,Joann,J.
+YR 1996
+T1 Querying Heterogeneous Information Sources Using Source Descriptions
+SP 251
+OP 262
+
+RT Conference Proceedings
+ID 341771
+A1 Levy,Alon,Y.
+A1 Rajaraman,Anand
+A1 Ordille,Joann,J.
+YR 1996
+T1 Query-Answering Algorithms for Information Agents
+SP 40
+OP 47
+
+RT Conference Proceedings
+ID 313297
+A1 Srivastava,Divesh
+A1 Dar,Shaul
+A1 Jagadish,H.,V.
+A1 Levy,Alon,Y.
+YR 1996
+T1 Answering Queries with Aggregation Using Views
+SP 318
+OP 329
+
+RT Conference Proceedings
+ID 300540
+A1 Levy,Alon,Y.
+A1 Rajaraman,Anand
+A1 Ullman,Jeffrey,D.
+YR 1996
+T1 Answering Queries Using Limited External Processors
+SP 227
+OP 237
+
+RT Conference Proceedings
+ID 340438
+A1 Levy,Alon,Y.
+A1 Rousset,Marie-christine
+YR 1996
+T1 CARIN: A Representation Language Combining Horn Rules and Description Logics
+SP 323
+OP 327
+
+RT Conference Proceedings
+ID 362911
+A1 Levy,Alon,Y.
+YR 1996
+T1 Obtaining Complete Answers from Incomplete Databases
+SP 402
+OP 412
+
+RT Conference Proceedings
+ID 343795
+A1 Levy,Alon,Y.
+A1 Rousset,Marie-christine
+YR 1996
+T1 The Limits on Combining Recursive Horn Rules with Description Logics
+SP 577
+OP 584
+
+RT Book, Whole
+ID 381903
+A1 Levy,Alon,Y.
+A1 Mumick,Inderpal,Singh
+YR 1996
+T1 Reasoning with Aggregation Constraints
+SP 514
+OP 534
+
+RT Conference Proceedings
+ID 634149
+A1 Levy,Alon,Y.
+A1 Rajaraman,Anand
+A1 Ordille,Joann,J.
+YR 1996
+T1 The World Wide Web as a Collection of Views: Query Processing in the Information Manifold
+SP 43
+OP 55
+
+RT Conference Proceedings
+ID 2621
+A1 Levy,Alon,Y.
+A1 Rousset,Marie-christine
+YR 1996
+T1 Verification of Knowledge Bases Based on Containment Checking
+SP 585
+OP 591
+
+RT Conference Proceedings
+ID 2713651
+A1 Srivastava,D.
+A1 Dar,S.
+A1 Jagadish,H.,V.
+A1 Levy,A.
+YR 1996
+T1 Answering SQL Queries Using Materialized Views
+
+RT Conference Proceedings
+ID 1984270
+A1 Levy,A.,Y.
+A1 Rajaraman,A.
+YR 1996
+T1 Ordille: Query-Answering Algorithms for Information Agents
+
+RT Conference Proceedings
+ID 390750
+A1 Levy,Alon,Y.
+A1 Rousset,Marie-christine
+YR 1996
+T1 Using Description Logics to Model and Reason About Views
+
+RT Journal Article
+ID 1397738
+A1 Levy,A.
+A1 Rousset,M.,C
+YR 1996
+T1 Carin: a representation language integrating rules and description logics
+
+RT Journal Article
+ID 2368471
+A1 Levy,A.,Y.
+A1 Srivastava,D.
+A1 Kirk,T.
+YR 1996
+T1 Data Model and Query Evaluation in Global Information Systems
+JF Journal of Intelligent Information Systems
+
+RT Journal Article
+ID 26993905
+A1 Levy,A.
+A1 Sorek,S.
+A1 Ben-Dor,G.
+A1 Skews,B.
+YR 1996
+T1 Waves propagation in saturated rigid porous media: analytical model and comparison with experimental results
+JF Fluid Dynamics Research
+VO 17
+SP 49
+OP 65
+IS 2
+
+RT Conference Proceedings
+ID 4453096
+A1 Levy,Alon,Y.
+A1 Rajaraman,Anand
+A1 Ullman,Jeffrey,D.
+YR 1996
+T1 Answering queries using limited external query processors (extended abstract)
+
+RT Journal Article
+ID 39238447
+A1 Levy,Alon,Y.
+A1 Rajaraman,Anand
+A1 Ullman,Jeffrey,D.
+YR 1996
+T1 Answering queries using limited external query processors (extended abstract)
+SP 227
+OP 237
+
+RT Conference Proceedings
+ID 507137
+A1 Beeri,Catriel
+A1 Levy,Alon,Y.
+A1 Rousset,Marie-christine
+YR 1996
+T1 Switching Terminologies - Creating a New View of An Old World: Preliminary Report
+SP 79
+OP 83
+
+RT Journal Article
+ID 58253957
+A1 Fell,J.,P.,C.
+A1 Levy,A.
+YR 1996
+T1 Issues in the ECU Markets and Some Tentative Explanations fro Some Apparent Puzzles
+
+RT Journal Article
+ID 58522093
+A1 Levy,A.
+A1 Chowdhury,K.
+YR 1996
+T1 Trends in Inter-Country Income Differences: World Levels and Decomposition Between and Within Regions
+
+RT Conference Proceedings
+ID 354648
+A1 Levy,Alon,Y.
+A1 Mendelzon,Alberto,O.
+A1 Sagivt,Yehoshua
+A1 Srivastava,Divesh
+YR 1995
+T1 Answering Queries Using Views
+SP 95
+OP 104
+
+RT Journal Article
+ID 341825
+A1 Levy,Alon,Y.
+A1 Srivastava,Divesh
+A1 Kirk,Thomas
+YR 1995
+T1 Data Model and Query Evaluation in Global Information Systems
+JF Journal of Intelligent Information Systems
+VO 5
+SP 121
+OP 143
+IS 2
+
+RT Journal Article
+ID 145373
+A1 Levy,Alon,Y.
+YR 1995
+T1 Answering Queries Using Views: A Survey
+JF The Vldb Journal
+
+RT Conference Proceedings
+ID 911328
+A1 Levy,Alon,Y.
+A1 Mendelzon,Alberto,O.
+A1 Sagiv,Yehoshua
+YR 1995
+T1 Answering queries using views (extended abstract)
+
+RT Journal Article
+ID 1954876
+A1 Knoblock,Craig
+A1 Levy,Alon
+YR 1995
+T1 Working notes of the aaai spring symposium on information gathering from heterogeneous
+
+RT Conference Proceedings
+ID 410636
+A1 Levy,Alon,Y.
+A1 Sagiv,Yehoshua
+YR 1995
+T1 Semantic Query Optimization in Datalog Programs
+SP 163
+OP 173
+
+RT Conference Proceedings
+ID 615962
+A1 Nayak,P.,Pandurang
+A1 Levy,Alon,Y.
+YR 1995
+T1 A Semantic Theory of Abstractions
+SP 196
+OP 203
+
+RT Journal Article
+ID 24047131
+A1 Levy,A.
+A1 SOREKX,S.
+A1 Ben-Dor,G.
+A1 Bear,J.
+YR 1995
+T1 Evolution of the balance equations in saturated thermoelastic porous media following abrupt simultaneous changes in pressure and temperature
+JF Transport in Porous Media
+VO 21
+SP 241
+OP 268
+IS 3
+
+RT Journal Article
+ID 298722
+A1 Levy,Alon,Y.
+A1 Ordille,Joann,J.
+YR 1995
+T1 An Experiment in Integrating Internet Information Sources
+
+RT Journal Article
+ID 2758651
+A1 Levy,A.
+A1 Iwasaki,Y.
+A1 Fikes,R.
+YR 1995
+T1 Automated Model Selection based on Relevance Reasoning
+
+RT Conference Proceedings
+ID 4453087
+A1 Levy,Alon,Y.
+A1 Sagiv,Yehoshua
+YR 1995
+T1 Semantic query optimization in Datalog programs (extended abstract)
+
+RT Conference Proceedings
+ID 4115742
+A1 Levy,A.,Y.
+A1 Mendelzon,A.,O.
+A1 Sagiv,Y.
+A1 Srivastava,D.
+YR 1995
+T1 Rewriting aggregate queries using views
+
+RT Journal Article
+ID 26993894
+A1 Li,H.
+A1 Levy,A.
+A1 Ben-Dor,G.
+YR 1995
+T1 Head-on interaction of planar shock waves with ideal rigid open-cell porous materials. Analytical model
+JF Fluid Dynamics Research
+VO 16
+SP 203
+OP 215
+IS 4
+
+RT Conference Proceedings
+ID 483849
+A1 Levy,Alon,Y.
+A1 Rousset,Marie-christine
+YR 1995
+T1 Combining Rules and Description Logics: An Overview of CARIN
+SP 635
+
+RT Journal Article
+ID 58522107
+A1 Cheung,L.
+A1 Chowdhury,K.
+A1 Harvie,C.
+A1 Levy,A.
+YR 1995
+T1 Interindustry Linkages and Business Bankruptcy Rates: Evidence from Australia, 1973-1991
+
+RT Journal Article
+ID 58522102
+A1 Levy,A.
+YR 1995
+T1 Trade Union Membership Fees: Some Theoretical Considerations
+
+RT Journal Article
+ID 58522103
+A1 Levy,A.
+YR 1995
+T1 Sovereign Debt and the Triple R Problem: Repudiation, Retaliation and Reputation
+
+RT Journal Article
+ID 58522105
+A1 Levy,A.
+YR 1995
+T1 Repudiation, Retaliation and the Secondary Market Price of Sovereign Debts
+
+RT Conference Proceedings
+ID 328571
+A1 Levy,Alon,Y.
+A1 Mumick,Inderpal,Singh
+A1 Sagiv,Yehoshua
+YR 1994
+T1 Query Optimization by Predicate Move-Around
+SP 96
+OP 107
+
+RT Journal Article
+ID 2353794
+A1 Levy,Alon,Y.
+A1 Sagiv,Yehoshua
+A1 Srivastava,Divesh
+YR 1994
+T1 Towards Efficient Information Gathering Agents
+
+RT Conference Proceedings
+ID 340266
+A1 Iwasaki,Yumi
+A1 Levy,Alon,Y.
+YR 1994
+T1 Automated Model Selection for Simulation
+SP 1183
+OP 1190
+
+RT Conference Proceedings
+ID 342782
+A1 Levy,Alon,Y.
+YR 1994
+T1 Creating Abstractions Using Relevance Reasoning
+SP 588
+OP 594
+
+RT Conference Proceedings
+ID 578531
+A1 Levy,Alon,Y.
+A1 Silberschatz,Abraham
+A1 Srivastava,Divesh
+A1 Zemankova,Maria
+YR 1994
+T1 Challenges for Global Information Systems
+SP 755
+
+RT Conference Proceedings
+ID 49984876
+A1 Ibbetson,L.,J.
+A1 Lopes,L.,B.
+A1 Bic,J.,C.
+A1 Levy,A.
+YR 1994
+T1 An assessment of cell size versus receiver complexity using measured propagation data
+SP 1824
+
+RT Journal Article
+ID 6335736
+A1 Lin,Fangzhen
+A1 Reiter,Ray
+A1 Levy,Alon,Y.
+YR 1994
+T1 Discussion of: Forget It
+
+RT Journal Article
+ID 53410178
+A1 Larson,David,J.
+A1 Casagrande,Louis,G.
+A1 Marzio,Don,di
+A1 Levy,A.
+A1 Carlson,F.,M.
+A1 Lee,Taipao
+A1 Black,David,R.
+A1 Wu,Jun
+A1 Dudley,Michael
+YR 1994
+T1 Producibility improvements suggested by a validated process model of seeded CdZnTe vertical Bridgman growth
+VO 2228
+SP 11
+OP 20
+
+RT Journal Article
+ID 47580177
+A1 BOUHOT-DELDUC,Laurence
+A1 LÉVY,A.
+YR 1994
+T1 Rôle de la chenille processionnaire du pin dans les dépérissements du pin maritime landais en 1990 et 1991
+SP 431
+IS 5
+
+RT Journal Article
+ID 58522110
+A1 Levy,A.
+YR 1994
+T1 Continuation and Liquidation Timing: A Pareto Optimal Approach
+
+RT Conference Proceedings
+ID 578739
+A1 Levy,Alon,Y.
+A1 Sagiv,Yehoshua
+YR 1993
+T1 Queries Independent of Updates
+SP 171
+OP 181
+
+RT Conference Proceedings
+ID 342009
+A1 Levy,Alon,Yitzchak
+YR 1993
+T1 Irrelevance Reasoning In Knowledge Based Systems
+
+RT Conference Proceedings
+ID 257772
+A1 Levy,Alon,Y.
+A1 Mumick,Inderpal,Singh
+A1 Sagiv,Yehoshua
+A1 Shmueli,Oded
+YR 1993
+T1 Equivalence, query-reachability and satisfiability in Datalog extensions
+SP 109
+OP 122
+
+RT Conference Proceedings
+ID 318046
+A1 Levy,Alon,Y.
+A1 Sagiv,Yehoshua
+YR 1993
+T1 Exploiting Irrelevance Reasoning to Guide Problem Solving
+SP 138
+OP 145
+
+RT Journal Article
+ID 26201106
+A1 Levy,A.
+A1 Ben-Dor,G.
+A1 Sorek,S.
+A1 Bear,J.
+YR 1993
+T1 Jump conditions across strong compaction waves in gas saturated rigid porous media
+JF Shock Waves
+VO 3
+SP 105
+OP 111
+IS 2
+
+RT Journal Article
+ID 60481628
+A1 Meshulam,Y.
+A1 Davidovici,R.
+A1 Levy,A.
+YR 1993
+T1 Protection against soman and sarin exposure by transdermal physostigmine and scopolamine
+
+RT Journal Article
+ID 58522114
+A1 Levy,A.
+A1 Chowdhry,K.
+YR 1993
+T1 Intercountry Income Inequality 1960-1990: World Levels and Decomposition Between and Within Geographical Clusters and Regions
+
+RT Journal Article
+ID 58522115
+A1 Levy,A.
+YR 1993
+T1 Rescheduling A Sovereign Debt Expected Repayment, Risk and Time Preference
+
+RT Journal Article
+ID 58522119
+A1 Levy,A.
+YR 1993
+T1 Rescheduling Sovereign Debt: A Theoretical Analysis
+
+RT Conference Proceedings
+ID 244486
+A1 Levy,Alon,Y.
+A1 Sagivt,Yehoshua
+YR 1992
+T1 Constraints and redundancy in datalog
+SP 67
+OP 80
+
+RT Journal Article
+ID 242566
+A1 Levy,Alon,Y.
+A1 Iwasaki,Yumi
+A1 Motoda,Hiroshi
+YR 1992
+T1 Relevance Reasoning to Guide Compositional Modeling
+
+RT Journal Article
+ID 2909205
+A1 Levy,Alon,Y.
+YR 1992
+T1 Creating abstractions using relevance claims
+
+RT Journal Article
+ID 3277987
+A1 Levy,Alon,Y.
+YR 1992
+T1 Irrelevance in problem solving
+
+RT Conference Proceedings
+ID 660047
+A1 Levy,Alon,Y.
+A1 Mumick,Inderpal,Singh
+A1 Sagiv,Yehoshua
+A1 Shmueli,Oded
+YR 1992
+T1 Equivalence, Query-Reachability, and Satisfiability in Datalog Extensions
+SP 1
+OP 10
+
+RT Journal Article
+ID 58250816
+A1 Giucca,P.
+A1 Levy,A.
+YR 1992
+T1 Monetary Aggregates and Monetary Policy Coordination on the Way to Economi c and Monetary Union: The Role of Cross-Border Deposits
+
+RT Journal Article
+ID 58250817
+A1 Angeloni,I.
+A1 Cottarelli,C.
+A1 Levy,A.
+YR 1992
+T1 Cross-Border Deposits and Monetary Aggregates in the Transition to EMU
+
+RT Journal Article
+ID 49926383
+A1 Rusinek,H.
+A1 Levy,A.
+A1 Noz,M.,E.
+YR 1991
+T1 Performance of two methods for registering PET and MR brain scans
+
+RT Journal Article
+ID 54837599
+A1 Levy,A.
+A1 Tobin,A.
+A1 Busch,G.
+YR 1991
+T1 Residual stress analysis and microstructural observations of ceramic-to-metal brazed joints
+
+RT Journal Article
+ID 58260576
+A1 Bar-Ilan,A.
+A1 Levy,A.
+YR 1991
+T1 Endogenous and Exogenous Restrictions on Search for Employment
+
+RT Conference Proceedings
+ID 49881542
+A1 Levy,A.
+A1 Pizzariella,J.
+YR 1990
+T1 Dynamic sequencing of test programs
+
+RT Journal Article
+ID 26922005
+A1 PUTNAM,A.,A.
+A1 LEVY,A.
+A1 BRICELAND,C.,L.
+YR 1982
+T1 Correlation of Stability Limits of Industrial Premix Burners with Laminar Flashback Velocity Gradient for Three Fuels
+JF Combustion Science and Technology
+VO 29
+SP 287
+OP 291
+IS 3-6
+
+RT Journal Article
+ID 26921773
+A1 MERRYMAN,E.,L.
+A1 MILLE,S.,E.
+A1 LEVY,A.
+YR 1979
+T1 Reduction of NO in the Presence of Fly Ash
+JF Combustion Science and Technology
+VO 20
+SP 161
+OP 163
+IS 3-4
+
+RT Journal Article
+ID 43521593
+A1 Tang,S.
+A1 Levy,A.
+YR 1975
+T1 A Boundary Layer Theory - Part II: Extension of Laminated Finite Strip
+JF Journal of Composite Materials
+VO 9
+SP 42
+OP 52
+IS 1
+
+RT Journal Article
+ID 43521425
+A1 Isakson,G.
+A1 Levy,A.
+YR 1971
+T1 Finite-Element Analysis of Interlaminar Shear in Fibrous Composites
+JF Journal of Composite Materials
+VO 5
+SP 273
+OP 276
+IS 2
+
+RT Journal Article
+ID 39097188
+A1 Halevy,Alon
+YR 1970
+T1 Data-Management at Web Scale
+JF Frontiers in Neuroinformatics
+
+RT Journal Article
+ID 1434910
+A1 Levy,A.
+YR 1967
+T1 Who's Who in G-PMP
+JF IEEE Transactions on Parts, Materials and Packaging
+VO 3
+SP 2
+OP 2
+IS 1
+
+RT Journal Article
+ID 1435188
+A1 Levy,A.
+YR 1964
+T1 Multilayer Printed Circuit Interconnection Techniques
+JF IEEE Transactions on Product Engineering and Production
+VO 8
+SP 16
+OP 20
+IS 1
+
+RT Conference Proceedings
+ID 10923734
+A1 Gribble,Steven
+A1 Halevy,Alon
+A1 Ives,Zachary
+A1 Rodrig,Maya
+A1 Suciu,Dan
+T1 What Can Databases Do for Peer-to-Peer?
+
+RT Conference Proceedings
+ID 11891053
+A1 Koller,Daphne
+A1 Levy,Alon
+A1 Pfeffer,Avi
+T1 P-CLASSIC: A tractable probabilistic description logic
+
+RT Book, Whole
+ID 297290
+A1 Levy,Alon,Y.
+T1 Combining Artificial Intelligence and Databases for Data Integration
+
+RT Conference Proceedings
+ID 6898557
+A1 Dong,Xin
+A1 Halevy,Alon
+A1 Nemes,Ema
+A1 Sigurdsson,Stephan,B.
+A1 Domingos,Pedro
+T1 SEMEX: Toward On-the-y Personal Information Integration
+
+RT Journal Article
+ID 4621551
+A1 Fikes,Richard
+A1 Gruber,Tom
+A1 Iwasaki,Yumi
+A1 Levy,Alon
+T1 How Things Work -- Project Overview
+
+RT Journal Article
+ID 4096921
+A1 Halevy,Alon,Y.
+T1 Why Your Data Won't Mix: Semantic Heterogeneity
+JF ACM Queue
+
+RT Journal Article
+ID 45434
+A1 Doan,AnHai
+A1 Domingos,Pedro
+A1 Levy,Alon,Y.
+T1 Learning Mappings between Data Schemas
+
+RT Journal Article
+ID 347861
+A1 Levy,Alon,Y.
+A1 Fikes,Richard,E.
+A1 Sagiv,Yehoshua
+T1 A Proof-Theoretic Approach to Irrelevance: Foundations and Applications
+
+RT Journal Article
+ID 12327284
+A1 Skuratovsky,I.
+A1 Levy,A
+A1 Borde,I.
+T1 PNEUMATIC DRYING OF SOLID PARTICLES
+
+RT Journal Article
+ID 5575650
+A1 Halevy,Alon
+T1 UNCERTAINTY IN DATA INTEGRATION
+
+RT Journal Article
+ID 5117315
+A1 Shiloni,Asaf
+A1 Levy,Alon
+A1 Felner,Ariel
+A1 Kalech,Meir
+T1 Ants Meeting in an Unknown Environment
+
+RT Journal Article
+ID 12814153
+A1 Abiteboul,S.
+A1 Agrawal,R.
+A1 Bernstein,P.,A.
+A1 Carey,M.,J.
+A1 Ceri,S.
+A1 Croft,W.,B.
+A1 DeWitt,D.,J.
+A1 Franklin,M.,J.
+A1 Garcia-Molina,H.
+A1 Gawlick,D.
+A1 Gray,J.
+A1 Haas,L.,M.
+A1 Halevy,A.,Y.
+A1 Hellerstein,J.,M.
+A1 Ioannidis,Y.,E.
+A1 Kersten,M.,L.
+A1 Pazzani,M.,J.
+A1 Lesk,M.
+A1 Maier,D.
+A1 Naughton,J.,F.
+A1 Schek,H.-J.
+A1 Sellis,T.,K.
+A1 Silberschatz,A.
+A1 Stonebraker,M.
+A1 Snodgrass,R.,T.
+A1 Ullman,J.,D.
+T1 BRICKS Progress Report 2005 Appendix A: Scientific Publications 2005
+
+RT Book, Whole
+ID 48053777
+A1 GOPFEZ,S.
+A1 Levy,A.
+A1 Calderon,A.
+T1 A global zero residual least squares method
+
+RT Book, Whole
+ID 47784303
+A1 Sarma,Anish,Das
+A1 Dong,Xin,Luna
+A1 Halevy,Alon,Y.
+T1 Uncertainty in Data Integration and Dataspace Support Platforms
+
+RT Journal Article
+ID 6589299
+A1 Pereira,Fernando
+A1 Rajaraman,Anand
+A1 Sarawagi,Sunita
+A1 Tunstall-Pedoe,William
+A1 Weikum,Gerhard
+A1 Halevy,Alon
+T1 Answering Web Questions Using Structured Data - Dream or Reality? Panel Discussion
+
+RT Journal Article
+ID 39221072
+A1 Madhavan,Jayant
+A1 Bernstein,Philip,A.
+A1 Domingos,Pedro
+A1 Halevy,Alon,Y.
+T1 Representing and reasoning about mappings between domain models
+
+RT Journal Article
+ID 4502916
+A1 Dong,Xin
+A1 Halevy,Alon
+A1 Nemes,Ema
+A1 Sigurdsson,Stephan,B.
+A1 Domingos,Pedro
+T1 SEMEX: Mining for Personal Information Integration
+
+RT Journal Article
+ID 12229251
+A1 Halevy,Alon
+A1 Domingos,Pedro
+T1 Dissertation: Learning to Translate between Structured Representations of Data (received ACM Doctoral Dissertation Award, 2003)
+
+RT Journal Article
+ID 10017337
+A1 Wang,Daisy,Zhe
+A1 Dong,Luna
+A1 Sarma,Anish,Das
+A1 Franklin,Michael,J.
+A1 Halevy,Alon
+T1 Functional Dependency Generation and Applications in pay-as-you-go data integration systems
+
+RT Journal Article
+ID 10590625
+A1 Wang,Daisy,Zhe
+A1 Franklin,Michael
+A1 Dong,Luna
+A1 Sarma,Anish,Das
+A1 Halevy,Alon
+T1 Discovering Functional Dependencies in Pay-As-You- Go Data Integration Systems
+
+RT Journal Article
+ID 12872957
+A1 Doan,AnHai
+A1 Halevy,Alon
+A1 No,Natasha
+T1 Semantic Integration Workshop (SI2003)
+
+RT Journal Article
+ID 49571839
+A1 Jelinek,M.
+A1 Levy,A.
+A1 Borde,I.
+T1 Performance of a triple-pressure level absorption/compression cycle
+JF Applied Thermal Engineering
+
+RT Journal Article
+ID 11806961
+A1 Halevy,Alon,Y.
+T1 Peer-Data Management Systems: Plumbing for the Semantic Web

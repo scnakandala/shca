@@ -1,0 +1,5172 @@
+RT Journal Article
+ID 56963137
+A1 Pfeifle,J.
+A1 Weimann,C.
+A1 Bach,F.
+A1 Riemensberger,J.
+A1 Hartinger,K.
+A1 Hillerkuss,D.
+A1 Jordan,M.
+A1 Holtzwarth,R.
+A1 Kippenberg,T.,J.
+A1 Leuthold,J.
+A1 Freude,W.
+A1 Koos,C.
+YR 2012
+T1 Microresonator-based optical frequency combs for high-bitrate WDM data transmission
+
+RT Journal Article
+ID 56963266
+A1 Lindenmann,N.
+A1 Balthasar,G.
+A1 Jordan,M.
+A1 Hillerkuss,D.
+A1 Schmogrow,R.
+A1 Freude,W.
+A1 Leuthold,J.
+A1 Koos,C.
+YR 2012
+T1 Low-loss photonic wire bond interconnects enabling 5 Tbit/s data transmission
+
+RT Journal Article
+ID 57449214
+A1 Broderick,Tamara
+A1 Jordan,Michael,I.
+A1 Pitman,Jim
+YR 2012
+T1 Beta Processes, Stick-Breaking and Power Laws
+VO 7
+SP 439
+OP 476
+IS 2012
+
+RT Journal Article
+ID 39324705
+A1 Zhang,Zhihua
+A1 Dai,Guang
+A1 Jordan,Michael,I.
+YR 2011
+T1 Bayesian Generalized Kernel Mixed Models
+JF Journal of Machine Learning Research
+VO 12
+SP 111
+OP 139
+
+RT Journal Article
+ID 39334803
+A1 Fox,Emily,B.
+A1 Sudderth,Erik,B.
+A1 Jordan,Michael,I.
+A1 Willsky,Alan,S.
+YR 2011
+T1 Bayesian Nonparametric Inference of Switching Dynamic Linear Models
+JF IEEE Transactions on Signal Processing
+VO 59
+SP 1569
+OP 1585
+IS 4
+
+RT Journal Article
+ID 56908148
+A1 Chowdhury,Mosharaf
+A1 Zaharia,Matei
+A1 Ma,Justin
+A1 Jordan,Michael,I.
+A1 Stoica,Ion
+YR 2011
+T1 Managing data transfers in computer clusters with orchestra
+SP 98
+OP 109
+
+RT Journal Article
+ID 53073841
+A1 Hillerkuss,D.
+A1 Schmogrow,R.
+A1 Schellinger,T.
+A1 Jordan,M.
+A1 Winter,M.
+A1 Huber,G.
+A1 Vallaitis,T.
+A1 Bonk,R.
+A1 Kleinow,P.
+A1 Frey,F.
+A1 Roeger,M.
+A1 Koenig,S.
+A1 Ludwig,A.
+A1 Marculescu,A.
+A1 Li,J.
+A1 Hoh,M.
+A1 Dreschmann,M.
+A1 Meyer,J.
+A1 Ezra,S.,Ben
+A1 Narkiss,N.
+A1 Nebendahl,B.
+A1 Parmigiani,F.
+A1 Petropoulos,P.
+A1 Resan,B.
+A1 Oehler,A.
+A1 Weingarten,K.
+A1 Ellermeyer,T.
+A1 Lutz,J.
+A1 Moeller,M.
+A1 Huebner,M.
+A1 Becker,J.
+A1 Koos,C.
+A1 Freude,W.
+A1 Leuthold,J.
+YR 2011
+T1 26 Tbit s-1 line-rate super-channel transmission utilizing all-optical fast Fourier transform processing
+JF Nature Photonics
+VO 5
+SP 364
+OP 371
+IS 6
+
+RT Journal Article
+ID 61402343
+A1 Boche,Holger
+A1 Cheng,Yen-Kuang
+A1 Chen,Liang-Gee
+A1 Frey,Brendan
+A1 Gilbert,Mazin
+A1 Hwang,Jenq-Neng
+A1 Jordan,Michael
+A1 Krishnamurthy,Vikram
+A1 Lee,Chin-Hui
+A1 Liao,Mark
+A1 Liu,Hongwei
+A1 Liu,Ray
+A1 Luo,Tom
+A1 Morgan,Nelson
+A1 Pereira,Fernando
+A1 Pieraccini,Roberto
+A1 Vincent,H.
+A1 Vetro,Anthony
+A1 Wolfe,Patrick,J.
+A1 Guido,Rodrigo,Capobianco
+A1 Kwasinski,Andres
+A1 Lyons,Rick
+A1 Mojsilovic,Aleksandra
+A1 Gormish,IDIAP-EPFL,Michael
+A1 Doerr,Gwenael
+A1 Sun,Yan,Lindsay
+A1 Barragué,Jessica
+A1 Krolin-Taylor,Geraldine
+A1 Schneiderman,Susan
+A1 Dudar,Janet
+A1 Schnitzer,Gail,A.
+A1 Smith,Theresa,L.
+A1 Melley,Dawn,M.
+A1 Tuohy,Peter,M.
+A1 Zappulla,Fran
+YR 2011
+T1 Shining Bright: The Golden Era of Signal Processing
+
+RT Journal Article
+ID 39362931
+A1 Liang,Percy
+A1 Jordan,Michael,I.
+A1 Klein,Dan
+YR 2011
+T1 Learning Dependency-Based Compositional Semantics
+JF Computational Linguistics
+VO Just Accep
+SP 1
+OP 94
+IS Just Accep
+
+RT Conference Proceedings
+ID 39263515
+A1 Trushkowsky,Beth
+A1 Bodík,Peter
+A1 Fox,Armando
+A1 Franklin,Michael,J.
+A1 Jordan,Michael,I.
+A1 Patterson,David,A.
+YR 2011
+T1 The SCADS Director: Scaling a Distributed Storage System Under Stringent Performance Requirements
+SP 163
+OP 176
+
+RT Journal Article
+ID 51196386
+A1 Carin,Lawrence
+A1 Baraniuk,Richard
+A1 Cevher,Volkan
+A1 Dunson,David
+A1 Jordan,Michael
+A1 Sapiro,Guillermo
+A1 Wakin,Michael
+YR 2011
+T1 Learning Low-Dimensional Signal Models
+JF IEEE Signal Processing Magazine
+VO 28
+SP 39
+OP 51
+IS 2
+
+RT Journal Article
+ID 57445760
+A1 Fox,Emily,B.
+A1 Sudderth,Erik,B.
+A1 Jordan,Michael,I.
+A1 Willsky,Alan,S.
+YR 2011
+T1 A sticky HDP-HMM with application to speaker diarization
+JF Annals of Applied Statistics
+VO 5
+SP 1020
+OP 1056
+IS 2011
+
+RT Conference Proceedings
+ID 51108252
+A1 Shyr,Alex
+A1 Darrell,Trevor
+A1 Jordan,Michael
+A1 Urtasun,Raquel
+YR 2011
+T1 Supervised hierarchical Pitman-Yor process for natural scene segmentation
+SP 2281
+OP 2288
+
+RT Journal Article
+ID 57445132
+A1 Obozinski,Guillaume
+A1 Wainwright,Martin,J.
+A1 Jordan,Michael,I.
+YR 2011
+T1 Support union recovery in high-dimensional multivariate regression
+JF Annals of Statistics
+VO 39
+SP 1
+OP 47
+IS 2011
+
+RT Journal Article
+ID 52433228
+A1 Fox,Emily
+A1 Sudderth,Erik,B.
+A1 Jordan,Michael,I.
+A1 Willsky,Alan,S.
+YR 2011
+T1 Bayesian Nonparametric Inference of Switching Dynamic Linear Models
+JF IEEE Transactions on Signal Processing
+VO 59
+SP 1569
+OP 1585
+
+RT Conference Proceedings
+ID 56944272
+A1 Huang,Min-Yu
+A1 Mackey,Lester
+A1 Keranen,Soile,V.,E.
+A1 Weber,Gunther,H.
+A1 Jordan,Michael,I.
+A1 Knowles,David,W.
+A1 Biggin,Mark,D.
+A1 Hamann,Bernd
+YR 2011
+T1 Visually Relating Gene Expression and in vivo DNA Binding Data
+
+RT Journal Article
+ID 55103644
+A1 Paisley,John
+A1 Blei,David
+A1 Jordan,Michael,I.
+YR 2011
+T1 The Stick-Breaking Construction of the Beta Process as a Poisson Process
+
+RT Conference Proceedings
+ID 56942836
+A1 Duchi,John,C.
+A1 Agarwal,Alekh
+A1 Johansson,Mikael
+A1 Jordan,Michael,I.
+YR 2011
+T1 Ergodic mirror descent
+
+RT Journal Article
+ID 39315692
+A1 Jaakkola,Tommi,S.
+A1 Jordan,Michael,I.
+YR 2011
+T1 Variational Probabilistic Inference and the QMR-DT Network
+JF Computing Research Repository
+VO abs/1105.5
+
+RT Book, Whole
+ID 39276990
+A1 Wauthier,Fabian,L.
+A1 Jordan,Michael,I.
+A1 Jojic,Nebojsa
+YR 2011
+T1 Nonparametric Combinatorial Sequence Models
+SP 516
+OP 530
+
+RT Journal Article
+ID 53217686
+A1 Sarkar,Purnamrita
+A1 Chakrabarti,Deepayan
+A1 Jordan,Michael
+YR 2011
+T1 Non-parametric Link Prediction
+
+RT Journal Article
+ID 57445349
+A1 Sutton,Charles
+A1 Jordan,Michael,I.
+YR 2011
+T1 Bayesian inference for queueing networks and modeling of internet services
+JF Annals of Applied Statistics
+VO 5
+SP 254
+OP 282
+IS 2011
+
+RT Journal Article
+ID 54515375
+A1 Duchi,John,C.
+A1 Agarwal,Alekh
+A1 Johansson,Mikael
+A1 Jordan,Michael,I.
+YR 2011
+T1 Ergodic Subgradient Descent
+
+RT Journal Article
+ID 52887713
+A1 Broderick,Tamara
+A1 Jordan,Michael,I.
+A1 Pitman,Jim
+YR 2011
+T1 Beta processes, stick-breaking, and power laws
+
+RT Journal Article
+ID 55297271
+A1 Broderick,Tamara
+A1 Mackey,Lester
+A1 Paisley,John
+A1 Jordan,Michael,I.
+YR 2011
+T1 Combinatorial clustering and the beta negative binomial process
+
+RT Journal Article
+ID 39315153
+A1 Yan,Donghui
+A1 Chen,Aiyou
+A1 Jordan,Michael,I.
+YR 2011
+T1 Cluster Forests
+JF Computing Research Repository
+VO abs/1104.2
+
+RT Journal Article
+ID 53121626
+A1 Mackey,Lester
+A1 Talwalkar,Ameet
+A1 Jordan,Michael,I.
+YR 2011
+T1 Divide-and-Conquer Matrix Factorization
+
+RT Journal Article
+ID 56295266
+A1 Kulis,Brian
+A1 Jordan,Michael,I.
+YR 2011
+T1 Revisiting k-means: New Algorithms via Bayesian Nonparametrics
+
+RT Journal Article
+ID 53108301
+A1 Ting,Daniel
+A1 Huang,Ling
+A1 Jordan,Michael
+YR 2011
+T1 An Analysis of the Convergence of Graph Laplacians
+
+RT Journal Article
+ID 27615664
+A1 Jordan,Michael,I.
+YR 2011
+T1 Leo Breiman
+JF Annals of Applied Statistics
+VO 4
+SP 1642
+OP 1643
+IS 2010
+
+RT Journal Article
+ID 51696194
+A1 Zhang,Zhihua
+A1 Jordan,Michael,I.
+YR 2011
+T1 Multiway Spectral Clustering: A Margin-Based Perspective
+
+RT Journal Article
+ID 4580915
+A1 Ding,Chris,H.,Q.
+A1 Li,Tao
+A1 Jordan,Michael,I.
+YR 2010
+T1 Convex and Semi-Nonnegative Matrix Factorizations
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 32
+SP 45
+OP 55
+IS 1
+
+RT Journal Article
+ID 13337729
+A1 Obozinski,Guillaume
+A1 Taskar,Ben
+A1 Jordan,Michael,I.
+YR 2010
+T1 Joint covariate selection and joint subspace selection for multiple classification problems
+JF Statistics and Computing
+VO 20
+SP 231
+OP 252
+IS 2
+
+RT Journal Article
+ID 5198108
+A1 Blei,David,M.
+A1 Griffiths,Thomas,L.
+A1 Jordan,Michael,I.
+YR 2010
+T1 The nested chinese restaurant process and bayesian nonparametric inference of topic hierarchies
+JF Journal of The ACM
+VO 57
+SP 1
+OP 30
+IS 2
+
+RT Journal Article
+ID 13181181
+A1 Sankararaman,Sriram
+A1 Sha,Fei
+A1 Kirsch,Jack,F.
+A1 Jordan,Michael,I.
+A1 Sjölander,Kimmen
+YR 2010
+T1 Active site prediction using evolutionary and structural information
+JF Bioinformatics/computer Applications in The Biosciences
+VO 26
+SP 617
+OP 624
+IS 5
+
+RT Journal Article
+ID 13281411
+A1 Bodík,Peter
+A1 Fox,Armando
+A1 Franklin,Michael,J.
+A1 Jordan,Michael,I.
+A1 Patterson,David,A.
+YR 2010
+T1 Characterizing, modeling, and generating workload spikes for stateful services
+SP 241
+OP 252
+
+RT Journal Article
+ID 38774286
+A1 Ting,Daniel
+A1 Wang,Guoli
+A1 Shapovalov,Maxim
+A1 Mitra,Rajib
+A1 Jordan,Michael,I.
+A1 Dunbrack,Roland,L.
+YR 2010
+T1 Neighbor-Dependent Ramachandran Probability Distributions of Amino Acids Developed from a Hierarchical Dirichlet Process Model
+JF PLOS Computational Biology
+VO 6
+IS 4
+
+RT Journal Article
+ID 39330014
+A1 Nguyen,XuanLong
+A1 Wainwright,Martin,J.
+A1 Jordan,Michael,I.
+YR 2010
+T1 Estimating Divergence Functionals and the Likelihood Ratio by Convex Risk Minimization
+JF IEEE Transactions on Information Theory
+VO 56
+SP 5847
+OP 5861
+IS 11
+
+RT Conference Proceedings
+ID 13762186
+A1 Mackey,Lester,W.
+A1 Weiss,David
+A1 Jordan,Michael,I.
+YR 2010
+T1 Mixed Membership Matrix Factorization
+SP 711
+OP 718
+
+RT Conference Proceedings
+ID 39261424
+A1 Shyr,Alex
+A1 Urtasun,Raquel
+A1 Jordan,Michael,I.
+YR 2010
+T1 Sufficient dimension reduction for visual sequence classification
+SP 3610
+OP 3617
+
+RT Conference Proceedings
+ID 13764167
+A1 Niu,Donglin
+A1 Dy,Jennifer,G.
+A1 Jordan,Michael,I.
+YR 2010
+T1 Multiple Non-Redundant Spectral Clustering Views
+SP 831
+OP 838
+
+RT Journal Article
+ID 34143987
+A1 Blum,Ben
+A1 Jordan,Michael,I.
+A1 Baker,David
+YR 2010
+T1 Feature space resampling for protein conformational search
+JF Proteins-structure Function and Bioinformatics
+
+RT Journal Article
+ID 39324686
+A1 Zhang,Zhihua
+A1 Dai,Guang
+A1 Xu,Congfu
+A1 Jordan,Michael,I.
+YR 2010
+T1 Regularized Discriminant Analysis, Ridge Regression and Beyond
+JF Journal of Machine Learning Research
+VO 11
+SP 2199
+OP 2228
+
+RT Journal Article
+ID 61402318
+A1 Acero,Alex
+A1 Apostolopoulos,John,G.
+A1 Bilmes,Jeff
+A1 Chen,Liang-Gee
+A1 Frey,Brendan
+A1 Furui,Sadaoki
+A1 Gershman,Alex
+A1 Gilbert,Mazin
+A1 Hwang,Jenq-Neng
+A1 Jordan,Michael
+A1 Kot,Alex
+A1 Krishnamurthy,Vikram
+A1 Liu,Ray
+A1 Luo,Tom
+A1 Pei,Soo-Chang
+A1 Pereira,Fernando
+A1 Pieraccini,Roberto
+A1 Regalia,Phillip,A.
+A1 Singer,Yoram
+A1 Vetro,Anthony
+A1 Wang,Xiaodong
+A1 Wolfe,Patrick,J.
+A1 Erol,Berna
+A1 California,Ricoh
+A1 Kwasinski,Andres
+A1 Lyons,Rick
+A1 Mojsilovic,Aleksandra
+A1 Yu,Dong
+A1 Bruno,Marcelo
+A1 Sun,Yan,Lindsay
+A1 Krolin-Taylor,Geraldine
+A1 Schneiderman,Susan
+A1 Dudar,Janet
+A1 Schnitzer,Gail,A.
+A1 Smith,Theresa,L.
+A1 Melley,Dawn,M.
+A1 Tuohy,Peter,M.
+YR 2010
+T1 Impact of Signal Processing and of Our Work
+
+RT Journal Article
+ID 39324842
+A1 Zhang,Zhihua
+A1 Dai,Guang
+A1 Wang,Donghui
+A1 Jordan,Michael,I.
+YR 2010
+T1 Bayesian Generalized Kernel Models
+JF Journal of Machine Learning Research
+VO 9
+SP 972
+OP 979
+
+RT Conference Proceedings
+ID 13764138
+A1 Liang,Percy
+A1 Jordan,Michael,I.
+A1 Klein,Dan
+YR 2010
+T1 Learning Programs: A Hierarchical Bayesian Approach
+SP 639
+OP 646
+
+RT Journal Article
+ID 58018974
+A1 Adamowicz,Wiktor,L.
+A1 Arnot,C.
+A1 Boxall,Peter,C.
+A1 Dridi,Chokri
+A1 Goddard,Ellen,W.
+A1 Jordan,M.
+A1 Forbes,K.
+A1 Laate,K.
+A1 Myshaniuk,K.
+A1 Parlee,B.
+A1 Petigara,M.
+A1 Unterschultz,James,R.
+A1 Zimmer,N.
+YR 2010
+T1 Research on Socioeconomic Impacts of Chronic Wasting Disease (CWD) in Alberta
+
+RT Journal Article
+ID 51177468
+A1 Jordan,Michael,I.
+A1 Sudderth,Erik,B.
+A1 Wainwright,Martin
+A1 Willsky,Alan,S.
+YR 2010
+T1 Major Advances and Emerging Developments of Graphical Models [From the Guest Editors]
+JF IEEE Signal Processing Magazine
+VO 27
+SP 17
+OP 138
+IS 6
+
+RT Journal Article
+ID 57414607
+A1 Ting,Daniel
+A1 Wang,Guoli
+A1 Shapovalov,Maxim
+A1 Mitra,Rajib
+A1 Jordan,Michael,I.
+A1 Dunbrack,Roland,L.
+YR 2010
+T1 Neighbor-Dependent Ramachandran Probability Distributions of Amino Acids Developed from a Hierarchical Dirichlet Process Model
+JF PLOS Computational Biology
+VO 6
+IS 4
+
+RT Journal Article
+ID 51177470
+A1 Fox,E.,B.
+A1 Sudderth,E.,B.
+A1 Jordan,M.,I.
+A1 Willsky,A.,S.
+YR 2010
+T1 Bayesian Nonparametric Methods for Learning Markov Switching Processes
+JF IEEE Signal Processing Magazine
+VO 27
+SP 43
+OP 54
+IS 6
+
+RT Conference Proceedings
+ID 13762306
+A1 Duchi,John,C.
+A1 Mackey,Lester,W.
+A1 Jordan,Michael,I.
+YR 2010
+T1 On the Consistency of Ranking Algorithms
+SP 327
+OP 334
+
+RT Journal Article
+ID 44641685
+A1 Herzog,T.,K.
+A1 Hughes,F.,M.
+A1 Jordan,M.
+YR 2010
+T1 What is conscious in perceived attachment? Evidence from global and specific relationship representations
+JF Journal of Social and Personal Relationships
+VO 27
+SP 283
+OP 303
+IS 3
+
+RT Conference Proceedings
+ID 14202165
+A1 Liang,Percy
+A1 Jordan,Michael,I.
+A1 Klein,Dan
+YR 2010
+T1 Type-Based MCMC
+SP 573
+OP 581
+
+RT Conference Proceedings
+ID 13762281
+A1 Ting,Daniel
+A1 Huang,Ling
+A1 Jordan,Michael,I.
+YR 2010
+T1 An Analysis of the Convergence of Graph Laplacians
+SP 1079
+OP 1086
+
+RT Journal Article
+ID 39324816
+A1 Zhang,Zhihua
+A1 Dai,Guang
+A1 Jordan,Michael,I.
+YR 2010
+T1 Matrix-Variate Dirichlet Process Mixture Models
+JF Journal of Machine Learning Research
+VO 9
+SP 980
+OP 987
+
+RT Journal Article
+ID 27658978
+A1 Adams,Ryan,Prescott
+A1 Ghahramani,Zoubin
+A1 Jordan,Michael,I.
+YR 2010
+T1 Tree-Structured Stick Breaking Processes for Hierarchical Data
+
+RT Journal Article
+ID 39324810
+A1 Sutton,Charles,A.
+A1 Jordan,Michael,I.
+YR 2010
+T1 Inference and Learning in Networks of Queues
+JF Journal of Machine Learning Research
+VO 9
+SP 796
+OP 803
+
+RT Journal Article
+ID 27670187
+A1 Fox,Emily,B.
+A1 Sudderth,Erik,B.
+A1 Jordan,Michael,I.
+A1 Willsky,Alan,S.
+YR 2010
+T1 Bayesian Nonparametric Inference of Switching Linear Dynamical Systems
+
+RT Journal Article
+ID 13324534
+A1 Sutton,Charles,A.
+A1 Jordan,Michael,I.
+YR 2010
+T1 Bayesian Inference in Queueing Networks
+JF Computing Research Repository
+VO abs/1001.3
+
+RT Journal Article
+ID 27656142
+A1 Wauthier,Fabian,L.
+A1 Jordan,Michael,I.
+YR 2010
+T1 Heavy-Tailed Processes for Selective Shrinkage
+
+RT Journal Article
+ID 27651500
+A1 Sutton,Charles
+A1 Jordan,Michael,I.
+YR 2010
+T1 Bayesian inference for queueing networks and modeling of internet services
+
+RT Journal Article
+ID 3296526
+A1 Fukumizu,Kenji
+A1 Bach,Francis,R.
+A1 Jordan,Michael,I.
+YR 2009
+T1 Kernel dimension reduction in regression
+JF Annals of Statistics
+VO 37
+SP 1871
+OP 1905
+IS 4
+
+RT Conference Proceedings
+ID 5011103
+A1 Xu,Wei
+A1 Huang,Ling
+A1 Fox,Armando
+A1 Patterson,David,A.
+A1 Jordan,Michael,I.
+YR 2009
+T1 Detecting large-scale system problems by mining console logs
+SP 117
+OP 132
+
+RT Conference Proceedings
+ID 4715832
+A1 Ganapathi,Archana
+A1 Kuno,Harumi,A.
+A1 Dayal,Umeshwar
+A1 Wiener,Janet,L.
+A1 Fox,Armando
+A1 Jordan,Michael,I.
+A1 Patterson,David,A.
+YR 2009
+T1 Predicting Multiple Metrics for Queries: Better Decisions Enabled by Machine Learning
+SP 592
+OP 603
+
+RT Conference Proceedings
+ID 4831427
+A1 Yan,Donghui
+A1 Huang,Ling
+A1 Jordan,Michael,I.
+YR 2009
+T1 Fast Approximate Spectral Clustering
+SP 907
+OP 916
+
+RT Conference Proceedings
+ID 4717805
+A1 Liang,Percy
+A1 Jordan,Michael,I.
+A1 Klein,Dan
+YR 2009
+T1 Learning from measurements in exponential families
+SP 81
+OP 648
+
+RT Conference Proceedings
+ID 5862107
+A1 Liang,Percy
+A1 Jordan,Michael,I.
+A1 Klein,Dan
+YR 2009
+T1 Learning Semantic Correspondences with Less Supervision
+SP 91
+OP 99
+
+RT Journal Article
+ID 10644714
+A1 Sankararaman,Sriram
+A1 Obozinski,Guillaume
+A1 Jordan,Michael,I
+A1 Halperin,Eran
+YR 2009
+T1 Genomic privacy and limits of individual detection in a pool
+JF Nature Genetics
+VO 41
+SP 965
+OP 967
+IS 9
+
+RT Journal Article
+ID 5564349
+A1 Bodik,Peter
+A1 Griffith,Rean
+A1 Sutton,Charles
+A1 Fox,Armando
+A1 Jordan,Michael,I.
+A1 Patterson,David,A.
+YR 2009
+T1 Automatic exploration of datacenter performance regimes
+SP 1
+OP 6
+
+RT Journal Article
+ID 6901767
+A1 Obozinski,Guillaume
+A1 Wainwright,Martin,J.
+A1 Jordan,Michael,I.
+YR 2009
+T1 SUPPORT UNION RECOVERY IN HIGH-DIMENSIONAL MULTIVARIATE REGRESSION
+
+RT Journal Article
+ID 5082590
+A1 Nguyen,XuanLong
+A1 Wainwright,Martin,J.
+A1 Jordan,Michael,I.
+YR 2009
+T1 On surrogate loss functions and f-divergences
+JF Annals of Statistics
+VO 37
+SP 876
+OP 904
+IS 2009
+
+RT Conference Proceedings
+ID 6559016
+A1 Xu,Wei
+A1 Huang,Ling
+A1 Fox,Armando
+A1 Patterson,David
+A1 Jordan,Michael,I.
+YR 2009
+T1 Online System Problem Detection by Mining Patterns of Console Logs
+SP 588
+OP 597
+
+RT Book, Whole
+ID 5520205
+A1 Zhang,Zhihua
+A1 Dai,Guang
+A1 Jordan,Michael,I.
+YR 2009
+T1 A Flexible and Efficient Algorithm for Regularized Fisher Discriminant Analysis
+SP 632
+OP 647
+
+RT Journal Article
+ID 4755041
+A1 Yin,Junming
+A1 Jordan,Michael,I.
+A1 Song,Yun,S.
+YR 2009
+T1 Joint estimation of gene conversion rates and mean conversion tract lengths from population SNP data
+JF Bioinformatics/computer Applications in The Biosciences
+VO 25
+IS 12
+
+RT Journal Article
+ID 27649825
+A1 Fox,Emily,B.
+A1 Sudderth,Erik,B.
+A1 Jordan,Michael,I.
+A1 Willsky,Alan,S.
+YR 2009
+T1 A Sticky HDP-HMM with Application to Speaker Diarization
+
+RT Journal Article
+ID 5393574
+A1 Zhang,Zhihua
+A1 Jordan,Michael,I.
+A1 Li,Wu-Jun
+A1 Yeung,Dit-Yan
+YR 2009
+T1 Coherence Functions for Multicategory Margin-based Classification Methods
+VO 5
+SP 647
+OP 654
+
+RT Journal Article
+ID 23293900
+A1 Sheridan,Helen
+A1 Walsh,John,J.
+A1 Cogan,Carina
+A1 Jordan,Michael
+A1 McCabe,Tom
+A1 Passante,Egle
+A1 Frankish,Neil,H.
+YR 2009
+T1 Diastereoisomers of 2-benzyl-2, 3-dihydro-2-(1 H-inden-2-yl)-1 H-inden-1-ol: Potential anti-inflammatory agents
+JF Bioorganic & Medicinal Chemistry Letters
+VO 19
+SP 5927
+OP 5930
+IS 20
+
+RT Journal Article
+ID 53514001
+A1 Russell,S.
+A1 Arora,N.,S.
+A1 Jordan,M.,I.
+A1 Sudderth,E.
+YR 2009
+T1 Vertically Integrated Seismological Analysis I : Modeling
+
+RT Journal Article
+ID 56420003
+A1 Burton,M.
+A1 Harig,R.
+A1 Caltabiano,T.
+A1 Gorgas,J.
+A1 Jordan,M.
+A1 Spina,A.,La
+A1 Murè,F.
+A1 Rausch,P.
+A1 Salerno,G.
+A1 Giammanco,S.
+YR 2009
+T1 Real-time continuous FTIR monitoring of Stromboli Volcano
+
+RT Journal Article
+ID 5450264
+A1 Engelhardt,Barbara,E
+A1 Jordan,Michael,I
+A1 Repo,Susanna,T
+A1 Brenner,Steven,E
+YR 2009
+T1 Phylogenetic molecular function annotation
+JF Journal of Physics: Conference Series
+VO 180
+SP 12024
+IS 1
+
+RT Journal Article
+ID 55047586
+A1 Engelhardt,Barbara,E.
+A1 Jordan,Michael,I.
+A1 Repo,Susanna,T.
+A1 Brenner,Steven,E.
+YR 2009
+T1 Phylogenetic molecular function annotation
+JF Journal of Physics: Conference Series
+VO 180
+SP 2024
+
+RT Journal Article
+ID 53129128
+A1 Fox,Emily,B.
+A1 Sudderth,Erik,B.
+A1 Jordan,Michael,I.
+A1 Willsky,Alan,S.
+YR 2009
+T1 A sticky HDP-HMM with application to speaker diarization
+
+RT Journal Article
+ID 5237258
+A1 Zhang,Zhihua
+A1 Jordan,Michael,I.
+YR 2009
+T1 Latent Variable Models for Dimensionality Reduction
+JF Journal of Machine Learning Research
+VO 5
+SP 655
+OP 662
+
+RT Journal Article
+ID 54615571
+A1 Harig,R.
+A1 Burton,M.
+A1 Rausch,P.
+A1 Jordan,M.
+A1 Gorgas,J.
+A1 Gerhard,J.
+YR 2009
+T1 Development of an Infrared Remote Sensing System for Continuous Monitoring of Stromboli Volcano
+
+RT Conference Proceedings
+ID 4731671
+A1 Jordan,Michael,I.
+YR 2009
+T1 Combinatorial stochastic processes and nonparametric Bayesian modeling
+SP 139
+
+RT Journal Article
+ID 56297548
+A1 Mackey,L.
+A1 Kleiner,A.
+A1 Jordan,M.,I.
+YR 2009
+T1 Improved Automated Seismic Event Extraction Using Machine Learning
+
+RT Journal Article
+ID 4780920
+A1 Wainwright,Martin,J.
+A1 Jordan,Michael,I.
+YR 2008
+T1 Graphical models, exponential families, and variational inference
+VO 1
+SP 1
+OP 305
+IS 1-2
+
+RT Journal Article
+ID 12379596
+A1 Peña-Castillo,Lourdes
+A1 Tasan,Murat
+A1 Myers,Chad,L.
+A1 Lee,Hyunju
+A1 Joshi,Trupti
+A1 Zhang,Chao
+A1 Guan,Yuanfang
+A1 Leone,Michele
+A1 Pagnani,Andrea
+A1 Kim,Wan,Kyu
+A1 Krumpelman,Chase
+A1 Tian,Weidong
+A1 Obozinski,Guillaume
+A1 Qi,Yanjun
+A1 Mostafavi,Sara
+A1 Lin,Guan,Ning
+A1 Berriz,Gabriel,F
+A1 Gibbons,Francis,D
+A1 Lanckriet,Gert
+A1 Qiu,Jian
+A1 Grant,Charles
+A1 Barutcuoglu,Zafer
+A1 Hill,David,P
+A1 Warde-Farley,David
+A1 Grouios,Chris
+A1 Ray,Debajyoti
+A1 Blake,Judith,A
+A1 Deng,Minghua
+A1 Jordan,Michael,I
+A1 Noble,William,S
+A1 Morris,Quaid
+A1 Klein-Seetharaman,Judith
+A1 Bar-Joseph,Ziv
+A1 Chen,Ting
+A1 Sun,Fengzhu
+A1 Troyanskaya,Olga,G
+A1 Marcotte,Edward,M
+A1 Xu,Dong
+A1 Hughes,Timothy,R
+A1 Roth,Frederick,P
+YR 2008
+T1 A critical assessment of Mus musculus gene function prediction using integrated genomic evidence
+JF Genome Biology
+VO 9
+OP 19
+IS Suppl 1
+
+RT Conference Proceedings
+ID 4727710
+A1 Xu,Wei
+A1 Huang,Ling
+A1 Fox,Armando
+A1 Patterson,David,A.
+A1 Jordan,Michael,I.
+YR 2008
+T1 Mining Console Logs for Large-Scale System Problem Detection
+
+RT Conference Proceedings
+ID 4727427
+A1 Sudderth,Erik,B.
+A1 Jordan,Michael,I.
+YR 2008
+T1 Shared Segmentation of Natural Scenes Using Dependent Pitman-Yor Processes
+SP 1585
+OP 1592
+
+RT Conference Proceedings
+ID 4727431
+A1 Lacoste-julien,Simon
+A1 Sha,Fei
+A1 Jordan,Michael,I.
+YR 2008
+T1 DiscLDA: Discriminative Learning for Dimensionality Reduction and Classification
+SP 897
+OP 904
+
+RT Conference Proceedings
+ID 4278468
+A1 Fox,Emily,B.
+A1 Sudderth,Erik,B.
+A1 Jordan,Michael,I.
+A1 Willsky,Alan,S.
+YR 2008
+T1 An HDP-HMM for systems with state persistence
+SP 312
+OP 319
+
+RT Conference Proceedings
+ID 4278463
+A1 Liang,Percy
+A1 Jordan,Michael,I.
+YR 2008
+T1 An asymptotic analysis of generative, discriminative, and pseudolikelihood estimators
+SP 584
+OP 591
+
+RT Conference Proceedings
+ID 6218571
+A1 Obozinski,Guillaume
+A1 Wainwright,Martin,J.
+A1 Jordan,Michael,I.
+YR 2008
+T1 Union support recovery in high-dimensional multivariate regression
+
+RT Journal Article
+ID 4373996
+A1 Nguyen,XuanLong
+A1 Wainwright,Martin,J.
+A1 Jordan,Michael,I.
+YR 2008
+T1 Estimating divergence functionals and the likelihood ratio by convex risk minimization
+JF Computing Research Repository
+VO abs/0809.0
+
+RT Journal Article
+ID 13884913
+A1 Obozinski,Guillaume
+A1 Lanckriet,Gert
+A1 Grant,Charles
+A1 Jordan,Michael,I
+A1 Noble,William,Stafford
+YR 2008
+T1 Consistent probabilistic outputs for protein function prediction
+JF Genome Biology
+VO 9
+OP 19
+IS Suppl 1
+
+RT Conference Proceedings
+ID 4727462
+A1 Fox,Emily,B.
+A1 Sudderth,Erik,B.
+A1 Jordan,Michael,I.
+A1 Willsky,Alan,S.
+YR 2008
+T1 Nonparametric Bayesian Learning of Switching Linear Dynamical Systems
+SP 457
+OP 464
+
+RT Book, Whole
+ID 4310743
+A1 Sankararaman,Sriram
+A1 Kimmel,Gad
+A1 Halperin,Eran
+A1 Jordan,Michael,I.
+YR 2008
+T1 On the Inference of Ancestries in Admixed Populations
+SP 424
+OP 433
+
+RT Conference Proceedings
+ID 4727308
+A1 Huang,Ling
+A1 Yan,Donghui
+A1 Jordan,Michael,I.
+A1 Taft,Nina
+YR 2008
+T1 Spectral Clustering with Perturbed Data
+SP 705
+OP 712
+
+RT Journal Article
+ID 5425834
+A1 Flaherty,Patrick
+A1 Lo,Ken,Sin
+A1 Dinh,Tuan
+A1 Rebres,Robert,A.
+A1 Roach,Tamara,I.
+A1 Jordan,Michael,I.
+A1 Arkin,Adam,P.
+YR 2008
+T1 A dual receptor crosstalk model of G-protein-coupled signal transduction
+JF PLOS Computational Biology
+VO 4
+IS 9
+
+RT Conference Proceedings
+ID 4716117
+A1 Ding,Chris,H.,Q.
+A1 Li,Tao
+A1 Jordan,Michael,I.
+YR 2008
+T1 Nonnegative Matrix Factorization for Combinatorial Optimization: Spectral Clustering, Graph Matching, and Clique Finding
+SP 183
+OP 192
+
+RT Journal Article
+ID 4917652
+A1 Zhang,Zhihua
+A1 Jordan,Michael,I.
+YR 2008
+T1 Multiway Spectral Clustering: A Margin-Based Perspective
+JF Statistical Science
+VO 23
+SP 383
+OP 403
+IS 2008
+
+RT Conference Proceedings
+ID 4727329
+A1 Obozinski,Guillaume
+A1 Wainwright,Martin,J.
+A1 Jordan,Michael,I.
+YR 2008
+T1 High-dimensional support union recovery in multivariate regression
+SP 1217
+OP 1224
+
+RT Journal Article
+ID 6149546
+A1 Bodik,Peter
+A1 Armbrust,Michael,Paul
+A1 Canini,Kevin
+A1 Fox,Armando
+A1 Jordan,Michael
+A1 Patterson,David,A.
+YR 2008
+T1 A Case For Adaptive Datacenters To Conserve Energy and Improve Reliability
+
+RT Journal Article
+ID 6228681
+A1 Kimmel,Gad
+A1 Karp,Richard,M.
+A1 Jordan,Michael,I.
+A1 Halperin,Eran
+YR 2008
+T1 Association Mapping and Significance Estimation via the Coalescent
+JF American Journal of Human Genetics
+VO 83
+SP 675
+OP 683
+IS 6
+
+RT Conference Proceedings
+ID 4321667
+A1 Miller,Kurt,T.
+A1 Griffiths,Thomas,L.
+A1 Jordan,Michael,I.
+YR 2008
+T1 The Phylogenetic Indian Buffet Process: A NonExchangeable Nonparametric Prior for Latent Features
+SP 403
+OP 410
+
+RT Journal Article
+ID 37805880
+A1 Sankararaman,S.
+A1 Kimmel,G.
+A1 Halperin,E.
+A1 Jordan,M.,I.
+YR 2008
+T1 On the inference of ancestries in admixed populations
+JF Genome Research
+VO 18
+SP 668
+OP 675
+IS 4
+
+RT Conference Proceedings
+ID 4727433
+A1 Bouchard-côté,Alexandre
+A1 Jordan,Michael,I.
+A1 Klein,Dan
+YR 2008
+T1 Efficient Inference in Phylogenetic InDel Trees
+SP 177
+OP 184
+
+RT Journal Article
+ID 4413821
+A1 Nguyen,Xuanlong
+A1 Wainwright,Martin,J.
+A1 Jordan,Michael,I.
+YR 2008
+T1 On Optimal Quantization Rules for Some Problems in Sequential Decentralized Detection
+JF IEEE Transactions on Information Theory
+VO 54
+SP 3285
+OP 3295
+IS 7
+
+RT Journal Article
+ID 57413532
+A1 Flaherty,Patrick
+A1 Radhakrishnan,Mala,L.
+A1 Dinh,Tuan
+A1 Rebres,Robert,A.
+A1 Roach,Tamara,I.
+A1 Jordan,Michael,I.
+A1 Arkin,Adam,P.
+YR 2008
+T1 A Dual Receptor Crosstalk Model of G-Protein-Coupled Signal Transduction
+JF PLOS Computational Biology
+VO 4
+IS 9
+
+RT Conference Proceedings
+ID 4727650
+A1 Sutton,Charles,A.
+A1 Jordan,Michael,I.
+YR 2008
+T1 Probabilistic Inference in Queueing Networks
+
+RT Conference Proceedings
+ID 4727521
+A1 Zhang,Zhihua
+A1 Jordan,Michael,I.
+A1 Yeung,Dit-yan
+YR 2008
+T1 Posterior Consistency of the Silverman g-prior in Bayesian Model Choice
+SP 1969
+OP 1976
+
+RT Journal Article
+ID 55100411
+A1 Smith,R.,B.
+A1 Puskas,C.
+A1 Jordan,M.
+A1 Steinberger,B.
+A1 Farrell,J.
+A1 Chang,W.
+A1 Waite,G.,P.
+A1 Husen,S.
+A1 O'Connell,R.
+YR 2008
+T1 Effects of the Yellowstone hotspot and plume on the western U.S
+
+RT Journal Article
+ID 56118674
+A1 Obozinski,Guillaume
+A1 Wainwright,Martin,J.
+A1 Jordan,Michael,I.
+YR 2008
+T1 Support union recovery in high-dimensional multivariate regression
+
+RT Journal Article
+ID 58813142
+A1 Jordan,M.
+A1 Mackay,E.
+A1 Vazquez,O.
+YR 2008
+T1 The Influence of Overflush Fluid Type on Scale Squeeze Life Time - Field Examples and Placement Simulation Evaluation
+
+RT Journal Article
+ID 55924926
+A1 Jordan,M.
+A1 Ciaccio,M.
+A1 Ebbing,J.
+YR 2008
+T1 Application of a new Structural Joint Inversion Approach to Teleseismic and Gravity Data from Mt.Vesuvius, Italy
+
+RT Journal Article
+ID 40108406
+A1 Jordan,Michael
+YR 2008
+T1 Intelligently Discussing Design: Jones and Reiss’s Teaching about Scientific Origins: Taking Account of Creationism
+JF Evolution: Education and Outreach
+VO 1
+SP 536
+OP 540
+IS 4
+
+RT Journal Article
+ID 45604497
+A1 Jordan,Michael
+YR 2008
+T1 Melodic Drumming: What Do the Blues Sound Like on Drums?
+JF Creative Approaches To Research
+VO 1
+SP 67
+OP 69
+IS 1
+
+RT Journal Article
+ID 16462448
+A1 d'Aspremont,Alexandre
+A1 Ghaoui,Laurent,El
+A1 Jordan,Michael,I.
+A1 Lanckriet,Gert,R.,G.
+YR 2007
+T1 A Direct Formulation for Sparse PCA Using Semidefinite Programming
+JF Siam Review
+VO 49
+SP 434
+IS 3
+
+RT Conference Proceedings
+ID 4548042
+A1 Liang,Percy
+A1 Petrov,Slav
+A1 Jordan,Michael,I.
+A1 Klein,Dan
+YR 2007
+T1 The Infinite {PCFG} Using Hierarchical {Dirichlet} Processes
+SP 688
+OP 697
+
+RT Journal Article
+ID 3181437
+A1 Thibaux,Romain
+A1 Jordan,Michael,I.
+YR 2007
+T1 Hierarchical Beta Processes and the Indian Buffet Process
+VO 2
+SP 564
+OP 571
+
+RT Conference Proceedings
+ID 2447611
+A1 Huang,Ling
+A1 Nguyen,Xuanlong
+A1 Garofalakis,Minos,N.
+A1 Hellerstein,Joseph,M.
+A1 Jordan,Michael,I.
+A1 Joseph,Anthony,D.
+A1 Taft,Nina
+YR 2007
+T1 Communication-Efficient Online Detection of Network-Wide Anomalies
+SP 134
+OP 142
+
+RT Conference Proceedings
+ID 4272525
+A1 Li,Tao
+A1 Ding,Chris
+A1 Jordan,Michael,I.
+YR 2007
+T1 Solving Consensus and Semi-supervised Clustering Problems Using Nonnegative Matrix Factorization
+SP 577
+OP 582
+
+RT Conference Proceedings
+ID 4278417
+A1 Nilsson,Jens
+A1 Sha,Fei
+A1 Jordan,Michael,I.
+YR 2007
+T1 Regression on manifolds using kernel dimension reduction
+SP 697
+OP 704
+
+RT Journal Article
+ID 5965427
+A1 Kimmel,Gad
+A1 Jordan,Michael,I.
+A1 Halperin,Eran
+A1 Shamir,Ron
+A1 Karp,Richard,M.
+YR 2007
+T1 A Randomization Test for Controlling Population Stratification in Whole-Genome Association Studies
+JF American Journal of Human Genetics
+VO 81
+SP 895
+OP 905
+IS 5
+
+RT Conference Proceedings
+ID 4271521
+A1 Kivinen,Jyri,J.
+A1 Sudderth,Erik,B.
+A1 Jordan,Michael,I.
+YR 2007
+T1 Learning Multiscale Representations of Natural Scenes Using Dirichlet Processes
+SP 1
+OP 8
+
+RT Journal Article
+ID 4765371
+A1 Xing,Eric,P.
+A1 Jordan,Michael,I.
+A1 Sharan,Roded
+YR 2007
+T1 Bayesian Haplotype Inference via the Dirichlet Process
+JF Journal of Computational Biology
+VO 14
+SP 267
+OP 284
+IS 3
+
+RT Conference Proceedings
+ID 4727251
+A1 Liang,Percy
+A1 Klein,Dan
+A1 Jordan,Michael,I.
+YR 2007
+T1 Agreement-Based Learning
+
+RT Conference Proceedings
+ID 4566045
+A1 Nguyen,XuanLong
+A1 Wainwright,Martin,J.
+A1 Jordan,Michael,I.
+YR 2007
+T1 Nonparametric estimation of the likelihood ratio and divergence functionals
+
+RT Conference Proceedings
+ID 4275939
+A1 Kivinen,Jyri,J.
+A1 Sudderth,Erik,B.
+A1 Jordan,Michael,I.
+YR 2007
+T1 Image Denoising with Nonparametric Hidden Markov Trees
+VO 3
+SP 121
+OP 124
+
+RT Conference Proceedings
+ID 4570531
+A1 Nguyen,Xuanlong
+A1 Wainwright,Martin,J.
+A1 Jordan,Michael,I.
+YR 2007
+T1 Estimating divergence functionals and the likelihood ratio by penalized convex risk minimization
+
+RT Conference Proceedings
+ID 4278277
+A1 Liang,Percy
+A1 Jordan,Michael,I.
+A1 Taskar,Benjamin
+YR 2007
+T1 A permutation-augmented sampler for DP mixture models
+SP 545
+OP 552
+
+RT Conference Proceedings
+ID 4556897
+A1 Blum,Ben
+A1 Jordan,Michael,I.
+A1 Kim,David
+A1 Das,Rhiju
+A1 Bradley,Philip
+A1 Baker,David
+YR 2007
+T1 Feature Selection Methods for Improving Protein Structure Prediction with Rosetta
+
+RT Journal Article
+ID 51748207
+A1 Blei,David,M.
+A1 Griffiths,Thomas,L.
+A1 Jordan,Michael,I.
+YR 2007
+T1 The nested Chinese restaurant process and Bayesian nonparametric inference of topic hierarchies
+
+RT Journal Article
+ID 54329385
+A1 Worby,A.,P.
+A1 Treverrow,A.
+A1 Raymond,B.
+A1 Jordan,M.
+YR 2007
+T1 Antarctic sea ice thickness data archival and recovery at the Australian Antarctic Data Centre
+
+RT Journal Article
+ID 52591424
+A1 Smith,R.,B.
+A1 Farrell,J.
+A1 Jordan,M.
+A1 Puskas,C.
+A1 Waite,G.,P.
+YR 2007
+T1 Seismic and GPS constraints on the dynamics and kinematics of the Yellowstone volcanic field
+
+RT Conference Proceedings
+ID 4345271
+A1 Jordan,Michael,I.
+YR 2007
+T1 Statistical Machine Learning and Computational Biology
+SP 4
+
+RT Journal Article
+ID 43304339
+A1 Jordan,M.,D.
+YR 2007
+T1 God Hates Fags: The Rhetorics of Religious Violence. By Michael Cobb
+JF Journal of The American Academy of Religion
+VO 75
+SP 1009
+OP 1012
+IS 4
+
+RT Journal Article
+ID 44902622
+A1 Jordan,M.,D.
+YR 2007
+T1 RELIGION TROUBLE
+JF Glq-a Journal of Lesbian and Gay Studies
+VO 13
+SP 563
+OP 575
+IS 4
+
+RT Journal Article
+ID 12651791
+A1 Teh,Yee,Whye
+A1 Jordan,Michael,I.
+A1 Blei,David,M.
+YR 2006
+T1 Hierarchical Dirichlet Processes
+JF Journal of The American Statistical Association
+VO 101
+SP 1566
+OP 1581
+IS 476
+
+RT Journal Article
+ID 2355994
+A1 Bartlett,Peter,L.
+A1 Jordan,Michael,I.
+A1 McAuliffe,Jon,D.
+YR 2006
+T1 Convexity, Classification, and Risk Bounds
+JF Journal of The American Statistical Association
+VO 101
+SP 138
+OP 156
+IS 473
+
+RT Journal Article
+ID 2508495
+A1 Bach,Francis,R.
+A1 Jordan,Michael,I.
+YR 2006
+T1 Learning Spectral Clustering, With Application To Speech Separation
+JF Journal of Machine Learning Research
+VO 7
+SP 1963
+OP 2001
+
+RT Conference Proceedings
+ID 2441186
+A1 Zheng,Alice,X.
+A1 Jordan,Michael,I.
+A1 Liblit,Ben
+A1 Naik,Mayur
+A1 Aiken,Alex
+YR 2006
+T1 Statistical debugging: simultaneous identification of multiple bugs
+SP 1105
+OP 1112
+
+RT Journal Article
+ID 2508424
+A1 Taskar,Benjamin
+A1 Lacoste-julien,Simon
+A1 Jordan,Michael,I.
+YR 2006
+T1 Structured Prediction, Dual Extragradient and Bregman Projections
+JF Journal of Machine Learning Research
+VO 7
+SP 1627
+OP 1653
+
+RT Conference Proceedings
+ID 3227344
+A1 Huang,Ling
+A1 Nguyen,Xuanlong
+A1 Garofalakis,Minos,N.
+A1 Jordan,Michael,I.
+A1 Joseph,Anthony,D.
+A1 Taft,Nina
+YR 2006
+T1 In-Network PCA and Anomaly Detection
+SP 617
+OP 624
+
+RT Conference Proceedings
+ID 2464568
+A1 Lacoste-julien,Simon
+A1 Taskar,Benjamin
+A1 Klein,Dan
+A1 Jordan,Michael,I.
+YR 2006
+T1 Word Alignment via Quadratic Assignment
+
+RT Journal Article
+ID 2525329
+A1 Mcauliffe,Jon,D.
+A1 Blei,David,M.
+A1 Jordan,Michael,I.
+YR 2006
+T1 Nonparametric empirical Bayes for the Dirichlet process mixture model
+JF Statistics and Computing
+VO 16
+SP 5
+OP 14
+IS 1
+
+RT Journal Article
+ID 4591312
+A1 Wainwright,Martin,J.
+A1 Jordan,Michael,I.
+YR 2006
+T1 Log-determinant relaxation for approximate inference in discrete Markov random fields
+JF IEEE Transactions on Signal Processing
+VO 54
+SP 2099
+OP 2109
+IS 6-1
+
+RT Journal Article
+ID 2666483
+A1 ik,Peter,Bod,´
+A1 Fox,Armando
+A1 Jordan,Michael,I.
+A1 Patterson,David
+A1 Banerjee,Ajit
+A1 Jagannathan,Ramesh
+A1 Su,Tina
+A1 Tenginakai,Shivaraj
+A1 Turner,Ben
+A1 Ingalls,Jon
+YR 2006
+T1 Advanced Tools for Operators at Amazon.com
+
+RT Journal Article
+ID 1755724
+A1 Blei,David,M.
+A1 Franks,K.
+A1 Jordan,Michael,I.
+A1 Mian,I.,Saira
+YR 2006
+T1 Statistical modeling of biomedical corpora: mining the Caenorhabditis Genetic Center Bibliography for genes related to life span
+JF BMC Bioinformatics
+VO 7
+SP 250
+OP 19
+IS 1
+
+RT Conference Proceedings
+ID 2441181
+A1 Xing,Eric,P.
+A1 Sohn,Kyung-ah
+A1 Jordan,Michael,I.
+A1 Teh,Yee-Whye
+YR 2006
+T1 Bayesian multi-population haplotype inference via a hierarchical dirichlet process mixture
+SP 1049
+OP 1056
+
+RT Conference Proceedings
+ID 2441086
+A1 Engelhardt,Barbara,E.
+A1 Jordan,Michael,I.
+A1 Brenner,Steven,E.
+YR 2006
+T1 A graphical model for predicting protein molecular function
+SP 297
+OP 304
+
+RT Journal Article
+ID 2706381
+A1 Wolpert,Dm
+A1 Ghahramani,Z
+A1 Jordan,Mi
+YR 2006
+T1 An internal model for sensorimotor integration
+JF Science
+
+RT Journal Article
+ID 2975491
+A1 Huang,Ling
+A1 Nguyen,Xuanlong
+A1 Garofalakis,Minos
+A1 Jordan,Michael
+A1 Joseph,Anthony,D.
+A1 Taft,Nina
+YR 2006
+T1 Distributed PCA and Network Anomaly Detection
+
+RT Conference Proceedings
+ID 2474731
+A1 Zhang,Zhihua
+A1 Jordan,Michael,I.
+YR 2006
+T1 Bayesian Multicategory Support Vector Machines
+
+RT Journal Article
+ID 2377059
+A1 Nguyen,Xuanlong
+A1 Wainwright,Martin,J.
+A1 Jordan,Michael,I.
+YR 2006
+T1 On optimal quantization rules for some sequential decision problems
+JF Computing Research Repository
+VO abs/math/0
+
+RT Journal Article
+ID 16479029
+A1 Bartlett,Peter,L.
+A1 Jordan,Michael,I.
+A1 McAuliffe,Jon,D.
+YR 2006
+T1 Comment
+JF Statistical Science
+VO 21
+SP 341
+OP 346
+IS 2006
+
+RT Journal Article
+ID 57449923
+A1 Blei,David,M.
+A1 Jordan,Michael,I.
+YR 2006
+T1 Variational inference for Dirichlet process mixtures
+VO 1
+SP 121
+OP 143
+IS 2006
+
+RT Journal Article
+ID 52039761
+A1 Nguyen,XuanLong
+A1 Wainwright,Martin,J.
+A1 Jordan,Michael,I.
+YR 2006
+T1 On optimal quantization rules for some problems in sequential decentralized detection
+
+RT Journal Article
+ID 53728171
+A1 Smith,R.,B.
+A1 Jordan,M.
+A1 Puskas,C.,M.
+A1 Farrell,J.
+A1 Waite,G.,P.
+YR 2006
+T1 Origin and Evolution of the Yellowstone Hotspot from Seismic-GPS Imaging and Geodynamic Modeling
+
+RT Journal Article
+ID 61405754
+A1 Flaherty,Patrick
+A1 Jordan,Michael,I
+A1 Arkin,Adam,P
+YR 2006
+T1 Robust design of biological experiments
+
+RT Journal Article
+ID 43377938
+A1 Jordan,M.
+YR 2006
+T1 Youth Justice and Social Work, * Paul Dugmore and Jane Pickford, with Sally Angus, * Exeter, Learning Matters Ltd, 2006, pp. 193, ISBN 1 84445 066 X,  16.00
+JF British Journal of Social Work
+VO 37
+SP 1125
+OP 1126
+IS 6
+
+RT Journal Article
+ID 43786509
+A1 Jordan,Michael
+YR 2006
+T1 Kiowa Drawings. An online exhibition of the Department of Anthropology, National Museum of Natural History, Smithsonian Institution
+JF Museum Anthropology
+VO 29
+SP 143
+OP 145
+IS 2
+
+RT Journal Article
+ID 44709469
+A1 Jordan,M.,D.
+YR 2006
+T1 Sacramental Characters
+JF Studies in Christian Ethics
+VO 19
+SP 323
+OP 338
+IS 3
+
+RT Journal Article
+ID 44709476
+A1 Jordan,M.,D.
+YR 2006
+T1 Book Review: Alien Sex: The Body and Desire in Cinema and Theology
+JF Studies in Christian Ethics
+VO 19
+SP 419
+OP 423
+IS 3
+
+RT Journal Article
+ID 1240480
+A1 Liblit,Ben
+A1 Naik,Mayur
+A1 Zheng,Alice,X.
+A1 Aiken,Alexander
+A1 Jordan,Michael,I.
+YR 2005
+T1 Scalable statistical bug isolation
+JF Sigplan Notices
+VO 40
+SP 15
+OP 26
+IS 6
+
+RT Journal Article
+ID 2385371
+A1 Blei,David,M.
+A1 Jordan,Michael,I.
+YR 2005
+T1 Variational inference for Dirichlet process mixtures
+VO 1
+
+RT Journal Article
+ID 1750075
+A1 Nguyen,Xuanlong
+A1 Jordan,Michael,I.
+A1 Sinopoli,Bruno
+YR 2005
+T1 A kernel-based learning approach to ad hoc sensor network localization
+JF ACM Transactions on Sensor Networks
+VO 1
+SP 134
+OP 152
+IS 1
+
+RT Journal Article
+ID 2387651
+A1 Bach,Francis,R.
+A1 Jordan,Michael,I.
+YR 2005
+T1 A Probabilistic Interpretation of Canonical Correlation Analysis
+
+RT Journal Article
+ID 2353260
+A1 Teh,Yee,Whye
+A1 Seeger,Matthias
+A1 Jordan,Michael,I.
+YR 2005
+T1 Semiparametric Latent Factor Models
+
+RT Conference Proceedings
+ID 2197906
+A1 Bodíc,Peter
+A1 Friedman,Greg
+A1 Biewald,Lukas
+A1 Levine,Helen
+A1 Candea,George
+A1 Patel,Kayur
+A1 Tolle,Gilman
+A1 Hui,Jonathan
+A1 Fox,Armando
+A1 Jordan,Michael,I.
+A1 Patterson,David,A.
+YR 2005
+T1 Combining Visualization and Statistical Analysis to Improve Operator Confidence and Efficiency for Failure Detection and Localization
+SP 89
+OP 100
+
+RT Conference Proceedings
+ID 1801042
+A1 Bach,Francis,R.
+A1 Jordan,Michael,I.
+YR 2005
+T1 Predictive low-rank decomposition for kernel methods
+SP 33
+OP 40
+
+RT Journal Article
+ID 2379056
+A1 Engelhardt,Barbara,E.
+A1 Jordan,Michael,I.
+A1 Muratore,Kathryn,E.
+A1 Brenner,Steven,E.
+YR 2005
+T1 Protein Molecular Function Prediction by Bayesian Phylogenomics
+JF PLOS Computational Biology
+VO 1
+IS 5
+
+RT Conference Proceedings
+ID 1811716
+A1 Taskar,Benjamin
+A1 Lacoste-julien,Simon
+A1 Jordan,Michael,I.
+YR 2005
+T1 Structured Prediction via the Extragradient Method
+
+RT Journal Article
+ID 4594264
+A1 Lee,William
+A1 Onge,Robert,P.,St.
+A1 Proctor,Michael
+A1 Flaherty,Patrick
+A1 Jordan,Michael,I.
+A1 Arkin,Adam,P.
+A1 Davis,Ronald,W.
+A1 Nislow,Corey
+A1 Giaever,Guri
+YR 2005
+T1 Genome-wide requirements for resistance to functionally distinct DNA-damaging agents
+JF PLOS Genetics
+VO 1
+IS 2
+
+RT Journal Article
+ID 1641171
+A1 Nguyen,XuanLong
+A1 Wainwright,Martin,J.
+A1 Jordan,Michael,I.
+YR 2005
+T1 Nonparametric decentralized detection using kernel methods
+JF IEEE Transactions on Signal Processing
+VO 53
+SP 4053
+OP 4066
+IS 11
+
+RT Journal Article
+ID 1728712
+A1 Flaherty,Patrick
+A1 Giaever,Guri
+A1 Kumm,Jochen
+A1 Jordan,Michael,I.
+A1 Arkin,Adam,P.
+YR 2005
+T1 A latent variable model for chemogenomic profiling
+JF Bioinformatics/computer Applications in The Biosciences
+VO 21
+SP 3286
+OP 3293
+IS 15
+
+RT Journal Article
+ID 6677495
+A1 Gyaneshwar,Prasad
+A1 Paliy,Oleg
+A1 McAuliffe,Jon
+A1 Popham,David,L.
+A1 Jordan,Michael,I.
+YR 2005
+T1 Sulfur and Nitrogen Limitation in Escherichia coli K-12: Specific Homeostatic Responses
+JF Journal of Bacteriology
+VO 187
+SP 1074
+OP 1090
+IS 3
+
+RT Journal Article
+ID 4061109
+A1 Blei,D.,M.
+A1 Jordan,M.,I.
+YR 2005
+T1 Variational methods for Dirichlet process mixtures
+
+RT Conference Proceedings
+ID 1811684
+A1 Flaherty,Patrick
+A1 Jordan,Michael,I.
+A1 Arkin,Adam,P.
+YR 2005
+T1 Robust design of biological experiments
+
+RT Journal Article
+ID 4594460
+A1 McAuliffe,Jon,D.
+A1 Jordan,Michael,I.
+A1 Pachter,Lior
+YR 2005
+T1 Subtree power analysis and species selection for comparative genomics
+JF Proceedings of The National Academy of Sciences
+VO 102
+SP 7900
+OP 7905
+IS 22
+
+RT Journal Article
+ID 15174825
+A1 Gyaneshwar,Prasad
+A1 Paliy,Oleg
+A1 McAuliffe,Jon
+A1 Jones,Adriane
+A1 Jordan,Michael,I.
+YR 2005
+T1 Lessons from Escherichia coli genes similarly regulated in response to nitrogen and sulfur limitation
+JF Proceedings of The National Academy of Sciences
+VO 102
+SP 3453
+OP 3458
+IS 9
+
+RT Journal Article
+ID 2146340
+A1 Bartlett,P.
+A1 Jordan,M.,I.
+A1 Mcauliffe,D.
+YR 2005
+T1 Classification and risk bounds
+
+RT Conference Proceedings
+ID 2474563
+A1 Rosen-zvi,Michal
+A1 Jordan,Michael,I.
+A1 Yuille,Alan,L.
+YR 2005
+T1 The DLR Hierarchy of Approximate Inference
+SP 493
+OP 500
+
+RT Journal Article
+ID 4370875
+A1 Nguyen,Xuanlong
+A1 Wainwright,Martin,J.
+A1 Jordan,Michael,I.
+YR 2005
+T1 On divergences, surrogate loss functions, and decentralized detection
+JF Computing Research Repository
+VO abs/math/0
+
+RT Conference Proceedings
+ID 1811815
+A1 Nguyen,Xuanlong
+A1 Wainwright,Martin,J.
+A1 Jordan,Michael,I.
+YR 2005
+T1 Divergences, surrogate loss functions and experimental design
+
+RT Journal Article
+ID 61400467
+A1 Lawrence,Neil
+A1 Platt,John,C.
+A1 Jordan,Michael,I.
+YR 2005
+T1 Extensions of the Informative Vector Machine
+
+RT Journal Article
+ID 39219306
+A1 Liblit,Ben
+A1 Naik,Mayur
+A1 Zheng,Alice,X.
+A1 Aiken,Alex
+A1 Jordan,Michael,I.
+YR 2005
+T1 Scalable statistical bug isolation
+JF Sigplan Notices
+SP 15
+OP 26
+
+RT Journal Article
+ID 57407430
+A1 Lee,William
+A1 Onge,Robert,P,St.
+A1 Proctor,Michael
+A1 Flaherty,Patrick
+A1 Jordan,Michael,I
+A1 Arkin,Adam,P
+A1 Davis,Ronald,W
+A1 Nislow,Corey
+A1 Giaever,Guri
+YR 2005
+T1 Genome-Wide Requirements for Resistance to Functionally Distinct DNA-Damaging Agents
+JF PLOS Genetics
+VO 1
+IS 2
+
+RT Journal Article
+ID 52114251
+A1 Engelhardt,Barbara,E.
+A1 Jordan,Michael,I.
+A1 Muratore,Kathryn,E.
+A1 Brenner,Steven,E.
+YR 2005
+T1 Protein Molecular Function Prediction by Bayesian Phylogenomics
+JF PLOS Computational Biology
+VO 1
+IS 5
+
+RT Conference Proceedings
+ID 12858316
+A1 Vogel,Brian,K.
+A1 Jordan,Michael,I.
+A1 Wessel,David
+YR 2005
+T1 Multi-instrument musical transcription using a dynamic graphical model
+VO 5
+
+RT Conference Proceedings
+ID 50469324
+A1 Bach,Francis,R.
+A1 Jordan,Michael,I.
+YR 2005
+T1 Discriminative training of hidden Markov models for multiple pitch tracking [speech processing examples]
+VO 5
+
+RT Journal Article
+ID 53287534
+A1 Nguyen,XuanLong
+A1 Wainwright,Martin,J.
+A1 Jordan,Michael,I.
+YR 2005
+T1 On surrogate loss functions and $f$-divergences
+
+RT Journal Article
+ID 55131230
+A1 Jordan,M.
+A1 Smith,R.,B.
+A1 Puskas,C.
+A1 Farrell,J.
+A1 Waite,G.
+YR 2005
+T1 The Yellowstone Hotspot and Related Plume: Volcano-Tectonics, Tomography, Kinematics, Dynamics and Mantle Flow
+
+RT Journal Article
+ID 43377741
+A1 Jordan,M.
+YR 2005
+T1 Rougher Justice: Anti-social Behaviour and Young People, * Peter Squires and Dawn E. Stephen, * Cullompton, Willan Publishing, 2005, pp. ix + 238, ISBN 1 84392 111 1(pbk),  18.99
+JF British Journal of Social Work
+VO 36
+SP 349
+OP 351
+IS 2
+
+RT Journal Article
+ID 1582315
+A1 Sinopoli,Bruno
+A1 Schenato,Luca
+A1 Franceschetti,Massimo
+A1 Poolla,Kameshwar
+A1 Jordan,Michael,I.
+A1 Sastry,Shankar,S.
+YR 2004
+T1 Kalman filtering with intermittent observations
+JF IEEE Transactions on Automatic Control
+VO 49
+SP 1453
+OP 1464
+IS 9
+
+RT Journal Article
+ID 872801
+A1 Lanckriet,Gert,R.,G.
+A1 Cristianini,Nello
+A1 Bartlett,Peter,L.
+A1 Ghaoui,Laurent,El
+A1 Jordan,Michael,I.
+YR 2004
+T1 Learning the Kernel Matrix with Semidefinite Programming
+JF Journal of Machine Learning Research
+VO 5
+SP 27
+OP 72
+
+RT Conference Proceedings
+ID 908296
+A1 Bach,Francis,R.
+A1 Lanckriet,Gert,R.,G.
+A1 Jordan,Michael,I.
+YR 2004
+T1 Multiple kernel learning, conic duality, and the SMO algorithm
+SP 6
+
+RT Journal Article
+ID 13006453
+A1 Jordan,Michael,I.
+YR 2004
+T1 Graphical Models
+JF Statistical Science
+VO 19
+SP 140
+OP 155
+IS 2004
+
+RT Journal Article
+ID 1727989
+A1 Lanckriet,Gert,R.,G.
+A1 Bie,Tijl,De
+A1 Cristianini,Nello
+A1 Jordan,Michael,I.
+A1 Noble,William,Stafford
+YR 2004
+T1 A statistical framework for genomic data fusion
+JF Bioinformatics/computer Applications in The Biosciences
+VO 20
+SP 2626
+OP 2635
+IS 16
+
+RT Conference Proceedings
+ID 1263527
+A1 Lanckriet,Gert,R.,G.
+A1 Deng,Minghua
+A1 Cristianini,Nello
+A1 Jordan,Michael,I.
+A1 Noble,William,Stafford
+YR 2004
+T1 Kernel-Based Data Fusion and Its Application to Protein Function Prediction in Yeast
+SP 300
+OP 311
+
+RT Conference Proceedings
+ID 2278159
+A1 Blei,D.
+A1 Gri,T.
+A1 Jordan,M.
+A1 Tenenbaum,J.
+YR 2004
+T1 Hierarchical topic models and the nested Chinese restaurant process
+
+RT Journal Article
+ID 872802
+A1 Fukumizu,Kenji
+A1 Bach,Francis,R.
+A1 Jordan,Michael,I.
+YR 2004
+T1 Dimensionality Reduction for Supervised Learning with Reproducing Kernel Hilbert Spaces
+JF Journal of Machine Learning Research
+VO 5
+SP 73
+OP 99
+
+RT Journal Article
+ID 1712849
+A1 D'aspremont,Alexandre
+A1 Ghaoui,Laurent,El
+A1 Jordan,Michael,I.
+A1 Lanckriet,Gert,R.,G.
+YR 2004
+T1 A Direct Formulation for Sparse PCA Using Semidefinite Programming
+JF Computing Research Repository
+VO cs.CE/0406
+
+RT Journal Article
+ID 10174209
+A1 Giaever,Guri
+A1 Flaherty,Patrick
+A1 Kumm,Jochen
+A1 Proctor,Michael
+A1 Nislow,Corey
+A1 Jaramillo,Daniel,F.
+A1 Chu,Angela,M.
+A1 Jordan,Michael,I.
+A1 Arkin,Adam,P.
+A1 Davis,Ronald,W.
+YR 2004
+T1 Chemogenomic profiling: identifying the functional interactions of small molecules in yeast
+JF Proceedings of The National Academy of Sciences
+VO 101
+SP 793
+OP 798
+IS 3
+
+RT Conference Proceedings
+ID 1870356
+A1 Chen,Mike,Y.
+A1 Zheng,Alice,X.
+A1 Lloyd,Jim
+A1 Jordan,Michael,I.
+A1 Brewer,Eric,A.
+YR 2004
+T1 Failure Diagnosis Using Decision Trees
+SP 36
+OP 43
+
+RT Conference Proceedings
+ID 2757068
+A1 Ng,Andrew,Y.
+A1 Kim,H.,Jin
+A1 Jordan,Michael
+A1 Sastry,Shankar
+YR 2004
+T1 Autnonomous helicopter flight via reinforcement learning
+
+RT Conference Proceedings
+ID 1811522
+A1 Bach,Francis,R.
+A1 Jordan,Michael,I.
+YR 2004
+T1 Blind One-microphone Speech Separation: A Spectral Learning Approach
+
+RT Conference Proceedings
+ID 908390
+A1 Blei,David,M.
+A1 Jordan,Michael,I.
+YR 2004
+T1 Variational methods for the Dirichlet process
+SP 12
+
+RT Conference Proceedings
+ID 1811605
+A1 Teh,Yee,Whye
+A1 Jordan,Michael,I.
+A1 Beal,Matthew,J.
+A1 Blei,David,M.
+YR 2004
+T1 Sharing Clusters among Related Groups: Hierarchical Dirichlet Processes
+
+RT Conference Proceedings
+ID 1811576
+A1 Bach,Francis,R.
+A1 Thibaux,Romain
+A1 Jordan,Michael,I.
+YR 2004
+T1 Computing regularization paths for learning multiple kernels
+
+RT Conference Proceedings
+ID 1811500
+A1 Lawrence,Neil,D.
+A1 Jordan,Michael,I.
+YR 2004
+T1 Semi-supervised Learning via Gaussian Processes
+
+RT Conference Proceedings
+ID 908285
+A1 Xing,Eric,P.
+A1 Sharan,Roded
+A1 Jordan,Michael,I.
+YR 2004
+T1 Bayesian haplotype inference via the dirichlet process
+SP 111
+
+RT Journal Article
+ID 2159076
+A1 XING,ERIC P.
+A1 Wu,Wei
+A1 Jordan,Michael,I.
+A1 Karp,Richard,M.
+YR 2004
+T1 Logos: a Modular Bayesian Model for de Novo Motif Detection
+JF Journal of Bioinformatics and Computational Biology
+VO 2
+SP 127
+OP 154
+IS 1
+
+RT Journal Article
+ID 1727851
+A1 Mcauliffe,Jon,D.
+A1 Pachter,Lior
+A1 Jordan,Michael,I.
+YR 2004
+T1 Multiple-sequence functional annotation and the generalized hidden Markov phylogeny
+JF Bioinformatics/computer Applications in The Biosciences
+VO 20
+SP 1850
+OP 1860
+IS 12
+
+RT Journal Article
+ID 1255988
+A1 Liblit,Ben
+A1 Naik,Mayur
+A1 Zheng,Alice,X.
+A1 Aiken,Alex
+A1 Jordan,Michael,I.
+YR 2004
+T1 Public Deployment of Cooperative Bug Isolation
+
+RT Book, Whole
+ID 1899480
+A1 Lawrence,Neil,D.
+A1 Platt,John,C.
+A1 Jordan,Michael,I.
+YR 2004
+T1 Extensions of the Informative Vector Machine
+SP 56
+OP 87
+
+RT Conference Proceedings
+ID 2083115
+A1 Chen,Mike,Y.
+A1 Zheng,A.
+A1 Lloyd,J.
+A1 Jordan,M.
+A1 Brewer,E.
+YR 2004
+T1 A statistical learning approach to failure diagnosis
+
+RT Journal Article
+ID 1641069
+A1 Bach,Francis,R.
+A1 Jordan,Michael,I.
+YR 2004
+T1 Learning graphical models for stationary time series
+JF IEEE Transactions on Signal Processing
+VO 52
+SP 2189
+OP 2199
+IS 8
+
+RT Journal Article
+ID 1700322
+A1 Bhattacharyya,Chiranjib
+A1 Grate,L.,R.
+A1 Jordan,Michael,I.
+A1 Ghaoui,Laurent,El
+A1 Mian,I.,Saira
+YR 2004
+T1 Robust Sparse Hyperplane Classifiers: Application to Uncertain Molecular Profiling Data
+JF Journal of Computational Biology
+VO 11
+SP 1073
+OP 1089
+IS 6
+
+RT Conference Proceedings
+ID 2474646
+A1 Xing,Eric,P.
+A1 Jordan,Michael,I.
+A1 Russell,Stuart
+YR 2004
+T1 Graph Partition Strategies for Generalized Mean Field Inference
+SP 602
+OP 610
+
+RT Conference Proceedings
+ID 908388
+A1 Nguyen,XuanLong
+A1 Wainwright,Martin,J.
+A1 Jordan,Michael,I.
+YR 2004
+T1 Decentralized detection and classification using kernel methods
+SP 80
+
+RT Journal Article
+ID 2667014
+A1 Bach,F.,R.
+A1 Jordan,M.,I.
+YR 2004
+T1 Advances in Neural Information Processing Systems (NIPS) 16
+
+RT Journal Article
+ID 2704760
+A1 Jordan,M.,I.
+YR 2004
+T1 An Inroduction to Learning in Graphical Models
+
+RT Journal Article
+ID 2324414
+A1 Bach,Francis,R.
+A1 Lanckriet,Gert,R.,G.
+A1 Jordan,Michael,I.
+YR 2004
+T1 Fast Kernel Learning using Sequential Minimal Optimization
+
+RT Journal Article
+ID 4619195
+A1 Liblit,Ben
+A1 Naik,Mayur
+A1 Zheng,Alice,X.
+A1 Aiken,Alex
+A1 Jordan,Michael,I.
+YR 2004
+T1 Statistical Debugging in the Presence of Multiple Errors
+
+RT Journal Article
+ID 27772287
+A1 McAuliffe,Jon,D.
+A1 Jordan,Michael,I.
+A1 Pachter,Lior
+YR 2004
+T1 Subtree power analysis finds optimal species for comparative genomics
+
+RT Journal Article
+ID 53936349
+A1 d'Aspremont,Alexandre
+A1 Ghaoui,Laurent,El
+A1 Jordan,Michael,I.
+A1 Lanckriet,Gert,R.,G.
+YR 2004
+T1 A direct formulation for sparse PCA using semidefinite programming
+
+RT Journal Article
+ID 53843844
+A1 Jordan,M.
+A1 Smith,R.,B.
+A1 Waite,G.,P.
+YR 2004
+T1 Tomographic Images of the Yellowstone Hotspot Structure
+
+RT Journal Article
+ID 43377467
+A1 Jordan,M.
+YR 2004
+T1 The Managing Care Reader, Jill Reynolds, Jeanette Henderson, Janet Seden, Julie Charlesworth and Anne Bullman (eds), London and New York, Routledge Taylor and Francis, The Open University, 2003, pp. xix + 354, ISBN 0 415 29789 3 (pbk)
+JF British Journal of Social Work
+VO 34
+SP 467
+OP 468
+IS 3
+
+RT Journal Article
+ID 794575
+A1 Blei,David,M.
+A1 Ng,Andrew,Y.
+A1 Jordan,Michael,I.
+YR 2003
+T1 Latent dirichlet allocation
+JF Journal of Machine Learning Research
+VO 3
+SP 993
+OP 1022
+
+RT Journal Article
+ID 81067
+A1 Barnard,Kobus
+A1 Duygulu,Pinar
+A1 Forsyth,David,A.
+A1 Freitas,Nando,de
+A1 Blei,David,M.
+A1 Jordan,Michael,I.
+YR 2003
+T1 Matching Words and Pictures
+JF Journal of Machine Learning Research
+VO 3
+SP 1107
+OP 1135
+
+RT Conference Proceedings
+ID 630889
+A1 Blei,David,M.
+A1 Jordan,Michael,I.
+YR 2003
+T1 Modeling annotated data
+SP 127
+OP 134
+
+RT Journal Article
+ID 17488
+A1 Liblit,Ben
+A1 Aiken,Alexander
+A1 Zheng,Alice,X.
+A1 Jordan,Michael,I.
+YR 2003
+T1 Bug isolation via remote program sampling
+JF Sigplan Notices
+VO 38
+SP 141
+OP 154
+IS 5
+
+RT Journal Article
+ID 15222545
+A1 Andrieu,Christophe
+A1 Freitas,Nando,de
+A1 Doucet,Arnaud
+A1 Jordan,Michael,I.
+YR 2003
+T1 An Introduction to MCMC for Machine Learning
+JF Machine Learning
+VO 50
+SP 5
+OP 43
+IS 1
+
+RT Conference Proceedings
+ID 1811209
+A1 Blei,David,M.
+A1 Griffiths,Thomas,L.
+A1 Jordan,Michael,I.
+A1 Tenenbaum,Joshua,B.
+YR 2003
+T1 Hierarchical Topic Models and the Nested Chinese Restaurant Process
+
+RT Conference Proceedings
+ID 2133747
+A1 Bach,Francis,R.
+A1 Jordan,Michael,I.
+YR 2003
+T1 Learning Spectral Clustering
+
+RT Conference Proceedings
+ID 1811288
+A1 Ng,Andrew,Y.
+A1 Kim,H.,Jin
+A1 Jordan,Michael,I.
+A1 Sastry,Shankar
+YR 2003
+T1 Autonomous Helicopter Flight via Reinforcement Learning
+
+RT Journal Article
+ID 2074299
+A1 Jordan,Michael,I.
+YR 2003
+T1 An Introduction to Probabilistic Graphical Models
+
+RT Conference Proceedings
+ID 3818152
+A1 Bernardinis,Fernando,De
+A1 Jordan,M.,I.
+A1 Vincentelli,A.,Sangiovanni
+YR 2003
+T1 Support vector machines for analog circuit performance representation
+SP 964
+OP 969
+
+RT Conference Proceedings
+ID 50335447
+A1 Sinopoli,Bruno
+A1 Schenato,Luca
+A1 Franceschetti,Massimo
+A1 Poolla,Kameshwar
+A1 Jordan,Michael,I.
+A1 Sastry,Shankar,S.
+YR 2003
+T1 Kalman filtering with intermittent observations
+VO 1
+SP 701
+
+RT Conference Proceedings
+ID 485779
+A1 Xing,Eric,P.
+A1 Jordan,Michael,I.
+A1 Russell,Stuart,J.
+YR 2003
+T1 A generalized mean field algorithm for variational inference in exponentialfamilies
+SP 583
+OP 591
+
+RT Conference Proceedings
+ID 1811268
+A1 Zheng,Alice,X.
+A1 Jordan,Michael,I.
+A1 Liblit,Ben
+A1 Aiken,Alexander
+YR 2003
+T1 Statistical Debugging of Sampled Programs
+
+RT Journal Article
+ID 6521841
+A1 Corbin,Rebecca,W.
+A1 Paliy,Oleg
+A1 Yang,Feng
+A1 Shabanowitz,Jeffrey
+A1 Platt,Mark
+A1 Jr.,Charles,E.,Lyons
+A1 Root,Karen
+A1 McAuliffe,Jon
+A1 Jordan,Michael,I.
+A1 Soupene,Eric
+A1 Hunt,Donald,F.
+YR 2003
+T1 Toward a protein profile of Escherichia coli: Comparison to its transcription profile
+JF Proceedings of The National Academy of Sciences
+VO 100
+SP 9232
+OP 9237
+IS 16
+
+RT Conference Proceedings
+ID 3294983
+A1 Sinopoli,B.
+A1 Schenato,L.
+A1 Franceschetti,M.
+A1 Poolla,K.
+A1 Jor-dan,M.
+A1 Sastry,S.
+YR 2003
+T1 Kalman filtering with intermittent observations
+
+RT Journal Article
+ID 794623
+A1 Bach,Francis,R.
+A1 Jordan,Michael,I.
+YR 2003
+T1 Beyond Independent Components: Trees and Clusters
+JF Journal of Machine Learning Research
+VO 4
+SP 1205
+OP 1233
+
+RT Journal Article
+ID 872885
+A1 Lanckriet,Gert,R.,g.
+A1 Ghaoui,Laurent,El
+A1 Bhattacharyya,Chiranjib
+A1 Jordan,Michael,I.
+YR 2003
+T1 A robust minimax approach to classification
+JF Journal of Machine Learning Research
+
+RT Conference Proceedings
+ID 458052
+A1 Xing,Eric,P.
+A1 Wu,Wei
+A1 Jordan,Michael,I.
+A1 Karp,Richard,M.
+YR 2003
+T1 LOGOS: a modular Bayesian model for de novo motif detection
+SP 266
+OP 276
+
+RT Journal Article
+ID 2313398
+A1 BLEI,DAVID,M.
+A1 JORDAN,MICHAEL,I.
+A1 NG,ANDREW,Y.
+YR 2003
+T1 Hierarchical Bayesian Models for Applications in Information Retrieval
+
+RT Journal Article
+ID 21260
+A1 Liblit,Ben
+A1 Aiken,Alex
+A1 Zheng,Alice,X.
+A1 Jordan,Michael,I.
+YR 2003
+T1 Sampling User Executions for Bug Isolation
+
+RT Journal Article
+ID 2281102
+A1 Wainwright,Martin,J.
+A1 Jordan,Michael,I.
+YR 2003
+T1 Variational inference in graphical models: The view from the marginal polytope
+
+RT Conference Proceedings
+ID 36254
+A1 Wainwright,Martin,J.
+A1 Jordan,Michael,I.
+YR 2003
+T1 Semidefinite Relaxations for Approximate Inference on Graphs with Cycles
+
+RT Conference Proceedings
+ID 1811187
+A1 Bartlett,Peter,L.
+A1 Jordan,Michael,I.
+A1 Mcauliffe,Jon,D.
+YR 2003
+T1 Large Margin Classifiers: Convex Loss, Low Noise, and Convergence Rates
+
+RT Journal Article
+ID 924937
+A1 Bhattacharyya,Chiranjib
+A1 Grate,L.,R.
+A1 Rizki,A.
+A1 Radisky,D.
+A1 Molina,F.,J.
+A1 Jordan,Michael,I.
+A1 Bissell,Mina,J.
+A1 Mian,I.,Saira
+YR 2003
+T1 Simultaneous classification and relevant feature identification in high-dimensional spaces: application to molecular profiling data
+JF Signal Processing
+VO 83
+SP 729
+OP 743
+IS 4
+
+RT Conference Proceedings
+ID 12766711
+A1 Bernardinis,F.,De
+A1 Jordan,M.,I.
+A1 SangiovanniVincentelli,A.
+YR 2003
+T1 Support vector machines for analog circuit performance representation
+
+RT Conference Proceedings
+ID 2380674
+A1 Wainwright,Martin,J.
+A1 Jordan,Michael,I.
+YR 2003
+T1 Semidefinite methods for approximate inference on graphs with cycles
+
+RT Conference Proceedings
+ID 1811211
+A1 Fukumizu,Kenji
+A1 Bach,Francis,R.
+A1 Jordan,Michael,I.
+YR 2003
+T1 Kernel Dimensionality Reduction for Supervised Learning
+
+RT Journal Article
+ID 2708021
+A1 Jordan,M.,I.
+YR 2003
+T1 An Introduction to Probabilistic Graphical Methods
+
+RT Journal Article
+ID 6760733
+A1 Grate,L.,R.
+A1 Bhattacharyya,C.
+A1 Jordan,M.,I.
+A1 Mian,I.,S.
+YR 2003
+T1 Integrated analysis of transcript profiling and protein sequence data
+JF Mechanisms of Ageing and Development
+VO 124
+SP 109
+OP 114
+IS 1
+
+RT Conference Proceedings
+ID 1811323
+A1 Nguyen,Xuanlong
+A1 Jordan,Michael,I.
+YR 2003
+T1 On the Concentration of Expectation and Approximate Inference in Layered Networks
+
+RT Journal Article
+ID 3311634
+A1 Blei,D.,M.
+A1 Jordan,M.,I.
+A1 Ng,A.,Y.
+YR 2003
+T1 Latent Dirichlet models for application in information retrieval
+
+RT Journal Article
+ID 2734574
+A1 Rosen-zvi,M.
+A1 Jordan,M.,I.
+YR 2003
+T1 Approximate inference and the DLR equations
+
+RT Journal Article
+ID 39219095
+A1 Liblit,Ben
+A1 Aiken,Alex
+A1 Zheng,Alice,X.
+A1 Jordan,Michael,I.
+YR 2003
+T1 Bug isolation via remote program sampling
+JF Sigplan Notices
+SP 141
+OP 154
+
+RT Journal Article
+ID 4965920
+A1 Blei,David,M.
+A1 Jordan,Michael,I.
+YR 2003
+T1 Variational inference in a truncated Dirichlet process
+
+RT Journal Article
+ID 51384871
+A1 Genereux,D.,P.
+A1 Jordan,M.
+A1 Carbonell,D.
+YR 2003
+T1 Use of Water and Chemical Budgets to Quantify Interbasin Groundwater Transfer in a Lowland Rainforest
+
+RT Journal Article
+ID 52545379
+A1 Jordan,M.
+A1 Smith,R.,B.
+A1 Husen,S.
+YR 2003
+T1 Yellowstone: A 3D Regional Delaytime Inversion Using Multiple Constraints
+
+RT Conference Proceedings
+ID 1811429
+A1 Xing,Eric,P.
+A1 Ng,Andrew,Y.
+A1 Jordan,Michael,I.
+A1 Russell,Stuart,J.
+YR 2002
+T1 Distance Metric Learning with Application to Clustering with Side-Information
+SP 505
+OP 512
+
+RT Journal Article
+ID 794563
+A1 Bach,Francis,R.
+A1 Jordan,Michael,I.
+YR 2002
+T1 Kernel Independent Component Analysis
+JF Journal of Machine Learning Research
+VO 3
+SP 1
+OP 48
+
+RT Conference Proceedings
+ID 70018
+A1 Lanckriet,Gert,R.,G.
+A1 Cristianini,Nello
+A1 Bartlett,Peter,L.
+A1 Ghaoui,Laurent,El
+A1 Jordan,Michael,I.
+YR 2002
+T1 Learning the Kernel Matrix with Semi-Definite Programming
+SP 323
+OP 330
+
+RT Journal Article
+ID 2377602
+A1 Jordan,Michael,I.
+YR 2002
+T1 Optimal feedback control as a theory of motor coordination
+JF Nature Neuroscience
+VO 5
+SP 1226
+OP 1235
+IS 11
+
+RT Journal Article
+ID 6890
+A1 Lanckriet,Gert,R.,G.
+A1 Ghaoui,Laurent,El
+A1 Bhattacharyya,Chiranjib
+A1 Jordan,Michael,I.
+YR 2002
+T1 A Robust Minimax Approach to Classification
+JF Journal of Machine Learning Research
+VO 3
+SP 555
+OP 582
+
+RT Journal Article
+ID 2058385
+A1 Jordan,Michael
+A1 Bishop,Chris
+YR 2002
+T1 An Introduction to Graphical Models
+
+RT Conference Proceedings
+ID 485370
+A1 Tatikonda,Sekhar
+A1 Jordan,Michael,I.
+YR 2002
+T1 Loopy Belief Propogation and Gibbs Measures
+SP 493
+OP 500
+
+RT Journal Article
+ID 3642996
+A1 Micheli,Mario
+A1 Jordany,Michael,I.
+YR 2002
+T1 Random Sampling of a Continuous-time Stochastic Dynamical System
+
+RT Conference Proceedings
+ID 1811435
+A1 Lanckriet,Gert,R.,G.
+A1 Ghaoui,Laurent,El
+A1 Jordan,Michael,I.
+YR 2002
+T1 Robust Novelty Detection with Single-Class MPM
+SP 905
+OP 912
+
+RT Conference Proceedings
+ID 485100
+A1 Bach,Francis,R.
+A1 Jordan,Michael,I.
+YR 2002
+T1 Tree-dependent Component Analysis
+SP 36
+OP 44
+
+RT Journal Article
+ID 861907
+A1 Jordan,Michael,I.
+A1 Sejnowski,Terrence,J.
+YR 2002
+T1 Graphical Models: Foundations of Neural Computation
+JF Pattern Analysis and Applications
+VO 5
+SP 401
+OP 402
+IS 4
+
+RT Conference Proceedings
+ID 1811380
+A1 Bach,Francis,R.
+A1 Jordan,Michael,I.
+YR 2002
+T1 Learning Graphical Models with Mercer Kernels
+SP 1009
+OP 1016
+
+RT Conference Proceedings
+ID 1811442
+A1 Xing,Eric,P.
+A1 Jordan,Michael,I.
+A1 Karp,Richard,M.
+A1 Russell,Stuart,J.
+YR 2002
+T1 A Hierarchical Bayesian Markovian Model for Motifs in Biopolymer Sequences
+SP 1489
+OP 1496
+
+RT Conference Proceedings
+ID 1811452
+A1 Todorov,Emanuel
+A1 Jordan,Michael,I.
+YR 2002
+T1 A Minimal Intervention Principle for Coordinated Movement
+SP 27
+OP 34
+
+RT Book, Whole
+ID 577713
+A1 Grate,L.,R.
+A1 Bhattacharyya,Chiranjib
+A1 Jordan,Michael,I.
+A1 Mian,I.,Saira
+YR 2002
+T1 Simultaneous Relevant Feature Identification and Classification in High-Dimensional Spaces
+SP 1
+OP 9
+
+RT Journal Article
+ID 2377582
+A1 Todorov,Emanuel
+A1 Jordan,Michael,I.
+YR 2002
+T1 Optimal control as a theory of motor coordination
+
+RT Journal Article
+ID 19286665
+A1 Jordan,Michael
+A1 Dı́az,Rodolfo,E.
+A1 Hirleman,E.,Dan
+YR 2002
+T1 Semiempirical model of light scattering from submicron pyramidal pits
+JF Optical Engineering
+VO 41
+SP 518
+IS 2
+
+RT Journal Article
+ID 54188147
+A1 Jordan,Michael
+A1 Diaz,Rodolfo,E.
+A1 Hirleman,E.,Dan
+YR 2002
+T1 Semiempirical model of light scattering from submicron pyramidal pits
+JF Optical Engineering
+VO 41
+SP 518
+OP 528
+
+RT Journal Article
+ID 51572526
+A1 Ritter,J.,R.
+A1 Jordan,M.
+A1 Achauer,U.
+A1 Christensen,U.,R.
+YR 2002
+T1 Structure and Physics of the Eifel Plume, Europe
+
+RT Journal Article
+ID 51934049
+A1 Ritter,J.,R.,R.
+A1 Jordan,M.
+A1 Achauer,U.
+A1 Christensen,U.,R.
+YR 2002
+T1 Seismic Structure and Physical State of The Eifel Plume, Germany
+
+RT Journal Article
+ID 54497833
+A1 Jordan,M.
+A1 Zell,M.
+YR 2002
+T1 The Development of the First Experiments for the European Fluid Science Laboratory on the International Space Station
+
+RT Journal Article
+ID 43377223
+A1 Jordan,M.
+YR 2002
+T1 Champions for Children, The lives of modern child care pioneers, Bob Holman
+JF British Journal of Social Work
+VO 32
+SP 640
+OP 641
+IS 5
+
+RT Conference Proceedings
+ID 53985
+A1 Blei,David,M.
+A1 Ng,Andrew,Y.
+A1 Jordan,Michael,I.
+YR 2001
+T1 Latent Dirichlet Allocation
+SP 601
+OP 608
+
+RT Conference Proceedings
+ID 105890
+A1 Ng,Andrew,Y.
+A1 Jordan,Michael,I.
+A1 Weiss,Yair
+YR 2001
+T1 On Spectral Clustering: Analysis and an algorithm
+SP 849
+OP 856
+
+RT Conference Proceedings
+ID 53057
+A1 Ng,Andrew,Y.
+A1 Jordan,Michael,I.
+YR 2001
+T1 On Discriminative vs. Generative Classifiers: A comparison of logistic regression and naive Bayes
+SP 841
+OP 848
+
+RT Conference Proceedings
+ID 126973
+A1 Xing,Eric,P.
+A1 Jordan,Michael,I.
+A1 Karp,Richard,M.
+YR 2001
+T1 Feature selection for high-dimensional genomic microarray data
+SP 601
+OP 608
+
+RT Conference Proceedings
+ID 128979
+A1 Ng,Andrew,Y.
+A1 Zheng,Alice,X.
+A1 Jordan,Michael,I.
+YR 2001
+T1 Link Analysis, Eigenvectors and Stability
+SP 903
+OP 910
+
+RT Conference Proceedings
+ID 109010
+A1 Ng,Andrew,Y.
+A1 Zheng,Alice,X.
+A1 Jordan,Michael,I.
+YR 2001
+T1 Stable algorithms for link analysis
+SP 258
+OP 266
+
+RT Conference Proceedings
+ID 53752
+A1 Lanckriet,Gert,R.,G.
+A1 Ghaoui,Laurent,El
+A1 Bhattacharyya,Chiranjib
+A1 Jordan,Michael,I.
+YR 2001
+T1 Minimax Probability Machine
+SP 801
+OP 807
+
+RT Conference Proceedings
+ID 124501
+A1 Bach,Francis,R.
+A1 Jordan,Michael,I.
+YR 2001
+T1 Thin Junction Trees
+SP 569
+OP 576
+
+RT Conference Proceedings
+ID 132107
+A1 Ng,Andrew,Y.
+A1 Jordan,Michael,I.
+YR 2001
+T1 Convergence rates of the Voting Gibbs classifier, with application to Bayesian feature selection
+SP 377
+OP 384
+
+RT Journal Article
+ID 2372060
+A1 Jordan,M.
+A1 Sejnowski,T.
+A1 Poggio,T.
+YR 2001
+T1 Graphical models: Foundations of neural computation
+JF Journal of Computational Neuroscience
+
+RT Conference Proceedings
+ID 127514
+A1 Deshpande,Amol
+A1 Garofalakis,Minos,N.
+A1 Jordan,Michael,I.
+YR 2001
+T1 Efficient Stepwise Selection in Decomposable Models
+SP 128
+OP 135
+
+RT Journal Article
+ID 798754
+A1 Ma,Jinwen
+A1 Xu,Lei
+A1 Jordan,Michael,I.
+YR 2001
+T1 Asymptotic Convergence Rate of the EM Algorithm for Gaussian Mixtures
+JF Neural Computation
+VO 12
+SP 2881
+OP 2907
+IS 12
+
+RT Journal Article
+ID 53909848
+A1 Jordan,Michael,I.
+A1 Lecun,Yann
+A1 Solla,Sara,A.
+YR 2001
+T1 Advances in Neural Information Processing Systems
+
+RT Journal Article
+ID 52460431
+A1 Jordan,Michael
+A1 Diaz,Rodolfo,E.
+A1 Hirleman,Edwin,D.
+YR 2001
+T1 Analytical first-order model of light scattering from submicron pyramidal pits
+VO 4275
+SP 138
+OP 146
+
+RT Journal Article
+ID 51728709
+A1 Ritter,J.,R.
+A1 Keyser,M.
+A1 Jordan,M.
+YR 2001
+T1 S-Wave Tomography in the Eifel Volcanic Area
+
+RT Journal Article
+ID 55867952
+A1 Jordan,M.
+A1 Meyer,R.
+A1 Ritter,J.,R.
+YR 2001
+T1 P-Wave Attenuation Tomography in the Eifel Region
+
+RT Journal Article
+ID 43377129
+A1 Jordan,M.
+YR 2001
+T1 Quality in Social Public Services, Jane Pillinger, Luxembourg, European Foundation for the Improvement of Living and Working Conditions, 2001, pp ix + 138, ISBN 92 897 0066 1 Euros 20.50
+JF British Journal of Social Work
+VO 31
+SP 811
+OP 812
+IS 5
+
+RT Journal Article
+ID 55565957
+A1 Jordan,M.
+YR 2001
+T1 Multiwavelength Observations of Markarian 421
+
+RT Conference Proceedings
+ID 244113
+A1 Ng,Andrew,Y.
+A1 Jordan,Michael,I.
+YR 2000
+T1 PEGASUS: A Policy Search Method for Large MDPs and POMDPs
+SP 406
+OP 415
+
+RT Journal Article
+ID 184396
+A1 Meila,Marina
+A1 Jordan,Michael,I.
+YR 2000
+T1 Learning with Mixtures of Trees
+JF Journal of Machine Learning Research
+VO 1
+SP 1
+OP 48
+
+RT Journal Article
+ID 2081795
+A1 Jaakkola,Tommi
+A1 Jordan,Michael
+YR 2000
+T1 Bayesian parameter estimation via variational methods
+JF Statistics and Computing
+
+RT Journal Article
+ID 15244115
+A1 Ma,Jinwen
+A1 Xu,Lei
+A1 Jordan,Michael,I.
+YR 2000
+T1 Asymptotic Convergence Rate of the EM Algorithm for Gaussian Mixtures
+JF Neural Computation
+VO 12
+SP 2881
+OP 2907
+IS 12
+
+RT Journal Article
+ID 2773285
+A1 Jaakkola,T.,S.
+A1 Jordan,M.,I.
+YR 2000
+T1 Bayesian logistic regression: a varia-tional approach
+JF Statistics and Computing
+
+RT Journal Article
+ID 303944
+A1 Saul,Lawrence,K.
+A1 Jordan,Michael,I.
+YR 2000
+T1 Attractor Dynamics in Feedforward Neural Networks
+JF Neural Computation
+VO 12
+SP 1313
+OP 1335
+IS 6
+
+RT Journal Article
+ID 15276507
+A1 Jaakkola,Tommi,S.
+A1 Jordan,Michael,I.
+YR 2000
+T1 Bayesian parameter estimation via variational methods
+JF Statistics and Computing
+VO 10
+SP 25
+OP 37
+IS 1
+
+RT Journal Article
+ID 45368171
+A1 Jordan,M.
+A1 Graham,G.
+A1 Sorbie,K.
+A1 Matharu,A.
+A1 Tomlins,R.
+A1 Bunney,J.
+YR 2000
+T1 Scale Dissolver Application: Production Enhancement and Formation-Damage Potential
+JF SPE Production & Facilities
+VO 15
+SP 288
+OP 295
+IS 4
+
+RT Journal Article
+ID 58809509
+A1 D,Neil
+A1 Wintle,Russell
+A1 Freiter,Edward
+A1 Jordan,M.
+YR 2000
+T1 Field Experiences with a Novel Near Real Time Monitor for Scale Deposition in Oilfield Systems
+
+RT Journal Article
+ID 58809505
+A1 Jordan,M.
+A1 Seland,G.
+A1 Gilje,H.
+A1 Jordan,K.
+YR 2000
+T1 The Use of Scale Inhibitor Squeeze Placement Software to Extend Squeeze Life and Reduce Operating Costs in Mature High Temperature Oilfields
+
+RT Journal Article
+ID 54068593
+A1 Jr.,Michael,Jordan
+YR 2000
+T1 Light scatter from pyramidal pits in silicon wafers
+
+RT Journal Article
+ID 709063
+A1 Jordan,Michael,I.
+A1 Ghahramani,Zoubin
+A1 Jaakkola,Tommi
+A1 Saul,Lawrence,K.
+YR 1999
+T1 An Introduction to Variational Methods for Graphical Models
+JF Machine Learning
+VO 37
+SP 183
+OP 233
+IS 2
+
+RT Conference Proceedings
+ID 389222
+A1 Murphy,Kevin,P.
+A1 Weiss,Yair
+A1 Jordan,Michael,I.
+YR 1999
+T1 Loopy Belief Propagation for Approximate Inference: An EmpiricalStudy
+SP 467
+OP 475
+
+RT Journal Article
+ID 2076734
+A1 Jordan,Michael,I.
+YR 1999
+T1 Learning in graphical models
+
+RT Conference Proceedings
+ID 2009701
+A1 Hofmann,T.
+A1 Puzicha,J.
+A1 Jordan,M.,I.
+YR 1999
+T1 Unsupervised learning from dyadic data
+
+RT Journal Article
+ID 709055
+A1 Saul,Lawrence,K.
+A1 Jordan,Michael,I.
+YR 1999
+T1 Mixed Memory Markov Models: Decomposing Complex Stochastic Processes as Mixtures of Simpler Ones
+JF Machine Learning
+VO 37
+SP 75
+OP 87
+IS 1
+
+RT Journal Article
+ID 177139
+A1 Jaakkola,Tommi
+A1 Jordan,Michael,I.
+YR 1999
+T1 Variational Probabilistic Inference and the QMR-DT Network
+JF Journal of Artificial Intelligence Research
+VO 10
+SP 291
+OP 322
+
+RT Journal Article
+ID 342575
+A1 Saul,Lawrence
+A1 Jordan,Michael
+YR 1999
+T1 A Mean Field Learning Algorithm For Unsupervised Neural Networks
+
+RT Journal Article
+ID 199703
+A1 Jaakkola,Tommi,S.
+A1 Jordan,Michael,I.
+YR 1999
+T1 Variational Methods and the QMR-DT Database
+VO 10
+
+RT Journal Article
+ID 37401509
+A1 Desmurget,Michel
+A1 Prablanc,Claude
+A1 Jordan,Michael
+A1 Jeannerod,Marc
+YR 1999
+T1 Are Reaching Movements Planned to be Straight and Invariant in the Extrinsic Space? Kinematic Comparison Between Compliant and Unconstrained Motions
+JF Quarterly Journal of Experimental Psychology Section A-human Experimental Psychology
+VO 52
+SP 981
+OP 1020
+IS 4
+
+RT Journal Article
+ID 15222376
+A1 Jordan,Michael,I.
+A1 Ghahramani,Zoubin
+A1 Jaakkola,Tommi,S.
+A1 Saul,Lawrence,K.
+YR 1999
+T1 An Introduction to Variational Methods for Graphical Models
+JF Machine Learning
+VO 37
+SP 183
+OP 233
+IS 2
+
+RT Conference Proceedings
+ID 3342532
+A1 Murphy,Kevin
+A1 Weiss,Yair
+A1 Jordan,Michael
+YR 1999
+T1 Loopy-belief propagation for approximate inference
+
+RT Journal Article
+ID 15222371
+A1 Saul,Lawrence,K.
+A1 Jordan,Michael,I.
+YR 1999
+T1 Mixed Memory Markov Models: Decomposing Complex Stochastic Processes as Mixtures of Simpler Ones
+JF Machine Learning
+VO 37
+SP 75
+OP 87
+IS 1
+
+RT Journal Article
+ID 44173011
+A1 Jordan,Michael
+YR 1999
+T1 Ontario's Integrated Justice Project: profile of a complex partnership agreement
+JF Canadian Public Administration-administration Publique Du Canada
+VO 42
+SP 26
+OP 41
+IS 1
+
+RT Conference Proceedings
+ID 559829
+A1 Ng,Andrew,Y.
+A1 Jordan,Michael,I.
+YR 1999
+T1 Approximate Inference A lgorithms for Two-Layer Bayesian Networks
+SP 533
+OP 539
+
+RT Journal Article
+ID 45368130
+A1 Jordan,M.
+A1 Edgerton,M.
+A1 Cole-Hamilton,J.
+A1 Mackin,K.
+YR 1999
+T1 Novel Wax-Diverter Technology Allows Successful Scale-Inhibitor Squeeze Treatment in a Subsea Horizontal Well
+JF SPE Production & Facilities
+VO 14
+SP 246
+OP 252
+IS 4
+
+RT Book, Whole
+ID 1264785
+A1 Jordan,M.,I.
+YR 1998
+T1 Learning in Graphical Models
+
+RT Conference Proceedings
+ID 560668
+A1 Hofmann,Thomas
+A1 Puzicha,Jan
+A1 Jordan,Michael,I.
+YR 1998
+T1 Learning from Dyadic Data
+SP 466
+OP 472
+
+RT Journal Article
+ID 355076
+A1 Jaakkola,Tommi,S.
+A1 Jordan,Michael,I.
+YR 1998
+T1 Improving the Mean Field Approximation via the Use of Mixture Distributions
+
+RT Journal Article
+ID 393656
+A1 Jaakkola,Tommi,S.
+A1 Jordan,Michael,I.
+YR 1998
+T1 Variational probabilistic inference and the QMR-DT database
+JF Journal of Artificial Intelligence Research
+
+RT Journal Article
+ID 2073714
+A1 Houde,John,F.
+A1 Jordan,Michael,I.
+YR 1998
+T1 Sensorimotor Adaptation in Speech Production
+JF Science
+VO 279
+SP 1213
+OP 1216
+IS 5354
+
+RT Journal Article
+ID 2406770
+A1 TODOROV,EMANUEL
+A1 JORDAN,MICHAEL,I.
+YR 1998
+T1 Smoothness Maximization Along a Predefined Path Accurately Predicts the Speed Profiles of Complex Arm Movements
+
+RT Journal Article
+ID 315697
+A1 Sabes,Philip,N.
+A1 Jordan,Michael,I.
+A1 Wolpert,Daniel,M.
+YR 1998
+T1 The Role of Inertial Sensitivity in Motor Planning
+
+RT Journal Article
+ID 385824
+A1 Jaakkola,Tommi,S.
+A1 Jordan,Michael,I.
+YR 1998
+T1 Bayesian Parameter Estimation Through Variational Methods
+JF Statistics and Computing
+
+RT Journal Article
+ID 2036903
+A1 Jordan,M.,I.
+A1 Ghahramani,Z.
+A1 Jaakkola,T.
+A1 Saul,L.,K.
+YR 1998
+T1 An introduction to variational approximations methods for graphical models
+
+RT Conference Proceedings
+ID 265886
+A1 Lawrence,Neil,D.
+A1 Bishop,Christopher,M.
+A1 Jordan,Michael,I.
+YR 1998
+T1 Mixture Representations for Inference and Learning in Boltzmann Machines
+SP 320
+OP 327
+
+RT Conference Proceedings
+ID 13298661
+A1 Jordan,Michael,I.
+A1 Kearns,Michael,J.
+A1 Solla,Sara,A.
+YR 1998
+T1 Advances in Neural Information Processing Systems 10, [NIPS Conference, Denver, Colorado, USA, 1997]
+
+RT Journal Article
+ID 798918
+A1 Smyth,Padhraic
+A1 Heckerman,David
+A1 Jordan,Michael,I.
+YR 1997
+T1 Probabilistic Independence Networks for Hidden Markov Probability Models
+JF Neural Computation
+VO 9
+SP 227
+OP 269
+IS 2
+
+RT Conference Proceedings
+ID 403722
+A1 Meila,Marina
+A1 Jordan,Michael,I.
+YR 1997
+T1 Estimating Dependency Structure as a Hidden Variable
+
+RT Journal Article
+ID 347374
+A1 Sabes,Philip,N.
+A1 Jordan,Michael,I.
+YR 1997
+T1 Obstacle Avoidance and a Perturbation Sensitivity Model for Motor Planning
+
+RT Journal Article
+ID 2046111
+A1 Ghahramani,Z.
+A1 Jordan,M.,I.
+YR 1997
+T1 Factorial hidden Markov models Machine Learning
+
+RT Journal Article
+ID 15222284
+A1 Ghahramani,Zoubin
+A1 Jordan,Michael,I.
+YR 1997
+T1 Factorial Hidden Markov Models
+JF Machine Learning
+VO 29
+SP 245
+OP 273
+IS 2
+
+RT Journal Article
+ID 34738917
+A1 Desmurget,Michel
+A1 Rossetti,Y.
+A1 Jordan,Michael
+A1 Meckler,Cedric
+A1 Prablanc,Claude
+YR 1997
+T1 Viewing the hand prior to movement improves accuracy of pointing performed toward the unseen contralateral hand
+JF Experimental Brain Research
+VO 115
+SP 180
+OP 186
+IS 1
+
+RT Journal Article
+ID 2645197
+A1 Jaakkola,T.
+A1 Jordan,M.
+YR 1997
+T1 A variational approach to bayesian logistic regression models and their extensions
+
+RT Journal Article
+ID 2667034
+A1 Mozer,In,M.,C.
+A1 Eds,T.,Petche
+YR 1997
+T1 Advances in Neural Information Processing Systems
+
+RT Journal Article
+ID 696284
+A1 Jordan,Michael,I.
+A1 Bishop,Christopher,M.
+YR 1997
+T1 Neural Networks
+
+RT Journal Article
+ID 1983866
+A1 Meila,M.
+A1 Jordan,Michael,I.
+YR 1997
+T1 Markov mixtures of experts
+
+RT Journal Article
+ID 2067298
+A1 Ghahramani,Z.
+A1 Wolpert,D.,M.
+A1 Jordan,M.,I.
+YR 1997
+T1 Computational models of sensorimotor organization
+
+RT Journal Article
+ID 4181633
+A1 Jaakkola,T.,S.
+A1 Jordan,M.,I.
+YR 1997
+T1 Improving the mean field approximation via the use of mixture models
+
+RT Journal Article
+ID 61400082
+A1 Bishop,Christopher,M.
+A1 Lawrence,N.
+A1 Jaakkola,T.
+A1 Jordan,M.,I.
+YR 1997
+T1 Approximating posterior distributions in belief networks using mixtures
+
+RT Conference Proceedings
+ID 13298659
+A1 Mozer,Michael
+A1 Jordan,Michael,I.
+A1 Petsche,Thomas
+YR 1997
+T1 Advances in Neural Information Processing Systems 9, NIPS, Denver, CO, USA, December 2-5, 1996
+
+RT Journal Article
+ID 56399645
+A1 Veefkind,P.
+A1 Leeuw,G.,de
+A1 Davidson,K.,L.
+A1 Jordan,M.
+A1 Wash,C.
+A1 Durkee,P.,H.
+A1 Hill,M.,K.
+A1 Smith,M.,H.
+YR 1997
+T1 EOPACE air mass characterization experiment [3125-07]
+VO 3125
+SP 66
+
+RT Conference Proceedings
+ID 560104
+A1 Houde,John,F.
+A1 Jordan,Michael,I.
+YR 1997
+T1 Adaptation in Speech Motor Control
+
+RT Book, Whole
+ID 49044160
+A1 Jordan,Michael,I.
+YR 1997
+T1 Chapter 25 Serial order: A parallel distributed processing approach
+VO 121
+SP 471
+OP 495
+
+RT Journal Article
+ID 391756
+A1 Cohn,David,A.
+A1 Ghahramani,Zoubin
+A1 Jordan,Michael,I.
+YR 1996
+T1 Active Learning with Statistical Models
+JF Journal of Artificial Intelligence Research
+VO cs.AI/9603
+SP 129
+OP 145
+
+RT Journal Article
+ID 61891
+A1 Saul,Lawrence,K.
+A1 Jaakkola,Tommi
+A1 Jordan,Michael,I.
+YR 1996
+T1 Mean Field Theory for Sigmoid Belief Networks
+JF Journal of Artificial Intelligence Research
+VO cs.AI/9603
+SP 61
+OP 76
+
+RT Journal Article
+ID 96653
+A1 Xu,Lei
+A1 Jordan,Michael,I.
+YR 1996
+T1 On Convergence Properties of the EM Algorithm for Gaussian Mixtures
+JF Neural Computation
+VO 8
+SP 129
+OP 151
+IS 1
+
+RT Conference Proceedings
+ID 559917
+A1 Jordan,Michael,I.
+A1 Ghahramani,Zoubin
+A1 Saul,Lawrence,K.
+YR 1996
+T1 Hidden Markov Decision Trees
+SP 501
+OP 507
+
+RT Conference Proceedings
+ID 3434
+A1 Jaakkola,Tommi
+A1 Jordan,Michael,I.
+YR 1996
+T1 Computing upper and lower bounds on likelihoods in intractable networks
+SP 340
+OP 348
+
+RT Journal Article
+ID 331657
+A1 Jordan,Michael,I.
+A1 Bishop,Christopher,M.
+YR 1996
+T1 Neural networks
+JF ACM Computing Surveys
+VO 28
+SP 73
+OP 75
+IS 1
+
+RT Journal Article
+ID 156273
+A1 Jordan,Michael,I.
+YR 1996
+T1 Computational aspects of motor control and motor learning
+
+RT Journal Article
+ID 216090
+A1 Alpaydin,Ethem
+A1 Jordan,Michael,I.
+YR 1996
+T1 Local linear perceptrons for classification
+JF IEEE Transactions on Neural Networks
+VO 7
+SP 788
+OP 794
+IS 3
+
+RT Conference Proceedings
+ID 318758
+A1 Jaakkola,Tommi
+A1 Jordan,Michael,I.
+YR 1996
+T1 Recursive Algorithms for Approximating Probabilities in Graphical Models
+SP 487
+OP 493
+
+RT Journal Article
+ID 202094
+A1 Ghahramani,Zoubin
+A1 Wolpert,Daniel,M.
+A1 Jordan,Michael,I.
+YR 1996
+T1 Generalization to Local Remappings of the Visuomotor Coordinate Transformation
+
+RT Journal Article
+ID 326234
+A1 Jaakkola,Tommi,S.
+A1 Jordan,Michael,I.
+YR 1996
+T1 A variational approach to Bayesian logistic regression models and their extensions
+
+RT Conference Proceedings
+ID 2482
+A1 Jordan,Michael,I.
+A1 Sabes,Philip,N.
+YR 1996
+T1 Reinforcement Learning by Probability Matching
+
+RT Conference Proceedings
+ID 339793
+A1 Saul,Lawrence,K.
+A1 Jordan,Michael,I.
+YR 1996
+T1 A Variational Principle for Model-Based Interpolation
+
+RT Journal Article
+ID 2645208
+A1 Jaakkola,T.
+A1 Jordan,M.
+YR 1996
+T1 A variational approach to Bayesian logistic regression problems and their extensions
+
+RT Journal Article
+ID 2364482
+A1 Cohn,D.,A.
+A1 Ghahramani,Z.
+A1 Jordan,M.,I.
+YR 1996
+T1 Active learning with statistical methods
+JF Journal of Artificial Intelligence Research
+
+RT Conference Proceedings
+ID 4304841
+A1 Saul,Lawrence,K.
+A1 Jordan,Michael,I.
+YR 1996
+T1 A Variational Principle for Model-based Morphing
+SP 267
+OP 273
+
+RT Conference Proceedings
+ID 560743
+A1 Meila,Marina
+A1 Jordan,Michael,I.
+YR 1996
+T1 Triangulation by Continuous Embedding
+SP 557
+OP 563
+
+RT Journal Article
+ID 57388392
+A1 Ghahramani,Zoubin
+A1 Jordan,Michael,I.
+YR 1996
+T1 Factorial Hidden Markov Models
+VO 8
+
+RT Journal Article
+ID 56210165
+A1 Houde,John,F.
+A1 Jordan,Michael,I.
+YR 1996
+T1 Patterns of generalization in speech sensorimotor adaptation
+JF Journal of The Acoustical Society of America
+VO 100
+SP 2663
+
+RT Book, Whole
+ID 49076036
+A1 Jordan,Michael,I.
+YR 1996
+T1 Chapter 2 Computational aspects of motor control and motor learning
+VO 2
+SP 71
+OP 120
+
+RT Conference Proceedings
+ID 312899
+A1 Ghahramani,Zoubin
+A1 Jordan,Michael,I.
+YR 1995
+T1 Factorial Hidden Markov Models
+SP 472
+OP 478
+
+RT Journal Article
+ID 1996201
+A1 Wolpert,Daniel,M.
+A1 Ghahramani,Zoubin
+A1 Jordan,Michael,I.
+YR 1995
+T1 An Internal Model for Sensorimotor Integration
+JF Science
+VO 269
+SP 1880
+OP 1882
+IS 5232
+
+RT Journal Article
+ID 2392512
+A1 Jordan,Michael,I.
+A1 Xu,Lei
+YR 1995
+T1 Convergence results for the EM approach to mixtures of experts architectures
+JF Neural Networks
+VO 8
+SP 1409
+OP 1431
+IS 9
+
+RT Conference Proceedings
+ID 321348
+A1 Jordan,Michael,I.
+A1 Singh,Satinder,P.
+A1 Jaakkola,Tommi
+YR 1995
+T1 Reinforcement Learning Algorithm for Partially Observable Markov Decision Problems
+
+RT Conference Proceedings
+ID 312401
+A1 Saul,Lawrence,K.
+A1 Jordan,Michael,I.
+YR 1995
+T1 Exploiting Tractable Substructures in Intractable Networks
+SP 486
+OP 492
+
+RT Journal Article
+ID 319890
+A1 Wolpert,Daniel,M.
+A1 Ghahramani,Zoubin
+A1 Jordan,Michael,I.
+YR 1995
+T1 Are arm trajectories planned in kinematic or dynamic coordinates? An adaptation study
+JF Experimental Brain Research
+VO 103
+SP 460
+OP 470
+IS 3
+
+RT Conference Proceedings
+ID 258046
+A1 Jordan,Michael,I.
+A1 Singh,Satinder,P.
+A1 Jaakkola,Tommi
+YR 1995
+T1 Reinforcement Learning with Soft State Aggregation
+
+RT Journal Article
+ID 369698
+A1 Jordan,Michael,I.
+A1 Ghahramani,Zoubin
+YR 1995
+T1 Learning From Incomplete Data
+
+RT Conference Proceedings
+ID 1972304
+A1 Xu,L.
+A1 Jordan,M.,I.
+A1 Hinton,G.,E.
+YR 1995
+T1 An alternative model for mixture of experts
+
+RT Conference Proceedings
+ID 560742
+A1 Meila,Marina
+A1 Jordan,Michael,I.
+YR 1995
+T1 Learning Fine Motion by Markov Mixtures of Experts
+SP 1003
+OP 1009
+
+RT Journal Article
+ID 396159
+A1 Jordan,Michael,I.
+YR 1995
+T1 Why the logistic function? A tutorial discussion on probabilities and neural networks
+
+RT Conference Proceedings
+ID 560748
+A1 Sabes,Philip,N.
+A1 Jordan,Michael,I.
+YR 1995
+T1 Reinforcement Learning by Probability Matching
+SP 1080
+OP 1086
+
+RT Journal Article
+ID 2089011
+A1 Jordan,M.,I.
+A1 Xu,L.
+YR 1995
+T1 Convergence results for the EM approach to mixtures of experts
+
+RT Conference Proceedings
+ID 347441
+A1 Jaakkola,Tommi
+A1 Saul,Lawrence,K.
+A1 Jordan,Michael,I.
+YR 1995
+T1 Fast Learning by Bounding Likelihoods in Sigmoid Type Belief Networks
+SP 528
+OP 534
+
+RT Journal Article
+ID 2011100
+A1 Perkell,Joseph,S.
+A1 Matthies,Melanie,L.
+A1 Svirsky,Mario,A.
+A1 Jordan,Michael,I.
+YR 1995
+T1 Goal-based speech motor control: A theoretical framework and some preliminary data
+JF Journal of Phonetics
+VO 23
+SP 23
+OP 35
+IS 1
+
+RT Journal Article
+ID 57846902
+A1 Jordan,Michael,I.
+YR 1995
+T1 The Organization of Action Sequences: Evidence from a Relearning Task
+JF Journal of Motor Behavior
+VO 27
+SP 179
+OP 192
+IS 2
+
+RT Journal Article
+ID 55361022
+A1 Houde,John,F.
+A1 Jordan,Michael,I.
+YR 1995
+T1 Adaptation in speech production to transformed auditory feedback
+JF Journal of The Acoustical Society of America
+VO 97
+SP 3243
+
+RT Journal Article
+ID 330199
+A1 Jordan,Michael,I.
+A1 Jacobs,Robert,A.
+YR 1994
+T1 Hierarchical Mixtures of Experts and the EM Algorithm
+JF Neural Computation
+VO 6
+SP 181
+OP 214
+IS 2
+
+RT Journal Article
+ID 2062423
+A1 Jacobs,R.,A.
+A1 Jordan,M.
+A1 Nowland,S.
+A1 Hinton,G.
+YR 1994
+T1 Adaptive mixtures of local experts
+JF Neural Computation
+
+RT Journal Article
+ID 127523
+A1 Jaakkola,Tommi
+A1 Jordan,Michael,I.
+A1 Singh,Satinder,P.
+YR 1994
+T1 On the Convergence of Stochastic Iterative Dynamic Programming Algorithms
+JF Neural Computation
+VO 6
+SP 1185
+OP 1201
+IS 6
+
+RT Conference Proceedings
+ID 560591
+A1 Saul,Lawrence,K.
+A1 Jordan,Michael,I.
+YR 1994
+T1 Boltzmann Chains and Hidden Markov Models
+SP 435
+OP 442
+
+RT Conference Proceedings
+ID 531048
+A1 Singh,Satinder,P.
+A1 Jaakkola,Tommi
+A1 Jordan,Michael,I.
+YR 1994
+T1 Learning Without State-Estimation in Partially Observable Markovian Decision Processes
+SP 284
+OP 292
+
+RT Conference Proceedings
+ID 560245
+A1 Xu,Lei
+A1 Jordan,Michael,I.
+A1 Hinton,Geoffrey,E.
+YR 1994
+T1 An Alternative Model for Mixtures of Experts
+SP 633
+OP 640
+
+RT Journal Article
+ID 1982155
+A1 Xu,L.
+A1 Jordan,M.,I.
+A1 Hinton,G.,E.
+YR 1994
+T1 A Modified Gating Network for the Mixtures of Experts Architecture
+
+RT Journal Article
+ID 384133
+A1 Saul,Lawrence,K.
+A1 Jordan,Michael,I.
+YR 1994
+T1 Learning in Boltzmann Trees
+JF Neural Computation
+VO 6
+SP 1174
+OP 1184
+IS 6
+
+RT Conference Proceedings
+ID 559770
+A1 Jaakkola,Tommi
+A1 Singh,Satinder,P.
+A1 Jordan,Michael,I.
+YR 1994
+T1 Reinforcement Learning Algorithm for Partially Observable Markov Decision Problems
+SP 345
+OP 352
+
+RT Conference Proceedings
+ID 3398389
+A1 Singh,S.,P.
+A1 Jaakkola,T.
+A1 Jordan,M.,I.
+YR 1994
+T1 Model-free reinforcement learning for non-Markovian decision problems
+
+RT Journal Article
+ID 34738240
+A1 Wolpert,Daniel,M.
+A1 Ghahramani,Zoubin
+A1 Jordan,Michael,I.
+YR 1994
+T1 Perceptual distortion contributes to the curvature of human reaching movements
+JF Experimental Brain Research
+VO 98
+SP 153
+OP 156
+IS 1
+
+RT Conference Proceedings
+ID 293051
+A1 Jordan,Michael,I.
+YR 1994
+T1 A statistical approach to decision tree modeling
+SP 13
+OP 20
+
+RT Journal Article
+ID 2050352
+A1 Ghahramani,Z.
+A1 Jordan,M.,I.
+YR 1994
+T1 Learning from incomplete data
+
+RT Conference Proceedings
+ID 560458
+A1 Singh,Satinder,P.
+A1 Jaakkola,Tommi
+A1 Jordan,Michael,I.
+YR 1994
+T1 Reinforcement Learning with Soft State Aggregation
+SP 361
+OP 368
+
+RT Journal Article
+ID 15244627
+A1 Jordan,Michael,I.
+A1 Flash,Tamar
+A1 Arnon,Yoram
+YR 1994
+T1 A Model of the Learning of Arm Trajectories from Spatial Deviations
+JF Journal of Cognitive Neuroscience
+VO 6
+SP 359
+OP 376
+IS 4
+
+RT Conference Proceedings
+ID 559796
+A1 Cohn,David,A.
+A1 Ghahramani,Zoubin
+A1 Jordan,Michael,I.
+YR 1994
+T1 Active Learning with Statistical Models
+SP 705
+OP 712
+
+RT Journal Article
+ID 2004060
+A1 Jordan,M.,I.
+A1 Flash,T.
+A1 Arnon,Y.
+YR 1994
+T1 A model of the learning of arm trajectories from spatial targets
+JF Journal of Cognitive Neuroscience
+
+RT Conference Proceedings
+ID 560838
+A1 Ghahramani,Zoubin
+A1 Wolpert,Daniel,M.
+A1 Jordan,Michael,I.
+YR 1994
+T1 Computational Structure of coordinate transformations: A generalization study
+SP 1125
+OP 1132
+
+RT Journal Article
+ID 2706385
+A1 Wolpert,D.,M.
+A1 Ghahramani,Z.
+A1 Jordan,M.,I.
+YR 1994
+T1 An internal model nondeclarative memory
+
+RT Conference Proceedings
+ID 560428
+A1 Wolpert,Daniel,M.
+A1 Ghahramani,Zoubin
+A1 Jordan,Michael,I.
+YR 1994
+T1 Forward dynamic models in human motor control: Psychophysical evidence
+SP 43
+OP 50
+
+RT Conference Proceedings
+ID 1401032
+A1 Jordan,Michael,I.
+A1 Jacobs,Robert,A.
+YR 1993
+T1 Hierarchical mixtures of experts and the EM algorithm
+
+RT Conference Proceedings
+ID 559747
+A1 Ghahramani,Zoubin
+A1 Jordan,Michael,I.
+YR 1993
+T1 Supervised learning from incomplete data via an EM approach
+SP 120
+OP 127
+
+RT Journal Article
+ID 994115
+A1 Jacobs,Robert,A.
+A1 Jordan,Michael,I.
+YR 1993
+T1 Learning piecewise control strategies in a modular neural network architecture
+JF IEEE Transactions on Systems, Man, and Cybernetics
+VO 23
+SP 337
+OP 345
+IS 2
+
+RT Conference Proceedings
+ID 559769
+A1 Jaakkola,Tommi
+A1 Jordan,Michael,I.
+A1 Singh,Satinder,P.
+YR 1993
+T1 Convergence of Stochastic Iterative Dynamic Programming Algorithms
+SP 703
+OP 710
+
+RT Journal Article
+ID 1972303
+A1 Xu,L.
+A1 Jordan,M.,I.
+YR 1993
+T1 EM learning on a generalized finite mixture model for combining multiple classifiers
+
+RT Conference Proceedings
+ID 637888
+A1 Jacobs,Robert,A.
+A1 Jordan,Michael,I.
+A1 Barto,Andrew,G.
+YR 1993
+T1 Task Decompostiion Through Competition in a Modular Connectionist Architecture: The What and Where Vision Tasks
+SP 175
+OP 202
+
+RT Conference Proceedings
+ID 530993
+A1 Jordan,Michael,I.
+A1 Jacobs,Robert,A.
+YR 1993
+T1 Supervised Learning and Divide-and-Conquer: A Statistical Approach
+SP 159
+OP 166
+
+RT Journal Article
+ID 57846806
+A1 Hirayama,Makoto
+A1 Kawato,Mitsuo
+A1 Jordan,Michael,I.
+YR 1993
+T1 The Cascade Neural Network Model and a Speed-Accuracy Trade-Off of Arm Movement
+JF Journal of Motor Behavior
+VO 25
+SP 162
+OP 174
+IS 3
+
+RT Journal Article
+ID 54831972
+A1 Perkell,Joseph,S.
+A1 Matthies,Melanie,L.
+A1 Svirsky,Mario,A.
+A1 Jordan,Michael,I.
+YR 1993
+T1 Trading relations between tongue-body raising and lip rounding in production of the vowel /u/: A pilot ``motor equivalence'' study
+JF Journal of The Acoustical Society of America
+VO 93
+SP 2948
+OP 2961
+
+RT Journal Article
+ID 55846201
+A1 Perkell,J.,S.
+A1 Matthies,M.,L.
+A1 Svirsky,M.,A.
+A1 Jordan,M.,I.
+YR 1993
+T1 Motor equivalence in the transformation from vocal-tract configurations to the acoustic transfer function: Adaptation to a bite block
+JF Journal of The Acoustical Society of America
+VO 94
+SP 1763
+OP 1764
+
+RT Journal Article
+ID 56818424
+A1 Jodl,H.-J.
+A1 Jordan,M.
+YR 1993
+T1 Phonon relaxation processes in molecular crystals (CS2) at high pressure and low temperature
+
+RT Journal Article
+ID 140694
+A1 Jordan,Michael,I.
+A1 Rumelhart,David,E.
+YR 1992
+T1 Forward Models: Supervised Learning with a Distal Teacher
+JF Cognitive Science
+VO 16
+SP 307
+OP 354
+IS 3
+
+RT Journal Article
+ID 2005709
+A1 Jacobs,Robert,A.
+A1 Jordan,Michael,I.
+YR 1992
+T1 Computational Consequences of a Bias toward Short Connections
+JF Journal of Cognitive Neuroscience
+VO 4
+SP 323
+OP 336
+IS 4
+
+RT Journal Article
+ID 3525879
+A1 White,D.,A.
+A1 Jordan,M.,I.
+YR 1992
+T1 Optimal control: a foundation for intelligent control
+JF Journal of Discrete Algorithms
+
+RT Conference Proceedings
+ID 560708
+A1 Bavelier,Daphne
+A1 Jordan,Michael,I.
+YR 1992
+T1 A Dynamical Model of Priming and Repetition Blindness
+SP 879
+OP 886
+
+RT Journal Article
+ID 1380230
+A1 Jacobs,Robert,A.
+A1 Jordan,Michael,I.
+A1 Nowlan,Steven,J.
+A1 Hinton,Geoffrey,E.
+YR 1991
+T1 Adaptive mixtures of local experts
+JF Neural Computation
+VO 3
+SP 79
+OP 87
+IS 1
+
+RT Journal Article
+ID 845139
+A1 Jacobs,Robert,A.
+A1 Jordan,Michael,I.
+A1 Barto,Andrew,G.
+YR 1991
+T1 Task Decomposition Through Competition in a Modular Connectionist Architecture: The What and Where Vision Tasks
+JF Cognitive Science
+VO 15
+SP 219
+OP 250
+IS 2
+
+RT Conference Proceedings
+ID 560321
+A1 Jordan,Michael,I.
+A1 Jacobs,Robert,A.
+YR 1991
+T1 Hierarchies of Adaptive Experts
+SP 985
+OP 992
+
+RT Journal Article
+ID 2048524
+A1 Mazzoni,Pietro
+A1 Andersen,Richard,A.
+A1 Jordan,Michael,I.
+YR 1991
+T1 A More Biologically Plausible Learning Rule for Neural Networks
+JF Proceedings of The National Academy of Sciences
+VO 88
+SP 4433
+OP 4437
+IS 10
+
+RT Journal Article
+ID 2592324
+A1 Jacobs,Robert,A.
+A1 Jordan,Michael,I.
+YR 1991
+T1 A Modular Connectionist Architecture For Learning Piecewise Control Strategies
+
+RT Journal Article
+ID 3560611
+A1 Wolpert,D.
+A1 Ghahramani,Z.
+A1 Jordan,M.
+YR 1991
+T1 Perceptual distortion contributes to the curvature of human reaching movements
+
+RT Conference Proceedings
+ID 530994
+A1 Jordan,Michael,I.
+A1 Rumelhart,David,E.
+YR 1991
+T1 Internal World Models and Supervised Learning
+SP 70
+OP 74
+
+RT Journal Article
+ID 37625538
+A1 Mazzoni,Pietro
+A1 Andersen,Richard,A.
+A1 Jordan,Michael,I.
+YR 1991
+T1 A More Biologically Plausible Learning Rule Than Backpropagation Applied to a Network Model of Cortical Area 7a
+JF Cerebral Cortex
+VO 1
+SP 293
+OP 307
+IS 4
+
+RT Journal Article
+ID 2659092
+A1 Jacobs,R.,A.
+A1 Jordan,M.,I
+A1 Nowlan,S.,J
+A1 Hinton,G.,E.
+YR 1991
+T1 Adaptative Mixture of local Expert Neural Computation
+
+RT Conference Proceedings
+ID 559668
+A1 Hirayama,Makoto
+A1 Vatikiotis-bateson,Eric
+A1 Kawato,Mitsuo
+A1 Jordan,Michael,I.
+YR 1991
+T1 Forward Dynamics Modeling of Speech Motor Control Using Physiological Data
+SP 191
+OP 198
+
+RT Journal Article
+ID 61258046
+A1 Jordan,M.
+A1 Mercer,J.,C.
+A1 Straughan,C.
+A1 Hudson,R.,D.
+YR 1991
+T1 Leak detector and utilization pressure manifold
+
+RT Journal Article
+ID 52313896
+A1 Jordan,Michael
+YR 1991
+T1 Neural network for improving terrain elevation measurement from stereo images
+VO 1567
+SP 179
+OP 187
+
+RT Journal Article
+ID 2137841
+A1 Jordan,M.,I.
+YR 1990
+T1 Serial order: A parallel distributed processing approach
+
+RT Journal Article
+ID 1994568
+A1 Jordan,M.,I.
+YR 1990
+T1 Motor Learning and the degrees of freedom problem
+
+RT Conference Proceedings
+ID 561266
+A1 Jacobs,Robert,A.
+A1 Jordan,Michael,I.
+YR 1990
+T1 A Competitive Modular Connectionist Architecture
+SP 767
+OP 773
+
+RT Journal Article
+ID 2085615
+A1 Jordan,M.,I.
+A1 Rumelhart,D.,E.
+YR 1990
+T1 Supervised learning with a distal teacher
+JF Cognitive Science
+
+RT Conference Proceedings
+ID 49887338
+A1 Mazzoni,P.
+A1 Andersen,Richard,A.
+A1 Jordan,Michael,I.
+YR 1990
+T1 A RP learning applied to a network model of cortical area 7a
+
+RT Conference Proceedings
+ID 49898423
+A1 HIRAYAMA,Makoto
+A1 KAWATO,Mitsuo
+A1 JORDAN,Michael,I.
+YR 1990
+T1 Speed-accuracy trade-off of arm movement predicted by the cascade neural network model
+
+RT Conference Proceedings
+ID 49875578
+A1 Jordan,Michael,I.
+YR 1989
+T1 Generic constraints on underspecified target trajectories
+
+RT Conference Proceedings
+ID 560320
+A1 Jordan,Michael,I.
+A1 Jacobs,Robert,A.
+YR 1989
+T1 Learning to Control an Unstable System with Forward Modeling
+SP 324
+OP 331
+
+RT Journal Article
+ID 2606859
+A1 Jordan,M.,I.
+YR 1989
+T1 A parallell distributed processing approach
+
+RT Journal Article
+ID 55970282
+A1 Smedley,Kirk,G.
+A1 Haines,Barry,K.
+A1 Vactor,David,van
+A1 Jordan,Michael
+YR 1989
+T1 Digital perspective generation and stereo display of composite ocean bottom and coastal terrain images
+VO 1083
+SP 246
+OP 250
+
+RT Journal Article
+ID 41197611
+A1 JORDAN,M
+YR 1989
+T1 FDR's condemnation of electric utility public relations
+JF Public Relations Review
+VO 15
+SP 41
+OP 51
+IS 2
+
+RT Journal Article
+ID 53304043
+A1 Jordan,Michael
+YR 1989
+T1 High resolution stereo parallax determination using a neural network
+VO 1076
+SP 123
+
+RT Journal Article
+ID 2112345
+A1 Jordan,M.,I.
+YR 1988
+T1 Supervised learning and systems with excess degrees of freedom
+
+RT Journal Article
+ID 1413905
+A1 Jordan,M.,I.
+YR 1986
+T1 Attractor dynamics and parallelism in a connectionist sequential machine
+
+RT Conference Proceedings
+ID 1953815
+A1 Jordan,M.,I.
+YR 1986
+T1 An introduction to linear algebra in parallel distributed processing
+
+RT Conference Proceedings
+ID 3319372
+A1 Singh,S.,P.
+A1 Jaakkola,T.
+A1 Jordan,M.,I.
+YR 1984
+T1 Learning without state-estimation in partially observable Markovian decision problems
+
+RT Journal Article
+ID 44787839
+A1 Jordan,M.
+YR 1984
+T1 My first-year experiences
+JF Music Educators Journal
+VO 71
+SP 61
+OP 61
+IS 3
+
+RT Journal Article
+ID 41567920
+A1 Miller,W.,L.
+A1 Brand,J.
+A1 Jordan,M.
+YR 1982
+T1 On the Power or Vulnerability of the British Press: A Dynamic Analysis
+JF British Journal of Political Science
+VO 12
+SP 357
+IS 03
+
+RT Book, Whole
+ID 48504655
+A1 Jacobs,Robert,A.
+A1 Jordan,Michael,I.
+A1 Barto,Andrew,G.
+T1 Task decomposition through competition in a modular connectionist architecture: The what and where vision tasks
+
+RT Conference Proceedings
+ID 2562859
+A1 GHAOUI,LAURENT,EL
+A1 JORDAN,MICHAEL,I.
+A1 LANCKRIET,GERT,R.,G.
+T1 A DIRECT FORMULATION FOR SPARSE PCA USING SEMIDEFINITE PROGRAMMING
+
+RT Journal Article
+ID 5265583
+A1 Bod,Peter
+A1 Griffith,Rean
+A1 Sutton,Charles
+A1 Fox,Armando
+A1 Jordan,Michael
+A1 Patterson,David
+T1 Statistical Machine Learning Makes Automatic Control Practical for Internet Datacenters
+
+RT Journal Article
+ID 2362872
+A1 Lanckriet,Gert,R.,G.
+A1 Bie,Tijl,De
+A1 Cristianini,Nello
+A1 Jordan,Michael,I.
+A1 Noble,William,Staord
+T1 A Framework for Genomic Data Fusion and its Application to Membrane Protein Prediction
+
+RT Conference Proceedings
+ID 6475648
+A1 Miller,Kurt,T.
+A1 Griffiths,Thomas,L.
+A1 Jordan,Michael,I.
+T1 Nonparametric Latent Feature Models for Link Prediction
+
+RT Journal Article
+ID 4587353
+A1 Obozinski,Guillaume
+A1 Taskar,Ben
+A1 Jordan,Michael,I.
+T1 Joint covariate selection for grouped classiflcation
+
+RT Journal Article
+ID 4498007
+A1 Nguyen,XuanLong
+A1 Jordany,Michael,I.
+A1 Sinopoli,Bruno
+T1 A kernel-based learning approach to ad hoc sensor network localization
+
+RT Conference Proceedings
+ID 10673893
+A1 Xing,Eric,P.
+A1 Jordany,Michael,I.
+A1 Karp,Richard,M.
+T1 Feature Selection for High-Dimensional Genomic Microarray Data
+
+RT Journal Article
+ID 5347892
+A1 Liang,Percy
+A1 Jordany,Michael,I.
+A1 Klein,Dan
+T1 Probabilistic Grammars and Hierarchical Dirichlet Processes
+
+RT Journal Article
+ID 3608672
+A1 Jordan,Michael,I.
+A1 Weiss,Yair
+T1 Probabilistic inference in graphical models
+
+RT Journal Article
+ID 4020060
+A1 Wainwright,Martin,J.
+A1 Jordan,Michael,I.
+T1 Treewidth-based conditions for exactness of the Sherali-Adams and Lasserre relaxations
+
+RT Journal Article
+ID 6476000
+A1 Liang,Percy
+A1 Bach,Francis
+A1 Bouchard,Guillaume
+A1 Jordan,Michael,I.
+T1 Asymptotically Optimal Regularization in Smooth Parametric Models
+
+RT Journal Article
+ID 12946980
+A1 Nguyen,Xuanlong
+A1 Jordan,Michael
+A1 Joseph,Anthony,D.
+A1 Taft,Nina
+T1 Distributed PCA and Network Anomaly Detection
+
+RT Journal Article
+ID 3795548
+A1 Fox,Armando
+A1 Kcman,Emre
+A1 Patterson,David
+A1 Katz,Randy
+A1 Jordan,Michael
+T1 Statistical Monitoring + Predictable Recovery = Self
+
+RT Journal Article
+ID 4906303
+A1 Fox,Emily,B.
+A1 Sudderth,Erik,B.
+A1 Jordan,Michael,I.
+A1 Willsky,Alan,S.
+T1 Nonparametric Bayesian Identification of Jump Systems with Sparse Dependencies
+
+RT Journal Article
+ID 3489645
+A1 NguyenMartin,XuanLong
+A1 Wainwright,Martin,J.
+A1 Jordan,Michael,I.
+T1 On Information Divergence Measures, Surrogate Loss Functions and Decentralized Hypothesis Testing
+
+RT Journal Article
+ID 13516762
+A1 Jordan,Michael,I.
+T1 Hierarchical Models, Nested Models and Completely Random Measures
+
+RT Journal Article
+ID 6861480
+A1 õk,Peter,Bod,´
+A1 Friedman,Greg
+A1 Biewald,Lukas
+A1 Levine,Helen
+A1 Candea,George
+A1 Patel,Kayur
+A1 Tolle,Gilman
+A1 Hui,Jon
+A1 Fox,Armando
+A1 Jordan,Michael,I.
+A1 Patterson,David
+T1 Combining Visualization and Statistical Analysis to Improve Operator Confidence and Efficiency for Failure Detection and Localization
+
+RT Journal Article
+ID 3493134
+A1 Nguyen,XuanLong
+A1 Wainwright,Martin,J.
+A1 Jordan,Michael,I.
+T1 On optimal quantization rules for sequential decision problems
+
+RT Journal Article
+ID 10677287
+A1 Arora,Nimar,S.
+A1 Jordan,Michael,I.
+A1 Russell,Stuart
+A1 Sudderth,Erik,B.
+T1 Joint probabilistic detection, association, & localization I: Hierarchical modeling
+
+RT Journal Article
+ID 12745999
+A1 d'Aspremont,A.
+A1 Ghaoui,L.,El
+A1 Jordan,M.
+A1 Lanckriet,G.
+T1 Sparse PCA with applications in finance
+
+RT Journal Article
+ID 11664676
+A1 Bhattacharyyaa,C.
+A1 Rizki,A.
+A1 Molina,F.,J.
+A1 Jordan,M.,I.
+A1 Bissell,M.,J.
+T1 Simultaneous classication andrelevant feature id entication in high-dimensional spaces: application to molecular proling data
+
+RT Journal Article
+ID 10082901
+A1 Scheinberg,Katya
+A1 Peng,Jiming
+A1 Shuurmans,Dale
+A1 Jordan,Michael
+T1 Mathematical Programming in Machine Learning and Data Mining
+
+RT Journal Article
+ID 7014168
+A1 Adams,Ryan,Prescott
+A1 Ghahramani,Zoubin
+A1 Jordan,Michael,I.
+T1 Tree-Structured Stick-Breaking Processes for Hierarchical Modeling
+
+RT Journal Article
+ID 10290331
+A1 Xing,Eric,P.
+A1 Sohn,Kyung-Ah
+A1 Jordan,Michael,I.
+A1 Teh,Yee-Whye
+T1 Bayesian Multi-Population Haplotype Inference via a Hierarchical Dirichlet Process Mixture
+
+RT Journal Article
+ID 6277904
+A1 Lacoste-Julien,Simon
+A1 Sha,Fei
+A1 Jordan,Michael,I.
+T1 Conditionally Trained Latent Dirichlet Allocation for Text Modeling and Categorization
+
+RT Journal Article
+ID 12261466
+A1 Liang,Percy
+A1 Jordan,Michael,I.
+A1 Klein,Dan
+T1 The Handbook of Applied Bayesian Analysis
+
+RT Journal Article
+ID 4464018
+A1 McAuliffe,Jon,D.
+A1 Pachter,Lior
+A1 Jordan,Michael,I.
+T1 SHADOWER: A generalized hidden Markov phylogeny for multiple-sequence functional annotation
+
+RT Journal Article
+ID 13021740
+A1 McAuliffe,Jon,D.
+A1 Jordan,Michael,I.
+A1 Pachter,Lior
+T1 power analysis and species selection for comparative genomics
+
+RT Journal Article
+ID 5088752
+A1 Sankararaman,Sriram
+A1 Sha,Fei
+A1 Jordan,Michael,I.
+T1 Catalytic residue prediction using 3D structure and phylogenetic conservation
+
+RT Journal Article
+ID 10006267
+A1 Miller,Kurt,T.
+A1 Griths,Thomas,L.
+A1 Jordan,Michael,I.
+T1 A NonExchangeable Nonparametric Prior for Latent Features
+
+RT Journal Article
+ID 10302995
+A1 Xing,Eric
+A1 Sharan,Roded
+A1 Jordan,Michael,I.
+T1 Bayesian Haplotype Inference via the Dirichlet Process
+
+RT Journal Article
+ID 4570475
+A1 Todorov,Emanuel
+A1 Jordan,Michael,I.
+T1 Optimal feedback control as a theory of motor coordination: Supplementary Notes
+
+RT Journal Article
+ID 11988776
+A1 Wainwright,Martin,J.
+A1 Jordany,Michael,I.
+T1 inference in discrete Markov random elds
+
+RT Journal Article
+ID 13023631
+A1 Bach,Francis
+A1 Jordan,Michael,I.
+T1 Modeles de Markov caches pour l'estimation de plusieurs frequences fondamentales
+
+RT Journal Article
+ID 13053780
+A1 BACH,Francis,R.
+A1 JORDAN,Michael,I.
+T1 ependantes et R· eseaux Bay· esiens
+
+RT Journal Article
+ID 11016464
+A1 Teh,Yee,Whye
+A1 Jordan,Michael,I.
+T1 Infinite Hidden Markov Models via the Hierarchical Dirichlet Process
+
+RT Journal Article
+ID 12395705
+A1 Jordan,Michael,I.
+T1 A Graphical Modeling Viewpoint on Queueing Networks
+
+RT Book, Whole
+ID 48811260
+A1 Jordan,Michael,I.
+T1 Constraints on underspecified target trajectories

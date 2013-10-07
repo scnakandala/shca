@@ -1,0 +1,2378 @@
+<file>
+<record>
+<title>Models and issues in data stream systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;citation_for_view=zdKmnYwAAAAJ:u5HHmVD_uO8C</link>
+<authors>B Babcock, S Babu, M Datar, R Motwani, J Widom</authors>
+<source>Proceedings of the twenty-first ACM SIGMOD-SIGACT-SIGART symposium on ...</source>
+<citations>2391</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>The Lorel query language for semistructured data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;citation_for_view=zdKmnYwAAAAJ:u-x6o8ySG0sC</link>
+<authors>S Abiteboul, D Quass, J McHugh, J Widom, JL Wiener</authors>
+<source>International journal on digital libraries 1 (1), 68-88</source>
+<citations>1608</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Dataguides: Enabling query formulation and optimization in semistructured databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;citation_for_view=zdKmnYwAAAAJ:d1gkVwhDpl0C</link>
+<authors>R Goldman, J Widom</authors>
+<source>Stanford</source>
+<citations>1538</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>The TSIMMIS project: Integration of heterogeneous information sources. 2002</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;citation_for_view=zdKmnYwAAAAJ:9yKSN-GCB0IC</link>
+<authors>S Chawathe, H Garcia-Molina, J Hammer, K Ireland, Y Papakonstantinou, J ...</authors>
+<source></source>
+<citations>1368</citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Database systems: the complete book</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;citation_for_view=zdKmnYwAAAAJ:KlAtU1dfN6UC</link>
+<authors>JD Ullman, H Garcia-Molina, J Widom</authors>
+<source>Prentice Hall</source>
+<citations>1181</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Active database systems: Triggers and rules for advanced database processing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;citation_for_view=zdKmnYwAAAAJ:qjMakFHDy7sC</link>
+<authors></authors>
+<source>Morgan Kaufmann</source>
+<citations>1127</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Object exchange across heterogeneous information sources</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;citation_for_view=zdKmnYwAAAAJ:2osOgNQ5qMEC</link>
+<authors>Y Papakonstantinou, H Garcia-Molina, J Widom</authors>
+<source>Data Engineering, 1995. Proceedings of the Eleventh International Conference ...</source>
+<citations>1086</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>The TSIMMIS approach to mediation: Data models and languages</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;citation_for_view=zdKmnYwAAAAJ:UeHWp8X0CEIC</link>
+<authors>H Garcia-Molina, Y Papakonstantinou, D Quass, A Rajaraman, Y Sagiv, J Ullman ...</authors>
+<source>Journal of intelligent information systems 8 (2), 117-132</source>
+<citations>976</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Lore: A database management system for semistructured data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;citation_for_view=zdKmnYwAAAAJ:IjCSPb-OGe4C</link>
+<authors>J McHugh, S Abiteboul, R Goldman, D Quass, J Widom</authors>
+<source>SIGMOD record 26 (3), 54-66</source>
+<citations>920</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Research problems in data warehousing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;citation_for_view=zdKmnYwAAAAJ:zYLM7Y9cAGgC</link>
+<authors>J Widom</authors>
+<source>Proceedings of the fourth international conference on Information and ...</source>
+<citations>826</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Query processing, resource management, and approximation in a data stream management system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;citation_for_view=zdKmnYwAAAAJ:yMeIxYmEMEAC</link>
+<authors>R Motwani, J Widom, A Arasu, B Babcock, S Babu, M Datar, G Manku, C Olston ...</authors>
+<source>CIDR</source>
+<citations>795</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Cql: A language for continuous queries over streams and relations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;citation_for_view=zdKmnYwAAAAJ:4JMBOYKVnBMC</link>
+<authors>A Arasu, S Babu, J Widom</authors>
+<source>Database Programming Languages 2921, 123-124</source>
+<citations>775</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>The CQL continuous query language: semantic foundations and query execution</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;citation_for_view=zdKmnYwAAAAJ:WF5omc3nYNoC</link>
+<authors>A Arasu, S Babu, J Widom</authors>
+<source>The VLDB JournalThe International Journal on Very Large Data Bases 15 (2 ...</source>
+<citations>758</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Scaling personalized web search</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;citation_for_view=zdKmnYwAAAAJ:YsMSGLbcyi4C</link>
+<authors>G Jeh, J Widom</authors>
+<source>Proceedings of the 12th international conference on World Wide Web, 271-279</source>
+<citations>743</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>SimRank: a measure of structural-context similarity</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;citation_for_view=zdKmnYwAAAAJ:LkGwnXOMwfcC</link>
+<authors>G Jeh, J Widom</authors>
+<source>Proceedings of the eighth ACM SIGKDD international conference on Knowledge ...</source>
+<citations>716</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Continuous queries over data streams</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;citation_for_view=zdKmnYwAAAAJ:eQOLeE2rZwMC</link>
+<authors>S Babu, J Widom</authors>
+<source>ACM Sigmod Record 30 (3), 109-120</source>
+<citations>688</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>View maintenance in a warehousing environment</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;citation_for_view=zdKmnYwAAAAJ:W7OEmFMy1HYC</link>
+<authors>Y Zhuge, H Garcia-Molina, J Hammer, J Widom</authors>
+<source>ACM SIGMOD Record 24 (2), 316-327</source>
+<citations>651</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Database system implementation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;citation_for_view=zdKmnYwAAAAJ:ufrVoPGSRksC</link>
+<authors>H Garcia-Molina, JD Ullman, J Widom</authors>
+<source>Prentice Hall</source>
+<citations>598</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>A First Course in Database Systems, 2/e</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;citation_for_view=zdKmnYwAAAAJ:_FxGoFyzp5QC</link>
+<authors>JD Ullman</authors>
+<source>Pearson Education India</source>
+<citations>553</citations>
+<pub_year>1982</pub_year>
+</record>
+<record>
+<title>Change detection in hierarchically structured information</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;citation_for_view=zdKmnYwAAAAJ:UebtZRa9Y70C</link>
+<authors>SS Chawathe, A Rajaraman, H Garcia-Molina, J Widom</authors>
+<source>ACM SIGMOD Record 25 (2), 493-504</source>
+<citations>517</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Deriving production rules for incremental view maintenance</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=20&amp;citation_for_view=zdKmnYwAAAAJ:roLk4NBRz8UC</link>
+<authors>S Ceri, J Widom</authors>
+<source></source>
+<citations>481</citations>
+<pub_year>1991</pub_year>
+</record>
+<record>
+<title>Query optimization for XML</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=20&amp;citation_for_view=zdKmnYwAAAAJ:hqOjcs7Dif8C</link>
+<authors>J McHugh, J Widom</authors>
+<source>Stanford InfoLab</source>
+<citations>480</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Deriving production rules for constraint maintenance</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=20&amp;citation_for_view=zdKmnYwAAAAJ:Se3iqnhoufwC</link>
+<authors>S Ceri, J Widom</authors>
+<source></source>
+<citations>469</citations>
+<pub_year>1990</pub_year>
+</record>
+<record>
+<title>Trio: A system for integrated management of data, accuracy, and lineage</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=20&amp;citation_for_view=zdKmnYwAAAAJ:5nxA0vEk-isC</link>
+<authors>J Widom</authors>
+<source>Technical Report</source>
+<citations>468</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>ULDBs: Databases with uncertainty and lineage</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=20&amp;citation_for_view=zdKmnYwAAAAJ:3fE2CSJIrl8C</link>
+<authors>O Benjelloun, AD Sarma, A Halevy, J Widom</authors>
+<source>Proceedings of the 32nd international conference on Very large data bases ...</source>
+<citations>450</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>From semistructured data to XML: Migrating the Lore data model and query language</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=20&amp;citation_for_view=zdKmnYwAAAAJ:0EnyYjriUFMC</link>
+<authors>R Goldman, J McHugh, J Widom</authors>
+<source></source>
+<citations>440</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Active Database Management Systems.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=20&amp;citation_for_view=zdKmnYwAAAAJ:LhH-TYMQEocC</link>
+<authors>U Dayal</authors>
+<source>JCDKB, 150-169</source>
+<citations>430</citations>
+<pub_year>1988</pub_year>
+</record>
+<record>
+<title>Adaptive filters for continuous queries over distributed data streams</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=20&amp;citation_for_view=zdKmnYwAAAAJ:MXK_kJrjxJIC</link>
+<authors>C Olston, J Jiang, J Widom</authors>
+<source>Proceedings of the 2003 ACM SIGMOD international conference on Management of ...</source>
+<citations>421</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Clustering association rules</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=20&amp;citation_for_view=zdKmnYwAAAAJ:8k81kl-MbHgC</link>
+<authors>B Lent, A Swami, J Widom</authors>
+<source>Data Engineering, 1997. Proceedings. 13th International Conference on, 220-231</source>
+<citations>397</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Exploiting hierarchical domain structure to compute similarity</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=20&amp;citation_for_view=zdKmnYwAAAAJ:ULOm3_A8WrAC</link>
+<authors>P Ganesan, H Garcia-Molina, J Widom</authors>
+<source>ACM Transactions on Information Systems (TOIS) 21 (1), 64-93</source>
+<citations>350</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Set-oriented production rules in relational database systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=20&amp;citation_for_view=zdKmnYwAAAAJ:kNdYIx-mwKoC</link>
+<authors>J Widom, SJ Finkelstein</authors>
+<source>ACM SIGMOD Record 19 (2), 259-270</source>
+<citations>347</citations>
+<pub_year>1990</pub_year>
+</record>
+<record>
+<title>Making views self-maintainable for data warehousing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=20&amp;citation_for_view=zdKmnYwAAAAJ:Zph67rFs4hoC</link>
+<authors>D Quass, A Gupta, IS Mumick, J Widom</authors>
+<source>Parallel and Distributed Information Systems, 1996., Fourth International ...</source>
+<citations>320</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Lineage tracing for general data warehouse transformations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=20&amp;citation_for_view=zdKmnYwAAAAJ:aqlVkmm33-oC</link>
+<authors>Y Cui, J Widom</authors>
+<source>The VLDB JournalThe International Journal on Very Large Data Bases 12 (1 ...</source>
+<citations>319</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Tracing the lineage of view data in a warehousing environment</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=20&amp;citation_for_view=zdKmnYwAAAAJ:Wp0gIr-vW9MC</link>
+<authors>Y Cui, J Widom, JL Wiener</authors>
+<source>ACM Transactions on Database Systems (TODS) 25 (2), 179-227</source>
+<citations>308</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Working models for uncertain data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=20&amp;citation_for_view=zdKmnYwAAAAJ:4DMP91E08xMC</link>
+<authors>AD Sarma, O Benjelloun, A Halevy, J Widom</authors>
+<source>Data Engineering, 2006. ICDE'06. Proceedings of the 22nd International ...</source>
+<citations>285</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Teletraffic modeling for personal communications services</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=20&amp;citation_for_view=zdKmnYwAAAAJ:4TOpqqG69KYC</link>
+<authors>D Lam, DC Cox, J Widom</authors>
+<source>Communications Magazine, IEEE 35 (2), 79-87</source>
+<citations>271</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Behavior of database production rules: Termination, confluence, and observable determinism</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=20&amp;citation_for_view=zdKmnYwAAAAJ:YOwf2qJgpHMC</link>
+<authors>A Aiken, J Widom, JM Hellerstein</authors>
+<source>ACM SIGMOD Record 21 (2), 59-68</source>
+<citations>269</citations>
+<pub_year>1992</pub_year>
+</record>
+<record>
+<title>Integrating and accessing heterogeneous information sources in TSIMMIS</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=20&amp;citation_for_view=zdKmnYwAAAAJ:_kc_bZDykSQC</link>
+<authors>H Garcia-Molina, J Hammer, K Ireland, Y Papakonstantinou, J Ullman, J Widom</authors>
+<source>Proceedings of the AAAI Symposium on Information Gathering 3, 61-64</source>
+<citations>258</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>The Stanford data warehousing project</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=20&amp;citation_for_view=zdKmnYwAAAAJ:M3ejUd6NZC8C</link>
+<authors>J Hammer, H Garcia-Molina, J Widom, W Labio, Y Zhuge</authors>
+<source>Stanford InfoLab</source>
+<citations>248</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Querying semistructured heterogeneous information</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=20&amp;citation_for_view=zdKmnYwAAAAJ:qxL8FJ1GzNcC</link>
+<authors>D Quass, A Rajaraman, Y Sagiv, J Ullman, J Widom</authors>
+<source>Deductive and object-oriented databases, 319-344</source>
+<citations>247</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Swoosh: a generic approach to entity resolution</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=40&amp;citation_for_view=zdKmnYwAAAAJ:hFOr9nPyWt4C</link>
+<authors>O Benjelloun, H Garcia-Molina, D Menestrina, Q Su, SE Whang, J Widom</authors>
+<source>The VLDB JournalThe International Journal on Very Large Data Bases 18 (1 ...</source>
+<citations>240</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Adaptive precision setting for cached approximate values</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=40&amp;citation_for_view=zdKmnYwAAAAJ:mVmsd5A6BfQC</link>
+<authors>C Olston, BT Loo, J Widom</authors>
+<source>ACM SIGMOD Record 30 (2), 355-366</source>
+<citations>225</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Implementing set-oriented production rules as an extension to Starburst</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=40&amp;citation_for_view=zdKmnYwAAAAJ:9ZlFYXVOiuMC</link>
+<authors>J Widom, R Cochrane, B Lindsay</authors>
+<source></source>
+<citations>216</citations>
+<pub_year>1991</pub_year>
+</record>
+<record>
+<title>Data management for XML: Research directions</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=40&amp;citation_for_view=zdKmnYwAAAAJ:QIV2ME_5wuYC</link>
+<authors>J Widom</authors>
+<source>Stanford</source>
+<citations>215</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Characterizing memory requirements for queries over continuous data streams</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=40&amp;citation_for_view=zdKmnYwAAAAJ:dhFuZR0502QC</link>
+<authors>A Arasu, B Babcock, S Babu, J McAlister, J Widom</authors>
+<source>ACM Transactions on Database Systems (TODS) 29 (1), 162-194</source>
+<citations>210</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Stream: The stanford data stream management system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=40&amp;citation_for_view=zdKmnYwAAAAJ:AHdEip9mkN0C</link>
+<authors>A Arasu, B Babcock, S Babu, J Cieslewicz, M Datar, K Ito, R Motwani, U ...</authors>
+<source>Book chapter</source>
+<citations>207</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Adaptive ordering of pipelined stream filters</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=40&amp;citation_for_view=zdKmnYwAAAAJ:ZeXyd9-uunAC</link>
+<authors>S Babu, R Motwani, K Munagala, I Nishizawa, J Widom</authors>
+<source>Proceedings of the 2004 ACM SIGMOD international conference on Management of ...</source>
+<citations>202</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>On-line warehouse view maintenance</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=40&amp;citation_for_view=zdKmnYwAAAAJ:7PzlFSSx8tAC</link>
+<authors>D Quass, J Widom</authors>
+<source>ACM SIGMOD Record 26 (2), 393-404</source>
+<citations>198</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Static analysis techniques for predicting the behavior of active database rules</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=40&amp;citation_for_view=zdKmnYwAAAAJ:L8Ckcad2t8MC</link>
+<authors>A Aiken, JM Hellerstein, J Widom</authors>
+<source>ACM Transactions on Database Systems (TODS) 20 (1), 3-41</source>
+<citations>183</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Flexible time management in data stream systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=40&amp;citation_for_view=zdKmnYwAAAAJ:TQgYirikUcIC</link>
+<authors>U Srivastava, J Widom</authors>
+<source>Proceedings of the twenty-third ACM SIGMOD-SIGACT-SIGART symposium on ...</source>
+<citations>182</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Memory-limited execution of windowed stream joins</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=40&amp;citation_for_view=zdKmnYwAAAAJ:-f6ydRqryjwC</link>
+<authors>U Srivastava, J Widom</authors>
+<source>Proceedings of the Thirtieth international conference on Very large data ...</source>
+<citations>179</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Operator placement for in-network stream query processing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=40&amp;citation_for_view=zdKmnYwAAAAJ:j3f4tGmQtD8C</link>
+<authors>U Srivastava, K Munagala, J Widom</authors>
+<source>Proceedings of the twenty-fourth ACM SIGMOD-SIGACT-SIGART symposium on ...</source>
+<citations>178</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Declarative support for sensor data cleaning</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=40&amp;citation_for_view=zdKmnYwAAAAJ:TFP_iSt0sucC</link>
+<authors>SR Jeffery, G Alonso, MJ Franklin, W Hong, J Widom</authors>
+<source>Pervasive Computing, 83-100</source>
+<citations>172</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Indexing semistructured data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=40&amp;citation_for_view=zdKmnYwAAAAJ:IWHjjKOFINEC</link>
+<authors>J McHugh, J Widom, S Abiteboul, Q Luo, A Rajaraman</authors>
+<source>Stanford</source>
+<citations>171</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Offering a precision-performance tradeoff for aggregation queries over replicated data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=40&amp;citation_for_view=zdKmnYwAAAAJ:mB3voiENLucC</link>
+<authors>C Olston, J Widom</authors>
+<source>Stanford</source>
+<citations>166</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Representing and querying changes in semistructured data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=40&amp;citation_for_view=zdKmnYwAAAAJ:hC7cP41nSMkC</link>
+<authors>SS Chawathe, S Abiteboul, J Widom</authors>
+<source>Data Engineering, 1998. Proceedings., 14th International Conference on, 4-13</source>
+<citations>162</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>A pipelined framework for online cleaning of sensor data streams</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=40&amp;citation_for_view=zdKmnYwAAAAJ:JV2RwH3_ST0C</link>
+<authors>SR Jeffery, G Alonso, MJ Franklin, W Hong, J Widom</authors>
+<source>Data Engineering, 2006. ICDE'06. Proceedings of the 22nd International ...</source>
+<citations>161</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Constraint checking with partial information</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=40&amp;citation_for_view=zdKmnYwAAAAJ:qUcmZB5y_30C</link>
+<authors>A Gupta, Y Sagiv, JD Ullman, J Widom</authors>
+<source>Proceedings of the thirteenth ACM SIGACT-SIGMOD-SIGART symposium on ...</source>
+<citations>160</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Query optimization over web services</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=40&amp;citation_for_view=zdKmnYwAAAAJ:bEWYMUwI8FkC</link>
+<authors>U Srivastava, K Munagala, J Widom, R Motwani</authors>
+<source>Proceedings of the 32nd international conference on Very large data bases ...</source>
+<citations>159</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>The Lowell database research self-assessment</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=40&amp;citation_for_view=zdKmnYwAAAAJ:e5wmG9Sq2KIC</link>
+<authors>S Abiteboul, R Agrawal, P Bernstein, M Carey, S Ceri, B Croft, D DeWitt, M ...</authors>
+<source>Communications of the ACM 48 (5), 111-118</source>
+<citations>159</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>An overview of production rules in database systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=60&amp;citation_for_view=zdKmnYwAAAAJ:R3hNpaxXUhUC</link>
+<authors>EN Hanson, J Widom</authors>
+<source>The Knowledge Engineering Review 8 (02), 121-143</source>
+<citations>155</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Best-effort cache synchronization with source cooperation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=60&amp;citation_for_view=zdKmnYwAAAAJ:RHpTSmoSYBkC</link>
+<authors>C Olston, J Widom</authors>
+<source>Proceedings of the 2002 ACM SIGMOD international conference on Management of ...</source>
+<citations>152</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Practical lineage tracing in data warehouses</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=60&amp;citation_for_view=zdKmnYwAAAAJ:r0BpntZqJG4C</link>
+<authors>Y Cui, J Widom</authors>
+<source>Data Engineering, 2000. Proceedings. 16th International Conference on, 367-378</source>
+<citations>151</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Managing semantic heterogeneity with production rules and persistent queues</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=60&amp;citation_for_view=zdKmnYwAAAAJ:_Qo2XoVZTnwC</link>
+<authors>S Ceri, J Widom</authors>
+<source></source>
+<citations>144</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>An algebraic approach to rule analysis in expert database systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=60&amp;citation_for_view=zdKmnYwAAAAJ:iH-uZ7U-co4C</link>
+<authors>E Baralis, J Widom</authors>
+<source>Stanford</source>
+<citations>135</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Resource sharing in continuous sliding-window aggregates</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=60&amp;citation_for_view=zdKmnYwAAAAJ:isC4tDSrTZIC</link>
+<authors>A Arasu, J Widom</authors>
+<source>Proceedings of the Thirtieth international conference on Very large data ...</source>
+<citations>134</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Efficient and flexible location management techniques for wireless communication systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=60&amp;citation_for_view=zdKmnYwAAAAJ:8d8msizDQcsC</link>
+<authors>J Jannink, D Lam, N Shivakumar, J Widom, DC Cox</authors>
+<source>Wireless Networks 3 (5), 361-374</source>
+<citations>131</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>A system prototype for warehouse view maintenance</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=60&amp;citation_for_view=zdKmnYwAAAAJ:k_IJM867U9cC</link>
+<authors>J Wiener, H Gupta, W Labio, Y Zhuge, H Garcia-Molina, J Widom</authors>
+<source></source>
+<citations>129</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Databases with uncertainty and lineage</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=60&amp;citation_for_view=zdKmnYwAAAAJ:ns9cj8rnVeAC</link>
+<authors>O Benjelloun, AD Sarma, A Halevy, M Theobald, J Widom</authors>
+<source>The VLDB Journal 17 (2), 243-264</source>
+<citations>127</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>The Starburst active database rule system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=60&amp;citation_for_view=zdKmnYwAAAAJ:M3NEmzRMIkIC</link>
+<authors>J Widom</authors>
+<source>Knowledge and Data Engineering, IEEE Transactions on 8 (4), 583-595</source>
+<citations>125</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>WSQ/DSQ: A practical approach for combined querying of databases and the web</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=60&amp;citation_for_view=zdKmnYwAAAAJ:blknAaTinKkC</link>
+<authors>R Goldman, J Widom</authors>
+<source>ACM SIGMOD Record 29 (2), 285-296</source>
+<citations>121</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Exploiting k-constraints to reduce memory overhead in continuous queries over data streams</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=60&amp;citation_for_view=zdKmnYwAAAAJ:YFjsv_pBGBYC</link>
+<authors>S Babu, U Srivastava, J Widom</authors>
+<source>ACM Transactions on Database Systems (TODS) 29 (3), 545-580</source>
+<citations>119</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Local verification of global integrity constraints in distributed databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=60&amp;citation_for_view=zdKmnYwAAAAJ:hMod-77fHWUC</link>
+<authors>A Gupta, J Widom</authors>
+<source>ACM SIGMOD Record 22 (2), 49-58</source>
+<citations>113</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Information translation, mediation, and mosaic-based browsing in the TSIMMIS system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=60&amp;citation_for_view=zdKmnYwAAAAJ:NMxIlDl6LWMC</link>
+<authors>J Hammer, H Garcia-Molina, K Ireland, Y Papakonstantinou, J Ullman, J Widom</authors>
+<source></source>
+<citations>112</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Ozone: Integrating structured and semistructured data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=60&amp;citation_for_view=zdKmnYwAAAAJ:BqipwSGYUEgC</link>
+<authors>T Lahiri, S Abiteboul, J Widom</authors>
+<source>Research Issues in Structured and Semistructured Database Programming, 297-323</source>
+<citations>110</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Towards a streaming SQL standard</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=60&amp;citation_for_view=zdKmnYwAAAAJ:3s1wT3WcHBgC</link>
+<authors>N Jain, S Mishra, A Srinivasan, J Gehrke, J Widom, H Balakrishnan, U ...</authors>
+<source>Proceedings of the VLDB Endowment 1 (2), 1379-1390</source>
+<citations>109</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Practical applications of triggers and constraints: Successes and lingering issues</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=60&amp;citation_for_view=zdKmnYwAAAAJ:O3NaXMp0MMsC</link>
+<authors>S Ceri, R Cochrane, J Widom</authors>
+<source>Proc. 26th VLDB, 254-262</source>
+<citations>105</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>User profile replication for faster location lookup in mobile environments</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=60&amp;citation_for_view=zdKmnYwAAAAJ:GnPB-g6toBAC</link>
+<authors>N Shivakumar, J Widom</authors>
+<source>Proceedings of the 1st annual international conference on Mobile computing ...</source>
+<citations>98</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Incremental computation and maintenance of temporal aggregates</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=60&amp;citation_for_view=zdKmnYwAAAAJ:OP4eGU-M3BUC</link>
+<authors>J Yang, J Widom</authors>
+<source>Data Engineering, 2001. Proceedings. 17th International Conference on, 51-60</source>
+<citations>96</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Exploiting lineage for confidence computation in uncertain and probabilistic databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=60&amp;citation_for_view=zdKmnYwAAAAJ:70eg2SAEIzsC</link>
+<authors>A Das Sarma, M Theobald, J Widom</authors>
+<source>Data Engineering, 2008. ICDE 2008. IEEE 24th International Conference on ...</source>
+<citations>95</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Managing historical semistructured data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=80&amp;citation_for_view=zdKmnYwAAAAJ:NaGl4SEjCO4C</link>
+<authors>S Chawathe, S Abiteboul, J Widom</authors>
+<source>Theory and Practice of Object Systems, 5 (3): 143-162, August 1999 5 (3 ...</source>
+<citations>93</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Adaptive caching for continuous queries</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=80&amp;citation_for_view=zdKmnYwAAAAJ:ldfaerwXgEUC</link>
+<authors>S Babu, K Munagalat, J Widom, R Motwani</authors>
+<source>Data Engineering, 2005. ICDE 2005. Proceedings. 21st International ...</source>
+<citations>91</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>An algebraic approach to static analysis of active database rules</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=80&amp;citation_for_view=zdKmnYwAAAAJ:J_g5lzvAfSwC</link>
+<authors>E Baralis, J Widom</authors>
+<source>ACM Transactions on Database Systems (TODS) 25 (3), 269-332</source>
+<citations>91</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>An introduction to ULDBs and the Trio system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=80&amp;citation_for_view=zdKmnYwAAAAJ:pqnbT2bcN3wC</link>
+<authors>O Benjelloun, AD Sarma, C Hayworth, J Widom</authors>
+<source>IEEE Data Engineering Bulletin, March 2006</source>
+<citations>88</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Per-user profile replication in mobile environments: algorithms, analysis, and simulation results</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=80&amp;citation_for_view=zdKmnYwAAAAJ:RGFaLdJalmkC</link>
+<authors>N Shivakumar, J Jannink, J Widom</authors>
+<source>Mobile Networks and Applications 2 (2), 129-140</source>
+<citations>88</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Approximate dataguides</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=80&amp;citation_for_view=zdKmnYwAAAAJ:lSLTfruPkqcC</link>
+<authors>R Goldman, J Widom</authors>
+<source>Proceedings of the Workshop on Query Processing for Semistructured Data and ...</source>
+<citations>85</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Deriving incremental production rules for deductive data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=80&amp;citation_for_view=zdKmnYwAAAAJ:SeFeTyx0c_EC</link>
+<authors>S Ceri, J Widom</authors>
+<source>Information Systems 19 (6), 467-490</source>
+<citations>80</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Performance issues in incremental warehouse maintenance</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=80&amp;citation_for_view=zdKmnYwAAAAJ:rO6llkc54NcC</link>
+<authors>W Labio, J Yang, Y Cui, H Garcia-Molina, J Widom</authors>
+<source>In Proceedings of the 26th International Conference on Very Large Data Bases ...</source>
+<citations>79</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>An abstract semantics and concrete language for continuous queries over streams and relations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=80&amp;citation_for_view=zdKmnYwAAAAJ:RYcK_YlVTxYC</link>
+<authors>A Arasu, S Babu, J Widom</authors>
+<source>Stanford</source>
+<citations>76</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Interactive query and search in semistructured databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=80&amp;citation_for_view=zdKmnYwAAAAJ:g5m5HwL7SMYC</link>
+<authors>R Goldman, J Widom</authors>
+<source>The World Wide Web and Databases, 52-62</source>
+<citations>76</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Temporal view self-maintenance</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=80&amp;citation_for_view=zdKmnYwAAAAJ:2P1L_qKh6hAC</link>
+<authors>J Yang, J Widom</authors>
+<source>Advances in Database TechnologyEDBT 2000, 395-412</source>
+<citations>74</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Trio-One: Layering uncertainty and lineage on a conventional DBMS</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=80&amp;citation_for_view=zdKmnYwAAAAJ:HoB7MX3m0LUC</link>
+<authors>M Mutsuzaki, M Theobald, A de Keijzer, J Widom, P Agrawal, O Benjelloun, A ...</authors>
+<source>Database Group, University of Wisconsin</source>
+<citations>73</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>XML query languages: Experiences and exemplars</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=80&amp;citation_for_view=zdKmnYwAAAAJ:35N4QoGY0k4C</link>
+<authors>M Fernandez, J Simeon, P Wadler, S Cluet, A Deutsch, D Florescu, A Levy, D ...</authors>
+<source></source>
+<citations>73</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>The WHIPS prototype for data warehouse creation and maintenance</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=80&amp;citation_for_view=zdKmnYwAAAAJ:M05iB0D1s5AC</link>
+<authors>WJ Labio, Y Zhuge, JL Wiener, H Gupta, H Garcia-Molina, J Widom</authors>
+<source>ACM SIGMOD Record 26 (2), 557-559</source>
+<citations>73</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Maintaining temporal views over non-temporal information sources for data warehousing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=80&amp;citation_for_view=zdKmnYwAAAAJ:ZHo1McVdvXMC</link>
+<authors>J Yang, J Widom</authors>
+<source>Advances in Database TechnologyEDBT'98, 389-403</source>
+<citations>70</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>StreaMon: an adaptive engine for stream query processing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=80&amp;citation_for_view=zdKmnYwAAAAJ:_xSYboBqXhAC</link>
+<authors>S Babu, J Widom</authors>
+<source>Proceedings of the 2004 ACM SIGMOD international conference on Management of ...</source>
+<citations>67</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Indexing relational database content offline for efficient keyword-based search</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=80&amp;citation_for_view=zdKmnYwAAAAJ:pyW8ca7W8N0C</link>
+<authors>Q Su, J Widom</authors>
+<source>Database Engineering and Application Symposium, 2005. IDEAS 2005. 9th ...</source>
+<citations>66</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>A denotational semantics for the Starburst production rule language</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=80&amp;citation_for_view=zdKmnYwAAAAJ:zA6iFVUQeVQC</link>
+<authors>J Widom</authors>
+<source>ACM SIGMOD Record 21 (3), 4-9</source>
+<citations>66</citations>
+<pub_year>1992</pub_year>
+</record>
+<record>
+<title>The STRIP rule system for efficiently maintaining derived data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=80&amp;citation_for_view=zdKmnYwAAAAJ:fPk4N6BV_jEC</link>
+<authors>B Adelberg, H Garcia-Molina, J Widom</authors>
+<source>ACM SIGMOD Record 26 (2), 147-158</source>
+<citations>62</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Production rules in parallel and distributed database environments</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=80&amp;citation_for_view=zdKmnYwAAAAJ:u_35RYKgDlwC</link>
+<authors>S Ceri, J Widom</authors>
+<source></source>
+<citations>62</citations>
+<pub_year>1992</pub_year>
+</record>
+<record>
+<title>Content-based routing: Different plans for different data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=100&amp;citation_for_view=zdKmnYwAAAAJ:EUQCXRtRnyEC</link>
+<authors>P Bizarro, S Babu, D DeWitt, J Widom</authors>
+<source>Proceedings of the 31st international conference on Very large data bases ...</source>
+<citations>61</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Atomicity versus anonymity: Distributed transactions for electronic commerce</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=100&amp;citation_for_view=zdKmnYwAAAAJ:yD5IFk8b50cC</link>
+<authors>JD Tygar, A Gupta, O Shmueli, J Widom</authors>
+<source>VLDB 1998, 1-12</source>
+<citations>60</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Better termination analysis for active databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=100&amp;citation_for_view=zdKmnYwAAAAJ:4OULZ7Gr8RgC</link>
+<authors>E Baralis, S Ceri, J Widom</authors>
+<source>Rules in Database Systems, 163-179</source>
+<citations>60</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Vision paper: enabling privacy for the paranoids</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=100&amp;citation_for_view=zdKmnYwAAAAJ:a0OBvERweLwC</link>
+<authors>G Aggarwal, M Bawa, P Ganesan, H Garcia-Molina, K Kenthapadi, N Mishra, R ...</authors>
+<source>Proceedings of the Thirtieth international conference on Very large data ...</source>
+<citations>59</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>The Starburst rule system: Language design, implementation, and applications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=100&amp;citation_for_view=zdKmnYwAAAAJ:bFI3QPDXJZMC</link>
+<authors>J Widom</authors>
+<source>IEEE Data Engineering Bulletin</source>
+<citations>57</citations>
+<pub_year>1992</pub_year>
+</record>
+<record>
+<title>The pipelined set cover problem</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=100&amp;citation_for_view=zdKmnYwAAAAJ:NhqRSupF_l8C</link>
+<authors>K Munagala, S Babu, R Motwani, J Widom</authors>
+<source>Database Theory-ICDT 2005, 83-98</source>
+<citations>56</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Special issue on materialized views and data warehousing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=100&amp;citation_for_view=zdKmnYwAAAAJ:cFHS6HbyZ2cC</link>
+<authors>J Widom</authors>
+<source>IEEE Bulletin on Data Engineering 18 (2)</source>
+<citations>55</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Deductive and active databases: Two paradigms or ends of a spectrum?</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=100&amp;citation_for_view=zdKmnYwAAAAJ:D03iK_w7-QYC</link>
+<authors>J Widom</authors>
+<source>Rules in database systems, 306-315</source>
+<citations>52</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>A temporal-logic based compositional proof system for real-time message passing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=100&amp;citation_for_view=zdKmnYwAAAAJ:abG-DnoFyZgC</link>
+<authors>J Hooman, J Widom</authors>
+<source>PARLE'89 Parallel Architectures and Languages Europe, 424-441</source>
+<citations>51</citations>
+<pub_year>1989</pub_year>
+</record>
+<record>
+<title>Optimization of continuous queries with shared expensive filters</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=100&amp;citation_for_view=zdKmnYwAAAAJ:KxtntwgDAa4C</link>
+<authors>K Munagala, U Srivastava, J Widom</authors>
+<source>Proceedings of the twenty-sixth ACM SIGMOD-SIGACT-SIGART symposium on ...</source>
+<citations>50</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Incremental computation and maintenance of temporal aggregates</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=100&amp;citation_for_view=zdKmnYwAAAAJ:maZDTaKrznsC</link>
+<authors>J Yang, J Widom</authors>
+<source>The VLDB Journal 12 (3), 262-283</source>
+<citations>50</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>数据库系统实现</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=100&amp;citation_for_view=zdKmnYwAAAAJ:Ak0FvsSvgGUC</link>
+<authors>H Garcia-Molina</authors>
+<source>机械工业出版社</source>
+<citations>46</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Implementação de sistemas de banco de dados</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=100&amp;citation_for_view=zdKmnYwAAAAJ:0CzhzZyukY4C</link>
+<authors>H Garcia-Molina, JD Ullman, J Widom</authors>
+<source>Campus</source>
+<citations>46</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>A data stream management system for network traffic management</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=100&amp;citation_for_view=zdKmnYwAAAAJ:CHSYGLWDkRkC</link>
+<authors>S Babu, L Subramanian, J Widom</authors>
+<source>In Proceedings of Workshop on Network-Related Data Management (NRDM 2001)</source>
+<citations>45</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>A syntax and semantics for set-oriented production rules in relational database systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=100&amp;citation_for_view=zdKmnYwAAAAJ:b0M2c_1WBrUC</link>
+<authors>J Widom, SJ Finkelstein</authors>
+<source>ACM Sigmod record 18 (3), 36-45</source>
+<citations>44</citations>
+<pub_year>1989</pub_year>
+</record>
+<record>
+<title>Human-assisted graph search: it's okay to ask questions</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=100&amp;citation_for_view=zdKmnYwAAAAJ:J-pR_7NvFogC</link>
+<authors>A Parameswaran, AD Sarma, H Garcia-Molina, N Polyzotis, J Widom</authors>
+<source>Proceedings of the VLDB Endowment 4 (5), 267-278</source>
+<citations>41</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>A denotational semantics for continuous queries over streams and relations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=100&amp;citation_for_view=zdKmnYwAAAAJ:P5F9QuxV20EC</link>
+<authors>A Arasu, J Widom</authors>
+<source>ACM Sigmod Record 33 (3), 6-11</source>
+<citations>41</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Query optimization for semistructured data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=100&amp;citation_for_view=zdKmnYwAAAAJ:1sJd4Hv_s6UC</link>
+<authors>J McHugh, J Widom</authors>
+<source>Stanford InfoLab</source>
+<citations>41</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Trio: A system for data, uncertainty, and lineage</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=100&amp;citation_for_view=zdKmnYwAAAAJ:sSrBHYA8nusC</link>
+<authors>J Widom</authors>
+<source>Managing and Mining Uncertain Data, 113-148</source>
+<citations>40</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Compile-time path expansion in Lore</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=100&amp;citation_for_view=zdKmnYwAAAAJ:xtRiw3GOFMkC</link>
+<authors>J McHugh, J Widom</authors>
+<source>Workshop on Query Processing for Semistructured Data and Non-Standard Data ...</source>
+<citations>40</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Modeling Location Management in Personal Communications Services</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=120&amp;citation_for_view=zdKmnYwAAAAJ:dshw04ExmUIC</link>
+<authors>D Lain, J Jannink, DC Cox, J Widom</authors>
+<source>Proc. ICUPC 96, 596-601</source>
+<citations>40</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Introducción a los Sistemas de Bases de Datos</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=120&amp;citation_for_view=zdKmnYwAAAAJ:SP6oXDckpogC</link>
+<authors>JD Ullman, J Widom, B Aditya, G Bhalotia, S Chakrabarti, A Hulgeri, C Nakhe ...</authors>
+<source>In VLDB</source>
+<citations>39</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Whiteboards: a graphical database tool</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=120&amp;citation_for_view=zdKmnYwAAAAJ:p2g8aNsByqUC</link>
+<authors>J Donahue, J Widom</authors>
+<source>ACM Transactions on Information Systems (TOIS) 4 (1), 24-41</source>
+<citations>39</citations>
+<pub_year>1986</pub_year>
+</record>
+<record>
+<title>A toolkit for constraint management in heterogeneous information systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=120&amp;citation_for_view=zdKmnYwAAAAJ:nb7KW1ujOQ8C</link>
+<authors>SS Chawathe, H Garcia-Molina, J Widom</authors>
+<source>Data Engineering, 1996. Proceedings of the Twelfth International Conference ...</source>
+<citations>37</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Protocols for integrity constraint checking in federated databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=120&amp;citation_for_view=zdKmnYwAAAAJ:UxriW0iASnsC</link>
+<authors>P Grefen, J Widom</authors>
+<source>Distributed and Parallel Databases 5 (4), 327-355</source>
+<citations>36</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Research issues in active database systems: Report from the closing panel at RIDE-ADS'94</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=120&amp;citation_for_view=zdKmnYwAAAAJ:u9iWguZQMMsC</link>
+<authors>J Widom</authors>
+<source>ACM Sigmod Record 23 (3), 41-43</source>
+<citations>35</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Rule processing in active database systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=120&amp;citation_for_view=zdKmnYwAAAAJ:WbkHhVStYXYC</link>
+<authors>EN Hanson, J Widom</authors>
+<source>International journal of expert systems 6 (1), 83-119</source>
+<citations>35</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Integrity constraint checking in federated databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=120&amp;citation_for_view=zdKmnYwAAAAJ:yFnVuubrUp4C</link>
+<authors>P Grefen, J Widom</authors>
+<source>Proceedings of the International Conference on Cooperative Information ...</source>
+<citations>34</citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Podstawowy wykład z systemów baz danych</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=120&amp;citation_for_view=zdKmnYwAAAAJ:XiSMed-E-HIC</link>
+<authors>JD Ullman, J Widom, M Jurkiewicz</authors>
+<source>Wydawnictwa Naukowo-Techniczne</source>
+<citations>33</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Efficient Monitoring and Querying of Distributed, Dynamic Data via Approximate Replication.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=120&amp;citation_for_view=zdKmnYwAAAAJ:uWQEDVKXjbEC</link>
+<authors>C Olston, J Widom</authors>
+<source>IEEE Data Eng. Bull. 28 (1), 11-18</source>
+<citations>32</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Computing the median with uncertainty</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=120&amp;citation_for_view=zdKmnYwAAAAJ:OU6Ihb5iCvQC</link>
+<authors>T Feder, R Motwani, R Panigrahy, C Olston, J Widom</authors>
+<source>Proceedings of the thirty-second annual ACM symposium on Theory of computing ...</source>
+<citations>32</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Crowdscreen: Algorithms for filtering data with humans</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=120&amp;citation_for_view=zdKmnYwAAAAJ:_Re3VWB3Y0AC</link>
+<authors>AG Parameswaran, H Garcia-Molina, H Park, N Polyzotis, A Ramesh, J Widom</authors>
+<source>Proceedings of the 2012 ACM SIGMOD International Conference on Management of ...</source>
+<citations>31</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Panda: A System for Provenance and Data.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=120&amp;citation_for_view=zdKmnYwAAAAJ:1qzjygNMrQYC</link>
+<authors>R Ikeda, J Widom</authors>
+<source>IEEE Data Eng. Bull. 33 (3), 42-49</source>
+<citations>30</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Integrating heterogeneous databases: lazy or eager?</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=120&amp;citation_for_view=zdKmnYwAAAAJ:tOudhMTPpwUC</link>
+<authors>J Widom</authors>
+<source>Stanford InfoLab</source>
+<citations>30</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Confidence-aware join algorithms</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=120&amp;citation_for_view=zdKmnYwAAAAJ:eJXPG6dFmWUC</link>
+<authors>P Agrawal, J Widom</authors>
+<source>Data Engineering, 2009. ICDE'09. IEEE 25th International Conference on, 628-639</source>
+<citations>29</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Making aggregation work in uncertain and probabilistic databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=120&amp;citation_for_view=zdKmnYwAAAAJ:B3FOqHPlNUQC</link>
+<authors>R Murthy, R Ikeda, J Widom</authors>
+<source>Knowledge and Data Engineering, IEEE Transactions on 23 (8), 1261-1273</source>
+<citations>28</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Completeness and incompleteness of trace-based network proof systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=120&amp;citation_for_view=zdKmnYwAAAAJ:l7t_Zn2s7bgC</link>
+<authors>J Widom, D Gries, FB Schneider</authors>
+<source>Proceedings of the 14th ACM SIGACT-SIGPLAN symposium on Principles of ...</source>
+<citations>28</citations>
+<pub_year>1987</pub_year>
+</record>
+<record>
+<title>Generic entity resolution in the serf project</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=120&amp;citation_for_view=zdKmnYwAAAAJ:tS2w5q8j5-wC</link>
+<authors>O Benjelloun, H Garcia-Molina, H Kawai, TE Larson, D Menestrina, Q Su, S ...</authors>
+<source>IEEE Data Engineering Bulletin, June 2006 Issue</source>
+<citations>27</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Approximate replication</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=120&amp;citation_for_view=zdKmnYwAAAAJ:738O_yMBCRsC</link>
+<authors>CAR Olston, R Olston, J Widom, M Franklin</authors>
+<source></source>
+<citations>26</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Representing uncertain data: models, properties, and algorithms</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=120&amp;citation_for_view=zdKmnYwAAAAJ:olpn-zPbct0C</link>
+<authors>AD Sarma, O Benjelloun, A Halevy, S Nabar, J Widom</authors>
+<source>The VLDB Journal 18 (5), 989-1019</source>
+<citations>25</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Gps: A graph processing system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=140&amp;citation_for_view=zdKmnYwAAAAJ:XvxMoLDsR5gC</link>
+<authors>S Salihoglu, J Widom</authors>
+<source>Stanford InfoLab</source>
+<citations>24</citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Deco: declarative crowdsourcing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=140&amp;citation_for_view=zdKmnYwAAAAJ:gsN89kCJA0AC</link>
+<authors>AG Parameswaran, H Park, H Garcia-Molina, N Polyzotis, J Widom</authors>
+<source>Proceedings of the 21st ACM international conference on Information and ...</source>
+<citations>24</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Better static rule analysis for active database systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=140&amp;citation_for_view=zdKmnYwAAAAJ:ALROH1vI_8AC</link>
+<authors>E Baralis, J Widom</authors>
+<source>Stanford InfoLab</source>
+<citations>24</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>INTERNET PROGRAMMING-LORE: A DATABASE MANAGEMENT SYSTEM FOR XML-Lore is a DBMS designed specifically for XML. In the same way that SQL queries relational DBMSs, Lore provides the query language</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=140&amp;citation_for_view=zdKmnYwAAAAJ:08ZZubdj9fEC</link>
+<authors>R Goldman, J McHugh, J Widom</authors>
+<source>Dr Dobb's Journal-Software Tools for the Professional Programmer 25 (4), 76-81</source>
+<citations>24</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Synthesizing view definitions from data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=140&amp;citation_for_view=zdKmnYwAAAAJ:WqliGbK-hY8C</link>
+<authors>A Das Sarma, A Parameswaran, H Garcia-Molina, J Widom</authors>
+<source>Proceedings of the 13th International Conference on Database Theory, 89-103</source>
+<citations>23</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Provenance for generalized map and reduce workflows</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=140&amp;citation_for_view=zdKmnYwAAAAJ:JQOojiI6XY0C</link>
+<authors>R Ikeda, H Park, J Widom</authors>
+<source>Stanford InfoLab</source>
+<citations>22</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Mining the space of graph properties</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=140&amp;citation_for_view=zdKmnYwAAAAJ:VOx2b1Wkg3QC</link>
+<authors>G Jeh, J Widom</authors>
+<source>Proceedings of the tenth ACM SIGKDD international conference on Knowledge ...</source>
+<citations>22</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>A location management technique to support lifelong numbering in Personal Communications Services</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=140&amp;citation_for_view=zdKmnYwAAAAJ:geHnlv5EZngC</link>
+<authors>D Lam, Y Cui, DC Cox, J Widom</authors>
+<source>Global Telecommunications Conference, 1997. GLOBECOM'97., IEEE 2, 704-710</source>
+<citations>21</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Using delta relations to optimize condition evaluation in active databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=140&amp;citation_for_view=zdKmnYwAAAAJ:Tiz5es2fbqcC</link>
+<authors>E Baralis, J Widom</authors>
+<source>Rules in Database Systems, 292-308</source>
+<citations>21</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Lineage tracing in a data warehousing system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=140&amp;citation_for_view=zdKmnYwAAAAJ:b1wdh0AR-JQC</link>
+<authors>Y Cui, J Widom</authors>
+<source>Data Engineering, 2000. Proceedings. 16th International Conference on, 683-684</source>
+<citations>20</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>A location management technique to support lifelong numbering in personal communications services</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=140&amp;citation_for_view=zdKmnYwAAAAJ:8AbLer7MMksC</link>
+<authors>D Lam, Y Cui, DC Cox, J Widom</authors>
+<source>ACM SIGMOBILE Mobile Computing and Communications Review 2 (1), 27-35</source>
+<citations>20</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Deco: A system for declarative crowdsourcing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=140&amp;citation_for_view=zdKmnYwAAAAJ:HtEfBTGE9r8C</link>
+<authors>H Park, H Garcia-Molina, R Pang, N Polyzotis, A Parameswaran, J Widom</authors>
+<source>Proceedings of the VLDB Endowment 5 (12), 1990-1993</source>
+<citations>19</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>TIP: a temporal extension to Informix</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=140&amp;citation_for_view=zdKmnYwAAAAJ:fQNAKQ3IYiAC</link>
+<authors>J Yang, HC Ying, J Widom</authors>
+<source>ACM SIGMOD Record 29 (2), 596</source>
+<citations>19</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Integrating dynamically-fetched external information into a DBMS for semistructured data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=140&amp;citation_for_view=zdKmnYwAAAAJ:5Ul4iDaHHb8C</link>
+<authors>J McHugh, J Widom</authors>
+<source>ACM SIGMOD Record 26 (4), 24-31</source>
+<citations>19</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Run-time translation of view tuple deletions using data lineage</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=140&amp;citation_for_view=zdKmnYwAAAAJ:eflP2zaiRacC</link>
+<authors>Y Cui, J Widom</authors>
+<source>Stanford</source>
+<citations>18</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Optimizing branching path expressions</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=140&amp;citation_for_view=zdKmnYwAAAAJ:4fKUyHm3Qg0C</link>
+<authors>J McHugh, J Widom</authors>
+<source>Stanford InfoLab</source>
+<citations>18</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>LIVE: A lineage-supported versioned DBMS</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=140&amp;citation_for_view=zdKmnYwAAAAJ:Mojj43d5GZwC</link>
+<authors>AD Sarma, M Theobald, J Widom</authors>
+<source>Scientific and Statistical Database Management, 416-433</source>
+<citations>17</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Constraint management in loosely coupled distributed databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=140&amp;citation_for_view=zdKmnYwAAAAJ:q3oQSFYPqjQC</link>
+<authors>S Chawathe, H Garcia-Molina, J Widom</authors>
+<source>Stanford InfoLab</source>
+<citations>17</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Continuous uncertainty in trio</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=140&amp;citation_for_view=zdKmnYwAAAAJ:JoZmwDi-zQgC</link>
+<authors>P Agrawal, J Widom</authors>
+<source>Stanford InfoLab</source>
+<citations>16</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Systemy baz danych: pełny wykład</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=140&amp;citation_for_view=zdKmnYwAAAAJ:eq2jaN3J8jMC</link>
+<authors>H Garcia-Molina, JD Ullman, J Widom, M Jurkiewicz</authors>
+<source>Wydawnictwa Naukowo-Techniczne</source>
+<citations>16</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>数据库系统基础教程</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=160&amp;citation_for_view=zdKmnYwAAAAJ:QD3KBmkZPeQC</link>
+<authors>JD Ullman, J Widom, 史嘉权</authors>
+<source>北京: 清华大学出版社</source>
+<citations>16</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Storing auxiliary data for efficient maintenance and lineage tracing of complex views</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=160&amp;citation_for_view=zdKmnYwAAAAJ:mvPsJ3kp5DgC</link>
+<authors>Y Cui, J Widom</authors>
+<source>In the 2nd International Workshop on Design and Management of Data ...</source>
+<citations>16</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Efficient PCS call setup protocols</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=160&amp;citation_for_view=zdKmnYwAAAAJ:D_sINldO8mEC</link>
+<authors>Y Cui, D Lam, J Widom, DC Cox</authors>
+<source>INFOCOM'98. Seventeenth Annual Joint Conference of the IEEE Computer and ...</source>
+<citations>16</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Flexible constraint management for autonomous distributed databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=160&amp;citation_for_view=zdKmnYwAAAAJ:V3AGJWp-ZtQC</link>
+<authors>S Chawathe, H Garcia-Molina, J Widom</authors>
+<source>Data Engineering Bulletin 17 (2)</source>
+<citations>16</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Provenance-based refresh in data-oriented workflows</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=160&amp;citation_for_view=zdKmnYwAAAAJ:7T2F9Uy0os0C</link>
+<authors>R Ikeda, S Salihoglu, J Widom</authors>
+<source>Proceedings of the 20th ACM international conference on Information and ...</source>
+<citations>15</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Foundations of uncertain-data integration</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=160&amp;citation_for_view=zdKmnYwAAAAJ:tkaPQYYpVKoC</link>
+<authors>P Agrawal, AD Sarma, J Ullman, J Widom</authors>
+<source>Proceedings of the VLDB Endowment 3 (1-2), 1080-1090</source>
+<citations>15</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Implementacja systemów baz danych</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=160&amp;citation_for_view=zdKmnYwAAAAJ:dTyEYWd-f8wC</link>
+<authors>H Garcia-Molina, J Widom, M Jurkiewicz, JD Ullman</authors>
+<source>Wydawnictwa Naukowo-Techniczne</source>
+<citations>14</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Summarizing and searching sequential semistructured sources</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=160&amp;citation_for_view=zdKmnYwAAAAJ:kRWSkSYxWN8C</link>
+<authors>R Goldman, J Widom</authors>
+<source>Stanford</source>
+<citations>14</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Schema design for uncertain databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=160&amp;citation_for_view=zdKmnYwAAAAJ:HE397vMXCloC</link>
+<authors>AD Sarma, J Ullman, J Widom</authors>
+<source>Stanford InfoLab</source>
+<citations>13</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Virtual devices: An extensible architecture for bridging the physical-digital divide</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=160&amp;citation_for_view=zdKmnYwAAAAJ:5ugPr518TE4C</link>
+<authors>SR Jeffery, G Alonso, MJ Franklin, W Hong, J Widom</authors>
+<source>Computer Science Division, University of California</source>
+<citations>13</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Estimating data stream quality for object-detection applications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=160&amp;citation_for_view=zdKmnYwAAAAJ:t6usbXjVLHcC</link>
+<authors>AD Sarma, SR Jeffery, MJ Franklin, J Widom</authors>
+<source>Technical Report</source>
+<citations>13</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>CQL: A Language for Continuous Queries over Streams and Relations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=160&amp;citation_for_view=zdKmnYwAAAAJ:eMMeJKvmdy0C</link>
+<authors>J Widom</authors>
+<source>the 9th International Workshop on Data Base Programming Languages (DBPL ...</source>
+<citations>13</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Stream: The stanford stream data manager</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=160&amp;citation_for_view=zdKmnYwAAAAJ:ZfRJV9d4-WMC</link>
+<authors>DP Arvind, A Arasu, B Babcock, S Babu, M Datar, K Ito, I Nishizawa, J ...</authors>
+<source>IEEE Data Engineering Bulletin</source>
+<citations>12</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>STREAM: the stanford stream data manager (demonstration description)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=160&amp;citation_for_view=zdKmnYwAAAAJ:anf4URPfarAC</link>
+<authors>A Arasu, B Babcock, S Babu, M Datar, K Ito, I Nishizawa, J Rosenstein, J Widom</authors>
+<source>Proceedings of the 2003 ACM SIGMOD international conference on Management of ...</source>
+<citations>11</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Query processing, approximation, and resource management in a data stream management system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=160&amp;citation_for_view=zdKmnYwAAAAJ:jL-93Qbq4QoC</link>
+<authors>R Motwani, J Widom, A Arasu, B Babcock, S Babu, M Datar, G Manku, C Olston ...</authors>
+<source>Proceedings of CIDR Conference, 1-16</source>
+<citations>11</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Active database systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=160&amp;citation_for_view=zdKmnYwAAAAJ:WA5NYHcadZ8C</link>
+<authors>S Ceri, J Widom, V Vianu, S Ceri, S Abiteboul</authors>
+<source>Journal of the ACM 35, 70-120</source>
+<citations>11</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Trace-based network proof systems: Expressiveness and completeness</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=160&amp;citation_for_view=zdKmnYwAAAAJ:XiVPGOgt02cC</link>
+<authors>J Widom, D Gries, FB Schneider</authors>
+<source>ACM Transactions on Programming Languages and Systems (TOPLAS) 14 (3), 396-416</source>
+<citations>11</citations>
+<pub_year>1992</pub_year>
+</record>
+<record>
+<title>The Stanford Data Stream Management System</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=160&amp;citation_for_view=zdKmnYwAAAAJ:LjlpjdlvIbIC</link>
+<authors>J Widom</authors>
+<source>Talk on Stanford Stream Data Manager, updated, 1-48</source>
+<citations>10</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Querying semistructured heterogeneous information</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=160&amp;citation_for_view=zdKmnYwAAAAJ:BrmTIyaxlBUC</link>
+<authors>D Quass, A Rajaraman, J Ullman, J Widom, Y Sagiv</authors>
+<source>Journal of Systems Integration 7 (3-4), 381-407</source>
+<citations>10</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Efficient and complete tests for database integrity constraint checking</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=160&amp;citation_for_view=zdKmnYwAAAAJ:Y5dfb0dijaUC</link>
+<authors>A Gupta, Y Sagiv, JD Ullman, J Widom</authors>
+<source>Principles and Practice of Constraint Programming, 173-180</source>
+<citations>10</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>A Unified Approach for Querying Structured Data and XML.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=180&amp;citation_for_view=zdKmnYwAAAAJ:AXPGKjj_ei8C</link>
+<authors>S Abiteboul, J Widom, T Lahiri</authors>
+<source>QL</source>
+<citations>9</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Data lineage: A survey</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=180&amp;citation_for_view=zdKmnYwAAAAJ:uLbwQdceFCQC</link>
+<authors>R Ikeda, J Widom</authors>
+<source>Stanford InfoLab</source>
+<citations>8</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Data modifications and versioning in Trio</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=180&amp;citation_for_view=zdKmnYwAAAAJ:SdhP9T11ey4C</link>
+<authors>AD Sarma, M Theobald, J Widom</authors>
+<source>Stanford InfoLab</source>
+<citations>8</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Towards special-purpose indexes and statistics for uncertain data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=180&amp;citation_for_view=zdKmnYwAAAAJ:_B80troHkn4C</link>
+<authors>AD Sarma, P Agrawal, S Nabar, J Widom</authors>
+<source>Stanford InfoLab</source>
+<citations>8</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Where was your data yesterday, and where will it go tomorrow? Data Annotation and Provenance for Scientific Applications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=180&amp;citation_for_view=zdKmnYwAAAAJ:3htObqc8RwsC</link>
+<authors>P Buneman, D Maier, J Widom</authors>
+<source>Position paper for NSF Workshop on Information and Data Management (IDM 2000 ...</source>
+<citations>8</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>From semistructured data to XML</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=180&amp;citation_for_view=zdKmnYwAAAAJ:PELIpwtuRlgC</link>
+<authors>R Goldman, J McHugh, J Widom</authors>
+<source>MARKUP LANGUAGES THEORY AND PRACTICE 2 (2), 153-163</source>
+<citations>8</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Trace-based network proof systems: expressiveness and completeness</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=180&amp;citation_for_view=zdKmnYwAAAAJ:VL0QpB8kHFEC</link>
+<authors>J Widom</authors>
+<source>Cornell University</source>
+<citations>8</citations>
+<pub_year>1987</pub_year>
+</record>
+<record>
+<title>Ramp: A system for capturing and tracing provenance in mapreduce workflows</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=180&amp;citation_for_view=zdKmnYwAAAAJ:KUbvn5osdkgC</link>
+<authors>H Park, R Ikeda, J Widom</authors>
+<source>Stanford InfoLab</source>
+<citations>7</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Database publication practices</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=180&amp;citation_for_view=zdKmnYwAAAAJ:5awf1xo2G04C</link>
+<authors>PA Bernstein, D DeWitt, A Heuer, Z Ives, CS Jensen, H Meyer, MT Özsu, RT ...</authors>
+<source>Proceedings of the 31st international conference on Very large data bases ...</source>
+<citations>6</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Monitoring Stream Properties for Continuous Query Processing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=180&amp;citation_for_view=zdKmnYwAAAAJ:Fu2w8maKXqMC</link>
+<authors>U Srivastava, S Babu, J Widom</authors>
+<source>Stanford</source>
+<citations>6</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>数据库系统全书</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=180&amp;citation_for_view=zdKmnYwAAAAJ:9vf0nzSNQJEC</link>
+<authors>H Garcia-Molina, JD Ullman, J Widom</authors>
+<source>机械工业出版社</source>
+<citations>6</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Rethinking the conference reviewing process</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=180&amp;citation_for_view=zdKmnYwAAAAJ:35r97b3x0nAC</link>
+<authors>A Halevy, Z Ives, G Weikum</authors>
+<source></source>
+<citations>5</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Database system implementation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=180&amp;citation_for_view=zdKmnYwAAAAJ:uc_IGeMz5qoC</link>
+<authors>M GARCIA</authors>
+<source></source>
+<citations>5</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Data Management for User ProFILEs in Wireless Communication Systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=180&amp;citation_for_view=zdKmnYwAAAAJ:kzcrU_BdoSEC</link>
+<authors>J Jannink, D Lam, N Shivakumar, J Widom, D Cox</authors>
+<source>Stanford InfoLab</source>
+<citations>5</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>A rewriting technique for using delta relations to improve condition evaluation in active databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=180&amp;citation_for_view=zdKmnYwAAAAJ:ZuybSZzF8UAC</link>
+<authors>E Baralis, J Widom</authors>
+<source>Technical Report CS-93-1495, Stanford University</source>
+<citations>5</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Expressiveness bounds for completeness in trace-based network proof systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=180&amp;citation_for_view=zdKmnYwAAAAJ:N5tVd3kTz84C</link>
+<authors>J Widom, P Panangaden</authors>
+<source>CAAP'88, 200-214</source>
+<citations>5</citations>
+<pub_year>1988</pub_year>
+</record>
+<record>
+<title>Query processing over crowdsourced data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=180&amp;citation_for_view=zdKmnYwAAAAJ:4vMrXwiscB8C</link>
+<authors>H Park, A Parameswaran, J Widom</authors>
+<source>Stanford InfoLab</source>
+<citations>4</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Provenance-based debugging and drill-down in data-oriented workflows</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=180&amp;citation_for_view=zdKmnYwAAAAJ:86PQX7AUzd4C</link>
+<authors>R Ikeda, J Cho, C Fang, S Salihoglu, S Torikai, J Widom</authors>
+<source>Data Engineering (ICDE), 2012 IEEE 28th International Conference on, 1249-1252</source>
+<citations>4</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>XML: Some hyperlinks minus the hype</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=180&amp;citation_for_view=zdKmnYwAAAAJ:PR6Y55bgFSsC</link>
+<authors>P Wadler, P Wadler, P Wadler, BC Pierce, J McHugh, S Abiteboul, R Goldman, D ...</authors>
+<source></source>
+<citations>4</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Contentbased routing for continuous query-optimization</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=180&amp;citation_for_view=zdKmnYwAAAAJ:uJ-U7cs_P_0C</link>
+<authors>P Bizarro, S Babu, D DeWitt, J Widom</authors>
+<source>Technical Report 1511, University of Wisconsin, Madison</source>
+<citations>4</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>数据库系统基础教程</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=200&amp;citation_for_view=zdKmnYwAAAAJ:VLnqNzywnoUC</link>
+<authors>厄尔曼, JD Ullman, 维多姆, J Widom, 岳丽华, 龚育昌</authors>
+<source>机械工业出版社</source>
+<citations>4</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Database System Implementation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=200&amp;citation_for_view=zdKmnYwAAAAJ:tzM49s52ZIMC</link>
+<authors>JD Ullman, J Widom</authors>
+<source>Prentice Hall</source>
+<citations>4</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Practical Applications of Constraints and Triggers: Successes and Lingering Issues</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=200&amp;citation_for_view=zdKmnYwAAAAJ:dQ2og3OwTAUC</link>
+<authors>S Ceri, RJ Cochrane, J Widom</authors>
+<source>VLDB conference, Cairo Egypt, Sept. 2000 (invited paper)</source>
+<citations>4</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Foreword</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=200&amp;citation_for_view=zdKmnYwAAAAJ:UHK10RUVsp4C</link>
+<authors>S Chakravarthy, J Widom</authors>
+<source>Journal of Intelligent Information Systems 7 (2), 109-110</source>
+<citations>4</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Tech Report: Compiling GreenMarl into GPS</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=200&amp;citation_for_view=zdKmnYwAAAAJ:lvd772isFD0C</link>
+<authors>S Hong, S Salihoglu, J Widom, K Olukotun</authors>
+<source>Technical report, Stanford University</source>
+<citations>3</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Generalized uncertain databases: first steps</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=200&amp;citation_for_view=zdKmnYwAAAAJ:_axFR9aDTf0C</link>
+<authors>P Agrawal, J Widom</authors>
+<source>Stanford InfoLab</source>
+<citations>3</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Optimization of continuous queries with shared expensive filters</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=200&amp;citation_for_view=zdKmnYwAAAAJ:_Ybze24A_UAC</link>
+<authors>K Munagala, U Srivastava, J Widom</authors>
+<source>Stanford</source>
+<citations>3</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Data-Centric Systems and Applications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=200&amp;citation_for_view=zdKmnYwAAAAJ:KbBQZpvPDL4C</link>
+<authors>MJ Carey, S Ceri, P Bernstein, U Dayal, C Faloutsos, JC Freytag, G Gardarin ...</authors>
+<source>Springer</source>
+<citations>3</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>The WHIPS Prototype for Data Warehouse Creation and Maintenance</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=200&amp;citation_for_view=zdKmnYwAAAAJ:NyGDZy8z5eUC</link>
+<authors>JL Wiener, H Gupta, W Labio, Y Zhuge, H Garcia-Molina, J Widom</authors>
+<source>ICDE, 589</source>
+<citations>3</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Validating constraints with partial information: Research overview</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=200&amp;citation_for_view=zdKmnYwAAAAJ:2KloaMYe4IUC</link>
+<authors>J Widom, A Gupta, Y Sagiv, J Ullman</authors>
+<source>Stanford InfoLab</source>
+<citations>3</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Logical Provenance in Data-Oriented Workflows</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=200&amp;citation_for_view=zdKmnYwAAAAJ:gVv57TyPmFsC</link>
+<authors>R Ikeda, AD Sarma, J Widom</authors>
+<source>Stanford InfoLab</source>
+<citations>3</citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Research issues in data warehousing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=200&amp;citation_for_view=zdKmnYwAAAAJ:W5xh706n7nkC</link>
+<authors>J Widom</authors>
+<source>Prepared talk on DB/Expro95 (with slides)</source>
+<citations>3</citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>An overview of the deco system: data model and query language; query processing and optimization</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=200&amp;citation_for_view=zdKmnYwAAAAJ:5MTHONV0fEkC</link>
+<authors>H Park, R Pang, A Parameswaran, H Garcia-Molina, N Polyzotis, J Widom</authors>
+<source>ACM SIGMOD Record 41 (4), 22-27</source>
+<citations>2</citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Trio-ER: The Trio system as a workbench for entity-resolution</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=200&amp;citation_for_view=zdKmnYwAAAAJ:j8SEvjWlNXcC</link>
+<authors>P Agrawal, R Ikeda, H Park, J Widom</authors>
+<source>Stanford InfoLab</source>
+<citations>2</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Data-spaces: a new abstraction for data management</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=200&amp;citation_for_view=zdKmnYwAAAAJ:r_AWSJRzSzQC</link>
+<authors>M Franklin, A Halevy, J Widom</authors>
+<source>SIGMOD Record, December</source>
+<citations>2</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Representing Uncertain Data: Uniqueness, Equivalence, Minimization, and Approximation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=200&amp;citation_for_view=zdKmnYwAAAAJ:XD-gHx7UXLsC</link>
+<authors>AD Sarma, SU Nabar, J Widom</authors>
+<source>Technical Report</source>
+<citations>2</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Database systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=200&amp;citation_for_view=zdKmnYwAAAAJ:DJbcl8HfkQkC</link>
+<authors>G Garsia-Molina, D Ul'man, D Uidom</authors>
+<source>A full course of, Moscow, Vil'iams</source>
+<citations>2</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Approximate caching for continuous queries over distributed data sources</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=200&amp;citation_for_view=zdKmnYwAAAAJ:z_wVstp3MssC</link>
+<authors>C Olston, J Widom</authors>
+<source>Technical Report</source>
+<citations>2</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Temporal view self-maintenance in a warehousing environment</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=200&amp;citation_for_view=zdKmnYwAAAAJ:lgwcVrK6X84C</link>
+<authors>J Yang, J Widom</authors>
+<source>Stanford InfoLab</source>
+<citations>2</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>A Warehousing Approach to Data and Knowledge Integration</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=200&amp;citation_for_view=zdKmnYwAAAAJ:fEOibwPWpKIC</link>
+<authors>H Garcia-Molina, J Widom, J Wiener, H Gupta, W Labio, Y Zhuge</authors>
+<source>Knowledge Engineering Review 8 (2), 121-143</source>
+<citations>2</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Computing Strongly Connected Components in Pregel-like Systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=220&amp;citation_for_view=zdKmnYwAAAAJ:LgRImbQfgY4C</link>
+<authors>S Salihoglu, J Widom</authors>
+<source>Stanford InfoLab</source>
+<citations>2</citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Logical Provenance in Data-Oriented Workflows (Long Version)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=220&amp;citation_for_view=zdKmnYwAAAAJ:DUooU5lO8OsC</link>
+<authors>R Ikeda, AD Sarma, J Widom</authors>
+<source>Stanford InfoLab</source>
+<citations>2</citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Query optimization over crowdsourced data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=220&amp;citation_for_view=zdKmnYwAAAAJ:tH6gc1N1XXoC</link>
+<authors>H Park, J Widom</authors>
+<source></source>
+<citations>1</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Outerjoins in uncertain databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=220&amp;citation_for_view=zdKmnYwAAAAJ:XoXfffV-tXoC</link>
+<authors>R Ikeda, J Widom</authors>
+<source>Stanford InfoLab</source>
+<citations>1</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Lav integration of uncertain data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=220&amp;citation_for_view=zdKmnYwAAAAJ:nrtMV_XWKgEC</link>
+<authors>P Agrawal, AD Sarma, J Ullman, J Widom</authors>
+<source>Tech. rep. 2008-31, Stanford InfoLab</source>
+<citations>1</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Moshe Vardi speaks out on the proof, the whole proof, and nothing but the proof</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=220&amp;citation_for_view=zdKmnYwAAAAJ:otzGkya1bYkC</link>
+<authors>M Winslett</authors>
+<source>ACM SIGMOD Record 35 (1), 56-64</source>
+<citations>1</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Introducción a los Sistemas de Bases de Datos</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=220&amp;citation_for_view=zdKmnYwAAAAJ:ML0RJ9NH7IQC</link>
+<authors>J Widom, JD Ullman</authors>
+<source>Prentice Hall</source>
+<citations>1</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>E cient PCS Call Setup Protocols</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=220&amp;citation_for_view=zdKmnYwAAAAJ:ILKRHgRFtOwC</link>
+<authors>Y Cui, D Lam, J Widom, DC Cox</authors>
+<source>technical report, Stanford University</source>
+<citations>1</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>On-line warehouse view maintenance</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=220&amp;citation_for_view=zdKmnYwAAAAJ:yB1At4FlUx8C</link>
+<authors>J Widom, D Quass</authors>
+<source>Proc. Intl Conference on Management of Data, ACM SIGMOD</source>
+<citations>1</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>An Algebraic Approach to Rule Analysis in Expert Database Systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=220&amp;citation_for_view=zdKmnYwAAAAJ:g3aElNc5_aQC</link>
+<authors>E Bar&amp;s, J Widom</authors>
+<source>Proc. Twentieth IntJ Conf. on Vet-g Large Data Bases, Santiago, Chile</source>
+<citations>1</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Starburst II: the extender strikes back!</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=220&amp;citation_for_view=zdKmnYwAAAAJ:foquWX3nUaYC</link>
+<authors>GM Lohman, G Lapis, T Lehman, R Agrawal, R Cochrane, J McPherson, C Mohan, H ...</authors>
+<source>ACM SIGMOD Record 20 (2), 447</source>
+<citations>1</citations>
+<pub_year>1991</pub_year>
+</record>
+<record>
+<title>Whiteboards: A Graphical Database Tool</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=220&amp;citation_for_view=zdKmnYwAAAAJ:k8Z6L05lTy4C</link>
+<authors>J Donahue, J Widom</authors>
+<source>XEROX Corporation, Palo Alto Research Center</source>
+<citations>1</citations>
+<pub_year>1985</pub_year>
+</record>
+<record>
+<title>The TSIMMIS project</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=220&amp;citation_for_view=zdKmnYwAAAAJ:cWzG1nlazyYC</link>
+<authors>S Chawathe, H Garcia-Molina, J Hammer, K Ireland, Y Papakonstantinou, J ...</authors>
+<source>IPSJ Proceedings</source>
+<citations>1</citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Information Translation, Mediation, and Mosaic-Based Browsing in the</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=220&amp;citation_for_view=zdKmnYwAAAAJ:0KyAp5RtaNEC</link>
+<authors>J Hammer, H Garcia-Molina, K Ireland, Y Papakonstantinou, J Ullman, J Widom</authors>
+<source></source>
+<citations>1</citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>DataSift: An Expressive and Accurate Crowd-Powered Search Toolkit</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=220&amp;citation_for_view=zdKmnYwAAAAJ:CaZNVDsoPx4C</link>
+<authors>A Parameswaran, MH Teh, H Garcia-Molina, J Widom</authors>
+<source>Stanford InfoLab</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Date Mar 15, 2012</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=220&amp;citation_for_view=zdKmnYwAAAAJ:sNmaIFBj_lkC</link>
+<authors>P Bizarro, D DeWitt, S Babu, J Widom</authors>
+<source></source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Challenges and Opportunities with Big Data 2011-1</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=220&amp;citation_for_view=zdKmnYwAAAAJ:2VqYfGB8ITEC</link>
+<authors>D Agrawal, P Bernstein, E Bertino, S Davidson, U Dayal, M Franklin, J Gehrke ...</authors>
+<source></source>
+<citations></citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Challenges and Opportunities with Big Data 2012-2</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=220&amp;citation_for_view=zdKmnYwAAAAJ:4hFrxpcac9AC</link>
+<authors>D Agrawal, P Bernstein, E Bertino, S Davidson, U Dayal, M Franklin, J Gehrke ...</authors>
+<source></source>
+<citations></citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Challenges and Opportunities with Big Data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=220&amp;citation_for_view=zdKmnYwAAAAJ:a9-T7VOCCH8C</link>
+<authors>E Bertino, P Bernstein, D Agrawal, S Davidson, U Dayal, M Franklin, J Gehrke ...</authors>
+<source></source>
+<citations></citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>of (Report) Series: Technical Report/Stanford University</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=220&amp;citation_for_view=zdKmnYwAAAAJ:uDGL6kOW6j0C</link>
+<authors>A Das Sarma, M Theobald, J Widom</authors>
+<source>Standford University</source>
+<citations></citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Equal Opportunity Support for All</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=240&amp;citation_for_view=zdKmnYwAAAAJ:zLWjf1WUPmwC</link>
+<authors>JD Ullman, J Widom</authors>
+<source>Communications of the ACM 52 (7)</source>
+<citations></citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>2007 SIGMOD Edger F. Codd Innovations Award:Research Principles Revealed</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=240&amp;citation_for_view=zdKmnYwAAAAJ:rmuvC79q63oC</link>
+<authors>J Widom</authors>
+<source>Proceedings of the 2007 ACM SIGMOD international conference on Management of ...</source>
+<citations></citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Foreword to special section on SIGMOD/PODS 2005</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=240&amp;citation_for_view=zdKmnYwAAAAJ:hCrLmN-GePgC</link>
+<authors>F Afrati, J Widom</authors>
+<source>ACM Transactions on Database Systems (TODS) 31 (4), 1417-1417</source>
+<citations></citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Content-Based Routing for Continuous</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=240&amp;citation_for_view=zdKmnYwAAAAJ:6yz0xqPARnAC</link>
+<authors>P Bizarre, S Babu, D DeWitt, J Widom</authors>
+<source></source>
+<citations></citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>mimm 4^ Cf tí í û Ô Üi© if</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=240&amp;citation_for_view=zdKmnYwAAAAJ:BUYA1_V_uYcC</link>
+<authors>P Bizarro, S Babu, D DeWitt, J Widom</authors>
+<source></source>
+<citations></citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Computing the Median with Uncertainty</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=240&amp;citation_for_view=zdKmnYwAAAAJ:ipzZ9siozwsC</link>
+<authors>T as Feder, R Motwaniy, R Panigrahyz, C Olstonx, J Widom</authors>
+<source></source>
+<citations></citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Data streams: fresh current or stagnant backwater?(panel)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=240&amp;citation_for_view=zdKmnYwAAAAJ:WZBGuue-350C</link>
+<authors>JM Hellerstein, J Widom</authors>
+<source>Proceedings of the 2002 ACM SIGMOD international conference on Management of ...</source>
+<citations></citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Processing Data Streams: Applications, Challenges and Approaches</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=240&amp;citation_for_view=zdKmnYwAAAAJ:5qfkUJPXOUwC</link>
+<authors>D Maier, M Franklin, J Gehrke, P Sheshadri, J Widom</authors>
+<source>PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON DATA ENGINEERING, 655-662</source>
+<citations></citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Query Optimization for XML</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=240&amp;citation_for_view=zdKmnYwAAAAJ:bz8QjSJIRt4C</link>
+<authors>J McHugh, J Widom, S Abiteboul, MF Fernandez, D Sueiu</authors>
+<source>Advances in Databases: 18th British National Conference on Databases, BNCOD ...</source>
+<citations></citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Of XML and databases (panel session): where's the beef?</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=240&amp;citation_for_view=zdKmnYwAAAAJ:9Nmd_mFXekcC</link>
+<authors>J Widom, A Bosworth, B Lindsay, M Stonebraker, D Suciu, MJ Chairman-Carey</authors>
+<source>ACM SIGMOD Record 29 (2), 576</source>
+<citations></citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Foreword by the VLDB'98 PC Chairmen</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=240&amp;citation_for_view=zdKmnYwAAAAJ:uWiczbcajpAC</link>
+<authors>O Shmueli, J Widom</authors>
+<source>The VLDB Journal 8 (3), 155-155</source>
+<citations></citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Composable XML Transformations with Tree Transducers</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=240&amp;citation_for_view=zdKmnYwAAAAJ:F1b5ZUV5XREC</link>
+<authors>H Miyashita, M Murata, H Ohsaki, JM Talbot, S Tison, Y Roos, D Freitag, A ...</authors>
+<source>12th International Conference on Logic for Programming Artificial ...</source>
+<citations></citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Implementing Parameterized Range Types in an Extensible DBMS</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=240&amp;citation_for_view=zdKmnYwAAAAJ:4MWp96NkSFoC</link>
+<authors>J Yang, J Widom, P Brown</authors>
+<source>Stanford</source>
+<citations></citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Introducing New Advisory Board and Editorial Board Members</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=240&amp;citation_for_view=zdKmnYwAAAAJ:PVgj2kMGcgYC</link>
+<authors>FB Bastani</authors>
+<source>IEEE Transactions on Knowledge and Data Engineering, 865-867</source>
+<citations></citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Proceedings of the 24rd International Conference on Very Large Data Bases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=240&amp;citation_for_view=zdKmnYwAAAAJ:M7yex6snE4oC</link>
+<authors>A Gupta, O Shmueli, J Widom</authors>
+<source>Morgan Kaufmann Publishers Inc.</source>
+<citations></citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Efficient Management of Active Databases</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=240&amp;citation_for_view=zdKmnYwAAAAJ:LO7wyVUgiFcC</link>
+<authors>JD Ullman, J Widom</authors>
+<source>STANFORD UNIV CA DEPT OF COMPUTER SCIENCE</source>
+<citations></citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>XML Query and transformation language.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=240&amp;citation_for_view=zdKmnYwAAAAJ:FAceZFleit8C</link>
+<authors>A Bosworth, A Layman, A Ardeleanu, D Schach</authors>
+<source>QL</source>
+<citations></citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Reminescences on Influential Papers-R Snodgrass, ed</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=240&amp;citation_for_view=zdKmnYwAAAAJ:HbR8gkJAVGIC</link>
+<authors>L Haas, A Mendelzohn, M Ozsoyoglu, J Paredaens, K Ramamntham, N Roussopoulos ...</authors>
+<source>SIGMOD RECORD 27, 81-85</source>
+<citations></citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>A Warehousing Approach to Data and Knowledge Integration</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=240&amp;citation_for_view=zdKmnYwAAAAJ:FPJr55Dyh1AC</link>
+<authors>J Widom</authors>
+<source>STANFORD UNIV CA SPONSORED PROJECTS OFFICE</source>
+<citations></citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>A Warehousing Approach to Data and Knowledge Integration(Final Report, Sep. 1994- Aug. 1996)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=240&amp;citation_for_view=zdKmnYwAAAAJ:edDO8Oi4QzsC</link>
+<authors>J WIDOM</authors>
+<source></source>
+<citations></citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Change Management in Heterogeneous Semistructured Databases (Demonstration Description)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=260&amp;citation_for_view=zdKmnYwAAAAJ:q3CdL3IzO_QC</link>
+<authors>S Chawathe, V Gossain, X Liu, J Widom, S Abiteboul</authors>
+<source>Stanford InfoLab</source>
+<citations></citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>ACM SIGMOD Record Volume 25 Issue 3</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=260&amp;citation_for_view=zdKmnYwAAAAJ:URolC5Kub84C</link>
+<authors>J Widom</authors>
+<source>ACM 25 (3)</source>
+<citations></citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Proceedings of the 1996 ACM SIGMOD international conference on Management of data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=260&amp;citation_for_view=zdKmnYwAAAAJ:oNZyr7d5Mn4C</link>
+<authors>J Widom</authors>
+<source>ACM</source>
+<citations></citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>A Toolkit for Constraint Management in Heterogeneous Information Systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=260&amp;citation_for_view=zdKmnYwAAAAJ:4X0JR2_MtJMC</link>
+<authors>SSCH Garcia-Molina, J Widom</authors>
+<source>Proceedings of the twelfth International Conference on Data Engineering ...</source>
+<citations></citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Incremental View Updates in a Warehousing Architecture</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=260&amp;citation_for_view=zdKmnYwAAAAJ:tuHXwOkdijsC</link>
+<authors>Y Zhuge, H Garcia-Molina, J Hammer, J Widom</authors>
+<source></source>
+<citations></citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>RIDE...</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=260&amp;citation_for_view=zdKmnYwAAAAJ:2tRrZ1ZAMYUC</link>
+<authors>J Widom, S Chakravarthy</authors>
+<source>IEEE</source>
+<citations></citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>TRACE-BASED NETWORK PROOF SYSTEMS-EXPRESSIVENESS AND COMPLETENESS (VOL 14, PG 3, 1992)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=260&amp;citation_for_view=zdKmnYwAAAAJ:buQ7SEKw-1sC</link>
+<authors>J WIDOM, D GRIES, FB SCHNEIDER</authors>
+<source>ACM TRANSACTIONS ON PROGRAMMING LANGUAGES AND SYSTEMS 15 (1), 208-208</source>
+<citations></citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Trace-based Network Proof Systems: Expressiveness and Completeness</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=260&amp;citation_for_view=zdKmnYwAAAAJ:OR75R8vi5nAC</link>
+<authors>D Gries, FB Schneider, J Widom</authors>
+<source>Cornell University, Department of Computer Science</source>
+<citations></citations>
+<pub_year>1989</pub_year>
+</record>
+<record>
+<title>Optimizing Graph Algorithms on Pregel-like Systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=260&amp;citation_for_view=zdKmnYwAAAAJ:ubry08Y2EpUC</link>
+<authors>S Salihoglu, J Widom</authors>
+<source>Stanford InfoLab</source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Index of Authors</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=260&amp;citation_for_view=zdKmnYwAAAAJ:48xauSegjOkC</link>
+<authors>K Aberer, I Ahmed, J Albert, G Alonso, S Baumann, H Biller, A Buchmann, C ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Logical Provenance in Data-Oriented Workflows (Short Version)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=260&amp;citation_for_view=zdKmnYwAAAAJ:4xDN1ZYqzskC</link>
+<authors>R Ikeda, AD Sarma, J Widom</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>The underlying concepts may di er in subtle ways. A payroll database may not regard a retiree as an\ employee," while the benefits department does. Conversely, the payroll department may include consultants in the concept\ employee" while the benefits department does not. The information may not conform to a rigid schema in advance. Examples of\ semi</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=260&amp;citation_for_view=zdKmnYwAAAAJ:OcBU2YAGkTUC</link>
+<authors>H Garcia-Molina, Y Papakonstantinou, D Quass, A Rajaraman, Y Sagiv, J rey ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Data Engineering</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=260&amp;citation_for_view=zdKmnYwAAAAJ:HtS1dXgVpQUC</link>
+<authors>A Gupta, IS Mumick, N Roussopoulos, CM Chen, S Kelley, A Delis, Y ...</authors>
+<source>Urbana 51</source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>In: Won Kim, editor, Modern Database Systems: The Object Model, Interoperability, and Beyond, Addison-Wesley, Reading, Massachusetts, Sep. 1994</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=260&amp;citation_for_view=zdKmnYwAAAAJ:_FM0Bhl9EiAC</link>
+<authors>U Dayal, EN Hanson, J Widom</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Data Engineering</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=260&amp;citation_for_view=zdKmnYwAAAAJ:9pM33mqn1YgC</link>
+<authors>R Ramakrishnan, D Srivastava, G Alonso, A El Abbadi, SS Chawathe, H Garcia ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Data Engineering</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=260&amp;citation_for_view=zdKmnYwAAAAJ:4fGpz3EwCPoC</link>
+<authors>O Benjelloun, AD Sarma, C Hayworth, J Widom</authors>
+<source>Ann Arbor 1001, 48109</source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Computer Science Department Stanford University Stanford, CA 94305 E-mail: joachim@ cs. stanford. edu</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=260&amp;citation_for_view=zdKmnYwAAAAJ:kh2fBNsKQNwC</link>
+<authors>J Hammer, H Garcia-Molina, J Widom, W Labio, Y Zhuge</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Data Engineering</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=260&amp;citation_for_view=zdKmnYwAAAAJ:0N-VGjzr574C</link>
+<authors>G Alonso, A El Abbadi, SS Chawathe, H Garcia-Molina, J Widom</authors>
+<source>Urbana 51</source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Change Detection in</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=260&amp;citation_for_view=zdKmnYwAAAAJ:Ug5p-4gJ2f0C</link>
+<authors>SS Chawathe, A Rajaraman, H Garcia-Molina, J Widom</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Integrating and Accessing Heterogeneous</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=260&amp;citation_for_view=zdKmnYwAAAAJ:xtoqd-5pKcoC</link>
+<authors>H Garcia-Molina, J Hammer, K Ireland, Y Papakonstantinou, J Ullman, J Widom</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Journal of Digital Libraries Manuscript-Nr.(will be inserted by hand later)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=280&amp;citation_for_view=zdKmnYwAAAAJ:Dip1O2bNi0gC</link>
+<authors>S Abiteboul, D Quass, J McHugh, J Widom, JL Wiener</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Data Engineering</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=280&amp;citation_for_view=zdKmnYwAAAAJ:SpbeaW3--B0C</link>
+<authors>H Kawai, TE Larson, D Menestrina, Q Su, S Thavisomboon, J Widom, F Naumann ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>In: Won Kim, editor, Modern Database Systems: The Object Model</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=280&amp;citation_for_view=zdKmnYwAAAAJ:i2xiXl-TujoC</link>
+<authors>D Active, U Dayal, EN Hanson, J Widom</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Data Engineering</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=280&amp;citation_for_view=zdKmnYwAAAAJ:S16KYo8Pm5AC</link>
+<authors>JM Hellerstein, V Paxson, L Peterson, T Roscoe, S Shenker, D Wetherall, C ...</authors>
+<source>Ann Arbor 1001, 48109</source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>The LORE Project at Stanford Demonstration Proposal</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=280&amp;citation_for_view=zdKmnYwAAAAJ:e_rmSamDkqQC</link>
+<authors>K Haas, S Nestorov, D Quass, A Rajaraman, H Rivero, K Tian, J rey Ullman, J ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Dallan Quass</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=280&amp;citation_for_view=zdKmnYwAAAAJ:kz9GbA2Ns4gC</link>
+<authors>J Widom</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>An Algebraic Approach to Rule Analysis in Expert Database Systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=280&amp;citation_for_view=zdKmnYwAAAAJ:lmc2jWPfTJgC</link>
+<authors>J Widom</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>The Capability Maturity Model [4] is an orderly way for organizations to determine the capabilities of their current processes for developing software and to establish priorities for improvement [2]. It defines five levels of progressively more mature process capability [3].</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=280&amp;citation_for_view=zdKmnYwAAAAJ:MLfJN-KU85MC</link>
+<authors>S Chaudhuri, D Kossmann, J Chomicki, H Mannila, L Gravano, A Rosenthal, MRH ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Welcome to VLDB 98! This volume contains the proceedings of the Twenty-Fourth International Conference on Very Large Databases being held in New York City, August 24-27 1998. VLDB is one of oldest and most international database conferences, and its proceedings are recognized as one of the most frequently cited collections of papers in the database community worldwide. This years VLDB contributions continue and strengthen this trend.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=280&amp;citation_for_view=zdKmnYwAAAAJ:kuK5TVdYjLIC</link>
+<authors>A Biliris, IS Mumick, O Shmueli, J Widom</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Programme Committee Members</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=280&amp;citation_for_view=zdKmnYwAAAAJ:tYavs44e6CUC</link>
+<authors>M Adiba, D Agrawal, P Apers, R Baeza-Yates, JA Blakeley, M Bouzeghoub, A ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>¡¢ stem rotot¢ e for'are1ouse 7ieB D aintenance</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=280&amp;citation_for_view=zdKmnYwAAAAJ:L7CI7m0gUJcC</link>
+<authors>JL Wiener, H Gupta, WJ Labio, Y Zhuge, H Garcia-Molina, J Widom</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Bulletin of the Technical Committee on</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=280&amp;citation_for_view=zdKmnYwAAAAJ:EYYDruWGBe4C</link>
+<authors>A Gupta, IS Mumick, N Roussopoulos, CM Chen, S Kelley, A Delis, Y ...</authors>
+<source>Urbana 51, 61801</source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>VLDB Endowment Board of Trustees</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=280&amp;citation_for_view=zdKmnYwAAAAJ:vbGhcppDl1QC</link>
+<authors>J Mylopoulos, KG Jeffery, S Su, R Agrawal, ML Brodie, MJ Carey, S tefano ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>SimRank: A Measure of Structural-Context Similarity ฃ</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=280&amp;citation_for_view=zdKmnYwAAAAJ:p__nRnzSRKYC</link>
+<authors>G Jeh, J Widom</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>TSIMMIS System</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=280&amp;citation_for_view=zdKmnYwAAAAJ:BwyfMAYsbu0C</link>
+<authors>J Hammer, H Garcia-Molina, K Ireland, Y Papakonstantinou, J rey Ullman, J Widom</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Wilburt J. Labio, Yue Zhuge, Janet L. Wiener, Himanshu Gupta</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=280&amp;citation_for_view=zdKmnYwAAAAJ:Z5m8FVwuT1cC</link>
+<authors>H Garcia-Molina, J Widom</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Department and Course Number</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=zdKmnYwAAAAJ&amp;cstart=280&amp;citation_for_view=zdKmnYwAAAAJ:vDijr-p_gm4C</link>
+<authors>H Garcia-Molina, JD Ullman, J Widom</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+</file>

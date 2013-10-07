@@ -1,0 +1,5924 @@
+RT Conference Proceedings
+ID 57010940
+A1 Lasdas,Vasilis
+A1 Timofte,Radu
+A1 Gool,Luc,Van
+YR 2012
+T1 Non-parametric motion-priors for flow understanding
+SP 417
+OP 424
+
+RT Conference Proceedings
+ID 56981354
+A1 Becker,Jan,Hendrik
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,Van
+YR 2012
+T1 Codebook-free exemplar models for object detection
+SP 1
+OP 4
+
+RT Conference Proceedings
+ID 57010896
+A1 Bergh,Michael,Van,den
+A1 Gool,Luc,Van
+YR 2012
+T1 Real-time stereo and flow-based video segmentation with superpixels
+SP 89
+OP 96
+
+RT Conference Proceedings
+ID 56976866
+A1 Fanelli,Gabriele
+A1 Gall,Juergen
+A1 Gool,Luc,Van
+YR 2012
+T1 Real time 3D head pose estimation: Recent achievements and future challenges
+
+RT Conference Proceedings
+ID 51159370
+A1 Bergh,Michael,Van,den
+A1 Gool,Luc,Van
+YR 2011
+T1 Combining RGB and ToF cameras for real-time 3D hand gesture interaction
+SP 66
+OP 72
+
+RT Journal Article
+ID 51191074
+A1 Gall,Juergen
+A1 Yao,Angela
+A1 Razavi,Nima
+A1 Gool,Luc,Van
+A1 Lempitsky,Victor
+YR 2011
+T1 Hough Forests for Object Detection, Tracking, and Action Recognition
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 33
+SP 2188
+OP 2202
+IS 11
+
+RT Journal Article
+ID 61401645
+A1 Mansfield,Alex
+A1 Prasad,Mukta
+A1 Rother,Carsten
+A1 Sharp,Toby
+A1 Kohli,Pushmeet
+A1 Gool,Luc,Van
+YR 2011
+T1 Transforming Image Completion
+
+RT Journal Article
+ID 39316074
+A1 Weise,Thibaut
+A1 Wismer,Thomas
+A1 Leibe,Bastian
+A1 Gool,Luc,J.,Van
+YR 2011
+T1 Online loop closure for real-time interactive 3D scanning
+JF Computer Vision and Image Understanding
+VO 115
+SP 635
+OP 648
+IS 5
+
+RT Conference Proceedings
+ID 51108068
+A1 Fanelli,Gabriele
+A1 Gall,Juergen
+A1 Gool,Luc,Van
+YR 2011
+T1 Real time head pose estimation with random regression forests
+SP 617
+OP 624
+
+RT Journal Article
+ID 51194035
+A1 Breitenstein,Michael,D.
+A1 Reichlin,Fabian
+A1 Leibe,Bastian
+A1 Koller-Meier,Esther
+A1 Gool,Luc,Van
+YR 2011
+T1 Online Multiperson Tracking-by-Detection from a Single, Uncalibrated Camera
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 33
+SP 1820
+OP 1833
+IS 9
+
+RT Conference Proceedings
+ID 51117602
+A1 Bergh,Michael,Van,den
+A1 Carton,Daniel
+A1 Nijs,Roderick,De
+A1 Mitsou,Nikos
+A1 Landsiedel,Christian
+A1 Kuehnlenz,Kolja
+A1 Wollherr,Dirk
+A1 Gool,Luc,Van
+A1 Buss,Martin
+YR 2011
+T1 Real-time 3D hand gesture interaction with a robot for understanding directions from humans
+
+RT Conference Proceedings
+ID 51107986
+A1 Qin,Danfeng
+A1 Gammeter,Stephan
+A1 Bossard,Lukas
+A1 Quack,Till
+A1 Gool,Luc,van
+YR 2011
+T1 Hello neighbor: Accurate object retrieval with k-reciprocal nearest neighbors
+SP 777
+OP 784
+
+RT Conference Proceedings
+ID 56990043
+A1 Dantone,Matthias
+A1 Bossard,Lukas
+A1 Quack,Till
+A1 Gool,Luc,van
+YR 2011
+T1 Augmented faces
+
+RT Conference Proceedings
+ID 51080353
+A1 Mathias,Markus
+A1 Martinovic,Andelo
+A1 Weissenberg,Julien
+A1 Gool,Luc,Van
+YR 2011
+T1 Procedural 3D Building Reconstruction Using Shape Grammars and Detectors
+
+RT Conference Proceedings
+ID 56990273
+A1 Nater,Fabian
+A1 Tommasi,Tatiana
+A1 Grabner,Helmut
+A1 Gool,Luc,Van
+A1 Caputo,Barbara
+YR 2011
+T1 Transferring activities: Updating human behavior analysis
+
+RT Conference Proceedings
+ID 56990309
+A1 Benenson,Rodrigo
+A1 Timofte,Radu
+A1 Gool,Luc,Van
+YR 2011
+T1 Stixels estimation without depth map computation
+
+RT Conference Proceedings
+ID 51108340
+A1 Cabrera,Reyes,Rios
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,Van
+YR 2011
+T1 Efficient multi-camera detection, tracking, and identification using a shared set of haar-features
+SP 65
+OP 71
+
+RT Conference Proceedings
+ID 56990089
+A1 Uebersax,Dominique
+A1 Gall,Juergen
+A1 Bergh,Michael,Van,den
+A1 Gool,Luc,Van
+YR 2011
+T1 Real-time sign language letter and word recognition from depth data
+
+RT Journal Article
+ID 51185603
+A1 Zhang,Ke
+A1 Lu,Jiangbo
+A1 Yang,Qiong
+A1 Lafruit,Gauthier
+A1 Lauwereins,Rudy
+A1 Gool,Luc,Van
+YR 2011
+T1 Real-Time and Accurate Stereo: A Scalable Approach With Bitwise Fast Voting on CUDA
+JF IEEE Transactions on Circuits and Systems for Video Technology
+VO 21
+SP 867
+OP 878
+IS 7
+
+RT Journal Article
+ID 49413942
+A1 Voulodimos,Athanasios
+A1 Kosmopoulos,Dimitrios
+A1 Veres,Galina
+A1 Grabner,Helmut
+A1 Gool,Luc,Van
+A1 Varvarigou,Theodora
+YR 2011
+T1 Online classification of visual tasks for industrial workflow monitoring
+JF Neural Networks
+VO 24
+SP 852
+OP 860
+IS 8
+
+RT Journal Article
+ID 39329698
+A1 Mainali,Pradip
+A1 Yang,Qiong
+A1 Lafruit,Gauthier
+A1 Gool,Luc,J.,Van
+A1 Lauwereins,Rudy
+YR 2011
+T1 Robust Low Complexity Corner Detector
+JF IEEE Transactions on Circuits and Systems for Video Technology
+VO 21
+SP 435
+OP 445
+IS 4
+
+RT Journal Article
+ID 49446904
+A1 Aschwanden,Gideon,D.,P.,A.
+A1 Haegler,Simon
+A1 Bosché,Frédéric
+A1 Gool,Luc,Van
+A1 Schmitt,Gerhard
+YR 2011
+T1 Empiric design evaluation in urban planning
+JF Automation in Construction
+VO 20
+SP 299
+OP 310
+IS 3
+
+RT Conference Proceedings
+ID 39263734
+A1 Hamer,Henning
+A1 Gall,Juergen
+A1 Urtasun,Raquel
+A1 Gool,Luc,J.,Van
+YR 2011
+T1 Data-driven animation of hand-object interactions
+SP 360
+OP 367
+
+RT Conference Proceedings
+ID 56990296
+A1 Nater,Fabian
+A1 Grabner,Helmut
+A1 Gool,Luc,Van
+YR 2011
+T1 Unsupervised workflow discovery in industrial environments
+
+RT Conference Proceedings
+ID 51135049
+A1 Morzinger,Roland
+A1 Thaler,Marcus
+A1 Stalder,Severin
+A1 Grabner,Helmut
+A1 Gool,Luc,Van
+YR 2011
+T1 Improved person detection in industrial environments using multiple self-calibrated cameras
+
+RT Conference Proceedings
+ID 51098529
+A1 Moll,Markus
+A1 Gool,Luc,Van
+YR 2011
+T1 Separating rigid motion from linear local deformation models
+SP 37
+OP 44
+
+RT Conference Proceedings
+ID 56990065
+A1 Timofte,Radu
+A1 Gool,Luc,Van
+YR 2011
+T1 Multi-view manhole detection, recognition, and 3D localisation
+
+RT Conference Proceedings
+ID 51107942
+A1 Grabner,Helmut
+A1 Gall,Juergen
+A1 Gool,Luc,Van
+YR 2011
+T1 What makes a chair a chair?
+SP 1529
+OP 1536
+
+RT Conference Proceedings
+ID 48962410
+A1 Gall,Juergen
+A1 Fossati,Andrea
+A1 Gool,Luc,van
+YR 2011
+T1 Functional Categorization of Objects using Real-time Markerless Motion Capture
+SP 1969
+OP 1976
+
+RT Conference Proceedings
+ID 51108052
+A1 Razavi,Nima
+A1 Gall,Juergen
+A1 Gool,Luc,Van
+YR 2011
+T1 Scalable multi-class object detection
+SP 1505
+OP 1512
+
+RT Conference Proceedings
+ID 51159402
+A1 Bilen,Hakan
+A1 Namboodiri,Vinay,P.
+A1 Gool,Luc,Van
+YR 2011
+T1 Action recognition: A region based approach
+SP 294
+OP 300
+
+RT Conference Proceedings
+ID 51080337
+A1 Knopp,Jan
+A1 Prasad,Mukta
+A1 Gool,Luc,Van
+YR 2011
+T1 Scene Cut: Class-Specific Object Detection and Segmentation in 3D Scenes
+
+RT Journal Article
+ID 15271246
+A1 Everingham,Mark
+A1 Gool,Luc,J.,Van
+A1 Williams,Christopher,K.,I.
+A1 Winn,John,M.
+A1 Zisserman,Andrew
+YR 2010
+T1 The Pascal Visual Object Classes (VOC) Challenge
+JF International Journal of Computer Vision
+VO 88
+SP 303
+OP 338
+IS 2
+
+RT Conference Proceedings
+ID 39261240
+A1 Kuettel,Daniel
+A1 Breitenstein,Michael,D.
+A1 Gool,Luc,J.,Van
+A1 Ferrari,Vittorio
+YR 2010
+T1 What's going on? Discovering spatio-temporal dependencies in dynamic scenes
+SP 1951
+OP 1958
+
+RT Conference Proceedings
+ID 39261396
+A1 Yao,Angela
+A1 Gall,Juergen
+A1 Gool,Luc,J.,Van
+YR 2010
+T1 A Hough transform-based voting framework for action recognition
+SP 2061
+OP 2068
+
+RT Journal Article
+ID 14005472
+A1 Liu,Yanxi
+A1 Hel-Or,Hagit
+A1 Kaplan,Craig,S.
+A1 Gool,Luc,J.,Van
+YR 2010
+T1 Computational Symmetry in Computer Vision and Computer Graphics
+JF Foundations and Trends in Computer Graphics and Vision
+VO 5
+SP 1
+OP 195
+IS 1-2
+
+RT Conference Proceedings
+ID 39261201
+A1 Nater,Fabian
+A1 Grabner,Helmut
+A1 Gool,Luc,J.,Van
+YR 2010
+T1 Exploiting simple hierarchies for unsupervised human behavior analysis
+SP 2014
+OP 2021
+
+RT Book, Whole
+ID 39262468
+A1 Knopp,Jan
+A1 Prasad,Mukta
+A1 Willems,Geert
+A1 Timofte,Radu
+A1 Gool,Luc,J.,Van
+YR 2010
+T1 Hough Transform and 3D SURF for Robust Three Dimensional Classification
+SP 589
+OP 602
+
+RT Conference Proceedings
+ID 39290922
+A1 Mainali,Pradip
+A1 Yang,Qiong
+A1 Lafruit,Gauthier
+A1 Lauwereins,Rudy
+A1 Gool,Luc,J.,Van
+YR 2010
+T1 Lococo: low complexity corner detector
+SP 810
+OP 813
+
+RT Book, Whole
+ID 13995061
+A1 Stalder,Severin
+A1 Grabner,Helmut
+A1 Gool,Luc,J.,Van
+YR 2010
+T1 Cascaded Confidence Filtering for Improved Tracking-by-Detection
+SP 369
+OP 382
+
+RT Journal Article
+ID 13314030
+A1 Ozden,Kemal,Egemen
+A1 Schindler,Konrad
+A1 Gool,Luc,J.,Van
+YR 2010
+T1 Multibody Structure-from-Motion in Practice
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 32
+SP 1134
+OP 1141
+IS 6
+
+RT Conference Proceedings
+ID 39261425
+A1 Grabner,Helmut
+A1 Matas,Jiri
+A1 Gool,Luc,J.,Van
+A1 Cattin,Philippe,C.
+YR 2010
+T1 Tracking the invisible: Learning where the object might be
+SP 1285
+OP 1292
+
+RT Journal Article
+ID 27806108
+A1 Breitenstein,Michael,D.
+A1 Reichlin,Fabian
+A1 Leibe,Bastian
+A1 Koller-Meier,Esther
+A1 Gool,Luc,Van
+YR 2010
+T1 Online Multi-Person Tracking-by-Detection from a Single, Uncalibrated Camera
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+RT Journal Article
+ID 15280568
+A1 Ess,Andreas
+A1 Schindler,Konrad
+A1 Leibe,Bastian
+A1 Gool,Luc,J.,Van
+YR 2010
+T1 Object detection and tracking for autonomous navigation in dynamic environments
+JF International Journal of Robotic Research
+VO 29
+SP 1707
+OP 1725
+IS 14
+
+RT Journal Article
+ID 15271265
+A1 Lehmann,Alain
+A1 Leibe,Bastian
+A1 Gool,Luc,Van
+YR 2010
+T1 Fast PRISM: Branch and Bound Hough Transform for Object Class Detection
+JF International Journal of Computer Vision
+VO 89
+SP 175
+OP 197
+IS 2-3
+
+RT Book, Whole
+ID 13995182
+A1 Pellegrini,Stefano
+A1 Ess,Andreas
+A1 Gool,Luc,J.,Van
+YR 2010
+T1 Improving Data Association by Joint Modeling of Pedestrian Trajectories and Groupings
+SP 452
+OP 465
+
+RT Conference Proceedings
+ID 39258398
+A1 Gall,Juergen
+A1 Razavi,Nima
+A1 Gool,Luc,J.,Van
+YR 2010
+T1 On-line Adaption of Class-specific Codebooks for Instance Tracking
+SP 1
+OP 12
+
+RT Conference Proceedings
+ID 39236085
+A1 Schuster,Rene
+A1 Mörzinger,Roland
+A1 Haas,Werner
+A1 Grabner,Helmut
+A1 Gool,Luc,J.,Van
+YR 2010
+T1 Real-time detection of unusual regions in image streams
+SP 1307
+OP 1310
+
+RT Book, Whole
+ID 13994136
+A1 Voulodimos,Athanasios
+A1 Grabner,Helmut
+A1 Kosmopoulos,Dimitrios,I.
+A1 Gool,Luc,J.,Van
+A1 Varvarigou,Theodora,A.
+YR 2010
+T1 Robust Workflow Recognition Using Holistic Features and Outlier-Tolerant Fused Hidden Markov Models
+SP 551
+OP 560
+
+RT Book, Whole
+ID 13995067
+A1 Razavi,Nima
+A1 Gall,Juergen
+A1 Gool,Luc,J.,Van
+YR 2010
+T1 Backprojection Revisited: Scalable Multi-view Object Detection and Similarity Metrics for Detections
+SP 620
+OP 633
+
+RT Book, Whole
+ID 13994898
+A1 Gall,Juergen
+A1 Yao,Angela
+A1 Gool,Luc,J.,Van
+YR 2010
+T1 2D Action Recognition Serves 3D Human Pose Estimation
+SP 425
+OP 438
+
+RT Journal Article
+ID 14001678
+A1 Roth,Daniel
+A1 Koller-Meier,Esther
+A1 Gool,Luc,J.,Van
+YR 2010
+T1 Multi-object tracking evaluated on sparse events
+JF Multimedia Tools and Applications
+VO 50
+SP 29
+OP 47
+IS 1
+
+RT Book, Whole
+ID 13995179
+A1 Mansfield,Alex
+A1 Gehler,Peter,V.
+A1 Gool,Luc,J.,Van
+A1 Rother,Carsten
+YR 2010
+T1 Scene Carving: Scene Consistent Image Retargeting
+SP 143
+OP 156
+
+RT Journal Article
+ID 18572145
+A1 Schindler,Konrad
+A1 Ess,Andreas
+A1 Leibe,Bastian
+A1 Gool,Luc,Van
+YR 2010
+T1 Automatic detection and tracking of pedestrians from a moving stereo rig
+JF Isprs Journal of Photogrammetry and Remote Sensing
+VO 65
+SP 523
+OP 537
+IS 6
+
+RT Conference Proceedings
+ID 39267355
+A1 Mainali,Pradip
+A1 Yang,Qiong
+A1 Lafruit,Gauthier
+A1 Lauwereins,Rudy
+A1 Gool,Luc,J.,Van
+YR 2010
+T1 Robust low complexity feature tracking
+SP 829
+OP 832
+
+RT Conference Proceedings
+ID 50919679
+A1 Gammeter,Stephan
+A1 Gassmann,Alexander
+A1 Bossard,Lukas
+A1 Quack,Till
+A1 Gool,Luc,Van
+YR 2010
+T1 Server-side object recognition and client-side object tracking for mobile augmented reality
+
+RT Journal Article
+ID 36923333
+A1 Kogo,Naoki
+A1 Strecha,Christoph
+A1 Gool,Luc,Van
+A1 Wagemans,Johan
+YR 2010
+T1 Surface Construction by a 2-D Differentiation–Integration Process: A Neurocomputational Model for Perceived Border Ownership, Depth, and Lightness in Kanizsa Figures
+JF Psychological Review
+VO 117
+SP 406
+OP 439
+IS 2
+
+RT Book, Whole
+ID 13281091
+A1 Moll,Markus
+A1 Tang,Hsiao-Wei
+A1 Gool,Luc,Van
+YR 2010
+T1 GPU-Accelerated Robotic Intra-operative Laparoscopic 3D Reconstruction
+SP 91
+OP 101
+
+RT Journal Article
+ID 33729704
+A1 Kogo,Naoki
+A1 Gool,Luc,Van
+A1 Wagemans,Johan
+YR 2010
+T1 Linking depth to lightness and anchoring within the differentiation–integration formalism
+JF Vision Research
+VO 50
+SP 1486
+OP 1500
+IS 15
+
+RT Conference Proceedings
+ID 39261209
+A1 Hamer,Henning
+A1 Gall,Juergen
+A1 Weise,Thibaut
+A1 Gool,Luc,J.,Van
+YR 2010
+T1 An object-dependent hand pose prior from sparse training data
+SP 671
+OP 678
+
+RT Book, Whole
+ID 13995024
+A1 Gammeter,Stephan
+A1 Quack,Till
+A1 Tingdahl,David
+A1 Gool,Luc,van
+YR 2010
+T1 Size Does Matter: Improving Object Recognition and 3D Reconstruction with Cross-Media Analysis of Image Clusters
+SP 734
+OP 747
+
+RT Book, Whole
+ID 13992940
+A1 Yao,Angela
+A1 Uebersax,Dominique
+A1 Gall,Juergen
+A1 Gool,Luc,J.,Van
+YR 2010
+T1 Tracking People in Broadcast Sports
+SP 151
+OP 161
+
+RT Journal Article
+ID 39224286
+A1 Mörzinger,Roland
+A1 Sardis,Manolis
+A1 Rosenberg,Igor
+A1 Grabner,Helmut
+A1 Veres,Galina
+A1 Bouchrika,Imed
+A1 Thaler,Marcus
+A1 Schuster,Rene
+A1 Hofmann,Albert
+A1 Thallinger,Georg
+A1 Anagnostopoulos,Vassileios
+A1 Kosmopoulos,Dimitrios
+A1 Voulodimos,Athanasios
+A1 Lalos,Constantinos
+A1 Doulamis,Nikolaos
+A1 Varvarigou,Theodora
+A1 Zelada,Rolando,Palma
+A1 Soler,Ignacio,Jubert
+A1 Stalder,Severin
+A1 Gool,Luc,Van
+A1 Middleton,Lee
+A1 Sabeur,Zoheir
+A1 Arbab-Zavar,Banafshe
+A1 Carter,John
+A1 Nixon,Mark
+YR 2010
+T1 Tools for semi-automatic monitoring of industrial workflows
+SP 81
+OP 86
+
+RT Conference Proceedings
+ID 39261562
+A1 Prasad,Mukta
+A1 Fitzgibbon,Andrew,W.
+A1 Zisserman,Andrew
+A1 Gool,Luc,J.,Van
+YR 2010
+T1 Finding Nemo: Deformable object class modelling using curve matching
+SP 1720
+OP 1727
+
+RT Conference Proceedings
+ID 39258343
+A1 Engels,Chris
+A1 Deschacht,Koen
+A1 Becker,Jan,Hendrik
+A1 Tuytelaars,Tinne
+A1 Moens,Sien
+A1 Gool,Luc,J.,Van
+YR 2010
+T1 Automatic annotation of unique locations from video and text
+SP 1
+OP 11
+
+RT Conference Proceedings
+ID 50919650
+A1 Pellegrini,Stefano
+A1 Ess,Andreas
+A1 Tanaskovic,Marko
+A1 Gool,Luc,Van
+YR 2010
+T1 Wrong turn - No dead end: A stochastic pedestrian motion model
+
+RT Conference Proceedings
+ID 14083205
+A1 Prisacariu,Victor,Adrian
+A1 Timofte,Radu
+A1 Zimmermann,Karel
+A1 Reid,Ian
+A1 Gool,Luc,J.,Van
+YR 2010
+T1 Integrating Object Detection with 3D Tracking Towards a Better Driver Assistance System
+SP 3344
+OP 3347
+
+RT Journal Article
+ID 39312509
+A1 Haegler,Simon
+A1 Wonka,Peter
+A1 Arisona,Stefan,Müller
+A1 Gool,Luc,J.,Van
+A1 Müller,Pascal
+YR 2010
+T1 Grammar-based Encoding of Facades
+JF Computer Graphics Forum
+VO 29
+SP 1479
+OP 1487
+IS 4
+
+RT Journal Article
+ID 39330488
+A1 Fanelli,Gabriele
+A1 Gall,Juergen
+A1 Romsdorfer,Harald
+A1 Weise,Thibaut
+A1 Gool,Luc,J.,Van
+YR 2010
+T1 A 3-D Audio-Visual Corpus of Affective Communication
+JF IEEE Transactions on Multimedia
+VO 12
+SP 591
+OP 598
+IS 6
+
+RT Journal Article
+ID 28112270
+A1 Gool,L.
+A1 Turina,A.
+A1 Tuytelaars,T.
+A1 Wagemans,J.
+YR 2010
+T1 View-dependent features for recognition
+JF Journal of Vision
+VO 1
+SP 412
+OP 412
+IS 3
+
+RT Journal Article
+ID 14001693
+A1 Doulamis,Anastasios,D.
+A1 Gool,Luc,J.,Van
+A1 Nixon,Mark
+A1 Doulamis,Nikolaos,D.
+A1 Varvarigou,Theodora,A.
+YR 2010
+T1 Analysis and retrieval of events/actions and workflows in video streams
+JF Multimedia Tools and Applications
+VO 50
+SP 1
+OP 6
+IS 1
+
+RT Book, Whole
+ID 39256617
+A1 Veres,Galina,V.
+A1 Grabner,Helmut
+A1 Middleton,Lee
+A1 Gool,Luc,J.,Van
+YR 2010
+T1 Automatic Workflow Monitoring in Industrial Environments
+SP 200
+OP 213
+
+RT Conference Proceedings
+ID 39267794
+A1 Zhang,Ke
+A1 Lafruit,Gauthier
+A1 Lauwereins,Rudy
+A1 Gool,Luc,J.,Van
+YR 2010
+T1 Joint integral histograms and its application in stereo matching
+SP 817
+OP 820
+
+RT Book, Whole
+ID 39256469
+A1 Smet,Michael,De
+A1 Gool,Luc,J.,Van
+YR 2010
+T1 Optimal Regions for Linear Model-Based 3D Face Reconstruction
+SP 276
+OP 289
+
+RT Book, Whole
+ID 39256640
+A1 Timofte,Radu
+A1 Gool,Luc,J.,Van
+YR 2010
+T1 Four Color Theorem for Fast Early Vision
+SP 411
+OP 424
+
+RT Journal Article
+ID 39221271
+A1 Knopp,Jan
+A1 Prasad,Mukta
+A1 Gool,Luc,Van
+YR 2010
+T1 Orientation invariant 3D object classification using hough transform based methods
+SP 15
+OP 20
+
+RT Conference Proceedings
+ID 27806107
+A1 Breitenstein,Michael,D.
+A1 Reichlin,Fabian
+A1 Leibe,Bastian
+A1 Koller-Meier,Esther
+A1 Gool,Luc,Van
+YR 2009
+T1 Robust Tracking-by-Detection using a Detector Confidence Particle Filter
+
+RT Conference Proceedings
+ID 5256301
+A1 Pellegrini,Stefano
+A1 Ess,Andreas
+A1 Schindler,Konrad
+A1 Gool,Luc,J.,Van
+YR 2009
+T1 You'll never walk alone: Modeling social behavior for multi-target tracking
+SP 261
+OP 268
+
+RT Journal Article
+ID 6083279
+A1 Ess,Andreas
+A1 Leibe,Bastian
+A1 Schindler,Konrad
+A1 Gool,Luc,J.,Van
+YR 2009
+T1 Robust Multiperson Tracking from a Mobile Platform
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 31
+SP 1831
+OP 1846
+IS 10
+
+RT Conference Proceedings
+ID 13666945
+A1 Weise,Thibaut
+A1 Li,Hao
+A1 Gool,Luc,J.,Van
+A1 Pauly,Mark
+YR 2009
+T1 Face/Off: live facial puppetry
+SP 7
+OP 16
+
+RT Conference Proceedings
+ID 5174939
+A1 Ess,Andreas
+A1 Leibe,Bastian
+A1 Schindler,Konrad
+A1 Gool,Luc,J.,Van
+YR 2009
+T1 Moving obstacle detection in highly dynamic scenes
+SP 56
+OP 63
+
+RT Conference Proceedings
+ID 5238643
+A1 Lehmann,Alain
+A1 Leibe,Bastian
+A1 Gool,Luc,J.,Van
+YR 2009
+T1 Feature-Centric Efficient Subwindow Search
+SP 940
+OP 947
+
+RT Conference Proceedings
+ID 6462390
+A1 Gammeter,Stephan
+A1 Bossard,Lukas
+A1 Quack,Till
+A1 Gool,Luc,J.,Van
+YR 2009
+T1 I know what you did last summer: Object level auto-annotation ofholiday snaps
+SP 614
+OP 621
+
+RT Journal Article
+ID 50808816
+A1 Bellotto,Nicola
+A1 Sommerlade,Eric
+A1 Benfold,Ben
+A1 Bibby,Charles
+A1 Reid,Ian
+A1 Roth,Daniel
+A1 Fernandez,C.
+A1 Gool,L.,Van
+A1 Gonzalez,J.
+YR 2009
+T1 A distributed camera system for multi-resolution surveillance
+
+RT Conference Proceedings
+ID 13559805
+A1 Hamer,Henning
+A1 Schindler,Konrad
+A1 Koller-Meier,Esther
+A1 Gool,Luc,J.,Van
+YR 2009
+T1 Tracking a hand manipulating an object
+SP 1475
+OP 1482
+
+RT Conference Proceedings
+ID 39258475
+A1 Ess,Andreas
+A1 Mueller,Tobias
+A1 Grabner,Helmut
+A1 Gool,Luc,J.,Van
+YR 2009
+T1 Segmentation-Based Urban Traffic Scene Understanding
+
+RT Journal Article
+ID 6076388
+A1 Koller-meier,Esther
+A1 Gool,Luc,J.,Van
+YR 2009
+T1 Real-Time Body Pose Recognition Using 2D or 3D Haarlets
+JF International Journal of Computer Vision
+VO 83
+SP 72
+OP 84
+IS 1
+
+RT Conference Proceedings
+ID 5376142
+A1 Zhu,Jianke
+A1 Gool,Luc,J.,Van
+A1 Hoi,Steven,C.,H.
+YR 2009
+T1 Unsupervised face alignment by robust nonrigid mapping
+SP 1265
+OP 1272
+
+RT Conference Proceedings
+ID 50854876
+A1 Timofte,Radu
+A1 Zimmermann,Karel
+A1 Gool,Luc,Van
+YR 2009
+T1 Multi-view traffic sign detection, recognition, and 3D localisation
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 50854860
+A1 Bergh,M.,Van,den
+A1 Koller-Meier,E.
+A1 Bosche,F.
+A1 Gool,L.,Van
+YR 2009
+T1 Haarlet-based hand gesture recognition for 3D interaction
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 6759456
+A1 Weise,Thibaut
+A1 Wismer,Thomas
+A1 Leibe,Bastian
+A1 Gool,Luc,Van
+YR 2009
+T1 In-hand Scanning with Online Loop Closure
+
+RT Journal Article
+ID 6076391
+A1 Jaeggli,Tobias
+A1 Koller-meier,Esther
+A1 Gool,Luc,J.,Van
+YR 2009
+T1 Learning Generative Models for Multi-Activity Body Pose Estimation
+JF International Journal of Computer Vision
+VO 83
+SP 121
+OP 134
+IS 2
+
+RT Journal Article
+ID 5942420
+A1 Thomas,Alexander
+A1 Ferrari,Vittorio
+A1 Leibe,Bastian
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2009
+T1 Using Multi-view Recognition and Meta-data Annotation to Guide a Robot's Attention
+JF International Journal of Robotic Research
+VO 28
+SP 976
+OP 998
+IS 8
+
+RT Conference Proceedings
+ID 6705457
+A1 Lehmann,Alain
+A1 Leibe,Bastian
+A1 Gool,Luc,J.,Van
+YR 2009
+T1 PRISM: PRincipled Implicit Shape Model
+
+RT Journal Article
+ID 4883651
+A1 Ess,A.
+A1 Schindler,K.
+A1 Gool,L.,van
+YR 2009
+T1 Improved Multi-Person Tracking with Active Occlusion Handling
+
+RT Conference Proceedings
+ID 6030721
+A1 Gool,Luc,J.,Van
+A1 Breitenstein,Michael,D.
+A1 Gammeter,Stephan
+A1 Grabner,Helmut
+A1 Quack,Till
+YR 2009
+T1 Mining from Large Image Sets
+SP 1
+OP 8
+
+RT Journal Article
+ID 5693324
+A1 Thomas,Alexander
+A1 Ferrari,Vittorio
+A1 Leibe,Bastian
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2009
+T1 Shape-from-recognition: Recognition enables meta-data transfer
+JF Computer Vision and Image Understanding
+VO 113
+SP 1222
+OP 1234
+IS 12
+
+RT Conference Proceedings
+ID 6765135
+A1 Shaheen,Mohammed
+A1 Gall,Juergen
+A1 Strzodka,Robert
+A1 Gool,Luc,Van
+A1 Seidel,Hans-Peter
+YR 2009
+T1 A comparison of 3d model-based tracking approaches for human motion capture in uncontrolled environments
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 5655814
+A1 Fanelli,Gabriele
+A1 Gall,Juergen
+A1 Gool,Luc,J.,Van
+YR 2009
+T1 Hough Transform-based Mouth Localization for Audio-visual Speech Recognition
+
+RT Journal Article
+ID 39104597
+A1 Belle,Goedele,Van
+A1 Smet,Michael,De
+A1 Graef,Peter,De
+A1 Gool,Luc,Van
+A1 Verfaillie,Karl
+YR 2009
+T1 Configural and featural processing during face perception: A new stimulus set
+JF Behavior Research Methods
+VO 41
+SP 279
+OP 283
+IS 2
+
+RT Journal Article
+ID 6491950
+A1 Sagawa,Ryusuke
+A1 Akasaka,Kiyotaka
+A1 Yagi,Yasushi
+A1 Hamer,Henning
+A1 Gool,Luc,Van
+YR 2009
+T1 Elastic Convolved ICP for the Registration of Deformable Objects
+
+RT Journal Article
+ID 61401136
+A1 Everingham,Mark
+A1 Gool,Luc,Van
+A1 Williams,Christopher,K.,I.
+A1 Winn,John
+A1 Zisserman,Andrew
+YR 2009
+T1 The Pascal Visual Object Classes (VOC) Challenge
+
+RT Conference Proceedings
+ID 39265994
+A1 Breitenstein,Michael,D.
+A1 Reichlin,Fabian
+A1 Leibe,Bastian
+A1 Koller-Meier,Esther
+A1 Gool,Luc,J.,Van
+YR 2009
+T1 Robust tracking-by-detection using a detector confidence particle filter
+SP 1515
+OP 1522
+
+RT Journal Article
+ID 6678363
+A1 Havlena,Michal
+A1 Ess,Andreas
+A1 Moreau,Wim
+A1 Torii,Akihiko
+A1 Jancosek,Michal
+A1 Pajdla,T.
+A1 Gool,L.,Van
+YR 2009
+T1 AWEAR 2.0 system: Omnidirectional audio-visual data acquisition and processing
+
+RT Journal Article
+ID 14085787
+A1 Savarese,Silvio
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2009
+T1 Special issue on 3D representation for object and scene recognition
+JF Computer Vision and Image Understanding
+VO 113
+SP 1181
+OP 1182
+IS 12
+
+RT Book, Whole
+ID 5168166
+A1 Breitenstein,Michael,D.
+A1 Jensen,J.
+A1 Høilund,C.
+A1 Moeslund,Thomas,B.
+A1 Gool,Luc,J.,Van
+YR 2009
+T1 Head Pose Estimation from Passive Stereo Images
+SP 219
+OP 228
+
+RT Journal Article
+ID 13312776
+A1 Moons,Theo
+A1 Gool,Luc,J.,Van
+A1 Vergauwen,Maarten
+YR 2009
+T1 3D Reconstruction from Multiple Images: Part 1 - Principles
+JF Foundations and Trends in Computer Graphics and Vision
+VO 4
+SP 287
+OP 404
+IS 4
+
+RT Conference Proceedings
+ID 13298267
+A1 Zhang,Ke
+A1 Lu,Jiangbo
+A1 Lafruit,Gauthier
+A1 Lauwereins,Rudy
+A1 Gool,Luc,J.,Van
+YR 2009
+T1 Accurate and efficient stereo matching with robust piecewise voting
+SP 93
+OP 96
+
+RT Conference Proceedings
+ID 13290289
+A1 Zhang,Ke
+A1 Lu,Jiangbo
+A1 Lafruit,Gauthier
+A1 Lauwereins,Rudy
+A1 Gool,Luc,J.,Van
+YR 2009
+T1 Robust stereo matching with fast Normalized Cross-Correlation over shape-adaptive regions
+SP 2357
+OP 2360
+
+RT Journal Article
+ID 27491062
+A1 Charvillat,Vincent
+A1 Tonazzini,Anna
+A1 Gool,Luc,J.,Van
+A1 Nikolaidis,Nikos
+YR 2009
+T1 Image and Video Processing for Cultural Heritage
+JF Eurasip Journal on Image and Video Processing
+VO 2009
+SP 1
+OP 4
+
+RT Journal Article
+ID 27491080
+A1 Haegler,Simon
+A1 Müller,Pascal
+A1 Gool,Luc,J.,Van
+YR 2009
+T1 Procedural Modeling for Digital Cultural Heritage
+JF Eurasip Journal on Image and Video Processing
+VO 2009
+SP 1
+OP 12
+
+RT Journal Article
+ID 4375023
+A1 Bay,Herbert
+A1 Ess,Andreas
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2008
+T1 Speeded-Up Robust Features (SURF)
+JF Computer Vision and Image Understanding
+VO 110
+SP 346
+OP 359
+IS 3
+
+RT Conference Proceedings
+ID 4703475
+A1 Quack,Till
+A1 Leibe,Bastian
+A1 Gool,Luc,J.,Van
+YR 2008
+T1 World-scale mining of objects and events from community photo collections
+SP 47
+OP 56
+
+RT Conference Proceedings
+ID 4704749
+A1 Schindler,Konrad
+A1 Gool,Luc,J.,Van
+YR 2008
+T1 Action snippets: How many frames does human action recognition require?
+SP 1
+OP 8
+
+RT Journal Article
+ID 4529548
+A1 Leibe,Bastian
+A1 Schindler,Konrad
+A1 Cornelis,Nico
+A1 Gool,Luc,J.,Van
+YR 2008
+T1 Coupled Object Detection and Tracking from Static Cameras and Moving Vehicles
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 30
+SP 1683
+OP 1698
+IS 10
+
+RT Journal Article
+ID 4389472
+A1 Cornelis,Nico
+A1 Leibe,Bastian
+A1 Cornelis,Kurt
+A1 Gool,Luc,J.,Van
+YR 2008
+T1 3D Urban Scene Modeling Integrating Recognition and Reconstruction
+JF International Journal of Computer Vision
+VO 78
+SP 121
+OP 141
+IS 2-3
+
+RT Book, Whole
+ID 4253773
+A1 Willems,Geert
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2008
+T1 An Efficient Dense and Scale-Invariant Spatio-Temporal Interest Point Detector
+SP 650
+OP 663
+
+RT Conference Proceedings
+ID 4704750
+A1 Ess,Andreas
+A1 Leibe,Bastian
+A1 Schindler,Konrad
+A1 Gool,Luc,J.,Van
+YR 2008
+T1 A mobile vision system for robust multi-person tracking
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 4704811
+A1 Strecha,Christoph
+A1 Hansen,Wolfgang,Von
+A1 Gool,Luc,J.,Van
+A1 Fua,Pascal
+A1 Thoennessen,Ulrich
+YR 2008
+T1 On benchmarking camera calibration and multi-view stereo for high resolution imagery
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 5946044
+A1 Cornelis,Nico
+A1 Gool,Luc,Van
+YR 2008
+T1 Fast scale invariant feature detection and matching on programmable graphics hardware
+
+RT Conference Proceedings
+ID 4704926
+A1 Breitenstein,Michael,D.
+A1 Kuettel,Daniel
+A1 Weise,Thibaut
+A1 Gool,Luc,J.,Van
+A1 Pfister,Hanspeter
+YR 2008
+T1 Real-time face pose estimation from single range images
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 4704605
+A1 Cui,Jingyu
+A1 Yang,Qiong
+A1 Wen,Fang
+A1 Wu,Qiying
+A1 Zhang,Changshui
+A1 Gool,Luc,J.,Van
+A1 Tang,Xiaoou
+YR 2008
+T1 Transductive object cutout
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 4301537
+A1 Willems,Geert
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2008
+T1 Spatio-temporal features for robust content-based video copy detection
+SP 283
+OP 290
+
+RT Journal Article
+ID 4767995
+A1 Schindler,Konrad
+A1 Gool,Luc,J.,Van
+A1 Gelder,Béatrice,De
+YR 2008
+T1 Recognizing emotions expressed by body pose: A biologically inspired neural model
+JF Neural Networks
+VO 21
+SP 1238
+OP 1246
+IS 9
+
+RT Book, Whole
+ID 4344551
+A1 Quack,Till
+A1 Bay,Herbert
+A1 Gool,Luc,J.,Van
+YR 2008
+T1 Object Recognition for the Internet of Things
+SP 230
+OP 246
+
+RT Book, Whole
+ID 4253758
+A1 Gammeter,Stephan
+A1 Ess,Andreas
+A1 Jaeggli,Tobias
+A1 Schindler,Konrad
+A1 Leibe,Bastian
+A1 Gool,Luc,J.,Van
+YR 2008
+T1 Articulated Multi-body Tracking under Egomotion
+SP 816
+OP 830
+
+RT Conference Proceedings
+ID 50656134
+A1 Bergh,Michael,Van,den
+A1 Koller-Meier,Esther
+A1 Gool,Luc,Van
+YR 2008
+T1 Fast Body Posture Estimation using Volumetric Features
+
+RT Conference Proceedings
+ID 5141014
+A1 Roth,D.
+A1 Koller-Meier,E.
+A1 Rowe,D.
+A1 Moeslund,T.,B.
+A1 Gool,L.,Van
+YR 2008
+T1 Event-Based Tracking Evaluation Metric
+
+RT Conference Proceedings
+ID 6023802
+A1 Zehnder,Philipp
+A1 Koller-Meier,Esther
+A1 Gool,Luc,J.,Van
+YR 2008
+T1 An Efficient Shared Multi-Class Detection Cascade
+
+RT Conference Proceedings
+ID 5322583
+A1 Breitenstein,Michael,D.
+A1 Sommerlade,Eric
+A1 Leibe,Bastian
+A1 Gool,Luc,J.,Van
+A1 Reid,Ian
+YR 2008
+T1 Probabilistic Parameter Selection for Learning Scene Structure from Video
+
+RT Journal Article
+ID 19289494
+A1 Vargas,Javier
+A1 Koninckx,Thomas
+A1 Quiroga,Juan,Antonio
+A1 Gool,Luc,Van
+YR 2008
+T1 Three-dimensional measurement of microchips using structured light techniques
+JF Optical Engineering
+VO 47
+SP 53602
+IS 5
+
+RT Conference Proceedings
+ID 4704734
+A1 Weise,Thibaut
+A1 Leibe,Bastian
+A1 Gool,Luc,J.,Van
+YR 2008
+T1 Accurate and robust registration for in-hand modeling
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 4704642
+A1 Verbiest,Frank
+A1 Gool,Luc,J.,Van
+YR 2008
+T1 Photometric stereo with coherent outlier handling and confidence estimation
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 4302457
+A1 Roth,Daniel
+A1 Koller-meier,Esther
+A1 Gool,Luc,J.,Van
+YR 2008
+T1 Multi-object tracking driven event detection for evaluation
+SP 17
+OP 24
+
+RT Journal Article
+ID 4397171
+A1 Spindler,Torsten
+A1 Wartmann,Christoph
+A1 Hovestadt,Ludger
+A1 Roth,Daniel
+A1 Gool,Luc,J.,Van
+A1 Steffen,Andreas
+YR 2008
+T1 Privacy in video surveilled spaces
+JF Journal of Computer Security
+VO 16
+SP 199
+OP 222
+IS 2
+
+RT Book, Whole
+ID 4248530
+A1 Schindler,Konrad
+A1 Gool,Luc,J.,Van
+YR 2008
+T1 Combining Densely Sampled Form and Motion for Human Action Recognition
+SP 122
+OP 131
+
+RT Conference Proceedings
+ID 4704777
+A1 Zeng,Gang
+A1 Gool,Luc,J.,Van
+YR 2008
+T1 Multi-label image segmentation via point-wise repetition
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 4940413
+A1 Ess,Andreas
+A1 Schindler,Konrad
+A1 Leibe,Bastian
+A1 Gool,Luc,van
+YR 2008
+T1 Robust Multi-Person Tracking from Moving Platforms
+
+RT Conference Proceedings
+ID 5909685
+A1 Thomas,Alexander
+A1 Ferrari,Vittorio
+A1 Leibe,Bastian
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,Van
+YR 2008
+T1 Using Recognition to Guide a Robot's Attention
+
+RT Conference Proceedings
+ID 4278210
+A1 Anemüller,Jörn
+A1 Bach,Jörg-hendrik
+A1 Caputo,Barbara
+A1 Havlena,Michal
+A1 Luo,Jie
+A1 Kayser,Hendrik
+A1 Leibe,Bastian
+A1 Motlícek,Petr
+A1 Pajdla,Tomás
+A1 Pavel,Misha
+A1 Torii,Akihiko
+A1 Gool,Luc,J.,Van
+A1 Zweig,Alon
+A1 Hermansky,Hynek
+YR 2008
+T1 The DIRAC AWEAR audio-visual platform for detection of unexpected and incongruent events
+SP 289
+OP 292
+
+RT Conference Proceedings
+ID 13293699
+A1 Doulamis,Anastasios,D.
+A1 Gool,Luc,J.,Van
+A1 Nixon,Mark
+A1 Varvarigou,Theodora,A.
+A1 Doulamis,Nikolaos,D.
+A1 Sardis,Manolis
+YR 2008
+T1 Proceedings of the 1st ACM Workshop on Analysis and Retrieval of Events/Actions and Workflows in Video Streams, AREA 2008, Vancouver, British Columbia, Canada, October 31, 2008
+
+RT Journal Article
+ID 6669788
+A1 Weise,Thibaut
+A1 Breitenstein,Michael,D.
+A1 Kuettel,Daniel
+A1 Leibe,Bastian
+A1 Gool,Luc,Van
+A1 Pfister,Hanspeter
+YR 2008
+T1 Real-time 3D Scanning and its Applications: In-hand Modeling and Face Pose Estimation
+
+RT Conference Proceedings
+ID 4302295
+A1 Doulamis,Anastasios,D.
+A1 Gool,Luc,J.,Van
+A1 Nixon,Mark
+A1 Varvarigou,Theodora,A.
+A1 Doulamis,Nikolaos,D.
+YR 2008
+T1 First ACM international workshop on analysis and retrieval of events, actions and workflows in video streams
+SP 1147
+OP 1148
+
+RT Journal Article
+ID 52702170
+A1 Vargas,Javier
+A1 Koninckx,Thomas
+A1 Quiroga,Juan,Antonio
+A1 Gool,Luc,Van
+YR 2008
+T1 Three-dimensional measurement of microchips using structured light techniques
+JF Optical Engineering
+VO 47
+SP 3602
+
+RT Journal Article
+ID 4140072
+A1 Müller,Pascal
+A1 Zeng,Gang
+A1 Wonka,Peter
+A1 Gool,Luc,J.,Van
+YR 2007
+T1 Image-based procedural modeling of facades
+JF ACM Transactions on Graphics
+VO 26
+SP 85
+IS 3
+
+RT Conference Proceedings
+ID 4248089
+A1 Leibe,Bastian
+A1 Cornelis,Nico
+A1 Cornelis,Kurt
+A1 Gool,Luc,J.,Van
+YR 2007
+T1 Dynamic 3D Scene Analysis from a Moving Vehicle
+
+RT Conference Proceedings
+ID 4271269
+A1 Leibe,Bastian
+A1 Schindler,Konrad
+A1 Gool,Luc,J.,Van
+YR 2007
+T1 Coupled Detection and Trajectory Estimation for Multi-Object Tracking
+SP 1
+OP 8
+
+RT Journal Article
+ID 4389418
+A1 Goedemé,Toon
+A1 Nuttin,Marnix
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2007
+T1 Omnidirectional Vision Based Topological Navigation
+JF International Journal of Computer Vision
+VO 74
+SP 219
+OP 236
+IS 3
+
+RT Conference Proceedings
+ID 4271239
+A1 Quack,Till
+A1 Ferrari,Vittorio
+A1 Leibe,Bastian
+A1 Gool,Luc,J.,Van
+YR 2007
+T1 Efficient Mining of Frequent and Distinctive Feature Configurations
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 4247854
+A1 Weise,Thibaut
+A1 Leibe,Bastian
+A1 Gool,Luc,J.,Van
+YR 2007
+T1 Fast 3D Scanning with Automatic Motion Compensation
+
+RT Conference Proceedings
+ID 4271459
+A1 Ess,Andreas
+A1 Leibe,Bastian
+A1 Gool,Luc,J.,Van
+YR 2007
+T1 Depth and Appearance for Mobile Scene Analysis
+SP 1
+OP 8
+
+RT Journal Article
+ID 4374895
+A1 Bray,Matthieu
+A1 Koller-meier,Esther
+A1 Gool,Luc,J.,Van
+YR 2007
+T1 Smart particle filtering for high-dimensional tracking
+JF Computer Vision and Image Understanding
+VO 106
+SP 116
+OP 129
+IS 1
+
+RT Journal Article
+ID 2505504
+A1 Bray,Matthieu
+A1 Koller-meier,Esther
+A1 Schraudolph,Nicol,N.
+A1 Gool,Luc,J.,Van
+YR 2007
+T1 Fast stochastic optimization for articulated structure tracking
+JF Image and Vision Computing
+VO 25
+SP 352
+OP 364
+IS 3
+
+RT Journal Article
+ID 4405900
+A1 Murillo,A.,C.
+A1 Sagüés,Carlos
+A1 Guerrero,José,Jesús
+A1 Goedemé,Toon
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2007
+T1 From omnidirectional images to hierarchical localization
+JF Robotics and Autonomous Systems
+VO 55
+SP 372
+OP 382
+IS 5
+
+RT Journal Article
+ID 39279689
+A1 Maïm,Jonathan
+A1 Haegler,Simon
+A1 Yersin,Barbara
+A1 Müller,Pascal
+A1 Thalmann,Daniel
+A1 Gool,Luc,J.,Van
+YR 2007
+T1 Populating Ancient Pompeii with Crowds of Virtual Romans
+SP 109
+OP 116
+
+RT Journal Article
+ID 4394546
+A1 Geys,Indra
+A1 Gool,Luc,J.,Van
+YR 2007
+T1 View synthesis by the parallel use of GPU and CPU
+JF Image and Vision Computing
+VO 25
+SP 1154
+OP 1164
+IS 7
+
+RT Journal Article
+ID 4374898
+A1 Fransens,Rik
+A1 Strecha,Christoph
+A1 Gool,Luc,J.,Van
+YR 2007
+T1 Optical flow based super-resolution: A probabilistic approach
+JF Computer Vision and Image Understanding
+VO 106
+SP 106
+OP 115
+IS 1
+
+RT Conference Proceedings
+ID 4271228
+A1 Ozden,Kemal,Egemen
+A1 Schindler,Konrad
+A1 Gool,Luc,J.,Van
+YR 2007
+T1 Simultaneous Segmentation and 3D Reconstruction of Monocular Image Sequences
+SP 1
+OP 8
+
+RT Book, Whole
+ID 4266739
+A1 Jaeggli,Tobias
+A1 Koller-meier,Esther
+A1 Gool,Luc,J.,Van
+YR 2007
+T1 Multi-activity Tracking in LLE Body Pose Space
+SP 42
+OP 57
+
+RT Conference Proceedings
+ID 6026377
+A1 Gool,Luc,J.,Van
+A1 Leibe,Bastian
+A1 Müller,Pascal
+A1 Vergauwen,Maarten
+A1 Weise,Thibaut
+YR 2007
+T1 3D Challenges and a Non-In-Depth Overview of Recent Progress
+SP 118
+OP 132
+
+RT Book, Whole
+ID 4230536
+A1 Jaeggli,Tobias
+A1 Koller-meier,Esther
+A1 Gool,Luc,J.,Van
+YR 2007
+T1 Learning Generative Models for Monocular Body Pose Estimation
+SP 608
+OP 617
+
+RT Conference Proceedings
+ID 4672501
+A1 Ess,Andreas
+A1 Neubeck,Alexander
+A1 Gool,Luc,J.,Van
+YR 2007
+T1 Generalised Linear Pose Estimation
+
+RT Conference Proceedings
+ID 4271379
+A1 Thomas,Alexander
+A1 Ferrari,Vittorio
+A1 Leibe,Bastian
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2007
+T1 Depth-From-Recognition: Inferring Meta-data by Cognitive Feedback
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 39243004
+A1 Müller,Pascal
+A1 Zeng,Gang
+A1 Wonka,Peter
+A1 Gool,Luc,Van
+YR 2007
+T1 Image-based procedural modeling of facades
+SP 85
+
+RT Book, Whole
+ID 2427347
+A1 Bay,Herbert
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 SURF: Speeded-Up Robust Features
+SP 404
+OP 417
+
+RT Journal Article
+ID 2175112
+A1 Müller,Pascal
+A1 Wonka,Peter
+A1 Haegler,Simon
+A1 Ulmer,Andreas
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 Procedural modeling of buildings
+JF ACM Transactions on Graphics
+VO 25
+SP 614
+OP 623
+IS 3
+
+RT Book, Whole
+ID 2376794
+A1 Ferrari,Vittorio
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 Object Detection by Contour Segment Networks
+SP 14
+OP 28
+
+RT Journal Article
+ID 2503335
+A1 Ferrari,Vittorio
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 Simultaneous Object Recognition and Segmentation from Single or Multiple Model Views
+JF International Journal of Computer Vision
+VO 67
+SP 159
+OP 188
+IS 2
+
+RT Conference Proceedings
+ID 2167334
+A1 Strecha,Christoph
+A1 Fransens,Rik
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 Combined Depth and Outlier Estimation in Multi-View Stereo
+VO 2
+SP 2394
+OP 2401
+
+RT Conference Proceedings
+ID 2167406
+A1 Thomas,Alexander
+A1 Ferrari,Vittorio
+A1 Leibe,Bastian
+A1 Tuytelaars,Tinne
+A1 Schiele,Bernt
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 Towards Multi-View Object Class Detection
+VO 2
+SP 1589
+OP 1596
+
+RT Journal Article
+ID 2510621
+A1 Vergauwen,Maarten
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 Web-based 3D Reconstruction Service
+JF Machine Vision and Applications
+VO 17
+SP 411
+OP 426
+IS 6
+
+RT Conference Proceedings
+ID 2167282
+A1 Cornelis,Nico
+A1 Cornelis,Kurt
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 Fast Compact City Modeling for Navigation Pre-Visualization
+VO 2
+SP 1339
+OP 1344
+
+RT Conference Proceedings
+ID 4116670
+A1 Everingham,M.
+A1 Zisserman,A.
+A1 Williams,C.
+A1 Gool,L.,V.
+YR 2006
+T1 The pascal visual object classes challenge 2006 results
+
+RT Journal Article
+ID 2177534
+A1 Koninckx,Thomas,P.
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 Real-Time Range Acquisition by Adaptive Structured Light
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 28
+SP 432
+OP 445
+IS 3
+
+RT Journal Article
+ID 4374894
+A1 Kehl,Roland
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 Markerless tracking of complex human motions from multiple views
+JF Computer Vision and Image Understanding
+VO 104
+SP 190
+OP 209
+IS 2-3
+
+RT Book, Whole
+ID 2166466
+A1 Quack,Till
+A1 Ferrari,Vittorio
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 Video Mining with Frequent Itemset Configurations
+SP 360
+OP 369
+
+RT Conference Proceedings
+ID 2442817
+A1 Neubeck,Alexander
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 Efficient Non-Maximum Suppression
+VO 3
+SP 850
+OP 855
+
+RT Book, Whole
+ID 2463179
+A1 Cattin,Philippe,C.
+A1 Bay,Herbert
+A1 Gool,Luc,J.,Van
+A1 Székely,Gábor
+YR 2006
+T1 Retina Mosaicing Using Local Features
+SP 185
+OP 192
+
+RT Conference Proceedings
+ID 2167353
+A1 Smet,Michael,De
+A1 Fransens,Rik
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 A Generalized EM Approach for 3D Model Based Face Recognition under Occlusions
+VO 2
+SP 1423
+OP 1430
+
+RT Conference Proceedings
+ID 2412754
+A1 Cornelis,Nico
+A1 Leibe,Bastian
+A1 Cornelis,Kurt
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 3D City Modeling Using Cognitive Loops
+SP 9
+OP 16
+
+RT Conference Proceedings
+ID 4281122
+A1 Sagüés,Carlos
+A1 Murillo,A.,C.
+A1 Guerrero,José,Jesús
+A1 Goedemé,Toon
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 Localization with Omnidirectional Images using the Radial Trifocal Tensor
+SP 551
+OP 556
+
+RT Book, Whole
+ID 2438523
+A1 Goedemé,Toon
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 Visual topological map building in self-similar environments
+SP 3
+OP 9
+
+RT Book, Whole
+ID 2425156
+A1 Leibe,Bastian
+A1 Cornelis,Nico
+A1 Cornelis,Kurt
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 Integrating Recognition and Reconstruction for Cognitive Traffic Scene Analysis from a Moving Vehicle
+SP 192
+OP 201
+
+RT Book, Whole
+ID 2165806
+A1 Jaeggli,Tobias
+A1 Koller-meier,Esther
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 Monocular Tracking with a Mixture of View-Dependent Learned Models
+SP 494
+OP 503
+
+RT Conference Proceedings
+ID 4921342
+A1 Fransens,R.
+A1 Strecha,C.
+A1 Gool,L.,Van
+YR 2006
+T1 Robust Estimation in the Presence of Spatially Coherent Outliers
+
+RT Book, Whole
+ID 4233793
+A1 Fasel,Beat
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 Interactive Museum Guide: Accurate Retrieval of Object Descriptions
+SP 179
+OP 191
+
+RT Journal Article
+ID 4510248
+A1 Müller,Pascal
+A1 Vereenooghe,Tijl
+A1 Wonka,Peter
+A1 Paap,Iken
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 Procedural 3D Reconstruction of Puuc Buildings in Xkipché
+SP 139
+OP 146
+
+RT Conference Proceedings
+ID 2167212
+A1 Fransens,Rik
+A1 Strecha,Christoph
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 A Mean Field EM-algorithm for Coherent Occlusion Handling in MAP-Estimation Prob
+VO 1
+SP 300
+OP 307
+
+RT Book, Whole
+ID 2483814
+A1 Ferrari,Vittorio
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 Simultaneous Object Recognition and Segmentation by Image Exploration
+SP 145
+OP 169
+
+RT Journal Article
+ID 2912508
+A1 Georgantopoulos,B.
+A1 Goedeme,T.
+A1 Lounis,S.
+A1 Papageorgiou,H.
+A1 Tuytelaars,T.
+A1 Gool,L.,Van
+YR 2006
+T1 Cross-media summarization in a retrieval setting
+
+RT Conference Proceedings
+ID 50485537
+A1 Griesser,Andreas
+A1 Gool,Luc,Van
+YR 2006
+T1 Automatic Interactive Calibration of Multi-Projector-Camera Systems
+
+RT Journal Article
+ID 4116671
+A1 Everingham,M.
+A1 Zisserman,A.
+A1 Williams,C.
+A1 Gool,L.,V.
+YR 2006
+T1 The Pascal VOC2006 results
+
+RT Conference Proceedings
+ID 2412746
+A1 Bay,Herbert
+A1 Ess,Andreas
+A1 Neubeck,Alexander
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 3D from Line Segments in Two Poorly-Textured, Uncalibrated Images
+SP 496
+OP 503
+
+RT Conference Proceedings
+ID 2442918
+A1 Roeck,Stefaan,De
+A1 Cornelis,Nico
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 Augmenting fast stereo with silhouette constraints for dynamic 3D capture
+VO 1
+SP 131
+OP 134
+
+RT Journal Article
+ID 19835294
+A1 Verbiest,F.
+A1 Willems,G.
+A1 Gool,L.,Van
+YR 2006
+T1 Image-based rendering for photo-realistic visualization
+JF Virtual and Physical Prototyping
+VO 1
+SP 19
+OP 30
+IS 1
+
+RT Conference Proceedings
+ID 2438539
+A1 Millnert,Ola
+A1 Goedemé,Toon
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+A1 Hüntemann,Alexander
+A1 Nuttin,Marnix
+YR 2006
+T1 Range determination for mobile robots using one omnidirectional camera
+SP 366
+OP 371
+
+RT Journal Article
+ID 2510640
+A1 Gool,Luc,J.,Van
+A1 Sablatnig,Robert
+YR 2006
+T1 Special issue on 3D acquisition technology for cultural heritage
+JF Machine Vision and Applications
+VO 17
+SP 347
+OP 348
+IS 6
+
+RT Conference Proceedings
+ID 2412718
+A1 Neubeck,Alexander
+A1 Zalesny,Alexey
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 Light Source Calibration for IBR and BTF Acquisition Setups
+SP 272
+OP 278
+
+RT Conference Proceedings
+ID 2443254
+A1 Zehnder,Philipp
+A1 Koller-meier,Esther
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 Efficient, Simultaneous Detection of Multiple Object Classes
+VO 1
+SP 797
+OP 802
+
+RT Conference Proceedings
+ID 4728754
+A1 Spindler,Torsten
+A1 Wartmann,Christoph
+A1 Hovestadt,Ludger
+A1 Roth,Daniel
+A1 Gool,Luc,J.,Van
+A1 Steffen,Andreas
+YR 2006
+T1 Privacy in video surveilled areas
+SP 29
+OP 10
+
+RT Book, Whole
+ID 2425129
+A1 Cornelis,Kurt
+A1 Cornelis,Nico
+A1 Aerts,Maarten
+A1 Ozden,Kemal,Egemen
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 Online Calibration of Two Zoom-Pan-Tilt Units for Planar Dynamic Events
+SP 698
+OP 707
+
+RT Journal Article
+ID 4667280
+A1 Murillo,A.,C.
+A1 Sagues,C.
+A1 Guerrero,J.,J.
+A1 Goedeme,T.
+A1 Tuytelaars,T.
+A1 Gool,L.,Van
+YR 2006
+T1 From Omnidirectional Images to Hierarchical
+
+RT Book, Whole
+ID 2427479
+A1 Ozden,Kemal,Egemen
+A1 Cornelis,Kurt
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 Space-Time-Scale Registration of Dynamic Scene Reconstructions
+SP 173
+OP 185
+
+RT Journal Article
+ID 39242363
+A1 Müller,Pascal
+A1 Wonka,Peter
+A1 Haegler,Simon
+A1 Ulmer,Andreas
+A1 Gool,Luc,Van
+YR 2006
+T1 Procedural modeling of buildings
+SP 614
+OP 623
+
+RT Conference Proceedings
+ID 2412660
+A1 Griesser,Andreas
+A1 Cornelis,Nico
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 Towards On-Line Digital Doubles
+SP 1002
+OP 1009
+
+RT Journal Article
+ID 5581687
+A1 Tessens,Linda
+A1 Kehl,Roland
+A1 Pi,Aleksandra
+A1 Gool,Luc,Van
+A1 Philips,Wilfried
+YR 2006
+T1 A REAL-TIME OPTICAL HEAD TRACKER BASED ON 3D PREDICTION AND CORRECTION
+
+RT Journal Article
+ID 26539466
+A1 Geys,Indra
+A1 Gool,Luc,J.,Van
+YR 2006
+T1 On-line, interactive view synthesis and augmentation
+JF Signal Processing-image Communication
+VO 21
+SP 709
+OP 723
+IS 9
+
+RT Journal Article
+ID 2386436
+A1 Mikolajczyk,Krystian
+A1 Tuytelaars,Tinne
+A1 Schmid,Cordelia
+A1 Zisserman,Andrew
+A1 Matas,Jiri
+A1 Schaffalitzky,Frederik
+A1 Kadir,Timor
+A1 Gool,Luc,J.,Van
+A1 Matas,J.
+YR 2005
+T1 A Comparison of Affine Region Detectors
+JF International Journal of Computer Vision
+VO 65
+SP 43
+OP 72
+IS 1-2
+
+RT Conference Proceedings
+ID 1796690
+A1 Quelhas,Pedro
+A1 Monay,Florent
+A1 Odobez,Jean-marc
+A1 Gatica-perez,Daniel
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2005
+T1 Modeling Scenes with Local Descriptors and Latent Aspects
+VO 1
+SP 883
+OP 890
+
+RT Book, Whole
+ID 1907082
+A1 Everingham,Mark
+A1 Zisserman,Andrew
+A1 Williams,Christopher,K.,I.
+A1 Gool,Luc,J.,Van
+A1 Allan,Moray
+A1 Bishop,Christopher,M.
+A1 Chapelle,Olivier
+A1 Dalal,Navneet
+A1 Deselaers,Thomas
+A1 Dorkó,Gyuri
+A1 Duffner,Stefan
+A1 Eichhorn,Jan
+A1 Farquhar,Jason,D.,R.
+A1 Fritz,Mario
+A1 Garcia,Christophe
+A1 Griffiths,Tom
+A1 Jurie,Frédéric
+A1 Keysers,Daniel
+A1 Koskela,Markus
+A1 Laaksonen,Jorma
+A1 Larlus,Diane
+A1 Meng,Hongying
+A1 Ney,Hermann
+A1 Schiele,Bernt
+A1 Schmid,Cordelia
+A1 Seemann,Edgar
+A1 Shawe-taylor,John
+A1 Storkey,Amos,J.
+A1 Szedmák,Sándor
+A1 Triggs,Bill
+A1 Ulusoy,Ilkay
+A1 Viitaniemi,Ville
+A1 Zhang,Jianguo
+YR 2005
+T1 The 2005 PASCAL Visual Object Classes Challenge
+SP 117
+OP 176
+
+RT Conference Proceedings
+ID 1788906
+A1 Kehl,Roland
+A1 Bray,Matthieu
+A1 Gool,Luc,J.,Van
+YR 2005
+T1 Full Body Tracking from Multiple Views Using Stochastic Sampling
+VO 2
+SP 129
+OP 136
+
+RT Conference Proceedings
+ID 1788807
+A1 Bay,Herbert
+A1 Ferrari,Vittorio
+A1 Gool,Luc,J.,Van
+YR 2005
+T1 Wide-Baseline Stereo Matching with Line Segments
+VO 1
+SP 329
+OP 336
+
+RT Conference Proceedings
+ID 1788797
+A1 Cornelis,Nico
+A1 Gool,Luc,J.,Van
+YR 2005
+T1 Real-Time Connectivity Constrained Depth Map Computation Using Programmable Graphics Hardware
+VO 1
+SP 1099
+OP 1104
+
+RT Conference Proceedings
+ID 5586244
+A1 Goedeme,Toon
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,Van
+A1 Vanacker,Gerolf
+A1 Nuttin,Marnix
+YR 2005
+T1 Feature based omnidirectional sparse visual path following
+
+RT Conference Proceedings
+ID 1789063
+A1 Koninckx,Thomas,P.
+A1 Peers,Pieter
+A1 Dutré,Philip
+A1 Gool,Luc,J.,Van
+YR 2005
+T1 Scene-Adapted Structured Light
+VO 2
+SP 611
+OP 618
+
+RT Conference Proceedings
+ID 1890211
+A1 Roth,Daniel
+A1 Doubek,Petr
+A1 Gool,Luc,J.,Van
+YR 2005
+T1 Bayesian Pixel Classification for Human Tracking
+SP 78
+OP 83
+
+RT Journal Article
+ID 1714739
+A1 Zalesny,Alexey
+A1 Ferrari,Vittorio
+A1 Caenen,Geert
+A1 Gool,Luc,J.,Van
+YR 2005
+T1 Composite Texture Synthesis
+JF International Journal of Computer Vision
+VO 62
+SP 161
+OP 176
+IS 1-2
+
+RT Journal Article
+ID 4512648
+A1 Muller,Pascal
+A1 Kalberer,Gregor,A.
+A1 Proesmans,Marc
+A1 Gool,Luc,Van
+YR 2005
+T1 Realistic speech animation based on observed 3-D face dynamics
+JF Iee Proceedings-vision Image and Signal Processing
+VO 152
+SP 491
+IS 4
+
+RT Conference Proceedings
+ID 1890226
+A1 Jaeggli,Tobias
+A1 Caenen,Geert
+A1 Fransens,Rik
+A1 Gool,Luc,J.,Van
+YR 2005
+T1 Analysis of Human Locomotion based on Partial Measurements
+SP 248
+OP 253
+
+RT Book, Whole
+ID 1783978
+A1 Fransens,Rik
+A1 Strecha,Christoph
+A1 Gool,Luc,J.,Van
+YR 2005
+T1 Parametric Stereo for Multi-pose Face Recognition and 3D-Face Modeling
+SP 109
+OP 124
+
+RT Journal Article
+ID 4555026
+A1 Bray,M.
+A1 Koller-Meier,E.
+A1 Muller,P.
+A1 Schraudolph,N.,N.
+A1 Gool,L.,Van
+YR 2005
+T1 Stochastic optimisation for high-dimensional tracking in dense range maps
+JF Iee Proceedings-vision Image and Signal Processing
+VO 152
+SP 501
+IS 4
+
+RT Journal Article
+ID 3078675
+A1 Geys,Indra
+A1 Gool,L.,Van
+YR 2005
+T1 Extended view interpolation by parallel use of the GPU and the CPU
+
+RT Conference Proceedings
+ID 1872742
+A1 Willems,Geert
+A1 Verbiest,Frank
+A1 Vergauwen,Maarten
+A1 Gool,Luc,J.,Van
+YR 2005
+T1 Real-Time Image Based Rendering from Uncalibrated Images
+SP 221
+OP 228
+
+RT Journal Article
+ID 3359169
+A1 Kehl,R.
+A1 Bray,M.
+A1 Gool,L.,V.
+YR 2005
+T1 Markerless full body tracking by integrating multiple cues
+
+RT Conference Proceedings
+ID 5800360
+A1 Goedeme,Toon
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,Van
+A1 Vanhooydonck,Dirk
+A1 Demeester,Eric
+A1 Nuttin,Marnix
+YR 2005
+T1 Is structure needed for omnidirectional visual homing?
+
+RT Book, Whole
+ID 1796538
+A1 Bergh,Michael,Van,Den
+A1 Servaes,Ward
+A1 Caenen,Geert
+A1 Roeck,Stefaan,De
+A1 Gool,Luc,J.,Van
+YR 2005
+T1 Perceptive User Interface, a Generic Approach
+SP 60
+OP 69
+
+RT Conference Proceedings
+ID 1788753
+A1 Ozden,Kemal,Egemen
+A1 Gool,Luc,J.,Van
+YR 2005
+T1 Background Recognition in Dynamic Scenes with Motion Constraints
+VO 1
+SP 250
+OP 255
+
+RT Conference Proceedings
+ID 1872758
+A1 Geys,Indra
+A1 Gool,Luc,J.,Van
+YR 2005
+T1 Hierarchical Coarse to Fine Depth Estimation for Realistic View Interpolation
+SP 237
+OP 244
+
+RT Conference Proceedings
+ID 1872750
+A1 Claes,P.
+A1 Vandermeulen,Dirk
+A1 Gool,Luc,J.,Van
+A1 Suetens,Paul
+YR 2005
+T1 Partial Surface Integration Based on Variational Implicit Functions and Surfaces for 3D Model Building
+SP 31
+OP 38
+
+RT Journal Article
+ID 15271221
+A1 Zalesny,A.
+A1 Ferrari,V.
+A1 Caenen,G.
+A1 Gool,L.,Van
+YR 2005
+T1 Composite Texture Synthesis
+JF International Journal of Computer Vision
+VO 62
+SP 161
+OP 176
+IS 1
+
+RT Journal Article
+ID 1714718
+A1 Chantler,Mike,J.
+A1 Gool,Luc,J.,Van
+YR 2005
+T1 Editorial: Special Issue on "Texture Analysis and Synthesi
+JF International Journal of Computer Vision
+VO 62
+SP 5
+OP 5
+IS 1-2
+
+RT Journal Article
+ID 15271225
+A1 Chantler,Mike
+A1 Gool,Luc,Van
+YR 2005
+T1 Editorial: Special Issue on “Texture Analysis and Synthesi”
+JF International Journal of Computer Vision
+VO 62
+SP 5
+OP 5
+IS 1
+
+RT Conference Proceedings
+ID 1872767
+A1 Claes,P.
+A1 Vandermeulen,Dirk
+A1 Gool,Luc,J.,Van
+A1 Suetens,Paul
+YR 2005
+T1 Robust and Accurate Partial Surface Registration Based on Variational Implicit Surfaces for Automatic 3D Model Building
+SP 385
+OP 392
+
+RT Book, Whole
+ID 1796550
+A1 Geys,Indra
+A1 Gool,Luc,J.,Van
+YR 2005
+T1 On-Line Novel View Synthesis Capable of Handling Multiple Moving Objects
+SP 150
+OP 159
+
+RT Journal Article
+ID 6117949
+A1 Vergauwen,Maarten
+A1 Matthews,Glyn
+A1 Gool,L.,van
+A1 Fontaine,Bernard
+YR 2005
+T1 Advanced Vision System for Exploration by a Planetary Aerobot
+VO 603
+SP 93
+
+RT Journal Article
+ID 1714693
+A1 Pollefeys,Marc
+A1 Gool,Luc,J.,Van
+A1 Vergauwen,Maarten
+A1 Verbiest,Frank
+A1 Cornelis,Kurt
+A1 Tops,Jan
+A1 Koch,Reinhard
+YR 2004
+T1 Visual Modeling with a Hand-Held Camera
+JF International Journal of Computer Vision
+VO 59
+SP 207
+OP 232
+IS 3
+
+RT Journal Article
+ID 1714694
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2004
+T1 Matching Widely Separated Views Based on Affine Invariant Regions
+JF International Journal of Computer Vision
+VO 59
+SP 61
+OP 85
+IS 1
+
+RT Book, Whole
+ID 509881
+A1 Ferrari,Vittorio
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2004
+T1 Simultaneous Object Recognition and Segmentation by Image Exploration
+SP 40
+OP 54
+
+RT Journal Article
+ID 2159577
+A1 Mindru,Florica
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+A1 Moons,Theo
+YR 2004
+T1 Moment invariants for recognition under changing viewpoint and illumination
+JF Computer Vision and Image Understanding
+VO 94
+SP 3
+OP 27
+IS 1-3
+
+RT Conference Proceedings
+ID 1788467
+A1 Strecha,Christoph
+A1 Fransens,Rik
+A1 Gool,Luc,J.,Van
+YR 2004
+T1 Wide-Baseline Stereo from Multiple Views: A Probabilistic Account
+VO 1
+SP 552
+OP 559
+
+RT Conference Proceedings
+ID 1788462
+A1 Goedemé,Toon
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2004
+T1 Fast Wide Baseline Matching for Visual Navigation
+VO 1
+SP 24
+OP 29
+
+RT Journal Article
+ID 4149518
+A1 Tuytelaars,T.
+A1 Gool,L.,Van
+YR 2004
+T1 Matching widely separated views based on affinely invariant neighbourhoods
+
+RT Conference Proceedings
+ID 1870637
+A1 Bray,Matthieu
+A1 Koller-meier,Esther
+A1 Gool,Luc,J.,Van
+YR 2004
+T1 Smart Particle Filtering for 3D Hand Tracking
+SP 675
+OP 680
+
+RT Journal Article
+ID 1705176
+A1 Osian,Mihai
+A1 Gool,Luc,J.,Van
+YR 2004
+T1 Video shot characterization
+JF Machine Vision and Applications
+VO 15
+SP 172
+OP 177
+IS 3
+
+RT Conference Proceedings
+ID 1788613
+A1 Ferrari,Vittorio
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2004
+T1 Integrating Multiple Model Views for Object Recognition
+VO 2
+SP 105
+OP 112
+
+RT Conference Proceedings
+ID 1801834
+A1 Serby,David
+A1 Koller-meier,Esther
+A1 Gool,Luc,J.,Van
+YR 2004
+T1 Probabilistic Object Tracking Using Multiple Features
+VO 2
+SP 184
+OP 187
+
+RT Conference Proceedings
+ID 1788609
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2004
+T1 Synchronizing Video Sequences
+VO 1
+SP 762
+OP 768
+
+RT Conference Proceedings
+ID 1875121
+A1 Geys,Indra
+A1 Koninckx,Thomas,P.
+A1 Gool,Luc,J.,Van
+YR 2004
+T1 Fast Interpolated Cameras by Combining a GPU based Plane Sweep with a Max-Flow Regularisation Algorithm
+SP 534
+OP 541
+
+RT Journal Article
+ID 2550282
+A1 Mikolajczyk,K.
+A1 Tuytelaars,T.
+A1 Schmid,C.
+A1 Zisserman,A.
+A1 Matas,J.
+A1 Schaffalitzky,F.
+A1 Kadir,T.
+A1 Gool,L.,V.
+YR 2004
+T1 A comparison of affine region detectors
+JF International Journal of Computer Vision
+
+RT Book, Whole
+ID 1790184
+A1 Strecha,Christoph
+A1 Fransens,Rik
+A1 Gool,Luc,J.,Van
+YR 2004
+T1 A Probabilistic Approach to Large Displacement Optical Flow and Occlusion Detection
+SP 71
+OP 82
+
+RT Conference Proceedings
+ID 1875171
+A1 Koninckx,Thomas,P.
+A1 Geys,Indra
+A1 Jaeggli,Tobias
+A1 Gool,Luc,J.,Van
+YR 2004
+T1 A Graph Cut based Adaptive Structured Light Approach for Real-Time Range Acquisition
+SP 413
+OP 421
+
+RT Conference Proceedings
+ID 1870630
+A1 Kehl,Roland
+A1 Gool,Luc,J.,Van
+YR 2004
+T1 Real-Time Pointing Gesture Recognition for an Immersive Environment
+SP 577
+OP 582
+
+RT Journal Article
+ID 2279215
+A1 Doubek,Petr
+A1 Geys,Indra
+A1 Gool,Luc,Van
+YR 2004
+T1 Cinematographic Rules Applied to a Camera Network
+
+RT Journal Article
+ID 4627780
+A1 Strecha,C.
+A1 Fransens,R.
+A1 Gool,L.,van
+YR 2004
+T1 Multimodal and Multiband Image Registration using Mutual Information
+VO 553
+SP 53
+
+RT Journal Article
+ID 4790037
+A1 Goedemé,Toon
+A1 Nuttin,Marnix
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2004
+T1 Vision Based Intelligent Wheel Chair Control: The Role of Vision and Inertial Sensing in Topological Navigation
+JF Journal of Field Robotics
+VO 21
+SP 85
+OP 94
+IS 2
+
+RT Journal Article
+ID 1428411
+A1 Cornelis,Kurt
+A1 Verbiest,Frank
+A1 Gool,Luc,J.,Van
+YR 2004
+T1 Drift Detection and Removal for Sequential Structure from Motion Algorithms
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 26
+SP 1249
+OP 1259
+IS 10
+
+RT Conference Proceedings
+ID 2612109
+A1 Fransens,Rik
+A1 Strecha,Christoph
+A1 Gool,Luc,Van
+YR 2004
+T1 A Probabilistic Approach to Optical Flow based Super-Resolution
+
+RT Conference Proceedings
+ID 1765185
+A1 Griesser,Andreas
+A1 Koninckx,Thomas,P.
+A1 Gool,Luc,J.,Van
+YR 2004
+T1 Adaptive Real-Time 3D Acquisition and Contour Tracking within a Multiple Structured Light System
+SP 361
+OP 370
+
+RT Conference Proceedings
+ID 2662100
+A1 Koninckx,Thomas,P.
+A1 Jaeggli,Tobias
+A1 Gool,Luc,Van
+YR 2004
+T1 Adaptive Scanning for Online 3D Model Acquisition
+
+RT Journal Article
+ID 2159300
+A1 Ozden,Kemal,Egemen
+A1 Cornelis,Kurt
+A1 Eycken,Luc,Van
+A1 Gool,Luc,J.,Van
+YR 2004
+T1 Reconstructing 3D trajectories of independently moving objects using generic constraints
+JF Computer Vision and Image Understanding
+VO 96
+SP 453
+OP 471
+IS 3
+
+RT Conference Proceedings
+ID 4563810
+A1 Bray,Matthieu
+A1 Koller-Meier,Esther
+A1 Schraudolph,Nicol,N.
+A1 Gool,Luc,Van
+YR 2004
+T1 Stochastic Meta-Descent for Tracking Articulated Structures
+
+RT Journal Article
+ID 2343919
+A1 Gool,L.,Van
+A1 Waelkens,M.
+A1 Mueller,P.
+A1 Vereenooghe,T.
+A1 Vergauwen,M.
+YR 2004
+T1 TOTAL RECALL: A PLEA FOR REALISM IN MODELS OF THE PAST
+
+RT Conference Proceedings
+ID 1788500
+A1 Ozden,Kemal,Egemen
+A1 Cornelis,Kurt
+A1 Eycken,Luc,Van
+A1 Gool,Luc,J.,Van
+YR 2004
+T1 Reconstructing 3D Independent Motions Using Non-Accidentalness
+VO 1
+SP 819
+OP 825
+
+RT Conference Proceedings
+ID 3105161
+A1 Ossian,M.
+A1 Tuytelaars,T.
+A1 Gool,L.,Van
+YR 2004
+T1 Fitting Superellipses to Incomplete Contours
+
+RT Conference Proceedings
+ID 1875209
+A1 Neubeck,Alexander
+A1 Zalesny,Alexey
+A1 Gool,Luc,J.,Van
+YR 2004
+T1 Viewpoint Consistent Texture Synthesis
+SP 388
+OP 395
+
+RT Conference Proceedings
+ID 1877160
+A1 Vergauwen,Maarten
+A1 Pletinckx,Daniel
+A1 Willems,Geert
+A1 Verbiest,Frank
+A1 Gool,Luc,J.,Van
+A1 Helsen,Truus
+YR 2004
+T1 As Time Flies By: Mixed Image and Model-Based Rendering of an Historical Landscape from Helicopter Images
+SP 241
+OP 250
+
+RT Conference Proceedings
+ID 1801672
+A1 Gimel'farb,Georgy,L.
+A1 Gool,Luc,J.,Van
+A1 Zalesny,Alexey
+YR 2004
+T1 To FRAME or not to FRAME in Probabilistic Texture Modelling?
+VO 2
+SP 707
+OP 711
+
+RT Journal Article
+ID 12851122
+A1 Geys,Indra
+A1 Gool,Luc,J.,Van
+YR 2004
+T1 Extended view interpolation by parallel use of the GPU and the CPU
+VO 5665
+SP 96
+OP 107
+
+RT Conference Proceedings
+ID 50389705
+A1 Caenen,Geert
+A1 Gool,Luc,Van
+YR 2004
+T1 Maximum Response Filters for Texture Analysis
+
+RT Book, Whole
+ID 1888110
+A1 Osian,Mihai
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2004
+T1 A Shape Based, Viewpoint Invariant Local Descriptor
+SP 349
+OP 359
+
+RT Book, Whole
+ID 1888090
+A1 Zehnder,Philipp
+A1 Koller-meier,Esther
+A1 Gool,Luc,J.,Van
+YR 2004
+T1 A Hierarchical System for Recognition, Tracking and Pose Estimation
+SP 329
+OP 340
+
+RT Conference Proceedings
+ID 4605054
+A1 Geyst,Indra
+A1 Gool,Luc,Van
+YR 2004
+T1 High speed view interpolation for tele-teaching and tele-conferencing
+
+RT Book, Whole
+ID 4338490
+A1 Strecha,Christoph
+A1 Fransens,Rik
+A1 Gool,Luc,J.,Van
+YR 2004
+T1 A Probabilistic Formulation of Image Registration
+SP 165
+OP 176
+
+RT Conference Proceedings
+ID 50369071
+A1 Ozden,K.,E.
+A1 Cornelis,K.
+A1 Gool,L.,van
+YR 2004
+T1 Reconstructing 3D dynamic scenes with non-accidentalness principle
+
+RT Journal Article
+ID 863389
+A1 Nummiaro,Katja
+A1 Koller-meier,Esther
+A1 Gool,Luc,J.,Van
+YR 2003
+T1 An adaptive color-based particle filter
+JF Image and Vision Computing
+VO 21
+SP 99
+OP 110
+IS 1
+
+RT Journal Article
+ID 31860
+A1 Gross,Markus,H.
+A1 Würmlin,Stephan
+A1 Naef,Martin
+A1 Lamboray,Edouard
+A1 Spagno,Christian,P.
+A1 Kunz,Andreas,M.
+A1 Koller-Meier,Esther
+A1 Svoboda,Tomás
+A1 Gool,Luc,J.,Van
+A1 Lang,Silke
+A1 Strehlke,Kai
+A1 Moere,Andrew,Vande
+A1 Staadt,Oliver,G.
+YR 2003
+T1 blue-c: a spatially immersive display and 3D video portal for telepresence
+JF ACM Transactions on Graphics
+VO 22
+SP 819
+OP 827
+IS 3
+
+RT Conference Proceedings
+ID 1796523
+A1 Strecha,Christoph
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2003
+T1 Dense Matching of Multiple Wide-baseline Views
+SP 1194
+OP 1201
+
+RT Conference Proceedings
+ID 1788334
+A1 Ferrari,Vittorio
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2003
+T1 Wide-baseline Multiple-view Correspondences
+VO 1
+SP 718
+OP 728
+
+RT Journal Article
+ID 2060551
+A1 Shao,H.
+A1 Svoboda,T.
+A1 Gool,L.,Van
+YR 2003
+T1 ZuBuD ± Zurich Buildings Database for Image Based Recognition
+
+RT Book, Whole
+ID 499958
+A1 Shao,Hao
+A1 Svoboda,Tomás
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+A1 Shao,H.
+YR 2003
+T1 HPAT indexing for fast object/scene recognition based on local appearance
+SP 71
+OP 80
+
+RT Conference Proceedings
+ID 1872534
+A1 Koninckx,Thomas,P.
+A1 Griesser,Andreas
+A1 Gool,Luc,J.,Van
+YR 2003
+T1 Real-time Range Scanning of Deformable Surfaces by Adaptively Coded Structured Light
+SP 293
+OP 301
+
+RT Book, Whole
+ID 501528
+A1 Nummiaro,Katja
+A1 Koller-meier,Esther
+A1 Svoboda,Tomás
+A1 Roth,Daniel
+A1 Gool,Luc,J.,Van
+YR 2003
+T1 Color-Based Object Tracking in Multi-camera Environments
+SP 591
+OP 599
+
+RT Journal Article
+ID 28485
+A1 Nummiaro,Katja
+A1 Koller-Meier,Esther
+A1 Gool,Luc,Van
+YR 2003
+T1 Color Features for Tracking Non-Rigid Objects
+
+RT Journal Article
+ID 1705153
+A1 Vergauwen,Maarten
+A1 Pollefeys,Marc
+A1 Gool,Luc,J.,Van
+YR 2003
+T1 A stereo-vision system for support of planetary surface exploration
+JF Machine Vision and Applications
+VO 14
+SP 5
+OP 14
+IS 1
+
+RT Journal Article
+ID 801207
+A1 Tuytelaars,Tinne
+A1 Turina,Andreas
+A1 Gool,Luc,J.,Van
+YR 2003
+T1 Noncombinatorial Detection of Regular Repetitions under Perspective Skew
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 25
+SP 418
+OP 432
+IS 4
+
+RT Conference Proceedings
+ID 1798048
+A1 Shao,Hao
+A1 Svoboda,Tomás
+A1 Ferrari,Vittorio
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2003
+T1 Fast indexing for image retrieval based on local appearance with re-ranking
+VO 3
+SP 737
+OP 740
+
+RT Conference Proceedings
+ID 1796460
+A1 Fransens,Rik
+A1 Prins,Jan,De
+A1 Gool,Luc,J.,Van
+YR 2003
+T1 SVM-based Nonparametric Discriminant Analysis, An Application to Face Detection
+SP 1289
+OP 1296
+
+RT Journal Article
+ID 1594238
+A1 Pollefeys,Marc
+A1 Gool,Luc,J.,Van
+A1 Vergauwen,Maarten
+A1 Cornelis,Kurt
+A1 Verbiest,Frank
+A1 Tops,Jan
+YR 2003
+T1 3D Recording for Archaeological Fieldwork
+JF IEEE Computer Graphics and Applications
+VO 23
+SP 20
+OP 27
+IS 3
+
+RT Book, Whole
+ID 541782
+A1 Doubek,Petr
+A1 Svoboda,Tomás
+A1 Gool,Luc,J.,Van
+YR 2003
+T1 Monkeys -- A Software Architecture for ViRoom -- Low-Cost Multicamera System
+SP 386
+OP 395
+
+RT Conference Proceedings
+ID 1872628
+A1 Wyngaerd,Joris,Vanden
+A1 Gool,Luc,J.,Van
+YR 2003
+T1 Combining texture and shape for automatic crude patch registration
+SP 179
+OP 186
+
+RT Journal Article
+ID 3212264
+A1 Pollefeys,M.
+A1 Gool,L.,V.
+A1 Vergauwen,M.
+A1 Verbiest,F.
+A1 Cornelis,K.
+A1 Tops,J.
+YR 2003
+T1 Image-based 3d recording for archaeological field work
+JF IEEE Computer Graphics and Applications
+
+RT Conference Proceedings
+ID 50304478
+A1 Zalesny,Alexey
+A1 Maur,Dominik,Auf,der
+A1 Paget,Rupert
+A1 Vergauwen,Maarten
+A1 Gool,Luc,Van
+YR 2003
+T1 Realistic Textures for Virtual Anastylosis
+VO 1
+SP 14
+OP 14
+
+RT Book, Whole
+ID 541836
+A1 Geys,Indra
+A1 Gool,Luc,J.,Van
+YR 2003
+T1 Virtual Post-its: Visual Label Extraction, Attachment, and Tracking for Teleconferencing
+SP 121
+OP 130
+
+RT Journal Article
+ID 18058805
+A1 Kalberer,Gregor,A.
+A1 Gool,Luc,Van
+YR 2003
+T1 Visual speech, a trajectory in viseme space
+JF International Journal of Imaging Systems and Technology
+VO 13
+SP 74
+OP 84
+IS 1
+
+RT Journal Article
+ID 39279806
+A1 Cosmas,John
+A1 Itegaki,T.
+A1 Green,Damian
+A1 Joseph,N.
+A1 Gool,Luc,J.,Van
+A1 Zalesny,Alexey
+A1 Vanrintel,Desi
+A1 Leberl,Franz
+A1 Grabner,Markus
+A1 Schindler,Konrad
+A1 Karner,Konrad,F.
+A1 Gervautz,Michael
+A1 Hynst,Stefan
+A1 Waelkens,Marc
+A1 Vergauwen,Maarten
+A1 Pollefeys,Marc
+A1 Cornelis,Kurt
+A1 Vereenooghe,Tijl
+A1 Sablatnig,Robert
+A1 Kampel,Martin
+A1 Axell,P.
+A1 Meyns,E.
+YR 2003
+T1 Providing Multimedia Tools for Recording, Reconstruction, Visualisation and Database Storage/Access of Archaeological Excavations
+SP 165
+OP 174
+
+RT Journal Article
+ID 39240774
+A1 Gross,Markus
+A1 Würmlin,Stephan
+A1 Naef,Martin
+A1 Lamboray,Edouard
+A1 Spagno,Christian
+A1 Kunz,Andreas
+A1 Koller-Meier,Esther
+A1 Svoboda,Tomas
+A1 Gool,Luc,Van
+A1 Lang,Silke
+A1 Strehlke,Kai
+A1 Moere,Andrew,Vande
+A1 Staadt,Oliver
+YR 2003
+T1 blue-c: a spatially immersive display and 3D video portal for telepresence
+SP 819
+OP 827
+
+RT Journal Article
+ID 2038792
+A1 Fehn,C.
+A1 Kauff,P.
+A1 Beeck,M.,Op,de
+A1 Ernst,F.
+A1 IJsselsteijn,W.
+A1 Pollefeys,M.
+A1 Gool,L.,Van
+A1 Ofek,E.
+A1 Sexton,I.
+YR 2002
+T1 AN EVOLUTIONARY AND OPTIMISED APPROACH ON 3DTV
+
+RT Book, Whole
+ID 44287
+A1 Nummiaro,Katja
+A1 Koller-meier,Esther
+A1 Gool,Luc,J.,Van
+YR 2002
+T1 Object Tracking with an Adaptive Color-Based Particle Filter
+SP 353
+OP 360
+
+RT Journal Article
+ID 27195
+A1 Nummiaro,Katja
+A1 Koller-Meier,Esther
+A1 Gool,Luc,Van
+YR 2002
+T1 A Color-based Particle Filter
+
+RT Book, Whole
+ID 81005
+A1 Pollefeys,Marc
+A1 Verbiest,Frank
+A1 Gool,Luc,J.,Van
+YR 2002
+T1 Surviving Dominant Planes in Uncalibrated Structure and Motion Recovery
+SP 837
+OP 851
+
+RT Conference Proceedings
+ID 1875024
+A1 Redert,André
+A1 Beeck,Marc,Op,De
+A1 Fehn,Christoph
+A1 Ijsselsteijn,Wijnand
+A1 Pollefeys,Marc
+A1 Gool,Luc,J.,Van
+A1 Ofek,Eyal
+A1 Sexton,Ian
+A1 Surman,Philip
+YR 2002
+T1 ATTEST: Advanced Three-dimensional Television System Technologies
+SP 313
+OP 319
+
+RT Journal Article
+ID 784286
+A1 Meerbergen,G.,Van
+A1 Vergauwen,Maarten
+A1 Pollefeys,Marc
+A1 Gool,Luc,J.,Van
+YR 2002
+T1 A Hierarchical Symmetric Stereo Algorithm Using Dynamic Programming
+JF International Journal of Computer Vision
+VO 47
+SP 275
+OP 285
+IS 1-3
+
+RT Journal Article
+ID 4206916
+A1 Nummiario,K.
+A1 Meier,E.,Koller
+A1 Gool,L.,V.
+YR 2002
+T1 A Color - based Particle Filter
+
+RT Journal Article
+ID 776850
+A1 Pollefeys,Marc
+A1 Gool,Luc,J.,Van
+YR 2002
+T1 From images to 3D models
+JF Communications of The ACM
+VO 45
+SP 50
+OP 55
+IS 7
+
+RT Journal Article
+ID 3546519
+A1 ZALESNY,Alexey
+A1 FERRARI,Vittorio
+A1 CAENEN,Geert
+A1 GOOL,Luc,VAN
+YR 2002
+T1 Parallel Composite Texture Synthesis
+
+RT Journal Article
+ID 930944
+A1 Wyngaerd,Joris,Vanden
+A1 Gool,Luc,J.,Van
+YR 2002
+T1 Automatic Crude Patch Registration: Toward Automatic 3D Model Building
+JF Computer Vision and Image Understanding
+VO 87
+SP 8
+OP 26
+IS 1-3
+
+RT Book, Whole
+ID 501211
+A1 Svoboda,Tomás
+A1 Hug,Hanspeter
+A1 Gool,Luc,J.,Van
+YR 2002
+T1 ViRoom - Low Cost Synchronized Multicamera System and Its Self-calibration
+SP 515
+OP 522
+
+RT Book, Whole
+ID 47672
+A1 Strecha,Christoph
+A1 Gool,Luc,J.,Van
+YR 2002
+T1 Motion - Stereo Integration for Depth Estimation
+SP 170
+OP 185
+
+RT Journal Article
+ID 59978
+A1 Caenen,G.
+A1 Ferrari,V.
+A1 Zalesny,A.
+A1 Gool,L.,Van
+YR 2002
+T1 Analyzing the layout of composite textures
+
+RT Journal Article
+ID 34790
+A1 Koninckx,Thomas,P.
+A1 Gool,Luc,Van
+YR 2002
+T1 High-speed active 3D acquisition based on a pattern-specific mesh
+
+RT Conference Proceedings
+ID 50272916
+A1 Redert,André
+A1 Beeck,Marc,Op,de
+A1 Fehn,Christoph
+A1 IJsselsteijn,Wijnand
+A1 Pollefeys,Marc
+A1 Gool,Luc,Van
+A1 Ofek,Eyal
+A1 Sexton,Ian
+A1 Surman,Philip
+YR 2002
+T1 Advanced three-dimensional television system technologies
+
+RT Conference Proceedings
+ID 48002
+A1 Strecha,Christoph
+A1 Gool,Luc,J.,Van
+YR 2002
+T1 PDE-based Multi-view Depth Estimation
+SP 416
+OP 427
+
+RT Journal Article
+ID 798349
+A1 Kalberer,Gregor,A.
+A1 Gool,Luc,J.,Van
+YR 2002
+T1 Realistic face animation for speech
+JF Journal of Visualization and Computer Animation
+VO 13
+SP 97
+OP 106
+IS 2
+
+RT Book, Whole
+ID 501014
+A1 Scholze,Stephan
+A1 Moons,Theo
+A1 Gool,Luc,J.,Van
+YR 2002
+T1 A Probabilistic Approach to Building Roof Reconstruction Using Semantic Labelling
+SP 257
+OP 264
+
+RT Book, Whole
+ID 509823
+A1 Wyngaerd,Joris,Vanden
+A1 Gool,Luc,J.,Van
+YR 2002
+T1 Coarse Registration of Surface Patches with Local Symmetries
+SP 572
+OP 586
+
+RT Journal Article
+ID 4669215
+A1 Beeck,Marc,J.,R.,Op,de
+A1 Wilinski,Piotr
+A1 Fehn,Christoph
+A1 Kauff,Peter
+A1 Ijsselsteijn,Wijnand,A.
+A1 Pollefeys,Marc
+A1 Gool,Luc,J.,Van
+A1 Ofek,Eyal
+A1 Sexton,Ian
+YR 2002
+T1 Towards an optimized 3D broadcast chain
+VO 4864
+SP 42
+OP 50
+
+RT Conference Proceedings
+ID 1802611
+A1 Mindru,Florica
+A1 Gool,Luc,J.,Van
+A1 Moons,Theo
+YR 2002
+T1 Model Estimation for Photometric Changes of Outdoor Planar Color Surfaces Caused by Changes in Illumination and Viewpoint
+VO 1
+SP 620
+OP 623
+
+RT Conference Proceedings
+ID 1875091
+A1 Gool,Luc,J.,Van
+A1 Vandermeulen,D.
+A1 Kalberer,Gregor,A.
+A1 Tuytelaars,Tinne
+A1 Zalesny,Alexey
+YR 2002
+T1 Modeling shapes and textures from images: new frontiers
+SP 286
+OP 295
+
+RT Conference Proceedings
+ID 1780308
+A1 Kalberer,Gregor,A.
+A1 Müller,Pascal
+A1 Gool,Luc,J.,Van
+YR 2002
+T1 Speech Animation Using Viseme Space
+SP 463
+OP 470
+
+RT Journal Article
+ID 15271110
+A1 Meerbergen,G.,Van
+A1 Vergauwen,M.
+A1 Pollefeys,M.
+A1 Gool,L.,Van
+YR 2002
+T1 A Hierarchical Symmetric Stereo Algorithm Using Dynamic Programming
+JF International Journal of Computer Vision
+VO 47
+SP 275
+OP 285
+IS 1
+
+RT Book, Whole
+ID 509827
+A1 Zalesny,Alexey
+A1 Ferrari,Vittorio
+A1 Caenen,Geert
+A1 Maur,Dominik,Auf,Der
+A1 Gool,Luc,J.,Van
+YR 2002
+T1 Composite Texture Descriptions
+SP 180
+OP 194
+
+RT Journal Article
+ID 2578375
+A1 Meerbergen,G.,Van
+A1 Vergauwen,M.
+A1 Pollefeys,M.
+A1 Gool,L.,Van
+YR 2002
+T1 A hierarchical stereo algorithm using dy-namic programming
+
+RT Journal Article
+ID 798361
+A1 Pollefeys,Marc
+A1 Gool,Luc,J.,Van
+YR 2002
+T1 Visual modelling: from images to images
+JF Journal of Visualization and Computer Animation
+VO 13
+SP 199
+OP 209
+IS 4
+
+RT Journal Article
+ID 77519
+A1 Vanroose,Peter
+A1 Kalberer,Gregor,A.
+A1 Wambacq,Patrick
+A1 Gool,Luc,Van
+YR 2002
+T1 From speech to 3D face animation
+
+RT Book, Whole
+ID 509609
+A1 Cornelis,Kurt
+A1 Pollefeys,Marc
+A1 Gool,Luc,J.,Van
+YR 2002
+T1 Lens Distortion Recovery for Accurate Sequential Structure and Motion Recovery
+SP 186
+OP 200
+
+RT Book, Whole
+ID 509367
+A1 Mindru,Florica
+A1 Moons,Theo
+A1 Gool,Luc,J.,Van
+YR 2002
+T1 Comparing Intensity Transformations and Their Invariants in the Context of Color Pattern Recognition
+SP 448
+OP 460
+
+RT Book, Whole
+ID 498173
+A1 Kogo,Naoki
+A1 Strecha,Christoph
+A1 Fransens,Rik
+A1 Caenen,Geert
+A1 Wagemans,Johan
+A1 Gool,Luc,J.,Van
+YR 2002
+T1 Reconstruction of Subjective Surfaces from Occlusion Cues
+SP 311
+OP 321
+
+RT Journal Article
+ID 4043666
+A1 Caenen,G.
+A1 Ferrari,V.
+A1 Gool,L.,Van
+A1 Zalesny,A.
+YR 2002
+T1 Unsupervised Texture Segmentation through Clique Partitioning
+
+RT Conference Proceedings
+ID 1780251
+A1 Kalberer,Gregor,A.
+A1 Müller,Pascal
+A1 Gool,Luc,J.,Van
+YR 2002
+T1 Generating Visemes for Realistic Animation
+SP 233
+OP 240
+
+RT Book, Whole
+ID 498137
+A1 Kalberer,Gregor,A.
+A1 Müller,Pascal
+A1 Gool,Luc,J.,Van
+YR 2002
+T1 Biological Motion of Speech
+SP 199
+OP 206
+
+RT Conference Proceedings
+ID 1780314
+A1 Scholze,Stephan
+A1 Moons,Theo
+A1 Gool,Luc,J.,Van
+YR 2002
+T1 Driving 3D Geometric Modelling for Building Roof Reconstruction by Semantics
+SP 225
+OP 232
+
+RT Book, Whole
+ID 501079
+A1 Koninckx,Thomas,P.
+A1 Gool,Luc,J.,Van
+YR 2002
+T1 Efficient, Active 3D Acquisition, Based on a Pattern-Specific Snake
+SP 557
+OP 565
+
+RT Conference Proceedings
+ID 13313086
+A1 Gool,Luc,J.,Van
+YR 2002
+T1 Pattern Recognition, 24th DAGM Symposium, Zurich, Switzerland, September 16-18, 2002, Proceedings
+
+RT Conference Proceedings
+ID 620583
+A1 Ferrari,Vittorio
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2001
+T1 Markerless Augmented Reality with a Real-Time Affine Region Tracker
+SP 87
+OP 96
+
+RT Conference Proceedings
+ID 101746
+A1 Ferrari,Vittorio
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2001
+T1 Real-time affine region tracking and coplanar grouping
+VO 2
+SP 226
+OP 233
+
+RT Conference Proceedings
+ID 868733
+A1 Cosmas,John
+A1 Itegaki,Take
+A1 Green,Damian
+A1 Grabczewski,Edward
+A1 Weimer,Fred
+A1 Gool,Luc,J.,Van
+A1 Zalesny,Alexey
+A1 Vanrintel,Desi
+A1 Leberl,Franz
+A1 Grabner,Markus
+A1 Schindler,Konrad
+A1 Karner,Konrad,F.
+A1 Gervautz,Michael
+A1 Hynst,Stefan
+A1 Waelkens,Marc
+A1 Pollefeys,Marc
+A1 DeGeest,Roland
+A1 Sablatnig,Robert
+A1 Kampel,Martin
+YR 2001
+T1 3D MURALE: a multimedia system for archaeology
+SP 297
+OP 306
+
+RT Conference Proceedings
+ID 107010
+A1 Turinal,Andreas
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2001
+T1 Efficient Grouping under Perspective Skew
+VO 1
+SP 247
+OP 254
+
+RT Conference Proceedings
+ID 115721
+A1 Kalberer,Gregor,A.
+A1 Gool,L.,Van
+YR 2001
+T1 Face animation based on observed 3D speech dynamics
+SP 20
+OP 251
+
+RT Journal Article
+ID 755419
+A1 Feyaerts,F.
+A1 Gool,Luc,J.,Van
+YR 2001
+T1 Multispectral vision system for weed detection
+JF Pattern Recognition Letters
+VO 22
+SP 667
+OP 674
+IS 6/7
+
+RT Conference Proceedings
+ID 868590
+A1 Pollefeys,Marc
+A1 Gool,Luc,J.,Van
+A1 Vergauwen,Maarten
+A1 Cornelis,Kurt
+A1 Verbiest,Frank
+A1 Tops,Jan
+YR 2001
+T1 Image-based 3D acquisition of archaeological heritage and applications
+SP 255
+OP 262
+
+RT Book, Whole
+ID 120515
+A1 Vergauwen,Maarten
+A1 Pollefeys,Marc
+A1 Gool,Luc,J.,Van
+YR 2001
+T1 A Stereo Vision System for Support of Planetary Surface Exploration
+SP 298
+OP 312
+
+RT Conference Proceedings
+ID 581145
+A1 Cornelis,Kurt
+A1 Pollefeys,Marc
+A1 Gool,Luc,J.,Van
+YR 2001
+T1 Tracking based structure and motion recovery for augmented video productions
+SP 17
+OP 24
+
+RT Conference Proceedings
+ID 103569
+A1 Zalesny,Alexey
+A1 Gool,Luc,J.,Van
+YR 2001
+T1 Multiview Texture Models
+VO 1
+SP 615
+OP 622
+
+RT Journal Article
+ID 86776
+A1 Koller-meier,Esther,B.
+A1 Gool,Luc,Van
+YR 2001
+T1 Modeling And Recognition Of Human Actions Using A Stochastic Approach
+
+RT Journal Article
+ID 121250
+A1 Pollefeys,Marc
+A1 Vergauwen,Maarten
+A1 Cornelis,Kurt
+A1 Tops,Jan
+A1 Verbiest,Frank
+A1 Gool,Luc,Van
+YR 2001
+T1 Structure and motion from image sequences
+
+RT Conference Proceedings
+ID 868529
+A1 Pollefeys,Marc
+A1 Gool,Luc,J.,Van
+A1 Akkermans,Ive
+A1 Becker,Dirk,De
+A1 Demuynck,Kris
+YR 2001
+T1 A guided tour to virtual Sagalassos
+SP 213
+OP 218
+
+RT Conference Proceedings
+ID 48967
+A1 Kalberer,Gregor,A.
+A1 Gool,Luc,Van
+YR 2001
+T1 Lip animation based on observed 3D speech dynamics
+
+RT Conference Proceedings
+ID 11881887
+A1 Meerbergen,G.,Van
+A1 Vergauwen,M.
+A1 Pollefeys,M.
+A1 Gool,L.,Van
+YR 2001
+T1 A hierarchical stereo algorithm using dynamic programming
+
+RT Book, Whole
+ID 48823
+A1 Turina,Andreas
+A1 Tuytelaars,Tinne
+A1 Moons,Theo
+A1 Gool,Luc,J.,Van
+YR 2001
+T1 Grouping via the Matching of Repeated Patterns
+SP 250
+OP 259
+
+RT Conference Proceedings
+ID 868480
+A1 Zalesny,Alexey
+A1 Maur,Dominik,Auf,der
+A1 Gool,Luc,J.,Van
+YR 2001
+T1 Composite textures: emulating building materials and vegetation for 3D models
+SP 179
+OP 186
+
+RT Journal Article
+ID 50754
+A1 Scholze,S.
+A1 Gool,L.,Van
+YR 2001
+T1 A probabilistic approach to roof patch extraction and reconstruction
+
+RT Conference Proceedings
+ID 82005
+A1 Pollefeys,Marc
+A1 Gool,Luc,J.,Van
+YR 2001
+T1 Do Ambiguous Reconstructions Always Give Ambiguous Images?
+SP 187
+OP 192
+
+RT Conference Proceedings
+ID 13282835
+A1 Pollefeys,Marc
+A1 Gool,Luc,J.,Van
+A1 Zisserman,Andrew
+A1 Fitzgibbon,Andrew,W.
+YR 2001
+T1 3D Structure from Images - SMILE 2000, Second European Workshop on 3D Structure from Multiple Images of Large-Scale Environments Dublin, Ireland, July 12, 2000, Revised Papers
+
+RT Conference Proceedings
+ID 535954
+A1 Vergauwen,Maarten
+A1 Pollefeys,Marc
+A1 Gool,Luc,J.,Van
+YR 2001
+T1 Calibration and 3D Measurement from Martian Terrain Images
+VO 2
+SP 2153
+OP 2158
+
+RT Conference Proceedings
+ID 159870
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2000
+T1 Wide Baseline Stereo Matching based on Local, Affinely Invariant Regions
+
+RT Conference Proceedings
+ID 4097134
+A1 Tuytelaars,T.
+A1 Gool,L.,Van
+YR 2000
+T1 Wide Baseline Stereo based on Local, A nely invariant Regions
+
+RT Journal Article
+ID 98872
+A1 Pollefeys,M.
+A1 Koch,R.
+A1 Vergauwen,M.
+A1 Gool,L.,Van
+YR 2000
+T1 Automated reconstruction of 3D scenes from sequences of images
+JF Isprs Journal of Photogrammetry and Remote Sensing
+VO 55
+SP 251
+OP 267
+IS 4
+
+RT Conference Proceedings
+ID 631939
+A1 Zalesny,Alexey
+A1 Gool,Luc,J.,Van
+YR 2000
+T1 A Compact Model for Viewpoint Dependent Texture Synthesis
+SP 124
+OP 143
+
+RT Conference Proceedings
+ID 261344
+A1 Pollefeys,Marc
+A1 Koch,Reinhard
+A1 Vergauwen,Maarten
+A1 Deknuydt,Bert
+A1 Gool,Luc,J.,Van
+YR 2000
+T1 Three-dimensional Scene Reconstruction from Images
+VO 3958
+SP 215
+OP 226
+
+RT Book, Whole
+ID 117307
+A1 Cornelis,Kurt
+A1 Pollefeys,Marc
+A1 Vergauwen,Maarten
+A1 Gool,Luc,J.,Van
+YR 2000
+T1 Augmented Reality Using Uncalibrated Video Sequences
+SP 144
+OP 160
+
+RT Journal Article
+ID 2755908
+A1 Cornelis,K.
+A1 Pollefeys,M.
+A1 Vergauwen,M.
+A1 Gool,L.,Van
+YR 2000
+T1 Augmented Reality from Un-calibrated Video Sequences
+JF Lecture Notes in Computer Science
+
+RT Journal Article
+ID 104218
+A1 Koch,Reinhard
+A1 Pollefeys,Marc
+A1 Gool,Luc,J.,Van
+YR 2000
+T1 Realistic surface reconstruction of 3D scenes from uncalibrated image sequences
+JF Journal of Visualization and Computer Animation
+VO 11
+SP 115
+OP 127
+IS 3
+
+RT Journal Article
+ID 4915668
+A1 Wagemans,Johan
+A1 Gool,Luc,Van
+A1 Foster,D.,H.
+YR 2000
+T1 Minimal information to determine affine shape equivalence
+JF Journal of Experimental Psychology-human Perception and Performance
+VO 26
+SP 443
+OP 468
+IS 2
+
+RT Conference Proceedings
+ID 129528
+A1 Tuytelaars,Tinne
+A1 Zaatri,A.
+A1 Gool,Luc,J.,Van
+A1 Brussel,Hendrik,Van
+YR 2000
+T1 Automatic Object Recognition as Part of an Integrated Supervisory Control System
+VO 4
+SP 3707
+OP 3712
+
+RT Conference Proceedings
+ID 174844
+A1 Pollefeys,Marc
+A1 Gool,Luc,Van
+YR 2000
+T1 Some Issues on Self-Calibration and Critical Motion Sequences
+
+RT Journal Article
+ID 51188
+A1 SCHOLZE,Stephan
+A1 MOONS,Theo
+A1 ADE,Frank
+A1 GOOL,Luc,VAN
+YR 2000
+T1 EXPLOITING COLOR FOR EDGE EXTRACTION AND LINE SEGMENT STERE O MATCHING IN HIGH-RESOLUTION AERIAL IMAGERY
+
+RT Journal Article
+ID 48731535
+A1 Achteren,Tanja,Van
+A1 Adé,Marleen
+A1 Lauwereins,Rudy
+A1 Proesmans,Marc
+A1 Gool,Luc,Van
+A1 Bormans,Jan
+A1 Catthoor,Francky
+YR 2000
+T1 Transformations of a 3D Image Reconstruction Algorithm for Data Transfer and Storage Optimisation
+JF Design Automation for Embedded Systems
+VO 5
+SP 313
+OP 327
+IS 3
+
+RT Journal Article
+ID 200032
+A1 Pollefeys,Marc
+A1 Gool,Luc,Van
+YR 2000
+T1 Some Geometric Insight in Self-Calibration and Critical Motion Sequences
+
+RT Conference Proceedings
+ID 144991
+A1 Vergauwen,Maarten
+A1 Pollefeys,Marc
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 2000
+T1 On Satellite Vision-Aided Robotics Experiment
+VO 4
+SP 4039
+OP 4044
+
+RT Book, Whole
+ID 186961
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+YR 1999
+T1 Content-Based Image Retrieval Based on Local Affinely Invariant Regions
+VO 1614
+SP 493
+OP 500
+
+RT Journal Article
+ID 1399187
+A1 Pollefeys,Marc
+A1 Koch,Reinhard
+A1 Gool,Luc,J.,Van
+YR 1999
+T1 Self-Calibration and Metric Reconstruction Inspite of Varying and Unknown Intrinsic Camera Parameters
+JF International Journal of Computer Vision
+VO 32
+SP 7
+OP 25
+IS 1
+
+RT Conference Proceedings
+ID 319172
+A1 Mindru,Florica
+A1 Moons,Theo
+A1 Gool,Luc,J.,Van
+YR 1999
+T1 Recognizing Color Patterns Irrespective of Viewpoint and Illumination
+VO 1
+SP 1368
+OP 1373
+
+RT Conference Proceedings
+ID 120638
+A1 Pollefeys,Marc
+A1 Koch,Reinhard
+A1 Gool,Luc,J.,Van
+YR 1999
+T1 A Simple and Efficient Rectification Method for General Motion
+SP 496
+OP 501
+
+RT Conference Proceedings
+ID 292901
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+A1 D'haene,L.
+A1 Koch,Reinhard
+YR 1999
+T1 Matching of Affinely Invariant Regions for Visual Servoing
+VO 2
+SP 1601
+OP 1606
+
+RT Journal Article
+ID 801067
+A1 Pollefeys,Marc
+A1 Gool,Luc,J.,Van
+YR 1999
+T1 Stratified Self-Calibration with the Modulus Constraint
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 21
+SP 707
+OP 724
+IS 8
+
+RT Conference Proceedings
+ID 96267
+A1 Koch,Reinhard
+A1 Pollefeys,Marc
+A1 Heigl,Benno
+A1 Gool,Luc,J.,Van
+A1 Niemann,Heinrich
+YR 1999
+T1 Calibration of Hand-Held Camera Sequences for Plenoptic Modeling
+SP 585
+OP 591
+
+RT Conference Proceedings
+ID 202719
+A1 Heigl,Benno
+A1 Koch,Reinhard
+A1 Pollefeys,Marc
+A1 Denzler,Joachim
+A1 Gool,Luc,J.,Van
+YR 1999
+T1 Plenoptic Modeling and Rendering from Image Sequences Taken by Hand-Held Camera
+SP 94
+OP 101
+
+RT Conference Proceedings
+ID 113376
+A1 Pollefeys,Marc
+A1 Koch,Reinhard
+A1 Vergauwen,Maarten
+A1 Gool,Luc,J.,Van
+YR 1999
+T1 Hand-Held Acquisition of 3D Models with a Video Camera
+SP 14
+OP 23
+
+RT Conference Proceedings
+ID 523860
+A1 Wyngaerd,Joris,Vanden
+A1 Gool,Luc,J.,Van
+A1 Koch,Reinhard
+A1 Proesmans,Marc
+YR 1999
+T1 Invariant-based Registration of Surface Patches
+SP 301
+OP 306
+
+RT Conference Proceedings
+ID 501203
+A1 Koch,Reinhard
+A1 Pollefeys,Marc
+A1 Gool,Luc,J.,Van
+YR 1999
+T1 Robust Calibration and 3D Geometric Modeling From Large Collections of Uncalibrated Images
+SP 413
+OP 420
+
+RT Conference Proceedings
+ID 82588
+A1 Criminisi,Antonio
+A1 Zisserman,Andrew
+A1 Gool,Luc,J.,van
+A1 Bramble,Simon,K.
+A1 Compton,David
+YR 1999
+T1 New approach to obtain height measurements from video
+VO 3576
+SP 227
+OP 238
+
+RT Conference Proceedings
+ID 528236
+A1 Koch,Reinhard
+A1 Pollefeys,Marc
+A1 Gool,Luc,J.,Van
+YR 1999
+T1 Realistic 3-D Scene Modeling from Uncalibrated Image Sequences
+SP 500
+OP 504
+
+RT Conference Proceedings
+ID 13834
+A1 Koch,Reinhard
+A1 Heigl,Benno
+A1 Pollefeys,Marc
+A1 Gool,Luc,J.,Van
+A1 Niemann,Heinrich
+YR 1999
+T1 A Geometric Approach to Lightfield Calibration
+SP 596
+OP 603
+
+RT Journal Article
+ID 119022
+A1 Pollefeys,M.
+A1 Koch,R.
+A1 Vergauwen,M.
+A1 Gool,L.,Van
+YR 1999
+T1 An Automatic Method for Acquiring 3D Models from Photographs: Applications to an Archaeological Site
+
+RT Conference Proceedings
+ID 482997
+A1 Achteren,Tanja,Van
+A1 Adé,Marleen
+A1 Lauwereins,Rudy
+A1 Proesmans,Marc
+A1 Gool,Luc,J.,Van
+A1 Bormans,Jan
+A1 Catthoor,Francky
+YR 1999
+T1 Transformations of a 3D Image Reconstruction Algorithm for Data Transfer and Storage Optimization
+SP 81
+OP 86
+
+RT Conference Proceedings
+ID 683990
+A1 Gool,Luc,J.,Van
+A1 Tuytelaars,Tinne
+A1 Turina,Andreas
+YR 1999
+T1 Local Features for Image Retrieval
+SP 21
+OP 41
+
+RT Book, Whole
+ID 147636
+A1 Gool,Luc,J.,Van
+A1 Tuytelaars,Tinne
+A1 Pollefeys,Marc
+YR 1999
+T1 Adventurous Tourism for Couch Potatoes
+SP 98
+OP 107
+
+RT Book, Whole
+ID 630291
+A1 Proesmans,Marc
+A1 Gool,Luc,J.,Van
+YR 1999
+T1 Grouping Based on Coupled Diffusion Maps
+SP 196
+OP 216
+
+RT Conference Proceedings
+ID 50149322
+A1 Seidel,Klaus
+A1 Datcu,Mihai
+A1 Schwarz,G.
+A1 Gool,Luc,Van
+YR 1999
+T1 Advanced remote sensing information system program at ETH Zurich and DLR/DFD Oberpfaffenhofen
+
+RT Journal Article
+ID 59739678
+A1 Bijlsma,A.
+A1 Geldrop,R.,van
+A1 Gool,L.,van
+A1 Hemerik,K.
+A1 Huizing,K.
+A1 Kuiper,R.
+A1 Roosmalen,O.,van
+A1 Woude,J.,van,der
+A1 Zwaan,G.
+YR 1999
+T1 Model-based specification of design patterns
+JF Acta Informatica
+
+RT Conference Proceedings
+ID 551938
+A1 Gool,Luc,J.,Van
+A1 Koch,Reinhard
+A1 Moons,Theo
+YR 1999
+T1 New Techniques for 3D Modelling...and for doing without
+SP 79
+OP 88
+
+RT Book, Whole
+ID 497638
+A1 Deknuydt,Bert
+A1 Desmet,Stef
+A1 Eycken,Luc,Van
+A1 Gool,Luc,J.,Van
+YR 1999
+T1 Coding of Dynamic Texture on 3D Scenes
+SP 604
+OP 614
+
+RT Conference Proceedings
+ID 89287
+A1 Pollefeys,Marc
+A1 Koch,Reinhard
+A1 Gool,Luc,J.,Van
+YR 1998
+T1 Self-Calibration and Metric Reconstruction in Spite of Varying and Unknown Internal Camera Parameters
+SP 90
+OP 95
+
+RT Book, Whole
+ID 509739
+A1 Koch,Reinhard
+A1 Pollefeys,Marc
+A1 Gool,Luc,J.,Van
+YR 1998
+T1 Multi Viewpoint Stereo from Uncalibrated Video Sequences
+SP 55
+OP 71
+
+RT Conference Proceedings
+ID 524163
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,J.,Van
+A1 Proesmans,Marc
+A1 Moons,Theo
+YR 1998
+T1 A Cascaded Hough Transform as an Aid in Aerial Image Interpretation
+SP 67
+OP 72
+
+RT Book, Whole
+ID 416537
+A1 Pollefeys,Marc
+A1 Koch,Reinhard
+A1 Vergauwen,Maarten
+A1 Gool,Luc,J.,Van
+YR 1998
+T1 Metric 3D Surface Reconstruction from Uncalibrated Image Sequences
+SP 139
+OP 154
+
+RT Conference Proceedings
+ID 524075
+A1 Proesmans,Marc
+A1 Gool,Luc,J.,Van
+A1 Defoort,Filip
+YR 1998
+T1 Reading between the lines: A method for extracting dynamic 3D with Texture
+SP 1081
+OP 1086
+
+RT Conference Proceedings
+ID 509640
+A1 Moons,Theo
+A1 Frère,David
+A1 Vandekerckhove,Jan
+A1 Gool,Luc,J.,Van
+YR 1998
+T1 Automatic Modeling and 3D Reconstruction of Urban House Roofs from High Resolution Aerial Imagery
+SP 410
+OP 425
+
+RT Conference Proceedings
+ID 256159
+A1 Tuytelaars,Tinne
+A1 Proesmans,Marc
+A1 Gool,Luc,Van
+YR 1998
+T1 The Cascaded Hough Transform
+
+RT Journal Article
+ID 231844
+A1 Gool,Luc,J.,Van
+A1 Proesmans,Marc
+A1 Zisserman,Andrew
+YR 1998
+T1 Planar homologies as a basis for grouping and recognition
+JF Image and Vision Computing
+VO 16
+SP 21
+OP 26
+IS 1
+
+RT Conference Proceedings
+ID 202961
+A1 Mindru,Florica
+A1 Moons,Theo
+A1 Gool,Luc,Van
+YR 1998
+T1 COLOR-BASED MOMENT INVARIANTS FOR VIEWPOINT AND ILLUMINATION INDEPENDENT RECOGNITION OF PLANAR COLOR PATTERNS
+
+RT Journal Article
+ID 73470
+A1 Pollefeys,Marc
+A1 Koch,Reinhard
+A1 Vergauwen,Maarten
+A1 Gool,Luc,Van
+YR 1998
+T1 Flexible acquisition of 3D structure from motion
+
+RT Conference Proceedings
+ID 50120383
+A1 Frere,D.
+A1 Vandekerckhove,J.
+A1 Moons,T.
+A1 Gool,L.,Van
+YR 1998
+T1 Automatic modelling and 3D reconstruction of urban buildings from aerial imagery
+
+RT Journal Article
+ID 3412502
+A1 Proesmans,M.
+A1 Tuytelaars,T.
+A1 Gool,L.,Van
+YR 1998
+T1 Monocular image measurements
+
+RT Conference Proceedings
+ID 96432
+A1 Koch,Reinhard
+A1 Pollefeys,Marc
+A1 Gool,Luc,J.,Van
+YR 1998
+T1 Automatic 3D Model Acquisition from Uncalibrated Image Sequences
+SP 597
+OP 604
+
+RT Conference Proceedings
+ID 536248
+A1 Pollefeys,Marc
+A1 Koch,Reinhard
+A1 Vergauwen,Maarten
+A1 Gool,Luc,J.,Van
+YR 1998
+T1 Flexible 3D Acquisition with a Monocular Camera
+VO 4
+SP 2771
+OP 2776
+
+RT Journal Article
+ID 2539510
+A1 Pollefeys,M.
+A1 Koch,R.
+A1 Vergauwen,M.
+A1 Gool,L.,Van
+YR 1998
+T1 3D Structure from Multiple Images of Large Scale Environments
+
+RT Book, Whole
+ID 416234
+A1 Mohr,Roger
+A1 Buschmann,R.
+A1 Falkenhagen,Lutz
+A1 Gool,Luc,J.,Van
+A1 Koch,Reinhard
+YR 1998
+T1 CUMULI, PANORAMA, and VANGUARD Project Overview
+SP 1
+OP 13
+
+RT Conference Proceedings
+ID 448965
+A1 Gool,Luc,J.,Van
+A1 Defoort,Filip
+A1 Koch,Reinhard
+A1 Pollefeys,Marc
+A1 Proesmans,Marc
+A1 Vergauwen,Maarten
+YR 1998
+T1 Special Lecture: 3D Modeling for Communications
+SP 482
+OP 489
+
+RT Conference Proceedings
+ID 448839
+A1 Frère,David
+A1 Vandekerckhove,Jan
+A1 Moons,Theo
+A1 Gool,Luc,J.,Van
+YR 1998
+T1 Semi-Automatic Modelling of Urban Buildings from High Resolution Aerial Imagery
+SP 588
+OP 596
+
+RT Conference Proceedings
+ID 2310154
+A1 Gool,Luc,Van
+A1 Defoort,Filip
+A1 Koch,Reinhard
+A1 Pollefeys,Marc
+A1 Proesmans,Marc
+A1 Vergauwen,Maarten
+YR 1998
+T1 3D modeling for communications
+
+RT Conference Proceedings
+ID 13282827
+A1 Koch,Reinhard
+A1 Gool,Luc,J.,Van
+YR 1998
+T1 3D Structure from Multiple Images of Large-Scale Environments, European Workshop, SMILE'98, Freiburg, Germany, June 6-7, 1998
+
+RT Conference Proceedings
+ID 121781
+A1 Pollefeys,Marc
+A1 Gool,Luc,J.,Van
+YR 1997
+T1 A Stratified Approach to Metric Self-Calibration
+SP 407
+OP 412
+
+RT Conference Proceedings
+ID 581100
+A1 Proesmans,Marc
+A1 Gool,Luc,J.,Van
+YR 1997
+T1 Reading between the lines—a method for extracting dynamic 3D with texture
+SP 95
+OP 102
+
+RT Book, Whole
+ID 588309
+A1 Proesmans,Marc
+A1 Gool,Luc,J.,Van
+YR 1997
+T1 One-shot 3D-shape and Texture Acquisition of Facial Data
+SP 411
+OP 418
+
+RT Conference Proceedings
+ID 50094977
+A1 Tuytelaars,Tinne
+A1 Proesmans,Marc
+A1 Gool,L.,Van
+YR 1997
+T1 The cascaded Hough transform
+
+RT Journal Article
+ID 2759487
+A1 Gool,Luc,Van
+A1 Zisserman,Andrew
+YR 1997
+T1 Automatic 3D model building from video sequences
+JF European Transactions on Telecommunications
+VO 8
+SP 369
+OP 378
+IS 4
+
+RT Journal Article
+ID 1333705
+A1 Pauwels,E.
+A1 Fiddelaers,P.
+A1 Gool,L.,V.
+YR 1997
+T1 Dog-based unsupervized clustering for cbir
+
+RT Journal Article
+ID 3497733
+A1 Hendrickx,M
+A1 Vandekerckhove,J.
+A1 Frere,D.
+A1 Moons,T.
+A1 Gool,L.,Van
+YR 1997
+T1 On the 3D Reconstruction of House Roofs from Aerial Images of Urban Areas
+
+RT Conference Proceedings
+ID 528674
+A1 Tuytelaars,Tinne
+A1 Proesmans,Marc
+A1 Gool,Luc,J.,Van
+YR 1997
+T1 The Cascaded Hough Transforms
+SP 736
+OP 739
+
+RT Book, Whole
+ID 293499
+A1 Tuytelaars,Tinne
+A1 Proesmans,Marc
+A1 Gool,Luc,J.,Van
+YR 1997
+T1 The Cascaded Hough Transform as Support for Grouping and Finding Vanishing Points and Lines
+SP 278
+OP 289
+
+RT Journal Article
+ID 48619096
+A1 Wagemans,Johan
+A1 Lamote,Christian
+A1 Gool,Luc,Van
+YR 1997
+T1 Shape equivalence under perspective and projective transformations
+JF Psychonomic Bulletin & Review
+VO 4
+SP 248
+OP 253
+IS 2
+
+RT Conference Proceedings
+ID 586515
+A1 Gool,Luc,J.,Van
+YR 1997
+T1 A Systematic Approach to Geometric-Based Grouping and Non-accidentalness
+SP 126
+OP 147
+
+RT Book, Whole
+ID 509599
+A1 Gool,Luc,J.,Van
+A1 Moons,Theo
+A1 Ungureanu,Dorin
+YR 1996
+T1 Affine/ Photometric Invariants for Planar Intensity Patterns
+SP 642
+OP 651
+
+RT Book, Whole
+ID 509720
+A1 Pollefeys,Marc
+A1 Gool,Luc,J.,Van
+A1 Proesmans,Marc
+YR 1996
+T1 Euclidean 3D Reconstruction from Image Sequences with Variable Focal Lenghts
+SP 31
+OP 42
+
+RT Conference Proceedings
+ID 1999885
+A1 Pollefeys,Marc
+A1 Gool,L.,Van
+A1 Oosterlinck,A.
+YR 1996
+T1 The modulus constraint: a new constraint self-calibration
+VO 1
+SP 349
+
+RT Conference Proceedings
+ID 506760
+A1 Gool,Luc,J.,Van
+A1 Moons,Theo
+A1 Proesmans,Marc
+YR 1996
+T1 Mirror and Point Symmetry under Perspective Skewing
+SP 285
+OP 292
+
+RT Journal Article
+ID 800669
+A1 Moons,Theo
+A1 Gool,Luc,J.,Van
+A1 Proesmans,Marc
+A1 Pauwels,Eric,J.
+YR 1996
+T1 Affine Reconstruction from Perspective Image Pairs with a Relative Object-Camera Translation in Between
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 18
+SP 77
+OP 83
+IS 1
+
+RT Conference Proceedings
+ID 50058206
+A1 Proesmans,Marc
+A1 Gool,L.,J.,van
+A1 Oosterlinck,A.,J.
+YR 1996
+T1 Active acquisition of 3D shape for moving objects
+
+RT Conference Proceedings
+ID 3519303
+A1 Proesmans,Marc
+A1 Gool,L.,Van
+A1 Oosterlinck,A.
+YR 1996
+T1 One-shot active 3D shape acquisition
+VO 3
+SP 336
+
+RT Conference Proceedings
+ID 2656312
+A1 Proesmans,M.
+A1 Gool,L.,Van
+A1 Oosterlinck,A.
+YR 1996
+T1 Active acquisition of 3d shape for moving objects
+
+RT Journal Article
+ID 408429
+A1 Carlsson,S.
+A1 Mohr,Roger
+A1 Moons,Theo
+A1 Morin,Luce
+A1 Rothwell,Charlie
+A1 Diest,Marc,Van
+A1 Gool,L.
+A1 Veillon,Francoise
+A1 Zisserman,Andrew
+YR 1996
+T1 Semi-local projective invariants for the recognition of smooth plane curves
+JF International Journal of Computer Vision
+VO 19
+SP 211
+OP 236
+IS 3
+
+RT Conference Proceedings
+ID 1948028
+A1 Proesmans,Marc
+A1 Gool,Luc,Van
+A1 Oosterlinck,A.
+YR 1996
+T1 One-shot active range acquisition
+
+RT Journal Article
+ID 38580245
+A1 Wagemans,Johan
+A1 Gool,Luc
+A1 Lamote,Christian
+YR 1996
+T1 THE VISUAL SYSTEM'S MEASUREMENT OF INVARIANTS NEED NOT ITSELF BE INVARIANT
+JF Psychological Science
+VO 7
+SP 232
+OP 236
+IS 4
+
+RT Conference Proceedings
+ID 3519302
+A1 Proesmans,M.
+A1 Gool,L.,V.
+A1 Oosterlinck,A.
+YR 1996
+T1 One-shot ac-tive 3d shape acquization
+
+RT Conference Proceedings
+ID 2026165
+A1 Gool,L.,Van
+A1 Moons,T.
+A1 Ungureanu,D.
+YR 1996
+T1 Geometric/photometric invariants for planar intensity patterns
+
+RT Journal Article
+ID 5937162
+A1 Kukkonen,Heljä,T
+A1 Foster,D.,H.
+A1 Wood,Jonathan,R
+A1 Wagemans,Johan
+A1 Gool,Luc,Van
+YR 1996
+T1 Qualitative cues in the discrimination of affine-transformed minimal patterns
+JF Perception
+VO 25
+SP 195
+OP 206
+IS 2
+
+RT Conference Proceedings
+ID 50061442
+A1 Proesmans,M.
+A1 Gool,L.,Van
+YR 1996
+T1 A sensor that extracts both 3D shape and surface texture
+
+RT Conference Proceedings
+ID 50053748
+A1 Pauwels,E.,J.
+A1 Fiddelaers,P.
+A1 Gool,L.,J.,Van
+YR 1996
+T1 Autonomous grouping of contour-segments using an adaptive region-growing algorithm
+VO 2
+SP 586
+
+RT Journal Article
+ID 13339209
+A1 Moons,Theo
+A1 Gool,Luc,J.,Van
+A1 Pauwels,Eric,J.
+A1 Oosterlinck,André
+YR 1996
+T1 Viewpoint invariant characteristics of articulated objects
+JF Journal of Mathematical Imaging and Vision
+VO 6
+SP 37
+OP 57
+IS 1
+
+RT Book, Whole
+ID 574833
+A1 Gool,Luc,J.,Van
+YR 1996
+T1 Invariants and Fixed Structures Lead the Way to Change
+SP 220
+OP 229
+
+RT Journal Article
+ID 2005380
+A1 Pauwels,Eric,J.
+A1 Moons,Theo
+A1 Gool,Luc,J.,Van
+A1 Kempenaers,P.
+A1 Oosterlinck,André
+YR 1995
+T1 Recognition of planar shapes under affine distortion
+JF International Journal of Computer Vision
+VO 14
+SP 49
+OP 65
+IS 1
+
+RT Journal Article
+ID 2126364
+A1 Moons,Theo
+A1 Pauwels,Eric,J.
+A1 Gool,Luc,J.,Van
+A1 Oosterlinck,André
+YR 1995
+T1 Foundations of semi-differential invariants
+JF International Journal of Computer Vision
+VO 14
+SP 25
+OP 47
+IS 1
+
+RT Journal Article
+ID 799910
+A1 Pauwels,Eric,J.
+A1 Gool,Luc,J.,Van
+A1 Fiddelaers,Peter
+A1 Moons,Theo
+YR 1995
+T1 An Extended Class of Scale-Invariant and Recursive Scale Space Filters
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 17
+SP 691
+OP 701
+IS 7
+
+RT Conference Proceedings
+ID 524019
+A1 Pajdla,Tomás
+A1 Gool,Luc,J.,Van
+YR 1995
+T1 Matching of 3D Curves Using Semi-Differential Invariants
+SP 390
+OP 395
+
+RT Journal Article
+ID 863943
+A1 Gool,Luc,J.,Van
+A1 Moons,Theo
+A1 Pauwels,Eric,J.
+A1 Oosterlinck,André
+YR 1995
+T1 Vision and Lie's approach to invariance
+JF Image and Vision Computing
+VO 13
+SP 259
+OP 277
+IS 4
+
+RT Journal Article
+ID 125958
+A1 Zisserman,Andrew
+A1 Gool,Luc,Van
+A1 Proesmans,Marc
+YR 1995
+T1 Grouping and Invariants using Planar Homologies
+
+RT Book, Whole
+ID 492213
+A1 Pollefeys,Marc
+A1 Gool,Luc,J.,Van
+A1 Moons,Theo
+YR 1995
+T1 Euclidean 3D Reconstruction from Stereo Sequences with Variable Focal Lengths
+SP 405
+OP 413
+
+RT Journal Article
+ID 862261
+A1 Gool,Luc,J.,Van
+A1 Moons,Theo
+A1 Ungureanu,Dorin
+A1 Pauwels,Eric,J.
+YR 1995
+T1 Symmetry From Shape and Shape From Symmetry
+JF International Journal of Robotic Research
+VO 14
+SP 407
+OP 424
+IS 5
+
+RT Book, Whole
+ID 233802
+A1 Pajdla,Tomás
+A1 Gool,Luc,J.,Van
+YR 1995
+T1 Efficient matching of space curves
+SP 25
+OP 32
+
+RT Conference Proceedings
+ID 50035613
+A1 Gool,Luc,Van
+A1 Moons,T.
+A1 Proesmans,M.
+A1 Oosterlinck,A.
+YR 1995
+T1 Groups, fixed sets, symmetries, and invariants
+
+RT Conference Proceedings
+ID 523915
+A1 Pauwels,Eric,J.
+A1 Fiddelaers,Peter
+A1 Gool,Luc,J.,Van
+YR 1995
+T1 Shape Extraction for Curves Using Geometry-Driven Diffusion and Functional Optimization
+SP 396
+OP 401
+
+RT Journal Article
+ID 799662
+A1 Pauwels,Eric,J.
+A1 Fiddelaers,Peter
+A1 Gool,Luc,J.,Van
+YR 1995
+T1 Enhancement of Planar Shape Through Optimization of Functionals for Curves
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 17
+SP 1101
+OP 1105
+IS 11
+
+RT Book, Whole
+ID 497649
+A1 Gool,Luc,J.,Van
+A1 Moons,Theo
+A1 Proesmans,Marc
+YR 1995
+T1 Groups for Grouping: A Strategy for the Exploitation of Geometrical Constraints
+SP 1
+OP 8
+
+RT Book, Whole
+ID 497698
+A1 Ungureanu,Dorin
+A1 Gool,Luc,J.,Van
+A1 Moons,Theo
+A1 Oosterlinck,Andre,J.
+YR 1995
+T1 Visual robot guidance for an insertion task
+VO 2573
+SP 894
+OP 899
+
+RT Book, Whole
+ID 509692
+A1 Proesmans,Marc
+A1 Gool,Luc,J.,Van
+A1 Pauwels,Eric,J.
+A1 Oosterlinck,André
+YR 1994
+T1 Determination of Optical Flow and its Discontinuities using Non-Linear Diffusion
+SP 295
+OP 304
+
+RT Journal Article
+ID 2009526
+A1 Proesmans,M.
+A1 Pauwels,E.
+A1 Gool,L.,Van
+YR 1994
+T1 Coupled geometry-driven diffusion equations for low-level vision
+
+RT Conference Proceedings
+ID 2646294
+A1 Gijbels,T.
+A1 Gool,Luc,Van
+A1 Catthoor,F.
+A1 Man,Hugo,De
+A1 Oosterlinck,Andre
+YR 1994
+T1 A VLSI-architecture for parallel non-linear diffusion with applications in vision
+
+RT Conference Proceedings
+ID 2668529
+A1 Gool,L.,Van
+A1 Moons,T.
+A1 Proesmans,M.
+A1 Diest,M.,Van
+YR 1994
+T1 Affine reconstruction from perspective image pairs obtained by a translating camera
+
+RT Journal Article
+ID 37239927
+A1 Gool,Luc,J,Van
+A1 Moons,Theo
+A1 Pauwels,Eric
+A1 Wagemans,Johan
+YR 1994
+T1 Invariance from the Euclidean geometer's perspective
+JF Perception
+VO 23
+SP 547
+OP 561
+IS 5
+
+RT Conference Proceedings
+ID 49993181
+A1 Zhang,D.
+A1 Gool,L.,Van
+A1 Oosterlinck,A.
+YR 1994
+T1 Coastline detection from SAR images
+
+RT Book, Whole
+ID 509722
+A1 Diest,Marc,Van
+A1 Gool,Luc,J.,Van
+A1 Moons,Theo
+A1 Pauwels,Eric,J.
+YR 1994
+T1 Projective Invariants for Planar Contour Recognition
+SP 527
+OP 534
+
+RT Book, Whole
+ID 509224
+A1 Fiddelaers,Peter
+A1 Pauwels,Eric,J.
+A1 Gool,Luc,J.,Van
+YR 1994
+T1 Geometry-Driven Curve Evolution
+SP 427
+OP 432
+
+RT Journal Article
+ID 13061828
+A1 Bruter,C.,P.
+A1 Gool,Luc,Van
+YR 1994
+T1 On floral symmetries
+JF Acta Biotheoretica
+VO 42
+SP 181
+OP 186
+IS 2
+
+RT Conference Proceedings
+ID 2072755
+A1 Moons,T.
+A1 Gool,L.,Van
+A1 Diest,M.,Van
+A1 Pauwels,E.
+YR 1993
+T1 A ne reconstruction from perspective image pairs
+
+RT Book, Whole
+ID 492729
+A1 Moons,Theo
+A1 Gool,Luc,J.,Van
+A1 Diest,Marc,Van
+A1 Pauwels,Eric,J.
+YR 1993
+T1 Affine Reconstruction from Perspective Image Pairs Obtained by a Translating Camera
+SP 297
+OP 316
+
+RT Journal Article
+ID 3186769
+A1 Wagemans,J.
+A1 Gool,L.,Van
+A1 Swinnen,V.
+A1 Horebeek,J.
+YR 1993
+T1 Higher-order structure in regularity detection
+
+RT Conference Proceedings
+ID 372157
+A1 Zisserman,A.
+A1 Blake,A.
+A1 Rothwell,C.,A.
+A1 Gool,L.,J.,Van
+A1 Diest,M.,Van
+YR 1993
+T1 Eliciting qualitative structure from image curve deformations
+
+RT Book, Whole
+ID 492724
+A1 Gool,Luc,J.,Van
+A1 Moons,Theo
+A1 Diest,Marc,Van
+A1 Pauwels,Eric,J.
+YR 1993
+T1 Matching Perspective Views of Parallel Plane Structures
+SP 165
+OP 184
+
+RT Conference Proceedings
+ID 49979505
+A1 Ungureanu,D.,O.
+A1 Prosmans,M.
+A1 Gool,L.,Van
+A1 Oosterlinck,A.
+A1 Zegers,J.
+A1 Decaluwe,J.
+YR 1993
+T1 A real-time edge linker
+SP 793
+OP 794
+
+RT Conference Proceedings
+ID 49979429
+A1 Proesmans,M.
+A1 Pauwels,E.,J.
+A1 Gool,L.,J.,Van
+A1 Moons,T.
+A1 Oosterlinck,A.
+YR 1993
+T1 Image enhancement using non-linear diffusion
+SP 680
+OP 681
+
+RT Journal Article
+ID 3148716
+A1 Gool,L.,J.,Van
+A1 Moons,T.
+A1 Pauwels,E.
+A1 Oosterlinck,A.
+YR 1992
+T1 Geometric invariance in computer vision
+
+RT Conference Proceedings
+ID 49944555
+A1 Effelterre,T.,Van
+A1 Gool,L.,Van
+A1 Oosterlinck,A.
+YR 1992
+T1 Visual recognition of CAD objects with aspect graphs
+
+RT Conference Proceedings
+ID 49935605
+A1 Moons,T.
+A1 Pauwels,E.,J.
+A1 Gool,L.,Van
+A1 Osterlinck,A.
+YR 1992
+T1 Towards a general framework for feature extraction
+SP 865
+OP 868
+
+RT Conference Proceedings
+ID 49905067
+A1 Gool,L.,Van
+A1 Kempenaers,P.
+A1 Oosterlinck,A.
+YR 1991
+T1 Recognition and semi-differential invariants
+SP 454
+OP 460
+
+RT Journal Article
+ID 48164210
+A1 Wagemans,Johan
+A1 Gool,Luc,Van
+A1 D’ydewalle,Gery
+YR 1991
+T1 Detection of symmetry in tachistoscopically presented dot patterns: Effects of multiple axes and skewing
+JF Attention Perception & Psychophysics
+VO 50
+SP 413
+OP 427
+IS 5
+
+RT Conference Proceedings
+ID 49917301
+A1 Kiss,P.
+A1 Gool,L.,Van
+A1 Vanroose,P.
+A1 Oosterlinck,A.
+YR 1991
+T1 Categorization By Simulated Annealing
+
+RT Conference Proceedings
+ID 49892859
+A1 Gool,L.,Van
+A1 Wagemans,J.
+A1 Vandeneede,J.
+A1 Oosterlinck,A.
+YR 1990
+T1 Similarity extraction and modeling
+
+RT Conference Proceedings
+ID 49895989
+A1 Zhang,D.,B.
+A1 Gool,L.,Van
+A1 Oosterlinck,A.
+YR 1990
+T1 Stochastic predictive control of robot tracking systems with dynamic visual feedback
+
+RT Conference Proceedings
+ID 49867268
+A1 Zhang,D.,B.
+A1 Gool,L.,Van
+A1 Oosterlinck,A.
+YR 1989
+T1 Generalized predictive control of a vision-based tracking system using kalman filtering technique
+
+RT Conference Proceedings
+ID 2382559
+A1 Dewaele,P.
+A1 Gool,L.,Van
+A1 Wambacq,A.
+A1 Oosterlinck,A.
+YR 1988
+T1 Texture inspection with self-adaptive convolution filters
+
+RT Journal Article
+ID 2179093
+A1 Gool,Luc,J.,Van
+A1 Dewaele,P.
+A1 Oosterlinck,André
+YR 1985
+T1 Texture analysis Anno 1983
+JF Graphical Models /graphical Models and Image Processing /computer Vision, Graphics, and Image Processing
+VO 29
+SP 336
+OP 357
+IS 3
+
+RT Journal Article
+ID 14572872
+A1 Akkermans,Michel
+A1 Thillo,Marc,Van
+A1 Gool,Luc,Van
+A1 Oosterlink,André
+YR 1985
+T1 An algorithm for the extraction of linedrawings for polyhedral scenes and their use in stereo vision
+JF Computers in Industry
+VO 6
+SP 151
+OP 161
+IS 3
+
+RT Journal Article
+ID 26047315
+A1 Gool,L.,Van
+A1 Thillo,M.,Van
+A1 Akkermans,M.
+A1 Oosterlinck,A.
+YR 1984
+T1 The creation of line drawings as a basis for feature-based stereo vision
+JF Journal of Robotic Systems
+VO 1
+SP 251
+OP 262
+IS 3
+
+RT Journal Article
+ID 3938697
+A1 Everingham,Mark
+A1 Zisserman,Andrew
+A1 Williams,Chris
+A1 Gool,Luc,Van
+T1 The Pascal Visual Object Classes Challenge 2006 (VOC2006) Results
+
+RT Book, Whole
+ID 48763725
+A1 Moons,Theo
+A1 Frère,David
+A1 Vandekerckhove,Jan
+A1 Gool,Luc,Van
+T1 Automatic modelling and 3D reconstruction of urban house roofs from high resolution aerial imagery
+
+RT Journal Article
+ID 12750696
+A1 Bay,Herbert
+A1 Fasel,Beat
+A1 Gool,Luc,Van
+T1 Interactive Museum Guide: Fast and Robust Recognition of Museum Objects
+
+RT Journal Article
+ID 6929577
+A1 VELTKAMP,REMCO,C.
+A1 BURKHARDT,HANS
+A1 KRIEGEL,HANS-PETER
+A1 Zabulis,Xenophon
+A1 Orphanoudakis,Stelios,C.
+A1 Gool,Luc,Van
+A1 Tuytelaars,Tinne
+A1 Turina,Andreas
+A1 Siggelkow,Sven
+A1 Latecki,Longin,Jan
+A1 Lakaemper,Rolf
+A1 Tanase,Mirela
+A1 Sent,Danielle
+A1 Hornegger,Joachim
+A1 Niemann,Heinrich
+A1 Puzicha,Jan
+T1 STATE-OF-THE-ART IN CONTENT-BASED IMAGE AND VIDEO RETRIEVAL
+
+RT Conference Proceedings
+ID 2378015
+A1 Everingham,Mark
+A1 Gool,Luc,Van
+A1 Williams,Chris
+A1 Zisserman,Andrew
+T1 Pascal Visual Object Classes Challenge Results
+
+RT Journal Article
+ID 11148976
+A1 Bray,Matthieu
+A1 Koller-Meier,Esther
+A1 M,Pascal
+A1 Gool,Luc,Van
+A1 Schraudolph,Nicol,N.
+T1 3D HAND TRACKING BY RAPID STOCHASTIC GRADIENT DESCENT USING A SKINNING MODEL
+
+RT Journal Article
+ID 12471716
+A1 Bay,Herbert
+A1 Fasel,Beat
+A1 Gool,Luc,Van
+T1 Interactive Museum Guide
+
+RT Journal Article
+ID 4686852
+A1 Goedeme,Toon
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,Van
+A1 Vanacker,Gerolf
+A1 Nuttin,Marnix
+T1 Omnidirectional Sparse Visual Path Following with Occlusion-Robust Feature Tracking
+
+RT Journal Article
+ID 2279740
+A1 Jaeggli,Tobias
+A1 Koninckx,Thomas,P.
+A1 Gool,Luc,Van
+T1 Online 3D Acquisition and Model Integration
+
+RT Journal Article
+ID 12933704
+A1 Pollefeys,Marc
+A1 Gool,Luc,Van
+A1 Vergauwen,Maarten
+A1 Cornelis,Kurt
+A1 Verbiest,Frank
+A1 Tops,Jan
+T1 Video-to-3D
+
+RT Journal Article
+ID 43950
+A1 Gool,L.,Van
+A1 Tuytelaars,T.
+A1 Ferrari,V.
+A1 Strecha,C.
+A1 Wyngaerd,J.,Vanden
+A1 Vergauwen,M.
+T1 3D MODELING AND REGISTRATION UNDER WIDE BASELINE CONDITIONS
+
+RT Journal Article
+ID 12080702
+A1 Goedemé,Toon
+A1 Nuttin,Marnix
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,Van
+T1 Markerless Computer Vision Based Localization using Automatically Generated Topological Maps
+
+RT Journal Article
+ID 2352647
+A1 Pollefeys,Marc
+A1 Gool,Luc,Van
+A1 Vergauwen,Maarten
+A1 Cornelis,Kurt
+A1 Verbiest,Frank
+A1 Tops,Jan
+T1 3D CAPTURE OF ARCHAEOLOGY AND ARCHITECTURE WITH A HAND-HELD CAMERA
+
+RT Journal Article
+ID 5197576
+A1 Stalder,Severin
+A1 Grabner,Helmut
+A1 Gool,Luc,Van
+T1 Exploring Context to Learn Scene Specific Object Detectors
+
+RT Journal Article
+ID 10796726
+A1 Pollefeys,Marc
+A1 Gool,Luc,Van
+T1 Visual modeling: from images to images
+JF Journal of Visualization and Computer Animation
+
+RT Journal Article
+ID 120196
+A1 Pollefeys,Marc
+A1 Vergauwen,Maarten
+A1 Gool,Luc,Van
+T1 AUTOMATIC 3D MODELING FROM IMAGE SEQUENCES
+
+RT Journal Article
+ID 120391
+A1 Pollefeys,M.
+A1 Vergauwen,M.
+A1 Verbiest,F.
+A1 Cornelis,K.
+A1 Gool,L.,Van
+T1 From image sequences to 3D models
+
+RT Journal Article
+ID 2344282
+A1 Schouteden,Joris
+A1 Pollefeys,Marc
+A1 Vergauwen,Maarten
+A1 Gool,Luc,Van
+T1 IMAGE-BASED 3D ACQUISITION TOOL FOR ARCHITECTURAL CONSERVATION
+
+RT Journal Article
+ID 12647174
+A1 Nummiaro,Katja
+A1 Koller-Meier,Esther
+A1 Gool,Luc,Van
+T1 An adaptive color-based particle filter
+JF Image and Vision Computing
+
+RT Journal Article
+ID 2352395
+A1 Pollefeys,Marc
+A1 Vergauwen,Maarten
+A1 Cornelis,Kurt
+A1 Verbiest,Frank
+A1 Schouteden,Joris
+A1 Tops,Jan
+A1 Gool,Luc,Van
+T1 3D ACQUISITION OF ARCHAEOLOGICAL HERITAGE FROM IMAGES
+
+RT Journal Article
+ID 11967723
+A1 Scholze,S.
+A1 Moons,T.
+A1 Gool,L.,Van
+T1 A PROBABILISTIC APPROACH TO ROOF EXTRACTION AND RECONSTRUCTION
+
+RT Journal Article
+ID 13065023
+A1 Hendrickx,Marcel
+A1 Vandekerckhove,Jan
+A1 Moons,Theo
+A1 Gool,Luc,Van
+T1 3D RECONSTRUCTION OF HOUSE ROOFS FROM MULTIPLE AERIAL IMAGES OF URBAN AREAS
+
+RT Journal Article
+ID 4605168
+A1 Gool,Luc,Van
+A1 Vergauwen,Maarten
+T1 From a conservationist's point of view
+
+RT Journal Article
+ID 5371923
+A1 Müller,P.
+A1 Ulmer,A.
+A1 Gool,L.,Van
+T1 Automatic reconstruction of Roman housing architecture
+
+RT Conference Proceedings
+ID 10820369
+A1 Fransens,Rik
+A1 Strecha,Christoph
+A1 Gool,Luc,Van
+T1 A Mean Field EM-algorithm for Coherent Occlusion Handling in MAP-Estimation Problems
+
+RT Journal Article
+ID 4525653
+A1 Gool,Luc,Van
+A1 Pollefeys,Marc
+A1 Proesmans,Marc
+A1 Zalesny,Alexey
+T1 The MURALE project: Image-based 3D modeling for archaeology
+
+RT Journal Article
+ID 2292313
+A1 Pollefeys,M.
+A1 Proesmans,M.
+A1 Koch,R.
+A1 Vergauwen,M.
+A1 Gool,L.,Van
+T1 Acquisition of Detailed Models for Virtual Reality
+
+RT Journal Article
+ID 11607763
+A1 Murillo,A.,C.
+A1 Sag,C.
+A1 Guerrero,J.,J.
+A1 ´,T.,Goedem
+A1 Tuytelaars,T.
+A1 Gool,L.,Van
+T1 Hierarchical localization by matching vertical lines in omnidirectional images
+JF Robotics and Autonomous Systems
+
+RT Journal Article
+ID 2917569
+A1 Neubeck,Alexander
+A1 Zalesny,Alexey
+A1 Gool,Luc,van
+T1 Cut-primed smart copying
+
+RT Journal Article
+ID 5611817
+A1 Ferrari,Vittorio
+A1 Tuytelaars,Tinne
+A1 Gool,Luc,Van
+T1 RETRIEVING OBJECTS FROM VIDEOS BASED ON AFFINE REGIONS
+
+RT Journal Article
+ID 5529777
+A1 Vergauwen,M.
+A1 Verbiest,F.
+A1 Ferrari,V.
+A1 Strecha,C.
+A1 Gool,L.,van
+T1 WIDE-BASELINE 3D RECONSTRUCTION FROM DIGITAL STILLS
+
+RT Journal Article
+ID 2310092
+A1 Gool,Luc,Van
+A1 Defoort,Filip
+A1 Hug,Johannes
+A1 Kalberer,Gregor
+A1 Koch,Reinhard
+A1 Martens,Danny
+A1 Pollefeys,Marc
+A1 Proesmans,Marc
+A1 Vergauwen,Maarten
+A1 Zalesny,Alexey
+T1 Image-based 3D modeling: modeling from reality
+
+RT Journal Article
+ID 3397516
+A1 Jaeggli,Tobias
+A1 Koninckx,Thomas,P.
+A1 Gool,Luc,Van
+T1 Model-based Sparse 3D Reconstruction for Online Body Tracking
+
+RT Journal Article
+ID 4909826
+A1 Fransens,R.
+A1 Strecha,C.
+A1 Caenen,G.
+A1 Gool,L.,Van
+T1 A GENERIC APPROACH TOWARDS AUTOMATIC IMAGE CO-REGISTRATION
+
+RT Book, Whole
+ID 48552602
+A1 Waltisberg,Daniel
+A1 Yao,Angela
+A1 Gall,Juergen
+A1 Gool,Luc,Van
+T1 Variations of a Hough-Voting Action Recognition System
+
+RT Conference Proceedings
+ID 11594018
+A1 Osian,M.
+A1 Tuytelaars,T.
+A1 Gool,L.,Van
+T1 Fitting superellipses to incomplete contours
+
+RT Journal Article
+ID 11356338
+A1 Mueller,P.
+A1 Vereenooghe,T.
+A1 Vergauwen,M.
+A1 Gool,L.,Van
+A1 Waelkens,M.
+T1 PHOTO-REALISTIC AND DETAILED 3D MODELING: THE ANTONINE NYMPHAEUM AT SAGALASSOS (TURKEY)
+
+RT Journal Article
+ID 5503551
+A1 Fransens,R.
+A1 Strecha,C.
+A1 Caenen,G.
+A1 Gool,L.,Van
+T1 A GENERIC APPROACH TO IMAGE CO-REGISTRATION
+
+RT Journal Article
+ID 11196611
+A1 Kalberer,Gregor,A.
+A1 Gool,Luc,Van
+T1 Animation Pipeline: Realistic Speech Based on Observed 3D Face Dynamics
+
+RT Journal Article
+ID 4909827
+A1 Strecha,Christoph
+A1 Gool,Luc,Van
+A1 Fu,Pascal
+T1 A GENERATIVE MODEL FOR TRUE ORTHORECTIFICATION
+
+RT Journal Article
+ID 12643482
+A1 Strecha,Christoph
+A1 Verbiest,Frank
+A1 Vergauwen,Maarten
+A1 Gool,Luc,Van
+T1 SHAPE FROM VIDEO V.S. STILL IMAGES
+
+RT Journal Article
+ID 123524
+A1 Vergauwen,Maarten
+A1 Pollefeys,Marc
+A1 Moreas,Ronny
+A1 Xu,Fuyi
+A1 Visentin,Gianfranco
+A1 Gool,Luc,Van
+A1 Brussel,Hendrik,Van
+T1 Calibration, Terrain Reconstruction and Path Planning for a Planetary Exploration System
+
+RT Book, Whole
+ID 48601658
+A1 Gool,Luc,Van
+A1 Merciertaan,Kardinaal
+T1 A systematic approach to geometry-based grouping and non-accidentalness
+
+RT Journal Article
+ID 3016469
+A1 Desmet,Stef
+A1 Deknuydt,Bert
+A1 Gool,Luc,Van
+A1 Eycken,Luc,Van
+T1 EFFICIENT CODING OF NON-STATIC TEXTURE IN 3D SCENES
+
+RT Journal Article
+ID 12340704
+A1 Naef,Martin
+A1 Lamboray,Edouard
+A1 Spagno,Christian
+A1 Andreas,Kunz
+A1 Svoboda,Tomas
+A1 Gool,Luc,Van
+A1 Lang,Silke
+A1 Kai,Strehlke
+A1 Moere,Andrew,Vande
+A1 Staadt,Oliver
+T1 Publications of TomasSvoboda
+
+RT Journal Article
+ID 13032713
+A1 Mohr,R.
+A1 Buschmann,R.
+A1 Falkenhagen,L.
+A1 Gool,L.,Van
+A1 Koch,R.
+T1 Cumuli 1 , Panorama 2 , and Vanguard 3 Project Overview
+
+RT Journal Article
+ID 10602192
+A1 Cootes,Tim
+A1 Ferraria,V.
+A1 Tuytelaars,T.
+A1 Gool,L.,Van
+T1 Some Interesting Papers at ECCV 2004
+
+RT Journal Article
+ID 4580577
+A1 Doubek,Petr
+A1 Svoboda,Tomas
+A1 Nummiaro,Katja
+A1 Koller-Meier,Esther
+A1 Gool,Luc,Van
+T1 Face Tracking in a Multi-Camera Environment
+
+RT Journal Article
+ID 12480027
+A1 Sag,C.
+A1 e,Goedem,´
+A1 Tuytelaars,T.
+A1 Gool,L.,Van
+T1 From omnidirectional images to hierarchical localizationI
+
+RT Book, Whole
+ID 48849125
+A1 Engels,Chris
+A1 Tingdahl,David
+A1 Vercruysse,Mathias
+A1 Tuytelaars,Tinne
+A1 Sahli,Hichem
+A1 Gool,Luc,Van
+T1 Automatic Occlusion Removal from Facades for 3D Urban Reconstruction
+
+RT Journal Article
+ID 12217932
+A1 Nummiaro,Katja
+A1 Fransens,Rik
+A1 Gool,Luc,Van
+T1 Project STAR IST2000-28764 Deliverable D6.3 Enhanced face and arm/hand detector
+
+RT Journal Article
+ID 12814581
+A1 Haegler,Simon
+A1 Yersin,Barbara
+A1 Mueller,Pascal
+A1 Thalmann,Daniel
+A1 Gool,Luc,Van
+T1 PopulatingAncientPompeiiwithCrowdsofVirtualRomans
+
+RT Book, Whole
+ID 48576451
+A1 Koch,R.
+A1 Heigl,B.
+A1 Pollefeys,M.
+A1 Gool,L.,Van
+A1 Niemann,H.
+T1 A Geometric Approach to Light field Calibration
+
+RT Journal Article
+ID 12756856
+A1 Pollefeys,Marc
+A1 Koch,Reinhard
+A1 Vergauwen,Maarten
+A1 Deknuydt,Bert
+A1 Gool,Luc,Van
+T1 to appear proceedings SPIE Electronic Imaging 2000, Three-Dimensional Image Capture and Applications III
+
+RT Journal Article
+ID 14159376
+A1 Verbiest,F.
+A1 Willems,G.
+A1 Pletinckx,D.
+A1 Gool,L.,Van
+T1 Image-based rendering of cultural artifacts
+
+RT Journal Article
+ID 14177494
+A1 Vergauwen,M.
+A1 Pletinckx,D.
+A1 Willems,G.
+A1 Gool,L.,Van
+T1 Landscape reconstruction through image-based rendering
+
+RT Journal Article
+ID 13040319
+A1 Cornelis,Nico
+A1 Leibe,Bastian
+A1 Cornelis,Kurt
+A1 Gool,Luc,Van
+T1 Loops
+
+RT Journal Article
+ID 13497411
+A1 Foglia,François
+A1 Gool,Luc,Van
+T1 IM2 Newsletter
+
+RT Journal Article
+ID 6119552
+A1 Thirion,E.
+A1 Moons,T.
+A1 Gool,L.,Van
+T1 Affine Reconstruction From Lines
+
+RT Book, Whole
+ID 48589671
+A1 Gool,Luc,Van
+A1 Koch,Reinhard
+A1 Moons,Theo
+T1 New techniques for 3D modeling ... ... and for doing without
+
+RT Journal Article
+ID 12143415
+A1 Gool,Luc,Van
+A1 Koninckx,Thomas
+A1 Jaeggli,Tobias
+T1 GETTING TO GRIPS WITH 3D MODELING
+
+RT Journal Article
+ID 11881858
+A1 Pollefeys,Marc
+A1 Gool,Luc,Van
+T1 From Images to 3D Models How computers can automatically build realistic 3D models from images acquired with a hand-held camera
+
+RT Journal Article
+ID 10616167
+A1 Gool,Luc,Van
+T1 Cortina: A System for Large-scale, Content-based Web Image Retrieval and the Semantics within

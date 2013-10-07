@@ -1,0 +1,4980 @@
+RT Journal Article
+ID 61420791
+A1 Adriansyah,Arya
+A1 Munoz-Gama,Jorge
+A1 Carmona,Josep
+A1 Dongen,Boudewijn,F,Van
+A1 Aalst,Wil,M.,P.,van,der
+YR 2013
+T1 Alignment Based Precision Checking
+VO 132
+SP 137
+OP 149
+
+RT Journal Article
+ID 57209926
+A1 Chadwick,Liam
+A1 Fallon,Enda,F.
+A1 Putten,Wil,J.,van,der
+A1 Kirrane,Frank
+YR 2012
+T1 Functional safety of health information technology
+JF Health Informatics Journal
+VO 18
+SP 36
+OP 49
+IS 1
+
+RT Journal Article
+ID 57388538
+A1 Maggi,Fabrizio,Maria
+A1 Westergaard,Michael
+A1 Montali,Marco
+A1 Aalst,Wil,M.,P.,van,der
+YR 2012
+T1 Runtime Verification of LTL-Based Declarative Process Models
+JF Applied Physics B-lasers and Optics
+VO 7186
+
+RT Conference Proceedings
+ID 51200230
+A1 Maggi,Fabrizio,Maria
+A1 Westergaard,Michael
+A1 Montali,Marco
+A1 Aalst,Wil,M.,P.,van,der
+YR 2012
+T1 Runtime Verification of LTL-Based Declarative Process Models
+VO 7186
+
+RT Conference Proceedings
+ID 57388544
+A1 Maggi,Fabrizio,Maria
+A1 Montali,Marco
+A1 Aalst,Wil,M.,P.,van,der
+YR 2012
+T1 An Operational Decision Support Framework for Monitoring Business Constraints
+VO 7212
+
+RT Journal Article
+ID 15228352
+A1 Aalst,Wil,M.,P.,van,der
+A1 Hee,Kees,M.,van
+A1 Hofstede,Arthur,H.,M.,ter
+A1 Sidorova,Natalia
+A1 Verbeek,H.,M.,W.
+A1 Voorhoeve,Marc
+A1 Wynn,Moe,Thandar
+YR 2011
+T1 Soundness of Workflow Nets: Classification, Decidability, and Analysis
+JF Formal Aspects of Computing
+VO 23
+SP 333
+OP 363
+IS 3
+
+RT Journal Article
+ID 51180586
+A1 Rosa,Marcello,La
+A1 Hofstede,Arthur,H.,M.,ter
+A1 Wohed,Petia
+A1 Reijers,Hajo,A.
+A1 Mendling,Jan
+A1 Aalst,Wil,M.,P.,van,der
+YR 2011
+T1 Managing Process Model Complexity via Concrete Syntax Modifications
+JF IEEE Transactions on Industrial Informatics
+VO 7
+SP 255
+OP 265
+IS 2
+
+RT Journal Article
+ID 39322678
+A1 Aalst,Wil,M.,P.,van,der
+A1 Schonenberg,M.,H.
+A1 Song,Minseok
+YR 2011
+T1 Time Prediction Based on Process Mining
+JF Information Systems
+VO 36
+SP 450
+OP 475
+IS 2
+
+RT Journal Article
+ID 39316441
+A1 Huang,Zhengxing
+A1 Aalst,Wil,M.,P.,van,der
+A1 Lu,Xudong
+A1 Duan,Huilong
+YR 2011
+T1 Reinforcement Learning Based Resource Allocation in Business Process Management
+JF Data & Knowledge Engineering
+VO 70
+SP 127
+OP 145
+IS 1
+
+RT Journal Article
+ID 39318172
+A1 Rosa,Marcello,La
+A1 Reijers,Hajo,A.
+A1 Aalst,Wil,M.,P.,van,der
+A1 Dijkman,Remco,M.
+A1 Mendling,Jan
+A1 Dumas,Marlon
+A1 Garcia-Banuelos,L.
+YR 2011
+T1 APROMORE: An Advanced Process Model Repository
+JF Expert Systems With Applications
+VO 38
+SP 7029
+OP 7040
+IS 6
+
+RT Journal Article
+ID 39322677
+A1 Vanderfeesten,Irene,T.,P.
+A1 Reijers,Hajo,A.
+A1 Aalst,Wil,M.,P.,van,der
+YR 2011
+T1 Product-Based Workflow Support
+JF Information Systems
+VO 36
+SP 517
+OP 535
+IS 2
+
+RT Journal Article
+ID 51157467
+A1 Rosa,Marcello,La
+A1 Wohed,Petia
+A1 Mendling,Jan
+A1 Hofstede,Arthur,H.,M.,ter
+A1 Reijers,Hajo,A.
+A1 Aalst,Wil,M.,P.,van,der
+YR 2011
+T1 Managing Process Model Complexity via Abstract Syntax Modifications
+JF IEEE Transactions on Industrial Informatics
+VO 7
+SP 614
+OP 629
+IS 4
+
+RT Journal Article
+ID 14543472
+A1 Aalst,Wil,M.,P.,van,der
+A1 Hee,Kees,M.,van
+A1 Werf,Jan,Martijn,E.,M.,van,der
+A1 Kumar,Akhil
+A1 Verdonk,Marc
+YR 2011
+T1 Conceptual Model for Online Auditing
+JF Decision Support Systems
+VO 50
+SP 636
+OP 647
+IS 3
+
+RT Journal Article
+ID 39328760
+A1 Zha,Haiping
+A1 Aalst,Wil,M.,P.,van,der
+A1 Wang,Jianmin
+A1 Wen,Lijie
+A1 Sun,Jiaguang
+YR 2011
+T1 Verifying Workflow Processes: A Transformation-Based Approach
+JF Software and System Modeling
+VO 10
+SP 253
+OP 264
+IS 2
+
+RT Journal Article
+ID 51200229
+A1 Maggi,Fabrizio,Maria
+A1 Montali,Marco
+A1 Westergaard,Michael
+A1 Aalst,Wil,M.,P.,van,der
+YR 2011
+T1 Monitoring Business Constraints with Linear Temporal Logic: An Approach Based on Colored Automata
+JF Control Engineering Practice
+VO 6896
+
+RT Book, Whole
+ID 48523309
+A1 Fahland,Dirk
+A1 Leoni,Massimiliano,de
+A1 Dongen,Boudewijn,F.,van
+A1 Aalst,Wil,M.,P.,van,der
+YR 2011
+T1 Behavioral Conformance of Artifact-Centric Process Models
+VO 87
+
+RT Book, Whole
+ID 48806852
+A1 Bose,R.,P.,Jagadeesh,Chandra
+A1 Aalst,Wil,M.,P.,van,der
+A1 Zliobaite,I.
+A1 Pechenizkiy,Mykola
+YR 2011
+T1 Handling Concept Drift in Process Mining
+VO 6741
+
+RT Journal Article
+ID 51200250
+A1 Montali,Marco
+A1 Maggi,Fabrizio,Maria
+A1 Chesani,Federico
+A1 Mello,Paola
+A1 Aalst,Wil,M.,P.,van,der
+YR 2011
+T1 Monitoring Business Constraints with the Event Calculus
+
+RT Journal Article
+ID 57388540
+A1 Montali,Marco
+A1 Maggi,Fabrizio,Maria
+A1 Chesani,Federico
+A1 Mello,Paola
+A1 Aalst,Wil,M.,P.,van,der
+YR 2011
+T1 Monitoring Business Constraints with the Event Calculus
+
+RT Journal Article
+ID 39363290
+A1 Zeng,Reng
+A1 He,Xudong
+A1 Aalst,W.,M.,P.,van,der
+YR 2011
+T1 A Method to Mine Workflows from Provenance for Assisting Scientific Workflow Composition
+
+RT Journal Article
+ID 51200199
+A1 Aalst,Wil,M.,P.,van,der
+YR 2011
+T1 Process Mining: Discovering and Improving Spaghetti and Lasagna Processes
+JF Atmospheric Environment
+
+RT Journal Article
+ID 51523885
+A1 Aalst,Wil,M.,P.,van,der
+YR 2011
+T1 Process Mining
+
+RT Journal Article
+ID 5787621
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Rubin,Vladimir
+A1 Verbeek,H.,M.,W.
+A1 Dongen,Boudewijn,F.,Van
+A1 Kindler,Ekkart
+A1 Günther,Christian,W.
+YR 2010
+T1 Process mining: a two-step approach to balance between underfitting and overfitting
+JF Software and System Modeling
+VO 9
+SP 87
+OP 111
+IS 1
+
+RT Journal Article
+ID 5296774
+A1 Aalst,Wil,M.,P.,van,der
+A1 Lohmann,Niels
+A1 Massuthe,Peter
+A1 Stahl,Christian
+A1 Wolf,Karsten
+YR 2010
+T1 Multiparty Contracts: Agreeing and Implementing Interorganizational Processes
+JF The Computer Journal
+VO 53
+SP 90
+OP 106
+IS 1
+
+RT Journal Article
+ID 5273894
+A1 Mendling,Jan
+A1 Reijers,Hajo,A.
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2010
+T1 Seven Process Modeling Guidelines (7PMG)
+JF Information & Software Technology
+VO 52
+SP 127
+OP 136
+IS 2
+
+RT Journal Article
+ID 13286955
+A1 Montali,Marco
+A1 Pesic,Maja
+A1 Aalst,Wil,M.,P.,van,der
+A1 Chesani,Federico
+A1 Mello,Paola
+A1 Storari,Sergio
+YR 2010
+T1 Declarative specification and verification of service choreographies
+JF ACM Transactions on The Web
+VO 4
+SP 1
+OP 62
+IS 1
+
+RT Journal Article
+ID 14001621
+A1 Aalst,Wil,M.,P.,van,der
+A1 Dumas,Marlon
+A1 Gottschalk,Florian
+A1 Hofstede,Arthur,H.,M.,ter
+A1 Rosa,Marcello,La
+A1 Mendling,Jan
+YR 2010
+T1 Preserving Correctness During Business Process Model Configuration
+JF Formal Aspects of Computing
+VO 22
+SP 459
+OP 482
+IS 3-4
+
+RT Book, Whole
+ID 47964851
+A1 Aalst,Wil,M.,P.,van,der
+A1 Nakatumba,Joyce
+A1 Rozinat,Anne
+A1 Russell,Nick
+YR 2010
+T1 Business Process Simulation
+SP 313
+
+RT Conference Proceedings
+ID 39258545
+A1 Adriansyah,A.
+A1 Dongen,Boudewijn,F.,van
+A1 Aalst,Wil,M.,P.,van,der
+YR 2010
+T1 Towards Robust Conformance Checking
+SP 122
+OP 133
+
+RT Book, Whole
+ID 13763617
+A1 Aalst,Wil,M.,P.,van,der
+A1 Pesic,Maja
+A1 Song,Minseok
+YR 2010
+T1 Beyond Process Mining: From the Past to Present and Future
+VO 6051
+SP 38
+OP 52
+
+RT Journal Article
+ID 5818630
+A1 Verbeek,H.,M.,W.
+A1 Wynn,Moe,Thandar
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Hofstede,Arthur,H.,M.,Ter
+YR 2010
+T1 Reduction Rules for Reset/Inhibitor Nets
+JF Journal of Computer and System Sciences
+VO 76
+SP 125
+OP 143
+IS 2
+
+RT Journal Article
+ID 14085741
+A1 Aalst,Wil,M.,P.,van,der
+A1 Bratosin,Carmen
+A1 Sidorova,Natalia
+A1 Trcka,N.
+YR 2010
+T1 A Reference Model for Grid Architectures and its Validation
+JF Concurrency and Computation: Practice and Experience
+VO 22
+SP 1365
+OP 1385
+IS 11
+
+RT Journal Article
+ID 13321426
+A1 Aalst,Wil,M.,P.,van,der
+A1 Hee,Kees,M.,van
+A1 Werf,Jan,Martijn,E.,M.,van,der
+A1 Verdonk,Marc
+YR 2010
+T1 Auditing 2.0: Using Process Mining to Support Tomorrow's Auditor
+JF IEEE Computer
+VO 43
+SP 90
+OP 93
+IS 3
+
+RT Book, Whole
+ID 5912475
+A1 Mans,Ronny,S.
+A1 Russell,Nick,C.
+A1 Aalst,Wil,M.,P.,van,der
+A1 Moleman,Arnold,J.
+A1 Bakker,Piet,J.,M.
+YR 2010
+T1 Schedule-Aware Workflow Management Systems
+VO 6550
+SP 121
+OP 143
+
+RT Book, Whole
+ID 13990473
+A1 Aalst,Wil,M.,P.,van,der
+A1 Lohmann,Niels
+A1 Rosa,Marcello,La
+A1 Xu,Jingxin
+YR 2010
+T1 Correctness Ensuring Process Configuration: An Approach Based on Partner Synthesis
+VO 6336
+SP 95
+OP 111
+
+RT Book, Whole
+ID 39276013
+A1 Vanderfeesten,Irene,T.,P.
+A1 Reijers,Hajo,A.
+A1 Aalst,Wil,M.,P.,van,der
+A1 Vogelaar,JJCL
+YR 2010
+T1 Automatic Support for Product Based Workflow Design: Generation of Process Models from a Product Data Model
+VO 6428
+SP 665
+OP 674
+
+RT Book, Whole
+ID 13763611
+A1 Schonenberg,Helen
+A1 Jian,Jingxian
+A1 Sidorova,Natalia
+A1 Aalst,Wil,M.,P.,van,der
+YR 2010
+T1 Business Trend Analysis by Simulation
+VO 6051
+SP 515
+OP 529
+
+RT Book, Whole
+ID 13995955
+A1 Pesic,Maja
+A1 Bosnacki,Dragan
+A1 Aalst,Wil,M.,P.,van,der
+YR 2010
+T1 Enacting Declarative Languages Using LTL: Avoiding Errors and Improving Performance
+VO 6349
+SP 146
+OP 161
+
+RT Book, Whole
+ID 39258776
+A1 Aalst,Wil,M.,P.,van,der
+YR 2010
+T1 Business Process Simulation Revisited
+VO 63
+SP 1
+OP 14
+
+RT Journal Article
+ID 14002663
+A1 Mans,R.,S.
+A1 Russell,Nick,C.
+A1 Aalst,Wil,M.,P.,van,der
+A1 Moleman,A.,J.
+A1 Bakker,P.,J.,M.
+A1 Jaspers,Monique,W.,M.
+YR 2010
+T1 Proclets in Healthcare
+JF Journal of Biomedical Informatics
+VO 43
+SP 632
+OP 649
+IS 4
+
+RT Journal Article
+ID 15284228
+A1 Mans,Ronny
+A1 Russell,Nick,C.
+A1 Aalst,Wil,M.,P.,van,der
+A1 Bakker,Piet,J.,M.
+A1 Moleman,Arnold,J.
+YR 2010
+T1 Simulation to analyze the impact of a Schedule-Aware Workflow Management System
+JF Transactions of The Society for Modeling and Simulation International
+VO 86
+SP 519
+OP 541
+IS 8-9
+
+RT Journal Article
+ID 13762290
+A1 Wen,Lijie
+A1 Wang,Jianmin
+A1 Aalst,Wil,M.,P.,van,der
+A1 Huang,Biqing
+A1 Sun,Jiaguang
+YR 2010
+T1 Mining Process Models with Prime Invisible Tasks
+JF Data & Knowledge Engineering
+VO 69
+SP 999
+OP 1021
+IS 10
+
+RT Book, Whole
+ID 48484333
+A1 Houy,Constantin
+A1 Fettke,Peter
+A1 Loos,Peter
+A1 Aalst,Wil,M.,P.,van,der
+A1 Krogstie,John
+YR 2010
+T1 BPM-in-the-Large: Towards a Higher Level of Abstraction in Business Process Management
+VO 334
+SP 237
+OP 248
+
+RT Conference Proceedings
+ID 39258549
+A1 Li,Jiafei
+A1 Bose,R.,P.,Jagadeesh,Chandra
+A1 Aalst,Wil,M.,P.,van,der
+YR 2010
+T1 Mining Context-Dependent and Interactive Business Process Maps Using Execution Patterns
+SP 109
+OP 121
+
+RT Journal Article
+ID 51954129
+A1 Mans,Ronny,S.
+A1 Russell,Nick,C.
+A1 Aalst,Wil,M.,P.,van,der
+A1 Moleman,Arnold,J.
+A1 Bakker,Piet,J.,M.
+YR 2010
+T1 Schedule-Aware Workflow Management Systems
+
+RT Book, Whole
+ID 47844230
+A1 Verbeek,H.,M.,W.
+A1 Buijs,Joos,C.,A.,M.
+A1 Dongen,Boudewijn,F.,van
+A1 Aalst,Wil,M.,P.,van,der
+YR 2010
+T1 XES, XESame, and ProM 6
+VO 72
+
+RT Conference Proceedings
+ID 13983139
+A1 Bratosin,Carmen
+A1 Sidorova,Natalia
+A1 Aalst,Wil,M.,P.,van,der
+YR 2010
+T1 Distributed Genetic Process Mining
+SP 1
+OP 8
+
+RT Book, Whole
+ID 39274543
+A1 Bratosin,Carmen
+A1 Sidorova,Natalia
+A1 Aalst,Wil,M.,P.,van,der
+YR 2010
+T1 Discovering Process Models with Genetic Algorithms Using Sampling
+VO 6276
+SP 41
+OP 50
+
+RT Book, Whole
+ID 13990463
+A1 Bose,R.,P.,Jagadeesh,Chandra
+A1 Aalst,Wil,M.,P.,van,der
+YR 2010
+T1 Trace Alignment in Process Mining: Opportunities for Process Diagnostics
+VO 6336
+SP 227
+OP 242
+
+RT Book, Whole
+ID 39276064
+A1 Aalst,Wil,M.,P.,van,der
+YR 2010
+T1 COOPIS'10 Keynote
+SP 4
+OP 5
+
+RT Book, Whole
+ID 39276054
+A1 Aalst,Wil,M.,P.,van,der
+YR 2010
+T1 Configurable Services in the Cloud: Supporting Variability While Enabling Cross-Organizational Process Mining
+VO 6426
+SP 8
+OP 25
+
+RT Journal Article
+ID 6103513
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2009
+T1 Workflow Patterns
+JF American Mathematical Monthly
+SP 3557
+
+RT Journal Article
+ID 6080482
+A1 Wen,Lijie
+A1 Wang,Jianmin
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Huang,Biqing
+A1 Sun,Jiaguang
+YR 2009
+T1 A Novel Approach for Process Mining Based on Event Types
+JF Journal of Intelligent Information Systems
+VO 32
+SP 163
+OP 190
+IS 2
+
+RT Journal Article
+ID 4762952
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Pesic,Maja
+A1 Schonenberg,Helen
+YR 2009
+T1 Declarative Workflows: Balancing Between Flexibility and Support
+JF Computer Science - Research and Development
+VO 23
+SP 99
+OP 113
+IS 2
+
+RT Journal Article
+ID 5171120
+A1 Ouyang,Chun
+A1 Dumas,Marlon
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Hofstede,Arthur,H.,M.,Ter
+A1 Mendling,Jan
+YR 2009
+T1 From Business Process Models to Process-oriented Software Systems
+JF ACM Transactions on Software Engineering and Methodology
+VO 19
+SP 1
+OP 37
+IS 1
+
+RT Book, Whole
+ID 4701910
+A1 Trcka,Nikola
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Sidorova,Natalia
+YR 2009
+T1 DataFlow Anti-Patterns: Discovering DataFlow Errors in Workflows
+VO 5565
+SP 425
+OP 439
+
+RT Journal Article
+ID 5195868
+A1 Rosa,Marcello,La
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Dumas,Marlon
+A1 Hofstede,Arthur,H.,M.,Ter
+YR 2009
+T1 Questionnaire-based Variability Modeling for System Configuration
+JF Software and System Modeling
+VO 8
+SP 251
+OP 274
+IS 2
+
+RT Journal Article
+ID 6101143
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2009
+T1 Business Process Management
+JF American Mathematical Monthly
+SP 289
+
+RT Journal Article
+ID 6102595
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2009
+T1 Process Mining
+JF Journal of Physics D-applied Physics
+SP 2171
+
+RT Book, Whole
+ID 5195721
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Adams,Michael
+A1 Hofstede,Arthur,H.,M.,Ter
+A1 Pesic,Maja
+A1 Schonenberg,Helen
+YR 2009
+T1 Flexibility as a Service
+VO 5667
+SP 319
+OP 333
+
+RT Journal Article
+ID 6078873
+A1 Rozinat,Anne
+A1 Mans,R.,S.
+A1 Song,Minseok
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2009
+T1 Discovering Simulation Models
+JF Information Systems
+VO 34
+SP 305
+OP 327
+IS 3
+
+RT Book, Whole
+ID 4547248
+A1 Mans,Ronny,S.
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Russell,Nick,C.
+A1 Bakker,Piet,J.,M.
+A1 Moleman,Arnold,J.
+A1 Lassen,Kristian,Bisgaard
+A1 Jorgensen,J.,B.
+YR 2009
+T1 From Requirements via Colored Workflow Nets to an Implementation in Several Workflow Systems
+VO 5800
+SP 25
+OP 49
+
+RT Journal Article
+ID 6868692
+A1 Aalst,Wil,M.,P.,van,der
+A1 Dongen,Boudewijn,F.,van
+A1 Günther,Christian,W.
+A1 Rozinat,Anne
+A1 Verbeek,Eric
+A1 Weijters,Ton
+YR 2009
+T1 ProM: The Process Mining Toolkit
+JF Allergy
+
+RT Journal Article
+ID 6072050
+A1 Rozinat,Anne
+A1 Wynn,Moe,Thandar
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Hofstede,Arthur,H.,M.,Ter
+A1 Fidge,Colin,J.
+YR 2009
+T1 Workflow Simulation for Operational Decision Support
+JF Data & Knowledge Engineering
+VO 68
+SP 834
+OP 850
+IS 9
+
+RT Journal Article
+ID 14382291
+A1 Rozinat,Anne
+A1 Jong,Ivo,S.,M.,de
+A1 Günther,Christian,W.
+A1 Aalst,Wil,M.,P.,van,der
+YR 2009
+T1 Process Mining Applied to the Test Process of Wafer Scanners in ASML
+JF IEEE Transactions on Systems, Man, and Cybernetics
+VO 39
+SP 474
+OP 479
+IS 4
+
+RT Journal Article
+ID 5334547
+A1 Lassen,Kristian,Bisgaard
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2009
+T1 Complexity Metrics for Workflow Nets
+JF Information & Software Technology
+VO 51
+SP 610
+OP 626
+IS 3
+
+RT Journal Article
+ID 4764515
+A1 Wynn,Moe,Thandar
+A1 Verbeek,H.,M.,W.
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Hofstede,Arthur,H.,M.,Ter
+A1 Edmond,David
+YR 2009
+T1 Soundness-preserving Reduction Rules for Reset Workflow Nets
+JF Information Sciences
+VO 179
+SP 769
+OP 790
+IS 6
+
+RT Journal Article
+ID 4804544
+A1 Wohed,Petia
+A1 Russell,Nick
+A1 Hofstede,Arthur,H.,M.,Ter
+A1 Andersson,Birger
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2009
+T1 Patterns-based Evaluation of Open Source BPM Systems: The Cases of jBPM, OpenWFE, and Enhydra Shark
+JF Information & Software Technology
+VO 51
+SP 1187
+OP 1216
+IS 8
+
+RT Conference Proceedings
+ID 4729885
+A1 Bose,R.,P.,Jagadeesh,Chandra
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2009
+T1 Context Aware Trace Clustering: Towards Improving Process Mining Results
+SP 401
+OP 412
+
+RT Book, Whole
+ID 6029507
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2009
+T1 Using Process Mining to Generate Accurate and Interactive Business Process Maps
+VO 37
+SP 1
+OP 14
+
+RT Journal Article
+ID 5280905
+A1 Wynn,Moe,Thandar
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Hofstede,Arthur,H.,M.,Ter
+A1 Edmond,David
+YR 2009
+T1 Reduction Rules for YAWL Workflows with Cancellation Regions and OR-join
+JF Information & Software Technology
+VO 51
+SP 1010
+OP 1020
+IS 6
+
+RT Book, Whole
+ID 4730392
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Mooij,Arjan,J.
+A1 Stahl,Christian
+A1 Wolf,Karsten
+YR 2009
+T1 Service Interaction: Patterns, Formalization, and Analysis
+VO 5569
+SP 42
+OP 88
+
+RT Journal Article
+ID 5220141
+A1 Pechenizkiy,Mykola
+A1 Trcka,Nikola
+A1 Vasilyeva,Ekaterina
+A1 Aalst,Wil,M.,P.,van,der
+A1 Bra,Paul,De
+YR 2009
+T1 Process Mining Online Assessment Data
+JF Nuclear Engineering and Design
+SP 279
+OP 288
+
+RT Book, Whole
+ID 4787073
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2009
+T1 Process-Aware Information Systems: Lessons to Be Learned from Process Mining
+VO 5460
+SP 1
+OP 26
+
+RT Book, Whole
+ID 4700925
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Hee,Kees,M.,Van
+A1 Massuthe,Peter
+A1 Sidorova,Natalia
+A1 Werf,Jan,Martijn,E.,M.,Van,Der
+YR 2009
+T1 Compositional Service Trees
+VO 5606
+SP 283
+OP 302
+
+RT Journal Article
+ID 10580383
+A1 Recker,Jan
+A1 Rosemann,Michael
+A1 Aalst,W.M.P.,van,der
+A1 Jansen-Vullers,Monique
+A1 Dreiling,A.
+YR 2009
+T1 Configurable Reference Modeling Languages
+
+RT Book, Whole
+ID 4701887
+A1 Gottschalk,Florian
+A1 Wagemakers,Teun,A.,C.
+A1 Jansen-vullers,Monique,H.
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Rosa,Marcello,La
+YR 2009
+T1 Configurable Process Models: Experiences From a Municipality Case Study
+VO 5565
+SP 486
+OP 500
+
+RT Book, Whole
+ID 4701915
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2009
+T1 TomTom for Business Process Management (TomTom4BPM)
+VO 5565
+SP 2
+OP 5
+
+RT Journal Article
+ID 6101176
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2009
+T1 Business Process Execution Language
+JF American Mathematical Monthly
+SP 288
+
+RT Book, Whole
+ID 6685649
+A1 Günther,Christian,W.
+A1 Rozinat,Anne
+A1 Aalst,Wil,M.,P.,van,der
+YR 2009
+T1 Activity Mining by Global Trace Segmentation
+SP 128
+OP 139
+
+RT Book, Whole
+ID 6091722
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Hee,Kees,M.,Van
+A1 Hofstede,Arthur,H.,M.,Ter
+A1 Sidorova,Natalia
+A1 Verbeek,H.,M.,W.
+A1 Voorhoeve,Marc
+A1 Wynn,Moe,Thandar
+YR 2009
+T1 Soundness of Workflow Nets with Reset Arcs
+VO 5800
+SP 50
+OP 70
+
+RT Book, Whole
+ID 6029640
+A1 Bose,R.,P.,Jagadeesh,Chandra
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2009
+T1 Abstractions in Process Mining: A Taxonomy of Patterns
+VO 5701
+SP 159
+OP 175
+
+RT Journal Article
+ID 6072044
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Mans,R.,S.
+A1 Russell,Nick,C.
+YR 2009
+T1 Workflow Support Using Proclets: Divide, Interact, and Conquer
+JF IEEE Data(base) Engineering Bulletin
+VO 32
+SP 16
+OP 22
+IS 3
+
+RT Book, Whole
+ID 13272053
+A1 Schonenberg,Helen
+A1 Sidorova,Natalia
+A1 Aalst,Wil,M.,P.,van,der
+A1 Hee,Kees,M.,van
+YR 2009
+T1 History-Dependent Stochastic Petri Nets
+SP 366
+OP 379
+
+RT Conference Proceedings
+ID 6599975
+A1 Zapletal,Marco
+A1 Aalst,Wil,M.,P.,van,der
+A1 Russell,Nick
+A1 Liegl,Philipp
+A1 Werthner,Hannes
+YR 2009
+T1 An Analysis of Windows Workflow's Control-Flow Expressiveness
+SP 200
+OP 209
+
+RT Journal Article
+ID 13255490
+A1 Jensen,Kurt
+A1 Aalst,Wil,M.,P.,van,der
+YR 2009
+T1 Transactions on Petri Nets and Other Models of Concurrency II, Special Issue on Concurrency in Process-Aware Information Systems
+
+RT Journal Article
+ID 6102586
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2009
+T1 Petri Nets
+JF American Mathematical Monthly
+SP 2103
+
+RT Book, Whole
+ID 14590091
+A1 Cardoso,Jorge
+A1 Aalst,W.M.P.,van,der
+YR 2009
+T1 Handbook of Research on Business Process Modeling
+
+RT Journal Article
+ID 6103487
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2009
+T1 Workflow Model Analysis
+JF American Mathematical Monthly
+SP 3551
+
+RT Book, Whole
+ID 13287196
+A1 Nakatumba,Joyce
+A1 Aalst,Wil,M.,P.,van,der
+YR 2009
+T1 Analyzing Resource Behavior Using Process Mining
+SP 69
+OP 80
+
+RT Journal Article
+ID 27806562
+A1 Cardoso,Jorge
+A1 Aalst,Wil,van,der
+YR 2009
+T1 Inter-Enterprise System and Application Integration: A Reality Check
+
+RT Book, Whole
+ID 6091725
+A1 Russell,Nick,C.
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Hofstede,Arthur,H.,M.,Ter
+YR 2009
+T1 Designing a Workflow System using Coloured Petri Nets
+VO 5800
+SP 1
+OP 24
+
+RT Journal Article
+ID 4782723
+A1 Koca,Aylin
+A1 Funk,Mathias
+A1 Karapanos,Evangelos
+A1 Rozinat,Anne
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Corporaal,Henk
+A1 Martens,Jean-bernard
+A1 Putten,Piet,Van,Der
+A1 Weijters,A.,J.,M.,M.
+A1 Brombacher,Aarnout
+YR 2009
+T1 Soft Reliability: An Interdisciplinary Approach with a User-System Focus
+JF Quality and Reliability Engineering International
+VO 25
+SP 3
+OP 20
+IS 1
+
+RT Journal Article
+ID 10356755
+A1 Rosa,Marcello,La
+A1 Reijers,Hajo,A.
+A1 Aalst,Wil,M.,P.,van,der
+A1 Dijkman,Remco,M.
+A1 Gar,Luciano
+A1 Mendling,Jan
+A1 Dumas,Marlon
+YR 2009
+T1 APROMORE: An Advanced Process Model Repository
+
+RT Journal Article
+ID 51204208
+A1 Aalst,W.
+A1 Halpin,T.
+A1 Krogstie,J.
+A1 Mylopoulos,J.
+A1 Nurcan,S.
+A1 Sadeh,N.,M.
+A1 Schmidt,R.
+A1 Shaw,M.,J.
+A1 Soffer,P.
+YR 2009
+T1 Enterprise, Business-Process and Information Systems Modeling
+
+RT Conference Proceedings
+ID 11925637
+A1 Cardi,Francesco
+A1 Leoni,Massimiliano,de
+A1 Adams,Michael
+A1 Hofstede,Arthur,H.,M.,ter
+YR 2009
+T1 Visual Support for Work Assignment in YAWL
+VO 489
+
+RT Book, Whole
+ID 13286222
+A1 Netjes,Mariska
+A1 Mans,Ronny,S.
+A1 Reijers,Hajo,A.
+A1 Aalst,Wil,M.,P.,van,der
+A1 Vanwersch,R.,J.,B.
+YR 2009
+T1 BPR Best Practices for the Healthcare Domain
+SP 605
+OP 616
+
+RT Journal Article
+ID 4804037
+A1 Aldred,Lachlan
+A1 Aalst,Wil,M.,P.,van,der
+A1 Dumas,Marlon
+A1 Hofstede,Arthur,H.,M.,ter
+YR 2009
+T1 Dimensions of Coupling in Middleware
+JF Concurrency and Computation: Practice and Experience
+VO 21
+SP 2233
+OP 2269
+IS 18
+
+RT Journal Article
+ID 4763285
+A1 Wynn,Moe,Thandar
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Hofstede,Arthur,H.,M.,Ter
+A1 Edmond,David
+YR 2009
+T1 Synchronization and Cancelation in Workflows Based on Reset Nets
+JF International Journal of Cooperative Information Systems
+VO 18
+SP 63
+OP 114
+IS 1
+
+RT Book, Whole
+ID 4725103
+A1 Funk,Mathias
+A1 Rozinat,Anne
+A1 Medeiros,Ana,Karla,Alves,De
+A1 Putten,Piet,Van,Der
+A1 Corporaal,Henk
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2009
+T1 Improving Product Usage Monitoring and Analysis with Semantic Concepts
+VO 20
+SP 190
+OP 201
+
+RT Journal Article
+ID 5201725
+A1 Aalst,Wil,van,der
+A1 Hee,Kees,van
+A1 Werf,Jan,Martijn,van,der
+A1 Kumar,Akhil
+A1 Verdonk,Marc
+YR 2009
+T1 Conceptual Model for On Line Auditing
+
+RT Book, Whole
+ID 13286935
+A1 Mans,R.,S.
+A1 Aalst,Wil,M.,P.,van,der
+A1 Russell,Nick,C.
+A1 Bakker,Piet,J.,M.
+A1 Moleman,Arnold,J.
+YR 2009
+T1 Process-Aware Information System Development for the Healthcare Domain - Consistency, Reliability, and Effectiveness
+SP 635
+OP 646
+
+RT Conference Proceedings
+ID 50793253
+A1 Trecka,N.
+A1 WMP,Aalst,van,der
+A1 Sidorova,N.
+YR 2009
+T1 Workflow completion patterns
+
+RT Journal Article
+ID 5433709
+A1 ADAMS,MICHAEL
+A1 HOFSTEDE,ARTHUR,TER
+A1 RUSSELL,NICK
+A1 Aalst,W.M.P.,van,der
+YR 2009
+T1 Dynamic and Context-Aware Process Adaptation
+
+RT Conference Proceedings
+ID 13763598
+A1 Pesic,Maja
+A1 Schonenberg,Helen
+A1 Aalst,Wil,M.,P.,van,der
+YR 2009
+T1 DECLARE Demo: A Constraint-based Workflow Management System
+VO 489
+
+RT Book, Whole
+ID 6036258
+A1 Fallon,Enda,F.
+A1 Chadwick,Liam
+A1 Putten,Wil,Van,Der
+YR 2009
+T1 Learning from Risk Assessment in Radiotherapy
+SP 502
+OP 511
+
+RT Book, Whole
+ID 13286922
+A1 Bose,R.,P.,Jagadeesh,Chandra
+A1 Aalst,Wil,M.,P.,van,der
+YR 2009
+T1 Trace Clustering Based on Conserved Patterns: Towards Achieving Better Process Models
+SP 170
+OP 181
+
+RT Book, Whole
+ID 13288986
+A1 Bezerra,Fábio,de,Lima
+A1 Wainer,Jacques
+A1 Aalst,Wil,M.,P.,van,der
+YR 2009
+T1 Anomaly Detection Using Process Mining
+VO 29
+SP 149
+OP 161
+
+RT Journal Article
+ID 39360370
+A1 Cardoso,Jorge
+A1 Aalst,Wil,M.,P.,van,der
+YR 2009
+T1 Path Mining and Process Mining for Workflow Management Systems
+SP 1489
+
+RT Journal Article
+ID 56087226
+A1 Bose,R.,P.,Jagadeesh,Chandra
+A1 Aalst,Wil,M.,P.,van,der
+YR 2009
+T1 Abstractions in Process Mining: A Taxonomy of Patterns
+
+RT Journal Article
+ID 15318225
+A1 Aalst,Wil,van,der
+A1 Hee,Kees,van
+YR 2009
+T1 Gestão de Workflows. Modelos, m'etodos e sistemas
+
+RT Journal Article
+ID 6100971
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2009
+T1 Business Process Modeling Notation
+JF American Mathematical Monthly
+SP 293
+
+RT Journal Article
+ID 4393503
+A1 Rozinat,Anne
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2008
+T1 Conformance Checking of Processes Based on Monitoring Real Behavior
+JF Information Systems
+VO 33
+SP 64
+OP 95
+IS 1
+
+RT Journal Article
+ID 4388919
+A1 Gottschalk,Florian
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Jansen-vullers,Monique,H.
+A1 Rosa,Marcello,La
+YR 2008
+T1 Configurable Workflow Models
+JF International Journal of Cooperative Information Systems
+VO 17
+SP 177
+OP 221
+IS 2
+
+RT Journal Article
+ID 4392252
+A1 Aalst,Wil,M.,P.,van,der
+A1 Lassen,Kristian,Bisgaard
+YR 2008
+T1 Translating Unstructured Workflow Processes to Readable BPEL: Theory and Implementation
+JF Information & Software Technology
+VO 50
+SP 131
+OP 159
+IS 3
+
+RT Journal Article
+ID 4415985
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Dumas,Marlon
+A1 Ouyang,Chun
+A1 Rozinat,Anne
+A1 Verbeek,H.,M.,W.
+YR 2008
+T1 Conformance Checking of Service Behavior
+JF ACM Transactions on Internet Technology
+VO 8
+SP 29
+OP 59
+IS 3
+
+RT Journal Article
+ID 4376376
+A1 Mendling,Jan
+A1 Verbeek,H.,M.,W.
+A1 Dongen,Boudewijn,F.,Van
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Neumann,Gustaf
+YR 2008
+T1 Detection and Prediction of Errors in EPCs of the SAP Reference Model
+JF Data & Knowledge Engineering
+VO 64
+SP 312
+OP 329
+IS 1
+
+RT Journal Article
+ID 4376389
+A1 Medeiros,Ana,Karla,Alves,De
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Weijters,A.,J.,M.,M.
+YR 2008
+T1 Quantifying Process Equivalence Based on Observed Behavior
+JF Data & Knowledge Engineering
+VO 64
+SP 55
+OP 74
+IS 1
+
+RT Journal Article
+ID 4409687
+A1 Rozinat,Anne
+A1 Mans,R.,S.
+A1 Song,Minseok
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2008
+T1 Discovering Colored Petri Nets From Event Logs
+JF International Journal on Software Tools for Technology Transfer
+VO 10
+SP 57
+OP 74
+IS 1
+
+RT Book, Whole
+ID 4239951
+A1 Schonenberg,Helen
+A1 Mans,Ronny
+A1 Russell,Nick
+A1 Mulyar,Nataliya
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2008
+T1 Process Flexibility: A Survey of Contemporary Approaches
+VO 10
+SP 16
+OP 30
+
+RT Book, Whole
+ID 4238811
+A1 Schonenberg,Helen
+A1 Weber,Barbara
+A1 Dongen,Boudewijn,F.,Van
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2008
+T1 Supporting Flexible Processes Through Recommendations Based on History
+VO 5240
+SP 51
+OP 66
+
+RT Journal Article
+ID 4804430
+A1 Günther,C.,W.
+A1 Rinderle-Ma,S
+A1 Reichert,Manfred
+A1 Aalst,Wil,M.P.,Van,Der
+A1 Recker,Jan
+YR 2008
+T1 Using process mining to learn from process changes in evolutionary systems
+JF International Journal of Business Process Integration and Management
+VO 3
+SP 61
+OP 78
+IS 1
+
+RT Book, Whole
+ID 4239865
+A1 Vanderfeesten,Irene,T.,P.
+A1 Reijers,H.,A.
+A1 Mendling,J.
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Cardoso,Jorge
+YR 2008
+T1 On a Quest for Good Process Models: The Cross-Connectivity Metric
+VO 5074
+SP 480
+OP 494
+
+RT Journal Article
+ID 5916894
+A1 Song,Minseok
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2008
+T1 Towards Comprehensive Support for Organizational Mining
+JF Decision Support Systems
+VO 46
+SP 300
+OP 317
+IS 1
+
+RT Journal Article
+ID 4656165
+A1 Vanderfeesten,Irene,T.,P.
+A1 Reijers,Hajo,A.
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2008
+T1 Evaluating Workflow Process Designs using Cohesion and Coupling Metrics
+JF Computers in Industry
+VO 59
+SP 420
+OP 437
+IS 5
+
+RT Book, Whole
+ID 4258488
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Dumas,Marlon
+A1 Gottschalk,Florian
+A1 Hofstede,Arthur,H.,M.,Ter
+A1 Rosa,Marcello,La
+A1 Mendling,Jan
+YR 2008
+T1 Correctness-Preserving Configuration of Business Process Models
+VO 4961
+SP 46
+OP 61
+
+RT Book, Whole
+ID 4239937
+A1 Russell,Nick
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2008
+T1 Work Distribution and Resource Management in BPEL4People: Capabilities and Opportunities
+VO 5074
+SP 94
+OP 108
+
+RT Book, Whole
+ID 5260331
+A1 Song,Minseok
+A1 Günther,Christian,W.
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2008
+T1 Trace Clustering in Process Mining
+SP 109
+OP 120
+
+RT Book, Whole
+ID 4305984
+A1 Dongen,Boudewijn,F.,Van
+A1 Crooy,R.,A.
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2008
+T1 Cycle Time Prediction: When Will This Case Finally Be Finished?
+VO 5331
+SP 319
+OP 336
+
+RT Journal Article
+ID 4409678
+A1 Gottschalk,Florian
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Jansen-vullers,Monique,H.
+A1 Verbeek,H.,M.,W.
+YR 2008
+T1 Protos2CPN: Using Colored Petri Nets for Configuring and Testing Business Processes
+JF International Journal on Software Tools for Technology Transfer
+VO 10
+SP 95
+OP 111
+IS 1
+
+RT Book, Whole
+ID 4239848
+A1 Vanderfeesten,Irene,T.,P.
+A1 Reijers,Hajo,A.
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2008
+T1 Product Based Workflow Support: Dynamic Workflow Execution
+VO 5074
+SP 571
+OP 574
+
+RT Book, Whole
+ID 4238824
+A1 Rozinat,Anne
+A1 Wynn,Moe,Thandar
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Hofstede,Arthur,H.,M.,Ter
+A1 Fidge,Colin,J.
+YR 2008
+T1 Workflow Simulation for Operational Decision Support Using Design, Historic and State Information
+VO 5240
+SP 196
+OP 211
+
+RT Book, Whole
+ID 4238802
+A1 Leoni,Massimiliano,De
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Hofstede,Arthur,H.,M.,Ter
+YR 2008
+T1 Visual Support for Work Assignment in Process-Aware Information Systems
+VO 5240
+SP 67
+OP 83
+
+RT Journal Article
+ID 6072268
+A1 Dreiling,Alexander
+A1 Rosemann,Michael
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Sadiq,Wasim
+YR 2008
+T1 From Conceptual Process Models to Running Systems: A Holistic Approach for the Configuration of Enterprise System Processes
+JF Decision Support Systems
+VO 45
+SP 189
+OP 207
+IS 2
+
+RT Book, Whole
+ID 4740814
+A1 Mans,R.,S.
+A1 Schonenberg,Helen
+A1 Song,Minseok
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Bakker,Piet,J.,M.
+YR 2008
+T1 Application of Process Mining in Healthcare - A Case Study in a Dutch Hospital
+SP 425
+OP 438
+
+RT Book, Whole
+ID 4306014
+A1 Bratosin,Carmen
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Sidorova,Natalia
+A1 Trcka,Nikola
+YR 2008
+T1 A Reference Model for Grid Architectures and its Analysis
+VO 5331
+SP 898
+OP 913
+
+RT Book, Whole
+ID 4306115
+A1 Gottschalk,Florian
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Jansen-vullers,Monique,H.
+YR 2008
+T1 Merging Event-driven Process Chains
+VO 5331
+SP 418
+OP 426
+
+RT Conference Proceedings
+ID 4239888
+A1 Schonenberg,Helen
+A1 Mans,Ronny
+A1 Russell,Nick
+A1 Mulyar,Nataliya
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2008
+T1 Towards a Taxonomy of Process Flexibility
+VO 344
+SP 81
+OP 84
+
+RT Journal Article
+ID 4409682
+A1 Jørgensen,Jens,Bæk
+A1 Lassen,Kristian,Bisgaard
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2008
+T1 From task descriptions via colored Petri nets towards an implementation of a new electronic patient record workflow system
+JF International Journal on Software Tools for Technology Transfer
+VO 10
+SP 15
+OP 28
+IS 1
+
+RT Journal Article
+ID 5384154
+A1 Trcka,Nikola
+A1 WMP,Aalst,van,der
+A1 Sidorova,Natalia
+YR 2008
+T1 Analyzing control-flow and data-flow in workflow processes in a unified way
+
+RT Journal Article
+ID 4499640
+A1 Jorgensen,J.,B.
+A1 Lassen,Kristian,Bisgaard
+A1 Aalst,Wil,M.,P.,van,der
+YR 2008
+T1 From Task Descriptions via Coloured Petri Nets Towards an Implementation of a New Electronic Patient Record
+VO 10
+SP 15
+OP 28
+
+RT Conference Proceedings
+ID 5965388
+A1 Mans,Ronny
+A1 Schonenberg,Helen
+A1 Leonardi,Giorgio
+A1 Panzarasa,Silvia
+A1 Cavallini,Anna
+A1 Quaglini,Silvana
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2008
+T1 Process Mining Techniques: An Application to Stroke Care
+VO 136
+SP 573
+OP 578
+
+RT Journal Article
+ID 4440981
+A1 Mendling,Jan
+A1 Dongen,Boudewijn,F.,Van
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2008
+T1 Getting rid of OR-joins and Multiple Start Events in Business Process Models
+JF Enterprise Information Systems
+VO 2
+SP 403
+OP 419
+IS 4
+
+RT Conference Proceedings
+ID 4726806
+A1 Kharbili,Marwane,El
+A1 Medeiros,Ana,Karla,A.,De
+A1 Stein,Sebastian
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2008
+T1 Business Process Compliance Checking: Current State and Future Challenges
+SP 107
+OP 113
+
+RT Journal Article
+ID 4344063
+A1 Mans,R.,S.
+A1 Schonenberg,M.,H.
+A1 Song,Minseok
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Bakker,Piet,J.,M.
+YR 2008
+T1 Process Mining in Healthcare: A Case Study
+JF Allergy
+SP 118
+OP 125
+
+RT Book, Whole
+ID 4239859
+A1 Wohed,Petia
+A1 Russell,Nick
+A1 Hofstede,Arthur,H.,M.,Ter
+A1 Andersson,Birger
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2008
+T1 Open Source Workflow: A Viable Direction for BPM?
+VO 5074
+SP 583
+OP 586
+
+RT Conference Proceedings
+ID 6052214
+A1 Günther,Christian,W.
+A1 Reichert,Manfred
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2008
+T1 Supporting Flexible Processes with Adaptive Workflow and Case Handling
+SP 229
+OP 234
+
+RT Journal Article
+ID 4376269
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2008
+T1 Process Mining in Web Services: The WebSphere Case
+JF IEEE Data(base) Engineering Bulletin
+VO 31
+SP 45
+OP 48
+IS 3
+
+RT Book, Whole
+ID 4305690
+A1 Trcka,Nikola
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Bratosin,Carmen
+A1 Sidorova,Natalia
+YR 2008
+T1 Evaluating a Data Removal Strategy for Grid Environments Using Colored Petri Nets
+VO 5401
+SP 538
+OP 541
+
+RT Book, Whole
+ID 4261953
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2008
+T1 Discovery, Verification and Conformance of Workflows with Cancellation
+VO 5214
+SP 18
+OP 37
+
+RT Book, Whole
+ID 6029623
+A1 Mans,R.,S.
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Russell,Nick
+A1 Bakker,Piet,J.,M.
+YR 2008
+T1 Flexibility Schemes for Workflow Management Systems
+SP 361
+OP 372
+
+RT Book, Whole
+ID 12782907
+A1 Aalst,Wil,M.,P.,van,der
+YR 2008
+T1 Decision Support Based on Process Mining
+JF Decision Support Systems
+SP 637
+
+RT Journal Article
+ID 5285466
+A1 Netjes,Mariska
+A1 Reijers,Hajo,A.
+A1 Aalst,Wil,M.,P.,van,der
+YR 2008
+T1 The creation of process redesigns by selecting, transforming and replacing process parts
+
+RT Book, Whole
+ID 6029576
+A1 Netjes,Mariska
+A1 Reijers,Hajo,A.
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2008
+T1 On the Formal Generation of Process Redesigns
+SP 224
+OP 235
+
+RT Journal Article
+ID 4761686
+A1 Hee,Kees,M.,Van
+A1 Serebrenik,Alexander
+A1 Sidorova,Natalia
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2008
+T1 Working with the Past: Integrating History in Petri Nets
+JF Fundamenta Informaticae
+VO 88
+SP 387
+OP 409
+IS 3
+
+RT Journal Article
+ID 13255489
+A1 Jensen,Kurt
+A1 Aalst,Wil,M.,P.,van,der
+A1 Billington,Jonathan
+YR 2008
+T1 Transactions on Petri Nets and Other Models of Concurrency I
+JF Nederlands Tijdschrift Voor Geneeskunde
+
+RT Journal Article
+ID 44245063
+A1 O'Shea,Tuathan
+A1 Foley,Mark,J
+A1 Rajasekar,David
+A1 Downes,Patrick,A
+A1 Putten,Wil,Van,der
+A1 Moore,Margaret
+A1 Shearer,Andrew
+YR 2008
+T1 Electron beam therapy at extended SSD: A Monte Carlo investigation
+JF Journal of Applied Clinical Medical Physics
+VO 9
+IS 4
+
+RT Book, Whole
+ID 4787066
+A1 Pretorius,A.,Johannes
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Wijk,Jarke,J.,Van
+YR 2008
+T1 Assessing State Spaces Using Petri-Net Synthesis and Attribute-Based Visualization
+VO 5100
+SP 152
+OP 171
+
+RT Journal Article
+ID 5828122
+A1 Kannan,Venkatesh
+A1 Aalst,Wil,M.,P.,van,der
+A1 Voorhoeve,Marc
+YR 2008
+T1 Formal Modeling and Analysis by Simulation of Data Paths in Digital Document Printers
+VO 588
+
+RT Book, Whole
+ID 4306202
+A1 Gottschalk,Florian
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Jansen-vullers,Monique,H.
+YR 2008
+T1 Mining Reference Process Models and their Configurations
+VO 5333
+SP 263
+OP 272
+
+RT Journal Article
+ID 39347713
+A1 Aalst,Wil,M.,P.,van,der
+A1 Nikolov,Andriy
+YR 2008
+T1 Mining E-Mail Messages: Uncovering Interaction Patterns and Processes using E-mail Logs
+JF International Journal of Intelligent Information Technologies
+VO 4
+SP 27
+OP 45
+IS 3
+
+RT Journal Article
+ID 15318243
+A1 Cardoso,Jorge
+A1 Aalst,Wil,van,der
+YR 2008
+T1 Path Mining and Process Mining for Workflow Management Systems
+
+RT Journal Article
+ID 50722396
+A1 Trcka,N.
+A1 Sidorova,Natalia
+A1 Aalst,Wil,van,der
+YR 2008
+T1 Soundness and Niceness as Correctness Criteria for Grid Workflows
+
+RT Journal Article
+ID 4751850
+A1 Mendling,Jan
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2008
+T1 Advanced Reduction Rules for the Verification of EPC Business Process Models
+SP 129
+
+RT Journal Article
+ID 5334521
+A1 Russell,Nick
+A1 Aalst,Wil,M.,P.,van,der
+YR 2008
+T1 Workflow Resource Patterns as a Tool to Support OASIS BPEL4People Standardization Efforts
+VO 6
+
+RT Journal Article
+ID 4791598
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2008
+T1 Process-Aware Information Systems: Design, Enactment, and Analysis
+
+RT Journal Article
+ID 4406786
+A1 Ouyang,Chun
+A1 Breutel,S.
+A1 Dumas,M.
+A1 Hofstede,A.,H.,M.,ter
+A1 Verbeek,H.,M.,W.
+YR 2007
+T1 Formal Semantics and Analysis of Control Flow in WS-BPEL
+JF Science of Computer Programming
+VO 67
+SP 162
+OP 198
+IS 2-3
+
+RT Journal Article
+ID 2505041
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Reijers,Hajo,A.
+A1 Weijters,A.,J.,M.,M.
+A1 Dongen,Boudewijn,F.,Van
+A1 Medeiros,Ana,Karla,Alves,De
+A1 Song,Minseok
+YR 2007
+T1 Business Process Mining: An Industrial Application
+JF Information Systems
+VO 32
+SP 713
+OP 732
+IS 5
+
+RT Journal Article
+ID 2505009
+A1 Rosemann,Michael
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2007
+T1 A Configurable Reference Modelling Language
+JF Information Systems
+VO 32
+SP 1
+OP 23
+IS 1
+
+RT Book, Whole
+ID 2417033
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Dongen,Boudewijn,F.,Van
+A1 Günther,Christian,W.
+A1 Mans,R.,S.
+A1 Medeiros,Ana,Karla,Alves,De
+A1 Rozinat,Anne
+A1 Rubin,Vladimir
+A1 Song,Minseok
+A1 Weijters,A.,J.,M.,M.
+YR 2007
+T1 ProM 4.0: Comprehensive Support for Real Process Analysis
+SP 484
+OP 494
+
+RT Book, Whole
+ID 4238728
+A1 Günther,Christian,W.
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2007
+T1 Fuzzy Mining - Adaptive Process Simplification Based on Multi-perspective Metrics
+SP 328
+OP 343
+
+RT Book, Whole
+ID 4305809
+A1 Pesic,Maja
+A1 Schonenberg,M.,H.
+A1 Sidorova,Natalia
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2007
+T1 Constraint-Based Workflow Models: Change Made Easy
+VO 4803
+SP 77
+OP 94
+
+RT Journal Article
+ID 2500036
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Rosemann,Michael
+A1 Dumas,Marlon
+YR 2007
+T1 Deadline-based Escalation in Process-Aware Information Systems
+JF Decision Support Systems
+VO 43
+SP 492
+OP 511
+IS 2
+
+RT Journal Article
+ID 4375432
+A1 Medeiros,Ana,Karla,A.,De
+A1 Weijters,A.,J.,M.,M.
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2007
+T1 Genetic Process Mining: An Experimental Evaluation
+JF Data Mining and Knowledge Discovery
+VO 14
+SP 245
+OP 304
+IS 2
+
+RT Journal Article
+ID 4535408
+A1 Dongen,Boudewijn,F.,Van
+A1 Jansen-vullers,Monique,H.
+A1 Verbeek,H.,M.,W.
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2007
+T1 Verification of the SAP Reference Models Using EPC Reduction, State-space Analysis, and Invariants
+JF Computers in Industry
+VO 58
+SP 578
+OP 601
+IS 6
+
+RT Book, Whole
+ID 4305996
+A1 Medeiros,Ana,Karla,Alves,De
+A1 Pedrinaci,Carlos
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Domingue,John
+A1 Song,Minseok
+A1 Rozinat,Anne
+A1 Norton,Barry
+A1 Cabral,Liliana
+YR 2007
+T1 An Outlook on Semantic Business Process Mining and Monitoring
+VO 4806
+SP 1244
+OP 1255
+
+RT Journal Article
+ID 4473647
+A1 Mulyar,Nataliya
+A1 Aalst,Wil,M.,P.,van,der
+A1 Peleg,Mor
+YR 2007
+T1 A Pattern-based Analysis of Clinical Computer-Interpretable Guideline Modeling Languages
+JF Journal of The American Medical Informatics Association
+VO 14
+SP 781
+IS 6
+
+RT Book, Whole
+ID 2419343
+A1 Mendling,Jan
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2007
+T1 Formalization and Verification of EPCs with OR-Joins Based on State and Context
+VO 4495
+SP 439
+OP 453
+
+RT Journal Article
+ID 4363196
+A1 Verbeek,H.,M.,W.
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Hofstede,Arthur,H.,M.,Ter
+YR 2007
+T1 Verifying Workflows with Cancellation Regions and OR-joins: An Approach Based on Relaxed Soundness and Invariants
+JF The Computer Journal
+VO 50
+SP 294
+OP 314
+IS 3
+
+RT Conference Proceedings
+ID 4255077
+A1 Pesic,Maja
+A1 Schonenberg,Helen
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2007
+T1 DECLARE: Full Support for Loosely-Structured Processes
+SP 287
+OP 300
+
+RT Journal Article
+ID 4377118
+A1 Liu,E.
+A1 Kumar,Akhil
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2007
+T1 A Formal Modeling Approach for Supply Chain Event Management
+JF Decision Support Systems
+VO 43
+SP 761
+OP 778
+IS 3
+
+RT Conference Proceedings
+ID 4231508
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Günther,Christian,W.
+YR 2007
+T1 Finding Structure in Unstructured Processes: The Case for Process Mining
+SP 3
+OP 12
+
+RT Journal Article
+ID 4375443
+A1 Wen,Lijie
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Wang,Jianmin
+A1 Sun,Jiaguang
+YR 2007
+T1 Mining Process Models with Non-Free-Choice Constructs
+JF Data Mining and Knowledge Discovery
+VO 15
+SP 145
+OP 180
+IS 2
+
+RT Book, Whole
+ID 4305779
+A1 Adams,Michael
+A1 Hofstede,Arthur,H.,M.,Ter
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Edmond,David
+YR 2007
+T1 Dynamic, Extensible and Context-Aware Exception Handling for Workflows
+VO 4803
+SP 95
+OP 112
+
+RT Book, Whole
+ID 2458835
+A1 Rubin,Vladimir
+A1 Gunther,C.,W.
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Kindler,Ekkart
+A1 Dongen,Boudewijn,F.,Van
+A1 Schafer,W.
+YR 2007
+T1 Process Mining Framework for Software Processes
+VO 4470
+SP 169
+OP 181
+
+RT Book, Whole
+ID 4547535
+A1 Gottschalk,Florian
+A1 Aalst,Wil,M.,P.,van,der
+A1 Jansen-Vullers,H.,M.
+YR 2007
+T1 Configurable Process Models: A Foundational Approach
+SP 59
+
+RT Book, Whole
+ID 4305811
+A1 Mendling,Jan
+A1 Neumann,Gustaf
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2007
+T1 Understanding the Occurrence of Errors in Process Models Based on Metrics
+VO 4803
+SP 113
+OP 130
+
+RT Journal Article
+ID 27806573
+A1 Vanderfeesten,Irene
+A1 Cardoso,Jorge
+A1 Mendling,Jan
+A1 Reijers,Hajo,A.
+A1 Aalst,W.M.P.,van,der
+YR 2007
+T1 Quality Metrics for Business Process Models
+JF IEEE Transactions on Software Engineering
+SP 179
+
+RT Journal Article
+ID 2494361
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Benatallah,Boualem
+A1 Casati,Fabio
+A1 Curbera,Francisco
+A1 Verbeek,H.,M.,W.
+YR 2007
+T1 Business Process Management: Where Business Processes and Web Services Meet
+JF Data & Knowledge Engineering
+VO 61
+SP 1
+OP 5
+IS 1
+
+RT Book, Whole
+ID 4238790
+A1 Medeiros,Ana,Karla,Alves,De
+A1 Guzzo,Antonella
+A1 Greco,Gianluigi
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Weijters,A.,J.,M.,M.
+A1 Dongen,Boudewijn,F.,Van
+A1 Sacca,D.
+YR 2007
+T1 Process Mining Based on Clustering: A Quest for Precision
+SP 17
+OP 29
+
+RT Journal Article
+ID 5072559
+A1 Wohed,Petia
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Dumas,Marlon
+A1 Hofstede,Arthur,H.,m.,Ter
+A1 Russell,Nick
+YR 2007
+T1 Pattern-based Analysis of BPMN
+
+RT Book, Whole
+ID 4326646
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Lohmann,Niels
+A1 Massuthe,Peter
+A1 Stahl,Christian
+A1 Wolf,Karsten
+YR 2007
+T1 From Public Views to Private Views: Correctness-by-Design for Services
+SP 139
+OP 153
+
+RT Book, Whole
+ID 4238777
+A1 Rosa,Marcello,La
+A1 Gottschalk,Florian
+A1 Dumas,Marlon
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2007
+T1 Linking Domain Models and Process Models for Reference Model Configuration
+SP 417
+OP 430
+
+RT Journal Article
+ID 4395950
+A1 Leonardi,Giorgio
+A1 Panzarasa,Silvia
+A1 Quaglini,Silvana
+A1 Stefanelli,Mario
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2007
+T1 Interacting Agents through a Web-based Health Serviceflow Management System
+JF Journal of Biomedical Informatics
+VO 40
+SP 486
+OP 499
+IS 5
+
+RT Book, Whole
+ID 2417042
+A1 Hee,Kees,M.,Van
+A1 Serebrenik,Alexander
+A1 Sidorova,Natalia
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2007
+T1 History-Dependent Petri Nets
+VO 4546
+SP 164
+OP 183
+
+RT Book, Whole
+ID 4238769
+A1 Rozinat,Anne
+A1 Medeiros,Ana,Karla,Alves,De
+A1 Günther,Christian,W.
+A1 Weijters,A.,J.,M.,M.
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2007
+T1 The Need for a Process Mining Evaluation Framework in Research and Practice
+SP 84
+OP 89
+
+RT Journal Article
+ID 4547715
+A1 Rinderle-Ma,Stefanie
+A1 Aalst,Wil,M.,P.,van,der
+YR 2007
+T1 Life-Cycle Support for Staff Assignment Rules in Process-Aware Information Systems
+
+RT Book, Whole
+ID 4238763
+A1 Mulyar,Nataliya
+A1 Pesic,Maja
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Peleg,Mor
+YR 2007
+T1 Declarative and Procedural Approaches for Modelling Clinical Guidelines: Addressing Flexibility Issues
+SP 335
+OP 346
+
+RT Conference Proceedings
+ID 4254969
+A1 Mendling,Jan
+A1 Dongen,Boudewijn,F.,Van
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2007
+T1 Getting Rid of the OR-Join in Business Process Models
+SP 3
+OP 14
+
+RT Journal Article
+ID 4357256
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2007
+T1 Exploring the CSCW Spectrum Using Process Mining
+JF Advanced Engineering Informatics
+VO 21
+SP 191
+OP 199
+IS 2
+
+RT Conference Proceedings
+ID 4272915
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2007
+T1 Trends in Business Process Analysis: From Verification to Process Mining
+SP 5
+OP 9
+
+RT Journal Article
+ID 4556388
+A1 Bratosin,Carmen
+A1 Aalst,W.M.P.,van,der
+A1 Sidorova,Natalia
+YR 2007
+T1 Modeling Grid Workflows with Colored Petri Nets
+VO 584
+
+RT Book, Whole
+ID 4238727
+A1 Gottschalk,Florian
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Jansen-vullers,Monique,H.
+YR 2007
+T1 SAP WebFlow Made Configurable: Unifying Workflow Templates into a Configurable Model
+VO 4714
+SP 262
+OP 270
+
+RT Book, Whole
+ID 2419324
+A1 Aldred,Lachlan
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Dumas,Marlon
+A1 Hofstede,Arthur,H.,M.,Ter
+YR 2007
+T1 Communication Abstractions for Distributed Business Processes
+VO 4495
+SP 409
+OP 423
+
+RT Conference Proceedings
+ID 4255633
+A1 Mendling,Jan
+A1 Dongen,Boudewijn,F.,Van
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2007
+T1 On the Degree of Behavioral Similarity between Business Process Models
+SP 39
+OP 58
+
+RT Conference Proceedings
+ID 4273146
+A1 Netjes,Mariska
+A1 Mansar,Selma,Limam
+A1 Reijers,Hajo,A.
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2007
+T1 An Evolutionary Approach for Business Process Redesign - Towards an Intelligent System
+SP 47
+OP 54
+
+RT Journal Article
+ID 4409652
+A1 Pesic,Maja
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2007
+T1 Modelling work distribution mechanisms using Colored Petri Nets
+JF International Journal on Software Tools for Technology Transfer
+VO 9
+SP 327
+OP 352
+IS 3-4
+
+RT Book, Whole
+ID 4273793
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2007
+T1 Challenges in Business Process Analysis
+SP 27
+OP 42
+
+RT Journal Article
+ID 4542141
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Pesic,Maja
+YR 2007
+T1 Specifying and Monitoring Service Flows: Making Web Services Process-Aware
+JF IEEE Transactions on Software Engineering
+SP 11
+OP 55
+
+RT Book, Whole
+ID 4273800
+A1 Vanderfeesten,Irene,T.,P.
+A1 Reijers,Hajo,A.
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2007
+T1 Case Handling Systems as Product Based Workflow Design Support
+SP 187
+OP 198
+
+RT Book, Whole
+ID 4238784
+A1 Wynn,Moe,Thandar
+A1 Dumas,Marlon
+A1 Fidge,Colin,J.
+A1 Hofstede,Arthur,H.,M.,Ter
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2007
+T1 Business Process Simulation for Operational Decision Support
+SP 66
+OP 77
+
+RT Journal Article
+ID 4255829
+A1 Mendling,Jan
+A1 Neumann,Gustaf
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2007
+T1 On the Correlation between Process Model Metrics and Errors
+JF IEEE Journal of Solid-state Circuits
+VO 83
+SP 173
+OP 178
+
+RT Journal Article
+ID 4529809
+A1 Rouibah,K.
+A1 Rouibah,S.
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2007
+T1 Combining Workflow and PDM Based on the Workflow Management Coalition and STEP standards: The Case of Axalant
+JF International Journal of Computer Integrated Manufacturing
+VO 20
+SP 811
+OP 827
+IS 8
+
+RT Book, Whole
+ID 4305766
+A1 Mulyar,Nataliya
+A1 Aldred,Lachlan
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2007
+T1 The Conceptualization of a Configurable Multi-party Multi-message Request-Reply Conversation
+VO 4803
+SP 735
+OP 753
+
+RT Book, Whole
+ID 4273700
+A1 Cardoso,Jorge
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Bussler,Christoph
+A1 Sheth,Amit,P.
+A1 Sandkuhl,Kurt
+YR 2007
+T1 Inter-enterprise System and Application Integration: A Reality Check
+SP 3
+OP 15
+
+RT Journal Article
+ID 14012246
+A1 Russell,Nick
+A1 Aalst,Wil,M.,P.,van,der
+A1 Hofstede,A.,H.,M.,ter
+YR 2007
+T1 All That Glitters Is Not Gold: Selecting the Right Tool for Your BPM Needs
+JF Cutter It Journal-the Journal of Information Technology Management
+VO 20
+SP 31
+IS 11
+
+RT Book, Whole
+ID 4273795
+A1 Netjes,Mariska
+A1 Mansar,Selma,Limam
+A1 Reijers,Hajo,A.
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2007
+T1 Performing Business Process Redesign with Best Practices: An Evolutionary Approach
+SP 199
+OP 211
+
+RT Conference Proceedings
+ID 50599482
+A1 Pesic,Maja
+A1 Schonenberg,Helen
+A1 Aalst,Wil,M.,P.,van,der
+YR 2007
+T1 DECLARE: Full Support for Loosely-Structured Processes
+SP 287
+OP 287
+
+RT Conference Proceedings
+ID 4273003
+A1 Vanderfeesten,Irene,T.,P.
+A1 Reijers,Hajo,A.
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2007
+T1 An Evaluation of Case Handling Systems for Product Based Workflow Design
+SP 39
+OP 46
+
+RT Journal Article
+ID 13320923
+A1 Bratosin,Carmen
+A1 Aalst,Wil,M.,P.,van,der
+YR 2007
+T1 Workflow Management Systems for Grid Computing
+JF Ercim News
+VO 70
+SP 17
+OP 18
+IS 70
+
+RT Book, Whole
+ID 2418678
+A1 Wohed,Petia
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Dumas,Marlon
+A1 Hofstede,Arthur,H.,M.,Ter
+A1 Russell,Nick
+YR 2006
+T1 On the Suitability of BPMN for Business Process Modelling
+VO 4102
+SP 161
+OP 176
+
+RT Book, Whole
+ID 2418625
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Medeiros,Ana,Karla,A.,De
+A1 Weijters,A.,J.,M.,M.
+YR 2006
+T1 Process Equivalence: Comparing Two Process Models Based on Observed Behavior
+VO 4102
+SP 129
+OP 144
+
+RT Book, Whole
+ID 2419309
+A1 Russell,Nick
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Hofstede,Arthur,H.,M.,Ter
+YR 2006
+T1 Workflow Exception Patterns
+VO 4001
+SP 288
+OP 302
+
+RT Journal Article
+ID 4534896
+A1 Ouyang,Chun
+A1 Aalst,Wil,M.,P.,van,der
+A1 Dumas,Marlon
+A1 Hofstede,A.,H.,M.,ter
+YR 2006
+T1 Translating BPMN to BPEL
+
+RT Book, Whole
+ID 2418692
+A1 Pesic,Maja
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2006
+T1 A Declarative Approach for Flexible Business Processes Management
+SP 169
+OP 180
+
+RT Book, Whole
+ID 2465706
+A1 Adams,Michael
+A1 Hofstede,Arthur,H.,M.,Ter
+A1 Edmond,David
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2006
+T1 Worklets: A Service-Oriented Implementation of Dynamic Flexibility in Workflows
+VO 4275
+SP 291
+OP 308
+
+RT Conference Proceedings
+ID 2416981
+A1 Russell,Nick
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Hofstede,Arthur,H.,M.,Ter
+A1 Wohed,Petia
+YR 2006
+T1 On the Suitability of UML Activity Diagrams for Business Process Modelling
+VO 53
+SP 95
+OP 104
+
+RT Journal Article
+ID 4429448
+A1 Zdun,Uwe
+A1 Hentrich,Carsten
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2006
+T1 A Survey of Patterns for Service-Oriented Architectures
+JF International Journal of Internet Protocol Technology
+VO 1
+SP 132
+OP 143
+IS 3
+
+RT Book, Whole
+ID 2418680
+A1 Mendling,Jan
+A1 Moser,Michael
+A1 Neumann,Gustaf
+A1 Verbeek,H.,M.,W.
+A1 Dongen,Boudewijn,F.,Van
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2006
+T1 Faulty EPCs in the SAP Reference Model
+VO 4102
+SP 451
+OP 457
+
+RT Book, Whole
+ID 2465607
+A1 Günther,Christian,W.
+A1 Rinderle,Stefanie
+A1 Reichert,Manfred
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2006
+T1 Change Mining in Adaptive Process Management Systems
+SP 309
+OP 326
+
+RT Book, Whole
+ID 2418696
+A1 Rozinat,Anne
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2006
+T1 Decision Mining in ProM
+VO 4102
+SP 420
+OP 425
+
+RT Journal Article
+ID 1698258
+A1 Jansen-vullers,Monique,H.
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Rosemann,Michael
+YR 2006
+T1 Mining Configurable Enterprise Information Systems
+JF Data & Knowledge Engineering
+VO 56
+SP 195
+OP 244
+IS 3
+
+RT Conference Proceedings
+ID 3808370
+A1 Dongen,Boudewijn,F.,Van
+A1 Mendling,Jan
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2006
+T1 Structural Patterns for Soundness of Business Process Models
+SP 116
+OP 128
+
+RT Book, Whole
+ID 2465643
+A1 Rouached,Mohsen
+A1 Gaaloul,Walid
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Bhiri,Sami
+A1 Godart,Claude
+YR 2006
+T1 Web Service Mining and Verification of Properties: An Approach Based on Event Calculus
+SP 408
+OP 425
+
+RT Book, Whole
+ID 2419306
+A1 Recker,Jan
+A1 Mendling,Jan
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Rosemann,Michael
+YR 2006
+T1 Model-Driven Enterprise Systems Configuration
+VO 4001
+SP 369
+OP 383
+
+RT Book, Whole
+ID 4238716
+A1 Wynn,Moe,Thandar
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Hofstede,Arthur,H.,M.,Ter
+A1 Edmond,David
+YR 2006
+T1 Verifying Workflows with Cancellation Regions and OR-joins: An Approach Based on Reset Nets and Reachability Analysis
+VO 4102
+SP 389
+OP 394
+
+RT Conference Proceedings
+ID 4248990
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Beisiegel,Michael
+A1 Hee,Kees,M.,Van
+A1 König,Dieter
+A1 Stahl,Christian
+YR 2006
+T1 A SOA-Based Architecture Framework
+
+RT Journal Article
+ID 2493973
+A1 Maruster,Laura
+A1 Aalst,Wil,M.,P.,van,der
+A1 Bosch,Antal,van,den
+YR 2006
+T1 A Rule-Based Approach for Process Discovery: Dealing with Noise and Imbalance in Process Logs
+JF Data Mining and Knowledge Discovery
+VO 13
+SP 67
+OP 87
+IS 1
+
+RT Journal Article
+ID 4474498
+A1 Vanderfeesten,Irene
+A1 Cardoso,Jorge
+A1 Mendling,Jan
+A1 Reijers,Hajo,A.
+A1 Aalst,Wil,van,der
+YR 2006
+T1 Quality Metrics for Business Process Models
+
+RT Conference Proceedings
+ID 4255626
+A1 Mendling,Jan
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2006
+T1 Towards EPC Semantics based on State and Context
+SP 25
+OP 48
+
+RT Book, Whole
+ID 2418652
+A1 Günther,Christian,W.
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2006
+T1 A Generic Import Framework for Process Event Logs
+SP 81
+OP 92
+
+RT Conference Proceedings
+ID 2163698
+A1 Mendling,Jan
+A1 Recker,Jan
+A1 Rosemann,Michael
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2006
+T1 Generating Correct EPCs from Configured C-EPCs
+SP 1505
+OP 1510
+
+RT Conference Proceedings
+ID 4249007
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Dumas,Marlon
+A1 Ouyang,Chun
+A1 Rozinat,Anne
+A1 Verbeek,H.,M.,W.
+YR 2006
+T1 Choreography Conformance Checking: An Approach based on BPEL and Petri Nets
+
+RT Journal Article
+ID 4520398
+A1 Mendling,Jan
+A1 WMP,Aalst,van,der
+A1 Dongen,Boudewijn,Van
+A1 Verbeek,E.
+YR 2006
+T1 Errors in the SAP Reference Model
+VO 4
+IS 6
+
+RT Book, Whole
+ID 2465614
+A1 Lassen,Kristian,Bisgaard
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2006
+T1 WorkflowNet2BPEL4WS: A Tool for Translating Unstructured Workflow Processes to Readable BPEL
+VO 4275
+SP 127
+OP 144
+
+RT Conference Proceedings
+ID 4053656
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Günther,Christian,W.
+A1 Recker,Jan
+A1 Reichert,Manfred
+YR 2006
+T1 Using Process Mining to Analyze and Improve Process Flexibility
+
+RT Journal Article
+ID 4546032
+A1 Dreiling,Alexander
+A1 Rosemann,Michael
+A1 Aalst,Wil,M.,P.,van,der
+A1 Heuser,Lutz
+A1 Schulz,Karsten
+YR 2006
+T1 Model-Based Software Configuration: Patterns and Languages
+JF European Journal of Information Systems
+VO 15
+SP 583
+OP 600
+IS 6
+
+RT Conference Proceedings
+ID 2424156
+A1 Tan,Huixin
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2006
+T1 Implementation of a YAWL Work-List Handler based on the Resource Patterns
+SP 1184
+OP 1189
+
+RT Conference Proceedings
+ID 3265452
+A1 Verbeek,H.,M.,W.
+A1 Dongen,Boudewijn,F.,Van
+A1 Mendling,Jan
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2006
+T1 Interoperability in the ProM Framework
+
+RT Journal Article
+ID 4545204
+A1 Wil,Aalst,van,der
+A1 Günther,Christian
+A1 Recker,Jan
+A1 Reichert,Manfred
+A1 Regev,Gil
+A1 Soffer,Pnina
+A1 Schmidt,Rainer
+YR 2006
+T1 Using Process Mining to Analyze and Improve Process Flexibility (Position Paper)
+JF Emisa Forum
+
+RT Journal Article
+ID 12823100
+A1 Aalst,W.M.P.,van,der
+YR 2006
+T1 Process Mining and Monitoring Processes and Services: Workshop Report
+
+RT Journal Article
+ID 2499861
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2006
+T1 Matching Observed Behavior and Modeled Behavior: An Approach Based on Petri nets and Integer Programming
+JF Decision Support Systems
+VO 42
+SP 1843
+OP 1859
+IS 3
+
+RT Journal Article
+ID 5247638
+A1 Netjes,Mariska
+A1 Reijers,Hajo,A.
+A1 Aalst,Wil,M.,P.,van,der
+YR 2006
+T1 FileNet's BPM life-cycle support
+
+RT Journal Article
+ID 4804274
+A1 Netjes,Mariska
+A1 Reijers,Hajo,A.
+A1 Aalst,Wil,M.,P.,van,der
+YR 2006
+T1 Supporting the BPM Lifecycle with FileNet
+JF Studies in Surface Science and Catalysis
+
+RT Journal Article
+ID 4673217
+A1 Reijers,HA
+A1 Vanderfeesten,ITP
+A1 Aalst,Wil,M.,P.,van,der
+YR 2006
+T1 Product based workflow design with case handling systems
+JF Ergonomics
+
+RT Conference Proceedings
+ID 4249095
+A1 Leymann,Frank
+A1 Reisig,Wolfgang
+A1 Thatte,Satish,R.
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2006
+T1 06291 Abstracts Collection -- The Role of Business Processes in Service-Oriented Architectures
+
+RT Conference Proceedings
+ID 13313395
+A1 Leymann,Frank
+A1 Reisig,Wolfgang
+A1 Thatte,Satish,R.
+A1 Aalst,Wil,M.,P.,van,der
+YR 2006
+T1 The Role of Business Processes in Service Oriented Architectures, 16.07. - 21.07.2006
+
+RT Conference Proceedings
+ID 4249008
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2006
+T1 06291 Workshop Report: Process Mining, Monitoring Processes and Services
+
+RT Journal Article
+ID 2168411
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Hofstede,Arthur,H.,M.,Ter
+YR 2005
+T1 YAWL: Yet Another Workflow Language
+JF Information Systems
+VO 30
+SP 245
+OP 275
+IS 4
+
+RT Book, Whole
+ID 1767113
+A1 Dongen,Boudewijn,F.,Van
+A1 Medeiros,Ana,Karla,A.,De
+A1 Verbeek,H.,M.,W.
+A1 Weijters,A.,J.,M.,M.
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2005
+T1 The ProM framework: A New Era in Process Mining Tool Support
+VO 3536
+SP 444
+OP 454
+
+RT Book, Whole
+ID 1822467
+A1 Russell,Nick
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Hofstede,Arthur,H.,M.,Ter
+A1 Edmond,David
+YR 2005
+T1 Workflow Resource Patterns: Identification, Representation and Tool Support
+VO 3520
+OP 232
+
+RT Journal Article
+ID 1698242
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Weske,Mathias
+A1 Grünbauer,Dolf
+YR 2005
+T1 Case Handling: A New Paradigm for Business Process Support
+JF Data & Knowledge Engineering
+VO 53
+SP 129
+OP 162
+IS 2
+
+RT Conference Proceedings
+ID 12660135
+A1 Russell,NC
+A1 Hofstede,A.,H.,M.,ter
+A1 Edmond,D.
+YR 2005
+T1 Workflow Resource Patterns
+
+RT Journal Article
+ID 1713702
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Reijers,Hajo,A.
+A1 Song,Minseok
+YR 2005
+T1 Discovering Social Networks from Event Logs
+JF Computer Supported Cooperative Work
+VO 14
+SP 549
+OP 593
+IS 6
+
+RT Book, Whole
+ID 1767108
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Medeiros,Ana,Karla,A.,De
+A1 Weijters,A.,J.,M.,M.
+YR 2005
+T1 Genetic Process Mining
+VO 3536
+SP 48
+OP 69
+
+RT Book, Whole
+ID 1864117
+A1 Ouyang,Chun
+A1 Verbeek,Eric
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Breutel,Stephan
+A1 Dumas,Marlon
+A1 Hofstede,Arthur,H.,M.,Ter
+YR 2005
+T1 WofBPEL: A Tool for Automated Analysis of BPEL Processes
+VO 3826
+SP 484
+OP 489
+
+RT Book, Whole
+ID 1901285
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Dumas,Marlon
+A1 Hofstede,Arthur,H.,M.,Ter
+A1 Russell,Nick
+A1 Wohed,Petia
+YR 2005
+T1 Life After BPEL?
+VO 3670
+SP 35
+OP 50
+
+RT Book, Whole
+ID 1767090
+A1 Wynn,Moe,Thandar
+A1 Edmond,David
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Hofstede,Arthur,H.,M.,Ter
+YR 2005
+T1 Achieving a General, Formal and Decidable Approach to the OR-join in Workflow using Reset nets
+VO 3536
+SP 423
+OP 443
+
+RT Book, Whole
+ID 1822448
+A1 Dongen,Boudewijn,F.,Van
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Verbeek,H.,M.,W.
+YR 2005
+T1 Verification of EPCs: Using Reduction Rules and Petri Nets
+VO 3520
+SP 372
+OP 386
+
+RT Book, Whole
+ID 1762267
+A1 Wohed,Petia
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Dumas,Marlon
+A1 Hofstede,Arthur,H.,M.,Ter
+A1 Russell,Nick
+YR 2005
+T1 Pattern-Based Analysis of the Control-Flow Perspective of UML Activity Diagrams
+VO 3716
+SP 63
+OP 78
+
+RT Book, Whole
+ID 1762323
+A1 Russell,Nick
+A1 Hofstede,Arthur,H.,M.,Ter
+A1 Edmond,David
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2005
+T1 Workflow Data Patterns: Identification, Representation and Tool Support
+VO 3716
+SP 353
+OP 368
+
+RT Book, Whole
+ID 1767765
+A1 Rozinat,Anne
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2005
+T1 Conformance Testing: Measuring the Fit and Appropriateness of Event Logs and Process Models
+SP 163
+OP 176
+
+RT Journal Article
+ID 2169716
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2005
+T1 Business Alignment: Using Process Mining as a Tool for Delta Analysis and Conformance Testing
+JF Requirements Engineering
+VO 10
+SP 198
+OP 211
+IS 3
+
+RT Journal Article
+ID 1698205
+A1 Dustdar,Schahram
+A1 Hoffmann,Thomas
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2005
+T1 Mining of ad-hoc business processes with TeamLog
+JF Data & Knowledge Engineering
+VO 55
+SP 129
+OP 158
+IS 2
+
+RT Journal Article
+ID 4536513
+A1 Reijers,Hajo,A.
+A1 Aalst,Wil,M.P.,van,der
+YR 2005
+T1 The Effectiveness of Workflow Management Systems: Predictions and Lessons Learned
+JF International Journal of Information Management
+VO 25
+SP 458
+OP 472
+IS 5
+
+RT Book, Whole
+ID 1767766
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Dreiling,Alexander
+A1 Gottschalk,Florian
+A1 Rosemann,Michael
+A1 Jansen-vullers,Monique,H.
+YR 2005
+T1 Configurable Process Models as a Basis for Reference Modeling
+SP 512
+OP 518
+
+RT Book, Whole
+ID 1865077
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Beer,H.,T.,de
+A1 Dongen,Boudewijn,F.,Van
+YR 2005
+T1 Process Mining and Verification of Properties: An Approach based on Temporal Logic
+VO 3760
+SP 130
+OP 147
+
+RT Conference Proceedings
+ID 1892433
+A1 Hidders,Jan
+A1 Dumas,Marlon
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Hofstede,Arthur,H.,M.,Ter
+A1 Verelst,Jan
+YR 2005
+T1 When Are Two Workflows the Same?
+VO 41
+SP 3
+OP 11
+
+RT Journal Article
+ID 4488344
+A1 Riss,Uwe,V.
+A1 Rickayzen,Alan
+A1 Maus,Heiko
+A1 Aalst,Wil,M.,P.,van,der
+YR 2005
+T1 Challenges for Business Process and Task Management
+VO 0
+SP 77
+OP 100
+
+RT Book, Whole
+ID 1865063
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Jørgensen,Jens,Bæk
+A1 Lassen,Kristian,Bisgaard
+YR 2005
+T1 Let's Go All the Way: From Requirements Via Colored Workflow Nets to a BPEL Implementation of a New Bank System
+SP 22
+OP 39
+
+RT Conference Proceedings
+ID 1822511
+A1 Dongen,Boudewijn,F.,Van
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2005
+T1 A Meta Model for Process Mining Data
+VO 2
+SP 309
+OP 320
+
+RT Journal Article
+ID 4550351
+A1 Aalst,Wil,M.,P.,van,der
+A1 Lassen,Kristian,Bisgaard
+YR 2005
+T1 Translating Workflow Nets to BPEL4WS
+JF Annals of Probability
+
+RT Conference Proceedings
+ID 1844875
+A1 Dreiling,Alexander
+A1 Rosemann,Michael
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Sadiq,Wasim
+A1 Khan,Sana
+YR 2005
+T1 Model-Driven Process Configuration of Enterprise Systems
+SP 687
+OP 706
+
+RT Conference Proceedings
+ID 1822488
+A1 Adams,Michael
+A1 Hofstede,Arthur,H.,M.,Ter
+A1 Edmond,David
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2005
+T1 Facilitating Flexibility and Dynamic Exception Handling in Workflows through Worklets
+
+RT Book, Whole
+ID 1767781
+A1 Recker,Jan
+A1 Rosemann,Michael
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Mendling,Jan
+YR 2005
+T1 On the Syntax of Reference Model Configuration: Transforming the C-EPC into Lawful EPC Models
+SP 497
+OP 511
+
+RT Book, Whole
+ID 1767776
+A1 Medeiros,Ana,Karla,A.,De
+A1 Weijters,A.,J.,M.,M.
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2005
+T1 Genetic Process Mining: A Basic Approach and its Challenges
+SP 203
+OP 215
+
+RT Journal Article
+ID 11981330
+A1 Wohed,Petia
+A1 Aalst,Wil,M.,P.,van,der
+A1 Dumas,Marlon
+A1 Hofstede,A.,H.,M.,ter
+A1 Russell,N.
+YR 2005
+T1 Pattern-based Analysis of BPMN - An extensive evaluation of the Control-flow, the Data and the Resource Perspectives
+
+RT Journal Article
+ID 4602827
+A1 Netjes,Mariska
+A1 Aalst,Wil,M.,P.,van,der
+A1 Reijers,Hajo,A.
+YR 2005
+T1 Analysis of Resource-Constrained Processes with Colored Petri Nets
+VO 576
+
+RT Journal Article
+ID 1723864
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Medeiros,Ana,Karla,A.,De
+YR 2005
+T1 Process Mining and Security: Detecting Anomalous Process Executions and Checking Process Conformance
+JF Electronic Notes in Theoretical Computer Science
+VO 121
+SP 3
+OP 21
+
+RT Journal Article
+ID 4192153
+A1 Adams,M.
+A1 Hofstede,Ter
+A1 Edmond,D.
+YR 2005
+T1 A Service - oriented Implementation of Dynamic Flexibility in Workflows
+
+RT Book, Whole
+ID 1864984
+A1 Aldred,Lachlan
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Dumas,Marlon
+A1 Hofstede,Arthur,H.,M.,Ter
+YR 2005
+T1 On the Notion of Coupling in Communication Middleware
+VO 3761
+SP 1015
+OP 1033
+
+RT Journal Article
+ID 4009238
+A1 Mendling,Jan
+A1 Recker,Jan
+A1 Rosemann,Michael
+A1 Aalst,W.M.P.,van,der
+YR 2005
+T1 Towards the Interchange of Configurable EPCs: An XML-based Approach for Reference Model Configuration
+VO 75
+
+RT Conference Proceedings
+ID 1824568
+A1 Mendling,Jan
+A1 Recker,Jan
+A1 Rosemann,Michael
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2005
+T1 Towards the Interchange of Configurable EPCs
+SP 8
+OP 21
+
+RT Journal Article
+ID 12715162
+A1 AALST,WIL,M.,P.,VAN,DER
+A1 Hofstede,A.,H.,M.,ter
+A1 DUMAS,MARLON
+YR 2005
+T1 Patterns of Process Modeling
+SP 179
+OP 203
+
+RT Journal Article
+ID 4602625
+A1 Vanderfeesten,Irene
+A1 Aalst,W.M.P.,van,der
+A1 Reijers,Hajo,A.
+YR 2005
+T1 Modelling a Product Based Workflow System in CPN tools
+VO 576
+
+RT Journal Article
+ID 4544570
+A1 Günther,CW
+A1 Aalst,Wil,M.,P.,van,der
+YR 2005
+T1 Process mining in case handling systems
+JF Annals of Probability
+
+RT Journal Article
+ID 2336676
+A1 Gunther,Christian,W.
+A1 Aalst,Wil,M.,P.,van,der
+YR 2005
+T1 Modeling the Case Handling Principles with Colored Petri Nets
+
+RT Journal Article
+ID 2328114
+A1 Mulyar,Nataliya
+A1 Aalst,Wil,M.,P.,van,der
+YR 2005
+T1 Towards a Pattern Language for Colored Petri Nets
+VO 576
+
+RT Journal Article
+ID 4542285
+A1 Verbeek,H.,m.,w.
+A1 Aalst,Van,Der
+A1 Hofstede,A.,H.,M.,Ter
+YR 2005
+T1 Verifying Workflows with Cancellation Regions and OR-joins: An Approach Based on Relaxed
+
+RT Conference Proceedings
+ID 4536420
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2005
+T1 Process Mining in CSCW Systems
+SP 1
+OP 8
+
+RT Journal Article
+ID 5424960
+A1 Gottschalk,Florian
+A1 Rosemann,Michael
+A1 Aalst,Wil,M.,P.,van,der
+YR 2005
+T1 My Own Process: Providing Dedicated Views on EPCs
+
+RT Conference Proceedings
+ID 13286184
+A1 Aalst,Wil,M.,P.,van,der
+A1 Benatallah,Boualem
+A1 Casati,Fabio
+A1 Curbera,Francisco
+YR 2005
+T1 Business Process Management, 3rd International Conference, BPM 2005, Nancy, France, September 5-8, 2005, Proceedings
+
+RT Journal Article
+ID 58877373
+A1 Dreiling,Alexander
+A1 Rosemann,Michael
+A1 Aalst,Wil,van,der
+YR 2005
+T1 From Conceptual Process Models to Running Workflows: A Holistic Approach for the Configuration of Enterprise Systems
+
+RT Journal Article
+ID 1653012
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Maruster,Laura
+YR 2004
+T1 Workflow Mining: Discovering Process Models from Event Logs
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 16
+SP 1128
+OP 1142
+IS 9
+
+RT Book, Whole
+ID 1822304
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Aldred,Lachlan
+A1 Dumas,Marlon
+A1 Hofstede,Arthur,H.,M.,Ter
+YR 2004
+T1 Design and Implementation of the YAWL System
+VO 3084
+SP 142
+OP 159
+
+RT Journal Article
+ID 1698162
+A1 Weske,Mathias
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2004
+T1 Advances in Business Process Management
+JF Data & Knowledge Engineering
+VO 50
+SP 1
+OP 8
+IS 1
+
+RT Journal Article
+ID 1725051
+A1 Dehnert,Juliane
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2004
+T1 Bridging the Gap Between Business Models and Workflow Specifications
+JF International Journal of Cooperative Information Systems
+VO 13
+SP 289
+OP 332
+IS 3
+
+RT Journal Article
+ID 3555444
+A1 Wohed,Petia
+A1 Aalst,Wil,M.,P.,van,der
+A1 Dumas,Marlon
+A1 Hofstede,A.,H.,M.,ter
+A1 Russell,N.
+YR 2004
+T1 Pattern-based Analysis of UML Activity Diagrams
+
+RT Book, Whole
+ID 1762219
+A1 Dongen,Boudewijn,F.,Van
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2004
+T1 Multi-Phase Process Mining: Building Instance Graphs
+VO 3288
+SP 362
+OP 376
+
+RT Conference Proceedings
+ID 1822397
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2004
+T1 Business Alignment: Using Process Mining as a Tool for Delta Analysis
+VO 2
+SP 138
+OP 145
+
+RT Book, Whole
+ID 1767100
+A1 Dongen,Boudewijn,F.,Van
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2004
+T1 EMiT: A Process Mining Tool
+VO 3099
+SP 454
+OP 463
+
+RT Book, Whole
+ID 1822459
+A1 Medeiros,Ana,Karla,A.,De
+A1 Dongen,Boudewijn,F.,Van
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Weijters,A.,J.,M.,M.
+YR 2004
+T1 Process Mining for Ubiquitous Mobile Systems: An Overview and a Concrete Algorithm
+VO 3272
+SP 154
+OP 168
+
+RT Journal Article
+ID 4059116
+A1 Rusell,N.
+A1 Hofstede,A.,H.,M.,Ter
+A1 Edmond,D.
+A1 Aalst,W.,M.,P.
+YR 2004
+T1 Van der: "Workflow Data Patterns
+
+RT Journal Article
+ID 28420444
+A1 Gundy,Sarah
+A1 Putten,Wil,van,der
+A1 Shearer,Andy
+A1 Buckton,Daniel
+A1 Ryder,Alan,G.
+YR 2004
+T1 Determination of the modulation transfer function for a time-gated fluorescence imaging system
+JF Journal of Biomedical Optics
+VO 9
+SP 1206
+IS 6
+
+RT Conference Proceedings
+ID 1849346
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Bussler,Christoph
+A1 Gal,Avigdor
+YR 2004
+T1 PC Co-chairs' Message
+SP 1
+
+RT Book, Whole
+ID 48616278
+A1 Aalst,W.M.P.,van,der
+A1 Bussler,Christoph
+A1 Gal,Avigdor
+YR 2004
+T1 CoopIS 2004 International Conference (International Conference on Cooperative Information Systems) PC Co-chairs Message
+VO 3290
+
+RT Journal Article
+ID 729593
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Hofstede,Arthur,H.,M.,Ter
+A1 Kiepuszewski,Bartek
+A1 Barros,Alistair,P.
+YR 2003
+T1 Workflow Patterns
+JF Distributed and Parallel Databases
+VO 14
+SP 5
+OP 51
+IS 1
+
+RT Journal Article
+ID 728872
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Dongen,Boudewijn,F.,Van
+A1 Herbst,Joachim
+A1 Maruster,Laura
+A1 Schimm,Guido
+A1 Weijters,A.,J.,M.,M.
+YR 2003
+T1 Workflow Mining: A Survey of Issues and Approaches
+JF Data & Knowledge Engineering
+VO 47
+SP 237
+OP 267
+IS 2
+
+RT Book, Whole
+ID 21223
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Hofstede,Arthur,H.,M.,Ter
+A1 Weske,Mathias
+YR 2003
+T1 Business Process Management: A Survey
+VO 2678
+SP 1
+OP 12
+
+RT Book, Whole
+ID 431284
+A1 Wohed,Petia
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Dumas,Marlon
+A1 Hofstede,Arthur,H.,M.,Ter
+YR 2003
+T1 Analysis of Web Services Composition Languages: The Case of BPEL4WS
+VO 2813
+SP 200
+OP 215
+
+RT Journal Article
+ID 769509
+A1 Kiepuszewski,Bartek
+A1 Hofstede,Arthur,H.,M.,Ter
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2003
+T1 Fundamentals of Control Flow in Workflows
+JF Acta Informatica
+VO 39
+SP 143
+OP 209
+IS 3
+
+RT Journal Article
+ID 849836
+A1 Staab,Steffen
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Benjamins,V.,Richard
+A1 Sheth,Amit,P.
+A1 Miller,John,A.
+A1 Bussler,Christoph
+A1 Maedche,Alexander
+A1 Fensel,Dieter
+A1 Gannon,Dennis
+YR 2003
+T1 Web Services: Been There, Done That?
+JF IEEE Expert / IEEE Intelligent Systems
+VO 18
+SP 72
+OP 85
+IS 1
+
+RT Conference Proceedings
+ID 675379
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Dumas,Marlon
+A1 Hofstede,Arthur,H.,M.,Ter
+YR 2003
+T1 Web Service Composition Languages: Old Wine in New Bottles?
+SP 298
+OP 307
+
+RT Book, Whole
+ID 650555
+A1 Medeiros,Ana,Karla,A.,De
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Weijters,A.,J.,M.,M.
+YR 2003
+T1 Workflow Mining: Current Status and Future Directions
+VO 2888
+SP 389
+OP 406
+
+RT Journal Article
+ID 5221813
+A1 Reijers,Hajo,A.
+A1 Limam,Selma
+A1 Aalst,Wil,M.,P.,van,der
+YR 2003
+T1 Product-based Workflow Design
+JF Journal of Management Information Systems
+VO 20
+SP 229
+OP 262
+IS 1
+
+RT Journal Article
+ID 4106390
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Kumar,Akhil
+YR 2003
+T1 XML - Based Schema Definition for Support of Interorganizational Workflow
+JF Information Systems Research
+VO 14
+SP 23
+OP 46
+IS 1
+
+RT Journal Article
+ID 2666507
+A1 Aalst,Wil,M.,P.,van,der
+A1 Weske,Mathias
+A1 Wirtz,Guido
+YR 2003
+T1 Advanced Topics in Workflow Management: Issues, Requirements, and Solutions
+VO 7
+SP 47
+IS 3
+
+RT Conference Proceedings
+ID 480266
+A1 Aalst,Wil,M.,P.,van,der
+A1 Kumar,Akhil
+YR 2003
+T1 Organizational Modeling in UML and XML in the context of Workflow Systems
+SP 603
+OP 608
+
+RT Journal Article
+ID 2289846
+A1 Aalst,Wil,M.,P.,van,der
+YR 2003
+T1 Patterns and XPDL: A Critical Evaluation of the XML Process Definition Language
+
+RT Journal Article
+ID 823439
+A1 Reijers,Hajo,A.
+A1 Rigter,J.,H.,M.
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2003
+T1 The Case Handling Case
+JF International Journal of Cooperative Information Systems
+VO 12
+SP 365
+OP 391
+IS 3
+
+RT Book, Whole
+ID 1761178
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2003
+T1 Business Process Management Demystified: A Tutorial on Models, Systems and Standards for Workflow Management
+SP 1
+OP 65
+
+RT Book, Whole
+ID 41449
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2003
+T1 Inheritance of Business Processes: A Journey Visiting Four Notorious Problems
+VO 2472
+SP 383
+OP 408
+
+RT Journal Article
+ID 1952299
+A1 Aalst,Van,Der
+YR 2003
+T1 Don't go with the flow
+
+RT Journal Article
+ID 816644
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2003
+T1 Challenges in Business Process Management: Verification of Business Processing Using Petri Nets
+JF Bulletin of The European Association for Theoretical Computer Science
+VO 80
+SP 174
+OP 199
+
+RT Journal Article
+ID 48962512
+A1 Staab,S.
+A1 Aalst,W.,van,der
+A1 Benjamins,V.,R.
+A1 Sheth,A.
+A1 Miller,J.
+A1 Bussler,C.
+A1 Maedche,A.
+A1 Fensel,D.
+A1 Gannon,D.
+YR 2003
+T1 Web Services: Been There, Done That? (Trends and Controversies)
+VO 18
+SP 72
+OP 85
+
+RT Conference Proceedings
+ID 13286182
+A1 Aalst,Wil,M.,P.,van,der
+A1 Hofstede,Arthur,H.,M.,ter
+A1 Weske,Mathias
+YR 2003
+T1 Business Process Management, International Conference, BPM 2003, Eindhoven, The Netherlands, June 26-27, 2003, Proceedings
+
+RT Conference Proceedings
+ID 13278772
+A1 Aalst,Wil,M.,P.,van,der
+A1 Best,Eike
+YR 2003
+T1 Applications and Theory of Petri Nets 2003, 24th International Conference, ICATPN 2003, Eindhoven, The Netherlands, June 23-27, 2003, Proceedings
+
+RT Book, Whole
+ID 696403
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Hee,Kees,M.,Van
+YR 2002
+T1 Workflow Management: Models, Methods, and Systems
+
+RT Journal Article
+ID 761708
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Basten,Twan
+YR 2002
+T1 Inheritance of Workflows: An Approach to Tackling Problems Related to Change
+JF Theoretical Computer Science
+VO 270
+SP 125
+OP 203
+IS 1-2
+
+RT Conference Proceedings
+ID 40825
+A1 Wohed,Petia
+A1 Aalst,Wil,M.,P.,van,der
+A1 Dumas,Marlon
+A1 Hofstede,A.,H.,M.,ter
+YR 2002
+T1 Pattern-Based Analysis of BPEL4WS
+
+RT Conference Proceedings
+ID 43220
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Desel,Jörg
+A1 Kindler,Ekkart
+YR 2002
+T1 On the Semantics of EPCs: A Vicious Circle
+SP 71
+OP 80
+
+RT Journal Article
+ID 4557102
+A1 Kumar,Akhil
+A1 Aalst,Wil,M.,P.,van,der
+YR 2002
+T1 Dynamic Work Distribution in Workflow Management Systems: How to Balance Quality and Performance?
+JF Journal of Management Information Systems
+VO 18
+SP 157
+OP 193
+IS 3
+
+RT Book, Whole
+ID 39160
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Dongen,Boudewijn,F.,Van
+YR 2002
+T1 Discovering Workflow Performance Models from Timed Logs
+VO 2480
+SP 45
+OP 63
+
+RT Book, Whole
+ID 60770
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Hirnschall,Alexander
+YR 2002
+T1 An Alternative Way to Analyze Workflow Graphs
+VO 2348
+SP 535
+OP 552
+
+RT Journal Article
+ID 42715
+A1 Aalst,Wil,M.,P.,van,der
+A1 Dumas,Marlon
+A1 Hofstede,A.,H.,M.,ter
+A1 Wohed,P.
+YR 2002
+T1 Pattern-Based Analysis of BPML (and WSCI)
+
+RT Book, Whole
+ID 458815
+A1 Maruster,Laura
+A1 Weijters,A.,J.,M.,M.
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Bosch,Antal,Van,Den
+YR 2002
+T1 Process Mining: Discovering Direct Successors in Process Logs
+SP 364
+OP 373
+
+RT Book, Whole
+ID 57403
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2002
+T1 Making Work Flow: On the Application of Petri nets to Business Process Management
+VO 2360
+SP 1
+OP 22
+
+RT Journal Article
+ID 755844
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Hee,Kees,M.,Van
+A1 Toorn,Robert,A.,Van,Der
+YR 2002
+T1 Component-Based Software Architectures:A Framework Based on Inheritance of Behavior
+JF Science of Computer Programming
+VO 42
+SP 129
+OP 171
+IS 2-3
+
+RT Journal Article
+ID 729414
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2002
+T1 Inheritance of Interorganizational Workflows to Enable Business-to-Business
+JF Electronic Commerce Research
+VO 2
+SP 195
+OP 231
+IS 3
+
+RT Book, Whole
+ID 486991
+A1 Hirnschall,Alexander
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2002
+T1 XRL/Flower: Supporting Interorganizational Workflows using XRL/Petri-net Technology
+VO 2512
+SP 93
+OP 108
+
+RT Conference Proceedings
+ID 678088
+A1 Maruster,Laura
+A1 Wortmann,J.,C.
+A1 Weijters,A.,J.,M.,M.
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2002
+T1 Discovering Distributed Processes in Supply Chains
+SP 119
+OP 128
+
+RT Journal Article
+ID 756015
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Hee,Kees,M.,Van
+A1 Toorn,Robert,A.,Van,Der
+YR 2002
+T1 "Compositionality of projection inheritance"
+JF Science of Computer Programming
+VO 44
+SP 343
+OP 344
+IS 3
+
+RT Journal Article
+ID 51203510
+A1 Aalst,W.,van,der
+YR 2002
+T1 Inheritance of interorganizational workflows: How to agree or disagree without loosing control?
+VO 2(3)
+
+RT Book, Whole
+ID 138526
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Weske,Mathias
+YR 2001
+T1 The P2P approach to Interorganizational Workflows
+VO 2068
+SP 140
+OP 156
+
+RT Journal Article
+ID 700515
+A1 Basten,Twan
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2001
+T1 Diagnosing Workflow Processes using Woflan
+JF The Computer Journal
+VO 44
+SP 246
+OP 279
+IS 4
+
+RT Conference Proceedings
+ID 118577
+A1 Aalst,Wil,M.,P.,van,der
+A1 Berens,P.,J.,S.
+YR 2001
+T1 Beyond Workflow Management: Product-Driven Case Handling
+SP 42
+OP 51
+
+RT Journal Article
+ID 1746923
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2001
+T1 Exterminating the Dynamic Change Bug: A Concrete Approach to Support Workflow Change
+JF Information Systems Frontiers
+VO 3
+SP 297
+OP 317
+IS 3
+
+RT Journal Article
+ID 746198
+A1 Basten,Twan
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2001
+T1 Inheritance of Behavior
+JF The Journal of Logic and Algebraic Programming
+VO 47
+SP 47
+OP 145
+IS 2
+
+RT Journal Article
+ID 17460
+A1 Weijters,A.,J.,M.,M.
+A1 Aalst,W.,M.,P,van,der
+YR 2001
+T1 Rediscovering Workflow Models from Event-Based Data using Little Thumb
+
+RT Journal Article
+ID 729301
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Kumar,Akhil
+YR 2001
+T1 A reference model for team-enabled workflow management systems
+JF Data & Knowledge Engineering
+VO 38
+SP 335
+OP 363
+IS 3
+
+RT Journal Article
+ID 2130151
+A1 Weijters,A.,J.,M.,M.
+A1 Aalst,W.M.P.,van,der
+YR 2001
+T1 Rediscovering Workflow Models from Event-Based Data
+SP 93
+OP 100
+
+RT Journal Article
+ID 823389
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Barthelmess,Paulo
+A1 Ellis,Clarence,A.
+A1 Wainer,Jacques
+YR 2001
+T1 Proclets: A Framework for Lightweight InteractingWorkflow Processes
+JF International Journal of Cooperative Information Systems
+VO 10
+SP 443
+OP 481
+IS 4
+
+RT Journal Article
+ID 1751636
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2001
+T1 Reengineering Knock-out Processes
+JF Decision Support Systems
+VO 30
+SP 451
+OP 468
+IS 4
+
+RT Book, Whole
+ID 96569
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Basten,Twan
+YR 2001
+T1 Identifying Commonalities and Differences in Object Life Cycles using Behavioral Inheritance
+VO 2075
+SP 32
+OP 52
+
+RT Journal Article
+ID 76294
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2001
+T1 How to Handle Dynamic Changeand Capture Management Information: An Approach Based on Generic Workflow Models
+JF Computer Systems: Science & Engineering
+VO 16
+SP 295
+OP 318
+IS 5
+
+RT Conference Proceedings
+ID 4246694
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Reijers,Hajo,A.
+A1 Limam,S.
+YR 2001
+T1 Product-driven Workflow Design
+SP 397
+OP 402
+
+RT Conference Proceedings
+ID 2285189
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Verbeek,H.,M.,W.
+A1 Kumar,A.
+YR 2001
+T1 Verification of XRL: An XML-based Workflow Language
+SP 427
+OP 432
+
+RT Book, Whole
+ID 650627
+A1 Basten,Twan
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2001
+T1 Inheritance of Dynamic Behavior: Development of a Groupware Editor
+VO 2001
+SP 391
+OP 405
+
+RT Book, Whole
+ID 213838
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Barros,Alistair,P.
+A1 Hofstede,Arthur,H.,M.,Ter
+A1 Kiepuszewski,Bartek
+YR 2000
+T1 Advanced Workflow Patterns
+VO 1901
+SP 18
+OP 29
+
+RT Book, Whole
+ID 222635
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2000
+T1 Workflow Verification: Finding Control-Flow Errors using Petri-net-based Techniques
+VO 1806
+SP 161
+OP 183
+
+RT Journal Article
+ID 413906
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Hofstede,Arthur,H.,M.,Ter
+YR 2000
+T1 Verification Of Workflow Task Structures: A Petri-net-baset Approach
+JF Information Systems
+VO 25
+SP 43
+OP 69
+IS 1
+
+RT Journal Article
+ID 4173531
+A1 Aalst,Wil,M.,P.,van,der
+YR 2000
+T1 Loosely Coupled Interorganizational Workflows:Modeling and Analyzing Workflows Crossing Organizational Boundaries
+JF Information & Management
+VO 37
+SP 67
+OP 75
+IS 2
+
+RT Conference Proceedings
+ID 13286180
+A1 Aalst,Wil,M.,P.,van,der
+A1 Desel,Jörg
+A1 Oberweis,Andreas
+YR 2000
+T1 Business Process Management: Models, Techniques,and Empirical Studies
+VO 1806
+
+RT Book, Whole
+ID 209549
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Barthelmess,Paulo
+A1 Ellis,Clarence,A.
+A1 Wainer,Jacques
+YR 2000
+T1 Workflow Modeling using Proclets
+VO 1901
+SP 198
+OP 209
+
+RT Journal Article
+ID 2127953
+A1 Aalst,Van,Der
+A1 Desel,J.
+A1 Oberweis,A.
+YR 2000
+T1 Business Process Management: Models
+
+RT Book, Whole
+ID 446519
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 2000
+T1 Woflan 2.0: A Petri-net-based Workflow Diagnosis Tool
+VO 1825
+SP 475
+OP 484
+
+RT Book, Whole
+ID 446770
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Crom,Poul,J.,N.,De
+A1 Goverde,Roy,R.,H.,M.,J.
+A1 Hee,Kees,M.,Van
+A1 Hofman,Wout,J.
+A1 Reijers,Hajo,A.
+A1 Toorn,Robert,A.,Van,Der
+YR 2000
+T1 ExSpect 6.4: An Executable Specification Toolfor Hierarchical Colored Petri Nets
+VO 1825
+SP 455
+OP 464
+
+RT Journal Article
+ID 299818
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 1999
+T1 Formalization and Verification of Event-driven Process Chains
+JF Information & Software Technology
+VO 41
+SP 639
+OP 650
+IS 10
+
+RT Journal Article
+ID 184788
+A1 Sheth,Amit,P.
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Arpinar,Ismailcem,Budak
+YR 1999
+T1 Processes Driving the Networked Economy
+JF IEEE Concurrency
+VO 7
+SP 18
+OP 31
+IS 3
+
+RT Conference Proceedings
+ID 608003
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Basten,Twan
+A1 Verkoulen,Peter,A.,C.
+A1 Voorhoeve,Marc
+YR 1999
+T1 Adaptive Workflow: On the Interplay between Flexibility and Support
+VO 2
+SP 353
+OP 360
+
+RT Conference Proceedings
+ID 34379
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 1999
+T1 Generic Workflow Models: How to Handle Dynamic Changeand Capture Management Information
+SP 115
+OP 126
+
+RT Journal Article
+ID 223624
+A1 Kindler,Ekkart
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 1999
+T1 Liveness, Fairness, and Recurrence in Petri Nets
+JF Information Processing Letters
+VO 70
+SP 269
+OP 27
+IS 6
+
+RT Book, Whole
+ID 504735
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 1999
+T1 Flexible Workflow Management Systems: An Approach Based on Generic Process Models
+VO 1677
+SP 186
+OP 195
+
+RT Journal Article
+ID 53835205
+A1 Abbott,Phillip
+A1 Shearer,Andrew
+A1 O'Doherty,Triona
+A1 Putten,Wil,van,der
+YR 1999
+T1 Image deconvolution as an aid to mammographic artifact identification: I. Basic techniques
+VO 3661
+SP 698
+OP 709
+
+RT Journal Article
+ID 213883
+A1 Aalst,Wil,M.,P.,van,der
+YR 1998
+T1 The Application of Petri Nets to Workflow Management
+JF Journal of Circuits, Systems, and Computers
+VO 8
+SP 21
+OP 66
+IS 1
+
+RT Conference Proceedings
+ID 492590
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 1998
+T1 Modeling and Analyzing Interorganizational Workflows
+SP 262
+OP 272
+
+RT Conference Proceedings
+ID 50109383
+A1 Aalst,M.,P.,Van,Der
+YR 1998
+T1 Modeling and analyzing interorganizational workflows
+
+RT Book, Whole
+ID 446815
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 1997
+T1 Verification of Workflow Nets
+VO 1248
+SP 407
+OP 426
+
+RT Book, Whole
+ID 168722
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Basten,Twan
+YR 1997
+T1 Life-cycle Inheritance: A Petri-net-based Approach
+VO 1248
+SP 62
+OP 81
+
+RT Conference Proceedings
+ID 592064
+A1 Voorhoeve,Marc
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 1997
+T1 Ad-hoc Workflow: Problems and Solutions
+SP 36
+OP 40
+
+RT Journal Article
+ID 2729127
+A1 Aalst,Van,Der
+A1 Balbo,P
+A1 Eds,G
+YR 1997
+T1 Application and Theory of Petri Nets
+
+RT Journal Article
+ID 52197071
+A1 Woude,Adriaan,van,der
+YR 1996
+T1 Accomplishments, Problems and Challenges in Giant Resonance Research
+
+RT Journal Article
+ID 756919
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Odijk,Michiel,A.
+YR 1995
+T1 Analysis of Railway Stations by means of Interval Timed Coloured Petri Nets
+JF Real-time Systems
+VO 9
+SP 241
+OP 263
+IS 3
+
+RT Conference Proceedings
+ID 179339
+A1 Aalst,Wil,M.,P.,Van,Der
+A1 Hee,Kees,M.,Van
+YR 1995
+T1 Framework for Business Process Redesign
+SP 36
+OP 45
+
+RT Conference Proceedings
+ID 673113
+A1 Ciancarini,Paolo
+A1 Jagannathan,V.,Juggy
+A1 Klein,Mark
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 1995
+T1 Working group report on process [production process workflow in cooperative virtual enterprises]
+SP 8
+OP 11
+
+RT Journal Article
+ID 58585809
+A1 Laurent,H
+A1 Scarpaci,J,A
+A1 Beaumel,D
+A1 Blumenfeld,Y
+A1 Fortier,S
+A1 Frascaria,N
+A1 Garron,J,P
+A1 Guillot,J,C
+A1 Lhenry,I
+A1 Maison,J,M
+A1 Roynette,J,C
+A1 Suomijärvi,T
+A1 Gillibert,A
+A1 Roussel-Chomaz,P
+A1 Woude,A,Van,der
+YR 1995
+T1 Role of the breakup process in the $^{48}$Ca($^{20}$Ne,$^{19}$Ne n) reaction at 48 A MeV
+
+RT Book, Whole
+ID 301570
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 1994
+T1 Using Interval Timed Coloured Petri Nets to Calculate Performance Bounds
+VO 794
+SP 425
+OP 444
+
+RT Book, Whole
+ID 180420
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 1993
+T1 Interval Timed Coloured Petri Nets and their Analysis
+VO 691
+SP 453
+OP 472
+
+RT Conference Proceedings
+ID 678244
+A1 Aalst,Wil,M.,P.,Van,Der
+YR 1992
+T1 Modelling and Analysis of Complex Logistic Systems
+VO B-7
+SP 277
+OP 292
+
+RT Conference Proceedings
+ID 49930475
+A1 Fitzsimons,Mary
+A1 Putten,Wil,van,der
+A1 Malone,James
+YR 1992
+T1 An effective stimulus for evoking gustatory brain potentials
+
+RT Journal Article
+ID 30570287
+A1 Prosser,E.
+A1 Cox,D.
+A1 O'Kennedy,R.
+A1 Carroll,K.
+A1 Putten,W.,van,der
+YR 1990
+T1 Effects of coumarins, haematoporphyrins and acridine orange on the viability and growth of Landshütz ascites tumour cells, in the presence and absence of photoradiation
+JF Cancer Letters
+VO 52
+SP 71
+OP 77
+IS 1
+
+RT Journal Article
+ID 55525569
+A1 Woude,A.,van,der
+YR 1989
+T1 The Giant Monopole Resonance and the Compressibility of Nuclear Matter
+
+RT Journal Article
+ID 54823866
+A1 Woude,A.,van,der
+YR 1987
+T1 Excitation and decay of electric giant resonances --- especially the isoscalar giant monopole resonance
+VO 279
+SP 213
+OP 229
+
+RT Journal Article
+ID 53232815
+A1 Woude,A.,van,der
+YR 1986
+T1 Decay of the isoscalar giant monopole resonance in 208Pb
+VO 142
+SP 95
+OP 108
+
+RT Journal Article
+ID 56808650
+A1 Woude,A.,van,der
+YR 1986
+T1 Decay of the isoscalar giant monopole resonance in 208Pb
+
+RT Journal Article
+ID 26168083
+A1 Verburg,J.
+A1 Aalst,W.,van
+A1 Naves,A.
+YR 1984
+T1 Light weight accelerometry
+JF Medical & Biological Engineering & Computing
+VO 22
+SP 179
+OP 180
+IS 2
+
+RT Book, Whole
+ID 48488816
+A1 Janszen,H.
+A1 Brandenburg,S.
+A1 Leo,R.,De
+A1 Harakeh,M.
+A1 Visscher,B.
+A1 Woude,A.,van,der
+YR 1982
+T1 232 Th fission barrier characteristics from the 232 Th (p,p′f) reaction
+VO 158
+SP 95
+OP 100
+
+RT Journal Article
+ID 51823136
+A1 David,Peter
+A1 Mayer-Kuckuk,Theo
+A1 Woude,Adriaan,van,der
+YR 1982
+T1 Dynamics of Nuclear Fission and Related Collective Phenomena
+VO 158
+
+RT Journal Article
+ID 52193895
+A1 Woude,A.,van,der
+YR 1982
+T1 The excitation and decay of isoscalar giant resonances
+VO 168
+SP 351
+OP 362
+
+RT Journal Article
+ID 51969372
+A1 Smits,J.,W.
+A1 Siemssen,R.,H.
+A1 Derwerf,S.,Y.,van
+A1 Woude,A.,Van,Der
+YR 1978
+T1 The (p,alpha) reaction at Ep=30 MeV on the even-a nickel isotopes
+VO 47
+SP 698
+OP 699
+
+RT Journal Article
+ID 56773750
+A1 Smits,J.,W.
+A1 Siemssen,R.,H.
+A1 derWerf,S.,Y.,van
+A1 Woude,A.,van,der
+YR 1978
+T1 The (p,α) reaction at Ep=30 MeV on the even-a nickel isotopes
+
+RT Journal Article
+ID 51785654
+A1 Smits,J.,W.
+A1 Meijer,R.,J.,De
+A1 Siemssen,R.,H.
+A1 Woude,A.,Van,Der
+YR 1978
+T1 The 40,42Ca(p,alpha)37,39K reactions, and the (sd)-3 G.S. band in 37K
+VO 47
+SP 696
+OP 697
+
+RT Journal Article
+ID 56829311
+A1 Smits,J.,W.
+A1 Meijer,R.,J.,de
+A1 Siemssen,R.,H.
+A1 Woude,A.,van,der
+YR 1978
+T1 The 40,42Ca(p,α)37,39K reactions, and the (sd)−3 G.S. band in 37K
+
+RT Journal Article
+ID 46990244
+A1 Aalst,W.,van
+A1 Holander,J.,den
+A1 Peterse,W.,J.,A.,M.
+A1 Wolff,P.,M.,de
+YR 1976
+T1 The modulated structure of γ-Na2CO3 in a harmonic approximation
+JF Acta Crystallographica Section B Structural Crystallography and Crystal Chemistry
+VO 32
+SP 47
+OP 58
+IS 1
+
+RT Journal Article
+ID 4493306
+A1 Russell,Nick
+A1 Aalst,Wil,M.,P.,van,der
+T1 Exception Handling Patterns in Process-Aware Information Systems?
+
+RT Journal Article
+ID 4552870
+A1 Aalst,Wil,M.,P.,van,der
+A1 Rubin,V.
+A1 Dongen,B.,F.,van
+A1 Kindler,E.
+A1 Gunther,C.,W.
+T1 Process Mining: A Two-Step Approach using Transition Systems and Regions
+
+RT Journal Article
+ID 4655420
+A1 Ouyang,Chun
+A1 Dumas,Marlon
+A1 Aalst,Wil,M.,P.,van,der
+T1 From Business Process Models to Process-oriented Software Systems: The BPMN to BPEL Way?
+JF ACM Transactions on Software Engineering and Methodology
+
+RT Journal Article
+ID 6133265
+A1 Adams,Michael
+A1 Edmond,David
+A1 Aalst,Wil,M.,P.,van,der
+T1 Implementing Dynamic Flexibility in Work∞ows using Worklets
+
+RT Journal Article
+ID 4821200
+A1 Adams,Michael
+A1 Edmond,David
+A1 Aalst,Wil,M.,P.,van,der
+T1 Dynamic and Extensible Exception Handling for Work∞ows: A Service-Oriented Implementation
+
+RT Journal Article
+ID 5429236
+A1 Aldred,Lachlan
+A1 Aalst,Wil,Van,Der
+A1 Dumas,Marlon
+A1 Ter,Arthur
+T1 Understanding the Challenges in Getting Together: The Semantics of Decoupling in Middleware
+
+RT Journal Article
+ID 4694447
+A1 Mulyar,Nataliya
+A1 Pesic,Maja
+A1 Aalst,Wil,M.,P.,van,der
+A1 Peleg,Mor
+T1 Towards the Flexibility in Clinical Guideline Modelling Languages
+
+RT Journal Article
+ID 13861648
+A1 Russell,Nick
+A1 Aalst,Wil,M.,P.,van,der
+A1 Edmond,David
+T1 newYAWL: Achieving Comprehensive Patterns Support in Work∞ow for the Control-Flow, Data and Resource Perspectives
+
+RT Book, Whole
+ID 47947039
+A1 Christofides,S.
+A1 Schlegel,W.
+A1 Padovani,R.
+A1 Sharp,P.,F.
+A1 Torresin,A.
+A1 Wasilewska-Radwanska,M.
+A1 Putten,Wil
+A1 Guibelalde,E.
+A1 Kasch,K.,U.
+T1 Education and Training of the Medical Physicist in Europe
+
+RT Journal Article
+ID 10383286
+A1 Lassen,Kristian,Bisgaard
+A1 Aalst,Wil,M.,P.,van,der
+T1 Complexity Metrics for Workow Nets
+
+RT Conference Proceedings
+ID 4804393
+A1 Vanderfeesten,Irene
+A1 Reijers,Hajo,A.
+A1 Aalst,Wil,M.,P.,van,der
+T1 Product Based Workflow Support: A Recommendation Service for Dynamic Workflow Execution
+
+RT Conference Proceedings
+ID 12871173
+A1 Davenport,Tom
+A1 Reijers,Hajo
+A1 Rosemann,Michael
+A1 Committee,Program
+A1 Churilov,Leonid
+A1 Green,Peter
+A1 Hee,Kees,van
+A1 Jansen-Vullers,Monique
+A1 Kueng,Peter
+A1 Naidoo,Trevor
+A1 Poelmans,Stephan
+A1 Spanyi,Andrew
+A1 Toorn,Robert,van,der
+A1 Tregear,Roger
+A1 Voorhoeve,Kees
+T1 Program Chairs
+
+RT Journal Article
+ID 10168740
+A1 Mulyar,Nataliya
+A1 Aalst,Wil,M.,P.,van,der
+A1 Peleg,Mor
+T1 A Pattern-based Analysis of Clinical Computer-Interpretable Guideline Modelling Languages
+
+RT Journal Article
+ID 10388934
+A1 Gundy,Sarah
+A1 Putten,Wil,Van,der
+A1 Shearer,Andy
+A1 Ryder,Alan,G.
+A1 Ball,Michael
+T1 Time-resolved fluorescence studies of porphycene and tetrasulfonated phthalocyanine dyes in varying solvents
+
+RT Journal Article
+ID 5767873
+A1 Aalst,Wil,M.,P.,van,der
+A1 Dumas,Marlon
+A1 Gottschalk,Florian
+A1 Rosa,Marcello,La
+A1 Mendling,Jan
+T1 Preserving Correctness During Business Process Model Conguration
+JF Formal Aspects of Computing
+
+RT Book, Whole
+ID 47663786
+A1 Christofides,S.
+A1 Schlegel,W.
+A1 Padovani,R.
+A1 Sharp,P.,F.
+A1 Torresin,A.
+A1 Wasilewska-Radwanska,M.
+A1 Putten,W.
+A1 Guibelalde,E.
+A1 Kasch,K.-U.
+A1 Caruana,C.,J.
+T1 An Initial EFOMP Position on the Tuning Process for Masters Programs in Medical Physics in Europe
+
+RT Journal Article
+ID 51200163
+A1 Mendling,J.
+A1 Neumann,G.
+A1 Aalst,W.,van,der
+A1 Dongen,B.,van
+A1 Verbeek,E.
+T1 SAP's Referenzmodell: Sand im Getriebe (in German)
+
+RT Journal Article
+ID 51199703
+A1 Vogelaar,J.,J.,C.,L.
+A1 Verbeek,H.,M.,W.
+A1 Luka,B.
+A1 Aalst,W.,M.,P,van,der
+T1 Comparing Business Processes to Determine the Feasibility of Configurable Models: A Case Study
+
+RT Journal Article
+ID 51199694
+A1 Maggi,Fabrizio,M.
+A1 Montali,Marco
+A1 Westergaard,Michael
+A1 Aalst,Wil,M.,P.,van,der
+T1 Monitoring Business Constraints with Linear Temporal Logic: An Approach Based on Colored Automata
+
+RT Journal Article
+ID 51199696
+A1 Fahland,Dirk
+A1 Leoni,Massimiliano,de
+A1 Dongen,Boudewijn,F.,van
+A1 Aalst,Wil,M.,P.,van,der
+T1 Conformance Checking of Interacting Processes With Overlapping Instances
+
+RT Journal Article
+ID 6717260
+A1 Peÿsic,Maja
+A1 Boÿsnaÿcki,Dragan
+A1 Aalst,Wil,M.,P.,van,der
+T1 Enacting Declarative Languages using LTL: Avoiding Errors and Improving Performance
+
+RT Journal Article
+ID 11013607
+A1 Maruster,Laura
+A1 Aalst,Wil,van,der
+A1 Weijters,Ton
+T1 Automated Discovery of Workflow Models for Hospital Data
+
+RT Journal Article
+ID 5324071
+A1 Mulyar,Nataliya
+A1 Aalst,Wil,M.,P.,van,der
+T1 Towards a WPSL: A Critical Analysis of the 20 Classical Worko w Control-o w Patterns
+
+RT Journal Article
+ID 4668055
+A1 Mulyar,Nataliya
+A1 Aalst,Wil,M.,P.,van,der
+A1 Aldred,Lachlan
+A1 Russell,Nick
+T1 Service Interaction Patterns: A Conflgurable Framework
+
+RT Journal Article
+ID 4804225
+A1 Wohed,Petia
+A1 Russell,Nick
+A1 Andersson,Birger
+A1 Aalst,Wil,M.,P.,van,der
+T1 Open Source Workflow: A Viable Direction for BPM? Extended Abstract
+
+RT Journal Article
+ID 10572051
+A1 Aldred,Lachlan
+A1 Aalst,Wil,M.,P.,van,der
+A1 Dumas,Marlon
+T1 On the Notion of Coupling in Communication
+
+RT Journal Article
+ID 10508426
+A1 Ouyang,Chun
+A1 Aalst,Wil,M.,P.,van,der
+A1 Dumas,Marlon
+T1 Chapter VIII Service-Oriented Processes: An Introduction to BPEL
+
+RT Journal Article
+ID 10833783
+A1 Mendling,Jan
+A1 Dongen,Boudewijn,van
+A1 Aalst,Wil,van,der
+T1 On the Degree of Behavioral Similarity between Business Process Models
+
+RT Journal Article
+ID 5605483
+A1 Rosa,Marcello,La
+A1 Aalst,Wil,M.,P.,van,der
+A1 Dumas,Marlon
+T1 Variability Modeling for Questionnaire-based System Configuration
+
+RT Journal Article
+ID 49556870
+A1 Walker,Christopher
+A1 Putten,Wil,van,der
+T1 Patient dosimetry and a novel approach to establishing Diagnostic Reference Levels in dental radiology
+JF Physica Medica
+
+RT Journal Article
+ID 12480054
+A1 Bratosin,Carmen
+A1 Sidorova,Natalia
+A1 Aalst,Wil,van,der
+T1 Modelling a Grid
+
+RT Journal Article
+ID 51199695
+A1 Fahland,Dirk
+A1 Aalst,Wil,M.,P.,van,der
+T1 Simplifying Mined Process Models: An Approach Based on Unfoldings
+
+RT Journal Article
+ID 10260861
+A1 Gunther,Christian,W.
+A1 Aalst,Wil,M.,P.,van,der
+T1 A Generic Import Framework For Process Event Logs Industrial Paper
+
+RT Journal Article
+ID 11265202
+A1 Mendling,Jan
+A1 Aalst,W.M.P.,van,der
+T1 Advanced Reduction Rules for the Verification of EPC Business Process Models
+
+RT Journal Article
+ID 4804497
+A1 Aalst,Wil,M.,P.,van,der
+A1 Nikolov,Andriy
+T1 EMailAnalyzer: An E-Mail Mining Plug-in for the ProM Framework
+
+RT Journal Article
+ID 10508708
+A1 Aalst,Martinus,Pancratius,van,der
+T1 Curriculum vitae Wil van der Aalst
+
+RT Journal Article
+ID 10526509
+A1 Aalst,Wil,van,der
+T1 Discovering process models from empirical data
+
+RT Book, Whole
+ID 47817476
+A1 Aalst,Wil,M.,P.
+T1 Process Modeling and Analysis
+
+RT Book, Whole
+ID 47969021
+A1 Aalst,Wil,M.,P.
+T1 Cartography and Navigation
+
+RT Book, Whole
+ID 47974203
+A1 Aalst,Wil,M.,P.
+T1 Getting the Data
+
+RT Book, Whole
+ID 48185994
+A1 Aalst,Wil,M.,P.
+T1 Operational Support
+
+RT Book, Whole
+ID 48228981
+A1 Aalst,Wil,M.,P.
+T1 Mining Additional Perspectives
+
+RT Book, Whole
+ID 48261524
+A1 Aalst,Wil,M.,P.
+T1 Data Mining
+
+RT Book, Whole
+ID 48285336
+A1 Aalst,Wil,M.,P.
+T1 Epilogue
+
+RT Book, Whole
+ID 48292221
+A1 Aalst,Wil,M.,P.
+T1 Conformance Checking
+
+RT Book, Whole
+ID 48307923
+A1 Aalst,Wil,M.,P.
+T1 Analyzing “Lasagna Processes”
+
+RT Book, Whole
+ID 48310059
+A1 Aalst,Wil,M.,P.
+T1 Process Discovery: An Introduction
+
+RT Book, Whole
+ID 48315088
+A1 Aalst,Wil,M.,P.
+T1 Advanced Process Discovery Techniques
+
+RT Book, Whole
+ID 48326622
+A1 Aalst,Wil,M.,P.
+T1 Tool Support
+
+RT Book, Whole
+ID 48345563
+A1 Aalst,Wil,M.,P.
+T1 Analyzing “Spaghetti Processes”
+
+RT Book, Whole
+ID 48485147
+A1 Woude,A.,van,der
+T1 The excitation and decay of isoscalar giant resonances
+
+RT Book, Whole
+ID 48635086
+A1 Woude,A.,van,der
+T1 Excitation and decay of electric giant resonances — especially the isoscalar giant monopole resonance
+
+RT Journal Article
+ID 51199693
+A1 Aalst,Wil,M.,P.,van,der
+T1 Intra- and Inter-Organizational Process Mining: Discovering Processes Within and Between Organizations
+
+RT Journal Article
+ID 51199702
+A1 Aalst,Wil,M.,P.,van,der
+T1 Decomposing Process Mining Problems Using Passages
+
+RT Journal Article
+ID 58572099
+A1 Aalst,Wil,van,der
+T1 Process Mining: Overview and Opportunities
+SP 1
+OP 17

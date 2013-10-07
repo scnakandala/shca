@@ -1,0 +1,5493 @@
+RT Journal Article
+ID 39327097
+A1 Ivey,Richard
+A1 Bullock,Daniel
+A1 Grossberg,Stephen
+YR 2011
+T1 A neuromorphic model of spatial lookahead planning
+JF Neural Networks
+VO 24
+SP 257
+OP 266
+IS 3
+
+RT Journal Article
+ID 39327091
+A1 Doya,Kenji
+A1 Grossberg,Stephen
+A1 Taylor,John,G.
+A1 Wang,DeLiang
+YR 2011
+T1 An excellent year and a transition
+JF Neural Networks
+VO 24
+SP 1
+OP 1
+IS 1
+
+RT Journal Article
+ID 49413956
+A1 Grossberg,Stephen
+A1 Markowitz,Jeffrey
+A1 Cao,Yongqiang
+YR 2011
+T1 On the road to invariant recognition: Explaining tradeoff and morph properties of cells in inferotemporal cortex using multiple-scale task-sensitive attentive learning
+JF Neural Networks
+VO 24
+SP 1036
+OP 1049
+IS 10
+
+RT Journal Article
+ID 49413957
+A1 Cao,Yongqiang
+A1 Grossberg,Stephen
+A1 Markowitz,Jeffrey
+YR 2011
+T1 How does the brain rapidly learn and reorganize view-invariant and position-invariant object representations in the inferotemporal cortex?
+JF Neural Networks
+VO 24
+SP 1050
+OP 1061
+IS 10
+
+RT Journal Article
+ID 49413926
+A1 Grossberg,Stephen
+A1 Srinivasan,Karthik
+A1 Yazdanbakhsh,Arash
+YR 2011
+T1 On the road to invariant object recognition: How cortical area V2 transforms absolute to relative disparity during 3D vision
+JF Neural Networks
+VO 24
+SP 686
+OP 692
+IS 7
+
+RT Journal Article
+ID 51972782
+A1 Grossberg,Stephen
+A1 Kazerounian,Sohrob
+YR 2011
+T1 Laminar cortical dynamics of conscious speech perception: Neural model of phonemic restoration using subsequent context in noise
+JF Journal of The Acoustical Society of America
+VO 130
+SP 440
+
+RT Journal Article
+ID 47622491
+A1 Grossberg,Stephen
+A1 Léveillé,Jasmin
+A1 Versace,Massimiliano
+YR 2011
+T1 How do object reference frames and motion vector decomposition emerge in laminar cortical circuits?
+JF Attention Perception & Psychophysics
+VO 73
+SP 1147
+OP 1170
+IS 4
+
+RT Journal Article
+ID 12908769
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+YR 2010
+T1 Adaptive Resonance Theory
+
+RT Journal Article
+ID 28210641
+A1 Hong,S.
+A1 Grossberg,S.
+YR 2010
+T1 Cortical dynamics of surface lightness anchoring, filling-In, and perception
+JF Journal of Vision
+VO 3
+SP 415
+OP 415
+IS 9
+
+RT Journal Article
+ID 28118657
+A1 Swaminathan,G.
+A1 Grossberg,S.
+YR 2010
+T1 Laminar cortical mechanisms for the perception of slanted and curved 3-D surfaces and their 2-D pictorical projections
+JF Journal of Vision
+VO 2
+SP 79
+OP 79
+IS 7
+
+RT Journal Article
+ID 35133612
+A1 Seitz,Aaron,R.
+A1 Protopapas,Athanassios
+A1 Tsushima,Yoshiaki
+A1 Vlahou,Eleni,L.
+A1 Gori,Simone
+A1 Grossberg,Stephen
+A1 Watanabe,Takeo
+YR 2010
+T1 Unattended exposure to components of speech sounds yields same benefits as explicit auditory training
+JF Cognition
+VO 115
+SP 435
+OP 443
+IS 3
+
+RT Journal Article
+ID 28205744
+A1 Chang,H.-C.
+A1 Cao,Y.
+A1 Grossberg,S.
+YR 2010
+T1 Where's Waldo? How the brain earns to categorize and discover desired objects in a cluttered scene
+JF Journal of Vision
+VO 9
+SP 173
+OP 173
+IS 8
+
+RT Journal Article
+ID 28162494
+A1 Fazl,A.
+A1 Grossberg,S.
+A1 Mingolla,E.
+YR 2010
+T1 View-invariant object category learning: How spatial and object attention are coordinated using surface-based attentional shrouds
+JF Journal of Vision
+VO 6
+SP 315
+OP 315
+IS 6
+
+RT Journal Article
+ID 28151164
+A1 Cao,Y.
+A1 Grossberg,S.
+A1 Markowitz,J.
+YR 2010
+T1 Learned reorganization of invariant object category selectivity in inferotemporal cortex during eye movement search
+JF Journal of Vision
+VO 9
+SP 791
+OP 791
+IS 8
+
+RT Journal Article
+ID 33729919
+A1 Pilly,Praveen,K.
+A1 Grossberg,Stephen
+A1 Seitz,Aaron,R.
+YR 2010
+T1 Low-level sensory plasticity during task-irrelevant perceptual learning: Evidence from conventional and double training procedures
+JF Vision Research
+VO 50
+SP 424
+OP 432
+IS 4
+
+RT Journal Article
+ID 28212093
+A1 Grossberg,S.
+A1 Yazdanbakhsh,A.
+YR 2010
+T1 Laminar cortical dynamics of 3-D surface stratification, transparency, and neon spreading
+JF Journal of Vision
+VO 3
+SP 247
+OP 247
+IS 9
+
+RT Journal Article
+ID 28149254
+A1 Fang,L.
+A1 Grossberg,S.
+YR 2010
+T1 How Are the Surface Lightnesses of Complex Stereograms Assigned to the Correct Depths?
+JF Journal of Vision
+VO 4
+SP 582
+OP 582
+IS 8
+
+RT Journal Article
+ID 28122542
+A1 Berzhanskaya,J.
+A1 Grossberg,S.
+A1 Mingolla,E.
+YR 2010
+T1 Motion-to-Form cortical projections and the distortion of position maps
+JF Journal of Vision
+VO 4
+SP 573
+OP 573
+IS 8
+
+RT Journal Article
+ID 28138927
+A1 Pilly,P.,K.
+A1 Grossberg,S.
+YR 2010
+T1 Brain without Bayes: Temporal dynamics of decision-making during form and motion perception by the laminar circuits of visual cortex
+JF Journal of Vision
+VO 6
+SP 886
+OP 886
+IS 6
+
+RT Journal Article
+ID 11559474
+A1 Léveillé,Jasmin
+A1 Versace,Massimiliano
+A1 Grossberg,Stephen
+YR 2010
+T1 Running as fast as it can: How spiking dynamics form object groupings in the laminar circuits of visual cortex
+JF Journal of Computational Neuroscience
+VO 28
+SP 323
+OP 346
+IS 2
+
+RT Journal Article
+ID 28170340
+A1 Srihasam,K.
+A1 Bullock,D.
+A1 Grossberg,S.
+YR 2010
+T1 Coordinating saccades and smooth pursuit eye movements during visual tracking and perception of objects moving with variable speeds
+JF Journal of Vision
+VO 6
+SP 908
+OP 908
+IS 6
+
+RT Journal Article
+ID 28181773
+A1 Pilly,P.
+A1 Seitz,A.
+A1 Grossberg,S.
+YR 2010
+T1 Where in the motion pathway does task-irrelevant perceptual learning occur?
+JF Journal of Vision
+VO 9
+SP 866
+OP 866
+IS 8
+
+RT Journal Article
+ID 28201419
+A1 Yazdanbakhsh,A.
+A1 Grossberg,S.
+YR 2010
+T1 How does perceptual grouping synchronize quickly under realistic neural constraints?
+JF Journal of Vision
+VO 3
+SP 757
+OP 757
+IS 9
+
+RT Journal Article
+ID 28142713
+A1 Mingolla,E.
+A1 Browning,N,A.
+A1 Grossberg,S.
+YR 2010
+T1 Neural dynamics of visually-based object segmentation and navigation in complex environments
+JF Journal of Vision
+VO 8
+SP 1154
+OP 1154
+IS 6
+
+RT Journal Article
+ID 28204222
+A1 Cao,Y.
+A1 Grossberg,S.
+A1 Zaydens,E.
+YR 2010
+T1 A laminar cortical model of stereopsis and 3D surface perception of complex natural scenes
+JF Journal of Vision
+VO 8
+SP 850
+OP 850
+IS 6
+
+RT Journal Article
+ID 39327077
+A1 Grossberg,Stephen
+A1 Meltzoff,Andrew,N.
+A1 Movellan,Javier,R.
+A1 Newcombe,Nora,S.
+YR 2010
+T1 Social cognition: From babies to robots
+JF Neural Networks
+VO 23
+SP 939
+OP 939
+IS 8-9
+
+RT Journal Article
+ID 33480841
+A1 Vladusich,Tony
+A1 Olu-Lafe,Olufemi
+A1 Kim,Dae-Shik
+A1 Tager-Flusberg,Helen
+A1 Grossberg,Stephen
+YR 2010
+T1 Prototypical category learning in high-functioning autism
+JF Autism Research
+
+RT Journal Article
+ID 59260385
+A1 Huang,Tsung-Ren
+A1 Grossberg,Stephen
+YR 2010
+T1 Cortical Dynamics of Contextually Cued Attentive Visual Learning and Search: Spatial and Object Evidence Accumulation
+JF Psychological Review
+VO 117
+SP 1080
+OP 1112
+IS 4
+
+RT Journal Article
+ID 28228688
+A1 Silver,M.
+A1 Bullock,D.
+A1 Grossberg,S.
+A1 Histed,M.
+A1 Miller,E.
+YR 2010
+T1 A neural model of how rank-selective spatial working memory and the supplementary eye fields control sequences of saccadic eye movements
+JF Journal of Vision
+VO 10
+SP 552
+OP 552
+IS 7
+
+RT Journal Article
+ID 6083005
+A1 Doya,Kenji
+A1 Grossberg,Stephen
+A1 Taylor,John,G.
+YR 2010
+T1 Editorial for 2010
+JF Neural Networks
+VO 23
+SP 1
+OP 1
+IS 1
+
+RT Journal Article
+ID 28237544
+A1 Mhatre,H.
+A1 Gorchetchnikov,A.
+A1 Grossberg,S.
+YR 2010
+T1 How Path Integration Signals Create the Spatial Representations upon which Visual Navigation Builds
+JF Journal of Vision
+VO 10
+SP 1044
+OP 1044
+IS 7
+
+RT Journal Article
+ID 28166536
+A1 Elder,D.,M.
+A1 Grossberg,S.
+A1 Mingolla,E.
+YR 2010
+T1 A neural model of visually-guided steering and obstacle avoidance
+JF Journal of Vision
+VO 5
+SP 315
+OP 315
+IS 8
+
+RT Journal Article
+ID 28183883
+A1 Leveille,J.
+A1 Grossberg,S.
+A1 Mingolla,E.
+A1 Versace,M.
+YR 2010
+T1 Perceptual grouping in a spiking laminar cortical model
+JF Journal of Vision
+VO 8
+SP 1021
+OP 1021
+IS 6
+
+RT Journal Article
+ID 14498204
+A1 Grossberg,Stephen
+A1 Vladusich,Tony
+YR 2010
+T1 How do children learn to follow gaze, share joint attention, imitate their teachers, and use tools during social interactions?
+JF Neural Networks
+VO 23
+SP 940
+OP 965
+IS 8-9
+
+RT Journal Article
+ID 28151157
+A1 Markowitz,J.
+A1 Cao,Y.
+A1 Grossberg,S.
+YR 2010
+T1 Cortical dynamics of invariant category learning and recognition of realistic objects
+JF Journal of Vision
+VO 9
+SP 790
+OP 790
+IS 8
+
+RT Journal Article
+ID 28238646
+A1 Markowitz,J.
+A1 Cao,Y.
+A1 Grossberg,S.
+YR 2010
+T1 How do Task-dependent Attentional Demands Alter How Objects are Learned?
+JF Journal of Vision
+VO 10
+SP 958
+OP 958
+IS 7
+
+RT Journal Article
+ID 28134658
+A1 Berzhanskaya,J.
+A1 Grossberg,S.
+A1 Mingolla,E.
+YR 2010
+T1 Object motion from cortical form-motion interaction between V1, V2, MT and MST
+JF Journal of Vision
+VO 3
+SP 796
+OP 796
+IS 9
+
+RT Journal Article
+ID 28132708
+A1 Dranias,M.
+A1 Bullock,D.
+A1 Grossberg,S.
+YR 2010
+T1 A neural network model of simultaneous visual discrimination: Incentive modulation of visual stimulus salience
+JF Journal of Vision
+VO 7
+SP 189
+OP 189
+IS 9
+
+RT Journal Article
+ID 28133013
+A1 Grossberg,S.
+A1 Dasara,M.
+A1 Pinna,B.
+YR 2010
+T1 The problem of the perception of holes and figure-ground segregation in the watercolor illusion
+JF Journal of Vision
+VO 5
+SP 54
+OP 54
+IS 8
+
+RT Journal Article
+ID 28150029
+A1 Mingolla,E.
+A1 Kuhlmann,L.
+A1 Grossberg,S.
+YR 2010
+T1 A laminar cortical model of 3D shape-from-texture: spatial-scale filtering, cooperative-competitive grouping, and surface filling-in
+JF Journal of Vision
+VO 4
+SP 472
+OP 472
+IS 8
+
+RT Journal Article
+ID 28175765
+A1 Kuhlmann,L.
+A1 Grossberg,S.
+A1 Mingolla,E.
+YR 2010
+T1 3D surface representations derived from texture gradients: Filtering, grouping and filling-in
+JF Journal of Vision
+VO 6
+SP 255
+OP 255
+IS 6
+
+RT Journal Article
+ID 28186830
+A1 Fortenberry,B.
+A1 Gorchetchnikov,A.
+A1 Grossberg,S.
+YR 2010
+T1 Computing head direction from interacting visual and vestibular cues during visually-based navigation in the rat
+JF Journal of Vision
+VO 9
+SP 1119
+OP 1119
+IS 8
+
+RT Journal Article
+ID 28231562
+A1 Foley,N.,C.
+A1 Grossberg,S.
+A1 Mingolla,E.
+YR 2010
+T1 How objects and spatial attention interact: Prefrontal-parietal interactions determine attention switching costs and their individual differences
+JF Journal of Vision
+VO 10
+SP 214
+OP 214
+IS 7
+
+RT Journal Article
+ID 28234762
+A1 Leveille,J.
+A1 Grossberg,S.
+A1 Versace,M.
+YR 2010
+T1 From Motion to Object: How Visual Cortex Does Motion Vector Decomposition to Create Object-Centered Reference Frames
+JF Journal of Vision
+VO 10
+SP 803
+OP 803
+IS 7
+
+RT Journal Article
+ID 28239144
+A1 Srinivasan,K.
+A1 Grossberg,S.
+A1 Yazdanbakhsh,A.
+YR 2010
+T1 Relative Disparity in V2 Due to Inhibitory Peak Shifts of Absolute Disparity in V1
+JF Journal of Vision
+VO 10
+SP 938
+OP 938
+IS 7
+
+RT Journal Article
+ID 39327079
+A1 Grossberg,Stephen
+YR 2010
+T1 Towards building a neural networks community
+JF Neural Networks
+VO 23
+SP 1135
+OP 1138
+IS 10
+
+RT Journal Article
+ID 28112976
+A1 Huang,T.-R.
+A1 Grossberg,S.
+YR 2010
+T1 Cortical what and where streams interact to regulate contextual cueing during visual search
+JF Journal of Vision
+VO 9
+SP 1169
+OP 1169
+IS 8
+
+RT Journal Article
+ID 28165498
+A1 Huang,T.,R.
+A1 Grossberg,S.
+YR 2010
+T1 Scene understanding using attentional control of gist and texture information
+JF Journal of Vision
+VO 8
+SP 735
+OP 735
+IS 6
+
+RT Journal Article
+ID 28157995
+A1 Fang,L.
+A1 Grossberg,S.
+YR 2010
+T1 How are complex stereograms that define partially occluded surfaces amodally completed in depth?
+JF Journal of Vision
+VO 5
+SP 575
+OP 575
+IS 8
+
+RT Journal Article
+ID 28191963
+A1 Grossberg,S.
+A1 Cao,Y.
+YR 2010
+T1 A Laminar Cortical Model of Stereopsis and 3D Surface Perception: Closure and da Vinci Stereopsis
+JF Journal of Vision
+VO 4
+SP 599
+OP 599
+IS 8
+
+RT Journal Article
+ID 28121720
+A1 Howe,P.,D.,L.
+A1 Grossberg,S.
+YR 2010
+T1 A laminar cortical model of monocular and binocular interactions in depth perception
+JF Journal of Vision
+VO 2
+SP 324
+OP 324
+IS 7
+
+RT Journal Article
+ID 28138827
+A1 Versace,M.
+A1 Grossberg,S.
+YR 2010
+T1 From spikes to objects: How multiple levels of thalamic and cortical interactions control visual learning. attention, and recognition
+JF Journal of Vision
+VO 6
+SP 885
+OP 885
+IS 6
+
+RT Book, Whole
+ID 13994283
+A1 Grossberg,Stephen
+YR 2010
+T1 How Do Attention, Intention, and Consciousness Interact?
+SP 495
+
+RT Journal Article
+ID 28179574
+A1 Seitz,A.
+A1 Grossberg,S.
+YR 2010
+T1 How do laminar circuits coordinate their development in the visual cortex? The role of the cortical subplate
+JF Journal of Vision
+VO 2
+SP 100
+OP 100
+IS 7
+
+RT Journal Article
+ID 28105658
+A1 Grossberg,S.
+YR 2010
+T1 How visual percepts emerge from complementary brain dynamics
+JF Journal of Vision
+VO 1
+SP 50
+OP 50
+IS 3
+
+RT Journal Article
+ID 36507568
+A1 Fazl,Arash
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+YR 2009
+T1 View-invariant object category learning, recognition, and search: How spatial and object attention are coordinated using surface-based attentional shrouds
+JF Cognitive Psychology
+VO 58
+SP 1
+OP 48
+IS 1
+
+RT Journal Article
+ID 28099749
+A1 Grossberg,S.
+A1 Huang,T.,R.
+YR 2009
+T1 ARTSCENE: A neural system for natural scene classification
+JF Journal of Vision
+VO 9
+SP 6
+OP 6
+IS 4
+
+RT Journal Article
+ID 5687190
+A1 Grossberg,Stephen
+YR 2009
+T1 Cortical and subcortical predictive dynamics and learning during perception, cognition, emotion and action
+JF Philosophical Transactions of The Royal Society B: Biological Sciences
+VO 364
+SP 1223
+OP 1234
+IS 1521
+
+RT Journal Article
+ID 10472727
+A1 Elder,David,M.
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+YR 2009
+T1 A Neural Model of Visually Guided Steering, Obstacle Avoidance, and Route Selection
+JF Journal of Experimental Psychology-human Perception and Performance
+VO 35
+SP 1501
+OP 1531
+IS 5
+
+RT Journal Article
+ID 10005613
+A1 Fang,Liang
+A1 Grossberg,Stephen
+YR 2009
+T1 From stereogram to surface: how the brain sees the world in depth
+JF Spatial Vision
+VO 22
+SP 45
+OP 82
+IS 1
+
+RT Journal Article
+ID 6091167
+A1 Srihasam,Krishna
+A1 Bullock,Daniel
+A1 Grossberg,Stephen
+YR 2009
+T1 Target Selection by the Frontal Cortex during Coordinated Saccadic and Smooth Pursuit Eye Movements
+JF Journal of Cognitive Neuroscience
+VO 21
+SP 1611
+OP 1627
+IS 8
+
+RT Journal Article
+ID 34141428
+A1 Grossberg,Stephen
+YR 2009
+T1 Beta oscillations and hippocampal place cell learning during exploration of novel environments
+JF Hippocampus
+VO 19
+SP 881
+OP 885
+IS 9
+
+RT Journal Article
+ID 5408107
+A1 Browning,N.,Andrew
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+YR 2009
+T1 Cortical dynamics of navigation and steering in natural scenes: Motion-based object segmentation, heading, and obstacle avoidance
+JF Neural Networks
+VO 22
+SP 1383
+OP 1398
+IS 10
+
+RT Journal Article
+ID 36507581
+A1 Browning,N.,Andrew
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+YR 2009
+T1 A neural model of how the brain computes heading from optic flow in realistic scenes
+JF Cognitive Psychology
+VO 59
+SP 320
+OP 356
+IS 4
+
+RT Journal Article
+ID 4767984
+A1 Doya,Kenji
+A1 Grossberg,Stephen
+A1 Taylor,John,G.
+YR 2009
+T1 New action editors join the journal! Five exciting special issues in the works
+JF Neural Networks
+VO 22
+SP 1
+OP 1
+IS 1
+
+RT Conference Proceedings
+ID 13992142
+A1 Browning,N.,Andrew
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+YR 2009
+T1 A neural model of visually-guided navigation in a cluttered world
+SP 399
+OP 400
+
+RT Conference Proceedings
+ID 13987433
+A1 Grossberg,Stephen
+YR 2009
+T1 View-invariant object category learning, attention, recognition, search, and scene understanding
+SP 1002
+OP 1004
+
+RT Journal Article
+ID 4984599
+A1 Grossberg,Stephen
+A1 Versace,Massimiliano
+YR 2008
+T1 Spikes, synchrony, and attentive learning by laminar thalamocortical circuits
+JF Brain Research
+VO 1218
+SP 278
+OP 312
+
+RT Journal Article
+ID 4403277
+A1 Gnadt,William
+A1 Grossberg,Stephen
+YR 2008
+T1 SOVEREIGN: An autonomous neural system for incrementally learning planned action sequences to navigate towards a rewarded goal
+JF Neural Networks
+VO 21
+SP 699
+OP 758
+IS 5
+
+RT Journal Article
+ID 4984231
+A1 Grossberg,Stephen
+A1 Pilly,Praveen,K.
+YR 2008
+T1 Temporal dynamics of decision-making during motion perception in the visual cortex
+JF Vision Research
+VO 48
+SP 1345
+OP 1373
+IS 12
+
+RT Journal Article
+ID 36923275
+A1 Grossberg,Stephen
+A1 Pearson,Lance,R.
+YR 2008
+T1 Laminar Cortical Dynamics of Cognitive and Motor Working Memory, Sequence Learning and Performance: Toward a Unified Theory of How the Cerebral Cortex Works
+JF Psychological Review
+VO 115
+SP 677
+OP 732
+IS 3
+
+RT Journal Article
+ID 11330519
+A1 Dranias,Mark,R.
+A1 Grossberg,Stephen
+A1 Bullock,Daniel
+YR 2008
+T1 Dopaminergic and non-dopaminergic value systems in conditioning and outcome-specific revaluation
+JF Brain Research
+VO 1238
+SP 239
+OP 287
+
+RT Journal Article
+ID 6464889
+A1 Fazl,Arash
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+YR 2008
+T1 View-Invariant Object Category Learning, Recognition, and Search: How Spatial and Object Attention are Coordinated Using Surface-Based Attentional Shrouds
+
+RT Journal Article
+ID 33725642
+A1 Grossberg,Stephen
+A1 Yazdanbakhsh,Arash
+A1 Cao,Yongqiang
+A1 Swaminathan,Guru
+YR 2008
+T1 How does binocular rivalry emerge from cortical mechanisms of 3-D vision?
+JF Vision Research
+VO 48
+SP 2232
+OP 2250
+IS 21
+
+RT Journal Article
+ID 7036201
+A1 Goodman,Philip,H.
+A1 Kaburlasos,Vassilis,G.
+A1 Egbert,Dwight,D.
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+A1 Reynolds,John,H.
+A1 Rosen,David,B.
+A1 Hartz,Arthur,J.
+YR 2008
+T1 Fuzzy ARTMAP Neural Network Compared to Linear Discriminant Analysis Prediction of the Length of Hospital Stay in Patients with Pneumonia
+
+RT Journal Article
+ID 5820155
+A1 Ajemian,Robert
+A1 Green,Andrea
+A1 Bullock,Daniel
+A1 Sergio,Lauren
+A1 Kalaska,John
+A1 Grossberg,Stephen
+YR 2008
+T1 Assessing the Function of Motor Cortex: Single-Neuron Models of How Neural Response Is Modulated by Limb Biomechanics
+JF Neuron
+VO 58
+SP 414
+OP 428
+IS 3
+
+RT Journal Article
+ID 36880775
+A1 Grossberg,Stephen
+A1 Bullock,Daniel
+A1 Dranias,Mark,R.
+YR 2008
+T1 Neural Dynamics Underlying Impaired Autonomic and Conditioned Responses Following Amygdala and Orbitofrontal Lesions
+JF Behavioral Neuroscience
+VO 122
+SP 1100
+OP 1125
+IS 5
+
+RT Journal Article
+ID 5750763
+A1 Grossberg,Stephen
+YR 2008
+T1 Beta Oscillations and Hippocampal Place Cell Learning during Exploration of Novel Environments
+
+RT Journal Article
+ID 4982953
+A1 Ames,Heather
+A1 Grossberg,Stephen
+YR 2008
+T1 Speaker normalization using cortical strip maps: A neural model for steady-state vowel categorization
+JF Journal of The Acoustical Society of America
+VO 124
+SP 3918
+IS 6
+
+RT Journal Article
+ID 4403280
+A1 Doya,Kenji
+A1 Grossberg,Stephen
+A1 Taylor,John,G.
+YR 2008
+T1 Neural Networks goes electronic at twenty
+JF Neural Networks
+VO 21
+SP 1
+OP 2
+IS 1
+
+RT Conference Proceedings
+ID 50729574
+A1 Srinivasa,Narayan
+A1 Bhattacharyya,Rajan
+A1 Grossberg,Stephen
+YR 2008
+T1 A bio-inspired kinematic controller for obstacle avoidance during reaching tasks with redundant robots
+
+RT Journal Article
+ID 4767937
+A1 Srinivasa,Narayan
+A1 Grossberg,Stephen
+YR 2008
+T1 A head-neck-eye system that learns fault-tolerant saccades to 3-D targets using a self-organizing neural model
+JF Neural Networks
+VO 21
+SP 1380
+OP 1391
+IS 9
+
+RT Journal Article
+ID 38470171
+A1 Grossberg,Stephen
+YR 2008
+T1 The art of seeing and painting
+JF Spatial Vision
+VO 21
+SP 463
+OP 486
+IS 3
+
+RT Book, Whole
+ID 2458037
+A1 Tan,Ah-hwee
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+YR 2007
+T1 Intelligence Through Interaction: Towards a Unified Theory for Learning
+SP 1094
+OP 1103
+
+RT Journal Article
+ID 38470133
+A1 Berzhanskaya,J.
+A1 Grossberg,S.
+A1 Mingolla,E.
+YR 2007
+T1 Laminar cortical dynamics of visual form and motion interactions during coherent object motion perception
+JF Spatial Vision
+VO 20
+SP 337
+OP 395
+IS 4
+
+RT Journal Article
+ID 4403211
+A1 Gorchetchnikov,Anatoli
+A1 Grossberg,Stephen
+YR 2007
+T1 Space, time and learning in the hippocampus: How fine spatial and temporal scales are expanded into population codes for behavioral control
+JF Neural Networks
+VO 20
+SP 182
+OP 193
+IS 2
+
+RT Book, Whole
+ID 12899813
+A1 Grossberg,Stephen
+YR 2007
+T1 Towards a unified theory of neocortex: laminar cortical circuits for vision and cognition
+JF Progress in Brain Research
+VO 165
+SP 79
+OP 104
+
+RT Journal Article
+ID 33723512
+A1 Bhatt,Rushi
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+YR 2007
+T1 Texture segregation by visual cortex: Perceptual grouping, attention, and learning
+JF Vision Research
+VO 47
+SP 3173
+OP 3211
+IS 25
+
+RT Journal Article
+ID 2595802
+A1 Grossberg,Stephen
+A1 Kuhlmann,Levin
+A1 Mingolla,Ennio
+YR 2007
+T1 A neural model of 3D shape-from-texture: Multiple-scale filtering, boundary grouping, and surface filling-in
+JF Vision Research
+VO 47
+SP 634
+OP 672
+IS 5
+
+RT Journal Article
+ID 4403297
+A1 Grossberg,Stephen
+YR 2007
+T1 Consciousness CLEARS the mind
+JF Neural Networks
+VO 20
+SP 1040
+OP 1053
+IS 9
+
+RT Journal Article
+ID 6376512
+A1 Grossberg,Stephen
+A1 Yazdanbakhsh,Arash
+A1 Cao,Yongqiang
+A1 Swaminathan,Guru
+YR 2007
+T1 HOW DOES BINOCULAR RIVALRY EMERGE FROM CORTICAL MECHANISMS OF 3-D VISION?
+
+RT Conference Proceedings
+ID 4286497
+A1 Srinivasa,Narayan
+A1 Grossberg,Stephen
+YR 2007
+T1 A Self-Organizing Neural Model for Fault-Tolerant Control of Redundant Robots
+SP 483
+OP 488
+
+RT Journal Article
+ID 19404573
+A1 Ames,Heather
+A1 Grossberg,Stephen
+YR 2007
+T1 Speaker normalization using cortical strip maps: A neural model for steady state vowel identification
+JF Journal of The Acoustical Society of America
+VO 122
+SP 3030
+IS 5
+
+RT Journal Article
+ID 2511701
+A1 Grossberg,Stephen
+A1 Kawato,Mitsuo
+A1 Taylor,John,G.
+YR 2007
+T1 Editorial for 2007Another year of exciting special issues!
+JF Neural Networks
+VO 20
+SP 10
+OP 11
+IS 1
+
+RT Journal Article
+ID 2595828
+A1 Grossberg,Stephen
+A1 Hong,Simon
+YR 2006
+T1 A neural model of surface perception: Lightness, anchoring, and filling-in
+JF Spatial Vision
+VO 19
+SP 263
+OP 321
+IS 2
+
+RT Journal Article
+ID 36923207
+A1 Grossberg,Stephen
+A1 Seidman,Don
+YR 2006
+T1 Neural Dynamics of Autistic Behaviors: Cognitive, Emotional, and Timing Substrates
+JF Psychological Review
+VO 113
+SP 483
+OP 525
+IS 3
+
+RT Journal Article
+ID 14498095
+A1 Grossberg,Stephen
+A1 Kawato,Mitsuo
+A1 Taylor,John,G.
+YR 2006
+T1 Another Year of Exciting Special Issues!
+JF Neural Networks
+VO 19
+SP 10
+OP 11
+IS 1
+
+RT Journal Article
+ID 3306653
+A1 Grossberg,Stephen
+A1 Yazdanbakhsh,Arash
+YR 2005
+T1 Laminar cortical dynamics of 3D surface perception: Stratification, transparency, and neon color spreading
+
+RT Journal Article
+ID 2581435
+A1 Cao,Yongqiang
+A1 Grossberg,Stephen
+YR 2005
+T1 A laminar cortical model of stereopsis and 3D surface perception: closure and da Vinci stereopsis
+JF Spatial Vision
+VO 18
+SP 515
+OP 578
+IS 5
+
+RT Journal Article
+ID 10373210
+A1 Pinna,Baingio
+A1 Grossberg,Stephen
+YR 2005
+T1 The watercolor illusion and neon color spreading: a unified analysis of new cases and neural mechanisms
+JF Journal of The Optical Society of America A-optics Image Science and Vision
+VO 22
+SP 2207
+IS 10
+
+RT Journal Article
+ID 28082861
+A1 Fazl,A.
+A1 Grossberg,S.
+A1 Mingolla,E.
+YR 2005
+T1 Invariant object learning and recognition using active eye movements and attentional control
+JF Journal of Vision
+VO 5
+SP 738
+OP 738
+IS 8
+
+RT Journal Article
+ID 33715436
+A1 Grossberg,Stephen
+A1 Yazdanbakhsh,Arash
+YR 2005
+T1 Laminar cortical dynamics of 3D surface perception: Stratification, transparency, and neon color spreading
+JF Vision Research
+VO 45
+SP 1725
+OP 1743
+IS 13
+
+RT Journal Article
+ID 2581434
+A1 Grossberg,S.
+A1 Swaminathan,G.
+YR 2005
+T1 A laminar cortical model for 3D perception of slanted and curved surfaces and of 2D images: developm
+
+RT Conference Proceedings
+ID 50434662
+A1 Grossberg,Stephen
+A1 Carpenter,G.,A.
+A1 Ersoy,B.
+YR 2005
+T1 Brain categorization: learning, attention, and consciousness
+
+RT Journal Article
+ID 28088498
+A1 Yazdanbakhsh,A.
+A1 Grossberg,S.
+YR 2005
+T1 Laminar cortical dynamics of binocular rivalry
+JF Journal of Vision
+VO 5
+SP 1046
+OP 1046
+IS 8
+
+RT Journal Article
+ID 28085867
+A1 Bhatt,R.,P.
+A1 Carpenter,G.,A.
+A1 Grossberg,S.
+YR 2005
+T1 Learning and recognition of textured objects
+JF Journal of Vision
+VO 5
+SP 868
+OP 868
+IS 8
+
+RT Journal Article
+ID 1740107
+A1 Grossberg,Stephen
+A1 Kawato,Mitsuo
+A1 Taylor,John,G.
+YR 2005
+T1 A year of exciting Special Issues
+JF Neural Networks
+VO 18
+SP 13
+OP 13
+IS 1
+
+RT Journal Article
+ID 28084931
+A1 Berzhanskaya,J.
+A1 Grossberg,S.
+A1 Mingolla,E.
+YR 2005
+T1 Depth-tuning of occluded moving objects by boundary selection of motion signals
+JF Journal of Vision
+VO 5
+SP 834
+OP 834
+IS 8
+
+RT Journal Article
+ID 28086624
+A1 Kuhlmann,L.
+A1 Grossberg,S.
+A1 Mingolla,E.
+YR 2005
+T1 A neural model of 3D shape-from-texture: Multiple-scale filtering, cooperative-competitive grouping, and 3D surface filling-in
+JF Journal of Vision
+VO 5
+SP 993
+OP 993
+IS 8
+
+RT Journal Article
+ID 38470095
+A1 Grossberg,Stephen
+YR 2005
+T1 In appreciation of Jacob Beck
+JF Spatial Vision
+VO 18
+SP 133
+OP 141
+IS 2
+
+RT Journal Article
+ID 36623105
+A1 Grossberg,Stephen
+YR 2005
+T1 START: A bridge between emotion theory and neurobiology through dynamic system modeling
+JF Behavioral and Brain Sciences
+VO 28
+IS 02
+
+RT Journal Article
+ID 36623221
+A1 Grossberg,Stephen
+YR 2005
+T1 Realistic constraints on brain color perception and category learning
+JF Behavioral and Brain Sciences
+VO 28
+IS 04
+
+RT Journal Article
+ID 2153086
+A1 Brown,Joshua,W.
+A1 Bullock,Daniel
+A1 Grossberg,Stephen
+YR 2004
+T1 How laminar frontal cortex and basal ganglia circuits interact to control planned and reactive saccades
+JF Neural Networks
+VO 17
+SP 471
+OP 510
+IS 4
+
+RT Journal Article
+ID 1739935
+A1 Grossberg,Stephen
+A1 Govindarajan,Krishna,K.
+A1 Wyse,Lonce,L.
+A1 Cohen,Michael,A.
+YR 2004
+T1 ARTSTREAM: a neural network model of auditory scene analysis and source segregation
+JF Neural Networks
+VO 17
+SP 511
+OP 536
+IS 4
+
+RT Journal Article
+ID 33712152
+A1 Grossberg,Stephen
+A1 Swaminathan,Gurumurthy
+YR 2004
+T1 A laminar cortical model for 3D perception of slanted and curved surfaces and of 2D images: development, attention, and bistability
+JF Vision Research
+VO 44
+SP 1147
+OP 1187
+IS 11
+
+RT Journal Article
+ID 2153173
+A1 Hong,Simon
+A1 Grossberg,Stephen
+YR 2004
+T1 A neuromorphic model for achromatic and chromatic surface representation of natural images
+JF Neural Networks
+VO 17
+SP 787
+OP 808
+IS 5-6
+
+RT Journal Article
+ID 5360110
+A1 Paine,R.,W.
+A1 Grossberg,S.
+A1 Gemmert,A.,W.,A.,Van
+YR 2004
+T1 A quantitative evaluation of the AVITEWRITE model of handwriting learning
+JF Human Movement Science
+VO 23
+SP 837
+OP 860
+IS 6
+
+RT Journal Article
+ID 2153172
+A1 Yazdanbakhsh,Arash
+A1 Grossberg,Stephen
+YR 2004
+T1 Fast synchronization of perceptual grouping in laminar visual cortical circuits
+JF Neural Networks
+VO 17
+SP 707
+OP 718
+IS 5-6
+
+RT Journal Article
+ID 1739928
+A1 Grossberg,Stephen
+A1 Kawato,Mitsuo
+A1 Taylor,John,G.
+YR 2004
+T1 Another exciting year for the INNS/ENNS/JNNS journal
+JF Neural Networks
+VO 17
+SP 1
+OP 1
+IS 1
+
+RT Journal Article
+ID 12771765
+A1 Raizada,Rajeev,D.,S.
+A1 Grossberg,Stephen
+YR 2003
+T1 Towards a Theory of the Laminar Architecture of Cerebral Cortex: Computational Clues from the Visual System
+JF Cerebral Cortex
+VO 13
+SP 100
+OP 113
+IS 1
+
+RT Journal Article
+ID 4600010
+A1 Grossberg,Stephen
+YR 2003
+T1 How Does the Cerebral Cortex Work? Development, Learning, Attention, and 3-D Vision by Laminar Circuits of Visual Cortex
+JF Behavioral and Cognitive Neuroscience Reviews
+VO 2
+SP 47
+OP 76
+IS 1
+
+RT Journal Article
+ID 2322096
+A1 Grossberg,Stephen
+YR 2003
+T1 Resonant neural dynamics of speech perception
+JF Journal of Phonetics
+VO 31
+SP 423
+OP 445
+IS 3
+
+RT Journal Article
+ID 2581436
+A1 Grossberg,Stephen
+A1 Howe,Piers,D.,L.
+YR 2003
+T1 A laminar cortical model of stereopsis and three-dimensional surface perception
+
+RT Journal Article
+ID 37626174
+A1 Grossberg,S.
+YR 2003
+T1 Laminar Development of Receptive Fields, Maps and Columns in Visual Cortex: The Coordinating Role of the Subplate
+JF Cerebral Cortex
+VO 13
+SP 852
+OP 863
+IS 8
+
+RT Journal Article
+ID 2153153
+A1 Grossberg,Stephen
+A1 Repin,Dmitry,V.
+YR 2003
+T1 A neural model of how the brain represents and compares multi-digit numbers: spatial and categorical processes
+JF Neural Networks
+VO 16
+SP 1107
+OP 1140
+IS 8
+
+RT Journal Article
+ID 2153097
+A1 Grossberg,Stephen
+YR 2003
+T1 Laminar cortical dynamics of visual form perception
+JF Neural Networks
+VO 16
+SP 925
+OP 931
+IS 5-6
+
+RT Journal Article
+ID 3952438
+A1 Grossberg,Steven
+YR 2003
+T1 The resonant dynamics of speech perception
+
+RT Journal Article
+ID 33711611
+A1 Grossberg,Stephen
+A1 Howe,Piers,D.,L.
+YR 2003
+T1 A laminar cortical model of stereopsis and three-dimensional surface perception
+JF Vision Research
+VO 43
+SP 801
+OP 829
+IS 7
+
+RT Journal Article
+ID 36622526
+A1 Grossberg,Stephen
+YR 2003
+T1 Bring ART into the ACT
+JF Behavioral and Brain Sciences
+VO 26
+IS 05
+
+RT Journal Article
+ID 3124193
+A1 Grossberg,Stephen
+YR 2003
+T1 From normal brain and behavior to schizophrenia
+
+RT Book, Whole
+ID 685672
+A1 Grossberg,Stephen
+YR 2003
+T1 The Brain's Cognitive Dynamics: The Link between Learning, Attention, Recognition, and Consciousness
+SP 5
+OP 12
+
+RT Journal Article
+ID 36622587
+A1 Grossberg,Stephen
+YR 2003
+T1 From working memory to long-term memory and back: Linked but distinct
+JF Behavioral and Brain Sciences
+VO 26
+IS 06
+
+RT Journal Article
+ID 2153118
+A1 Grossberg,Stephen
+A1 Kawato,Mitsuo
+A1 Taylor,John,G.
+YR 2003
+T1 Celebrating the Year with a Special Issue for IJCNN'03
+JF Neural Networks
+VO 16
+SP 1
+OP 1
+IS 1
+
+RT Journal Article
+ID 36622308
+A1 Grossberg,Stephen
+YR 2003
+T1 Linking brain to mind in normal behavior and schizophrenia
+JF Behavioral and Brain Sciences
+VO 26
+IS 01
+
+RT Journal Article
+ID 36622468
+A1 Grossberg,Stephen
+YR 2003
+T1 Linking visual cortex to visual perception: An alternative to the Gestalt Bubble
+JF Behavioral and Brain Sciences
+VO 26
+IS 04
+
+RT Conference Proceedings
+ID 50315965
+A1 Grossberg,Stephen
+YR 2003
+T1 Cortical dynamics of form perception
+VO 1
+SP 8
+
+RT Journal Article
+ID 54010544
+A1 Grossberg,Stephen
+YR 2003
+T1 Resonant cortical dynamics of speech perception
+JF Journal of The Acoustical Society of America
+VO 113
+SP 2209
+OP 2209
+
+RT Journal Article
+ID 33707028
+A1 Grossberg,Stephen
+A1 Hwang,Seungwoo
+A1 Mingolla,Ennio
+YR 2002
+T1 Thalamocortical dynamics of the McCollough effect: boundary-surface alignment through perceptual learning
+JF Vision Research
+VO 42
+SP 1259
+OP 1286
+IS 10
+
+RT Journal Article
+ID 38470051
+A1 Dresp,Birgitta
+A1 Durand,Séverine
+A1 Grossberg,Stephen
+YR 2002
+T1 Depth perception from pairs of overlapping cues in pictorial displays
+JF Spatial Vision
+VO 15
+SP 255
+OP 276
+IS 3
+
+RT Journal Article
+ID 2153216
+A1 Grossberg,Stephen
+A1 Grunewald,Alexander
+YR 2002
+T1 Temporal dynamics of binocular disparity processing with corticogeniculate interactions
+JF Neural Networks
+VO 15
+SP 181
+OP 200
+IS 1
+
+RT Conference Proceedings
+ID 50267377
+A1 Grossberg,S.
+YR 2002
+T1 Cortical development and learning during vision, recognition, and action
+
+RT Journal Article
+ID 36622039
+A1 Grossberg,Stephen
+YR 2002
+T1 Neural substrates of visual percepts, imagery, and hallucinations
+JF Behavioral and Brain Sciences
+VO 25
+IS 02
+
+RT Journal Article
+ID 1740158
+A1 Grossberg,Stephen
+A1 Kawato,Mitsuo
+A1 Taylor,John,G.
+YR 2002
+T1 Editorial for 2002: A Time of Exuberant Development
+JF Neural Networks
+VO 15
+SP 1
+OP 1
+IS 1
+
+RT Journal Article
+ID 1740171
+A1 Granger,Eric
+A1 Rubin,Mark,A.
+A1 Grossberg,Stephen
+A1 Lavoie,Pierre
+YR 2001
+T1 A What-and-Where fusion neural network for recognition and tracking of multiple radar emitters
+JF Neural Networks
+VO 14
+SP 325
+OP 344
+IS 3
+
+RT Journal Article
+ID 2363349
+A1 Grossberg,S.
+YR 2001
+T1 A Neural Model of how Horizontal and Interlaminar Connections of Visual Cortex Develop into Adult Circuits that Carry Out Perceptual Grouping and Learning
+JF Cerebral Cortex
+VO 11
+SP 37
+OP 58
+IS 1
+
+RT Journal Article
+ID 33705365
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+A1 Viswanathan,Lavanya
+YR 2001
+T1 Neural dynamics of motion integration and segmentation within and across apertures
+JF Vision Research
+VO 41
+SP 2521
+OP 2553
+IS 19
+
+RT Journal Article
+ID 35850639
+A1 Grossberg,Stephen
+YR 2001
+T1 Linking the laminar circuits of visual cortex to visual perception: Development, grouping, and attention
+JF Neuroscience and Biobehavioral Reviews
+VO 25
+SP 513
+OP 526
+IS 6
+
+RT Journal Article
+ID 15244850
+A1 Pack,Christopher
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+YR 2001
+T1 A Neural Model of Smooth Pursuit Control and Motion Perception by Cortical Area MST
+JF Journal of Cognitive Neuroscience
+VO 13
+SP 102
+OP 120
+IS 1
+
+RT Journal Article
+ID 10101758
+A1 Ajemian,Robert
+A1 Bullock,Daniel
+A1 Grossberg,Stephen
+YR 2001
+T1 A Model of Movement Coordinates in the Motor Cortex: Posture-dependent Changes in the Gain and Direction of Single Cell Tuning Curves
+JF Cerebral Cortex
+VO 11
+SP 1124
+OP 1135
+IS 12
+
+RT Journal Article
+ID 1740174
+A1 Grossberg,Stephen
+A1 Maass,Wolfgang
+A1 Markram,Henry
+YR 2001
+T1 Introduction: Spiking Neurons in Neuroscience and Technology
+JF Neural Networks
+VO 14
+SP 587
+OP 587
+IS 6-7
+
+RT Conference Proceedings
+ID 2334165
+A1 Granger,Eric
+A1 Rubin,M,ark,A.
+A1 Grossberg,Stephen
+A1 Lavoie,Pierre
+YR 2001
+T1 Radar ESM with a what-and-where fusion neural network
+SP 539
+OP 548
+
+RT Journal Article
+ID 3306651
+A1 Swaminathan,G
+A1 Grossberg,S
+YR 2001
+T1 Laminar cortical circuits for the perception of slanted and curved 3-D surfaces
+
+RT Journal Article
+ID 3306650
+A1 Howe,Pd
+A1 Grossberg,S
+YR 2001
+T1 Laminar cortical circuits for stereopsis and surface depth perception
+
+RT Book, Whole
+ID 673536
+A1 Grossberg,Stephen
+A1 Paine,Rainer,W.
+YR 2001
+T1 Attentive Learning of Sequential Handwriting Movements: A Neural Network Model
+SP 349
+OP 387
+
+RT Book, Whole
+ID 604294
+A1 Grossberg,Stephen
+YR 2001
+T1 The Complementary Brain (Abstract)
+SP 3
+OP 4
+
+RT Journal Article
+ID 2025109
+A1 Grossberg,Stephen
+A1 Raizada,Rajeev,D.,S.
+YR 2000
+T1 CONTRAST-SENSITIVE PERCEPTUAL GROUPING AND OBJECT-BASED ATTENTION IN THE LAMINAR CIRCUITS OF PRIMARY VISUAL CORTEX
+
+RT Journal Article
+ID 2026509
+A1 Grossberg,Stephen
+YR 2000
+T1 The complementary brain: unifying brain dynamics and modularity
+JF Trends in Cognitive Sciences
+VO 4
+SP 233
+OP 246
+IS 6
+
+RT Journal Article
+ID 228036
+A1 Grossberg,Stephen
+YR 2000
+T1 The imbalanced brain: from normal behavior to schizophrenia
+JF Biological Psychiatry
+VO 48
+SP 81
+OP 98
+IS 2
+
+RT Journal Article
+ID 2153321
+A1 Grossberg,Stephen
+A1 Paine,Rainer,W.
+YR 2000
+T1 A neural model of cortico-cerebellar interactions during attentive imitation and predictive learning of sequential handwriting movements
+JF Neural Networks
+VO 13
+SP 999
+OP 1046
+IS 8-9
+
+RT Journal Article
+ID 235673
+A1 Kelly,Frank
+A1 Grossberg,Stephen
+YR 2000
+T1 NEURAL DYNAMICS OF 3-D SURFACE PERCEPTION: FIGURE-GROUND SEPARATION AND LIGHTNESS PERCEPTION
+
+RT Conference Proceedings
+ID 691936
+A1 Granger,Eric
+A1 Rubin,Mark,A.
+A1 Grossberg,Stephen
+A1 Lavoie,Pierre
+YR 2000
+T1 Classification of Incomplete Data Using the Fuzzy ARTMAP Neural Network
+VO 6
+SP 35
+OP 40
+
+RT Journal Article
+ID 258477
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+A1 Viswanathan,Lavanya
+YR 2000
+T1 Neural dynamics of motion integration and segmentation within and across apertures
+
+RT Journal Article
+ID 1740208
+A1 Ross,William,D.
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+YR 2000
+T1 Visual cortical mechanisms of perceptual grouping: interacting layers, networks, columns, and maps
+JF Neural Networks
+VO 13
+SP 571
+OP 588
+IS 6
+
+RT Journal Article
+ID 10111641
+A1 Grossberg,Stephen
+A1 Myers,Christopher,W.
+YR 2000
+T1 The resonant dynamics of speech perception: Interword integration and duration-dependent backward effects
+JF Psychological Review
+VO 107
+SP 735
+OP 767
+IS 4
+
+RT Journal Article
+ID 31893907
+A1 GROSSBERG,STEPHEN
+YR 2000
+T1 How hallucinations may arise from brain mechanisms of learning, attention, and volition
+JF Journal of The International Neuropsychological Society
+VO 6
+SP 583
+OP 592
+IS 5
+
+RT Journal Article
+ID 2399526
+A1 Grossberg,Stephen
+YR 2000
+T1 LINKING MIND TO BRAIN: THE MATHEMATICS OF BIOLOGICAL INTELLIGENCE
+
+RT Journal Article
+ID 163758
+A1 Raizada,Rajeev,D.,S.
+A1 Grossberg,Stephen
+YR 2000
+T1 Context-Sensitive Binding by the Laminar Circuits of V1 and V2: A Unified Model of Perceptual Grouping, Attention, and Orientation Contrast
+
+RT Journal Article
+ID 33701813
+A1 Grossberg,Stephen
+A1 Raizada,Rajeev,D.,S
+YR 2000
+T1 Contrast-sensitive perceptual grouping and object-based attention in the laminar circuits of primary visual cortex
+JF Vision Research
+VO 40
+SP 1413
+OP 1432
+IS 10
+
+RT Journal Article
+ID 137936
+A1 Okatan,Murat
+A1 Grossberg,Stephen
+YR 2000
+T1 Frequency-dependent synaptic potentiation, depression and spike timing induced by Hebbian pairing in cortical pyramidal neurons
+JF Neural Networks
+VO 13
+SP 699
+OP 708
+IS 7
+
+RT Journal Article
+ID 2794197
+A1 Grossberg,Stephen
+YR 2000
+T1 Brain feedback and adaptive resonance in speech perception
+JF Behavioral and Brain Sciences
+VO 23
+SP 332
+OP 333
+IS 3
+
+RT Journal Article
+ID 14497995
+A1 Grossberg,Stephen
+A1 Kawato,Mitsuo
+A1 Taylor,John,G
+YR 2000
+T1 Our Millennium Issue!
+JF Neural Networks
+VO 13
+IS 1
+
+RT Journal Article
+ID 59259995
+A1 Grossberg,Stephen
+A1 Myers,Christopher,W.
+YR 2000
+T1 The Resonant Dynamics of Speech Perception: Interword Integration and Duration-Dependent Backward Effects
+JF Psychological Review
+VO 107
+SP 735
+OP 767
+IS 4
+
+RT Journal Article
+ID 47998754
+A1 Kelly,Frank
+A1 Grossberg,Stephen
+YR 2000
+T1 Neural dynamics of 3-D surface perception: Figure-ground separation and lightness perception
+JF Attention Perception & Psychophysics
+VO 62
+SP 1596
+OP 1618
+IS 8
+
+RT Journal Article
+ID 36621418
+A1 Grossberg,Stephen
+YR 2000
+T1 Localist but distributed representations
+JF Behavioral and Brain Sciences
+VO 23
+SP 478
+OP 479
+IS 4
+
+RT Journal Article
+ID 36547316
+A1 Grossberg,Stephen
+YR 1999
+T1 The Link between Brain Learning, Attention, and Consciousness
+JF Consciousness and Cognition
+VO 8
+SP 1
+OP 44
+IS 1
+
+RT Journal Article
+ID 10005464
+A1 Grossberg,Stephen
+YR 1999
+T1 How does the cerebral cortex work? Learning, attention, and grouping by the laminar circuits of visual cortex
+JF Spatial Vision
+VO 12
+SP 163
+OP 185
+IS 2
+
+RT Journal Article
+ID 1740250
+A1 Mingolla,Ennio
+A1 Ross,William,D.
+A1 Grossberg,Stephen
+YR 1999
+T1 A neural network for enhancing boundaries and surfaces in synthetic aperture radar images
+JF Neural Networks
+VO 12
+SP 499
+OP 511
+IS 3
+
+RT Journal Article
+ID 291091
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+A1 Pack,Christopher
+YR 1999
+T1 A Neural Model of Motion Processing and Visual Navigation by Cortical Area MST
+JF Cerebral Cortex
+VO 9
+SP 878
+OP 895
+IS 8
+
+RT Journal Article
+ID 277092
+A1 Gancarz,Gregory
+A1 Grossberg,Stephen
+YR 1999
+T1 A neural model of saccadic eye movement control explains task-specific adaptation
+
+RT Journal Article
+ID 4496271
+A1 Grossberg,Stephen
+YR 1999
+T1 HOW HALLUCINATIONS MAY ARISE FROM BRAIN MECHANISMS OF LEARNING, ATTENTION, AND VOLITION
+
+RT Journal Article
+ID 2623581
+A1 Grossberg,Stephen
+A1 Williamson,James,R.
+YR 1999
+T1 A self-organizing neural system for learning to recognize textured scenes
+JF Vision Research
+VO 39
+SP 1385
+OP 1406
+IS 7
+
+RT Journal Article
+ID 33700175
+A1 Grossberg,Stephen
+A1 Kelly,Frank
+YR 1999
+T1 Neural dynamics of binocular brightness perception
+JF Vision Research
+VO 39
+SP 3796
+OP 3816
+IS 22
+
+RT Journal Article
+ID 7036878
+A1 Baloch,Aijaz,A.
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+A1 Nogueira,C.,A.,M.
+YR 1999
+T1 Neural model of first-order and second-order motion perception and magnocellular dynamics
+JF Journal of The Optical Society of America A-optics Image Science and Vision
+VO 16
+SP 953
+IS 5
+
+RT Journal Article
+ID 222678
+A1 Pack,Christopher
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+YR 1999
+T1 A Neural Model of Smooth Pursuit Control and Motion Perception by Cortical Area MST
+JF Neural Computation
+
+RT Journal Article
+ID 47636129
+A1 Boardman,Ian
+A1 Grossberg,Stephen
+A1 Myers,Christopher
+A1 Cohen,Michael
+YR 1999
+T1 Neural dynamics of perceptual order and context effects for variable-rate speech syllables
+JF Attention Perception & Psychophysics
+VO 61
+SP 1477
+OP 1500
+IS 8
+
+RT Journal Article
+ID 2026508
+A1 Grossberg,S.
+YR 1999
+T1 The link between brain learning
+
+RT Journal Article
+ID 2860809
+A1 Granger,E.
+A1 Grossberg,S.
+A1 Lavoie,P.
+A1 Rubin,M.,A.
+YR 1999
+T1 Comparison of Classifiers for Radar Emitter Type Identification
+
+RT Book, Whole
+ID 4472174
+A1 Grossberg,Stephen
+YR 1999
+T1 Chapter 21 Neural models of normal and abnormal behavior: what do schizophrenia, parkinsonism, attention deficit disorder, and depression have in common?
+JF Progress in Brain Research
+VO 121
+SP 375
+OP 406
+
+RT Journal Article
+ID 33699784
+A1 Gancarz,Gregory
+A1 Grossberg,Stephen
+YR 1999
+T1 A neural model of saccadic eye movement control explains task-specific adaptation
+JF Vision Research
+VO 39
+SP 3123
+OP 3143
+IS 18
+
+RT Journal Article
+ID 3952436
+A1 Grossberg,Stephen
+A1 Myers,Christopher,W.
+YR 1999
+T1 THE RESONANT DYNAMICS OF SPEECH PERCEPTION: INTERWORD INTEGRATION AND DURATION-DEPENDENT BACKWARD EFF ECTS
+
+RT Journal Article
+ID 33699914
+A1 Dresp,Birgitta
+A1 Grossberg,Stephen
+YR 1999
+T1 Spatial facilitation by color and luminance edges: boundary, surface, and attentional factors 1 Supported in part by Defense Advanced Research Projects Agency and the Office of Naval Research (ONR N00014-95-1-0409 and ONR N00014-95-1-0657). 1
+JF Vision Research
+VO 39
+SP 3431
+OP 3443
+IS 20
+
+RT Conference Proceedings
+ID 1831576
+A1 Grossberg,Stephen
+YR 1999
+T1 The Laminar Architecture of Visual Cortex and Image Processing Technology
+SP 2
+
+RT Journal Article
+ID 3851301
+A1 Grossberg,Stephen
+A1 Pessoa,Luiz
+YR 1998
+T1 Texture segregation, surface representation and figure–ground separation
+JF Vision Research
+VO 38
+SP 2657
+OP 2684
+IS 17
+
+RT Journal Article
+ID 2026525
+A1 McLoughlin,Niall,P.
+A1 Grossberg,Stephen
+YR 1998
+T1 Cortical computation of stereo disparity
+JF Vision Research
+VO 38
+SP 91
+OP 99
+IS 1
+
+RT Journal Article
+ID 330334
+A1 Gancarz,Gregory
+A1 Grossberg,Stephen
+YR 1998
+T1 A neural model of the saccade generator in the reticular formation
+JF Neural Networks
+VO 11
+SP 1159
+OP 1174
+IS 7-8
+
+RT Journal Article
+ID 33696381
+A1 Chey,Jonathan
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+YR 1998
+T1 Neural dynamics of motion processing and speed discrimination
+JF Vision Research
+VO 38
+SP 2769
+OP 2786
+IS 18
+
+RT Conference Proceedings
+ID 559718
+A1 Granger,Eric
+A1 Grossberg,Stephen
+A1 Rubin,Mark,A.
+A1 Streilein,William,W.
+YR 1998
+T1 Familiarity Discrimination of Radar Pulses
+SP 875
+OP 881
+
+RT Journal Article
+ID 6441299
+A1 Cisek,Paul
+A1 Grossberg,Stephen
+A1 Bullock,Daniel
+YR 1998
+T1 A CorticoSpinal Model of Reaching and Proprioception under Multiple Task Constraints
+JF Journal of Cognitive Neuroscience
+VO 10
+SP 425
+OP 444
+IS 4
+
+RT Journal Article
+ID 2023372
+A1 Olson,Steven,J.
+A1 Grossberg,Stephen
+YR 1998
+T1 A neural network model for the development of simple and complex cell receptive fields within cortical maps of orientation and ocular dominance
+JF Neural Networks
+VO 11
+SP 189
+OP 208
+IS 2
+
+RT Journal Article
+ID 798724
+A1 Cameron,Seth
+A1 Grossberg,Stephen
+A1 Guenther,Frank,H.
+YR 1998
+T1 A Self-Organizing Neural Network Architecture for Navigation Using Optic Flow
+JF Neural Computation
+VO 10
+SP 313
+OP 352
+IS 2
+
+RT Journal Article
+ID 15244736
+A1 Grunewald,Alexander
+A1 Grossberg,Stephen
+YR 1998
+T1 Self-Organization of Binocular Disparity Tuning by Reciprocal Corticogeniculate Interactions
+JF Journal of Cognitive Neuroscience
+VO 10
+SP 199
+OP 215
+IS 2
+
+RT Journal Article
+ID 210624
+A1 Grossberg,Stephen
+YR 1998
+T1 THE COMPLEMENTARY BRAIN A Unifying View of Brain Specialization and Modularity
+
+RT Journal Article
+ID 281529
+A1 Boardman,Ian
+A1 Grossberg,Stephen
+A1 Myers,Christopher
+A1 Cohen,Michael
+YR 1998
+T1 Neural Dynamics Of Perceptual Order And Context Effects For Variable-Rate Speech Syllables
+
+RT Journal Article
+ID 366834
+A1 Grossberg,Stephen
+A1 Kelly,Frank
+YR 1998
+T1 NEURAL DYNAMICS OF BINOCULAR BRIGHTNESS PERCEPTION
+
+RT Journal Article
+ID 2159744
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+A1 Lesher,Gregory,W.
+YR 1998
+T1 The What-and-Where Filter: A Spatial Mapping Neural Network for Object Recognition and Image Understanding
+JF Computer Vision and Image Understanding
+VO 69
+SP 1
+OP 22
+IS 1
+
+RT Journal Article
+ID 14497984
+A1 Grossberg,Stephen
+YR 1998
+T1 Birth of a learning law
+JF Neural Networks
+VO 11
+SP 1
+OP 7
+IS 1
+
+RT Journal Article
+ID 3952164
+A1 Carpenter,G.
+A1 Grossberg,S.
+A1 Lesher,G.
+YR 1998
+T1 The representation of visual salience in monkey parietal cortex
+JF Nature
+
+RT Journal Article
+ID 36620702
+A1 Grossberg,Stephen
+YR 1998
+T1 Filling-in the forms
+JF Behavioral and Brain Sciences
+VO 21
+SP 758
+OP 759
+IS 6
+
+RT Journal Article
+ID 36620357
+A1 Grossberg,Stephen
+YR 1998
+T1 Self-organizing features and categories through attentive resonance
+JF Behavioral and Brain Sciences
+VO 21
+SP 27
+OP 28
+IS 1
+
+RT Journal Article
+ID 36620569
+A1 Grossberg,Stephen
+YR 1998
+T1 Representations need self-organizing top-down expectations to fit a changing world
+JF Behavioral and Brain Sciences
+VO 21
+SP 473
+OP 474
+IS 4
+
+RT Journal Article
+ID 35484094
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+A1 Ross,William,D
+YR 1997
+T1 Visual brain and visual perception: how does the cortex do perceptual grouping?
+JF Trends in Neurosciences
+VO 20
+SP 106
+OP 111
+IS 3
+
+RT Journal Article
+ID 2023366
+A1 Grossberg,Stephen
+YR 1997
+T1 Cortical dynamics of three-dimensional figure-ground perception of two-dimensional pictures
+JF Psychological Review
+VO 104
+SP 618
+OP 658
+IS 3
+
+RT Journal Article
+ID 1980773
+A1 Chey,Jonathan
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+YR 1997
+T1 Neural dynamics of motion grouping: from aperture ambiguity to object speed and direction
+JF Journal of The Optical Society of America A-optics Image Science and Vision
+VO 14
+SP 2570
+IS 10
+
+RT Journal Article
+ID 3443410
+A1 Pribe,Christopher
+A1 Grossberg,Stephen
+A1 Cohen,Michael,A.
+YR 1997
+T1 Neural control of interlimb oscillations II. Biped and quadruped gaits and bifurcations
+JF Formal Aspects of Computing
+
+RT Journal Article
+ID 37001611
+A1 Grossberg,Stephen
+A1 Boardman,Ian
+A1 Cohen,Michael
+YR 1997
+T1 Neural dynamics of variable-rate speech categorization
+JF Journal of Experimental Psychology-human Perception and Performance
+VO 23
+SP 481
+OP 503
+IS 2
+
+RT Journal Article
+ID 15244694
+A1 Grossberg,Stephen
+A1 Grunewald,Alexander
+YR 1997
+T1 Cortical Synchronization and Perceptual Framing
+JF Journal of Cognitive Neuroscience
+VO 9
+SP 117
+OP 132
+IS 1
+
+RT Journal Article
+ID 328386
+A1 Contreras-vidal,J.,l.
+A1 Grossberg,Stephen
+A1 Bullock,Daniel
+YR 1997
+T1 A neural model of cerebellar learning for arm movement control: cortico-spino-cerebellar dynamics
+JF Learning & Memory
+VO 3
+SP 475
+OP 502
+IS 6
+
+RT Journal Article
+ID 316369
+A1 Chey,Jonathan
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+YR 1997
+T1 Neural dynamics of motion processing and speed discrimination
+
+RT Journal Article
+ID 2010269
+A1 Pribe,Christopher
+A1 Grossberg,Stephen
+A1 Cohen,Michael,A.
+YR 1997
+T1 Neural control of interlimb oscillations
+JF Formal Aspects of Computing
+VO 77
+SP 131
+OP 140
+IS 2
+
+RT Journal Article
+ID 2049776
+A1 Grossberg,Stephen
+A1 McLoughlin,Niall,P.
+YR 1997
+T1 Cortical dynamics of three-dimensional surface perception: Binocular and half-occluded scenic images
+JF Neural Networks
+VO 10
+SP 1583
+OP 1605
+IS 9
+
+RT Journal Article
+ID 2049765
+A1 DRESP,BIRGITTA
+A1 GROSSBERG,STEPHEN
+YR 1997
+T1 Contour Integration Across Polarities and Spatial Gaps: From Local Contrast Filtering to Global Grouping
+JF Vision Research
+VO 37
+SP 913
+OP 924
+IS 7
+
+RT Journal Article
+ID 399411
+A1 Grossberg,Stephen
+YR 1997
+T1 Pitch-Based Streaming In Auditory Perception
+
+RT Journal Article
+ID 2023367
+A1 Grossberg,S.
+A1 Mcloughlin,N.
+YR 1997
+T1 Cortical dynamics of 3-D surface perception: Binocular and half-occluded scenic images
+
+RT Journal Article
+ID 33693773
+A1 Baloch,Aijaz,A.
+A1 Grossberg,Stephen
+YR 1997
+T1 A neural model of high-level motion processing: Line motion and formotion dynamics
+JF Vision Research
+VO 37
+SP 3037
+OP 3059
+IS 21
+
+RT Journal Article
+ID 3443409
+A1 Grossberg,S.
+A1 Pribe,C.
+A1 Cohen,M.,A.
+YR 1997
+T1 Neural control of interlimb oscillations. I. Human bimanual coordination
+JF Formal Aspects of Computing
+
+RT Journal Article
+ID 1642801
+A1 Cohen,Michael,A.
+A1 Grossberg,Stephen
+YR 1997
+T1 Parallel auditory filtering by sustained and transient channels separates coarticulated vowels and consonants
+JF IEEE Transactions on Speech and Audio Processing
+VO 5
+SP 301
+OP 318
+IS 4
+
+RT Journal Article
+ID 1966266
+A1 Grossberg,Stephen
+YR 1997
+T1 Birth Of A Learning Law
+
+RT Journal Article
+ID 2004783
+A1 Carpenter,G.,A
+A1 Grossberg,S
+YR 1997
+T1 Fuzzy Adaptive Reasonance Theory
+
+RT Journal Article
+ID 36620267
+A1 Grossberg,Stephen
+YR 1997
+T1 Principles of cortical synchronization
+JF Behavioral and Brain Sciences
+VO 20
+SP 689
+OP 690
+IS 4
+
+RT Journal Article
+ID 3195042
+A1 Grossberg,S.
+YR 1997
+T1 How is a moving target continuously tracked behind occluding cover
+
+RT Journal Article
+ID 6614076
+A1 Grossberg,Stephen
+A1 Pribe,Christopher
+A1 Cohen,Michael,A.
+YR 1997
+T1 Neural control of interlimb oscillations
+JF Biological Cybernetics
+VO 77
+SP 141
+OP 152
+IS 2
+
+RT Journal Article
+ID 37001612
+A1 Grossberg,Stephen
+A1 Boardman,Ian
+A1 Cohen,Michael
+YR 1997
+T1 Neural Dynamics of Variable-Rate Speech Categorization
+JF Journal of Experimental Psychology-human Perception and Performance
+VO 23
+SP 481
+OP 503
+IS 2
+
+RT Journal Article
+ID 36620243
+A1 Grossberg,Stephen
+YR 1997
+T1 Adaptive timing, attention, and movement control
+JF Behavioral and Brain Sciences
+VO 20
+SP 619
+OP 619
+IS 4
+
+RT Journal Article
+ID 52895987
+A1 Myers,Christopher,W.
+A1 Cohen,Michael,A.
+A1 Grossberg,Stephen
+YR 1997
+T1 A neural model predicting context effects in the identification of stops and glides
+JF Journal of The Acoustical Society of America
+VO 101
+SP 3193
+
+RT Journal Article
+ID 59259489
+A1 Grossberg,Stephen
+YR 1997
+T1 Cortical Dynamics of Three-Dimensional Figure–Ground Perception of Two-Dimensional Pictures
+JF Psychological Review
+VO 104
+SP 618
+OP 658
+IS 3
+
+RT Book, Whole
+ID 604295
+A1 Grossberg,Stephen
+YR 1997
+T1 Perceptual Grouping and Attention During Cortical Form and Motion Processing
+SP 885
+OP 894
+
+RT Journal Article
+ID 36620091
+A1 Grossberg,Stephen
+YR 1997
+T1 Neural models of reaching
+JF Behavioral and Brain Sciences
+VO 20
+IS 02
+
+RT Journal Article
+ID 36620221
+A1 Grossberg,Stephen
+YR 1997
+T1 Neural models of development and learning
+JF Behavioral and Brain Sciences
+VO 20
+SP 566
+OP 566
+IS 4
+
+RT Journal Article
+ID 2049629
+A1 Fiala,John,C.
+A1 Grossberg,Stephen
+A1 Bullock,Daniel
+YR 1996
+T1 Metabotropic Glutamate Receptor Activation in Cere~bellar Purkinje Cells as Substrate for Adaptive Timing of the Classi(:ally Conditioned Eye-Blink Response
+
+RT Journal Article
+ID 320525
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+A1 Ross,William,D.
+YR 1996
+T1 Visual Brain And Visual Perception: How Does The Cortex Do Perceptual Grouping?
+
+RT Journal Article
+ID 15244671
+A1 Grossberg,Stephen
+A1 Merrill,John,W.,L.
+YR 1996
+T1 The Hippocampus and Cerebellum in Adaptively Timed Learning, Recognition, and Movement
+JF Journal of Cognitive Neuroscience
+VO 8
+SP 257
+OP 277
+IS 3
+
+RT Journal Article
+ID 325103
+A1 Grossberg,Stephen
+A1 Grunewald,Alexander
+YR 1996
+T1 Cortical Synchronization and Perceptual Framing
+
+RT Journal Article
+ID 33689250
+A1 Francis,Gregory
+A1 Grossberg,Stephen
+YR 1996
+T1 Cortical dynamics of form and motion integration: Persistence, apparent motion, and illusory contours
+JF Vision Research
+VO 36
+SP 149
+OP 173
+IS 1
+
+RT Journal Article
+ID 37240087
+A1 Francis,Gregory
+A1 Grossberg,Stephen
+YR 1996
+T1 Cortical dynamics of boundary segmentation and reset: persistence, afterimages, and residual traces
+JF Perception
+VO 25
+SP 543
+OP 567
+IS 5
+
+RT Journal Article
+ID 329419
+A1 Baloch,Aijaz,A.
+A1 Grossberg,Stephen
+YR 1996
+T1 A Neural Model Of High-Level Motion Processing: Line Motion And Formotion Dynamics
+
+RT Journal Article
+ID 324071
+A1 Grunewald,Alexander
+A1 Grossberg,Stephen
+YR 1996
+T1 Self-Organization of Binocular Disparity Tuning By Reciprocal Corticogeniculate Interactions
+
+RT Journal Article
+ID 208484
+A1 Baloch,Aijaz,A.
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+YR 1996
+T1 A Neural Model Of First-Order And Second-Order Motion Perception And Magnocellular Dynamics
+
+RT Journal Article
+ID 3443622
+A1 Baloch,A.
+A1 Grossberg,S.
+YR 1996
+T1 Neural dynamics of morphing motion
+
+RT Journal Article
+ID 49413898
+A1 Grossberg,Stephen
+A1 Kawato,Mitsuo
+A1 Taylor,John,G.
+YR 1996
+T1 The eight anniversary of Neural Networks
+JF Neural Networks
+VO 9
+IS 1
+
+RT Conference Proceedings
+ID 560000
+A1 Grossberg,Stephen
+A1 Williamson,James,R.
+YR 1996
+T1 ARTEX: A Self-organizing Architecture for Classifying Image Regions
+SP 873
+OP 879
+
+RT Journal Article
+ID 1010307
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+A1 Reynolds,John,H.
+YR 1995
+T1 A fuzzy ARTMAP nonparametric probability estimator for nonstationary pattern recognition problems
+JF IEEE Transactions on Neural Networks
+VO 6
+SP 1330
+OP 1336
+IS 6
+
+RT Journal Article
+ID 2020789
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+A1 Williamson,James,R.
+YR 1995
+T1 Synthetic aperture radar processing by a multiple scale neural system for boundary and surface representation
+JF Neural Networks
+VO 8
+SP 1005
+OP 1028
+IS 7-8
+
+RT Journal Article
+ID 388901
+A1 Gove,Alan
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+YR 1995
+T1 Brightness perception, illusory contours, and corticogeniculate feedback
+JF Visual Neuroscience
+VO 12
+SP 1027
+IS 06
+
+RT Journal Article
+ID 364072
+A1 Cohen,Michael,A.
+A1 Grossberg,Stephen
+A1 Wyse,Lonce,L.
+YR 1995
+T1 A spectral network model of pitch perception
+JF Journal of The Acoustical Society of America
+VO 98
+SP 862
+OP 879
+IS 2
+
+RT Journal Article
+ID 4403154
+A1 Bradski,Gary,R.
+A1 Grossberg,Stephen
+YR 1995
+T1 Fast-learning VIEWNET architectures for recognizing three-dimensional objects from multiple two-dimensional views
+JF Neural Networks
+VO 8
+SP 1053
+OP 1080
+IS 7-8
+
+RT Journal Article
+ID 374781
+A1 Bradski,Gary
+A1 Grossberg,Stephen
+YR 1995
+T1 Fast Learning VIEWNET Architectures for Recognizing 3-D Objects from Multiple 2-D Views
+
+RT Journal Article
+ID 293702
+A1 Bullock,Daniel
+A1 Cisek,Paul
+A1 Grossberg,Stephen
+YR 1995
+T1 Cortical Networks for Control of Voluntary Arm Movements under Variable Force Conditions
+
+RT Journal Article
+ID 355540
+A1 Grossberg,Stephen
+A1 Boardman,Ian
+A1 Cohen,Michael
+YR 1995
+T1 Neural Dynamics of Variable-Rate Speech Categorization
+
+RT Journal Article
+ID 402943
+A1 Grossberg,Stephen
+A1 Merrill,John,W.,l.
+YR 1995
+T1 The Hippocampus And Cerebellum In Adaptively Timed Learning, Recognition, And Movement
+JF Journal of Cognitive Neuroscience
+
+RT Journal Article
+ID 55725273
+A1 Grossberg,Stephen
+YR 1995
+T1 The Attentive Brain
+JF American Scientist
+VO 83
+SP 438
+OP 449
+
+RT Journal Article
+ID 1740387
+A1 Grossberg,Stephen
+A1 Hawkins,Harold
+A1 Waxman,Allen,M.
+YR 1995
+T1 Introduction: 1995 special issue automatic target recognition
+JF Neural Networks
+VO 8
+SP 1003
+OP 1003
+IS 7-8
+
+RT Journal Article
+ID 19380576
+A1 Grossberg,Stephen
+A1 Govindarajan,Krishna,K.
+A1 Wyse,Lonce,L.
+A1 Cohen,Michael,A.
+YR 1995
+T1 A neural model of auditory scene analysis and source segregation
+JF Journal of The Acoustical Society of America
+VO 98
+SP 2926
+IS 5
+
+RT Journal Article
+ID 49413899
+A1 Grossberg,Stephen
+A1 Kawato,Mitsuo
+A1 Taylor,John,G.
+YR 1995
+T1 The seventh anniversary of neural networks
+JF Neural Networks
+VO 8
+IS 1
+
+RT Conference Proceedings
+ID 50030213
+A1 Grossberg,S.
+A1 Mingolla,Ennio
+A1 Williamson,James
+YR 1995
+T1 A multiple scale neural system for boundary and surface representation of SAR data
+
+RT Book, Whole
+ID 624429
+A1 Grossberg,Stephen
+YR 1995
+T1 Are There Universal Principles of Brain Computation?
+SP 1
+OP 6
+
+RT Journal Article
+ID 1972551
+A1 Grossberg,S
+YR 1994
+T1 3-D vision and figure-ground separation by visual cortex
+
+RT Journal Article
+ID 2387348
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+A1 Ross,William,D.
+YR 1994
+T1 A neural theory of attentive visual search: Interactions of boundary, surface, spatial, and object representations
+JF Psychological Review
+VO 101
+SP 470
+OP 489
+IS 3
+
+RT Journal Article
+ID 1986685
+A1 Francis,G.
+A1 Grossberg,S.
+A1 Mingolla,E.
+YR 1994
+T1 Cortical dynamics of feature binding and reset: Control of visual persistence
+JF Vision Research
+VO 34
+SP 1089
+OP 1104
+IS 8
+
+RT Journal Article
+ID 2153706
+A1 Bullock,Daniel
+A1 Fiala,John,C.
+A1 Grossberg,Stephen
+YR 1994
+T1 A neural model of timed response learning in the cerebellum
+JF Neural Networks
+VO 7
+SP 1101
+OP 1114
+IS 6-7
+
+RT Journal Article
+ID 1970151
+A1 Bradski,Gary,R.
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+YR 1994
+T1 STORE working memory networks for storage and recall of arbitrary temporal sequences
+JF Biological Cybernetics
+VO 71
+SP 469
+OP 480
+IS 6
+
+RT Journal Article
+ID 204956
+A1 Francis,Gregory
+A1 Grossberg,Stephen
+YR 1994
+T1 Cortical Dynamics of Form and Motion Integration: Persistence, Apparent Motion, and Illusory Contours
+
+RT Journal Article
+ID 2153695
+A1 Grossberg,Stephen
+A1 Olson,Steven,J.
+YR 1994
+T1 Rules for the cortical map of ocular dominance and orientation columns
+JF Neural Networks
+VO 7
+SP 883
+OP 894
+IS 6-7
+
+RT Journal Article
+ID 15244626
+A1 Guenther,Frank,H.
+A1 Bullock,Daniel
+A1 Greve,Douglas
+A1 Grossberg,Stephen
+YR 1994
+T1 Neural Representations for Sensorimotor Control. III. Learning a Body-Centered Representation of a Three-Dimensional Target Position
+JF Journal of Cognitive Neuroscience
+VO 6
+SP 341
+OP 358
+IS 4
+
+RT Journal Article
+ID 2595978
+A1 Govindarajan,G.
+A1 Grossberg,S.
+A1 Wyse,L.
+A1 Cohen,M.
+YR 1994
+T1 A neural network model of auditory scene analysis and source segregation
+
+RT Journal Article
+ID 2153665
+A1 Grossberg,Stephen
+YR 1994
+T1 Recognition and segmentation of connected characters with selective attention
+JF Neural Networks
+VO 7
+SP 205
+OP 206
+IS 1
+
+RT Journal Article
+ID 15210480
+A1 Bradski,Gary
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+YR 1994
+T1 STORE working memory networks for storage and recall of arbitrary temporal sequences
+JF Biological Cybernetics
+VO 71
+SP 469
+OP 480
+IS 6
+
+RT Journal Article
+ID 59259144
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+A1 Ross,William,D.
+YR 1994
+T1 A Neural Theory of Attentive Visual Search: Interactions of Boundary, Surface, Spatial, and Object Representations
+JF Psychological Review
+VO 101
+SP 470
+OP 489
+IS 3
+
+RT Journal Article
+ID 54159778
+A1 Grossberg,Stephen
+A1 Bradski,Gary
+YR 1994
+T1 Neural architecture for learning to recognize 3D objects from multiple 2D views: VIEWNET
+VO 2353
+SP 266
+OP 275
+
+RT Journal Article
+ID 1740430
+A1 Grossberg,Stephen
+A1 Taylor,John,G.
+YR 1994
+T1 Introduction: 1994 Special issue
+JF Neural Networks
+VO 7
+SP 863
+OP 863
+IS 6-7
+
+RT Journal Article
+ID 14497924
+A1 Grossberg,S
+YR 1994
+T1 The sixth anniversary of Neural Networks
+JF Neural Networks
+VO 7
+IS 1
+
+RT Journal Article
+ID 54696049
+A1 Cohen,Michael
+A1 Grossberg,Stephen
+YR 1994
+T1 A self-organizing neural network architecture for auditory and speech perception with applications to acoustic and other temporal prediction problems
+
+RT Journal Article
+ID 48036380
+A1 Grossberg,Stephen
+YR 1994
+T1 3-D vision and figure-ground separation by visual cortex
+JF Attention Perception & Psychophysics
+VO 55
+SP 48
+OP 121
+IS 1
+
+RT Journal Article
+ID 2012917
+A1 Bullock,Daniel
+A1 Grossberg,Stephen
+A1 Guenther,Frank,H.
+YR 1993
+T1 A Self-Organizing Neural Model of Motor Equivalent Reaching and Tool Use by a Multijoint Arm
+JF Journal of Cognitive Neuroscience
+VO 5
+SP 408
+OP 435
+IS 4
+
+RT Journal Article
+ID 35483644
+A1 CARPENTER,G
+A1 GROSSBERG,S
+YR 1993
+T1 Normal and amnesic learning, recognition and memory by a neural model of cortico-hippocampal interactions
+JF Trends in Neurosciences
+VO 16
+SP 131
+OP 137
+IS 4
+
+RT Journal Article
+ID 6614339
+A1 Bullock,Daniel
+A1 Grossberg,Stephen
+A1 Mannes,Christian
+YR 1993
+T1 A neural network model for cursive script production
+JF Biological Cybernetics
+VO 70
+SP 15
+OP 28
+IS 1
+
+RT Journal Article
+ID 1740448
+A1 Grossberg,Stephen
+A1 Guenther,Frank,H.
+A1 Bullock,Daniel
+A1 Greve,Douglas,N.
+YR 1993
+T1 Neural representations for sensory-motor control, II: Learning a head-centered visuomotor representation of 3-D target position
+JF Neural Networks
+VO 6
+SP 43
+OP 67
+IS 1
+
+RT Journal Article
+ID 2153666
+A1 Grossberg,Stephen
+YR 1993
+T1 A solution of the figure-ground problem for biological vision
+JF Neural Networks
+VO 6
+SP 463
+OP 483
+IS 4
+
+RT Journal Article
+ID 2009476
+A1 Asfour,Y.,R.
+A1 Carpenter,G.,A.
+A1 Grossberg,S.
+A1 Lesher,G.,W.
+YR 1993
+T1 Fusion ARTMAP: a neural network architecture for multi-channel data fusion and classification
+
+RT Journal Article
+ID 35863483
+A1 Greve,Douglas
+A1 Grossberg,Stephen
+A1 Guenther,Frank
+A1 Bullock,Daniel
+YR 1993
+T1 Neural representations for sensory-motor control, I: Head-centered 3-D target positions from opponent eye commands
+JF Acta Psychologica
+VO 82
+SP 115
+OP 138
+IS 1-3
+
+RT Journal Article
+ID 48057405
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+YR 1993
+T1 Neural dynamics of motion perception: Direction fields, apertures, and resonant grouping
+JF Attention Perception & Psychophysics
+VO 53
+SP 243
+OP 278
+IS 3
+
+RT Journal Article
+ID 31612795
+A1 MCDONALD,S
+A1 RUBIN,P
+A1 CHANG,A
+A1 PENNEY,D
+A1 FINKELSTEIN,J
+A1 GROSSBERG,S
+A1 FEINS,R
+A1 GREGORY,P
+YR 1993
+T1 Pulmonary changes induced by combined mouse β-interferon (rMuIFN-β) and irradiation in normal mice — toxic versus protective effects
+JF Radiotherapy and Oncology
+VO 26
+SP 212
+OP 218
+IS 3
+
+RT Conference Proceedings
+ID 12882928
+A1 Asfour,Yousif,R.
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+A1 Lesher,Gregory,W.
+YR 1993
+T1 Fusion ARTMAP: an adaptive fuzzy network for multi-channel classification
+
+RT Journal Article
+ID 2391722
+A1 Nogueira,C.,A.,M.
+A1 Mingolla,E.
+A1 Grossberg,S.
+YR 1993
+T1 Computation of first order and second order motion by a model of magnocellular dynamics
+
+RT Journal Article
+ID 612686
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+YR 1993
+T1 Integrating Symbolic Processing and Neural Networks
+JF IEEE Transactions on Applications and Industry
+SP 2
+OP 2
+
+RT Journal Article
+ID 1740441
+A1 Grossberg,Stephen
+A1 Taylor,John,G.
+YR 1993
+T1 The fifth anniversary of neural networks
+JF Neural Networks
+VO 6
+SP 1
+OP 1
+IS 1
+
+RT Journal Article
+ID 36618993
+A1 Grossberg,Stephen
+YR 1993
+T1 Self-organizing neural models of categorization, inference and synchrony
+JF Behavioral and Brain Sciences
+VO 16
+SP 460
+IS 03
+
+RT Journal Article
+ID 966196
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+A1 Markuzon,Natalya
+A1 Reynolds,John,H.
+A1 Rosen,David,B.
+YR 1992
+T1 Fuzzy ARTMAP: A neural network architecture for incremental supervised learning of analog multidimensional maps
+JF IEEE Transactions on Neural Networks
+VO 3
+SP 698
+OP 713
+IS 5
+
+RT Journal Article
+ID 1604198
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+YR 1992
+T1 A self-organizing neural network for supervised learning, recognition, and prediction
+JF IEEE Communications Magazine
+VO 30
+SP 38
+OP 49
+IS 9
+
+RT Journal Article
+ID 2008638
+A1 Bradski,Gary,R.
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+YR 1992
+T1 Working Memory Networks for Learning Temporal Order with Application to Three-Dimensional Visual Object Recognition
+JF Neural Computation
+VO 4
+SP 270
+OP 286
+IS 2
+
+RT Journal Article
+ID 35133733
+A1 Grossberg,S
+YR 1992
+T1 A neural network model of adaptively timed reinforcement learning and hippocampal dynamics
+JF Cognitive Brain Research
+VO 1
+SP 3
+OP 38
+IS 1
+
+RT Conference Proceedings
+ID 2371630
+A1 Carpenter,G.,A.
+A1 Grossberg,Stephen
+A1 Markuzon,N.
+A1 Reynolds,J.,H.
+A1 Rosen,D.,B.
+YR 1992
+T1 Fuzzy ARTMAP: an adaptive resonance architecture for incremental learning of analog maps
+
+RT Conference Proceedings
+ID 49945170
+A1 Carpenter,G.
+A1 Grossberg,Stephen
+A1 Iizuka,Kunihiko
+YR 1992
+T1 Comparative performance measures of fuzzy ARTMAP, learned vector quantization, and back propagation for handwritten character recognition
+
+RT Journal Article
+ID 2062876
+A1 Grossberg,Stephen
+A1 Rudd,Michael,E.
+YR 1992
+T1 Cortical dynamics of visual motion perception: Short-range and long-range apparent motion
+JF Psychological Review
+VO 99
+SP 78
+OP 121
+IS 1
+
+RT Conference Proceedings
+ID 49944996
+A1 Carpenter,Gail,A.
+A1 Grossberg,S.
+A1 Lesher,Gregory,W.
+YR 1992
+T1 A what-and-where neural network for invariant image preprocessing
+
+RT Conference Proceedings
+ID 49945094
+A1 Bullock,Daniel
+A1 Grossberg,Stephen
+A1 Guenther,Frank,H.
+YR 1992
+T1 A self-organizing neural network model for redundant sensory-motor control, motor equivalence, and tool use
+
+RT Conference Proceedings
+ID 49949970
+A1 Goodman,Philip,H.
+A1 Kaburlasos,Vassilis,G.
+A1 Egbert,Dwight,D.
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+A1 Reynolds,John,H.
+A1 Rosen,David,B.
+A1 Hartz,Arthur,J.
+YR 1992
+T1 Fuzzy ARTMAP neural network compared to linear discriminant analysis prediction of the length of hospital stay in patients with pneumonia
+
+RT Journal Article
+ID 34962285
+A1 Bullock,Daniel
+A1 Grossberg,Stephen
+YR 1992
+T1 Emergence of tri-phasic muscle activation from the nonlinear interactions of central and spinal neural network circuits
+JF Human Movement Science
+VO 11
+SP 157
+OP 167
+IS 1-2
+
+RT Conference Proceedings
+ID 49944854
+A1 Bradski,Gary
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+YR 1992
+T1 Working memories for storage and recall of arbitrary temporal sequences
+
+RT Conference Proceedings
+ID 49945085
+A1 Cohen,Michael
+A1 Grossberg,S.
+A1 Pribe,C.
+YR 1992
+T1 A neural pattern generator that exhibits frequency-dependent in-phase and anti-phase oscillations
+
+RT Journal Article
+ID 34962284
+A1 Gaudiano,Paolo
+A1 Grossberg,Stephen
+YR 1992
+T1 Adaptive vector integration to endpoint: Self-organizing neural circuits for control of planned movement trajectories
+JF Human Movement Science
+VO 11
+SP 141
+OP 155
+IS 1-2
+
+RT Conference Proceedings
+ID 49944974
+A1 Bullock,Daniel
+A1 Contreras-Vidal,J.,L.
+A1 Grossberg,Stephen
+YR 1992
+T1 A neural network model for spino-muscular generation of launching and braking forces by opponent muscles
+
+RT Conference Proceedings
+ID 49945280
+A1 Bullock,Daniel
+A1 Greve,Douglas
+A1 Grossberg,Stephen
+A1 Guenther,Frank,H.
+YR 1992
+T1 A head-centered representation of 3D target location derived from opponent eye position commands
+
+RT Conference Proceedings
+ID 49945060
+A1 Cohen,Michael,A.
+A1 Grossberg,S.
+A1 Wyse,L.
+YR 1992
+T1 A neural network for synthesizing the pitch of an acoustic source
+
+RT Conference Proceedings
+ID 49945117
+A1 Cruthirds,Dan
+A1 Gove,Alan
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+A1 Nowak,Nicholas
+A1 Williamson,James
+YR 1992
+T1 Processing of synthetic aperture radar images by the boundary contour system and feature contour system
+
+RT Journal Article
+ID 53903031
+A1 Carpenter,G.,A.
+A1 Grossberg,S.
+YR 1992
+T1 Book-Review - Neural Networks for Vision and Image Processing
+JF Science
+VO 257
+SP 1294
+
+RT Journal Article
+ID 59262204
+A1 Grossberg,Stephen
+A1 Rudd,Michael,E.
+YR 1992
+T1 Cortical Dynamics of Visual Motion Perception: Short-Range and Long-Range Apparent Motion
+JF Psychological Review
+VO 99
+SP 78
+OP 121
+IS 1
+
+RT Journal Article
+ID 1921655
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+A1 Rosen,David,B.
+YR 1991
+T1 Fuzzy ART: Fast stable learning and categorization of analog patterns by an adaptive resonance system
+JF Neural Networks
+VO 4
+SP 759
+OP 771
+IS 6
+
+RT Journal Article
+ID 1992088
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+A1 Reynolds,John,H.
+YR 1991
+T1 ARTMAP: Supervised real-time learning and classification of nonstationary data by a self-organizing neural network
+JF Neural Networks
+VO 4
+SP 565
+OP 588
+IS 5
+
+RT Journal Article
+ID 1978156
+A1 Carpenter,G.
+A1 Grossberg,S.
+YR 1991
+T1 Pattern Recognition by Self-organizing Neural Networks
+
+RT Journal Article
+ID 1992089
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+A1 Rosen,David,B.
+YR 1991
+T1 ART 2-A: An adaptive resonance algorithm for rapid category learning and recognition
+JF Neural Networks
+VO 4
+SP 493
+OP 504
+IS 4
+
+RT Conference Proceedings
+ID 49922016
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+A1 Rosen,David,B.
+YR 1991
+T1 Fuzzy ART: an adaptive resonance algorithm for rapid, stable classification of analog patterns
+
+RT Journal Article
+ID 1981817
+A1 Gaudiano,Paolo
+A1 Grossberg,Stephen
+YR 1991
+T1 Vector associative maps: Unsupervised real-time error-based learning and control of movement trajectories
+JF Neural Networks
+VO 4
+SP 147
+OP 183
+IS 2
+
+RT Journal Article
+ID 2019060
+A1 Grossberg,Stephen
+A1 Somers,David
+YR 1991
+T1 Synchronized oscillations during cooperative feature linking in a cortical model of visual perception
+JF Neural Networks
+VO 4
+SP 453
+OP 466
+IS 4
+
+RT Journal Article
+ID 2070211
+A1 Bullock,D.
+A1 Grossberg,S.
+YR 1991
+T1 Adaptive neural networks for control of movement trajectories invariant under speed and force rescaling
+JF Human Movement Science
+VO 10
+SP 3
+OP 53
+IS 1
+
+RT Journal Article
+ID 2051626
+A1 Carpenter,G.
+A1 Grossberg,S.
+A1 Markuzon,J.,H.
+A1 Rosen,D.,B.
+YR 1991
+T1 Fuzzyartmap: A neural network architecture for incremental supervised learning of analog multi-dimensional amps
+JF IEEE Transactions on Neural Networks
+
+RT Journal Article
+ID 2023060
+A1 Grossberg,Stephen
+A1 Wyse,Lonce,L.
+YR 1991
+T1 A neural network architecture for figure-ground separation of connected scenic figures
+JF Neural Networks
+VO 4
+SP 723
+OP 742
+IS 6
+
+RT Conference Proceedings
+ID 49921958
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+A1 Reynolds,John
+YR 1991
+T1 ARTMAP: a self-organizing neural network architecture for fast supervised learning and pattern recognition
+
+RT Conference Proceedings
+ID 49921927
+A1 Grossberg,Stephen
+A1 Wyse,Lonce
+YR 1991
+T1 Invariant recognition of cluttered scenes by a self-organizing ART architecture: figure-ground separation
+
+RT Journal Article
+ID 48036213
+A1 Grossberg,Stephen
+YR 1991
+T1 Why do parallel cortical systems exist for the perception of static form and moving form?
+JF Attention Perception & Psychophysics
+VO 49
+SP 117
+OP 141
+IS 2
+
+RT Journal Article
+ID 2412401
+A1 Grossberg,S.
+YR 1991
+T1 Why do parallel cortical systems exist for the perception static form and moving form?''''Percept
+
+RT Conference Proceedings
+ID 49923135
+A1 Carpenter,G.,A.
+A1 Grossberg,S.
+A1 Reynolds,J.,H.
+YR 1991
+T1 ARTMAP: supervised real-time learning and classification of nonstationary data by a self-organizing neural network
+
+RT Conference Proceedings
+ID 49921931
+A1 Cruthirds,Dan
+A1 Gove,Alan
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+YR 1991
+T1 Preattentive texture segmentation and grouping by the boundary contour system
+
+RT Conference Proceedings
+ID 49921940
+A1 Bradski,Gary
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+YR 1991
+T1 Working memory networks for learning multiple groupings of temporally ordered events: applications to 3-D visual object recognition
+
+RT Conference Proceedings
+ID 49921983
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+A1 Rosen,David
+YR 1991
+T1 ART 2-A: an adaptive resonance algorithm for rapid category learning and recognition
+
+RT Conference Proceedings
+ID 49921998
+A1 Grossberg,S.
+A1 Somers,D.
+YR 1991
+T1 Synchronized oscillations during cooperative feature linking in visual cortex
+
+RT Journal Article
+ID 1740532
+A1 Grossberg,Stephen
+YR 1991
+T1 The third anniversary of Neural Networks
+JF Neural Networks
+VO 4
+SP 1
+OP 1
+IS 1
+
+RT Journal Article
+ID 19368743
+A1 Grossberg,Stephen
+YR 1991
+T1 Neural networks for pattern recognition with applications to acoustics and speech
+JF Journal of The Acoustical Society of America
+VO 90
+SP 2237
+IS 4
+
+RT Journal Article
+ID 51483521
+A1 Grossberg,Stephen
+YR 1991
+T1 Three-dimensional vision and figure-ground separation by visual cortex
+VO 1382
+SP 2
+OP 2
+
+RT Journal Article
+ID 54551427
+A1 Grossberg,Stephen
+YR 1991
+T1 Neural network architecture for form and motion perception
+VO 1469
+SP 24
+OP 26
+
+RT Journal Article
+ID 2004341
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+YR 1990
+T1 ART 3: Hierarchical search using chemical transmitters in self-organizing pattern recognition architectures
+JF Neural Networks
+VO 3
+SP 129
+OP 152
+IS 2
+
+RT Journal Article
+ID 35836823
+A1 TAYLOR,J
+A1 GROSSBERG,S
+YR 1990
+T1 Recent progress in interferon research: molecular mechanisms of regulation, action, and virus circumventin
+JF Virus Research
+VO 15
+SP 1
+OP 25
+IS 1
+
+RT Journal Article
+ID 2871713
+A1 Shapley,R.
+A1 Caelli,T.
+A1 Grossberg,S.
+A1 Morgan,M.,J.
+A1 Rentschler,I.
+YR 1990
+T1 Computational thories of visual perception
+
+RT Journal Article
+ID 38207019
+A1 GROSSBERG,STEPHEN
+YR 1990
+T1 Neural Facades: Visual Representations of Static and Moving Form-And-Color-And-Depth
+JF Mind & Language
+VO 5
+SP 411
+OP 456
+IS 4
+
+RT Journal Article
+ID 1740518
+A1 Grossberg,Stephen
+YR 1990
+T1 The second anniversary of Neural Networks
+JF Neural Networks
+VO 3
+SP 1
+OP 1
+IS 1
+
+RT Journal Article
+ID 54909956
+A1 Grossberg,Stephen
+YR 1990
+T1 Neural network architecture for form and motion perception
+VO 1192
+SP 504
+OP 504
+
+RT Journal Article
+ID 3443614
+A1 Grossberg,S.
+A1 Kuperstein,M.
+YR 1989
+T1 Neural Dynamics of Adaptive Sensory-motor Control
+
+RT Journal Article
+ID 2401333
+A1 Grossberg,Stephen
+A1 Schmajuk,Nestor,A.
+YR 1989
+T1 Neural dynamics of adaptive timing and temporal discrimination during associative learning
+JF Neural Networks
+VO 2
+SP 79
+OP 102
+IS 2
+
+RT Conference Proceedings
+ID 1510392
+A1 GROSSBERG,STEPHEN
+A1 MINGOLLA,ENNIO
+A1 TODOROVIC,DEJAN
+YR 1989
+T1 A Neural Network Architecture for Preattentive Vision
+
+RT Journal Article
+ID 2119405
+A1 Grossberg,Stephen
+A1 Rudd,Michael,E.
+YR 1989
+T1 A neural architecture for visual motion perception: Group and element apparent motion
+JF Neural Networks
+VO 2
+SP 421
+OP 450
+IS 6
+
+RT Conference Proceedings
+ID 49875575
+A1 Carpenter,G.,A.
+A1 Grossberg,S.
+YR 1989
+T1 Search mechanisms for adaptive resonance theory (ART) architectures
+
+RT Journal Article
+ID 2153794
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+A1 Mehanian,Courosh
+YR 1989
+T1 Invariant recognition of cluttered scenes by a self-organizing ART architecture: CORT-X boundary segmentation
+JF Neural Networks
+VO 2
+SP 169
+OP 181
+IS 3
+
+RT Journal Article
+ID 27045751
+A1 Grossberg,S.
+A1 Mingolla,E.
+A1 Todorovic,D.
+YR 1989
+T1 A neural network architecture for preattentive vision
+JF IEEE Transactions on Biomedical Engineering
+VO 36
+SP 65
+OP 84
+IS 1
+
+RT Journal Article
+ID 2153789
+A1 Grossberg,Stephen
+A1 Marshall,Jonathan,A.
+YR 1989
+T1 Stereo boundary fusion by cortical complex cells: A system of maps, filters, and feedback networks for multiplexing distributed data
+JF Neural Networks
+VO 2
+SP 29
+OP 51
+IS 1
+
+RT Journal Article
+ID 721387
+A1 Grossberg,Stephen
+YR 1989
+T1 Review of Perceptrons
+JF Ai Magazine
+VO 10
+SP 91
+OP 92
+IS 2
+
+RT Journal Article
+ID 36618317
+A1 Grossberg,Stephen
+YR 1989
+T1 Classical conditioning: The role of interdisciplinary theory
+JF Behavioral and Brain Sciences
+VO 12
+SP 144
+IS 01
+
+RT Conference Proceedings
+ID 49875574
+A1 Grossberg,Stephen
+A1 Rudd,Michael,E.
+YR 1989
+T1 A neural architecture for visual motion perception: group and element apparent motion
+
+RT Conference Proceedings
+ID 49879443
+A1 Grossberg,Stephen
+YR 1989
+T1 Recent results on neural network architectures for vision and pattern recognition
+
+RT Journal Article
+ID 1934943
+A1 Grossberg,Stephen
+YR 1988
+T1 Nonlinear neural networks: Principles, mechanisms, and architectures
+JF Neural Networks
+VO 1
+SP 17
+OP 61
+IS 1
+
+RT Journal Article
+ID 848596
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+YR 1988
+T1 The ART of Adaptive Pattern Recognition by a Self-Organizing Neural Network
+JF IEEE Computer
+VO 21
+SP 77
+OP 88
+IS 3
+
+RT Journal Article
+ID 1981815
+A1 Bullock,Daniel
+A1 Grossberg,Stephen
+YR 1988
+T1 Neural dynamics of planned arm movements: Emergent invariants and speed^accuracy properties during trajectory formation
+JF Psychological Review
+VO 95
+SP 49
+OP 90
+IS 1
+
+RT Journal Article
+ID 1339862
+A1 Grossberg,S
+YR 1988
+T1 Neural networks and natural intelligence
+
+RT Journal Article
+ID 3443610
+A1 GROSSBERG,STEPHEN
+A1 TODOROVIC,DEJAN
+YR 1988
+T1 Neural dynamics of ID and 2-D brightness perception: A unified model of classical and recent phenomena
+
+RT Journal Article
+ID 48040423
+A1 Grossberg,Stephen
+A1 Todorovic,Dejan
+YR 1988
+T1 Neural dynamics of 1-D and 2-D brightness perception: A unified model of classical and recent phenomena
+JF Attention Perception & Psychophysics
+VO 43
+SP 241
+OP 277
+IS 3
+
+RT Journal Article
+ID 3444585
+A1 Grossberg,Stephen
+YR 1988
+T1 Neural networks for visual perception in variable illumination
+JF Optics News
+VO 14
+SP 5
+IS 8
+
+RT Journal Article
+ID 36226364
+A1 KUSHNARYOV,V
+A1 MACDONALD,H
+A1 SEDMAK,J
+A1 GROSSBERG,S
+YR 1988
+T1 The cellular internalization of recombinant gamma interferon differs from that of natural interferon gamma
+JF Biochemical and Biophysical Research Communications
+VO 157
+SP 109
+OP 114
+IS 1
+
+RT Journal Article
+ID 59261758
+A1 Bullock,Daniel
+A1 Grossberg,Stephen
+YR 1988
+T1 Neural Dynamics of Planned Arm Movements: Emergent Invariants and Speed—Accuracy Properties During Trajectory Formation
+JF Psychological Review
+VO 95
+SP 49
+OP 90
+IS 1
+
+RT Journal Article
+ID 1284536
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+YR 1987
+T1 A massively parallel architecture for a self-organizing neural pattern recognition machine
+JF Graphical Models /graphical Models and Image Processing /computer Vision, Graphics, and Image Processing
+VO 37
+SP 54
+OP 115
+IS 1
+
+RT Journal Article
+ID 1974484
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+YR 1987
+T1 ART 2: self-organization of stable category recognition codes for analog input patterns
+JF Applied Optics
+VO 26
+SP 4919
+OP 4930
+IS 23
+
+RT Journal Article
+ID 845183
+A1 Grossberg,Stephen
+YR 1987
+T1 Competitive Learning: From Interactive Activation to Adaptive Resonance
+JF Cognitive Science
+VO 11
+SP 23
+OP 63
+IS 1
+
+RT Journal Article
+ID 2365898
+A1 Carpenter,G.,A.
+A1 Grossberg,S.
+YR 1987
+T1 ART 2: Stable self-organization of pattern recognition codes for analog input patterns
+
+RT Journal Article
+ID 3443633
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+YR 1987
+T1 Neural dynamics of surface perception: Boundary webs, illuminants, and shape-from-shading
+JF Graphical Models /graphical Models and Image Processing /computer Vision, Graphics, and Image Processing
+VO 37
+SP 116
+OP 165
+IS 1
+
+RT Journal Article
+ID 2904719
+A1 Grossberg,S.
+YR 1987
+T1 Cortical dynamics of three-dimensional form, color, and brightness perception. 2. Binocular theory
+
+RT Journal Article
+ID 19569374
+A1 Banquet,Jean-Paul
+A1 Grossberg,Stephen
+YR 1987
+T1 Probing cognitive processes through the structure of event-related potentials during learning: an experimental and theoretical analysis
+JF Applied Optics
+VO 26
+SP 4931
+OP 4946
+IS 23
+
+RT Journal Article
+ID 1978157
+A1 Grossberg,S.
+YR 1987
+T1 The Adaptive Brain I
+
+RT Journal Article
+ID 36922594
+A1 Grossberg,Stephen
+A1 Gutowski,William,E.
+YR 1987
+T1 Neural Dynamics of Decision Making Under Risk: Affective Balance and Cognitive-Emotional Interactions
+JF Psychological Review
+VO 94
+SP 300
+OP 318
+IS 3
+
+RT Journal Article
+ID 19569380
+A1 Grossberg,Stephen
+A1 Levine,Daniel,S.
+YR 1987
+T1 Neural dynamics of attentionally modulated Pavlovian conditioning: blocking, interstimulus interval, and secondary reinforcement
+JF Applied Optics
+VO 26
+SP 5015
+OP 5030
+IS 23
+
+RT Journal Article
+ID 19568807
+A1 Cohen,Michael,A.
+A1 Grossberg,Stephen
+YR 1987
+T1 Masking fields: a massively parallel neutral architecture for learning, recognizing, and predicting multiple groupings of patterned data
+JF Applied Optics
+VO 26
+SP 1866
+OP 1891
+IS 10
+
+RT Journal Article
+ID 47687603
+A1 Grossberg,Stephen
+YR 1987
+T1 Cortical dynamics of three-dimensional form, color, and brightness perception: II. Binocular theory
+JF Attention Perception & Psychophysics
+VO 41
+SP 117
+OP 158
+IS 2
+
+RT Journal Article
+ID 2000441
+A1 Grossberg,S.
+A1 Schmajuk,N.,A.
+YR 1987
+T1 Neural Dynamics of Attentionally Modulated Pavlovian Conditioning: Conditioned Reinforcement
+
+RT Journal Article
+ID 2023363
+A1 Grossberg,S.
+YR 1987
+T1 Cortical dynamics of three-dimensional form
+
+RT Journal Article
+ID 3443629
+A1 Bullock,D.
+A1 Grossberg,S.
+YR 1987
+T1 Neural dynamics of planned arm movements: Emergent invariants and speed-accuracy properties during
+
+RT Journal Article
+ID 36922595
+A1 Grossberg,Stephen
+A1 Gutowski,William,E.
+YR 1987
+T1 Neural dynamics of decision making under risk: Affective balance and cognitive-emotional interactions
+JF Psychological Review
+VO 94
+SP 300
+OP 318
+IS 3
+
+RT Journal Article
+ID 19569372
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+YR 1987
+T1 Neural networks: introduction to the 1 December 1987 issue of Applied Optics
+JF Applied Optics
+VO 26
+SP 4909
+IS 23
+
+RT Journal Article
+ID 55931559
+A1 Carpenter,Gail,A.
+A1 Cohen,Michael,A.
+A1 Grossberg,Stephen
+A1 Kohonen,Teuvo
+A1 Oja,Erkki
+A1 Palm,Gunther
+YR 1987
+T1 Computing with Neural Networks
+JF Science
+VO 235
+SP 1226
+OP 1228
+
+RT Journal Article
+ID 51984265
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+YR 1987
+T1 Associative learning, adaptive pattern recognitiion, and cooperative-competitive decision makin by neural networks
+VO 634
+SP 218
+
+RT Journal Article
+ID 48009523
+A1 Grossberg,Stephen
+YR 1987
+T1 Cortical dynamics of three-dimensional form, color, and brightness perception: I. Monocular theory
+JF Attention Perception & Psychophysics
+VO 41
+SP 87
+OP 116
+IS 2
+
+RT Journal Article
+ID 36617883
+A1 Grossberg,Stephen
+YR 1987
+T1 Stable self-organization of sensory recognition codes: Is chaos necessary?
+JF Behavioral and Brain Sciences
+VO 10
+SP 179
+IS 02
+
+RT Journal Article
+ID 1275887
+A1 Carpenter,G.,A.
+A1 Grossberg,S.
+YR 1986
+T1 Neural dynamics of category learning and recognition: attention, memory consolidation and amnesia
+
+RT Journal Article
+ID 4559450
+A1 Grossberg,Stephen
+A1 Stone,Gregory
+YR 1986
+T1 Neural dynamics of word recognition and recall: Attentional priming, learning, and resonance
+JF Psychological Review
+VO 93
+SP 46
+OP 74
+IS 1
+
+RT Journal Article
+ID 2070217
+A1 Grossberg,S.
+A1 Kuperstein,M.
+YR 1986
+T1 Neural dynamics of adaptive sensory-motor control: Ballistic eye movements
+
+RT Journal Article
+ID 48545244
+A1 Grossberg,Stephen
+A1 Stone,Gregory
+YR 1986
+T1 Neural dynamics of attention switching and temporal-order information in short-term memory
+JF Memory & Cognition
+VO 14
+SP 451
+OP 468
+IS 6
+
+RT Journal Article
+ID 16202322
+A1 CARPENTER,G
+A1 GROSSBERG,S
+YR 1986
+T1 A massively parallel architecture for a self-organizing neural pattern recognition machine
+JF Graphical Models /graphical Models and Image Processing /computer Vision, Graphics, and Image Processing
+VO 36
+SP 396
+IS 2-3
+
+RT Journal Article
+ID 36222743
+A1 MACDONALD,H
+A1 KUSHNARYOV,V
+A1 JAMESSEDMAK,J
+A1 GROSSBERG,S
+YR 1986
+T1 Transport of ?-interferon into the cell nucleus may be mediated by nuclear membrane receptors
+JF Biochemical and Biophysical Research Communications
+VO 138
+SP 254
+OP 260
+IS 1
+
+RT Journal Article
+ID 1294412
+A1 Grossberg,S.
+A1 Mingolla,E.
+YR 1986
+T1 Computer simulation of neural networks for perceptual psychology
+
+RT Journal Article
+ID 2026513
+A1 Grossberg,S.
+A1 Stone,G.,O.
+YR 1986
+T1 Neural dynamics of word recognition and recall
+
+RT Journal Article
+ID 4554328
+A1 Cohen,M.
+A1 Grossberg,S.
+YR 1986
+T1 . Neurnl dynamics of speech and language coding: developmental programs, perceptual grouping, and competition for short-tenD memory
+
+RT Journal Article
+ID 54920556
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+YR 1986
+T1 Absolutely stable learning of recognition codes by a self-organizing neural network
+VO 151
+SP 77
+OP 85
+
+RT Journal Article
+ID 4192340
+A1 Carpenter,G.
+A1 Grossberg,S.
+YR 1986
+T1 Adaptive resonance theory: Stable self - organization WINNER - TAKE - ALL NEURAL NETWORK 221 of neural recognition codes in response to arbitrary lists of input patterns
+
+RT Journal Article
+ID 16202323
+A1 GROSSBERG,S
+A1 MINGOLLA,E
+YR 1986
+T1 Neural dynamics of surface perception: Boundary webs, illuminants, and shape-from-shading
+JF Graphical Models /graphical Models and Image Processing /computer Vision, Graphics, and Image Processing
+VO 36
+SP 396
+IS 2-3
+
+RT Journal Article
+ID 59261599
+A1 Grossberg,Stephen
+A1 Stone,Gregory
+YR 1986
+T1 Neural Dynamics of Word Recognition and Recall: Attentional Priming, Learning, and Resonance
+JF Psychological Review
+VO 93
+SP 46
+OP 74
+IS 1
+
+RT Journal Article
+ID 48021378
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+YR 1986
+T1 Computer simulation of neural networks for perceptual psychology
+JF Behavior Research Methods
+VO 18
+SP 601
+OP 607
+IS 6
+
+RT Journal Article
+ID 36617389
+A1 Grossberg,Stephen
+YR 1986
+T1 Brain metaphors, theories, and facts
+JF Behavioral and Brain Sciences
+VO 9
+SP 97
+IS 01
+
+RT Journal Article
+ID 3443619
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+YR 1985
+T1 Neural Dynamics of Form Perception: Boundary Completion, Illusory Figures, and Neon Color Spreading
+JF Psychological Review
+VO 92
+SP 173
+OP 211
+IS 2
+
+RT Journal Article
+ID 1970106
+A1 Grossberg,S
+A1 Mingolla,E
+YR 1985
+T1 Neural dynamics of perceptual grouping: textures, boundaries, and emergent segmentations
+
+RT Journal Article
+ID 2401334
+A1 Grossberg,S
+A1 Mingolla,E
+YR 1985
+T1 Neural dynamics of form perception: boundary completion
+
+RT Journal Article
+ID 36487251
+A1 CARPENTER,G
+A1 GROSSBERG,S
+YR 1985
+T1 A neural theory of circadian rhythms: Split rhythms, after-effects and motivational interactions
+JF Journal of Theoretical Biology
+VO 113
+SP 163
+OP 223
+IS 1
+
+RT Journal Article
+ID 36617048
+A1 Grossberg,Stephen
+YR 1985
+T1 Four frames do not suffice
+JF Behavioral and Brain Sciences
+VO 8
+SP 294
+IS 02
+
+RT Journal Article
+ID 47805684
+A1 Grossberg,Stephen
+A1 Mingolla,Ennio
+YR 1985
+T1 Neural dynamics of perceptual grouping: Textures, boundaries, and emergent segmentations
+JF Attention Perception & Psychophysics
+VO 38
+SP 141
+OP 171
+IS 2
+
+RT Journal Article
+ID 36616788
+A1 Grossberg,Stephen
+YR 1985
+T1 The role of learning in sensory-motor control
+JF Behavioral and Brain Sciences
+VO 8
+SP 155
+IS 01
+
+RT Journal Article
+ID 36616827
+A1 Grossberg,Stephen
+YR 1985
+T1 Cognitive self-organization and neural modularity
+JF Behavioral and Brain Sciences
+VO 8
+SP 18
+IS 01
+
+RT Journal Article
+ID 1986595
+A1 Cohen,M.,A.
+A1 Grossberg,S.
+YR 1984
+T1 Neural dynamics of brightness perception: features, boundaries, diffusion and resonance
+
+RT Journal Article
+ID 2407003
+A1 Grossberg,S.
+YR 1984
+T1 Some normal and abnormal behavioral syndromes due to transmitter gating of opponent processes
+
+RT Journal Article
+ID 3539100
+A1 Grossberg,S.
+YR 1984
+T1 Outline of a theory of brightness, color, and form perception
+
+RT Journal Article
+ID 36616576
+A1 Grossberg,Stephen
+YR 1984
+T1 Neuroethology and theoretical neurobiology
+JF Behavioral and Brain Sciences
+VO 7
+SP 388
+IS 03
+
+RT Journal Article
+ID 47612159
+A1 Cohen,Michael,A.
+A1 Grossberg,Stephen
+YR 1984
+T1 Neural dynamics of brightness perception: Features, boundaries, diffusion, and resonance
+JF Attention Perception & Psychophysics
+VO 36
+SP 428
+OP 456
+IS 5
+
+RT Journal Article
+ID 36616643
+A1 Grossberg,Stephen
+YR 1984
+T1 The microscopic analysis of behavior: Toward a synthesis of instrumental, perceptual, and cognitive ideas
+JF Behavioral and Brain Sciences
+VO 7
+SP 594
+IS 04
+
+RT Journal Article
+ID 1924776
+A1 Cohen,M.,A.
+A1 Grossberg,S.
+YR 1983
+T1 Absolute stability of global pattern formation and parallel memory storage by competitive neural networks
+JF IEEE Transactions on Systems, Man, and Cybernetics
+
+RT Journal Article
+ID 36616217
+A1 Grossberg,Stephen
+YR 1983
+T1 The quantized geometry of visual space: The coherent computation of depth, form, and lightness
+JF Behavioral and Brain Sciences
+VO 6
+SP 625
+IS 04
+
+RT Journal Article
+ID 1990778
+A1 Carpenter,G.,A.
+A1 Grossberg,S.
+YR 1983
+T1 A neural theory of circadian rhythms: The gated pace-maker
+JF Formal Aspects of Computing
+
+RT Journal Article
+ID 15209745
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+YR 1983
+T1 A neural theory of circadian rhythms: The gated pacemaker
+JF Biological Cybernetics
+VO 48
+SP 35
+OP 59
+IS 1
+
+RT Journal Article
+ID 35738435
+A1 SEDMAK,J
+A1 DIXON,M
+A1 SCHOENHERR,C
+A1 SABRAN,J
+A1 GROSSBERG,S
+YR 1983
+T1 Interferon and antibody titrations using haemagglutinating togaviridae and trypsinized human erythrocytes
+JF Journal of Virological Methods
+VO 6
+SP 99
+OP 105
+IS 2
+
+RT Journal Article
+ID 37766878
+A1 Grossberg,S.
+YR 1983
+T1 Adaptation and Gain Normalization: A Comment on Ullman & Schechtman (1982)
+JF Proceedings of The Royal Society of London. Series B, Biological Sciences (1934-1990)
+VO 219
+SP 471
+OP 473
+IS 1217
+
+RT Journal Article
+ID 16172110
+A1 Grossberg,S
+YR 1983
+T1 Biomathematics in 1980 (Editors) L.M. Ricciardi and A.C. Scott, North-Holland Publishing Co., Amsterdam, 1982, 297 pp. $55.75 (Dfl 120.00)
+JF Mathematical Biosciences
+VO 65
+SP 151
+OP 152
+IS 1
+
+RT Journal Article
+ID 36616208
+A1 Grossberg,Stephen
+YR 1983
+T1 Interdisciplinary aspects of perceptual dynamics
+JF Behavioral and Brain Sciences
+VO 6
+SP 676
+IS 04
+
+RT Journal Article
+ID 1385339
+A1 Grossberg,S
+YR 1982
+T1 Studies of mind and brain
+
+RT Journal Article
+ID 2893041
+A1 Grossberg,S.
+YR 1982
+T1 Contour enhancement, short term memory, and constancies in reverberating neural networks
+
+RT Journal Article
+ID 4572048
+A1 Grossberg,Stephen
+YR 1982
+T1 Processing of expected and unexpected events during conditioning and attention: A psychophysiological theory
+JF Psychological Review
+VO 89
+SP 529
+OP 572
+IS 5
+
+RT Journal Article
+ID 2083013
+A1 Grossberg,S.
+YR 1982
+T1 Studies of mind and brain: neural principles of learning
+
+RT Journal Article
+ID 2748419
+A1 Grossberg,S.
+YR 1982
+T1 Associative and competitive principles of learning and development
+
+RT Journal Article
+ID 36217933
+A1 LOUGH,J
+A1 KEAY,S
+A1 SABRAN,J
+A1 GROSSBERG,S
+YR 1982
+T1 Inhibition of chicken myogenesis by partially purified interferon
+JF Biochemical and Biophysical Research Communications
+VO 109
+SP 92
+OP 99
+IS 1
+
+RT Journal Article
+ID 2388513
+A1 CARPENTER,GAIL,A.
+A1 GROSSBERG,STEPHEN
+YR 1981
+T1 ADAPTATION AND TRANSMITTER GATING IN VERTEBRATE PHOTORECEPTORS
+
+RT Journal Article
+ID 1396636
+A1 Grossberg,Stephen
+YR 1980
+T1 How does a brain build a cognitive code?
+JF Psychological Review
+VO 87
+SP 1
+OP 51
+IS 1
+
+RT Journal Article
+ID 15118258
+A1 Grossberg,Stephen
+YR 1980
+T1 Biological Competition: Decision Rules, Pattern Formation, and Oscillations
+JF Proceedings of The National Academy of Sciences
+VO 77
+SP 2338
+OP 2342
+IS 4
+
+RT Journal Article
+ID 16096326
+A1 GROSSBERG,S
+YR 1980
+T1 Intracellular mechanisms of adaptation and self-regulation in self-organizing networks: The role of chemical transducers
+JF Bulletin of Mathematical Biology
+VO 42
+SP 365
+OP 396
+IS 3
+
+RT Journal Article
+ID 36615450
+A1 Grossberg,Stephen
+YR 1980
+T1 Direct perception or adaptive resonance?
+JF Behavioral and Brain Sciences
+VO 3
+SP 385
+IS 03
+
+RT Journal Article
+ID 36615648
+A1 Grossberg,Stephen
+YR 1980
+T1 Human and computer rules and representations are not equivalent
+JF Behavioral and Brain Sciences
+VO 3
+SP 136
+IS 01
+
+RT Journal Article
+ID 16096327
+A1 Grossberg,Stephen
+YR 1980
+T1 Intracellular mechanisms of adaptation and self-regulation in self-organizing networks: The role of chemical transducers
+JF Bulletin of Mathematical Biology
+VO 42
+SP 365
+OP 396
+IS 3
+
+RT Journal Article
+ID 36582650
+A1 JAMESON,P
+A1 GREIFF,D
+A1 GROSSBERG,S
+YR 1979
+T1 Thermal stability of freeze-dried mammalian interferons Analysis of freeze-drying conditions and accelerated storage tests for murine interferon
+JF Cryobiology
+VO 16
+SP 301
+OP 314
+IS 4
+
+RT Journal Article
+ID 16214561
+A1 GROSSBERG,S
+YR 1978
+T1 Competition, decision, and consensus
+JF Journal of Mathematical Analysis and Applications
+VO 66
+SP 470
+OP 493
+IS 2
+
+RT Journal Article
+ID 36522425
+A1 GROSSBERG,S
+YR 1978
+T1 Behavioral contrast in short term memory: Serial binary memory models or parallel continuous memory models?
+JF Journal of Mathematical Psychology
+VO 17
+SP 199
+OP 219
+IS 3
+
+RT Journal Article
+ID 2775577
+A1 Grossberg,S.
+YR 1978
+T1 Behavioral contrast in short-tenn memory: Serial binary memory models or parallel continuous memory
+
+RT Journal Article
+ID 36485469
+A1 GROSSBERG,S
+YR 1978
+T1 Decisions, patterns, and oscillations in nonlinear competitive systems with applications to Volterra-Lotka systems
+JF Journal of Theoretical Biology
+VO 73
+SP 101
+OP 130
+IS 1
+
+RT Journal Article
+ID 36922321
+A1 Grossberg,Stephen
+YR 1978
+T1 Do all neural models really look alike? A comment on Anderson, Silverstein, Ritz, and Jones
+JF Psychological Review
+VO 85
+SP 592
+OP 596
+IS 6
+
+RT Journal Article
+ID 36922322
+A1 Grossberg,Stephen
+YR 1978
+T1 Do all neural models really look alike? A comment on Anderson, Silverstein, Ritz, and Jones
+JF Psychological Review
+VO 85
+SP 592
+OP 596
+IS 6
+
+RT Journal Article
+ID 36390342
+A1 SEDMAK,J
+A1 GROSSBERG,S
+YR 1977
+T1 A rapid, sensitive, and versatile assay for protein using Coomassie brilliant blue G250
+JF Analytical Biochemistry
+VO 79
+SP 544
+OP 552
+IS 1-2
+
+RT Journal Article
+ID 16138031
+A1 Grossberg,S.
+YR 1977
+T1 Pattern formation by the global limits of a nonlinear competitive interaction in n dimensions
+JF Journal of Mathematical Biology
+VO 4
+SP 237
+OP 256
+IS 3
+
+RT Journal Article
+ID 15209198
+A1 Grossberg,S.
+YR 1976
+T1 Adaptive pattern classification and universal recoding: I. Parallel development and coding of neural feature detectors
+JF Biological Cybernetics
+VO 23
+SP 121
+OP 134
+IS 3
+
+RT Journal Article
+ID 2077729
+A1 Grossberg,S.
+YR 1976
+T1 Adapti,'e f)attem Classification and Universal Recoiling: I. Parallel Development and Coding of Neural Feature Detectors
+JF Formal Aspects of Computing
+
+RT Journal Article
+ID 48219473
+A1 Grossberg,Stephen
+YR 1976
+T1 Adaptive pattern classification and universal recoding: II. Feedback, expectation, olfaction, illusions
+JF Biological Cybernetics
+VO 23
+SP 187
+OP 202
+IS 4
+
+RT Journal Article
+ID 2040995
+A1 Grossberg,Stephen
+YR 1976
+T1 On the development of feature detectors in the visual cortex with applications to learning and reaction-diffusion systems
+JF Biological Cybernetics
+VO 21
+SP 145
+OP 159
+IS 3
+
+RT Journal Article
+ID 36484987
+A1 LEVINE,D
+A1 GROSSBERG,S
+YR 1976
+T1 Visual illusions in neural networks: Line neutralization, tilt after effect, and angle expansion
+JF Journal of Theoretical Biology
+VO 61
+SP 477
+OP 504
+IS 2
+
+RT Journal Article
+ID 2082965
+A1 Grossberg,S.
+YR 1976
+T1 Adaptive pattern classification and universal recoding
+JF Formal Aspects of Computing
+
+RT Journal Article
+ID 2048299
+A1 Grossberg,S.
+YR 1976
+T1 Adaptive pattern recognition and universal recoding
+
+RT Journal Article
+ID 14999400
+A1 Sela,I
+A1 Grossberg,S.
+A1 Sedmak,J.
+A1 Mehler,A.
+YR 1976
+T1 Discharge of aminoacyl-viral RNA by a factor from interferon-treated cells
+JF Science
+VO 194
+SP 527
+OP 529
+IS 4264
+
+RT Journal Article
+ID 36280965
+A1 LENGLE,E
+A1 FRERMAN,F
+A1 GROSSBERG,S
+YR 1976
+T1 Alterations in the developmental patterns of enzymes in chicken embryos infected with west nile virus
+JF Archives of Biochemistry and Biophysics
+VO 177
+SP 157
+OP 169
+IS 1
+
+RT Journal Article
+ID 15209138
+A1 Ellias,Samuel,A.
+A1 Grossberg,Stephen
+YR 1975
+T1 Pattern formation, contrast control, and oscillations in the short term memory of shunting on-center off-surround networks
+JF Biological Cybernetics
+VO 20
+SP 69
+OP 98
+IS 2
+
+RT Journal Article
+ID 36484711
+A1 GROSSBERG,S
+A1 LEVINE,D
+YR 1975
+T1 Some developmental and attentional biases in the contrast enhancement and short term memory of recurrent neural networks
+JF Journal of Theoretical Biology
+VO 53
+SP 341
+OP 380
+IS 2
+
+RT Journal Article
+ID 2040992
+A1 Grossberg,S.
+YR 1975
+T1 A neural model of attention
+
+RT Journal Article
+ID 2017972
+A1 Grossberg,S.
+YR 1974
+T1 Classical and instrumental learning by neural networks
+
+RT Journal Article
+ID 2836387
+A1 Grossberg,S.
+YR 1974
+T1 Classical and instrumental conditioning by neural networks
+
+RT Journal Article
+ID 4193629
+A1 Grossberg,S.
+YR 1973
+T1 Contour enhancement, short term memory, and constancies in rever - berating neural networks
+
+RT Journal Article
+ID 6492970
+A1 GROSSBERG,STEPHEN
+YR 1972
+T1 A neural theory of punishment and avoidance, I: Qualitative theory
+JF Mathematical Biosciences
+VO 15
+SP 39
+OP 67
+IS 1-2
+
+RT Journal Article
+ID 1295786
+A1 Grossberg,S.
+YR 1972
+T1 A neural theory of punishment and avoidance
+
+RT Journal Article
+ID 3557209
+A1 Grossberg,Stephen
+YR 1971
+T1 Pavlovian Pattern Learning by Nonlinear Neural Networks
+JF Proceedings of The National Academy of Sciences
+VO 68
+SP 828
+OP 831
+IS 4
+
+RT Journal Article
+ID 2070216
+A1 Grossberg,S.
+YR 1971
+T1 On the dynamics of operant conditioning
+JF Journal of Theoretical Biology
+VO 33
+SP 225
+OP 255
+IS 2
+
+RT Journal Article
+ID 18699132
+A1 Grossberg,Stephen
+A1 Pepe,James
+YR 1971
+T1 Spiking threshold and overarousal effects in serial learning
+JF Journal of Statistical Physics
+VO 3
+SP 95
+OP 125
+IS 2
+
+RT Journal Article
+ID 26970509
+A1 Grossberg,Stephen
+YR 1971
+T1 Embedding Fields: Underlying Philosophy, Mathematics, and Applications to Psychology, Physiology, and Anatomy
+JF Cybernetics and Systems
+VO 1
+SP 28
+OP 50
+IS 1
+
+RT Journal Article
+ID 36387368
+A1 ROCH,L
+A1 GROSSBERG,S
+YR 1971
+T1 Rapid fluorometric micromethod for quantitation of lipids on thin-layer chromatograms
+JF Analytical Biochemistry
+VO 41
+SP 105
+OP 115
+IS 1
+
+RT Journal Article
+ID 36483719
+A1 GROSSBERG,S
+YR 1970
+T1 Neural pattern discrimination
+JF Journal of Theoretical Biology
+VO 27
+SP 291
+OP 337
+IS 2
+
+RT Journal Article
+ID 1970154
+A1 Grossberg,S.
+YR 1969
+T1 Some networks that can learn, remember, and reproduce any number of complicated space-time patterns, 1
+
+RT Journal Article
+ID 2015481
+A1 Grossberg,Stephen
+YR 1969
+T1 On learning and energy-entropy dependence in recurrent and nonrecurrent signed networks
+JF Journal of Statistical Physics
+VO 1
+SP 319
+OP 350
+IS 2
+
+RT Journal Article
+ID 36522209
+A1 GROSSBERG,S
+YR 1969
+T1 Embedding fields: A theory of learning with physiological implications*1
+JF Journal of Mathematical Psychology
+VO 6
+SP 209
+OP 239
+IS 2
+
+RT Journal Article
+ID 1986686
+A1 Grossberg,S.
+YR 1969
+T1 On the production and release of chemical transmitters and related topics in cellular control
+JF Journal of Theoretical Biology
+VO 22
+SP 325
+OP 364
+IS 2
+
+RT Journal Article
+ID 3027771
+A1 GROSSBERG,STEPHEN
+YR 1969
+T1 Embedding Fietds: A Theory of Learning with Physiological Implicationsl
+
+RT Journal Article
+ID 16170887
+A1 Grossberg,S
+YR 1969
+T1 On learning, information, lateral inhibition, and transmitters
+JF Mathematical Biosciences
+VO 4
+SP 255
+OP 310
+IS 3-4
+
+RT Journal Article
+ID 2040993
+A1 Grossberg,Stephen
+YR 1969
+T1 On the serial learning of lists
+JF Mathematical Biosciences
+VO 4
+SP 201
+OP 253
+IS 1-2
+
+RT Journal Article
+ID 16206125
+A1 GROSSBERG,S
+YR 1969
+T1 On the variational systems of some nonlinear difference-differential equations
+JF Journal of Differential Equations
+VO 6
+SP 544
+OP 577
+IS 3
+
+RT Journal Article
+ID 16381965
+A1 Grossberg,Stephen
+YR 1969
+T1 Learning and energy-entropy dependence in some nonlinear functional-differential systems
+JF Bulletin of The American Mathematical Society
+VO 75
+SP 1238
+OP 1242
+IS 1969
+
+RT Journal Article
+ID 16206087
+A1 Grossberg,Stephen
+YR 1969
+T1 On the global limits and oscillations of a system of nonlinear differential equations describing a flow on a probabilistic network
+JF Journal of Differential Equations
+VO 5
+SP 531
+OP 563
+IS 3
+
+RT Journal Article
+ID 2023134
+A1 Grossberg,Stephen
+YR 1968
+T1 Some Physiological and Biochemical Consequences of Psychological Postulates
+JF Proceedings of The National Academy of Sciences
+VO 60
+SP 758
+OP 765
+IS 3
+
+RT Journal Article
+ID 15105702
+A1 Grossberg,Stephen
+YR 1968
+T1 Some Nonlinear Networks Capable of Learning a Spatial Pattern of Arbitrary Complexity
+JF Proceedings of The National Academy of Sciences
+VO 59
+SP 368
+OP 372
+IS 2
+
+RT Journal Article
+ID 16212139
+A1 GROSSBERG,S
+YR 1968
+T1 A prediction theory for some nonlinear functional-differential equations I. Learning of lists
+JF Journal of Mathematical Analysis and Applications
+VO 21
+SP 643
+OP 694
+IS 3
+
+RT Journal Article
+ID 3769063
+A1 GROSSBERG,STEPHEN
+YR 1968
+T1 SOME NONliNEAR NETWORKS CAP ABLE OF LEARNING A SPATIAL PATTERN OF ARBITRARY COMPLEXITY
+
+RT Journal Article
+ID 10494572
+A1 Grossberg,Stephen
+YR 1968
+T1 Global ratio limit theorems for some nonlinear functional-differential equations. I
+JF Bulletin of The American Mathematical Society
+VO 74
+SP 95
+OP 99
+IS 1968
+
+RT Journal Article
+ID 16212174
+A1 GROSSBERG,S
+YR 1968
+T1 A prediction theory for some nonlinear functional-differential equations. II. Learning of patterns*1
+JF Journal of Mathematical Analysis and Applications
+VO 22
+SP 490
+OP 522
+IS 3
+
+RT Journal Article
+ID 15105472
+A1 Grossberg,Stephen
+YR 1967
+T1 Nonlinear Difference-Differential Equations in Prediction and Learning Theory
+JF Proceedings of The National Academy of Sciences
+VO 58
+SP 1329
+OP 1334
+IS 4
+
+RT Book, Whole
+ID 360768
+A1 Grossberg,Stephen
+T1 The Link Between Brain Learning, Attention, and Consciousness
+
+RT Journal Article
+ID 4212433
+A1 Brown,Joshua
+A1 Bullock,Daniel
+A1 Grossberg,Stephen
+T1 How the Basal Ganglia Use Parallel Excitatory and Inhibitory Learning Pathways to Selectively Respond to Unexpected Rewarding Cues
+
+RT Journal Article
+ID 10738432
+A1 Cohen,Michael,A.
+A1 Grossberg,Stephen
+A1 Stork,David,G.
+T1 SPEECH PERCEPTION AND PRODUCTION BY A SELF-ORGANIZING NEURAL NETWORK
+
+RT Journal Article
+ID 10398376
+A1 Grossberg,Stephen
+A1 Roberts,Karen
+A1 Aguilar,Mario
+A1 Bullock,Daniel
+T1 A Neural Model of Multimodal Adaptive Saccadic Eye Movement Control by Superior Colliculus
+
+RT Journal Article
+ID 5237730
+A1 Grossberg,Stephen
+T1 Linking Attention to Learning, Expectation, Competition, and Consciousness
+
+RT Journal Article
+ID 13045348
+A1 Grossberg,Stephen
+T1 On Learning of Spatiotemporal Patterns by Networks with Ordered Sensory and Motor Components 1. Excitatory Components of the Cerebellum
+
+RT Journal Article
+ID 3297791
+A1 AJEMIAN,ROBERT
+A1 BULLOCK,DANIEL
+A1 GROSSBERG,STEPHEN
+T1 Kinematic Coordinates In Which Motor Cortical Cells Encode Movement Direction
+
+RT Journal Article
+ID 12916339
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+T1 INTEGRATING SYMBOLIC AND NEURAL PROCESSING IN A SELF-ORGANIZING ARCHITECTURE FOR PATTERN RECOGNITION AND PREDICTION
+
+RT Book, Whole
+ID 48839850
+A1 Bullock,Daniel
+A1 Contreras-Vidal,José,L.
+A1 Grossberg,Stephen
+T1 Equilibria and Dynamics of a Neural Network Model for Opponent Muscle Control
+
+RT Journal Article
+ID 2596057
+A1 CARPENTER,GAIL,A.
+A1 GROSSBERG,STEPHEN
+T1 A neural theory of circadian rhythms: Aschoff s rule in diurnal and nocturnal mammals
+
+RT Journal Article
+ID 4576591
+A1 Grossberg,Stephen
+A1 Swaminathan,Gurumurthy
+T1 A LAMINAR CORTICAL MODEL FOR 3D PERCEPTION OF SLANTED AND CURVED SURFACES AND OF 2D IMAGES: DEVELOPMENT, ATTENTION, AND BISTABILITY
+
+RT Journal Article
+ID 10680758
+A1 Grossberg,Stephen
+A1 Hwang,Seungwoo
+A1 Mingolla,Ennio
+T1 THALAMOCORTICAL DYNAMICS OF THE McCOLLOUGH EFFECT: BOUNDARY-SURFACE ALIGNMENT THROUGH PERCEPTUAL LEARNING
+
+RT Journal Article
+ID 5195527
+A1 Bhatt,Rushi
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+T1 Texture segregation by visual cortex: Perceptual grouping, attention, and learning
+
+RT Journal Article
+ID 3444401
+A1 Cohen,M.
+A1 Grossberg,S.
+T1 Neural networks and physical systems with emergent computationnal abilities
+JF Proceedings of The National Academy of Sciences
+
+RT Journal Article
+ID 10183493
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+T1 ART 2
+
+RT Journal Article
+ID 4583362
+A1 CARPENTER,GAIL,A.
+A1 GROSSBERG,STEPHEN
+A1 ROSEN,DAVID,B.
+T1 ART 2-A: An Adaptive Resonance Algorithm Category Learning and Recognition
+
+RT Journal Article
+ID 385082
+A1 Grossberg,Stephen
+T1 Figure-Ground Separation By Visual Cortex
+
+RT Journal Article
+ID 2304038
+A1 Grossberg,Stephen
+A1 Hopkins,Brian
+A1 Johnson,Scott
+T1 LINKING VISUAL CORTICAL DEVELOPMENT TO VISUAL PERCEPTION
+
+RT Journal Article
+ID 3097908
+A1 Grossberg,Stephen
+T1 Filling-in the forms: Surface and boundary interactions in visual cortex
+
+RT Journal Article
+ID 11535083
+A1 Brown,Joshua,W.
+A1 Bullock,Daniel
+A1 Grossberg,Stephen
+T1 How laminar frontal cortex and basal ganglia circuits interact to control planned and reactive saccades
+
+RT Journal Article
+ID 10116974
+A1 S,Grossberg
+A1 J,Reynolds
+A1 AJ,Hartz
+A1 Touretzky,D.,S.
+A1 Leen,T.,K.
+A1 JN,Weinstein
+A1 Jr,Harrell,FE
+A1 DP,Winchester
+A1 EW,Steyerberg
+A1 KA,Bronander
+A1 R,Drewes
+A1 M,Toledo-Rodriguez
+A1 B,Blumenfeld
+A1 J,Luo
+A1 B,Attali
+A1 JB,Maciokas
+A1 JL,Kenyon
+T1 Selected Relevant Publications of Philip H. Goodman
+
+RT Journal Article
+ID 49413897
+A1 Grossberg,Stephen
+A1 Srihasam,Krishna
+A1 Bullock,Daniel
+T1 Neural dynamics of saccadic and smooth pursuit eye movement coordination during visual tracking of unpredictably moving targets
+JF Neural Networks
+
+RT Journal Article
+ID 5211066
+A1 Grossberg,Stephen
+T1 A Global Prediction (or Learning) Theory for Some Nonlinear Functional-Differential Equations
+
+RT Journal Article
+ID 49413896
+A1 Cao,Yongqiang
+A1 Grossberg,Stephen
+T1 Stereopsis and 3D surface perception by spiking neurons in laminar cortical circuits: A method for converting neural rate models into spiking models
+JF Neural Networks
+
+RT Journal Article
+ID 10892166
+A1 Dranias,Mark
+A1 Bullock,Daniel
+A1 Grossberg,Stephen
+T1 Emotional and Behavioral Responses to the Devaluation of Stimuli by Satiation: a Computational Model
+
+RT Journal Article
+ID 49413890
+A1 Silver,Matthew,R.
+A1 Grossberg,Stephen
+A1 Bullock,Daniel
+A1 Histed,Mark,H.
+A1 Miller,Earl,K.
+T1 A neural model of sequential movement planning and control of eye movements: Item-Order-Rank working memory and saccade selection by the supplementary eye fields
+JF Neural Networks
+
+RT Journal Article
+ID 13028029
+A1 CARPENTER,GAIL,A.
+A1 COHEN,A.
+A1 Kuperstein,M.
+A1 Grossberg,S.
+T1 Systems, Department of Mathematics
+
+RT Journal Article
+ID 48445303
+A1 Palma,Jesse
+A1 Versace,Massimiliano
+A1 Grossberg,Stephen
+T1 After-hyperpolarization currents and acetylcholine control sigmoid transfer functions in a spiking cortical model
+JF Journal of Computational Neuroscience
+SP 1
+OP 28
+
+RT Journal Article
+ID 11774113
+A1 Carpenter,Gail,A.
+A1 Grossberg,Stephen
+T1 The ART of Adaptive Pattern Recognition Self-organizing by a Neu Network
+
+RT Journal Article
+ID 5132863
+A1 Pill,Praveen,K.
+A1 Grossberg,Stephen
+A1 Seit,Aaron,R.
+T1 Low-level sensory plasticity during task-irrelevant perceptual learning: Evidence from conventional and double training procedures
+
+RT Book, Whole
+ID 48842853
+A1 Gaudianot,Paolo
+A1 Grossberg,Stephen
+T1 Self-Organization of Spatial Representations and Arm Trajectory Controllers by Vector Associative Maps Energized by Cyclic Random Generators
+
+RT Journal Article
+ID 49413873
+A1 Chandler,Ben
+A1 Grossberg,Stephen
+T1 Joining distributed pattern processing and homeostatic plasticity in recurrent on-center off-surround shunting networks: Noise, saturation, short-term memory, synaptic scaling, and BDNF
+JF Neural Networks
+
+RT Journal Article
+ID 12994381
+A1 Mingolla,Ennio
+A1 Ross,William
+A1 Grossberg,Stephen
+T1 aperture radar images
+
+RT Journal Article
+ID 13032595
+A1 Cisek,Paul
+A1 Grossberg,Stephen
+A1 Bullock,Daniel
+T1 Proprioception under Multiple Task Constraints
+
+RT Journal Article
+ID 10224633
+A1 Brown,Joshua
+A1 Bullock,Daniel
+A1 Grossberg,Stephen
+T1 How the Basal Ganglia Use Parallel Excitatory and Inhibitory Learning Pathways to Selectively Respond to Unexpected Rewarding Cues Abbreviated Title: Basal Ganglia Learning and Unexpected Rewards
+
+RT Journal Article
+ID 12735991
+A1 GROSSBERG,STEPHEN
+T1 ORIGINAL CONTRIBUTION
+
+RT Journal Article
+ID 10608004
+A1 Yazdanbakhsh,Arash
+A1 Grossberg,Stephen
+T1 2004 Special Issue Fast synchronization of perceptual grouping in laminar visual cortical circuits
+
+RT Journal Article
+ID 10248558
+A1 Grossberg,Stephen
+T1 Self-Organizing Neural Networks for Spatial Planning and Flexible Arm Movement Control
+
+RT Journal Article
+ID 10472804
+A1 Grossberg,Stephen
+T1 Physiological Interpretation of the Self-Organizing Map Algorithm
+
+RT Journal Article
+ID 10743004
+A1 Grossberg,Stephen
+T1 Linking Mind to Brain: The Mathematics of
+
+RT Journal Article
+ID 11559611
+A1 Grossberg,Stephen
+T1 A Global Prediction (or Learning) Theory for Some Nonlinear Functional-Differential
+
+RT Journal Article
+ID 12751730
+A1 GROSSBERG,STEPHEN
+T1 Theory and Evaluative Reviews
+
+RT Journal Article
+ID 13045345
+A1 GROSSBERG,STEPHEN
+T1 Qualitative Theory
+
+RT Book, Whole
+ID 47656796
+A1 Grossberg,Stephen
+T1 Neural Models of Motion Integration, Segmentation, and Probabilistic Decision-Making
+
+RT Book, Whole
+ID 48046910
+A1 Grossberg,S.
+T1 Functional-differential systems and pattern learning
+
+RT Book, Whole
+ID 48219148
+A1 Grossberg,Stephen
+T1 Linking Visual Development and Learning to Information Processing: Preattentive and Attentive Brain Dynamics
+
+RT Book, Whole
+ID 48289617
+A1 Grossberg,Stephen
+T1 Neural Models of Seeing and Thinking

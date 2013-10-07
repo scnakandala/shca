@@ -1,0 +1,6313 @@
+RT Journal Article
+ID 14490306
+A1 Perfilieva,Irina
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Esteva,Francesc
+A1 Godo,Lluis
+A1 Hoďáková,Petra
+YR 2010
+T1 Interpolation of fuzzy data: Analytical approach and overview
+JF Fuzzy Sets and Systems
+
+RT Book, Whole
+ID 13321791
+A1 Djouadi,Yassine
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2010
+T1 Possibility Theory and Formal Concept Analysis: Context Decomposition and Uncertainty Handling
+SP 260
+OP 269
+
+RT Journal Article
+ID 13315322
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Williams,Mary-Anne
+YR 2010
+T1 A Framework for Iterated Belief Revision Using Possibilistic Counterparts to Jeffrey's Rule
+JF Fundamenta Informaticae
+VO 99
+SP 147
+OP 168
+IS 2
+
+RT Journal Article
+ID 15278385
+A1 Fortin,Jérôme
+A1 Zielinski,Pawel
+A1 Dubois,Didier
+A1 Fargier,Hélène
+YR 2010
+T1 Criticality analysis of activity networks under interval uncertainty
+JF Journal of Scheduling
+VO 13
+SP 609
+OP 627
+IS 6
+
+RT Conference Proceedings
+ID 39269790
+A1 Ma,Jianbing
+A1 Liu,Weiru
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2010
+T1 Revision Rules in the Theory of Evidence
+VO 1
+SP 295
+OP 302
+
+RT Book, Whole
+ID 13984262
+A1 Loquin,Kevin
+A1 Dubois,Didier
+YR 2010
+T1 Kriging with Ill-Known Variogram and Data
+SP 219
+OP 235
+
+RT Book, Whole
+ID 13321815
+A1 Aiche,Farid
+A1 Dubois,Didier
+YR 2010
+T1 An Extension of Stochastic Dominance to Fuzzy Random Variables
+SP 159
+OP 168
+
+RT Conference Proceedings
+ID 13262198
+A1 Ciucci,Davide
+A1 Dubois,Didier
+YR 2010
+T1 Truth-Functionality, Rough Sets and Three-Valued Logics
+SP 98
+OP 103
+
+RT Book, Whole
+ID 13321853
+A1 Couso,Inés
+A1 Dubois,Didier
+YR 2010
+T1 Peakedness and Generalized Entropy for Continuous Density Functions
+SP 208
+OP 219
+
+RT Journal Article
+ID 14606468
+A1 Dubois,Didier
+YR 2010
+T1 Author's response to Wansing and Belnap's
+JF Logic Journal of The Igpl / Bulletin of The Igpl
+VO 18
+SP 936
+OP 940
+IS 6
+
+RT Book, Whole
+ID 13984295
+A1 Dubois,Didier
+YR 2010
+T1 The Role of Epistemic Uncertainty in Risk Analysis
+SP 11
+OP 15
+
+RT Book, Whole
+ID 39275121
+A1 Dubois,Didier
+YR 2010
+T1 Relationships between Qualitative and Quantitative Scales for Aggregation Operations: The Example of Sugeno Integrals
+SP 1
+OP 2
+
+RT Journal Article
+ID 6074540
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2009
+T1 An overview of the asymmetric bipolar representation of positive and negative information in possibility theory
+JF Fuzzy Sets and Systems
+VO 160
+SP 1355
+OP 1366
+IS 10
+
+RT Journal Article
+ID 4770828
+A1 Destercke,Sébastien
+A1 Dubois,Didier
+A1 Chojnacki,Eric
+YR 2009
+T1 Possibilistic Information Fusion Using Maximal Coherent Subsets
+JF IEEE Transactions on Fuzzy Systems
+VO 17
+SP 79
+OP 92
+IS 1
+
+RT Journal Article
+ID 13566825
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2009
+T1 Formal representations of uncertainty
+
+RT Journal Article
+ID 14406151
+A1 Couso,Inés
+A1 Dubois,Didier
+YR 2009
+T1 On the Variability of the Concept of Variance for Fuzzy Random Variables
+JF IEEE Transactions on Fuzzy Systems
+VO 17
+SP 1070
+OP 1080
+IS 5
+
+RT Journal Article
+ID 4770843
+A1 Jones,Hazael
+A1 Charnomordic,Brigitte
+A1 Dubois,Didier
+A1 Guillaume,Serge
+YR 2009
+T1 Practical Inference With Systems of Gradual Implicative Rules
+JF IEEE Transactions on Fuzzy Systems
+VO 17
+SP 61
+OP 78
+IS 1
+
+RT Book, Whole
+ID 4706384
+A1 Dubois,Didier
+A1 Fargier,Hélène
+YR 2009
+T1 Capacity Refinements and Their Application to Qualitative Decision Evaluation
+SP 311
+OP 322
+
+RT Journal Article
+ID 6100424
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2009
+T1 Possibility Theory
+
+RT Book, Whole
+ID 4706334
+A1 Banerjee,Mohua
+A1 Dubois,Didier
+YR 2009
+T1 A Simple Modal Logic for Reasoning about Revealed Beliefs
+SP 805
+OP 816
+
+RT Conference Proceedings
+ID 6056906
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2009
+T1 Possibility Theory and Formal Concept Analysis in Information Systems
+SP 1021
+OP 1026
+
+RT Book, Whole
+ID 6044349
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Williams,Mary-anne
+YR 2009
+T1 A General Framework for Revising Belief Bases Using Qualitative Jeffrey's Rule
+SP 612
+OP 621
+
+RT Journal Article
+ID 6076206
+A1 Dubois,Didier
+A1 Fargier,Hélène
+YR 2009
+T1 Making Discrete Sugeno Integrals More Discriminant
+JF International Journal of Approximate Reasoning
+VO 50
+SP 880
+OP 898
+IS 6
+
+RT Journal Article
+ID 7004612
+A1 Destercke,S.
+A1 Dubois,D.
+YR 2009
+T1 The role of generalised p-boxes in imprecise probability models
+
+RT Journal Article
+ID 13326060
+A1 Destercke,Sébastien
+A1 Dubois,Didier
+A1 Chojnacki,Eric
+YR 2009
+T1 A Consonant Approximation of the Product of Independent Consonant Random Sets
+JF International Journal of Uncertainty, Fuzziness and Knowledge-based Systems
+VO 17
+SP 773
+OP 792
+IS 6
+
+RT Book, Whole
+ID 4706401
+A1 Destercke,Sébastien
+A1 Dubois,Didier
+YR 2009
+T1 Can the Minimum Rule of Possibility Theory Be Extended to Belief Functions?
+SP 299
+OP 310
+
+RT Conference Proceedings
+ID 13294723
+A1 Carvalho,Joao,Paulo
+A1 Dubois,Didier
+A1 Kaymak,Uzay
+A1 Sousa,Joao,Miguel,da,Costa
+YR 2009
+T1 Proceedings of the Joint 2009 International Fuzzy Systems Association World Congress and 2009 European Society of Fuzzy Logic and Technology Conference, Lisbon, Portugal, July 20-24, 2009
+
+RT Journal Article
+ID 41417273
+A1 Bellenfant,Gaël
+A1 Guyonnet,Dominique
+A1 Dubois,Didier
+A1 Bouc,Olivier
+YR 2009
+T1 Uncertainty theories applied to the analysis of CO 2 plume extension during geological storage
+JF Energy Procedia
+VO 1
+SP 2447
+OP 2454
+IS 1
+
+RT Book, Whole
+ID 4791860
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2008
+T1 A Set-Theoretic View of Belief Functions
+
+RT Journal Article
+ID 4390169
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2008
+T1 An introduction to bipolar representations of information and preference
+JF International Journal of Intelligent Systems
+VO 23
+SP 866
+OP 877
+IS 8
+
+RT Journal Article
+ID 2561230
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Smets,Philippe
+YR 2008
+T1 A definition of subjective possibility
+JF International Journal of Approximate Reasoning
+VO 48
+SP 352
+OP 364
+IS 2
+
+RT Journal Article
+ID 4412717
+A1 Fortin,Jérôme
+A1 Dubois,Didier
+A1 Fargier,Hélène
+YR 2008
+T1 Gradual Numbers and Their Application to Fuzzy Interval Analysis
+JF IEEE Transactions on Fuzzy Systems
+VO 16
+SP 388
+OP 402
+IS 2
+
+RT Journal Article
+ID 4388126
+A1 Dubois,Didier
+YR 2008
+T1 On Ignorance and Contradiction Considered as Truth-Values
+JF Logic Journal of The Igpl / Bulletin of The Igpl
+VO 16
+SP 195
+OP 216
+IS 2
+
+RT Journal Article
+ID 4408635
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2008
+T1 Gradual elements in a fuzzy set
+JF Soft Computing
+VO 12
+SP 165
+OP 175
+IS 2
+
+RT Journal Article
+ID 39250432
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2008
+T1 Handling Bipolar Queries in Fuzzy Information Processing
+
+RT Journal Article
+ID 6079673
+A1 Dubois,Didier
+A1 Fargier,Hélène
+A1 Bonnefon,Jean-françois
+YR 2008
+T1 On the Qualitative Comparison of Decisions Having Positive and Negative Features
+JF Journal of Artificial Intelligence Research
+VO 32
+SP 385
+OP 417
+
+RT Journal Article
+ID 4400996
+A1 Dubois,Didier
+YR 2008
+T1 Three Scenarios for the Revision of Epistemic States
+JF Journal of Logic and Computation
+VO 18
+SP 721
+OP 738
+IS 5
+
+RT Journal Article
+ID 4390148
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Kaci,Souhila
+A1 Prade,Henri
+YR 2008
+T1 Modeling positive and negative information in possibility theory
+JF International Journal of Intelligent Systems
+VO 23
+SP 1094
+OP 1118
+IS 10
+
+RT Journal Article
+ID 4761496
+A1 Baudrit,Cédric
+A1 Dubois,Didier
+A1 Perrot,Nathalie
+YR 2008
+T1 Representing parametric probabilistic models tainted with imprecision
+JF Fuzzy Sets and Systems
+VO 159
+SP 1913
+OP 1928
+IS 15
+
+RT Journal Article
+ID 4388443
+A1 Bonnefon,Jean-françois
+A1 Neves,Rui,Da,Silva
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2008
+T1 Predicting causality ascriptions from background knowledge: model and experimental validation
+JF International Journal of Approximate Reasoning
+VO 48
+SP 752
+OP 765
+IS 3
+
+RT Journal Article
+ID 4388426
+A1 Dubois,Didier
+A1 Gilio,Angelo
+A1 Kern-isberner,Gabriele
+YR 2008
+T1 Probabilistic abduction without priors
+JF International Journal of Approximate Reasoning
+VO 47
+SP 333
+OP 351
+IS 3
+
+RT Book, Whole
+ID 4337949
+A1 Benferhat,Salem
+A1 Bonnefon,Jean-françois
+A1 Chassy,Philippe
+A1 Neves,Rui,Da,Silva
+A1 Dubois,Didier
+A1 Saint-cyr,Florence,Dupin,De
+A1 Kayser,Daniel
+A1 Nouioua,Farid
+A1 Nouioua-boutouhami,Sara
+A1 Prade,Henri
+A1 Smaoui,Salma
+YR 2008
+T1 A Comparative Study of Six Formal Models of Causal Ascription
+SP 47
+OP 62
+
+RT Journal Article
+ID 5208648
+A1 Dubois,Didier
+YR 2008
+T1 On degrees of truth, partial ignorance and contradiction
+
+RT Journal Article
+ID 6076217
+A1 Boughanem,Mohand
+A1 Brini,Asma
+A1 Dubois,Didier
+YR 2008
+T1 Possibilistic networks for information retrieval
+JF International Journal of Approximate Reasoning
+VO 50
+SP 957
+OP 968
+IS 7
+
+RT Journal Article
+ID 13296902
+A1 Dubois,Didier
+A1 Lubiano,María,Asunción
+A1 Prade,Henri
+A1 Gil,María,Angeles
+A1 Grzegorzewski,Przemyslaw
+A1 Hryniewicz,Olgierd
+YR 2008
+T1 Soft Methods for Handling Variability and Imprecision, Selected papers from the 4th International Conference on Soft Methods in Probability and Statistics, SMPS 2008, Toulouse, France, September 8-10, 2008
+
+RT Book, Whole
+ID 4337939
+A1 Bonnefon,Jean-françois
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2008
+T1 Transitive Observation-Based Causation, Saliency, and the Markov Condition
+SP 78
+OP 91
+
+RT Journal Article
+ID 6808648
+A1 Dubois,Didier
+A1 Chojnacki,Eric
+YR 2008
+T1 Computing with generalized p-boxes: preliminary results
+
+RT Journal Article
+ID 4434754
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2007
+T1 Possibility theory
+JF Scholarpedia
+VO 2
+SP 2074
+IS 10
+
+RT Journal Article
+ID 2502962
+A1 Baudrit,Cédric
+A1 Couso,Inés
+A1 Dubois,Didier
+YR 2007
+T1 Joint propagation of probability and possibility in risk analysis: Towards a formal framework
+JF International Journal of Approximate Reasoning
+VO 45
+SP 82
+OP 105
+IS 1
+
+RT Conference Proceedings
+ID 4260376
+A1 Destercke,Sébastien
+A1 Dubois,Didier
+A1 Chojnacki,Eric
+YR 2007
+T1 Possibilistic information fusion using maximal coherent subsets
+SP 1
+OP 6
+
+RT Journal Article
+ID 6138172
+A1 DESTERCKE,S.
+A1 DUBOIS,D.
+A1 CHOJNACKI,E.
+YR 2007
+T1 Relating practical representations of imprecise probabilities
+
+RT Journal Article
+ID 2501909
+A1 Dubois,Didier
+A1 Saint-cyr,Florence,Dupin,De
+A1 Prade,Henri
+YR 2007
+T1 A Possibility-Theoretic View of Formal Concept Analysis
+JF Fundamenta Informaticae
+VO 75
+SP 195
+OP 213
+IS 1-4
+
+RT Journal Article
+ID 4412627
+A1 Saminger-platz,Susanne
+A1 Mesiar,Radko
+A1 Dubois,Didier
+YR 2007
+T1 Aggregation Operators and Commuting
+JF IEEE Transactions on Fuzzy Systems
+VO 15
+SP 1032
+OP 1045
+IS 6
+
+RT Journal Article
+ID 6220564
+A1 Couso,Ines
+A1 Dubois,Didier
+A1 Montes,Susana
+A1 Sanchez,Luciano
+YR 2007
+T1 On various definitions of the variance of a fuzzy random variable
+
+RT Journal Article
+ID 4390105
+A1 Dubois,Didier
+A1 Hadjali,Allel
+A1 Prade,Henri
+YR 2007
+T1 A possibility theory-based approach to the handling of uncertain relations between temporal points
+JF International Journal of Intelligent Systems
+VO 22
+SP 157
+OP 179
+IS 2
+
+RT Journal Article
+ID 2494309
+A1 Serrurier,Mathieu
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Sudkamp,Thomas
+YR 2007
+T1 Learning fuzzy rules with their implication operators
+JF Data & Knowledge Engineering
+VO 60
+SP 71
+OP 89
+IS 1
+
+RT Journal Article
+ID 2502958
+A1 Dubois,Didier
+A1 Hüllermeier,Eyke
+YR 2007
+T1 Comparing probability measures using possibility theory: A notion of relative peakedness
+JF International Journal of Approximate Reasoning
+VO 45
+SP 364
+OP 385
+IS 2
+
+RT Book, Whole
+ID 4254446
+A1 Destercke,Sébastien
+A1 Dubois,Didier
+A1 Chojnacki,Eric
+YR 2007
+T1 Cautious Conjunctive Merging of Belief Functions
+SP 332
+OP 343
+
+RT Conference Proceedings
+ID 4260424
+A1 Jones,Hazael
+A1 Dubois,Didier
+A1 Guillaume,Serge
+A1 Charnomordic,Brigitte
+YR 2007
+T1 A Practical Inference Method with Several Implicative Gradual Rules and a Fuzzy Input: One and Two Dimensions
+SP 1
+OP 6
+
+RT Book, Whole
+ID 49076161
+A1 Dubois,Didier
+A1 Esteva,Francesc
+A1 Godo,Lluís
+A1 Prade,Henri
+YR 2007
+T1 Fuzzy-set based logics — an history-oriented presentation of their main developments
+VO 8
+SP 325
+OP 449
+
+RT Journal Article
+ID 5675676
+A1 Dubois,Didier
+YR 2007
+T1 Uncertainty Theories: a Unified View
+
+RT Conference Proceedings
+ID 4260451
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2007
+T1 Toward Multiple-agent Extensions of Possibilistic Logic
+SP 1
+OP 6
+
+RT Book, Whole
+ID 4254474
+A1 Dubois,Didier
+A1 Fargier,Hélène
+YR 2007
+T1 Lexicographic Refinements of Sugeno Integrals
+SP 611
+OP 622
+
+RT Conference Proceedings
+ID 4260422
+A1 Bosc,Patrick
+A1 Dubois,Didier
+A1 Hadjali,Allel
+A1 Pivert,Olivier
+A1 Prade,Henri
+YR 2007
+T1 Adjusting the Core and/or the Support of a Fuzzy Set - A New Approach to Fuzzy Modifiers
+SP 1
+OP 6
+
+RT Journal Article
+ID 4412607
+A1 Kyselovà,Darina
+A1 Dubois,Didier
+A1 Komornikova,Magda
+A1 Mesiar,Radko
+YR 2007
+T1 Refining Aggregation Operator-Based Orderings in Multifactorial Evaluation - Part I: Continuous Scales
+JF IEEE Transactions on Fuzzy Systems
+VO 15
+SP 1100
+OP 1106
+IS 6
+
+RT Book, Whole
+ID 4254475
+A1 Dubois,Didier
+A1 Fargier,Hélène
+A1 Vantaggi,Barbara
+YR 2007
+T1 An Axiomatization of Conditional Possibilistic Preference Functionals
+SP 803
+OP 815
+
+RT Journal Article
+ID 4357396
+A1 Dubois,Didier
+A1 Fargier,Hélène
+A1 Perny,Patrice
+YR 2007
+T1 Corrigendum to "Qualitative decision theory with preference relations and comparative uncertainty: an axiomatic approach" [Artificial Intelligence 148 (1-2) (2003) 219-260]
+JF Artificial Intelligence
+VO 171
+SP 361
+OP 362
+IS 5-6
+
+RT Journal Article
+ID 13080208
+A1 C,Salem,Benferhat
+A1 Dubois,Didier
+A1 Sabatier,Paul
+A1 Lagrue,Sylvain
+YR 2007
+T1 Making revision reversible: an approach based on polynomials
+
+RT Conference Proceedings
+ID 4351540
+A1 Destercke,Sébastien
+A1 Dubois,Didier
+A1 Chojnacki,Eric
+YR 2007
+T1 Transforming Probability Intervals into Other Uncertainty Models
+SP 367
+OP 373
+
+RT Journal Article
+ID 13934650
+A1 Boughanem,Mohand
+A1 Brini,Asma
+A1 Dubois,Didier
+YR 2007
+T1 Possibilistic networks for information retrieval. (regular paper)
+
+RT Journal Article
+ID 6635393
+A1 Brini,Asma
+A1 Boughanem,Mohand
+A1 Dubois,Didier
+YR 2007
+T1 Un mod\`ele de r\'eseau possibiliste pour la recherche d'information
+
+RT Journal Article
+ID 6947719
+A1 Destercke,Sebastien
+A1 Dubois,Didier
+A1 Chojnacki,Eric
+YR 2007
+T1 ethode de fusion possibiliste bas· ee sur les sous-ensembles maximaux coh· erents Possibilistic information fusion using maximal coherent subsets
+
+RT Journal Article
+ID 6987866
+A1 Destercke,Sebastien
+A1 Dubois,Didier
+A1 Chojnacki,Eric
+YR 2007
+T1 On the relationships between random sets, possibility distributions, p-boxes and clouds
+
+RT Journal Article
+ID 2493974
+A1 Dubois,Didier
+A1 Hüllermeier,Eyke
+A1 Prade,Henri
+YR 2006
+T1 A systematic approach to the assessment of fuzzy association rules
+JF Data Mining and Knowledge Discovery
+VO 13
+SP 167
+OP 192
+IS 2
+
+RT Journal Article
+ID 2525634
+A1 Dubois,Didier
+YR 2006
+T1 Possibility theory and statistical reasoning
+JF Computational Statistics & Data Analysis
+VO 51
+SP 47
+OP 69
+IS 1
+
+RT Journal Article
+ID 2149315
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Kaci,Souhila
+A1 Prade,Henri
+YR 2006
+T1 Bipolar possibility theory in preference modeling: Representation, fusion and optimal solutions
+JF Information Fusion
+VO 7
+SP 135
+OP 150
+IS 1
+
+RT Journal Article
+ID 2525419
+A1 Baudrit,Cédric
+A1 Dubois,Didier
+YR 2006
+T1 Practical representations of incomplete probabilistic knowledge
+JF Computational Statistics & Data Analysis
+VO 51
+SP 86
+OP 108
+IS 1
+
+RT Journal Article
+ID 4412574
+A1 Baudrit,Cédric
+A1 Dubois,Didier
+A1 Guyonnet,Dominique
+YR 2006
+T1 Joint Propagation and Exploitation of Probabilistic and Possibilistic Information in Risk Assessment
+JF IEEE Transactions on Fuzzy Systems
+VO 14
+SP 593
+OP 608
+IS 5
+
+RT Conference Proceedings
+ID 2160617
+A1 Delgrande,James,P.
+A1 Dubois,Didier
+A1 Lang,Jérôme
+YR 2006
+T1 Iterated Revision as Prioritized Merging
+SP 210
+OP 220
+
+RT Conference Proceedings
+ID 2160608
+A1 Dubois,Didier
+A1 Fargier,Hélène
+YR 2006
+T1 Qualitative Decision Making with Bipolar Information
+SP 175
+OP 186
+
+RT Conference Proceedings
+ID 2427169
+A1 Bonnefon,Jean-françois
+A1 Neves,Rui,Da,Silva
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2006
+T1 Background Default Knowledge and Causality Ascriptions
+SP 11
+OP 15
+
+RT Book, Whole
+ID 4354876
+A1 Destercke,Sébastien
+A1 Dubois,Didier
+YR 2006
+T1 A Unified View of Some Representations of Imprecise Probabilities
+SP 249
+OP 257
+
+RT Book, Whole
+ID 2468593
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2006
+T1 Bipolar Representations in Reasoning, Knowledge Extraction and Decision Processes
+SP 15
+OP 26
+
+RT Journal Article
+ID 2508352
+A1 Dubois,Didier
+A1 Hüllermeier,Eyke
+A1 Prade,Henri
+YR 2006
+T1 Fuzzy methods for case-based recommendation and decision support
+JF Journal of Intelligent Information Systems
+VO 27
+SP 95
+OP 115
+IS 2
+
+RT Conference Proceedings
+ID 4747150
+A1 Fortin,Jérôme
+A1 Dubois,Didier
+YR 2006
+T1 Solving Fuzzy PERT Using Gradual Real Numbers
+SP 196
+OP 207
+
+RT Conference Proceedings
+ID 6031307
+A1 Brini,Asma
+A1 Boughanem,Mohand
+A1 Dubois,Didier
+YR 2006
+T1 R\'eseaux possibilistes pour un mod\`ele de recherche d'information
+SP 143
+OP 154
+
+RT Conference Proceedings
+ID 5881352
+A1 Dubois,Didier
+A1 Kaci,Souhila
+A1 Prade,Henri
+YR 2006
+T1 Approximation of Conditional Preferences Networks fiCP-netsfl in Possibilistic Logic
+
+RT Journal Article
+ID 4357606
+A1 Koning,Jean-luc
+A1 Dubois,Didier
+YR 2006
+T1 Suitable Properties for Any Electronic Voting System
+JF Artificial Intelligence and Law
+VO 14
+SP 251
+OP 260
+IS 4
+
+RT Journal Article
+ID 1699336
+A1 Bersini,Hughes
+A1 Denoeux,Thierry
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2006
+T1 In Memoriam: Philippe Smets (1938-2005)
+JF Fuzzy Sets and Systems
+VO 157
+IS 8
+
+RT Journal Article
+ID 2502890
+A1 Bersini,Hughes
+A1 Denoeux,Thierry
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2006
+T1 Philippe Smets (1938-2005)
+JF International Journal of Approximate Reasoning
+VO 41
+IS 3
+
+RT Conference Proceedings
+ID 2160623
+A1 Dubois,Didier
+A1 Gilio,Angelo
+A1 Kern-isberner,Gabriele
+YR 2006
+T1 Probabilistic Abduction without Priors
+SP 420
+OP 430
+
+RT Book, Whole
+ID 27384252
+A1 Dubois,Didier
+A1 Mengin,Jérôme
+A1 Prade,Henri
+YR 2006
+T1 Chapter 6 Possibilistic uncertainty and fuzzy features in description logic. A preliminary discussion
+JF Capturing Intelligence
+VO 1
+SP 101
+OP 113
+
+RT Journal Article
+ID 6990843
+A1 Destercke,Sebastien
+A1 Dubois,Didier
+A1 Chojnacki,Eric
+YR 2006
+T1 Fusion d'opinions d'experts et th· eories de l'incertain Aggregation of expert opinions and uncertainty theories
+
+RT Journal Article
+ID 1699268
+A1 Dubois,Didier
+A1 Gottwald,Siegfried
+A1 Hájek,Petr
+A1 Kacprzyk,Janusz
+A1 Prade,Henri
+YR 2005
+T1 Terminological difficulties in fuzzy set theory - The case of "Intuitionistic Fuzzy Sets
+JF Fuzzy Sets and Systems
+VO 156
+SP 485
+OP 491
+IS 3
+
+RT Journal Article
+ID 1684738
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Sudkamp,Thomas
+YR 2005
+T1 On the representation, measurement, and discovery of fuzzy associations
+JF IEEE Transactions on Fuzzy Systems
+VO 13
+SP 250
+OP 262
+IS 2
+
+RT Conference Proceedings
+ID 3267566
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2005
+T1 Interval-valued Fuzzy Sets, Possibility Theory and Imprecise Probability
+SP 314
+OP 319
+
+RT Conference Proceedings
+ID 3891900
+A1 Dubois,Didier
+A1 Fargier,H.
+A1 Fortin,J.
+YR 2005
+T1 The Empirical Variance of a Set of Fuzzy Intervals
+
+RT Book, Whole
+ID 1844755
+A1 Dubois,Didier
+A1 Fargier,Hélène
+YR 2005
+T1 On the Qualitative Comparison of Sets of Positive and Negative Affects
+SP 305
+OP 316
+
+RT Journal Article
+ID 47731417
+A1 Dubois,Didier
+A1 Fargier,Hélène
+A1 Fortin,Jérôme
+YR 2005
+T1 Computational methods for determining the latest starting times and floats of tasks in interval-valued activity networks
+JF Journal of Intelligent Manufacturing
+VO 16
+SP 407
+OP 421
+IS 4
+
+RT Book, Whole
+ID 1842693
+A1 Brini,Asma
+A1 Boughanem,Mohand
+A1 Dubois,Didier
+YR 2005
+T1 A Model for Information Retrieval Based on Possibilistic Networks
+SP 271
+OP 282
+
+RT Conference Proceedings
+ID 1871283
+A1 Baudrit,Cédric
+A1 Dubois,Didier
+YR 2005
+T1 Comparing Methods for Joint Objective and Subjective Uncertainty Propagation with an example in a risk assessment
+SP 31
+OP 40
+
+RT Journal Article
+ID 5573957
+A1 Baudrit,Cédric
+A1 Guyonnet,Dominique
+A1 Dubois,Didier
+YR 2005
+T1 Postprocessing the Hybrid Method for Addressing Uncertainty in Risk Assessments
+JF Journal of Environmental Engineering-asce
+VO 131
+SP 1750
+IS 12
+
+RT Book, Whole
+ID 1761804
+A1 Fortin,Jérôme
+A1 Zielinski,Pawel
+A1 Dubois,Didier
+A1 Fargier,Hélène
+YR 2005
+T1 Interval Analysis in Scheduling
+SP 226
+OP 240
+
+RT Conference Proceedings
+ID 3609608
+A1 Baudrit,Cédric
+A1 Couso,Inés
+A1 Dubois,Didier
+YR 2005
+T1 Probabilities of Events Induced by Fuzzy Random Variables
+SP 541
+OP 546
+
+RT Book, Whole
+ID 1905381
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2005
+T1 A Bipolar Possibilistic Representation of Knowledge and Preferences and Its Applications
+SP 1
+OP 10
+
+RT Journal Article
+ID 5534432
+A1 Dubois,Didier
+A1 FARGIER,ENE
+YR 2005
+T1 Computational methods for determining the latest starting times and floats of tasks in interval-valued activity networks
+JF Journal of Intelligent Manufacturing
+VO 16
+SP 407
+OP 421
+IS 4-5
+
+RT Journal Article
+ID 4424346
+A1 Dubois,Didier
+A1 Fortemps,Philippe
+YR 2005
+T1 Selecting preferred solutions in the minimax approach to dynamic programming problems under flexible constraints
+JF European Journal of Operational Research
+VO 160
+SP 582
+OP 598
+IS 3
+
+RT Book, Whole
+ID 1844725
+A1 Dubois,Didier
+A1 Kaci,Souhila
+A1 Prade,Henri
+YR 2005
+T1 Expressing Preferences from Generic Rules and Examples - A Possibilistic Approach Without Aggregation Function
+SP 293
+OP 304
+
+RT Conference Proceedings
+ID 3594050
+A1 Jones,Hazael
+A1 Guillaume,Serge
+A1 Charnomordic,Brigitte
+A1 Dubois,Didier
+YR 2005
+T1 Practical use of fuzzy implicative gradual rules in knowledge representation and comparison with Mamdani rules
+SP 967
+OP 972
+
+RT Book, Whole
+ID 1844736
+A1 Dubois,Didier
+A1 Hüllermeier,Eyke
+YR 2005
+T1 A Notion of Comparative Probabilistic Entropy Based on the Possibilistic Specificity Ordering
+SP 848
+OP 859
+
+RT Conference Proceedings
+ID 50472156
+A1 Serrurier,Mathieu
+A1 Sudkamp,T.
+A1 Dubois,D.
+A1 Prade,H.
+YR 2005
+T1 Fuzzy Inductive Logic Programming: Learning Fuzzy Rules with their Implication
+
+RT Conference Proceedings
+ID 1860568
+A1 Dubois,Didier
+A1 Gilio,Angelo
+A1 Kern-isberner,Gabriele
+YR 2005
+T1 Probabilistic Abduction Without Priors
+
+RT Journal Article
+ID 1699292
+A1 Dubois,Didier
+YR 2005
+T1 Forty years of fuzzy sets
+JF Fuzzy Sets and Systems
+VO 156
+SP 331
+OP 333
+IS 3
+
+RT Conference Proceedings
+ID 1834553
+A1 Fortin,Jérôme
+A1 Zielinski,Pawel
+A1 Dubois,Didier
+A1 Fargier,Hélène
+YR 2005
+T1 Minimizing a Makespan Under Uncertainty
+SP 1519
+OP 1520
+
+RT Conference Proceedings
+ID 1860613
+A1 Levi,Isaac
+A1 Bonanno,Giacomo
+A1 Walliser,Bernard
+A1 Dubois,Didier
+A1 Rott,Hans
+A1 Delgrande,James,P.
+A1 Lang,Jérôme
+YR 2005
+T1 05321 - Panel on belief change
+
+RT Conference Proceedings
+ID 4351670
+A1 Brini,Asma
+A1 Campos,Luis,M.,De
+A1 Dubois,Didier
+A1 Boughanem,Mohand
+YR 2005
+T1 Query propagation in possibilistic Information retrieval Networks
+SP 1281
+OP 1286
+
+RT Journal Article
+ID 1740974
+A1 Dubois,Didier
+A1 Foulloy,Laurent
+A1 Mauris,Gilles
+A1 Prade,Henri
+YR 2004
+T1 Probability-Possibility Transformations, Triangular Fuzzy Sets, and Probabilistic Inequalities
+JF Reliable Computing
+VO 10
+SP 273
+OP 297
+IS 4
+
+RT Journal Article
+ID 733350
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2004
+T1 On the use of aggregation operations in information fusion processes
+JF Fuzzy Sets and Systems
+VO 142
+SP 143
+OP 161
+IS 1
+
+RT Conference Proceedings
+ID 2574394
+A1 Dubois,Didier
+A1 Fargier,H.
+A1 Fortin,J.
+YR 2004
+T1 A generalized vertex method for computing with fuzzy intervals
+VO 1
+SP 541
+
+RT Journal Article
+ID 2170962
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2004
+T1 Possibilistic logic: a retrospective and prospective view
+JF Fuzzy Sets and Systems
+VO 144
+SP 3
+OP 23
+IS 1
+
+RT Journal Article
+ID 867012
+A1 Galichet,Sylvie
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2004
+T1 Imprecise specification of ill-known functions using gradual rules
+JF International Journal of Approximate Reasoning
+VO 35
+SP 205
+OP 222
+IS 3
+
+RT Journal Article
+ID 1716305
+A1 Dubois,Didier
+A1 Fargier,Hélène
+A1 Prade,Henri
+YR 2004
+T1 Ordinal and Probabilistic Representations of Acceptance
+JF Journal of Artificial Intelligence Research
+VO 22
+SP 23
+OP 56
+
+RT Conference Proceedings
+ID 1816384
+A1 Hadjali,Allel
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2004
+T1 A Possibility Theory-based Approach for Handling of Uncertain Relations Between Temporal Points
+SP 36
+OP 43
+
+RT Conference Proceedings
+ID 2785871
+A1 Dubois,D.
+A1 Kaci,S.
+A1 Prade,H.
+YR 2004
+T1 Bipolarity in reasoning and decision-An introduction
+
+RT Journal Article
+ID 3593885
+A1 Baudrit,C.
+A1 Dubois,D.
+A1 Fargier,H.
+YR 2004
+T1 Practical repre-sentation of incomplete probabilistic information
+
+RT Journal Article
+ID 3291212
+A1 Baudrit,C.
+A1 Dubois,D.
+A1 Guyonnet,D.
+A1 Fargier,H.
+YR 2004
+T1 Joint Treatment of Imprecision and Randomness in Uncertainty Propagation
+
+RT Conference Proceedings
+ID 1776654
+A1 Dubois,Didier
+A1 Kaci,Souhila
+A1 Prade,Henri
+YR 2004
+T1 Ordinal and absolute representations of positive information in possibilistic logic
+SP 140
+OP 146
+
+RT Journal Article
+ID 13934335
+A1 Brini,Asma
+A1 Boughanem,Mohand
+A1 Dubois,Didier
+YR 2004
+T1 Towards a Possibilistic Approach for Information Retrieval
+
+RT Conference Proceedings
+ID 2474616
+A1 Dubois,Didier
+A1 Fargier,Hélène
+YR 2004
+T1 A Unified framework for Order-of-magnitude Confidence Relations
+SP 138
+OP 145
+
+RT Conference Proceedings
+ID 1860708
+A1 Kaci,Souhila
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2004
+T1 Representing preferences in the possibilistic setting
+
+RT Conference Proceedings
+ID 1852640
+A1 Mouzon,Olivier,De
+A1 Guérandel,Xavier
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Boverie,Serge
+YR 2004
+T1 Online Possibilistic Diagnosis Based on Expert Knowledge for Engine Dyno Test Benches
+SP 435
+OP 448
+
+RT Journal Article
+ID 13335805
+A1 Peters,James,F.
+A1 Skowron,Andrzej
+A1 Dubois,Didier
+A1 Grzymala-Busse,Jerzy,W.
+A1 Inuiguchi,Masahiro
+A1 Polkowski,Lech
+YR 2004
+T1 Transactions on Rough Sets II
+JF Transactions on Rough Sets
+
+RT Conference Proceedings
+ID 13281484
+A1 Dubois,Didier
+A1 Welty,Christopher,A.
+A1 Williams,Mary-Anne
+YR 2004
+T1 Principles of Knowledge Representation and Reasoning: Proceedings of the Ninth International Conference (KR2004), Whistler, Canada, June 2-5, 2004
+
+RT Journal Article
+ID 13934229
+A1 Brini,Asma
+A1 Boughanem,Mohand
+A1 Dubois,Didier
+YR 2004
+T1 Une approche possibiliste pour la recherche d'information
+
+RT Journal Article
+ID 2529575
+A1 Dubois,Didier
+A1 Fargier,Hélène
+A1 Fortemps,Philippe
+YR 2003
+T1 Fuzzy scheduling: Modelling flexible constraints vs. coping with incomplete knowledge
+JF European Journal of Operational Research
+VO 147
+SP 231
+OP 252
+IS 2
+
+RT Journal Article
+ID 2529598
+A1 Dubois,Didier
+A1 Fargier,Hélène
+A1 Galvagnon,Vincent
+YR 2003
+T1 On latest starting times and floats in activity networks with ill-known durations
+JF European Journal of Operational Research
+VO 147
+SP 266
+OP 280
+IS 2
+
+RT Journal Article
+ID 3202056
+A1 Guyonnet,Dominique
+A1 Bourgine,Bernard
+A1 Dubois,Didier
+A1 Fargier,Hélène
+YR 2003
+T1 Hybrid Approach for Addressing Uncertainty in Risk Assessments
+JF Journal of Environmental Engineering-asce
+VO 129
+SP 68
+IS 1
+
+RT Journal Article
+ID 697567
+A1 Dubois,Didier
+A1 Fargier,Hélène
+A1 Perny,Patrice
+YR 2003
+T1 Qualitative decision theory with preference relations and comparative uncertainty: An axiomatic approach
+JF Artificial Intelligence
+VO 148
+SP 219
+OP 260
+IS 1-2
+
+RT Journal Article
+ID 784555
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Ughetto,Laurent
+YR 2003
+T1 A new perspective on reasoning with fuzzy rules
+JF International Journal of Intelligent Systems
+VO 18
+SP 541
+OP 567
+IS 5
+
+RT Journal Article
+ID 792472
+A1 Dubois,Didier
+A1 Hüllermeier,Eyke
+A1 Prade,Henri
+YR 2003
+T1 On the representation of fuzzy rules in terms of crisp rules
+JF Information Sciences
+VO 151
+SP 301
+OP 326
+
+RT Journal Article
+ID 1211726
+A1 Ali,Allel,Hadj
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2003
+T1 Qualitative reasoning based on fuzzy relative orders of magnitude
+JF IEEE Transactions on Fuzzy Systems
+VO 11
+SP 9
+OP 23
+IS 1
+
+RT Journal Article
+ID 784700
+A1 Dubois,Didier
+A1 Fargier,Hélène
+A1 Perny,Patrice
+A1 Prade,Henri
+YR 2003
+T1 A characterization of generalized concordance rules in multicriteria decision making
+JF International Journal of Intelligent Systems
+VO 18
+SP 751
+OP 774
+IS 7
+
+RT Journal Article
+ID 851465
+A1 Calmès,Martine,De
+A1 Dubois,Didier
+A1 Hüllermeier,Eyke
+A1 Prade,Henri
+A1 Sedes,Florence
+YR 2003
+T1 Flexibility and Fuzzy Case-Based Evaluation in Querying: An Illustration in an Experimental Setting
+JF International Journal of Uncertainty, Fuzziness and Knowledge-based Systems
+VO 11
+SP 43
+OP 66
+IS 1
+
+RT Journal Article
+ID 798232
+A1 Dubois,Didier
+A1 Hadjali,Allel
+A1 Prade,Henri
+YR 2003
+T1 Fuzziness and Uncertainty in Temporal Reasoning
+JF Journal of Universal Computer Science
+VO 9
+SP 1168
+IS 9
+
+RT Journal Article
+ID 783672
+A1 Dubois,Didier
+A1 Konieczny,Sébastien
+A1 Prade,Henri
+YR 2003
+T1 Quasi-Possibilistic Logic and its Measures of Information and Conflict
+JF Fundamenta Informaticae
+VO 57
+SP 101
+OP 125
+IS 2-4
+
+RT Book, Whole
+ID 546462
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Sudkamp,Thomas
+YR 2003
+T1 A Discussion of Indices for the Evaluation of Fuzzy Associations in Relational Databases
+SP 111
+OP 118
+
+RT Journal Article
+ID 697979
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2003
+T1 Fuzzy set and possibility theory-based methods in artificial intelligence
+JF Artificial Intelligence
+VO 148
+SP 1
+OP 9
+IS 1-2
+
+RT Journal Article
+ID 851455
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Lagrue,Sylvain
+A1 Prade,Henri
+YR 2003
+T1 A Big-Stepped Probability Approach for Discovering Default Rules
+JF International Journal of Uncertainty, Fuzziness and Knowledge-based Systems
+VO 11
+SP 1
+OP 14
+IS Supplement
+
+RT Conference Proceedings
+ID 3619358
+A1 Baudrit,Cédric
+A1 Dubois,Didier
+A1 Fargier,Hélène
+YR 2003
+T1 Propagation of uncertainty involving imprecision and randomness
+SP 653
+OP 658
+
+RT Conference Proceedings
+ID 546461
+A1 Dubois,Didier
+A1 Hüllermeier,Eyke
+A1 Prade,Henri
+YR 2003
+T1 A Note on Quality Measures for Fuzzy Asscociation Rules
+SP 346
+OP 353
+
+RT Conference Proceedings
+ID 616474
+A1 Galichet,Sylvie
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2003
+T1 Categorizing classes of signals by means of fuzzy gradual rules
+SP 1039
+OP 1044
+
+RT Conference Proceedings
+ID 4351821
+A1 Galichet,Sylvie
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2003
+T1 Fuzzy interpolation and level 2 gradual rules
+SP 506
+OP 511
+
+RT Book, Whole
+ID 636136
+A1 Dubois,Didier
+A1 Fargier,Hélène
+A1 Sabbadin,Régis
+YR 2003
+T1 Qualitative Decision Rules under Uncertainty
+SP 1
+OP 21
+
+RT Journal Article
+ID 1752036
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Kaci,Souhila
+A1 Prade,Henri
+YR 2003
+T1 Logique possibiliste et fusion d'informations
+JF Technique Et Science Informatiques
+VO 22
+SP 1035
+OP 1064
+IS 7-8
+
+RT Book, Whole
+ID 546490
+A1 Galichet,Sylvie
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2003
+T1 Imprecise Modelling Using Gradual Rules and Its Application to the Classification of Time Series
+SP 319
+OP 327
+
+RT Journal Article
+ID 14489762
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2003
+T1 Fuzzy sets and fuzzy information-granulation theory: key selected papers by Lotfi A. Zadeh
+JF Fuzzy Sets and Systems
+VO 133
+SP 261
+OP 262
+IS 2
+
+RT Journal Article
+ID 732913
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2003
+T1 Book Review: "Fuzzy sets and fuzzy information-granulation theory: key selected papers by Lotfi A. Zadeh" by Da Ruan and Chongfu Huang (Eds.)
+JF Fuzzy Sets and Systems
+VO 133
+SP 261
+OP 262
+IS 2
+
+RT Conference Proceedings
+ID 546472
+A1 Dubois,Didier
+A1 Hadjali,Allel
+A1 Prade,Henri
+YR 2003
+T1 Making Fuzzy Absoulute and Fuzzy Relative Orders of Magnitude Consistent
+SP 694
+OP 701
+
+RT Journal Article
+ID 733235
+A1 Dubois,Didier
+YR 2003
+T1 Book Review: "Evaluation and decision models: a critical perspective" by D. Bouyssou, T. Marchant, M. Pirlot, P. Perny, A. Tsoukias, P. Vincke, (Eds.); Kluwer Academic Publishers, Boston/London/Dordrecht, 2000, 274p. +viii
+JF Fuzzy Sets and Systems
+VO 139
+SP 469
+OP 472
+IS 2
+
+RT Journal Article
+ID 14489787
+A1 Dubois,Didier
+YR 2003
+T1 Recent Literature
+JF Fuzzy Sets and Systems
+VO 138
+SP 213
+OP 219
+IS 1
+
+RT Conference Proceedings
+ID 437999
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Kaci,Souhila
+A1 Prade,Henri
+YR 2002
+T1 Bipolar Representation and Fusion of Preferences on the Possibilistic Logic framework
+SP 421
+OP 448
+
+RT Journal Article
+ID 769905
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Kaci,Souhila
+A1 Prade,Henri
+YR 2002
+T1 Possibilistic Merging and Distance-Based Fusion of Propositional Information
+JF Annals of Mathematics and Artificial Intelligence
+VO 34
+SP 217
+OP 252
+IS 1-3
+
+RT Journal Article
+ID 806702
+A1 Chanas,Stefan
+A1 Dubois,Didier
+A1 Zielinski,Pawel
+YR 2002
+T1 On the sure criticality of tasks in activity networks with imprecise durations
+JF IEEE Transactions on Systems, Man, and Cybernetics
+VO 32
+SP 393
+OP 407
+IS 4
+
+RT Journal Article
+ID 787471
+A1 Dubois,Didier
+A1 Fargier,Hélène
+A1 Prade,Henri
+A1 Perny,Patrice
+YR 2002
+T1 Qualitative decision theory: from savage's axioms to nonmonotonic reasoning
+JF Journal of The ACM
+VO 49
+SP 455
+OP 495
+IS 4
+
+RT Conference Proceedings
+ID 1776667
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2002
+T1 Possibility theory in information fusion
+SP 103
+OP 116
+
+RT Book, Whole
+ID 516690
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2002
+T1 Bipolarity in Flexible Querying
+SP 174
+OP 182
+
+RT Journal Article
+ID 1205895
+A1 Dubois,Didier
+A1 Hüllermeier,Eyke
+A1 Prade,Henri
+YR 2002
+T1 Fuzzy set-based methods in instance-based reasoning
+JF IEEE Transactions on Fuzzy Systems
+VO 10
+SP 322
+OP 332
+IS 3
+
+RT Journal Article
+ID 867082
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Garcia,Laurent
+A1 Prade,Henri
+YR 2002
+T1 On the transformation between possibilistic logic bases and possibilistic causal networks
+JF International Journal of Approximate Reasoning
+VO 29
+SP 135
+OP 173
+IS 2
+
+RT Conference Proceedings
+ID 485600
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Kaci,Souhila
+A1 Prade,Henri
+YR 2002
+T1 Bipolar Possibilistic Representations
+SP 45
+OP 52
+
+RT Book, Whole
+ID 859394
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Williams,Mary-anne
+YR 2002
+T1 A Practical Approach to Revising Prioritized Knowledge Bases
+JF Studia Logica - An International Journal for Symbolic Logic
+VO 70
+SP 105
+OP 130
+IS 1
+
+RT Book, Whole
+ID 492627
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Ughetto,Laurent
+YR 2002
+T1 A New Perspective on Reasoning with Fuzzy Rules
+SP 1
+OP 11
+
+RT Conference Proceedings
+ID 437800
+A1 Dubois,Didier
+A1 Fargier,Hélène
+A1 Perny,Patrice
+YR 2002
+T1 On the Limitations of Ordinal Approaches to Decision-making
+SP 133
+OP 146
+
+RT Conference Proceedings
+ID 437911
+A1 Calmès,Martine,De
+A1 Dubois,Didier
+A1 Hüllermeier,Eyke
+A1 Prade,Henri
+A1 Sedes,Florence
+YR 2002
+T1 A Fuzzy Approach to Flexible Case-based Querying: Methodology and Experimentation
+SP 449
+OP 458
+
+RT Journal Article
+ID 851372
+A1 Amor,Nahla,Ben
+A1 Mellouli,Khaled
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2002
+T1 A Theoretical Framework for Possibilistic Independence in a Weakly Ordered Setting
+JF International Journal of Uncertainty, Fuzziness and Knowledge-based Systems
+VO 10
+SP 117
+OP 155
+IS 2
+
+RT Journal Article
+ID 3634410
+A1 Dubois,D
+A1 Prade,H
+YR 2002
+T1 Quantitative possibility theory and its probabilistic connections
+
+RT Journal Article
+ID 732737
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Sessa,Salvatore
+YR 2002
+T1 Recent Literature
+JF Fuzzy Sets and Systems
+VO 130
+SP 405
+OP 415
+IS 3
+
+RT Journal Article
+ID 769855
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2002
+T1 The Possibilistic Handling of Irrelevance in Exception-Tolerant Reasoning
+JF Annals of Mathematics and Artificial Intelligence
+VO 35
+SP 29
+OP 61
+IS 1-4
+
+RT Conference Proceedings
+ID 50265185
+A1 Calmes,Martine,de
+A1 Dubois,Didier
+A1 Hullermeier,E.
+A1 Prade,Henri
+A1 Sedes,F.
+YR 2002
+T1 Case-based querying and prediction: a fuzzy set approach
+
+RT Journal Article
+ID 783532
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Lagrue,Sylvain
+A1 Papini,Odile
+YR 2002
+T1 Making revision reversible: an approach based on polynomials
+JF Fundamenta Informaticae
+VO 53
+SP 251
+OP 280
+IS 3-4
+
+RT Journal Article
+ID 971394
+A1 Hüllermeier,Eyke
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2002
+T1 Model adaptation in possibilistic instance-based reasoning
+JF IEEE Transactions on Fuzzy Systems
+VO 10
+SP 333
+OP 339
+IS 3
+
+RT Conference Proceedings
+ID 508239
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Kaci,Souhila
+A1 Prade,Henri
+YR 2002
+T1 Possibilistic logic representation of preferences: relating prioritized goals and satisfaction levels expressions
+SP 685
+OP 689
+
+RT Book, Whole
+ID 4344403
+A1 Dubois,Didier
+A1 Fargier,Hélène
+A1 Prade,Henri
+YR 2002
+T1 Acceptance, Conditionals, and Belief Revision
+SP 38
+OP 58
+
+RT Journal Article
+ID 15272247
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Kaci,Souhila
+A1 Prade,Henri
+YR 2002
+T1 Possibilistic Merging and Distance-Based Fusion of Propositional Information
+JF Annals of Mathematics and Artificial Intelligence
+VO 34
+SP 217
+OP 252
+IS 1
+
+RT Conference Proceedings
+ID 668690
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2002
+T1 Bipolarity in Possibilistic Logic and Fuzzy Rules
+SP 168
+OP 173
+
+RT Journal Article
+ID 15224815
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Williams,Mary-Anne
+YR 2002
+T1 A Practical Approach to Revising Prioritized Knowledge Bases
+JF Studia Logica - An International Journal for Symbolic Logic
+VO 70
+SP 105
+OP 130
+IS 1
+
+RT Conference Proceedings
+ID 507871
+A1 Boverie,Serge
+A1 Dubois,Didier
+A1 Guérandel,Xavier
+A1 Mouzon,Olivier,De
+A1 Prade,Henri
+YR 2002
+T1 Online Diagnosis of Engine Dyno Test Benches: A Possibilistic Approach
+SP 658
+OP 662
+
+RT Journal Article
+ID 15272270
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2002
+T1 The Possibilistic Handling of Irrelevance in Exception-Tolerant Reasoning
+JF Annals of Mathematics and Artificial Intelligence
+VO 35
+SP 29
+OP 61
+IS 1
+
+RT Journal Article
+ID 732912
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2002
+T1 Note from the Editors-in-Chief
+JF Fuzzy Sets and Systems
+VO 126
+SP 135
+OP 135
+IS 1
+
+RT Book, Whole
+ID 596548
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2001
+T1 Possibility Theory, Probability Theory and Multiple-Valued Logics: A Clarification
+JF Annals of Mathematics and Artificial Intelligence
+VO 32
+SP 228
+OP 66
+IS 1-4
+
+RT Journal Article
+ID 784599
+A1 Bloch,Isabelle
+A1 Hunter,Anthony
+A1 Appriou,Alain
+A1 Ayoun,André
+A1 Benferhat,Salem
+A1 Besnard,Philippe
+A1 Cholvy,Laurence
+A1 Cooke,Roger
+A1 Cuppens,Frédéric
+A1 Dubois,Didier
+A1 Fargier,Hélène
+A1 Grabisch,Michel
+A1 Kruse,Rudolf
+A1 Lang,Jérôme
+A1 Moral,Serafín
+A1 Prade,Henri
+A1 Saffiotti,Alessandro
+A1 Smets,Philippe
+A1 Sossai,Claudio
+YR 2001
+T1 Fusion: General concepts and characteristics
+JF International Journal of Intelligent Systems
+VO 16
+SP 1107
+OP 1134
+IS 10
+
+RT Journal Article
+ID 851346
+A1 Dubois,Didier
+A1 Marichal,Jean-luc
+A1 Prade,Henri
+A1 Roubens,Marc
+A1 Sabbadin,Régis
+YR 2001
+T1 The Use of the Discrete Sugeno Integral in Decision-Making: A Survey
+JF International Journal of Uncertainty, Fuzziness and Knowledge-based Systems
+VO 9
+SP 539
+OP 561
+IS 5
+
+RT Book, Whole
+ID 636139
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Smets,Philippe
+YR 2001
+T1 New Semantics for Quantitative Possibility Theory
+SP 410
+OP 421
+
+RT Journal Article
+ID 802565
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Sedes,Florence
+YR 2001
+T1 Fuzzy Logic Techniques in Multimedia Database Querying: A Preliminary Investigation of the Potentials
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 13
+SP 383
+OP 392
+IS 3
+
+RT Journal Article
+ID 770971
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2001
+T1 Towards a Possibilistic Logic Handling of Preferences
+JF Applied Intelligence
+VO 14
+SP 303
+OP 317
+IS 3
+
+RT Book, Whole
+ID 636161
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Smets,Philippe
+YR 2001
+T1 "Not Impossible" vs. "Guaranteed Possible" in Fusion and Revision
+SP 522
+OP 531
+
+RT Conference Proceedings
+ID 50230378
+A1 Bouchon-Meunier,B.
+A1 Dubois,D.
+A1 Marsala,C.
+A1 Prade,H.
+A1 Ughetto,L.
+YR 2001
+T1 A comparative view of interpolation methods between sparse fuzzy rules
+
+RT Journal Article
+ID 14444680
+A1 Dubois,Didier
+A1 Fortemps,Philippe
+A1 Pirlot,Marc
+A1 Prade,Henri
+YR 2001
+T1 Leximin optimality and fuzzy set-theoretic operations
+JF European Journal of Operational Research
+VO 130
+SP 20
+OP 28
+IS 1
+
+RT Conference Proceedings
+ID 50256200
+A1 Bosc,Patrick
+A1 Pivert,Olivier
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2001
+T1 On fuzzy association rules based on fuzzy cardinalities
+
+RT Journal Article
+ID 784579
+A1 Dubois,Didier
+A1 Grabisch,Michel
+A1 Prade,Henri
+A1 Smets,Philippe
+YR 2001
+T1 Using the transferable belief model and a qualitative possibility theory approach on an illustrative example: The assessment of the value of a candidate
+JF International Journal of Intelligent Systems
+VO 16
+SP 1245
+OP 1272
+IS 11
+
+RT Conference Proceedings
+ID 640986
+A1 Dubois,Didier
+A1 Esteva,Francesc
+A1 Godo,Lluis
+A1 Pradel,Henri
+YR 2001
+T1 An Information-Based Discussion of Vagueness
+SP 781
+OP 784
+
+RT Book, Whole
+ID 636280
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Kaci,Souhila
+A1 Prade,Henri
+YR 2001
+T1 Bridging Logical, Comparative, and Graphical Possibilistic Representation Frameworks
+SP 422
+OP 431
+
+RT Journal Article
+ID 46946797
+A1 DUBOIS,DIDIER
+A1 GRABISCH,MICHEL
+A1 MOUZON,OLIVIER,de
+A1 PRADE,HENRI
+YR 2001
+T1 A POSSIBILISTIC FRAMEWORK FOR SINGLE-FAULT CAUSAL DIAGNOSIS UNDER UNCERTAINTY
+JF International Journal of General Systems
+VO 30
+SP 167
+OP 192
+IS 2
+
+RT Journal Article
+ID 3132161
+A1 Dubois,D.
+A1 Hadjali,A.
+A1 Prade,H.
+YR 2001
+T1 Fuzzy Qualitative Reasoning with Words
+
+RT Journal Article
+ID 2054195
+A1 Benferhat,S.
+A1 Dubois,D.
+A1 Prade,H.
+YR 2001
+T1 A computational model for belief change and fusing ordered belief bases
+
+RT Journal Article
+ID 2071282
+A1 Dubois,D.
+A1 Fargier,H.
+A1 Perny,P.
+A1 Prade,H.
+YR 2001
+T1 Towards a qualitative multicriteria decision theory
+
+RT Conference Proceedings
+ID 640984
+A1 Prade,Henri
+A1 Mouzon,Olivier,De
+A1 Dubois,Didier
+YR 2001
+T1 Twofold Fuzzy Sets in Single and Multiple Fault Diagnosis, Using Information About Normal Values
+SP 1563
+OP 1566
+
+RT Journal Article
+ID 15272219
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2001
+T1 Possibility Theory, Probability Theory and Multiple-Valued Logics: A Clarification
+JF Annals of Mathematics and Artificial Intelligence
+VO 32
+SP 35
+OP 66
+IS 1
+
+RT Conference Proceedings
+ID 50230525
+A1 Dubois,Didier
+A1 Hullermeier,E.
+A1 Prade,H.
+YR 2001
+T1 Toward the representation of implication-based fuzzy rules in terms of crisp rules
+
+RT Conference Proceedings
+ID 641220
+A1 Bosc,Patrick
+A1 Pivert,Olivier
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2001
+T1 On Fuzzy Association Rules Bsed on Fuzzy Cardinalities
+SP 461
+OP 464
+
+RT Conference Proceedings
+ID 485599
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Kaci,Souhila
+A1 Prade,Henri
+YR 2001
+T1 Graphical readings of possibilistic logic bases
+SP 24
+OP 31
+
+RT Conference Proceedings
+ID 4352010
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2001
+T1 Refining aggregation operations in finite ordinal scales
+SP 175
+OP 178
+
+RT Journal Article
+ID 15227743
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2001
+T1 Towards a Possibilistic Logic Handling of Preferences
+JF Applied Intelligence
+VO 14
+SP 303
+OP 317
+IS 3
+
+RT Journal Article
+ID 708445
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Sabbadin,Régis
+YR 2001
+T1 Exception-Tolerant Reasoning and Decision under Uncertainty Using Qualitative Possibility Theory
+JF Künstliche Intelligenz
+VO 15
+SP 9
+OP 15
+IS 3
+
+RT Conference Proceedings
+ID 46130
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Lagrue,Sylvain
+A1 Prade,Henri
+YR 2001
+T1 Towards learning default rules by identifying big-stepped probabilities
+
+RT Journal Article
+ID 14491377
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2001
+T1 Special Issue of the journal Artificial Intelligence on “Fuzzy Set and Possibility Theory-Based Methods in Artificial Intelligence”
+JF Artificial Intelligence
+VO 127
+SP 163
+OP 164
+IS 1
+
+RT Conference Proceedings
+ID 50230622
+A1 ALI,Allel,HADJ
+A1 DUBOIS,Didier
+A1 Prade,H.
+YR 2001
+T1 Implementing fuzzy reasoning with closeness and negligibility relations
+
+RT Conference Proceedings
+ID 4351947
+A1 Chanas,Stefan
+A1 Dubois,Didier
+A1 Zielinski,Pawel
+YR 2001
+T1 Criticality analysis in activity networks under incomplete information
+SP 233
+OP 236
+
+RT Journal Article
+ID 732911
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2001
+T1 Book Review: "Handbook of Fuzzy Computation" by Enrique H. Ruspini, Piero P. Bonissone, Witold Pedrycz (Eds.)
+JF Fuzzy Sets and Systems
+VO 123
+SP 397
+OP 398
+IS 3
+
+RT Journal Article
+ID 14489728
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2001
+T1 Handbook of Fuzzy Computation
+JF Fuzzy Sets and Systems
+VO 123
+SP 397
+OP 398
+IS 3
+
+RT Conference Proceedings
+ID 4352000
+A1 Mouzon,Olivier,De
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2001
+T1 Extensions of the fuzzy pattern matching approach to diagnosis
+SP 183
+OP 186
+
+RT Journal Article
+ID 49021148
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2001
+T1 Special Issue of the journal Artificial Intelligence on “Fuzzy Set and Possibility Theory-Based Methods in Artificial Intelligence”
+JF American Journal of Ophthalmology
+VO 127
+SP 269
+OP 270
+IS 2
+
+RT Journal Article
+ID 49021150
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2001
+T1 Special Issue of the journal Artificial Intelligence on “Fuzzy Set and Possibility Theory-Based Methods in Artificial Intelligence”
+JF American Journal of Ophthalmology
+VO 128
+SP 245
+OP 246
+IS 1
+
+RT Journal Article
+ID 81083
+A1 Hullermeier,Eyke
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2001
+T1 Instance-Based Prediction in the Framework of Possibility Theory
+
+RT Journal Article
+ID 60761500
+A1 GOKHALE,M.
+A1 DUBOIS,D.
+YR 2001
+T1 GIGABIT RATE NETWORK INTRUSION DETECTION TECHNOLOGY
+
+RT Book, Whole
+ID 588621
+A1 Dubois,Didier
+YR 2001
+T1 Confidence Relations as a Basis for Uncertainty Modeling, Plausible Reasoning, and Belief Revision
+SP 655
+OP 664
+
+RT Journal Article
+ID 708265
+A1 Dubois,Didier
+YR 2001
+T1 The 16th Conference on Uncertainty in Artificial Intelligence (UAI 2000)
+JF Künstliche Intelligenz
+VO 15
+SP 46
+IS 3
+
+RT Journal Article
+ID 2396326
+A1 Dubois,D.
+A1 Prade,H.
+YR 2000
+T1 Fundamentals of Fuzzy Sets
+
+RT Journal Article
+ID 116713
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Sabbadin,Régis
+YR 2000
+T1 Decision-Theoretic Foundations of Qualitative Possibility Theory
+JF European Journal of Operational Research
+
+RT Journal Article
+ID 831512
+A1 Dubois,Didier
+A1 Hájek,Petr
+A1 Prade,Henri
+YR 2000
+T1 Knowledge-Driven versus Data-Driven Logics
+JF Journal of Logic, Language and Information
+VO 9
+SP 65
+OP 89
+IS 1
+
+RT Journal Article
+ID 3132304
+A1 Dubois,D.
+A1 Ostasiewicz,W.
+A1 Prade,H.
+YR 2000
+T1 Fuzzy sets: history and basic notions
+
+RT Journal Article
+ID 3132308
+A1 Dubois,D.
+A1 Prade,H.
+YR 2000
+T1 Fuzzy sets in data summaries-outline of a new approach
+
+RT Journal Article
+ID 784578
+A1 Dubois,Didier
+A1 Grabisch,Michel
+A1 Modave,François
+A1 Prade,Henri
+YR 2000
+T1 Relating decision under uncertainty and multicriteria decision making models
+JF International Journal of Intelligent Systems
+VO 15
+SP 967
+OP 979
+IS 10
+
+RT Conference Proceedings
+ID 508238
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Kaci,Souhila
+A1 Prade,Henri
+YR 2000
+T1 Encoding Information Fusion in Possibilistic Logic: A General Framework for Rational Syntactic Merging
+SP 3
+OP 7
+
+RT Conference Proceedings
+ID 50191162
+A1 Dubois,Didier
+A1 Prade,H.
+YR 2000
+T1 Possibility theory in information fusion
+
+RT Book, Whole
+ID 569439
+A1 Dubois,Didier
+A1 Godo,Lluis
+A1 Prade,Henri
+A1 Zapico,Adriana
+YR 2000
+T1 Advances in Qualitative Decision Theory: Refined Rankings
+SP 427
+OP 436
+
+RT Conference Proceedings
+ID 508108
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2000
+T1 Kalman-like Filtering in a possibilistic Setting
+SP 8
+OP 12
+
+RT Book, Whole
+ID 594209
+A1 Dubois,Didier
+A1 Hüllermeier,Eyke
+A1 Prade,Henri
+YR 2000
+T1 Flexible Control of Case-Based Prediction in the Framework of Possibility Theory
+SP 61
+OP 73
+
+RT Conference Proceedings
+ID 437863
+A1 Amor,Nahla,Ben
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Geffner,Hector
+A1 Prade,Henri
+YR 2000
+T1 Independence in qualitative uncertainty frameworks
+SP 235
+OP 246
+
+RT Conference Proceedings
+ID 50182988
+A1 UGHETTO,Laurent
+A1 DUBOIS,Didier
+A1 PRADE,Henri
+YR 2000
+T1 Fuzzy interpolation by convex completion of sparse rule bases
+VO 1
+SP 465
+
+RT Journal Article
+ID 216870
+A1 Dubois,Didier
+YR 2000
+T1 Using the transferable belief model and a qualitative possibility theory approach on an illustrative example: the assessment of the value of a candidate
+
+RT Conference Proceedings
+ID 485405
+A1 Kaci,Souhila
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 2000
+T1 A principled analysis of merging operations in possibilistic logic
+SP 24
+OP 31
+
+RT Conference Proceedings
+ID 50182949
+A1 DUBOIS,Didier
+A1 HADJ-ALI,Allel
+A1 PRADE,Henri
+YR 2000
+T1 Incoherence detection and approximate solving of equations using fuzzy qualitative reasoning
+VO 1
+SP 203
+
+RT Journal Article
+ID 15275004
+A1 Dubois,Didier
+A1 Hájek,Petr
+A1 Prade,Henri
+YR 2000
+T1 Knowledge-Driven versus Data-Driven Logics
+JF Journal of Logic, Language and Information
+VO 9
+SP 65
+OP 89
+IS 1
+
+RT Conference Proceedings
+ID 50183025
+A1 Mouzon,O.,De
+A1 Dubois,D.
+A1 Prade,H.
+YR 2000
+T1 Using consistency and abduction based indices in possibilistic causal diagnosis
+VO 2
+SP 729
+
+RT Journal Article
+ID 14489083
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1999
+T1 Fuzzy sets in approximate reasoning, Part 1: Inference with possibility distributions
+JF Fuzzy Sets and Systems
+VO 100
+SP 73
+OP 132
+
+RT Journal Article
+ID 138705
+A1 Dubois,Didier
+A1 Fortemps,Philippe
+YR 1999
+T1 Computing improved optimal solutions to max-min flexible constraint satisfaction problems
+JF European Journal of Operational Research
+VO 118
+SP 95
+OP 126
+IS 1
+
+RT Journal Article
+ID 3132305
+A1 Dubois,D.
+A1 Prade,H.
+A1 Yager,R.
+YR 1999
+T1 Fuzzy Sets in Approximate Reasoning and Information Systems
+
+RT Journal Article
+ID 852179
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1999
+T1 Possibilistic and Standard Probabilistic Semantics of Conditional Knowledge Bases
+JF Journal of Logic and Computation
+VO 9
+SP 873
+OP 895
+IS 6
+
+RT Journal Article
+ID 2379178
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1999
+T1 Qualitative possibility theory and its applications to constraint satisfaction and decision under uncertainty
+JF International Journal of Intelligent Systems
+VO 14
+SP 45
+OP 61
+IS 1
+
+RT Journal Article
+ID 1654608
+A1 Cardoso,Janette
+A1 Valette,Robert
+A1 Dubois,Didier
+YR 1999
+T1 Possibilistic Petri nets
+JF IEEE Transactions on Systems, Man, and Cybernetics
+VO 29
+SP 573
+OP 582
+IS 5
+
+RT Conference Proceedings
+ID 512610
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Pradel,Henri
+A1 Williams,Mary-anne
+YR 1999
+T1 A Practical Approach to Fusing Prioritized Knowledge Bases
+SP 223
+OP 236
+
+RT Book, Whole
+ID 615407
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1999
+T1 Towards a Possibilistic Logic Handling of Preferences
+SP 1370
+OP 1375
+
+RT Journal Article
+ID 46946712
+A1 DUBOIS,DIDIER
+A1 PRADE,HENRI
+YR 1999
+T1 ON FUZZY INTERPOLATION
+JF International Journal of General Systems
+VO 28
+SP 103
+OP 114
+IS 2-3
+
+RT Journal Article
+ID 851308
+A1 Dubois,Didier
+A1 Godo,Lluis
+A1 Prade,Henri
+A1 Zapico,Adriana
+YR 1999
+T1 On the Possibilistic Deceision Model: From Decesion under Uncertainty to Case-Based Decesion
+JF International Journal of Uncertainty, Fuzziness and Knowledge-based Systems
+VO 7
+SP 631
+OP 670
+IS 6
+
+RT Journal Article
+ID 783155
+A1 Dubois,Didier
+A1 Berre,Daniel,Le
+A1 Prade,Henri
+A1 Sabbadin,Régis
+YR 1999
+T1 Using Possibilistic Logic for Modeling Qualitative Decision: ATMS-based Algorithms
+JF Fundamenta Informaticae
+VO 37
+SP 1
+OP 30
+IS 1-2
+
+RT Conference Proceedings
+ID 2072745
+A1 Bouchon-meunier,B.
+A1 Dubois,D.
+A1 Godo,L.
+A1 Prade,H.
+YR 1999
+T1 Fuzzy sets and possibility theory in approximate and plausible reasoning
+
+RT Conference Proceedings
+ID 485598
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Garcia,Laurent
+A1 Prade,Henri
+YR 1999
+T1 Possibilistic logic bases and possibilistic graphs
+SP 57
+OP 64
+
+RT Conference Proceedings
+ID 490569
+A1 Ughetto,Laurent
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1999
+T1 Implicative and conjunctive fuzzy rules - A tool for reasoning from knowledge and examples
+SP 214
+OP 219
+
+RT Journal Article
+ID 14489079
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1999
+T1 Properties of measures of information in evidence and possibility theories
+JF Fuzzy Sets and Systems
+VO 100
+SP 35
+OP 49
+
+RT Conference Proceedings
+ID 491282
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Papini,Odile
+YR 1999
+T1 A sequential reversible belief revision method based on polynomials
+SP 733
+OP 738
+
+RT Journal Article
+ID 2712921
+A1 Benferhat,S.
+A1 Dubois,D.
+A1 Prade,H.
+YR 1999
+T1 An overview of inconsistency-tolerant inferences in prioritized knowledge bases
+
+RT Journal Article
+ID 143894
+A1 Huellermeier,Eyke
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1999
+T1 Fuzzy Rules in Case-Based Reasoning
+
+RT Conference Proceedings
+ID 256356
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Sèdes,Florence
+YR 1999
+T1 Some uses of fuzzy logic in multimedia databases querying
+VO 2
+SP 586
+
+RT Journal Article
+ID 3078405
+A1 Dubois,D.
+A1 Nakata,M.
+A1 Prade,H.
+YR 1999
+T1 Extended divisions for flexible queries in relational databases
+
+RT Conference Proceedings
+ID 485335
+A1 Dubois,Didier
+A1 Grabisch,Michel
+A1 Prade,Henri
+A1 Smets,Philippe
+YR 1999
+T1 Assessing the value of a candidate: Comparing belief function and possibility theories
+SP 170
+OP 177
+
+RT Conference Proceedings
+ID 50157148
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1999
+T1 A unified view of ranking techniques for fuzzy numbers
+VO 3
+SP 1328
+
+RT Conference Proceedings
+ID 636137
+A1 Dubois,Didier
+A1 Grabisch,Michel
+A1 Prade,Henri
+YR 1999
+T1 Assessing the Value of Candidate (A Qualitative Possibilistic Approach)
+SP 137
+OP 147
+
+RT Conference Proceedings
+ID 50151801
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1999
+T1 Towards fuzzy default reasoning
+
+RT Conference Proceedings
+ID 429840
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Sedes,Florence
+YR 1999
+T1 Fuzzy Logic Techniques in Multimedia Databases
+SP 211
+OP 229
+
+RT Journal Article
+ID 2039133
+A1 Dubois,D.
+A1 Prade,H.
+YR 1998
+T1 Possibility theory: Qualitative and quantitative aspects
+
+RT Journal Article
+ID 2039131
+A1 Dubois,Didier
+A1 Esteva,F.
+A1 Garcia,P.
+A1 Godo,L.
+A1 Mantaras,R.,Lopez,De
+A1 Prade,H.
+YR 1998
+T1 Fuzzy set modelling in case‐based reasoning
+JF International Journal of Intelligent Systems
+VO 13
+SP 345
+OP 373
+IS 4
+
+RT Conference Proceedings
+ID 437850
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Lang,Jérôme
+A1 Prade,Henri
+A1 Saffiotti,Alessandro
+A1 Smets,Philippe
+YR 1998
+T1 A General Approach for Inconsistency Handling and Merging Information in Prioritized Knowledge Bases
+SP 466
+OP 477
+
+RT Conference Proceedings
+ID 93871
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Sabbadin,Régis
+YR 1998
+T1 Qualitative Decision Theory with Sugeno Integrals
+SP 121
+OP 128
+
+RT Conference Proceedings
+ID 310846
+A1 Dubois,Didier
+A1 Godo,Lluis
+A1 Prade,Henri
+A1 Zapico,Adriana
+YR 1998
+T1 Making Decision in a Qualitative Setting: from Decision under Uncertaintly to Case-based Decision
+SP 594
+OP 607
+
+RT Journal Article
+ID 827004
+A1 Bosc,Patrick
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1998
+T1 Fuzzy Functional Dependencies and Redundancy Elimination
+JF Journal of The American Society for Information Science
+VO 49
+SP 217
+OP 235
+IS 3
+
+RT Conference Proceedings
+ID 101234
+A1 Dubois,Didier
+A1 Berre,Daniel,Le
+A1 Prade,Henri
+A1 Sabbadin,Régis
+YR 1998
+T1 Logical Representation and Computation of Optimal Decisions in a Qualitative Setting
+SP 588
+OP 593
+
+RT Journal Article
+ID 770972
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1998
+T1 Practical Handling of Exception-Tainted Rules and Independence Information in Possibilistic Logic
+JF Applied Intelligence
+VO 9
+SP 101
+OP 127
+IS 2
+
+RT Journal Article
+ID 862432
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1998
+T1 Soft computing, fuzzy logic, and artificial intelligence
+JF Soft Computing
+VO 2
+SP 7
+OP 11
+IS 1
+
+RT Conference Proceedings
+ID 485264
+A1 Dubois,Didier
+A1 Fargier,Hélène
+A1 Prade,Henri
+YR 1998
+T1 Comparative uncertainty, belief functions and accepted beliefs
+SP 113
+OP 120
+
+RT Journal Article
+ID 3589115
+A1 Dubois,D.
+A1 Prade,H.
+A1 Sandri,S.
+YR 1998
+T1 Possibilistic logic with fuzzy constants and fuzzily restricted quantifiers
+
+RT Journal Article
+ID 2084163
+A1 Dubois,D.
+A1 Prade,H.
+A1 Sandri,S.
+YR 1998
+T1 Possibilistic logic with fuzzy constants and fuzzy quantifiers
+
+RT Journal Article
+ID 793670
+A1 Sabbadin,Régis
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Grenier,Pierre
+YR 1998
+T1 A fuzzy constraint satisfaction problem in the wine industry
+JF Journal of Intelligent and Fuzzy Systems
+VO 6
+SP 361
+OP 374
+IS 3
+
+RT Conference Proceedings
+ID 490832
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Lang,Jérôme
+A1 Prade,Henri
+A1 Saffiotti,Alessandro
+A1 Smets,Philippe
+YR 1998
+T1 Reasoning Under Inconsistency Based on Implicitly-Specified Partial Qualitative Probability Relations: A Unified Framework
+SP 121
+OP 126
+
+RT Journal Article
+ID 14488899
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1998
+T1 Possibility theory is not fully compositional! A comment on a short note by H.J. Greenberg
+JF Fuzzy Sets and Systems
+VO 95
+SP 131
+OP 134
+IS 1
+
+RT Conference Proceedings
+ID 50115557
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Yager,Ronald,R.
+YR 1998
+T1 Computation of intelligent fusion operations based on constrained fuzzy arithmetic
+VO 1
+SP 767
+
+RT Journal Article
+ID 15227640
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1998
+T1 Practical Handling of Exception-Tainted Rules and Independence Information in Possibilistic Logic
+JF Applied Intelligence
+VO 9
+SP 101
+OP 127
+IS 2
+
+RT Journal Article
+ID 851487
+A1 Giang,P. H.
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1998
+T1 A Probabilistic Approach to Ordering Formulas in a Possibilistic Knowledge Base
+JF International Journal of Uncertainty, Fuzziness and Knowledge-based Systems
+VO 6
+SP 241
+OP 256
+IS 3
+
+RT Journal Article
+ID 15308431
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1998
+T1 Fuzzy set theory — basic concepts, techniques and bibliography by Robert Lowen, Kluwer Academic, Dordrecht, 1996, pp 408, ISBN 0-7923-4057-4
+JF Knowledge Engineering Review
+VO 13
+SP 201
+OP 208
+IS 2
+
+RT Journal Article
+ID 353282
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1998
+T1 Flexible Constraints and Qualitative Decision in A.I. (extended abstract)
+
+RT Journal Article
+ID 1981361
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1997
+T1 The three semantics of fuzzy sets
+JF Fuzzy Sets and Systems
+VO 90
+SP 141
+OP 150
+IS 2
+
+RT Journal Article
+ID 358869
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1997
+T1 Nonmonotonic Reasoning, Conditional Objects and Possibility Theory
+JF Artificial Intelligence
+VO 92
+SP 259
+OP 276
+IS 1-2
+
+RT Journal Article
+ID 272037
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1997
+T1 Some Syntactic Approaches to the Handling of Inconsistent Knowledge Bases: A Comparative Study Part 1: The Flat Case
+JF Studia Logica - An International Journal for Symbolic Logic
+VO 58
+SP 17
+OP 45
+IS 1
+
+RT Journal Article
+ID 3851670
+A1 Dubois,D.
+A1 Prade,H.
+YR 1997
+T1 Th'eorie des possibilit'es
+
+RT Journal Article
+ID 1024499
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Ughetto,Laurent
+YR 1997
+T1 Checking the coherence and redundancy of fuzzy knowledge bases
+JF IEEE Transactions on Fuzzy Systems
+VO 5
+SP 398
+OP 417
+IS 3
+
+RT Journal Article
+ID 322564
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1997
+T1 A synthetic view of belief revision with uncertain inputs in the framework of possibility theory
+JF International Journal of Approximate Reasoning
+VO 17
+SP 295
+OP 324
+IS 2-3
+
+RT Journal Article
+ID 318639
+A1 Bosc,Patrick
+A1 Dubois,Didier
+A1 Pivert,Olivier
+A1 Prade,Henri
+YR 1997
+T1 Flexible Queries in Relational Databases - The Example of the Division Operator
+JF Theoretical Computer Science
+VO 171
+SP 281
+OP 302
+IS 1-2
+
+RT Book, Whole
+ID 605401
+A1 Dubois,Didier
+A1 Esteva,Francesc
+A1 Garcia,Pere
+A1 Godo,Lluis
+A1 Mántaras,Ramon,López,De
+A1 Prade,Henri
+YR 1997
+T1 Fuzzy Modelling of Case-Based Reasoning and Decision
+SP 599
+OP 610
+
+RT Journal Article
+ID 1739436
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Esteva,Francesc
+A1 Garcia,Pere
+A1 Godo,Lluis
+YR 1997
+T1 A logical approach to interpolation based on similarity relations
+JF International Journal of Approximate Reasoning
+VO 17
+SP 1
+OP 36
+IS 1
+
+RT Conference Proceedings
+ID 108926
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Sabbadin,Régis
+YR 1997
+T1 A Possibilistic Logic Machinery for Qualitative Decision
+
+RT Journal Article
+ID 3124745
+A1 Benferhat,S.
+A1 Dubois,D.
+A1 Prade,H.
+YR 1997
+T1 From semantic to syntactic approaches to information combination in possibilistic logic
+
+RT Journal Article
+ID 14488765
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1997
+T1 Bayesian conditioning in possibility theory
+JF Fuzzy Sets and Systems
+VO 92
+SP 223
+OP 240
+IS 2
+
+RT Conference Proceedings
+ID 311580
+A1 Dubois,Didier
+A1 Fargier,Hélène
+A1 Prade,Henri
+YR 1997
+T1 Decision-Making under Ordinal Preferences and Comparative Uncertainty
+SP 157
+OP 164
+
+RT Journal Article
+ID 2007130
+A1 Rossazza,J,P
+A1 Dubois,D.
+A1 Prade,H.
+YR 1997
+T1 A hierarchical model of fuzzy classes
+
+RT Book, Whole
+ID 614164
+A1 Dubois,Didier
+A1 Esteva,Francesc
+A1 Garcia,Pere
+A1 Godo,Lluis
+A1 Mántaras,Ramon,López,De
+A1 Prade,Henri
+YR 1997
+T1 Case-Based Reasoning: A Fuzzy Approach
+SP 79
+OP 90
+
+RT Book, Whole
+ID 368899
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1997
+T1 Focusing vs. Belief Revision: A Fundamental Distinction When Dealing with Generic Knowledge
+SP 96
+OP 107
+
+RT Conference Proceedings
+ID 491281
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1997
+T1 Possibilistic and Standard Probabilistic Semantics of Conditional Knowledge
+SP 70
+OP 75
+
+RT Conference Proceedings
+ID 157488
+A1 Dubois,Didier
+A1 Cerro,Luis,Fariñas,Del
+A1 Herzig,Andreas
+A1 Prade,Henri
+YR 1997
+T1 Qualitative Relevance and Independence: A Roadmap
+SP 62
+OP 67
+
+RT Journal Article
+ID 3771063
+A1 Benferhat,S.
+A1 Dubois,D.
+A1 Prade,H.
+YR 1997
+T1 Some syntactic approaches to the handling of inconsistent knowledge bases: A comparative study
+
+RT Journal Article
+ID 304939
+A1 Dubois,Didier
+A1 Esteva,Francesc
+A1 Garcia,Pere
+A1 Godo,Lluís
+A1 Màntaras,Ramon,López,de
+A1 Prade,Henri
+YR 1997
+T1 Fuzzy Rule-Based Models for Case-Based Reasoning
+
+RT Journal Article
+ID 143333
+A1 Dubois,Didier
+A1 Fortemps,Philippe
+A1 Pirlot,Marc
+A1 Prade,Henri
+YR 1997
+T1 Leximin Optimality and Fuzzy Set-Theoretic Operations
+
+RT Conference Proceedings
+ID 50086905
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1997
+T1 Constraint satisfaction and decision under uncertainty based on qualitative possibility theory
+
+RT Conference Proceedings
+ID 105532
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Sabbadin,Régis
+YR 1997
+T1 Decision under qualitative uncertainty with Sugeno Integrals - An axiomatic approach
+
+RT Journal Article
+ID 15224561
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1997
+T1 Some Syntactic Approaches to the Handling of Inconsistent Knowledge Bases: A Comparative Study Part 1: The Flat Case
+JF Studia Logica - An International Journal for Symbolic Logic
+VO 58
+SP 17
+OP 45
+IS 1
+
+RT Conference Proceedings
+ID 50086989
+A1 UGHETTO,Laurent
+A1 DUBOIS,Didier
+A1 PRADE,Henri
+YR 1997
+T1 Efficient inference procedures with fuzzy inputs
+
+RT Book, Whole
+ID 383700
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1997
+T1 Syntactic Combination of Uncertain Information: A Possibilistic Approach
+SP 30
+OP 42
+
+RT Journal Article
+ID 6330738
+A1 Dubois,D.
+A1 Prade,H.
+A1 Grabisch,M.
+A1 Modave,F.
+YR 1997
+T1 Relating Decision under Uncertainty and MCDM Models
+
+RT Conference Proceedings
+ID 320520
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1997
+T1 Fuzzy Criteria and Fuzzy Rules in Subjective Evaluation —A General Discussion
+
+RT Book, Whole
+ID 337966
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1997
+T1 Valid or Complete Information in Databases - A Possibility Theory-Based Analysis
+SP 603
+OP 612
+
+RT Conference Proceedings
+ID 50087097
+A1 Dubois,D.
+A1 PRADE,HenrI
+A1 RANNOU,Eric
+YR 1997
+T1 User-driven summarization of data based on gradual rules
+
+RT Book, Whole
+ID 615109
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1997
+T1 The Place of Fuzzy Logic in AI
+SP 9
+OP 21
+
+RT Journal Article
+ID 49193463
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Sessa,Salvatore
+YR 1997
+T1 Recent literature
+JF Fuzzy Sets and Systems
+VO 92
+SP 129
+OP 135
+IS 1
+
+RT Journal Article
+ID 851530
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1997
+T1 Book Review: "Fuzzy Sets and Fuzzy Logic Theory and Applications", by George J. Klir, Bo Yuan
+JF International Journal of Uncertainty, Fuzziness and Knowledge-based Systems
+VO 5
+SP 505
+OP 508
+IS 4
+
+RT Journal Article
+ID 292177
+A1 Dubois,Didier
+A1 Fargier,Hélène
+A1 Prade,Henri
+YR 1996
+T1 Possibility Theory in Constraint Satisfaction Problems: Handling Priority, Preference and Uncertainty
+JF Applied Intelligence
+VO 6
+SP 287
+OP 309
+IS 4
+
+RT Journal Article
+ID 332397
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1996
+T1 What are fuzzy rules and how to use them
+JF Fuzzy Sets and Systems
+VO 84
+SP 169
+OP 185
+IS 2
+
+RT Journal Article
+ID 391029
+A1 Dubois,Didier
+A1 Fargier,Hélène
+A1 Prade,Henri
+YR 1996
+T1 Refinements of the maximin approach to decision-making in a fuzzy environment
+JF Fuzzy Sets and Systems
+VO 81
+SP 103
+OP 122
+IS 1
+
+RT Journal Article
+ID 269679
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Smets,Philippe
+YR 1996
+T1 Representing partial ignorance
+JF IEEE Transactions on Systems, Man, and Cybernetics
+VO 26
+SP 361
+OP 377
+IS 3
+
+RT Journal Article
+ID 327667
+A1 DUBOIS,Didier
+A1 ESTEVA,Francesc
+A1 GARCIA,Pere
+A1 GODO,Lluís
+A1 PRADE,Henri
+A1 IRIT-CNRS,Toulouse
+YR 1996
+T1 A LOGICAL APPROACH TO INTERPOLATION BASED ON SIMILARITY RELATIONS
+JF International Journal of Approximate Reasoning
+
+RT Journal Article
+ID 207389
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1996
+T1 Semantics of quotient operators in fuzzy relational databases
+JF Fuzzy Sets and Systems
+VO 78
+SP 89
+OP 93
+IS 1
+
+RT Journal Article
+ID 292254
+A1 CAYRAC,Didier
+A1 DUBOIS,Didier
+A1 PRADE,Henri
+YR 1996
+T1 Handling uncertainty with possibility theory and fuzzy sets in a satellite fault diagnosis application
+JF IEEE Transactions on Fuzzy Systems
+VO 4
+SP 251
+OP 269
+IS 3
+
+RT Book, Whole
+ID 621031
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1996
+T1 Approximate and Commonsense Reasoning: From Theory to Practice
+SP 19
+OP 33
+
+RT Conference Proceedings
+ID 50054639
+A1 DUBOIS,Didier
+A1 PRADE,Henri
+A1 UGHETTO,Lament
+YR 1996
+T1 Coherence of fuzzy knowledge bases
+
+RT Conference Proceedings
+ID 403923
+A1 DUBOIS,Didier
+A1 PRADE,Henri
+YR 1996
+T1 COMBINING HYPOTHETICAL REASONING and PLAUSIBLE INFERENCE IN POSSIBILISTIC LOGIC
+
+RT Conference Proceedings
+ID 621848
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1996
+T1 Reasoning in Inconsistent Stratified Knowledge Bases
+SP 184
+OP 189
+
+RT Conference Proceedings
+ID 516691
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1996
+T1 Using Fuzzy Sets in Database Systems: Why and How?
+SP 89
+OP 103
+
+RT Conference Proceedings
+ID 3243221
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Yager,Ronald,R.
+YR 1996
+T1 Information engineering and fuzzy logic
+
+RT Conference Proceedings
+ID 313276
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1996
+T1 Beyond Counter-Examples to Nonmonotonic Formalisms: A Possibility-Theoretic Analysis
+SP 652
+OP 656
+
+RT Conference Proceedings
+ID 485441
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1996
+T1 Belief Revision with Uncertain Inputs in the Possibilistic Setting
+SP 236
+OP 243
+
+RT Journal Article
+ID 3589112
+A1 Dubois,D.
+A1 Prade,H.
+A1 Sandri,S.
+YR 1996
+T1 Possibilistic logic augmented with fuzzy uni cation
+
+RT Conference Proceedings
+ID 282881
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1996
+T1 Coping with the Limitations of Rational Inference in the Framework of Possibility Theory
+SP 90
+OP 97
+
+RT Journal Article
+ID 1660123
+A1 Lehner,Paul,E.
+A1 Laskey,Kathryn,Blackmond
+A1 Dubois,Didier
+YR 1996
+T1 An introduction to issues in higher order uncertainty
+JF IEEE Transactions on Systems, Man, and Cybernetics
+VO 26
+SP 289
+OP 293
+IS 3
+
+RT Conference Proceedings
+ID 50054615
+A1 Dubois,D.
+A1 Prade,H.
+YR 1996
+T1 Focusing vs. revision in possibility theory
+
+RT Journal Article
+ID 46946626
+A1 DUBOIS,DIDIER
+A1 PRADE,HENRI
+YR 1996
+T1 IN MEMORY: ARNOLD KAUFMAN
+JF International Journal of General Systems
+VO 25
+SP 3
+OP 6
+IS 1
+
+RT Journal Article
+ID 14488481
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Sanchez,Elie
+YR 1996
+T1 Professor Arnold Kaufmann (18 August, 1911–1915 June, 1994)
+JF Fuzzy Sets and Systems
+VO 84
+SP 121
+OP 123
+IS 2
+
+RT Journal Article
+ID 15308367
+A1 Dubois,Didier
+YR 1996
+T1 BOOK REVIEWSBook reviewsDuboisDidierIRIT-CNRS, Toulouse, France0319961117378The uncertain reasoner's companion: a mathematical perspective by ParisJeff B., Cambridge University Press, Cambridge, UK, 1994, pp 212. Volume 39 in Cambridge Tracts in Theoretical Computer Science.Copyright © Cambridge University Press 19961996Cambridge University PresspdfS0269888900007712a.pdfdispartBook ReviewsReferencesBenferhatS, DuboisD and PradeH, 1992. “Representing default rules in possibilistic logic” In: Proc. of the 3rd Inter. Conf. on Principles of knowledge Representation and Reasoning (KR'92), 673–684, Cambridge, MA, 10 26–29.DeFinetti B, 1936. “La logique de la probabilite” Actes du Congrès Inter. de Philosophie Scientifique, Paris. (Hermann et Cie Editions, 1936, IVI–1V9).DriankovD, HellendoornH and ReinfrankM, 1995. An Introduction to Fuzzy Control, Springer-Verlag.DuboisD and PradeH, 1988. “An introduction to possibilistic and fuzzy logics” In: Non-Standard Logics for Automated Reasoning (Sm
+JF Knowledge Engineering Review
+VO 11
+SP 73
+IS 01
+
+RT Conference Proceedings
+ID 330241
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1995
+T1 Possibility Theory as a Basis for Qualitative Decision Theory
+SP 1924
+OP 1932
+
+RT Journal Article
+ID 380528
+A1 Dubois,Didier
+A1 Fargier,Hélène
+A1 Prade,Henri
+YR 1995
+T1 Fuzzy constraints in job-shop scheduling
+JF Journal of Intelligent Manufacturing
+VO 6
+SP 215
+OP 234
+IS 4
+
+RT Conference Proceedings
+ID 615406
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1995
+T1 How to Infer from Inconsisent Beliefs without Revising?
+SP 1449
+OP 1457
+
+RT Journal Article
+ID 1684463
+A1 Sandri,Sandra,A.
+A1 Dubois,Didier
+A1 Kalfsbeek,Henk,W.
+YR 1995
+T1 Elicitation, assessment, and pooling of expert judgments using possibility theory
+JF IEEE Transactions on Fuzzy Systems
+VO 3
+SP 313
+OP 335
+IS 3
+
+RT Journal Article
+ID 236943
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1995
+T1 Fuzzy relation equations and causal reasoning
+JF Fuzzy Sets and Systems
+VO 75
+SP 119
+OP 134
+IS 2
+
+RT Journal Article
+ID 6086765
+A1 Sorin,Christel
+A1 Jouvet,D.
+A1 Gagnoulet,Christian
+A1 Dubois,D.
+A1 Sadek,D.
+A1 Toularhoat,M.
+YR 1995
+T1 Operational and experimental French telecommunication services using CNET speech recognition and text-to-speech synthesis
+JF Speech Communication
+VO 17
+SP 273
+OP 286
+IS 3-4
+
+RT Conference Proceedings
+ID 361377
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1995
+T1 Numerical representations of acceptance
+SP 149
+OP 156
+
+RT Book, Whole
+ID 265931
+A1 Dubois,Didier
+A1 Saint-cyr,Florence,Dupin,De
+A1 Prade,Henri
+YR 1995
+T1 Update Postulates without Inertia
+SP 162
+OP 170
+
+RT Book, Whole
+ID 636180
+A1 Dubois,Didier
+A1 Esteva,Francesc
+A1 Garcia,Pere
+A1 Godo,Lluis
+A1 Prade,Henri
+YR 1995
+T1 Similarity-based Consequence Relations
+SP 171
+OP 180
+
+RT Journal Article
+ID 781281
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1995
+T1 What does fuzzy logic bring to AI?
+JF ACM Computing Surveys
+VO 27
+SP 328
+OP 330
+IS 3
+
+RT Book, Whole
+ID 373122
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1995
+T1 A Local Approach to Reasoning under Incosistency in Stratified Knowledge Bases
+SP 36
+OP 43
+
+RT Conference Proceedings
+ID 50011826
+A1 BOSC,Patrick
+A1 DUBOIS,Didier
+A1 PIVERT,Olivier
+A1 PRADE,Henri
+YR 1995
+T1 Fuzzy division for regular relational databases
+
+RT Conference Proceedings
+ID 50011889
+A1 DUBOIS,Didier
+A1 PRADE,Henri
+YR 1995
+T1 Comparison of two fuzzy set-based logics: similarity logic and possibilistic logic
+
+RT Conference Proceedings
+ID 485546
+A1 Cayrac,Didier
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1995
+T1 Practical model-based diagnosis with qualitative possibilistic uncertainty
+SP 68
+OP 76
+
+RT Book, Whole
+ID 614398
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1995
+T1 Towards Possibilistic Decision Theory
+SP 240
+OP 251
+
+RT Conference Proceedings
+ID 50011890
+A1 Dubois,D.
+A1 Prade,H.
+YR 1995
+T1 Combining hypothetical and nonmonotonic reasoning modes with application to updating-a possibilistic logic approach
+
+RT Conference Proceedings
+ID 50011937
+A1 Dubois,Didier
+A1 Moral,Serafin
+A1 Prade,Henri
+YR 1995
+T1 A semantics for possibility theory based on likelihoods
+
+RT Journal Article
+ID 1684749
+A1 Sandri,S.,a.
+A1 Dubois,D.
+A1 Kalfsbeek,H.,w.
+YR 1995
+T1 Corrections to (quote)Elicitation, Assessment, and Pooling of Expert Judgments Using Possibility Theory(quote)
+JF IEEE Transactions on Fuzzy Systems
+
+RT Journal Article
+ID 14405930
+A1 Sandri,S.,A.
+A1 Dubois,D.
+A1 Kalfsbeek,H.,W.
+YR 1995
+T1 Corrections to "Elicitation, Assessment, and Pooling of Expert Judgments Using Possibility Theory"
+JF IEEE Transactions on Fuzzy Systems
+VO 3
+SP 479
+IS 4
+
+RT Journal Article
+ID 14487978
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1995
+T1 Professor Arnold Kaufmann (1911–1994)
+JF Fuzzy Sets and Systems
+VO 69
+SP 103
+OP 103
+IS 2
+
+RT Journal Article
+ID 802562
+A1 Dubois,Didier
+A1 Lang,Jérôme
+A1 Prade,Henri
+YR 1994
+T1 Automated Reasoning Using Possibilistic Logic: Semantics, Belief Revision, and Variable Certainty Weights
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 6
+SP 64
+OP 71
+IS 1
+
+RT Journal Article
+ID 3132115
+A1 Dubois,D.
+A1 Prade,H.
+YR 1994
+T1 Fuzzy numbers: an overview
+
+RT Journal Article
+ID 1975070
+A1 Dubois,D.
+A1 Fargier,H.
+A1 Prade,H.
+YR 1994
+T1 Propagation and satisfaction of flexible constraints
+
+RT Journal Article
+ID 1980945
+A1 Dubois,D
+A1 Lang,J
+A1 Prade,H
+YR 1994
+T1 In: Handbook of Logic in Artificial Intelligence and Logic Programming
+
+RT Journal Article
+ID 849585
+A1 Elkan,Charles
+A1 Berenji,H.,R.
+A1 Chandrasekaran,B.
+A1 Silva,C.,J.,S.,de
+A1 Attikiouzel,Y.
+A1 Dubois,D.
+A1 Prade,H.
+A1 Smets,P.
+A1 Freksa,C.
+A1 Garcia,O.,N.
+A1 Klir,G.,J.
+A1 Yuan,Bo
+A1 Mamdani,E.,H.
+A1 Pelletier,F.,J.
+A1 Ruspini,E.,H.
+A1 Turksen,B.
+A1 Vadiee,N.
+A1 Jamshidi,M.
+A1 Wang,Pei-Zhuang
+A1 Tan,Sie-Keng
+A1 Tan,Shaohua
+A1 Yager,R.,R.
+A1 Zadeh,L.,A.
+YR 1994
+T1 The Paradoxical Success of Fuzzy Logic
+JF IEEE Expert / IEEE Intelligent Systems
+VO 9
+SP 3
+OP 8
+IS 4
+
+RT Journal Article
+ID 364786
+A1 DUBOIS,Didier
+A1 PRADE,Henri
+YR 1994
+T1 Possibility theory and data fusion in poorly informed environments
+JF Control Engineering Practice
+VO 2
+SP 811
+OP 823
+IS 5
+
+RT Journal Article
+ID 1981360
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1994
+T1 A survey of belief revision and updating rules in various uncertainty models
+JF International Journal of Intelligent Systems
+VO 9
+SP 61
+OP 100
+IS 1
+
+RT Journal Article
+ID 358852
+A1 DUBOIS,Didier
+A1 PRADE,Henri
+YR 1994
+T1 Conditional objects as nonmonotonic consequence relationships
+JF IEEE Transactions on Systems, Man, and Cybernetics
+VO 24
+SP 1724
+OP 1740
+IS 12
+
+RT Journal Article
+ID 1003077
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1994
+T1 Fuzzy sets-a convenient fiction for modeling vagueness and possibility
+JF IEEE Transactions on Fuzzy Systems
+VO 2
+SP 16
+OP 21
+IS 1
+
+RT Conference Proceedings
+ID 485334
+A1 Dubois,Didier
+A1 Cerro,Luis,Fariñas,Del
+A1 Herzig,Andreas
+A1 Prade,Henri
+YR 1994
+T1 An Ordinal View of Independence with Application to Plausible Reasoning
+SP 195
+OP 203
+
+RT Conference Proceedings
+ID 365848
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1994
+T1 Expressing Independence in a Possibilistic Framework and its Application to Default Reasoning
+SP 150
+OP 154
+
+RT Conference Proceedings
+ID 316766
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1994
+T1 Can We Enforce Full Compositionality in Uncertainty Calculi?
+SP 149
+OP 154
+
+RT Conference Proceedings
+ID 389778
+A1 BOSC,Patrick
+A1 DUBOIS,Didier
+A1 PRADE,Henri
+YR 1994
+T1 Fuzzy functional dependencies-an overview and a critical discussion
+
+RT Journal Article
+ID 437801
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1994
+T1 Non-Standard Theories of Uncertainty in Knowledge Representation and Reasoning
+JF Knowledge Engineering Review
+VO 9
+SP 634
+OP 645
+IS 04
+
+RT Journal Article
+ID 341288
+A1 Dubois,Didier
+A1 Koning,Jean-Luc
+YR 1994
+T1 A decision engine based on rational aggregation of heuristic knowledge
+JF Decision Support Systems
+VO 11
+SP 337
+OP 361
+IS 4
+
+RT Journal Article
+ID 2117339
+A1 Benferhat,S
+A1 Dubois,D
+A1 Lang,J
+A1 Prade,H
+YR 1994
+T1 Hypothetical reasoning in possibilistic logic : basic notions and implementation issues
+
+RT Journal Article
+ID 2758927
+A1 Dubois,D.
+A1 Lang,J.
+A1 Prade,H.
+YR 1994
+T1 Automated Reasoning Using Possibilistic Logic: Semantics
+JF Data & Knowledge Engineering
+
+RT Book, Whole
+ID 548355
+A1 Dubois,Didier
+A1 Saint-cyr,Florence,Dupin,De
+A1 Prade,Henri
+YR 1994
+T1 Updating, Transition Constraints and Possibilistic Markov Chains
+SP 263
+OP 272
+
+RT Journal Article
+ID 146541
+A1 Roy,B.
+A1 Dubois,D.
+A1 Courbon,J.,C
+YR 1994
+T1 Autour De L'aide La Dcision Et De L'intelligence Artificielle
+
+RT Conference Proceedings
+ID 49984395
+A1 Cayrac,D.
+A1 Dubois,D.
+A1 Haziza,M.
+A1 Prade,H.
+YR 1994
+T1 Possibility theory in “Fault mode effect analyses”. A satellite fault diagnosis application
+
+RT Conference Proceedings
+ID 437866
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1994
+T1 Conditional Objects as Nonmonotonic Consequence Relations: Main Results
+SP 170
+OP 177
+
+RT Journal Article
+ID 849223
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Smets,Phillipe
+YR 1994
+T1 Responses to Elkan (Didier Dubois, Henri Prade, Philippe Smets)
+JF IEEE Expert / IEEE Intelligent Systems
+VO 9
+SP 15
+OP 19
+IS 4
+
+RT Conference Proceedings
+ID 49985774
+A1 Athimon,C.
+A1 Bigorgne,D.
+A1 Cherbonnel,B.
+A1 Dubois,D.
+A1 Gagnoulet,C.
+A1 Jouvet,D.
+A1 Marzio,H.
+A1 Monne,J.
+A1 Py,S.
+A1 Sorin,C.
+A1 Toularhoat,M.
+YR 1994
+T1 Operational and experimental French telecommunication services using CNET speech recognition and text-to-speech synthesis
+
+RT Conference Proceedings
+ID 616125
+A1 Benferhat,Salem
+A1 Cayrol,Claudette
+A1 Dubois,Didier
+A1 Lang,Jérôme
+A1 Prade,Henri
+YR 1993
+T1 Inconsistency Management and Prioritized Syntax-Based Entailment
+SP 640
+OP 647
+
+RT Conference Proceedings
+ID 49952890
+A1 Dubois,Didier
+A1 Fargier,H.
+A1 Prade,H.
+YR 1993
+T1 The calculus of fuzzy restrictions as a basis for flexible constraint satisfaction
+
+RT Conference Proceedings
+ID 1307832
+A1 Dubois,D.
+A1 Fargier,H.
+A1 Prade,H.
+YR 1993
+T1 The calculus of fuzzy restrictions as a basis for exible constraint satisfaction
+
+RT Conference Proceedings
+ID 330474
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1993
+T1 Argumentative inference in uncertain and inconsistent knowledge bases
+SP 411
+OP 419
+
+RT Conference Proceedings
+ID 229207
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1993
+T1 Fuzzy sets and probability: misunderstandings, bridges and gaps
+
+RT Journal Article
+ID 406747
+A1 Dubois,Didier
+A1 Sandri,Sandra
+YR 1993
+T1 ON POSSIBILITY/P ROBABILITY TRANSFORMATIONS
+
+RT Conference Proceedings
+ID 2410381
+A1 Dubois,Didier
+A1 Fargier,H,El,Ene
+A1 Prade,Henri
+YR 1993
+T1 The use of fuzzy constraints in job-shop scheduling
+
+RT Journal Article
+ID 2363881
+A1 Dubois,Didier
+A1 Moral,Serafin
+YR 1993
+T1 A Semantics for Possibility Theory Based on Likelihoods
+
+RT Journal Article
+ID 793808
+A1 Dubois,Didier
+A1 Godo,Lluis
+A1 Mántaras,Ramon,López,De
+A1 Prade,Henri
+YR 1993
+T1 Qualitative Reasoning with Imprecise Probabilities
+JF Journal of Intelligent Information Systems
+VO 2
+SP 319
+OP 363
+IS 4
+
+RT Conference Proceedings
+ID 615108
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1993
+T1 Belief Revision and Updates in Numerical Formalisms: An Overview, with new Results for the Possibilistic Framework
+SP 620
+OP 625
+
+RT Journal Article
+ID 380823
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1993
+T1 Hypothetical Reasoning In Possibilistic Logic: Basic Notions, Applications And Implementation Issues
+
+RT Journal Article
+ID 814280
+A1 Besnard,Philippe
+A1 Moinard,Yves
+A1 Pereira,Wilmer
+A1 Clarke,Michael
+A1 Wilson,Nic
+A1 Delgado,Miguel
+A1 Moral,Serafín
+A1 Cano,Juan
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Cerro,Luis,Fariñas,Del
+A1 Lang,Jérôme
+A1 Amarger,Stéphane
+A1 Fox,John
+A1 Dohnal,Michael
+A1 Froidevaux,Christine
+A1 Mengin,Jérôme
+A1 Mántaras,Ramon,López,De
+A1 Godo,Lluis
+A1 Mamdani,E.,H.
+A1 Bigham,John
+A1 Parsons,Simon
+A1 Kruse,Rudolf
+A1 Paillet,Olivier
+A1 Siegel,Pierre
+A1 Smets,Philippe
+A1 Hsia,Yen-teh
+A1 Saffiotti,Alessandro
+A1 Kennes,Robert
+A1 Xu,Hong
+A1 Umkehrer,Elizabeth
+A1 Sundermeyer,Kurt
+A1 Whitney,Chris
+YR 1993
+T1 DRUMS: Defeasible Reasoning and Uncertainty Management Systems
+JF Ai Communications
+VO 6
+SP 27
+OP 46
+IS 1
+
+RT Journal Article
+ID 3106474
+A1 Dubois,D.
+A1 Fargier,H.
+A1 Prade,H.
+YR 1993
+T1 Flexible constraint satisfaction with application to scheduling problems
+
+RT Conference Proceedings
+ID 485440
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1993
+T1 A fuzzy relation-based extension of Reggia's relational model for diagnosis handling uncertain and incomplete information
+SP 106
+OP 113
+
+RT Book, Whole
+ID 636245
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1993
+T1 Possibilistic Logic: From nonmonotonicity to Logic Programming
+SP 17
+OP 24
+
+RT Conference Proceedings
+ID 614848
+A1 Yen,John
+A1 Bonissone,Piero,P.
+A1 Dubois,Didier
+A1 Freksa,Christian
+A1 Mántaras,Ramon,López,De
+A1 Ruspini,Enrique,H.
+A1 Zadeh,Lotfi,A.
+YR 1993
+T1 Fuzzy Logic and AI
+SP 1673
+OP 1676
+
+RT Journal Article
+ID 14550855
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1993
+T1 Fuzzy sets : A survey of engineering applications
+JF Computers & Chemical Engineering
+VO 17
+IS 1
+
+RT Book, Whole
+ID 614397
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1993
+T1 Possibility Theory, Belief Revision and Nonmonotonic Logic
+SP 51
+OP 61
+
+RT Journal Article
+ID 2011872
+A1 Dubois,D.
+A1 Prade,H.
+YR 1992
+T1 Putting rough sets and fuzzy sets together
+
+RT Journal Article
+ID 793496
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1992
+T1 Gradual inference rules in approximate reasoning
+JF Information Sciences
+VO 61
+SP 103
+OP 122
+IS 1-2
+
+RT Conference Proceedings
+ID 305077
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1992
+T1 Representing Default Rules in Possibilistic Logic
+SP 673
+OP 684
+
+RT Journal Article
+ID 2039132
+A1 Dubois,D.
+A1 Prade,H.
+YR 1992
+T1 When upper probabilities are possibility measures
+JF Fuzzy Sets and Systems
+VO 49
+SP 65
+OP 74
+IS 1
+
+RT Journal Article
+ID 1981359
+A1 Dubois,D.
+A1 Prade,H.
+YR 1992
+T1 Combination of fuzzy information in the framework of possibility theory
+
+RT Journal Article
+ID 2013086
+A1 Dubois,D
+A1 Prade,H
+YR 1992
+T1 Belief change and possibility theory
+
+RT Conference Proceedings
+ID 404655
+A1 Dubois,Didier
+A1 Lang,Jérôme
+A1 Prade,Henri
+YR 1992
+T1 Dealing with Multi-Source Information in Possibilistic Logic
+SP 38
+OP 42
+
+RT Journal Article
+ID 1739523
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1992
+T1 Evidence, knowledge, and belief functions
+JF International Journal of Approximate Reasoning
+VO 6
+SP 295
+OP 319
+IS 3
+
+RT Conference Proceedings
+ID 485343
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Godo,Lluis
+A1 Mántaras,Ramon,López,De
+YR 1992
+T1 A Symbolic Approach to Reasoning with Linguistic Quantifiers
+SP 74
+OP 82
+
+RT Journal Article
+ID 1973368
+A1 Dubois,D.
+A1 Prade,H.
+YR 1992
+T1 Fuzzy rules in knowledge-based systems: modelling gradedness, uncertainty and preference
+
+RT Conference Proceedings
+ID 1973367
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1992
+T1 Possibility theory as a basis for preference propagation in automated reasoning
+
+RT Journal Article
+ID 793454
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1992
+T1 Upper and lower images of a fuzzy set induced by a fuzzy relation: Applications to fuzzy inference and diagnosis
+JF Information Sciences
+VO 64
+SP 203
+OP 232
+IS 3
+
+RT Journal Article
+ID 793415
+A1 Dubois,Didier
+A1 Yager,Ronald,R.
+YR 1992
+T1 Fuzzy set connectives as combinations of belief structures
+JF Information Sciences
+VO 66
+SP 245
+OP 276
+IS 3
+
+RT Conference Proceedings
+ID 596543
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1992
+T1 Fuzzy Sets and Possibility Theory: Some Applications to Inference and Decision Processes
+SP 66
+OP 83
+
+RT Conference Proceedings
+ID 2390568
+A1 Dubois,D
+A1 Prade,H
+YR 1992
+T1 Belief revision and updates in numerical formalism
+
+RT Book, Whole
+ID 548418
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1992
+T1 Possibilistic Abduction
+SP 3
+OP 12
+
+RT Conference Proceedings
+ID 13293145
+A1 Dubois,Didier
+A1 Wellman,Michael,P.
+YR 1992
+T1 UAI '92: Proceedings of the Eighth Annual Conference on Uncertainty in Artificial Intelligence, July 17-19, 1992, Stanford University, Stanford, CA, USA
+
+RT Journal Article
+ID 697982
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1991
+T1 Epistemic Entrenchment and Possibilistic Logic
+JF Artificial Intelligence
+VO 50
+SP 223
+OP 239
+IS 2
+
+RT Journal Article
+ID 3132306
+A1 Dubois,D.
+A1 Prade,H.
+YR 1991
+T1 Fuzzy sets in approximate reasoning, Part 2: logical approaches
+JF Fuzzy Sets and Systems
+VO 40
+SP 203
+OP 244
+IS 1
+
+RT Journal Article
+ID 2018316
+A1 Dubois,D.
+A1 Prade,H.
+YR 1991
+T1 Random sets and fuzzy interval analysis
+JF Fuzzy Sets and Systems
+VO 42
+SP 87
+OP 101
+IS 1
+
+RT Journal Article
+ID 3132307
+A1 Dubois,D.
+A1 Lang,J.
+A1 Prade,H.
+YR 1991
+T1 Fuzzy sets in approximate reasoning
+JF Fuzzy Sets and Systems
+
+RT Conference Proceedings
+ID 529739
+A1 Dubois,Didier
+A1 Lang,Jérôme
+A1 Prade,Henri
+YR 1991
+T1 Towards Possibilistic Logic Programming
+SP 581
+OP 595
+
+RT Journal Article
+ID 4057077
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Rossazza,Jean-Paul
+YR 1991
+T1 Vagueness, typicality, and uncertainty in class hierarchies
+JF International Journal of Intelligent Systems
+VO 6
+SP 167
+OP 183
+IS 2
+
+RT Conference Proceedings
+ID 615107
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1991
+T1 Possibilistic Logic, Preferential Models, Non-monotonicity and Related Issues
+SP 419
+OP 425
+
+RT Journal Article
+ID 2396005
+A1 Dubois,D
+A1 Prade,H
+YR 1991
+T1 Focusing versus Updating in Belief Function Theory
+
+RT Journal Article
+ID 315123
+A1 Dubois,Didier
+A1 Lang,Jérôme
+A1 Prade,Henri
+YR 1991
+T1 Timed possibilistic logic
+JF Fundamenta Informaticae
+VO 15
+SP 211
+OP 234
+IS 3-4
+
+RT Book, Whole
+ID 614396
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1991
+T1 Basic Issues on Fuzzy Rules and Their Application to Fuzzy Control
+SP 3
+OP 14
+
+RT Conference Proceedings
+ID 485709
+A1 Amarger,Stéphane
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1991
+T1 Constraint Propagation with Imprecise Conditional Probabilities
+SP 26
+OP 34
+
+RT Conference Proceedings
+ID 485458
+A1 Lang,Jérôme
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1991
+T1 A Logic of Graded Possibility and Certainty Coping with Partial Inconsistency
+SP 188
+OP 196
+
+RT Conference Proceedings
+ID 437865
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1991
+T1 Conditional Objects and Non-Monontonic Reasoning
+SP 175
+OP 185
+
+RT Journal Article
+ID 323826
+A1 DUBOIS,DIDIER
+A1 PRADE,HENRI
+YR 1991
+T1 Fuzzy Sets in Approximate Reasoning: A Personal View
+
+RT Book, Whole
+ID 636138
+A1 Dubois,Didier
+A1 Lang,Jérôme
+A1 Prade,Henri
+YR 1991
+T1 A Brief Overview of Possibilistic Logic
+SP 53
+OP 57
+
+RT Book, Whole
+ID 614395
+A1 Dubois,Didier
+A1 Lang,Jérôme
+A1 Prade,Henri
+YR 1991
+T1 Handling Uncertainty, Context, Vague Predicates, and Partial Inconsistency in Possibilistic Logic
+SP 45
+OP 55
+
+RT Book, Whole
+ID 636333
+A1 Amarger,Stéphane
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1991
+T1 Imprecise Quantifiers and Conditional Probabilities
+SP 33
+OP 37
+
+RT Journal Article
+ID 3512061
+A1 Dubois,D.
+A1 Prade,H.
+YR 1991
+T1 On the ranking of ill-known values in possibility theory
+JF Fuzzy Sets and Systems
+VO 43
+SP 311
+OP 317
+IS 3
+
+RT Journal Article
+ID 4029425
+A1 Dubois,D.
+A1 Prade,H.
+A1 Rossazza,J,P
+YR 1991
+T1 Typicality and uncertainty in class hierarchies
+JF International Journal of Intelligent Systems
+
+RT Journal Article
+ID 1979271
+A1 Dubois,D
+A1 Prade,H
+YR 1991
+T1 Certainty and uncertainty of (vague) knowledge and generalized dependencies in fuzzy data bases
+
+RT Journal Article
+ID 2176533
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1991
+T1 Measuring and updating information
+JF Information Sciences
+VO 57-58
+SP 181
+OP 195
+
+RT Journal Article
+ID 46946468
+A1 DUBOIS,DIDIER
+A1 PRADE,HENRI
+YR 1991
+T1 FUZZY LABELS, IMPRECISION AND CONTEXTUAL DEPENDENCY Comments on Milan Zelený's “Cognitive Equilibrium: a Knowledge-based Theory of Fuzziness and Fuzzy Sets”
+JF International Journal of General Systems
+VO 19
+SP 383
+OP 386
+IS 4
+
+RT Conference Proceedings
+ID 49905285
+A1 Dubois,Didier
+A1 Koning,J.-L.
+YR 1991
+T1 DEBORA: a decision engine based on rational aggregation
+
+RT Journal Article
+ID 2380178
+A1 DUBOIS,DIDIER
+A1 PRADE,HENRI
+YR 1990
+T1 ROUGH FUZZY SETS AND FUZZY ROUGH SETS
+JF International Journal of General Systems
+VO 17
+SP 191
+OP 209
+IS 2-3
+
+RT Journal Article
+ID 1258762
+A1 Dubois,D.
+A1 Prade,H.
+YR 1990
+T1 An introduction to possibilistic and fuzzy logics
+
+RT Journal Article
+ID 2004824
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1990
+T1 Consonant approximations of belief functions
+JF International Journal of Approximate Reasoning
+VO 4
+SP 419
+OP 449
+IS 5-6
+
+RT Journal Article
+ID 1739544
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1990
+T1 The logical view of conditioning and its application to possibility and evidence theories
+JF International Journal of Approximate Reasoning
+VO 4
+SP 23
+OP 46
+IS 1
+
+RT Journal Article
+ID 1979270
+A1 Dubois,D
+A1 Prade,H
+YR 1990
+T1 Measuring properties of fuzzy sets: A general technique and its use in fuzzy query evaluation
+JF Fuzzy Sets and Systems
+VO 38
+SP 137
+OP 152
+IS 2
+
+RT Journal Article
+ID 1739582
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1990
+T1 Resolution principles in possibilistic logic
+JF International Journal of Approximate Reasoning
+VO 4
+SP 1
+OP 21
+IS 1
+
+RT Journal Article
+ID 1275354
+A1 Dubois,D.
+A1 Prade,H.
+A1 Touscas,J.,M
+YR 1990
+T1 Inference with imprecise numerical quantifiers
+JF International Journal of Intelligent Systems
+
+RT Book, Whole
+ID 548417
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1990
+T1 Inference in Possibilistic Hypergraphs
+SP 250
+OP 259
+
+RT Journal Article
+ID 3708866
+A1 Dubois,D.
+A1 Prade,H.
+YR 1990
+T1 Scalar Evaluation of Fuzzy Sets: Overview and Applications
+JF Applied Mathematics Letters
+
+RT Journal Article
+ID 367610
+A1 Sandri,S.,A.
+A1 Dubois,D.
+A1 Kalfsbeek,H.,W.
+YR 1990
+T1 Elicitation, assessment and pooling of expert judgements using possibility theory
+
+RT Journal Article
+ID 15219197
+A1 Dubois,Didier
+A1 Stecke,Kathryn,E.
+YR 1990
+T1 Dynamic analysis of repetitive decision-free discreteevent processes: The algebra of timed marked graphs and algorithmic issues
+JF Annals of Operations Research
+VO 26
+SP 150
+OP 193
+IS 1
+
+RT Conference Proceedings
+ID 485439
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1990
+T1 Updating with belief functions, ordinal conditional functions and possibility measures
+SP 311
+OP 330
+
+RT Conference Proceedings
+ID 507633
+A1 Dubois,Didier
+A1 Lang,Jérôme
+A1 Prade,Henri
+YR 1990
+T1 A Possibilistic Assumption-Based Truth Maintenance System with Uncertain Justifications, and its Application to Belief Revision
+SP 87
+OP 106
+
+RT Journal Article
+ID 2885363
+A1 Dubois,D.
+A1 Prade,H.
+YR 1990
+T1 Consonant approximations of belief measures
+JF International Journal of Approximate Reasoning
+
+RT Journal Article
+ID 2746770
+A1 Sandri,S.,A.
+A1 Dubois,D.
+A1 Kalfsbeek,H.,W.
+YR 1990
+T1 assessment and pooling of expert judgements using possibility theory
+JF IEEE Transactions on Fuzzy Systems
+
+RT Conference Proceedings
+ID 507955
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1990
+T1 Reasoning with Inconsistent Information in a Possibilistic Setting
+SP 259
+OP 261
+
+RT Journal Article
+ID 15258470
+A1 Dubois,D.
+A1 Prade,H.
+YR 1990
+T1 Reply to rejoinder
+JF Computational Intelligence
+VO 6
+SP 179
+OP 179
+IS 3
+
+RT Journal Article
+ID 1160174
+A1 DuBois,D.
+A1 Prade,H.
+YR 1989
+T1 Processing fuzzy temporal knowledge
+JF IEEE Transactions on Systems, Man, and Cybernetics
+VO 19
+SP 729
+OP 744
+IS 4
+
+RT Book, Whole
+ID 446383
+A1 Cardoso,Janette
+A1 Valette,Robert
+A1 Dubois,Didier
+YR 1989
+T1 Petri nets with uncertain markings
+SP 64
+OP 78
+
+RT Conference Proceedings
+ID 615106
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1989
+T1 Measure-Free Conditioning, Probability and Non-Monotonic Reasoning
+SP 1110
+OP 1114
+
+RT Journal Article
+ID 1383165
+A1 Dubois,D.
+A1 Prade,H.
+YR 1988
+T1 Possibility theory: an approach to the computerized processing of uncertainty
+
+RT Journal Article
+ID 700029
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1988
+T1 Representation and combination of uncertainty with belief functions and possibility measures
+JF Computational Intelligence
+VO 4
+SP 244
+OP 264
+IS 3
+
+RT Journal Article
+ID 1927009
+A1 Dubois,D.
+A1 Prade,H.
+A1 Testemale,C.
+YR 1988
+T1 Weighted fuzzy pattern matching
+JF Fuzzy Sets and Systems
+VO 28
+SP 313
+OP 331
+IS 3
+
+RT Journal Article
+ID 697980
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1988
+T1 Default Reasoning and Possibility Theory
+JF Artificial Intelligence
+VO 35
+SP 243
+OP 257
+IS 2
+
+RT Journal Article
+ID 700028
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1988
+T1 On fuzzy syllogisms
+JF Computational Intelligence
+VO 4
+SP 171
+OP 179
+IS 2
+
+RT Journal Article
+ID 2070578
+A1 Dubois,D.
+A1 Martin-clouarie,R.
+A1 Prade,H.
+YR 1988
+T1 Practical computing in fuzzy logic
+
+RT Journal Article
+ID 1739573
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1988
+T1 On the combination of uncertain or imprecise pieces of information in rule-based systems--A discussion in the framework of possibility theory
+JF International Journal of Approximate Reasoning
+VO 2
+SP 65
+OP 87
+IS 1
+
+RT Conference Proceedings
+ID 507637
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Testemale,Claudette
+YR 1988
+T1 In Search of a Modal System for Possibility Theory
+SP 501
+OP 506
+
+RT Journal Article
+ID 3974082
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1988
+T1 The treatment of uncertainty in knowledge-based systems using fuzzy sets and possibility theory
+JF International Journal of Intelligent Systems
+VO 3
+SP 141
+OP 165
+IS 2
+
+RT Book, Whole
+ID 548416
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1988
+T1 Conditioning in Possibility and Evidence Theories - A Logical Viewpoint
+SP 401
+OP 408
+
+RT Journal Article
+ID 1927007
+A1 Dubois,D.
+A1 Prade,H.
+YR 1988
+T1 Certainty and uncertainty of (vague) knowledge and generalized dependencies in fuzzy databases
+
+RT Journal Article
+ID 1979269
+A1 Dubois,D
+A1 Prade,H
+YR 1988
+T1 With the collaboration of Farreny H
+
+RT Journal Article
+ID 1739662
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1988
+T1 On incomplete conjunctive information
+JF International Journal of Approximate Reasoning
+VO 2
+SP 99
+OP 99
+IS 2
+
+RT Conference Proceedings
+ID 485438
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1988
+T1 Modeling uncertain and vague knowledge in possibility and evidence theories
+SP 303
+OP 318
+
+RT Journal Article
+ID 700145
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1988
+T1 Comments on An inquiry into computer understanding
+JF Computational Intelligence
+VO 4
+SP 73
+OP 76
+IS 2
+
+RT Journal Article
+ID 15308014
+A1 Clark,Dominic
+A1 Baldwin,Jim
+A1 Berenji,Hamid
+A1 Cohen,Paul
+A1 Dubois,Didier
+A1 Fox,John
+A1 Lemmer,John
+A1 Prade,Henri
+A1 Spiegelhalter,David
+A1 Smets,Philippe
+A1 Zadeh,Lotfi
+YR 1988
+T1 Responses to “An AI view of the treatment of uncertainty” by Alessandro Saffiotti
+JF Knowledge Engineering Review
+VO 3
+SP 59
+IS 01
+
+RT Journal Article
+ID 2044247
+A1 Dubois,D.
+A1 Prade,H.
+YR 1987
+T1 The mean value of a fuzzy number
+JF Fuzzy Sets and Systems
+VO 24
+SP 279
+OP 300
+IS 3
+
+RT Journal Article
+ID 2117340
+A1 Dubois,D
+A1 Prade,H
+YR 1987
+T1 Twofold fuzzy sets and rough sets—Some issues in knowledge representation
+JF Fuzzy Sets and Systems
+VO 23
+SP 3
+OP 18
+IS 1
+
+RT Journal Article
+ID 3619831
+A1 Dubois,D.
+A1 Prade,H.
+YR 1987
+T1 Properties of measures of information in evidence and possibility theories
+JF Fuzzy Sets and Systems
+VO 24
+SP 161
+OP 182
+IS 2
+
+RT Journal Article
+ID 1929265
+A1 Dubois,D.
+A1 Jaulent,M.-C.
+YR 1987
+T1 A general approach to parameter evaluation in fuzzy digital pictures
+JF Pattern Recognition Letters
+VO 6
+SP 251
+OP 259
+IS 4
+
+RT Journal Article
+ID 2018671
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1987
+T1 Necessity Measures and the Resolution Principle
+JF IEEE Transactions on Systems, Man, and Cybernetics
+VO 17
+SP 474
+OP 478
+IS 3
+
+RT Conference Proceedings
+ID 614394
+A1 Dubois,Didier
+A1 Lang,Jérôme
+A1 Prade,Henri
+YR 1987
+T1 Theorem Proving Under Uncertainty - A Possibility Theory-based Approach
+SP 984
+OP 986
+
+RT Journal Article
+ID 4175700
+A1 Dubois,D.
+A1 Prade,H.
+YR 1987
+T1 An Approach to Approximate Reasoning Based on the Dempster Rule of Combination
+
+RT Journal Article
+ID 14486265
+A1 Dubois,D
+YR 1987
+T1 On several definitions of the differential of a fuzzy mapping
+JF Fuzzy Sets and Systems
+VO 24
+SP 117
+OP 120
+IS 1
+
+RT Journal Article
+ID 825044
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1987
+T1 A Tentative Comparison of Numerical Approximate Reasoning Methodologies
+JF International Journal of Human-computer Studies / International Journal of Man-machine Studies
+VO 27
+SP 717
+OP 728
+IS 5-6
+
+RT Journal Article
+ID 14486267
+A1 Dubois,D
+YR 1987
+T1 An alternative approach to the handling of subnormal possibility distributions — A critical comment on a proposal by Yager
+JF Fuzzy Sets and Systems
+VO 24
+SP 123
+OP 126
+IS 1
+
+RT Journal Article
+ID 3619830
+A1 Dubois,D
+A1 Prade,H.
+YR 1987
+T1 Properties of measures of information in possibility and evidence theory
+JF Fuzzy Sets and Systems
+
+RT Journal Article
+ID 14486184
+A1 Dubois,D
+YR 1987
+T1 L.A. Zadeh honorary doctorate from Toulouse University
+JF Fuzzy Sets and Systems
+VO 21
+SP 375
+OP 376
+IS 3
+
+RT Journal Article
+ID 1979268
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1986
+T1 Weighted minimum and maximum operations in fuzzy set theory
+JF Information Sciences
+VO 39
+SP 205
+OP 210
+IS 2
+
+RT Journal Article
+ID 2018315
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1986
+T1 Fuzzy sets and statistical data
+JF European Journal of Operational Research
+VO 25
+SP 345
+OP 356
+IS 3
+
+RT Journal Article
+ID 2009606
+A1 DUBOIS,DIDIER
+A1 PRADE,HENRI
+YR 1986
+T1 A SET-THEORETIC VIEW OF BELIEF FUNCTIONS Logical operations and approximations by fuzzy sets†
+JF International Journal of General Systems
+VO 12
+SP 193
+OP 226
+IS 3
+
+RT Journal Article
+ID 3516105
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1986
+T1 On the unicity of dempster rule of combination
+JF International Journal of Intelligent Systems
+VO 1
+SP 133
+OP 142
+IS 2
+
+RT Journal Article
+ID 2105978
+A1 Dubois,D.
+YR 1986
+T1 Belief structures, possibility theory and decomposable confidence measures on finite sets
+JF Computing and Informatics / Computers and Artificial Intelligence
+
+RT Book, Whole
+ID 548415
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1986
+T1 The principle of minimum specificity as a basis for evidential reasoning
+SP 75
+OP 84
+
+RT Journal Article
+ID 2378522
+A1 Dubois,D.
+A1 Prade,H.
+YR 1986
+T1 Possibility Theory: An Approach to Computerized Processing of Uncertainty
+
+RT Conference Proceedings
+ID 2700917
+A1 Bensana,E.
+A1 Correge,M.
+A1 Bel,G.
+A1 Dubois,D.
+YR 1986
+T1 An expert-system approach to industrial job-shop scheduling
+
+RT Journal Article
+ID 14541526
+A1 Dubois,D
+YR 1986
+T1 Generalized probabilistic independence and its implications for utility
+JF Operations Research Letters
+VO 5
+SP 255
+OP 260
+IS 5
+
+RT Conference Proceedings
+ID 2599772
+A1 Jouvet,D.
+A1 Monne,J.
+A1 Dubois,D.
+YR 1986
+T1 A new network-based speaker-independent connected-word recognition system
+
+RT Journal Article
+ID 15198189
+A1 Dubois,Didier
+YR 1986
+T1 Special report—artificial intelligence in France: Current developments
+JF International Journal of Intelligent Systems
+VO 1
+SP 321
+OP 322
+IS 4
+
+RT Journal Article
+ID 1927006
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1985
+T1 A review of fuzzy set aggregation connectives
+JF Information Sciences
+VO 36
+SP 85
+OP 121
+IS 1-2
+
+RT Journal Article
+ID 1577340
+A1 Cohen,G.
+A1 Dubois,D.
+A1 Quadrat,J.
+A1 Viot,M.
+YR 1985
+T1 A linear-system-theoretic view of discrete-event processes and its use for performance evaluation in manufacturing
+JF IEEE Transactions on Automatic Control
+VO 30
+SP 210
+OP 220
+IS 3
+
+RT Journal Article
+ID 46946252
+A1 DUBOIS,DIDIER
+A1 PRADE,HENRI
+YR 1985
+T1 A NOTE ON MEASURES OF SPECIFICITY FOR FUZZY SETS
+JF International Journal of General Systems
+VO 10
+SP 279
+OP 283
+IS 4
+
+RT Journal Article
+ID 3131726
+A1 Dubois,D.
+A1 Prade,H.
+YR 1985
+T1 Fuzzy cardinality and the modeling of imprecise quantification
+JF Fuzzy Sets and Systems
+VO 16
+SP 199
+OP 230
+IS 3
+
+RT Journal Article
+ID 2089691
+A1 Dubois,D.
+A1 Prade,H.
+YR 1985
+T1 Possibility Theory: An Approach to Computerized Processing of Uncertainty
+
+RT Journal Article
+ID 14456565
+A1 Dubois,D
+YR 1985
+T1 Evidence measures based on fuzzy information
+JF Automatica
+VO 21
+SP 547
+OP 562
+IS 5
+
+RT Journal Article
+ID 2063241
+A1 Dubois,D.
+A1 Prade,H.
+YR 1985
+T1 A note on measures of speci city for fuzzy sets
+
+RT Conference Proceedings
+ID 615105
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1985
+T1 Combination and Propagation of Uncertainty with Belief Functions - A Reexamination
+SP 111
+OP 113
+
+RT Journal Article
+ID 14572882
+A1 Bel,G.
+A1 Dubois,D.
+YR 1985
+T1 A unified setting for various models of automated material flow and production systems
+JF Computers in Industry
+VO 6
+SP 227
+OP 235
+IS 4
+
+RT Journal Article
+ID 14486027
+A1 Dubois,D
+YR 1985
+T1 Bulletin
+JF Fuzzy Sets and Systems
+VO 15
+SP 311
+OP 316
+IS 3
+
+RT Journal Article
+ID 14486039
+A1 DUBOIS,D
+A1 PRADE,H
+YR 1985
+T1 Recent literature
+JF Fuzzy Sets and Systems
+VO 16
+SP 177
+OP 194
+IS 2
+
+RT Journal Article
+ID 1389824
+A1 Browne,J.
+A1 Dubois,D.
+A1 Rathmill,K.
+A1 Sethi,S.,P.
+A1 Stecke,K.,E.
+YR 1984
+T1 Classification of flexible manufacturing systems
+
+RT Journal Article
+ID 2104103
+A1 Dubois,D.
+A1 Prade,H.
+YR 1984
+T1 Criteria aggregation and ranking of alternatives in the framework of fuzzy set theory
+
+RT Journal Article
+ID 1997454
+A1 DUBOIS,DIDIER
+A1 PRADE,HENRI
+YR 1984
+T1 FUZZY LOGICS AND THE GENERALIZED MODUS PONENS REVISITED
+JF Cybernetics and Systems
+VO 15
+SP 293
+OP 331
+IS 3-4
+
+RT Journal Article
+ID 1994852
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1984
+T1 A theorem on implication functions defined from triangular norms
+
+RT Journal Article
+ID 14516583
+A1 Delbrouckhabaru,J.
+A1 Dubois,D.
+YR 1984
+T1 Bound states of one nucleon in a Woods-Saxon well from a variational method
+JF Computer Physics Communications
+VO 35
+SP 286
+
+RT Journal Article
+ID 2176889
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1983
+T1 Ranking fuzzy numbers in the setting of possibility theory
+JF Information Sciences
+VO 30
+SP 183
+OP 224
+IS 3
+
+RT Journal Article
+ID 4037390
+A1 Dubois,D.
+A1 Prade,H.
+YR 1983
+T1 Unfair coins and necessity measures: Towards a possibilistic interpretation of histograms
+JF Fuzzy Sets and Systems
+VO 10
+SP 15
+OP 20
+IS 1-3
+
+RT Conference Proceedings
+ID 2016046
+A1 Dubois,Didier
+A1 Stecke,Kathryn,E.
+YR 1983
+T1 Using Petri nets to represent production processes
+
+RT Conference Proceedings
+ID 49827458
+A1 Cohen,G.
+A1 Dubois,D.
+A1 Quadrat,J.,P.
+A1 Viot,M.
+YR 1983
+T1 A linear-system-theoretic view of discrete-event processes
+
+RT Conference Proceedings
+ID 2714995
+A1 Cohen,G.
+A1 Dubois,D.
+A1 Quadrat,J.,P.
+A1 Viot,M.
+YR 1983
+T1 Analyse du com-portement p'eriodique des syst`emes de production par la th'eorie des dio篓ides
+
+RT Journal Article
+ID 2058365
+A1 Dubois,D
+A1 Prade,H
+YR 1983
+T1 Inverse Operations for Fuzzy Numbers
+
+RT Journal Article
+ID 14438903
+A1 Dubois,Didier
+YR 1983
+T1 A mathematical model of a flexible manufacturing system with limited in-process inventory
+JF European Journal of Operational Research
+VO 14
+SP 66
+OP 78
+IS 1
+
+RT Journal Article
+ID 14438920
+A1 Dubois,D
+YR 1983
+T1 Fuzzy information and decision processes M.M. Gupta and E. Sanchez (Eds.) North-Holland, Amsterdam, 1982, xxi + 451 pages, Dfl. 160.00
+JF European Journal of Operational Research
+VO 14
+SP 202
+OP 203
+IS 2
+
+RT Journal Article
+ID 1998568
+A1 Dubois,D.
+A1 Prade,H.
+YR 1982
+T1 A class of fuzzy measures based on triangular norms
+
+RT Journal Article
+ID 46946190
+A1 DUBOIS,DIDIER
+A1 PRADE,HENRI
+YR 1982
+T1 A CLASS OF FUZZY MEASURES BASED ON TRIANGULAR NORMS A general framework for the combination of uncertain information
+JF International Journal of General Systems
+VO 8
+SP 43
+OP 61
+IS 1
+
+RT Journal Article
+ID 14485838
+A1 DUBOIS,D
+A1 PRADE,H
+YR 1982
+T1 Towards fuzzy differential calculus part 3: Differentiation
+JF Fuzzy Sets and Systems
+VO 8
+SP 225
+OP 233
+IS 3
+
+RT Journal Article
+ID 2073086
+A1 Dubois,D.
+A1 Prade,H.
+YR 1982
+T1 A unifying view of comparison indices in a fuzzy set-theoretic framework
+
+RT Journal Article
+ID 14485816
+A1 Dubois,D
+YR 1982
+T1 Towards fuzzy differential calculus part 1: Integration of fuzzy mappings
+JF Fuzzy Sets and Systems
+VO 8
+SP 1
+OP 17
+IS 1
+
+RT Conference Proceedings
+ID 49824394
+A1 Cavaille,Jean-Bernard
+A1 Dubois,Didier
+YR 1982
+T1 Heuristic methods based on mean-value analysis for flexible manufacturing systems performance evaluation
+
+RT Journal Article
+ID 14485825
+A1 Dubois,D
+YR 1982
+T1 Towards fuzzy differential calculus part 2: Integration on fuzzy intervals
+JF Fuzzy Sets and Systems
+VO 8
+SP 105
+OP 116
+IS 2
+
+RT Journal Article
+ID 1986577
+A1 Dubois,D.
+A1 Forestier,J.,P
+YR 1982
+T1 Productivité et en-cours moyens d''un ensemble de deux machines séparées par une z?n e de stockage
+
+RT Journal Article
+ID 1612609
+A1 Dubois,D.
+A1 Steenaart,W.
+YR 1982
+T1 High speed stored product recursive digital filters
+JF IEEE Transactions on Circuits and Systems
+VO 29
+SP 390
+OP 393
+IS 6
+
+RT Journal Article
+ID 40618445
+A1 Bas,J.,Le
+A1 DITTMAR,E
+A1 PROTIN,L
+A1 DUBOIS,D
+A1 BERNOLE,M
+A1 GRAF,R
+YR 1982
+T1 Méthode absolue d'analyse quantitative d'échantillons métalliques minces par fluorescence X
+JF Thin Solid Films
+VO 87
+SP 195
+OP 201
+IS 3
+
+RT Journal Article
+ID 1578274
+A1 Dubois,D.
+A1 Prade,H.
+YR 1981
+T1 Additions of interactive fuzzy numbers
+JF IEEE Transactions on Automatic Control
+VO 26
+SP 926
+OP 936
+IS 4
+
+RT Journal Article
+ID 1613774
+A1 Steenaart,W.
+A1 Dubois,D.
+YR 1981
+T1 A low-pass-bandpass transform for arithmetical symmetry in digital filters
+JF IEEE Transactions on Circuits and Systems
+VO 28
+SP 347
+OP 352
+IS 4
+
+RT Journal Article
+ID 1366433
+A1 Dubois,D.
+A1 Prade,H.
+YR 1980
+T1 Fuzzy sets and systems: theory and applications
+
+RT Journal Article
+ID 1315104
+A1 Dubois,D.
+A1 Prade,H.
+YR 1980
+T1 Fuzzy sets and systems
+
+RT Journal Article
+ID 14485704
+A1 Dubois,D
+YR 1980
+T1 Systems of linear fuzzy constraints
+JF Fuzzy Sets and Systems
+VO 3
+SP 37
+OP 48
+IS 1
+
+RT Journal Article
+ID 3450033
+A1 Dubois,D.
+A1 Prade,H.
+YR 1980
+T1 New results about properties and semantics of fuzzy-set-theoretic operators
+
+RT Journal Article
+ID 1970791
+A1 Dubois,D.
+A1 Prade,H.
+YR 1980
+T1 System of linear fuzzy constraints
+JF Fuzzy Sets and Systems
+
+RT Journal Article
+ID 40617785
+A1 Bas,J.,Le
+A1 PROTIN,L
+A1 DITTMAR,E
+A1 DUBOIS,D
+YR 1980
+T1 Préparation et étude des propriétés de transport de films amorphes NixAg1-x
+JF Thin Solid Films
+VO 74
+SP 35
+OP 41
+IS 1
+
+RT Journal Article
+ID 3132180
+A1 DUBOIS,Didier
+A1 PRADE,Henri
+YR 1979
+T1 Fuzzy real algebra: Some results
+JF Fuzzy Sets and Systems
+VO 2
+SP 327
+OP 348
+IS 4
+
+RT Journal Article
+ID 819524
+A1 Dubois,Didier
+A1 Prade,Henri
+YR 1979
+T1 Operations in a Fuzzy-Valued Logic
+JF Information and Computation/information and Control
+VO 43
+SP 224
+OP 240
+IS 2
+
+RT Conference Proceedings
+ID 49817446
+A1 Dubois,Didier,J.
+A1 Prade,Henri,M.
+YR 1979
+T1 Various kinds of interactive addition of fuzzy numbers, application to decision analysis in presence of linguistic probabilities
+
+RT Book, Whole
+ID 48815712
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Sandri,Sandra
+T1 On Possibility/Probability Transformations
+
+RT Conference Proceedings
+ID 211414
+A1 DUBOIS,Didier
+A1 PRADE,Henri
+T1 Using fuzzy sets in flexible querying: Why and how?
+
+RT Book, Whole
+ID 48652332
+A1 Dubois,Didier
+A1 Hüllermeier,Eyke
+A1 Prade,Henri
+T1 A Note on Quality Measures for Fuzzy Association Rules
+
+RT Book, Whole
+ID 3131697
+A1 Dubois,Didier
+A1 Prade,Henri
+T1 Fuzzy arithmetic in qualitative reasoning
+
+RT Book, Whole
+ID 47672369
+A1 Dubois,Didier
+A1 Prade,Henri
+T1 On The Validation of Fuzzy Knowledge Bases
+
+RT Book, Whole
+ID 48837814
+A1 Dubois,Didier
+A1 Nguyen,Hung,T.
+A1 Prade,Henri
+A1 Sugeno,Michio
+T1 Introduction: The Real Contribution of Fuzzy Systems
+
+RT Book, Whole
+ID 48825877
+A1 Dubois,Didier
+A1 Moral,Serafin
+A1 Prade,Henri
+T1 Belief Change Rules In Ordinal and Numerical Uncertainty Theories
+
+RT Journal Article
+ID 11078748
+A1 Modave,F.
+A1 Grabisch,M.
+A1 Dubois,D.
+A1 Prade,H.
+T1 A Choquet Integral Representation in Multicriteria Decision Making
+
+RT Book, Whole
+ID 361911
+A1 Dubois,Didier
+A1 Lang,Jérôme
+A1 Prade,Henri
+T1 A possibilistic assumption-based truth maintenance system with uncertain justifications, and its application to belief revision
+
+RT Journal Article
+ID 4607117
+A1 Dubois,Didier
+A1 Fargier,Hélène
+A1 Prade,Henri
+T1 Decision-making under ordinal preferences and uncertainty
+
+RT Journal Article
+ID 3131851
+A1 Dubois,Didier
+A1 Prade,Henri
+T1 FUZZY ELEMENTS IN A FUZZY SET
+
+RT Journal Article
+ID 399668
+A1 DUBOIS,Didier
+A1 PRADE,Henri
+T1 A fuzzy set approach to case-based decision
+
+RT Book, Whole
+ID 48481254
+A1 Dubois,Didier
+A1 Grabisch,Michel
+A1 Prade,Henri
+T1 Assessing the value of a candidate
+
+RT Book, Whole
+ID 48836868
+A1 Dubois,Didier
+A1 Prade,Henri
+T1 Introduction: Revising, Updating and Combining Knowledge
+
+RT Book, Whole
+ID 48861222
+A1 Dubois,Didier
+A1 Prade,Henri
+T1 Toll Sets and Toll Logic
+
+RT Journal Article
+ID 4658296
+A1 Pires,João,Moura
+A1 Dubois,Didier
+A1 Prade,Henri
+T1 Fuzzy Constraint Problems with General Aggregation Operations under Possibilistic Logic Form
+
+RT Journal Article
+ID 49406364
+A1 Pichon,Frédéric
+A1 Dubois,Didier
+A1 Denœux,Thierry
+T1 Relevance and truthfulness in information correction and fusion
+JF International Journal of Approximate Reasoning
+
+RT Journal Article
+ID 4683382
+A1 Dubois,Didier
+A1 Kaci,Souhila
+A1 Prade,Henri
+T1 CP-nets and possibilistic logic: Two approaches to preference modeling Steps towards a comparison
+
+RT Journal Article
+ID 12253246
+A1 OHNISHI,Shin-ichi
+A1 DUBOIS,Didier
+A1 PRADE,Henri
+A1 YAMANOI,Takahiro
+T1 A Study on the Analytic Hierarchy Process Using a Fuzzy Reciprocal Matrix
+
+RT Book, Whole
+ID 48845699
+A1 Dubois,Didier
+A1 Prade,Henri
+T1 Fuzzy rules in knowledge-based systems
+
+RT Journal Article
+ID 402897
+A1 Dubois,Didier
+T1 Tuning the Cutting Conditions on a Machining Transfer Line Using Fuzzy Constraint Propagation
+
+RT Journal Article
+ID 13227335
+A1 Destercke,S.
+A1 Dubois,D.
+A1 Chojnacki,E.
+T1 Fusion d'opinions d'experts et thØories de l'incertain
+
+RT Book, Whole
+ID 48470403
+A1 Dubois,Didier
+A1 Prade,Henri
+T1 Qualitative Possibility Theory in Information Processing
+
+RT Journal Article
+ID 49193397
+A1 Dubois,Didier
+A1 Prade,Henri
+T1 Gradualness, uncertainty and bipolarity: Making sense of fuzzy sets
+JF Fuzzy Sets and Systems
+
+RT Journal Article
+ID 13546030
+A1 Dubois,Didier
+A1 Esteva,Francesc
+A1 Prade,Henri
+T1 FUZZY-SET BASED LOGICS — AN HISTORY-ORIENTED PRESENTATION OF THEIR MAIN DEVELOPMENTS
+
+RT Journal Article
+ID 11177260
+A1 Appriou,A.
+A1 Ayoun,A.
+A1 Benferhat,S.
+A1 Besnard,P.
+A1 Cholvy,L.
+A1 Cooke,R.
+A1 Cuppens,F.
+A1 Dubois,D.
+A1 Fargier,H.
+A1 Grabisch,M.
+A1 Kruse,R.
+A1 Lang,J.
+A1 Moral,S.
+A1 Prade,H.
+A1 Saffiotti,A.
+A1 Smets,P.
+A1 Sossai,C.
+T1 Fusion: General Concepts and
+
+RT Book, Whole
+ID 48393510
+A1 Loquin,Kevin
+A1 Dubois,Didier
+T1 Kriging and Epistemic Uncertainty: A Critical Discussion
+
+RT Journal Article
+ID 5688622
+A1 Dubois,Didier
+A1 Prade,Henri
+T1 Informations bipolaires! Une introduction
+
+RT Journal Article
+ID 10296630
+A1 Dubois,Didier
+A1 Esteva,Francesc
+A1 Godo,Lluis
+A1 Prade,Henri
+A1 CNRS,IRIT
+A1 CSIC,IIIA
+T1 Six scenarios leading to vagueness
+
+RT Book, Whole
+ID 48356726
+A1 Mouzon,O.,de
+A1 Guérandel,X.
+A1 Dubois,D.
+A1 Prade,H.
+A1 Boverie,S.
+T1 On-Line Possibilistic Diagnosis Based on Expert Knowledge for Engine Dyno Test Benches
+
+RT Journal Article
+ID 13005742
+A1 Dubois,D.
+A1 Grabisch,M.
+A1 Modave,F.
+A1 Prade,H.
+T1 multicriteria decision making models
+
+RT Journal Article
+ID 12888692
+A1 BENFERHAT,SALEM
+A1 DUBOIS,DIDIER
+A1 LANG,JÉRÔME
+A1 PRADE,HENRI
+T1 BASIC NOTIONS, APPLICATIONS AND IMPLEMENTATION ISSUES
+
+RT Journal Article
+ID 49193400
+A1 Dubois,Didier
+A1 Prade,Henri
+T1 Possibility theory and formal concept analysis: Characterizing independent sub-contexts
+JF Fuzzy Sets and Systems
+
+RT Journal Article
+ID 10491018
+A1 DUBOIS,Didier
+A1 FARGIER,Hélène
+A1 PRADE,Henri
+T1 problems: Handling priority, preference and uncertainty
+
+RT Journal Article
+ID 12888691
+A1 Dubois,Didier
+A1 Fargier,Hélène
+A1 Prade,Henri
+T1 Fuzzy constraints in job-shop
+
+RT Journal Article
+ID 12921452
+A1 DUBOIS,Didier
+A1 FARGIER,Hélène
+A1 PRADE,Henri
+T1 decision-making in fuzzy environment
+
+RT Journal Article
+ID 10684787
+A1 Dubois,Didier
+A1 Konieczny,Sébastien
+A1 Prade,Henri
+T1 Logique quasi-possibiliste et mesures de conflit - Quasi-possibilistic logic and measures of conflict
+
+RT Journal Article
+ID 10601237
+A1 Dubois,Didier
+A1 Prade,Henri
+A1 Sabatier,Paul
+T1 Invited Review Decision-theoretic foundations of qualitative possibility theory
+
+RT Journal Article
+ID 12226273
+A1 Guyonnet,Dominique
+A1 Dubois,Didier
+A1 Bourgine,Bernard
+A1 Chilès,Jean-Paul
+A1 Côme,Bernard
+T1 Prise en compte de l'incertitude dans la définition des objectifs de qualité des sols
+
+RT Journal Article
+ID 11298966
+A1 Baudrit,C.
+A1 Dubois,D.
+A1 Perrota,N.
+T1 Representing parametric probabilistic models tainted with imprecision
+
+RT Journal Article
+ID 11660130
+A1 Dubois,Didier
+A1 Fargier,Helene
+A1 Fortemps,Philippe
+T1 Invited Review Fuzzy scheduling: Modelling flexible constraints vs. coping with incomplete knowledge
+
+RT Journal Article
+ID 12713272
+A1 BENFERHAT,Salem
+A1 DUBOIS,Didier
+A1 PRADE,Henri
+T1 combination of uncertain information: A possibilistic approach1
+
+RT Journal Article
+ID 12876160
+A1 Benferhat,Salem
+A1 Dubois,Didier
+A1 Prade,Henri
+T1 Kalman-like filtering in a qualitative setting A preliminary draft
+
+RT Book, Whole
+ID 48408234
+A1 Djouadi,Yassine
+A1 Dubois,Didier
+A1 Prade,Henri
+T1 Graduality, Uncertainty and Typicality in Formal Concept Analysis
+
+RT Book, Whole
+ID 48689867
+A1 Dubois,Didier
+A1 HadjAli,Allel
+A1 Prade,Henri
+T1 Making Fuzzy Absolute and Fuzzy Relative Orders of Magnitude Consistent
+
+RT Journal Article
+ID 4822112
+A1 Dubois,Didier
+A1 Prade,Henri
+T1 Liens causaux et explications. Problèmes de modélisation!: une discussion préliminaire
+
+RT Journal Article
+ID 6786808
+A1 Baudrit,Cédric
+A1 Dubois,Didier
+A1 Fargier,Hélène
+T1 Représentation de la connaissance probabiliste incomplète Representation of incomplete probabilistic information
+
+RT Journal Article
+ID 10487956
+A1 Dubois,Didier
+A1 Prade,Henri
+T1 Theory as a Basis for Qualitative Decision Theory
+
+RT Book, Whole
+ID 47759836
+A1 Dubois,Didier
+A1 Prade,Henri
+T1 Accepted Beliefs, Revision and Bipolarity in the Possibilistic Framework
+
+RT Book, Whole
+ID 48447326
+A1 Dubois,Didier
+A1 Prade,Henri
+T1 Bipolarity in Possibilistic Logic and Fuzzy Rules (Extended Abstract)
+
+RT Book, Whole
+ID 48472661
+A1 Dubois,Didier
+A1 Fargier,Hélène
+A1 Sandri,Sandra
+T1 Fuzzy MCDM and the Sugeno Integral
+
+RT Book, Whole
+ID 48563879
+A1 Dubois,D.
+T1 Interêt de la theorie des reseaux de files d'attente pour l'évaluation des performances d'un atelier flexible
+
+RT Journal Article
+ID 7004798
+A1 Destercke,Sébastien
+A1 Dubois,Didier
+A1 Chojnacki,Eric
+T1 Computing with generalized p-boxes: preliminary results
+
+RT Journal Article
+ID 10817864
+A1 Destercke,S.
+A1 Dubois,D.
+A1 Chojnacki,E.
+T1 Une approximation possibiliste de la combinaison d'ensembles al´ eatoires consonants et independants Possibilistic approximation of independent consonant random set combination
+
+RT Book, Whole
+ID 48772214
+A1 Dubois,Didier
+A1 Fargier,Hélène
+T1 Qualitative Bipolar Decision Rules: Toward More Expressive Settings
+
+RT Book, Whole
+ID 48618159
+A1 Dubois,Didier
+A1 Denœux,Thierry
+T1 Statistical Inference with Belief Functions and Possibility Measures: A Discussion of Basic Assumptions
+
+RT Journal Article
+ID 12756776
+A1 Dubois,Didier
+A1 Hullermeier,Eyke
+T1 A Systematic Approach to the Assessment of Fuzzy Association Rules∗ Draft of a paper accepted for publication in the journal Data Mining and Knowledge Discovery
+
+RT Journal Article
+ID 10263359
+A1 Dubois,Didier
+A1 Chojnacki,Eric
+T1 MØthodes de traitement de l'information illustrØes par une application au programme OCDE BEMUSE
+
+RT Journal Article
+ID 10526142
+A1 Dubois,Didier
+A1 Chojnacki,Eric
+T1 ReprØsentation et synthse de l'information experte
+
+RT Journal Article
+ID 6488194
+A1 Dubois,Didier
+T1 UNCERTAINTY IN KNOWLEDGE REPRESENTATION AND REASONING : A PARTIAL BIBLIOGRAPHY
+
+RT Journal Article
+ID 6807525
+A1 Dubois,D.
+T1 Pertinence et Sincérité en Fusion d'Informations Relevance and Truthfulness in Information Fusion
+
+RT Journal Article
+ID 12873442
+A1 Dubois,Didier
+T1 6th Workshop on Uncertainty Processing WUPES'2003
+
+RT Journal Article
+ID 13030943
+A1 Dubois,Didier
+T1 Constraint Propagation
+
+RT Book, Whole
+ID 48472645
+A1 Dubois,Didier
+T1 Degrees of Truth, Ill-Known Sets and Contradiction
+
+RT Book, Whole
+ID 48802204
+A1 Dubois,Didier
+T1 Information Fusion and Revision in Qualitative and Quantitative Settings

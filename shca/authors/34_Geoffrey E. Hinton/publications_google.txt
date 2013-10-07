@@ -1,0 +1,3226 @@
+<file>
+<record>
+<title>Learning representations by back-propagating errors</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;citation_for_view=JicYPdAAAAAJ:GFxP56DSvIMC</link>
+<authors>DE Rumelhart, GE Hinton, RJ Williams</authors>
+<source>Nature 323 (6088), 533-536</source>
+<citations>25934</citations>
+<pub_year>1986</pub_year>
+</record>
+<record>
+<title>Learning internal representations by error propagation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;citation_for_view=JicYPdAAAAAJ:_OXeSy2IsFwC</link>
+<authors>DE Rumelhart, GE Hinton, RJ Williams</authors>
+<source>CALIFORNIA UNIV SAN DIEGO LA JOLLA INST FOR</source>
+<citations> 20825 </citations>
+<pub_year>1985</pub_year>
+</record>
+<record>
+<title>Learning internal representations by error propagation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;citation_for_view=JicYPdAAAAAJ:DkZNVXde3BIC</link>
+<authors>DE Rumelhart, GE Hinton, RJ Williams</authors>
+<source>Parallel distributed processing 1, 318-362</source>
+<citations> 19276 </citations>
+<pub_year>1986</pub_year>
+</record>
+<record>
+<title>Parallel distributed processing: Explorations in the microstructure of cognition</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;citation_for_view=JicYPdAAAAAJ:T_ojBgVMvoEC</link>
+<authors>DE Rumelhart, JL McClelland, GE Hinton</authors>
+<source>MIT press</source>
+<citations>2960</citations>
+<pub_year>1986</pub_year>
+</record>
+<record>
+<title>Adaptive mixtures of local experts</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;citation_for_view=JicYPdAAAAAJ:u5HHmVD_uO8C</link>
+<authors>RA Jacobs, MI Jordan, SJ Nowlan, GE Hinton</authors>
+<source>Neural computation 3 (1), 79-87</source>
+<citations>2714</citations>
+<pub_year>1991</pub_year>
+</record>
+<record>
+<title>A learning algorithm for Boltzmann machines</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;citation_for_view=JicYPdAAAAAJ:u-x6o8ySG0sC</link>
+<authors>DH Ackley, GE Hinton, TJ Sejnowski</authors>
+<source>Cognitive science 9 (1), 147-169</source>
+<citations>2169</citations>
+<pub_year>1985</pub_year>
+</record>
+<record>
+<title>A view of the EM algorithm that justifies incremental, sparse, and other variants</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;citation_for_view=JicYPdAAAAAJ:9yKSN-GCB0IC</link>
+<authors>RM Neal, GE Hinton</authors>
+<source>Learning in graphical models, 355-368</source>
+<citations>1680</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Phoneme recognition using time-delay neural networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;citation_for_view=JicYPdAAAAAJ:d1gkVwhDpl0C</link>
+<authors>A Waibel, T Hanazawa, G Hinton, K Shikano, KJ Lang</authors>
+<source>Acoustics, Speech and Signal Processing, IEEE Transactions on 37 (3), 328-339</source>
+<citations>1670</citations>
+<pub_year>1989</pub_year>
+</record>
+<record>
+<title>Connectionist learning procedures</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;citation_for_view=JicYPdAAAAAJ:2osOgNQ5qMEC</link>
+<authors>GE Hinton</authors>
+<source>Artificial intelligence 40 (1), 185-234</source>
+<citations>1311</citations>
+<pub_year>1989</pub_year>
+</record>
+<record>
+<title>Learning and relearning in Boltzmann machines</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;citation_for_view=JicYPdAAAAAJ:qjMakFHDy7sC</link>
+<authors>GE Hinton, TJ Sejnowski</authors>
+<source>Parallel distributed processing: Explorations in the microstructure of ...</source>
+<citations>1166</citations>
+<pub_year>1986</pub_year>
+</record>
+<record>
+<title>A fast learning algorithm for deep belief nets</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;citation_for_view=JicYPdAAAAAJ:YsMSGLbcyi4C</link>
+<authors>GE Hinton, S Osindero, YW Teh</authors>
+<source>Neural computation 18 (7), 1527-1554</source>
+<citations>1165</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Distributed representations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;citation_for_view=JicYPdAAAAAJ:UeHWp8X0CEIC</link>
+<authors>GE Hinton, JL McClelland, DE Rumelhart</authors>
+<source>Parallel distributed processing: Explorations in the microstructure of ...</source>
+<citations>1069</citations>
+<pub_year>1986</pub_year>
+</record>
+<record>
+<title>Reducing the dimensionality of data with neural networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;citation_for_view=JicYPdAAAAAJ:WF5omc3nYNoC</link>
+<authors>GE Hinton, RR Salakhutdinov</authors>
+<source>Science 313 (5786), 504-507</source>
+<citations>1033</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Training products of experts by minimizing contrastive divergence</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;citation_for_view=JicYPdAAAAAJ:W7OEmFMy1HYC</link>
+<authors>GE Hinton</authors>
+<source>Neural computation 14 (8), 1771-1800</source>
+<citations>970</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>How learning can guide evolution</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;citation_for_view=JicYPdAAAAAJ:IjCSPb-OGe4C</link>
+<authors>GE Hinton, SJ Nowlan</authors>
+<source>Complex systems 1 (3), 495-502</source>
+<citations>968</citations>
+<pub_year>1987</pub_year>
+</record>
+<record>
+<title>Schemata and sequential thought processes in PDP models.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;citation_for_view=JicYPdAAAAAJ:zYLM7Y9cAGgC</link>
+<authors>D Rumelhart, P Smolenksy, J McClelland, G Hinton</authors>
+<source>Parallel distributed processing: Explorations in the microstructure of ...</source>
+<citations>914</citations>
+<pub_year>1986</pub_year>
+</record>
+<record>
+<title>The appeal of parallel distributed processing.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;citation_for_view=JicYPdAAAAAJ:Tyk-4Ss8FVUC</link>
+<authors>JL McClelland, DE Rumelhart, GE Hinton</authors>
+<source>Parallel distributed processing: Explorations in the microstructure of ...</source>
+<citations>870</citations>
+<pub_year>1986</pub_year>
+</record>
+<record>
+<title>A general framework for parallel distributed processing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;citation_for_view=JicYPdAAAAAJ:kWvqk_afx_IC</link>
+<authors>DE Rumelhart, GE Hinton, JL McClelland</authors>
+<source>Parallel distributed processing 1 (2)</source>
+<citations>846</citations>
+<pub_year>1986</pub_year>
+</record>
+<record>
+<title>Parallel models of associative memory</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;citation_for_view=JicYPdAAAAAJ:D03iK_w7-QYC</link>
+<authors>GE Hinton, JA Anderson</authors>
+<source>Lawrence Erlbaum Associates</source>
+<citations>815</citations>
+<pub_year>1981</pub_year>
+</record>
+<record>
+<title>Lesioning an attractor network: investigations of acquired dyslexia.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;citation_for_view=JicYPdAAAAAJ:eQOLeE2rZwMC</link>
+<authors>GE Hinton, T Shallice</authors>
+<source>Psychological review 98 (1), 74</source>
+<citations>613</citations>
+<pub_year>1991</pub_year>
+</record>
+<record>
+<title>Neighbourhood components analysis</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=20&amp;citation_for_view=JicYPdAAAAAJ:ZzlSgRqYykMC</link>
+<authors>J Goldberger, S Roweis, G Hinton, R Salakhutdinov</authors>
+<source></source>
+<citations>606</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>The EM algorithm for mixtures of factor analyzers</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=20&amp;citation_for_view=JicYPdAAAAAJ:LkGwnXOMwfcC</link>
+<authors>Z Ghahramani, GE Hinton</authors>
+<source>Technical Report CRG-TR-96-1, University of Toronto</source>
+<citations>517</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>The" wake-sleep" algorithm for unsupervised neural networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=20&amp;citation_for_view=JicYPdAAAAAJ:ufrVoPGSRksC</link>
+<authors>GE Hinton, P Dayan, BJ Frey, RM Neal</authors>
+<source>SCIENCE-NEW YORK THEN WASHINGTON-, 1158-1158</source>
+<citations>499</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Learning distributed representations of concepts</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=20&amp;citation_for_view=JicYPdAAAAAJ:_FxGoFyzp5QC</link>
+<authors>GE Hinton</authors>
+<source>Proceedings of the eighth annual conference of the cognitive science society ...</source>
+<citations>488</citations>
+<pub_year>1986</pub_year>
+</record>
+<record>
+<title>The helmholtz machine</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=20&amp;citation_for_view=JicYPdAAAAAJ:roLk4NBRz8UC</link>
+<authors>P Dayan, GE Hinton, RM Neal, RS Zemel</authors>
+<source>Neural computation 7 (5), 889-904</source>
+<citations>462</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Boltzmann machines: Constraint satisfaction networks that learn</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=20&amp;citation_for_view=JicYPdAAAAAJ:Se3iqnhoufwC</link>
+<authors>GE Hinton, TJ Sejnowski, DH Ackley</authors>
+<source>Carnegie-Mellon University, Department of Computer Science</source>
+<citations>445</citations>
+<pub_year>1984</pub_year>
+</record>
+<record>
+<title>A time-delay neural network architecture for isolated word recognition</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=20&amp;citation_for_view=JicYPdAAAAAJ:UebtZRa9Y70C</link>
+<authors>KJ Lang, AH Waibel, GE Hinton</authors>
+<source>Neural networks 3 (1), 23-43</source>
+<citations>428</citations>
+<pub_year>1990</pub_year>
+</record>
+<record>
+<title>How neural networks learn from experience</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=20&amp;citation_for_view=JicYPdAAAAAJ:hqOjcs7Dif8C</link>
+<authors>GE Hinton</authors>
+<source>Scientific American 267 (3), 145-151</source>
+<citations>399</citations>
+<pub_year>1992</pub_year>
+</record>
+<record>
+<title>Classical and Bayesian inference in neuroimaging: theory</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=20&amp;citation_for_view=JicYPdAAAAAJ:u-coK7KVo8oC</link>
+<authors>KJ Friston, W Penny, C Phillips, S Kiebel, G Hinton, J Ashburner</authors>
+<source>NeuroImage 16 (2), 465-483</source>
+<citations>391</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Optimal perceptual inference</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=20&amp;citation_for_view=JicYPdAAAAAJ:0EnyYjriUFMC</link>
+<authors>GE Hinton, TJ Sejnowski</authors>
+<source>Proceedings of the IEEE conference on Computer Vision and Pattern ...</source>
+<citations>364</citations>
+<pub_year>1983</pub_year>
+</record>
+<record>
+<title>Visualizing data using t-SNE</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=20&amp;citation_for_view=JicYPdAAAAAJ:ZeXyd9-uunAC</link>
+<authors>L van der Maaten, G Hinton</authors>
+<source>Journal of Machine Learning Research 9 (Nov), 2579-2605</source>
+<citations>355</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Simplifying neural networks by soft weight-sharing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=20&amp;citation_for_view=JicYPdAAAAAJ:5nxA0vEk-isC</link>
+<authors>SJ Nowlan, GE Hinton</authors>
+<source>Neural computation 4 (4), 473-493</source>
+<citations>336</citations>
+<pub_year>1992</pub_year>
+</record>
+<record>
+<title>Modeling the manifolds of images of handwritten digits</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=20&amp;citation_for_view=JicYPdAAAAAJ:8k81kl-MbHgC</link>
+<authors>GE Hinton, P Dayan, M Revow</authors>
+<source>Neural Networks, IEEE Transactions on 8 (1), 65-74</source>
+<citations>329</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Stochastic neighbor embedding</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=20&amp;citation_for_view=JicYPdAAAAAJ:M3ejUd6NZC8C</link>
+<authors>GE Hinton, ST Roweis</authors>
+<source>Advances in neural information processing systems, 833-840</source>
+<citations>325</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>A distributed connectionist production system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=20&amp;citation_for_view=JicYPdAAAAAJ:MXK_kJrjxJIC</link>
+<authors>DS Touretzky, GE Hinton</authors>
+<source>Cognitive Science 12 (3), 423-466</source>
+<citations>318</citations>
+<pub_year>1988</pub_year>
+</record>
+<record>
+<title>Experiments on learning by back propagation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=20&amp;citation_for_view=JicYPdAAAAAJ:ULOm3_A8WrAC</link>
+<authors>DC Plaut, SJ Nowlan, GE Hinton</authors>
+<source>Carnegie-Mellon University, Department of Computer Science</source>
+<citations>306</citations>
+<pub_year>1986</pub_year>
+</record>
+<record>
+<title>SMEM algorithm for mixture models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=20&amp;citation_for_view=JicYPdAAAAAJ:aqlVkmm33-oC</link>
+<authors>N Ueda, R Nakano, Z Ghahramani, GE Hinton</authors>
+<source>Neural computation 12 (9), 2109-2128</source>
+<citations>300</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Parallel visual computation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=20&amp;citation_for_view=JicYPdAAAAAJ:kNdYIx-mwKoC</link>
+<authors>DH Ballard, GE Hinton, TJ Sejnowski</authors>
+<source>Nature 306 (5938), 21-26</source>
+<citations>293</citations>
+<pub_year>1983</pub_year>
+</record>
+<record>
+<title>Parameter estimation for linear dynamical systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=20&amp;citation_for_view=JicYPdAAAAAJ:KaMxkj08jr0C</link>
+<authors>Z Ghahramani, GE Hinton</authors>
+<source>Technical Report CRG-TR-96-2, University of Totronto, Dept. of Computer Science</source>
+<citations>292</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Feudal reinforcement learning</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=20&amp;citation_for_view=JicYPdAAAAAJ:KlAtU1dfN6UC</link>
+<authors>P Dayan, GE Hinton</authors>
+<source>Advances in neural information processing systems, 271-271</source>
+<citations>292</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Restricted Boltzmann machines for collaborative filtering</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=40&amp;citation_for_view=JicYPdAAAAAJ:mVmsd5A6BfQC</link>
+<authors>R Salakhutdinov, A Mnih, G Hinton</authors>
+<source>Proceedings of the 24th international conference on Machine learning, 791-798</source>
+<citations>285</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Self-organizing neural network that discovers surfaces in random-dot stereograms</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=40&amp;citation_for_view=JicYPdAAAAAJ:Zph67rFs4hoC</link>
+<authors>S Becker, GE Hinton</authors>
+<source>Nature 355 (6356), 161-163</source>
+<citations>284</citations>
+<pub_year>1992</pub_year>
+</record>
+<record>
+<title>Implementing semantic networks in parallel hardware</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=40&amp;citation_for_view=JicYPdAAAAAJ:_kc_bZDykSQC</link>
+<authors>GE Hinton</authors>
+<source>Parallel models of associative memory, 161-187</source>
+<citations>281</citations>
+<pub_year>1981</pub_year>
+</record>
+<record>
+<title>Glove-talk: A neural network interface between a data-glove and a speech synthesizer</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=40&amp;citation_for_view=JicYPdAAAAAJ:YOwf2qJgpHMC</link>
+<authors>SS Fels, GE Hinton</authors>
+<source>Neural Networks, IEEE Transactions on 4 (1), 2-8</source>
+<citations>278</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Variational learning for switching state-space models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=40&amp;citation_for_view=JicYPdAAAAAJ:3fE2CSJIrl8C</link>
+<authors>Z Ghahramani, GE Hinton</authors>
+<source>Neural computation 12 (4), 831-864</source>
+<citations>275</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Keeping the neural networks simple by minimizing the description length of the weights</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=40&amp;citation_for_view=JicYPdAAAAAJ:qxL8FJ1GzNcC</link>
+<authors>GE Hinton, D Van Camp</authors>
+<source>Proceedings of the sixth annual conference on Computational learning theory ...</source>
+<citations>274</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Products of experts</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=40&amp;citation_for_view=JicYPdAAAAAJ:Wp0gIr-vW9MC</link>
+<authors>GE Hinton</authors>
+<source>Artificial Neural Networks, 1999. ICANN 99. Ninth International Conference ...</source>
+<citations>241</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Mapping part-whole hierarchies into connectionist networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=40&amp;citation_for_view=JicYPdAAAAAJ:4DMP91E08xMC</link>
+<authors>GE Hinton</authors>
+<source>Artificial Intelligence 46 (1), 47-75</source>
+<citations>231</citations>
+<pub_year>1990</pub_year>
+</record>
+<record>
+<title>Neuroanimator: Fast neural network emulation and control of physics-based models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=40&amp;citation_for_view=JicYPdAAAAAJ:q-HalDI95KYC</link>
+<authors>R Grzeszczuk, D Terzopoulos, G Hinton</authors>
+<source>Proceedings of the 25th annual conference on Computer graphics and ...</source>
+<citations>220</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Generative models for discovering sparse distributed representations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=40&amp;citation_for_view=JicYPdAAAAAJ:9ZlFYXVOiuMC</link>
+<authors>GE Hinton, Z Ghahramani</authors>
+<source>Philosophical Transactions of the Royal Society of London. Series B ...</source>
+<citations>205</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Exponential family harmoniums with an application to information retrieval</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=40&amp;citation_for_view=JicYPdAAAAAJ:mB3voiENLucC</link>
+<authors>M Welling, M Rosen-Zvi, GE Hinton</authors>
+<source>Advances in neural information processing systems, 1481-1488</source>
+<citations>198</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>An alternative model for mixtures of experts</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=40&amp;citation_for_view=JicYPdAAAAAJ:QIV2ME_5wuYC</link>
+<authors>L Xu, MI Jordan, GE Hinton</authors>
+<source>Advances in neural information processing systems, 633-640</source>
+<citations>192</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Autoencoders, minimum description length, and Helmholtz free energy</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=40&amp;citation_for_view=JicYPdAAAAAJ:IWHjjKOFINEC</link>
+<authors>GE Hinton, RS Zemel</authors>
+<source>Advances in neural information processing systems, 3-3</source>
+<citations>191</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Modeling human motion using binary latent variables</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=40&amp;citation_for_view=JicYPdAAAAAJ:R3hNpaxXUhUC</link>
+<authors>GW Taylor, GE Hinton, ST Roweis</authors>
+<source>Advances in neural information processing systems, 1345-1352</source>
+<citations>188</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Models of information processing in the brain</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=40&amp;citation_for_view=JicYPdAAAAAJ:7PzlFSSx8tAC</link>
+<authors>JA Anderson, GE Hinton</authors>
+<source>Parallel models of associative memory, 9-48</source>
+<citations>186</citations>
+<pub_year>1981</pub_year>
+</record>
+<record>
+<title>Symbols among the neurons: Details of a connectionist inference architecture</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=40&amp;citation_for_view=JicYPdAAAAAJ:L8Ckcad2t8MC</link>
+<authors>DS Touretzky, GE Hinton</authors>
+<source>IJCAI 85, 238-243</source>
+<citations>182</citations>
+<pub_year>1985</pub_year>
+</record>
+<record>
+<title>MASSIVELY PARALLEL ARCHITECTURES FOR Al: NETL, THISTLE, AND BOLTZMANN MACHINES</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=40&amp;citation_for_view=JicYPdAAAAAJ:dhFuZR0502QC</link>
+<authors>SE Fahlman, GE Hinton, TJ Sejnowski</authors>
+<source></source>
+<citations>181</citations>
+<pub_year>1983</pub_year>
+</record>
+<record>
+<title>Global coordination of local linear models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=40&amp;citation_for_view=JicYPdAAAAAJ:hFOr9nPyWt4C</link>
+<authors>ST Roweis, LK Saul, GE Hinton</authors>
+<source>Advances in neural information processing systems 2, 889-896</source>
+<citations>167</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Learning multiple layers of features from tiny images</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=40&amp;citation_for_view=JicYPdAAAAAJ:fPk4N6BV_jEC</link>
+<authors>A Krizhevsky, G Hinton</authors>
+<source>Master's thesis, Department of Computer Science, University of Toronto</source>
+<citations>162</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Deep Boltzmann machines</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=40&amp;citation_for_view=JicYPdAAAAAJ:35N4QoGY0k4C</link>
+<authors>R Salakhutdinov, G Hinton</authors>
+<source>Artificial Intelligence and Statistics</source>
+<citations>162</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Deterministic Boltzmann learning performs steepest descent in weight-space</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=60&amp;citation_for_view=JicYPdAAAAAJ:hC7cP41nSMkC</link>
+<authors>GE Hinton</authors>
+<source>Neural computation 1 (1), 143-150</source>
+<citations>159</citations>
+<pub_year>1989</pub_year>
+</record>
+<record>
+<title>Learning translation invariant recognition in a massively parallel networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=60&amp;citation_for_view=JicYPdAAAAAJ:-f6ydRqryjwC</link>
+<authors>GE Hinton</authors>
+<source>PARLE Parallel Architectures and Languages Europe, 1-13</source>
+<citations>157</citations>
+<pub_year>1987</pub_year>
+</record>
+<record>
+<title>On contrastive divergence learning</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=60&amp;citation_for_view=JicYPdAAAAAJ:j3f4tGmQtD8C</link>
+<authors>MA Carreira-Perpinan, GE Hinton</authors>
+<source>Artificial Intelligence and Statistics 2005, 17</source>
+<citations>156</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Connectionist architectures for artificial intelligence</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=60&amp;citation_for_view=JicYPdAAAAAJ:HDshCWvjkbEC</link>
+<authors>SE Fahlman, GE Hinton</authors>
+<source>IEEE Computer 20, 100-109</source>
+<citations>156</citations>
+<pub_year>1987</pub_year>
+</record>
+<record>
+<title>Unsupervised learning: foundations of neural computation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=60&amp;citation_for_view=JicYPdAAAAAJ:4xDN1ZYqzskC</link>
+<authors>GE Hinton, TJ Sejnowski</authors>
+<source>The MIT Press</source>
+<citations>154</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>A parallel computation that assigns canonical object-based frames of reference</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=60&amp;citation_for_view=JicYPdAAAAAJ:fbc8zXXH2BUC</link>
+<authors>GE Hinton</authors>
+<source>Proceedings of the 7th international joint conference on Artificial ...</source>
+<citations>151</citations>
+<pub_year>1981</pub_year>
+</record>
+<record>
+<title>Semantic hashing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=60&amp;citation_for_view=JicYPdAAAAAJ:rO6llkc54NcC</link>
+<authors>R Salakhutdinov, G Hinton</authors>
+<source>International Journal of Approximate Reasoning 50 (7), 969-978</source>
+<citations>147</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>A practical guide to training restricted boltzmann machines</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=60&amp;citation_for_view=JicYPdAAAAAJ:_xSYboBqXhAC</link>
+<authors>G Hinton</authors>
+<source>Momentum, 1</source>
+<citations>143</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Learning a nonlinear embedding by preserving class neighbourhood structure</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=60&amp;citation_for_view=JicYPdAAAAAJ:k_IJM867U9cC</link>
+<authors>R Salakhutdinov, GE Hinton</authors>
+<source>International Conference on Artificial Intelligence and Statistics, 412-419</source>
+<citations>137</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Some demonstrations of the effects of structural descriptions in mental imagery</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=60&amp;citation_for_view=JicYPdAAAAAJ:e5wmG9Sq2KIC</link>
+<authors>G Hinton</authors>
+<source>Cognitive Science 3 (3), 231-250</source>
+<citations>131</citations>
+<pub_year>1979</pub_year>
+</record>
+<record>
+<title>Acoustic modeling using deep belief networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=60&amp;citation_for_view=JicYPdAAAAAJ:_Ybze24A_UAC</link>
+<authors>A Mohamed, G Dahl, G Hinton</authors>
+<source>Audio, Speech, and Language Processing, IEEE Transactions on 20, 14-22</source>
+<citations>130</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Using generative models for handwritten digit recognition</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=60&amp;citation_for_view=JicYPdAAAAAJ:TQgYirikUcIC</link>
+<authors>M Revow, CKI Williams, GE Hinton</authors>
+<source>Pattern Analysis and Machine Intelligence, IEEE Transactions on 18 (6), 592-606</source>
+<citations>130</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Phoneme recognition: neural networks vs. hidden Markov models vs. hidden Markov models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=60&amp;citation_for_view=JicYPdAAAAAJ:_Qo2XoVZTnwC</link>
+<authors>A Waibel, T Hanazawa, G Hinton, K Shikano, K Lang</authors>
+<source>Acoustics, Speech, and Signal Processing, 1988. ICASSP-88., 1988 ...</source>
+<citations>130</citations>
+<pub_year>1988</pub_year>
+</record>
+<record>
+<title>Deep belief networks using discriminative features for phone recognition</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=60&amp;citation_for_view=JicYPdAAAAAJ:NhqRSupF_l8C</link>
+<authors>AR Mohamed, TN Sainath, G Dahl, B Ramabhadran, GE Hinton, MA Picheny</authors>
+<source>Acoustics, Speech and Signal Processing (ICASSP), 2011 IEEE International ...</source>
+<citations>119</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Shape representation in parallel systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=60&amp;citation_for_view=JicYPdAAAAAJ:5MTHONV0fEkC</link>
+<authors>GE Hinton</authors>
+<source>Proceedings of the 7th international joint conference on Artificial ...</source>
+<citations>115</citations>
+<pub_year>1981</pub_year>
+</record>
+<record>
+<title>Learning multiple layers of representation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=60&amp;citation_for_view=JicYPdAAAAAJ:2P1L_qKh6hAC</link>
+<authors>GE Hinton</authors>
+<source>Trends in cognitive sciences 11 (10), 428-434</source>
+<citations>113</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Adaptive elastic models for hand-printed character recognition</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=60&amp;citation_for_view=JicYPdAAAAAJ:RHpTSmoSYBkC</link>
+<authors>GE Hinton, CKI Williams, MD Revow</authors>
+<source>NIPS 4, 512-519</source>
+<citations>112</citations>
+<pub_year>1991</pub_year>
+</record>
+<record>
+<title>Glove-TalkII-a neural-network interface which maps gestures to parallel formant speech synthesizer controls</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=60&amp;citation_for_view=JicYPdAAAAAJ:iH-uZ7U-co4C</link>
+<authors>SS Fels, GE Hinton</authors>
+<source>Neural Networks, IEEE Transactions on 9 (1), 205-212</source>
+<citations>111</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Recognizing handwritten digits using mixtures of linear models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=60&amp;citation_for_view=JicYPdAAAAAJ:4JMBOYKVnBMC</link>
+<authors>GE Hinton, M Revow, P Dayan</authors>
+<source>Advances in neural information processing systems, 1015-1022</source>
+<citations>109</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Learning representations by recirculation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=60&amp;citation_for_view=JicYPdAAAAAJ:r0BpntZqJG4C</link>
+<authors>GE Hinton, JL McClelland</authors>
+<source>Neural information processing systems, 358-366</source>
+<citations>108</citations>
+<pub_year>1988</pub_year>
+</record>
+<record>
+<title>Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=80&amp;citation_for_view=JicYPdAAAAAJ:1yWc8FF-_SYC</link>
+<authors>G Hinton, L Deng, D Yu, GE Dahl, A Mohamed, N Jaitly, A Senior, V Vanhoucke ...</authors>
+<source>Signal Processing Magazine, IEEE 29 (6), 82-97</source>
+<citations>105</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Separating figure from ground with a parallel network</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=80&amp;citation_for_view=JicYPdAAAAAJ:blknAaTinKkC</link>
+<authors>PK Kienker, TJ Sejnowski, GE Hinton, LE Schumacher</authors>
+<source>Perception 15 (2), 197-216</source>
+<citations>104</citations>
+<pub_year>1986</pub_year>
+</record>
+<record>
+<title>Frames of reference and mental imagery</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=80&amp;citation_for_view=JicYPdAAAAAJ:bEWYMUwI8FkC</link>
+<authors>GE Hinton, LM Parsons</authors>
+<source>Attention and performance IX, 261-277</source>
+<citations>103</citations>
+<pub_year>1981</pub_year>
+</record>
+<record>
+<title>Semantic hashing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=80&amp;citation_for_view=JicYPdAAAAAJ:GnPB-g6toBAC</link>
+<authors>R Salakhutdinov, G Hinton</authors>
+<source>SIGIR Workshop on Information Retrieval and Applications of Graphical Models ...</source>
+<citations>101</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Evaluation of Adaptive Mixtures of Competing Experts.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=80&amp;citation_for_view=JicYPdAAAAAJ:M3NEmzRMIkIC</link>
+<authors>SJ Nowlan, GE Hinton</authors>
+<source>NIPS 3, 774-780</source>
+<citations>99</citations>
+<pub_year>1990</pub_year>
+</record>
+<record>
+<title>Learning symmetry groups with hidden units: Beyond the perceptron</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=80&amp;citation_for_view=JicYPdAAAAAJ:JV2RwH3_ST0C</link>
+<authors>TJ Sejnowski, PK Kienker, GE Hinton</authors>
+<source>Physica D: Nonlinear Phenomena 22 (1), 260-270</source>
+<citations>97</citations>
+<pub_year>1986</pub_year>
+</record>
+<record>
+<title>Using fast weights to deblur old memories</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=80&amp;citation_for_view=JicYPdAAAAAJ:TFP_iSt0sucC</link>
+<authors>GE Hinton, DC Plaut</authors>
+<source>Proceedings of the Ninth Annual Conference of the Cognitive Science Society ...</source>
+<citations>96</citations>
+<pub_year>1987</pub_year>
+</record>
+<record>
+<title>Parallel computations for controlling an arm</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=80&amp;citation_for_view=JicYPdAAAAAJ:YFjsv_pBGBYC</link>
+<authors>G Hinton</authors>
+<source>Journal of motor behavior 16 (2), 171-194</source>
+<citations>96</citations>
+<pub_year>1984</pub_year>
+</record>
+<record>
+<title>Learning sparse topographic representations with products of student-t distributions</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=80&amp;citation_for_view=JicYPdAAAAAJ:hMod-77fHWUC</link>
+<authors>M Welling, S Osindero, GE Hinton</authors>
+<source>Advances in neural information processing systems, 1359-1366</source>
+<citations>94</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Using expectation-maximization for reinforcement learning</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=80&amp;citation_for_view=JicYPdAAAAAJ:ldfaerwXgEUC</link>
+<authors>P Dayan, GE Hinton</authors>
+<source>Neural Computation 9 (2), 271-278</source>
+<citations>93</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Learning sets of filters using back-propagation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=80&amp;citation_for_view=JicYPdAAAAAJ:maZDTaKrznsC</link>
+<authors>DC Plaut, GE Hinton</authors>
+<source>Computer Speech &amp; Language 2 (1), 35-61</source>
+<citations>92</citations>
+<pub_year>1987</pub_year>
+</record>
+<record>
+<title>Energy-based models for sparse overcomplete representations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=80&amp;citation_for_view=JicYPdAAAAAJ:BqipwSGYUEgC</link>
+<authors>YW Teh, M Welling, S Osindero, GE Hinton</authors>
+<source>The Journal of Machine Learning Research 4, 1235-1260</source>
+<citations>91</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Imagenet classification with deep convolutional neural networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=80&amp;citation_for_view=JicYPdAAAAAJ:VN7nJs4JPk0C</link>
+<authors>A Krizhevsky, I Sutskever, G Hinton</authors>
+<source>Advances in Neural Information Processing Systems 25, 1106-1114</source>
+<citations>87</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>To recognize shapes, first learn to generate images</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=80&amp;citation_for_view=JicYPdAAAAAJ:lSLTfruPkqcC</link>
+<authors>GE Hinton</authors>
+<source>Computational Neuroscience: Theoretical Insights into Brain Function, 535-547</source>
+<citations>86</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Topographic product models applied to natural scene statistics</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=80&amp;citation_for_view=JicYPdAAAAAJ:vV6vV6tmYwMC</link>
+<authors>S Osindero, M Welling, GE Hinton</authors>
+<source>Neural Computation 18 (2), 381-414</source>
+<citations>85</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Scene-based and viewer-centered representations for comparing shapes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=80&amp;citation_for_view=JicYPdAAAAAJ:NMxIlDl6LWMC</link>
+<authors>GE Hinton, LM Parsons</authors>
+<source>Cognition 30 (1), 1-35</source>
+<citations>85</citations>
+<pub_year>1988</pub_year>
+</record>
+<record>
+<title>Modeling pixel means and covariances using factorized third-order Boltzmann machines</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=80&amp;citation_for_view=JicYPdAAAAAJ:pyW8ca7W8N0C</link>
+<authors>MA Ranzato, GE Hinton</authors>
+<source>Computer Vision and Pattern Recognition (CVPR), 2010 IEEE Conference on ...</source>
+<citations>84</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Connectionist symbol processing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=80&amp;citation_for_view=JicYPdAAAAAJ:zA6iFVUQeVQC</link>
+<authors>GE Hinton</authors>
+<source></source>
+<citations>84</citations>
+<pub_year>1990</pub_year>
+</record>
+<record>
+<title>Rectified linear units improve restricted boltzmann machines</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=80&amp;citation_for_view=JicYPdAAAAAJ:D_sINldO8mEC</link>
+<authors>V Nair, GE Hinton</authors>
+<source>Proceedings of the 27th International Conference on Machine Learning (ICML ...</source>
+<citations>83</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Learning representations by back-propagation errors</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=80&amp;citation_for_view=JicYPdAAAAAJ:c1e4I3QdEKYC</link>
+<authors>DE Rumerhart, GE Hinton, RJ Williams</authors>
+<source>Nature (London) 323, 533</source>
+<citations>83</citations>
+<pub_year>1986</pub_year>
+</record>
+<record>
+<title>Relaxation and its role in vision</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=100&amp;citation_for_view=JicYPdAAAAAJ:nVrZBo8bIpAC</link>
+<authors>GE Hinton</authors>
+<source>University of Edinburgh</source>
+<citations>83</citations>
+<pub_year>1978</pub_year>
+</record>
+<record>
+<title>A scalable hierarchical distributed language model</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=100&amp;citation_for_view=JicYPdAAAAAJ:dshw04ExmUIC</link>
+<authors>A Mnih, GE Hinton</authors>
+<source>Advances in neural information processing systems, 1081-1088</source>
+<citations>80</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Separating figure from ground with a Boltzmann machine</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=100&amp;citation_for_view=JicYPdAAAAAJ:O3NaXMp0MMsC</link>
+<authors>T Sejnowski, GE Hinton</authors>
+<source></source>
+<citations>80</citations>
+<pub_year>1987</pub_year>
+</record>
+<record>
+<title>Representing part-whole hierarchies in connectionist networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=100&amp;citation_for_view=JicYPdAAAAAJ:lvd772isFD0C</link>
+<authors>GE Hinton</authors>
+<source>Proceedings of the Tenth Annual Conference of the Cognitive Science Society ...</source>
+<citations>78</citations>
+<pub_year>1988</pub_year>
+</record>
+<record>
+<title>Improving neural networks by preventing co-adaptation of feature detectors</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=100&amp;citation_for_view=JicYPdAAAAAJ:Br1UauaknNIC</link>
+<authors>GE Hinton, N Srivastava, A Krizhevsky, I Sutskever, RR Salakhutdinov</authors>
+<source>arXiv preprint arXiv:1207.0580</source>
+<citations>74</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Switching state-space models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=100&amp;citation_for_view=JicYPdAAAAAJ:f2IySw72cVMC</link>
+<authors>Z Ghahramani, GE Hinton</authors>
+<source>Technical Report CRG-TR-96-3 DRAFT, Dept. of Computer Science, University of ...</source>
+<citations>73</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>A new learning algorithm for mean field Boltzmann machines</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=100&amp;citation_for_view=JicYPdAAAAAJ:g5m5HwL7SMYC</link>
+<authors>M Welling, GE Hinton</authors>
+<source>Artificial Neural NetworksICANN 2002, 351-357</source>
+<citations>71</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Varieties of Helmholtz machine</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=100&amp;citation_for_view=JicYPdAAAAAJ:70eg2SAEIzsC</link>
+<authors>P Dayan, GE Hinton</authors>
+<source>Neural Networks 9 (8), 1385-1403</source>
+<citations>71</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Preface to the special issue on connectionist symbol processing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=100&amp;citation_for_view=JicYPdAAAAAJ:isC4tDSrTZIC</link>
+<authors>GE Hinton</authors>
+<source>Artificial Intelligence 46 (1), 1-4</source>
+<citations>71</citations>
+<pub_year>1990</pub_year>
+</record>
+<record>
+<title>A mobile robot that learns its place</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=100&amp;citation_for_view=JicYPdAAAAAJ:ns9cj8rnVeAC</link>
+<authors>S Oore, GE Hinton, G Dudek</authors>
+<source>Neural Computation 9 (3), 683-699</source>
+<citations>70</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Simulating brain damage</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=100&amp;citation_for_view=JicYPdAAAAAJ:NaGl4SEjCO4C</link>
+<authors>GE Hinton, DC Plaut, T Shallice</authors>
+<source>Scientific American 268 (4), 76-82</source>
+<citations>70</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>3D object recognition with deep belief nets</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=100&amp;citation_for_view=JicYPdAAAAAJ:abG-DnoFyZgC</link>
+<authors>V Nair, GE Hinton</authors>
+<source>Advances in Neural Information Processing Systems, 1339-1347</source>
+<citations>69</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Phone recognition with the mean-covariance restricted Boltzmann machine</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=100&amp;citation_for_view=JicYPdAAAAAJ:LPZeul_q3PIC</link>
+<authors>G Dahl, A Mohamed, GE Hinton</authors>
+<source>Advances in neural information processing systems, 469-477</source>
+<citations>68</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Analyzing cooperative computation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=100&amp;citation_for_view=JicYPdAAAAAJ:M05iB0D1s5AC</link>
+<authors>GE Hinton, TJ Sejnowski</authors>
+<source>Proceedings of the Fifth Annual Conference of the Cognitive Science Society ...</source>
+<citations>66</citations>
+<pub_year>1983</pub_year>
+</record>
+<record>
+<title>Using fast weights to improve persistent contrastive divergence</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=100&amp;citation_for_view=JicYPdAAAAAJ:CHSYGLWDkRkC</link>
+<authors>T Tieleman, G Hinton</authors>
+<source>Proceedings of the 26th Annual International Conference on Machine Learning ...</source>
+<citations>65</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Learning population codes by minimizing description length</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=100&amp;citation_for_view=JicYPdAAAAAJ:J_g5lzvAfSwC</link>
+<authors>RS Zemel, GE Hinton</authors>
+<source>Neural computation 7 (3), 549-564</source>
+<citations>65</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Learning to represent spatial transformations with factored higher-order boltzmann machines</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=100&amp;citation_for_view=JicYPdAAAAAJ:uWQEDVKXjbEC</link>
+<authors>R Memisevic, GE Hinton</authors>
+<source>Neural Computation 22 (6), 1473-1492</source>
+<citations>64</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Zero-shot learning with semantic output codes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=100&amp;citation_for_view=JicYPdAAAAAJ:u9iWguZQMMsC</link>
+<authors>M Palatucci, D Pomerleau, GE Hinton, TM Mitchell</authors>
+<source>Advances in neural information processing systems, 1410-1418</source>
+<citations>64</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Glove-TalkII: an adaptive gesture-to-formant interface</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=100&amp;citation_for_view=JicYPdAAAAAJ:RYcK_YlVTxYC</link>
+<authors>S Fels, G Hinton</authors>
+<source>Proceedings of the SIGCHI conference on Human factors in computing systems ...</source>
+<citations>62</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Factored conditional restricted Boltzmann machines for modeling motion style</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=100&amp;citation_for_view=JicYPdAAAAAJ:nb7KW1ujOQ8C</link>
+<authors>GW Taylor, GE Hinton</authors>
+<source>Proceedings of the 26th annual international conference on machine learning ...</source>
+<citations>60</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Three new graphical models for statistical language modelling</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=120&amp;citation_for_view=JicYPdAAAAAJ:K3LRdlH-MEoC</link>
+<authors>A Mnih, G Hinton</authors>
+<source>Proceedings of the 24th international conference on Machine learning, 641-648</source>
+<citations>58</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Recognizing handwritten digits using hierarchical products of experts</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=120&amp;citation_for_view=JicYPdAAAAAJ:HoB7MX3m0LUC</link>
+<authors>G Mayraz, GE Hinton</authors>
+<source>Pattern Analysis and Machine Intelligence, IEEE Transactions on 24 (2), 189-197</source>
+<citations>58</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Building adaptive interfaces with neural networks: The glove-talk pilot study</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=120&amp;citation_for_view=JicYPdAAAAAJ:SeFeTyx0c_EC</link>
+<authors>S Fels, GE Hinton</authors>
+<source>Proceedings of the IFIP TC13 Third Interational Conference on Human-Computer ...</source>
+<citations>58</citations>
+<pub_year>1990</pub_year>
+</record>
+<record>
+<title>Modeling image patches with a directed hierarchy of Markov random fields</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=120&amp;citation_for_view=JicYPdAAAAAJ:dfsIfKJdRG4C</link>
+<authors>S Osindero, GE Hinton</authors>
+<source>Advances in neural information processing systems, 1121-1128</source>
+<citations>57</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Rate-coded restricted Boltzmann machines for face recognition</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=120&amp;citation_for_view=JicYPdAAAAAJ:u_35RYKgDlwC</link>
+<authors>YW Teh, GE Hinton</authors>
+<source>Advances in neural information processing systems, 908-914</source>
+<citations>57</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Learning in parallel networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=120&amp;citation_for_view=JicYPdAAAAAJ:4OULZ7Gr8RgC</link>
+<authors>GE Hinton</authors>
+<source>Byte 10 (4), 265-273</source>
+<citations>57</citations>
+<pub_year>1985</pub_year>
+</record>
+<record>
+<title>Shape Recognition and Illusory Conjunctions.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=120&amp;citation_for_view=JicYPdAAAAAJ:pqnbT2bcN3wC</link>
+<authors>GE Hinton, KJ Lang</authors>
+<source>IJCAI, 252-259</source>
+<citations>55</citations>
+<pub_year>1985</pub_year>
+</record>
+<record>
+<title>A comparison of statistical learning methods on the GUSTO database</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=120&amp;citation_for_view=JicYPdAAAAAJ:ZHo1McVdvXMC</link>
+<authors>M Ennis, G Hinton, D Naylor, M Revow, R Tibshirani</authors>
+<source>Statistics in medicine 17 (21), 2501-2508</source>
+<citations>54</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>The appeal of parallel distributed processing, Parallel distributed processing: explorations in the microstructure of cognition, vol. 1: foundations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=120&amp;citation_for_view=JicYPdAAAAAJ:PkcyUWeTMh0C</link>
+<authors>JL McClelland, DE Rumelhart, GE Hinton</authors>
+<source>MIT Press, Cambridge, MA</source>
+<citations>54</citations>
+<pub_year>1986</pub_year>
+</record>
+<record>
+<title>Unsupervised learning of image transformations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=120&amp;citation_for_view=JicYPdAAAAAJ:P5F9QuxV20EC</link>
+<authors>R Memisevic, G Hinton</authors>
+<source>Computer Vision and Pattern Recognition, 2007. CVPR'07. IEEE Conference on, 1-8</source>
+<citations>51</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Learning multilevel distributed representations for high-dimensional sequences</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=120&amp;citation_for_view=JicYPdAAAAAJ:KxtntwgDAa4C</link>
+<authors>I Sutskever, GE Hinton</authors>
+<source>International Conference on Artificial Intelligence and Statistics, 548-555</source>
+<citations>51</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Distinguishing text from graphics in on-line handwritten ink</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=120&amp;citation_for_view=JicYPdAAAAAJ:SP6oXDckpogC</link>
+<authors>CM Bishop, M Svensen, GE Hinton</authors>
+<source>Frontiers in Handwriting Recognition, 2004. IWFHR-9 2004. Ninth ...</source>
+<citations>50</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Factored 3-way restricted boltzmann machines for modeling natural images</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=120&amp;citation_for_view=JicYPdAAAAAJ:__bU50VfleQC</link>
+<authors>A Krizhevsky, GE Hinton</authors>
+<source>International Conference on Artificial Intelligence and Statistics, 621-628</source>
+<citations>49</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>A soft decision-directed LMS algorithm for blind equalization</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=120&amp;citation_for_view=JicYPdAAAAAJ:bFI3QPDXJZMC</link>
+<authors>SJ Nowlan, GE Hinton</authors>
+<source>IEEE Transactions on Communications 41 (2), 275-279</source>
+<citations>49</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>GTM through time</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=120&amp;citation_for_view=JicYPdAAAAAJ:EUQCXRtRnyEC</link>
+<authors>CM Bishop, GE Hinton, IGD Strachan</authors>
+<source>IET Digital Library</source>
+<citations>48</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Learning mixture models of spatial coherence</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=120&amp;citation_for_view=JicYPdAAAAAJ:yD5IFk8b50cC</link>
+<authors>S Becker, GE Hinton</authors>
+<source>Neural Computation 5 (2), 267-277</source>
+<citations>48</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Learning internal representations by error propagation, Parallel distributed processing, 1986</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=120&amp;citation_for_view=JicYPdAAAAAJ:QsaTk4IG4EwC</link>
+<authors>DE Rumelhart, GE Hinton, RJ Williams, DE Rumelhart, JL McClelland</authors>
+<source>Cambridge, MA, 318-362</source>
+<citations>48</citations>
+<pub_year>1986</pub_year>
+</record>
+<record>
+<title>Mean field networks that learn to discriminate temporally distorted strings</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=120&amp;citation_for_view=JicYPdAAAAAJ:3s1wT3WcHBgC</link>
+<authors>CKI Williams, GE Hinton</authors>
+<source>Connectionist models: Proceedings of the 1990 summer school, 18-22</source>
+<citations>47</citations>
+<pub_year>1991</pub_year>
+</record>
+<record>
+<title>The recurrent temporal restricted boltzmann machine</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=120&amp;citation_for_view=JicYPdAAAAAJ:mvPsJ3kp5DgC</link>
+<authors>I Sutskever, GE Hinton, GW Taylor</authors>
+<source>Advances in Neural Information Processing Systems, 1601-1608</source>
+<citations>45</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Does the wake-sleep algorithm produce good density estimators?</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=120&amp;citation_for_view=JicYPdAAAAAJ:cFHS6HbyZ2cC</link>
+<authors>BJ Frey, GE Hinton, P Dayan</authors>
+<source>Advances in neural information processing systems, 661-670</source>
+<citations>45</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Reinforcement learning with factored states and actions</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=140&amp;citation_for_view=JicYPdAAAAAJ:p2g8aNsByqUC</link>
+<authors>B Sallans, GE Hinton</authors>
+<source>The Journal of Machine Learning Research 5, 1063-1088</source>
+<citations>43</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>A hierarchical community of experts</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=140&amp;citation_for_view=JicYPdAAAAAJ:UxriW0iASnsC</link>
+<authors>GE Hinton, B Sallans, Z Ghahramani</authors>
+<source>Learning in graphical models, 479-494</source>
+<citations>40</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>The DELVE manual</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=140&amp;citation_for_view=JicYPdAAAAAJ:xtRiw3GOFMkC</link>
+<authors>CE Rasmussen, RM Neal, GE Hinton, D van Camp, M Revow, Z Ghahramani, R ...</authors>
+<source>URL http://www. cs. toronto. edu/~ delve</source>
+<citations>40</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>A desktop input device and interface for interactive 3d character animation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=140&amp;citation_for_view=JicYPdAAAAAJ:OU6Ihb5iCvQC</link>
+<authors>S Oore, D Terzopoulos, G Hinton</authors>
+<source>Graphics Interface 2, 133-140</source>
+<citations>38</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Discovering viewpoint-invariant relationships that characterize objects</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=140&amp;citation_for_view=JicYPdAAAAAJ:b0M2c_1WBrUC</link>
+<authors>RS Zemel, GE Hinton</authors>
+<source>Proceedings of the 1990 conference on Advances in neural information ...</source>
+<citations>38</citations>
+<pub_year>1990</pub_year>
+</record>
+<record>
+<title>Generating text with recurrent neural networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=140&amp;citation_for_view=JicYPdAAAAAJ:4MWp96NkSFoC</link>
+<authors>I Sutskever, J Martens, GE Hinton</authors>
+<source>Proceedings of the 28th International Conference on Machine Learning (ICML ...</source>
+<citations>37</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Replicated softmax: an undirected topic model</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=140&amp;citation_for_view=JicYPdAAAAAJ:eq2jaN3J8jMC</link>
+<authors>GE Hinton, R Salakhutdinov</authors>
+<source>Advances in neural information processing systems, 1607-1614</source>
+<citations>37</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Binary coding of speech spectrograms using a deep auto-encoder.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=140&amp;citation_for_view=JicYPdAAAAAJ:sJsF-0ZLhtgC</link>
+<authors>L Deng, ML Seltzer, D Yu, A Acero, A Mohamed, GE Hinton</authors>
+<source>INTERSPEECH, 1692-1695</source>
+<citations>36</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Dynamical binary latent variable models for 3d human pose tracking</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=140&amp;citation_for_view=JicYPdAAAAAJ:Y5dfb0dijaUC</link>
+<authors>GW Taylor, L Sigal, DJ Fleet, GE Hinton</authors>
+<source>Computer Vision and Pattern Recognition (CVPR), 2010 IEEE Conference on, 631-638</source>
+<citations>36</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>How learning can guide evolution</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=140&amp;citation_for_view=JicYPdAAAAAJ:tHtfpZlB6tUC</link>
+<authors>GE Hinton, SJ Nowlan</authors>
+<source>Complex Systems 1</source>
+<citations>36</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>G-maximization: An unsupervised learning procedure for discovering regularities</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=140&amp;citation_for_view=JicYPdAAAAAJ:1sJd4Hv_s6UC</link>
+<authors>BA Pearlmutter, GE Hinton</authors>
+<source>AIP conference proceedings 151, 333</source>
+<citations>36</citations>
+<pub_year>1986</pub_year>
+</record>
+<record>
+<title>Learning to represent visual input</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=140&amp;citation_for_view=JicYPdAAAAAJ:J-pR_7NvFogC</link>
+<authors>GE Hinton</authors>
+<source>Philosophical Transactions of the Royal Society B: Biological Sciences 365 ...</source>
+<citations>34</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Adaptive soft weight tying using gaussian mixtures</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=140&amp;citation_for_view=JicYPdAAAAAJ:tOudhMTPpwUC</link>
+<authors>SJ Nowlan, GE Hinton</authors>
+<source>Advances in neural information processing systems, 993-993</source>
+<citations>34</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>A modified gating network for the mixtures of experts architecture</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=140&amp;citation_for_view=JicYPdAAAAAJ:Tiz5es2fbqcC</link>
+<authors>L Xu, MI Jordan, GE Hinton</authors>
+<source>World Congress on Neural Networks II, San Diego CA, June, 405-410</source>
+<citations>33</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Using Deep Belief Nets to Learn Covariance Kernels for Gaussian Processes.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=140&amp;citation_for_view=JicYPdAAAAAJ:5Ul4iDaHHb8C</link>
+<authors>R Salakhutdinov, GE Hinton</authors>
+<source>NIPS</source>
+<citations>32</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Variational learning in nonlinear Gaussian belief networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=140&amp;citation_for_view=JicYPdAAAAAJ:XiSMed-E-HIC</link>
+<authors>BJ Frey, GE Hinton</authors>
+<source>Neural Computation 11 (1), 193-213</source>
+<citations>31</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Solving random-dot stereograms using the heat equation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=140&amp;citation_for_view=JicYPdAAAAAJ:738O_yMBCRsC</link>
+<authors>R Szeliski, G Hinton</authors>
+<source>IEEE Computer Society Conference on Computer Vision and Pattern Recognition ...</source>
+<citations>31</citations>
+<pub_year>1985</pub_year>
+</record>
+<record>
+<title>Products of hidden markov models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=140&amp;citation_for_view=JicYPdAAAAAJ:WbkHhVStYXYC</link>
+<authors>A Brown, GE Hinton</authors>
+<source>Proceedings of Artificial Intelligence and Statistics, 3-11</source>
+<citations>30</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Implicit mixtures of restricted Boltzmann machines</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=140&amp;citation_for_view=JicYPdAAAAAJ:VOx2b1Wkg3QC</link>
+<authors>V Nair, GE Hinton</authors>
+<source>Advances in neural information processing systems, 1145-1152</source>
+<citations>29</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Evaluating the interface of a document processor: a comparison of expert judgement and user observation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=140&amp;citation_for_view=JicYPdAAAAAJ:artPoR2Yc-kC</link>
+<authors>N Hammond, G Hinton, P Barnard, A MacLean, J Long, A Whitefield</authors>
+<source>Human-Computer Interaction-INTERACT 84</source>
+<citations>29</citations>
+<pub_year>1984</pub_year>
+</record>
+<record>
+<title>Deep, narrow sigmoid belief networks are universal approximators</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=160&amp;citation_for_view=JicYPdAAAAAJ:q3oQSFYPqjQC</link>
+<authors>I Sutskever, GE Hinton</authors>
+<source>Neural Computation 20 (11), 2629-2636</source>
+<citations>28</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Learning to Parse Images.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=160&amp;citation_for_view=JicYPdAAAAAJ:l7t_Zn2s7bgC</link>
+<authors>GE Hinton, Z Ghahramani, YW Teh</authors>
+<source>NIPS, 463-469</source>
+<citations>28</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Spatial Coherence as an Internal Teacher for a Neural Network</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=160&amp;citation_for_view=JicYPdAAAAAJ:uDGL6kOW6j0C</link>
+<authors>GE Hinton</authors>
+<source>Backpropagation: theory, architectures, and applications, 313</source>
+<citations>28</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>On deep generative models with applications to recognition</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=160&amp;citation_for_view=JicYPdAAAAAJ:M7yex6snE4oC</link>
+<authors>M Ranzato, J Susskind, V Mnih, G Hinton</authors>
+<source>Computer Vision and Pattern Recognition (CVPR), 2011 IEEE Conference on ...</source>
+<citations>26</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Boltzmann machine</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=160&amp;citation_for_view=JicYPdAAAAAJ:kRWSkSYxWN8C</link>
+<authors>GE Hinton</authors>
+<source>Scholarpedia 2 (5), 1668</source>
+<citations>26</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Local physical models for interactive character animation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=160&amp;citation_for_view=JicYPdAAAAAJ:8AbLer7MMksC</link>
+<authors>S Oore, D Terzopoulos, G Hinton</authors>
+<source>Computer Graphics Forum 21 (3), 337-346</source>
+<citations>26</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Spiking boltzmann machines</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=160&amp;citation_for_view=JicYPdAAAAAJ:B3FOqHPlNUQC</link>
+<authors>GE Hinton, A Brown</authors>
+<source>Advances in neural information processing systems 12: proceedings of the ...</source>
+<citations>26</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>The bootstrap Widrow-Hoff rule as a cluster-formation algorithm</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=160&amp;citation_for_view=JicYPdAAAAAJ:tS2w5q8j5-wC</link>
+<authors>GE Hinton, SJ Nowlan</authors>
+<source>Neural Computation 2 (3), 355-362</source>
+<citations>26</citations>
+<pub_year>1990</pub_year>
+</record>
+<record>
+<title>Some computational solutions to Bernstein's problems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=160&amp;citation_for_view=JicYPdAAAAAJ:tH6gc1N1XXoC</link>
+<authors>G Hinton</authors>
+<source>Human Motor ActionsBernstein Reassessed, 413-438</source>
+<citations>26</citations>
+<pub_year>1984</pub_year>
+</record>
+<record>
+<title>McClelland. JL (1986)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=160&amp;citation_for_view=JicYPdAAAAAJ:7Hz3ACDFbsoC</link>
+<authors>DE Rumelhart, GE Hinton</authors>
+<source>Parallel distributed processing, 1-2</source>
+<citations>26</citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Generating more realistic images using gated mrfs</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=160&amp;citation_for_view=JicYPdAAAAAJ:LgRImbQfgY4C</link>
+<authors>M Ranzato, V Mnih, GE Hinton</authors>
+<source>NIPS 2858, 2859-2860</source>
+<citations>25</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Learning to detect roads in high-resolution aerial images</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=160&amp;citation_for_view=JicYPdAAAAAJ:fEOibwPWpKIC</link>
+<authors>V Mnih, GE Hinton</authors>
+<source>Computer VisionECCV 2010, 210-223</source>
+<citations>25</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Discovering multiple constraints that are frequently approximately satisfied</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=160&amp;citation_for_view=JicYPdAAAAAJ:eJXPG6dFmWUC</link>
+<authors>GE Hinton, YW Teh</authors>
+<source>Proceedings of the Seventeenth conference on Uncertainty in artificial ...</source>
+<citations>25</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Split and merge EM algorithm for improving Gaussian mixture density estimates</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=160&amp;citation_for_view=JicYPdAAAAAJ:AXPGKjj_ei8C</link>
+<authors>N Ueda, R Nakano, Z Ghahramani, GE Hinton</authors>
+<source>Journal of VLSI signal processing systems for signal, image and video ...</source>
+<citations>25</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Learning to combine foveal glimpses with a third-order Boltzmann machine</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=160&amp;citation_for_view=JicYPdAAAAAJ:tKAzc9rXhukC</link>
+<authors>H Larochelle, G Hinton</authors>
+<source>Advances in Neural Information Processing Systems 23 1</source>
+<citations>24</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Hierarchical non-linear factor analysis and topographic maps</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=160&amp;citation_for_view=JicYPdAAAAAJ:vRqMK49ujn8C</link>
+<authors>Z Ghahramani, GE Hinton</authors>
+<source>Advances in neural information processing systems, 486-492</source>
+<citations>24</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>TRAFFIC: Recognizing objects using hierarchical reference frame transformations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=160&amp;citation_for_view=JicYPdAAAAAJ:sSrBHYA8nusC</link>
+<authors>RS Zemel, MC Mozer, GE Hinton</authors>
+<source>Advances in neural information processing systems 2, 266-273</source>
+<citations>24</citations>
+<pub_year>1990</pub_year>
+</record>
+<record>
+<title>Learning internal representation by back propagation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=160&amp;citation_for_view=JicYPdAAAAAJ:silx2ntsSuwC</link>
+<authors>DE Rumelhart, GE Hinton, RJ Williams</authors>
+<source>Parallel distributed processing: exploration in the microstructure of ...</source>
+<citations>24</citations>
+<pub_year>1986</pub_year>
+</record>
+<record>
+<title>Learning distributed representations of concepts using linear relational embedding</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=160&amp;citation_for_view=JicYPdAAAAAJ:t6usbXjVLHcC</link>
+<authors>A Paccanaro, GE Hinton</authors>
+<source>Knowledge and Data Engineering, IEEE Transactions on 13 (2), 232-244</source>
+<citations>23</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Dimensionality reduction and prior knowledge in E-set recognition</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=160&amp;citation_for_view=JicYPdAAAAAJ:geHnlv5EZngC</link>
+<authors>KJ Lang, GE Hinton</authors>
+<source>Advances in neural information processing systems 2, 178-185</source>
+<citations>23</citations>
+<pub_year>1990</pub_year>
+</record>
+<record>
+<title>Visualizing similarity data with a mixture of maps</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=180&amp;citation_for_view=JicYPdAAAAAJ:N5tVd3kTz84C</link>
+<authors>J Cook, I Sutskever, A Mnih, GE Hinton</authors>
+<source>International Conference on Artificial Intelligence and Statistics, 67-74</source>
+<citations>22</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Learning causally linked markov random fields</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=180&amp;citation_for_view=JicYPdAAAAAJ:fQNAKQ3IYiAC</link>
+<authors>GE Hinton, S Osindero, K Bao</authors>
+<source>AI &amp; Statistics</source>
+<citations>22</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Multiple relational embedding</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=180&amp;citation_for_view=JicYPdAAAAAJ:5ugPr518TE4C</link>
+<authors>R Memisevic, GE Hinton</authors>
+<source>Advances in neural information processing systems, 913-920</source>
+<citations>22</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Generative versus discriminative training of RBMs for classification of fMRI images</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=180&amp;citation_for_view=JicYPdAAAAAJ:9vf0nzSNQJEC</link>
+<authors>T Schmah, GE Hinton, SL Small, S Strother, RS Zemel</authors>
+<source>Advances in neural information processing systems, 1409-1416</source>
+<citations>21</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Advances in Neural Information Processing Systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=180&amp;citation_for_view=JicYPdAAAAAJ:PyEswDtIyv0C</link>
+<authors>J Vinson, D DeCaprio, S Pearson, J Galagan, D DeCaprio, S Pearson, J Galagan ...</authors>
+<source>Gene prediction using semi-Markov conditional random fields, 1141-1148</source>
+<citations>21</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Glove-talk II-A neural-network interface which maps gestures to parallel formant speech synthesizer controls</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=180&amp;citation_for_view=JicYPdAAAAAJ:1qzjygNMrQYC</link>
+<authors>SS Fels, GE Hinton</authors>
+<source>Neural Networks, IEEE Transactions on 8 (5), 977-984</source>
+<citations>21</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Phone recognition using restricted boltzmann machines</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=180&amp;citation_for_view=JicYPdAAAAAJ:ye4kPcJQO24C</link>
+<authors>AR Mohamed, G Hinton</authors>
+<source>Acoustics Speech and Signal Processing (ICASSP), 2010 IEEE International ...</source>
+<citations>20</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Inferring motor programs from images of handwritten digits</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=180&amp;citation_for_view=JicYPdAAAAAJ:wbdj-CoPYUoC</link>
+<authors>V Nair, GE Hinton</authors>
+<source>Advances in neural information processing systems, 515-522</source>
+<citations>20</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>An efficient learning procedure for deep Boltzmann machines</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=180&amp;citation_for_view=JicYPdAAAAAJ:zLWjf1WUPmwC</link>
+<authors>R Salakhutdinov, G Hinton</authors>
+<source>Neural Computation 24 (8), 1967-2006</source>
+<citations>19</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Learning a better representation of speech soundwaves using restricted Boltzmann machines</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=180&amp;citation_for_view=JicYPdAAAAAJ:XD-gHx7UXLsC</link>
+<authors>N Jaitly, G Hinton</authors>
+<source>Acoustics, Speech and Signal Processing (ICASSP), 2011 IEEE International ...</source>
+<citations>19</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Self supervised boosting</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=180&amp;citation_for_view=JicYPdAAAAAJ:BrmTIyaxlBUC</link>
+<authors>M Welling, RS Zemel, GE Hinton</authors>
+<source>Advances in neural information processing systems, 665-672</source>
+<citations>19</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>A new view of ICA</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=180&amp;citation_for_view=JicYPdAAAAAJ:eflP2zaiRacC</link>
+<authors>GE Hinton, M Welling, YW Teh, S Osindero</authors>
+<source>Int. Conf. on Independent Component Analysis and Blind Source Separation</source>
+<citations>19</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Generating facial expressions with deep belief nets</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=180&amp;citation_for_view=JicYPdAAAAAJ:dTyEYWd-f8wC</link>
+<authors>JM Susskind, GE Hinton, JR Movellan, AK Anderson</authors>
+<source>Affective Computing, Emotion Modelling, Synthesis and Recognition, 421-440</source>
+<citations>18</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Unsupervised discovery of nonlinear structure using contrastive backpropagation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=180&amp;citation_for_view=JicYPdAAAAAJ:JoZmwDi-zQgC</link>
+<authors>G Hinton, S Osindero, M Welling, YW Teh</authors>
+<source>Cognitive science 30 (4), 725-731</source>
+<citations>18</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Using free energies to represent Q-values in a multiagent reinforcement learning task</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=180&amp;citation_for_view=JicYPdAAAAAJ:V3AGJWp-ZtQC</link>
+<authors>B Sallans, GE Hinton</authors>
+<source>NIPS, 1075-1081</source>
+<citations>18</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Split and merge EM algorithm for improving Gaussian mixture density estimates</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=180&amp;citation_for_view=JicYPdAAAAAJ:69ZgNCALVd0C</link>
+<authors>N Ueda, R Nakano, Z Ghahramani, GE Hinton</authors>
+<source>Neural Networks for Signal Processing VIII, 1998. Proceedings of the 1998 ...</source>
+<citations>18</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>An unsupervised learning procedure that discovers surfaces in random-dot stereograms</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=180&amp;citation_for_view=JicYPdAAAAAJ:bnK-pcrLprsC</link>
+<authors>GE Hinton, S Becker</authors>
+<source>Proceedings of the International Joint Conference on Neural Networks ...</source>
+<citations>18</citations>
+<pub_year>1990</pub_year>
+</record>
+<record>
+<title>h Williams, R.(1986). Learning internal representations by error propagation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=180&amp;citation_for_view=JicYPdAAAAAJ:IsPWOBWtZBwC</link>
+<authors>D Rumelhart, G Hinton</authors>
+<source>DE Rumelhan 8</source>
+<citations>18</citations>
+<pub_year>6</pub_year>
+</record>
+<record>
+<title>Comparing classification methods for longitudinal fMRI studies</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=180&amp;citation_for_view=JicYPdAAAAAJ:evX43VCCuoAC</link>
+<authors>T Schmah, G Yourganov, RS Zemel, GE Hinton, SL Small, SC Strother</authors>
+<source>Neural Computation 22 (11), 2729-2762</source>
+<citations>17</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Connectionist Models Summer School</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=180&amp;citation_for_view=JicYPdAAAAAJ:PR6Y55bgFSsC</link>
+<authors>D Touretzky, G Hinton</authors>
+<source>Carnegie Mellon</source>
+<citations>17</citations>
+<pub_year>1988</pub_year>
+</record>
+<record>
+<title>Why the islands move</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=200&amp;citation_for_view=JicYPdAAAAAJ:XiVPGOgt02cC</link>
+<authors>E Hutchins, G Hinton</authors>
+<source>Perception 13 (5), 629-632</source>
+<citations>17</citations>
+<pub_year>1984</pub_year>
+</record>
+<record>
+<title>Deterministic Boltzmann learning in networks with asymmetric connectivity</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=200&amp;citation_for_view=JicYPdAAAAAJ:vDZJ-YLwNdEC</link>
+<authors>CC Galland, GE Hinton</authors>
+<source>Connectionist Models: Proceedings of the 1990 Summer School, 3-9</source>
+<citations>16</citations>
+<pub_year>1991</pub_year>
+</record>
+<record>
+<title>GEMINI: gradient estimation through matrix inversion after noise injection</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=200&amp;citation_for_view=JicYPdAAAAAJ:HE397vMXCloC</link>
+<authors>YL Cun, CC Galland, GE Hinton</authors>
+<source>Advances in neural information processing systems 1, 141-148</source>
+<citations>16</citations>
+<pub_year>1989</pub_year>
+</record>
+<record>
+<title>Learning internal representations by error propagation, Parallel Distributed Processing, vol. 1, 318-362</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=200&amp;citation_for_view=JicYPdAAAAAJ:sA9dB-pw3HoC</link>
+<authors>DE Rumelhart, GE Hinton, RJ Williams</authors>
+<source>MIT Press, Cambridge</source>
+<citations>16</citations>
+<pub_year>1986</pub_year>
+</record>
+<record>
+<title>Learning Sequential Structure in Simple Recurrent Networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=200&amp;citation_for_view=JicYPdAAAAAJ:jSAVyFp_754C</link>
+<authors>DE Rumelhart, G Hinton, R Williams</authors>
+<source>Parallel distributed processing: Experiments in the microstructure of ...</source>
+<citations>16</citations>
+<pub_year>1986</pub_year>
+</record>
+<record>
+<title>Transforming auto-encoders</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=200&amp;citation_for_view=JicYPdAAAAAJ:EYYDruWGBe4C</link>
+<authors>GE Hinton, A Krizhevsky, SD Wang</authors>
+<source>Artificial Neural Networks and Machine LearningICANN 2011, 44-51</source>
+<citations>15</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Keeping neural networks simple</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=200&amp;citation_for_view=JicYPdAAAAAJ:mUJArPsKIAAC</link>
+<authors>GE Hinton, D van Camp</authors>
+<source>ICANN93, 11-18</source>
+<citations>15</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Imagery without arrays</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=200&amp;citation_for_view=JicYPdAAAAAJ:otzGkya1bYkC</link>
+<authors>G Hinton</authors>
+<source>Behavioral and Brain Sciences 2 (04), 555-556</source>
+<citations>15</citations>
+<pub_year>1979</pub_year>
+</record>
+<record>
+<title>Understanding how deep belief networks perform acoustic modelling</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=200&amp;citation_for_view=JicYPdAAAAAJ:kw52XkFRtyQC</link>
+<authors>A Mohamed, G Hinton, G Penn</authors>
+<source>Acoustics, Speech and Signal Processing (ICASSP), 2012 IEEE International ...</source>
+<citations>14</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Two Distributed-State Models For Generating High-Dimensional Time Series.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=200&amp;citation_for_view=JicYPdAAAAAJ:kz9GbA2Ns4gC</link>
+<authors>GW Taylor, GE Hinton, ST Roweis</authors>
+<source>Journal of Machine Learning Research 12, 1025-1068</source>
+<citations>14</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Conditional Restricted Boltzmann Machines for Structured Output Prediction</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=200&amp;citation_for_view=JicYPdAAAAAJ:rmuvC79q63oC</link>
+<authors>V Mnih, H Larochelle, GE Hinton</authors>
+<source>Proc. Uncertainty in Artificial Intelligence</source>
+<citations>14</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>What kind of graphical model is the brain?</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=200&amp;citation_for_view=JicYPdAAAAAJ:W5xh706n7nkC</link>
+<authors>GE Hinton</authors>
+<source>IJCAI 5, 1765-1775</source>
+<citations>14</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Coaching variables for regression and classification</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=200&amp;citation_for_view=JicYPdAAAAAJ:eMMeJKvmdy0C</link>
+<authors>R Tibshirani, G Hinton</authors>
+<source>Statistics and Computing 8 (1), 25-33</source>
+<citations>14</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>A simple algorithm that discovers efficient perceptual codes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=200&amp;citation_for_view=JicYPdAAAAAJ:SdhP9T11ey4C</link>
+<authors>BJ Frey, P Dayan, GE Hinton</authors>
+<source>COMPUTATIONAL AND PSYCHOPHYSICAL MECHANISMS OF VISUAL CODING. Edition en ...</source>
+<citations>14</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Learning internal representations by error propagation, volume 1 of Parallel Distributed Processing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=200&amp;citation_for_view=JicYPdAAAAAJ:SIv7DqKytYAC</link>
+<authors>DE Rumelhart, GE Hinton, RJ Williams</authors>
+<source>MIT Press, Cambridge, MA</source>
+<citations>14</citations>
+<pub_year>1986</pub_year>
+</record>
+<record>
+<title>Using relaxation to find a puppet</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=200&amp;citation_for_view=JicYPdAAAAAJ:gVv57TyPmFsC</link>
+<authors>GE Hinton</authors>
+<source>Proc. of the AISB Summer Conference, 148-157</source>
+<citations>14</citations>
+<pub_year>1976</pub_year>
+</record>
+<record>
+<title>A practical guide to training restricted boltzmann machines</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=200&amp;citation_for_view=JicYPdAAAAAJ:SnGPuo6Feq8C</link>
+<authors>GE Hinton</authors>
+<source>Neural Networks: Tricks of the Trade, 599-619</source>
+<citations>13</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Modeling the joint density of two images under a variety of transformations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=200&amp;citation_for_view=JicYPdAAAAAJ:p__nRnzSRKYC</link>
+<authors>J Susskind, R Memisevic, G Hinton, M Pollefeys</authors>
+<source>Computer Vision and Pattern Recognition (CVPR), 2011 IEEE Conference on ...</source>
+<citations>13</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Discovering binary codes for documents by learning deep generative models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=200&amp;citation_for_view=JicYPdAAAAAJ:BUYA1_V_uYcC</link>
+<authors>G Hinton, R Salakhutdinov</authors>
+<source>Topics in Cognitive Science 3 (1), 74-91</source>
+<citations>13</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>A mode-hopping MCMC sampler</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=200&amp;citation_for_view=JicYPdAAAAAJ:tkaPQYYpVKoC</link>
+<authors>C Sminchisescu, M Welling, G Hinton</authors>
+<source>Technical Report CSRG-478, University of Toronto, submitted to Machine ...</source>
+<citations>13</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Instantiating deformable models with a neural net</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=220&amp;citation_for_view=JicYPdAAAAAJ:PELIpwtuRlgC</link>
+<authors>CKI Williams, M Revow, GE Hinton</authors>
+<source>Computer vision and image understanding 68 (1), 120-126</source>
+<citations>13</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Learning internal representations by error propagation. u: Rumelhart DE i McClelland AJL (ur.) Parallel distributed processing: Explorations in the microstructure of cognition, Cambridge, MA, itd: Massachusetts Institute of Technology Press</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=220&amp;citation_for_view=JicYPdAAAAAJ:aIdbFUkbNIkC</link>
+<authors>DE Rumelhart, GE Hinton, RJ Williams</authors>
+<source>MIT Press</source>
+<citations>13</citations>
+<pub_year>1986</pub_year>
+</record>
+<record>
+<title>Using pairs of data-points to define splits for decision trees</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=220&amp;citation_for_view=JicYPdAAAAAJ:_B80troHkn4C</link>
+<authors>GE Hinton, M Revow</authors>
+<source>Advances in Neural Information Processing Systems</source>
+<citations>12</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Gated softmax classification</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=220&amp;citation_for_view=JicYPdAAAAAJ:EkHepimYqZsC</link>
+<authors>R Memisevic, C Zach, M Pollefeys, GE Hinton</authors>
+<source>Advances in Neural Information Processing Systems, 1603-1611</source>
+<citations>11</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Extracting distributed representations of concepts and relations from positive and negative propositions</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=220&amp;citation_for_view=JicYPdAAAAAJ:WqliGbK-hY8C</link>
+<authors>A Paccanaro, GE Hinton</authors>
+<source>Neural Networks, 2000. IJCNN 2000, Proceedings of the IEEE-INNS-ENNS ...</source>
+<citations>11</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Neural network-based retrieval from software reuse repositories</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=220&amp;citation_for_view=JicYPdAAAAAJ:rbm3iO8VlycC</link>
+<authors>D Eichmann, K Srinivas, DE Rumelhart, GE Hinton</authors>
+<source></source>
+<citations>11</citations>
+<pub_year>1991</pub_year>
+</record>
+<record>
+<title>A better way to pretrain deep Boltzmann machines</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=220&amp;citation_for_view=JicYPdAAAAAJ:HhcuHIWmDEUC</link>
+<authors>GE Hinton, R Salakhutdinov</authors>
+<source>Advances in Neural Information Processing Systems, 2456-2464</source>
+<citations>10</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Wormholes improve contrastive divergence</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=220&amp;citation_for_view=JicYPdAAAAAJ:VL0QpB8kHFEC</link>
+<authors>G Hinton, M Welling, A Mnih</authors>
+<source>Advances in Neural Information Processing Systems</source>
+<citations>10</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Une nouvelle approche de la cognition: Le conexionnisme</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=220&amp;citation_for_view=JicYPdAAAAAJ:5awf1xo2G04C</link>
+<authors>J McClelland, DE Rumelhardt, GE Hinton</authors>
+<source>Le Débat Émergence du Cognitif 47, 45-64</source>
+<citations>10</citations>
+<pub_year>1987</pub_year>
+</record>
+<record>
+<title>Schemata and sequential thought processes in PDP models, Parallel distributed processing: explorations in the microstructure of cognition, vol. 2: psychological and biological models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=220&amp;citation_for_view=JicYPdAAAAAJ:D_tqNUsBuKoC</link>
+<authors>DE Rumlehart, P Smolensky, JL McClelland, GE Hinton</authors>
+<source>MIT Press, Cambridge, MA</source>
+<citations>10</citations>
+<pub_year>1986</pub_year>
+</record>
+<record>
+<title>Schemata and sequential thought processes in PDP models, Parallel distributed processing: explorations in the microstructure, vol. 2: psychological and biological models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=220&amp;citation_for_view=JicYPdAAAAAJ:zGdJYJv2LkUC</link>
+<authors>DE Rumelhart, P Smolensky, JL McClelland, GE Hinton</authors>
+<source>MIT Press, Cambridge, MA</source>
+<citations>10</citations>
+<pub_year>1986</pub_year>
+</record>
+<record>
+<title>Using mixtures of deformable models to capture variations in hand printed digits</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=220&amp;citation_for_view=JicYPdAAAAAJ:LjlpjdlvIbIC</link>
+<authors>M Revow, CKI Williams, GE Hinton</authors>
+<source></source>
+<citations>9</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>The role of spatial working memory in shape perception</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=220&amp;citation_for_view=JicYPdAAAAAJ:gKiMpY-AVTkC</link>
+<authors>GE Hinton</authors>
+<source>Third Annual Conference of the Cognitive Science Society, Berkeley</source>
+<citations>9</citations>
+<pub_year>1981</pub_year>
+</record>
+<record>
+<title>Using very deep autoencoders for content-based image retrieval.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=220&amp;citation_for_view=JicYPdAAAAAJ:KUbvn5osdkgC</link>
+<authors>A Krizhevsky, GE Hinton</authors>
+<source>ESANN</source>
+<citations>8</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Generalized darting monte carlo</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=220&amp;citation_for_view=JicYPdAAAAAJ:dQ2og3OwTAUC</link>
+<authors>C Sminchisescu</authors>
+<source></source>
+<citations>8</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Efficient stochastic source coding and an application to a Bayesian network source model</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=220&amp;citation_for_view=JicYPdAAAAAJ:hkOj_22Ku90C</link>
+<authors>BJ Frey, GE Hinton</authors>
+<source>The Computer Journal 40 (2 and 3), 157-165</source>
+<citations>8</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Discovering high order features with mean field modules</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=220&amp;citation_for_view=JicYPdAAAAAJ:1yQoGdGgb4wC</link>
+<authors>CC Galland, GE Hinton</authors>
+<source>Advances in neural information processing systems 2, 509-515</source>
+<citations>8</citations>
+<pub_year>1990</pub_year>
+</record>
+<record>
+<title>Traffic: A model of object recognition based on transformation of feature instances</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=220&amp;citation_for_view=JicYPdAAAAAJ:kzcSZmkxUKAC</link>
+<authors>RS Zemel, MC Mozer, GE Hinton</authors>
+<source>The Proceedings of the 1988 Connectionist Models Summer School, San Mateo ...</source>
+<citations>8</citations>
+<pub_year>1988</pub_year>
+</record>
+<record>
+<title>Error Propagation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=220&amp;citation_for_view=JicYPdAAAAAJ:-7ulzOJl1JYC</link>
+<authors>DE Rumelhart, GE Hinton, RJ Williams</authors>
+<source>Int Pa. rallel</source>
+<citations>8</citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Robust Boltzmann machines for recognition and denoising</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=220&amp;citation_for_view=JicYPdAAAAAJ:wKETBy42zhYC</link>
+<authors>Y Tang, R Salakhutdinov, G Hinton</authors>
+<source>Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on ...</source>
+<citations>7</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Learning generative texture models with extended Fields-of-Experts</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=240&amp;citation_for_view=JicYPdAAAAAJ:uJ-U7cs_P_0C</link>
+<authors>N Heess, C Williams, G Hinton</authors>
+<source></source>
+<citations>7</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Improving dimensionality reduction with spectral gradient descent</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=240&amp;citation_for_view=JicYPdAAAAAJ:LI9QrySNdTsC</link>
+<authors>R Memisevic, G Hinton</authors>
+<source>Neural networks 18 (5), 702-710</source>
+<citations>7</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>The ups and downs of Hebb synapses.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=240&amp;citation_for_view=JicYPdAAAAAJ:0KyAp5RtaNEC</link>
+<authors>G Hinton</authors>
+<source>Canadian Psychology/Psychologie canadienne 44 (1), 10</source>
+<citations>7</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Computation by neural networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=240&amp;citation_for_view=JicYPdAAAAAJ:JQOojiI6XY0C</link>
+<authors>GE Hinton</authors>
+<source>nature neuroscience 3, 1170-1170</source>
+<citations>7</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>ican Society of Mechanical Engineers, ASME Press, 1992.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=240&amp;citation_for_view=JicYPdAAAAAJ:JTqpx9DYBaYC</link>
+<authors>SJ Hanson, RP Lippmann, DE Rumelhart, GE Hinton, RJ Williams</authors>
+<source></source>
+<citations>7</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Novice use of an interactive graph plotting system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=240&amp;citation_for_view=JicYPdAAAAAJ:4X0JR2_MtJMC</link>
+<authors>N Hammond, A MacLean, G Hinton, J Long, P Barnard, IA Clark</authors>
+<source>IBM Hursley Human Factors Report# HF083. IBM UK Laboratories Ltd., Hursley ...</source>
+<citations>7</citations>
+<pub_year>1983</pub_year>
+</record>
+<record>
+<title>Improving Deep Neural Networks for LVCSR using Rectified Linear Units and Dropout</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=240&amp;citation_for_view=JicYPdAAAAAJ:raTqNPD5sRQC</link>
+<authors>GE Dahl, TN Sainath, GE Hinton</authors>
+<source>Proc. ICASSP</source>
+<citations>6</citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Visualizing non-metric similarities in multiple maps</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=240&amp;citation_for_view=JicYPdAAAAAJ:48xauSegjOkC</link>
+<authors>L van der Maaten, G Hinton</authors>
+<source>Machine learning 87 (1), 33-55</source>
+<citations>6</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Deep belief nets for natural language call-routing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=240&amp;citation_for_view=JicYPdAAAAAJ:fFSKOagxvKUC</link>
+<authors>R Sarikaya, GE Hinton, B Ramabhadran</authors>
+<source>Acoustics, Speech and Signal Processing (ICASSP), 2011 IEEE International ...</source>
+<citations>6</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Learning hierarchical structures with linear relational embedding</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=240&amp;citation_for_view=JicYPdAAAAAJ:Bg7qf7VwUHIC</link>
+<authors>APGE Hinton</authors>
+<source>Advances in neural information processing systems 14: proceedings of the ...</source>
+<citations>6</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>SMEM algorithm for mixture models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=240&amp;citation_for_view=JicYPdAAAAAJ:DrR-2ekChdkC</link>
+<authors>U Naonori, N Ryohei, Z Ghahramani, GE Hinton</authors>
+<source>Neural Computation 12 (9), 2109-2128</source>
+<citations>6</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Free energy coding</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=240&amp;citation_for_view=JicYPdAAAAAJ:Fu2w8maKXqMC</link>
+<authors>BJ Frey, GE Hinton</authors>
+<source>Data Compression Conference, 1996. DCC'96. Proceedings, 73-81</source>
+<citations>6</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Technical Report CRG-TR-96-2</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=240&amp;citation_for_view=JicYPdAAAAAJ:HJSXoJQnj-YC</link>
+<authors>Z Ghahramani, GE Hinton</authors>
+<source>Department of Computer Science, University of Toronto</source>
+<citations>6</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Using a neural net to instantiate a deformable model</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=240&amp;citation_for_view=JicYPdAAAAAJ:2KloaMYe4IUC</link>
+<authors>CKI Williams, MD Revow, GE Hinton</authors>
+<source></source>
+<citations>6</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Hand-printed digit recognition using deformable models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=240&amp;citation_for_view=JicYPdAAAAAJ:7T2F9Uy0os0C</link>
+<authors>CKI Williams, GE Hinton</authors>
+<source>Spatial Vision in Humans and Robots: The Proceedings of the 1991 York ...</source>
+<citations>6</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Learning to make coherent predictions in domains with discontinuities</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=240&amp;citation_for_view=JicYPdAAAAAJ:ZuybSZzF8UAC</link>
+<authors>S Becker, GE Hinton</authors>
+<source>Advances in Neural Information Processing Systems, 372-372</source>
+<citations>6</citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Pattern matching and variable binding in a stochastic neural network</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=240&amp;citation_for_view=JicYPdAAAAAJ:PVgj2kMGcgYC</link>
+<authors>DS Touretzky, GE Hinton</authors>
+<source>Genetic Algorithms and Simulated Annealing, 155-169</source>
+<citations>6</citations>
+<pub_year>1987</pub_year>
+</record>
+<record>
+<title>The horizontalvertical delusion</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=240&amp;citation_for_view=JicYPdAAAAAJ:NJ774b8OgUMC</link>
+<authors>GE Hinton</authors>
+<source>Perception 16 (5), 677-680</source>
+<citations>6</citations>
+<pub_year>1987</pub_year>
+</record>
+<record>
+<title>Learning in massively parallel nets</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=240&amp;citation_for_view=JicYPdAAAAAJ:ZfRJV9d4-WMC</link>
+<authors>GE Hinton</authors>
+<source>Proceedings of the AAAI 86</source>
+<citations>6</citations>
+<pub_year>1986</pub_year>
+</record>
+<record>
+<title>New types of deep neural network learning for speech recognition and related applications: An overview</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=240&amp;citation_for_view=JicYPdAAAAAJ:UmS_249rOGwC</link>
+<authors>L Deng, G Hinton, B Kingsbury</authors>
+<source>Proc. ICASSP</source>
+<citations>5</citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Speech recognition with deep recurrent neural networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=260&amp;citation_for_view=JicYPdAAAAAJ:mWEH9CqjF64C</link>
+<authors>A Graves, A Mohamed, G Hinton</authors>
+<source>arXiv preprint arXiv:1303.5778</source>
+<citations>5</citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Deep belief networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=260&amp;citation_for_view=JicYPdAAAAAJ:BwyfMAYsbu0C</link>
+<authors>GE Hinton</authors>
+<source>Scholarpedia 4 (5), 5947</source>
+<citations>5</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Data for evaluating learning in valid experiments (delve)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=260&amp;citation_for_view=JicYPdAAAAAJ:SAZ1SQo2q1kC</link>
+<authors>CE Rasmussen, RM Neal, G Hinton, D Camp, M Revow, Z Ghahramani, R Kustra, R ...</authors>
+<source></source>
+<citations>5</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Modeling High-Dimensional Data by Combining Simple Experts</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=260&amp;citation_for_view=JicYPdAAAAAJ:tzM49s52ZIMC</link>
+<authors>GE Hinton</authors>
+<source>AAAI/IAAI, 1159-1164</source>
+<citations>5</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Neural networks for computer-human interfaces: Glove-TalkII</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=260&amp;citation_for_view=JicYPdAAAAAJ:_Re3VWB3Y0AC</link>
+<authors>SS Fels, G Hinton</authors>
+<source>Proceedings of the International Conference on Neural Information Processing ...</source>
+<citations>5</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>The Helmholtz machine through time</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=260&amp;citation_for_view=JicYPdAAAAAJ:yB1At4FlUx8C</link>
+<authors>G Hinton, P Dayan, A To, R Neal</authors>
+<source>International Conference on Artificial Neural Networks (ICANN-95), 483-490</source>
+<citations>5</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Neural network architectures for artificial intelligence</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=260&amp;citation_for_view=JicYPdAAAAAJ:z_wVstp3MssC</link>
+<authors>GE Hinton</authors>
+<source>American Association for Artificial Intelligence</source>
+<citations>5</citations>
+<pub_year>1988</pub_year>
+</record>
+<record>
+<title>Delve data for evaluating learning in valid experiments, 19951996</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=260&amp;citation_for_view=JicYPdAAAAAJ:cK4Rrx0J3m0C</link>
+<authors>CE Rasmussen, RM Neal, G Hinton, D van Camp, M Revow, Z Ghahramani, R Kustra ...</authors>
+<source>URL http://www. cs. toronto. edu/∼ delve</source>
+<citations>5</citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>On Rectified Linear Units for Speech Processing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=260&amp;citation_for_view=JicYPdAAAAAJ:wvYxNZNCP7wC</link>
+<authors>MD Zeiler, M Ranzato, R Monga, M Mao, K Yang, QV Le, P Nguyen, A Senior, V ...</authors>
+<source>ICASSP</source>
+<citations>4</citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Temporal-Kernel Recurrent Neural Networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=260&amp;citation_for_view=JicYPdAAAAAJ:tuHXwOkdijsC</link>
+<authors>I Sutskever, G Hinton</authors>
+<source>Neural Networks 23 (2), 239-243</source>
+<citations>4</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Factored 3-way restricted boltzmann machines for modeling natural images</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=260&amp;citation_for_view=JicYPdAAAAAJ:08ZZubdj9fEC</link>
+<authors>AK Marc'Aurelio Ranzato, GE Hinton</authors>
+<source></source>
+<citations>4</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Modeling pigeon behavior using a Conditional Restricted Boltzmann Machine.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=260&amp;citation_for_view=JicYPdAAAAAJ:ipzZ9siozwsC</link>
+<authors>MD Zeiler, GW Taylor, NF Troje, GE Hinton</authors>
+<source>ESANN</source>
+<citations>4</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Training many small hidden markov models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=260&amp;citation_for_view=JicYPdAAAAAJ:0CzhzZyukY4C</link>
+<authors>GE Hinton, AD Brown</authors>
+<source>WISP-2001 Workshop on Innovation in Speech Processing, Proc. Institute of ...</source>
+<citations>4</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Learning Distributed Representations by Mapping Concepts and Relations into a Linear Space.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=260&amp;citation_for_view=JicYPdAAAAAJ:t7zJ5fGR-2UC</link>
+<authors>A Paccanaro, GE Hinton</authors>
+<source>ICML, 711-718</source>
+<citations>4</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Minimizing description length in an unsupervised neural network</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=260&amp;citation_for_view=JicYPdAAAAAJ:uWiczbcajpAC</link>
+<authors>GE Hinton, RS Zemel</authors>
+<source>Preprint</source>
+<citations>4</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Combining Two Methods of Recognizing Hand-Printed Digits</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=260&amp;citation_for_view=JicYPdAAAAAJ:35r97b3x0nAC</link>
+<authors>G Hinton, C Williams, M Revow</authors>
+<source>Art. Neural Systems 2, 53-60</source>
+<citations>4</citations>
+<pub_year>1992</pub_year>
+</record>
+<record>
+<title>Parallel stochastic search in early vision</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=260&amp;citation_for_view=JicYPdAAAAAJ:j8SEvjWlNXcC</link>
+<authors>TJ Sejnowski, GE Hinton</authors>
+<source>Biophysics Department, John Hopkins Univ.</source>
+<citations>4</citations>
+<pub_year>1984</pub_year>
+</record>
+<record>
+<title>Inferring the meaning of direct perception</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=260&amp;citation_for_view=JicYPdAAAAAJ:buQ7SEKw-1sC</link>
+<authors>GE Hinton</authors>
+<source>Behavioral and Brain Sciences 3 (03), 387-388</source>
+<citations>4</citations>
+<pub_year>1980</pub_year>
+</record>
+<record>
+<title>DELVE team members (1995). Assessing learning procedures using DELVE</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=260&amp;citation_for_view=JicYPdAAAAAJ:WAzi4Gm8nLoC</link>
+<authors>G Hinton, R Neal, R Tibshirani</authors>
+<source>Technical report, University of Toronto, Department of Computer Science</source>
+<citations>4</citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Where Do Features Come From?</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=260&amp;citation_for_view=JicYPdAAAAAJ:L_l9e5I586QC</link>
+<authors>G Hinton</authors>
+<source>Cognitive science</source>
+<citations>3</citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Deep mixtures of factor analysers</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=280&amp;citation_for_view=JicYPdAAAAAJ:owLR8QvbtFgC</link>
+<authors>Y Tang, R Salakhutdinov, G Hinton</authors>
+<source>arXiv preprint arXiv:1206.4635</source>
+<citations>3</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Learning to Label Aerial Images from Noisy Data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=280&amp;citation_for_view=JicYPdAAAAAJ:k_7cPK9k7w8C</link>
+<authors>V Mnih, GE Hinton</authors>
+<source>Proceedings of the 29th International Conference on Machine Learning (ICML ...</source>
+<citations>3</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>A better way to learn features: technical perspective</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=280&amp;citation_for_view=JicYPdAAAAAJ:GtLg2Ama23sC</link>
+<authors>GE Hinton</authors>
+<source>Communications of the ACM 54 (10), 94-94</source>
+<citations>3</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Products of hidden markov models: It takes n> 1 to tango</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=280&amp;citation_for_view=JicYPdAAAAAJ:WZBGuue-350C</link>
+<authors>GW Taylor, GE Hinton</authors>
+<source>Proceedings of the Twenty-Fifth Conference on Uncertainty in Artificial ...</source>
+<citations>3</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Improving a statistical language model through non-linear prediction</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=280&amp;citation_for_view=JicYPdAAAAAJ:epqYDVWIO7EC</link>
+<authors>A Mnih, Z Yuecheng, G Hinton</authors>
+<source>Neurocomputing 72 (7), 1414-1418</source>
+<citations>3</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Using matrices to model symbolic relationship</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=280&amp;citation_for_view=JicYPdAAAAAJ:URolC5Kub84C</link>
+<authors>I Sutskever, GE Hinton</authors>
+<source>Advances in Neural Information Processing Systems, 1593-1600</source>
+<citations>3</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Learning nonlinear constraints with contrastive backpropagation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=280&amp;citation_for_view=JicYPdAAAAAJ:ILKRHgRFtOwC</link>
+<authors>A Mnih, G Hinton</authors>
+<source>Neural Networks, 2005. IJCNN'05. Proceedings. 2005 IEEE International Joint ...</source>
+<citations>3</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Probabilistic sequential independent components analysis</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=280&amp;citation_for_view=JicYPdAAAAAJ:Z5m8FVwuT1cC</link>
+<authors>M Welling, RS Zemel, GE Hinton</authors>
+<source>Neural Networks, IEEE Transactions on 15 (4), 838-849</source>
+<citations>3</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Relative Density Nets: A New Way to Combine Backpropagation with HMM's</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=280&amp;citation_for_view=JicYPdAAAAAJ:VLnqNzywnoUC</link>
+<authors>AD Brown, GE Hinton</authors>
+<source>Advances in Neural Information Processing Systems, 1149-1156</source>
+<citations>3</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Cascaded redundancy reduction</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=280&amp;citation_for_view=JicYPdAAAAAJ:tYavs44e6CUC</link>
+<authors>VR De Sa, GE Hinton</authors>
+<source>Network: Computation in Neural Systems 9 (1), 73-84</source>
+<citations>3</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>Learning representations by back-propagating errors (from Nature 1986)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=280&amp;citation_for_view=JicYPdAAAAAJ:9Nmd_mFXekcC</link>
+<authors>DE Rumelhart, GE Hinton, RJ Williams</authors>
+<source>Spie Milestone Series Ms 96, 138-138</source>
+<citations>3</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>Parallel computation and the mass-spring model of motor control</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=280&amp;citation_for_view=JicYPdAAAAAJ:vbGhcppDl1QC</link>
+<authors>GE Hinton, P Smolensky</authors>
+<source>Cognitive Science Laboratory, Center for Human Information Processing ...</source>
+<citations>3</citations>
+<pub_year>1984</pub_year>
+</record>
+<record>
+<title>Efficient Parametric Projection Pursuit Density Estimation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=280&amp;citation_for_view=JicYPdAAAAAJ:Ak0FvsSvgGUC</link>
+<authors>MWRSZ Geoffrey, E Hinton</authors>
+<source></source>
+<citations>3</citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>A comparison of classification methods for longitudinal fmri studies</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=280&amp;citation_for_view=JicYPdAAAAAJ:AvfA0Oy_GE0C</link>
+<authors>T Schmah, G Yourganov, RS Zemel, GE Hinton, SL Small, S Strother</authors>
+<source>Neuroimage 47, S57</source>
+<citations>2</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Improving a statistical language model by modulating the effects of context words.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=280&amp;citation_for_view=JicYPdAAAAAJ:VaXvl8Fpj5cC</link>
+<authors>Z Yuecheng, A Mnih, GE Hinton</authors>
+<source>ESANN, 493-498</source>
+<citations>2</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Analysis-by-synthesis by learning to invert generative black boxes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=280&amp;citation_for_view=JicYPdAAAAAJ:MLfJN-KU85MC</link>
+<authors>V Nair, J Susskind, GE Hinton</authors>
+<source>Artificial Neural Networks-ICANN 2008, 971-981</source>
+<citations>2</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Embedding via clustering: using spectral information to guide dimensionality reduction</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=280&amp;citation_for_view=JicYPdAAAAAJ:hMsQuOkrut0C</link>
+<authors>R Memisevic, G Hinton</authors>
+<source>Neural Networks, 2005. IJCNN'05. Proceedings. 2005 IEEE International Joint ...</source>
+<citations>2</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>How Neural Networks Learn from Experience</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=280&amp;citation_for_view=JicYPdAAAAAJ:rTD5ala9j4wC</link>
+<authors>GE Hinton</authors>
+<source>Cognitive Modeling, 181-195</source>
+<citations>2</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Learning Distributed Representations of Relational Data using Linear Relational Embedding</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=280&amp;citation_for_view=JicYPdAAAAAJ:L7CI7m0gUJcC</link>
+<authors>A Paccanaro, GE Hinton</authors>
+<source>Neural Nets WIRN Vietri-01, 134-143</source>
+<citations>2</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Fast neural network emulation of dynamical systems for computer animation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=280&amp;citation_for_view=JicYPdAAAAAJ:vDijr-p_gm4C</link>
+<authors>R Grzeszczuk, D Terzopoulos, G Hinton</authors>
+<source>Proceedings of the 1998 conference on Advances in neural information ...</source>
+<citations>2</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Scaling in a hierarchical unsupervised network</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=300&amp;citation_for_view=JicYPdAAAAAJ:nZcligLrVowC</link>
+<authors>Z Ghahramani, AT Korenberg, GE Hinton</authors>
+<source>Artificial Neural Networks, 1999. ICANN 99. Ninth International Conference ...</source>
+<citations>2</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Phoneme recognition with a neural network: comparisons of acoustic representations including those produced by an auditory model</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=300&amp;citation_for_view=JicYPdAAAAAJ:27LrP4qxOz0C</link>
+<authors>WC Treurniet, MJ Hunt, C Lefebvre, Z Jacobson</authors>
+<source>Neural Networks 1, 320</source>
+<citations>2</citations>
+<pub_year>1988</pub_year>
+</record>
+<record>
+<title>Respectively Reconsidered</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=300&amp;citation_for_view=JicYPdAAAAAJ:5icHVeHT4IsC</link>
+<authors>G Hinton</authors>
+<source>Pragmatics Microfiche 3, 912-914</source>
+<citations>2</citations>
+<pub_year>1978</pub_year>
+</record>
+<record>
+<title>Modeling Documents with Deep Boltzmann Machines</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=300&amp;citation_for_view=JicYPdAAAAAJ:-yGd096yOn8C</link>
+<authors>N Srivastava, RR Salakhutdinov, GE Hinton</authors>
+<source>arXiv preprint arXiv:1309.6865</source>
+<citations>1</citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Introduction to the special section on deep learning for speech and language processing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=300&amp;citation_for_view=JicYPdAAAAAJ:BzfGm06jWhQC</link>
+<authors>D Yu, G Hinton, N Morgan, JT Chien, S Sagayama</authors>
+<source>Audio, Speech, and Language Processing, IEEE Transactions on 20 (1), 4-6</source>
+<citations>1</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Machine learning for neuroscience</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=300&amp;citation_for_view=JicYPdAAAAAJ:IRz6iEL74y4C</link>
+<authors>GE Hinton</authors>
+<source>Neural systems &amp; circuits 1 (1), 12</source>
+<citations>1</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Deep Belief Networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=300&amp;citation_for_view=JicYPdAAAAAJ:g3aElNc5_aQC</link>
+<authors>R Salakhutdinov, GE Hinton</authors>
+<source></source>
+<citations>1</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Modelling the statistics of natural images with topographic product of student-t models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=300&amp;citation_for_view=JicYPdAAAAAJ:kuK5TVdYjLIC</link>
+<authors>S Osindero, M Welling, GE Hinton</authors>
+<source>Neural Computation 18 (2)</source>
+<citations>1</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>15 Learning to Use Spike Timing in a Restricted Boltzmann Machine</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=300&amp;citation_for_view=JicYPdAAAAAJ:TIZ-Mc8IlK0C</link>
+<authors>GE Hinton, AD Brown</authors>
+<source>Probabilistic models of the brain: Perception and neural function, 285</source>
+<citations>1</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Using mixtures of factor analyzers for segmentation and pose estimation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=300&amp;citation_for_view=JicYPdAAAAAJ:k8Z6L05lTy4C</link>
+<authors>GE Hinton, M Revow</authors>
+<source>Unpublished</source>
+<citations>1</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>E cient stochastic source coding and an application to a Bayesian network source model</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=300&amp;citation_for_view=JicYPdAAAAAJ:HGTzPopzzJcC</link>
+<authors>BJ Frey, GE Hinton</authors>
+<source>Computer Journal</source>
+<citations>1</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Using neural networks to learn intractable generative models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=300&amp;citation_for_view=JicYPdAAAAAJ:F9fV5C73w3QC</link>
+<authors>GE HINTON, P Dayan, RM NEAL, RS ZEMEL</authors>
+<source>AMER STATISTICAL ASSOC</source>
+<citations>1</citations>
+<pub_year>1994</pub_year>
+</record>
+<record>
+<title>The Unity of Consciousness: A Connectionist Account</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=300&amp;citation_for_view=JicYPdAAAAAJ:oi2SiIJ9l4AC</link>
+<authors>GE Hinton</authors>
+<source>Memories, Thoughts, and Emotions: Essays in Honor of George Mandler, 245</source>
+<citations>1</citations>
+<pub_year>1991</pub_year>
+</record>
+<record>
+<title>Connectionist Models Summer School: Proceedings of the 1988 Connectionist Models Summer School</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=300&amp;citation_for_view=JicYPdAAAAAJ:EsEWqaRxkBgC</link>
+<authors></authors>
+<source>Morgan Kaufmann</source>
+<citations>1</citations>
+<pub_year>1989</pub_year>
+</record>
+<record>
+<title>Experiments on learning by back propagation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=300&amp;citation_for_view=JicYPdAAAAAJ:b1wdh0AR-JQC</link>
+<authors>GE Hinton, DC Plaut, SJ Nowlan</authors>
+<source>CARNEGIE-MELLON UNIV PITTSBURGH PA DEPT OF COMPUTER SCIENCE</source>
+<citations>1</citations>
+<pub_year>1987</pub_year>
+</record>
+<record>
+<title>A distributed connectionist production system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=300&amp;citation_for_view=JicYPdAAAAAJ:gsN89kCJA0AC</link>
+<authors>GE Hinton, DS Touretzky</authors>
+<source>CARNEGIE-MELLON UNIV PITTSBURGH PA DEPT OF COMPUTER SCIENCE</source>
+<citations>1</citations>
+<pub_year>1987</pub_year>
+</record>
+<record>
+<title>Models of human inference</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=300&amp;citation_for_view=JicYPdAAAAAJ:QD3KBmkZPeQC</link>
+<authors>GE Hinton</authors>
+<source>Computational intelligence 3 (1), 189-190</source>
+<citations>1</citations>
+<pub_year>1987</pub_year>
+</record>
+<record>
+<title>Generative Multiple-Instance Learning Models For Quantitative Electromyography</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=300&amp;citation_for_view=JicYPdAAAAAJ:JP7YXuLIOvAC</link>
+<authors>T Adel, B Smith, R Urner, D Stashuk, DJ Lizotte</authors>
+<source>arXiv preprint arXiv:1309.6811</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Modeling Natural Images Using Gated MRFs</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=300&amp;citation_for_view=JicYPdAAAAAJ:3bvyWxjaHKcC</link>
+<authors>M Ranzato, V Mnih, J Susskind, G Hinton</authors>
+<source>IEEE</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Deep Lambertian Networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=300&amp;citation_for_view=JicYPdAAAAAJ:CB2v5VPnA5kC</link>
+<authors>Y Tang, R Salakhutdinov, G Hinton</authors>
+<source>arXiv preprint arXiv:1206.6445</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>UTML TR 2010001</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=320&amp;citation_for_view=JicYPdAAAAAJ:Ug5p-4gJ2f0C</link>
+<authors>J Susskind, A Anderson, G Hinton</authors>
+<source></source>
+<citations></citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Deep Belief Nets.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=320&amp;citation_for_view=JicYPdAAAAAJ:MIg0yeAD4ggC</link>
+<authors>GE Hinton</authors>
+<source>Encyclopedia of Machine Learning, 267-269</source>
+<citations></citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Modeling Semantic Similarities in Multiple Maps</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=320&amp;citation_for_view=JicYPdAAAAAJ:OR75R8vi5nAC</link>
+<authors>L van der Maaten, G Hinton</authors>
+<source></source>
+<citations></citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Workshop summary: Workshop on learning feature hierarchies</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=320&amp;citation_for_view=JicYPdAAAAAJ:2tRrZ1ZAMYUC</link>
+<authors>K Yu, R Salakhutdinov, Y LeCun, G Hinton, Y Bengio</authors>
+<source>Proceedings of the 26th Annual International Conference on Machine Learning, 5</source>
+<citations></citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Using Deep Belief Nets to Learn Covariance Kernels for Gaussian Processes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=320&amp;citation_for_view=JicYPdAAAAAJ:UuEBAcK4md4C</link>
+<authors>GE Hinton, R Salakhutdinov</authors>
+<source>Advances in Neural Information Processing Systems, 1249-1256</source>
+<citations></citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Copyright© 2006 Cognitive Science Society, Inc. All rights reserved.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=320&amp;citation_for_view=JicYPdAAAAAJ:EPG8bYD4jVwC</link>
+<authors>K Abbot-Smith, S Atran, M Aveyard, H Behrens, S Benus, L Blomert, T Bosse, J ...</authors>
+<source>Cognitive Science 30, 1127</source>
+<citations></citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>ROBOTICS: SCIENCE AND SYSTEMS</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=320&amp;citation_for_view=JicYPdAAAAAJ:SjuI4pbJlxcC</link>
+<authors>C Breazeal, G Hinton, T Kanade, D Koditschek, E Winfree</authors>
+<source></source>
+<citations></citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Wormholes Improve Contrastive Divergence</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=320&amp;citation_for_view=JicYPdAAAAAJ:Hck25ST_3aIC</link>
+<authors>M Welling, A Mnih, GE Hinton</authors>
+<source>Advances in Neural Information Processing Systems, None</source>
+<citations></citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Nonlinear Dimensionality Reduction using Neural Networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=320&amp;citation_for_view=JicYPdAAAAAJ:6yz0xqPARnAC</link>
+<authors>R Salakhutdinov, G Hinton</authors>
+<source>RBM 2, 1000</source>
+<citations></citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Pattern classification using a mixture of factor analyzers</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=320&amp;citation_for_view=JicYPdAAAAAJ:HtS1dXgVpQUC</link>
+<authors>N Ueda, R Nakano, Z Ghahramani, G Hinton</authors>
+<source>Neural Networks for Signal Processing IX, 1999. Proceedings of the 1999 IEEE ...</source>
+<citations></citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Department of Computer Science University of Toronto Toronto, Ontario, M5S 1A4, Canada hinton@ cs. toronto. edu, zoubin@ cs. toronto. edu</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=320&amp;citation_for_view=JicYPdAAAAAJ:j7_hQOaDUrUC</link>
+<authors>GE Hinton, Z Ghahramani</authors>
+<source></source>
+<citations></citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Acharya, A., see Chakrabarti, PP. Adam, A. and J.-P Laurent, LAURA, a system to debug stu-dent programs Adcock, J., see Char&amp;k, E. Addanki, S., R. Cremonini and JS Penberthy, Graphs of mod</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=320&amp;citation_for_view=JicYPdAAAAAJ:A8cqit5AE6sC</link>
+<authors>GM Adelson-Velskiy, VL Arlazarov, MV Donskoy, TS Elman, G Hinton</authors>
+<source>Artificial Intelligence 96, 229-299</source>
+<citations></citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Learning fast neural network emulators for physics-based models</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=320&amp;citation_for_view=JicYPdAAAAAJ:_axFR9aDTf0C</link>
+<authors>R Grzezczuk, D Terzopoulos, G Hinton</authors>
+<source>ACM SIGGRAPH 97 Visual Proceedings: The art and interdisciplinary programs ...</source>
+<citations></citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Using Neural Networks to Monitor for Rare Failures</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=320&amp;citation_for_view=JicYPdAAAAAJ:DJbcl8HfkQkC</link>
+<authors>GE Hinton, BJ Frey</authors>
+<source>MECHANICAL WORKING AND STEEL PROCESSING CONFERENCE PROCEEDINGS, 545-548</source>
+<citations></citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Glove-TalkII: Mapping Hand Gesture to Speech Using Neural Networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=320&amp;citation_for_view=JicYPdAAAAAJ:3htObqc8RwsC</link>
+<authors>S Sidney Fels, G Hinton</authors>
+<source>ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS, 843-850</source>
+<citations></citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Book Review of Introduction to Neural and Cognitive Modeling (DS Levine)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=320&amp;citation_for_view=JicYPdAAAAAJ:YlPif8NxrbYC</link>
+<authors>S Ahmad, T Sejnowski, G Hinton, S Becker</authors>
+<source>Artificial Intelligence 62, 391-392</source>
+<citations></citations>
+<pub_year>1993</pub_year>
+</record>
+<record>
+<title>Neural-net neighbors learn from each other</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=320&amp;citation_for_view=JicYPdAAAAAJ:NMlhSUseqAsC</link>
+<authors>S Becker, GE Hinton</authors>
+<source>Science News 500, 23</source>
+<citations></citations>
+<pub_year>1992</pub_year>
+</record>
+<record>
+<title>Learning spatially coherent properties of the visual world in connectionist networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=320&amp;citation_for_view=JicYPdAAAAAJ:HIFyuExEbWQC</link>
+<authors>S Becker, GE Hinton</authors>
+<source>San Diego,'91, San Diego, CA, 218-226</source>
+<citations></citations>
+<pub_year>1991</pub_year>
+</record>
+<record>
+<title>Artificial Neural Networks, 2 I. Aleksander and J. Taylor (Editors)© 1992 Elsevier Science Publishers BV All rights reserved. 53</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=320&amp;citation_for_view=JicYPdAAAAAJ:eO3_k5sD8BwC</link>
+<authors>GE Hinton, CKI Williams, MD Revow</authors>
+<source>Proceedings of the International Conference on Artificial Neural Networks 1, 53</source>
+<citations></citations>
+<pub_year>1991</pub_year>
+</record>
+<record>
+<title>The Development of the Time-Delayed Neural Network Architecture</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=320&amp;citation_for_view=JicYPdAAAAAJ:i2xiXl-TujoC</link>
+<authors>G Hinton, JL McClelland</authors>
+<source>CARNEGIE-MELLON UNIV PITTSBURGH PA DEPT OF COMPUTER SCIENCE</source>
+<citations></citations>
+<pub_year>1990</pub_year>
+</record>
+<record>
+<title>Connectionist Models: Proceedings of the Summer School Held in San Diego, California on 1990</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=340&amp;citation_for_view=JicYPdAAAAAJ:kVjdVfd2voEC</link>
+<authors>DS Touretzky, JL Elman, TJ SeJnowski, GE Hinton</authors>
+<source>CALIFORNIA UNIV SAN DIEGO LA JOLLA</source>
+<citations></citations>
+<pub_year>1990</pub_year>
+</record>
+<record>
+<title>The development of the time-delayed neural network architecture(Final Report)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=340&amp;citation_for_view=JicYPdAAAAAJ:_FM0Bhl9EiAC</link>
+<authors>G HINTON, J MCCLELLAND, K LANG</authors>
+<source></source>
+<citations></citations>
+<pub_year>1990</pub_year>
+</record>
+<record>
+<title>Proceedings of the Connectionists Models Summer School Held in Pittsburgh, Pennsylvania on June 17-26, 1988</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=340&amp;citation_for_view=JicYPdAAAAAJ:nRpfm8aw39MC</link>
+<authors>D Touretzky, G Hinton, T Sejnowski</authors>
+<source>CARNEGIE-MELLON UNIV PITTSBURGH PA DEPT OF COMPUTER SCIENCE</source>
+<citations></citations>
+<pub_year>1989</pub_year>
+</record>
+<record>
+<title>Proceedings of the 1988 Connectionist Models Summer School: Summer School June 17-26, 1988, Carnegie Mellon University</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=340&amp;citation_for_view=JicYPdAAAAAJ:unp9ATQDT5gC</link>
+<authors></authors>
+<source>Morgan Kaufmann</source>
+<citations></citations>
+<pub_year>1989</pub_year>
+</record>
+<record>
+<title>Proceedings of the 1988 Connectionist Models Summer School</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=340&amp;citation_for_view=JicYPdAAAAAJ:TlpoogIpr_IC</link>
+<authors>David. Touretzsky, GE Hinton, TTJ Sejnowski</authors>
+<source>M. Kaufmann</source>
+<citations></citations>
+<pub_year>1989</pub_year>
+</record>
+<record>
+<title>ASSOCIATION OF COMMONWEALTH UNIVERSITIES.-History SPRINGER, Sir, Hugh W.. 1913(Hugh Worrell) The commonwealth of universities: the story of</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=340&amp;citation_for_view=JicYPdAAAAAJ:NDuN12AVoxsC</link>
+<authors>GE Hinton, JA Anderson, NJ Hillsdale, M AGOSIN</authors>
+<source>A London Bibliography of the Social Sciences, 43</source>
+<citations></citations>
+<pub_year>1988</pub_year>
+</record>
+<record>
+<title>KEVIN J. LANG AND ALEX H. WAIBEI.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=340&amp;citation_for_view=JicYPdAAAAAJ:ziOE8S1-AIUC</link>
+<authors>GE HINTON</authors>
+<source>Neural networks: theoretical foundations and analysis, 388</source>
+<citations></citations>
+<pub_year>1987</pub_year>
+</record>
+<record>
+<title>Pittsburgh, PA 15213</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=340&amp;citation_for_view=JicYPdAAAAAJ:-6RzNnnwWf8C</link>
+<authors>DC Plant, SJ Now1an, GE Hinton</authors>
+<source></source>
+<citations></citations>
+<pub_year>1986</pub_year>
+</record>
+<record>
+<title>Three frames suffice</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=340&amp;citation_for_view=JicYPdAAAAAJ:wMgC3FpKEyYC</link>
+<authors>GE Hinton</authors>
+<source>Behavioral and Brain Sciences 8 (02), 296-297</source>
+<citations></citations>
+<pub_year>1985</pub_year>
+</record>
+<record>
+<title>Thanks to our guest reviewers</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=340&amp;citation_for_view=JicYPdAAAAAJ:eAlLMO4JVmQC</link>
+<authors>F Attneave, A Baddeley, R Baillargeon, R Berwick, M Bowerman, D Bradley, A ...</authors>
+<source>Cognition 19, 205</source>
+<citations></citations>
+<pub_year>1985</pub_year>
+</record>
+<record>
+<title>Technicaliteport_Clvil. ljCS,-Sfljll9</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=340&amp;citation_for_view=JicYPdAAAAAJ:AzKEL7Gb_04C</link>
+<authors>GE Hinton, DH Ackley</authors>
+<source></source>
+<citations></citations>
+<pub_year>1984</pub_year>
+</record>
+<record>
+<title>SYMPOSIUM: CONNECTIONISH VERSUS RULES: THE NATURE OF THEORY ON COGNITIVE SCIENCE</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=340&amp;citation_for_view=JicYPdAAAAAJ:AHdEip9mkN0C</link>
+<authors>D Rumelhart, G Hinton, Z Pylyshyn</authors>
+<source>Proceedings of the... Annual Conference of the Cognitive Science Society 6, 58</source>
+<citations></citations>
+<pub_year>1984</pub_year>
+</record>
+<record>
+<title>Why the islands move</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=340&amp;citation_for_view=JicYPdAAAAAJ:r_AWSJRzSzQC</link>
+<authors>GE Hinton</authors>
+<source>Perception 13, 629-632</source>
+<citations></citations>
+<pub_year>1984</pub_year>
+</record>
+<record>
+<title>Using an autoencoder with deformable templates to discover features for automated speech recognition</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=340&amp;citation_for_view=JicYPdAAAAAJ:zwpXiJ37cpgC</link>
+<authors>N Jaitly, GE Hinton</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Vocal Tract Length Perturbation (VTLP) improves speech recognition</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=340&amp;citation_for_view=JicYPdAAAAAJ:NxmKEeNBbOMC</link>
+<authors>N Jaitly, GE Hinton</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Acknowledgement: Guest Reviewers</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=340&amp;citation_for_view=JicYPdAAAAAJ:z6xuaG2dYH0C</link>
+<authors>M Adams, RC Moore, J Allan, P Murray, J Anderson, D Neves, G Balzano, RS ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>JG CARBONELL</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=340&amp;citation_for_view=JicYPdAAAAAJ:qE4H1tSSYIIC</link>
+<authors>S AMAREL, Y ANZAI, H BERLINER, RS BOYER, R BRACHMAN, BG BUCHANAN, A BUNDY ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Daniel G. BOBROW Xerox Corporation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=340&amp;citation_for_view=JicYPdAAAAAJ:Wq2b2clWBLsC</link>
+<authors>AG COHN, LC AIELLO, Y ANZAI, RK BAJCSY, R BRACHMAN, I BRATKO, BG BUCHANAN, A ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>JG CARBONELL</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=340&amp;citation_for_view=JicYPdAAAAAJ:C33y2ycGS3YC</link>
+<authors>LC AIELLO, S AMAREL, Y ANZAI, HG BARROW, H BERLINER, RS BOYER, R BRACHMAN ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>DANIEL G. BOBROW</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=340&amp;citation_for_view=JicYPdAAAAAJ:AYInfyleIOsC</link>
+<authors>M BRADY, W BIBEL, MJ STEF1K, J DE KLEER, R DUDA, L ERMAN, EA FEIGENBAUM, MR ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>A. BUNDY</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=360&amp;citation_for_view=JicYPdAAAAAJ:isU91gLudPYC</link>
+<authors>LC AIELLO, S AMAREL, Y ANZAI, RK BAJCSY, HG BARROW, H BERLINER, RSB BOYER, R ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Johnson-Laird, PN, 173</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=360&amp;citation_for_view=JicYPdAAAAAJ:RJOyoaXV5v8C</link>
+<authors>RP Abelson, JB Black, DG Bobrow, R Chaffin, PR Cohen, BN Colby, G DeJong, JW ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>JG CAREONELL</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=360&amp;citation_for_view=JicYPdAAAAAJ:2ywjKiB__4kC</link>
+<authors>LC AIELLO, S AMAREL, Y ANZAI, HG BARROW, H BERLINER, RSB BOYER, R BRACHMAN ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>WJ CLANCEY institute for Research on Learning Palo Alto, CA, USA</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=360&amp;citation_for_view=JicYPdAAAAAJ:0aBXIfxlw9sC</link>
+<authors>MA AIZERMAN, S AMAREL, HG BARROW, H BERLINER, WW BLEDSOE, RS BOYER, R ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Daniel G. BOBROW</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=360&amp;citation_for_view=JicYPdAAAAAJ:eGYfIraVYiQC</link>
+<authors>LC AIELLO, S AMAREL, HG BARROW, H BERLINER, RS BOYER, R BRACHMAN, BG ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>R. DAVIS Al Lab, MIT Cambridge, MA, USA</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=360&amp;citation_for_view=JicYPdAAAAAJ:1tZ8xJnm2c8C</link>
+<authors>R DECHTER, R MOORE, S MUGGLETON, J DE KLEER, KD FORBUS, AG COHN, MR ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>WJ CLANCEY</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=360&amp;citation_for_view=JicYPdAAAAAJ:ghEM2AJqZyQC</link>
+<authors>MA AIZERMAN, S AMAREL, HG BARROW, H BERLINER, WW BLEDSOE, RS BOYER, R ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>JG CAREONELL</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=360&amp;citation_for_view=JicYPdAAAAAJ:wE-fMHVdjMkC</link>
+<authors>AG COHN, LC AIELLO, Y ANZAI, RK BAJCSY, HG BARROW, H BERLINER, RSB BOYER, R ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Stephen Grossberg</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=360&amp;citation_for_view=JicYPdAAAAAJ:kJDgFkosVoMC</link>
+<authors>N Suga, KJ Lang, AH Waibel, GE Hinton, JA Marshall, DB Tweed, T Vilis, DM ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>R. DAVIS Al Lab, MIT Cambridge, MA, USA</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=360&amp;citation_for_view=JicYPdAAAAAJ:zdjWy_NXXwUC</link>
+<authors>AG COHN, LC AIELLO, Y ANZAI, RK BAJCSY, R BRACHMAN, I BRATKO, BG BUCHANAN, A ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>GE Hinton Preface to the Special Issue on Connectionist Symbol Processing DS Touretzky BoltzCONS: Dynamic symbol structures in a connectionist network</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=360&amp;citation_for_view=JicYPdAAAAAJ:X9ykpCP0fEIC</link>
+<authors>GE Hinton, JB Pollack, M Derthick, P Smolensky, MFS John, JL McClelland, P ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>WJ CLANCEY</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=360&amp;citation_for_view=JicYPdAAAAAJ:-DxkuPiZhfEC</link>
+<authors>A LC, S AMAREL, Y ANZAI, HG BARROW, H BERLINER, RS BOYER, R BRACHMAN, BG ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>BG BUCHANAN</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=360&amp;citation_for_view=JicYPdAAAAAJ:v6i8RKmR8ToC</link>
+<authors>LC AIELLO, Y ANZAI, RK BAJCSY, HG BARROW, H BERLINER, RSB BOYER, R BRACHMAN ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>JG CARBONELL Carnegie-Mellon llniversity Pittsburgh, PA, USA</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=360&amp;citation_for_view=JicYPdAAAAAJ:hSRAE-fF4OAC</link>
+<authors>AG COHN, LC AIELLO, Y ANZAI, RK BAJCSY, HG BARROW, H BERLINER, RSB BOYER, R ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>WJ CLANCEY</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=360&amp;citation_for_view=JicYPdAAAAAJ:qwy9JoKyICEC</link>
+<authors>LC AIELLO, S AMAREL, Y ANZAI, HG BARROW, H BERLINER, RS BOYER, R BRACHMAN ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>JG GARBONELL</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=360&amp;citation_for_view=JicYPdAAAAAJ:g5Ck-dwhA_QC</link>
+<authors>AG COHN, LC AIELLO, Y ANZAI, RK BAJCSY, HG BARROW, H BERLINER, RSB BOYER, R ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Daniel G. BOBROW</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=360&amp;citation_for_view=JicYPdAAAAAJ:2v_ZtQDX9iAC</link>
+<authors>MA AIZERMAN, S AMAREL, HG BARROW, H BERLINER, WW BLEDSOE, RS BOYER, R ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>AG COHN</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=360&amp;citation_for_view=JicYPdAAAAAJ:8Xgff_V0N9gC</link>
+<authors>LC AIELLO, Y ANZAI, RK BAJCSY, R BRACHMAN, I BRATKO, BG BUCHANAN, A BUNDY ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>JG CARBONELL</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=360&amp;citation_for_view=JicYPdAAAAAJ:Xz60mAmATU4C</link>
+<authors>AG COHN, LC AIELLO, B GROSZ, JY HALPERN, Y ANZAI, PJ HAYES, RK BAJCSY, B ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Rarearch Notes Editor Wolfgang BIBEL</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=360&amp;citation_for_view=JicYPdAAAAAJ:qe6vwMD2xtsC</link>
+<authors>LC AIELLO, S AMAREL, Y ANZAI, RK BAJCSY, HG BARROW, H BERLINER, RSB BOYER, R ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Associate Editor Michael BRADY</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=380&amp;citation_for_view=JicYPdAAAAAJ:CYCckWUYoCcC</link>
+<authors>AG COHN, LC AIELLO, JY HALPERN, Y ANZAI, PJ HAYES, RK BAJCSY, HG BARROW, G ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>On the importance of initialization and momentum in deep learning</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=380&amp;citation_for_view=JicYPdAAAAAJ:DyXnQzXoVgIC</link>
+<authors>I Sutskever, J Martens, G Dahl, G Hinton</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Tensor Analyzers</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=380&amp;citation_for_view=JicYPdAAAAAJ:LXmCCkuhhTsC</link>
+<authors>Y Tang, R Salakhutdinov, G Hinton</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Fast Inference and Learning for Modeling Documents with a Deep Boltzmann Machine</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=380&amp;citation_for_view=JicYPdAAAAAJ:65Yg0jNCQDAC</link>
+<authors>N Srivastava, R Salakhutdinov, G Hinton</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Ackley, DH, 147 Adelson, B., 417</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=380&amp;citation_for_view=JicYPdAAAAAJ:pS0ncopqnHgC</link>
+<authors>MA Arbib, W Bechtel, RJ Brachman, K Dahlgren, GS Dell, GE Hinton, FC Keil ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Acknowledgement: Guest Reviewers</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=380&amp;citation_for_view=JicYPdAAAAAJ:SGW5VrABaM0C</link>
+<authors>J Andrews, D Appelt, A Baddeley, GJ Balzano, HB Barlow, J Baron, A Barto, W ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>BoltzCONS: Dynamic Symbol Structures in a Connectionist Network</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=380&amp;citation_for_view=JicYPdAAAAAJ:YsrPvlHIBpEC</link>
+<authors>G Hinton</authors>
+<source>MIT Press</source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>ImageNet Classiﬁcation with Deep Convolutional Neural Networks Alex Krizhevsky University of Toronto kriz@ cs. utoronto. ca</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=380&amp;citation_for_view=JicYPdAAAAAJ:w1MjKQ0l0TYC</link>
+<authors>I Sutskever, GE Hinton</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>A new way to learn acoustic events</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=380&amp;citation_for_view=JicYPdAAAAAJ:FiDNX6EVdGUC</link>
+<authors>N Jaitly, GE Hinton</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Admowledgement: Guest Reviewers</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=380&amp;citation_for_view=JicYPdAAAAAJ:1Ye0OR6EYb4C</link>
+<authors>J Allen, E Andersen, R Beer, T Ben-Zeev, R Berman, P Bloom, M Brent, B B&amp;ton ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Acknowledgement: Guest Reviewers</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=380&amp;citation_for_view=JicYPdAAAAAJ:DBa1UEJaJKAC</link>
+<authors>D Appelt, D Ballard, J Barnden, L Barsalou, A Bobick, D Bobrow, R Brachman ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>E -Jgjfssl -y Cw. 117-tae.\, I987./tttttttttt,/trt</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=380&amp;citation_for_view=JicYPdAAAAAJ:-mN3Mh-tlDkC</link>
+<authors>GE Hinton, DC Plaut</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>THROUGH MATRIX INVERSION AFTER NOISE INJECTION</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=380&amp;citation_for_view=JicYPdAAAAAJ:PYBJJbyH-FwC</link>
+<authors>Y Le Cun, CC Galland, GE Hinton</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Inaugural Editorial: Riding the Tidal Wave of Human-Centric Information ProcessingInnovate, Outreach, Collaborate</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=380&amp;citation_for_view=JicYPdAAAAAJ:MhiOAD_qIWkC</link>
+<authors>D Yu, G Hinton, N Morgan, JT Chien, S Sagayama</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>A Modiﬁed Model for Mixtures of Experts: New Gating Net,-EM Algorithm and Piecewise Function Approximations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=380&amp;citation_for_view=JicYPdAAAAAJ:7BrZ7Jt4UNcC</link>
+<authors>L Xul, MI Jordanl, GE Hinton</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>a Data-Glove and a Speech Synthesizer</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=380&amp;citation_for_view=JicYPdAAAAAJ:MpfHP-DdYjUC</link>
+<authors>SS Fels, GE Hinton</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Deep Generative Models for Modeling Animate Motion</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=380&amp;citation_for_view=JicYPdAAAAAJ:CaZNVDsoPx4C</link>
+<authors>GW Taylor, GE Hinton, S Roweis</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>The Helmholtz Machine Through Time</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=380&amp;citation_for_view=JicYPdAAAAAJ:BJbdYPG6LGMC</link>
+<authors>GEHP Dayaii, A To, R Neal</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>A Bayesian Unsupervised Learning Algorithm that Scales</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=380&amp;citation_for_view=JicYPdAAAAAJ:mNrWkgRL2YcC</link>
+<authors>Z Ghahramani, GE Hinton</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Local Physical Models for Interactive Character Animation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=380&amp;citation_for_view=JicYPdAAAAAJ:4vMrXwiscB8C</link>
+<authors>SOD Terzopoulos, G Hinton</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Glove-TalkII: Mapping Hand Gestures to Speech Using Neural Networks S. Sidney Fels Department of Computer Science University of Toronto</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=400&amp;citation_for_view=JicYPdAAAAAJ:dBIO0h50nwkC</link>
+<authors>G Hinton</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Artificial Intelligence: Neural Networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=400&amp;citation_for_view=JicYPdAAAAAJ:FAceZFleit8C</link>
+<authors>G Hinton</authors>
+<source>Van Nostrand's Scientific Encyclopedia</source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Fast Neural Network Emulation and Control of Dynamical Systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=JicYPdAAAAAJ&amp;cstart=400&amp;citation_for_view=JicYPdAAAAAJ:xtoqd-5pKcoC</link>
+<authors>R Grzeszczuk, D Terzopoulos, G Hinton</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+</file>

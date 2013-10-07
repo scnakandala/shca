@@ -1,0 +1,5017 @@
+RT Journal Article
+ID 57025156
+A1 Pan,Wei
+A1 Dong,Wen
+A1 Cebrian,Manuel
+A1 Kim,Taemie
+A1 Fowler,James
+A1 Pentland,Alex
+YR 2012
+T1 Modeling Dynamical Influence in Human Interaction: Using data to make better inferences about influence within social systems
+JF IEEE Signal Processing Magazine
+VO 29
+SP 77
+OP 86
+IS 2
+
+RT Journal Article
+ID 57560431
+A1 Puzis,Rami
+A1 Altshuler,Yaniv
+A1 Elovici,Yuval
+A1 Bekhor,Shlomo
+A1 Shiftan,Yoram
+A1 Pentland,Alex
+YR 2012
+T1 Augmented Betweenness Centrality for Environmentally-Aware Traffic Monitoring in Transportation Networks
+JF Journal of Intelligent Transportation Systems
+VO just-accep
+IS just-accep
+
+RT Journal Article
+ID 56947039
+A1 Lukowicz,Paul
+A1 Pentland,Sandy
+A1 Ferscha,Alois
+YR 2012
+T1 From Context Awareness to Socially Aware Computing
+JF IEEE Pervasive Computing
+VO 11
+SP 32
+OP 41
+IS 1
+
+RT Journal Article
+ID 57404426
+A1 Krumme,Coco
+A1 Cebrian,Manuel
+A1 Pickard,Galen
+A1 Pentland,Sandy
+YR 2012
+T1 Quantifying Social Influence in an Online Cultural Market
+JF PLOS One
+VO 7
+IS 5
+
+RT Conference Proceedings
+ID 56976828
+A1 Dong,Wen
+A1 Lepri,Bruno
+A1 Kim,Taemie
+A1 Pianesi,Fabio
+A1 Pentland,Alex,Sandy
+YR 2012
+T1 Modeling conversational dynamics and performance in a Social Dilemma task
+
+RT Journal Article
+ID 57024709
+A1 Pentland,Alex
+YR 2012
+T1 Social Efficiency: Rules for Designing Social Networks and Social Media [Social Sciences]
+JF IEEE Signal Processing Magazine
+VO 29
+SP 146
+OP 147
+IS 2
+
+RT Journal Article
+ID 56904645
+A1 Aharony,Nadav
+A1 Pan,Wei
+A1 Ip,Cory
+A1 Khayal,Inas
+A1 Pentland,Alex
+YR 2011
+T1 The social fMRI: measuring, understanding, and designing social mechanisms in the real world
+SP 445
+OP 454
+
+RT Journal Article
+ID 51182106
+A1 Cebrian,Manuel
+A1 Pentland,Alex
+YR 2011
+T1 Engineering trade-offs in social organization: The beginnings of a computational social science
+JF IEEE Instrumentation & Measurement Magazine
+VO 14
+SP 18
+OP 21
+IS 3
+
+RT Journal Article
+ID 53929886
+A1 Pan,Wei
+A1 Aharony,Nadav
+A1 Pentland,Alex
+YR 2011
+T1 Composite Social Network for Predicting Mobile Apps Installation
+
+RT Conference Proceedings
+ID 39276523
+A1 Pentland,Alex
+YR 2011
+T1 A nervous system for humanity: Making health, financial, logistics, and transportation networks work
+
+RT Journal Article
+ID 13319372
+A1 Paradiso,Joseph,A.
+A1 Gips,Jonathan
+A1 Laibowitz,Mathew
+A1 Sadi,Sajid
+A1 Merrill,David
+A1 Aylward,Ryan
+A1 Maes,Pattie
+A1 Pentland,Alex
+YR 2010
+T1 Identifying and facilitating social interaction with a wearable wireless sensor network
+JF Personal and Ubiquitous Computing
+VO 14
+SP 137
+OP 152
+IS 2
+
+RT Journal Article
+ID 5648293
+A1 Gloor,Peter,A.
+A1 Oster,Daniel
+A1 Raz,Ornit
+A1 Pentland,Alex
+A1 Schoder,Detlef
+YR 2010
+T1 The Virtual Mirror: Reflecting on the Social and Psychological Self to Increase Organizational Creativity
+JF International Studies of Management and Organization
+VO 40
+SP 74
+OP 94
+IS 2
+
+RT Journal Article
+ID 27628880
+A1 Mani,Ankur
+A1 Ozdaglar,Asuman,E.
+A1 Pentland,Alex
+A1 Pentland
+YR 2010
+T1 Generalized Stable Matching in Bipartite Networks
+VO abs/1011.3
+
+RT Journal Article
+ID 13761898
+A1 Pickard,Galen
+A1 Rahwan,Iyad
+A1 Pan,Wei
+A1 Cebrian,Manuel
+A1 Crane,Riley
+A1 Madan,Anmol
+A1 Pentland,Alex
+YR 2010
+T1 Time Critical Social Mobilization: The DARPA Network Challenge Winning Strategy
+JF Computing Research Repository
+VO abs/1008.3
+
+RT Journal Article
+ID 15190400
+A1 Eagle,N.
+A1 Clauset,A.
+A1 Pentland,A.
+A1 Lazer,D.
+YR 2010
+T1 Reply to adams: Multidimensional edge inference
+JF Proceedings of The National Academy of Sciences
+VO 107
+SP 31
+IS 9
+
+RT Journal Article
+ID 13758422
+A1 Cebrián,Manuel
+A1 Pentland,Alex
+A1 Kirkpatrick,Scott
+YR 2010
+T1 Disentangling Social Networks inferred from Call Logs
+JF Computing Research Repository
+VO abs/1008.1
+
+RT Journal Article
+ID 27101066
+A1 Liu,K.,J.,Ray
+A1 Bourlard,Hervé
+A1 Krishnamurthy,Vikram
+A1 Pentland,Alex
+A1 Wicker,Stephen
+YR 2010
+T1 Introduction to the Special Issue on Signal and Information Processing for Social Networks
+JF IEEE Journal of Selected Topics in Signal Processing
+VO 4
+SP 673
+OP 676
+IS 4
+
+RT Journal Article
+ID 13761926
+A1 Waber,Benjamin,N.
+A1 Pollock,Ellen
+A1 Cebrian,Manuel
+A1 Crane,Riley
+A1 Danon,Leon
+A1 Pentland,Alex
+YR 2010
+T1 Modeling Corporate Epidemiology
+JF Computing Research Repository
+VO abs/1008.3
+
+RT Conference Proceedings
+ID 13989038
+A1 Madan,Anmol
+A1 Cebrián,Manuel
+A1 Lazer,David
+A1 Pentland,Alex
+YR 2010
+T1 Social sensing for epidemiological behavior change
+SP 291
+OP 300
+
+RT Journal Article
+ID 27628491
+A1 Mani,Ankur
+A1 Ozdaglar,Asuman,E.
+A1 Pentland,Alex
+A1 Pentland
+YR 2010
+T1 Existence of Stable Exclusive Bilateral Exchanges in Networks
+JF Computing Research Repository
+VO abs/1011.2
+
+RT Conference Proceedings
+ID 39236215
+A1 Pantic,Maja
+A1 Vinciarelli,Alessandro
+A1 Pentland,Alex
+YR 2010
+T1 MM'10 workshop summary for SSPW: ACM workshop on social signal processing 2010
+SP 1765
+OP 1766
+
+RT Journal Article
+ID 27639757
+A1 Altshuler,Yaniv
+A1 Aharony,Nadav
+A1 Elovici,Yuval
+A1 Pentland,Alex
+A1 Cebrian,Manuel
+YR 2010
+T1 Stealing Reality
+JF Computing Research Repository
+VO abs/1010.1
+
+RT Journal Article
+ID 14001350
+A1 Pan,Wei
+A1 Cebrian,Manuel
+A1 Dong,Wen
+A1 Kim,Taemie
+A1 Pentland,Alex
+YR 2010
+T1 Modeling Dynamical Influence in Human Interaction Patterns
+JF Computing Research Repository
+VO abs/1009.0
+
+RT Journal Article
+ID 13761859
+A1 Krumme,Coco
+A1 Cebrian,Manuel
+A1 Pentland,Alex
+YR 2010
+T1 Patterns of Individual Shopping Behavior
+JF Computing Research Repository
+VO abs/1008.2
+
+RT Journal Article
+ID 39246412
+A1 Pentland,Alex
+YR 2010
+T1 Kith and kin: how social networks make us smart
+SP 3
+OP 4
+
+RT Journal Article
+ID 4475940
+A1 Eagle,Nathan
+A1 Pentland,Alex,Sandy
+YR 2009
+T1 Eigenbehaviors: identifying structure in routine
+JF Behavioral Ecology and Sociobiology
+VO 63
+SP 1689
+OP 1689
+IS 11
+
+RT Journal Article
+ID 14375891
+A1 Olguín,Daniel,Olguín
+A1 Waber,Benjamin,N.
+A1 Kim,Taemie
+A1 Mohan,Akshay
+A1 Ara,Koji
+A1 Pentland,Alex
+YR 2009
+T1 Sensible Organizations: Technology and Methodology for Automatically Measuring Organizational Behavior
+JF IEEE Transactions on Systems, Man, and Cybernetics
+VO 39
+SP 43
+OP 55
+IS 1
+
+RT Journal Article
+ID 15089642
+A1 Lazer,D.
+A1 Pentland,A.
+A1 Adamic,L.
+A1 Aral,S.
+A1 Barabasi,A.-L.
+A1 Brewer,D.
+A1 Christakis,N.
+A1 Contractor,N.
+A1 Fowler,J.
+A1 Gutmann,M.
+A1 Jebara,T.
+A1 King,G.
+A1 Macy,M.
+A1 Roy,D.
+A1 Alstyne,M.,Van
+YR 2009
+T1 SOCIAL SCIENCE: Computational Social Science
+JF Science
+VO 323
+SP 721
+OP 723
+IS 5915
+
+RT Journal Article
+ID 15186252
+A1 Eagle,N.
+A1 Pentland,A.
+A1 Lazer,D.
+YR 2009
+T1 From the Cover: Inferring friendship network structure by using mobile phone data
+JF Proceedings of The National Academy of Sciences
+VO 106
+SP 15274
+OP 15278
+IS 36
+
+RT Journal Article
+ID 14375883
+A1 Pantic,Maja
+A1 Pentland,Alex
+A1 Nijholt,Anton
+YR 2009
+T1 Special Issue on Human Computing
+JF IEEE Transactions on Systems, Man, and Cybernetics
+VO 39
+SP 3
+OP 6
+IS 1
+
+RT Conference Proceedings
+ID 50771355
+A1 Olguin,Daniel,Olguin
+A1 Gloor,Peter,A.
+A1 Pentland,A.
+YR 2009
+T1 Wearable sensors for pervasive healthcare management
+
+RT Journal Article
+ID 5543353
+A1 Pentland,Alex
+A1 Lazer,David
+A1 Brewer,Devon
+A1 Heibeck,Tracy
+YR 2009
+T1 Using Reality Mining to Improve Public Health and Medicine
+
+RT Conference Proceedings
+ID 6056735
+A1 Kim,Taemie
+A1 Olguin,Daniel,Olguin
+A1 Waber,Benjamin,N.
+A1 Pentland,Alex
+YR 2009
+T1 Sensor-Based Feedback Systems in Organizational Computing
+SP 966
+OP 969
+
+RT Journal Article
+ID 13342322
+A1 Lazer,David
+A1 Pentland,Alex
+A1 Adamic,Lada
+A1 Aral,Sinan
+A1 Barabási,Albert-László
+A1 Christakis,Nicholas
+A1 Fowler,James
+A1 Gutmann,Myron
+A1 Jebara,Tony
+A1 King,Gary
+A1 Macy,Michael
+A1 Roy,Deb
+A1 Alstyne,Marshall,Van
+YR 2009
+T1 Supporting Online Material for Computational Social Science
+
+RT Journal Article
+ID 59644998
+A1 Pantic,M.
+A1 Pentland,A.
+A1 Nijholt,A.
+A1 Santos,E.
+YR 2009
+T1 Guest Editorial Special Issue on Human Computing
+JF IEEE Transactions on Systems, Man, and Cybernetics
+SP 3
+OP 6
+
+RT Journal Article
+ID 48493923
+A1 Eagle,Nathan
+A1 Pentland,Alex,Sandy
+YR 2009
+T1 Eigenbehaviors: identifying structure in routine
+JF Behavioral Ecology and Sociobiology
+VO 63
+SP 1057
+OP 1066
+IS 7
+
+RT Conference Proceedings
+ID 5687605
+A1 Dong,Wen
+A1 Kim,Taemie
+A1 Pentland,Alex
+YR 2009
+T1 A quantitative analysis of the collective creativity in playing 20-questions games
+SP 365
+OP 366
+
+RT Book, Whole
+ID 39251089
+A1 Pentland,Alex
+A1 Heibeck,Tracy
+YR 2008
+T1 Honest Signals - How They Shape Our World
+
+RT Journal Article
+ID 4302151
+A1 Vinciarelli,Alessandro
+A1 Pantic,Maja
+A1 Bourlard,Hervé
+A1 Pentland,Alex
+YR 2008
+T1 Social signal processing: state-of-the-art and future perspectives of an emerging domain
+JF Sigir Forum
+SP 1061
+OP 1070
+
+RT Journal Article
+ID 4278209
+A1 Vinciarelli,Alessandro
+A1 Pantic,Maja
+A1 Bourlard,Hervé
+A1 Pentland,Alex
+YR 2008
+T1 Social signals, their function, and automatic analysis: a survey
+JF Sigir Forum
+SP 61
+OP 68
+
+RT Journal Article
+ID 5708396
+A1 Pantic,Maja
+A1 Nijholt,Anton
+A1 Pentland,Alex
+A1 Huanag,Thomas,S.
+YR 2008
+T1 Human-Centred Intelligent Human-Computer Interaction (HCI²): how far are we from attaining it?
+JF International Journal of Autonomous and Adaptive Communications Systems
+VO 1
+SP 168
+OP 187
+IS 2
+
+RT Journal Article
+ID 4893963
+A1 Olguin,Daniel,Olguin
+A1 Pentland,Alex
+YR 2008
+T1 Social Sensors for Automatic Data Collection
+
+RT Journal Article
+ID 5560369
+A1 Wu,Lynn
+A1 Waber,Ben
+A1 Aral,Sinan
+A1 Brynjolfsson,Erik
+A1 Pentland,Sandy
+YR 2008
+T1 Mining Face-to-Face Interaction Networks Using Sociometric Badges: Evidence Predicting Productivity in IT Configuration
+
+RT Book, Whole
+ID 2488606
+A1 Pantic,Maja
+A1 Pentland,Alex
+A1 Nijholt,Anton
+A1 Huang,Thomas,S.
+A1 Huang,Th.,S.
+YR 2007
+T1 Human Computing and Machine Understanding of Human Behavior: A Survey
+SP 47
+OP 71
+
+RT Journal Article
+ID 5436552
+A1 Curhan,Jared,R.
+A1 Pentland,Alex
+YR 2007
+T1 Thin Slices of Negotiation: Predicting Outcomes From Conversational Dynamics Within the First 5 Minutes
+JF Journal of Applied Psychology
+VO 92
+SP 802
+OP 811
+IS 3
+
+RT Conference Proceedings
+ID 4278130
+A1 Dong,Wen
+A1 Lepri,Bruno
+A1 Cappelletti,Alessandro
+A1 Pentland,Alex,Sandy
+A1 Pianesi,Fabio
+A1 Zancanaro,Massimo
+YR 2007
+T1 Using the influence model to recognize functional roles in meetings
+SP 271
+OP 278
+
+RT Journal Article
+ID 38553867
+A1 Pentland,Alex
+YR 2007
+T1 On the Collective Nature of Human Intelligence
+JF Adaptive Behavior
+VO 15
+SP 189
+OP 198
+IS 2
+
+RT Book, Whole
+ID 2488601
+A1 Dong,Wen
+A1 Pentland,Alex
+YR 2007
+T1 Modeling Influence Between Experts
+SP 170
+OP 189
+
+RT Book, Whole
+ID 2488603
+A1 Maat,Ludo
+A1 Pantic,Maja
+A1 Huang,T.,S
+A1 Nijholt,A.
+A1 Pentland,A.
+YR 2007
+T1 Gaze-X: Adaptive, Affective, Multimodal Interface for Single-User Office Scenarios
+SP 251
+OP 271
+
+RT Book, Whole
+ID 2488607
+A1 Poppe,Ronald
+A1 Rienks,Rutger
+A1 Dijk,Betsy,Van
+A1 Huang,T.,S.
+A1 Nijholt,A.
+A1 Pantic,M.
+A1 Pentland,A.
+YR 2007
+T1 Evaluating the Future of HCI: Challenges for the Evaluation of Emerging Applications
+SP 234
+OP 250
+
+RT Journal Article
+ID 12656199
+A1 Paul,Vet,van,der
+A1 Kulyk,Olga
+A1 Wassink,Ingo
+A1 Fikkert,Wim
+A1 Rauwerda,Han
+A1 Betsy,Dijk,van
+A1 Gerrit,Veer,van,der
+A1 Breit,Timo
+A1 Nijholt,Anton
+A1 Huang,Thomas,S.
+A1 Pantic,Maja
+A1 Pentland,Alex
+YR 2007
+T1 Smart Environments for Collaborative Design, Implementation, and Interpretation of Scientific Experiments
+JF Sigir Forum
+
+RT Journal Article
+ID 4550449
+A1 Pantic,Maja
+A1 Pentland,Alex
+A1 Nijholt,Anton
+A1 Huang,Thomas
+YR 2007
+T1 Machine Understanding of Human Behavior
+JF Journal of Object-oriented Programming
+
+RT Journal Article
+ID 27096237
+A1 Pentland,Alex
+YR 2007
+T1 Social Signal Processing [Exploratory DSP]
+JF IEEE Signal Processing Magazine
+VO 24
+SP 108
+OP 111
+IS 4
+
+RT Journal Article
+ID 22617778
+A1 Li,Huixiang
+A1 Nelson,Edward
+A1 Pentland,Alice
+A1 Buskirk,Joanne,Van
+A1 Rothberg,Lewis
+YR 2007
+T1 Assays Based on Differential Adsorption of Single-stranded and Double-stranded DNA on Unfunctionalized Gold Nanoparticles in a Colloidal Suspension
+JF Plasmonics
+VO 2
+SP 165
+OP 171
+IS 4
+
+RT Book, Whole
+ID 2488608
+A1 Reidsma,Dennis
+A1 Ruttkay,Zsófia
+A1 Nijholt,Anton
+A1 Huang,T.
+A1 Pantic,M.
+A1 Pentland,A.
+YR 2007
+T1 Challenges for Virtual Humans in Human Computing
+SP 316
+OP 338
+
+RT Book, Whole
+ID 2488596
+A1 Akker,Rieks,Op,Den
+A1 Heylen,Dirk
+A1 Pantic,Maja
+A1 Pentland,Alex
+A1 Nijholt,Anton
+A1 Huang,Thomas,S.
+YR 2007
+T1 Feedback Loops in Communication and Human Computing
+SP 215
+OP 233
+
+RT Conference Proceedings
+ID 13265107
+A1 Huang,Thomas,S.
+A1 Nijholt,Anton
+A1 Pantic,Maja
+A1 Pentland,Alex
+YR 2007
+T1 Artifical Intelligence for Human Computing, ICMI 2006 and IJCAI 2007 International Workshops, Banff, Canada, November 3, 2006, Hyderabad, India, January 6, 2007, Revised Seleced and Invited Papers
+
+RT Journal Article
+ID 2441030
+A1 Pantic,Maja
+A1 Pentland,Alex
+A1 Nijholt,Anton
+A1 Huang,Thomas,S.
+A1 Quek,F.
+A1 Yang,Yie
+YR 2006
+T1 Human computing and machine understanding of human behavior: a survey
+JF Ai & Society
+SP 239
+OP 248
+
+RT Conference Proceedings
+ID 2185122
+A1 Laibowitz,Mathew
+A1 Gips,Jonathan
+A1 Aylward,Ryan
+A1 Pentland,Alex
+A1 Paradiso,Joseph,A.
+YR 2006
+T1 A sensor network for social dynamics
+SP 483
+OP 491
+
+RT Conference Proceedings
+ID 1855228
+A1 Gips,Jonathan
+A1 Pentland,Alex
+YR 2006
+T1 Mapping Human Networks
+SP 159
+OP 168
+
+RT Journal Article
+ID 6074992
+A1 Blum,Mark
+A1 Pentland,Alex
+A1 Tröster,Gerhard
+YR 2006
+T1 InSense: Interest-Based Life Logging
+JF IEEE Multimedia
+VO 13
+SP 40
+OP 48
+IS 4
+
+RT Conference Proceedings
+ID 2459636
+A1 Madan,Anmol
+A1 Pentland,Alex
+YR 2006
+T1 VibeFones: Socially Aware Mobile Phones
+SP 109
+OP 112
+
+RT Journal Article
+ID 47011778
+A1 Pentland,A.
+YR 2006
+T1 Collective intelligence
+JF IEEE Computational Intelligence Magazine
+VO 1
+SP 9
+OP 12
+IS 3
+
+RT Conference Proceedings
+ID 2480362
+A1 Dong,Wen
+A1 Pentland,Alex
+YR 2006
+T1 Multisensor Data Fusion Using the Influence Model
+SP 72
+OP 75
+
+RT Conference Proceedings
+ID 2442869
+A1 Pentland,Alex
+YR 2006
+T1 A Computational Model of Social Signalin
+VO 1
+SP 1080
+OP 1083
+
+RT Conference Proceedings
+ID 2463734
+A1 Pentland,Alex
+A1 Gips,Jonathan
+A1 Dong,Wen
+A1 Stoltzman,Will
+YR 2006
+T1 Human computing for interactive digital media
+SP 865
+OP 870
+
+RT Conference Proceedings
+ID 50491038
+A1 Laibowitz,M.
+A1 Gips,J.
+A1 AyIward,R.
+A1 Pentland,A.
+A1 Paradiso,J.,A.
+YR 2006
+T1 A sensor network for social dynamics
+
+RT Journal Article
+ID 1431269
+A1 Eagle,Nathan
+A1 Pentland,Alex
+YR 2005
+T1 Social serendipity: mobilizing social software
+JF IEEE Pervasive Computing
+VO 4
+SP 28
+OP 34
+IS 2
+
+RT Journal Article
+ID 4503194
+A1 Sung,Michael
+A1 Marci,Carl
+A1 Pentland,Alex
+YR 2005
+T1 Wearable feedback systems for rehabilitation
+JF Journal of Neuroengineering and Rehabilitation
+VO 2
+SP 17
+OP 12
+IS 1
+
+RT Journal Article
+ID 39241897
+A1 Tan,Hong,Z.
+A1 Pentland,Alex
+YR 2005
+T1 Tactual displays for sensory substitution and wearable computers
+SP 105
+
+RT Journal Article
+ID 1706234
+A1 Pentland,Alex
+A1 Choudhury,Tanzeem
+A1 Eagle,Nathan
+A1 Singh,Push
+YR 2005
+T1 Human dynamics: computation for organizations: Human dynamics: computation for organizations
+JF Pattern Recognition Letters
+VO 26
+SP 503
+OP 511
+IS 4
+
+RT Journal Article
+ID 3560211
+A1 Pentland,A.
+A1 Madan,A.
+YR 2005
+T1 Perception of social interest
+
+RT Journal Article
+ID 13670013
+A1 Sung,M.
+A1 Gips,Jonathan
+A1 Eagle,Nathan
+A1 Madan,Anmol
+A1 Caneel,Ron
+A1 DeVaul,Richard,W.
+A1 Bonsen,J.
+A1 Pentland,Alex
+YR 2005
+T1 Mobile-IT Education (MIT. EDU): m-learning applications for classroom settings
+JF Journal of Computer Assisted Learning
+VO 21
+SP 229
+OP 237
+IS 3
+
+RT Journal Article
+ID 14389264
+A1 Pentland,A.
+YR 2005
+T1 Socially aware, computation and communication
+JF IEEE Computer
+VO 38
+SP 33
+OP 40
+IS 3
+
+RT Journal Article
+ID 57393902
+A1 Eagle,Nathan
+A1 Pentland,Alex
+YR 2005
+T1 Social Serendipity: Mobilizing Social Software
+VO 04
+
+RT Journal Article
+ID 848815
+A1 Pentland,Alex
+A1 Fletcher,Richard
+A1 Hasson,Amir
+YR 2004
+T1 DakNet: Rethinking Connectivity in Developing Nations
+JF IEEE Computer
+VO 37
+SP 78
+OP 83
+IS 1
+
+RT Journal Article
+ID 848884
+A1 Pentland,Alex
+YR 2004
+T1 Healthwear: Medical Technology Becomes Wearable
+JF IEEE Computer
+VO 37
+SP 42
+OP 49
+IS 5
+
+RT Journal Article
+ID 2381097
+A1 Pentland,Alex
+YR 2004
+T1 Social Dynamics: Signals and Behavior
+
+RT Journal Article
+ID 3758589
+A1 Eagle,Nathan
+A1 Pentland,Alex
+YR 2004
+T1 Social Serendipity: Proximity Sensing and Cueing
+
+RT Conference Proceedings
+ID 1808388
+A1 Sung,Michael
+A1 Devaul,Richard,W.
+A1 Jimenez,Silvia
+A1 Gips,Jonathan
+A1 Pentland,Alex
+YR 2004
+T1 Shiver Motion and Core Body Temperature Classification for Wearable Soldier Health Monitoring Systems
+VO 1
+SP 192
+OP 193
+
+RT Journal Article
+ID 28202953
+A1 Kumar,Vikram,S.
+A1 Wentzell,Katherine,J.
+A1 Mikkelsen,Tarjei
+A1 Pentland,Alex
+A1 Laffel,Lori,M.
+YR 2004
+T1 The DAILY (Daily Automated Intensive Log for Youth) Trial: A Wireless, Portable System to Improve Adherence and Glycemic Control in Youth with Diabetes
+JF Diabetes Technology & Therapeutics
+VO 6
+SP 445
+OP 453
+IS 4
+
+RT Journal Article
+ID 2139343
+A1 Choudhury,Tanzeem
+A1 Pentland,Alex
+YR 2004
+T1 Characterizing Social Interactions using the Sociometer
+
+RT Journal Article
+ID 46772141
+A1 Pentland,A
+YR 2004
+T1 Learning Communities — Understanding Information Flow in Human Networks
+JF Bt Technology Journal
+VO 22
+SP 62
+OP 70
+IS 4
+
+RT Journal Article
+ID 6481730
+A1 Pentland,Alex
+YR 2004
+T1 Social Dynamics: The Voice of Power and Influence
+
+RT Journal Article
+ID 46772142
+A1 Lippman,A
+A1 Pentland,A
+YR 2004
+T1 Organic Networks
+JF Bt Technology Journal
+VO 22
+SP 9
+OP 12
+IS 4
+
+RT Conference Proceedings
+ID 581691
+A1 Sung,Michael
+A1 Gips,Jonathan
+A1 Eagle,Nathan
+A1 Devaul,Richard,W.
+A1 Pentland,Sandy
+YR 2004
+T1 MIT.EDU: System Architecture for Real-World Distributed Multi-user Applications in Classroom Settings
+SP 43
+OP 50
+
+RT Conference Proceedings
+ID 1837606
+A1 Pentland,Alex
+YR 2004
+T1 The Transcendent Greek
+SP 1
+
+RT Conference Proceedings
+ID 1255821
+A1 Devaul,Richard,W.
+A1 Sung,Michael
+A1 Gips,Jonathan
+A1 Pentland,Alex
+YR 2003
+T1 MIThril 2003: Applications and Architecture
+SP 4
+OP 11
+
+RT Conference Proceedings
+ID 1808453
+A1 Choudhury,Tanzeem
+A1 Pentland,Alex
+YR 2003
+T1 Sensing and Modeling Human Networks using the Sociometer
+SP 216
+OP 222
+
+RT Journal Article
+ID 1252542
+A1 Hasson,A.,A.
+A1 Fletcher,R.
+A1 Pentland,A.
+YR 2003
+T1 Daknet: a road to universal broadband connectivity
+
+RT Book, Whole
+ID 13591
+A1 Eagle,Nathan
+A1 Pentland,Alex
+YR 2003
+T1 Social Network Computing
+SP 289
+OP 296
+
+RT Conference Proceedings
+ID 2091667
+A1 Choudhuryl,Tanzeem
+A1 Clarkson,Brian
+A1 Basu,Sumit
+A1 Pentland,Alex
+YR 2003
+T1 Learning communities: connectivity and dynamics of interacting agents
+VO 4
+SP 2797
+
+RT Conference Proceedings
+ID 1808457
+A1 Devaul,Richard,W.
+A1 Pentland,Alex
+A1 Corey,Vicka,R.
+YR 2003
+T1 The Memory Glasses: Subliminal vs.Overt Memory Support with Imperfect Information
+SP 146
+OP 153
+
+RT Journal Article
+ID 2138071
+A1 Devaul,R.,W.
+A1 Pentland,A.,S.
+YR 2003
+T1 The MIThril Real-Time Context Engine and Activity Classification
+
+RT Journal Article
+ID 3400593
+A1 Choudhury,Tanzeem
+A1 Pentland,Alex
+YR 2003
+T1 Modeling Face-to-Face Communication using the Sociometer
+
+RT Conference Proceedings
+ID 494265
+A1 Pentland,Alex
+YR 2003
+T1 Facing the Future
+SP 4
+
+RT Conference Proceedings
+ID 1808454
+A1 Eagle,Nathan
+A1 Pentland,Alex
+YR 2003
+T1 Wearables in the Workplace: Sensing Interactions at the Office
+SP 256
+OP 257
+
+RT Conference Proceedings
+ID 1808459
+A1 Choudhury,Tanzeem
+A1 Pentland,Alex
+YR 2003
+T1 Technology Development for Building Flexible Silicon Functional Fibres
+SP 210
+OP 215
+
+RT Conference Proceedings
+ID 606888
+A1 Pentland,Alex
+YR 2003
+T1 Human Design: Wearable Computers for Human Networking
+SP 264
+
+RT Conference Proceedings
+ID 1860980
+A1 Pentland,Alex
+YR 2003
+T1 Human Design: Building Computation around Human Networks
+
+RT Journal Article
+ID 845245
+A1 Roy,Deb,K
+A1 Pentland,Alex,P
+YR 2002
+T1 Learning words from sights and sounds: a computational model
+JF Cognitive Science
+VO 26
+SP 113
+OP 146
+IS 1
+
+RT Journal Article
+ID 2620876
+A1 Pentland,A.
+A1 Fletcher,R.
+A1 Hasson,A.,A.
+YR 2002
+T1 A Road to Universal Broad-band Connectivity
+
+RT Journal Article
+ID 54317
+A1 Choudhury,Tanzeem
+A1 Pentland,Alex
+YR 2002
+T1 The Sociometer: A Wearable Device for Understanding Human Networks
+
+RT Conference Proceedings
+ID 1803092
+A1 Choudhury,Tanzeem
+A1 Rehg,James,M.
+A1 Pavlovic,Vladimir
+A1 Pentland,Alex
+YR 2002
+T1 Boosting and Structure Learning in Dynamic Bayesian Networks forAudio-Visual Speaker Detection
+VO 3
+SP 789
+
+RT Conference Proceedings
+ID 1875026
+A1 Sparacino,Flavia
+A1 Wren,Christopher,Richard
+A1 Azarbayejani,Ali
+A1 Pentland,Alex
+YR 2002
+T1 Browsing 3-D spaces with 3-D vision: body-driven navigation through the Internet city
+SP 224
+OP 233
+
+RT Conference Proceedings
+ID 2073782
+A1 Jebara,Tony
+A1 Pentland,Alex
+YR 2002
+T1 Statistical imitative learning from perceptual data
+
+RT Conference Proceedings
+ID 50271504
+A1 Chaodhury,Tanzeem
+A1 Rehg,James,M.
+A1 PavloviC,Vladimir
+A1 Pentland,Alex
+YR 2002
+T1 Boosted learning in dynamic Bayesian networks for multimodal detection
+
+RT Journal Article
+ID 28804753
+A1 Pentland,A.,P.
+YR 2002
+T1 Cyclooxygenase Inhibitors for Skin Cancer Prevention: Are They Beneficial Enough?
+JF Archives of Dermatology
+VO 138
+SP 823
+OP 824
+IS 6
+
+RT Journal Article
+ID 15258205
+A1 Roy,Deb,K.
+A1 Pentland,Alex,P.
+YR 2002
+T1 Learning words from sights and sounds: a computational model
+JF Cognitive Science
+VO 26
+SP 113
+OP 146
+IS 1
+
+RT Conference Proceedings
+ID 50267395
+A1 Clarkson,B.
+A1 Basu,S.
+A1 Eagle,N.
+A1 Choudhury,T.
+A1 Pentland,A.
+YR 2002
+T1 Learning your life: wearables and familiars
+
+RT Conference Proceedings
+ID 553666
+A1 Devaul,Richard,W.
+A1 Pentland,Alex
+YR 2002
+T1 Toward the Zero Attention Interface: Wearable Subliminal Cuing for Short Term Memory Support Memory
+SP 141
+OP 142
+
+RT Journal Article
+ID 2085115
+A1 Weng,Juyang
+A1 McClelland,James
+A1 Pentland,Alex
+A1 Sporns,Olaf
+A1 Stockman,Ida
+A1 Sur,Mriganka
+A1 Thelen,Esther
+YR 2001
+T1 Autonomous Mental Development by Robots and Animals
+JF Science
+
+RT Journal Article
+ID 1655288
+A1 Tan,Hong,Z.
+A1 Slivovsky,Lynne,A.
+A1 Pentland,Alex
+YR 2001
+T1 A sensing chair using pressure distribution sensors
+JF IEEE-ASME Transactions on Mechatronics
+VO 6
+SP 261
+OP 268
+IS 3
+
+RT Journal Article
+ID 1369038
+A1 Basu,Sumit
+A1 Choudhury,Tanzeem
+A1 Clarkson,Brian
+A1 Pentland,Alex
+YR 2001
+T1 Towards Measuring Human Interactions in Conversational Settings
+
+RT Journal Article
+ID 2742977
+A1 Weng,J.
+A1 Mcclelland,J.
+A1 Pentland,A.
+A1 Sporns,O.
+A1 Stockman,I.
+A1 Sur,M.
+A1 Thelen,E.
+YR 2001
+T1 ARTIFICIAL INTELLIGENCE: Autonomous Mental Development by Robots and Animals
+JF Science
+VO 291
+SP 599
+OP 600
+IS 5504
+
+RT Conference Proceedings
+ID 894648
+A1 Clarkson,Brian
+A1 Mase,Kenji
+A1 Pentland,Alex
+YR 2001
+T1 The familiar: a living diary and companion
+SP 271
+OP 272
+
+RT Conference Proceedings
+ID 82125
+A1 Basu,Sumit
+A1 Clarkson,Brian
+A1 Pentland,Alex
+YR 2001
+T1 Smart headphones: enhancing auditory awareness through robust speech detection and source localization
+VO 5
+SP 3361
+
+RT Conference Proceedings
+ID 530968
+A1 Ivanov,Yuri,A.
+A1 Blumberg,Bruce
+A1 Pentland,Alex
+YR 2001
+T1 Expectation Maximization for Weakly Labeled Data
+SP 218
+OP 225
+
+RT Journal Article
+ID 863535
+A1 Moghaddam,Baback
+A1 Nastar,Chahab
+A1 Pentland,Alex
+YR 2001
+T1 A Bayesian similarity measure for deformable image matching
+JF Image and Vision Computing
+VO 19
+SP 235
+OP 244
+IS 5
+
+RT Conference Proceedings
+ID 894645
+A1 Basu,Sumit
+A1 Pentland,Alex
+YR 2001
+T1 Smart headphones
+SP 267
+OP 268
+
+RT Conference Proceedings
+ID 673064
+A1 Pentland,Alex
+YR 2001
+T1 Smart Clothes, Smart Rooms
+SP 3
+
+RT Journal Article
+ID 1196368
+A1 Pentland,A.
+YR 2001
+T1 Wearable information devices
+JF IEEE Micro
+VO 21
+SP 12
+OP 15
+IS 3
+
+RT Conference Proceedings
+ID 1831423
+A1 Moghaddaml,Baback
+A1 Nastar,Chahab
+A1 Pentland,Alex
+YR 2001
+T1 Bayesian Face Recognition with Deformable Image Models
+SP 26
+OP 35
+
+RT Journal Article
+ID 835307
+A1 Pentland,Alex
+YR 2001
+T1 Guest Editor's Introduction: Wearable Information Devices
+JF IEEE Micro
+VO 21
+SP 12
+OP 15
+IS 3
+
+RT Journal Article
+ID 801071
+A1 Oliver,Nuria,M.
+A1 Rosario,Barbara
+A1 Pentland,Alex,P.
+YR 2000
+T1 A Bayesian Computer Vision System for Modeling Human Interactions
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 22
+SP 831
+OP 843
+IS 8
+
+RT Journal Article
+ID 712279
+A1 Moghaddam,Baback
+A1 Jebara,Tony
+A1 Pentland,Alex
+YR 2000
+T1 Bayesian face recognition
+JF Pattern Recognition
+VO 33
+SP 1771
+OP 1782
+IS 11
+
+RT Journal Article
+ID 799383
+A1 Pentland,Alex
+YR 2000
+T1 Looking at People: Sensing for Ubiquitous and Wearable Computing
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 22
+SP 107
+OP 119
+IS 1
+
+RT Journal Article
+ID 846747
+A1 Pentland,Alex
+A1 Choudhury,Tanzeem
+YR 2000
+T1 Face Recognition for Smart Environments
+JF IEEE Computer
+VO 33
+SP 50
+OP 55
+IS 2
+
+RT Conference Proceedings
+ID 553554
+A1 Clarkson,Brian,P.
+A1 Mase,Kenji
+A1 Pentland,Alex
+YR 2000
+T1 Recognizing User Context via Wearable Sensors
+SP 69
+OP 76
+
+RT Conference Proceedings
+ID 190837
+A1 Oliver,Nuria
+A1 Pentland,Alex,P.
+YR 2000
+T1 Graphical models for driver behavior recognition in a SmartCar
+
+RT Conference Proceedings
+ID 1870769
+A1 Wren,Christopher,Richard
+A1 Clarkson,Brian,P.
+A1 Pentland,Alex
+YR 2000
+T1 Understanding Purposeful Human Motion
+SP 378
+OP 383
+
+RT Journal Article
+ID 47917
+A1 Roy,Deb
+A1 Pentland,Alex
+YR 2000
+T1 Learning Words from Sights Sounds: A Computational Model
+JF Cognitive Science
+
+RT Journal Article
+ID 712219
+A1 Oliver,Nuria
+A1 Pentland,Alex
+A1 Bérard,François
+YR 2000
+T1 LAFTER: a real-time face and lips tracker with facial expression recognition
+JF Pattern Recognition
+VO 33
+SP 1369
+OP 1382
+IS 8
+
+RT Journal Article
+ID 771165
+A1 Pentland,Alex
+YR 2000
+T1 Perceptual Intelligence
+JF Communications of The ACM
+VO 43
+SP 35
+OP 44
+IS 3
+
+RT Journal Article
+ID 822354
+A1 Sparacino,Flavia
+A1 Davenport,Glorianna
+A1 Pentland,Alex
+YR 2000
+T1 Media in performance: Interactive spaces for dance, theater, circus, and museum exhibits
+JF Ibm Systems Journal
+VO 39
+SP 479
+OP 510
+IS 3&4
+
+RT Journal Article
+ID 79333
+A1 Devaul,Richard,W.
+A1 Clarkson,Brian
+A1 Pentland,Alex,Sandy
+YR 2000
+T1 The Memory Glasses: Towards a Wearable, Context Aware, Situation-appropriate Reminder System
+
+RT Journal Article
+ID 180815
+A1 Jebara,Tony
+A1 Ivanov,Yuri
+A1 Rahimi,Ali
+A1 Pentland,Alex
+YR 2000
+T1 Tracking Conversational Context for Machine Mediation of Human Discourse
+
+RT Conference Proceedings
+ID 53811
+A1 Jebara,Tony
+A1 Pentland,Alex
+YR 2000
+T1 On Reversing Jensen's Inequality
+SP 231
+OP 237
+
+RT Journal Article
+ID 248177
+A1 Clarkson,Brian
+A1 Mase,Kenji
+A1 Pentland,Alex
+YR 2000
+T1 Recognizing User's Context from Wearable Sensors: Baseline System
+
+RT Journal Article
+ID 189396
+A1 Oliver,Nuria
+A1 Pentland,Alexander,P.
+YR 2000
+T1 Driver behavior recognition and prediction in a SmartCar
+VO 4023
+SP 280
+OP 290
+
+RT Conference Proceedings
+ID 553626
+A1 Basu,Sumit
+A1 Schwartz,Steven,J.
+A1 Pentland,Alex
+YR 2000
+T1 Wearable Phased Arrays for Sound Localization and Enhancement
+SP 103
+
+RT Journal Article
+ID 2543846
+A1 Oliver,N.,M.
+A1 Rosario,B.
+A1 Pentland,A.,P.
+YR 2000
+T1 A Bayesian computer system for modeling human interactions
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+RT Conference Proceedings
+ID 534386
+A1 Choudhury,Tanzeem
+A1 Pentland,Alex
+YR 2000
+T1 Motion Field Histograms for Robust Modeling of Facial Expressions
+VO 2
+SP 2929
+OP 2932
+
+RT Conference Proceedings
+ID 152984
+A1 Clarkson,Brian,P.
+A1 Pentland,Alex
+YR 2000
+T1 Framing Through Peripheral Perception
+VO 3
+SP 38
+
+RT Conference Proceedings
+ID 3119753
+A1 Clarkson,B.
+A1 Pentland,A.
+YR 2000
+T1 Framing through peripheral vision
+
+RT Journal Article
+ID 3027237
+A1 Ivanov,Yuri
+A1 Blumberg,Bruce
+A1 Pentland,Alex
+YR 2000
+T1 EM for Perceptual Coding and Reinforcement Learning Tasks
+
+RT Journal Article
+ID 821430
+A1 Pentland,Alex
+YR 2000
+T1 It's alive
+JF Ibm Systems Journal
+VO 39
+SP 821
+OP 822
+IS 3&4
+
+RT Conference Proceedings
+ID 127794
+A1 Oliver,Nuria
+A1 Rosario,Barbara
+A1 Pentland,Alex
+YR 1999
+T1 A Bayesian Computer Vision System for Modeling Human Interaction
+SP 255
+OP 272
+
+RT Journal Article
+ID 798732
+A1 Pentland,Alex
+A1 Liu,Andrew
+YR 1999
+T1 Modeling and Prediction of Human Behavior
+JF Neural Computation
+VO 11
+SP 229
+OP 242
+IS 1
+
+RT Conference Proceedings
+ID 359182
+A1 Clarkson,Brian
+A1 Pentland,Alex
+YR 1999
+T1 Unsupervised clustering of ambulatory audio and video
+VO 6
+SP 3037
+
+RT Conference Proceedings
+ID 238032
+A1 Aoki,Hisashi
+A1 Schiele,Bernt
+A1 Pentland,Alex
+YR 1999
+T1 Realtime Personal Positioning System for Wearable Computers
+SP 37
+OP 43
+
+RT Conference Proceedings
+ID 1336016
+A1 Choudhury,T.
+A1 Clarkson,B.
+A1 Jebara,T.
+A1 Pentland,A.
+YR 1999
+T1 Multimodal person recognition using unconstrained audio and video
+
+RT Journal Article
+ID 213565
+A1 Jebara,T.
+A1 Azarbayejani,A.
+A1 Pentland,A.
+YR 1999
+T1 3D structure from 2D motion
+JF IEEE Signal Processing Magazine
+VO 16
+SP 66
+OP 84
+IS 3
+
+RT Journal Article
+ID 29424426
+A1 Pentland,A.,P.
+YR 1999
+T1 Reduction of UV-induced skin tumors in hairless mice by selective COX2 inhibition
+JF Carcinogenesis
+VO 20
+SP 1939
+OP 1944
+IS 10
+
+RT Book, Whole
+ID 214655
+A1 Jebara,Tony
+A1 Pentland,Alex
+YR 1999
+T1 Action Reaction Learning: Automatic Visual Analysis and Synthesis of Interactive Behaviour
+SP 273
+OP 292
+
+RT Conference Proceedings
+ID 247782
+A1 Strom,J.
+A1 Jebara,T.
+A1 Basu,S.
+A1 Pentland,A.
+YR 1999
+T1 Real time tracking and modeling of faces: an EKF-based analysis by synthesis approach
+
+RT Book, Whole
+ID 468647
+A1 Pentland,Alex
+YR 1999
+T1 Perceptual Intelligence
+SP 74
+OP 88
+
+RT Conference Proceedings
+ID 524012
+A1 Schiele,Bernt
+A1 Pentland,Alex
+YR 1999
+T1 Probabilistic Object Recognition and Localization
+SP 177
+OP 182
+
+RT Conference Proceedings
+ID 4035780
+A1 Wren,C.,R.
+A1 Pentland,A.,P.
+YR 1999
+T1 Understanding purposeful human motion
+
+RT Journal Article
+ID 274059
+A1 Sparacino,Flavia
+A1 Wren,Christopher
+A1 Davenport,Glorianna
+A1 Pentland,Alex
+YR 1999
+T1 Augmented Performance in Dance and Theater
+
+RT Journal Article
+ID 247611
+A1 Pentland,Alex
+A1 Roy,Deb
+YR 1999
+T1 Learning Words From Natural Audio-Visual Input
+
+RT Conference Proceedings
+ID 274522
+A1 Sparacino,Flavia
+A1 Larson,Kent
+A1 Macneil,Ron
+A1 Davenport,Glorianna
+A1 Pentland,Alex
+YR 1999
+T1 Technologies and Methods for Interactive Exhibit Design: From Wireless Object & Body Tracking to Wearable Computers
+SP 147
+OP 154
+
+RT Book, Whole
+ID 256577
+A1 Schiele,Bernt
+A1 Oliver,Nuria
+A1 Jebara,Tony
+A1 Pentland,Alex
+YR 1999
+T1 An Interactive Computer Vision System DyPERS: Dynamic Personal Enhanced Reality System
+SP 51
+OP 65
+
+RT Conference Proceedings
+ID 272019
+A1 Sparacino,Flavia
+A1 Davenport,Glorianna
+A1 Pentland,Alex
+YR 1999
+T1 Media Actors: Characters in Search of an Author
+SP 439
+OP 446
+
+RT Conference Proceedings
+ID 3315759
+A1 Roy,Deb
+A1 Schiele,Bernt
+A1 Pentland,Alex
+YR 1999
+T1 Learning audio-visual associations using mutual information
+
+RT Journal Article
+ID 300523
+A1 Schiele,Bernt
+A1 Starner,Thad
+A1 Rhodes,Brad
+A1 Clarkson,Brian
+A1 Pentland,Alex
+YR 1999
+T1 Situation Aware Computing with Wearable Computers
+
+RT Conference Proceedings
+ID 50164308
+A1 Aoki,Hisashi
+A1 Schiele,Bernt
+A1 Pentland,Alex
+YR 1999
+T1 Realtime personal positioning system for a wearable computer
+
+RT Journal Article
+ID 64891
+A1 Wren,Christopher,R.
+A1 Basu,Sumit
+A1 Sparacino,Flavia
+A1 Pentland,Alex,P.
+YR 1999
+T1 Combining Audio and Video in Perceptive Spaces
+
+RT Journal Article
+ID 253345
+A1 Schiele,Bernt
+A1 Pentland,Alex
+YR 1999
+T1 Attentional Objects for Visual Context Understanding
+
+RT Journal Article
+ID 3650590
+A1 Weaver,T.,S.,J.
+A1 Pentland,A.
+YR 1999
+T1 Real-time American sign language recognition using desk and wearable computer based video
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+RT Journal Article
+ID 2124226
+A1 Roy,Deb
+A1 Schiele,Bernt
+A1 Pentland,Alex
+YR 1999
+T1 Learning audio-visual associations from sensory input
+
+RT Conference Proceedings
+ID 645773
+A1 Rosario,Barbara
+A1 Oliver,Nuria
+A1 Pentland,Alex
+YR 1999
+T1 A synthetic agent system for Bayesian modeling of human interactions
+SP 342
+OP 343
+
+RT Journal Article
+ID 291227
+A1 Schwartz,Steven,J.
+A1 Pentland,Alex
+YR 1999
+T1 The Smart Vest: Towards a Next Generation Wearable Computing Platform
+
+RT Journal Article
+ID 227849
+A1 Pentland,Alex
+A1 Choudhury,Tanzeem
+YR 1999
+T1 Personalizing Smart Environments: Face Recognition for Human Interaction
+
+RT Journal Article
+ID 4167716
+A1 Pentland,A
+A1 Pickard,Rw
+A1 Sclaroff,S
+YR 1999
+T1 Photobook: content - based manipulation of image databases
+JF International Journal of Computer Vision
+
+RT Conference Proceedings
+ID 232136
+A1 Jebara,Tony
+A1 Pentland,Alex
+YR 1999
+T1 The Generalized CEM Algorithm
+
+RT Conference Proceedings
+ID 610638
+A1 Moghaddam,Baback
+A1 Pentland,Alex
+YR 1999
+T1 Bayesian Image Retrieval in Biometric Databases
+SP 610
+OP 615
+
+RT Conference Proceedings
+ID 463752
+A1 Pentland,Alex
+A1 Roy,Deb
+A1 Wren,Christopher,Richard
+YR 1999
+T1 Perceptual Intelligence: learning gestures and words for individualized, adaptive interfaces
+SP 286
+OP 290
+
+RT Journal Article
+ID 381763
+A1 Starner,Thad
+A1 Weaver,Joshua
+A1 Pentland,Alex
+YR 1998
+T1 Real-Time American Sign Language Recognition Using Desk and Wearable Computer Based Video
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 20
+SP 1371
+OP 1375
+IS 12
+
+RT Conference Proceedings
+ID 1870911
+A1 Moghaddam,Baback
+A1 Wahid,Wasiuddin
+A1 Pentland,Alex
+YR 1998
+T1 Beyond Eigenfaces: Probabilistic Matching for Face Recognition
+SP 30
+OP 35
+
+RT Conference Proceedings
+ID 309852
+A1 Starner,Thad
+A1 Schiele,Bernt
+A1 Pentland,Alex
+YR 1998
+T1 Visual Contextual Awareness in Wearable Computing
+SP 50
+OP 57
+
+RT Journal Article
+ID 330353
+A1 Pentland,Alex
+A1 Clarkson,Brian
+A1 Sawhney,Nitin
+YR 1998
+T1 Auditory Context Awareness via Wearable Computing
+
+RT Conference Proceedings
+ID 379289
+A1 Wren,Christopher,Richard
+A1 Pentland,Alex
+YR 1998
+T1 Dynamic Models of Human Motion
+SP 22
+OP 29
+
+RT Conference Proceedings
+ID 4043355
+A1 Clarkson,B.
+A1 Pentland,A.
+YR 1998
+T1 Unsupervised Clustering of Ambulatory Audio and Video
+
+RT Journal Article
+ID 277062
+A1 Pentland,Alex
+A1 Wren,Christopher
+A1 Harwood,David
+A1 Haritaoglu,Ismail
+A1 Davis,Larry
+A1 Horprasert,Thanarat
+YR 1998
+T1 Real-time 3D Motion Capture
+
+RT Conference Proceedings
+ID 86402
+A1 Oliver,Nuria
+A1 Rosario,Barbara
+A1 Pentland,Alex
+YR 1998
+T1 Statistical Modeling of Human Interactions
+
+RT Conference Proceedings
+ID 2369508
+A1 Wren,C.
+A1 Pentland,A.
+YR 1998
+T1 Dynamic modeling of human motion
+
+RT Conference Proceedings
+ID 559726
+A1 Jebara,Tony
+A1 Pentland,Alex
+YR 1998
+T1 Maximum Conditional Likelihood via Bound Maximization and the CEM Algorithm
+SP 494
+OP 500
+
+RT Journal Article
+ID 268964
+A1 Martin,John
+A1 Pentland,Alex
+A1 Sclaroff,Stan
+A1 Kikinis,Ron
+YR 1998
+T1 Characterization of Neuropathological Shape Deformations
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 20
+SP 97
+OP 112
+IS 2
+
+RT Conference Proceedings
+ID 393968
+A1 Choudhury,Tanzeem
+A1 Clarkson,Brian
+A1 Jebara,Tony
+A1 Perceptual,Alex,Pentland
+YR 1998
+T1 Multimodal Person Recognition using Unconstrained Audio and Video
+
+RT Conference Proceedings
+ID 524104
+A1 Jebara,Tony
+A1 Russell,Kenneth,B.
+A1 Pentland,Alex
+YR 1998
+T1 Mixtures of Eigen Features for Real-Time Structure from Texture
+SP 128
+OP 138
+
+RT Conference Proceedings
+ID 553609
+A1 Ertan,Sevgi
+A1 Lee,Clare
+A1 Willets,Abigail
+A1 Tan,Hong,Z.
+A1 Pentland,Alex
+YR 1998
+T1 A Wearable Haptic Navigation Guidance System
+SP 164
+OP 165
+
+RT Journal Article
+ID 2078068
+A1 Cipolla,R.
+A1 Pentland,A.
+YR 1998
+T1 Computer Vision for Human-Machine Interaction
+
+RT Conference Proceedings
+ID 4071099
+A1 Pentland,Alex
+A1 Schiele,Bernt
+A1 Starner,Thad
+YR 1998
+T1 Visual Context Awareness via Wearable Computing
+
+RT Conference Proceedings
+ID 124115
+A1 Nuria,Berntschiele
+A1 Pentland,Oliver,Alex
+A1 Jebara,Tony
+YR 1998
+T1 DyPERS: Dynamic Personal Enhanced Reality System
+
+RT Conference Proceedings
+ID 50123689
+A1 Pentland,A.
+YR 1998
+T1 Smart rooms, smart clothes
+VO 2
+SP 949
+
+RT Conference Proceedings
+ID 561155
+A1 Oliver,Nuria
+A1 Rosario,Barbara
+A1 Pentland,Alex
+YR 1998
+T1 Graphical Models for Recognizing Human Interactions
+SP 924
+OP 930
+
+RT Conference Proceedings
+ID 328316
+A1 Moghaddam,Baback
+A1 Jebara,Tony
+A1 Pentland,Alex
+YR 1998
+T1 Bayesian Modeling of Facial Similarity
+SP 910
+OP 916
+
+RT Journal Article
+ID 1966014
+A1 Darrell,Trevor
+A1 Pentland,Alex
+YR 1998
+T1 Active Gesture Recognition using Partially Observable Markov Decision Processes
+
+RT Conference Proceedings
+ID 318497
+A1 Basu,Sumit
+A1 Oliver,Nuria
+A1 Pentland,Alex
+YR 1998
+T1 3D modeling and tracking of human lip motions
+
+RT Conference Proceedings
+ID 553674
+A1 Clarkson,Brian,P.
+A1 Pentland,Alex
+YR 1998
+T1 Extracting Context from Environmental Audio
+SP 154
+OP 155
+
+RT Journal Article
+ID 39303352
+A1 Roy,Deb
+A1 Pentland,Alex
+YR 1998
+T1 Learning words from natural audio-visual input
+
+RT Journal Article
+ID 196820
+A1 Pentland,Alex
+A1 Schiele,Bernt
+A1 Aoki,Hisashi
+YR 1998
+T1 Recognizing Personal Location from Video
+
+RT Conference Proceedings
+ID 50109996
+A1 Moghaddam,Baback
+A1 Pentland,Alex
+YR 1998
+T1 Probabilistic matching for face recognition
+
+RT Journal Article
+ID 1952238
+A1 Jebara,T.
+A1 Pentland,A.
+YR 1998
+T1 Action reaction learning: analysis and synthesis of human behavior
+
+RT Journal Article
+ID 1978130
+A1 Basu,Sumit
+A1 Oliver,Nuria
+A1 Pentland,Alex
+YR 1998
+T1 3D lip shapes from video: A combined physical-statistical model
+JF Speech Communication
+VO 26
+SP 131
+OP 148
+IS 1-2
+
+RT Book, Whole
+ID 642311
+A1 Starner,Thad
+A1 Weaver,Joshua
+A1 Pentland,Alex
+YR 1998
+T1 A Wearable Computer Based American Sign Language Recognizer
+SP 84
+OP 96
+
+RT Journal Article
+ID 404131
+A1 Moghaddam,Baback
+A1 Pentland,Alex
+YR 1998
+T1 Beyond Euclidean Eigenspaces: Bayesian Matching for Visual Recognition
+
+RT Conference Proceedings
+ID 50123675
+A1 Moghaddam,B.
+A1 Jebara,T.
+A1 Pentland,A.
+YR 1998
+T1 Efficient MAP/ML similarity matching for visual recognition
+VO 1
+SP 876
+
+RT Journal Article
+ID 2132793
+A1 Pentland,A.,P.
+YR 1998
+T1 Smart Rooms: Machine Understanding of Human Behavior
+
+RT Conference Proceedings
+ID 345624
+A1 Roy,Deb
+A1 Pentland,Alex
+YR 1998
+T1 Word learning in a multimodal environment
+VO 6
+SP 3761
+
+RT Journal Article
+ID 3319384
+A1 Roy,D.
+A1 Pentland,A.
+YR 1998
+T1 Learning Words from Audio-Visual Input
+
+RT Journal Article
+ID 2379577
+A1 Aoki,B.,S.,H.
+A1 Pentland,A.
+YR 1998
+T1 Recognizing places using image sequences
+
+RT Conference Proceedings
+ID 589329
+A1 Dickinson,Sven,J.
+A1 Pentland,Alex
+A1 Stevenson,Siizanne
+YR 1998
+T1 Viewpoint-Invariant Indexing for Content-Based Image Retrieval
+SP 20
+OP 30
+
+RT Journal Article
+ID 647028
+A1 Roy,Deb
+A1 Pentland,Alex
+YR 1998
+T1 A phoneme probability display for individuals with hearing disabilities
+SP 165
+OP 168
+
+RT Journal Article
+ID 2825562
+A1 Martin,J.
+A1 Pentland,A.
+A1 Sclaroff,S.
+A1 Kikinis,R.
+YR 1998
+T1 Characteristics of Neuropathological Shape Deformations
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+RT Conference Proceedings
+ID 524126
+A1 Basu,Sumit
+A1 Oliver,Nuria
+A1 Pentland,Alex
+YR 1998
+T1 3D Modeling of Human Lip Motion
+SP 337
+OP 343
+
+RT Journal Article
+ID 2874641
+A1 Cipolla,R.
+A1 Pentland,A.
+YR 1998
+T1 Computer Vision for Human-Computer Interaction
+
+RT Conference Proceedings
+ID 647010
+A1 Pentland,Alexander
+YR 1998
+T1 Smart rooms, desks, and clothes
+SP 1
+OP 2
+
+RT Journal Article
+ID 801153
+A1 Wren,Christopher,Richard
+A1 Azarbayejani,Ali
+A1 Darrell,Trevor
+A1 Pentland,Alexander
+YR 1997
+T1 Pfinder: Real-Time Tracking of the Human Body
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 19
+SP 780
+OP 785
+IS 7
+
+RT Journal Article
+ID 801030
+A1 Moghaddam,Baback
+A1 Pentland,Alex
+YR 1997
+T1 Probabilistic Visual Learning for Object Representation
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 19
+SP 696
+OP 710
+IS 7
+
+RT Journal Article
+ID 151056
+A1 Starner,Thad
+A1 Mann,Steve
+A1 Rhodes,Bradley,J.
+A1 Levine,Jeffrey
+A1 Healey,Jennifer
+A1 Kirsch,Dana
+A1 Picard,Rosalind,W.
+A1 Pentland,Alex
+YR 1997
+T1 Augmented Reality Through Wearable Computing
+JF Teleoperators and Virtual Environments
+VO 6
+SP 386
+OP 398
+IS 4
+
+RT Conference Proceedings
+ID 506684
+A1 Brand,Matthew
+A1 Oliver,Nuria
+A1 Pentland,Alex
+YR 1997
+T1 Coupled hidden Markov models for complex action recognition
+SP 994
+OP 999
+
+RT Journal Article
+ID 800801
+A1 Essa,Irfan,A.
+A1 Pentland,Alex,P.
+YR 1997
+T1 Coding, Analysis, Interpretation, and Recognition of Facial Expressions
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 19
+SP 757
+OP 763
+IS 7
+
+RT Conference Proceedings
+ID 306268
+A1 Jebara,Tony,S.
+A1 Pentland,Alex
+YR 1997
+T1 Parametrized structure from motion for 3D adaptive feedback tracking of faces
+SP 144
+OP 150
+
+RT Journal Article
+ID 2069500
+A1 Moghaddam,B.
+A1 Pentland,A.,P.
+YR 1997
+T1 Probabilistic visual learning for object recognition
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+RT Conference Proceedings
+ID 506911
+A1 Oliver,Nuria
+A1 Pentland,Alex,P.
+A1 Bérard,François
+YR 1997
+T1 LAFTER: Lips and Face Real-Time Tracker
+SP 123
+OP 129
+
+RT Journal Article
+ID 409047
+A1 Wren,Christopher,Richard
+A1 Sparacino,Flavia
+A1 Azarbayejani,Ali
+A1 Darrell,Trevor
+A1 Starner,Thad
+A1 Kotani,Akira
+A1 Chao,Chloe,M.
+A1 Hlavac,Michal
+A1 Russell,Kenneth,B.
+A1 Pentland,Alex
+YR 1997
+T1 Perceptive Spaces for Performance and Entertainment Untethered Interaction Using Computer Vision and Audition
+JF Applied Artificial Intelligence
+VO 11
+SP 267
+OP 284
+IS 4
+
+RT Journal Article
+ID 1263930
+A1 Maes,P.
+A1 Blumberg,B.
+A1 Darrel,T.
+A1 Pentland,A.
+YR 1997
+T1 The alive system: full-body interaction with animated autonomous agents
+
+RT Journal Article
+ID 751616
+A1 Maes,Pattie
+A1 Darrell,Trevor
+A1 Blumberg,Bruce
+A1 Pentland,Alex
+YR 1997
+T1 The ALIVE System: Wireless, Full-Body Interaction with Autonomous Agents
+JF Multimedia Systems
+VO 5
+SP 105
+OP 112
+IS 2
+
+RT Journal Article
+ID 16058
+A1 Tan,Hong,Z.
+A1 Pentland,Alex
+YR 1997
+T1 Tactual Displays for Wearable Computing
+JF Personal and Ubiquitous Computing
+VO 1
+SP 84
+OP 89
+IS 3
+
+RT Journal Article
+ID 342287
+A1 Starner,Thad
+A1 Weaver,Joshua
+A1 Pentland,Alex
+YR 1997
+T1 A Wearable Computer Based American Sign Language Recognizer
+JF Personal and Ubiquitous Computing
+VO 1
+SP 130
+OP 137
+IS 3
+
+RT Conference Proceedings
+ID 108507
+A1 Jebara,Tony
+A1 Eyster,Cyrus
+A1 Weaver,Joshua
+A1 Starner,Thad
+A1 Pentland,Alex
+YR 1997
+T1 Stochasticks: Augmenting the Billiards Experience with Probabilistic Vision and Wearable Computers
+SP 138
+OP 145
+
+RT Journal Article
+ID 1270879
+A1 Maes,P.
+A1 Darrell,T.
+A1 Blumberg,B.
+A1 Pentland,A.
+YR 1997
+T1 The alive system: wireless
+
+RT Journal Article
+ID 1305879
+A1 Tan,H.,Z
+A1 Lu,Ifung
+A1 Pentland,A.
+YR 1997
+T1 The chair as a novel haptic user interface
+
+RT Journal Article
+ID 2159724
+A1 Nastar,Chahab
+A1 Moghaddam,Baback
+A1 Pentland,Alex
+YR 1997
+T1 Flexible Images: Matching and Recognition Using Learned Deformations
+JF Computer Vision and Image Understanding
+VO 65
+SP 179
+OP 191
+IS 2
+
+RT Journal Article
+ID 2099548
+A1 Starner,T.
+A1 Pentland,A.
+YR 1997
+T1 Real-time american sign language recognition from video using hmm
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+RT Conference Proceedings
+ID 4008718
+A1 Liu,A.
+A1 Pentland,Alex
+YR 1997
+T1 Towards real-time recognition of driver intentions
+
+RT Journal Article
+ID 283356
+A1 Wren,Christopher
+A1 Sparacino,Flavia
+A1 Azarbayejani,Ali,J.
+A1 Darrell,Trevor,J.
+A1 Davis,James,W.
+A1 Starner,Thad,E.
+A1 Kotani,Akira
+A1 Chao,Chloe,M.
+A1 Hlavac,Michal
+A1 Russell,Kenneth,B.
+A1 Bobick,Aaron
+A1 Pentland,Alex,P.
+YR 1997
+T1 Perceptive Spaces for Performance and Entertainment (Revised)
+
+RT Conference Proceedings
+ID 2095304
+A1 Oliver,N.
+A1 Pentland,A.
+YR 1997
+T1 Lafter: Lips and face tracking
+
+RT Conference Proceedings
+ID 3306080
+A1 Oliver,N.
+A1 Pentland,A.
+A1 Be'rard,F.
+YR 1997
+T1 LAFTER: Lips and Face Real Time Tracker with Facial Expression Recognition
+
+RT Journal Article
+ID 395613
+A1 Dickinson,Sven,J.
+A1 Metaxas,Dimitris,N.
+A1 Pentland,Alex
+YR 1997
+T1 The Role of Model-Based Segmentation in the Recovery of Volumetric Parts From Range Data
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 19
+SP 259
+OP 267
+IS 3
+
+RT Journal Article
+ID 3609521
+A1 Moghaddam,B.
+A1 Pentland,A.
+YR 1997
+T1 Probabilistic Visual Recognition for Object Recognition
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+RT Conference Proceedings
+ID 553558
+A1 Pentland,Alex
+A1 Petrazzuoli,M.
+A1 Gerega,A.
+A1 Starner,Thad
+YR 1997
+T1 The Digital Doctor: An Experiment in Wearable Telemedicine
+SP 173
+OP 174
+
+RT Journal Article
+ID 244426
+A1 Dickinson,Sven,J.
+A1 Bergevin,Robert
+A1 Biederman,Irving
+A1 Eklundh,Jan-olof
+A1 Munck-fairwood,Roger
+A1 Jain,Anil,K.
+A1 Pentland,Alex
+YR 1997
+T1 Panel report: the potential of geons for generic 3-D object recognition
+JF Image and Vision Computing
+VO 15
+SP 277
+OP 292
+IS 4
+
+RT Conference Proceedings
+ID 342924
+A1 Basu,Sumit
+A1 Pentland,Alex
+YR 1997
+T1 A three-dimensional model of human lip motions trained from video
+
+RT Conference Proceedings
+ID 386168
+A1 Becker,David
+A1 Pentland,Alex
+YR 1997
+T1 Using A Virtual Environment to Teach Cancer Patients T'ai Chi, Relaxation and Self-Imagery
+
+RT Journal Article
+ID 293064
+A1 Roy,Deb
+A1 Sawhney,Nitin
+A1 Schmandt,Chris
+A1 Pentland,Alex
+YR 1997
+T1 Wearable Audio Computing: A Survey of Interaction Techniques
+
+RT Conference Proceedings
+ID 2098834
+A1 Brand,M.
+A1 Oliver,N.
+A1 Pentland,A.
+YR 1997
+T1 Coupled hmm for complex action recognition
+
+RT Conference Proceedings
+ID 199165
+A1 Sparacino,Flavia
+A1 Pentland,Alex
+A1 Davenport,Glorianna
+YR 1997
+T1 Wearable Performance
+SP 181
+OP 182
+
+RT Journal Article
+ID 3650502
+A1 Pentland,A.
+A1 Azarbayjani,A.
+A1 Oliver,N.
+A1 Brand,M.
+YR 1997
+T1 Real-time 3-D Tracking and Classification of Human Behavior
+
+RT Journal Article
+ID 4115423
+A1 Moghaddam,B.
+A1 Pentland,A.
+YR 1997
+T1 Probabilistc Visual Learning For Object Reprenta - tion
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+RT Journal Article
+ID 48106017
+A1 Starner,Thad
+A1 Weaver,Joshua
+A1 Pentland,Alex
+YR 1997
+T1 A wearable computer-based American sign Language Recogniser
+JF Personal and Ubiquitous Computing
+VO 1
+SP 241
+OP 250
+IS 4
+
+RT Journal Article
+ID 719757
+A1 Azarbayejani,Ali
+A1 Perry,Chris
+A1 Pentland,Alex
+YR 1997
+T1 Vision Based Modeling for Film and Multimedia Production
+JF Applied Artificial Intelligence
+VO 11
+SP 307
+OP 330
+IS 4
+
+RT Conference Proceedings
+ID 50093946
+A1 Starner,Thad
+A1 Weaver,Joshua
+A1 Pentland,Alex
+YR 1997
+T1 A wearable computer based American sign language recognizer
+
+RT Conference Proceedings
+ID 50093942
+A1 Tan,Hong,Z.
+A1 Pentland,Alex
+YR 1997
+T1 Tactual displays for wearable computing
+
+RT Journal Article
+ID 37775901
+A1 Pentland,Alex
+YR 1997
+T1 Content-Based Indexing of Images and Video
+JF Philosophical Transactions of The Royal Society B: Biological Sciences
+VO 352
+SP 1283
+OP 1290
+IS 1358
+
+RT Conference Proceedings
+ID 50075944
+A1 Pentland,A.
+YR 1997
+T1 Smart rooms, desks and clothes
+VO 1
+SP 171
+
+RT Journal Article
+ID 2378315
+A1 Pentland,Alex
+A1 Picard,Rosalind,W.
+A1 Sclaroff,Stan
+YR 1996
+T1 Photobook: Content-based manipulation of image databases
+JF International Journal of Computer Vision
+VO 18
+SP 233
+OP 254
+IS 3
+
+RT Conference Proceedings
+ID 339536
+A1 Starner,Thad
+A1 Pentland,Alex
+YR 1996
+T1 Real-Time American Sign Language Recognition from Video Using Hidden Markov Models
+
+RT Conference Proceedings
+ID 408071
+A1 Azarbayejani,Ali
+A1 Pentland,Alex
+YR 1996
+T1 Real-time self-calibrating stereo person tracking using 3-D shape estimation from blob features
+VO 3
+SP 627
+
+RT Conference Proceedings
+ID 286107
+A1 Moghaddaml,Baback
+A1 Nastar,Chahab
+A1 Pentland,Alex
+YR 1996
+T1 Bayesian face recognition using deformable intensity surfaces
+SP 638
+OP 645
+
+RT Book, Whole
+ID 127920
+A1 Nastar,Chahab
+A1 Moghaddam,Baback
+A1 Pentland,Alex
+YR 1996
+T1 Generalized Image Matching: Statistical Learning of Physically-Based Deformations
+SP 589
+OP 598
+
+RT Conference Proceedings
+ID 367533
+A1 Basu,Sumit
+A1 Essa,Irfan
+A1 Pentland,Alex
+YR 1996
+T1 Motion regularization for model-based head tracking
+VO 3
+SP 611
+
+RT Journal Article
+ID 46792173
+A1 Pentland,Alex,P.
+YR 1996
+T1 Smart Rooms
+JF Scientific American
+VO 274
+SP 68
+OP 76
+IS 4
+
+RT Conference Proceedings
+ID 1345713
+A1 Campbell,Lee,W.
+A1 Becker,David,A.
+A1 Azarbayejani,Ali
+A1 Bobick,Aaron,F.
+A1 Pentland,Alex
+YR 1996
+T1 Invariant features for 3-D gesture recognition
+SP 157
+OP 163
+
+RT Conference Proceedings
+ID 204750
+A1 Moghaddam,B.
+A1 Nastar,Chahab
+A1 Pentland,Alex
+YR 1996
+T1 A Bayesian similarity measure for direct image matching
+VO 2
+SP 350
+
+RT Conference Proceedings
+ID 322131
+A1 Darrell,Trevor
+A1 Moghaddam,Baback
+A1 Pentland,Alex,P.
+YR 1996
+T1 Active Face Tracking and Pose Estimation in an Interactive Room
+SP 67
+OP 72
+
+RT Journal Article
+ID 373138
+A1 Darrell,Trevor,J.
+A1 Essa,Irfan,A.
+A1 Pentland,Alex,P.
+YR 1996
+T1 Task-Specific Gesture Analysis in Real-Time Using Interpolated Views
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 18
+SP 1236
+OP 1242
+IS 12
+
+RT Conference Proceedings
+ID 383109
+A1 Essa,Irfan,A.
+A1 Basu,Sumit
+A1 Darrell,Trevor
+A1 Pentland,Alex
+YR 1996
+T1 Modeling, Tracking and Interactive Animation of Faces and Heads Using Input from Video
+SP 68
+OP 79
+
+RT Conference Proceedings
+ID 354000
+A1 Roy,Deb
+A1 Pentland,Alex
+YR 1996
+T1 Automatic Spoken Affect Analysis and Classification
+
+RT Journal Article
+ID 377239
+A1 ADELSON,E.,H.
+A1 PENTLAND,A.,P.
+YR 1996
+T1 The perception of shading and reflectance
+
+RT Conference Proceedings
+ID 1980208
+A1 Jebara,T.
+A1 Pentland,A.
+YR 1996
+T1 Parameterized structure from motion for 3D adaptive feedback tracking of faces
+
+RT Journal Article
+ID 2406755
+A1 Pentland,A.
+YR 1996
+T1 Smart Rooms, Smart Clothes
+
+RT Conference Proceedings
+ID 50053914
+A1 Darrell,Trevor
+A1 Pentland,Alex
+YR 1996
+T1 Active gesture recognition using partially observable Markov decision processes
+VO 3
+SP 984
+
+RT Journal Article
+ID 338848
+A1 Becker,David,A.
+A1 Pentland,Alex
+YR 1996
+T1 Staying Alive: A Virtual Reality Visualization Tool for Cancer Patients
+
+RT Conference Proceedings
+ID 1996743
+A1 Oliver,N.
+A1 Berard,F.
+A1 Pentland,A.
+YR 1996
+T1 Lafter: Lips and face tracker
+
+RT Conference Proceedings
+ID 4010596
+A1 Essa,I.
+A1 Basu,S.
+A1 Darrell,T.
+A1 Pentland,A.
+YR 1996
+T1 Tracking and interactive animation of faces and heads using input from video
+
+RT Conference Proceedings
+ID 1870822
+A1 Roy,Deb
+A1 Pentland,Alex
+YR 1996
+T1 Automatic Spoken Affect Classification and Analysis
+SP 363
+OP 367
+
+RT Journal Article
+ID 799565
+A1 Picard,Rosalind,W.
+A1 Pentland,Alex
+YR 1996
+T1 Introduction to the Special Section on Digital Libraries: Representation and Retrieval
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 18
+SP 769
+OP 770
+IS 8
+
+RT Conference Proceedings
+ID 50040900
+A1 Boer,Erwin,R.
+A1 Fernandez,Marcos
+A1 Pentland,Alex
+A1 Liu,Andrew
+YR 1996
+T1 Method for evaluating human and simulated drivers in real traffic situations
+VO 3
+SP 1810
+
+RT Journal Article
+ID 3608758
+A1 Moghaddam,B.
+A1 Pentland,A.
+YR 1996
+T1 Probabilistic learning for object representation
+
+RT Journal Article
+ID 14363620
+A1 Picard,R.,W.
+A1 Pentland,A.,P.
+YR 1996
+T1 Introduction to the Special Section on Digital Libraries: Representation and Retrieval [Guest Editor
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 18
+SP 769
+IS 8
+
+RT Journal Article
+ID 916753
+A1 Russell,Kenneth,B.
+A1 Blumberg,Bruce,M.
+A1 Pentland,Alex
+A1 Maes,Pattie
+YR 1996
+T1 Distributed ALIVE
+SP 141
+
+RT Conference Proceedings
+ID 916761
+A1 Azarbayejani,Ali
+A1 Pentland,Alex
+A1 Perry,Chris
+YR 1996
+T1 Vision-based modeling for production-quality integration of photographic imagery and 3D graphics
+SP 155
+
+RT Journal Article
+ID 3427333
+A1 Darrell,T.
+A1 Pentland,A.
+YR 1996
+T1 Multiple-model q-learning for active recognition tasks
+
+RT Journal Article
+ID 800970
+A1 Laurentini,Aldo
+A1 Forsyth,D.
+A1 Shapiro,L.
+A1 Bajcsy,R.
+A1 Metaxas,D.
+A1 Hebert,M.
+A1 Ikeuchi,K.
+A1 Sclamff,S.
+A1 Pentland,A.
+A1 Binford,T.
+A1 Kak,A.
+A1 Stockman,G.
+YR 1996
+T1 Comments on "Efficiently Computing and Representing Aspect Graphs of Polyhedral Objects
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 18
+SP 57
+OP 58
+IS 1
+
+RT Journal Article
+ID 51327513
+A1 Wren,Christopher,R.
+A1 Azarbayejani,Ali,J.
+A1 Darrell,Trevor,J.
+A1 Pentland,Alexander,P.
+YR 1996
+T1 Pfinder: real-time tracking of the human body
+VO 2615
+SP 89
+OP 98
+
+RT Journal Article
+ID 26539049
+A1 Lippman,Andrew
+A1 Aigrain,Philippe
+A1 Narasimhalu,A.,Desai
+A1 Pentland,Alex
+YR 1996
+T1 Video semantics
+JF Signal Processing-image Communication
+VO 8
+SP 267
+OP 268
+IS 4
+
+RT Journal Article
+ID 2157086
+A1 Liu,Andrew
+A1 Pentland,Alex
+YR 1996
+T1 Detection of Unexpected Motion While Driving: From Psychophysics to Real World Via Virtual Environments
+JF Teleoperators and Virtual Environments
+VO 5
+SP 163
+OP 172
+IS 2
+
+RT Conference Proceedings
+ID 1870797
+A1 Pentland,Alex
+YR 1996
+T1 Trends in Understanding and Perception of Humans
+
+RT Conference Proceedings
+ID 524213
+A1 Moghaddam,Baback
+A1 Pentland,Alex
+YR 1995
+T1 Probabilistic Visual Learning for Object Detection
+SP 786
+OP 793
+
+RT Journal Article
+ID 800123
+A1 Azarbayejani,Ali
+A1 Pentland,Alex,P.
+YR 1995
+T1 Recursive Estimation of Motion, Structure, and Focal Length
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 17
+SP 562
+OP 575
+IS 6
+
+RT Conference Proceedings
+ID 408931
+A1 Pentland,Alex
+A1 Starner,Thad,Eugene
+YR 1995
+T1 Visual Recognition of American Sign Language Using Hidden Markov Models
+
+RT Journal Article
+ID 378607
+A1 Pentland,A.
+A1 Picard,W.
+A1 Sclaroff,S.
+YR 1995
+T1 Photobook: Content-Based Manipulation of Image Databases
+
+RT Journal Article
+ID 800100
+A1 Sclaroff,Stan
+A1 Pentland,Alex,P.
+YR 1995
+T1 Modal Matching for Correspondence and Recognition
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 17
+SP 545
+OP 561
+IS 6
+
+RT Journal Article
+ID 800921
+A1 Darrell,Trevor
+A1 Pentland,Alex
+YR 1995
+T1 Cooperative Robust Estimation Using Layers of Support
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 17
+SP 474
+OP 487
+IS 5
+
+RT Conference Proceedings
+ID 524177
+A1 Essa,Irfan,A.
+A1 Pentland,Alex
+YR 1995
+T1 Facial Expression Recognition Using a Dynamic Model and Motion Energy
+SP 360
+OP 367
+
+RT Journal Article
+ID 350348
+A1 Pentland,Alex
+YR 1995
+T1 Machine Understanding of Human Action
+
+RT Conference Proceedings
+ID 428668
+A1 Maes,Pattie
+A1 Darrell,Trevor
+A1 Blumberg,Bruce
+A1 Pentland,Alex
+YR 1995
+T1 The ALIVE system: full-body interaction with autonomous agents
+SP 11
+OP 18
+
+RT Journal Article
+ID 2677684
+A1 Darrell,T.
+A1 Blumberg,B.
+A1 Daniel,S.
+A1 Rhodes,B.
+A1 Maes,P.
+A1 Pentland,A.
+YR 1995
+T1 Alive: Dreams and Illu-sions
+
+RT Journal Article
+ID 393796
+A1 Azarbayejani,Ali
+A1 Pentland,Alex
+YR 1995
+T1 Camera Self-Calibration From One Point Correspondence
+
+RT Journal Article
+ID 400215
+A1 Sparacino,Flavia
+A1 Wren,Christopher
+A1 Pentland,Alex
+A1 Davenport,Glorianna
+YR 1995
+T1 HyperPlex: a World of 3D Interactive Digital Movies
+
+RT Journal Article
+ID 1313316
+A1 Azarbayejani,Ali
+A1 Pentland,Alex
+YR 1995
+T1 Recursive estimation of motion
+
+RT Conference Proceedings
+ID 2093883
+A1 Moghaddam,B.
+A1 Pentland,A.
+YR 1995
+T1 Maximum Likelihood detection of faces and hands
+
+RT Journal Article
+ID 365743
+A1 Pentland,Alex
+A1 Lin,Andrew
+YR 1995
+T1 Modeling and Prediction of Human Behavior
+JF Neural Computation
+
+RT Conference Proceedings
+ID 320815
+A1 Nastar,Chahab
+A1 Pentland,Alex
+YR 1995
+T1 Matching and recognition using deformable intensity surfaces
+
+RT Conference Proceedings
+ID 2021693
+A1 Pentland,Alex
+A1 Liu,Andrew
+YR 1995
+T1 Toward augmented control systems
+
+RT Conference Proceedings
+ID 456593
+A1 Moghaddam,Baback
+A1 Pentland,Alex
+YR 1995
+T1 An Automatic System for Model-Based Coding of Faces
+SP 362
+OP 370
+
+RT Journal Article
+ID 2121762
+A1 Pentland,A.,P.
+YR 1995
+T1 Machine Understanding of Human Motion
+
+RT Journal Article
+ID 2035325
+A1 Starner,T.
+A1 Mann,S.
+A1 Rhodes,B.
+A1 Healey,J.
+A1 Russel,K.,B.
+A1 Levine,J.
+A1 Pentland,A.
+YR 1995
+T1 Wearable Computing and Augmented Reality
+
+RT Conference Proceedings
+ID 318083
+A1 Moghaddam,Baback
+A1 Pentland,Alex
+YR 1995
+T1 A subspace method for maximum likelihood target detection
+
+RT Conference Proceedings
+ID 561005
+A1 Darrell,Trevor
+A1 Pentland,Alex
+YR 1995
+T1 Active Gesture Recognition using Learned Visual Attention
+SP 858
+OP 864
+
+RT Journal Article
+ID 3650640
+A1 Starner,T.
+A1 Pentland,A.
+YR 1995
+T1 Real-time asl recognition from video using hidden markov models
+
+RT Journal Article
+ID 4072138
+A1 Starner,T.
+A1 Pentland,A.
+YR 1995
+T1 Visual recognition of american sign language using HMMs
+
+RT Conference Proceedings
+ID 615856
+A1 Maes,Pattie
+A1 Blumberg,Bruce
+A1 Darrell,Trevor
+A1 Pentland,Alex
+A1 Wexelblat,Alan
+YR 1995
+T1 Modeling Interactive Agents in ALIVE
+SP 2073
+OP 2074
+
+RT Journal Article
+ID 197770
+A1 Picard,R.,W.
+A1 Pentland,A.,P.
+YR 1995
+T1 Temperature and Gibbs Image Modeling
+
+RT Journal Article
+ID 51987491
+A1 Pentland,Alexander,P.
+A1 Picard,Rosalind,W.
+A1 Sclaroff,Stan
+YR 1995
+T1 Photobook: tools for content-based manipulation of image databases
+VO 2368
+SP 37
+OP 50
+
+RT Conference Proceedings
+ID 388655
+A1 Pentland,Alex
+A1 Moghaddam,Baback
+A1 Starner,Thad
+YR 1994
+T1 View-based and modular eigenspaces for face recognition
+SP 84
+OP 91
+
+RT Conference Proceedings
+ID 668885
+A1 Pentland,Alex
+A1 Picard,Rosalind,W.
+A1 Sclaroff,Stan
+YR 1994
+T1 Photobook: Tools for Content-Based Manipulation of Image Databases
+SP 34
+OP 47
+
+RT Journal Article
+ID 312998
+A1 Moghaddam,Baback
+A1 Pentland,Alexander,P.
+YR 1994
+T1 Face recognition using view-based and modular eigenspaces
+VO 2277
+SP 12
+OP 21
+
+RT Journal Article
+ID 395041
+A1 Bichsel,M.
+A1 Pentland,A.,P.
+YR 1994
+T1 Human Face Recognition and the Face Image Set's Topology
+JF International Journal of Computer Vision
+
+RT Conference Proceedings
+ID 374051
+A1 Essa,Irfan,A.
+A1 Pentland,Alex
+YR 1994
+T1 A vision system for observing and extracting facial action parameters
+SP 76
+OP 83
+
+RT Conference Proceedings
+ID 12647990
+A1 Essa,Irfan,A.
+A1 Darrell,Trevor
+A1 Pentland,Alex
+YR 1994
+T1 Tracking facial motion
+
+RT Conference Proceedings
+ID 1979385
+A1 Martin,John
+A1 Pentland,Alex
+A1 Kikinis,Ron
+YR 1994
+T1 Shape analysis of brain structures using physical and experimental modes
+SP 752
+OP 755
+
+RT Journal Article
+ID 4072134
+A1 Starner,T.
+A1 Pentland,A.
+YR 1994
+T1 Visual Recognition of American Sign Language Using Hidden Markov Models
+
+RT Conference Proceedings
+ID 399165
+A1 Darrell,Trevor
+A1 Essa,Irfan,A.
+A1 Pentland,Alex
+YR 1994
+T1 Correlation and Interpolation Networks for Real-time Expression Analysis/Synthesis
+SP 909
+OP 916
+
+RT Journal Article
+ID 1994372
+A1 Pentland,A.
+A1 Scherock,S.
+A1 Darrell,T.
+A1 Girod,B.
+YR 1994
+T1 Simple range cameras based on focal error
+JF Journal of The Optical Society of America A-optics Image Science and Vision
+VO 11
+SP 2925
+IS 11
+
+RT Journal Article
+ID 799385
+A1 Pentland,Alex
+YR 1994
+T1 Interpolation Using Wavelet Bases
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 16
+SP 410
+OP 414
+IS 4
+
+RT Journal Article
+ID 28572047
+A1 Okada,N
+A1 Pentland,A,P
+A1 Falk,P
+A1 Caparon,M,G
+YR 1994
+T1 M protein and protein F act as important determinants of cell-specific tropism of Streptococcus pyogenes in skin tissue
+JF Journal of Clinical Investigation
+VO 94
+SP 965
+OP 977
+IS 3
+
+RT Conference Proceedings
+ID 492003
+A1 Maes,Pattie
+A1 Darrell,Trevor
+A1 Blumberg,Bruce
+A1 Pentland,Alex
+YR 1994
+T1 ALIVE: Artificial Life Interactive Video Environment
+SP 1506
+
+RT Journal Article
+ID 850026
+A1 Pentland,Alex
+A1 Picard,Rosalind,W.
+A1 Davenport,Glorianna
+A1 Haase,Kenneth,B.
+YR 1994
+T1 Video and Image Semantics: Advanced Tools for Telecommunications
+JF IEEE Multimedia
+VO 1
+SP 73
+OP 75
+IS 2
+
+RT Conference Proceedings
+ID 3492053
+A1 Sclaroff,Stan
+A1 Pentland,Alex,P.
+YR 1994
+T1 On modal modeling for medical images: underconstrained shape description and data compression
+
+RT Journal Article
+ID 352905
+A1 Azarbayejani,Ali,J.
+A1 Galyean,Tinsley
+A1 Horowitz,Bradley
+A1 Pentland,Alex
+YR 1994
+T1 Recursive estimation for CAD model recovery
+
+RT Journal Article
+ID 3257375
+A1 Maes,P.
+A1 Darrell,T.
+A1 Blumberg,B.
+A1 Pentland,S.
+YR 1994
+T1 Interacting with animated autonomous agents
+JF Communications of The ACM
+
+RT Journal Article
+ID 396154
+A1 Sclaroff,Stan
+A1 Pentland,Alex,P.
+YR 1994
+T1 Object recognition and categorization using modal matching
+
+RT Conference Proceedings
+ID 257254
+A1 Sclaroff,Stan
+A1 Pentland,Alex,P.
+YR 1994
+T1 Physically-based combinations of views: representing rigid and nonrigid motion
+
+RT Journal Article
+ID 39305033
+A1 Pentland,Alex
+A1 Darrell,Trevor
+YR 1994
+T1 Visual perception of human bodies and faces for multi-modal interfaces
+
+RT Conference Proceedings
+ID 50010237
+A1 Ponce,J.
+A1 Bajcsy,R.
+A1 Metaxas,D.
+A1 Binford,T.,O.
+A1 Forsyth,D.,A.
+A1 Hebert,M.
+A1 Ikeuchi,K.
+A1 Kak,A.,C.
+A1 Shapiro,L.
+A1 Sclaroff,S.
+A1 Pentland,A.
+A1 Stockman,G.,C.
+YR 1994
+T1 Object representation for object recognition
+SP 147
+OP 152
+
+RT Conference Proceedings
+ID 232795
+A1 Sclaroff,Stan
+A1 Pentland,Alex,P.
+YR 1994
+T1 Search by shape examples: modeling nonrigid deformation
+VO 2
+SP 1341
+
+RT Conference Proceedings
+ID 50010403
+A1 Pentland,Alex
+A1 Darrell,Trevor
+A1 Essa,Irfan
+A1 Azarbayejani,Ali
+A1 Sclaroff,Stan
+YR 1994
+T1 Visually guided animation
+
+RT Journal Article
+ID 3695960
+A1 Darrell,T.
+A1 Azarbayejani,A.
+A1 Pentland,A.
+YR 1994
+T1 Robust estimation of multiple models in the structure from motion domain
+
+RT Journal Article
+ID 2065860
+A1 Essa,I.,A.
+A1 Darrell,T.
+A1 Pentland,A.
+YR 1994
+T1 Modeling and Interactive Animation of Facial Expression using Vision
+
+RT Conference Proceedings
+ID 49998164
+A1 Pentland,Alex
+A1 Sclaroff,Stan
+A1 Darrell,Trevor
+A1 Essa,Irfan
+A1 Azarbayejani,Ali
+A1 Starner,Thad
+YR 1994
+T1 Visually guided interaction and animation
+VO 2
+SP 1287
+
+RT Conference Proceedings
+ID 438707
+A1 Petrovic,Dragutin
+A1 Arman,Farshid
+A1 Judice,Charlie
+A1 Pentland,Alex
+A1 Normile,James,O.
+YR 1994
+T1 Multimedia Databases and Information Systems (Panel)
+SP 67
+
+RT Conference Proceedings
+ID 909821
+A1 Petrovic,Dragutin
+A1 Arman,Farshid
+A1 Judice,Charlie
+A1 Pentland,Alex
+A1 Normile,James
+YR 1994
+T1 Multimedia databases and information systems
+SP 67
+
+RT Journal Article
+ID 52120135
+A1 Pentland,Alexander,P.
+A1 Picard,Rosalind,W.
+A1 Scarloff,S.
+YR 1994
+T1 Photobook: tools for content-based manipulation of image databases
+VO 2185
+SP 34
+OP 47
+
+RT Conference Proceedings
+ID 49979480
+A1 Darrell,Trevor
+A1 Pentland,Alex
+YR 1993
+T1 Space-time gestures
+SP 335
+OP 340
+
+RT Journal Article
+ID 252318
+A1 Azarbayejani,Ali
+A1 Starner,Thad
+A1 Horowitz,Bradley
+A1 Pentland,Alex
+YR 1993
+T1 Visually Controlled Graphics
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 15
+SP 602
+OP 605
+IS 6
+
+RT Journal Article
+ID 337147
+A1 Darrell,Trevor,J.
+A1 Pentland,Lex,P.
+YR 1993
+T1 Recognition of Space-Time Gestures using a Distributed Representation
+
+RT Conference Proceedings
+ID 1969249
+A1 Azarbayejani,Ali
+A1 Horowitz,Bradley
+A1 Pentland,Alex
+YR 1993
+T1 Recursive estimation of structure and motion using relative orientation constraints
+SP 294
+OP 299
+
+RT Journal Article
+ID 356182
+A1 Essa,Irfan,A.
+A1 Sclaroff,Stan
+A1 Pentland,Alex
+YR 1993
+T1 Physically-based Modeling for Graphics and Vision
+
+RT Journal Article
+ID 1976558
+A1 Sclaroff,S.
+A1 Pentland,A.
+YR 1993
+T1 Modal Matching for Correspondence and Recognition
+
+RT Conference Proceedings
+ID 2087865
+A1 Sclaroff,Stan
+A1 Pentland,Alex
+YR 1993
+T1 A modal framework for correspondence and description
+
+RT Journal Article
+ID 2136319
+A1 Pentland,A.
+A1 Picard,R.,W.
+A1 Sclaroff,S.
+YR 1993
+T1 Photobook: Tools for content-base manipulation of image databases
+
+RT Conference Proceedings
+ID 561004
+A1 Darrell,Trevor
+A1 Pentland,Alex
+YR 1993
+T1 Classifying Hand Gestures with a View-Based Distributed Representation
+SP 945
+OP 952
+
+RT Journal Article
+ID 2567424
+A1 Scarlo,S.
+A1 Pentland,A.
+YR 1993
+T1 A finite-element framework for correspondance and matching
+
+RT Journal Article
+ID 1983582
+A1 Pentland,A
+A1 Sclaroff,S
+A1 Horowitz,B
+A1 Essa,I.
+YR 1993
+T1 Three-Dimensional Object Recognition Systems
+
+RT Conference Proceedings
+ID 1976557
+A1 Sclaroff,S.
+A1 Pentland,A.
+YR 1993
+T1 A modal framework for correspondence and recognition
+
+RT Conference Proceedings
+ID 616100
+A1 Dickinson,Sven,J.
+A1 Bergevin,Robert
+A1 Biederman,Irving
+A1 Eklundh,Jan-olof
+A1 Munck-fairwood,Roger
+A1 Pentland,Alex
+YR 1993
+T1 The Use of Geons for Generic 3D Object Recognition
+SP 1693
+OP 1702
+
+RT Journal Article
+ID 6082823
+A1 Pentland,Alex,P.
+YR 1993
+T1 Surface Interpolation Networks
+JF Neural Computation
+VO 5
+SP 430
+OP 442
+IS 3
+
+RT Journal Article
+ID 30234026
+A1 WELGUS,H
+A1 SAARIALHOKERE,U
+A1 KOVACS,S
+A1 PENTLAND,A
+A1 PARKS,W
+YR 1993
+T1 Cell: Matrix interactions direct collagenase and stromelysin expression by keratinocytes actively involved in wound healing
+JF Journal of Dermatological Science
+VO 6
+SP 30
+IS 1
+
+RT Journal Article
+ID 30233725
+A1 PENTLAND,A
+A1 MASFERRART,J
+A1 GRESHAM,A
+YR 1993
+T1 UVB irradiation induces cytosolic phospholipase A synthesis in human keratinocytes
+JF Journal of Dermatological Science
+VO 6
+SP 25
+IS 1
+
+RT Conference Proceedings
+ID 49979669
+A1 Pentland,A.
+YR 1993
+T1 Multiple model encoding of images
+SP 1509
+
+RT Journal Article
+ID 799998
+A1 Dickinson,Sven,J.
+A1 Pentland,Alex
+A1 Rosenfeld,Azriel
+YR 1992
+T1 3-D Shape Recovery Using Distributed Aspect Matching
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 14
+SP 174
+OP 198
+IS 2
+
+RT Conference Proceedings
+ID 375197
+A1 Bichsel,M.
+A1 Pentland,A.,P.
+YR 1992
+T1 A Simple Algorithm for Shape from Shading
+SP 459
+OP 465
+
+RT Conference Proceedings
+ID 570306
+A1 Friedmann,Martin
+A1 Starner,Thad
+A1 Pentland,Alex
+YR 1992
+T1 Device synchronization using an optimal linear filter
+SP 57
+OP 62
+
+RT Journal Article
+ID 2013297
+A1 Dickinson,S.
+A1 Pentland,A.
+A1 Rosenfeld,A.
+YR 1992
+T1 From volumes to views: An approach to 3-D object recognition
+JF International Journal of Computer Vision
+
+RT Journal Article
+ID 1751355
+A1 Friedmann,Martin
+A1 Starner,Thad
+A1 Pentland,Alex
+YR 1992
+T1 Synchronization in Virtual Realities
+JF Teleoperators and Virtual Environments
+VO 1
+SP 139
+OP 144
+IS 1
+
+RT Journal Article
+ID 27011500
+A1 WILLIAMS,JOHN,R.
+A1 PENTLAND,ALEX,P.
+YR 1992
+T1 SUPERQUADRICS AND MODAL DYNAMICS FOR DISCRETE ELEMENTS IN INTERACTIVE DESIGN
+JF Engineering Computations
+VO 9
+SP 115
+OP 127
+IS 2
+
+RT Journal Article
+ID 725040
+A1 Essa,Irfan,A.
+A1 Sclaroff,Stan
+A1 Pentland,Alex
+YR 1992
+T1 A Unified Approach for Physical and Geometric Modeling for Graphics and Animation
+JF Computer Graphics Forum
+VO 11
+SP 129
+OP 138
+IS 3
+
+RT Journal Article
+ID 717319
+A1 Pentland,Alex,P.
+YR 1992
+T1 Fast solutions to physical equilibrium and interpolation problems
+JF The Visual Computer
+VO 8
+SP 303
+OP 314
+IS 5&6
+
+RT Journal Article
+ID 27384105
+A1 FAUGERAS,O
+A1 MUNDY,J
+A1 AHUJA,N
+A1 DYER,C
+A1 PENTLAND,A
+A1 JAIN,R
+A1 IKEUCHI,K
+A1 BOWYER,K
+YR 1992
+T1 Why aspect graphs are not (yet) practical for computer vision
+JF Cvgip: Image Understanding
+VO 55
+SP 212
+OP 218
+IS 2
+
+RT Journal Article
+ID 3118331
+A1 Pentland,A.,P.
+A1 Simoncelli,E.,P.
+A1 Stephenson,T.
+YR 1992
+T1 Fractal-based image compression and interpolation
+
+RT Conference Proceedings
+ID 4346940
+A1 Pentland,Alex
+YR 1992
+T1 Modal Descriptions for Recognition and Tracking
+SP 435
+OP 444
+
+RT Book, Whole
+ID 509230
+A1 Pentland,Alex,P.
+YR 1992
+T1 Surface Interpolation Using Wavelets
+SP 615
+OP 619
+
+RT Journal Article
+ID 3575069
+A1 Essa,I.,A.
+A1 Sclaroff,S.
+A1 Pentland,A.,P.
+YR 1992
+T1 Physically-Based Modeling for Graphics and Vision
+
+RT Journal Article
+ID 27384102
+A1 DICKINSON,S
+A1 PENTLAND,A
+A1 ROSENFELD,A
+YR 1992
+T1 From volumes to views: An approach to 3-D object recognition
+JF Cvgip: Image Understanding
+VO 55
+SP 130
+OP 154
+IS 2
+
+RT Journal Article
+ID 51758836
+A1 Picard,Rosalind,W.
+A1 Pentland,Alexander,P.
+YR 1992
+T1 Markov/Gibbs modeling: texture and temperature
+VO 1607
+SP 15
+OP 26
+
+RT Journal Article
+ID 52741607
+A1 Sclaroff,Stan
+A1 Pentland,Alexander,P.
+YR 1992
+T1 Modal models: energy-based implicit functions
+VO 1828
+SP 14
+OP 23
+
+RT Journal Article
+ID 51911368
+A1 Darrell,Trevor,J.
+A1 Pentland,Alexander,P.
+YR 1992
+T1 Multilayer robust estimation for motion segmentation
+VO 1613
+SP 228
+OP 233
+
+RT Journal Article
+ID 53054380
+A1 Dickinson,Sven,J.
+A1 Pentland,Alexander,P.
+YR 1992
+T1 Unified approach to the recognition of expected and unexpected geon-based objects
+VO 1708
+SP 614
+OP 627
+
+RT Journal Article
+ID 15244531
+A1 Turk,Matthew
+A1 Pentland,Alex
+YR 1991
+T1 Eigenfaces for Recognition
+JF Journal of Cognitive Neuroscience
+VO 3
+SP 71
+OP 86
+IS 1
+
+RT Conference Proceedings
+ID 1363598
+A1 Turk,Matthew,A.
+A1 Pentland,Alex,P.
+YR 1991
+T1 Face recognition using eigenfaces
+SP 586
+OP 591
+
+RT Journal Article
+ID 799653
+A1 Pentland,Alex
+A1 Sclaroff,Stan
+YR 1991
+T1 Closed-Form Solutions for Physically Based Shape Modeling and Recognition
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 13
+SP 715
+OP 729
+IS 7
+
+RT Journal Article
+ID 799652
+A1 Pentland,Alex
+A1 Horowitz,Bradley
+YR 1991
+T1 Recovery of Nonrigid Motion and Structure
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 13
+SP 730
+OP 742
+IS 7
+
+RT Conference Proceedings
+ID 1979772
+A1 Darrell,Trevor
+A1 Pentland,Alex
+YR 1991
+T1 Robust estimation of a multi-layered motion representation
+
+RT Journal Article
+ID 39212996
+A1 Sclaroff,Stan
+A1 Pentland,Alex
+YR 1991
+T1 Generalized implicit functions for computer graphics
+JF ACM Siggraph Computer Graphics
+VO 25
+SP 247
+OP 250
+IS 4
+
+RT Conference Proceedings
+ID 49905054
+A1 Horowitz,Bradley
+A1 Pentland,Alex
+YR 1991
+T1 Recovery of non-rigid motion and structure
+SP 325
+OP 330
+
+RT Journal Article
+ID 1992406
+A1 Pentland,A
+A1 Williams,J
+YR 1991
+T1 Good Vibrations: Modal Dynamics for Graphics and Animations
+JF Computers & Graphics
+
+RT Conference Proceedings
+ID 456061
+A1 Pentland,Alex
+A1 Horowitz,Bradley
+YR 1991
+T1 A Practical Approach to Fractal-Based Image Compression
+VO 1605
+SP 176
+OP 185
+
+RT Journal Article
+ID 1974172
+A1 Mase,K.
+A1 Pentland,A.
+YR 1991
+T1 Automatic lip-reading by optical flow analysis
+JF Systems and Computers in Japan
+
+RT Journal Article
+ID 1986598
+A1 Mase,K.
+A1 Pentland,A.
+YR 1991
+T1 Lipreading by optical flow
+JF ACM Transactions on Computer Systems
+
+RT Journal Article
+ID 799384
+A1 Pentland,Alex
+YR 1991
+T1 Photometric Motion
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 13
+SP 879
+OP 890
+IS 9
+
+RT Journal Article
+ID 2069074
+A1 Turk,M.
+A1 Pentland,A.
+YR 1991
+T1 Eigenfaces for Face Recognition
+
+RT Conference Proceedings
+ID 121
+A1 Picard,R.,W.
+A1 Elfadel,Ibrahim,M.
+A1 Pentland,A.,P.
+YR 1991
+T1 Markov/Gibbs texture modeling: aura matrices and temperature effects
+SP 371
+OP 377
+
+RT Conference Proceedings
+ID 49905230
+A1 Pentland,Alex
+A1 Horowitz,Bradley
+A1 Sclaroff,Stan
+YR 1991
+T1 Non-rigid motion and structure from contour
+
+RT Journal Article
+ID 49905016
+A1 Dickinson,S.,J.
+A1 Pentland,Alex,P.
+A1 Rosenfeld,Azriel
+YR 1991
+T1 From volumes to views: an approach to 3-D object recognition
+
+RT Journal Article
+ID 49905017
+A1 Faugeras,O.
+A1 Mundy,J.
+A1 Ahuja,N.
+A1 Dyer,C.
+A1 Pentland,A.
+A1 Jain,R.
+A1 Ikeuchi,K.
+A1 Bowyer,K.
+YR 1991
+T1 Why aspect graphs are not (yet) practical for computer vision
+
+RT Conference Proceedings
+ID 49905049
+A1 Sclaroff,Stan
+A1 Pentland,Alex
+YR 1991
+T1 Closed-form solutions for physically-based shape modeling and recognition
+SP 238
+OP 243
+
+RT Conference Proceedings
+ID 49905108
+A1 Darrel,T.
+A1 Pentland,Alex
+YR 1991
+T1 On the representation of occluded shapes
+SP 728
+OP 729
+
+RT Conference Proceedings
+ID 561003
+A1 Darrell,Trevor
+A1 Pentland,Alex
+YR 1991
+T1 Against Edges: Function Approximation with Multiple Support Maps
+SP 388
+OP 395
+
+RT Journal Article
+ID 51864538
+A1 Turk,Matthew,A.
+A1 Pentland,Alexander,P.
+YR 1991
+T1 Recognition in face space
+VO 1381
+SP 43
+OP 54
+
+RT Journal Article
+ID 52886725
+A1 Pentland,Alexander,P.
+YR 1991
+T1 Spatial and temporal surface interpolation using wavelet bases
+VO 1570
+SP 43
+OP 62
+
+RT Journal Article
+ID 1984873
+A1 Pentland,Alex,P.
+YR 1990
+T1 Automatic extraction of deformable part models
+JF International Journal of Computer Vision
+VO 4
+SP 107
+OP 126
+IS 2
+
+RT Journal Article
+ID 883499
+A1 Sclaroff,Stan
+A1 Pentland,Alex
+A1 Essa,Irfan
+A1 Friedmann,Martin
+A1 Horowitz,Bradley
+YR 1990
+T1 The ThingWorld modeling system: virtual sculpting by modal forces
+JF ACM Siggraph Computer Graphics
+VO 24
+SP 143
+OP 144
+IS 2
+
+RT Journal Article
+ID 1960121
+A1 Pentland,Alex,P.
+YR 1990
+T1 Linear shape from shading
+JF International Journal of Computer Vision
+VO 4
+SP 153
+OP 162
+IS 2
+
+RT Conference Proceedings
+ID 1985464
+A1 Darrell,Trevor
+A1 Sclaroff,Stan
+A1 Pentland,Alex
+YR 1990
+T1 Segmentation by minimal description
+
+RT Journal Article
+ID 1986869
+A1 Pentland,A.
+YR 1990
+T1 Computational Complexity Versus Simulated Environments
+JF Computers & Graphics
+
+RT Journal Article
+ID 28520045
+A1 Pentland,A,P
+A1 Mahoney,M
+A1 Jacobs,S,C
+A1 Holtzman,M,J
+YR 1990
+T1 Enhanced prostaglandin synthesis after ultraviolet injury is mediated by endogenous histamine stimulation. A mechanism for irradiation erythema
+JF Journal of Clinical Investigation
+VO 86
+SP 566
+OP 574
+IS 2
+
+RT Journal Article
+ID 2717917
+A1 Izui,Yoshio
+A1 Pentland,Alex
+YR 1990
+T1 Analysis of Neural Networks with Redundancy
+JF Neural Computation
+VO 2
+SP 226
+OP 238
+IS 2
+
+RT Journal Article
+ID 2761605
+A1 Masse,K.
+A1 Pentland,A.
+YR 1990
+T1 Automatic Lip reading by Computer
+
+RT Book, Whole
+ID 509229
+A1 Pentland,Alex
+YR 1990
+T1 Extraction Of Deformable Part Models
+SP 397
+OP 407
+
+RT Conference Proceedings
+ID 49892825
+A1 Dickinson,Sven,J.
+A1 Pentland,Alex,P.
+A1 Rosenfeld,Azriel
+YR 1990
+T1 Qualitative 3-D shape reconstruction using distributed aspect graph matching
+
+RT Conference Proceedings
+ID 49892819
+A1 Pentland,Alex
+YR 1990
+T1 Photometric motion
+
+RT Conference Proceedings
+ID 4346949
+A1 Turk,Matthew
+A1 Pentland,Alex
+YR 1990
+T1 Face Recognition without Features
+SP 267
+OP 270
+
+RT Conference Proceedings
+ID 500181
+A1 Pentland,Alex
+YR 1990
+T1 Physically Based Dynamical Models for Image Processing and Recognition
+SP 171
+OP 193
+
+RT Journal Article
+ID 53545288
+A1 Turk,Matthew,A.
+A1 Pentland,Alexander,P.
+YR 1990
+T1 Face processing: models for recognition
+VO 1192
+SP 22
+OP 32
+
+RT Journal Article
+ID 55967298
+A1 Pentland,Alexander,P.
+A1 Kuo,Jeff
+YR 1990
+T1 Three-dimensional line interpretation via local processing
+VO 1249
+SP 338
+OP 344
+
+RT Journal Article
+ID 53707424
+A1 Pentland,Alexander,P.
+YR 1990
+T1 Canonical fitting of deformable part models
+VO 1260
+SP 215
+OP 228
+
+RT Journal Article
+ID 883550
+A1 Pentland,Alex
+A1 Williams,John
+YR 1989
+T1 Good vibrations: model dynamics for graphics and animation
+JF ACM Siggraph Computer Graphics
+VO 23
+SP 215
+OP 222
+IS 3
+
+RT Journal Article
+ID 39212917
+A1 Pentland,Alex
+A1 Williams,John
+YR 1989
+T1 Good vibrations: modal dynamics for graphics and animation
+JF ACM Siggraph Computer Graphics
+SP 207
+OP 214
+
+RT Journal Article
+ID 2023701
+A1 Mase,K.
+A1 Pentland,A.
+YR 1989
+T1 Lip reading: automatic visual recognition of spoken words
+
+RT Journal Article
+ID 2003007
+A1 Pentland,Alex
+YR 1989
+T1 Part Segmentation for Object Recognition
+JF Neural Computation
+VO 1
+SP 82
+OP 91
+IS 1
+
+RT Conference Proceedings
+ID 49862599
+A1 Pentland,A.
+A1 Darrell,T.
+A1 Turk,M.
+A1 Huang,W.
+YR 1989
+T1 A simple, real-time range camera
+SP 256
+OP 261
+
+RT Journal Article
+ID 38469815
+A1 Pentland,Alex
+YR 1989
+T1 Shape information from shading: A theory about human perception
+JF Spatial Vision
+VO 4
+SP 165
+OP 182
+IS 2
+
+RT Conference Proceedings
+ID 1319611
+A1 Pentland,A.
+A1 Darrell,T.
+A1 Turk,M.
+A1 Huang,W.
+YR 1989
+T1 A simple, real-tie range camera
+
+RT Journal Article
+ID 28512313
+A1 Holtzman,M,J
+A1 Turk,J
+A1 Pentland,A
+YR 1989
+T1 A regiospecific monooxygenase with novel stereopreference is the major pathway for arachidonic acid oxygenation in isolated epidermal cells
+JF Journal of Clinical Investigation
+VO 84
+SP 1446
+OP 1453
+IS 5
+
+RT Journal Article
+ID 2382661
+A1 Pentland,A.
+A1 Kuo,J.
+YR 1989
+T1 The artist at the interface
+
+RT Conference Proceedings
+ID 614083
+A1 Pentland,Alex
+A1 Williams,John
+YR 1989
+T1 Perception of Non-Rigid Motion: Inference of Shape, Material and Force
+SP 1565
+OP 1570
+
+RT Journal Article
+ID 36083642
+A1 Holtzman,M.,J.
+A1 Pentland,A.
+A1 Baenziger,N.,L.
+A1 Hansbrough,J.,R.
+YR 1989
+T1 Heterogeneity of cellular expression of arachidonate 15-lipoxygenase: implications for biological activity
+JF Biochimica Et Biophysica Acta (bba) - Lipids and Lipid Metabolism
+VO 1003
+SP 204
+OP 208
+IS 2
+
+RT Journal Article
+ID 15243929
+A1 Pentland,Alex
+YR 1989
+T1 A Possible Neural Mechanism for Computing Shape From Shading
+JF Neural Computation
+VO 1
+SP 208
+OP 217
+IS 2
+
+RT Journal Article
+ID 20048104
+A1 Pentland,Alex
+YR 1989
+T1 Progress toward a simple, parallel vision machine
+JF Optics News
+VO 15
+IS 5
+
+RT Journal Article
+ID 20048129
+A1 Pentland,Alex
+YR 1989
+T1 Progress toward a simple, parallel vision machine
+JF Optics News
+VO 15
+IS 5
+
+RT Journal Article
+ID 20048177
+A1 Pentland,Alex
+YR 1989
+T1 Progress toward a simple, parallel vision machine
+JF Optics News
+VO 15
+SP 9
+IS 5
+
+RT Journal Article
+ID 800584
+A1 Kube,Paul
+A1 Pentland,Alex
+YR 1988
+T1 On the Imaging of Fractal Surfaces
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 10
+SP 704
+OP 707
+IS 5
+
+RT Conference Proceedings
+ID 2105068
+A1 Pentland,Alex
+YR 1988
+T1 Shape Information From Shading: A Theory About Human Perception
+
+RT Journal Article
+ID 3973587
+A1 Pentland,Alex
+YR 1988
+T1 The transform method for shape from shading
+
+RT Journal Article
+ID 53423772
+A1 Bauer,E.,A.
+A1 Pentland,A.,P.
+A1 Kronberger,A.
+A1 Wilhelm,S.,M.
+A1 Goldberg,G.,I.
+A1 Welgus,H.,G.
+A1 Eisen,A.,Z.
+YR 1988
+T1 Keratinocyte and Tumor-Derived Inducers of Collagenase
+JF Annals of The New York Academy of Sciences
+VO 548
+SP 174
+OP 179
+
+RT Conference Proceedings
+ID 489891
+A1 Pentland,Alex
+YR 1988
+T1 On the Extraction of Shape Information from Shading
+SP 826
+OP 830
+
+RT Journal Article
+ID 4003585
+A1 Pentland,A.
+YR 1987
+T1 Toward an ideal 3-D CAD system
+
+RT Journal Article
+ID 36082991
+A1 Pentland,A
+YR 1987
+T1 Cellular confluence determines injury-induced prostaglandin E2 synthesis by human keratinocyte cultures
+JF Biochimica Et Biophysica Acta (bba) - Lipids and Lipid Metabolism
+VO 919
+SP 71
+OP 78
+IS 1
+
+RT Conference Proceedings
+ID 3118586
+A1 Pentland,A.,P.
+YR 1987
+T1 Fractal surface models for communication about terrain
+
+RT Journal Article
+ID 55580121
+A1 Pentland,Alexander,P.
+A1 Murdock,Janet
+YR 1987
+T1 Perceptual organization using generic models (A)
+
+RT Journal Article
+ID 15258442
+A1 Pentland,Alex
+YR 1987
+T1 From naive physics to naive Physics
+JF Computational Intelligence
+VO 3
+SP 204
+OP 205
+IS 1
+
+RT Journal Article
+ID 53655992
+A1 Pentland,A.,P.
+YR 1987
+T1 Toward an ideal 3-D CAD system
+VO 758
+SP 165
+
+RT Journal Article
+ID 54368350
+A1 Pentland,A.,P.
+YR 1987
+T1 Fractal surface models for communication about terrain
+VO 845
+SP 301
+
+RT Journal Article
+ID 697369
+A1 Pentland,Alex
+YR 1986
+T1 Perceptual Organization and the Representation of Natural Form
+JF Artificial Intelligence
+VO 28
+SP 293
+OP 331
+IS 3
+
+RT Journal Article
+ID 28468311
+A1 Pentland,A,P
+A1 Needleman,P
+YR 1986
+T1 Modulation of keratinocyte proliferation in vitro by endogenous prostaglandin synthesis
+JF Journal of Clinical Investigation
+VO 77
+SP 246
+OP 251
+IS 1
+
+RT Journal Article
+ID 697174
+A1 Pentland,Alex
+YR 1986
+T1 Shading into Texture
+JF Artificial Intelligence
+VO 29
+SP 147
+OP 170
+IS 2
+
+RT Conference Proceedings
+ID 489890
+A1 Pentland,Alex
+YR 1986
+T1 Parts: Structured Descriptions of Shape
+SP 695
+OP 701
+
+RT Journal Article
+ID 1266560
+A1 Pentland,Alex
+YR 1986
+T1 From pixels to predicates
+
+RT Journal Article
+ID 61308598
+A1 Pentland,A.
+A1 Moran,C.
+A1 George,J.
+A1 Needleman,P.
+YR 1986
+T1 Induced prostaglandin E2 (PGEâ) synthesis by human keratinocyte cultures is determined by culture confluence
+
+RT Journal Article
+ID 3550985
+A1 Pentland,A.,P.
+YR 1986
+T1 Part structure for 3-D sketching
+
+RT Conference Proceedings
+ID 613734
+A1 Pentland,Alex
+YR 1985
+T1 A New Sense for Depth of Field
+SP 988
+OP 994
+
+RT Journal Article
+ID 33795034
+A1 PENTLAND,A
+A1 ANDERSON,T
+YR 1985
+T1 Plantar fibromatosis responds to intralesional steroids
+JF Journal of The American Academy of Dermatology
+VO 12
+SP 212
+OP 214
+IS 1
+
+RT Journal Article
+ID 864390
+A1 Pentland,Alex,P
+YR 1985
+T1 On describing complex surface shapes
+JF Image and Vision Computing
+VO 3
+SP 153
+OP 162
+IS 4
+
+RT Journal Article
+ID 52345769
+A1 Heeger,David,J.
+A1 Pentland,Alexander,P.
+YR 1985
+T1 Seeing structure through chaos (A)
+
+RT Journal Article
+ID 54030273
+A1 Pentland,Alexander,P.
+YR 1985
+T1 Perceptual organization and the representation of natural form (A)
+
+RT Journal Article
+ID 1960120
+A1 Pentland,Alex,P.
+YR 1984
+T1 Fractal-Based Description of Natural Scenes
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 6
+SP 661
+OP 674
+IS 6
+
+RT Conference Proceedings
+ID 489889
+A1 Pentland,Alex
+YR 1984
+T1 Shading Into Texture
+SP 269
+OP 273
+
+RT Journal Article
+ID 33794220
+A1 FAIRLEY,J
+A1 PENTLAND,A
+A1 VOORHEES,J
+YR 1984
+T1 Urticaria pigmentosa responsive to nifedipine
+JF Journal of The American Academy of Dermatology
+VO 11
+SP 740
+OP 743
+IS 4
+
+RT Journal Article
+ID 3118623
+A1 Pentland,A.
+YR 1984
+T1 Fractals: A model for both texture and shading
+
+RT Journal Article
+ID 51608074
+A1 Witkin,Andrew
+A1 Pentland,Alex,P.
+YR 1984
+T1 Perception and generic modeling (A)
+
+RT Conference Proceedings
+ID 919510
+A1 Jr.,David,M.,McKeown
+A1 Brennan,Susan,E.
+A1 Pentland,Alex,P.
+A1 Voss,Richard,F.
+YR 1984
+T1 Vision, perception and imagery
+SP 228
+OP 229
+
+RT Journal Article
+ID 56142628
+A1 Pentland,Alex,P.
+YR 1984
+T1 Fractals: a model for both texture and shading (A)
+
+RT Conference Proceedings
+ID 613733
+A1 Pentland,Alex
+YR 1983
+T1 Fractal-Based Description
+SP 973
+OP 981
+
+RT Conference Proceedings
+ID 615509
+A1 Barnard,Stephen,T.
+A1 Pentland,Alex
+YR 1983
+T1 Three-Dimensional Shape From Line Drawings
+SP 1062
+OP 1064
+
+RT Journal Article
+ID 36313939
+A1 PENTLAND,A
+A1 MARCELO,C
+YR 1983
+T1 Modulation of proliferation in epidermal keratinocyte cultures by lowered oxygen tension
+JF Experimental Cell Research
+VO 145
+SP 31
+OP 43
+IS 1
+
+RT Journal Article
+ID 720747
+A1 Pentland,Alex
+A1 Fischler,Martin,A.
+YR 1983
+T1 A More Rational View of Logic, Or, Up Against the Wall, Logic Imperialists
+JF Ai Magazine
+VO 4
+SP 15
+OP 18
+IS 4
+
+RT Journal Article
+ID 1999655
+A1 Pentland,Alex,P.
+YR 1982
+T1 Finding the Illuminant Direction
+JF Journal of The Optical Society of America
+VO 72
+SP 448
+IS 4
+
+RT Journal Article
+ID 2075441
+A1 Lieberman,H.
+A1 Pentland,A.
+YR 1982
+T1 Microcomputer based estimation of psychophysical thresholds: The best PEST
+
+RT Conference Proceedings
+ID 489888
+A1 Pentland,Alex
+YR 1982
+T1 Local Computation of Shape
+SP 22
+OP 25
+
+RT Journal Article
+ID 47760214
+A1 Lieberman,Harris,R.
+A1 Pentland,Alex,P.
+YR 1982
+T1 Microcomputer-based estimation of psychophysical thresholds: The Best PEST
+JF Behavior Research Methods
+VO 14
+SP 21
+OP 25
+IS 1
+
+RT Journal Article
+ID 51932560
+A1 Pentland,Alex,P.
+YR 1982
+T1 Perception of shape from shading (A)
+JF Journal of The Optical Society of America
+VO 72
+SP 1756
+
+RT Journal Article
+ID 54766918
+A1 Pentland,Alex,P.
+YR 1982
+T1 Finding the illuminant direction
+JF Journal of The Optical Society of America
+VO 72
+SP 448
+
+RT Journal Article
+ID 36129053
+A1 SCHIRO,J
+A1 CHAN,B
+A1 ROSWIT,W
+A1 KASSNER,P
+A1 PENTLAND,A
+A1 HEMLER,M
+A1 EISEN,A
+A1 KUPPER,T
+YR 1981
+T1 Integrin α2β1 (VLA2) mediates reorganization and contraction of collagen matrices by human cells
+JF Cell
+VO 67
+SP 403
+OP 410
+IS 2
+
+RT Journal Article
+ID 2075443
+A1 Pentland,A.
+YR 1980
+T1 Maximum likelihood estimation: The best PEST
+
+RT Journal Article
+ID 48044636
+A1 Pentland,Alex
+YR 1980
+T1 Maximum likelihood estimation: The best PEST
+JF Attention Perception & Psychophysics
+VO 28
+SP 377
+OP 379
+IS 4
+
+RT Journal Article
+ID 56422022
+A1 Pentland,Alex,P.
+YR 1978
+T1 Uniform extrafoveal sensitivity to pattern differences (A)
+JF Journal of The Optical Society of America
+VO 68
+SP 1437
+
+RT Journal Article
+ID 2390726
+A1 Kauth,R.
+A1 Pentland,A.
+A1 Thomas,G.
+YR 1977
+T1 Blob: an unsupervised clustering approach to spatial preprocessing of mss imagery
+
+RT Book, Whole
+ID 48480467
+A1 Oliver,Nuria
+A1 Rosario,Barbara
+A1 Pentland,Alex
+T1 A Bayesian Computer Vision System for Modeling Human Interactions
+
+RT Journal Article
+ID 12793342
+A1 Darrell,T.
+A1 Basu,S.
+A1 Wren,C.
+A1 Pentland,A.
+T1 Perceptually-driven Avatars and Interfaces: active methods for direct control
+
+RT Journal Article
+ID 207564
+A1 Wren,Christopher,R.
+A1 Pentland,Alex,P.
+T1 Dynaman: A Recursive Model of Human Motion
+
+RT Journal Article
+ID 4595823
+A1 Choudhury,Tanzeem
+A1 Pentland,Alex
+T1 Characterizing Social Networks using the Sociometer
+
+RT Conference Proceedings
+ID 226805
+A1 Starner,Thad
+A1 Rhodes,Bradley
+A1 Weaver,Joshua
+A1 Pentland,Alex
+T1 Everyday-use Wearable Computers
+
+RT Journal Article
+ID 5439110
+A1 Anantraman,Vishwanath
+A1 Mikkelsen,Tarjei
+A1 Khilnani,Reshma
+A1 Kumar,Vikram,S
+A1 Machiraju,N.,Rao
+A1 Pentland,Alex
+A1 Ohno-Machado,Lucila
+T1 Handheld computers for rural healthcare: Experiences from research concept to global operations
+
+RT Journal Article
+ID 3393291
+A1 Sung,Michael
+A1 Gips,Jonathan
+A1 Eagle,Nathan
+A1 Madan,Anmol
+A1 Caneel,Ron
+A1 DeVaul,Rich
+A1 Bonsen,Joost
+A1 Pentland,Sandy
+T1 MIT.EDU: M-learning Applications for Classroom Settings
+JF Journal of Computer Assisted Learning
+
+RT Journal Article
+ID 244655
+A1 Sparacino,Flavia
+A1 Davenport,Glorianna
+A1 Pentland,Alex
+T1 WEARABLE CINEMA/WEARABLE CITY: bridging physical and virtual spaces through wearable computing
+
+RT Journal Article
+ID 134275
+A1 Sparacino,Flavia
+A1 Davenport,Glorianna
+A1 Pentland,Alex
+T1 City of News: cataloguing the World Wide Web through Virtual Architecture
+
+RT Journal Article
+ID 4493443
+A1 Pentland,Alex
+T1 Are We One? On the Nature of Human Intelligence
+
+RT Journal Article
+ID 6276916
+A1 Dong,Wen
+A1 Mani,Ankur
+A1 Pentland,Alex
+A1 Lepri,Bruno
+A1 Pianesi,Fabio
+T1 Modeling Group Discussion Dynamics
+
+RT Journal Article
+ID 12655689
+A1 Darrell,Trevor
+A1 Maes,Pattie
+A1 Blumberg,Bruce
+A1 Pentland,Alex,P.
+T1 M.I.T. Media Laboratory Perceptual Computing Technical Report No. 261 Presented at IEEE Workshop for Visual Behaviors, CVPR94 A Novel Environment for Situated Vision and Behavior
+
+RT Journal Article
+ID 4633130
+A1 Weng,Juyang
+A1 McClelland,James
+A1 Pentland,Alex
+A1 Sporns,Olaf
+A1 Stockman,Ida
+A1 Thelen,Ether
+T1 Computational Autonomous Mental Development: A White Paper for Suggesting a New Initiative
+
+RT Journal Article
+ID 11774266
+A1 Martin,John
+A1 Pentland,Alex
+A1 Sclaroff,Stan
+A1 Kikinis,Ron
+T1 Characterization of Neuropathological Shape
+
+RT Journal Article
+ID 48487777
+A1 Jayagopi,Dineshbabu
+A1 Kim,Taemie
+A1 Pentland,Alex
+A1 Gatica-Perez,Daniel
+T1 Privacy-sensitive recognition of group conversational context with sociometers
+JF Multimedia Systems
+SP 1
+OP 12
+
+RT Journal Article
+ID 49643900
+A1 Aharony,Nadav
+A1 Pan,Wei
+A1 Ip,Cory
+A1 Khayal,Inas
+A1 Pentland,Alex
+T1 Social fMRI: Investigating and shaping social mechanisms in the real world
+JF Pervasive and Mobile Computing
+
+RT Journal Article
+ID 10577620
+A1 Waber,B.,N.
+A1 Brynjolfsson,E.
+A1 Pentland,A.
+T1 Mining Face-to-Face Interaction Networks Using Sociometric Badges: Evidence Predicting Individual and Task Productivity in IT Configuration
+
+RT Journal Article
+ID 10947651
+A1 Jebara,Tony
+A1 Ivanov,Yuri
+A1 Rahimi,Ali
+A1 Pentland,Alex
+T1 MIT Media Laboratory, Perceptual Computing Technical Report #530 Appears In: AAAI Fall Symposium - Socially Intelligent Agents The Human in the Loop, November 2000 Tracking Conversational Context for Machine Mediation of Human Discourse
+
+RT Journal Article
+ID 13032417
+A1 Sclaroff,Stan
+A1 Pentland,Alex
+T1 Correspondence and Recognition
+
+RT Journal Article
+ID 12436555
+A1 Bérard,François
+A1 Pentland,Sandy
+A1 Laurillau,Yann
+T1 Augmentation d'un tableau blanc par des techniques de Vision par Ordinateur
+
+RT Journal Article
+ID 12807933
+A1 Huang,Thomas
+A1 Nijholt,Anton
+A1 Pantic,Maja
+A1 Pentland,Alex
+T1 IJCAI 2007 Workshop on AI for Human Computing (AI4HC'07)
+
+RT Journal Article
+ID 2321297
+A1 Strom,Jacob
+A1 Jebara,Tony
+A1 Pentland,Alex
+T1 Model-Based Real-Time Face Tracking with Adaptive Texture Update
+
+RT Journal Article
+ID 68242
+A1 Basu,Sumit
+A1 Oliver,Nuria
+A1 Pentland,Alex
+T1 Coding Human Lip Motions with a Learned 3D Model
+
+RT Journal Article
+ID 3982147
+A1 Rensink,Ronald,A.
+A1 Pentland,AP
+T1 The world, the brain, and the speed of sight
+
+RT Journal Article
+ID 13038883
+A1 Essa,Irfan,A.
+A1 Pentland,Alex,P.
+T1 M.I.T Media Laboratory Perceptual Computing Section Technical Report No. 307 Appears: International Conference on Computer Vision '95, Cambridge, MA, June 20-23, 1995 Facial Expression Recognition using a Dynamic Model and Motion Energy
+
+RT Book, Whole
+ID 48800603
+A1 Olguín,Daniel,Olguín
+A1 Madan,Anmol
+A1 Cebrian,Manuel
+A1 Pentland,Alex
+T1 Mobile Sensing Technologies and Computational Methods for Collective Intelligence
+
+RT Journal Article
+ID 12777899
+A1 Pentland,Alex
+A1 Williams,John
+T1 Inference of Shape, Material and Force
+
+RT Book, Whole
+ID 48191946
+A1 Pentland,A.,P.
+T1 Photobiology of the Skin

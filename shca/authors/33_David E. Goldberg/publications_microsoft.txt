@@ -1,0 +1,5042 @@
+RT Journal Article
+ID 53567013
+A1 Istvan,E.,S.
+A1 Dharia,N.,V.
+A1 Bopp,S.,E.
+A1 Gluzman,I.
+A1 Winzeler,E.,A.
+A1 Goldberg,D.,E.
+YR 2011
+T1 Validation of isoleucine utilization targets in Plasmodium falciparum
+JF Proceedings of The National Academy of Sciences
+VO 108
+SP 1627
+OP 1632
+
+RT Conference Proceedings
+ID 51034265
+A1 Okoye,Nicky
+A1 Goldberg,David
+A1 Husaini,Saima
+A1 Fein,Yaakov
+A1 Menon,Vinod,M.
+YR 2011
+T1 Colloidal quantum dot based photonic devices
+
+RT Journal Article
+ID 53092330
+A1 Muralidharan,V.
+A1 Oksman,A.
+A1 Iwamoto,M.
+A1 Wandless,T.,J.
+A1 Goldberg,D.,E.
+YR 2011
+T1 Asparagine repeat function in a Plasmodium falciparum protein assessed via a regulatable fluorescent affinity tag
+JF Proceedings of The National Academy of Sciences
+VO 108
+SP 4411
+OP 4416
+
+RT Conference Proceedings
+ID 13995216
+A1 Verma,Abhishek
+A1 Llorà,Xavier
+A1 Venkataraman,Shivaram
+A1 Goldberg,David,E.
+A1 Campbell,Roy,H.
+YR 2010
+T1 Scaling eCGA model building via data-intensive computing
+SP 1
+OP 8
+
+RT Journal Article
+ID 14432133
+A1 Stalph,Patrick,O.
+A1 Llorà,Xavier
+A1 Goldberg,David,E.
+A1 Butz,Martin,V.
+YR 2010
+T1 Resource management and scalability of the XCSF learning classifier system
+JF Theoretical Computer Science
+
+RT Book, Whole
+ID 13338900
+A1 Llorà,Xavier
+A1 Verma,Abhishek
+A1 Campbell,Roy,H.
+A1 Goldberg,David,E.
+YR 2010
+T1 When Huge Is Routine: Scaling Genetic Algorithms and Estimation of Distribution Algorithms via Data-Intensive Computing
+
+RT Conference Proceedings
+ID 50909348
+A1 Schertz,B.,K.
+A1 Goldberg,D.,E.
+A1 Hyman,K.,K.
+YR 2010
+T1 Engineering Education Reform in a Large Research University: Strategies and Reflections on Innovation
+
+RT Conference Proceedings
+ID 50996768
+A1 Somerville,Mark,H.
+A1 Goldberg,David,E.
+A1 Kerns,Sherra,E.
+A1 Korte,Russell
+YR 2010
+T1 Special session — A war of words: Using sticky language to effect change in engineering education
+
+RT Conference Proceedings
+ID 13300407
+A1 Orriols-Puig,Albert
+A1 Llorà,Xavier
+A1 Goldberg,David,E.
+YR 2010
+T1 How XCS deals with rarities in domains with continuous attributes
+SP 1023
+OP 1030
+
+RT Conference Proceedings
+ID 50909338
+A1 Goldberg,D.,E.
+YR 2010
+T1 The Emotional Rescue of Engineering Education
+
+RT Journal Article
+ID 13985506
+A1 Orriols-Puig,Albert
+A1 Bernadó-Mansilla,Ester
+A1 Goldberg,David,E.
+A1 Sastry,Kumara
+A1 Lanzi,Pier,Luca
+YR 2009
+T1 Facetwise Analysis of XCS for Problems With Class Imbalances
+JF IEEE Transactions on Evolutionary Computation
+VO 13
+SP 1093
+OP 1119
+IS 5
+
+RT Journal Article
+ID 13287570
+A1 Yu,Tian-Li
+A1 Goldberg,David,E.
+A1 Sastry,Kumara
+A1 Lima,Cláudio,F.
+A1 Pelikan,Martin
+YR 2009
+T1 Dependency Structure Matrix, Genetic Algorithms, and Effective Recombination
+JF Evolutionary Computation
+VO 17
+SP 595
+OP 626
+IS 4
+
+RT Conference Proceedings
+ID 6252283
+A1 Verma,Abhishek
+A1 Llorà,Xavier
+A1 Goldberg,David,E.
+A1 Campbell,Roy,H.
+YR 2009
+T1 Scaling Genetic Algorithms Using MapReduce
+SP 13
+OP 18
+
+RT Journal Article
+ID 41417440
+A1 Goldberg,David
+A1 Slagle,Angela,L.
+YR 2009
+T1 A global assessment of deep-sea basalt sites for carbon sequestration
+JF Energy Procedia
+VO 1
+SP 3675
+OP 3682
+IS 1
+
+RT Journal Article
+ID 4754819
+A1 Goldberg,David
+A1 Bern,Marshall,W.
+A1 North,Simon,J.
+A1 Haslam,Stuart,M.
+A1 Dell,Anne
+YR 2009
+T1 Glycan family analysis for deducing N-glycan topology from single MS
+JF Bioinformatics/computer Applications in The Biosciences
+VO 25
+SP 365
+OP 371
+IS 3
+
+RT Conference Proceedings
+ID 6035714
+A1 Duque,Thyago,S.,P.,C.
+A1 Goldberg,David,E.
+YR 2009
+T1 A new method for linkage learning in the ECGA
+SP 1819
+OP 1820
+
+RT Conference Proceedings
+ID 4860341
+A1 Moreno-torres,Jose,Garcia
+A1 Llorà,Xavier
+A1 Goldberg,David,E.
+YR 2009
+T1 Binary representation in gene expression programming: towards a better scalability
+SP 1911
+OP 1912
+
+RT Book, Whole
+ID 6054364
+A1 Lima,Cláudio,F.
+A1 Pelikan,Martin
+A1 Lobo,Fernando,G.
+A1 Goldberg,David,E.
+YR 2009
+T1 Loopy Substructural Local Search for the Bayesian Optimization Algorithm
+SP 61
+OP 75
+
+RT Conference Proceedings
+ID 6035816
+A1 Vallim,Rosane,Maria,Maffei
+A1 Duque,Thyago,S.,P.,C.
+A1 Goldberg,David,E.
+YR 2009
+T1 The multi-label OCS with a genetic algorithm for rule discovery: implementation and first results
+SP 1323
+OP 1330
+
+RT Conference Proceedings
+ID 4912110
+A1 Pelikan,Martin
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+A1 Butz,Martin,V.
+A1 Hauschild,Mark
+YR 2009
+T1 Performance of evolutionary algorithms on NK landscapes with nearest neighbor interactions and tunable overlap
+SP 851
+OP 858
+
+RT Conference Proceedings
+ID 6035767
+A1 Radetic,Elizabeth
+A1 Pelikan,Martin
+A1 Goldberg,David,E.
+YR 2009
+T1 Effects of a deterministic hill climber on hBOA
+SP 437
+OP 444
+
+RT Conference Proceedings
+ID 5732110
+A1 Stalph,Patrick,O.
+A1 Butz,Martin,V.
+A1 Goldberg,David,E.
+A1 Llorà,Xavier
+YR 2009
+T1 On the scalability of XCS(F)
+SP 1315
+OP 1322
+
+RT Journal Article
+ID 4860632
+A1 Llora,Xavier
+A1 Goldberg,David,E.
+YR 2009
+T1 The innovation pump: supporting creative processes in collaborative engineering
+JF International Journal of Collaborative Engineering
+VO 1
+SP 75
+IS 1/2
+
+RT Journal Article
+ID 41417315
+A1 Capalbo,Susan
+A1 Wu,Caiwen
+A1 Goldberg,David
+A1 Matter,Juerg
+A1 Slagle,Angela
+YR 2009
+T1 Economic dimensions of geological CO 2 storage: Key factors in an assessment of sub-seafloor and continental sequestration options
+JF Energy Procedia
+VO 1
+SP 2745
+OP 2752
+IS 1
+
+RT Journal Article
+ID 41417261
+A1 Assayag,Nelly
+A1 Matter,Juerg
+A1 Ader,Magali
+A1 Goldberg,Dave
+A1 Agrinier,Pierre
+YR 2009
+T1 CO 2 ionic trapping at meta-sedimentary aquifer, following a CO 2 injection push-pull test
+JF Energy Procedia
+VO 1
+SP 2357
+OP 2360
+IS 1
+
+RT Book, Whole
+ID 39274377
+A1 Moreno-Torres,Jose,Garcia
+A1 Llorà,Xavier
+A1 Goldberg,David,E.
+A1 Bhargava,Rohit
+YR 2009
+T1 On the Homogenization of Data from Two Laboratories Using Genetic Programming
+SP 185
+OP 197
+
+RT Journal Article
+ID 41417436
+A1 Levine,Jonathan,S
+A1 Matter,Juerg,M
+A1 Goldberg,Dave
+A1 Lackner,Klaus,S
+YR 2009
+T1 Gravitational trapping of carbon dioxide in deep ocean sediments: hydraulic fracturing and mechanical stability
+JF Energy Procedia
+VO 1
+SP 3647
+OP 3654
+IS 1
+
+RT Conference Proceedings
+ID 50841158
+A1 Moreno-Torres,Jose,G.
+A1 Llora,X.
+A1 Goldberg,David,E.
+YR 2009
+T1 Binary Representation in Gene Expression Programming: Towards a Better Scalability
+
+RT Conference Proceedings
+ID 5568058
+A1 Goldberg,David,E.
+YR 2009
+T1 The importance of pairwork in interdisciplinary and educational initiatives
+SP 1
+OP 4
+
+RT Conference Proceedings
+ID 50759341
+A1 Goldberg,D.,E.
+YR 2009
+T1 Not Your Grandmother's Genetic Algorithm
+
+RT Journal Article
+ID 5745703
+A1 Llora,Xavier
+A1 Acs,Bernie,´
+A1 Auvil,Loretta,S.
+A1 Capitanu,Boris
+A1 Welge,Michael,E.
+A1 Goldberg,David,E.
+YR 2008
+T1 Meandre: Semantic-Driven Data-Intensive Flows in the Clouds
+
+RT Journal Article
+ID 4261679
+A1 Pelikan,Martin
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2008
+T1 iBOA: the incremental bayesian optimization algorithm
+JF Computing Research Repository
+VO abs/0801.3
+SP 455
+OP 462
+
+RT Book, Whole
+ID 4309389
+A1 Duque,Thyago,S.,P.,C.
+A1 Goldberg,David,E.
+A1 Sastry,Kumara
+YR 2008
+T1 Enhancing the Efficiency of the ECGA
+SP 165
+OP 174
+
+RT Conference Proceedings
+ID 4261724
+A1 Hauschild,Mark,W.
+A1 Pelikan,Martin
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2008
+T1 Using previous models to bias structural learning in the hierarchical BOA
+SP 415
+OP 422
+
+RT Journal Article
+ID 4381079
+A1 Pelikan,Martin
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2008
+T1 Sporadic model building for efficiency enhancement of the hierarchical BOA
+JF Genetic Programming and Evolvable Machines
+VO 9
+SP 53
+OP 84
+IS 1
+
+RT Journal Article
+ID 4377645
+A1 Mengshoel,Ole,J.
+A1 Goldberg,David,E.
+YR 2008
+T1 The Crowding Approach to Niching in Genetic Algorithms
+JF Evolutionary Computation
+VO 16
+SP 315
+OP 354
+IS 3
+
+RT Journal Article
+ID 5327028
+A1 Aragón,Alejandro,M.
+A1 Wayer,Jessica,K.
+A1 Geubelle,Philippe,H.
+A1 Goldberg,David,E.
+A1 White,Scott,R.
+YR 2008
+T1 Design of microvascular flow networks using multi-objective genetic algorithms
+JF Computer Methods in Applied Mechanics and Engineering
+VO 197
+SP 4399
+OP 4410
+IS 49
+
+RT Conference Proceedings
+ID 5556112
+A1 Cook,Ann
+A1 Goldberg,David
+YR 2008
+T1 STRESS AND GAS HYDRATE-FILLED FRACTURE DISTRIBUTION, KRISHNA-GODAVARI BASIN, INDIA
+
+RT Conference Proceedings
+ID 4709705
+A1 Vallim,Rosane,M.,M.
+A1 Goldberg,David,E.
+A1 Llorà,Xavier
+A1 Duque,Thyago,S.,P.,C.
+YR 2008
+T1 A new approach for multi-label classification based on default hierarchies and organizational learning
+SP 2017
+OP 2022
+
+RT Conference Proceedings
+ID 4261586
+A1 Duque,Thyago,S.,P.,C.
+A1 Goldberg,David,E.
+A1 Sastry,Kumara
+YR 2008
+T1 Improving the efficiency of the extended compact genetic algorithm
+SP 467
+OP 468
+
+RT Journal Article
+ID 4765510
+A1 Bern,Marshall,W.
+A1 Goldberg,David
+YR 2008
+T1 Improved Ranking Functions for Protein and Modification-Site Identifications
+JF Journal of Computational Biology
+VO 15
+SP 705
+OP 719
+IS 7
+
+RT Conference Proceedings
+ID 4261608
+A1 Sato,Yuji
+A1 Goldberg,David
+A1 Sastry,Kumara
+YR 2008
+T1 Improving small population performance under noise with viral infection + tropism
+SP 1143
+OP 1144
+
+RT Book, Whole
+ID 4445928
+A1 Li,Minqiang
+A1 Goldberg,David,E.
+A1 Sastry,Kumara
+A1 Yu,Tian-li
+YR 2008
+T1 Real-Coded ECGA for Solving Decomposable Real-Valued Optimization Problems
+
+RT Conference Proceedings
+ID 4261592
+A1 Saruwatari,Shunsuke
+A1 Llorà,Xavier
+A1 Yasui,Noriko,Imafuji
+A1 Tamura,Hiroshi
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2008
+T1 Speeding online synthesis via enforced selecto-recombination
+SP 1635
+OP 1642
+
+RT Book, Whole
+ID 4445958
+A1 Lanzi,Pier,Luca
+A1 Nichetti,Luigi
+A1 Sastry,Kumara
+A1 Voltini,Davide
+A1 Goldberg,David,E.
+YR 2008
+T1 Real-Coded Extended Compact Genetic Algorithm Based on Mixtures of Models
+
+RT Conference Proceedings
+ID 4273519
+A1 Yasui,Noriko,Imafuji
+A1 Saruwatari,Shunsuke
+A1 Llorà,Xavier
+A1 Goldberg,David,E.
+YR 2008
+T1 Facilitation Support for On-Line Focus Group Discussions by Message Feature Map
+SP 563
+OP 566
+
+RT Conference Proceedings
+ID 4261408
+A1 Llorà,Xavier
+A1 Yasui,Noriko,Imafuji
+A1 Goldberg,David,E.
+YR 2008
+T1 Graph-theoretic measure for active iGAs: interaction sizing and parallel evaluation ensemble
+SP 985
+OP 992
+
+RT Book, Whole
+ID 4446013
+A1 Lima,Cláudio,F.
+A1 Pelikan,Martin
+A1 Goldberg,David,E.
+A1 Lobo,Fernando,G.
+A1 Sastry,Kumara
+A1 Hauschild,Mark
+YR 2008
+T1 Linkage Learning Accuracy in the Bayesian Optimization Algorithm
+
+RT Journal Article
+ID 46782831
+A1 Slagle,Angela
+A1 Goldberg,David
+YR 2008
+T1 A global assessment of deep-sea basalt sites for carbon sequestration
+JF Nature Precedings
+
+RT Journal Article
+ID 4377621
+A1 Lanzi,Pier,Luca
+A1 Loiacono,Daniele
+A1 Wilson,Stewart,W.
+A1 Goldberg,David,E.
+YR 2007
+T1 Generalization in the XCSF Classifier System: Analysis, Improvement, and Extension
+JF Evolutionary Computation
+VO 15
+SP 133
+OP 168
+IS 2
+
+RT Conference Proceedings
+ID 4503654
+A1 Lima,Cláudio,F.
+A1 Pelikan,Martin
+A1 Goldberg,David,E.
+A1 Lobo,Fernando,G.
+A1 Sastry,Kumara
+A1 Hauschild,Mark
+YR 2007
+T1 Influence of selection and replacement strategies on linkage learning in BOA
+SP 1083
+OP 1090
+
+RT Conference Proceedings
+ID 4261233
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+A1 Llorà,Xavier
+YR 2007
+T1 Towards billion-bit optimization via a parallel estimation of distribution algorithm
+SP 577
+OP 584
+
+RT Journal Article
+ID 5962822
+A1 Yu,Tian-Li
+A1 Yassine,Ali,A.
+A1 Goldberg,David,E.
+YR 2007
+T1 An information theoretic method for developing modular architectures using genetic algorithms
+JF Research in Engineering Design
+VO 18
+SP 91
+OP 109
+IS 2
+
+RT Conference Proceedings
+ID 4185697
+A1 Yu,Tian-li
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+A1 Pelikan,Martin
+YR 2007
+T1 Population sizing for entropy-based model building in discrete estimation of distribution algorithms
+SP 601
+OP 608
+
+RT Journal Article
+ID 4430218
+A1 Goldberg,David,E.
+A1 Sastry,Kumara
+A1 Llorà,Xavier
+YR 2007
+T1 Toward routine billion-variable optimization using genetic algorithms
+JF Complexity
+VO 12
+SP 27
+OP 29
+IS 3
+
+RT Journal Article
+ID 23926336
+A1 Bern,Marshall
+A1 Cai,Yuhan
+A1 Goldberg,David
+YR 2007
+T1 Lookup Peaks:  A Hybrid of de Novo Sequencing and Database Search for Protein Identification by Tandem Mass Spectrometry
+JF Analytical Chemistry
+VO 79
+SP 1393
+OP 1400
+IS 4
+
+RT Conference Proceedings
+ID 4273073
+A1 Yasui,Noriko,Imafuji
+A1 Llorà,Xavier
+A1 Goldberg,David,E.
+A1 Washida,Yuichi
+A1 Tamura,Hiroshi
+YR 2007
+T1 Delineating Topic and Discussant Transitions in Online Collaborative Environments
+SP 14
+OP 21
+
+RT Conference Proceedings
+ID 4261038
+A1 Orriols-puig,Albert
+A1 Goldberg,David,E.
+A1 Sastry,Kumara
+A1 Bernadó-mansilla,Ester
+YR 2007
+T1 Modeling XCS in class imbalances: population size and parameter settings
+SP 1838
+OP 1845
+
+RT Journal Article
+ID 6869015
+A1 Sastry,Kumara
+A1 Goldberg,David.,E.
+A1 Johnson,D.,D.
+YR 2007
+T1 Scalability of a Hybrid Extended Compact Genetic Algorithm for Ground State Optimization of Clusters
+JF Materials and Manufacturing Processes
+VO 22
+SP 570
+OP 576
+IS 5
+
+RT Journal Article
+ID 4381069
+A1 Butz,Martin,V.
+A1 Goldberg,David,E.
+A1 Lanzi,Pier,Luca
+A1 Sastry,Kumara
+YR 2007
+T1 Problem solution sustenance in XCS: Markov chain analysis of niche support distributions and the impact on computational complexity
+JF Genetic Programming and Evolvable Machines
+VO 8
+SP 5
+OP 37
+IS 1
+
+RT Journal Article
+ID 4503913
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+A1 Llora,Xavier
+YR 2007
+T1 Towards Billion Bit Optimization via Efficient Genetic Algorithms
+
+RT Journal Article
+ID 2514742
+A1 Matsumura,Naohiro
+A1 Goldberg,David,E.
+A1 Llorà,Xavier
+YR 2007
+T1 Communication Gap Management for Fertile Community
+JF Soft Computing
+VO 11
+SP 791
+OP 798
+IS 8
+
+RT Conference Proceedings
+ID 4261172
+A1 Orriols-puig,Albert
+A1 Sastry,Kumara
+A1 Lanzi,Pier,Luca
+A1 Goldberg,David,E.
+A1 Bernadó-mansilla,Ester
+YR 2007
+T1 Modeling selection pressure in XCS for proportionate and tournament selection
+SP 1846
+OP 1853
+
+RT Book, Whole
+ID 4295294
+A1 Llorà,Xavier
+A1 Sastry,Kumara
+A1 Lima,Cláudio,F.
+A1 Lobo,Fernando,G.
+A1 Goldberg,David,E.
+YR 2007
+T1 Linkage Learning, Rule Representation, and the X-Ary Extended Compact Classifier System
+SP 189
+OP 205
+
+RT Conference Proceedings
+ID 4260937
+A1 Llorà,Xavier
+A1 Sastry,Kumara
+A1 Yu,Tian-li
+A1 Goldberg,David,E.
+YR 2007
+T1 Do not match, inherit: fitness surrogates for genetics-based machine learning techniques
+SP 1798
+OP 1805
+
+RT Journal Article
+ID 5914138
+A1 Sastry,Kumara
+A1 Johnson,D.,D.
+A1 Thompson,Alexis,L.
+A1 Goldberg,David,E.
+A1 Martinez,Todd,J.
+A1 Leiding,Jeff
+A1 Owens,Jane
+YR 2007
+T1 Optimization of Semiempirical Quantum Chemistry Methods via Multiobjective Genetic Algorithms: Accurate Photodynamics for Larger Molecules and Longer Time Scales
+JF Materials and Manufacturing Processes
+VO 22
+SP 553
+OP 561
+IS 5
+
+RT Conference Proceedings
+ID 4260942
+A1 Sastry,Kumara
+A1 Pelikan,Martin
+A1 Goldberg,David,E.
+YR 2007
+T1 Empirical analysis of ideal recombination on random decomposable problems
+SP 1388
+OP 1395
+
+RT Conference Proceedings
+ID 4199200
+A1 Sastry,K.
+A1 Goldberg,D.
+A1 Ossa,L.,De,La
+YR 2007
+T1 The - ary extended compact classifier system: Linkage learning in Pittsburgh LCS
+
+RT Journal Article
+ID 6138596
+A1 Yasui,Noriko,Imafuji
+A1 Goldberg,David,E.
+YR 2007
+T1 Analyzing Trends in the Blogosphere Using Human-Centered Analysis and Visualization Tools
+JF Proceedings of The IEEE
+
+RT Conference Proceedings
+ID 4261300
+A1 Orriols-puig,Albert
+A1 Bernadó-mansilla,Ester
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2007
+T1 Substructrual surrogates for learning decomposable classification problems: implementation and first results
+SP 2875
+OP 2882
+
+RT Journal Article
+ID 23360563
+A1 Morris,Howard,R.
+A1 Chalabi,Sara
+A1 Panico,Maria
+A1 Sutton-Smith,Mark
+A1 Clark,Gary,F.
+A1 Goldberg,David
+A1 Dell,Anne
+YR 2007
+T1 Glycoproteomics: Past, present and future
+JF International Journal of Mass Spectrometry
+VO 259
+SP 16
+OP 31
+IS 1
+
+RT Conference Proceedings
+ID 4261186
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2007
+T1 Let's get ready to rumble redux: crossover versus mutation head to head on exponentially scaled problems
+SP 1380
+OP 1387
+
+RT Conference Proceedings
+ID 4736805
+A1 Fossati,Luca
+A1 Lanzi,Pier,Luca
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+A1 Gómez,Osvaldo
+YR 2007
+T1 A Simple Real-Coded Extended Compact Genetic Algorithm
+SP 342
+OP 348
+
+RT Journal Article
+ID 4684752
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+A1 Chen,Jian-Hung
+YR 2007
+T1 A Fitness Inheritance Evolutionary Algorithm for Solving Bi-criteria Flexible Process Sequencing Problems
+
+RT Conference Proceedings
+ID 4261307
+A1 Lanzi,Pier,Luca
+A1 Butz,Martin,V.
+A1 Goldberg,David,E.
+YR 2007
+T1 Empirical analysis of generalization and learning in XCS with gradient descent
+SP 1814
+OP 1821
+
+RT Book, Whole
+ID 2468475
+A1 Bern,Marshall,W.
+A1 Goldberg,David
+YR 2007
+T1 Improved Ranking Functions for Protein and Modification-Site Identifications
+SP 444
+OP 458
+
+RT Book, Whole
+ID 4445155
+A1 Yu,Tian-li
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2007
+T1 Population Sizing to Go: Online Adaptation Using Noise and Substructural Measurements
+
+RT Book, Whole
+ID 4295284
+A1 Orriols-puig,Albert
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+A1 Bernadó-mansilla,Ester
+YR 2007
+T1 Substructural Surrogates for Learning Decomposable Classification Problems
+SP 235
+OP 254
+
+RT Conference Proceedings
+ID 50602758
+A1 Duque,Thyago,S.,P.,C.
+A1 Sastry,Kumara
+A1 Delbem,Alexandre,C.,B.
+A1 Goldberg,David,E.
+YR 2007
+T1 Evolutionary Algorithm for Large Scale Problems
+
+RT Book, Whole
+ID 4273797
+A1 Yasui,Noriko,Imafuji
+A1 Llorà,Xavier
+A1 Goldberg,David,E.
+A1 Washida,Yuichi
+A1 Tamura,Hiroshi
+YR 2007
+T1 Key Elements Extraction in Online Collaborative Environments
+SP 148
+OP 159
+
+RT Journal Article
+ID 50585707
+A1 Li,Minqiang
+A1 Goldberg,David,E.
+A1 Sastry,Kumara
+A1 Yu,Tian-Li
+YR 2007
+T1 Performance Analyses of Factorization Based on Gaussian PDF In rECGA
+
+RT Journal Article
+ID 30937554
+A1 Goldberg,David
+YR 2007
+T1 International Society for Enzymology (ISE), Newsletter, December 2006
+JF Clinica Chimica Acta
+VO 379
+SP 176
+OP 178
+IS 1
+
+RT Conference Proceedings
+ID 2378673
+A1 Lanzi,Pier,Luca
+A1 Loiacono,Daniele
+A1 Wilson,Stewart,W.
+A1 Goldberg,David,E.
+YR 2006
+T1 Prediction update algorithms for XCSF: RLS, Kalman filter, and gain adaptation
+SP 1505
+OP 1512
+
+RT Book, Whole
+ID 36356186
+A1 North,Simon,J.
+A1 Goldberg,David
+A1 Panico,Maria
+A1 Morris,Howard
+A1 Haslam,Stuart
+A1 Dell,Anne
+YR 2006
+T1 Glycomic Profiling of Cells and Tissues by Mass Spectrometry: Fingerprinting and Sequencing Methodologies
+JF Methods in Enzymology
+VO 415
+SP 59
+OP 86
+
+RT Conference Proceedings
+ID 2431645
+A1 Pelikan,Martin
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2006
+T1 Sporadic model building for efficiency enhancement of hierarchical BOA
+SP 405
+OP 412
+
+RT Book, Whole
+ID 4444938
+A1 Pelikan,Martin
+A1 Goldberg,David,E.
+YR 2006
+T1 Hierarchical Bayesian Optimization Algorithm
+
+RT Conference Proceedings
+ID 2431660
+A1 Sastry,Kumara
+A1 Lima,Cláudio,F.
+A1 Goldberg,David,E.
+YR 2006
+T1 Evaluation relaxation using substructural information and linear estimation
+SP 419
+OP 426
+
+RT Journal Article
+ID 2500114
+A1 Butz,Martin,V.
+A1 Pelikan,Martin
+A1 Llorà,Xavier
+A1 Goldberg,David,E.
+YR 2006
+T1 Automated Global Structure Extraction for Effective Local Building Block Processing in XCS
+JF Evolutionary Computation
+VO 14
+SP 345
+OP 380
+IS 3
+
+RT Conference Proceedings
+ID 2431614
+A1 Yu,Tian-li
+A1 Goldberg,David,E.
+YR 2006
+T1 Conquering hierarchical difficulty by explicit chunking: substructural chromosome compression
+SP 1385
+OP 1392
+
+RT Book, Whole
+ID 2467797
+A1 Lima,Cláudio,F.
+A1 Pelikan,Martin
+A1 Sastry,Kumara
+A1 Butz,Martin,V.
+A1 Goldberg,David,E.
+A1 Lobo,Fernando,G.
+YR 2006
+T1 Substructural Neighborhoods for Local Search in the Bayesian Optimization Algorithm
+SP 232
+OP 241
+
+RT Journal Article
+ID 36458418
+A1 Piantino,J.
+A1 Burdick,J.,A.
+A1 Goldberg,D.
+A1 Langer,R.
+A1 Benowitz,L.,I.
+YR 2006
+T1 An injectable, biodegradable hydrogel for trophic factor delivery enhances axonal rewiring and improves performance after spinal cord injury
+JF Experimental Neurology
+VO 201
+SP 359
+OP 367
+IS 2
+
+RT Journal Article
+ID 4765595
+A1 Bern,Marshall,W.
+A1 Goldberg,David
+YR 2006
+T1 De Novo Analysis of Peptide Tandem Mass Spectra by Spectral Graph Partitioning
+JF Journal of Computational Biology
+VO 13
+SP 364
+OP 378
+IS 2
+
+RT Conference Proceedings
+ID 2431569
+A1 Lanzi,Pier,Luca
+A1 Loiacono,Daniele
+A1 Wilson,Stewart,W.
+A1 Goldberg,David,E.
+YR 2006
+T1 Classifier prediction based on tile coding
+SP 1497
+OP 1504
+
+RT Journal Article
+ID 6178827
+A1 Santarelli,Scott
+A1 Yu,Tian-Li
+A1 Goldberg,David,E.
+A1 Altshuler,Edward,E.
+A1 O’Donnell,Teresa
+A1 Southall,Hugh
+A1 Mailloux,Robert
+YR 2006
+T1 Military antenna design using simple and competent genetic algorithms
+JF Mathematical and Computer Modelling
+VO 43
+SP 990
+OP 1022
+IS 9-10
+
+RT Conference Proceedings
+ID 2431644
+A1 Pelikan,Martin
+A1 Sastry,Kumara
+A1 Butz,Martin,V.
+A1 Goldberg,David,E.
+YR 2006
+T1 Hierarchical BOA on random decomposable problems
+SP 431
+OP 432
+
+RT Book, Whole
+ID 4179049
+A1 Sastry,Kumara
+A1 Pelikan,Martin
+A1 Goldberg,David,E.
+YR 2006
+T1 Efficiency Enhancement of Estimation of Distribution Algorithms
+
+RT Conference Proceedings
+ID 2431590
+A1 Llorà,Xavier
+A1 Sastry,Kumara
+A1 Alías,Francesc
+A1 Goldberg,David,E.
+A1 Welge,Michael
+YR 2006
+T1 Analyzing active interactive genetic algorithms using visual analytics
+SP 1417
+OP 1418
+
+RT Conference Proceedings
+ID 50490132
+A1 Alias,F.
+A1 Llora,X.
+A1 Formiga,L,lus
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2006
+T1 Efficient Interactive Weight Tuning For Tts Synthesis: Reducing User Fatigue By Improving User Consistency
+VO 1
+
+RT Book, Whole
+ID 4444943
+A1 Pelikan,Martin
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2006
+T1 Multiobjective Estimation of Distribution Algorithms
+
+RT Journal Article
+ID 3056007
+A1 Llora,Xavier
+A1 ias,Francesc,Al,´
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2006
+T1 Evaluation Consistency in iGAs: User Contradictions as Cycles in Partial-Ordering Graphs
+
+RT Conference Proceedings
+ID 4581173
+A1 Yu,Tian-Li
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+A1 Pelikan,Martin
+YR 2006
+T1 Population Sizing for Entropy-based Model Building in Genetic Algorithms
+
+RT Book, Whole
+ID 1792219
+A1 Sastry,Kumara
+A1 Winward,Paul
+A1 Goldberg,David,E.
+A1 Lima,Cláudio,F.
+YR 2006
+T1 Fluctuating Crosstalk as a Source of Deterministic Noise and Its Effects on GA Scalability
+SP 740
+OP 751
+
+RT Conference Proceedings
+ID 2431659
+A1 Sastry,Kumara
+A1 Johnson,D.,D.
+A1 Thompson,Alexis,L.
+A1 Goldberg,David,E.
+A1 Martinez,Todd,J.
+A1 Leiding,Jeff
+A1 Owens,Jane
+YR 2006
+T1 Multiobjective genetic algorithms for multiscaling excited state direct dynamics in photochemistry
+SP 1745
+OP 1752
+
+RT Book, Whole
+ID 2467813
+A1 Pelikan,Martin
+A1 Sastry,Kumara
+A1 Butz,Martin,V.
+A1 Goldberg,David,E.
+YR 2006
+T1 Performance of Evolutionary Algorithms on Random Decomposable Problems
+SP 788
+OP 797
+
+RT Journal Article
+ID 13527830
+A1 Sarker,G.
+A1 Myers,G.
+A1 Williams,T.
+A1 Goldberg,D.
+YR 2006
+T1 Comparison of Heave-Motion Compensation Systems on Scientific Ocean Drilling Ship and Their Effects on Wireline Logging Data
+
+RT Book, Whole
+ID 4444939
+A1 Butz,Martin
+A1 Pelikan,Martin
+A1 Llorà,Xavier
+A1 Goldberg,David,E.
+YR 2006
+T1 Effective and Reliable Online Classification Combining XCS with EDA Mechanisms
+
+RT Conference Proceedings
+ID 2431719
+A1 Winward,Paul
+A1 Goldberg,David,E.
+YR 2006
+T1 Fluctuating crosstalk, deterministic noise, and GA scalability
+SP 1361
+OP 1368
+
+RT Book, Whole
+ID 4444942
+A1 Yu,Tian-li
+A1 Santarelli,Scott
+A1 Goldberg,David,E.
+YR 2006
+T1 Military Antenna Design Using a Simple Genetic Algorithm and hBOA
+
+RT Conference Proceedings
+ID 1825565
+A1 Llorà,Xavier
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+A1 Gupta,Abhimanyu
+A1 Lakshmi,Lalitha
+YR 2005
+T1 Combating user fatigue in iGAs: partial ordering, support vector machines, and synthetic fitness
+SP 1363
+OP 1370
+
+RT Conference Proceedings
+ID 1825526
+A1 Lanzi,Pier,Luca
+A1 Loiacono,Daniele
+A1 Wilson,Stewart,W.
+A1 Goldberg,David,E.
+YR 2005
+T1 Extending XCSF beyond linear approximation
+SP 1827
+OP 1834
+
+RT Conference Proceedings
+ID 2386092
+A1 Lanzi,Pier,Luca
+A1 Loiacono,Daniele
+A1 Wilson,Stewart,W.
+A1 Goldberg,David,E.
+YR 2005
+T1 XCS with computed prediction for the learning of Boolean functions
+SP 588
+OP 595
+
+RT Conference Proceedings
+ID 1242532
+A1 Matsumura,Naohiro
+A1 Goldberg,David,E.
+A1 Llorà,Xavier
+YR 2005
+T1 Mining directed social network from message board
+SP 1092
+OP 1093
+
+RT Journal Article
+ID 1714530
+A1 Butz,Martin,V.
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2005
+T1 Strong, Stable, and Reliable Fitness Pressure in XCS due to Tournament Selection
+JF Genetic Programming and Evolvable Machines
+VO 6
+SP 53
+OP 77
+IS 1
+
+RT Conference Proceedings
+ID 1825502
+A1 Pelikan,Martin
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2005
+T1 Multiobjective hBOA, clustering, and scalability
+VO abs/cs/050
+SP 663
+OP 670
+
+RT Journal Article
+ID 1659233
+A1 Butz,Martin,V.
+A1 Goldberg,David,E.
+A1 Lanzi,Pier,Luca
+YR 2005
+T1 Gradient descent methods in learning classifier systems: improving XCS performance in multistep problems
+JF IEEE Transactions on Evolutionary Computation
+VO 9
+SP 452
+OP 473
+IS 5
+
+RT Conference Proceedings
+ID 1825318
+A1 Lima,Cláudio,F.
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+A1 Lobo,Fernando,G.
+YR 2005
+T1 Combining competent crossover and mutation operators: a probabilistic model building approach
+SP 735
+OP 742
+
+RT Conference Proceedings
+ID 1825489
+A1 Lanzi,Pier,Luca
+A1 Loiacono,Daniele
+A1 Wilson,Stewart,W.
+A1 Goldberg,David,E.
+YR 2005
+T1 XCS with computed prediction in multistep environments
+SP 1859
+OP 1866
+
+RT Book, Whole
+ID 1855750
+A1 Bern,Marshall,W.
+A1 Goldberg,David
+YR 2005
+T1 EigenMS: De Novo Analysis of Peptide Tandem Mass Spectra by Spectral Graph Partitioning
+SP 357
+OP 372
+
+RT Book, Whole
+ID 4295444
+A1 Bacardit,Jaume
+A1 Goldberg,David,E.
+A1 Butz,Martin,V.
+YR 2005
+T1 Improving the Performance of a Pittsburgh Learning Classifier System Using a Default Rule
+SP 291
+OP 307
+
+RT Journal Article
+ID 4368640
+A1 Abbass,Hussein,A.
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2005
+T1 Oiling the Wheels of Change: The Role of Adaptive Automatic Problem Decomposition in Non-Stationary Environments
+JF Computing Research Repository
+VO abs/cs/050
+
+RT Conference Proceedings
+ID 2488849
+A1 Lanzi,Pier,Luca
+A1 Loiacono,Daniele
+A1 Wilson,Stewart,W.
+A1 Goldberg,David,E.
+YR 2005
+T1 XCS with computed prediction in continuous multistep environments
+SP 2032
+OP 2039
+
+RT Conference Proceedings
+ID 1825442
+A1 Sastry,Kumara
+A1 Abbass,Hussein,A.
+A1 Goldberg,David,E.
+A1 Johnson,D.,D.
+YR 2005
+T1 Sub-structural niching in estimation of distribution algorithms
+VO abs/cs/050
+SP 671
+OP 678
+
+RT Journal Article
+ID 2500118
+A1 Chen,Ying-ping
+A1 Goldberg,David,E.
+YR 2005
+T1 Convergence Time for the Linkage Learning Genetic Algorithm
+JF Evolutionary Computation
+VO 13
+SP 279
+OP 302
+IS 3
+
+RT Conference Proceedings
+ID 1825336
+A1 Yu,Tian-Li
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2005
+T1 Linkage learning, overlapping building blocks, and systematic strategy for scalable recombination
+SP 1217
+OP 1224
+
+RT Conference Proceedings
+ID 2488746
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+A1 Pelikan,Martin
+YR 2005
+T1 Limits of scalability of multiobjective estimation of distribution algorithms
+SP 2217
+OP 2224
+
+RT Conference Proceedings
+ID 1825234
+A1 Butz,Martin,V.
+A1 Pelikan,Martin
+A1 Llorà,Xavier
+A1 Goldberg,David,E.
+YR 2005
+T1 Extracted global structure makes local building block processing effective in XCS
+SP 655
+OP 662
+
+RT Conference Proceedings
+ID 1825384
+A1 Llorà,Xavier
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2005
+T1 The compact classifier system: motivation, analysis, and first results
+SP 1993
+OP 1994
+
+RT Book, Whole
+ID 4368639
+A1 Sastryl,Kumara
+A1 O’Reilly,Una-May
+A1 Goldberg,David,E.
+YR 2005
+T1 Population Sizing for Genetic Programming Based Upon Decision Making
+JF Computing Research Repository
+VO abs/cs/050
+
+RT Journal Article
+ID 4368660
+A1 Sastry,Kumara
+A1 Pelikan,Martin
+A1 Goldberg,David,E.
+YR 2005
+T1 Decomposable Problems, Niching, and Scalability of Multiobjective Estimation of Distribution Algorithms
+JF Computing Research Repository
+VO abs/cs/050
+
+RT Conference Proceedings
+ID 2488750
+A1 Llorà,Xavier
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2005
+T1 The compact classifier system: scalability analysis and first results
+SP 596
+OP 603
+
+RT Journal Article
+ID 3391939
+A1 Matsumura,Naohiro
+A1 Goldberg,David,E.
+A1 Llor,Xavier
+YR 2005
+T1 Mining Social Networks in Message Boards
+
+RT Journal Article
+ID 12954845
+A1 Turkington,R.
+A1 Goldberg,D.,E.
+A1 Olsvig-Whittaker,L.
+A1 Dyer,A.,R.
+YR 2005
+T1 Effects of density on timing of emergence and its consequences for survival and growth in two communities of annual plants
+JF Journal of Arid Environments
+VO 61
+SP 377
+OP 396
+IS 3
+
+RT Journal Article
+ID 44342197
+A1 Goldberg,D.
+A1 Burgdorff,K.
+YR 2005
+T1 Natural fracturing and petrophysical properties of the Palisades dolerite sill
+JF Geological Society, London, Special Publications
+VO 240
+SP 25
+OP 36
+IS 1
+
+RT Conference Proceedings
+ID 2488715
+A1 Yu,Tian-li
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2005
+T1 Online population size adjusting using noise and substructural measurements
+SP 2491
+OP 2498
+
+RT Journal Article
+ID 2500084
+A1 Mclay,Laura,A.
+A1 Goldberg,David,E.
+YR 2005
+T1 Efficient Genetic Algorithms Using Discretization Scheduling
+JF Evolutionary Computation
+VO 13
+SP 353
+OP 385
+IS 3
+
+RT Book, Whole
+ID 4295446
+A1 Butz,Martin,V.
+A1 Goldberg,David,E.
+A1 Lanzi,Pier,Luca
+YR 2005
+T1 Effect of Pure Error-Based Fitness in XCS
+SP 104
+OP 114
+
+RT Conference Proceedings
+ID 1825640
+A1 Llorà,Xavier
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2005
+T1 Binary rule encoding schemes: a study using the compact classifier system
+SP 88
+OP 89
+
+RT Journal Article
+ID 4368641
+A1 Sastry,Kumara
+A1 Abbass,Hussein,A.
+A1 Goldberg,David,E.
+YR 2005
+T1 Sub-Structural Niching in Non-Stationary Environments
+JF Computing Research Repository
+VO abs/cs/050
+
+RT Conference Proceedings
+ID 1903822
+A1 Quirin,Arnaud
+A1 Korczak,Jerzy,J.
+A1 Butz,Martin,V.
+A1 Goldberg,David,E.
+YR 2005
+T1 Analysis and Evaluation of Learning Classifier Systems applied to Hyperspectral Image Classification
+SP 280
+OP 285
+
+RT Conference Proceedings
+ID 1825324
+A1 Chen,Jian-Hung
+A1 Ho,Shinn-Ying
+A1 Goldberg,David,E.
+YR 2005
+T1 Quality-time analysis of multi-objective evolutionary algorithms
+SP 1455
+OP 1462
+
+RT Book, Whole
+ID 4352565
+A1 Matsumura,Naohiro
+A1 Goldberg,David,E.
+A1 Llorà,Xavier
+YR 2005
+T1 Communication Gaps in Social Networks
+SP 543
+OP 552
+
+RT Book, Whole
+ID 1822081
+A1 Goldberg,David,E.
+YR 2005
+T1 Little Models, Big Results
+SP 4
+
+RT Conference Proceedings
+ID 1807213
+A1 Bern,Marshall,W.
+A1 Goldberg,David
+A1 Mcdonald,W.,Hayes
+A1 III,John,R.,Yates
+YR 2004
+T1 Automatic Quality Assessment of Peptide Tandem Mass Spectra
+VO 20
+SP 49
+OP 54
+IS suppl_1
+
+RT Book, Whole
+ID 1711543
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2004
+T1 Designing Competent Mutation Operators Via Probabilistic Model Building of Neighborhoods
+JF Computing Research Repository
+VO cs.NE/0405
+SP 114
+OP 125
+
+RT Journal Article
+ID 1717786
+A1 Lobo,Fernando,G.
+A1 Goldberg,David,E.
+YR 2004
+T1 The parameter-less genetic algorithm in practice
+JF Information Sciences
+VO 167
+SP 217
+OP 232
+IS 1-4
+
+RT Book, Whole
+ID 1824999
+A1 Ahn,Chang,Wook
+A1 Ramakrishna,Rudrapatna,S.
+A1 Goldberg,David,E.
+YR 2004
+T1 Real-Coded Bayesian Optimization Algorithm: Bringing the Strength of BOA into the Continuous World
+SP 840
+OP 851
+
+RT Book, Whole
+ID 1711542
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2004
+T1 Let's Get Ready to Rumble: Crossover Versus Mutation Head to Head
+JF Computing Research Repository
+VO cs.NE/0405
+SP 126
+OP 137
+
+RT Journal Article
+ID 1711490
+A1 Sastry,Kumara
+A1 Pelikan,Martin
+A1 Goldberg,David,E.
+YR 2004
+T1 Efficiency Enhancement of Genetic Algorithms via Building-Block-Wise Fitness Estimation
+JF Computing Research Repository
+VO cs.NE/0405
+
+RT Journal Article
+ID 1730132
+A1 Goldberg,David
+A1 Malon,Christopher
+A1 Bern,Marshall,W.
+YR 2004
+T1 A global approach to automatic solution of jigsaw puzzles
+JF Computational Geometry: Theory and Applications
+VO 28
+SP 165
+OP 174
+IS 2-3
+
+RT Book, Whole
+ID 1825157
+A1 Butz,Martin,V.
+A1 Goldberg,David,E.
+A1 Lanzi,Pier,Luca
+YR 2004
+T1 Bounding Learning Time in XCS
+SP 739
+OP 750
+
+RT Book, Whole
+ID 1813288
+A1 Bacardit,Jaume
+A1 Goldberg,David,E.
+A1 Butz,Martin,V.
+A1 Llorà,Xavier
+A1 Guiu,Josep,Maria,Garrell,I
+YR 2004
+T1 Speeding-Up Pittsburgh Learning Classifier Systems: Modeling Time and Accuracy
+SP 1021
+OP 1031
+
+RT Journal Article
+ID 24391659
+A1 Bern,Marshall
+A1 Goldberg,David
+A1 Stevens,Raymond,C.
+A1 Kuhn,Peter
+YR 2004
+T1 Automatic classification of protein crystallization images using a curve-tracking algorithm
+JF Journal of Applied Crystallography
+VO 37
+SP 279
+OP 287
+IS 2
+
+RT Book, Whole
+ID 1825218
+A1 Yu,Tian-li
+A1 Goldberg,David,E.
+YR 2004
+T1 Dependency Structure Matrix Analysis: Offline Utility of the Dependency Structure Matrix Genetic Algorithm
+SP 355
+OP 366
+
+RT Journal Article
+ID 2291289
+A1 Butz,Martin,V.
+A1 Goldberg,David,E.
+A1 Lanzi,Pier,Luca
+A1 Sastry,Kumara
+YR 2004
+T1 Bounding the Population Size to Ensure Niche Support in XCS
+
+RT Book, Whole
+ID 1825017
+A1 Ohnishi,Kei
+A1 Sastry,Kumara
+A1 Chen,Ying-ping
+A1 Goldberg,David,E.
+YR 2004
+T1 Inducing Sequentiality Using Grammatical Genetic Codes
+SP 1426
+OP 1437
+
+RT Journal Article
+ID 2297966
+A1 Llor,Xavier
+A1 Goldberg,David,E.
+A1 Ohsawa,Yukio
+A1 Ohnishi,Kei
+A1 Tamura,Hiroshi
+A1 Washida,Yuichi
+A1 Yoshikawa,Masataka
+YR 2004
+T1 Chances and Marketing: On-line Conversation Analysis for Creative Scenario Discussion
+
+RT Book, Whole
+ID 1825207
+A1 Pedersen,Gerulf,K.,M.
+A1 Goldberg,David,E.
+YR 2004
+T1 Dynamic Uniform Scaling for Multiobjective Genetic Algorithms
+SP 11
+OP 23
+
+RT Journal Article
+ID 2307304
+A1 Llor,Xavier
+A1 Matsumura,Naohiro
+A1 Goldberg,David,E.
+A1 Ohsawa,Yukio
+A1 Ohnishi,Kei
+A1 Gonzales,Antonio
+YR 2004
+T1 Discovering Chance Scenarios using Small-World KeyGraphs and Evolutionary Computation
+
+RT Book, Whole
+ID 1813224
+A1 Butz,Martin,V.
+A1 Lanzi,Pier,Luca
+A1 Llorà,Xavier
+A1 Goldberg,David,E.
+YR 2004
+T1 Knowledge Extraction and Problem Structure Identification in XCS
+SP 1051
+OP 1060
+
+RT Journal Article
+ID 1711524
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+A1 Pelikan,Martin
+YR 2004
+T1 Efficiency Enhancement of Probabilistic Model Building Genetic Algorithms
+JF Computing Research Repository
+VO cs.NE/0405
+
+RT Book, Whole
+ID 1825136
+A1 Yu,Tian-li
+A1 Goldberg,David,E.
+YR 2004
+T1 Toward an Understanding of the Quality and Efficiency of Model Building for Genetic Algorithms
+SP 367
+OP 378
+
+RT Journal Article
+ID 2280454
+A1 Butz,Martin,V.
+A1 Swarup,Samarth
+A1 Goldberg,David,E.
+YR 2004
+T1 Efiective Online Detection of Task-Independent Landmarks
+
+RT Book, Whole
+ID 1825245
+A1 Butz,Martin,V.
+A1 Goldberg,David,E.
+A1 Lanzi,Pier,Luca
+YR 2004
+T1 Gradient-Based Learning Updates Improve XCS Performance in Multistep Problems
+SP 751
+OP 762
+
+RT Book, Whole
+ID 1825162
+A1 Llorà,Xavier
+A1 Ohnishi,Kei
+A1 Chen,Ying-ping
+A1 Goldberg,David,E.
+A1 Welge,Michael,E.
+YR 2004
+T1 Enhanced Innovation: A Fusion of Chance Discovery and Evolutionary Computation to Foster Creative Processes and Decision Making
+SP 1314
+OP 1315
+
+RT Book, Whole
+ID 1824973
+A1 Chen,Ying-ping
+A1 Goldberg,David,E.
+YR 2004
+T1 Introducing Subchromosome Representations to the Linkage Learning Genetic Algorithm
+SP 971
+OP 982
+
+RT Journal Article
+ID 47435855
+A1 Sastry,Kumara
+A1 Johnson,D.,D.
+A1 Goldberg,David,E.
+A1 Bellon,Pascal
+YR 2004
+T1 Genetic Programming for Multiscale Modeling
+JF International Journal for Multiscale Computational Engineering
+VO 2
+SP 239
+OP 256
+IS 2
+
+RT Conference Proceedings
+ID 50366366
+A1 Chen,Ying-ping
+A1 Goldberg,David,E.
+YR 2004
+T1 Convergence time for the linkage learning genetic algorithm
+
+RT Journal Article
+ID 2308696
+A1 Yu,Tian-Li
+A1 Goldberg,David,E.
+YR 2004
+T1 Quality and Eciency of Model Building for Genetic Algorithms
+
+RT Journal Article
+ID 2031137
+A1 Butz,M.
+A1 Goldberg,D.,E.
+A1 Lanzi,P.,L.
+A1 Sastry,K.
+YR 2004
+T1 Niche support in XCS
+
+RT Journal Article
+ID 2323480
+A1 Butz,Martin,V.
+A1 Goldberg,David,E.
+A1 Lanzi,Pier,Luca
+YR 2004
+T1 PAC Learning in XCS
+
+RT Journal Article
+ID 2305456
+A1 Butz,Martin,V.
+A1 Goldberg,David,E.
+YR 2004
+T1 Hierarchical Classiflcation Problems Demand Efiective Building Block Identiflcation and Processing in LCSs
+
+RT Journal Article
+ID 28306
+A1 Butz,Martin,V.
+A1 Goldberg,David,E.
+A1 Tharakunnel,Kurian,K.
+YR 2003
+T1 Analysis and Improvement of Fitness Exploitation in XCS: Bounding Models, Tournament Selection, and Bilateral Accuracy
+JF Evolutionary Computation
+VO 11
+SP 239
+OP 277
+IS 3
+
+RT Book, Whole
+ID 34823
+A1 Pelikan,Martin
+A1 Goldberg,David,E.
+YR 2003
+T1 Hierarchical BOA Solves Ising Spin Glasses and MAXSAT
+SP 1271
+OP 1282
+
+RT Journal Article
+ID 37917
+A1 Rothlauf,Franz
+A1 Goldberg,David,E.
+YR 2003
+T1 Redundant Representations in Evolutionary Computation
+JF Evolutionary Computation
+VO 11
+SP 381
+OP 415
+IS 4
+
+RT Book, Whole
+ID 595451
+A1 Yu,Tian-li
+A1 Goldberg,David,E.
+A1 Yassine,Ali
+A1 Chen,Ying-ping
+YR 2003
+T1 Genetic Algorithm Design Inspired by Organizational Theory: Pilot Study of a Dependency Structure Matrix Driven Genetic Algorithm
+SP 1620
+OP 1621
+
+RT Journal Article
+ID 42025665
+A1 Reed,Patrick
+A1 Minsker,Barbara,S.
+A1 Goldberg,David,E.
+YR 2003
+T1 Simplifying multiobjective optimization: An automated design methodology for the nondominated sorted genetic algorithm-II
+JF Water Resources Research
+VO 39
+IS 7
+
+RT Journal Article
+ID 48893358
+A1 Reed,Patrick
+A1 Minsker,Barbara,S.
+A1 Goldberg,David,E.
+YR 2003
+T1 Simplifying multiobjective optimization: An automated design methodology for the nondominated sorted genetic algorithm-II
+JF Water Resources Research
+VO 39
+SP 5
+IS 7
+
+RT Journal Article
+ID 6968939
+A1 Gopalakrishnan,Gayathri
+A1 Minsker,Barbara
+A1 Goldberg,David,E.
+YR 2003
+T1 Optimal Sampling in a Noisy Genetic Algorithm for Risk-Based Remediation Design
+
+RT Journal Article
+ID 2080192
+A1 Pelikan,Martin
+A1 Goldberg,David,E.
+YR 2003
+T1 A hierarchy machine: Learning to optimize from nature and humans
+JF Complexity
+VO 8
+SP 36
+OP 45
+IS 5
+
+RT Book, Whole
+ID 595566
+A1 Cantú-paz,Erick
+A1 Goldberg,David,E.
+YR 2003
+T1 Are Multiple Runs of Genetic Algorithms Better than One?
+SP 801
+OP 812
+
+RT Conference Proceedings
+ID 50304186
+A1 Dunsmore,Joel
+A1 Goldberg,David
+YR 2003
+T1 Novel Two-Tone Intermodulation Phase Measurement for Evaluating Amplifier Memory Effects
+
+RT Journal Article
+ID 2357583
+A1 Sinha,Abhishek
+A1 Goldberg,David,E.
+YR 2003
+T1 A Survey of Hybrid Genetic and Evolutionary Algorithms
+
+RT Journal Article
+ID 705894
+A1 Llorà,Xavier
+A1 Goldberg,David,E.
+YR 2003
+T1 Bounding the effect of noise in Multiobjective Learning Classifier Systems
+JF Evolutionary Computation
+VO 11
+SP 278
+OP 297
+IS 3
+
+RT Journal Article
+ID 2321339
+A1 Goldberg,David,E.
+A1 Welge,Michael
+A1 Llorà,Xavier
+YR 2003
+T1 DISCUS: Distributed Innovation and Scalable Collaboration in Uncertain Settings
+
+RT Book, Whole
+ID 445003
+A1 Butz,Martin
+A1 Goldberg,David,E.
+YR 2003
+T1 Generalized State Values in an Anticipatory Learning Classifier System
+SP 282
+OP 301
+
+RT Conference Proceedings
+ID 6279784
+A1 Babbar,Meghna
+A1 Lakshmikantha,Ashvin
+A1 Goldberg,David,E
+YR 2003
+T1 A Modified NSGA-II to Solve Noisy Multiobjective Problems
+
+RT Journal Article
+ID 2031156
+A1 Butz,M.,V.
+A1 Goldberg,D.,E.
+A1 Tharakunnel,K.
+YR 2003
+T1 Analysis and improvement of ˉt-ness exploitation in XCS: Bounding models
+
+RT Journal Article
+ID 792400
+A1 Pelikan,Martin
+A1 Goldberg,David,E.
+A1 Tsutsui,Shigeyoshi
+YR 2003
+T1 Getting the best of both worlds: Discrete and continuous genetic and evolutionary algorithms in concert
+JF Information Sciences
+VO 156
+SP 147
+OP 171
+IS 3-4
+
+RT Book, Whole
+ID 565956
+A1 Ahn,Chang,Wook
+A1 Goldberg,David,E.
+A1 Ramakrishna,Rudrapatna,S.
+YR 2003
+T1 Multiple-Deme Parallel Estimation of Distribution Algorithms: Basic Framework and Application
+SP 544
+OP 551
+
+RT Book, Whole
+ID 595444
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2003
+T1 Scalability of Selectorecombinative Genetic Algorithms for Problems with Tight Linkage
+SP 1332
+OP 1344
+
+RT Book, Whole
+ID 595060
+A1 Llorà,Xavier
+A1 Goldberg,David,E.
+YR 2003
+T1 Wise Breeding GA via Machine Learning Techniques for Function Optimization
+SP 1172
+OP 1183
+
+RT Book, Whole
+ID 32592
+A1 Chen,Ying-ping
+A1 Goldberg,David,E.
+YR 2003
+T1 Tightness Time for the Linkage Learning Genetic Algorithm
+SP 837
+OP 849
+
+RT Book, Whole
+ID 595401
+A1 Butz,Martin,V.
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2003
+T1 Tournament Selection: Stable Fitness Pressure in XCS
+SP 1857
+OP 1869
+
+RT Journal Article
+ID 30089334
+A1 Goldberg,D,E
+A1 Wang,H
+A1 Azen,S,P
+A1 Freeman,W,R
+YR 2003
+T1 Long term visual outcome of patients with cytomegalovirus retinitis treated with highly active antiretroviral therapy
+JF British Journal of Ophthalmology
+VO 87
+SP 853
+OP 855
+IS 7
+
+RT Journal Article
+ID 695810
+A1 Goldberg,David,E.
+A1 Sastry,Kumara
+A1 Ohsawa,Yukio
+YR 2003
+T1 Discovering Deep Building Blocks for Competent Genetic Algorithms Using Chance Discovery via KeyGraphs
+
+RT Book, Whole
+ID 595206
+A1 Espinoza,Felipe,P.
+A1 Minsker,Barbara,S.
+A1 Goldberg,David,E.
+YR 2003
+T1 Performance Evaluation and Population Reduction for a Self Adaptive Hybrid Genetic Algorithm (SAHGA)
+SP 922
+OP 933
+
+RT Book, Whole
+ID 30124
+A1 Chen,Ying-ping
+A1 Goldberg,David,E.
+YR 2003
+T1 An Analysis of a Reordering Operator with Tournament Selection on a GA-Hard Problem
+SP 825
+OP 836
+
+RT Book, Whole
+ID 29840
+A1 Butz,Martin,V.
+A1 Goldberg,David,E.
+YR 2003
+T1 Bounding the Population Size in XCS to Ensure Reproductive Opportunities
+SP 1844
+OP 1856
+
+RT Book, Whole
+ID 35356
+A1 Yu,Tian-li
+A1 Goldberg,David,E.
+A1 Sastry,Kumara
+YR 2003
+T1 Optimal Sampling and SpeedUp for Genetic Algorithms on the Sampled OneMax Problem
+SP 1554
+OP 1565
+
+RT Journal Article
+ID 50353212
+A1 Pelikan,Martin
+A1 Goldberg,D.,E.
+A1 Tsutsui,Shigeyoshi
+YR 2003
+T1 Hierarchical Bayesian optimization algorithm: toward a new generation of evolutionary algorithms
+
+RT Book, Whole
+ID 595335
+A1 Tharakunnel,Kurian,K.
+A1 Butz,Martin
+A1 Goldberg,David,E.
+YR 2003
+T1 Towards Building Block Propagation in XCS: A Negative Result and Its Implications
+SP 1906
+OP 1917
+
+RT Conference Proceedings
+ID 50333051
+A1 Dunsmore,Joel
+A1 Goldberg,David
+YR 2003
+T1 Novel two-tone intermodulation phase measurement for evaluating amplifier memory effects
+
+RT Journal Article
+ID 2031157
+A1 PELIKAN,MARTIN
+A1 GOLDBERG,DAVID,E.
+A1 LOBO,FERNANDO,G.
+YR 2002
+T1 A Survey of Optimization by Building and Using Probabilistic Models
+
+RT Conference Proceedings
+ID 2125394
+A1 Goldberg,David,E.
+YR 2002
+T1 The design of innovation
+
+RT Journal Article
+ID 34749
+A1 Rothlauf,Franz
+A1 Goldberg,David,E.
+A1 Heinzl,Armin
+YR 2002
+T1 Network Random Keys-A Tree Representation Scheme for Genetic and Evolutionary Algorithms
+JF Evolutionary Computation
+VO 10
+SP 75
+OP 97
+IS 1
+
+RT Journal Article
+ID 10529537
+A1 Chen,Peng
+A1 Goldberg,David,E.
+A1 Kolb,Bryan
+A1 Lanser,Marc
+A1 Benowitz,Larry,I.
+YR 2002
+T1 Inosine induces axonal rewiring and improves behavioral outcome after stroke
+JF Proceedings of The National Academy of Sciences
+VO 99
+SP 9031
+OP 9036
+IS 13
+
+RT Journal Article
+ID 867068
+A1 Pelikan,Martin
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2002
+T1 Scalability of the Bayesian optimization algorithm
+JF International Journal of Approximate Reasoning
+VO 31
+SP 221
+OP 258
+IS 3
+
+RT Conference Proceedings
+ID 652535
+A1 Goldberg,David
+A1 Malon,Christopher
+A1 Bern,Marshall,W.
+YR 2002
+T1 A global approach to automatic solution of jigsaw puzzles
+SP 82
+OP 87
+
+RT Conference Proceedings
+ID 55261
+A1 Chen,Jian-hung
+A1 Goldberg,David,E.
+A1 Ho,Shinn-ying
+A1 Sastry,Kumara
+YR 2002
+T1 Fitness Inheritance In Multi-objective Optimization
+SP 319
+OP 326
+
+RT Journal Article
+ID 705871
+A1 Hoyweghen,Clarissa,Van
+A1 Naudts,Bart
+A1 Goldberg,David,E.
+YR 2002
+T1 Spin-Flip Symmetry and Synchronization
+JF Evolutionary Computation
+VO 10
+SP 317
+OP 344
+IS 4
+
+RT Conference Proceedings
+ID 85312
+A1 Tsutsui,Shigeyoshi
+A1 Goldberg,David,E.
+YR 2002
+T1 Simplex crossover and linkage identification: single-stage evolution vs. multi-stage evolution
+
+RT Conference Proceedings
+ID 58879
+A1 Butz,Martin,V.
+A1 Sastry,Kumara
+A1 Goldberg,David
+YR 2002
+T1 Tournament Selection in XCS
+
+RT Journal Article
+ID 74725
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2002
+T1 Analysis of Mixing in Genetic Algorithms: A Survey
+
+RT Conference Proceedings
+ID 60762
+A1 Hoyweghen,Clarissa,Van
+A1 Goldberg,David,E.
+A1 Naudts,Bart
+YR 2002
+T1 From Twomax To The Ising Model: Easy And Hard Symmetrical Problems
+SP 626
+OP 633
+
+RT Conference Proceedings
+ID 595533
+A1 Khan,Nazan
+A1 Goldberg,David,E.
+A1 Pelikan,Martin
+YR 2002
+T1 Multiple-objective Bayesian Optimization Algorithm
+SP 684
+
+RT Book, Whole
+ID 68149
+A1 Chen,Ying-ping
+A1 Goldberg,David,E.
+YR 2002
+T1 Introducing Start Expression Genes to the Linkage Learning Genetic Algorithm
+SP 351
+OP 360
+
+RT Conference Proceedings
+ID 61222
+A1 Butz,Martin,V.
+A1 Goldberg,David,E.
+YR 2002
+T1 Anticipatory Learning Classifier System
+
+RT Conference Proceedings
+ID 62644
+A1 Kosorukoff,Alexander
+A1 Goldberg,David,E.
+YR 2002
+T1 Evolutionary Computation As A Form Of Organization
+SP 965
+OP 972
+
+RT Conference Proceedings
+ID 70492
+A1 Albert,Laura,A.
+A1 Goldberg,David,E.
+YR 2002
+T1 Efficient Discretization Scheduling In Multiple Dimensions
+SP 271
+OP 278
+
+RT Conference Proceedings
+ID 595085
+A1 Pelikan,Martin
+A1 Goldberg,David,E.
+A1 Tsutsui,Shigeyoshi
+YR 2002
+T1 Combining The Strengths Of Bayesian Optimization Algorithm And Adaptive Evolution Strategies
+SP 512
+OP 519
+
+RT Book, Whole
+ID 624708
+A1 Llorà,Xavier
+A1 Goldberg,David,E.
+A1 Traus,Ivan
+A1 Mansilla,Ester,Bernadó,I
+YR 2002
+T1 Accuracy, Parsimony, and Generality in Evolutionary Learning Systems via Multiobjective Selection
+SP 118
+OP 142
+
+RT Conference Proceedings
+ID 421667
+A1 Singh,Abhishek
+A1 Goldberg,David,E.
+A1 Chen,Ying-ping
+YR 2002
+T1 Modified Linkage Learning Genetic Algorithm For Difficult Non-stationary Problems
+SP 699
+OP 426
+
+RT Conference Proceedings
+ID 56137
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2002
+T1 Genetic Algorithms, Efficiency Enhancement, And Deciding Well With Differing Fitness Bias Values
+SP 536
+OP 543
+
+RT Conference Proceedings
+ID 1799869
+A1 Wong,Chi
+A1 Bern,Marshall,W.
+A1 Goldberg,David
+YR 2002
+T1 An image signature for any kind of image
+VO 1
+SP 409
+OP 412
+
+RT Conference Proceedings
+ID 64308
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2002
+T1 How Well Does A Single-Point Crossover Mix Building Blocks with Tight Linkage?
+
+RT Conference Proceedings
+ID 4260924
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2002
+T1 Genetic Algorithms, Efficiency Enhancement, And Deciding Well With Differing Fitness Variances
+SP 528
+OP 535
+
+RT Journal Article
+ID 31078
+A1 Lloraand,Xavier
+A1 Goldberg,David,E.
+YR 2002
+T1 Minimal Achievable Error in the LED problem
+
+RT Journal Article
+ID 5948525
+A1 Goldberg,David,E.
+YR 2002
+T1 The Design of Innovating Machines: A Fundamental Discipline for a Postmodern Systems Engineering
+
+RT Book, Whole
+ID 49037589
+A1 Benowitz,Larry,I.
+A1 Goldberg,David,E.
+A1 Irwin,Nina
+YR 2002
+T1 Chapter 28 Inosine stimulates axon growth in vitro and in the adult CNS
+JF Progress in Brain Research
+VO 137
+SP 389
+OP 399
+
+RT Journal Article
+ID 15062254
+A1 Goldberg,D.,E.
+YR 2002
+T1 PARASITOLOGY: When the Host Is Smarter Than the Parasite
+JF Science
+VO 296
+SP 482
+OP 483
+IS 5567
+
+RT Conference Proceedings
+ID 652557
+A1 Bern,Marshall,W.
+A1 Goldberg,David
+YR 2002
+T1 Paper position sensing
+SP 74
+OP 81
+
+RT Journal Article
+ID 58573
+A1 Tsutsui,Shigeyoshi
+A1 Goldberg,David,E.
+A1 Pelikan,Martin
+YR 2002
+T1 Solving Sequence Problems by Building and Sampling Edge Histograms
+
+RT Journal Article
+ID 48330187
+A1 Pelikan,Martin
+A1 Goldberg,David,E.
+A1 Lobo,Fernando,G.
+YR 2002
+T1 A Survey of Optimization by Building and Using Probabilistic Models
+JF Computational Optimization and Applications
+VO 21
+SP 5
+OP 20
+IS 1
+
+RT Conference Proceedings
+ID 84533
+A1 Tsutsui,Shigeyoshi
+A1 Pelikan,Martin
+A1 Goldberg,David,E.
+YR 2001
+T1 Evolutionary Algorithm Using Marginal Histogram Models in Continuous Domain
+
+RT Journal Article
+ID 2115224
+A1 Reed,P.
+A1 Minsker,B
+A1 Goldberg,D.,E.
+YR 2001
+T1 A multiobjective approach to cost effective long-term groundwater monitoring using an Elitist Nondominated Sorted Genetic Algorithm with historical data
+
+RT Conference Proceedings
+ID 85033
+A1 Goldberg,David,E.
+A1 Sastry,Kumara
+YR 2001
+T1 A Practical Schema Theorem for Genetic Algorithm Design and Tuning
+
+RT Journal Article
+ID 154774
+A1 Tsutsui,Shigeyoshi
+A1 Goldberg,David,E.
+YR 2001
+T1 Search space boundary extension method in real-coded genetic algorithms
+JF Information Sciences
+VO 133
+SP 229
+OP 247
+IS 3-4
+
+RT Conference Proceedings
+ID 71742
+A1 Pelikan,Martin
+A1 Goldberg,David.,E.
+YR 2001
+T1 Bayesian Optimization Algorithm, Decision Graphs, and Occam's Razor
+
+RT Conference Proceedings
+ID 137308
+A1 Goldberg,David,E.
+A1 Sastry,Kumara
+A1 Latoza,Thomas
+YR 2001
+T1 On The Supply Of Building Blocks
+
+RT Conference Proceedings
+ID 135610
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2001
+T1 Modeling Tournament Selection With Replacement Using Apparent Added Noise
+
+RT Conference Proceedings
+ID 137224
+A1 Hoyweghen,Clarissa,Van
+A1 Goldberg,David,E.
+A1 Naudts,Bart
+YR 2001
+T1 Building Block Superiority, Multimodality and Synchronization Problems
+
+RT Conference Proceedings
+ID 70941
+A1 Pelikan,Martin
+A1 Goldberg,David.,E.
+YR 2001
+T1 Hierarchical Bayesian Optimization Algorithm = Bayesian Optimization Algorithm + Niching + Local Structures
+
+RT Journal Article
+ID 133202
+A1 Pelikan,Martin
+A1 Goldberg,David,E.
+A1 Tsutsui,Shigeyoshi
+YR 2001
+T1 Combining the Strengths of the Bayesian Optimization Algorithm and Adaptive Evolution Strategies
+
+RT Journal Article
+ID 135966
+A1 Kosoruko,Alex
+A1 Goldberg,David,E.
+YR 2001
+T1 Genetic Algorithms for Social Innovation and Creativity
+
+RT Conference Proceedings
+ID 606236
+A1 Ye,Ming
+A1 Bern,Marshall,W.
+A1 Goldberg,David
+YR 2001
+T1 Document Image Matching and Annotation Lifting
+SP 753
+
+RT Conference Proceedings
+ID 116653
+A1 Pelikan,Martin
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2001
+T1 Evolutionary Algorithms + Graphical Models = Scalable BlackBox Optimization
+
+RT Journal Article
+ID 111165
+A1 Ceroni,Alessio
+A1 Pelikan,Martin
+A1 Goldberg,David,E.
+YR 2001
+T1 Convergence-Time Models for the Simple Genetic Algorithm with Finite Population
+
+RT Journal Article
+ID 135340
+A1 Albert,Laura,A.
+A1 Goldberg,David,E.
+YR 2001
+T1 Efficient Evaluation Genetic Algorithms under Integrated Fitness Functions
+
+RT Conference Proceedings
+ID 163532
+A1 Ruhl,Matthias
+A1 Bern,Marshall
+A1 Goldberg,David
+YR 2001
+T1 Secure notarization of paper text documents
+SP 437
+OP 438
+
+RT Book, Whole
+ID 435503
+A1 Bern,Marshall,W.
+A1 Breidenbach,Jeff
+A1 Goldberg,David
+YR 2001
+T1 Trustworthy Paper Documents
+SP 1
+OP 12
+
+RT Conference Proceedings
+ID 137484
+A1 Sinha,Abhishek
+A1 Goldberg,David,E.
+YR 2001
+T1 Verification and Extension of the Theory of Global-Local Hybrids
+
+RT Journal Article
+ID 135371
+A1 Parthasarathy,Prasanna,V.
+A1 Goldberg,David,E.
+A1 Burns,Scott,A.
+YR 2001
+T1 Tackling Multimodal Problems in Hybrid Genetic Algorithms
+
+RT Journal Article
+ID 42058252
+A1 Goldberg,David
+YR 2001
+T1 Well Logging for Physical Properties: A Handbook for Geophysicists, Geologists, and Engineers, 2nd Edition
+JF Eos, Transactions American Geophysical Union
+VO 82
+SP 249
+OP 249
+IS 22
+
+RT Journal Article
+ID 86648
+A1 Pelikan,Martin
+A1 Goldberg,David,E.
+A1 Cantú-paz,Erick
+YR 2000
+T1 Linkage Problem, Distribution Estimation, and Bayesian Networks
+JF Evolutionary Computation
+VO 8
+SP 311
+OP 340
+IS 3
+
+RT Journal Article
+ID 2045827
+A1 Reed,Patrick
+A1 Minsker,Barbara
+A1 Goldberg,David,E.
+YR 2000
+T1 Designing a competent simple genetic algorithm for search and optimization
+JF Water Resources Research
+VO 36
+SP 3757
+OP 3762
+IS 12
+
+RT Conference Proceedings
+ID 132283
+A1 Cantu-paz,Erick
+A1 Goldberg,David,E.
+YR 2000
+T1 Efficient Parallel Genetic Algorithms: Theory and Practice
+
+RT Journal Article
+ID 3692812
+A1 Smalley,J.,Bryan
+A1 Minsker,Barbara,S.
+A1 Goldberg,David,E.
+YR 2000
+T1 Risk-based in situ bioremediation design using a noisy genetic algorithm
+JF Water Resources Research
+VO 36
+SP 3043
+IS 10
+
+RT Conference Proceedings
+ID 595134
+A1 Pelikan,Martin
+A1 Goldberg,David,E.
+YR 2000
+T1 Hierarchical Problem Solving and the Bayesian Optimization Algorithm
+SP 267
+OP 274
+
+RT Conference Proceedings
+ID 595084
+A1 Pelikan,Martin
+A1 Goldberg,David,E.
+A1 Cantú-paz,Erick
+YR 2000
+T1 Bayesian Optimization Algorithm, Population Sizing, and Time to Convergence
+SP 275
+OP 282
+
+RT Journal Article
+ID 247278
+A1 Pelikan,Martin
+A1 Goldberg,David,E.
+A1 Sastry,Kumara
+YR 2000
+T1 Bayesian Optimization Algorithm, Decision Graphs, and Occam's Razor
+
+RT Conference Proceedings
+ID 2367926
+A1 Yim,Mark,H.
+A1 Goldberg,David
+A1 Casal,Arancha
+YR 2000
+T1 Connectivity planning for closed-chain reconfiguration
+VO 4196
+SP 402
+OP 412
+
+RT Journal Article
+ID 202370
+A1 Stolzmann,Wolfgang
+A1 Butz,Martin,V.
+A1 Hoffmann,Joachim
+A1 Goldberg,David,E.
+YR 2000
+T1 First Cognitive Capabilities in the Anticipatory Classifier System
+
+RT Conference Proceedings
+ID 595584
+A1 Knjazew,Dimitri
+A1 Goldberg,David,E.
+YR 2000
+T1 OMEGA - Ordering Messy GA: Solving Permutation Problems with the Fast Genetic Algorithm and Random Keys
+SP 181
+OP 188
+
+RT Book, Whole
+ID 227659
+A1 Pelikan,Martin
+A1 Goldberg,David,E.
+YR 2000
+T1 Genetic Algorithms, Clustering, and the Breaking of Symmetry
+SP 385
+OP 394
+
+RT Book, Whole
+ID 567953
+A1 Rothlauf,Franz
+A1 Goldberg,David,E.
+YR 2000
+T1 Pruefer Numbers and Genetic Algorithms: A Lesson on How the Low Locality of an Encoding Can Harm the Performance of GAs
+SP 395
+OP 404
+
+RT Journal Article
+ID 46551775
+A1 Harik,Georges,R.
+A1 Goldberg,David,E.
+YR 2000
+T1 Linkage learning through probabilistic expression
+JF Computer Methods in Applied Mechanics and Engineering
+VO 186
+SP 295
+OP 310
+IS 2
+
+RT Conference Proceedings
+ID 2768214
+A1 Rothlauf,Franz
+A1 Goldberg,David,E.
+A1 Heinzl,Armin
+YR 2000
+T1 Bad Codings and the Utility of Well-Designed Genetic Algorithms
+SP 355
+OP 364
+
+RT Journal Article
+ID 198138
+A1 Butz,Martin
+A1 Goldberg,David,E.
+A1 Stolzmann,Wolfgang
+YR 2000
+T1 Introducing a Genetic Generalization Pressure to the Anticipatory Classifier System Part 2: Performance Analysis
+
+RT Conference Proceedings
+ID 223787
+A1 Butz,Martin
+A1 Goldberg,David,E.
+A1 Stolzmann,Wolfgang
+YR 2000
+T1 Probability-Enhanced Predictions in the Anticipatory Classifier System
+SP 37
+OP 51
+
+RT Conference Proceedings
+ID 4260899
+A1 Butz,Martin
+A1 Goldberg,David,E.
+A1 Stolzmann,Wolfgang
+YR 2000
+T1 Introducing a Genetic Generalization Pressure to the Anticipatory Classifier System - Part 1: Theoretical approach
+SP 42
+OP 49
+
+RT Conference Proceedings
+ID 130589
+A1 Lobo,Fernando,G.
+A1 Goldberg,David,E.
+A1 Pelikan,Martin
+YR 2000
+T1 Time Complexity of genetic algorithms on exponentially scaled problems
+SP 151
+OP 158
+
+RT Conference Proceedings
+ID 87108
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+YR 2000
+T1 On Extended Compact Genetic Algorithm
+
+RT Journal Article
+ID 180175
+A1 Butz,Martin,V.
+A1 Goldberg,David,E.
+A1 Stolzmann,Wolfgang
+YR 2000
+T1 The Anticipatory Classifier System and Genetic Generalization
+
+RT Conference Proceedings
+ID 2634659
+A1 Pelikan,Martin
+A1 Goldberg,David,E.
+A1 Lobo,Fernando
+YR 2000
+T1 A survey of optimization by building and using probabilistic models
+VO 5
+SP 3289
+
+RT Conference Proceedings
+ID 5161453
+A1 Espinoza,Felipe,P.
+A1 Minsker,Barbara,S.
+A1 Goldberg,David,E.
+YR 2000
+T1 A Self Adaptive Hybrid Genetic Algorithm
+
+RT Journal Article
+ID 2057173
+A1 Pelikan,M.
+A1 Goldberg,D.
+YR 2000
+T1 Research on the Bayesian Optimization Algorithms
+
+RT Conference Proceedings
+ID 526187
+A1 Bern,Marshall,W.
+A1 Goldberg,David
+YR 2000
+T1 Scanner-Model-Based Document Image Improvement
+VO 2
+SP 582
+
+RT Book, Whole
+ID 200234
+A1 Butz,Martin
+A1 Goldberg,David,E.
+A1 Stolzmann,Wolfgang
+YR 2000
+T1 Investigating Generalization in the Anticipatory Classifier System
+SP 735
+OP 744
+
+RT Conference Proceedings
+ID 2672765
+A1 Biegelsen,David,K.
+A1 Berlin,Andrew,A.
+A1 Cheung,Patrick
+A1 Fromherz,Markus
+A1 Goldberg,David
+A1 Jackson,Warren,B.
+A1 Preas,Bryan
+A1 Reich,James
+A1 Swartz,Lars,E.
+YR 2000
+T1 AirJet paper mover: an example of mesoscale MEMS
+VO 4176
+SP 122
+OP 129
+
+RT Book, Whole
+ID 568145
+A1 Knjazew,Dimitri
+A1 Goldberg,David,E.
+YR 2000
+T1 Large-Scale Permutation Optimization with the Ordering Messy Genetic Algorithm
+SP 631
+OP 640
+
+RT Journal Article
+ID 15245483
+A1 Pelikan,Martin
+A1 Goldberg,David,E.
+A1 Cantú-Paz,Erick
+YR 2000
+T1 Linkage Problem, Distribution Estimation, and Bayesian Networks
+JF Evolutionary Computation
+VO 8
+SP 311
+OP 340
+IS 3
+
+RT Conference Proceedings
+ID 13299461
+A1 Whitley,L.,Darrell
+A1 Goldberg,David,E.
+A1 Cantú-Paz,Erick
+A1 Spector,Lee
+A1 Parmee,Ian,C.
+A1 Beyer,Hans-Georg
+YR 2000
+T1 Proceedings of the Genetic and Evolutionary Computation Conference (GECCO '00), Las Vegas, Nevada, USA, July 8-12, 2000
+
+RT Journal Article
+ID 46551774
+A1 Cantú-Paz,Erick
+A1 Goldberg,David,E.
+YR 2000
+T1 Efficient parallel genetic algorithms: theory and practice
+JF Computer Methods in Applied Mechanics and Engineering
+VO 186
+SP 221
+OP 238
+IS 2
+
+RT Journal Article
+ID 51997183
+A1 Smalley,J.,Bryan
+A1 Minsker,Barbara,S.
+A1 Goldberg,David,E.
+YR 2000
+T1 Risk-based in situ bioremediation design using a noisy genetic algorithm
+JF Water Resources Research
+VO 36
+SP 3043
+OP 3052
+
+RT Journal Article
+ID 5788120
+A1 Goldberg,David,E.
+YR 2000
+T1 A hydroinformatician's approach to computational innovation and the design of genetic algorithms
+
+RT Journal Article
+ID 705822
+A1 Harik,Georges,R.
+A1 Cantú-paz,Erick
+A1 Goldberg,David,E.
+A1 Miller,Brad,L.
+YR 1999
+T1 The Gambler's Ruin Problem, Genetic Algorithms, and the Sizing of Populations
+JF Evolutionary Computation
+VO 7
+SP 231
+OP 253
+IS 3
+
+RT Journal Article
+ID 286392
+A1 Pelikan,Martin
+A1 Goldberg,David,E.
+YR 1999
+T1 A Survey of Optimization by Building and Using Probabilistic Models
+
+RT Journal Article
+ID 762302
+A1 Harik,Georges,R.
+A1 Lobo,Fernando,G.
+A1 Goldberg,David,E.
+YR 1999
+T1 The compact genetic algorithm
+JF IEEE Transactions on Evolutionary Computation
+VO 3
+SP 287
+OP 297
+IS 4
+
+RT Conference Proceedings
+ID 595642
+A1 Goldberg,David,E.
+A1 Vössner,Siegfried
+YR 1999
+T1 Optimizing Global-Local Search Hybrids
+SP 220
+OP 228
+
+RT Journal Article
+ID 364455
+A1 Munetomo,Masaharu
+A1 Goldberg,David,E.
+YR 1999
+T1 Linkage Identification by Non-monotonicity Detection for Overlapping Functions
+JF Evolutionary Computation
+VO 7
+SP 377
+OP 398
+IS 4
+
+RT Conference Proceedings
+ID 284739
+A1 Munetomo,Masaharu
+A1 Goldberg,David,E.
+YR 1999
+T1 Identifying Linkage Groups by Nonlinearity /Non-monotonicity Detection
+
+RT Journal Article
+ID 705835
+A1 Schlabach,J.,L.
+A1 Hayes,C.,C.
+A1 Goldberg,David,E.
+YR 1999
+T1 FOX-GA: A Genetic Algorithm for Generating and Analyzing Battlefield Courses of Action
+JF Evolutionary Computation
+VO 7
+SP 45
+OP 68
+IS 1
+
+RT Book, Whole
+ID 624672
+A1 Holland,John,H.
+A1 Booker,Lashon,B.
+A1 Colombetti,Marco
+A1 Dorigo,Marco
+A1 Goldberg,David,E.
+A1 Forrest,Stephanie
+A1 Riolo,Rick,L.
+A1 Smith,Robert,E.
+A1 Lanzi,Pier,Luca
+A1 Stolzmann,Wolfgang
+A1 Wilson,Stewart,W.
+YR 1999
+T1 What Is a Learning Classifier System?
+SP 3
+OP 32
+
+RT Journal Article
+ID 4181936
+A1 Benowitz,Larry,I.
+A1 Goldberg,David,E.
+A1 Madsen,Joseph,R.
+A1 Soni,Deepa
+A1 Irwin,Nina
+YR 1999
+T1 Inosine Stimulates Extensive Axon Collateral Growth in the Rat Corticospinal Tract after Injury
+JF Proceedings of The National Academy of Sciences
+VO 961
+SP 13486
+OP 13490
+IS 23
+
+RT Conference Proceedings
+ID 171321
+A1 Goldberg,David,E.
+YR 1999
+T1 Using Time Efficiently: Genetic-Evolutionary Algorithms and the Continuation Problem
+SP 212
+OP 219
+
+RT Journal Article
+ID 338022
+A1 Goldberg,David,E.
+YR 1999
+T1 Genetic and Evolutionary Algorithms in the Real World
+
+RT Journal Article
+ID 1934569
+A1 Rothlauf,Franz
+A1 Goldberg,David
+YR 1999
+T1 Tree network design with genetic algorithms an investigation in the locality of the pruefernumber encoding
+
+RT Journal Article
+ID 165785
+A1 Cantú-paz,Erick
+A1 Goldberg,David,E.
+YR 1999
+T1 On the Scalability of Parallel Genetic Algorithms
+JF Evolutionary Computation
+VO 7
+SP 429
+OP 449
+IS 4
+
+RT Journal Article
+ID 378070
+A1 Goldberg,David,E.
+YR 1999
+T1 Parallel Genetic Algorithms with Distributed Panmictic Populations
+
+RT Journal Article
+ID 762277
+A1 Koza,John,R.
+A1 Banzhaf,Wolfgang
+A1 Chellapilla,Kumar
+A1 Deb,Kalyanmoy
+A1 Dorigo,Marco
+A1 Fogel,David,B.
+A1 Garzon,Max,H.
+A1 Goldberg,David,E.
+A1 Iba,Hitoshi
+A1 Riolo,Rick,L.
+YR 1999
+T1 Genetic Programming 1998: Proceedings of the Third Annual Conference
+JF IEEE Transactions on Evolutionary Computation
+VO 3
+SP 159
+OP 161
+IS 2
+
+RT Journal Article
+ID 41792528
+A1 Simpkins,Wayne,A.
+A1 Patel,Gordhan
+A1 Collins,Paul
+A1 Harrison,Mark
+A1 Goldberg,David
+YR 1999
+T1 Oxygen Isotope Ratios of Juice Water in Australian Oranges and Concentrates
+JF Journal of Agricultural and Food Chemistry
+VO 47
+SP 2606
+OP 2612
+IS 7
+
+RT Journal Article
+ID 44869184
+A1 Goldberg,David
+YR 1999
+T1 Analysis of LWD sonic data in low-velocity formations
+JF Seg Technical Program Expanded Abstracts
+VO 22
+SP 301
+IS 1
+
+RT Conference Proceedings
+ID 50167214
+A1 Munetomo,M.
+A1 Goldberg,David,E.
+YR 1999
+T1 A genetic algorithm using linkage identification by nonlinearity check
+VO 1
+SP 595
+
+RT Journal Article
+ID 3907834
+A1 Goldberg,D.,E.
+YR 1999
+T1 The hurdle, and the sweet spot: Genetic algorithms as a computational model of innovation
+
+RT Conference Proceedings
+ID 592
+A1 Harik,G.,R.
+A1 Lobo,Fernando,G.
+A1 Goldberg,D.,E.
+YR 1998
+T1 The compact genetic algorithm
+
+RT Conference Proceedings
+ID 207271
+A1 Thierens,Dirk
+A1 Goldberg,David,E.
+A1 Pereira,Angela,Guimaraes
+YR 1998
+T1 Domino convergence, drift, and the temporal-salience structure of problems
+
+RT Journal Article
+ID 30981877
+A1 Everson,S.,A.
+A1 Goldberg,D.,E.
+A1 Helmrich,S.,P.
+A1 Lakka,T.,A.
+A1 Lynch,J.,W.
+A1 Kaplan,G.,A.
+A1 Salonen,J.,T.
+YR 1998
+T1 Weight gain and the risk of developing insulin resistance syndrome
+JF Diabetes Care
+VO 21
+SP 1637
+OP 1643
+IS 10
+
+RT Journal Article
+ID 342234
+A1 Lobo,Fernando,G.
+A1 Deb,Kalyanmoy
+A1 Goldberg,David,E.
+A1 Harik,Georges,R.
+A1 Wang,Liwei
+YR 1998
+T1 Compressed Introns in a Linkage Learning Genetic Algorithm
+
+RT Journal Article
+ID 340425
+A1 Munetomo,Masaharu
+A1 Goldberg,David,E.
+YR 1998
+T1 Identifying Linkage by Nonlinearity Check
+
+RT Journal Article
+ID 36456325
+A1 Madsen,Joseph,R.
+A1 MacDonald,Paul
+A1 Irwin,Nina
+A1 Goldberg,David,E.
+A1 Yao,Gui-Lan
+A1 Meiri,Karina,F.
+A1 Rimm,Ilonna,J.
+A1 Stieg,Philip,E.
+A1 Benowitz,Larry,I.
+YR 1998
+T1 Tacrolimus (FK506) Increases Neuronal Expression of GAP43 and Improves Functional Recovery after Spinal Cord Injury in Rats
+JF Experimental Neurology
+VO 154
+SP 673
+OP 683
+IS 2
+
+RT Book, Whole
+ID 284447
+A1 Goldberg,David,E.
+A1 O’Reilly,Una-May
+YR 1998
+T1 Where Does the Good Stuff Go, and Why? How Contextual Semantics Influences Program Structure in Simple Genetic Programming
+SP 16
+OP 36
+
+RT Journal Article
+ID 308556
+A1 Goldberg,David
+YR 1998
+T1 From Genetic and Evolutionary Optimization to the Design of Conceptual Machines
+
+RT Journal Article
+ID 345037
+A1 Goldberg,David,E.
+YR 1998
+T1 The Race, the Hurdle, and the Sweet Spot
+
+RT Journal Article
+ID 286156
+A1 Goldberg,David,E.
+A1 Wilkins,David,C.
+YR 1998
+T1 Deceptive and Other Functions of Unitation as Bayesian Networks
+
+RT Conference Proceedings
+ID 516122
+A1 Horn,Jeffrey
+A1 Goldberg,David,E.
+YR 1998
+T1 Toward a Control Map for Niching
+SP 287
+OP 310
+
+RT Book, Whole
+ID 209135
+A1 Horn,Jeffrey
+A1 Goldberg,David,E.
+YR 1998
+T1 A Timing Analysis of Convergence to Fitness Sharing Equilibrium
+SP 23
+OP 33
+
+RT Journal Article
+ID 44340189
+A1 Major,C.,O.
+A1 Pirmez,C.
+A1 Goldberg,D.
+YR 1998
+T1 High-resolution core-log integration techniques: examples from the Ocean Drilling Program
+JF Geological Society, London, Special Publications
+VO 136
+SP 285
+OP 295
+IS 1
+
+RT Journal Article
+ID 32485371
+A1 Madsen,Joseph,R.
+A1 Irwin,Nina
+A1 Goldberg,David,E.
+A1 Benowitz,Larry,I.
+YR 1998
+T1 Neuroimmunophilin Ligands Increase Neuronal Expression of GAP43 and Improve Functional Recovery after Spinal Cord Injury in Rats
+JF Neurosurgery
+VO 43
+SP 700
+IS 3
+
+RT Conference Proceedings
+ID 939
+A1 Lobo,F.,G.
+A1 Goldberg,D.,E.
+YR 1997
+T1 Decision making in a hybrid genetic algorithm
+
+RT Journal Article
+ID 377203
+A1 Goldberg,David,E.
+A1 Wang,Liwei
+YR 1997
+T1 Adaptive Niching via Coevolutionary Sharing
+
+RT Conference Proceedings
+ID 525465
+A1 Cantú-paz,Erick
+A1 Goldberg,David,E.
+YR 1997
+T1 Predicting Speedups of Ideal Bounding Cases of Parallel Genetic Algorithms
+SP 113
+OP 120
+
+RT Journal Article
+ID 397057
+A1 Goldberg,David,E.
+A1 Milman,Kelsey
+YR 1997
+T1 Genetic Algorithms: A Bibliography
+
+RT Conference Proceedings
+ID 3901506
+A1 Harik,G.,R.
+A1 Cant'u-paz,E.
+A1 Goldberg,D.,E.
+A1 Miller,B.,L.
+YR 1997
+T1 The gambler''s ruin problem
+
+RT Journal Article
+ID 371812
+A1 Kargupta,Hillol
+A1 Goldberg,David,E.
+A1 Wang,Liwei
+YR 1997
+T1 Extending The Class of Order-k Delineable Problems For The Gene Expression Messy Genetic Algorithm
+
+RT Conference Proceedings
+ID 525373
+A1 Sakamoto,Yuji
+A1 Goldberg,David,E.
+YR 1997
+T1 Takeover Time in a Noisy Environment
+SP 160
+OP 165
+
+RT Journal Article
+ID 59806737
+A1 Miller,Brad,L.
+A1 Goldberg,David,E.
+YR 1997
+T1 Genetic Algorithms, Selection Schemes, and the Varying Effects of Noise
+
+RT Journal Article
+ID 56021173
+A1 Goldberg,D.
+YR 1997
+T1 GRL special section on core-log-seismic data integration Foreword
+JF Geophysical Research Letters
+VO 24
+SP 315
+OP 316
+
+RT Journal Article
+ID 1438274
+A1 Weile,D.,S.
+A1 Michielssen,E.
+A1 Goldberg,D.,E.
+YR 1996
+T1 Genetic algorithm design of Pareto optimal broadband microwave absorbers
+JF IEEE Transactions on Electromagnetic Compatibility
+VO 38
+SP 518
+OP 525
+IS 3
+
+RT Journal Article
+ID 381789
+A1 Miller,Brad,L.
+A1 Goldberg,David,E.
+YR 1996
+T1 Genetic Algorithms, Selection Schemes, and the Varying Effects of Noise
+JF Evolutionary Computation
+VO 4
+SP 113
+OP 131
+IS 2
+
+RT Conference Proceedings
+ID 516133
+A1 Harik,Georges,R.
+A1 Goldberg,David,E.
+YR 1996
+T1 Learning Linkage
+SP 247
+OP 262
+
+RT Journal Article
+ID 37775786
+A1 Goldberg,D.,E.
+YR 1996
+T1 Competitive Ability: Definitions, Contingency and Correlated Traits
+JF Philosophical Transactions of The Royal Society B: Biological Sciences
+VO 351
+SP 1377
+OP 1385
+IS 1345
+
+RT Journal Article
+ID 354614
+A1 Miller,Brad,L.
+A1 Goldberg,David,E.
+YR 1996
+T1 Optimal Sampling For Genetic Algorithms
+
+RT Journal Article
+ID 3938509
+A1 Want,R.
+A1 Schilit,W.,N.
+A1 Adams,N.,I.
+A1 Gold,R.
+A1 Peterson,K.
+A1 Gold-berg,D.
+A1 Ellis,J.,R.
+A1 Weiser,M.
+YR 1996
+T1 The ParcTab Ubiquitous Computing Experience
+JF IEEE Transactions on Mobile Computing
+
+RT Conference Proceedings
+ID 387003
+A1 Kargupta,Hillol
+A1 Goldberg,David,E.
+YR 1996
+T1 SEARCH, Blackbox Optimization, And Sample Complexity
+SP 291
+OP 324
+
+RT Journal Article
+ID 374071
+A1 Goldberg,David,E.
+YR 1996
+T1 Change in Engineering Education: One Myth, Two Scenarios, and Three Foci
+
+RT Journal Article
+ID 146985
+A1 Doan,Chau,M.
+A1 Fogel,D.,B.
+A1 Goldberg,D.,E.
+A1 Koza,J.,R.
+A1 Daida,Jason,M.
+A1 Mcclain,Jeffrey,J.
+A1 Riolo,R.,L.
+A1 Ross,Steven,J.
+A1 Bersano-begey,Tommaso,F.
+YR 1996
+T1 Variations in Evolution of Subsumption Architectures Using Genetic Programming: The Wall Following Robot Revisited
+
+RT Journal Article
+ID 27721586
+A1 Friedberg,Solomon
+A1 Goldberg,David
+YR 1996
+T1 On local coefficients for non-generic representations of some classical groups
+JF International Journal of Computer Mathematics
+
+RT Journal Article
+ID 406212
+A1 Goldberg,David,E.
+A1 Horn,Jeffrey
+YR 1996
+T1 Natural Niching for Evolving Cooperative Classifiers
+
+RT Conference Proceedings
+ID 50049955
+A1 Weile,D.,S.
+A1 Michielssen,E.
+A1 Goldberg,D.,E.
+YR 1996
+T1 Multiobjective synthesis of electromagnetic devices using nondominated sorting genetic algorithms
+
+RT Journal Article
+ID 3938511
+A1 Want,R.
+A1 Schilit,B.,N.
+A1 Adams,N.,I.
+A1 Gold,R.
+A1 Petersen,K.
+A1 Goldberg,D.
+A1 Ellis,J.,R
+A1 Weiser,M.
+YR 1996
+T1 The PARCTAB Ubiquitous Computing Experiment in Mobile Computing
+
+RT Conference Proceedings
+ID 524706
+A1 Kargupta,Hillol
+A1 Goldberg,David,E.
+YR 1996
+T1 Polynominal Complexity Blackbox Search: Lessons From the SEARCH Framework
+SP 792
+OP 797
+
+RT Journal Article
+ID 60718500
+A1 Kargupta,H.
+A1 Goldberg,D.,E.
+A1 Wang,L.
+YR 1996
+T1 Extending the class of order-k delineable problems for the gene expression messy genetic algorithm
+
+RT Journal Article
+ID 237740
+A1 Want,Roy
+A1 Schilit,Bill,N.
+A1 Adams,Norman,I.
+A1 Gold,R.
+A1 Petersen,K.
+A1 Goldberg,D.
+A1 Ellis,J.,R.
+A1 Weiser,M.
+YR 1995
+T1 An overview of the PARCTAB ubiquitous computing experiment
+JF IEEE Personal Communications
+VO 2
+SP 28
+OP 43
+IS 6
+
+RT Journal Article
+ID 1718
+A1 Mahfoud,Samir,W.
+A1 Goldberg,David,E.
+YR 1995
+T1 Parallel Recombinative Simulated Annealing: A Genetic Algorithm
+JF Parallel Computing
+VO 21
+SP 1
+OP 28
+IS 1
+
+RT Journal Article
+ID 321421
+A1 Miller,Brad,L.
+A1 Goldberg,David,E.
+YR 1995
+T1 Genetic Algorithms, Tournament Selection, and the Effects of Noise
+
+RT Journal Article
+ID 362589
+A1 Goldberg,David,E.
+YR 1995
+T1 Toward a Mechanics of Conceptual Machines
+
+RT Journal Article
+ID 386325
+A1 Goldberg,David,E.
+A1 Kargupta,Hillol
+A1 Horn,Jeffrey
+YR 1995
+T1 Critical Deme Size For Serial And Parallel Genetic Algorithms
+
+RT Conference Proceedings
+ID 315877
+A1 Horn,Jeffrey
+A1 Nafpliotis,Nicholas
+A1 Goldberg,David,E.
+YR 1994
+T1 A Niched Pareto Genetic Algorithm for Multiobjective Optimization
+SP 82
+OP 87
+
+RT Journal Article
+ID 775999
+A1 Goldberg,David,E.
+YR 1994
+T1 Genetic and evolutionary algorithms come of age
+JF Communications of The ACM
+VO 37
+SP 113
+OP 119
+IS 3
+
+RT Book, Whole
+ID 411116
+A1 Horn,Jeffrey
+A1 Goldberg,David,E.
+A1 Deb,Kalyanmoy
+YR 1994
+T1 Long Path Problems
+SP 149
+OP 158
+
+RT Book, Whole
+ID 568148
+A1 Thierens,Dirk
+A1 Goldberg,David,E.
+YR 1994
+T1 Convergence Models of Genetic Algorithm Selection Schemes
+SP 119
+OP 129
+
+RT Journal Article
+ID 705788
+A1 Horn,Jeffrey
+A1 Goldberg,David,E.
+A1 Deb,Kalyanmoy
+YR 1994
+T1 Implicit Niching in a Learning Classifier System: Nature's Way
+JF Evolutionary Computation
+VO 2
+SP 37
+OP 66
+IS 1
+
+RT Conference Proceedings
+ID 295340
+A1 Horn,Jeffrey
+A1 Goldberg,David,E.
+YR 1994
+T1 Genetic Algorithm Difficulty and the Modality of Fitness Landscapes
+SP 243
+OP 269
+
+RT Conference Proceedings
+ID 524765
+A1 Thierens,Dirk
+A1 Goldberg,David,E.
+YR 1994
+T1 Elitist Recombination: An Integrated Selection Recombination GA
+SP 508
+OP 512
+
+RT Journal Article
+ID 15272022
+A1 Deb,Kalyanmoy
+A1 Goldberg,David,E.
+YR 1994
+T1 Sufficient conditions for deceptive and easy binary functions
+JF Annals of Mathematics and Artificial Intelligence
+VO 10
+SP 385
+OP 408
+IS 4
+
+RT Journal Article
+ID 346332
+A1 Goldberg,David,E.
+YR 1994
+T1 The Existential Pleasures of Genetic Algorithms
+
+RT Journal Article
+ID 349524
+A1 Goldberg,David,E.
+YR 1994
+T1 First Flights at Genetic-Algorithm Kitty Hawk
+
+RT Conference Proceedings
+ID 895932
+A1 Goldberg,David
+A1 Richardson,Cate
+YR 1993
+T1 Touch-typing with a stylus
+SP 80
+OP 87
+
+RT Conference Proceedings
+ID 525477
+A1 Thierens,Dirk
+A1 Goldberg,David,E.
+YR 1993
+T1 Mixing in Genetic Algorithms
+SP 38
+OP 47
+
+RT Conference Proceedings
+ID 525513
+A1 Goldberg,David,E.
+A1 Deb,Kalyanmoy
+A1 Kargupta,Hillol
+A1 Harik,Georges,R.
+YR 1993
+T1 RapidAccurate Optimization of Difficult Problems Using Fast Messy Genetic Algorithms
+SP 56
+OP 64
+
+RT Journal Article
+ID 769549
+A1 Deb,Kalyanmoy
+A1 Goldberg,David,E.
+YR 1993
+T1 Sufficient Conditions for Deceptive and Easy Binary Functions
+JF Annals of Mathematics and Artificial Intelligence
+VO 10
+SP 385
+OP 408
+IS 4
+
+RT Journal Article
+ID 47065001
+A1 RASZKA,WILLIAM,V.
+A1 ROBB,MERLIN,L.
+A1 FOWLER,ARNOLD,K.
+A1 ROBERTS,CHESTER,R.
+A1 WAECKER,NORMAN,J.
+A1 ASCHER,DAVID,P.
+A1 MORIARTY,RICHARD,A.
+A1 GOLDBERG,DAVID
+A1 FISCHER,GERALD,W.
+YR 1993
+T1 Diagnosis and Quantitation of HIV1 Infection in Infants and Children by Whole-Blood Culture
+JF Annals of The New York Academy of Sciences
+VO 693
+SP 258
+OP 261
+IS 1 Pediatri
+
+RT Conference Proceedings
+ID 896007
+A1 Goldberg,David
+A1 Richardson,Cate
+YR 1993
+T1 Touch-typing with a stylus (abstract)
+SP 520
+
+RT Journal Article
+ID 777206
+A1 Goldberg,David
+A1 Nichols,David,A.
+A1 Oki,Brian,M.
+A1 Terry,Douglas,B.
+YR 1992
+T1 Using collaborative filtering to weave an information tapestry
+JF Communications of The ACM
+VO 35
+SP 61
+OP 70
+IS 12
+
+RT Journal Article
+ID 667638
+A1 Terry,Douglas,B.
+A1 Goldberg,David
+A1 Nichols,David,A.
+A1 Oki,Brian,M.
+YR 1992
+T1 Continuous queries over append-only databases
+JF Sigmod Record
+VO 21
+SP 321
+OP 330
+IS 2
+
+RT Conference Proceedings
+ID 449783
+A1 Elrod,Scott
+A1 Bruce,Richard
+A1 Gold,Rich
+A1 Goldberg,David
+A1 Halasz,Frank,G.
+A1 Janssen,William
+A1 Lee,David
+A1 Mccall,Kim
+A1 Pedersen,Elin,Rønby
+A1 Pier,Ken
+A1 Tang,John,C.
+A1 Welch,Brent,B.
+YR 1992
+T1 Liveboard: a large interactive display supporting group meetings, presentations, and remote collaboration
+SP 599
+OP 607
+
+RT Conference Proceedings
+ID 343218
+A1 Goldberg,David,E.
+A1 Deb,Kalyanmoy
+A1 Horn,Jeffrey
+YR 1992
+T1 Massive Multimodality, Deception, and Genetic Algorithms
+SP 37
+OP 48
+
+RT Conference Proceedings
+ID 516117
+A1 Deb,Kalyanmoy
+A1 Goldberg,David,E.
+YR 1992
+T1 Analyzing Deception in Trap Functions
+SP 93
+OP 108
+
+RT Journal Article
+ID 2895827
+A1 Krishnakumar,K.
+A1 Goldberg,David,E.
+YR 1992
+T1 Control system optimization using genetic algorithms
+JF Journal of Guidance Control and Dynamics
+VO 15
+SP 735
+OP 740
+IS 3
+
+RT Conference Proceedings
+ID 568035
+A1 Kargupta,Hillol
+A1 Deb,Kalyanmoy
+A1 Goldberg,David,E.
+YR 1992
+T1 Ordering Genetic Algorithms and Deception
+SP 49
+OP 58
+
+RT Conference Proceedings
+ID 567972
+A1 Mahfoud,Samir,W.
+A1 Goldberg,David,E.
+YR 1992
+T1 A Genetic Algorithm for Parallel Simulated Annealing
+SP 303
+OP 312
+
+RT Journal Article
+ID 1519137
+A1 Lansberry,J.,E.
+A1 Wozniak,L.
+A1 Goldberg,D.,E.
+YR 1992
+T1 Optimal hydrogenerator governor tuning with a genetic algorithm
+JF IEEE Transactions on Energy Conversion
+VO 7
+SP 623
+OP 630
+IS 4
+
+RT Journal Article
+ID 769902
+A1 Goldberg,David,E.
+YR 1992
+T1 Construction of High-Order Deceptive Functions Using Low-Order Walsh Coefficients
+JF Annals of Mathematics and Artificial Intelligence
+VO 5
+SP 35
+OP 47
+IS 1
+
+RT Conference Proceedings
+ID 516120
+A1 Goldberg,David,E.
+A1 Deb,Kalyanmoy
+A1 Clark,James,H.
+YR 1992
+T1 Accounting for Noise in the Sizing of Populations
+SP 127
+OP 140
+
+RT Journal Article
+ID 310225
+A1 Goldberg,David,E.
+A1 Horn,Jeffrey
+A1 Deb,Kalyanmoy
+YR 1992
+T1 What Makes a Problem Hard for a Classifier System?
+
+RT Journal Article
+ID 719552
+A1 Smith,Robert,E.
+A1 Goldberg,David,E.
+YR 1992
+T1 Reinforcement learning with classifier systems: Adaptive default hierarchy formation
+JF Applied Artificial Intelligence
+VO 6
+SP 79
+OP 102
+IS 1
+
+RT Journal Article
+ID 44338741
+A1 Goldberg,D.
+A1 Broglia,C.
+A1 Becker,K.
+YR 1992
+T1 Fracture permeability and alteration in gabbro from the Atlantis II Fracture Zone
+JF Geological Society, London, Special Publications
+VO 65
+SP 199
+OP 210
+IS 1
+
+RT Journal Article
+ID 15294487
+A1 SMITH,ROBERT,E.
+A1 GOLDBERG,DAVID,E.
+YR 1992
+T1 Adaptive Default Hierarchy Formation
+JF Applied Artificial Intelligence
+VO 6
+SP 79
+OP 102
+IS 1
+
+RT Journal Article
+ID 852387
+A1 Goldberg,David
+YR 1992
+T1 The design of floating-point data types
+JF ACM Letters on Programming Languages and Systems
+VO 1
+SP 138
+OP 151
+IS 2
+
+RT Journal Article
+ID 2714159
+A1 Schiff,R
+A1 Ansell,D
+A1 Goldberg,D
+A1 Smith,C
+A1 Whitman,S
+YR 1992
+T1 An urban public hospital walk-in clinic-patient characteristics and follow-up care
+
+RT Journal Article
+ID 24021155
+A1 Goldberg,David,E.
+YR 1992
+T1 Misusing "molecular"
+JF Journal of Chemical Education
+VO 69
+SP 776
+IS 9
+
+RT Journal Article
+ID 55861706
+A1 Goldberg,David,E.
+YR 1992
+T1 Misusing
+JF Journal of Chemical Education
+VO 69
+SP 776
+
+RT Journal Article
+ID 69822
+A1 Goldberg,David
+YR 1991
+T1 What every computer scientist should know about floating-point arithmetic
+JF ACM Computing Surveys
+VO 23
+SP 5
+OP 48
+IS 1
+
+RT Journal Article
+ID 351501
+A1 Goldberg,David,E.
+A1 Rudnick,Mike
+YR 1991
+T1 Genetic Algorithms and the Variance of Fitness
+
+RT Conference Proceedings
+ID 525313
+A1 Horner,Andrew
+A1 Goldberg,David,E.
+YR 1991
+T1 Genetic Algorithms and Computer-Assisted Music Composition
+SP 437
+OP 441
+
+RT Conference Proceedings
+ID 525184
+A1 Goldberg,David,E.
+A1 Deb,Kalyanmoy
+A1 Korb,Bradley
+YR 1991
+T1 Don't Worry, Be Messy
+SP 24
+OP 30
+
+RT Journal Article
+ID 32826261
+A1 Goldberg,D.,E.
+YR 1991
+T1 Hemoglobin degradation in the human malaria pathogen Plasmodium falciparum: a catabolic pathway initiated by a specific aspartic protease
+JF Journal of Experimental Medicine
+VO 173
+SP 961
+OP 969
+IS 4
+
+RT Journal Article
+ID 400678
+A1 Deb,Kalyanmoy
+A1 Goldberg,David,E.
+YR 1991
+T1 MGA in C: A Messy Genetic Algorithm in C
+
+RT Journal Article
+ID 210134
+A1 Robert,E
+A1 Goldberg,David,E.
+A1 Earickson,Jeff,A.
+YR 1991
+T1 SGA-C: A C-language Implementation of a Simple Genetic Algorithm
+
+RT Journal Article
+ID 195146
+A1 Rudnick,Mike
+A1 Goldberg,D.,e.
+YR 1991
+T1 Signal, Noise, and Genetic Algorithms
+
+RT Journal Article
+ID 4485676
+A1 RIMMER,R.
+A1 GOLDBERG,D.
+A1 LAMBERTSON,G.
+A1 VOELKER,F.
+YR 1991
+T1 Higher Order Mode Damping Studies on the PEP-II B-Factory RF Cavity
+
+RT Journal Article
+ID 42034366
+A1 Larue,D.,K.
+A1 Anderson,R.,N.
+A1 Goldberg,D.
+A1 Moos,D.
+YR 1991
+T1 Origin of reflectors in seismic Line 2, Toa Baja, small gas horizons associated with enhanced reflector amplitudes, and recognizing leaky and sealing faults using gas chromatography data
+JF Geophysical Research Letters
+VO 18
+SP 541
+OP 544
+IS 3
+
+RT Journal Article
+ID 48906716
+A1 Larue,D.,K.
+A1 Anderson,R.,N.
+A1 Goldberg,D.
+A1 Moos,D.
+YR 1991
+T1 Origin of reflectors in seismic line 2, Toa Baja, Small gas horizons associated with enhanced reflector amplitudes, and recognizing leaky and sealing faults using gas chromatography data
+JF Geophysical Research Letters
+VO 18
+SP 541
+OP 544
+IS 3
+
+RT Journal Article
+ID 52205460
+A1 Larue,D.,K.
+A1 Anderson,R.,N.
+A1 Goldberg,D.
+A1 Moos,D.
+YR 1991
+T1 Origin of reflectors in seismic line 2, Toa Baja, small gas horizons associated with enhanced reflector amplitudes, and recognizing leaky and sealing faults using gas chromatography data
+JF Geophysical Research Letters
+VO 18
+SP 541
+OP 544
+
+RT Conference Proceedings
+ID 516186
+A1 Goldberg,David,E.
+A1 Deb,Kalyanmoy
+YR 1990
+T1 A Comparative Analysis of Selection Schemes Used in Genetic Algorithms
+SP 69
+OP 93
+
+RT Journal Article
+ID 399974
+A1 Goldberg,David,E.
+YR 1990
+T1 Real-coded Genetic Algorithms, Virtual Alphabets, and Blocking
+
+RT Journal Article
+ID 15137551
+A1 Goldberg,D.,E.
+YR 1990
+T1 Hemoglobin Degradation in the Malaria Parasite Plasmodium falciparum: An Ordered Process in a Unique Organelle
+JF Proceedings of The National Academy of Sciences
+VO 87
+SP 2931
+OP 2935
+IS 8
+
+RT Journal Article
+ID 1981331
+A1 Goldberg,D.,E.
+A1 Bridges,C.,L.
+YR 1990
+T1 An analysis of a reordering operator on a GA-hard problem
+JF Biological Cybernetics
+VO 62
+SP 397
+OP 405
+IS 5
+
+RT Book, Whole
+ID 568092
+A1 Goldberg,David,E.
+YR 1990
+T1 The Theory of Virtual Alphabets
+SP 13
+OP 22
+
+RT Journal Article
+ID 709157
+A1 Goldberg,David,E.
+YR 1990
+T1 Probability Matching, the Magnitude of Reinforcement, and Classifier System Bidding
+JF Machine Learning
+VO 5
+SP 407
+OP 425
+IS 4
+
+RT Conference Proceedings
+ID 516163
+A1 Bridges,Clayton,L.
+A1 Goldberg,David,E.
+YR 1990
+T1 The Nonuniform Walsh-Schema Transform
+SP 13
+OP 22
+
+RT Conference Proceedings
+ID 516154
+A1 Smith,Robert,E.
+A1 Goldberg,David,E.
+YR 1990
+T1 Variable Default Hierarchy Separation in a Classifier System
+SP 148
+OP 167
+
+RT Conference Proceedings
+ID 49892499
+A1 Smith,Robert,E.
+A1 Goldberg,David,E.
+YR 1990
+T1 Reinforcement learning with classifier systems
+
+RT Journal Article
+ID 15221958
+A1 Goldberg,David,E.
+YR 1990
+T1 Probability Matching, the Magnitude of Reinforcement, and Classifier System Bidding
+JF Machine Learning
+VO 5
+SP 407
+OP 425
+IS 4
+
+RT Journal Article
+ID 44338285
+A1 Goldberg,D.
+A1 Speed,D.
+A1 Wilkinson,C.
+A1 Scholz,E.
+YR 1990
+T1 A correlation of hydraulic conductivity from pulse tests with sonic log amplitudes
+JF Geological Society, London, Special Publications
+VO 48
+SP 297
+OP 302
+IS 1
+
+RT Book, Whole
+ID 694534
+A1 Goldberg,David,E.
+YR 1989
+T1 Genetic Algorithms in Search Optimization and Machine Learning
+
+RT Conference Proceedings
+ID 525159
+A1 Deb,Kalyanmoy
+A1 Goldberg,David,E.
+YR 1989
+T1 An Investigation of Niche and Species Formation in Genetic Function Optimization
+SP 42
+OP 50
+
+RT Journal Article
+ID 697771
+A1 Booker,Lashon,B.
+A1 Goldberg,David,E.
+A1 Holland,John,H.
+YR 1989
+T1 Classifier Systems and Genetic Algorithms
+JF Artificial Intelligence
+VO 40
+SP 235
+OP 282
+IS 1-3
+
+RT Conference Proceedings
+ID 525440
+A1 Goldberg,David,E.
+YR 1989
+T1 Sizing Populations for Serial and Parallel Genetic Algorithms
+SP 70
+OP 79
+
+RT Journal Article
+ID 3530333
+A1 Goldberg,David,E.
+YR 1989
+T1 Optimization 6 Machine Learning
+
+RT Conference Proceedings
+ID 525403
+A1 Wilson,Stewart,W.
+A1 Goldberg,David,E.
+YR 1989
+T1 A Critical Review of Classifier Systems
+SP 244
+OP 255
+
+RT Conference Proceedings
+ID 525504
+A1 Goldberg,David,E.
+YR 1989
+T1 Zen and the Art of Genetic Algorithms
+SP 80
+OP 85
+
+RT Conference Proceedings
+ID 2101544
+A1 Parker,Joey,K.
+A1 Khoogar,Ahmad,R.
+A1 Goldberg,David,E.
+YR 1989
+T1 Inverse kinematics of redundant robots using genetic algorithms
+
+RT Journal Article
+ID 44879197
+A1 Goldberg,D.
+YR 1989
+T1 P-wave attenuation measurements from laboratory resonance and sonic waveform data
+JF Geophysics
+VO 54
+SP 76
+IS 1
+
+RT Journal Article
+ID 32008524
+A1 GOLDBERG,D
+A1 PARKES,J
+A1 HAHN,S
+YR 1989
+T1 Microsomal induction, alcohol, and lipoprotein metabolism: Is there a three-way relationship?
+JF Clinical Biochemistry
+VO 22
+SP 57
+OP 67
+IS 1
+
+RT Journal Article
+ID 709234
+A1 Goldberg,David,E.
+A1 Holland,John,H.
+YR 1988
+T1 Genetic Algorithms and Machine Learning
+JF Machine Learning
+VO 3
+SP 95
+OP 99
+IS 2-3
+
+RT Journal Article
+ID 15221908
+A1 Goldberg,David,E.
+A1 Holland,John,H.
+YR 1988
+T1 Genetic Algorithms and Machine Learning
+JF Machine Learning
+VO 3
+SP 95
+OP 99
+IS 2
+
+RT Journal Article
+ID 44879120
+A1 Goldberg,David
+YR 1988
+T1 Shear-wave processing of sonic log waveforms in a limestone reservoir
+JF Geophysics
+VO 53
+SP 668
+IS 5
+
+RT Conference Proceedings
+ID 525506
+A1 Goldberg,David,E.
+A1 Richardson,Jon
+YR 1987
+T1 Genetic Algorithms with Sharing for Multimodalfunction Optimization
+SP 41
+OP 49
+
+RT Conference Proceedings
+ID 525507
+A1 Goldberg,David,E.
+A1 Segrest,Philip
+YR 1987
+T1 Finite Markov Chain Analysis of Genetic Algorithms
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 525186
+A1 Goldberg,David,E.
+A1 Smith,Robert,E.
+YR 1987
+T1 Nonstationary Function Optimization Using Genetic Algorithms with Dominance and Diploidy
+SP 59
+OP 68
+
+RT Journal Article
+ID 26875137
+A1 Goldberg,David,E.
+A1 Kuo,Chie,Hsiung
+YR 1987
+T1 Genetic Algorithms in Pipeline Optimization
+JF Journal of Computing in Civil Engineering
+VO 1
+SP 128
+IS 2
+
+RT Conference Proceedings
+ID 525384
+A1 Bridges,Clayton,L.
+A1 Goldberg,David,E.
+YR 1987
+T1 An Analysis of Reproduction and Crossover in a Binary-Coded Genetic Algorithm
+SP 9
+OP 13
+
+RT Journal Article
+ID 15238638
+A1 Goldberg,David,E.
+YR 1987
+T1 Computer-aided pipeline operation using genetic algorithms and rule learning. PART I: Genetic algorithms in pipeline optimization
+JF Engineering With Computers
+VO 3
+SP 35
+OP 45
+IS 1
+
+RT Journal Article
+ID 30838785
+A1 Goldberg,D
+YR 1987
+T1 Biochemical tests in the diagnosis, classification, and management of patients with malignant lymphoma and leukemia
+JF Clinica Chimica Acta
+VO 169
+SP 1
+OP 76
+IS 1
+
+RT Journal Article
+ID 32004969
+A1 GOLDBERG,D
+A1 BROWN,D
+YR 1987
+T1 Advances in the application of biochemical tests to diseases of the liver and biliary tract: Their role in diagnosis, prognosis, and the elucidation of pathogenetic mechanisms
+JF Clinical Biochemistry
+VO 20
+SP 127
+OP 148
+IS 2
+
+RT Journal Article
+ID 15238639
+A1 Goldberg,David,E.
+YR 1987
+T1 Computer-aided pipeline operation using genetic algorithms and rule learning. PART II: Rule learning control of a pipeline under normal and abnormal conditions
+JF Engineering With Computers
+VO 3
+SP 47
+OP 58
+IS 1
+
+RT Journal Article
+ID 26894733
+A1 Goldberg,David,E.
+A1 Karr,Charles,L.
+YR 1987
+T1 Quick Stroking: Design of Time-optimal Valve Motions
+JF Journal of Hydraulic Engineering-asce
+VO 113
+SP 780
+IS 6
+
+RT Journal Article
+ID 32004975
+A1 GOLDBERG,D
+YR 1987
+T1 The enzymology of intestinal disease
+JF Clinical Biochemistry
+VO 20
+SP 63
+OP 72
+IS 2
+
+RT Journal Article
+ID 44598881
+A1 Goldberg,David
+YR 1987
+T1 Raking the Field of the Discourse of Racism
+JF Journal of Black Studies
+VO 18
+SP 58
+OP 71
+IS 1
+
+RT Journal Article
+ID 32006807
+A1 GOLDBERG,D
+A1 PARKES,J
+YR 1987
+T1 Lipolytic Enzymes as markers of induction and differentiation
+JF Clinical Biochemistry
+VO 20
+SP 405
+OP 413
+IS 6
+
+RT Journal Article
+ID 30834659
+A1 GOLDBERG,D
+YR 1987
+T1 Peptic secretion: Clinical and pathophysiological featuresF. Di Mario, F. Vianello and M. Plebani Piccin, Padua, 1985, pp. 116
+JF Clinica Chimica Acta
+VO 163
+SP 235
+OP 236
+IS 2
+
+RT Journal Article
+ID 45763508
+A1 Boillot,G.
+A1 Winterer,E.,L.
+A1 Meyer,A.,W.
+A1 Applegate,J.
+A1 Baltuck,M.
+A1 Bergen,J.,A.
+A1 Davies,T.,A.
+A1 Dunham,K.
+A1 Evans,C.,A.
+A1 Girardeau,J.
+A1 Goldberg,D.
+A1 Haggerty,J.
+A1 Jansa,L.,F.
+A1 Johnson,J.,A.
+A1 Kasahara,J.
+A1 Loreau,J.,P.
+A1 Luna,E.
+A1 Moullade,H.
+A1 Ogg,J.
+A1 Sarti,M.
+A1 Thurow,J.
+A1 Williansom,M.,W.
+YR 1986
+T1 El Margen Atlántico Ibérico al W de Galicia. Evolución en régimen extensional y sedimentación. (Resultados preliminares del Leg. 103, Ocean Drilling Program.)
+JF Estudios Geologicos-madrid
+VO 42
+SP 137
+OP 142
+IS 2-3
+
+RT Journal Article
+ID 880734
+A1 Harrow,Keith
+A1 Langsam,Yedidyah
+A1 Goldberg,David,E.
+YR 1986
+T1 Teching PL/I using a microcomputer
+JF ACM Sigcse Bulletin
+VO 18
+SP 19
+OP 25
+IS 3
+
+RT Journal Article
+ID 43659659
+A1 GOLDBERG,DAVID
+YR 1986
+T1 A GRIM DILEMMA ABOUT RACIST REFERRING EXPRESSIONS
+JF Metaphilosophy
+VO 17
+SP 224
+OP 229
+IS 4
+
+RT Conference Proceedings
+ID 525505
+A1 Goldberg,David,E.
+A1 Jr.,Robert,Lingle
+YR 1985
+T1 AllelesLociand the Traveling Salesman Problem
+SP 154
+OP 159
+
+RT Conference Proceedings
+ID 525439
+A1 Goldberg,David,E.
+YR 1985
+T1 Genetic Algorithms and Rules Learning in Dynamic System Control
+SP 8
+OP 15
+
+RT Conference Proceedings
+ID 615666
+A1 Goldberg,David,E.
+YR 1985
+T1 Dynamic System Control Using Rule Learning and Genetic Algorithms
+SP 588
+OP 592
+
+RT Journal Article
+ID 14838058
+A1 Boillot,G.
+A1 Winterer,E.,L.
+A1 Applegate,J.
+A1 Baltuck,M.
+A1 Bergen,J.,A.
+A1 Comas,M.
+A1 Davies,T.,A.
+A1 Dunham,K.
+A1 Evans,C.,A.
+A1 Girardeau,J.
+A1 Goldberg,D.
+A1 Haggerty,J.
+A1 Jansa,L.,F.
+A1 Johnson,J.,A.
+A1 Kasahara,J.
+A1 Loreau,J.-P.
+A1 Luna,E.
+A1 Meyer,A.,W.
+A1 Moullade,M.
+A1 Ogg,J.
+A1 Sarti,M.
+A1 Thurow,J.
+A1 Williamson,M.,W.
+YR 1985
+T1 Ocean Drilling Program: Evolution of a passive margin
+JF Nature
+VO 317
+SP 115
+OP 116
+IS 6033
+
+RT Journal Article
+ID 26894308
+A1 Goldberg,David,E.
+A1 Wylie,E.,Benjamin
+YR 1984
+T1 Closure to “Characteristics Method Using TimeLine Interpolations” by David E. Goldberg and E. Benjamin Wylie (May, 1983)
+JF Journal of Hydraulic Engineering-asce
+VO 110
+SP 1015
+IS 7
+
+RT Journal Article
+ID 43442646
+A1 Goldberg,David
+A1 Huxley,Peter
+YR 1983
+T1 Mental illness in the community: The pathway to psychiatric care
+JF International Journal of Rehabilitation Research
+VO 6
+SP 127
+IS 1
+
+RT Journal Article
+ID 26894043
+A1 Goldberg,David,E.
+A1 Wylie,E.,Benjamin
+YR 1983
+T1 Characteristics Method Using TimeLine Interpolations
+JF Journal of Hydraulic Engineering-asce
+VO 109
+SP 670
+IS 5
+
+RT Book, Whole
+ID 12866458
+A1 Sastry,Kumara
+A1 Goldberg,David
+A1 Kendall,Graham
+T1 Genetic Algorithms
+
+RT Book, Whole
+ID 353587
+A1 Want,Roy
+A1 Schilit,Bill,N.
+A1 Adams,Norman,I.
+A1 Gold,Rich
+A1 Petersen,Karin
+A1 Goldberg,David
+A1 Ellis,John,R.
+A1 Weiser,Mark
+T1 The Parctab Ubiquitous Computing Experiment
+JF IEEE Transactions on Mobile Computing
+
+RT Book, Whole
+ID 275280
+A1 Pelikan,Martin
+A1 Goldberg,David,E.
+A1 Cantu-Paz,Erick
+T1 Bayesian Optimization Algorithm
+
+RT Journal Article
+ID 6945411
+A1 Want,Roy
+A1 Schilit,Bill,N.
+A1 Adams,Norman,I.
+A1 Petersen,Karin
+A1 Goldberg,David
+A1 Ellis,John,R.
+A1 Weiser,Mark
+T1 The ParcTab Ubiquitous Computing Experiment
+
+RT Journal Article
+ID 2378852
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+T1 Probabilistic Model Building and Competent Genetic Programming
+
+RT Journal Article
+ID 4159887
+A1 Goldberg,David,E.
+T1 The Race, the Hurdle, and the Sweet Spot: Lessons from Genetic Algorithms for the Automation of Design Innovation and Creativity
+
+RT Journal Article
+ID 20619
+A1 Sastry,Kumara
+A1 O'Reilly,Una-May
+A1 Goldberg,David,E.
+A1 Hill,David
+T1 Building-Block Supply in Genetic Programming
+
+RT Journal Article
+ID 4524020
+A1 Chen,Ying-ping
+A1 Yu,Tian-Li
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+T1 A Survey of Linkage Learning Techniques in Genetic and Evolutionary Algorithms
+
+RT Journal Article
+ID 12646285
+A1 Gigu,Philippe
+A1 Goldberg,David,E.
+T1 Population Sizing for Optimum Sampling with Genetic Algorithms: A Case Study of the Onemax Problem
+
+RT Journal Article
+ID 6171374
+A1 Espinoza,Felipe,P.
+A1 Minsker,Barbara,S.
+A1 Goldberg,David,E.
+T1 Optimal Settings for a Hybrid Genetic Algorithm Applied to a Groundwater Remediation Problem
+
+RT Book, Whole
+ID 48789467
+A1 Sinhal,Abhishek
+A1 Chen,Ying-ping
+A1 Goldberg,David,E.
+T1 Designing Efficient Genetic and Evolutionary Algorithm Hybrids
+
+RT Journal Article
+ID 129868
+A1 Reed,Patrick,M.
+A1 Minsker,Barbara,S.
+A1 Goldberg,David,E.
+T1 The Practitioner's Role in Competent Search and Optimization Using Genetic Algorithms
+
+RT Journal Article
+ID 6951975
+A1 Arst,Rachel
+A1 Minsker,Barbara
+A1 Goldberg,David,E.
+T1 Comparing Advanced Genetic Algorithms and Simple Genetic Algorithms for Groundwater Management
+
+RT Book, Whole
+ID 48597297
+A1 Ahn,Chang,Wook
+A1 Ramakrishna,R.,S.
+A1 Goldberg,David,E.
+T1 Real-coded Bayesian Optimization Algorithm
+
+RT Book, Whole
+ID 48422524
+A1 Butz,Martin,V.
+A1 Goldberg,David,E.
+A1 Lanzi,Pier,Luca
+T1 Computational Complexity of the XCS Classifier System
+
+RT Book, Whole
+ID 48860288
+A1 Knjazew,Dimitri
+A1 Goldberg,David,E.
+T1 Solving Permutation Problems with the Ordering Messy Genetic Algorithm
+
+RT Journal Article
+ID 10847636
+A1 Bacardit,Jaume
+A1 Goldberg,David,E.
+A1 Butz,Martin,V.
+T1 Improving the Performance of a Pittsburgh Learning Classier System Using a Default Rule
+
+RT Journal Article
+ID 5551820
+A1 Babbar,Meghna
+A1 Minsker,Barbara
+A1 Goldberg,David,E.
+T1 A Multiscale Island Injection Genetic Algorithm for Optimal Groundwater Remediation Design
+
+RT Journal Article
+ID 12772323
+A1 Llora,Xavier
+A1 Goldberg,David,E.
+A1 Traus,Ivan
+A1 Bernado,Ester
+T1 Accuracy, Parsimony, and Generality in Evolutionary Learning Systems via Multiobjective Selection
+
+RT Journal Article
+ID 2713335
+A1 Lobo,Fernando,G.
+A1 Goldberg,David,E.
+T1 An overview of the parameter-less genetic algorithm
+
+RT Conference Proceedings
+ID 90087
+A1 Reed,Patrick,M.
+A1 Minsker,Barbara,S.
+A1 Goldberg,David,E.
+T1 Designing A New Elitist Nondominated Sorted Genetic Algorithm For A Multiobjective Long Term Groundwater Monitoring Application
+
+RT Journal Article
+ID 4647607
+A1 Singh,Abhishek
+A1 Minsker,Barbara
+A1 Goldberg,David,E.
+T1 Combining Reliability and Pareto Optimality - An Approach Using Stochastic Multi Objective Genetic Algorithms
+
+RT Journal Article
+ID 4985322
+A1 Pelikan,Martin
+A1 Goldberg,David,E.
+A1 Ocenasek,Jiri
+A1 Trebst,Simon
+T1 Robust and Scalable BlackBox Optimization, Hierarchy, and Ising Spin Glasses
+
+RT Journal Article
+ID 4920102
+A1 Lanzi,Pier,Luca
+A1 Loiacono,Daniele
+A1 Wilson,Stewart,W.
+A1 Goldberg,David,E.
+T1 Generalization in XCSF for Real Inputs
+
+RT Journal Article
+ID 13587213
+A1 Myers,Greg
+A1 Goldberg,Dave
+A1 Meltser,Alex
+A1 Scholz,Erich
+T1 PETROPHYSICAL APPLICATIONS OF NEW SEISMIC-WHILE-DRILLING TECHNOLOGY IN DEEP WATER
+
+RT Book, Whole
+ID 5151169
+A1 Duque,Thyago,S.,P.,C.
+A1 Goldberg,David,E.
+T1 ClusterMI: Building Probabilistic Models Using Hierarchical Clustering and Mutual Information
+
+RT Journal Article
+ID 90486
+A1 Goldberg,David,E.
+A1 Deb,Kalyanmoy
+T1 C: A Messy Genetic Algorithm in C
+
+RT Journal Article
+ID 5243696
+A1 Yassine,Ali
+A1 Goldberg,David
+A1 Yu,Tian-Li
+T1 Simple Models of Hierarchical Organizations
+
+RT Conference Proceedings
+ID 4159220
+A1 Pelikan,Martin
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+T1 Sporadic Model Building for Efficiency Enhancement of hBOA
+
+RT Journal Article
+ID 49711865
+A1 Moreno-Torres,Jose,G.
+A1 Llorà,Xavier
+A1 Goldberg,David,E.
+A1 Bhargava,Rohit
+T1 Repairing fractures between data using genetic programming-based feature extraction: A case study in cancer diagnosis
+JF Information Sciences
+
+RT Journal Article
+ID 5121490
+A1 Ueda,Takaoki
+A1 Yasui,Noriko,Imafuji
+A1 Llora,Xavier
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+T1 Discovering Building Blocks for Human Based Genetic Algorithms
+
+RT Journal Article
+ID 12895648
+A1 Llor,Xavier
+A1 Goldberg,David,E.
+A1 Traus,Ivan
+A1 Bernad,Ester
+T1 Accuracy, Parsimony, and Generality in Evolutionary Learning Systems via Multiobjective Selection
+
+RT Journal Article
+ID 12669008
+A1 Thierens,Dirk
+A1 Goldberg,David,E.
+A1 Koza,John,R.
+A1 Bentley,Peter,J.
+A1 Ekárt,Anikó
+A1 Yu,Tina
+A1 Bosman,Peter,A.,N.
+A1 Moore,Frank
+A1 Davis,David
+A1 Roy,Rajkumar
+A1 Bongard,Josh
+A1 Branke,Jürgen
+A1 Clark,John,Andrew
+A1 Doerr,Benjamin
+A1 Miller,Julian,F.
+A1 Neumann,Frank
+A1 Poli,Riccardo
+A1 Stanley,Kenneth,Owen
+T1 GECCO2007 Conference Organizers
+
+RT Journal Article
+ID 12820515
+A1 JOHNSON,ERIK,A.
+A1 BERGMAN,LAWRENCE,A.
+A1 GOLDBERG,DAVID,E.
+A1 DYKE,SHIRLEY,J.
+T1 MONTE CARLO SIMULATION OF DYNAMICAL SYSTEMS OF ENGINEERING INTEREST IN A MASSIVELY PARALLEL COMPUTING ENVIRONMENT: AN APPLICATION OF GENETIC ALGORITHMS
+
+RT Journal Article
+ID 5935169
+A1 Llora,Xavier
+A1 Yasui,Noriko,Imafuji
+A1 Welge,Michael
+A1 Goldberg,David,E.
+T1 Human-Centered Analysis and Visualization Tools for the Blogosphere
+
+RT Journal Article
+ID 12792160
+A1 Yasui,Noriko,Imafuji
+A1 Llora,Xavier
+A1 Goldberg,David,E.
+T1 Adaptable Extraction of Key Elements from Weblogs
+
+RT Book, Whole
+ID 48555229
+A1 Llorà,Xavier
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+T1 Binary Rule Encoding Schemes: A Study Using the Compact Classifier System
+
+RT Journal Article
+ID 4600248
+A1 Espinoza,Felipe,P.
+A1 Minsker,Barbara,S.
+A1 Goldberg,David,E.
+T1 LOCAL SEARCH ISSUES FOR THE APLICATION OF A SELF-ADAPTIVE HYBRID GENETIC ALGORITHM IN GROUNDWATER REMEDIATION DESIGN
+
+RT Journal Article
+ID 10772084
+A1 Lanziy,Pier,Luca
+A1 Loiaconoy,Daniele
+A1 Wilson,Stewart,W.
+A1 Goldberg,David,E.
+T1 Generalization in the XCSF Classifler System: Analysis, Improvement, and Extension
+
+RT Journal Article
+ID 13251151
+A1 Goldberg,D.
+A1 Myers,G.
+A1 Guerin,G.
+A1 Schroeder,D.
+T1 Ship heave effects while drilling: observations from Legs 185 & 188
+
+RT Journal Article
+ID 12280779
+A1 Derges,Jane
+A1 Goldberg,David
+A1 Jain,Sumeet
+A1 Littlewood,Roland
+A1 Jadhav,Sushrut
+T1 RECENT ADVANCES IN CULTURAL PSYCHIATRY FOR SOUTH ASIA 3nd UCL - BALM Short Course Chennai, Tamil Nadu, India
+
+RT Journal Article
+ID 6828856
+A1 Loiaconot,Daniele
+A1 Wilsont,Stewart,W.
+A1 Goldberg,David,E.
+T1 XCSwithComputed Prediction inContinuous Multistep Environments
+
+RT Journal Article
+ID 10570453
+A1 Lanzi,Pier,Luca
+A1 Loiacono,Daniele
+A1 Wilson,Stewart,W.
+A1 Goldberg,David,E.
+T1 XCS with Computed Prediction in Continuous Multistep Environments
+
+RT Journal Article
+ID 10021552
+A1 Lanzi,Pier,Luca
+A1 Loiacono,Daniele
+A1 Wilsony,Stewart,W.
+A1 Goldberg,David,E.
+T1 Extending XCSF Beyond Linear Approximation
+
+RT Journal Article
+ID 10567395
+A1 Orriols-Puigyz,Albert
+A1 Goldberg,David,E.
+A1 Sastry,Kumara
+A1 Bernado-Mansilla,Ester
+T1 Modeling XCS in Class Imbalances: Population Size and Parameter Settings
+
+RT Journal Article
+ID 212891
+A1 Nguyen,Thang,C.
+A1 Goldberg,David,E.
+A1 Huang,Thomas,S.
+T1 Evolvable Modeling: structural adaptation through hierarchical evolution for 3-D model-based vision
+
+RT Journal Article
+ID 4540434
+A1 Pelikan,Martin
+A1 Sastry,Kumara
+A1 Butz,Martin,V.
+A1 Goldberg,David,E.
+T1 Generator and Interface for Random Decomposable Problems in C
+
+RT Journal Article
+ID 14121491
+A1 Goldberg,D.
+A1 Guerin,G.
+A1 Janik,A.
+A1 Collett,T.
+T1 Heterogeneity and Strength of Natural Gas Hydrate-Bearing Sediments
+
+RT Journal Article
+ID 10104840
+A1 Bacardit,Jaume
+A1 Goldberg,David,E.
+A1 Llor,Xavier
+A1 Garrelly,Josep,M.
+T1 Speeding-up Pittsburgh Learning Classier Systems: Modeling Time and Accuracy
+
+RT Journal Article
+ID 6853559
+A1 Chen,Jian-Hung
+A1 Goldberg,David,E.
+A1 Sastry,Kumara
+A1 Ho,Shinn-Ying
+T1 Fitness Inheritance in Multi-Objective Optimization
+
+RT Journal Article
+ID 12745937
+A1 Tsutsui,Shigeyoshi
+A1 Pelikan,Martin
+A1 Goldberg,David,E.
+T1 Node Histogram vs. Edge Histogram: A Comparison of PMBGAs in Permutation Domains
+
+RT Journal Article
+ID 6864739
+A1 Bern,Marshall
+A1 Goldberg,David
+T1 A Scanner-Model-Based Approach to Bitmap Clustering and Document Image Improvement
+
+RT Journal Article
+ID 13214331
+A1 Abbass,Hussein,A.
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+T1 Oiling the Wheels of Change The Role of Adaptive Automatic Problem Decomposition in
+
+RT Journal Article
+ID 4480996
+A1 Yu,Tian-Li
+A1 Yassine,Ali,A.
+A1 Goldberg,David,E.
+T1 DOUBLE DUTY: GENETIC ALGORITHMS FOR ORGANIZATIONAL DESIGN AND GENETIC ALGORITHMS INSPIRED BY ORGANIZATIONAL THEORY
+
+RT Journal Article
+ID 12823263
+A1 Goldberg,David,E.
+A1 Johnson,Duane,D.
+T1 KUMARA SASTRY, Ph.D
+
+RT Journal Article
+ID 5770405
+A1 Yasui,Noriko,Imafuji
+A1 Saruwatari,Shunsuke
+A1 Llora,Xavier
+A1 Goldberg,David,E.
+T1 Message Feature Map toward Effective Facilitation on On-line Discussions
+
+RT Journal Article
+ID 12124716
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+T1 Evaluation Relaxation as an Eciency-Enhancem ent Technique: Handling Variance and Bias
+
+RT Journal Article
+ID 13027050
+A1 Sastry,Kumara
+A1 Goldberg,David,E.
+T1 Fitness Variances
+
+RT Journal Article
+ID 159879
+A1 Goldberg,David,E.
+T1 Technical Writing for Fun & Profit
+
+RT Journal Article
+ID 4491080
+A1 Goldberg,David,E.
+T1 A Little Model of Optimal Group Size in Breakout Meetings
+
+RT Journal Article
+ID 10064472
+A1 Goldberg,David,E.
+T1 (Extended Abstract) What Engineers Donʼt Learn and Why They Don Learn It: and How Philosophy Might Be Able to Help
+
+RT Journal Article
+ID 10650931
+A1 Goldberg,David,E.
+T1 (Extended Abstract) Why Philosophy? Why Now? Engineering Responds to the Crisis of a Creative Era

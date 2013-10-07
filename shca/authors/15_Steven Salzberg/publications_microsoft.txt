@@ -1,0 +1,6967 @@
+RT Journal Article
+ID 56601454
+A1 Roberts,Adam
+A1 Goff,Loyal
+A1 Pertea,Geo
+A1 Kim,Daehwan
+A1 Kelley,David,R
+A1 Pimentel,Harold
+A1 Salzberg,Steven,L
+A1 Rinn,John,L
+A1 Pachter,Lior
+A1 Trapnell,Cole
+YR 2012
+T1 Differential gene and transcript expression analysis of RNA-seq experiments with TopHat and Cufflinks
+JF Nature Protocols
+VO 7
+SP 562
+OP 578
+IS 3
+
+RT Journal Article
+ID 56596723
+A1 Salzberg,Steven,L
+A1 Langmead,Ben
+YR 2012
+T1 Fast gapped-read alignment with Bowtie 2
+JF Nature Methods
+VO 9
+SP 357
+OP 359
+IS 4
+
+RT Journal Article
+ID 56597117
+A1 Salzberg,Steven
+A1 Brady,Arthur
+YR 2011
+T1 PhymmBL expanded: confidence scores, custom databases, parallelization and more
+JF Nature Methods
+VO 8
+SP 367
+OP 367
+IS 5
+
+RT Journal Article
+ID 39311670
+A1 Angiuoli,Samuel,V.
+A1 Salzberg,Steven,L.
+YR 2011
+T1 Mugsy: fast multiple alignment of closely related whole genomes
+JF Bioinformatics/computer Applications in The Biosciences
+VO 27
+SP 334
+OP 342
+IS 3
+
+RT Journal Article
+ID 39326793
+A1 Roberts,Richard,J.
+A1 Chang,Yi-Chien
+A1 Hu,Zhenjun
+A1 Rachlin,John
+A1 Anton,Brian,P.
+A1 Pokrzywa,Revonda,M.
+A1 Choi,Han-Pil
+A1 Faller,Lina,L.
+A1 Guleria,Jyotsna
+A1 Housman,Genevieve
+A1 Klitgord,Niels
+A1 Mazumdar,Varun
+A1 McGettrick,Mark,G.
+A1 Osmani,Lais
+A1 Swaminathan,Rajeswari
+A1 Tao,Kevin,R.
+A1 Letovsky,Stanley
+A1 Vitkup,Dennis
+A1 Segrè,Daniel
+A1 Salzberg,Steven,L.
+A1 DeLisi,Charles
+A1 Steffen,Martin
+A1 Kasif,Simon
+YR 2011
+T1 COMBREX: a project to accelerate the functional annotation of prokaryotic genomes
+JF Nucleic Acids Research
+VO 39
+SP 11
+OP 14
+IS Database-I
+
+RT Journal Article
+ID 51653743
+A1 Rasko,D.,A.
+A1 Worsham,P.,L.
+A1 Abshire,T.,G.
+A1 Stanley,S.,T.
+A1 Bannan,J.,D.
+A1 Wilson,M.,R.
+A1 Langham,R.,J.
+A1 Decker,R.,S.
+A1 Jiang,L.
+A1 Read,T.,D.
+A1 Phillippy,A.,M.
+A1 Salzberg,S.,L.
+A1 Pop,M.
+A1 Ert,M.,N.,van
+A1 Kenefic,L.,J.
+A1 Keim,P.,S.
+A1 Fraser-Liggett,C.,M.
+A1 Ravel,J.
+YR 2011
+T1 Bacillus anthracis comparative genome analysis in support of the Amerithrax investigation
+JF Proceedings of The National Academy of Sciences
+VO 108
+SP 5027
+OP 5032
+
+RT Journal Article
+ID 48400838
+A1 Angiuoli,Samuel,V
+A1 Hotopp,Julie,C,Dunning
+A1 Salzberg,Steven,L
+A1 Tettelin,Hervé
+YR 2011
+T1 Improving pan-genome annotation using whole genome multiple alignment
+JF BMC Bioinformatics
+VO 12
+SP 1
+OP 11
+IS 1
+
+RT Journal Article
+ID 48420332
+A1 Enk,Jacob
+A1 Devault,Alison
+A1 Debruyne,Regis
+A1 King,Christine,E
+A1 Treangen,Todd
+A1 O’Rourke,Dennis
+A1 Salzberg,Steven,L
+A1 Fisher,Daniel
+A1 MacPhee,Ross
+A1 Poinar,Hendrik
+YR 2011
+T1 Complete Columbian mammoth mitogenome suggests interbreeding with woolly mammoths
+JF Genome Biology
+VO 12
+SP 1
+OP 8
+IS 5
+
+RT Journal Article
+ID 51055448
+A1 Salsi,M.
+A1 Koebele,C.
+A1 Tran,P.
+A1 Mardoyan,H.
+A1 Dutisseuil,E.
+A1 Renaudier,J.
+A1 Bigot-Astruc,M.
+A1 Provost,L.
+A1 Richard,S.
+A1 Sillard,P.
+A1 Bigo,S.
+A1 Charlet,G.
+YR 2011
+T1 Transmission of 96×100Gb/s with 23% super-FEC overhead over 11,680km, using optical spectral engineering
+SP 1
+OP 3
+
+RT Conference Proceedings
+ID 51199183
+A1 Li,Feng
+A1 Li,Zijia
+A1 Saunders,David
+A1 Yu,Jingyi
+YR 2011
+T1 A Theory of Coprime Blurred Pairs
+SP 217
+OP 224
+
+RT Journal Article
+ID 57025559
+A1 Uher,J.
+A1 Richard,S.
+A1 Beyer,R.
+A1 Sieverding,T.
+A1 Sarasa,P.
+YR 2011
+T1 Development of Advanced Design Software for Complex Multimode Antenna Feeding Systems
+JF IEEE Antennas and Propagation Magazine
+VO 53
+SP 70
+OP 82
+IS 6
+
+RT Journal Article
+ID 54675990
+A1 Bennet,A.,J.
+A1 Evans,D.,A.
+A1 Saunders,D.,J.
+A1 Branciard,C.
+A1 Cavalcanti,E.,G.
+A1 Wiseman,H.,M.
+A1 Pryde,G.,J.
+YR 2011
+T1 Arbitrarily loss-tolerant Einstein-Podolsky-Rosen steering allowing a demonstration over 1 km of optical fiber with no detection loophole
+
+RT Journal Article
+ID 48555213
+A1 Pertea,Mihaela
+A1 Pertea,Geo,M
+A1 Salzberg,Steven,L
+YR 2011
+T1 Detection of lineage-specific evolutionary changes among primate species
+JF BMC Bioinformatics
+VO 12
+SP 1
+OP 13
+IS 1
+
+RT Journal Article
+ID 52694751
+A1 Florea,Liliana
+A1 Souvorov,Alexander
+A1 Kalbfleisch,Theodore,S.
+A1 Salzberg,Steven,L.
+A1 El-Sayed,Najib,M.
+YR 2011
+T1 Genome Assembly Has a Major Impact on Gene Content: A Comparison of Annotation in Two Bos Taurus Assemblies
+JF PLOS One
+VO 6
+IS 6
+
+RT Journal Article
+ID 56607314
+A1 Treangen,Todd,J.
+A1 Salzberg,Steven,L.
+YR 2011
+T1 Repetitive DNA and next-generation sequencing: computational challenges and solutions
+JF Nature Reviews Genetics
+VO 13
+SP 36
+OP 46
+IS 1
+
+RT Journal Article
+ID 54605260
+A1 Crampin,M.
+A1 Saunders,D.,J.
+YR 2011
+T1 Homogeneity and projective equivalence of differential equation fields
+
+RT Journal Article
+ID 53321052
+A1 Saunders,D.,J.
+YR 2011
+T1 Double structures and jets
+
+RT Journal Article
+ID 55875196
+A1 Saunders,D.,J.
+YR 2011
+T1 Homogeneous variational problems: a minicourse
+
+RT Journal Article
+ID 37073271
+A1 Trapnell,Cole
+A1 Williams,Brian,A
+A1 Pertea,Geo
+A1 Mortazavi,Ali
+A1 Kwan,Gordon
+A1 Baren,Marijke,J,van
+A1 Salzberg,Steven,L
+A1 Wold,Barbara,J
+A1 Pachter,Lior
+YR 2010
+T1 Transcript assembly and quantification by RNA-Seq reveals unannotated transcripts and isoform switching during cell differentiation
+JF Nature Biotechnology
+VO 28
+SP 511
+OP 515
+IS 5
+
+RT Journal Article
+ID 37806185
+A1 Schatz,M.,C.
+A1 Delcher,A.,L.
+A1 Salzberg,S.,L.
+YR 2010
+T1 Assembly of large genomes using second-generation sequencing
+JF Genome Research
+VO 20
+SP 1165
+OP 1173
+IS 9
+
+RT Journal Article
+ID 37073425
+A1 Langmead,Ben
+A1 Salzberg,Steven,L
+A1 Schatz,Michael,C
+YR 2010
+T1 Cloud computing and the DNA data race
+JF Nature Biotechnology
+VO 28
+SP 691
+OP 693
+IS 7
+
+RT Journal Article
+ID 48187696
+A1 Kelley,David,R
+A1 Schatz,Michael,C
+A1 Salzberg,Steven,L
+YR 2010
+T1 Quake: quality-aware detection and correction of sequencing errors
+JF Genome Biology
+VO 11
+SP 1
+OP 13
+IS 11
+
+RT Journal Article
+ID 13072236
+A1 Rosen,Dan
+A1 Saunders,David
+YR 2010
+T1 Risk factor contributions in portfolio credit risk models
+JF Journal of Banking & Finance
+VO 34
+SP 336
+OP 349
+IS 2
+
+RT Journal Article
+ID 38616301
+A1 Pertea,Mihaela
+A1 Salzberg,Steven,L
+YR 2010
+T1 Between a chicken and a grape: estimating the number of human genes
+JF Genome Biology
+VO 11
+SP 206
+OP 7
+IS 5
+
+RT Journal Article
+ID 39207908
+A1 Salzberg,Steven,L
+A1 Pertea,Mihaela
+YR 2010
+T1 Do-it-yourself genetic testing
+JF Genome Biology
+VO 11
+SP 404
+OP 4
+IS 10
+
+RT Journal Article
+ID 39199275
+A1 Deng,Xiangyu
+A1 Phillippy,Adam,M
+A1 Li,Zengxin
+A1 Salzberg,Steven,L
+A1 Zhang,Wei
+YR 2010
+T1 Probing the pan-genome of Listeria monocytogenes: new insights into intraspecific niche expansion and genomic diversification
+JF BMC Genomics
+VO 11
+SP 500
+OP 21
+IS 1
+
+RT Conference Proceedings
+ID 50970949
+A1 Sillard,P.
+A1 Richard,S.
+A1 Montmorillon,L.-A.,de
+A1 Bigot-Astruc,M.
+YR 2010
+T1 Micro-bend losses of trench-assisted single-mode fibers
+
+RT Journal Article
+ID 39102664
+A1 Salzberg,Steven,L
+YR 2010
+T1 Recent advances in RNA sequence analysis
+JF F1000 Biology Reports
+
+RT Journal Article
+ID 39201634
+A1 Kelley,David,R.
+A1 Salzberg,Steven,L.
+YR 2010
+T1 Clustering metagenomic sequences with interpolated Markov models
+JF BMC Bioinformatics
+VO 11
+SP 544
+OP 12
+IS 1
+
+RT Journal Article
+ID 14121558
+A1 Kelley,David,R
+A1 Salzberg,Steven,L
+YR 2010
+T1 Detection and correction of false segmental duplications caused by genome mis-assembly
+JF Genome Biology
+VO 11
+SP 1
+OP 11
+IS 3
+
+RT Journal Article
+ID 26612866
+A1 Richard,S.
+A1 Gasquères,C.
+A1 Sarrazin-Baudoux,C.
+A1 Petit,J.
+YR 2010
+T1 Coupled influence of microstructure and atmosphere environment on fatigue crack path in new generation Al alloys
+JF Engineering Fracture Mechanics
+VO 77
+SP 1941
+OP 1952
+IS 11
+
+RT Journal Article
+ID 39207928
+A1 Florea,Liliana
+A1 Souvorov,Alexander
+A1 Salzberg,Steven,L
+YR 2010
+T1 Genes and genomes, an imperfect world: comparison of gene annotations of two Bos taurus draft assemblies
+JF Genome Biology
+VO 11 Suppl 1
+OP 1
+
+RT Journal Article
+ID 44502277
+A1 Mejia,John,F.
+A1 Douglas,Michael,W.
+A1 Lamb,Peter,J.
+YR 2010
+T1 Aircraft Observations of the 12–15 July 2004, Moisture Surge Event during the North American Monsoon Experiment
+JF Monthly Weather Review
+SP 1008021012
+
+RT Journal Article
+ID 52668562
+A1 Mejia,John,F.
+A1 Douglas,Michael,W.
+A1 Lamb,Peter,J.
+YR 2010
+T1 Aircraft Observations of the 12-15 July 2004 Moisture Surge Event during the North American Monsoon Experiment
+JF Monthly Weather Review
+VO 138
+SP 3498
+OP 3513
+
+RT Journal Article
+ID 39207964
+A1 Pertea,Mihaela
+A1 Salzberg,Steven,L
+YR 2010
+T1 Between a chicken and a grape: estimating the number of human genes
+JF Genome Biology
+VO 11 Suppl 1
+OP 1
+
+RT Conference Proceedings
+ID 50932063
+A1 Uher,J.
+A1 Demers,Y.
+A1 Richard,S.
+YR 2010
+T1 Complex feed chains for satellite antenna applications at Ku- and Ka-band
+SP 1
+OP 4
+
+RT Journal Article
+ID 46782405
+A1 Salzberg,Steven,L
+YR 2010
+T1 Mind the gaps
+JF Nature Methods
+VO 7
+SP 105
+OP 106
+IS 2
+
+RT Journal Article
+ID 39210709
+A1 Saunders,David
+YR 2010
+T1 Abstract only: Exact linear algebra
+JF ACM Communications in Computer Algebra
+SP 24
+OP 24
+
+RT Journal Article
+ID 13727912
+A1 Langmead,Ben
+A1 Trapnell,Cole
+A1 Pop,Mihai
+A1 Salzberg,Steven,L
+YR 2009
+T1 Ultrafast and memory-efficient alignment of short DNA sequences to the human genome
+JF Genome Biology
+VO 10
+SP 1
+OP 10
+IS 3
+
+RT Journal Article
+ID 4754910
+A1 Trapnell,Cole
+A1 Pachter,Lior
+A1 Salzberg,Steven,L.
+YR 2009
+T1 TopHat: discovering splice junctions with RNA-Seq
+JF Bioinformatics/computer Applications in The Biosciences
+VO 25
+SP 1105
+OP 1111
+IS 9
+
+RT Journal Article
+ID 45912581
+A1 Berriman,Matthew
+A1 Haas,Brian,J.
+A1 LoVerde,Philip,T.
+A1 Wilson,R.,Alan
+A1 Dillon,Gary,P.
+A1 Cerqueira,Gustavo,C.
+A1 Mashiyama,Susan,T.
+A1 Al-Lazikani,Bissan
+A1 Andrade,Luiza,F.
+A1 Ashton,Peter,D.
+A1 Aslett,Martin,A.
+A1 Bartholomeu,Daniella,C.
+A1 Blandin,Gaelle
+A1 Caffrey,Conor,R.
+A1 Coghlan,Avril
+A1 Coulson,Richard
+A1 Day,Tim,A.
+A1 Delcher,Art
+A1 DeMarco,Ricardo
+A1 Djikeng,Appolinaire
+A1 Eyre,Tina
+A1 Gamble,John,A.
+A1 Ghedin,Elodie
+A1 Gu,Yong
+A1 Hertz-Fowler,Christiane
+A1 Hirai,Hirohisha
+A1 Hirai,Yuriko
+A1 Houston,Robin
+A1 Ivens,Alasdair
+A1 Johnston,David,A.
+A1 Lacerda,Daniela
+A1 Macedo,Camila,D.
+A1 McVeigh,Paul
+A1 Ning,Zemin
+A1 Oliveira,Guilherme
+A1 Overington,John,P.
+A1 Parkhill,Julian
+A1 Pertea,Mihaela
+A1 Pierce,Raymond,J.
+A1 Protasio,Anna,V.
+A1 Quail,Michael,A.
+A1 Rajandream,Marie-Adèle
+A1 Rogers,Jane
+A1 Sajid,Mohammed
+A1 Salzberg,Steven,L.
+A1 Stanke,Mario
+A1 Tivey,Adrian,R.
+A1 White,Owen
+A1 Williams,David,L.
+A1 Wortman,Jennifer
+A1 Wu,Wenjie
+A1 Zamanian,Mostafa
+A1 Zerlotini,Adhemar
+A1 Fraser-Liggett,Claire,M.
+A1 Barrell,Barclay,G.
+A1 El-Sayed,Najib,M.
+YR 2009
+T1 The genome of the blood fluke Schistosoma mansoni
+JF Nature
+VO 460
+SP 352
+OP 358
+IS 7253
+
+RT Journal Article
+ID 38616184
+A1 Zimin,Aleksey,V
+A1 Delcher,Arthur,L
+A1 Florea,Liliana
+A1 Kelley,David,R
+A1 Schatz,Michael,C
+A1 Puiu,Daniela
+A1 Hanrahan,Finnian
+A1 Pertea,Geo
+A1 Tassell,Curtis,P,Van
+A1 Sonstegard,Tad,S
+A1 Marçais,Guillaume
+A1 Roberts,Michael
+A1 Subramanian,Poorani
+A1 Yorke,James,A
+A1 Salzberg,Steven,L
+YR 2009
+T1 A whole-genome assembly of the domestic cow, Bos taurus
+JF Genome Biology
+VO 10
+OP 10
+IS 4
+
+RT Journal Article
+ID 46782200
+A1 Salzberg,Steven,L
+A1 Brady,Arthur
+YR 2009
+T1 Phymm and PhymmBL: metagenomic phylogenetic classification with interpolated Markov models
+JF Nature Methods
+VO 6
+SP 673
+OP 676
+IS 9
+
+RT Journal Article
+ID 38616250
+A1 Langmead,Ben
+A1 Schatz,Michael,C
+A1 Lin,Jimmy
+A1 Pop,Mihai
+A1 Salzberg,Steven,L
+YR 2009
+T1 Searching for SNPs with cloud computing
+JF Genome Biology
+VO 10
+SP 1
+OP 10
+IS 11
+
+RT Journal Article
+ID 37073010
+A1 Trapnell,Cole
+A1 Salzberg,Steven,L
+YR 2009
+T1 How to map billions of short reads onto genomes
+JF Nature Biotechnology
+VO 27
+SP 455
+OP 457
+IS 5
+
+RT Journal Article
+ID 35949706
+A1 Rosen,Dan
+A1 Saunders,David
+YR 2009
+T1 Analytical methods for hedging systematic credit risk with linear factor portfolios
+JF Journal of Economic Dynamics & Control
+VO 33
+SP 37
+OP 52
+IS 1
+
+RT Journal Article
+ID 33750426
+A1 Kingsford,Carl
+A1 Nagarajan,Niranjan
+A1 Salzberg,Steven,L.
+YR 2009
+T1 2009 Swine-Origin Influenza A (H1N1) Resembles Previous Influenza Isolates
+JF PLOS One
+VO 4
+IS 7
+
+RT Journal Article
+ID 44486274
+A1 Zipser,Edward,J.
+A1 Twohy,Cynthia,H.
+A1 Tsay,Si-Chee
+A1 Thornhill,K.,Lee
+A1 Tanelli,Simone
+A1 Ross,Robert
+A1 Krishnamurti,T.,N.
+A1 Ji,Q.
+A1 Jenkins,Gregory
+A1 Ismail,Syed
+A1 Hsu,N.,Christina
+A1 Hood,Robbie
+A1 Heymsfield,Gerald,M.
+A1 Heymsfield,Andrew
+A1 Halverson,Jeffrey
+A1 Goodman,H.,Michael
+A1 Ferrare,Richard
+A1 Dunion,Jason,P.
+A1 Douglas,Michael
+A1 Cifelli,Robert
+A1 Chen,Gao
+A1 Browell,Edward,V.
+A1 Anderson,Bruce
+YR 2009
+T1 The Saharan Air Layer and the Fate of African Easterly Waves---NASA's AMMA Field Study of Tropical Cyclogenesis
+JF Bulletin of The American Meteorological Society
+VO 90
+SP 1137
+IS 8
+
+RT Journal Article
+ID 5638386
+A1 Pertea,Mihaela
+A1 Ayanbule,Kunmi
+A1 Smedinghoff,Megan
+A1 Salzberg,Steven,L.
+YR 2009
+T1 OperonDB: a comprehensive database of predicted operons in microbial genomes
+JF Nucleic Acids Research
+VO 37
+SP 479
+OP 482
+IS Database-I
+
+RT Conference Proceedings
+ID 50763437
+A1 Saunders,Dave
+A1 Bingham,Steve
+A1 Menon,Gaurav
+A1 Crockett,Don
+A1 Tor,Josh
+A1 Mende,Ralph
+A1 Behrens,M.
+A1 Jain,N.
+A1 Alexanian,A.
+A1 Rajanish
+YR 2009
+T1 A single-chip 24 GHz SiGe BiCMOS transceiver for FMCW automotive radars
+SP 459
+OP 462
+
+RT Journal Article
+ID 38307825
+A1 Ravel,J.
+A1 Jiang,L.
+A1 Stanley,S.,T.
+A1 Wilson,M.,R.
+A1 Decker,R.,S.
+A1 Read,T.,D.
+A1 Worsham,P.
+A1 Keim,P.,S.
+A1 Salzberg,S.,L.
+A1 Fraser-Liggett,C.,M.
+A1 Rasko,D.,A.
+YR 2009
+T1 The Complete Genome Sequence of Bacillus anthracis Ames "Ancestor"
+JF Journal of Bacteriology
+VO 191
+SP 445
+OP 446
+IS 1
+
+RT Journal Article
+ID 5841309
+A1 Phillippy,Adam,M.
+A1 Ayanbule,Kunmi
+A1 Edwards,Nathan,J.
+A1 Salzberg,Steven,L.
+YR 2009
+T1 Insignia: a DNA signature search web server for diagnostic assay development
+JF Nucleic Acids Research
+VO 37
+SP 229
+OP 234
+IS Web-Server
+
+RT Journal Article
+ID 13259815
+A1 Phillippy,Adam,M.
+A1 Deng,Xiangyu
+A1 Zhang,Wei
+A1 Salzberg,Steven,L.
+YR 2009
+T1 Efficient oligonucleotide probe selection for pan-genomic tiling arrays
+JF BMC Bioinformatics
+VO 10
+SP 293
+OP 11
+IS 1
+
+RT Journal Article
+ID 38307987
+A1 Salzberg,S.,L.
+A1 Puiu,D.
+A1 Sommer,D.,D.
+A1 Nene,V.
+A1 Lee,N.,H.
+YR 2009
+T1 Genome Sequence of the Wolbachia Endosymbiont of Culex quinquefasciatus JHB
+JF Journal of Bacteriology
+VO 191
+SP 1725
+OP 1725
+IS 5
+
+RT Journal Article
+ID 44501992
+A1 Douglas,Michael,W.
+A1 Mejia,John
+A1 Ordinola,Norma
+A1 Boustead,Joshua
+YR 2009
+T1 Synoptic Variability of Rainfall and Cloudiness along the Coasts of Northern Peru and Ecuador during the 1997/98 El Niño Event
+JF Monthly Weather Review
+VO 137
+SP 116
+OP 136
+IS 1
+
+RT Journal Article
+ID 13410224
+A1 Plumbe,J,R
+A1 Fleming,J,B
+A1 Wright,G
+A1 Johnson,W,B
+A1 Mackay,D
+A1 Wilson,K
+A1 Edmondson,K,A
+A1 King,J
+A1 Haines,R
+A1 Ferguson,M
+A1 Hacking,G,R
+A1 Saunders,D
+A1 Wilson,E
+A1 Butcher,Replay,K
+A1 Dixon,J,N
+A1 Moore,J
+A1 Fisher,G
+A1 Aplin,G
+A1 Hulse,S
+A1 Inglesfield,S
+A1 Crossley,M,A
+A1 McGrotty,F
+A1 Thompson,P,A
+A1 Munday,J,C
+A1 Pratt,J
+A1 Cup,Benevolent
+A1 Ross,K,D
+A1 Wightman,D
+A1 Readhead,D,R
+A1 Knowles,W,J
+A1 Pattinson,W
+A1 Peck,M,G
+A1 Fleming,P
+A1 Richardson,I
+A1 Waring,A
+YR 2009
+T1 WESTMORLAND COUNTY FOOTBALL ASSOCIATION HOSPITAL CUP/BENEVOLENT TROPHY OFFICIALS
+
+RT Conference Proceedings
+ID 50862869
+A1 Saunders,D.
+A1 Bingham,S.
+A1 Menon,G.
+A1 Crockett,D.
+A1 Tor,J.
+A1 Mende,R.
+A1 Behrens,M.
+A1 Jain,N.
+A1 Alexanian,A.
+A1 Rajanish
+YR 2009
+T1 A single-chip 24 GHz SiGe BiCMOS transceiver for low cost FMCW airborne radars
+
+RT Journal Article
+ID 42453066
+A1 Gibson,D.,L.
+A1 Tan,K.,P.
+YR 2009
+T1 Terrestrial sedimentation in the southwestern Neogene Bland Basin, an alluviated paleovalley in the Lachlan River catchment, eastern Australia
+JF Australian Journal of Earth Sciences
+VO 56
+IS sup1
+
+RT Journal Article
+ID 15091227
+A1 Eisen,M.
+A1 Salzberg,S.
+YR 2009
+T1 Open Access: The Sooner the Better
+JF Science
+VO 325
+SP 266
+OP 266
+IS 5938
+
+RT Journal Article
+ID 54607471
+A1 Kingsford,Carl
+A1 Nagarajan,Niranjan
+A1 Salzberg,Steven,L.
+A1 Stekel,Dov,J.
+YR 2009
+T1 2009 Swine-Origin Influenza A (H1N1) Resembles Previous Influenza Isolates
+JF PLOS One
+VO 4
+IS 7
+
+RT Conference Proceedings
+ID 13296178
+A1 Salzberg,Steven
+A1 Warnow,Tandy
+YR 2009
+T1 Algorithms in Bioinformatics, 9th International Workshop, WABI 2009, Philadelphia, PA, USA, September 12-13, 2009. Proceedings
+
+RT Journal Article
+ID 50758165
+A1 Dallaire,J.
+A1 Senechal,G.
+A1 Richard,S.
+YR 2009
+T1 The Alphasat-XL antenna feed array
+
+RT Journal Article
+ID 56041843
+A1 Salzberg,Steven,L.
+A1 Warnow,Tandy
+YR 2009
+T1 Algorithms in Bioinformatics
+
+RT Journal Article
+ID 53505997
+A1 Saunders,D.,J.
+YR 2009
+T1 Homogeneous variational complexes and bicomplexes
+JF Journal of Geometry and Physics
+VO 59
+SP 727
+OP 739
+
+RT Journal Article
+ID 55922325
+A1 Gibson,D.,L.
+A1 Tan,K.,P.
+YR 2009
+T1 Terrestrial sedimentation in the southwestern Neogene Bland Basin, an alluviated paleovalley in the Lachlan River catchment, eastern Australia
+
+RT Journal Article
+ID 11406889
+A1 Carlton,Jane,M.
+A1 Adams,John,H.
+A1 Silva,Joana,C.
+A1 Bidwell,Shelby,L.
+A1 Lorenzi,Hernan
+A1 Caler,Elisabet
+A1 Crabtree,Jonathan
+A1 Angiuoli,Samuel,V.
+A1 Merino,Emilio,F.
+A1 Amedeo,Paolo
+A1 Cheng,Qin
+A1 Coulson,Richard,M.,R.
+A1 Crabb,Brendan,S.
+A1 Portillo,Hernando,A.,del
+A1 Essien,Kobby
+A1 Feldblyum,Tamara,V.
+A1 Fernandez-Becerra,Carmen
+A1 Gilson,Paul,R.
+A1 Gueye,Amy,H.
+A1 Guo,Xiang
+A1 Kooij,Taco,W.,A.
+A1 Korsinczky,Michael
+A1 Meyer,Esmeralda,V.-S.
+A1 Nene,Vish
+A1 Paulsen,Ian
+A1 White,Owen
+A1 Ralph,Stuart,A.
+A1 Ren,Qinghu
+A1 Sargeant,Tobias,J.
+A1 Stoeckert,Christian,J.
+A1 Sullivan,Steven,A.
+A1 Yamamoto,Marcio,M.
+A1 Hoffman,Stephen,L.
+A1 Wortman,Jennifer,R.
+A1 Gardner,Malcolm,J.
+A1 Galinski,Mary,R.
+A1 Barnwell,John,W.
+A1 Fraser-Liggett,Claire,M.
+YR 2008
+T1 Comparative genomics of the neglected human malaria parasite Plasmodium vivax
+JF Nature
+VO 455
+SP 757
+OP 763
+IS 7214
+
+RT Journal Article
+ID 5336672
+A1 Pop,Mihai
+A1 Salzberg,Steven,L.
+YR 2008
+T1 Bioinformatics challenges of new sequencing technology
+JF Trends in Genetics
+VO 24
+SP 142
+OP 149
+IS 3
+
+RT Journal Article
+ID 44486176
+A1 Parker,Douglas,J.
+A1 Fink,Andreas
+A1 Janicot,Serge
+A1 Ngamini,Jean-Blaise
+A1 Douglas,Michael
+A1 Afiesimama,Ernest
+A1 Agusti-Panareda,Anna
+A1 Beljaars,Anton
+A1 Dide,Francis
+A1 Diedhiou,Arona
+A1 Lebel,Thierry
+A1 Polcher,Jan
+A1 Redelsperger,Jean-Luc
+A1 Thorncroft,Chris
+A1 Wilson,George,Ato
+YR 2008
+T1 The Amma Radiosonde Program and its Implications for the Future of Atmospheric Monitoring Over Africa
+JF Bulletin of The American Meteorological Society
+VO 89
+SP 1015
+IS 7
+
+RT Journal Article
+ID 13234596
+A1 Salzberg,Steven,L
+A1 Sommer,Daniel,D
+A1 Schatz,Michael,C
+A1 Phillippy,Adam,M
+A1 Rabinowicz,Pablo,D
+A1 Tsuge,Seiji
+A1 Furutani,Ayako
+A1 Ochiai,Hirokazu
+A1 Delcher,Arthur,L
+A1 Kelley,David
+A1 Madupu,Ramana
+A1 Puiu,Daniela
+A1 Radune,Diana
+A1 Shumway,Martin
+A1 Trapnell,Cole
+A1 Aparna,Gudlur
+A1 Jha,Gopaljee
+A1 Pandey,Alok
+A1 Patil,Prabhu,B
+A1 Ishihara,Hiromichi
+A1 Meyer,Damien,F
+A1 Szurek,Boris
+A1 Verdier,Valerie
+A1 Koebnik,Ralf
+A1 Dow,J,Maxwell
+A1 Ryan,Robert,P
+A1 Hirata,Hisae
+A1 Tsuyumu,Shinji
+A1 Lee,Sang,Won
+A1 Ronald,Pamela,C
+A1 Sonti,Ramesh,V
+A1 Sluys,Marie-Anne,Van
+A1 Leach,Jan,E
+A1 White,Frank,F
+A1 Bogdanove,Adam,J
+YR 2008
+T1 Genome sequence and rapid evolution of the rice pathogen Xanthomonas oryzae pv. oryzae PXO99A
+JF BMC Genomics
+VO 9
+SP 204
+OP 16
+IS 1
+
+RT Journal Article
+ID 13928662
+A1 Haas,Brian,J
+A1 Salzberg,Steven,L
+A1 Zhu,Wei
+A1 Pertea,Mihaela
+A1 Allen,Jonathan,E
+A1 Orvis,Joshua
+A1 White,Owen
+A1 Buell,C,Robin
+A1 Wortman,Jennifer,R
+YR 2008
+T1 Automated eukaryotic gene structure annotation using EVidenceModeler and the Program to Assemble Spliced Alignments
+JF Genome Biology
+VO 9
+OP 22
+IS 1
+
+RT Journal Article
+ID 38773980
+A1 Salzberg,Steven,L.
+A1 Sommer,Daniel,D.
+A1 Puiu,Daniela
+A1 Lee,Vincent,T.
+YR 2008
+T1 Gene-Boosted Assembly of a Novel Bacterial Genome from Very Short Reads
+JF PLOS Computational Biology
+VO 4
+IS 9
+
+RT Journal Article
+ID 42529203
+A1 Johansen,K.
+A1 Phinn,S.
+A1 Lowry,J.
+A1 Douglas,M.
+YR 2008
+T1 Quantifying indicators of riparian condition in Australian tropical savannas: integrating high spatial resolution imagery and field survey data
+JF International Journal of Remote Sensing
+VO 29
+SP 7003
+OP 7028
+IS 23
+
+RT Journal Article
+ID 34671853
+A1 Suzuki,Jon,Y.
+A1 Tripathi,Savarni
+A1 Fermín,Gustavo,A.
+A1 Jan,Fuh-Jyh
+A1 Hou,Shaobin
+A1 Saw,Jimmy,H.
+A1 Ackerman,Christine,M.
+A1 Yu,Qingyi
+A1 Schatz,Michael,C.
+A1 Pitz,Karen,Y.
+A1 Yépes,Marcela
+A1 Fitch,Maureen,M.,M.
+A1 Manshardt,Richard,M.
+A1 Slightom,Jerry,L.
+A1 Ferreira,Stephen,A.
+A1 Salzberg,Steven,L.
+A1 Alam,Maqsudul
+A1 Ming,Ray
+A1 Moore,Paul,H.
+A1 Gonsalves,Dennis
+YR 2008
+T1 Characterization of Insertion Sites in Rainbow Papaya, the First Commercialized Transgenic Fruit Crop
+JF Tropical Plant Biology
+VO 1
+SP 293
+OP 309
+IS 3
+
+RT Journal Article
+ID 44486120
+A1 Douglas,Michael,W.
+A1 Murillo,Javier
+YR 2008
+T1 The Pan-American Climate Studies Sounding Network
+JF Bulletin of The American Meteorological Society
+VO 89
+SP 1709
+IS 11
+
+RT Journal Article
+ID 37072837
+A1 Kingsford,Carl
+A1 Salzberg,Steven,L
+YR 2008
+T1 What are decision trees?
+JF Nature Biotechnology
+VO 26
+SP 1011
+OP 1013
+IS 9
+
+RT Journal Article
+ID 33708098
+A1 Lu,Hong
+A1 Patil,Prabhu
+A1 Sluys,Marie-Anne,Van
+A1 White,Frank,F.
+A1 Ryan,Robert,P.
+A1 Dow,J.,Maxwell
+A1 Rabinowicz,Pablo
+A1 Salzberg,Steven,L.
+A1 Leach,Jan,E.
+A1 Sonti,Ramesh
+A1 Brendel,Volker
+A1 Bogdanove,Adam,J.
+YR 2008
+T1 Acquisition and Evolution of Plant Pathogenesis–Associated Gene Clusters and Candidate Determinants of Tissue-Specificity in Xanthomonas
+JF PLOS One
+VO 3
+IS 11
+
+RT Journal Article
+ID 34671848
+A1 Nagarajan,Niranjan
+A1 Navajas-Pérez,Rafael
+A1 Pop,Mihai
+A1 Alam,Maqsudul
+A1 Ming,Ray
+A1 Paterson,Andrew,H.
+A1 Salzberg,Steven,L.
+YR 2008
+T1 Genome-Wide Analysis of Repetitive Elements in Papaya
+JF Tropical Plant Biology
+VO 1
+SP 191
+OP 201
+IS 3
+
+RT Journal Article
+ID 34671849
+A1 Shakirov,E.,V.
+A1 Salzberg,S.,L.
+A1 Alam,M.
+A1 Shippen,D.,E.
+YR 2008
+T1 Analysis of Carica papaya Telomeres and Telomere-Associated Proteins: Insights into the Evolution of Telomere Maintenance in Brassicales
+JF Tropical Plant Biology
+VO 1
+SP 202
+OP 215
+IS 3
+
+RT Journal Article
+ID 39190194
+A1 Salzberg,Steven,L
+A1 Sommer,Daniel,D
+A1 Schatz,Michael,C
+A1 Phillippy,Adam,M
+A1 Rabinowicz,Pablo,D
+A1 Tsuge,Seiji
+A1 Furutani,Ayako
+A1 Ochiai,Hirokazu
+A1 Delcher,Arthur,L
+A1 Kelley,David
+A1 Madupu,Ramana
+A1 Puiu,Daniela
+A1 Radune,Diana
+A1 Shumway,Martin
+A1 Trapnell,Cole
+A1 Aparna,Gudlur
+A1 Jha,Gopaljee
+A1 Pandey,Alok
+A1 Patil,Prabhu,B
+A1 Ishihara,Hiromichi
+A1 Meyer,Damien,F
+A1 Szurek,Boris
+A1 Verdier,Valerie
+A1 Koebnik,Ralf
+A1 Dow,J,Maxwell
+A1 Ryan,Robert,P
+A1 Hirata,Hisae
+A1 Tsuyumu,Shinji
+A1 Lee,Sang,Won
+A1 Seo,Young-Su
+A1 Sriariyanum,Malinee
+A1 Ronald,Pamela,C
+A1 Sonti,Ramesh,V
+A1 Sluys,Marie-Anne,Van
+A1 Leach,Jan,E
+A1 White,Frank,F
+A1 Bogdanove,Adam,J
+YR 2008
+T1 Genome sequence and rapid evolution of the rice pathogen Xanthomonas oryzae pv. oryzae PXO99A
+JF BMC Genomics
+VO 9
+SP 534
+OP 2
+IS 1
+
+RT Journal Article
+ID 33704175
+A1 Puiu,Daniela
+A1 Salzberg,Steven,L.
+YR 2008
+T1 ReAssembly of the Genome of Francisella tularensis Subsp. holarctica OSU18
+JF PLOS One
+VO 3
+IS 10
+
+RT Journal Article
+ID 51940626
+A1 Lu,Hong
+A1 Patil,Prabhu
+A1 Sluys,Marie-Anne,van
+A1 White,Frank,F.
+A1 Ryan,Robert,P.
+A1 Dow,J.,Maxwell
+A1 Rabinowicz,Pablo
+A1 Salzberg,Steven,L.
+A1 Leach,Jan,E.
+A1 Sonti,Ramesh
+A1 Brendel,Volker
+A1 Bogdanove,Adam,J.
+A1 Wang,Ping
+YR 2008
+T1 Acquisition and Evolution of Plant Pathogenesis-Associated Gene Clusters and Candidate Determinants of Tissue-Specificity in Xanthomonas
+JF PLOS One
+VO 3
+IS 11
+
+RT Journal Article
+ID 53889539
+A1 Wallick,R.
+A1 Major,J.,J.
+A1 Spicer,K.,R.
+A1 Rhode,A.
+A1 Keith,M.
+A1 O'Connor,J.,E.
+A1 Burkholder,B.
+A1 Grant,G.
+A1 Tanner,D.,Q.
+A1 Saunders,D.
+YR 2008
+T1 Erosion and Redeposition of Reservoir Sediment in Response to Removal of Marmot Dam, Sandy River, Oregon
+
+RT Journal Article
+ID 53852519
+A1 Verri,Giovanni
+A1 Comelli,Daniela
+A1 Cather,Sharon
+A1 Saunders,David
+A1 Piqué,Francesca
+YR 2008
+T1 Post-capture data analysis as an aid to the interpretation of ultraviolet-induced fluorescence images
+VO 6810
+SP 2
+
+RT Journal Article
+ID 55983298
+A1 Ragan,S.,E.
+A1 Bergin,E.,A.
+A1 Plume,R.
+A1 Gibson,D.,L.
+A1 Wilner,D.,J.
+A1 O'Brien,S.
+A1 Hails,E.
+YR 2008
+T1 Radio Molecular lines in infrared dark clouds (Ragan+, 2006)
+
+RT Journal Article
+ID 57413533
+A1 Salzberg,Steven,L.
+A1 Sommer,Daniel,D.
+A1 Puiu,Daniela
+A1 Lee,Vincent,T.
+YR 2008
+T1 Gene-Boosted Assembly of a Novel Bacterial Genome from Very Short Reads
+JF PLOS Computational Biology
+VO 4
+IS 9
+
+RT Journal Article
+ID 55047708
+A1 Puiu,Daniela
+A1 Salzberg,Steven,L.
+A1 Hahn,Matthew,W.
+YR 2008
+T1 ReAssembly of the Genome of Francisella tularensis Subsp. holarctica OSU18
+JF PLOS One
+VO 3
+IS 10
+
+RT Journal Article
+ID 38524683
+A1 Saunders,D.
+YR 2008
+T1 Alan Coote (1944-2007)
+JF Simulation & Gaming
+VO 39
+SP 164
+OP 165
+IS 2
+
+RT Journal Article
+ID 59852479
+A1 Saunders,David
+YR 2008
+T1 David Saunders - Vase Painting, Gender, and Social Identity in Archaic Athens (review) - Classical World 101:2
+
+RT Journal Article
+ID 15083075
+A1 Nene,Vishvanath
+A1 Wortman,Jennifer,R.
+A1 Lawson,Daniel
+A1 Haas,Brian
+A1 Kodira,Chinnappa
+A1 Tu,Z.
+A1 Loftus,Brendan
+A1 Xi,Zhiyong
+A1 Megy,Karyn
+A1 Grabherr,Manfred
+A1 Ren,Quinghu
+A1 Zdobnov,E.,M.
+A1 Lobo,N.,F.
+A1 Campbell,K.,S.
+A1 Brown,S.,E.
+A1 Bonaldo,M.,F.
+A1 Zhu,Jingsong
+A1 Sinkins,S.,P.
+A1 Hogenkamp,D.,G.
+A1 Amedeo,Paolo
+A1 Arensburger,Peter
+A1 Atkinson,P.,W.
+A1 Bidwell,Shelby
+A1 Biedler,Jim
+A1 Birney,Ewan
+A1 Bruggner,Robert,V.
+A1 Costas,Javier
+A1 Coy,M.,R.
+A1 Crabtree,Jonathan
+A1 Crawford,Matt
+A1 deBruyn,Becky
+A1 DeCaprio,David
+A1 Eiglmeier,Karin
+A1 Eisenstadt,Eric
+A1 El-Dorry,Hamza
+A1 Gelbart,W.,M.
+A1 Gomes,S.,L.
+A1 Hammond,Martin
+A1 Hannick,Linda,I.
+A1 Holmes,M.,H.
+A1 Hogan,J.,R.
+A1 Jaffe,David
+A1 Johnston,J.,S.
+A1 Kennedy,R.,C.
+A1 Koo,Hean
+A1 Kravitz,Saul
+A1 Kriventseva,Evgenia,V.
+A1 Kulp,David
+A1 LaButti,Kurt
+A1 Lee,Eduardo
+A1 Li,Song
+A1 Lovin,Diane,D.
+A1 Mao,Chunhong
+A1 Mauceli,Evan
+A1 Menck,C.,F.,M.
+A1 Miller,J.,R.
+A1 Montgomery,Philip
+A1 Mori,Akio
+A1 Nascimento,A.,L.
+A1 Naveira,H.,F.
+A1 Nusbaum,Chad
+A1 O'Leary,S.
+A1 Orvis,Joshua
+A1 Pertea,Mihaela
+A1 Quesneville,Hadi
+A1 Reidenbach,K.,R.
+A1 Rogers,Yu-Hui
+A1 Roth,C.,W.
+A1 Schneider,J.,R.
+A1 Schatz,Michael
+A1 Shumway,Martin
+A1 Stanke,Mario
+A1 Stinson,E.,O.
+A1 Tubio,J.,M.,C.
+A1 VanZee,J.,P.
+A1 Verjovski-Almeida,Sergio
+A1 Werner,Doreen
+A1 White,Owen
+A1 Wyder,Stefan
+A1 Zeng,Qiandong
+A1 Zhao,Qi
+A1 Zhao,Yongmei
+A1 Hill,C.,A.
+A1 Raikhel,A.,S.
+A1 Soares,M.,B.
+A1 Knudson,D.,L.
+A1 Lee,N.,H.
+A1 Galagan,James
+A1 Salzberg,S.,L.
+A1 Paulsen,I.,T.
+A1 Dimopoulos,George
+A1 Collins,F.,H.
+A1 Birren,Bruce
+A1 Fraser-Liggett,C.,M.
+A1 Severson,D.,W.
+YR 2007
+T1 Genome Sequence of Aedes aegypti, a Major Arbovirus Vector
+JF Science
+VO 316
+SP 1718
+OP 1723
+IS 5832
+
+RT Journal Article
+ID 15084042
+A1 Ghedin,Elodie
+A1 Wang,Shiliang
+A1 Spiro,David
+A1 Caler,Elisabet
+A1 Zhao,Qi
+A1 Crabtree,Jonathan
+A1 Allen,Jonathan,E.
+A1 Delcher,Arthur,L.
+A1 Guiliano,David,B.
+A1 Miranda-Saavedra,Diego
+A1 Angiuoli,Samuel,V.
+A1 Creasy,Todd
+A1 Amedeo,Paolo
+A1 Haas,Brian
+A1 El-Sayed,Najib,M.
+A1 Wortman,Jennifer,R.
+A1 Feldblyum,Tamara
+A1 Tallon,Luke
+A1 Schatz,Michael
+A1 Shumway,Martin
+A1 Koo,Hean
+A1 Salzberg,Steven,L.
+A1 Schobel,Seth
+A1 Pertea,Mihaela
+A1 Pop,Mihai
+A1 White,Owen
+A1 Barton,Geoffrey,J.
+A1 Carlow,Clotilde,K.,S.
+A1 Crawford,Michael,J.
+A1 Daub,Jennifer
+A1 Dimmic,Matthew,W.
+A1 Estes,Chris,F.
+A1 Foster,Jeremy,M.
+A1 Ganatra,Mehul
+A1 Gregory,William,F.
+A1 Johnson,Nicholas,M.
+A1 Jin,Jinming
+A1 Komuniecki,Richard
+A1 Korf,Ian
+A1 Kumar,Sanjay
+A1 Laney,Sandra
+A1 Li,Ben-Wen
+A1 Li,Wen
+A1 Lindblom,Tim,H.
+A1 Lustigman,Sara
+A1 Ma,Dong
+A1 Maina,Claude,V.
+A1 Martin,David,M.,A.
+A1 McCarter,James,P.
+A1 McReynolds,Larry
+A1 Mitreva,Makedonka
+A1 Nutman,Thomas,B.
+A1 Parkinson,John
+A1 Peregrin-Alvarez,J.,M.
+A1 Poole,Catherine
+A1 Ren,Qinghu
+A1 Saunders,Lori
+A1 Sluder,Ann,E.
+A1 Smith,Katherine
+A1 Stanke,Mario
+A1 Unnasch,Thomas,R.
+A1 Ware,Jenna
+A1 Wei,Aguan,D.
+A1 Weil,Gary
+A1 Williams,Deryck,J.
+A1 Zhang,Yinhua
+A1 Williams,Steven,A.
+A1 Fraser-Liggett,Claire
+A1 Slatko,Barton
+A1 Blaxter,Mark,L.
+A1 Scott,Alan,L.
+YR 2007
+T1 Draft Genome of the Filarial Nematode Parasite Brugia malayi
+JF Science
+VO 317
+SP 1756
+OP 1760
+IS 5845
+
+RT Journal Article
+ID 15081361
+A1 Carlton,J.,M.
+A1 Hirt,R.,P.
+A1 Silva,J.,C.
+A1 Delcher,A.,L.
+A1 Schatz,Michael
+A1 Zhao,Qi
+A1 Wortman,J.,R.
+A1 Bidwell,S.,L.
+A1 Alsmark,U.,C.,M.
+A1 Besteiro,Sébastien
+A1 Sicheritz-Ponten,Thomas
+A1 Noel,C.,J.
+A1 Dacks,J.,B.
+A1 Foster,P.,G.
+A1 Simillion,Cedric
+A1 Peer,Y.,Van,de
+A1 Miranda-Saavedra,Diego
+A1 Barton,G.,J.
+A1 Westrop,G.,D.
+A1 Muller,S.
+A1 Dessi,Daniele
+A1 Fiori,P.,L.
+A1 Ren,Qinghu
+A1 Paulsen,Ian
+A1 Zhang,Hanbang
+A1 Bastida-Corcuera,F.,D.
+A1 Simoes-Barbosa,Augusto
+A1 Brown,M.,T.
+A1 Hayes,R.,D.
+A1 Mukherjee,Mandira
+A1 Okumura,C.,Y.
+A1 Schneider,Rachel
+A1 Smith,A.,J.
+A1 Vanacova,Stepanka
+A1 Villalvazo,Maria
+A1 Haas,B.,J.
+A1 Pertea,Mihaela
+A1 Feldblyum,Tamara,V.
+A1 Utterback,T.,R.
+A1 Shu,Chung-Li
+A1 Osoegawa,Kazutoyo
+A1 Jong,P.,J.,de
+A1 Hrdy,Ivan
+A1 Horvathova,Lenka
+A1 Zubacova,Zuzana
+A1 Dolezal,Pavel
+A1 Malik,Shehre-Banoo
+A1 Logsdon,J.,M.
+A1 Henze,Katrin
+A1 Gupta,Arti
+A1 Wang,Ching,C.
+A1 Dunne,R.,L.
+A1 Upcroft,J.,A.
+A1 Upcroft,Peter
+A1 White,Owen
+A1 Salzberg,S.,L.
+A1 Tang,Petrus
+A1 Chiu,Cheng-Hsun
+A1 Lee,Ying-Shiung
+A1 Embley,T.,M.
+A1 Coombs,G.,H.
+A1 Mottram,J.,C.
+A1 Tachezy,Jan
+A1 Fraser-Liggett,C.,M.
+A1 Johnson,P.,J.
+YR 2007
+T1 Draft Genome Sequence of the Sexually Transmitted Pathogen Trichomonas vaginalis
+JF Science
+VO 315
+SP 207
+OP 212
+IS 5809
+
+RT Journal Article
+ID 2491044
+A1 Delcher,Arthur,L.
+A1 Bratke,Kirsten,A.
+A1 Powers,Edwin,C.
+A1 Salzberg,Steven
+YR 2007
+T1 Identifying bacterial genes and endosymbiont DNA with Glimmer
+JF Bioinformatics/computer Applications in The Biosciences
+VO 23
+SP 673
+OP 679
+IS 6
+
+RT Journal Article
+ID 13861490
+A1 Salzberg,Steven,L
+YR 2007
+T1 Genome re-annotation: a wiki solution?
+JF Genome Biology
+VO 8
+SP 102
+OP 5
+IS 1
+
+RT Journal Article
+ID 38615849
+A1 Kingsford,Carleton,L
+A1 Ayanbule,Kunmi
+A1 Salzberg,Steven,L
+YR 2007
+T1 Rapid, accurate, computational discovery of Rho-independent transcription terminators illuminates their relationship to DNA uptake
+JF Genome Biology
+VO 8
+OP 12
+IS 2
+
+RT Journal Article
+ID 10635960
+A1 Schatz,Michael,C
+A1 Phillippy,Adam,M
+A1 Shneiderman,Ben
+A1 Salzberg,Steven,L
+YR 2007
+T1 Hawkeye: an interactive visual analytics tool for genome assemblies
+JF Genome Biology
+VO 8
+SP 1
+OP 12
+IS 3
+
+RT Journal Article
+ID 38773790
+A1 Phillippy,Adam,M.
+A1 Mason,Jacquline,A.
+A1 Ayanbule,Kunmi
+A1 Sommer,Daniel,D.
+A1 Taviani,Elisa
+A1 Huq,Anwar
+A1 Colwell,Rita,R.
+A1 Knight,Ivor,T.
+A1 Salzberg,Steven,L.
+YR 2007
+T1 Comprehensive DNA Signature Discovery and Validation
+JF PLOS Computational Biology
+VO 3
+IS 5
+
+RT Journal Article
+ID 6066155
+A1 Sommer,Daniel,D.
+A1 Delcher,Arthur,L.
+A1 Salzberg,Steven,L.
+A1 Pop,Mihai
+YR 2007
+T1 Minimus: a fast, lightweight genome assembler
+JF BMC Bioinformatics
+VO 8
+SP 64
+OP 64
+IS 1
+
+RT Journal Article
+ID 6065957
+A1 Pertea,Mihaela
+A1 Mount,Stephen,M.
+A1 Salzberg,Steven,L.
+YR 2007
+T1 A computational survey of candidate exonic splicing enhancer motifs in the model plant Arabidopsis thaliana
+JF BMC Bioinformatics
+VO 8
+SP 159
+OP 8
+IS 1
+
+RT Journal Article
+ID 5182722
+A1 Kingsford,Carl
+A1 Delcher,Arthur,L.
+A1 Salzberg,Steven,L.
+YR 2007
+T1 A Unified Model Explaining the Offsets of Overlapping and Near-Overlapping Prokaryotic Genes
+JF Molecular Biology and Evolution
+VO 24
+SP 2091
+OP 2098
+IS 9
+
+RT Book, Whole
+ID 2486788
+A1 Schriml,Lynn,M.
+A1 Gussman,Aaron
+A1 Phillippy,Kathy
+A1 Angiuoli,Sam
+A1 Hari,Kumar
+A1 Goates,Alan
+A1 Jain,Ravi
+A1 Davidsen,Tanja
+A1 Ganapathy,Anurhada
+A1 Ghedin,Elodie
+A1 Salzberg,Steven
+A1 White,Owen
+A1 Hall,Neil
+YR 2007
+T1 Gemina: A Web-Based Epidemiology and Genomic Metadata System Designed to Identify Infectious Agents
+SP 228
+OP 229
+
+RT Conference Proceedings
+ID 5887043
+A1 Hurley,Niall
+A1 Richard,S.
+A1 Curran,Paul
+A1 Drakakis,Konstantinos
+YR 2007
+T1 Maximizing Sparsity of Wavelet Representations via Parameterized Lifting
+
+RT Journal Article
+ID 45704789
+A1 Lux,D.,R.
+A1 Hooks,B.
+A1 Gibson,D.
+A1 Hogan,J.,P.
+YR 2007
+T1 MAGMA INTERACTIONS IN THE DEER ISLE GRANITE COMPLEX, MAINE: FIELD AND TEXTURAL EVIDENCE
+JF Canadian Mineralogist
+VO 45
+SP 131
+OP 146
+IS 1
+
+RT Journal Article
+ID 53937575
+A1 Phillippy,Adam,M.
+A1 Mason,Jacquline,A.
+A1 Ayanbule,Kunmi
+A1 Sommer,Daniel,D.
+A1 Taviani,Elisa
+A1 Huq,Anwar
+A1 Colwell,Rita,R.
+A1 Knight,Ivor,T.
+A1 Salzberg,Steven,L.
+YR 2007
+T1 Comprehensive DNA Signature Discovery and Validation
+JF PLOS Computational Biology
+VO 3
+IS 5
+
+RT Journal Article
+ID 53668101
+A1 Auerbach,Raymond,K.
+A1 Tuanyok,Apichai
+A1 Probert,William,S.
+A1 Kenefic,Leo
+A1 Vogler,Amy,J.
+A1 Bruce,David,C.
+A1 Munk,Christine
+A1 Brettin,Thomas,S.
+A1 Eppinger,Mark
+A1 Ravel,Jacques
+A1 Wagner,David,M.
+A1 Keim,Paul
+A1 Salzberg,Steven
+YR 2007
+T1 Yersinia pestis Evolution on a Small Timescale: Comparison of Whole Genome Sequences from North America
+JF PLOS One
+VO 2
+IS 8
+
+RT Journal Article
+ID 53699912
+A1 Smith,Theresa,J.
+A1 Hill,Karen,K.
+A1 Foley,Brian,T.
+A1 Detter,John,C.
+A1 Munk,A.,Christine
+A1 Bruce,David,C.
+A1 Doggett,Norman,A.
+A1 Smith,Leonard,A.
+A1 Marks,James,D.
+A1 Xie,Gary
+A1 Brettin,Thomas,S.
+A1 Salzberg,Steven
+YR 2007
+T1 Analysis of the Neurotoxin Complex Genes in Clostridium botulinum A1-A4 and B1 Strains: BoNT/A3, /Ba4 and /B1 Clusters Are Located within Plasmids
+JF PLOS One
+VO 2
+IS 12
+
+RT Journal Article
+ID 42130022
+A1 Killeen,Timothy,J.
+A1 Douglas,Michael
+A1 Consiglio,Trisha
+A1 Jørgensen,Peter,M.
+A1 Mejia,John
+YR 2007
+T1 Dry spots and wet spots in the Andean hotspot: Dry spots and wet spots in the Andean hotspot
+JF Journal of Biogeography
+VO 34
+SP 1357
+OP 1373
+IS 8
+
+RT Journal Article
+ID 60586212
+A1 Haas,B,J
+A1 Salzberg,S,L
+A1 Zhu,W
+A1 Pertea,M
+A1 Allen,J,E
+A1 Orvis,J
+A1 White,O
+A1 Buell,C,R
+A1 Wortman,J,R
+YR 2007
+T1 Automated Eukaryotic Gene Structure Annotation Using EVidenceModeler and the Program to Assemble Spliced Alignments
+
+RT Book, Whole
+ID 4323743
+A1 Pertea,Mihaela
+A1 Salzberg,Steven,L.
+YR 2007
+T1 Using Protein Domains to Improve the Accuracy of Ab Initio Gene Finding
+SP 208
+OP 215
+
+RT Journal Article
+ID 6191542
+A1 Hernandez,Janko
+A1 Saunders,David
+YR 2007
+T1 Parameter Estimation in a Stochastic Drift Energy Model with a Price Cap
+
+RT Journal Article
+ID 53102000
+A1 Saunders,D.,J.
+A1 Crampin,M.
+YR 2007
+T1 The fundamental form of a homogeneous Lagrangian in two independent variables
+
+RT Journal Article
+ID 5299105
+A1 Eisen,Jonathan,A.
+A1 Coyne,Robert,S.
+A1 Wu,Martin
+A1 Wu,Dongying
+A1 Thiagarajan,Mathangi
+A1 Wortman,Jennifer,R.
+A1 Badger,Jonathan,H.
+A1 Ren,Qinghu
+A1 Amedeo,Paolo
+A1 Jones,Kristie,M.
+A1 Tallon,Luke,J.
+A1 Delcher,Arthur,L.
+A1 Salzberg,Steven,L.
+A1 Silva,Joana,C.
+A1 Haas,Brian,J.
+A1 Majoros,William,H.
+A1 Farzad,Maryam
+A1 Carlton,Jane,M.
+A1 Jr,Roger,K.,Smith
+A1 Garg,Jyoti
+A1 Pearlman,Ronald,E.
+A1 Karrer,Kathleen,M.
+A1 Sun,Lei
+A1 Manning,Gerard
+A1 Elde,Nels,C.
+A1 Turkewitz,Aaron,P.
+A1 Asai,David,J.
+A1 Wilkes,David,E.
+A1 Wang,Yufeng
+A1 Cai,Hong
+A1 Collins,Kathleen
+A1 Stewart,B.,Andrew
+A1 Lee,Suzanne,R.
+A1 Wilamowska,Katarzyna
+A1 Weinberg,Zasha
+A1 Ruzzo,Walter,L.
+A1 Wloga,Dorota
+A1 Gaertig,Jacek
+A1 Frankel,Joseph
+A1 Tsao,Che-Chia
+A1 Gorovsky,Martin,A.
+A1 Keeling,Patrick,J.
+A1 Waller,Ross,F.
+A1 Patron,Nicola,J.
+A1 Cherry,J.,Michael
+A1 Stover,Nicholas,A.
+A1 Krieger,Cynthia,J.
+A1 Toro,Christina,del
+A1 Ryder,Hilary,F.
+A1 Williamson,Sondra,C.
+A1 Barbeau,Rebecca,A.
+A1 Hamilton,Eileen,P.
+A1 Orias,Eduardo
+YR 2006
+T1 Macronuclear Genome Sequence of the Ciliate Tetrahymena thermophila, a Model Eukaryote
+JF PLOS Biology
+VO 4
+IS 9
+
+RT Journal Article
+ID 10165734
+A1 Higgins,Wayne
+A1 Ahijevych,Dave
+A1 Amador,Jorge
+A1 Barros,Ana
+A1 Berbery,E.,Hugo
+A1 Caetano,Ernesto
+A1 Carbone,Richard
+A1 Ciesielski,Paul
+A1 Cifelli,Rob
+A1 Cortez-Vazquez,Miguel
+A1 Douglas,Art
+A1 Douglas,Michael
+A1 Emmanuel,Gus
+A1 Fairall,Chris
+A1 Gochis,David
+A1 Gutzler,David
+A1 Jackson,Thomas
+A1 Johnson,Richard
+A1 King,Clark
+A1 Lang,Timothy
+A1 Lee,Myong-In
+A1 Lettenmaier,Dennis
+A1 Lobato,Rene
+A1 Magaña,Victor
+A1 Meiten,Jose
+A1 Mo,Kingtse
+A1 Nesbitt,Stephen
+A1 Ocampo-Torres,Francisco
+A1 Pytlak,Erik
+A1 Rogers,Peter
+A1 Rutledge,Steven
+A1 Schemm,Jae
+A1 Schubert,Siegfried
+A1 White,Allen
+A1 Williams,Christopher
+A1 Wood,Andrew
+A1 Zamora,Robert
+A1 Zhang,Chidong
+YR 2006
+T1 The NAME 2004 Field Campaign and Modeling Strategy
+JF Bulletin of The American Meteorological Society
+VO 87
+SP 79
+IS 1
+
+RT Journal Article
+ID 6212184
+A1 Vera,C.
+A1 Baez,J.
+A1 Douglas,M.
+A1 Emmanuel,C.,B.
+A1 Marengo,J.
+A1 Meitin,J.
+A1 Nicolini,M.
+A1 Nogues-Paegle,J.
+A1 Paegle,J.
+A1 Penalba,O.
+A1 Salio,P.
+A1 Saulo,C.
+A1 Dias,M.,A.,Silva
+A1 Dias,P.,Silva
+A1 Zipser,E.
+YR 2006
+T1 The South American Low-Level Jet Experiment
+JF Bulletin of The American Meteorological Society
+VO 87
+SP 63
+IS 1
+
+RT Journal Article
+ID 37052967
+A1 Malek,Renae,L
+A1 Wang,Hong-ying
+A1 Kwitek,Anne,E
+A1 Greene,Andrew,S
+A1 Bhagabati,Nirmal
+A1 Borchardt,Gretta
+A1 Cahill,Lisa
+A1 Currier,Tracey
+A1 Frank,Bryan
+A1 Fu,Xianping
+A1 Hasinoff,Michael
+A1 Howe,Eleanor
+A1 Letwin,Noah
+A1 Luu,Truong,V
+A1 Saeed,Alexander
+A1 Sajadi,Hedieh
+A1 Salzberg,Steven,L
+A1 Sultana,Razvan
+A1 Thiagarajan,Mathangi
+A1 Tsai,Jennifer
+A1 Veratti,Kathleen
+A1 White,Joseph
+A1 Quackenbush,John
+A1 Jacob,Howard,J
+A1 Lee,Norman,H
+YR 2006
+T1 Physiogenomic resources for rat models of heart, lung and blood disorders
+JF Nature Genetics
+VO 38
+SP 234
+OP 239
+IS 2
+
+RT Journal Article
+ID 47718401
+A1 Allen,Jonathan,E
+A1 Majoros,William,H
+A1 Pertea,Mihaela
+A1 Salzberg,Steven,L
+YR 2006
+T1 JIGSAW, GeneZilla, and GlimmerHMM: puzzling out the features of human genes in the ENCODE regions
+JF Genome Biology
+VO 7
+SP 1
+OP 13
+
+RT Journal Article
+ID 35544050
+A1 Consiglio,Andrea
+A1 Saunders,David
+A1 Zenios,Stavros,A.
+YR 2006
+T1 Asset and liability management for insurance products with minimum guarantees: The UK case
+JF Journal of Banking & Finance
+VO 30
+SP 645
+OP 667
+IS 2
+
+RT Journal Article
+ID 5989844
+A1 Cheng,Lan
+A1 Chen,Xinfu
+A1 Chadam,John
+A1 Saunders,David
+YR 2006
+T1 Analysis of an Inverse First Passage Problem from Risk Management
+JF Siam Journal on Mathematical Analysis
+VO 38
+SP 845
+OP 873
+IS 3
+
+RT Conference Proceedings
+ID 5015574
+A1 Richard,S.
+A1 Healy,John
+YR 2006
+T1 Stochastic Search for Costas Arrays
+
+RT Journal Article
+ID 6096980
+A1 Allen,Jonathan,E.
+A1 Salzberg,Steven,L.
+YR 2006
+T1 A phylogenetic generalized hidden Markov model for predicting alternatively spliced exons
+JF Algorithms for Molecular Biology
+VO 1
+SP 14
+OP 13
+IS 1
+
+RT Journal Article
+ID 14900403
+A1 Salzberg,Steven
+A1 Ghedin,Elodie
+A1 Spiro,David
+YR 2006
+T1 Shared data are key to beating threat from flu
+JF Nature
+VO 440
+SP 605
+OP 605
+IS 7084
+
+RT Journal Article
+ID 14899988
+A1 Nierman,William,C.
+A1 Pain,Arnab
+A1 Anderson,Michael,J.
+A1 Wortman,Jennifer,R.
+A1 Kim,H.,Stanley
+A1 Arroyo,Javier
+A1 Berriman,Matthew
+A1 Abe,Keietsu
+A1 Archer,David,B.
+A1 Bermejo,Clara
+A1 Bennett,Joan
+A1 Bowyer,Paul
+A1 Chen,Dan
+A1 Collins,Matthew
+A1 Coulsen,Richard
+A1 Davies,Robert
+A1 Dyer,Paul,S.
+A1 Farman,Mark
+A1 Fedorova,Nadia
+A1 Fedorova,Natalie
+A1 Feldblyum,Tamara,V.
+A1 Fischer,Reinhard
+A1 Fosker,Nigel
+A1 Fraser,Audrey
+A1 García,Jose,L.
+A1 García,Maria,J.
+A1 Goble,Arlette
+A1 Goldman,Gustavo,H.
+A1 Gomi,Katsuya
+A1 Griffith-Jones,Sam
+A1 Gwilliam,Ryan
+A1 Haas,Brian
+A1 Haas,Hubertus
+A1 Harris,David
+A1 Horiuchi,H.
+A1 Huang,Jiaqi
+A1 Humphray,Sean
+A1 Jiménez,Javier
+A1 Keller,Nancy
+A1 Khouri,Hoda
+A1 Kitamoto,Katsuhiko
+A1 Kobayashi,Tetsuo
+A1 Konzack,Sven
+A1 Kulkarni,Resham
+A1 Kumagai,Toshitaka
+A1 Lafon,Anne
+A1 Latgé,Jean-Paul
+A1 Li,Weixi
+A1 Lord,Angela
+A1 Lu,Charles
+A1 Majoros,William,H.
+A1 May,Gregory,S.
+A1 Miller,Bruce,L.
+A1 Mohamoud,Yasmin
+A1 Molina,Maria
+A1 Monod,Michel
+A1 Mouyna,Isabelle
+A1 Mulligan,Stephanie
+A1 Murphy,Lee
+A1 O'Neil,Susan
+A1 Paulsen,Ian
+A1 Peñalva,Miguel,A.
+A1 Pertea,Mihaela
+A1 Price,Claire
+A1 Pritchard,Bethan,L.
+A1 Quail,Michael,A.
+A1 Rabbinowitsch,Ester
+A1 Rawlins,Neil
+A1 Rajandream,Marie-Adele
+A1 Reichard,Utz
+A1 Renauld,Hubert
+A1 Robson,Geoffrey,D.
+A1 Córdoba,Santiago,Rodriguez,de
+A1 Rodríguez-Peña,Jose,M.
+A1 Ronning,Catherine,M.
+A1 Rutter,Simon
+A1 Sanchez,Miguel
+A1 Sánchez-Ferrero,Juan,C.
+A1 Saunders,David
+A1 Seeger,Kathy
+A1 Squares,Rob
+A1 Squares,Steven
+A1 Takeuchi,Michio
+A1 Tekaia,Fredj
+A1 Turner,Geoffrey
+A1 Aldana,Carlos,R.,Vazquez,de
+A1 Weidman,Janice
+A1 White,Owen
+A1 Woodward,John
+A1 Yu,Jae-Hyuk
+A1 Fraser,Claire
+A1 Galagan,James,E.
+A1 Asai,Kiyoshi
+A1 Machida,Masayuki
+A1 Hall,Neil
+A1 Barrell,Bart
+A1 Denning,David,W.
+YR 2006
+T1 Corrigendum: Genomic sequence of the pathogenic and allergenic filamentous fungus Aspergillus fumigatus
+JF Nature
+VO 439
+SP 502
+OP 502
+IS 7075
+
+RT Journal Article
+ID 57418744
+A1 Eisen,Jonathan,A
+A1 Coyne,Robert,S
+A1 Wu,Martin
+A1 Wu,Dongying
+A1 Thiagarajan,Mathangi
+A1 Wortman,Jennifer,R
+A1 Badger,Jonathan,H
+A1 Ren,Qinghu
+A1 Amedeo,Paolo
+A1 Jones,Kristie,M
+A1 Tallon,Luke,J
+A1 Delcher,Arthur,L
+A1 Salzberg,Steven,L
+A1 Silva,Joana,C
+A1 Haas,Brian,J
+A1 Majoros,William,H
+A1 Farzad,Maryam
+A1 Carlton,Jane,M
+A1 Smith,Roger,K
+A1 Garg,Jyoti
+A1 Pearlman,Ronald,E
+A1 Karrer,Kathleen,M
+A1 Sun,Lei
+A1 Manning,Gerard
+A1 Elde,Nels,C
+A1 Turkewitz,Aaron,P
+A1 Asai,David,J
+A1 Wilkes,David,E
+A1 Wang,Yufeng
+A1 Cai,Hong
+A1 Collins,Kathleen
+A1 Stewart,B.,Andrew
+A1 Lee,Suzanne,R
+A1 Wilamowska,Katarzyna
+A1 Weinberg,Zasha
+A1 Ruzzo,Walter,L
+A1 Wloga,Dorota
+A1 Gaertig,Jacek
+A1 Frankel,Joseph
+A1 Tsao,Che-Chia
+A1 Gorovsky,Martin,A
+A1 Keeling,Patrick,J
+A1 Waller,Ross,F
+A1 Patron,Nicola,J
+A1 Cherry,J.,Michael
+A1 Stover,Nicholas,A
+A1 Krieger,Cynthia,J
+A1 Toro,Christina,del
+A1 Ryder,Hilary,F
+A1 Williamson,Sondra,C
+A1 Barbeau,Rebecca,A
+A1 Hamilton,Eileen,P
+A1 Orias,Eduardo
+YR 2006
+T1 Macronuclear Genome Sequence of the Ciliate Tetrahymena thermophila, a Model Eukaryote
+JF PLOS Biology
+VO 4
+IS 9
+
+RT Journal Article
+ID 2181348
+A1 Quackenbush,John
+A1 Salzberg,Steven
+YR 2006
+T1 It is time to end the patenting of software
+JF Bioinformatics/computer Applications in The Biosciences
+VO 22
+SP 1416
+OP 1417
+IS 12
+
+RT Journal Article
+ID 5553581
+A1 Nerouppos,Marios
+A1 Saunders,David
+A1 Xiouros,Costas
+A1 Zenios,Stavros,A.
+YR 2006
+T1 Risk Management in Emerging Markets: Practical Methodologies and Empirical Tests
+
+RT Journal Article
+ID 54582795
+A1 Pack,Robert,T.
+A1 Saunders,David
+A1 Fullmer,Rees
+A1 Budge,Scott
+YR 2006
+T1 The simulation of automatic ladar sensor control during flight operations using USU LadarSIM software
+VO 6214
+SP 20
+
+RT Journal Article
+ID 55112899
+A1 Saunders,D.,J.
+YR 2006
+T1 How to recover a Lagrangian using the homogeneous variational bicomplex
+
+RT Journal Article
+ID 3902637
+A1 Berriman,Matthew
+A1 Ghedin,Elodie
+A1 Hertz-Fowler,Christiane
+A1 Blandin,Gaëlle
+A1 Renauld,Hubert
+A1 Bartholomeu,Daniella,C.
+A1 Lennard,Nicola,J.
+A1 Caler,Elisabet
+A1 Hamlin,Nancy,E.
+A1 Haas,Brian
+A1 Böhme,Ulrike
+A1 Hannick,Linda
+A1 Aslett,Martin,A.
+A1 Shallom,Joshua
+A1 Marcello,Lucio
+A1 Wickstead,Bill
+A1 Alsmark,Cecilia,M.
+A1 Arrowsmith,Claire
+A1 Atkin,Rebecca,J.
+A1 Barron,Andrew,J.
+A1 Bringaud,Frederic
+A1 Brooks,Karen
+A1 Carrington,Mark
+A1 Cherevach,Inna
+A1 Chillingworth,Tracey-Jane
+A1 Churcher,Carol
+A1 Clark,Louise,N.
+A1 Corton,Craig,H.
+A1 Cronin,Ann
+A1 Davies,Rob,M.
+A1 Doggett,Jonathon
+A1 Djikeng,Appolinaire
+A1 Feldblyum,Tamara
+A1 Field,Mark,C.
+A1 Fraser,Audrey
+A1 Goodhead,Ian
+A1 Hance,Zahra
+A1 Harper,David
+A1 Harris,Barbara,R.
+A1 Hauser,Heidi
+A1 Hostetler,Jessica
+A1 Jagels,Kay
+A1 Johnson,David
+A1 Johnson,Justin
+A1 Jones,Kristine
+A1 Kerhornou,Arnaud,X.
+A1 Koo,Hean
+A1 Larke,Natasha
+A1 Landfear,Scott
+A1 Larkin,Christopher
+A1 Leech,Vanessa
+A1 Lord,Angela
+A1 MacLeod,Annette
+A1 Mooney,Paul,J.
+A1 Moule,Sharon
+A1 Martin,David,M.,A.
+A1 Morgan,Gareth,W.
+A1 Mungall,Karen
+A1 Norbertczak,Halina
+A1 Ormond,Doug
+A1 Pai,Grace
+A1 Peacock,Chris,S.
+A1 Peterson,Jeremy
+A1 Quail,Michael,A.
+A1 Rabbinowitsch,Ester
+A1 Rajandream,Marie-Adele
+A1 Reitter,Chris
+A1 Sanders,Mandy
+A1 Schobel,Seth
+A1 Sharp,Sarah
+A1 Simmonds,Mark
+A1 Simpson,Anjana,J.
+A1 Tallon,Luke
+A1 Michael,C.
+A1 Turner,R.
+A1 Tivey,Adrian,R.
+A1 Aken,Susan,Van
+A1 Walker,Danielle
+A1 Wanless,David
+A1 Wang,Shiliang
+A1 White,Brian
+A1 White,Owen
+A1 Whitehead,Sally
+A1 Woodward,John
+A1 Wortman,Jennifer,R.
+A1 Adams,Mark,D.
+A1 Embley,T.,Martin
+A1 Gull,Keith
+A1 Ullu,Elisabetta
+A1 Barry,J.,David
+A1 Fairlamb,Alan,H.
+A1 Barrell,Barclay,G.
+A1 Donelson,John,E.
+A1 Fraser,Claire,M.
+A1 Melville,Sara,E.
+A1 El-Sayed,Najib,M.
+YR 2005
+T1 The Genome of the African Trypanosome Trypanosoma brucei
+JF Science
+VO 309
+SP 416
+OP 422
+IS 5733
+
+RT Journal Article
+ID 13048893
+A1 Stevens,J.,R.
+A1 Noyes,H.,A.
+A1 Schofield,C.,J.
+A1 Gibson,W.
+A1 El-Sayed,Najib,M.
+A1 Myler,Peter,J.
+A1 Bartholomeu,Daniella,C.
+A1 Nilsson,Daniel
+A1 Aggarwal,Gautam
+A1 Tran,Anh-Nhi
+A1 Ghedin,Elodie
+A1 Worthey,Elizabeth,A.
+A1 Delcher,Arthur,L.
+A1 Blandin,Gaelle
+A1 Westenberger,Scott,J.
+A1 Caler,Elisabet
+A1 Cerqueira,Gustavo,C.
+A1 Branche,Carole
+A1 Haas,Brian
+A1 Anupama,Atashi
+A1 Arner,Erik
+A1 Bontempi,Esteban
+A1 Bringaud,Frederic
+A1 Burton,Peter
+A1 Campbell,David,A.
+A1 Crabtree,Jonathan
+A1 Darban,Hamid
+A1 Silveira,Jose,Franco,da
+A1 Englund,Paul,T.
+A1 Feldblyum,Tamara
+A1 Ferella,Marcela
+A1 Frasch,Alberto,Carlos
+A1 Horn,David
+A1 Huang,Yiting
+A1 Kindlund,Ellen
+A1 Klingbeil,Michele
+A1 Koo,Hean
+A1 Lacerda,Daniela
+A1 Levin,Mariano,J.
+A1 Machado,Carlos,Renato
+A1 McCulloch,Richard
+A1 McKenna,Alan
+A1 Mizuno,Yumi
+A1 Mottram,Jeremy,C.
+A1 Nelson,Siri
+A1 Ochaya,Stephen
+A1 Osoegawa,Kazutoyo
+A1 Pai,Grace
+A1 Parsons,Marilyn
+A1 Pentony,Martin
+A1 Pettersson,Ulf
+A1 Ramirez,Jose,Luis
+A1 Robertson,Laura
+A1 Salzberg,Steven,L.
+A1 Sanchez,Daniel,O.
+A1 Sharma,Reuben
+A1 Shetty,Jyoti
+A1 Simpson,Anjana,J.
+A1 Tammi,Martti,T.
+A1 Teixeira,Santuza
+A1 Aken,Susan,Van
+A1 Vogt,Christy
+A1 Ward,Pauline,N.
+A1 Wortman,Jennifer,R.
+A1 White,Owen
+A1 Fraser,Claire,M.
+A1 Stuart,Kenneth,D.
+A1 Andersson,Bjorn
+YR 2005
+T1 The Genome Sequence of Trypanosoma cruzi, Etiologic Agent of Chagas Disease
+JF Science
+VO 309
+SP 409
+OP 415
+IS 5733
+
+RT Journal Article
+ID 3146310
+A1 Nierman,William,C.
+A1 Pain,Arnab
+A1 Anderson,Michael,J.
+A1 Wortman,Jennifer,R.
+A1 Kim,H.,Stanley
+A1 Arroyo,Javier
+A1 Berriman,Matthew
+A1 Abe,Keietsu
+A1 Archer,David,B.
+A1 Bermejo,Clara
+A1 Bennett,Joan
+A1 Bowyer,Paul
+A1 Chen,Dan
+A1 Collins,Matthew
+A1 Coulsen,Richard
+A1 Davies,Robert
+A1 Dyer,Paul,S.
+A1 Farman,Mark
+A1 Fedorova,Natalie
+A1 Fedorova,Natalie
+A1 Feldblyum,Tamara,V.
+A1 Fischer,Reinhard
+A1 Fosker,Nigel
+A1 Fraser,Audrey
+A1 García,Jose,L.
+A1 García,Maria,J.
+A1 Goble,Arlette
+A1 Goldman,Gustavo,H.
+A1 Gomi,Katsuya
+A1 Griffith-Jones,Sam
+A1 Gwilliam,Ryan
+A1 Haas,Brian
+A1 Haas,Hubertus
+A1 Harris,David
+A1 Horiuchi,H.
+A1 Huang,Jiaqi
+A1 Humphray,Sean
+A1 Jiménez,Javier
+A1 Keller,Nancy
+A1 Khouri,Hoda
+A1 Kitamoto,Katsuhiko
+A1 Kobayashi,Tetsuo
+A1 Konzack,Sven
+A1 Kulkarni,Resham
+A1 Kumagai,Toshitaka
+A1 Lafton,Anne
+A1 Latgé,Jean-Paul
+A1 Li,Weixi
+A1 Lord,Angela
+A1 Lu,Charles
+A1 Majoros,William,H.
+A1 May,Gregory,S.
+A1 Miller,Bruce,L.
+A1 Mohamoud,Yasmin
+A1 Molina,Maria
+A1 Monod,Michel
+A1 Mouyna,Isabelle
+A1 Mulligan,Stephanie
+A1 Murphy,Lee
+A1 O'Neil,Susan
+A1 Peñalva,Miguel,A.
+A1 Pertea,Mihaela
+A1 Price,Claire
+A1 Pritchard,Bethan,L.
+A1 Quail,Michael,A.
+A1 Rabbinowitsch,Ester
+A1 Rawlins,Neil
+A1 Rajandream,Marie-Adele
+A1 Reichard,Utz
+A1 Renauld,Hubert
+A1 Robson,Geoffrey,D.
+A1 Córdoba,Santiago,Rodriguez,de
+A1 Ronning,Catherine,M.
+A1 Rutter,Simon
+A1 Sanchez,Miguel
+A1 Sánchez-Ferrero,Juan,C.
+A1 Saunders,David
+A1 Seeger,Kathy
+A1 Squares,Rob
+A1 Squares,Steven
+A1 Takeuchi,Michio
+A1 Tekaia,Fredj
+A1 Turner,Geoffrey
+A1 Aldana,Carlos,R.,Vazquez,de
+A1 Weidman,Janice
+A1 White,Owen
+A1 Woodward,John
+A1 Yu,Jae-Hyuk
+A1 Fraser,Claire
+A1 Galagan,James,E.
+A1 Asai,Kiyoshi
+A1 Hall,Neil
+A1 Barrell,Bart
+YR 2005
+T1 Genomic sequence of the pathogenic and allergenic filamentous fungus Aspergillus fumigatus
+JF Nature
+VO 438
+SP 1151
+OP 1156
+IS 7071
+
+RT Journal Article
+ID 3973509
+A1 Carninci,P.
+A1 Kasukawa,T.
+A1 Katayama,S.
+A1 Gough,J.
+A1 Frith,M.,C.
+A1 Maeda,N.
+A1 Oyama,R.
+A1 Ravasi,T.
+A1 Lenhard,B.
+A1 Wells,C.
+A1 Kodzius,R.
+A1 Shimokawa,K.
+A1 Bajic,V.,B.
+A1 Brenner,S.,E.
+A1 Batalov,S.
+A1 Forrest,A.,R.,R.
+A1 Zavolan,M.
+A1 Davis,M.,J.
+A1 Wilming,L.,G.
+A1 Aidinis,V.
+A1 Allen,J.,E.
+A1 Ambesi-Impiombato,A.
+A1 Apweiler,R.
+A1 Aturaliya,R.,N.
+A1 Bailey,T.,L.
+A1 Bansal,M.
+A1 Baxter,L.
+A1 Beisel,K.,W.
+A1 Bersano,T.
+A1 Bono,H.
+A1 Chalk,A.,M.
+A1 Chiu,K.,P.
+A1 Choudhary,V.
+A1 Christoffels,A.
+A1 Clutterbuck,D.,R.
+A1 Crowe,M.,L.
+A1 Dalla,E.
+A1 Dalrymple,B.,P.
+A1 Bono,B.,de
+A1 Gatta,G.,Della
+A1 Bernardo,D.,di
+A1 Down,T.
+A1 Engstrom,P.
+A1 Fagiolini,T.
+A1 Faulkner,G.
+A1 Fletcher,C.,F.
+A1 Fukushima,T.
+A1 Furuno,M.
+A1 Futaki,S.
+A1 Gariboldi,M.
+A1 Georgii-Hemming,P.
+A1 Gingeras,T.,R.
+A1 Gojobori,T.
+A1 Green,R.,E.
+A1 Gustincich,S.
+A1 Harbers,M.
+A1 Hayashi,Y.
+A1 Hensch,T.,K.
+A1 Hirokawa,N.
+A1 Hill,D.
+A1 Huminiecki,L.
+A1 Iacono,M.
+A1 Ikeo,K.
+A1 Iwama,A.
+A1 Ishikawa,T.
+A1 Jakt,M.
+A1 Kanapin,A.
+A1 Katoh,M.
+A1 Kawasawa,Y.
+A1 Kelso,J.
+A1 Kitamura,H.
+A1 Kitano,H.
+A1 Kollias,G.
+A1 Krishnan,S.,P.,T.
+A1 Kruger,A.
+A1 Kummerfeld,S.,K.
+A1 Kurochkin,I.,V.
+A1 Lareau,L.,F.
+A1 Lazarevic,D.
+A1 Lipovich,L.
+A1 Liu,J.
+A1 Liuni,S.
+A1 McWilliam,S.
+A1 Babu,M.,Madan
+A1 Madera,M.
+A1 Marchionni,L.
+A1 Matsuda,H.
+A1 Matsuzawa,S.
+A1 Miki,H.
+A1 Mignone,F.
+A1 Miyake,S.
+A1 Morris,K.
+A1 Mottagui-Tabar,S.
+A1 Mulder,N.
+A1 Nakano,N.
+A1 Nakauchi,H.
+A1 Ng,P.
+A1 Nilsson,R.
+A1 Nishiguchi,S.
+A1 Nishikawa,S.
+A1 Nori,F.
+A1 Ohara,O.
+A1 Okazaki,Y.
+A1 Orlando,V.
+A1 Pang,K.,C.
+A1 Pavan,W.,J.
+A1 Pavesi,G.
+A1 Pesole,G.
+A1 Petrovsky,N.
+A1 Piazza,S.
+A1 Reed,J.
+A1 Reid,J.,F.
+A1 Ring,B.,Z.
+A1 Ringwald,M.
+A1 Rost,B.
+A1 Ruan,Y.
+A1 Salzberg,S.,L.
+A1 Sandelin,A.
+A1 Schneider,C.
+A1 Schönbach,C.
+A1 Sekiguchi,K.
+A1 Semple,C.,A.,M.
+A1 Seno,S.
+A1 Sessa,L.
+A1 Sheng,Y.
+A1 Shibata,Y.
+A1 Shimada,H.
+A1 Shimada,K.
+A1 Silva,D.
+A1 Sinclair,B.
+A1 Sperling,S.
+A1 Stupka,E.
+A1 Sugiura,K.
+A1 Sultana,R.
+A1 Takenaka,Y.
+A1 Taki,K.
+A1 Tammoja,K.
+A1 Tan,S.,L.
+A1 Tang,S.
+A1 Taylor,M.,S.
+A1 Tegner,J.
+A1 Teichmann,S.,A.
+A1 Ueda,H.,R.
+A1 Nimwegen,E.,van
+A1 Verardo,R.
+A1 Wei,C.,L.
+A1 Yagi,K.
+A1 Yamanishi,H.
+A1 Zabarovsky,E.
+A1 Zhu,S.
+A1 Zimmer,A.
+A1 Hide,W.
+A1 Bult,C.
+A1 Grimmond,S.,M.
+A1 Teasdale,R.,D.
+A1 Liu,E.,T.
+A1 Brusic,V.
+A1 Quackenbush,J.
+A1 Wahlestedt,C.
+A1 Mattick,J.,S.
+A1 Hume,D.,A.
+A1 Kai,C.
+A1 Sasaki,D.
+A1 Tomaru,Y.
+A1 Fukuda,S.
+A1 Kanamori-Katayama,M.
+A1 Suzuki,M.
+A1 Aoki,J.
+A1 Arakawa,T.
+A1 Iida,J.
+A1 Imamura,K.
+A1 Itoh,M.
+A1 Kato,T.
+A1 Kawaji,H.
+A1 Kawagashira,N.
+A1 Kawashima,T.
+A1 Kojima,M.
+A1 Kondo,S.
+A1 Konno,H.
+A1 Nakano,K.
+A1 Ninomiya,N.
+A1 Nishio,T.
+A1 Okada,M.
+A1 Plessy,C.
+A1 Shibata,K.
+A1 Shiraki,T.
+A1 Suzuki,S.
+A1 Tagami,M.
+A1 Waki,K.
+A1 Watahiki,A.
+A1 Okamura-Oho,Y.
+A1 Suzuki,H.
+YR 2005
+T1 The Transcriptional Landscape of the Mammalian Genome
+JF Science
+VO 309
+SP 1559
+OP 1563
+IS 5740
+
+RT Journal Article
+ID 4830476
+A1 Ghedin,Elodie
+A1 Sengamalay,Naomi,A.
+A1 Shumway,Martin
+A1 Zaborsky,Jennifer
+A1 Feldblyum,Tamara
+A1 Subbu,Vik
+A1 Spiro,David,J.
+A1 Sitz,Jeff
+A1 Koo,Hean
+A1 Bolotov,Pavel
+A1 Dernovoy,Dmitry
+A1 Tatusova,Tatiana
+A1 Bao,Yiming
+A1 George,Kirsten,St
+A1 Taylor,Jill
+A1 Fraser,Claire,M.
+A1 Taubenberger,Jeffery,K.
+A1 Salzberg,Steven,L.
+YR 2005
+T1 Large-scale sequencing of human influenza reveals the dynamic nature of viral genome evolution
+JF Nature
+VO 437
+SP 1162
+OP 1166
+IS 7062
+
+RT Journal Article
+ID 4858497
+A1 Loftus,Brendan,J.
+A1 Fung,Eula
+A1 Roncaglia,Paola
+A1 Rowley,Don
+A1 Amedeo,Paolo
+A1 Bruno,Dan
+A1 Vamathevan,Jessica
+A1 Miranda,Molly
+A1 Anderson,Iain,J.
+A1 Fraser,James,A.
+A1 Allen,Jonathan,E.
+A1 Bosdet,Ian,E.
+A1 Brent,Michael,R.
+A1 Chiu,Readman
+A1 Doering,Tamara,L.
+A1 Donlin,Maureen,J.
+A1 D'Souza,Cletus,A.
+A1 Fox,Deborah,S.
+A1 Grinberg,Viktoriya
+A1 Fu,Jianmin
+A1 Fukushima,Marilyn
+A1 Haas,Brian,J.
+A1 Huang,James,C.
+A1 Janbon,Guilhem
+A1 Jones,Steven,J.,M.
+A1 Koo,Hean,L.
+A1 Krzywinski,Martin,I.
+A1 Kwon-Chung,June,K.
+A1 Lengeler,Klaus,B.
+A1 Maiti,Rama
+A1 Marra,Marco,A.
+A1 Marra,Robert,E.
+A1 Mathewson,Carrie,A.
+A1 Mitchell,Thomas,G.
+A1 Pertea,Mihaela
+A1 Riggs,Florenta,R.
+A1 Salzberg,Steven,L.
+A1 Schein,Jacqueline,E.
+A1 Shvartsbeyn,Alla
+A1 Shin,Heesun
+A1 Shumway,Martin
+A1 Specht,Charles,A.
+A1 Suh,Bernard,B.
+A1 Tenney,Aaron
+A1 Utterback,Terry,R.
+A1 Wickes,Brian,L.
+A1 Wortman,Jennifer,R.
+A1 Wye,Natasja,H.
+A1 Kronstad,James,W.
+A1 Lodge,Jennifer,K.
+A1 Heitman,Joseph
+A1 Davis,Ronald,W.
+A1 Fraser,Claire,M.
+A1 Hyman,Richard,W.
+YR 2005
+T1 The Genome of the Basidiomycetous Yeast and Human Pathogen Cryptococcus neoformans
+JF Science
+VO 307
+SP 1321
+OP 1324
+IS 5713
+
+RT Journal Article
+ID 4830540
+A1 Holmes,Edward,C.
+A1 Ghedin,Elodie
+A1 Miller,Naomi
+A1 Taylor,Jill
+A1 Bao,Yiming
+A1 George,Kirsten,St.
+A1 Grenfell,Bryan,T.
+A1 Salzberg,Steven,L.
+A1 Fraser,Claire,M.
+A1 Taubenberger,Jeffery,K.
+YR 2005
+T1 Whole-Genome Analysis of Human Influenza A Virus Reveals Multiple Persistent Lineages and Reassortment among Recent H3N2 Viruses
+JF PLOS Biology
+VO 3
+IS 9
+
+RT Journal Article
+ID 10077553
+A1 Gardner,Malcolm,J.
+A1 Bishop,Richard
+A1 Shah,Trushar
+A1 Villiers,Etienne,P.,de
+A1 Carlton,Jane,M.
+A1 Hall,Neil
+A1 Ren,Qinghu
+A1 Paulsen,Ian,T.
+A1 Pain,Arnab
+A1 Berriman,Matthew
+A1 Wilson,Robert,J.,M.
+A1 Sato,Shigeharu
+A1 Ralph,Stuart,A.
+A1 Mann,David,J.
+A1 Xiong,Zikai
+A1 Shallom,Shamira,J.
+A1 Weidman,Janice
+A1 Jiang,Lingxia
+A1 Lynn,Jeffery
+A1 Weaver,Bruce
+A1 Shoaibi,Azadeh
+A1 Domingo,Alexander,R.
+A1 Wasawo,Delia
+A1 Crabtree,Jonathan
+A1 Wortman,Jennifer,R.
+A1 Haas,Brian
+A1 Angiuoli,Samuel,V.
+A1 Creasy,Todd,H.
+A1 Lu,Charles
+A1 Suh,Bernard
+A1 Silva,Joana,C.
+A1 Utterback,Teresa,R.
+A1 Feldblyum,Tamara,V.
+A1 Pertea,Mihaela
+A1 Allen,Jonathan
+A1 Nierman,William,C.
+A1 Taracha,Evans,L.,N.
+A1 Salzberg,Steven,L.
+A1 White,Owen,R.
+A1 Fitzhugh,Henry,A.
+A1 Morzaria,Subhash
+A1 Venter,J.,Craig
+A1 Fraser,Claire,M.
+A1 Nene,Vishvanath
+YR 2005
+T1 Genome Sequence of Theileria parva, a Bovine Pathogen That Transforms Lymphocytes
+JF Science
+VO 309
+SP 134
+OP 137
+IS 5731
+
+RT Journal Article
+ID 4525345
+A1 Salzberg,Steven,L
+A1 Hotopp,Julie,C,Dunning
+A1 Delcher,Arthur,L
+A1 Pop,Mihai
+A1 Smith,Douglas,R
+A1 Eisen,Michael,B
+A1 Nelson,William,C
+YR 2005
+T1 Serendipitous discovery of Wolbachia genomes in multiple Drosophila species
+
+RT Journal Article
+ID 2180939
+A1 Allen,Jonathan,E.
+A1 Salzberg,Steven
+YR 2005
+T1 JIGSAW: integration of multiple sources of evidence for gene prediction
+JF Bioinformatics/computer Applications in The Biosciences
+VO 21
+SP 3596
+OP 3603
+IS 18
+
+RT Journal Article
+ID 2180928
+A1 Salzberg,Steven
+A1 Yorke,James,A.
+YR 2005
+T1 Beware of mis-assembled genomes
+JF Bioinformatics/computer Applications in The Biosciences
+VO 21
+SP 4320
+OP 4321
+IS 24
+
+RT Journal Article
+ID 1755602
+A1 Majoros,William,H.
+A1 Pertea,Mihaela
+A1 Delcher,Arthur,L.
+A1 Salzberg,Steven,L
+YR 2005
+T1 Efficient decoding algorithms for generalized hidden Markov model gene finders
+JF BMC Bioinformatics
+VO 6
+SP 16
+OP 13
+IS 1
+
+RT Journal Article
+ID 38773597
+A1 Phillippy,Adam
+A1 Mason,Jacquline,A.
+A1 Ayanbule,Kunmi
+A1 Sommer,Daniel,D.
+A1 Taviani,Elisa
+A1 Huq,Anwar
+A1 Colwell,Rita
+A1 Knight,Ivor,T.
+A1 Salzberg,Steven,L.
+YR 2005
+T1 Comprehensive DNA Signature Discovery and Validation
+JF PLOS Computational Biology
+VO preprint
+IS 2007
+
+RT Journal Article
+ID 1755808
+A1 Majoros,William,H.
+A1 Salzberg,Steven,L
+YR 2005
+T1 An empirical analysis of training protocols for probabilistic gene finders
+JF BMC Bioinformatics
+VO 6
+SP 193
+OP 1
+IS 1
+
+RT Journal Article
+ID 14277623
+A1 Salzberg,Steven,L
+A1 Hotopp,Julie,C,Dunning
+A1 Delcher,Arthur,L
+A1 Pop,Mihai
+A1 Smith,Douglas,R
+A1 Eisen,Michael,B
+A1 Nelson,William,C
+YR 2005
+T1 Correction: Serendipitous discovery of Wolbachia genomes in multiple Drosophila species
+
+RT Journal Article
+ID 54967207
+A1 El-Sayed,Najib,M.
+A1 Myler,Peter,J.
+A1 Blandin,Gaëlle
+A1 Berriman,Matthew
+A1 Crabtree,Jonathan
+A1 Aggarwal,Gautam
+A1 Caler,Elisabet
+A1 Renauld,Hubert
+A1 Worthey,Elizabeth,A.
+A1 Hertz-Fowler,Christiane
+A1 Ghedin,Elodie
+A1 Peacock,Christopher
+A1 Bartholomeu,Daniella,C.
+A1 Haas,Brian,J.
+A1 Tran,Anh-Nhi
+A1 Wortman,Jennifer,R.
+A1 Alsmark,U.,Cecilia,M.
+A1 Angiuoli,Samuel
+A1 Anupama,Atashi
+A1 Badger,Jonathan
+A1 Bringaud,Frederic
+A1 Cadag,Eithon
+A1 Carlton,Jane,M.
+A1 Cerqueira,Gustavo,C.
+A1 Creasy,Todd
+A1 Delcher,Arthur,L.
+A1 Djikeng,Appolinaire
+A1 Embley,T.,Martin
+A1 Hauser,Christopher
+A1 Ivens,Alasdair,C.
+A1 Kummerfeld,Sarah,K.
+A1 Pereira-Leal,Jose,B.
+A1 Nilsson,Daniel
+A1 Peterson,Jeremy
+A1 Salzberg,Steven,L.
+A1 Shallom,Joshua
+A1 Silva,Joana,C.
+A1 Sundaram,Jaideep
+A1 Westenberger,Scott
+A1 White,Owen
+A1 Melville,Sara,E.
+A1 Donelson,John,E.
+A1 Andersson,Björn
+A1 Stuart,Kenneth,D.
+A1 Hall,Neil
+YR 2005
+T1 Comparative Genomics of Trypanosomatid Parasitic Protozoa
+JF Science
+VO 309
+SP 404
+OP 409
+
+RT Journal Article
+ID 47598590
+A1 Salzberg,Steven,L
+A1 Hotopp,Julie,C,Dunning
+A1 Delcher,Arthur,L
+A1 Pop,Mihai
+A1 Smith,Douglas,R
+A1 Eisen,Michael,B
+A1 Nelson,William,C
+YR 2005
+T1 Serendipitous discovery of Wolbachia genomes in multiple Drosophila species
+JF Genome Biology
+VO 6
+SP 1
+OP 8
+IS 3
+
+RT Journal Article
+ID 48272809
+A1 Salzberg,Steven,L
+A1 Hotopp,Julie,C,Dunning
+A1 Delcher,Arthur,L
+A1 Pop,Mihai
+A1 Smith,Douglas,R
+A1 Eisen,Michael,B
+A1 Nelson,William,C
+YR 2005
+T1 Correction: Serendipitous discovery of Wolbachia genomes in multiple Drosophila species
+JF Genome Biology
+VO 6
+SP 1
+OP 1
+IS 7
+
+RT Journal Article
+ID 16151432
+A1 Sarlet,W.
+A1 Saunders,D.,J.
+A1 Cantrijn,F.
+YR 2005
+T1 Adjoint symmetries and the generation of first integrals in non-holonomic mechanics
+JF Journal of Geometry and Physics
+VO 55
+SP 207
+OP 225
+IS 2
+
+RT Journal Article
+ID 38164731
+A1 ORIAS,EDUARDO
+A1 SALZBERG,STEVEN,L.
+A1 DELCHER,ARTHUR,L.
+YR 2005
+T1 The Tetrahymena thermophila genome sequence: 1. Genome-wide uniformity of macronuclear chromosome copy number in spite of amitotic (random) copy distribution
+JF Journal of Eukaryotic Microbiology
+VO 52
+IS 2
+
+RT Journal Article
+ID 51326820
+A1 Salzberg,Steven
+YR 2005
+T1 Movers
+JF Nature
+VO 435
+SP 534
+OP 534
+IS 7041
+
+RT Journal Article
+ID 12525942
+A1 Saunders,D.,J.
+YR 2005
+T1 The fundamental form of a second-order homogeneous Lagrangian in two variables
+
+RT Journal Article
+ID 13242100
+A1 SAUNDERS,DAVID
+YR 2005
+T1 AETIOLOGY, SIGNS AND MANAGEMENT
+
+RT Journal Article
+ID 51303111
+A1 Saunders,D.,J.
+YR 2005
+T1 The fundamental form of a second-order homogeneous Lagrangian in two variables
+
+RT Journal Article
+ID 56498354
+A1 Saunders,D.,J.
+YR 2005
+T1 Homogeneous variational complexes and bicomplexes
+
+RT Journal Article
+ID 2123205
+A1 Kurtz,Stefan
+A1 Phillippy,Adam
+A1 Delcher,Arthur,L
+A1 Smoot,Michael
+A1 Shumway,Martin
+A1 Antonescu,Corina
+A1 Salzberg,Steven,L
+YR 2004
+T1 Versatile and open software for comparing large genomes
+JF Genome Biology
+VO 5
+OP 9
+IS 2
+
+RT Journal Article
+ID 4094302
+A1 Fleischmann,R.,D.
+A1 Alland,D.
+A1 Eisen,J.,A.
+A1 Carpenter,L.
+A1 White,O.
+A1 Peterson,J.
+A1 DeBoy,R.
+A1 Dodson,R.
+A1 Gwinn,M.
+A1 Haft,D.
+A1 Hickey,E.
+A1 Kolonay,J.,F.
+A1 Nelson,W.,C.
+A1 Umayam,L.,A.
+A1 Ermolaeva,M.
+A1 Salzberg,S.,L.
+A1 Delcher,A.
+A1 Utterback,T.
+A1 Weidman,J.
+A1 Khouri,H.
+A1 Gill,J.
+A1 Mikula,A.
+A1 Bishai,W.
+A1 Jacobs,W.,R.
+A1 Venter,J.,C.
+A1 Fraser,C.,M.
+YR 2004
+T1 Whole-Genome Comparison of Mycobacterium tuberculosis Clinical and Laboratory Strains
+
+RT Journal Article
+ID 1728048
+A1 Majoros,William,H.
+A1 Pertea,Mihaela
+A1 Salzberg,Steven
+YR 2004
+T1 TigrScan and GlimmerHMM: two open source ab initio eukaryotic gene-finders
+JF Bioinformatics/computer Applications in The Biosciences
+VO 20
+SP 2878
+OP 2879
+IS 16
+
+RT Journal Article
+ID 4590056
+A1 Berman,Benjamin,P.
+A1 Pfeiffer,Barret,D.
+A1 Laverty,Todd,R.
+A1 Salzberg,Steven,L.
+A1 Rubin,Gerald,M.
+A1 Eisen,Michael,B.
+A1 Celniker,Susan,E.
+YR 2004
+T1 Computational identification of developmental enhancers: conservation and function of transcription factor binding-site clusters in Drosophila melanogaster and Drosophila pseudoobscura
+JF Genome Biology
+VO 5
+OP 24
+IS 9
+
+RT Journal Article
+ID 1696119
+A1 Pop,Mihai
+A1 Phillippy,Adam
+A1 Delcher,Arthur,L.
+A1 Salzberg,Steven
+YR 2004
+T1 Comparative genome assembly
+JF Briefings in Bioinformatics
+VO 5
+SP 237
+OP 248
+IS 3
+
+RT Journal Article
+ID 5160326
+A1 Ward,Naomi
+A1 Larsen,Øivind
+A1 Sakwa,James
+A1 Bruseth,Live
+A1 Khouri,Hoda
+A1 Durkin,A.,Scott
+A1 Dimitrov,George
+A1 Jiang,Lingxia
+A1 Scanlan,David
+A1 Kang,Katherine,H.
+A1 Lewis,Matt
+A1 Nelson,Karen,E.
+A1 Methé,Barbara
+A1 Wu,Martin
+A1 Heidelberg,John,F.
+A1 Paulsen,Ian,T.
+A1 Fouts,Derrick
+A1 Ravel,Jacques
+A1 Tettelin,Hervé
+A1 Ren,Qinghu
+A1 Read,Tim
+A1 DeBoy,Robert,T.
+A1 Seshadri,Rekha
+A1 Salzberg,Steven,L.
+A1 Jensen,Harald,B.
+A1 Birkeland,Nils,Kåre
+A1 Nelson,William,C.
+A1 Dodson,Robert,J.
+A1 Grindhaug,Svenn,H.
+A1 Holt,Ingeborg
+A1 Eidhammer,Ingvar
+A1 Jonasen,Inge
+A1 Vanaken,Susan
+A1 Utterback,Terry
+A1 Feldblyum,Tamara,V.
+A1 Fraser,Claire,M.
+A1 Lillehaug,Johan,R.
+A1 Eisen,Jonathan,A.
+YR 2004
+T1 Genomic Insights into Methanotrophy: The Complete Genome Sequence of Methylococcus capsulatus (Bath)
+JF PLOS Biology
+VO 2
+IS 10
+
+RT Journal Article
+ID 1728156
+A1 Haas,Brian,J.
+A1 Delcher,Arthur,L.
+A1 Wortman,Jennifer,R.
+A1 Salzberg,Steven
+YR 2004
+T1 DAGchainer: a tool for mining segmental genome duplications and synteny
+JF Bioinformatics/computer Applications in The Biosciences
+VO 20
+SP 3643
+OP 3646
+IS 18
+
+RT Journal Article
+ID 13068908
+A1 Ghedin,Elodie
+A1 Bringaud,Frederic
+A1 Peterson,Jeremy
+A1 Myler,Peter
+A1 Berriman,Matthew
+A1 Ivens,Alasdair
+A1 Andersson,Björn
+A1 Bontempi,Esteban
+A1 Eisen,Jonathan
+A1 Angiuoli,Sam
+A1 Wanless,David
+A1 Arx,Anna,Von
+A1 Murphy,Lee
+A1 Lennard,Nicola
+A1 Salzberg,Steven
+A1 Adams,Mark,D
+A1 White,Owen
+A1 Hall,Neil
+A1 Stuart,Kenneth
+A1 Fraser,Claire,M
+A1 El-Sayed,Najib,M.,A
+YR 2004
+T1 Gene synteny and evolution of genome architecture in trypanosomatids
+JF Molecular and Biochemical Parasitology
+VO 134
+SP 183
+OP 191
+IS 2
+
+RT Journal Article
+ID 5625575
+A1 Salzberg,Steven,L.
+A1 Church,Deanna
+A1 DiCuccio,Michael
+A1 Yaschenko,Eugene
+A1 Ostell,James
+YR 2004
+T1 The Genome Assembly Archive: A New Public Resource
+JF PLOS Biology
+VO 2
+IS 9
+
+RT Journal Article
+ID 2757126
+A1 Gajer,Pawel
+A1 Schatz,Michael
+A1 Salzberg,Steven,L.
+YR 2004
+T1 Automated correction of genome sequence errors
+JF Nucleic Acids Research
+VO 32
+SP 562
+OP 569
+IS 2
+
+RT Journal Article
+ID 1756107
+A1 Majoros,William,H.
+A1 Salzberg,Steven,L
+YR 2004
+T1 An empirical analysis of training protocols for probabilistic gene finders
+JF BMC Bioinformatics
+VO 5
+SP 206
+OP 12
+IS 1
+
+RT Journal Article
+ID 11264639
+A1 Jawerbaum,A.
+A1 Capobianco,E.
+A1 Pustovrh,C.
+A1 White,V.
+A1 Baier,M.
+A1 Salzberg,S.
+A1 Pesaresi,M.
+A1 Gonzalez,E.
+YR 2004
+T1 Influence of peroxisome proliferator-activated receptor   activation by its endogenous ligand 15-deoxy  12,14 prostaglandin J2 on nitric oxide production in term placental tissues from diabetic women
+JF Molecular Human Reproduction
+VO 10
+SP 671
+OP 676
+IS 9
+
+RT Journal Article
+ID 2789139
+A1 Thompson,C.,J.
+A1 Tomic,N.
+A1 Hinse,M.
+A1 Richard,S.
+YR 2004
+T1 Blurring of images from PET scanners due to under-sampling of the image space
+
+RT Journal Article
+ID 5537421
+A1 Lawrie,Ken
+A1 Wilford,John
+A1 Gibson,Dave
+A1 Pain,Colin
+A1 Roberts,Louisa
+A1 Coram,Jane
+A1 Halas,Larysa
+A1 Apps,Heike
+A1 Fitzpatrick,Andrew
+A1 Tan,KP
+A1 Sorensen,Camilla
+A1 James,Jeremy
+A1 Tate,Susan
+YR 2004
+T1 REGOLITH CONSTRAINTS ON MODELING SALT MOVEMENTS IN UPLAND LANDSCAPES IN THE MURRAY-DARLING BASIN
+
+RT Journal Article
+ID 40310601
+A1 Aniel,F.
+A1 Enciso,M.
+A1 Richard,S.
+A1 Giguerre,L.
+A1 Zerounian,N.
+A1 Crozat,P.
+A1 Adde,R.
+A1 Hackbarth,T.
+A1 Herzog,J.,H.
+A1 Konig,U.
+YR 2004
+T1 Microwave performances of silicon heterostructure-FETs
+JF Applied Surface Science
+VO 224
+SP 370
+OP 376
+IS 1
+
+RT Journal Article
+ID 45320753
+A1 Saunders,David
+YR 2004
+T1 Kansas Academy of Science student research scholarships
+JF Transactions of The Kansas Academy of Science
+VO 107
+SP 184
+OP 184
+IS 3 & 4
+
+RT Journal Article
+ID 47623942
+A1 Richard,S.
+YR 2004
+T1 Disease-Management-Programme in der gesetzlichen Krankenversicherung
+JF Bundesgesundheitsblatt-gesundheitsforschung-gesundheitsschutz
+VO 47
+SP 751
+OP 754
+IS 8
+
+RT Journal Article
+ID 56112752
+A1 Saunders,D.,J.
+YR 2004
+T1 Sprays and Cartan projective connections
+VO 729
+SP 262
+OP 273
+
+RT Journal Article
+ID 56688104
+A1 Saunders,D.,J.
+YR 2004
+T1 Sprays and Cartan projective connections
+
+RT Journal Article
+ID 11024347
+A1 Peterson,Scott,N.
+A1 Tourasse,Nicolas
+A1 Baillie,Les,W.
+A1 Paulsen,Ian,T.
+A1 Nelson,Karen,E.
+A1 Tettelin,Hervé
+A1 Fouts,Derrick,E.
+A1 Eisen,Jonathan,A.
+A1 Gill,Steven,R.
+A1 Holtzapple,Erik,K.
+A1 Økstad,Ole,Andreas
+A1 Helgason,Erlendur
+A1 Rilstone,Jennifer
+A1 Wu,Martin
+A1 Kolonay,James,F.
+A1 Beanan,Maureen,J.
+A1 Dodson,Robert,J.
+A1 Brinkac,Lauren,M.
+A1 Gwinn,Michelle
+A1 DeBoy,Robert,T.
+A1 Madpu,Ramana
+A1 Daugherty,Sean,C.
+A1 Durkin,A.,Scott
+A1 Haft,Daniel,H.
+A1 Nelson,William,C.
+A1 Peterson,Jeremy,D.
+A1 Pop,Mihai
+A1 Khouri,Hoda,M.
+A1 Radune,Diana
+A1 Benton,Jonathan,L.
+A1 Mahamoud,Yasmin
+A1 Jiang,Lingxia
+A1 Hance,Ioana,R.
+A1 Weidman,Janice,F.
+A1 Berry,Kristi,J.
+A1 Plaut,Roger,D.
+A1 Wolf,Alex,M.
+A1 Watkins,Kisha,L.
+A1 Nierman,William,C.
+A1 Hazen,Alyson
+A1 Cline,Robin
+A1 Redmond,Caroline
+A1 Thwaite,Joanne,E.
+A1 White,Owen
+A1 Salzberg,Steven,L.
+A1 Thomason,Brendan
+A1 Friedlander,Arthur,M.
+A1 Koehler,Theresa,M.
+A1 Hanna,Philip,C.
+A1 Kolstø,Anne-Brit
+A1 Fraser,Claire,M.
+A1 Read,Timothy,D.
+YR 2003
+T1 The genome sequence of Bacillus anthracis Ames and comparison to closely related bacteria
+JF Nature
+VO 423
+SP 81
+OP 86
+IS 6935
+
+RT Journal Article
+ID 11594854
+A1 Haas,Brian,J.
+A1 Delcher,Arthur,L.
+A1 Mount,Stephen,M.
+A1 Wortman,Jennifer,R.
+A1 Jr,Roger,K.,Smith
+A1 Hannick,Linda,I.
+A1 Maiti,Rama
+A1 Ronning,Catherine,M.
+A1 Rusch,Douglas,B.
+A1 Town,Christopher,D.
+A1 Salzberg,Steven,L.
+A1 White,Owen
+YR 2003
+T1 Improving the Arabidopsis genome annotation using maximal transcript alignment assemblies
+JF Nucleic Acids Research
+VO 31
+SP 5654
+OP 5666
+IS 19
+
+RT Journal Article
+ID 11382748
+A1 Read,T.,D.
+A1 Myers,G.,S.,A.
+A1 Brunham,R.,C.
+A1 Nelson,W.,C.
+A1 Paulsen,I.,T.
+A1 Heidelberg,J.
+A1 Holtzapple,E.
+A1 Khouri,H.
+A1 Federova,N.,B.
+A1 Carty,H.,A.
+A1 Umayam,L.,A.
+A1 Haft,D.,H.
+A1 Peterson,J.
+A1 Beanan,M.,J.
+A1 White,O.
+A1 Salzberg,S.,L.
+A1 McClarty,G.
+A1 Rank,R.,G.
+A1 Bavoil,P.,M.
+A1 Fraser,C.,M.
+YR 2003
+T1 Genome sequence of Chlamydophila caviae (Chlamydia psittaci GPIC): examining the role of niche-specific genes in the evolution of the Chlamydiaceae
+JF Nucleic Acids Research
+VO 31
+SP 2134
+OP 2147
+IS 8
+
+RT Journal Article
+ID 4901727
+A1 Allen,Jonathan,E.
+A1 Pertea,Mihaela
+A1 Salzberg,Steven,L.
+YR 2003
+T1 Computational Gene Prediction Using Multiple Sources of Evidence
+JF Genome Research
+VO 14
+SP 142
+OP 148
+IS 1
+
+RT Journal Article
+ID 749430
+A1 Majoros,William,H.
+A1 Pertea,Mihaela
+A1 Antonescu,Corina
+A1 Salzberg,Steven
+YR 2003
+T1 GlimmerM, Exonomy and Unveil: three ab initio eukaryotic genefinders
+JF Nucleic Acids Research
+VO 31
+SP 3601
+OP 3604
+IS 13
+
+RT Journal Article
+ID 3182201
+A1 Pop,Mihai
+A1 Kosack,Daniel,S.
+A1 Salzberg,Steven,L.
+YR 2003
+T1 Hierarchical Scaffolding With Bambus
+JF Genome Research
+VO 14
+SP 149
+OP 159
+IS 1
+
+RT Journal Article
+ID 47698605
+A1 Ermolaeva,Maria,D.
+A1 Wu,Martin
+A1 Eisen,Jonathan,A.
+A1 Salzberg,Steven,L.
+YR 2003
+T1 The age of the Arabidopsis thaliana genome duplication
+JF Plant Molecular Biology
+VO 51
+SP 859
+OP 866
+IS 6
+
+RT Journal Article
+ID 5573999
+A1 Douglas,Michael,W.
+A1 Leal,Juan,Carlos
+YR 2003
+T1 Summertime Surges over the Gulf of California: Aspects of Their Climatology, Mean Structure, and Evolution from Radiosonde, NCEP Reanalysis, and Rainfall Data
+JF Weather and Forecasting
+VO 18
+SP 55
+OP 74
+
+RT Journal Article
+ID 2870642
+A1 Volfovsky,N.
+A1 Haas,B.,J.
+A1 Salzberg,S.,L.
+YR 2003
+T1 Computational Discovery of Internal Micro-Exons
+JF Genome Research
+VO 13
+SP 1216
+OP 1221
+IS 6
+
+RT Journal Article
+ID 3960533
+A1 El-Sayed,Najib,M.,A.
+A1 Ghedin,Elodie
+A1 Song,Jinming
+A1 MacLeod,Annette
+A1 Bringaud,Frederic
+A1 Larkin,Christopher
+A1 Wanless,David
+A1 Peterson,Jeremy
+A1 Hou,Lihua
+A1 Taylor,Sonya
+A1 Tweedie,Alison
+A1 Biteau,Nicolas
+A1 Khalak,Hanif,G.
+A1 Lin,Xiaoying
+A1 Mason,Tanya
+A1 Hannick,Linda
+A1 Caler,Elisabet
+A1 Blandin,Gaelle
+A1 Bartholomeu,Daniella
+A1 Simpson,Anjana,J.
+A1 Kaul,Samir
+A1 Zhao,Hong
+A1 Pai,Grace
+A1 Aken,Susan,Van
+A1 Utterback,Teresa
+A1 Haas,Brian
+A1 Koo,Hean,L.
+A1 Umayam,Lowell
+A1 Suh,Bernard
+A1 Gerrard,Caroline
+A1 Qi,Rong
+A1 Zhou,Shiguo
+A1 Schwartz,David
+A1 Feldblyum,Tamara
+A1 Salzberg,Steven
+A1 Tait,Andrew
+A1 Michael,C.
+A1 Turner,R.
+A1 Ullu,Elisabetta
+A1 White,Owen
+A1 Melville,Sara
+A1 Adams,Mark,D.
+A1 Fraser,Claire,M.
+A1 Donelson,John,E.
+YR 2003
+T1 The sequence and analysis of Trypanosoma brucei chromosome II
+JF Nucleic Acids Research
+VO 31
+SP 4856
+OP 4863
+IS 16
+
+RT Journal Article
+ID 1684029
+A1 Lefebvre,D.
+A1 Chevrel,P.
+A1 Richard,S.
+YR 2003
+T1 An H-infinity-based control design methodology dedicated to the active control of vehicle longitudinal oscillations
+JF IEEE Transactions on Control Systems Technology
+VO 11
+SP 948
+OP 956
+IS 6
+
+RT Journal Article
+ID 43422
+A1 CONSIGLIO,ANDREA
+A1 SAUNDERS,DAVID
+A1 Zenios,Stavros,A.
+YR 2003
+T1 Insurance League: Italy vs. U.K
+JF The Journal of Risk Finance
+VO 4
+SP 47
+OP 54
+IS 4
+
+RT Journal Article
+ID 3576981
+A1 Higgitt,C
+A1 Spring,M
+A1 Saunders,D
+YR 2003
+T1 Pigment-medium interactions in oil paint films containing red lead or lead-tin yellow
+
+RT Journal Article
+ID 51697082
+A1 Read,Timothy,D.
+A1 Peterson,Scott,N.
+A1 Tourasse,Nicolas
+A1 Baillie,Les,W.
+A1 Paulsen,Ian,T.
+A1 Nelson,Karen,E.
+A1 Tettelin,Hervé
+A1 Fouts,Derrick,E.
+A1 Eisen,Jonathan,A.
+A1 Gill,Steven,R.
+A1 Holtzapple,Erik,K.
+A1 Økstad,Ole,Andreas
+A1 Helgason,Erlendur
+A1 Rilstone,Jennifer
+A1 Wu,Martin
+A1 Kolonay,James,F.
+A1 Beanan,Maureen,J.
+A1 Dodson,Robert,J.
+A1 Brinkac,Lauren,M.
+A1 Gwinn,Michelle
+A1 DeBoy,Robert,T.
+A1 Madpu,Ramana
+A1 Daugherty,Sean,C.
+A1 Durkin,A.,Scott
+A1 Haft,Daniel,H.
+A1 Nelson,William,C.
+A1 Peterson,Jeremy,D.
+A1 Pop,Mihai
+A1 Khouri,Hoda,M.
+A1 Radune,Diana
+A1 Benton,Jonathan,L.
+A1 Mahamoud,Yasmin
+A1 Jiang,Lingxia
+A1 Hance,Ioana,R.
+A1 Weidman,Janice,F.
+A1 Berry,Kristi,J.
+A1 Plaut,Roger,D.
+A1 Wolf,Alex,M.
+A1 Watkins,Kisha,L.
+A1 Nierman,William,C.
+A1 Hazen,Alyson
+A1 Cline,Robin
+A1 Redmond,Caroline
+A1 Thwaite,Joanne,E.
+A1 White,Owen
+A1 Salzberg,Steven,L.
+A1 Thomason,Brendan
+A1 Friedlander,Arthur,M.
+A1 Koehler,Theresa,M.
+A1 Hanna,Philip,C.
+A1 Kolstø,Anne-Brit
+A1 Fraser,Claire,M.
+YR 2003
+T1 The genome sequence of Bacillus anthracis Ames and comparison to closely related bacteria
+JF Nature
+VO 423
+SP 81
+OP 86
+
+RT Journal Article
+ID 14893541
+A1 Salzberg,Steven,L.
+YR 2003
+T1 GenomicsYeast rises again
+JF Nature
+VO 423
+SP 233
+OP 234
+IS 6937
+
+RT Journal Article
+ID 14893382
+A1 Salzberg,Steven
+A1 Birney,Ewan
+A1 Eddy,Sean
+A1 White,Owen
+YR 2003
+T1 Unrestricted free access works and must continue
+JF Nature
+VO 422
+SP 801
+OP 801
+IS 6934
+
+RT Journal Article
+ID 14114474
+A1 Salzberg,Steven,L.
+YR 2003
+T1 Yeast rises again
+JF Nature
+
+RT Conference Proceedings
+ID 473669
+A1 Salzberg,Steven
+YR 2003
+T1 Genome Paleontology: Discoveries from Complete Genomes
+SP 1
+
+RT Journal Article
+ID 52933827
+A1 Salzberg,Steven,L.
+YR 2003
+T1 Genomics: Yeast rises again
+JF Nature
+VO 423
+SP 233
+OP 234
+
+RT Journal Article
+ID 2391858
+A1 Zdobnov,Evgeny,M.
+A1 Mering,Christian,von
+A1 Letunic,Ivica
+A1 Torrents,David
+A1 Suyama,Mikita
+A1 Copley,Richard,R.
+A1 Christophides,George,K.
+A1 Thomasova,Dana
+A1 Holt,Robert,A.
+A1 Subramanian,G.,Mani
+A1 Mueller,Hans-Michael
+A1 Dimopoulos,George
+A1 Law,John,H.
+A1 Wells,Michael,A.
+A1 Birney,Ewan
+A1 Charlab,Rosane
+A1 Halpern,Aaron,L.
+A1 Kokoza,Elena
+A1 Kraft,Cheryl,L.
+A1 Lai,Zhongwu
+A1 Lewis,Suzanna
+A1 Louis,Christos
+A1 Nusskern,Deborah
+A1 Rubin,Gerald,M.
+A1 Salzberg,Steven,L.
+A1 Sutton,Granger,G.
+A1 Topalis,Pantelis
+A1 Wides,Ron
+A1 Wincker,Patrick
+A1 Yandell,Mark
+A1 Collins,Frank,H.
+A1 Gelbart,William,M.
+A1 Kafatos,Fotis,C.
+A1 Bork,Peer
+YR 2002
+T1 Comparative Genome and Proteome Analysis of Anopheles gambiae and Drosophila melanogaster
+JF Science
+VO 298
+SP 149
+OP 159
+IS 5591
+
+RT Journal Article
+ID 38307367
+A1 Fleischmann,R.,D.
+A1 Alland,D.
+A1 Eisen,J.,A.
+A1 Carpenter,L.
+A1 White,O.
+A1 Peterson,J.
+A1 DeBoy,R.
+A1 Dodson,R.
+A1 Gwinn,M.
+A1 Haft,D.
+A1 Hickey,E.
+A1 Kolonay,J.,F.
+A1 Nelson,W.,C.
+A1 Umayam,L.,A.
+A1 Ermolaeva,M.
+A1 Salzberg,S.,L.
+A1 Delcher,A.
+A1 Utterback,T.
+A1 Weidman,J.
+A1 Khouri,H.
+A1 Gill,J.
+A1 Mikula,A.
+A1 Bishai,W.
+A1 Jacobs,W.,R.
+A1 Venter,J.,C.
+A1 Fraser,C.,M.
+YR 2002
+T1 Whole-Genome Comparison of Mycobacterium tuberculosis Clinical and Laboratory Strains
+JF Journal of Bacteriology
+VO 184
+SP 5479
+OP 5490
+IS 19
+
+RT Journal Article
+ID 2052679
+A1 Delcher,A.
+A1 Phillippy,A.
+A1 Carlton,J.
+A1 Salzberg,S.
+YR 2002
+T1 Fast Algorithms for Large-scale Genome Alignment and Comparison
+JF Nucleic Acids Research
+
+RT Journal Article
+ID 4600465
+A1 Haas,Brian,J
+A1 Volfovsky,Natalia
+A1 Town,Christopher,D
+A1 Troukhan,Maxim
+A1 Alexandrov,Nickolai
+A1 Feldmann,Kenneth,A
+A1 Flavell,Richard,B
+A1 White,Owen
+A1 Salzberg,Steven,L
+YR 2002
+T1 Full-length messenger RNA sequences greatly improve genome annotation
+JF Genome Biology
+VO 3
+OP 12
+IS 6
+
+RT Journal Article
+ID 6955565
+A1 Fraser,Claire,M.
+A1 Eisen,Jonathan,A.
+A1 Nelson,Karen,E.
+A1 Paulsen,Ian,T.
+A1 Salzberg,Steven,L.
+YR 2002
+T1 The Value of Complete Microbial Genome Sequencing (You Get What You Pay For)
+JF Journal of Bacteriology
+VO 184
+SP 6403
+OP 6405
+IS 23
+
+RT Journal Article
+ID 847233
+A1 Pop,Mihai
+A1 Salzberg,Steven
+A1 Shumway,Martin
+YR 2002
+T1 Genome Sequence Assembly: Algorithms and Issues
+JF IEEE Computer
+VO 35
+SP 47
+OP 54
+IS 7
+
+RT Journal Article
+ID 48522951
+A1 Pertea,Mihaela
+A1 Salzberg,Steven,L.
+YR 2002
+T1 Computational gene finding in plants
+JF Plant Molecular Biology
+VO 48
+SP 39
+OP 48
+IS 1
+
+RT Journal Article
+ID 6945197
+A1 Ermolaeva,Maria,D.
+A1 Wu,Martin
+A1 Eisen,Jonathan,A.
+A1 Salzberg,Steven,L.
+YR 2002
+T1 The age of the Arabidopsis thaliana genome duplication
+
+RT Journal Article
+ID 44500983
+A1 Peña,Malaquías
+A1 Douglas,Michael,W.
+YR 2002
+T1 Characteristics of Wet and Dry Spells over the Pacific Side of Central America during the Rainy Season
+JF Monthly Weather Review
+VO 130
+SP 3054
+IS 12
+
+RT Journal Article
+ID 48923748
+A1 Marengo,Jose,A.
+A1 Douglas,Michael,W.
+A1 Dias,Pedro,L.,Silva
+YR 2002
+T1 The South American low-level jet east of the Andes during the 1999 LBA-TRMM and LBA-WET AMC campaign
+JF Journal of Geophysical Research
+VO 107
+IS D20
+
+RT Journal Article
+ID 39066017
+A1 Willerslev,Eske
+A1 Christensen,Bent
+A1 Mourier,Tobias
+A1 Hansen,Anders,J.
+A1 Barnes,Ian
+A1 Salzberg,Steven,L.
+YR 2002
+T1 Contamination in the Draft of the Human Genome Masquerades As Lateral Gene Transfer
+JF Dna Sequence
+VO 13
+SP 75
+OP 76
+IS 2
+
+RT Book, Whole
+ID 577699
+A1 Pertea,Mihaela
+A1 Salzberg,Steven,L.
+YR 2002
+T1 A Method to Improve the Performance of Translation Start Site Detection and Its Application for Gene Finding
+SP 210
+OP 219
+
+RT Journal Article
+ID 40375094
+A1 Mural,Richard,J
+A1 Myers,Eugene,W
+A1 Smith,Hamilton
+A1 Miklos,George,L,Gabor
+A1 Wides,Ron
+A1 Halpern,Aaron
+A1 Li,Peter,W
+A1 Sutton,Granger
+A1 Nadeau,Joseph,H
+A1 Salzberg,Steven,L
+A1 Holt,Robert
+A1 Evans,Cheryl,A
+A1 Lu,Fu
+A1 Biddick,Kendra
+A1 Bonazzi,Vivien
+A1 Delcher,Arthur
+A1 Zheng,Xiangqun,H
+A1 Yandell,Mark
+A1 Rusch,Doug
+A1 Majoros,William
+A1 Hoover,Jeff
+A1 Wang,Jian
+A1 Venter,J.,Craig
+A1 Adams,Mark,D
+YR 2002
+T1 A preliminary comparison of the mouse and human genomes
+JF International Congress Series
+VO 1246
+SP 169
+OP 181
+
+RT Journal Article
+ID 38524437
+A1 Smalley,N.
+A1 Saunders,D.
+A1 Hodson,P.
+YR 2002
+T1 An Electronic Newspaper Simulation
+JF Simulation & Gaming
+VO 33
+SP 89
+OP 93
+IS 1
+
+RT Conference Proceedings
+ID 50262055
+A1 McNeill,K.
+A1 Kelly,B.
+A1 Dodd,P.
+A1 McLaughlin,T.
+A1 Saunders,D.
+YR 2002
+T1 Demonstration of improved frequency response in laminated sputtered top poles
+
+RT Journal Article
+ID 53622157
+A1 Marengo,Jose,A.
+A1 Douglas,Michael,W.
+A1 Dias,Pedro,L.,Silva
+YR 2002
+T1 The South American low-level jet east of the Andes during the 1999 LBA-TRMM and LBA-WET AMC campaign
+JF Journal of Geophysical Research
+VO 107
+SP 8079
+
+RT Journal Article
+ID 38524443
+A1 Halapi,M.
+A1 Saunders,D.
+YR 2002
+T1 Language Teaching through Role-Play: A Hungarian View
+JF Simulation & Gaming
+VO 33
+SP 169
+OP 178
+IS 2
+
+RT Journal Article
+ID 38556764
+A1 Saunders,D.
+YR 2002
+T1 Book Review: Contesting the Market: Pay Equity and the Politics of Economic Restructuring
+JF Review of Radical Political Economics
+VO 34
+SP 100
+OP 102
+IS 1
+
+RT Journal Article
+ID 1291649
+A1 Venter,J.,Craig
+A1 Adams,Mark,D.
+A1 Myers,Eugene,W.
+A1 Li,Peter,W.
+A1 Mural,Richard,J.
+A1 Sutton,Granger,G.
+A1 Smith,Hamilton,O.
+A1 Yandell,Mark
+A1 Evans,Cheryl,A.
+A1 Holt,Robert,A.
+A1 Gocayne,Jeannine,D.
+A1 Amanatides,Peter
+A1 Ballew,Richard,M.
+A1 Huson,Daniel,H.
+A1 Wortman,Jennifer,R.
+A1 Zhang,Qing
+A1 Kodira,Chinnappa,D.
+A1 Zheng,Xiangqun,H.
+A1 Chen,Lin
+A1 Skupski,Marian
+A1 Subramanian,Gangadharan
+A1 Thomas,Paul,D.
+A1 Zhang,Jinghui
+A1 Miklos,George,L.,Gabor
+A1 Nelson,Catherine
+A1 Broder,Samuel
+A1 Clark,Andrew,G.
+A1 Nadeau,Joe
+A1 McKusick,Victor,A.
+A1 Zinder,Norton
+A1 Levine,Arnold,J.
+A1 Simon,Mel
+A1 Slayman,Carolyn
+A1 Hunkapiller,Michael
+A1 Bolanos,Randall
+A1 Delcher,Arthur
+A1 Dew,Ian
+A1 Fasulo,Daniel
+A1 Flanigan,Michael
+A1 Florea,Liliana
+A1 Halpern,Aaron
+A1 Hannenhalli,Sridhar
+A1 Kravitz,Saul
+A1 Levy,Samuel
+A1 Mobarry,Clark
+A1 Reinert,Knut
+A1 Remington,Karin
+A1 Abu-Threideh,Jane
+A1 Beasley,Ellen
+A1 Biddick,Kendra
+A1 Bonazzi,Vivien
+A1 Brandon,Rhonda
+A1 Cargill,Michele
+A1 Chandramouliswaran,Ishwar
+A1 Charlab,Rosane
+A1 Chaturvedi,Kabir
+A1 Deng,Zuoming
+A1 Francesco,Valentina,Di
+A1 Dunn,Patrick
+A1 Eilbeck,Karen
+A1 Evangelista,Carlos
+A1 Gabrielian,Andrei,E.
+A1 Gan,Weiniu
+A1 Ge,Wangmao
+A1 Gong,Fangcheng
+A1 Gu,Zhiping
+A1 Guan,Ping
+A1 Heiman,Thomas,J.
+A1 Higgins,Maureen,E.
+A1 Ji,Rui-Ru
+A1 Ke,Zhaoxi
+A1 Ketchum,Karen,A.
+A1 Lai,Zhongwu
+A1 Lei,Yiding
+A1 Li,Zhenya
+A1 Li,Jiayin
+A1 Liang,Yong
+A1 Lin,Xiaoying
+A1 Lu,Fu
+A1 Merkulov,Gennady,V.
+A1 Milshina,Natalia
+A1 Moore,Helen,M.
+A1 Naik,Ashwinikumar,K
+A1 Narayan,Vaibhav,A.
+A1 Neelam,Beena
+A1 Nusskern,Deborah
+A1 Rusch,Douglas,B.
+A1 Salzberg,Steven
+A1 Shao,Wei
+A1 Shue,Bixiong
+A1 Sun,Jingtao
+A1 Wang,Zhen,Yuan
+A1 Wang,Aihui
+A1 Wang,Xin
+A1 Wang,Jian
+A1 Wei,Ming-Hui
+A1 Wides,Ron
+A1 Xiao,Chunlin
+A1 Yan,Chunhua
+A1 Yao,Alison
+A1 Ye,Jane
+A1 Zhan,Ming
+A1 Zhang,Weiqing
+A1 Zhang,Hongyu
+A1 Zhao,Qi
+A1 Zheng,Liansheng
+A1 Zhong,Fei
+A1 Zhong,Wenyan
+A1 Zhu,Shiaoping,C.
+A1 Zhao,Shaying
+A1 Gilbert,Dennis
+A1 Baumhueter,Suzanna
+A1 Spier,Gene
+A1 Carter,Christine
+A1 Cravchik,Anibal
+A1 Woodage,Trevor
+A1 Ali,Feroze
+A1 An,Huijin
+A1 Awe,Aderonke
+A1 Baldwin,Danita
+A1 Baden,Holly
+A1 Barnstead,Mary
+A1 Barrow,Ian
+A1 Beeson,Karen
+A1 Busam,Dana
+A1 Carver,Amy
+A1 Cheng,Ming,Lai
+A1 Curry,Liz
+A1 Danaher,Steve
+A1 Davenport,Lionel
+A1 Desilets,Raymond
+A1 Dietz,Susanne
+A1 Dodson,Kristina
+A1 Doup,Lisa
+A1 Ferriera,Steven
+A1 Garg,Neha
+A1 Gluecksmann,Andres
+A1 Hart,Brit
+A1 Haynes,Jason
+A1 Haynes,Charles
+A1 Heiner,Cheryl
+A1 Hladun,Suzanne
+A1 Hostin,Damon
+A1 Houck,Jarrett
+A1 Howland,Timothy
+A1 Ibegwam,Chinyere
+A1 Johnson,Jeffery
+A1 Kalush,Francis
+A1 Kline,Lesley
+A1 Koduru,Shashi
+A1 Love,Amy
+A1 Mann,Felecia
+A1 May,David
+A1 McCawley,Steven
+A1 McIntosh,Tina
+A1 McMullen,Ivy
+A1 Moy,Mee
+A1 Moy,Linda
+A1 Murphy,Brian
+A1 Nelson,Keith
+A1 Pfannkoch,Cynthia
+A1 Pratts,Eric
+A1 Puri,Vinita
+A1 Qureshi,Hina
+A1 Reardon,Matthew
+A1 Rodriguez,Robert
+A1 Rogers,Yu-Hui
+A1 Romblad,Deanna
+A1 Ruhfel,Bob
+A1 Scott,Richard
+A1 Sitter,Cynthia
+A1 Smallwood,Michelle
+A1 Stewart,Erin
+A1 Strong,Renee
+A1 Suh,Ellen
+A1 Thomas,Reginald
+A1 Tint,Ni,Ni
+A1 Tse,Sukyee
+A1 Vech,Claire
+A1 Wang,Gary
+A1 Wetter,Jeremy
+A1 Williams,Sherita
+A1 Williams,Monica
+A1 Windsor,Sandra
+A1 Winn-Deen,Emily
+A1 Wolfe,Keriellen
+A1 Zaveri,Jayshree
+A1 Zaveri,Karena
+A1 Abril,Josep,F.
+A1 Guigo,Roderic
+A1 Campbell,Michael,J.
+A1 Sjolander,Kimmen,V.
+A1 Karlak,Brian
+A1 Kejariwal,Anish
+A1 Mi,Huaiyu
+A1 Lazareva,Betty
+A1 Hatton,Thomas
+A1 Narechania,Apurva
+A1 Diemer,Karen
+A1 Muruganujan,Anushya
+A1 Guo,Nan
+A1 Sato,Shinji
+A1 Bafna,Vineet
+A1 Istrail,Sorin
+A1 Lippert,Ross
+A1 Schwartz,Russell
+A1 Walenz,Brian
+A1 Yooseph,Shibu
+A1 Allen,David
+A1 Basu,Anand
+A1 Baxendale,James
+A1 Blick,Louis
+A1 Caminha,Marcelo
+A1 Carnes-Stine,John
+A1 Caulk,Parris
+A1 Chiang,Yen-Hui
+A1 Dahlke,Carl
+A1 Mays,Anne,Deslattes
+A1 Dombroski,Maria
+A1 Donnelly,Michael
+A1 Ely,Dale
+A1 Esparham,Shiva
+A1 Fosler,Carl
+A1 Gire,Harold
+A1 Glanowski,Stephen
+A1 Glasser,Kenneth
+A1 Glodek,Anna
+A1 Gorokhov,Mark
+A1 Graham,Ken
+A1 Gropman,Barry
+A1 Harris,Michael
+A1 Heil,Jeremy
+A1 Henderson,Scott
+A1 Hoover,Jeffrey
+A1 Jennings,Donald
+A1 Kasha,John
+A1 Kagan,Leonid
+A1 Kraft,Cheryl
+A1 Levitsky,Alexander
+A1 Lewis,Mark
+A1 Liu,Xiangjun
+A1 Lopez,John
+A1 Ma,Daniel
+A1 Majoros,William
+A1 McDaniel,Joe
+A1 Murphy,Sean
+A1 Newman,Matthew
+A1 Nguyen,Trung
+A1 Nguyen,Ngoc
+A1 Nodell,Marc
+A1 Pan,Sue
+A1 Peck,Jim
+A1 Peterson,Marshall
+A1 Rowe,William
+A1 Sanders,Robert
+A1 Scott,John
+A1 Simpson,Michael
+A1 Smith,Thomas
+A1 Sprague,Arlan
+A1 Stockwell,Timothy
+A1 Turner,Russell
+A1 Venter,Eli
+A1 Wang,Mei
+A1 Wen,Meiyuan
+A1 Wu,David
+A1 Wu,Mitchell
+A1 Xia,Ashley
+A1 Zandieh,Ali
+A1 Zhu,Xiaohong
+YR 2001
+T1 The Sequence of the Human Genome
+JF Science
+VO 291
+SP 1304
+OP 1351
+IS 5507
+
+RT Journal Article
+ID 145519
+A1 Ermolaeva,Maria,D.
+A1 White,Owen
+A1 Salzberg,Steven,L.
+YR 2001
+T1 Prediction of operons in microbial genomes
+JF Nucleic Acids Research
+VO 29
+SP 1216
+OP 1221
+IS 5
+
+RT Journal Article
+ID 124246
+A1 Pertea,Mihaela
+A1 Lin,Xiaoying
+A1 Salzberg,Steven,L.
+YR 2001
+T1 GeneSplicer: a new computational method for splice site prediction
+JF Nucleic Acids Research
+VO 29
+SP 1185
+OP 1190
+IS 5
+
+RT Journal Article
+ID 14039458
+A1 Salzberg,Steven,L.
+A1 White,Owen
+A1 Peterson,Jeremy
+A1 Eisen,Jonathan,A.
+YR 2001
+T1 Microbial Genes in the Human Genome: Lateral Transfer or Gene Loss?
+JF Science
+VO 292
+SP 1903
+OP 1906
+IS 5523
+
+RT Journal Article
+ID 842881
+A1 Suzek,Baris,E.
+A1 Ermolaeva,Maria,D.
+A1 Schreiber,Mark
+A1 Salzberg,Steven
+YR 2001
+T1 A probabilistic method for identifying start codons in bacterial genomes
+JF Bioinformatics/computer Applications in The Biosciences
+VO 17
+SP 1123
+OP 1130
+IS 12
+
+RT Journal Article
+ID 2549568
+A1 Volfovsky,Natalia
+A1 Haas,Brian,J
+A1 Salzberg,Steven,L
+YR 2001
+T1 A clustering method for repeat analysis in DNA sequences
+JF Genome Biology
+VO 2
+OP 11
+IS 8
+
+RT Journal Article
+ID 39166601
+A1 Veitia,Reiner
+A1 Salzberg,SL
+A1 White,O
+A1 Peterson,S
+A1 Eisen,J
+YR 2001
+T1 Further resolution of gene transfer issues
+JF Science
+VO 292
+SP 1903
+IS 8
+
+RT Journal Article
+ID 55061666
+A1 Salzberg,Steven,L.
+A1 White,Owen
+A1 Peterson,Jeremy
+A1 Eisen,Jonathan,A.
+YR 2001
+T1 Microbial Genes in the Human Genome: Lateral Transfer or Gene Loss?
+JF Science
+VO 292
+SP 1903
+OP 1906
+
+RT Journal Article
+ID 57590638
+A1 Saunders,David
+A1 Kirby,Jo
+YR 2001
+T1 A comparison of light‐accelerated ageing regimes in some galleries and museums
+VO 25
+SP 95
+OP 104
+IS 1
+
+RT Journal Article
+ID 50249560
+A1 Lefebvre,D.
+A1 Chevrel,P.
+A1 Richard,S.
+YR 2001
+T1 A Hinfinity-based control design methodology dedicated to active control of vehicle longitudinal oscillations
+
+RT Journal Article
+ID 37535510
+A1 Salzberg,Steven,L.
+YR 2001
+T1 Book Review:Computational Molecular Biology: An Algorithmic Approach Pavel A. Pevzner
+JF Quarterly Review of Biology
+VO 76
+SP 485
+IS 4
+
+RT Journal Article
+ID 131643
+A1 Liang,Feng
+A1 Holt,Ingeborg
+A1 Pertea,Geo
+A1 Karamycheva,Svetlana
+A1 Salzberg,Steven,L.
+A1 Quackenbush,John
+YR 2000
+T1 An optimized protocol for analysis of EST sequences
+JF Nucleic Acids Research
+VO 28
+SP 3657
+OP 3665
+IS 18
+
+RT Journal Article
+ID 183370
+A1 Eisen,Jonathan,A.
+A1 Heidelberg,John,F.
+A1 White,Owen
+A1 Salzberg,Steven,L.
+YR 2000
+T1 Evidence for symmetric chromosomal inversions around the replication origin in bacteria
+JF Genome Biology
+VO 1
+OP 9
+IS 6
+
+RT Journal Article
+ID 2355630
+A1 Ermolaeva,Maria,D.
+A1 Khalak,Hanif,G.
+A1 White,Owen
+A1 Smith,Hamilton,O.
+A1 Salzberg,Steven,L.
+YR 2000
+T1 Prediction of transcription terminators in bacterial genomes1
+JF Journal of Molecular Biology
+VO 301
+SP 27
+OP 33
+IS 1
+
+RT Journal Article
+ID 43011896
+A1 O'Sullivan,Paul,B.
+A1 Gibson,David,L.
+A1 Kohn,Barry,P.
+A1 Pillans,Brad
+A1 Pain,Colin,F.
+YR 2000
+T1 Long‐Term Landscape Evolution of the Northparkes Region of the Lachlan Fold Belt, Australia: Constraints from Fission Track and Paleomagnetic Data
+JF Journal of Geology
+VO 108
+SP 1
+OP 16
+IS 1
+
+RT Journal Article
+ID 42286899
+A1 Mackey,T.
+A1 Lawrie,K.
+A1 Wilkes,P.
+A1 Munday,T.
+A1 Kovacs,N.
+A1 Chan,R.
+A1 Gibson,D.
+A1 Chartres,C.
+A1 Evans,R.
+YR 2000
+T1 Palaeochannels near West Wyalong, New South Wales: a case study in delineation and modelling using aeromagnetics
+JF Exploration Geophysics
+VO 31
+SP 1
+IS 2
+
+RT Journal Article
+ID 14886133
+A1 Heidelberg,John,F.
+A1 Eisen,Jonathan,A.
+A1 Nelson,William,C.
+A1 Clayton,Rebecca,A.
+A1 Gwinn,Michelle,L.
+A1 Dodson,Robert,J.
+A1 Haft,Daniel,H.
+A1 Hickey,Erin,K.
+A1 Peterson,Jeremy,D.
+A1 Umayam,Lowell
+A1 Gill,Steven,R.
+A1 Nelson,Karen,E.
+A1 Read,Timothy,D.
+A1 Tettelin,Hervé
+A1 Richardson,Delwood
+A1 Ermolaeva,Maria,D.
+A1 Vamathevan,Jessica
+A1 Bass,Steven
+A1 Qin,Haiying
+A1 Dragoi,Ioana
+A1 Sellers,Patrick
+A1 McDonald,Lisa
+A1 Utterback,Teresa
+A1 Fleishmann,Robert,D.
+A1 Nierman,William,C.
+A1 White,Owen
+A1 Salzberg,Steven,L.
+A1 Smith,Hamilton,O.
+A1 Colwell,Rita,R.
+A1 Mekalanos,John,J.
+A1 Venter,J.,Craig
+A1 Fraser,Claire,M.
+YR 2000
+T1 DNA sequence of both chromosomes of the cholera pathogen Vibrio cholerae
+JF Nature
+VO 406
+SP 477
+OP 483
+IS 6795
+
+RT Journal Article
+ID 2371720
+A1 Liang,F.
+A1 Holt,I.
+A1 Pertea,G.
+A1 Karamycheva,S.
+A1 Salzberg,S.,L.
+A1 Quackenbush,J.
+YR 2000
+T1 Gene Index Analysis of the Human Genome Estimates Approximately 120
+
+RT Journal Article
+ID 56594274
+A1 Liang,Feng
+A1 Holt,Ingeborg
+A1 Pertea,Geo
+A1 Karamycheva,Svetlana
+A1 Salzberg,Steven,L.
+A1 Quackenbush,John
+YR 2000
+T1 Gene Index analysis of the human genome estimates approximately 120,000 genes
+JF Nature Genetics
+VO 25
+SP 239
+OP 240
+IS 2
+
+RT Journal Article
+ID 14887293
+A1 Palm,Curtis,J.
+A1 Federspiel,Nancy,A.
+A1 Kaul,Samir
+A1 White,Owen
+A1 Alonso,Jose
+A1 Altafi,Hootan
+A1 Araujo,Rina
+A1 Bowman,Cheryl,L.
+A1 Brooks,Shelise,Y.
+A1 Buehler,Eugen
+A1 Chan,April
+A1 Chao,Qimin
+A1 Chen,Huaming
+A1 Cheuk,Rosa,F.
+A1 Chin,Christina,W.
+A1 Chung,Mike,K.
+A1 Conway,Aaron,B.
+A1 Conway,Andrew,R.
+A1 Creasy,Todd,H.
+A1 Dewar,Ken
+A1 Dunn,Patrick
+A1 Etgu,Pelin
+A1 Feldblyum,Tamara,V.
+A1 Feng,JiDong
+A1 Fong,Betty
+A1 Fujii,Claire,Y.
+A1 Gill,John,E.
+A1 Goldsmith,Andrew,D.
+A1 Haas,Brian
+A1 Hansen,Nancy,F.
+A1 Hughes,Beth
+A1 Huizar,Lucas
+A1 Hunter,Jonathan,L.
+A1 Jenkins,Jennifer
+A1 Johnson-Hopson,Chanda
+A1 Khan,Shehnaz
+A1 Khaykin,Elizabeth
+A1 Kim,Christopher,J.
+A1 Koo,Hean,L.
+A1 Kremenetskaia,Irina
+A1 Kurtz,David,B.
+A1 Kwan,Andrea
+A1 Lam,Bao
+A1 Langin-Hooper,Stephanie
+A1 Lee,Andrew
+A1 Lee,Jeong,M.
+A1 Lenz,Catherine,A.
+A1 Li,Joycelyn.,H.
+A1 Li,YaPing
+A1 Lin,Xiaoying
+A1 Liu,Shirley,X.
+A1 Liu,Zhaoying,A.
+A1 Luros,Jason,S.
+A1 Maiti,Rama
+A1 Marziali,Andre
+A1 Militscher,Jennifer
+A1 Miranda,Molly
+A1 Nguyen,Michelle
+A1 Nierman,William,C.
+A1 Osborne,Brian,I.
+A1 Pai,Grace
+A1 Peterson,Jeremy
+A1 Pham,Paul,K.
+A1 Rizzo,Michael
+A1 Rooney,Timothy
+A1 Rowley,Don
+A1 Sakano,Hitomi
+A1 Salzberg,Steven,L.
+A1 Schwartz,Jody,R.
+A1 Shinn,Paul
+A1 Southwick,Audrey,M.
+A1 Sun,Hui
+A1 Tallon,Luke,J.
+A1 Tambunga,Gabriel
+A1 Toriumi,Mitsue,J.
+A1 Town,Christopher,D.
+A1 Utterback,Teresa
+A1 Aken,Susan,Van
+A1 Vaysberg,Maria
+A1 Vysotskaia,Valentina,S.
+A1 Walker,Michelle
+A1 Wu,Dongying
+A1 Yu,Guixia
+A1 Fraser,Claire,M.
+A1 Venter,J.,Craig
+A1 Davis,Ronald,W.
+A1 Theologis,Athanasios
+A1 Ecker,Joseph,R.
+YR 2000
+T1 Sequence and analysis of chromosome 1 of the plant Arabidopsis thaliana
+JF Nature
+VO 408
+SP 816
+OP 820
+IS 6814
+
+RT Journal Article
+ID 23199906
+A1 Barbier-Baudry,D
+A1 Bouazza,A
+A1 Desmurs,J.,R
+A1 Dormond,A
+A1 Richard,S
+YR 2000
+T1 Uranium IV and uranyle salts, efficient and reusable catalysts for acylation of aromatic compounds
+JF Journal of Molecular Catalysis A-chemical
+VO 164
+SP 195
+OP 204
+IS 1
+
+RT Conference Proceedings
+ID 50195367
+A1 Chen,Erli
+A1 Saunders,D.
+YR 2000
+T1 Junction edge instability in simple spin valve recording heads
+
+RT Journal Article
+ID 43011944
+A1 O'Sullivan,Paul,B.
+A1 Pillans,Brad
+A1 Gibson,David,L.
+A1 Kohn,Barry,P.
+A1 Pain,Colin,F.
+YR 2000
+T1 Long‐Term Landscape Evolution of the Northparkes Region of the Lachlan Fold Belt, Australia: Constraints from Fission Track and Paleomagnetic Data: A Reply
+JF Journal of Geology
+VO 108
+SP 750
+OP 752
+IS 6
+
+RT Journal Article
+ID 14886268
+A1 Fraser,Claire,M.
+A1 Eisen,Jonathan,A.
+A1 Salzberg,Steven,L.
+YR 2000
+T1 Microbial genome sequencing
+JF Nature
+VO 406
+SP 799
+OP 803
+IS 6797
+
+RT Journal Article
+ID 54285095
+A1 Heidelberg,John,F.
+A1 Eisen,Jonathan,A.
+A1 Nelson,William,C.
+A1 Clayton,Rebecca,A.
+A1 Gwinn,Michelle,L.
+A1 Dodson,Robert,J.
+A1 Haft,Daniel,H.
+A1 Hickey,Erin,K.
+A1 Peterson,Jeremy,D.
+A1 Umayam,Lowell
+A1 Gill,Steven,R.
+A1 Nelson,Karen,E.
+A1 Read,Timothy,D.
+A1 Tettelin,Hervé
+A1 Richardson,Delwood
+A1 Ermolaeva,Maria,D.
+A1 Vamathevan,Jessica
+A1 Bass,Steven
+A1 Qin,Haiying
+A1 Dragoi,Ioana
+A1 Sellers,Patrick
+A1 McDonald,Lisa
+A1 Utterback,Teresa
+A1 Fleishmann,Robert,D.
+A1 Nierman,William,C.
+A1 White,Owen
+A1 Salzberg,Steven,L.
+A1 Smith,Hamilton,O.
+A1 Colwell,Rita,R.
+A1 Mekalanos,John,J.
+A1 Venter,J.,Craig
+A1 Fraser,Claire,M.
+YR 2000
+T1 DNA sequence of both chromosomes of the cholera pathogen Vibrio cholerae
+JF Nature
+VO 406
+SP 477
+OP 483
+
+RT Journal Article
+ID 49084090
+A1 Ermolaeva,Maria,D.
+A1 Khalak,Hanif,G.
+A1 White,Owen
+A1 Smith,Hamilton,O.
+A1 Salzberg,Steven,L.
+YR 2000
+T1 Prediction of transcription terminators in bacterial genomes 1 1 Edited by F. E. Cohen
+JF Journal of Molecular Biology
+VO 301
+SP 27
+OP 33
+IS 1
+
+RT Conference Proceedings
+ID 50195369
+A1 Zhong,Lieping
+A1 Saunders,D.
+A1 Giusti,J.
+A1 Fernandez-de-Castro,J.
+YR 2000
+T1 Microtrack baseline instability of spin valve heads
+
+RT Journal Article
+ID 52765878
+A1 O'Sullivan,Paul,B.
+A1 Pillans,Brad
+A1 Gibson,David,L.
+A1 Kohn,Barry,P.
+A1 Pain,Colin,F.
+YR 2000
+T1 Long-Term Landscape Evolution of the Northparkes Region of the Lachlan Fold Belt, Australia: Constraints from Fission Track and Paleomagnetic Data: A Reply
+
+RT Journal Article
+ID 55660044
+A1 O'Sullivan,Paul,B.
+A1 Gibson,David,L.
+A1 Kohn,Barry,P.
+A1 Pillans,Brad
+A1 Pain,Colin,F.
+YR 2000
+T1 Long-Term Landscape Evolution of the Northparkes Region of the Lachlan Fold Belt, Australia: Constraints from Fission Track and Paleomagnetic Data
+
+RT Journal Article
+ID 14884835
+A1 Pertea,Mihaela
+A1 Gardner,Malcolm,J.
+A1 Salzberg,Steven,L.
+YR 2000
+T1 BioinformaticsFinding genes in Plasmodium falciparum
+JF Nature
+VO 404
+SP 34
+OP 34
+IS 6773
+
+RT Journal Article
+ID 54129107
+A1 Pertea,Mihaela
+A1 Salzberg,Steven,L.
+A1 Gardner,Malcolm,J.
+YR 2000
+T1 Bioinformatics: Finding genes in Plasmodium falciparum
+JF Nature
+VO 404
+SP 34
+
+RT Journal Article
+ID 59941283
+A1 Saunders,David
+YR 2000
+T1 David Saunders - P. A. Zaionchkovskii: High Society Subversive - Kritika: Explorations in Russian and Eurasian History 1:1
+
+RT Journal Article
+ID 144253
+A1 Delcher,Arthur,L.
+A1 Kasif,Simon
+A1 Fleischmann,Robert,D.
+A1 Peterson,Jeremy
+A1 White,Owen
+A1 Salzberg,Steven,L.
+YR 1999
+T1 Alignment of whole genomes
+JF Nucleic Acids Research
+VO 27
+SP 2369
+OP 2376
+IS 11
+
+RT Journal Article
+ID 63000
+A1 Delcher,Arthur,L.
+A1 Harmon,Douglas
+A1 White,O,wen
+A1 Salzberg,Steven,L.
+YR 1999
+T1 Improved microbial gene identification with GLIMMER
+JF Nucleic Acids Research
+VO 27
+SP 4636
+OP 4641
+IS 23
+
+RT Journal Article
+ID 1994631
+A1 Nelson,Karen,E.
+A1 Clayton,Rebecca,A.
+A1 Gill,Steven,R.
+A1 Gwinn,Michelle,L.
+A1 Dodson,Robert,J.
+A1 Haft,Daniel,H.
+A1 Hickey,Erin,K.
+A1 Peterson,Jeremy,D.
+A1 Nelson,William,C.
+A1 Ketchum,Karen,A.
+A1 McDonald,Lisa
+A1 Utterback,Teresa,R.
+A1 Malek,Joel,A.
+A1 Linher,Katja,D.
+A1 Garrett,Mina,M.
+A1 Stewart,Ashley,M.
+A1 Cotton,Matthew,D.
+A1 Pratt,Matthew,S.
+A1 Phillips,Cheryl,A.
+A1 Richardson,Delwood
+A1 Heidelberg,John
+A1 Sutton,Granger,G.
+A1 Fleischmann,Robert,D.
+A1 Eisen,Jonathan,A.
+A1 White,Owen
+A1 Salzberg,Steven,L.
+A1 Smith,Hamilton,O.
+A1 Venter,J.,Craig
+A1 Fraser,Claire,M.
+YR 1999
+T1 Evidence for lateral gene transfer between Archaea and Bacteria from genome sequence of Thermotoga maritima
+JF Nature
+
+RT Journal Article
+ID 1994625
+A1 Lin,Xiaoying
+A1 Kaul,Samir
+A1 Rounsley,Steve
+A1 Shea,Terrance,P.
+A1 Benito,Maria-Ines
+A1 Town,Christopher,D.
+A1 Fujii,Claire,Y.
+A1 Mason,Tanya
+A1 Bowman,Cheryl,L.
+A1 Barnstead,Mary
+A1 Feldblyum,Tamara,V.
+A1 Buell,C.,Robin
+A1 Ketchum,Karen,A.
+A1 Lee,John
+A1 Ronning,Catherine,M.
+A1 Koo,Hean,L.
+A1 Moffat,Kelly,S.
+A1 Cronin,Lisa,A.
+A1 Shen,Mian
+A1 Pai,Grace
+A1 Aken,Susan,Van
+A1 Umayam,Lowell
+A1 Tallon,Luke,J.
+A1 Gill,John,E.
+A1 Adams,Mark,D.
+A1 Carrera,Ana,J.
+A1 Creasy,Todd,H.
+A1 Goodman,Howard,M.
+A1 Somerville,Chris,R.
+A1 Copenhaver,Greg,P.
+A1 Preuss,Daphne
+A1 Nierman,William,C.
+A1 White,Owen
+A1 Eisen,Jonathan,A.
+A1 Salzberg,Steven,L.
+A1 Fraser,Claire,M.
+A1 Venter,J.,Craig
+YR 1999
+T1 Sequence and analysis of chromosome 2 of the plant Arabidopsis thaliana
+JF Nature
+
+RT Journal Article
+ID 3265711
+A1 Salzberg,Steven,L.
+A1 Pertea,Mihaela
+A1 Delcher,Arthur,L.
+A1 Gardner,Malcolm,J.
+A1 Tettelin,Hervé
+YR 1999
+T1 Interpolated Markov Models for Eukaryotic Gene Finding
+JF Genomics
+VO 59
+SP 24
+OP 31
+IS 1
+
+RT Journal Article
+ID 4645852
+A1 Tettelin,Hervé
+A1 Radune,Diana
+A1 Kasif,Simon
+A1 Khouri,Hoda
+A1 Salzberg,Steven,L.
+YR 1999
+T1 Optimized Multiplex PCR: Efficiently Closing a Whole-Genome Shotgun Sequencing Project
+JF Genomics
+VO 62
+SP 500
+OP 507
+IS 3
+
+RT Journal Article
+ID 2041679
+A1 Reuther,Jj
+A1 Jameson,A
+A1 Alonso,Jj
+A1 Rimlinger,Mj
+A1 Saunders,D
+YR 1999
+T1 Constrained multipoint aerodynamic shape optimization using an adjoint formulation and parallel computers
+
+RT Journal Article
+ID 328104
+A1 Salzberg,Steven,L.
+YR 1999
+T1 On Comparing Classifiers: A Critique of Current Research and Methods
+JF Data Mining and Knowledge Discovery
+
+RT Journal Article
+ID 35211563
+A1 Smith,Hamilton,O
+A1 Gwinn,Michelle,L
+A1 Salzberg,Steven,L
+YR 1999
+T1 DNA uptake signal sequences in naturally transformable bacteria
+JF Research in Microbiology
+VO 150
+SP 603
+OP 616
+IS 9
+
+RT Conference Proceedings
+ID 50176381
+A1 Richard,S.
+A1 Chevrel,P.
+A1 Maillard,B.
+YR 1999
+T1 Active control of future vehicles drivelines
+VO 4
+SP 3752
+
+RT Journal Article
+ID 3577500
+A1 Tettelin,H.
+A1 Radune,D.
+A1 Kasif,S.
+A1 Khouri,H.
+A1 Salzberg,S.
+YR 1999
+T1 Pipette Optimal Multiplexed PCR: E ciently Closing Whole Genome Shotgun Sequencing Project
+
+RT Journal Article
+ID 42452381
+A1 Spry,M.,J.
+A1 Gibson,D.,L.
+A1 Eggleton,R.,A.
+YR 1999
+T1 Tertiary evolution of the coastal lowlands and the Clyde River palaeovalley in southeast New South Wales
+JF Australian Journal of Earth Sciences
+VO 46
+SP 173
+OP 180
+IS 2
+
+RT Journal Article
+ID 975671
+A1 Salzberg,S.,L.
+YR 1999
+T1 Gene discovery in DNA sequences
+JF IEEE Intelligent Systems & Their Applications
+VO 14
+SP 44
+OP 48
+IS 6
+
+RT Journal Article
+ID 52322898
+A1 Spry,M.,J.
+A1 Gibson,D.,L.
+A1 Eggleton,R.,A.
+YR 1999
+T1 Tertiary evolution of the coastal lowlands and the Clyde River palaeovalley in southeast New South Wales
+
+RT Journal Article
+ID 341710
+A1 Salzberg,Steven,L.
+A1 Delcher,Arthur,L.
+A1 Kasif,Simon
+A1 White,Owen
+YR 1998
+T1 Microbial gene identification using interpolated Markov models
+JF Nucleic Acids Research
+VO 26
+SP 544
+OP 548
+IS 2
+
+RT Journal Article
+ID 10492407
+A1 Gardner,Malcolm,J.
+A1 Tettelin,Herve
+A1 Carucci,Daniel,J.
+A1 Cummings,Leda,M.
+A1 Aravind,L.
+A1 Koonin,Eugene,V.
+A1 Shallom,Shamira
+A1 Mason,Tanya
+A1 Yu,Kelly
+A1 Fujii,Claire
+A1 Pederson,James
+A1 Shen,Kun
+A1 Jing,Junping
+A1 Aston,Christopher
+A1 Lai,Zhongwu
+A1 Schwartz,David,C.
+A1 Salzberg,Steven
+A1 Zhou,Lixin
+A1 Sutton,Granger,G.
+A1 Clayton,Rebecca
+A1 White,Owen
+A1 Smith,Hamilton,O.
+A1 Fraser,Claire,M.
+A1 Adams,Mark,D.
+A1 Venter,J.,Craig
+A1 Hoffman,Stephen,L.
+YR 1998
+T1 Chromosome 2 Sequence of the Human Malaria Parasite Plasmodium
+JF Science
+VO 282
+SP 1126
+OP 1132
+IS 5391
+
+RT Journal Article
+ID 185305
+A1 Salzberg,Steven,L.
+A1 Salzberg,Alan,J.
+A1 Kerlavage,Anthony,R.
+A1 Tomb,Jean-Francois
+YR 1998
+T1 Skewed oligomers and origins of replication
+JF Gene
+VO 217
+SP 57
+OP 67
+IS 1
+
+RT Journal Article
+ID 736861
+A1 Salzberg,Steven
+A1 Delcher,Arthur,L.
+A1 Fasman,Kenneth,H.
+A1 Henderson,John
+YR 1998
+T1 A Decision Tree System for Finding Genes in DNA
+JF Journal of Computational Biology
+VO 5
+SP 667
+OP 680
+IS 4
+
+RT Journal Article
+ID 2039439
+A1 Salzberg,S.
+A1 Searls,D.
+A1 Kasif,S.
+YR 1998
+T1 Computational Methods in Molecular Biology
+
+RT Journal Article
+ID 346433
+A1 Kasif,Simon
+A1 Salzberg,Steven
+A1 Waltz,David,L.
+A1 Rachlin,John
+A1 Aha,David,W.
+YR 1998
+T1 A Probabilistic Framework for Memory-Based Reasoning
+JF Artificial Intelligence
+VO 104
+SP 287
+OP 311
+IS 1-2
+
+RT Journal Article
+ID 3476516
+A1 Douglas,M.
+A1 Nicolini,M.
+A1 Saulo,C.
+YR 1998
+T1 Observational evi-dences of a low level jet east of the Andes during January-March 1998
+
+RT Journal Article
+ID 44500503
+A1 Douglas,Michael,W.
+A1 Valdez-Manzanilla,Arturo
+A1 Cueto,Rafael,Garcia
+YR 1998
+T1 Diurnal Variation and Horizontal Extent of the Low-Level Jet over the Northern Gulf of California
+JF Monthly Weather Review
+VO 126
+SP 2017
+IS 7
+
+RT Journal Article
+ID 2392328
+A1 Reuther,J.,J.
+A1 Jameson,A.
+A1 Alonso,J.,J.
+A1 Rimlinger,M.
+A1 Saunders,D.
+YR 1998
+T1 Constrained multipoint aerodynamic shape optimization us-ing an adjoint formulation and parallel computers: Part I
+
+RT Journal Article
+ID 4005808
+A1 Kasif,S.
+A1 Salzberg,S.
+A1 Waltz,D.
+A1 Rachlin,J.
+A1 Aha,D.
+YR 1998
+T1 Towards a Probabilistic Framework for Memory-Based Reasoning
+JF Artificial Intelligence
+
+RT Journal Article
+ID 55588766
+A1 Fraser,Claire,M.
+A1 Norris,Steven,J.
+A1 Weinstock,George,M.
+A1 White,Owen
+A1 Sutton,Granger,G.
+A1 Dodson,Robert
+A1 Gwinn,Michelle
+A1 Hickey,Erin,K.
+A1 Clayton,Rebecca
+A1 Ketchum,Karen,A.
+A1 Sodergren,Erica
+A1 Hardham,John,M.
+A1 McLeod,Michael,P.
+A1 Salzberg,Steven
+A1 Peterson,Jeremy
+A1 Khalak,Hanif
+A1 Richardson,Delwood
+A1 Howell,Jerrilyn,K.
+A1 Chidambaram,Monjula
+A1 Utterback,Teresa
+A1 McDonald,Lisa
+A1 Artiach,Patricia
+A1 Bowman,Cheryl
+A1 Cotton,Matthew,D.
+A1 Fujii,Claire
+A1 Garland,Stacey
+A1 Hatch,Bonnie
+A1 Horst,Kurt
+A1 Roberts,Kevin
+A1 Sandusky,Mina
+A1 Weidman,Janice
+A1 Smith,Hamilton,O.
+A1 Venter,J.,Craig
+YR 1998
+T1 Complete Genome Sequence of Treponema pallidum, the Syphilis Spirochete
+JF Science
+VO 281
+SP 375
+
+RT Conference Proceedings
+ID 50133421
+A1 Saunders,D.
+A1 Madsen,T.
+A1 Machelski,R.
+A1 Roe,M.
+A1 Curland,N.
+A1 Bonyhard,P.
+YR 1998
+T1 Empirical Determination of Areal Density Capability
+
+RT Journal Article
+ID 52786890
+A1 Douglas,Michael,W.
+A1 Valdez-Manzanilla,Arturo
+A1 Cueto,Rafael,Garcia
+YR 1998
+T1 Diurnal Variation and Horizontal Extent of the Low-Level Jet over the Northern Gulf of California
+JF Monthly Weather Review
+VO 126
+SP 2017
+
+RT Book, Whole
+ID 49054260
+A1 Fasman,Kenneth,H.
+A1 Salzberg,Steven,L.
+YR 1998
+T1 Chapter 3 An introduction to biological sequence analysis
+JF New Comprehensive Biochemistry
+VO 32
+SP 29
+OP 42
+
+RT Book, Whole
+ID 49054259
+A1 Salzberg,Steven,L.
+YR 1998
+T1 Chapter 2 A tutorial introduction to computation for biologists
+JF New Comprehensive Biochemistry
+VO 32
+SP 11
+OP 27
+
+RT Book, Whole
+ID 49054267
+A1 Salzberg,Steven,L.
+YR 1998
+T1 Chapter 10 Decision trees and Markov chains for gene finding
+JF New Comprehensive Biochemistry
+VO 32
+SP 187
+OP 203
+
+RT Journal Article
+ID 2032999
+A1 Overpeck,J.
+A1 Hughen,K.
+A1 Hardy,D.
+A1 Bradley,R.
+A1 Case,R.
+A1 Douglas,M.
+A1 Finney,B.
+A1 Gajewski,K.
+A1 Jacoby,G.
+A1 Jennings,A.
+A1 Lamoureux,S.
+A1 Lasca,A.
+A1 MacDonald,G.
+A1 Moore,J.
+A1 Retelle,M.
+A1 Smith,S.
+A1 Wolfe,A.
+A1 Zielinski,G.
+YR 1997
+T1 Arctic Environmental Change of the Last Four Centuries
+JF Science
+VO 278
+SP 1251
+OP 1256
+IS 5341
+
+RT Journal Article
+ID 369718
+A1 Salzberg,Steven
+YR 1997
+T1 On Comparing Classifiers: Pitfalls to Avoid and a Recommended Approach
+JF Data Mining and Knowledge Discovery
+VO 1
+SP 317
+OP 328
+IS 3
+
+RT Journal Article
+ID 349191
+A1 Salzberg,Steven,L.
+YR 1997
+T1 A method for identifying splice sites and translational start sites in eukaryotic mRNA
+JF Bioinformatics/computer Applications in The Biosciences
+VO 13
+SP 365
+OP 376
+IS 4
+
+RT Journal Article
+ID 456
+A1 Henderson,John
+A1 Salzberg,Steven
+A1 Fasman,Kenneth,H.
+YR 1997
+T1 Finding Genes in DNA with a Hidden Markov Model
+JF Journal of Computational Biology
+VO 4
+SP 127
+OP 142
+IS 2
+
+RT Journal Article
+ID 363188
+A1 Sheppard,John,W.
+A1 Salzberg,Steven
+YR 1997
+T1 A Teaching Strategy for Memory-Based Control
+JF Artificial Intelligence Review
+VO 11
+SP 343
+OP 370
+IS 1-5
+
+RT Journal Article
+ID 4611685
+A1 S,Richard
+A1 Wan,Marlene
+A1 Laramie,Peggy
+A1 Parks,Thomas,M.
+A1 Lee,Edward,A.
+YR 1997
+T1 Implementation of Process Networks in Java
+
+RT Journal Article
+ID 15276979
+A1 Salzberg,Steven,L.
+A1 Fayyad,Usama
+YR 1997
+T1 On Comparing Classifiers: Pitfalls to Avoid and a Recommended Approach
+JF Data Mining and Knowledge Discovery
+VO 1
+SP 317
+OP 328
+IS 3
+
+RT Journal Article
+ID 14878235
+A1 Fraser,Claire,M.
+A1 Casjens,Sherwood
+A1 Huang,Wai,Mun
+A1 Sutton,Granger,G.
+A1 Clayton,Rebecca
+A1 Lathigra,Raju
+A1 White,Owen
+A1 Ketchum,Karen,A.
+A1 Dodson,Robert
+A1 Hickey,Erin,K.
+A1 Gwinn,Michelle
+A1 Dougherty,Brian
+A1 Tomb,Jean-Francois
+A1 Fleischmann,Robert,D.
+A1 Richardson,Delwood
+A1 Peterson,Jeremy
+A1 Kerlavage,Anthony,R.
+A1 Quackenbush,John
+A1 Salzberg,Steven
+A1 Hanson,Mark
+A1 Vugt,Rene,van
+A1 Palmer,Nanette
+A1 Adams,Mark,D.
+A1 Gocayne,Jeannine
+A1 Weidman,Janice
+A1 Utterback,Teresa
+A1 Watthey,Larry
+A1 McDonald,Lisa
+A1 Artiach,Patricia
+A1 Bowman,Cheryl
+A1 Garland,Stacey
+A1 Fujii,Claire
+A1 Cotton,Matthew,D.
+A1 Horst,Kurt
+A1 Roberts,Kevin
+A1 Hatch,Bonnie
+A1 Smith,Hamilton,O.
+A1 Venter,J.,Craig
+YR 1997
+T1 Genomic sequence of a Lyme disease spirochaete, Borrelia burgdorferi
+JF Nature
+VO 390
+SP 580
+OP 586
+IS 6660
+
+RT Journal Article
+ID 846356
+A1 Arkin,Esther,M.
+A1 Belleville,Patrice
+A1 Mitchell,Joseph,S.,B.
+A1 Mount,David,M.
+A1 Romanik,Kathleen
+A1 Salzberg,Steven
+A1 Souvaine,Diane,L.
+YR 1997
+T1 Testing Simple Polygons
+JF Computational Geometry: Theory and Applications
+VO 8
+SP 97
+OP 114
+IS 2
+
+RT Journal Article
+ID 48098355
+A1 Gibson,D,L
+A1 Pauley,D
+A1 Willis,L
+YR 1997
+T1 Unattended audioconferencing
+JF Bt Technology Journal
+VO 15
+SP 26
+OP 32
+IS 4
+
+RT Journal Article
+ID 42286725
+A1 Haren,R.
+A1 Liu,S.
+A1 Gibson,G.,M.
+A1 Gibson,D.,L.
+A1 Maidment,D.,W.
+A1 Gunn,P.
+YR 1997
+T1 Geological interpretation of high-resolution airborne geophysical data in the Broken Hill Region
+JF Exploration Geophysics
+VO 28
+SP 235
+IS 2
+
+RT Journal Article
+ID 15274481
+A1 Sheppard,John,W.
+A1 Salzberg,Steven,L.
+YR 1997
+T1 A Teaching Strategy for Memory-Based Control
+JF Artificial Intelligence Review
+VO 11
+SP 343
+OP 370
+IS 1
+
+RT Conference Proceedings
+ID 348356
+A1 Henderson,John
+A1 Salzberg,Steven
+A1 Fasman,Kenneth
+YR 1996
+T1 Finding Genes in Human DNA with a Hidden Markov Model
+
+RT Journal Article
+ID 2388673
+A1 Reuther,J.
+A1 Jameson,A.
+A1 Martinelli,L.
+A1 Saunders,D.
+YR 1996
+T1 Aerodynamic shape optimization of complex aircraft configurations via an adjoint formulation
+
+RT Conference Proceedings
+ID 552400
+A1 Salzberg,Steven
+A1 Chen,Xin
+A1 Henderson,John
+A1 Fasman,Kenneth,H.
+YR 1996
+T1 Finding Genes in DNA Using Decision Trees and Dynamic Programming
+SP 201
+OP 210
+
+RT Book, Whole
+ID 49044031
+A1 Heath,David
+A1 Kasif,Simon
+A1 Salzberg,Steven
+YR 1996
+T1 Chapter 18 Committees of decision trees
+VO 113
+SP 305
+OP 317
+
+RT Journal Article
+ID 44500193
+A1 Douglas,Michael,W.
+A1 Li,Shuhua
+YR 1996
+T1 Diurnal Variation of the Lower-Tropospheric Flow over the Arizona Low Desert from SWAMP1993 Observations
+JF Monthly Weather Review
+VO 124
+SP 1211
+IS 6
+
+RT Conference Proceedings
+ID 395811
+A1 Fulton,Truxton
+A1 Kasif,Simon
+A1 Salzberg,Steven
+A1 Waltz,David,L.
+YR 1996
+T1 Local Induction of Decision Trees: Towards Interactive Data Mining
+SP 14
+OP 19
+
+RT Journal Article
+ID 44485292
+A1 Douglas,Michael,W.
+A1 Stensrud,David,J.
+YR 1996
+T1 Upgrading the North American Upper-Air Observing Network: What are the Possibilities?
+JF Bulletin of The American Meteorological Society
+VO 77
+SP 907
+OP 924
+IS 5
+
+RT Journal Article
+ID 831288
+A1 Heath,David,G.
+A1 Kasif,Simon
+A1 Kosaraju,S.,Rao
+A1 Salzberg,Steven
+A1 Sullivan,Gregory,F.
+YR 1996
+T1 Learning nested concept classes with limited storage
+JF Journal of Experimental and Theoretical Artificial Intelligence
+VO 8
+SP 129
+OP 147
+IS 2
+
+RT Conference Proceedings
+ID 153808
+A1 Murthy,Sreerama,K.
+A1 Salzberg,Steven
+YR 1995
+T1 Lookahead and Pathology in Decision Tree Induction
+SP 1025
+OP 1033
+
+RT Conference Proceedings
+ID 531066
+A1 Fulton,Truxton
+A1 Kasif,Simon
+A1 Salzberg,Steven
+YR 1995
+T1 Efficient Algorithms for Finding Multi-way Splits for Decision Trees
+SP 244
+OP 251
+
+RT Journal Article
+ID 384263
+A1 Salzberg,Steven
+YR 1995
+T1 Locating Protein Coding Regions in Human DNA Using a Decision Tree Algorithm
+JF Journal of Computational Biology
+VO 2
+SP 473
+OP 485
+IS 3
+
+RT Journal Article
+ID 3968551
+A1 Douglas,Michael,W.
+YR 1995
+T1 The Summertime Low-Level Jet over the Gulf of California
+JF Monthly Weather Review
+VO 123
+SP 2334
+IS 8
+
+RT Journal Article
+ID 399970
+A1 Salzberg,Steven
+A1 Chandar,Rupali
+A1 Ford,Holland
+A1 Murthy,Sreerama,K.
+A1 White,Richard
+YR 1995
+T1 Decision trees for automated identification of cosmic-ray hits in Hubble Space Telescope images
+JF Publications of The Astronomical Society of The Pacific
+VO 107
+SP 279
+OP 288
+
+RT Conference Proceedings
+ID 382518
+A1 Murthy,Sreerama,K.
+A1 Salzberg,Steven
+YR 1995
+T1 Decision Tree Induction: How Effective is the Greedy Heuristic?
+SP 222
+OP 227
+
+RT Journal Article
+ID 390071
+A1 Salzberg,Steven
+A1 Delcher,Arthur,L.
+A1 Heath,David,G.
+A1 Kasif,Simon
+YR 1995
+T1 Best-Case Results for Nearest-Neighbor Learning
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 17
+SP 599
+OP 608
+IS 6
+
+RT Conference Proceedings
+ID 348861
+A1 Sheppard,John,W.
+A1 Salzberg,Steven
+YR 1995
+T1 Combining Genetic Algorithms with Memory Based Reasoning
+SP 452
+OP 459
+
+RT Journal Article
+ID 340421
+A1 Kasif,Simon
+A1 Salzberg,Steven
+A1 Waltz,David
+A1 Rachlin,John
+A1 Aha,David
+YR 1995
+T1 Towards a Framework for Memory-Based Reasoning
+JF Artificial Intelligence
+
+RT Journal Article
+ID 44499898
+A1 Douglas,Michael,W.
+A1 Shapiro,M.,A.
+A1 Fedor,L.,S.
+A1 Saukkonen,Lea
+YR 1995
+T1 Research Aircraft Observations of a Polar Low at the East Greenland Ice Edge
+JF Monthly Weather Review
+VO 123
+SP 5
+IS 1
+
+RT Journal Article
+ID 846395
+A1 Romanik,Kathleen
+A1 Salzberg,Steven
+YR 1995
+T1 Testing Orthogonal Shapes
+JF Computational Geometry: Theory and Applications
+VO 5
+SP 33
+OP 49
+IS 1
+
+RT Journal Article
+ID 54775646
+A1 Douglas,Michael,W.
+A1 Shapiro,M.,A.
+A1 Fedor,L.,S.
+A1 Saukkonen,Lea
+YR 1995
+T1 Research Aircraft Observations of a Polar Low at the East Greenland Ice Edge
+JF Monthly Weather Review
+VO 123
+SP 5
+
+RT Conference Proceedings
+ID 50028467
+A1 Uher,J.
+A1 Richard,S.
+A1 Forest,M.
+A1 Gupta,S.
+YR 1995
+T1 Array fed contoured beam antenna optimization with frequency variable excitations
+
+RT Journal Article
+ID 54228560
+A1 Douglas,Michael,W.
+YR 1995
+T1 The Summertime Low-Level Jet over the Gulf of California
+JF Monthly Weather Review
+VO 123
+SP 2334
+
+RT Journal Article
+ID 361635
+A1 Murthy,Sreerama,K.
+A1 Kasif,Simon
+A1 Salzberg,Steven
+YR 1994
+T1 A System for Induction of Oblique Decision Trees
+JF Journal of Artificial Intelligence Research
+VO 2
+SP 1
+OP 32
+
+RT Conference Proceedings
+ID 1360
+A1 Rachlin,John
+A1 Kasif,Simon
+A1 Salzberg,Steven
+A1 Aha,David,W.
+YR 1994
+T1 Towards a Better Understanding of Memory-based Reasoning Systems
+SP 242
+OP 250
+
+RT Journal Article
+ID 3318553
+A1 Salzberg,Steven,L.
+A1 Aha,David,W.
+YR 1994
+T1 Learning to Catch: Applying Nearest Neighbor Algorithms to Dynamic Control Tasks
+
+RT Journal Article
+ID 35729732
+A1 Smetana,Z.
+A1 Mendelson,E.
+A1 Manor,J.
+A1 Lier,J.,E.,van
+A1 Ben-Hur,E.
+A1 Salzberg,S.
+A1 Malik,Z.
+YR 1994
+T1 Photodynamic inactivation of herpes viruses with phthalocyanine derivatives
+JF Journal of Photochemistry and Photobiology B-biology
+VO 22
+SP 37
+OP 43
+IS 1
+
+RT Journal Article
+ID 38524031
+A1 Saunders,D.
+YR 1994
+T1 Accidental Involvement in Simulation Gaming
+JF Simulation & Gaming
+VO 25
+SP 245
+OP 251
+IS 2
+
+RT Conference Proceedings
+ID 593859
+A1 Richard,Stephen
+YR 1994
+T1 Driver Education for the Superhighway: C.A.L. for End USers
+SP 313
+OP 324
+
+RT Journal Article
+ID 15222135
+A1 Salzberg,Steven,L.
+A1 Segre,Alberto
+YR 1994
+T1 C4.5: Programs for Machine Learning by J. Ross Quinlan. Morgan Kaufmann Publishers, Inc., 1993
+JF Machine Learning
+VO 16
+SP 235
+OP 240
+IS 3
+
+RT Journal Article
+ID 4401180
+A1 Salzberg,Steven
+YR 1994
+T1 Book Review: C4.5: Programs for Machine Learning by J. Ross Quinlan. Morgan Kaufmann Publishers, Inc., 1993
+JF Machine Learning
+VO 16
+SP 235
+OP 240
+IS 3
+
+RT Journal Article
+ID 15222136
+A1 Salzberg,Steven,L.
+YR 1994
+T1 Book Review: C4.5: Programs for Machine Learning by J. Ross Quinlan. Morgan Kaufmann Publishers, Inc., 1993
+JF Machine Learning
+VO 16
+SP 235
+OP 240
+IS 3
+
+RT Journal Article
+ID 37486531
+A1 Lejbkowicz,F.
+A1 Trink,B.
+A1 David,S.
+A1 Ilan,E.
+A1 Salzberg,S.
+YR 1994
+T1 Hemoglobin is a Late Event in the Differentiation of Friend Erythroleukemic Cells In-Vitro. I. The Role of Interferon-Induced Proteins
+JF Artificial Cells, Blood Substitutes and Biotechnology
+VO 22
+SP 769
+OP 775
+IS 3
+
+RT Journal Article
+ID 392413
+A1 Salzberg,Steven
+YR 1993
+T1 A Weighted Nearest Neighbor Algorithm for Learning with Symbolic Features
+JF Machine Learning
+VO 10
+SP 57
+OP 78
+IS 1
+
+RT Journal Article
+ID 3294346
+A1 Heath,D.
+A1 Kasif,S.
+A1 Salzberg,S.
+YR 1993
+T1 K-dt: a Multi-tree Learning Method
+
+RT Journal Article
+ID 15222029
+A1 Salzberg,Steven
+YR 1993
+T1 A Weighted Nearest Neighbor Algorithm for Learning with Symbolic Features
+JF Machine Learning
+VO 10
+SP 57
+OP 78
+IS 1
+
+RT Conference Proceedings
+ID 2056017
+A1 Heath,D.
+A1 Kasif,S.
+A1 Salzberg,S.
+YR 1993
+T1 Learning oblique decision trees
+
+RT Conference Proceedings
+ID 1959
+A1 Heath,David,G.
+A1 Kasif,Simon
+A1 Salzberg,Steven
+YR 1993
+T1 Induction of Oblique Decision Trees
+SP 1002
+OP 1007
+
+RT Conference Proceedings
+ID 490338
+A1 Murthy,Sreerama,K.
+A1 Kasif,Simon
+A1 Salzberg,Steven
+A1 Beigel,Richard
+YR 1993
+T1 OC1: A Randomized Induction of Oblique Decision Trees
+SP 322
+OP 327
+
+RT Journal Article
+ID 35193691
+A1 MALIK,Z
+A1 BABUSHKIN,T
+A1 SHER,S
+A1 HANANIA,J
+A1 LADAN,H
+A1 NITZAN,Y
+A1 SALZBERG,S
+YR 1993
+T1 Collapse of K+ and ionic balance during photodynamic inactivation of leukemic cells, erythrocytes and Staphylococcus aureus
+JF International Journal of Biochemistry
+VO 25
+SP 1399
+OP 1406
+IS 10
+
+RT Conference Proceedings
+ID 498553
+A1 Arkin,Esther,M.
+A1 Belleville,Patrice
+A1 Mitchell,Joseph,S.,B.
+A1 Mount,David,M.
+A1 Romanik,Kathleen
+A1 Salzberg,Steven
+A1 Souvaine,Diane,L.
+YR 1993
+T1 Testing Simple Polygons
+SP 387
+
+RT Conference Proceedings
+ID 10619208
+A1 Murthy,Sreerama
+A1 Kasif,Simon
+A1 Richard,Steven,Salzbergi
+YR 1993
+T1 OC1: Randomized induction of oblique decision trees
+
+RT Journal Article
+ID 320433
+A1 Salzberg,Steven
+YR 1992
+T1 Improving Classification Methods via Feature Selection
+
+RT Journal Article
+ID 1980618
+A1 Salzberg,S.
+YR 1992
+T1 Predicting protein secondary structure with a nearest-neighbor algorithm*1
+JF Journal of Molecular Biology
+VO 227
+SP 371
+OP 374
+IS 2
+
+RT Journal Article
+ID 3950342
+A1 Saunders,D.,J.
+YR 1992
+T1 The regularity of variational problems
+
+RT Journal Article
+ID 44499495
+A1 Douglas,Michael,W.
+YR 1992
+T1 Structure and Dynamics of Two Monsoon Depressions. Part II: Vorticity and Heat Budgets
+JF Monthly Weather Review
+VO 120
+SP 1548
+IS 8
+
+RT Journal Article
+ID 44499494
+A1 Douglas,Michael,W.
+YR 1992
+T1 Structure and Dynamics of Two Monsoon Depressions. Part I: Observed Structure
+JF Monthly Weather Review
+VO 120
+SP 1524
+IS 8
+
+RT Journal Article
+ID 35566549
+A1 Salzberg,S
+YR 1992
+T1 Taiwan's mental health law
+JF International Journal of Law and Psychiatry
+VO 15
+SP 43
+OP 75
+IS 1
+
+RT Journal Article
+ID 60512436
+A1 Hawks,V.
+A1 Saunders,D.
+A1 Strong,A.,B.
+A1 Cole,D.
+YR 1992
+T1 Determination of physical properties in injection molded composites using the design of experiments method
+VO 23
+SP 46
+OP 52
+IS 4
+
+RT Journal Article
+ID 37486267
+A1 Lejbkowicz,F.
+A1 Salzberg,S.
+YR 1992
+T1 Biological Effects of Photoactivated-HPD and Cholesteryl Hemisuccinate on Erythroid Differentiation
+JF Artificial Cells, Blood Substitutes and Biotechnology
+VO 20
+SP 1111
+OP 1120
+IS 2-4
+
+RT Journal Article
+ID 51348567
+A1 Douglas,Michael,W.
+YR 1992
+T1 Structure and Dynamics of Two Monsoon Depressions. Part I: Observed Structure
+JF Monthly Weather Review
+VO 120
+SP 1524
+
+RT Journal Article
+ID 52696610
+A1 Douglas,Michael,W.
+YR 1992
+T1 Structure and Dynamics of Two Monsoon Depressions. Part II: Vorticity and Heat Budgets
+JF Monthly Weather Review
+VO 120
+SP 1548
+
+RT Journal Article
+ID 708791
+A1 Salzberg,Steven
+A1 Dietterich,Tom
+YR 1991
+T1 A Nearest Hyperrectangle Learning Method
+JF Machine Learning
+VO 6
+SP 251
+OP 276
+IS 3
+
+RT Journal Article
+ID 15221979
+A1 Salzberg,Steven
+YR 1991
+T1 A Nearest Hyperrectangle Learning Method
+JF Machine Learning
+VO 6
+SP 251
+OP 276
+IS 3
+
+RT Conference Proceedings
+ID 615813
+A1 Salzberg,Steven
+A1 Delcher,Arthur,L.
+A1 Heath,David,G.
+A1 Kasif,Simon
+YR 1991
+T1 Learning with a Helpful Teacher
+SP 705
+OP 711
+
+RT Journal Article
+ID 16197709
+A1 Saunders,D
+YR 1991
+T1 A note on Legendre transformations
+JF Differential Geometry and Its Applications
+VO 1
+SP 109
+OP 122
+IS 2
+
+RT Journal Article
+ID 44499196
+A1 Douglas,Michael,W.
+A1 Fedor,L.,S.
+A1 Shapiro,M.,A.
+YR 1991
+T1 Polar Low Structure over the Northern Gulf of Alaska Based on Research Aircraft Observations
+JF Monthly Weather Review
+VO 119
+SP 32
+IS 1
+
+RT Conference Proceedings
+ID 613855
+A1 Heath,David,G.
+A1 Kasif,Simon
+A1 Kosaraju,S.,Rao
+A1 Salzberg,Steven
+A1 Sullivan,Gregory,F.
+YR 1991
+T1 Learning Nested Concept Classes with Limited Storage
+SP 777
+OP 782
+
+RT Journal Article
+ID 35566526
+A1 Salzberg,S
+YR 1991
+T1 Japan's new mental health law: More light shed on dark places?
+JF International Journal of Law and Psychiatry
+VO 14
+SP 137
+OP 168
+IS 3
+
+RT Conference Proceedings
+ID 620784
+A1 Salzberg,Steven
+YR 1991
+T1 Distance Metrics for Instance-Bsed Learning
+SP 399
+OP 408
+
+RT Journal Article
+ID 54408847
+A1 Douglas,Michael,W.
+A1 Fedor,L.,S.
+A1 Shapiro,M.,A.
+YR 1991
+T1 Polar Low Structure over the Northern Gulf of Alaska Based on Research Aircraft Observations
+JF Monthly Weather Review
+VO 119
+SP 32
+
+RT Conference Proceedings
+ID 2122255
+A1 Salzberg,S.,L.
+YR 1990
+T1 Learning with nested generalized exemplars
+
+RT Journal Article
+ID 26097046
+A1 Salzberg,Steven
+A1 Watkins,Michael
+YR 1990
+T1 Managing information for concurrent engineering: Challenges and barriers
+JF Research in Engineering Design
+VO 2
+SP 35
+OP 52
+IS 1
+
+RT Journal Article
+ID 44484982
+A1 Douglas,Michael,W.
+YR 1990
+T1 The Selection and Use of Dropwindsonde-Equipped Aircraft for Operational Forecasting Applications
+JF Bulletin of The American Meteorological Society
+VO 71
+SP 1746
+OP 1746
+IS 12
+
+RT Journal Article
+ID 2063656
+A1 Saunders,D.,J.
+YR 1989
+T1 The Geometry of Jet Bundles
+
+RT Book, Whole
+ID 444809
+A1 Salzberg,Steven
+YR 1989
+T1 Nested Hyper-Rectangles for Exemplar-Based Learning
+SP 184
+OP 201
+
+RT Conference Proceedings
+ID 4451634
+A1 Myrna,John,W.
+A1 Paulson,Richard,S.
+A1 Saunders,David
+A1 Smith,Richard,M.
+A1 Cleave,Philip,A.,Van
+A1 Wilson,John,C.
+YR 1986
+T1 APL microcomputer products (panel)
+
+RT Conference Proceedings
+ID 613813
+A1 Salzberg,Steven
+YR 1985
+T1 Heuristics for Inductive Learning
+SP 603
+OP 609
+
+RT Journal Article
+ID 874486
+A1 Myrna,John,W.
+A1 Paulson,Richard,S.
+A1 Saunders,David
+A1 Smith,Richard,M.
+A1 Cleave,Philip,A.,Van
+A1 Wilson,John,C.
+YR 1985
+T1 APL microcomputer products (panel)
+JF ACM Sigapl Apl Quote Quad
+VO 15
+SP 295
+OP 296
+IS 4
+
+RT Conference Proceedings
+ID 489962
+A1 Salzberg,Steven
+YR 1983
+T1 Generating Hypotheses to Explain Prediction Failures
+SP 352
+OP 355
+
+RT Journal Article
+ID 1362285
+A1 Fischer,M.
+A1 Salzberg,S.
+YR 1982
+T1 Finding a majority among n votes: solution to problem 81-5
+JF Journal of Algorithms
+
+RT Journal Article
+ID 18839860
+A1 Mason,E,W
+A1 Mckinlay,A,F
+A1 Saunders,D
+YR 1977
+T1 The re-estimation of absorbed doses of less than 1 rad measured with lithium fluoride thermoluminescent dosemeters
+JF Physics in Medicine and Biology
+VO 22
+SP 29
+OP 35
+IS 1
+
+RT Journal Article
+ID 51432479
+A1 Mason,E.,W.
+A1 Mckinlay,A.,F.
+A1 Saunders,D.
+YR 1977
+T1 The re-estimation of absorbed doses of less than 1 rad measured with lithium fluoride thermoluminescent dosemeters
+JF Physics in Medicine and Biology
+VO 22
+SP 29
+OP 35
+
+RT Journal Article
+ID 18649771
+A1 Hempstock,T.,I.
+A1 Saunders,D.,J.
+YR 1976
+T1 Cross-modality determination of the subjective growth function for whole-body vertical, sinusoidal, vibration
+JF Journal of Sound and Vibration
+VO 46
+SP 279
+OP 284
+IS 2
+
+RT Journal Article
+ID 18606666
+A1 JONES,A
+A1 SAUNDERS,D
+YR 1972
+T1 Effects of postural and methodological changes on equal comfort contours for whole body, vertical, sinusoidal vibration
+JF Applied Acoustics
+VO 5
+SP 279
+OP 299
+IS 4
+
+RT Journal Article
+ID 55586996
+A1 Jones,A.,J.
+A1 Saunders,D.,J.
+YR 1972
+T1 Equal comfort contours for whole body vertical, pulsed sinusoidal vibration
+JF Journal of Sound and Vibration
+VO 23
+SP 1
+OP 14
+
+RT Journal Article
+ID 18606642
+A1 BAKER,M
+A1 SAUNDERS,D
+YR 1972
+T1 A simple circuit for producing signal pulses of variable length
+JF Applied Acoustics
+VO 5
+SP 63
+OP 68
+IS 1
+
+RT Journal Article
+ID 11737871
+A1 Fraser,Claire,M.
+A1 Casjens,Sherwood
+A1 Huang,Wai,Mun
+A1 Sutton,Granger,G.
+A1 Clayton,Rebecca
+A1 Lathigra,Raju
+A1 White,Owen
+A1 Ketchum,Karen,A.
+A1 Dodson,Robert
+A1 Hickey,Erin,K.
+A1 Gwinn,Michelle
+A1 Dougherty,Brian
+A1 Tomb,Jean-Francois
+A1 Fleischmann,Robert,D.
+A1 Richardson,Delwood
+A1 Peterson,Jeremy
+A1 Kerlavage,Anthony,R.
+A1 Quackenbush,John
+A1 Salzberg,Steven
+A1 Hanson,Mark
+A1 Vugt,Rene,van
+A1 Palmer,Nanette
+A1 Adams,Mark,D.
+A1 Gocayne,Jeannine
+A1 Weidman,Janice
+A1 Utterback,Teresa
+A1 Watthey,Larry
+A1 McDonald,Lisa
+A1 Artiach,Patricia
+A1 Bowman,Cheryl
+A1 Garland,Stacey
+A1 Fujii,Claire
+A1 Cotton,Matthew,D.
+A1 Horst,Kurt
+A1 Roberts,Kevin
+A1 Hatch,Bonnie
+A1 Smith,Hamilton,O.
+A1 Venter,J.,Craig
+T1 Genomic sequence of a Lyme disease spirochaete, Borrelia burgdorferi
+JF Nature
+
+RT Journal Article
+ID 2738754
+A1 Overpeck,J.
+A1 Hughen,K.
+A1 Hardy,D.
+A1 Bradley,R.
+A1 Case,R.
+A1 Douglas,M.
+A1 Finney,B.
+A1 Gajewski,K.
+A1 Jacoby,G.
+A1 Jennings,A.
+A1 Lamoureux,S.
+A1 Lasca,A.
+A1 MacDonald,G.
+A1 Moore,J.
+A1 Retelle,M.
+A1 Smith,S.
+A1 Wolfe,A.
+A1 Zielinski,G.
+T1 Arctic Environmental Change of the Last Four Centuries
+JF Science
+
+RT Journal Article
+ID 6714064
+A1 Theologis,Athanasios
+A1 Ecker,Joseph,R.
+A1 Palmk,Curtis,J.
+A1 Federspielk,Nancy,A.
+A1 Kaul,Samir
+A1 White,Owen
+A1 Alonso,Jose
+A1 Altafik,Hootan
+A1 Araujok,Rina
+A1 Bowman,Cheryl,L.
+A1 Brooks,Shelise,Y.
+A1 Buehler,Eugen
+A1 Chan,April
+A1 Chao,Qimin
+A1 Chen,Huaming
+A1 Cheuk,Rosa,F.
+A1 Chin,Christina,W.
+A1 Chung,Mike,K.
+A1 Conwayk,Aaron,B.
+A1 Conwayk,Andrew,R.
+A1 Creasy,Todd,H.
+A1 Dewar,Ken
+A1 Dunn,Patrick
+A1 Etgu,Pelin
+A1 Feldblyum,Tamara,V.
+A1 Feng,JiDong
+A1 Fong,Betty
+A1 Fujii,Claire,Y.
+A1 Gill,John,E.
+A1 Goldsmith,Andrew,D.
+A1 Haas,Brian
+A1 Hansenk,Nancy,F.
+A1 Hughes,Beth
+A1 Huizark,Lucas
+A1 Hunter,Jonathan,L.
+A1 Jenkins,Jennifer
+A1 Johnson-Hopson,Chanda
+A1 Khan,Shehnaz
+A1 Khaykin,Elizabeth
+A1 Kim,Christopher,J.
+A1 Koo,Hean,L.
+A1 Kremenetskaia,Irina
+A1 Kurtzk,David,B.
+A1 Kwan,Andrea
+A1 Lamk,Bao
+A1 Langin-Hooper,Stephanie
+A1 Lee,Andrew
+A1 Lee,Jeong,M.
+A1 Lenz,Catherine,A.
+A1 Li,Joycelyn.,H.
+A1 Li,YaPing
+A1 Lin,Xiaoying
+A1 Liu,Shirley,X.
+A1 Liu,Zhaoying,A.
+A1 Luros,Jason,S.
+A1 Maiti,Rama
+A1 Marzialik,Andre
+A1 Militscher,Jennifer
+A1 Mirandak,Molly
+A1 Nguyenk,Michelle
+A1 Nierman,William,C.
+A1 Osborne,Brian,I.
+A1 Pai,Grace
+A1 Peterson,Jeremy
+A1 Pham,Paul,K.
+A1 Rizzo,Michael
+A1 Rooney,Timothy
+A1 Rowleyk,Don
+A1 Sakano,Hitomi
+A1 Schwartz,Jody,R.
+A1 Shinn,Paul
+A1 Southwickk,Audrey,M.
+A1 Sun,Hui
+A1 Tallon,Luke,J.
+A1 Tambunga,Gabriel
+A1 Toriumi,Mitsue,J.
+A1 Town,Christopher,D.
+A1 Utterback,Teresa
+A1 Aken,Susan,Van
+A1 Vaysberg,Maria
+A1 Vysotskaia,Valentina,S.
+A1 Walker,Michelle
+A1 Wu,Dongying
+A1 Yu,Guixia
+T1 Sequence and analysis of chromosome 1 of the plant Arabidopsis thaliana
+JF Nature
+
+RT Book, Whole
+ID 48437659
+A1 Salzberg,Steven
+T1 Distance metrics for instance-based learning
+
+RT Journal Article
+ID 5292955
+A1 Rosen,Dan
+A1 Saunders,David
+A1 Rouanet,Alex,Kreinin,Philippe
+A1 Stein,Roger
+T1 Valuing CDOs of Bespoke Portfolios with Implied MultiFactor Models
+
+RT Journal Article
+ID 10412972
+A1 Pain,Colin
+A1 Chan,Roslyn
+A1 Craig,Michael
+A1 Gibson,David
+A1 Kilgour,Penny
+A1 Wilford,John
+T1 RTMAP REGOLITH DATABASE FIELD BOOK AND USERS GUIDE (Second Edition)
+
+RT Journal Article
+ID 10197546
+A1 SAUNDERS,D.
+A1 NORRY,M.,J.
+T1 Magmatism in the Ocean Basins
+
+RT Journal Article
+ID 5389726
+A1 Salzberg,Steven,L.
+T1 Methodological Note On Comparing Classifiers: Pitfalls to Avoid and a Recommended Approach
+JF Data Mining and Knowledge Discovery
+
+RT Journal Article
+ID 11729338
+A1 Apps,H.
+A1 Halas,L.
+A1 Gibson,D.
+A1 Lawrie,K.
+T1 Utilizing Airborne Electromagnetic Data To Model The Subsurface Salt Load In A Catchment, Bland Basin, NSW
+
+RT Journal Article
+ID 10482506
+A1 Salzberg,Steven,L.
+A1 Delcher,Arthur,L.
+A1 Kasif,Simon
+A1 White,Owen
+T1 Microbial gene identification using interpolated Markov
+JF Nucleic Acids Research
+
+RT Journal Article
+ID 335449
+A1 Sheppard,John,W.
+A1 Salzberg,Steven,L.
+T1 Bootstrapping Memory-Based Learning with Genetic Algorithms
+
+RT Journal Article
+ID 10135134
+A1 Whittaker,D.
+A1 Saunders,D.
+T1 Revised NZSEE Recommendations for Seismic Design of Storage Tanks
+
+RT Journal Article
+ID 2677470
+A1 Delcher,Al
+A1 Kasif,S
+A1 Peterson,J
+A1 White,O
+A1 Salzberg,Sl
+T1 Align of whole genomes
+JF Nucleic Acids Research
+
+RT Journal Article
+ID 11404616
+A1 Craig,Michael,A.
+A1 Caritat,Patrice,de
+A1 Field,John,B.
+A1 Gibson,David,L.
+A1 Greene,Richard
+A1 Hill,S.,M.
+A1 Jones,Mal
+A1 Lintern,Melvyn,J.
+A1 McQueen,Kenneth,G.
+A1 Pain,Colin
+A1 Pillans,Brad
+A1 Robertson,Ian,D.,M.
+A1 Smith,Kerry
+A1 Taylor,Graham
+T1 THE REGOLITH GLOSSAR Y
+
+RT Journal Article
+ID 13056674
+A1 Bland,P.
+A1 Brewer,J.
+A1 Brown,C.
+A1 Camara,E.
+A1 Catlett,R.
+A1 Colorado,Z.
+A1 Coulson,K.
+A1 Foyle,H.
+A1 Harrell,M.
+A1 Leftwich,M.
+A1 Martin,P.
+A1 McConkie,D.
+A1 McGlone,E.
+A1 Mitsui,M.
+A1 Morales,M.
+A1 Sasser,J.
+A1 Saunders,D.
+A1 Schmidt,J.
+A1 Schroeder,D.
+A1 Smith,R.
+A1 Swanson,Z.
+A1 Thayer,S.
+A1 Waters,S.
+A1 Woods,S.
+A1 Wray,T.
+A1 Yanik,J.
+A1 Zelmer,D.
+T1 Minutes Faculty Senate Meeting Emporia State University 15 March 2005
+
+RT Journal Article
+ID 10060746
+A1 Smith,Jim
+A1 Egglestone,Graeme
+A1 Farr,Paul
+A1 Moon,Terry
+A1 Saunders,David
+A1 Shoubridge,Peter
+A1 Thalassoudis,Kym
+A1 Wallace,Tony
+T1 DSTO Tiger Team for Technical Risk Assessment
+
+RT Journal Article
+ID 10799866
+A1 Langmead,Ben
+A1 Trapnell,Cole
+A1 Pop,Mihai
+A1 Salzberg,Steven,L.
+A1 Quals,Phred
+T1 Ultrafast and memory-efficient alignment of short reads to the human genome
+
+RT Journal Article
+ID 6008860
+A1 CHENG,LAN
+A1 CHADAM,CHEN,JOHN
+A1 SAUNDERS,DAVID
+T1 NUMERICAL COMPUTATION OF FIRST-CROSSING BOUNDARY PROBLEM
+
+RT Journal Article
+ID 10311357
+A1 Yuan,Qiaoping
+A1 Quackenbush,John
+A1 Sultana,Razvan
+A1 Pertea,Mihaela
+A1 Salzberg,Steven,L.
+A1 Buell,C.,Robin
+T1 Rice Bioinformatics. Analysis of Rice Sequence Data and Leveraging the Data to Other Plant Species1
+
+RT Journal Article
+ID 11349733
+A1 Gálvez,José,M.
+A1 Orozco,Raquel,K.
+A1 Douglas,Michael,W.
+T1 6.2. MEASURING AND MONITORING THE MESOCLIMATE OF TROPICAL LOCATIONS. FIELD OBSERVATIONS FROM THE SOUTH AMERICAN ALTIPLANO DURING THE SALLJEX
+
+RT Journal Article
+ID 4659150
+A1 Gwinn,Michelle
+A1 Nelson,William
+A1 Dodson,Robert
+A1 Salzberg,Steven
+A1 White,Owen
+T1 Small Genome Annotation and Data Management at TIGR
+
+RT Journal Article
+ID 10089900
+A1 Delcher,Arthur,L.
+A1 Phillippy,Adam
+A1 Carlton,Jane
+A1 Salzberg,Steven,L.
+T1 Fast algorithms for large-scale genome alignment and
+
+RT Journal Article
+ID 11141361
+A1 Gibson,D.,L.
+A1 Reilly,N.,S.
+A1 Pillans,B.
+A1 O'Sullivan,P.,B.
+T1 ELURA MINE AREA, NEW SOUTH WALES
+
+RT Journal Article
+ID 11321761
+A1 Tan,Kok
+A1 Gibson,David
+A1 Wilford,John
+A1 Lawrie,Kenneth
+T1 INTERPRETING AND APPLYING AIRBORNE ELECTROMAGNETIC INFORMATION (TEMPESTTM AEM SYSTEM) FOR REGOLITH AND ENVIROMENTAL STUDIES
+
+RT Journal Article
+ID 12815648
+A1 Murthy,Sreerama
+A1 Salzberg,Steven
+T1 Lookahead and Pathology
+
+RT Journal Article
+ID 10988704
+A1 Tan,Kok
+A1 Munday,Tim
+A1 Gibson,David
+A1 Apps,Heike
+T1 THE RELATIONSHIPS AMONGST MOISTURE CONTENT, PORE WATER SALINITY, TEXTURE AND APPARENT ELECTRICAL CONDUCTIVITY: EVIDENCE FROM THE RIVERLAND AND TINTINARA AIRBORNE EM PROJECTS
+
+RT Journal Article
+ID 12166998
+A1 Marengo,José,A.
+A1 Nicolini,Matilde
+A1 Douglas,Michael,W.
+A1 Dias,Pedro,L.,Silva
+T1 IDENTIFICACIÓN DE CASOS DE JETS EN NIVELES BAJOS, DEL NORTE (SALLJ) Y DEL SUR (SJ) AL ESTE DE LOS ANDES DURANTE EL VERANO Y OTOÑO 1999
+
+RT Journal Article
+ID 11510272
+A1 Quinones,H.
+A1 Babiarz,Alec
+A1 Gibson,David,L.
+T1 MICROWAVE CURING OF ENCAPSULANTS FOR ELECTRONIC PACKAGES
+
+RT Journal Article
+ID 11192861
+A1 Kasif,Simon
+A1 Salzberg,Steven
+T1 Artificial Intelligence Approaches to Problems in the Human Genome Project
+
+RT Journal Article
+ID 11876393
+A1 Gibson,David
+A1 Apps,Heike
+A1 LEME,CRC
+T1 USING A LIDAR DEM, RADIOMETRICS AND MAGNETICS TO MAP BASALTIC REGOLITH IN THE LAKE CORANGAMITE CATCHMENT, VICTORIA
+
+RT Journal Article
+ID 4509145
+A1 Pertea,Mihaela
+A1 Salzberg,Steven
+T1 Suboptimal predictions increase sensitivity of gene finders
+
+RT Journal Article
+ID 12714074
+A1 Duran,Ahmet
+A1 Saunders,David
+T1 Genblas: Basic Linear Algebra Subroutines in C++ for All Fields
+
+RT Journal Article
+ID 6307409
+A1 Douglas,Michael
+A1 Mejia,John
+T1 DEVELOPING AND NON-DEVELOPING AFRICAN EASTERLY WAVES AND THEIR RELATIONSHIP TO TROPICAL CYCLONE FORMATION
+
+RT Journal Article
+ID 10012208
+A1 Gibson,D.,L.
+T1 NORTHERN BARRIER RANGES REGION, NEW SOUTH WALES
+
+RT Journal Article
+ID 10131089
+A1 Douglas,Michael,W.
+T1 ENHANCING THE WESTERN CARIBBEAN SEA OBSERVING NETWORK FOR IMPROVED DETECTION OF HURRICANE GENESIS
+
+RT Journal Article
+ID 10147440
+A1 Salzberg,Steven
+T1 Generating Hypotheses to Explain
+
+RT Journal Article
+ID 12067200
+A1 Salzberg,Steven
+T1 Computational Gene Finding in the Human Genome: How many genes do we have?
+
+RT Journal Article
+ID 13107785
+A1 Saunders,David
+T1 What does liberalism inherit from early modern religious settlements?

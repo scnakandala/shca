@@ -1,0 +1,5401 @@
+RT Journal Article
+ID 51099040
+A1 Densmore,Douglas
+A1 Horowitz,Mark
+A1 Krishnaswamy,Smita
+A1 Shen,Xiling
+A1 Arkin,Adam
+A1 Winfree,Erik
+A1 Voigt,Chris
+YR 2011
+T1 Joint DAC/IWBDA special session design and synthesis of biological circuits
+SP 114
+OP 115
+
+RT Journal Article
+ID 13334265
+A1 Adams,Andrew
+A1 Jacobs,David,E.
+A1 Dolson,Jennifer
+A1 Tico,Marius
+A1 Pulli,Kari
+A1 Talvala,Eino-Ville
+A1 Ajdin,Boris
+A1 Vaquero,Daniel
+A1 Lensch,Hendrik,P.,A.
+A1 Horowitz,Mark
+A1 Park,Sung,Hee
+A1 Gelfand,Natasha
+A1 Baek,Jongmin
+A1 Matusik,Wojciech
+A1 Levoy,Marc
+YR 2010
+T1 The Frankencamera: an experimental platform for computational photography
+JF ACM Transactions on Graphics
+VO 29
+IS 4
+
+RT Conference Proceedings
+ID 13259603
+A1 Azizi,Omid
+A1 Mahesri,Aqeel
+A1 Lee,Benjamin,C.
+A1 Patel,Sanjay,J.
+A1 Horowitz,Mark
+YR 2010
+T1 Energy-performance tradeoffs in processor architecture and circuit design: a marginal cost analysis
+SP 26
+OP 36
+
+RT Conference Proceedings
+ID 13259588
+A1 Hameed,Rehan
+A1 Qadeer,Wajahat
+A1 Wachs,Megan
+A1 Azizi,Omid
+A1 Solomatnikov,Alex
+A1 Lee,Benjamin,C.
+A1 Richardson,Stephen
+A1 Kozyrakis,Christos
+A1 Horowitz,Mark
+YR 2010
+T1 Understanding sources of inefficiency in general-purpose chips
+SP 37
+OP 47
+
+RT Conference Proceedings
+ID 13316011
+A1 Azizi,Omid
+A1 Mahesri,Aqeel
+A1 Stevenson,John,P.
+A1 Patel,Sanjay,J.
+A1 Horowitz,Mark
+YR 2010
+T1 An integrated framework for joint design space exploration of microarchitecture and circuits
+SP 250
+OP 255
+
+RT Journal Article
+ID 26707024
+A1 HOROWITZ,M.
+A1 WILLIAMSON,C.,H.,K.
+YR 2010
+T1 The effect of Reynolds number on the dynamics and wakes of freely rising and falling spheres
+JF Journal of Fluid Mechanics
+VO 651
+SP 251
+
+RT Journal Article
+ID 26707361
+A1 HOROWITZ,M.
+A1 WILLIAMSON,C.,H.,K.
+YR 2010
+T1 Vortex-induced vibration of a rising and falling cylinder
+JF Journal of Fluid Mechanics
+VO 658
+SP 1
+OP 32
+
+RT Conference Proceedings
+ID 13315121
+A1 Horowitz,Mark
+YR 2010
+T1 Why design must change: Rethinking digital design
+SP 791
+OP 791
+
+RT Journal Article
+ID 19817921
+A1 Melin,Jessica
+A1 Stark,Don
+A1 Quake,Stephen,R.
+A1 Horowitz,Mark,A.
+A1 Weaver,James,A.
+YR 2010
+T1 Static control logic for microfluidic devices using pressure-gain valves
+JF Nature Physics
+VO 6
+SP 218
+OP 223
+IS 3
+
+RT Conference Proceedings
+ID 13493055
+A1 Lim,Byong,Chan
+A1 Kim,Jaeha
+A1 Horowitz,Mark,A.
+YR 2010
+T1 An efficient test vector generation for checking analog/mixed-signal functional models
+SP 767
+OP 772
+
+RT Journal Article
+ID 33783769
+A1 Mangla,Karan
+A1 Horowitz,Mark,A.
+YR 2010
+T1 Timing Robustness in the Budding and Fission Yeast Cell Cycles
+JF PLOS One
+VO 5
+IS 2
+
+RT Journal Article
+ID 39325856
+A1 Shacham,Ofer
+A1 Azizi,Omid
+A1 Wachs,Megan
+A1 Richardson,Stephen
+A1 Horowitz,Mark
+A1 Kelley,Kyle
+A1 Stevenson,John,P.
+A1 Lee,B.
+A1 Solomatnikov,A.
+A1 Firoozshahian,A.
+YR 2010
+T1 Rethinking Digital Design: Why Design Must Change
+JF IEEE Micro
+VO 30
+SP 9
+OP 24
+IS 6
+
+RT Journal Article
+ID 27026993
+A1 Kim,Jaeha
+A1 Jones,Kevin,D.
+A1 Horowitz,Mark,A.
+YR 2010
+T1 Fast, Non-Monte-Carlo Estimation of Transient Performance Variation Due to Device Mismatch
+JF IEEE Transactions on Circuits and Systems I-regular Papers
+VO 57
+SP 1746
+OP 1755
+IS 7
+
+RT Book, Whole
+ID 49031125
+A1 Amat,Fernando
+A1 Castaño-Diez,Daniel
+A1 Lawrence,Albert
+A1 Moussavi,Farshid
+A1 Winkler,Hanspeter
+A1 Horowitz,Mark
+YR 2010
+T1 Alignment of Cryo-Electron Tomography Datasets
+JF Methods in Enzymology
+VO 482
+SP 343
+OP 367
+
+RT Conference Proceedings
+ID 13493225
+A1 Horowitz,Mark
+A1 Jeeradit,Metha
+A1 Lau,Frances
+A1 Liao,Sabrina
+A1 Lim,ByongChan
+A1 Mao,James
+YR 2010
+T1 Fortifying analog models with equivalence checking and coverage analysis
+SP 425
+OP 430
+
+RT Journal Article
+ID 14418839
+A1 Adams,Andrew
+A1 Horowitz,Mark
+A1 Park,Sung,Hee
+A1 Gelfand,Natasha
+A1 Baek,Jongmin
+A1 Matusik,Wojciech
+A1 Levoy,Marc
+A1 Jacobs,David,E.
+A1 Dolson,Jennifer
+A1 Tico,Marius
+A1 Pulli,Kari
+A1 Talvala,Eino-Ville
+A1 Ajdin,Boris
+A1 Vaquero,Daniel
+A1 Lensch,Hendrik,P.,A.
+YR 2010
+T1 The Frankencamera: an experimental platform for computational photography
+JF ACM Transactions on Graphics
+VO 29
+SP 1
+IS 4
+
+RT Journal Article
+ID 13185759
+A1 Horowitz,M.
+A1 Arndt,Kenneth,A.
+A1 Bailey,Byron,J.
+A1 Galveston,Tex
+A1 Baue,Arthur,E.
+A1 Dalessio,Donald,J.
+A1 Foege,William,H.
+A1 Fox,Renee,C.
+A1 Freedman,Daniel,X.
+A1 Fulginiti,Vincent,A.
+A1 Goldberg,Morton,F.
+A1 Heins,Marilyn
+A1 Jacobson,Harold,G.
+A1 McCarty,Daniel,J.
+A1 McLendon,William,W.
+A1 Motulsky,Arno,G.
+YR 2010
+T1 Estrogen Replacement in Oophorectomized Women With History of Thrombotic
+
+RT Journal Article
+ID 39244497
+A1 Adams,Andrew
+A1 Talvala,Eino-Ville
+A1 Park,Sung,Hee
+A1 Jacobs,David,E.
+A1 Ajdin,Boris
+A1 Gelfand,Natasha
+A1 Dolson,Jennifer
+A1 Vaquero,Daniel
+A1 Baek,Jongmin
+A1 Tico,Marius
+A1 Lensch,Hendrik,P.,A.
+A1 Matusik,Wojciech
+A1 Pulli,Kari
+A1 Horowitz,Mark
+A1 Levoy,Marc
+YR 2010
+T1 The Frankencamera: an experimental platform for computational photography
+SP 1
+OP 12
+
+RT Journal Article
+ID 39211999
+A1 Hameed,Rehan
+A1 Qadeer,Wajahat
+A1 Wachs,Megan
+A1 Azizi,Omid
+A1 Solomatnikov,Alex
+A1 Lee,Benjamin,C.
+A1 Richardson,Stephen
+A1 Kozyrakis,Christos
+A1 Horowitz,Mark
+YR 2010
+T1 Understanding sources of inefficiency in general-purpose chips
+JF ACM Sigarch Computer Architecture News
+SP 37
+OP 47
+
+RT Journal Article
+ID 39211998
+A1 Azizi,Omid
+A1 Mahesri,Aqeel
+A1 Lee,Benjamin,C.
+A1 Patel,Sanjay,J.
+A1 Horowitz,Mark
+YR 2010
+T1 Energy-performance tradeoffs in processor architecture and circuit design: a marginal cost analysis
+JF ACM Sigarch Computer Architecture News
+SP 26
+OP 36
+
+RT Journal Article
+ID 51333191
+A1 Weaver,James,A.
+A1 Melin,Jessica
+A1 Stark,Don
+A1 Quake,Stephen,R.
+A1 Horowitz,Mark,A.
+YR 2010
+T1 Static control logic for microfluidic devices using pressure-gain valves
+JF Nature Physics
+VO 6
+SP 218
+OP 223
+
+RT Journal Article
+ID 55267871
+A1 Lau,Frances,W.,Y.
+A1 Vandenbroucke,Arne
+A1 Reynolds,Paul,D.
+A1 Olcott,Peter,D.
+A1 Horowitz,Mark,A.
+A1 Levin,Craig,S.
+YR 2010
+T1 Analog signal multiplexing for PSAPD-based PET detectors: simulation and experimental validation
+JF Physics in Medicine and Biology
+VO 55
+SP 7149
+OP 7174
+IS 23
+
+RT Conference Proceedings
+ID 13315098
+A1 Jeeradit,Metha
+A1 Kim,Jaeha
+A1 Horowitz,Mark
+YR 2010
+T1 Intent-leveraged optimization of analog circuits via homotopy
+SP 1614
+OP 1619
+
+RT Journal Article
+ID 4758145
+A1 Chen,Chaomei
+A1 Chen,Yue
+A1 Horowitz,Mark
+A1 Hou,Haiyan
+A1 Liu,Zeyuan
+A1 Pellegrino,Donald
+YR 2009
+T1 Towards an explanatory and computational theory of scientific discovery
+JF Journal of Informetrics
+VO abs/0904.1
+SP 191
+OP 209
+IS 3
+
+RT Conference Proceedings
+ID 5217569
+A1 Firoozshahian,Amin
+A1 Solomatnikov,Alex
+A1 Shacham,Ofer
+A1 Asgar,Zain
+A1 Richardson,Stephen
+A1 Kozyrakis,Christos
+A1 Horowitz,Mark
+YR 2009
+T1 A memory system design framework: creating smart memories
+SP 406
+OP 417
+
+RT Conference Proceedings
+ID 50804708
+A1 Kim,Jaeha
+A1 Jeeradit,Metha
+A1 Lim,Byongchan
+A1 Horowitz,Mark,A.
+YR 2009
+T1 Leveraging designer's intent: A path toward simpler analog CAD tools
+
+RT Journal Article
+ID 27053460
+A1 Nezamfar,Bita
+A1 Alon,Elad
+A1 Horowitz,Mark
+YR 2009
+T1 Energy–Performance Tunable Logic
+JF IEEE Journal of Solid-state Circuits
+VO 44
+SP 2554
+OP 2567
+IS 9
+
+RT Conference Proceedings
+ID 6032465
+A1 Kim,Jaeha
+A1 Ren,Jihong
+A1 Horowitz,Mark,A.
+YR 2009
+T1 Stochastic steady-state and AC analyses of mixed-signal systems
+SP 376
+OP 381
+
+RT Conference Proceedings
+ID 6604709
+A1 Solomatnikov,Alex
+A1 Firoozshahian,Amin
+A1 Shacham,Ofer
+A1 Asgar,Zain
+A1 Wachs,Megan
+A1 Qadeer,Wajahat
+A1 Richardson,Stephen
+A1 Horowitz,Mark
+YR 2009
+T1 Using a configurable processor generator for computer architecture prototyping
+SP 358
+OP 369
+
+RT Journal Article
+ID 27094406
+A1 Alon,Elad
+A1 Abramzon,Valentin
+A1 Nezamfar,Bita
+A1 Horowitz,Mark
+YR 2009
+T1 On-Die Power Supply Noise Measurement Techniques
+JF IEEE Transactions on Advanced Packaging
+VO 32
+SP 248
+OP 259
+IS 2
+
+RT Journal Article
+ID 6688126
+A1 Azizi,Omid
+A1 Mahesri,Aqeel
+A1 Patel,Sanjay,J.
+A1 Horowitz,Mark
+YR 2009
+T1 Area-efficiency in CMP core design: co-optimization of microarchitecture and physical design
+JF ACM Sigarch Computer Architecture News
+VO 37
+SP 56
+OP 65
+IS 2
+
+RT Journal Article
+ID 14416265
+A1 Firoozshahian,Amin
+A1 Solomatnikov,Alex
+A1 Shacham,Ofer
+A1 Asgar,Zain
+A1 Richardson,Stephen
+A1 Kozyrakis,Christos
+A1 Horowitz,Mark
+YR 2009
+T1 A memory system design framework: creating smart memories
+JF ACM Sigarch Computer Architecture News
+VO 37
+SP 406
+OP 417
+IS 3
+
+RT Conference Proceedings
+ID 13293106
+A1 Horowitz,Mark
+YR 2009
+T1 Why design must change: rethinking digital design
+SP 267
+OP 267
+
+RT Conference Proceedings
+ID 50804820
+A1 Nezamfar,Bita
+A1 Horowitz,Mark
+YR 2009
+T1 Energy-performance tunable logic
+
+RT Conference Proceedings
+ID 13294825
+A1 Nezamfar,Bita
+A1 Horowitz,Mark
+YR 2009
+T1 In field, energy-performance tunable FPGA architectures
+SP 262
+OP 267
+
+RT Journal Article
+ID 11941601
+A1 Lorenzo,Joseph
+A1 Horowitz,Mark
+A1 Choi,Yongwon
+YR 2008
+T1 Osteoimmunology: Interactions of the Bone and Immune System
+JF Endocrine Reviews
+VO 29
+SP 403
+OP 440
+IS 4
+
+RT Journal Article
+ID 27053159
+A1 Palermo,Samuel
+A1 Emami-Neyestanak,Azita
+A1 Horowitz,Mark
+YR 2008
+T1 A 90 nm CMOS 16 Gb/s Transceiver for Optical Interconnects
+JF IEEE Journal of Solid-state Circuits
+VO 43
+SP 1235
+OP 1246
+IS 5
+
+RT Journal Article
+ID 27053210
+A1 Alon,Elad
+A1 Horowitz,Mark
+YR 2008
+T1 Integrated Regulation for Energy-Efficient Digital Circuits
+JF IEEE Journal of Solid-state Circuits
+VO 43
+SP 1795
+OP 1807
+IS 8
+
+RT Journal Article
+ID 5097546
+A1 Horowitz,Mark
+A1 Stark,Donald
+A1 Alon,Elad
+YR 2008
+T1 Digital Circuit Design Trends
+JF IEEE Journal of Solid-state Circuits
+VO 43
+SP 757
+OP 761
+IS 4
+
+RT Conference Proceedings
+ID 50734920
+A1 Kam,Hei
+A1 King-Liu,Tsu-Jae
+A1 Alon,E.
+A1 Horowitz,M.
+YR 2008
+T1 Circuit-level requirements for MOSFET-replacement devices
+SP 1
+OP 1
+
+RT Journal Article
+ID 27053140
+A1 Amirkhany,Amir
+A1 Abbasfar,Aliazam
+A1 Savoj,Jafar
+A1 Jeeradit,Metha
+A1 Garlepp,Bruno
+A1 Kollipara,Ravi,T.
+A1 Stojanovic,Vladimir
+A1 Horowitz,Mark
+YR 2008
+T1 A 24 Gb/s Software Programmable Analog MultiTone Transmitter
+JF IEEE Journal of Solid-state Circuits
+VO 43
+SP 999
+OP 1009
+IS 4
+
+RT Journal Article
+ID 50725529
+A1 Lau,Frances,W.,Y.
+A1 Vandenbroucke,Arne
+A1 Reynolds,Paul,D.
+A1 Olcott,Peter,D.
+A1 Horowitz,Mark,A.
+A1 Levin,Craig,S.
+YR 2008
+T1 Front-end electronics for a 1 mm3 resolution avalanche photodiode-based PET system with analog signal multiplexing
+SP 3871
+OP 3874
+
+RT Journal Article
+ID 15182474
+A1 Shen,Xiling
+A1 Collier,Justine
+A1 Dill,David
+A1 Shapiro,Lucy
+A1 Horowitz,Mark
+A1 McAdams,Harley,H.
+YR 2008
+T1 Architecture and inherent robustness of a bacterial cell-cycle control system
+JF Proceedings of The National Academy of Sciences
+VO 105
+SP 11340
+OP 11345
+IS 32
+
+RT Conference Proceedings
+ID 50703295
+A1 Nho,H.,Henry
+A1 Horowitz,Mark
+A1 Wong,S.,Simon
+YR 2008
+T1 A high-speed, low-power 3D-SRAM architecture
+
+RT Journal Article
+ID 4409779
+A1 Leverich,Jacob
+A1 Arakida,Hideho
+A1 Solomatnikov,Alex
+A1 Firoozshahian,Amin
+A1 Horowitz,Mark
+A1 Kozyrakis,Christos
+YR 2008
+T1 Comparative evaluation of memory models for chip multiprocessors
+JF ACM Transactions on Architecture and Code Optimization
+VO 5
+SP 1
+OP 30
+IS 3
+
+RT Journal Article
+ID 50725904
+A1 Lau,Frances,W.,Y.
+A1 Fang,Chen
+A1 Reynolds,Paul,D.
+A1 Olcott,Peter,D.
+A1 Vandenbroucke,Arne
+A1 Spanoudaki,Virginia,C.
+A1 Olutade,Femi
+A1 Horowitz,Mark,A.
+A1 Levin,Craig,S.
+YR 2008
+T1 1 mm3 resolution breast-dedicated PET system
+SP 5619
+OP 5622
+
+RT Conference Proceedings
+ID 4726684
+A1 Shacham,Ofer
+A1 Wachs,Megan
+A1 Solomatnikov,Alex
+A1 Firoozshahian,Amin
+A1 Richardson,Stephen
+A1 Horowitz,Mark
+YR 2008
+T1 Verification of chip multiprocessor memory systems using a relaxed scoreboard
+SP 294
+OP 305
+
+RT Journal Article
+ID 30864017
+A1 Horowitz,Mark
+A1 Teo,Arnold
+YR 2008
+T1 BODY MASS INDEX AND THE DETECTION OF NON-PALPABLE UNDESCENDED INGUINAL TESTES
+JF Journal of Urology
+VO 179
+SP 388
+OP 388
+IS 4
+
+RT Conference Proceedings
+ID 4292838
+A1 Azizi,Omid
+A1 Collins,Jamison,D.
+A1 Patil,Dinesh
+A1 Wang,Hong
+A1 Horowitz,Mark
+YR 2008
+T1 Processor Performance Modeling using Symbolic Simulation
+SP 127
+OP 138
+
+RT Journal Article
+ID 55903543
+A1 Horowitz,M.
+A1 Williamson,C.,H.,K.
+YR 2008
+T1 Critical mass and a new periodic four-ring vortex wake mode for freely rising and falling spheres
+JF Physics of Fluids
+VO 20
+SP 1701
+
+RT Conference Proceedings
+ID 4235833
+A1 Kunz,Robert
+A1 Horowitz,Mark
+YR 2008
+T1 The case for simple, visible cache coherency
+SP 31
+OP 35
+
+RT Conference Proceedings
+ID 50736577
+A1 Horowitz,M.
+YR 2008
+T1 Scaling, Power, and the Future of CMOS Technology
+SP 7
+OP 8
+
+RT Conference Proceedings
+ID 2475370
+A1 Horowitz,Mark
+YR 2007
+T1 Scaling, Power and the Future of CMOS
+SP 23
+OP 23
+
+RT Conference Proceedings
+ID 2450290
+A1 Leverich,Jacob
+A1 Arakida,Hideho
+A1 Solomatnikov,Alex
+A1 Firoozshahian,Amin
+A1 Horowitz,Mark
+A1 Kozyrakis,Christos
+YR 2007
+T1 Comparing memory systems for chip multiprocessors
+SP 358
+OP 368
+
+RT Conference Proceedings
+ID 50566024
+A1 Palmer,R.
+A1 Poulton,J.
+A1 Dally,W.,J.
+A1 Eyles,J.
+A1 Fuller,A.,M.
+A1 Greer,T.
+A1 Horowitz,M.
+A1 Kellam,M.
+A1 Quan,F.
+A1 Zarkeshvari,F.
+YR 2007
+T1 A 14mW 6.25Gb/s Transceiver in 90nm CMOS for Serial Chip-to-Chip Communications
+SP 440
+OP 614
+
+RT Conference Proceedings
+ID 2417316
+A1 Patil,Dinesh
+A1 Azizi,Omid
+A1 Horowitz,Mark
+A1 Ho,Ron
+A1 Ananthraman,Rajesh
+YR 2007
+T1 Robust Energy-Efficient Adder Topologies
+SP 16
+OP 28
+
+RT Conference Proceedings
+ID 50565834
+A1 Palermo,S.
+A1 Emami-Neyestanak,A.
+A1 Horowitz,M.
+YR 2007
+T1 A 90nm CMOS 16Gb/s Transceiver for Optical Interconnects
+SP 44
+OP 586
+
+RT Conference Proceedings
+ID 2425503
+A1 Savoj,Jafar
+A1 Abbasfar,Ali-azam
+A1 Amirkhany,Amir
+A1 Garlepp,Bruno,W.
+A1 Horowitz,Mark,A.
+YR 2007
+T1 A new technique for characterization of digital-to-analog converters in high-speed systems
+SP 433
+OP 438
+
+RT Journal Article
+ID 27037232
+A1 Morifuji,Eiji
+A1 Patil,Dinesh
+A1 Horowitz,Mark
+A1 Nishi,Yoshio
+YR 2007
+T1 Power Optimization for SRAM and Its Scaling
+JF IEEE Transactions on Electron Devices
+VO 54
+SP 715
+OP 722
+IS 4
+
+RT Journal Article
+ID 4415673
+A1 Talvala,Eino-ville
+A1 Adams,Andrew
+A1 Horowitz,Mark
+A1 Levoy,Marc
+YR 2007
+T1 Veiling glare in high dynamic range imaging
+JF ACM Transactions on Graphics
+VO 26
+SP 37
+IS 3
+
+RT Conference Proceedings
+ID 4581818
+A1 Amirkhany,A.
+A1 Abbasfar,A.
+A1 Savoj,J.
+A1 Jeeradit,M.
+A1 Garlepp,B.
+A1 Stojanovic,V.
+A1 Horowitz,M.
+YR 2007
+T1 A 24Gb/s Software Programmable MultiChannel Transmitter
+
+RT Conference Proceedings
+ID 2425102
+A1 Kim,Jaeha
+A1 Jones,Kevin,D.
+A1 Horowitz,Mark,A.
+YR 2007
+T1 Fast, Non-Monte-Carlo Estimation of Transient Performance Variation Due to Device Mismatch
+SP 440
+OP 443
+
+RT Journal Article
+ID 19258079
+A1 Roth,Jonathan,E.
+A1 Palermo,Samuel
+A1 Helman,Noah,C.
+A1 Bour,David,P.
+A1 Miller,David,A.,B.
+A1 Horowitz,Mark
+YR 2007
+T1 An Optical Interconnect Transceiver at 1550 nm Using Low-Voltage Electroabsorption Modulators Directly Integrated to CMOS
+JF IEEE/OSA Journal of Lightwave Technology
+VO 25
+SP 3739
+OP 3747
+IS 12
+
+RT Journal Article
+ID 26119947
+A1 Kim,Seung-Jean
+A1 Boyd,Stephen,P.
+A1 Yun,Sunghee
+A1 Patil,Dinesh,D.
+A1 Horowitz,Mark,A.
+YR 2007
+T1 A heuristic for optimizing stochastic activity networks with applications to statistical digital circuit sizing
+JF Optimization and Engineering
+VO 8
+SP 397
+OP 430
+IS 4
+
+RT Conference Proceedings
+ID 4269806
+A1 Kim,Jaeha
+A1 Jones,Kevin,D.
+A1 Horowitz,Mark,A.
+YR 2007
+T1 Variable domain transformation for linear PAC analysis of mixed-signal systems
+SP 887
+OP 894
+
+RT Journal Article
+ID 27052800
+A1 Poulton,John
+A1 Palmer,Robert
+A1 Fuller,Andrew,M.
+A1 Greer,Trey
+A1 Eyles,John
+A1 Dally,William,J.
+A1 Horowitz,Mark
+YR 2007
+T1 A 14mW 6.25Gb/s Transceiver in 90-nm CMOS
+JF IEEE Journal of Solid-state Circuits
+VO 42
+SP 2745
+OP 2757
+IS 12
+
+RT Conference Proceedings
+ID 12128867
+A1 Amirkhany,Amir
+A1 Abbasfar,Aliazam
+A1 Savoj,Jafar
+A1 Horowitz,Mark,A.
+YR 2007
+T1 Time-Variant Characterization and Compensation of Wideband Circuits
+
+RT Conference Proceedings
+ID 50601408
+A1 Weaver,J.,A.
+A1 Horowitz,M.,A.
+YR 2007
+T1 Measurement of Supply Pin Current Distributions in Integrated Circuit Packages
+
+RT Conference Proceedings
+ID 50610186
+A1 Alon,Elad
+A1 Horowitz,Mark
+YR 2007
+T1 Integrated Regulation for Energy-Efficient Digital Circuits
+
+RT Conference Proceedings
+ID 2424973
+A1 Solomatnikov,Alex
+A1 Firoozshahian,Amin
+A1 Qadeer,Wajahat
+A1 Shacham,Ofer
+A1 Kelley,Kyle
+A1 Asgar,Zain
+A1 Wachs,Megan
+A1 Hameed,Rehan
+A1 Horowitz,Mark
+YR 2007
+T1 Chip Multi-Processor Generator
+SP 262
+OP 263
+
+RT Journal Article
+ID 50626071
+A1 Lau,Frances,W.,Y.
+A1 Olcott,Peter,D.
+A1 Horowitz,Mark,A.
+A1 Peng,Hao
+A1 Levin,Craig,S.
+YR 2007
+T1 Noise analysis of LSO-PSAPD PET detector front-end multiplexing circuits
+VO 5
+SP 3212
+OP 3219
+
+RT Conference Proceedings
+ID 4591298
+A1 Amirkhany,Amir
+A1 Abbasfar,Ali-azam
+A1 Stojanovic,Vladimir
+A1 Horowitz,Mark,A.
+YR 2007
+T1 Practical Limits of MultiTone Signaling Over High-Speed Backplane Electrical Links
+SP 2693
+OP 2698
+
+RT Conference Proceedings
+ID 11333939
+A1 Roth,Jonathan,E.
+A1 Palermo,Samuel
+A1 Helman,Noah,C.
+A1 Bour,David,P.
+A1 Miller,David,A.,B.
+A1 Horowitz,Mark
+YR 2007
+T1 1550nm Optical Interconnect Transceiver with Low Voltage Electroabsorption Modulators Flip-Chip Bonded to 90nm CMOS
+
+RT Journal Article
+ID 12054802
+A1 ACKERT-BICKNELL,CHERYL,L.
+A1 SALISBURY,JESSE,L.
+A1 HOROWITZ,MARK
+A1 DEMAMBRO,VICTORIA,E.
+A1 HORTON,LINDSAY,G.
+A1 SHULTZ,KATHRYN,L.
+A1 LECKA-CZERNIK,BEATA
+A1 ROSEN,C.,J.
+YR 2007
+T1 A Chromosomal Inversion within a Quantitative Trait Locus Has a Major Effect on Adipogenesis and Osteoblastogenesis
+JF Annals of The New York Academy of Sciences
+VO 1116
+SP 291
+OP 305
+IS 1
+
+RT Journal Article
+ID 39242957
+A1 Talvala,Eino-Ville
+A1 Adams,Andrew
+A1 Horowitz,Mark
+A1 Levoy,Marc
+YR 2007
+T1 Veiling glare in high dynamic range imaging
+SP 37
+
+RT Journal Article
+ID 27474403
+A1 Abidi,Asad,Ali
+A1 Horowitz,Mark,A.
+A1 Meng,Teresa,H.
+YR 2007
+T1 Asad Abidi, Mark Horowitz and Teresa Meng Elected to U.S. National Academy of Engineering
+JF IEEE Solid-state Circuits Newsletter
+VO 12
+SP 55
+OP 56
+IS 2
+
+RT Journal Article
+ID 14416104
+A1 Leverich,Jacob
+A1 Arakida,Hideho
+A1 Solomatnikov,Alex
+A1 Firoozshahian,Amin
+A1 Horowitz,Mark
+A1 Kozyrakis,Christos
+YR 2007
+T1 Comparing memory systems for chip multiprocessors
+JF ACM Sigarch Computer Architecture News
+VO 35
+SP 358
+OP 368
+IS 2
+
+RT Journal Article
+ID 51629047
+A1 Roth,Jonathan,E.
+A1 Palermo,Samuel
+A1 Helman,Noah,C.
+A1 Bour,David,P.
+A1 Miller,David,A.,B.
+A1 Horowitz,Mark
+YR 2007
+T1 An Optical Interconnect Transceiver at 1550 nm Using Low-Voltage Electroabsorption Modulators Directly Integrated to CMOS
+JF IEEE/OSA Journal of Lightwave Technology
+VO 25
+SP 3739
+OP 3747
+
+RT Conference Proceedings
+ID 50562118
+A1 Savoj,Jafar
+A1 Abbasfar,Ali-Azam
+A1 Amirkhany,Amir
+A1 Garlepp,Bruno,W.
+A1 Horowitz,M.,A.
+YR 2007
+T1 A New Technique for Characterization of Digital-to-Analog Converters in High-Speed Systems
+
+RT Journal Article
+ID 39227737
+A1 Solomatnikov,Alex
+A1 Firoozshahian,Amin
+A1 Qadeer,Wajahat
+A1 Shacham,Ofer
+A1 Kelley,Kyle
+A1 Asgar,Zain
+A1 Wachs,Megan
+A1 Hameed,Rehan
+A1 Horowitz,Mark
+YR 2007
+T1 Chip multi-processor generator
+SP 262
+OP 263
+
+RT Conference Proceedings
+ID 50607509
+A1 Kim,Jaeha
+A1 Jones,Kevin,D.
+A1 Horowitz,Mark,A.
+YR 2007
+T1 Variable domain transformation for linear PAC analysis of mixed-signal systems
+SP 887
+OP 894
+
+RT Journal Article
+ID 27474408
+A1 Kang,S.
+A1 Pedram,M.
+A1 Horowitz,M.
+YR 2007
+T1 New SSCS Chapters in Tainan and South Brazil, Seoul and Santa Clara Chapters Host Talks
+JF IEEE Solid-state Circuits Newsletter
+VO 12
+SP 66
+OP 67
+IS 2
+
+RT Journal Article
+ID 39227777
+A1 Kim,Jaeha
+A1 Jones,Kevin,D.
+A1 Horowitz,Mark,A.
+YR 2007
+T1 Fast, non-Monte-Carlo estimation of transient performance variation due to device mismatch
+SP 440
+OP 443
+
+RT Journal Article
+ID 5059007
+A1 Horowitz,Mark
+YR 2007
+T1 A MOUSE WITH EARS EXPLORES MAPS
+
+RT Journal Article
+ID 1526754
+A1 Naffziger,S.
+A1 Stackhouse,B.
+A1 Grutkowski,T.
+A1 Josephson,D.
+A1 Desai,J.
+A1 Alon,E.
+A1 Horowitz,M.
+YR 2006
+T1 The Implementation of a 2Core, Multi-Threaded Itanium Family Processor
+JF IEEE Journal of Solid-state Circuits
+VO 41
+SP 197
+OP 209
+IS 1
+
+RT Journal Article
+ID 12815754
+A1 Alon,Elad
+A1 Kim,Jaeha
+A1 Pamarti,Sudhakar
+A1 Chang,Ken
+A1 Horowitz,Mark
+YR 2006
+T1 Replica Compensated Linear Regulators for Supply-Regulated Phase-Locked Loops
+JF IEEE Journal of Solid-state Circuits
+VO 41
+SP 413
+OP 424
+IS 2
+
+RT Journal Article
+ID 2175105
+A1 Levoy,Marc
+A1 Ren,Ng
+A1 Adams,Andrew
+A1 Footer,Matthew
+A1 Horowitz,Mark
+YR 2006
+T1 Light field microscopy
+JF ACM Transactions on Graphics
+VO 25
+SP 924
+OP 934
+IS 3
+
+RT Conference Proceedings
+ID 4339160
+A1 Amirkhany,Amir
+A1 Abbasfar,Ali-azam
+A1 Stojanovic,Vladimir
+A1 Horowitz,Mark,A.
+YR 2006
+T1 Analog MultiTone Signaling for High-Speed Backplane Electrical Links
+SP 1
+OP 6
+
+RT Conference Proceedings
+ID 50524969
+A1 Palermo,Samuel
+A1 Horowitz,Mark
+YR 2006
+T1 High-Speed Transmitters in 90nm CMOS for High-Density Optical Interconnects
+SP 508
+OP 511
+
+RT Conference Proceedings
+ID 12715063
+A1 Lee,Haechang
+A1 Bansal,Akash
+A1 Frans,Yohan
+A1 Zerbe,Jared
+A1 Sidiropoulos,Stefanos
+A1 Horowitz,M.
+YR 2006
+T1 Improving CDR Performance via Estimation
+SP 1296
+OP 1303
+
+RT Journal Article
+ID 26674248
+A1 Horowitz,M.
+A1 Williamson,C.,H.,K.
+YR 2006
+T1 Dynamics of a rising and falling cylinder
+JF Journal of Fluids and Structures
+VO 22
+SP 837
+OP 843
+IS 6
+
+RT Journal Article
+ID 2577947
+A1 Boyd,Stephen
+A1 Kim,Seung-Jean
+A1 Patil,Dinesh
+A1 Horowitz,Mark
+YR 2006
+T1 A heuristic method for statistical digital circuit sizing
+VO 6156
+SP 58
+OP 66
+
+RT Conference Proceedings
+ID 50529010
+A1 Weaver,James,A.
+A1 Horowitz,Mark,A.
+YR 2006
+T1 Measurement of Via Currents in Printed Circuit Boards Using Inductive Loops
+
+RT Journal Article
+ID 6537578
+A1 Levoy,Marc
+A1 Ng,Ren
+A1 Adams,Andrew
+A1 Footer,Matthew
+A1 Horowitz,Mark
+YR 2006
+T1 Light field microscopy
+SP 924
+OP 934
+
+RT Journal Article
+ID 13741352
+A1 Schlegel,Peter
+A1 Blaivas,Jerry
+A1 Horowitz,Mark
+A1 Yang,Jennifer
+A1 Sosa,R.,Ernest
+A1 Barocas,Daniel
+A1 Steckel,Joph
+A1 Kavoussi,Louis,R.
+A1 Ohebshalom,Michael
+YR 2006
+T1 CONTINUING MEDICAL EDUCATION BRADY UROLOGY GRAND ROUNDS CONFERENCES
+
+RT Journal Article
+ID 1709842
+A1 Wilburn,Bennett
+A1 Joshi,Neel
+A1 Vaish,Vaibhav
+A1 Talvala,Eino-Ville
+A1 Antúnez,Emilio,R.
+A1 Barth,Adam
+A1 Adams,Andrew
+A1 Horowitz,Mark
+A1 Levoy,Marc
+YR 2005
+T1 High performance imaging using large camera arrays
+JF ACM Transactions on Graphics
+VO 24
+SP 765
+OP 776
+IS 3
+
+RT Journal Article
+ID 3326700
+A1 Ng,Ren
+A1 Levoy,Marc
+A1 Bredif,Mathieu
+A1 Duval,Gene
+A1 Horowitz,Mark
+A1 Hanrahan,Pat
+YR 2005
+T1 Light Field Photography with a Hand-held Plenoptic Camera
+
+RT Conference Proceedings
+ID 2840072
+A1 Chang,Ken
+A1 Pamarti,Sudhakar
+A1 Kaviani,Kambiz
+A1 Alon,Elad
+A1 Shi,Xudong
+A1 Shen,Jie
+A1 Yip,Gary
+A1 Madden,Chris
+A1 Schmitt,Ralf
+A1 Yuan,Chuck
+A1 Assaderaghi,Fari
+A1 Horowitz,M.
+YR 2005
+T1 Clocking and circuit design for a parallel I/O on a first-generation CELL processor
+SP 526
+
+RT Journal Article
+ID 1526957
+A1 Alon,Elad
+A1 Horowitz,Mark
+YR 2005
+T1 Circuits and techniques for high-resolution measurement of on-chip power supply noise
+JF IEEE Journal of Solid-state Circuits
+VO 40
+SP 820
+OP 828
+IS 4
+
+RT Conference Proceedings
+ID 4588422
+A1 Horowitz,Mark
+A1 Alon,Elad
+A1 Patil,Dinesh
+A1 Naffziger,Samuel
+A1 Kumar,Rajesh
+A1 Bernstein,K.
+YR 2005
+T1 Scaling, power, and the future of CMOS
+
+RT Journal Article
+ID 1709745
+A1 Sen,Pradeep
+A1 Chen,Billy
+A1 Garg,Gaurav
+A1 Marschner,Stephen,R.
+A1 Horowitz,Mark
+A1 Levoy,Marc
+A1 Lensch,Hendrik,P.,A.
+YR 2005
+T1 Dual photography
+JF ACM Transactions on Graphics
+VO 24
+SP 745
+OP 755
+IS 3
+
+RT Journal Article
+ID 2962914
+A1 Boyd,Stephen,P.
+A1 Kim,Seung-jean
+A1 Patil,Dinesh,D.
+A1 Horowitz,Mark,A.
+YR 2005
+T1 Digital Circuit Optimization via Geometric Programming
+JF Operations Research
+VO 53
+SP 899
+OP 932
+IS 6
+
+RT Journal Article
+ID 4528205
+A1 Shen,Xiling
+A1 Kahn,Joseph,M.
+A1 Horowitz,Mark,A.
+YR 2005
+T1 Compensation for multimode fiber dispersion by adaptive optics
+JF Optics Letters
+VO 30
+SP 2985
+IS 22
+
+RT Journal Article
+ID 1526980
+A1 Ho,Andrew
+A1 Garlepp,Bruno,W.
+A1 Chen,Fred
+A1 Wei,Jason
+A1 Tsang,Grace
+A1 Alon,Elad
+A1 Kollipara,Ravi,T.
+A1 Werner,Carl,W.
+A1 Zerbe,Jared,L.
+A1 Horowitz,Mark,A.
+YR 2005
+T1 Autonomous dual-mode (PAM2/4) serial link transceiver with adaptive equalization and data recovery
+JF IEEE Journal of Solid-state Circuits
+VO 40
+SP 1012
+OP 1026
+IS 4
+
+RT Conference Proceedings
+ID 1838988
+A1 Patil,Dinesh
+A1 Yun,Sunghee
+A1 Kim,Seung-jean
+A1 Cheung,Alvin
+A1 Horowitz,Mark
+A1 Boyd,Stephen,P.
+YR 2005
+T1 A New Method for Design of Robust Digital Circuits
+SP 676
+OP 681
+
+RT Conference Proceedings
+ID 3831009
+A1 Vaish,Vaibhav
+A1 Garg,Gaurav
+A1 Talvala,Eino-Ville
+A1 Antunez,Emilio
+A1 Wilburn,Bennett
+A1 Horowitz,Mark
+A1 Levoy,Marc
+YR 2005
+T1 Synthetic Aperture Focusing using a Shear-Warp Factorization of the Viewing Transform
+SP 129
+OP 129
+
+RT Journal Article
+ID 1423583
+A1 Tseng,Ken
+A1 Horowitz,Mark
+YR 2005
+T1 False coupling exploration in timing analysis
+JF IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems
+VO 24
+SP 1795
+OP 1805
+IS 11
+
+RT Conference Proceedings
+ID 2599327
+A1 Patil,D.
+A1 Yun,Y.
+A1 Kim,S.,J.
+A1 Boyd,S.
+A1 Horowitz,M.
+YR 2005
+T1 A new method for robust design of digital circuitss
+
+RT Conference Proceedings
+ID 13021137
+A1 Miller,D.,A.,B.
+A1 Bhatnagar,A.
+A1 Palermo,S.
+A1 Emami-Neyestanak,A.
+A1 Horowitz,M.,A.
+YR 2005
+T1 Opportunities for optics in integrated circuits applications
+SP 86
+
+RT Journal Article
+ID 1526832
+A1 Mai,K.
+A1 Ho,R.
+A1 Alon,E.
+A1 Liu,D.
+A1 Kim,Younggon
+A1 Patil,D.
+A1 Horowitz,M.,A.
+YR 2005
+T1 Architecture and circuit techniques for a 1.1GHz 16-kb reconfigurable memory in 0.18-/spl mu/m CMOS
+JF IEEE Journal of Solid-state Circuits
+VO 40
+SP 261
+OP 275
+IS 1
+
+RT Conference Proceedings
+ID 2962916
+A1 Boyd,S.
+A1 Kim,S.,J.
+A1 Patil,D.
+A1 Horowitz,M.
+YR 2005
+T1 Digital circuit sizing via geometric programming
+
+RT Conference Proceedings
+ID 4591650
+A1 Abramzon,Valentin
+A1 Alon,Elad
+A1 Nezamfar,Bita
+A1 Horowitz,Mark
+YR 2005
+T1 Scalable circuits for supply noise measurement
+
+RT Journal Article
+ID 1556894
+A1 Zeitouny,A.
+A1 Parkhomenko,Y.,N.
+A1 Horowitz,M.
+YR 2005
+T1 Stable Operating Region in a Harmonically Actively Mode-Locked Fiber Laser
+JF IEEE Journal of Quantum Electronics
+VO 41
+SP 1380
+OP 1387
+IS 11
+
+RT Conference Proceedings
+ID 39241463
+A1 Wilburn,Bennett
+A1 Joshi,Neel
+A1 Vaish,Vaibhav
+A1 Talvala,Eino-Ville
+A1 Antunez,Emilio
+A1 Barth,Adam
+A1 Adams,Andrew
+A1 Horowitz,Mark
+A1 Levoy,Marc
+YR 2005
+T1 High performance imaging using large camera arrays
+SP 765
+OP 776
+
+RT Journal Article
+ID 27052484
+A1 Chiang,P.
+A1 Dally,W.,J.
+A1 Lee,M.-J.,E.
+A1 Senthinathan,R.
+A1 Oh,Yangjin
+A1 Horowitz,M.,A.
+YR 2005
+T1 A 20Gb/s 0.13-/spl mu/m CMOS serial link transmitter using an LC-PLL to directly drive the output multiplexer
+JF IEEE Journal of Solid-state Circuits
+VO 40
+SP 1004
+OP 1011
+IS 4
+
+RT Conference Proceedings
+ID 39241461
+A1 Sen,Pradeep
+A1 Chen,Billy
+A1 Garg,Gaurav
+A1 Marschner,Stephen,R.
+A1 Horowitz,Mark
+A1 Levoy,Marc
+A1 Lensch,Hendrik,P.,A.
+YR 2005
+T1 Dual photography
+SP 745
+OP 755
+
+RT Conference Proceedings
+ID 50431539
+A1 Zeitouny,A.
+A1 Stepanov,S.
+A1 Levinson,O.
+A1 Horowitz,M.
+YR 2005
+T1 Optical generation of linearly chirped microwave pulses using fiber Bragg gratings
+
+RT Journal Article
+ID 18682353
+A1 Behar,V
+A1 Horowitz,M
+A1 Sabban,A
+A1 Mayk,A
+A1 Jodorkovsky,D
+A1 Blaugrund,E
+A1 Nyska,A
+YR 2005
+T1 Quantitative Analysis of Myelin sheaths in a Mouse Model of Experimental Autoimmune Encephalitis
+JF Microscopy and Microanalysis
+VO 11
+IS S02
+
+RT Conference Proceedings
+ID 12725042
+A1 Horowitzy,Mark,A.
+YR 2005
+T1 Digital Circuit Optimization via Geometric Programming
+
+RT Journal Article
+ID 1693102
+A1 Al-rawi,Ghazi
+A1 Cioffi,John,M.
+A1 Horowitz,Mark
+YR 2005
+T1 On task mapping optimization for parallel decoding of low-density parity-check codes on message-passing architectures
+JF Parallel Computing
+VO 31
+SP 462
+OP 490
+IS 5
+
+RT Journal Article
+ID 53767451
+A1 Shen,Xiling
+A1 Kahn,Joseph,M.
+A1 Horowitz,Mark,A.
+YR 2005
+T1 Compensation for multimode fiber dispersion by adaptive optics
+JF Optics Letters
+VO 30
+SP 2985
+OP 2987
+
+RT Journal Article
+ID 18682935
+A1 Nechushtan,A
+A1 Vainshtein,A
+A1 Horowitz,M
+A1 Sabban,A
+A1 Zik,O
+YR 2005
+T1 WETSEMtm - A New Technology for High Resolution Imaging of Fully Hydrated Biological Samples
+JF Microscopy and Microanalysis
+VO 11
+IS S02
+
+RT Conference Proceedings
+ID 50478088
+A1 Zaacks,M.
+A1 Mahlab,U.
+A1 Horowitz,M.
+YR 2005
+T1 Low cost dispersion sign monitor for 40Gb/s systems
+
+RT Journal Article
+ID 1076249
+A1 Levoy,Marc
+A1 Chen,Billy
+A1 Vaish,Vaibhav
+A1 Horowitz,Mark
+A1 McDowall,Ian
+A1 Bolas,Mark,T.
+YR 2004
+T1 Synthetic aperture confocal imaging
+JF ACM Transactions on Graphics
+VO 23
+SP 825
+OP 834
+IS 3
+
+RT Journal Article
+ID 1526491
+A1 Markovic,Dejan
+A1 Stojanovic,Vladimir
+A1 ´,Borivoje,Nikolic
+A1 Horowitz,Mark,A.
+A1 Brodersen,Robert,W.
+YR 2004
+T1 Methods for true energy-performance optimization
+JF IEEE Journal of Solid-state Circuits
+VO 39
+SP 1282
+OP 1293
+IS 8
+
+RT Conference Proceedings
+ID 3196116
+A1 Horowitz,Mark
+A1 Dally,William
+YR 2004
+T1 How scaling will change processor architecture
+SP 132
+
+RT Conference Proceedings
+ID 4540972
+A1 StojanoviC,Vladimir
+A1 Ho,Andrew
+A1 Garlepp,B.
+A1 Chen,Fred
+A1 Wei,J.
+A1 Alon,E.
+A1 Werner,Carl
+A1 Zerbe,Jared
+A1 Horowitz,Mark,A.
+YR 2004
+T1 Adaptive equalization and data recovery in a dual-mode (PAM2/4) serial link transceiver
+
+RT Conference Proceedings
+ID 1819117
+A1 Labonte,Francois
+A1 Mattson,Peter,R.
+A1 Thies,William
+A1 Buck,Ian
+A1 Kozyrakis,Christos
+A1 Horowitz,Mark
+YR 2004
+T1 The Stream Virtual Machine
+SP 267
+OP 277
+
+RT Conference Proceedings
+ID 4537790
+A1 Stojanovic,V.
+A1 Amirkhany,A.
+A1 Horowitz,M.,A.
+YR 2004
+T1 Optimal linear precoding with theoretical and practical data rates in high-speed serial-link backplane communication
+
+RT Conference Proceedings
+ID 1788649
+A1 Wilburn,Bennett
+A1 Joshi,Neel
+A1 Vaish,Vaibhav
+A1 Levoy,Marc
+A1 Horowitz,Mark
+YR 2004
+T1 High-Speed Videography Using a Dense Camera Array
+VO 2
+SP 294
+OP 301
+
+RT Conference Proceedings
+ID 50374225
+A1 Alon,Elad
+A1 StojanoviC,Vladimir
+A1 Horowitz,Mark
+YR 2004
+T1 Circuits and techniques for high-resolution measurement of on-chip power supply noise
+
+RT Conference Proceedings
+ID 4546606
+A1 Hol,Andrew
+A1 StojanoviC,Vladimir
+A1 Chenl,Fred
+A1 Werner,Carl
+A1 Tsang,Grace
+A1 Alon,Elad
+A1 Kollipara,Ravi
+A1 Zerbe,Jared
+A1 Horowitz,Mark,A.
+YR 2004
+T1 Common-mode backchannel signaling system for differential high-speed links
+
+RT Conference Proceedings
+ID 2397244
+A1 Wilburn,B.
+A1 Joshi,N.
+A1 Vaish,V.
+A1 Levoy,M.
+A1 Horowitz,M.
+YR 2004
+T1 High speed video using a dense camera array
+
+RT Conference Proceedings
+ID 3042171
+A1 Alon,Elad
+A1 Kahn,Joseph,M.
+A1 Boyd,Stephen
+A1 Horowitz,Mark
+YR 2004
+T1 Equalization of modal dispersion in multimode fiber using spatial light modulators
+
+RT Journal Article
+ID 2698315
+A1 Labonte,F.
+A1 Horowitz,M.
+A1 Buck,I.
+YR 2004
+T1 An evaluation of graphics processors as stream co-processors
+
+RT Conference Proceedings
+ID 4610687
+A1 Emami-Neyestanak,Azita
+A1 Palermo,Samuel
+A1 Lee,Hae-Chang
+A1 Horowitz,Mark
+YR 2004
+T1 CMOS transceiver with baud rate clock recovery for optical interconnects
+
+RT Journal Article
+ID 2331209
+A1 Kim,Seung-Jean
+A1 Boyd,Stephen,P.
+A1 Yun,Sunghee
+A1 Patil,Dinesh,D.
+A1 Horowitz,Mark,A.
+YR 2004
+T1 A Heuristic for Optimizing Stochastic Activity Networks with Applications to Statistical Digital Circuit Sizing
+
+RT Conference Proceedings
+ID 50387120
+A1 Amirkhany,Amir
+A1 Stojanovic,V.
+A1 Horowitz,M.,A.
+YR 2004
+T1 Multitone signaling for high-speed backplane electrical links
+
+RT Conference Proceedings
+ID 2278785
+A1 Lee,Haechang
+A1 Yue,Chi,Ho
+A1 Palermo,Samuel
+A1 Mai,Kenneth,W.
+A1 Horowitz,Mark
+YR 2004
+T1 Burst mode packet receiver using a second order DLL
+
+RT Conference Proceedings
+ID 50374259
+A1 Chiang,P.
+A1 Dally,William,J.
+A1 Lee,Ming-Ju,Edward
+A1 Senthinathan,R.
+A1 Oh,Yangjin
+A1 Horowitz,M.
+YR 2004
+T1 20Gb/s 0.13μm CMOS serial link transmitter using an LC-PLL to directly drive the output multiplexer
+
+RT Journal Article
+ID 4525909
+A1 Keslassy,Isaac
+A1 Chuang,Shang-Tse
+A1 Yu,Kyoungsik
+A1 Miller,David
+A1 Horowitz,Mark
+A1 Solgaard,Olav
+A1 McKeown,Nick
+YR 2004
+T1 Scaling Internet Routers Using Optics (Extended Version)
+
+RT Conference Proceedings
+ID 12866413
+A1 Mai,Ken
+A1 Ho,Ron
+A1 Alon,Elad
+A1 Liu,Dean
+A1 Kim,Younggon
+A1 Patil,Dinesh
+A1 Horowitz,Mark
+YR 2004
+T1 Architecture and circuit techniques for a reconfigurable memory block
+SP 500
+
+RT Conference Proceedings
+ID 39241390
+A1 Levoy,Marc
+A1 Chen,Billy
+A1 Vaish,Vaibhav
+A1 Horowitz,Mark
+A1 McDowall,Ian
+A1 Bolas,Mark
+YR 2004
+T1 Synthetic aperture confocal imaging
+SP 825
+OP 834
+
+RT Conference Proceedings
+ID 50403142
+A1 Lundstrom,M.
+A1 Appenzeller,J.
+A1 Heath,J.
+A1 Reed,M.
+A1 Chau,R.
+A1 Horowitz,M.
+A1 Tour,J.
+A1 DeHon,A.
+A1 Lieber,C.
+A1 Zhirnov,V.
+A1 Meindl,J.
+YR 2004
+T1 Nanoelectronics - now or never?
+
+RT Conference Proceedings
+ID 50371344
+A1 Labonte,Francois
+A1 Mattson,Peter
+A1 Thies,William
+A1 Buck,Ian
+A1 Kozyrakis,Christos
+A1 Horowitz,Mark
+YR 2004
+T1 The stream virtual machine
+SP 267
+OP 277
+
+RT Journal Article
+ID 1556820
+A1 Rosenthal,A.
+A1 Horowitz,M.
+YR 2004
+T1 New Technique to Accurately Interpolate the Complex Reflection Spectrum of Fiber Bragg Gratings
+JF IEEE Journal of Quantum Electronics
+VO 40
+SP 1099
+OP 1104
+IS 8
+
+RT Conference Proceedings
+ID 7130
+A1 Keslassy,Isaac
+A1 Chuang,Shang-Tse
+A1 Yu,Kyoungsik
+A1 Miller,David
+A1 Horowitz,Mark
+A1 Solgaard,Olav
+A1 McKeown,Nick
+YR 2003
+T1 Scaling internet routers using optics
+SP 189
+OP 200
+
+RT Journal Article
+ID 1523869
+A1 Zerbe,J.,L.
+A1 Werner,C.,W.
+A1 Stojanovic,V.
+A1 Chen,F.
+A1 Wei,J.
+A1 Tsang,G.
+A1 Kim,D.
+A1 Stonecypher,W.,F.
+A1 Ho,A.
+A1 Thrush,T.,P.
+A1 Kollipara,R.,T.
+A1 Horowitz,M.,A.
+A1 Donnelly,K.,S.
+YR 2003
+T1 Equalization and clock recovery for a 2.5-10Gb/s 2PAM/4PAM backplane transceiver cell
+JF IEEE Journal of Solid-state Circuits
+VO 38
+SP 2121
+OP 2130
+IS 12
+
+RT Conference Proceedings
+ID 35482
+A1 Ho,Ron
+A1 Mai,Ken
+A1 Horowitz,Mark
+YR 2003
+T1 Efficient on-chip global interconnects
+
+RT Journal Article
+ID 1523627
+A1 Chang,K.,K.
+A1 Wei,J.
+A1 Huang,C.
+A1 Li,S.
+A1 Donnelly,K.
+A1 Horowitz,M.
+A1 Li,Y.
+A1 Sidiropoulos,S.
+YR 2003
+T1 A 0.4-4Gb/s CMOS quad transceiver cell using on-chip regulated dual-loop PLLs
+JF IEEE Journal of Solid-state Circuits
+VO 38
+SP 747
+OP 754
+IS 5
+
+RT Conference Proceedings
+ID 574051
+A1 Lie,David
+A1 Thekkath,Chandramohan,A.
+A1 Horowitz,Mark
+YR 2003
+T1 Implementing an untrusted operating system on trusted hardware
+SP 178
+OP 192
+
+RT Conference Proceedings
+ID 3399299
+A1 Vladimir,Stojanovic
+A1 Horowitz,Mark
+YR 2003
+T1 Modeling and analysis of high-speed links
+
+RT Journal Article
+ID 1523776
+A1 O'Mahony,F.
+A1 Yue,C.,P.
+A1 Horowitz,M.,A.
+A1 Wong,S.,S.
+YR 2003
+T1 A 10GHz global clock distribution using coupled standing-wave oscillators
+JF IEEE Journal of Solid-state Circuits
+VO 38
+SP 1813
+OP 1820
+IS 11
+
+RT Conference Proceedings
+ID 50321192
+A1 Zerbe,J.
+A1 Werner,C.
+A1 Stojanovic,V.
+A1 Chen,F.
+A1 Wei,J.
+A1 Tsang,G.
+A1 Kim,D.
+A1 Stonecypher,W.
+A1 Ho,A.
+A1 Thrush,T.
+A1 Kollipara,R.
+A1 Yeh,G.-J.
+A1 Horowitz,M.
+A1 Donnelly,K.
+YR 2003
+T1 Equalization and clock recovery for a 2.5-10Gb/s 2PAM/4PAM backplane transceiver cell
+SP 80
+
+RT Conference Proceedings
+ID 38794
+A1 Lie,David
+A1 Mitchell,John,C.
+A1 Thekkath,Chandramohan,A.
+A1 Horowitz,Mark
+YR 2003
+T1 Specifying and Verifying Hardware for Tamper-Resistant Software
+SP 166
+OP 177
+
+RT Conference Proceedings
+ID 4652171
+A1 Ho,Ron
+A1 Mai,Ken
+A1 Horowitz,Mark
+YR 2003
+T1 Managing wire scaling: a circuit perspective
+
+RT Journal Article
+ID 1680911
+A1 Kim,Jaeha
+A1 Horowitz,Mark,A.
+A1 Wei,Gu-Yeon
+YR 2003
+T1 Design of CMOS adaptive-bandwidth PLL/DLLs: a general approach
+JF IEEE Transactions on Circuits and Systems Ii: Analog and Digital Signal Processing
+VO 50
+SP 860
+OP 869
+IS 11
+
+RT Journal Article
+ID 1548990
+A1 Rosenthal,A.
+A1 Horowitz,M.
+YR 2003
+T1 Inverse scattering algorithm for reconstructing strongly reflecting fiber Bragg gratings
+JF IEEE Journal of Quantum Electronics
+VO 39
+SP 1018
+OP 1026
+IS 8
+
+RT Conference Proceedings
+ID 50321322
+A1 O'Mahony,F.
+A1 Yue,C.,P.
+A1 Horowitz,M.
+A1 Wong,S.,Simon
+YR 2003
+T1 10GHz clock distribution using coupled standing-wave oscillators
+SP 428
+
+RT Conference Proceedings
+ID 453092
+A1 O'Mahony,Frank
+A1 Yue,C.,Patrick
+A1 Horowitz,Mark,A.
+A1 Wong,S.,Simon
+YR 2003
+T1 Design of a 10GHz clock distribution network using coupled standing-wave oscillators
+SP 682
+OP 687
+
+RT Conference Proceedings
+ID 905283
+A1 Liu,Dean
+A1 Sidiropoulos,Stefanos
+A1 Horowitz,Mark
+YR 2003
+T1 A Framework for Designing Reusable Analog Circuits
+SP 375
+OP 381
+
+RT Journal Article
+ID 19547572
+A1 Keren,S.
+A1 Horowitz,M.
+YR 2003
+T1 Distributed three-dimensional fiber Bragg grating refractometer for biochemical sensing
+JF Optics Letters
+VO 28
+SP 2037
+OP 2039
+IS 21
+
+RT Journal Article
+ID 26840188
+A1 Zaacks,M.
+A1 Mahlab,U.
+A1 Horowitz,M.
+A1 Stepanov,S.
+YR 2003
+T1 Online measuring dispersion sign in optical communication systems
+JF Electronics Letters
+VO 39
+SP 1198
+IS 16
+
+RT Conference Proceedings
+ID 451795
+A1 Rabaey,Jan,M.
+A1 Sylvester,Dennis
+A1 Blaauw,David
+A1 Bernstein,Kerry
+A1 Frenkil,Jerry
+A1 Horowitz,Mark
+A1 Nebel,Wolfgang
+A1 Sakurai,Takayasu
+A1 Yang,Andrew
+YR 2003
+T1 Reshaping EDA for power
+SP 15
+OP 15
+
+RT Journal Article
+ID 14417655
+A1 Lie,David
+A1 Thekkath,Chandramohan,A.
+A1 Horowitz,Mark
+YR 2003
+T1 Implementing an untrusted operating system on trusted hardware
+JF Operating Systems Review
+VO 37
+SP 178
+OP 192
+IS 5
+
+RT Conference Proceedings
+ID 50313838
+A1 O'Mahony,F.
+A1 Yue,C.,P.
+A1 Horowitz,M.,A.
+A1 Wong,S.,S.
+YR 2003
+T1 Design of a 10GHz clock distribution network using coupled standing-wave oscillators
+
+RT Conference Proceedings
+ID 39231200
+A1 Liu,Dean
+A1 Sidiropoulos,Stefanos
+A1 Horowitz,Mark
+YR 2003
+T1 A Framework for Designing Reusable Analog Circuits
+SP 375
+
+RT Conference Proceedings
+ID 50330896
+A1 Liu,Dean
+A1 Sidiropoulos,S.
+A1 Horowitz,Mark
+YR 2003
+T1 A framework for designing reusable analog circuits
+
+RT Conference Proceedings
+ID 50325949
+A1 Rosenthal,A.
+A1 Keren,S.
+A1 Horowitz,M.
+YR 2003
+T1 Measuring the structure of highly reflecting fiber Bragg gratings
+
+RT Conference Proceedings
+ID 50338905
+A1 Rosenthal,A.
+A1 Horowitz,M.
+YR 2003
+T1 A new inverse scattering algorithm for reconstructing highly reflecting fiber Bragg gratings
+
+RT Conference Proceedings
+ID 520844
+A1 Horowitz,Mark
+YR 2003
+T1 High-Speed Link Design, Then and Now
+
+RT Journal Article
+ID 39210183
+A1 Horowitz,Mark
+YR 2003
+T1 Reconfigurable Future
+JF ACM Queue
+
+RT Conference Proceedings
+ID 605210
+A1 Brodersen,Robert,W.
+A1 Horowitz,Mark,A.
+A1 Markovic,Dejan
+A1 Nikolic,Borivoje
+A1 Stojanovic,Vladimir
+YR 2002
+T1 Methods for true power minimization
+SP 35
+OP 42
+
+RT Journal Article
+ID 1250942
+A1 Wilburn,B.
+A1 Smulski,M.
+A1 Lee,H.,H.,K.
+A1 Horowitz,M.
+YR 2002
+T1 The light field video camera
+
+RT Journal Article
+ID 82252
+A1 Kim,Jaeha
+A1 Horowitz,Mark,A.
+YR 2002
+T1 Adaptive supply serial links with sub-1-V operation and per-pin clock recovery
+JF IEEE Journal of Solid-state Circuits
+VO 37
+SP 1403
+OP 1413
+IS 11
+
+RT Journal Article
+ID 1331651
+A1 Kleveland,Bendik
+A1 Qi,Xiaoning
+A1 Madden,Liam
+A1 Furusawa,Takeshi
+A1 Dutton,Robert,W.
+A1 Horowitz,Mark,A.
+A1 Wong,S.,Simon
+YR 2002
+T1 High-frequency characterization of on-chip digital interconnects
+JF IEEE Journal of Solid-state Circuits
+VO 37
+SP 716
+OP 725
+IS 6
+
+RT Journal Article
+ID 2370181
+A1 Stojanovic,Vladimir
+A1 Markovic,Dejan
+A1 Nikolic,Borivoje
+A1 Horowitz,Mark,A.
+A1 Brodersen,Robert,W.
+YR 2002
+T1 Energy–delay tradeoffs in combinational logic using gate sizing and supply voltage optimization
+
+RT Conference Proceedings
+ID 50259877
+A1 Kim,Jaeha
+A1 Horowitz,M.,A.
+YR 2002
+T1 Adaptive supply serial links with sub-1V operation and per-pin clock recovery
+
+RT Conference Proceedings
+ID 50261035
+A1 Stojanovic,V.
+A1 Ginis,G.
+A1 Horowitz,M.,A.
+YR 2002
+T1 Transmit pre-emphasis for high-speed time-division-multiplexed serial-link transceiver
+
+RT Journal Article
+ID 2082386
+A1 Wenger,S.
+A1 Horowitz,M.
+YR 2002
+T1 Flexible MB Ordering-A New Error Resilience Tool for IP-Based Video
+
+RT Conference Proceedings
+ID 50268387
+A1 Emami-Neyestanak,Azita
+A1 Liu,Dean
+A1 Keeler,Gordon
+A1 Helman,Noah
+A1 Horowitz,Mark
+YR 2002
+T1 A 1.6 Gb/s, 3 mW CMOS receiver for optical communication
+
+RT Journal Article
+ID 10340
+A1 Lie,David
+A1 Thekkath,Chandramohan,A.
+A1 Horowitz,Mark
+YR 2002
+T1 Separating Protection and Resource Management in Operating Systems
+
+RT Conference Proceedings
+ID 50291915
+A1 Brodersen,Robert,W.
+A1 Horowitz,Mark,A.
+A1 Markovic,Dejan
+A1 Nikolic,Borivoje
+A1 Stojanovic,Vladimir
+YR 2002
+T1 Methods for true power minimization
+SP 35
+OP 42
+
+RT Journal Article
+ID 81587
+A1 Liu,Dean
+A1 Johansson,Henrik,O.
+A1 Kim,Jaeha
+A1 Horowitz,Mark
+YR 2002
+T1 A Tracking PLL with an FIR Loop Filter
+
+RT Journal Article
+ID 2325299
+A1 Emami-Neyestanak,Azita
+A1 Liu,Dean
+A1 Keeler,Gordon
+A1 Helman,Noah
+A1 Horowitz,Mark
+YR 2002
+T1 A 1.6Gb/s, 3mW Integrating CMOS Optical Receiver with Hybrid GaAs PhotoDetectors
+
+RT Conference Proceedings
+ID 50260043
+A1 Kim,Jaeha
+A1 Horowitz,Mark,A.
+YR 2002
+T1 Adaptive supply serial links with sub-1 V operation and per-pin clock recovery
+
+RT Journal Article
+ID 1357248
+A1 HO,RON
+A1 MAI,KENNETH,W.
+A1 HOROWITZ,MARK,A.
+YR 2001
+T1 The future of wires
+JF Proceedings of The IEEE
+VO 89
+SP 490
+OP 504
+IS 4
+
+RT Journal Article
+ID 3027474
+A1 Estrin,D.
+A1 Borriello,G.
+A1 Colwell,R.
+A1 Fiddler,J.
+A1 Horowitz,M.
+A1 Kaiser,W.
+A1 Leveson,N.
+A1 Liskov,B.
+A1 Lucas,P.
+A1 Maher,D.
+A1 Mankiewich,P.,L.
+A1 Taylor,R.
+A1 Waldo,J.
+YR 2001
+T1 Embedded Everywhere: A Research Agenda for Networked Systems of Embedded Computers
+
+RT Journal Article
+ID 1521165
+A1 Yang,Chih-Kong,Ken
+A1 Stojanovic,Vladimir
+A1 Modjtahedi,Siamak
+A1 Horowitz,Mark,A.
+YR 2001
+T1 A serial-link transceiver based on 8-GSamples/s A/D and D/A converters in 0.25-μm CMOS
+JF IEEE Journal of Solid-state Circuits
+VO 36
+SP 1684
+OP 1692
+IS 11
+
+RT Journal Article
+ID 83752
+A1 Amrutur,Bharadwaj,S.
+A1 Horowitz,Mark,A.
+YR 2001
+T1 Fast low-power decoders for RAMs
+JF IEEE Journal of Solid-state Circuits
+VO 36
+SP 1506
+OP 1515
+IS 10
+
+RT Journal Article
+ID 68909
+A1 Stojanovic,Vladimir
+A1 Ginis,George
+A1 Horowitz,Mark,A.
+YR 2001
+T1 Transmit Pre-emphasis for High-Speed Time-Division-Multiplexed Serial-Link Transceiver1
+JF IEEE Transactions on Communications
+
+RT Conference Proceedings
+ID 552812
+A1 Al-rawi,Ghazi
+A1 Cioffi,John,M.
+A1 Horowitz,Mark
+YR 2001
+T1 Optimizing the Mapping of Low-Density Parity Check Codes on Parallel Decoding Architectures
+SP 578
+
+RT Conference Proceedings
+ID 50241480
+A1 Al-Rawi,Ghazi
+A1 Cioffi,John
+A1 Motwani,Rajeev
+A1 Horowitz,Mark
+YR 2001
+T1 Optimizing iterative decoding of low-density parity check codes on programmable pipelined parallel architectures
+
+RT Conference Proceedings
+ID 50222113
+A1 Ellersick,William
+A1 Yang,Chih-Kong,Ken
+A1 Stojanovic,Vladimir
+A1 Modjtahedi,S.
+A1 Horowitz,M.,A.
+YR 2001
+T1 A serial-link transceiver based on 8 GSample/s A/D and D/A converters in 0.25 μm CMOS
+SP 58
+
+RT Conference Proceedings
+ID 2451791
+A1 Johansson,H.,O.
+A1 Horowitz,M.
+YR 2001
+T1 Sampling-rate optimization of an interleaved-sampling front-end
+SP 573
+OP 576
+
+RT Journal Article
+ID 3532193
+A1 Al-rawi,G.
+A1 Cioffi,J.
+A1 Horowitz,M.
+YR 2001
+T1 Optimizing the mapping of LDPC Codes on parallel decoding architectures
+
+RT Conference Proceedings
+ID 67528
+A1 Solomon,Jeff
+A1 Horowitz,Mark
+YR 2001
+T1 Using texture mapping with mipmapping to render a VLSI layout
+SP 500
+OP 505
+
+RT Journal Article
+ID 56258251
+A1 Wilburn,Bennett,S.
+A1 Smulski,Michal
+A1 Lee,Hsiao-Heng,K.
+A1 Horowitz,Mark,A.
+YR 2001
+T1 Light field video camera
+VO 4674
+SP 29
+OP 36
+
+RT Conference Proceedings
+ID 50227623
+A1 Solomon,Jeff
+A1 Horowitz,M.
+YR 2001
+T1 Using texture mapping with mipmapping to render a VLSI layout
+SP 500
+OP 505
+
+RT Journal Article
+ID 134557
+A1 Lie,David
+A1 Thekkath,Chandramohan,A.
+A1 Mitchell,Mark
+A1 Lincoln,Patrick
+A1 Boneh,Dan
+A1 Mitchell,John,C.
+A1 Horowitz,Mark
+YR 2000
+T1 Architectural support for copy and tamper resistant software
+JF Sigplan Notices
+VO 28
+SP 168
+OP 177
+IS 5
+
+RT Conference Proceedings
+ID 550991
+A1 Mai,Ken
+A1 Paaske,Tim
+A1 Jayasena,Nuwan
+A1 Ho,Ron
+A1 Dally,William,J.
+A1 Horowitz,Mark
+YR 2000
+T1 Smart Memories: a modular reconfigurable architecture
+SP 161
+OP 171
+
+RT Journal Article
+ID 68922
+A1 Wei,G.-Y.
+A1 Kim,J.
+A1 Liu,D.
+A1 Sidiropoulos,S.
+A1 Horowitz,M.,A.
+YR 2000
+T1 A variable-frequency parallel I/O interface with adaptive power-supply regulation
+JF IEEE Journal of Solid-state Circuits
+VO 35
+SP 1600
+OP 1610
+IS 11
+
+RT Journal Article
+ID 150417
+A1 Amrutur,B.,S.
+A1 Horowitz,M.,A.
+YR 2000
+T1 Speed and power scaling of SRAM's
+JF IEEE Journal of Solid-state Circuits
+VO 35
+SP 175
+OP 185
+IS 2
+
+RT Conference Proceedings
+ID 2033410
+A1 Sidiropoulos,Stefanos
+A1 Liu,Dean
+A1 Kim,Jaeha
+A1 Wei,Guyeon
+A1 Horowitz,Mark
+YR 2000
+T1 Adaptive bandwidth DLLs and PLLs using regulated supply CMOS buffers
+
+RT Journal Article
+ID 221034
+A1 Gibson,Jeff
+A1 Kunz,Robert
+A1 Ofelt,David
+A1 Horowitz,Mark
+A1 Hennessy,John
+A1 Heinrich,Mark
+YR 2000
+T1 FLASH vs. (simulated) FLASH: closing the simulation loop
+JF Sigplan Notices
+VO 35
+SP 49
+OP 58
+IS 11
+
+RT Journal Article
+ID 1522377
+A1 Farjad-Rad,Ramin
+A1 Yang,Chih-Kong,Ken
+A1 Horowitz,Mark
+YR 2000
+T1 A 0.3-μm CMOS 8Gb/s 4PAM serial link transceiver
+JF IEEE Journal of Solid-state Circuits
+VO 35
+SP 757
+OP 764
+IS 5
+
+RT Journal Article
+ID 1522597
+A1 Yeung,Evelina
+A1 Horowitz,Mark,A.
+YR 2000
+T1 A 2.4 Gb/s/pin simultaneous bidirectional parallel link with per-pin skew compensation
+JF IEEE Journal of Solid-state Circuits
+VO 35
+SP 1619
+OP 1628
+IS 11
+
+RT Conference Proceedings
+ID 2695268
+A1 Weinlader,D.
+A1 Ho,Ron
+A1 Yang,Chih-Kong,Keng
+A1 Horowitz,M.
+YR 2000
+T1 An eight channel 35 GSample/s CMOS timing analyzer
+SP 170
+OP 171
+
+RT Journal Article
+ID 14417571
+A1 Thekkath,David,Lie,Chandramohan
+A1 Mitchell,Mark
+A1 Lincoln,Patrick
+A1 Boneh,Dan
+A1 Mitchell,John
+A1 Horowitz,Mark
+YR 2000
+T1 Architectural support for copy and tamper resistant software
+JF Operating Systems Review
+VO 34
+SP 168
+OP 177
+IS 5
+
+RT Conference Proceedings
+ID 452246
+A1 Hu,Cheming
+A1 Horowitz,Mark
+A1 Chow,Stephen,Y.
+YR 2000
+T1 Life at the end of CMOS scaling (and beyond) (panel session) (abstract only)
+SP 85
+
+RT Journal Article
+ID 14415857
+A1 Mai,Ken
+A1 Paaske,Tim
+A1 Jayasena,Nuwan
+A1 Ho,Ron
+A1 Dally,William,J.
+A1 Horowitz,Mark
+YR 2000
+T1 Smart Memories: a modular reconfigurable architecture
+JF ACM Sigarch Computer Architecture News
+VO 28
+SP 161
+OP 171
+IS 2
+
+RT Journal Article
+ID 14417581
+A1 Gibson,Jeff
+A1 Kunz,Robert
+A1 Ofelt,David
+A1 Horowitz,Mark
+A1 Hennessy,John
+A1 Heinrich,Mark
+YR 2000
+T1 FLASH vs. (Simulated) FLASH: closing the simulation loop
+JF Operating Systems Review
+VO 34
+SP 49
+OP 58
+IS 5
+
+RT Journal Article
+ID 14415871
+A1 Gibson,Jeff
+A1 Kunz,Robert
+A1 Ofelt,David
+A1 Horowitz,Mark
+A1 Hennessy,John
+A1 Heinrich,Mark
+YR 2000
+T1 FLASH vs. (Simulated) FLASH: closing the simulation loop
+JF ACM Sigarch Computer Architecture News
+VO 28
+SP 49
+OP 58
+IS 5
+
+RT Journal Article
+ID 39211901
+A1 Thekkath,David,Lie,Chandramohan
+A1 Mitchell,Mark
+A1 Lincoln,Patrick
+A1 Boneh,Dan
+A1 Mitchell,John
+A1 Horowitz,Mark
+YR 2000
+T1 Architectural support for copy and tamper resistant software
+JF ACM Sigarch Computer Architecture News
+SP 168
+OP 177
+
+RT Conference Proceedings
+ID 12787315
+A1 Wei,Gu-Yeon
+A1 Kim,Jaeha
+A1 Liu,Dean
+A1 Sidiropoulos,Stefanos
+A1 Horowitz,M.
+YR 2000
+T1 A variable-frequency parallel I/O interface with adaptive power supply regulation
+SP 298
+OP 299
+
+RT Conference Proceedings
+ID 50183181
+A1 Yeung,Evelina
+A1 Horowitz,Mark
+YR 2000
+T1 A 2.4 Gb/s/pin simultaneous bidirectional parallel link with per pin skew compensation
+SP 256
+OP 257
+
+RT Journal Article
+ID 50212193
+A1 Keren,S.
+A1 Horowitz,M.
+YR 2000
+T1 Interrogation of fiber gratings using spectral interferometry of a low-coherence light source
+JF Filtration Industry Analyst
+
+RT Book, Whole
+ID 469327
+A1 Ogawa,Junji
+A1 Horowitz,Mark
+YR 2000
+T1 A 64Mbit Mesochronous Hybrid Wave Pipelined Multibank DRAM Macro
+SP 1
+OP 14
+
+RT Journal Article
+ID 149651
+A1 HO,RON
+A1 MAI,KENNETH,W.
+A1 HOROWITZ,MARK,A.
+YR 1999
+T1 The Future of Wires
+JF Proceedings of The IEEE
+
+RT Journal Article
+ID 151159
+A1 Wei,Gu-Yeon
+A1 Horowitz,Mark
+YR 1999
+T1 A fully digital, energy-efficient, adaptive power-supply regulator
+JF IEEE Journal of Solid-state Circuits
+VO 34
+SP 520
+OP 528
+IS 4
+
+RT Journal Article
+ID 1520621
+A1 Garlepp,Bruno,W.
+A1 Donnelly,Kevin,S.
+A1 Kim,Jun
+A1 Chau,Pak,S.
+A1 Zerbe,Jared,L.
+A1 Huang,Charles
+A1 Tran,Chanh,V.
+A1 Portmann,Clemenz,L.
+A1 Stark,Donald
+A1 Chan,Yiu-Fai
+A1 Lee,Thomas,H.
+A1 Horowitz,Mark,A.
+YR 1999
+T1 A portable digital DLL for high-speed CMOS interface circuits
+JF IEEE Journal of Solid-state Circuits
+VO 34
+SP 632
+OP 644
+IS 5
+
+RT Journal Article
+ID 231100
+A1 Farjad-Rad,Ramin
+A1 Yang,Chih-Kong,Ken
+A1 Horowitz,Mark,A.
+A1 Lee,Thomas,H.
+YR 1999
+T1 A 0.4-μm CMOS 10Gb/s 4PAM pre-emphasis serial link transmitter
+JF IEEE Journal of Solid-state Circuits
+VO 34
+SP 580
+OP 585
+IS 5
+
+RT Conference Proceedings
+ID 453027
+A1 Kapadia,Hema
+A1 Horowitz,Mark
+YR 1999
+T1 Using partitioning to help convergence in the standard-cell design automation methodology
+SP 592
+OP 597
+
+RT Conference Proceedings
+ID 3133146
+A1 Ellersick,William
+A1 Yang,Chih-Kong,Ken
+A1 Horowitz,Mark
+A1 Dally,William
+YR 1999
+T1 GAD: A 12GS/s CMOS 4-bit A/D converter for an equalized multi-level link
+
+RT Conference Proceedings
+ID 150587
+A1 Bergmann,Jules,P.
+A1 Horowitz,Mark,A.
+YR 1999
+T1 Improving coverage analysis and test generation for large designs
+SP 580
+OP 583
+
+RT Journal Article
+ID 145902
+A1 Harris,David,L.
+A1 Horowitz,Mark
+A1 Liu,Dean
+YR 1999
+T1 Timing analysis including clock skew
+JF IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems
+VO 18
+SP 1608
+OP 1618
+IS 11
+
+RT Conference Proceedings
+ID 604435
+A1 Ho,Ron
+A1 Mai,Ken
+A1 Kapadia,Hema
+A1 Horowitz,Mark
+YR 1999
+T1 Interconnect scaling implications for CAD
+SP 425
+OP 429
+
+RT Conference Proceedings
+ID 452555
+A1 Bergmann,Jules,P.
+A1 Horowitz,Mark,A.
+YR 1999
+T1 Vex—A CAD toolbox
+SP 523
+OP 528
+
+RT Conference Proceedings
+ID 50160624
+A1 Chang,Kun-Yung,Ken
+A1 Chuang,Shang-Tse
+A1 McKeown,Nick
+A1 Horowitz,Mark
+YR 1999
+T1 A 50 Gb/s 32×32 CMOS crossbar chip using asymmetric serial links
+
+RT Conference Proceedings
+ID 50160632
+A1 Farjad-Rad,Ramin
+A1 Yang,Chih-Kong,Ken
+A1 Horowitz,Mark
+A1 Lee,Thomas
+YR 1999
+T1 A 0.3-μm CMOS 8Gb/s 4PAM serial link transceiver
+
+RT Journal Article
+ID 68957
+A1 Harris,David
+A1 Horowitz,Mark
+A1 Liu,Dean
+YR 1999
+T1 Timing Analysis with Clock Skew
+
+RT Conference Proceedings
+ID 50152506
+A1 Kapadia,Hema
+A1 Horowitz,Mark
+YR 1999
+T1 Using partitioning to help convergence in the standard-cell design automation methodology
+
+RT Conference Proceedings
+ID 50152494
+A1 Bergmann,Jules,P.
+A1 Horowitz,Mark,A.
+YR 1999
+T1 Vex-a CAD toolbox
+
+RT Conference Proceedings
+ID 551314
+A1 Kuskin,Jeffrey,S.
+A1 Ofelt,David
+A1 Heinrich,Mark
+A1 Heinlein,John
+A1 Simoni,Richard
+A1 Gharachorloo,Kourosh
+A1 Chapin,John
+A1 Nakahira,David
+A1 Baxter,Joel
+A1 Horowitz,Mark,A.
+A1 Gupta,Anoop
+A1 Rosenblum,Mendel
+A1 Hennessy,John,L.
+YR 1998
+T1 The Stanford FLASH multiprocessor
+SP 485
+OP 496
+
+RT Journal Article
+ID 104419
+A1 Horowitz,Mark
+A1 Yang,Chih-Kong,Ken
+A1 Sidiropoulos,Stefanos
+YR 1998
+T1 High-speed electrical signaling: overview and limitations
+JF IEEE Micro
+VO 18
+SP 12
+OP 24
+IS 1
+
+RT Journal Article
+ID 157505
+A1 Amrutur,Bharadwaj,S.
+A1 Horowitz,Mark,A.
+YR 1998
+T1 A replica technique for wordline and sense control in low-power SRAM's
+JF IEEE Journal of Solid-state Circuits
+VO 33
+SP 1208
+OP 1219
+IS 8
+
+RT Journal Article
+ID 157719
+A1 Yang,Chih-Kong,Ken
+A1 Farjad-Rad,Ramin
+A1 Horowitz,Mark,A.
+YR 1998
+T1 A 0.5-μm CMOS 4.0-Gbit/s serial link transceiver with data recovery using oversampling
+JF IEEE Journal of Solid-state Circuits
+VO 33
+SP 713
+OP 722
+IS 5
+
+RT Journal Article
+ID 152623
+A1 Mai,Kenneth,W.
+A1 Mori,Toshihiko
+A1 Amrutur,Bharadwaj,S.
+A1 Ho,Ron
+A1 Wilburn,Bennett
+A1 Horowitz,Mark,A.
+A1 Fukushi,Isao
+A1 Izawa,Tetsuo
+A1 Mitarai,Shin
+YR 1998
+T1 Low-power SRAM design using half-swing pulse-mode techniques
+JF IEEE Journal of Solid-state Circuits
+VO 33
+SP 1659
+OP 1671
+IS 11
+
+RT Conference Proceedings
+ID 12807978
+A1 Ho,Ron
+A1 Amrutur,Bharadwaj
+A1 Mai,Ken
+A1 Wilburn,Bennett
+A1 Mori,Toshihiko
+A1 Horowitz,Mark
+YR 1998
+T1 Applications of on-chip samplers for test and measurement of integrated circuits
+
+RT Conference Proceedings
+ID 361308
+A1 Govindaraju,Shankar,G.
+A1 Hu,Alan,J.
+A1 Horowitz,Mark,A.
+YR 1998
+T1 Approximate reachability with BDDs using overlapping projections
+SP 451
+OP 456
+
+RT Journal Article
+ID 1712583
+A1 McKeown,Nick
+A1 Izzard,Martin
+A1 Mekkittikul,Adisak
+A1 Ellersick,Bill
+A1 Horowitz,Mark
+YR 1998
+T1 The Tiny Tera: A Packet Switch Core
+JF Computing Research Repository
+VO cs.NI/9810
+
+RT Journal Article
+ID 279367
+A1 Horowitz,Mark
+A1 Martonosi,Margaret
+A1 Mowry,Todd,C.
+A1 Smith,Michael,D.
+YR 1998
+T1 Informing memory operations: memory performance feedback mechanisms and their applications
+JF ACM Transactions on Computer Systems
+VO 16
+SP 170
+OP 205
+IS 2
+
+RT Journal Article
+ID 1521737
+A1 Shahani,Arvin,R.
+A1 Shaeffer,Derek,K.
+A1 Mohan,S.,S.
+A1 Samavati,Hirad
+A1 Rategh,Hamid,R.
+A1 Hershenson,Maria,del,Mar
+A1 Xu,Min
+A1 Yue,C.,Patrick
+A1 Eddleman,Daniel,J.
+A1 Horowitz,Mark,A.
+A1 Lee,Thomas,H.
+YR 1998
+T1 Low-power dividerless frequency synthesis using aperture phase detection
+JF IEEE Journal of Solid-state Circuits
+VO 33
+SP 2232
+OP 2239
+IS 12
+
+RT Conference Proceedings
+ID 50118163
+A1 Frjad-Rad,R.
+A1 Yang,Chih-Kong,Ken
+A1 Horowitz,M.
+A1 Lee,T.
+YR 1998
+T1 A 0.4-μm CMOS 10Gb/s 4PAM pre-emphasis serial link transmitter
+
+RT Conference Proceedings
+ID 50118169
+A1 Garlepp,Bruno,W.
+A1 Donnelly,Kevin,S.
+A1 Kim,Jun
+A1 Chau,Pak,S.
+A1 Zerbe,Jared,L.
+A1 Huang,Charles
+A1 Tran,Chanh,V.
+A1 Portmann,Clemenz,L.
+A1 Stark,Donald
+A1 Chan,Yiu-Fai
+A1 Lee,Thomas,H.
+A1 Horowitz,Mark,A.
+YR 1998
+T1 A portable digital DLL architecture for CMOS interface circuits
+
+RT Conference Proceedings
+ID 50110862
+A1 Moriis,T.
+A1 Amrutur,B.
+A1 Mai,K.
+A1 Horowitz,M.
+A1 Fukushi,I.
+A1 Izawa,T.
+A1 Mitarai,S.
+YR 1998
+T1 A 1 V 0.9 mW at 100 MHz 2 k×16 b SRAM utilizing a half-swing pulsed-decoder and write-bus architecture in 0.25 μm dual-Vt CMOS
+SP 354
+
+RT Conference Proceedings
+ID 2066429
+A1 Chang,Kun-Yung,Ken
+A1 Ellersick,William
+A1 Chuang,Shang-Tse
+A1 Sidiropoulos,Stefanos
+A1 Horowitz,Mark
+YR 1998
+T1 A 2 Gb/s/pin CMOS asymmetric serial link
+
+RT Conference Proceedings
+ID 2734827
+A1 Govindaraju,S.,G.
+A1 Dill,D.,L.
+A1 Hu,A.
+A1 Horowitz,M.,A.
+YR 1998
+T1 Approximate Reachability Analysis with BDDs using Overlapping Projections
+
+RT Conference Proceedings
+ID 551483
+A1 Agarwal,Anant
+A1 Simoni,Richard
+A1 Hennessy,John,L.
+A1 Horowitz,Mark
+YR 1998
+T1 An evaluation of directory schemes for cache coherence
+SP 353
+OP 362
+
+RT Journal Article
+ID 4207538
+A1 Horowitz,M.
+A1 Yang,C.,K.,K.
+A1 Sidiropoulos,S.
+YR 1998
+T1 High - speed electrical signaling
+
+RT Conference Proceedings
+ID 50127724
+A1 Govindaraju,S.,G.
+A1 Dill,David,L.
+A1 Hu,Alan,J.
+A1 Horowitz,Mark,A.
+YR 1998
+T1 Approximate reachability with BDDs using overlapping projections
+
+RT Journal Article
+ID 30374682
+A1 Woo,Shiao,Y.
+A1 Teh,Bin,S.
+A1 Horowitz,Mark
+A1 Dauser,Robert
+A1 Strother,Douglas
+A1 McClain,Kenneth
+A1 Chiu,Joseph,K.
+A1 Butler,Edward,B
+YR 1998
+T1 Initial experience of intensity modulated radiotherapy (IMRT) for children with brain or head and neck tumors
+JF International Journal of Radiation Oncology Biology Physics
+VO 42
+SP 358
+OP 358
+IS 1
+
+RT Journal Article
+ID 50112727
+A1 Horowitz,M.
+A1 Silberberg,Y.
+YR 1998
+T1 Noiselike generation in erbium-doped fiber lasers due to nonlinear polarization rotation in birefringent fibers
+JF European Journal of Pain
+
+RT Journal Article
+ID 152051
+A1 Gonzalez,Ricardo
+A1 Gordon,Benjamin,M.
+A1 Horowitz,Mark,A.
+YR 1997
+T1 Supply and threshold voltage scaling for low power CMOS
+JF IEEE Journal of Solid-state Circuits
+VO 32
+SP 1210
+OP 1216
+IS 8
+
+RT Journal Article
+ID 1594544
+A1 McKeown,Nick
+A1 Izzard,Martin
+A1 Mekkittikul,Adisak
+A1 Ellersick,William
+A1 Horowitz,Mark
+YR 1997
+T1 Tiny Tera: a packet switch core
+JF IEEE Micro
+VO 17
+SP 26
+OP 33
+IS 1
+
+RT Journal Article
+ID 150690
+A1 Sidiropoulos,Stefanos
+A1 Horowitz,Mark,A.
+YR 1997
+T1 A semidigital dual delay-locked loop
+JF IEEE Journal of Solid-state Circuits
+VO 32
+SP 1683
+OP 1692
+IS 11
+
+RT Journal Article
+ID 333225
+A1 Harris,David
+A1 Horowitz,Mark,A.
+YR 1997
+T1 Skew-tolerant domino circuits
+JF IEEE Journal of Solid-state Circuits
+VO 32
+SP 1702
+OP 1711
+IS 11
+
+RT Conference Proceedings
+ID 4537764
+A1 Yang,Chih-Kong,Ken
+A1 Farjad-Rad,Ramin
+A1 Horowitz,Mark
+YR 1997
+T1 A 0.6μm CMOS 4Gb/s Transceiver With Data Recovery Using Oversampling
+
+RT Journal Article
+ID 11605131
+A1 Barad,Y.
+A1 Eisenberg,H.
+A1 Horowitz,M.
+A1 Silberberg,Y.
+YR 1997
+T1 Nonlinear scanning laser microscopy by third harmonic generation
+JF Applied Physics Letters
+VO 70
+SP 922
+OP 924
+
+RT Journal Article
+ID 1523287
+A1 Sidiropoulos,Stefanos
+A1 Horowitz,Mark
+YR 1997
+T1 A 700Mb/s/pin CMOS signaling interface using current integrating receivers
+JF IEEE Journal of Solid-state Circuits
+VO 32
+SP 681
+OP 690
+IS 5
+
+RT Conference Proceedings
+ID 147871
+A1 Harris,David,L.
+A1 Oberman,Stuart,F.
+A1 Horowitz,Mark,A.
+YR 1997
+T1 SRT Division Architectures and Implementations
+SP 18
+OP 25
+
+RT Conference Proceedings
+ID 12667364
+A1 Sidiropoulos,Stefanos
+A1 Horowitz,Mark
+YR 1997
+T1 A semi-digital DLL with unlimited phase shift capability and 0.08-400 MHz operating range
+SP 332
+
+RT Journal Article
+ID 151642
+A1 Otsuka,Nobuaki
+A1 Horowitz,Mark,A.
+YR 1997
+T1 Circuit techniques for 1.5-V power supply flash memory
+JF IEEE Journal of Solid-state Circuits
+VO 32
+SP 1217
+OP 1230
+IS 8
+
+RT Journal Article
+ID 268167
+A1 Horowitz,M.
+A1 Barad,Y.
+A1 Silberberg,Y.
+YR 1997
+T1 Noiselike pulses witha broadband spectrum generated from an erbium-dopedfiber laser
+JF Optics Letters
+VO 22
+SP 799
+OP 801
+IS 11
+
+RT Journal Article
+ID 551294
+A1 Teodosiu,Dan
+A1 Baxter,Joel
+A1 Govil,Kinshuk
+A1 Chapin,John
+A1 Rosenblum,Mendel
+A1 Horowitz,Mark
+YR 1997
+T1 Hardware Fault Containment in Scalable Shared-Memory Multiprocessors
+JF ACM Sigarch Computer Architecture News
+VO 25
+SP 73
+OP 84
+IS 2
+
+RT Journal Article
+ID 244209
+A1 Sidiropoulos,Stefanos
+A1 Horowitz,Mark,A.
+YR 1997
+T1 A Semi-Digital Delay Locked Loop with Unlimited Phase Shift Capability and 0.08-400MHz Operating Range
+
+RT Journal Article
+ID 1628602
+A1 Horowitz,M.
+A1 Chraplyvy,A.,R.
+A1 Tkach,R.,W.
+A1 Zyskind,J.,L.
+YR 1997
+T1 Broad-band transmitted intensity noise induced by Stokes and anti-Stokes Brillouin scattering in single-mode fibers
+JF IEEE Photonics Technology Letters
+VO 9
+SP 124
+OP 126
+IS 1
+
+RT Conference Proceedings
+ID 905447
+A1 Ho,Richard,C.
+A1 Horowitz,Mark,A.
+YR 1997
+T1 Validation coverage analysis for complex digital designs
+
+RT Journal Article
+ID 1469437
+A1 HEINRICH,MARK
+A1 OFELT,DAVID
+A1 HOROWITZ,MARK,A.
+A1 HENNESSY,JOHN
+YR 1997
+T1 Hardware/software co-design of the Stanford FLASH multiprocessor
+JF Proceedings of The IEEE
+VO 85
+SP 455
+OP 466
+IS 3
+
+RT Journal Article
+ID 264608
+A1 Horowitz,M.
+A1 Silberberg,Y.
+YR 1997
+T1 Nonlinear filteringby use of intensity-dependent polarization rotation in birefringentfibers
+JF Optics Letters
+VO 22
+SP 1760
+OP 1762
+IS 23
+
+RT Journal Article
+ID 68700
+A1 Harris,David,L.
+A1 Oberman,Stuart,F.
+A1 Horowitz,Mark,A.
+YR 1997
+T1 SRT Division: Architectures, Models, and Implementations
+
+RT Conference Proceedings
+ID 50075065
+A1 Harris,D.
+A1 Horowitz,M.,A.
+YR 1997
+T1 Skew-tolerant domino circuits
+SP 422
+OP 423
+
+RT Journal Article
+ID 56899229
+A1 Chang,Jen-Tsorng
+A1 Su,Der-Chin
+A1 Huang,Zhi-Xian
+A1 Huang,Yang-Tung
+A1 Barad,Y.
+A1 Eisenberg,H.
+A1 Horowitz,M.
+A1 Silberberg,Y.
+A1 Kanbara,Hirohisa
+A1 Fujiwara,Seiji
+A1 Tanaka,Koichiro
+A1 Nasu,Hiroyuki
+A1 Hirao,Kazuyuki
+A1 Michelotti,F.
+A1 Bartuch,U.
+A1 Ashley,T.
+A1 Elliott,C.,T.
+A1 Jefferies,R.
+A1 Johnson,A.,D.
+A1 Pryce,G.,J.
+A1 White,A.,M.
+A1 Carroll,M.
+A1 Wright,Malcolm,W.
+A1 Dente,Gregory,C.
+A1 Bossert,David,J.
+A1 Tilton,Michael,L.
+A1 Osakabe,N.
+A1 Harada,K.
+A1 Lutwyche,M.,I.
+A1 Kasai,H.
+A1 Tonomura,A.
+YR 1997
+T1 OPTICS 919 A substrate-mode holographic collimating and beam shaping element for laser diodes
+
+RT Journal Article
+ID 39211800
+A1 Teodosiu,Dan
+A1 Baxter,Joel
+A1 Govil,Kinshuk
+A1 Chapin,John
+A1 Rosenblum,Mendel
+A1 Horowitz,Mark
+YR 1997
+T1 Hardware fault containment in scalable shared-memory multiprocessors
+JF ACM Sigarch Computer Architecture News
+SP 73
+OP 84
+
+RT Conference Proceedings
+ID 50081177
+A1 Teodosiu,Dan
+A1 Baxter,Joel
+A1 Govil,Kinshuk
+A1 Chapin,John
+A1 Rosenblum,Mentlel
+A1 Horowitz,Mark
+YR 1997
+T1 Hardware Fault Containment In Scalable Shared-memory Multiprocessors
+SP 73
+OP 84
+
+RT Journal Article
+ID 1672738
+A1 Gupta,D.
+A1 Amrutur,B.
+A1 Terzioglu,E.
+A1 Ghoshal,U.
+A1 Beasley,M.,R.
+A1 Horowitz,M.
+YR 1997
+T1 Optimization of hybrid JJ/CMOS memory operating temperatures
+JF IEEE Transactions on Applied Superconductivity
+VO 7
+SP 3307
+OP 3310
+IS 2
+
+RT Journal Article
+ID 56214654
+A1 Horowitz,M.
+A1 Chraplyvy,A.,R.
+A1 Tkach,R.,W.
+A1 Zyskind,J.,L.
+YR 1997
+T1 Broad-band transmitted intensity noise induced by Stokes and anti-Stokes Brillouin scattering in single-mode fibers
+JF IEEE Photonics Technology Letters
+VO 9
+SP 124
+OP 126
+
+RT Journal Article
+ID 53959124
+A1 Barad,Y.
+A1 Horowitz,M.
+A1 Silberberg,Y.
+YR 1997
+T1 Third harmonic generation for nonlinear scanning laser microscopy
+VO 3110
+SP 272
+OP 276
+
+RT Journal Article
+ID 60740949
+A1 Beasley,M.,R.
+A1 Horowitz,M.,A.
+YR 1997
+T1 Superconducting/semiconducting hybrids and advance memory concepts for superconducting electronics. Final report, 1 May 1992-30 September 1997
+
+RT Journal Article
+ID 161364
+A1 Gonzalez,Ricardo
+A1 Horowitz,Mark
+YR 1996
+T1 Energy dissipation in general purpose microprocessors
+JF IEEE Journal of Solid-state Circuits
+VO 31
+SP 1277
+OP 1284
+IS 9
+
+RT Conference Proceedings
+ID 162124
+A1 Wei,Gu-Yeon
+A1 Horowitz,Mark
+YR 1996
+T1 A low power switching power supply for self-clocked systems
+SP 313
+OP 317
+
+RT Journal Article
+ID 1365786
+A1 McKeown,Nick
+A1 Izzard,Martin
+A1 Mekkittikul,Adisak
+A1 Ellersick,William
+A1 Horowitz,Mark
+YR 1996
+T1 The Tiny Tera:1 A Packet Switch Core
+
+RT Conference Proceedings
+ID 3422
+A1 Horowitz,Mark
+A1 Martonosi,Margaret
+A1 Mowry,Todd,C.
+A1 Smith,Michael,D.
+YR 1996
+T1 Informing Memory Operations: Providing Memory Performance Feedback in Modern Processors
+SP 260
+OP 270
+
+RT Journal Article
+ID 1522469
+A1 Yang,Chih-Kong,Ken
+A1 Horowitz,Mark,A.
+YR 1996
+T1 A 0.8-μm CMOS 2.5 Gb/s oversampling receiver and transmitter for serial links
+JF IEEE Journal of Solid-state Circuits
+VO 31
+SP 2015
+OP 2023
+IS 12
+
+RT Conference Proceedings
+ID 604462
+A1 Ho,Richard,C.
+A1 Horowitz,Mark,A.
+YR 1996
+T1 Validation coverage analysis for complex digital designs
+SP 146
+OP 151
+
+RT Journal Article
+ID 189796
+A1 Quate,Calvin,F.
+A1 Horowitz,Mark,A.
+A1 Flynn,Michael,J.
+A1 Oberman,Stuart,Franklin
+YR 1996
+T1 Design Issues In High Performance Floating Point Arithmetic Units
+
+RT Conference Proceedings
+ID 50042611
+A1 Sidiropoulos,Stefanos
+A1 Horowitz,Mark
+YR 1996
+T1 A 700 Mbps/pin CMOS signalling interface using current integrating receivers
+
+RT Conference Proceedings
+ID 4574350
+A1 Nakamura,Kazuyuki
+A1 Horowitz,Mark,A.
+YR 1996
+T1 A 50% noise reduction interface using low-weight coding
+
+RT Conference Proceedings
+ID 1292315
+A1 Gonzales,R.
+A1 Horowitz,M.
+YR 1996
+T1 Energy dissipation in general-purpose microprocessors ieee journal of solid-state circ
+
+RT Journal Article
+ID 1329602
+A1 Horowitz,M.
+YR 1996
+T1 High frequency clock distribution
+
+RT Conference Proceedings
+ID 50039077
+A1 Yang,Chih-Kong,Ken
+A1 Horowitz,Mark,A.
+YR 1996
+T1 A 0.8 μm CMOS 2.5 Gb/s oversampled receiver for serial links
+SP 200
+
+RT Journal Article
+ID 14415821
+A1 Horowitz,Mark
+A1 Martonosi,Margaret
+A1 Mowry,Todd,C.
+A1 Smith,Michael,D.
+YR 1996
+T1 Informing memory operations: providing memory performance feedback in modern processors
+JF ACM Sigarch Computer Architecture News
+VO 24
+SP 260
+OP 270
+IS 2
+
+RT Conference Proceedings
+ID 50038922
+A1 Martonosi,M.
+A1 Smith,M.,D.
+A1 Mowry,Todd,C.
+A1 Horowitz,M.
+YR 1996
+T1 Informing Memory Operations: Providing Memory Performance Feedback in Modern Processors
+
+RT Conference Proceedings
+ID 13259851
+A1 Horowitz,Mark
+A1 Rabaey,Jan,M.
+A1 Barton,Brock
+A1 Pedram,Massoud
+YR 1996
+T1 Proceedings of the 1996 International Symposium on Low Power Electronics and Design, 1996, Monterey, California, USA, August 12-14, 1996
+
+RT Journal Article
+ID 50047246
+A1 Horowitz,M.
+A1 Fischer,B.
+A1 Barad,Y.
+A1 Silberberg,Y.
+YR 1996
+T1 Photorefractive effect in BaTiO/sub 3/ at 1.5 /spl mu/m by two-photon absorption
+JF Quaternary International
+
+RT Conference Proceedings
+ID 50060647
+A1 Ho,Richard,C.
+A1 Horowitz,Mark,A.
+YR 1996
+T1 Validation coverage analysis for complex digital designs
+
+RT Journal Article
+ID 50051519
+A1 Wei,Gu-Yeon
+A1 Horowitz,Mark
+YR 1996
+T1 A low power switching power supply for self-clocked systems
+JF Breast Diseases: A Year Book Quarterly
+
+RT Conference Proceedings
+ID 692457
+A1 Usami,Kimiyoshi
+A1 Horowitz,Mark
+YR 1995
+T1 Clustered voltage scaling technique for low-power design
+SP 3
+OP 8
+
+RT Journal Article
+ID 407231
+A1 Ho,Richard,C.
+A1 Yang,C.,Han
+A1 Horowitz,Mark,A.
+YR 1995
+T1 Architecture Validation for Processors
+JF ACM Sigarch Computer Architecture News
+VO 23
+SP 404
+OP 413
+IS 2
+
+RT Journal Article
+ID 2369277
+A1 Abelson,H.
+A1 Cohen,N.
+A1 Fogel,L.
+A1 Ho,C.
+A1 Horowitz,M.
+A1 Knight,T.
+A1 New-ton,R.
+A1 Pister,K.
+YR 1995
+T1 Distributed information systems for MEMS
+
+RT Conference Proceedings
+ID 2009424
+A1 Sidiropoulos,Stefanos
+A1 Horowitz,Mark
+YR 1995
+T1 Current integrating receivers for high speed system interconnects
+
+RT Journal Article
+ID 131191
+A1 Dobbelaere,Ivo
+A1 Horowitz,Mark
+A1 Gamal,A.,El
+YR 1995
+T1 Regenerative feedback repeaters for programmable interconnections
+JF IEEE Journal of Solid-state Circuits
+VO 30
+SP 1246
+OP 1253
+IS 11
+
+RT Conference Proceedings
+ID 1268091
+A1 Usami,K.
+A1 Horowitz,M.
+YR 1995
+T1 Clustered voltage scaling for low-power design
+
+RT Conference Proceedings
+ID 358967
+A1 Dhanesha,Hema
+A1 Falakshahi,Katayoun
+A1 Horowitz,Mark
+YR 1995
+T1 Array-of-arrays architecture for parallel floating point multiplication
+SP 150
+OP 157
+
+RT Journal Article
+ID 39211772
+A1 Ho,Richard,C.
+A1 Yang,C.,Han
+A1 Horowitz,Mark,A.
+YR 1995
+T1 Architecture validation for processors
+JF ACM Sigarch Computer Architecture News
+SP 404
+OP 413
+
+RT Conference Proceedings
+ID 12655337
+A1 Dobbelaere,Ivo
+A1 Horowitz,Mark
+A1 Gamal,A.,El
+YR 1995
+T1 Regenerative feedback repeaters for programmable interconnections
+SP 116
+
+RT Journal Article
+ID 213792
+A1 Kuskin,Jeffrey,S.
+A1 Ofelt,David
+A1 Heinrich,Mark
+A1 Heinlein,John
+A1 Simoni,Richard
+A1 Gharachorloo,Kourosh
+A1 Chapin,John
+A1 Nakahira,David
+A1 Baxter,Joel
+A1 Horowitz,Mark,A.
+A1 Gupta,Anoop
+A1 Rosenblum,Mendel
+A1 Hennessy,John,L.
+YR 1994
+T1 The Stanford FLASH multiprocessor
+JF ACM Sigarch Computer Architecture News
+VO 22
+SP 302
+OP 313
+IS 2
+
+RT Journal Article
+ID 160909
+A1 Horowitz,Mark
+A1 Indermaur,Thomas
+A1 Gonzalez,Ricardo
+YR 1994
+T1 Low-power digital design
+JF Journal of Low Power Electronics
+
+RT Journal Article
+ID 368670
+A1 Heinrich,Mark
+A1 Kuskin,Jeffrey,S.
+A1 Ofelt,David
+A1 Heinlein,John
+A1 Baxter,Joel
+A1 Singh,Jaswinder,Pal
+A1 Simoni,Richard
+A1 Gharachorloo,Kourosh
+A1 Nakahira,David
+A1 Horowitz,Mark,A.
+A1 Gupta,Anoop
+A1 Rosenblum,Mendel
+A1 Hennessy,John,L.
+YR 1994
+T1 The performance impact of flexibility in the Stanford FLASH multiprocessor
+JF Sigplan Notices
+VO 29
+SP 274
+OP 285
+IS 11
+
+RT Conference Proceedings
+ID 34566
+A1 Laudon,James,P.
+A1 Gupta,Anoop
+A1 Horowitz,Mark,A.
+YR 1994
+T1 Interleaving: a multithreading technique targeting multiprocessors and workstations
+SP 308
+OP 318
+
+RT Journal Article
+ID 84302
+A1 Dean,Mark,E.
+A1 Horowitz,Mark
+YR 1994
+T1 Self-timed logic using Current-Sensing Completion Detection (CSCD)
+JF Journal of Vlsi Signal Processing Systems for Signal Image and Video Technology
+VO 7
+SP 7
+OP 16
+IS 1-2
+
+RT Journal Article
+ID 1938029
+A1 Indermaur,Thomas
+A1 Horowitz,Mark
+YR 1994
+T1 Evaluation of charge recovery circuits and adiabatic switching for low power CMOS design
+JF Journal of Low Power Electronics
+
+RT Conference Proceedings
+ID 50009731
+A1 Kuskin,Jeffrey
+A1 Ofelt,David
+A1 Heinrich,Mark
+A1 Heinlein,John
+A1 Simoni,Richard
+A1 Gharachorloo,Kourosh
+A1 Chapin,John
+A1 Nakahira,David
+A1 Baxter,Joel
+A1 Horowitz,Mark
+A1 Gupta,A.
+A1 Rosenblum,M.
+A1 Hennessy,J.
+YR 1994
+T1 The Stanford FLASH multiprocessor
+
+RT Journal Article
+ID 26829126
+A1 Horowitz,M.
+A1 Daisy,R.
+A1 Fischer,B.
+A1 Zyskind,J.
+YR 1994
+T1 Narrow-linewidth, singlemode erbium-doped fibre laser with intracavity wave mixing in saturable absorber
+JF Electronics Letters
+VO 30
+SP 648
+OP 649
+IS 8
+
+RT Conference Proceedings
+ID 12750478
+A1 Sidiropoulos,Stefanos
+A1 Yang,Chih-Kong,Ken
+A1 Horowitz,Mark
+YR 1994
+T1 A Cmos 500 Mbps/pin Synchronous Point to Point Link Interface
+
+RT Journal Article
+ID 1137719
+A1 Kao,Russell
+A1 Horowitz,Mark
+YR 1994
+T1 Timing analysis for piecewise linear Rsim
+JF IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems
+VO 13
+SP 1498
+OP 1512
+IS 12
+
+RT Journal Article
+ID 50002680
+A1 Amrutur,B.,S.
+A1 Horowitz,M.
+YR 1994
+T1 Techniques to reduce power in fast wide memories [CMOS SRAMs]
+JF Iii-vs Review
+
+RT Journal Article
+ID 1349322
+A1 Kao,R.
+A1 Horowitz,M.
+YR 1994
+T1 Timing analysis using piecewise linear rsim
+JF Computer-aided Design
+
+RT Journal Article
+ID 1394955
+A1 Kuskin,J.
+A1 Ofelt,D.
+A1 Heinrich,M.
+A1 Heinlein,J.
+A1 Simoni,R.
+A1 Gharachorloo,K.
+A1 Chapin,J.
+A1 Nakahira,D.
+A1 Baxter,J.
+A1 Horowitz,M.
+A1 Gupta,A.
+A1 Rosenblum,M.
+A1 Hennessy,J.
+YR 1994
+T1 The stanford flash multiproeessor proceedings of the 21th international symposium on computer architecture
+
+RT Conference Proceedings
+ID 470724
+A1 Gasbarro,James,A.
+A1 Horowitz,Mark
+YR 1994
+T1 Techniques for Characterizing DRAMs With a 500MHz Interface
+SP 516
+OP 525
+
+RT Journal Article
+ID 997740
+A1 Kao,Russell
+A1 Horowitz,Mark
+YR 1994
+T1 Eliminating redundant DC equations for asymptotic waveform evaluation
+JF IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems
+VO 13
+SP 396
+OP 397
+IS 3
+
+RT Journal Article
+ID 50005313
+A1 Horowitz,M.
+A1 Bekker,A.
+A1 Fischer,B.
+YR 1994
+T1 Simultaneous generation of sum, difference, and harmonics of two laser frequencies by spread spectrum phase matching
+
+RT Journal Article
+ID 1547712
+A1 Shtaif,M.
+A1 Horowitz,M.
+A1 Nagar,R.
+A1 Eisenstein,G.
+YR 1994
+T1 An optically triggered oscillator based on wave coupling in a semiconductor optical amplifier
+JF IEEE Journal of Quantum Electronics
+VO 30
+SP 2188
+OP 2193
+IS 9
+
+RT Journal Article
+ID 3873445
+A1 J,S.,J.,Carroll
+A1 Horowitz,M.
+A1 Abrahamse,A.
+A1 Kaiser,D.
+YR 1994
+T1 The Costs of Consumer Choice for Auto Insurance in States Without No-Fault Insurance
+
+RT Journal Article
+ID 14417430
+A1 Heinrich,Mark
+A1 Kuskin,Jeffrey
+A1 Ofelt,David
+A1 Heinlein,John
+A1 Baxter,Joel
+A1 Singh,Jaswinder,Pal
+A1 Simoni,Richard
+A1 Gharachorloo,Kourosh
+A1 Nakahira,David
+A1 Horowitz,Mark
+A1 Gupta,Anoop
+A1 Rosenblum,Mendel
+A1 Hennessy,John
+YR 1994
+T1 The performance impact of flexibility in the Stanford FLASH multiprocessor
+JF Operating Systems Review
+VO 28
+SP 274
+OP 285
+IS 5
+
+RT Journal Article
+ID 14417432
+A1 Laudon,James
+A1 Gupta,Anoop
+A1 Horowitz,Mark
+YR 1994
+T1 Interleaving: a multithreading technique targeting multiprocessors and workstations
+JF Operating Systems Review
+VO 28
+SP 308
+OP 318
+IS 5
+
+RT Journal Article
+ID 14409881
+A1 Laudon,James
+A1 Gupta,Anoop
+A1 Horowitz,Mark
+YR 1994
+T1 Interleaving: a multithreading technique targeting multiprocessors and workstations
+JF Sigplan Notices
+VO 29
+SP 308
+OP 318
+IS 11
+
+RT Conference Proceedings
+ID 49982132
+A1 Horowitz,M.
+A1 Daisy,R.
+A1 Fischer,B.
+YR 1994
+T1 Novel laser linewidth narrowing mechanism by nonlinear wave mixing
+
+RT Journal Article
+ID 52746936
+A1 Beasley,M.,R.
+A1 Horowitz,M.
+YR 1994
+T1 Superconducting and semiconducting hybrids and advance memory concepts for superconducting electronics
+
+RT Journal Article
+ID 1520875
+A1 Maneatis,J.,G.
+A1 Horowitz,M.,A.
+YR 1993
+T1 Precise delay generation using coupled oscillators
+JF IEEE Journal of Solid-state Circuits
+VO 28
+SP 1273
+OP 1282
+IS 12
+
+RT Journal Article
+ID 1258792
+A1 Horowitz,M.
+YR 1993
+T1 Low power processor design using self- clocking
+JF Journal of Low Power Electronics
+
+RT Journal Article
+ID 3581267
+A1 Horowitz,M.
+A1 Chan,A.
+A1 Cobrunson,J.
+A1 Gasbarro,J.
+A1 Lee,T.
+A1 Leung,W.
+A1 Richardson,W.
+A1 Thrush,T.
+A1 Fujii,Y.
+YR 1993
+T1 PLL design for a 500Mb/s interface
+
+RT Conference Proceedings
+ID 49955819
+A1 Horowitz,M.
+A1 Chan,A.
+A1 Cobrunson,J.
+A1 Gasbarro,J.
+A1 Lee,T.
+A1 Leung,W.
+A1 Richardson,W.
+A1 Thrush,T.
+A1 Fujii,Y.
+YR 1993
+T1 PLL design for a 500 MB/s interface
+
+RT Journal Article
+ID 1292895
+A1 Horowitz,M.
+A1 Keutzer,K.
+YR 1993
+T1 Hardware-software co- design
+
+RT Journal Article
+ID 1523071
+A1 Kushiyama,N.
+A1 Ohshima,S.
+A1 Stark,D.
+A1 Noji,H.
+A1 Sakurai,K.
+A1 Takase,S.
+A1 Furuyama,T.
+A1 Barth,R.,M.
+A1 Chan,A.
+A1 Dillon,J.
+A1 Gasbarro,J.,A.
+A1 Griffin,M.,M.
+A1 Horowitz,M.
+A1 Lee,T.,H.
+A1 Lee,V.
+YR 1993
+T1 A 500-megabyte/s data-rate 4.5 M DRAM
+JF IEEE Journal of Solid-state Circuits
+VO 28
+SP 490
+OP 498
+IS 4
+
+RT Journal Article
+ID 3965336
+A1 Kuskin,J.
+A1 Ofelt,D.
+A1 Heinrich,M.
+A1 Heilein,J.
+A1 Simoni,R.
+A1 Gharachorloo,K.
+A1 Chapin,J.
+A1 Nakahira,D.
+A1 Baxter,J.
+A1 Horowitz,M.
+A1 Gupta,A.
+A1 Rosenblum,M.
+A1 Hennessy,J.
+YR 1993
+T1 The Stanford FLASH Multiprocessor
+
+RT Conference Proceedings
+ID 1924721
+A1 Nowick,S.,M.
+A1 Dean,Mark,E.
+A1 Dill,David,L.
+A1 Horowitz,M.
+YR 1993
+T1 The design of a high-performance cache controller: a case study in asynchronous synthesis
+
+RT Conference Proceedings
+ID 147622
+A1 Kao,Russell
+A1 Horowitz,Mark
+YR 1993
+T1 Piecewise linear models for Rsim
+SP 753
+OP 758
+
+RT Journal Article
+ID 14572188
+A1 NOWICK,S
+A1 DEAN,M
+A1 DILL,D
+A1 HOROWITZ,M
+YR 1993
+T1 The design of a high-performance cache controller: a case study in asynchronous synthesis
+JF Integration
+VO 15
+SP 241
+OP 262
+IS 3
+
+RT Conference Proceedings
+ID 49955862
+A1 Maneatis,J.,G.
+A1 Horowitz,M.,A.
+YR 1993
+T1 Precise delay generation using coupled oscillators
+
+RT Journal Article
+ID 1673335
+A1 Chen,G.,J.
+A1 Beasley,M.,R.
+A1 Horowitz,M.
+A1 Rosenthal,P.
+A1 Whiteley,S.
+YR 1993
+T1 Nondestructive readout architecture for a kinetic inductance memory cell
+JF IEEE Transactions on Applied Superconductivity
+VO 3
+SP 2702
+OP 2705
+IS 1
+
+RT Conference Proceedings
+ID 49969925
+A1 Kao,Russell
+A1 Horowitz,M.
+YR 1993
+T1 Piecewise linear models for Rsim
+
+RT Journal Article
+ID 53690266
+A1 Beasley,M.,R.
+A1 Horowitz,M.
+YR 1993
+T1 Superconducting/semiconducting hybrids and advance memory concepts for superconducting electronics
+
+RT Journal Article
+ID 60067469
+A1 Beasley,M.,R.
+A1 Horowitz,M.
+YR 1993
+T1 Superconducting/semiconducting hybrids and advance memory concepts for superconducting electronics. Technical performance report
+
+RT Journal Article
+ID 848440
+A1 Lenoski,Daniel,E.
+A1 Laudon,James,P.
+A1 Gharachorloo,Kourosh
+A1 Weber,Wolf-dietrich
+A1 Gupta,Anoop
+A1 Hennessy,John,L.
+A1 Horowitz,Mark,A.
+A1 Lam,Monica,S.
+YR 1992
+T1 The Stanford Dash Multiprocessor
+JF IEEE Computer
+VO 25
+SP 63
+OP 79
+IS 3
+
+RT Journal Article
+ID 161620
+A1 Smith,Michael,D.
+A1 Horowitz,Mark
+A1 Lam,Monica,S.
+YR 1992
+T1 Efficient Superscalar Performance Through Boosting
+JF Sigplan Notices
+VO 27
+SP 248
+OP 259
+IS 9
+
+RT Conference Proceedings
+ID 49949843
+A1 Horowitz,M.
+YR 1992
+T1 Clocking strategies in high performance processors
+
+RT Conference Proceedings
+ID 49949877
+A1 Kushiyama,N.
+A1 Ohshima,S.
+A1 Stark,D.
+A1 Sakurai,K.
+A1 Takase,S.
+A1 Furuyuma,T.
+A1 Barth,B.
+A1 Dillon,J.
+A1 Gasbarro,J.
+A1 Griffin,M.
+A1 Horowitz,M.
+A1 Lee,V.
+A1 Lee,W.
+A1 Leung,W.
+YR 1992
+T1 500 Mbyte/sec data-rate 512 Kbits×9 DRAM using a novel I/O interface
+
+RT Journal Article
+ID 336464
+A1 Laudon,James
+A1 Gupta,Anoop
+A1 Horowitz,Mark
+YR 1992
+T1 Architectural and implementation tradeoffs in the design of multiple-context processors (abstract)
+JF ACM Sigarch Computer Architecture News
+VO 20
+SP 435
+IS 2
+
+RT Conference Proceedings
+ID 7004988
+A1 Laudon,James
+A1 Gupta,Anoop
+A1 Horowitz,Mark
+YR 1992
+T1 Architectural and Implementation Tradeoffs in the Design of Multiple-Context Processors
+
+RT Journal Article
+ID 1248742
+A1 Horowitz,M.
+A1 Przybylski,S.
+A1 Smith,M.,D.
+YR 1992
+T1 Tutorial on recent trends in processor design: reclimbing the complexity olrve
+
+RT Journal Article
+ID 1938028
+A1 Horowitz,M.
+YR 1992
+T1 Clocking in high performance processors
+
+RT Journal Article
+ID 1522033
+A1 Wingard,Drew,E.
+A1 Stark,Don,C.
+A1 Horowitz,Mark,A.
+YR 1992
+T1 Circuit techniques for large CSEA SRAMs
+JF IEEE Journal of Solid-state Circuits
+VO 27
+SP 908
+OP 919
+IS 6
+
+RT Journal Article
+ID 39218357
+A1 Smith,Michael,D.
+A1 Horowitz,Mark
+A1 Lam,Monica,S.
+YR 1992
+T1 Efficient superscalar performance through boosting
+JF Sigplan Notices
+SP 248
+OP 259
+
+RT Journal Article
+ID 3901308
+A1 Ho,R.
+A1 Mai,K.,W.
+A1 Horowitz,M.,A.
+YR 1991
+T1 The future of wires
+JF Proceedings of The IEEE
+
+RT Journal Article
+ID 1522913
+A1 Williams,T.,E.
+A1 Horowitz,M.,A.
+YR 1991
+T1 A zero-overhead self-timed 160-ns 54-b CMOS divider
+JF IEEE Journal of Solid-state Circuits
+VO 26
+SP 1651
+OP 1661
+IS 11
+
+RT Journal Article
+ID 1256160
+A1 Lenoski,D.
+A1 Laudon,J.
+A1 Gharachorloo,K.
+A1 Weber,W.,D.
+A1 Gupta,A.
+A1 Hennessy,J.
+A1 Horowitz,M.
+YR 1991
+T1 Lam: "the stanford dash multiprocessor
+
+RT Conference Proceedings
+ID 49910593
+A1 Williarns,T.,E.
+A1 Horowitz,M.,A.
+YR 1991
+T1 A Zero-overhead Self-timed 160ns 54b CMOS Divider
+
+RT Conference Proceedings
+ID 520442
+A1 Dean,Mark,E.
+A1 Horowitz,Mark
+YR 1991
+T1 Self-Timed Logic Using Current-Sensing Completion Detection (CSCD)
+SP 187
+OP 191
+
+RT Journal Article
+ID 65158
+A1 Horowitz,Mark
+YR 1991
+T1 Dynamic Pointer Allocation for Scalable Cache Coherence Directories
+
+RT Conference Proceedings
+ID 551183
+A1 Simoni,Richard
+A1 Horowitz,Mark
+YR 1991
+T1 Modeling the Performance of Limited Pointers Directories for Cache Coherence
+VO 19
+SP 309
+OP 319
+IS 3
+
+RT Conference Proceedings
+ID 2102312
+A1 Williams,Ted,E.
+A1 Horowitz,M.,A.
+YR 1991
+T1 A 160 ns 54 bit CMOS division implementation using self-timing and symmetrically overlapped SRT stages
+
+RT Conference Proceedings
+ID 49912112
+A1 Horowitz,M.
+A1 Fischer,B.
+YR 1991
+T1 Photorefractive novelty filters and the dynamics of their nonlinear wave mixing
+
+RT Journal Article
+ID 39211732
+A1 Simoni,Richard
+A1 Horowitz,Mark
+YR 1991
+T1 Modeling the performance of limited pointers directories for cache coherence
+JF ACM Sigarch Computer Architecture News
+SP 309
+OP 319
+
+RT Conference Proceedings
+ID 49926712
+A1 Simoni,Richard
+A1 Horowitz,M.
+YR 1991
+T1 Modeling the performance of limited pointers directories for cache coherence
+
+RT Journal Article
+ID 61374009
+A1 Hennessy,J.,L.
+A1 Horowitz,M.,A.
+YR 1991
+T1 Microsupercomputers: Design and implementation. Semi-annual technical report, Oct 90Mar 91
+
+RT Journal Article
+ID 62740
+A1 Smith,Michael,D.
+A1 Lam,Monica,S.
+A1 Horowitz,Mark,A.
+YR 1990
+T1 Boosting beyond static scheduling in a superscalar processor
+JF ACM Sigarch Computer Architecture News
+VO 18
+SP 344
+OP 354
+IS 3
+
+RT Journal Article
+ID 947685
+A1 Stark,Don
+A1 Horowitz,Mark
+YR 1990
+T1 Techniques for calculating currents and voltages in VLSI power supply networks
+JF IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems
+VO 9
+SP 126
+OP 132
+IS 2
+
+RT Conference Proceedings
+ID 1327767
+A1 Lenoski,Daniel
+A1 Gharachorloo,Kourosh
+A1 Laudon,James
+A1 Gupta,A.
+A1 Hennessy,J.
+A1 Horowitz,M.
+A1 Lam,M.
+YR 1990
+T1 Design of scalable shared-memory multiprocessors: the DASH approach
+
+RT Conference Proceedings
+ID 2627268
+A1 Gasbarro,J.,A.
+A1 Horowitz,M.,A.
+YR 1990
+T1 A single-chip, functional tester for VLSI circuits
+
+RT Journal Article
+ID 1520767
+A1 Tamura,L.,R.
+A1 Yang,T.-S.
+A1 Wingard,D.,E.
+A1 Horowitz,M.,A.
+A1 Wolley,B.,A.
+YR 1990
+T1 A 4-ns BiCMOS translation-lookaside buffer
+JF IEEE Journal of Solid-state Circuits
+VO 25
+SP 1093
+OP 1101
+IS 5
+
+RT Conference Proceedings
+ID 49882338
+A1 Horowitz,M.
+A1 Slamowitz,M.
+A1 Rose,B.
+A1 Johnson,M.
+YR 1990
+T1 A 3.5 ns, 1 Watt, ECL register file
+
+RT Conference Proceedings
+ID 49892561
+A1 Smith,Michael,D.
+A1 Lam,Monica,S.
+A1 Horowitz,Mark,A.
+YR 1990
+T1 Boosting beyond static scheduling in a superscalar processor
+
+RT Conference Proceedings
+ID 49882337
+A1 Tamura,L.
+A1 Yang,T.-S.
+A1 Wingard,D.
+A1 Horowitz,M.
+A1 Wooley,B.
+YR 1990
+T1 A 4 ns BiCMOS translation-lookaside buffer
+
+RT Journal Article
+ID 1521742
+A1 Williams,T.,E.
+A1 Horowitz,M.
+YR 1990
+T1 Bipolar circuit elements providing self-completion-indication
+JF IEEE Journal of Solid-state Circuits
+VO 25
+SP 309
+OP 312
+IS 1
+
+RT Journal Article
+ID 60052616
+A1 Hennessy,J.,L.
+A1 Horowitz,M.,A.
+YR 1990
+T1 Microsupercomputers: Design and implementation. Semi-annual technical progress report, April-October 1990
+
+RT Journal Article
+ID 60062480
+A1 Hennessy,J.,L.
+A1 Horowitz,M.,A.
+YR 1990
+T1 Microsupercomputers: Design and implementation. Semi-annual technical progress report, November 1989March 1990
+
+RT Journal Article
+ID 71907
+A1 Smith,Michael,D.
+A1 Johnson,Mike
+A1 Horowitz,Mark
+YR 1989
+T1 Limits on Multiple Instruction Issue
+JF ACM Sigarch Computer Architecture News
+VO 17
+SP 290
+OP 302
+IS 2
+
+RT Journal Article
+ID 803504
+A1 Agarwal,Anant
+A1 Hennessy,J.
+A1 Horowitz,M.
+YR 1989
+T1 An analytical cache model
+JF ACM Transactions on Computer Systems
+VO 7
+SP 184
+OP 215
+IS 2
+
+RT Conference Proceedings
+ID 452454
+A1 Salz,Arturo
+A1 Horowitz,Mark
+YR 1989
+T1 IRSIM: an incremental MOS switch-level simulator
+SP 173
+OP 178
+
+RT Journal Article
+ID 551572
+A1 Przybylski,Steven,A.
+A1 Horowitz,Mark
+A1 Hennessy,John,L.
+YR 1989
+T1 Characteristics of Performance-Optimal MultiLevel Cache Hierarchies
+JF ACM Sigarch Computer Architecture News
+VO 17
+SP 114
+OP 121
+IS 3
+
+RT Journal Article
+ID 1521627
+A1 Santoro,M.,R.
+A1 Horowitz,M.,A.
+YR 1989
+T1 SPIM: a pipelined 64*64-bit iterative multiplier
+JF IEEE Journal of Solid-state Circuits
+VO 24
+SP 487
+OP 493
+IS 2
+
+RT Journal Article
+ID 1298153
+A1 Laudon,James
+A1 Gharachorloo,Kourosh
+A1 Hennessy,John
+A1 Horowitz,Mark
+A1 Lam,Monica
+YR 1989
+T1 Design of' the stanford dash multiprocessor
+
+RT Conference Proceedings
+ID 49865661
+A1 Santoro,M.,R.
+A1 Bewick,G.
+A1 Horowitz,M.,A.
+YR 1989
+T1 Rounding algorithms for IEEE multipliers
+
+RT Journal Article
+ID 1521602
+A1 Gasbarro,J.,A.
+A1 Horowitz,M.,A.
+YR 1989
+T1 Integrated pin electronics for VLSI functional testers
+JF IEEE Journal of Solid-state Circuits
+VO 24
+SP 331
+OP 337
+IS 2
+
+RT Conference Proceedings
+ID 49871660
+A1 Rosseel,G.,O.
+A1 Horowitz,M.,A.
+A1 Dutton,R.,W.
+A1 Cline,R.,L.
+YR 1989
+T1 A single-ended BiCMOS sense circuit for digital circuits
+
+RT Journal Article
+ID 26285637
+A1 Horowitz,M
+YR 1989
+T1 Energy efficiency improvements and investment behavior in small commercial buildings
+JF Energy
+VO 14
+SP 697
+OP 707
+IS 11
+
+RT Journal Article
+ID 39211605
+A1 Smith,M.,D.
+A1 Johnson,M.
+A1 Horowitz,M.,A.
+YR 1989
+T1 Limits on multiple instruction issue
+JF ACM Sigarch Computer Architecture News
+SP 290
+OP 302
+
+RT Journal Article
+ID 39211619
+A1 Przybylski,Steven
+A1 Horowitz,Mark
+A1 Hennessy,John
+YR 1989
+T1 Characteristics of performance-optimal multi-level cache hierarchies
+JF ACM Sigarch Computer Architecture News
+SP 114
+OP 121
+
+RT Conference Proceedings
+ID 49866448
+A1 Przybylski,Steven
+A1 Horowitz,Mark
+A1 Hennessy,John
+YR 1989
+T1 Characteristics Of Performance-Optimal Multilevel Cache Hierarchies
+SP 114
+OP 121
+
+RT Conference Proceedings
+ID 49861187
+A1 Salz,Arturo
+A1 Horowitz,Mark
+YR 1989
+T1 IRSIM: An Incremental MOS Switch-Level Simulator
+SP 173
+OP 178
+
+RT Journal Article
+ID 60067800
+A1 Hennessy,J.,L.
+A1 Horowitz,M.,A.
+YR 1989
+T1 Microsupercomputers: Design and implementation. Technical progress report, November 1988March 1989
+
+RT Journal Article
+ID 60226226
+A1 Hennessy,J.,L.
+A1 Horowitz,M.,A.
+YR 1989
+T1 Microsupercomputers: Design and implementation. Semi-annual technical progress report, April-October 1989
+
+RT Journal Article
+ID 551482
+A1 Agarwal,Anant
+A1 Simoni,Richard
+A1 Hennessy,John,L.
+A1 Horowitz,Mark
+YR 1988
+T1 An evaluation of directory schemes for cache coherence
+JF ACM Sigarch Computer Architecture News
+VO 16
+SP 280
+OP 298
+IS 2
+
+RT Journal Article
+ID 803503
+A1 Agarwal,Anant
+A1 Hennessy,John,L.
+A1 Horowitz,Mark
+YR 1988
+T1 Cache performance of operating system and multiprogramming workloads
+JF ACM Transactions on Computer Systems
+VO 6
+SP 393
+OP 431
+IS 4
+
+RT Journal Article
+ID 551571
+A1 Prybylski,S.
+A1 Horowitz,Mark
+A1 Hennessy,John,L.
+YR 1988
+T1 Performance tradeoffs in cache design
+JF ACM Sigarch Computer Architecture News
+VO 16
+SP 290
+OP 298
+IS 2
+
+RT Journal Article
+ID 2803940
+A1 Agarwal,A.
+A1 Hennessy,J.
+A1 Horowitz,M.
+YR 1988
+T1 Cache performance of operating systems and multiprograms
+JF ACM Transactions on Computer Systems
+
+RT Conference Proceedings
+ID 49850023
+A1 Santoro,M.
+A1 Horowitz,M.
+YR 1988
+T1 A Pipelined 64x64b Iterative Array Multiplier
+
+RT Journal Article
+ID 29043773
+A1 Kupper,Thomas,S.
+A1 Lee,Frank
+A1 Coleman,David
+A1 Chodakewitz,Jeffrey
+A1 Flood,Patrick
+A1 Horowitz,Mark
+YR 1988
+T1 Keratinocyte Derived T-Cell Growth Factor (KTGF) Is Identical to Granulocyte Macrophage Colony Stimulating Factor (GM-CSF)
+JF Journal of Investigative Dermatology
+VO 91
+SP 185
+OP 188
+IS 2
+
+RT Conference Proceedings
+ID 452242
+A1 Stark,Don
+A1 Horowitz,Mark
+YR 1988
+T1 Analyzing CMOS power supply networks using Ariel
+SP 460
+OP 464
+
+RT Conference Proceedings
+ID 49846795
+A1 Przybylski,S.
+A1 Horowitz,Mark
+A1 Hennessy,John
+YR 1988
+T1 Performance tradeoffs in cache design
+
+RT Journal Article
+ID 47057536
+A1 Kupper,Thomas,S.
+A1 Horowitz,Mark
+A1 Birchall,Nixholas
+A1 Mizutani,Hitoshi
+A1 Coleman,David
+A1 McGuire,Joseph
+A1 Flood,Patrick
+A1 Dower,Steven
+A1 Lee,Frank
+YR 1988
+T1 Hematopoietic, Lymphopoietic, and Proinflammatory Cytokines Produced by Human and Murine Keratinocytes
+JF Annals of The New York Academy of Sciences
+VO 548
+SP 262
+OP 270
+IS 1 Endocrin
+
+RT Conference Proceedings
+ID 1332836
+A1 Kao,Russell
+A1 Alverson,Bob
+A1 Horowitz,Mark
+A1 Stark,Don
+YR 1988
+T1 Bisim: a simulator for custom ECL circuits
+
+RT Journal Article
+ID 1522748
+A1 YANG,TSEN-SHAU
+A1 HOROWITZ,MARK,A.
+A1 WOOLEY,BRUCE,A.
+YR 1988
+T1 A 4-ns 4K*1-bit two-port BiCMOS SRAM
+JF IEEE Journal of Solid-state Circuits
+VO 23
+SP 1030
+OP 1040
+IS 5
+
+RT Journal Article
+ID 1270757
+A1 Przybylski,S.
+A1 Horowitz,M.
+A1 Hysy,J.
+YR 1988
+T1 Paf ormance tradeoffs in cache 15th annual intunahonal sytyo
+
+RT Journal Article
+ID 1307385
+A1 Agarwal,A.
+A1 Horowitz,M.
+A1 Hemessy,J.
+YR 1988
+T1 Cache pufomunc+? of operating systems and multipmgmmrrktg workloads
+
+RT Conference Proceedings
+ID 49857665
+A1 Gasbarro,J.,A.
+A1 Horowitz,M.,A.
+YR 1988
+T1 Integrated pin electronics for VLSI functional testers
+
+RT Conference Proceedings
+ID 49857589
+A1 Yang,T.,S.
+A1 Horowitz,M.,A.
+A1 Wooley,B.,A.
+YR 1988
+T1 A 4 nsec 4 K×1 bit two-port BiCMOS SRAM
+
+RT Conference Proceedings
+ID 49846794
+A1 Agarwal,Anant
+A1 Simoni,Richard
+A1 Hennessy,John
+A1 Horowitz,Mark
+YR 1988
+T1 An evaluation of directory schemes for cache coherence
+
+RT Journal Article
+ID 60064086
+A1 Hennessy,J.,L.
+A1 Horowitz,M.,A.
+YR 1988
+T1 Microsupercomputers: design and implementation. Semiannual Technical Progress report, April-October 1988
+
+RT Journal Article
+ID 60388467
+A1 Hennessy,J.,L.
+A1 Horowitz,M.,A.
+YR 1988
+T1 Microsupercomputers: design and implementation. Semiannual technical progress report, September 1987March 1988
+
+RT Conference Proceedings
+ID 551078
+A1 Chow,Paul
+A1 Horowitz,Mark
+YR 1987
+T1 Architectural tradeoffs in the design of MIPS-X
+SP 300
+OP 308
+
+RT Journal Article
+ID 1423518
+A1 Chu,Chorng-yeong
+A1 Horowitz,Mark
+YR 1987
+T1 Charge-Sharing Models for Switch-Level Simulation
+JF IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems
+VO 6
+SP 1053
+OP 1061
+IS 6
+
+RT Conference Proceedings
+ID 1332385
+A1 Agarwal,A.
+A1 Chow,P.
+A1 Horowitz,M.
+A1 Acken,J.
+A1 Salz,A.
+A1 Hennessy,J.
+YR 1987
+T1 On-chip instruction caches for high performance processors
+
+RT Journal Article
+ID 1525245
+A1 Horowitz,M.
+A1 Chow,P.
+A1 Stark,D.
+A1 Simoni,R.,T.
+A1 Salz,A.
+A1 Przybylski,S.
+A1 Hennessy,J.
+A1 Gulak,G.
+A1 Agarwal,A.
+A1 Acken,J.,M.
+YR 1987
+T1 MIPS-X: a 20MIPS peak, 32-bit microprocessor with on-chip cache
+JF IEEE Journal of Solid-state Circuits
+VO 22
+SP 790
+OP 799
+IS 5
+
+RT Conference Proceedings
+ID 1384755
+A1 Eichenberger,P.
+A1 Horowitz,M.
+YR 1987
+T1 Toroidal compaction of symbolic layouts for regular structures
+
+RT Journal Article
+ID 1397841
+A1 Horowitz,Mark
+YR 1987
+T1 A 32-bit microprocessor with 2kbyte on-chip instruction cache
+
+RT Conference Proceedings
+ID 452241
+A1 Stark,Don
+A1 Horowitz,Mark
+YR 1987
+T1 RED: resistance extraction for digital simulation
+SP 570
+OP 573
+
+RT Conference Proceedings
+ID 49844784
+A1 Horowitz,Mark
+A1 Hennessy,John,L.
+A1 Chow,Paul
+A1 Gulak,P.,Glenn
+A1 Acken,John,M.
+A1 Agarwal,Anant
+A1 Chu,Chorng-Yeung
+A1 McFarling,Scott,A.
+A1 Przybylski,Steven,A.
+A1 Richardson,Steve,E.
+A1 Salz,Arturo
+A1 Simoni,Richard,T.
+A1 Stark,Don,C.
+A1 Steenkiste,Peter,A.
+A1 Tjiang,S.
+A1 Wing,M.
+YR 1987
+T1 A 32b microprocessor with on-chip 2Kbyte instruction cache
+
+RT Conference Proceedings
+ID 49841477
+A1 Stark,D.
+A1 Horowitz,M.
+YR 1987
+T1 REDS: Resistance Extraction for Digital Simulation
+SP 570
+OP 573
+
+RT Conference Proceedings
+ID 453139
+A1 Carpenter,Clyde,W.
+A1 Horowitz,Mark
+YR 1987
+T1 Generating incremental VLSI compaction spacing constraints
+SP 291
+OP 297
+
+RT Journal Article
+ID 1525248
+A1 Miyamoto,J.
+A1 Horowitz,M.,A.
+YR 1987
+T1 A single-chip LSI high-speed functional tester
+JF IEEE Journal of Solid-state Circuits
+VO 22
+SP 820
+OP 828
+IS 5
+
+RT Journal Article
+ID 60341248
+A1 Carrasquillo,J.,A.
+A1 Mulshine,J.,L.
+A1 Bunn,P.,A.,Jr.
+A1 Reynolds,J.,C.
+A1 Foon,K.,A.
+A1 Schroff,R.,W.
+A1 Perentesis,P.
+A1 Steis,R.,G.
+A1 Keenan,A.,M.
+A1 Horowitz,M.
+YR 1987
+T1 Indium111 T101 monoclonal antibody is superior to iodine-131 T101 in imaging of cutaneous T-cell lymphoma
+
+RT Conference Proceedings
+ID 49841434
+A1 Carpenter,Clyde,W.
+A1 Horowitz,Mark
+YR 1987
+T1 Generating Incremental VLSI Compaction Spacing Constraints
+SP 291
+OP 297
+
+RT Journal Article
+ID 60032742
+A1 Yeoh,E.,K.
+A1 Horowitz,M.
+YR 1987
+T1 Radiation enteritis
+
+RT Conference Proceedings
+ID 49844762
+A1 Miyamoto,J.
+A1 Horowitz,M.
+YR 1987
+T1 A single-chip functional tester
+
+RT Conference Proceedings
+ID 49844741
+A1 Horowitz,M.
+YR 1987
+T1 Educating future chip designers
+
+RT Journal Article
+ID 55642072
+A1 Acken,John,M.
+A1 Horowitz,Mark
+YR 1987
+T1 A static RAM as a fault model evaluator
+
+RT Journal Article
+ID 551432
+A1 Agarwal,Anant
+A1 Sites,Richard,L.
+A1 Horowitz,Mark
+YR 1986
+T1 ATUM: a new technique for capturing address traces using microcode
+JF ACM Sigarch Computer Architecture News
+VO 14
+SP 119
+OP 127
+IS 2
+
+RT Journal Article
+ID 3742135
+A1 Rubenstein,J.
+A1 Penfield,P.
+A1 Horowitz,M.
+YR 1986
+T1 Signal Delay in RC Tree Networks
+
+RT Journal Article
+ID 52362314
+A1 Carpenter,Clyde,W.
+A1 Horowitz,Mark
+YR 1986
+T1 Generating incremental VLSI compaction spacing constraints
+
+RT Journal Article
+ID 53230966
+A1 Miyamoto,Jun-Ichi
+A1 Horowitz,Mark,A.
+YR 1986
+T1 A single chip LSI high-speed functional tester
+
+RT Journal Article
+ID 1394324
+A1 Chow,P.
+A1 Horowitz,M.
+YR 1985
+T1 The mips-x microprocessor
+
+RT Journal Article
+ID 1325388
+A1 Agarwal,A.
+A1 Horowitz,M.
+YR 1985
+T1 Mips-x internal and external caches
+
+RT Journal Article
+ID 60404167
+A1 Horowitz,M.
+A1 Sood,V.
+A1 Paik,C.
+A1 Sahami,M.
+A1 Eckelman,W.,C.
+A1 Reynolds,J.
+A1 Carrasquillo,J.
+A1 Reba,R.,C.
+A1 Larson,S.,M.
+YR 1985
+T1 The effect of chemical modification on the immunologic activity of Fab 96. 5
+
+RT Journal Article
+ID 60055028
+A1 Carrasquillo,J.,A.
+A1 Abrams,P.,G.
+A1 Schroff,R.,W.
+A1 Keenan,A.,M.
+A1 Morgan,A.,C.
+A1 Foon,K.,A.
+A1 Reynolds,J.,C.
+A1 Perentesis,P.
+A1 Horowitz,M.
+A1 Larson,S.,M.
+YR 1985
+T1 Improved imaging of metastatic melanoma with high dose 9. 2. 27 In111 monoclonal antibody
+
+RT Journal Article
+ID 60462766
+A1 Colcher,D.
+A1 Carrasquillo,J.,A.
+A1 Sugarbaker,P.
+A1 Bryant,G.
+A1 Esteban,J.
+A1 Simpson,D.
+A1 Thor,A.
+A1 Reynolds,J.,R.
+A1 Horowitz,M.
+A1 Keenan,A.,M.
+YR 1985
+T1 Biodistribution of monoclonal antibody B72. 3(I-131) in colon cancer patients
+
+RT Journal Article
+ID 68466
+A1 Horowitz,Mark,Alan
+YR 1984
+T1 TIMING MODELS FOR MOS CIRCUITS
+
+RT Journal Article
+ID 60303121
+A1 Maddern,G.,J.
+A1 Horowitz,M.
+A1 Jamieson,G.,G.
+A1 Chatterton,B.,E.
+A1 Collins,P.,J.
+A1 Roberts-Thomson,P.
+YR 1984
+T1 Abnormalities of esophageal and gastric emptying in progressive systemic sclerosis
+
+RT Journal Article
+ID 1350403
+A1 Rubinstein,Jorge
+A1 Jr.,Paul,Penfield
+A1 Horowitz,Mark,A.
+YR 1983
+T1 Signal Delay in RC Tree Networks
+JF IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems
+VO 2
+SP 202
+OP 211
+IS 3
+
+RT Journal Article
+ID 1348334
+A1 Horowitz,Mark
+A1 Dutton,Robert,W.
+YR 1983
+T1 Resistance Extraction from Mask Layout Data
+JF IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems
+VO 2
+SP 145
+OP 150
+IS 3
+
+RT Journal Article
+ID 3742131
+A1 Rubenstein,J.
+A1 Penfield,P.
+A1 Horowitz,M.,A.
+YR 1983
+T1 Signal delay in rc networks
+
+RT Conference Proceedings
+ID 3996396
+A1 Horowitz,M.
+YR 1983
+T1 Timing Models for MOS Pass Networks
+
+RT Journal Article
+ID 26550656
+A1 DORSEY,A
+A1 HOCKEN,R
+A1 HOROWITZ,M
+YR 1983
+T1 A low cost laser interferometer system for machine tool applications
+JF Precision Engineering-journal of The International Societies for Precision Engineering and Nanotechnology
+VO 5
+SP 29
+OP 31
+IS 1
+
+RT Journal Article
+ID 1525608
+A1 Mack,W.,D.
+A1 Horowitz,M.
+YR 1982
+T1 Measurement of series collector resistance in bipolar transistors
+JF IEEE Journal of Solid-state Circuits
+VO 17
+SP 767
+OP 773
+IS 4
+
+RT Journal Article
+ID 1525462
+A1 Mack,W.,D.
+A1 Horowitz,M.
+A1 Blauschild,R.,A.
+YR 1982
+T1 A 14 bit dual-ramp DAC for digital-audio systems
+JF IEEE Journal of Solid-state Circuits
+VO 17
+SP 1118
+OP 1126
+IS 6
+
+RT Journal Article
+ID 1451506
+A1 Horowitz,M.
+A1 Johnson,A.
+YR 1955
+T1 Theory of noise in a correlation detector
+JF IEEE Transactions on Information Theory
+VO 1
+SP 3
+OP 5
+IS 3
+
+RT Journal Article
+ID 12806941
+A1 Sidiropoulos,Stefanos
+A1 Horowitz,Mark
+T1 A Semi-Digital Dual Delay Locked Loop
+
+RT Journal Article
+ID 246788
+A1 Farjad-rad,Ramin
+A1 Yu,Kevin
+A1 Yang,C.,k,Ken
+A1 Ellersick,Bill
+A1 Horowitz,Mark
+T1 An Equalization Scheme for 10Gbs 4PAM Signaling over Long Cables
+
+RT Journal Article
+ID 11926274
+A1 WILLIAMS,T.,E.
+A1 HOROWITZ,M.
+T1 SRT Division Diagrams and Their Usage in Designing Custom Integrated Circuits for Division
+
+RT Journal Article
+ID 4965712
+A1 Davies,Peter
+A1 Lacroute,Philippe
+A1 Heinlein,John
+A1 Horowitz,Mark
+T1 MABLE: A TECHNIQUE FOR EFFICIENT MACHINE SIMULATION
+
+RT Journal Article
+ID 12573944
+A1 Yang,Chih-Kong,Ken
+A1 Horowitz,Mark,A.
+T1 A 0.8μm CMOS 2.5Gbps Oversampling Receiver and Transmitter for Serial Links
+
+RT Journal Article
+ID 6980248
+A1 Simoni,Richard
+A1 Horowitz,Mark
+T1 Dynamic Pointer Allocation for Scalable Cache Coherence Directories
+
+RT Journal Article
+ID 1945768
+A1 Horowitz,Mark
+A1 Martonosi,Margaret
+A1 Mowry,Todd,C.
+A1 Smith,Michael,D.
+T1 INFORMING LOADS: ENABLING SOFTWARE TO OBSERVE AND REACT TO MEMORY BEHAVIOR
+
+RT Journal Article
+ID 5100609
+A1 Chang,Richard
+A1 Dutton,Robert
+A1 Horowitz,Mark
+T1 Near Speed-of-Light On-Chip Electrical Interconnects
+
+RT Journal Article
+ID 69225
+A1 Emami-Neyestanak,Azita
+A1 Liu,Dean
+A1 Keeler,Gordon
+A1 Helman,Noah
+A1 Horowitz,Mark
+T1 A 1.6Gb/s, 3 mW CMOS Receiver for Optical Communication
+
+RT Journal Article
+ID 91672
+A1 Yang,Chih-Kong,Ken
+A1 Horowitz,Mark,A.
+T1 A 0.8μm CMOS 2.5Gbps Oversampling Receiver for Serial Links
+
+RT Journal Article
+ID 12755540
+A1 Harris,David
+A1 Ho,Ron
+A1 Wei,Gu-Yeon
+A1 Horowitz,Mark
+T1 The Fanout-of-4 Inverter Delay Metric
+
+RT Journal Article
+ID 5873624
+A1 Akeley,Kurt
+A1 Hanrahan,Patrick
+A1 Banks,Martin,S.
+A1 Horowitz,Mark,A.
+T1 ACHIEVING NEAR-CORRECT FOCUS CUES USING MULTIPLE IMAGE PLANES
+
+RT Book, Whole
+ID 3034317
+A1 Wei,Gu-Yeon
+A1 Horowitz,Mark
+A1 Kim,Jaeka
+T1 Energy-Efficient Design of High-Speed Links
+
+RT Journal Article
+ID 4534934
+A1 Patil,Dinesh
+A1 Horowitz,Mark
+T1 Joint Supply, Threshold Voltage and Sizing Optimization for Design of Robust Digital Circuits
+
+RT Journal Article
+ID 12434308
+A1 Hanson,Veneta,G.
+A1 Horowitz,Mark
+A1 Rosenbluth,Daniel
+A1 Spiera,Harry
+A1 Puszkin,Saul
+T1 Systemic Lupus Erythematosus Patients with Central Nervous System Involvement Show Autoantibodies to a 50-kD Neuronal Membrane Protein
+
+RT Conference Proceedings
+ID 5120619
+A1 Shacham,Ofer
+A1 Asgar,Zain
+A1 Chen,Han
+A1 Firoozshahian,Amin
+A1 Hameed,Rehan
+A1 Kozyrakis,Christos
+A1 Qadeer,Wajahat
+A1 Richardson,Stephen
+A1 Solomatnikov,Alex
+A1 Stark,Don
+A1 Wachs,Megan
+A1 Horowitz,Mark
+T1 Smart Memories Polymorphic Chip Multiprocessor
+
+RT Journal Article
+ID 4595558
+A1 Wilburn,Bennett,S.
+A1 Joshi,Neel,S
+A1 Chou,Katherine
+A1 Levoy,Marc
+A1 Horowitz,Mark
+T1 Spatiotemporal Sampling and Interpolation for Dense Video Camera Arrays
+
+RT Journal Article
+ID 4961754
+A1 Hennessy,John,L.
+A1 Horowitz,Mark,A.
+T1 An Overview of the MIPS-X-MP Project
+
+RT Journal Article
+ID 10521281
+A1 Horowitz,Mark
+A1 Hennessy,John,L.
+A1 Chow,Paul
+A1 Gulak,P.,Glenn
+A1 Acken,John,M.
+A1 Agarwal,Anant
+A1 Chu,Chorng-Yeung
+A1 McFarling,Scott,A.
+A1 Przybylski,Steven,A.
+A1 Richardson,Steve,E.
+A1 Salz,Arturo
+A1 Simoni,Richard,T.
+A1 Stark,Don,C.
+A1 Steenkiste,Peter,A.
+A1 Tjiang,Steve,W.,K.
+A1 Wing,Malcolm,J.
+T1 WAM 2.3 A 32b Microprocessor with OnChip ZKbyte Instruction Cache
+
+RT Book, Whole
+ID 48122169
+A1 Vaish,V.
+A1 Garg,G.
+A1 Talvala,E.-V.
+A1 Antunez,E.
+A1 Wilburn,B.
+A1 Horowitz,M.
+A1 Levoy,M.
+T1 Synthetic Aperture Focusing Using Dense Camera Arrays
+
+RT Journal Article
+ID 6022035
+A1 Shen,Xiling
+A1 Collier,Justine
+A1 Dill,David
+A1 McAdams,Harley,H.
+A1 Horowitz,Mark,A.
+T1 Analysis of robustness of a bacterial cell cycle regulatory network using timing verification
+
+RT Journal Article
+ID 12660626
+A1 TAMURA,LEILANI,R.
+A1 YANG,TSEN-SHAU
+A1 WINGARD,DREW,E.
+A1 HOROWITZ,MARK,A.
+A1 WOOLEY,ANDBRUCE,A.
+T1 Buffer
+
+RT Journal Article
+ID 5441329
+A1 Horowitz,Mark
+A1 Skinner,Amy
+A1 Pignataro,Julie
+A1 Levine,Kendra,K.
+T1 How Mathematicians Connect: Visualizing the Mathematics Genealogy Project
+
+RT Journal Article
+ID 10827971
+A1 Vaish,Vaibhav
+A1 Garg,Gaurav
+A1 Talvala,Eino-Ville
+A1 Antunez,Emilio
+A1 Wilburn,Bennett
+A1 Horowitz,Mark
+A1 Levo,Marc
+T1 Synthetic Aperture Focusing using a Shear-Warp Factorization of the Viewing Transform
+
+RT Journal Article
+ID 11459568
+A1 Moran,D.
+A1 Hetzeroni,B.
+A1 Horowitz,M.
+T1 THERMOREGULATORY AND CARDIOVASCULAR RESPONSES TO RAPID CHANGES IN ENVIRONMENTAL CONDITIONS
+
+RT Journal Article
+ID 11516931
+A1 Kao,Russell
+A1 Horowitz,Mark
+T1 EFFICIENT MOMENT-BASED TIMING ANALYSIS FOR VARIABLE ACCURACY SWITCH LEVEL SIMULATION

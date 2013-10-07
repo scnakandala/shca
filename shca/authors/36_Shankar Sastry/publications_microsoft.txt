@@ -1,0 +1,6464 @@
+RT Journal Article
+ID 39224336
+A1 Cárdenas,Alvaro,A.
+A1 Amin,Saurabh
+A1 Lin,Zong-Syun
+A1 Huang,Yu-Lun
+A1 Huang,Chi-Yen
+A1 Sastry,Shankar
+YR 2011
+T1 Attacks against process control systems: risk assessment, detection, and response
+SP 355
+OP 366
+
+RT Conference Proceedings
+ID 57007763
+A1 Burden,Sam
+A1 Gonzalez,Humberto
+A1 Vasudevan,Ram
+A1 Bajcsy,Ruzena
+A1 Sastry,S.,Shankar
+YR 2011
+T1 Numerical integration of hybrid dynamical systems via domain relaxation
+SP 3958
+OP 3965
+
+RT Journal Article
+ID 39314377
+A1 Chen,Phoebus
+A1 Johansson,Karl,Henrik
+A1 Balister,Paul
+A1 Bollobás,Béla
+A1 Sastry,Shankar
+YR 2011
+T1 Multipath Routing Metrics for Reliable Wireless Mesh Routing Topologies
+JF Computing Research Repository
+VO abs/1103.5
+
+RT Journal Article
+ID 51188892
+A1 Chung,Hoam
+A1 Oh,Songhwai
+A1 Shim,David,Hyunchul
+A1 Sastry,S.,Shankar
+YR 2011
+T1 Toward Robotic Sensor Webs: Algorithms, Systems, and Experiments
+JF Proceedings of The IEEE
+VO 99
+SP 1562
+OP 1586
+IS 9
+
+RT Journal Article
+ID 51104897
+A1 Chung,H.
+A1 Polak,E.
+A1 Royset,J.,O.
+A1 Sastry,S.,S.
+YR 2011
+T1 Optimal periodic patrolling trajectories of UUVs guarding a channel
+SP 888
+OP 893
+
+RT Conference Proceedings
+ID 56988631
+A1 Naikal,Nikhil
+A1 Yang,Allen,Y.
+A1 Sastry,S.,Shankar
+YR 2011
+T1 Informative feature selection for object recognition via Sparse PCA
+SP 818
+OP 825
+
+RT Conference Proceedings
+ID 56962249
+A1 Shia,Victor
+A1 Yang,Allen,Y.
+A1 Sastry,S.,Shankar
+A1 Wagner,Andrew
+A1 Ma,Yi
+YR 2011
+T1 Fast ℓ1-minimization and parallelization for face recognition
+SP 1199
+OP 1203
+
+RT Journal Article
+ID 51188896
+A1 Zachery,Randy,A.
+A1 Sastry,Shankar,S.
+A1 Kumar,Vijay
+YR 2011
+T1 Special Issue on Swarming in Natural and Engineered Systems
+JF Proceedings of The IEEE
+VO 99
+SP 1466
+OP 1469
+IS 9
+
+RT Journal Article
+ID 51933223
+A1 Aswani,Anil
+A1 Gonzalez,Humberto
+A1 Sastry,S.,Shankar
+A1 Tomlin,Claire
+YR 2011
+T1 Provably Safe and Robust Learning-Based Model Predictive Control
+
+RT Journal Article
+ID 56932475
+A1 Loiseau,Patrick
+A1 Schwartz,Galina
+A1 Musacchio,John
+A1 Amin,Saurabh
+A1 Sastry,S.,Shankar
+YR 2011
+T1 Congestion pricing using a raffle-based scheme
+
+RT Conference Proceedings
+ID 57008224
+A1 Amin,Saurabh
+A1 Schwartz,Galina,A.
+A1 Sastry,S.,Shankar
+YR 2011
+T1 On the interdependence of reliability and security in Networked Control Systems
+SP 4078
+OP 4083
+
+RT Conference Proceedings
+ID 56935058
+A1 Zhu,Bonnie
+A1 Sastry,Shankar
+YR 2011
+T1 Robust discovering and tracking in challenging environments
+
+RT Journal Article
+ID 15280572
+A1 Duindam,Vincent
+A1 Xu,Jijie
+A1 Alterovitz,Ron
+A1 Sastry,Shankar
+A1 Goldberg,Kenneth,Y.
+YR 2010
+T1 Three-dimensional Motion Planning Algorithms for Steerable Needles Using Inverse Kinematics
+JF International Journal of Robotic Research
+VO 29
+SP 789
+OP 800
+IS 7
+
+RT Conference Proceedings
+ID 50972485
+A1 Hoover,Aaron,M.
+A1 Burden,Samuel
+A1 Fu,Xiao-Yu
+A1 Sastry,S.,Shankar
+A1 Fearing,Ronald,S.
+YR 2010
+T1 Bio-inspired design and dynamic maneuverability of a minimally actuated six-legged robot
+SP 869
+OP 876
+
+RT Journal Article
+ID 13866020
+A1 Yang,Allen,Y.
+A1 Gastpar,Michael
+A1 Bajcsy,Ruzena
+A1 Sastry,S.,Shankar
+YR 2010
+T1 Distributed Sensor Perception via Sparse Representation
+JF Proceedings of The IEEE
+VO 98
+SP 1077
+OP 1088
+IS 6
+
+RT Conference Proceedings
+ID 13319378
+A1 González,Humberto
+A1 Vasudevan,Ramanarayan
+A1 Kamgarpour,Maryam
+A1 Sastry,Shankar,S.
+A1 Bajcsy,Ruzena
+A1 Tomlin,Claire,J.
+YR 2010
+T1 A descent algorithm for the optimal control of constrained nonlinear switched dynamical systems
+SP 51
+OP 60
+
+RT Conference Proceedings
+ID 39289368
+A1 Teixeira,André
+A1 Amin,Saurabh
+A1 Sandberg,Henrik
+A1 Johansson,Karl,Henrik
+A1 Sastry,Shankar,S.
+YR 2010
+T1 Cyber security analysis of state estimators in electric power systems
+SP 5991
+OP 5998
+
+RT Conference Proceedings
+ID 13319383
+A1 Amin,Saurabh
+A1 Litrico,Xavier
+A1 Sastry,S.,Shankar
+A1 Bayen,Alexandre,M.
+YR 2010
+T1 Stealthy deception attacks on water SCADA systems
+SP 161
+OP 170
+
+RT Journal Article
+ID 13329494
+A1 Mobahi,Hossein
+A1 Rao,Shankar,R.
+A1 Yang,Allen,Y.
+A1 Sastry,Shankar,S.
+A1 Ma,Yi
+YR 2010
+T1 Segmentation of Natural Images by Texture and Boundary Compression
+JF Computing Research Repository
+VO abs/1006.3
+
+RT Journal Article
+ID 13324900
+A1 Duindam,Vincent
+A1 Pettersen,Kristin,Ytterstad
+A1 Gravdahl,Jan,Tommy
+A1 Sastry,Shankar
+YR 2010
+T1 Singularity-free dynamic equations of vehicle-manipulator systems
+JF Simulation Modelling Practice and Theory
+VO 18
+SP 712
+OP 731
+IS 6
+
+RT Conference Proceedings
+ID 39298070
+A1 Yang,Allen,Y.
+A1 Zhou,Zihan
+A1 Ma,Yi
+A1 Sastry,Shankar
+YR 2010
+T1 Towards a robust face recognition system using compressive sensing
+SP 2250
+OP 2253
+
+RT Journal Article
+ID 13333664
+A1 Abate,Alessandro
+A1 Lygeros,John
+A1 Sastry,Shankar,S.
+YR 2010
+T1 Probabilistic safety and optimal control for survival analysis of Bacillus subtilis
+JF Systems & Control Letters
+VO 59
+SP 79
+OP 85
+IS 1
+
+RT Journal Article
+ID 14355349
+A1 Lobaton,Edgar,J.
+A1 Vasudevan,Ramanarayan
+A1 Bajcsy,Ruzena
+A1 Sastry,Shankar
+YR 2010
+T1 A Distributed Topological Camera Network Representation for Tracking Applications
+JF IEEE Transactions on Image Processing
+VO 19
+SP 2516
+OP 2529
+IS 10
+
+RT Journal Article
+ID 26786192
+A1 Chung,H.
+A1 Polak,E.
+A1 Sastry,S.
+YR 2010
+T1 On the Use of Outer Approximations as an External Active Set Strategy
+JF Journal of Optimization Theory and Applications
+VO 146
+SP 51
+OP 75
+IS 1
+
+RT Conference Proceedings
+ID 13319375
+A1 Godbehere,Andrew,B.
+A1 Sastry,Shankar,S.
+YR 2010
+T1 Stabilization of planar switched linear systems using polar coordinates
+SP 283
+OP 292
+
+RT Journal Article
+ID 15271304
+A1 Rao,Shankar,R.
+A1 Yang,Allen,Y.
+A1 Sastry,S.,Shankar
+A1 Ma,Yi
+YR 2010
+T1 Robust Algebraic Segmentation of Mixed Rigid-Body and Planar Motions from Two Views
+JF International Journal of Computer Vision
+VO 88
+SP 425
+OP 446
+IS 3
+
+RT Conference Proceedings
+ID 39288569
+A1 González,Humberto
+A1 Vasudevan,Ramanarayan
+A1 Kamgarpour,Maryam
+A1 Sastry,S.,Shankar
+A1 Bajcsy,Ruzena
+A1 Tomlin,Claire
+YR 2010
+T1 A numerical method for the optimal control of switched systems
+SP 7519
+OP 7526
+
+RT Journal Article
+ID 53742261
+A1 Sastry,S.
+YR 2010
+T1 Illuminating liquid polymorphism in silicon
+JF Proceedings of The National Academy of Sciences
+VO 107
+SP 17063
+OP 17064
+
+RT Journal Article
+ID 39319407
+A1 Barnum,Sean
+A1 Sastry,Shankar
+A1 Stankovic,John,A.
+YR 2010
+T1 Roundtable: Reliability of Embedded and Cyber-Physical Systems
+JF IEEE Security & Privacy
+VO 8
+SP 27
+OP 32
+IS 5
+
+RT Conference Proceedings
+ID 27668293
+A1 Chatterjee,Debasish
+A1 Amin,Saurabh
+A1 Hokayem,Peter
+A1 Lygeros,John
+A1 Sastry,S.,Shankar
+YR 2010
+T1 Mean-square boundedness of stochastic networked control systems with bounded control inputs
+SP 4759
+OP 4764
+
+RT Conference Proceedings
+ID 39267431
+A1 Yang,Allen,Y.
+A1 Sastry,Shankar,S.
+A1 Ganesh,Arvind
+A1 Ma,Yi
+YR 2010
+T1 Fast
+SP 1849
+OP 1852
+
+RT Journal Article
+ID 51022260
+A1 Naikal,Nikhil
+A1 Yang,Allen,Y.
+A1 Sastry,S.,Shankar
+YR 2010
+T1 Towards an efficient distributed object recognition system in wireless smart camera networks
+
+RT Book, Whole
+ID 39293163
+A1 Amin,Saurabh
+A1 Schwartz,Galina,A.
+A1 Sastry,Shankar,S.
+YR 2010
+T1 Security Interdependencies for Networked Control Systems with Identical Agents
+SP 107
+OP 122
+
+RT Journal Article
+ID 4768242
+A1 Wright,John
+A1 Yang,Allen,Y.
+A1 Ganesh,Arvind
+A1 Sastry,S.,Shankar
+A1 Ma,Yi
+YR 2009
+T1 Robust Face Recognition via Sparse Representation
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 31
+SP 210
+OP 227
+IS 2
+
+RT Book, Whole
+ID 4711523
+A1 Amin,Saurabh
+A1 Cárdenas,Alvaro,A.
+A1 Sastry,Shankar
+YR 2009
+T1 Safe and Secure Networked Control Systems under Denial-of-Service Attacks
+SP 31
+OP 45
+
+RT Journal Article
+ID 26515673
+A1 Yoon,Yongsoon
+A1 Shin,Jongho
+A1 Kim,H.,Jin
+A1 Sastry,Shankar
+YR 2009
+T1 Model-predictive active steering and obstacle avoidance for autonomous ground vehicles
+JF Control Engineering Practice
+VO 17
+SP 741
+OP 750
+IS 7
+
+RT Conference Proceedings
+ID 6053073
+A1 Kuryloski,Philip
+A1 Giani,Annarita
+A1 Giannantonio,Roberta
+A1 Gilani,Katherine
+A1 Gravina,Raffaele
+A1 Seppa,Ville-pekka
+A1 Seto,Edmund,Y.,W.
+A1 Shia,Victor
+A1 Wang,Curtis
+A1 Yan,Posu
+A1 Yang,Allen,Y.
+A1 Hyttinen,Jari
+A1 Sastry,Shankar
+A1 Wicker,Stephen,B.
+A1 Bajcsy,Ruzena
+YR 2009
+T1 DexterNet: An Open Platform for Heterogeneous Body Sensor Networks and its Applications
+SP 92
+OP 97
+
+RT Journal Article
+ID 26190004
+A1 Lee,Daewon
+A1 Kim,H.,Jin
+A1 Sastry,Shankar
+YR 2009
+T1 Feedback linearization vs. adaptive sliding mode control for a quadrotor helicopter
+JF International Journal of Control Automation and Systems
+VO 7
+SP 419
+OP 428
+IS 3
+
+RT Journal Article
+ID 13366143
+A1 Oh,Songhwai
+A1 Russell,Stuart
+A1 Sastry,Shankar
+YR 2009
+T1 Markov Chain Monte Carlo Data Association for Multi-Target Tracking
+JF IEEE Transactions on Automatic Control
+VO 54
+SP 481
+OP 497
+IS 3
+
+RT Journal Article
+ID 39345352
+A1 Yang,Allen,Y.
+A1 Jafari,Roozbeh
+A1 Sastry,Shankar
+A1 Bajcsy,Ruzena
+YR 2009
+T1 Distributed recognition of human actions using wearable motion sensor networks
+VO 1
+SP 103
+OP 115
+IS 2
+
+RT Book, Whole
+ID 13264151
+A1 Rao,Shankar,R.
+A1 Mobahi,Hossein
+A1 Yang,Allen,Y.
+A1 Sastry,S.,Shankar
+A1 Ma,Yi
+YR 2009
+T1 Natural Image Segmentation with Adaptive Texture and Boundary Encoding
+SP 135
+OP 146
+
+RT Journal Article
+ID 6064932
+A1 Cárdenas,Alvaro,A.
+A1 Roosta,Tanya
+A1 Sastry,Shankar
+YR 2009
+T1 Rethinking security properties, threat models, and the design space in sensor networks: A case study in SCADA systems
+JF Ad Hoc Networks
+VO 7
+SP 1434
+OP 1447
+IS 8
+
+RT Journal Article
+ID 6084528
+A1 Sprinkle,Jonathan
+A1 Eklund,J.,Mikael
+A1 González,Humberto
+A1 Grøtli,Esten,Ingar
+A1 Upcroft,Ben
+A1 Makarenko,Alexei
+A1 Uther,Will
+A1 Moser,Michael
+A1 Fitch,Robert
+A1 Durrant-whyte,Hugh,F.
+A1 Sastry,S.,Shankar
+YR 2009
+T1 Model-based design: a report from the trenches of the DARPA Urban Challenge
+JF Software and System Modeling
+VO 8
+SP 551
+OP 566
+IS 4
+
+RT Conference Proceedings
+ID 5818556
+A1 Giani,Annarita
+A1 Sastry,Shankar
+A1 Johansson,Karl,H.
+A1 Sandberg,Henrik
+YR 2009
+T1 The VIKING project: An initiative on resilient control of power networks
+
+RT Journal Article
+ID 4555155
+A1 Abate,Alessandro
+A1 Tiwari,Ashish
+A1 Sastry,Shankar
+YR 2009
+T1 Box invariance in biologically-inspired dynamical systems
+JF Automatica
+VO 45
+SP 1601
+OP 1610
+IS 7
+
+RT Journal Article
+ID 27386762
+A1 Huang,Yu-Lun
+A1 Cárdenas,Alvaro,A.
+A1 Amin,Saurabh
+A1 Lin,Zong-Syun
+A1 Tsai,Hsin-Yi
+A1 Sastry,Shankar
+YR 2009
+T1 Understanding the physical and economic consequences of attacks on control systems
+JF International Journal of Critical Infrastructure Protection
+VO 2
+SP 73
+OP 83
+IS 3
+
+RT Conference Proceedings
+ID 13322161
+A1 Lobaton,Edgar,J.
+A1 Ahammad,Parvez
+A1 Sastry,Shankar
+YR 2009
+T1 Algebraic approach to recovering topological information in distributed camera networks
+SP 193
+OP 204
+
+RT Journal Article
+ID 5806499
+A1 Yang,Allen,Y.
+A1 Maji,Subhransu
+A1 Christoudias,C.,Mario
+A1 Darrell,Trevor
+A1 Malik,Jitendra
+A1 Sastry,S.,Shankar
+YR 2009
+T1 Multiple-view object recognition in band-limited distributed camera networks
+
+RT Journal Article
+ID 50777429
+A1 Yang,Allen,Y.
+A1 Maji,Subhransu
+A1 Hong,Kirak
+A1 Yan,Posu
+A1 Sastry,S.,Shankar
+YR 2009
+T1 Distributed compression and fusion of nonnegative sparse signals for multiple-view object recognition
+JF Information Fusion
+
+RT Journal Article
+ID 27378663
+A1 Abate,Alessandro
+A1 D’Innocenzo,Alessandro
+A1 Benedetto,Maria,Domenica,Di
+A1 Sastry,Shankar
+YR 2009
+T1 Understanding deadlock and livelock behaviors in Hybrid Control Systems
+JF Nonlinear Analysis: Hybrid Systems
+VO 3
+SP 150
+OP 162
+IS 2
+
+RT Journal Article
+ID 5670484
+A1 Yang,Allen,Y.
+A1 Jafari,Roozbeh
+A1 Sastry,S.,Shankar
+A1 Bajcsy,Ruzena
+YR 2009
+T1 Distributed Recognition of Human Actions Using Wearable Motion Sensor Networks1
+
+RT Journal Article
+ID 5384188
+A1 Amin,Saurabh
+A1 Bayen,Alexandre,M.
+A1 Ghaoui,Laurent,El
+A1 Sastry,Shankar
+YR 2009
+T1 Robust feasibility for control of water flow in a reservoir-canal system
+
+RT Journal Article
+ID 5314726
+A1 Zhu,Bonnie
+A1 Sinopoli,Bruno
+A1 Poolla,Kameshwar
+A1 Sastry,Shankar
+YR 2009
+T1 Estimation over Wireless Sensor Networks
+
+RT Conference Proceedings
+ID 13322036
+A1 Hong,Kirak
+A1 Yan,Posu
+A1 Chen,Phoebus
+A1 Sastry,Shankar
+A1 Oh,Songhwai
+YR 2009
+T1 Poster abstract: Multihop routing in camera sensor networks - An experimental study
+SP 381
+OP 382
+
+RT Journal Article
+ID 27073598
+A1 Chung,Hoam
+A1 Polak,Elijah
+A1 Sastry,Shankar
+YR 2009
+T1 An External Active-Set Strategy for Solving Optimal Control Problems
+JF IEEE Transactions on Automatic Control
+VO 54
+SP 1129
+OP 1133
+IS 5
+
+RT Conference Proceedings
+ID 4900191
+A1 Duindam,Vincent
+A1 Gravdahl,Jan,Tommy
+A1 Sastry,Shankar
+YR 2009
+T1 Modeling and motion planning for mechanisms on a non-inertial base
+SP 3320
+OP 3326
+
+RT Journal Article
+ID 50808809
+A1 Lobaton,Edgar
+A1 Vasudevan,Ram
+A1 Sastry,Shankar
+A1 Bajcsy,Ruzena
+YR 2009
+T1 Robust construction of the Camera Network Complex for topology recovery
+
+RT Journal Article
+ID 13332813
+A1 Guenterberg,Eric
+A1 Yang,Allen,Y.
+A1 Ghasemzadeh,Hassan
+A1 Jafari,Roozbeh
+A1 Bajcsy,Ruzena
+A1 Sastry,S.,Shankar
+YR 2009
+T1 A Method for Extracting Temporal Parameters Based on Hidden Markov Models in Body Sensor Networks With Inertial Sensors
+JF IEEE Transactions on Information Technology in Biomedicine
+VO 13
+SP 1019
+OP 1030
+IS 6
+
+RT Journal Article
+ID 5266298
+A1 Chen,Phoebus
+A1 Ahammad,Parvez
+A1 Boyer,Colby
+A1 Huang,Shih-I
+A1 Lin,Leon
+A1 Lobaton,Edgar
+A1 Meingast,Marci
+A1 Oh,Songhwai
+A1 Wang,Simon
+A1 Yan,Posu
+A1 Yang,Allen,Y.
+A1 Yeo,Chuohao
+A1 Chang,Lung-Chung
+A1 Tygar,J.,D.
+A1 Sastry,S.,Shankar
+YR 2008
+T1 CITRIC: A low-bandwidth wireless camera network platform
+
+RT Journal Article
+ID 4374972
+A1 Yang,Allen,Y.
+A1 Wright,John
+A1 Ma,Yi
+A1 Sastry,S.,Shankar
+YR 2008
+T1 Unsupervised segmentation of natural images via lossy data compression
+JF Computer Vision and Image Understanding
+VO 110
+SP 212
+OP 225
+IS 2
+
+RT Conference Proceedings
+ID 4732882
+A1 Cárdenas,Alvaro,A.
+A1 Amin,Saurabh
+A1 Sastry,Shankar
+YR 2008
+T1 Research Challenges for the Security of Control Systems
+
+RT Conference Proceedings
+ID 4281543
+A1 Duindam,Vincent
+A1 Alterovitz,Ron
+A1 Sastry,Shankar
+A1 Goldberg,Kenneth,Y.
+YR 2008
+T1 Screw-based motion planning for bevel-tip flexible needles in 3D environments with obstacles
+SP 2483
+OP 2488
+
+RT Journal Article
+ID 4781252
+A1 Abate,Alessandro
+A1 Prandini,Maria
+A1 Lygeros,John
+A1 Sastry,Shankar
+YR 2008
+T1 Probabilistic reachability and safety for controlled discrete time stochastic hybrid systems
+JF Automatica
+VO 44
+SP 2724
+OP 2734
+IS 11
+
+RT Conference Proceedings
+ID 4715704
+A1 Cárdenas,Alvaro,A.
+A1 Amin,Saurabh
+A1 Sastry,Shankar
+YR 2008
+T1 Secure Control: Towards Survivable Cyber-Physical Systems
+SP 495
+OP 500
+
+RT Journal Article
+ID 5064697
+A1 Sinopoli,Bruno
+A1 Schenato,Luca
+A1 Franceschetti,Massimo
+A1 Poolla,Kameshwar
+A1 Sastry,Shankar
+YR 2008
+T1 Optimal linear LQG control over lossy networks without packet acknowledgment
+JF Asian Journal of Control
+VO 10
+SP 3
+OP 13
+IS 1
+
+RT Conference Proceedings
+ID 50660638
+A1 Yang,Allen,Y.
+A1 Iyengar,Sameer
+A1 Sastry,Shankar
+A1 Bajcsy,Ruzena
+A1 Kuryloski,Philip
+A1 Jafari,Roozbeh
+YR 2008
+T1 Distributed segmentation and classification of human actions using a wearable motion sensor network
+
+RT Journal Article
+ID 394192
+A1 Lygeros,John
+A1 Tomlin,Claire
+A1 Sastry,Shankar
+YR 2008
+T1 Hybrid Systems: Modeling, Analysis and Control
+
+RT Book, Whole
+ID 10181180
+A1 Duindam,Vincent
+A1 Xu,Jijie
+A1 Alterovitz,Ron
+A1 Sastry,Shankar
+A1 Goldberg,Kenneth,Y.
+YR 2008
+T1 3D Motion Planning Algorithms for Steerable Needles Using Inverse Kinematics
+SP 535
+OP 549
+
+RT Journal Article
+ID 4412117
+A1 Yeo,Chuohao
+A1 Ahammad,Parvez
+A1 Ramchandran,Kannan
+A1 Sastry,S.,Shankar
+YR 2008
+T1 High-Speed Action Recognition and Localization in Compressed Domain Videos
+JF IEEE Transactions on Circuits and Systems for Video Technology
+VO 18
+SP 1006
+OP 1015
+IS 8
+
+RT Journal Article
+ID 26082558
+A1 Koo,T.,John
+A1 Sastry,Shankar
+YR 2008
+T1 Special issue on “Networked Embedded Hybrid Control Systems”
+JF Asian Journal of Control
+VO 10
+SP 1
+OP 2
+IS 1
+
+RT Journal Article
+ID 4762094
+A1 Pai,Sameer
+A1 Bermudez,Sergio
+A1 Wicker,Stephen,B.
+A1 Meingast,Marci
+A1 Roosta,Tanya
+A1 Sastry,Shankar
+A1 Mulligan,Deirdre,K.
+YR 2008
+T1 Transactional Confidentiality in Sensor Networks
+JF IEEE Security & Privacy
+VO 6
+SP 28
+OP 35
+IS 4
+
+RT Conference Proceedings
+ID 6058632
+A1 Ding,Jerry
+A1 Sprinkle,Jonathan
+A1 Sastry,Shankar,S.
+A1 Tomlin,Claire,J.
+YR 2008
+T1 Reachability calculations for automated aerial refueling
+SP 3706
+OP 3712
+
+RT Conference Proceedings
+ID 50735101
+A1 Ambrosino,Roberto
+A1 Sinopoli,Bruno
+A1 Poolla,Kameshwar
+A1 Sastry,Shankar
+YR 2008
+T1 Optimal sensor density for remote estimation over Wireless Sensor Networks
+
+RT Conference Proceedings
+ID 5806779
+A1 Kushwaha,Manish
+A1 Amundson,Isaac
+A1 Völgyesi,Péter
+A1 Ahammad,Parvez
+A1 Simon,Gyula
+A1 Koutsoukos,Xenofon,D.
+A1 Lédeczi,Ákos
+A1 Sastry,Shankar
+YR 2008
+T1 Multi-Modal Target Tracking Using Heterogeneous Sensor Networks
+SP 136
+OP 143
+
+RT Journal Article
+ID 4498983
+A1 Roosta,Tanya,G.
+A1 Wainwright,Martin,J.
+A1 Sastry,Shankar,S.
+YR 2008
+T1 Convergence Analysis of Reweighted Sum-Product Algorithms
+JF IEEE Transactions on Signal Processing
+VO 56
+SP 4293
+OP 4305
+IS 9
+
+RT Book, Whole
+ID 4266796
+A1 Abate,Alessandro
+A1 D’Innocenzo,Alessandro
+A1 Benedetto,Maria,Domenica,Di
+A1 Sastry,Shankar,S.
+YR 2008
+T1 Markov Set-Chains as Abstractions of Stochastic Hybrid Systems
+SP 1
+OP 15
+
+RT Journal Article
+ID 6144185
+A1 Meingast,Marci
+A1 Kushwaha,Manish
+A1 Oh,Songhwai
+A1 Koutsoukos,Xenofon
+A1 Ledeczi,Akos
+A1 Sastry,Shankar
+YR 2008
+T1 Fusion-based localization for a Heterogeneous camera network
+
+RT Journal Article
+ID 27279417
+A1 Oh,Songhwai
+A1 Hwang,Inseok
+A1 Sastry,Shankar
+YR 2008
+T1 Distributed Multitarget Tracking and Identity Management
+JF Journal of Guidance Control and Dynamics
+VO 31
+SP 12
+OP 29
+IS 1
+
+RT Conference Proceedings
+ID 5565329
+A1 Giani,Annarita
+A1 Roosta,Tanya
+A1 Sastry,Shankar
+YR 2008
+T1 Integrity checker for wireless sensor networks in health care applications
+
+RT Book, Whole
+ID 4266806
+A1 Abate,Alessandro
+A1 Prandini,Maria
+A1 Lygeros,John
+A1 Sastry,Shankar
+YR 2008
+T1 Approximation of General Stochastic Hybrid Systems by Switching Diffusions with Random Hybrid Jumps
+SP 598
+OP 601
+
+RT Conference Proceedings
+ID 4353421
+A1 Yoon,Yongsoon
+A1 Park,Jae,Mann
+A1 Kim,H.,Jin
+A1 Sastry,Shankar
+YR 2008
+T1 Utilizing parallax information for collisionavoidancein dynamic environments
+SP 4186
+
+RT Journal Article
+ID 53476533
+A1 Roosta,Tanya,G.
+A1 Wainwright,Martin,J.
+A1 Sastry,Shankar,S.
+YR 2008
+T1 Convergence Analysis of Reweighted Sum-Product Algorithms
+JF IEEE Transactions on Signal Processing
+VO 56
+SP 4293
+OP 4305
+
+RT Conference Proceedings
+ID 5724457
+A1 Abate,Alessandro
+A1 Prandini,Maria
+A1 Lygeros,John
+A1 Sastry,Shankar
+YR 2008
+T1 An approximate dynamic programming approach to probabilistic reachability for stochastic hybrid systems
+SP 4018
+OP 4023
+
+RT Journal Article
+ID 5677575
+A1 Sprinkle,Jonathan
+A1 Eklund,J.,Mikael
+A1 Gonzalez,Humberto
+A1 Grotli,Esten
+A1 Moser,Michael
+A1 Sastry,S.,Shankar
+YR 2008
+T1 Recovering Models of a Four-Wheel Vehicle Using Vehicular System Data
+
+RT Conference Proceedings
+ID 4750321
+A1 Roosta,Tanya
+A1 Liao,Wei-chieh
+A1 Teng,Wei-chung
+A1 Sastry,Shankar
+YR 2008
+T1 Testbed Implementation of a Secure Flooding Time Synchronization Protocol
+SP 3157
+OP 3162
+
+RT Conference Proceedings
+ID 6059170
+A1 Varagnolo,Damiano
+A1 Chen,Phoebus
+A1 Schenato,Luca
+A1 Sastry,Shankar,S.
+YR 2008
+T1 Performance analysis of different routing protocols in Wireless Sensor Networks for real-time estimation
+SP 4904
+OP 4909
+
+RT Conference Proceedings
+ID 6055704
+A1 Zhu,Bonnie
+A1 Sastry,Shankar
+YR 2008
+T1 Data Fusion Assurance for the Kalman Filter in Uncertain Networks
+SP 115
+OP 119
+
+RT Journal Article
+ID 3116755
+A1 Schenato,Luca
+A1 Sinopoli,Bruno
+A1 Franceschetti,Massimo
+A1 Poolla,Kameshwar
+A1 Sastry,S.,Shankar
+YR 2007
+T1 Foundations of Control and Estimation Over Lossy Networks
+JF Proceedings of The IEEE
+VO 95
+SP 163
+OP 187
+IS 1
+
+RT Journal Article
+ID 4488213
+A1 Yang,Allen,Y.
+A1 Wright,John
+A1 Ma,Yi
+A1 Sastry,S.,Shankar
+YR 2007
+T1 Feature Selection in Face Recognition: A Sparse Representation Perspective
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+RT Journal Article
+ID 5318082
+A1 Oh,Songhwai
+A1 Schenato,Luca
+A1 Chen,Phoebus
+A1 Sastry,Shankar
+YR 2007
+T1 Tracking and Coordination of Multiple Agents Using Sensor Networks: System Design, Algorithms and Experiments
+JF Proceedings of The IEEE
+VO 95
+SP 234
+OP 254
+IS 1
+
+RT Conference Proceedings
+ID 4494170
+A1 Schiff,Jeremy
+A1 Meingast,Marci
+A1 Mulligan,Deirdre,K.
+A1 Sastry,Shankar
+A1 Goldberg,Kenneth,Y.
+YR 2007
+T1 Respectful cameras: detecting visual markers in real-time to address privacy concerns
+SP 971
+OP 978
+
+RT Conference Proceedings
+ID 2443913
+A1 Templeton,Todd
+A1 Shim,David,Hyunchul
+A1 Geyer,Christopher
+A1 Sastry,S.,Shankar
+YR 2007
+T1 Autonomous Vision-based Landing and Terrain Mapping Using an MPC-controlled Unmanned Rotorcraft
+SP 1349
+OP 1356
+
+RT Conference Proceedings
+ID 50626963
+A1 Jafari,Roozbeh
+A1 Bajcsy,Ruzena
+A1 Glaser,Steven
+A1 Gnade,Bruce
+A1 Sgroi,Marco
+A1 Sastry,Shankar
+YR 2007
+T1 Platform Design for HealthCare Monitoring Applications
+
+RT Conference Proceedings
+ID 50572266
+A1 Zhu,Bonnie
+A1 Sinopoli,Bruno
+A1 Poolla,Kameshwar
+A1 Sastry,Shankar
+YR 2007
+T1 Estimation over Wireless Sensor Networks
+SP 2732
+OP 2737
+
+RT Conference Proceedings
+ID 4271215
+A1 Meingast,Marci
+A1 Songhwai,Oh
+A1 Sastry,Shankar
+YR 2007
+T1 Automatic Camera Network Localization using Object Image Tracks
+SP 1
+OP 8
+
+RT Book, Whole
+ID 2433655
+A1 Abate,Alessandro
+A1 Amin,Saurabh
+A1 Prandini,Maria
+A1 Lygeros,John
+A1 Sastry,Shankar
+YR 2007
+T1 Computational Approaches to Reachability Analysis of Stochastic Hybrid Systems
+SP 4
+OP 17
+
+RT Conference Proceedings
+ID 5690467
+A1 Ames,Aaron,D.
+A1 Abate,Alessandro
+A1 Sastry,Shankar
+YR 2007
+T1 Sufficient conditions for the existence of zeno behavior in a class of nonlinear hybrid systems via constant approximations
+SP 4033
+OP 4038
+
+RT Conference Proceedings
+ID 2416263
+A1 Pai,Sameer
+A1 Roosta,Tanya
+A1 Wicker,Stephen
+A1 Sastry,Shankar
+YR 2007
+T1 Using Social Network Theory Towards Development of Wireless Ad Hoc Network Trust
+SP 443
+OP 450
+
+RT Conference Proceedings
+ID 50625211
+A1 Abate,Alessandro
+A1 Tiwari,Ashish
+A1 Sastry,Shankar
+YR 2007
+T1 Box invariance for biologically-inspired dynamical systems
+SP 5162
+OP 5167
+
+RT Conference Proceedings
+ID 4349060
+A1 Chen,Phoebus
+A1 Sastry,Shankar
+YR 2007
+T1 Latency and connectivity analysis tools for wireless mesh networks
+SP 33
+
+RT Journal Article
+ID 4523554
+A1 Pannequin,Jessica,J.
+A1 Bayen,Alexandre,M.
+A1 Mitchell,Ian,M.
+A1 Chung,Hoam
+A1 Sastry,Shankar
+YR 2007
+T1 Multiple Aircraft Deconflicted Path Planning with Weather Avoidance Constraints
+
+RT Book, Whole
+ID 2468486
+A1 Harmon,Cyrus,L.
+A1 Ahammad,Parvez
+A1 Hammonds,Ann
+A1 Weiszmann,Richard
+A1 Celniker,Susan,E.
+A1 Sastry,S.,Shankar
+A1 Rubin,Gerald,M.
+YR 2007
+T1 Comparative Analysis of Spatial Patterns of Gene Expression in Drosophila melanogaster Imaginal Discs
+SP 533
+OP 547
+
+RT Conference Proceedings
+ID 4303463
+A1 Vehkaoja,Antti
+A1 Zakrzewski,Mari
+A1 Lekkala,Jukka
+A1 Iyengar,Sameer
+A1 Bajcsy,Ruzena
+A1 Glaser,Steven
+A1 Sastry,Shankar
+A1 Jafari,Roozbeh
+YR 2007
+T1 A resource optimized physical movement monitoring scheme for environmental and on-body sensor networks
+SP 64
+OP 66
+
+RT Journal Article
+ID 5742136
+A1 Yang,Allen,Y.
+A1 Iyengar,Sameer
+A1 Kuryloski,Philip
+A1 Sastry,S.,Shankar
+A1 Bajcsy,Ruzena
+YR 2007
+T1 Distributed Segmentation and Classification of Human Actions Using a Wearable Motion Sensor Network
+
+RT Conference Proceedings
+ID 4738691
+A1 Roosta,Tanya
+A1 Pai,Sameer
+A1 Chen,Phoebus
+A1 Sastry,Shankar
+A1 Wicker,Stephen,B.
+YR 2007
+T1 Inherent Security of Routing Protocols in Ad-Hoc and Sensor Networks
+SP 1273
+OP 1278
+
+RT Conference Proceedings
+ID 50572291
+A1 Shim,David,Hyunchul
+A1 Sastry,Shankar
+YR 2007
+T1 An Evasive Maneuvering Algorithm for UAVs in See-and-Avoid Situations
+SP 3886
+OP 3891
+
+RT Conference Proceedings
+ID 5202944
+A1 Oh,Songhwai
+A1 Sastry,Shankar
+YR 2007
+T1 Approximate Estimation of Distributed Networked Control Systems
+SP 997
+OP 1002
+
+RT Conference Proceedings
+ID 50562472
+A1 Roosta,T.
+A1 Wainwright,M.,J.
+A1 Sastry,S.
+YR 2007
+T1 Convergence Analysis of Reweighted Sum-Product Algorithms
+VO 2
+
+RT Conference Proceedings
+ID 10625394
+A1 Amin,Saurabh
+A1 Bayen,Alexandre,M.
+A1 Ghaoui,Laurent,El
+A1 Sastry,Shankar
+YR 2007
+T1 Robust feasibility for control of water flow in a reservoir-canal system
+SP 1571
+OP 1577
+
+RT Conference Proceedings
+ID 4742216
+A1 Duindam,Vincent
+A1 Sastry,Shankar
+YR 2007
+T1 Geometric motion estimation and control for robotic-assisted beating-heart surgery
+SP 871
+OP 876
+
+RT Book, Whole
+ID 2433685
+A1 Sastry,Shankar
+YR 2007
+T1 Networked Embedded Systems: From Sensor Webs to Cyber-Physical Systems
+SP 1
+
+RT Conference Proceedings
+ID 4520875
+A1 Ahammad,Parvez
+A1 Yeo,Chuohao
+A1 Ramchandran,Kannan
+A1 Sastry,S.,Shankar
+YR 2007
+T1 Unsupervised Discovery of Action Hierarchies in Large Collections of Activity Videos
+
+RT Book, Whole
+ID 2433679
+A1 Abate,Alessandro
+A1 D’Innocenzo,Alessandro
+A1 Pola,Giordano
+A1 Benedetto,Maria,Domenica,Di
+A1 Sastry,Shankar
+YR 2007
+T1 The Concept of Deadlock and Livelock in Hybrid Control Systems
+SP 628
+OP 632
+
+RT Journal Article
+ID 4365352
+A1 Sztipanovits,Janos
+A1 Bay,John
+A1 Rohrbough,Larry
+A1 Sastry,Shankar
+A1 Schmidt,Douglas,C.
+A1 Whitaker,Norm
+A1 Wilson,Don
+A1 Winter,Don
+YR 2007
+T1 Escher: A New Technology Transitioning Model
+JF IEEE Computer
+VO 40
+SP 90
+OP 92
+IS 3
+
+RT Conference Proceedings
+ID 50584102
+A1 Sastry,Shankar
+YR 2007
+T1 The Engineering and Societal Impact of Embedded and Autonomous Systems: Beyond Sensor Webs
+
+RT Journal Article
+ID 2503274
+A1 Vidal,René
+A1 Ma,Yi
+A1 Soatto,Stefano
+A1 Sastry,Shankar
+YR 2006
+T1 Two-View Multibody Structure from Motion
+JF International Journal of Computer Vision
+VO 68
+SP 7
+OP 25
+IS 1
+
+RT Journal Article
+ID 5624637
+A1 Deng,Xinyan
+A1 Schenato,Luca
+A1 Sastry,S.,Shankar
+YR 2006
+T1 Flapping flight for biomimetic robotic insects: part II-flight control design
+JF IEEE Transactions on Robotics
+VO 22
+SP 789
+OP 803
+IS 4
+
+RT Conference Proceedings
+ID 2373470
+A1 Songhwai,Oh
+A1 Chen,Phoebus
+A1 Manzo,Michael
+A1 Sastry,Shankar
+A1 Sharp,C.
+A1 Whitehouse,K.
+A1 Tolle,O.
+A1 Jeong,Jaein
+A1 Dutta,P.
+A1 Hui,J.
+A1 Schaffert,S.
+A1 Kim,Sukun
+A1 Taneja,J.
+A1 Zhu,B.
+A1 Roosta,T.
+A1 Howard,M.
+A1 Culler,D.
+YR 2006
+T1 Instrumenting Wireless Sensor Networks for Real-time Surveillance
+SP 3128
+OP 3133
+
+RT Conference Proceedings
+ID 3280287
+A1 Ames,Aaron,D.
+A1 Zheng,Haiyang
+A1 Gregg,Robert,D.
+A1 Sastry,Shankar
+YR 2006
+T1 Is there life after Zeno? Taking executions past the breaking (Zeno) point
+
+RT Journal Article
+ID 5942171
+A1 Deng,Xinyan
+A1 Schenato,Luca
+A1 Wu,Wei,Chung
+A1 Sastry,S.,Shankar
+YR 2006
+T1 Flapping flight for biomimetic robotic insects: part I-system modeling
+JF IEEE Transactions on Robotics
+VO 22
+SP 776
+OP 788
+IS 4
+
+RT Journal Article
+ID 27091516
+A1 SHIM,DAVID,H.
+A1 Chung,Hoam
+A1 SASTRY,S.,SHANKAR
+YR 2006
+T1 Conflict-free navigation in unknown urban environments
+JF IEEE Robotics & Automation Magazine
+VO 13
+SP 27
+OP 33
+IS 3
+
+RT Book, Whole
+ID 1852842
+A1 Ames,Aaron,D.
+A1 Tabuada,Paulo
+A1 Sastry,Shankar
+YR 2006
+T1 On the Stability of Zeno Equilibria
+SP 34
+OP 48
+
+RT Book, Whole
+ID 1852787
+A1 Amin,Saurabh
+A1 Abate,Alessandro
+A1 Prandini,Maria
+A1 Lygeros,John
+A1 Sastry,Shankar
+YR 2006
+T1 Reachability Analysis for Controlled Discrete Time Stochastic Hybrid Systems
+SP 49
+OP 63
+
+RT Conference Proceedings
+ID 4519716
+A1 Meingast,Marci
+A1 Roosta,Tanya
+A1 Sastry,Shankar
+YR 2006
+T1 Security and Privacy Issues with Health Care Information Technology
+SP 5453
+OP 5458
+
+RT Conference Proceedings
+ID 6108573
+A1 Roosta,Tanya
+A1 Meingast,Marci
+A1 Sastry,Shankar
+YR 2006
+T1 Distributed Reputation System for Tracking Applications in Sensor Networks
+
+RT Conference Proceedings
+ID 4138434
+A1 Yeo,Chuohao
+A1 Ahammad,Parvez
+A1 Ramachandran,K.
+A1 Sastry,S.,Shankar
+YR 2006
+T1 Compressed Domain Real-time Action Recognition
+
+RT Conference Proceedings
+ID 50542225
+A1 Sinopoli,Bruno
+A1 Schenato,Luca
+A1 Franceschetti,Massimo
+A1 Poolla,Kameshwar
+A1 Sastry,Shankar
+YR 2006
+T1 Optimal Linear LQG Control Over Lossy Networks Without Packet Acknowledgment
+
+RT Conference Proceedings
+ID 2412766
+A1 Geyer,Christopher
+A1 Templeton,Todd
+A1 Meingast,Marci
+A1 Sastry,Shankar
+YR 2006
+T1 The Recursive Multi-Frame Planar Parallax Algorithm
+SP 17
+OP 24
+
+RT Conference Proceedings
+ID 5665091
+A1 Oh,Songhwai
+A1 Sastry,Shankar
+YR 2006
+T1 Distributed Networked Control System with Lossy Links: State Estimation and Stabilizing Communication Control
+
+RT Conference Proceedings
+ID 5225918
+A1 Ames,Aaron,D.
+A1 Sastry,Shankar
+YR 2006
+T1 Hybrid Routhian reduction of Lagrangian hybrid systems
+
+RT Journal Article
+ID 12597433
+A1 Fern,Jesse
+A1 Kempe,Julia
+A1 Simic,Slobodan,N.
+A1 Sastry,Shankar
+YR 2006
+T1 Generalized Performance of Concatenated Quantum Codes—A Dynamical Systems Approach
+JF IEEE Transactions on Automatic Control
+VO 51
+SP 448
+OP 459
+IS 3
+
+RT Conference Proceedings
+ID 5133935
+A1 Ames,Aaron,D.
+A1 Sastry,Shankar
+YR 2006
+T1 Hybrid Geometric Reduction of Hybrid Systems
+
+RT Conference Proceedings
+ID 5561351
+A1 Chen,Phoebus
+A1 Sastry,Shankar
+YR 2006
+T1 Pursuit Controller Performance Guarantees for a Lifeline Pursuit-Evasion Game over a Wireless Sensor Network
+
+RT Conference Proceedings
+ID 5161381
+A1 Abate,Alessandro
+A1 Ames,Aaron,D.
+A1 Sastry,Shankar
+YR 2006
+T1 Error bounds based stochastic approximations and simulations of hybrid dynamical systems
+
+RT Conference Proceedings
+ID 4479935
+A1 Ames,Aaron,D.
+A1 Sastry,Shankar
+YR 2006
+T1 Hybrid cotangent bundle reduction of simple hybrid mechanical systems with symmetry
+
+RT Conference Proceedings
+ID 5607230
+A1 Abate,Alessandro
+A1 Amin,Saurabh
+A1 Prandini,Maria
+A1 Lygeros,John
+A1 Sastry,Shankar
+YR 2006
+T1 Probabilistic reachability and safe sets computation for discrete time stochastic hybrid systems
+
+RT Conference Proceedings
+ID 2161426
+A1 Sastry,Shankar
+YR 2006
+T1 TRUST: in cyberspace and beyond
+SP 13
+OP 13
+
+RT Conference Proceedings
+ID 5825340
+A1 Abate,Alessandro
+A1 Ames,Aaron,D.
+A1 Sastry,Shankar
+YR 2006
+T1 A priori detection of Zeno behavior in communication networks modeled as hybrid systems
+
+RT Conference Proceedings
+ID 2185072
+A1 Sastry,Shankar
+YR 2006
+T1 Beyond SensorWebs: closing the loop in network embedded systems
+SP 117
+OP 117
+
+RT Journal Article
+ID 1428448
+A1 Vidal,René
+A1 Ma,Yi
+A1 Sastry,Shankar
+YR 2005
+T1 Generalized Principal Component Analysis (GPCA)
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 27
+SP 1945
+OP 1959
+IS 12
+
+RT Conference Proceedings
+ID 2139038
+A1 Sharp,Cory
+A1 Schaffert,Shawn
+A1 Woo,Alec
+A1 Sastry,Naveen
+A1 Karlof,Chris
+A1 Sastry,Shankar
+A1 Culler,David,E.
+YR 2005
+T1 Design and implementation of a sensor network system for vehicle tracking and autonomous interception
+SP 93
+OP 107
+
+RT Conference Proceedings
+ID 1967995
+A1 Songhwai,Oh
+A1 Schenato,Luca
+A1 Sastry,Shankar
+YR 2005
+T1 A Hierarchical Multiple-Target Tracking Algorithm for Sensor Networks
+SP 2197
+OP 2202
+
+RT Conference Proceedings
+ID 1967958
+A1 Schenato,Luca
+A1 Songhwai,Oh
+A1 Sastry,Shankar
+A1 Bose,Prasanta,K.
+YR 2005
+T1 Swarm Coordination for Pursuit Evasion Games using Sensor Networks
+SP 2493
+OP 2498
+
+RT Conference Proceedings
+ID 1904112
+A1 Manzo,Michael
+A1 Roosta,Tanya
+A1 Sastry,Shankar
+YR 2005
+T1 Time synchronization attacks in sensor networks
+SP 107
+OP 116
+
+RT Journal Article
+ID 4368726
+A1 Meingast,Marci
+A1 Geyer,Christopher
+A1 Sastry,Shankar
+YR 2005
+T1 Geometric Models of Rolling-Shutter Cameras
+JF Computing Research Repository
+VO abs/cs/050
+
+RT Journal Article
+ID 2764445
+A1 Shim,David,Hyunchul
+A1 Chung,Hoam
+A1 Kim,H.,Jin
+A1 Sastry,Shankar
+YR 2005
+T1 Autonomous Exploration in Unknown Urban Environments for Unmanned Aerial Vehicles
+
+RT Conference Proceedings
+ID 1806958
+A1 Songhwai,Oh
+A1 Sastry,Shankar
+YR 2005
+T1 Tracking on a graph
+SP 195
+OP 202
+
+RT Conference Proceedings
+ID 1788825
+A1 Makadia,Ameesh
+A1 Geyer,Christopher
+A1 Sastry,Shankar
+A1 Daniilidis,Kostas
+YR 2005
+T1 Radon-Based Structure from Motion without Correspondences
+VO 1
+SP 796
+OP 803
+
+RT Conference Proceedings
+ID 3244895
+A1 Eklund,J.,Mikael
+A1 Hansen,Thomas,Riisgaard
+A1 Sprinkle,Jonathan
+A1 Sastry,Shankar
+YR 2005
+T1 Information Technology for Assisted Living at Home: building a wireless infrastructure for assisted living
+
+RT Journal Article
+ID 5163616
+A1 Hansen,Thomas,Riisgaard
+A1 Eklund,J.,Mikael
+A1 Sprinkle,Jonathan
+A1 Bajcsy,Ruzena
+A1 Sastry,Shankar
+A1 Mote,Berkeley
+YR 2005
+T1 USING SMART SENSORS AND A CAMERA PHONE TO DETECT AND VERIFY THE FALL OF ELDERLY PERSONS
+
+RT Conference Proceedings
+ID 3526174
+A1 Sinopoli,Bruno
+A1 Schenato,Luca
+A1 Franceschetti,Massimo
+A1 Poolla,Kameshwar
+A1 Sastry,Shankar,S.
+YR 2005
+T1 Optimal control with unreliable communication: the TCP case
+SP 3354
+
+RT Conference Proceedings
+ID 2710140
+A1 Sinopoli,Bruno
+A1 Schenato,Luca
+A1 Franceschetti,Massimo
+A1 Poolla,Kameshwar
+A1 Sastry,Shankar
+YR 2005
+T1 An LQG Optimal Linear Controller for Control Systems with Packet Losses
+
+RT Journal Article
+ID 1646938
+A1 Hu,Jianghai
+A1 Prandini,Maria
+A1 Sastry,Shankar
+YR 2005
+T1 Aircraft conflict prediction in the presence of a spatially correlated wind field
+JF IEEE Transactions on Intelligent Transportation Systems
+VO 6
+SP 326
+OP 340
+IS 3
+
+RT Conference Proceedings
+ID 2363601
+A1 Oh,Songhwai
+A1 Sastry,Shankar
+YR 2005
+T1 A polynomial-time approximation algorithm for joint probabilistic data association
+SP 1283
+
+RT Book, Whole
+ID 1852810
+A1 Ames,Aaron,D.
+A1 Sastry,Shankar
+YR 2005
+T1 A Homology Theory for Hybrid Systems: Hybrid Homology
+SP 86
+OP 102
+
+RT Conference Proceedings
+ID 3813443
+A1 Ames,Aaron,D.
+A1 Abate,Alessandro
+A1 Sastry,Shankar
+YR 2005
+T1 Sufficient Conditions for the Existence of Zeno Behavior
+
+RT Conference Proceedings
+ID 12105194
+A1 Cavusoù,M.,Cenk
+A1 Rotella,Jason
+A1 Newman,Wyatt,S.
+A1 Choi,Sangeun
+A1 Ustin,Jeff
+A1 Sastry,S.,Shankar
+YR 2005
+T1 Control algorithms for active relative motion cancelling for robotic assisted off-pump coronary artery bypass graft surgery
+
+RT Journal Article
+ID 3345681
+A1 Sinopoli,Bruno
+A1 Schenato,Luca
+A1 Franceschetti,Massimo
+A1 Poolla,Kameshwar
+A1 Sastry,Shankar
+YR 2005
+T1 LQG CONTROL WITH MISSING OBSERVATION AND CONTROL PACKETS
+
+RT Conference Proceedings
+ID 2827157
+A1 Ames,Aaron,D.
+A1 Sastry,Shankar
+YR 2005
+T1 Characterization of Zeno behavior in hybrid systems using homological methods
+SP 1160
+
+RT Conference Proceedings
+ID 2483792
+A1 Isler,Volkan
+A1 Sun,Dengfeng
+A1 Sastry,Shankar
+YR 2005
+T1 Roadmap Based Pursuit-Evasion and Collision Avoidance
+SP 257
+OP 264
+
+RT Journal Article
+ID 4028427
+A1 Vidal,R.
+A1 Ma,Y.
+A1 Soatto,S.
+A1 Sastry,S.
+YR 2005
+T1 Two-view multi-body structure from motion
+JF International Journal of Computer Vision
+
+RT Conference Proceedings
+ID 2368557
+A1 Sprinkle,Jonathan
+A1 Eklund,J.,Mikael
+A1 Sastry,S.,Shankar
+YR 2005
+T1 Deciding to land a UAV safely in real time
+SP 3506
+
+RT Conference Proceedings
+ID 7037186
+A1 Eklund,J.,Mikael
+A1 Sprinkle,Jonathan
+A1 Sastry,Shankar
+YR 2005
+T1 Implementing and testing a nonlinear model predictive tracking controller for aerial pursuit/evasion games on a fixed wing aircraft
+SP 1509
+
+RT Conference Proceedings
+ID 4183044
+A1 Oh,Songhwai
+A1 Russell,Stuart
+A1 Sastry,Shankar
+YR 2005
+T1 Markov Chain Monte Carlo Data Association for Multiple-Target Tracking
+
+RT Conference Proceedings
+ID 3799760
+A1 Abate,Alessandro
+A1 Ames,Aaron,D.
+A1 Sastry,S.,Shankar
+YR 2005
+T1 Stochastic approximations of hybrid systems
+SP 1557
+
+RT Conference Proceedings
+ID 1788990
+A1 Ahammad,Parvez
+A1 Harmon,Cyrus,L.
+A1 Hammonds,Ann
+A1 Sastry,S.,Shankar
+A1 Rubin,Gerald,M.
+YR 2005
+T1 Joint Nonparametric Alignment for Analyzing Spatial Gene Expression Patterns in Drosophila Imaginal Discs
+VO 2
+SP 755
+OP 760
+
+RT Conference Proceedings
+ID 5145434
+A1 Oh,Songhwai
+A1 Sastry,Shankar
+YR 2005
+T1 An Efficient Algorithm for Tracking Multiple Maneuvering Targets
+
+RT Journal Article
+ID 3527565
+A1 Schenato,L.
+A1 Sinopoli,B.
+A1 Franceschetti,M.
+A1 Poolla,K.
+A1 Sastry,S.
+YR 2005
+T1 Optimal LQG control over lossy packet networks
+
+RT Journal Article
+ID 4426912
+A1 Sprinkle,Jonathan
+A1 Ames,Aaron,D.
+A1 Eklund,J.,Mikael
+A1 Mitchell,Ian,M.
+A1 Sastry,S.,Shankar
+YR 2005
+T1 Online safety calculations for glide-slope recapture
+JF Innovations in Systems and Software Engineering
+VO 1
+SP 157
+OP 175
+IS 2
+
+RT Conference Proceedings
+ID 3510786
+A1 Sprinkle,Jonathan
+A1 Ames,Aaron,D.
+A1 Pinto,Alessandro
+A1 Zheng,Haiyang
+A1 Sastry,S.,Shankar
+YR 2005
+T1 On the Partitioning of Syntax and Semantics For Hybrid Systems Tools
+
+RT Journal Article
+ID 5203609
+A1 Campolo,Domenico
+A1 Schenato,Luca
+A1 Guglielmelli,Eugenio
+A1 Sastry,Shankar,S.
+YR 2005
+T1 A LYAPUNOV-BASED APPROACH FOR THE CONTROL OF BIOMIMETIC ROBOTIC SYSTEMS WITH PERIODIC FORCING INPUTS
+
+RT Journal Article
+ID 50436393
+A1 Sprinkle,J.
+A1 Miller,R.
+A1 Shakernia,O.
+A1 Sastry,S.
+YR 2005
+T1 Using the Hybrid Systems Interchange Format to Input Design Models to Verification & Validation Tools
+JF Proceedings of The Geologists Association
+
+RT Journal Article
+ID 4916929
+A1 Tomlin,Claire,J.
+A1 Lygeros,John
+A1 Sastry,Shankar
+YR 2005
+T1 AA278A Lecture Notes 4 Spring 2005 Existence of Executions
+
+RT Journal Article
+ID 7009772
+A1 Tomlin,Claire,J.
+A1 Lygeros,John
+A1 Sastry,Shankar
+YR 2005
+T1 AA278A Lecture Notes 3 Spring 2005 Autonomous Hybrid Automata
+
+RT Journal Article
+ID 1582315
+A1 Sinopoli,Bruno
+A1 Schenato,Luca
+A1 Franceschetti,Massimo
+A1 Poolla,Kameshwar
+A1 Jordan,Michael,I.
+A1 Sastry,Shankar,S.
+YR 2004
+T1 Kalman filtering with intermittent observations
+JF IEEE Transactions on Automatic Control
+VO 49
+SP 1453
+OP 1464
+IS 9
+
+RT Journal Article
+ID 2709679
+A1 Ma,Yi
+A1 Soatto,Stefano
+A1 Koseck'a,Jana
+A1 Sastry,Shankar,S.
+YR 2004
+T1 An Invitation to 3-D Vision
+
+RT Conference Proceedings
+ID 2134196
+A1 Oh,Songhwai
+A1 Russell,Stuart
+A1 Sastry,Shankar
+YR 2004
+T1 Markov chain Monte Carlo data association for general multiple-target tracking problems
+VO 1
+SP 735
+
+RT Journal Article
+ID 2709681
+A1 Ma,Y.
+A1 Soatto,S.
+A1 Kosecka,J.
+A1 Sastry,S.
+YR 2004
+T1 An Invitation to 3-D Vision: From Images to Geometric Models
+
+RT Conference Proceedings
+ID 2757068
+A1 Ng,Andrew,Y.
+A1 Kim,H.,Jin
+A1 Jordan,Michael
+A1 Sastry,Shankar
+YR 2004
+T1 Autnonomous helicopter flight via reinforcement learning
+
+RT Journal Article
+ID 777745
+A1 Bajcsy,Ruzena
+A1 Benzel,Terry
+A1 Bishop,Matt
+A1 Braden,B.
+A1 Brodley,Carla,E.
+A1 Fahmy,Sonia
+A1 Floyd,Sally
+A1 Hardaker,W.
+A1 Joseph,Anthony,D.
+A1 Kesidis,George
+A1 Levitt,Karl,N.
+A1 Lindell,B.
+A1 Liu,Peng
+A1 Miller,David
+A1 Mundy,Russ
+A1 Neuman,Cliford
+A1 Ostrenga,Ron
+A1 Paxson,Vern
+A1 Porras,Phillip,A.
+A1 Rosenberg,Catherine
+A1 Tygar,J.,Doug
+A1 Sastry,Shankar
+A1 Sterne,Daniel,F.
+A1 Wu,Shyhtsun,Felix
+YR 2004
+T1 Cyber defense technology networking and evaluation
+JF Communications of The ACM
+VO 47
+SP 58
+OP 61
+IS 3
+
+RT Journal Article
+ID 27807014
+A1 Sastry,S.
+A1 Iyengar,S.,S.
+YR 2004
+T1 Distributed Sensor Networks
+
+RT Conference Proceedings
+ID 4070488
+A1 Meingast,Marci
+A1 Geyer,Christopher
+A1 Sastry,Shankar
+YR 2004
+T1 Vision based terrain recovery for landing unmanned aerial vehicles
+VO 2
+SP 1670
+
+RT Conference Proceedings
+ID 3995886
+A1 Sinopoli,Bruno
+A1 Schenato,Luca
+A1 Franceschetti,Massimo
+A1 Poolla,Kameshwar
+A1 Sastry,Shankar,S.
+YR 2004
+T1 Time varying optimal control with packet losses
+VO 2
+SP 1938
+
+RT Conference Proceedings
+ID 2370159
+A1 Sprinkle,Jonathan
+A1 Eklund,J.,Mikael
+A1 Kim,H.,Jin
+A1 Sastry,Shankar
+YR 2004
+T1 Encoding aerial pursuit/evasion games with fixed wing aircraft into a nonlinear model predictive tracking controller
+VO 3
+SP 2609
+
+RT Book, Whole
+ID 659424
+A1 Hu,Jianghai
+A1 Wu,Wei-Chung
+A1 Sastry,Shankar
+YR 2004
+T1 Modeling Subtilin Production in Bacillus subtilis Using Stochastic Hybrid Systems
+SP 417
+OP 431
+
+RT Journal Article
+ID 1714692
+A1 Ma,Yi
+A1 Huang,Kun
+A1 Vidal,René
+A1 Kosecka,Jana
+A1 Sastry,Shankar
+YR 2004
+T1 Rank Conditions on the Multiple-View Matrix
+JF International Journal of Computer Vision
+VO 59
+SP 115
+OP 137
+IS 2
+
+RT Journal Article
+ID 2363989
+A1 Abate,Alessandro
+A1 Shi,Ling
+A1 Simic,Slobodan,N.
+A1 Sastry,S.,Shankar
+YR 2004
+T1 A Stability Criterion for Stochastic Hybrid Systems
+
+RT Book, Whole
+ID 2198158
+A1 Goktekin,Tolga,Gokce
+A1 Cavusoglu,Murat,Cenk
+A1 Tendick,Frank
+A1 Sastry,Shankar
+YR 2004
+T1 GiPSi: An Open Source/Open Architecture Software Development Framework for Surgical Simulation
+SP 240
+OP 248
+
+RT Journal Article
+ID 1653536
+A1 VIDAL,RENÉ
+A1 SHAKERNIA,OMID
+A1 SASTRY,SHANKAR
+YR 2004
+T1 Following the flock [formation control]
+JF IEEE Robotics & Automation Magazine
+VO 11
+SP 14
+OP 20
+IS 4
+
+RT Conference Proceedings
+ID 5152486
+A1 Shi,Ling
+A1 Abate,Alessandro
+A1 Sastry,Shankar
+YR 2004
+T1 Optimal control for a class of stochastic hybrid systems
+VO 2
+SP 1842
+
+RT Journal Article
+ID 3730766
+A1 Sastry,S.
+A1 Iyengar,S.,S.
+YR 2004
+T1 Sensor Technologies for Future Automation Systems
+
+RT Conference Proceedings
+ID 2788850
+A1 Ames,Aaron,D.
+A1 Sastry,Shankar
+YR 2004
+T1 Blowing up affine hybrid systems
+VO 1
+SP 473
+
+RT Journal Article
+ID 1967937
+A1 Oh,Songhwai
+A1 Kim,Jin
+A1 Sastry,Shankar
+YR 2004
+T1 A sampling-based approach to nonparametric dynamic system identification and estimation
+VO 1
+SP 873
+
+RT Book, Whole
+ID 659457
+A1 Ames,Aaron,D.
+A1 Sastry,Shankar
+YR 2004
+T1 Affine Hybrid Systems
+SP 16
+OP 31
+
+RT Journal Article
+ID 53292783
+A1 Fern,Jesse
+A1 Kempe,Julia
+A1 Simic,Slobodan
+A1 Sastry,Shankar
+YR 2004
+T1 Generalized Performance of Concatenated Quantum Codes -- A Dynamical Systems Approach
+
+RT Journal Article
+ID 1575477
+A1 Lygeros,John
+A1 Johansson,Karl,Henrik
+A1 Simic,Slobodan,N.
+A1 Zhang,Jun
+A1 Sastry,S.,Shankar
+YR 2003
+T1 Dynamical properties of hybrid automata
+JF IEEE Transactions on Automatic Control
+VO 48
+SP 2
+OP 17
+IS 1
+
+RT Journal Article
+ID 1429751
+A1 Sinopoli,Bruno
+A1 Sharp,Courtney
+A1 Schenato,Luca
+A1 Schaffert,Shawn
+A1 SASTRY,S.,SHANKAR
+YR 2003
+T1 Distributed control applications within sensor networks
+JF Proceedings of The IEEE
+VO 91
+SP 1235
+OP 1246
+IS 8
+
+RT Journal Article
+ID 2389427
+A1 Ma,Y.
+A1 Soatto,S.
+A1 Kosecka,J.
+A1 Sastry,S.
+YR 2003
+T1 An Invitation to 3D Vision: From Images to Geometric Models
+
+RT Journal Article
+ID 2139321
+A1 Soatto,S
+A1 Kosecka,J
+A1 Sastry,S
+YR 2003
+T1 An Invitation to 3D Vision
+
+RT Conference Proceedings
+ID 538854
+A1 Vidal,René
+A1 Shakernia,Omid
+A1 Sastry,Shankar
+YR 2003
+T1 Formation control of nonholonomic mobile robots with omnidirectional visual servoing and motion segmentation
+VO 1
+SP 584
+OP 589
+
+RT Book, Whole
+ID 659417
+A1 Vidal,René
+A1 Chiuso,Alessandro
+A1 Soatto,Stefano
+A1 Sastry,Shankar
+YR 2003
+T1 Observability of Linear Hybrid Systems
+SP 526
+OP 539
+
+RT Conference Proceedings
+ID 1811288
+A1 Ng,Andrew,Y.
+A1 Kim,H.,Jin
+A1 Jordan,Michael,I.
+A1 Sastry,Shankar
+YR 2003
+T1 Autonomous Helicopter Flight via Reinforcement Learning
+
+RT Book, Whole
+ID 40471
+A1 Simic,Slobodan,N.
+A1 Sastry,Shankar
+YR 2003
+T1 Distributed Environmental Monitoring Using Random Sensor Networks
+SP 582
+OP 592
+
+RT Conference Proceedings
+ID 2167079
+A1 Vidal,René
+A1 Ma,Yi
+A1 Sastry,Shankar
+YR 2003
+T1 Generalized Principal Component Analysis (GPCA)
+VO 1
+SP 621
+OP 628
+
+RT Conference Proceedings
+ID 50335380
+A1 Vidal,R.
+A1 Soatto,S.
+A1 Ma,Yi
+A1 Sastry,S.
+YR 2003
+T1 An algebraic geometric approach to the identification of a class of linear hybrid systems
+VO 1
+SP 167
+
+RT Conference Proceedings
+ID 50335447
+A1 Sinopoli,Bruno
+A1 Schenato,Luca
+A1 Franceschetti,Massimo
+A1 Poolla,Kameshwar
+A1 Jordan,Michael,I.
+A1 Sastry,Shankar,S.
+YR 2003
+T1 Kalman filtering with intermittent observations
+VO 1
+SP 701
+
+RT Conference Proceedings
+ID 2927454
+A1 Shim,David,H.
+A1 Kim,H.,J.
+A1 Sastry,S.
+YR 2003
+T1 Decentralized nonlinear model predictive control of multiple flying robots
+VO 4
+SP 3621
+
+RT Conference Proceedings
+ID 3294983
+A1 Sinopoli,B.
+A1 Schenato,L.
+A1 Franceschetti,M.
+A1 Poolla,K.
+A1 Jor-dan,M.
+A1 Sastry,S.
+YR 2003
+T1 Kalman filtering with intermittent observations
+
+RT Journal Article
+ID 27021508
+A1 Çavuşoğlu,M.,Cenk
+A1 Williams,Winthrop
+A1 Tendick,Frank
+A1 Sastry,S.,Shankar
+YR 2003
+T1 Robotics for telesurgery: second generation Berkeley/UCSF laparoscopic telesurgical workstation and looking towards the future applications
+JF Industrial Robot-an International Journal
+VO 30
+SP 22
+OP 29
+IS 1
+
+RT Conference Proceedings
+ID 2298391
+A1 Cowan,Noah
+A1 Shakerina,O.
+A1 Vidal,Rene
+A1 Sastry,Shankar
+YR 2003
+T1 Vision-based follow-the-leader
+
+RT Conference Proceedings
+ID 2334959
+A1 Vidal,Ren,e
+A1 Ma,Yi
+A1 Sastry,Shankar
+YR 2003
+T1 An Algebraic Geometric Approach to the Identication of a Class of Linear Hybrid Systems
+
+RT Conference Proceedings
+ID 1788403
+A1 Vidal,René
+A1 Sastry,Shankar
+YR 2003
+T1 Optimal Segmentation of Dynamic Scenes from Two Perspective Views
+VO 2
+SP 281
+OP 286
+
+RT Conference Proceedings
+ID 3609321
+A1 Hu,Jianghai
+A1 Prandini,Maria
+A1 Sastry,Shankar
+YR 2003
+T1 Probabilistic safety analysis in three dimensional aircraft flight
+VO 5
+SP 5335
+
+RT Conference Proceedings
+ID 538479
+A1 Zelinski,Shannon
+A1 Koo,Tak-john
+A1 Sastry,Shankar
+YR 2003
+T1 Optimization-based formation reconfiguration planning for autonomous vehicles
+VO 3
+SP 3758
+OP 3763
+
+RT Journal Article
+ID 836699
+A1 Horowitz,Benjamin
+A1 Liebman,Judith
+A1 Ma,Cedric
+A1 Koo,Tak-john
+A1 Sangiovanni-vincentelli,Alberto,L.
+A1 SASTRY,S.,SHANKAR
+YR 2003
+T1 Platform-based embedded software design and system integration for autonomous vehicles
+JF Proceedings of The IEEE
+VO 91
+SP 198
+OP 211
+IS 1
+
+RT Conference Proceedings
+ID 3202611
+A1 Zelinski,Shannon
+A1 Koo,T.,John
+A1 Sastry,Shankar
+YR 2003
+T1 Hybrid system design for formations of autonomous vehicles
+VO 1
+SP 1
+
+RT Conference Proceedings
+ID 6241046
+A1 Schenato,Luca
+A1 Campolo,Domenico
+A1 Sastry,Shankar
+YR 2003
+T1 Controllability issues in flapping flight for biomimetic micro aerial vehicles (MAVs)
+VO 6
+SP 6441
+
+RT Conference Proceedings
+ID 538785
+A1 Shakernia,Omid
+A1 Vidal,René
+A1 Sastry,Shankar
+YR 2003
+T1 Multibody motion estimation and segmentation from multiple central panoramic views
+VO 1
+SP 571
+OP 576
+
+RT Conference Proceedings
+ID 50335454
+A1 Antoniades,Adonis
+A1 Kim,H.,J.
+A1 Sastry,Shankar
+YR 2003
+T1 Pursuit-evasion strategies for teams of multiple agents with incomplete information
+VO 1
+SP 756
+
+RT Journal Article
+ID 13162821
+A1 Hu,Jianghai
+A1 Prandini,Maria
+A1 Sastry,Shankar
+YR 2003
+T1 Optimal Coordinated Motions of Multiple Agents Moving on a Plane
+JF Siam Journal on Control and Optimization
+VO 42
+SP 637
+OP 668
+IS 2
+
+RT Conference Proceedings
+ID 50304470
+A1 Shakernia,Omid
+A1 Vidal,Rene
+A1 Sastry,Shankar
+YR 2003
+T1 Omnidirectional Egomotion Estimation From Back-projection Flow
+VO 7
+SP 82
+OP 82
+
+RT Journal Article
+ID 3065103
+A1 Zhang,Jun
+A1 Vala,Jiri
+A1 Sastry,Shankar
+A1 Whaley,K.,Birgitta
+YR 2003
+T1 Exact two-qubit universal quantum circuit
+JF Pattern Recognition Letters
+
+RT Journal Article
+ID 836708
+A1 Sastry,Shankar
+A1 Sztipanovits,Janos
+A1 Bajcsy,Ruzena
+A1 Gill,H.
+YR 2003
+T1 Scanning the issue - special issue on modeling and design of embedded software
+JF Proceedings of The IEEE
+VO 91
+SP 3
+OP 10
+IS 1
+
+RT Journal Article
+ID 2672994
+A1 Hu,J.
+A1 Prandini,M.
+A1 Sastry,S.
+YR 2003
+T1 Aircraft con掳ict detection in presence of spatially correlated wind perturbations
+
+RT Conference Proceedings
+ID 5168573
+A1 Mitchell,I.,M.
+A1 Sastry,Shankar
+YR 2003
+T1 Continuous path planning with multiple constraints
+VO 5
+SP 5502
+
+RT Journal Article
+ID 3399464
+A1 Sastry,S.
+A1 Sztipanovits,J.
+A1 Bajcsy,R.
+A1 Gill,H.
+YR 2003
+T1 Modeling and design of embedded software
+JF Proceedings of The IEEE
+
+RT Conference Proceedings
+ID 6260545
+A1 Hu,Jianghai
+A1 Sastry,Shankar
+YR 2003
+T1 Optimal sojourn time control within an interval
+VO 4
+SP 3478
+
+RT Journal Article
+ID 1660662
+A1 Iyengar,S.,S.
+A1 Sastry,S.
+A1 Balakrishnan,N.
+YR 2003
+T1 Foundations of data fusion for automation
+JF IEEE Instrumentation & Measurement Magazine
+VO 6
+SP 35
+OP 41
+IS 4
+
+RT Conference Proceedings
+ID 538789
+A1 Deng,Xinyan
+A1 Schenato,Luca
+A1 Sastry,Shankar,S.
+YR 2003
+T1 Model identification and attitude control for a micromechanical flying insect including thorax and sensor models
+VO 1
+SP 1152
+OP 1157
+
+RT Journal Article
+ID 14352298
+A1 Cavusoglu,M.,C.
+A1 Williams,W.
+A1 Tendick,F.
+A1 Sastry,S.
+YR 2003
+T1 Robotics for telesurgery: Second generation Berkeley/UCSF laparoscopic telesurgical workstation and looking toward the future applications
+
+RT Journal Article
+ID 3202153
+A1 Koo,T.,J.
+A1 Sastry,S.,S.
+YR 2003
+T1 Hybrid control of unmanned aerial vehicles for autonomous landing
+
+RT Conference Proceedings
+ID 50304471
+A1 Shakernia,Omid
+A1 Vidal,Rene
+A1 Sastry,Shankar
+YR 2003
+T1 Structure from Small Baseline Motion with Central Panoramic Cameras
+VO 7
+SP 83
+OP 83
+
+RT Conference Proceedings
+ID 4695999
+A1 Hu,Jianghai
+A1 SimiC,Slobodan,N.
+A1 Sastry,Shankar
+YR 2003
+T1 How should a snake turn on ice: a case study of the asymptotic isoholonomic problem
+VO 3
+SP 2908
+
+RT Journal Article
+ID 17289
+A1 Vidal,René
+A1 Shakernia,Omid
+A1 Kim,H.,Jin
+A1 Shim,David,Hyunchul
+A1 Sastry,Shankar
+YR 2002
+T1 Probabilistic pursuit-evasion games: theory, implementation, and experimental evaluation
+JF IEEE Transactions on Robotics and Automation
+VO 18
+SP 662
+OP 669
+IS 5
+
+RT Journal Article
+ID 1572316
+A1 Aubin,Jean-Pierre
+A1 Lygeros,John
+A1 Quincampoix,Marc
+A1 Sastry,Shankar
+A1 Seube,Nicolas
+YR 2002
+T1 Impulse differential inclusions: a viability approach to hybrid systems
+JF IEEE Transactions on Automatic Control
+VO 47
+SP 2
+OP 20
+IS 1
+
+RT Conference Proceedings
+ID 19873
+A1 Shakerniat,Omid
+A1 Vidal,René
+A1 Sharp,Courtney,S.
+A1 Ma,Yi
+A1 Sastry,Shankar
+YR 2002
+T1 Multiple View Motion Estimation and Control for Landing an Unmanned Aerial Vehicle
+SP 2793
+OP 2798
+
+RT Journal Article
+ID 17102
+A1 Vidal,Rene
+A1 Soatto,Stefano
+A1 Sastry,Shankar
+YR 2002
+T1 Segmentation of Dynamic Scenes from the Multibody Fundamental Matrix
+
+RT Conference Proceedings
+ID 2376575
+A1 Kim,H.,J.
+A1 Shim,D.,H.
+A1 Sastry,S.
+YR 2002
+T1 Nonlinear model predictive tracking control for rotorcraft-based unmanned aerial vehicles
+VO 5
+SP 3576
+
+RT Journal Article
+ID 27278664
+A1 Hu,Jianghai
+A1 Prandini,Maria
+A1 Sastry,Shankar
+YR 2002
+T1 Optimal Coordinated Maneuvers for Three-Dimensional Aircraft Conflict Resolution
+JF Journal of Guidance Control and Dynamics
+VO 25
+IS 5
+
+RT Conference Proceedings
+ID 20522
+A1 Vidal,R.
+A1 Sastry,S.
+YR 2002
+T1 Segmentation of dynamic scenes from image intensities
+
+RT Journal Article
+ID 40918
+A1 SIMI,SLOBODAN,N.
+A1 SASTRY,SHANKAR
+YR 2002
+T1 A DISTRIBUTED ALGORITHM FOR LOCALIZATION IN RANDOM WIRELESS NETWORKS
+JF Discrete Applied Mathematics
+
+RT Conference Proceedings
+ID 2754000
+A1 Schenato,Luca
+A1 Wu,Wei,Chung
+A1 Sastry,Shankar,S.
+YR 2002
+T1 Attitude control for a micromechanical flying insect via sensor output feedback
+SP 1031
+OP 1036
+
+RT Conference Proceedings
+ID 536520
+A1 Kim,H.,Jin
+A1 Shim,David,Hyunchul
+A1 Sastry,Shankar
+YR 2002
+T1 Flying Robots: Modeling, Control and Decision Making
+SP 66
+OP 71
+
+RT Conference Proceedings
+ID 50294553
+A1 Shakernia,O.
+A1 Vidal,R.
+A1 Sastry,S.
+YR 2002
+T1 Infinitesimal motion estimation from multiple central panoramic views
+
+RT Journal Article
+ID 21377
+A1 Vidal,Rene
+A1 Sastry,Shankar
+YR 2002
+T1 Vision-Based Detection Of Autonomous Vehicles For Pursuit-Evasion Games
+
+RT Journal Article
+ID 3193396
+A1 Schenato,Luca
+A1 Deng,Xinyan
+A1 Sastry,Shankar
+YR 2002
+T1 HOVERING FLIGHT FOR A MICROMECHANICAL FLYING INSECT: MODELING AND ROBUST CONTROL SYNTHESIS 1
+
+RT Journal Article
+ID 3393158
+A1 Henzinger,T.,A.
+A1 Lee,E.,A.
+A1 Sangiovanni-vincentelli,A.,L.
+A1 Sastry,S.,S.
+A1 Szti-panovits,J.
+YR 2002
+T1 Mission Statement: Center for Hybrid and Embedded Software Systems
+
+RT Conference Proceedings
+ID 4749041
+A1 Deng,Xinyan
+A1 Schenato,Luca
+A1 Sastry,Shankar
+YR 2002
+T1 Model identification and attitude control scheme for a micromechanical flying insect
+SP 1007
+OP 1012
+
+RT Book, Whole
+ID 659151
+A1 Koo,Tak-john
+A1 Sastry,Shankar
+YR 2002
+T1 Bisimulation Based Hierarchical System Architecture for Single-Agent Multi-modal Systems
+SP 281
+OP 293
+
+RT Book, Whole
+ID 659136
+A1 Hu,Jianghai
+A1 Sastry,Shankar
+YR 2002
+T1 Symmetry Reduction of a Class of Hybrid Systems
+SP 267
+OP 280
+
+RT Journal Article
+ID 2565469
+A1 Vidal,R.
+A1 Soatto,S.
+A1 Sastry,S.
+YR 2002
+T1 A Factorization Method for Multibody Motion Estimation and Segmentation
+
+RT Book, Whole
+ID 653362
+A1 Koo,Tak-john
+A1 Liebman,Judith
+A1 Ma,Cedric
+A1 Horowitz,Benjamin
+A1 Sangiovanni-vincentelli,Alberto,L.
+A1 Sastry,Shankar
+YR 2002
+T1 Platform-Based Embedded Software Design for Multi-vehicle Multi-modal Systems
+SP 32
+OP 45
+
+RT Journal Article
+ID 40356
+A1 Vidal,Rene
+A1 Soatto,Stefano
+A1 Sastry,Shankar
+YR 2002
+T1 Two-View Segmentation of Dynamic Scenes from the Multibody Fundamental Matrix
+
+RT Conference Proceedings
+ID 3585915
+A1 Vidal,R.
+A1 Ames,A.
+A1 Sastry,S.
+YR 2002
+T1 Polynomial segmentation: an analytic solution to eigenvector segmentation
+
+RT Conference Proceedings
+ID 3109186
+A1 Jin,H.
+A1 David,Kim
+A1 Shim,H.
+A1 Sastry,Shankar
+YR 2002
+T1 FLYING ROBOTS: Sensing, Control and Decision Making
+
+RT Journal Article
+ID 51622734
+A1 Horton,Mike,A.
+A1 Broad,Alan
+A1 Grimmer,Mike
+A1 Pister,Kristofer,S.,J.
+A1 Sastry,S.,Shankar
+A1 Rosenbury,Tom
+A1 Whitaker,Norman,A.
+YR 2002
+T1 Deployment-ready multimode micropower wireless sensors networks for intrusion detection, classification, and tracking
+VO 4743
+SP 307
+OP 312
+
+RT Journal Article
+ID 56042923
+A1 Horton,Mike,A.
+A1 Broad,Alan
+A1 Grimmer,Mike
+A1 Pister,Kristofer,S.
+A1 Sastry,S.,Shankar
+A1 Rosenbury,Tom
+A1 Whitaker,Norman,A.
+YR 2002
+T1 Deployment-ready multimode micropower wireless sensor networks for intrusion detection, classification, and tracking
+VO 4708
+SP 290
+OP 295
+
+RT Book, Whole
+ID 518046
+A1 Cavusoglu,Murat,Cenk
+A1 Goktekin,Tolga
+A1 Tendick,Frank
+A1 Sastry,S.,Shankar
+YR 2002
+T1 Framework for Open Source Software Development for Organ Simulation in the Digital Human
+SP 713
+OP 714
+
+RT Journal Article
+ID 1436342
+A1 Kumar,S.
+A1 Sastry,S.
+YR 2002
+T1 Guest editors' introduction: Biocomputation
+JF Computing in Science and Engineering
+VO 4
+SP 18
+OP 19
+IS 1
+
+RT Journal Article
+ID 12887975
+A1 Sastry,Shankar
+YR 2002
+T1 Benjamin Horowitz Judith Liebman Cedric Ma T. John Koo Thomas A. Henzinger Alberto Sangiovanni-Vincentelli
+
+RT Conference Proceedings
+ID 81976
+A1 Sharp,Courtney,S.
+A1 Shakernia,Orriid
+A1 Sastry,S.,Shankar
+YR 2001
+T1 A Vision System for Landing an Unmanned Aerial Vehicle
+VO 2
+SP 1720
+OP 1727
+
+RT Journal Article
+ID 26045461
+A1 Zhang,Jun
+A1 Johansson,Karl,Henrik
+A1 Lygeros,John
+A1 Sastry,Shankar
+YR 2001
+T1 Zeno hybrid systems
+JF International Journal of Robust and Nonlinear Control
+VO 11
+SP 435
+OP 451
+IS 5
+
+RT Journal Article
+ID 120912
+A1 Simi,Slobodan,N.
+A1 Sastry,Shankar
+YR 2001
+T1 Distributed Localization in Wireless Ad Hoc Networks
+
+RT Journal Article
+ID 784218
+A1 Ma,Yi
+A1 Kosecka,Jana
+A1 Sastry,Shankar
+YR 2001
+T1 Optimization Criteria and Geometric Algorithms for Motion and Structure Estimation
+JF International Journal of Computer Vision
+VO 44
+SP 219
+OP 249
+IS 3
+
+RT Journal Article
+ID 120241
+A1 Cavusoglu,M.,Cenk
+A1 Williams,Winthrop
+A1 Tendick,Frank
+A1 Sastry,S.,Shankar
+YR 2001
+T1 Robotics for Telesurgery: Second Generation Berkeley/UCSF Laparoscopic Telesurgical Workstation and Looking towards the Future Applications
+
+RT Conference Proceedings
+ID 50249639
+A1 Kim,H.,J.
+A1 Vidal,R.
+A1 Shim,D.,H.
+A1 Shakernia,Omid
+A1 Sastry,Shankar
+YR 2001
+T1 A hierarchical approach to probabilistic pursuit-evasion games with unmanned ground and aerial vehicles
+
+RT Conference Proceedings
+ID 537854
+A1 Vidal,René
+A1 Rashid,Shahid
+A1 Sharp,Courtney,S.
+A1 Shakernia,Omid
+A1 Kim,Jin
+A1 Sastry,Shankar
+YR 2001
+T1 Pursuit-Evasion Games with Unmanned Ground and Aerial Vehicles
+VO 3
+SP 2948
+OP 2955
+
+RT Conference Proceedings
+ID 102226
+A1 Ren,H.,Jin,Kim
+A1 David,Vidal
+A1 Shim,H.
+A1 Shakernia,Omid
+A1 Sastry,Shankar
+YR 2001
+T1 A Hierarchical Approach to Probabilistic Pursuit-Evasion Games with Unmanned Ground and Aerial Vehicles1
+
+RT Conference Proceedings
+ID 536877
+A1 Schenato,Luca
+A1 Deng,Xinyan
+A1 Wu,Wei,Chung
+A1 Sastry,Shankar
+YR 2001
+T1 Virtual Insect Flight Simulator (VIFS): a Software Testbed for Insect Flight
+VO 4
+SP 3885
+OP 3892
+
+RT Conference Proceedings
+ID 109615
+A1 Vidal,Rene
+A1 Schaert,Shawn
+A1 Shakernia,Omid
+A1 Lygeros,John
+A1 Sastry,Shankar
+YR 2001
+T1 Decidable and Semi-decidable Controller Synthesis for Classes of Discrete Time Hybrid Systems1
+
+RT Journal Article
+ID 3526197
+A1 Hu,Jianghai
+A1 Nilim,Arnab
+A1 Sastry,Shankar
+YR 2001
+T1 OPTIMAL COORDINATED MANEUVERS FOR THREE DIMENSIONAL AIRCRAFT CONFLICT RESOLUTION
+
+RT Book, Whole
+ID 146793
+A1 Koo,Tak-john
+A1 Pappas,George,J.
+A1 Sastry,Shankar
+YR 2001
+T1 Mode Switching Synthesis for Reachability Specifications
+SP 333
+OP 346
+
+RT Conference Proceedings
+ID 50250046
+A1 Vidal,R.
+A1 Schaffert,S.
+A1 Shakernia,O.
+A1 Lygeros,J.
+A1 Sastry,S.
+YR 2001
+T1 Decidable and semi-decidable controller synthesis for classes of discrete time hybrid systems
+
+RT Journal Article
+ID 10581478
+A1 Hu,Jianghai
+A1 Sastry,Shankar
+YR 2001
+T1 Optimal collision avoidance and formation switching on Riemannian manifolds
+
+RT Conference Proceedings
+ID 89317
+A1 Vidal,René
+A1 Ma,Yi
+A1 Hsu,Shawn
+A1 Sastry,Shankar
+YR 2001
+T1 Optimal Motion Estimation from Multiview Normalized Epipolar Constraint
+SP 34
+OP 41
+
+RT Conference Proceedings
+ID 535715
+A1 Schenato,Luca
+A1 Deng,Xinyan
+A1 Sastry,Shankar
+YR 2001
+T1 Flight Control System for a Micromechanical Flying Insect: Architecture and Implementation
+VO 2
+SP 1641
+OP 1646
+
+RT Book, Whole
+ID 69686
+A1 Shakernia,Omid
+A1 Pappas,George,J.
+A1 Sastry,Shankar
+YR 2001
+T1 Semi-decidable Synthesis for Triangular Hybrid Systems
+SP 487
+OP 500
+
+RT Journal Article
+ID 50249581
+A1 Deng,Xinyan
+A1 Schenato,Luca
+A1 Sastry,Shankar
+YR 2001
+T1 Hovering flight control of a micromechanical flying insect
+
+RT Journal Article
+ID 15271075
+A1 Ma,Yi
+A1 Košecká,Jana
+A1 Sastry,Shankar
+YR 2001
+T1 Optimization Criteria and Geometric Algorithms for Motion and Structure Estimation
+JF International Journal of Computer Vision
+VO 44
+SP 219
+OP 249
+IS 3
+
+RT Journal Article
+ID 2359079
+A1 Simi,Slobodan,N.
+A1 Johansson,Karl,H.
+A1 Lygeros,John
+A1 Sastry,Shankar
+YR 2001
+T1 STRUCTURAL STABILITY OF HYBRID SYSTEMS
+
+RT Book, Whole
+ID 659156
+A1 Hu,Jianghai
+A1 Prandini,Maria
+A1 Johansson,Karl,Henrik
+A1 Sastry,Shankar
+YR 2001
+T1 Hybrid Geodesics as Optimal Solutions to the Collision-Free Motion Planning Problem
+SP 305
+OP 318
+
+RT Book, Whole
+ID 653371
+A1 Koo,Tak-john
+A1 Liebman,Judith
+A1 Ma,Cedric
+A1 Sastry,S.,Shankar
+YR 2001
+T1 Hierarchical Approach for Design of Multi-vehicle Multi-modal Embedded Software
+SP 344
+OP 360
+
+RT Conference Proceedings
+ID 4066279
+A1 Aubin,J.,P.
+A1 Lygeros,J.
+A1 Quincampoix,M.
+A1 Sastry,S.
+A1 Seube,N.
+YR 2001
+T1 Viability and invariance kernels of impulse differential inclusions
+
+RT Conference Proceedings
+ID 50250108
+A1 Aubin,J.,P.
+A1 Lygeros,J.
+A1 Quincampoix,M.
+A1 Sastry,S.
+A1 Seube,N.
+YR 2001
+T1 Viability and invariance kernels of impulse differential inclusions
+
+RT Journal Article
+ID 55869
+A1 Koo,T.,John
+A1 Pappas,George,J.
+A1 Sastry,Shankar
+YR 2001
+T1 Multi-modal control of systems with constraints
+
+RT Journal Article
+ID 176257
+A1 Ma,Y.
+A1 Vidal,R.
+A1 Hsu,S.
+A1 Sastry,S.
+YR 2001
+T1 Optimal Motion Estimation from Multiple Images by Normalized Epipolar Constraint
+
+RT Journal Article
+ID 3857824
+A1 Lygeros,J.
+A1 Sastry,S.
+A1 Tomlin,C.
+YR 2001
+T1 The art of hybrid systems
+
+RT Journal Article
+ID 2026370
+A1 Lygeros,John
+A1 Johansson,Karl,Henrik
+A1 SimiC,Slobodan,N.
+A1 Zhang,Jun
+A1 Sastry,Shankar
+YR 2001
+T1 Continuity and invariance in hybrid automata
+
+RT Journal Article
+ID 4005289
+A1 Simic,Slobodan,N.
+A1 Johansson,Karl,Henrik
+A1 Lygeros,John
+A1 Sastry,Shankar
+YR 2001
+T1 Towards a Geometric Theory of Hybrid Systems
+
+RT Book, Whole
+ID 659352
+A1 Lemch,Ekaterina,S.
+A1 Sastry,Shankar
+A1 Caines,Peter,E.
+YR 2001
+T1 Global Controllability of Hybrid Systems with Controlled and Autonomous Switchings
+SP 375
+OP 386
+
+RT Journal Article
+ID 4150494
+A1 Ma,Yi
+A1 Vidal,Rene
+A1 Hsu,Shawn
+A1 Sastry,Shankar,S.
+YR 2001
+T1 Optimal motion from multiple views by normalized epipolar constraints
+
+RT Book, Whole
+ID 649849
+A1 Sastry,Shankar
+YR 2001
+T1 Control of Networks of Unmanned Vehicles
+SP 36
+
+RT Journal Article
+ID 50250111
+A1 Zhang,Jun
+A1 Sastry,Shankar
+YR 2001
+T1 Aircraft conflict resolution: Lie-Poisson reduction for game on SE(2)
+JF Heart Lung and Circulation
+
+RT Journal Article
+ID 1429193
+A1 Tomlin,Claire,J.
+A1 Lygeros,John
+A1 Sastry,S.,Shankar
+YR 2000
+T1 A game theoretic approach to controller design for hybrid systems
+JF Proceedings of The IEEE
+VO 88
+SP 949
+OP 970
+IS 7
+
+RT Journal Article
+ID 60260
+A1 Lafferriere,Gerardo
+A1 Pappas,George,J.
+A1 Sastry,Shankar
+YR 2000
+T1 O-Minimal Hybrid Systems
+JF Mathematics of Control Signals and Systems
+VO 13
+SP 1
+OP 21
+IS 1
+
+RT Journal Article
+ID 72498
+A1 Pappas,George,J.
+A1 Lafferriere,Gerardo
+A1 Sastry,Shankar
+YR 2000
+T1 Hierarchically consistent control systems
+JF IEEE Transactions on Automatic Control
+VO 45
+SP 1144
+OP 1160
+IS 6
+
+RT Journal Article
+ID 2085754
+A1 Shim,D.,H.
+A1 Kim,H.,J.
+A1 Sastry,S.
+YR 2000
+T1 Hierarchical control system synthesis for rotorcraft-based unmanned aerial vehicles
+
+RT Conference Proceedings
+ID 2895804
+A1 Shim,David,Hyunchul
+A1 Kim,Hyoun,Jin
+A1 Sastry,Shankar
+YR 2000
+T1 Control system design for rotorcraft-based unmanned aerial vehicles using time-domain system identification
+SP 808
+OP 813
+
+RT Conference Proceedings
+ID 659138
+A1 Hu,Jianghai
+A1 Lygeros,John
+A1 Sastry,Shankar
+YR 2000
+T1 Towars a Theory of Stochastic Hybrid Systems
+SP 160
+OP 173
+
+RT Journal Article
+ID 1646795
+A1 Prandini,Maria
+A1 Hu,Jianghai
+A1 Lygeros,John
+A1 Sastry,Shankar
+YR 2000
+T1 A probabilistic approach to aircraft conflict detection
+JF IEEE Transactions on Intelligent Transportation Systems
+VO 1
+SP 199
+OP 220
+IS 4
+
+RT Book, Whole
+ID 161676
+A1 Simic,Slobodan,N.
+A1 Johansson,Karl,Henrik
+A1 Sastry,Shankar
+A1 Lygeros,John
+YR 2000
+T1 Towards a Geometric Theory of Hybrid Systems
+SP 421
+OP 436
+
+RT Journal Article
+ID 784217
+A1 Ma,Yi
+A1 Kosecka,Jana
+A1 Sastry,Shankar
+YR 2000
+T1 Linear Differential Algorithm for Motion Recovery: A Geometric Approach
+JF International Journal of Computer Vision
+VO 36
+SP 71
+OP 89
+IS 1
+
+RT Conference Proceedings
+ID 193137
+A1 Hespanha,Jok,P.
+A1 Prandini,Maria
+A1 Sastry,Shankar
+YR 2000
+T1 Probabilistic pursuit-evasion games: a one-step Nash approach
+VO 3
+SP 2272
+
+RT Book, Whole
+ID 64168
+A1 Zhang,Jun
+A1 Johansson,Karl,Henrik
+A1 Lygeros,John
+A1 Sastry,Shankar
+YR 2000
+T1 Dynamical Systems Revisited: Hybrid Systems with Zeno Executions
+SP 451
+OP 464
+
+RT Conference Proceedings
+ID 659108
+A1 Vidal,René
+A1 Schaffert,Shawn
+A1 Lygeros,John
+A1 Sastry,Shankar
+YR 2000
+T1 Controlled Invariance of Discrete Time Systems
+SP 437
+OP 450
+
+RT Book, Whole
+ID 171267
+A1 Shakernia,Omid
+A1 Sastry,Shankar
+A1 Pappas,George,J.
+YR 2000
+T1 Decidable Controller Synthesis for Classes of Linear Systems
+SP 407
+OP 420
+
+RT Journal Article
+ID 784318
+A1 Ma,Yi
+A1 Soatto,Stefano
+A1 Kosecka,Jana
+A1 Sastry,Shankar
+YR 2000
+T1 Euclidean Reconstruction and Reprojection Up to Subgroups
+JF International Journal of Computer Vision
+VO 38
+SP 219
+OP 229
+IS 3
+
+RT Journal Article
+ID 2896319
+A1 Tomlin,C.
+A1 Lygeros,J.
+A1 Sastry,S.
+YR 2000
+T1 Controller design for hybrid systems
+JF Proceedings of The IEEE
+
+RT Conference Proceedings
+ID 209016
+A1 Hu,Jianghai
+A1 Prandini,Maria
+A1 Sastry,Shankar
+YR 2000
+T1 Optimal maneuver for multiple aircraft conflict resolution: a braid point of view
+VO 4
+SP 4164
+
+RT Book, Whole
+ID 509631
+A1 Ma,Yi
+A1 Vidal,René
+A1 Kosecka,Jana
+A1 Sastry,Shankar
+YR 2000
+T1 Kruppa Equation Revisited: Its Renormalization and Degeneracy
+SP 561
+OP 577
+
+RT Conference Proceedings
+ID 2372706
+A1 Johansson,Karl,Henrik
+A1 Lygeros,John
+A1 Zhang,Jun
+A1 Sastry,Shankar
+YR 2000
+T1 Hybrid automata: a formal paradigm for heterogeneous modeling
+
+RT Conference Proceedings
+ID 162380
+A1 Shakernia,O.
+A1 Pappas,George,J.
+A1 Sastry,S.
+YR 2000
+T1 Semidecidable controller synthesis for classes of linear hybrid systems
+VO 2
+SP 1834
+
+RT Journal Article
+ID 15270965
+A1 Ma,Yi
+A1 Košecká,Jana
+A1 Sastry,Shankar
+YR 2000
+T1 Linear Differential Algorithm for Motion Recovery: A Geometric Approach
+JF International Journal of Computer Vision
+VO 36
+SP 71
+OP 89
+IS 1
+
+RT Conference Proceedings
+ID 145150
+A1 Lemch,Ekaterina,S.
+A1 Sastry,Shankar
+A1 Caines,Peter,E.
+YR 2000
+T1 On the global controllability of hybrid systems: hybrifolds and fountains
+VO 1
+SP 981
+
+RT Journal Article
+ID 15271004
+A1 Ma,Yi
+A1 Soatto,Stefano
+A1 Košecká,Jana
+A1 Sastry,Shankar
+YR 2000
+T1 Euclidean Reconstruction and Reprojection Up to Subgroups
+JF International Journal of Computer Vision
+VO 38
+SP 219
+OP 229
+IS 3
+
+RT Journal Article
+ID 3202276
+A1 Hu,J.
+A1 Sastry,S.
+YR 2000
+T1 Hybrid geodesic ows on manifolds with boundary: a case study
+
+RT Journal Article
+ID 287195
+A1 Lygeros,John
+A1 Tomlin,Claire
+A1 Sastry,Shankar
+YR 1999
+T1 Controllers for reachability specifications for hybrid systems
+JF Automatica
+VO 35
+SP 349
+OP 370
+IS 3
+
+RT Book, Whole
+ID 288845
+A1 Ma,Yi
+A1 Kovsecká,Jana
+A1 Sastry,Shankar
+YR 1999
+T1 Vision guided navigation for a nonholonomic mobile robot
+JF IEEE Transactions on Robotics and Automation
+
+RT Conference Proceedings
+ID 287367
+A1 Hespanha,J.,P.
+A1 Kim,Hyoun,Jin
+A1 Sastry,Shankar
+YR 1999
+T1 Multiple-agent probabilistic pursuit-evasion games
+VO 3
+SP 2432
+
+RT Journal Article
+ID 287571
+A1 Johansson,Karl,Henrik
+A1 Egerstedt,Magnus
+A1 Lygeros,John
+A1 Sastry,Shankar
+YR 1999
+T1 On the Regularization of Zeno Hybrid Automata
+JF Systems & Control Letters
+
+RT Journal Article
+ID 101487
+A1 Cavusoglu,Murat,Cenk
+A1 Tendick,Frank
+A1 Cohn,Michael
+A1 Sastry,S.,Shankar
+YR 1999
+T1 A laparoscopic telesurgical workstation
+JF IEEE Transactions on Robotics and Automation
+VO 15
+SP 728
+OP 739
+IS 4
+
+RT Conference Proceedings
+ID 277699
+A1 Lygeros,John
+A1 Johansson,Karl,Henrik
+A1 Sastry,Shankar
+A1 Egerstedt,Magnus
+YR 1999
+T1 On the existence of executions of hybrid automata
+VO 3
+SP 2249
+
+RT Conference Proceedings
+ID 13319254
+A1 Antsaklis,Panos,J.
+A1 Kohn,Wolf
+A1 Lemmon,Michael,D.
+A1 Nerode,Anil
+A1 Sastry,Shankar
+YR 1999
+T1 Hybrid Systems V
+
+RT Journal Article
+ID 4113681
+A1 Koo,T.,J.
+A1 Hoffmann,F.
+A1 Shim,H.
+A1 Sinopoli,B.
+A1 Sastry,S.
+YR 1999
+T1 Hybrid Control of Model Heli - copter
+
+RT Conference Proceedings
+ID 288273
+A1 Shakerniatl,Omid
+A1 Mat,Yi
+A1 Koo,T.,John
+A1 Hespanha,Joao
+A1 Sastry,S.,Shankar
+YR 1999
+T1 Vision guided landing of an unmanned air vehicle
+VO 4
+SP 4143
+
+RT Conference Proceedings
+ID 50176763
+A1 Koo,T.,John
+A1 Sastry,Shankar
+YR 1999
+T1 Differential flatness based full authority helicopter control design
+VO 2
+SP 1982
+
+RT Book, Whole
+ID 166425
+A1 Tomlin,Claire
+A1 Lygeros,John
+A1 Sastry,Shankar
+YR 1999
+T1 Computing Controllers for Nonlinear Hybrid Systems
+SP 238
+OP 255
+
+RT Conference Proceedings
+ID 206987
+A1 Hu,Jianghai
+A1 Lygeros,John
+A1 Prandini,Maria
+A1 Sastry,Shankar
+YR 1999
+T1 Aircraft conflict prediction and resolution using Brownian motion
+VO 3
+SP 2438
+
+RT Conference Proceedings
+ID 134844
+A1 Ma,Yi
+A1 Soatto,Stefano
+A1 Kosecka,Jana
+A1 Sastry,Shankar
+YR 1999
+T1 Euclidean Reconstruction and Reprojection up to Subgroups
+SP 773
+OP 780
+
+RT Conference Proceedings
+ID 2066548
+A1 Liu,Jie
+A1 Liu,Xiaojun
+A1 Koo,Tak-Kuen,J.
+A1 Sinopoli,Bruno
+A1 Sastry,Shankar
+A1 Lee,Edward,A.
+YR 1999
+T1 A hierarchical hybrid system model and its simulation
+VO 4
+SP 3508
+
+RT Journal Article
+ID 5843239
+A1 Godhavn,J.-M.
+A1 Balluchi,A.
+A1 Crawford,L.,S.
+A1 Sastry,S.,S.
+YR 1999
+T1 Steering of a class of nonholonomic systems with drift terms
+JF Automatica
+VO 35
+SP 837
+OP 847
+IS 5
+
+RT Journal Article
+ID 204208
+A1 Prandini,Maria
+A1 Lygeros,John
+A1 Nilim,Arnab
+A1 Sastry,Shankar
+YR 1999
+T1 A Probabilistic Framework for Aircraft Conflict Detection
+
+RT Journal Article
+ID 26655686
+A1 Johansson,Karl,Henrik
+A1 Egerstedt,Magnus
+A1 Lygeros,John
+A1 Sastry,Shankar
+YR 1999
+T1 On the regularization of Zeno hybrid automata
+JF Systems & Control Letters
+VO 38
+SP 141
+OP 150
+IS 3
+
+RT Conference Proceedings
+ID 138358
+A1 Koo,T.,John
+A1 Sinopoli,Bruno
+A1 Sangiovanni-Vincentelli,A.
+A1 Sastry,S.
+YR 1999
+T1 A formal approach to reactive system design: unmanned aerial vehicle flight management system design example
+
+RT Journal Article
+ID 4111188
+A1 Koo,T.,J.
+A1 Sinopoli,B.
+A1 Vincentelli,A.,Sangiovanni
+A1 Sastry,S.
+YR 1999
+T1 A Formal Approach to Reactive System Design: A UAV Flight Management System Design Example
+
+RT Conference Proceedings
+ID 287399
+A1 Egerstedt,M.
+A1 Johansson,K.
+A1 Lygeros,J.
+A1 Sastry,S.
+YR 1999
+T1 Behavior based robotics using regularized hybrid automata
+VO 4
+SP 3400
+
+RT Conference Proceedings
+ID 233846
+A1 Prandini,Maria
+A1 Lygeros,John
+A1 Nilim,Arnab
+A1 Sastry,Shankar
+YR 1999
+T1 Randomized algorithms for probabilistic aircraft conflict detection
+VO 3
+SP 2444
+
+RT Book, Whole
+ID 363252
+A1 Egerstedt,Magnus
+A1 Koo,Tak-john
+A1 Hoffmann,Frank
+A1 Sastry,Shankar
+YR 1999
+T1 Path Planning and Flight Controller Scheduling for an Autonomous Helicopter
+SP 91
+OP 102
+
+RT Conference Proceedings
+ID 241864
+A1 Hu,Jianghai
+A1 Lygeros,John
+A1 Prandini,Maria
+A1 Sastry,Shankar
+YR 1999
+T1 A probabilistic framework for highway safety analysis
+VO 4
+SP 3734
+
+RT Journal Article
+ID 2956441
+A1 Koo,T.,J.
+A1 Sastry,S.
+YR 1999
+T1 Differential Flatness Based Full Authority Helicopter Control Design
+
+RT Book, Whole
+ID 176325
+A1 Kosecka,Jana
+A1 Ma,Yi
+A1 Sastry,Shankar
+YR 1999
+T1 Optimization Criteria, Sensitivity and Robustness of Motion and Structure Estimation
+SP 166
+OP 182
+
+RT Journal Article
+ID 2875444
+A1 Tomlin,C.
+A1 Lygeros,J.
+A1 Sastry,S.
+YR 1999
+T1 COMPUTING CONTROLLERS FOR NONLINEAR SYSTEMS
+
+RT Journal Article
+ID 301819
+A1 Ma,Yi
+A1 Vidal,René
+A1 Kosecká,Jana
+A1 Sastry,Shankar
+YR 1999
+T1 Camera Self-Calibration: Geometry and Algorithms
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+RT Journal Article
+ID 3512348
+A1 Johansson,Karl,Henrick
+A1 Egersted,Magnus
+A1 Lygeros,John
+A1 Sastry,S.
+YR 1999
+T1 On the regularization of hybrid automata
+
+RT Journal Article
+ID 3329685
+A1 Ma,Y.
+A1 Kosecka,J.
+A1 Sastry,S.
+YR 1999
+T1 Linear differential algorithm for motion recovery: A geometric approach
+JF International Journal of Computer Vision
+
+RT Journal Article
+ID 13319953
+A1 Lygeros,John
+A1 Tomlin,Claire
+A1 Sastry,Shankar
+YR 1999
+T1 Controllers for reachability specifications for hybrid systems
+JF Automatica
+VO 35
+SP 349
+OP 370
+IS 3
+
+RT Journal Article
+ID 116929
+A1 Tomlin,Claire
+A1 Pappas,George,J.
+A1 Sastry,Shankar
+YR 1998
+T1 Conflict resolution for air traffic management: a study in multiagent hybrid systems
+JF IEEE Transactions on Automatic Control
+VO 43
+SP 509
+OP 521
+IS 4
+
+RT Conference Proceedings
+ID 2056145
+A1 Koo,T.,John
+A1 Sastry,Shankar
+YR 1998
+T1 Output tracking control design of a helicopter model based on approximate linearization
+VO 4
+SP 3635
+
+RT Conference Proceedings
+ID 2292962
+A1 Shim,H.
+A1 Koo,T.,J.
+A1 Hoffmann,F.
+A1 Sastry,S.
+YR 1998
+T1 A comprehensive study of control design for an autonomous helicopter
+VO 4
+SP 3653
+
+RT Journal Article
+ID 1991446
+A1 Tomlin,C.
+A1 Pappas,G.,J.
+A1 Sastry,S.
+YR 1998
+T1 Con ict resolution for air tra c management: A case study in multi-agent hybrid systems
+
+RT Journal Article
+ID 1573825
+A1 Lygeros,John
+A1 Godbole,Datta,N.
+A1 Sastry,Shankar
+YR 1998
+T1 Verified hybrid controllers for automated vehicles
+JF IEEE Transactions on Automatic Control
+VO 43
+SP 522
+OP 539
+IS 4
+
+RT Book, Whole
+ID 364190
+A1 Tomlin,Claire
+A1 Lygeros,John
+A1 Sastry,Shankar
+YR 1998
+T1 Synthesizing Controllers for Nonlinear Hybrid Systems
+SP 360
+OP 373
+
+RT Journal Article
+ID 2097599
+A1 Koo,T.,J.
+A1 Mann,F.,Ho
+A1 Shim,H.
+A1 Sinopoli,B.
+A1 Sastry,S.,S.
+YR 1998
+T1 Hybrid control of model helicopter
+
+RT Journal Article
+ID 2361023
+A1 Koo,T.
+A1 Hoffmann,F.
+A1 Sinopoli,B.
+A1 Sastry,S.
+YR 1998
+T1 Hybrid control of an autonomous helicopter
+
+RT Journal Article
+ID 331770
+A1 Koo,T.,J.
+A1 Shim,D.,H.
+A1 Sinopoli,O.,Shakernia,B.
+A1 Hoffmann,F.
+A1 Sastry,S.
+YR 1998
+T1 Hierarchical Hybrid System Design on Berkeley UAV
+
+RT Journal Article
+ID 1655367
+A1 Tendick,Frank
+A1 Sastry,S.,Shankar
+A1 Fearing,Ronald,S.
+A1 Cohn,Michael
+YR 1998
+T1 Applications of micromechatronics in minimally invasive surgery
+JF IEEE-ASME Transactions on Mechatronics
+VO 3
+SP 34
+OP 42
+IS 1
+
+RT Book, Whole
+ID 373977
+A1 Lygeros,John
+A1 Pappas,George,J.
+A1 Sastry,Shankar
+YR 1998
+T1 An Approach to the Verification of the Center-TRACON Automation System
+SP 289
+OP 304
+
+RT Conference Proceedings
+ID 2026014
+A1 Lygeros,John
+A1 Tomlin,Claire
+A1 Sastry,Shankar
+YR 1998
+T1 On controller synthesis for nonlinear hybrid systems
+VO 2
+SP 2101
+
+RT Conference Proceedings
+ID 314404
+A1 Tomlin,Claire
+A1 Lygeros,John
+A1 Sastry,Shankar
+YR 1998
+T1 Aerodynamic envelope protection using hybrid control
+VO 3
+SP 1793
+
+RT Book, Whole
+ID 345995
+A1 Lafferriere,Gerardo
+A1 Pappas,George,J.
+A1 Sastry,Shankar
+YR 1998
+T1 Subanalytic Stratifications and Bisimulations
+SP 205
+OP 220
+
+RT Journal Article
+ID 302055
+A1 Ma,Yi
+A1 Sastry,Shankar
+YR 1998
+T1 Optimal Motion From Image Sequences: A Riemannian Viewpoint
+
+RT Book, Whole
+ID 509319
+A1 Ma,Yi
+A1 Kosecka,Jana
+A1 Sastry,Shankar
+YR 1998
+T1 Motion Recovery from Image Sequences: Discrete Viewpoint vs. Differential Viewpoint
+SP 337
+OP 353
+
+RT Journal Article
+ID 26655583
+A1 Tomlin,C.,J.
+A1 Sastry,S.,S.
+YR 1998
+T1 Switching through singularities 1 1 Research supported by NASA under grant NAG 2-1039, and by NSERC and ZONTA graduate fellowships
+JF Systems & Control Letters
+VO 35
+SP 145
+OP 154
+IS 3
+
+RT Journal Article
+ID 358824
+A1 Ma,Yi
+A1 Sastry,Shankar
+YR 1998
+T1 Euclidean Structure and Motion From Image Sequences
+
+RT Journal Article
+ID 2585992
+A1 Ma,Y.
+A1 Kosecka,J.
+A1 Sastry,S.
+YR 1998
+T1 A mathematical theory of camera self-calibration
+
+RT Conference Proceedings
+ID 172355
+A1 Lafferriere,Gerardo
+A1 Pappas,George,J.
+A1 Sastry,Shankar
+YR 1998
+T1 Reachability analysis of hybrid systems using bisimulations
+VO 2
+SP 1623
+
+RT Conference Proceedings
+ID 168755
+A1 Kosecká,Jana
+A1 Tomlin,Claire
+A1 Pappas,George
+A1 Sastry,Shankar
+YR 1998
+T1 2½D conflict resolution maneuvers for ATMS
+VO 3
+SP 2650
+
+RT Conference Proceedings
+ID 50139370
+A1 Tomlin,C.
+A1 Ma,Y.
+A1 Sastry,S.
+YR 1998
+T1 Free flight in 2000: games on Lie groups
+VO 2
+SP 2234
+
+RT Journal Article
+ID 63538
+A1 Pappas,George,J.
+A1 Sastry,Shankar
+YR 1998
+T1 Straightening out rectangular differential inclusions
+JF Systems & Control Letters
+VO 35
+SP 79
+OP 85
+IS 2
+
+RT Conference Proceedings
+ID 13319257
+A1 Henzinger,Thomas,A.
+A1 Sastry,Shankar
+YR 1998
+T1 Hybrid Systems: Computation and Control, First International Workshop, HSCC'98, Berkeley, California, USA, April 13-15, 1998, Proceedings
+
+RT Journal Article
+ID 56051858
+A1 Pappas,George,J.
+A1 Lygeros,John
+A1 Tilbury,Dawn
+A1 Sastry,Shankar
+YR 1998
+T1 Exterior differential systems in control and robotics
+
+RT Conference Proceedings
+ID 50139020
+A1 Ma,Y.
+A1 Kosecka,J.
+A1 Sastry,S.
+YR 1998
+T1 Motion estimation in computer vision: optimization on Stiefel manifolds
+VO 4
+SP 3751
+
+RT Journal Article
+ID 53524856
+A1 Cavusoglu,Murat,C.
+A1 Cohn,Michael,B.
+A1 Tendick,Frank
+A1 Sastry,S.,Shankar
+YR 1998
+T1 Laparoscopic telesurgical workstation
+VO 3262
+SP 296
+OP 303
+
+RT Journal Article
+ID 58079548
+A1 Sastry,S.
+A1 Horowitz,R.
+A1 Hedrick,K.
+YR 1998
+T1 Design Of Fault Tolerant Control Systems For Ahs
+
+RT Conference Proceedings
+ID 168861
+A1 Kosecka,J.
+A1 Tomlin,C.
+A1 Pappas,G.
+A1 Sastry,S.
+YR 1997
+T1 Generation of conflict resolution manoeuvres for air traffic management
+
+RT Conference Proceedings
+ID 659292
+A1 Lafferriere,Gerardo
+A1 Pappas,George,J.
+A1 Sastry,Shankar
+YR 1997
+T1 Hybrid Systems with Finite Bisimulations
+SP 186
+OP 203
+
+RT Conference Proceedings
+ID 50099868
+A1 Tomlin,C.,J.
+A1 Sastry,S.,S.
+YR 1997
+T1 Switching through singularities
+VO 1
+SP 1
+
+RT Conference Proceedings
+ID 335019
+A1 Pappas,G.
+A1 Tomlin,C.
+A1 Lygeros,J.
+A1 Godbole,D.
+A1 Sastry,S.
+YR 1997
+T1 A next generation architecture for air traffic management systems
+VO 3
+SP 2405
+
+RT Book, Whole
+ID 407893
+A1 Lygeros,John
+A1 Tomlin,Claire
+A1 Sastry,Shankar
+YR 1997
+T1 Multiobjective Hybrid Controller Synthesis
+SP 109
+OP 123
+
+RT Conference Proceedings
+ID 50100393
+A1 Ma,Yi
+A1 Kosecka,J.
+A1 Sastry,S.
+YR 1997
+T1 Vision guided navigation for a nonholonomic mobile robot
+VO 3
+SP 3069
+
+RT Journal Article
+ID 1753381
+A1 Sastry,Shankar
+A1 Cohn,Michael
+A1 Tendick,Frank
+YR 1997
+T1 Milli-robotics for remote, minimally invasive surgery
+JF Robotics and Autonomous Systems
+VO 21
+SP 305
+OP 316
+IS 3
+
+RT Journal Article
+ID 393639
+A1 Lygeros,John
+A1 Godbole,Datta,N.
+A1 Sastry,Shankar
+YR 1997
+T1 A Design Framework For Hierarchical, Hybrid Control
+
+RT Conference Proceedings
+ID 297000
+A1 Haddon,John,Alexander
+A1 Varaiya,Pravin
+A1 Sastry,Shankar
+YR 1997
+T1 Evaluation of AHS throughput using SmartCap
+VO 3
+SP 2026
+
+RT Conference Proceedings
+ID 13319253
+A1 Antsaklis,Panos,J.
+A1 Kohn,Wolf
+A1 Nerode,Anil
+A1 Sastry,Shankar
+YR 1997
+T1 Hybrid Systems IV
+
+RT Conference Proceedings
+ID 56929
+A1 Cavusoglu,M.,C.
+A1 Yan,Joseph
+A1 Sastry,S.,Shankar
+YR 1997
+T1 A hybrid system approach to contact stability and force control in robotic manipulators
+
+RT Journal Article
+ID 1986970
+A1 Sastry,S.
+YR 1997
+T1 Algorithms for design of hybrid systems
+
+RT Conference Proceedings
+ID 375254
+A1 Godhavn,John-morten
+A1 Balluchit,Andrea
+A1 Crawfordt,Lara
+A1 Sastry,S.
+YR 1997
+T1 Path planning for nonholonomic systems with drift
+VO 1
+SP 532
+
+RT Conference Proceedings
+ID 6262270
+A1 Lygeros,John
+A1 Tomlin,Claire
+A1 Sastry,Shankar
+YR 1997
+T1 Multi-objective hybrid controller synthesis: least restrictive controls
+VO 1
+SP 127
+
+RT Journal Article
+ID 3426074
+A1 Lygeros,J.
+A1 Tomlin,C.,J.
+A1 Sastry,S.
+YR 1997
+T1 Multiobjective hybrid control synthisis
+
+RT Conference Proceedings
+ID 50100551
+A1 Tomlin,Claire
+A1 Pappas,George,J.
+A1 Sastry,Shankar
+YR 1997
+T1 Noncooperative conflict resolution [air traffic management]
+VO 2
+SP 1816
+
+RT Journal Article
+ID 58079621
+A1 Lygeros,J.
+A1 Godbole,D.,N.
+A1 Sastry,S.
+YR 1997
+T1 A Verified Hybrid Controller For Automated Vehicles
+
+RT Conference Proceedings
+ID 659378
+A1 Sastry,Shankar
+YR 1997
+T1 Hybrid Control Issues in Ais Traffic Management Systems (Abstract)
+SP 108
+
+RT Conference Proceedings
+ID 302612
+A1 Lygeros,John
+A1 Godbole,Datta,N.
+A1 Sastry,Shankar
+YR 1996
+T1 A verified hybrid controller for automated vehicles
+VO 2
+SP 2289
+
+RT Conference Proceedings
+ID 659234
+A1 Pappas,George,J.
+A1 Sastry,Shankar
+YR 1996
+T1 Towards Continuous Abstractions of Dynamical and Control Systems
+SP 329
+OP 341
+
+RT Conference Proceedings
+ID 395520
+A1 Tomlin,C.,J.
+A1 Sastry,S.,S.
+YR 1996
+T1 Bounded tracking for nonminimum phase nonlinear systems with fast zero dynamics
+VO 2
+SP 2058
+
+RT Conference Proceedings
+ID 396800
+A1 Lygeros,John
+A1 Godbole,Datta,N.
+A1 Sastry,Shankar
+YR 1996
+T1 Multiagent hybrid system design using game theory and optimal control
+VO 2
+SP 1190
+
+RT Conference Proceedings
+ID 385981
+A1 Pappas,George,J.
+A1 Tomlin,Claire
+A1 Sastry,Shankar
+YR 1996
+T1 Conflict resolution for multi-agent hybrid systems
+VO 2
+SP 1184
+
+RT Conference Proceedings
+ID 2645502
+A1 Lygeros,J.
+A1 Godbole,D.
+A1 Sastry,S.
+YR 1996
+T1 A verified hybrid control design for automated vehicles
+
+RT Conference Proceedings
+ID 327735
+A1 Crawford,Lara,S.
+A1 Sastry,S.,Shankar
+YR 1996
+T1 Learning Controllers for Complex Behavioral Systems
+
+RT Conference Proceedings
+ID 398484
+A1 Wendlandt,J.,M.
+A1 Sastry,S.,Shankar
+YR 1996
+T1 Recursive workspace control of multibody systems: a planar biped example
+VO 3
+SP 3575
+
+RT Conference Proceedings
+ID 5043181
+A1 Chiang,Kenneth,H.
+A1 Evans,Brian,L.
+A1 Huang,William,T.
+A1 Kovac,Ferenc
+A1 Lee,Edward,A.
+A1 Messerschmitt,David,G.
+A1 Reekie,H.,J.
+A1 Sastry,Shankar,S.
+YR 1996
+T1 Real-time DSP for sophomores
+VO 2
+SP 1097
+
+RT Conference Proceedings
+ID 659353
+A1 Tomlin,Claire
+A1 Pappas,George,J.
+A1 Lygeros,John
+A1 Godbole,Datta,N.
+A1 Sastry,Shankar
+YR 1996
+T1 Hybrid Control Models of Next Generarion AIr Traffic Management
+SP 378
+OP 404
+
+RT Journal Article
+ID 356253
+A1 Tilburyt,D.
+A1 Murray,Richard,M.
+A1 Sastry,S.,Shankar
+YR 1995
+T1 Trajectory generation for the N-trailer problem using Goursat normal form
+JF IEEE Transactions on Automatic Control
+VO 40
+SP 802
+OP 819
+IS 5
+
+RT Book, Whole
+ID 368484
+A1 Lygeros,John
+A1 Godbole,Datta,N.
+A1 Sastry,Shankar
+YR 1995
+T1 A Game-Theoretic Approach to Hybrid System Design
+SP 1
+OP 12
+
+RT Conference Proceedings
+ID 349697
+A1 Sastry,S.
+A1 Meyer,G.
+A1 Tomlin,C.
+A1 Lygeros,J.
+A1 Godbole,D.
+A1 Pappas,G.
+YR 1995
+T1 Hybrid control in air traffic management systems
+VO 2
+SP 1478
+
+RT Conference Proceedings
+ID 390461
+A1 Tomlin,Claire
+A1 Lygeros,John
+A1 Benvenuti,Luca
+A1 Sastry,Shankar
+YR 1995
+T1 Output tracking for a non-minimum phase dynamic CTOL aircraft model
+VO 2
+SP 1867
+
+RT Conference Proceedings
+ID 13319250
+A1 Antsaklis,Panos,J.
+A1 Kohn,Wolf
+A1 Nerode,Anil
+A1 Sastry,Shankar
+YR 1995
+T1 Hybrid Systems II
+
+RT Journal Article
+ID 360003
+A1 Bushnell,Linda,G.
+A1 Tilbury,Dawn,M.
+A1 Sastry,Shankar
+YR 1995
+T1 Steering Three-Input Nonholonomic Systems: The Fire Truck Example
+JF International Journal of Robotic Research
+VO 14
+SP 366
+OP 381
+IS 4
+
+RT Journal Article
+ID 1663857
+A1 Walsh,Gregory,C.
+A1 Sastry,S.,Shankar
+YR 1995
+T1 On reorienting linked rigid bodies using internal motions
+JF IEEE Transactions on Robotics and Automation
+VO 11
+SP 139
+OP 146
+IS 1
+
+RT Journal Article
+ID 3181732
+A1 Godbole,D.,N.
+A1 Lygeros,J.
+A1 Sastry,S.
+YR 1995
+T1 Hierarchical Hybrid Control: An IVHS Case Study
+
+RT Journal Article
+ID 1574254
+A1 Godbole,D.,N.
+A1 Sastry,S.,S.
+YR 1995
+T1 Approximate decoupling and asymptotic tracking for MIMO systems
+JF IEEE Transactions on Automatic Control
+VO 40
+SP 441
+OP 450
+IS 3
+
+RT Conference Proceedings
+ID 411324
+A1 Crawford,Lara,S.
+A1 Sastry,S.,Shankar
+YR 1995
+T1 Biological motor control approaches for a planar diver
+VO 4
+SP 3881
+
+RT Journal Article
+ID 394439
+A1 Tilbury,D.
+A1 Sastry,S.
+YR 1995
+T1 The multi-steeringN-trailer system: A case study of goursat normal forms and prolongations
+JF International Journal of Robust and Nonlinear Control
+VO 5
+SP 343
+OP 364
+IS 4
+
+RT Journal Article
+ID 1663946
+A1 Tilbury,Dawn
+A1 Sordalen,O.,J.
+A1 Bushnell,L.
+A1 Sastry,S.,S.
+YR 1995
+T1 A multisteering trailer system: conversion into chained form using dynamic feedback
+JF IEEE Transactions on Robotics and Automation
+VO 11
+SP 807
+OP 818
+IS 6
+
+RT Journal Article
+ID 58079659
+A1 Godbole,Datta,N.
+A1 Lygeros,John
+A1 Sastry,Shankar
+YR 1995
+T1 Hierarchical Hybrid Control: A Case Study
+
+RT Book, Whole
+ID 1267755
+A1 Murray,Richard,M.
+A1 Li,Zexiang
+A1 Sastry,S.,Shankar
+YR 1994
+T1 A Mathematical Introduction to Robotic Manipulation
+
+RT Journal Article
+ID 383433
+A1 Walsh,G.
+A1 Tilbury,D.
+A1 Sastry,S.
+A1 Murray,R.
+A1 Laumond,J.,P.
+YR 1994
+T1 Stabilization of trajectories for systems with nonholonomic constraints
+JF IEEE Transactions on Automatic Control
+VO 39
+SP 216
+OP 222
+IS 1
+
+RT Book, Whole
+ID 385411
+A1 Godbole,Datta,N.
+A1 Lygeros,John
+A1 Sastry,Shankar
+YR 1994
+T1 Hierarchical Hybrid Control: A Case Study
+SP 166
+OP 190
+
+RT Conference Proceedings
+ID 2117538
+A1 Walsh,Gregory,C.
+A1 Montgomery,Richard
+A1 Sastry,S.,Shankar
+YR 1994
+T1 Orientation control of the dynamic satellite
+
+RT Conference Proceedings
+ID 371145
+A1 Bushnell,L.
+A1 Tilbury,D.
+A1 Sastry,S.
+YR 1994
+T1 Extended Goursat Normal Forms with Applications to Nonholonomic Motion Planning
+
+RT Journal Article
+ID 2585752
+A1 Murray,R.,M.
+A1 Li,Z.
+A1 Sastry,S.,S.
+YR 1994
+T1 A Mathematical Introduction to Robotic Manipulation
+
+RT Conference Proceedings
+ID 2940731
+A1 Wendlandt,Jeff,M.
+A1 Sastry,S.,Shankar
+YR 1994
+T1 Design and control of a simplified Stewart platform for endoscopy
+
+RT Conference Proceedings
+ID 49995961
+A1 Godbole,D.,N.
+A1 Lygeros,J.
+A1 Sastry,S.
+YR 1994
+T1 Hierarchical hybrid control: an IVHS case study
+
+RT Conference Proceedings
+ID 314555
+A1 Tilbury,D.
+A1 Sastry,S.,S.
+YR 1994
+T1 On Goursat normal forms, prolongations, and control systems
+
+RT Conference Proceedings
+ID 345237
+A1 Lygeros,John
+A1 Godbole,Datta
+A1 Sastry,Shankar
+YR 1994
+T1 Simulation as a tool for hybrid system design
+
+RT Journal Article
+ID 369100
+A1 Murray,Richard,M.
+A1 Sastry,S.,Shankar
+YR 1993
+T1 Nonholonomic motion planning: steering using sinusoids
+JF IEEE Transactions on Automatic Control
+VO 38
+SP 700
+OP 716
+IS 5
+
+RT Conference Proceedings
+ID 377679
+A1 Tilburyt,D.
+A1 Murray,R.,M.
+A1 Sastry,S.
+YR 1993
+T1 Trajectory generation for the N-trailer problem using Goursat normal form
+
+RT Journal Article
+ID 359632
+A1 Tilbury,D.
+A1 Bushnell,L.
+A1 Sastry,S.
+YR 1993
+T1 Steering Three-Input Chained Form Nonholonomic Systems Using Sinusoids: The Fire Truck Example
+
+RT Journal Article
+ID 373851
+A1 Tilbury,Dawn
+A1 Bushnell,Linda
+A1 Sastry,S.,Shankar
+YR 1993
+T1 A Multisteering Trailer System: Conversion into Chained Form Using Dynamic Feedback
+
+RT Journal Article
+ID 49972359
+A1 Walsh,Gregory
+A1 Sarti,Augusto
+A1 Sastry,Shankar
+YR 1993
+T1 Algorithms for steering on the group of rotations
+
+RT Journal Article
+ID 3797654
+A1 Bushnell,L.
+A1 Tilbury,D.
+A1 Sastry,S.
+YR 1993
+T1 Steering three-input chained form nonhonolomic systems using sinusoids
+
+RT Conference Proceedings
+ID 49959866
+A1 Godbole,D.,N.
+A1 Sastry,S.,S.
+YR 1993
+T1 Approximate decoupling and asymptotic tracking for MIMO systems
+
+RT Journal Article
+ID 1571424
+A1 Hauser,J.
+A1 Sastry,S.
+A1 Kokotovic,P.
+YR 1992
+T1 Nonlinear control via approximate input-output linearization: the ball and beam example
+
+RT Journal Article
+ID 2097598
+A1 Hauser,J.
+A1 Sastry,S.
+A1 Meyer,G.
+YR 1992
+T1 Nonlinear control design for slightly nonminimum phase system: Application to V/STOL aircraft
+JF Automatica
+
+RT Conference Proceedings
+ID 2407581
+A1 Tilbury,D.
+A1 Laumond,J.-P.
+A1 Murray,R.
+A1 Sastry,S.
+A1 Walsh,G.
+YR 1992
+T1 Steering car-like systems with trailers using sinusoids
+
+RT Journal Article
+ID 1664245
+A1 Cole,Arlene,A.
+A1 Hsu,Ping
+A1 Sastry,S.,Shankar
+YR 1992
+T1 Dynamic control of sliding by robot hands for regrasping
+JF IEEE Transactions on Robotics and Automation
+VO 8
+SP 42
+OP 52
+IS 1
+
+RT Journal Article
+ID 27072553
+A1 Hauser,John
+A1 Sastry,Shankar
+A1 Kokotovic,P.
+YR 1992
+T1 Nonlinear control via approximate input-output linearization: the ball and beam example
+JF IEEE Transactions on Automatic Control
+VO 37
+SP 392
+OP 398
+IS 3
+
+RT Journal Article
+ID 962251
+A1 Murray,Richard,M.
+A1 Deno,D.,Curtis
+A1 Pister,Kristofer,S.,J.
+A1 Sastry,S.,Shankar
+YR 1992
+T1 Control primitives for robot systems
+JF IEEE Transactions on Systems, Man, and Cybernetics
+VO 22
+SP 183
+OP 193
+IS 1
+
+RT Journal Article
+ID 3788785
+A1 Murray,R.,M.
+A1 Walsh,G.
+A1 Sastry,S.
+YR 1992
+T1 Stabilization and tracking for nonholonomic systems using time-varying state feedback
+
+RT Journal Article
+ID 1574297
+A1 Isidori,A.
+A1 Sastry,S.,S.
+A1 Kototovic,P.,V.
+A1 Byrnes,C.,I.
+YR 1992
+T1 Singularly perturbed zero dynamics of nonlinear systems
+JF IEEE Transactions on Automatic Control
+VO 37
+SP 1625
+OP 1631
+IS 10
+
+RT Conference Proceedings
+ID 49934297
+A1 Walsh,G.
+A1 Tilbury,D.
+A1 Sastry,S.
+A1 Murray,R.
+A1 Laumond,J.-P.
+YR 1992
+T1 Stabilization of trajectories for systems with nonholonomic constraints
+
+RT Conference Proceedings
+ID 49934485
+A1 Deno,D.,C.
+A1 Murray,R.,M.
+A1 Pister,K.,S.,J.
+A1 Sastry,S.,S.
+YR 1992
+T1 Fingerlike biomechanical robots
+
+RT Conference Proceedings
+ID 49934320
+A1 Hollerbach,Karin
+A1 Murray,Richard,M.
+A1 Sastry,S.,Shankar
+YR 1992
+T1 An experimental study of hierarchical control laws for grasping and manipulation using a two-fingered planar hand
+
+RT Journal Article
+ID 26954970
+A1 TEEL,ANDREW
+A1 KADIYALA,RAJA
+A1 KOKOTOVIC,PETER
+A1 SASTRY,SHANKAR
+YR 1991
+T1 Indirect techniques for adaptive input-output linearization of non-linear systems
+JF International Journal of Control
+VO 53
+SP 193
+OP 222
+IS 1
+
+RT Conference Proceedings
+ID 2381732
+A1 Murray,Richard,M.
+A1 Sastry,S.,Shankar
+YR 1991
+T1 Steering nonholonomic systems in chained form
+
+RT Journal Article
+ID 1540756
+A1 Wang,Guan-Wu
+A1 Pierson,R.,L.
+A1 Asbeck,Peter,M.
+A1 Wang,Keh-Chung
+A1 Wang,Nan-Lei
+A1 Nubling,R.
+A1 Chang,M.,F.
+A1 Salerno,J.
+A1 Sastry,S.
+YR 1991
+T1 High-performance MOCVD-grown AlGaAs/GaAs heterojunction bipolar transistors with carbon-doped base
+JF IEEE Electron Device Letters
+VO 12
+SP 347
+OP 349
+IS 6
+
+RT Conference Proceedings
+ID 49925004
+A1 Walsh,Gregory,C.
+A1 Sastry,S.
+YR 1991
+T1 On reorienting linked rigid bodies using internal motions
+
+RT Journal Article
+ID 1574524
+A1 Fu,L.-C.
+A1 Sastry,S.
+YR 1991
+T1 Frequency domain synthesis of optimal inputs for online identification and adaptive control
+JF IEEE Transactions on Automatic Control
+VO 36
+SP 353
+OP 358
+IS 3
+
+RT Journal Article
+ID 26658702
+A1 SASTRY,S
+A1 HOLSCHER,P
+A1 BARENDS,F
+YR 1991
+T1 Numerical determination of wave transmission through a rubblemound breakwater at Visakhapatnam, India
+JF Coastal Engineering
+VO 15
+SP 41
+OP 57
+IS 1-2
+
+RT Journal Article
+ID 19365571
+A1 Sastry,Shankar
+A1 Bodson,Marc
+A1 Bartram,James,F.
+YR 1990
+T1 Adaptive Control: Stability, Convergence, and Robustness
+JF Journal of The Acoustical Society of America
+VO 88
+SP 588
+OP 589
+IS 1
+
+RT Journal Article
+ID 3161864
+A1 Murray,R.,M.
+A1 Sastry,S.,S.
+YR 1990
+T1 Grasping and manipulation using multi ngered robot hands
+
+RT Conference Proceedings
+ID 3797649
+A1 Murray,Richard,M.
+A1 Sastryt,S.,Shankar
+YR 1990
+T1 Steering nonholonomic systems using sinusoids
+
+RT Journal Article
+ID 49895217
+A1 Teel,Andrew
+A1 Kadiyala,Raja
+A1 Kokotovic,Petar
+A1 Sastry,Shankar
+YR 1990
+T1 Indirect Techniques for Adaptive Input Output Linearization of Nonlinear Systems
+
+RT Conference Proceedings
+ID 49896146
+A1 Deno,D.,C.
+A1 Murray,R.,M.
+A1 Pister,K.,S.,J.
+A1 Sastry,S.,S.
+YR 1990
+T1 Control primitives for robot systems
+
+RT Journal Article
+ID 1571369
+A1 Sastry,S.,S.
+A1 Isidori,A.
+YR 1989
+T1 Adaptive control of linearizable systems
+JF IEEE Transactions on Automatic Control
+VO 34
+SP 1123
+OP 1131
+IS 11
+
+RT Journal Article
+ID 862370
+A1 Li,Zexiang
+A1 Hsu,Ping
+A1 Sastry,Shankar
+YR 1989
+T1 Grasping and Coordinated Manipulation by a Multifingered Robot Hand
+JF International Journal of Robotic Research
+VO 8
+SP 33
+OP 50
+IS 4
+
+RT Conference Proceedings
+ID 3694878
+A1 Sastry,S.
+A1 Li,Z.
+YR 1989
+T1 Robot motion planning with nonholonomic constraints
+
+RT Journal Article
+ID 2133330
+A1 Hsu,Ping
+A1 Hauser,J.
+A1 Sastry,Shankar
+YR 1989
+T1 Dynamic control of redundant manipulators
+JF Journal of Robotic Systems
+VO 6
+SP 133
+OP 148
+IS 2
+
+RT Journal Article
+ID 1993314
+A1 Cole,A.
+A1 Hauser,J.
+A1 Sastry,S.,S.
+YR 1989
+T1 Kinematics and control of a multi-fingered robot hand with rolling contact
+
+RT Conference Proceedings
+ID 2992846
+A1 Cole,Arlene,A.
+A1 Hsu,Ping
+A1 Sastry,Shankar
+YR 1989
+T1 Dynamic regrasping by coordinated control of sliding for a multifingered hand
+
+RT Conference Proceedings
+ID 49862154
+A1 Murray,Richard,M.
+A1 Sastry,S.,Shankar
+YR 1989
+T1 Control experiments in planar manipulation and grasping
+
+RT Journal Article
+ID 26654635
+A1 Sastry,S
+YR 1989
+T1 Zero dynamics of regularly perturbed systems may be singularly perturbed
+JF Systems & Control Letters
+VO 13
+SP 299
+OP 314
+IS 4
+
+RT Conference Proceedings
+ID 49868436
+A1 Hauser,J.
+A1 Sastry,S.
+A1 Kokotovic,P.
+YR 1989
+T1 Nonlinear control via approximate input-output linearization: the ball and beam example
+
+RT Conference Proceedings
+ID 49862169
+A1 Li,Zexiang
+A1 Canny,J.,F.
+A1 Sastry,Shankar,S.
+YR 1989
+T1 On motion planning for dexterous manipulation. I. The problem formulation
+
+RT Journal Article
+ID 14508149
+A1 RAVIKUMAR,C
+A1 SASTRY,S
+A1 PATNAIK,L
+YR 1989
+T1 Parallel circuit partitioning on a reduced array architecture
+JF Computer-aided Design
+VO 21
+SP 447
+OP 455
+IS 7
+
+RT Journal Article
+ID 14572009
+A1 RAVIKUMAR,C
+A1 SASTRY,S
+YR 1989
+T1 A hardware accelerator for hierarchical VLSI routing
+JF Integration
+VO 7
+SP 283
+OP 302
+IS 3
+
+RT Journal Article
+ID 61315469
+A1 Sastry,S.,S.
+A1 Buki,K.,G.
+A1 Kun,E.
+YR 1989
+T1 Binding of adenosine diphosphoribosyltransferase to the termini and internal regions of linear DNAs (deoxyribonucleic acids)
+
+RT Journal Article
+ID 1616857
+A1 Li,Z.
+A1 Sastry,S.,S.
+YR 1988
+T1 Task-oriented optimal grasping by multifingered robot hands
+JF IEEE Journal on Robotics and Automation
+VO 4
+SP 32
+OP 44
+IS 1
+
+RT Journal Article
+ID 862385
+A1 Paden,Brad
+A1 Sastry,Shankar
+YR 1988
+T1 Optimal Kinematic Design of 6R Manipulators
+JF International Journal of Robotic Research
+VO 7
+SP 43
+OP 61
+IS 2
+
+RT Journal Article
+ID 1572462
+A1 Behtash,S.
+A1 Sastry,S.
+YR 1988
+T1 Stabilization of nonlinear systems with uncontrollable linearization
+JF IEEE Transactions on Automatic Control
+VO 33
+SP 585
+OP 590
+IS 6
+
+RT Conference Proceedings
+ID 49846480
+A1 Hsu,Ping
+A1 Li,Zexiang
+A1 Sastry,Shankar
+YR 1988
+T1 On grasping and coordinated manipulation by a multifingered robot hand
+
+RT Conference Proceedings
+ID 49846453
+A1 Hsu,Ping
+A1 Hauser,John
+A1 Sastry,Shankar
+YR 1988
+T1 Dynamic control of redundant manipulators
+
+RT Conference Proceedings
+ID 49846459
+A1 Cole,Arlene
+A1 Hauser,John
+A1 Sastry,Shankar
+YR 1988
+T1 Kinematics and control of multifingered hands with rolling contact
+
+RT Journal Article
+ID 1611149
+A1 Bai,E.-W.
+A1 Fu,L.-C.
+A1 Sastry,S.,S.
+YR 1988
+T1 Averaging analysis for discrete time and sampled data adaptive systems
+JF IEEE Transactions on Circuits and Systems
+VO 35
+SP 137
+OP 148
+IS 2
+
+RT Journal Article
+ID 49849424
+A1 Li,Zexiang
+A1 Hsu,Ping
+A1 Sastry,Shankar
+YR 1988
+T1 Dynamic Coordination of a Multiple Robotic System with Point Contact
+
+RT Journal Article
+ID 1571218
+A1 Mason,J.,E.
+A1 Bai,E.,W.
+A1 Fu,L.-C.
+A1 Bodson,M.
+A1 Sastry,S.,S.
+YR 1988
+T1 Analysis of adaptive identifiers in the presence of unmodeled dynamics: averaging and tuned parameters
+JF IEEE Transactions on Automatic Control
+VO 33
+SP 969
+OP 976
+IS 10
+
+RT Journal Article
+ID 19640242
+A1 Sastry,S.,S.
+A1 Satyanandam,G.
+A1 Subrahmanyam,A.
+A1 Murthy,V.,R.,K.
+YR 1988
+T1 Dielectric properties of HgCl2:2KCl:H2O single crystals in the radio frequency region
+JF Physica Status Solidi (a)
+VO 105
+SP 71
+IS 1
+
+RT Journal Article
+ID 49849719
+A1 Hsu,Ping
+A1 Hauser,John
+A1 Sastry,Shankar
+YR 1988
+T1 Dynamic Control of Redundant Manipulators
+
+RT Conference Proceedings
+ID 49851675
+A1 Kappos,Efthimios
+A1 Sastry,Shankar
+YR 1988
+T1 Large deviation exits from a running orbit in the Josephson junction
+
+RT Journal Article
+ID 1974384
+A1 Craig,J.,J.
+A1 Hsu,P.
+A1 Sastry,S.,S.
+YR 1987
+T1 Adaptive Control of Mechanical Manipulators
+JF International Journal of Robotic Research
+VO 6
+SP 16
+OP 28
+IS 2
+
+RT Conference Proceedings
+ID 1612673
+A1 Paden,B.
+A1 Sastry,S.
+YR 1987
+T1 A calculus for computing Filippov's differential inclusion with application to the variable structure control of robot manipulators
+
+RT Conference Proceedings
+ID 49843911
+A1 Hsu,Ping
+A1 Bodson,M.
+A1 Sastry,S.
+A1 Paden,B.
+YR 1987
+T1 Adaptive identification and control for manipulators without using joint accelerations
+
+RT Conference Proceedings
+ID 49843932
+A1 Li,Zexiang
+A1 Sastry,Shankar
+YR 1987
+T1 Task oriented optimal grasping by multifingered robot hands
+
+RT Conference Proceedings
+ID 3837422
+A1 Li,Z.
+A1 Sastry,S.
+YR 1987
+T1 Task-oriented Optimal Grasping by Multifingered Robotic Hands
+
+RT Conference Proceedings
+ID 49841935
+A1 Hsu,Ping
+A1 Sastry,Shankar
+YR 1987
+T1 The effect of discretized feedback in a closed loop system
+
+RT Conference Proceedings
+ID 2660736
+A1 Hsu,P.
+A1 Bodson,M.
+A1 Sastry,S.
+A1 Paden,B.
+YR 1987
+T1 Adaptive indentification and control for manipulators without using joint accelerations
+
+RT Conference Proceedings
+ID 2403073
+A1 Li,Z.
+A1 Sastry,S.
+YR 1987
+T1 Optimal grasping by multifingered robot hands
+
+RT Journal Article
+ID 27453419
+A1 PADEN,BRAD,E.
+A1 SASTRY,SHANKAR,S.
+YR 1987
+T1 A calculus for computing Filippov's differential inclusion with application to the variable structure control of robot manipulators
+JF IEEE Transactions on Circuits and Systems
+VO 34
+SP 73
+OP 82
+IS 1
+
+RT Conference Proceedings
+ID 49841688
+A1 Mason,J.,E.
+A1 Bai,E.,W.
+A1 Fu,L.-C.
+A1 Bodson,M.
+A1 Sastry,S.,S.
+YR 1987
+T1 Analysis of adaptive identifiers in the presence of unmodelled dynamics: Averaging and tuned parameters
+
+RT Journal Article
+ID 26953736
+A1 FU,LI-CHEN
+A1 SASTRY,SHANKAR
+YR 1987
+T1 Slow-drift instability in model reference adaptive systems —an averaging analysis
+JF International Journal of Control
+VO 45
+SP 503
+OP 527
+IS 2
+
+RT Journal Article
+ID 49842450
+A1 Bodson,Marc
+A1 Sastry,Shankar
+YR 1987
+T1 Input Error versus Output Error Model Reference Adaptive Control
+JF Journal De Traumatologie Du Sport
+
+RT Journal Article
+ID 49842454
+A1 Fu,Li-Chen
+A1 Sastry,Shankar
+YR 1987
+T1 Frequency Domain Synthesis of Optimal Inputs for Adaptive Identification and Control
+JF Journal De Traumatologie Du Sport
+
+RT Conference Proceedings
+ID 49839613
+A1 Craig,John,J.
+A1 Hsu,Ping
+A1 Sastry,S.,Shankar
+YR 1986
+T1 Adaptive control of mechanical manipulators
+
+RT Journal Article
+ID 26953606
+A1 BAI,E.,W.
+A1 SASTRY,S.,S.
+YR 1986
+T1 Parameter identification using prior information
+JF International Journal of Control
+VO 44
+SP 455
+OP 473
+IS 2
+
+RT Journal Article
+ID 1576027
+A1 Bai,Er-Wei
+A1 Sastry,S.
+YR 1986
+T1 Discrete-time adaptive control utilizing prior information
+JF IEEE Transactions on Automatic Control
+VO 31
+SP 779
+OP 782
+IS 8
+
+RT Journal Article
+ID 19639073
+A1 Sastry,S.,S.
+A1 Murty,C.,R.,K.
+A1 Subrahmanyam,A.
+YR 1986
+T1 Dielectric properties of tetra-methylammonium Tri and tetra-halo mercurates
+JF Physica Status Solidi (a)
+VO 95
+SP 57
+IS 1
+
+RT Conference Proceedings
+ID 49837753
+A1 Fu,Li-Chen
+A1 Bai,Er-Wei
+A1 Sastry,Shankar,S.
+YR 1986
+T1 Averaging analysis for discrete time and sampled data adaptive systems
+
+RT Conference Proceedings
+ID 49837655
+A1 Kappos,Efthimios
+A1 Sastry,Shankar
+YR 1986
+T1 Lyapunov controllability and global optimal control
+
+RT Journal Article
+ID 26224808
+A1 ZURITZ,C
+A1 SASTRY,S
+A1 MCCOY,S
+YR 1986
+T1 Modelling of temperature fluctuations within frozen foods stored in cylindrical containers
+JF International Journal of Refrigeration-revue Internationale Du Froid
+VO 9
+SP 215
+OP 219
+IS 4
+
+RT Journal Article
+ID 5346934
+A1 Silva-Madriz,R.
+A1 Sastry,S.,S.
+YR 1986
+T1 Multiple time scales for nonlinear systems
+JF Circuits Systems and Signal Processing
+VO 5
+SP 153
+OP 169
+IS 1
+
+RT Journal Article
+ID 26953468
+A1 PACKARD,A.,K.
+A1 SASTRY,S.,S.
+YR 1986
+T1 Solving rational matrix equations in the state space with applications to computer-aided control-system design
+JF International Journal of Control
+VO 43
+SP 65
+OP 90
+IS 1
+
+RT Journal Article
+ID 26953469
+A1 LI,ZEXIANG
+A1 SASTRY,SHANKAR,S.
+YR 1986
+T1 Conditioned invariant subspaces, disturbance decoupling and solutions of rational matrix equations
+JF International Journal of Control
+VO 43
+SP 91
+OP 108
+IS 1
+
+RT Conference Proceedings
+ID 49837566
+A1 Paden,Brad,E.
+A1 Sastry,Shankar,S.
+YR 1986
+T1 A calculus for computing Filippov's differential inclusion with application to the variable structure control of robot manipulators
+
+RT Journal Article
+ID 60238191
+A1 Sastry,S.,M.,L.
+A1 Macdonald,B.,A.
+YR 1986
+T1 Mechanical behavior of rapidly solidified materials; Proceedings of the Symposium, New York, NY, Feb. 24-28, 1985
+
+RT Journal Article
+ID 49838222
+A1 Bai,Er-Wei
+A1 Sastry,Shankar,S.
+YR 1986
+T1 Adaptive Control of Partially Known Systems
+
+RT Journal Article
+ID 53330316
+A1 Sastry,S.,S.
+YR 1986
+T1 Inaugural Conference of the Berkeley Research Group in Nonlinear Systems and Dynamics
+
+RT Journal Article
+ID 4099165
+A1 Sastry,S.
+YR 1985
+T1 Wireability Analysis of Integrated Circuits
+
+RT Journal Article
+ID 1612024
+A1 SALAM,FATHI,M.,A.
+A1 SASTRY,S.,SHANKAR
+YR 1985
+T1 Dynamics of the forced Josephson junction circuit: The regions of chaos
+JF IEEE Transactions on Circuits and Systems
+VO 32
+SP 784
+OP 796
+IS 8
+
+RT Journal Article
+ID 1946834
+A1 Sastry,S.
+A1 Parker,A.,C.
+YR 1985
+T1 Stochastic models for wirability analysis of gate arrays
+JF Computer-aided Design
+
+RT Journal Article
+ID 22861123
+A1 Lendzian,F.
+A1 Willigen,H.,van
+A1 Sastry,S.
+A1 Möbius,K.
+A1 Scheer,H.
+A1 Feick,R.
+YR 1985
+T1 Proton endor study of the photoexcited triplet state PT in Rps. sphaeroides R-26 photosynthetic reaction centres
+JF Chemical Physics Letters
+VO 118
+SP 145
+OP 150
+IS 2
+
+RT Conference Proceedings
+ID 49833828
+A1 Fu,Li-Chen
+A1 Bodson,Marc
+A1 Sastry,Shankar
+YR 1985
+T1 New stability theorems for averaging and their application to the convergence analysis of adaptive identification and control schemes
+
+RT Journal Article
+ID 26224755
+A1 SASTRY,S
+YR 1985
+T1 Moisture losses from perishable commodities: recent research and developments
+JF International Journal of Refrigeration-revue Internationale Du Froid
+VO 8
+SP 343
+OP 346
+IS 6
+
+RT Journal Article
+ID 19701667
+A1 Sastry,S
+YR 1985
+T1 Thermoluminescence in alkali halides
+JF Nuclear Tracks and Radiation Measurements (1982)
+VO 10
+SP 9
+OP 20
+IS 1-2
+
+RT Conference Proceedings
+ID 49833722
+A1 Paden,Brad
+A1 Sastry,Shankar
+YR 1985
+T1 Elbow and elbow manipulators are optimal!
+
+RT Journal Article
+ID 41295166
+A1 SASTRY,S
+A1 PHILLIPS,J
+A1 MORROW,C
+YR 1985
+T1 Numerical solution of a phase-change problem encountered during frost protection with overhead sprinkling
+JF Journal of Agricultural Engineering Research
+VO 31
+SP 283
+OP 295
+IS 4
+
+RT Journal Article
+ID 19701668
+A1 Sastry,S
+YR 1985
+T1 Thermoluminescence and optical absorption studies of RbCl:Sr2+
+JF Nuclear Tracks and Radiation Measurements (1982)
+VO 10
+SP 93
+OP 96
+IS 1-2
+
+RT Journal Article
+ID 14606729
+A1 SASTRY,S.,SHANKAR
+YR 1984
+T1 Model-Reference Adaptive Control—Stability, Parameter Convergence, and Robustness
+JF Ima Journal of Mathematical Control and Information
+VO 1
+SP 27
+OP 66
+IS 1
+
+RT Conference Proceedings
+ID 49830634
+A1 Bodson,Marc
+A1 Sastry,Shankar
+YR 1984
+T1 Exponential convergence and robustness margins in adaptive control
+
+RT Journal Article
+ID 26953202
+A1 MADRIZ,R.,SILVA
+A1 SASTRY,S.,S.
+YR 1984
+T1 Input-output description of linear systems with multiple time-scales†
+JF International Journal of Control
+VO 40
+SP 699
+OP 721
+IS 4
+
+RT Conference Proceedings
+ID 49830411
+A1 Silva-Madriz,R.
+A1 Sastry,S.,S.
+YR 1984
+T1 Time domain models for multiple time scale linear systems
+
+RT Journal Article
+ID 14546150
+A1 SRINIVASAN,S
+A1 SASTRY,S
+YR 1984
+T1 Exposing functionals on ()
+JF Journal of Approximation Theory
+VO 41
+SP 179
+OP 184
+IS 2
+
+RT Journal Article
+ID 1576420
+A1 Coderch,M.
+A1 Willsky,A.
+A1 Sastry,S.
+A1 Castanon,D.
+YR 1983
+T1 Hierarchical aggregation of linear systems with multiple time scales
+JF IEEE Transactions on Automatic Control
+VO 28
+SP 1017
+OP 1030
+IS 11
+
+RT Conference Proceedings
+ID 49827450
+A1 Krause,James
+A1 Athans,Michael
+A1 Sastry,Shankar,S.
+A1 Valavani,Lena
+YR 1983
+T1 Robustness studies in adaptive control
+
+RT Journal Article
+ID 10666819
+A1 Coderch,M.
+A1 Willsky,A.,S.
+A1 Sastry,S.,S.
+A1 Castanon,D.,A.
+YR 1983
+T1 Hierarchical aggregation of singularly perturbed finite state markov processes
+JF Stochastics An International Journal of Probability and Stochastic Processes
+VO 8
+SP 259
+OP 289
+IS 4
+
+RT Journal Article
+ID 26224563
+A1 SASTRY,S
+A1 BUFFINGTON,D
+YR 1983
+T1 Transpiration rates of stored perishable commodities: a mathematical model and experiments on tomatoes
+JF International Journal of Refrigeration-revue Internationale Du Froid
+VO 6
+SP 84
+OP 96
+IS 2
+
+RT Journal Article
+ID 1613362
+A1 Sastry,S.
+YR 1983
+T1 The effects of small noise on implicitly defined nonlinear dynamical systems
+JF IEEE Transactions on Circuits and Systems
+VO 30
+SP 651
+OP 663
+IS 9
+
+RT Journal Article
+ID 1577959
+A1 Sastry,S.
+A1 Desoer,C.
+YR 1983
+T1 Asymptotic unbounded root loci--Formulas and computation
+JF IEEE Transactions on Automatic Control
+VO 28
+SP 557
+OP 568
+IS 5
+
+RT Journal Article
+ID 26224587
+A1 BUFFINGTON,D
+A1 SASTRY,S
+YR 1983
+T1 Methodology for determining the most economic storage conditions for tomatoes
+JF International Journal of Refrigeration-revue Internationale Du Froid
+VO 6
+SP 213
+OP 218
+IS 4
+
+RT Conference Proceedings
+ID 49827396
+A1 Sastry,S.,Shankar
+YR 1983
+T1 Asymptotic behavior of stochastic dynamical systems
+
+RT Journal Article
+ID 1612288
+A1 ARAPOSTATHIS,ARISTOTLE
+A1 SASTRY,S.,SHANKAR
+A1 VARAIYA,PRAVIN
+YR 1982
+T1 Global analysis of swing dynamics
+JF IEEE Transactions on Circuits and Systems
+VO 29
+SP 673
+OP 679
+IS 10
+
+RT Journal Article
+ID 1578571
+A1 Sastry,S.,S.
+A1 Desoer,C.,A.
+YR 1982
+T1 Robustness of controllability and observability of linear time-varying systems
+JF IEEE Transactions on Automatic Control
+VO 27
+SP 933
+OP 939
+IS 4
+
+RT Journal Article
+ID 40802454
+A1 LEDERICH,R
+A1 SASTRY,S
+YR 1982
+T1 Deformation behavior of silicon-carbide-whisker-reinforced aluminum composites
+JF Materials Science and Engineering
+VO 55
+SP 143
+OP 146
+IS 1
+
+RT Conference Proceedings
+ID 1612344
+A1 Sastry,S.,S.
+A1 Desoer,C.
+A1 Varaiya,P.
+YR 1981
+T1 Jump behavior of circuits and systems
+
+RT Journal Article
+ID 27453269
+A1 Sastry,S.
+A1 Desoer,C.
+YR 1981
+T1 Jump behavior of circuits and systems
+JF IEEE Transactions on Circuits and Systems
+VO 28
+SP 1109
+OP 1124
+IS 12
+
+RT Journal Article
+ID 1577045
+A1 Sastry,S.
+A1 Varaiya,P.
+YR 1981
+T1 Coherency for interconnected power systems
+JF IEEE Transactions on Automatic Control
+VO 26
+SP 218
+OP 226
+IS 1
+
+RT Journal Article
+ID 18436176
+A1 Sastry,S.
+YR 1981
+T1 Mechanism of thermoluminescence in europium doped rubidium bromide
+JF Journal of Luminescence
+VO 23
+SP 281
+OP 291
+IS 3-4
+
+RT Journal Article
+ID 26653924
+A1 SASTRY,S
+A1 HIJAB,O
+YR 1981
+T1 Bifurcation in the presence of small noise
+JF Systems & Control Letters
+VO 1
+SP 159
+OP 167
+IS 3
+
+RT Conference Proceedings
+ID 49821964
+A1 Coderch,M.
+A1 Willsky,A.,S.
+A1 Sastry,S.,S.
+A1 Castanon,D.,A.
+YR 1981
+T1 Hierarchical aggregation of linear systems with multiple time scales
+
+RT Conference Proceedings
+ID 49821889
+A1 Hijab,Omar
+A1 Sastry,Shankar
+YR 1981
+T1 Singular perturbation, state aggregation, and nonlinear filtering
+
+RT Journal Article
+ID 46540438
+A1 Sastry,S.
+YR 1981
+T1 Optical absorption, thermoluminescence (TL) glow and emission studies on rubidium chloride
+VO 103
+SP 324
+OP 332
+IS 2-3
+
+RT Conference Proceedings
+ID 1613635
+A1 Sastry,S.
+A1 Varaiya,P.
+YR 1980
+T1 Hierarchical stability and alert state steering control of interconnected power systems
+
+RT Journal Article
+ID 40802128
+A1 LEDERICH,R
+A1 SASTRY,S
+A1 PAO,P
+YR 1980
+T1 The effect of internal hydrogen on the stress corrosion cracking of Ti6Al6V-2Sn in 3.5% NaCl solution
+JF Materials Science and Engineering
+VO 45
+SP 49
+OP 54
+IS 1
+
+RT Conference Proceedings
+ID 49819909
+A1 Arapostathis,A.
+A1 Sastry,S.
+A1 Varaiya,P.
+YR 1980
+T1 Bifurcation analysis of the load flow equations
+
+RT Conference Proceedings
+ID 49819802
+A1 Arapotathis,A.
+A1 Sastry,S.
+A1 Varaiya,P.
+YR 1980
+T1 On the solutions of the load flow equations in power systems
+
+RT Journal Article
+ID 27453240
+A1 SASTRY,SHANKAR
+A1 VARAIYA,PRAVIN
+YR 1980
+T1 Hierarchical stability and alert state steering control of interconnected power systems
+JF IEEE Transactions on Circuits and Systems
+VO 27
+SP 1102
+OP 1112
+IS 11
+
+RT Journal Article
+ID 40802088
+A1 SASTRY,S
+A1 RAMASWAMI,B
+YR 1980
+T1 The plastic deformation of [001]-oriented disordered Cu3Au single crystals
+JF Materials Science and Engineering
+VO 43
+SP 231
+OP 234
+IS 3
+
+RT Journal Article
+ID 40801750
+A1 LEDERICH,R
+A1 SASTRY,S
+A1 ONEAL,J
+A1 RATH,B
+YR 1978
+T1 The effect of grain size on yield stress and work hardening of polycrystalline titanium at 295 K and 575 K
+JF Materials Science and Engineering
+VO 33
+SP 183
+OP 188
+IS 2
+
+RT Journal Article
+ID 40801716
+A1 SASTRY,S
+A1 RAMASWAMI,B
+YR 1978
+T1 Influence of alumina particles on the short range order in Cu3Au
+JF Materials Science and Engineering
+VO 32
+SP 197
+OP 198
+IS 2
+
+RT Journal Article
+ID 18435728
+A1 Sastry,S.
+YR 1977
+T1 Role of lead centers in the thermoluminescence emission of irradiated NaCl doped with lead
+JF Journal of Luminescence
+VO 15
+SP 267
+OP 275
+IS 3
+
+RT Journal Article
+ID 16141448
+A1 Sastry,S.,S.
+YR 1976
+T1 Finite difference approximations to one-dimensional parabolic equations using a cubic spline technique
+JF Journal of Computational and Applied Mathematics
+VO 2
+SP 23
+OP 26
+IS 1
+
+RT Journal Article
+ID 40801341
+A1 SASTRY,S
+A1 RAMASWAMI,B
+YR 1976
+T1 Lüders band propagation in stage I deformation of disordered Cu3AuAl2O3 single crystals
+JF Materials Science and Engineering
+VO 22
+SP 245
+OP 247
+
+RT Journal Article
+ID 40801340
+A1 SASTRY,S
+YR 1976
+T1 The effect of grain size on yield stress and work hardening in Cu3Au
+JF Materials Science and Engineering
+VO 22
+SP 237
+OP 243
+
+RT Journal Article
+ID 40801041
+A1 SASTRY,S
+A1 RAMASWAMI,B
+YR 1974
+T1 Antiphase domain growth kinetics in ordered Cu3AuAl2O3 single crystals
+JF Materials Science and Engineering
+VO 14
+SP 93
+OP 96
+IS 1
+
+RT Journal Article
+ID 18500606
+A1 Sastry,S.
+YR 1973
+T1 Indirect electronic transitions in alkali halate crystals-I (sodium and potassium chlorate crystals)
+JF Journal of Physics and Chemistry of Solids
+VO 34
+SP 473
+OP 479
+IS 3
+
+RT Journal Article
+ID 18500607
+A1 Sastry,S.
+YR 1973
+T1 Indirect electronic transitions in alkali halate crystals-II (sodium bromate and iodate) crystals
+JF Journal of Physics and Chemistry of Solids
+VO 34
+SP 481
+IS 3
+
+RT Journal Article
+ID 11617834
+A1 Shim,David,Hyunchul
+A1 Kirn,Hyoun,Jin
+A1 Sastry,Shankar
+T1 HIERARCHICAL CONTROL SYSTEM SYNTHESIS FOR ROTORCRAFT-BASED UNMANNED AERIAL VEHICLES
+
+RT Book, Whole
+ID 12230138
+A1 Hu,Jianghai
+A1 Lygeros,John
+A1 Sastry,Shankar
+T1 Towards a Theory of Stochastic Hybrid Systems
+JF Lecture Notes in Computer Science
+
+RT Journal Article
+ID 147579
+A1 KOO,T.,JOHN
+A1 MA,YI
+A1 SASTRY,S.,SHANKAR
+T1 NONLINEAR CONTROL OF A HELICOPTER BASED UNMANNED AERIAL VEHICLE MODEL
+
+RT Conference Proceedings
+ID 4668957
+A1 Deng,X.
+A1 Schenato,L.
+A1 Sastry,S.,S.
+T1 Attitude Control for a Micromechanical Flying Insect Including Thorax and Sensor Models
+
+RT Journal Article
+ID 12244638
+A1 Zhang,Jun
+A1 Vala,Jiri
+A1 Whaley,K.,Birgitta
+A1 Sastry,Shankar
+T1 A geometric theory of non-local two-qubit operations
+
+RT Conference Proceedings
+ID 11400504
+A1 Shim,David,H.
+A1 Kim,Jin
+A1 Sastry,Shankar
+T1 Decentralized Nonlinear Model Predictive Control of Multiple Flying Robots in Dynamic Environments
+
+RT Journal Article
+ID 405990
+A1 Shakernia,Omid
+A1 Sastry,Shankar
+A1 Ma,Yi
+T1 Vision Guided Landing of an Unmanned Aerial Vehicle
+
+RT Journal Article
+ID 10227575
+A1 Ma,Yi
+A1 Sastry,Shankar
+T1 Generalized Principal Component Analysis (GPCA)
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+RT Book, Whole
+ID 161359
+A1 Tomlin,Claire
+A1 Pappas,George
+A1 Košecká,Jana
+A1 Lygeros,John
+A1 Sastry,Shankar
+T1 Advanced air traffic automation: A case study in distributed decentralized control
+
+RT Book, Whole
+ID 166933
+A1 Tomlin,C.
+A1 Pappas,G.
+A1 Lygeros,J.
+A1 Godbole,D.
+A1 Sastry,S.
+T1 Hybrid control models of next generation air traffic management
+
+RT Journal Article
+ID 4492120
+A1 Roosta,Tanya
+A1 Shieh,Shiuhpyng
+A1 Sastry,Shankar
+T1 Taxonomy of Security Attacks in Sensor Networks and Countermeasures
+
+RT Journal Article
+ID 2358937
+A1 Shakernia,Omid
+A1 Sastry,Shankar
+T1 Omnidirectional Vision-Based Formation Control
+
+RT Book, Whole
+ID 5591130
+A1 Jafari,Roozbeh
+A1 Li,Wenchao
+A1 Bajcsy,Ruzena
+A1 Glaser,Steven
+A1 Sastry,Shankar
+T1 Physical Activity Monitoring for Assisted Living at Home
+
+RT Journal Article
+ID 3027603
+A1 Horowitz,Benjamin
+A1 Liebman,Judith
+A1 Ma,Cedric
+A1 John,T.
+A1 Henzinger,A.
+A1 Sangiovanni-Vincentelli,Alberto
+A1 Sastry,Shankar
+T1 EMBEDDED SOFTWARE DESIGN AND SYSTEM INTEGRATION FOR ROTORCRAFT UAV USING PLATFORMS 1
+
+RT Journal Article
+ID 12858964
+A1 VIDAL,RENÉ
+A1 SHAKERNIA,OMID
+A1 SASTRY,SHANKAR
+T1 Distributed Formation Control with Omnidirectional Vision-Based Motion Segmentation and Visual Servoing
+
+RT Journal Article
+ID 4454966
+A1 Oh,Songhwai
+A1 Schenato,Luca
+A1 Chen,Phoebus
+A1 Sastry,Shankar
+T1 A Scalable Real-Time Multiple-Target Tracking Algorithm for Sensor Networks
+
+RT Conference Proceedings
+ID 2370665
+A1 Chen,Phoebus
+A1 Oh,Songhwai
+A1 Manzo,Michael
+A1 Sinopoli,Bruno
+A1 Sharp,Cory
+A1 Whitehouse,Kamin
+A1 Tolle,Gilman
+A1 Jeong,Jaein
+A1 Dutta,Prabal
+A1 Hui,Jonathan
+A1 Shaffert,Shawn
+A1 Kim,Sukun
+A1 Taneja,Jay
+A1 Zhu,Bonnie
+A1 Roosta,Tanya
+A1 Howard,Mike
+A1 Culler,David
+A1 Sastry,Shankar
+T1 Experiments in Instrumenting Wireless Sensor Networks for Real-Time Surveillance
+
+RT Book, Whole
+ID 48398034
+A1 Isidori,A.
+A1 Sastry,S.
+A1 Kokotovic,P.
+A1 Bymes,C.,I.
+T1 The analysis of singularly perturbed zero dynamics
+
+RT Journal Article
+ID 4481389
+A1 Oh,Songhwai
+A1 Hwang,Inseok
+A1 Roy,Kaushik
+A1 Sastry,Shankar
+T1 A Fully Automated Distributed Multiple-Target Tracking and Identity Management Algorithm
+
+RT Book, Whole
+ID 48442318
+A1 Fu,L.
+A1 Bodson,M.
+A1 Sastry,S.
+T1 New stability theorems for averaging and their application to the convergence analysis of adaptive identification and control schemes
+
+RT Journal Article
+ID 11750585
+A1 Yang,Allan,Y.
+A1 Wright,John
+A1 Sastry,S.,Shankar
+T1 Feature Selection in Face Recognition: A Sparse Representation Perspective
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+RT Journal Article
+ID 11557247
+A1 Soatto,Stefano
+A1 Sastry,S.,Shankar
+T1 A Factorization Method for 3D Multi-body Motion Estimation and Segmentation
+
+RT Book, Whole
+ID 5331827
+A1 Ames,Aaron,D.
+A1 Gregg,Robert,D.
+A1 Wendel,Eric,D.,B.
+A1 Sastry,Shankar
+T1 On the Geometric Reduction of Controlled Three-Dimensional Bipedal Robotic Walkers
+
+RT Conference Proceedings
+ID 12588606
+A1 Shakernia,Omid
+A1 Vidal,Rene
+A1 Sharp,Courtney,S.
+A1 Ma,Yi
+A1 Sastry,Shankar
+T1 Multiple View Motion Estimation and Control for Landing an Unmanned Aerial Vehicle
+
+RT Journal Article
+ID 5249179
+A1 Chen,Minghua
+A1 Abate,Alessandro
+A1 Sastry,Shankar
+T1 NEW CONGESTION CONTROL SCHEMES OVER WIRELESS NETWORKS: STABILITY ANALYSIS
+
+RT Journal Article
+ID 5201856
+A1 Abate,Alessandro
+A1 Chen,Minghua
+A1 Sastry,Shankar
+T1 NEW CONGESTION CONTROL SCHEMES OVER WIRELESS NETWORKS: DELAY SENSITIVITY ANALYSIS AND SIMULATIONS 1
+
+RT Journal Article
+ID 3644127
+A1 Ma,Y.
+A1 Huang,K.
+A1 Vidal,R.
+A1 Seck'a,J.,Ko
+A1 Sastry,S.
+T1 Rank conditions of multiple view matrix in multiple view geometry
+JF International Journal of Computer Vision
+
+RT Journal Article
+ID 241092
+A1 Sekhavat,S.
+A1 Sastry,S.
+T1 A Distributed Automatic Air Traffic Management System
+
+RT Book, Whole
+ID 48192311
+A1 Shaw,Elaine
+A1 Chung,Hoam
+A1 Hedrick,J.,Karl
+A1 Sastry,Shankar
+T1 Unmanned Helicopter Formation Flight Experiment for the Study of Mesh Stability
+
+RT Journal Article
+ID 6018907
+A1 Chung,Hoam
+A1 Polak,Elijah
+A1 Sastry,Shankar
+T1 An Accelerator for Packages Solving Discrete-Time Optimal Control Problems
+
+RT Journal Article
+ID 5121320
+A1 ´,Alvaro,A.,C
+A1 Amin,Saurabh
+A1 Sinopoli,Bruno
+A1 Perrig,Adrian
+A1 Sastry,Shankar
+T1 Challenges for Securing Cyber Physical Systems
+
+RT Journal Article
+ID 4561502
+A1 Cenk,M.
+A1 SASTRY,S.,Shankar
+T1 Telesurgery and Surgical Simulation: Haptic Interfaces to Real and Virtual Surgical Environments
+
+RT Journal Article
+ID 11776012
+A1 Bayen,Alexandre
+A1 Brooks,Alex
+A1 Brooks,Christopher
+A1 Brown,Iain
+A1 Chang,Eric
+A1 Chen,Wuyang
+A1 Chiau,Charlie
+A1 Chon,Jaechoon
+A1 Chung,Hoam
+A1 Dissayanake,Gamini
+A1 Domingo,Miguel
+A1 Douillard,Bertrand
+A1 Duindam,Vincent
+A1 Durrant-Whyte,Hugh
+A1 Eklund,J.,Mikael
+A1 Elkabany,Ken
+A1 Farooq,Danish
+A1 Furmanek,Filip
+A1 Godwin,Mark
+A1 Greenbaum,Michael
+A1 Guivant,Jose
+A1 Hedrick,Karl
+A1 Hosein,Nicholas
+A1 Jeevan,Prasanth
+A1 Katz,Roman
+A1 Killingsworth,Cheryl
+A1 Kim,Youngheub
+A1 Kodagoda,Sarath
+A1 Lau,Peter
+A1 Leung,Kwong
+A1 Lin,James
+A1 Ly,Minh,Van
+A1 Mann,Rick
+A1 Massod,Osman
+A1 Matai,Janarbek
+A1 McCarthy,John
+A1 Modi,Mansi
+A1 Ng,Michael
+A1 Nguyen,Brian
+A1 Percival,Terry
+A1 Porter,Jacob
+A1 Proskurowski,Olek
+A1 Pynn,Travis
+A1 Robertson,Scott
+A1 Sastry,S.,Shankar
+A1 Sawtell,Olga
+A1 Shim,David,H.,C.
+A1 Skellem,David
+A1 Sehestedt,Stephan
+A1 Shladover,Steven
+A1 Speer,Derek
+A1 Staley,Aaron
+A1 Tang,Jeff
+A1 Tomizuka,Masayoshi
+A1 Tregub,Igor
+A1 Veness,Joel
+A1 Waliany,Ryan
+A1 Wan,Andrew
+A1 Wnuk,Jacek
+A1 Wu,Bailey
+A1 Wu,Chaoying
+A1 Zhang,Boyang
+A1 Zou,Jia
+A1 Upcroft,Ben
+A1 Moser,Michael
+A1 Makarenko,Alexei
+A1 Johnson,David
+A1 Fitch,Robert
+A1 Uther,William
+A1 Biermeyer,Jan,O.
+A1 Gonzalez,Humberto
+A1 Grotli,Esten
+A1 Templeton,Todd
+A1 Srini,Vason,P.
+A1 Sprinkle,Jonathan
+T1 DARPA Urban Challenge Technical Paper‡: Sydney-Berkeley Driving Team
+
+RT Journal Article
+ID 10445057
+A1 Abate,Alessandro
+A1 Tiwari,Ashish
+A1 Sastry,S.,Shankar
+T1 The concept of Box Invariance for biologically- inspired dynamical systems
+
+RT Book, Whole
+ID 372962
+A1 Lygeros,John
+A1 Godbole,Datta,N.
+A1 Sastry,Shankar
+T1 Hybrid controller design for multi-agent systems
+
+RT Journal Article
+ID 5179163
+A1 Eklund,J.,Mikael
+A1 Sprinkle,Jonathan
+A1 Sastry,Shankar
+T1 Implementing and Testing a Nonlinear Model Predictive Tracking Controller for Aerial Pursuit/Evasion Games on a Fixed Wing Aircraft
+
+RT Journal Article
+ID 12385528
+A1 Rao,Shankar,R.
+A1 Yang,Allen,Y.
+A1 Sastry,S.,Shankar
+A1 Ma,Yi
+T1 Robust Algebraic Segmentation of Mixed Rigid-Body and Planar Motions
+
+RT Journal Article
+ID 4489927
+A1 Roosta,Tanya
+A1 Sastry,Shankar
+T1 Securing Flooding Time Synchronization Protocol in Sensor Networks
+
+RT Conference Proceedings
+ID 42958
+A1 SIMI,SLOBODAN,N.
+A1 SASTRY,SHANKAR
+T1 DISTRIBUTED GRADIENT ESTIMATION USING RANDOM SENSOR NETWORKS
+
+RT Journal Article
+ID 5836896
+A1 Abate,Alessandro
+A1 Chen,Minghua
+A1 Sastry,Shankar
+T1 Analysis of an Implementable Application Layer Scheme for Flow Control over Wireless Networks
+
+RT Book, Whole
+ID 48199200
+A1 Schiff,Jeremy
+A1 Meingast,Marci
+A1 Mulligan,Deirdre,K.
+A1 Sastry,Shankar
+A1 Goldberg,Ken
+T1 Respectful Cameras: Detecting Visual Markers in Real-Time to Address Privacy Concerns
+
+RT Book, Whole
+ID 5703533
+A1 Ames,Aaron,D.
+A1 Sangiovanni-Vincentelli,Alberto
+A1 Sastry,Shankar
+T1 Homogeneous Semantics Preserving Deployments of Heterogeneous Networks of Embedded Systems
+
+RT Journal Article
+ID 12099729
+A1 Lobaton,Edgar,J.
+A1 Ahammad,Parvez
+A1 Sastry,S.,Shankar
+T1 Algebraic Approach for Recovering Topology in Distributed Camera Networks
+
+RT Journal Article
+ID 366435
+A1 Godhavn,J.,m
+A1 Balluchi,A.
+A1 Crawford,L.,S.
+A1 Sastry,S.,S.
+T1 Control of Nonholonomic Systems with Drift Terms
+
+RT Journal Article
+ID 5887440
+A1 Fern,Jesse
+A1 Kempe,Julia
+A1 Simi,Slobodan,N.
+A1 Sastry,Shankar
+T1 Fault-tolerant quantum computation - a dynamical systems approach
+
+RT Conference Proceedings
+ID 4628189
+A1 Simic,Slobodan,N.
+A1 Sastry,Shankar
+T1 Localization in dense random sensor networks?
+
+RT Journal Article
+ID 47901356
+A1 Mobahi,Hossein
+A1 Rao,Shankar,R.
+A1 Yang,Allen,Y.
+A1 Sastry,Shankar,S.
+A1 Ma,Yi
+T1 Segmentation of Natural Images by Texture and Boundary Compression
+JF International Journal of Computer Vision
+SP 1
+OP 13
+
+RT Journal Article
+ID 5983672
+A1 Gonzalez,Humberto
+A1 Grøtli,Esten,I.
+A1 Templeton,Todd,R.
+A1 Biermeyer,Jan,O.
+A1 SprinkleS,Jonathan
+A1 Sastry,Shankar
+T1 Transitioning Control and Sensing Technologies from Fully-autonomous Driving to Driver Assistance Systems
+
+RT Journal Article
+ID 13504618
+A1 Peevey,Michael,R.
+A1 Dynes,Robert
+A1 Sastry,Shankar
+A1 Blumstein,Carl
+A1 Gallagher,Sean
+A1 Weyant,John
+T1 Public Workshop on University of California's Proposal for the California Institute for Climate Solutions
+
+RT Journal Article
+ID 10521498
+A1 Meingast,Marci
+A1 Kushwaha,Manish
+A1 Oh,Songhwai
+A1 Ledeczi,Xenofon,Koutsoukosz,Akos
+A1 Sastry,Shankar
+T1 FUSION-BASED LOCALIZATION FOR A HETEROGENEOUS CAMERA NETWORK
+
+RT Journal Article
+ID 5051778
+A1 Sinopoli,Bruno
+A1 Schenato,Luca
+A1 Franceschetti,Massimo
+A1 Poolla,Kameshwar
+A1 Sastry,Shankar
+T1 Estimation and Control over Lossy Networks
+
+RT Journal Article
+ID 11366480
+A1 Schenato,Luca
+A1 Sinopoli,Bruno
+A1 Franceschetti,Massimo
+A1 Poolla,Kameshwar
+A1 Sastry,S.,Shankar
+T1 Foundations of Control and Estimation Over Lossy Networks Mathematical tools are proposed for optimal design of networked control systems when physical link losses limit available information
+
+RT Journal Article
+ID 12391093
+A1 Chung,H.
+A1 Polak,E.
+A1 Sastry,S.
+T1 On the Ofi-Label Use of Outer Approximations: An External Active Set Strategy
+
+RT Book, Whole
+ID 47789540
+A1 Roosta,Tanya
+A1 Manzo,Mike
+A1 Sastry,Shankar
+T1 Time Synchronization Attacks in Sensor Networks
+
+RT Journal Article
+ID 13047170
+A1 Johansson,Karl,Henrik
+A1 Egerstedt,Magnus
+A1 Lygeros,John
+A1 Sastry,Shankar
+T1 OntheregularizationofZenohybrida utomata
+
+RT Journal Article
+ID 10554709
+A1 Ahammad,Parvez
+A1 Bajcsy,Ruzena
+A1 Sastry,S.,Shankar
+T1 A Framework for Characterization and Comparison of Event Related Neuronal Activity
+
+RT Journal Article
+ID 12495108
+A1 Wright,J.
+A1 Ganesh,A.
+A1 Ma,Y.
+A1 Yang,A.
+A1 Sastry,S.
+T1 Robust Face Recognition via Sparse Representation John Wright, Student Member, Allen Y. Yang, Member, Arvind Ganesh, Student Member, S. Shankar Sastry, Fellow, and Yi Ma, Senior Member
+
+RT Journal Article
+ID 13065420
+A1 Abate,Alessandro
+A1 Prandini,Maria
+A1 Lygeros,John
+A1 Sastry,Shankar
+T1 ProbabilisticReachabilityandSafetyforControlled DiscreteTimeStochasticHybridSystems ?
+
+RT Journal Article
+ID 10407915
+A1 Ames,Aaron,D.
+A1 Zheng,Haiyang
+A1 Gregg,Robert,D.
+A1 Sastry,Shankar
+T1 Taking Executions Past the Breaking (Zeno) Point
+
+RT Journal Article
+ID 10714840
+A1 Tomlin,Claire,J.
+A1 Lygeros,John
+A1 Sastry,S.,Shankar
+T1 Controller Synthesis for Hybrid Systems: the Hamilton-Jacobi Approach
+
+RT Journal Article
+ID 12060972
+A1 Tomlin,Claire,J.
+A1 Lygeros,John
+A1 Sastry,Shankar
+T1 AA278A Lecture Notes 2 Spring 2005 Mathematical Background: Discrete and Continuous Systems
+
+RT Journal Article
+ID 13529684
+A1 Amin,Saurabh
+A1 Cárdenas,Alvaro
+A1 Bayen,Alexandre
+A1 Sastry,Shankar
+T1 Security constrained control under denial-of-service attacks
+
+RT Journal Article
+ID 4003865
+A1 Sprinkle,Jonathan
+A1 Eklund,J.,Mikael
+A1 Sastry,S.,Shankar
+T1 Toward Design Parameterization Support for Model Predictive Control
+
+RT Journal Article
+ID 12995850
+A1 Shakernia,Omid
+A1 Sastry,Shankar
+T1 Distributed Formation Control with Omnidirectional
+
+RT Journal Article
+ID 12709043
+A1 Pappas,George,J.
+A1 Sastry,Shankar
+T1 Straighteningoutrectangulardierentialinclusions
+
+RT Journal Article
+ID 13034530
+A1 Iyengar,S.,S.
+A1 Sastry,S.
+T1 Developing paradigms of data fusion for sensor-actuator networks that perform engineering tasks
+
+RT Journal Article
+ID 12808510
+A1 Sastry,Shankar
+T1 Evaluation of AHS Throughput Using SmartCap by John Alexander Haddon
+
+RT Book, Whole
+ID 48753060
+A1 Sastry,Shankar
+T1 Hybrid control issues in Air Traffic Management Systems

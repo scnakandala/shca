@@ -1,0 +1,2956 @@
+RT Conference Proceedings
+ID 51072811
+A1 Mohamed,Abdel-rahman
+A1 Sainath,Tara,N.
+A1 Dahl,George
+A1 Ramabhadran,Bhuvana
+A1 Hinton,Geoffrey,E.
+A1 Picheny,Michael,A.
+YR 2011
+T1 Deep Belief Networks using discriminative features for phone recognition
+SP 5060
+OP 5063
+
+RT Conference Proceedings
+ID 51072962
+A1 Sarikaya,Ruhi
+A1 Hinton,Geoffrey,E.
+A1 Ramabhadran,Bhuvana
+YR 2011
+T1 Deep belief nets for natural language call-routing
+SP 5680
+OP 5683
+
+RT Conference Proceedings
+ID 51108150
+A1 Susskind,Joshua
+A1 Memisevic,Roland
+A1 Hinton,Geoffrey
+A1 Pollefeys,Marc
+YR 2011
+T1 Modeling the joint density of two images under a variety of transformations
+SP 2793
+OP 2800
+
+RT Conference Proceedings
+ID 51108315
+A1 Ranzato,Marc'Aurelio
+A1 Susskind,Joshua
+A1 Mnih,Volodymyr
+A1 Hinton,Geoffrey
+YR 2011
+T1 On deep generative models with applications to recognition
+SP 2857
+OP 2864
+
+RT Journal Article
+ID 56912326
+A1 Hinton,Geoffrey,E.
+YR 2011
+T1 A better way to learn features: technical perspective
+JF Communications of The ACM
+SP 94
+OP 94
+
+RT Journal Article
+ID 59365227
+A1 Maaten,L.,Van,der
+A1 Hinton,G.
+YR 2011
+T1 Visualizing non-metric similarities in multiple maps
+JF International Journal of Advanced Manufacturing Technology
+
+RT Conference Proceedings
+ID 51073012
+A1 Jaitly,Navdeep
+A1 Hinton,Geoffrey
+YR 2011
+T1 Learning a better representation of speech soundwaves using restricted boltzmann machines
+SP 5884
+OP 5887
+
+RT Journal Article
+ID 39298283
+A1 Deng,Li
+A1 Seltzer,Michael,L.
+A1 Yu,Dong
+A1 Acero,Alex
+A1 Mohamed,Abdel-rahman
+A1 Hinton,Geoffrey,E.
+YR 2010
+T1 Binary coding of speech spectrograms using a deep auto-encoder
+SP 1692
+OP 1695
+
+RT Journal Article
+ID 15244262
+A1 Memisevic,Roland
+A1 Hinton,Geoffrey,E.
+YR 2010
+T1 Learning to Represent Spatial Transformations with Factored Higher-Order Boltzmann Machines
+JF Neural Computation
+VO 22
+SP 1473
+OP 1492
+IS 6
+
+RT Conference Proceedings
+ID 39261479
+A1 Ranzato,Marc'Aurelio
+A1 Hinton,Geoffrey,E.
+YR 2010
+T1 Modeling pixel means and covariances using factorized third-order boltzmann machines
+SP 2551
+OP 2558
+
+RT Journal Article
+ID 37777778
+A1 Hinton,Geoffrey,E.
+YR 2010
+T1 Learning to represent visual input
+JF Philosophical Transactions of The Royal Society B: Biological Sciences
+VO 365
+SP 177
+OP 184
+IS 1537
+
+RT Conference Proceedings
+ID 13764181
+A1 Nair,Vinod
+A1 Hinton,Geoffrey,E.
+YR 2010
+T1 Rectified Linear Units Improve Restricted Boltzmann Machines
+SP 807
+OP 814
+
+RT Journal Article
+ID 39324768
+A1 Ranzato,Marc'Aurelio
+A1 Krizhevsky,Alex
+A1 Hinton,Geoffrey,E.
+YR 2010
+T1 Factored 3Way Restricted Boltzmann Machines For Modeling Natural Images
+VO 9
+SP 621
+OP 628
+
+RT Conference Proceedings
+ID 6875700
+A1 Mohamed,Abdel-rahman
+A1 Hinton,Geoffrey,E.
+YR 2010
+T1 Phone recognition using Restricted Boltzmann Machines
+SP 4354
+OP 4357
+
+RT Journal Article
+ID 15244242
+A1 Schmah,Tanya
+A1 Yourganov,Grigori
+A1 Zemel,Richard,S.
+A1 Hinton,Geoffrey,E.
+A1 Small,Steven,L.
+A1 Strother,Stephen,C.
+YR 2010
+T1 Comparing Classification Methods for Longitudinal fMRI Studies
+JF Neural Computation
+VO 22
+SP 2729
+OP 2762
+IS 11
+
+RT Journal Article
+ID 39361634
+A1 Hinton,Geoffrey,E.
+YR 2010
+T1 Boltzmann Machines
+JF Scholarpedia
+
+RT Book, Whole
+ID 39262398
+A1 Mnih,Volodymyr
+A1 Hinton,Geoffrey,E.
+YR 2010
+T1 Learning to Detect Roads in High-Resolution Aerial Images
+SP 210
+OP 223
+
+RT Conference Proceedings
+ID 39261410
+A1 Taylor,Graham,W.
+A1 Sigal,Leonid
+A1 Fleet,David,J.
+A1 Hinton,Geoffrey,E.
+YR 2010
+T1 Dynamical binary latent variable models for 3D human pose tracking
+SP 631
+OP 638
+
+RT Journal Article
+ID 44191265
+A1 Hinton,Geoffrey
+A1 Salakhutdinov,Ruslan
+YR 2010
+T1 Discovering Binary Codes for Documents by Learning Deep Generative Models: Topics in Cognitive Science(2010)
+JF Topics in Cognitive Science
+
+RT Journal Article
+ID 13312951
+A1 Sutskever,Ilya
+A1 Hinton,Geoffrey,E.
+YR 2010
+T1 Temporal-Kernel Recurrent Neural Networks
+JF Neural Networks
+VO 23
+SP 239
+OP 243
+IS 2
+
+RT Journal Article
+ID 28224003
+A1 Susskind,J.
+A1 Anderson,A.
+A1 Hinton,G.
+YR 2010
+T1 Turn that frown upside-down! Inferring facial actions from pairs of images in a neurally plausible computational model
+JF Journal of Vision
+VO 10
+SP 666
+OP 666
+IS 7
+
+RT Journal Article
+ID 39361528
+A1 Hinton,Geoffrey,E.
+YR 2010
+T1 Deep Belief Nets
+
+RT Journal Article
+ID 5601732
+A1 Pearlmutter,Barak,A.
+A1 Hinton,Geoffrey,E.
+YR 2009
+T1 G-Maximization: an Unsupervised Learning Procedure for Discovering Regularities
+
+RT Journal Article
+ID 6076205
+A1 Salakhutdinov,Ruslan
+A1 Hinton,Geoffrey,E.
+YR 2009
+T1 Semantic hashing
+JF International Journal of Approximate Reasoning
+VO 50
+SP 969
+OP 978
+IS 7
+
+RT Conference Proceedings
+ID 50755366
+A1 Kumar,R.
+A1 Hinton,G.
+YR 2009
+T1 A family of 45nm IA processors
+
+RT Journal Article
+ID 12449280
+A1 Salakhutdinov,Ruslan
+A1 Hinton,Geoffrey,E.
+YR 2009
+T1 Deep Boltzmann Machines
+VO 5
+SP 448
+OP 455
+
+RT Conference Proceedings
+ID 4717765
+A1 Tieleman,Tijmen
+A1 Hinton,Geoffrey,E.
+YR 2009
+T1 Using fast weights to improve persistent contrastive divergence
+SP 130
+OP 1040
+
+RT Conference Proceedings
+ID 4717761
+A1 Taylor,Graham,W.
+A1 Hinton,Geoffrey,E.
+YR 2009
+T1 Factored conditional restricted Boltzmann Machines for modeling motion style
+SP 129
+OP 1032
+
+RT Journal Article
+ID 5192623
+A1 Memisevic,Roland
+A1 Hinton,Geoffrey
+YR 2009
+T1 Learning to Represent Spatial Transformations with Factored Higher-Order Boltzmann Machines
+
+RT Journal Article
+ID 4763771
+A1 Mnih,Andriy
+A1 Yuecheng,Zhang
+A1 Hinton,Geoffrey,E.
+YR 2009
+T1 Improving a statistical language model through non-linear prediction
+JF Neurocomputing
+VO 72
+SP 1414
+OP 1418
+IS 7-9
+
+RT Journal Article
+ID 4951789
+A1 Zeiler,Matthew,D.
+A1 Troje,Nikolaus,F.
+A1 Hinton,Geoffrey,E.
+YR 2009
+T1 Modeling pigeon behaviour using a Conditional Restricted Boltzmann Machine
+
+RT Conference Proceedings
+ID 6105198
+A1 Heess,Nicolas
+A1 Williams,Christopher,K.,I.
+A1 Hinton,Geoffrey,E.
+YR 2009
+T1 Learning Generative Texture Models with extended Fields-of-Experts
+
+RT Conference Proceedings
+ID 4717746
+A1 Yu,Kay
+A1 Salakhutdinov,Ruslan
+A1 Lecun,Yann
+A1 Hinton,Geoffrey,E.
+A1 Bengio,Yoshua
+YR 2009
+T1 Workshop summary: Workshop on learning feature hierarchies
+SP 165
+OP 1
+
+RT Journal Article
+ID 6089858
+A1 Hinton,Geoffrey,E.
+YR 2009
+T1 Deep belief networks
+JF Scholarpedia
+VO 4
+SP 5947
+IS 5
+
+RT Journal Article
+ID 4402931
+A1 Sutskever,Ilya
+A1 Hinton,Geoffrey,E.
+YR 2008
+T1 Deep, Narrow Sigmoid Belief Networks Are Universal Approximators
+JF Neural Computation
+VO 20
+SP 2629
+OP 2636
+IS 11
+
+RT Conference Proceedings
+ID 4727444
+A1 Nair,Vinod
+A1 Hinton,Geoffrey,E.
+YR 2008
+T1 Implicit Mixtures of Restricted Boltzmann Machines
+SP 1145
+OP 1152
+
+RT Conference Proceedings
+ID 4727509
+A1 Mnih,Andriy
+A1 Hinton,Geoffrey,E.
+YR 2008
+T1 A Scalable Hierarchical Distributed Language Model
+SP 1081
+OP 1088
+
+RT Conference Proceedings
+ID 4727497
+A1 Sutskever,Ilya
+A1 Hinton,Geoffrey,E.
+A1 Taylor,Graham,W.
+YR 2008
+T1 The Recurrent Temporal Restricted Boltzmann Machine
+SP 1601
+OP 1608
+
+RT Conference Proceedings
+ID 4727397
+A1 Schmah,Tanya
+A1 Hinton,Geoffrey,E.
+A1 Zemel,Richard,S.
+A1 Small,Steven,L.
+A1 Strother,Stephen,C.
+YR 2008
+T1 Generative versus discriminative training of RBMs for classification of fMRI images
+SP 1409
+OP 1416
+
+RT Conference Proceedings
+ID 4727331
+A1 Sutskever,Ilya
+A1 Hinton,Geoffrey,E.
+YR 2008
+T1 Using matrices to model symbolic relationship
+SP 1593
+OP 1600
+
+RT Conference Proceedings
+ID 4706936
+A1 Yuecheng,Zhang
+A1 Mnih,Andriy
+A1 Hinton,Geoffrey,E.
+YR 2008
+T1 Improving a statistical language model by modulating the effects of context words
+SP 493
+OP 498
+
+RT Book, Whole
+ID 4269026
+A1 Nair,Vinod
+A1 Susskind,Josh
+A1 Hinton,Geoffrey,E.
+YR 2008
+T1 Analysis-by-Synthesis by Learning to Invert Generative Black Boxes
+SP 971
+OP 981
+
+RT Conference Proceedings
+ID 4278423
+A1 Salakhutdinov,Ruslan
+A1 Mnih,Andriy
+A1 Hinton,Geoffrey,E.
+YR 2007
+T1 Restricted Boltzmann machines for collaborative filtering
+SP 791
+OP 798
+
+RT Journal Article
+ID 4182615
+A1 Salakhutdinov,Ruslan
+A1 Hinton,Geoffrey,E.
+YR 2007
+T1 Learning a Nonlinear Embedding by Preserving Class Neighbourhood Structure
+VO 2
+SP 412
+OP 419
+
+RT Book, Whole
+ID 4540613
+A1 Hinton,Geoffrey,E.
+YR 2007
+T1 To recognize shapes, first learn to generate images
+JF Progress in Brain Research
+VO 165
+SP 535
+OP 547
+
+RT Journal Article
+ID 4955077
+A1 Hinton,Geoffrey,E.
+YR 2007
+T1 Learning multiple layers of representation
+JF Trends in Cognitive Sciences
+VO 11
+SP 428
+OP 434
+IS 10
+
+RT Conference Proceedings
+ID 4521851
+A1 Osindero,Simon
+A1 Hinton,Geoffrey,E.
+YR 2007
+T1 Modeling image patches with a directed hierarchy of Markov random fields
+
+RT Conference Proceedings
+ID 4247861
+A1 Memisevic,Roland
+A1 Hinton,Geoffrey,E.
+YR 2007
+T1 Unsupervised Learning of Image Transformations
+
+RT Journal Article
+ID 39324742
+A1 Sutskever,Ilya
+A1 Hinton,Geoffrey,E.
+YR 2007
+T1 Learning Multilevel Distributed Representations for High-Dimensional Sequences
+VO 2
+SP 548
+OP 555
+
+RT Conference Proceedings
+ID 4556798
+A1 Salakhutdinov,Ruslan
+A1 Hinton,Geoffrey,E.
+YR 2007
+T1 Using Deep Belief Nets to Learn Covariance Kernels for Gaussian Processes
+
+RT Conference Proceedings
+ID 4278290
+A1 Mnih,Andriy
+A1 Hinton,Geoffrey,E.
+YR 2007
+T1 Three new graphical models for statistical language modelling
+SP 641
+OP 648
+
+RT Journal Article
+ID 4434780
+A1 Hinton,Geoffrey,E.
+YR 2007
+T1 Boltzmann machine
+JF Scholarpedia
+VO 2
+SP 1668
+IS 5
+
+RT Journal Article
+ID 4793080
+A1 Cook,James
+A1 Sutskever,Ilya
+A1 Mnih,Andriy
+A1 Hinton,Geoffrey,E.
+YR 2007
+T1 Visualizing Similarity Data with a Mixture of Maps
+VO 2
+SP 67
+OP 74
+
+RT Journal Article
+ID 3660714
+A1 Hinton,G.,E.
+A1 Salakhutdinov,R.,R.
+YR 2006
+T1 Reducing the Dimensionality of Data with Neural Networks
+JF Science
+VO 313
+SP 504
+OP 507
+IS 5786
+
+RT Journal Article
+ID 2177403
+A1 Hinton,Geoffrey,E.
+A1 Osindero,Simon
+A1 Teh,Yee-Whye
+YR 2006
+T1 A Fast Learning Algorithm for Deep Belief Nets
+JF Neural Computation
+VO 18
+SP 1527
+OP 1554
+IS 7
+
+RT Conference Proceedings
+ID 4304980
+A1 Taylor,Graham,W.
+A1 Hinton,Geoffrey,E.
+A1 Roweis,Sam,T.
+YR 2006
+T1 Modeling Human Motion Using Binary Latent Variables
+SP 1345
+OP 1352
+
+RT Journal Article
+ID 2177418
+A1 Osindero,Simon
+A1 Welling,Max
+A1 Hinton,Geoffrey,E.
+YR 2006
+T1 Topographic Product Models Applied to Natural Scene Statistics
+JF Neural Computation
+VO 18
+SP 381
+OP 414
+IS 2
+
+RT Journal Article
+ID 4793076
+A1 Sutskever,Ilya
+A1 Hinton,Geoffrey
+YR 2006
+T1 Learning Multilevel Distributed Representations for High-Dimensional Sequences
+
+RT Journal Article
+ID 3405050
+A1 Osindero,Simon
+A1 Welling,Max
+A1 Hinton,Geoffrey,E.
+YR 2006
+T1 Modelling the Statistics of Natural Images with Topographic Product of Student-t Models
+JF Neural Computation
+
+RT Journal Article
+ID 3458387
+A1 Hinton,G.,E.
+A1 Salakhutdinov,R.,R.
+YR 2006
+T1 Non-linear dimensionality reduction using neural networks
+
+RT Journal Article
+ID 15258330
+A1 Hinton,Geoffrey,E.
+A1 Osindero,Simon
+A1 Welling,Max
+A1 Teh,Yee-Whye
+YR 2006
+T1 Unsupervised Discovery of Nonlinear Structure Using Contrastive Backpropagation
+JF Cognitive Science
+VO 30
+SP 725
+OP 731
+IS 4
+
+RT Journal Article
+ID 4501593
+A1 Nair,Vinod
+A1 Susskind,Joshua,M.
+A1 Hinton,Geoffrey
+YR 2006
+T1 Inverting Generative Black Boxes with Breeder Learning
+
+RT Journal Article
+ID 2284045
+A1 Hinton,G.,E.
+A1 Osindero,S.
+A1 Bao,K.
+YR 2005
+T1 Learning Causally Linked Markov Random Fields
+
+RT Conference Proceedings
+ID 1811711
+A1 Hinton,Geoffrey,E.
+A1 Nair,Vinod
+YR 2005
+T1 Inferring Motor Programs from Images of Handwritten Digits
+
+RT Journal Article
+ID 1740143
+A1 Memisevic,Roland
+A1 Hinton,Geoffrey,E.
+YR 2005
+T1 Improving dimensionality reduction with spectral gradient descent
+JF Neural Networks
+VO 18
+SP 702
+OP 710
+IS 5-6
+
+RT Conference Proceedings
+ID 1834447
+A1 Hinton,Geoffrey,E.
+YR 2005
+T1 What kind of graphical model is the brain?
+SP 1765
+
+RT Conference Proceedings
+ID 3317498
+A1 Mnih,Andriy
+A1 Hinton,Geoffrey
+YR 2005
+T1 Learning nonlinear constraints with contrastive backpropagation
+
+RT Conference Proceedings
+ID 50434885
+A1 Memisevic,Roland
+A1 Hinton,Geoffrey
+YR 2005
+T1 Embedding via clustering: using spectral information to guide dimensionality reduction
+
+RT Conference Proceedings
+ID 1811700
+A1 Goldberger,Jacob
+A1 Roweis,Sam,T.
+A1 Hinton,Geoffrey,E.
+A1 RuslanSalakhutdinov
+YR 2004
+T1 Neighbourhood Components Analysis
+
+RT Conference Proceedings
+ID 1811580
+A1 Welling,Max
+A1 Rosen-zvi,Michal
+A1 Hinton,Geoffrey,E.
+YR 2004
+T1 Exponential Family Harmoniums with an Application to Information Retrieval
+
+RT Conference Proceedings
+ID 4112836
+A1 Bishop,Christopher,M.
+A1 Svensén,Markus
+A1 Hinton,Geoffrey,E.
+YR 2004
+T1 Distinguishing text from graphics in on-line handwritten ink
+SP 142
+OP 147
+
+RT Journal Article
+ID 1243417
+A1 Sallans,Brian
+A1 Hinton,Geoffrey,E.
+YR 2004
+T1 Reinforcement Learning with Factored States and Actions
+JF Journal of Machine Learning Research
+VO 5
+SP 1063
+OP 1088
+
+RT Conference Proceedings
+ID 1811640
+A1 Memisevic,Roland
+A1 Hinton,Geoffrey,E.
+YR 2004
+T1 Multiple Relational Embedding
+
+RT Journal Article
+ID 1243439
+A1 Teh,Yee,Whye
+A1 Welling,Max
+A1 Osindero,Simon
+A1 Hinton,Geoffrey,E.
+YR 2004
+T1 Energy-based models for sparse overcomplete representations
+JF Journal of Machine Learning Research
+
+RT Journal Article
+ID 1666059
+A1 Welling,Max
+A1 Zemel,Richard,S.
+A1 Hinton,Geoffrey,E.
+YR 2004
+T1 Probabilistic sequential independent components analysis
+JF IEEE Transactions on Neural Networks
+VO 15
+SP 838
+OP 849
+IS 4
+
+RT Journal Article
+ID 794617
+A1 Teh,Yee,Whye
+A1 Welling,Max
+A1 Osindero,Simon
+A1 Hinton,Geoffrey,E.
+YR 2003
+T1 Energy-Based Models for Sparse Overcomplete Representations
+JF Journal of Machine Learning Research
+VO 4
+SP 1235
+OP 1260
+
+RT Journal Article
+ID 2289208
+A1 Sminchisescu,Cristian
+A1 Welling,Max
+A1 Hinton,Geoffrey
+YR 2003
+T1 A Mode-Hopping MCMC sampler
+
+RT Conference Proceedings
+ID 485747
+A1 Welling,Max
+A1 Zemel,Richard,S.
+A1 Hinton,Geoffrey,E.
+YR 2003
+T1 Efficient Parametric Projection Pursuit Density Estimation
+SP 575
+OP 582
+
+RT Conference Proceedings
+ID 1811175
+A1 Hinton,Geoffrey,E.
+A1 Welling,Max
+A1 Mnih,Andriy
+YR 2003
+T1 Wormholes Improve Contrastive Divergence
+
+RT Conference Proceedings
+ID 2062260
+A1 Welling,M.
+A1 Zemel,R.,S.
+A1 Hinton,G.,E.
+YR 2003
+T1 A tractable probabilistic model for projection pursuit
+
+RT Journal Article
+ID 37032892
+A1 Hinton,Geoffrey
+YR 2003
+T1 The Ups and Downs of Hebb Synapses
+JF Canadian Psychology-psychologie Canadienne
+VO 44
+SP 10
+OP 13
+IS 1
+
+RT Journal Article
+ID 931161
+A1 Hinton,Geoffrey,E.
+YR 2002
+T1 Training Products of Experts by Minimizing Contrastive Divergence
+JF Neural Computation
+VO 14
+SP 1771
+OP 1800
+IS 8
+
+RT Journal Article
+ID 2836382
+A1 Friston,K.,J.
+A1 Penny,W.
+A1 Phillips,C.
+A1 Kiebel,S.
+A1 Hinton,G.
+A1 Ashburner,J.
+YR 2002
+T1 Classical and Bayesian Inference in Neuroimaging: Theory
+JF Neuroimage
+VO 16
+SP 465
+OP 483
+IS 2
+
+RT Conference Proceedings
+ID 51790
+A1 Hinton,Geoffrey,E.
+A1 Roweis,Sam,T.
+YR 2002
+T1 Stochastic Neighbor Embedding
+SP 833
+OP 840
+
+RT Conference Proceedings
+ID 1811477
+A1 Welling,Max
+A1 Hinton,Geoffrey,E.
+A1 Osindero,Simon
+YR 2002
+T1 Learning Sparse Topographic Representations with Products of Student-t Distributions
+SP 1359
+OP 1366
+
+RT Journal Article
+ID 3224873
+A1 Welling,M.
+A1 Zemel,R.
+A1 Hinton,G.
+YR 2002
+T1 In Advances in Neural Information Processing Systems
+
+RT Journal Article
+ID 801126
+A1 Mayraz,Guy
+A1 Hinton,Geoffrey,E.
+YR 2002
+T1 Recognizing Handwritten Digits Using Hierarchical Products of Experts
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 24
+SP 189
+OP 197
+IS 2
+
+RT Book, Whole
+ID 131418
+A1 Welling,Max
+A1 Hinton,Geoffrey,E.
+YR 2002
+T1 A New Learning Algorithm for Mean Field Boltzmann Machines
+SP 351
+OP 357
+
+RT Conference Proceedings
+ID 583842
+A1 Oore,Sageev
+A1 Terzopoulos,Demetri
+A1 Hinton,Geoffrey,E.
+YR 2002
+T1 A Desktop Input Device and Interface for Interactive 3D Character Animation
+SP 133
+OP 140
+
+RT Journal Article
+ID 724640
+A1 Oore,Sageev
+A1 Terzopoulos,Demetri
+A1 Hinton,Geoffrey,E.
+YR 2002
+T1 Local Physical Models for Interactive Character Animation
+JF Computer Graphics Forum
+VO 21
+SP 337
+OP 346
+IS 3
+
+RT Conference Proceedings
+ID 1811329
+A1 Welling,Max
+A1 Zemel,Richard,S.
+A1 Hinton,Geoffrey,E.
+YR 2002
+T1 Self Supervised Boosting
+SP 665
+OP 672
+
+RT Journal Article
+ID 721106
+A1 Pirri,Fiora
+A1 Hinton,Geoffrey,E.
+A1 Levesque,Hector,J.
+YR 2002
+T1 In Memory of Ray Reiter (1939-2002)
+JF Ai Magazine
+VO 23
+SP 93
+IS 4
+
+RT Journal Article
+ID 1397842
+A1 Hinton,G.
+A1 Sager,D.
+A1 Upton,M.
+A1 Boggs,D.
+A1 Carmean,D.
+A1 Kyker,A.
+A1 Roussel,P.
+YR 2001
+T1 The microarchitecture of the pentium 4 processor
+
+RT Conference Proceedings
+ID 560447
+A1 Roweis,Sam,T.
+A1 Saul,Lawrence,K.
+A1 Hinton,Geoffrey,E.
+YR 2001
+T1 Global Coordination of Local Linear Models
+SP 889
+OP 896
+
+RT Conference Proceedings
+ID 50222202
+A1 Sager,D.
+A1 Hinton,G.
+A1 Upton,M.
+A1 Chappell,T.
+A1 Fletcher,T.,D.
+A1 Samaan,S.
+A1 Murray,R.
+YR 2001
+T1 A 0.18 μm CMOS IA32 microprocessor with a 4 GHz integer execution unit
+SP 324
+
+RT Journal Article
+ID 1521164
+A1 Hinton,G.
+A1 Upton,M.
+A1 Sager,D.,J.
+A1 Boggs,D.
+A1 Carmean,D.,M.
+A1 Roussel,P.
+A1 Chappell,T.,I.
+A1 Fletcher,T.,D.
+A1 Mils,M.,s.
+A1 Sprague,M.
+A1 Samaan,S.
+A1 Murray,R.
+YR 2001
+T1 A 0.18-μm CMOS IA32 processor with a 4GHz integer execution unit
+JF IEEE Journal of Solid-state Circuits
+VO 36
+SP 1617
+OP 1627
+IS 11
+
+RT Journal Article
+ID 139210
+A1 Brown,Andrew,D.
+A1 Hinton,Geoffrey,E.
+YR 2001
+T1 Products of Hidden Markov Models
+
+RT Conference Proceedings
+ID 124478
+A1 Hinton,Geoffrey,E.
+A1 Teh,Yee,Whye
+YR 2001
+T1 Discovering Multiple Constraints that are Frequently Approximately Satisfied
+SP 227
+OP 234
+
+RT Journal Article
+ID 803156
+A1 Paccanaro,Alberto
+A1 Hinton,Geoffrey,E.
+YR 2001
+T1 Learning Distributed Representations of Concepts Using Linear Relational Embedding
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 13
+SP 232
+OP 244
+IS 2
+
+RT Conference Proceedings
+ID 39926
+A1 Hinton,G.,E.
+A1 Welling,M.
+A1 Teh,Y.,W.
+A1 Osindero,S.,K.
+YR 2001
+T1 A NEW VIEW OF ICA
+
+RT Journal Article
+ID 3255490
+A1 Hinton,G.
+A1 Shen,J.
+YR 2001
+T1 Intel''s multi-threading technology
+
+RT Conference Proceedings
+ID 53339
+A1 Brown,Andrew,D.
+A1 Hinton,Geoffrey,E.
+YR 2001
+T1 Relative Density Nets: A New Way to Combine Backpropagation with HMM's
+SP 1149
+OP 1156
+
+RT Journal Article
+ID 4061086
+A1 Gahramani,Z.
+A1 Hinton,G.
+YR 2001
+T1 Variational learning for switching state space models
+JF Neural Computation
+
+RT Conference Proceedings
+ID 53123
+A1 Paccanaro,Alberto
+A1 Hinton,Geoffrey,E.
+YR 2001
+T1 Learning Hierarchical Structures with Linear Relational Embedding
+SP 857
+OP 864
+
+RT Journal Article
+ID 798929
+A1 Ueda,Naonori
+A1 Nakano,Ryohei
+A1 Ghahramani,Zoubin
+A1 Hinton,Geoffrey,E.
+YR 2000
+T1 SMEM Algorithm for Mixture Models
+JF Neural Computation
+VO 12
+SP 2109
+OP 2128
+IS 9
+
+RT Journal Article
+ID 239669
+A1 Ghahramani,Zoubin
+A1 Hinton,Geoffrey,E.
+YR 2000
+T1 Variational Learning for Switching State-Space Models
+JF Neural Computation
+VO 12
+SP 831
+OP 864
+IS 4
+
+RT Conference Proceedings
+ID 560107
+A1 Teh,Yee,Whye
+A1 Hinton,Geoffrey,E.
+YR 2000
+T1 Rate-coded Restricted Boltzmann Machines for Face Recognition
+SP 908
+OP 914
+
+RT Conference Proceedings
+ID 561195
+A1 Mayraz,Guy
+A1 Hinton,Geoffrey,E.
+YR 2000
+T1 Recognizing Handwritten Digits Using Hierarchical Products of Experts
+SP 953
+OP 959
+
+RT Conference Proceedings
+ID 691610
+A1 Paccanaro,Alberto
+A1 Hinton,Geoffrey,E.
+YR 2000
+T1 Extracting Distributed Representations of Concepts and Relations from Positive and Negative Propositions
+VO 2
+SP 259
+OP 264
+
+RT Journal Article
+ID 3316399
+A1 Paccanaro,A.
+A1 Hinton,G.,E.
+YR 2000
+T1 Learning distributed representations of concepts from relational data using linear relational embedd
+JF IEEE Transactions on Knowledge and Data Engineering
+
+RT Conference Proceedings
+ID 241464
+A1 Sallans,Brian
+A1 Hinton,Geoffrey,E.
+YR 2000
+T1 Using Free Energies to Represent Q-values in a Multiagent Reinforcement Learning Task
+SP 1075
+OP 1081
+
+RT Journal Article
+ID 4425554
+A1 Ueda,Naonori
+A1 Nakano,Ryohei
+A1 Ghahramani,Zoubin
+A1 Hinton,Geoffrey,E.
+YR 2000
+T1 Split and Merge EM Algorithm for Improving Gaussian Mixture Density Estimates
+JF Journal of Vlsi Signal Processing Systems for Signal Image and Video Technology
+VO 26
+SP 133
+OP 140
+IS 1-2
+
+RT Conference Proceedings
+ID 148945
+A1 Paccanaro,Alberto
+A1 Hinton,Geoffrey,E.
+YR 2000
+T1 Learning Distributed Representations by Mapping Concepts and Relations into a Linear Space
+SP 711
+OP 718
+
+RT Conference Proceedings
+ID 490696
+A1 Hinton,Geoffrey,E.
+YR 2000
+T1 Modeling High-Dimensional Data by Combining Simple Experts
+SP 1159
+OP 1164
+
+RT Journal Article
+ID 59806021
+A1 Ghahramani,Zoubin
+A1 Hinton,Geoffrey,E.
+YR 2000
+T1 Variational Learning for Switching State-Space Models
+JF Neural Computation
+VO 12
+SP 831
+OP 864
+IS 4
+
+RT Journal Article
+ID 2090530
+A1 Neal,R.,M.
+A1 Hinton,G.,E.
+YR 1999
+T1 A View of the EM Algorithm that Justifies Incremental, Sparse, and Other Variants
+
+RT Journal Article
+ID 4133798
+A1 Ueda,N.
+A1 Nakano,R.
+A1 Gharamani,Z.
+A1 Hinton,G.
+YR 1999
+T1 Smem algorithm for mixture models
+
+RT Conference Proceedings
+ID 560136
+A1 Hinton,Geoffrey,E.
+A1 Ghahramani,Zoubin
+A1 Teh,Yee,Whye
+YR 1999
+T1 Learning to Parse Images
+SP 463
+OP 469
+
+RT Journal Article
+ID 223000
+A1 Hinton,Geoffrey
+YR 1999
+T1 Training Products of Experts by Maximizing Contrastive Likelihood
+
+RT Journal Article
+ID 798994
+A1 Frey,Brendan,J.
+A1 Hinton,Geoffrey,E.
+YR 1999
+T1 Variational Learning in Nonlinear Gaussian Belief Networks
+JF Neural Computation
+VO 11
+SP 193
+OP 213
+IS 1
+
+RT Conference Proceedings
+ID 560208
+A1 Hinton,Geoffrey,E.
+A1 Brown,Andrew,D.
+YR 1999
+T1 Spiking Boltzmann Machines
+SP 122
+OP 128
+
+RT Conference Proceedings
+ID 50155508
+A1 Ueda,N.
+A1 Nakano,R.
+A1 Ghahramani,Z.
+A1 Hinton,G.
+YR 1999
+T1 Pattern classification using a mixture of factor analyzers
+
+RT Journal Article
+ID 169143
+A1 Neal,Radford,M.
+A1 Hinton,Geoffrey,E.
+YR 1998
+T1 A View of the EM algorithm that justifies incremental, sparse andother variants
+
+RT Journal Article
+ID 2011247
+A1 Neal,R.,M.
+A1 Hinton,G.,E.
+YR 1998
+T1 A new view of the EM algo-rithm that justifies incremental and other variants
+
+RT Conference Proceedings
+ID 635266
+A1 Grzeszczuk,Radek
+A1 Terzopoulos,Demetri
+A1 Hinton,Geoffrey,E.
+YR 1998
+T1 NeuroAnimator: Fast neural network emulation and control of physics based models
+SP 9
+OP 20
+
+RT Conference Proceedings
+ID 560779
+A1 Ueda,Naonori
+A1 Nakano,Ryohei
+A1 Ghahramani,Zoubin
+A1 Hinton,Geoffrey,E.
+YR 1998
+T1 SMEM Algorithm for Mixture Models
+SP 599
+OP 605
+
+RT Journal Article
+ID 4431981
+A1 Fels,S.,Sidney
+A1 Hinton,Geoffrey,E.
+YR 1998
+T1 Glove-TalkII-a neural-network interface which maps gestures to parallel formant speech synthesizer controls
+JF IEEE Transactions on Neural Networks
+VO 9
+SP 205
+OP 212
+IS 1
+
+RT Journal Article
+ID 359798
+A1 Ennis,Marguerite
+A1 Hinton,Geoffrey
+A1 Naylor,David
+A1 Revow,Mike
+A1 Tibshirani,Robert
+YR 1998
+T1 A comparison of statistical learning methods on the GUSTO database
+JF Statistics in Medicine
+VO 17
+SP 2501
+OP 2508
+IS 21
+
+RT Conference Proceedings
+ID 312161
+A1 Hinton,Geoffrey,E.
+A1 Ghahramani,Zoubin
+YR 1998
+T1 Hierarchical Non-linear Factor Analysis and Topographic Maps
+
+RT Journal Article
+ID 205167
+A1 Frey,Brendan,J.
+A1 Hinton,Geoffrey,E.
+YR 1998
+T1 Variational Learning in Non-Linear Gaussian Belief Networks
+JF Neural Computation
+
+RT Journal Article
+ID 52641
+A1 Fels,S.,s.
+A1 Hinton,G.,e.
+YR 1998
+T1 Glove-TalkII: A neural network interface which
+JF IEEE Transactions on Neural Networks
+
+RT Journal Article
+ID 15276428
+A1 TIBSHIRANI,ROBERT
+A1 HINTON,GEOFFREY
+YR 1998
+T1 Coaching variables for regression and classification
+JF Statistics and Computing
+VO 8
+SP 25
+OP 33
+IS 1
+
+RT Conference Proceedings
+ID 50123936
+A1 Ueda,N.
+A1 Nakano,R.
+A1 Ghahramani,Z.
+A1 Hinton,G.,E.
+YR 1998
+T1 Split and merge EM algorithm for improving Gaussian mixture density estimates
+SP 274
+OP 283
+
+RT Conference Proceedings
+ID 560442
+A1 Grzeszczuk,Radek
+A1 Terzopoulos,Demetri
+A1 Hinton,Geoffrey,E.
+YR 1998
+T1 Fast Neural Network Emulation of Dynamical Systems for Computer Animation
+SP 882
+OP 888
+
+RT Journal Article
+ID 131534
+A1 Welling,Max
+A1 Hinton,Geoffrey,E.
+YR 1998
+T1 Approximate Contrastive Free Energies for Learning in Undirected Graphical Models
+
+RT Journal Article
+ID 12336768
+A1 Say,Virginia,R,de
+A1 Hinton,Geoffrey,E
+YR 1998
+T1 Cascaded redundancy reduction
+JF Network-computation in Neural Systems
+VO 9
+SP 73
+OP 84
+IS 1
+
+RT Journal Article
+ID 1019191
+A1 Hinton,Geoffrey,E.
+A1 Dayan,Peter
+A1 Revow,Michael
+YR 1997
+T1 Modeling the manifolds of images of handwritten digits
+JF IEEE Transactions on Neural Networks
+VO 8
+SP 65
+OP 74
+IS 1
+
+RT Journal Article
+ID 342290
+A1 Ghahramani,Zoubin
+A1 Hinton,Geoffrey,E.
+YR 1997
+T1 The EM Algorithm for Mixtures of Factor Analyzers
+
+RT Journal Article
+ID 266859
+A1 Hinton,Geoffrey,E.
+A1 Ghahramani,Zoubin
+YR 1997
+T1 Generative Models for Discovering Sparse Distributed Representations
+JF Philosophical Transactions of The Royal Society B: Biological Sciences
+VO 352
+SP 1177
+OP 1190
+IS 1358
+
+RT Journal Article
+ID 798841
+A1 Oore,Sageev
+A1 Hinton,Geoffrey,E.
+A1 Dudek,Gregory
+YR 1997
+T1 A Mobile Robot that Learns its Place
+JF Neural Computation
+VO 9
+SP 683
+OP 699
+IS 3
+
+RT Journal Article
+ID 2328111
+A1 Hinton,Geoffrey,E.
+A1 Sallans,Brian
+A1 Ghahramani,Zoubin
+YR 1997
+T1 A Hierarchical Community of Experts
+
+RT Journal Article
+ID 798999
+A1 Dayan,Peter
+A1 Hinton,Geoffrey,E.
+YR 1997
+T1 Using Expectation-Maximization for Reinforcement Learning
+JF Neural Computation
+VO 9
+SP 271
+OP 278
+IS 2
+
+RT Journal Article
+ID 183145
+A1 Dayan,Peter
+A1 Hinton,Geoffrey,E
+YR 1997
+T1 Using EM for Reinforcement Learning
+JF Neural Computation
+
+RT Journal Article
+ID 339171
+A1 Hinton,Geoffrey,E.
+A1 Revow,Michael
+YR 1997
+T1 Using Mixtures of Factor Analyzers for Segmentation and Pose Estimation
+
+RT Journal Article
+ID 355160
+A1 Frey,Brendan,J.
+A1 Hinton,Geoffrey,E.
+YR 1997
+T1 Efficient Stochastic Source Coding and an Application to a Bayesian Network Source Model
+JF The Computer Journal
+VO 40
+SP 157
+OP 165
+IS 2/3
+
+RT Journal Article
+ID 75020
+A1 Williams,Christopher,K.,I.
+A1 Revow,Michael
+A1 Hinton,Geoffrey,E.
+YR 1997
+T1 Instantiating Deformable Models with a Neural Net
+JF Computer Vision and Image Understanding
+VO 68
+SP 120
+OP 126
+IS 1
+
+RT Journal Article
+ID 328822
+A1 Frey,Brendan,J.
+A1 Dayan,Peter
+A1 Hinton,Geoffrey,E.
+YR 1997
+T1 A Simple Algorithm That Discovers Efficient Perceptual Codes
+
+RT Journal Article
+ID 2917653
+A1 Hinton,G.
+YR 1997
+T1 Cutting can kill your creativity
+
+RT Conference Proceedings
+ID 559746
+A1 Ghahramani,Zoubin
+A1 Hinton,Geoffrey,E.
+YR 1997
+T1 Hierarchical Non-linear Factor Analysis and Topographic Maps
+
+RT Journal Article
+ID 168944
+A1 Hinton,Geoffrey,E.
+A1 Zemel,Richard,S.
+YR 1997
+T1 Minimizing Description Length in an Unsupervised Neural Network
+
+RT Conference Proceedings
+ID 916413
+A1 Grzezczuk,Radek
+A1 Terzopoulos,Demetri
+A1 Hinton,Geoffrey
+YR 1997
+T1 Learning fast neural network emulators for physics-based models
+SP 167
+
+RT Journal Article
+ID 131018
+A1 Revow,Michael
+A1 Williams,Christopher,K.,I.
+A1 Hinton,Geoffrey,E.
+YR 1996
+T1 Using Generative Models for Handwritten Digit Recognition
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 18
+SP 592
+OP 606
+IS 6
+
+RT Journal Article
+ID 404925
+A1 Ghahramani,Zoubin
+A1 Hinton,Geoffrey,E.
+YR 1996
+T1 Parameter estimation for linear dynamical systems
+
+RT Journal Article
+ID 306009
+A1 Ghahramani,Zoubin
+A1 Hinton,Geoffrey,E.
+YR 1996
+T1 Switching State-Space Models
+
+RT Journal Article
+ID 313733
+A1 Dayan,Peter
+A1 Hinton,Geoffrey,E.
+YR 1996
+T1 Varieties of Helmholtz Machine
+JF Neural Networks
+VO 9
+SP 1385
+OP 1403
+IS 8
+
+RT Conference Proceedings
+ID 456583
+A1 Frey,Brendan,J.
+A1 Hinton,Geoffrey,E.
+YR 1996
+T1 Free Energy Coding
+SP 73
+OP 81
+
+RT Journal Article
+ID 304833
+A1 Dayan,Peter
+A1 Hinton,Geoffrey,E.
+A1 Neal,Radford,M.
+A1 Zemel,Richard,S.
+YR 1995
+T1 The Helmholtz machine
+JF Neural Computation
+VO 7
+SP 889
+OP 904
+IS 5
+
+RT Conference Proceedings
+ID 1972304
+A1 Xu,L.
+A1 Jordan,M.,I.
+A1 Hinton,G.,E.
+YR 1995
+T1 An alternative model for mixture of experts
+
+RT Conference Proceedings
+ID 560226
+A1 Frey,Brendan,J.
+A1 Hinton,Geoffrey,E.
+A1 Dayan,Peter
+YR 1995
+T1 Does the Wake-sleep Algorithm Produce Good Density Estimators?
+SP 661
+OP 667
+
+RT Journal Article
+ID 1999941
+A1 Hinton,G.,E.
+A1 Dayan,P.
+A1 Frey,B.
+A1 Neal,R.,M.
+YR 1995
+T1 The wake-sleep algorithm for self-organizing neural networks
+JF Science
+
+RT Journal Article
+ID 327062
+A1 Zemel,Richard,S.
+A1 Hinton,Geoffrey,E.
+YR 1995
+T1 Learning Population Codes by Minimizing Description Length
+JF Neural Computation
+VO 7
+SP 549
+OP 564
+IS 3
+
+RT Conference Proceedings
+ID 407481
+A1 Fels,Sidney
+A1 Hinton,Geoffrey,E.
+YR 1995
+T1 Glove-TalkII: an adaptive gesture-to-formant interface
+SP 456
+OP 463
+
+RT Journal Article
+ID 296593
+A1 Becker,Suzanna
+A1 Hinton,Geoffrey,E.
+YR 1995
+T1 Spatial Coherence as an Internal Teacher for a Neural Network
+
+RT Conference Proceedings
+ID 560211
+A1 Hinton,Geoffrey,E.
+A1 Revow,Michael
+YR 1995
+T1 Using Pairs of Data-Points to Define Splits for Decision Trees
+SP 507
+OP 513
+
+RT Journal Article
+ID 387118
+A1 Williams,Christopher,K.,I.
+A1 Touretzky,David
+A1 Hinton,Geoffrey,E.
+A1 Tesauro,Gerald
+A1 Revow,Michael,D.
+A1 Leen,Todd
+YR 1995
+T1 Using a Neural Net to Instantiate a Deformable Model
+
+RT Journal Article
+ID 2110159
+A1 Hinton,G.,E.
+YR 1995
+T1 The wake-sleep algorithm for unsupervised learning neural networks
+JF Science
+
+RT Journal Article
+ID 2745935
+A1 Hinton,G.
+A1 Neal,R.
+A1 Tibshirani,R.
+YR 1995
+T1 Assessing learning procedures using delve
+
+RT Journal Article
+ID 53284381
+A1 Hinton,Geoffrey,E.
+A1 Dayan,Peter
+A1 Frey,Brendan,J.
+A1 Neal,Radford,M.
+YR 1995
+T1 The
+JF Science
+VO 268
+SP 1158
+OP 1161
+
+RT Journal Article
+ID 2062423
+A1 Jacobs,R.,A.
+A1 Jordan,M.
+A1 Nowland,S.
+A1 Hinton,G.
+YR 1994
+T1 Adaptive mixtures of local experts
+JF Neural Computation
+
+RT Conference Proceedings
+ID 560141
+A1 Hinton,Geoffrey,E.
+A1 Revow,Michael
+A1 Dayan,Peter
+YR 1994
+T1 Recognizing Handwritten Digits Using Mixtures of Linear Models
+SP 1015
+OP 1022
+
+RT Conference Proceedings
+ID 560245
+A1 Xu,Lei
+A1 Jordan,Michael,I.
+A1 Hinton,Geoffrey,E.
+YR 1994
+T1 An Alternative Model for Mixtures of Experts
+SP 633
+OP 640
+
+RT Journal Article
+ID 1982155
+A1 Xu,L.
+A1 Jordan,M.,I.
+A1 Hinton,G.,E.
+YR 1994
+T1 A Modified Gating Network for the Mixtures of Experts Architecture
+
+RT Conference Proceedings
+ID 560835
+A1 Fels,Sidney
+A1 Hinton,Geoffrey,E.
+YR 1994
+T1 Glove-TalkII: Mapping Hand Gestures to Speech Using Neural Networks
+SP 843
+OP 850
+
+RT Journal Article
+ID 3391008
+A1 Hinton,Geo,Rey,E.
+A1 Zemel,Richard,S.
+YR 1994
+T1 Minimum description length and Helmholz free energy
+
+RT Conference Proceedings
+ID 559654
+A1 Williams,Christopher,K.,I.
+A1 Revow,Michael
+A1 Hinton,Geoffrey,E.
+YR 1994
+T1 Using a neural net to instantiate a deformable model
+SP 965
+OP 972
+
+RT Journal Article
+ID 378586
+A1 Neal,Radford,M.
+A1 Hinton,Geoffrey,E.
+YR 1993
+T1 A New View of the EM Algorithm that Justifies Incremental and Other Variants
+
+RT Conference Proceedings
+ID 503400
+A1 Hinton,Geoffrey,E.
+A1 Camp,Drew,van
+YR 1993
+T1 Keeping the neural networks simple by minimizing the description length of the weights
+SP 5
+OP 13
+
+RT Journal Article
+ID 14394645
+A1 Fels,S.,Sidney
+A1 Hinton,Geoffrey,E.
+YR 1993
+T1 Glove-Talk: a neural network interface between a dataglove and a speech synthesizer
+JF IEEE Transactions on Neural Networks
+VO 4
+SP 2
+OP 8
+IS 1
+
+RT Conference Proceedings
+ID 560212
+A1 Hinton,Geoffrey,E.
+A1 Zemel,Richard,S.
+YR 1993
+T1 Autoencoders, Minimum Description Length and Helmholtz Free Energy
+SP 3
+OP 10
+
+RT Journal Article
+ID 53009
+A1 Fels,S.,s.
+A1 Hinton,G.,e.
+YR 1993
+T1 Glove-Talk: A neural network interface between a
+JF IEEE Transactions on Neural Networks
+
+RT Journal Article
+ID 3155952
+A1 Fels,S.,S.
+A1 Hinton,G.,E.
+YR 1993
+T1 Glove-Talk: a neural net-work interface between a dataglove and a speech synthesizer
+JF IEEE Transactions on Neural Networks
+
+RT Conference Proceedings
+ID 560586
+A1 Zemel,Richard,S.
+A1 Hinton,Geoffrey,E.
+YR 1993
+T1 Developing Population Codes by Minimizing Description Length
+SP 11
+OP 18
+
+RT Journal Article
+ID 2117400
+A1 Neal,Radford
+A1 Hinton,Geoffrey
+YR 1993
+T1 A view of the EM algorithm that justifies incremental
+
+RT Journal Article
+ID 1455819
+A1 Nowlan,Steven,J.
+A1 Hinton,Geoffrey,E.
+YR 1993
+T1 A soft decision-directed LMS algorithm for blind equalization
+JF IEEE Transactions on Communications
+VO 41
+SP 275
+OP 279
+IS 2
+
+RT Journal Article
+ID 6082825
+A1 Becker,Suzanna
+A1 Hinton,Geoffrey,E.
+YR 1993
+T1 Learning Mixture Models of Spatial Coherence
+JF Neural Computation
+VO 5
+SP 267
+OP 277
+IS 2
+
+RT Journal Article
+ID 46791100
+A1 Hinton,Geoffrey,E.
+A1 Plaut,David,C.
+A1 Shallice,Tim
+YR 1993
+T1 Simulating Brain Damage
+JF Scientific American
+VO 269
+SP 76
+OP 82
+IS 4
+
+RT Journal Article
+ID 2010887
+A1 Nowlan,Steven,J.
+A1 Hinton,Geoffrey,E.
+YR 1992
+T1 Simplifying Neural Networks by Soft Weight-Sharing
+JF Neural Computation
+VO 4
+SP 473
+OP 493
+IS 4
+
+RT Journal Article
+ID 1986976
+A1 Becker,Suzanna
+A1 Hinton,Geoffrey,E.
+YR 1992
+T1 Self-organizing neural network that discovers surfaces in random-dot stereograms
+JF Nature
+VO 355
+SP 161
+OP 163
+IS 6356
+
+RT Journal Article
+ID 2004366
+A1 Hinton,Geoffrey,E.
+YR 1992
+T1 How Neural Networks Learn from Experience
+JF Scientific American
+VO 267
+SP 144
+OP 151
+IS 3
+
+RT Conference Proceedings
+ID 561130
+A1 Dayan,Peter
+A1 Hinton,Geoffrey,E.
+YR 1992
+T1 Feudal Reinforcement Learning
+SP 271
+OP 278
+
+RT Conference Proceedings
+ID 4111547
+A1 Hinton,G.,E.
+A1 Williams,C.,K.,I.
+A1 Revow,M.
+YR 1992
+T1 Adaptive elas - tic models for character recognition
+
+RT Journal Article
+ID 3170387
+A1 Williams,C.,K.,I.
+A1 Revow,M.,D.
+A1 Hinton,G.,E.
+YR 1992
+T1 Hand-printed digit recogntion using deformable models
+
+RT Journal Article
+ID 51563201
+A1 Hinton,G.,E.
+YR 1992
+T1 How Neural Networks Learn from Experience
+JF Scientific American
+VO 267
+SP 144
+
+RT Journal Article
+ID 1380230
+A1 Jacobs,Robert,A.
+A1 Jordan,Michael,I.
+A1 Nowlan,Steven,J.
+A1 Hinton,Geoffrey,E.
+YR 1991
+T1 Adaptive mixtures of local experts
+JF Neural Computation
+VO 3
+SP 79
+OP 87
+IS 1
+
+RT Conference Proceedings
+ID 211932
+A1 Hinton,Geoffrey,E.
+A1 Williams,Christopher,K.,I.
+A1 Revow,Michael
+YR 1991
+T1 Adaptive Elastic Models for Hand-Printed Character Recognition
+SP 512
+OP 519
+
+RT Journal Article
+ID 1975318
+A1 Hinton,Geoffrey,E.
+A1 Shallice,Tim
+YR 1991
+T1 Lesioning an attractor network: Investigations of acquired dyslexia
+JF Psychological Review
+VO 98
+SP 74
+OP 95
+IS 1
+
+RT Conference Proceedings
+ID 560974
+A1 Becker,Suzanna
+A1 Hinton,Geoffrey,E.
+YR 1991
+T1 Learning to Make Coherent Predictions in Domains with Discontinuities
+SP 372
+OP 379
+
+RT Journal Article
+ID 2968955
+A1 Zemel,R.,S.
+A1 Hinton,G.,E.
+YR 1991
+T1 Discovering view-point invariant relationships that characterize objects
+
+RT Conference Proceedings
+ID 560499
+A1 Nowlan,Steven,J.
+A1 Hinton,Geoffrey,E.
+YR 1991
+T1 Adaptive Soft Weight Tying using Gaussian Mixtures
+SP 993
+OP 1000
+
+RT Journal Article
+ID 1976257
+A1 Hinton,G.,E.
+A1 Shallice,T.
+YR 1991
+T1 Lesioning a connectionist network: Investigations of acquired dyslexia
+
+RT Journal Article
+ID 2659092
+A1 Jacobs,R.,A.
+A1 Jordan,M.,I
+A1 Nowlan,S.,J
+A1 Hinton,G.,E.
+YR 1991
+T1 Adaptative Mixture of local Expert Neural Computation
+
+RT Journal Article
+ID 1992469
+A1 Williams,C.,K.,I.
+A1 Hinton,G.,E.
+YR 1991
+T1 Mean eld networks that learn to discriminate temporally distorted strings
+
+RT Conference Proceedings
+ID 49904609
+A1 McGeady,S.
+A1 Steck,R.
+A1 Hinton,G.
+A1 Bajwa,A.
+YR 1991
+T1 Performance enhancements in the superscalar i960MM embedded microprocessor
+
+RT Conference Proceedings
+ID 4178745
+A1 Zemel,R.,S.
+A1 Hinton,G.,E.
+YR 1991
+T1 Discovering and using the single viewpoint constraint
+
+RT Journal Article
+ID 3369301
+A1 Williams,C.,K.,I.
+A1 Hinton,G.,E.
+YR 1991
+T1 Mean fi eld networks that learn temporally distorted strings
+
+RT Journal Article
+ID 59262145
+A1 Hinton,Geoffrey,E.
+A1 Shallice,Tim
+YR 1991
+T1 Lesioning an Attractor Network: Investigations of Acquired Dyslexia
+JF Psychological Review
+VO 98
+SP 74
+OP 95
+IS 1
+
+RT Journal Article
+ID 52651766
+A1 Becker,Suzanna
+A1 Hinton,Geoffrey,E.
+YR 1991
+T1 Learning spatially coherent properties of the visual world in connectionist networks
+VO 1569
+SP 218
+OP 226
+
+RT Journal Article
+ID 1740521
+A1 Lang,Kevin,J.
+A1 Waibel,Alex
+A1 Hinton,Geoffrey,E.
+YR 1990
+T1 A time-delay neural network architecture for isolated word recognition
+JF Neural Networks
+VO 3
+SP 23
+OP 43
+IS 1
+
+RT Journal Article
+ID 2375158
+A1 Williams,C.
+A1 Hinton,G.,E.
+YR 1990
+T1 Mean field networks that learn to discriminate temporally distorted strings
+
+RT Journal Article
+ID 3319112
+A1 Hinton,G.,E.
+YR 1990
+T1 Learning translation invariant recognition in a massively parallel network
+
+RT Journal Article
+ID 697730
+A1 Hinton,Geoffrey,E.
+YR 1990
+T1 Mapping Part-Whole Hierarchies into Connectionist Networks
+JF Artificial Intelligence
+VO 46
+SP 47
+OP 75
+IS 1-2
+
+RT Journal Article
+ID 15243964
+A1 Hinton,Geoffrey,E.
+A1 Nowlan,Steven,J.
+YR 1990
+T1 The Bootstrap Widrow-Hoff Rule as a Cluster-Formation Algorithm
+JF Neural Computation
+VO 2
+SP 355
+OP 362
+IS 3
+
+RT Conference Proceedings
+ID 560498
+A1 Nowlan,Steven,J.
+A1 Hinton,Geoffrey,E.
+YR 1990
+T1 Evaluation of Adaptive Mixtures of Competing Experts
+SP 774
+OP 780
+
+RT Conference Proceedings
+ID 685183
+A1 Fels,Sidney
+A1 Hinton,Geoffrey,E.
+YR 1990
+T1 Building adaptive interfaces with neural networks: The glove-talk pilot study
+SP 683
+OP 688
+
+RT Journal Article
+ID 3598237
+A1 Hinton,Geoffrey,E.
+YR 1990
+T1 Preface to the special issue on connectionist symbol processing
+JF Artificial Intelligence
+VO 46
+SP 1
+OP 4
+IS 1-2
+
+RT Conference Proceedings
+ID 560585
+A1 Zemel,Richard,S.
+A1 Hinton,Geoffrey,E.
+YR 1990
+T1 Discovering Viewpoint-Invariant Relationships That Characterize Objects
+SP 299
+OP 305
+
+RT Journal Article
+ID 14856053
+A1 Hinton,Geoffrey
+YR 1990
+T1 Mental simulation
+JF Nature
+VO 347
+SP 627
+OP 628
+IS 6294
+
+RT Journal Article
+ID 697737
+A1 Hinton,Geoffrey,E.
+YR 1990
+T1 Connectionist Symbol Processing - Preface
+JF Artificial Intelligence
+VO 46
+SP 1
+OP 4
+IS 1-2
+
+RT Journal Article
+ID 1398426
+A1 WAIBEL,ALEXANDER
+A1 HANAZAWA,TOSHIYUKI
+A1 HINTON,GEOFFREY
+A1 SHIKANO,KIYOHIRO
+A1 LANG,KEVIN,J.
+YR 1989
+T1 Phoneme recognition using time-delay neural networks
+JF IEEE Transactions on Acoustics, Speech, and Signal Processing
+VO 37
+SP 328
+OP 339
+IS 3
+
+RT Journal Article
+ID 697736
+A1 Hinton,Geoffrey,E.
+YR 1989
+T1 Connectionist Learning Procedures
+JF Artificial Intelligence
+VO 40
+SP 185
+OP 234
+IS 1-3
+
+RT Journal Article
+ID 1991851
+A1 Hinton,G.,E.
+YR 1989
+T1 Deterministic Boltzmann learning per-forms steepest descent in weight-space
+JF Neural Computation
+
+RT Journal Article
+ID 15243924
+A1 Hinton,Geoffrey,E.
+YR 1989
+T1 Deterministic Boltzmann Learning Performs Steepest Descent in Weight-Space
+JF Neural Computation
+VO 1
+SP 143
+OP 150
+IS 1
+
+RT Conference Proceedings
+ID 560518
+A1 Lang,Kevin,J.
+A1 Hinton,Geoffrey,E.
+YR 1989
+T1 Dimensionality Reduction and Prior Knowledge in E-Set Recognition
+SP 178
+OP 185
+
+RT Conference Proceedings
+ID 49861392
+A1 Hinton,G.
+YR 1989
+T1 80960next generation
+
+RT Conference Proceedings
+ID 561140
+A1 Zemel,Richard,S.
+A1 Mozer,Michael
+A1 Hinton,Geoffrey,E.
+YR 1989
+T1 TRAFFIC: Recognizing Objects Using Hierarchical Reference Frame Transformations
+SP 266
+OP 273
+
+RT Journal Article
+ID 2563630
+A1 Touretzki,D.,S.
+A1 Hinton,G.,E.
+YR 1989
+T1 A distributed connectionist production system
+JF Cognitive Science
+
+RT Journal Article
+ID 2019311
+A1 Hinton,G.,E.
+YR 1989
+T1 Connectionist learning procedures Artificial Intelligence 40 185-234
+
+RT Conference Proceedings
+ID 561193
+A1 Galland,Conrad,C.
+A1 Hinton,Geoffrey,E.
+YR 1989
+T1 Discovering High Order Features with Mean Field Modules
+SP 509
+OP 515
+
+RT Journal Article
+ID 845080
+A1 Touretzky,David,S.
+A1 Hinton,Geoffrey,E.
+YR 1988
+T1 A Distributed Connectionist Production System
+JF Cognitive Science
+VO 12
+SP 423
+OP 466
+IS 3
+
+RT Journal Article
+ID 3317922
+A1 Rumelhart,D.,E
+A1 Hinton,G.,E
+A1 Williams,R.,J
+YR 1988
+T1 Learning Representations by Back-Propagating Error
+JF Nature
+
+RT Journal Article
+ID 2022772
+A1 Lang,K.,J.
+A1 Hinton,G.,E.
+YR 1988
+T1 A Time-Delay Neural Network Architecture for Speech Recognition
+
+RT Journal Article
+ID 2002241
+A1 Hinton,G.
+YR 1988
+T1 Representing Part-Whole hierarchies in connectionist networks
+
+RT Journal Article
+ID 1972867
+A1 Hinton,G,E
+A1 Parsons,L,M.
+YR 1988
+T1 Scene-based and viewer-centered representations for comparing shapes
+JF Cognition
+VO 30
+SP 1
+OP 35
+IS 1
+
+RT Conference Proceedings
+ID 560452
+A1 Lecun,Yann
+A1 Galland,Conrad,C.
+A1 Hinton,Geoffrey,E.
+YR 1988
+T1 GEMINI: Gradient Estimation Through Matrix Inversion After Noise Injection
+SP 141
+OP 148
+
+RT Journal Article
+ID 31707161
+A1 GORDON,B
+A1 GORDON,K
+A1 HINTON,G
+A1 CADERA,W
+A1 FELEKI,V
+A1 BAYLERAN,J
+A1 HECHTMAN,P
+YR 1988
+T1 Tay-Sachs disease: B1 variant
+JF Pediatric Neurology
+VO 4
+SP 54
+OP 57
+IS 1
+
+RT Conference Proceedings
+ID 49850112
+A1 Hinton,G.
+A1 Riches,R.
+A1 Jasper,C.
+A1 Lai,K.
+YR 1988
+T1 A Register Scoreboarding Mechanism
+
+RT Conference Proceedings
+ID 49854544
+A1 Waibel,A.
+A1 Hanazawa,T.
+A1 Hinton,G.
+A1 Shikano,K.
+A1 Lang,K.
+YR 1988
+T1 Phoneme recognition: neural networks vs. hidden Markov models vs. hidden Markov models
+SP 107
+
+RT Conference Proceedings
+ID 49847147
+A1 Hinton,G.
+A1 Lai,K.
+A1 Steck,R.
+YR 1988
+T1 Microarchitecture of the 80960 high-integration processors
+
+RT Journal Article
+ID 1969022
+A1 Hinton,G.,E.
+A1 Nolan,S.,J.
+YR 1987
+T1 How Learning Can Guide Evolution
+
+RT Journal Article
+ID 847560
+A1 Fahlman,Scott,E.
+A1 Hinton,Geoffrey,E.
+YR 1987
+T1 Connectionist Architectures for Artificial Intelligence
+JF IEEE Computer
+VO 20
+SP 100
+OP 109
+IS 1
+
+RT Journal Article
+ID 1975364
+A1 Plaut,David,C.
+A1 Hinton,Geoffrey,E.
+YR 1987
+T1 Learning sets of filters using back-propagation
+JF Computer Speech & Language
+
+RT Conference Proceedings
+ID 560209
+A1 Hinton,Geoffrey,E.
+A1 Mcclelland,James,L.
+YR 1987
+T1 Learning Representations by Recirculation
+SP 358
+OP 366
+
+RT Journal Article
+ID 1977824
+A1 Hinton,Geoffrey,E.
+A1 Plaut,David,C.
+YR 1987
+T1 Using Fast Weights to Deblur Old Memories
+
+RT Book, Whole
+ID 627119
+A1 Hinton,Geoffrey,E.
+YR 1987
+T1 Learning Translation Invariant Recognition in Massively Parallel Networks
+SP 1
+OP 13
+
+RT Journal Article
+ID 1991683
+A1 Hinton,G.,E.
+A1 Nowlan,S.,J.
+YR 1987
+T1 How learning guides evolution
+
+RT Journal Article
+ID 2070520
+A1 Hinton,Geoffrey,E
+YR 1987
+T1 The horizontal-vertical delusion
+JF Perception
+VO 16
+SP 677
+OP 680
+IS 5
+
+RT Journal Article
+ID 15258435
+A1 Hinton,Geoffrey,E.
+YR 1987
+T1 Models of human inference
+JF Computational Intelligence
+VO 3
+SP 189
+OP 190
+IS 1
+
+RT Conference Proceedings
+ID 1250862
+A1 Rumelhart,David,E.
+A1 Hinton,Geoffrey,E.
+A1 Williams,Ronald,J.
+YR 1986
+T1 Learning internal representations by error propagation
+
+RT Journal Article
+ID 1251740
+A1 Rumelhart,David,E.
+A1 Hinton,Geoffrey,E.
+A1 Williams,Ronald,J.
+YR 1986
+T1 Learning representations by back-propagating errors
+JF Nature
+VO 323
+SP 533
+OP 536
+IS 6088
+
+RT Journal Article
+ID 1258922
+A1 Rumelhart,D.,E.
+A1 Hinton,G.,E.
+A1 Williams,R.,J.
+YR 1986
+T1 In parallel distributed processing: explorations in the microstructure of cognition
+
+RT Conference Proceedings
+ID 1334820
+A1 Hinton,G.,E.
+A1 Sejnowski,T.,J.
+YR 1986
+T1 Learning and relearning in boltzmann machines
+
+RT Journal Article
+ID 1992468
+A1 Hinton,G.,E.
+YR 1986
+T1 Learning distributed representations of concepts
+
+RT Conference Proceedings
+ID 1986550
+A1 Rumelhart,D.,E.
+A1 Hinton,G.,E.
+A1 Mcclelland,J.,L.
+YR 1986
+T1 A general framework for parallel distributed processing
+
+RT Journal Article
+ID 1276001
+A1 Mcclelland,J.,L.
+A1 Rumelhart,D.,E.
+A1 Hinton,G.,E.
+YR 1986
+T1 The appeal of parallel distributed processing
+
+RT Journal Article
+ID 1349021
+A1 Rumelhart,D.,E.
+A1 Hinton,G.,E.
+YR 1986
+T1 Williams "learning internal representations by error propagation" in" parallel distributed processing
+
+RT Journal Article
+ID 2040888
+A1 Rumelhart,D.,E.
+A1 Smolensky,P.
+A1 Mcclelland,J.,L.
+A1 Hinton,G.,E.
+YR 1986
+T1 Schemata and sequential thought processes in pdp models
+
+RT Conference Proceedings
+ID 5364754
+A1 SEJNOWSKI,Terrence,J.
+A1 KIENKER,Paul,K.
+A1 HINTON,Geoffrey,E.
+YR 1986
+T1 LEARNING SYMMETRY GROUPS WITH HIDDEN UNITS: BEYOND THE PERGEPTRON
+
+RT Journal Article
+ID 2009504
+A1 Rumelhart,D.,E.
+A1 Hinton,G.,E.
+A1 Williams,R.,J.
+YR 1986
+T1 Leaning internal representations by back-propagating errors
+
+RT Journal Article
+ID 3731533
+A1 Kienker,Paul,K
+A1 Sejnowskill,Terrence,J
+A1 Hinton,Geoffrey,E
+A1 Schumacher,Lee,E
+YR 1986
+T1 Separating figure from ground with a parallel network
+JF Perception
+VO 15
+SP 197
+OP 216
+IS 2
+
+RT Journal Article
+ID 2002240
+A1 Rumelhart,D.,E.
+A1 Hinton,G.
+A1 Williams,R.
+YR 1986
+T1 Learning Internal Representations through Error Propagation
+
+RT Journal Article
+ID 3557843
+A1 Rumelhart,D.,E.
+A1 Hinton,G.,E.
+A1 Williams,R.,J.
+YR 1986
+T1 PDP: Computational models of cognition and perception
+
+RT Journal Article
+ID 53752484
+A1 Rumelhart,David,E.
+A1 Hinton,Geoffrey,E.
+A1 Williams,Ronald,J.
+YR 1986
+T1 Learning representations by back-propagating errors
+JF Nature
+VO 323
+SP 533
+OP 536
+
+RT Journal Article
+ID 31705771
+A1 ZOCHODNE,D
+A1 HINTON,G
+A1 DELMAESTRO,R
+A1 COATES,R
+A1 ECCLESTONE,E
+YR 1986
+T1 Intradural spinal hematoma in an infant with cystic fibrosis
+JF Pediatric Neurology
+VO 2
+SP 311
+OP 313
+IS 5
+
+RT Journal Article
+ID 3072232
+A1 Plaut,D.,C.
+A1 Nowlan,S.,J.
+A1 Hinton,G.,E.
+YR 1986
+T1 Experiments on learning in a multilayered perceptron in the presence of data jitter
+
+RT Conference Proceedings
+ID 490362
+A1 Mcdermott,Drew,V.
+A1 Hinton,Geoffrey,E.
+YR 1986
+T1 Learning in Massively Parallel Nets (Panel)
+SP 1149
+
+RT Journal Article
+ID 52570228
+A1 Pearlmutter,Barak,A.
+A1 Hinton,Geoffrey,E.
+YR 1986
+T1 G-maximization: an unsupervised learning procedure for discovering regularities
+VO 151
+SP 333
+OP 338
+
+RT Journal Article
+ID 56776736
+A1 Pearlmutter,Barak,A.
+A1 Hinton,Geoffrey,E.
+YR 1986
+T1 G-maximization: an unsupervised learning procedure for discovering regularities
+
+RT Journal Article
+ID 844952
+A1 Ackley,David,H.
+A1 Hinton,Geoffrey,E.
+A1 Sejnowski,Terrence,J.
+YR 1985
+T1 A learning algorithm for Boltzmann machines
+JF Cognitive Science
+VO 9
+SP 147
+OP 169
+IS 1
+
+RT Conference Proceedings
+ID 615099
+A1 Touretzky,David,S.
+A1 Hinton,Geoffrey,E.
+YR 1985
+T1 Symbols Among the Neurons: Details of a Connectionist Inference Architecture
+SP 238
+OP 243
+
+RT Conference Proceedings
+ID 614670
+A1 Hinton,Geoffrey,E.
+A1 Lang,Kevin,J.
+YR 1985
+T1 Shape Recognition and Illusory Conjunctions
+SP 252
+OP 259
+
+RT Journal Article
+ID 36616839
+A1 Hinton,Geoffrey,E.
+YR 1985
+T1 Three frames suffice
+JF Behavioral and Brain Sciences
+VO 8
+SP 296
+IS 02
+
+RT Journal Article
+ID 1318471
+A1 Hinton,G.,E.
+A1 Sejnowski,T.,J.
+A1 Ackley,D.,H.
+YR 1984
+T1 Boltzmann machines: constrained satisfaction networks that learn
+
+RT Journal Article
+ID 37239354
+A1 Hutchins,Edwin
+A1 Hinton,Geoffrey,E
+YR 1984
+T1 Why the islands move
+JF Perception
+VO 13
+SP 629
+OP 632
+IS 5
+
+RT Journal Article
+ID 14207164
+A1 Hinton,Geoffrey,E.
+A1 Sejnowski,Terrence,J.
+YR 1984
+T1 LEARNING SEMANTIC FEATURES
+
+RT Conference Proceedings
+ID 12406463
+A1 Hinton,Geoffrey,E.
+A1 Sejnowski,J.
+YR 1983
+T1 OPTIMAL PERCEPTUAL INFERENCE
+
+RT Journal Article
+ID 14831890
+A1 Ballard,Dana,H.
+A1 Hinton,Geoffrey,E.
+A1 Sejnowski,Terrence,J.
+YR 1983
+T1 Parallel visual computation
+JF Nature
+VO 306
+SP 21
+OP 26
+IS 5938
+
+RT Conference Proceedings
+ID 491530
+A1 Fahlman,Scott,E.
+A1 Hinton,Geoffrey,E.
+A1 Sejnowski,Terrence,J.
+YR 1983
+T1 Massively Parallel Architectures for AI: NETL, Thistle, and Boltzmann Machines
+SP 109
+OP 113
+
+RT Journal Article
+ID 51779733
+A1 Ballard,Dana,H.
+A1 Hinton,Geoffrey,E.
+A1 Sejnowski,Terrence,J.
+YR 1983
+T1 Parallel visual computation
+JF Nature
+VO 306
+SP 21
+OP 26
+
+RT Journal Article
+ID 61399917
+A1 Hinton,G.,E.
+A1 Sejnowski,T.,J.
+YR 1983
+T1 Analysing cooperative computation
+
+RT Journal Article
+ID 1317268
+A1 Hinton,G.
+A1 Anderson,J.
+YR 1981
+T1 Parallel models of associative memory
+
+RT Journal Article
+ID 1306202
+A1 Hinton,G.,E.
+YR 1981
+T1 Implementing semantic networks in parallel hardware
+
+RT Journal Article
+ID 2013171
+A1 Anderson,J.,A.
+A1 Hinton,G.,E.
+YR 1981
+T1 Models of information processing in the brain
+
+RT Conference Proceedings
+ID 1834357
+A1 Hinton,Geoffrey,E.
+YR 1981
+T1 A Parallel Computation that Assigns Canonical Object-Based Frames of Reference
+SP 683
+OP 685
+
+RT Conference Proceedings
+ID 614677
+A1 Hinton,Geoffrey,E.
+YR 1981
+T1 Shape Representation in Parallel Systems
+SP 1088
+OP 1096
+
+RT Journal Article
+ID 1979707
+A1 Hinton,G.,E.
+A1 Parsons,L.,M.
+YR 1981
+T1 Frames of reference and mental imagery
+
+RT Journal Article
+ID 36615552
+A1 Hinton,Geoffrey,E.
+YR 1980
+T1 Inferring the meaning of direct perception
+JF Behavioral and Brain Sciences
+VO 3
+SP 387
+IS 03
+
+RT Journal Article
+ID 1319078
+A1 Hinton,Geoffrey
+YR 1979
+T1 Some Demonstrations of the Effects of Structural Descriptions in Mental Imagery
+JF Cognitive Science
+VO 3
+SP 231
+OP 250
+IS 3
+
+RT Journal Article
+ID 36942453
+A1 Hinton,Geoffrey
+YR 1979
+T1 Intentional Homunculi
+JF Psyccritiques
+VO 24
+IS 10
+
+RT Journal Article
+ID 1969347
+A1 Hinton,G.,E.
+YR 1978
+T1 Relaxation and its Role in Vision
+
+RT Conference Proceedings
+ID 508267
+A1 Sloman,Aaron
+A1 Owen,David
+A1 Hinton,Geoffrey,E.
+A1 Birch,Frank
+A1 O'gorman,Frank
+YR 1978
+T1 Representation and Control in Vision
+SP 309
+OP 314
+
+RT Conference Proceedings
+ID 507758
+A1 Hinton,Geoffrey,E.
+YR 1976
+T1 Using Relaxation to find a Puppet
+SP 148
+OP 157
+
+RT Journal Article
+ID 1976932
+A1 Plaut,David,C.
+A1 Nowlan,Steven,J.
+A1 Hinton,Geoffrey,E.
+T1 Experiments on Learning by Back Propagation
+
+RT Journal Article
+ID 2004182
+A1 Hinton,Geoffrey,E.
+A1 Nowlan,Steven,J.
+T1 How Learning Can Guide Evolution
+
+RT Journal Article
+ID 12080470
+A1 Maaten,Laurens,van,der
+A1 Hinton,Geoffrey
+T1 Visualizing Data using t-SNE
+JF Journal of Machine Learning Research
+
+RT Journal Article
+ID 6568880
+A1 Mohamed,Abdel-rahman
+A1 Dahl,George
+A1 Hinton,Geoffrey
+T1 Deep Belief Networks for phone recognition
+
+RT Journal Article
+ID 4052745
+A1 Revow,Michael
+A1 Williams,Christopher,K.,I.
+A1 Hinton,Geo,Rey,E.
+T1 Using mixtures of deformable models to capture variations in hand printed digits
+
+RT Journal Article
+ID 4043291
+A1 Hinton,G.,E.
+A1 Osindero,S.
+A1 Welling,M.
+A1 Teh,Y.,W.
+T1 Unsupervised Discovery of Non-Linear Structure using Contrastive Backpropagation
+JF Cognitive Science
+
+RT Journal Article
+ID 6479036
+A1 Palatucci,Mark
+A1 Pomerleau,Dean
+A1 Hinton,Geoffrey
+A1 Mitchell,Tom,M.
+T1 Zero-Shot Learning with Semantic Output Codes
+
+RT Journal Article
+ID 10916497
+A1 Susskind,Joshua,M.
+A1 Hinton,Geoffrey,E.
+A1 Movellan,Javier,R.
+A1 Anderson,Adam,K.
+T1 Generating Facial Expressions with Deep Belief Nets
+
+RT Conference Proceedings
+ID 12801062
+A1 Hinton,Geoffrey,E.
+T1 Modelling High-Dimensional Data by Combining Simple Experts
+
+RT Conference Proceedings
+ID 6478685
+A1 Salakhutdinov,Ruslan
+A1 Hinton,Geoffrey
+T1 Replicated Softmax: an Undirected Topic Model
+
+RT Journal Article
+ID 12995306
+A1 Hinton,Geoffrey,E.
+T1 Computation by neural networks
+
+RT Book, Whole
+ID 48805599
+A1 Hinton,Geoffrey,E.
+A1 Krizhevsky,Alex
+A1 Wang,Sida,D.
+T1 Transforming Auto-Encoders
+
+RT Journal Article
+ID 13067553
+A1 Rumelhart,D.,E.
+A1 Hinton,G.,E.
+T1 Principles of Neurodynamics . New York: Spartan Books, 1959. (2)
+
+RT Journal Article
+ID 12306198
+A1 LEWIS,MARC
+A1 MILLER,FREDA
+A1 MURTHA,SUSAN
+A1 Centre,Baycrest
+A1 HINTON,GEOFFREY
+T1 NEUROSCIENCE CALENDAR
+
+RT Journal Article
+ID 11846087
+A1 Revow,Michael
+A1 Williams,Christopher,K.,I.
+A1 Hinton,Geoffrey,E.
+T1 nerative Models for andwritten Digit Recognition
+
+RT Journal Article
+ID 290131
+A1 Ghahramani,Zoubin
+A1 Korenberg,Alexander,T.
+A1 Hinton,Geoffrey,E.
+T1 Scaling in a Hierarchical Unsupervised Network1
+
+RT Journal Article
+ID 132403
+A1 Ghahramani,Zoubin
+A1 Hinton,Geoffrey,E.
+T1 A Bayesian Unsupervised Learning Algorithm that Scales
+
+RT Journal Article
+ID 14200322
+A1 Hinton,Geoffrey,E.
+A1 Sejnowski,Terrence,J.
+T1 COOPERATIVE:COMPUTATION
+
+RT Journal Article
+ID 12886654
+A1 Dayan,Peter
+A1 Hinton,Geoffrey,E
+T1 UsingEMforReinforcementLearning
+
+RT Journal Article
+ID 5220600
+A1 Salakhutdinov,Ruslan
+A1 Hinton,Geoffrey
+T1 Learning and Evaluaing Deep Bolztmann Machines
+
+RT Journal Article
+ID 13017163
+A1 Salakhutdinov,Ruslan
+A1 Hinton,Geoff
+T1 Nonlinear Dimensionality Reduction using Neural Networks
+
+RT Journal Article
+ID 13040733
+A1 FREY,BRENDAN,J.
+A1 HINTON,GEOFFREY,E.
+T1 Coding and an Application to a Bayesian Network Source Model
+
+RT Journal Article
+ID 11794009
+A1 Zemel,Richard,S.
+A1 Hinton,Geoffrey,E.
+T1 Developing Population Codes For Object Instantiation Parameters

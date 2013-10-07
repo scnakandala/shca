@@ -1,0 +1,3850 @@
+RT Journal Article
+ID 59725836
+A1 Janzing,D.
+A1 Mooij,J.,M.
+A1 Zhang,K.
+A1 Lemeire,J.
+A1 Zscheischler,J.
+A1 Daniušis,P.
+A1 Steudel,B.
+A1 Schölkopf,B.
+YR 2012
+T1 Information-geometric approach to inferring causal directions
+JF Artificial Intelligence
+SP 1
+OP 31
+
+RT Journal Article
+ID 58746151
+A1 Hill,N,J
+A1 Schölkopf,B
+YR 2012
+T1 An online brain–computer interface based on shifting attention to concurrent streams of auditory stimuli
+JF Journal of Neural Engineering
+VO 9
+SP 26011
+IS 2
+
+RT Journal Article
+ID 58746197
+A1 Grosse-Wentrup,Moritz
+A1 Schölkopf,Bernhard
+YR 2012
+T1 High gamma-power predicts performance in sensorimotor-rhythm brain–computer interfaces
+JF Journal of Neural Engineering
+VO 9
+SP 46001
+IS 4
+
+RT Journal Article
+ID 56548313
+A1 Kam-Thong,Tony
+A1 Czamara,Darina
+A1 Tsuda,Koji
+A1 Borgwardt,Karsten
+A1 Lewis,Cathryn,M
+A1 Erhardt-Lehmann,Angelika
+A1 Hemmer,Bernhard
+A1 Rieckmann,Peter
+A1 Daake,Markus
+A1 Weber,Frank
+A1 Wolf,Christiane
+A1 Ziegler,Andreas
+A1 Pütz,Benno
+A1 Holsboer,Florian
+A1 Schölkopf,Bernhard
+A1 Müller-Myhsok,Bertram
+YR 2011
+T1 EPIBLASTER-fast exhaustive two-locus epistasis detection strategy using graphical processing units
+JF European Journal of Human Genetics
+VO 19
+SP 465
+OP 471
+IS 4
+
+RT Journal Article
+ID 14534335
+A1 Grosse-Wentrup,Moritz
+A1 Schölkopf,Bernhard
+A1 Hill,Jeremy
+YR 2011
+T1 Causal influence of gamma oscillations on the sensorimotor rhythm
+JF Neuroimage
+VO 56
+SP 837
+OP 842
+IS 2
+
+RT Journal Article
+ID 57446669
+A1 Kitching,Thomas
+A1 Amara,Adam
+A1 Gill,Mandeep
+A1 Harmeling,Stefan
+A1 Heymans,Catherine
+A1 Massey,Richard
+A1 Rowe,Barnaby
+A1 Schrabback,Tim
+A1 Voigt,Lisa
+A1 Balan,Sreekumar
+A1 Bernstein,Gary
+A1 Bethge,Matthias
+A1 Bridle,Sarah
+A1 Courbin,Frederic
+A1 Gentile,Marc
+A1 Heavens,Alan
+A1 Hirsch,Michael
+A1 Hosseini,Reshad
+A1 Kiessling,Alina
+A1 Kirk,Donnacha
+A1 Kuijken,Konrad
+A1 Mandelbaum,Rachel
+A1 Moghaddam,Baback
+A1 Nurbaeva,Guldariya
+A1 Paulin-Henriksson,Stephane
+A1 Rassat,Anais
+A1 Rhodes,Jason
+A1 Schölkopf,Bernhard
+A1 Shawe-Taylor,John
+A1 Shmakova,Marina
+A1 Taylor,Andy
+A1 Velander,Malin
+A1 Waerbeke,Ludovic,van
+A1 Witherick,Dugan
+A1 Wittman,David
+YR 2011
+T1 Gravitational Lensing Accuracy Testing 2010 (GREAT10) Challenge Handbook
+JF Annals of Applied Statistics
+VO 5
+SP 2231
+OP 2263
+IS 2011
+
+RT Journal Article
+ID 53752947
+A1 Gomez-Rodriguez,M.
+A1 Peters,J.
+A1 Hill,J.
+A1 Schölkopf,B.
+A1 Gharabaghi,A.
+A1 Grosse-Wentrup,M.
+YR 2011
+T1 Closing the sensorimotor loop: haptic feedback facilitates decoding of motor imagery
+JF Journal of Neural Engineering
+VO 8
+SP 36005
+IS 3
+
+RT Journal Article
+ID 48174419
+A1 Mantlik,Frederic
+A1 Hofmann,Matthias
+A1 Werner,Matthias,K.
+A1 Sauter,Alexander
+A1 Kupferschläger,Jürgen
+A1 Schölkopf,Bernhard
+A1 Pichler,Bernd,J.
+A1 Beyer,Thomas
+YR 2011
+T1 The effect of patient positioning aids on PET quantification in PET/MR imaging
+JF European Journal of Nuclear Medicine and Molecular Imaging
+VO 38
+SP 920
+OP 929
+IS 5
+
+RT Journal Article
+ID 51194016
+A1 Peters,Jonas
+A1 Janzing,Dominik
+A1 Scholkopf,Bernhard
+YR 2011
+T1 Causal Inference on Discrete Data Using Additive Noise Models
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 33
+SP 2436
+OP 2450
+IS 12
+
+RT Journal Article
+ID 39326316
+A1 Georgii,Elisabeth
+A1 Tsuda,Koji
+A1 Schölkopf,Bernhard
+YR 2011
+T1 Multi-way set enumeration in weight tensors
+JF Machine Learning
+VO 82
+SP 123
+OP 155
+IS 2
+
+RT Journal Article
+ID 39326930
+A1 Martens,Suzanna
+A1 Mooij,Joris,M.
+A1 Hill,N.,Jeremy
+A1 Farquhar,Jason
+A1 Schölkopf,Bernhard
+YR 2011
+T1 A Graphical Model Framework for Decoding in the Visual ERP-Based BCI Speller
+JF Neural Computation
+VO 23
+SP 160
+OP 182
+IS 1
+
+RT Conference Proceedings
+ID 56988588
+A1 Hirsch,Michael
+A1 Schuler,Christian,J.
+A1 Harmeling,Stefan
+A1 Scholkopf,Bernhard
+YR 2011
+T1 Fast removal of non-uniform camera shake
+SP 463
+OP 470
+
+RT Conference Proceedings
+ID 56988613
+A1 Schuler,Christian,J.
+A1 Hirsch,Michael
+A1 Harmeling,Stefan
+A1 Scholkopf,Bernhard
+YR 2011
+T1 Non-stationary correction of optical aberrations
+SP 659
+OP 666
+
+RT Conference Proceedings
+ID 51148233
+A1 Bocsi,Botond
+A1 Nguyen-Tuong,Duy
+A1 Csato,Lehel
+A1 Scholkopf,Bernhard
+A1 Peters,Jan
+YR 2011
+T1 Learning inverse kinematics with structured prediction
+SP 698
+OP 703
+
+RT Conference Proceedings
+ID 56927304
+A1 Bocsi,Botond
+A1 Nguyen-Tuong,Duy
+A1 Csato,Lehel
+A1 Scholkopf,Bernhard
+A1 Peters,Jan
+YR 2011
+T1 Learning inverse kinematics with structured prediction
+SP 698
+OP 703
+
+RT Journal Article
+ID 59683722
+A1 Mooij,J.,M.
+A1 Janzing,D.
+A1 Heskes,T.
+A1 Schölkopf,B.
+YR 2011
+T1 On causal discovery with cyclic additive noise model
+JF IEEE Transactions on Parallel and Distributed Systems
+
+RT Journal Article
+ID 39315303
+A1 Rodriguez,Manuel,Gomez
+A1 Balduzzi,David
+A1 Schölkopf,Bernhard
+YR 2011
+T1 Uncovering the Temporal Dynamics of Diffusion Networks
+JF Computing Research Repository
+VO abs/1105.0
+
+RT Conference Proceedings
+ID 51096967
+A1 Gomez-Rodriguez,M.
+A1 Grosse-Wentrup,M.
+A1 Hill,J.
+A1 Gharabaghi,A.
+A1 Scholkopf,B.
+A1 Peters,J.
+YR 2011
+T1 Towards brain-robot interfaces in stroke rehabilitation
+SP 1
+OP 6
+
+RT Journal Article
+ID 55188664
+A1 Hirsch,M.
+A1 Harmeling,S.
+A1 Sra,S.
+A1 Schölkopf,B.
+YR 2011
+T1 Online multi-frame blind deconvolution with super-resolution and saturation correction
+JF Astronomy & Astrophysics
+VO 531
+SP 9
+
+RT Conference Proceedings
+ID 51148214
+A1 Wang,Zhikun
+A1 Lampert,Christoph,H.
+A1 Mulling,Katharina
+A1 Scholkopf,Bernhard
+A1 Peters,Jan
+YR 2011
+T1 Learning anticipation policies for robot table tennis
+SP 332
+OP 337
+
+RT Conference Proceedings
+ID 56927530
+A1 Wang,Zhikun
+A1 Lampert,Christoph,H.
+A1 Mulling,Katharina
+A1 Scholkopf,Bernhard
+A1 Peters,Jan
+YR 2011
+T1 Learning anticipation policies for robot table tennis
+SP 332
+OP 337
+
+RT Conference Proceedings
+ID 51072071
+A1 Besserve,M.
+A1 Janzing,D.
+A1 Logothetis,N.,K.
+A1 Scholkopf,B.
+YR 2011
+T1 Finding dependencies between frequencies with the kernel cross-spectral density
+SP 2080
+OP 2083
+
+RT Conference Proceedings
+ID 51040918
+A1 Burger,Harold,Christopher
+A1 Scholkopf,Bernhard
+A1 Harmeling,Stefan
+YR 2011
+T1 Removing noise from astronomical images using a pixel-specific noise model
+
+RT Journal Article
+ID 56907641
+A1 Achlioptas,Panagiotis
+A1 Schölkopf,Bernhard
+A1 Borgwardt,Karsten
+YR 2011
+T1 Two-locus association mapping in subquadratic time
+SP 726
+OP 734
+
+RT Book, Whole
+ID 49076130
+A1 Luxburg,Ulrike,von
+A1 Schölkopf,Bernhard
+YR 2011
+T1 Statistical Learning Theory: Models, Concepts, and Results
+VO 10
+SP 651
+OP 706
+
+RT Conference Proceedings
+ID 13759014
+A1 Kober,Jens
+A1 Mülling,Katharina
+A1 Kroemer,Oliver
+A1 Lampert,Christoph,H.
+A1 Schölkopf,Bernhard
+A1 Peters,Jan
+YR 2010
+T1 Movement templates for learning of hitting and batting
+SP 853
+OP 858
+
+RT Journal Article
+ID 27807500
+A1 Camps-Valls,Gustavo
+A1 Mooij,Joris
+A1 Scholkopf,Bernhard
+YR 2010
+T1 Remote Sensing Feature Selection by Kernel Dependence Measures
+JF IEEE Geoscience and Remote Sensing Letters
+VO 7
+SP 587
+OP 591
+IS 3
+
+RT Conference Proceedings
+ID 39261457
+A1 Hirsch,Michael
+A1 Sra,Suvrit
+A1 Schölkopf,Bernhard
+A1 Harmeling,Stefan
+YR 2010
+T1 Efficient filter flow for space-variant multiframe blind deconvolution
+SP 607
+OP 614
+
+RT Journal Article
+ID 7014253
+A1 Guyon,Isabelle
+A1 Janzing,Dominik
+A1 Schölkopf,Bernhard
+YR 2010
+T1 Causality: Objectives and Assessment
+VO 6
+SP 1
+OP 42
+
+RT Journal Article
+ID 6794163
+A1 Seeger,Matthias
+A1 Nickisch,Hannes
+A1 Pohmann,Rolf
+A1 Schölkopf,Bernhard
+YR 2010
+T1 Optimization of k-Space Trajectories for Compressed Sensing by Bayesian Experimental Design
+
+RT Journal Article
+ID 27676750
+A1 Sriperumbudur,Bharath,K.
+A1 Gretton,Arthur
+A1 Fukumizu,Kenji
+A1 Schölkopf,Bernhard
+A1 Lanckriet,Gert,R.,G.
+YR 2010
+T1 Hilbert Space Embeddings and Metrics on Probability Measures
+JF Journal of Machine Learning Research
+VO 11
+SP 1517
+OP 1561
+
+RT Journal Article
+ID 4811745
+A1 Peters,Jonas
+A1 Janzing,Dominik
+A1 Gretton,Arthur
+A1 Schölkopf,Bernhard
+YR 2010
+T1 Kernel Methods for Detecting the Direction of Time Series
+
+RT Journal Article
+ID 15229090
+A1 Besserve,Michel
+A1 Schölkopf,Bernhard
+A1 Logothetis,Nikos,K.
+A1 Panzeri,Stefano
+YR 2010
+T1 Causal relationships between frequency bands of extracellular signals in visual cortex revealed by an information theoretic analysis
+JF Journal of Computational Neuroscience
+VO 29
+SP 547
+OP 566
+IS 3
+
+RT Journal Article
+ID 39324773
+A1 Peters,Jonas
+A1 Janzing,Dominik
+A1 Schölkopf,Bernhard
+YR 2010
+T1 Identifying Cause and Effect on Discrete Data using Additive Noise Models
+JF Journal of Machine Learning Research
+VO 9
+SP 597
+OP 604
+
+RT Conference Proceedings
+ID 39278907
+A1 Gomez-Rodriguez,Manuel
+A1 Peters,Jan
+A1 Hill,J.
+A1 Schölkopf,Bernhard
+A1 Gharabaghi,Alireza
+A1 Grosse-Wentrup,Moritz
+YR 2010
+T1 Closing the sensorimotor loop: Haptic feedback facilitates decoding of arm movement imagery
+SP 121
+OP 126
+
+RT Journal Article
+ID 27646693
+A1 Kitching,Thomas
+A1 Balan,Sreekumar
+A1 Bernstein,Gary
+A1 Bethge,Matthias
+A1 Bridle,Sarah
+A1 Courbin,Frederic
+A1 Gentile,Marc
+A1 Heavens,Alan
+A1 Hirsch,Michael
+A1 Hosseini,Reshad
+A1 Kiessling,Alina
+A1 Amara,Adam
+A1 Kirk,Donnacha
+A1 Kuijken,Konrad
+A1 Mandelbaum,Rachel
+A1 Moghaddam,Baback
+A1 Nurbaeva,Guldariya
+A1 Rassat,Anais
+A1 Rhodes,Jason
+A1 Schölkopf,Bernhard
+A1 Shawe-Taylor,John
+A1 Gill,Mandeep
+A1 Shmakova,Marina
+A1 Taylor,Andy
+A1 Velander,Malin
+A1 Waerbeke,Ludovic,van
+A1 Witherick,Dugan
+A1 Wittman,David
+A1 Harmeling,Stefan
+A1 Heymans,Catherine
+A1 Massey,Richard
+A1 Rowe,Barnaby
+A1 Schrabback,Tim
+A1 Voigt,Lisa
+YR 2010
+T1 Gravitational Lensing Accuracy Testing 2010 (GREAT10) Challenge Handbook
+
+RT Journal Article
+ID 43811199
+A1 Bridle,Sarah
+A1 Balan,Sreekumar,T.
+A1 Bethge,Matthias
+A1 Gentile,Marc
+A1 Harmeling,Stefan
+A1 Heymans,Catherine
+A1 Hirsch,Michael
+A1 Hosseini,Reshad
+A1 Jarvis,Mike
+A1 Kirk,Donnacha
+A1 Kitching,Thomas
+A1 Kuijken,Konrad
+A1 Lewis,Antony
+A1 Paulin-Henriksson,Stephane
+A1 Schölkopf,Bernhard
+A1 Velander,Malin
+A1 Voigt,Lisa
+A1 Witherick,Dugan
+A1 Amara,Adam
+A1 Bernstein,Gary
+A1 Courbin,Frédéric
+A1 Gill,Mandeep
+A1 Heavens,Alan
+A1 Mandelbaum,Rachel
+A1 Massey,Richard
+A1 Moghaddam,Baback
+A1 Rassat,Anais
+A1 Réfrégier,Alexandre
+A1 Rhodes,Jason
+A1 Schrabback,Tim
+A1 Shawe-Taylor,John
+A1 Shmakova,Marina
+A1 Waerbeke,Ludovic,Van
+A1 Wittman,David
+YR 2010
+T1 Results of the GREAT08 Challenge★: an image analysis competition for cosmological lensing: Results of the GREAT08 Challenge
+JF Monthly Notices of The Royal Astronomical Society
+VO 405
+
+RT Conference Proceedings
+ID 50949334
+A1 Gomez-Rodriguez,M.
+A1 Grosse-Wentrup,M.
+A1 Peters,J.
+A1 Naros,G.
+A1 Hill,J.
+A1 Scholkopf,B.
+A1 Gharabaghi,A.
+YR 2010
+T1 Epidural ECoG Online Decoding of Arm Movement Intention in Hemiparesis
+
+RT Conference Proceedings
+ID 13764168
+A1 Janzing,Dominik
+A1 Hoyer,Patrik,O.
+A1 Schölkopf,Bernhard
+YR 2010
+T1 Telling cause from effect based on high-dimensional observations
+SP 479
+OP 486
+
+RT Book, Whole
+ID 13983188
+A1 Schwamberger,Valentin
+A1 Le,Pham,Hai,Dang
+A1 Schölkopf,Bernhard
+A1 Franz,Matthias,O.
+YR 2010
+T1 The Influence of the Image Basis on Modeling and Steganalysis Performance
+SP 133
+OP 144
+
+RT Conference Proceedings
+ID 50908717
+A1 Sriperumbudur,Bharath,K.
+A1 Fukumizu,Kenji
+A1 Gretton,Arthur
+A1 Scholkopf,B.
+A1 Lanckriet,G.
+YR 2010
+T1 Non-parametric estimation of integral probability metrics
+
+RT Journal Article
+ID 56077082
+A1 Schwamberger,Valentin
+A1 Le,Pham,Hai,Dang
+A1 Schölkopf,Bernhard
+A1 Franz,Matthias,O.
+YR 2010
+T1 The Influence of the Image Basis on Modeling and Steganalysis Performance
+
+RT Journal Article
+ID 39330055
+A1 Janzing,Dominik
+A1 Schölkopf,Bernhard
+YR 2010
+T1 Causal inference using the algorithmic Markov condition
+JF IEEE Transactions on Information Theory
+VO 56
+SP 5168
+OP 5194
+IS 10
+
+RT Conference Proceedings
+ID 39268239
+A1 Harmeling,Stefan
+A1 Sra,Suvrit
+A1 Hirsch,Michael
+A1 Schölkopf,Bernhard
+YR 2010
+T1 Multiframe blind deconvolution, super-resolution, and saturation correction via incremental EM
+SP 3313
+OP 3316
+
+RT Journal Article
+ID 28150422
+A1 Wichmann,F.
+A1 Kienzle,W.
+A1 Scholkopf,B.
+A1 Franz,M.
+YR 2010
+T1 Visual saliency re-visited: Center-surround patterns emerge as optimal predictors for human fixation targets
+JF Journal of Vision
+VO 8
+SP 635
+OP 635
+IS 6
+
+RT Journal Article
+ID 28220367
+A1 Wichmann,F.,A.
+A1 Kienzle,W.
+A1 Scholkopf,B.
+A1 Franz,M.
+YR 2010
+T1 Non-linear System Identification: Visual Saliency Inferred from Eye-Movement Data
+JF Journal of Vision
+VO 9
+SP 32
+OP 32
+IS 8
+
+RT Book, Whole
+ID 13308142
+A1 Hirsch,Michael
+A1 Schölkopf,Bernhard
+A1 Habeck,Michael
+YR 2010
+T1 A New Algorithm for Improving the Resolution of Cryo-EM Density Maps
+SP 174
+OP 188
+
+RT Journal Article
+ID 39339999
+A1 Steinke,Florian
+A1 Hein,Matthias
+A1 Schölkopf,Bernhard
+YR 2010
+T1 Nonparametric Regression between General Riemannian Manifolds
+VO 3
+SP 527
+OP 563
+IS 3
+
+RT Journal Article
+ID 7014205
+A1 Hofmann,Matthias
+A1 Pichler,Bernd
+A1 Schölkopf,Bernhard
+A1 Beyer,Thomas
+YR 2009
+T1 Towards quantitative PET/MRI: a review of MR-based attenuation correction techniques
+JF European Journal of Nuclear Medicine and Molecular Imaging
+VO 36
+SP 93
+OP 104
+IS S1
+
+RT Journal Article
+ID 37562539
+A1 Martens,S.,M.,M.
+A1 Hill,N.,J.
+A1 Farquhar,J.,D.,R.
+A1 Schölkopf,B.
+YR 2009
+T1 Overlap and refractory effects in a brain–computer interface speller based on the visual P300 event-related potential
+JF Journal of Neural Engineering
+VO 6
+SP 26003
+OP 9
+IS 2
+
+RT Journal Article
+ID 4927111
+A1 Shin,Hyunjung
+A1 Tsuda,Koji
+A1 Schölkopf,Bernhard
+YR 2009
+T1 Protein functional class prediction with a combined graph
+JF Expert Systems With Applications
+VO 36
+SP 3284
+OP 3292
+IS 2
+
+RT Journal Article
+ID 11328384
+A1 Jäkel,Frank
+A1 Schölkopf,Bernhard
+A1 Wichmann,Felix,A.
+YR 2009
+T1 Does Cognitive Science Need Kernels?
+JF Trends in Cognitive Sciences
+VO 13
+SP 381
+OP 388
+IS 9
+
+RT Conference Proceedings
+ID 50783093
+A1 Lee,Daewon
+A1 Hofmann,Matthias
+A1 Steinke,Florian
+A1 Altun,Yasemin
+A1 Cahill,Nathan,D.
+A1 Scholkopf,B.
+YR 2009
+T1 Learning similarity measure for multi-modal 3D image registration
+SP 186
+OP 193
+
+RT Conference Proceedings
+ID 4717772
+A1 Mooij,Joris,M.
+A1 Janzing,Dominik
+A1 Peters,Jonas
+A1 Schölkopf,Bernhard
+YR 2009
+T1 Regression by dependence minimization and its application to causal inference in additive noise models
+SP 94
+OP 752
+
+RT Conference Proceedings
+ID 4717773
+A1 Peters,Jonas
+A1 Janzing,Dominik
+A1 Gretton,Arthur
+A1 Schölkopf,Bernhard
+YR 2009
+T1 Detecting the direction of causal time series
+SP 101
+OP 808
+
+RT Book, Whole
+ID 6032475
+A1 Walder,Christian
+A1 Breidt,Martin
+A1 Bülthoff,Heinrich,H.
+A1 Schölkopf,Bernhard
+A1 Curio,Cristóbal
+YR 2009
+T1 Markerless 3D Face Tracking
+SP 41
+OP 50
+
+RT Journal Article
+ID 39768775
+A1 Corfield,David
+A1 Schölkopf,Bernhard
+A1 Vapnik,Vladimir
+YR 2009
+T1 Falsificationism and Statistical Learning Theory: Comparing the Popper and Vapnik-Chervonenkis Dimensions
+JF Journal for General Philosophy of Science
+VO 40
+SP 51
+OP 58
+IS 1
+
+RT Journal Article
+ID 28100268
+A1 Kienzle,W.
+A1 Franz,M.,O.
+A1 Scholkopf,B.
+A1 Wichmann,F.,A.
+YR 2009
+T1 Center-surround patterns emerge as optimal predictors for human saccade targets
+JF Journal of Vision
+VO 9
+SP 7
+OP 7
+IS 5
+
+RT Conference Proceedings
+ID 6368117
+A1 Lee,Daewon
+A1 Hofmann,Matthias
+A1 Steinke,Florian
+A1 Altun,Yasemin
+A1 Cahill,Nathan,D.
+A1 Schölkopf,Bernhard
+YR 2009
+T1 Learning similarity measure for multi-modal 3D image registration
+SP 186
+OP 193
+
+RT Conference Proceedings
+ID 6469738
+A1 Nguyen-tuong,Duy
+A1 Schölkopf,Bernhard
+A1 Peters,Jan
+YR 2009
+T1 Sparse online model learning for robot control with support vector regression
+SP 3121
+OP 3126
+
+RT Journal Article
+ID 27719001
+A1 Sriperumbudur,Bharath,K.
+A1 Fukumizu,Kenji
+A1 Gretton,Arthur
+A1 Schölkopf,Bernhard
+A1 Lanckriet,Gert,R.,G.
+YR 2009
+T1 On integral probability metrics, \phi-divergences and binary classification
+
+RT Conference Proceedings
+ID 50868376
+A1 Gomez-Rodriguez,Manuel
+A1 Kober,Jens
+A1 Scholkopf,Bernhard
+YR 2009
+T1 Denoising photographs using dark frames optimized by quadratic programming
+
+RT Journal Article
+ID 29782704
+A1 Seeger,Matthias
+A1 Nickisch,Hannes
+A1 Pohmann,Rolf
+A1 Schölkopf,Bernhard
+YR 2009
+T1 Optimization of k -space trajectories for compressed sensing by Bayesian experimental design
+JF Magnetic Resonance in Medicine
+
+RT Book, Whole
+ID 6045712
+A1 Jegelka,Stefanie
+A1 Gretton,Arthur
+A1 Schölkopf,Bernhard
+A1 Sriperumbudur,Bharath,K.
+A1 Luxburg,Ulrike,Von
+YR 2009
+T1 Generalized Clustering via Kernel Embeddings
+SP 144
+OP 152
+
+RT Journal Article
+ID 27726121
+A1 Bridle,Sarah
+A1 Balan,Sreekumar,T.
+A1 Bethge,Matthias
+A1 Gentile,Marc
+A1 Harmeling,Stefan
+A1 Heymans,Catherine
+A1 Hirsch,Michael
+A1 Hosseini,Reshad
+A1 Jarvis,Mike
+A1 Kirk,Donnacha
+A1 Kitching,Thomas
+A1 Kuijken,Konrad
+A1 Lewis,Antony
+A1 Paulin-Henriksson,Stephane
+A1 Scholkopf,Bernhard
+A1 Velander,Malin
+A1 Voigt,Lisa
+A1 Witherick,Dugan
+A1 Amara,Adam
+A1 Bernstein,Gary
+A1 Courbin,Frederic
+A1 Gill,Mandeep
+A1 Heavens,Alan
+A1 Mandelbaum,Rachel
+A1 Massey,Richard
+A1 Moghaddam,Baback
+A1 Rassat,Anais
+A1 Refregier,Alexandre
+A1 Rhodes,Jason
+A1 Schrabback,Tim
+A1 Shawe-Taylor,John
+A1 Shmakova,Marina
+A1 Waerbeke,Ludovic,van
+A1 Wittman,David
+YR 2009
+T1 Results of the GREAT08 Challenge: An image analysis competition for cosmological lensing
+
+RT Conference Proceedings
+ID 6045518
+A1 Georgii,Elisabeth
+A1 Tsuda,Koji
+A1 Schölkopf,Bernhard
+YR 2009
+T1 Multi-way set enumeration in real-valued tensors
+SP 1
+OP 10
+
+RT Conference Proceedings
+ID 5579159
+A1 Barbero,Alvaro
+A1 Franz,Matthias
+A1 Drongelen,Wim,van
+A1 Dorronsoro,J.,R.
+A1 Scholkopf,B.
+A1 Grosse-Wentrup,Moritz
+YR 2009
+T1 Implicit Wiener series analysis of epileptic seizure recordings
+SP 5304
+OP 5307
+
+RT Journal Article
+ID 4820906
+A1 Graf,Arnulf,B.,A.
+A1 Bousquet,Olivier
+A1 Rätsch,Gunnar
+A1 Schölkopf,Bernhard
+YR 2009
+T1 Prototype Classification: Insights from Machine Learning
+JF Neural Computation
+VO 21
+SP 272
+OP 300
+IS 1
+
+RT Journal Article
+ID 4757277
+A1 Sriperumbudur,Bharath,K.
+A1 Gretton,Arthur
+A1 Fukumizu,Kenji
+A1 Lanckriet,Gert,R.,G.
+A1 Schölkopf,Bernhard
+YR 2009
+T1 A note on integral probability metrics and $\phi$-divergences
+JF Computing Research Repository
+VO abs/0901.2
+
+RT Journal Article
+ID 14394898
+A1 Chapelle,O.
+A1 Scholkopf,B.
+YR 2009
+T1 Semi-Supervised Learning (Chapelle, O. et al., Eds.; 2006) [Book reviews]
+JF IEEE Transactions on Neural Networks
+VO 20
+SP 542
+OP 542
+IS 3
+
+RT Journal Article
+ID 54387931
+A1 Sriperumbudur,Bharath,K.
+A1 Gretton,Arthur
+A1 Fukumizu,Kenji
+A1 Schölkopf,Bernhard
+A1 Lanckriet,Gert,R.,G.
+YR 2009
+T1 Hilbert space embeddings and metrics on probability measures
+
+RT Journal Article
+ID 5310479
+A1 Sra,Suvrit
+A1 Kim,Dongmin
+A1 Dhillon,Inderjit
+A1 Scholkopf,B.
+YR 2009
+T1 A new non-monotonic algorithm for PET image reconstruction
+SP 2500
+OP 2502
+
+RT Journal Article
+ID 10279201
+A1 Schweikert,Gabriele
+A1 Widmer,Christian
+A1 Scholkopf,Bernhard
+A1 Ratsch,Gunnar
+YR 2009
+T1 An Empirical Analysis of Domain Adaptation Algorithms for Genomic Sequence Analysis
+
+RT Journal Article
+ID 52618127
+A1 Martens,S.,M.,M.
+A1 Hill,N.,J.
+A1 Farquhar,J.
+A1 Schölkopf,B.
+YR 2009
+T1 Overlap and refractory effects in a brain-computer interface speller based on the visual P300 event-related potential
+
+RT Journal Article
+ID 50762032
+A1 Martens,Suzanna
+A1 Farquhar,Jason
+A1 Hill,Jeremy
+A1 Scholkopf,B.
+YR 2009
+T1 Graphical models for decoding in BCI visual speller systems
+
+RT Journal Article
+ID 27713155
+A1 Peters,Jonas
+A1 Janzing,Dominik
+A1 Schölkopf,Bernhard
+YR 2009
+T1 Causal Inference on Discrete Data using Additive Noise Models
+
+RT Journal Article
+ID 2580817
+A1 Gretton,Arthur
+A1 Borgwardt,Karsten,M.
+A1 Rasch,Malte,J.
+A1 Scholkopf,Bernhard
+A1 Smola,Alexander,J.
+YR 2008
+T1 A Kernel Method for the Two-Sample Problem
+
+RT Journal Article
+ID 16478105
+A1 Hofmann,Thomas
+A1 Schölkopf,Bernhard
+A1 Smola,Alexander,J.
+YR 2008
+T1 Kernel methods in machine learning
+JF Annals of Statistics
+VO 36
+SP 1171
+OP 1220
+IS 2008
+
+RT Journal Article
+ID 6564138
+A1 Hofmann,Matthias
+A1 Steinke,Florian
+A1 Scheel,Verena
+A1 Charpiat,Guillaume
+A1 Farquhar,Jason
+A1 Aschoff,Philip
+A1 Brady,Michael
+A1 Schölkopf,B.
+A1 Pichler,Bernd,J.
+YR 2008
+T1 MRI-Based Attenuation Correction for PET/MRI: A Novel Approach Combining Pattern Recognition and Atlas Registration
+JF Journal of Nuclear Medicine
+SP 1875
+OP 1883
+
+RT Journal Article
+ID 5018473
+A1 Ben-Hur,Asa
+A1 Ong,Cheng,Soon
+A1 Sonnenburg,Sören
+A1 Schölkopf,Bernhard
+A1 Rätsch,Gunnar
+YR 2008
+T1 Support Vector Machines and Kernels for Computational Biology
+JF PLOS Computational Biology
+VO 4
+IS 10
+
+RT Conference Proceedings
+ID 4727339
+A1 Hoyer,Patrik,O.
+A1 Janzing,Dominik
+A1 Mooij,Joris,M.
+A1 Peters,Jonas
+A1 Schölkopf,Bernhard
+YR 2008
+T1 Nonlinear causal discovery with additive noise models
+SP 689
+OP 696
+
+RT Journal Article
+ID 4493416
+A1 Macke,Jakob,H.
+A1 Maack,Nina
+A1 Gupta,Rocky
+A1 Denk,Winfried
+A1 Schölkopf,Bernhard
+A1 Borst,Alexander
+YR 2008
+T1 Contour-propagation algorithms for semi-automated reconstruction of neural processes
+JF Journal of Neuroscience Methods
+VO 167
+SP 349
+OP 357
+IS 2
+
+RT Journal Article
+ID 38616094
+A1 Laubinger,Sascha
+A1 Zeller,Georg
+A1 Henz,Stefan,R
+A1 Sachsenberg,Timo
+A1 Widmer,Christian,K
+A1 Naouar,Naïra
+A1 Vuylsteke,Marnik
+A1 Schölkopf,Bernhard
+A1 Rätsch,Gunnar
+A1 Weigel,Detlef
+YR 2008
+T1 At-TAX: a whole genome tiling array resource for developmental expression analysis and transcript identification in Arabidopsis thaliana
+JF Genome Biology
+VO 9
+OP 16
+IS 7
+
+RT Conference Proceedings
+ID 4278522
+A1 Walder,Christian
+A1 Kim,Kwang,In
+A1 Schölkopf,Bernhard
+YR 2008
+T1 Sparse multiscale gaussian process regression
+SP 1112
+OP 1119
+
+RT Conference Proceedings
+ID 4727318
+A1 Fukumizu,Kenji
+A1 Sriperumbudur,Bharath,K.
+A1 Gretton,Arthur
+A1 Schölkopf,Bernhard
+YR 2008
+T1 Characteristic Kernels on Groups and Semigroups
+SP 473
+OP 480
+
+RT Conference Proceedings
+ID 4727376
+A1 Hill,N.,Jeremy
+A1 Farquhar,Jason
+A1 Martens,Suzanna
+A1 Bießmann,Felix
+A1 Schölkopf,Bernhard
+YR 2008
+T1 Effects of Stimulus Type and of Error-Correcting Code Design on BCI Speller Performance
+SP 665
+OP 672
+
+RT Journal Article
+ID 4391190
+A1 Sun,Xiaohai
+A1 Janzing,Dominik
+A1 Schölkopf,Bernhard
+YR 2008
+T1 Causal reasoning by evaluating the complexity of conditional densities with kernel methods
+JF Neurocomputing
+VO 71
+SP 1248
+OP 1256
+IS 7-9
+
+RT Conference Proceedings
+ID 4727468
+A1 Seeger,Matthias,W.
+A1 Nickisch,Hannes
+A1 Pohmann,Rolf
+A1 Schölkopf,Bernhard
+YR 2008
+T1 Bayesian Experimental Design of Magnetic Resonance Imaging Sequences
+SP 1441
+OP 1448
+
+RT Conference Proceedings
+ID 4706943
+A1 Nguyen-tuong,Duy
+A1 Peters,Jan
+A1 Seeger,Matthias
+A1 Schölkopf,Bernhard
+YR 2008
+T1 Learning Inverse Dynamics: a Comparison
+SP 13
+OP 18
+
+RT Journal Article
+ID 4768487
+A1 Steinke,Florian
+A1 Schölkopf,Bernhard
+YR 2008
+T1 Kernels, regularization and differential equations
+JF Pattern Recognition
+VO 41
+SP 3271
+OP 3286
+IS 11
+
+RT Conference Proceedings
+ID 4278302
+A1 Song,Le
+A1 Zhang,Xinhua
+A1 Smola,Alex
+A1 Gretton,Arthur
+A1 Schölkopf,Bernhard
+YR 2008
+T1 Tailoring density estimation via reproducing kernel moment matching
+SP 992
+OP 999
+
+RT Journal Article
+ID 31384540
+A1 Hofmann,M.
+A1 Steinke,F.
+A1 Scheel,V.
+A1 Charpiat,G.
+A1 Farquhar,J.
+A1 Aschoff,P.
+A1 Brady,M.
+A1 Scholkopf,B.
+A1 Pichler,B.,J.
+YR 2008
+T1 MRI-Based Attenuation Correction for PET/MRI: A Novel Approach Combining Pattern Recognition and Atlas Registration
+JF Journal of Nuclear Medicine
+VO 49
+SP 1875
+OP 1883
+IS 11
+
+RT Conference Proceedings
+ID 4727482
+A1 Schweikert,Gabriele
+A1 Widmer,Christian
+A1 Schölkopf,Bernhard
+A1 Rätsch,Gunnar
+YR 2008
+T1 An Empirical Analysis of Domain Adaptation Algorithms for Genomic Sequence Analysis
+SP 1433
+OP 1440
+
+RT Conference Proceedings
+ID 4514237
+A1 Breuer,Pia
+A1 Kim,Kwang-In
+A1 Kienzle,Wolf
+A1 Schölkopf,Bernhard
+A1 Blanz,Volker
+YR 2008
+T1 Automatic 3D face reconstruction from single images or video
+SP 1
+OP 8
+
+RT Journal Article
+ID 5225980
+A1 Hofmann,Thomas
+A1 Scholkopf,Bernhard
+A1 Smola,Alexander,J.
+YR 2008
+T1 KERNEL METHODS IN MACHINE LEARNING1
+
+RT Journal Article
+ID 13088755
+A1 JAKEL,F.
+A1 SCHOLKOPF,B.
+A1 WICHMANN,F.,A.
+YR 2008
+T1 Generalization and similarity in exemplar models of categorization: Insights from machine learning
+JF Psychonomic Bulletin & Review
+VO 15
+SP 256
+OP 271
+IS 2
+
+RT Journal Article
+ID 4900089
+A1 Jäkel,Frank
+A1 Schölkopf,Bernhard
+A1 Wichmann,Felix,A.
+YR 2008
+T1 Similarity, kernels, and the triangle inequality
+JF Journal of Mathematical Psychology
+VO 52
+SP 297
+OP 303
+IS 5
+
+RT Conference Proceedings
+ID 4727358
+A1 Walder,Christian
+A1 Schölkopf,Bernhard
+YR 2008
+T1 Diffeomorphic Dimensionality Reduction
+SP 1713
+OP 1720
+
+RT Journal Article
+ID 30936903
+A1 Hinterberger,Thilo
+A1 Widman,Guido
+A1 Lal,Thomas,Navin
+A1 Hill,Jeremy
+A1 Tangermann,Michael
+A1 Rosenstiel,Wolfgang
+A1 Schölkopf,Bernhard
+A1 Elger,Christian
+A1 Birbaumer,Niels
+YR 2008
+T1 Voluntary brain regulation and communication with electrocorticogram signals
+JF Epilepsy & Behavior
+VO 13
+SP 300
+OP 306
+IS 2
+
+RT Journal Article
+ID 4372851
+A1 Gretton,Arthur
+A1 Borgwardt,Karsten,M.
+A1 Rasch,Malte,J.
+A1 Schölkopf,Bernhard
+A1 Smola,Alexander,J.
+YR 2008
+T1 A Kernel Method for the Two-Sample Problem
+JF Computing Research Repository
+VO abs/0805.2
+
+RT Journal Article
+ID 57413538
+A1 Ben-Hur,Asa
+A1 Ong,Cheng,Soon
+A1 Sonnenburg,Sören
+A1 Schölkopf,Bernhard
+A1 Rätsch,Gunnar
+YR 2008
+T1 Support Vector Machines and Kernels for Computational Biology
+JF PLOS Computational Biology
+VO 4
+IS 10
+
+RT Book, Whole
+ID 4253822
+A1 Charpiat,Guillaume
+A1 Hofmann,Matthias
+A1 Schölkopf,Bernhard
+YR 2008
+T1 Automatic Image Colorization Via Multimodal Predictions
+SP 126
+OP 139
+
+RT Journal Article
+ID 4362952
+A1 Steinke,Florian
+A1 Hein,Matthias
+A1 Peters,Jan
+A1 Schölkopf,Bernhard
+YR 2008
+T1 Manifold-valued Thin-Plate Splines with Applications in Computer Graphics
+JF Computer Graphics Forum
+VO 27
+SP 437
+OP 448
+IS 2
+
+RT Journal Article
+ID 48413482
+A1 Jäkel,Frank
+A1 Schölkopf,Bernhard
+A1 Wichmann,Felix,A.
+YR 2008
+T1 Generalization and similarity in exemplar models of categorization: Insights from machine learning
+JF Psychonomic Bulletin & Review
+VO 15
+SP 256
+OP 271
+IS 2
+
+RT Journal Article
+ID 15083376
+A1 Clark,Richard,M.
+A1 Schweikert,Gabriele
+A1 Toomajian,Christopher
+A1 Ossowski,Stephan
+A1 Zeller,Georg
+A1 Shinn,Paul
+A1 Warthmann,Norman
+A1 Hu,Tina,T.
+A1 Fu,Glenn
+A1 Hinds,David,A.
+A1 Chen,Huaming
+A1 Frazer,Kelly,A.
+A1 Huson,Daniel,H.
+A1 Schölkopf,Bernhard
+A1 Nordborg,Magnus
+A1 Rätsch,Gunnar
+A1 Ecker,Joseph,R.
+A1 Weigel,Detlef
+YR 2007
+T1 Common Sequence Polymorphisms Shaping Genetic Diversity in Arabidopsis thaliana
+JF Science
+VO 317
+SP 338
+OP 342
+IS 5836
+
+RT Conference Proceedings
+ID 4679171
+A1 Fukumizu,Kenji
+A1 Gretton,Arthur
+A1 Sun,Xiaohai
+A1 Schölkopf,Bernhard
+YR 2007
+T1 Kernel Measures of Conditional Dependence
+
+RT Conference Proceedings
+ID 4488089
+A1 Gretton,Arthur
+A1 Fukumizu,Kenji
+A1 Teo,Choon,Hui
+A1 Song,Le
+A1 Schölkopf,Bernhard
+A1 Smola,Alex,J.
+YR 2007
+T1 A Kernel Statistical Test of Independence
+
+RT Journal Article
+ID 4903977
+A1 Wu,Mingrui
+A1 Schölkopf,Bernhard
+YR 2007
+T1 Transductive Classification via Local Learning Regularization
+VO 2
+SP 628
+OP 635
+
+RT Book, Whole
+ID 4233601
+A1 Smola,Alexander,J.
+A1 Gretton,Arthur
+A1 Song,Le
+A1 Schölkopf,Bernhard
+YR 2007
+T1 A Hilbert Space Embedding for Distributions
+SP 13
+OP 31
+
+RT Conference Proceedings
+ID 4555516
+A1 Sinz,Fabian,H.
+A1 Chapelle,Olivier
+A1 Agarwal,Alekh
+A1 Schölkopf,Bernhard
+YR 2007
+T1 An Analysis of Inference with the Universum
+
+RT Book, Whole
+ID 4248546
+A1 Kienzle,Wolf
+A1 Schölkopf,Bernhard
+A1 Wichmann,Felix,A.
+A1 Franz,Matthias,O.
+YR 2007
+T1 How to Find Interesting Locations in Video: A Spatiotemporal Interest Point Detector Learned from Human Eye Movements
+SP 405
+OP 414
+
+RT Conference Proceedings
+ID 4278427
+A1 Sun,Xiaohai
+A1 Janzing,Dominik
+A1 Schölkopf,Bernhard
+A1 Fukumizu,Kenji
+YR 2007
+T1 A kernel-based causal learning algorithm
+SP 855
+OP 862
+
+RT Conference Proceedings
+ID 4278361
+A1 Wu,Mingrui
+A1 Yu,Kai
+A1 Yu,Shipeng
+A1 Schölkopf,Bernhard
+YR 2007
+T1 Local learning projections
+SP 1039
+OP 1046
+
+RT Journal Article
+ID 5076673
+A1 Jäkel,Frank
+A1 Schölkopf,Bernhard
+A1 Wichmann,Felix,A.
+YR 2007
+T1 A tutorial on kernel methods for categorization
+JF Journal of Mathematical Psychology
+VO 51
+SP 343
+OP 358
+IS 6
+
+RT Journal Article
+ID 3093917
+A1 Pfingsten,Tobias
+A1 Herrmann,Daniel,J.,L.
+A1 Schnitzler,Thomas
+A1 Feustel,Andreas
+A1 Schölkopf,Bernhard
+YR 2007
+T1 Feature Selection for Troubleshooting in Complex Assembly Lines
+JF IEEE Transactions Automation Science and Engineering
+VO 4
+SP 465
+OP 469
+IS 3
+
+RT Journal Article
+ID 6163462
+A1 Waldert,Stephan
+A1 Bensch,Michael
+A1 Bogdan,Martin
+A1 Rosenstiel,Wolfgang
+A1 Schölkopf,Bernhard
+A1 Lowery,Curtis,L.
+A1 Eswaran,Hari
+A1 Preissl,Hubert
+YR 2007
+T1 Real-Time Fetal Heart Monitoring in Biomagnetic Measurements Using Adaptive Real-Time ICA
+JF IEEE Transactions on Biomedical Engineering
+VO 54
+SP 1867
+OP 1874
+IS 10
+
+RT Conference Proceedings
+ID 4229608
+A1 Gretton,Arthur
+A1 Borgwardt,Karsten,M.
+A1 Rasch,Malte,J.
+A1 Schölkopf,Bernhard
+A1 Smola,Alexander,J.
+YR 2007
+T1 A Kernel Approach to Comparing Distributions
+SP 1637
+OP 1641
+
+RT Book, Whole
+ID 4233851
+A1 Peters,Jan
+A1 Schaal,Stefan
+A1 Schölkopf,Bernhard
+YR 2007
+T1 Towards Machine Learning of Motor Skills
+SP 138
+OP 144
+
+RT Book, Whole
+ID 51202609
+A1 Bakir,Gokhan
+A1 Hofmann,Thomas
+A1 Scholkopf,Bernhard
+A1 Smola,Alexander,J.
+A1 Taskar,Ben
+YR 2007
+T1 Predicting Structured Data
+
+RT Conference Proceedings
+ID 13298691
+A1 Schölkopf,Bernhard
+A1 Platt,John,C.
+A1 Hoffman,Thomas
+YR 2007
+T1 Advances in Neural Information Processing Systems 19, Proceedings of the Twentieth Annual Conference on Neural Information Processing Systems, Vancouver, British Columbia, Canada, December 4-7, 2006
+
+RT Journal Article
+ID 52168954
+A1 Hofmann,Thomas
+A1 Schölkopf,Bernhard
+A1 Smola,Alexander,J.
+YR 2007
+T1 Kernel methods in machine learning
+
+RT Journal Article
+ID 56366690
+A1 Rätsch,Gunnar
+A1 Sonnenburg,Sören
+A1 Srinivasan,Jagan
+A1 Witte,Hanh
+A1 Müller,Klaus-R.
+A1 Sommer,Ralf-J.
+A1 Schölkopf,Bernhard
+YR 2007
+T1 Improving the Caenorhabditis elegans Genome Annotation Using Machine Learning
+JF PLOS Computational Biology
+VO 3
+IS 2
+
+RT Conference Proceedings
+ID 4706832
+A1 Sun,Xiaohai
+A1 Janzing,Dominik
+A1 Schölkopf,Bernhard
+YR 2007
+T1 Distinguishing between cause and effect via kernel-based complexity measures for conditional distributions
+SP 441
+OP 446
+
+RT Journal Article
+ID 2508454
+A1 Sonnenburg,Sören
+A1 Rätsch,Gunnar
+A1 Schäfer,Christin
+A1 Schölkopf,Bernhard
+YR 2006
+T1 Large Scale Multiple Kernel Learning
+JF Journal of Machine Learning Research
+VO 7
+SP 1531
+OP 1565
+
+RT Conference Proceedings
+ID 4304913
+A1 Huang,Jiayuan
+A1 Smola,Alexander,J.
+A1 Gretton,Arthur
+A1 Borgwardt,Karsten,M.
+A1 Schölkopf,Bernhard
+YR 2006
+T1 Correcting Sample Selection Bias by Unlabeled Data
+SP 601
+OP 608
+
+RT Journal Article
+ID 2508480
+A1 Wu,Mingrui
+A1 Schölkopf,Bernhard
+A1 Bakir,Gökhan,H.
+YR 2006
+T1 A Direct Method for Building Sparse Kernel Learning Algorithms
+JF Journal of Machine Learning Research
+VO 7
+SP 603
+OP 624
+
+RT Conference Proceedings
+ID 2185229
+A1 Borgwardt,Karsten,M.
+A1 Gretton,Arthur
+A1 Rasch,Malte,J.
+A1 Kriegel,Hans-peter
+A1 Schölkopf,Bernhard
+A1 Smola,Alexander,J.
+YR 2006
+T1 Integrating structured biological data by Kernel Maximum Mean Discrepancy
+VO 22
+SP 49
+OP 57
+IS 14
+
+RT Conference Proceedings
+ID 4114257
+A1 Zhou,Dengyong
+A1 Huang,Jiayuan
+A1 Schölkopf,Bernhard
+YR 2006
+T1 Learning with Hypergraphs: Clustering, Classification, and Embedding
+SP 1601
+OP 1608
+
+RT Conference Proceedings
+ID 4304905
+A1 Gretton,Arthur
+A1 Borgwardt,Karsten,M.
+A1 Rasch,Malte,J.
+A1 Schölkopf,Bernhard
+A1 Smola,Alexander,J.
+YR 2006
+T1 A Kernel Method for the Two-Sample-Problem
+SP 513
+OP 520
+
+RT Conference Proceedings
+ID 2602111
+A1 Kienzle,Wolf
+A1 Wichmann,Felix,A.
+A1 Schölkopf,Bernhard
+A1 Franz,Matthias,O.
+YR 2006
+T1 A Nonparametric Approach to Bottom-Up Visual Saliency
+SP 689
+OP 696
+
+RT Conference Proceedings
+ID 4304848
+A1 Wu,Mingrui
+A1 Schölkopf,Bernhard
+YR 2006
+T1 A Local Learning Approach for Clustering
+SP 1529
+OP 1536
+
+RT Journal Article
+ID 4900100
+A1 Hill,N.,Jeremy
+A1 Lal,Thomas,Navin
+A1 Schroder,Michael
+A1 Hinterberger,Thilo
+A1 Wilhelm,Barbara
+A1 Nijboer,Femke
+A1 Mochty,Ursula
+A1 Widman,Guido
+A1 Elger,Christian
+A1 Scholkopf,Bernhard
+A1 Kubler,Andrea
+A1 Birbaumer,Niels
+YR 2006
+T1 Classifying EEG and ECoG signals without subject training for fast BCI implementation: comparison of nonparalyzed and completely paralyzed subjects
+JF IEEE Transactions on Neural Systems and Rehabilitation Engineering
+VO 14
+SP 183
+OP 186
+IS 2
+
+RT Journal Article
+ID 4362827
+A1 Walder,Christian
+A1 Schölkopf,Bernhard
+A1 Chapelle,Olivier
+YR 2006
+T1 Implicit Surface Modelling with a Globally Regularised Basis of Compact Support
+JF Computer Graphics Forum
+VO 25
+SP 635
+OP 644
+IS 3
+
+RT Journal Article
+ID 2511482
+A1 Franz,Matthias,O.
+A1 Schölkopf,Bernhard
+YR 2006
+T1 A Unifying View of Wiener and Volterra Theory and Polynomial Kernel Regression
+JF Neural Computation
+VO 18
+SP 3097
+OP 3118
+IS 12
+
+RT Conference Proceedings
+ID 3315357
+A1 Kienzle,Wolf
+A1 Wichmann,Felix,A.
+A1 Scholkopf,B.
+A1 Franz,Matthias,O.
+YR 2006
+T1 Learning an Interest Operator from Human Eye Movements
+
+RT Journal Article
+ID 2177431
+A1 Graf,Arnulf,B.,A.
+A1 Wichmann,Felix,A.
+A1 Bülthoff,Heinrich,H.
+A1 Schölkopf,Bernhard
+YR 2006
+T1 Classification of Faces in Man and Machine
+JF Neural Computation
+VO 18
+SP 143
+OP 165
+IS 1
+
+RT Book, Whole
+ID 2425148
+A1 Hill,N.,Jeremy
+A1 Lal,Thomas,Navin
+A1 Schröder,Michael
+A1 Hinterberger,Thilo
+A1 Widman,Guido
+A1 Elger,Christian,Erich
+A1 Schölkopf,Bernhard
+A1 Birbaumer,Niels
+YR 2006
+T1 Classifying Event-Related Desynchronization in EEG, ECoG and MEG Signals
+SP 404
+OP 413
+
+RT Conference Proceedings
+ID 4304863
+A1 Steinke,Florian
+A1 Schölkopf,Bernhard
+A1 Blanz,Volker
+YR 2006
+T1 Learning Dense 3D Correspondence
+SP 1313
+OP 1320
+
+RT Journal Article
+ID 15244144
+A1 Graf,Arnulf,B.,A.
+A1 Wichmann,Felix,A.
+A1 Bülthoff,Heinrich,H.
+A1 Schölkopf,Bernhard
+YR 2006
+T1 Classification of Faces in Man and Machine
+JF Neural Computation
+VO 18
+SP 143
+OP 165
+IS 1
+
+RT Journal Article
+ID 30220318
+A1 Gretton,Arthur
+A1 Belitski,Andrei
+A1 Murayama,Yusuke
+A1 Schölkopf,Bernhard
+A1 Logothetis,Nikos
+YR 2006
+T1 The effect of artifacts on dependence measurement in fMRI
+JF Magnetic Resonance Imaging
+VO 24
+SP 401
+OP 409
+IS 4
+
+RT Journal Article
+ID 16479028
+A1 Bousquet,Olivier
+A1 Schölkopf,Bernhard
+YR 2006
+T1 Comment
+JF Statistical Science
+VO 21
+SP 337
+OP 340
+IS 2006
+
+RT Conference Proceedings
+ID 4304953
+A1 Walder,Christian
+A1 Schölkopf,Bernhard
+A1 Chapelle,Olivier
+YR 2006
+T1 Implicit Surfaces with Globally Regularised and Compactly Supported Basis Functions
+SP 273
+OP 280
+
+RT Journal Article
+ID 2572397
+A1 Schmid,Markus
+A1 Davison,Timothy,S
+A1 Henz,Stefan,R
+A1 Pape,Utz,J
+A1 Demar,Monika
+A1 Vingron,Martin
+A1 Scholkopf,Bernhard
+A1 Weigel,Detlef
+A1 Lohmann,Jan,U
+YR 2005
+T1 A gene expression map of Arabidopsis thaliana development
+
+RT Journal Article
+ID 1428595
+A1 Kim,Kwang,In
+A1 Franz,Matthias,O.
+A1 Schölkopf,Bernhard
+YR 2005
+T1 Iterative Kernel Principal Component Analysis for Image Modeling
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 27
+SP 1351
+OP 1366
+IS 9
+
+RT Book, Whole
+ID 1766884
+A1 Gretton,Arthur
+A1 Bousquet,Olivier
+A1 Smola,Alex,J.
+A1 Schölkopf,Bernhard
+YR 2005
+T1 Measuring Statistical Dependence with Hilbert-Schmidt Norms
+SP 63
+OP 77
+
+RT Conference Proceedings
+ID 1801004
+A1 Zhou,Dengyong
+A1 Huang,Jiayuan
+A1 Schölkopf,Bernhard
+YR 2005
+T1 Learning from labeled and unlabeled data on a directed graph
+SP 1036
+OP 1043
+
+RT Journal Article
+ID 2508386
+A1 Gretton,Arthur
+A1 Herbrich,Ralf
+A1 Smola,Alexander,J.
+A1 Bousquet,Olivier
+A1 Schölkopf,Bernhard
+YR 2005
+T1 Kernel Methods for Measuring Independence
+JF Journal of Machine Learning Research
+VO 6
+SP 2075
+OP 2129
+
+RT Conference Proceedings
+ID 1807307
+A1 Rätsch,Gunnar
+A1 Sonnenburg,Sören
+A1 Schölkopf,Bernhard
+YR 2005
+T1 RASE: recognition of alternatively spliced exons in C.elegans
+VO 21
+SP 369
+OP 377
+IS suppl_1
+
+RT Conference Proceedings
+ID 2167490
+A1 Tsuda,Koji
+A1 Shin,Hyunjung
+A1 Schölkopf,Bernhard
+YR 2005
+T1 Fast protein classification with multiple networks
+VO 21
+SP 65
+IS suppl_2
+
+RT Journal Article
+ID 3819936
+A1 Steinke,Florian
+A1 Schölkopf,Bernhard
+A1 Blanz,Volker
+YR 2005
+T1 Support Vector Machines for 3D Shape Processing
+JF Computer Graphics Forum
+VO 24
+SP 285
+OP 294
+IS 3
+
+RT Book, Whole
+ID 1786769
+A1 Zhou,Dengyong
+A1 Schölkopf,Bernhard
+YR 2005
+T1 Regularization on Discrete Spaces
+SP 361
+OP 368
+
+RT Journal Article
+ID 2176462
+A1 Hein,Matthias
+A1 Bousquet,Olivier
+A1 Schölkopf,Bernhard
+YR 2005
+T1 Maximal margin classification for metric spaces
+JF Journal of Computer and System Sciences
+VO 71
+SP 333
+OP 359
+IS 3
+
+RT Journal Article
+ID 37052798
+A1 Schmid,Markus
+A1 Davison,Timothy,S
+A1 Henz,Stefan,R
+A1 Pape,Utz,J
+A1 Demar,Monika
+A1 Vingron,Martin
+A1 Schölkopf,Bernhard
+A1 Lohmann,Jan,U
+A1 Weigel,Detlef
+YR 2005
+T1 A gene expression map of Arabidopsis thaliana development
+JF Nature Genetics
+VO 37
+SP 501
+OP 506
+IS 5
+
+RT Journal Article
+ID 27174386
+A1 Schröder,Michael
+A1 Lal,Thomas,Navin
+A1 Hinterberger,Thilo
+A1 Bogdan,Martin
+A1 Hill,N.,Jeremy
+A1 Birbaumer,Niels
+A1 Rosenstiel,Wolfgang
+A1 Schölkopf,Bernhard
+YR 2005
+T1 Robust EEG Channel Selection across Subjects for Brain-Computer Interfaces
+JF Eurasip Journal on Advances in Signal Processing
+VO 2005
+SP 3103
+OP 3112
+IS 19
+
+RT Conference Proceedings
+ID 1801024
+A1 Wu,Mingrui
+A1 Schölkopf,Bernhard
+A1 Bakir,Gökhan,H.
+YR 2005
+T1 Building Sparse Large Margin Classifiers
+SP 996
+OP 1003
+
+RT Conference Proceedings
+ID 1800985
+A1 Sonnenburg,Sören
+A1 Rätsch,Gunnar
+A1 Schölkopf,Bernhard
+YR 2005
+T1 Large scale genomic sequence SVM classifiers
+SP 848
+OP 855
+
+RT Conference Proceedings
+ID 1800950
+A1 Lal,Thomas,Navin
+A1 Schröder,Michael
+A1 Hill,N.,Jeremy
+A1 Preissl,Hubert
+A1 Hinterberger,Thilo
+A1 Mellinger,Jürgen
+A1 Bogdan,Martin
+A1 Rosenstiel,Wolfgang
+A1 Hofmann,Thomas
+A1 Birbaumer,Niels
+A1 Schölkopf,Bernhard
+YR 2005
+T1 A brain computer interface with online feedback based on magnetoencephalography
+SP 465
+OP 472
+
+RT Journal Article
+ID 3296500
+A1 Gretton,Arthur
+A1 Smola,Alexander
+A1 Bousquet,Olivier
+A1 Herbrich,Ralf
+A1 Belitski,Andrei
+A1 Augath,Mark
+A1 Murayama,Yusuke
+A1 Pauls,Jon
+A1 Schölkopf,Bernhard
+A1 Logothetis,Nikos
+YR 2005
+T1 Kernel Constrained Covariance for Dependence Measurement
+
+RT Book, Whole
+ID 1839803
+A1 Weston,Jason
+A1 Schölkopf,Bernhard
+A1 Bousquet,Olivier
+YR 2005
+T1 Joint Kernel Maps
+SP 176
+OP 191
+
+RT Conference Proceedings
+ID 1800970
+A1 Schölkopf,Bernhard
+A1 Steinke,Florian
+A1 Blanz,Volker
+YR 2005
+T1 Object correspondence as a machine learning problem
+SP 776
+OP 783
+
+RT Book, Whole
+ID 1907055
+A1 Candela,Joaquin,Quiñonero
+A1 Rasmussen,Carl,Edward
+A1 Sinz,Fabian,H.
+A1 Bousquet,Olivier
+A1 Schölkopf,Bernhard
+YR 2005
+T1 Evaluating Predictive Uncertainty Challenge
+SP 1
+OP 27
+
+RT Book, Whole
+ID 1790537
+A1 Kienzle,Wolf
+A1 Schölkopf,Bernhard
+YR 2005
+T1 Training Support Vector Machines with Multiple Equality Constraints
+SP 182
+OP 193
+
+RT Conference Proceedings
+ID 1801044
+A1 Walder,Christian
+A1 Chapelle,Olivier
+A1 Schölkopf,Bernhard
+YR 2005
+T1 Implicit surface modelling as an eigenvalue problem
+SP 936
+OP 939
+
+RT Journal Article
+ID 12846847
+A1 Rätsch,Gunnar
+A1 Sonnenburg,Soeren
+A1 Srinivasan,Jagan
+A1 Witte,Hanh
+A1 Müller,Klaus-Robert
+A1 Sommer,Ralf-J.
+A1 Schölkopf,Bernhard
+YR 2005
+T1 Improving the Caenorhabditis elegans Genome Annotation using Machine Learning
+JF PLOS Computational Biology
+VO preprint
+IS 2006
+
+RT Journal Article
+ID 1740040
+A1 Chalimourda,Athanassia
+A1 Schölkopf,Bernhard
+A1 Smola,Alex,J.
+YR 2005
+T1 Experimentally optimal nu in support vector regression for different noise models and parameter settings
+JF Neural Networks
+VO 18
+SP 205
+OP 205
+IS 2
+
+RT Journal Article
+ID 2642478
+A1 Smola,Alexander,J.
+A1 Schölkopf,Bernhard
+YR 2004
+T1 A tutorial on support vector regression
+JF Statistics and Computing
+VO 14
+SP 199
+OP 222
+IS 3
+
+RT Journal Article
+ID 2137218
+A1 Scholkopf,B
+A1 Tsuda,K.
+A1 Vert,J.,P.
+YR 2004
+T1 Kernel Methods in Computational Biology
+
+RT Conference Proceedings
+ID 908221
+A1 Ham,Jihun
+A1 Lee,Daniel,D.
+A1 Mika,Sebastian
+A1 Schölkopf,Bernhard
+YR 2004
+T1 A kernel view of the dimensionality reduction of manifolds
+SP 47
+
+RT Journal Article
+ID 27047122
+A1 Lal,Thomas,Navin
+A1 Schröder,Michael
+A1 Hinterberger,Thilo
+A1 Weston,Jason
+A1 Bogdan,Martin
+A1 Birbaumer,Niels
+A1 Schölkopf,Bernhard
+YR 2004
+T1 Support vector channel selection in BCI
+JF IEEE Transactions on Biomedical Engineering
+VO 51
+SP 1003
+OP 1010
+IS 6
+
+RT Conference Proceedings
+ID 1811593
+A1 Zhou,Dengyong
+A1 Schölkopf,Bernhard
+A1 Hofmann,Thomas
+YR 2004
+T1 Semi-supervised Learning on Directed Graphs
+
+RT Journal Article
+ID 1739932
+A1 Chalimourda,Athanassia
+A1 Schölkopf,Bernhard
+A1 Smola,Alex,J.
+YR 2004
+T1 Experimentally optimal v in support vector regression for different noise models and parameter settings
+JF Neural Networks
+VO 17
+SP 127
+OP 141
+IS 1
+
+RT Conference Proceedings
+ID 1811697
+A1 Kienzle,Wolf
+A1 Bakir,Gökhan,H.
+A1 Franz,Matthias,O.
+A1 Schölkopf,Bernhard
+YR 2004
+T1 Face Detection - Efficient and Rank Deficient
+
+RT Conference Proceedings
+ID 1811584
+A1 Schölkopf,Bernhard
+A1 Giesen,Joachim
+A1 Spalinger,Simon
+YR 2004
+T1 Kernel Methods for Implicit Surface Modeling
+
+RT Book, Whole
+ID 1786827
+A1 Zhou,Dengyong
+A1 Schölkopf,Bernhard
+YR 2004
+T1 Learning from Labeled and Unlabeled Data Using Random Walks
+SP 237
+OP 244
+
+RT Journal Article
+ID 12634699
+A1 Torr,Philip
+A1 Scholkopf,B.
+A1 Blake,A.
+YR 2004
+T1 Efficient face detection by a cascaded support-vector machine expansion
+JF Proceedings of The Royal Society A: Mathematical, Physical and Engineering Sciences
+VO 460
+SP 3283
+OP 3297
+IS 2051
+
+RT Conference Proceedings
+ID 1811509
+A1 Lal,Thomas,Navin
+A1 Hinterberger,Thilo
+A1 Widman,Guido
+A1 Schröder,Michael
+A1 Hill,N.,Jeremy
+A1 Rosenstiel,Wolfgang
+A1 Elger,Christian,Erich
+A1 Schölkopf,Bernhard
+A1 Birbaumer,Niels
+YR 2004
+T1 Methods Towards Invasive Human Brain Computer Interfaces
+
+RT Journal Article
+ID 1718108
+A1 Luxburg,Ulrike,von
+A1 Bousquet,Olivier
+A1 Schölkopf,Bernhard
+YR 2004
+T1 A Compression Approach to Support Vector Model Selection
+JF Journal of Machine Learning Research
+VO 5
+SP 293
+OP 323
+
+RT Conference Proceedings
+ID 1811622
+A1 Hill,N.,Jeremy
+A1 Lal,Thomas,Navin
+A1 Bierig,Karin
+A1 Birbaumer,Niels
+A1 Schölkopf,Bernhard
+YR 2004
+T1 An Auditory Paradigm for Brain-Computer Interfaces
+
+RT Journal Article
+ID 1724845
+A1 Fröhlich,Holger
+A1 Chapelle,Olivier
+A1 Schölkopf,Bernhard
+YR 2004
+T1 Feature Selection for Support Vector Machines Using Genetic Algorithms
+JF International Journal on Artificial Intelligence Tools
+VO 13
+SP 791
+OP 800
+IS 4
+
+RT Journal Article
+ID 13165073
+A1 Kim,Kwang,In
+A1 Franz,Matthias,O.
+A1 Scholkopf,Bernhard
+YR 2004
+T1 Kernel Hebbian Algorithm for Single-Frame Super-Resolution
+
+RT Book, Whole
+ID 1786806
+A1 Franz,Matthias,O.
+A1 Kwon,Younghee
+A1 Rasmussen,Carl,Edward
+A1 Schölkopf,Bernhard
+YR 2004
+T1 Semi-supervised Kernel Regression Using Whitened Function Classes
+SP 18
+OP 26
+
+RT Conference Proceedings
+ID 2753845
+A1 Hill,N.,Jeremy
+A1 Lal,Thomas,Navin
+A1 Bierig,Karin
+A1 Birbaumer,Niels
+A1 Schölkopf,Bernhard
+YR 2004
+T1 Attention modulation of auditory event-related potentials in a brain-computer interface
+
+RT Conference Proceedings
+ID 1811553
+A1 Wichmann,Felix,A.
+A1 Graf,Arnulf,B.,A.
+A1 Simoncelli,Eero,P.
+A1 Bülthoff,Heinrich,H.
+A1 Schölkopf,Bernhard
+YR 2004
+T1 Machine Learning Applied to Perception: Decision Images for Gender Classification
+
+RT Book, Whole
+ID 1786830
+A1 Kienzle,Wolf
+A1 Bakir,Gökhan,H.
+A1 Franz,Matthias,O.
+A1 Schölkopf,Bernhard
+YR 2004
+T1 Efficient Approximations for Support Vector Machines in Object Detection
+SP 54
+OP 61
+
+RT Conference Proceedings
+ID 5512422
+A1 Franz,Matthias,O.
+A1 Scholkopf,B.
+YR 2004
+T1 Implicit estimation of wiener series
+SP 735
+OP 744
+
+RT Conference Proceedings
+ID 1811651
+A1 Franz,Matthias,O.
+A1 Schölkopf,Bernhard
+YR 2004
+T1 Implicit Wiener Series for Higher-Order Image Analysis
+
+RT Book, Whole
+ID 1786784
+A1 Bakir,Gökhan,H.
+A1 Gretton,Arthur
+A1 Franz,Matthias,O.
+A1 Schölkopf,Bernhard
+YR 2004
+T1 Multivariate Regression via Stiefel Manifold Constraints
+SP 262
+OP 269
+
+RT Conference Proceedings
+ID 13298684
+A1 Thrun,Sebastian
+A1 Saul,Lawrence,K.
+A1 Schölkopf,Bernhard
+YR 2004
+T1 Advances in Neural Information Processing Systems 16 [Neural Information Processing Systems, NIPS 2003, December 8-13, 2003, Vancouver and Whistler, British Columbia, Canada]
+
+RT Journal Article
+ID 55918628
+A1 Romdhani,Sami
+A1 Torr,Philip
+A1 Schölkopf,Bernhard
+YR 2004
+T1 Efficient face detection by a cascaded support-vector machine expansion
+JF Proceedings of The Royal Society A: Mathematical, Physical and Engineering Sciences
+VO 460
+SP 3283
+OP 3297
+
+RT Conference Proceedings
+ID 13313092
+A1 Rasmussen,Carl,Edward
+A1 Bülthoff,Heinrich,H.
+A1 Schölkopf,Bernhard
+A1 Giese,Martin,A.
+YR 2004
+T1 Pattern Recognition, 26th DAGM Symposium, August 30 - September 1, 2004, Tübingen, Germany, Proceedings
+
+RT Journal Article
+ID 794555
+A1 Weston,Jason
+A1 Elisseeff,André
+A1 Schölkopf,Bernhard
+A1 Tipping,Michael,E.
+YR 2003
+T1 Use of the Zero-Norm with Linear Models and Kernel Methods
+JF Journal of Machine Learning Research
+VO 3
+SP 1439
+OP 1461
+
+RT Journal Article
+ID 4135650
+A1 Weston,J.
+A1 Elissee,A.
+A1 Scholkopf,B.
+A1 Tipping,M.
+YR 2003
+T1 The use of zero - norm with linear models and kernel methods
+JF Journal of Machine Learning Research
+
+RT Conference Proceedings
+ID 2185703
+A1 Zhou,Dengyong
+A1 Weston,Jason
+A1 Gretton,Arthur
+A1 Bousquet,Olivier
+A1 Schölkopf,Bernhard
+YR 2003
+T1 Ranking on Data Manifolds
+
+RT Journal Article
+ID 801137
+A1 Mika,Sebastian
+A1 Rätsch,Gunnar
+A1 Weston,Jason
+A1 Schölkopf,Bernhard
+A1 Smola,Alex,J.
+A1 Müller,Klaus-robert
+YR 2003
+T1 Constructing Descriptive and Discriminative Nonlinear Features: Rayleigh Coefficients in Kernel Feature Spaces
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 25
+SP 623
+OP 633
+IS 5
+
+RT Conference Proceedings
+ID 612370
+A1 Fröhlich,Holger
+A1 Chapelle,Olivier
+A1 Schölkopf,Bernhard
+YR 2003
+T1 Feature Selection for Support Vector Machines by Means of Genetic Algorithms
+SP 142
+OP 148
+
+RT Journal Article
+ID 841005
+A1 Weston,Jason
+A1 Pérez-cruz,Fernando
+A1 Bousquet,Olivier
+A1 Chapelle,Olivier
+A1 Elisseeff,André
+A1 Schölkopf,Bernhard
+YR 2003
+T1 Feature selection and transduction for prediction of molecular bioactivity for drug design
+JF Bioinformatics/computer Applications in The Biosciences
+VO 19
+SP 764
+OP 771
+IS 6
+
+RT Conference Proceedings
+ID 1811239
+A1 Bakir,Gökhan,H.
+A1 Weston,Jason
+A1 Schölkopf,Bernhard
+YR 2003
+T1 Learning to Find Pre-Images
+
+RT Journal Article
+ID 50327456
+A1 Fröhlich,Holger
+A1 Chapelle,Olivier
+A1 Schölkopf,Bernhard
+YR 2003
+T1 Feature selection for support vector machines by means of genetic algorithm
+JF IEEE Transactions on Applications and Industry
+SP 142
+OP 148
+
+RT Conference Proceedings
+ID 1811303
+A1 Eichhorn,Jan
+A1 Tolias,Andreas,S.
+A1 Zien,Alexander
+A1 Kuss,Malte
+A1 Rasmussen,Carl,Edward
+A1 Weston,Jason
+A1 Logothetis,Nikos
+A1 Schölkopf,Bernhard
+YR 2003
+T1 Prediction on Spike Data Using Kernel Algorithms
+
+RT Journal Article
+ID 16291894
+A1 Weston,Jason
+A1 Schölkopf,Bernhard
+A1 Eskin,Eleazar
+A1 Leslie,Christina
+A1 Noble,William,Stafford
+YR 2003
+T1 Dealing with large diagonals in kernel matrices
+JF Annals of The Institute of Statistical Mathematics
+VO 55
+SP 391
+OP 408
+IS 2
+
+RT Conference Proceedings
+ID 13307834
+A1 Schölkopf,Bernhard
+A1 Warmuth,Manfred,K.
+YR 2003
+T1 Computational Learning Theory and Kernel Machines, 16th Annual Conference on Computational Learning Theory and 7th Kernel Workshop, COLT/Kernel 2003, Washington, DC, USA, August 24-27, 2003, Proceedings
+
+RT Journal Article
+ID 2350975
+A1 Scholkopf,Bernhard
+A1 Smola,Alex
+YR 2003
+T1 Kernel Methods and Support Vector Machines
+
+RT Journal Article
+ID 4430074
+A1 Schölkopf,Bernhard
+YR 2003
+T1 Statistical learning theory, capacity, and complexity
+JF Complexity
+VO 8
+SP 87
+OP 94
+IS 4
+
+RT Journal Article
+ID 709170
+A1 Decoste,Dennis
+A1 Schölkopf,Bernhard
+YR 2002
+T1 Training Invariant Support Vector Machines
+JF Machine Learning
+VO 46
+SP 161
+OP 190
+IS 1-3
+
+RT Conference Proceedings
+ID 1811400
+A1 Chapelle,Olivier
+A1 Weston,Jason
+A1 Schölkopf,Bernhard
+YR 2002
+T1 Cluster Kernels for Semi-Supervised Learning
+SP 585
+OP 592
+
+RT Conference Proceedings
+ID 1811454
+A1 Weston,Jason
+A1 Chapelle,Olivier
+A1 Elisseeff,André
+A1 Schölkopf,Bernhard
+A1 Vapnik,Vladimir
+YR 2002
+T1 Kernel Dependency Estimation
+SP 873
+OP 880
+
+RT Journal Article
+ID 3497
+A1 Rätsch,Gunnar
+A1 Mika,Sebastian
+A1 Schölkopf,Bernhard
+A1 Müller,Klaus-robert
+YR 2002
+T1 Constructing Boosting Algorithms from SVMs: An Application to One-Class Classification
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 24
+SP 1184
+OP 1199
+IS 9
+
+RT Journal Article
+ID 721240
+A1 Cristianini,Nello
+A1 Schölkopf,Bernhard
+YR 2002
+T1 Support Vector Machines and Kernel Methods: The New Generation of Learning Machines
+JF Ai Magazine
+VO 23
+SP 31
+OP 42
+IS 3
+
+RT Book, Whole
+ID 5458
+A1 Schölkopf,Bernhard
+A1 Weston,Jason
+A1 Eskin,Eleazar
+A1 Leslie,Christina,S.
+A1 Noble,William,Stafford
+YR 2002
+T1 A Kernel Approach for Learning from almost Orthogonal Patterns
+SP 511
+OP 528
+
+RT Journal Article
+ID 3319288
+A1 Scholkopf,B.
+A1 Smola,A.,J.
+YR 2002
+T1 Learning with Kernels
+
+RT Journal Article
+ID 14366934
+A1 Ratsch,G.
+A1 Mika,S.
+A1 Scholkopf,B.
+A1 Muller,K.-R.
+YR 2002
+T1 Constructing boosting algorithms from SVMs: an application to one-class classification
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 24
+SP 1184
+OP 1199
+IS 9
+
+RT Book, Whole
+ID 559341
+A1 Schölkopf,Bernhard
+A1 Smola,Alexander
+YR 2002
+T1 A Short Introduction to Learning with Kernels
+SP 41
+OP 64
+
+RT Journal Article
+ID 15222483
+A1 Decoste,Dennis
+A1 Schölkopf,Bernhard
+YR 2002
+T1 Training Invariant Support Vector Machines
+JF Machine Learning
+VO 46
+SP 161
+OP 190
+IS 1
+
+RT Book, Whole
+ID 559343
+A1 Smola,Alexander,J.
+A1 Schölkopf,Bernhard
+YR 2002
+T1 Bayesian Kernel Methods
+SP 65
+OP 117
+
+RT Journal Article
+ID 61400644
+A1 Romdhani,Sami
+A1 Torr,Philip
+A1 Schölkopf,Bernhard
+A1 Blake,Andrew
+YR 2002
+T1 Computationally Efficient Face Detection
+
+RT Journal Article
+ID 1055726
+A1 Muller,K.-R.
+A1 Mika,S.
+A1 Ratsch,G.
+A1 Tsuda,K.
+A1 Scholkopf,B.
+YR 2001
+T1 An introduction to kernel-based learning algorithms
+JF IEEE Transactions on Neural Networks
+VO 12
+SP 181
+OP 201
+IS 2
+
+RT Journal Article
+ID 799030
+A1 Schölkopf,Bernhard
+A1 Platt,John,C.
+A1 Shawe-taylor,John
+A1 Smola,Alex,J.
+A1 Williamson,Robert,C.
+YR 2001
+T1 Estimating the Support of a High-Dimensional Distribution
+JF Neural Computation
+VO 13
+SP 1443
+OP 1471
+IS 7
+
+RT Journal Article
+ID 1447036
+A1 Williamson,Robert,C.
+A1 Smola,Alex,J.
+A1 Schölkopf,Bernhard
+YR 2001
+T1 Generalization performance of regularization networks and support vector machines via entropy numbers of compact operators
+JF IEEE Transactions on Information Theory
+VO 47
+SP 2516
+OP 2532
+IS 6
+
+RT Conference Proceedings
+ID 503367
+A1 Schölkopf,Bernhard
+A1 Herbrich,Ralf
+A1 Smola,Alexander,J.
+YR 2001
+T1 A Generalized Representer Theorem
+SP 416
+OP 426
+
+RT Conference Proceedings
+ID 524197
+A1 Romdhani,Sami
+A1 Torr,Philip,H.,S.
+A1 Schölkopf,Bernhard
+A1 Blake,Andrew
+YR 2001
+T1 Computationally Efficient Face Detection
+SP 695
+OP 700
+
+RT Journal Article
+ID 189509
+A1 Mika,Sebastian
+A1 Smola,Alexander
+A1 Scholkopf,Bernhard
+YR 2001
+T1 An Improved Training Algorithm for Kernel Fisher Discriminants
+
+RT Conference Proceedings
+ID 53566
+A1 Achlioptas,Dimitris
+A1 Mcsherry,Frank
+A1 Schölkopf,Bernhard
+YR 2001
+T1 Sampling Techniques for Kernel Methods
+SP 335
+OP 342
+
+RT Conference Proceedings
+ID 84929
+A1 Lit,Stan,Z.
+A1 Fu,Qingdong
+A1 Gu,Lie
+A1 Schölkopf,Bernhard
+A1 Cheng,Yimin
+A1 Zhang,Hongjiang
+YR 2001
+T1 Kernel Machine Based Learning for Multi-View Face Detection and Pose Estimation
+SP 674
+OP 679
+
+RT Journal Article
+ID 794508
+A1 Smola,Alexander,J.
+A1 Mika,Sebastian
+A1 Schölkopf,Bernhard
+A1 Williamson,Robert,C.
+YR 2001
+T1 Regularized Principal Manifolds
+JF Journal of Machine Learning Research
+VO 1
+SP 179
+OP 209
+
+RT Conference Proceedings
+ID 128641
+A1 Lawrence,Neil,D.
+A1 Schölkopf,Bernhard
+YR 2001
+T1 Estimating a Kernel Fisher Discriminant in the Presence of Label Noise
+SP 306
+OP 313
+
+RT Conference Proceedings
+ID 50235805
+A1 Gretton,Arthur
+A1 Doucet,Arnaud
+A1 Herbrich,Ralf
+A1 Rayner,Peter,J.,W.
+A1 Scholkopf,B.
+YR 2001
+T1 Support vector regression for black-box system identification
+
+RT Journal Article
+ID 2087449
+A1 Bradshaw,Ben
+A1 Platt,John,C.
+A1 Scholkopf,Bernhard
+YR 2001
+T1 Kernel Methods for Extracting Local Image Semantics
+
+RT Conference Proceedings
+ID 560960
+A1 Chapelle,Olivier
+A1 Schölkopf,Bernhard
+YR 2001
+T1 Incorporating Invariances in Non-Linear Support Vector Machines
+SP 609
+OP 616
+
+RT Journal Article
+ID 3296477
+A1 Li,S.
+A1 Fu,Q.
+A1 Gu,L.
+A1 Scholkopf,B.
+A1 Cheng,Y.
+A1 Zhang,H.
+YR 2001
+T1 Kernel based Machine Learning for Multi-View Face Detection and Pose Estimation
+
+RT Journal Article
+ID 798858
+A1 Schölkopf,Bernhard
+A1 Smola,Alex,J.
+A1 Williamson,Robert,C.
+A1 Bartlett,Peter,L.
+YR 2000
+T1 New Support Vector Algorithms
+JF Neural Computation
+VO 12
+SP 1207
+OP 1245
+IS 5
+
+RT Conference Proceedings
+ID 245038
+A1 Smola,Alex,J.
+A1 Scholkopf,B.
+YR 2000
+T1 Sparse greedy matrix approximation for machine learning
+SP 911
+OP 918
+
+RT Journal Article
+ID 114945
+A1 Zien,Alexander
+A1 Rätsch,Gunnar
+A1 Mika,Sebastian
+A1 Schölkopf,Bernhard
+A1 Lengauer,Thomas
+A1 Müller,Klaus-robert
+YR 2000
+T1 Engineering support vector machine kernels that recognize translation initiation sites
+JF Bioinformatics/computer Applications in The Biosciences
+VO 16
+SP 799
+OP 807
+IS 9
+
+RT Journal Article
+ID 233121
+A1 Smola,Alexander,J.
+A1 Bartlett,Peter
+A1 Schölkopf,Bernhard
+A1 Eds,Dale,Schuurmans
+YR 2000
+T1 Advances in Large Margin Classifiers
+
+RT Conference Proceedings
+ID 4304843
+A1 Schölkopf,Bernhard
+YR 2000
+T1 The Kernel Trick for Distances
+SP 301
+OP 307
+
+RT Conference Proceedings
+ID 229185
+A1 Müller,K.,r
+A1 Smola,A.,j.
+A1 Rätsch,G.
+A1 Schölkopf,B.
+A1 Kohlmorgen,J.
+A1 Vapnik,V.
+YR 2000
+T1 Using Support Vector Machines for Time Series Prediction
+
+RT Conference Proceedings
+ID 560154
+A1 Hayton,Paul
+A1 Schölkopf,Bernhard
+A1 Tarassenko,Lionel
+A1 Anuzis,Paul
+YR 2000
+T1 Support Vector Novelty Detection Applied to Jet Engine Vibration Spectra
+SP 946
+OP 952
+
+RT Conference Proceedings
+ID 67708
+A1 Schölkopf,Bernhard
+YR 2000
+T1 Statistical Learning and Kernel Methods
+
+RT Journal Article
+ID 230905
+A1 Platt,John,C.
+A1 Schölkopf,Bernhard
+A1 Smola,Alex,J.
+YR 2000
+T1 Kernel Method for Percentile Feature Extraction
+
+RT Conference Proceedings
+ID 251783
+A1 Williamson,Robert,C.
+A1 Smola,Alex,J.
+A1 Schölkopf,Bernhard
+YR 2000
+T1 Entropy Numbers of Linear Function Classes
+SP 309
+OP 319
+
+RT Conference Proceedings
+ID 560036
+A1 Still,Susanne
+A1 Schölkopf,Bernhard
+A1 Hepp,Klaus
+A1 Douglas,Rodney,J.
+YR 2000
+T1 Four-legged Walking Gait Control Using a Neuromorphic Chip Interfaced to a Support Vector Learning Algorithm
+SP 741
+OP 747
+
+RT Journal Article
+ID 3794840
+A1 Scholkopf,B.
+YR 2000
+T1 Statistical Learning and Kernel Metho ds
+
+RT Journal Article
+ID 250137
+A1 Oliver,Nuria
+A1 Schölkopf,Bernhard
+A1 Smola,Alex
+YR 2000
+T1 Natural Regularization in SVMs
+
+RT Journal Article
+ID 226785
+A1 Ratsch,G.
+A1 Scholkopf,B.
+A1 Muller,A.,Smola,K.,r
+A1 Onoda,T.
+YR 2000
+T1 Arc: Ensemble Learning in the Presence of Outliers
+
+RT Book, Whole
+ID 228047
+A1 Rätsch,Gunnar
+A1 Schölkopf,Bernhard
+A1 Smola,Alexander
+A1 Mika,Sebastian
+A1 Onoda,Takashi
+A1 Müller,Klaus-robert
+YR 2000
+T1 Robust Ensemble Learning for Data Mining
+SP 341
+OP 344
+
+RT Journal Article
+ID 3794839
+A1 Scholkopf,B.
+YR 2000
+T1 Statistical learning and kernel machines
+
+RT Journal Article
+ID 266239
+A1 Rätsch,Gunnar
+A1 Scholkopf,Bernhard
+A1 Smola,Alex
+A1 Mika,Sebastian
+A1 Onoda,Takashi
+A1 Müller,Klaus-robert
+YR 2000
+T1 Robust Ensemble Learning for Data Analysis
+
+RT Journal Article
+ID 61400602
+A1 Mika,Sebastian
+A1 Schölkopf,Bernhard
+A1 Smola,Alexander
+YR 2000
+T1 An Improved Training Algorithm for Kernel Fisher Discriminants
+
+RT Journal Article
+ID 1266950
+A1 Scholkopf,B.
+A1 Burges,C.,J.,C.
+A1 Smola,A.,J.
+YR 1999
+T1 Advances in kernel methods : support vector learning
+
+RT Journal Article
+ID 1665602
+A1 Schölkopf,Bernhard
+A1 Mika,Sebastian
+A1 Burges,Christopher,J.,C.
+A1 Knirsch,Phil
+A1 Müller,Klaus-robert
+A1 Rätsch,Gunnar
+A1 Smola,Alexander,J.
+YR 1999
+T1 Input space versus feature space in kernel-based methods
+JF IEEE Transactions on Neural Networks
+VO 10
+SP 1000
+OP 1017
+IS 5
+
+RT Conference Proceedings
+ID 50155470
+A1 Mika,S.
+A1 Ratsch,G.
+A1 Weston,J.
+A1 Scholkopf,B.
+A1 Mullers,K.,R.
+YR 1999
+T1 Fisher discriminant analysis with kernels
+
+RT Journal Article
+ID 257395
+A1 Platt,John,C.
+A1 Schölkopf,Bernhard
+A1 Shawe-Taylor,John
+A1 Smola,Alex,J.
+A1 Williamson,Robert,C.
+YR 1999
+T1 Estimating the Support of a High-Dimensional Distribution
+
+RT Conference Proceedings
+ID 559730
+A1 Schölkopf,Bernhard
+A1 Williamson,Robert,C.
+A1 Smola,Alex,J.
+A1 Shawe-taylor,John
+A1 Platt,John,C.
+YR 1999
+T1 Support Vector Method for Novelty Detection
+SP 582
+OP 588
+
+RT Journal Article
+ID 260204
+A1 Scholkopf,Bernhard
+A1 Shawe-taylor,Gmd,John
+YR 1999
+T1 Generalization Bounds via Eigenvalues of the Gram Matrix
+
+RT Journal Article
+ID 2666903
+A1 Scholkopf,B.
+A1 Burges,J.
+A1 Smola,A.
+YR 1999
+T1 Advances in Kernel Methods: Support Vector Machine
+
+RT Book, Whole
+ID 663020
+A1 Smola,Alex,J.
+A1 Williamson,Robert,C.
+A1 Mika,Sebastian
+A1 Schölkopf,Bernhard
+YR 1999
+T1 Regularized Principal Manifolds
+SP 214
+OP 229
+
+RT Conference Proceedings
+ID 561206
+A1 Mika,Sebastian
+A1 Rätsch,Gunnar
+A1 Weston,Jason
+A1 Schölkopf,Bernhard
+A1 Smola,Alex,J.
+A1 Müller,Klaus-robert
+YR 1999
+T1 Invariant Feature Extraction and Classification in Kernel Spaces
+SP 526
+OP 532
+
+RT Conference Proceedings
+ID 264081
+A1 Scholkopf,Bernhard
+A1 Shawe-Taylor,John
+A1 Smola,Alex,J.
+A1 Williamson,Robert,C.
+YR 1999
+T1 Kernel-Dependent Support Vector Error Bounds
+
+RT Conference Proceedings
+ID 662997
+A1 Williamson,Robert,C.
+A1 Smola,Alex,J.
+A1 Schölkopf,Bernhard
+YR 1999
+T1 Entropy Numbers, Operators and Support Vector Kernels
+SP 285
+OP 299
+
+RT Conference Proceedings
+ID 330514
+A1 Graepel,Thore
+A1 Herbrich,Ralf
+A1 Scholkopf,Bernhard
+A1 Peter,Alex,Smola
+YR 1999
+T1 Classification on Proximity Data with LP--Machines
+
+RT Conference Proceedings
+ID 260396
+A1 Smola,Alex
+A1 Scholkopf,Bernhard
+A1 Ratsch,Gunnar
+YR 1999
+T1 Linear Programs for Automatic Accuracy Control in Regression
+
+RT Conference Proceedings
+ID 1771656
+A1 Zien,Alexander
+A1 Rätsch,Gunnar
+A1 Mika,Sebastian
+A1 Schölkopf,Bernhard
+A1 Lemmen,Christian
+A1 Smola,Alex,J.
+A1 Lengauer,Thomas
+A1 Müller,Klaus-robert
+YR 1999
+T1 Engineering Support Vector Machine Kerneis That Recognize Translation Initialion Sites
+SP 37
+OP 43
+
+RT Journal Article
+ID 82884
+A1 Williamson,Robert,C.
+A1 Shawe-taylor,John
+A1 Schölkopf,Bernhard
+YR 1999
+T1 Sample Based Generalization Bounds
+JF IEEE Transactions on Information Theory
+
+RT Journal Article
+ID 46354584
+A1 Schölkopf,Bernhard
+A1 Müller,Klaus-Robert
+A1 Smola,Alexander,J.
+YR 1999
+T1 Lernen mit Kernen
+JF Informatik - Forschung Und Entwicklung
+VO 14
+SP 154
+OP 163
+IS 3
+
+RT Conference Proceedings
+ID 559898
+A1 Rätsch,Gunnar
+A1 Schölkopf,Bernhard
+A1 Smola,Alex,J.
+A1 Müller,Klaus-robert
+A1 Onoda,Takashi
+A1 Mika,Sebastian
+YR 1999
+T1 v-Arc: Ensemble Learning in the Presence of Outliers
+SP 561
+OP 567
+
+RT Journal Article
+ID 734589
+A1 Schölkopf,Bernhard
+A1 Müller,Klaus-robert
+A1 Smola,Alex,J.
+YR 1999
+T1 Lernen mit Kernen: Support-Vektor-Methoden zur Analyse hochdimensionaler Daten
+JF Informatik - Forschung Und Entwicklung
+VO 14
+SP 154
+OP 163
+IS 3
+
+RT Conference Proceedings
+ID 560639
+A1 Smola,Alex,J.
+A1 Shawe-taylor,John
+A1 Schölkopf,Bernhard
+A1 Williamson,Robert,C.
+YR 1999
+T1 The Entropy Regularization Information Criterion
+SP 342
+OP 348
+
+RT Journal Article
+ID 798785
+A1 Schölkopf,Bernhard
+A1 Smola,Alexander
+A1 Müller,Klaus-robert
+YR 1998
+T1 Nonlinear Component Analysis as a Kernel Eigenvalue Problem
+JF Neural Computation
+VO 10
+SP 1299
+OP 1319
+IS 5
+
+RT Journal Article
+ID 15244092
+A1 Schölkopf,Bernhard
+A1 Smola,Alexander
+A1 Müller,Klaus-Robert
+YR 1998
+T1 Nonlinear Component Analysis as a Kernel Eigenvalue Problem
+JF Neural Computation
+VO 10
+SP 1299
+OP 1319
+IS 5
+
+RT Journal Article
+ID 1740271
+A1 Smola,Alex,J.
+A1 Schölkopf,Bernhard
+A1 Müller,Klaus-robert
+YR 1998
+T1 The connection between regularization operators and support vector kernels
+JF Neural Networks
+VO 11
+SP 637
+OP 649
+IS 4
+
+RT Journal Article
+ID 860252
+A1 Smola,Alex,J.
+A1 Schölkopf,Bernhard
+YR 1998
+T1 On a Kernel-Based Method for Pattern Recognition, Regression, Approximation, and Operator Inversion
+JF Algorithmica
+VO 22
+SP 211
+OP 231
+IS 1/2
+
+RT Journal Article
+ID 225380
+A1 Saunders,C.
+A1 Stitson,M.,O.
+A1 Weston,J.
+A1 Bottou,L.
+A1 Scholkopf,B.
+A1 Smola,A.
+YR 1998
+T1 Support Vector Machine Reference Manual
+
+RT Journal Article
+ID 259301
+A1 Smola,Alex,J.
+A1 Scholkopf,Bernhard
+YR 1998
+T1 General Cost Functions for Support Vector Regression
+
+RT Journal Article
+ID 1659897
+A1 Hearst,M.,A.
+A1 Dumais,S.,T.
+A1 Osman,E.
+A1 Platt,J.
+A1 Scholkopf,B.
+YR 1998
+T1 Support vector machines
+JF IEEE Intelligent Systems & Their Applications
+VO 13
+SP 18
+OP 28
+IS 4
+
+RT Conference Proceedings
+ID 559659
+A1 Mika,Sebastian
+A1 Schölkopf,Bernhard
+A1 Smola,Alex,J.
+A1 Müller,Klaus-robert
+A1 Scholz,Matthias
+A1 Rätsch,Gunnar
+YR 1998
+T1 Kernel PCA and DeNoising in Feature Spaces
+SP 536
+OP 542
+
+RT Conference Proceedings
+ID 254015
+A1 Smola,A.
+A1 Scholkopf,B.
+A1 Bartlett,P.
+YR 1998
+T1 Support Vector Regression with Automatic Accuracy Control
+
+RT Journal Article
+ID 3481808
+A1 Smola,A.,J.
+A1 Scholkopf,B.
+YR 1998
+T1 On a kernel-based method for pattern recognition
+
+RT Journal Article
+ID 335224
+A1 Franz,Matthias,O.
+A1 Schölkopf,Bernhard
+A1 Mallot,Hanspeter,A.
+A1 Bülthoff,Heinrich,H.
+YR 1998
+T1 Where did I take that snapshot? Scene-based homing by image matching
+JF Biological Cybernetics
+VO 79
+SP 191
+OP 202
+IS 3
+
+RT Conference Proceedings
+ID 253906
+A1 Schölkopf,Bernhard
+A1 Smola,Alex,J.
+A1 Knirsch,Phil
+A1 Burges,Chris
+YR 1998
+T1 Fast Approximation of Support Vector Kernel Expansions, and an Interpretation of Clustering as Approximation in Feature Spaces
+SP 125
+OP 132
+
+RT Conference Proceedings
+ID 560405
+A1 Schölkopf,Bernhard
+A1 Bartlett,Peter,L.
+A1 Smola,Alex,J.
+A1 Williamson,Robert,C.
+YR 1998
+T1 Shrinking the Tube: A New Support Vector Regression Algorithm
+SP 330
+OP 336
+
+RT Conference Proceedings
+ID 348137
+A1 Schölkopf,Bernhard
+A1 Mika,Sebastian
+A1 Smola,Alex
+A1 Rätsch,Gunnar
+A1 Müller,Klaus-robert
+YR 1998
+T1 Kernel PCA Pattern Reconstruction via Approximate Pre-Images
+
+RT Journal Article
+ID 858611
+A1 Franz,Matthias,O.
+A1 Schölkopf,Bernhard
+A1 Mallot,Hanspeter,A.
+A1 Bülthoff,Heinrich,H.
+YR 1998
+T1 Learning View Graphs for Robot Navigation
+JF Autonomous Robots
+VO 5
+SP 111
+OP 125
+IS 1
+
+RT Journal Article
+ID 2023480
+A1 Williamson,R.
+A1 Smola,A.
+A1 Scholkopf,B.
+YR 1998
+T1 Generalization performance of regularization networks and support vector machines via entropy numbers
+
+RT Conference Proceedings
+ID 559722
+A1 Smola,Alex,J.
+A1 Frieß,Thilo-thomas
+A1 Schölkopf,Bernhard
+YR 1998
+T1 Semiparametric Support Vector and Linear Programming Machines
+SP 585
+OP 591
+
+RT Journal Article
+ID 15227987
+A1 Franz,Matthias,O.
+A1 Schölkopf,Bernhard
+A1 Mallot,Hanspeter,A.
+A1 Bülthoff,Heinrich,H.
+YR 1998
+T1 Learning View Graphs for Robot Navigation
+JF Autonomous Robots
+VO 5
+SP 111
+OP 125
+IS 1
+
+RT Journal Article
+ID 263934
+A1 Smola,Alex
+A1 Schölkopf,Bernhard
+A1 Müller,Klaus-robert
+YR 1998
+T1 Convex Cost Functions for Support Vector Regression
+
+RT Journal Article
+ID 373985
+A1 Smola,Alex,J.
+A1 Williamson,Robert,C.
+A1 Schölkopf,Bernhard
+YR 1998
+T1 Generalization Bounds and Learning Rates for Regularized Principal Manifolds
+
+RT Conference Proceedings
+ID 501372
+A1 Franz,Matthias,O.
+A1 Schölkopf,Bernhard
+A1 Mallot,Hanspeter,A.
+A1 Bülthoff,Heinrich,H.
+A1 Zell,Andreas
+YR 1998
+T1 Navigation mit Schnappschüssen
+SP 421
+OP 428
+
+RT Journal Article
+ID 37240220
+A1 Schölkopf,Bernhard
+YR 1998
+T1 The moon tilt illusion
+JF Perception
+VO 27
+SP 1229
+OP 1232
+IS 10
+
+RT Journal Article
+ID 265022
+A1 Scholkopf,Bernhard
+A1 Sung,Kah-Kay
+A1 Burges,Chris,J.,C.
+A1 Girosi,Federico
+A1 Niyogi,Partha
+A1 Poggio,Tomaso
+A1 Vapnik,Vladimir
+YR 1997
+T1 Comparing support vector machines with Gaussian kernels to radial basis function classifiers
+JF IEEE Transactions on Signal Processing
+VO 45
+SP 2758
+OP 2765
+IS 11
+
+RT Book, Whole
+ID 603874
+A1 Müller,Klaus-robert
+A1 Smola,Alex,J.
+A1 Rätsch,Gunnar
+A1 Schölkopf,Bernhard
+A1 Kohlmorgen,Jens
+A1 Vapnik,Vladimir
+YR 1997
+T1 Predicting Time Series with Support Vector Machines
+SP 999
+OP 1004
+
+RT Journal Article
+ID 304817
+A1 Smola,A.,J.
+A1 Scholkopf,B.
+YR 1997
+T1 On a Kernel-Based Method for Pattern Recognition, Regression, Approximation, and Operator Inversion1
+JF Algorithmica
+
+RT Conference Proceedings
+ID 2139481
+A1 Burges,C.,J.,C.
+A1 Schölkopf,B.
+YR 1997
+T1 Improving the accuracy and speed of support vector learning machines
+
+RT Conference Proceedings
+ID 603779
+A1 Schölkopf,Bernhard
+A1 Smola,Alex,J.
+A1 Müller,Klaus-robert
+YR 1997
+T1 Kernel Principal Component Analysis
+SP 583
+OP 588
+
+RT Conference Proceedings
+ID 560449
+A1 Schölkopf,Bernhard
+A1 Simard,Patrice
+A1 Smola,Alex,J.
+A1 Vapnik,Vladimir
+YR 1997
+T1 Prior Knowledge in Support Vector Kernels
+
+RT Conference Proceedings
+ID 133534
+A1 Franz,Matthias,O.
+A1 Schölkopf,Bernhard
+A1 Georg,Philipp
+A1 Mallot,Hanspeter,A.
+A1 Bülthoff,Heinrich,H.
+YR 1997
+T1 Learning view graphs for robot navigation
+SP 138
+OP 147
+
+RT Conference Proceedings
+ID 560622
+A1 Smola,Alex,J.
+A1 Schölkopf,Bernhard
+YR 1997
+T1 From Regularization Operators to Support Vector Kernels
+
+RT Book, Whole
+ID 604109
+A1 Mallot,Hanspeter,A.
+A1 Franz,Matthias,O.
+A1 Schölkopf,Bernhard
+A1 Biilthoff,Heinrich,H.
+YR 1997
+T1 The View-Graph Approach to Visual Navigation and Spatial Memory
+SP 751
+OP 756
+
+RT Book, Whole
+ID 313307
+A1 Schölkopf,Bernhard
+A1 Burges,Chris
+A1 Vapnik,Vladimir
+YR 1996
+T1 Incorporating Invariances in Support Vector Learning Machines
+SP 47
+OP 52
+
+RT Conference Proceedings
+ID 560636
+A1 Burges,Christopher,J.,C.
+A1 Schölkopf,Bernhard
+YR 1996
+T1 Improving the Accuracy and Speed of Support Vector Machines
+SP 375
+OP 381
+
+RT Book, Whole
+ID 603908
+A1 Blanz,Volker
+A1 Schölkopf,Bernhard
+A1 Bülthoff,Heinrich,H.
+A1 Burges,Chris
+A1 Vapnik,Vladimir
+A1 Vetter,Thomas
+YR 1996
+T1 Comparison of View-Based Object Recognition Algorithms Using Realistic 3D Models
+SP 251
+OP 256
+
+RT Conference Proceedings
+ID 473768
+A1 Schölkopf,Bernhard
+A1 Burges,Chris
+A1 Vapnik,Vladimir
+YR 1995
+T1 Extracting Support Data for a Given Task
+SP 252
+OP 257
+
+RT Journal Article
+ID 1988703
+A1 Schölkopf,Bernhard
+A1 Mallot,Hanspeter,A.
+YR 1995
+T1 View-Based Cognitive Mapping and Path Planning
+JF Adaptive Behavior
+VO 3
+SP 311
+OP 348
+IS 3
+
+RT Conference Proceedings
+ID 115846
+A1 Scholkopf,Bernhard
+A1 Mallot,Hanspeter,A.
+A1 Bulthoff,Heinrich,H.
+A1 Yasuhara,Ken
+YR 1995
+T1 View--Based Cognitive Map Learning By an Autonomous Robot
+
+RT Book, Whole
+ID 2943
+A1 Schölkopf,Bernhard
+A1 Smola,Alexander
+A1 Mfiller,Klaus-Robert
+T1 Kernel principal component analysis
+
+RT Book, Whole
+ID 228563
+A1 Schölkopf,Bernhard
+A1 Herbrich,Ralf
+A1 Smola,Alex,J.
+T1 A Generalized Representer Theorem
+
+RT Journal Article
+ID 10118977
+A1 Müller,K.-R.
+A1 Tsuda,K.
+A1 Mika,S.
+A1 Rätsch,G.
+A1 Schölkopf,B.
+T1 An Introduction to Kernel-Based Learning Algorithms
+JF IEEE Transactions on Neural Networks
+
+RT Book, Whole
+ID 290037
+A1 Smola,Alex,J.
+A1 Mangasarian,Olvi,L.
+A1 Schölkopf,Bernhard
+T1 Sparse Kernel Feature Analysis
+
+RT Journal Article
+ID 371508
+A1 Scholkopf,Bernhard
+A1 Smola,Alex
+T1 Support Vector Methods in Learning and Feature Extraction
+
+RT Conference Proceedings
+ID 401902
+A1 Smola,A.,j.
+A1 Murata,N.
+A1 Schölkopf,B.
+A1 Müller,K.,r
+T1 Asymptotically Optimal Choice of epsilon-Loss for Support Vector Machines
+
+RT Conference Proceedings
+ID 6926260
+A1 Graepel,Thore
+A1 Herbrich,Ralf
+A1 Scholkopf,Bernhard
+A1 Smola,Alex
+A1 Bartlett,Peter
+A1 Muller,Klaus-Robert
+A1 Obermayer,Klaus
+A1 Williamson,Robert
+T1 Classification on Proximity Data with LP-Machines
+
+RT Book, Whole
+ID 374578
+A1 Williamson,Robert,C.
+A1 Smola,Anu,Alex,J.
+A1 Schölkopf,Bernhard
+T1 Entropy Numbers, Operators and Support Vector Kernels
+
+RT Journal Article
+ID 2618058
+A1 Zhou,Dengyong
+A1 Scholkopf,Bernhard
+T1 A Regularization Framework for Learning from Graph Data
+
+RT Journal Article
+ID 12874312
+A1 Vert,Jean-Philippe
+A1 Tsuda,Koji
+A1 Scholkopf,Bernhard
+T1 A primer on kernel methods
+
+RT Journal Article
+ID 4904083
+A1 Farquhar,J.
+A1 Hill,N.,J.
+A1 Lal,T.,N.
+A1 Scholkopf,B.
+T1 REGULARISED CSP FOR SENSOR SELECTION IN BCI
+
+RT Conference Proceedings
+ID 6644789
+A1 Chapelle,Olivier
+A1 Scholkopf,Bernhard
+T1 Incorporating Invariances in Nonlinear Support Vector Machines
+
+RT Conference Proceedings
+ID 10494695
+A1 Sonnenburg,Soren
+A1 Ratsch,Gunnar
+A1 Scholkopf,Bernhard
+T1 Large Scale Genomic Sequence SVM Classiers
+
+RT Journal Article
+ID 12560590
+A1 Ratsch,Gunnar
+A1 Scholkopf,Bernhard
+A1 Mika,Sebastian
+A1 Muller,Klaus-Robert
+T1 SVM and Boosting: One Class
+
+RT Journal Article
+ID 11560824
+A1 Zhou,Dengyong
+A1 Scholkopf,Bernhard
+T1 1 Discrete Regularization
+
+RT Conference Proceedings
+ID 10236943
+A1 Zhou,Dengyong
+A1 Huang,Jiayuan
+A1 Scholkopf,Bernhard
+T1 Learning with Hypergraphs: Clustering, Classiflcation, and Embedding
+
+RT Journal Article
+ID 4504873
+A1 Hofmann,Thomas
+A1 Scholkopf,Bernhard
+A1 Smola,Alexander,J.
+T1 A Tutorial Review of RKHS Methods in Machine Learning
+
+RT Journal Article
+ID 4896354
+A1 Hill,N.,J.
+A1 Farquhar,J.
+A1 Lal,T.,N.
+A1 Scholkopf,B.
+T1 TIME-DEPENDENT DEMIXING OF TASK-RELEVANT EEG SOURCES
+
+RT Conference Proceedings
+ID 6920168
+A1 Chapelle,Olivier
+A1 Scholkopf,Bernhard
+A1 Weston,Jason
+T1 Semi-Supervised Learning through Principal Directions Estimation
+
+RT Journal Article
+ID 12721421
+A1 Vannerem,P.
+A1 Muller,R.
+A1 Scholkopf,B.
+A1 Smola,A.
+T1 Classifying LEP Data with Support Vector Algorithms
+
+RT Journal Article
+ID 11367937
+A1 Hofmann,M.
+A1 Steinke,F.
+A1 Scheel,V.
+A1 Schölkopf,B.
+A1 Pichler,B.,J.
+T1 MR-based PET Attenuation Correction - Method and Validation
+
+RT Journal Article
+ID 12810671
+A1 Scholkopf,Bernhard
+T1 Introduction to Kernel Methods
+
+RT Journal Article
+ID 4889937
+A1 Janzing,Dominik
+A1 Peters,Jonas
+A1 Mooij,Joris
+A1 Scholkopf,Bernhard
+T1 Identifying confounders using additive noise models
+
+RT Journal Article
+ID 4896406
+A1 Hill,N.,Jeremy
+A1 Lal,Thomas,Navin
+A1 Schroder,Michael
+A1 Hinterberger,Thilo
+A1 Birbaumer,Niels
+A1 Scholkopf,Bernhard
+T1 Selective Attention to Auditory Stimuli: A Brain-Computer Interface Paradigm
+
+RT Book, Whole
+ID 5687575
+A1 Lal,Thomas,Navin
+A1 Chapelle,Olivier
+A1 Schölkopf,Bernhard
+T1 Combining a Filter Method with SVMs
+
+RT Journal Article
+ID 12895142
+A1 Gretton,Arthur
+A1 Fukumizu,Kenji
+A1 Scholkopf,Bernhard
+A1 Smola,Alex
+A1 Hui,Choon
+A1 Max,Teo
+T1 Hilbert Space Representations of Probability Distributions
+
+RT Book, Whole
+ID 48519013
+A1 Smola,Alex
+A1 Gretton,Arthur
+A1 Song,Le
+A1 Schölkopf,Bernhard
+T1 A Hilbert Space Embedding for Distributions
+
+RT Journal Article
+ID 12950469
+A1 Chalimourda,Athanassia
+A1 Scholkopf,Bernhard
+A1 Smola,Alex,J.
+T1 Experimentally optimal n in support vector regression for different noise models and parameter settings
+
+RT Journal Article
+ID 5879213
+A1 Bießmann,F.
+A1 Hill,N.,J.
+A1 Farquhar,J.
+A1 Scholkopf,B.
+T1 Better Codes for the P300 Visual Speller
+
+RT Journal Article
+ID 5356449
+A1 Widmer,Christian
+A1 Schweikert,Gabriele
+A1 Scholkopf,Bernhard
+A1 Ratsch,Gunnar
+T1 Learning by Knowledge Transfer Between Organisms
+
+RT Journal Article
+ID 4903805
+A1 Kienzle,Wolf
+A1 Franz,Matthias,O.
+A1 Wichmann,Felix,A.
+A1 Scholkopf,Bernhard
+T1 Learning an Interest Operator from Eye Movements

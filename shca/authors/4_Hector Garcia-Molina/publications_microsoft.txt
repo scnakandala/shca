@@ -1,0 +1,6272 @@
+RT Journal Article
+ID 56916374
+A1 Parameswaran,Aditya,G.
+A1 Garcia-Molina,Hector
+A1 Park,Hyunjung
+A1 Polyzotis,Neoklis
+A1 Ramesh,Aditya
+A1 Widom,Jennifer
+YR 2012
+T1 CrowdScreen: algorithms for filtering data with humans
+SP 361
+OP 372
+
+RT Journal Article
+ID 56921769
+A1 Venetis,Petros
+A1 Garcia-Molina,Hector
+A1 Huang,Kerui
+A1 Polyzotis,Neoklis
+YR 2012
+T1 Max algorithms in crowdsourcing environments
+SP 989
+OP 998
+
+RT Journal Article
+ID 56916376
+A1 Guo,Stephen
+A1 Parameswaran,Aditya
+A1 Garcia-Molina,Hector
+YR 2012
+T1 So who won?: dynamic max discovery with the crowd
+SP 385
+OP 396
+
+RT Conference Proceedings
+ID 56982797
+A1 Whang,Steven,Euijong
+A1 Garcia-Molina,Hector
+YR 2012
+T1 Joint Entity Resolution
+SP 294
+OP 305
+
+RT Journal Article
+ID 56919602
+A1 Papadimitriou,Panagiotis
+A1 Garcia-Molina,Hector
+YR 2012
+T1 Sponsored search auctions with conflict constraints
+SP 283
+OP 292
+
+RT Journal Article
+ID 14396777
+A1 Papadimitriou,Panagiotis
+A1 Garcia-Molina,Hector
+YR 2011
+T1 Data Leakage Detection
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 23
+SP 51
+OP 63
+IS 1
+
+RT Conference Proceedings
+ID 39248275
+A1 Venetis,Petros
+A1 Koutrika,Georgia
+A1 Garcia-Molina,Hector
+YR 2011
+T1 On the selection of tags for tag clouds
+SP 835
+OP 844
+
+RT Journal Article
+ID 6247412
+A1 Ganapathy,Vignesh
+A1 Thomas,Dilys
+A1 Feder,Tomas
+A1 Garcia-Molina,Hector
+A1 Motwani,Rajeev
+YR 2011
+T1 Distributing data for secure database services
+SP 1
+OP 10
+
+RT Journal Article
+ID 39314110
+A1 Parameswaran,Aditya,G.
+A1 Sarma,Anish,Das
+A1 Garcia-Molina,Hector
+A1 Polyzotis,Neoklis
+A1 Widom,Jennifer
+YR 2011
+T1 Human-Assisted Graph Search: It's Okay to Ask Questions
+JF Computing Research Repository
+VO abs/1103.3
+
+RT Conference Proceedings
+ID 39248267
+A1 Sadikov,Eldar
+A1 Medina,Montserrat
+A1 Leskovec,Jure
+A1 Garcia-Molina,Hector
+YR 2011
+T1 Correcting for missing data in information cascades
+SP 55
+OP 64
+
+RT Journal Article
+ID 39336150
+A1 Parameswaran,Aditya,G.
+A1 Sarma,Anish,Das
+A1 Garcia-Molina,Hector
+A1 Polyzotis,Neoklis
+A1 Widom,Jennifer
+YR 2011
+T1 Human-assisted graph search: it's okay to ask questions
+JF Proceedings of The Vldb Endowment
+VO 4
+SP 267
+OP 278
+IS 5
+
+RT Journal Article
+ID 13495748
+A1 Parameswaran,Aditya
+A1 Venetis,Petros
+A1 Garcia-Molina,Hector
+YR 2011
+T1 Recommendation systems with complex constraints: A course recommendation perspective
+JF ACM Transactions on Information Systems
+SP 1
+OP 33
+
+RT Journal Article
+ID 56907685
+A1 Papadimitriou,Panagiotis
+A1 Garcia-Molina,Hector
+A1 Krishnamurthy,Prabhakar
+A1 Lewis,Randall,A.
+A1 Reiley,David,H.
+YR 2011
+T1 Display advertising impact: search lift and social influence
+SP 1019
+OP 1027
+
+RT Journal Article
+ID 56909212
+A1 Garcia-Molina,Hector
+A1 Koutrika,Georgia
+A1 Parameswaran,Aditya
+YR 2011
+T1 Information seeking: convergence of search, recommendations, and advertising
+JF Communications of The ACM
+SP 121
+OP 130
+
+RT Conference Proceedings
+ID 39248660
+A1 Heymann,Paul
+A1 Garcia-Molina,Hector
+YR 2011
+T1 Turkalytics: analytics for human computation
+SP 477
+OP 486
+
+RT Conference Proceedings
+ID 39259963
+A1 Whang,Steven
+A1 Garcia-Molina,Hector
+YR 2011
+T1 Managing Information Leakage
+SP 79
+OP 84
+
+RT Conference Proceedings
+ID 13281286
+A1 Heymann,Paul
+A1 Paepcke,Andreas
+A1 Garcia-Molina,Hector
+YR 2010
+T1 Tagging human knowledge
+SP 51
+OP 60
+
+RT Journal Article
+ID 6106419
+A1 Papadimitriou,Panagiotis
+A1 Dasdan,Ali
+A1 Garcia-Molina,Hector
+YR 2010
+T1 Web graph similarity for anomaly detection
+JF Journal of Internet Services and Applications
+VO 1
+SP 19
+OP 30
+IS 1
+
+RT Conference Proceedings
+ID 13277666
+A1 Parameswaran,Aditya,G.
+A1 Koutrika,Georgia
+A1 Bercovitz,Benjamin
+A1 Garcia-Molina,Hector
+YR 2010
+T1 Recsplorer: recommendation algorithms based on precedence mining
+SP 87
+OP 98
+
+RT Journal Article
+ID 39225464
+A1 Breitbart,Yuri
+A1 Garcia-Molina,Hector
+A1 Silberschatz,Avi
+YR 2010
+T1 Overview of multidatabase transaction management
+JF The Vldb Journal
+SP 93
+OP 126
+
+RT Conference Proceedings
+ID 6321832
+A1 Sarma,Anish,Das
+A1 Parameswaran,Aditya,G.
+A1 Garcia-Molina,Hector
+A1 Widom,Jennifer
+YR 2010
+T1 Synthesizing view definitions from data
+SP 89
+OP 103
+
+RT Journal Article
+ID 13988678
+A1 Whang,Steven,Euijong
+A1 Garcia-Molina,Hector
+YR 2010
+T1 Entity Resolution with Evolving Rules
+JF Proceedings of The Vldb Endowment
+VO 3
+SP 1326
+OP 1337
+IS 1
+
+RT Journal Article
+ID 13989100
+A1 Parameswaran,Aditya,G.
+A1 Garcia-Molina,Hector
+A1 Rajaraman,Anand
+YR 2010
+T1 Towards The Web of Concepts: Extracting Concepts from Large Datasets
+JF Proceedings of The Vldb Endowment
+VO 3
+SP 566
+OP 577
+IS 1
+
+RT Journal Article
+ID 13988625
+A1 Menestrina,David
+A1 Whang,Steven
+A1 Garcia-Molina,Hector
+YR 2010
+T1 Evaluating Entity Resolution Results
+JF Proceedings of The Vldb Endowment
+VO 3
+SP 208
+OP 219
+IS 1
+
+RT Conference Proceedings
+ID 6194399
+A1 Parameswaran,Aditya,G.
+A1 Garcia-Molina,Hector
+A1 Ullman,Jeffrey,D.
+YR 2010
+T1 Evaluating, combining and generalizing recommendations with prerequisites
+SP 919
+OP 928
+
+RT Journal Article
+ID 13990225
+A1 Abadi,Daniel
+A1 Carey,Michael,J.
+A1 Chaudhuri,Surajit
+A1 Garcia-Molina,Hector
+A1 Patel,Jignesh,M.
+A1 Ramakrishnan,Raghu
+YR 2010
+T1 Cloud Databases: What's New?
+JF Proceedings of The Vldb Endowment
+VO 3
+SP 1657
+IS 2
+
+RT Journal Article
+ID 14415425
+A1 Bercovitz,Benjamin
+A1 Kaliszan,Filip
+A1 Koutrika,Georgia
+A1 Liou,Henry
+A1 Parameswaran,Aditya,G.
+A1 Venetis,Petros
+A1 Zadeh,Zahra,Mohammadi
+A1 Garcia-Molina,Hector
+YR 2010
+T1 Social sites research through CourseRank
+JF Sigmod Record
+VO 38
+SP 29
+OP 34
+IS 4
+
+RT Journal Article
+ID 39336141
+A1 Papadimitriou,Panagiotis
+A1 Garcia-Molina,Hector
+A1 Dasdan,Ali
+A1 Kolay,Santanu
+YR 2010
+T1 Output URL Bidding
+JF Proceedings of The Vldb Endowment
+VO 4
+SP 161
+OP 172
+IS 3
+
+RT Journal Article
+ID 13989059
+A1 Cho,Junghoo
+A1 Garcia-Molina,Hector
+YR 2010
+T1 Dealing with Web Data: History and Look ahead
+JF Proceedings of The Vldb Endowment
+VO 3
+SP 4
+IS 1
+
+RT Conference Proceedings
+ID 4740429
+A1 Ramage,Daniel
+A1 Heymann,Paul
+A1 Manning,Christopher,D.
+A1 Garcia-molina,Hector
+YR 2009
+T1 Clustering the tagged web
+SP 54
+OP 63
+
+RT Journal Article
+ID 4418511
+A1 Benjelloun,Omar
+A1 Garcia-molina,Hector
+A1 Menestrina,David
+A1 Su,Qi
+A1 Whang,Steven,Euijong
+A1 Widom,Jennifer
+YR 2009
+T1 Swoosh: a generic approach to entity resolution
+JF The Vldb Journal
+VO 18
+SP 255
+OP 276
+IS 1
+
+RT Conference Proceedings
+ID 4706508
+A1 Koutrika,Georgia
+A1 Zadeh,Zahra,Mohammadi
+A1 Garcia-molina,Hector
+YR 2009
+T1 Data clouds: summarizing keyword search results over structured data
+SP 391
+OP 402
+
+RT Journal Article
+ID 4755283
+A1 Agrawal,Rakesh
+A1 Ailamaki,Anastasia
+A1 Bernstein,Philip,A.
+A1 Brewer,Eric,A.
+A1 Carey,Michael,J.
+A1 Chaudhuri,Surajit
+A1 Doan,Anhai
+A1 Florescu,Daniela
+A1 Franklin,Michael,J.
+A1 Garcia-molina,Hector
+A1 Gehrke,Johannes
+A1 Gruenwald,Le
+A1 Haas,Laura,M.
+A1 Halevy,Alon,Y.
+A1 Hellerstein,Joseph,M.
+A1 Ioannidis,Yannis,E.
+A1 Korth,Henry,F.
+A1 Kossmann,Donald
+A1 Madden,Samuel
+A1 Magoulas,Roger
+A1 Ooi,Beng,Chin
+A1 O'reilly,Tim
+A1 Ramakrishnan,Raghu
+A1 Sarawagi,Sunita
+A1 Stonebraker,Michael
+A1 Szalay,Alexander,S.
+A1 Weikum,Gerhard
+YR 2009
+T1 The Claremont report on database research
+JF Communications of The ACM
+VO 52
+SP 56
+OP 65
+IS 6
+
+RT Conference Proceedings
+ID 4933575
+A1 Whang,Steven,Euijong
+A1 Menestrina,David
+A1 Koutrika,Georgia
+A1 Theobald,Martin
+A1 Garcia-molina,Hector
+YR 2009
+T1 Entity resolution with iterative blocking
+SP 219
+OP 232
+
+RT Conference Proceedings
+ID 5760859
+A1 Bercovitz,Benjamin
+A1 Kaliszan,Filip
+A1 Koutrika,Georgia
+A1 Liou,Henry
+A1 Zadeh,Zahra,Mohammadi
+A1 Garcia-molina,Hector
+YR 2009
+T1 CourseRank: a social system for course planning
+SP 1107
+OP 1110
+
+RT Conference Proceedings
+ID 5858972
+A1 Koutrika,Georgia
+A1 Bercovitz,Benjamin
+A1 Garcia-molina,Hector
+YR 2009
+T1 FlexRecs: expressing and combining flexible recommendations
+SP 745
+OP 758
+
+RT Conference Proceedings
+ID 4740402
+A1 Antonellis,Ioannis
+A1 Garcia-molina,Hector
+A1 Karim,Jawed
+YR 2009
+T1 Tagging with Queries: How and Why?
+
+RT Conference Proceedings
+ID 4706513
+A1 Koutrika,Georgia
+A1 Zadeh,Zahra,Mohammadi
+A1 Garcia-molina,Hector
+YR 2009
+T1 CourseCloud: summarizing and refining keyword searches over structured data
+SP 1132
+OP 1135
+
+RT Book, Whole
+ID 39250851
+A1 Garcia-Molina,Hector
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 2009
+T1 Database systems - the complete book (2. ed.)
+
+RT Conference Proceedings
+ID 4740435
+A1 Heymann,Paul
+A1 Garcia-molina,Hector
+YR 2009
+T1 Contrasting Controlled Vocabulary and Tagging: Experts Choose the Right Names to Label the Wrong Things
+
+RT Conference Proceedings
+ID 4715893
+A1 Koutrika,Georgia
+A1 Bercovitz,Benjamin
+A1 Ikeda,Robert
+A1 Kaliszan,Filip
+A1 Liou,Henry
+A1 Garcia-molina,Hector
+YR 2009
+T1 Flexible Recommendations for Course Planning
+SP 1467
+OP 1470
+
+RT Journal Article
+ID 6086277
+A1 Whang,Steven,Euijong
+A1 Benjelloun,Omar
+A1 Garcia-molina,Hector
+YR 2009
+T1 Generic entity resolution with negative rules
+JF The Vldb Journal
+VO 18
+SP 1261
+OP 1277
+IS 6
+
+RT Conference Proceedings
+ID 6054707
+A1 Parameswaran,Aditya,G.
+A1 Garcia-molina,Hector
+YR 2009
+T1 Recommendations with prerequisites
+SP 353
+OP 356
+
+RT Journal Article
+ID 4703435
+A1 Koutrika,Georgia
+A1 Bercovitz,Benjamin
+A1 Ikeda,Robert
+A1 Kaliszan,Filip
+A1 Liou,Henry
+A1 Zadeh,Zahra,Mohammadi
+A1 Garcia-Molina,Hector
+YR 2009
+T1 Social Systems: Can We Do More Than Just Poke Friends?
+JF Computing Research Repository
+VO abs/0909.1
+
+RT Journal Article
+ID 6091230
+A1 Whang,Steven
+A1 Brower,Chad
+A1 Shanmugasundaram,Jayavel
+A1 Vassilvitskii,Sergei
+A1 Vee,Erik
+A1 Yerneni,Ramana
+A1 Garcia-molina,Hector
+YR 2009
+T1 Indexing Boolean Expressions
+JF Proceedings of The Vldb Endowment
+VO 2
+SP 37
+OP 48
+IS 1
+
+RT Conference Proceedings
+ID 6050315
+A1 Mungamuru,Bobji
+A1 Garcia-molina,Hector
+YR 2009
+T1 Managing the quality of CPC traffic
+SP 215
+OP 224
+
+RT Journal Article
+ID 6799045
+A1 Karim,Jawed
+A1 Antonellis,Ioannis
+A1 Ganapathi,Varun
+A1 Garcia-Molina,Hector
+YR 2009
+T1 A Dynamic Navigation Guide for Webpages
+
+RT Conference Proceedings
+ID 4715995
+A1 Papadimitriou,Panagiotis
+A1 Garcia-molina,Hector
+YR 2009
+T1 A Model for Data Leakage Detection
+SP 1307
+OP 1310
+
+RT Conference Proceedings
+ID 5871693
+A1 Koutrika,Georgia
+A1 Bercovitz,Benjamin
+A1 Kaliszan,Filip
+A1 Liou,Henry
+A1 Garcia-Molina,Hector
+YR 2009
+T1 CourseRank: A Closed-Community Social System through the Magnifying Glass
+
+RT Journal Article
+ID 4982957
+A1 Dasdan,Ali
+A1 Kolay,Santanu
+A1 Papadimitriou,Panagiotis
+A1 Garcia-Molina,Hector
+YR 2009
+T1 Output Bidding: A New Search Advertising Model Complementary to Keyword Bidding
+
+RT Conference Proceedings
+ID 4343135
+A1 Heymann,Paul
+A1 Koutrika,Georgia
+A1 Garcia-molina,Hector
+YR 2008
+T1 Can social bookmarking improve web search?
+SP 195
+OP 206
+
+RT Conference Proceedings
+ID 4316993
+A1 Heymann,Paul
+A1 Ramage,Daniel
+A1 Garcia-molina,Hector
+YR 2008
+T1 Social tag prediction
+SP 531
+OP 538
+
+RT Journal Article
+ID 4408429
+A1 Agrawal,Rakesh, 
+A1 Bernstein,Philip,A.
+A1 Brewer,Eric,A.
+A1 Carey,Michael,J.
+A1 Chaudhuri,Surajit
+A1 Doan,Anhai
+A1 Florescu,Daniela
+A1 Franklin,Michael,J.
+A1 Garcia-molina,Hector
+A1 Gehrke,Johannes
+A1 Gruenwald,Le
+A1 Haas,Laura,M.
+A1 Halevy,Alon,Y.
+A1 Hellerstein,Joseph,M.
+A1 Ioannidis,Yannis,E.
+A1 Korth,Henry,F.
+A1 Kossmann,Donald
+A1 Madden,Samuel
+A1 Magoulas,Roger
+A1 Ooi,Beng,Chin
+A1 O'reilly,Tim
+A1 Ramakrishnan,Raghu
+A1 Sarawagi,Sunita
+A1 Stonebraker,Michael
+A1 Szalay,Alexander,S.
+A1 Weikum,Gerhard
+YR 2008
+T1 The Claremont report on database research
+JF Sigmod Record
+VO 37
+SP 9
+OP 19
+IS 3
+
+RT Journal Article
+ID 4439924
+A1 Antonellis,Ioannis
+A1 Garcia-molina,Hector
+A1 Chang,Chi-chao
+YR 2008
+T1 Simrank++: query rewriting through link analysis of the click graph
+JF Proceedings of The Vldb Endowment
+VO 1
+SP 408
+OP 421
+IS 1
+
+RT Journal Article
+ID 4426625
+A1 Koutrika,Georgia
+A1 Effendi,Frans,Adjie
+A1 Gyöngyi,Zoltán
+A1 Heymann,Paul
+A1 Garcia-molina,Hector
+YR 2008
+T1 Combating spam in tagging systems: An evaluation
+JF ACM Transactions on The Web
+VO 2
+SP 1
+OP 34
+IS 4
+
+RT Conference Proceedings
+ID 4341317
+A1 Koutrika,Georgia
+A1 Ikeda,Robert
+A1 Bercovitz,Benjamin
+A1 Garcia-molina,Hector
+YR 2008
+T1 Flexible recommendations over rich data
+SP 203
+OP 210
+
+RT Conference Proceedings
+ID 4241695
+A1 Kandel,Sean
+A1 Paepcke,Andreas
+A1 Theobald,Martin
+A1 Garcia-molina,Hector
+A1 Abelson,Eric
+YR 2008
+T1 Photospread: a spreadsheet for managing photos
+SP 1749
+OP 1758
+
+RT Book, Whole
+ID 4325305
+A1 Mungamuru,Bobji
+A1 Garcia-molina,Hector
+YR 2008
+T1 Predictive Pricing and Revenue Sharing
+SP 53
+OP 60
+
+RT Conference Proceedings
+ID 4710580
+A1 Mungamuru,Bobji
+A1 Garcia-molina,Hector
+YR 2008
+T1 Privacy, Preservation and Performance: The 3 P's of Distributed Data Management
+SP 392
+OP 401
+
+RT Conference Proceedings
+ID 4326906
+A1 Papadimitriou,Panagiotis
+A1 Dasdan,Ali
+A1 Garcia-molina,Hector
+YR 2008
+T1 Web graph similarity for anomaly detection (poster)
+SP 1167
+OP 1168
+
+RT Conference Proceedings
+ID 4326804
+A1 Antonellis,Ioannis
+A1 Garcia-molina,Hector
+A1 Chang,Chi-chao
+YR 2008
+T1 Simrank++: query rewriting through link analysis of the clickgraph (poster)
+SP 1177
+OP 1178
+
+RT Conference Proceedings
+ID 4343133
+A1 Garcia-molina,Hector
+YR 2008
+T1 Web information management: past, present and future
+SP 1
+OP 1
+
+RT Conference Proceedings
+ID 4272190
+A1 Zhao,Kai
+A1 Ikeda,Robert
+A1 Garcia-molina,Hector
+YR 2008
+T1 Merging Hierarchies Using Object Placement
+SP 1317
+OP 1318
+
+RT Book, Whole
+ID 4256057
+A1 Ikeda,Robert
+A1 Zhao,Kai
+A1 Garcia-molina,Hector
+YR 2008
+T1 Matching Hierarchies Using Shared Objects
+SP 209
+OP 220
+
+RT Conference Proceedings
+ID 50647441
+A1 Molina,H.,G.
+YR 2008
+T1 PhotoSpread: A Spreadsheet for Managing Photos
+
+RT Book, Whole
+ID 4306015
+A1 Garcia-molina,Hector
+YR 2008
+T1 Flexible Recommendations in CourseRank
+SP 7
+
+RT Conference Proceedings
+ID 4337537
+A1 Koutrika,Georgia
+A1 Effendi,Frans,Adjie
+A1 Gyöngyi,Zoltán
+A1 Heymann,Paul
+A1 Garcia-molina,Hector
+YR 2007
+T1 Combating Spam in Tagging Systems
+SP 57
+OP 64
+
+RT Journal Article
+ID 4392798
+A1 Heymann,Paul
+A1 Koutrika,Georgia
+A1 Garcia-molina,Hector
+YR 2007
+T1 Fighting Spam on Social Web Sites: A Survey of Approaches and Future Challenges
+JF IEEE Internet Computing
+VO 11
+SP 36
+OP 45
+IS 6
+
+RT Journal Article
+ID 4371305
+A1 Antonellis,Ioannis
+A1 Garcia-Molina,Hector
+A1 Chang,Chi-Chao
+YR 2007
+T1 Simrank++: Query rewriting through link analysis of the click graph
+JF Computing Research Repository
+VO abs/0712.0
+
+RT Conference Proceedings
+ID 2436721
+A1 Benjelloun,Omar
+A1 Garcia-molina,Hector
+A1 Gong,Heng
+A1 Kawai,Hideki
+A1 Larson,Tait,Eliott
+A1 Menestrina,David
+A1 Thavisomboon,Sutthipong
+YR 2007
+T1 D-Swoosh: A Family of Algorithms for Generic, Distributed Entity Resolution
+SP 37
+OP 37
+
+RT Journal Article
+ID 2507321
+A1 Bawa,Mayank
+A1 Gionis,Aristides
+A1 Garcia-molina,Hector
+A1 Motwani,Rajeev
+YR 2007
+T1 The price of validity in dynamic networks
+JF Journal of Computer and System Sciences
+VO 73
+SP 245
+OP 264
+IS 3
+
+RT Journal Article
+ID 2494329
+A1 Huang,Yongqiang
+A1 Garcia-molina,Hector
+YR 2007
+T1 Parameterized subscriptions in publish/subscribe systems
+JF Data & Knowledge Engineering
+VO 60
+SP 435
+OP 450
+IS 3
+
+RT Conference Proceedings
+ID 2422081
+A1 Mungamuru,Bob
+A1 Garcia-molina,Hector
+YR 2007
+T1 Beyond Just Data Privacy
+SP 324
+OP 331
+
+RT Journal Article
+ID 4659354
+A1 Abiteboul,S.
+A1 Agrawal,R.
+A1 Bernstein,P.,A.
+A1 Carey,M.,J.
+A1 Ceri,S.
+A1 Croft,W.,B.
+A1 DeWitt,D.,J.
+A1 Franklin,M.,J.
+A1 Garcia-Molina,H.
+A1 Gawlick,D.
+A1 Gray,J.
+A1 Haas,L.,M.
+A1 Halevy,A.,Y.
+A1 Hellerstein,J.,M.
+A1 Ioannidis,Y.,E.
+A1 Kersten,M.,L.
+A1 Pazzani,M.,J.
+A1 Lesk,M.
+A1 Maier,D.
+A1 Naughton,J.,F.
+YR 2007
+T1 IS1 Collected Scientific Publications: 2004 - 2007 References
+
+RT Conference Proceedings
+ID 4308798
+A1 Mungamuru,Bob
+A1 Garcia-molina,Hector
+A1 Olston,Christopher
+YR 2007
+T1 Configurations: a model for distributed data storage
+SP 332
+OP 333
+
+RT Journal Article
+ID 1689859
+A1 Marti,Sergio
+A1 Garcia-Molina,Hector
+YR 2006
+T1 Taxonomy of trust: categorizing P2P reputation systems
+JF Computer Networks
+VO 50
+SP 472
+OP 484
+IS 4
+
+RT Journal Article
+ID 7039020
+A1 Heymann,Paul
+A1 Garcia-Molinay,Hector
+YR 2006
+T1 Collaborative Creation of Communal Hierarchical Taxonomies in Social Tagging Systems
+
+RT Conference Proceedings
+ID 2186963
+A1 Gyöngyi,Zoltán
+A1 Berkhin,Pavel
+A1 Garcia-molina,Hector
+A1 Pedersen,Jan,O.
+YR 2006
+T1 Link Spam Detection Based on Mass Estimation
+SP 439
+OP 450
+
+RT Journal Article
+ID 2517352
+A1 Cho,Junghoo
+A1 Garcia-molina,Hector
+A1 Haveliwala,Taher,H.
+A1 Lam,Wang
+A1 Paepcke,Andreas
+A1 Raghavan,Sriram
+A1 Wesley,Gary
+YR 2006
+T1 Stanford WebBase components and applications
+JF ACM Transactions on Internet Technology
+VO 6
+SP 153
+OP 186
+IS 2
+
+RT Conference Proceedings
+ID 2205213
+A1 Menestrina,David
+A1 Benjelloun,Omar
+A1 Garcia-molina,Hector
+YR 2006
+T1 Generic Entity Resolution with Data Confidences
+
+RT Journal Article
+ID 2175438
+A1 Benjelloun,Omar
+A1 Garcia-molina,Hector
+A1 Kawai,Hideki
+A1 Larson,Tait,Eliott
+A1 Menestrina,David
+A1 Su,Qi
+A1 Thavisomboon,Sutthipong
+A1 Widom,Jennifer
+YR 2006
+T1 Generic Entity Resolution in the SERF Project
+JF IEEE Data(base) Engineering Bulletin
+VO 29
+SP 13
+OP 20
+IS 2
+
+RT Conference Proceedings
+ID 2473742
+A1 Mungamuru,Bob
+A1 Garcia-molina,Hector
+A1 Mitra,Subhasish
+YR 2006
+T1 How To Safeguard Your Sensitive Data
+SP 199
+OP 211
+
+RT Conference Proceedings
+ID 2422291
+A1 Garcia-molina,Hector
+YR 2006
+T1 PairWise entity resolution: overview and challenges
+SP 1
+OP 1
+
+RT Journal Article
+ID 2492557
+A1 Cooper,Brian,F.
+A1 Garcia-molina,Hector
+YR 2006
+T1 SIL: A model for analyzing scalable peer-to-peer search networks
+JF Computer Networks
+VO 50
+SP 2380
+OP 2400
+IS 13
+
+RT Journal Article
+ID 2518708
+A1 Naaman,Mor
+A1 Song,Yee,Jiun
+A1 Paepcke,Andreas
+A1 Garcia-molina,Hector
+YR 2006
+T1 Assigning textual names to sets of geographic coordinates
+JF Computers, Environment and Urban Systems
+VO 30
+SP 418
+OP 435
+IS 4
+
+RT Journal Article
+ID 2492561
+A1 Sun,Qixiang
+A1 Daswani,Neil
+A1 Garcia-molina,Hector
+YR 2006
+T1 Maximizing remote work in flooding-based peer-to-peer systems
+JF Computer Networks
+VO 50
+SP 1583
+OP 1598
+IS 10
+
+RT Journal Article
+ID 10642050
+A1 Caselli,Bruno
+A1 Cabrera,Juan
+A1 Molina,Héctor
+YR 2006
+T1 ANÁLISIS DE SUPERVIVENCIA EN GASTRECTOMÍA SUBTOTAL POR CÁNCER GÁSTRICO. CONCEPCIÓN, CHILE
+
+RT Conference Proceedings
+ID 2461948
+A1 Garcia-molina,Hector
+YR 2006
+T1 Overview of Search Engine Spamming
+SP 4
+
+RT Conference Proceedings
+ID 2292869
+A1 Gyöngyi,Zoltán
+A1 Garcia-molina,Hector
+YR 2005
+T1 Web Spam Taxonomy
+SP 39
+OP 47
+
+RT Conference Proceedings
+ID 1238405
+A1 Naaman,Mor
+A1 Yeh,Ron,B.
+A1 Garcia-Molina,Hector
+A1 Paepcke,Andreas
+YR 2005
+T1 Leveraging context to resolve identity in photo albums
+SP 178
+OP 187
+
+RT Conference Proceedings
+ID 1817155
+A1 Gyöngyi,Zoltán
+A1 Garcia-Molina,Hector
+YR 2005
+T1 Link Spam Alliances
+SP 517
+OP 528
+
+RT Conference Proceedings
+ID 1785902
+A1 Aggarwal,Gagan
+A1 Bawa,Mayank
+A1 Ganesan,Prasanna
+A1 Garcia-molina,Hector
+A1 Kenthapadi,Krishnaram
+A1 Motwani,Rajeev
+A1 Srivastava,Utkarsh
+A1 Thomas,Dilys
+A1 Xu,Ying
+YR 2005
+T1 Two Can Keep A Secret: A Distributed Architecture for Secure Database Services
+SP 186
+OP 199
+
+RT Journal Article
+ID 2382081
+A1 Benjelloun,O.
+A1 Garcia-molina,H.
+A1 Su,Q.
+A1 Widom,J.
+YR 2005
+T1 Swoosh: A Generic Approach to Entity Resolution
+
+RT Journal Article
+ID 1247969
+A1 Cooper,Brian,F.
+A1 Garcia-Molina,Hector
+YR 2005
+T1 Ad Hoc, self-supervising peer-to-peer search networks
+JF ACM Transactions on Information Systems
+VO 23
+SP 169
+OP 200
+IS 2
+
+RT Journal Article
+ID 4222272
+A1 Gyongi,Z.
+A1 Berkhin,P.
+A1 Molina,H.,Garcia
+A1 Pedersen,J.
+YR 2005
+T1 Link spam detection based on mass estimation
+
+RT Conference Proceedings
+ID 1830377
+A1 Yang,Beverly
+A1 Condie,Tyson
+A1 Kamvar,Sepandar,D.
+A1 Garcia-molina,Hector
+YR 2005
+T1 NonCooperation in Competitive P2P Networks
+SP 91
+OP 100
+
+RT Journal Article
+ID 1610589
+A1 Gyöngyi,Zoltán
+A1 Garcia-molina,Hector
+YR 2005
+T1 Spam: It's Not Just for Inboxes Anymore
+JF IEEE Computer
+VO 38
+SP 28
+OP 34
+IS 10
+
+RT Journal Article
+ID 1735604
+A1 Cooper,Brian,F.
+A1 Bawa,Mayank
+A1 Daswani,Neil
+A1 Marti,Sergio
+A1 Garcia-molina,Hector
+YR 2005
+T1 Authenticity and availability in PIPE networks
+JF Future Generation Computer Systems
+VO 21
+SP 391
+OP 400
+IS 3
+
+RT Journal Article
+ID 1665139
+A1 Cooper,Brian,F.
+A1 Garcia-molina,Hector
+YR 2005
+T1 Peer-to-Peer Data Preservation through Storage Auctions
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 16
+SP 246
+OP 257
+IS 3
+
+RT Conference Proceedings
+ID 5225569
+A1 Ganesan,Prasanna
+A1 Sun,Qixiang
+A1 Garcia-Molina,Hector
+YR 2005
+T1 Adlib: a self-tuning index for dynamic peer-to-peer systems
+SP 256
+OP 259
+
+RT Journal Article
+ID 3726138
+A1 Cooper,B.
+A1 Garcia-molina,H.
+YR 2005
+T1 Self-supervising peer-to-peer search networks
+
+RT Conference Proceedings
+ID 1795732
+A1 Ganesan,Prasanna
+A1 Sun,Qixiang
+A1 Garcia-molina,Hector
+YR 2005
+T1 Adlib: A Self-Tuning Index for Dynamic P2P Systems
+SP 256
+OP 257
+
+RT Journal Article
+ID 4159158
+A1 Molina,H.,Garcia
+YR 2005
+T1 Spam: It''''s not just for inboxes anymore
+
+RT Conference Proceedings
+ID 1775306
+A1 Marti,Sergio
+A1 Garcia-molina,Hector
+YR 2005
+T1 Quantifying Agent Strategies under Reputation
+SP 97
+OP 105
+
+RT Journal Article
+ID 1718170
+A1 Cooper,Brian,F.
+A1 Garcia-molina,Hector
+YR 2005
+T1 InfoMonitor: unobtrusively archiving a World Wide Web server
+JF International Journal on Digital Libraries
+VO 5
+SP 106
+OP 119
+IS 2
+
+RT Journal Article
+ID 46886327
+A1 Paepcke,Andreas
+A1 Garcia-Molina,Hector
+A1 Wesley,Rebecca
+YR 2005
+T1 Dewey Meets Turing: Librarians, Computer Scientists, and the Digital Libraries Initiative
+JF D-lib Magazine
+VO 11
+IS 07/08
+
+RT Conference Proceedings
+ID 1870445
+A1 Garcia-Molina,Hector
+YR 2005
+T1 Handling data quality in entity resolution
+SP 1
+OP 1
+
+RT Journal Article
+ID 1711330
+A1 Ganesan,Prasanna
+A1 Garcia-molina,Hector
+YR 2005
+T1 Efficient Queries in Peer-to-Peer Systems
+JF IEEE Data(base) Engineering Bulletin
+VO 28
+SP 48
+OP 54
+IS 1
+
+RT Journal Article
+ID 13170341
+A1 Garcia-Molina,Hector
+A1 Widom,Jennifer
+YR 2005
+T1 Note that examples are not curriculum, meaning that the exam will not require knowl- edge of any particular example. (On the other hand it may be useful to read some of the examples to help you understand the text.)
+
+RT Conference Proceedings
+ID 579302
+A1 Gyöngyi,Zoltán
+A1 Garcia-molina,Hector
+A1 Pedersen,Jan,O.
+YR 2004
+T1 Combating Web Spam with TrustRank
+SP 576
+OP 587
+
+RT Book, Whole
+ID 1867100
+A1 Crespo,Arturo
+A1 Garcia-molina,Hector
+YR 2004
+T1 Semantic Overlay Networks for P2P Systems
+SP 1
+OP 13
+
+RT Conference Proceedings
+ID 1830096
+A1 Ganesan,Prasanna
+A1 Gummadi,P.,Krishna
+A1 Garcia-molina,Hector
+YR 2004
+T1 Canon in G Major: Designing DHTs with Hierarchical Structure
+SP 263
+OP 272
+
+RT Journal Article
+ID 1726955
+A1 Huang,Yongqiang
+A1 Garcia-molina,Hector
+YR 2004
+T1 Publish/Subscribe in a Mobile Environment
+JF Wireless Networks
+VO 10
+SP 643
+OP 652
+IS 6
+
+RT Conference Proceedings
+ID 903075
+A1 Marti,Sergio
+A1 Garcia-Molina,Hector
+YR 2004
+T1 Limited reputation sharing in P2P systems
+SP 91
+OP 101
+
+RT Conference Proceedings
+ID 579356
+A1 Ganesan,Prasanna
+A1 Bawa,Mayank
+A1 Garcia-molina,Hector
+YR 2004
+T1 Online Balancing of Range-Partitioned Data with Applications to Peer-to-Peer Systems
+SP 444
+OP 455
+
+RT Conference Proceedings
+ID 902742
+A1 Naaman,Mor
+A1 Song,Yee,Jiun
+A1 Paepcke,Andreas
+A1 Garcia-Molina,Hector
+YR 2004
+T1 Automatic organization for digital photographs with geographic coordinates
+SP 53
+OP 62
+
+RT Conference Proceedings
+ID 1239852
+A1 Naaman,Mor
+A1 Harada,Susumu
+A1 Wang,QianYing
+A1 Garcia-Molina,Hector
+A1 Paepcke,Andreas
+YR 2004
+T1 Context data in geo-referenced digital photo collections
+SP 196
+OP 203
+
+RT Conference Proceedings
+ID 1235993
+A1 Ganesan,Prasanna
+A1 Yang,Beverly
+A1 Garcia-Molina,Hector
+YR 2004
+T1 One torus to rule them all: multi-dimensional queries in P2P systems
+SP 19
+OP 24
+
+RT Conference Proceedings
+ID 50368399
+A1 Naaman,Mor
+A1 Song,Yee,Jiun
+A1 Paepcke,Andreas
+A1 Garcia-Molina,Hector
+YR 2004
+T1 Automatic organization for digital photographs with geographic coordinates
+
+RT Conference Proceedings
+ID 1830073
+A1 Sun,Qixiang
+A1 Garcia-molina,Hector
+YR 2004
+T1 SLIC: A Selfish Link-Based Incentive Mechanism for Unstructured Peer-to-Peer Networks
+SP 506
+OP 515
+
+RT Book, Whole
+ID 1835016
+A1 Marti,Sergio
+A1 Ganesan,Prasanna
+A1 Garcia-molina,Hector
+YR 2004
+T1 DHT Routing Using Social Links
+SP 100
+OP 111
+
+RT Conference Proceedings
+ID 668509
+A1 Bawa,Mayank
+A1 Gionis,Aristides
+A1 Garcia-Molina,Hector
+A1 Motwani,Rajeev
+YR 2004
+T1 The price of validity in dynamic networks
+SP 515
+OP 526
+
+RT Book, Whole
+ID 1824056
+A1 Marti,Sergio
+A1 Ganesan,Prasanna
+A1 Garcia-molina,Hector
+YR 2004
+T1 SPROUT: P2P Routing with Social Networks
+SP 425
+OP 435
+
+RT Conference Proceedings
+ID 1775292
+A1 Condie,Tyson
+A1 Kamvar,Sepandar,D.
+A1 Garcia-molina,Hector
+YR 2004
+T1 Adaptive Peer-to-Peer Topologies
+SP 53
+OP 62
+
+RT Conference Proceedings
+ID 4139410
+A1 Arasu,A.
+A1 Molina,H.,Garcia
+YR 2004
+T1 Extracting structured data from web pages
+
+RT Conference Proceedings
+ID 1367465
+A1 Yang,Beverly
+A1 Vinograd,Patrick
+A1 Garcia-molina,Hector
+YR 2004
+T1 Evaluating GUESS and Non-Forwarding Peer-to-Peer Search
+SP 209
+OP 218
+
+RT Journal Article
+ID 3720446
+A1 Garcia-molina,H.
+YR 2004
+T1 Seed selection in TrustRank
+
+RT Conference Proceedings
+ID 579348
+A1 Aggarwal,Gagan
+A1 Bawa,Mayank
+A1 Ganesan,Prasanna
+A1 Garcia-molina,Hector
+A1 Kenthapadi,Krishnaram
+A1 Mishra,Nina
+A1 Motwani,Rajeev
+A1 Srivastava,Utkarsh
+A1 Thomas,Dilys
+A1 Widom,Jennifer
+A1 Xu,Ying
+YR 2004
+T1 Vision Paper: Enabling Privacy for the Paranoids
+SP 708
+OP 719
+
+RT Conference Proceedings
+ID 1236870
+A1 Daswani,Neil
+A1 Garcia-Molina,Hector
+YR 2004
+T1 Pong-cache poisoning in GUESS
+SP 98
+OP 109
+
+RT Conference Proceedings
+ID 923991
+A1 Naaman,Mor
+A1 Song,Yee,Jiun
+A1 Paepcke,Andreas
+A1 Garcia-Molina,Hector
+YR 2004
+T1 Automatically generating metadata for digital photographs with geographic coordinates
+SP 244
+OP 245
+
+RT Book, Whole
+ID 1762202
+A1 Garcia-molina,Hector
+YR 2004
+T1 Entity Resolution: Overview and Challenges
+SP 1
+OP 2
+
+RT Journal Article
+ID 3752895
+A1 Sun,Q.
+A1 Garcia-molina,H.
+YR 2004
+T1 Slic: A selfish link-based incentive mechanism for unstructuresed p2p networks
+
+RT Conference Proceedings
+ID 1904231
+A1 Garcia-molina,Hector
+YR 2004
+T1 WebBase: Building a Web Warehouse
+SP 2
+
+RT Conference Proceedings
+ID 45284
+A1 Kamvar,Sepandar,D.
+A1 Schlosser,Mario,T.
+A1 Garcia-Molina,Hector
+YR 2003
+T1 The Eigentrust algorithm for reputation management in P2P networks
+SP 640
+OP 651
+
+RT Conference Proceedings
+ID 522774
+A1 Yang,B.,Beverly
+A1 Garcia-molina,Hector
+YR 2003
+T1 Designing a Super-Peer Network
+SP 49
+
+RT Conference Proceedings
+ID 522599
+A1 Arasu,Arvind
+A1 Garcia-Molina,Hector
+YR 2003
+T1 Extracting structured data from Web pages
+SP 337
+OP 348
+
+RT Journal Article
+ID 1303431
+A1 Atkins,D.
+A1 Droegemeier,K.
+A1 Feldman,S.
+A1 Garcia-molina,H.
+A1 Klein,M.
+A1 Messina,P.
+A1 Messerschmitt,D.
+A1 Ostriker,J.
+A1 Wright,M.
+YR 2003
+T1 Revolutionizing science and engineering through cyberinfrastructure: report of the national science foundation blue-ribbon panel on cyberinfrastructure
+
+RT Conference Proceedings
+ID 2082586
+A1 Kamvar,Sepandar,D.
+A1 Schlosser,Mario,T.
+A1 Garcia-Molina,Hector
+YR 2003
+T1 EigenRep: Reputation Management in P2P Networks
+
+RT Journal Article
+ID 804288
+A1 Ganesan,Prasanna
+A1 Garcia-Molina,Hector
+A1 Widom,Jennifer
+YR 2003
+T1 Exploiting hierarchical domain structure to compute similarity
+JF ACM Transactions on Information Systems
+VO 21
+SP 64
+OP 93
+IS 1
+
+RT Journal Article
+ID 804407
+A1 Cho,Junghoo
+A1 Garcia-Molina,Hector
+YR 2003
+T1 Estimating frequency of change
+JF ACM Transactions on Internet Technology
+VO 3
+SP 256
+OP 290
+IS 3
+
+RT Book, Whole
+ID 644936
+A1 Kamvar,Sepandar,D.
+A1 Schlosser,Mario,T.
+A1 Garcia-molina,Hector
+YR 2003
+T1 Incentives for Combatting Freeriding on P2P Networks
+SP 1273
+OP 1279
+
+RT Book, Whole
+ID 524942
+A1 Daswani,Neil
+A1 Garcia-molina,Hector
+A1 Yang,Beverly
+YR 2003
+T1 Open Problems in Data-Sharing Peer-to-Peer Systems
+SP 1
+OP 15
+
+RT Journal Article
+ID 2041047
+A1 BAWA,MAYANK
+A1 GARCIA-MOLINA,HECTOR
+A1 GIONIS,ARISTIDES
+A1 MOTWANI,RAJEEV
+YR 2003
+T1 Estimating Aggregates on a Peer-to-Peer Network
+
+RT Book, Whole
+ID 650543
+A1 Naaman,Mor
+A1 Paepcke,Andreas
+A1 Garcia-molina,Hector
+YR 2003
+T1 From Where to What: Metadata Sharing for Digital Photographs with Geographic Coordinates
+SP 196
+OP 217
+
+RT Conference Proceedings
+ID 924898
+A1 Yang,Beverly
+A1 Garcia-Molina,Hector
+YR 2003
+T1 PPay: micropayments for peer-to-peer systems
+SP 300
+OP 310
+
+RT Journal Article
+ID 779779
+A1 Abiteboul,Serge
+A1 Agrawal,Rakesh
+A1 Bernstein,Philip,A.
+A1 Carey,Michael,J.
+A1 Ceri,Stefano
+A1 Croft,W.,Bruce
+A1 Dewitt,David,J.
+A1 Franklin,Michael,J.
+A1 Molina,Hector,Garcia
+A1 Gawlick,Dieter
+A1 Gray,Jim
+A1 Haas,Laura,M.
+A1 Halevy,Alon,Y.
+A1 Hellerstein,Joseph,M.
+A1 Ioannidis,Yannis,E.
+A1 Kersten,Martin,L.
+A1 Pazzani,Michael,J.
+A1 Lesk,Michael
+A1 Maier,David
+A1 Naughton,Jeffrey,F.
+A1 Schek,Hans-jörg
+A1 Sellis,Timos,K.
+A1 Silberschatz,Avi
+A1 Stonebraker,Michael
+A1 Snodgrass,Richard,T.
+A1 Ullman,Jeffrey,D.
+A1 Weikum,Gerhard
+A1 Widom,Jennifer
+YR 2003
+T1 The Lowell Database Research Self Assessment
+JF Computing Research Repository
+VO cs.DB/0310
+
+RT Journal Article
+ID 2127514
+A1 Yang,B.
+A1 Kamvar,S.,D.
+A1 Garcia-molina,H.
+YR 2003
+T1 Secure Score Management in P2P Systems
+
+RT Conference Proceedings
+ID 23782
+A1 Raghavan,Sriram
+A1 Garcia-molina,Hector
+YR 2003
+T1 Representing Web Graphs
+SP 405
+OP 416
+
+RT Book, Whole
+ID 475528
+A1 Huang,Yongqiang
+A1 Garcia-molina,Hector
+YR 2003
+T1 Publish/Subscribe Tree Construction in Wireless Ad-Hoc Networks
+SP 122
+OP 140
+
+RT Journal Article
+ID 804085
+A1 Cho,Junghoo
+A1 Garcia-Molina,Hector
+YR 2003
+T1 Effective page refresh policies for Web crawlers
+JF ACM Transactions on Database Systems
+VO 28
+SP 390
+OP 426
+IS 4
+
+RT Conference Proceedings
+ID 474229
+A1 Marti,Sergio
+A1 Garcia-molina,Hector
+YR 2003
+T1 Identity Crisis: Anonymity vs. Reputation in P2P Systems
+SP 134
+OP 141
+
+RT Conference Proceedings
+ID 38516
+A1 Ganesan,Prasanna
+A1 Sun,Qixiang
+A1 Garcia-molina,Hector
+YR 2003
+T1 YAPPERS: A Peer-to-Peer Lookup Service over Arbitrary Topology
+VO 2
+SP 1250
+
+RT Journal Article
+ID 137003
+A1 Crespo,Arturo
+A1 Buyukkokten,Orkut
+A1 Garcia-molina,Hector
+YR 2003
+T1 Query Merging: Improving Query Subscription Processing in a Multicast Environment
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 15
+SP 174
+OP 191
+IS 1
+
+RT Book, Whole
+ID 689513
+A1 Cooper,Brian,F.
+A1 Garcia-molina,Hector
+YR 2003
+T1 SIL: Modeling and Measuring Scalable Peer-to-Peer Search Networks
+SP 2
+OP 16
+
+RT Conference Proceedings
+ID 21291
+A1 Raghavan,Sriram
+A1 Garcia-molina,Hector
+YR 2003
+T1 Complex Queries over Web Repositories
+SP 33
+OP 44
+
+RT Journal Article
+ID 724100
+A1 Bawa,Mayank
+A1 Deshpande,Hrishikesh
+A1 Garcia-Molina,Hector
+YR 2003
+T1 Transience of peers & streaming media
+JF Computer Communication Review
+VO 33
+SP 107
+OP 112
+IS 1
+
+RT Journal Article
+ID 803813
+A1 Melnik,Sergey
+A1 Garcia-Molina,Hector
+YR 2003
+T1 Adaptive algorithms for set containment joins
+JF ACM Transactions on Database Systems
+VO 28
+SP 56
+OP 99
+IS 1
+
+RT Journal Article
+ID 854554
+A1 Bawa,Mayank
+A1 Cooper,Brian,F.
+A1 Crespo,Arturo
+A1 Daswani,Neil
+A1 Ganesan,Prasanna
+A1 Garcia-Molina,Hector
+A1 Kamvar,Sepandar,D.
+A1 Marti,Sergio
+A1 Schlosser,Mario,T.
+A1 Sun,Qi
+A1 Vinograd,Patrick
+A1 Yang,Beverly
+YR 2003
+T1 Peer-to-peer research at Stanford
+JF Sigmod Record
+VO 32
+SP 23
+OP 28
+IS 3
+
+RT Journal Article
+ID 3210174
+A1 Marti,S.
+A1 Garcia-molina,H.
+YR 2003
+T1 Identity crisis: anonymity vs
+
+RT Book, Whole
+ID 28119
+A1 Cooper,Brian,F.
+A1 Garcia-molina,Hector
+YR 2003
+T1 Studying Search Networks with SIL
+SP 216
+OP 224
+
+RT Journal Article
+ID 2663820
+A1 Yang,B.
+A1 Kamvar,S.
+A1 Garcia-molina,H.
+YR 2003
+T1 Addressing the non-cooperation problem in competitive P2P systems
+
+RT Book, Whole
+ID 580476
+A1 Sun,Qixiang
+A1 Daswani,Neil
+A1 Garcia-molina,Hector
+YR 2003
+T1 Maximizing Remote Work in Flooding-Based Peer-to-Peer Systems
+SP 337
+OP 351
+
+RT Conference Proceedings
+ID 50307531
+A1 Sun,Qixiang
+A1 Garcia-Molina,Hector
+YR 2003
+T1 Partial lookup services
+SP 58
+OP 67
+
+RT Journal Article
+ID 2389757
+A1 Ganesan,Prasanna
+A1 Sun,Qixiang
+A1 Garcia-Molina,Hector
+YR 2003
+T1 Apocrypha: Making P2P Overlays Network-aware
+
+RT Conference Proceedings
+ID 607198
+A1 Sun,Qixiang
+A1 Garcia-molina,Hector
+YR 2003
+T1 Partial Lookup Service
+SP 58
+OP 67
+
+RT Journal Article
+ID 2317892
+A1 Daswani,Neil
+A1 Golle,Philippe
+A1 Marti,Sergio
+A1 Garcia-Molina,Hector
+A1 Boneh,Dan
+YR 2003
+T1 Evaluating Reputation Systems for Document Authenticity
+
+RT Conference Proceedings
+ID 1781874
+A1 Naaman,Mor
+A1 Garcia-molina,Hector
+A1 Paepcke,Andreas
+YR 2003
+T1 Evaluation of Delivery Techniques for Dynamic Web Content
+
+RT Journal Article
+ID 3167062
+A1 Yang,B.
+A1 Vinograd,P.
+A1 Garcia-molina,H.
+YR 2003
+T1 Guess: Non-forwarding p2p search mechanism
+
+RT Conference Proceedings
+ID 522421
+A1 Lam,Wang
+A1 Garcia-molina,Hector
+YR 2003
+T1 Multicasting a Changing Repository
+SP 215
+OP 226
+
+RT Journal Article
+ID 2300076
+A1 Marti,S.
+A1 Garcia-molina,H.
+YR 2003
+T1 Examining metrics for peer-to-peer reputation systems
+
+RT Journal Article
+ID 4111575
+A1 Kamvar,S.
+A1 Yang,B.
+A1 Molina,H.,Garcia
+YR 2003
+T1 Addressing the Non - Cooperation Problem in Competitive P2P Networks
+
+RT Conference Proceedings
+ID 574726
+A1 Lam,Wang
+A1 Garcia-molina,Hector
+YR 2003
+T1 Reliably Networking a Multicast Repository
+SP 5
+OP 14
+
+RT Journal Article
+ID 57393833
+A1 Bawa,Mayank
+A1 Deshpande,Hrishikesh
+A1 Garcia-Molina,Hector
+YR 2003
+T1 Transience of peers & streaming media
+VO 33
+
+RT Conference Proceedings
+ID 4686923
+A1 Arasu,Arvind
+A1 Garcia-Molina,Hector
+YR 2003
+T1 Extracting structured data from Web pages (Poster)
+
+RT Book, Whole
+ID 589712
+A1 Garcia-molina,Hector
+YR 2003
+T1 Challenges in Crawling the Web
+SP 3
+
+RT Conference Proceedings
+ID 6845
+A1 Crespo,Arturo
+A1 Garcia-molina,Hector
+YR 2002
+T1 Routing Indices For Peer-to-Peer Systems
+SP 23
+OP 32
+
+RT Conference Proceedings
+ID 522294
+A1 Melnik,Sergey
+A1 Garcia-molina,Hector
+A1 Rahm,Erhard
+YR 2002
+T1 Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching
+SP 117
+OP 128
+
+RT Conference Proceedings
+ID 607315
+A1 Yang,Beverly
+A1 Garcia-molina,Hector
+YR 2002
+T1 Improving Search in Peer-to-Peer Networks
+SP 5
+OP 14
+
+RT Journal Article
+ID 1277403
+A1 Molina,H.,G.
+A1 Ullman,J.,D.
+A1 Widom,J.
+YR 2002
+T1 Database systems: the complete book
+
+RT Conference Proceedings
+ID 547080
+A1 Graham,Adrian
+A1 Garcia-Molina,Hector
+A1 Paepcke,Andreas
+A1 Winograd,Terry
+YR 2002
+T1 Time as essence for photo browsing through personal digital libraries
+SP 326
+OP 335
+
+RT Conference Proceedings
+ID 3976
+A1 Cho,Junghoo
+A1 Garcia-Molina,Hector
+YR 2002
+T1 Parallel crawlers
+SP 124
+OP 135
+
+RT Journal Article
+ID 804326
+A1 Buyukkokten,Orkut
+A1 Kaljuvee,Oliver
+A1 Garcia-molina,Hector
+A1 Paepcke,Andreas
+A1 Winograd,Terry
+YR 2002
+T1 Efficient web browsing on handheld devices using page and form summarization
+JF ACM Transactions on Information Systems
+VO 20
+SP 82
+OP 115
+IS 1
+
+RT Conference Proceedings
+ID 448562
+A1 Daswani,Neil
+A1 Garcia-Molina,Hector
+YR 2002
+T1 Query-flood DoS attacks in gnutella
+SP 181
+OP 192
+
+RT Journal Article
+ID 212986
+A1 Li,Chen
+A1 Chang,Edward,Y.
+A1 Garcia-molina,Hector
+A1 Wiederhold,Gio
+YR 2002
+T1 Clustering for Approximate Similarity Search in High-Dimensional Spaces
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 14
+SP 792
+OP 808
+IS 4
+
+RT Journal Article
+ID 38384
+A1 Bawa,Mayank
+A1 Deshpande,Hrishikesh
+A1 Garcia-molina,Hector
+YR 2002
+T1 Transience of Peers and Streaming Media
+
+RT Journal Article
+ID 1914258
+A1 Deshpande,H.
+A1 Bawa,M.
+A1 Garcia-molina,H.
+YR 2002
+T1 Streaming live media over peers
+
+RT Journal Article
+ID 2134157
+A1 Yang,B.
+A1 Garcia-molina,H.
+YR 2002
+T1 Improving efficiency of peer-to-peer search
+
+RT Journal Article
+ID 120687
+A1 Cooper,Brian,F.
+A1 Garcia-Molina,Hector
+YR 2002
+T1 Peer-to-peer data trading to preserve information
+JF ACM Transactions on Information Systems
+VO 20
+SP 133
+OP 170
+IS 2
+
+RT Journal Article
+ID 35158
+A1 Cooper,Brian,F.
+A1 Bawa,Mayank
+A1 Daswani,Neil
+A1 Garcia-molina,Hector
+YR 2002
+T1 Protecting the PIPE from malicious peers
+
+RT Conference Proceedings
+ID 89372
+A1 Cooper,Brian,F.
+A1 Garcia-molina,Hector
+YR 2002
+T1 Bidding for Storage Space in a Peer-to-Peer Data Preservation System
+SP 372
+OP 381
+
+RT Book, Whole
+ID 68636
+A1 Cooper,Brian,F.
+A1 Garcia-molina,Hector
+YR 2002
+T1 Peer-to-Peer Resource Trading in a Reliable Distributed System
+SP 319
+OP 327
+
+RT Conference Proceedings
+ID 2065074
+A1 Cooper,Brian,F.
+A1 Garcia-Molina,Hector
+YR 2002
+T1 Modeling and measuring scalable peer-to-peer search networks
+
+RT Book, Whole
+ID 510879
+A1 Melnik,Sergey
+A1 Garcia-molina,Hector
+YR 2002
+T1 Divide-and-Conquer Algorithm for Computing Set Containment Joins
+SP 427
+OP 444
+
+RT Journal Article
+ID 4451161
+A1 BUYUKKOKTEN,ORKUT
+A1 KALJUVEE,OLIVER
+A1 GARCIA-MOLINA,HECTOR
+A1 PAEPCKE,ANDREAS
+A1 WINOGRAD,TERRY
+YR 2002
+T1 Efficient web browsing on handheld devices using page and form summarization
+JF ACM Transactions on Information Systems
+
+RT Journal Article
+ID 2839248
+A1 Li,C.
+A1 Chang,E.
+A1 Garcia-molina,H.
+A1 Wieder-hold,G.
+YR 2002
+T1 Clindex: Approximate similarity queries in high-dimensional spaces
+JF IEEE Transactions on Knowledge and Data Engineering
+
+RT Conference Proceedings
+ID 3637570
+A1 Daswani,N.
+A1 Garcia-molina,H.
+YR 2002
+T1 Query-掳ood DoS attacks in Gnutella networks
+
+RT Journal Article
+ID 2546750
+A1 Ganesan,P.
+A1 Sun,Q.
+A1 Garcia-molina,H.
+YR 2002
+T1 A case for locally-organized peer-to-peer lookup service
+
+RT Journal Article
+ID 3018641
+A1 Yang,B.
+A1 Garcia-molina,H.
+YR 2002
+T1 Efficient search in p2p networks
+
+RT Conference Proceedings
+ID 523146
+A1 Garcia-molina,Hector
+YR 2002
+T1 Peer-to-Peer Data Management
+SP 503
+
+RT Book, Whole
+ID 547044
+A1 Graham,Adrian
+A1 Garcia-molina,Hector
+A1 Paepcke,Andreas
+A1 Winograd,Terry
+YR 2002
+T1 Extreme Temporal Photo Browsing
+SP 81
+OP 97
+
+RT Conference Proceedings
+ID 546965
+A1 Garcia-Molina,Hector
+A1 Hillmann,Diane
+A1 Lagoze,Carl
+A1 Liddy,Elizabeth,D.
+A1 Weibel,Stuart
+YR 2002
+T1 How important is metadata?
+SP 369
+OP 369
+
+RT Book, Whole
+ID 39254411
+A1 Garcia-Molina,Hector
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 2002
+T1 Database systems - the complete book (international edition)
+
+RT Journal Article
+ID 39249979
+A1 KALJUVEE,OLIVER
+A1 GARCIA-MOLINA,HECTOR
+A1 PAEPCKE,ANDREAS
+A1 WINOGRAD,TERRY
+YR 2002
+T1 Efficient web browsing on handheld devices using page and form summarization
+JF ACM Transactions on Information Systems
+SP 82
+OP 115
+
+RT Conference Proceedings
+ID 565082
+A1 Huang,Yongqiang
+A1 Garcia-Molina,Hector
+YR 2002
+T1 Assignment-based partitioning in a condition monitoring system
+SP 133
+OP 133
+
+RT Conference Proceedings
+ID 115039
+A1 Yang,Beverly
+A1 Garcia-molina,Hector
+YR 2001
+T1 Comparing Hybrid Peer-to-Peer Systems
+SP 561
+OP 570
+
+RT Conference Proceedings
+ID 1261015
+A1 Yang,Beverly
+A1 Garcia-Molina,Hector
+YR 2001
+T1 Efficient Search in Peer-to-Peer Networks
+
+RT Conference Proceedings
+ID 93884
+A1 Raghavan,Sriram
+A1 Garcia-molina,Hector
+YR 2001
+T1 Crawling the Hidden Web
+SP 129
+OP 138
+
+RT Journal Article
+ID 1256291
+A1 Deshpande,H.
+A1 Bawa,M.
+A1 Garcia-molina,H.
+YR 2001
+T1 Streaming live media over a peer-to-peer network
+
+RT Journal Article
+ID 7970
+A1 Arasu,Arvind
+A1 Cho,Junghoo
+A1 Garcia-molina,Hector
+A1 Paepcke,Andreas
+A1 Raghavan,Sriram
+YR 2001
+T1 Searching the Web
+JF ACM Transactions on Internet Technology
+VO 1
+SP 2
+OP 43
+IS 1
+
+RT Conference Proceedings
+ID 489253
+A1 Buyukkokten,Orkut
+A1 Garcia-Molina,Hector
+A1 Paepcke,Andreas
+YR 2001
+T1 Seeing the whole in parts: text summarization for web browsing on handheld devices
+SP 652
+OP 662
+
+RT Journal Article
+ID 2058584
+A1 Garcia-molina,H.
+A1 Ullman,J.
+A1 Widom,J.
+YR 2001
+T1 Database Systems: The Complete Book
+
+RT Conference Proceedings
+ID 449550
+A1 Buyukkokten,Orkut
+A1 Garcia-Molina,Hector
+A1 Paepcke,Andreas
+YR 2001
+T1 Accordion summarization for end-game browsing on PDAs and cellular phones
+SP 213
+OP 220
+
+RT Conference Proceedings
+ID 662417
+A1 Huang,Yongqiang
+A1 Garcia-Molina,Hector
+YR 2001
+T1 Publish/Subscribe in a mobile enviroment
+SP 27
+OP 34
+
+RT Journal Article
+ID 107746
+A1 Melnik,Sergey
+A1 Raghavan,Sriram
+A1 Yang,Beverly
+A1 Garcia-Molina,Hector
+YR 2001
+T1 Building a distributed full-text index for the Web
+JF ACM Transactions on Information Systems
+VO 19
+SP 396
+OP 406
+IS 3
+
+RT Conference Proceedings
+ID 3220246
+A1 Yang,B.
+A1 Garcia-molina,H.
+YR 2001
+T1 Improving search in peer-to-peer systems
+
+RT Conference Proceedings
+ID 122965
+A1 Kaljuvee,Oliver
+A1 Buyukkokten,Orkut
+A1 Garcia-Molina,Hector
+A1 Paepcke,Andreas
+YR 2001
+T1 Efficient Web form entry on PDAs
+SP 663
+OP 672
+
+RT Journal Article
+ID 42458
+A1 Raghavan,Sriram
+A1 Garcia-molina,Hector
+YR 2001
+T1 Integrating Diverse Information Management Systems: A Brief Survey
+JF IEEE Data(base) Engineering Bulletin
+VO 24
+SP 44
+OP 52
+IS 4
+
+RT Conference Proceedings
+ID 565081
+A1 Huang,Yongqiang
+A1 Garcia-Molina,Hector
+YR 2001
+T1 Replicated condition monitoring
+SP 229
+OP 237
+
+RT Journal Article
+ID 807578
+A1 Chang,Kevin,Chen-chuan
+A1 Garcia-molina,Hector
+YR 2001
+T1 Approximate query mapping: Accounting for translation closeness
+JF The Vldb Journal
+VO 10
+SP 155
+OP 181
+IS 2-3
+
+RT Journal Article
+ID 3850709
+A1 Buyukkokten,O.
+A1 Garcia-molina,H.
+A1 Paepcke,A.
+YR 2001
+T1 Text Summarization for Web Browsing on Handheld Devices
+
+RT Conference Proceedings
+ID 74285
+A1 Cooper,Brian,F.
+A1 Garcia-Molina,Hector
+YR 2001
+T1 Creating trading networks of digital archives
+SP 353
+OP 362
+
+RT Journal Article
+ID 1303127
+A1 Li,C.
+A1 Chang,E.
+A1 Garcia-molina,H.
+A1 Wiederhold,G.
+YR 2001
+T1 Clustering for approximate similarity queries in high-dimensional spaces
+JF IEEE Transactions on Knowledge and Data Engineering
+
+RT Conference Proceedings
+ID 242835
+A1 Huang,Yongqiang
+A1 Garcia-molina,Hector
+YR 2001
+T1 Exactly-once Semantics in a Replicated Messaging System
+SP 3
+OP 12
+
+RT Conference Proceedings
+ID 547025
+A1 Crespo,Arturo
+A1 Garcia-Molina,Hector
+YR 2001
+T1 Cost-driven design for archival repositories
+SP 363
+OP 372
+
+RT Journal Article
+ID 4451157
+A1 Melink,Sergey
+A1 Raghavan,Sriram
+A1 Yang,Beverly
+A1 Garcia-Molina,Hector
+YR 2001
+T1 Building a distributed full-text index for the web
+JF ACM Transactions on Information Systems
+SP 217
+OP 241
+
+RT Journal Article
+ID 2651935
+A1 Buyukkokten,O.
+A1 Garcia-molina,H.
+A1 Paepche,A.
+YR 2001
+T1 Accordion Summary for End-Game Browsing on PDAs and Cellular Phones
+
+RT Conference Proceedings
+ID 634780
+A1 Lam,Wang
+A1 Garcia-molina,Hector
+YR 2001
+T1 Multicasting a Web Repository
+SP 25
+OP 30
+
+RT Journal Article
+ID 3835420
+A1 Crespo,A.
+A1 Garcia-molina,H.
+YR 2001
+T1 Taking cost-driven decisions about archival repositories
+
+RT Conference Proceedings
+ID 145862
+A1 Cho,Junghoo
+A1 Garcia-molina,Hector
+YR 2000
+T1 The Evolution of the Web and Implications for an Incremental Crawler
+SP 200
+OP 209
+
+RT Journal Article
+ID 265252
+A1 Cho,Junghoo
+A1 Garcia-Molina,Hector
+YR 2000
+T1 Synchronizing a Database to Improve Freshness
+JF Sigmod Record
+VO 29
+SP 117
+OP 128
+IS 2
+
+RT Conference Proceedings
+ID 197015
+A1 Buyukkokten,Orkut
+A1 Garcia-Molina,Hector
+A1 Paepcke,Andreas
+A1 Winograd,Terry
+YR 2000
+T1 Power browser: efficient Web browsing for PDAs
+SP 430
+OP 437
+
+RT Journal Article
+ID 705261
+A1 Hirai,Jun
+A1 Raghavan,Sriram
+A1 Garcia-molina,Hector
+A1 Paepcke,Andreas
+YR 2000
+T1 WebBase: a repository of Web pages
+JF Computer Networks
+VO 33
+SP 277
+OP 293
+IS 1-6
+
+RT Book, Whole
+ID 695207
+A1 Garcia-molina,Hector
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 2000
+T1 Database System Implementation
+
+RT Journal Article
+ID 148578
+A1 Buyukkokten,Orkut
+A1 Garcia-molina,Hector
+A1 Paepcke,Andreas
+YR 2000
+T1 Focused Web searching with PDAs
+JF Computer Networks
+VO 33
+SP 213
+OP 230
+IS 1-6
+
+RT Journal Article
+ID 265724
+A1 Cho,Junghoo
+A1 Shivakumar,Narayanan
+A1 Garcia-Molina,Hector
+YR 2000
+T1 Finding Replicated Web Collections
+JF Sigmod Record
+VO 29
+SP 355
+OP 366
+IS 2
+
+RT Journal Article
+ID 283810
+A1 Labio,Wilburt,Juan
+A1 Wiener,Janet,L.
+A1 Garcia-Molina,Hector
+A1 Gorelik,Vlad
+YR 2000
+T1 Efficient Resumption of Interrupted Warehouse Loads
+JF Sigmod Record
+VO 29
+SP 46
+OP 57
+IS 2
+
+RT Conference Proceedings
+ID 642416
+A1 Cooper,Brian,F.
+A1 Crespo,Arturo
+A1 Garcia-molina,Hector
+YR 2000
+T1 Implementing a Reliable Digital Object Archive
+SP 128
+OP 143
+
+RT Conference Proceedings
+ID 236647
+A1 Melnik,Sergey
+A1 Garcia-Molina,Hector
+A1 Paepcke,Andreas
+YR 2000
+T1 A mediation infrastructure for digital library services
+SP 123
+OP 132
+
+RT Journal Article
+ID 237356
+A1 Brandman,Onn
+A1 Cho,Junghoo
+A1 Garcia-Molina,Hector
+A1 Shivakumar,Narayanan
+YR 2000
+T1 Crawler-Friendly Web Servers
+JF Sigmetrics Performance Evaluation Review
+VO 28
+SP 9
+OP 14
+IS 2
+
+RT Conference Proceedings
+ID 578017
+A1 Labio,Wilburt
+A1 Yang,Jun
+A1 Cui,Yingwei
+A1 Garcia-molina,Hector
+A1 Widom,Jennifer
+YR 2000
+T1 Performance Issues in Incremental Warehouse Maintenance
+SP 461
+OP 472
+
+RT Journal Article
+ID 3234030
+A1 Junghoo,Cho
+A1 Garcia-molina,Hector
+YR 2000
+T1 Incremental Crawler and Evolution of the Web
+
+RT Conference Proceedings
+ID 523121
+A1 Crespo,Arturo
+A1 Buyukkokten,Orkut
+A1 Garcia-molina,Hector
+YR 2000
+T1 Efficient Query Subscription Processing in a Multicast Environment
+SP 83
+OP 83
+
+RT Conference Proceedings
+ID 579279
+A1 Chang,Kevin,Chen-chuan
+A1 Garcia-molina,Hector
+YR 2000
+T1 Approximate Query Translation Across Heterogeneous Information Sources
+SP 566
+OP 577
+
+RT Conference Proceedings
+ID 642505
+A1 Crespo,Arturo
+A1 Garcia-molina,Hector
+YR 2000
+T1 Modeling Archival Repositories for Digital Libraries
+SP 190
+OP 205
+
+RT Journal Article
+ID 123780
+A1 Paepcket,Andreas
+A1 Garcia-Molinat,Hector
+A1 Rodriguez-Mulatt,Gerard
+A1 Chot,Junghoo
+YR 2000
+T1 Beyond document similarity: understanding value-based search and browsing technologies
+JF Sigmod Record
+VO 29
+SP 80
+OP 92
+IS 1
+
+RT Journal Article
+ID 235081
+A1 Yerneni,Ramana
+A1 Naumann,Felix
+A1 Garcia-molina,Hector
+YR 2000
+T1 Maximizing Coverage of Mediated Web Queries
+
+RT Conference Proceedings
+ID 2586900
+A1 Melnik,S.
+A1 Garcia-molina,H.
+A1 Paepcke,A.
+YR 2000
+T1 A mediation infrastructure for digital libraries
+
+RT Conference Proceedings
+ID 642104
+A1 Cho,Junghoo
+A1 Garcia-Molina,Hector
+YR 2000
+T1 WebBase and the Stanford InterLib Project
+SP 178
+
+RT Journal Article
+ID 39217233
+A1 Cho,Junghoo
+A1 Garcia-Molina,Hector
+YR 2000
+T1 Synchronizing a database to improve freshness
+JF Sigmod Record
+SP 117
+OP 128
+
+RT Journal Article
+ID 39217245
+A1 Cho,Junghoo
+A1 Shivakumar,Narayanan
+A1 Garcia-Molina,Hector
+YR 2000
+T1 Finding replicated Web collections
+JF Sigmod Record
+SP 355
+OP 366
+
+RT Journal Article
+ID 3716072
+A1 Paepcke,A.
+A1 Chang,K.,C.,C.
+A1 Garcia-molina,H.
+A1 Winograd,T.
+YR 2000
+T1 Search Middleware and the Simple Digital Library Interoperability Protocol DLib Magazine
+
+RT Journal Article
+ID 39217229
+A1 Labio,Wilburt,Juan
+A1 Wiener,Janet,L.
+A1 Garcia-Molina,Hector
+A1 Gorelik,Vlad
+YR 2000
+T1 Efficient resumption of interrupted warehouse loads
+JF Sigmod Record
+SP 46
+OP 57
+
+RT Journal Article
+ID 206633
+A1 Gravano,Luis
+A1 Garcia-molina,Hector
+A1 Tomasic,Anthony
+YR 1999
+T1 GlOSS: Text-Source Discovery over the Internet
+JF ACM Transactions on Database Systems
+VO 24
+SP 229
+OP 264
+IS 2
+
+RT Journal Article
+ID 803787
+A1 Yan,Tak,W.
+A1 Garcia-Molina,Hector
+YR 1999
+T1 The SIFT information dissemination system
+JF ACM Transactions on Database Systems
+VO 24
+SP 529
+OP 565
+IS 4
+
+RT Conference Proceedings
+ID 122825
+A1 Buyukkokten,Orkut
+A1 Cho,Junghoo
+A1 Garcia-molina,Hector
+A1 Gravano,Luis
+A1 Shivakumar,Narayanan
+YR 1999
+T1 Exploiting Geographical Location Information of Web Pages
+SP 91
+OP 96
+
+RT Conference Proceedings
+ID 269814
+A1 Chang,Kevin,Chen-Chuan
+A1 Garcia-Molina,Hector
+YR 1999
+T1 Mind Your Vocabulary: Query Mapping Across Heterogeneous Information Sources
+SP 335
+OP 346
+
+RT Journal Article
+ID 355580
+A1 Yerneni,Ramana
+A1 Li,Chen
+A1 Garcia-Molina,Hector
+A1 Ullman,Jeffrey,D.
+YR 1999
+T1 Computing Capabilities of Mediators
+JF Sigmod Record
+VO 28
+SP 443
+OP 454
+IS 2
+
+RT Journal Article
+ID 14415157
+A1 Chang,Chen-Chuan,K.
+A1 García-Molina,Héctor
+YR 1999
+T1 Mind your vocabulary: query mapping across heterogeneous information sources
+JF Sigmod Record
+VO 28
+SP 335
+OP 346
+IS 2
+
+RT Journal Article
+ID 804356
+A1 Chang,Chen-Chuan,K.
+A1 Garcia-Molina,Héctor
+A1 Paepcke,Andreas
+YR 1999
+T1 Predicate rewriting for translating Boolean queries in a heterogeneous information system
+JF ACM Transactions on Information Systems
+VO 17
+SP 1
+OP 39
+IS 1
+
+RT Journal Article
+ID 668365
+A1 Labio,Wilburt,Juan
+A1 Yerneni,Ramana
+A1 Garcia-Molina,Hector
+YR 1999
+T1 Shrinking the Warehouse Update Window
+JF Sigmod Record
+VO 28
+SP 383
+OP 394
+IS 2
+
+RT Book, Whole
+ID 282167
+A1 Yerneni,Ramana
+A1 Li,Chen
+A1 Ullman,Jeffrey,D.
+A1 Garcia-molina,Hector
+YR 1999
+T1 Optimizing Large Join Queries in Mediation Systems
+SP 348
+OP 364
+
+RT Journal Article
+ID 155620
+A1 Garcia-molina,Hector
+A1 Widom,Jennifer
+A1 Yang,Jun
+A1 Labio,Wilburt,Juan
+A1 Cui,Yingwei
+YR 1999
+T1 Performance Issues in Incremental Warehouse Maintenance
+
+RT Conference Proceedings
+ID 272453
+A1 Garcia-molina,Hector
+A1 Labio,Wilburt
+A1 Yerneni,Ramana
+YR 1999
+T1 Capability-Sensitive Query Processing on Internet Sources
+SP 50
+OP 59
+
+RT Journal Article
+ID 846874
+A1 Paepcke,Andreas
+A1 Baldonado,Michelle,Q.,Wang
+A1 Chang,Kevin,Chen-chuan
+A1 Cousins,Steve,B.
+A1 Garcia-molina,Hector
+YR 1999
+T1 Using Distributed Objects to Build the Stanford Digital Library Infobus
+JF IEEE Computer
+VO 32
+SP 80
+OP 87
+IS 2
+
+RT Conference Proceedings
+ID 1282600
+A1 Garcia-molina,H
+A1 Labio,W.,J
+A1 Wiener,J.,L
+A1 Zhuge,Y
+YR 1999
+T1 Distributed and parallel computing issues in data warehousing
+
+RT Journal Article
+ID 214532
+A1 Ketchpel,Steven,P.
+A1 Garcia-molina,Hector
+YR 1999
+T1 A Sound and Complete Algorithm for Distributed Commerce Transactions
+JF Distributed Computing
+VO 12
+SP 13
+OP 29
+IS 1
+
+RT Journal Article
+ID 381479
+A1 Zhuge,Yue
+A1 Garcia-molina,Hector
+YR 1999
+T1 Self-Maintainability of Graph Structured Views
+
+RT Conference Proceedings
+ID 451024
+A1 Garcia-molina,Hector
+A1 Yerneni,Ramana
+YR 1999
+T1 Coping with Limited Capabilities of Source
+SP 1
+OP 19
+
+RT Conference Proceedings
+ID 332586
+A1 Chang,Edward,Y.
+A1 Garcia-molina,Hector
+YR 1999
+T1 MEDIC: A Memory & Disk Cache for Multimedia Clients
+SP 493
+OP 499
+
+RT Journal Article
+ID 4451148
+A1 Gravano,Luis
+A1 García-molina,Héctor
+A1 Tomasic,Anthony
+YR 1999
+T1 text-source discovery over the Internet
+JF ACM Transactions on Database Systems
+
+RT Journal Article
+ID 39217193
+A1 Yerneni,Ramana
+A1 Li,Chen
+A1 Garcia-Molina,Hector
+A1 Ullman,Jeffrey
+YR 1999
+T1 Computing capabilities of mediators
+JF Sigmod Record
+SP 443
+OP 454
+
+RT Journal Article
+ID 39217189
+A1 Labio,Wilburt,Juan
+A1 Yerneni,Ramana
+A1 Garcia-Molina,Hector
+YR 1999
+T1 Shrinking the warehouse update Window
+JF Sigmod Record
+SP 383
+OP 394
+
+RT Conference Proceedings
+ID 1775958
+A1 Garcia-molina,Hector
+YR 1999
+T1 Recent Advances in Multimedia Systems Research
+SP 1
+
+RT Journal Article
+ID 706027
+A1 Garcia-molina,Hector
+YR 1999
+T1 Review - The Notions of Consistency and Predicate Locks in a Database System
+JF ACM Sigmod Digital Review
+VO 1
+
+RT Journal Article
+ID 383030
+A1 Cho,Junghoo
+A1 Garcia-molina,Hector
+A1 Page,Lawrence
+YR 1998
+T1 Efficient Crawling Through URL Ordering
+JF Computer Networks and Isdn Systems
+VO 30
+SP 161
+OP 172
+IS 1-7
+
+RT Conference Proceedings
+ID 383318
+A1 Fang,Min
+A1 Shivakumar,Narayanan
+A1 Garcia-molina,Hector
+A1 Motwani,Rajeev
+A1 Ullman,Jeffrey,D.
+YR 1998
+T1 Computing Iceberg Queries Efficiently
+SP 299
+OP 310
+
+RT Conference Proceedings
+ID 191651
+A1 Goldman,Roy
+A1 Shivakumar,Narayanan
+A1 Venkatasubramanian,Suresh
+A1 Garcia-molina,Hector
+YR 1998
+T1 Proximity Search in Databases
+SP 26
+OP 37
+
+RT Journal Article
+ID 854927
+A1 Bernstein,Philip,A.
+A1 Brodie,Michael,L.
+A1 Ceri,Stefano
+A1 DeWitt,David,J.
+A1 Franklin,Michael,J.
+A1 Garcia-Molina,Hector
+A1 Gray,Jim
+A1 Held,Jerry
+A1 Hellerstein,Joseph,M.
+A1 Jagadish,H.,V.
+A1 Lesk,Michael
+A1 Maier,David
+A1 Naughton,Jeffrey,F.
+A1 Pirahesh,Hamid
+A1 Stonebraker,Michael
+A1 Ullman,Jeffrey,D.
+YR 1998
+T1 The Asilomar report on database research
+JF Sigmod Record
+VO 27
+SP 74
+OP 80
+IS 4
+
+RT Conference Proceedings
+ID 250938
+A1 Crespo,Arturo
+A1 Garcia-Molina,Hector
+YR 1998
+T1 Archival storage for digital libraries
+SP 69
+OP 78
+
+RT Journal Article
+ID 353430
+A1 Li,Chen
+A1 Yerneni,Ramana
+A1 Vassalos,Vasilis
+A1 Garcia-Molina,Hector
+A1 Papakonstantinou,Yannis
+A1 Ullman,Jeffrey,D.
+A1 Valiveti,Murty
+YR 1998
+T1 Capability Based Mediation in TSIMMIS
+JF Sigmod Record
+VO 27
+SP 564
+OP 566
+IS 2
+
+RT Journal Article
+ID 775575
+A1 Paepcke,Andreas
+A1 Chang,Chen-Chuan,K.
+A1 Winograd,Terry
+A1 García-Molina,Héctor
+YR 1998
+T1 Interoperability for digital libraries worldwide
+JF Communications of The ACM
+VO 41
+SP 33
+OP 42
+IS 4
+
+RT Conference Proceedings
+ID 356648
+A1 Garcia-molina,Hector
+A1 Labio,Wilburt
+A1 Yang,Jun
+YR 1998
+T1 Expiring Data in a Warehouse
+SP 500
+OP 511
+
+RT Conference Proceedings
+ID 331133
+A1 Zhuge,Yue
+A1 Garcia-molina,Hector
+YR 1998
+T1 Graph Structured Views and Their Incremental Maintenance
+SP 116
+OP 125
+
+RT Journal Article
+ID 729567
+A1 Zhuge,Yue
+A1 Garcia-molina,Hector
+A1 Wiener,Janet,L.
+YR 1998
+T1 Consistency Algorithms for Multi-Source Warehouse View Maintenance
+JF Distributed and Parallel Databases
+VO 6
+SP 7
+OP 40
+IS 1
+
+RT Conference Proceedings
+ID 510887
+A1 Yerneni,Ramana
+A1 Papakonstantinou,Yannis
+A1 Abiteboul,Serge
+A1 Garcia-molina,Hector
+YR 1998
+T1 Fusion Queries over Internet Databases
+SP 57
+OP 71
+
+RT Conference Proceedings
+ID 359806
+A1 Garcia-molina,Hector
+A1 Ketchpel,Steven,P.
+A1 Shivakumar,Narayanan
+YR 1998
+T1 Safeguarding and Charging for Information on the Internet
+SP 182
+OP 189
+
+RT Conference Proceedings
+ID 578400
+A1 Shivakumar,Narayanan
+A1 Garcia-molina,Hector
+A1 Chekuri,Chandra
+YR 1998
+T1 Filtering with Approximate Predicates
+SP 263
+OP 274
+
+RT Conference Proceedings
+ID 361476
+A1 Chang,Chen-Chuan,K.
+A1 Garcia-Molina,Hector
+YR 1998
+T1 Conjunctive constraint mapping for data translation
+SP 49
+OP 58
+
+RT Conference Proceedings
+ID 634816
+A1 Shivakumar,Narayanan
+A1 Garcia-molina,Hector
+YR 1998
+T1 Finding Near-Replicas of Documents and Servers on the Web
+SP 204
+OP 212
+
+RT Journal Article
+ID 326657
+A1 Crespo,Arturo
+A1 Buyukkokten,Orkut
+A1 Garcia-molina,Hector
+YR 1998
+T1 Efficient Query Subscription Processing in a Broadcast Environment
+
+RT Conference Proceedings
+ID 2855
+A1 Ketchpel,Steven,P.
+A1 Garcia-molina,Hector
+YR 1998
+T1 Competitive Sourcing for Internet Commerce
+SP 602
+OP 611
+
+RT Conference Proceedings
+ID 1456
+A1 Chang,Edward,Y.
+A1 Garcia-molina,Hector
+YR 1998
+T1 Cost-Based Media Server Design
+SP 76
+OP 83
+
+RT Journal Article
+ID 397898
+A1 Daswani,Neil
+A1 Boneh,Dan
+A1 Garcia-Molina,Hector
+A1 Ketchpel,Steven
+A1 Paepcke,Andreas
+YR 1998
+T1 SWAPEROO: A Simple Wallet Architecture for Payments, Exchanges, Refunds, and Other Operations
+
+RT Conference Proceedings
+ID 387525
+A1 Baldonado,Michelle,Q.,Wang
+A1 Katz,Seth
+A1 Paepcke,Andreas
+A1 Chang,Chen-Chuan,K.
+A1 Garcia-Molina,Hector
+A1 Winograd,Terry
+YR 1998
+T1 An extensible constructor tool for the rapid, interactive design of query synthesizers
+SP 19
+OP 28
+
+RT Journal Article
+ID 704804
+A1 Rodríguez-mulà,Gerard
+A1 Garcia-molina,Hector
+A1 Paepcke,Andreas
+YR 1998
+T1 Collaborative Value Filtering on the Web
+JF Computer Networks and Isdn Systems
+VO 30
+SP 736
+OP 738
+IS 1-7
+
+RT Conference Proceedings
+ID 376438
+A1 Chang,Edward,Y.
+A1 Garcia-molina,Hector
+A1 Li,Chen
+YR 1998
+T1 2D BubbleUp: Managing Parallel Disks for Media Servers
+SP 221
+OP 230
+
+RT Conference Proceedings
+ID 522282
+A1 Chaudhuri,Surajit
+A1 Garcia-molina,Hector
+A1 Korth,Henry,F.
+A1 Lohman,Guy,M.
+A1 Lomet,David,B.
+A1 Maier,David
+YR 1998
+T1 Future Directions in Database Research (Panel)
+SP 456
+
+RT Journal Article
+ID 1976073
+A1 Goldman,R.
+A1 Shivakumar,N.
+A1 Venkatasubramanian,S.
+A1 Garcia-molina,H.
+YR 1998
+T1 Proximity searching in databases
+
+RT Journal Article
+ID 39217159
+A1 Li,Chen
+A1 Yerneni,Ramana
+A1 Vassalos,Vasilis
+A1 Garcia-Molina,Hector
+A1 Papakonstantinou,Yannis
+A1 Ullman,Jeffrey
+A1 Valiveti,Murty
+YR 1998
+T1 Capability based mediation in TSIMMIS
+JF Sigmod Record
+SP 564
+OP 566
+
+RT Conference Proceedings
+ID 522715
+A1 Rabinovich,Michael
+A1 Bowman,C.,Mic
+A1 Garcia-molina,Hector
+A1 Levy,Alon,Y.
+A1 Malaika,Susan
+A1 Mendelzon,Alberto,O.
+YR 1998
+T1 WWW and the Internet - Did We Miss the Boat? (Panel)
+SP 74
+
+RT Conference Proceedings
+ID 4308729
+A1 Garcia-Molina,Hector
+A1 Labio,Wilburt,J.
+A1 Wiener,Janet,L.
+A1 Zhuge,Yue
+YR 1998
+T1 Distributed and parallel computing issues in data warehousing (abstract)
+SP 7
+
+RT Journal Article
+ID 39246111
+A1 Garcia-Molina,Hector
+A1 Labio,Wilburt,J.
+A1 Wiener,Janet,L.
+A1 Zhuge,Yue
+YR 1998
+T1 Distributed and parallel computing issues in data warehousing (abstract)
+SP 77
+
+RT Journal Article
+ID 386588
+A1 Garcia-molina,Hector
+A1 Papakonstantinou,Yannis
+A1 Quass,Dallan
+A1 Rajaraman,Anand
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+A1 Vassalos,Vasilis
+A1 Widom,Jennifer
+YR 1997
+T1 The TSIMMIS Approach to Mediation: Data Models and Languages
+JF Journal of Intelligent Information Systems
+VO 8
+SP 117
+OP 132
+IS 2
+
+RT Journal Article
+ID 323508
+A1 Hammer,J.
+A1 Garcia-Molina,H.
+A1 Cho,J.
+A1 Aranha,R.
+A1 Crespo,Arturo
+YR 1997
+T1 Extracting Semistructured Information from the Web
+
+RT Journal Article
+ID 302023
+A1 Hammer,Joachim
+A1 Garcia-Molina,Hector
+A1 Nestorov,Svetlozar
+A1 Yerneni,Ramana
+A1 Breunig,Markus,M.
+A1 Vassalos,Vasilis
+YR 1997
+T1 Template-Based Wrappers in the TSIMMIS System
+JF Sigmod Record
+VO 26
+SP 532
+OP 535
+IS 2
+
+RT Journal Article
+ID 385979
+A1 Chawathe,Sudarshan,S.
+A1 Garcia-Molina,Hector
+YR 1997
+T1 Meaningful Change Detection in Structured Data
+JF Sigmod Record
+VO 26
+SP 26
+OP 37
+IS 2
+
+RT Journal Article
+ID 1309215
+A1 Garcia-molina,H.
+A1 Papakonstantinou,Y.
+A1 Quass,D.
+A1 Rajaraman,A.
+A1 Sagiv,Y.
+A1 Ullman,J.
+A1 Widom,J.
+YR 1997
+T1 The tsimmis project: integration of heterogeneous information sources
+JF Journal of Intelligent Information Systems
+
+RT Journal Article
+ID 204389
+A1 Gravano,Luis
+A1 Chang,Chen-chuan,K.
+A1 García-molina,Héctor
+A1 Paepcke,Andreas
+YR 1997
+T1 STARTS: Stanford proposal for Internet meta-searching
+JF Sigmod Record
+
+RT Conference Proceedings
+ID 578749
+A1 Gravano,Luis
+A1 Garcia-molina,Hector
+YR 1997
+T1 Merging Ranks from Heterogeneous Internet Sources
+SP 196
+OP 205
+
+RT Journal Article
+ID 1392109
+A1 Molina,H.,Garcia
+YR 1997
+T1 The tsimmis approach to mediation: data models and languages
+JF Journal of Intelligent Information Systems
+
+RT Conference Proceedings
+ID 667674
+A1 Gravano,Luis
+A1 Chang,Kevin,Chen-chuan
+A1 Garcia-molina,Hector
+A1 Paepcke,Andreas
+YR 1997
+T1 STARTS: Stanford Proposal for Internet Meta-Searching (Experience Paper)
+SP 207
+OP 218
+
+RT Journal Article
+ID 805279
+A1 Kao,Ben
+A1 Garcia-molina,Hector
+YR 1997
+T1 Deadline Assignment in a Distributed Soft Real-Time System
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 8
+SP 1268
+OP 1274
+IS 12
+
+RT Conference Proceedings
+ID 399063
+A1 Chang,Edward,Y.
+A1 Garcia-molina,Hector
+YR 1997
+T1 Effective Memory Use in a Media Server
+SP 496
+OP 505
+
+RT Conference Proceedings
+ID 354566
+A1 Zhuge,Yue
+A1 Garcia-molina,Hector
+A1 Wiener,Janet,L.
+YR 1997
+T1 Multiple View Consistency for Data Warehousing
+SP 289
+OP 300
+
+RT Conference Proceedings
+ID 60961
+A1 Hammer,Joachim
+A1 Mchugh,Jason
+A1 Garcia-molina,Hector
+YR 1997
+T1 Semistructured Data: The Tsimmis Experience
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 1991011
+A1 Gravano,L.
+A1 Chang,K.
+A1 Garcia-molina,H.
+A1 Lagoze,C.
+A1 Paepcke,A.
+YR 1997
+T1 STARTS stanford protocol proposal for internet retrieval and search
+
+RT Journal Article
+ID 3029
+A1 Wiener,Janet,L.
+A1 Gupta,Himanshu
+A1 Garcia-Molina,Hector
+A1 Widom,Jennifer
+YR 1997
+T1 The WHIPS Prototype for Data Warehouse Creation and Maintenance
+JF Sigmod Record
+VO 26
+SP 589
+OP 559
+IS 2
+
+RT Journal Article
+ID 2339082
+A1 Paepcke,Andreas
+A1 Cousins,Steve,B.
+A1 Garcia-Molina,Hector
+A1 Hassan,Scott,W.
+A1 Ketchpel,Steven,P.
+A1 Röscheisen,Martin
+A1 Winograd,Terry
+YR 1997
+T1 Towards Interoperability in Digital Libraries Overview and Selected Highlights of the Stanford Digital Library Project
+
+RT Conference Proceedings
+ID 400120
+A1 Chang,Edward,Y.
+A1 Garcia-Molina,Hector
+YR 1997
+T1 BubbleUp: low latency fast-scan for media servers
+SP 87
+OP 98
+
+RT Conference Proceedings
+ID 1302
+A1 Garcia-molina,Hector
+A1 Shivakumar,Narayanan
+A1 Chekuri,Ra,S.
+YR 1997
+T1 Filtering with Approximate Predicates
+
+RT Conference Proceedings
+ID 429698
+A1 Ketchpel,Steven,P.
+A1 Garcia-Molina,Hector
+A1 Paepcke,Andreas
+YR 1997
+T1 Shopping models: a flexible architecture for information commerce
+SP 65
+OP 74
+
+RT Journal Article
+ID 3081250
+A1 Hammer,J.
+A1 Garcia-Molina,Hector
+A1 Cho,J.
+A1 Aranha,R.
+A1 Crespo,Arturo
+YR 1997
+T1 Extracting semi-structured data from the web
+
+RT Conference Proceedings
+ID 344337
+A1 Shivakumar,Narayanan
+A1 Garcia-Molina,Hector
+YR 1997
+T1 Wave-Indices: Indexing Evolving Databases
+SP 381
+OP 392
+
+RT Journal Article
+ID 315302
+A1 Adelberg,Brad
+A1 Garcia-Molina,Hector
+A1 Widom,Jennifer
+YR 1997
+T1 The STRIP Rule System For Efficiently Maintaining Derived Data
+JF Sigmod Record
+VO 26
+SP 147
+OP 158
+IS 2
+
+RT Book, Whole
+ID 330097
+A1 Crespo,Arturo
+A1 Garcia-molina,Hector
+YR 1997
+T1 Awareness Services for Digital Libraries
+SP 147
+OP 171
+
+RT Journal Article
+ID 850311
+A1 Chang,Edward,Y.
+A1 Garcia-molina,Hector
+YR 1997
+T1 Reducing Initial Latency in Media Servers
+JF IEEE Multimedia
+VO 4
+SP 50
+OP 61
+IS 3
+
+RT Journal Article
+ID 39217105
+A1 Labio,Wilburt,J.
+A1 Zhuge,Yue
+A1 Wiener,Janet,L.
+A1 Gupta,Himanshu
+A1 García-Molina,Héctor
+A1 Widom,Jennifer
+YR 1997
+T1 The WHIPS prototype for data warehouse creation and maintenance
+JF Sigmod Record
+SP 557
+OP 559
+
+RT Conference Proceedings
+ID 429756
+A1 Chang,Chen-Chuan,K.
+A1 García-Molina,Héctor
+YR 1997
+T1 Evaluating the cost of Boolean query mapping
+SP 103
+OP 112
+
+RT Journal Article
+ID 15231619
+A1 Garcia-Molina,Hector
+A1 Papakonstantinou,Yannis
+A1 Quass,Dallan
+A1 Rajaraman,Anand
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey
+A1 Vassalos,Vasilis
+A1 Widom,Jennifer
+YR 1997
+T1 The TSIMMIS Approach to Mediation: Data Models and Languages
+JF Journal of Intelligent Information Systems
+VO 8
+SP 117
+OP 132
+IS 2
+
+RT Journal Article
+ID 340613
+A1 Chang,Edward
+A1 Garcia-Molina,Hector
+YR 1997
+T1 Reducing Initial Latency in a Multimedia Storage System
+
+RT Journal Article
+ID 355064
+A1 Garcia-molina,Hector
+A1 Chawathe,Sudarshan,S.
+YR 1997
+T1 An Expressive Model for Comparing Tree-Structured Data
+
+RT Journal Article
+ID 39217101
+A1 Hammer,Joachim
+A1 García-Molina,Héctor
+A1 Nestorov,Svetlozar
+A1 Yerneni,Ramana
+A1 Breunig,Marcus
+A1 Vassalos,Vasilis
+YR 1997
+T1 Template-based wrappers in the TSIMMIS system
+JF Sigmod Record
+SP 532
+OP 535
+
+RT Conference Proceedings
+ID 50074753
+A1 Wiener,Janet,L.
+A1 Gupta,Himanshu
+A1 Labio,Wilburt,J.
+A1 Zhuge,Yue
+A1 Garcia-Molina,Hector
+A1 Widom,Jennifer
+YR 1997
+T1 The WHIPS prototype for data warehouse creation and maintenance
+SP 589
+
+RT Journal Article
+ID 39217076
+A1 Adelberg,Brad
+A1 Garcia-Molina,Hector
+A1 Widom,Jennifer
+YR 1997
+T1 The STRIP rule system for efficiently maintaining derived data
+JF Sigmod Record
+SP 147
+OP 158
+
+RT Journal Article
+ID 14415091
+A1 Gravano,Luis
+A1 Chang,Chen-Chuan,K.
+A1 García-Molina,Héctor
+A1 Paepcke,Andreas
+YR 1997
+T1 STARTS: Stanford proposal for Internet meta-searching
+JF Sigmod Record
+VO 26
+SP 207
+OP 218
+IS 2
+
+RT Journal Article
+ID 14415096
+A1 Shivakumar,Narayanan
+A1 García-Molina,Héctor
+YR 1997
+T1 Wave-indices: indexing evolving databases
+JF Sigmod Record
+VO 26
+SP 381
+OP 392
+IS 2
+
+RT Journal Article
+ID 39217070
+A1 Chawathe,Sudarshan,S.
+A1 Garcia-Molina,Hector
+YR 1997
+T1 Meaningful change detection in structured data
+JF Sigmod Record
+SP 26
+OP 37
+
+RT Journal Article
+ID 39226405
+A1 Adelberg,Brad
+A1 Garcia-Molina,Hector
+YR 1997
+T1 Project synopsis: evaluating STRIP
+SP 82
+OP 85
+
+RT Conference Proceedings
+ID 369980
+A1 Papakonstantinou,Yannis
+A1 Abiteboul,Serge
+A1 Garcia-molina,Hector
+YR 1996
+T1 Object Fusion in Mediator Systems
+SP 413
+OP 424
+
+RT Conference Proceedings
+ID 522839
+A1 Papakorlstantinou,Yannis
+A1 Garcia-molina,Hector
+A1 Ullman,Jeffrey,D.
+YR 1996
+T1 MedMaker: A Mediation System Based on Declarative Specifications
+SP 132
+OP 141
+
+RT Journal Article
+ID 704271
+A1 Yan,Tak,Woon
+A1 Jacobsen,Matthew
+A1 Garcia-molina,Hector
+A1 Dayal,Umeshwar
+YR 1996
+T1 From User Access Patterns to Dynamic Hypertext Linking
+JF Computer Networks and Isdn Systems
+VO 28
+SP 1007
+OP 1014
+IS 7-11
+
+RT Journal Article
+ID 1971
+A1 Chawathe,Sudarshan,S.
+A1 Rajaraman,Anand
+A1 Garcia-Molina,Hector
+A1 Widom,Jennifer
+YR 1996
+T1 Change Detection in Hierarchically Structured Information
+JF Sigmod Record
+VO 25
+SP 493
+OP 504
+IS 2
+
+RT Conference Proceedings
+ID 383059
+A1 Shivakumar,Narayanan
+A1 Garcia-Molina,Hector
+YR 1996
+T1 Building a scalable and accurate copy detection mechanism
+SP 160
+OP 168
+
+RT Conference Proceedings
+ID 364266
+A1 Zhuge,Yue
+A1 Garcia-molina,Hector
+A1 Wiener,Janet,L.
+YR 1996
+T1 The Strobe Algorithms for Multi-Source Warehouse Consistency
+SP 146
+OP 157
+
+RT Conference Proceedings
+ID 578490
+A1 Labio,Wilburt
+A1 Garcia-molina,Hector
+YR 1996
+T1 Efficient Snapshot Differential Algorithms for Data Warehousing
+SP 63
+OP 74
+
+RT Conference Proceedings
+ID 349918
+A1 Wiener,Janet,L.
+A1 Gupta,Himanshu
+A1 Labio,Wilburt
+A1 Zhuge,Yue
+A1 Garcia-molina,Hector
+A1 Widom,Jennifer
+YR 1996
+T1 A System Prototype for Warehouse View Maintenance
+SP 26
+OP 33
+
+RT Conference Proceedings
+ID 607340
+A1 Ketchpel,Steven,P.
+A1 Garcia-molina,Hector
+YR 1996
+T1 Making Trust Explicit in Distributed Commerce Transactions
+SP 270
+OP 281
+
+RT Journal Article
+ID 2790488
+A1 Chang,Kevin,Chen-chuan
+A1 Garcia-molina,Hector
+A1 Paepcke,Andreas
+YR 1996
+T1 Boolean Query Mapping Across Heterogeneous Information Sources
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 8
+SP 515
+OP 521
+IS 4
+
+RT Journal Article
+ID 848139
+A1 Paepcke,Andreas
+A1 Cousins,Steve,B.
+A1 Garcia-molina,Hector
+A1 Hassan,Scott,W.
+A1 Ketchpel,Steven,P.
+A1 Röscheisen,Martin
+A1 Winograd,Terry
+YR 1996
+T1 Using Distributed Objects for Digital Library Interoperability
+JF IEEE Computer
+VO 29
+SP 61
+OP 68
+IS 5
+
+RT Journal Article
+ID 4008151
+A1 Cousins,S.
+A1 Garcia-molina,H.
+A1 Hassan,S.
+A1 Ketchpel,S.
+A1 Roscheisen,M.
+A1 Winograd,T.
+YR 1996
+T1 Towards interoperability in digital libraries
+
+RT Journal Article
+ID 209167
+A1 Chang,Kevin,Chen-chuan
+A1 Garcia-molina,Hector
+A1 Paepcke,Andreas
+YR 1996
+T1 Boolean Query Mapping Across Heterogeneous Information Sources (Extended Version)
+
+RT Book, Whole
+ID 510800
+A1 Adelberg,Brad
+A1 Kao,Ben
+A1 Garcia-molina,Hector
+YR 1996
+T1 Database Support for Efficiently Maintaining Derived Data
+SP 223
+OP 240
+
+RT Conference Proceedings
+ID 2875669
+A1 Fang,Min
+A1 Shivakumar,Narayanan
+A1 Garcia-molina,Hector
+A1 Mot-wani,Rajeev
+A1 Ullman,Je,Rey
+YR 1996
+T1 Computing iceberg queries e ciently
+
+RT Journal Article
+ID 805278
+A1 Kao,Ben
+A1 Garcia-molina,Hector
+YR 1996
+T1 Scheduling Soft Real-Time Jobs Over Dual Non-Real-Time Servers
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 7
+SP 56
+OP 68
+IS 1
+
+RT Journal Article
+ID 168511
+A1 Adelberg,Brad
+A1 Kao,Ben
+A1 Garcia-Molina,Hector
+YR 1996
+T1 Overview of the STanford Real-time Information Processor (STRIP)
+JF Sigmod Record
+VO 25
+SP 34
+OP 37
+IS 1
+
+RT Journal Article
+ID 3473925
+A1 Papakonstantinou,Y.
+A1 Molina,H.,G.
+A1 Widom,J.
+YR 1996
+T1 Object exchange across heterogeneous information sources
+
+RT Conference Proceedings
+ID 389880
+A1 Chawathe,Sudarshan,S.
+A1 Garcia-molina,Hector
+A1 Widom,Jennifer
+YR 1996
+T1 A Toolkit for Constraint Management in Heterogeneous Information Systems
+SP 56
+OP 65
+
+RT Conference Proceedings
+ID 1328071
+A1 Hammer,J.
+A1 Garcia-molina,H.
+A1 Nestorov,S.
+A1 Yerneni,R.
+A1 Bretmig,M.
+A1 Vassalos,V.
+YR 1996
+T1 Template-based wrappers in the tsimmis system
+
+RT Journal Article
+ID 778955
+A1 Yan,Tak,W.
+A1 Garcia-molina,Hector
+YR 1996
+T1 Efficient Dissemination of Information on the Internet
+JF IEEE Data(base) Engineering Bulletin
+VO 19
+SP 48
+OP 54
+IS 3
+
+RT Journal Article
+ID 3139032
+A1 Gravano,Luis
+A1 Garcia-molina,Hector
+YR 1996
+T1 Generalising GlOSS to vector-space databases and broker hierarchies
+
+RT Conference Proceedings
+ID 563039
+A1 Garcia-molina,Hector
+A1 Gravano,Luis
+A1 Shivakumar,Narayanan
+YR 1996
+T1 dSCAM: Finding Document Copies Across Multiple Databases
+SP 68
+OP 79
+
+RT Journal Article
+ID 743291
+A1 Tomasic,Anthony
+A1 Garcia-molina,Hector
+YR 1996
+T1 Performance Issues in Distributed Shared-Nothing Information-Retrieval Systems
+JF Information Processing and Management
+VO 32
+SP 647
+OP 665
+IS 6
+
+RT Conference Proceedings
+ID 637514
+A1 Chang,Edward,Y.
+A1 Garcia-molina,Hector
+YR 1996
+T1 Reducing Initial Latency in a Multimedia Storage System
+SP 2
+OP 11
+
+RT Journal Article
+ID 1931634
+A1 Shivakumar,N.
+A1 Garcia-molina,H
+YR 1996
+T1 Wave indices: indexing evolving databmaes
+
+RT Journal Article
+ID 39217057
+A1 Chawathe,Sudarshan,S.
+A1 Rajaraman,Anand
+A1 Garcia-Molina,Hector
+A1 Widom,Jennifer
+YR 1996
+T1 Change detection in hierarchically structured information
+JF Sigmod Record
+SP 493
+OP 504
+
+RT Conference Proceedings
+ID 50065179
+A1 Zhuge,Yue
+A1 Garcia-Molina,Hector
+A1 Wiener,Janet,L.
+YR 1996
+T1 The Strobe algorithms for multi-source warehouse consistency
+
+RT Conference Proceedings
+ID 1241
+A1 Papakonstantinou,Yannis
+A1 Garcia-molina,Hector
+A1 Widom,Jennifer
+YR 1995
+T1 Object Exchange Across Heterogeneous Information Sources
+SP 251
+OP 260
+
+RT Journal Article
+ID 325994
+A1 Zhuge,Yue
+A1 Garcia-Molina,Hector
+A1 Hammer,Joachim
+A1 Widom,Jennifer
+YR 1995
+T1 View Maintenance in a Warehousing Environment
+JF Sigmod Record
+VO 24
+SP 316
+OP 327
+IS 2
+
+RT Conference Proceedings
+ID 193139
+A1 Yan,Tak,W.
+A1 Garcia-molina,Hector
+YR 1995
+T1 SIFT - a Tool for Wide-Area Information Dissemination
+SP 177
+OP 186
+
+RT Journal Article
+ID 796
+A1 Brin,Sergey
+A1 Davis,James
+A1 Garcia-Molina,Hector
+YR 1995
+T1 Copy Detection Mechanisms for Digital Documents
+JF Sigmod Record
+VO 24
+SP 398
+OP 409
+IS 2
+
+RT Book, Whole
+ID 2792
+A1 Papakonstantinou,Yannis
+A1 Gupta,Ashish
+A1 Garcia-molina,Hector
+A1 Ullman,Jeffrey,D.
+YR 1995
+T1 A Query Translation Scheme for Rapid Implementation of Wrappers
+SP 161
+OP 186
+
+RT Conference Proceedings
+ID 2703
+A1 Shivakumar,Narayanan
+A1 Garcia-molina,Hector
+YR 1995
+T1 SCAM: A Copy Detection Mechanism for Digital Documents
+SP 0
+
+RT Conference Proceedings
+ID 399605
+A1 Gravano,Luis
+A1 Garcia-molina,Hector
+YR 1995
+T1 Generalizing GlOSS to Vector-Space Databases and Broker Hierarchies
+SP 78
+OP 89
+
+RT Journal Article
+ID 209069
+A1 Hammer,Joachim
+A1 Garcia-molina,Hector
+A1 Widom,Jennifer
+A1 Labio,Wilburt
+A1 Zhuge,Yue
+YR 1995
+T1 The Stanford Data Warehousing Project
+JF IEEE Data(base) Engineering Bulletin
+VO 18
+SP 41
+OP 48
+IS 2
+
+RT Journal Article
+ID 369055
+A1 Garcia-molina,Hector
+A1 Quass,Dallan
+A1 Papakonstantinou,Yannis
+A1 Rajaraman,Anand
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 1995
+T1 The TSIMMIS Approach to Mediation: Data Models and Languages (Extended Abstract)
+
+RT Journal Article
+ID 3162
+A1 Adelberg,Brad
+A1 Garcia-Molina,Hector
+A1 Kao,Ben
+YR 1995
+T1 Applying Update Streams in a Soft Real-Time Database System
+JF Sigmod Record
+VO 24
+SP 245
+OP 256
+IS 2
+
+RT Conference Proceedings
+ID 3974516
+A1 Garcia-Molina,Hector
+A1 Quass,Dallan
+A1 Papakonstantinou,Yannis
+A1 Rajaraman,Anand
+A1 Sagiv,Yehoshua
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 1995
+T1 The TSIMMIS Approach to Mediation: Data Models and Languages
+SP 0
+
+RT Journal Article
+ID 3245291
+A1 Hammer,Joachim
+A1 Garcia-Molina,Hector
+A1 Ireland,Kelly
+A1 Papakonstantinou,Yannis
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 1995
+T1 Information Translation, Mediation, and Mosaic-Based Browsing in the TSIMMIS System
+JF Sigmod Record
+VO 24
+SP 483
+IS 2
+
+RT Journal Article
+ID 3253067
+A1 Molina,H.,Garcia
+A1 Hammer,J.
+A1 Ireland,K.
+YR 1995
+T1 Integrating and accessing heterogeneous information sources in TSIMMIS
+
+RT Journal Article
+ID 3778981
+A1 Hammer,J.
+A1 Garcia-molina,H.
+A1 Widom,J.
+A1 Labio,W.
+A1 Zhuge,Y.
+YR 1995
+T1 Special Issue on Materialised Views on Data Warehousing
+
+RT Journal Article
+ID 807493
+A1 Clifton,Chris
+A1 Garcia-molina,Hector
+A1 Bloom,David
+YR 1995
+T1 HyperFile: A Data and Query Model for Documents
+JF The Vldb Journal
+VO 4
+SP 45
+OP 86
+IS 1
+
+RT Conference Proceedings
+ID 366887
+A1 Cousins,Steve,B.
+A1 Ketchpel,Steven,P.
+A1 Paepcke,Andreas
+A1 Garcia-molina,Hector
+A1 Hassan,Scott,W.
+A1 Röscheisen,Martin
+YR 1995
+T1 InterPay: Managing Multiple Payment Mechanisms in Digital Libraries
+SP 0
+
+RT Conference Proceedings
+ID 344242
+A1 Yan,Tak,W.
+A1 Garcia-Molina,Hector
+YR 1995
+T1 Duplicate Removal in Information Dissemination
+
+RT Journal Article
+ID 1257287
+A1 Labio,W.
+A1 Garcia-molina,H.
+YR 1995
+T1 Efficient algorithms to compare snapshots
+
+RT Journal Article
+ID 348246
+A1 Shivakumar,Narayanan
+A1 Garcia-Molina,Hector
+YR 1995
+T1 The SCAM Approach to Copy Detection in Digital Libraries
+JF D-lib Magazine
+VO 1
+IS 5
+
+RT Journal Article
+ID 298261
+A1 Papakonstantinou,Yannis
+A1 Garcia-molina,Hector
+YR 1995
+T1 Object Fusion in Mediator Systems (Extended Version)
+
+RT Journal Article
+ID 1292472
+A1 Papakonstantinou,Y.
+A1 Garcia-molina,H.
+A1 Widom,J.
+YR 1995
+T1 Object exchange across heterogeneous informat
+
+RT Journal Article
+ID 3254734
+A1 Chawathe,S.
+A1 Garcia-molina,H.
+A1 Hammer,J.
+A1 Ireland,K.
+A1 Papakonstantinou,Y.
+A1 Ullman,J.
+A1 Widom,J.
+YR 1995
+T1 Integration of heterogeneous information sources
+
+RT Conference Proceedings
+ID 578402
+A1 Yan,Tak,W.
+A1 Garcia-molina,Hector
+YR 1995
+T1 Duplicate Removal in Information System Dissemination
+SP 66
+OP 77
+
+RT Journal Article
+ID 696207
+A1 Breitbart,Yuri
+A1 Garcia-molina,Hector
+A1 Silberschatz,Abraham
+YR 1995
+T1 Transaction Management in Multidatabase Systems
+
+RT Journal Article
+ID 168673
+A1 Garcia-molina,Hector
+A1 Hsu,Meichun
+YR 1995
+T1 Distributed Databases
+
+RT Journal Article
+ID 39216989
+A1 Adelberg,B.
+A1 Garcia-Molina,H.
+A1 Kao,B.
+YR 1995
+T1 Applying update streams in a soft real-time database system
+JF Sigmod Record
+SP 245
+OP 256
+
+RT Conference Proceedings
+ID 6571866
+A1 Kao,Ben
+A1 Garcia-Molina,Hector
+A1 Adelberg,Brad
+YR 1995
+T1 On building distributed soft real-time systems
+
+RT Journal Article
+ID 854574
+A1 Yan,Tak,W.
+A1 García-Molina,Héctor
+YR 1995
+T1 Information finding in a digital library: the Stanford perspective
+JF Sigmod Record
+VO 24
+SP 62
+OP 70
+IS 3
+
+RT Journal Article
+ID 39217000
+A1 Brin,Sergey
+A1 Davis,James
+A1 García-Molina,Héctor
+YR 1995
+T1 Copy detection mechanisms for digital documents
+JF Sigmod Record
+SP 398
+OP 409
+
+RT Journal Article
+ID 39217021
+A1 Hammer,Joachim
+A1 García-Molina,Héctor
+A1 Ireland,Kelly
+A1 Papakonstantinou,Yannis
+A1 Ullman,Jeffrey
+A1 Widom,Jennifer
+YR 1995
+T1 Information translation, mediation, and mosaic-based browsing in the TSIMMIS system
+JF Sigmod Record
+SP 483
+
+RT Conference Proceedings
+ID 578431
+A1 Ramakrishnan,Raghu
+A1 Garcia-molina,Hector
+A1 Rossbach,Gerhard
+A1 Silberschatz,Abraham
+A1 Wiederhold,Gio
+A1 Zijlstra,Jaco
+YR 1995
+T1 Scientific Journals: Extinction or Explosion? (Panel)
+SP 631
+
+RT Journal Article
+ID 39216995
+A1 Zhuge,Yue
+A1 García-Molina,Héctor
+A1 Hammer,Joachim
+A1 Widom,Jennifer
+YR 1995
+T1 View maintenance in a warehousing environment
+JF Sigmod Record
+SP 316
+OP 327
+
+RT Journal Article
+ID 790857
+A1 Garcia-molina,Hector
+A1 Salem,Kenneth
+YR 1995
+T1 Non-deterministic Queue Operations
+JF Journal of Computer and System Sciences
+VO 51
+SP 211
+OP 222
+IS 2
+
+RT Journal Article
+ID 14501608
+A1 Garciamolina,H.
+A1 Salem,K.
+YR 1995
+T1 Non-deterministic Queue Operations
+JF Journal of Computer and System Sciences
+VO 51
+SP 211
+OP 222
+IS 2
+
+RT Conference Proceedings
+ID 383296
+A1 Chawathe,Sudarshan,S.
+A1 Garcia-molina,Hector
+A1 Hammer,Joachim
+A1 Ireland,Kelly
+A1 Papakonstantinou,Yannis
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+YR 1994
+T1 The TSIMMIS Project: Integration of Heterogeneous Information Sources
+SP 7
+OP 18
+
+RT Journal Article
+ID 379094
+A1 Gravano,Luis
+A1 Garcia-Molina,Hector
+A1 Tomasic,Anthony
+YR 1994
+T1 The Effectiveness of GlOSS for the Text Database Discovery Problem
+JF Sigmod Record
+VO 23
+SP 126
+OP 137
+IS 2
+
+RT Journal Article
+ID 121821
+A1 Garcia-molina,Hector
+A1 Yan,Tak,W.
+YR 1994
+T1 SIFT -- A Tool for Wide-Area Information Dissemination
+
+RT Journal Article
+ID 305538
+A1 Yan,Tak,W.
+A1 García-Molina,Héctor
+YR 1994
+T1 Index structures for selective dissemination of information under the Boolean model
+JF ACM Transactions on Database Systems
+VO 19
+SP 332
+OP 364
+IS 2
+
+RT Journal Article
+ID 386214
+A1 Tomasic,Anthony
+A1 Garcia-Molina,Hector
+A1 Shoens,Kurt,A.
+YR 1994
+T1 Incremental Updates of Inverted Lists for Text Document Retrieval
+JF Sigmod Record
+VO 23
+SP 289
+OP 300
+IS 2
+
+RT Journal Article
+ID 348870
+A1 Kao,Ben
+A1 Garcia-molina,Hector
+YR 1994
+T1 An Overview of Real-Time Database Systems
+JF Real-time Systems
+
+RT Conference Proceedings
+ID 378084
+A1 Gravano,Luis
+A1 Garcia-molina,Hector
+A1 Tomasic,Anthony
+YR 1994
+T1 Precision and Recall of GlOSS Estimators for Database Discovery
+SP 103
+OP 106
+
+RT Conference Proceedings
+ID 522679
+A1 Yan,Tak,W.
+A1 Garcia-molina,Hector
+YR 1994
+T1 Index Structures for Information Filtering Under the Vector Space Model
+SP 337
+OP 347
+
+RT Conference Proceedings
+ID 324723
+A1 Yan,Tak,W.
+A1 Garcia-molina,Hector
+YR 1994
+T1 Distributed Selective Dissemination of Information
+SP 89
+OP 98
+
+RT Conference Proceedings
+ID 607052
+A1 Kao,Ben
+A1 Garcia-molina,Hector
+YR 1994
+T1 Subtask Deadline Assignment for Complex Distributed Soft Real-Time Tasks
+SP 172
+OP 181
+
+RT Journal Article
+ID 803814
+A1 Salem,Kenneth
+A1 García-Molina,Héctor
+A1 Shands,Jeannie
+YR 1994
+T1 Altruistic locking
+JF ACM Transactions on Database Systems
+VO 19
+SP 117
+OP 165
+IS 1
+
+RT Journal Article
+ID 807522
+A1 Barbará-Millá,Daniel
+A1 Garcia-molina,Hector
+YR 1994
+T1 The Demarcation Protocol: A Technique for Maintaining Constraints in Distributed Database Systems
+JF The Vldb Journal
+VO 3
+SP 325
+OP 353
+IS 3
+
+RT Conference Proceedings
+ID 198804
+A1 Adelberg,Brad
+A1 Garcia-molina,Hector
+A1 Kao,Ben
+YR 1994
+T1 Emulating Soft Real-Time Scheduling Using Traditional Operating System Schedulers
+SP 292
+OP 298
+
+RT Journal Article
+ID 805592
+A1 Kao,Ben
+A1 Garcia-molina,Hector
+A1 Barbará,Daniel
+YR 1994
+T1 Aggressive Transmissions of Short Messages Over Redundant Paths
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 5
+SP 102
+OP 109
+IS 1
+
+RT Conference Proceedings
+ID 319079
+A1 Shoens,Kurt,A.
+A1 Tomasic,Anthony
+A1 García-Molina,Héctor
+YR 1994
+T1 Synthetic workload performance analysis of incremental updates
+SP 329
+OP 338
+
+RT Conference Proceedings
+ID 494951
+A1 Barbar'a,Daniel
+A1 Garcia-Molina,Hector
+YR 1994
+T1 Replicated Data Management in Mobile Environments: Anything New Under the Sun?
+SP 237
+OP 246
+
+RT Journal Article
+ID 803953
+A1 Polyzois,Christos,A.
+A1 García-Molina,Héctor
+YR 1994
+T1 Evaluation of remote backup algorithms for transaction-processing systems
+JF ACM Transactions on Database Systems
+VO 19
+SP 423
+OP 449
+IS 3
+
+RT Journal Article
+ID 349253
+A1 Chawathe,Sudarshan,S.
+A1 Garcia-molina,Hector
+A1 Widom,Jennifer
+YR 1994
+T1 Flexible Constraint Management for Autonomous Distributed Databases
+JF IEEE Data(base) Engineering Bulletin
+VO 17
+SP 23
+OP 27
+IS 2
+
+RT Journal Article
+ID 39216931
+A1 Gravano,Luis
+A1 García-Molina,Héctor
+A1 Tomasic,Anthony
+YR 1994
+T1 The effectiveness of GIOSS for the text database discovery problem
+JF Sigmod Record
+SP 126
+OP 137
+
+RT Journal Article
+ID 1309038
+A1 Adelberg,B.
+A1 Garcia-molina,H.
+A1 Kao,B.
+YR 1994
+T1 A realtime database system for telecommunication applications
+
+RT Journal Article
+ID 778873
+A1 Garcia-molina,Hector
+A1 Salem,Kenneth
+YR 1994
+T1 Services for a Workflow Management System
+JF IEEE Data(base) Engineering Bulletin
+VO 17
+SP 40
+OP 44
+IS 1
+
+RT Conference Proceedings
+ID 574597
+A1 Polyzois,Christos,A.
+A1 Garcia-molina,Hector
+YR 1994
+T1 Processing of Read-Only Queries at a Remote Backup
+SP 192
+OP 201
+
+RT Journal Article
+ID 779022
+A1 Tomasic,Anthony
+A1 Garcia-molina,Hector
+YR 1994
+T1 Issues in Parallel Information Retrieval
+JF IEEE Data(base) Engineering Bulletin
+VO 17
+SP 41
+OP 49
+IS 3
+
+RT Journal Article
+ID 39216944
+A1 Tomasic,Anthony
+A1 García-Molina,Héctor
+A1 Shoens,Kurt
+YR 1994
+T1 Incremental updates of inverted lists for text document retrieval
+JF Sigmod Record
+SP 289
+OP 300
+
+RT Conference Proceedings
+ID 339050
+A1 Kao,Ben
+A1 Garcia-molina,Hector
+YR 1993
+T1 Deadline Assignment in a Distributed Soft Real-Time System
+SP 428
+OP 437
+
+RT Conference Proceedings
+ID 341101
+A1 Tomasic,Anthony
+A1 Garcia-molina,Hector
+YR 1993
+T1 Performance of inverted indices in shared-nothing distributed text document information retrieval systems
+
+RT Journal Article
+ID 2819
+A1 Garcia-molina,Hector
+A1 Widom,Jennifer
+A1 Chawathe,Sudarshan,S.
+YR 1993
+T1 Constraint Management in Loosely Coupled Distributed Databases
+
+RT Conference Proceedings
+ID 317871
+A1 Tomasic,Anthony
+A1 Garcia-molina,Hector
+YR 1993
+T1 Performance of Inverted Indices in Distributed Text Document Retrieval Systems
+SP 8
+OP 17
+
+RT Conference Proceedings
+ID 396241
+A1 Gravano,Luis
+A1 Garcia-molina,Hector
+A1 Tomasic,Anthony
+YR 1993
+T1 The Efficacy of GlOSS for the Text Database Discovery Problem
+
+RT Conference Proceedings
+ID 668379
+A1 Dayal,Umeshwar
+A1 Garcia-Molina,Hector
+A1 Hsu,Meichun
+A1 Kao,Ben
+A1 Shan,Ming-Chien
+YR 1993
+T1 Third Generation TP Monitors: A Database Challenge
+SP 393
+OP 397
+
+RT Conference Proceedings
+ID 523030
+A1 Barbará,Daniel
+A1 Clifton,Chris
+A1 Douglis,Fred
+A1 Garcia-molina,Hector
+A1 Johnson,Stephen
+A1 Kao,Ben
+A1 Mehrotrat,Sharad
+A1 Tellefsen,Jens
+A1 Walsh,Rosemary
+YR 1993
+T1 The Gold Mailer
+SP 92
+OP 99
+
+RT Journal Article
+ID 46352373
+A1 Tomasic,Anthony
+A1 Garcia-Molina,Hector
+YR 1993
+T1 Query processing and inverted indices in shared-nothing text document information retrieval systems
+JF The Vldb Journal
+VO 2
+SP 243
+OP 275
+IS 3
+
+RT Journal Article
+ID 307500
+A1 Tomasic,Anthony
+A1 Garcia-Molina,Hector
+YR 1993
+T1 Caching and Database Scaling in Distributed Shard-Nothing Information Retrieval Systems
+JF Sigmod Record
+VO 22
+SP 129
+OP 138
+IS 2
+
+RT Journal Article
+ID 807485
+A1 Tomasic,Anthony
+A1 Garcia-molina,Hector
+YR 1993
+T1 Query Processing and Inverted Indices in Shared-Nothing Document Information Retrieval Systems
+JF The Vldb Journal
+VO 2
+SP 243
+OP 275
+IS 3
+
+RT Journal Article
+ID 39216875
+A1 Tomasic,Anthony
+A1 Garcia-Molina,Hector
+YR 1993
+T1 Caching and database scaling in distributed shared-nothing information retrieval systems
+JF Sigmod Record
+SP 129
+OP 138
+
+RT Journal Article
+ID 14414980
+A1 Dayal,Umesh
+A1 Garcia-Molinat,Hector
+A1 Hsu,Mei
+A1 Kao,Ben
+A1 Shan,Ming-Chien
+YR 1993
+T1 Third generation TP monitors: a database challenge
+JF Sigmod Record
+VO 22
+SP 393
+OP 397
+IS 2
+
+RT Conference Proceedings
+ID 568955
+A1 Barbará,Daniel
+A1 Breitbart,Yuri
+A1 Garcia-Molinat,Hector
+A1 Korth,Henry,F.
+A1 Mehrotrat,Sharad
+YR 1993
+T1 Interoperability with Unstructured Data and Services
+SP 123
+OP 125
+
+RT Conference Proceedings
+ID 546367
+A1 Garcia-molina,Hector
+YR 1993
+T1 What is Workflow and Who needs it?
+SP 0
+
+RT Journal Article
+ID 212609
+A1 Breitbart,Yuri
+A1 Garcia-Molina,Hector
+A1 Silberschatz,Abraham
+YR 1992
+T1 Overview of Multidatabase Transaction Management
+JF The Vldb Journal
+VO 1
+SP 23
+OP 56
+IS 2
+
+RT Journal Article
+ID 802347
+A1 Barbará,Daniel
+A1 Garcia-molina,Hector
+A1 Porter,Daryl
+YR 1992
+T1 The Management of Probabilistic Data
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 4
+SP 487
+OP 502
+IS 5
+
+RT Journal Article
+ID 802543
+A1 Garcia-molina,Hector
+A1 Salem,Kenneth
+YR 1992
+T1 Main Memory Database Systems: An Overview
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 4
+SP 509
+OP 516
+IS 6
+
+RT Journal Article
+ID 803797
+A1 Abbott,Robert,K.
+A1 Garcia-Molina,Hector
+YR 1992
+T1 Scheduling real-time transactions: a performance evaluation
+JF ACM Transactions on Database Systems
+VO 17
+SP 513
+OP 560
+IS 3
+
+RT Book, Whole
+ID 511010
+A1 Barbará,Daniel
+A1 Garcia-molina,Hector
+YR 1992
+T1 The Demarcation Protocol: A Technique for Maintaining Linear Arithmetic Constraints in Distributed Database Systems
+SP 373
+OP 388
+
+RT Journal Article
+ID 668081
+A1 Polyzois,Christos,A.
+A1 Garcia-Molina,Hector
+YR 1992
+T1 Evaluation of Remote Backup Algorithms for Transaction Processing Systems
+JF Sigmod Record
+VO 21
+SP 246
+OP 255
+IS 2
+
+RT Journal Article
+ID 1970675
+A1 Tomasic,Anthony
+A1 Garcia-molina,Hector
+YR 1992
+T1 Caching and database scaling in distributed shared-nothing information retrieval systems
+
+RT Journal Article
+ID 46352372
+A1 Breitbart,Yuri
+A1 Garcia-Molina,Hector
+A1 Silberschatz,Avi
+YR 1992
+T1 Overview of multidatabase transaction management
+JF The Vldb Journal
+VO 1
+SP 181
+OP 239
+IS 2
+
+RT Journal Article
+ID 39216842
+A1 Polyzois,Christos,A.
+A1 Garcia-Molina,Hector
+YR 1992
+T1 Evaluation of remote backup algorithms for transaction processing systems
+JF Sigmod Record
+SP 246
+OP 255
+
+RT Journal Article
+ID 803403
+A1 Garcia-Molina,Hector
+A1 Spauster,AnneMarie
+YR 1991
+T1 Ordered and reliable multicast communication
+JF ACM Transactions on Computer Systems
+VO 9
+SP 242
+OP 271
+IS 3
+
+RT Journal Article
+ID 778989
+A1 Garcia-molina,Hector
+A1 Gawlick,Dieter
+A1 Klein,Johannes
+A1 Kleissner,Karl
+A1 Salem,Kenneth
+YR 1991
+T1 Modeling Long-Running Activities as Nested Sagas
+JF IEEE Data(base) Engineering Bulletin
+VO 14
+SP 14
+OP 18
+IS 1
+
+RT Conference Proceedings
+ID 670450
+A1 Staelin,Carl
+A1 Garcia-molina,Hector
+YR 1991
+T1 Smart Filesystems
+SP 45
+OP 52
+
+RT Journal Article
+ID 804000
+A1 King,Richard,P.
+A1 Halim,Nagui
+A1 Garcia-Molina,Hector
+A1 Polyzois,Christos,A.
+YR 1991
+T1 Management of a remote backup copy for disaster recovery
+JF ACM Transactions on Database Systems
+VO 16
+SP 338
+OP 368
+IS 2
+
+RT Journal Article
+ID 1275714
+A1 Salem,K.
+A1 Garcia-molina,H.
+YR 1991
+T1 Altruistic locking: a strategy for coping with long-lived transactions
+
+RT Conference Proceedings
+ID 3153564
+A1 Garcia-Molina,Hector
+YR 1991
+T1 Global consistency constraints considered harmful for heterogeneous database systems
+
+RT Conference Proceedings
+ID 4271898
+A1 Garcia-molina,Hector
+A1 Kao,Ben
+A1 Barbará,Daniel
+YR 1991
+T1 Aggressive transmissions over redundant paths
+SP 198
+OP 207
+
+RT Conference Proceedings
+ID 565317
+A1 Garcia-Molina,Hector
+A1 Salem,Kenneth
+YR 1991
+T1 Non-deterministic queue operations
+SP 53
+OP 62
+
+RT Journal Article
+ID 1293403
+A1 Garcia-molina,H.
+A1 Polyzois,C.,A.
+YR 1991
+T1 Processing of read-only queries at a remote backup
+
+RT Journal Article
+ID 1931631
+A1 Garcia-molina,H.
+A1 Polyzois,C.,A.
+YR 1991
+T1 A generalized disaster recovery model and algorithm
+
+RT Journal Article
+ID 1980296
+A1 Hagmann,R.,B.
+A1 Garcia-molina,H.
+YR 1991
+T1 Implementing Long Lived Transactions Using Log Record Forwarding
+
+RT Conference Proceedings
+ID 4271879
+A1 CliftonS,Chris
+A1 Garcia-molina,Hector
+YR 1991
+T1 Distributed processing of filtering queries in HyperFile
+SP 54
+OP 64
+
+RT Conference Proceedings
+ID 49904688
+A1 Garcia-Molina,Hector
+A1 Gawlick,Dieter
+A1 Klein,Johannes
+A1 Kleissner,Karl
+A1 Salem,Kenneth
+YR 1991
+T1 Coordinating activities through extended sagas: a summary
+
+RT Conference Proceedings
+ID 578273
+A1 Breitbart,Yuri
+A1 Garcia-molina,Hector
+A1 Litwin,Witold
+A1 Roussopoulos,Nick
+A1 Schek,Hans-jörg
+A1 Wiederhold,Gio
+YR 1991
+T1 Interoperability In Multidatabases: Semantic and System Issues (Panel)
+SP 561
+
+RT Conference Proceedings
+ID 563058
+A1 Garcia-molina,Hector
+A1 Brady,Jim
+A1 Dewitt,David,J.
+A1 Gibson,Garth,A.
+A1 Gordon,David
+YR 1991
+T1 Are Disk Arrays Useful for Database Systems? (Panel)
+SP 118
+
+RT Journal Article
+ID 804079
+A1 Alonso,Rafael
+A1 Barbara,Daniel
+A1 Garcia-Molina,Hector
+YR 1990
+T1 Data caching issues in an information retrieval system
+JF ACM Transactions on Database Systems
+VO 15
+SP 359
+OP 384
+IS 3
+
+RT Conference Proceedings
+ID 571687
+A1 Abbott,Robert,K.
+A1 Garcia-molina,Hector
+YR 1990
+T1 Scheduling I/O Requests with Deadlines: A Performance Evaluation
+SP 113
+OP 125
+
+RT Journal Article
+ID 260138
+A1 Garcia-Molina,Hector
+A1 Gawlick,Dieter
+A1 Klein,Johannes
+A1 Kleissner,Karl
+A1 Salem,Kenneth
+YR 1990
+T1 Coordinating Multi-Transaction Activities
+
+RT Conference Proceedings
+ID 581643
+A1 Barbará,Daniel
+A1 Garcia-molina,Hector
+YR 1990
+T1 The Case for Controlled Inconsistency in Replicated Data
+SP 35
+OP 38
+
+RT Journal Article
+ID 803032
+A1 Salem,Kenneth
+A1 Garcia-molina,Hector
+YR 1990
+T1 System M: A Transaction Processing Testbed for Memory Resident Data
+JF IEEE Transactions on Knowledge and Data Engineering
+VO 2
+SP 161
+OP 172
+IS 1
+
+RT Journal Article
+ID 854699
+A1 Scheuermann,Peter
+A1 Elmagarmid,Ahmed,K.
+A1 Garcia-molina,Hector
+A1 Manola,Frank
+A1 Mcleod,Dennis
+A1 Rosenthal,Arnon
+A1 Templeton,Marjorie
+YR 1990
+T1 Report on the Workshop on Heterogenous Database Systems held at Northwestern University, Evanston, Illinois, December 11-13, 1989, Sponsored by NSF
+JF Sigmod Record
+VO 19
+SP 23
+OP 31
+IS 4
+
+RT Journal Article
+ID 183126
+A1 Staelin,Carl
+A1 Garcia-molina,Hector
+YR 1990
+T1 Clustering Active Disk Data to Improve Disk Performance
+
+RT Conference Proceedings
+ID 582269
+A1 Garcia-molina,Hector
+A1 Polyzois,Christos,A.
+YR 1990
+T1 Issues in Disaster Recovery
+SP 573
+OP 577
+
+RT Conference Proceedings
+ID 578168
+A1 Garcia-molina,Hector
+A1 Polyzois,Christos,A.
+A1 Hagmann,Robert,B.
+YR 1990
+T1 Two Epoch Algorithms for Disaster Recovery
+SP 222
+OP 230
+
+RT Conference Proceedings
+ID 510784
+A1 Barbará,Daniel
+A1 Garcia-molina,Hector
+A1 Porter,Daryl
+YR 1990
+T1 A Probalilistic Relational Data Model
+SP 60
+OP 74
+
+RT Journal Article
+ID 13276908
+A1 Garcia-Molina,Hector
+A1 Jagadish,H.,V.
+YR 1990
+T1 Proceedings of the 1990 ACM SIGMOD International Conference on Management of Data, Atlantic City, NJ, May 23-25, 1990
+
+RT Journal Article
+ID 778871
+A1 Garcia-Molina,Hector
+A1 Lindsay,Bruce,G.
+YR 1990
+T1 Research directions for distributed databases
+JF Sigmod Record
+VO 13
+SP 98
+OP 103
+IS 4
+
+RT Conference Proceedings
+ID 578985
+A1 Clifton,Chris
+A1 Garcia-molina,Hector
+YR 1990
+T1 Indexing in a Hypertext Database
+SP 36
+OP 49
+
+RT Conference Proceedings
+ID 2371124
+A1 Staelin,C.
+A1 Garcia-molina,H.
+YR 1990
+T1 File system design us-ing large memories
+
+RT Conference Proceedings
+ID 1357143
+A1 King,Richard,P.
+A1 Halim,Nagui
+A1 Garcia-molina,Hector
+A1 Polyzoisi,Christos,A.
+YR 1990
+T1 Overview of Disaster Recovery for Transaction Processing Systems
+SP 286
+OP 293
+
+RT Conference Proceedings
+ID 49893315
+A1 Staelin,Carl
+A1 Garcia-Molina,H.
+YR 1990
+T1 File system design using large memories
+
+RT Book, Whole
+ID 635066
+A1 Garcia-molina,Hector
+A1 Abbott,Robert,K.
+A1 Clifton,Christopher
+A1 Staelin,Carl
+A1 Salem,Kenneth
+YR 1990
+T1 Data Management with Massive Memory: A Summary
+SP 63
+OP 70
+
+RT Journal Article
+ID 39216737
+A1 Scheuermann,Peter
+A1 Yu,Clement
+A1 Elmagarmid,Ahmed
+A1 Manola,Frank
+A1 Rosenthal,Arnon
+A1 Garcia-Molina,Hector
+A1 McLeod,Dennis
+A1 Templeton,Marjorie
+YR 1990
+T1 Report on the workshop on heterogenous database systems held at Northwestern University Evanston, Illinois, December 11-13, 1989 sponsored by NSF
+JF Sigmod Record
+SP 23
+OP 31
+
+RT Conference Proceedings
+ID 638478
+A1 Barbará,Daniel
+A1 Garcia-Molina,Hector
+YR 1990
+T1 Polynets: providing reliable communications for distributed systems
+SP 1
+OP 4
+
+RT Conference Proceedings
+ID 578457
+A1 Abbott,Robert,K.
+A1 Garcia-molina,Hector
+YR 1989
+T1 Scheduling Real-Time Transactions with Disk Resident Data
+SP 385
+OP 396
+
+RT Conference Proceedings
+ID 1298927
+A1 Garcia-Molina,Hector
+A1 Spauster,Annemarie
+YR 1989
+T1 Message ordering in a multicast environment
+
+RT Journal Article
+ID 803516
+A1 Pittelli,Frank,M.
+A1 Garcia-Molina,Hector
+YR 1989
+T1 Reliable scheduling in a TMR database system
+JF ACM Transactions on Computer Systems
+VO 7
+SP 25
+OP 60
+IS 1
+
+RT Journal Article
+ID 803367
+A1 Barbara,Daniel
+A1 Garcia-Molina,Hector
+A1 Spauster,Annemarie
+YR 1989
+T1 Increasing availability under mutual exclusion constraints with dynamic vote reassignment
+JF ACM Transactions on Computer Systems
+VO 7
+SP 394
+OP 426
+IS 4
+
+RT Conference Proceedings
+ID 523159
+A1 Salem,Kenneth
+A1 Garcia-molina,Hector
+YR 1989
+T1 Checkpointing Memory-Resident Databases
+SP 452
+OP 462
+
+RT Journal Article
+ID 3711705
+A1 Abbott,R.
+A1 Garcia-molina,H.
+YR 1989
+T1 Scheduling Real-Time Transactions with Disk Resident Data X Server
+
+RT Conference Proceedings
+ID 578456
+A1 Abbott,Robert,K.
+A1 Garcia-molina,Hector
+YR 1988
+T1 Scheduling Real-time Transactions: a Performance Evaluation
+SP 1
+OP 12
+
+RT Journal Article
+ID 854601
+A1 Abbott,Robert,K.
+A1 Garcia-Molina,Hector
+YR 1988
+T1 Scheduling real-time transactions
+JF Sigmod Record
+VO 17
+SP 71
+OP 81
+IS 1
+
+RT Book, Whole
+ID 511019
+A1 Alonso,Rafael
+A1 Barbará,Daniel
+A1 Garcia-molina,Hector
+A1 Abad,Soraya
+YR 1988
+T1 Quasi-Copies: Efficient Data Sharing for Information Retrieval Systems
+SP 443
+OP 468
+
+RT Conference Proceedings
+ID 511386
+A1 Garcia-molina,Hector
+A1 Kogan,Boris
+YR 1988
+T1 Node Autonomy in Distributed Systems
+SP 158
+OP 166
+
+RT Conference Proceedings
+ID 607120
+A1 Garcia-molina,Hector
+A1 Kogan,Boris
+A1 Lynch,Nancy,A.
+YR 1988
+T1 Reliable Broadcast in Networks with Nonprogrammable Servers
+SP 428
+OP 437
+
+RT Conference Proceedings
+ID 606950
+A1 Barbará,Daniel
+A1 Garcia-molina,Hector
+A1 Feijoo,Bernardo
+YR 1988
+T1 Exploiting Symmetries for Low-Cost Comparison of File Copies
+SP 471
+OP 479
+
+RT Journal Article
+ID 766350
+A1 Garcia-molina,Hector
+A1 Kogan,Boris
+YR 1988
+T1 Achieving High Availability in Distributed Databases
+JF IEEE Transactions on Software Engineering
+VO 14
+SP 886
+OP 896
+IS 7
+
+RT Conference Proceedings
+ID 574429
+A1 Garcia-molina,Hector
+A1 Kogan,Boris
+YR 1988
+T1 An Implementation of Reliable Broadcast Using an Unreliable Multicast Facility
+SP 101
+OP 111
+
+RT Journal Article
+ID 778872
+A1 Garcia-molina,Hector
+A1 Salem,Kenneth
+YR 1988
+T1 The Impact of Disk Striping on Reliability
+JF IEEE Data(base) Engineering Bulletin
+VO 11
+SP 26
+OP 39
+IS 1
+
+RT Journal Article
+ID 766864
+A1 Kent,Jack
+A1 Garcia-molina,Hector
+YR 1988
+T1 Optimizing Shadow Recovery Algorithms
+JF IEEE Transactions on Software Engineering
+VO 14
+SP 155
+OP 168
+IS 2
+
+RT Conference Proceedings
+ID 4142233
+A1 Alonso,R.
+A1 Barbará,D.
+A1 Molina,H.,Garcia
+A1 Abad,S.
+YR 1988
+T1 Quasi - Copies: Efficient Data Sharing for IR Systems
+
+RT Conference Proceedings
+ID 6595071
+A1 Garcia-Molina,Hector
+A1 Salem,Kenneth
+YR 1987
+T1 Sagas
+SP 249
+OP 259
+
+RT Journal Article
+ID 779348
+A1 Alonso,Rafael
+A1 Garcia-molina,Hector
+A1 Salem,Kenneth
+YR 1987
+T1 Concurrency Control and Recovery for Global Procedures in Federated Database Systems
+JF IEEE Data(base) Engineering Bulletin
+VO 10
+SP 5
+OP 11
+IS 3
+
+RT Journal Article
+ID 716885
+A1 Barbará,Daniel
+A1 Garcia-molina,Hector
+YR 1987
+T1 The Reliability of Voting Mechanisms
+JF IEEE Transactions on Computers
+VO 36
+SP 1197
+OP 1208
+IS 10
+
+RT Journal Article
+ID 1933263
+A1 Garcia-molina,H.
+A1 Salem,K.
+YR 1987
+T1 In proceedings of the acm sigmod international conference on management of data
+
+RT Book, Whole
+ID 546330
+A1 Salem,Kenneth
+A1 Garcia-molina,Hector
+A1 Alonso,Rafael
+YR 1987
+T1 Altruistic Locking: A Strategy for Coping with Long Lived Transactions
+SP 175
+OP 199
+
+RT Conference Proceedings
+ID 565077
+A1 Kogan,Boris
+A1 Garcia-Molina,Hector
+YR 1987
+T1 Update propagation in Bakunin data networks
+SP 13
+OP 26
+
+RT Journal Article
+ID 1312532
+A1 Garcia-Molina,H.
+A1 Abbott,R.,K.
+YR 1987
+T1 Reliable distributed database management
+JF Proceedings of The IEEE
+VO 75
+SP 601
+OP 620
+IS 5
+
+RT Journal Article
+ID 680533
+A1 Garcia-Molina,Hector
+A1 Park,Arvin
+A1 Rogers,Lawrence,R.
+YR 1987
+T1 Performance Through Memory
+JF Sigmetrics Performance Evaluation Review
+VO 15
+SP 122
+OP 131
+IS 1
+
+RT Conference Proceedings
+ID 522522
+A1 Garcia-molina,Hector
+A1 Kogan,Boris
+YR 1987
+T1 Achieving High Availability in Distributed Databases
+SP 430
+OP 440
+
+RT Conference Proceedings
+ID 1376371
+A1 Garcia-molina,H.
+A1 Salem,K.
+YR 1987
+T1 High performance transaction processing with memory resident data
+
+RT Conference Proceedings
+ID 607579
+A1 Pittelli,Frank,M.
+A1 Garcia-molina,Hector
+YR 1987
+T1 Recovery in a Triple Modular Redundant Database System
+SP 514
+OP 520
+
+RT Journal Article
+ID 1961985
+A1 Salem,K.
+A1 Garcia-molina,H.
+YR 1987
+T1 Crash recovery for memory- resident databases
+
+RT Journal Article
+ID 39213821
+A1 Garcia-Molina,Hector
+A1 Rogers,Lawrence,R.
+YR 1987
+T1 Performance through memory
+JF Sigmetrics Performance Evaluation Review
+SP 122
+OP 131
+
+RT Conference Proceedings
+ID 574362
+A1 Barbará,Daniel
+A1 Garcia-molina,Hector
+A1 Kogan,Boris
+YR 1987
+T1 Maintaining Availability of Replicated Data in a Dynamic Failure Environment
+SP 177
+OP 187
+
+RT Journal Article
+ID 14414927
+A1 Garcia-Molina,Hector
+A1 Salem,Kenneth
+YR 1987
+T1 Sagas
+JF Sigmod Record
+VO 16
+SP 249
+OP 259
+IS 3
+
+RT Conference Proceedings
+ID 523158
+A1 Salem,Kenneth
+A1 Garcia-molina,Hector
+YR 1986
+T1 Disk Striping
+SP 336
+OP 342
+
+RT Journal Article
+ID 1361844
+A1 Salem,Kenneth
+A1 Garcia-molina,Hector
+YR 1986
+T1 Crash recovery mechanisms for main storage database systems
+
+RT Journal Article
+ID 705712
+A1 Barbará,Daniel
+A1 Garcia-molina,Hector
+YR 1986
+T1 Mutual Exclusion in Partitioned Distributed Systems
+JF Distributed Computing
+VO 1
+SP 119
+OP 132
+IS 2
+
+RT Journal Article
+ID 803717
+A1 Molina,Hector,Garcia
+A1 Pittelli,Frank,M.
+A1 Davidson,Susan,B.
+YR 1986
+T1 Applications of Byzantine agreement in database systems
+JF ACM Transactions on Database Systems
+VO 11
+SP 27
+OP 47
+IS 1
+
+RT Conference Proceedings
+ID 564613
+A1 Barbara,Daniel
+A1 Garcia-Molina,Hector
+A1 Spauster,Annemarie
+YR 1986
+T1 Protocols for dynamic vote reassignment
+SP 195
+OP 205
+
+RT Journal Article
+ID 803558
+A1 Barbara,Daniel
+A1 Garcia-Molina,Hector
+YR 1986
+T1 The vulnerability of vote assignments
+JF ACM Transactions on Computer Systems
+VO 4
+SP 187
+OP 213
+IS 3
+
+RT Conference Proceedings
+ID 606951
+A1 Barbará,Daniel
+A1 Garcia-molina,Hector
+A1 Spauster,Annemarie
+YR 1986
+T1 Policies for Dynamic Vote Reassignment
+SP 37
+OP 44
+
+RT Conference Proceedings
+ID 574619
+A1 Pittelli,Frank,M.
+A1 Garcia-molina,Hector
+YR 1986
+T1 Database Processing with Triple Modular Redundancy
+SP 95
+OP 103
+
+RT Conference Proceedings
+ID 574626
+A1 Garcia-molina,Hector
+YR 1986
+T1 The Future of Data Replication
+SP 13
+OP 19
+
+RT Journal Article
+ID 781273
+A1 Davidson,Susan,B.
+A1 Garcia-molina,Hector
+A1 Skeen,Dale
+YR 1985
+T1 Consistency in Partitioned Networks
+JF ACM Computing Surveys
+VO 17
+SP 341
+OP 370
+IS 3
+
+RT Journal Article
+ID 787192
+A1 Garcia-molina,Hector
+A1 Barbará,Daniel
+YR 1985
+T1 How to Assign Votes in a Distributed System
+JF Journal of The ACM
+VO 32
+SP 841
+OP 860
+IS 4
+
+RT Journal Article
+ID 872856
+A1 Davidson,Susan,B.
+A1 Garcia-Molina,Hector
+A1 Skeen,Dale
+YR 1985
+T1 Consistency in a partitioned network: a survey
+JF ACM Computing Surveys
+VO 17
+SP 341
+OP 370
+IS 3
+
+RT Journal Article
+ID 1270218
+A1 Garcia-molina,H.
+YR 1985
+T1 Barbara "how to assign votes in a distributed system
+JF Journal of The ACM
+
+RT Conference Proceedings
+ID 565451
+A1 Kent,Jack
+A1 Garcia-Molina,Hector
+A1 Chung,Jae
+YR 1985
+T1 An experimental evaluation of crash recovery machanisms
+SP 113
+OP 122
+
+RT Conference Proceedings
+ID 607332
+A1 Cordon,Ricardo
+A1 Garcia-molina,Hector
+YR 1985
+T1 The Performance of a Concurrency Control Mechanism that Exploits Semantic Knowledge
+SP 350
+OP 358
+
+RT Journal Article
+ID 714012
+A1 Garcia-molina,Hector
+A1 Kent,Jack
+YR 1985
+T1 Evaluating Response Time in a Faulty Distributed Computing System
+JF IEEE Transactions on Computers
+VO 34
+SP 101
+OP 109
+IS 2
+
+RT Journal Article
+ID 1275854
+A1 Davldson,S
+A1 Garcia-molina,H
+A1 Skeen,D
+YR 1985
+T1 Consmtency m pal tltloned networks
+JF ACM Computing Surveys
+
+RT Conference Proceedings
+ID 635025
+A1 Cullingford,Richard
+A1 Garcia-molina,Hector
+A1 Lipton,Richard,J.
+YR 1985
+T1 The Role Of Massive Memory In Knowledge-Base Management Systems
+SP 535
+OP 550
+
+RT Journal Article
+ID 778757
+A1 Alonso,Rafael
+A1 Barbará,Daniel
+A1 Cordon,Ricardo
+A1 Garcia-molina,Hector
+A1 Kent,Jack
+A1 Pittelli,Frank,M.
+YR 1985
+T1 Distributed Computing Research at Princeton
+JF IEEE Data(base) Engineering Bulletin
+VO 8
+SP 68
+OP 75
+IS 2
+
+RT Journal Article
+ID 713871
+A1 Garcia-molina,Hector
+A1 Lipton,Richard,J.
+A1 Valdes,Jacobo
+YR 1984
+T1 A Massive Memory Machine
+JF IEEE Transactions on Computers
+VO 33
+SP 391
+OP 399
+IS 5
+
+RT Journal Article
+ID 766278
+A1 Garcia-molina,Hector
+A1 Jr.,Frank,Germano
+A1 Kohler,Walter,H.
+YR 1984
+T1 Debugging a Distributed Computing System
+JF IEEE Transactions on Software Engineering
+VO 10
+SP 210
+OP 219
+IS 2
+
+RT Conference Proceedings
+ID 607149
+A1 Garcia-molina,Hector
+A1 Barbará,Daniel
+YR 1984
+T1 Optimizing the Reliability Provided by Voting Mechanisms
+SP 340
+OP 346
+
+RT Conference Proceedings
+ID 565293
+A1 Garcia-Molina,Hector
+A1 Pittelli,Frank,M.
+A1 Davidson,Susan,B.
+YR 1984
+T1 Is byzantine agreement useful in a distributed database?
+SP 61
+OP 69
+
+RT Conference Proceedings
+ID 574680
+A1 Barbará,Daniel
+A1 Garcia-molina,Hector
+YR 1984
+T1 The Vulnerability of Voting Mechanisms
+SP 45
+OP 53
+
+RT Journal Article
+ID 1330053
+A1 Garcia-molina,Hector
+A1 Germano,F
+A1 Kohler,W.
+YR 1984
+T1 Debugging a distributed computer system
+JF IEEE Transactions on Software Engineering
+
+RT Journal Article
+ID 1300131
+A1 Davidson,S.,B.
+A1 Garcia-molina,H.
+A1 Skeen,D.
+YR 1984
+T1 Consistency in the face of partition failures: a survey
+
+RT Journal Article
+ID 1303230
+A1 Garcia-molina,H.
+A1 Cullingford,R.
+A1 Honeyman,P.
+A1 Lipton,R.
+YR 1984
+T1 Mmm performance on certain database benchmarks
+
+RT Journal Article
+ID 803984
+A1 Garcia-molina,Hector
+YR 1983
+T1 Using Semantic Knowledge for Transaction Processing in Distributed Database
+JF ACM Transactions on Database Systems
+VO 8
+SP 186
+OP 213
+IS 2
+
+RT Conference Proceedings
+ID 574472
+A1 Garcia-molina,Hector
+A1 Allen,Tim
+A1 Blaustein,Barbara,T.
+A1 Chilenskas,R.,Mark
+A1 Ries,Daniel,R.
+YR 1983
+T1 Data-Pach: Integrating Inconsistent Copies of a Database After a Partition
+SP 38
+OP 44
+
+RT Journal Article
+ID 1933200
+A1 Garcia-molina,H.
+A1 Lipton,R.,J.
+A1 Honeyman,P.
+YR 1983
+T1 A massive memory database system
+
+RT Journal Article
+ID 1933260
+A1 Garcia-molina,H.
+A1 Lipton,R.,J.
+A1 Valdes,J.
+YR 1983
+T1 Analysis of the massive memory architectures
+
+RT Journal Article
+ID 716253
+A1 Garcia-molina,Hector
+YR 1982
+T1 Elections in a Distributed Computing System
+JF IEEE Transactions on Computers
+VO 31
+SP 48
+OP 59
+IS 1
+
+RT Journal Article
+ID 803729
+A1 Garcia-Molina,Hector
+A1 Wiederhold,Gio
+YR 1982
+T1 Read-only transactions in a distributed database
+JF ACM Transactions on Database Systems
+VO 7
+SP 209
+OP 234
+IS 2
+
+RT Journal Article
+ID 1332024
+A1 Garcia-molina,H.
+YR 1982
+T1 Reliability Issues for Fully Replicated Distributed Databases
+JF IEEE Computer
+VO 15
+SP 34
+OP 42
+IS 9
+
+RT Journal Article
+ID 2370021
+A1 Garcia-molina,Hector
+YR 1982
+T1 Elections in Distributed Computer Systems
+JF IEEE Transactions on Computers
+
+RT Conference Proceedings
+ID 1830172
+A1 Barbará,Daniel
+A1 Garcia-molina,Hector
+YR 1982
+T1 How Expensive is Data Replication? An Example
+SP 263
+OP 268
+
+RT Journal Article
+ID 3649559
+A1 Garcia-molina,H.
+A1 Wiederhold,G.
+YR 1982
+T1 Read-only Transactions in a Distributed Database System
+JF ACM Transactions on Database Systems
+
+RT Journal Article
+ID 848248
+A1 Garcia-molina,Hector
+YR 1982
+T1 Reliability Issues for Fully Replicated Databases
+JF IEEE Computer
+VO 15
+SP 34
+OP 42
+IS 9
+
+RT Journal Article
+ID 1380990
+A1 Garcia-molina,H.
+YR 1981
+T1 Using semantic knowledge for transaction processing in a distributed database
+JF ACM Transactions on Database Systems
+
+RT Journal Article
+ID 1372755
+A1 Garcia-molina,H.
+A1 Germano,F.
+A1 Kohler,W.,H.
+YR 1981
+T1 Debugging a distributed system
+
+RT Journal Article
+ID 1402321
+A1 Garcia-molina,H
+YR 1981
+T1 Performance of update algorithms for replicated data
+
+RT Conference Proceedings
+ID 653629
+A1 Garcia-molina,Hector
+YR 1979
+T1 A Concurrency Control Mechanism for Distributed Databases Which Users Centralized Locking Controllers
+SP 113
+
+RT Journal Article
+ID 1303775
+A1 Garcia-molina,H.
+YR 1979
+T1 Performance of update algorithme for replicated data in distributed databaee
+
+RT Conference Proceedings
+ID 653628
+A1 Garcia-molina,Hector
+YR 1978
+T1 Performance Comparison of Two Update Algorithms for Distributed Databases
+SP 108
+OP 119
+
+RT Book, Whole
+ID 329142
+A1 Shivakumar,Narayanan
+A1 Garcia-Molina,Hector
+T1 Finding Near-Replicas of Documents on the Web
+
+RT Conference Proceedings
+ID 6927839
+A1 Buyukkokten,Orkut
+A1 Molina,Hector,Garcia
+A1 Paepcke,Andreas
+A1 Winograd,Terry
+T1 Power Browser: Efficient Web Browsing for PDAs
+
+RT Journal Article
+ID 10379121
+A1 Ganesan,Prasanna
+A1 Yang,Beverly
+A1 Garcia-Molina,Hector
+T1 One Torus to Rule them All: Multidimensional Queries in P2P Systems
+
+RT Book, Whole
+ID 48502586
+A1 Barbara,Daniel
+A1 Garcia-Molina,Hector
+A1 Porter,Daryl
+T1 A probabilistic relational data model
+
+RT Book, Whole
+ID 380173
+A1 Yerneni,Ramana
+A1 Papakonstantinou,Yannis
+A1 Abiteboul,Serge
+A1 Garcia-Molina,Hector
+T1 Fusion queries over internet databases
+
+RT Journal Article
+ID 10509594
+A1 Yang,Beverly
+A1 Kamvar,Sepandar
+A1 Garcia-Molina,Hector
+T1 Addressing the NonCooperation Problem in Competitive P2P Systems
+
+RT Journal Article
+ID 5063632
+A1 Sun,Qixiang
+A1 Garcia-Molina,Hector
+T1 Using Ad-hoc Inter-vehicle Networks For Regional Alerts
+JF IEEE Transactions on Reliability
+
+RT Journal Article
+ID 317470
+A1 Garcia-molina,Hector
+A1 Labio,Wilburt,Juan
+T1 Expiring Data from the Warehouse
+
+RT Conference Proceedings
+ID 132067
+A1 Buyukkokten,Orkut
+A1 Garcia-Molina,Hector
+A1 Paepcke,Andreas
+T1 Text Summarization of Web pages on Handheld Devices
+
+RT Book, Whole
+ID 2357819
+A1 Naaman,Mor
+A1 Garcia-Molina,Hector
+A1 Paepcke,Andreas
+T1 Evaluation of ESI and Class-Based Delta Encoding
+
+RT Journal Article
+ID 6314401
+A1 Mungamuru,Bob
+A1 Garcia-Molina,Hector
+T1 Configurations: Understanding Alternatives For Safeguarding Data
+
+RT Journal Article
+ID 4144388
+A1 Gyongyi,Zoltan
+A1 Garcia-Molina,Hector
+A1 Pedersen,Jan
+T1 Web Content Categorization Using Link Information
+
+RT Journal Article
+ID 4679226
+A1 Paepcke,Andreas
+A1 Baldonado,Michelle
+A1 Chang,Chen-Chuan,K.
+A1 Cousins,Steve
+A1 Garcia-Molina,Hector
+T1 Building the InfoBus: A Review of Technical Choices in the Stanford Digital Library Project
+
+RT Journal Article
+ID 377048
+A1 Chang,Edward
+A1 Garcia-molina,Hector
+T1 Accounting for Memory Use, Cost, Throughput, and Latency in the Design of a Media Server
+
+RT Journal Article
+ID 5575723
+A1 Parameswaran,Aditya
+A1 Venetis,Petros
+A1 Garcia-Molina,Hector
+T1 Recommendation Systems with Complex Constraints: A CourseRank Perspective
+
+RT Journal Article
+ID 5560218
+A1 Kan,Masataka
+A1 Pande,Rahul
+A1 Vinograd,Patrick
+A1 Garcia-Molina,Hector
+T1 Event Dissemination in High-Mobility Ad-hoc Networks
+
+RT Journal Article
+ID 10618192
+A1 Kawai,Hideki
+A1 Garcia-Molina,Hector
+A1 Benjelloun,Omar
+A1 Menestrina,David
+A1 Whang,Euijong
+A1 Gong,Heng
+T1 P-Swoosh: Parallel Algorithm for Generic Entity Resolution
+
+RT Journal Article
+ID 379562
+A1 Zhuge,Yue
+A1 Garcia-molina,Hector
+T1 Performance Analysis of WHIPS Incremental Maintenance
+
+RT Journal Article
+ID 6507239
+A1 Heymann,Paul
+A1 Garcia-Molina,Hector
+T1 Can Tagging Organize Human Knowledge?
+
+RT Journal Article
+ID 223903
+A1 Yerneni,Ramana
+A1 Garcia-molina,Hector
+T1 Design of Efficient Query Interfaces for Web Sources
+
+RT Journal Article
+ID 12814153
+A1 Abiteboul,S.
+A1 Agrawal,R.
+A1 Bernstein,P.,A.
+A1 Carey,M.,J.
+A1 Ceri,S.
+A1 Croft,W.,B.
+A1 DeWitt,D.,J.
+A1 Franklin,M.,J.
+A1 Garcia-Molina,H.
+A1 Gawlick,D.
+A1 Gray,J.
+A1 Haas,L.,M.
+A1 Halevy,A.,Y.
+A1 Hellerstein,J.,M.
+A1 Ioannidis,Y.,E.
+A1 Kersten,M.,L.
+A1 Pazzani,M.,J.
+A1 Lesk,M.
+A1 Maier,D.
+A1 Naughton,J.,F.
+A1 Schek,H.-J.
+A1 Sellis,T.,K.
+A1 Silberschatz,A.
+A1 Stonebraker,M.
+A1 Snodgrass,R.,T.
+A1 Ullman,J.,D.
+T1 BRICKS Progress Report 2005 Appendix A: Scientific Publications 2005
+
+RT Journal Article
+ID 10509759
+A1 Ganesan,Prasanna
+A1 Sun,Qixiang
+A1 Garcia-Molina,Hector
+T1 A Case for Locally-Organized Peer-to-Peer Lookup Services
+
+RT Journal Article
+ID 2339211
+A1 Cooper,Brian,F.
+A1 Crespo,Arturo
+A1 Garcia-Molina,Hector
+T1 The Stanford Archival Repository Project: Preserving our digital past
+
+RT Journal Article
+ID 5742028
+A1 Whang,Steven,Euijong
+A1 Benjelloun,Omar
+A1 Garcia-Molina,Hector
+T1 Additional Experiments on Negative Rules
+
+RT Journal Article
+ID 6717019
+A1 Marti,Sergio
+A1 Garcia-Molina,Hector
+T1 Modeling Reputation and Incentives in Online Trade
+
+RT Journal Article
+ID 13232211
+A1 Garcia-Molina,Hector
+A1 Ullman,Jeffrey,D.
+A1 Widom,Jennifer
+T1 Studienausrichtung IMA Informationsmanagement
+
+RT Journal Article
+ID 7039153
+A1 Buyukkokten,Orkut
+A1 Garcia-Molina,Hector
+A1 Paepcke,Andreas
+A1 Winograd,Terry
+T1 Power Email: Efficient Email Entry on Pen-Based Handheld Devices
+
+RT Journal Article
+ID 4970640
+A1 Paepcke,Andreas
+A1 Chang,Chen-Chuan,K.
+A1 Garcia-Molina,Hector
+A1 Winograd,Terry
+T1 Interoperability for Digital Libraries: Problems and Directions
+
+RT Journal Article
+ID 10483532
+A1 U,ALVAREZ
+A1 CASELLI,GINO
+A1 VILLAGRÁN,RODRIGO
+A1 SOLÍS,FELIPE
+A1 MOLINA,HÉCTOR
+A1 FUNKE,RICARDO
+A1 GARCÍA,CÉSAR
+A1 DURÁN,RICARDO
+A1 CIENTÍFICOS,TRABAJOS
+T1 Radioquimioterapia neoadyuvante en cáncer gástrico T4 localmente irresecable. Resultados preliminares* Chemoradiotherapy in patients with non resectable gastric cancer. Report of 10 patients
+
+RT Journal Article
+ID 6389128
+A1 Parameswaran,Aditya
+A1 Garcia-Molina,Hector
+A1 Rajaraman,Anand
+T1 Statistical Concept Mining from Popular Corpora
+
+RT Journal Article
+ID 11092460
+A1 Kawai,Hideki
+A1 Garcia-Molina,Hector
+A1 Benjelloun,Omar
+A1 Larson,Tait,E.
+A1 Menestrina,David
+A1 Thavisomboon,Suttipong
+T1 Bufoosh: Buffering Algorithms for Generic Entity Resolution
+
+RT Journal Article
+ID 13051944
+A1 ABBOTT,ROBERT,K.
+A1 GARCIA-MOLINA,HECTOR
+T1 Performance Evaluation
+
+RT Journal Article
+ID 11444828
+A1 Naaman,Mor
+A1 Song,Yee,Jiun
+A1 Paepcke,Andreas
+A1 Garcia-Molina,Hector
+T1 Assigning Textual Names to Sets of Geographic Coordinates (Extended Abstract)
+
+RT Journal Article
+ID 12577817
+A1 Widom,Jennifer
+A1 Garcia-Molina,Hector
+T1 I certify that I have read this dissertation and that, in my opinion, it is fully adequate in scope and quality as a dissertation for the degree of Doctor of Philosophy
+
+RT Journal Article
+ID 6876386
+A1 Marti,Sergio
+A1 Garcia-Molina,Hector
+T1 Economic Design of Reputation Systems
+
+RT Journal Article
+ID 61414556
+A1 Ganesan,Prasanna
+A1 Sun,Qixiang
+A1 Garcia-Molina,Hector
+T1 Adlib: A Self-Tuning Index for Dynamic Peer-to-Peer Systems
+
+RT Journal Article
+ID 7008678
+A1 Mungamuru,Bob
+A1 Garcia-Molina,Hector
+A1 Olston,Christopher
+T1 Brief Announcement: Configurations - A Model For Distributed Data Storage
+
+RT Journal Article
+ID 48004886
+A1 Li,Jian-Qiang
+A1 Zhao,Yu
+A1 Garcia-Molina,Hector
+T1 A path-based approach for web page retrieval
+JF World Wide Web
+SP 1
+OP 27
+
+RT Journal Article
+ID 5557513
+A1 Mungamuru,Bob
+A1 Padilla,Michael
+A1 Garcia-Molina,Hector
+T1 Collusion and Data Privacy
+
+RT Book, Whole
+ID 182449
+A1 Chang,Edward
+A1 Li,Chen
+A1 Garcia-Molina,Hector
+T1 Managing Parallel Disks for Continuous Media Data
+
+RT Book, Whole
+ID 48691857
+A1 Huang,Yongqiang
+A1 Garcia-Molina,Hector
+T1 Assignment-Based Partitioning in a Condition Monitoring System
+
+RT Journal Article
+ID 5844276
+A1 Mungamuru,Bob
+A1 Garcia-Molina,Hector
+T1 Securing Our Data Storage Infrastructures
+
+RT Journal Article
+ID 5959309
+A1 Lam,Wang
+A1 Garcia-Molina,Hector
+T1 Implementing Multicast Data Distribution
+
+RT Journal Article
+ID 5180950
+A1 Cooper,Brian,F.
+A1 Garcia-Molina,Hector
+T1 Modeling and measuring scalable peer-to-peer search networks Extended version
+
+RT Journal Article
+ID 5575664
+A1 Cooper,Brian,F.
+A1 Garcia-Molina,Hector
+T1 Ad hoc, self-supervising peer-to-peer search networks (Extended version)
+
+RT Journal Article
+ID 13382036
+A1 Cooper,Brian
+A1 Garcia-Molina,Hector
+T1 Peer to peer data trading to preserve information Extended version
+
+RT Journal Article
+ID 12166256
+A1 Antonellis,Ioannis
+A1 Garcia-Molina,Hector
+T1 Mining Web Activity Logs
+
+RT Journal Article
+ID 4690658
+A1 Garcia-Molina,Hector
+T1 An Archival Digital Libraries Repository

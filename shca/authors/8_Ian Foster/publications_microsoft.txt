@@ -1,0 +1,9432 @@
+RT Journal Article
+ID 56909261
+A1 Allen,Bryce
+A1 Bresnahan,John
+A1 Childers,Lisa
+A1 Foster,Ian
+A1 Kandaswamy,Gopi
+A1 Kettimuthu,Raj
+A1 Kordas,Jack
+A1 Link,Mike
+A1 Martin,Stuart
+A1 Pickett,Karl
+A1 Tuecke,Steven
+YR 2012
+T1 Software as a service for data scientists
+JF Communications of The ACM
+SP 81
+OP 88
+
+RT Journal Article
+ID 58574769
+A1 Foster,Ian
+A1 Tuecke,Steve
+A1 Hauser,Thomas
+A1 Kettimuthu,Rajkumar
+A1 Milroy,Daniel
+A1 Martin,Stuart
+A1 Palen,Brock
+A1 Braden,Jazcek
+YR 2012
+T1 Campus bridging made easy via Globus services
+SP 1
+OP 8
+
+RT Journal Article
+ID 58574766
+A1 Stewart,Craig,A.
+A1 Bachmann,Felix
+A1 Hazlewood,Victor
+A1 Knepper,Richard
+A1 Foster,Ian
+A1 Ferguson,James
+A1 Grimshaw,Andrew
+A1 Lifka,David
+YR 2012
+T1 What is campus bridging and what is XSEDE doing about it?
+SP 1
+OP 8
+
+RT Journal Article
+ID 48847961
+A1 Elliott,Joshua
+A1 Franklin,Meredith
+A1 Foster,Ian
+A1 Munson,Todd
+A1 Loudermilk,Margaret
+YR 2012
+T1 Propagation of Data Error and Parametric Sensitivity in Computable General Equilibrium Models
+JF Computational Economics
+VO 39
+SP 1
+OP 23
+IS 3
+
+RT Journal Article
+ID 56914637
+A1 Maheshwari,Ketan
+A1 Espinosa,Allan
+A1 Katz,Daniel,S.
+A1 Wilde,Michael
+A1 Zhang,Zhao
+A1 Foster,Ian
+A1 Callaghan,Scott
+A1 Maechling,Phillip
+YR 2012
+T1 Job and data clustering for aggregate use of multiple production cyberinfrastructures
+SP 3
+OP 12
+
+RT Journal Article
+ID 58574785
+A1 Foster,Ian
+A1 Vasiliadis,Vas
+YR 2012
+T1 SaaS for science: the path to reality for research in the cloud
+SP 1
+OP 1
+
+RT Journal Article
+ID 61412979
+A1 Zhang,Zhao
+A1 Katz,Daniel,S.
+A1 Wozniak,Justin,M.
+A1 Espinosa,Allan
+A1 Foster,Ian
+YR 2012
+T1 Design and analysis of data management in scalable parallel scripting
+
+RT Journal Article
+ID 51182019
+A1 Iamnitchi,Adriana
+A1 Ripeanu,Matei
+A1 Santos-Neto,Elizeu
+A1 Foster,Ian
+YR 2011
+T1 The Small World of File Sharing
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 22
+SP 1120
+OP 1134
+IS 7
+
+RT Journal Article
+ID 49214236
+A1 Wilde,Michael
+A1 Hategan,Mihael
+A1 Wozniak,Justin,M.
+A1 Clifford,Ben
+A1 Katz,Daniel,S.
+A1 Foster,Ian
+YR 2011
+T1 Swift: A language for distributed parallel scripting
+JF Parallel Computing
+VO 37
+SP 633
+OP 652
+IS 9
+
+RT Conference Proceedings
+ID 51123105
+A1 Zhang,Jia
+A1 Madduri,Ravi
+A1 Tan,Wei
+A1 Deichl,Kevin
+A1 Alexander,John
+A1 Foster,Ian
+YR 2011
+T1 Toward Semantics Empowered Biomedical Web Services
+
+RT Journal Article
+ID 51180189
+A1 Foster,Ian
+YR 2011
+T1 Globus Online: Accelerating and Democratizing Science through Cloud-Based Services
+JF IEEE Internet Computing
+VO 15
+SP 70
+OP 73
+IS 3
+
+RT Journal Article
+ID 59329864
+A1 Helmer,Karl,G
+A1 Ambite,Jose,Luis
+A1 Ames,Joseph
+A1 Ananthakrishnan,Rachana
+A1 Burns,Gully
+A1 Chervenak,Ann,L
+A1 Foster,Ian
+A1 Liming,Lee
+A1 Keator,David
+A1 Macciardi,Fabio
+A1 Madduri,Ravi
+A1 Navarro,John-Paul
+A1 Potkin,Steven
+A1 Rosen,Bruce
+A1 Ruffins,Seth
+A1 Schuler,Robert
+A1 Turner,Jessica,A
+A1 Toga,Arthur
+A1 Williams,Christina
+A1 Kesselman,Carl
+YR 2011
+T1 Enabling collaborative research using the Biomedical Informatics Research Network (BIRN)
+JF Journal of The American Medical Informatics Association
+VO 18
+SP 416
+OP 422
+IS 4
+
+RT Journal Article
+ID 56901875
+A1 Malik,Tanu
+A1 Best,Neil
+A1 Elliott,Joshua
+A1 Madduri,Ravi
+A1 Foster,Ian
+YR 2011
+T1 Improving the efficiency of subset queries on raster images
+SP 34
+OP 37
+
+RT Conference Proceedings
+ID 51123067
+A1 Tan,Wei
+A1 Zhang,Jia
+A1 Madduri,Ravi
+A1 Foster,Ian
+A1 Roure,David,De
+A1 Goble,Carole
+YR 2011
+T1 ServiceMap: Providing Map and GPS Assistance to Service Composition in Bioinformatics
+
+RT Journal Article
+ID 14541211
+A1 Jr.,Luiz,M.,R.,Gadelha
+A1 Clifford,Ben
+A1 Mattoso,Marta
+A1 Wilde,Michael
+A1 Foster,Ian,T.
+YR 2011
+T1 Provenance management in Swift
+JF Future Generation Computer Systems
+VO 27
+SP 775
+OP 780
+IS 6
+
+RT Journal Article
+ID 51207947
+A1 Zhang,Zhao
+A1 Katz,Daniel,S.
+A1 Ripeanu,Matei
+A1 Wilde,Michael
+A1 Foster,Ian,T.
+YR 2011
+T1 AME: an anyscale many-task computing engine
+SP 137
+OP 146
+
+RT Conference Proceedings
+ID 51122995
+A1 Zhang,Jia
+A1 Tan,Wei
+A1 Alexander,John
+A1 Foster,Ian,T.
+A1 Madduri,Ravi,K.
+YR 2011
+T1 Recommend-As-You-Go: A Novel Approach Supporting Services-Oriented Scientific Workflow Reuse
+
+RT Conference Proceedings
+ID 51123064
+A1 Tan,Wei
+A1 Zhang,Jia
+A1 Madduri,Ravi
+A1 Foster,Ian
+A1 Roure,David,De
+YR 2011
+T1 Providing Map and GPS Assistance to Service Composition in Bioinformatics
+
+RT Journal Article
+ID 56908990
+A1 Espinosa,Allan
+A1 Katz,Daniel,S.
+A1 Wilde,Michael
+A1 Maheshwari,Ketan
+A1 Foster,Ian
+A1 Callaghan,Scott
+A1 Maechling,Phillip
+YR 2011
+T1 Data-intensive CyberShake computations on an opportunistic cyberinfrastructure
+SP 1
+OP 2
+
+RT Journal Article
+ID 56910374
+A1 Junior,Luiz,Manoel,Rocha,Gadelha
+A1 Wilde,Michael
+A1 Mattoso,Marta
+A1 Foster,Ian
+YR 2011
+T1 Exploring provenance in high performance scientific computing
+SP 17
+OP 20
+
+RT Journal Article
+ID 56903952
+A1 Balkir,Atilla,Soner
+A1 Foster,Ian
+A1 Rzhetsky,Andrey
+YR 2011
+T1 A distributed look-up architecture for text mining applications using MapReduce
+SP 1
+OP 11
+
+RT Journal Article
+ID 56906941
+A1 Balkir,Atilla,Soner
+A1 Foster,Ian
+A1 Rzhetsky,Andrey
+YR 2011
+T1 A distributed look-up architecture for text mining applications using mapreduce
+SP 279
+OP 280
+
+RT Journal Article
+ID 51207929
+A1 Espinosa,Allan
+A1 Katz,Daniel,S.
+A1 Wilde,Michael
+A1 Maheshwari,Ketan
+A1 Foster,Ian
+A1 Callaghan,Scott
+YR 2011
+T1 Data-intensive CyberShake Computations on an Opportunistic Cyberinfrastructure [ Extended Abstract ]
+
+RT Journal Article
+ID 56908996
+A1 Kettimuthu,Rajkumar
+A1 Link,Steven
+A1 Bresnahan,John
+A1 Link,Michael
+A1 Foster,Ian
+YR 2011
+T1 Globus XIO pipe open driver: enabling GridFTP to leverage standard Unix tools
+SP 1
+OP 7
+
+RT Journal Article
+ID 60681827
+A1 Gadelha,L.,M.,R
+A1 Clifford,B.
+A1 Mattoso,M.
+A1 Wilde,M.
+A1 Foster,I.
+YR 2011
+T1 Provenance management in Swift with implementation details
+
+RT Journal Article
+ID 39319048
+A1 Foster,Ian,T.
+A1 Kacsuk,Péter
+YR 2011
+T1 Editors' Message
+JF Journal of Grid Computing
+VO 9
+SP 1
+OP 2
+IS 1
+
+RT Journal Article
+ID 51120337
+A1 Bresnahan,John
+A1 Link,Michael
+A1 Kettimuthu,Rajkumar
+A1 Foster,Ian
+YR 2011
+T1 Managed GridFTP
+SP 907
+OP 913
+
+RT Journal Article
+ID 57390468
+A1 Raicu,Ioan
+A1 Beckman,Pete
+A1 Foster,Ian,T.
+A1 Simmhan,Yogesh
+YR 2011
+T1 Proceedings of the 2nd International Workshop on Scientific CloudComputing (ScienceCloud)
+
+RT Journal Article
+ID 39363946
+A1 Jr.,Luiz,M.,R.,Gadelha
+A1 Mattoso,Marta
+A1 Wilde,Michael
+A1 Foster,Ian,T.
+YR 2011
+T1 Provenance Query Patterns for Many-Task Scientific Computations
+
+RT Conference Proceedings
+ID 56950794
+A1 Veeravalli,Bharadwaj
+A1 Foster,Ian
+YR 2011
+T1 Message from the chairpersons
+SP 2
+OP 2
+
+RT Journal Article
+ID 56911984
+A1 Raicu,Ioan
+A1 Foster,Ian,T.
+A1 Beckman,Pete
+YR 2011
+T1 Making a case for distributed file systems at Exascale
+SP 11
+OP 18
+
+RT Journal Article
+ID 51180284
+A1 Raicu,Ioan
+A1 Foster,Ian,T.
+A1 Zhao,Yong
+YR 2011
+T1 Guest Editors' Introduction: Special Section on Many-Task Computing
+VO 22
+SP 897
+OP 898
+IS 6
+
+RT Journal Article
+ID 13997784
+A1 Tan,Wei
+A1 Zhang,Jia
+A1 Foster,Ian,T.
+YR 2010
+T1 Network Analysis of Scientific Workflows: A Gateway to Reuse
+JF IEEE Computer
+VO 43
+SP 54
+OP 61
+IS 9
+
+RT Journal Article
+ID 39201683
+A1 Tan,Wei
+A1 Madduri,Ravi,K.
+A1 Nenadic,Aleksandra
+A1 Soiland-Reyes,Stian
+A1 Sulakhe,Dinanath
+A1 Foster,Ian,T.
+A1 Goble,Carole,A.
+YR 2010
+T1 CaGrid Workflow Toolkit: A taverna based workflow tool for cancer grid
+JF BMC Bioinformatics
+VO 11
+SP 542
+OP 12
+IS 1
+
+RT Journal Article
+ID 13389989
+A1 Elliott,Joshua
+A1 Foster,Ian
+A1 Kortum,Samuel
+A1 Munson,Todd
+A1 Cervantes,Fernando,Pérez
+A1 Weisbach,David
+YR 2010
+T1 Trade and Carbon Taxes
+
+RT Conference Proceedings
+ID 13988707
+A1 Kettimuthu,Rajkumar
+A1 Sim,Alex
+A1 Gunter,Dan
+A1 Allcock,Bill
+A1 Bremer,Peer-Timo
+A1 Bresnahan,John
+A1 Cherry,Andrew
+A1 Childers,Lisa
+A1 Dart,Eli
+A1 Foster,Ian,T.
+A1 Harms,Kevin
+A1 Hick,Jason
+A1 Lee,Jason
+A1 Link,Michael
+A1 Long,Jeff
+A1 Miller,Keith
+A1 Natarajan,Vijaya
+A1 Pascucci,Valerio
+A1 Raffenetti,Ken
+A1 Ressman,David
+A1 Williams,Dean
+A1 Wilson,Loren
+A1 Winkler,Linda
+YR 2010
+T1 Lessons learned from moving earth system grid data sets over a 20 Gbps wide-area network
+SP 316
+OP 319
+
+RT Journal Article
+ID 15237286
+A1 Raicu,Ioan
+A1 Foster,Ian,T.
+A1 Wilde,Mike
+A1 Zhang,Zhao
+A1 Iskra,Kamil
+A1 Beckman,Peter,H.
+A1 Zhao,Yong
+A1 Szalay,Alex
+A1 Choudhary,Alok,N.
+A1 Little,Philip
+YR 2010
+T1 Middleware support for many-task computing
+VO 13
+SP 291
+OP 314
+IS 3
+
+RT Journal Article
+ID 14085745
+A1 Tan,Wei
+A1 Missier,Paolo
+A1 Foster,Ian,T.
+A1 Madduri,Ravi,K.
+A1 Roure,David,De
+A1 Goble,Carole,A.
+YR 2010
+T1 A comparison of using Taverna and BPEL in building scientific workflows: the case of caGrid
+JF Concurrency and Computation: Practice and Experience
+VO 22
+SP 1098
+OP 1117
+IS 9
+
+RT Book, Whole
+ID 47802396
+A1 Liu,Wantao
+A1 Kettimuthu,Rajkumar
+A1 Tieman,Brian
+A1 Madduri,Ravi
+A1 Li,Bo
+A1 Foster,Ian
+YR 2010
+T1 GridFTP GUI: An Easy and Efficient Way to Transfer Data in Grid
+
+RT Conference Proceedings
+ID 51016002
+A1 Kettimuthu,Rajkumar
+A1 Schuler,Robert
+A1 Keator,David
+A1 Feller,Martin
+A1 Wei,Dingying
+A1 Link,Michael
+A1 Bresnahan,J.
+A1 Liming,L.
+A1 Ames,J.
+A1 Chervenak,A.
+A1 Foster,I.
+A1 Kesselman,C.
+YR 2010
+T1 A Data Management Framework for Distributed Biomedical Research Environments
+
+RT Journal Article
+ID 14085744
+A1 Balaji,Pavan
+A1 Feng,Wu-chun
+A1 Lin,Heshan
+A1 Archuleta,Jeremy,S.
+A1 Foster,I.
+A1 Katz,D.,S.
+A1 Jha,S.
+YR 2010
+T1 Global-scale distributed I / O with ParaMEDIC
+JF Concurrency and Computation: Practice and Experience
+VO 22
+SP 2266
+OP 2281
+IS 16
+
+RT Journal Article
+ID 60625491
+A1 Williams,D,N
+A1 Foster,I,T
+A1 Middleton,D,E
+A1 Ananthakrishnan,R
+A1 Siebenlist,F
+A1 Shoshani,A
+A1 Sim,A
+A1 Bell,G
+A1 Drach,R
+A1 Ahrens,J
+A1 Jones,P
+A1 Brown,D
+A1 Chastang,J
+A1 Cinquini,L
+A1 Fox,P
+A1 Harper,D
+A1 Hook,N
+A1 Nienhouse,E
+A1 Strand,G
+A1 Wilcox,H
+A1 Wilhelmi,N
+A1 Zednik,S
+A1 Hankin,S
+A1 Schweitzer,R
+A1 Bernholdt,D
+A1 Chen,M
+A1 Miller,R
+A1 Shipman,G
+A1 Wang,F
+A1 Bharathi,S
+A1 Chervenak,A
+A1 Schuler,R
+A1 Su,M
+YR 2010
+T1 SciDAC's Earth System Grid Center for Enabling Technologies Semi-Annual Progress Report for the Period October 1, 2009 through March 31, 2010
+
+RT Journal Article
+ID 58789512
+A1 Kang,Bok-II
+A1 Murugappan,Basker
+A1 Kwon,OK
+A1 Sinn,Gil,Joon
+A1 Foster,Ian
+A1 Robinson,Larry
+A1 Elliott,Jay
+A1 Hampson,Richard
+A1 McKinnon,Bryan
+YR 2010
+T1 Fishing Coiled Tubing From a Live Gas Condensate Well With Coiled Tubing While Under Production
+
+RT Journal Article
+ID 54038627
+A1 Foster,I.
+A1 Elliott,J.
+A1 Munson,T.
+A1 Judd,K.
+A1 Moyer,E.,J.
+A1 Sanstad,A.,H.
+A1 Inst,Hoover
+YR 2010
+T1 CIM-EARTH: Community Integrated Model of Economic and Resource Trajectories for Humankind
+
+RT Journal Article
+ID 58068064
+A1 Elliott,Joshua
+A1 Foster,Ian
+A1 Judd,Kenneth
+A1 Moyer,Elisabeth
+A1 Munson,Todd
+YR 2010
+T1 CIM-EARTH: Framework and Case Study
+JF B E Journal of Economic Analysis & Policy
+VO 10
+SP 11
+IS 2
+
+RT Conference Proceedings
+ID 13988185
+A1 Turcu,Gabriela
+A1 Foster,Ian,T.
+A1 Nestorov,Svetlozar
+YR 2010
+T1 Reshaping text data for efficient processing on Amazon EC2
+SP 435
+OP 444
+
+RT Conference Proceedings
+ID 51016012
+A1 Malik,Tanu
+A1 Foster,I.
+A1 Rzhetsky,A.
+A1 Foster,J.
+A1 Evans,J.
+YR 2010
+T1 NONUS: A No-Onus Platform for Generating Grant Reports
+
+RT Conference Proceedings
+ID 13988152
+A1 Liu,Wantao
+A1 Tieman,Brian
+A1 Kettimuthu,Rajkumar
+A1 Foster,Ian,T.
+YR 2010
+T1 A data transfer framework for large-scale science experiments
+SP 717
+OP 724
+
+RT Journal Article
+ID 56047265
+A1 Foster,Ian,S.
+A1 King,Penelope,L.
+A1 Hyde,Brendt,C.
+A1 Southam,Gordon
+YR 2010
+T1 Characterization of halophiles in natural MgSO4 salts and laboratory enrichment samples: Astrobiological implications for Mars
+JF Planetary and Space Science
+VO 58
+SP 599
+OP 615
+
+RT Conference Proceedings
+ID 51011892
+A1 Armstrong,Timothy,G.
+A1 Zhang,Zhao
+A1 Katz,Daniel,S.
+A1 Wilde,Michael
+A1 Foster,Ian,T.
+YR 2010
+T1 Scheduling Many-Task Workloads on Supercomputers: Dealing with Trailing Tasks
+
+RT Book, Whole
+ID 39281474
+A1 Jr.,Luiz,M.,R.,Gadelha
+A1 Mattoso,Marta
+A1 Wilde,Michael
+A1 Foster,Ian,T.
+YR 2010
+T1 Towards a Threat Model for Provenance in e-Science
+SP 277
+OP 279
+
+RT Conference Proceedings
+ID 50888508
+A1 Liu,Wantao
+A1 Kettimuthu,Rajkumar
+A1 Li,Bo
+A1 Foster,Ian
+YR 2010
+T1 An adaptive strategy for scheduling data-intensive applications in Grid environments
+
+RT Journal Article
+ID 54126353
+A1 Elliott,J.
+A1 Best,N.
+A1 Munson,T.
+A1 Foster,I.,T.
+YR 2010
+T1 Integrating the Socioeconomic and Physical Drivers of Land-use Change at Climate-relevant Scales: an Example with Biofuels
+
+RT Book, Whole
+ID 47688405
+A1 Montella,Raffaele
+A1 Foster,Ian
+YR 2010
+T1 Using Hybrid Grid/Cloud Computing Technologies for Environmental Data Elastic Storage, Processing, and Provisioning
+
+RT Journal Article
+ID 55384560
+A1 Foster,Ian,T.
+YR 2010
+T1 Computing Outside the Box: On Demand Computing & its Impact on Scientific Discovery
+
+RT Journal Article
+ID 6078602
+A1 Sotomayor,Borja
+A1 Montero,Rubén,S.
+A1 Llorente,Ignacio,Martín
+A1 Foster,Ian,T.
+YR 2009
+T1 Virtual Infrastructure Management in Private and Hybrid Clouds
+JF IEEE Internet Computing
+VO 13
+SP 14
+OP 22
+IS 5
+
+RT Conference Proceedings
+ID 5187741
+A1 Sotomayor,Borja
+A1 Montero,Rubén,S.
+A1 Llorente,Ignacio,Martín
+A1 Foster,Ian,T.
+YR 2009
+T1 Resource Leasing and the Art of Suspending Virtual Machines
+SP 59
+OP 68
+
+RT Journal Article
+ID 6068731
+A1 Wilde,Michael
+A1 Foster,Ian,T.
+A1 Iskra,Kamil
+A1 Beckman,Peter,H.
+A1 Zhang,Zhao
+A1 Espinosa,Allan
+A1 Hategan,Mihael
+A1 Clifford,Ben
+A1 Raicu,Ioan
+YR 2009
+T1 Parallel scripting for applications at the petascale and beyond
+VO 42
+SP 50
+OP 60
+IS 11
+
+RT Journal Article
+ID 6085807
+A1 Chervenak,Ann,L.
+A1 Schuler,Robert
+A1 Ripeanu,Matei
+A1 Amer,Muhammad,Ali
+A1 Bharathi,Shishir
+A1 Foster,Ian,T.
+A1 Iamnitchi,Adriana
+A1 Kesselman,Carl
+YR 2009
+T1 The Globus Replica Location Service: Design and Experience
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 20
+SP 1260
+OP 1272
+IS 9
+
+RT Journal Article
+ID 6380531
+A1 Williams,D.,N.
+A1 Ananthakrishnan,R.
+A1 Bernholdt,D.,E.
+A1 Bharathi,S.
+A1 Brown,D.
+A1 Chen,M.
+A1 Chervenak,A.,L.
+A1 Cinquini,L.
+A1 Drach,R.
+A1 Foster,I.,T.
+A1 Fox,P.
+A1 Fraser,D.
+A1 Garcia,J.
+A1 Hankin,S.
+A1 Jones,P.
+A1 Middleton,D.,E.
+A1 Schwidder,J.
+A1 Schweitzer,R.
+A1 Schuler,R.
+A1 Shoshani,A.
+A1 Siebenlist,F.
+A1 Sim,A.
+A1 Strand,W.,G.
+A1 Su,M.
+A1 Wilhelmi,N.
+YR 2009
+T1 The Earth System Grid: Enabling Access to Multimodel Climate Simulation Data
+JF Bulletin of The American Meteorological Society
+VO 90
+SP 195
+IS 2
+
+RT Journal Article
+ID 4757114
+A1 Zhang,Zhao
+A1 Espinosa,Allan
+A1 Iskra,Kamil
+A1 Raicu,Ioan
+A1 Foster,Ian,T.
+A1 Wilde,Michael
+YR 2009
+T1 Design and Evaluation of a Collective IO Model for Loosely Coupled Petascale Programming
+JF Computing Research Repository
+VO abs/0901.0
+
+RT Journal Article
+ID 6074776
+A1 Lang,Bo
+A1 Foster,Ian,T.
+A1 Siebenlist,Frank
+A1 Ananthakrishnan,Rachana
+A1 Freeman,Timothy
+YR 2009
+T1 A Flexible Attribute Based Access Control Method for Grid Computing
+JF Journal of Grid Computing
+VO 7
+SP 169
+OP 180
+IS 2
+
+RT Journal Article
+ID 4711448
+A1 Raicu,Ioan
+A1 Foster,Ian,T.
+A1 Zhao,Yong
+A1 Little,Philip
+A1 Moretti,Christopher,M.
+A1 Chaudhary,Amitabh
+A1 Thain,Douglas
+YR 2009
+T1 The quest for scalable support of data-intensive workloads in distributed systems
+SP 207
+OP 216
+
+RT Conference Proceedings
+ID 6042256
+A1 Chard,Kyle
+A1 Tan,Wei
+A1 Boverhof,Joshua
+A1 Madduri,Ravi,K.
+A1 Foster,Ian,T.
+YR 2009
+T1 Wrap Scientific Applications as WSRF Grid Services Using gRAVI
+SP 83
+OP 90
+
+RT Journal Article
+ID 6393979
+A1 Boardman,John
+A1 Shepheard,Mark,L.
+A1 Walker,Edward
+A1 Foster,Ian,D.,L.
+YR 2009
+T1 Soil erosion and risk-assessment for on- and off-farm impacts: A test case using the Midhurst area, West Sussex, UK
+JF Journal of Environmental Management
+VO 90
+SP 2578
+OP 2588
+IS 8
+
+RT Journal Article
+ID 39836105
+A1 Pittam,Nathan,J.
+A1 Foster,Ian,D.,L.
+A1 Mighall,Tim,M.
+YR 2009
+T1 An integrated lake-catchment approach for determining sediment source changes at Aqualate Mere, Central England
+JF Journal of Paleolimnology
+VO 42
+SP 215
+OP 232
+IS 2
+
+RT Journal Article
+ID 5429186
+A1 Wilde,Michael
+A1 Raicu,Ioan
+A1 Espinosa,Allan
+A1 Zhang,Zhao
+A1 Clifford,Ben
+A1 Hategan,Mihael
+A1 Kenny,Sarah
+A1 Iskra,Kamil
+A1 Beckman,Pete
+A1 Foster,Ian
+YR 2009
+T1 Extreme-scale scripting: Opportunities for large task-parallel applications on petascale computers
+VO 180
+SP 2046
+IS 1
+
+RT Conference Proceedings
+ID 50831521
+A1 Hou,Zhengxiong
+A1 Tie,Jing
+A1 Zhou,Xingshe
+A1 Foster,Ian
+A1 Wilde,Mike
+YR 2009
+T1 ADEM: Automating deployment and management of application software on the Open Science Grid
+
+RT Conference Proceedings
+ID 6042308
+A1 Tan,Wei
+A1 Chard,Kyle
+A1 Sulakhe,Dinanath
+A1 Madduri,Ravi,K.
+A1 Foster,Ian,T.
+A1 Soiland-reyes,Stian
+A1 Goble,Carole,A.
+YR 2009
+T1 Scientific Workflows as Services in caGrid: A Taverna and gRAVI Approach
+SP 413
+OP 420
+
+RT Conference Proceedings
+ID 6049516
+A1 Siebenlist,Frank
+A1 Ananthakrishnan,Rachana
+A1 Bernholdt,David,E.
+A1 Cinquini,Luca
+A1 Foster,Ian,T.
+A1 Middleton,Don
+A1 Miller,Neill
+A1 Williams,D.,N.
+YR 2009
+T1 Enhancing the earth system grid security infrastructure through single sign-on and autoprovisioning
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 5783526
+A1 Liming,Lee
+A1 Navarro,John-paul
+A1 Blau,Eric
+A1 Brechin,Jason
+A1 Catlett,Charlie
+A1 Dahan,Maytal
+A1 Diehl,Diana
+A1 Dooley,Rion
+A1 Dwyer,Michael
+A1 Ericson,Kate
+A1 Foster,Ian,T.
+A1 Hanna,Ed
+A1 Hart,David,L.
+A1 Jordan,Chris
+A1 Light,Rob
+A1 Martin,Stuart
+A1 Mcgee,John
+A1 Pearlman,Laura
+A1 Reilly,Jason
+A1 Scavo,Tom
+A1 Shapiro,Michael
+A1 Smallen,Shava
+A1 Smith,Warren
+A1 Wilkins-diehr,Nancy
+YR 2009
+T1 TeraGrid's integrated information service
+SP 1
+OP 10
+
+RT Conference Proceedings
+ID 4699200
+A1 Foster,Ian,T.
+YR 2009
+T1 Computing Outside the Box
+SP 3
+OP 3
+
+RT Journal Article
+ID 44454438
+A1 Kala,Jatin
+A1 Lyons,Tom,J.
+A1 Foster,Ian,J.
+A1 Nair,Udaysankar,S.
+YR 2009
+T1 Validation of a Simple Steady-State Forecast of Minimum Nocturnal Temperatures
+JF Journal of Applied Meteorology and Climatology
+VO 48
+SP 624
+OP 633
+IS 3
+
+RT Journal Article
+ID 60598541
+A1 Williams,D.,N.
+A1 Ananthakrishnan,R.
+A1 Bernholdt,D.,E.
+A1 Bharathi,S.
+A1 Brown,D.
+A1 Chen,M.
+A1 Chervenak,A.,L.
+A1 Cinquini,L.
+A1 Drach,R.
+A1 Foster,I.,T.
+A1 Fox,P.
+A1 Fraser,D.
+A1 Hankin,S.
+A1 Jones,P.
+A1 Kesselman,C.
+A1 Middleton,D.,E.
+A1 Schwidder,J.
+A1 Schweitzer,R.
+A1 Schuler,R.
+A1 Shoshani,A.
+A1 Siebenlist,F.
+A1 Sim,A.
+A1 Strand,W.,G.
+A1 Wilhelmi,N.
+YR 2009
+T1 The earth system Grid : enabling access to multi-model climate simulation data
+JF Bulletin of The American Meteorological Society
+VO 90
+SP 195
+OP 205
+IS 2
+
+RT Journal Article
+ID 15196218
+A1 Ripeanu,Matei
+A1 Iamnitchi,Adriana
+A1 Foster,Ian
+A1 Rogers,Anne
+YR 2009
+T1 In search of simplicity: a self-organizing group communication overlay
+JF Concurrency and Computation: Practice and Experience
+
+RT Journal Article
+ID 61428356
+A1 Raicu,Ioan
+A1 Foster,Ian
+A1 Zhao,Yong
+A1 Szalay,Alex
+A1 Little,Philip
+A1 Moretti,C
+A1 Chaudhary,Amitabh
+A1 Thain,Douglas
+YR 2009
+T1 Towards data intensive many-task computing
+
+RT Conference Proceedings
+ID 50829030
+A1 Moazen,Danial
+A1 Akbari,Kazem
+A1 Hashemi,Alireza
+YR 2009
+T1 Optimizing information systems by realizing the autonomy around business
+
+RT Conference Proceedings
+ID 6037597
+A1 Hou,Zhengxiong
+A1 Wilde,Michael
+A1 Hategan,Mihael
+A1 Zhou,Xingshe
+A1 Foster,Ian,T.
+A1 Clifford,Ben
+YR 2009
+T1 Experiences of On-Demand Execution for Large Scale Parameter Sweep Applications on OSG by Swift
+SP 527
+OP 532
+
+RT Journal Article
+ID 6083548
+A1 Foster,Ian,T.
+A1 Parastatidis,Savas
+A1 Watson,Paul
+A1 Mckeown,Mark
+YR 2009
+T1 How Do I Model State? Let Me Count the Ways
+JF ACM Queue
+VO 7
+SP 54
+OP 55
+IS 2
+
+RT Journal Article
+ID 5140308
+A1 Sotomayor,Borja
+A1 Montero,S.
+A1 Llorente,Ignacio,M.
+A1 Foster,Ian
+YR 2009
+T1 An Open Source Solution for Virtual Infrastructure Management in Private and Hybrid Clouds
+
+RT Journal Article
+ID 6564054
+A1 Elliott,Joshua
+A1 Franklin,Meredith
+A1 Foster,Ian
+A1 Munson,Todd
+YR 2009
+T1 Propagation of data error and parametric sensitivity in computable general equilibrium model forecasts
+
+RT Conference Proceedings
+ID 13267298
+A1 Raicu,Ioan
+A1 Foster,Ian,T.
+A1 Zhao,Yong
+YR 2009
+T1 Proceedings of the 2nd Workshop on Many-Task Computing on Grids and Supercomputers, MTAGS 2009, November 16, 2009, Portland, Oregon, USA
+
+RT Journal Article
+ID 43172978
+A1 Moyer,Elisabeth
+A1 Foster,I.
+A1 Judd,K.
+A1 Munson,T.
+YR 2009
+T1 Modeling the human dimensions of climate change: The CIM-EARTH project
+JF Iop Conference Series: Earth and Environmental Science
+VO 6
+SP 492007
+IS 49
+
+RT Journal Article
+ID 43174455
+A1 Moyer,Elisabeth
+A1 Foster,I
+A1 Judd,K
+A1 Munson,T
+YR 2009
+T1 Modeling the human dimensions of climate change: The CIM-EARTH project
+JF Iop Conference Series: Earth and Environmental Science
+VO 6
+SP 492007
+IS 49
+
+RT Journal Article
+ID 60605091
+A1 Williams,D,N
+A1 Foster,I,T
+A1 Middleton,D,E
+YR 2009
+T1 SciDAC's Earth System Grid Center for Enabling Technologies Semi-Annual Progress Report for the Period April 1, 2009 through September 30, 2009
+
+RT Journal Article
+ID 50721241
+A1 Foster,Ian
+A1 Zhao,Yong
+A1 Raicu,Ioan
+A1 Lu,Shiyong
+YR 2008
+T1 Cloud computing and grid computing 360-degree compared
+JF Computing Research Repository
+SP 1
+OP 10
+
+RT Conference Proceedings
+ID 4266535
+A1 Sotomayor,Borja
+A1 Keahey,Kate
+A1 Foster,Ian,T.
+YR 2008
+T1 Combining batch execution and leasing using virtual machines
+SP 87
+OP 96
+
+RT Journal Article
+ID 5125547
+A1 Raicu,Ioan
+A1 Foster,Ian,T.
+A1 Zhao,Yong
+YR 2008
+T1 Many-task computing for grids and supercomputers
+SP 1
+OP 11
+
+RT Journal Article
+ID 4366104
+A1 Clifford,Ben
+A1 Foster,Ian,T.
+A1 Vöckler,Jens-S.
+A1 Wilde,Michael
+A1 Zhao,Yong
+YR 2008
+T1 Tracking provenance in a virtual data grid
+JF Concurrency and Computation: Practice and Experience
+VO 20
+SP 565
+OP 575
+IS 5
+
+RT Journal Article
+ID 4366105
+A1 Moreau,Luc
+A1 Ludäscher,Bertram
+A1 Altintas,Ilkay
+A1 Barga,Roger,S.
+A1 Bowers,Shawn
+A1 Callahan,Steven,P.
+A1 Jr.,George,Chin
+A1 Clifford,Ben
+A1 Cohen,Shirley
+A1 Boulakia,Sarah,Cohen
+A1 Davidson,Susan,B.
+A1 Deelman,Ewa
+A1 Digiampietri,Luciano,A.
+A1 Foster,Ian,T.
+A1 Freire,Juliana
+A1 Frew,James
+A1 Futrelle,Joe
+A1 Gibson,Tara
+A1 Gil,Yolanda
+A1 Goble,Carole,A.
+A1 Golbeck,Jennifer
+A1 Groth,Paul,T.
+A1 Holland,David,A.
+A1 Jiang,Sheng
+A1 Kim,Jihie
+A1 Koop,David
+A1 Krenek,Ales
+A1 Mcphillips,Timothy,M.
+A1 Mehta,Gaurang
+A1 Miles,Simon
+A1 Metzger,Dominic
+A1 Munroe,Steve
+A1 Myers,Jim
+A1 Plale,Beth
+A1 Podhorszki,Norbert
+A1 Ratnakar,Varun
+A1 Santos,Emanuele
+A1 Scheidegger,Carlos,Eduardo
+A1 Schuchardt,Karen
+A1 Seltzer,Margo,I.
+A1 Simmhan,Yogesh,L.
+A1 Silva,Cláudio,T.
+A1 Slaughter,Peter
+A1 Stephan,Eric,G.
+A1 Stevens,Robert
+A1 Turi,Daniele
+A1 Vo,Huy,T.
+A1 Wilde,Michael
+A1 Zhao,Jun
+A1 Zhao,Yong
+YR 2008
+T1 Special Issue: The First Provenance Challenge
+JF Concurrency and Computation: Practice and Experience
+VO 20
+SP 409
+OP 418
+IS 5
+
+RT Journal Article
+ID 4313362
+A1 Raicu,Ioan
+A1 Zhang,Zhao
+A1 Wilde,Michael
+A1 Foster,Ian,T.
+A1 Beckman,Pete
+A1 Iskra,Kamil
+A1 Clifford,Ben
+YR 2008
+T1 Toward loosely coupled programming on petascale systems
+JF Computing Research Repository
+VO abs/0808.3
+SP 22
+
+RT Journal Article
+ID 4373634
+A1 Raicu,Ioan
+A1 Zhao,Yong
+A1 Foster,Ian,T.
+A1 Szalay,Alexander,S.
+YR 2008
+T1 Accelerating large-scale data exploration through data diffusion
+JF Computing Research Repository
+VO abs/0808.3
+SP 9
+OP 18
+
+RT Journal Article
+ID 50733367
+A1 Zhang,Zhao
+A1 Espinosa,Allan
+A1 Iskra,Kamil
+A1 Raicu,Ioan
+A1 Foster,Ian
+A1 Wilde,Michael
+YR 2008
+T1 Design and evaluation of a collective IO model for loosely coupled petascale programming
+SP 1
+OP 10
+
+RT Journal Article
+ID 5935084
+A1 Zhao,Yong
+A1 Raicu,Ioan
+A1 Foster,Ian,T.
+YR 2008
+T1 Scientific workflow systems for 21st century, new bottle or new wine?
+SP 467
+OP 471
+
+RT Journal Article
+ID 4374030
+A1 Zhao,Yong
+A1 Raicu,Ioan
+A1 Foster,Ian,T.
+A1 Hategan,Mihael
+A1 Nefedova,Veronika
+A1 Wilde,Michael
+YR 2008
+T1 Realizing fast, scalable and reliable scientific computations in grid environments
+VO abs/0808.3
+
+RT Journal Article
+ID 4764077
+A1 Tan,Wei
+A1 Foster,Ian,T.
+A1 Madduri,Ravi,K.
+YR 2008
+T1 Combining the Power of Taverna and caGrid: Scientific Workflows that Enable Web-Scale Collaboration
+JF IEEE Internet Computing
+VO 12
+SP 61
+OP 68
+IS 6
+
+RT Journal Article
+ID 4373633
+A1 Zhao,Yong
+A1 Raicu,Ioan
+A1 Foster,Ian,T.
+YR 2008
+T1 Scientific Workflow Systems for 21st Century e-Science, New Bottle or New Wine?
+JF Computing Research Repository
+VO abs/0808.3
+
+RT Book, Whole
+ID 4719386
+A1 Tan,Wei
+A1 Missier,Paolo
+A1 Madduri,Ravi,K.
+A1 Foster,Ian,T.
+YR 2008
+T1 Building Scientific Workflow with Taverna and BPEL: A Comparative Study in caGrid
+SP 118
+OP 129
+
+RT Journal Article
+ID 47009746
+A1 Cheng,Yu
+A1 Leon-Garcia,A.
+A1 Foster,I.
+YR 2008
+T1 Toward an Autonomic Service Management Framework: A Holistic Vision of SOA, AON, and Autonomic Computing
+JF IEEE Communications Magazine
+VO 46
+SP 138
+OP 146
+IS 5
+
+RT Conference Proceedings
+ID 4313360
+A1 Khanna,Gaurav
+A1 Çatalyürek,Ümit,V.
+A1 Kurç,Tahsin,M.
+A1 Kettimuthu,Rajkumar
+A1 Sadayappan,P.
+A1 Foster,Ian,T.
+A1 Saltz,Joel,H.
+YR 2008
+T1 Using overlays for efficient data transfer over shared wide-area networks
+SP 47
+
+RT Journal Article
+ID 4756381
+A1 Saltz,Joel,H.
+A1 Kurç,Tahsin,M.
+A1 Hastings,Shannon
+A1 Langella,Stephen
+A1 Oster,Scott
+A1 Ervin,David
+A1 Sharma,Ashish
+A1 Pan,Tony
+A1 Gurcan,Metin,N.
+A1 Permar,Justin
+A1 Ferreira,Renato
+A1 Payne,Philip,R.,O.
+A1 Çatalyürek,Ümit,V.
+A1 Caserta,Enrico
+A1 Leone,Gustavo
+A1 Ostrowski,Michael,C.
+A1 Madduri,Ravi,K.
+A1 Foster,Ian,T.
+A1 Madhavan,Subhasree
+A1 Buetow,Kenneth,H.
+A1 Shanbhag,Krishnakant
+A1 Siegel,Eliot,L.
+YR 2008
+T1 e-Science, caGrid, and Translational Biomedical Research
+JF IEEE Computer
+VO 41
+SP 58
+OP 66
+IS 11
+
+RT Conference Proceedings
+ID 4720349
+A1 Tan,Wei
+A1 Madduri,Ravi,K.
+A1 Keshav,Kiran
+A1 Suzek,Baris,E.
+A1 Oster,Scott
+A1 Foster,Ian,T.
+YR 2008
+T1 Orchestrating caGrid Services in Taverna
+SP 14
+OP 20
+
+RT Journal Article
+ID 39836049
+A1 Foster,I.,D.,L.
+A1 Oldfield,F.
+A1 Flower,R.,J.
+A1 Keatings,K.
+YR 2008
+T1 Mineral magnetic signatures in a long core from Lake Qarun, Middle Egypt
+JF Journal of Paleolimnology
+VO 40
+SP 835
+OP 849
+IS 3
+
+RT Conference Proceedings
+ID 4266530
+A1 Khanna,Gaurav
+A1 Çatalyürek,Ümit,V.
+A1 Kurç,Tahsin,M.
+A1 Sadayappan,P.
+A1 Saltz,Joel,H.
+A1 Kettimuthu,Rajkumar
+A1 Foster,Ian,T.
+YR 2008
+T1 Multi-hop path splitting and multi-pathing optimizations for data transfers over shared wide-area networks using gridFTP
+SP 225
+OP 226
+
+RT Journal Article
+ID 19866896
+A1 Pordes,R.
+A1 Petravick,D.
+A1 Kramer,B.
+A1 Olson,D.
+A1 Livny,M.
+A1 Roy,A.
+A1 Avery,P.
+A1 Blackburn,K.
+A1 Wenaus,T.
+A1 Würthwein,F.
+A1 Foster,I.
+A1 Gardner,R.
+A1 Wilde,M.
+A1 Blatecky,A.
+A1 McGee,J.
+A1 Quick,R.
+YR 2008
+T1 The Open Science Grid status and architecture
+JF Journal of Physics: Conference Series
+VO 119
+SP 2028
+IS 5
+
+RT Journal Article
+ID 4900554
+A1 Balaji,P.
+A1 Feng,W.
+A1 Lin,H.
+A1 Thakur,R.
+A1 Archuleta,J.
+A1 Matsuoka,S.
+A1 Warren,A.
+A1 Setubal,J.
+A1 Lusk,E.
+A1 Foster,I.
+A1 Katz,D.,S.
+A1 Jha,S.
+A1 Shinpaugh,K.
+A1 Coghlan,S.
+A1 Reed,D.
+YR 2008
+T1 Distributed I/O with ParaMEDIC: Experiences with a Worldwide Supercomputer
+
+RT Journal Article
+ID 45501849
+A1 Boardman,J.
+A1 Foster,I.
+YR 2008
+T1 Badland and gully erosion in the Karoo, South Africa
+JF Journal of Soil and Water Conservation
+VO 63
+IS 4
+
+RT Journal Article
+ID 4381791
+A1 Fisher,Robert,T.
+A1 Kadanoff,Leo,P.
+A1 Lamb,Don,Q.
+A1 Dubey,Anshu
+A1 Plewa,Tomasz
+A1 Calder,Alan
+A1 Cattaneo,Fausto
+A1 Constantin,Peter
+A1 Foster,Ian,T.
+A1 Papka,Michael,E.
+A1 Abarzhi,Snezhana,I.
+A1 Asida,Shimon,M.
+A1 Rich,Paul,M.
+A1 Glendenin,Chad,C.
+A1 Antypas,Katie
+A1 Sheeler,Daniel,J.
+A1 Reid,Lynn,B.
+A1 Gallagher,Brad
+A1 Needham,Shawn,G.
+YR 2008
+T1 Terascale turbulence computation using the FLASH3 application framework on the IBM Blue Gene/L system
+JF Ibm Journal of Research and Development
+VO 52
+SP 127
+OP 136
+IS 1-2
+
+RT Journal Article
+ID 11663617
+A1 Tan,Wei
+A1 Foster,Ian
+A1 Madduri,Ravi
+YR 2008
+T1 Scientific workflows that enable Web-scale collaboration: combining the power of Taverna and caGrid
+JF IEEE Internet Computing
+VO 12
+IS 6
+
+RT Journal Article
+ID 41312618
+A1 Lyons,T.,J.
+A1 Foster,I.,J.
+YR 2008
+T1 Clearing enhances dust devil formation
+JF Journal of Arid Environments
+VO 72
+SP 1918
+OP 1928
+IS 10
+
+RT Journal Article
+ID 39355970
+A1 Oster,Scott
+A1 Langella,Stephen
+A1 Hastings,Shannon
+A1 Ervin,David
+A1 Madduri,Ravi,K.
+A1 Phillips,Joshua
+A1 Kurç,Tahsin,M.
+A1 Siebenlist,Frank
+A1 Covitz,Peter,A.
+A1 Shanbhag,Krishnakant
+A1 Foster,Ian,T.
+A1 Saltz,Joel,H.
+YR 2008
+T1 Model Formulation: caGrid 1.0: An Enterprise Grid Infrastructure for Biomedical Research
+JF Journal of The American Medical Informatics Association
+VO 15
+SP 138
+OP 149
+IS 2
+
+RT Book, Whole
+ID 4282907
+A1 Foster,Ian,T.
+YR 2008
+T1 Services for Science
+SP 3
+
+RT Journal Article
+ID 4764087
+A1 Qi,Li
+A1 Jin,Hai
+A1 Foster,Ian,T.
+A1 Gawor,Jarek
+YR 2008
+T1 Provisioning for Dynamic Instantiation of Community Services
+JF IEEE Internet Computing
+VO 12
+SP 29
+OP 36
+IS 2
+
+RT Journal Article
+ID 50722496
+A1 Chard,Kyle
+A1 Onyuksel,Cem
+A1 Tan,Wei
+A1 Sulakhe,Dinanath
+A1 Madduri,Ravi
+A1 Foster,Ian
+YR 2008
+T1 Build Grid Enabled Scientific Workflows Using gRAVI and Taverna
+
+RT Journal Article
+ID 39364034
+A1 Moreau,Luc
+A1 Ludaescher,Bertram,T.
+A1 Altintas,Ilkay
+A1 Barga,Roger,S.
+A1 Bowers,Shawn
+A1 Callahan,Steven,P.
+A1 Chin,Jr.,George
+A1 Clifford,Ben
+A1 Cohen,Shirley
+A1 Cohen-Boulakia,Sarah
+A1 SusanDavidson
+A1 Deelman,Ewa
+A1 Digiampietri,Luciano
+A1 Foster,Ian,T.
+A1 Freire,Juliana
+A1 Frew,James
+A1 Futrelle,Joe
+A1 Gibson,Tara,D.
+A1 Gil,Yolanda
+A1 Goble,Carole
+A1 Golbeck,Jennifer
+A1 Holland,David,A.
+A1 Jiang,Sheng
+A1 Kim,Jihie
+A1 Koop,David
+A1 Krenek,Ales
+A1 McPhillips,Timothy
+A1 Mehta,Gaurang
+A1 SimonMiles
+A1 Metzger,Dominic
+A1 Munroe,Steve
+A1 Myers,James,D.
+A1 BethPlale
+A1 Podhorszki,Norbert
+A1 Ratnakar,Varun
+A1 Santos,Emanuele
+A1 scheidegger,Carlos,E.
+A1 Schuchardt,Karen,L.
+A1 Seltzer,Margo,I.
+A1 Claudio,Silva,T.
+A1 Slaughter,Peter
+A1 EricStephan
+A1 Stevens,Robert
+A1 Turi,Daniele
+A1 Vo,Huy,T.
+A1 Wilde,Mike,J.
+A1 Zhao,Jun
+A1 Zhao,Yong
+YR 2008
+T1 Special Issue: The First Provenance Challenge
+VO 20
+SP 409
+OP 418
+IS 5
+
+RT Journal Article
+ID 6197350
+A1 Williams,D.,N.
+A1 Ananthakrishnan,R.
+A1 Bernholdt,D.,E.
+A1 Bharathi,S.
+A1 Brown,D.
+A1 Chen,M.
+A1 Chervenak,A.,L.
+A1 Cinquini,L.
+A1 Drach,R.
+A1 Foster,I.,T.
+A1 Fox,P.
+A1 Hankin,S.
+A1 Henson,V.,E.
+A1 Jones,P.
+A1 Middleton,D.,E.
+A1 Schwidder,J.
+A1 Schweitzer,R.
+A1 Schuler,R.
+A1 Shoshani,A.
+A1 Siebenlist,F.
+A1 Sim,A.
+A1 Strand,W.,G.
+A1 Wilhelmi,N.
+A1 Su,M.
+YR 2008
+T1 Data management and analysis for the Earth System Grid
+JF Journal of Physics: Conference Series
+VO 125
+SP 2072
+IS 1
+
+RT Journal Article
+ID 4414309
+A1 Sulakhe,Dinanath
+A1 Rodriguez,Alex
+A1 Wilde,Michael
+A1 Foster,Ian,T.
+A1 Maltsev,Natalia
+YR 2008
+T1 Interoperability of GADU in Using Heterogeneous Grid Resources for Bioinformatics Applications
+JF IEEE Transactions on Information Technology in Biomedicine
+VO 12
+SP 241
+OP 246
+IS 2
+
+RT Journal Article
+ID 6288037
+A1 Baranovski,A.
+A1 Beattie,K.
+A1 Bharathi,S.
+A1 Boverhof,J.
+A1 Bresnahan,J.
+A1 Chervenak,A.
+A1 Foster,I.
+A1 Freeman,T.
+A1 Gunter,D.
+A1 Keahey,K.
+A1 Kesselman,C.
+A1 Kettimuthu,R.
+A1 Leroy,N.
+A1 Link,M.
+A1 Livny,M.
+A1 Madduri,R.
+A1 Oleynik,G.
+A1 Pearlman,L.
+A1 Schuler,R.
+A1 Tierney,B.
+YR 2008
+T1 Enabling petascale science: data management, troubleshooting, and scalable science services
+JF Journal of Physics: Conference Series
+VO 125
+SP 2068
+IS 1
+
+RT Journal Article
+ID 4361630
+A1 Foster,Ian,T.
+A1 Parastatidis,Savas
+A1 Watson,Paul
+A1 Mckeown,Mark
+YR 2008
+T1 How do I model state? Let me count the ways
+JF Communications of The ACM
+VO 51
+SP 34
+OP 41
+IS 9
+
+RT Journal Article
+ID 60539339
+A1 Oster,S.
+A1 Langella,S.
+A1 Hastings,S.
+A1 Ervin,D.
+A1 Madduri,R.
+A1 Phillips,J.
+A1 Kurc,T.
+A1 Siebenlist,F.
+A1 Covitz,P.
+A1 Shanbhag,K.
+A1 Foster,I.
+A1 Saltz,J.
+A1 SemanticBits
+YR 2008
+T1 caGrid 1.0 : an enterprise Grid infrastructure for biomedical research
+
+RT Journal Article
+ID 52212315
+A1 Jr.,B.,F.,Spencer
+A1 Butler,Randal
+A1 Ricker,Kathleen
+A1 Marcusiu,Doru
+A1 Finholt,Thomas,A.
+A1 Foster,Ian
+A1 Kesselman,Carl
+A1 Birnholtz,Jeremy,P.
+YR 2008
+T1 NEESgrid: Lessons Learned for Future Cyberinfrastructure Development
+
+RT Journal Article
+ID 57394794
+A1 Solomonides,T.
+A1 Silverstein,J.,C.
+A1 Saltz,J.
+A1 Legr'e,Y.
+A1 Kratz,M.
+A1 Foster,I.
+A1 Breton,V.
+A1 Beck,J.,R.
+YR 2008
+T1 Multi-science decision support for HIV drug resistance treatment
+VO 138
+
+RT Journal Article
+ID 5648235
+A1 Dumitrescu,C.
+A1 Iosup,A.
+A1 Mohamed,H.
+A1 Epema,Dick,H.,J.
+A1 Ripeanu,M.
+A1 Tapus,N.
+A1 Raicu,I.
+A1 Foster,I.
+YR 2008
+T1 ServMark: A Framework for Testing Grid Services
+
+RT Conference Proceedings
+ID 50743373
+A1 Khanna,Gaurav
+A1 Catalyurek,Umit
+A1 Kurc,Tahsin
+A1 Kettimuthu,Rajkumar
+A1 Sadayappan,P.
+A1 Foster,Ian
+A1 Saltz,Joel
+YR 2008
+T1 Using overlays for efficient data transfer over shared wide-area networks
+
+RT Conference Proceedings
+ID 50743418
+A1 Raicu,Ioan
+A1 Zhang,Zhao
+A1 Wilde,M.
+A1 Foster,I.
+A1 Beckman,P.
+A1 Iskra,K.
+A1 Clifford,B.
+YR 2008
+T1 Toward loosely coupled programming on petascale systems
+
+RT Journal Article
+ID 61403908
+A1 Fraser,Dan
+A1 Marru,Suresh
+A1 Martin,Stuart
+A1 Diehr,Nancy,Wilkins
+A1 Foster,Ian
+A1 Perera,Srinath
+YR 2008
+T1 Engaging with the LEAD Science Gateway Project: Lessons Learned inSuccessfully Deploying Complex System Solutions on TeraGrid
+
+RT Book, Whole
+ID 4250249
+A1 Turcu,Gabriela
+A1 Nestorov,Svetlozar
+A1 Foster,Ian,T.
+YR 2008
+T1 Efficient Incremental Maintenance of Derived Relations and BLAST Computations in Bioinformatics Data Warehouses
+SP 135
+OP 145
+
+RT Journal Article
+ID 28704880
+A1 Jamieson,A.
+A1 Giger,M.
+A1 Wilde,M.
+A1 Pesce,L.
+A1 Foster,I.
+YR 2008
+T1 SU-GG-I-04: Grid-Computing for Optimization of CAD
+JF Medical Physics
+VO 35
+SP 2643
+IS 6
+
+RT Journal Article
+ID 6269654
+A1 Raicu,Ioan
+A1 Zhao,Yong
+A1 Foster,Ian
+A1 Wilde,Mike
+A1 Zhang,Zhao
+A1 Clifford,Ben
+A1 Hategan,Mihael
+A1 Kenny,Sarah
+YR 2008
+T1 Managing and Executing Loosely Coupled Large Scale Applications on Clusters, Grids, and Supercomputers
+
+RT Journal Article
+ID 55209678
+A1 Hanson,D.,A.
+A1 Kotamarthi,V.,R.
+A1 Foster,I.,T.
+A1 Franklin,M.
+A1 Zhu,E.
+A1 Patel,D.,M.
+YR 2008
+T1 Scenario Analysis With Economic-Energy Systems Models Coupled to Simple Climate Models
+
+RT Journal Article
+ID 55638441
+A1 Raicu,Ioan
+A1 Zhang,Zhao
+A1 Wilde,Mike
+A1 Foster,Ian
+A1 Beckman,Pete
+A1 Iskra,Kamil
+A1 Clifford,Ben
+YR 2008
+T1 Towards Loosely-Coupled Programming on Petascale Systems
+
+RT Journal Article
+ID 45501850
+A1 Boardman,J.
+A1 Foster,I.
+YR 2008
+T1 Badland and gully erosion in the Karoo, South Africa
+JF Journal of Soil and Water Conservation
+VO 63
+IS 4
+
+RT Journal Article
+ID 5362784
+A1 Kettimuthu,Rajkumar
+A1 Wantao,Liu
+A1 Siebenlist,Frank
+A1 Foster,Ian
+YR 2008
+T1 Communicating Security Assertions over the GridFTP Control Channel
+
+RT Journal Article
+ID 4373631
+A1 Raicu,Ioan
+A1 Zhao,Yong
+A1 Foster,Ian,T.
+A1 Szalay,Alexander,S.
+YR 2008
+T1 Data Diffusion: Dynamic Resource Provision and Data-Aware Scheduling for Data Intensive Applications
+VO abs/0808.3
+
+RT Journal Article
+ID 4373635
+A1 Raicu,Ioan
+A1 Zhang,Zhao
+A1 Wilde,Michael
+A1 Foster,Ian,T.
+YR 2008
+T1 Enabling Loosely-Coupled Serial Job Execution on the IBM BlueGene/P Supercomputer and the SiCortex SC5832
+VO abs/0808.3
+
+RT Journal Article
+ID 60588832
+A1 Childers,L.
+A1 Liming,L.
+A1 Foster,I.
+YR 2008
+T1 Perspectives on distributed computing : thirty people, four user types, and the distributed computing user experience
+
+RT Conference Proceedings
+ID 4703564
+A1 Foster,Ian,T.
+YR 2008
+T1 From the heroic to the logistical: programming model implications of new supercomputing applications
+SP 57
+OP 58
+
+RT Journal Article
+ID 43590191
+A1 Foster,Ian
+YR 2008
+T1 Global Environments through the Quaternary - By David E Anderson, Andrew S Goudie and Adrian G Parker
+JF Geographical Journal
+VO 174
+SP 85
+OP 85
+IS 1
+
+RT Journal Article
+ID 4371428
+A1 Bernholdt,David,E.
+A1 Bharathi,Shishir
+A1 Brown,David
+A1 Chanchio,Kasidit
+A1 Chen,Meili
+A1 Chervenak,Ann,L.
+A1 Cinquini,Luca
+A1 Drach,Bob
+A1 Foster,Ian,T.
+A1 Fox,Peter
+A1 Garcia,Jose
+A1 Kesselman,Carl
+A1 Markel,Rob,S.
+A1 Middleton,Don
+A1 Nefedova,Veronika
+A1 Pouchard,Line
+A1 Shoshani,Arie
+A1 Sim,Alex
+A1 Strand,Gary
+A1 Williams,Dean
+YR 2007
+T1 The Earth System Grid: Supporting the Next Generation of Climate Modeling Research
+JF Computing Research Repository
+VO abs/0712.2
+
+RT Journal Article
+ID 4313254
+A1 Raicu,Ioan
+A1 Zhao,Yong
+A1 Dumitrescu,Catalin
+A1 Foster,Ian,T.
+A1 Wilde,Michael
+YR 2007
+T1 Falkon: a Fast and Lightweight tasK executiON framework
+SP 1
+OP 12
+
+RT Journal Article
+ID 2414354
+A1 Zhao,Yong
+A1 Hategan,Mihael
+A1 Clifford,Ben
+A1 Foster,Ian,T.
+A1 Laszewski,Gregor,Von
+A1 Nefedova,Veronika
+A1 Raicu,Ioan
+A1 Stef-Praun,Tiberiu
+A1 Wilde,Michael
+YR 2007
+T1 Swift: Fast, reliable, loosely coupled parallel computation
+SP 199
+OP 206
+
+RT Conference Proceedings
+ID 2467063
+A1 Qi,Li
+A1 Jin,Hai
+A1 Foster,Ian,T.
+A1 Gawor,Jarek
+YR 2007
+T1 HAND: Highly Available Dynamic Deployment Infrastructure for Globus Toolkit 4
+SP 155
+OP 162
+
+RT Journal Article
+ID 19864623
+A1 Pordes,Ruth
+A1 Petravick,Don
+A1 Kramer,Bill
+A1 Olson,Doug
+A1 Livny,Miron
+A1 Roy,Alain
+A1 Avery,Paul
+A1 Blackburn,Kent
+A1 Wenaus,Torre
+A1 Würthwein,Frank
+A1 Foster,Ian
+A1 Gardner,Rob
+A1 Wilde,Mike
+A1 Blatecky,Alan
+A1 McGee,John
+A1 Quick,Rob
+YR 2007
+T1 The open science grid
+JF Journal of Physics: Conference Series
+VO 78
+SP 2057
+IS 1
+
+RT Journal Article
+ID 5475376
+A1 Feller,Martin
+A1 Foster,Ian
+A1 Martin,Stuart
+YR 2007
+T1 GT4 GRAM: A Functionality and Performance Study
+
+RT Journal Article
+ID 4381108
+A1 Malewicz,Grzegorz
+A1 Foster,Ian,T.
+A1 Rosenberg,Arnold,L.
+A1 Wilde,Michael
+YR 2007
+T1 A Tool for Prioritizing DAGMan Jobs and its Evaluation
+JF Journal of Grid Computing
+VO 5
+SP 197
+OP 212
+IS 2
+
+RT Journal Article
+ID 4504906
+A1 Raicu,Ioan
+A1 Dumitrescu,Catalin
+A1 Foster,Ian
+YR 2007
+T1 Dynamic resource provisioning in grid environments
+
+RT Journal Article
+ID 4657024
+A1 Baranovski,Andrew
+A1 Bharathi,Shishir
+A1 Bresnahan,John
+A1 Chervenak,Ann
+A1 Foster,Ian
+A1 Fraser,Dan
+A1 Freeman,Tim
+A1 Gunter,Dan
+A1 Jackson,Keith
+A1 Keahey,Kate
+A1 Kesselman,Carl
+A1 Konerding,David,E.
+A1 Leroy,Nick
+A1 Link,Mike
+A1 Livny,Miron
+A1 Miller,Neill
+A1 Miller,Robert
+A1 Oleynik,Gene
+A1 Pearlman,Laura
+A1 Schopf,Jennifer,M.
+A1 Schuler,Robert
+A1 Tierney,Brian
+YR 2007
+T1 Enabling distributed petascale science
+JF Journal of Physics: Conference Series
+VO 78
+SP 2020
+IS 1
+
+RT Journal Article
+ID 4660196
+A1 Ananthakrishnan,R.
+A1 Bernholdt,D.,E.
+A1 Bharathi,S.
+A1 Brown,D.
+A1 Chen,M.
+A1 Chervenak,A.,L.
+A1 Cinquini,L.
+A1 Drach,R.
+A1 Foster,I.,T.
+A1 Fox,P.
+A1 Fraser,D.
+A1 Halliday,K.
+A1 Hankin,S.
+A1 Jones,P.
+A1 Kesselman,C.
+A1 Middleton,D.,E.
+A1 Schwidder,J.
+A1 Schweitzer,R.
+A1 Schuler,R.
+A1 Shoshani,A.
+A1 Siebenlist,F.
+A1 Sim,A.
+A1 Strand,W.,G.
+A1 Wilhelmi,N.
+A1 Su,M.
+A1 Williams,D.,N.
+YR 2007
+T1 Building a global federation system for climate change research: the earth system grid center for enabling technologies (ESG-CET)
+JF Journal of Physics: Conference Series
+VO 78
+SP 2050
+IS 1
+
+RT Journal Article
+ID 39230221
+A1 Bresnahan,John
+A1 Link,Michael
+A1 Khanna,Gaurav
+A1 Imani,Zulfikar
+A1 Kettimuthu,Rajkumar
+A1 Foster,Ian
+YR 2007
+T1 Globus GridFTP: what's new in 2007
+SP 1
+OP 5
+
+RT Conference Proceedings
+ID 2449147
+A1 Kettimuthu,Rajkumar
+A1 Allcock,William,E.
+A1 Liming,Lee
+A1 Navarro,John-paul
+A1 Foster,Ian,T.
+YR 2007
+T1 GridCopy: Moving Data Fast on the Grid
+SP 1
+OP 6
+
+RT Conference Proceedings
+ID 4313228
+A1 Yang,Lingyun
+A1 Liu,Chuang
+A1 Schopf,Jennifer,M.
+A1 Foster,Ian,T.
+YR 2007
+T1 Anomaly detection and diagnosis in grid environments
+SP 33
+OP 9
+
+RT Journal Article
+ID 4381125
+A1 Dumitrescu,Catalin,L.
+A1 Raicu,Ioan
+A1 Foster,Ian,T.
+YR 2007
+T1 The design, usage, and performance of GRUBER: a Grid usage service level agreement based BrokERing infrastructure
+VO 5
+SP 99
+OP 126
+IS 1
+
+RT Journal Article
+ID 4999886
+A1 Martin,Stuart
+A1 Foster,Ian
+A1 Christie,Marcus
+YR 2007
+T1 TeraGrid's GRAM Auditing & Accounting, & its Integration with the LEAD Science Gateway
+
+RT Conference Proceedings
+ID 2449228
+A1 Liu,Chuang
+A1 Foster,Ian,T.
+YR 2007
+T1 A Scalable Cluster Algorithm for Internet Resources
+SP 1
+OP 8
+
+RT Journal Article
+ID 4365759
+A1 Dumitrescu,Catalin,L.
+A1 Raicu,Ioan
+A1 Foster,Ian,T.
+YR 2007
+T1 Usage SLA-based scheduling in Grids
+VO 19
+SP 945
+OP 963
+IS 7
+
+RT Book, Whole
+ID 2475736
+A1 Nestorov,Svetlozar
+A1 Liu,Chuang
+A1 Foster,Ian,T.
+YR 2007
+T1 Efficient Processing of Relational Queries with Sum Constraints
+SP 440
+OP 451
+
+RT Conference Proceedings
+ID 2487690
+A1 Ripeanu,Matei
+A1 Iamnitchi,Adriana
+A1 Foster,Ian,T.
+A1 Rogers,Anne
+YR 2007
+T1 In Search of Simplicity: A Self-Organizing Group Communication Overlay
+VO 22
+SP 371
+OP 374
+IS 7
+
+RT Conference Proceedings
+ID 50574694
+A1 Bresnahan,John
+A1 Kettimuthu,Rajkumar
+A1 Link,Mike
+A1 Foster,Ian
+YR 2007
+T1 Harnessing Multicore Processors for High-Speed Secure Transfer
+
+RT Book, Whole
+ID 48123649
+A1 Zhao,Yong
+A1 Wilde,Michael
+A1 Foster,Ian,T.
+YR 2007
+T1 Virtual Data Language: A Typed Workflow Notation for Diversely Structured Scientific Data
+
+RT Journal Article
+ID 4366978
+A1 Ripeanu,Matei
+A1 Iamnitchi,Adriana
+A1 Foster,Ian,T.
+A1 Rogers,Anne
+YR 2007
+T1 In Search of Simplicity: A Self-Organizing Multi-Source Multicast Overlay
+JF Computing Research Repository
+VO abs/cs/070
+
+RT Journal Article
+ID 4520432
+A1 Raicu,Ioan
+A1 Zhao,Yong
+A1 Dumitrescu,Catalin,L.
+A1 Foster,Ian
+A1 Wilde,Michael
+YR 2007
+T1 Falkon: A Proposal for Project Globus Incubation
+
+RT Journal Article
+ID 60686361
+A1 Pordes,Ruth
+A1 Petravick,Don
+A1 Kramer,Bill
+A1 Olsen,James,D.
+A1 Livny,Miron
+A1 Roy,Gordon,A.
+A1 Avery,Paul,Ralph
+A1 Blackburn,Kent
+A1 Wenaus,Torre,J.
+A1 Wuerthwein,Frank,K.
+A1 Foster,Ian
+YR 2007
+T1 The Open Science Grid status and architecture
+
+RT Journal Article
+ID 4743488
+A1 Dumitrescu,Cǎtǎlin,L.
+A1 Dunnweber,Jan
+A1 Ludeking,Philipp
+A1 Gorlatch,Sergei
+A1 Raicu,Ioan
+A1 Foster,Ian,T.
+YR 2007
+T1 Simplifying Grid Application Programming Using Web-enabled Code Transfer Tools
+SP 225
+OP 235
+
+RT Journal Article
+ID 60606444
+A1 Bresnahan,J.
+A1 Link,M.
+A1 Kettimuthu,R.
+A1 Fraser,D.
+A1 Foster,I.
+YR 2007
+T1 GridFTP pipelining
+
+RT Journal Article
+ID 4371427
+A1 Foster,Ian,T.
+YR 2007
+T1 Human-Machine Symbiosis, 50 Years On
+JF Computing Research Repository
+VO abs/0712.2
+
+RT Journal Article
+ID 2507416
+A1 Foster,Ian,T.
+YR 2006
+T1 Globus Toolkit Version 4: Software for Service-Oriented Systems
+JF Journal of Computer Science and Technology
+VO 21
+SP 513
+OP 520
+IS 4
+
+RT Conference Proceedings
+ID 2193369
+A1 Foster,Ian,T.
+A1 Freeman,Timothy
+A1 Keahey,Katarzyna
+A1 Scheftner,Doug
+A1 Sotomayor,Borja
+A1 Zhang,Xuehai
+YR 2006
+T1 Virtual Clusters for Grid Communities
+SP 513
+OP 520
+
+RT Journal Article
+ID 2412047
+A1 Keahey,K.
+A1 Foster,I.
+A1 Freeman,T.
+A1 Zhang,X.
+YR 2006
+T1 Virtual Workspaces: Achieveing Quality of Service and Quality of Life in the Grid
+JF Scientific Programming
+
+RT Conference Proceedings
+ID 5234013
+A1 Schopf,Jennifer,M.
+A1 Raicu,Ioan
+A1 Pearlman,Laura
+A1 Miller,Neill
+A1 Kesselman,Carl
+A1 Foster,Ian
+A1 DArcy,Mike
+YR 2006
+T1 Monitoring and Discovery in a Web Services Framework: Functionality and Performance of Globus Toolkit MDS4
+
+RT Conference Proceedings
+ID 13347714
+A1 Sotomayor,Borja
+A1 Keahey,Kate
+A1 Foster,Ian
+YR 2006
+T1 Overhead Matters: A Model for Virtual Resource Management
+
+RT Conference Proceedings
+ID 2464983
+A1 Lang,Bo
+A1 Foster,Ian,T.
+A1 Siebenlist,Frank
+A1 Ananthakrishnan,Rachana
+A1 Freeman,Timothy
+YR 2006
+T1 A Multipolicy Authorization Framework for Grid Security
+SP 269
+OP 272
+
+RT Book, Whole
+ID 2478046
+A1 Zhao,Yong
+A1 Wilde,Michael
+A1 Foster,Ian,T.
+YR 2006
+T1 Applying the Virtual Data Provenance Model
+SP 148
+OP 161
+
+RT Conference Proceedings
+ID 2640962
+A1 Malewicz,Grzegorz
+A1 Foster,Ian,T.
+A1 Rosenberg,Arnold,L.
+A1 Wilde,Michael
+YR 2006
+T1 A Tool for Prioritizing DAGMan Jobs and Its Evaluation
+SP 156
+OP 168
+
+RT Journal Article
+ID 2493068
+A1 Foster,Ian,T.
+A1 Kesselman,Carl
+YR 2006
+T1 Scaling System-Level Science: Scientific Exploration and IT Implications
+JF IEEE Computer
+VO 39
+SP 31
+OP 39
+IS 11
+
+RT Journal Article
+ID 3412376
+A1 Schopf,Jennifer,M.
+A1 Pearlman,Laura
+A1 Miller,Neill
+A1 Kesselman,Carl
+A1 Foster,Ian
+A1 D'Arcy,Mike
+A1 Chervenak,Ann
+YR 2006
+T1 Monitoring the grid with the Globus Toolkit MDS4
+JF Journal of Physics: Conference Series
+VO 46
+SP 521
+OP 525
+IS 1
+
+RT Journal Article
+ID 2493370
+A1 Zhao,Yong
+A1 Wilde,Michael
+A1 Foster,Ian,T.
+A1 Vöckler,Jens-S.
+A1 Dobson,James,E.
+A1 Gilbert,Eric
+A1 Jordan,Thomas
+A1 Quigg,Elizabeth
+YR 2006
+T1 Virtual data Grid middleware services for data-intensive science
+JF Concurrency and Computation: Practice and Experience
+VO 18
+SP 595
+OP 608
+IS 6
+
+RT Journal Article
+ID 2502387
+A1 Foster,Ian,T.
+A1 Nefedova,Veronika
+A1 Ahsant,Mehran
+A1 Ananthakrishnan,Rachana
+A1 Liming,Lee
+A1 Madduri,Ravi,K.
+A1 Mulmo,Olle
+A1 Pearlman,Laura
+A1 Siebenlist,Frank
+YR 2006
+T1 Streamlining Grid Operations: Definition and Deployment of a Portal-based User Registration Service
+JF Journal of Grid Computing
+VO 4
+SP 135
+OP 144
+IS 2
+
+RT Conference Proceedings
+ID 2763565
+A1 Nefedova,Veronika
+A1 Jacob,Robert,L.
+A1 Foster,Ian,T.
+A1 Liu,Zhengyu
+A1 Liu,Yun
+A1 Deelman,Ewa
+A1 Mehta,Gaurang
+A1 Su,Mei-hui
+A1 Vahi,Karan
+YR 2006
+T1 Automating Climate Science: Large Ensemble Simulations on the TeraGrid with the GriPhyN Virtual Data System
+SP 32
+
+RT Journal Article
+ID 2502426
+A1 Raicu,Ioan
+A1 Dumitrescu,Catalin
+A1 Ripeanu,Matei
+A1 Foster,Ian,T.
+YR 2006
+T1 The design, performance, and use of DiPerF: An automated distributed performance evaluation framework
+VO 4
+SP 287
+OP 309
+IS 3
+
+RT Journal Article
+ID 6139555
+A1 Raicu,Ioan
+A1 Foster,Ian
+A1 Szalay,Alex
+A1 Turcu,Gabriela
+YR 2006
+T1 AstroPortal: A Science Gateway for Large-scale Astronomy Data Analysis
+SP 12
+OP 15
+
+RT Journal Article
+ID 41261472
+A1 Lawler,D.,M.
+A1 Petts,G.,E.
+A1 Foster,I.,D.,L.
+A1 Harper,S.
+YR 2006
+T1 Turbidity dynamics during spring storm events in an urban headwater river system: The Upper Tame, West Midlands, UK
+JF Science of The Total Environment
+VO 360
+SP 109
+OP 126
+IS 1
+
+RT Book, Whole
+ID 2444405
+A1 Freeman,Timothy
+A1 Keahey,Katarzyna
+A1 Foster,Ian,T.
+A1 Rana,A.
+A1 Sotomayor,Borja
+A1 Würthwein,Frank
+YR 2006
+T1 Division of Labor: Tools for Growing and Scaling Grids
+SP 40
+OP 51
+
+RT Conference Proceedings
+ID 5653582
+A1 Raicu,Ioan
+A1 Foster,Ian
+A1 Szalay,Alex
+YR 2006
+T1 Harnessing grid resources to enable the dynamic analysis of large astronomy datasets
+
+RT Conference Proceedings
+ID 2163755
+A1 Meyer,Luiz,A.,V.,C.
+A1 Annis,James
+A1 Wilde,Michael
+A1 Mattoso,Marta
+A1 Foster,Ian,T.
+YR 2006
+T1 Planning spatial workflows to optimize grid performance
+SP 786
+OP 790
+
+RT Conference Proceedings
+ID 2193430
+A1 Sulakhe,Dinanath
+A1 Rodriguez,Alex
+A1 Wilde,Michael
+A1 Foster,Ian,T.
+A1 Maltsev,Natalia
+YR 2006
+T1 Using Multiple Grid Resources for Bioinformatics Applications in GADU
+SP 41
+
+RT Book, Whole
+ID 4322299
+A1 Meyer,Luiz,A.,V.,C.
+A1 Scheftner,Doug
+A1 Vöckler,Jens-S.
+A1 Mattoso,Marta
+A1 Wilde,Michael
+A1 Foster,Ian,T.
+YR 2006
+T1 An Opportunistic Algorithm for Scheduling Workflows on Grids
+SP 1
+OP 12
+
+RT Conference Proceedings
+ID 2193431
+A1 Yang,Lingyun
+A1 Schopf,Jennifer,M.
+A1 Dumitrescu,Catalin,L.
+A1 Foster,Ian,T.
+YR 2006
+T1 Statistical Data Reduction for Efficient Application Performance Monitoring
+SP 327
+OP 334
+
+RT Journal Article
+ID 39835864
+A1 Foster,I.,D.,L.
+A1 Mighall,T.,M.
+A1 Proffitt,H.
+A1 Walling,D.,E.
+A1 Owens,P.,N.
+YR 2006
+T1 Post-depositional 137 Cs Mobility in the Sediments of Three Shallow Coastal Lagoons, SW England
+JF Journal of Paleolimnology
+VO 35
+SP 881
+OP 895
+IS 4
+
+RT Conference Proceedings
+ID 4263136
+A1 Fang,Weijian
+A1 Moreau,Luc
+A1 Ananthakrishnan,Rachana
+A1 Wilde,Michael
+A1 Foster,Ian,T.
+YR 2006
+T1 Exposing UDDI Service Descriptions and Their Metadata Annotations as WS-Resources
+SP 128
+OP 135
+
+RT Journal Article
+ID 14900345
+A1 Foster,Ian
+YR 2006
+T1 2020 ComputingA two-way street to science's future
+JF Nature
+VO 440
+SP 419
+OP 419
+IS 7083
+
+RT Journal Article
+ID 2514304
+A1 Bose,Rajendra
+A1 Foster,Ian,T.
+A1 Moreau,Luc
+YR 2006
+T1 Report on the International Provenance and Annotation Workshop: (IPAW'06) 3-5 May 2006, Chicago
+JF Sigmod Record
+VO 35
+SP 51
+OP 53
+IS 3
+
+RT Journal Article
+ID 4591220
+A1 Middleton,D.,E.
+A1 Bernholdt,D.,E.
+A1 Brown,D.
+A1 Chen,M.
+A1 Chervenak,A.,L.
+A1 Cinquini,L.
+A1 Drach,R.
+A1 Fox,P.
+A1 Jones,P.
+A1 Kesselman,C.
+A1 Foster,I.,T.
+A1 Nefedova,V.
+A1 Shoshani,A.
+A1 Sim,A.
+A1 Strand,W.,G.
+A1 Williams,D.
+YR 2006
+T1 Enabling worldwide access to climate simulation data: the earth system grid (ESG)
+JF Journal of Physics: Conference Series
+VO 46
+SP 510
+OP 514
+IS 1
+
+RT Journal Article
+ID 4552760
+A1 Andreica,M.
+A1 Tapus,N.
+A1 Iosup,A.
+A1 Epema,D.,H.,J.
+A1 Dumitrescu,C.
+A1 Raicu,I.
+A1 Foster,I.
+A1 Ripeanu,M
+YR 2006
+T1 Towards servmark, an architecture for testing grids
+
+RT Conference Proceedings
+ID 2434089
+A1 Foster,Ian,T.
+YR 2006
+T1 Service-Oriented Science: Scaling eScience Impact
+SP 9
+OP 10
+
+RT Conference Proceedings
+ID 2448703
+A1 Keahey,Katarzyna
+A1 Chase,Jeffrey,S.
+A1 Foster,Ian,T.
+YR 2006
+T1 Virtual playgrounds: managing virtual resources in the grid
+
+RT Journal Article
+ID 41821309
+A1 Pittam,N.,J.
+A1 Mighall,T.,M.
+A1 Foster,I.,D.,L.
+YR 2006
+T1 The Effect of Sediment Source Changes on Pollen Records in Lake Sediments
+JF Water, Air, & Soil Pollution: Focus
+VO 6
+SP 677
+OP 683
+IS 5
+
+RT Conference Proceedings
+ID 50511203
+A1 Nefedova,Veronika
+A1 Jacob,Robert
+A1 Foster,Ian
+A1 Liu,Zhengyu
+A1 Liu,Yun
+A1 Deelman,Ewa
+A1 Mehta,Gaurang
+A1 Su,Mei-Hui
+A1 Vahi,Karan
+YR 2006
+T1 Automating Climate Science: Large Ensemble Simulations on the TeraGrid with the GriPhyN Virtual Data System
+
+RT Journal Article
+ID 50535322
+A1 Rana,Abhishek,Singh
+A1 Keahey,Katarzyna
+A1 Freeman,Timothy
+A1 Sotomayor,Borja
+A1 Foster,Ian
+A1 Würthwein,Frank
+A1 Vaniachine,Alexandre
+YR 2006
+T1 Blueprint and First Experiences Bridging Hardware Virtualization and Global Grids for Advanced Scientific Computing: Designing and Building a Global Edge Services Framework (ESF) for OSG, EGEE, and LCG
+VO 1
+SP 627
+OP 631
+
+RT Journal Article
+ID 60603247
+A1 Foster,Ian
+A1 Kesselman,Carl
+YR 2006
+T1 Security and Policy for Group Collaboration
+
+RT Conference Proceedings
+ID 50483091
+A1 Sulakhe,Dinanath
+A1 Rodriguez,Alex
+A1 Wilde,Michael
+A1 Foster,Ian
+A1 Maltsev,Natalia
+YR 2006
+T1 Using multiple grid resources for bioinformatics applications in GADU
+
+RT Conference Proceedings
+ID 2469936
+A1 Raicu,Ioan
+A1 Foster,Ian,T.
+A1 Szalay,Alexander,S.
+YR 2006
+T1 Poster reception - Harnessing grid resources to enable the dynamic analysis of large astronomy datasets
+SP 150
+
+RT Conference Proceedings
+ID 4106189
+A1 Bresnahan,John
+A1 Kettimuthu,Rajkumar
+A1 Foster,Ian,T.
+YR 2006
+T1 XIOPerf: A Tool for Evaluating Network Protocols
+
+RT Conference Proceedings
+ID 13303638
+A1 Moreau,Luc
+A1 Foster,Ian,T.
+YR 2006
+T1 Provenance and Annotation of Data, International Provenance and Annotation Workshop, IPAW 2006, Chicago, IL, USA, May 3-5, 2006, Revised Selected Papers
+
+RT Journal Article
+ID 61428354
+A1 Szalay,Alex
+A1 Bunn,A
+A1 Gray,Jim
+A1 Foster,Ian
+A1 Raicu,Ioan
+YR 2006
+T1 The importance of data locality in distributed computing applications
+
+RT Journal Article
+ID 61428361
+A1 Dumitrescu,Catalin,L
+A1 Raicu,Ioan
+A1 Foster,Ian
+YR 2006
+T1 Extending a Distributed Usage SLA Resource Broker to Support Dynamic Grid Environments
+
+RT Journal Article
+ID 59092515
+A1 Baban,Serwan,MJ
+A1 Foster,Ian
+A1 Al-Adamat,Rida
+YR 2006
+T1 Using geoinformatics to estimate nitrate leaching to groundwater in the Azraq basin in Jordan due to human activities
+
+RT Conference Proceedings
+ID 50516637
+A1 Foster,Ian
+YR 2006
+T1 Service-Oriented Science: Scaling eScience Impact
+
+RT Journal Article
+ID 61428358
+A1 Raicu,Ioan
+A1 Foster,Ian
+YR 2006
+T1 Storage and Compute Resource Management via DYRE, 3DcacheGrid, and CompuStore
+
+RT Journal Article
+ID 61428362
+A1 Raicu,Ioan
+A1 Foster,Ian
+YR 2006
+T1 DRP: Dynamic Resource Provisioning
+
+RT Journal Article
+ID 51198719
+A1 Foster,Ian
+YR 2006
+T1 Service-Oriented Science: Scaling eScience Impact
+
+RT Book, Whole
+ID 1883756
+A1 Foster,Ian,T.
+YR 2005
+T1 Globus Toolkit Version 4: Software for Service-Oriented Systems
+SP 2
+OP 13
+
+RT Journal Article
+ID 1765462
+A1 Allcock,William,E.
+A1 Bresnahan,John
+A1 Kettimuthu,Rajkumar
+A1 Link,Michael
+A1 Dumitrescu,Catalin
+A1 Raicu,Ioan
+A1 Foster,Ian
+YR 2005
+T1 The Globus striped GridFTP framework and server
+SP 54
+
+RT Journal Article
+ID 14418149
+A1 Foster,Ian
+YR 2005
+T1 Service-Oriented Science
+JF Science
+VO 308
+SP 814
+OP 817
+IS 5723
+
+RT Journal Article
+ID 2514899
+A1 Keahey,Katarzyna
+A1 Foster,Ian,T.
+A1 Freeman,Timothy
+A1 Zhang,Xuehai
+YR 2005
+T1 Virtual workspaces: Achieving quality of service and quality of life in the Grid
+JF Scientific Programming
+VO 13
+SP 265
+OP 275
+IS 4
+
+RT Journal Article
+ID 1429981
+A1 FOSTER,IAN
+A1 CZAJKOWSKI,KARL
+A1 FERGUSON,DONALD,F.
+A1 FREY,JEFFREY
+A1 GRAHAM,STEVE
+A1 MAGUIRE,TOM
+A1 SNELLING,DAVID
+A1 TUECKE,STEVEN
+YR 2005
+T1 Modeling and Managing State in Distributed Systems: The Role of OGSI and WSRF
+JF Proceedings of The IEEE
+VO 93
+SP 604
+OP 612
+IS 3
+
+RT Journal Article
+ID 1429972
+A1 BERNHOLDT,DAVID
+A1 BHARATHI,SHISHIR
+A1 BROWN,DAVID
+A1 CHANCHIO,KASIDIT
+A1 CHEN,MEILI
+A1 CHERVENAK,ANN
+A1 CINQUINI,LUCA
+A1 DRACH,BOB
+A1 FOSTER,IAN
+A1 FOX,PETER
+A1 GARCIA,JOSE
+A1 KESSELMAN,CARL
+A1 MARKEL,ROB
+A1 MIDDLETON,DON
+A1 NEFEDOVA,VERONIKA
+A1 POUCHARD,LINE
+A1 SHOSHANI,ARIE
+A1 SIM,ALEX
+A1 Strand,C
+A1 WILLIAMS,DEAN
+YR 2005
+T1 The Earth System Grid: Supporting the Next Generation of Climate Modeling Research
+JF Proceedings of The IEEE
+VO 93
+SP 485
+OP 495
+IS 3
+
+RT Book, Whole
+ID 1847229
+A1 Keahey,Katarzyna
+A1 Foster,Ian,T.
+A1 Freeman,Timothy
+A1 Zhang,Xuehai
+A1 Galron,Daniel
+YR 2005
+T1 Virtual Workspaces in the Grid
+SP 421
+OP 431
+
+RT Journal Article
+ID 1726671
+A1 Foster,Ian,T.
+A1 Tuecke,Steven
+YR 2005
+T1 Describing the Elephant: The Different Faces of IT as Service
+JF ACM Queue
+VO 3
+SP 26
+OP 29
+IS 6
+
+RT Journal Article
+ID 1429983
+A1 CZAJKOWSKI,KARL
+A1 FOSTER,IAN
+A1 KESSELMAN,CARL
+YR 2005
+T1 Agreement-Based Resource Management
+JF Proceedings of The IEEE
+VO 93
+SP 631
+OP 643
+IS 3
+
+RT Journal Article
+ID 2922171
+A1 Allcock,Bill
+A1 Chervenak,Ann
+A1 Foster,Ian
+A1 Kesselman,Carl
+A1 Livny,Miron
+YR 2005
+T1 Data Grid tools: enabling science on big distributed data
+JF Journal of Physics: Conference Series
+VO 16
+SP 571
+OP 575
+IS 1
+
+RT Conference Proceedings
+ID 6489211
+A1 Humphrey,Marty
+A1 Wasson,Glenn,S.
+A1 Jackson,Keith,R.
+A1 Boverhof,Joshua
+A1 Rodriguez,Matt
+A1 Gawor,Jarek
+A1 Bester,Joseph
+A1 Lang,Sam
+A1 Foster,Ian,T.
+A1 Meder,Sam
+A1 Pickles,Stephen
+A1 Mckeown,Mark
+YR 2005
+T1 State and events for Web services: a comparison of five WS-resource framework and WS-notification implementations
+SP 3
+OP 13
+
+RT Conference Proceedings
+ID 2193548
+A1 Dumitrescu,Catalin,L.
+A1 Foster,Ian,T.
+YR 2005
+T1 GangSim: a simulator for grid scheduling studies
+SP 1151
+OP 1158
+
+RT Journal Article
+ID 2576012
+A1 Foster,I.
+YR 2005
+T1 A Globus Toolkit Primer
+
+RT Journal Article
+ID 1731841
+A1 Zhao,Yong
+A1 Dobson,James,E.
+A1 Foster,Ian,T.
+A1 Moreau,Luc
+A1 Wilde,Michael
+YR 2005
+T1 A Notation and System for Expressing and ExecutingCleanly Typed Workflows on Messy Scientific Data
+JF Sigmod Record
+VO 34
+SP 37
+OP 43
+IS 3
+
+RT Journal Article
+ID 1765482
+A1 Dumitrescu,Catalin
+A1 Raicu,Ioan
+A1 Foster,Ian,T.
+YR 2005
+T1 Di-gruber: A distributed approach to grid resource brokering
+SP 38
+
+RT Conference Proceedings
+ID 3260747
+A1 Iamnitchi,Adriana
+A1 Foster,Ian,T.
+YR 2005
+T1 Interest-aware information dissemination in small-world communities
+SP 167
+OP 175
+
+RT Conference Proceedings
+ID 1855445
+A1 Dumitrescu,Catalin,L.
+A1 Wilde,Michael
+A1 Foster,Ian,T.
+YR 2005
+T1 A Model for Usage Policy-Based Resource Allocation in Grids
+SP 191
+OP 200
+
+RT Book, Whole
+ID 1847282
+A1 Dumitrescu,Catalin,L.
+A1 Foster,Ian,T.
+YR 2005
+T1 GRUBER: A Grid Resource Usage SLA Broker
+SP 465
+OP 474
+
+RT Conference Proceedings
+ID 1868561
+A1 Dumitrescu,Catalin
+A1 Raicu,Ioan
+A1 Foster,Ian,T.
+YR 2005
+T1 Experiences in running workloads over Grid3
+SP 274
+OP 286
+
+RT Conference Proceedings
+ID 2193465
+A1 Sulakhe,Dinanath
+A1 Rodriguez,Alex
+A1 D'souza,Mark
+A1 Wilde,Michael
+A1 Nefedova,Veronika
+A1 Foster,Ian,T.
+A1 Maltsev,Natalia
+YR 2005
+T1 GNARE: an environment for grid-based high-throughput genome analysis
+SP 455
+OP 462
+
+RT Conference Proceedings
+ID 4105931
+A1 Moreau,L.
+A1 Zhao,Y.
+A1 Foster,I.
+A1 Voeckler,J.
+A1 Wilde,M.
+YR 2005
+T1 XDTM: the XML Dataset Typing and Mapping for Speci-fying Datasets
+
+RT Conference Proceedings
+ID 4726319
+A1 Foster,Ian,T.
+A1 Jennings,Nicholas,R.
+A1 Kesselman,Carl
+YR 2005
+T1 Brain Meets Brawn: Why Grid and Agents Need Each Other
+SP 28
+OP 40
+
+RT Conference Proceedings
+ID 2193532
+A1 Yang,Lingyun
+A1 Schopf,Jennifer,M.
+A1 Foster,Ian,T.
+YR 2005
+T1 Improving parallel data transfer times using predicted variances in shared networks
+SP 734
+OP 742
+
+RT Book, Whole
+ID 1895695
+A1 Moreau,Luc
+A1 Zhao,Yong
+A1 Foster,Ian,T.
+A1 Vöckler,Jens-S.
+A1 Wilde,Michael
+YR 2005
+T1 XDTM: The XML Data Type and Mapping for Specifying Datasets
+SP 495
+OP 505
+
+RT Journal Article
+ID 5596432
+A1 Sulakhe,Dinanath
+A1 Rodriguez,Alex
+A1 D'Souza,Mark
+A1 Wilde,Michael
+A1 Nefedova,Veronika
+A1 Foster,Ian
+A1 Maltsev,Natalia
+YR 2005
+T1 Gnare: Automated System For High-Throughput Genome Analysis With Grid Computational Backend
+JF Journal of Clinical Monitoring and Computing
+VO 19
+SP 361
+OP 369
+IS 4
+
+RT Conference Proceedings
+ID 1833337
+A1 Liu,Chuang
+A1 Yang,Lingyun
+A1 Foster,Ian,T.
+YR 2005
+T1 Efficient Relational Joins with Arithmetic Constraints on Multiple Attributes
+SP 210
+OP 220
+
+RT Journal Article
+ID 2622121
+A1 Dumitrescu,C.
+A1 Foster,I.
+A1 Raicu,I.
+YR 2005
+T1 A Scalability and Performance Measurements of a Usage SLA based Broker in Large Environments
+
+RT Conference Proceedings
+ID 1860381
+A1 Ripeanu,Matei
+A1 Foster,Ian,T.
+A1 Iamnitchi,Adriana
+A1 Rogers,Anne
+YR 2005
+T1 A dynamically adaptive, unstructured multicast overlay
+
+RT Journal Article
+ID 3166360
+A1 Dumitrescu,C.
+A1 Foster,I.
+YR 2005
+T1 GRUBER: A Grid Resource SLA-based Broker
+
+RT Journal Article
+ID 4536926
+A1 Dumitrescu,Catalin
+A1 Foster,Ian
+A1 Raicu,Ioan
+YR 2005
+T1 A Scalability and Performance Evaluation of a distributed Usage SLA-based Broker in Large Grid Environments
+
+RT Conference Proceedings
+ID 1780705
+A1 Liu,Chuang
+A1 Foster,Ian,T.
+YR 2005
+T1 DB CSPA Framework and Algorithms for Applying Constraint Solving within Relational Databases
+SP 147
+OP 158
+
+RT Conference Proceedings
+ID 1904056
+A1 Foster,Ian,T.
+YR 2005
+T1 Service-Oriented Science: Scaling the Application and Impact of eResearch
+SP 2
+
+RT Conference Proceedings
+ID 2458762
+A1 Foster,Ian,T.
+YR 2005
+T1 A New Era in Computing: Moving Services onto Grid
+SP 3
+
+RT Journal Article
+ID 60570643
+A1 Zhao,Y.
+A1 Wilde,M.
+A1 Foster,I.
+A1 Voeckler,J.
+A1 Dobson,J.
+A1 Jordan,T.
+A1 Quigg,E.
+YR 2005
+T1 Virtual data grid middleware services for data-intensive science
+
+RT Conference Proceedings
+ID 50436560
+A1 Dumitrescu,Catalin
+A1 Raicu,Ioan
+A1 Foster,Ian
+YR 2005
+T1 DI-GRUBER: A Distributed Approach to Grid Resource Brokering
+
+RT Conference Proceedings
+ID 4243995
+A1 Liu,Chuang
+A1 Foster,Ian,T.
+YR 2005
+T1 Efficient and Robust Computation of Resource Clusters in the Internet
+SP 1
+OP 9
+
+RT Journal Article
+ID 61428359
+A1 Raicu,Ioan
+A1 Dumitrescu,Catalin
+A1 Foster,Ian
+YR 2005
+T1 A Performance Evaluation of WS-MDS in the Globus Toolkit
+
+RT Journal Article
+ID 61428367
+A1 Raicu,Ioan
+A1 Dumitrescu,Catalin
+A1 Foster,Ian
+YR 2005
+T1 A Performance Analysis of the Globus Toolkit’s Job Submission, GRAM
+
+RT Conference Proceedings
+ID 12896801
+A1 Foster,Ian
+YR 2005
+T1 Service-Oriented Science: Scaling the Application and Impact of eResearch (Abstract)
+
+RT Journal Article
+ID 1396173
+A1 Foster,I.
+A1 Kesselman,C.
+YR 2004
+T1 The grid 2: blueprint for a new computing infrastructure
+
+RT Conference Proceedings
+ID 1235707
+A1 Foster,Ian,T.
+A1 Jennings,Nicholas,R.
+A1 Kesselman,Carl
+YR 2004
+T1 Brain Meets Brawn: Why Grid and Agents Need Each Other
+SP 8
+OP 15
+
+RT Journal Article
+ID 2384084
+A1 Czajkowski,Karl
+A1 Ferguson,Donald,F
+A1 Foster,Ian
+A1 Frey,Jeffrey
+A1 Snelling,David
+A1 Tuecke,Steve
+YR 2004
+T1 The WS-Resource Framework
+
+RT Journal Article
+ID 2056094
+A1 Foster,I.
+A1 Frey,J.
+A1 Graham,S.
+A1 Tuecke,S.
+A1 Czajkowski,K.
+A1 Ferguson,D.
+A1 Leymann,F.
+A1 Nally,M.
+A1 Storey,T.
+A1 Weerawaranna,S.
+YR 2004
+T1 Modeling Stateful Resources with Web Services
+
+RT Journal Article
+ID 2143619
+A1 Welch,Von
+A1 Foster,Ian
+A1 Kesselman,Carl
+A1 Mulmo,Olle
+A1 Pearlman,Laura
+A1 Tuecke,Steven
+A1 Gawor,Jarek
+A1 Meder,Sam
+A1 Siebenlist,Frank
+YR 2004
+T1 X.509 Proxy Certificates for Dynamic Delegation
+
+RT Journal Article
+ID 2371494
+A1 Czajkowski,K.
+A1 Ferguson,D.
+A1 Foster,I.
+A1 Frey,J.
+A1 Graham,S.
+A1 Maguire,T.
+A1 Snelling,D.
+A1 Tuecke,S.
+YR 2004
+T1 From Open Grid Services Infrastructure to WS-Resource Framework: Refactoring and Evolution
+
+RT Conference Proceedings
+ID 1793300
+A1 Keahey,Katarzyna
+A1 Doering,Karl
+A1 Foster,Ian,T.
+YR 2004
+T1 From Sandbox to Playground: Dynamic Virtual Environments in the Grid
+SP 34
+OP 42
+
+RT Journal Article
+ID 2182084
+A1 Foster,Ian,T.
+A1 Fidler,Markus
+A1 Roy,Alain
+A1 Sander,Volker
+A1 Winkler,Linda
+YR 2004
+T1 End-to-end quality of service for high-end applications
+JF Computer Communications
+VO 27
+SP 1375
+OP 1388
+IS 14
+
+RT Conference Proceedings
+ID 2184856
+A1 Foster,Ian,T.
+A1 Gieraltowski,Jerry
+A1 Gose,Scott
+A1 Maltsev,Natalia
+A1 May,Edward,N.
+A1 Rodriguez,Alex
+A1 Sulakhe,Dinanath
+A1 Vaniachine,A.
+A1 Shank,Jim
+A1 Youssef,Saul
+A1 Adams,David
+A1 Baker,Richard
+A1 Deng,Wensheng
+A1 Smith,Jason
+A1 Yu,Dantong
+A1 Legrand,Iosif
+A1 Singh,Suresh
+A1 Steenberg,Conrad
+A1 Xia,Yang
+A1 Afaq,M.,Anzar
+A1 Berman,Eileen
+A1 Annis,James
+A1 Bauerdick,L.,A.,T.
+A1 Ernst,Michael
+A1 Fisk,Ian
+A1 Giacchetti,Lisa
+A1 Graham,Gregory,E.
+A1 Heavey,Anne
+A1 Kaiser,Joseph
+A1 Kuropatkin,Nickolai
+A1 Pordes,Ruth
+A1 Sekhri,Vijay
+A1 Weigand,John
+A1 Wu,Yujun
+A1 Baker,Keith
+A1 Sorrillo,Lawrence
+A1 Huth,John
+A1 Allen,Matthew
+A1 Grundhoefer,Leigh
+A1 Hicks,John
+A1 Luehring,Fred
+A1 Peck,Steve
+A1 Quick,Rob
+A1 Simms,Stephen
+A1 Fekete,George
+A1 Vandenberg,Jan
+A1 Cho,Kihyeon
+A1 Kwon,Kihwan
+A1 Son,Dongchul
+A1 Canon,Shane
+A1 Jackson,Keith,R.
+A1 Konerding,David,E.
+A1 Lee,Jason
+A1 Olson,Doug
+A1 Sakrejda,Iowa
+A1 Tierney,Brian
+A1 Green,Mark
+A1 Miller,Russ
+A1 Letts,James
+A1 Martin,Terrence
+A1 Bury,David
+A1 Dumitrescu,Catalin
+A1 Engh,Daniel
+A1 Gardner,Robert
+A1 Mambelli,Marco
+A1 Smirnov,Yuri
+A1 Vöckler,Jens-S.
+A1 Wilde,Michael
+A1 Zhao,Yong
+A1 Zhao,Xin
+A1 Avery,Paul
+A1 Cavanaugh,Richard
+A1 Kim,Bockjoo
+A1 Prescott,Craig
+A1 Rodriguez,Jorge,Luis
+A1 Zahn,Andrew
+A1 Mckee,Shawn
+A1 Jordan,Christopher,T.
+A1 Prewett,James,E.
+A1 Thomas,Timothy,L.
+A1 Severini,Horst
+A1 Clifford,Ben
+A1 Flon,Larry
+A1 Kesselman,Carl
+A1 Mehta,Gaurang
+A1 Olomu,Nosa
+A1 Vahi,Karan
+A1 De,Kaushik
+A1 Mcguigan,Patrick
+A1 Sosebee,Mark
+A1 Bradley,Dan
+A1 Couvares,Peter
+A1 Desmet,Alan
+A1 Kireyev,Carey
+A1 Paulson,Erik
+A1 Roy,Alain
+A1 Koranda,Scott
+A1 Moe,Brian
+A1 Brown,Bobby
+A1 Sheldon,Paul
+YR 2004
+T1 The Grid2003 Production Grid: Principles and Practice
+SP 236
+OP 245
+
+RT Conference Proceedings
+ID 1859684
+A1 Iamnitchi,Adriana
+A1 Ripeanu,Matei
+A1 Foster,Ian,T.
+YR 2004
+T1 Small-World File-Sharing Communities
+VO 2
+SP 952
+
+RT Journal Article
+ID 3265316
+A1 Tuecke,S.
+A1 Engert,D.
+A1 Foster,I.
+A1 Welch,V.
+A1 Thompson,M.
+A1 Pearlman,L.
+A1 Kesselman,C.
+YR 2004
+T1 Internet X. 509 Public Key Infrastructure Proxy Certificate Profile
+
+RT Journal Article
+ID 2576800
+A1 Rodriguez,Alex
+A1 Sulakhe,Dinanath
+A1 Marland,Elizabeth
+A1 Nefedova,Veronika
+A1 Maltsev,Natalia
+A1 Wilde,Michael
+A1 Foster,Ian
+YR 2004
+T1 A Grid-Enabled Service for High-Throughput Genome Analysis
+
+RT Conference Proceedings
+ID 1805063
+A1 Pearlman,Laura
+A1 Kesselman,Carl
+A1 Gullapalli,Sridhar
+A1 Jr.,B.,F.,Spencer
+A1 Futrelle,Joe
+A1 Ricker,Kathleen
+A1 Foster,Ian,T.
+A1 Hubbard,Paul
+A1 Severance,Charles
+YR 2004
+T1 Distributed Hybrid Earthquake Engineering Experiments: Experiences with a Ground-Shaking Grid Application
+SP 14
+OP 23
+
+RT Conference Proceedings
+ID 1813641
+A1 Liu,Chuang
+A1 Foster,Ian,T.
+YR 2004
+T1 A Constraint Language Approach to Matchmaking
+SP 7
+OP 14
+
+RT Journal Article
+ID 1713496
+A1 Dumitrescu,Catalin
+A1 Raicu,Ioan
+A1 Ripeanu,Matei
+A1 Foster,Ian,T.
+YR 2004
+T1 Diperf: an automated distributed performance testing framework
+VO cs.PF/0410
+SP 289
+OP 296
+
+RT Journal Article
+ID 1718313
+A1 Smith,Warren
+A1 Foster,Ian,T.
+A1 Taylor,Valerie,E.
+YR 2004
+T1 Predicting application run times with historical information
+JF Journal of Parallel and Distributed Computing
+VO 64
+SP 1007
+OP 1016
+IS 9
+
+RT Journal Article
+ID 2056093
+A1 Czajkowski,K.
+A1 Foster,I.
+A1 Kesselman,C.
+YR 2004
+T1 Resource and Service Management
+
+RT Conference Proceedings
+ID 4263047
+A1 Dumitrescu,Catalin
+A1 Foster,Ian,T.
+YR 2004
+T1 Usage Policy-Based CPU Sharing in Virtual Organizations
+SP 53
+OP 60
+
+RT Journal Article
+ID 2410439
+A1 Czajkowski,K.
+A1 Ferguson,D.
+A1 Foster,I.
+A1 Frey,J.
+A1 Graham,S.
+A1 Sedukhin,I.
+A1 Snelling,D.
+A1 Tuecke,S.
+A1 Vam-benepe,W.
+YR 2004
+T1 The Web Services Resource Framework
+
+RT Journal Article
+ID 4120022
+A1 Iamnitchi,Adriana
+A1 Foster,Ian
+YR 2004
+T1 A PEER-TO-PEER APPROACH TO RESOURCE LOCATION IN GRID ENVIRONMENTS
+
+RT Conference Proceedings
+ID 1236108
+A1 Zhao,Yong
+A1 Wilde,Michael
+A1 Foster,Ian,T.
+A1 Voeckler,Jens
+A1 Jordan,Thomas
+A1 Quigg,Elizabeth
+A1 Dobson,James,E.
+YR 2004
+T1 Grid middleware services for virtual data discovery, composition, and integration
+SP 57
+OP 62
+
+RT Journal Article
+ID 2800052
+A1 Schissel,D.,P.
+A1 Burruss,J.,R
+A1 Finkelstein,A
+A1 Flanagan,S.,M
+A1 Foster,I.,T
+A1 Fredian,T.,W
+A1 Greenwald,M.,J
+A1 Johnson,C.,R
+A1 Keahey,K
+A1 Klasky,S.,A
+A1 Li,K
+A1 McCune,D.,C
+A1 Papka,M
+A1 Peng,Q
+A1 Randerson,L
+A1 Sanderson,A
+A1 Stillerman,J
+A1 Stevens,R
+A1 Thompson,M.,R
+A1 Wallace,G
+YR 2004
+T1 Building the US National Fusion Grid: results from the National Fusion Collaboratory Project
+JF Fusion Engineering and Design
+VO 71
+SP 245
+OP 250
+IS 1
+
+RT Conference Proceedings
+ID 1848108
+A1 Ranganathan,Kavitha
+A1 Ripeanu,Matei
+A1 Sarin,Ankur
+A1 Foster,Ian,T.
+YR 2004
+T1 Incentive mechanisms for large collaborative resource sharing
+SP 1
+OP 8
+
+RT Journal Article
+ID 2976098
+A1 Kesselman,C.
+A1 Prudhomme,T.
+A1 Foster,I.
+YR 2004
+T1 Distributed Telepresence: The NEESgrid Earthquake Engineering Collaboratory
+
+RT Journal Article
+ID 1713582
+A1 Dumitrescu,Catalin
+A1 Foster,Ian,T.
+YR 2004
+T1 Usage Policy-based CPU Sharing in VOs
+JF Computing Research Repository
+VO cs.DC/0411
+
+RT Journal Article
+ID 4074380
+A1 Dumitrescu,Catalin,L.
+A1 Foster,Ian
+YR 2004
+T1 VO-Centric Ganglia Simulator
+
+RT Journal Article
+ID 3124226
+A1 Czajkowski,K.
+A1 Ferguson,D.
+A1 Foster,I.
+A1 Frey,J.
+A1 Graham,S.
+A1 Maguire,T.
+A1 Snelling,D.
+A1 Tuecke,S.
+YR 2004
+T1 From OGSI to WS-Resource Framework: Refactoring and Evolution
+
+RT Journal Article
+ID 4046358
+A1 Dumitrescu,C
+A1 Wilde,M
+A1 Foster,I
+YR 2004
+T1 Usage Policy at the Site Level in Grid3
+
+RT Conference Proceedings
+ID 1805047
+A1 Ripeanu,Matei
+A1 Bowman,Mic
+A1 Chase,Jeffrey,S.
+A1 Foster,Ian,T.
+A1 Milenkovic,Milan
+YR 2004
+T1 Globus and PlanetLab Resource Management Solutions Compared
+SP 246
+OP 255
+
+RT Journal Article
+ID 10170942
+A1 Beldica,C.
+A1 Futrelle,J.
+A1 Gullapalli,S.
+A1 Hubbard,P.
+A1 Liming,L.
+A1 Marcusiu,D.
+A1 Pearlman,L.
+A1 Severance,C.
+A1 Yang,G.
+YR 2004
+T1 NEESgrid: A Distributed Collaboratory for Advanced Earthquake Engineering Experiment and Simulation
+
+RT Conference Proceedings
+ID 1234894
+A1 Almes,Guy,T.
+A1 Cummings,Jonathon,N.
+A1 Birnholtz,Jeremy,P.
+A1 Foster,Ian,T.
+A1 Hey,Tony
+A1 Spencer,Bill
+YR 2004
+T1 CSCW and cyberinfrastructure: opportunities and challenges
+SP 270
+OP 273
+
+RT Conference Proceedings
+ID 50364933
+A1 Foster,I.
+A1 Gieraltowski,J.
+A1 Gose,S.
+A1 Maltsev,N.
+A1 May,E.
+A1 Rodriguez,A.
+A1 Sulakhe,D.
+A1 Vaniachine,A.
+A1 Shank,J.
+A1 Youssef,S.
+A1 Baker,R.
+A1 Deng,W.
+A1 Smith,J.
+A1 Yu,D.
+A1 Legrand,I.
+A1 Singh,S.
+A1 Steenberg,C.
+A1 Xia,Y.
+A1 Afaq,A.
+A1 Berman,E.
+A1 Annis,J.
+A1 Bauerdick,L.,A.,T.
+A1 Ernst,M.
+A1 Fisk,I.
+A1 Giacchetti,L.
+A1 Graham,G.
+A1 Heavey,A.
+A1 Kaiser,J.
+A1 Kuropatkin,N.
+A1 Pordes,R.
+A1 Sekhri,V.
+A1 Weigand,J.
+A1 Wu,Y.
+A1 Baker,K.
+A1 Sorrillo,L.
+A1 Huth,J.
+A1 Allen,M.
+A1 Grundhoefer,L.
+A1 Hicks,J.
+A1 Luehring,F.
+A1 Peck,S.
+A1 Quick,R.
+A1 Simms,S.
+A1 Fekete,G.
+A1 VandenBerg,J.
+A1 Cho,K.
+A1 Kwon,K.
+A1 Son,D.
+A1 Canon,S.
+A1 Jackson,K.
+A1 Konerding,D.,E.
+A1 Lee,J.
+A1 Olson,D.
+A1 Sakrejda,I.
+A1 Tierney,B.
+A1 Green,M.
+A1 Miller,R.
+A1 Letts,J.
+A1 Martin,T.
+A1 Bury,D.
+A1 Dumitrescu,C.
+A1 Engh,D.
+A1 Gardner,R.
+A1 Mambelli,M.
+A1 Smirnov,Y.
+A1 Voeckler,J.
+A1 Wilde,M.
+A1 Zhao,Y.
+A1 Zhao,X.
+A1 Avery,P.
+A1 Cavanaugh,R.
+A1 Kim,B.
+A1 Prescott,C.
+A1 Rodriguez,J.
+A1 Zahn,A.
+A1 McKee,S.
+A1 Jordan,C.
+A1 Prewett,J.
+A1 Thomas,T.
+A1 Severini,H.
+A1 Clifford,B.
+A1 Flon,L.
+A1 Kesselman,C.
+A1 Mehta,G.
+A1 Olomu,N.
+A1 Vahi,K.
+A1 De,K.
+A1 McGuigan,P.
+A1 Sosebee,M.
+A1 Bradley,D.
+A1 Couvares,P.
+A1 Smet,A.,De
+A1 Kireyev,C.
+A1 Paulson,E.
+A1 Roy,A.
+A1 Koranda,S.
+A1 Moe,B.
+A1 Brown,B.
+A1 Sheldon,P.
+YR 2004
+T1 The Grid2003 production grid: principles and practice
+SP 236
+OP 245
+
+RT Book, Whole
+ID 1868361
+A1 Foster,Ian,T.
+YR 2004
+T1 The Grid: Beyond the Hype
+SP 1
+
+RT Conference Proceedings
+ID 50364912
+A1 Pearlman,Laura
+A1 Kesselman,Carl
+A1 Gullapalli,Sridhar
+A1 Futrelle,J.
+A1 Ricker,K.
+A1 Foster,I.
+A1 Hubbard,P.
+A1 Severance,C.
+YR 2004
+T1 Distributed hybrid earthquake engineering experiments: experiences with a ground-shaking grid application
+SP 14
+OP 23
+
+RT Conference Proceedings
+ID 50383891
+A1 Foster,Ian
+A1 Jennings,Nicholas,R.
+A1 Kesselman,Carl
+YR 2004
+T1 Brain meets brawn:why grid and agents need each other
+
+RT Conference Proceedings
+ID 50364934
+A1 Ripeanu,Matei
+A1 Bowman,Mic
+A1 Chase,Jeffrey,S.
+A1 Foster,Ian
+A1 Milenkovic,Milan
+YR 2004
+T1 Globus and PlanetLab resource management solutions compared
+SP 246
+OP 255
+
+RT Journal Article
+ID 59092188
+A1 Baban,Serwan,MJ
+A1 Wan-Yusof,Kamruzaman
+A1 Foster,Ian
+A1 Ramlal,Bheshem
+YR 2004
+T1 Modelling the optimum routes for linking potential reservoir sites to demand area in mountainous tropical islands
+
+RT Journal Article
+ID 42349555
+A1 BABAN,SERWAN,M.,J.
+A1 FOSTER,IAN
+YR 2004
+T1 An examination of land use change due to irrigated agriculture in north‐eastern Jordan using geoinformatics
+JF International Journal of Environmental Studies
+VO 61
+SP 337
+OP 350
+IS 3
+
+RT Conference Proceedings
+ID 1806122
+A1 Johnson,John,R.
+A1 Foster,Ian,T.
+YR 2004
+T1 Ouroboros: A Tool for Building Generic, Hybrid, Divide and Conquer Algorithms
+
+RT Conference Proceedings
+ID 906164
+A1 Foster,Ian,T.
+YR 2004
+T1 Grid Small and Large: Distributed Systems and Global Communities
+SP 27
+
+RT Journal Article
+ID 59093701
+A1 Al-Adamat,Rida
+A1 Baban,Serwan,MJ
+A1 Foster,Ian
+YR 2004
+T1 An examination of agricultural land use change in the north-eastern Badia, Jordan using remote sensing and GIS
+
+RT Journal Article
+ID 5330913
+A1 Dumitrescu,Catalin,L.
+A1 Wilde,Michael
+A1 Foster,Ian
+YR 2004
+T1 Usage Policies at the Site Level in Grid
+
+RT Journal Article
+ID 3941110
+A1 Foster,I.
+A1 Kesselman,C.
+A1 Nick,J.,M.
+A1 Tuecke,S.
+YR 2003
+T1 The Physiology of Grid: Open Grid Services Architecture for Distributed Systems Integration
+
+RT Book, Whole
+ID 27810582
+A1 Foster,Ian
+A1 Kesselman,Carl
+YR 2003
+T1 The Grid: Blueprint for a New Computing Infrastructure
+
+RT Journal Article
+ID 795254
+A1 Karonis,Nicholas,T.
+A1 Toonen,Brian,R.
+A1 Foster,Ian,T.
+YR 2003
+T1 MPICH-G2: A Grid-enabled implementation of the Message Passing Interface
+JF Journal of Parallel and Distributed Computing
+VO 63
+SP 551
+OP 563
+IS 5
+
+RT Conference Proceedings
+ID 22952
+A1 Welch,Von
+A1 Siebenlist,Frank
+A1 Foster,Ian,T.
+A1 Bresnahan,John
+A1 Czajkowski,Karl
+A1 Gawor,Jarek
+A1 Kesselman,Carl
+A1 Meder,Sam
+A1 Pearlman,Laura
+A1 Tuecke,Steven
+YR 2003
+T1 Security for Grid Services
+VO cs.CR/0306
+SP 48
+OP 57
+
+RT Book, Whole
+ID 617551
+A1 Foster,Ian,T.
+A1 Iamnitchi,Adriana
+YR 2003
+T1 On Death, Taxes, and the Convergence of Peer-to-Peer and Grid Computing
+SP 118
+OP 128
+
+RT Journal Article
+ID 2409804
+A1 Foster,I.
+A1 Kesselmann,C.
+A1 Nick,J.,M.
+A1 Tuecke,S.
+YR 2003
+T1 The Physiology of the Grid
+
+RT Journal Article
+ID 1357889
+A1 Tuecke,S.
+A1 Czajkowski,K.
+A1 Foster,I.
+A1 Frey,J.
+A1 Graham,S.
+A1 Kesselman,C.
+A1 Maquire,T.
+A1 Standholm,T.
+A1 Snelling,D.
+A1 Vanderbilt,P.
+YR 2003
+T1 Open grid services infrastructure (ogsi) version 1. 0
+
+RT Conference Proceedings
+ID 499348
+A1 Foster,Ian,T.
+A1 Vöckler,Jens-S.
+A1 Wilde,Michael
+A1 Zhao,Yong
+YR 2003
+T1 The Virtual Data Grid: A New Model and Architecture for Data-Intensive Collaboration
+SP 11
+
+RT Journal Article
+ID 20491
+A1 Ranganathan,Kavitha
+A1 Ripeanu,Matei
+A1 Sarin,Ankur
+A1 Foster,Ian
+YR 2003
+T1 'To Share or not to Share' An Analysis of Incentives to Contribute in Collaborative File Sharing Environments
+
+RT Journal Article
+ID 19338
+A1 Pearlman,Laura
+A1 Welch,Von
+A1 Foster,Ian,T.
+A1 Kesselman,Carl
+A1 Tuecke,Steven
+YR 2003
+T1 The Community Authorization Service: Status and Future
+JF Computing Research Repository
+VO cs.SE/0306
+
+RT Journal Article
+ID 1739899
+A1 Ranganathan,Kavitha
+A1 Foster,Ian,T.
+YR 2003
+T1 Simulation Studies of Computation and Data Scheduling Algorithms for Data Grids
+JF Journal of Grid Computing
+VO 1
+SP 53
+OP 62
+IS 1
+
+RT Conference Proceedings
+ID 1241098
+A1 Yang,Lingyun
+A1 Schopf,Jennifer,M.
+A1 Foster,Ian,T.
+YR 2003
+T1 Conservative Scheduling: Using Predicted Variance to Improve Scheduling Decisions in Dynamic Environments
+SP 31
+
+RT Journal Article
+ID 4187188
+A1 Nagaratnam,Nataraj
+A1 Janson,Philippe
+A1 Dayka,John
+A1 Nadalin,Anthony
+A1 Siebenlist,Frank
+A1 Welch,Von
+A1 Foster,Ian
+A1 Tuecke,Steve
+YR 2003
+T1 The Security Architecture for Open Grid Services
+
+RT Journal Article
+ID 780111
+A1 Iamnitchi,Adriana
+A1 Ripeanu,Matei
+A1 Foster,Ian,T.
+YR 2003
+T1 Small-World File-Sharing Communities
+JF Computing Research Repository
+VO cs.DC/0307
+
+RT Journal Article
+ID 3904836
+A1 Foster,Ian
+YR 2003
+T1 The Grid: Computing without Bounds
+JF Scientific American
+VO 288
+SP 78
+OP 85
+IS 4
+
+RT Conference Proceedings
+ID 20617
+A1 Yang,Lingyun
+A1 Foster,Ian,T.
+A1 Schopf,Jennifer,M.
+YR 2003
+T1 Homeostatic and Tendency-Based CPU Load Predictions
+SP 42
+
+RT Journal Article
+ID 774369
+A1 Foster,Ian,T.
+A1 Grossman,Robert,L.
+YR 2003
+T1 Data integration in a bandwidth-rich world
+JF Communications of The ACM
+VO 46
+SP 50
+OP 57
+IS 11
+
+RT Journal Article
+ID 2068925
+A1 Foster,Ian
+A1 Gannon,D.
+YR 2003
+T1 The Open Grid Services Architecture Platform
+
+RT Conference Proceedings
+ID 2081804
+A1 Liu,Chuang
+A1 Foster,Ian
+YR 2003
+T1 A Constraint Language Approach to Grid Resource Selection
+
+RT Conference Proceedings
+ID 647270
+A1 Pouchard,Line
+A1 Cinquini,Luca
+A1 Drach,Bob
+A1 Middleton,Don
+A1 Bernholdt,David,E.
+A1 Chanchio,Kasidit
+A1 Foster,Ian,T.
+A1 Nefedova,Veronika
+A1 Brown,David
+A1 Fox,Peter
+A1 Garcia,Jose
+A1 Strand,Gary
+A1 Williams,Dean
+A1 Chervenak,Ann,L.
+A1 Kesselman,Carl
+A1 Shoshani,Arie
+A1 Sim,Alex
+YR 2003
+T1 An Ontology for Scientific Information in a Grid Environment: the Earth System Grid
+SP 626
+OP 632
+
+RT Journal Article
+ID 3163152
+A1 Foster,I.
+A1 Kesselman,C.
+A1 Nick,J.,M.
+A1 Tuecke,S.
+YR 2003
+T1 Grid Computing: Making the Global Infrastructure a Reality
+
+RT Journal Article
+ID 2064697
+A1 Dail,Holly
+A1 Sievert,Otto
+A1 Berman,Fran
+A1 Casanova,Henri
+A1 YarKhan,Asim
+A1 Vadhiyar,Sathish
+A1 Dongarra,Jack
+A1 Liu,Chuang
+A1 Yang,Lingyun
+A1 Angulo,Dave
+A1 Foster,Ian
+YR 2003
+T1 SCHEDULING IN THE GRID APPLICATION DEVELOPMENT SOFTWARE PROJECT
+
+RT Journal Article
+ID 984129
+A1 Douglis,Fred
+A1 Foster,I.
+YR 2003
+T1 The grid grows up
+JF IEEE Internet Computing
+VO 7
+SP 24
+OP 26
+IS 4
+
+RT Journal Article
+ID 44887035
+A1 Dawson,Alastair,G.
+A1 Elliott,Lorne
+A1 Mayewski,Paul
+A1 Lockett,Peter
+A1 Noone,Sean
+A1 Hickey,Kieran
+A1 Holt,Tom
+A1 Wadhams,Peter
+A1 Foster,Ian
+YR 2003
+T1 Late-Holocene North Atlantic climate ‘seesaws’, storminess changes and Greenland ice sheet (GISP2) palaeoclimates
+JF Holocene
+VO 13
+SP 381
+OP 392
+IS 3
+
+RT Journal Article
+ID 36197
+A1 Iamnitchi,Adriana
+A1 Ripeanu,Matei
+A1 Foster,Ian,T.
+YR 2003
+T1 Data-Sharing Relationships in the Web
+JF Computing Research Repository
+VO cs.NI/0302
+
+RT Journal Article
+ID 709712
+A1 Allcock,Bill
+A1 Foster,Ian
+A1 Nefedova,Veronika
+A1 Chervenak,Ann
+A1 Deelman,Ewa
+A1 Kesselman,Carl
+A1 Lee,Jason
+A1 Sim,Alex
+A1 Shoshani,Arie
+A1 Drach,Bob
+A1 Williams,Dean
+A1 Middleton,Don
+YR 2003
+T1 High-performance remote access to climatesimulation data: a challenge problemfor data grid technologies
+JF Parallel Computing
+VO 29
+SP 1335
+OP 1356
+IS 10
+
+RT Journal Article
+ID 3583283
+A1 Dumitrescu,C.
+A1 Wilde,M.
+A1 Foster,I.
+YR 2003
+T1 Policy-based CPU Scheduling in VOs
+
+RT Journal Article
+ID 3583313
+A1 Dumitrescu,C.
+A1 Wilde,M.
+A1 Foster,I.
+YR 2003
+T1 Policy-based resource allocation for virtual organizations
+
+RT Journal Article
+ID 2540574
+A1 Tuecke,S.
+A1 Engert,D.
+A1 Foster,I.
+A1 Thompson,M.
+A1 Pearlman,L.
+A1 Kesselman,L.,C.
+YR 2003
+T1 509 Public Key Infrastructure Proxy Certificate Profile
+
+RT Journal Article
+ID 3154014
+A1 Tuecke,S.
+A1 Czajkowski,K.
+A1 Foster,I.
+A1 Frey,J.
+A1 Graham,S.
+A1 Kesselman,C.
+A1 Maguire,T.
+A1 Sandholm,T.
+A1 Vanderbilt,P.
+A1 Snelling,D.
+YR 2003
+T1 Global Grid Forum Draft Recommendation
+
+RT Conference Proceedings
+ID 4664003
+A1 Welch,Von
+A1 Siebenlist,Frank
+A1 Foster,Ian
+A1 Bresnahan,John
+A1 Czajkowski,Karl
+A1 Gawor,Jarek
+A1 Kesselman,Carl
+A1 Meder,Sam
+A1 Pearlman,Laura
+YR 2003
+T1 GSI3: Security for Grid Services
+
+RT Conference Proceedings
+ID 476460
+A1 Foster,Ian,T.
+YR 2003
+T1 Building an Open Grid
+SP 191
+
+RT Journal Article
+ID 779398
+A1 Keahey,Katarzyna
+A1 Fredian,T.,W.
+A1 Peng,Qian
+A1 Schissel,David,P.
+A1 Thompson,Mary,R.
+A1 Foster,Ian,T.
+A1 Greenwald,M.,J.
+A1 Mccune,Douglas
+YR 2003
+T1 Computational Grids in Action: The National Fusion Collaboratory
+JF Computing Research Repository
+VO cs.DC/0301
+
+RT Journal Article
+ID 4193438
+A1 Foster,I.
+YR 2003
+T1 Common middleware and SciDAC collaborations
+
+RT Journal Article
+ID 51228200
+A1 Williams,D.
+A1 Middleton,D.
+A1 Foster,I.
+A1 Nevedova,V.
+A1 Kesselman,C.
+A1 Chervenak,A.
+A1 Bharathi,S.
+A1 Drach,B.
+A1 Cinquni,L.
+A1 Brown,D.
+A1 Strand,G.
+A1 Fox,P.
+A1 Garcia,J.
+A1 Bernholdte,D.
+A1 Chanchio,K.
+A1 Pouchard,L.
+A1 Chen,M.
+A1 Shoshani,A.
+A1 Sim,A.
+YR 2003
+T1 Earth System Grid II (ESG): Turning Climate Model Datasets Into Community Resources
+
+RT Journal Article
+ID 861003
+A1 Douglis,Fred
+A1 Foster,Ian,T.
+YR 2003
+T1 Guest Editors' Introduction: The Grid Grows Up
+JF IEEE Internet Computing
+VO 7
+SP 24
+OP 26
+IS 4
+
+RT Journal Article
+ID 1732259
+A1 Douglis,Fred
+A1 Foster,Ian,T.
+YR 2003
+T1 IEEE Internet Computing: Guest Editors' Introduction - The Grid Grows Up
+JF IEEE Distributed Systems Online
+VO 4
+IS 7
+
+RT Conference Proceedings
+ID 50303885
+A1 Yang,Lingyun
+A1 Schopf,Jennifer,M.
+A1 Foster,Ian
+YR 2003
+T1 Conservative Scheduling: Using Predicted Variance to Improve Scheduling Decisions in Dynamic Environments
+
+RT Journal Article
+ID 1739874
+A1 Foster,Ian,T.
+A1 Kacsuk,Péter
+YR 2003
+T1 Editors' Message
+JF Journal of Grid Computing
+VO 1
+SP 1
+OP 2
+IS 1
+
+RT Journal Article
+ID 60567461
+A1 Johnson,J,R
+A1 Foster,I
+YR 2003
+T1 Ouroboros: A Tool for Building Generic, Hybrid, Divide& Conquer Algorithms
+
+RT Journal Article
+ID 15289
+A1 Foster,Ian
+A1 Kesselman,Carl
+A1 Nick,Jeffrey,M.
+A1 Tuecke,Steven
+YR 2002
+T1 The Physiology of the Grid An Open Grid Services Architecture for Distributed Systems Integration
+
+RT Journal Article
+ID 847645
+A1 Foster,Ian,T.
+A1 Kesselman,Carl
+A1 Nick,Jeffrey,M.
+A1 Tuecke,Steven
+YR 2002
+T1 Grid Services for Distributed System Integration
+JF IEEE Computer
+VO 35
+SP 37
+OP 46
+IS 6
+
+RT Journal Article
+ID 73942
+A1 Ripeanu,Matei
+A1 Foster,Ian,T.
+A1 Iamnitchi,Adriana
+YR 2002
+T1 Mapping the gnutella network: Properties of large-scale peer-to-peer systems and implications for system design
+JF Computing Research Repository
+VO 6
+
+RT Conference Proceedings
+ID 86725
+A1 Pearlman,Laura
+A1 Welch,Von
+A1 Foster,Ian,T.
+A1 Kesselman,Carl
+A1 Tuecke,Steven
+YR 2002
+T1 A Community Authorization Service for Group Collaboration
+SP 50
+OP 59
+
+RT Journal Article
+ID 2055371
+A1 Foster,I.
+YR 2002
+T1 What is the grid? a three point checklist
+
+RT Journal Article
+ID 1417705
+A1 Foster,Ian
+YR 2002
+T1 The Grid: A new infrastructure for 21st century science
+JF Physics Today
+VO 55
+SP 42
+OP 47
+IS 2
+
+RT Journal Article
+ID 709869
+A1 Allcock,Bill
+A1 Bester,Joseph
+A1 Bresnahan,John
+A1 Chervenak,Ann,L.
+A1 Foster,Ian,T.
+A1 Kesselman,Carl
+A1 Meder,Sam
+A1 Nefedova,Veronika
+A1 Quesnel,Darcy
+A1 Tuecke,Steven
+YR 2002
+T1 Data management and transfer in high-performance computational grid environments
+JF Parallel Computing
+VO 28
+SP 749
+OP 771
+IS 5
+
+RT Conference Proceedings
+ID 57635
+A1 Chervenak,Ann,L.
+A1 Deelman,Ewa
+A1 Foster,Ian,T.
+A1 Guy,Leanne
+A1 Hoschek,Wolfgang
+A1 Iamnitchi,Adriana
+A1 Kesselman,Carl
+A1 Kunszt,Peter,Z.
+A1 Ripeanu,Matei
+A1 Schwartzkopf,Bob
+A1 Stockinger,Heinz
+A1 Stockinger,Kurt
+A1 Tierney,Brian
+YR 2002
+T1 Giggle: a framework for constructing scalable replica location services
+SP 1
+OP 17
+
+RT Journal Article
+ID 801385
+A1 Frey,James
+A1 Tannenbaum,Todd
+A1 Livny,Miron
+A1 Foster,Ian,T.
+A1 Tuecke,Steven
+YR 2002
+T1 Condor-G: A Computation Management Agent for Multi-Institutional Grids
+JF Cluster Computing
+VO 5
+SP 237
+OP 246
+IS 3
+
+RT Conference Proceedings
+ID 10040577
+A1 Foster,Ian
+A1 Voeckler,J.
+A1 Wilde,Michael
+A1 Zhao,Yong
+YR 2002
+T1 Chimera: A Virtual Data System for Representing, Querying, and Automating Data Derivation
+SP 37
+OP 46
+
+RT Journal Article
+ID 861177
+A1 Ripeanu,Matei
+A1 Iamnitchi,Adriana
+A1 Foster,Ian,T.
+YR 2002
+T1 Mapping the Gnutella Network
+JF IEEE Internet Computing
+VO 6
+SP 50
+OP 57
+IS 1
+
+RT Book, Whole
+ID 2069183
+A1 Czajkowski,Karl
+A1 Foster,Ian,T.
+A1 Kesselman,Carl
+A1 Sander,Volker
+A1 Tuecke,Steven
+YR 2002
+T1 SNAP: A Protocol for Negotiating Service Level Agreements and Coordinating Resource Management in Distributed Systems
+SP 153
+OP 183
+
+RT Conference Proceedings
+ID 80816
+A1 Ranganathan,Kavitha
+A1 Foster,Ian,T.
+YR 2002
+T1 Decoupling Computation and Data Scheduling in Distributed Data-Intensive Applications
+SP 352
+OP 358
+
+RT Journal Article
+ID 2408528
+A1 Foster,Ian
+A1 Kesselman,Carl
+A1 Tuecke,Steve
+YR 2002
+T1 The Anatomy of the Grid: Enabling Scalable Virtual Organizations
+JF IEEE Internet Computing
+
+RT Book, Whole
+ID 82260
+A1 Ripeanu,Matei
+A1 Foster,Ian,T.
+YR 2002
+T1 Mapping the Gnutella Network: Macroscopic Properties of Large-Scale Peer-to-Peer Systems
+SP 85
+OP 93
+
+RT Conference Proceedings
+ID 632329
+A1 Foster,Ian,T.
+A1 Vöckler,Jens-S.
+A1 Wilde,Michael
+A1 Zhao,Yong
+YR 2002
+T1 Chimera: AVirtual Data System for Representing, Querying, and Automating Data Derivation
+SP 37
+OP 46
+
+RT Conference Proceedings
+ID 68520
+A1 Liu,Chuang
+A1 Yang,Lingyun
+A1 Foster,Ian,T.
+A1 Angulo,Dave
+YR 2002
+T1 Design and Evaluation of a Resource Selection Framework for Grid Applications
+SP 63
+OP 72
+
+RT Conference Proceedings
+ID 58315
+A1 Annis,James
+A1 Zhao,Yong
+A1 Voeckler,Jens
+A1 Wilde,Michael
+A1 Kent,Steve
+A1 Foster,Ian,T.
+YR 2002
+T1 Applying Chimera virtual data concepts to cluster finding in the Sloan Sky Survey
+SP 1
+OP 14
+
+RT Conference Proceedings
+ID 2607597
+A1 Iamnitchi,Adriana
+A1 Foster,Ian,T.
+A1 Nurmi,Daniel
+YR 2002
+T1 A Peer-to-Peer Approach to Resource Location in Grid Environments
+SP 419
+
+RT Conference Proceedings
+ID 86113
+A1 Ranganathan,Kavitha
+A1 Iamnitchi,Adriana
+A1 Foster,Ian,T.
+YR 2002
+T1 Improving Data Availability through Dynamic Model-Driven Replication in Large Peer-to-Peer Communities
+SP 376
+OP 381
+
+RT Journal Article
+ID 2379023
+A1 Ripeanu,M.
+A1 Foster,I.
+YR 2002
+T1 Properties of Large-Scale Peer-to-Peer Systems and Implications for System Design
+
+RT Journal Article
+ID 3265314
+A1 Tuecke,S.
+A1 Engert,D.
+A1 Foster,I.
+A1 H,V.,Welc
+A1 Thompson,M.
+A1 Pearlman,L.
+A1 Kesselman,C.
+YR 2002
+T1 Internet X. 509 Public Key Infrastructure Proxy Certificate Profile
+
+RT Conference Proceedings
+ID 83317
+A1 Kennedy,Ken
+A1 Mazina,Mark
+A1 Mellor-crummey,John,M.
+A1 Cooper,Keith,D.
+A1 Torczon,Linda
+A1 Berman,Francine
+A1 Chien,Andrew,A.
+A1 Dail,Holly
+A1 Sievert,Otto
+A1 Angulo,Dave
+A1 Foster,Ian,T.
+A1 Aydt,Ruth,A.
+A1 Reed,Daniel,A.
+A1 Gannon,Dennis
+A1 Johnsson,S.,Lennart
+A1 Kesselman,Carl
+A1 Dongarra,Jack
+A1 Vadhiyar,Sathish,S.
+A1 Wolski,Richard
+YR 2002
+T1 Toward a Framework for Preparing and Executing Adaptive Grid Programs
+
+RT Book, Whole
+ID 69013
+A1 Iamnitchi,Adriana
+A1 Ripeanu,Matei
+A1 Foster,Ian,T.
+YR 2002
+T1 Locating Data in (Small-World?) Peer-to-Peer Scientific Collaborations
+JF Computing Research Repository
+VO cs.DC/0209
+SP 232
+OP 241
+
+RT Conference Proceedings
+ID 74606
+A1 Vazhkudai,Sudharshan
+A1 Schopf,Jennifer,M.
+A1 Foster,Ian,T.
+YR 2002
+T1 Predicting the Performance of Wide Area Data Transfers
+
+RT Journal Article
+ID 2047856
+A1 Foster,I.
+A1 Kesselman,C.
+A1 Nick,J.
+A1 Tuecke,S.
+YR 2002
+T1 Open Grid Service Infrastructure WG
+
+RT Journal Article
+ID 52792
+A1 Iamnitchi,Adriana
+A1 Foster,Ian
+A1 Nurmi,Daniel,C.
+YR 2002
+T1 A Peer-to-Peer Approach to Resource Discovery in Grid Environments
+
+RT Journal Article
+ID 15237228
+A1 Stockinger,Heinz
+A1 Samar,Asad
+A1 Holtman,Koen
+A1 Allcock,Bill
+A1 Foster,Ian
+A1 Tierney,Brian
+YR 2002
+T1 File and Object Replication in Data Grids
+JF Cluster Computing
+VO 5
+SP 305
+OP 314
+IS 3
+
+RT Journal Article
+ID 53814
+A1 Keahey,Katarzyna
+A1 Fredian,T.,W.
+A1 Peng,Qian
+A1 Schissel,David,P.
+A1 Thompson,Mary,R.
+A1 Foster,Ian,T.
+A1 Greenwald,M.,J.
+A1 McCune,Douglas
+YR 2002
+T1 Computational Grids in Action: The National Fusion Collaboratory
+JF Future Generation Computer Systems
+VO 18
+SP 1005
+OP 1015
+IS 8
+
+RT Journal Article
+ID 801392
+A1 Stockinger,Heinz
+A1 Samar,Asad
+A1 Holtman,Koen
+A1 Allcock,William,E.
+A1 Foster,Ian,T.
+A1 Tierney,Brian
+YR 2002
+T1 File and Object Replication in Data Grids
+JF Cluster Computing
+VO 5
+SP 305
+OP 314
+IS 3
+
+RT Journal Article
+ID 2064694
+A1 Foster,Ian
+A1 Alpert,Ethan
+A1 Chervenak,Ann
+A1 Drach,Bob
+A1 Kesselman,Carl
+A1 Nefedova,Veronika
+A1 Shoshani,Arie
+A1 Sim,Alex
+A1 Williams,Dean
+YR 2002
+T1 J3.3 The Earth System Grid II: Turning Climate Datasets Into Community Resources
+
+RT Journal Article
+ID 801345
+A1 Russell,Michael
+A1 Allen,Gabrielle
+A1 Daues,Greg
+A1 Foster,Ian,T.
+A1 Seidel,Edward
+A1 Novotny,Jason
+A1 Shalf,John
+A1 Laszewski,Gregor,Von
+YR 2002
+T1 The Astrophysics Simulation Collaboratory: A Science Portal Enabling Community Software Development
+JF Cluster Computing
+VO 5
+SP 297
+OP 304
+IS 3
+
+RT Journal Article
+ID 1711610
+A1 Karonis,Nicholas,T.
+A1 Toonen,Brian,R.
+A1 Foster,Ian,T.
+YR 2002
+T1 MPICH-G2: A Grid-Enabled Implementation of the Message Passing Interface
+JF Computing Research Repository
+VO cs.DC/0206
+
+RT Conference Proceedings
+ID 2560703
+A1 Ripeanu,M.
+A1 Foster,I.
+YR 2002
+T1 A Decentralized, Adaptive, Replica Location Service
+
+RT Journal Article
+ID 4089347
+A1 Foster,I.
+YR 2002
+T1 What is the Grid
+
+RT Journal Article
+ID 44886944
+A1 Dawson,A.,G.
+A1 Hickey,K.
+A1 Holt,T.
+A1 Elliott,L.
+A1 Dawson,S.
+A1 Foster,I.,D.,L.
+A1 Wadhams,P.
+A1 Jonsdottir,I.
+A1 Wilkinson,J.
+A1 McKenna,J.
+A1 Davis,N.,R.
+A1 Smith,D.,E.
+YR 2002
+T1 Complex North Atlantic Oscillation (NAO) Index signal of historic North Atlantic storm-track changes
+JF Holocene
+VO 12
+SP 363
+OP 369
+IS 3
+
+RT Journal Article
+ID 3904245
+A1 Berman,F.
+A1 Chien,A.
+A1 Cooper,K.
+A1 Dongarra,J.
+A1 Foster,I.
+A1 Gannon,D.
+A1 Johnson,L.
+A1 Kennedy,K.
+A1 Kesselman,C.
+A1 Mellor-crummey,J.
+A1 Reed,D.
+A1 Torczon,L.
+A1 Wolski,R.
+YR 2002
+T1 The GrADS project: Software support for high-level grid application development
+
+RT Conference Proceedings
+ID 543614
+A1 Ripeanu,Matei
+A1 Foster,Ian,T.
+YR 2002
+T1 A Decentralized, Adaptive Replica Location Mechanism
+SP 24
+OP 32
+
+RT Journal Article
+ID 35151333
+A1 Chien,Andrew
+A1 Foster,Ian
+A1 Goddette,Dean
+YR 2002
+T1 Grid technologies empowering drug discovery
+JF Drug Discovery Today
+VO 7
+IS 20
+
+RT Journal Article
+ID 3163279
+A1 Tuecke,S.
+A1 Czajkowski,K.
+A1 Foster,I.
+A1 Frey,J.
+A1 Graham,S.
+A1 Kesselman,C.
+YR 2002
+T1 Grid Service Specification draft 3
+
+RT Journal Article
+ID 15237221
+A1 Frey,James
+A1 Tannenbaum,Todd
+A1 Livny,Miron
+A1 Foster,Ian
+A1 Tuecke,Steven
+YR 2002
+T1 Condor-G: A Computation Management Agent for Multi-Institutional Grids
+JF Cluster Computing
+VO 5
+SP 237
+OP 246
+IS 3
+
+RT Conference Proceedings
+ID 2137485
+A1 Laszewski,Gregor,Von
+A1 Gawor,Jarek
+A1 Na,Carlos,J.,Pe
+A1 Foster,Ian
+YR 2002
+T1 InfoGram: A Peer-to-Peer Information and Job Submission Service
+
+RT Conference Proceedings
+ID 3838263
+A1 Foster,I.
+A1 Iamnitchi,A.
+YR 2002
+T1 Taxes and the Convergence of Peer-to-Peer and Grid Computing
+
+RT Journal Article
+ID 858361
+A1 Laszewski,Gregor,Von
+A1 Russell,Michael
+A1 Foster,Ian,T.
+A1 Shalf,John
+A1 Allen,Gabrielle
+A1 Daues,Greg
+A1 Novotny,Jason
+A1 Seidel,Edward
+A1 Einstein-Inst,Albert
+YR 2002
+T1 Community software development with the Astrophysics Simulation Collaboratory
+JF Concurrency and Computation: Practice and Experience
+VO 14
+SP 1289
+OP 1301
+IS 13-15
+
+RT Journal Article
+ID 3959987
+A1 Roure,D.,D.
+A1 Foster,I.
+A1 Miller,E.
+A1 Hendler,J.
+A1 Goble,C.
+YR 2002
+T1 The semantic grid: The grid meets the semantic web
+
+RT Journal Article
+ID 1711648
+A1 Karonis,Nicholas,T.
+A1 Supinski,Bronis,R.,De
+A1 Foster,Ian,T.
+A1 Gropp,William
+A1 Lusk,Ewing,L.
+YR 2002
+T1 A Multilevel Approach to Topology-Aware Collective Operations in Computational Grids
+JF Computing Research Repository
+VO cs.DC/0206
+
+RT Journal Article
+ID 2399623
+A1 Iamnitchi,A.
+A1 Ripeanu,M.
+A1 Foster,I.
+YR 2002
+T1 Locating data in (small-world?) p2p scientific collaborations
+
+RT Conference Proceedings
+ID 543600
+A1 Allcock,William,E.
+A1 Bester,Joseph
+A1 Bresnahan,John
+A1 Foster,Ian,T.
+A1 Gawor,Jarek
+A1 Insley,Joseph,A.
+A1 Link,Joseph,M.
+A1 Papka,Michael,E.
+YR 2002
+T1 GridMapper: A Tool for Visualizing the Behavior of Large-Scale Distributed Systems
+SP 179
+OP 187
+
+RT Journal Article
+ID 4138269
+A1 Foster,I.
+A1 Voeckler,J.
+A1 Wilde,M.
+A1 Zhao,Y.
+YR 2002
+T1 Chimera: A Virtual Data System for Representing
+
+RT Conference Proceedings
+ID 3755982
+A1 Cjajkowski,K.
+A1 Foster,I.
+A1 Kesselman,C.
+A1 Sander,V.
+A1 Tuecke,S.
+YR 2002
+T1 SNAP: A Protocol for Negotiation of Service Level Agreements and Coordinated Resource Management in
+
+RT Journal Article
+ID 2032935
+A1 Foster,I.
+A1 Gannon,D.
+A1 Nick,J.
+YR 2002
+T1 Open grid services architecure: A roadmap
+
+RT Conference Proceedings
+ID 3807
+A1 Laszewski,Gregor,Von
+A1 Gawor,Jarek
+A1 Peña,Carlos,J.
+A1 Foster,Ian,T.
+YR 2002
+T1 InfoGram: A Grid Service that Supports Both Information Queries and Job Execution
+SP 333
+OP 342
+
+RT Journal Article
+ID 705416
+A1 Baxevanidis,Kyriakos
+A1 Davies,Howard
+A1 Foster,Ian,T.
+A1 Gagliardi,Fabrizio
+YR 2002
+T1 Grids and research networks as drivers and enablers of future Internet architectures
+JF Computer Networks
+VO 40
+SP 5
+OP 17
+IS 1
+
+RT Conference Proceedings
+ID 50257972
+A1 Chervenak,Ann
+A1 Deelman,Ewa
+A1 Foster,Ian
+A1 Guy,Leanne
+A1 Hoschek,Wolfgang
+A1 Iamnitchi,Adriana
+A1 Kesselman,Carl
+A1 Kunszt,Peter
+A1 Ripeanu,Matei
+A1 Schwartzkopf,Bob
+A1 Stockinger,H.
+A1 Stockinger,K.
+A1 Tierney,B.
+YR 2002
+T1 Giggle: A Framework for Constructing Scalable Replica Location Services
+SP 58
+OP 58
+
+RT Journal Article
+ID 15237227
+A1 Russell,Michael
+A1 Allen,Gabrielle
+A1 Daues,Greg
+A1 Foster,Ian
+A1 Seidel,Edward
+A1 Novotny,Jason
+A1 Shalf,John
+A1 Laszewski,Gregor,von
+YR 2002
+T1 The Astrophysics Simulation Collaboratory: A Science Portal Enabling Community Software Development
+JF Cluster Computing
+VO 5
+SP 297
+OP 304
+IS 3
+
+RT Journal Article
+ID 5165960
+A1 Schissel,D.,P.
+A1 Finkelstein,A.
+A1 Foster,I.,T.
+A1 Fredian,T.,W.
+A1 Greenwald,M.,J.
+A1 Hansen,C.,D.
+A1 Johnson,C.,R.
+A1 Keahey,K.
+A1 Klasky,S.,A.
+A1 Li,K.
+A1 McCune,D.,C.
+A1 Peng,Q.
+A1 Stevens,R.
+A1 Thompson,M.,R.
+YR 2002
+T1 Data management, code deployment, and scientific visualization to enhance scientific discovery in fusion research through advanced computing
+JF Fusion Engineering and Design
+VO 60
+SP 481
+OP 486
+IS 3
+
+RT Conference Proceedings
+ID 1867425
+A1 Foster,Ian,T.
+YR 2002
+T1 Grid Computing and Web Services: A Natural Partnership
+SP 3
+OP 3
+
+RT Journal Article
+ID 3075742
+A1 Hibbard,W.
+A1 Anderson,J.
+A1 Foster,I.
+A1 Paul,B.
+A1 Ja-cob,R.
+A1 Schafer,C.
+A1 Tyree,M.
+YR 2002
+T1 Exploring coupled submitted to Joint EUROGRAPHICS-IEEE TCVG Symposium on Visualization
+
+RT Book, Whole
+ID 695535
+A1 Foster,Ian,T.
+A1 Kesselman,Carl
+A1 Tuecke,Steven
+YR 2002
+T1 Die Anatomie des Grid
+
+RT Conference Proceedings
+ID 658916
+A1 Foster,Ian,T.
+A1 Siebenlist,Frank
+A1 Tuecke,Steven
+A1 Welch,Von
+YR 2002
+T1 Security and Certification Issues in Grid Computing
+SP 47
+OP 55
+
+RT Conference Proceedings
+ID 50257970
+A1 Annis,James
+A1 Zhao,Yong
+A1 Voeckler,Jens
+A1 Wilde,Michael
+A1 Kent,Steve
+A1 Foster,Ian
+YR 2002
+T1 Applying Chimera Virtual Data Concepts to Cluster Finding in the Sloan Sky Survey
+SP 56
+OP 56
+
+RT Journal Article
+ID 18758742
+A1 Jacob,Maurice
+A1 Foster,Ian
+YR 2002
+T1 The Grid Grew from Physicists' Computing Needs
+JF Physics Today
+VO 55
+SP 10
+IS 4
+
+RT Journal Article
+ID 15063585
+A1 Foster,I.
+YR 2002
+T1 GENERAL SCIENCE: Unexpected Consequences of Connections
+JF Science
+VO 297
+SP 1124
+OP 1125
+IS 5584
+
+RT Journal Article
+ID 59092602
+A1 Baban,Serwan,MJ
+A1 Foster,Ian
+YR 2002
+T1 Modelling water flow and quality: an evaluation of the ISIS model in the River Avon
+
+RT Journal Article
+ID 51928872
+A1 Foster,Ian
+YR 2002
+T1 Grid Technologies and Applications: Architecture and Achievements
+VO 281
+SP 11
+
+RT Journal Article
+ID 80040
+A1 Foster,Ian,T.
+A1 Kesselman,Carl
+A1 Tuecke,Steven
+YR 2001
+T1 The Anatomy of the Grid: Enabling Scalable Virtual Organizations
+JF International Journal of High Performance Computing Applications
+VO 2150
+SP 6
+OP 7
+IS 3
+
+RT Conference Proceedings
+ID 114684
+A1 Czajkowski,Karl
+A1 Kesselman,Carl
+A1 Fitzgerald,Steven
+A1 Foster,Ian,T.
+YR 2001
+T1 Grid Information Services for Distributed Resource Sharing
+SP 181
+OP 194
+
+RT Conference Proceedings
+ID 543671
+A1 Frey,James
+A1 Tannenbaum,Todd
+A1 Livny,Miron
+A1 Foster,Ian,T.
+A1 Tuecke,Steven
+YR 2001
+T1 Condor-G: A Computation Management Agent for Multi-Institutional Grids
+SP 55
+OP 63
+
+RT Journal Article
+ID 1338010
+A1 Chervenak,Ann
+A1 Foster,Ian,T.
+A1 Kesselman,Carl
+A1 Salisbury,Charles
+A1 Tuecke,Steven
+YR 2001
+T1 The Data Grid: Towards an Architecture for the Distributed Management and Analysis of Large Scientic Datasets
+JF Journal of Network and Computer Applications
+
+RT Journal Article
+ID 1368619
+A1 Foster,I
+A1 Kesselman,C
+A1 Tuecke,S
+YR 2001
+T1 The anatomy of the grid
+
+RT Journal Article
+ID 2175490
+A1 Allcock,William,E.
+A1 Bester,Joseph
+A1 Bresnahan,John
+A1 Chervenak,Ann,L.
+A1 Foster,Ian,T.
+A1 Kesselman,Carl
+A1 Meder,Sam
+A1 Nefedova,Veronika
+A1 Quesnel,Darcy
+A1 Tuecke,Steven
+YR 2001
+T1 Secure, Efficient Data Transport and Replica Management for High-Performance Data-Intensive Computing
+JF Computing Research Repository
+VO cs.DC/0103
+SP 13
+OP 13
+
+RT Journal Article
+ID 82933
+A1 Allcock,Bill
+A1 Bester,Joe
+A1 Bresnahan,John
+A1 Chervenak,Ann,L.
+A1 Foster,Ian
+A1 Kesselman,Carl
+A1 Meder,Sam
+A1 Nefedova,Veronika
+A1 Quesnel,Darcy
+A1 Tuecke,Steven
+YR 2001
+T1 Data Management and Transfer in High-Performance Computational Grid Environments
+
+RT Journal Article
+ID 61841
+A1 Berman,Francine
+A1 Chien,Andrew,A.
+A1 Cooper,Keith,D.
+A1 Dongarra,Jack
+A1 Foster,Ian,T.
+A1 Gannon,Dennis
+A1 Johnsson,S.,Lennart
+A1 Kennedy,Ken
+A1 Kesselman,Carl
+A1 Mellor-crumme,John
+A1 Reed,Daniel,A.
+A1 Torczon,Linda
+A1 Wolski,Richard
+YR 2001
+T1 The GrADS Project: Software Support for High-Level Grid Application Development
+JF International Journal of High Performance Computing Applications
+VO 15
+SP 327
+OP 344
+IS 4
+
+RT Book, Whole
+ID 128829
+A1 Ranganathan,Kavitha
+A1 Foster,Ian,T.
+YR 2001
+T1 Identifying Dynamic Replication Strategies for a High-Performance Data Grid
+SP 75
+OP 86
+
+RT Conference Proceedings
+ID 156226
+A1 Vazhkudai,Sudharshan
+A1 Tuecke,Steven
+A1 Foster,Ian,T.
+YR 2001
+T1 Replica Selection in the Globus Data Grid
+VO cs.DC/0104
+SP 106
+OP 113
+
+RT Book, Whole
+ID 102388
+A1 Iamnitchi,Adriana
+A1 Foster,Ian,T.
+YR 2001
+T1 On Fully Decentralized Resource Discovery in Grid Environments
+SP 51
+OP 62
+
+RT Journal Article
+ID 118229
+A1 Laszewski,Gregor,Von
+A1 Foster,Ian,T.
+A1 Gawor,Jarek
+YR 2001
+T1 A Java commodity grid kit
+JF Concurrency and Computation: Practice and Experience
+VO 13
+SP 645
+OP 662
+IS 8-9
+
+RT Conference Proceedings
+ID 440024
+A1 Allcock,Bill
+A1 Foster,Ian,T.
+A1 Nefedova,Veronika
+A1 Chervenak,Ann,L.
+A1 Deelman,Ewa
+A1 Kesselman,Carl
+A1 Lee,Jason
+A1 Sim,Alex
+A1 Shoshani,Arie
+A1 Drach,Bob
+A1 Williams,Dean
+A1 Shoshani,LBNL,Arie
+A1 Williams,LLNL,Dean
+YR 2001
+T1 High-performance remote access to climate simulation data: a challenge problem for data grid technologies
+SP 46
+OP 46
+
+RT Conference Proceedings
+ID 123509
+A1 Allen,Gabrielle
+A1 Dramlitsch,Thomas
+A1 Foster,Ian,T.
+A1 Karonis,Nicholas,T.
+A1 Ripeanu,Matei
+A1 Seidel,Edward
+A1 Toonen,Brian,R.
+YR 2001
+T1 Supporting efficient execution in heterogeneous distributed computing environments with cactus and globus
+SP 52
+OP 52
+
+RT Conference Proceedings
+ID 86779
+A1 Stockinger,Heinz
+A1 Samar,Asad
+A1 Holtman,Koen
+A1 Allcock,William,E.
+A1 Foster,Ian,T.
+A1 Tierney,Brian
+YR 2001
+T1 File and Object Replication in Data Grids
+SP 76
+OP 86
+
+RT Journal Article
+ID 85229
+A1 Allen,Gabrielle
+A1 Angulo,David
+A1 Foster,Ian,T.
+A1 Lanfermann,Gerd
+A1 Liu,Chuang
+A1 Radke,Thomas
+A1 Seidel,Edward
+A1 Shalf,John
+A1 Albert-Einstein-Inst
+YR 2001
+T1 The Cactus Worm: Experiments with Dynamic Resource Discovery and Allocation in a Grid Environment
+JF International Journal of High Performance Computing Applications
+VO cs.DC/0108
+SP 345
+OP 358
+IS 4
+
+RT Journal Article
+ID 1347669
+A1 Avery,P.
+A1 Foster,I.
+YR 2001
+T1 The griphyn project: towards petascale virtual data grids
+
+RT Journal Article
+ID 776123
+A1 Getov,Vladimir
+A1 Laszewski,Gregor,von
+A1 Philippsen,Michael
+A1 Foster,Ian,T.
+YR 2001
+T1 Multiparadigm communications in Java for grid computing
+JF Communications of The ACM
+VO 44
+SP 118
+OP 125
+IS 10
+
+RT Journal Article
+ID 127234
+A1 Ranganathan,Kavitha
+A1 Foster,Ian
+YR 2001
+T1 Design and Evaluation of Dynamic Replication Strategies for a High-Performance Data Grid
+
+RT Conference Proceedings
+ID 543543
+A1 Russell,Michael
+A1 Allen,Gabrielle
+A1 Dauess,Greg
+A1 Foster,Ian,T.
+A1 Seidel,Edward
+A1 Novotnyt,Jason
+A1 Shales,John
+A1 Laszewski,Gregor,von
+YR 2001
+T1 The Astrophysics Simulation Collaboratory Portal: A Science Portal Enabling Community Software Development
+SP 207
+OP 215
+
+RT Journal Article
+ID 1285414
+A1 Foster,I.
+A1 Kesselman,C.
+YR 2001
+T1 A data grid reference architecture
+
+RT Conference Proceedings
+ID 132271
+A1 Sander,Volker
+A1 Adamson,William,A.
+A1 Foster,Ian,T.
+A1 Roy,Alain,J.
+YR 2001
+T1 End-to-End Provision of Policy Information for Network QoS
+SP 115
+OP 126
+
+RT Journal Article
+ID 2079302
+A1 Deelman,E.
+A1 Foster,I.
+YR 2001
+T1 Representing Virtual Data: A Catalog Architecture for Location and Materialization Transparency
+
+RT Journal Article
+ID 2845109
+A1 Laszewski,G.,Von
+A1 Foster,I.
+A1 Gawor,J.
+YR 2001
+T1 CoG kits: A bridge between comodity distributed computing and high-performance grids
+
+RT Conference Proceedings
+ID 105128
+A1 Laszewski,Gregor,Von
+A1 Foster,Ian,T.
+A1 Gawor,Jarek
+A1 Rehn,Nell
+A1 Russell,Michael
+YR 2001
+T1 Designing Grid-based Problem Solving Environments and Portals
+
+RT Book, Whole
+ID 518840
+A1 Larson,Jay,Walter
+A1 Jacob,Robert,L.
+A1 Foster,Ian,T.
+A1 Guo,Jing
+YR 2001
+T1 The Model Coupling Toolkit
+SP 185
+OP 194
+
+RT Journal Article
+ID 1300466
+A1 Avery,P.
+A1 Foster,I.
+A1 Gardner,R.
+A1 Newman,H.
+A1 Szalay,A.
+YR 2001
+T1 An international virtual-data grid laboratory for data intensive science
+JF Concurrency and Computation: Practice and Experience
+
+RT Book, Whole
+ID 104144
+A1 Ripeanu,Matei
+A1 Iamnitchi,Adriana
+A1 Foster,Ian,T.
+YR 2001
+T1 Cactus Application: Performance Predictions in Grid Environments
+SP 807
+OP 816
+
+RT Journal Article
+ID 2098939
+A1 Wang,Yuxin
+A1 Carlo,Francesco,de
+A1 Mancini,Derrick,C.
+A1 McNulty,Ian
+A1 Tieman,Brian
+A1 Bresnahan,John
+A1 Foster,Ian
+A1 Insley,Joseph
+A1 Laszewski,Gregor,von
+A1 Kesselman,Carl
+A1 Su,Mei-Hui
+A1 Thiebaux,Marcus
+YR 2001
+T1 A high-throughput x-ray microtomography system at the Advanced Photon Source
+JF Review of Scientific Instruments
+VO 72
+SP 2062
+OP 2068
+IS 4
+
+RT Journal Article
+ID 85876
+A1 Ripeanu,Matei
+A1 Iamnitchi,Adriana
+A1 Foster,Ian,T.
+YR 2001
+T1 Performance Predictions for a Numerical Relativity Package in Grid Environments
+JF International Journal of High Performance Computing Applications
+VO 15
+SP 375
+OP 387
+IS 4
+
+RT Book, Whole
+ID 518948
+A1 Jacob,Robert,L.
+A1 Schafer,Chad
+A1 Foster,Ian,T.
+A1 Tobis,Michael
+A1 Anderson,John
+YR 2001
+T1 Computational Design and Performance of the Fast Ocean Atmosphere Model, Version One
+SP 175
+OP 184
+
+RT Journal Article
+ID 40666287
+A1 Chapman,A.,S.
+A1 Foster,I.,D.,L.
+A1 Lees,J.,A.
+A1 Hodgkinson,R.,A.
+A1 Jackson,R.,H.
+YR 2001
+T1 Particulate phosphorus transport by sub-surface drainage from agricultural land in the UK. Environmental significance at the catchment and national scale
+JF Science of The Total Environment
+VO 266
+SP 95
+OP 102
+IS 1
+
+RT Journal Article
+ID 2031687
+A1 Prudhomme,T.
+A1 Kesselman,C.
+A1 Finholt,T.
+A1 Foster,I.
+A1 Parsons,D.
+A1 Abrams,D.
+A1 Bardet,J.,P
+A1 Pennington,R.
+A1 Towns,J.
+A1 Butler,R.
+A1 Futrelle,J.
+A1 Zaluzec,N.
+A1 Hardin,J.
+YR 2001
+T1 Neesgrid: A distributed virtual laboratory for advanced earthquake experimentation and simulation: Scoping study
+
+RT Conference Proceedings
+ID 2551010
+A1 Pearlman,L
+A1 Welch,V
+A1 Foster,I
+A1 Kesselman,C
+YR 2001
+T1 A Community Authorization Service for Group Communication
+
+RT Journal Article
+ID 53646
+A1 Laszewski,Gregor,von
+A1 Foster,Ian
+YR 2001
+T1 Title: A Java Commodity Grid Kit
+
+RT Journal Article
+ID 40666262
+A1 Winter,L.,T.
+A1 Foster,I.,D.,L.
+A1 Charlesworth,S.,M.
+A1 Lees,J.,A.
+YR 2001
+T1 Floodplain lakes as sinks for sediment-associated contaminants — a new source of proxy hydrological data?
+JF Science of The Total Environment
+VO 266
+SP 187
+OP 194
+IS 1
+
+RT Conference Proceedings
+ID 647352
+A1 Foster,Ian,T.
+YR 2001
+T1 The Globus Toolkit for Grid Computing
+SP 2
+
+RT Journal Article
+ID 2536352
+A1 Keahey,K.
+A1 Fredian,T.
+A1 Peng,Q.
+A1 Schissel,D.,P.
+A1 Thompson,M.
+A1 Foster,I.
+A1 Greenwald,M.
+A1 Mccune,D.
+YR 2001
+T1 2001 Computational Grids in Action: The National Fusion Collaboratory
+JF Future Generation Computer Systems
+
+RT Journal Article
+ID 805396
+A1 Demaine,Erik,D.
+A1 Foster,Ian,T.
+A1 Kesselman,Carl
+A1 Snir,Marc
+YR 2001
+T1 Generalized Communicators in the Message Passing Interface
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 12
+SP 610
+OP 616
+IS 6
+
+RT Conference Proceedings
+ID 2053683
+A1 Russell,M.
+A1 Allen,G.
+A1 Daues,G.
+A1 Foster,I.
+A1 Goodale,T.
+A1 Seidel,E.
+A1 Novotny,J.
+A1 Shalf,J.
+A1 Suen,W.
+A1 Laszewski,G,Von
+YR 2001
+T1 The Astrophysics Simulation Simulation Collaboratory A Science Portal Enabling Community Software Development
+
+RT Journal Article
+ID 3931947
+A1 Catlett,C.
+A1 Foster,I.
+YR 2001
+T1 The network meets the computer: Architectural implications of unlimited bandwidth
+
+RT Conference Proceedings
+ID 543487
+A1 Toonen,Brian,R.
+A1 Ashton,David
+A1 Lusk,Ewing,L.
+A1 Foster,Ian,T.
+A1 Gropp,William
+A1 Gabriel,Edgar
+A1 Butler,Ralph
+A1 Karonis,Nicholas,T.
+YR 2001
+T1 Interfacing Parallel Jobs to Process Managers
+SP 431
+OP 432
+
+RT Conference Proceedings
+ID 50221188
+A1 Allen,Gabrielle
+A1 Foster,I.
+A1 Karonis,N.,T.
+A1 Ripeanu,M.
+A1 Seidel,E.
+A1 Toonen,B.
+YR 2001
+T1 Supporting Efficient Execution in Heterogeneous Distributed Computing Environments with Cactus and Globus
+
+RT Journal Article
+ID 4093384
+A1 Chuang,J.
+A1 Defanti,T.
+A1 Foster,I.
+A1 Klingenstein,K.
+A1 Messerschmitt,D.
+A1 Schmidt,D.
+YR 2001
+T1 White paper on an NSF ANIR Middleware Initiative
+
+RT Journal Article
+ID 12552
+A1 Foster,Ian
+YR 2001
+T1 Grid technologies and applications : architecture and achievements
+
+RT Journal Article
+ID 41846
+A1 Bettge,Thomas
+A1 Blackmon,Maurice
+A1 Boville,Byron
+A1 Craig,Anthony
+A1 Deluca,Cecilia
+A1 Ding,Chris
+A1 Drake,John
+A1 Eltgroth,Peter
+A1 Foster,Ian
+A1 Jacob,Robert
+A1 Jones,Phil
+A1 Kauffman,Brian
+A1 Larson,Jay
+A1 Mirin,Arthur
+A1 Ong,Everest
+A1 Rotman,Doug
+A1 Williamson,David
+A1 Worley,Patrick
+YR 2001
+T1 Development Of A Modular Performance-Portable Climate System Model
+
+RT Conference Proceedings
+ID 50221157
+A1 Allcock,Bill
+A1 Foster,Ian
+A1 Nefedova,Veronika
+A1 Chervenak,Ann
+A1 Deelman,Ewa
+A1 Kesselman,Carl
+A1 Lee,Jason
+A1 Sim,Alex
+A1 Shoshani,Arie
+A1 Drach,Bob
+A1 Williams,Dean
+YR 2001
+T1 High-Performance Remote Access to Climate Simulation Data: A Challenge Problem for Data Grid Technologies
+
+RT Journal Article
+ID 53613937
+A1 Allcock,William
+A1 Foster,Ian
+A1 Tuecke,Steven
+A1 Chervenak,Ann
+A1 Kesselman,Carl
+YR 2001
+T1 Protocols and services for distributed data-intensive science
+VO 583
+SP 161
+OP 163
+
+RT Journal Article
+ID 52109668
+A1 Dawson,A.,G.
+A1 Elliott,L.
+A1 Noone,S.
+A1 Hickey,K.
+A1 Foster,I.
+A1 Wadhams,P.
+A1 Mayewski,P.
+YR 2001
+T1 Historic Storminess Changes in North Atlantic Region
+
+RT Journal Article
+ID 4450511
+A1 Foster,Ian
+YR 2001
+T1 Parallel computing in 2010: opportunities and challenges in a networked world
+JF Sigplan Notices
+
+RT Journal Article
+ID 14410220
+A1 Foster,Ian
+YR 2001
+T1 Parallel computing in 2010: opportunities and challenges in a networked world
+JF Sigplan Notices
+VO 36
+SP 1
+IS 7
+
+RT Conference Proceedings
+ID 629657
+A1 Foster,Ian,T.
+YR 2001
+T1 Parallel computing in 2010: opportunities and challenges in a networked world (abstract)
+SP 1
+
+RT Conference Proceedings
+ID 50223415
+A1 Foster,Ian
+YR 2001
+T1 The anatomy of the grid: enabling scalable virtual organizations
+
+RT Journal Article
+ID 52643535
+A1 Foster,Ian
+YR 2001
+T1 Grid Computing
+VO 583
+SP 51
+OP 56
+
+RT Journal Article
+ID 2128322
+A1 Chervenak,Ann,L.
+A1 Foster,Ian,T.
+A1 Kesselman,Carl
+A1 Salisbury,Charles
+A1 Tuecke,Steven
+YR 2000
+T1 The data grid: Towards an architecture for the distributed management and analysis of large scientific datasets
+JF Journal of Network and Computer Applications
+VO 23
+SP 187
+OP 200
+IS 3
+
+RT Conference Proceedings
+ID 174958
+A1 Foster,Ian
+A1 Roy,Alain
+A1 Sander,Volker
+YR 2000
+T1 A quality of service architecture that combines resource reservation and application adaptation
+
+RT Journal Article
+ID 847127
+A1 Butler,Randy
+A1 Welch,Von
+A1 Engert,Douglas
+A1 Foster,Ian,T.
+A1 Tuecke,Steven
+A1 Volmer,John
+A1 Kesselman,Carl
+YR 2000
+T1 A National-Scale Authentication Infrastructure
+JF IEEE Computer
+VO 33
+SP 60
+OP 66
+IS 12
+
+RT Journal Article
+ID 1414483
+A1 Foster,I.
+YR 2000
+T1 Internet computing and the emerging grid
+JF Nature
+
+RT Book, Whole
+ID 670174
+A1 Foster,Ian,T.
+A1 Kesselman,Carl
+YR 2000
+T1 Computational Grids
+SP 3
+OP 37
+
+RT Conference Proceedings
+ID 2615076
+A1 Foster,I.
+A1 Oy,A.,R
+A1 Sander,V.
+YR 2000
+T1 A quality of service architecture that combines resource reservation and application adaptation
+
+RT Conference Proceedings
+ID 96261
+A1 Laszewski,Gregor,von
+A1 Foster,Ian,T.
+A1 Gawor,Jarek
+YR 2000
+T1 CoG kits: a bridge between commodity distributed computing and high-performance grids
+SP 97
+OP 106
+
+RT Conference Proceedings
+ID 168646
+A1 Smith,Warren
+A1 Foster,Ian,T.
+A1 Taylor,Valerie,E.
+YR 2000
+T1 Scheduling with Advanced Reservations
+SP 127
+OP 132
+
+RT Conference Proceedings
+ID 246568
+A1 Karonis,Nicholas,T.
+A1 Supinski,Bronis,R.,De
+A1 Foster,Ian,T.
+A1 Gropp,William
+A1 Lusk,Ewing,L.
+A1 Bresnahan,John
+YR 2000
+T1 Exploiting Hierarchy in Parallel Computer Networks to Optimize Collective Operation Performance
+SP 377
+
+RT Journal Article
+ID 166190
+A1 Allcock,William
+A1 Foster,Ian
+A1 Tuecke,Steven
+A1 Chervenak,Ann
+A1 Kesselman,Carl
+YR 2000
+T1 Protocols and Services for Distributed Data-Intensive Science
+
+RT Conference Proceedings
+ID 3152068
+A1 Chervenak,A.
+A1 Deelman,E.
+A1 Foster,I.
+A1 Guy,L.
+A1 Hoschek,W.
+A1 Iamnitchi,A.
+A1 Kessel-man,C.
+A1 Kunszt,P.
+A1 Ripenu,M.
+A1 Schwartzkopf,B.
+A1 Stocking,H.
+A1 Stockinger,K.
+A1 Tierney,B.
+YR 2000
+T1 Giggle: A Framework for Constructing Scaleable Replica Location Services
+
+RT Journal Article
+ID 1981721
+A1 Berman,F.
+A1 Chien,A.
+A1 Cooper,K.
+A1 Dongarra,J.
+A1 Foster,I.
+A1 Gannon,L.,J.,Dennis
+A1 Kennedy,K.
+A1 Kesselman,C.
+A1 Reed,D.
+A1 Torczon,L.
+A1 Wolski,R.
+YR 2000
+T1 The grads project: Software support for high-level grid application development
+
+RT Conference Proceedings
+ID 440255
+A1 Roy,Alain,J.
+A1 Foster,Ian,T.
+A1 Gropp,William
+A1 Toonen,Brian
+A1 Karonis,Nicholas
+A1 Sander,Volker
+YR 2000
+T1 MPICH-GQ: quality-of-service for message passing programs
+SP 19
+
+RT Journal Article
+ID 801354
+A1 Laszewski,Gregor,Von
+A1 Westbrook,Mary,L.
+A1 Barnes,Craig
+A1 Foster,Ian,T.
+A1 Westbrook,Edwin,M.
+YR 2000
+T1 Using computational grid capabilities to enhance the capability of an X-ray source for structural biology
+JF Cluster Computing
+VO 3
+SP 187
+OP 199
+IS 3
+
+RT Conference Proceedings
+ID 243017
+A1 Iamnitchi,Adriana
+A1 Foster,Ian,T.
+YR 2000
+T1 A Problem-Specific Fault-Tolerance Mechanism for Asynchronous, Distributed Systems
+VO cs.DC/0003
+SP 4
+OP 14
+
+RT Journal Article
+ID 177458
+A1 Sander,Volker
+A1 Foster,Ian,T.
+A1 Roy,Alain,J.
+A1 Winkler,Linda
+YR 2000
+T1 A differentiated services implementation for high-performance TCP flows
+JF Computer Networks
+VO 34
+SP 915
+OP 929
+IS 6
+
+RT Journal Article
+ID 2047676
+A1 Chervenak,A.
+A1 Foster,I.
+A1 Kesselman,C.
+A1 Salisbury,C.
+A1 Tuecke,S.
+YR 2000
+T1 Towards an architecture for the distributed management and analysis of large scienti c datasets
+JF Journal of Network and Computer Applications
+
+RT Journal Article
+ID 44886759
+A1 Foster,I.,D.,L.
+A1 Mighall,T.,M.
+A1 Wotton,C.
+A1 Owens,P.,N.
+A1 Walling,D.,E.
+YR 2000
+T1 Evidence for Mediaeval soil erosion in the South Hams region of Devon, UK
+JF Holocene
+VO 10
+SP 261
+OP 271
+IS 2
+
+RT Journal Article
+ID 152950
+A1 Allen,Gabrielle
+A1 Dramlitsch,Thomas
+A1 Foster,Ian
+A1 Goodale,Tom
+A1 Karonis,Nick
+A1 Ripeanu,Matei
+A1 Seidel,Ed
+A1 Toonen,Brian
+YR 2000
+T1 Cactus-G Toolkit: Supporting Efficient Execution in Heterogeneous Distributed Computing Environments
+
+RT Journal Article
+ID 2411711
+A1 Lopez,I.
+A1 Follen,G.,J.
+A1 Gutierrez,R.
+A1 Foster,I.
+A1 Ginsburg,B.
+A1 Larsson,O.
+A1 Tuecke,S.
+YR 2000
+T1 Using CORBA and Globus to Coordinate Multidisciplinary Aeroscience Applications
+
+RT Journal Article
+ID 2099477
+A1 Avery,P.
+A1 Foster,I.
+YR 2000
+T1 Petascale Virtual-Data Grids for Data Intensive Science
+
+RT Journal Article
+ID 3217941
+A1 Sander,V.
+A1 Foster,I.
+A1 Roy,A.
+YR 2000
+T1 Implementing a premium service based on the expedited forwarding per-hop behavior
+
+RT Journal Article
+ID 2665669
+A1 Foster,I.
+YR 2000
+T1 Advance Computing and AnalysisTechniques in Physics Research
+
+RT Conference Proceedings
+ID 548550
+A1 Foster,Ian,T.
+A1 Culler,David,E.
+A1 Estrin,Deborah
+A1 Newman,Harvey
+A1 Stevens,Rick,L.
+YR 2000
+T1 The Ten Hottest Topics in Parallel and Distributed Computing for the Next Millennium
+SP 471
+
+RT Journal Article
+ID 60752508
+A1 Laszeski,G.,von
+A1 Insley,J.,A.
+A1 Foster,I.
+A1 Bresnahan,J.
+A1 Kesselman,C.
+A1 Su,M.
+A1 Thiebaux,M.
+A1 Rivers,M.,L.
+A1 Wang,S.
+A1 Tieman,B.
+A1 McNulty,I.
+YR 2000
+T1 Real-time analysis, visualization, and steering of microtomography experiments at photon sources
+
+RT Journal Article
+ID 15237158
+A1 Laszewski,Gregor,von
+A1 Westbrook,Mary,L.
+A1 Barnes,Craig
+A1 Foster,Ian
+A1 Westbrook,Edwin,M.
+YR 2000
+T1 Using computational grid capabilities to enhance the capability of an X‐ray source for structural biology
+JF Cluster Computing
+VO 3
+SP 187
+OP 199
+IS 3
+
+RT Journal Article
+ID 60757270
+A1 Foster,I.
+A1 Karonis,N.,T.
+YR 2000
+T1 A grid-enabled MPI : message passing in heterogeneous distributed computing systems
+
+RT Journal Article
+ID 1354379
+A1 Foster,I.
+A1 Kesselman,C.
+YR 1999
+T1 The grid: blueprint for a future computing infrastructure
+
+RT Book, Whole
+ID 105110
+A1 Czajkowski,Karl
+A1 Foster,Ian
+A1 Karonis,Nick
+A1 Kesselman,Carl
+A1 Martin,Stuart
+A1 Smith,Warren
+A1 Tuecke,Steven
+YR 1999
+T1 A resource management architecture for metacomputing systems
+
+RT Conference Proceedings
+ID 182610
+A1 Foster,Ian
+A1 Kesselman,Carl
+A1 Lee,Craig
+A1 Lindell,Bob
+A1 Nahrstedt,Klara
+A1 Roy,Alain
+YR 1999
+T1 A distributed resource management architecture that supports advance reservations and co-allocation
+
+RT Journal Article
+ID 1368049
+A1 Foster,I.
+A1 Kesselman,C.
+YR 1999
+T1 Globus: a toolkit-based grid architecture
+
+RT Conference Proceedings
+ID 231186
+A1 Bester,Joseph
+A1 Foster,Ian,T.
+A1 Kesselman,Carl
+A1 Tedesco,Jean
+A1 Tuecke,Steven
+YR 1999
+T1 GASS: a data movement and access service for wide area computing systems
+SP 78
+OP 88
+
+RT Book, Whole
+ID 341198
+A1 Smith,Warren
+A1 Foster,Ian
+A1 Taylor,Valerie
+YR 1999
+T1 Predicting application run times using historical information
+
+RT Conference Proceedings
+ID 1926272
+A1 Czajkowski,K.
+A1 Foster,I.
+A1 Kesselman,C.
+YR 1999
+T1 Co-allocation services for computational grids
+
+RT Journal Article
+ID 220461
+A1 Butler,Randy
+A1 Engert,Doug
+A1 Foster,Ian
+A1 Kesselman,Carl
+A1 Tuecke,Steven
+A1 Volmer,John
+A1 Welch,Von
+YR 1999
+T1 Design and Deployment of a National-Scale Authentication Infrastructure
+
+RT Conference Proceedings
+ID 81852
+A1 Czajkowskit,Karl
+A1 Foster,Ian,T.
+A1 Kesselmant,Carl
+YR 1999
+T1 Resource Co-Allocation in Computational Grids
+SP 219
+OP 228
+
+RT Conference Proceedings
+ID 347100
+A1 Benger,Werner
+A1 Foster,Ian,T.
+A1 Novotny,Jason
+A1 Seidel,Edward
+A1 Shalf,John
+A1 Smith,Warren
+A1 Walker,Paul
+YR 1999
+T1 Numerical Relativity in a Distributed Environment
+
+RT Book, Whole
+ID 315753
+A1 Smith,Warren
+A1 Taylor,Valerie,E.
+A1 Foster,Ian,T.
+YR 1999
+T1 Using Run-Time Predictions to Estimate Queue Wait Times and Improve Scheduler Performance
+SP 202
+OP 219
+
+RT Journal Article
+ID 218398
+A1 Foster,Ian
+A1 Roy,Alain
+A1 Sander,Volker
+A1 Winkler,Linda
+YR 1999
+T1 End-to-End Quality of Service for High-End Applications
+JF Computer Communications
+
+RT Conference Proceedings
+ID 442159
+A1 Leigh,Jason
+A1 Johnson,Andrew,E.
+A1 Defanti,Thomas,A.
+A1 Brown,Maxine,D.
+A1 Ali,M.,D.
+A1 Bailey,S.
+A1 Banerjee,A.
+A1 Benerjee,P.
+A1 Chen,Jim
+A1 Curry,K.
+A1 Curtis,J.
+A1 Dech,F.
+A1 Dodds,B.
+A1 Foster,I.
+A1 Fraser,S.
+A1 Ganeshan,K.
+A1 Glen,D.
+A1 Grossman,R.
+A1 Heiland,R.
+A1 Hicks,J.
+A1 Hudson,A.,D.
+A1 Imai,T.
+A1 Khan,M.,A.
+A1 Kapoor,A.
+A1 Kenyon,R.,V.
+A1 Kelso,J.
+A1 Kriz,R.
+A1 Lascara,C.
+A1 Liu,X.
+A1 Lin,Y.
+A1 Mason,T.
+A1 Millman,A.
+A1 Nobuyuki,K.
+A1 Parod,B.
+A1 Rajlich,P.,J.
+A1 Rasmussen,M.
+A1 Rawlings,M.
+A1 Robertson,D.,H.
+A1 Thongrong,S.
+A1 Stein,R.,J.
+A1 Swartz,K.
+A1 Tuecke,S.
+A1 Wallach,H.
+A1 Wong,Hong,Yee
+A1 Wheless,G.,H.
+YR 1999
+T1 A Review of Tele-Immersive Applications in the CAVE Research Network
+SP 180
+OP 187
+
+RT Conference Proceedings
+ID 177665
+A1 Hoo,Gary
+A1 Johnston,William
+A1 Foster,Ian
+A1 Roy,Alain
+YR 1999
+T1 QoS as Middleware: Bandwidth Brokering System Design
+
+RT Journal Article
+ID 2409263
+A1 Foster,Ian,T.
+A1 Kesselman,Carl
+YR 1999
+T1 The Globus project: a status report
+JF Future Generation Computer Systems
+VO 15
+SP 607
+OP 621
+IS 5-6
+
+RT Journal Article
+ID 2076827
+A1 Foster,I.
+A1 Kesselman,C.
+YR 1999
+T1 Blueprint for a new Computing Infrastructure
+
+RT Conference Proceedings
+ID 188631
+A1 Laszewski,Gregor,Von
+A1 Insley,Joseph,A.
+A1 Foster,Ian,T.
+A1 Bresnahan,John
+A1 Kesselman,Carl
+A1 Su,Mei-hui
+A1 Thiébaux,Marcus
+A1 Rivers,Mark,L.
+A1 Wang,Steve
+A1 Tieman,Brian
+A1 Mcnulty,Ian
+YR 1999
+T1 Real-time Analysis, Visualization, and Steering of Microtomography Experiments at Photon Source
+
+RT Journal Article
+ID 266360
+A1 Foster,Ian,T.
+A1 Insley,Joseph,A.
+A1 Laszewski,Gregor,Von
+A1 Kesselman,Carl
+A1 Thiébaux,Marcus
+YR 1999
+T1 Distance Visualization: Data Exploration on the Grid
+JF IEEE Computer
+VO 32
+SP 36
+OP 43
+IS 12
+
+RT Journal Article
+ID 239554
+A1 LASZEWSKI,GREGOR,VON
+A1 FOSTER,IAN
+YR 1999
+T1 Grid infrastructure to support science portals for large scale instruments
+
+RT Conference Proceedings
+ID 912503
+A1 Lee,Craig,A.
+A1 Stepanek,James
+A1 Wolski,Rich
+A1 Kesselman,Carl
+A1 Foster,Ian
+YR 1999
+T1 A network performance tool for grid environments
+SP 4
+
+RT Journal Article
+ID 801359
+A1 Stelling,Paul
+A1 Dematteis,Cheryl
+A1 Foster,Ian,T.
+A1 Kesselman,Carl
+A1 Lee,Craig,A.
+A1 Laszewski,Gregor,Von
+YR 1999
+T1 A fault detection service for wide area distributed computations
+JF Cluster Computing
+VO 2
+SP 117
+OP 128
+IS 2
+
+RT Journal Article
+ID 3904823
+A1 Foster,I
+A1 Kesselman,C
+YR 1999
+T1 The Grid: Blueprint for a New Computing Infrastructure Morgan Kau man
+
+RT Conference Proceedings
+ID 184083
+A1 Barnard,S.
+A1 Biswas,R.
+A1 Saini,S.
+A1 Wijngaart,R.,Van,der
+A1 Yarrow,M.
+A1 Zechtzer,L.
+A1 Foster,I.
+A1 Larsson,O.
+YR 1999
+T1 Large-scale distributed computational fluid dynamics on the information power grid using Globus
+
+RT Journal Article
+ID 2058008
+A1 Hammond,Steve
+A1 Williams,Dean
+A1 Feng,Wu
+A1 Foster,Ian
+A1 Hibbard,Bill
+A1 Shoshani,Arie
+YR 1999
+T1 Prototyping an Earth System Grid
+
+RT Journal Article
+ID 201469
+A1 Foster,Ian
+YR 1999
+T1 The Beta Grid: A National Infrastructure for Computer Systems Research
+
+RT Journal Article
+ID 2800008
+A1 Foster,Ian
+YR 1999
+T1 Building the Grid: An Integrated Services and Toolkit Architecture for Next Generation Networked Ap
+
+RT Conference Proceedings
+ID 543405
+A1 Hoo,Gary
+A1 Johnston,William,E.
+A1 Foster,Ian
+A1 Roy,Alain
+YR 1999
+T1 QoS as Middleware: Bandwidth Reservation System Design
+SP 345
+OP 346
+
+RT Conference Proceedings
+ID 293126
+A1 Bresnahan,John
+A1 Foster,Ian,T.
+A1 Insley,Joseph,A.
+A1 Toonen,Brian,R.
+A1 Tuecke,Steven
+YR 1999
+T1 Communication Services for Advanced Network Applications
+SP 1861
+OP 1867
+
+RT Journal Article
+ID 2131009
+A1 Foster,I.
+A1 Kesselman,C.
+YR 1999
+T1 The Grid: A New Infrastructure for 21st Century Science
+
+RT Conference Proceedings
+ID 2615647
+A1 DeCarlo,F.
+A1 Foster,I.
+A1 Insley,J.
+A1 Kesselman,C.
+A1 Mancini,D.
+A1 McNulty,I.
+A1 Su,M.
+A1 Tieman,B.
+A1 Wang,Y.
+A1 Laszewski,G.,von
+YR 1999
+T1 A quasi-realtime x-ray microtomography system at the Advanced Photon Source
+
+RT Conference Proceedings
+ID 4631711
+A1 Reed,Daniel,A
+A1 Padua,David,A.
+A1 Foster,Ian,T.
+A1 Gannon,Dennis,B.
+A1 Miller,Barton,P.
+YR 1999
+T1 Delphi: an integrated, language-directed performance prediction, measurement and analysis environment
+
+RT Journal Article
+ID 15237126
+A1 Stelling,Paul
+A1 DeMatteis,Cheryl
+A1 Foster,Ian
+A1 Kesselman,Carl
+A1 Lee,Craig
+A1 Laszewski,Gregor,von
+YR 1999
+T1 A fault detection service for wide area distributed computations
+JF Cluster Computing
+VO 2
+SP 117
+OP 128
+IS 2
+
+RT Journal Article
+ID 2383218
+A1 Foster,Ian
+A1 Kesselman,Carl
+YR 1999
+T1 The GRID: Blueprint for a New Computational Infrastructure
+
+RT Conference Proceedings
+ID 50144883
+A1 Lee,Craig,A.
+A1 Stepanek,J.
+A1 Wolski,R.
+A1 Kesselman,Carl
+A1 Foster,Ian
+YR 1999
+T1 A Network Performance Tool for Grid Environments
+
+RT Journal Article
+ID 54760827
+A1 Wang,Yuxin
+A1 Carlo,Francesco,de
+A1 Foster,Ian
+A1 Insley,Joseph
+A1 Kesselman,Carl
+A1 Laszewski,Gregor,von
+A1 Mancini,Derrick,C.
+A1 McNulty,Ian
+A1 Su,Mei-Hui
+A1 Tieman,Brian
+YR 1999
+T1 Quasi-real-time x-ray microtomography system at the Advanced Photon Source
+VO 3772
+SP 318
+OP 327
+
+RT Journal Article
+ID 801333
+A1 Nieplocha,Jarek
+A1 Dachsel,Holger
+A1 Foster,Ian,T.
+YR 1999
+T1 Implementing noncollective parallel I/O in cluster environments using Active Message communication
+JF Cluster Computing
+VO 2
+SP 271
+OP 279
+IS 4
+
+RT Journal Article
+ID 15237140
+A1 Nieplocha,Jarek
+A1 Dachsel,Holger
+A1 Foster,Ian
+YR 1999
+T1 Implementing noncollective parallel I/O in cluster environments using Active Message communication
+JF Cluster Computing
+VO 2
+SP 271
+OP 279
+IS 4
+
+RT Journal Article
+ID 1318525
+A1 Foster,I.
+A1 Kesselman,C.
+A1 Szkárosi,Endre
+A1 Altshuler,Bruce
+A1 Bruce,Vicky
+A1 Young,Andrew
+A1 McLuhan,Marshall
+A1 Marchand,Philip
+A1 Gazzaniga,Michael,S.
+A1 Jones,Caroline,A.
+A1 Galison,Peter
+A1 Website,Clifford,A.,Pickover
+YR 1998
+T1 The grid: blueprint for a new computing infrastructure
+
+RT Conference Proceedings
+ID 213076
+A1 Foster,Ian,T.
+A1 Kesselman,Carl
+A1 Tsudik,Gene
+A1 Tueckel,Steven
+YR 1998
+T1 A Security Architecture for Computational Grids
+SP 83
+OP 92
+
+RT Conference Proceedings
+ID 624825
+A1 Czajkowski,Karl
+A1 Foster,Ian,T.
+A1 Karonis,Nicholas,T.
+A1 Kesselman,Carl
+A1 Martin,Stuart
+A1 Smith,Warren
+A1 Tuecke,Steven
+YR 1998
+T1 A Resource Management Architecture for Metacomputing Systems
+SP 62
+OP 82
+
+RT Conference Proceedings
+ID 172856
+A1 Foster,Ian,T.
+A1 Kesselman,Carl
+YR 1998
+T1 The Globus Project: A Status Report
+SP 4
+OP 18
+
+RT Conference Proceedings
+ID 172356
+A1 Foster,Ian
+A1 Karonis,Nicholas,T.
+YR 1998
+T1 A grid-enabled MPI: message passing in heterogeneous distributed computing systems
+SP 1
+OP 11
+
+RT Conference Proceedings
+ID 2563870
+A1 Foster,Ian
+A1 Kesselman,Carl
+A1 Lee,Craig
+A1 Lindell,Bob
+A1 Nahrstedt,Klara
+A1 Roy,Alain
+YR 1998
+T1 A Distributed Resource Management Architecture that Supports Advance Reservations and Co-Allocation
+
+RT Conference Proceedings
+ID 624806
+A1 Smith,Warren
+A1 Foster,Ian,T.
+A1 Taylor,Valerie,E.
+YR 1998
+T1 Predicting Application Run Times Using Historical Information
+SP 122
+OP 142
+
+RT Conference Proceedings
+ID 193320
+A1 Stelling,Paul
+A1 Foster,Ian,T.
+A1 Kesselman,Carl
+A1 Lee,Craig,A.
+A1 Laszewski,Gregor,Von
+YR 1998
+T1 A Fault Detection Service for Wide Area Distributed Computations
+SP 268
+OP 278
+
+RT Journal Article
+ID 399218
+A1 Foster,Ian,T.
+A1 Geisler,Jonathan
+A1 Gropp,William
+A1 Karonis,Nicholas,T.
+A1 Lusk,Ewing,L.
+A1 Thiruvathukal,George,K.
+A1 Tuecke,Steven
+YR 1998
+T1 Wide-Area Implementation of the Message Passing Interface
+JF Parallel Computing
+VO 24
+SP 1735
+OP 1749
+IS 12-13
+
+RT Conference Proceedings
+ID 231880
+A1 Brunett,Sharon
+A1 Czajkowski,Karl
+A1 Fitzgerald,Steven
+A1 Foster,Ian,T.
+A1 Johnson,Andrew,E.
+A1 Kesselman,Carl
+A1 Leigh,Jason
+A1 Tuecke,Steven
+YR 1998
+T1 Application Experiences with the Globus Toolkit
+SP 81
+OP 88
+
+RT Journal Article
+ID 858094
+A1 Foster,Ian,T.
+A1 Geisler,Jonathan
+A1 Nickless,Bill
+A1 Smith,Warren
+A1 Tuecke,Steven
+YR 1998
+T1 Software infrastructure for the I-WAY metacomputing experiment
+JF Concurrency and Computation: Practice and Experience
+VO 10
+SP 567
+OP 581
+IS 7
+
+RT Journal Article
+ID 2619353
+A1 Czajkowski,K.
+A1 Foster,I.
+A1 Kesselman,C.
+A1 Martin,S.
+A1 Smith,W.
+A1 Tuecke,S.
+YR 1998
+T1 A Resource Management Architecture for Metasystems
+
+RT Conference Proceedings
+ID 1980246
+A1 Foster,I.
+A1 Kesselman,C.
+YR 1998
+T1 The Globus project: A progress report
+
+RT Journal Article
+ID 2066528
+A1 Foster,I.
+A1 Kesselman,C.
+YR 1998
+T1 The Grid: Blueprint for a Future Computing Infrastructure
+
+RT Journal Article
+ID 2789004
+A1 Foster,I.
+A1 Kesselman,C.
+YR 1998
+T1 Blueprint for a New Computing Infrastructure
+
+RT Journal Article
+ID 392538
+A1 Foster,Ian
+A1 Tuecke,Steven
+A1 Kesselman,Carl
+YR 1998
+T1 Managing Security in High-Performance Distributed Computations
+
+RT Journal Article
+ID 195148
+A1 Nieplocha,Jarek
+A1 Foster,Ian,T.
+A1 Kendall,Ricky,A.
+YR 1998
+T1 ChemIo: High Performance Parallel I/o for Computational Chemistry Applications
+JF International Journal of High Performance Computing Applications
+VO 12
+SP 345
+OP 363
+IS 3
+
+RT Conference Proceedings
+ID 75856
+A1 Lee,Craig,A.
+A1 Stepanek,James
+A1 Michel,B.,Scott
+A1 Kesselman,Carl
+A1 Lindell,Robert
+A1 Hwang,Sonnwook
+A1 Bannister,Joseph
+A1 Foster,Ian
+A1 Roy,Alain
+YR 1998
+T1 Qualis: the quality of service component for the Globus metacomputing system
+
+RT Journal Article
+ID 15237115
+A1 Foster,Ian
+A1 Karonis,Nicholas,T.
+A1 Kesselman,Carl
+A1 Tuecke,Steven
+YR 1998
+T1 Managing security in high‐performance distributed computations
+JF Cluster Computing
+VO 1
+SP 95
+OP 107
+IS Jan. 1998
+
+RT Journal Article
+ID 3903851
+A1 Foster,I.
+A1 Kesselman,C.
+YR 1998
+T1 The GLOBUS web site
+
+RT Journal Article
+ID 3653219
+A1 Foster,I.
+A1 Kesselman,C.
+YR 1998
+T1 Realtime widely distributed instrumentation system
+
+RT Conference Proceedings
+ID 263273
+A1 Nieplocha,Jarek
+A1 Foster,Ian,T.
+A1 Dachsel,Holger
+YR 1998
+T1 Distant I/O: One-Sided Access to Secondary Storage on Remote Processors
+SP 148
+OP 154
+
+RT Conference Proceedings
+ID 2130721
+A1 Foster,Ian,T.
+A1 Kesselman,Carl
+A1 Tsudik,Gene
+YR 1998
+T1 Steven Tuecke: A Security Architecture for Computational Grids
+
+RT Journal Article
+ID 3868209
+A1 Agarwal,D.
+A1 Berket,K.
+A1 Narasimhan,N.
+A1 Schabert,P.
+A1 Foster,I.
+A1 Tuecke,S.
+YR 1998
+T1 The Collaboratory Interoperability Framework (CIF) Common Application Programming Interface
+
+RT Journal Article
+ID 2287087
+A1 Foster,Ian,T.
+A1 Laszewski,Gregor,Von
+A1 Thiruvathukal,George,K.
+A1 Toonen,Brian,R.
+YR 1998
+T1 A computational framework for telemedicine
+JF Future Generation Computer Systems
+VO 14
+SP 109
+OP 123
+IS 1-2
+
+RT Conference Proceedings
+ID 2130716
+A1 Foster,Ian,T.
+YR 1998
+T1 Carl Kesselman: The Globus Project: A Status Report
+
+RT Journal Article
+ID 26044153
+A1 Foster,Ian
+A1 Geisler,Jonathan
+A1 Nickless,Bill
+A1 Smith,Warren
+A1 Tuecke,Steven
+YR 1998
+T1 Software infrastructure for the I-WAY metacomputing experiment
+JF Concurrency-practice and Experience
+VO 10
+SP 567
+OP 581
+IS 7
+
+RT Journal Article
+ID 26044154
+A1 Foster,Ian
+A1 Geisler,Jonathan
+A1 Nickless,Bill
+A1 Smith,Warren
+A1 Tuecke,Steven
+YR 1998
+T1 Software infrastructure for the I‐WAY metacomputing experiment
+JF Concurrency-practice and Experience
+VO 10
+SP 567
+OP 581
+IS 7
+
+RT Book, Whole
+ID 562380
+A1 Czajkowski,Karl
+A1 Foster,Ian,T.
+A1 Kesselman,Carl
+YR 1998
+T1 Resource Management for Ultra-scale Computational Grid Applications
+SP 88
+OP 94
+
+RT Journal Article
+ID 19833358
+A1 Foster,Ian
+A1 Kesselman,Carl
+YR 1998
+T1 Computational grids: On-demand computing in science and engineering
+JF Computers in Physics
+VO 12
+SP 109
+IS 2
+
+RT Journal Article
+ID 60136528
+A1 Hoo,Gary
+A1 Johnston,William,E.
+A1 Foster,Ian
+A1 Roy,Alain
+YR 1998
+T1 QoS as Middleware: Bandwidth Brokering System Design
+
+RT Journal Article
+ID 1395683
+A1 Foster,Ian
+A1 Kesselman,Carl
+YR 1997
+T1 Globus: A metacomputing infrastructure toolkit
+JF International Journal of High Performance Computing Applications
+VO 11
+SP 115
+OP 128
+IS 2
+
+RT Conference Proceedings
+ID 347292
+A1 Fitzgerald,Steven
+A1 Foster,Ian,T.
+A1 Kesselman,Carl
+A1 Laszewski,Gregor,Von
+A1 Smith,Warren
+A1 Tuecke,Steven
+YR 1997
+T1 A Directory Service for Configuring High-Performance Distributed Computations
+SP 365
+OP 376
+
+RT Journal Article
+ID 81501
+A1 Foster,Ian,T.
+A1 Geisler,Jonathan
+A1 Kesselman,Carl
+A1 Tuecke,Steven
+YR 1997
+T1 Managing Multiple Communication Methods in High-Performance Networked Computing Systems
+JF Journal of Parallel and Distributed Computing
+VO 40
+SP 35
+OP 48
+IS 1
+
+RT Conference Proceedings
+ID 403314
+A1 Foster,Ian,T.
+A1 Jr.,David,Kohr
+A1 Krishnaiyer,Rakesh
+A1 Mogill,Jace
+YR 1997
+T1 Remote I/O: fast access to distant storage
+SP 14
+OP 25
+
+RT Conference Proceedings
+ID 543416
+A1 Foster,Ian,T.
+A1 Karonis,Nicholas,T.
+A1 Kesselman,Carl
+A1 Koenig,Greg
+A1 Tuecke,Steven
+YR 1997
+T1 A Secure Communications Infrastructure for High-Performance Distributed Computing
+SP 125
+OP 136
+
+RT Conference Proceedings
+ID 1991822
+A1 Foster,I.
+A1 Geisler,J.
+A1 Nickless,W.
+A1 Smith,W.
+A1 Tuecke,S.
+YR 1997
+T1 Software infrastructure for the I-WAY high performance distributed computing experiment
+
+RT Journal Article
+ID 795553
+A1 Foster,Ian,T.
+A1 Jr.,David,R.,Kohr
+A1 Krishnaiyer,Rakesh
+A1 Choudhary,Alok,N.
+YR 1997
+T1 A Library-Based Approach to Task Parallelism in a Data-Parallel Language
+JF Journal of Parallel and Distributed Computing
+VO 45
+SP 148
+OP 158
+IS 2
+
+RT Journal Article
+ID 112869
+A1 Aiken,Robert,J.
+A1 Carlson,Richard,A.
+A1 Foster,Ian,T.
+YR 1997
+T1 Architecture of the Multi-Modal Organizational Research and Production Heterogeneous Network (MORPHnet)
+
+RT Conference Proceedings
+ID 548665
+A1 More,Sachin
+A1 Choudhary,Alok,N.
+A1 Foster,Ian,T.
+A1 Xu,Ming,Q.
+YR 1997
+T1 MTIO - A Multi-Threaded Parallel I/O System
+SP 368
+OP 373
+
+RT Journal Article
+ID 308897
+A1 Foster,Ian,T.
+A1 Thiruvathukal,George,K.
+A1 Tuecke,Steven
+YR 1997
+T1 Technologies for ubiquitous supercomputing: a Java interface to the Nexus communication system
+JF Concurrency and Computation: Practice and Experience
+VO 9
+SP 465
+OP 475
+IS 6
+
+RT Conference Proceedings
+ID 137293
+A1 Chen,Ying
+A1 Nieplocha,Jarek
+A1 Foster,Ian,T.
+A1 Winslett,Marianne
+YR 1997
+T1 Optimizing collective I/O performance on parallel computers: a multisystem study
+SP 28
+OP 35
+
+RT Book, Whole
+ID 387581
+A1 Moreau,Luc
+A1 Roure,David,De
+A1 Foster,Ian,T.
+YR 1997
+T1 NeXeme: A Distributed Scheme Based on Nexus
+SP 581
+OP 590
+
+RT Conference Proceedings
+ID 261758
+A1 Tobis,Michael
+A1 Schafer,Chad
+A1 Foster,Ian
+A1 Jacob,Robert
+A1 Anderson,John
+YR 1997
+T1 FOAM: expanding the horizons of climate modeling
+SP 1
+OP 15
+
+RT Journal Article
+ID 26043996
+A1 Foster,Ian
+A1 Thiruvathukal,George,K.
+A1 Tuecke,Steven
+YR 1997
+T1 Technologies for ubiquitous supercomputing: a Java interface to the Nexus communication system
+JF Concurrency-practice and Experience
+VO 9
+SP 465
+OP 475
+IS 6
+
+RT Journal Article
+ID 26043997
+A1 Foster,Ian
+A1 Thiruvathukal,George,K.
+A1 Tuecke,Steven
+YR 1997
+T1 Technologies for ubiquitous supercomputing: a Java interface to the Nexus communication system
+JF Concurrency-practice and Experience
+VO 9
+SP 465
+OP 475
+IS 6
+
+RT Conference Proceedings
+ID 50073288
+A1 Tobis,Michael
+A1 Schafer,Chad
+A1 Foster,Ian
+A1 Jacob,R.
+A1 Anderson,J.
+YR 1997
+T1 FOAM: Expanding the Horizons of Climate Modeling
+
+RT Conference Proceedings
+ID 567348
+A1 Foster,Ian,T.
+A1 Jr.,David,R.,Kohr
+A1 Krishnaiyer,Rakesh
+A1 Choudhary,Alok,N.
+YR 1997
+T1 HPF-MPI: A Programming System Supporting Task and Data Parallelism
+
+RT Journal Article
+ID 60608235
+A1 Aiken,R.
+A1 Foster,I.
+A1 Johnston,W.,E.
+YR 1997
+T1 Public key infrastructure for DOE security research
+
+RT Journal Article
+ID 60737349
+A1 Tobis,M.
+A1 Foster,I.,T.
+A1 Schafer,C.,M.
+YR 1997
+T1 FOAM: Expanding the horizons of climate modeling
+
+RT Journal Article
+ID 39387183
+A1 Foster,Ian
+YR 1997
+T1 Book Review: Material Fluxes on the Surface of the Earth edited for the National Research Council, National Academy Press, Washington, 1994. No. of pages: xiv + 170, Price: £32.95. ISBN 0-309-04745-5; Book Review: Variability in Stream Erosion and Sediment Transport edited by L. J. Olive, R. J. Loughran and J. A. Kesby, International Association of Hydrological Sciences Publication No. 224, IAHS Press, Wallingford, 1994. No. of pages: x + 498. Price: £75.00. ISBN 0-947571-19-1
+JF Earth Surface Processes and Landforms
+VO 22
+SP 607
+OP 608
+IS 6
+
+RT Journal Article
+ID 324474
+A1 Kesselman,Ian,FosterCarl
+YR 1996
+T1 Globus: A Metacomputing Infrastructure Toolkit
+
+RT Journal Article
+ID 326463
+A1 Foster,Ian,T.
+A1 Kesselman,Carl
+A1 Tuecke,Steven
+YR 1996
+T1 The Nexus Approach to Integrating Multithreading and Communication
+JF Journal of Parallel and Distributed Computing
+VO 37
+SP 70
+OP 82
+IS 1
+
+RT Journal Article
+ID 66292
+A1 DeFanti,Thomas,A.
+A1 Foster,Ian
+A1 Papka,Michael,E.
+A1 Stevens,Rick
+A1 Kuhfuss,Tim
+YR 1996
+T1 Overview of the I-Way: Wide-Area Visual Supercomputing
+JF International Journal of High Performance Computing Applications
+VO 10
+SP 123
+OP 131
+IS 2-3
+
+RT Conference Proceedings
+ID 399278
+A1 Foster,Ian,T.
+A1 Geisler,Jonathan
+A1 Nickless,Bill
+A1 Smith,Warren
+A1 Tuecke,Steven
+YR 1996
+T1 Software Infrastructure for the I-WAY Performance Distributed Computing Experiment
+SP 562
+
+RT Conference Proceedings
+ID 3761139
+A1 Foster,Ian
+A1 Geisler,Jonathan
+A1 Nickless,Bill
+A1 Smith,Warren
+A1 Tuecke,Steven
+YR 1996
+T1 Software infrastructure for the I-WAY high-performance distributed computing experiment
+SP 562
+OP 571
+
+RT Conference Proceedings
+ID 173819
+A1 Foster,Ian
+A1 Karonis,Nicholas,T.
+A1 Koenig,Carl,Kesselman,Greg
+A1 Tuecke,Steven
+YR 1996
+T1 A Secure Communications Infrastructure for High-Performance Distributed Computing
+
+RT Conference Proceedings
+ID 344705
+A1 Foster,Ian
+A1 Geisler,Jonathan
+A1 Tuecke,Steven
+YR 1996
+T1 MPI on the I-WAY: a wide-area, multimethod implementation of the Message Passing Interface
+
+RT Conference Proceedings
+ID 912619
+A1 Foster,Ian
+A1 Jr.,David,R.,Kohr
+A1 Krishnaiyer,Rakesh
+A1 Choudhary,Alok
+YR 1996
+T1 Double standards: bringing task parallelism to HPF via the message passing interface
+SP 36
+
+RT Journal Article
+ID 3425611
+A1 Foster,I.
+A1 Geisler,J.
+A1 Kesselman,C.
+A1 Tuecke,S.
+YR 1996
+T1 Multimethod communication for high-performance networked computing systems
+JF Journal of Parallel and Distributed Computing
+
+RT Journal Article
+ID 3761129
+A1 Foster,I.
+A1 Geisler,J.
+A1 Nickless,W.
+A1 Smith,W.
+A1 Tuecke,S.
+YR 1996
+T1 Software infrastructure for high-performance distributed computing
+
+RT Conference Proceedings
+ID 313389
+A1 Foster,Ian
+A1 Geisler,Jonathan
+A1 Kesselman,Carl
+A1 Tuecke,Steven
+YR 1996
+T1 Multimethod communication for high-performance metacomputing applications
+SP 41
+
+RT Conference Proceedings
+ID 543522
+A1 Foster,Ian,T.
+A1 Tuecke,Steven
+YR 1996
+T1 Enabling Technologies for Web-Based Ubiquitious Supercomputing
+SP 112
+OP 119
+
+RT Conference Proceedings
+ID 388185
+A1 Nieplocha,Jarek
+A1 Foster,Ian
+YR 1996
+T1 Disk resident arrays: an array-oriented I/O library for out-of-core computations
+SP 196
+OP 204
+
+RT Journal Article
+ID 928793
+A1 Abramson,David
+A1 Foster,Ian
+A1 Michalakes,John
+A1 Sosič,Rok
+YR 1996
+T1 Relative debugging: a new methodology for debugging scientific applications
+JF Communications of The ACM
+VO 39
+SP 69
+OP 77
+IS 11
+
+RT Journal Article
+ID 380504
+A1 Foster,Ian,T.
+YR 1996
+T1 Compositional parallel programming languages
+JF ACM Transactions on Programming Languages and Systems
+VO 18
+SP 454
+OP 476
+IS 4
+
+RT Book, Whole
+ID 427421
+A1 Foster,Ian,T.
+YR 1996
+T1 Task Parallelism and High-Performance Languages
+SP 179
+OP 196
+
+RT Journal Article
+ID 737224
+A1 Harrison,Robert,J.
+A1 Guest,Martyn,F.
+A1 Kendall,Ricky,A.
+A1 Bernholdt,David,E.
+A1 Wong,Adrian,T.
+A1 Stave,Mark
+A1 Anchell,James,L.
+A1 Hess,Anthony,C.
+A1 Littlefield,Rik,J.
+A1 Fann,George,L.
+A1 Nieplocha,Jarek
+A1 Thomas,Greg,S.
+A1 Elwood,David
+A1 Tilson,Jeffrey,L.
+A1 Shepard,Ron,L.
+A1 Wagner,Albert,F.
+A1 Foster,Ian,T.
+A1 Lusk,Ewing,L.
+A1 Stevens,Rick
+YR 1996
+T1 Toward high-performance computational chemistry: II. A scalable self-consistent field program
+JF Journal of Computational Chemistry
+VO 17
+SP 124
+OP 132
+IS 1
+
+RT Journal Article
+ID 1912258
+A1 Hibbard,William,L.
+A1 Anderson,John
+A1 Foster,Ian
+A1 Paul,Brian,E.
+A1 Jacob,Robert
+A1 Schafer,Chad
+A1 Tyree,Mary,K.
+YR 1996
+T1 Exploring Coupled Atmosphere-Ocean Models Using Vis5D
+JF International Journal of High Performance Computing Applications
+VO 10
+SP 211
+OP 222
+IS 2-3
+
+RT Conference Proceedings
+ID 405501
+A1 Foster,Ian
+A1 Kesselman,Carl
+A1 Snir,Marc
+YR 1996
+T1 Generalized communicators in the Message Passing Interface
+
+RT Journal Article
+ID 338494
+A1 Foster,Ian
+A1 Kohr,David,R.
+YR 1996
+T1 A Library-Based Approach to Task Parallelism in a Data-Parallel Language
+JF Journal of Parallel and Distributed Computing
+
+RT Journal Article
+ID 737531
+A1 Foster,Ian,T.
+A1 Tilson,Jeffrey,L.
+A1 Wagner,Albert,F.
+A1 Shepard,Ron,L.
+A1 Harrison,Robert,J.
+A1 Kendall,Ricky,A.
+A1 Littlefield,Rik,J.
+YR 1996
+T1 Toward high-performance computational chemistry: I. Scalable Fock matrix construction algorithms
+JF Journal of Computational Chemistry
+VO 17
+SP 109
+OP 123
+IS 1
+
+RT Journal Article
+ID 196692
+A1 Harrison,R.,J.
+A1 Guest,M.,F.
+A1 Kendall,R.,A.
+A1 Bernholdt,David,E.
+A1 Wong,A.,T.
+A1 Stave,M.
+A1 Anchell,J.,L.
+A1 Hess,A.,C.
+A1 Littlefield,R.,J.
+A1 Fann,G.,L.
+A1 Nieplocha,Jaroslaw
+A1 Thomas,G.,S.
+A1 Elwood,D.
+A1 Tilson,J.
+A1 Shepard,R.,L.
+A1 Wagner,A.,F.
+A1 Foster,I.,T.
+A1 Lusk,E.
+A1 Stevens,R.
+YR 1996
+T1 High performance computational chemistry : (II) a scalable SCF program
+JF Journal of Computational Chemistry
+
+RT Journal Article
+ID 1989256
+A1 Abramson,D
+A1 Foster,I.
+A1 Michalakes,J.
+A1 Sosic,R
+YR 1996
+T1 Relative Debugging: A new paradigm for debugging scientific applications
+JF Communications of The ACM
+
+RT Conference Proceedings
+ID 543419
+A1 Foster,Ian,T.
+A1 Papka,Michael,E.
+A1 Stevens,Rick,L.
+YR 1996
+T1 Tools for Distributed Collaborative Environments: A Research Agenda
+SP 23
+OP 28
+
+RT Journal Article
+ID 15194542
+A1 Harrison,Robert,J.
+A1 Guest,Martyn,F.
+A1 Kendall,Rick,A.
+A1 Bernholdt,David,E.
+A1 Wong,Adrian,T.
+A1 Stave,Mark
+A1 Anchell,James,L.
+A1 Hess,Anthony,C.
+A1 Littlefield,Rik,J.
+A1 Fann,George,L.
+A1 Nieplocha,Jaroslaw
+A1 Thomas,Greg,S.
+A1 Elwood,David
+A1 Tilson,Jeffrey,L.
+A1 Shepard,Ron,L.
+A1 Wagner,Albert,F.
+A1 Foster,Ian,T.
+A1 Lusk,Ewing
+A1 Stevens,Rick
+YR 1996
+T1 Toward high‐performance computational chemistry: II. A scalable self‐consistent field program
+JF Journal of Computational Chemistry
+VO 17
+SP 124
+OP 132
+IS 1
+
+RT Book, Whole
+ID 643883
+A1 Foster,Ian,T.
+YR 1996
+T1 High-Performance Distributed Computing: The I_WAY Experiment and Beyond
+SP 3
+OP 10
+
+RT Conference Proceedings
+ID 50073100
+A1 Foster,I.
+A1 Kohr,D.,R.
+A1 Krishnaiyer,R.
+A1 Choudhary,A.
+YR 1996
+T1 Double Standards: Bringing Task Parallelism to HPF Via the Message Passing Interface
+
+RT Conference Proceedings
+ID 50044943
+A1 Foster,Ian,T.
+A1 Kohr,David,R.
+A1 Krishnaiyer,Rakesh
+A1 Choudhary,Alok
+YR 1996
+T1 MPI as a coordination layer for communicating HPF tasks
+
+RT Journal Article
+ID 776739
+A1 Abramson,David
+A1 Foster,Ian,T.
+A1 Michalakes,John
+A1 Sosic,Rok
+YR 1996
+T1 A New Methodology for Debugging Scientific Applications
+JF Communications of The ACM
+VO 39
+SP 69
+OP 77
+IS 11
+
+RT Conference Proceedings
+ID 50073105
+A1 Foster,I.
+A1 Geisler,J.
+A1 Kesselman,C.
+A1 Tuecke,S.
+YR 1996
+T1 Multimethod Communication for High-Performance Metacomputing Applications
+
+RT Journal Article
+ID 60729336
+A1 Abramson,D.
+A1 Sosic,R.
+A1 Foster,I.
+A1 Giddy,J.
+A1 Lewis,A.
+A1 White,N.
+YR 1996
+T1 The Nimrod computational workbench: a case study in desktop metacomputing
+
+RT Journal Article
+ID 51454727
+A1 Hudson,Randy
+A1 Aarsvold,John,N.
+A1 Chen,Chin-Tu
+A1 Chen,Jie
+A1 Davies,Peter
+A1 Disz,Terry
+A1 Foster,Ian
+A1 Griem,Melvin
+A1 Kwong,Man,K.
+A1 Lin,Biquan
+YR 1996
+T1 Optical microscopy system for 3D dynamic imaging
+VO 2655
+SP 187
+OP 198
+
+RT Journal Article
+ID 15194541
+A1 Foster,Ian,T.
+A1 Tilson,Jeffrey,L.
+A1 Wagner,Albert,F.
+A1 Shepard,Ron,L.
+A1 Harrison,Robert,J.
+A1 Kendall,Rick,A.
+A1 Littlefield,Rik,J.
+YR 1996
+T1 Toward high‐performance computational chemistry: I. Scalable Fock matrix construction algorithms
+JF Journal of Computational Chemistry
+VO 17
+SP 109
+OP 123
+IS 1
+
+RT Conference Proceedings
+ID 50061239
+A1 Foster,Ian,T.
+A1 Krishnaiyer,R.
+A1 Choudhary,Alok
+YR 1996
+T1 Communicating data-parallel tasks: an MPI library for HPF
+
+RT Journal Article
+ID 44455796
+A1 Foster,Ian,T.
+A1 Toonen,Brian
+A1 Worley,Patrick,H.
+YR 1996
+T1 Performance of Massively Parallel Computers for Spectral Atmospheric Models
+JF Journal of Atmospheric and Oceanic Technology
+VO 13
+SP 1031
+OP 1045
+IS 5
+
+RT Journal Article
+ID 55182436
+A1 Foster,Ian,T.
+A1 Toonen,Brian
+A1 Worley,Patrick,H.
+YR 1996
+T1 Performance of Massively Parallel Computers for Spectral Atmospheric Models
+JF Journal of Atmospheric and Oceanic Technology
+VO 13
+SP 1031
+
+RT Journal Article
+ID 5656718
+A1 Foster,Ian,T.
+A1 Kohr,David,R.
+A1 Krishnaiyer,Rakesh
+YR 1996
+T1 MPI as a Coordination Layer
+
+RT Journal Article
+ID 1402744
+A1 Foster,I.
+YR 1995
+T1 Designing and building parallel programs
+
+RT Book, Whole
+ID 1368143
+A1 Foster,Ian,T.
+YR 1995
+T1 Designing and building parallel programs - concepts and tools for parallel software engineering
+
+RT Journal Article
+ID 343746
+A1 Foster,Ian,T.
+A1 Chandy,K.,Mani
+YR 1995
+T1 Fortran M: A Language for Modular Parallel Programming
+JF Journal of Parallel and Distributed Computing
+VO 26
+SP 24
+OP 35
+IS 1
+
+RT Journal Article
+ID 380008
+A1 Drake,John,B.
+A1 Foster,Ian,T.
+A1 Michalakes,John
+A1 Toonen,Brian,R.
+A1 Worley,Patrick,H.
+YR 1995
+T1 Design and Performance of a Scalable Parallel Community Climate Model
+JF Parallel Computing
+VO 21
+SP 1571
+OP 1591
+IS 10
+
+RT Journal Article
+ID 377627
+A1 Foster,Ian,T.
+A1 Toonen,Brian
+A1 Worley,Patrick,H.
+YR 1995
+T1 Performance Of Parallel Computers For Spectral Atmospheric Models
+
+RT Conference Proceedings
+ID 233908
+A1 Abramson,David
+A1 Foster,Ian,T.
+A1 Michalakes,John
+A1 Sosic,Rok
+YR 1995
+T1 Relative debugging and its application to the development of large numerical models
+SP 51
+
+RT Journal Article
+ID 392634
+A1 Worley,Patrick,H.
+A1 Foster,I.,T.
+A1 Toonen,B.
+YR 1995
+T1 Algorithm comparison and benchmarking using a parallel spectra transform shallow water model
+
+RT Journal Article
+ID 709437
+A1 Drake,John,B.
+A1 Foster,Ian,T.
+YR 1995
+T1 Introduction to the Special Issue on Parallel Computing in Climate and Weather Modeling
+JF Parallel Computing
+VO 21
+SP 1539
+OP 1544
+IS 10
+
+RT Journal Article
+ID 384744
+A1 Avalani,B.
+A1 Choudhary,A.
+A1 Krishnaiyer,R.
+A1 Foster,I.
+A1 Xu,M.
+YR 1995
+T1 A data transfer library for communicating data-parallel tasks
+
+RT Journal Article
+ID 806084
+A1 Chandy,K.,Mani
+A1 Foster,Ian,T.
+YR 1995
+T1 A Notation for Deterministic Cooperating Processes
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 6
+SP 863
+OP 871
+IS 8
+
+RT Journal Article
+ID 363127
+A1 Foster,I.,T.
+A1 Toonen,B.,R.
+YR 1995
+T1 Load-balancing algorithms for the parallel community climate model
+
+RT Journal Article
+ID 1271883
+A1 Foster,Ian,T.
+A1 Kohr,David,R.
+A1 Olson,Robert
+A1 Tuecke,Steven
+A1 Xu,Ming,Q.
+YR 1995
+T1 Point-to-point communication using migrating ports
+
+RT Conference Proceedings
+ID 50038868
+A1 Abramson,David
+A1 Foster,Ian
+A1 Michalakes,John
+A1 Sosic,Rok
+YR 1995
+T1 Relative Debugging and its Application to the Development of Large Numerical Models
+
+RT Journal Article
+ID 60141197
+A1 Foster,I.
+A1 Kesselman,C.
+YR 1995
+T1 Language constructs and runtime systems for compositional parallel programming
+
+RT Conference Proceedings
+ID 313063
+A1 Drake,John,B.
+A1 Foster,Ian,T.
+A1 Michalakes,John
+A1 Worley,Patrick,H.
+YR 1995
+T1 Parallel Algorithms for Semi-Lagrangian Transport in Global Atmospheric Circulation Models
+SP 119
+OP 124
+
+RT Journal Article
+ID 14503390
+A1 Foster,Ian
+YR 1995
+T1 Parallel computing in climate and weather modeling
+JF Parallel Computing
+VO 21
+SP 1537
+OP 1537
+IS 10
+
+RT Journal Article
+ID 231588
+A1 Foster,I.
+A1 Tuecke,S.
+A1 Kesselman,C.
+YR 1994
+T1 The Nexus task-parallel runtime system
+
+RT Conference Proceedings
+ID 213734
+A1 Foster,Ian
+A1 Xu,Ming
+A1 Avalani,Bhaven
+A1 Choudhary,A.
+YR 1994
+T1 A compilation system that integrates High Performance Fortran and Fortran M
+
+RT Journal Article
+ID 394845
+A1 Foster,Ian,T.
+A1 Worley,Patrick,H.
+YR 1994
+T1 Parallel algorithms for the spectral transform method
+JF Siam Journal on Scientific Computing
+
+RT Conference Proceedings
+ID 366925
+A1 Worley,P.,H.
+A1 Foster,I.,T.
+YR 1994
+T1 Parallel Spectral Transform Shallow Water Model: a runtime-tunable parallel benchmark code
+
+RT Journal Article
+ID 857176
+A1 Foster,Ian,T.
+A1 Taylor,Stephen
+YR 1994
+T1 A compiler approach to scalable concurrent-program design
+JF ACM Transactions on Programming Languages and Systems
+VO 16
+SP 577
+OP 604
+IS 3
+
+RT Journal Article
+ID 399937
+A1 Foster,Ian
+A1 Xu,Ming
+YR 1994
+T1 Libraries For Parallel Paradigm Integration
+
+RT Conference Proceedings
+ID 387288
+A1 Foster,Ian,T.
+A1 Toonen,Brian,R.
+YR 1994
+T1 Load-balancing algorithms for climate models
+
+RT Journal Article
+ID 1981076
+A1 Foster,Ian
+A1 Kesselman,Carl
+A1 Olson,Robert
+A1 Tuecke,Steve
+YR 1994
+T1 Nexus: An interoperability toolkit for parallel and distributed computer systems
+JF Mathematics in Computer Science
+
+RT Book, Whole
+ID 410362
+A1 Foster,Ian,T.
+A1 Kesselman,Carl
+YR 1994
+T1 Language Constructs and Runtime Systems for Compositional Parallel Programming
+SP 5
+OP 16
+
+RT Journal Article
+ID 196031
+A1 Foster,Ian
+A1 Patton,James
+A1 Garnett,John
+A1 Tuecke,Steven
+YR 1994
+T1 Nexus User's Guide
+
+RT Journal Article
+ID 60559920
+A1 Drake,J.,B.
+A1 Flanery,R.,E.
+A1 Walker,D.,W.
+A1 Worley,P.,H.
+A1 Foster,I.,T.
+A1 Michalakes,J.,G.
+A1 Stevens,R.,L.
+A1 Hack,J.,J.
+A1 Williamson,D.,L.
+YR 1994
+T1 The message passing version of the parallel Community Climate Model
+
+RT Journal Article
+ID 60542502
+A1 Drake,J.
+A1 Semeraro,B.,D.
+A1 Worley,P.
+A1 Foster,I.
+A1 Michalakes,J.
+A1 Toonen,B.
+A1 Hack,J.,J.
+A1 Williamson,D.,L.
+YR 1994
+T1 PCCM2: A GCM adapted for scalable parallel computers
+
+RT Journal Article
+ID 60556030
+A1 Foster,I.
+A1 Kesselman,C.
+A1 Olson,R.
+A1 Tuecke,S.
+YR 1994
+T1 Nexus: An interoperability layer for parallel and distributed computer systems
+
+RT Journal Article
+ID 59300613
+A1 Divers,S
+A1 Foster,I
+A1 Rayment,L
+A1 Redrobe,S
+YR 1994
+T1 Veterinarians and zoological medicine
+VO 135
+SP 71
+OP 71
+IS 3
+
+RT Journal Article
+ID 39450802
+A1 Foster,Ian
+YR 1994
+T1 Restoration and management of lakes and reservoirs (2nd edn), edited by G. Dennis Cooke, Eugene B. Welch, Spencer A. Peterson and Peter R. Newroth, Lewis Publishers
+JF Regulated Rivers-research & Management
+VO 9
+SP 131
+OP 132
+IS 2
+
+RT Journal Article
+ID 55990618
+A1 Foster,I.,T.
+A1 Toonen,B.,R.
+YR 1994
+T1 Load-balancing algorithms for climate models
+
+RT Journal Article
+ID 60553125
+A1 Foster,I.,T.
+A1 Walker,D.,W.
+YR 1994
+T1 Paradigms and strategies for scientific computing on distributed memory concurrent computers
+
+RT Journal Article
+ID 60548580
+A1 Miller,N.,L.
+A1 Foster,I.,T.
+YR 1994
+T1 Hierarchical framework for coupling a biogeochemical trace gas model to a general circulation model
+
+RT Journal Article
+ID 445
+A1 Koelbel,Charles
+A1 Tseng,Chau-wen
+A1 Foster,Ian
+A1 Kennedy,Ken
+A1 Chandy,Mani
+YR 1993
+T1 Integrated Support for Task and Data Parallelism
+
+RT Journal Article
+ID 1932280
+A1 Foster,Ian
+A1 Tuecke,Steven
+YR 1993
+T1 Parallel programming with PCN
+
+RT Journal Article
+ID 44485142
+A1 Lyons,T.,J.
+A1 Schwerdtfeger,P.
+A1 Hacker,J.,M.
+A1 Foster,I.,J.
+A1 Smith,R.,C.,G.
+A1 Xinmei,Huang
+YR 1993
+T1 Land–Atmosphere Interaction in a Semiarid Region: The Bunny Fence Experiment
+JF Bulletin of The American Meteorological Society
+VO 74
+SP 1327
+OP 1334
+IS 7
+
+RT Journal Article
+ID 2108537
+A1 Foster,I.
+A1 Kesselman,C.
+A1 Olson,R.
+A1 Tuecke,S.
+YR 1993
+T1 Nexus: An interoperability layer for parallel and distributed computer systems
+
+RT Conference Proceedings
+ID 191965
+A1 Foster,Ian,T.
+A1 Worley,Patrick,H.
+YR 1993
+T1 Parallelizing the Spectral Transform Method: A Comparison of Alternative Parallel Algorithms
+SP 100
+OP 107
+
+RT Journal Article
+ID 313438
+A1 Foster,Ian
+A1 Michalakes,John
+YR 1993
+T1 Mpmm: A Massively Parallel Mesoscale Model
+
+RT Journal Article
+ID 2021853
+A1 Foster,Ian
+A1 Olson,R.
+A1 Tuecke,Steve
+YR 1993
+T1 Programming in Fortran M
+
+RT Conference Proceedings
+ID 567714
+A1 Chandy,K.,Mani
+A1 Foster,Ian,T.
+YR 1993
+T1 Deterministic Parallel FORTRAN
+SP 798
+OP 805
+
+RT Journal Article
+ID 2593
+A1 Foster,Ian,T.
+A1 Chandy,K.,Mani
+YR 1993
+T1 A Deterministic Notation for Cooperating Processes
+JF IEEE Transactions on Parallel and Distributed Systems
+
+RT Journal Article
+ID 2542578
+A1 Dawson,A.,G.
+A1 Hickey,K.
+A1 Mckenna,J.
+A1 Foster,I.,D.,L.
+YR 1993
+T1 A 200-year record of gale frequency
+
+RT Conference Proceedings
+ID 439876
+A1 Fox,Geoffrey
+A1 Ranka,Sanjay
+A1 Scott,Michael,L.
+A1 Malony,Allen,D.
+A1 Browne,James,C.
+A1 Chen,Marina,C.
+A1 Choudhary,Alok,N.
+A1 Cheatham,Thomas
+A1 Cuny,Janice,E.
+A1 Eigenmann,Rudolf
+A1 Fahmy,Amr,F.
+A1 Foster,Ian,T.
+A1 Gannon,Dennis
+A1 Haupt,Tomasz
+A1 Kesselman,Carl
+A1 Koelbel,Charles
+A1 Li,Wei
+A1 Lam,Monica,S.
+A1 Leblanc,Thomas,J.
+A1 Openshaw,Jim
+A1 Padua,David,A.
+A1 Polychronopoulos,Constantine,D.
+A1 Saltz,Joel,H.
+A1 Sussman,Alan
+A1 Weigand,Gil
+A1 Yelick,Katherine,A.
+YR 1993
+T1 Common runtime support for high-performance parallel languages
+SP 752
+OP 757
+
+RT Conference Proceedings
+ID 440144
+A1 Foster,Ian,T.
+A1 Kesselman,Carl
+YR 1993
+T1 Integrating task and data parallelism
+SP 154
+OP 155
+
+RT Conference Proceedings
+ID 49979053
+A1 Fox,Geoffrey,C.
+A1 Ranka,Sanjay
+A1 Scott,Michael
+A1 Malony,Allen,D.
+A1 Browne,Jim
+A1 Chen,Marina,C.
+A1 Choudhary,Alok
+A1 Cheatham,Thomas
+A1 Cuny,Jan
+A1 Eigenmann,Rudolf
+A1 Faluny,A.
+A1 Foster,Ian
+A1 Gannon,Dennis
+A1 Haupt,Tom
+A1 Karr,Mike
+A1 Kesselman,Carl
+A1 Koelbel,Chuck
+A1 Li,Wei
+A1 Lam,Monica
+A1 LeBlanc,Thomas
+A1 Openshaw,Jim
+A1 Padua,David
+A1 Polychronopoulos,Constantine
+A1 Saltz,Joel
+A1 Sussman,Alan
+A1 Weigand,Gil
+A1 Yelick,Kathy
+YR 1993
+T1 Common runtime support for high-performance parallel languages parallel compiler runtime consortium
+SP 752
+OP 757
+
+RT Conference Proceedings
+ID 2191285
+A1 Chandy,K.,Mani
+A1 Foster,Ian,T.
+YR 1993
+T1 Parallel Language Constructs for Paradigm Integration and Deterministic Computations
+SP 3
+OP 12
+
+RT Conference Proceedings
+ID 49978985
+A1 Foster,I.
+A1 Kesselman,C.
+YR 1993
+T1 Integrating task and data parallelism
+SP 154
+OP 155
+
+RT Journal Article
+ID 60562244
+A1 Foster,I.,T.
+A1 Chandy,K.,M.
+YR 1993
+T1 Fortran M language definition
+
+RT Journal Article
+ID 44051572
+A1 FOSTER,I.,D.,L.
+A1 THORN,R.,H.
+YR 1993
+T1 Contrasting Problems of Implementing European Community Water Protection Zone Policies in Ireland and the UK
+JF Water and Environment Journal
+VO 7
+SP 62
+OP 67
+IS 1
+
+RT Journal Article
+ID 60563695
+A1 Foster,I.,T.
+A1 Olson,R.,D.
+A1 Tuecke,S.,J.
+YR 1993
+T1 Programming in Fortran M. Revision 1
+
+RT Journal Article
+ID 60454291
+A1 Foster,I.
+A1 Tuecke,S.
+YR 1993
+T1 Parallel programming with PCN. Revision 2
+
+RT Journal Article
+ID 52725494
+A1 Foster,I.
+YR 1993
+T1 A toolkit for building Earth system models
+
+RT Journal Article
+ID 329429
+A1 Foster,Ian,T.
+A1 Olson,Robert
+A1 Tuecke,Steven
+YR 1992
+T1 Productive Parallel Programming: The PCN Approach
+JF Scientific Programming
+VO 1
+SP 51
+OP 66
+IS 1
+
+RT Journal Article
+ID 60082500
+A1 Foster,I.
+A1 Kaper
+YR 1992
+T1 The Earth's climate as a dynamical system
+
+RT Journal Article
+ID 60089607
+A1 Foster,I.
+A1 Kaper
+YR 1992
+T1 The Earth`s climate as a dynamical system. Proceedings
+
+RT Journal Article
+ID 51636911
+A1 Chern,I.-Liang
+A1 Foster,Ian
+YR 1992
+T1 Design and parallel implementation of two numerical methods for modeling the atmospheric circulation
+
+RT Journal Article
+ID 60548086
+A1 Drake,J.,B.
+A1 Williamson,D.,L.
+A1 Foster,I.
+YR 1992
+T1 Parallel algorithms for the spectral transform and semi-lagrangian transport methods
+
+RT Journal Article
+ID 61310238
+A1 Drake,J.,B.
+A1 Williamson,D.,L.
+A1 Foster,I.
+YR 1992
+T1 Parallel algorithms for the spectral transform and semi-lagrangian transport methods
+
+RT Journal Article
+ID 51559926
+A1 Foster,I.
+A1 Michalakes,J.
+YR 1992
+T1 Massively parallel implementation of the Penn State/NCAR mesoscale model
+
+RT Journal Article
+ID 60550660
+A1 Foster,I.
+A1 Michalakes,J.
+YR 1992
+T1 MPMM: A Massively Parallel Mesoscale Model
+
+RT Conference Proceedings
+ID 483801
+A1 Foster,Ian,T.
+A1 Winsborough,William,H.
+YR 1991
+T1 Copy Avoidance through Compile-Time Analysis and Local Reuse
+SP 455
+OP 469
+
+RT Journal Article
+ID 805139
+A1 Foster,Ian,T.
+YR 1991
+T1 Automatic Generation of Self-Scheduling Programs
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 2
+SP 68
+OP 78
+IS 1
+
+RT Conference Proceedings
+ID 567062
+A1 Foster,Ian,T.
+A1 Gropp,William
+A1 Stevens,Rick,L.
+YR 1991
+T1 Parallel Scalability of the Spectral Transform Method
+SP 307
+OP 312
+
+RT Journal Article
+ID 1278226
+A1 Foster,I.
+A1 Tuecke,S.
+A1 Taylor,S.
+YR 1991
+T1 A portable run-time system for PCN
+JF Software - Practice and Experience
+
+RT Conference Proceedings
+ID 483640
+A1 Foster,Ian,T.
+A1 Kesselman,Carl
+A1 Taylor,Stephen
+YR 1991
+T1 Using Compositional Programming to Write Portable, High-Performance Parallel Programs
+SP 737
+OP 738
+
+RT Journal Article
+ID 51358917
+A1 Brown,G.,C.
+A1 Everett,S.,P.
+A1 Rymer,H.
+A1 McGarvie,D.,W.
+A1 Foster,I.
+YR 1991
+T1 New light on caldera evolution---Askja, Iceland
+
+RT Book, Whole
+ID 583922
+A1 Overbeek,Ross,A.
+A1 Foster,Ian,T.
+YR 1991
+T1 Aligning Multiple RNA Sequences
+SP 231
+OP 248
+
+RT Journal Article
+ID 745846
+A1 Foster,Ian,T.
+YR 1991
+T1 A Declarative State Transition System
+JF The Journal of Logic and Algebraic Programming
+VO 10
+SP 45
+OP 67
+IS 1/2/3&4
+
+RT Conference Proceedings
+ID 566951
+A1 Chern,I-liang
+A1 Foster,Ian,T.
+YR 1991
+T1 Parallel Implementation of a Control Volume Method for Solving PDEs on the Sphere
+SP 301
+OP 306
+
+RT Journal Article
+ID 751707
+A1 Foster,Ian,T.
+YR 1991
+T1 Efficient Computation Control in Concurrent Logic Languages
+JF New Generation Computing
+VO 10
+SP 1
+OP 22
+IS 1
+
+RT Journal Article
+ID 44886159
+A1 Foster,Ian
+YR 1991
+T1 Holocene book reviews: Historical change of large alluvial riversEdited by G.E. Petts with H. Moller and A.L. Roux. London: John Wiley and Sons, 1989. 355 pp., £49.95 hardback. ISBN 0-471-92163-7
+JF Holocene
+VO 1
+SP 93
+OP 94
+IS 1
+
+RT Journal Article
+ID 5374883
+A1 CHARLESWORTH,S.,M.
+A1 FOSTER,I.,D.,L.
+YR 1991
+T1 Pollution, rescue and management: the problem of two shallow urban lakes, Coventry, UK
+
+RT Journal Article
+ID 60072380
+A1 Foster,I.
+A1 Tuecke,S.
+YR 1991
+T1 Parallel programming with PCN. Revision 1
+
+RT Journal Article
+ID 1272815
+A1 Foster,I.
+A1 Taylor,S.
+YR 1990
+T1 Strand: new concepts in parallel programming
+
+RT Book, Whole
+ID 39256278
+A1 Foster,Ian,T.
+YR 1990
+T1 Systems programming in parallel logic languages
+
+RT Conference Proceedings
+ID 532794
+A1 Foster,Ian,T.
+A1 Stevens,Rick,L.
+YR 1990
+T1 Parallel Programming with Algorithmic Motifs
+SP 26
+OP 34
+
+RT Journal Article
+ID 700687
+A1 Foster,Ian,T.
+A1 Kesselman,Carl
+A1 Taylor,Stephen
+YR 1990
+T1 Concurrency: Simple Concepts and Powerful Tools
+JF The Computer Journal
+VO 33
+SP 501
+OP 507
+IS 6
+
+RT Book, Whole
+ID 497180
+A1 Butler,Ralph
+A1 Foster,Ian,T.
+A1 Jindal,Anita
+A1 Overbeek,Ross,A.
+YR 1990
+T1 A High-Performance Parallel Theorem Prover
+SP 649
+OP 650
+
+RT Journal Article
+ID 60247956
+A1 Foster,I.
+A1 Overbeek,R.
+YR 1990
+T1 Bilingual parallel programming
+
+RT Journal Article
+ID 60387122
+A1 Foster,I.
+A1 Stevens,R.
+YR 1990
+T1 Parallel programming with algorithmic skeletons
+
+RT Journal Article
+ID 1362540
+A1 Foster,I.
+A1 Taylor,S.
+A1 Pasadena,CA
+YR 1989
+T1 Strand: A practical parallel programming language
+
+RT Journal Article
+ID 751990
+A1 Gregory,Steve
+A1 Foster,Ian,T.
+A1 Burt,Alastair,D.
+A1 Ringwood,Graem,A.
+YR 1989
+T1 An Abstract Machine for the Implementation of PARLOG on Uniprocessors
+JF New Generation Computing
+VO 6
+SP 389
+OP 420
+IS 4
+
+RT Journal Article
+ID 1932269
+A1 Foster,I.
+YR 1989
+T1 Systems programming in parallel logic languages
+
+RT Journal Article
+ID 1932263
+A1 Foster,Ian
+YR 1989
+T1 A multicomputer garbage collector for a single-assignment language
+JF International Journal of Parallel Programming
+VO 18
+SP 181
+OP 203
+IS 3
+
+RT Conference Proceedings
+ID 483800
+A1 Foster,Ian,T.
+A1 Taylor,Stephen
+YR 1989
+T1 Strand: A Practical Parallel Programming Tool
+SP 497
+OP 512
+
+RT Journal Article
+ID 762405
+A1 Foster,Ian,T.
+YR 1989
+T1 Implementation of a Declarative State-transition System
+JF Software - Practice and Experience
+VO 19
+SP 351
+OP 370
+IS 4
+
+RT Journal Article
+ID 1395977
+A1 Foster,I.
+YR 1989
+T1 Automatics generation of self scheduling programs
+
+RT Journal Article
+ID 60214781
+A1 Butler,R.
+A1 Butler,T.
+A1 Foster,I.
+A1 Karonis,N.
+A1 Olson,R.
+A1 Overbeek,R.
+A1 Pfluger,N.
+A1 Price,M.
+A1 Tuecke,S.
+YR 1989
+T1 Generating alignments of genetic sequences
+
+RT Conference Proceedings
+ID 531677
+A1 Foster,Ian,T.
+YR 1988
+T1 Parallel Implementation of Parlog
+SP 9
+OP 16
+
+RT Journal Article
+ID 39644405
+A1 FOSTER,IJ
+A1 LYONS,TJ
+YR 1988
+T1 The development of tropical cyclones in the north-west of Australia
+JF Quarterly Journal of The Royal Meteorological Society
+VO 114
+SP 1187
+OP 1199
+IS 483
+
+RT Journal Article
+ID 39644406
+A1 Foster,I.,J.
+A1 Lyons,T.,J.
+YR 1988
+T1 The development of tropical cyclones in the north-west of Australia
+JF Quarterly Journal of The Royal Meteorological Society
+VO 114
+SP 1187
+OP 1199
+IS 483
+
+RT Journal Article
+ID 53402229
+A1 Foster,I.,J.
+A1 Lyons,T.,J.
+YR 1988
+T1 The development of tropical cyclones in the north-west of Australia
+JF Quarterly Journal of The Royal Meteorological Society
+VO 114
+SP 1187
+OP 1199
+
+RT Journal Article
+ID 1932278
+A1 Foster,Ian
+A1 Taylor,Stephen
+YR 1987
+T1 Flat Parlog: A basis for comparison
+JF International Journal of Parallel Programming
+VO 16
+SP 87
+OP 125
+IS 2
+
+RT Book, Whole
+ID 641991
+A1 Clark,Keith,L.
+A1 Foster,Ian,T.
+YR 1987
+T1 A Declarative Environment for Concurrent Logic Programming
+SP 212
+OP 242
+
+RT Conference Proceedings
+ID 529582
+A1 Foster,Ian,T.
+YR 1987
+T1 Logic Operating System: Design Issues
+SP 910
+OP 926
+
+RT Journal Article
+ID 6830155
+A1 Foster,Ian,D.,L.
+A1 Dearing,John,A.
+YR 1987
+T1 Quantification of long term trends in atmospheric pollution and agricultural eutrophication: A lake*watershed approach
+
+RT Book, Whole
+ID 529974
+A1 Foster,Ian,T.
+A1 Gregory,Steve
+A1 Ringwood,Graem,A.
+A1 Satoh,Ken
+YR 1986
+T1 A Sequential Implementation of Parlog
+SP 149
+OP 156
+
+RT Conference Proceedings
+ID 483799
+A1 Foster,Ian,T.
+A1 Kusalik,Anthony,J.
+YR 1986
+T1 A Logical Treatment of Secondary Storage
+SP 58
+OP 67
+
+RT Journal Article
+ID 26355851
+A1 FOSTER,I
+YR 1986
+T1 Groundwater as a geomorphic agentR.G. LaFleur (editor). (The “Binghampton” Symposia in Geomorphology: International series no. 13) Allen and Unwin, Boston, Mass., 1984, xiv + 390 pp., UK £30.00 (hardback)
+JF Journal of Hydrology
+VO 85
+SP 199
+OP 200
+IS 1-2
+
+RT Journal Article
+ID 53585024
+A1 Foster,I.
+YR 1986
+T1 Groundwater as a geomorphic agent R.G. LaFleur (editor). (The ``Binghampton'' Symposia in Geomorphology: International series no. 13) Allen and Unwin, Boston, Mass., 1984, xiv + 390 pp., UK £30.00 (hardback)
+JF Journal of Hydrology
+VO 85
+SP 199
+OP 200
+
+RT Journal Article
+ID 60470039
+A1 Petts,G.
+A1 Foster,I.
+YR 1985
+T1 Rivers and landscape
+
+RT Journal Article
+ID 39643910
+A1 FOSTER,IJ
+A1 LYONS,TJ
+YR 1984
+T1 Tropical cyclogenesis: a comparative study of two depressions in the northwest of Australia
+JF Quarterly Journal of The Royal Meteorological Society
+VO 110
+SP 105
+OP 119
+IS 463
+
+RT Journal Article
+ID 39643911
+A1 Foster,I.,J.
+A1 Lyons,T.,J.
+YR 1984
+T1 Tropical cyclogenesis: A comparative study of two depressions in the northwest of Australia
+JF Quarterly Journal of The Royal Meteorological Society
+VO 110
+SP 105
+OP 119
+IS 463
+
+RT Journal Article
+ID 53712503
+A1 Foster,I.,J.
+A1 Lyons,T.,J.
+YR 1984
+T1 Tropical cyclogenesis: A comparative study of two depressions in the northwest of Australia
+JF Quarterly Journal of The Royal Meteorological Society
+VO 110
+SP 105
+OP 119
+
+RT Journal Article
+ID 12822939
+A1 Tuecke,Steven
+A1 Czajkowski,Karl
+A1 Foster,Ian
+A1 Frey,Jeffrey
+A1 Graham,Steve
+A1 Kesselman,Carl
+T1 Grid Service Specification
+
+RT Book, Whole
+ID 48504409
+A1 Foster,Ian
+T1 The Anatomy of the Grid: Enabling Scalable Virtual Organizations
+
+RT Journal Article
+ID 4506653
+A1 Moreau,Luc
+A1 Ludascher,Bertram
+A1 Altintas,Ilkay
+A1 Barga,Roger,S.
+A1 Bowers,Shawn
+A1 Callahan,Steven
+A1 Jr,George,Chin
+A1 Cliord,Ben
+A1 Cohen,Shirley
+A1 Cohen-Boulakia,Sarah
+A1 Davidson,Susan
+A1 Deelman,Ewa
+A1 Digiampietri,Luciano
+A1 Foster,Ian
+A1 Freire,Juliana
+A1 Frew,James
+A1 Futrelle,Joe
+A1 Gibson,Tara
+A1 Gil,Yolanda
+A1 Goble,Carole
+A1 Golbeck,Jennifer
+A1 Groth,Paul
+A1 Holland,David,A.
+A1 Jiang,Sheng
+A1 Kim,Jihie
+A1 Koop,David
+A1 Krenek,Ales
+A1 McPhillips,Timothy
+A1 Mehta,Gaurang
+A1 Miles,Simon
+A1 Metzger,Dominic
+A1 Munroe,Steve
+A1 Myers,Jim
+A1 Plale,Beth
+A1 Podhorszki,Norbert
+A1 Ratnakar,Varun
+A1 Santos,Emanuele
+A1 Scheidegger,Carlos
+A1 Schuchardt,Karen
+A1 Seltzer,Margo
+A1 Simmhan,Yogesh,L.
+A1 Silva,Claudio
+A1 Slaughter,Peter
+A1 Stephan,Eric
+A1 Stevens,Robert
+A1 Turi,Daniele
+A1 Vo,Huy
+A1 Wilde,Mike
+A1 Zhao,Jun
+A1 Zhao,Yong
+T1 The First Provenance Challenge
+
+RT Journal Article
+ID 5468744
+A1 Sotomayor,Borja
+A1 Llorente,Ignacio,Mart,n
+A1 Foster,Ian
+T1 Capacity Leasing in Cloud Systems using the OpenNebula Engine
+
+RT Journal Article
+ID 3672138
+A1 Allcock,William,E.
+A1 Foster,Ian
+A1 Madduri,Ravi
+T1 Reliable Data Transport: A Critical Service for the Grid
+
+RT Journal Article
+ID 10114284
+A1 Fosterab,Ian
+A1 Fidler,Markus
+A1 Roy,Alain
+A1 Sandere,Volker
+A1 Winkler,Linda
+T1 End-to-End Quality of Service for High-End Applications
+JF Computer Communications
+
+RT Journal Article
+ID 20129
+A1 Allcock,W.
+A1 Chervenak,A.
+A1 Foster,I.
+A1 Pearlman,L.
+A1 Welch,V.
+A1 Wilde,M.
+T1 Globus Toolkit Support for Distributed Data-Intensive Science
+
+RT Journal Article
+ID 2377510
+A1 Czajkowski,K.
+A1 Foster,ISI,I.
+A1 Frey,J.
+A1 Snelling,ISI,D.
+A1 Vanderbilt,P.
+T1 Open Grid Services Infrastructure (OGSI) (draft)
+
+RT Conference Proceedings
+ID 5707890
+A1 Keahey,K.
+A1 Foster,I.
+A1 Freeman,T.
+A1 Rana,A.
+A1 Sotomayor,B.
+A1 Würthwein,F.
+T1 Division of Labor: Tools for Growth and Scalability of Grids
+
+RT Conference Proceedings
+ID 227469
+A1 Laszewski,Gregor,Von
+A1 Foster,Ian
+T1 Usage of LDAP in Globus
+
+RT Journal Article
+ID 4686081
+A1 Zhang,Xuehai
+A1 Keahey,Katarzyna
+A1 Foster,Ian
+A1 Freeman,Timothy
+T1 Virtual Cluster Workspaces for Grid Applications
+
+RT Journal Article
+ID 5311627
+A1 Sotomayor,Borja
+A1 Keahey,Kate
+A1 Foster,Ian
+A1 Freeman,Tim
+T1 Enabling Cost-Effective Resource Leases with Virtual Machines
+
+RT Journal Article
+ID 10397643
+A1 Getov,Vladimir
+A1 Laszewski,Gregor,von
+A1 Philippsen,Michael
+A1 Foster,Ian
+T1 Multi-Paradigm Communications in Java for Grid Computing
+JF Communications of The ACM
+
+RT Journal Article
+ID 14102951
+A1 Foster,I.
+A1 Gannon,D.
+A1 Kishimoto,Indiana,U.,H.
+A1 Reich,J.,Von
+T1 Open Grid Services Architecture Use Cases
+
+RT Journal Article
+ID 4609640
+A1 Cinquini,Luca
+A1 Strand,Gary
+A1 Bernholdt,David
+A1 Chanchio,Kasidit
+A1 Foster,Ian
+A1 Nefedova,Veronika
+A1 Williams,Dean
+A1 Drach,Bob
+A1 Brown,David
+A1 Fox,Peter
+A1 Garcia,Jose
+A1 Shoshani,Arie
+A1 Sim,Alex
+A1 Bharathi,Shishir
+T1 The Earth System Grid Discovery and Semantic Web Technologies
+
+RT Journal Article
+ID 5433468
+A1 STEF-PRAUN,Tiberiu
+A1 FOSTER,Ian
+A1 HASSON,Uri
+A1 SMALL,Steven,L.
+A1 WILDE,Michael
+T1 Accelerating Medical Research using the Swift Workflow System
+
+RT Journal Article
+ID 11757781
+A1 FOSTER,I.,D.,L.
+A1 BABAN,S.,M.,J.
+A1 WADE,S.,D.
+A1 CHARLESWORTH,S.,M.
+A1 BUCKLAND,P.,J.
+A1 WAGSTAFF,K.
+T1 Sediment-associated phosphorus transport in the Warwickshire River Avon, UK
+
+RT Journal Article
+ID 6580003
+A1 Foster,Ian,D.,L.
+A1 Bearing,John,A.
+A1 Grew,Robert
+T1 Lake-catchments: an evaluation of their contribution to studies of sediment yield and delivery processes
+
+RT Journal Article
+ID 12799082
+A1 Nieplocha,Jarek
+A1 Harrison,Robert
+A1 Foster,Ian
+T1 EXPLICIT MANAGEMENT OF MEMORY HIERARCHY
+
+RT Conference Proceedings
+ID 12997339
+A1 Foster,Ian
+A1 Kessekan,Carl
+A1 Tsudik,Gene
+A1 Tueckel,Steven
+T1 A Security Architecture for Computational Grids
+
+RT Journal Article
+ID 5040194
+A1 Foster,Ian
+A1 Kesselman,Carl
+T1 THE GRID IN A NUTSHELL
+
+RT Journal Article
+ID 4926012
+A1 Fisher,R.,T.
+A1 Kadano,L.
+A1 Lamb,D.,Q.
+A1 Constantin,P.
+A1 Foster,I.
+A1 Cattaneo,F.
+A1 Papka,M.,E.
+A1 Dubey,A.
+A1 Plewa,T.
+A1 Rich,P.
+A1 Antypas,K.
+A1 Abarzhi,S.,I.
+A1 Asida,S.,M.
+A1 Calder,A.,C.
+A1 Reid,L.,B.
+A1 Sheeler,D.
+A1 Gallagher,J.,B.
+A1 Glendenin,C.,C.
+A1 Needham,S.,G.
+T1 Terascale Turbulence Computation on BG/L Using the FLASH3 Code
+JF Ibm Systems Journal
+
+RT Conference Proceedings
+ID 12847938
+A1 Foster,Ian
+A1 Gawor,Jarek
+T1 Title: CoG Kits: A Bridge between Commodity Distributed Computing and High-Performance Grids
+
+RT Journal Article
+ID 4471800
+A1 Raicu,Ioan
+A1 Zhao,Yong
+A1 Foster,Ian
+A1 Szalay,Alex
+T1 A Data Diffusion Approach to Large Scale Scientific Exploration
+
+RT Journal Article
+ID 10025863
+A1 Foster,Ian
+A1 Kesselman,Carl
+A1 Tuecke,Steven
+T1 Enabling Scalable Virtual Organizations
+
+RT Journal Article
+ID 5269461
+A1 Foster,Ian
+A1 Keahey,Kate
+A1 Kesselman,Carl
+A1 Laure,Erwin
+A1 Livny,Miron
+A1 Martin,Stuart
+A1 Rynge,Mats
+A1 Singh,Gurmeet
+T1 Embedding Community-Specific Resource Managers in General-Purpose Grid Infrastructure
+
+RT Journal Article
+ID 4681536
+A1 Stef-Praun,Tiberiu
+A1 Madeira,Gabriel,A.
+A1 Foster,Ian
+A1 Townsend,Robert
+T1 Accelerated solution of a moral hazard problem with Swift
+
+RT Journal Article
+ID 5290739
+A1 Lang,Bo
+A1 Foster,Ian
+A1 Siebenlist,Frank
+A1 Ananthakrishnan,Rachana
+A1 Freeman,Tim
+T1 Attribute Based Access Control for Grid Computing
+
+RT Journal Article
+ID 10431416
+A1 Foster,Ian
+A1 Kesselman,Carl
+A1 Lee,Craig
+A1 Lindell,Bob
+A1 Nahrstedt,Klara
+A1 Roy,Alain
+T1 A Distributed Resource Management Architecture that Supports Advance Reservations and Co-Allocation
+
+RT Journal Article
+ID 10053236
+A1 Oster,Scott
+A1 Langella,Stephen
+A1 Hastings,Shannon
+A1 Ervin,David
+A1 Madduri,Ravi
+A1 Kurc,Tahsin
+A1 Siebenlist,Frank
+A1 Foster,Ian
+A1 Shanbhag,Krishnakant
+A1 Covitz,Peter
+A1 Saltz,Joel
+T1 caGrid 1.0: A Grid Enterprise Architecture for Cancer Research
+
+RT Journal Article
+ID 52224
+A1 Ranganathan,Kavitha
+A1 Foster,Ian
+T1 Computation and Data Scheduling for Large-Scale Distributed Computing
+
+RT Journal Article
+ID 12345956
+A1 Adams,Bruce
+A1 Adesina,Ajoke
+A1 Aina,Olufunmito
+A1 Aina,Victoria
+A1 Akers,Lawrence
+A1 Ako-Brew,Marian
+A1 Alicea,Peter
+A1 Alsheuski,Kiryl
+A1 Amimi,Jamal
+A1 Aquino,Samantha
+A1 Aristud,Maria
+A1 Asante,Whitney
+A1 Ayala,Alberto
+A1 Baboval,Aaron
+A1 Baek,Jongho
+A1 Bailey,Ashley
+A1 Bajumpaa,Eric
+A1 Balboni,Christopher
+A1 Banner-Powers,Andrew
+A1 Barnes,Rachel
+A1 Batista,Alondra
+A1 Batista,Anthony
+A1 Beliveau,Jessica
+A1 Bianchi,Matthew
+A1 Bienvenue,Katie
+A1 Blake,Jonathan
+A1 Blanco,Elvin
+A1 Boucher,Kayla
+A1 Boutin,Michael
+A1 Brown,Christine
+A1 Brown,Joel
+A1 Brown,Richard
+A1 Brown,Tammy
+A1 Brunton,Crystal
+A1 Burgos,Kristal
+A1 Burt,Jason
+A1 Bys,Robert
+A1 Jr.,Angelo,Camerota
+A1 Caraballo,Jennifer
+A1 Carney,Mairead
+A1 Carter,Cristi
+A1 Caudle,Eric
+A1 Chalas,Jeanny
+A1 Charles,Jolene
+A1 Chaudhry,Umar
+A1 Chavez,Monica
+A1 Cirillo,Naiya
+A1 Collins,Eric
+A1 Coppedge,Cornella
+A1 Correa,Julissa
+A1 Costella,Lori
+A1 Cruz,Amanda
+A1 Cruz,Angel
+A1 Cruz,Daisy
+A1 Cruz,Vanessa
+A1 Czelusniak,Aggie
+A1 Davis,Bernice
+A1 Delgado,Caroline
+A1 Diaz,Jennifer
+A1 Dillon,Yvette
+A1 Donner,Everett
+A1 DuMont,Ruth
+A1 Duff,Julie
+A1 Edgett,Ashley
+A1 Ehnstrom,Timothy
+A1 Eldredge,Allan
+A1 Ennis,Patricia
+A1 Fasser,Joshua
+A1 Ferrer,Anthony
+A1 Figueroa,Antonia
+A1 Foster,Ian
+A1 Fountaine,Lisa
+A1 Gadsden,Debbie
+A1 Gadsden,Krystle
+A1 Gafney,David
+A1 Garcia,Sean
+A1 Giammarino,Jocelyn
+A1 Gilfoil,Alyssa
+A1 Giovaninni,Michelle
+A1 Gorden,Michelle
+A1 Green,Errika
+A1 Gryszowka,James
+A1 Hayles,Laurisa
+A1 Hernandez,Anthony
+A1 Hernandez,Lizette
+A1 Horne,Tom
+A1 Hoyte,John
+A1 Hylton,Ricardo
+A1 Ibrahimov,Sabina
+A1 Ivey,Courtney
+A1 Jergensen,Robert
+A1 Johns,Vicki
+A1 Jones,Nakita
+A1 Jr.,Kelvin,Jones
+A1 Kalajian,Crystal
+A1 Kelley,David
+A1 Kelly,Matthew
+A1 Kennedy,Germaine
+A1 Ketchum,Adam
+T1 Spring 2009 Dean's List Students (from Springfield) Springfield residents who have been named to the Dean's List for the Spring 2009 semester at Springfield Technical Community College have been announced by Vice President for Academic Affairs Stephen H. Keller. The Dean's List is published each semester to recognize above-average academic performance. Students carrying a full-time course load of 12 or more semester hours of college-level courses, who achieve a quality point average of 3.3 or above, are placed on the Dean's List. Students honored on the list include Idairis Acevedo-Pagan
+
+RT Journal Article
+ID 12726321
+A1 Bresnahan,John
+A1 Link,Michael
+A1 Khanna,Gaurav
+A1 Imani,Zulfikar
+A1 Kettimuthu,Rajkumar
+A1 Foster,Ian
+T1 Globus GridFTP: What's New in 2007 (Invited Paper)
+
+RT Journal Article
+ID 11162728
+A1 Czajkowski,Karl
+A1 Foster,Ian
+A1 Kesselman,Carl
+A1 Tuecke,Steven
+T1 GRID SERVICE LEVEL AGREEMENTS Grid Resource Management with Intermediaries
+
+RT Journal Article
+ID 5372775
+A1 Schopf,Jennifer,M.
+A1 Chervenak,Ann
+A1 Foster,Ian
+A1 Fraser,Dan
+A1 Gunter,Dan
+A1 LeRoy,Nick
+A1 Tierney,Brian
+T1 End-to-End Data Solutions for Distributed Petascale Science
+
+RT Journal Article
+ID 6396301
+A1 Hocky,Glen
+A1 Wilde,Michael
+A1 DeBartolo,Joe
+A1 Hategan,Mihael
+A1 Foster,Ian
+A1 Sosnick,Tobin,R.
+T1 Towards petascale ab initio protein folding through parallel scripting
+
+RT Journal Article
+ID 6242347
+A1 Bresnahan,John
+A1 Link,Michael
+A1 Kettimuthu,Rajkumar
+A1 Foster,Ian
+T1 UDT as an Alternative Transport Protocol for GridFTP
+
+RT Journal Article
+ID 11246696
+A1 FOSTER,I.,D.,L.
+A1 CHARLESWORTH,S.,M.
+T1 Variability in the physical, chemical and magnetic properties of reservoir sediments; implications for sediment source tracing
+
+RT Journal Article
+ID 409709
+A1 Foster,Ian
+T1 Strand and PCN: Two Generations of Compositional Programming Languages
+
+RT Journal Article
+ID 11553677
+A1 Williams,Dean,N.
+A1 Foster,Ian,T.
+A1 Middleton,Don,E.
+A1 Ananthakrishnan,Rachana
+A1 Siebenlist,Frank
+A1 Shoshani,Arie
+A1 Sim,Alex
+A1 Drach,Robert
+A1 Jones,Phil
+A1 Brown,David
+A1 Chastang,Julien
+A1 Cinquini,Luca
+A1 Fox,Peter
+A1 Harper,Danielle
+A1 Hook,Nathan
+A1 Nienhouse,Eric
+A1 Strand,Gary
+A1 West,Patrick
+A1 Wilcox,Hannah
+A1 Wilhelmi,Nathaniel
+A1 Zednik,Stephan
+A1 Hankin,Steve
+A1 Schweitzer,Roland
+A1 Bernholdt,David
+A1 Chen,Meili
+A1 Schwidder,Jens
+A1 Bharathi,S.
+A1 Chervenak,Ann
+A1 Schuler,Robert
+A1 Su,Mei-Hui
+T1 SciDAC Earth System Grid Center for Enabling Technologies
+
+RT Journal Article
+ID 4541559
+A1 Raicu,Ioan
+A1 Zhao,Yong
+A1 Foster,Ian
+A1 Szalay,Alex
+T1 Accelerating Large Scale Scientific Exploration through Data Diffusion
+
+RT Journal Article
+ID 12841998
+A1 Johnston,William
+A1 Tierney,Brian
+A1 Leighton,Jim
+A1 Hanushevsky,Andrew
+A1 Millsom,Dave
+A1 SLAC,Richard,Mount
+A1 Foster,Ian
+A1 Roy,Alain
+A1 Feiereisen,Bill
+A1 Nitzberg,Bill
+A1 Gannon,Dennis
+A1 Indiana,U.
+T1 Data Intensive Grids Dynamically Configured, Adaptive, Distributed, High-Performance Data and Computing Environments
+
+RT Journal Article
+ID 10045556
+A1 Williams,D.,N.
+A1 Ananthakrishnan,R.
+A1 Bernholdt,D.,E.
+A1 Bharathi,S.
+A1 Brown,D.
+A1 Chen,M.
+A1 Chervenak,A.,L.
+A1 Cinquini,L.
+A1 Drach,R.
+A1 Foster,I.,T.
+A1 Hankin,S.
+A1 Henson,V.,E.
+A1 Jones,P.
+A1 Middleton,D.,E.
+A1 Schwidder,J.
+A1 Schuler,R.
+A1 Shoshani,A
+A1 Siebenlist,F.
+A1 Sim,A.
+T1 Data Management and Analysis for the Earth System Grid The Earth System Grid Center for Enabling Technologies Team
+
+RT Journal Article
+ID 6015327
+A1 Raicu,Ioan
+A1 Zhao,Yong
+A1 Foster,Ian
+A1 Szalay,Alex
+T1 Data Diffusion Delivers Dynamic Digging
+
+RT Journal Article
+ID 13053983
+A1 Foster,Ian
+A1 Kesselman,Carl
+A1 Lee,Craig
+A1 Lindell,Bob
+A1 Nahrstedt,Klara
+A1 Roy,Alain
+T1 Supports Advance Reservations and Co-Allocation
+
+RT Journal Article
+ID 10609155
+A1 Prudhomme,Tom
+A1 Kesselman,Carl
+A1 Foster,Ian
+A1 Bardet,Jean-Pierre
+A1 Finholt,Tom
+A1 Mish,Kim
+T1 NEESgrid: A Distributed Virtual Laboratory for Advanced Earthquake Experimentation and Simulation
+
+RT Journal Article
+ID 11701572
+A1 SCHISSEL,D.,P.
+A1 FINKELSTEIN,A.
+A1 FOSTER,I.,T.
+A1 FREDIAN,T.,W.
+A1 GREENWALD,M.,J.
+A1 HANSEN,C.,D.
+A1 JOHNSON,C.,R.
+A1 KLASKY,S.,A.
+A1 LI,K.
+A1 PENG,Q.
+A1 STEVENS,R.
+A1 THOMPSON,M.,R.
+T1 DATA MANAGEMENT, CODE DEPLOYMENT, AND SCIENTIFIC VISUALIZATION TO ENHANCE SCIENTIFIC DISCOVERY THROUGH ADVANCED COMPUTING
+
+RT Journal Article
+ID 5486161
+A1 Iosup,Alexandru
+A1 Dumitrescu,Catalin,L.
+A1 Epema,Dick
+A1 Raicu,Ioan
+A1 Foster,Ian
+A1 Ripeanu,Matei
+T1 ServMark (DiPerF+GrenchMark): A Proposal for Project Globus Incubation
+
+RT Journal Article
+ID 10788521
+A1 Foster,Ian
+A1 Kesselman,Carl
+T1 GriPhyN/PPDG Data Grid Architecture, Toolkit, and Roadmap — Version 2
+
+RT Journal Article
+ID 12578931
+A1 FOSTER,I.,D.,L.
+A1 CHARLESWORTH,S.,M.
+A1 BEARING,J.,A.
+A1 KEEN,D.,H.
+A1 DALGLEISH,H.
+T1 LAKE SEDIMENTS: A SURROGATE MEASURE OF SEDIMENT ASSOCIATED HEAVY METAL TRANSPORT IN FLUVIAL SYSTEMS?
+
+RT Book, Whole
+ID 48814392
+A1 Foster,Ian
+A1 Kesselman,Carl
+T1 The Emerging Grid
+
+RT Book, Whole
+ID 47678487
+A1 Pittam,N.,J.
+A1 Mighall,T.,M.
+A1 Foster,I.,D.,L.
+T1 The Effect of Sediment Source Changes on Pollen Records in Lake Sediments
+
+RT Journal Article
+ID 10237950
+A1 Foster,Ian
+A1 Kohr,David
+A1 Mogilly,Krishnaiyer,Jace
+T1 Remote I/O: Fast Access to Distant Storage
+
+RT Journal Article
+ID 13061600
+A1 Foster,Ian
+A1 Roy,Alain
+A1 Sander,Volker
+T1 Resource Reservation and Application Adaptation
+
+RT Journal Article
+ID 13231297
+A1 Raicu,Ioan
+A1 Zhang,Zhao
+A1 Foster,Ian
+A1 Beckman,Pete
+A1 Iskra,Kamil
+A1 Clifford,Ben
+T1 osely Coupled Programm Petascale Systems
+
+RT Journal Article
+ID 11951159
+A1 Foster,Ian
+A1 Petts,Geoff
+A1 McEldowney,Sharron
+T1 Setting the Standard: Environmental Quality Standards in the European Water Framework Directive
+
+RT Journal Article
+ID 5985653
+A1 Hou,Zhengxiong
+A1 Wilde,Mike
+A1 Zhou,Xingshe
+A1 Foster,Ian
+A1 Tie,Jing
+T1 ADEM: An Automation Tool for Application Software Deployment and Management on OSG
+
+RT Journal Article
+ID 11712750
+A1 FOSTER,IAN,D.,L.
+A1 BEARING,JOHN,A.
+A1 GREW,ROBERT
+T1 Lake-catchments: an evaluation of their contribution to studies of sediment yield
+
+RT Journal Article
+ID 13010917
+A1 Foster,Ian
+A1 Lee,Craig
+T1 A Fault D etection Service for W ide A rea D istributed C om putations
+
+RT Journal Article
+ID 11987435
+A1 Zhao,Yong
+A1 Raicu,Ioan
+A1 Foster,Ian
+T1 Scientific Workflow Systems for 21st Century, New Bottle or New Wine? Invited Short Paper
+
+RT Journal Article
+ID 4552507
+A1 Raicu,Ioan
+A1 Foster,Ian
+A1 Szalay,Alex
+T1 HPC Storage Challenge in SC06 Intent to Participate
+
+RT Journal Article
+ID 12904012
+A1 FOSTER,I.,D.,L.
+A1 CARTER,A.,D.
+T1 Biogeochemical controls on river water quality in a forested drainage basin, Warwickshire, UK
+
+RT Journal Article
+ID 5600674
+A1 Foster,Ian
+T1 Grid and Data Mining: More Related Than You Might Think
+
+RT Journal Article
+ID 10390719
+A1 Kesselmany,Ian,Foster,Carl
+T1 Globus: A Metacomputing Infrastructure Toolkit
+
+RT Journal Article
+ID 10666106
+A1 Foster,Ian
+T1 The Grid: A New Infrastructure for 21st Century Science Grid technologies promise to transform the practice of science and engineering, by enabling large-scale resource sharing and coordinated problem solving within farflung communities

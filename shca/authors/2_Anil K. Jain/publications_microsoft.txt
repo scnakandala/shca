@@ -1,0 +1,6155 @@
+RT Journal Article
+ID 12817944
+A1 Jain,Anil,K.
+A1 Feng,Jianjiang
+YR 2011
+T1 Latent Fingerprint Matching
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 33
+SP 88
+OP 100
+IS 1
+
+RT Journal Article
+ID 39327344
+A1 Klare,Brendan,F.
+A1 Li,Zhifeng
+A1 Jain,Anil,K.
+YR 2011
+T1 Matching Forensic Sketches to Mug Shot Photos
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 33
+SP 639
+OP 646
+IS 3
+
+RT Journal Article
+ID 14374054
+A1 Feng,Jianjiang
+A1 Jain,Anil,K.
+YR 2011
+T1 Fingerprint Reconstruction: From Minutiae to Phase
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 33
+SP 209
+OP 223
+IS 2
+
+RT Journal Article
+ID 39336104
+A1 Chen,Fanglin
+A1 Feng,Jianjiang
+A1 Jain,Anil,K.
+A1 Zhou,Jie
+A1 Zhang,Jin
+YR 2011
+T1 Separating Overlapped Fingerprints
+JF IEEE Transactions on Information Forensics and Security
+VO 6
+SP 346
+OP 359
+IS 2
+
+RT Journal Article
+ID 39336107
+A1 Bourlai,Thirimachos
+A1 Ross,Arun
+A1 Jain,Anil,K.
+YR 2011
+T1 Restoring Degraded Face Images: A Case Study in Matching Faxed, Printed, and Scanned Photos
+JF IEEE Transactions on Information Forensics and Security
+VO 6
+SP 371
+OP 384
+IS 2
+
+RT Journal Article
+ID 39336082
+A1 Jillela,Raghavender,Reddy
+A1 Jain,Anil,K.
+YR 2011
+T1 Periocular Biometrics in the Visible Spectrum
+JF IEEE Transactions on Information Forensics and Security
+VO 6
+SP 96
+OP 106
+IS 1
+
+RT Journal Article
+ID 51188076
+A1 Li,Zhifeng
+A1 Jain,Anil,K.
+YR 2011
+T1 A Discriminative Model for Age Invariant Face Recognition
+JF IEEE Transactions on Information Forensics and Security
+VO 6
+SP 1028
+OP 1037
+IS 3
+
+RT Journal Article
+ID 49273781
+A1 Navaneethan,Sankar,D.
+A1 Schold,Jesse,D.
+A1 Arrigain,Susana
+A1 Jolly,Stacey,E.
+A1 Jain,Anil
+A1 Schreiber,Martin,J.
+A1 Simon,James,F.
+A1 Srinivas,Titte,R.
+A1 Nally,Joseph,V.
+YR 2011
+T1 Low 25-Hydroxyvitamin D Levels and Mortality in Non–Dialysis-Dependent CKD
+JF American Journal of Kidney Diseases
+VO 58
+SP 536
+OP 543
+IS 4
+
+RT Journal Article
+ID 51182105
+A1 Prabhakar,Salil
+A1 Ivanisov,Alexander
+A1 Jain,Anil
+YR 2011
+T1 Biometric recognition: Sensor characteristics and image quality
+JF IEEE Instrumentation & Measurement Magazine
+VO 14
+SP 10
+OP 16
+IS 3
+
+RT Journal Article
+ID 49326988
+A1 Jain,Anil
+A1 Brönneke,Simone
+A1 Kolbe,Ludger
+A1 Stäb,Franz
+A1 Wenck,Horst
+A1 Neufang,Gitta
+YR 2011
+T1 TRP-channel-specific cutaneous eicosanoid release patterns
+JF Pain
+VO 152
+SP 2765
+OP 2772
+IS 12
+
+RT Journal Article
+ID 49370557
+A1 Jain,Anil,K.
+A1 Tewari-Singh,Neera
+A1 Gu,Mallikarjuna
+A1 Inturi,Swetha
+A1 White,Carl,W.
+A1 Agarwal,Rajesh
+YR 2011
+T1 Sulfur mustard analog, 2-chloroethyl ethyl sulfide-induced skin injury involves DNA damage and induction of inflammatory mediators, in part via oxidative stress, in SKH-1 hairless mouse skin
+JF Fuel and Energy Abstracts
+VO 205
+SP 293
+OP 301
+IS 3
+
+RT Journal Article
+ID 51185610
+A1 Suk,Heung-Il
+A1 Jain,Anil,K.
+A1 Lee,Seong-Whan
+YR 2011
+T1 A Network of Dynamic Probabilistic Models for Human Interaction Analysis
+JF IEEE Transactions on Circuits and Systems for Video Technology
+VO 21
+SP 932
+OP 945
+IS 7
+
+RT Conference Proceedings
+ID 51108339
+A1 Bucak,Serhat,Selcuk
+A1 Jin,Rong
+A1 Jain,Anil,K.
+YR 2011
+T1 Multi-label learning with incomplete class assignments
+SP 2801
+OP 2808
+
+RT Conference Proceedings
+ID 56994485
+A1 Comar,Prakash,Mandayam
+A1 Tan,Pang-Ning
+A1 Jain,Anil,K.
+YR 2011
+T1 LinkBoost: A Novel Cost-Sensitive Boosting Framework for Community-Level Network Link Prediction
+SP 131
+OP 140
+
+RT Conference Proceedings
+ID 51119116
+A1 Havens,Timothy,C.
+A1 Chitta,Radha
+A1 Jain,Anil,K.
+A1 Jin,Rong
+YR 2011
+T1 Speedup of fuzzy and possibilistic kernel c-means for large-scale clustering
+SP 463
+OP 470
+
+RT Conference Proceedings
+ID 39263827
+A1 Jain,Anil,K.
+A1 Klare,Brendan
+YR 2011
+T1 Face recognition: Some challenges in forensics
+SP 726
+OP 733
+
+RT Journal Article
+ID 39313385
+A1 Jain,Anil,K.
+A1 Klare,Brendan
+YR 2011
+T1 Matching Forensic Sketches and Mug Shots to Apprehend Criminals
+JF IEEE Computer
+VO 44
+SP 94
+OP 96
+IS 5
+
+RT Journal Article
+ID 51188081
+A1 Niinuma,Koichiro
+A1 Jain,Anil,K.
+YR 2011
+T1 Erratum to “Soft Biometric Traits for Continuous User Authentication”
+JF IEEE Transactions on Information Forensics and Security
+VO 6
+SP 1180
+OP 1180
+IS 3
+
+RT Journal Article
+ID 14454969
+A1 Jain,Anil,K.
+YR 2010
+T1 Data clustering: 50 years beyond K-means
+JF Pattern Recognition Letters
+VO 31
+SP 651
+OP 666
+IS 8
+
+RT Journal Article
+ID 13313970
+A1 Tong,Yiying
+A1 Jain,Anil,K.
+YR 2010
+T1 Age-Invariant Face Recognition
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 32
+SP 947
+OP 954
+IS 5
+
+RT Journal Article
+ID 39336074
+A1 Niinuma,Koichiro
+A1 Jain,Anil,K.
+YR 2010
+T1 Soft Biometric Traits for Continuous User Authentication
+JF IEEE Transactions on Information Forensics and Security
+VO 5
+SP 771
+OP 780
+IS 4
+
+RT Journal Article
+ID 13321434
+A1 Jain,Anil,K.
+A1 Feng,Jianjiang
+A1 Nandakumar,Karthik
+YR 2010
+T1 Fingerprint Matching
+JF IEEE Computer
+VO 43
+SP 36
+OP 44
+IS 2
+
+RT Conference Proceedings
+ID 14084676
+A1 Feng,Jianjiang
+A1 Jain,Anil,K.
+A1 Ross,Arun
+YR 2010
+T1 Detecting Altered Fingerprints
+SP 1622
+OP 1625
+
+RT Journal Article
+ID 13667642
+A1 Nagar,Abhishek
+A1 Nandakumar,Karthik
+A1 Jain,Anil,K.
+YR 2010
+T1 Biometric template transformation: a security analysis
+VO 7541
+SP 75410
+
+RT Journal Article
+ID 13318636
+A1 Nagar,Abhishek
+A1 Nandakumar,Karthik
+A1 Jain,Anil,K.
+YR 2010
+T1 A hybrid biometric cryptosystem for securing fingerprint minutiae templates
+JF Pattern Recognition Letters
+VO 31
+SP 733
+OP 741
+IS 8
+
+RT Conference Proceedings
+ID 14083725
+A1 Klare,Brendan
+A1 Jain,Anil,K.
+YR 2010
+T1 Heterogeneous Face Recognition: Matching NIR to Visible Light Images
+SP 1513
+OP 1516
+
+RT Journal Article
+ID 13987616
+A1 Feng,Yi,C.
+A1 Yuen,Pong,C.
+A1 Jain,Anil,K.
+YR 2010
+T1 A hybrid approach for generating secure and discriminating face template
+JF IEEE Transactions on Information Forensics and Security
+VO 5
+SP 103
+OP 117
+IS 1
+
+RT Journal Article
+ID 13987870
+A1 Jain,Anil,K.
+YR 2010
+T1 Face matching and retrieval using soft biometrics
+JF IEEE Transactions on Information Forensics and Security
+VO 5
+SP 406
+OP 415
+IS 3
+
+RT Conference Proceedings
+ID 50919675
+A1 Zhao,Qijun
+A1 Jain,Anil,K.
+YR 2010
+T1 On the utility of extended fingerprint features: A study on pores
+
+RT Conference Proceedings
+ID 14082275
+A1 Lee,Young-Beom
+A1 Jain,Anil,K.
+YR 2010
+T1 PILL-ID: Matching and Retrieval of Drug Pill Imprint Images
+SP 2632
+OP 2635
+
+RT Conference Proceedings
+ID 39261595
+A1 Mallapragada,Pavan,Kumar
+A1 Jin,Rong
+A1 Jain,Anil,K.
+YR 2010
+T1 Online visual vocabulary pruning using pairwise constraints
+SP 3073
+OP 3080
+
+RT Conference Proceedings
+ID 13762272
+A1 Yang,Tianbao
+A1 Jin,Rong
+A1 Jain,Anil,K.
+YR 2010
+T1 Learning from Noisy Side Information by Generalized Maximum Entropy Model
+SP 1199
+OP 1206
+
+RT Conference Proceedings
+ID 50974348
+A1 Choi,Hyun-Cheol
+A1 Jain,Anil,K.
+YR 2010
+T1 PTZ camera assisted face acquisition, tracking & recognition
+
+RT Conference Proceedings
+ID 50974342
+A1 Klare,Brendan
+A1 Jain,Anil,K.
+YR 2010
+T1 On a taxonomy of facial features
+
+RT Conference Proceedings
+ID 13494075
+A1 Yang,Tianbao
+A1 Jin,Rong
+A1 Jain,Anil,K.
+A1 Zhou,Yang
+A1 Tong,Wei
+YR 2010
+T1 Unsupervised transfer classification: application to text categorization
+SP 1159
+OP 1168
+
+RT Conference Proceedings
+ID 39280418
+A1 Mandayam-Comar,Prakash
+A1 Tan,Pang-Ning
+A1 Jain,Anil,Kumar
+YR 2010
+T1 Identifying Cohesive Subgroups and Their Correspondences in Multiple Related Networks
+SP 476
+OP 483
+
+RT Conference Proceedings
+ID 14085065
+A1 Klare,Brendan
+A1 Mallapragada,Pavan,Kumar
+A1 Jain,Anil,K.
+A1 Davis,Kent
+YR 2010
+T1 Clustering Face Carvings: Exploring the Devatas of Angkor Wat
+SP 1517
+OP 1520
+
+RT Conference Proceedings
+ID 39226307
+A1 Comar,Prakash,Mandayam
+A1 Tan,Pang-ning
+A1 Jain,Anil,Kumar
+YR 2010
+T1 Multi task learning on multiple related networks
+SP 1737
+OP 1740
+
+RT Conference Proceedings
+ID 14082390
+A1 Nguyen,Kien
+A1 Jain,Anil,K.
+A1 Allen,Ronald,L.
+YR 2010
+T1 Automated Gland Segmentation and Classification for Gleason Grading of Prostate Tissue Images
+SP 1497
+OP 1500
+
+RT Conference Proceedings
+ID 14083771
+A1 Lourenço,André
+A1 Fred,Ana,L.,N.
+A1 Jain,Anil,K.
+YR 2010
+T1 On the Scalability of Evidence Accumulation Clustering
+SP 782
+OP 785
+
+RT Conference Proceedings
+ID 51026050
+A1 Paulino,Alessandra,A.
+A1 Jain,Anil,K.
+A1 Feng,Jianjiang
+YR 2010
+T1 Latent Fingerprint Matching: Fusion of Manually Marked and Derived Minutiae
+
+RT Book, Whole
+ID 13759904
+A1 Mallapragada,Pavan,Kumar
+A1 Jin,Rong
+A1 Jain,Anil,K.
+YR 2010
+T1 Non-parametric Mixture Models for Clustering
+SP 334
+OP 343
+
+RT Conference Proceedings
+ID 14083232
+A1 Lee,Jung-Eun
+A1 Jin,Rong
+A1 Jain,Anil,K.
+YR 2010
+T1 Unsupervised Ensemble Ranking: Application to Large-Scale Image Retrieval
+SP 3902
+OP 3906
+
+RT Journal Article
+ID 4768279
+A1 Jain,Anil,K.
+A1 Feng,Jianjiang
+YR 2009
+T1 Latent Palmprint Matching
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 31
+SP 1032
+OP 1047
+IS 6
+
+RT Journal Article
+ID 4493791
+A1 Mallapragada,Pavan,Kumar
+A1 Jin,Rong
+A1 Jain,Anil,K.
+A1 Liu,Yi
+YR 2009
+T1 SemiBoost: Boosting for Semi-Supervised Learning
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 31
+SP 2000
+OP 2014
+IS 11
+
+RT Conference Proceedings
+ID 50824573
+A1 Park,Unsang
+A1 Jain,Anil,K.
+YR 2009
+T1 Periocular biometrics in the visible spectrum: A feasibility study
+
+RT Book, Whole
+ID 4712636
+A1 Nandakumar,Karthik
+A1 Jain,Anil,K.
+A1 Ross,Arun
+YR 2009
+T1 Fusion in Multibiometric Identification Systems: What about the Missing Data?
+SP 743
+OP 752
+
+RT Conference Proceedings
+ID 5653079
+A1 Jain,Anil,K.
+YR 2009
+T1 Facial marks: Soft biometric for face recognition
+SP 37
+OP 40
+
+RT Conference Proceedings
+ID 5734205
+A1 Nandakumar,Karthik
+A1 Ross,Arun
+A1 Jain,Anil,K.
+YR 2009
+T1 Biometric fusion: Does modeling correlation really matter?
+
+RT Book, Whole
+ID 4712608
+A1 Feng,Jianjiang
+A1 Jain,Anil,K.
+YR 2009
+T1 FM Model Based Fingerprint Reconstruction from Minutiae Template
+SP 544
+OP 553
+
+RT Conference Proceedings
+ID 6030343
+A1 Chen,Feilong
+A1 Tan,Pang-ning
+A1 Jain,Anil,K.
+YR 2009
+T1 A co-classification framework for detecting web spam and spammers in social media web sites
+SP 1807
+OP 1810
+
+RT Journal Article
+ID 4930293
+A1 Li,Fengjie
+A1 Tong,Wei
+A1 Jin,Rong
+A1 Jain,Anil,K.
+A1 Lee,Jung-Eun
+YR 2009
+T1 An efficient key point quantization algorithm for large scale image retrieval
+SP 89
+OP 96
+
+RT Conference Proceedings
+ID 5421262
+A1 Jain,Anil,K.
+A1 Lee,Jung-Eun
+A1 Jin,Rong
+A1 Gregg,Nicholas
+YR 2009
+T1 Content-based image retrieval: An application to tattoo images
+SP 2745
+OP 2748
+
+RT Conference Proceedings
+ID 6519541
+A1 Bucak,Serhat,Selcuk
+A1 Mallapragada,Pavan,Kumar
+A1 Jin,Rong
+A1 Jain,Anil,K.
+YR 2009
+T1 Efficient multi-label ranking for multi-class learning: Application to object recognition
+SP 2098
+OP 2105
+
+RT Conference Proceedings
+ID 5214113
+A1 Nagar,Abhishek
+A1 Jain,Anil,K.
+YR 2009
+T1 On the security of non-invertible fingerprint template transforms
+
+RT Book, Whole
+ID 4712638
+A1 Chen,Yi
+A1 Jain,Anil,K.
+YR 2009
+T1 Beyond Minutiae: A Fingerprint Individuality Model with Pattern, Ridge and Pore Features
+SP 523
+OP 533
+
+RT Journal Article
+ID 5546268
+A1 Bourlai,Thirimachos
+A1 Ross,Arun
+A1 Jain,Anil
+YR 2009
+T1 On Matching Digital Face Images Against Scanned Passport Photos
+
+RT Book, Whole
+ID 4712567
+A1 Feng,Jianjiang
+A1 Yoon,Soweon
+A1 Jain,Anil,K.
+YR 2009
+T1 Latent Fingerprint Matching: Fusion of Rolled and Plain Fingerprints
+SP 695
+OP 704
+
+RT Conference Proceedings
+ID 6369683
+A1 Joshi,Satyadhar
+A1 Pathak,Rohit
+A1 Jain,Anil
+YR 2009
+T1 Modeling and Analysis of DC Traction System in Light of Recent Innovations from HPC and Virtual Reality
+SP 525
+OP 527
+
+RT Journal Article
+ID 4923781
+A1 Jain,Anil,K.
+A1 Lee,Jung-Eun
+A1 Jin,Rong
+YR 2009
+T1 Graffiti-ID: matching and retrieval of graffiti images
+SP 1
+OP 6
+
+RT Journal Article
+ID 60594263
+A1 Kramer,S.,L.
+A1 Jain,A.,K.
+YR 2009
+T1 Specification and R and D Program on Magnet Alignment Tolerances for NSLS-II
+
+RT Journal Article
+ID 12886499
+A1 Jain,Anil,K.
+A1 Nandakumar,Karthik
+A1 Nagar,Abhishek
+YR 2008
+T1 Biometric Template Security
+JF Eurasip Journal on Advances in Signal Processing
+VO 2008
+SP 1
+OP 18
+
+RT Journal Article
+ID 4404272
+A1 Nandakumar,Karthik
+A1 Chen,Yi
+A1 Dass,Sarat,C.
+A1 Jain,Anil,K.
+YR 2008
+T1 Likelihood Ratio-Based Biometric Score Fusion
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 30
+SP 342
+OP 347
+IS 2
+
+RT Book, Whole
+ID 4308497
+A1 Jain,Anil,K.
+YR 2008
+T1 Data Clustering: 50 Years Beyond K-means
+JF Pattern Recognition Letters
+VO 31
+SP 3
+OP 4
+IS 8
+
+RT Journal Article
+ID 4434904
+A1 Jain,Anil
+YR 2008
+T1 Biometric authentication
+JF Scholarpedia
+VO 3
+SP 3716
+IS 6
+
+RT Conference Proceedings
+ID 4718637
+A1 Nagar,Abhishek
+A1 Nandakumar,Karthik
+A1 Jain,Anil,K.
+YR 2008
+T1 Securing fingerprint template: Fuzzy vault with minutiae descriptors
+SP 1
+OP 4
+
+RT Journal Article
+ID 4768139
+A1 Lu,Xiaoguang
+A1 Jain,Anil,K.
+YR 2008
+T1 Deformation Modeling for Robust 3D Face Matching
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 30
+SP 1346
+OP 1357
+IS 8
+
+RT Conference Proceedings
+ID 10021943
+A1 Pankanti,Sharath
+A1 Jain,A.,K.
+YR 2008
+T1 Fingerprint verification using SIFT features
+VO 6944
+
+RT Conference Proceedings
+ID 4707805
+A1 Tong,Yiying
+A1 Jain,Anil,K.
+YR 2008
+T1 Face recognition with temporal invariance: A 3D aging model
+SP 1
+OP 7
+
+RT Conference Proceedings
+ID 4867649
+A1 Jain,Anil,K.
+A1 Feng,Jianjiang
+A1 Nagar,Abhishek
+A1 Nandakumar,Karthik
+YR 2008
+T1 On matching latent fingerprints
+
+RT Conference Proceedings
+ID 5490075
+A1 Lee,Jung-Eun
+A1 Jain,Anil,K.
+A1 Jin,Rong
+YR 2008
+T1 Scars, marks and tattoos (SMT): Soft biometric for suspect and victim identification
+
+RT Conference Proceedings
+ID 5730559
+A1 Nandakumar,Karthik
+A1 Jain,Anil,K.
+YR 2008
+T1 Multibiometric Template Security Using Fuzzy Vault
+
+RT Conference Proceedings
+ID 50723671
+A1 Jain,A.,K.
+A1 Ross,A.
+A1 Nandakumar,K.
+YR 2008
+T1 An introduction to biometrics
+SP 1
+OP 1
+
+RT Conference Proceedings
+ID 4704683
+A1 Lee,Jung-eun
+A1 Jin,Rong
+A1 Jain,Anil,K.
+YR 2008
+T1 Rank-based distance metric learning: An application to image retrieval
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 4718806
+A1 Mallapragada,Pavan,Kumar
+A1 Jin,Rong
+A1 Jain,Anil,K.
+YR 2008
+T1 Active query selection for semi-supervised clustering
+SP 1
+OP 4
+
+RT Book, Whole
+ID 4308561
+A1 Valizadegan,Hamed
+A1 Jin,Rong
+A1 Jain,Anil,K.
+YR 2008
+T1 Semi-Supervised Boosting for Multi-Class Classification
+SP 522
+OP 537
+
+RT Conference Proceedings
+ID 4718946
+A1 Fred,Ana,L.,N.
+A1 Jain,Anil,K.
+YR 2008
+T1 Cluster validation using a probabilistic attributed graph
+SP 1
+OP 4
+
+RT Conference Proceedings
+ID 4718937
+A1 Feng,Jianjiang
+A1 Jain,Anil,K.
+YR 2008
+T1 Filtering large fingerprint database for latent matching
+SP 1
+OP 4
+
+RT Conference Proceedings
+ID 6253745
+A1 Castellani,U.
+A1 Cristani,M.
+A1 Lu,X.
+A1 Murino,V.
+A1 Jain,A.,K.
+YR 2008
+T1 HMM-based geometric signatures for compact 3D face representation and matching
+
+RT Journal Article
+ID 61400886
+A1 Lindley,S.,E.
+A1 Banks,R.
+A1 Harper,R.
+A1 Jain,A.
+A1 Regan,T.
+A1 Sellen,A
+A1 Taylor,A.,S.
+YR 2008
+T1 Resilience in the face of innovation: Household trials with BubbleBoard
+
+RT Journal Article
+ID 57388713
+A1 Mallapragada,P.,K.
+A1 Jin,R.
+A1 Jain,A.,K.
+A1 Liu,Y.
+YR 2008
+T1 Semiboost: Boosting for semi-supervised learning
+
+RT Journal Article
+ID 4439656
+A1 Nandakumar,Karthik
+A1 Jain,Anil,K.
+A1 Pankanti,Sharath
+YR 2007
+T1 Fingerprint-based fuzzy vault: Implementation and performance
+JF IEEE Transactions on Information Forensics and Security
+VO 2
+SP 744
+OP 757
+IS 4
+
+RT Journal Article
+ID 2512322
+A1 Jain,Anil,K.
+A1 Chen,Yi
+A1 Demirkus,Meltem
+YR 2007
+T1 Pores and Ridges: High-Resolution Fingerprint Matching Using Level 3 Features
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 29
+SP 15
+OP 27
+IS 1
+
+RT Journal Article
+ID 2512444
+A1 Ross,Arun
+A1 Shah,Jidnya
+A1 Jain,Anil,K.
+YR 2007
+T1 From Template to Image: Reconstructing Fingerprints from Minutiae Points
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 29
+SP 544
+OP 560
+IS 4
+
+RT Book, Whole
+ID 4269298
+A1 Nandakumar,Karthik
+A1 Nagar,Abhishek
+A1 Jain,Anil,K.
+YR 2007
+T1 Hardening Fingerprint Fuzzy Vault Using Password
+SP 927
+OP 937
+
+RT Conference Proceedings
+ID 4554362
+A1 Rowe,Robert,K.
+A1 Uludag,Umut
+A1 Demirkus,Meltem
+A1 Parthasaradhi,Sujan
+A1 Jain,Anil,K.
+YR 2007
+T1 A Multispectral Whole-Hand Biometric Authentication System
+
+RT Journal Article
+ID 4439674
+A1 Zhu,Yongfang
+A1 Dass,Sarat,C.
+A1 Jain,Anil,K.
+YR 2007
+T1 Statistical Models for Assessing the Individuality of Fingerprints
+JF IEEE Transactions on Information Forensics and Security
+VO 2
+SP 391
+OP 401
+IS 3-1
+
+RT Conference Proceedings
+ID 4296501
+A1 Liu,Yi
+A1 Jin,Rong
+A1 Jain,Anil,K.
+YR 2007
+T1 BoostCluster: boosting clustering by pairwise constraints
+SP 450
+OP 459
+
+RT Conference Proceedings
+ID 11000516
+A1 Chen,Yi
+A1 Jain,Anil,K.
+YR 2007
+T1 Dots and Incipients: Extended Features for Partial Fingerprint Matching
+
+RT Book, Whole
+ID 4269200
+A1 Jain,Anil,K.
+YR 2007
+T1 3D Model-Based Face Recognition in Video
+SP 1085
+OP 1094
+
+RT Conference Proceedings
+ID 4564374
+A1 Gamboa,H.
+A1 Fred,A.,L.,N.
+A1 Jain,A.,K.
+YR 2007
+T1 Webbiometrics: User Verification Via Web Interaction
+
+RT Book, Whole
+ID 4242402
+A1 Jain,Anil,K.
+YR 2007
+T1 Biometric Recognition: Overview and Recent Advances
+SP 13
+OP 19
+
+RT Journal Article
+ID 5810111
+A1 Ross,Arun
+A1 Jain,Anil,K.
+YR 2007
+T1 Human Recognition Using Biometrics: An Overview
+
+RT Book, Whole
+ID 4307158
+A1 Jain,Anil,K.
+A1 Lee,Jung-eun
+A1 Jin,Rong
+YR 2007
+T1 Tattoo-ID: Automatic Tattoo Image Retrieval for Suspect and Victim Identification
+SP 256
+OP 265
+
+RT Book, Whole
+ID 4301847
+A1 Jain,Anil,K.
+YR 2007
+T1 Data Clustering: User's Dilemma
+SP 1
+
+RT Journal Article
+ID 4309785
+A1 Boom,Bas
+A1 Spreeuwers,Luuk,J.
+A1 Veldhuis,Raymond
+A1 Fred,A.
+A1 Jain,A.,K.
+YR 2007
+T1 Automatic Face Alignment by Maximizing Similarity Score
+JF IEEE Communications Magazine
+SP 221
+OP 230
+
+RT Journal Article
+ID 27096274
+A1 Jain,Anil,K.
+A1 Chellappa,Rama
+A1 Draper,Stark,C.
+A1 Memon,Nasir
+A1 Phillips,P.,Jonathon
+A1 Vetro,Anthony
+YR 2007
+T1 Signal Processing for Biometric Systems [DSP Forum]
+JF IEEE Signal Processing Magazine
+VO 24
+SP 146
+OP 152
+IS 6
+
+RT Journal Article
+ID 27096292
+A1 Jain,Anil
+A1 Chellappa,Rama
+A1 Draper,Stark
+A1 Memon,Nasir
+A1 Phillips,P.
+A1 Vetro,Anthony
+YR 2007
+T1 Signal Processing for Biometric Systems [DSP Forum]
+JF IEEE Signal Processing Magazine
+VO 24
+SP 146
+OP 152
+IS 99
+
+RT Journal Article
+ID 51172310
+A1 Jain,Anil,K.
+A1 Chen,Yi
+A1 Demirkus,Meltem
+YR 2007
+T1 Pores and Ridges: High-Resolution Fingerprint Matching Using Level 3 Features
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 29
+SP 15
+OP 27
+IS 1
+
+RT Journal Article
+ID 4554324
+A1 Nandakumar,Karthik
+A1 Jain,Anil,K.
+A1 Pankanti,Sharath
+YR 2007
+T1 Fingerprint-based Fuzzy Vault: Implementation
+
+RT Conference Proceedings
+ID 2426362
+A1 Ammar,Hany,H.
+A1 Abdel-mottaleb,Mohamed
+A1 Jain,Anil,K.
+YR 2007
+T1 Automated dental identification system (ADIS)
+SP 248
+OP 249
+
+RT Conference Proceedings
+ID 13306044
+A1 Fred,Ana,L.,N.
+A1 Jain,Anil,K.
+YR 2007
+T1 Pattern Recognition in Information Systems, Proceedings of the 7th International Workshop on Pattern Recognition in Information Systems, PRIS 2007, In conjunction with ICEIS 2007, Funchal, Madeira, Portugal, June 2007
+
+RT Journal Article
+ID 3171005
+A1 Ross,A.
+A1 Nandakumar,K.
+A1 Jain,A.,K.
+YR 2006
+T1 Handbook of Multibiomet-rics
+
+RT Journal Article
+ID 4439566
+A1 Jain,Anil,K.
+A1 Ross,Arun
+A1 Pankanti,Sharath
+YR 2006
+T1 Biometrics: A Tool for Information Security
+JF IEEE Transactions on Information Forensics and Security
+VO 1
+SP 125
+OP 143
+IS 2
+
+RT Journal Article
+ID 2177649
+A1 Cappelli,Raffaele
+A1 Maio,Dario
+A1 Maltoni,Davide
+A1 Wayman,James,L.
+A1 Jain,Anil,K.
+YR 2006
+T1 Performance Evaluation of Fingerprint Verification Systems
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 28
+SP 3
+OP 18
+IS 1
+
+RT Journal Article
+ID 2177615
+A1 Lu,Xiaoguang
+A1 Jain,Anil,K.
+A1 Colbry,Dirk
+YR 2006
+T1 Matching 2.5D Face Scans to 3D Models
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 28
+SP 31
+OP 43
+IS 1
+
+RT Book, Whole
+ID 1902672
+A1 Chen,Yi
+A1 Dass,Sarat,C.
+A1 Jain,Anil,K.
+YR 2006
+T1 Localized Iris Image Quality Using 2-D Wavelets
+SP 373
+OP 381
+
+RT Conference Proceedings
+ID 3719120
+A1 Uludag,Umut
+A1 Jain,Anil
+YR 2006
+T1 Securing Fingerprint Template: Fuzzy Vault with Helper Data
+
+RT Journal Article
+ID 2177542
+A1 Ross,Arun
+A1 Dass,Sarat,C.
+A1 Jain,Anil,K.
+YR 2006
+T1 Fingerprint Warping Using Ridge Curve Correspondences
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 28
+SP 19
+OP 30
+IS 1
+
+RT Book, Whole
+ID 1902764
+A1 Fiérrez-aguilar,Julian
+A1 Chen,Yi
+A1 Ortega-garcia,Javier
+A1 Jain,Anil,K.
+YR 2006
+T1 Incorporating Image Quality in Multi-algorithm Fingerprint Verification
+SP 213
+OP 220
+
+RT Journal Article
+ID 2177575
+A1 Law,Martin,H.,C.
+A1 Jain,Anil,K.
+YR 2006
+T1 Incremental Nonlinear Dimensionality Reduction by Manifold Learning
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 28
+SP 377
+OP 391
+IS 3
+
+RT Conference Proceedings
+ID 2442803
+A1 Nandakumar,Karthik
+A1 Chen,Yi
+A1 Jain,Anil,K.
+A1 Dass,Sarat,C.
+YR 2006
+T1 Quality-based Score Level Fusion in Multibiometric Systems
+VO 4
+SP 473
+OP 476
+
+RT Conference Proceedings
+ID 2430202
+A1 Lu,Xiaoguang
+A1 Jain,Anil,K.
+YR 2006
+T1 Automatic Feature Extraction for Multiview 3D Face Recognition
+SP 585
+OP 590
+
+RT Conference Proceedings
+ID 2167287
+A1 Lu,Xiaoguang
+A1 Jain,Anil,K.
+YR 2006
+T1 Deformation Modeling for Robust 3D Face Matching
+VO 2
+SP 1377
+OP 1383
+
+RT Conference Proceedings
+ID 2378499
+A1 Jain,Anil,K.
+A1 Chen,Yi
+A1 Demirkus,Meltem
+YR 2006
+T1 Pores and Ridges: Fingerprint Matching Using Level 3 Features
+VO 4
+SP 477
+OP 480
+
+RT Journal Article
+ID 2513050
+A1 Kumar,Ajay
+A1 Wong,David,C.,M.
+A1 Shen,Helen,C.
+A1 Jain,Anil,K.
+YR 2006
+T1 Personal authentication using hand images
+JF Pattern Recognition Letters
+VO 27
+SP 1478
+OP 1486
+IS 13
+
+RT Conference Proceedings
+ID 2442927
+A1 Ryu,Choonwoo
+A1 Kim,Hakil
+A1 Jain,Anil,K.
+YR 2006
+T1 Template Adaptation based Fingerprint Verification
+VO 4
+SP 582
+OP 585
+
+RT Conference Proceedings
+ID 2442864
+A1 Jain,Anil,K.
+A1 Kitahara,Itaru
+A1 Kogure,Kiyoshi
+A1 Hagita,Norihiro
+YR 2006
+T1 ViSE: Visual Search Engine Using Multiple Networked Cameras
+VO 3
+SP 1204
+OP 1207
+
+RT Book, Whole
+ID 1902700
+A1 Lu,Xiaoguang
+A1 Chen,Hong
+A1 Jain,Anil,K.
+YR 2006
+T1 Multimodal Facial Gender and Ethnicity Identification
+SP 554
+OP 561
+
+RT Journal Article
+ID 2512350
+A1 Dass,Sarat,C.
+A1 Zhu,Yongfang
+A1 Jain,Anil,K.
+YR 2006
+T1 Validating a Biometric Authentication System: Sample Size Requirements
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 28
+SP 1902
+OP 1319
+IS 12
+
+RT Conference Proceedings
+ID 2539562
+A1 Chen,Yi
+A1 Parziale,Geppy
+A1 Diaz-Santana,Eva
+A1 Jain,Anil,K.
+YR 2006
+T1 3D Touchless Fingerprints: Compatibility with Legacy Rolled Images
+
+RT Journal Article
+ID 48963498
+A1 Jain,A.
+A1 Nandakumar,K.
+A1 Pankanti,S.
+YR 2006
+T1 Fingerprint-based Fuzzy Vault: Implementation and Performance
+JF IEEE Transactions on Information Forensics and Security
+
+RT Conference Proceedings
+ID 2443296
+A1 Zhu,Yongfang
+A1 Dass,Sarat,C.
+A1 Jain,Anil,K.
+YR 2006
+T1 Compound Stochastic Models For Fingerprint Individuality
+VO 3
+SP 532
+OP 535
+
+RT Journal Article
+ID 26969671
+A1 Rakesh,Nune
+A1 Jain,A.,K
+A1 Reddy,M.,Amaranatha
+A1 Reddy,K.,Sudhakar
+YR 2006
+T1 Artificial neural networks—genetic algorithm based model for backcalculation of pavement layer moduli
+JF International Journal of Pavement Engineering
+VO 7
+SP 221
+OP 230
+IS 3
+
+RT Conference Proceedings
+ID 2442435
+A1 Fred,Ana,L.,N.
+A1 Jain,Anil,K.
+YR 2006
+T1 Learning Pairwise Similarity for Data Clustering
+VO 1
+SP 925
+OP 928
+
+RT Conference Proceedings
+ID 2202103
+A1 Jain,Anil,K.
+YR 2006
+T1 3D Face Reconstruction from Stereo Video
+SP 41
+
+RT Book, Whole
+ID 4299325
+A1 Astley,Susan,M.
+A1 Duffy,Stephen,W.
+A1 Boggis,Caroline,R.,M.
+A1 Wilson,Mary
+A1 Barr,Nicky,B.
+A1 Beetles,Ursula,M.
+A1 Griffiths,Miriam,A.
+A1 Jain,Anil
+A1 Johnson,Jill
+A1 Roberts,Rita,M.
+A1 Deans,Heather
+A1 Duncan,Karen
+A1 Iyengar,Geeta
+A1 Agbaje,Olorunsola,F.
+A1 Griffiths,Pamela,M.
+A1 Mcgee,Magnus,A.
+A1 Gillan,Maureen,G.,C.
+A1 Gilbert,Fiona,J.
+YR 2006
+T1 Mammography Reading with Computer-Aided Detection (CAD): Performance of Different Readers
+SP 97
+OP 104
+
+RT Book, Whole
+ID 1902748
+A1 Wang,Yunhong
+A1 Wang,Yiding
+A1 Jain,Anil,K.
+A1 Tan,Tieniu
+YR 2006
+T1 Face Verification Based on Bagging RBF Networks
+SP 69
+OP 77
+
+RT Conference Proceedings
+ID 2442542
+A1 Jain,A.,K.
+A1 Mallapragada,Pavan,K.
+A1 Law,Martin
+YR 2006
+T1 Bayesian Feedback in Data Clustering
+VO 3
+SP 374
+OP 378
+
+RT Journal Article
+ID 44372474
+A1 Al-Yousuf,A.
+A1 Jain,A.
+A1 Parker,A.,J.
+YR 2006
+T1 Postthyroplasty Implant Extrusion
+JF Folia Phoniatrica Et Logopaedica
+VO 58
+SP 139
+OP 142
+IS 2
+
+RT Book, Whole
+ID 2462475
+A1 Agbaje,Olorunsola,F.
+A1 Astley,Susan,M.
+A1 Gillan,Maureen,G.,C.
+A1 Boggis,Caroline,R.,M.
+A1 Wilson,Mary
+A1 Barr,Nicky,B.
+A1 Beetles,Ursula,M.
+A1 Griffiths,Miriam,A.
+A1 Jain,Anil
+A1 Johnson,Jill
+A1 Roberts,Rita,M.
+A1 Deans,Heather
+A1 Duncan,Karen
+A1 Iyengar,Geeta
+A1 Griffiths,Pamela,M.
+A1 Mcgee,Magnus,A.
+A1 Duffy,Stephen,W.
+A1 Gilbert,Fiona,J.
+YR 2006
+T1 Mammography Reading with Computer-Aided Detection (CAD): Single View vs Two Views
+SP 125
+OP 130
+
+RT Journal Article
+ID 60586315
+A1 Hacke,P.
+A1 Gee,J.,M.
+A1 Hilali,M.
+A1 Dominguez,J.
+A1 Dundas,H.
+A1 Jain,A.
+A1 Lopez,G.
+A1 Fischer,B.
+A1 Sopori,B.,L.
+YR 2006
+T1 Current Status of Technologies for Industrial Emitter Wrap-Through Solar Cells
+
+RT Journal Article
+ID 2513499
+A1 Marana,Aparecido,Nilceu
+A1 Falguera,Fernanda,Pereira,Sartori
+A1 Falguera,Juan,Rogelio
+A1 Jain,Anil,K.
+YR 2006
+T1 Biometrics for Human Identification
+JF Revista De Informática Teórica E Aplicada
+VO 13
+SP 103
+OP 130
+IS 2
+
+RT Conference Proceedings
+ID 13294983
+A1 Günsel,Bilge
+A1 Jain,Anil,K.
+A1 Tekalp,A.,Murat
+A1 Sankur,Bülent
+YR 2006
+T1 Multimedia Content Representation, Classification and Security, International Workshop, MRCS 2006, Istanbul, Turkey, September 11-13, 2006, Proceedings
+
+RT Conference Proceedings
+ID 2426196
+A1 Ammar,Hany,H.
+A1 Howell,Robert
+A1 Abdel-mottaleb,Mohamed
+A1 Jain,Anil,K.
+YR 2006
+T1 Automated dental identification system (ADIS)
+SP 369
+OP 370
+
+RT Conference Proceedings
+ID 13261116
+A1 Zhang,David
+A1 Jain,Anil,K.
+YR 2006
+T1 Advances in Biometrics, International Conference, ICB 2006, Hong Kong, China, January 5-7, 2006, Proceedings
+
+RT Book, Whole
+ID 2190069
+A1 Jain,Anil,K.
+YR 2006
+T1 Biometric Recognition: How Do I Know Who You Are?
+SP 17
+OP 18
+
+RT Journal Article
+ID 1694647
+A1 Jain,Anil,K.
+A1 Nandakumar,Karthik
+A1 Ross,Arun,A.
+YR 2005
+T1 Score normalization in multimodal biometric systems
+JF Pattern Recognition
+VO 38
+SP 2270
+OP 2285
+IS 12
+
+RT Journal Article
+ID 1428569
+A1 Fred,Ana,L.,N.
+A1 Jain,Anil,K.
+YR 2005
+T1 Combining Multiple Clusterings Using Evidence Accumulation
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 27
+SP 835
+OP 850
+IS 6
+
+RT Book, Whole
+ID 1821896
+A1 Uludag,Umut
+A1 Pankanti,Sharath
+A1 Jain,Anil,K.
+YR 2005
+T1 Fuzzy vault for fingerprints
+SP 55
+OP 71
+
+RT Journal Article
+ID 1428494
+A1 Snelick,Robert
+A1 Uludag,Umut
+A1 Mink,Alan
+A1 Indovina,Michael
+A1 Jain,Anil,K.
+YR 2005
+T1 Large-Scale Evaluation of Multimodal Biometric Authentication Using State-of-the-Art Systems
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 27
+SP 450
+OP 455
+IS 3
+
+RT Book, Whole
+ID 1821879
+A1 Tuyls,Pim
+A1 Akkermans,Anton,H.,M.
+A1 Kevenaar,Tom,A.,M.
+A1 Schrijen,Geert-Jan
+A1 Bazen,Asker,M.
+A1 Veldhuis,Raymond,N.,J.
+A1 Kanade,T.
+A1 Jain,A.,K.
+A1 Ratha,N.,K.
+YR 2005
+T1 Practical Biometric Authentication with Template Protection
+SP 436
+OP 446
+
+RT Journal Article
+ID 1428442
+A1 Topchy,Alexander,P.
+A1 Jain,Anil,K.
+A1 Punch,William,F.
+YR 2005
+T1 Clustering Ensembles: Models of Consensus and Weak Partitions
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 27
+SP 1866
+OP 1881
+IS 12
+
+RT Book, Whole
+ID 1821821
+A1 Chen,Yi
+A1 Dass,Sarat,C.
+A1 Jain,Anil,K.
+YR 2005
+T1 Fingerprint Quality Indices for Predicting Authentication Performance
+SP 160
+OP 170
+
+RT Conference Proceedings
+ID 1890121
+A1 Lu,Xiaoguang
+A1 Jain,Anil,K.
+YR 2005
+T1 Integrating Range and Texture Information for 3D Face Recognition
+SP 156
+OP 163
+
+RT Journal Article
+ID 1693454
+A1 Ross,Arun
+A1 Dass,Sarat,C.
+A1 Jain,Anil,K.
+YR 2005
+T1 A deformable model for fingerprint matching
+JF Pattern Recognition
+VO 38
+SP 95
+OP 103
+IS 1
+
+RT Conference Proceedings
+ID 2200148
+A1 Lu,Xiaoguang
+A1 Jain,Anil,K.
+YR 2005
+T1 Deformation Analysis for 3D Face Matching
+SP 99
+OP 104
+
+RT Conference Proceedings
+ID 1428590
+A1 Chen,Hong
+A1 Jain,Anil,K.
+YR 2005
+T1 Dental Biometrics: Alignment and Matching of Dental Radiographs
+VO 27
+SP 316
+OP 321
+IS 8
+
+RT Book, Whole
+ID 1821830
+A1 Dass,Sarat,C.
+A1 Nandakumar,Karthik
+A1 Jain,Anil,K.
+YR 2005
+T1 A Principled Approach to Score Level Fusion in Multimodal Biometric Systems
+SP 1049
+OP 1058
+
+RT Conference Proceedings
+ID 2948203
+A1 Colbry,Dirk
+A1 Stockman,George
+A1 Jain,Anil
+YR 2005
+T1 Detection of Anchor Points for 3D Face Veri.cation
+SP 118
+OP 118
+
+RT Journal Article
+ID 2785181
+A1 Jain,Anil,K.
+A1 Ross,Arun
+A1 Uludag,Umut
+YR 2005
+T1 BIOMETRIC TEMPLATE SECURITY: CHALLENGES AND SOLUTIONS
+
+RT Journal Article
+ID 13322888
+A1 Fahmy,Gamal
+A1 Nassar,Diaa,Eldin,M.
+A1 Haj-Said,Eyad
+A1 Chen,Hong
+A1 Nomir,Omaima
+A1 Zhou,Jindan
+A1 Howell,Robert
+A1 Ammar,Hany,H.
+A1 Abdel-Mottaleb,Mohamed
+A1 Jain,Anil,K.
+YR 2005
+T1 Toward an automated dental identification system
+JF Journal of Electronic Imaging
+VO 14
+SP 43018
+IS 4
+
+RT Conference Proceedings
+ID 1788852
+A1 Lange,Tilman
+A1 Law,Martin,H.,C.
+A1 Jain,Anil,K.
+A1 Buhmann,Joachim,M.
+YR 2005
+T1 Learning with Constrained and Unlabelled Data
+VO 1
+SP 731
+OP 738
+
+RT Conference Proceedings
+ID 1903768
+A1 Dass,Sarat,C.
+A1 Zhu,Yongfang
+A1 Jain,Anil,K.
+YR 2005
+T1 Statistical Models for Assessing the Individuality of Fingerprints
+SP 3
+OP 9
+
+RT Conference Proceedings
+ID 1904736
+A1 Chen,Hong
+A1 Jain,Anil,K.
+YR 2005
+T1 3D Model-Assisted Face Recognition in Video
+SP 322
+OP 329
+
+RT Journal Article
+ID 1682105
+A1 Farmer,Michael,E.
+A1 Jain,Anil,K.
+YR 2005
+T1 A wrapper-based approach to image segmentation and classification
+JF IEEE Transactions on Image Processing
+VO 14
+SP 2060
+OP 2072
+IS 12
+
+RT Book, Whole
+ID 1897452
+A1 Fiérrez-aguilar,Julian
+A1 Krawczyk,Stephen
+A1 Ortega-garcia,Javier
+A1 Jain,Anil,K.
+YR 2005
+T1 Fusion of Local and Regional Approaches for On-Line Signature Verification
+SP 188
+OP 196
+
+RT Conference Proceedings
+ID 1778738
+A1 Law,Martin,H.,C.
+A1 Topchy,Alexander,P.
+A1 Jain,Anil,K.
+YR 2005
+T1 Model-based Clustering With Probabilistic Constraints
+
+RT Book, Whole
+ID 1902911
+A1 Jain,Anil,K.
+A1 Law,Martin,H.,C.
+YR 2005
+T1 Data Clustering: A User's Dilemma
+SP 1
+OP 10
+
+RT Conference Proceedings
+ID 2471978
+A1 Marana,Aparecido,Nilceu
+A1 Jain,Anil,K.
+YR 2005
+T1 Ridge-Based Fingerprint Matching Using Hough Transform
+SP 112
+OP 119
+
+RT Book, Whole
+ID 1821811
+A1 Krawczyk,Stephen
+A1 Jain,Anil,K.
+YR 2005
+T1 Securing Electronic Medical Records Using Biometric Authentication
+SP 1110
+OP 1119
+
+RT Journal Article
+ID 4008752
+A1 Ross,A.
+A1 Shah,J.
+A1 Jain,A.,K.
+YR 2005
+T1 Towards recon-structing fingerprints from minutiae points
+
+RT Conference Proceedings
+ID 1890208
+A1 Chen,Yi
+A1 Dass,Sarat,C.
+A1 Ross,Arun
+A1 Jain,Anil,K.
+YR 2005
+T1 Fingerprint Deformation Models Using Minutiae Locations and Orientations
+SP 150
+OP 155
+
+RT Conference Proceedings
+ID 3015036
+A1 Dass,S.
+A1 Jain,A.
+YR 2005
+T1 Effects of User Correlation on Sample Size Requirements
+
+RT Journal Article
+ID 42372154
+A1 Jain,Anil,K.
+YR 2005
+T1 Space and Imagination
+JF International Review of Sociology
+VO 15
+SP 529
+OP 545
+IS 3
+
+RT Conference Proceedings
+ID 13284520
+A1 Kanade,Takeo
+A1 Jain,Anil,K.
+A1 Ratha,Nalini,K.
+YR 2005
+T1 Audio and Video-Based Biometric Person Authentication, 5th International Conference, AVBPA 2005, Hilton Rye Town, NY, USA, July 20-22, 2005, Proceedings
+
+RT Journal Article
+ID 51170926
+A1 Chen,Hong
+A1 Jain,Anil,K.
+YR 2005
+T1 Dental biometrics: alignment and matching of dental radiographs
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 27
+SP 1319
+OP 1326
+IS 8
+
+RT Journal Article
+ID 60577954
+A1 Allaire,M.
+A1 Berntson,A.
+A1 Jain,A.
+A1 Jakoncic,J.
+A1 Kao,C.
+A1 Siddons,D.
+A1 So,I.
+A1 Venkatagiriyappa,V.
+A1 Yin,Z.
+A1 Stojanoff,V.
+YR 2005
+T1 A Modular Approach to the Beamline Automation: The NIGMS Facility at the NSLS
+
+RT Conference Proceedings
+ID 1892864
+A1 Ammar,Hany,H.
+A1 Jain,Anil,K.
+A1 Abdel-Mottaleb,Mohamed
+YR 2005
+T1 Automated dental identification system (ADIS)
+SP 165
+OP 166
+
+RT Journal Article
+ID 51580846
+A1 Jha,S.,K.
+A1 Ostrowski,M.,W.
+A1 Jain,A.
+YR 2005
+T1 Evaluating Impacts of Land Use/Land Cover Changes on Water Balance of a Small Watershed using a Distributed Hydrologic Model
+
+RT Journal Article
+ID 53438710
+A1 Kumar,J.
+A1 Jain,A.
+A1 Srivastava,R.
+YR 2005
+T1 Locating Groundwater Pollution Source using Breakthrough Curve Characteristics and Artificial Neural Networks
+
+RT Journal Article
+ID 54877551
+A1 Jain,Anil,K.
+A1 Ratha,Nalini,K.
+YR 2005
+T1 Biometric Technology for Human Identification II
+VO 5779
+
+RT Journal Article
+ID 55131232
+A1 Narain,S.
+A1 Jain,A.
+YR 2005
+T1 Evaluation of the sensitivity of learning rate on the training of neural network hydrologic models
+
+RT Journal Article
+ID 1668587
+A1 Jain,Anil,K.
+A1 Ross,Arun
+A1 Prabhakar,Salil
+YR 2004
+T1 An introduction to biometric recognition
+JF IEEE Transactions on Circuits and Systems for Video Technology
+VO 14
+SP 4
+OP 20
+IS 1
+
+RT Journal Article
+ID 1429860
+A1 Uludag,Umut
+A1 Pankanti,Sharath
+A1 Prabhakar,Salil
+A1 Jain,Anil,K.
+YR 2004
+T1 Biometric cryptosystems: Issues and challenges
+JF Proceedings of The IEEE
+VO 92
+SP 948
+OP 960
+IS 6
+
+RT Journal Article
+ID 3170728
+A1 Li,Stan,Z.
+A1 Jain,Anil,K.
+YR 2004
+T1 Handbook of Face Recognition
+
+RT Journal Article
+ID 1693367
+A1 Jung,Keechul
+A1 Kim,Kwang,In
+A1 Jain,Anil,K.
+YR 2004
+T1 Text information extraction in images and video: a survey
+JF Pattern Recognition
+VO 37
+SP 977
+OP 997
+IS 5
+
+RT Journal Article
+ID 777528
+A1 Jain,Anil,K.
+A1 Ross,Arun
+YR 2004
+T1 Multibiometric systems
+JF Communications of The ACM
+VO 47
+SP 34
+OP 40
+IS 1
+
+RT Journal Article
+ID 1428405
+A1 Law,Martin,H.,C.
+A1 Figueiredo,Mário,A.,T.
+A1 Jain,Anil,K.
+YR 2004
+T1 Simultaneous Feature Selection and Clustering Using Mixture Models
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 26
+SP 1154
+OP 1166
+IS 9
+
+RT Journal Article
+ID 2401039
+A1 Ross,Arun
+A1 Jain,Anil,K.
+YR 2004
+T1 MULTIMODAL BIOMETRICS: AN OVERVIEW
+
+RT Conference Proceedings
+ID 1801977
+A1 Lu,Xiaoguang
+A1 Colbry,Dirk
+A1 Jain,Anil,K.
+YR 2004
+T1 Three-Dimensional Model Based Face Recognition
+VO 1
+SP 362
+OP 366
+
+RT Conference Proceedings
+ID 1801658
+A1 Jain,Anil,K.
+A1 Pankanti,Sharath
+A1 Prabhakar,Salil
+A1 Hong,Lin
+A1 Ross,Arun
+YR 2004
+T1 Biometrics: a grand challenge
+VO 2
+SP 935
+OP 942
+
+RT Conference Proceedings
+ID 1778670
+A1 Topchy,Alexander,P.
+A1 Jain,Anil,K.
+A1 Punch,William,F.
+YR 2004
+T1 A Mixture Model for Clustering Ensembles
+
+RT Book, Whole
+ID 1872527
+A1 Maio,Dario
+A1 Maltoni,Davide
+A1 Cappelli,Raffaele
+A1 Wayman,James,L.
+A1 Jain,Anil,K.
+YR 2004
+T1 FVC2004: Third Fingerprint Verification Competition
+SP 1
+OP 7
+
+RT Journal Article
+ID 2168820
+A1 Jain,Anil,K.
+A1 Chen,Hong
+YR 2004
+T1 Matching of dental X-ray images for human identification
+JF Pattern Recognition
+VO 37
+SP 1519
+OP 1532
+IS 7
+
+RT Conference Proceedings
+ID 2148387
+A1 Uludag,Umut
+A1 Jain,Anil,K.
+YR 2004
+T1 Attacks on biometric systems: a case study in fingerprints
+VO 5306
+SP 622
+OP 633
+
+RT Book, Whole
+ID 2198336
+A1 Jain,Anil,K.
+A1 Dass,Sarat,C.
+A1 Nandakumar,Karthik
+YR 2004
+T1 Soft Biometric Traits for Personal Recognition Systems
+SP 731
+OP 738
+
+RT Journal Article
+ID 1693357
+A1 Uludag,Umut
+A1 Ross,Arun
+A1 Jain,Anil,K.
+YR 2004
+T1 Biometric template selection and update: a case study in fingerprints
+JF Pattern Recognition
+VO 37
+SP 1533
+OP 1542
+IS 7
+
+RT Conference Proceedings
+ID 2808989
+A1 Jain,Anil,K.
+A1 Dass,Sarat,C.
+A1 Nandakumar,Karthik
+YR 2004
+T1 Can soft biometric traits assist user recognition
+
+RT Conference Proceedings
+ID 1801934
+A1 Topchy,Alexander,P.
+A1 Minaei-bidgoli,Behrouz
+A1 Jain,Anil,K.
+A1 Punch,William,F.
+YR 2004
+T1 Adaptive clustering ensembles
+VO 1
+SP 272
+OP 275
+
+RT Conference Proceedings
+ID 1788720
+A1 Law,Martin,H.,C.
+A1 Topchy,Alexander,P.
+A1 Jain,Anil,K.
+YR 2004
+T1 Multiobjective Data Clustering
+VO 2
+SP 424
+OP 430
+
+RT Conference Proceedings
+ID 1896758
+A1 Nandakumar,Karthik
+A1 Jain,Anil,K.
+YR 2004
+T1 Local Correlation-based Fingerprint Matching
+SP 503
+OP 508
+
+RT Conference Proceedings
+ID 1778635
+A1 Law,Martin,H.,C.
+A1 Zhang,Nan
+A1 Jain,Anil,K.
+YR 2004
+T1 Nonlinear Manifold Learning for Data Stream
+
+RT Book, Whole
+ID 2183370
+A1 Ross,Arun
+A1 Jain,Anil,K.
+YR 2004
+T1 Biometric Sensor Interoperability: A Case Study in Fingerprints
+SP 134
+OP 145
+
+RT Conference Proceedings
+ID 1796863
+A1 Topchy,Alexander,P.
+A1 Law,Martin,H.,C.
+A1 Jain,Anil,K.
+A1 Fred,Ana,L.,N.
+YR 2004
+T1 Analysis of Consensus Partition in Cluster Ensemble
+SP 225
+OP 232
+
+RT Journal Article
+ID 800810
+A1 Namboodiri,Anoop,M.
+A1 Jain,Anil,K.
+YR 2004
+T1 Online Handwritten Script Recognition
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 26
+SP 124
+OP 130
+IS 1
+
+RT Conference Proceedings
+ID 1802243
+A1 Chen,Hong
+A1 Jain,Anil,K.
+YR 2004
+T1 Tooth Contour Extraction for Matching Dental Radiographs
+SP 522
+OP 525
+
+RT Book, Whole
+ID 1872488
+A1 Lu,Xiaoguang
+A1 Colbry,Dirk
+A1 Jain,Anil,K.
+YR 2004
+T1 Matching 2.5D Scans for Face Recognition
+SP 30
+OP 36
+
+RT Conference Proceedings
+ID 1801869
+A1 Jain,Anil,K.
+A1 Topchy,Alexander,P.
+A1 Law,Martin,H.,C.
+A1 Buhmann,Joachim,M.
+YR 2004
+T1 Landscape of Clustering Algorithms
+VO 1
+SP 260
+OP 263
+
+RT Book, Whole
+ID 1816353
+A1 Law,Martin,H.,C.
+A1 Topchy,Alexander,P.
+A1 Jain,Anil,K.
+YR 2004
+T1 Clustering with Soft and Group Constraints
+SP 662
+OP 670
+
+RT Conference Proceedings
+ID 1896606
+A1 Dass,Sarat,C.
+A1 Jain,Anil,K.
+YR 2004
+T1 Fingerprint Classification Using Orientation Field Flow Curves
+SP 650
+OP 655
+
+RT Book, Whole
+ID 1790131
+A1 Jain,Anil,K.
+A1 Nandakumar,Karthik
+A1 Lu,Xiaoguang
+YR 2004
+T1 Integrating Faces, Fingerprints, and Soft Biometric Traits for User Recognition
+SP 259
+OP 269
+
+RT Book, Whole
+ID 1872553
+A1 Fahmy,Gamal
+A1 Nassar,Diaa,Eldin,M.
+A1 Haj-said,Eyad
+A1 Chen,Hong
+A1 Nomir,Omaima
+A1 Zhou,Jindan
+A1 Howell,Robert
+A1 Ammar,Hany,H.
+A1 Abdel-mottaleb,Mohamed
+A1 Jain,Anil,K.
+YR 2004
+T1 Towards an Automated Dental Identification System (ADIS)
+SP 789
+OP 796
+
+RT Book, Whole
+ID 1872493
+A1 Lu,Xiaoguang
+A1 Hsu,Rein-lien
+A1 Jain,Anil,K.
+A1 Kamgar-parsi,Behrooz
+A1 Kamgar-parsi,Behzad
+YR 2004
+T1 Face Recognition with 3D Model-Based Synthesis
+SP 139
+OP 146
+
+RT Conference Proceedings
+ID 1896382
+A1 Namboodiri,Anoop,M.
+A1 Jain,Anil,K.
+YR 2004
+T1 Multimedia document authentication using on-line signatures as watermarks
+SP 653
+OP 662
+
+RT Book, Whole
+ID 1872484
+A1 Ross,Arun
+A1 Dass,Sarat,C.
+A1 Jain,Anil,K.
+YR 2004
+T1 Estimating Fingerprint Deformation
+SP 249
+OP 255
+
+RT Journal Article
+ID 1886161
+A1 Lu,Xiaoguang
+A1 Wei,Guo-qing
+A1 Qian,Jian,Zhong
+A1 Jain,Anil,K.
+YR 2004
+T1 Learning-based pulmonary nodule detection from multislice CT data
+JF International Congress Series
+VO 1268
+SP 1356
+OP 1356
+
+RT Book, Whole
+ID 1885109
+A1 Ross,Arun
+A1 Jain,Anil,K.
+YR 2004
+T1 Biometrics: When Identity Matters
+SP 1
+OP 2
+
+RT Journal Article
+ID 3101060
+A1 Uludag,U.
+A1 Jain,A.,K.
+YR 2004
+T1 Fingerprint minutiae attack system
+
+RT Book, Whole
+ID 1872506
+A1 Namboodiri,Anoop,M.
+A1 Saini,Shailesh
+A1 Lu,Xiaoguang
+A1 Jain,Anil,K.
+YR 2004
+T1 Skilled Forgery Detection in On-Line Signatures: A Multimodal Approach
+SP 505
+OP 511
+
+RT Conference Proceedings
+ID 1801857
+A1 Namboodiri,Anoop,M.
+A1 Jain,Anil,K.
+YR 2004
+T1 Retrieval of On-line Hand-Drawn Sketches
+VO 2
+SP 642
+OP 645
+
+RT Conference Proceedings
+ID 1801798
+A1 Farmer,Michael,E.
+A1 Jain,Anil,K.
+YR 2004
+T1 A Wrapper-Based Approach to Image Segmentation and Classification
+VO 2
+SP 106
+OP 109
+
+RT Journal Article
+ID 3397063
+A1 Law,Martin,H.,C.
+A1 Topchy,Alexander
+A1 Jain,Anil,K.
+YR 2004
+T1 Model-based Clustering With Soft And Probabilistic Constraints
+
+RT Conference Proceedings
+ID 1896744
+A1 Namboodiri,Anoop,M.
+A1 Jain,Anil,K.
+YR 2004
+T1 Robust Segmentation of Unconstrained Online Handwritten Documents
+SP 165
+OP 170
+
+RT Conference Proceedings
+ID 1799047
+A1 Farmer,Michael,E.
+A1 Lu,Xiaoguang
+A1 Chen,Hong
+A1 Jain,Anil,K.
+YR 2004
+T1 Robust motion-based image segmentation using fusion
+VO 5
+SP 3375
+OP 3378
+
+RT Conference Proceedings
+ID 1801787
+A1 Farmer,Michael,E.
+A1 Bapna,Shweta
+A1 Jain,Anil,K.
+YR 2004
+T1 Large Scale Feature Selection Using Modified Random Mutation Hill Climbing
+VO 2
+SP 287
+OP 290
+
+RT Conference Proceedings
+ID 1892978
+A1 Fahmy,Gamal
+A1 Nassar,Diaa,Eldin,M.
+A1 Jai-said,Eyad
+A1 Chen,Hong
+A1 Nomir,Omaima
+A1 Zhou,Jindan
+A1 Howell,Robert
+A1 Ammar,Hany,H.
+A1 Abdel-mottaleb,Mohamed
+A1 Jain,Anil,K.
+YR 2004
+T1 A Web Based Tool for an Automated Dental Identification System (ADIS)
+
+RT Conference Proceedings
+ID 1893101
+A1 Fahmy,Gamal
+A1 Nassar,Diaa,Eldin,M.
+A1 Jai-said,Eyad
+A1 Chen,Hong
+A1 Nomir,Omaima
+A1 Zhou,Jindan
+A1 Howell,Robert
+A1 Ammar,Hany,H.
+A1 Abdel-mottaleb,Mohamed
+A1 Jain,Anil,K.
+YR 2004
+T1 Automated Dental Identification System (ADIS)
+
+RT Journal Article
+ID 59318086
+A1 Atreja,Ashish
+A1 Mehta,Neil
+A1 Jain,Anil
+A1 Harris,C,Martin
+YR 2004
+T1 Computer Alerts for Potassium Testing: Resisting the Temptation of a Blanket Approach
+JF Journal of The American Medical Informatics Association
+VO 11
+SP 433
+OP 434
+IS 5
+
+RT Conference Proceedings
+ID 13264139
+A1 Maltoni,Davide
+A1 Jain,Anil,K.
+YR 2004
+T1 Biometric Authentication, ECCV 2004 International Workshop, BioAW 2004, Prague, Czech Republic, May 15, 2004, Proceedings
+
+RT Journal Article
+ID 51382306
+A1 Cho,B.-K.
+A1 Jain,A.
+A1 Gruner,S.,M.
+A1 Wiesner,U.
+YR 2004
+T1 Mesophase Structure-Mechanical and Ionic Transport Correlations in Extended Amphiphilic Dendrons
+JF Science
+VO 305
+SP 1598
+OP 1601
+
+RT Conference Proceedings
+ID 13261126
+A1 Zhang,David
+A1 Jain,Anil,K.
+YR 2004
+T1 Biometric Authentication, First International Conference, ICBA 2004, Hong Kong, China, July 15-17, 2004, Proceedings
+
+RT Journal Article
+ID 4658620
+A1 Jain,Anil,K.
+A1 Duin,Robert,P.,W.
+YR 2004
+T1 Introduction to Pattern Recognition1
+
+RT Conference Proceedings
+ID 50366705
+A1 Chen,Hong
+A1 Jain,Anil,K.
+YR 2004
+T1 Tooth contour extraction for matching dental radiographs
+VO 3
+SP 522
+
+RT Journal Article
+ID 4697365
+A1 JAIN,ANIL,K.
+A1 ROSS,ARUN
+YR 2004
+T1 The latest research indicates using a combination of biometric avenues for human identification is more effective, and far more challenging
+
+RT Journal Article
+ID 53727971
+A1 Jain,Anil,K.
+A1 Ratha,Nalini,K.
+YR 2004
+T1 Biometric Technology for Human Identification
+VO 5404
+
+RT Journal Article
+ID 52968620
+A1 Namboodiri,Anoop,M.
+A1 Jain,Anil,K.
+YR 2004
+T1 Multimedia document authentication using on-line signatures as watermarks
+VO 5306
+SP 653
+OP 662
+
+RT Journal Article
+ID 2066192
+A1 Maltoni,D.
+A1 Maio,D.
+A1 Jain,A.,K.
+A1 Prabhakar,S.
+YR 2003
+T1 Handbook of Fingerprint Recognition
+
+RT Journal Article
+ID 34795
+A1 Ross,Arun
+A1 Jain,Anil,K.
+YR 2003
+T1 Information fusion in biometrics
+JF Pattern Recognition Letters
+VO 24
+SP 2115
+OP 2125
+IS 13
+
+RT Journal Article
+ID 1432381
+A1 Prabhakar,Salil
+A1 Pankanti,Sharath
+A1 Jain,Anil,K.
+YR 2003
+T1 Biometric recognition: Security and privacy concerns
+JF IEEE Security & Privacy
+VO 1
+SP 33
+OP 42
+IS 2
+
+RT Book, Whole
+ID 3559605
+A1 Kumar,Ajay
+A1 Wong,David,C.,M.
+A1 Shen,Helen,C.
+A1 Jain,Anil,K.
+YR 2003
+T1 Personal Verification Using Palmprint and Hand Geometry Biometric
+SP 668
+OP 678
+
+RT Journal Article
+ID 25415
+A1 Ross,Arun
+A1 Jain,Anil,K.
+A1 Reisman,James
+YR 2003
+T1 A hybrid fingerprint matcher
+JF Pattern Recognition
+VO 36
+SP 1661
+OP 1673
+IS 7
+
+RT Journal Article
+ID 799885
+A1 Jain,Anil,K.
+A1 Uludag,Umut
+YR 2003
+T1 Hiding Biometric Data
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 25
+SP 1494
+OP 1498
+IS 11
+
+RT Book, Whole
+ID 2852955
+A1 Wang,Yunhong
+A1 Tan,Tieniu
+A1 Jain,Anil,K.
+YR 2003
+T1 Combining Face and Iris Biometrics for Identity Verification
+SP 805
+OP 813
+
+RT Journal Article
+ID 2072704
+A1 Indovina,M.
+A1 Uludag,U.
+A1 Snelick,R.
+A1 Mink,A.
+A1 Jain,A.
+YR 2003
+T1 Multimodal Biometric Authentication Methods: A COTS Approach
+
+RT Conference Proceedings
+ID 524436
+A1 Topchy,Alexander,P.
+A1 Jain,Anil,K.
+A1 Punch,William,F.
+YR 2003
+T1 Combining Multiple Weak Clusterings
+SP 331
+OP 338
+
+RT Conference Proceedings
+ID 1788408
+A1 Fred,Ana,L.,N.
+A1 Jain,Anil,K.
+YR 2003
+T1 Robust Data Clustering
+VO 2
+SP 128
+OP 136
+
+RT Conference Proceedings
+ID 33270
+A1 Lu,Xiaoguang
+A1 Wangy,Yunhong
+A1 Jain,Anil,K.
+YR 2003
+T1 Combining classifiers for face recognition
+
+RT Book, Whole
+ID 2936202
+A1 Jain,Anil,K.
+A1 Chen,Hong
+A1 Minut,Silviu
+YR 2003
+T1 Dental Biometrics: Human Identification Using Dental Radiographs
+SP 429
+OP 437
+
+RT Book, Whole
+ID 25322
+A1 Lu,Xiaoguang
+A1 Jain,Anil,K.
+YR 2003
+T1 Resampling for Face Recognition
+SP 869
+OP 877
+
+RT Conference Proceedings
+ID 606121
+A1 Jain,Anil,K.
+A1 Namboodiri,Anoop,M.
+YR 2003
+T1 Indexing and Retrieval of On-line Handwritten Documents
+SP 655
+
+RT Book, Whole
+ID 26384
+A1 Jain,Anil,K.
+A1 Uludag,Umut
+A1 Ross,Arun
+YR 2003
+T1 Biometric Template Selection: A Case Study in Fingerprints
+SP 335
+OP 342
+
+RT Journal Article
+ID 60376
+A1 Prabhakar,Salil
+A1 Jain,Anil,K.
+A1 Pankanti,Sharath
+YR 2003
+T1 Learning fingerprint minutiae location and type
+JF Pattern Recognition
+VO 36
+SP 1847
+OP 1857
+IS 8
+
+RT Conference Proceedings
+ID 1788329
+A1 Farmer,Michael,E.
+A1 Jain,Anil,K.
+YR 2003
+T1 Occupant Classification System for Automotive Airbag Suppression
+VO 1
+SP 756
+OP 761
+
+RT Journal Article
+ID 799629
+A1 Hsu,Rein-lien
+A1 Jain,Anil,K.
+YR 2003
+T1 Generating Discriminating Cartoon Faces Using Interacting Snakes
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 25
+SP 1388
+OP 1398
+IS 11
+
+RT Conference Proceedings
+ID 25041
+A1 Uludag,Umut
+A1 Jain,Anil,K.
+YR 2003
+T1 Multimedia content protection via biometrics-based encryption
+
+RT Journal Article
+ID 41121164
+A1 Jain,A.,K
+YR 2003
+T1 Actioning new partnerships for Indian cities
+JF Cities
+VO 20
+SP 353
+OP 359
+IS 5
+
+RT Journal Article
+ID 2375070
+A1 Jain,Anil,K.
+A1 Chen,Hong
+YR 2003
+T1 Matching of dental X-ray images for human identification
+
+RT Book, Whole
+ID 588482
+A1 Kamgar-parsi,Behrooz
+A1 Kamgar-parsi,Behzad
+A1 Jain,Anil,K.
+YR 2003
+T1 Synthetic Eyes
+SP 412
+OP 420
+
+RT Book, Whole
+ID 686682
+A1 Figueiredo,Mário,A.,T.
+A1 Jain,Anil,K.
+A1 Law,Martin,H.,C.
+YR 2003
+T1 A Feature Selection Wrapper for Mixtures
+SP 229
+OP 237
+
+RT Conference Proceedings
+ID 1797994
+A1 Farmer,Michael,E.
+A1 Jain,Anil,K.
+YR 2003
+T1 Integrated segmentation and classification for automotive airbag suppression
+VO 3
+SP 1053
+OP 1056
+
+RT Journal Article
+ID 41121136
+A1 Jain,A.,K.
+YR 2003
+T1 Making planning responsive to, and compatible with, reforms
+JF Cities
+VO 20
+SP 143
+OP 145
+IS 2
+
+RT Conference Proceedings
+ID 4342409
+A1 Jain,Anil,K.
+A1 Namboodiri,Anoop,M.
+A1 Jung,Keechul
+YR 2003
+T1 Text location in color documents
+SP 249
+OP 256
+
+RT Journal Article
+ID 166192
+A1 Hsu,Rein-lien
+A1 Abdel-mottaleb,Mohamed
+A1 Jain,Anil,K.
+YR 2002
+T1 Face Detection in Color Images
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 24
+SP 696
+OP 706
+IS 5
+
+RT Journal Article
+ID 800819
+A1 Figueiredo,Mário,A.,T.
+A1 Jain,Anil,K.
+YR 2002
+T1 Unsupervised learning of finite mixture models
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 24
+SP 381
+OP 396
+IS 3
+
+RT Journal Article
+ID 800831
+A1 Maio,Dario
+A1 Maltoni,Davide
+A1 Cappelli,Raffaele
+A1 Wayman,James,L.
+A1 Jain,Anil,K.
+YR 2002
+T1 FVC2000: Fingerprint Verification Competition
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 24
+SP 402
+OP 412
+IS 3
+
+RT Journal Article
+ID 93930
+A1 Duta,Nicolae
+A1 Jain,Anil,K.
+A1 Mardia,Kanti,V.
+YR 2002
+T1 Matching of palmprints
+JF Pattern Recognition Letters
+VO 23
+SP 477
+OP 485
+IS 4
+
+RT Journal Article
+ID 800326
+A1 Jain,A.,K.
+A1 Prabhakar,Salil
+A1 Pankanti,S.
+YR 2002
+T1 On the individuality of fingerprints
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 24
+SP 1010
+OP 1025
+IS 8
+
+RT Journal Article
+ID 54442
+A1 Jain,Anil,K.
+A1 Griess,Friederike,D.
+A1 Connell,Scott,D.
+YR 2002
+T1 On-line signature verification
+JF Pattern Recognition
+VO 35
+SP 2963
+OP 2972
+IS 12
+
+RT Conference Proceedings
+ID 1803136
+A1 Maio,Dario
+A1 Maltoni,Davide
+A1 Cappelli,Raffaele
+A1 Wayman,James,L.
+A1 Jain,Anil,K.
+YR 2002
+T1 FVC2002: Second Fingerprint Verification Competition
+VO 3
+SP 811
+OP 814
+
+RT Journal Article
+ID 711927
+A1 Prabhakar,Salil
+A1 Jain,Anil,K.
+YR 2002
+T1 Decision-level fusion in fingerprint verification
+JF Pattern Recognition
+VO 35
+SP 861
+OP 874
+IS 4
+
+RT Conference Proceedings
+ID 55715
+A1 Jain,Anil,K.
+A1 Ross,Arun,Abraham
+YR 2002
+T1 Learning user-specific parameters in a multibiometric system
+VO 1
+SP 57
+OP 60
+
+RT Conference Proceedings
+ID 1803184
+A1 Fred,Ana,L.,N.
+A1 Jain,Anil,K.
+YR 2002
+T1 Data Clustering Using Evidence Accumulation
+VO 4
+SP 276
+OP 280
+
+RT Journal Article
+ID 2785207
+A1 Jain,Anil
+YR 2002
+T1 Biometrics: The Future of Identification
+
+RT Conference Proceedings
+ID 12671568
+A1 Jain,Anil
+A1 Ross,Arun
+YR 2002
+T1 Fingerprint mosaicking
+VO 4
+
+RT Journal Article
+ID 1681914
+A1 Vailaya,Aditya
+A1 Zhang,Hongjiang
+A1 Yang,Changjiang
+A1 Liu,Feng-I.
+A1 Jain,Anil,K.
+YR 2002
+T1 Automatic image orientation detection
+JF IEEE Transactions on Image Processing
+VO 11
+SP 746
+OP 755
+IS 7
+
+RT Book, Whole
+ID 55506
+A1 Ross,Arun
+A1 Reisman,James
+A1 Jain,Anil,K.
+YR 2002
+T1 Fingerprint Matching Using Feature Space Correlation
+SP 48
+OP 57
+
+RT Book, Whole
+ID 12892723
+A1 Jain,Anil,K.
+A1 Bolle,Ruud
+A1 Pankanti,Sharath
+YR 2002
+T1 Introduction to biometrics
+SP 1
+OP 41
+
+RT Conference Proceedings
+ID 55448
+A1 Jain,Anil,K.
+A1 Uludag,Umut
+A1 Hsu,Rein-lien
+YR 2002
+T1 Hiding a Face in a Fingerprint Image
+VO 3
+SP 756
+OP 759
+
+RT Journal Article
+ID 800292
+A1 Connell,Scott,D.
+A1 Jain,Anil,K.
+YR 2002
+T1 Writer Adaptation for Online Handwriting Recognition
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 24
+SP 329
+OP 346
+IS 3
+
+RT Conference Proceedings
+ID 1811457
+A1 Law,Martin,H.,C.
+A1 Jain,Anil,K.
+A1 Figueiredo,Mário,A.,T.
+YR 2002
+T1 Feature Selection in Mixture-Based Clustering
+SP 625
+OP 632
+
+RT Conference Proceedings
+ID 1802721
+A1 Jain,Anil,K.
+A1 Minut,Silviu
+YR 2002
+T1 Hierarchical Kernel Fitting for Fingerprint Classification and Alignment
+VO 2
+SP 469
+OP 473
+
+RT Book, Whole
+ID 575036
+A1 Fred,Ana,L.,N.
+A1 Jain,Anil,K.
+YR 2002
+T1 Evidence Accumulation Clustering Based on the K-Means Algorithm
+SP 442
+OP 451
+
+RT Conference Proceedings
+ID 1802840
+A1 Farmer,Michael,E.
+A1 Hsu,Rein-lien
+A1 Jain,Anil,K.
+YR 2002
+T1 Interacting Multiple Model (IMM) Kalman Filters for Robust High Speed Human Motion Tracking
+VO 2
+SP 20
+OP 23
+
+RT Journal Article
+ID 2322924
+A1 Law,M.
+A1 Figueiredo,M.
+A1 Jain,A.
+YR 2002
+T1 Feature saliency in unsupervised learning
+
+RT Conference Proceedings
+ID 1803210
+A1 Jain,Anil,K.
+A1 Xu,Xiaowei
+A1 Ho,Tin,Kam
+A1 Xiao,Fan
+YR 2002
+T1 Uniformity Testing Using Minimal Spanning Tree
+VO 4
+SP 281
+OP 284
+
+RT Conference Proceedings
+ID 12765125
+A1 Hsu,Rein-Lien
+A1 Jain,Anil,K.
+YR 2002
+T1 Semantic face matching
+
+RT Conference Proceedings
+ID 1803114
+A1 Namboodiri,Anoop,M.
+A1 Jain,Anil,K.
+YR 2002
+T1 On-Line Script Recognition
+VO 3
+SP 736
+OP 739
+
+RT Conference Proceedings
+ID 1803174
+A1 Dass,Sarat,C.
+A1 Jain,Anil,K.
+A1 Lu,Xiaoguang
+YR 2002
+T1 Face Detection and Synthesis Using Markov Random Field Models
+VO 4
+SP 201
+OP 204
+
+RT Journal Article
+ID 2289486
+A1 Jain,Anil,K.
+A1 Prabhakar,Salil
+A1 Pankanti,Sharath
+YR 2002
+T1 Can Identical Twins be Discriminated Based on Fingerprints?
+
+RT Journal Article
+ID 41517223
+A1 JAIN,ANIL,K.
+A1 KEUPP,HEINER
+A1 FER,RENATE,H
+A1 KRAUS,WOLFGANG
+YR 2002
+T1 Facing another modernity: individualization and post-traditional ligatures
+JF European Review
+VO 10
+IS 01
+
+RT Journal Article
+ID 711925
+A1 Fred,Ana,L.,N.
+A1 Jain,Anil,K.
+YR 2002
+T1 Pattern recognition in information systems
+JF Pattern Recognition
+VO 35
+SP 2671
+OP 2672
+IS 12
+
+RT Journal Article
+ID 1681238
+A1 Vaiulaya,A.
+A1 Figueiredo,Mário,A.,T.
+A1 Jain,Anil,K.
+A1 Zhang,Hong-Jiang
+YR 2001
+T1 Image Classification for Content-Based Indexing
+JF IEEE Transactions on Image Processing
+VO 10
+SP 117
+OP 130
+IS 1
+
+RT Book, Whole
+ID 56947
+A1 Ross,Arun
+A1 Jain,Anil,K.
+A1 Qian,Jian-Zhong
+YR 2001
+T1 Information Fusion in Biometrics
+SP 354
+OP 359
+
+RT Conference Proceedings
+ID 1788223
+A1 Guot,Guo-Dong
+A1 Jain,Anil,K.
+A1 Mat,Wei-Ying
+A1 Zhangt,Hong-Jiang
+YR 2001
+T1 Learning Similarity Measure for Natural Image Retrieval with Relevance Feedback
+VO 1
+SP 731
+OP 736
+
+RT Conference Proceedings
+ID 181641
+A1 Jain,Anil,K.
+A1 Ross,Arun
+A1 Prabhakar,Salil
+YR 2001
+T1 Fingerprint matching using minutiae and texture features
+SP 282
+OP 285
+
+RT Book, Whole
+ID 99567
+A1 Prabhakar,Salil
+A1 Jain,Anil,K.
+YR 2001
+T1 Decision-Level Fusion in Fingerprint Verification
+SP 88
+OP 98
+
+RT Journal Article
+ID 161708
+A1 Duta,Nicolae
+A1 Jain,Anil,K.
+A1 Dubuisson-jolly,Marie-pierre
+YR 2001
+T1 Automatic Construction of 2D Shape Models
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 23
+SP 433
+OP 446
+IS 5
+
+RT Journal Article
+ID 712044
+A1 Connell,Scott,D.
+A1 Jain,Anil,K.
+YR 2001
+T1 Template-based online character recognition
+JF Pattern Recognition
+VO 34
+SP 1
+OP 14
+IS 1
+
+RT Conference Proceedings
+ID 109630
+A1 Figueiredo,Mário,A.,T.
+A1 Jain,Anil,K.
+YR 2001
+T1 Bayesian Learning of Sparse Classifiers
+VO 1
+SP 35
+OP 41
+
+RT Conference Proceedings
+ID 2167073
+A1 Pankanti,Sharath
+A1 Prabhakar,Salil
+A1 Jain,Anil,K.
+YR 2001
+T1 On the individuality fingerprints
+VO 1
+OP 805
+
+RT Journal Article
+ID 95036
+A1 Jain,Anil
+A1 Pankanti,Sharath
+YR 2001
+T1 Automated Fingerprint Identification and Imaging Systems
+
+RT Conference Proceedings
+ID 147480
+A1 Hsu,Rein-lien
+A1 Jain,Anil,K.
+YR 2001
+T1 Face modeling for recognition
+SP 693
+OP 696
+
+RT Conference Proceedings
+ID 606177
+A1 Jain,Anil,K.
+A1 Namboodiri,Anoop,M.
+A1 Subrahmonia,Jayashree
+YR 2001
+T1 Structure in On-line Documents
+SP 844
+OP 848
+
+RT Book, Whole
+ID 96844
+A1 Jain,Anil,K.
+A1 Prabhakar,Salil
+A1 Pankanti,Sharath
+YR 2001
+T1 Twin test: On discriminability of fingerprints
+SP 211
+OP 217
+
+RT Book, Whole
+ID 588363
+A1 Jain,Anil,K.
+A1 Pankanti,Sharath
+A1 Prabhakar,Salil
+A1 Ross,Arun
+YR 2001
+T1 Recent advances in fingerprint verification
+SP 182
+OP 190
+
+RT Journal Article
+ID 48963414
+A1 Jain,A.
+A1 Prabhakar,S.
+A1 Pankanti,S.
+YR 2001
+T1 Matching and classification: a case study in fingerprint domain
+VO 67
+SP 223
+OP 242
+
+RT Journal Article
+ID 799697
+A1 Kamgar-parsi,Behrooz
+A1 Kamgar-parsi,Behzad
+A1 Jain,Anil,K.
+A1 Dayhoff,Judith,E.
+YR 2001
+T1 Aircraft Detection: A Case Study in Using Human Similarity Measure
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 23
+SP 1404
+OP 1414
+IS 12
+
+RT Conference Proceedings
+ID 166406
+A1 Dass,Sarat,C.
+A1 Jain,Anil,K.
+YR 2001
+T1 Markov Face Models
+SP 680
+OP 687
+
+RT Journal Article
+ID 48963475
+A1 Jain,A.
+A1 Pankanti,S.
+YR 2001
+T1 Advances in Fingerprint Technology
+
+RT Book, Whole
+ID 604370
+A1 Duta,Nicolae
+A1 Jain,Anil,K.
+YR 2001
+T1 Learning-Based Detection, Segmentation, and Matching of Objects
+SP 435
+OP 444
+
+RT Journal Article
+ID 2928363
+A1 Prabhakar,S.
+A1 Jain,A.,K.
+YR 2001
+T1 Decision-level fusion in biometric veri cation
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+RT Conference Proceedings
+ID 50229281
+A1 Kamgar-Parsi,Behrooz
+A1 Dayhoff,J.,E.
+A1 Jain,A.,K.
+YR 2001
+T1 Improving classification boundaries by exemplar generation for visual pattern discrimination
+VO 4
+SP 2969
+
+RT Conference Proceedings
+ID 13269125
+A1 Figueiredo,Mário,A.,T.
+A1 Zerubia,Josiane
+A1 Jain,Anil,K.
+YR 2001
+T1 Energy Minimization Methods in Computer Vision and Pattern Recognition, Third International Workshop, EMMCVPR 2001, Sophia Antipolis, France, September 3-5, 2001, Proceedings
+
+RT Conference Proceedings
+ID 13306023
+A1 Fred,Ana,L.,N.
+A1 Jain,Anil,K.
+YR 2001
+T1 Pattern Recognition in Information Systems, Proceedings of the 1st International Workshop on Pattern Recognition in Information Systems, PRIS 2001, In conjunction with ICEIS 2001, Setúbal, Portugal, July 6-7, 2001
+
+RT Journal Article
+ID 56170444
+A1 Hayhoe,K.
+A1 Jain,A.
+A1 Kotamarthi,R.
+YR 2001
+T1 An Analysis of Key Feedbacks Between the Chemistry of Atmospheric Methane and Future Climate Change
+
+RT Journal Article
+ID 134757
+A1 Jain,Anil,K.
+A1 Duin,Robert,P.,W.
+A1 Mao,Jianchang
+YR 2000
+T1 Statistical pattern recognition: A review
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 22
+SP 4
+OP 37
+IS 1
+
+RT Journal Article
+ID 45876
+A1 Raymer,Michael,L.
+A1 III,William,F.,Punch
+A1 Goodman,Erik,D.
+A1 Kuhn,Leslie,A.
+A1 Jain,Anil,K.
+YR 2000
+T1 Dimensionality reduction using genetic algorithms
+JF IEEE Transactions on Evolutionary Computation
+VO 4
+SP 164
+OP 171
+IS 2
+
+RT Journal Article
+ID 799518
+A1 Zhong,Yu
+A1 Jain,Anil,K.
+A1 Dubuisson-jolly,Marie-pierre
+YR 2000
+T1 Object Tracking Using Deformable Templates
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 22
+SP 544
+OP 549
+IS 5
+
+RT Journal Article
+ID 1681136
+A1 Figueiredo,Mário,A.,T.
+A1 Leitão,José,M.,N.
+A1 Jain,Anil,K.
+YR 2000
+T1 Unsupervised contour representation and estimation using B-splines and a minimum description length criterion
+JF IEEE Transactions on Image Processing
+VO 9
+SP 1075
+OP 1087
+IS 6
+
+RT Journal Article
+ID 3132401
+A1 Maio,D.
+A1 Maltoni,D.
+A1 Cappelli,R.
+A1 Wayman,J.,L.
+A1 Jain,A.,K.
+YR 2000
+T1 Fvc2000: Fingerprint veri cation competition
+
+RT Conference Proceedings
+ID 33423
+A1 Figueiredo,Mário,A.,T.
+A1 Jain,Anil,K.
+YR 2000
+T1 Unsupervised Selection and Estimation of Finite Mixture Models
+VO 2
+SP 2087
+OP 2090
+
+RT Journal Article
+ID 2342355
+A1 Jain,Anil
+A1 Pankanti,Sharath
+YR 2000
+T1 Fingerprint classification and matching
+
+RT Conference Proceedings
+ID 533906
+A1 Prabhakar,Salil
+A1 Jain,Anil,K.
+A1 Wang,Jianguo
+A1 Pankanti,Shai-ath
+A1 Bolle,Ruud,M.
+YR 2000
+T1 Minutia verification and classification for fingerprint matching
+VO 1
+SP 25
+OP 29
+
+RT Journal Article
+ID 712320
+A1 Zhong,Yu
+A1 Jain,Anil,K.
+YR 2000
+T1 Object localization using color, texture and shape
+JF Pattern Recognition
+VO 33
+SP 671
+OP 684
+IS 4
+
+RT Conference Proceedings
+ID 2085375
+A1 Vailaya,Aditya
+A1 Jain,Anil,K.
+YR 2000
+T1 Detecting sky and vegetation in outdoor images
+SP 411
+OP 420
+
+RT Journal Article
+ID 2785205
+A1 Jain,A.,K.
+A1 Hong,L.
+A1 Pankanti,S.
+YR 2000
+T1 Biometrics: promising fron-tiers for emerging identification market
+JF Communications of The ACM
+
+RT Conference Proceedings
+ID 213578
+A1 Vailaya,Aditya
+A1 Jain,Anil,K.
+YR 2000
+T1 Reject Option for VQ-Based Bayesian Classification
+VO 2
+SP 2048
+OP 2051
+
+RT Conference Proceedings
+ID 125661
+A1 Connell,Scott,D.
+A1 Sinha,R.,M.,K.
+A1 Jain,Anil,K.
+YR 2000
+T1 Recognition of Unconstrained On-Line Devanagari Characters
+SP 2368
+OP 2371
+
+RT Journal Article
+ID 2129595
+A1 Pankanti,S.
+A1 Bolle,R.,M.
+A1 Jain,A.
+YR 2000
+T1 Guest editors''introduction: Biometrics-the future of identification
+
+RT Journal Article
+ID 712301
+A1 Liu,Jinhui
+A1 Jain,Anil,K.
+YR 2000
+T1 Image-based form document retrieval
+JF Pattern Recognition
+VO 33
+SP 503
+OP 513
+IS 3
+
+RT Journal Article
+ID 15276518
+A1 Jain,Anil,K.
+A1 Dorai,Chitra
+YR 2000
+T1 3D object recognition: Representation and matching
+JF Statistics and Computing
+VO 10
+SP 167
+OP 182
+IS 2
+
+RT Journal Article
+ID 847574
+A1 Pankanti,Sharath
+A1 Bolle,Ruud,M.
+A1 Jain,Anil,K.
+YR 2000
+T1 Biometrics: The Future of Identification - Guest Editors' Introduction
+JF IEEE Computer
+VO 33
+SP 46
+OP 49
+IS 2
+
+RT Conference Proceedings
+ID 50212699
+A1 Connell,Scott,D.
+A1 Sinha,R.,M.,K.
+A1 Jain,A.,K.
+YR 2000
+T1 Recognition of unconstrained online Devanagari characters
+VO 2
+SP 368
+
+RT Conference Proceedings
+ID 1901377
+A1 Ratha,Nalini,K.
+A1 Jain,Anil,K.
+A1 Rover,Diane,T.
+YR 2000
+T1 FPGA-Based Coprocessor for Text String Extraction
+SP 217
+OP 221
+
+RT Journal Article
+ID 51392384
+A1 Kamgar-Parsi,Behrooz
+A1 Kamgar-Parsi,Behzad
+A1 Dayhoff,Judith,E.
+A1 Jain,Anil,K.
+YR 2000
+T1 Avoiding metric similarity measures in ATR
+VO 4050
+SP 48
+OP 54
+
+RT Journal Article
+ID 109921
+A1 Hsu,Rein-Lien
+A1 Jain,Anil,K.
+YR 2000
+T1 Multiresolution Model Compression Using 3-D Wavelets
+
+RT Journal Article
+ID 22609
+A1 Jain,Anil,K.
+A1 Murty,M.,Narasimha
+A1 Flynn,Patrick,J.
+YR 1999
+T1 Data clustering: a review
+JF ACM Computing Surveys
+VO 31
+SP 264
+OP 323
+IS 3
+
+RT Journal Article
+ID 799980
+A1 Jain,Anil,K.
+A1 Prabhakar,Salil
+A1 Hong,Lin
+YR 1999
+T1 A Multichannel Approach to Fingerprint Classification
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 21
+SP 348
+OP 359
+IS 4
+
+RT Conference Proceedings
+ID 526034
+A1 Zhong,Yu
+A1 Zhang,Hong-Jiang
+A1 Jain,Anil,K.
+YR 1999
+T1 Automatic Caption Localization in Compressed Video
+SP 96
+OP 100
+
+RT Conference Proceedings
+ID 55798
+A1 Jain,Anil,K.
+A1 Ross,Arun
+A1 Pankanti,Sharath
+YR 1999
+T1 A prototype hand geometry-based verification system
+SP 166
+OP 171
+
+RT Journal Article
+ID 57413
+A1 Jain,Anil,K.
+A1 Prabhakar,Salil
+A1 Chen,Shaoyun
+YR 1999
+T1 Combining multiple matchers for a high security fingerprint verification system
+JF Pattern Recognition Letters
+VO 20
+SP 1371
+OP 1379
+IS 11-13
+
+RT Conference Proceedings
+ID 48963410
+A1 Hong,L.
+A1 Jain,A.,K.
+A1 Pankanti,S.
+YR 1999
+T1 Can multibiometrics improve performance?
+VO 99
+SP 59
+OP 64
+
+RT Conference Proceedings
+ID 610555
+A1 Vailaya,Aditya
+A1 Figueiredo,Mário,A.,T.
+A1 Jain,Anil,K.
+A1 Zhang,Hongjiang
+YR 1999
+T1 Content-Based Hierarchical Classification of Vacation Images
+SP 518
+OP 523
+
+RT Conference Proceedings
+ID 415921
+A1 Jain,Anil,K.
+A1 Duta,Nicolae
+YR 1999
+T1 Deformable Matching of Hand Shapes for User Verification
+SP 857
+OP 861
+
+RT Journal Article
+ID 1966639
+A1 Hong,Lin
+A1 Jain,Anil
+YR 1999
+T1 Classification of Fingerprint Images
+
+RT Journal Article
+ID 2041670
+A1 Hong,L.
+A1 Jain,A.,K.
+A1 Panikanti,S.
+YR 1999
+T1 Can multibiometrics improve perfomance
+
+RT Conference Proceedings
+ID 2594107
+A1 Jain,A.,K.
+A1 Hong,L.
+A1 Kulkarni,Y.
+YR 1999
+T1 A Multimodal Biometric System using Fingerprints, Face and Speech
+
+RT Journal Article
+ID 2040385
+A1 Jain,A.,K.
+A1 Prabhakar,S.
+A1 Ross,A.
+YR 1999
+T1 Fingerprint matching: data acquisition and performance evaluation
+
+RT Book, Whole
+ID 83046
+A1 Figueiredo,Mário,A.,T.
+A1 Leitão,José,M.,N.
+A1 Jain,Anil,K.
+YR 1999
+T1 On Fitting Mixture Models
+SP 54
+OP 69
+
+RT Conference Proceedings
+ID 229521
+A1 Vailaya,Aditya
+A1 Zhang,Hongjiang
+A1 Jain,Anil,K.
+YR 1999
+T1 Automatic Image Orientation Detection
+SP 600
+OP 604
+
+RT Conference Proceedings
+ID 506861
+A1 Jain,Anil,K.
+A1 Prabhakar,Salil
+A1 Hong,Lin
+A1 Pankanti,Sharath
+YR 1999
+T1 FingerCode: a filterbank for fingerprint representation and matching
+VO 2
+SP 2187
+
+RT Conference Proceedings
+ID 306846
+A1 Duta,Nicolae
+A1 Jain,Anil,K.
+A1 Dubuisson-jolly,Marie-pierre
+YR 1999
+T1 Learning 2D Shape Models
+VO 2
+SP 2008
+OP 2014
+
+RT Journal Article
+ID 2046922
+A1 Jain,A.,K.
+A1 Bolle,R.
+A1 Pankanti,S.
+YR 1999
+T1 Biometrics: Person Identification in a Networked Society
+
+RT Journal Article
+ID 210676
+A1 Vailaya,Aditya
+A1 Figueiredo,Mario
+A1 Jain,Anil
+A1 Zhang,HongJiang
+YR 1999
+T1 A Bayesian Framework for Semantic Classification of Outdoor Vacation Images
+
+RT Journal Article
+ID 1681615
+A1 Strand,Jarle
+A1 Taxt,Torfinn
+A1 Jain,Anil,K.
+YR 1999
+T1 Two-dimensional phase unwrapping using a block least-squares method
+JF IEEE Transactions on Image Processing
+VO 8
+SP 375
+OP 386
+IS 3
+
+RT Journal Article
+ID 805496
+A1 Ratha,Nalini,K.
+A1 Jain,Anil,K.
+YR 1999
+T1 Computer Vision Algorithms on Reconfigurable Logic Arrays
+JF IEEE Transactions on Parallel and Distributed Systems
+VO 10
+SP 29
+OP 43
+IS 1
+
+RT Journal Article
+ID 48963493
+A1 Jain,AK
+A1 Bolle,R.
+YR 1999
+T1 S. Pankanti, eds
+
+RT Journal Article
+ID 2305916
+A1 Jain,A.
+A1 Pankanti,S.
+YR 1999
+T1 Biometrics: Promising Frontiers for emerging identification market
+JF Communications of The ACM
+
+RT Book, Whole
+ID 219396
+A1 Duta,Nicolae
+A1 Sonka,Milan
+A1 Jain,Anil,K.
+YR 1999
+T1 Learning Shape Models from Examples Using Automatic Shape Clustering and Procrustes Analysis
+SP 370
+OP 375
+
+RT Conference Proceedings
+ID 257180
+A1 Connell,Scott,D.
+A1 Jain,Anil,K.
+YR 1999
+T1 Writer Adaptation of Online Handwriting Models
+SP 434
+OP 437
+
+RT Conference Proceedings
+ID 304464
+A1 Lundervold,Arvid
+A1 Taxt,Torfinn
+A1 Duta,Nicolae
+A1 Jain,Anil,K.
+YR 1999
+T1 Model-Guided Segmentation of Corpus Callosum in MR Images
+VO 1
+SP 1231
+OP 1237
+
+RT Conference Proceedings
+ID 2759854
+A1 Zhong,Y.
+A1 Zhang,H.
+A1 Jain,A.,K.
+YR 1999
+T1 Automatic Caption Extraction of Digital Video
+
+RT Journal Article
+ID 3034671
+A1 Figueiredo,M.
+A1 Leitao,J.
+A1 Jain,A.,K.
+YR 1999
+T1 Energy Minimization Methods in Computer Vision and Pattern Recognition
+
+RT Journal Article
+ID 2333875
+A1 Jain,Anil
+A1 Prabhakar,Salil
+A1 Pankanti,Sharath
+YR 1999
+T1 Matching and Classification: A Case Study in Fingerprint Domain
+
+RT Conference Proceedings
+ID 238839
+A1 Vailaya,Aditya
+A1 Jain,Anil,K.
+YR 1999
+T1 Incremental Learning for Bayesian Classification of Images
+SP 585
+OP 589
+
+RT Conference Proceedings
+ID 169749
+A1 Duta,Nicolae
+A1 Jain,Anil,K.
+A1 Dubuisson-jolly,Marie-pierre
+YR 1999
+T1 Learning-based Object Detection in Cardiac MR Images
+SP 1210
+OP 1216
+
+RT Conference Proceedings
+ID 506801
+A1 Kamgar-parsi,Behrooz
+A1 Kamgar-parsi,Behzad
+A1 Jain,Anil,K.
+YR 1999
+T1 Automatic Aircraft Recognition: Toward Using Human Similarity Measure in a Recognition System
+VO 1
+SP 1268
+OP 1273
+
+RT Journal Article
+ID 712361
+A1 Jiménez,A.,R.
+A1 Jain,Anil,K.
+A1 Ruíz,Ramón,Ceres
+A1 Rovira,José,Luis,Pons
+YR 1999
+T1 Automatic fruit recognition: a survey and new results using Range/Attenuation images
+JF Pattern Recognition
+VO 32
+SP 1719
+OP 1736
+IS 10
+
+RT Conference Proceedings
+ID 2279469
+A1 Jain,Anil,K.
+A1 Prabhakar,Salil
+A1 Pankanti,Sharath
+YR 1999
+T1 A filterbank-based representation for classification and matching of fingerprints
+VO 5
+SP 3284
+OP 3285
+
+RT Conference Proceedings
+ID 145808
+A1 Hsu,Rein-lien
+A1 Chen,Shaoyun
+A1 Jain,Anil,K.
+A1 Mercer,Carolyn,R.
+YR 1999
+T1 Local Weight Selection for Two-Dimensional Phase Unwrapping
+SP 871
+OP 875
+
+RT Conference Proceedings
+ID 527856
+A1 Kamgar-parsi,Behrooz
+A1 Kamgar-parsi,Behzad
+A1 Jain,Anil,K.
+YR 1999
+T1 A Case Study in Using Human Similarity Measure for Automated Object Recognition
+SP 555
+OP 559
+
+RT Journal Article
+ID 56856774
+A1 Nitta,S.,V.
+A1 Jain,A.
+A1 Wayner,P.,C.
+A1 Gill,W.,N.
+A1 Plawsky,J.,L.
+YR 1999
+T1 Effect of sol rheology on the uniformity of spin-on silica xerogel films
+
+RT Journal Article
+ID 51373561
+A1 Vailaya,Aditya
+A1 Jain,Anil,K.
+YR 1999
+T1 Detecting sky and vegetation in outdoor images
+VO 3972
+SP 411
+OP 420
+
+RT Journal Article
+ID 337788
+A1 Hong,Lin
+A1 Wan,Yifei
+A1 Jain,Anil,K.
+YR 1998
+T1 Fingerprint Image Enhancement: Algorithm and Performance Evaluation
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 20
+SP 777
+OP 789
+IS 8
+
+RT Journal Article
+ID 492072
+A1 Hong,Lin
+A1 Jain,Anil,K.
+YR 1998
+T1 Integrating Faces and Fingerprints for Personal Identification
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 20
+SP 16
+OP 23
+IS 12
+
+RT Journal Article
+ID 386906
+A1 Jain,Anil,K.
+A1 Vailaya,Aditya
+YR 1998
+T1 Shape-Based Retrieval: A Case Study With Trademark Image Databases
+JF Pattern Recognition
+VO 31
+SP 1369
+OP 1390
+IS 9
+
+RT Journal Article
+ID 291236
+A1 Vailaya,Aditya
+A1 Jain,Anil,K.
+A1 Zhang,Hongjiang
+YR 1998
+T1 On image classification: city images vs. landscapes
+JF Pattern Recognition
+VO 31
+SP 1921
+OP 1935
+IS 12
+
+RT Conference Proceedings
+ID 589328
+A1 Sudhir,G.
+A1 Lee,John,Chung-mong
+A1 Jain,Anil,K.
+YR 1998
+T1 Automatic Classification of Tennis Video for High-Level Content-Based Retrieval
+SP 81
+OP 90
+
+RT Conference Proceedings
+ID 2002132
+A1 Vailaya,Aditya
+A1 Jain,Anil
+A1 (张宏江),Hong-jiang,Zhang
+YR 1998
+T1 On image classification: city vs. landscape
+
+RT Journal Article
+ID 800082
+A1 Dorai,Chitra
+A1 Wang,Gang
+A1 Jain,Anil,K.
+A1 Mercer,Carolyn,R.
+YR 1998
+T1 Registration and Integration of Multiple Object Views for 3D Model Construction
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 20
+SP 83
+OP 89
+IS 1
+
+RT Journal Article
+ID 799557
+A1 Judd,Dan
+A1 Mckinley,Philip,K.
+A1 Jain,Anil,K.
+YR 1998
+T1 Large-Scale Parallel Data Clustering
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 20
+SP 871
+OP 876
+IS 8
+
+RT Journal Article
+ID 2045274
+A1 Jain,Anil,K
+A1 Zhong,Yu
+A1 Dubuisson-Jolly,Marie-Pierre
+YR 1998
+T1 Deformable template models: A review
+JF Signal Processing
+VO 71
+SP 109
+OP 129
+IS 2
+
+RT Journal Article
+ID 700590
+A1 Li,Yong,H.
+A1 Jain,Anil,K.
+YR 1998
+T1 Classification of text documents
+JF The Computer Journal
+VO 41
+SP 537
+OP 546
+IS 8
+
+RT Conference Proceedings
+ID 523893
+A1 Zhong,Yu
+A1 Jain,Anil,K.
+A1 Dubuisson-jolly,Marie-pierre
+YR 1998
+T1 Object Tracking Using Deformable Templates
+SP 440
+OP 445
+
+RT Conference Proceedings
+ID 225004
+A1 Connell,Scott,D.
+A1 Jain,Anil,K.
+YR 1998
+T1 Learning Prototypes for On-Line Handwritten Digits
+
+RT Journal Article
+ID 2159549
+A1 Chen,Sei-wang
+A1 Tung,S.,T.
+A1 Fang,C.,Y.
+A1 Cherng,Shen
+A1 Jain,Anil,K.
+YR 1998
+T1 Extended Attributed String Matching for Shape Recognition
+JF Computer Vision and Image Understanding
+VO 70
+SP 36
+OP 50
+IS 1
+
+RT Journal Article
+ID 54690
+A1 Jain,A.,K.
+YR 1998
+T1 Biometrics-Based Web Access
+
+RT Conference Proceedings
+ID 50123559
+A1 Connell,Scott,D.
+A1 Jain,Anil,K.
+YR 1998
+T1 Learning prototypes for online handwritten digits
+VO 1
+SP 182
+
+RT Conference Proceedings
+ID 50123680
+A1 Jain,Anil
+A1 Vailaya,Aditya
+A1 Xiong,Wei
+YR 1998
+T1 Query by video clip
+VO 1
+SP 909
+
+RT Journal Article
+ID 2593741
+A1 Jain,A.,K.
+A1 Prabhakar,S.
+A1 Hong,L.
+YR 1998
+T1 A Multichannel Approach to Fingerprint Classification
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+RT Conference Proceedings
+ID 311103
+A1 Duta,Nicolae
+A1 Jain,Anil,K.
+YR 1998
+T1 Learning the human face concept in black and white images
+VO 2
+SP 1365
+
+RT Conference Proceedings
+ID 50123626
+A1 Liu,Jinhui
+A1 Jain,A.,K.
+YR 1998
+T1 Image-based form document retrieval
+VO 1
+SP 626
+
+RT Conference Proceedings
+ID 50123755
+A1 Jain,Anil
+A1 Hong,Lin
+A1 Kulkarni,Yatin
+YR 1998
+T1 F2ID: a personal identification system using faces and fingerprints
+VO 2
+SP 1373
+
+RT Journal Article
+ID 56151352
+A1 Li,Yongho
+A1 Strand,Jarle
+A1 Jain,Anil,K.
+A1 Mercer,Carolyn,R.
+YR 1998
+T1 3D object model construction from multiple range views
+VO 3478
+SP 427
+OP 435
+
+RT Journal Article
+ID 52684642
+A1 Vailaya,Aditya
+A1 Figueiredo,Mario
+A1 Jain,Anil,K.
+A1 Zhang,Hongjiang
+YR 1998
+T1 Bayesian framework for semantic classification of outdoor vacation images
+VO 3656
+SP 415
+OP 426
+
+RT Conference Proceedings
+ID 50123775
+A1 Jain,Anil,K.
+A1 Yu,Bin
+YR 1998
+T1 Automatic text location in images and video frames
+VO 2
+SP 1497
+
+RT Journal Article
+ID 51261954
+A1 Zhou,Ji
+A1 Jain,Anil,K.
+A1 Zhang,Tianxu
+A1 Zhu,Yaoting
+A1 Ding,Mingyue
+A1 Liu,Jianguo
+YR 1998
+T1 International Symposium on Multispectral Image Processing (ISMIP'98)
+VO 3545
+
+RT Journal Article
+ID 799979
+A1 Jain,Anil,K.
+A1 Hong,Lin
+A1 Bolle,Ruud,M.
+YR 1997
+T1 On-Line Fingerprint Verification
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 19
+SP 302
+OP 314
+IS 4
+
+RT Journal Article
+ID 799983
+A1 Jain,Anil,K.
+A1 Zongker,Douglas,E.
+YR 1997
+T1 Feature selection: Evaluation, application, and small sample performance
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 19
+SP 153
+OP 158
+IS 2
+
+RT Journal Article
+ID 1469462
+A1 Bolle,R.
+A1 Hong,Lin
+A1 Jain,AK
+A1 Pankanti,S.
+YR 1997
+T1 An identity-authentication system using fingerprints
+JF Proceedings of The IEEE
+VO 85
+SP 1365
+OP 1388
+IS 9
+
+RT Journal Article
+ID 334201
+A1 Dorai,Chitra
+A1 Jain,Anil,K.
+YR 1997
+T1 COSMOS - A Representation Scheme for 3D Free-Form Objects
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 19
+SP 1115
+OP 1130
+IS 10
+
+RT Journal Article
+ID 405231
+A1 Jain,Anil,K.
+A1 Zongker,Douglas,E.
+YR 1997
+T1 Representation and Recognition of Handwritten Digits Using Deformable Templates
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 19
+SP 1386
+OP 1391
+IS 12
+
+RT Journal Article
+ID 378374
+A1 Dorai,Chitra
+A1 Weng,Juyang
+A1 Jain,Anil,K.
+YR 1997
+T1 Optimal Registration of Object Views Using Range Data
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 19
+SP 1131
+OP 1138
+IS 10
+
+RT Journal Article
+ID 1427933
+A1 Gökmen,Muhittin
+A1 Jain,Anil,K.
+YR 1997
+T1 λτ-space representation of images and generalized edge detector
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 19
+SP 545
+OP 563
+IS 6
+
+RT Journal Article
+ID 358014
+A1 Dorai,Chitra
+A1 Jain,Anil,K.
+YR 1997
+T1 Shape Spectrum Based View Grouping and Matching of 3D Free-Form Objects
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 19
+SP 1139
+OP 1146
+IS 10
+
+RT Conference Proceedings
+ID 2137073
+A1 Yu,B.
+A1 Jain,A.K.
+A1 Mohiuddin,M.
+YR 1997
+T1 Address block location on complex mail pieces
+
+RT Conference Proceedings
+ID 526241
+A1 Yu,Bin
+A1 Jain,Anil,K.
+YR 1997
+T1 Lane Boundary Detection Using a Multiresolution Hough Transform
+SP 748
+OP 751
+
+RT Journal Article
+ID 1693519
+A1 Dulimart,Hansye,S.
+A1 Jain,Anil,K.
+YR 1997
+T1 Mobile robot localization in indoor environment
+JF Pattern Recognition
+VO 30
+SP 99
+OP 111
+IS 1
+
+RT Journal Article
+ID 39879
+A1 Jain,Anil,K.
+A1 Dorai,Chitra
+YR 1997
+T1 Practicing vision: Integration, evaluation and applications
+JF Pattern Recognition
+VO 30
+SP 183
+OP 196
+IS 2
+
+RT Book, Whole
+ID 640074
+A1 Zhong,Yu
+A1 Jain,Anil,K.
+YR 1997
+T1 Object Localization Using Color, Texture and Shape
+SP 279
+OP 294
+
+RT Journal Article
+ID 244426
+A1 Dickinson,Sven,J.
+A1 Bergevin,Robert
+A1 Biederman,Irving
+A1 Eklundh,Jan-olof
+A1 Munck-fairwood,Roger
+A1 Jain,Anil,K.
+A1 Pentland,Alex
+YR 1997
+T1 Panel report: the potential of geons for generic 3-D object recognition
+JF Image and Vision Computing
+VO 15
+SP 277
+OP 292
+IS 4
+
+RT Journal Article
+ID 800870
+A1 Trier,Øivind,Due
+A1 Taxt,Torfinn
+A1 Jain,Anil,K.
+YR 1997
+T1 Recognition of Digits in Hydrographic Maps: Binary Versus Topographic Analysis
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 19
+SP 399
+OP 404
+IS 4
+
+RT Conference Proceedings
+ID 506529
+A1 Figueiredo,Mário,A.,T.
+A1 Leitão,José,M.,N.
+A1 Jain,Anil,K.
+YR 1997
+T1 Adaptive B-Splines and Boundary Estimation
+SP 724
+OP 730
+
+RT Book, Whole
+ID 358964
+A1 Hong,Lin
+A1 Jain,Anil,K.
+A1 Pankanti,Sharath
+A1 Bolle,Ruud,M.
+YR 1997
+T1 Identity authentication using fingerprints
+SP 103
+OP 110
+
+RT Conference Proceedings
+ID 50094947
+A1 Ratha,Nalini,K.
+A1 Jain,A.,K.
+YR 1997
+T1 FPGA-based computing in computer vision
+
+RT Book, Whole
+ID 640088
+A1 Figueiredo,Mário,A.,T.
+A1 Leitão,José,M.,N.
+A1 Jain,Anil,K.
+YR 1997
+T1 Adaptive Parametrically Deformable Contours
+SP 35
+OP 50
+
+RT Conference Proceedings
+ID 393653
+A1 Judd,Dan
+A1 Mckinley,Philip,K.
+A1 Jain,Anil,K.
+YR 1997
+T1 Performance Evaluation of Large-Scale Parallel Clustering in NOW Environments
+
+RT Book, Whole
+ID 609531
+A1 Kurt,Binnur
+A1 Gökmen,Muhittin
+A1 Jain,Anil,K.
+YR 1997
+T1 Image Compression Based on Centipede Model
+SP 303
+OP 310
+
+RT Conference Proceedings
+ID 50094948
+A1 Ratha,Nalini,K.
+A1 Jain,A.,K.
+YR 1997
+T1 Multilayer perceptrons on Splash 2
+
+RT Journal Article
+ID 800885
+A1 Gökmen,Muhittin
+A1 Jain,Anil,K.
+YR 1997
+T1 lamda-tau-Space Representation of Images and Generalized Edge Detector
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 19
+SP 545
+OP 563
+IS 6
+
+RT Conference Proceedings
+ID 50085163
+A1 Mao,Jianchang
+A1 Jain,A.,K.
+YR 1997
+T1 A note on the effective number of parameters in nonlinear learning systems
+
+RT Journal Article
+ID 53395693
+A1 Barlow,D.,B.
+A1 Shafer,R.,E.
+A1 Martinez,R.,P.
+A1 Walstrom,P.,L.
+A1 Kahn,S.,A.
+A1 Jain,A.,K.
+A1 Wanderer,P.,J.
+YR 1997
+T1 Magnetic Design and Measurement of Nonlinear Octupole Magnets for the APT Beam Expander System
+
+RT Journal Article
+ID 51539374
+A1 Jain,A.,K.
+A1 Manickavasagam,R.,M.
+YR 1997
+T1 Ductile Shear As A Cause of Inverted Metamorphism: Example From the Nepal Himalaya: A Discussion
+
+RT Journal Article
+ID 359486
+A1 Jain,Anil,K.
+A1 Vailaya,Aditya
+YR 1996
+T1 Image retrieval using color and shape
+JF Pattern Recognition
+VO 29
+SP 1233
+OP 1244
+IS 8
+
+RT Journal Article
+ID 1693575
+A1 Trier,Øivind,Due
+A1 Jain,Anil,K.
+A1 Taxt,Torfinn
+YR 1996
+T1 Feature extraction methods for character recognition-A survey
+JF Pattern Recognition
+VO 29
+SP 641
+OP 662
+IS 4
+
+RT Journal Article
+ID 336338
+A1 Ratha,Nalini,K.
+A1 Karu,Kalle
+A1 Chen,Shaoyun
+A1 Jain,Anil,K.
+YR 1996
+T1 A Real-Time Matching System for Large Fingerprint Databases
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 18
+SP 799
+OP 813
+IS 8
+
+RT Journal Article
+ID 2168700
+A1 Karu,Kalle
+A1 Jain,Anil,K.
+YR 1996
+T1 Fingerprint classification
+JF Pattern Recognition
+VO 29
+SP 389
+OP 404
+IS 3
+
+RT Journal Article
+ID 317885
+A1 Jain,Anil,K.
+A1 Mao,Jianchang
+A1 Mohiuddin,K.,Moidin
+YR 1996
+T1 Artificial Neural Networks: A Tutorial
+JF IEEE Computer
+VO 29
+SP 31
+OP 44
+IS 3
+
+RT Journal Article
+ID 799884
+A1 Jain,Anil,K.
+A1 Karu,Kalle
+YR 1996
+T1 Learning Texture Discrimination Masks
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 18
+SP 195
+OP 205
+IS 2
+
+RT Journal Article
+ID 799698
+A1 Yu,Bin
+A1 Jain,Anil,K.
+YR 1996
+T1 A Generic System for Form Dropout
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 18
+SP 1127
+OP 1134
+IS 11
+
+RT Journal Article
+ID 800731
+A1 Dubuisson-jolly,Marie-pierre
+A1 Lakshmanan,Sridhar
+A1 Jain,Anil,K.
+YR 1996
+T1 Vehicle Segmentation and Classification Using Deformable Templates
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 18
+SP 293
+OP 308
+IS 3
+
+RT Conference Proceedings
+ID 2676581
+A1 Zongker,Douglas
+A1 Jain,Anil
+YR 1996
+T1 Algorithms for feature selection: An evaluation
+VO 2
+SP 18
+
+RT Conference Proceedings
+ID 90
+A1 Dorait,Chitra
+A1 Wang,Gang
+A1 Jain,Anil,K.
+A1 Mercer,Carolyn
+YR 1996
+T1 From images to models: automatic 3D object model construction from multiple views
+VO 1
+SP 770
+
+RT Journal Article
+ID 2159874
+A1 Günsel,Bilge
+A1 Jain,Anil,K.
+A1 Panayirci,Erdal
+YR 1996
+T1 Reconstruction and Boundary Detection of Range and Intensity Images Using Multiscale MRF Representations
+JF Computer Vision and Image Understanding
+VO 63
+SP 353
+OP 366
+IS 2
+
+RT Conference Proceedings
+ID 385779
+A1 Dorai,Chitra
+A1 Jain,Anil,K.
+YR 1996
+T1 Recognition of 3D free-form objects
+VO 1
+SP 697
+
+RT Conference Proceedings
+ID 50053872
+A1 Yu,Bin
+A1 Jain,A.,K.
+YR 1996
+T1 A form dropout system
+VO 3
+SP 701
+
+RT Journal Article
+ID 26539047
+A1 Kuo,C.,J.
+A1 Deller,J.,R.
+A1 Jain,A.,K.
+YR 1996
+T1 Pre/post-filter for performance improvement of transform coding
+JF Signal Processing-image Communication
+VO 8
+SP 229
+OP 239
+IS 3
+
+RT Conference Proceedings
+ID 393131
+A1 Ratha,Nalini,K.
+A1 Jain,Anil,K.
+A1 Rover,Diane,T.
+YR 1996
+T1 FPGA-based high performance page layout segmentation
+SP 29
+OP 34
+
+RT Conference Proceedings
+ID 403150
+A1 Kroepelien,Britt
+A1 Vailaya,Aditya
+A1 Jain,Anil,K.
+YR 1996
+T1 Image databases: a case study in Norwegian silver authentication
+VO 3
+SP 370
+
+RT Journal Article
+ID 13330183
+A1 Panchanathan,Sethuraman
+A1 Gamaz,N.
+A1 Jain,A.
+YR 1996
+T1 Image scalability using wavelet vector quantization
+JF Journal of Electronic Imaging
+VO 5
+SP 167
+OP 175
+IS 2
+
+RT Conference Proceedings
+ID 506848
+A1 Gökmen,Muhittin
+A1 Jain,Anil,K.
+YR 1996
+T1 spl lambda//spl tau/-space representation of images and generalized edge detector
+SP 764
+OP 769
+
+RT Journal Article
+ID 2182701
+A1 Panchanathan,Sethuraman
+A1 Gamaz,N.
+A1 Jain,A.
+YR 1996
+T1 JPEG based scalable image compression
+JF Computer Communications
+VO 19
+SP 1001
+OP 1013
+IS 12
+
+RT Journal Article
+ID 55626386
+A1 Supper,R.
+A1 Hasinger,G.
+A1 Pietsch,W.
+A1 Truemper,J.
+A1 Jain,A.
+A1 Magnier,E.,A.
+A1 Lewin,W.,H.,G.
+A1 Paradijs,J.,van
+YR 1996
+T1 ROSAT PSPC survey of M 31 (Supper+ 1997)
+
+RT Journal Article
+ID 54212840
+A1 Supper,R.
+A1 Hasinger,G.
+A1 Pietsch,W.
+A1 Trümper,J.
+A1 Jain,A.
+A1 Magnier,E.,A.
+A1 Lewin,W.,H.,G.
+A1 Paradijs,J.,van
+YR 1996
+T1 Results from deep ROSAT PSPC surveys of M31
+
+RT Journal Article
+ID 52782821
+A1 Magnier,E.,A.
+A1 Lewin,W.,H.,G.
+A1 Paradijs,J.,van
+A1 Hasinger,G.
+A1 Jain,A.
+A1 Pietsch,W.
+A1 Truemper,J.
+YR 1996
+T1 BVRI CCD photometry in the field of M 31 (Magnier+ 1992)
+
+RT Journal Article
+ID 56864645
+A1 Avasthi,D.,K.
+A1 Kabiraj,D.
+A1 Jain,A.
+A1 Mehta,G.,K.
+YR 1996
+T1 Depth profile of implanted species with a detector telescope
+
+RT Journal Article
+ID 52318061
+A1 Jain,A.
+A1 Winter,T.,G.
+YR 1996
+T1 Density Matrices of the Excited Atomic States Produced in He ^2+ - Na(3s) Collisions at 2-50 keV/amu in the Coupled -Sturmian-Pseudostate Approach
+
+RT Journal Article
+ID 60718784
+A1 Jain,A.
+A1 Winter,T.,G.
+YR 1996
+T1 Density matrices of the excited atomic states produced in He{sup 2+} Na(3s) collisions at 2-50 keV/amu in the coupled-Sturmian-pseudostate approach
+VO 41
+SP 1121
+IS 3
+
+RT Journal Article
+ID 56484291
+A1 Jain,A.
+YR 1996
+T1 Low-Energy Electron Scattering with Polar Polyatomic Molecules (H_2O, H_2S, and NH_3) by Employing an Iterative Exchange Scheme under the Single-Center- Expansion Approach
+VO 41
+SP 1139
+IS 3
+
+RT Journal Article
+ID 210779
+A1 Trier,Øivind,Due
+A1 Jain,Anil,K.
+YR 1995
+T1 Goal-Directed Evaluation of Binarization Methods
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 17
+SP 1191
+OP 1201
+IS 12
+
+RT Journal Article
+ID 1693617
+A1 Ratha,Nalini,K.
+A1 Chen,Shaoyun
+A1 Jain,Anil,K.
+YR 1995
+T1 Adaptive flow orientation-based feature extraction in fingerprint images
+JF Pattern Recognition
+VO 28
+SP 1657
+OP 1672
+IS 11
+
+RT Journal Article
+ID 1986225
+A1 Newman,Timothy,S.
+A1 Jain,Anil,K.
+YR 1995
+T1 A Survey of Automated Visual Inspection
+JF Computer Vision and Image Understanding
+VO 61
+SP 231
+OP 262
+IS 2
+
+RT Conference Proceedings
+ID 309303
+A1 Ratha,Nalini,K.
+A1 Jain,Anil,K.
+A1 Rover,Diane,T.
+YR 1995
+T1 Convolution on Splash 2
+SP 204
+OP 213
+
+RT Conference Proceedings
+ID 332374
+A1 Dorai,Chitra
+A1 Jain,Anil,K.
+YR 1995
+T1 COSMOS-A Representation Scheme for Free-Form Surfaces
+SP 1024
+OP 1029
+
+RT Journal Article
+ID 337110
+A1 Ratha,Nalini,K.
+A1 Jain,Anil,K.
+A1 Rover,Diane,T.
+YR 1995
+T1 Fingerprint Matching on Splash 2
+
+RT Journal Article
+ID 2085938
+A1 Newman,Timothy,S.
+A1 Jain,Anil,K.
+YR 1995
+T1 A system for 3D CAD-based inspection using range images
+JF Pattern Recognition
+VO 28
+SP 1555
+OP 1574
+IS 10
+
+RT Conference Proceedings
+ID 406412
+A1 Dorai,Chitra
+A1 Jain,A.,K.
+YR 1995
+T1 View organization and matching of free-form objects
+
+RT Journal Article
+ID 799915
+A1 Pankanti,Sharath
+A1 Jain,Anil,K.
+YR 1995
+T1 Integrating vision modules: stereo, shading, grouping, and line labeling
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 17
+SP 831
+OP 842
+IS 9
+
+RT Journal Article
+ID 2169060
+A1 Murty,M.,Narasimha
+A1 Jain,Anil,K.
+YR 1995
+T1 Knowledge-based clustering scheme for collection management and retrieval of library books
+JF Pattern Recognition
+VO 28
+SP 949
+OP 963
+IS 7
+
+RT Conference Proceedings
+ID 392352
+A1 Dorai,Chitra
+A1 Jain,Anil,K.
+YR 1995
+T1 Shape spectra based view grouping for free-form objects
+
+RT Journal Article
+ID 2159628
+A1 Mao,Jianchang
+A1 Flynn,Patrick,J.
+A1 Jain,Anil,K.
+YR 1995
+T1 Integration of Multiple Feature Groups and Multiple Views into a 3D Object Recognition System
+JF Computer Vision and Image Understanding
+VO 62
+SP 309
+OP 325
+IS 3
+
+RT Conference Proceedings
+ID 606669
+A1 Trier,Øivind,Due
+A1 Taxt,Torfinn
+A1 Jain,Anil,K.
+YR 1995
+T1 Data capture from maps based on gray scale topographic analysis
+SP 923
+OP 926
+
+RT Journal Article
+ID 2369362
+A1 Jain,A.
+A1 Yu,B.
+A1 Zhong,Y.
+A1 Trier,O.
+A1 Ratha,N.
+YR 1995
+T1 Document processing research at Michigan State University
+
+RT Conference Proceedings
+ID 527590
+A1 Lakshmanan,Sridhar
+A1 Jain,Anil,K.
+A1 (钟瑜),Yu,Zhong
+YR 1995
+T1 DETECTING STRAIGHT EDGES IN MILLIMETER-WAVE IMAGES
+SP 258
+OP 261
+
+RT Conference Proceedings
+ID 50031485
+A1 Ratha,Nalini,K.
+A1 Jain,A.,K.
+A1 Chung,Moon,J.
+YR 1995
+T1 Clustering using a coarse-grained parallel genetic algorithm: a preliminary study
+
+RT Book, Whole
+ID 609372
+A1 Jain,Anil,K.
+A1 Karu,Kalle
+YR 1995
+T1 Texture Analysis: Representation and Matching
+SP 3
+OP 10
+
+RT Conference Proceedings
+ID 50031492
+A1 Ratha,Nalini,K.
+A1 Jain,A.,K.
+A1 Rover,Diane,T.
+YR 1995
+T1 An FPGA-based point pattern matching processor with application to fingerprint matching
+
+RT Conference Proceedings
+ID 48963420
+A1 Pankanti,S.
+A1 Jain,A.,K.
+YR 1995
+T1 A uniform Bayesian framework for integration
+SP 497
+OP 502
+
+RT Journal Article
+ID 54172880
+A1 Gibbs,C.,S.
+A1 Coutré,S.,E.
+A1 Tsiang,M.
+A1 Li,W.-X.
+A1 Jain,A.,K.
+A1 Dunn,K.,E.
+A1 Law,V.,S.
+A1 Mao,C.,T.
+A1 Matsumura,S.,Y.
+A1 Mejza,S.,Y.
+A1 Paborsky,L.,R.
+A1 Leung,L.,L.,K.
+YR 1995
+T1 Conversion of thrombin into an anticoagulant by protein engineering
+JF Nature
+VO 378
+SP 413
+OP 416
+
+RT Conference Proceedings
+ID 50037761
+A1 Zhong,Yu
+A1 Karu,Kalle
+A1 Jain,A.,K.
+YR 1995
+T1 Locating text in complex color images
+
+RT Journal Article
+ID 53489692
+A1 Panchanathan,Sethuraman
+A1 Jain,A.
+A1 Gamaz,N.
+YR 1995
+T1 Scalable image compression using combined wavelet transform and vector quantization
+VO 2419
+SP 354
+OP 364
+
+RT Journal Article
+ID 56474942
+A1 Panchanathan,Sethuraman
+A1 Jain,A.
+YR 1995
+T1 Wavelet-based scalable image compression
+VO 2419
+SP 505
+OP 514
+
+RT Conference Proceedings
+ID 2114900
+A1 Mao,Jianchang
+A1 Mohiuddin,K.
+A1 Jain,A.,K.
+YR 1994
+T1 Parsimonious network design and feature selection through node pruning
+
+RT Journal Article
+ID 3444396
+A1 Jain,A.,K.
+A1 Mao,J.
+YR 1994
+T1 Neural networks and pattern recognition
+
+RT Conference Proceedings
+ID 352217
+A1 Dorai,Chitra
+A1 Weng,John
+A1 Jain,Anil,K.
+YR 1994
+T1 Optimal registration of multiple range views
+
+RT Conference Proceedings
+ID 527459
+A1 Dubuisson-jolly,Marie-pierre
+A1 Jain,Anil,K.
+YR 1994
+T1 Fusing Color and Edge Information for Object Matching
+SP 982
+OP 986
+
+RT Conference Proceedings
+ID 536196
+A1 Courtney,Jonathan,D.
+A1 Jain,Anil,K.
+YR 1994
+T1 Mobile Robot Localization via Classification of Multisensor Maps
+SP 1672
+OP 1678
+
+RT Conference Proceedings
+ID 210339
+A1 Judd,Dan
+A1 Ratha,Nalini,K.
+A1 Mckinley,Philip,K.
+A1 Weng,John
+A1 Jain,A.,K.
+YR 1994
+T1 Parallel implementation of vision algorithms on workstation clusters
+
+RT Conference Proceedings
+ID 49988147
+A1 Jain,A.,K.
+A1 Karu,Kalle
+YR 1994
+T1 Learning texture discrimination masks
+
+RT Conference Proceedings
+ID 168848
+A1 Pankanti,Sharath
+A1 Jain,Anil,K.
+A1 Tuceryan,Mihran
+YR 1994
+T1 On integration of vision modules
+SP 316
+OP 322
+
+RT Conference Proceedings
+ID 527589
+A1 Lakshmanan,Sridhar
+A1 Jain,Anil,K.
+A1 Zhong,Yu
+YR 1994
+T1 Multi-resolution Image Representation using Markov Random Fields
+SP 855
+OP 860
+
+RT Conference Proceedings
+ID 50002801
+A1 Jain,A.,K.
+A1 Karu,Kalle
+YR 1994
+T1 Automatic filter design for texture discrimination
+
+RT Journal Article
+ID 50009463
+A1 Mao,Jianchang
+A1 Jain,A.,K.
+A1 Flynn,Patrick,J.
+YR 1994
+T1 Integration of multiple feature groups and multiple views into a 3D object recognition system
+JF Lecture Notes in Computer Science
+
+RT Conference Proceedings
+ID 50002897
+A1 Gunsel,Bilge
+A1 Panayirci,E.
+A1 Jain,A.,K.
+YR 1994
+T1 Boundary detection using multiscale Markov random fields
+
+RT Conference Proceedings
+ID 49987916
+A1 Mao,Jianchang
+A1 Jain,A.,K.
+YR 1994
+T1 A self-organizing network for hyperellipsoidal clustering (HEC)
+
+RT Journal Article
+ID 51879816
+A1 Searle,M.,P.
+A1 Dransfield,M.,W.
+A1 Johnson,M.,R.,W.
+A1 Jain,A.,K.
+A1 Manickavasagam,R.,M.
+YR 1994
+T1 Inverted metamorphism in the intracontinental ductile shear zone during Himalayan collision: Comment and Reply
+
+RT Journal Article
+ID 55235438
+A1 Ratha,Nalini,K.
+A1 Jain,Anil,K.
+A1 Lakshmanan,Sridhar
+YR 1994
+T1 Object detection in the presence of clutter using Gabor filters
+VO 2298
+SP 612
+OP 623
+
+RT Journal Article
+ID 56177229
+A1 Kahn,S.,A.
+A1 Gupta,R.,C.
+A1 Jain,A.,K.
+A1 Morgan,G.,H.
+A1 Thompson,P.,A.
+YR 1994
+T1 Calculations of Magnetic Field for the End Design of the RHIC Arc Dipole
+
+RT Journal Article
+ID 54725324
+A1 Panchanathan,Sethuraman
+A1 Jain,A.
+YR 1994
+T1 Robust algorithms for image transmission over asynchronous transfer mode (ATM) networks
+VO 2308
+SP 1918
+OP 1927
+
+RT Journal Article
+ID 56302607
+A1 Gupta,R.,C.
+A1 Jain,A.,K.
+YR 1994
+T1 Variation in a1 Saturation in SSC Collider Dipoles
+
+RT Journal Article
+ID 53058330
+A1 Jain,Anil,K.
+YR 1994
+T1 Multibeam two-dimensional binary optics laser scanner
+VO 2152
+SP 72
+OP 83
+
+RT Journal Article
+ID 54462802
+A1 Jain,Anil,K.
+YR 1994
+T1 Binary optic laser scanner for ladar/lidar and other applications
+VO 2120
+SP 225
+OP 236
+
+RT Conference Proceedings
+ID 2393714
+A1 Mao,J.
+A1 Jain,A.,K.
+YR 1993
+T1 Discriminant analysis neural networks
+
+RT Journal Article
+ID 2096013
+A1 Newman,Timothy,S.
+A1 Flynn,Patrick,J.
+A1 Jain,Anil,K.
+YR 1993
+T1 Model-based classification of quadric surfaces
+
+RT Book, Whole
+ID 492730
+A1 Mao,Jianchang
+A1 Jain,Anil,K.
+A1 Flynn,Patrick,J.
+YR 1993
+T1 Integration of Multiple Feature Groups and Multiple Views into a 3D Object Recognition System
+SP 381
+OP 395
+
+RT Journal Article
+ID 411335
+A1 Pankanti,Sharath
+A1 Dorai,Chitra
+A1 Jain,A.,K.
+YR 1993
+T1 Robust feature detection for 3D object recognition and matching
+VO 2031
+SP 366
+OP 377
+
+RT Journal Article
+ID 54460341
+A1 Vogler,A.
+A1 Pietsch,W.
+A1 Kahabka,P.
+A1 Jain,A.
+A1 Klein,U.
+YR 1993
+T1 ROSAT PSPC X-ray observations of NGC 4258: detection of point sources, 4 million K halo emission and anomalous arms
+
+RT Journal Article
+ID 54196857
+A1 Jain,A.,K.
+A1 Manickavasagam,R.,M.
+YR 1993
+T1 Inverted metamorphism in the intracontinental ductile shear zone during Himalayan collision tectonics
+
+RT Journal Article
+ID 52517525
+A1 Chellappa,Rama
+A1 Jain,Anil
+YR 1993
+T1 Markov random fields. Theory and application
+
+RT Journal Article
+ID 51761347
+A1 Dulimarta,Hans,S.
+A1 Jain,Anil,K.
+YR 1993
+T1 Modular agents for robot navigation
+VO 2059
+SP 500
+OP 511
+
+RT Journal Article
+ID 60476881
+A1 Jain,A.,K.
+A1 Weatherford,C.,A.
+YR 1993
+T1 Electron interactions with non-linear polyatomic molecules and their radicals. Final report, 7 June 1990-6 June 1993
+
+RT Journal Article
+ID 1952076
+A1 Mao,Jianchang
+A1 Jain,Anil,K.
+YR 1992
+T1 Texture classification and segmentation using multiresolution simultaneous autoregressive models
+JF Pattern Recognition
+VO 25
+SP 173
+OP 188
+IS 2
+
+RT Journal Article
+ID 864143
+A1 Raja,Narayan,S.
+A1 Jain,Anil,K.
+YR 1992
+T1 Recognizing geons from superquadrics fitted to range data
+JF Image and Vision Computing
+VO 10
+SP 179
+OP 190
+IS 3
+
+RT Conference Proceedings
+ID 2601677
+A1 Kraaijveld,M.,A.
+A1 Mao,Jiangchang
+A1 Jain,A.,K.
+YR 1992
+T1 A non-linear projection method based on Kohonen's topology preserving maps
+
+RT Journal Article
+ID 1693802
+A1 Jain,Anil,K.
+A1 Dubuisson-jolly,Marie-pierre
+YR 1992
+T1 Segmentation of X-ray and C-scan images of fiber reinforced composite materials
+JF Pattern Recognition
+VO 25
+SP 257
+OP 270
+IS 3
+
+RT Conference Proceedings
+ID 2743156
+A1 Jain,A.,K.
+A1 Mao,Jianchang
+YR 1992
+T1 Artificial neural network for nonlinear projection of multivariate data
+
+RT Journal Article
+ID 1706119
+A1 Jain,Anil,K.
+A1 Newman,Timothy,S.
+A1 Goulish,Michael
+YR 1992
+T1 Range-intensity histogram for segmenting LADAR images
+JF Pattern Recognition Letters
+VO 13
+SP 41
+OP 56
+IS 1
+
+RT Journal Article
+ID 1638218
+A1 Agi,Iskender
+A1 Hurst,Paul,J.
+A1 Jain,A.,K.
+YR 1992
+T1 A VLSI processor for parallel contour tracing
+JF IEEE Transactions on Signal Processing
+VO 40
+SP 429
+OP 438
+IS 2
+
+RT Conference Proceedings
+ID 49936106
+A1 Gunsel,Bilge
+A1 Jain,A.,K.
+YR 1992
+T1 Visual surface reconstruction and boundary detection using stochastic models
+
+RT Journal Article
+ID 55752732
+A1 Jain,A.,K.
+A1 Nadabar,S.,G.
+YR 1992
+T1 Markov random field applications in image analysis
+
+RT Journal Article
+ID 60496474
+A1 Jain,A.
+A1 Meistrick,Z.,S.
+A1 Pitzi,V.,J.
+YR 1992
+T1 Exhaust gas diverter for divided volute turbocharger of internal combustion engine
+
+RT Journal Article
+ID 53418080
+A1 Ben-Zvi,I.
+A1 Jain,A.
+A1 Noe,J.,W.
+A1 Paul,P.
+A1 Wang,H.
+A1 Lombardi,A.
+YR 1992
+T1 Design and test of a superconducting RFQ for heavy ions
+
+RT Journal Article
+ID 56024064
+A1 Jain,A.
+A1 Wang,H.
+A1 Ben-Zvi,I.
+A1 Paul,P.
+A1 Noe,J.,W.
+A1 Lombardi,A.
+YR 1992
+T1 Fabrication and test of a superconducting RFQ
+
+RT Journal Article
+ID 55378506
+A1 Raja,Narayan,S.
+A1 Jain,Anil,K.
+YR 1992
+T1 Obtaining generic parts from range data using a multiview representation
+VO 1708
+SP 602
+OP 613
+
+RT Journal Article
+ID 61259505
+A1 Jain,K.
+A1 Jain,A.,K.
+YR 1992
+T1 Rotational bands in deformed odd-A nuclei in the actinide region
+
+RT Journal Article
+ID 60161328
+A1 Khurana,I.
+A1 Jain,A.
+YR 1992
+T1 Electron scattering from CâHâ molecules in the energy range of 0.01-20 eV
+VO 37
+SP 3
+IS 9
+
+RT Journal Article
+ID 53694126
+A1 Nadabar,Sateesha,G.
+A1 Jain,Anil,K.
+YR 1992
+T1 Edge detection and labeling by fusion of intensity and range images
+VO 1708
+SP 108
+OP 119
+
+RT Journal Article
+ID 60161594
+A1 Jain,A.
+A1 Baluja,K.,L.
+YR 1992
+T1 Electron-HâS collisions in an exact exchange plus parameter-free polarization model
+VO 37
+SP 5
+IS 9
+
+RT Journal Article
+ID 51547308
+A1 Jain,Anil,K.
+YR 1992
+T1 Monte Carlo simulations of disordered systems
+
+RT Journal Article
+ID 800737
+A1 Flynn,Patrick,J.
+A1 Jain,Anil,K.
+YR 1991
+T1 CAD-Based Computer Vision: From CAD Models to Relational Graphs
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 13
+SP 114
+OP 132
+IS 2
+
+RT Journal Article
+ID 800366
+A1 Flynn,Patrick,J.
+A1 Jain,Anil,K.
+YR 1991
+T1 BONSAI: 3D Object Recognition Using Constrained Search
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 13
+SP 1066
+OP 1075
+IS 10
+
+RT Journal Article
+ID 49905019
+A1 Flynn,Patrick,J.
+A1 Jain,A.,K.
+YR 1991
+T1 3D object recognition using invariant feature indexing of interpretation tables
+JF International Journal of Computer Vision
+
+RT Conference Proceedings
+ID 49922029
+A1 Jain,A.,K.
+A1 Mao,Jianchang
+YR 1991
+T1 A k-nearest neighbor artificial neural network classifier
+
+RT Journal Article
+ID 49926386
+A1 Taxt,Torfinn
+A1 Jain,A.,K.
+YR 1991
+T1 Image restoration methods based on quantum field models
+
+RT Journal Article
+ID 2169327
+A1 Chen,Sei-wang
+A1 Jain,Anil,K.
+YR 1991
+T1 Object extraction from laser radar imagery
+JF Pattern Recognition
+VO 24
+SP 587
+OP 600
+IS 6
+
+RT Journal Article
+ID 40130966
+A1 Jain,AK
+A1 Hooda,RS
+A1 Nath,J
+A1 Manchanda,ML
+YR 1991
+T1 Mapping and monitoring of urban landuse of Hisar Town, Haryana using remote sensing techniques
+JF Journal of The Indian Society of Remote Sensing
+VO 19
+SP 125
+OP 134
+IS 2
+
+RT Journal Article
+ID 51264015
+A1 Sethi,Oshwar,K.
+A1 Jain,Anil,K.
+YR 1991
+T1 Artificial neural networks and statistical pattern recognition. Old and new connections
+
+RT Journal Article
+ID 53892142
+A1 Sood,P.,C.
+A1 Sheline,R.,K.
+A1 Hoff,R.,W.
+A1 Jain,A.,K.
+YR 1991
+T1 Completeness of two-particle spectra of deformed nuclei
+VO 238
+SP 159
+OP 161
+
+RT Journal Article
+ID 56766174
+A1 Sood,P.,C.
+A1 Sheline,R.,K.
+A1 Hoff,R.,W.
+A1 Jain,A.,K.
+YR 1991
+T1 Completeness of two-particle spectra of deformed nuclei
+
+RT Journal Article
+ID 53320389
+A1 Jain,A.,K.
+A1 Goel,Alpana
+YR 1991
+T1 Signature dependence and inversion in two quasi-particle rotational bands of even-even nuclei
+VO 238
+SP 153
+OP 155
+
+RT Journal Article
+ID 55463471
+A1 Jain,A.,K.
+A1 Goel,Alpana
+YR 1991
+T1 Application of the VMI model to rotational bands of odd-odd rare-earth nuclei
+VO 238
+SP 162
+OP 164
+
+RT Journal Article
+ID 60305274
+A1 Ben-Zvi,I.
+A1 Jain,A.
+A1 Wang,H.
+A1 Lombardi,A.
+YR 1990
+T1 Electrical characteristics of a short RFQ resonator
+
+RT Journal Article
+ID 52345663
+A1 Jain,Anil,K.
+A1 Arnold,Steven,M.
+YR 1990
+T1 Sandwich reflection hologram combiner for display applications
+VO 1211
+SP 247
+OP 252
+
+RT Journal Article
+ID 52605090
+A1 Jain,Anil,K.
+YR 1989
+T1 Fundamentals of digital image processing
+
+RT Journal Article
+ID 2963304
+A1 Jain,A.,K.
+YR 1989
+T1 Digital Image Processing and Analysis
+
+RT Journal Article
+ID 40130901
+A1 Shanwal,A.,V.
+A1 Ghosh,S.,K.
+A1 Karwasra,S.,P.,S.
+A1 Jain,A.,K.
+A1 Singh,Vijender
+YR 1989
+T1 Confirmation of soil physiographic units through soil mineralogy studies in Yamuna alluvial plain, India
+JF Journal of The Indian Society of Remote Sensing
+VO 17
+SP 7
+OP 11
+IS 1
+
+RT Journal Article
+ID 61369619
+A1 Hoff,R.,W.
+A1 Jain,A.,K.
+A1 Kvasil,J.
+A1 Sood,P.,C.
+A1 Sheline,R.,K.
+A1 Tallahassee,FL
+YR 1989
+T1 Deformed ODD-ODD nuclei: Matrix elements for the residual n-p interaction and patterns of alternating perturbations in level spacings
+
+RT Journal Article
+ID 61280305
+A1 Muir,G.
+A1 Pruden,B.
+A1 Jain,A.
+YR 1989
+T1 Operation of the CANMET hydrocracking process in a conventional refinery
+
+RT Journal Article
+ID 60324349
+A1 Azevedo,S.,G.
+A1 DeGroot,A.,J.
+A1 Schneberk,D.,J.
+A1 Brase,J.,M.
+A1 Martz,H.,E.
+A1 Jain,A.,K.
+A1 Hurst,P.,J.
+YR 1988
+T1 Tomographic image reconstruction using systolic array algorithms
+
+RT Journal Article
+ID 56452898
+A1 Farrelle,P.,M.
+A1 Harrington,D.,G.
+A1 Jain,A.,K.
+YR 1988
+T1 Image data compression in a personal computer environment
+VO 974
+SP 177
+
+RT Journal Article
+ID 60257152
+A1 Azevedo,S.,G.
+A1 Brase,J.,M.
+A1 Martz,H.,E.
+A1 Jain,A.,K.
+A1 Hurst,P.,J.
+YR 1988
+T1 A Radon transform computer for multidimensional signal processing
+
+RT Journal Article
+ID 60426784
+A1 Hoff,R.,W.
+A1 Jain,A.,K.
+A1 Sood,P.,C.
+A1 Sheline,R.,K.
+YR 1988
+T1 The nuclear structure of deformed odd-odd nuclei: Experimental and theoretical investigations
+
+RT Journal Article
+ID 51234443
+A1 Christensen,Charles,R.
+A1 Jain,Anil,K.
+YR 1988
+T1 Digital processing of speckle images
+
+RT Journal Article
+ID 60372350
+A1 Jain,A.,K.
+A1 Wagner,M.
+A1 Parkhurst,J.
+A1 Sturm,S.
+YR 1987
+T1 Real-time digital signal processing hardware designs, Phase 3: Final report, October 1, 1986September 30, 1987
+
+RT Journal Article
+ID 61277131
+A1 Jain,A.
+A1 Lin,C.,D.
+A1 Fritsch,W.
+YR 1987
+T1 Double electron capture in Â³He/sup 2 +/ + He(1sÂ²) collisions at intermediate velocities (vv/sub e/ )approximately) 1-3 au) using two-center AO+ method
+
+RT Journal Article
+ID 41640729
+A1 Jain,Anil,Kumar
+YR 1987
+T1 Tax Avoidance and Tax Evasion: The Indian Case
+JF Modern Asian Studies
+VO 21
+SP 233
+IS 02
+
+RT Journal Article
+ID 54399898
+A1 Jain,A.,K.
+A1 Hoffman,R.
+YR 1987
+T1 Evidence-based 3-D object recognition
+VO 754
+SP 260
+
+RT Journal Article
+ID 61226178
+A1 Jain,A.
+A1 Lin,C.,D.
+A1 Fritsch,W.
+YR 1986
+T1 Electron capture in C/sup 6+/+He and O/sup 8+/+He collisions at intermediate energies in the atomic-orbital-expansion method
+
+RT Journal Article
+ID 53025224
+A1 Jain,Anil,K.
+YR 1986
+T1 Introduction to machine vision special issue
+
+RT Journal Article
+ID 53587021
+A1 Jain,A.,K.
+YR 1986
+T1 Importance and Usefulness of Studying Energy Level Systematics in Collective Band Spectra
+
+RT Journal Article
+ID 48021906
+A1 Kato,Y.
+A1 Miyamori,H.
+A1 Unoura,M.
+A1 Ohmizo,N.
+A1 Tanaka,N.
+A1 Kobayashi,K.
+A1 Hattori,N.
+A1 Arakawa,Y.
+A1 Amaki,S.
+A1 Shikata,T.
+A1 Liu,Bang-Hyun
+A1 Kanai,K.
+A1 Morioka,S.
+A1 Nishida,M.
+A1 Noto,H.
+A1 Takahashi,K.
+A1 Matsushita,K.
+A1 Beasley,R.,Palmer
+A1 Hwang,Lu-Yu
+A1 Yano,M.
+A1 Shima,M.
+A1 Tsunoda,E.
+A1 Koga,M.
+A1 Minamino,T.
+A1 Tsuji,T.
+A1 Kagawa,K.
+A1 Okuno,T.
+A1 Takino,T.
+A1 Kurihara,Takeshi
+A1 Obata,Hiroshi
+A1 Okita,K.
+A1 Konishi,T.
+A1 Kado,Y.
+A1 Yokosuka,O.
+A1 Omata,M.
+A1 Imazeki,F.
+A1 Ryuu,M.
+A1 Okuda,K.
+A1 Mitamura,Keiji
+A1 Chen,D.,S.
+A1 Sung,J.,L.
+A1 Lai,M.,Y.
+A1 Sheu,J.,C.
+A1 Hsu,H.,C.
+A1 Nakamura,T.
+A1 Morizane,T.
+A1 Tsuchiya,M.
+A1 Okawa,K.
+A1 Kitano,A.
+A1 Kuwajima,S.
+A1 Hashimura,H.
+A1 Matsumoto,T.
+A1 Hiki,M.
+A1 Yamamoto,S.
+A1 Kinoshita,Y.
+A1 Nagura,H.
+A1 Shioda,Y.
+A1 Tsutsumi,Y.
+A1 Hasegawa,H.
+A1 Watanabe,K.
+A1 Kanoh,T.
+A1 Nishida,O.
+A1 Uchino,H.
+A1 Miyake,T.
+A1 Hishitani,Y.
+A1 Bhargava,D.,K.
+A1 Shriniwas,B.,N.,Tandon
+A1 Kapur,B.,M.,L.
+A1 Chawla,T.,C.
+A1 Kiran,Usha
+A1 Gupta,J.,P.
+A1 Jain,A.,K.
+A1 Agrawal,B.,K.
+A1 Gupta,Saroj
+A1 Chiba,M.
+A1 Sasaki,M.
+A1 Konn,M.
+A1 Yamanaka,Y.
+A1 Morita,T.
+A1 Hashizume,T.
+A1 Nara,K.
+A1 Odagiri,H.
+A1 Fujii,M.
+A1 Ono,K.
+A1 Nio,Y.
+A1 Tsuchitani,T.
+A1 Inamoto,T.
+A1 Kodama,H.
+A1 Tobe,T.
+A1 Shi,Z.,R.
+A1 Kim,Y.,S.
+A1 Yamaoka,H.
+A1 Nishiyama,K.
+A1 Tajima,S.
+A1 Fukushima,T.
+A1 Tsuchiya,S.
+A1 Kuroe,K.
+A1 Kimura,A.
+A1 Suwa,Y.
+A1 Furukawa,H.
+A1 Watanabe,M.
+A1 Yoshida,T.
+A1 Aiso,S.
+A1 Asakura,H.
+A1 Miura,M.
+A1 Hiwatashi,N.
+A1 Fujiyama,Y.
+A1 Bamba,T.
+A1 Hosoda,S.
+A1 Benno,Y.
+A1 Wakashin,Y.
+A1 Wakashin,M.
+A1 Mori,T.
+A1 Ueda,S.
+A1 Yoshida,H.
+A1 Mori,Y.
+A1 You,Li
+A1 Wei-Fa,Ye
+A1 Yang,Guang-Xao
+A1 Nelwan,R.,H.,H.
+A1 Gandhi,B.,M.
+A1 Gupta,H.
+A1 Irshad,M.
+A1 Tandon,B.,N.
+A1 Cho,Mong
+A1 Wu,Xie-ning
+A1 Tandon,Rakesh,K.
+A1 Srivastava,A.,K.
+A1 Misra,R.,K.
+A1 Jiang,Shi-hu
+A1 Lin,Yan-zun
+A1 Abdurachman,S.,A.
+A1 Hadi,Sujono
+A1 Bhat,K.,R.
+A1 Baoen,Wang
+A1 Madanagopalan,N.
+A1 Solomon,V.
+A1 Jayanthi,V.
+A1 Raghuram,K.
+A1 Kandasamy,I.
+A1 Annapoorani,S.
+A1 Gajarai,A.
+A1 Panchanadam,M.
+A1 Joshi,Y.,K.
+A1 Hassan,A.
+A1 Guntur,H.
+A1 Soemarto,R.
+A1 Rahardja,S.,H.
+A1 Soemarto,W.
+A1 Park,Keun-Soo
+A1 Yao,G.,B.
+A1 Zhang,L.,M.
+A1 Wu,M.,F.
+A1 Tong,S.,T.
+A1 Tian,Y.,F.
+A1 Iwai,N.
+A1 Kaneda,H.
+A1 Tsuto,T.
+A1 Yanagihara,J.
+A1 Takahashi,T.
+A1 Jinkun,Zhang
+A1 Durrani,Hamid,A.
+A1 Govil,A.,K.
+A1 Tripathi,V.,N.,P.
+A1 Yin,D.,Y.
+A1 Wen,F.,Q.
+A1 Balasubramania,V.,C.
+A1 Are,P.,S.
+A1 Thyagarajan,S.,P.
+A1 Mahadevan,S.
+A1 Dravidamani,S.
+A1 Nigam,Pranesh
+A1 Agrawal,A.,K.
+A1 Kapoor,K.,K.
+A1 Lesmana,L.
+A1 Sidharta,H.
+A1 Marwoto,W.
+A1 Akbar,N.
+A1 Sulaiman,A.
+A1 Noer,H.,M.,Sjaifoellah
+A1 Tantry,B.,V.
+A1 Chuang,C.,N.
+A1 Yang,P.,M.
+A1 Lin,J.,T.
+A1 Lin,Y.,H.
+A1 Lee,C.,S.
+A1 Hwang,L.,Y.
+A1 Gupta,A.,K.
+YR 1985
+T1 Proceedings of the international session of the 26th annual meeting October 18–20, 1984—Chiba, Japan
+JF Journal of Gastroenterology
+VO 20
+SP 273
+OP 298
+IS 3
+
+RT Journal Article
+ID 53873878
+A1 Marvasti,Farokh,A.
+A1 Jain,Anil,K.
+YR 1985
+T1 Zero crossings, bandwidth compression, and restoration of nonlinearly distorted bandlimited signals (A)
+
+RT Journal Article
+ID 54063601
+A1 Jain,A.,K.
+A1 Harrington,D.,G.
+YR 1985
+T1 A 10MHz data compression system for real-time image storage and transmission
+VO 575
+SP 62
+
+RT Journal Article
+ID 52565881
+A1 Jain,A.
+YR 1985
+T1 Method and apparatus for Delta Kappa synthetic aperture radar measurement of ocean current
+
+RT Journal Article
+ID 2382525
+A1 Smith,Stephen,P.
+A1 Jain,Anil,K.
+YR 1984
+T1 Testing for Uniformity in Multidimensional Data
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO PAMI-6
+SP 73
+OP 81
+IS 1
+
+RT Book, Whole
+ID 12713253
+A1 Hong,Lin
+A1 Jain,Anil
+T1 Fingerprint Enhancement
+
+RT Journal Article
+ID 12708253
+A1 Uludag,Umut
+A1 Jain,Anil,K.
+T1 Fuzzy Fingerprint Vault
+
+RT Journal Article
+ID 11670671
+A1 Jiménez,A.,R.
+A1 Jain,A.,K.
+A1 Ceres,R.
+A1 Pons,J.,L.
+A1 Ramón,Antonio
+A1 Ruiz,Jiménez
+T1 Automatic fruit recognition: A survey and new results using Range/Attenuation images
+
+RT Conference Proceedings
+ID 59361
+A1 Jain,Anil,K.
+A1 Uludag,Umut
+T1 Hiding Fingerprint Minutiae in Images
+
+RT Journal Article
+ID 12712702
+A1 Vailaya,Aditya
+A1 Jain,Anil,K.
+A1 Zhang,HongJiang
+T1 Video Clustering
+
+RT Book, Whole
+ID 47650406
+A1 Hong,Lin
+A1 Jain,Anil,K.
+T1 Multimodal Biometrics
+
+RT Conference Proceedings
+ID 10019164
+A1 Ross,Arun
+A1 Shah,Jidnya
+A1 Jain,Anil,K.
+T1 Towards Reconstructing Fingerprints From Minutiae Points
+
+RT Conference Proceedings
+ID 343458
+A1 Duta,Nicolae
+A1 Jain,Anil,K.
+T1 Learning the Human Face Concept From Black and White Pictures
+
+RT Book, Whole
+ID 5113092
+A1 Ross,Arun
+A1 Nandakumar,Karthik
+A1 Jain,Anil,K.
+T1 Introduction to Multibiometrics
+
+RT Journal Article
+ID 11564271
+A1 Lu,Xiaoguang
+A1 Jain,Anil,K.
+T1 Multimodal Facial Feature Extraction for Automatic 3D Face Recognition
+
+RT Journal Article
+ID 4507007
+A1 Feng,Y,C
+A1 Yuen,Pong,C
+A1 Jain,Anil,K
+T1 A Hybrid Approach for Face Template Protection
+
+RT Book, Whole
+ID 48377745
+A1 Prabhakar,Salil
+A1 Jain,Anil,K.
+T1 Fingerprint Matching
+
+RT Journal Article
+ID 10444620
+A1 Jain,Anil
+A1 Nandakumar,Karthik
+A1 Ross,Arun
+T1 Score normalization in multimodal biometric systems
+
+RT Journal Article
+ID 5330479
+A1 Nagar,Abhishek
+A1 Nandakumar,Karthik
+A1 Jain,Anil,K.
+T1 A hybrid biometric cryptosystem for securing fingerprint minutiae templates q
+JF Pattern Recognition Letters
+
+RT Journal Article
+ID 10093259
+A1 Ross,Arun
+A1 Dass,Sarat
+A1 Jain,Anil
+T1 A deformable model for fingerprint matching
+
+RT Book, Whole
+ID 47855497
+A1 Nandakumar,Karthik
+A1 Ross,Arun
+A1 Jain,Anil,K.
+T1 Incorporating Ancillary Information in Multibiometric Systems
+
+RT Journal Article
+ID 10702970
+A1 Uludag,Umut
+A1 Ross,Arun
+A1 Jain,Anil
+T1 Biometric template selection and update: a case study in #ngerprints
+
+RT Book, Whole
+ID 48178191
+A1 Wayman,James
+A1 Jain,Anil
+A1 Maltoni,Davide
+A1 Maio,Dario
+T1 An Introduction to Biometric Authentication Systems
+
+RT Journal Article
+ID 11500703
+A1 Jain,Anil
+A1 Pankanti,Sharath
+T1 Automated Fingerprint Identification and Imaging
+
+RT Journal Article
+ID 13047340
+A1 Trier,Øivind,Due
+A1 Taxt,Torfinn
+A1 Jain,Anil,K.
+T1 Analysis
+
+RT Journal Article
+ID 12675091
+A1 Jain,Anil,K.
+A1 Prabhakar,Salil
+A1 Pankanti,Sharath
+T1 On the similarity of identical twin !ngerprints
+
+RT Book, Whole
+ID 48351427
+A1 Ross,Arun
+A1 Jain,Anil
+T1 Fusion Techniques in Multibiometric Systems
+
+RT Journal Article
+ID 12771186
+A1 Prabhakar,Salil
+A1 Jain,Anil,K.
+A1 Pankanti,Sharath
+T1 Learning !ngerprint minutiae location and type
+
+RT Journal Article
+ID 11950829
+A1 Jain,A.,K.
+A1 Ross,A.
+A1 Yao,Y.
+A1 Kalka,N.
+A1 Abidi,B.
+A1 Schmid,N.
+A1 Abidi,M.
+A1 Tan,B.
+A1 Schuckers,S.
+A1 Chang,H.
+A1 Harishwaran,H.
+A1 Yi,M.
+A1 Koschan,A.
+T1 CITeR Selected Archival Publications
+
+RT Book, Whole
+ID 48216028
+A1 Maio,D.
+A1 Maltoni,D.
+A1 Cappelli,R.
+A1 Wayman,J.,L.
+A1 Jain,A.,K.
+T1 Technology Evaluation of Fingerprint Verification Algorithms
+
+RT Journal Article
+ID 49214390
+A1 Lee,Young-Beom
+A1 Jain,Anil,K.
+A1 Lee,Seong-Whan
+T1 Pill-ID: Matching and retrieval of drug pill images
+JF Pattern Recognition Letters
+
+RT Journal Article
+ID 12885744
+A1 Hornak,L.,A.
+A1 Jain,Anil
+A1 Wayman,James
+T1 A Planning Activity for The Center for Identification Technology Research An IUCRC Planning Grant Proposal
+
+RT Journal Article
+ID 49214403
+A1 Nguyen,Kien
+A1 Sabata,Bikash
+A1 Jain,Anil,K.
+T1 Prostate cancer grading: Gland segmentation and structural features
+JF Pattern Recognition Letters
+
+RT Journal Article
+ID 10067344
+A1 Ross,Arun
+A1 Jain,Anil
+A1 Reisman,James
+T1 A hybrid "ngerprint matcher
+
+RT Journal Article
+ID 12786261
+A1 Prabhakar,Salil
+A1 Jain,Anil,K.
+T1 Decision-level fusion in $ngerprint veri$cation
+
+RT Journal Article
+ID 13195637
+A1 Feng,Jianjiang
+A1 Jain,Anil,K.
+A1 Ross,Arun
+T1 Fingerprint Alteration
+
+RT Journal Article
+ID 10124880
+A1 Jain,Anil,K.
+A1 Dass,Sarat,C.
+A1 Nandakumar,Karthik
+T1 Can soft biometric traits assist user recognition?
+
+RT Journal Article
+ID 14118933
+A1 Malik,Mamta
+A1 Jain,Anil,Kumar
+T1 Digital Library: Link to E-learning
+
+RT Journal Article
+ID 13044910
+A1 Law,Martin,H.,C.
+A1 Zhang,Nan
+A1 Jain,Anil,K.
+T1 Incremental ISOMAP
+
+RT Journal Article
+ID 11007375
+A1 Jain,Anil
+A1 Biocca,Frank
+T1 Machine Vision, Pattern Recognition, Cognitive Science, Assistive Technology and Ubiquitous Computing
+
+RT Journal Article
+ID 10498180
+A1 Fred,Ana,L.,N.
+A1 Jain,Anil,K.
+T1 Accumulation
+
+RT Journal Article
+ID 12125155
+A1 Dass,Sarat,C.
+A1 Jain,Anil,K.
+T1 Effects of User Correlation on Sample Size Requirements
+
+RT Journal Article
+ID 14037059
+A1 Jain,Anil,K.
+T1 »TERROR« OR THE LANGUAGE OF FEAR
+
+RT Journal Article
+ID 14244387
+A1 Jain,Anil,K.
+T1 KOSMOPOLITISCHES MANAGEMENT ZWISCHEN GLOBALISIERUNG , DIVERSITÄT UND DER AUSBEUTUNG DES ANDEREN
+
+RT Book, Whole
+ID 48828860
+A1 Jain,Anil,K.
+T1 Face Aging Modeling

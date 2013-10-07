@@ -1,0 +1,4615 @@
+RT Journal Article
+ID 57019362
+A1 Esser,Ernie
+A1 Moller,Michael
+A1 Osher,Stanley
+A1 Sapiro,Guillermo
+A1 Xin,Jack
+YR 2012
+T1 A Convex Model for Nonnegative Matrix Factorization and Dimensionality Reduction on Physical Space
+JF IEEE Transactions on Image Processing
+VO 21
+SP 3239
+OP 3252
+IS 7
+
+RT Journal Article
+ID 56946520
+A1 Yu,Meng
+A1 Ma,Wenye
+A1 Xin,Jack
+A1 Osher,Stanley
+YR 2012
+T1 MultiChannel $l_{1}$ Regularized Convex Speech Enhancement Model and Fast Computation by the Split Bregman Method
+JF IEEE Transactions on Audio, Speech & Language Processing
+VO 20
+SP 661
+OP 675
+IS 2
+
+RT Journal Article
+ID 57019315
+A1 Yan,Ming
+A1 Yang,Yi
+A1 Osher,Stanley
+YR 2012
+T1 Robust 1-bit Compressive Sensing Using Adaptive Outlier Pursuit
+JF IEEE Transactions on Signal Processing
+VO 60
+SP 3868
+OP 3875
+IS 7
+
+RT Conference Proceedings
+ID 56985647
+A1 Compton,Ryan
+A1 Osher,Stanley
+A1 Bouchard,Louis
+YR 2012
+T1 Hybrid regularization for mri reconstruction with static field inhomogeneity correction
+SP 650
+OP 655
+
+RT Journal Article
+ID 39315094
+A1 Osher,Stanley
+A1 Mao,Yu
+A1 Dong,Bin
+A1 Yin,Wotao
+YR 2011
+T1 Fast Linearized Bregman Iteration for Compressive Sensing and Sparse Denoising
+VO abs/1104.0
+
+RT Journal Article
+ID 15228843
+A1 Zhang,Xiaoqun
+A1 Burger,Martin
+A1 Osher,Stanley
+YR 2011
+T1 A Unified Primal-Dual Algorithm Framework Based on Bregman Iteration
+JF Journal of Scientific Computing
+VO 46
+SP 20
+OP 46
+IS 1
+
+RT Journal Article
+ID 55511860
+A1 Gao,Hao
+A1 Yu,Hengyong
+A1 Osher,Stanley
+A1 Wang,Ge
+YR 2011
+T1 Multi-energy CT based on a prior rank, intensity and sparsity model (PRISM)
+JF Inverse Problems
+VO 27
+SP 5012
+IS 11
+
+RT Journal Article
+ID 56905650
+A1 Yu,Lap-Fai
+A1 Yeung,Sai-Kit
+A1 Tang,Chi-Keung
+A1 Terzopoulos,Demetri
+A1 Chan,Tony,F.
+A1 Osher,Stanley,J.
+YR 2011
+T1 Make it home: automatic optimization of furniture arrangement
+JF ACM Transactions on Graphics
+SP 1
+OP 12
+
+RT Conference Proceedings
+ID 51108082
+A1 Yeung,Sai-Kit
+A1 Wu,Tai-Pang
+A1 Tang,Chi-Keung
+A1 Chan,Tony,F.
+A1 Osher,Stanley
+YR 2011
+T1 Adequate reconstruction of transparent objects on a shoestring budget
+SP 2513
+OP 2520
+
+RT Conference Proceedings
+ID 51108034
+A1 Ma,Wenye
+A1 Morel,Jean-Michel
+A1 Osher,Stanley
+A1 Chien,Aichi
+YR 2011
+T1 An L1-based variational model for Retinex theory and its application to medical images
+SP 153
+OP 160
+
+RT Conference Proceedings
+ID 56937956
+A1 Joshi,Shantanu,H.
+A1 Marquina,Antonio,L.
+A1 Osher,Stanley,J.
+A1 Dinov,Ivo
+A1 Toga,Arthur,W.
+A1 Horn,John,D.,Van
+YR 2011
+T1 Fast edge-filtered image upsampling
+SP 1165
+OP 1168
+
+RT Journal Article
+ID 27605869
+A1 Esser,Ernie
+A1 Möller,Michael
+A1 Osher,Stanley
+A1 Sapiro,Guillermo
+A1 Xin,Jack
+YR 2011
+T1 A convex model for non-negative matrix factorization and dimensionality reduction on physical space
+
+RT Journal Article
+ID 49722442
+A1 Yan,Jue
+A1 Osher,Stanley
+YR 2011
+T1 A local discontinuous Galerkin method for directly solving Hamilton–Jacobi equations
+JF Journal of Computational Physics
+VO 230
+SP 232
+OP 244
+IS 1
+
+RT Journal Article
+ID 52766239
+A1 Mao,Yu
+A1 Dong,Bin
+A1 Osher,Stanley
+YR 2011
+T1 A nonlinear PDE-based method for sparse deconvolution
+
+RT Journal Article
+ID 5966161
+A1 Goldstein,Tom
+A1 Bresson,Xavier
+A1 Osher,Stanley
+YR 2010
+T1 Geometric Applications of the Split Bregman Method: Segmentation and Surface Reconstruction
+JF Journal of Scientific Computing
+VO 45
+SP 272
+OP 293
+IS 1-3
+
+RT Journal Article
+ID 5793983
+A1 Zhang,Xiaoqun
+A1 Burger,Martin
+A1 Bresson,Xavier
+A1 Osher,Stanley
+YR 2010
+T1 Bregmanized Nonlocal Regularization for Deconvolution and Sparse Reconstruction
+JF Siam Journal on Imaging Sciences
+VO 3
+SP 253
+OP 276
+IS 3
+
+RT Journal Article
+ID 15228766
+A1 Lou,Yifei
+A1 Zhang,Xiaoqun
+A1 Osher,Stanley
+A1 Bertozzi,Andrea,L.
+YR 2010
+T1 Image Recovery via Nonlocal Operators
+JF Journal of Scientific Computing
+VO 42
+SP 185
+OP 197
+IS 2
+
+RT Journal Article
+ID 13339800
+A1 Shi,Jianing
+A1 Yin,Wotao
+A1 Osher,Stanley
+A1 Sajda,Paul
+YR 2010
+T1 A Fast Hybrid Algorithm for Large-Scale l1-Regularized Logistic Regression
+JF Journal of Machine Learning Research
+VO 11
+SP 713
+OP 741
+
+RT Conference Proceedings
+ID 39267550
+A1 Szlam,Arthur
+A1 Guo,Zhaohui
+A1 Osher,Stanley
+YR 2010
+T1 A split Bregman method for non-negative sparsity penalized least squares with applications to hyperspectral demixing
+SP 1917
+OP 1920
+
+RT Journal Article
+ID 11585089
+A1 Mohler,George,O.
+A1 Bertozzi,Andrea,L.
+A1 Goldstein,Thomas,A.
+A1 Osher,Stanley,J.
+YR 2010
+T1 Fast TV Regularization for 2D Maximum Penalized Likelihood Estimation
+JF Journal of Computational and Graphical Statistics
+SP 1008022357
+OP 13
+
+RT Journal Article
+ID 13332586
+A1 Mao,Yu
+A1 Fahimian,Benjamin,P.
+A1 Osher,Stanley,J.
+A1 Miao,Jianwei
+YR 2010
+T1 Development and Optimization of Regularized Tomographic Reconstruction Algorithms Utilizing Equally-Sloped Tomography
+JF IEEE Transactions on Image Processing
+VO 19
+SP 1259
+OP 1268
+IS 5
+
+RT Book, Whole
+ID 39274139
+A1 Borghi,Alexandre
+A1 Darbon,Jérôme
+A1 Peyronnet,Sylvain
+A1 Chan,Tony,F.
+A1 Osher,Stanley
+YR 2010
+T1 A Compressive Sensing Algorithm for Many-Core Architectures
+SP 678
+OP 686
+
+RT Journal Article
+ID 6393050
+A1 Dong,Bin
+A1 Chien,Aichi
+A1 Mao,Yu
+A1 Ye,Jian
+A1 Vinuela,Fernando
+A1 Osher,Stanley
+YR 2010
+T1 Level set based brain aneurysm capturing in 3D
+JF Inverse Problems and Imaging
+VO 4
+SP 241
+OP 255
+IS 2
+
+RT Journal Article
+ID 5646017
+A1 Dong,Bin
+A1 Chien,Aichi
+A1 Shen,Zuowei
+A1 Osher,Stanley
+YR 2010
+T1 A New Multiscale Representation for Shapes and Its Application to Blood Vessel Recovery
+JF Siam Journal on Scientific Computing
+VO 32
+SP 1724
+OP 1739
+IS 4
+
+RT Journal Article
+ID 51611134
+A1 Mao,Yu
+A1 Fahimian,Benjamin,P.
+A1 Osher,Stanley,J.
+A1 Miao,Jianwei
+YR 2010
+T1 Development and Optimization of Regularized Tomographic Reconstruction Algorithms Utilizing Equally-Sloped Tomography
+JF IEEE Transactions on Image Processing
+VO 19
+SP 1259
+OP 1268
+
+RT Conference Proceedings
+ID 39298345
+A1 Yu,Meng
+A1 Ma,Wenye
+A1 Xin,Jack
+A1 Osher,Stanley
+YR 2010
+T1 Convexity and fast speech extraction by split bregman method
+SP 398
+OP 401
+
+RT Conference Proceedings
+ID 39298516
+A1 Ma,Wenye
+A1 Yu,Meng
+A1 Xin,Jack
+A1 Osher,Stanley
+YR 2010
+T1 Reducing musical noise in blind source separation by time-domain sparse filters and split bregman method
+SP 402
+OP 405
+
+RT Book, Whole
+ID 39274017
+A1 Yang,Yunyun
+A1 Li,Chunming
+A1 Kao,Chiu-Yen
+A1 Osher,Stanley
+YR 2010
+T1 Split Bregman Method for Minimization of Region-Scalable Fitting Energy for Image Segmentation
+SP 117
+OP 128
+
+RT Book, Whole
+ID 39274031
+A1 Ye,Jian
+A1 Wittman,Todd
+A1 Bresson,Xavier
+A1 Osher,Stanley
+YR 2010
+T1 Segmentation for Hyperspectral Images with Priors
+SP 97
+OP 106
+
+RT Journal Article
+ID 57443567
+A1 Osher,Stanley
+A1 Mao,Yu
+A1 Dong,Bin
+A1 Yin,Wotao
+YR 2010
+T1 Fast linearized Bregman iteration for compressive sensing and sparse denoising
+JF Communications in Mathematical Sciences
+VO 8
+SP 93
+OP 111
+IS 2010
+
+RT Journal Article
+ID 5212042
+A1 Mao,Yu
+A1 Dong,Bin
+A1 Osher,Stanley
+YR 2010
+T1 A Nonlinear PDE-Based Method for Sparse Deconvolution
+JF Multiscale Modeling & Simulation
+VO 8
+SP 965
+OP 976
+IS 3
+
+RT Journal Article
+ID 28815543
+A1 Goldstein,T.
+A1 Osher,S.
+YR 2010
+T1 THD204B01: Theory and Applications in MR Imaging of Compressive Sensing
+JF Medical Physics
+VO 37
+SP 3468
+IS 6
+
+RT Journal Article
+ID 57444685
+A1 Li,Yingying
+A1 Osher,Stanley
+YR 2010
+T1 Addendum to: A new median formula with applications to PDE based denoising
+JF Communications in Mathematical Sciences
+VO 8
+SP 1091
+IS 2010
+
+RT Journal Article
+ID 13255809
+A1 Goldstein,Tom
+A1 Osher,Stanley
+YR 2009
+T1 The Split Bregman Method for L1-Regularized Problems
+JF Siam Journal on Imaging Sciences
+VO 2
+SP 323
+OP 343
+IS 2
+
+RT Journal Article
+ID 5200262
+A1 Cai,Jian-Feng
+A1 Osher,Stanley
+A1 Shen,Zuowei
+YR 2009
+T1 Linearized Bregman iterations for compressed sensing
+JF Mathematics of Computation
+VO 78
+SP 1515
+OP 1536
+IS 267
+
+RT Journal Article
+ID 16466521
+A1 Cai,Jian-Feng
+A1 Osher,Stanley
+A1 Shen,Zuowei
+YR 2009
+T1 Split Bregman Methods and Frame Based Image Restoration
+JF Multiscale Modeling & Simulation
+VO 8
+SP 337
+OP 369
+IS 2
+
+RT Journal Article
+ID 6297006
+A1 Cai,Jian-Feng
+A1 Osher,Stanley
+A1 Shen,Zuowei
+YR 2009
+T1 Linearized Bregman Iterations for Frame-Based Image Deblurring
+JF Siam Journal on Imaging Sciences
+VO 2
+SP 226
+OP 252
+IS 1
+
+RT Journal Article
+ID 39352825
+A1 Yanovsky,Igor
+A1 Leow,Alex,D.
+A1 Lee,Suh
+A1 Osher,Stanley,J.
+A1 Thompson,Paul,M.
+YR 2009
+T1 Comparing registration methods for mapping brain change using tensor-based morphometry
+JF Medical Image Analysis
+VO 13
+SP 679
+OP 700
+IS 5
+
+RT Journal Article
+ID 16514557
+A1 Osher,Stanley
+A1 Li,Yingying
+YR 2009
+T1 Coordinate descent optimization for l 1 minimization with application to compressed sensing; a greedy algorithm
+JF Inverse Problems and Imaging
+VO 3
+SP 487
+OP 503
+IS 3
+
+RT Journal Article
+ID 15268711
+A1 Cai,Jian-Feng
+A1 Osher,Stanley
+A1 Shen,Zuowei
+YR 2009
+T1 Convergence of the linearized Bregman iteration for ell_1 -norm minimization
+JF Mathematics of Computation
+VO 78
+SP 2127
+OP 2136
+IS 268
+
+RT Conference Proceedings
+ID 13256285
+A1 Joshi,Shantanu,H.
+A1 Marquina,Antonio
+A1 Osher,Stanley,J.
+A1 Dinov,Ivo,D.
+A1 Horn,John,D.,Van
+A1 Toga,Arthur,W.
+YR 2009
+T1 MRI Resolution Enhancement Using Total Variation Regularization
+SP 161
+OP 164
+
+RT Book, Whole
+ID 6044562
+A1 Dong,Bin
+A1 Savitsky,Eric
+A1 Osher,Stanley
+YR 2009
+T1 A Novel Method for Enhanced Needle Localization Using Ultrasound-Guidance
+SP 914
+OP 923
+
+RT Journal Article
+ID 60601342
+A1 Eder,D,C
+A1 Anderson,R,W
+A1 Bailey,D,S
+A1 Bell,P
+A1 Benson,D,J
+A1 Bertozzi,A,L
+A1 Bittle,W
+A1 Bradley,D
+A1 Brown,C,G
+A1 Clancy,T,J
+A1 Chen,H
+A1 Chevalier,J,M
+A1 Combis,P
+A1 Dauffy,L
+A1 Debonnel,C,S
+A1 Eckart,M,J
+A1 Fisher,A,C
+A1 Geille,A
+A1 Glebov,V,Y
+A1 Holder,J
+A1 Jadaud,J,P
+A1 Jones,O
+A1 Kaiser,T,B
+A1 Kalantar,D
+A1 Khater,H
+A1 Kimbrough,J
+A1 Koniges,A,E
+A1 Landen,O,L
+A1 MacGowan,B,J
+A1 Masters,N,D
+A1 MacPhee,A
+A1 Maddox,B,R
+A1 Meyers,M
+A1 Osher,S
+A1 Prasad,R
+A1 Raffestin,D
+A1 Raimbourg,J
+A1 Rekow,V
+A1 Sangster,C
+A1 Song,P
+A1 Stoeckl,C
+A1 Stowell,M,L
+A1 Teran,J,M
+A1 Throop,A
+A1 Tommasini,R
+A1 Vierne,J
+A1 White,D
+A1 Whitman,P
+YR 2009
+T1 Assessment and Mitigation of Radiation, EMP, Debris & Shrapnel Impacts at Megajoule-Class Laser Facilities
+
+RT Conference Proceedings
+ID 13290897
+A1 Darbon,Jérôme
+A1 Ciril,Igor
+A1 Marquina,Antonio
+A1 Chan,Tony,F.
+A1 Osher,Stanley
+YR 2009
+T1 A note on the Bregmanized Total Variation and dual forms
+SP 2965
+OP 2968
+
+RT Book, Whole
+ID 4729730
+A1 Joshi,Shantanu,H.
+A1 Marquina,Antonio
+A1 Osher,Stanley,J.
+A1 Dinov,Ivo,D.
+A1 Horn,John,D.,Van
+A1 Toga,Arthur,W.
+YR 2009
+T1 Edge-Enhanced Image Reconstruction Using (TV) Total Variation and Bregman Refinement
+SP 389
+OP 400
+
+RT Journal Article
+ID 39326444
+A1 Cai,Jian-Feng
+A1 Osher,Stanley
+A1 Shen,Zuowei
+YR 2009
+T1 Convergence of the linearized Bregman iteration for ℓ
+JF Mathematics of Computation
+VO 78
+SP 2127
+OP 2136
+IS 268
+
+RT Journal Article
+ID 53012168
+A1 Dong,Bin
+A1 Chien,Aichi
+A1 Shen,Zuowei
+A1 Osher,Stanley
+YR 2009
+T1 A New Multiscale Representation for Shapes and Its Application to Blood Vessel Recovery
+
+RT Journal Article
+ID 52728778
+A1 Guo,Zhaohui
+A1 Wittman,Todd
+A1 Osher,Stanley
+YR 2009
+T1 L1 unmixing and its application to hyperspectral image enhancement
+VO 7334
+SP 54
+
+RT Journal Article
+ID 57444698
+A1 Li,Yingying
+A1 Osher,Stanley
+YR 2009
+T1 A new median formula with applications to PDE based denoising
+JF Communications in Mathematical Sciences
+VO 7
+SP 741
+OP 753
+IS 2009
+
+RT Journal Article
+ID 13255759
+A1 Yin,Wotao
+A1 Osher,Stanley
+A1 Goldfarb,Donald
+A1 Darbon,Jérôme
+YR 2008
+T1 Bregman Iterative Algorithms for \ell1Minimization with Applications to Compressed Sensing
+JF Siam Journal on Imaging Sciences
+VO 1
+SP 143
+OP 168
+IS 1
+
+RT Journal Article
+ID 16466486
+A1 Gilboa,Guy
+A1 Osher,Stanley
+YR 2008
+T1 Nonlocal Operators with Applications to Image Processing
+JF Multiscale Modeling & Simulation
+VO 7
+SP 1005
+OP 1028
+IS 3
+
+RT Journal Article
+ID 4399773
+A1 Marquina,Antonio
+A1 Osher,Stanley,J.
+YR 2008
+T1 Image Super-Resolution by TV-Regularization and Bregman Iteration
+JF Journal of Scientific Computing
+VO 37
+SP 367
+OP 382
+IS 3
+
+RT Journal Article
+ID 4404084
+A1 Favaro,Paolo
+A1 Soatto,Stefano
+A1 Burger,Martin
+A1 Osher,Stanley,J.
+YR 2008
+T1 Shape from Defocus via Diffusion
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 30
+SP 518
+OP 531
+IS 3
+
+RT Journal Article
+ID 13255602
+A1 Shi,Jianing
+A1 Osher,Stanley
+YR 2008
+T1 A Nonlinear Inverse Scale Space Method for a Convex Multiplicative Noise Model
+JF Siam Journal on Imaging Sciences
+VO 1
+SP 294
+OP 321
+IS 3
+
+RT Conference Proceedings
+ID 4289790
+A1 Darbon,Jérôme
+A1 Cunha,Alexandre
+A1 Chan,Tony,F.
+A1 Osher,Stanley
+A1 Jensen,Grant,J.
+YR 2008
+T1 Fast nonlocal filtering applied to electron cryomicroscopy
+SP 1331
+OP 1334
+
+RT Journal Article
+ID 18646479
+A1 Kao,Chiu-Yen
+A1 Osher,Stanley
+A1 Qian,Jianliang
+YR 2008
+T1 Legendre-transform-based fast sweeping methods for static Hamilton–Jacobi equations on triangulated meshes
+JF Journal of Computational Physics
+VO 227
+SP 10209
+OP 10225
+IS 24
+
+RT Conference Proceedings
+ID 50660539
+A1 Yanovsky,Igor
+A1 Thompson,Paul,M.
+A1 Osher,Stanley
+A1 Leow,A.,D.
+YR 2008
+T1 Asymmetric and symmetric unbiased image registration: Statistical assessment of performance
+
+RT Journal Article
+ID 4865092
+A1 Buades,Antoni
+A1 Chien,Aichi
+A1 Morel,Jean-Michel
+A1 Osher,Stanley
+YR 2008
+T1 Topology Preserving Linear Filtering Applied to Medical Imaging
+JF Siam Journal on Imaging Sciences
+VO 1
+SP 26
+OP 50
+IS 1
+
+RT Journal Article
+ID 6118344
+A1 Dong,Bin
+A1 Ye,Jian
+A1 Osher,Stanley
+A1 Dinov,Ivo,D.
+YR 2008
+T1 Level Set Based Nonlocal Surface Restoration
+JF Multiscale Modeling & Simulation
+VO 7
+SP 589
+OP 598
+IS 2
+
+RT Conference Proceedings
+ID 4289650
+A1 Yanovsky,Igor
+A1 Thompson,Paul,M.
+A1 Osher,Stanley,J.
+A1 Hua,Xue
+A1 Shattuck,David,W.
+A1 Toga,Arthur,W.
+A1 Leow,Alex,D.
+YR 2008
+T1 Validating unbiased registration on longitudinal MRI scans from the Alzheimer'S Disease neuroimaging initiative (ADNI)
+SP 1091
+OP 1094
+
+RT Book, Whole
+ID 4301007
+A1 Dong,Bin
+A1 Chien,Aichi
+A1 Mao,Yu
+A1 Ye,Jian
+A1 Osher,Stanley
+YR 2008
+T1 Level Set Based Surface Capturing in 3D Medical Images
+SP 162
+OP 169
+
+RT Journal Article
+ID 46555937
+A1 Kang,Myungjoo
+A1 Merriman,Barry
+A1 Osher,Stanley
+YR 2008
+T1 Numerical simulations for the motion of soap bubbles using level set methods
+JF Computers & Fluids
+VO 37
+SP 524
+OP 535
+IS 5
+
+RT Journal Article
+ID 4399730
+A1 Cecil,Thomas,C.
+A1 Osher,Stanley,J.
+A1 Qian,Jianliang
+YR 2008
+T1 Essentially Non-Oscillatory Adaptive Tree Methods
+JF Journal of Scientific Computing
+VO 35
+SP 25
+OP 41
+IS 1
+
+RT Journal Article
+ID 13763587
+A1 Yanovsky,Igor
+A1 Thompson,Paul,M.
+A1 Osher,Stanley
+A1 Leow,Alex,D.
+YR 2008
+T1 Multimodal unbiased image matching via mutual information
+SP 681410
+
+RT Journal Article
+ID 51998114
+A1 Yanovsky,Igor
+A1 Thompson,Paul,M.
+A1 Osher,Stanley,J.
+A1 Leow,Alex,D.
+YR 2008
+T1 Multimodal unbiased image matching via mutual information
+VO 6814
+SP 25
+
+RT Journal Article
+ID 6618387
+A1 Bresson,Xavier
+A1 Esedoglu,Selim
+A1 Vandergheynst,Pierre
+A1 Thiran,Jean-Philippe
+A1 Osher,Stanley
+YR 2007
+T1 Fast Global Minimization of the Active Contour/Snake Model
+JF Journal of Mathematical Imaging and Vision
+VO 28
+SP 151
+OP 167
+IS 2
+
+RT Journal Article
+ID 16466443
+A1 Gilboa,Guy
+A1 Osher,Stanley
+YR 2007
+T1 Nonlocal Linear Image Regularization and Supervised Segmentation
+JF Multiscale Modeling & Simulation
+VO 6
+SP 595
+IS 2
+
+RT Journal Article
+ID 4412781
+A1 Xu,Jinjun
+A1 Osher,Stanley
+YR 2007
+T1 Iterative Regularization and Nonlinear Inverse Scale Space Applied to Wavelet-Based Denoising
+JF IEEE Transactions on Image Processing
+VO 16
+SP 534
+OP 544
+IS 2
+
+RT Journal Article
+ID 4419455
+A1 Yin,Wotao
+A1 Goldfarb,Donald
+A1 Osher,Stanley
+YR 2007
+T1 A comparison of three total variation based texture extraction models
+JF Journal of Visual Communication and Image Representation
+VO 18
+SP 240
+OP 252
+IS 3
+
+RT Book, Whole
+ID 2470206
+A1 Rahman,Talal
+A1 Tai,Xue-cheng
+A1 Osher,Stanley
+YR 2007
+T1 A TV-Stokes Denoising Algorithm
+SP 473
+OP 483
+
+RT Conference Proceedings
+ID 4247921
+A1 Yanovsky,Igor
+A1 Thompson,Paul,M.
+A1 Osher,Stanley
+A1 Leow,Alex,D.
+YR 2007
+T1 Topology Preserving Log-Unbiased Nonlinear Image Registration: Theory and Implementation
+
+RT Journal Article
+ID 5776956
+A1 He,Lin.
+A1 Kao,Chiu-Yen.
+A1 Osher,Stanley.
+YR 2007
+T1 Incorporating topological derivatives into shape derivatives based level set methods
+JF Journal of Computational Physics
+VO 225
+SP 891
+OP 909
+IS 1
+
+RT Journal Article
+ID 5565396
+A1 Burger,M.
+A1 Frick,K.
+A1 Osher,S.
+A1 Scherzer,O.
+YR 2007
+T1 Inverse Total Variation Flow
+JF Multiscale Modeling & Simulation
+VO 6
+SP 366
+IS 2
+
+RT Journal Article
+ID 5600116
+A1 Shi,Yonggang
+A1 Thompson,Paul,M.
+A1 Dinov,Ivo,D.
+A1 Osher,Stanley
+A1 Toga,Arthur,W.
+YR 2007
+T1 Direct cortical mapping via solving partial differential equations on implicit surfaces
+JF Medical Image Analysis
+VO 11
+SP 207
+OP 223
+IS 3
+
+RT Journal Article
+ID 6306985
+A1 Yin,Wotao
+A1 Goldfarb,Donald
+A1 Osher,Stanley
+YR 2007
+T1 The Total Variation Regularized $L^1$ Model for Multiscale Decomposition
+JF Multiscale Modeling & Simulation
+VO 6
+SP 190
+IS 1
+
+RT Book, Whole
+ID 2470157
+A1 He,Lin
+A1 Osher,Stanley
+YR 2007
+T1 Solving the Chan-Vese Model by a Multiphase Level Set Algorithm Based on the Topological Derivative
+SP 777
+OP 788
+
+RT Journal Article
+ID 4399660
+A1 Kang,Myungjoo
+A1 Shim,Hyeseon
+A1 Osher,Stanley
+YR 2007
+T1 Level Set Based Simulations of Two-Phase Oil-Water Flows in Pipes
+JF Journal of Scientific Computing
+VO 31
+SP 153
+OP 184
+IS 1-2
+
+RT Conference Proceedings
+ID 4328253
+A1 Yanovsky,Igor
+A1 Osher,Stanley
+A1 Thompson,Paul,M.
+A1 Leow,Alex,D.
+YR 2007
+T1 Log-unbiased large-deformation image registration
+SP 272
+OP 279
+
+RT Conference Proceedings
+ID 4247887
+A1 Yanovsky,Igor
+A1 Thompson,Paul,M.
+A1 Osher,Stanley
+A1 Vese,Luminita,A.
+A1 Leow,Alex,D.
+YR 2007
+T1 Multiphase Segmentation of Deformation using Logarithmic Priors
+
+RT Journal Article
+ID 27319948
+A1 He,Lin
+A1 Chang,Ti-Chiun
+A1 Osher,Stanley
+A1 Fang,Tong
+A1 Speier,Peter
+YR 2007
+T1 MR image reconstruction from undersampled data by using the iterative refinement procedure
+JF Pamm
+VO 7
+SP 1011207
+OP 1011208
+IS 1
+
+RT Journal Article
+ID 59768948
+A1 M,Zeeuw,de,P.
+A1 Tai,Xue-Cheng
+A1 Lie,K.,A.
+A1 Chan,T.,F.
+A1 Osher,S.
+YR 2007
+T1 The Multigrid Image Transform
+JF Engineering Applications of Artificial Intelligence
+
+RT Journal Article
+ID 56131708
+A1 Gilboa,Guy
+A1 Osher,Stanley
+YR 2007
+T1 Nonlocal evolutions for image regularization
+VO 6498
+SP 24
+
+RT Journal Article
+ID 27320116
+A1 He,Lin
+A1 Osher,Stanley
+YR 2007
+T1 A fast multiphase level set algorithm for solving the Chan-Vese model
+JF Pamm
+VO 7
+SP 1041911
+OP 1041912
+IS 1
+
+RT Journal Article
+ID 2503260
+A1 Aujol,Jean-françois
+A1 Gilboa,Guy
+A1 Chan,Tony,F.
+A1 Osher,Stanley
+YR 2006
+T1 Structure-Texture Image Decomposition - Modeling, Algorithms, and Parameter Selection
+JF International Journal of Computer Vision
+VO 67
+SP 111
+OP 136
+IS 1
+
+RT Journal Article
+ID 2503277
+A1 Cremers,Daniel
+A1 Osher,Stanley,J.
+A1 Soatto,Stefano
+YR 2006
+T1 Kernel Density Estimation and Intrinsic Alignment for Shape Priors in Level Set Segmentation
+JF International Journal of Computer Vision
+VO 69
+SP 335
+OP 351
+IS 3
+
+RT Journal Article
+ID 3777358
+A1 Losasso,Frank
+A1 Fedkiw,Ronald
+A1 Osher,Stanley
+YR 2006
+T1 Spatially adaptive techniques for level set methods and incompressible flow
+JF Computers & Fluids
+VO 35
+SP 995
+OP 1010
+IS 10
+
+RT Journal Article
+ID 5120572
+A1 Burger,Martin
+A1 Gilboa,Guy
+A1 Osher,Stanley
+A1 Xu,Jinjun
+YR 2006
+T1 Nonlinear inverse scale space methods
+JF Communications in Mathematical Sciences
+VO 4
+SP 179
+OP 212
+IS 2006
+
+RT Conference Proceedings
+ID 2483596
+A1 Vese,Luminita,A.
+A1 Osher,Stanley,J.
+YR 2006
+T1 Color Texture Modeling and Color Image Decomposition in a Variational-PDE Approach
+SP 103
+OP 110
+
+RT Journal Article
+ID 2509193
+A1 Kindermann,Stefan
+A1 Osher,Stanley
+A1 Xu,Jinjun
+YR 2006
+T1 Denoising by BV-duality
+JF Journal of Scientific Computing
+VO 28
+SP 411
+OP 444
+IS 2-3
+
+RT Journal Article
+ID 5717596
+A1 Cecil,Thomas,C.
+A1 Osher,Stanley,J.
+A1 Qian,Jianliang
+YR 2006
+T1 Simplex free adaptive tree fast sweeping and evolution methods for solving level set equations in arbitrary dimension
+JF Journal of Computational Physics
+VO 213
+SP 458
+OP 473
+IS 2
+
+RT Journal Article
+ID 2509221
+A1 Liu,Hailiang
+A1 Cheng,Li-tien
+A1 Osher,Stanley
+YR 2006
+T1 A Level Set Framework for Capturing Multi-Valued Solutions of Nonlinear First-Order Equations
+JF Journal of Scientific Computing
+VO 29
+SP 353
+OP 373
+IS 3
+
+RT Journal Article
+ID 5257999
+A1 He,Lin
+A1 Burger,Martin
+A1 Osher,Stanley,J.
+YR 2006
+T1 Iterative Total Variation Regularization with Non-Quadratic Fidelity
+JF Journal of Mathematical Imaging and Vision
+VO 26
+SP 167
+OP 184
+IS 1-2
+
+RT Journal Article
+ID 51361291
+A1 Cecil,Thomas,C.
+A1 Osher,Stanley,J.
+A1 Qian,Jianliang
+YR 2006
+T1 Simplex free adaptive tree fast sweeping and evolution methods for solving level set equations in arbitrary dimension
+JF Journal of Computational Physics
+VO 213
+SP 458
+OP 473
+
+RT Journal Article
+ID 2365373
+A1 Osher,Stanley
+A1 YIN,WOTAO
+A1 Goldfarb,Donald
+A1 Xu,Jinjun
+YR 2005
+T1 An Iterative Regularization Method for Total Variation-Based Image Restoration
+JF Multiscale Modeling & Simulation
+VO 4
+SP 460
+IS 2
+
+RT Journal Article
+ID 16466394
+A1 Kindermann,Stefan
+A1 Osher,Stanley
+A1 Jones,Peter,W.
+YR 2005
+T1 Deblurring and Denoising of Images by Nonlocal Functionals
+JF Multiscale Modeling & Simulation
+VO 4
+SP 1091
+IS 4
+
+RT Journal Article
+ID 16272407
+A1 BURGER,MARTIN
+A1 OSHER,STANLEY,J.
+YR 2005
+T1 A survey on level set methods for inverse problems and optimal design
+JF European Journal of Applied Mathematics
+VO 16
+SP 263
+OP 301
+IS 2
+
+RT Book, Whole
+ID 1899579
+A1 Yin,Wotao
+A1 Goldfarb,Donald
+A1 Osher,Stanley
+YR 2005
+T1 Image Cartoon-Texture Decomposition and Feature Selection Using the Total Variation Regularized L1 Functional
+SP 73
+OP 84
+
+RT Journal Article
+ID 18058857
+A1 He,Lin
+A1 Marquina,Antonio
+A1 Osher,Stanley,J.
+YR 2005
+T1 Blind deconvolution using TV regularization and Bregman iteration
+JF International Journal of Imaging Systems and Technology
+VO 15
+SP 74
+OP 83
+IS 1
+
+RT Journal Article
+ID 16457021
+A1 Kao,Chiu-Yen
+A1 Osher,Stanley
+A1 Tsai,Yen-Hsi,Richard
+YR 2005
+T1 Fast Sweeping Methods for Static Hamilton-Jacobi Equations
+JF Siam Journal on Numerical Analysis
+VO 42
+SP 2612
+OP 2632
+IS 6
+
+RT Journal Article
+ID 18645532
+A1 Jin,Shi
+A1 Liu,Hailiang
+A1 Osher,Stanley
+A1 Tsai,Yen-Hsi,Richard
+YR 2005
+T1 Computing multivalued physical observables for the semiclassical limit of the Schrödinger equation
+JF Journal of Computational Physics
+VO 205
+SP 222
+OP 241
+IS 1
+
+RT Book, Whole
+ID 1899497
+A1 Burger,Martin
+A1 Osher,Stanley
+A1 Xu,Jinjun
+A1 Gilboa,Guy
+YR 2005
+T1 Nonlinear Inverse Scale Space Methods for Image Restoration
+SP 25
+OP 36
+
+RT Journal Article
+ID 18076282
+A1 Kao,C.,Y.
+A1 Osher,S.
+A1 Yablonovitch,E.
+YR 2005
+T1 Maximizing band gaps in two-dimensional photonic crystals by using level set methods
+JF Applied Physics B-lasers and Optics
+VO 81
+SP 235
+OP 244
+IS 2
+
+RT Journal Article
+ID 3090997
+A1 Kao,C.
+A1 Osher,S.
+A1 Tsai,R.
+YR 2005
+T1 Fast sweeping methods for hamilton-jacobi equations
+
+RT Book, Whole
+ID 1899496
+A1 Leung,Shingyu
+A1 Osher,Stanley
+YR 2005
+T1 Global Minimization of the Active Contour Model with TV-Inpainting and Two-Phase Denoising
+SP 149
+OP 160
+
+RT Journal Article
+ID 4550595
+A1 Jin,Shi
+A1 Liu,Hailiang
+A1 Osher,Stanley
+A1 Tsai,Richard
+YR 2005
+T1 Computing multi-valued physical observables for the high frequency limit of symmetric hyperbolic systems
+JF Journal of Computational Physics
+VO 210
+SP 497
+OP 518
+IS 2
+
+RT Journal Article
+ID 18645638
+A1 Kadioglu,Samet,Y.
+A1 Sussman,Mark
+A1 Osher,Stanley
+A1 Wright,Joseph,P.
+A1 Kang,Myungjoo
+YR 2005
+T1 A second order primitive preconditioner for solving all speed multi-phase flows
+JF Journal of Computational Physics
+VO 209
+SP 477
+OP 503
+IS 2
+
+RT Journal Article
+ID 27388044
+A1 Tsai,Yen-Hsi,Richard
+A1 Osher,Stanley
+YR 2005
+T1 Total variation and level set methods in image science
+JF Acta Numerica
+VO 14
+SP 509
+OP 573
+
+RT Book, Whole
+ID 1899507
+A1 Aujol,Jean-françois
+A1 Gilboa,Guy
+A1 Chan,Tony,F.
+A1 Osher,Stanley
+YR 2005
+T1 Structure-Texture Decomposition by a TV-Gabor Model
+SP 85
+OP 96
+
+RT Conference Proceedings
+ID 50441132
+A1 Yablonovitch,E.
+A1 Kao,C.,Y.
+A1 Osher,S.
+YR 2005
+T1 Inverse Design Problems in Electromagnetics and Nano-Photonics
+
+RT Journal Article
+ID 16170148
+A1 Kao,Chiu,Yen
+A1 Navasca,Carmeliza
+A1 Osher,Stanley
+YR 2005
+T1 The Lax–Friedrichs sweeping method for optimal control problems in continuous and hybrid dynamics
+JF Nonlinear Analysis-theory Methods & Applications
+VO 63
+IS 5
+
+RT Journal Article
+ID 1682057
+A1 Lysaker,Ola,Marius
+A1 Osher,Stanley
+A1 Tai,Xue-cheng
+YR 2004
+T1 Noise removal using smoothed normals and surface fitting
+JF IEEE Transactions on Image Processing
+VO 13
+SP 1345
+OP 1357
+IS 10
+
+RT Journal Article
+ID 2148408
+A1 Vese,Luminita,A.
+A1 Osher,Stanley,J.
+YR 2004
+T1 Image Denoising and Decomposition with Total Variation Minimization and Oscillatory Functions
+JF Journal of Mathematical Imaging and Vision
+VO 20
+SP 7
+OP 18
+IS 1-2
+
+RT Journal Article
+ID 2316701
+A1 Burger,Martin
+A1 Osher,Stanley
+YR 2004
+T1 Convergence rates of convex variational regularization
+JF Inverse Problems
+VO 20
+SP 1411
+OP 1421
+IS 5
+
+RT Journal Article
+ID 928009
+A1 ´,Facundo,M
+A1 Sapiro,Guillermo
+A1 Osher,Stanley
+YR 2004
+T1 Solving Variational Problems and Partial Differential Equations Mapping into General Target Manifolds
+
+RT Journal Article
+ID 16008455
+A1 Osher,Stanley,J.
+YR 2004
+T1 Decomposition of images by the anisotropic Rudin-Osher-Fatemi model
+JF Communications on Pure and Applied Mathematics
+VO 57
+SP 1609
+OP 1626
+IS 12
+
+RT Journal Article
+ID 2340813
+A1 Burger,M.
+A1 Osher,S.
+YR 2004
+T1 A survey on level set methods for inverse problems and optimal design
+
+RT Book, Whole
+ID 1786786
+A1 Cremers,Daniel
+A1 Osher,Stanley,J.
+A1 Soatto,Stefano
+YR 2004
+T1 Kernel Density Estimation and Intrinsic Alignment for Knowledge-Driven Segmentation: Teaching Level Sets to Walk
+SP 36
+OP 44
+
+RT Journal Article
+ID 18645338
+A1 Kao,Chiu,Yen
+A1 Osher,Stanley
+A1 Qian,Jianliang
+YR 2004
+T1 Lax–Friedrichs sweeping scheme for static Hamilton–Jacobi equations
+JF Journal of Computational Physics
+VO 196
+SP 367
+OP 391
+IS 1
+
+RT Journal Article
+ID 2348070
+A1 Cecil,Tom
+A1 Qian,Jianliang
+A1 Osher,Stanley
+YR 2004
+T1 Numerical methods for high dimensional Hamilton–Jacobi equations using radial basis functions
+JF Journal of Computational Physics
+VO 196
+SP 327
+OP 347
+IS 1
+
+RT Journal Article
+ID 2283033
+A1 OSHER,STANLEY
+A1 YIN,WOTAO
+YR 2004
+T1 USING GEOMETRY AND ITERATED REFINEMENT FOR INVERSE PROBLEMS (1): TOTAL VARIATION BASED IMAGE RESTORATION
+
+RT Journal Article
+ID 18645311
+A1 Mémoli,Facundo
+A1 Sapiro,Guillermo
+A1 Osher,Stanley
+YR 2004
+T1 Solving variational problems and partial differential equations mapping into general target manifolds
+JF Journal of Computational Physics
+VO 195
+SP 263
+OP 292
+IS 1
+
+RT Journal Article
+ID 3132660
+A1 Osher,Stanley
+A1 Scherzer,Otmar
+YR 2004
+T1 G-Norm Properties of Bounded Variation Regularization
+JF Communications in Mathematical Sciences
+VO 2
+SP 237
+OP 254
+IS 2004
+
+RT Journal Article
+ID 4533068
+A1 TSAI,YEN-HSI,RICHARD
+A1 CHENG,LI-TIEN
+A1 OSHER,STANLEY
+A1 BURCHARD,PAUL
+A1 SAPIRO,GUILLERMO
+YR 2004
+T1 Visibility and its dynamics in a PDE based implicit framework
+JF Journal of Computational Physics
+VO 199
+SP 260
+OP 290
+IS 1
+
+RT Journal Article
+ID 2316552
+A1 Burger,Martin
+A1 Osher,Stanley,J.
+A1 Yablonovitch,Eli
+YR 2004
+T1 Inverse Problem Techniques for the Design of Photonic Crystals
+JF Ieice Electronic Express
+
+RT Journal Article
+ID 2582384
+A1 LEUNG,SHINGYU
+A1 QIAN,JIANLIANG
+A1 OSHER,STANLEY
+YR 2004
+T1 A Level Set Method for Three-Dimensional Paraxial Geometrical Optics with Multiple Point Sources
+JF Communications in Mathematical Sciences
+VO 2
+SP 643
+OP 672
+IS 2004
+
+RT Journal Article
+ID 10523291
+A1 Cecil,Thomas
+A1 Osher,Stanley
+A1 Vese,Luminita
+YR 2004
+T1 Numerical methods for minimization problems constrained to S 1 and S 2
+JF Journal of Computational Physics
+VO 198
+SP 567
+OP 579
+IS 2
+
+RT Journal Article
+ID 27147607
+A1 Osher,S.
+A1 Fedkiw,R.
+A1 Piechor,K.
+YR 2004
+T1 Level Set Methods and Dynamic Implicit Surfaces
+JF Applied Mechanics Reviews
+VO 57
+IS 3
+
+RT Journal Article
+ID 3323632
+A1 Breen,David
+A1 Fedkiw,Ron
+A1 Museth,Ken
+A1 Osher,Stanley
+A1 Sapiro,Guillermo
+A1 Whitaker,Ross
+YR 2004
+T1 Level set and PDE methods for computer graphics
+SP 28
+
+RT Journal Article
+ID 2350865
+A1 Cecil,Thomas
+A1 Osher,Stanley
+A1 Vese,Luminita
+YR 2004
+T1 Numerical Methods for Minimization Problems Constrained to S&sup1; and S&sup2
+
+RT Journal Article
+ID 33813006
+A1 Osher,S.,J
+A1 Nasser,N.,A
+YR 2004
+T1 Coincidental finding of a bipartite atlas during assessment of facial trauma
+JF British Journal of Oral & Maxillofacial Surgery
+VO 42
+SP 270
+OP 271
+IS 3
+
+RT Journal Article
+ID 2288682
+A1 Bertozzi,Andrea
+A1 Greer,John
+A1 Osher,Stanley
+YR 2004
+T1 Nonlinear regularizations of TV based PDEs for image processing
+
+RT Journal Article
+ID 3462220
+A1 Leow,A.,D.
+A1 Huang,S.,C.
+A1 Osher,S.
+A1 Toga,A.,W.
+A1 Thompson,P.,M.
+YR 2004
+T1 Nonlinear registration using non-parametric geometric features
+JF IEEE Transactions on Image Processing
+
+RT Journal Article
+ID 53977213
+A1 Lysaker,M.
+A1 Osher,S.
+A1 Tai,X.-C.
+YR 2004
+T1 Noise Removal Using Smoothed Normals and Surface Fitting
+JF IEEE Transactions on Image Processing
+VO 13
+SP 1345
+OP 1357
+
+RT Journal Article
+ID 1929244
+A1 Osher,S.
+A1 Fedkiw,R.
+YR 2003
+T1 Level set methods and dynamic implicit surfaces
+
+RT Journal Article
+ID 1681981
+A1 Bertalmío,Marcelo
+A1 Vese,Luminita,A.
+A1 Sapiro,Guillermo
+A1 Osher,Stanley
+YR 2003
+T1 Simultaneous Structure and Texture Image Inpainting
+JF IEEE Transactions on Image Processing
+VO 12
+SP 707
+OP 712
+IS 8
+
+RT Journal Article
+ID 1748747
+A1 Vese,Luminita,A.
+A1 Osher,Stanley,J.
+YR 2003
+T1 Modeling Textures with Total Variation Minimization and Oscillating Patterns in Image Processing
+JF Journal of Scientific Computing
+VO 19
+SP 553
+OP 572
+IS 1-3
+
+RT Journal Article
+ID 4139729
+A1 Osher,S.
+A1 Paragios,N.
+YR 2003
+T1 Geometric Level Set Methods in Imaging Vision and Graphics
+
+RT Journal Article
+ID 2056331
+A1 Tsai,Yen-Hsi,Richard
+A1 Cheng,Li-Tien
+A1 Osher,Stanley
+A1 Zhao,Hong-Kai
+YR 2003
+T1 Fast Sweeping Algorithms for a Class of Hamilton-Jacobi Equations
+JF Siam Journal on Numerical Analysis
+VO 41
+SP 673
+OP 694
+IS 2
+
+RT Journal Article
+ID 16466328
+A1 Osher,Stanley
+A1 Solé,Andrés
+A1 Vese,Luminita
+YR 2003
+T1 Image Decomposition and Restoration Using Total Variation Minimization and the H1
+JF Multiscale Modeling & Simulation
+VO 1
+SP 349
+IS 3
+
+RT Journal Article
+ID 765149
+A1 Tasdizen,Tolga
+A1 Whitaker,Ross,T.
+A1 Burchard,Paul
+A1 Osher,Stanley
+YR 2003
+T1 Geometric surface processing via normal maps
+JF ACM Transactions on Graphics
+VO 22
+SP 1012
+OP 1033
+IS 4
+
+RT Journal Article
+ID 926091
+A1 Gibou,Frédéric
+A1 Fedkiw,Ronald
+A1 Caflisch,E.,Russel
+A1 Osher,Stanley
+YR 2003
+T1 A Level Set Approach for the Numerical Simulation of Dendritic Growth
+JF Journal of Scientific Computing
+VO 19
+SP 183
+OP 199
+IS 1-3
+
+RT Journal Article
+ID 2029805
+A1 Osher,S.
+A1 Paragios,N.
+YR 2003
+T1 Geometric level set methods in Imaging
+
+RT Journal Article
+ID 2325062
+A1 Kao,Chiu,Yen
+A1 Osher,Stanley
+A1 Qian,Jianliang
+YR 2003
+T1 Lax-Friedrichs sweeping scheme for static Hamilton-Jacobi equations q
+
+RT Journal Article
+ID 2066070
+A1 Osher,Stanley,J.
+YR 2003
+T1 Decomposition of Images by the Anisotropic Rudin{Osher{Fatemi Model
+
+RT Journal Article
+ID 2321905
+A1 Jin,S.
+A1 Osher,S.
+YR 2003
+T1 A level set method for the computation of multivalued solutions to quasi-linera hyperbolic PDEs and Hamilton-Jacobi equations
+
+RT Journal Article
+ID 3148749
+A1 Osher,S.
+A1 Paragios,N.
+YR 2003
+T1 Geometric Level Set Methods
+
+RT Journal Article
+ID 2124853
+A1 Qian,Jianliang
+A1 Cheng,Li-Tien
+A1 Osher,Stanley
+YR 2003
+T1 A level set-based Eulerian approach for anisotropic wave propagation
+JF Wave Motion
+VO 37
+SP 365
+OP 379
+IS 4
+
+RT Conference Proceedings
+ID 50310805
+A1 Bertalmio,M.
+A1 Vese,L.
+A1 Sapiro,G.
+A1 Osher,S.
+YR 2003
+T1 Simultaneous structure and texture image inpainting
+VO 2
+
+RT Journal Article
+ID 2371018
+A1 Tsai,Y.,H,R.
+A1 Cheng,L.,T
+A1 Osher,S.
+A1 Zhao,H.,K
+YR 2003
+T1 Fast sweeping methods for a class of Hamilton-Jacobi equations
+
+RT Conference Proceedings
+ID 1788273
+A1 Favaro,Paolo
+A1 Osher,Stanley
+A1 Soatto,Stefano
+A1 Vese,Luminita,A.
+YR 2003
+T1 3D Shape from Anisotropic Diffusion
+VO 1
+SP 179
+OP 186
+
+RT Journal Article
+ID 2066068
+A1 JIN,SHI
+A1 LIU,HAILIANG
+A1 OSHER,STANLEY
+A1 TSAI,RICHARD
+YR 2003
+T1 COMPUTING MULTIVALUED PHYSICAL OBSERVABLES FOR THE SEMICLASSICAL LIMIT OF THE SCHRÖDINGER EQUATION
+
+RT Journal Article
+ID 1742668
+A1 Tsai,Yen-hsi,Richard
+A1 Giga,Yoshikazu
+A1 Osher,Stanley
+YR 2003
+T1 A level set approach for computing discontinuous solutions of Hamilton-Jacobi equations
+JF Mathematics of Computation
+VO 72
+SP 159
+OP 181
+IS 241
+
+RT Journal Article
+ID 37570152
+A1 Nishimura,Ichiro
+A1 Garrell,Robin,L.
+A1 Hedrick,Marc
+A1 Iida,Keisuke
+A1 Osher,Stanley
+A1 Wu,Ben
+YR 2003
+T1 Precursor Tissue Analogs as a Tissue-Engineering Strategy
+JF Tissue Engineering
+VO 9
+SP 77
+OP 89
+IS 4, Supplem
+
+RT Conference Proceedings
+ID 1797769
+A1 Tsai,Yen-hsi,Richard
+A1 Osher,Stanley
+YR 2003
+T1 Level set methods in image science
+VO 2
+SP 631
+OP 634
+
+RT Conference Proceedings
+ID 1797697
+A1 Osher,Stanley
+A1 Solé,Andres,Fco.
+A1 Vese,Luminita,A.
+YR 2003
+T1 Image decomposition, image restoration, and texture modeling using total variation minimization and the H/sup-1/ norm
+VO 1
+SP 689
+OP 692
+
+RT Book, Whole
+ID 686154
+A1 Liao,Wei-hsun
+A1 Vese,Luminita,A.
+A1 Huang,Sung-cheng
+A1 Bergsneider,Marvin
+A1 Osher,Stanley
+YR 2003
+T1 Computational Anatomy and Implicit Object Representation: A Level Set Approach
+SP 40
+OP 49
+
+RT Conference Proceedings
+ID 1797525
+A1 Bertalmío,Marcelo
+A1 Vese,Luminita,A.
+A1 Sapiro,Guillermo
+A1 Osher,Stanley
+YR 2003
+T1 Image filling-in in a decomposition space
+VO 1
+SP 853
+OP 855
+
+RT Conference Proceedings
+ID 1798178
+A1 Liao,Wei-hsun
+A1 Protas,Hillary
+A1 Vese,Luminita,A.
+A1 Huang,Sung-cheng
+A1 Bergsneider,Marvin
+A1 Osher,Stanley
+YR 2003
+T1 New framework for object warping: semi-Lagrangian level set approach
+VO 3
+SP 685
+OP 688
+
+RT Journal Article
+ID 57440325
+A1 Jin,Shi
+A1 Osher,Stanley
+YR 2003
+T1 A level set method for the computation of multi-valued solutions to quasi-linear hyperbolic PDE's and Hamilton-Jacobi equations
+JF Communications in Mathematical Sciences
+VO 1
+SP 575
+OP 591
+IS 2003
+
+RT Journal Article
+ID 57440326
+A1 Cheng,Li-Tien
+A1 Liu,Hailiang
+A1 Osher,Stanley
+YR 2003
+T1 Computational high-frequency wave propogation using the level-set method with applications to the semi-classical limit of the Schrödinger equations
+JF Communications in Mathematical Sciences
+VO 1
+SP 593
+OP 621
+IS 2003
+
+RT Journal Article
+ID 57425887
+A1 Tsai,Richard
+A1 Osher,Stanley
+YR 2003
+T1 REVIEW ARTICLE: Level Set Methods and Their Applications in Image Science
+JF Communications in Mathematical Sciences
+VO 1
+SP 1
+OP 20
+IS 2003
+
+RT Journal Article
+ID 1301055
+A1 Osher,S.
+A1 Fedkiw,R.
+YR 2002
+T1 The level set method and dynamic implicit surfaces
+
+RT Journal Article
+ID 2047750
+A1 OSHER,STANLEY
+A1 E,ANDRES,SOL,´
+A1 VESE,LUMINITA
+YR 2002
+T1 IMAGE DECOMPOSITION AND RESTORATION USING TOTAL VARIATION MINIMIZATION AND THE H −1 NORM
+
+RT Conference Proceedings
+ID 10481
+A1 Tasdizen,Tolga
+A1 Whitaker,Ross,T.
+A1 Burchard,Paul
+A1 Osher,Stanley
+YR 2002
+T1 Geometric surface smoothing via anisotropic diffusion of normals
+SP 125
+OP 132
+
+RT Journal Article
+ID 930899
+A1 Osher,Stanley
+A1 Cheng,Li-Tien
+A1 Kang,Myungjoo
+A1 Shim,Hyeseon
+A1 Tsai,Yen-Hsi
+YR 2002
+T1 Geometric Optics in a Phase-Space-Based Level Set and Eulerian Framework
+JF Journal of Computational Physics
+VO 179
+SP 622
+OP 648
+IS 2
+
+RT Journal Article
+ID 2290606
+A1 KAO,CHIU,YEN
+A1 OSHER,STANLEY
+A1 TSAI,YEN-HSI
+YR 2002
+T1 FAST SWEEPING METHODS FOR STATIC HAMILTON-JACOBI EQUATIONS
+
+RT Journal Article
+ID 23446
+A1 Vese,Luminita,A.
+A1 Osher,Stanley,J.
+YR 2002
+T1 Numerical Methods for
+JF Siam Journal on Numerical Analysis
+VO 40
+SP 2085
+OP 2104
+IS 6
+
+RT Journal Article
+ID 58929
+A1 Gibou,Frédéric
+A1 Fedkiw,Ronald
+A1 Caflisch,Russel
+A1 Osher,Stanley
+YR 2002
+T1 A Level Set Approach for the Numerical Simulation of Dendritic Growth
+JF Journal of Scientific Computing
+
+RT Conference Proceedings
+ID 2723685
+A1 Tasdizen,T.
+A1 Whitaker,R.
+A1 Burchard,P.
+A1 Osher,S.
+YR 2002
+T1 Anisotropic geometric diffusion in surface processing
+
+RT Journal Article
+ID 2313378
+A1 Tsai,Richard
+A1 Cheng,Li-Tien
+A1 Burchard,Paul
+A1 Osher,Stanley
+A1 Sapiro,Guillermo
+YR 2002
+T1 Dynamic Visibility in an Implicit Framework
+
+RT Journal Article
+ID 2055484
+A1 Vese,L.
+A1 Osher,S.
+YR 2002
+T1 The level set method links active contours
+
+RT Journal Article
+ID 3765822
+A1 Memoli,F.
+A1 Sapiro,G.
+A1 Osher,S.
+YR 2002
+T1 Solving Variational Problems and Partial Equations Mapping into General Target Manifolds
+
+RT Journal Article
+ID 15268207
+A1 Tsai,Yen-Hsi,Richard
+A1 Giga,Yoshikazu
+A1 Osher,Stanley
+YR 2002
+T1 A level set approach for computing discontinuous solutions of Hamilton-Jacobi equations
+JF Mathematics of Computation
+VO 72
+SP 159
+OP 182
+IS 241
+
+RT Journal Article
+ID 18644812
+A1 Osher,Stanley
+A1 Fedkiw,Ronald,P.
+YR 2001
+T1 Level Set Methods: An Overview and Some Recent Results
+JF Journal of Computational Physics
+VO 169
+SP 463
+OP 502
+IS 2
+
+RT Journal Article
+ID 277213
+A1 Chan,Tony,F.
+A1 Osher,Stanley
+A1 Shen,Jianhong
+YR 2001
+T1 The digital TV filter and nonlinear denoising
+JF IEEE Transactions on Image Processing
+VO 10
+SP 231
+OP 241
+IS 2
+
+RT Conference Proceedings
+ID 91467
+A1 Zhao,Hong-Kai
+A1 Osher,Stanley
+A1 Fedkiw,Ronald
+YR 2001
+T1 Fast surface reconstruction using the level set method
+
+RT Journal Article
+ID 221287
+A1 Osher,Stanley
+A1 Santosa,Fadil
+YR 2001
+T1 Level Set Methods for Optimization Problems Involving Geometry and Constraints I. Frequencies of a Two-Density Inhomogeneous Drum
+
+RT Journal Article
+ID 2062398
+A1 Bertalmı́o,Marcelo
+A1 Cheng,Li-Tien
+A1 Osher,Stanley
+A1 Sapiro,Guillermo
+YR 2001
+T1 Variational Problems and Partial Differential Equations on Implicit Surfaces
+JF Journal of Computational Physics
+VO 174
+SP 759
+OP 780
+IS 2
+
+RT Journal Article
+ID 18644840
+A1 Burchard,Paul
+A1 Cheng,Li-Tien
+A1 Merriman,Barry
+A1 Osher,Stanley
+YR 2001
+T1 Motion of Curves in Three Spatial Dimensions Using a Level Set Approach
+JF Journal of Computational Physics
+VO 170
+SP 720
+OP 741
+IS 2
+
+RT Journal Article
+ID 10517043
+A1 Osher,Stanley,J.
+A1 Santosa,Fadil
+YR 2001
+T1 Level Set Methods for Optimization Problems Involving Geometry and Constraints
+JF Journal of Computational Physics
+VO 171
+SP 272
+OP 288
+IS 1
+
+RT Journal Article
+ID 18644790
+A1 Chen,Susan
+A1 Merriman,Barry
+A1 Kang,Myungjoo
+A1 Caflisch,Russel,E.
+A1 Ratsch,Christian
+A1 Cheng,Li-Tien
+A1 Gyure,Mark
+A1 Fedkiw,Ronald,P.
+A1 Anderson,Christopher
+A1 Osher,Stanley
+YR 2001
+T1 A Level Set Method for Thin Film Epitaxial Growth
+JF Journal of Computational Physics
+VO 167
+SP 475
+OP 500
+IS 2
+
+RT Journal Article
+ID 2286850
+A1 Osher,S.
+A1 Santosa,F.
+YR 2001
+T1 Level set methods for optimization problems involving geometry and constraints
+
+RT Journal Article
+ID 2082593
+A1 Chen,Susan
+A1 Merriman,Barry
+A1 Kang,Myungjoo
+A1 Caflisch,Russel,E.
+A1 Ratsch,Christian
+A1 Cheng,Li-Tien
+A1 Gyure,Mark
+A1 Fedkiw,Ronald,P.
+A1 Anderson,Christopher
+A1 Osher,Stanley
+YR 2001
+T1 A Level Set Method for Thin Film Epitaxial Growth1
+
+RT Conference Proceedings
+ID 4059693
+A1 Bertalmio,M.
+A1 Sapiro,G.
+A1 Cheng,Li-Tien
+A1 Osher,S.
+YR 2001
+T1 Variational problems and PDEs on implicit surfaces
+
+RT Conference Proceedings
+ID 163898
+A1 Zhao,Hong-kai
+A1 Osher,Stanley
+A1 Fedkiw,Ronald
+YR 2001
+T1 Implicit Surface Reconstruction and Deformation Using the Level Set Method
+
+RT Journal Article
+ID 76384
+A1 Tsai,Yen-Hsi,Richard
+A1 Giga,Yoshikazu
+A1 Osher,Stanley
+YR 2001
+T1 A Level Set Approach for Computing Discontinuous Solutions of a Class of Hamilton-Jacobi Equations
+JF Mathematics of Computation
+
+RT Journal Article
+ID 16033884
+A1 Ruuth,S.,J.
+A1 Merriman,B.
+A1 Xin,J.
+A1 Osher,S.
+YR 2001
+T1 Diffusion-Generated Motion by Mean Curvature for Filaments
+JF Journal of Nonlinear Science
+VO 11
+SP 473
+OP 493
+IS 6
+
+RT Journal Article
+ID 3323607
+A1 Osher,S.
+A1 Fedkiw,R.,P.
+YR 2001
+T1 Level set methods : overview and recent results
+
+RT Journal Article
+ID 13248796
+A1 Tsai,Yen-Hsi,Richard
+A1 Giga,Yoshikazu
+A1 Osher,Stanley
+YR 2001
+T1 Numerical Methods for Computing Discontinuous
+
+RT Journal Article
+ID 87818
+A1 Fedkiw,Ronald
+A1 Aslam,Tariq
+A1 Merriman,Barry
+A1 Osher,Stanley
+YR 2000
+T1 A Non-Oscillatory Eulerian Approach to Interfaces in Multimaterial Flows (The Ghost Fluid Method)
+JF Journal of Computational Physics
+
+RT Journal Article
+ID 2159490
+A1 Zhao,Hong-kai
+A1 Osher,Stanley
+A1 Merriman,Barry
+A1 Kang,Myungjoo
+YR 2000
+T1 Implicit and Nonparametric Shape Reconstruction from Unorganized Data Using a Variational Level Set Method
+JF Computer Vision and Image Understanding
+VO 80
+SP 295
+OP 314
+IS 3
+
+RT Journal Article
+ID 15208454
+A1 Marquina,Antonio
+A1 Osher,Stanley
+YR 2000
+T1 Explicit Algorithms for a New Time Dependent Model Based on Level Set Motion for Nonlinear Deblurring and Noise Removal
+JF Siam Journal on Scientific Computing
+VO 22
+SP 387
+IS 2
+
+RT Journal Article
+ID 218207
+A1 Cheng,Li-tien
+A1 Burchard,Paul
+A1 Merriman,Barry
+A1 Osher,Stanley
+YR 2000
+T1 Motion of Curves Constrained on Surfaces Using a Level Set Approach
+JF Journal of Computational Physics
+
+RT Journal Article
+ID 247502
+A1 Bertalmio,Marcelo
+A1 Cheng,Li-tien
+A1 Osher,Stanley
+YR 2000
+T1 Variational Problems and Partial Differential Equations on Implicit Surfaces: The Framework and Examples in Image Processing and Pattern Formation
+
+RT Journal Article
+ID 235118
+A1 Burchard,Paul
+A1 Cheng,Li-tien
+A1 Merriman,Barry
+A1 Osher,Stanley
+YR 2000
+T1 Motion of Curves in Three Spatial Dimensions Using a Level Set Approach
+
+RT Journal Article
+ID 2125586
+A1 Osher,S.
+A1 Shen,J.
+YR 2000
+T1 Digitized PDE method for data restoration
+
+RT Journal Article
+ID 361192
+A1 Liao,Guojun
+A1 Liu,Feng
+A1 Pena,Gary,C.,de,la
+A1 Peng,Danping
+A1 Osher,Stanley
+YR 2000
+T1 Level-Set-Based Deformation Methods for Adaptive Grids
+JF Journal of Computational Physics
+VO 159
+SP 103
+OP 122
+IS 1
+
+RT Journal Article
+ID 3459001
+A1 Zhao,H.,K.
+A1 Osher,S.
+A1 Merriman,B.
+A1 Kang,M.
+YR 2000
+T1 Non-parametric shape reconstruction from unorganized data using variational level set method
+JF Computer Vision and Image Understanding
+
+RT Journal Article
+ID 18644726
+A1 Ruuth,Steven,J.
+A1 Merriman,Barry
+A1 Osher,Stanley
+YR 2000
+T1 A Fixed Grid Method for Capturing the Motion of Self-Intersecting Wavefronts and Related PDEs
+JF Journal of Computational Physics
+VO 163
+SP 1
+OP 21
+IS 1
+
+RT Journal Article
+ID 18644629
+A1 Fedkiw,Ronald,P.
+A1 Merriman,Barry
+A1 Osher,Stanley
+YR 2000
+T1 Simplified Discretization of Systems of Hyperbolic Conservation Laws Containing Advection Equations
+JF Journal of Computational Physics
+VO 157
+SP 302
+OP 326
+IS 1
+
+RT Journal Article
+ID 93376
+A1 Chen,Susan
+A1 Merriman,Barry
+A1 Kang,Myungjoo
+A1 Caflisch,Russel,E.
+A1 Ratsch,Christian
+A1 Cheng,Li-tien
+A1 Gyure,Mark
+A1 Fedkiw,Ronald,P.
+A1 Osher,Stanley
+YR 2000
+T1 A Level Set Method for Thin Film Epitaxial Growth
+
+RT Journal Article
+ID 176217
+A1 Bertalmio,Marcelo
+A1 Sapiro,Guillermo
+A1 Cheng,Li-Tien
+A1 Osher,Stanley
+YR 2000
+T1 A Framework for Solving Surface Partial Differential Equations for Computer Graphics Applications
+
+RT Journal Article
+ID 15268037
+A1 Osher,Stanley
+YR 2000
+T1 Book Review: Level set methods and fast marching methods: evolving interfaces in computational geometry, fluid mechanics, computer vision, and materials science
+JF Mathematics of Computation
+VO 70
+SP 449
+OP 452
+IS 233
+
+RT Journal Article
+ID 4061229
+A1 Bertalmio,M.
+A1 Cheng,L.,T.
+A1 Osher,S.
+YR 2000
+T1 Variational problems and partial difierential equations on implicit surfaces
+
+RT Journal Article
+ID 87746
+A1 Fedkiw,Ronald,P.
+A1 Liu,Xu-dong
+A1 Osher,Stanley
+YR 2000
+T1 A General Technique for Eliminating Spurious Oscillations in Conservative Schemes for Multiphase and Multispecies Euler Equations
+
+RT Journal Article
+ID 100691
+A1 Peng,Danping
+A1 Merriman,Barry
+A1 Osher,Stanley
+A1 Zhao,Hongkai
+A1 Kang,Myungjoo
+YR 1999
+T1 A PDE-Based Fast Local Level Set Method
+JF Journal of Computational Physics
+VO 155
+SP 410
+OP 438
+IS 2
+
+RT Journal Article
+ID 402840
+A1 Marquina,Antonio
+A1 Osher,Stanley
+YR 1999
+T1 Explicit Algorithms For A New Time Dependent Model Based On Level Set Motion For Nonlinear Deblurring And Noise Removal
+JF Siam Journal on Scientific Computing
+
+RT Journal Article
+ID 2045545
+A1 Zinck,J.,J.
+A1 Gyure,M.
+A1 Merriman,B.
+A1 Osher,S.
+A1 Ratsch,C.
+A1 Vvedensky,D.
+A1 Zink,J.
+YR 1999
+T1 Island dynamics and the level set method for epitaxial growth
+JF Applied Mathematics Letters
+VO 12
+SP 13
+OP 22
+IS 4
+
+RT Book, Whole
+ID 674125
+A1 Marquina,Antonio
+A1 Osher,Stanley
+YR 1999
+T1 A New Time Dependent Model Based on Level Set Motion for Nonlinear Deblurring and Noise Removal
+SP 429
+OP 434
+
+RT Journal Article
+ID 292299
+A1 Ruuth,Steven,J.
+A1 Merriman,Barry
+A1 Osher,Stanley
+YR 1999
+T1 A Fixed Grid Method for Capturing the Motion of Self-Intersecting Interfaces and Related PDEs
+
+RT Journal Article
+ID 65427
+A1 Hwang,P.
+A1 Fedkiw,R.,P.
+A1 Merriman,B.
+A1 Aslam,T.,D.
+A1 Karagozian,A.,R.
+A1 Osher,S.,J.
+YR 1999
+T1 Numerical Resolution Of Pulsating Detonation Waves
+
+RT Journal Article
+ID 18644550
+A1 Ruuth,Steven,J
+A1 Merriman,Barry
+A1 Osher,Stanley
+YR 1999
+T1 Convolution-Generated Motion as a Link between Cellular Automata and Continuum Pattern Dynamics
+JF Journal of Computational Physics
+VO 151
+SP 836
+OP 861
+IS 2
+
+RT Journal Article
+ID 3323608
+A1 Merriman,B.
+A1 Caflisch,R.
+A1 Osher,S.
+YR 1999
+T1 Level Set Methods with an Application to Modelling the Growth of Thin Films
+
+RT Journal Article
+ID 2601712
+A1 Fedkiw,R.,P.
+A1 Aslam,T.
+A1 Merriman,B.
+A1 Osher,S.
+YR 1999
+T1 A non-oscillatory Eulerian approach to interfaces in mul-timaterial ows
+
+RT Journal Article
+ID 6222265
+A1 Qian,Jianliang
+A1 Osher,Stanley
+YR 1999
+T1 Level set based Eulerian methods for multivalued traveltimes in both isotropic and anisotropic media
+JF Seg Technical Program Expanded Abstracts
+VO 22
+SP 1801
+IS 1
+
+RT Journal Article
+ID 18252315
+A1 Miller,B.
+A1 Merriman,B.
+A1 Rafique,K.
+A1 Osher,S.
+A1 Noushkam,N.
+A1 Spletzer,A.
+YR 1999
+T1 Vapor–liquid interfacial dynamics and related liquid nitrogen boiling on perforated plates 1 Paper presented at the 1997 Space Cryogenics Workshop, Eugene, OR, USA, 4–5 August 1997. 1
+JF Cryogenics
+VO 39
+SP 389
+OP 397
+IS 4
+
+RT Journal Article
+ID 55928496
+A1 Miller,B.
+A1 Merriman,B.
+A1 Rafique,K.
+A1 Osher,S.
+YR 1999
+T1 Vapor-liquid interfacial dynamics and related liquid nitrogen boiling on perforated plates
+JF Cryogenics
+VO 39
+SP 389
+OP 397
+
+RT Journal Article
+ID 115136
+A1 TASDIZEN,TOLGA
+A1 WHITAKER,ROSS
+A1 BURCHARD,PAUL
+A1 OSHER,STANLEY
+YR 1998
+T1 Geometric Surface Processing via Normal Maps
+JF ACM Transactions on Graphics
+
+RT Journal Article
+ID 241068
+A1 Sussman,Mark
+A1 Fatemi,Emad
+A1 Smereka,Peter
+A1 Osher,Stanley
+YR 1998
+T1 An improved level set method for incompressible two-phase flows
+JF Computers & Fluids
+VO 27
+SP 663
+OP 680
+IS 5
+
+RT Journal Article
+ID 322244
+A1 Zhao,Hong-kai
+A1 Osher,Stanley
+A1 Merriman,Barry
+A1 Kang,Myungjoo
+YR 1998
+T1 Implicit, Nonparametric Shape Reconstruction from Unorganized Points Using A Variational Level Set Method
+JF Computer Vision and Image Understanding
+
+RT Journal Article
+ID 159962
+A1 JIANG,G.-S.
+A1 LEVY,D.
+A1 LIN,C.-T.
+A1 OSHER,S.
+A1 TADMOR,E.
+A1 NUMER,SIAM,J.
+YR 1998
+T1 HIGH-RESOLUTION NONOSCILLATORY CENTRAL SCHEMES WITH NONSTAGGERED GRIDS FOR HYPERBOLIC CONSERVATION LAWS
+
+RT Journal Article
+ID 387769
+A1 Harabetian,Eduard
+A1 Osher,Stanley
+YR 1998
+T1 Regularization of Ill-Posed Problems Via the Level Set Approach
+JF Siam Journal on Applied Mathematics
+VO 58
+SP 1689
+IS 6
+
+RT Journal Article
+ID 312156
+A1 Zhao,Hong-Kai
+A1 Merriman,Barry
+A1 Osher,Stanley
+A1 Wang,Lihe
+YR 1998
+T1 Capturing the Behavior of Bubbles and Drops Using the Variational Level Set Approach
+JF Journal of Computational Physics
+VO 143
+SP 495
+OP 518
+IS 2
+
+RT Journal Article
+ID 18644377
+A1 Liu,Xu-Dong
+A1 Osher,Stanley
+YR 1998
+T1 Convex ENO High Order Multidimensional Schemes without Field by Field Decomposition or Staggered Grids
+JF Journal of Computational Physics
+VO 142
+SP 304
+OP 330
+IS 2
+
+RT Journal Article
+ID 16456581
+A1 Jiang,G.,S.
+A1 Levy,D.
+A1 Lin,C.,T.
+A1 Osher,S.
+A1 Tadmor,E.
+YR 1998
+T1 High-Resolution Nonoscillatory Central Schemes with Nonstaggered Grids for Hyperbolic Conservation Laws
+JF Siam Journal on Numerical Analysis
+VO 35
+SP 2147
+IS 6
+
+RT Journal Article
+ID 3323603
+A1 Gyure,Mark,F.
+A1 Ratsch,Christian
+A1 Merriman,Barry
+A1 Caflisch,Russel,E.
+A1 Osher,Stanley
+A1 Zinck,Jennifer,J.
+A1 Vvedensky,Dimitri,D.
+YR 1998
+T1 Level-set methods for the simulation of epitaxial phenomena
+JF Physical Review E
+VO 58
+SP 6927
+IS 6
+
+RT Journal Article
+ID 293677
+A1 Fedkiw,Ronald,P.
+A1 Merriman,Barry
+A1 Osher,Stanley
+YR 1998
+T1 Efficient Characteristic Projection in Upwind Difference Schemes for Hyperbolic Systems
+JF Journal of Computational Physics
+VO 141
+SP 22
+OP 36
+IS 1
+
+RT Journal Article
+ID 336315
+A1 Peng,Danping
+A1 Osher,Stanley
+A1 Merriman,Barry
+A1 Zhao,Hong-kai
+YR 1998
+T1 The Geometry of Wulff Crystal Shapes and Its Relations with Riemann Problems
+
+RT Journal Article
+ID 86734
+A1 Fedkiw,R.
+A1 Merriman,B.
+A1 Osher,S.
+YR 1998
+T1 Numerical Methods For A One-Dimensional Interface Separating Compressible And Incompressible Flows
+
+RT Journal Article
+ID 314219
+A1 Ruuth,Steven,J.
+A1 Merriman,Barry
+A1 Xin,Jack
+A1 Osher,Stanley
+YR 1998
+T1 Diffusion-Generated Motion by Mean Curvature for Filaments
+
+RT Journal Article
+ID 84722
+A1 Merriman,Barry
+A1 Fedkiw,Ronald,P.
+A1 Osher,Stanley
+YR 1998
+T1 Simplified Discretization of Systems of Hyperbolic Conservation Laws Containing Advection Equations
+
+RT Journal Article
+ID 3939223
+A1 Fedkiw,R.
+A1 Merriman,B.
+A1 Donat,R.
+A1 Osher,S.
+YR 1998
+T1 The Penultimate Scheme for Systems of Conservation Laws:Finite Difference ENO with Marquina''s Flux
+
+RT Journal Article
+ID 318700
+A1 Ruuth,Steven,J.
+A1 Merriman,Barry
+A1 Osher,Stanley
+YR 1998
+T1 Convolution Generated Motion as a Link Between Cellular Automata and Continuum Pattern Dynamics
+
+RT Journal Article
+ID 380485
+A1 Merriman,Barry
+A1 Caflisch,Russel
+A1 Osher,Stanley
+YR 1998
+T1 Level Set Methods, with an Application to Modeling the Growth of Thin Films
+
+RT Journal Article
+ID 2996656
+A1 Fedkiw,R.,P.
+A1 Merriman,B.
+A1 Osher,S.
+YR 1998
+T1 Efficient characteristic projection in upwind difference schemes for hyperbolic systems
+
+RT Journal Article
+ID 378855
+A1 Chen,S.
+A1 Merriman,B.
+A1 Osher,S.
+A1 Smereka,P.
+YR 1997
+T1 A Simple Level Set Method For Solving Stefan Problems
+
+RT Journal Article
+ID 337136
+A1 Hou,Thomas,Y.
+A1 Li,Zhilin
+A1 Osher,Stanley
+A1 Zhao,Hongkai
+YR 1997
+T1 A Hybrid Method for Moving Interface Problems with Application to the Hele–Shaw Flow
+JF Journal of Computational Physics
+VO 134
+SP 236
+OP 252
+IS 2
+
+RT Journal Article
+ID 2096939
+A1 Fedkiw,Ronald,P.
+A1 Merriman,Barry
+A1 Osher,Stanley
+YR 1997
+T1 High Accuracy Numerical Methods for Thermally Perfect Gas Flows with Chemistry
+JF Journal of Computational Physics
+VO 132
+SP 175
+OP 190
+IS 2
+
+RT Journal Article
+ID 356872
+A1 Liu,Xu-dong
+A1 Osher,Stanley
+YR 1997
+T1 Convex ENO High Order Multidimensional Schemes Without Field by Field Decomposition or Staggered Grids
+
+RT Journal Article
+ID 2051014
+A1 Osher,Stanley
+A1 Merriman,Barry
+YR 1997
+T1 The Wulff shape as the asymptotic limit of a growing crystalline interface
+
+RT Journal Article
+ID 18644162
+A1 Harten,Ami
+A1 Engquist,Bjorn
+A1 Osher,Stanley
+A1 Chakravarthy,Sukumar,R.
+YR 1997
+T1 Uniformly High Order Accurate Essentially Non-oscillatory Schemes, III
+JF Journal of Computational Physics
+VO 131
+SP 3
+OP 47
+IS 1
+
+RT Journal Article
+ID 18644233
+A1 Chen,S.
+A1 Merriman,B.
+A1 Osher,S.
+A1 Smereka,P.
+YR 1997
+T1 A Simple Level Set Method for Solving Stefan Problems
+JF Journal of Computational Physics
+VO 135
+SP 8
+OP 29
+IS 1
+
+RT Journal Article
+ID 91150
+A1 Zhao,Hong-kai
+A1 Chan,T.
+A1 Merriman,B.
+A1 Osher,S.
+YR 1996
+T1 A Variational Level Set Approach to Multiphase Motion
+
+RT Journal Article
+ID 2081689
+A1 Chang,Y.,C.
+A1 Hou,T.,Y.
+A1 Merriman,B.
+A1 Osher,S.
+YR 1996
+T1 A Level Set Formulation of Eulerian Interface Capturing Methods for Incompressible Fluid Flows
+JF Journal of Computational Physics
+VO 124
+SP 449
+OP 464
+IS 2
+
+RT Journal Article
+ID 106387
+A1 Liu,Xu-Dong
+A1 Osher,Stanley
+YR 1996
+T1 Nonoscillatory High Order Accurate Self-Similar Maximum Principle Satisfying Shock Capturing Schemes I
+JF Siam Journal on Numerical Analysis
+VO 33
+SP 760
+IS 2
+
+RT Journal Article
+ID 2703155
+A1 SUSSMAN,MARK
+A1 FATEMI,EMAD
+A1 SMEREKA,PETER
+A1 OSHER,STANLEY
+YR 1996
+T1 AN IMPROVED LEVEL SET METHOD FOR INCOMPRESSIBLE TWO-PHASE FLOWS
+
+RT Journal Article
+ID 18644068
+A1 Harabetian,Eduard
+A1 Osher,Stanley
+A1 Shu,Chi-Wang
+YR 1996
+T1 An Eulerian Approach for Vortex Motion Using a Level Set Regularization Procedure
+JF Journal of Computational Physics
+VO 127
+SP 15
+OP 26
+IS 1
+
+RT Journal Article
+ID 3053410
+A1 Chang,Y.,C.
+A1 Hou,T.
+A1 Merriman,B.
+A1 Osher,S.
+YR 1996
+T1 Eulerian capturing methods based on a level set formulation for incompressible 掳uid interfaces
+
+RT Journal Article
+ID 18644070
+A1 Zhao,Hong-Kai
+A1 Chan,T.
+A1 Merriman,B.
+A1 Osher,S.
+YR 1996
+T1 A Variational Level Set Approach to Multiphase Motion
+JF Journal of Computational Physics
+VO 127
+SP 179
+OP 195
+IS 1
+
+RT Journal Article
+ID 18643979
+A1 Lafon,F.
+A1 Osher,S.
+YR 1996
+T1 High Order Two Dimensional Nonoscillatory Methods for Solving Hamilton–Jacobi Scalar Equations
+JF Journal of Computational Physics
+VO 123
+SP 235
+OP 253
+IS 2
+
+RT Journal Article
+ID 2698054
+A1 Harabetian,E.
+A1 Osher,S.
+A1 Shu,C.,W.
+YR 1996
+T1 An Eulerian Approach for Vortex Motion Using a Level Set Approach
+
+RT Journal Article
+ID 3471883
+A1 Fatemi,E.
+A1 Engquist,B.
+A1 Osher,S.
+YR 1995
+T1 Numerical Solution of the High Frequency Asymptotic Expansion for the Scalar Wave Equation
+JF Journal of Computational Physics
+VO 120
+SP 145
+OP 155
+IS 1
+
+RT Journal Article
+ID 2582368
+A1 Chang,Y.,C.
+A1 Hou,T.,Y.
+A1 Merriman,B.
+A1 Osher,S.
+YR 1995
+T1 A level set formulation of eulerian interface capturing methods for incompressible uid ows
+
+RT Journal Article
+ID 52886940
+A1 Sussman,M.
+A1 Fatemi,E.
+A1 Osher,S.
+A1 Smereka,P.
+YR 1995
+T1 A level set approach for computing solutions to incompressible two-phase flow 2
+
+RT Journal Article
+ID 2011034
+A1 Sussman,Mark
+A1 Smereka,Peter
+A1 Osher,Stanley
+YR 1994
+T1 a Level Set Approach for Computing Solutions to Incompressible Two-Phase Flow
+JF Journal of Computational Physics
+VO 114
+SP 146
+OP 159
+IS 1
+
+RT Journal Article
+ID 93529
+A1 Liu,Xu-dong
+A1 Osher,Stanley
+A1 Chan,Tony
+YR 1994
+T1 Weighted Essentially Non-Oscillatory Schemes
+
+RT Conference Proceedings
+ID 528683
+A1 Rudin,Leonid,I.
+A1 Osher,Stanley
+YR 1994
+T1 Total Variation Based Image Restoration with Free Local Constraints
+SP 31
+OP 35
+
+RT Journal Article
+ID 2049141
+A1 Sussman,M.
+A1 Smereka,P.
+A1 Osher,S.
+YR 1994
+T1 A Level Set Method for Computing Solutions to incomprenissible Two-Phase Flow
+
+RT Journal Article
+ID 3417244
+A1 Merriman,B.
+A1 Bence,J.,K.
+A1 Osher,S.,J.
+YR 1994
+T1 Motion of multiple functions: a level set approach
+
+RT Journal Article
+ID 18643753
+A1 Liu,Xu-Dong
+A1 Osher,Stanley
+A1 Chan,Tony
+YR 1994
+T1 Weighted Essentially Non-oscillatory Schemes
+JF Journal of Computational Physics
+VO 115
+SP 200
+OP 212
+IS 1
+
+RT Journal Article
+ID 18643698
+A1 Merriman,Barry
+A1 Bence,James,K.
+A1 Osher,Stanley,J.
+YR 1994
+T1 Motion of Multiple Junctions: A Level Set Approach
+JF Journal of Computational Physics
+VO 112
+SP 334
+OP 363
+IS 2
+
+RT Journal Article
+ID 2766530
+A1 Sussman,Mark
+A1 Smereka,Peter
+A1 Osher,Stanley
+YR 1994
+T1 Axisymmetric free boundary problems
+
+RT Journal Article
+ID 15208040
+A1 Engquist,Bjorn
+A1 Osher,Stanley
+A1 Zhong,Sifen
+YR 1994
+T1 Fast Wavelet Based Algorithms for Linear Evolution Equations
+JF Siam Journal on Scientific Computing
+VO 15
+SP 755
+IS 4
+
+RT Journal Article
+ID 18073722
+A1 Ton,V.,T.
+A1 Karagozian,A.,R.
+A1 Marble,F.,E.
+A1 Osher,S.,J.
+A1 Engquist,B.,E.
+YR 1994
+T1 Numerical simulations of high-speed chemically reacting flow
+JF Theoretical and Computational Fluid Dynamics
+VO 6
+SP 161
+OP 179
+IS 2
+
+RT Journal Article
+ID 2582354
+A1 Sussman,M.
+A1 Smereka,P.
+A1 Osher,S.
+YR 1994
+T1 A level set approach to computing solutions to incompressible two-掳ow
+
+RT Journal Article
+ID 51308854
+A1 Ton,V.,T.
+A1 Karagozian,A.,R.
+A1 Marble,F.,E.
+A1 Osher,S.,J.
+A1 Engquist,B.,E.
+YR 1994
+T1 Numerical simulations of high-speed chemically reacting flow
+JF Theoretical and Computational Fluid Dynamics
+VO 6
+SP 161
+OP 179
+
+RT Journal Article
+ID 54453578
+A1 Osher,Stanley
+A1 Jiang,A.
+A1 Engquist,Bjorn
+YR 1994
+T1 Refinement of fast wavelet-based algorithms for linear initial value problems
+VO 2242
+SP 10
+OP 13
+
+RT Journal Article
+ID 52886941
+A1 Osher,Stanley
+A1 Rudin,Leonid
+YR 1994
+T1 Feature-oriented image reconstruction and aero-optic metrology in turbulence
+
+RT Journal Article
+ID 52894721
+A1 Rudin,Leonid
+A1 Osher,Stanley
+YR 1994
+T1 Accurate feature detection and estimation using nonlinear and multiresolution analysis
+
+RT Journal Article
+ID 2007855
+A1 Sussman,M.
+A1 Smereka,P.
+A1 Osher,S.
+YR 1993
+T1 A level set approach for computing solutions to incompressible two-phase ow
+
+RT Journal Article
+ID 2007859
+A1 Osher,Stanley
+YR 1993
+T1 A Level Set Formulation for the Solution of the Dirichlet Problem for Hamilton–Jacobi Equations
+JF Siam Journal on Mathematical Analysis
+VO 24
+SP 1145
+IS 5
+
+RT Journal Article
+ID 2956954
+A1 Merriman,B.
+A1 Bence,J.
+A1 Osher,S.
+YR 1993
+T1 Di usion Generated Motion by Mean Curvature
+
+RT Journal Article
+ID 3495915
+A1 Chayes,J.,T.
+A1 Osher,S.,J.
+A1 Ralston,J.,V.
+YR 1993
+T1 On singular diffusion equations with applications to self-organized criticality
+JF Communications on Pure and Applied Mathematics
+
+RT Journal Article
+ID 54082857
+A1 Osher,Stanley
+A1 Engquist,Bjorn
+A1 Zhong,Sifen
+A1 Jiang,A.
+YR 1993
+T1 Wavelet-based algorithms for linear initial-value problems
+VO 2033
+SP 126
+OP 128
+
+RT Journal Article
+ID 58805566
+A1 Chen,W.,H.
+A1 Durlofsky,L.,J.
+A1 Engquist,B.
+A1 Osher,S.
+YR 1993
+T1 Minimization of Grid Orientation Effects Through Use of Higher Order Finite Difference Methods
+
+RT Conference Proceedings
+ID 1257928
+A1 Rudin,Leonid,I.
+A1 Osher,Stanley
+A1 Fatemi,Emad
+YR 1992
+T1 Nonlinear total variation based noise removal algorithms
+
+RT Journal Article
+ID 2007808
+A1 Mulder,W.
+A1 Osher,S.
+A1 Sethan,James,A.
+YR 1992
+T1 Computing interface motion in compressible gas dynamics
+JF Journal of Computational Physics
+VO 100
+SP 209
+OP 228
+IS 2
+
+RT Journal Article
+ID 18335859
+A1 Rudin,Leonid,I.
+A1 Osher,Stanley
+A1 Fatemi,Emad
+YR 1992
+T1 Nonlinear total variation based noise removal algorithms
+JF Physica D-nonlinear Phenomena
+VO 60
+SP 259
+OP 268
+IS 1-4
+
+RT Journal Article
+ID 2411186
+A1 Durlofsky,Louis,J.
+A1 Engquist,Bjorn
+A1 Osher,Stanley
+YR 1992
+T1 Triangle Based Adaptive Stencils for the Solution of Hyperbolic Conservation Laws
+JF Journal of Computational Physics
+VO 98
+SP 64
+OP 73
+IS 1
+
+RT Journal Article
+ID 2956953
+A1 Merriman,B.
+A1 Bence,J.
+A1 Osher,S.
+YR 1992
+T1 Di usion generated motion by mean curvature
+
+RT Journal Article
+ID 3091234
+A1 Engquist,B.
+A1 Osher,S.
+A1 Zhong,S.
+YR 1992
+T1 Fast wavelet based algorithms for linear evolution equations
+
+RT Journal Article
+ID 56482913
+A1 Mankovich,Nicholas,J.
+A1 Rudin,Leonid,I.
+A1 Koepfler,Georges
+A1 Morel,Jean-Michel
+A1 Osher,Stanley
+YR 1992
+T1 Application of a new pyramidal segmentation algorithm to medical images
+VO 1652
+SP 23
+OP 30
+
+RT Journal Article
+ID 2001256
+A1 Osher,Stanley
+A1 Shu,Chi-Wang
+YR 1991
+T1 High-Order Essentially Nonoscillatory Schemes for Hamilton–Jacobi Equations
+JF Siam Journal on Numerical Analysis
+VO 28
+SP 907
+IS 4
+
+RT Journal Article
+ID 2607535
+A1 Peng,Danping
+A1 Merriman,Barry
+A1 Osher,Stanley
+A1 Zhao,Hongkai
+A1 Kang,Myungjoo
+YR 1991
+T1 A PDE-Based Fast Local Level Set Method1
+
+RT Journal Article
+ID 958231
+A1 Fatemi,Emad
+A1 Jerome,Joseph,W.
+A1 Osher,Stanley
+YR 1991
+T1 Solution of the hydrodynamic device model using high-order nonoscillatory shock capturing algorithms
+JF IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems
+VO 10
+SP 232
+OP 244
+IS 2
+
+RT Journal Article
+ID 3184029
+A1 Osher,S.
+A1 Shu,C.,W.
+YR 1991
+T1 High-order essential nonoscillatory schemes for Hamilton-Jacobi equations
+
+RT Journal Article
+ID 2016275
+A1 Bardi,M.
+A1 Osher,S.
+YR 1991
+T1 THE NONCONVEX MULTIDIMENSIONAL RIEMANN PROBLEM FOR HAMILTON-JACOBI EQUATIONS
+
+RT Journal Article
+ID 18643024
+A1 Lafon,F.
+A1 OSHER,S
+YR 1991
+T1 High order filtering methods for approximating hyperbolic systems for conservation laws
+JF Journal of Computational Physics
+VO 93
+SP 250
+OP 251
+IS 1
+
+RT Journal Article
+ID 16452238
+A1 Bardi,Martino
+A1 Osher,Stanley
+YR 1991
+T1 The Nonconvex Multidimensional Riemann Problem for Hamilton–Jacobi Equations
+JF Siam Journal on Mathematical Analysis
+VO 22
+SP 344
+IS 2
+
+RT Journal Article
+ID 2015660
+A1 Osher,Stanley
+A1 Rudin,Leonid,I.
+YR 1991
+T1 Shocks and other nonlinear filtering applied to image processing
+VO 1567
+SP 414
+OP 431
+
+RT Journal Article
+ID 18643110
+A1 Lafon,F.
+A1 Osher,S.
+YR 1991
+T1 High order filtering methods for approximating hyperbolic systems of conservation laws
+JF Journal of Computational Physics
+VO 96
+SP 110
+OP 142
+IS 1
+
+RT Journal Article
+ID 1980274
+A1 Osher,S.
+A1 Rudin,L.,I.
+YR 1990
+T1 Feature-oriented image enhancement using shock filters
+
+RT Journal Article
+ID 16456020
+A1 Osher,Stanley
+A1 Rudin,Leonid,I.
+YR 1990
+T1 Feature-Oriented Image Enhancement Using Shock Filters
+JF Siam Journal on Numerical Analysis
+VO 27
+SP 919
+OP 940
+IS 4
+
+RT Journal Article
+ID 46549799
+A1 Donat,R.
+A1 Osher,S.
+YR 1990
+T1 Propagation of error into regions of smoothness for non-linear approximations to hyperbolic equations
+JF Computer Methods in Applied Mechanics and Engineering
+VO 80
+SP 59
+OP 64
+IS 1-3
+
+RT Journal Article
+ID 60435613
+A1 Durlofsky,L.,J.
+A1 Osher,S.
+A1 Engquist,B.
+YR 1990
+T1 Triangle based TVD schemes for hyperbolic conservation laws. Final report
+
+RT Journal Article
+ID 51972663
+A1 Osher,S.
+A1 Shu,C.,W.
+YR 1990
+T1 High Order Accurate Modern Numerical Methods Applicable to Stellar Pulsations
+
+RT Journal Article
+ID 60380760
+A1 Lafon,F.
+A1 Osher,S.
+YR 1990
+T1 High order filtering methods for approximating hyberbolic systems of conservation laws. Final report
+
+RT Journal Article
+ID 2063487
+A1 Shu,C.,W
+A1 Osher,S.
+YR 1989
+T1 Efficient implementation of essentially non-oscillatory shock-capturing schemes
+
+RT Journal Article
+ID 18642725
+A1 Shu,Chi-Wang
+A1 Osher,Stanley
+YR 1989
+T1 Efficient Implementation of Essentially Non-oscillatory Shock-Capturing Schemes, II
+JF Journal of Computational Physics
+VO 83
+SP 32
+OP 78
+IS 1
+
+RT Journal Article
+ID 61242454
+A1 Fatemi,E.
+A1 Jerome,J.
+A1 Osher,S.
+YR 1989
+T1 Solution of the hydrodynamic device model using high-order non-oscillatory shock capturing algorithms. Final report
+
+RT Journal Article
+ID 55904606
+A1 Osher,Stanley
+A1 Shu,Chi-Wang
+YR 1989
+T1 Recent progress on essentially non-oscillatory shock capturing schemes
+
+RT Journal Article
+ID 288497
+A1 Osher,Stanley
+A1 Sethian,J.,a.
+YR 1988
+T1 Fronts Propagating with Curvature Dependent Speed: Algorithms Based on Hamilton-Jacobi Formulations
+JF Journal of Computational Physics
+VO 79
+SP 12
+
+RT Journal Article
+ID 2015315
+A1 Shu,C.
+A1 Osher,S.
+YR 1988
+T1 Efficient Implementation of Essentially Non-Oscillatory Shock-Capturing Schemes
+
+RT Journal Article
+ID 18642596
+A1 Shu,Chi-Wang
+A1 Osher,Stanley
+YR 1988
+T1 Efficient Implementation of Essentially Non-oscillatory Shock-Capturing Schemes
+JF Journal of Computational Physics
+VO 77
+SP 439
+OP 471
+IS 2
+
+RT Journal Article
+ID 15266244
+A1 Osher,Stanley
+A1 Tadmor,Eitan
+YR 1988
+T1 On the Convergence of Difference Approximations to Scalar Conservation Laws
+JF Mathematics of Computation
+VO 50
+SP 19
+IS 181
+
+RT Journal Article
+ID 3125827
+A1 Osher,S.
+A1 Sethian,J.,A.
+YR 1988
+T1 Fronts moving with curvature dependent speed: algorithms based on Hamilton-Jacobi equations J
+
+RT Journal Article
+ID 3125843
+A1 Osher,S.
+A1 Sethian,J.
+YR 1988
+T1 Fronts propagating with curvature speed: algorithms based on Hamilton-Jacobi formulations
+
+RT Journal Article
+ID 2045179
+A1 Osher,Stanley
+A1 Sethian,James,A.
+YR 1988
+T1 Algorithms Based on Hamilton-Jacobi Formulations
+
+RT Journal Article
+ID 16455854
+A1 Brenier,Yann
+A1 Osher,Stanley
+YR 1988
+T1 The Discrete One-Sided Lipschitz Condition for Convex Scalar Conservation Laws
+JF Siam Journal on Numerical Analysis
+VO 25
+SP 8
+OP 23
+IS 1
+
+RT Journal Article
+ID 3159453
+A1 Osher,S.
+A1 Sethian,J.
+YR 1988
+T1 Gradient ows and geometric active contour models
+
+RT Journal Article
+ID 15266367
+A1 Osher,Stanley
+A1 Tadmor,Eitan
+YR 1988
+T1 On the convergence of difference approximations to scalar conservation laws
+JF Mathematics of Computation
+VO 50
+SP 19
+OP 19
+IS 181
+
+RT Journal Article
+ID 55989477
+A1 Osher,Stanley
+A1 Shu,Chi-Wang
+YR 1988
+T1 Essentially non-oscillatory shock capturing methods applied to turbulence amplification in shock wave calculations
+
+RT Journal Article
+ID 18642448
+A1 Harten,Ami
+A1 Engquist,Bjorn
+A1 Osher,Stanley
+A1 Chakravarthy,Sukumar,R.
+YR 1987
+T1 UNIFORMLY HIGH-ORDER ACCURATE ESSENTIALLY NONOSCILLATORY SCHEMES.3
+VO 71
+SP 231
+OP 303
+IS 2
+
+RT Journal Article
+ID 4038596
+A1 Harten,Ami
+A1 Osher,Stanley
+YR 1987
+T1 Uniformly High-Order Accurate Nonoscillatory Schemes. I
+JF Siam Journal on Numerical Analysis
+VO 24
+SP 279
+OP 309
+IS 2
+
+RT Journal Article
+ID 2021791
+A1 Harten,A.
+A1 Engquist,B.
+A1 Osher,S.
+A1 Chakravarthy,S.
+YR 1987
+T1 Uniformly high order accurate essentially nonoscillatory scheme
+
+RT Journal Article
+ID 2063490
+A1 Harten,A.
+A1 Engquist,B.
+A1 Osher,S.
+A1 Chakravarthy,S.
+YR 1987
+T1 Uniformly high order essentially non-oscillatory schemes
+
+RT Journal Article
+ID 4038591
+A1 Harten,A.
+A1 Engquist,B.
+A1 Osher,S.
+A1 Chakravarthy,S.,R.
+YR 1987
+T1 Uniformly high order accuracy essentially non-oscillatory schemes III
+
+RT Journal Article
+ID 27259767
+A1 Hafez,M.
+A1 Osher,S.
+A1 Jr.,W.,Whitlow
+YR 1987
+T1 Improved finite-difference schemes for transonic potential flow calculations
+JF Aiaa Journal
+VO 25
+SP 1456
+OP 1462
+IS 11
+
+RT Journal Article
+ID 27259808
+A1 Shankar,Vijaya
+A1 Gorski,Joseph
+A1 Ide,Hiroshi
+A1 Osher,Stanley
+YR 1987
+T1 A fast, time-accurate, unsteady full potential scheme
+JF Aiaa Journal
+VO 25
+SP 230
+OP 238
+IS 2
+
+RT Journal Article
+ID 26673200
+A1 Whitlowjr,W.
+A1 Hafez,M.
+A1 Osher,S.
+YR 1987
+T1 An entropy correction method for unsteady full potential flows with strong shocks
+JF Journal of Fluids and Structures
+VO 1
+SP 401
+OP 414
+IS 4
+
+RT Journal Article
+ID 61392542
+A1 Osher,S.
+A1 Sethian,J.,A.
+YR 1987
+T1 Fronts propagating with curvature dependent speed: algorithms based on Hamilton-Jacobi formulations. Final report
+
+RT Journal Article
+ID 27259799
+A1 Chakravarthy,S.,R.
+A1 Osher,S.
+YR 1987
+T1 Numerical experiments with the Osher upwind scheme for the Euler equations
+JF Aiaa Journal
+VO 25
+SP 1629
+OP 1631
+IS 12
+
+RT Journal Article
+ID 2047761
+A1 Harten,Ami
+A1 Osher,Stanley
+A1 Chakravarthy,Sukumar,R.
+YR 1986
+T1 Some results on uniformly high-order accurate essentially nonoscillatory schemes
+JF Applied Numerical Mathematics
+VO 2
+SP 347
+OP 377
+IS 3-5
+
+RT Journal Article
+ID 4065807
+A1 Osher,Stanley
+A1 Chakravarthy,Sukumar
+YR 1986
+T1 Very High Order Accurate TVD Schemes
+
+RT Journal Article
+ID 54713167
+A1 Harten,A.
+A1 Osher,S.
+A1 Engquist,B.
+A1 Chakravarthy,S.,R.
+YR 1986
+T1 Some results on uniformly high order accurate essentially non-oscillatory schemes
+
+RT Journal Article
+ID 3046757
+A1 Chakravarthy,S.,K.
+A1 Harten,A.
+A1 Osher,S.
+YR 1986
+T1 Essentially nonoscil-latory shock-capturing schemes of arbitrarily-high accuracy
+
+RT Journal Article
+ID 18700716
+A1 Gallavotti,G.
+A1 Beale,J.,Thomas
+A1 DiPerna,Ronald,J.
+A1 Dubois,M.
+A1 Eckmann,J.-P.
+A1 Franceschini,Valter
+A1 Ghil,M.
+A1 Giglio,M.
+A1 Kopell,N.
+A1 Lanford,Oscar,E.
+A1 Lebowitz,Joel,L.
+A1 Legras,B.
+A1 Libchaber,A.
+A1 Mullhaupt,A.
+A1 Osher,Stanley,J.
+A1 Parisi,G.
+A1 Pulvirenti,M.
+A1 Rost,Hermann
+A1 Ruelle,D.
+A1 Scheffer,Vladimir
+A1 Spohn,H.
+YR 1986
+T1 Abstracts from the international conference on mathematical problems from the physics of fluids
+JF Journal of Statistical Physics
+VO 44
+SP 1007
+OP 1067
+IS 5
+
+RT Journal Article
+ID 16455714
+A1 Brenier,Yann
+A1 Osher,Stanley
+YR 1986
+T1 Approximate Riemann Solvers and Numerical Flux Functions
+JF Siam Journal on Numerical Analysis
+VO 23
+SP 259
+OP 273
+IS 2
+
+RT Journal Article
+ID 54876472
+A1 Chakravarthy,S.,R.
+A1 Harten,A.
+A1 Osher,S.
+YR 1986
+T1 Essentially non-oscillatory shock-capturing schemes of arbitrarily-high accuracy
+
+RT Journal Article
+ID 60403306
+A1 Brenier,Y.
+A1 Osher,S.
+YR 1986
+T1 Discrete one-sided Lipschitz condition for convex scalar conservation laws. Final report
+
+RT Journal Article
+ID 3125838
+A1 Osher,S.
+A1 Sethian,J.
+YR 1985
+T1 Fronts propagating with curvature dependent speed: Algorithms based on a Hamilton-Jacobi formulation
+
+RT Journal Article
+ID 15265586
+A1 Osher,Stanley
+A1 Hafez,Mohamed
+A1 Whitlow,Woodrow
+YR 1985
+T1 Entropy Condition Satisfying Approximations for the Full Potential Equation of Transonic Flow
+JF Mathematics of Computation
+VO 44
+SP 1
+IS 169
+
+RT Journal Article
+ID 27258957
+A1 Shankar,V.
+A1 Osher,S.
+A1 Szema,K.-Y.
+YR 1985
+T1 Treatment of supersonic flows with embedded subsonic regions
+JF Aiaa Journal
+VO 23
+SP 41
+OP 48
+IS 1
+
+RT Journal Article
+ID 52402165
+A1 Chakravarthy,S.,R.
+A1 Szema,K.-Y.
+A1 Goldberg,U.,C.
+A1 Gorski,J.,J.
+A1 Osher,S.
+YR 1985
+T1 Application of a new class of high accuracy TVD schemes to the Navier-Stokes equations
+
+RT Journal Article
+ID 52723720
+A1 Engquist,B.,E.
+A1 Osher,S.
+A1 Somerville,R.,C.,J.
+YR 1985
+T1 Large-scale computations in fluid mechanics; Proceedings of the Fifteenth Summer Seminar on Applied Mathematics, University of California, La Jolla, CA, June 27July 8, 1983. Parts 1 & 2
+
+RT Journal Article
+ID 15265702
+A1 Osher,Stanley
+A1 Hafez,Mohamed
+A1 Whitlow,Woodrow
+YR 1985
+T1 Entropy condition satisfying approximations for the full potential equation of transonic flow
+JF Mathematics of Computation
+VO 44
+SP 1
+OP 1
+IS 169
+
+RT Journal Article
+ID 52201904
+A1 Osher,Stanley,J.
+A1 Engquist,Bjoern
+YR 1985
+T1 Numerical solution of the unsteady Navier-Stokes equation
+
+RT Journal Article
+ID 60068969
+A1 Osher,S.,J.
+A1 Engquist,B.
+YR 1985
+T1 Numerical solution of the unsteady Navier-Stokes equation. Semiannual report
+
+RT Journal Article
+ID 3691339
+A1 Osher,S.
+YR 1984
+T1 Riemann solvers, the entropy condition, and difference approximations
+
+RT Journal Article
+ID 2137042
+A1 Osher,Stanley
+A1 Chakravarthy,Sukumar
+YR 1984
+T1 High Resolution Schemes and the Entropy Condition
+JF Siam Journal on Numerical Analysis
+VO 21
+SP 955
+OP 984
+IS 5
+
+RT Journal Article
+ID 2897522
+A1 Osher,S.
+YR 1984
+T1 Convergence of generalized MUSCL schemes
+JF Siam Journal on Numerical Analysis
+
+RT Journal Article
+ID 16455594
+A1 Osher,Stanley
+YR 1984
+T1 Riemann Solvers, the Entropy Condition, and Difference
+JF Siam Journal on Numerical Analysis
+VO 21
+SP 217
+OP 235
+IS 2
+
+RT Journal Article
+ID 3755656
+A1 Osher,S.
+YR 1984
+T1 Smoothing for spectral methods
+
+RT Journal Article
+ID 4038593
+A1 Harten,A.
+A1 Engquist,B.
+A1 Osher,S.
+A1 Chakravarthy,S.
+YR 1983
+T1 Uniformly high-order accurate essentially non-oscillatory schemes
+
+RT Journal Article
+ID 18641925
+A1 Osher,Stanley
+A1 Chakravarthy,Sukumar
+YR 1983
+T1 Upwind Schemes and Boundary Conditions with Applications to Euler Equations in General Geometries
+JF Journal of Computational Physics
+VO 50
+SP 447
+OP 481
+IS 3
+
+RT Journal Article
+ID 27258561
+A1 Chakravarthy,Sukumar,R.
+A1 Osher,Stanley
+YR 1983
+T1 Numerical Experiments with the Osher Upwind Scheme for the Euler Equations
+JF Aiaa Journal
+VO 21
+SP 1241
+OP 1248
+IS 9
+
+RT Journal Article
+ID 15265262
+A1 Osher,Stanley
+A1 Sanders,Richard
+YR 1983
+T1 Numerical Approximations to Nonlinear Conservation Laws with Locally Varying Time and Space Grids
+JF Mathematics of Computation
+VO 41
+SP 321
+IS 164
+
+RT Journal Article
+ID 27258564
+A1 Shankar,V.
+A1 Osher,S.
+YR 1983
+T1 An efficient, full-potential implicit method based on characteristics for supersonic flows
+JF Aiaa Journal
+VO 21
+SP 1262
+OP 1270
+IS 9
+
+RT Journal Article
+ID 16361534
+A1 Osher,Stanley
+YR 1983
+T1 The Riemann Problem for Nonconvex Scalar Conservation Laws and Hamilton-Jacobi Equations
+JF Proceedings of The American Mathematical Society
+VO 89
+SP 641
+IS 4
+
+RT Journal Article
+ID 15265313
+A1 Osher,Stanley
+A1 Sanders,Richard
+YR 1983
+T1 Numerical approximations to nonlinear conservation laws with locally varying time and space grids
+JF Mathematics of Computation
+VO 41
+SP 321
+OP 321
+IS 164
+
+RT Journal Article
+ID 16361889
+A1 Osher,Stanley
+YR 1983
+T1 The Riemann problem for nonconvex scalar conservation laws and Hamilton-Jacobi equations
+JF Proceedings of The American Mathematical Society
+VO 89
+SP 641
+OP 641
+IS 4
+
+RT Journal Article
+ID 15264979
+A1 Osher,Stanley
+A1 Solomon,Fred
+YR 1982
+T1 Upwind Difference Schemes for Hyperbolic Systems of Conservation Laws
+JF Mathematics of Computation
+VO 38
+SP 339
+IS 158
+
+RT Journal Article
+ID 2053286
+A1 Osher,S.
+A1 Solomon,F.
+YR 1982
+T1 Upwind Difference Schemes for Hyperbolic Systems of Conservation Laws
+JF Mathematics of Computation
+
+RT Journal Article
+ID 16007709
+A1 Osher,Stanley
+A1 Ralston,James
+YR 1982
+T1 L1 stability of travelling waves with applications to convective porous media flow
+JF Communications on Pure and Applied Mathematics
+VO 35
+SP 737
+OP 749
+IS 6
+
+RT Journal Article
+ID 16455493
+A1 Abrahamsson,Leif
+A1 Osher,Stanley
+YR 1982
+T1 Monotone Difference Schemes for Singular Perturbation Problems
+JF Siam Journal on Numerical Analysis
+VO 19
+SP 979
+OP 992
+IS 5
+
+RT Journal Article
+ID 15265142
+A1 Osher,Stanley
+A1 Solomon,Fred
+YR 1982
+T1 Upwind difference schemes for hyperbolic systems of conservation laws
+JF Mathematics of Computation
+VO 38
+SP 339
+OP 339
+IS 158
+
+RT Journal Article
+ID 2016393
+A1 Engquist,Björn
+A1 Osher,Stanley
+YR 1981
+T1 One-Sided Difference Approximations for Nonlinear Conservation Laws
+JF Mathematics of Computation
+VO 36
+SP 321
+OP 321
+IS 154
+
+RT Journal Article
+ID 16455368
+A1 Osher,Stanley
+YR 1981
+T1 Nonlinear Singular Perturbation Problems and One Sided Difference Schemes
+JF Siam Journal on Numerical Analysis
+VO 18
+SP 129
+OP 144
+IS 1
+
+RT Journal Article
+ID 52225505
+A1 Engquist,B.
+A1 Osher,S.
+YR 1981
+T1 Upwind difference schemes for systems of conservation laws: Potential flow equations
+
+RT Journal Article
+ID 16522322
+A1 Osher,Stanley
+YR 1981
+T1 One-sided difference approximations for nonlinear conservation laws
+JF Mathematics of Computation
+VO 36
+SP 321
+OP 321
+IS 154
+
+RT Journal Article
+ID 15264566
+A1 Engquist,Bjorn
+A1 Osher,Stanley
+YR 1980
+T1 Stable and Entropy Satisfying Approximations for Transonic Flow Calculations
+JF Mathematics of Computation
+VO 34
+SP 45
+IS 149
+
+RT Journal Article
+ID 15118422
+A1 Engquist,Bjorn
+A1 Osher,Stanley
+YR 1980
+T1 One-Sided Difference Schemes and Transonic Flow
+JF Proceedings of The National Academy of Sciences
+VO 77
+SP 3071
+OP 3074
+IS 6
+
+RT Journal Article
+ID 15264667
+A1 Osher,Stanley
+YR 1980
+T1 Stable and entropy satisfying approximations for transonic flow calculations
+JF Mathematics of Computation
+VO 34
+SP 45
+OP 45
+IS 149
+
+RT Journal Article
+ID 3472174
+A1 Majda,Andrew
+A1 Osher,Stanley
+YR 1979
+T1 Numerical viscosity and the entropy condition
+JF Communications on Pure and Applied Mathematics
+VO 32
+SP 797
+OP 838
+IS 6
+
+RT Journal Article
+ID 16455289
+A1 Deacon,Arthur,G.
+A1 Osher,Stanley
+YR 1979
+T1 A Finite Element Method for a Boundary Value Problem of Mixed Type
+JF Siam Journal on Numerical Analysis
+VO 16
+SP 756
+OP 778
+IS 5
+
+RT Journal Article
+ID 1985129
+A1 Majda,Andrew
+A1 McDonough,James
+A1 Osher,Stanley
+YR 1978
+T1 The Fourier Method for Nonsmooth Initial Data
+JF Mathematics of Computation
+VO 32
+SP 1041
+OP 1041
+IS 144
+
+RT Journal Article
+ID 2636334
+A1 Majda,Andrew
+A1 Osher,Stanley
+YR 1978
+T1 A systematic approach for correcting nonlinear instabilities
+JF Numerische Mathematik
+VO 30
+SP 429
+OP 452
+IS 4
+
+RT Journal Article
+ID 16522271
+A1 Majda,Andrew
+A1 McDonough,James
+A1 Osher,Stanley
+YR 1978
+T1 The Fourier method for nonsmooth initial data
+JF Mathematics of Computation
+VO 32
+SP 1041
+OP 1041
+IS 144
+
+RT Journal Article
+ID 16007601
+A1 Majda,Andrew
+A1 Osher,Stanley
+YR 1977
+T1 Propagation of error into regions of smoothness for accurate difference approximations to hyperbolic equations
+JF Communications on Pure and Applied Mathematics
+VO 30
+SP 671
+OP 705
+IS 6
+
+RT Journal Article
+ID 16324925
+A1 Osher,Stanley
+YR 1977
+T1 Boundary value problems for equations of mixed type I. the lavrent'ev - bitsadze model
+JF Communications in Partial Differential Equations
+VO 2
+SP 499
+OP 547
+IS 5
+
+RT Journal Article
+ID 16007538
+A1 Majda,Andrew
+A1 Osher,Stanley
+YR 1975
+T1 Initial-boundary value problems for hyperbolic equations with uniformly characteristic boundary
+JF Communications on Pure and Applied Mathematics
+VO 28
+SP 607
+OP 675
+IS 5
+
+RT Journal Article
+ID 16007535
+A1 Majda,Andrew
+A1 Osher,Stanley
+YR 1975
+T1 Reflection of singularities at the boundary
+JF Communications on Pure and Applied Mathematics
+VO 28
+SP 479
+OP 499
+IS 4
+
+RT Journal Article
+ID 3246851
+A1 Majda,A.
+A1 Osher,S.
+YR 1975
+T1 Initial-boundary value problem for hyperbolic equations with uniformly characteristic boundary
+
+RT Journal Article
+ID 16396022
+A1 Osher,Stanley
+YR 1974
+T1 Initial-Boundary Value Problems for Hyperbolic Systems in Regions with Corners. II
+JF Transactions of The American Mathematical Society
+VO 198
+SP 155
+
+RT Journal Article
+ID 16396395
+A1 Osher,Stanley
+YR 1974
+T1 Initial-boundary value problems for hyperbolic systems in regions with corners. II
+JF Transactions of The American Mathematical Society
+VO 198
+SP 155
+OP 155
+
+RT Journal Article
+ID 16382614
+A1 Osher,Stanley
+YR 1974
+T1 An ill-posed problem for a strictly hyperbolic equation in two unknowns near a corner
+JF Bulletin of The American Mathematical Society
+VO 80
+SP 705
+OP 708
+IS 1974
+
+RT Journal Article
+ID 16395126
+A1 Osher,Stanley
+YR 1973
+T1 Initial-Boundary Value Problems for Hyperbolic Systems in Regions with Corners. I
+JF Transactions of The American Mathematical Society
+VO 176
+SP 141
+
+RT Journal Article
+ID 10121737
+A1 Osher,Stanley
+YR 1973
+T1 An ill posed problem for a hyperbolic equation near a corner
+JF Bulletin of The American Mathematical Society
+VO 79
+SP 1043
+OP 1044
+IS 1973
+
+RT Journal Article
+ID 16395745
+A1 Osher,Stanley
+YR 1973
+T1 Initial-boundary value problems for hyperbolic systems in regions with corners. I
+JF Transactions of The American Mathematical Society
+VO 176
+SP 141
+OP 141
+
+RT Journal Article
+ID 15262704
+A1 Osher,Stanley
+YR 1972
+T1 Stability of Parabolic Difference Approximations to Certain Mixed Initial Boundary Value Problems
+JF Mathematics of Computation
+VO 26
+SP 13
+IS 117
+
+RT Journal Article
+ID 15262886
+A1 Osher,Stanley
+YR 1972
+T1 Stability of parabolic difference approximations to certain mixed initial boundary value problems
+JF Mathematics of Computation
+VO 26
+SP 13
+OP 13
+IS 117
+
+RT Journal Article
+ID 16007408
+A1 Kupka,I.,A.,K.
+A1 Osher,S.,J.
+YR 1971
+T1 On the wave equation in a multi-dimensional corner
+JF Communications on Pure and Applied Mathematics
+VO 24
+SP 381
+OP 393
+IS 3
+
+RT Journal Article
+ID 16454693
+A1 Osher,Stanley
+YR 1970
+T1 Mesh Refinements for the Heat Equation
+JF Siam Journal on Numerical Analysis
+VO 7
+SP 199
+OP 205
+IS 2
+
+RT Journal Article
+ID 57455821
+A1 Osher,Stanley,J.
+YR 1970
+T1 On certain Toeplitz operators in two variables
+JF Pacific Journal of Mathematics
+VO 34
+SP 123
+OP 129
+IS 1970
+
+RT Journal Article
+ID 16392696
+A1 Osher,Stanley
+YR 1969
+T1 Systems of Difference Equations with General Homogeneous Boundary Conditions
+JF Transactions of The American Mathematical Society
+VO 137
+SP 177
+
+RT Journal Article
+ID 15261999
+A1 Osher,Stanley
+YR 1969
+T1 Stability of Difference Approximations of Dissipative Type for Mixed Initial-Boundary Value Problems
+JF Mathematics of Computation
+VO 23
+SP 335
+IS 106
+
+RT Journal Article
+ID 15262136
+A1 Osher,Stanley
+YR 1969
+T1 Stability of difference approximations of dissipative type for mixed initial-boundary value problems. I
+JF Mathematics of Computation
+VO 23
+SP 335
+OP 335
+IS 106
+
+RT Journal Article
+ID 15262051
+A1 Osher,Stanley
+YR 1969
+T1 On Systems of Difference Equations with Wrong Boundary Conditions
+JF Mathematics of Computation
+VO 23
+SP 567
+IS 107
+
+RT Journal Article
+ID 15262216
+A1 Osher,Stanley
+YR 1969
+T1 On systems of difference equations with wrong boundary conditions
+JF Mathematics of Computation
+VO 23
+SP 567
+OP 567
+IS 107
+
+RT Journal Article
+ID 16393201
+A1 Osher,Stanley
+YR 1969
+T1 Systems of difference equations with general homogeneous boundary conditions
+JF Transactions of The American Mathematical Society
+VO 137
+SP 177
+OP 177
+
+RT Journal Article
+ID 16381609
+A1 Osher,Stanley,J.
+YR 1967
+T1 Canonical forms of certain Volterra integral operators and a method of solving the commutator equations which involve them
+JF Bulletin of The American Mathematical Society
+VO 73
+SP 423
+OP 427
+IS 1967
+
+RT Journal Article
+ID 1931340
+A1 Osher,Stanley
+A1 Fedkiw,Ronald,P.
+T1 Level Set Methods: An Overview and Some Recent Results
+
+RT Journal Article
+ID 4532044
+A1 Carter,Jamylle,Laurice
+A1 Vandenberghe,Lieven
+A1 Osher,Stanley,J.
+A1 Gu,Ming
+A1 Chan,Tony,F.
+T1 Dual Methods for Total Variation-Based Image Restoration
+
+RT Journal Article
+ID 12810503
+A1 YIN,WOTAO
+A1 OSHER,STANLEY
+A1 GOLDFARB,DONALD
+A1 DARBON,JEROME
+T1 BREGMAN ITERATIVE ALGORITHMS FOR ` 1 MINIMIZATION WITH APPLICATIONS TO COMPRESSED SENSING
+
+RT Journal Article
+ID 4935860
+A1 Bresson,Xavier
+A1 Esedo,Selim
+A1 Vandergheynst,Pierre
+A1 Thiran,Jean-Philippe
+A1 Osher,Stanley
+T1 Fast Global Minimization of the Active Contour/Snake Model
+JF Journal of Mathematical Imaging and Vision
+
+RT Book, Whole
+ID 47759440
+A1 Osher,Stanley
+T1 Level Set Methods
+
+RT Book, Whole
+ID 3428378
+A1 Rudin,Leonid
+A1 Lions,Pierre-Luis
+A1 Osher,Stanley
+T1 Multiplicative Denoising and Deblurring: Theory and Algorithms
+
+RT Journal Article
+ID 2347160
+A1 TSAI,RICHARD
+A1 OSHER,STANLEY
+T1 LEVEL SET METHODS AND THEIR APPLICATIONS IN IMAGE SCIENCE
+
+RT Journal Article
+ID 2346506
+A1 Zhao,Hongkai
+A1 Osher,Stanley
+T1 Visualization, Analysis and Shape Reconstruction of Unorganized Data Sets
+
+RT Journal Article
+ID 4554731
+A1 Yin,Wotao
+A1 Goldfarb,Donald
+A1 Osher,Stanley
+T1 Total Variation Based Image Cartoon-Texture Decompositionz
+
+RT Journal Article
+ID 5262967
+A1 CAI,JIAN-FENG
+A1 OSHER,STANLEY
+A1 SHEN,ZUOWEI
+T1 CONVERGENCE OF THE LINEARIZED BREGMAN ITERATION FOR ℓ1NORM MINIMIZATION
+JF Mathematics of Computation
+
+RT Book, Whole
+ID 47886591
+A1 Bertalmío,Marcelo
+A1 Mémoli,Facundo
+A1 Cheng,Li-Tien
+A1 Sapiro,Guillermo
+A1 Osher,Stanley
+T1 Variational Problems and Partial Differential Equations on Implicit Surfaces: Bye Bye Triangulated Surfaces?
+
+RT Book, Whole
+ID 12898186
+A1 Tai,Xue-Cheng
+A1 Osher,Stanley
+A1 Holm,Randi
+T1 Image Inpainting Using a TV-Stokes Equation
+
+RT Journal Article
+ID 8812
+A1 Liao,W.-H.
+A1 Khuu,A.
+A1 Bergsneider,M.
+A1 Vese,L.
+A1 Huang,S.-C.
+A1 Osher,S.
+T1 From Landmark Matching to Shape and Open Curve Matching: A Level Set Approach
+
+RT Book, Whole
+ID 2358627
+A1 Obereder,Andreas
+A1 Osher,Stanley
+A1 Scherzer,Otmar
+T1 On the use of the Dual Norms in Bounded Variation Type Regularization
+
+RT Journal Article
+ID 6917704
+A1 Fedkiw,Ronald,P.
+A1 Merriman,Barry
+A1 Donat,Rosa
+A1 Osher,Stanley
+T1 The Penultimate Scheme for Systems of Conservation Laws: Finite Difference ENO with Marquina's Flux Splitting1
+
+RT Journal Article
+ID 2277090
+A1 Osher,Stanley
+T1 The Level Set Method: Applications to Imaging Science
+
+RT Journal Article
+ID 10477188
+A1 GREEN,MARK
+A1 OSHER,STANLEY
+T1 STEINER POLYNOMIALS, WULFF FLOWS, AND SOME NEW ISOPERIMETRIC INEQUALITIES FOR CONVEX PLANE CURVES
+
+RT Journal Article
+ID 12899534
+A1 Bank,Randolph,E.
+A1 Bernardi,Christine
+A1 Boyd,David,W.
+A1 Brenner,Susanne,C.
+A1 Brent,Richard,P.
+A1 Buhler,Joe,P.
+A1 Carstensen,Carsten
+A1 Cohen,Arjeh,M.
+A1 Cools,Ronald,F.,A.
+A1 Elman,Howard
+A1 Falk,Richard,S.
+A1 Lozier,Daniel,W.
+A1 Luo,Zhi-Quan
+A1 Niederreiter,Harald
+A1 Nochetto,Ricardo,H.
+A1 Osher,Stanley
+A1 Park,Haesun
+A1 Pasciak,Joseph,E.
+A1 Reichel,Lothar
+A1 Schoof,René
+A1 Shparlinski,Igor,E.
+A1 Shu,Chi-Wang
+A1 Stenger,Frank
+A1 Talay,Denis
+A1 Temme,Nico,M.
+A1 Wahlbin,Lars,B.
+A1 Ward,Joseph,D.
+A1 Williams,Hugh,C.
+A1 Xu,Jinchao
+T1 MATHEMATICS
+
+RT Journal Article
+ID 12774408
+A1 JINAND,SHI
+A1 OSHER,STANLEY,J.
+T1 A LEVEL SET METHOD FOR THE COMPUTATION OF MULTIVALUED SOLUTIONS TO QUASILINEAR HYPERBOLIC PDES AND HAMILTON-JACOBI EQUATIONS
+
+RT Journal Article
+ID 5422167
+A1 Leung,Shingyu
+A1 Oshery,Stanley
+T1 An Alternating Direction Explicit (ADE) Scheme for Time-Dependent Evolution Equations
+
+RT Journal Article
+ID 12800595
+A1 ZHAO,HONG-KAI
+A1 HAN,T.,C
+A1 ERRIMAN,B.,M
+A1 OSHER,S.
+T1 A Variational Level Set Approach to Multiphase Motion
+
+RT Journal Article
+ID 12771134
+A1 Vandenberghe,Lieven
+A1 Osher,Stanley,J.
+A1 Gu,Ming
+A1 Chan,Tony,F.
+T1 The dissertation of Jamylle Laurice Carter is approved
+
+RT Journal Article
+ID 13052676
+A1 Garnett,J.
+A1 Jennrich,R.
+A1 Merkurjev,A.
+A1 Osher,S.
+T1 Steele Prize (2003) M. Gu** Householder Prize (1996). A. Hales** Pol y a Prize in com b inatori cs (joint with Rothschild) ( S IAM, 1973) . G. Hjorth Karp Prize (ASL, 2003) H. Hida Spring Prize (Math. Soc. Japan, 1992)
+
+RT Journal Article
+ID 13693965
+A1 Richard,Yen-Hsi
+A1 Giga,Yoshikazu
+A1 Osher,Stanley
+T1 Numerical Methods for Computing Discontinuous Solutions of a Class of Hamilton-Jacobi Equations Using a Level Set Method (Free Boundary Problems)
+
+RT Journal Article
+ID 7022864
+A1 Joshi,Shantanu,H.
+A1 Marquina,Antonio
+A1 Osher,Stanley,J.
+A1 Dinov,Ivo
+A1 Horn,John,Darrell,Van
+A1 Toga,Arthur
+T1 Image Resolution Enhancement and its applications to Medical Image Processing
+
+RT Journal Article
+ID 13031908
+A1 Tsai,Yen-Hsi,Richard
+A1 Giga,Yoshikazu
+A1 Osher,Stanley
+T1 A Level Set Approach for Computing Discontinuous Solutions of a Class of
+
+RT Journal Article
+ID 10307216
+A1 BURGER,Martin
+A1 OSHER,Stanley,J.
+A1 YABLONOVITCH,Eli
+T1 INVITED PAPER Special Section on Photonic Crystals and Their Device Applications Inverse Problem Techniques for the Design of Photonic Crystals
+
+RT Book, Whole
+ID 47857722
+A1 Zhao,Hongkai
+A1 Osher,Stanley
+T1 Visualization, Analysis and Shape Reconstruction of Sparse Data
+
+RT Journal Article
+ID 13202505
+A1 McAdams,Aleka
+A1 Osher,Stanley
+A1 Teran,Joseph
+T1 Crashing Waves, Awesome Explosions, Turbulent Smoke, and Beyond: Applied Mathematics and Scientific Computing in the Visual Effects Industry
+
+RT Journal Article
+ID 58483685
+A1 Lagnado,Ronald
+A1 Osher,Stanley
+T1 A Technique for Calibrating Derivative Security Pricing Models: Numerical Solution of an Inverse Problem
+
+RT Journal Article
+ID 11534142
+A1 Burger,Martin
+A1 Osher,Stanley,J.
+T1 Inverse Problems and Optimal Design
+
+RT Journal Article
+ID 4640253
+A1 Cecil,Thomas
+A1 Osher,Stanley
+T1 Regularized Wulff Flows, Nonconvex Energies and Backwards Parabolic Equations
+
+RT Journal Article
+ID 2993775
+A1 Osher,Stanley
+T1 Dynamic Visibility and the Level Set Method

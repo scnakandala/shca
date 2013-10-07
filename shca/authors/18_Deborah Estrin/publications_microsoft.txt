@@ -1,0 +1,5231 @@
+RT Journal Article
+ID 51179479
+A1 Dey,Anind,K.
+A1 Estrin,Deborah
+YR 2011
+T1 Perspectives on Pervasive Health from Some of the Field's Leading Researchers
+JF IEEE Pervasive Computing
+VO 10
+SP 4
+OP 7
+IS 2
+
+RT Journal Article
+ID 39217770
+A1 Graham,Susan,L.
+A1 Estrin,Deborah
+A1 Horvitz,Eric
+A1 Kohane,Isaac,S.
+A1 Mynatt,Elizabeth,D.
+A1 Sim,Ida
+YR 2011
+T1 Information Technology research challenges for healthcare: from discovery to delivery
+VO 1
+SP 4
+OP 9
+IS 1
+
+RT Journal Article
+ID 51186823
+A1 Dey,Anind,K.
+A1 Estrin,Deborah
+YR 2011
+T1 Pervasive Healthcare 2010: Two Perspectives
+JF IEEE Pervasive Computing
+VO 10
+SP 8
+OP 11
+IS 3
+
+RT Journal Article
+ID 56548211
+A1 Arab,L
+A1 Estrin,D
+A1 Kim,D,H
+A1 Burke,J
+A1 Goldman,J
+YR 2011
+T1 Feasibility testing of an automated image-capture method to aid dietary recall
+JF European Journal of Clinical Nutrition
+VO 65
+SP 1156
+OP 1162
+IS 10
+
+RT Journal Article
+ID 6705108
+A1 Paek,Jeongyeup
+A1 Greenstein,Ben
+A1 Gnawali,Omprakash
+A1 Jang,Ki-Young
+A1 Joki,August
+A1 Vieira,Marcos
+A1 Hicks,John
+A1 Estrin,Deborah
+A1 Govindan,Ramesh
+A1 Kohler,Eddie
+YR 2010
+T1 The Tenet architecture for tiered sensor networks
+JF ACM Transactions on Sensor Networks
+VO 6
+SP 1
+OP 44
+IS 4
+
+RT Book, Whole
+ID 13303339
+A1 Reddy,Sasank
+A1 Estrin,Deborah
+A1 Srivastava,Mani,B.
+YR 2010
+T1 Recruitment Framework for Participatory Sensing Data Collections
+SP 138
+OP 155
+
+RT Journal Article
+ID 13335677
+A1 Reddy,Sasank
+A1 Mun,Min
+A1 Burke,Jeff
+A1 Estrin,Deborah
+A1 Hansen,Mark,H.
+A1 Srivastava,Mani,B.
+YR 2010
+T1 Using mobile phones to determine transportation modes
+JF ACM Transactions on Sensor Networks
+VO 6
+SP 1
+OP 27
+IS 2
+
+RT Conference Proceedings
+ID 39233704
+A1 Falaki,Hossein
+A1 Lymberopoulos,Dimitrios
+A1 Mahajan,Ratul
+A1 Kandula,Srikanth
+A1 Estrin,Deborah
+YR 2010
+T1 A first look at traffic on smartphones
+SP 281
+OP 287
+
+RT Conference Proceedings
+ID 13220246
+A1 Falaki,Hossein
+A1 Mahajan,Ratul
+A1 Kandula,Srikanth
+A1 Lymberopoulos,Dimitrios
+A1 Govindan,Ramesh
+A1 Estrin,Deborah
+YR 2010
+T1 Diversity in smartphone usage
+SP 179
+OP 194
+
+RT Journal Article
+ID 5525793
+A1 Ko,Teresa
+A1 Ahmadian,Shaun
+A1 Hicks,John
+A1 Rahimi,Mohammad,H.
+A1 Estrin,Deborah
+A1 Soatto,Stefano
+A1 Coe,Sharon
+A1 Hamilton,Michael,P.
+YR 2010
+T1 Heartbeat of a nest: Using imagers as biological sensors
+JF ACM Transactions on Sensor Networks
+VO 6
+SP 1
+OP 31
+IS 3
+
+RT Conference Proceedings
+ID 6721290
+A1 Reddy,Sasank
+A1 Shilton,Katie
+A1 Denisov,Gleb
+A1 Cenizal,Christian
+A1 Estrin,Deborah
+A1 Srivastava,Mani,B.
+YR 2010
+T1 Biketastic: sensing and mapping for better biking
+SP 1817
+OP 1820
+
+RT Conference Proceedings
+ID 39240078
+A1 Kim,Donnie,H.
+A1 Kim,Younghun
+A1 Estrin,Deborah
+A1 Srivastava,Mani,B.
+YR 2010
+T1 SensLoc: sensing everyday places and paths using less energy
+SP 43
+OP 56
+
+RT Conference Proceedings
+ID 13514756
+A1 Longstaff,Brent
+A1 Reddy,Sasank
+A1 Estrin,Deborah
+YR 2010
+T1 Improving activity classification for health applications on mobile devices using active and semi-supervised learning
+
+RT Journal Article
+ID 13327488
+A1 Estrin,Deborah
+A1 Chandy,K.,Mani
+A1 Young,R.,Michael
+A1 Smarr,Larry
+A1 Odlyzko,Andrew,M.
+A1 Clark,David,D.
+A1 Reding,Viviane
+A1 Ishida,Toru
+A1 Sharma,Sharad
+A1 Cerf,Vinton,G.
+A1 Hölzle,Urs
+A1 Barroso,Luiz,André
+A1 Mulligan,Geoff
+A1 Hooke,Adrian
+A1 Elliott,Chip
+YR 2010
+T1 Internet Predictions
+JF IEEE Internet Computing
+VO 14
+SP 12
+OP 42
+IS 1
+
+RT Conference Proceedings
+ID 39227083
+A1 Mun,Min
+A1 Hao,Shuai
+A1 Mishra,Nilesh
+A1 Shilton,Katie
+A1 Burke,Jeff
+A1 Estrin,Deborah
+A1 Hansen,Mark,H.
+A1 Govindan,Ramesh
+YR 2010
+T1 Personal data vaults: a locus of control for personal data streams
+SP 1
+OP 12
+
+RT Conference Proceedings
+ID 39261603
+A1 Ko,Teresa
+A1 Soatto,Stefano
+A1 Estrin,Deborah
+YR 2010
+T1 Warping background subtraction
+SP 1331
+OP 1338
+
+RT Journal Article
+ID 39247912
+A1 Hicks,John
+A1 Ramanathan,Nithya
+A1 Kim,Donnie,H.
+A1 Monibi,Mohamad
+A1 Selsky,Joshua
+A1 Hansen,Mark,H.
+A1 Estrin,Deborah
+YR 2010
+T1 AndWellness: an open mobile system for activity and experience sampling
+SP 34
+OP 43
+
+RT Conference Proceedings
+ID 13294241
+A1 Estrin,Deborah,L.
+YR 2010
+T1 Participatory sensing: applications and architecture
+SP 3
+OP 4
+
+RT Conference Proceedings
+ID 13989114
+A1 Reddy,Sasank
+A1 Estrin,Deborah
+A1 Hansen,Mark,H.
+A1 Srivastava,Mani,B.
+YR 2010
+T1 Examining micro-payments for participatory sensing data collections
+SP 33
+OP 36
+
+RT Journal Article
+ID 51175954
+A1 Ko,Teresa
+A1 Hyman,Josh
+A1 Graham,Eric
+A1 Hansen,Mark
+A1 Soatto,Stefano
+A1 Estrin,Deborah
+YR 2010
+T1 Embedded Imagers: Detecting, Localizing, and Recognizing Objects and Events in Natural Habitats
+JF Proceedings of The IEEE
+VO 98
+SP 1934
+OP 1946
+IS 11
+
+RT Journal Article
+ID 43891731
+A1 GRAHAM,ERIC,A.
+A1 RIORDAN,ERIN,C.
+A1 YUEN,ERIC,M.
+A1 ESTRIN,DEBORAH
+A1 RUNDEL,PHILIP,W.
+YR 2010
+T1 Public Internet-connected cameras used as a cross-continental ground-based plant phenology monitoring system: PUBLIC CAMERAS AS PHENOLOGY MONITORING SYSTEM
+JF Global Change Biology
+
+RT Conference Proceedings
+ID 39296521
+A1 Riordan,Erin,C.
+A1 Graham,Eric,A.
+A1 Yuen,Eric,M.
+A1 Estrin,Deborah
+A1 Rundel,Philip,W.
+YR 2010
+T1 Utilizing public Internet-connected cameras for a cross- continental plant phenology monitoring system
+SP 1501
+OP 1504
+
+RT Conference Proceedings
+ID 6047106
+A1 Mun,Min
+A1 Reddy,Sasank
+A1 Shilton,Katie
+A1 Yau,Nathan
+A1 Burke,Jeff
+A1 Estrin,Deborah
+A1 Hansen,Mark,H.
+A1 Howard,Eric
+A1 West,Ruth
+A1 Boda,Péter
+YR 2009
+T1 PEIR, the personal environmental impact report, as a platform for participatory sensing systems research
+SP 55
+OP 68
+
+RT Journal Article
+ID 6619960
+A1 Lee,Dong-U.
+A1 Kim,Hyungjin
+A1 Rahimi,Mohammad,H.
+A1 Estrin,Deborah
+A1 Villasenor,John,D.
+YR 2009
+T1 Energy-Efficient Image Compression for Resource-Constrained Platforms
+JF IEEE Transactions on Image Processing
+VO 18
+SP 2100
+OP 2113
+IS 9
+
+RT Conference Proceedings
+ID 5311885
+A1 Kim,Donnie,H.
+A1 Hightower,Jeffrey
+A1 Govindan,Ramesh
+A1 Estrin,Deborah
+YR 2009
+T1 Discovering semantically meaningful places from pervasive RF-beacons
+SP 21
+OP 30
+
+RT Book, Whole
+ID 4726389
+A1 Reddy,Sasank
+A1 Shilton,Katie
+A1 Burke,Jeff
+A1 Estrin,Deborah
+A1 Hansen,Mark,H.
+A1 Srivastava,Mani,B.
+YR 2009
+T1 Using Context Annotated Mobility Profiles to Recruit Data Collectors in Participatory Sensing
+SP 52
+OP 69
+
+RT Conference Proceedings
+ID 5183916
+A1 Ryder,Jason
+A1 Longstaff,Brent
+A1 Reddy,Sasank
+A1 Estrin,Deborah
+YR 2009
+T1 Ambulation: A Tool for Monitoring Mobility Patterns over Time Using Mobile Phones
+SP 927
+OP 931
+
+RT Conference Proceedings
+ID 4999551
+A1 Lukac,Martin
+A1 Davis,Paul
+A1 Clayton,Robert
+A1 Estrin,Deborah
+YR 2009
+T1 Recovering temporal integrity with Data Driven Time Synchronization
+SP 61
+OP 72
+
+RT Conference Proceedings
+ID 6050072
+A1 Ramanathan,Nithya
+A1 Schoellhammer,Thomas
+A1 Kohler,Eddie
+A1 Whitehouse,Kamin
+A1 Harmon,Thomas
+A1 Estrin,Deborah
+YR 2009
+T1 Suelo: human-assisted sensing for exploratory soil monitoring studies
+SP 197
+OP 210
+
+RT Journal Article
+ID 5774556
+A1 Lukac,Martin
+A1 Stubailo,Igor
+A1 Guy,Richard
+A1 Davis,Paul
+A1 Puruhuaya,Victor,Aguilar
+A1 Clayton,Robert
+A1 Estrin,Deborah
+YR 2009
+T1 First-class meta-data: a step towards a highly reliable wireless seismic network in Peru
+
+RT Conference Proceedings
+ID 5914348
+A1 Reddy,Sasank
+A1 Samanta,Vidyut
+A1 Burke,Jeff
+A1 Estrin,Deborah
+A1 Hansen,Mark,H.
+A1 Srivastava,Mani,B.
+YR 2009
+T1 MobiSense - mobile network services for coordinated participatory sensing
+SP 231
+OP 236
+
+RT Conference Proceedings
+ID 6393314
+A1 Ko,Teresa
+A1 Soatto,Stefano
+A1 Estrin,Deborah
+YR 2009
+T1 Categorization in natural time-varying image sequences
+
+RT Conference Proceedings
+ID 6300347
+A1 Reddy,Sasank
+A1 Burke,Jeff
+A1 Estrin,Deborah
+A1 Hansen,Mark
+A1 Srivastava,Mani
+YR 2008
+T1 Determining transportation mode on mobile phones
+SP 25
+OP 28
+
+RT Conference Proceedings
+ID 4288959
+A1 Allen,Michael
+A1 Girod,Lewis
+A1 Newton,Ryan
+A1 Madden,Samuel
+A1 Blumstein,Daniel,T.
+A1 Estrin,Deborah
+YR 2008
+T1 VoxNet: An Interactive, Rapidly-Deployable Acoustic Monitoring Platform
+SP 371
+OP 382
+
+RT Book, Whole
+ID 4253836
+A1 Ko,Teresa
+A1 Soatto,Stefano
+A1 Estrin,Deborah
+YR 2008
+T1 Background Subtraction on Distributions
+SP 276
+OP 289
+
+RT Journal Article
+ID 5473826
+A1 Mun,Min,Y.
+A1 Estrin,Deborah
+A1 Burke,Jeff
+A1 Hansen,Mark
+YR 2008
+T1 Parsimonious Mobility Classification using GSM and WiFi Traces
+
+RT Journal Article
+ID 5559153
+A1 Reddy,Sasank
+A1 Shilton,Katie
+A1 Burke,Jeff
+A1 Estrin,Deborah
+A1 Hansen,Mark
+A1 Srivastava,Mani
+YR 2008
+T1 Evaluating Participation and Performance in Participatory Sensing
+
+RT Conference Proceedings
+ID 6137457
+A1 Shilton,Katie
+A1 Ramanathan,Nithya
+A1 Reddy,Sasank
+A1 Samanta,V.
+A1 Burke,Jeff
+A1 Estrin,Deborah
+A1 Hansen,Mark,H.
+A1 Srivastava,Mani,B.
+YR 2008
+T1 Participatory design of sensing networks: strengths and challenges
+SP 282
+OP 285
+
+RT Journal Article
+ID 27100890
+A1 Kim,Hyungjin
+A1 Rahimi,Mohammad
+A1 Lee,Dong-U
+A1 Estrin,Deborah
+A1 Villasenor,John,D.
+YR 2008
+T1 Energy-Aware High Resolution Image Acquisition via Heterogeneous Image Sensors
+JF IEEE Journal of Selected Topics in Signal Processing
+VO 2
+SP 526
+OP 537
+IS 4
+
+RT Conference Proceedings
+ID 5159771
+A1 Allen,Michael,P.
+A1 Graham,Eric
+A1 Ahmadian,Shaun
+A1 Ko,Tetsunori
+A1 Yuen,Eric
+A1 Girod,Lewis
+A1 Hamilton,Michael,P.
+A1 Estrin,Deborah
+YR 2008
+T1 Interactive environmental sensing: Signal and image processing challenges
+SP 5161
+OP 5164
+
+RT Journal Article
+ID 19405963
+A1 Girod,Lewis
+A1 Allen,Michael
+A1 Collier,Travis
+A1 Blumstein,Daniel,T.
+A1 Estrin,Deborah
+A1 Taylor,Charles
+YR 2008
+T1 Experience with VoxNet: a rapidly-deployable acoustic monitoring system for bio-acoustic studies
+JF Journal of The Acoustical Society of America
+VO 123
+SP 3102
+IS 5
+
+RT Journal Article
+ID 39360042
+A1 Samanta,Vidyut
+A1 Knowles,Chase,Laurelle,Alexandria
+A1 Burke,Jeff
+A1 Wagmister,Fabian
+A1 Estrin,Deborah
+YR 2008
+T1 Metropolitan Wi-Fi Research Network at the Los Angeles State Historic Park
+VO 4
+IS 1
+
+RT Journal Article
+ID 10490100
+A1 Helmy,Ahmed
+A1 Estrin,Deborah
+YR 2008
+T1 II. PROFESSIONAL APPOINTMENTS
+
+RT Journal Article
+ID 5802617
+A1 Petersen,Nicolai,Munk
+A1 Estrin,Deborah
+YR 2008
+T1 Security Framework for Mobile Applications
+
+RT Journal Article
+ID 4114621
+A1 Abdelzaher,Tarek,F.
+A1 Anokwa,Yaw
+A1 Boda,Péter
+A1 Burke,Jeff
+A1 Estrin,Deborah
+A1 Guibas,Leonidas,J.
+A1 Kansal,Aman
+A1 Madden,Samuel
+A1 Reich,Jim
+YR 2007
+T1 Mobiscopes for Human Spaces
+JF IEEE Pervasive Computing
+VO 6
+SP 20
+OP 29
+IS 2
+
+RT Conference Proceedings
+ID 4345350
+A1 Reddy,Sasank
+A1 Parker,Andrew
+A1 Hyman,Josh
+A1 Burke,Jeff
+A1 Estrin,Deborah
+A1 Hansen,Mark
+YR 2007
+T1 Image browsing, processing, and clustering for participatory sensing: lessons from a DietSense prototype
+SP 13
+OP 17
+
+RT Journal Article
+ID 4416497
+A1 Girod,Lewis
+A1 Ramanathan,Nithya
+A1 Elson,Jeremy
+A1 Stathopoulos,Thanos
+A1 Lukac,Martin
+A1 Estrin,Deborah
+YR 2007
+T1 Emstar: A software environment for developing and deploying heterogeneous sensor-actuator networks
+JF ACM Transactions on Sensor Networks
+VO 3
+SP 13
+IS 3
+
+RT Conference Proceedings
+ID 2447705
+A1 Stathopoulos,Thanos
+A1 Lukac,Martin
+A1 Mcintire,Dustin
+A1 Heidemann,John,S.
+A1 Estrin,Deborah
+A1 Kaiser,William,J.
+YR 2007
+T1 End-to-End Routing for Dual-Radio Sensor Networks
+SP 2252
+OP 2260
+
+RT Journal Article
+ID 4558502
+A1 Hamilton,Michael,P.
+A1 Graham,Eric,A.
+A1 Rundel,Philip,W.
+A1 Allen,Michael,F.
+A1 Kaiser,William
+A1 Hansen,Mark,H.
+A1 Estrin,Deborah,L.
+YR 2007
+T1 New Approaches in Embedded Networked Sensing for Terrestrial Ecological Observatories
+JF Environmental Engineering Science
+VO 24
+SP 192
+OP 204
+IS 2
+
+RT Conference Proceedings
+ID 2449366
+A1 Lee,Dong-u
+A1 Kim,Hyungjin
+A1 Tu,Steven
+A1 Rahimi,Mohammad,H.
+A1 Estrin,Deborah
+A1 Villasenor,John,D.
+YR 2007
+T1 Energy-optimized image communication on resource-constrained sensor platforms
+SP 216
+OP 225
+
+RT Journal Article
+ID 50592322
+A1 Ko,T.
+A1 Charbiwala,Z.,M.
+A1 Ahmadian,S.
+A1 Rahimi,M.
+A1 Srivastava,M.,B.
+A1 Soatto,S.
+A1 Estrin,D.
+YR 2007
+T1 Exploring Tradeoffs in Accuracy, Energy and Latency of Scale Invariant Feature Transform in Wireless Camera Networks
+
+RT Journal Article
+ID 38825513
+A1 ALLEN,MICHAEL,F.
+A1 VARGAS,RODRIGO
+A1 GRAHAM,ERIC,A.
+A1 SWENSON,WILLIAM
+A1 HAMILTON,MICHAEL
+A1 TAGGART,MICHAEL
+A1 HARMON,THOMAS,C.
+A1 RAT'KO,ALEXANDER
+A1 RUNDEL,PHIL
+A1 FULKERSON,BRIAN
+A1 ESTRIN,DEBORAH
+YR 2007
+T1 Soil Sensor Technology: Life within a Pixel
+JF Bioscience
+VO 57
+SP 859
+IS 10
+
+RT Conference Proceedings
+ID 4315192
+A1 Reddy,Sasank
+A1 Burke,Jeff
+A1 Estrin,Deborah
+A1 Hansen,Mark
+A1 Srivastava,Mani,B.
+YR 2007
+T1 A framework for data quality and feedback in participatory sensing
+SP 417
+OP 418
+
+RT Journal Article
+ID 4580316
+A1 Ko,Teresa
+A1 Charbiwala,Zainul,M.
+A1 Ahmadian,Shaun
+A1 R,Mohammad
+A1 Srivastava,Mani,B.
+A1 Soatto,Stefano
+A1 Estrin,Deborah
+YR 2007
+T1 EXPLORING TRADEOFFS IN ACCURACY, ENERGY AND LATENCY OF SCALE INVARIANT FEATURE TRANSFORM IN WIRELESS CAMERA NETWO RKS
+
+RT Conference Proceedings
+ID 50559577
+A1 Estrin,D.
+YR 2007
+T1 Reflections on Wireless Sensing Systems: From Ecosystems to Human Systems
+
+RT Conference Proceedings
+ID 4344768
+A1 Hyman,Josh
+A1 Graham,Eric
+A1 Hansen,Mark
+A1 Estrin,Deborah
+YR 2007
+T1 Imagers as sensors: correlating plant CO2 uptake with digital visible-light imagery
+SP 25
+OP 30
+
+RT Conference Proceedings
+ID 4345357
+A1 Allen,Michael
+A1 Girod,Lewis
+A1 Estrin,Deborah
+YR 2007
+T1 Acoustic laptops as a research enabler
+SP 63
+OP 67
+
+RT Conference Proceedings
+ID 50597390
+A1 Lee,Dong-U
+A1 Kim,Hyungjin
+A1 Tu,S.
+A1 Rahimi,M.
+A1 Estrin,D.
+A1 Villasenor,J.,D.
+YR 2007
+T1 Energy-Optimized Image Communication on Resource-Constrained Sensor Platforms
+
+RT Conference Proceedings
+ID 2383918
+A1 Gnawali,Omprakash
+A1 Jang,Ki-young
+A1 Paek,Jeongyeup
+A1 Vieira,Marcos
+A1 Govindan,Ramesh
+A1 Greenstein,Ben
+A1 Joki,August
+A1 Estrin,Deborah
+A1 Kohler,Eddie
+YR 2006
+T1 The tenet architecture for tiered sensor networks
+SP 153
+OP 166
+
+RT Journal Article
+ID 2517159
+A1 Somasundara,Arun,A.
+A1 Kansal,Aman
+A1 Jea,David,D.
+A1 Estrin,Deborah
+A1 Srivastava,Mani,B.
+YR 2006
+T1 Controllably Mobile Infrastructure for Low Energy Embedded Networks
+JF IEEE Transactions on Mobile Computing
+VO 5
+SP 958
+OP 973
+IS 8
+
+RT Conference Proceedings
+ID 2471566
+A1 Greenstein,Ben
+A1 Mar,Christopher
+A1 Pesterev,Alex
+A1 Farshchi,Shahin
+A1 Kohler,Eddie
+A1 Judy,Jack
+A1 Estrin,Deborah
+YR 2006
+T1 Capturing high-frequency phenomena using a bandwidth-limited sensor network
+SP 279
+OP 292
+
+RT Conference Proceedings
+ID 2471549
+A1 Girod,Lewis
+A1 Lukac,Martin
+A1 Trifa,Vlad
+A1 Estrin,Deborah
+YR 2006
+T1 The design and implementation of a self-calibrating distributed acoustic sensing platform
+SP 71
+OP 84
+
+RT Journal Article
+ID 4505426
+A1 Ramanathan,Nithya
+A1 Balzano,Laura
+A1 Burt,Marci
+A1 Estrin,Deborah
+A1 Harmon,Tom
+A1 Harvey,Charlie
+A1 Jay,Jenny
+A1 Kohler,Eddie
+A1 Rothenberg,Sarah
+A1 Srivastava,Mani
+YR 2006
+T1 Rapid Deployment with Confidence: Calibration and Fault Detection in Environmental Sensor Networks
+
+RT Conference Proceedings
+ID 6195707
+A1 Ramanathan,Nithya
+A1 Balzano,Laura
+A1 Estrin,Deborah
+A1 Hansen,Mark
+A1 Harmon,Thomas
+A1 Jay,Jenny
+A1 Kaiser,William
+A1 Sukhatme,Gaurav
+YR 2006
+T1 Designing Wireless Sensor Networks as a Shared Resource for Sustainable Development
+
+RT Journal Article
+ID 27806934
+A1 Chang,K.
+A1 Yau,N.
+A1 Hansen,M.
+A1 Estrin,D.
+YR 2006
+T1 sensorbase.org - A Centralized Repository to SLOG Sensor NetworkData
+
+RT Journal Article
+ID 39225732
+A1 Lukac,Martin
+A1 Girod,Lewis
+A1 Estrin,Deborah
+YR 2006
+T1 Disruption tolerant shell
+SP 189
+OP 196
+
+RT Journal Article
+ID 2934470
+A1 Reddy,S.
+A1 Schmid,T.
+A1 Parker,A.
+A1 Porway,J.
+A1 Chen,G.
+A1 Joki,A.
+A1 Burke,J.
+A1 Hansen,M.
+A1 Estrin,D.
+A1 Srivastava,M.
+YR 2006
+T1 Demo: Urbancens: Sensing with the urban context in mind
+
+RT Journal Article
+ID 4936409
+A1 Kohler,Monica
+A1 Heaton,Thomas
+A1 Govindan,Ramesh
+A1 Davis,Paul
+A1 Estrin,Deborah
+YR 2006
+T1 Using embedded wired and wireless seismic networks in the mo- ment-resisting steel frame Factor building for damage identification
+
+RT Conference Proceedings
+ID 2471555
+A1 Girod,Lewis
+A1 Lukac,Martin
+A1 Trifa,Vlad
+A1 Estrin,Deborah
+YR 2006
+T1 A self-calibrating distributed acoustic sensing platform
+SP 335
+OP 336
+
+RT Journal Article
+ID 3534424
+A1 Chang,Kevin
+A1 Yau,Nathan
+A1 Hansen,Mark
+A1 Estrin,Deborah
+YR 2006
+T1 A CENTRALIZED REPOSITORY TO SLOG SENSOR NETWORK DATA
+
+RT Journal Article
+ID 4440572
+A1 Yu,Yan
+A1 Estrin,Deborah
+A1 Govindan,Ramesh
+A1 Rahimi,Mohammad
+YR 2006
+T1 Two Case Studies on Data Sensitivity of Wireless Sensor Network Algorithms and our Proposal on Scalable, Synthetic Data Generation
+JF International Journal of Distributed Sensor Networks
+VO 2
+SP 355
+OP 386
+IS 4
+
+RT Conference Proceedings
+ID 1900799
+A1 Rahimi,Mohammad,H.
+A1 Baer,Rick
+A1 Iroezi,Obimdinachi,I.
+A1 Garcia,Juan,C.
+A1 Warrior,Jay
+A1 Estrin,Deborah
+A1 Srivastava,Mani,B.
+YR 2005
+T1 Cyclops: in situ image sensing and interpretation in wireless sensor networks
+SP 192
+OP 204
+
+RT Conference Proceedings
+ID 1922428
+A1 Cerpa,Alberto
+A1 Wong,Jennifer,L.
+A1 Kuang,Louane
+A1 Potkonjak,Miodrag
+A1 Estrin,Deborah
+YR 2005
+T1 Statistical model of lossy links in wireless sensor networks
+SP 81
+OP 88
+
+RT Conference Proceedings
+ID 1900773
+A1 Ramanathan,Nithya
+A1 Chang,Kevin,K.
+A1 Kapur,Rahul
+A1 Girod,Lewis
+A1 Kohler,Eddie
+A1 Estrin,Deborah
+YR 2005
+T1 Sympathy for the sensor network debugger
+SP 255
+OP 267
+
+RT Conference Proceedings
+ID 1240170
+A1 Cerpa,Alberto
+A1 Wong,Jennifer,L.
+A1 Potkonjak,Miodrag
+A1 Estrin,Deborah
+YR 2005
+T1 Temporal properties of low power wireless links: modeling and implications on multi-hop routing
+SP 414
+OP 425
+
+RT Conference Proceedings
+ID 1900794
+A1 Dubois-Ferrière,Henri
+A1 Estrin,Deborah
+A1 Vetterli,Martin
+YR 2005
+T1 Packet combining in sensor networks
+SP 102
+OP 115
+
+RT Conference Proceedings
+ID 2364017
+A1 Ramanathan,Nithya
+A1 Yarvis,Mark
+A1 Chhabra,Jasmeet
+A1 Kushalnagar,Nandakishore
+A1 Krishnamurthy,Lakshman
+A1 Estrin,Deborah
+YR 2005
+T1 A Stream-Oriented Power Management Protocol for Low Duty Cycle Sensor Network Applications
+
+RT Journal Article
+ID 1749147
+A1 Ganesan,Deepak
+A1 Greenstein,Ben
+A1 Estrin,Deborah
+A1 Heidemann,John,S.
+A1 Govindan,Ramesh
+YR 2005
+T1 Multiresolution storage and search in sensor networks
+JF ACM Transactions on Storage
+VO 1
+SP 277
+OP 315
+IS 3
+
+RT Journal Article
+ID 2382486
+A1 Govindan,Ramesh
+A1 Kohler,Eddie
+A1 Estrin,Deborah
+A1 Bian,Fang
+A1 Chintalapudi,Krishna
+A1 Gnawali,Om
+A1 Gummadi,Ramakrishna
+A1 Rangwala,Sumit
+A1 Stathopoulos,Thanos
+YR 2005
+T1 Tenet: An Architecture for Tiered Embedded Networks
+
+RT Conference Proceedings
+ID 1806997
+A1 Pon,Richard
+A1 Batalin,Maxim,A.
+A1 Gordon,Jason
+A1 Kansal,Aman
+A1 Liu,Duo
+A1 Rahimi,Mohammad,H.
+A1 Shirachi,Lisa
+A1 Yu,Yan
+A1 Hansen,Mark,M.
+A1 Kaiser,William,J.
+A1 Srivastava,Mani,B.
+A1 Sukhatme,Gaurav,S.
+A1 Estrin,Deborah
+YR 2005
+T1 Networked infomechanical systems: a mobile embedded networked sensor platform
+SP 376
+OP 381
+
+RT Journal Article
+ID 1714961
+A1 Ramanathan,Nithya
+A1 Kohler,Eddie
+A1 Estrin,Deborah
+YR 2005
+T1 Towards a debugging system for sensor networks
+JF International Journal of Network Management
+VO 15
+SP 223
+OP 234
+IS 4
+
+RT Conference Proceedings
+ID 2654514
+A1 Wang,H.
+A1 Chen,C.,E.
+A1 Ali,A.
+A1 Asgari,S.
+A1 Hudson,R.,E.
+A1 Yao,K.
+A1 Estrin,D.
+A1 Taylor,C.
+YR 2005
+T1 Acoustic sensor networks for woodpecker localization
+VO 5910
+SP 80
+OP 91
+
+RT Conference Proceedings
+ID 2662071
+A1 Rahimi,Mohammad
+A1 Hansen,Mark
+A1 Kaiser,William,J.
+A1 Sukhatme,Gaurav,S.
+A1 Estrin,Deborah
+YR 2005
+T1 Adaptive sampling for environmental field estimation using robotic sensors
+
+RT Journal Article
+ID 3416627
+A1 Stathopoulos,T.
+A1 Girod,L.
+A1 Heidemann,J.
+A1 Estrin,D.
+YR 2005
+T1 Mote herding for tiered wireless sensor networks
+
+RT Journal Article
+ID 5165787
+A1 Wang,Hanbiao
+A1 Yao,Kung
+A1 Estrin,Deborah
+YR 2005
+T1 Information-Theoretic Approaches for Sensor Selection and Placement in Sensor Networks for Target Localization and Tracking
+JF Journal of Communications and Networks
+
+RT Journal Article
+ID 2848434
+A1 Greenstein,B.
+A1 Pesterev,A.
+A1 Mar,C.
+A1 Kohler,E.
+A1 Judy,J.
+A1 Farschi,S.
+A1 Es-trin,D.
+YR 2005
+T1 Collecting High-Rate Data Over low-rate Sensor Network Radios
+
+RT Journal Article
+ID 1241676
+A1 Ganeriwal,Saurabh
+A1 Ganesanl,Deepak
+A1 Hansen,Mark,M.
+A1 Srivastava,Mani,B.
+A1 Estrin,Deborah
+YR 2005
+T1 Rate-adaptive time synchronization for long-lived sensor networks
+JF Sigmetrics Performance Evaluation Review
+VO 33
+SP 374
+OP 375
+IS 1
+
+RT Journal Article
+ID 1733293
+A1 Goel,Ashish
+A1 Estrin,Deborah
+YR 2005
+T1 Simultaneous Optimization for Concave Costs: Single Sink Aggregation or Single Source Buy-at-Bulk
+JF Algorithmica
+VO 43
+SP 5
+OP 15
+IS 1-2
+
+RT Conference Proceedings
+ID 3837134
+A1 Batalin,Maxim,A.
+A1 Sukhatme,Gaurav,S.
+A1 Yu,Yan
+A1 Pon,Richard
+A1 Gordon,Jason
+A1 Rahimi,M.,H.
+A1 Kaiser,William,J.
+A1 Pottie,Gregory,J.
+A1 Estrin,Deborah,E.
+YR 2005
+T1 Task allocation for event-aware spatiotemporal sampling of environmental variables
+
+RT Conference Proceedings
+ID 1900805
+A1 Chang,Kevin,K.
+A1 Ramanathan,Nithya
+A1 Estrin,Deborah
+A1 Palsberg,Jens
+YR 2005
+T1 D.A.S.: deployment analysis system
+SP 301
+OP 301
+
+RT Journal Article
+ID 4540722
+A1 Girod,Lewis
+A1 Lukac,Martin
+A1 Parker,Andrew
+A1 Stathopoulos,Thanos
+A1 Tseng,Jeffrey
+A1 Wang,Hanbiao
+A1 Estrin,Deborah
+A1 Guy,Richard
+A1 Kohler,Eddie
+YR 2005
+T1 A Reliable Multicast Mechanism for Sensor Network Applications
+
+RT Conference Proceedings
+ID 4114846
+A1 Pon,Richard
+A1 Kansal,Aman
+A1 Liu,Duo
+A1 Rahimi,Mohammad
+A1 Shirachi,Lisa
+A1 Kaiser,William,J.
+A1 Pottie,Gregory,J.
+A1 Srivastava,Mani
+A1 Sukhatme,Gaurav
+A1 Estrin,Deborah
+YR 2005
+T1 Networked infomechanical systems (NIMS): next generation sensor networks for environmental monitoring
+
+RT Journal Article
+ID 1588305
+A1 Sayeed,A.
+A1 Estrin,D.
+A1 Pottie,G.
+A1 Ramchandran,K.
+A1 Pursley,M.,B.
+YR 2005
+T1 Guest Editorial Self-Organizing Distributed Collaborative Sensor Networks
+JF IEEE Journal on Selected Areas in Communications
+VO 23
+SP 689
+OP 692
+IS 4
+
+RT Book, Whole
+ID 1895618
+A1 Pon,Richard
+A1 Batalin,Maxim,A.
+A1 Chen,Victor
+A1 Kansal,Aman
+A1 Liu,Duo
+A1 Rahimi,Mohammad,H.
+A1 Shirachi,Lisa
+A1 Somasundra,Arun
+A1 Yu,Yan
+A1 Hansen,Mark,M.
+A1 Kaiser,William,J.
+A1 Srivastava,Mani,B.
+A1 Sukhatme,Gaurav,S.
+A1 Estrin,Deborah
+YR 2005
+T1 Coordinated Static and Mobile Sensing for Environmental Monitoring
+SP 403
+OP 405
+
+RT Journal Article
+ID 15203066
+A1 Ramanathan,Nithya
+A1 Kohler,Eddie
+A1 Estrin,Deborah
+YR 2005
+T1 Towards a debugging system for sensor networks
+JF International Journal of Network Management
+VO 15
+SP 223
+OP 234
+IS 4
+
+RT Journal Article
+ID 39214334
+A1 Ganeriwal,Saurabh
+A1 Ganesanl,Deepak
+A1 Hansen,Mark
+A1 Srivastava,Mani,B.
+A1 Estrin,Deborah
+YR 2005
+T1 Rate-adaptive time synchronization for long-lived sensor networks
+JF Sigmetrics Performance Evaluation Review
+SP 374
+OP 375
+
+RT Conference Proceedings
+ID 1900766
+A1 Rahimi,Mohammad,H.
+A1 Ahmadian,Shaun
+A1 Zats,David
+A1 Baer,Rick
+A1 Estrin,Deborah
+A1 Srivastava,Mani,B.
+YR 2005
+T1 Network of cyclops; image inference and interpretation in sensor network
+SP 310
+OP 310
+
+RT Journal Article
+ID 425177
+A1 Ye,Wei
+A1 Heidemann,John,S.
+A1 Estrin,Deborah
+YR 2004
+T1 Medium access control with coordinated adaptive sleeping for wireless sensor networks
+JF IEEE/ACM Transactions on Networking
+VO 12
+SP 493
+OP 506
+IS 3
+
+RT Journal Article
+ID 1233625
+A1 Cerpa,Alberto
+A1 Estrin,Deborah
+YR 2004
+T1 ASCENT: Adaptive Self-Configuring sEnsor Networks Topologies
+JF IEEE Transactions on Mobile Computing
+VO 3
+SP 272
+OP 285
+IS 3
+
+RT Conference Proceedings
+ID 1241357
+A1 Xu,Ning
+A1 Rangwala,Sumit
+A1 Chintalapudi,Krishna,Kant
+A1 Ganesan,Deepak
+A1 Broad,Alan
+A1 Govindan,Ramesh
+A1 Estrin,Deborah
+YR 2004
+T1 A wireless sensor network For structural monitoring
+SP 13
+OP 24
+
+RT Conference Proceedings
+ID 1249053
+A1 Girod,Lewis
+A1 Elson,Jeremy
+A1 Cerpa,Alberto
+A1 Stathopoulos,Thanos
+A1 Ramanathan,Nithya
+A1 Estrin,Deborah
+YR 2004
+T1 EmStar: A Software Environment for Developing and Deploying Wireless Sensor Networks
+SP 283
+OP 296
+
+RT Journal Article
+ID 928115
+A1 Szewczyk,Robert
+A1 Osterweil,Eric
+A1 Polastre,Joseph
+A1 Hamilton,Michael
+A1 Mainwaring,Alan,M.
+A1 Estrin,Deborah
+YR 2004
+T1 Habitat monitoring with sensor networks
+JF Communications of The ACM
+VO 47
+SP 34
+OP 40
+IS 6
+
+RT Journal Article
+ID 3540574
+A1 Culler,D.
+A1 Estrin,D.
+A1 Srivastava,M.,B.
+YR 2004
+T1 Overview of S ensor Networks
+JF IEEE Computer Society
+
+RT Conference Proceedings
+ID 893772
+A1 Kansal,Aman
+A1 Somasundara,Arun,A.
+A1 Jea,David,D.
+A1 Srivastava,Mani,B.
+A1 Estrin,Deborah
+YR 2004
+T1 Intelligent fluid infrastructure for embedded networks
+SP 111
+OP 124
+
+RT Conference Proceedings
+ID 1241372
+A1 Girod,Lewis
+A1 Stathopoulos,Thanos
+A1 Ramanathan,Nithya
+A1 Elson,Jeremy
+A1 Estrin,Deborah
+A1 Osterweil,Eric
+A1 Schoellhammer,Tom
+YR 2004
+T1 A system for simulation, emulation, and deployment of heterogeneous sensor networks
+SP 201
+OP 213
+
+RT Journal Article
+ID 801491
+A1 Bulusu,Nirupama
+A1 Heidemann,John,S.
+A1 Estrin,Deborah
+A1 Tran,Tommy
+YR 2004
+T1 Self-configuring localization systems: Design and Experimental Evaluation
+JF ACM Transactions in Embedded Computing Systems
+VO 3
+SP 24
+OP 60
+IS 1
+
+RT Journal Article
+ID 43402
+A1 Bulusu,Nirupama
+A1 Heidemann,John
+A1 Estrin,Deborah
+A1 Tran,Tommy
+YR 2004
+T1 Self-configuring localization systems: Design and Experimental Evaluation
+JF ACM Transactions in Embedded Computing Systems
+VO 3
+SP 24
+OP 60
+IS 1
+
+RT Journal Article
+ID 1610564
+A1 Culler,David,E.
+A1 Estrin,Deborah
+A1 Srivastava,Mani,B.
+YR 2004
+T1 Guest Editors' Introduction: Overview of Sensor Networks
+JF IEEE Computer
+VO 37
+SP 41
+OP 49
+IS 8
+
+RT Conference Proceedings
+ID 1241358
+A1 Batalin,Maxim,A.
+A1 Rahimi,Mohammad,H.
+A1 Yu,Yan
+A1 Liu,Duo
+A1 Kansal,Aman
+A1 Sukhatme,Gaurav,S.
+A1 Kaiser,William,J.
+A1 Hansen,Mark,M.
+A1 Pottie,Gregory,J.
+A1 Srivastava,Mani,B.
+A1 Estrin,Deborah
+YR 2004
+T1 Call and response: experiments in sampling the environment
+SP 25
+OP 38
+
+RT Journal Article
+ID 724089
+A1 Ganesan,Deepak
+A1 Ratnasamy,Sylvia
+A1 Wang,Hanbiao
+A1 Estrin,Deborah
+YR 2004
+T1 Coping with irregular spatio-temporal sampling in sensor networks
+JF Computer Communication Review
+VO 34
+SP 125
+OP 130
+IS 1
+
+RT Conference Proceedings
+ID 892932
+A1 Wang,Hanbiao
+A1 Yao,Kung
+A1 Pottie,Gregory,J.
+A1 Estrin,Deborah
+YR 2004
+T1 Entropy-based sensor selection heuristic for target localization
+SP 36
+OP 45
+
+RT Conference Proceedings
+ID 1241362
+A1 Greenstein,Ben
+A1 Kohler,Eddie
+A1 Estrin,Deborah
+YR 2004
+T1 A sensor network application construction kit (SNACK)
+SP 69
+OP 80
+
+RT Conference Proceedings
+ID 2140562
+A1 Rahimi,Mohammad,H.
+A1 Ponw,Richard
+A1 Kaiser,William,J.
+A1 Sukhatmes,Gaurav,S.
+A1 Estrin,Deborah
+A1 Srivastava,Mani,B.
+YR 2004
+T1 Adaptive Sampling for Environmental Robotics
+VO 4
+SP 3537
+OP 3544
+
+RT Journal Article
+ID 1718336
+A1 Ganesan,Deepak
+A1 Cerpa,Alberto
+A1 Estrin,Deborah
+A1 Yu,Yan
+A1 Zhao,Jerry
+YR 2004
+T1 Networking issues in wireless sensor networks
+JF Journal of Parallel and Distributed Computing
+VO 64
+SP 799
+OP 814
+IS 7
+
+RT Conference Proceedings
+ID 2334006
+A1 Dubois-Ferriere,H.
+A1 Estrin,Deborah
+A1 Stathopoulos,Thanos
+YR 2004
+T1 Efficient and practical query scoping in sensor networks
+
+RT Conference Proceedings
+ID 2305526
+A1 Wang,Hanbiao
+A1 Yip,Len
+A1 Yao,Kung
+A1 Estrin,Deborah
+YR 2004
+T1 Lower bounds of localization uncertainty in sensor networks
+VO 3
+
+RT Conference Proceedings
+ID 2368119
+A1 Kansal,Aman
+A1 Rahimi,Mohammad
+A1 Kaiser,William,J
+A1 Srivastava,Mani,B
+A1 Pottie,Gregory,J
+A1 Estrin,Deborah
+YR 2004
+T1 Controlled Mobility for Sustainable Wireless Networks
+
+RT Conference Proceedings
+ID 1241403
+A1 Rahimi,Mohammad,H.
+A1 Estrin,Deborah
+A1 Baer,Rick
+A1 Uyeno,Henry
+A1 Warrior,Jay
+YR 2004
+T1 Cyclops, image sensing and interpretation in wireless networks
+SP 311
+OP 311
+
+RT Journal Article
+ID 1431050
+A1 Bergamo,Pierpaolo
+A1 Asgari,Shadnaz
+A1 Wang,Hanbiao
+A1 Maniezzo,Daniela
+A1 Yip,Len
+A1 Hudson,Ralph,E.
+A1 Yao,Kung
+A1 Estrin,Deborah
+YR 2004
+T1 Collaborative Sensor Networking Towards Real-Time Acoustical Beamforming in Free-Space and Limited Reverberance
+JF IEEE Transactions on Mobile Computing
+VO 3
+SP 211
+OP 224
+IS 3
+
+RT Conference Proceedings
+ID 664212
+A1 Su,Norman,Makoto
+A1 Bostrom,Eric
+A1 Burke,Jeff
+A1 Srivastava,Mani,B.
+A1 Estrin,Deborah
+YR 2004
+T1 Augmenting Film and Video Footage with Sensor Data
+SP 3
+OP 12
+
+RT Conference Proceedings
+ID 2896211
+A1 Kansal,Aman
+A1 Rahimi,Mohammad
+A1 Estrin,Deborah
+A1 Kaiser,William,J
+A1 Pottie,Gregory,J
+A1 Srivastava,Mani,B
+YR 2004
+T1 Controlled mobility for sustainable wireless sensor networks
+
+RT Conference Proceedings
+ID 1775573
+A1 Schoellhammer,Tom
+A1 Osterweil,Eric
+A1 Greenstein,Ben
+A1 Wimbrow,Mike
+A1 Estrin,Deborah
+YR 2004
+T1 Lightweight Temporal Compression of Microclimate Datasets
+SP 516
+OP 524
+
+RT Conference Proceedings
+ID 1775633
+A1 Ramanathan,Nithya
+A1 Kohler,Eddie
+A1 Girod,Lewis
+A1 Estrin,Deborah
+YR 2004
+T1 Sympathy: A Debugging System for Sensor Networks
+SP 554
+OP 555
+
+RT Journal Article
+ID 1432304
+A1 ELSON,JEREMY
+A1 GIROD,LEWIS
+A1 ESTRIN,DEBORAH
+YR 2004
+T1 EmStar: development with high system visibility
+JF IEEE Wireless Communications
+VO 11
+SP 70
+OP 77
+IS 6
+
+RT Journal Article
+ID 893858
+A1 Radoslavov,Pavlin
+A1 Papadopoulos,Christos
+A1 Govindan,Ramesh
+A1 Estrin,Deborah
+YR 2004
+T1 A comparison of application-level and router-assisted hierarchical schemes for reliable multicast
+JF IEEE/ACM Transactions on Networking
+VO 12
+SP 469
+OP 482
+IS 3
+
+RT Conference Proceedings
+ID 1775626
+A1 Yu,Yan
+A1 Estrin,Deborah
+A1 Rahimi,Mohammad,H.
+A1 Govindan,Ramesh
+YR 2004
+T1 Using More Realistic Data Models to Evaluate Sensor Network Data Processing Algorithms
+SP 569
+OP 570
+
+RT Conference Proceedings
+ID 3038851
+A1 Wang,H.
+A1 Yao,K.
+A1 Pottie,G.
+A1 Estrin,D.
+YR 2004
+T1 Entropy-based sensor selection heuristic for local-ization
+
+RT Conference Proceedings
+ID 3999306
+A1 Girod,L.
+A1 Stathopoulos,T.
+A1 Ramanathan,N.
+A1 Estrin,D.
+YR 2004
+T1 Tools for deployment and simulation of heterogeneous sensor networks
+
+RT Journal Article
+ID 2412449
+A1 Elson,J.
+A1 Estrin,D.
+YR 2004
+T1 Wireless Sensor Networks: A bridge to the Physical World
+
+RT Journal Article
+ID 3027549
+A1 Haux,E.
+A1 Harmon,T.,C.
+A1 Busek,N.,D.
+A1 Schoellhammer,T.
+A1 Saez,J.
+A1 Kim,J.
+A1 Estrin,D.
+YR 2004
+T1 Embedded network sensing of moisture and nitrate propagation during irrigation with reclaimed wastew
+
+RT Conference Proceedings
+ID 1775593
+A1 Stathopoulos,Thanos
+A1 Kapur,Rahul
+A1 Estrin,Deborah
+A1 Heidemann,John,S.
+A1 Zhang,Lixia
+YR 2004
+T1 Application-Based Collision Avoidance in Wireless Sensor Networks
+SP 506
+OP 514
+
+RT Conference Proceedings
+ID 1775564
+A1 Greenstein,Ben
+A1 Kohler,Eddie
+A1 Culler,David,E.
+A1 Estrin,Deborah
+YR 2004
+T1 Distributed Techniques for Area Computation in Sensor Networks
+SP 533
+OP 541
+
+RT Journal Article
+ID 765746
+A1 Helmy,Ahmed
+A1 Gupta,Sandeep,K.,S.
+A1 Estrin,Deborah
+YR 2004
+T1 The STRESS method for boundary-point performance analysis of end-to-end multicast timer-suppression mechanisms
+JF IEEE/ACM Transactions on Networking
+VO 12
+SP 44
+OP 58
+IS 1
+
+RT Journal Article
+ID 2385085
+A1 Silva,F.
+A1 Heidemann,J.
+A1 Govindan,R.
+A1 Estrin,D.
+YR 2004
+T1 USC/Information Sciences Institute
+
+RT Journal Article
+ID 2325753
+A1 Silva,Fabio
+A1 Heidemann,John
+A1 Govindan,Ramesh
+A1 Estrin,Deborah
+YR 2004
+T1 An Overview of Directed Diffusion
+
+RT Journal Article
+ID 3966786
+A1 Helmy,A.
+A1 Gupta,S.
+A1 Estrin,D.
+YR 2004
+T1 The STRESS Method for Performance Evaluation of End-to-end Multicast Protocols
+JF IEEE/ACM Transactions on Networking
+
+RT Conference Proceedings
+ID 1825858
+A1 Pon,Richard
+A1 Batalin,Maxim,A.
+A1 Rahimi,Mohammad,H.
+A1 Yu,Yan
+A1 Estrin,Deborah
+A1 Pottie,Gregory,J.
+A1 Srivastava,Mani,B.
+A1 Sukhatme,Gaurav,S.
+A1 Kaiser,William,J.
+YR 2004
+T1 Self-Aware Distributed Embedded Systems
+SP 102
+OP 107
+
+RT Conference Proceedings
+ID 1241404
+A1 Parker,Andrew
+A1 Girod,Lewis
+A1 Stathopoulos,Thanos
+A1 Elson,Jeremy
+A1 Guy,Richard,G.
+A1 Estrin,Deborah
+YR 2004
+T1 Demonstration of EmStar
+SP 312
+OP 312
+
+RT Conference Proceedings
+ID 50360436
+A1 Wang,Hanbiao
+A1 Pottie,G.
+A1 Yao,Kung
+A1 Estrin,Deborah
+YR 2004
+T1 Entropy-based sensor selection heuristic for target localization
+
+RT Journal Article
+ID 765496
+A1 Intanagonwiwat,Chalermek
+A1 Govindan,Ramesh
+A1 Estrin,Deborah
+A1 Heidemann,John,S.
+A1 Silva,Fabio
+YR 2003
+T1 Directed diffusion for wireless sensor networking
+JF IEEE/ACM Transactions on Networking
+VO 11
+SP 2
+OP 16
+IS 1
+
+RT Journal Article
+ID 724094
+A1 Shenker,Scott
+A1 Ratnasamy,Sylvia
+A1 Karp,Brad
+A1 Govindan,Ramesh
+A1 Estrin,Deborah
+YR 2003
+T1 Data-centric storage in sensornets
+JF Computer Communication Review
+VO 33
+SP 137
+OP 142
+IS 1
+
+RT Journal Article
+ID 38184
+A1 Ratnasamy,Sylvia
+A1 Karp,Brad
+A1 Shenker,Scott
+A1 Estrin,Deborah
+A1 Govindan,Ramesh
+A1 Yin,Li
+A1 Yu,Fang
+YR 2003
+T1 Data-Centric Storage in Sensornets with GHT, a Geographic Hash Table
+JF Mobile Networks and Applications
+VO 8
+SP 427
+OP 442
+IS 4
+
+RT Conference Proceedings
+ID 424599
+A1 Zhao,Jerry
+A1 Govindan,Ramesh
+A1 Estrin,Deborah
+YR 2003
+T1 Computing aggregates for monitoring wireless sensor networks
+
+RT Journal Article
+ID 1251943
+A1 Cerpa,Alberto
+A1 Busek,Naim
+A1 Estrin,Deborah
+YR 2003
+T1 SCALE: A tool for Simple Connectivity Assessment in Lossy Environments
+
+RT Conference Proceedings
+ID 35529
+A1 Heidemann,John,S.
+A1 Silva,Fabio
+A1 Estrin,Deborah
+YR 2003
+T1 Matching data dissemination algorithms to application requirements
+SP 218
+OP 229
+
+RT Journal Article
+ID 724149
+A1 Ganesan,Deepak
+A1 Estrin,Deborah
+A1 Heidemann,John,S.
+YR 2003
+T1 Dimensions: why do we need a new data handling architecture for sensor networks?
+JF Computer Communication Review
+VO 33
+SP 143
+OP 148
+IS 1
+
+RT Journal Article
+ID 1251710
+A1 Stathopoulos,Thanos
+A1 Heidemann,John
+A1 Estrin,Deborah
+YR 2003
+T1 A Remote Code Update Mechanism for Wireless Sensor Networks
+
+RT Journal Article
+ID 1263293
+A1 CHEN,JOE,C.
+A1 Yip,Len
+A1 ELSON,JEREMY
+A1 Wang,Hanbiao
+A1 MANIEZZO,DANIELA
+A1 HUDSON,RALPH,E.
+A1 Yao,Kung
+A1 ESTRIN,DEBORAH
+YR 2003
+T1 Coherent acoustic array processing and localization on wireless sensor networks
+JF Proceedings of The IEEE
+VO 91
+SP 1154
+OP 1162
+IS 8
+
+RT Journal Article
+ID 32074
+A1 Elson,J.
+A1 Bien,S.
+A1 Busek,N.
+A1 Bychkovskiy,V.
+A1 Cerpa,A.
+A1 Ganesan,D.
+A1 Girod,L.
+A1 Greenstein,B.
+A1 Schoellhammer,T.
+A1 Stathopoulos,T.
+A1 Estrin,D.
+YR 2003
+T1 EmStar: An Environment for Developing Wireless Embedded Systems Software
+
+RT Journal Article
+ID 2962681
+A1 Greenstein,Benjamin
+A1 Ratnasamy,Sylvia
+A1 Shenker,Scott
+A1 Govindan,Ramesh
+A1 Estrin,Deborah
+YR 2003
+T1 DIFS: a distributed index for features in sensor networks
+JF Ad Hoc Networks
+VO 1
+SP 333
+OP 349
+IS 2-3
+
+RT Conference Proceedings
+ID 54832
+A1 Goel,Ashish
+A1 Estrin,Deborah
+YR 2003
+T1 Simultaneous optimization for concave costs: single sink aggregation or single source buy-at-bulk
+SP 499
+OP 505
+
+RT Conference Proceedings
+ID 26735
+A1 Wang,Hanbiao
+A1 Elson,Jeremy
+A1 Girod,Lewis
+A1 Estrin,Deborah
+A1 Yaot,Kung
+YR 2003
+T1 Target classification and localization in habitat monitoring
+VO 4
+
+RT Conference Proceedings
+ID 892486
+A1 Ganesan,Deepak
+A1 Greenstein,Ben
+A1 Perelyubskiy,Denis
+A1 Estrin,Deborah
+A1 Heidemann,John,S.
+YR 2003
+T1 An evaluation of multi-resolution storage for sensor networks
+SP 89
+OP 102
+
+RT Conference Proceedings
+ID 538284
+A1 Rahimi,Mohammad,H.
+A1 Shah,Hardik
+A1 Sukhatme,Gaurav,S.
+A1 Heidemann,John,S.
+A1 Estrin,Deborah
+YR 2003
+T1 Studying the Feasibility of Energy Harvesting in a Mobile Sensor Network
+VO 1
+SP 19
+OP 24
+
+RT Conference Proceedings
+ID 26859
+A1 Ganesan,Deepak
+A1 Greenstein,Ben
+A1 Perelyubskiy,Denis
+A1 Estrin,Deborah
+A1 Heidemann,John
+YR 2003
+T1 An evaluation of multi-resolution search and storage in resource-constrained sensor networks
+
+RT Journal Article
+ID 1954008
+A1 Kaiser,William,J.
+A1 Pottie,Gregory,J.
+A1 Srivastava,Mani
+A1 Sukhatme,Gaurav,S.
+A1 Villasenor,John
+A1 Estrin,Deborah
+YR 2003
+T1 Networked Infomechanical Systems (NIMS) for Ambient Intelligence
+
+RT Journal Article
+ID 3079582
+A1 Allen,M.
+A1 Estrin,D.
+A1 Rottenberry,J.
+A1 Rundel,P.
+A1 Srivastava,M.
+A1 Soatto,S.
+YR 2003
+T1 Extensible sensing system: An advanced network design for microclimate sensing
+
+RT Book, Whole
+ID 425326
+A1 Bychkovskiy,Vladimir
+A1 Megerian,Seapahn
+A1 Estrin,Deborah
+A1 Potkonjak,Miodrag
+YR 2003
+T1 A Collaborative Approach to In-Place Sensor Calibration
+SP 301
+OP 316
+
+RT Journal Article
+ID 3996648
+A1 Osterweil,E.
+A1 Estrin,Deborah
+YR 2003
+T1 Tiny Diffusion in the Extensible Sensing System at the James Reserve
+
+RT Journal Article
+ID 29908
+A1 Karp,Richard
+A1 Elson,Jeremy
+A1 Estrin,Deborah
+A1 Shenker,Scott
+YR 2003
+T1 Optimal and Global Time Synchronization in Sensornets
+
+RT Conference Proceedings
+ID 2029193
+A1 Bychkovskiy,V.
+A1 Megerian,S.
+A1 Estrin,D.
+A1 Potkonjak,M.
+YR 2003
+T1 Colibration: A collaborative approach to in-place sensor calibration
+
+RT Journal Article
+ID 2408105
+A1 Yu,Yan
+A1 Ganesan,Deepak
+A1 Girod,Lewis
+A1 Estrin,Deborah
+A1 Govindan,Ramesh
+YR 2003
+T1 Synthetic Data Generation to Support Irregular Sampling in Sensor Networks
+
+RT Conference Proceedings
+ID 2382258
+A1 Wang,H.
+A1 Elson,J.
+A1 Girod,L.
+A1 Estrin,D.
+A1 Yao,K.
+YR 2003
+T1 Target classification and localization in a habitat monitoring application
+
+RT Journal Article
+ID 2351625
+A1 Ganesan,Deepak
+A1 Cerpa,Alberto
+A1 Yu,Yan
+A1 Estrin,Deborah
+A1 Ye,Wei
+A1 Zhao,Jerry
+YR 2003
+T1 Networking Issues in Wireless Sensor Networks
+JF Journal of Parallel and Distributed Computing
+
+RT Conference Proceedings
+ID 2201440
+A1 Wang,Hanbiao
+A1 Yao,Kung
+A1 Pottie,Gregory,J.
+A1 Estrin,Deborah
+YR 2003
+T1 Entropy-based sensor selection for localization
+SP 304
+OP 305
+
+RT Conference Proceedings
+ID 4139044
+A1 Chen,J.,C.
+A1 Yip,L.
+A1 Wang,H.
+A1 Maniezzo,D.
+A1 Hudson,R.,E.
+A1 Elson,J.
+A1 Yao,K.
+A1 Estrin,D.
+YR 2003
+T1 DSP implementation of a distributed acoustical beamformer on a wireless sensor platform
+VO 2
+
+RT Conference Proceedings
+ID 2702627
+A1 Ganesan,D.
+A1 Greenstein,B.
+A1 Perelyubskiy,D.
+A1 Estrin,D.
+A1 Heideman,J.
+YR 2003
+T1 An implementation of multi-resolution search and storage in resource-constrained sensor networks
+
+RT Conference Proceedings
+ID 50307556
+A1 Greenstein,Benjamin
+A1 Estrin,Deborah
+A1 Govindan,R.
+A1 Ratnasamy,S.
+A1 Shenker,S.
+YR 2003
+T1 DIFS: a distributed index for features in sensor networks
+
+RT Journal Article
+ID 3027550
+A1 Estrin,Deborah
+YR 2003
+T1 Embedded Networked Sensing for Environmental Monitoring: Applications and Challenges
+
+RT Conference Proceedings
+ID 13274075
+A1 Akyildiz,Ian,F.
+A1 Estrin,Deborah
+A1 Culler,David,E.
+A1 Srivastava,Mani,B.
+YR 2003
+T1 Proceedings of the 1st International Conference on Embedded Networked Sensor Systems, SenSys 2003, Los Angeles, California, USA, November 5-7, 2003
+
+RT Conference Proceedings
+ID 892555
+A1 Wang,Hanbiao
+A1 Yao,Kung
+A1 Pottie,Greg
+A1 Estrin,Deborah
+YR 2003
+T1 Poster abstract: entropy-based sensor selection for localization
+
+RT Journal Article
+ID 1431175
+A1 Estrin,D.
+A1 Sukhatme,G.
+YR 2003
+T1 From the guest editors [focused on sensing and actuation]
+JF IEEE Pervasive Computing
+VO 2
+SP 3
+OP 3
+IS 4
+
+RT Conference Proceedings
+ID 592336
+A1 Estrin,Deborah
+YR 2003
+T1 Embedded networked sensing systems: motivations and challenges
+SP 32
+OP 32
+
+RT Conference Proceedings
+ID 72202
+A1 Ye,Wei
+A1 Heidemann,John,S.
+A1 Estrin,Deborah
+YR 2002
+T1 An Energy-Efficient MAC Protocol for Wireless Sensor Networks
+VO 3
+SP 1567
+
+RT Journal Article
+ID 105684
+A1 Elson,Jeremy
+A1 Girod,Lewis
+A1 Estrin,Deborah
+YR 2002
+T1 Fine-grained network time synchronization using reference broadcasts
+JF Operating Systems Review
+VO 36
+SP 147
+OP 163
+IS SI
+
+RT Journal Article
+ID 1606307
+A1 Zhang,Lixia
+A1 Deering,Stephen
+A1 Estrin,Deborah
+A1 Shenker,Scott
+A1 Zappala,Daniel
+YR 2002
+T1 RSVP: a new resource reservation protocol
+JF IEEE Communications Magazine
+VO 40
+SP 116
+OP 127
+IS 5
+
+RT Conference Proceedings
+ID 656181
+A1 Krishnamachari,Bhaskar
+A1 Estrin,Deborah
+A1 Wicker,Stephen,B.
+YR 2002
+T1 The Impact of Data Aggregation in Wireless Sensor Networks
+SP 575
+OP 578
+
+RT Journal Article
+ID 38519
+A1 Cerpa,Alberto
+A1 Estrin,Deborah
+YR 2002
+T1 ASCENT: Adaptive Self-Configuring sEnsor Network Topologies
+JF Computer Communication Review
+VO 32
+SP 62
+OP 62
+IS 1
+
+RT Conference Proceedings
+ID 607327
+A1 Intanagonwiwat,Chalermek
+A1 Estrin,Deborah
+A1 Govindan,Ramesh
+A1 Heidemann,John,S.
+YR 2002
+T1 Impact of Network Density on Data Aggregation in Wireless Sensor Networks
+SP 457
+OP 458
+
+RT Journal Article
+ID 59740
+A1 Ganesan,Deepak
+A1 Estrin,Deborah
+A1 Woo,Alec
+A1 Culler,David
+A1 Krishnamachari,Bhaskar
+A1 Wicker,Stephen
+YR 2002
+T1 Complex Behavior at Scale: An Experimental Study of Low-Power Wireless Sensor Networks
+
+RT Conference Proceedings
+ID 47333
+A1 Ratnasamy,Sylvia
+A1 Karp,Brad
+A1 Yin,Li
+A1 Yu,Fang
+A1 Estrin,Deborah
+A1 Govindan,Ramesh
+A1 Shenker,Scott
+YR 2002
+T1 GHT: a geographic hash table for data-centric storage
+SP 78
+OP 87
+
+RT Conference Proceedings
+ID 50270593
+A1 Cerpa,A.
+A1 Estrin,D.
+YR 2002
+T1 ASCENT: Adaptive Self-Configuring sEnsor Networks Topologies
+VO 3
+SP 1278
+
+RT Conference Proceedings
+ID 653102
+A1 Braginsky,David
+A1 Estrin,Deborah
+YR 2002
+T1 Rumor routing algorthim for sensor networks
+SP 22
+OP 31
+
+RT Conference Proceedings
+ID 42945
+A1 Krishnamachari,Bhaskar
+A1 Estrin,Deborah
+A1 Wicker,Stephen
+YR 2002
+T1 Modelling Data-Centric Routing in Wireless Sensor Networks
+
+RT Journal Article
+ID 69492
+A1 Ganesan,Deepak
+A1 Krishnamachari,Bhaskar
+A1 Woo,Alec
+A1 Culler,David
+A1 Estrin,Deborah
+A1 Wicker,Stephen
+YR 2002
+T1 An Empirical Study of Epidemic Algorithms in Large Scale Multihop Wireless Networks
+
+RT Conference Proceedings
+ID 22116
+A1 Girod,Lewis
+A1 Bychkovskiy,Vladimir
+A1 Elson,Jeremy
+A1 Estrin,Deborah
+YR 2002
+T1 Locating Tiny Sensors in Time and Space: A Case Study
+SP 214
+OP 219
+
+RT Conference Proceedings
+ID 2371924
+A1 Ratnasamy,S.
+A1 Karp,B.
+A1 Yin,L.
+A1 Yu,F.
+A1 Estrin,D.
+A1 Govin-dan,R.
+A1 Shenker,S.
+YR 2002
+T1 GHT: A Geographic Hash Table for Data-Centric Storage in SensorNets
+
+RT Journal Article
+ID 48626
+A1 Wang,Hanbiao
+A1 Estrin,Deborah
+A1 Girod,Lewis
+YR 2002
+T1 Preprocessing in a Tiered Sensor Network for Habitat Monitoring
+JF Eurasip Journal on Advances in Signal Processing
+
+RT Conference Proceedings
+ID 1332159
+A1 Zhao,Jerry
+A1 Govindan,Ramesh
+A1 Estrin,Deborah
+YR 2002
+T1 Residual energy scans for monitoring wireless sensor networks
+
+RT Journal Article
+ID 2956854
+A1 Chalermek,Ramesh,Govindan
+A1 Estrin,Deborah
+YR 2002
+T1 Directed Diffusion: A Scalable and Robust Communication Paradigm for Sensor Networks
+
+RT Conference Proceedings
+ID 2135541
+A1 Zhao,Yonggang,Jerry
+A1 Govindan,Ramesh
+A1 Estrin,Deborah
+YR 2002
+T1 Residual energy scan for monitoring sensor networks
+
+RT Journal Article
+ID 2115964
+A1 Bulusu,N.
+A1 Heidemann,J.
+A1 Bychkovskiy,V.
+A1 Estrin,D.
+YR 2002
+T1 Density-adaptive beacon placement algorithms for localization in ad hoc wireless networks
+
+RT Journal Article
+ID 3724222
+A1 Bulusu,Nirupama
+A1 Heidemann,John
+A1 Estrin,Deborah
+A1 Tommy,Tran
+YR 2002
+T1 Self-Configuring Localization Systems: Design and Experimental Evaluation
+
+RT Conference Proceedings
+ID 3702752
+A1 Branginsky,David
+A1 Estrin,Deborah
+YR 2002
+T1 Rumor Routing Algorithm for Sensor Netowrks
+
+RT Journal Article
+ID 3158833
+A1 Bulusu,N.
+A1 Heidemann,J.
+A1 Estrin,D.
+YR 2002
+T1 GPS-Less Low Cost Outdoor Localization for Wireless Sensor Networks
+
+RT Journal Article
+ID 57427
+A1 Heidemann,John
+A1 Silva,Fabio
+A1 Yu,Yan
+A1 Estrin,Deborah
+A1 Haldar,Padmaparna
+YR 2002
+T1 Diffusion Filters as a Flexible Architecture for Event Notification in Wireless Sensor Networks
+
+RT Journal Article
+ID 2076648
+A1 Xu,Y.
+A1 Heidemann,J.
+A1 Estrin,D.
+YR 2002
+T1 Energy conservation by adaptive clustering for ad-hoc networks
+
+RT Journal Article
+ID 845754
+A1 Radoslavov,Pavlin
+A1 Govindan,Ramesh
+A1 Estrin,Deborah
+YR 2002
+T1 Topology-informed Internet replica placement
+JF Computer Communications
+VO 25
+SP 384
+OP 392
+IS 4
+
+RT Journal Article
+ID 878982
+A1 Zhao,Jerry
+A1 Govindan,Ramesh
+A1 Estrin,Deborah
+YR 2002
+T1 Sensor Network Tomography: monitoring wireless sensor networks
+JF Computer Communication Review
+VO 32
+SP 64
+OP 64
+IS 1
+
+RT Conference Proceedings
+ID 4025028
+A1 Estrin,D.
+A1 Srivastava,M.
+A1 Sayeed,A.
+YR 2002
+T1 Tutorial on Wireless Sensor Networks
+
+RT Conference Proceedings
+ID 2743967
+A1 Cerpa,A.
+A1 Estrin,D.
+YR 2002
+T1 Ascent: Adaptive self-configuring network topologies
+
+RT Journal Article
+ID 4137636
+A1 Ganesan,D.
+A1 Krishnamachari,B.
+A1 Woo,A.
+A1 Culler,D.
+A1 Estrin,D.
+A1 Wicker,S.
+YR 2002
+T1 An Empirical Study of Epidemic Algorithms in Large Scale Multihop
+
+RT Conference Proceedings
+ID 3702755
+A1 Bragansky,D.
+A1 Estrin,D.
+YR 2002
+T1 Rumor Routing for Sensor Networks
+
+RT Journal Article
+ID 2670838
+A1 Zhao,Y.
+A1 Govindan,R.
+A1 Estrin,D.
+YR 2002
+T1 Aggregate network properties for monitoring wireless sensor networks
+
+RT Journal Article
+ID 39237650
+A1 Elson,Jeremy
+A1 Girod,Lewis
+A1 Estrin,Deborah
+YR 2002
+T1 Fine-grained network time synchronization using reference broadcasts
+JF Operating Systems Review
+SP 147
+OP 163
+
+RT Journal Article
+ID 32662
+A1 Elson,Jeremy
+A1 Girod,Lewis
+A1 Estrin,Deborah
+YR 2002
+T1 SHORT PAPER: A WIRELESS TIME-SYNCHRONIZED COTS SENSOR PLATFORM PART I: SYSTEM ARCHITECTURE
+
+RT Journal Article
+ID 1847931
+A1 Estrin,Deborah
+YR 2002
+T1 Keynote address: Sensor network research: emerging challenges for architecture, systems, and languages
+JF ACM Sigarch Computer Architecture News
+SP 1
+OP 4
+
+RT Journal Article
+ID 1711732
+A1 Helmy,Ahmed
+A1 Gupta,Sandeep,K.,S.
+A1 Estrin,Deborah
+YR 2002
+T1 The STRESS Method for Boundary-point Performance Analysis of End-to-end Multicast Timer-Suppression Mechanisms
+JF Computing Research Repository
+VO cs.NI/0208
+
+RT Journal Article
+ID 14410232
+A1 Estrin,Deborah
+YR 2002
+T1 Keynote address: Sensor network research: emerging challenges for architecture, systems, and languages
+JF Sigplan Notices
+VO 37
+SP 1
+OP 4
+IS 10
+
+RT Conference Proceedings
+ID 129961
+A1 Xu,Ya
+A1 Heidemann,John,S.
+A1 Estrin,Deborah
+YR 2001
+T1 Geography-informed energy conservation for Ad Hoc routing
+SP 70
+OP 84
+
+RT Journal Article
+ID 2372188
+A1 Cerpa,Alberto
+A1 Elson,Jeremy
+A1 Estrin,Deborah
+A1 Girod,Lewis
+A1 Hamilton,Michael
+A1 Zhao,Jerry
+YR 2001
+T1 Habitat monitoring: application driver for wireless communications technology
+JF Computer Communication Review
+VO 31
+SP 20
+OP 41
+IS 2-Suppleme
+
+RT Journal Article
+ID 86657
+A1 Heidemann,John,S.
+A1 Silva,Fabio
+A1 Intanagonwiwat,Chalermek
+A1 Govindan,Ramesh
+A1 Estrin,Deborah
+A1 Ganesan,Deepak
+YR 2001
+T1 Building Efficient Wireless Sensor Networks with Low-Level Naming
+JF Operating Systems Review
+VO 35
+SP 146
+OP 159
+IS 5
+
+RT Conference Proceedings
+ID 128720
+A1 Estrin,D.
+A1 Girod,L.
+A1 Pottie,G.
+A1 Srivastavat,M.
+YR 2001
+T1 Instrumenting the world with wireless sensor networks
+VO 4
+SP 2033
+
+RT Journal Article
+ID 114537
+A1 Ganesan,Deepak
+A1 Govindan,Ramesh
+A1 Shenker,Scott
+A1 Estrin,Deborah
+YR 2001
+T1 Highly-resilient, energy-efficient multipath routing in wireless sensor networks
+JF Mobile Computing and Communications Review
+VO 5
+SP 251
+OP 254
+IS 4
+
+RT Conference Proceedings
+ID 156725
+A1 Elson,Jeremy
+A1 Estrin,Deborah
+YR 2001
+T1 Time Synchronization for Wireless Sensor Networks
+SP 186
+OP 1970
+
+RT Journal Article
+ID 121899
+A1 Yu,Yan
+A1 Govindan,Ramesh
+A1 Estrin,Deborah
+YR 2001
+T1 Geographical and Energy Aware Routing: a recursive data dissemination protocol for wireless sensor networks
+
+RT Conference Proceedings
+ID 126914
+A1 Girod,Lewis
+A1 Estrin,Deborah
+YR 2001
+T1 Robust range estimation using acoustic and multimodal sensing
+
+RT Journal Article
+ID 129479
+A1 Bulusu,Nirupama
+A1 Estrin,Deborah
+A1 Girod,Lewis
+A1 Heidemann,John
+YR 2001
+T1 Scalable Coordination for Wireless Sensor Networks: Self-Configuring Localization Systems
+
+RT Conference Proceedings
+ID 129155
+A1 Bulusu,Nirupama
+A1 Estrin,Deborah
+A1 Heidemann,John,S.
+YR 2001
+T1 Adaptive Beacon Placement
+SP 489
+OP 498
+
+RT Conference Proceedings
+ID 176808
+A1 Tangmunarunkit,Hongsuda
+A1 Govindan,Ramesh
+A1 Shenker,Scott
+A1 Estrin,Deborah
+YR 2001
+T1 The Impact of Routing Policy on Internet Paths
+VO 2
+SP 736
+OP 742
+
+RT Journal Article
+ID 66233
+A1 Bulusu,Nirupama
+A1 Elson,Jeremy
+A1 Estrin,Deborah
+A1 Govindan,Ramesh
+A1 Heidemann,John
+A1 Intanagonwiwat,Chalermek
+A1 Salehi,Nader
+A1 Lan,Kun-chan
+A1 Xu,Ya
+A1 Ye,Wei
+YR 2001
+T1 Effects of Detail in Wireless Network Simulation
+
+RT Conference Proceedings
+ID 2743963
+A1 Cerpa,Alberto
+A1 Estrin,Deborah
+YR 2001
+T1 Ascent: Adaptive self-configurin g sensor network topologies
+
+RT Journal Article
+ID 117008
+A1 Estrin,Deborah
+YR 2001
+T1 Residual Energy Scans for Monitoring Wireless Sensor Networks
+
+RT Conference Proceedings
+ID 170211
+A1 Elson,Jeremy
+A1 Estrin,Deborah
+YR 2001
+T1 Random, Ephemeral Transaction Identifiers in Dynamic Sensor Networks
+SP 459
+OP 468
+
+RT Journal Article
+ID 1326092
+A1 Ratnasamy,S.
+A1 Estrin,D.
+A1 Govindan,R.
+A1 Karp,B.
+A1 Shenker,L.,Yin,S.
+A1 Yu,F.
+YR 2001
+T1 Data-centric storage in sensornets
+
+RT Journal Article
+ID 3027474
+A1 Estrin,D.
+A1 Borriello,G.
+A1 Colwell,R.
+A1 Fiddler,J.
+A1 Horowitz,M.
+A1 Kaiser,W.
+A1 Leveson,N.
+A1 Liskov,B.
+A1 Lucas,P.
+A1 Maher,D.
+A1 Mankiewich,P.,L.
+A1 Taylor,R.
+A1 Waldo,J.
+YR 2001
+T1 Embedded Everywhere: A Research Agenda for Networked Systems of Embedded Computers
+
+RT Journal Article
+ID 1394279
+A1 Ganesan,D.
+A1 Govindan,R.
+A1 Shenker,S.
+A1 Estrin,D.
+YR 2001
+T1 Energy-efficient multipath routing in wireless sensor networks
+JF Mobile Computing and Communications Review
+
+RT Journal Article
+ID 2966475
+A1 Intenagonwiwat,C.
+A1 Govindan,R.
+A1 Estrin,D.
+YR 2001
+T1 Directed diffusion: A scalable and robust communication paradigm for sensor networks
+
+RT Journal Article
+ID 6814
+A1 Estrin,Deborah
+A1 Radoslavov,Pavlin
+A1 Govindan,Ramesh
+YR 2001
+T1 Topology-Informed Internet Replica Placement
+
+RT Conference Proceedings
+ID 536402
+A1 Ye,Wei
+A1 Vaughan,Richard,T.
+A1 Sukhatme,Gaurav,S.
+A1 Heidemann,John,S.
+A1 Estrin,D.
+A1 Mataric,M.,J.
+YR 2001
+T1 Evaluating Control Strategies for Wireless-Networked Robots Using an Integrated Robot and Network Simulation
+VO 3
+SP 2941
+OP 2947
+
+RT Conference Proceedings
+ID 1262454
+A1 Tangmunarunkit,H.
+A1 Govindan,R.
+A1 Shenker,S.
+A1 Estrin,D.
+YR 2001
+T1 The impact of policy on internet paths
+
+RT Journal Article
+ID 2365717
+A1 Cerpa,A.
+A1 Elson,J.
+A1 Estrin,D.
+A1 Girod,L.
+A1 Zhao,J.
+YR 2001
+T1 Application Driver for Wireless Communications Technology
+
+RT Conference Proceedings
+ID 692216
+A1 Estrin,Deborah
+YR 2001
+T1 Wireless sensor networks: application driver for low power distributed systems
+SP 194
+OP 194
+
+RT Journal Article
+ID 1391237
+A1 Yu,Y.
+A1 Estrin,D.
+A1 Govindan,R.
+YR 2001
+T1 Geographical and energy-aware routing for wireless sensor networks: a recursive data dissemination protocol
+
+RT Conference Proceedings
+ID 130746
+A1 Radoslavov,Pavlin
+A1 Papadopoulos,Christos
+A1 Govindan,Ramesh
+A1 Estrin,Deborah
+YR 2001
+T1 A Comparison of Application-Level and Router-Assisted Hierarchical Schemes for Reliable Multicast
+VO 1
+SP 229
+OP 238
+
+RT Conference Proceedings
+ID 3147542
+A1 Heidemann,J
+A1 Estrin,D
+YR 2001
+T1 Geography-informed energy conservation for ad hoc networks
+
+RT Conference Proceedings
+ID 1305294
+A1 Tangmunarunkit,H.
+A1 Govindan,R.
+A1 Shenker,S.
+A1 Estrin,D.
+YR 2001
+T1 The impact of internet policy on internet paths
+
+RT Journal Article
+ID 3696897
+A1 Girod,Lewis
+A1 Estrin,Deborah
+YR 2001
+T1 Robust range estimation for localization in ad hoc sensor networks
+
+RT Journal Article
+ID 98264
+A1 Bulusu,Nirupama
+A1 Estrin,Deborah
+A1 Heidemann,John
+YR 2001
+T1 Tradeoffs in Location Support Systems: The Case for Quality-Expressive Location Models for Applications
+
+RT Journal Article
+ID 116223
+A1 Bychkosvkiy,Vladimir
+A1 Schoellhammer,Thomas
+A1 Estrin,Deborah
+YR 2001
+T1 Control and Actuation in Data-Centric Wireless Sensor Networks
+
+RT Conference Proceedings
+ID 39240223
+A1 Cerpa,Alberto
+A1 Elson,Jeremy
+A1 Hamilton,Michael
+A1 Zhao,Jerry
+A1 Estrin,Deborah
+A1 Girod,Lewis
+YR 2001
+T1 Habitat monitoring: application driver for wireless communications technology
+SP 20
+OP 41
+
+RT Journal Article
+ID 39213685
+A1 Heidemann,John
+A1 Silva,Fabio
+A1 Intanagonwiwat,Chalermek
+A1 Govindan,Ramesh
+A1 Estrin,Deborah
+A1 Ganesan,Deepak
+YR 2001
+T1 Building efficient wireless sensor networks with low-level naming
+JF Operating Systems Review
+SP 146
+OP 159
+
+RT Journal Article
+ID 3643601
+A1 Elson,Jeremy
+A1 Estrin,Deborah
+YR 2001
+T1 Randomized, ephemeral transaction identifiers in wireless sensor networks
+
+RT Journal Article
+ID 14416492
+A1 Cerpa,Alberto
+A1 Elson,Jeremy
+A1 Estrin,Deborah
+A1 Girod,Lewis
+A1 Hamilton,Michael
+A1 Zhao,Jerry
+YR 2001
+T1 Habitat monitoring: application driver for wireless communications technology
+JF Computer Communication Review
+VO 31
+SP 20
+OP 41
+IS 2 suppleme
+
+RT Journal Article
+ID 39213408
+A1 Ganesan,Deepak
+A1 Govindan,Ramesh
+A1 Shenker,Scott
+A1 Estrin,Deborah
+YR 2001
+T1 Highly-resilient, energy-efficient multipath routing in wireless sensor networks
+JF Mobile Computing and Communications Review
+SP 11
+OP 25
+
+RT Journal Article
+ID 39236410
+A1 Ganesan,Deepak
+A1 Govindan,Ramesh
+A1 Shenker,Scott
+A1 Estrin,Deborah
+YR 2001
+T1 Highly-resilient, energy-efficient multipath routing in wireless sensor networks
+SP 251
+OP 254
+
+RT Journal Article
+ID 50231393
+A1 Estrin,Deborah
+YR 2001
+T1 Wireless sensor networks: application driver for low power distributed systems
+JF Chemical Engineering Journal
+
+RT Conference Proceedings
+ID 48512
+A1 Intanagonwiwat,Chalermek
+A1 Govindan,Ramesh
+A1 Estrin,Deborah
+YR 2000
+T1 Directed diffusion: a scalable and robust communication paradigm for sensor networks
+SP 56
+OP 67
+
+RT Journal Article
+ID 119223
+A1 Bulusu,Nirupama
+A1 Heidemann,John
+A1 Estrin,Deborah
+YR 2000
+T1 GPS-less low-cost outdoor localization for very small devices
+JF IEEE Personal Communications
+VO 7
+SP 28
+OP 34
+IS 5
+
+RT Journal Article
+ID 108759
+A1 Breslau,Lee
+A1 Estrin,Deborah
+A1 Fall,Kevin,R.
+A1 Floyd,Sally
+A1 Heidemann,John,S.
+A1 Helmy,Ahmed
+A1 Huang,Polly
+A1 Mccanne,Steven
+A1 Varadhan,Kannan
+A1 Xu,Ya
+A1 Yu,Haobo
+YR 2000
+T1 Advances in Network Simulation
+JF IEEE Computer
+VO 33
+SP 59
+OP 67
+IS 5
+
+RT Journal Article
+ID 235286
+A1 Xu,Ya
+A1 Heidemann,John
+A1 Estrin,Deborah
+YR 2000
+T1 Adaptive Energy-Conserving Routing for Multihop Ad Hoc Networks
+
+RT Journal Article
+ID 234165
+A1 Varadhan,Kannan
+A1 Govindan,Ramesh
+A1 Estrin,Deborah
+YR 2000
+T1 Persistent route oscillations in inter-domain routing
+JF Computer Networks
+VO 32
+SP 1
+OP 16
+IS 1
+
+RT Conference Proceedings
+ID 239015
+A1 Kumar,Satish
+A1 Alaettinoglu,Cengiz
+A1 Estrin,Deborah
+YR 2000
+T1 SCalable Object-tracking through Unattended Techniques (SCOUT)
+SP 253
+OP 262
+
+RT Conference Proceedings
+ID 4055906
+A1 Intanagonwiwat,C.
+A1 Govindan,R.
+A1 Estrin,D.
+YR 2000
+T1 Usion: a scalable and robust communication paradigm for sensor networks
+
+RT Journal Article
+ID 775299
+A1 Estrin,Deborah
+A1 Govindan,Ramesh
+A1 Heidemann,John,S.
+YR 2000
+T1 Embedding the Internet: introduction
+JF Communications of The ACM
+VO 43
+SP 38
+OP 41
+IS 5
+
+RT Conference Proceedings
+ID 682012
+A1 Rejaie,Reza
+A1 Yu,Haobo
+A1 Handley,Mark
+A1 Estrin,Deborah
+YR 2000
+T1 Multimedia Proxy Caching Mechanism for Quality Adaptive Streaming Applications in the Internet
+VO 2
+SP 980
+OP 989
+
+RT Conference Proceedings
+ID 1324195
+A1 Kumar,S.
+A1 Alaettinoglu,C.
+A1 Estrin,D.
+YR 2000
+T1 Scout: scalable object tracking through unattended techniques
+
+RT Journal Article
+ID 239301
+A1 Elson,Jeremy
+A1 Estrin,Deborah
+YR 2000
+T1 An Address-Free Architecture for Dynamic Sensor Networks
+
+RT Journal Article
+ID 3778905
+A1 Estrin,D.
+A1 Govindan,R.
+A1 Heidemann,J.
+YR 2000
+T1 Special issue on embedding the internet
+JF Communications of The ACM
+
+RT Conference Proceedings
+ID 2041765
+A1 Intanagonwiwat,C.
+A1 Govindan,R.
+A1 Estrin,D.
+YR 2000
+T1 Directed Di usion: A Scalable and Robust Communication
+
+RT Journal Article
+ID 3696900
+A1 Girod,L.
+A1 Estrin,D.
+YR 2000
+T1 Robust Range Estimation for Localization in Ad Hoc Sensor Networks
+
+RT Journal Article
+ID 108533
+A1 Rejaie,Reza
+A1 Handley,Mark
+A1 Estrin,Deborah
+YR 2000
+T1 Layered quality adaptation for Internet video streaming
+JF IEEE Journal on Selected Areas in Communications
+VO 18
+SP 2530
+OP 2543
+IS 12
+
+RT Journal Article
+ID 245456
+A1 Radoslavov,Pavlin
+A1 Tangmunarunkit,Hongsuda
+A1 Yu,Haobo
+A1 Govindan,Ramesh
+A1 Shenker,Scott
+A1 Estrin,Deborah
+YR 2000
+T1 On Characterizing Network Topologies and Analyzing Their Impact on Protocol Design
+
+RT Journal Article
+ID 2069926
+A1 Thaler,D.
+A1 Handley,M.
+A1 Estrin,D.
+YR 2000
+T1 The Internet Multicast Address Allocation Architecture
+
+RT Journal Article
+ID 847714
+A1 Estrin,Deborah
+A1 Handley,Mark
+A1 Heidemann,John,S.
+A1 Mccanne,Steven
+A1 Xu,Ya
+A1 Yu,Haobo
+YR 2000
+T1 Network Visualization with Nam, the VINT Network Animator
+JF IEEE Computer
+VO 33
+SP 63
+OP 68
+IS 11
+
+RT Journal Article
+ID 151806
+A1 Reddy,Anoop
+A1 Govindan,Ramesh
+A1 Estrin,Deborah
+YR 2000
+T1 Fault isolation in multicast trees
+JF Computer Communication Review
+VO 30
+SP 29
+OP 40
+IS 4
+
+RT Journal Article
+ID 90460
+A1 Heidemann,John
+A1 Balusu,Nirupama
+A1 Elson,Jeremy
+A1 Intanagonwiwat,Chalermek
+A1 Lan,Kun-chan
+A1 Xu,Ya
+A1 Ye,Wei
+A1 Estrin,Deborah
+A1 Govindan,Ramesh
+YR 2000
+T1 Effects of Detail in Wireless Network Simulation
+
+RT Journal Article
+ID 3158838
+A1 Bulusu,N.
+A1 Heidemann,J.
+A1 Estrin,D.
+YR 2000
+T1 GPS-less low cost outdoor optimization for very small devices
+
+RT Journal Article
+ID 219308
+A1 Helmy,Ahmed
+A1 Estrin,Deborah
+A1 Gupta,Sandeep,K.,S.
+YR 2000
+T1 Systematic Testing of Multicast Routing Protocols: Analysis of Forward and Backward Search Techniques
+JF Computing Research Repository
+VO cs.NI/0007
+SP 590
+OP 597
+
+RT Journal Article
+ID 181647
+A1 Sukhatme,Gaurav,S.
+A1 Estrin,Deborah
+A1 Caron,David
+A1 Mataric,Maja,J.
+A1 Requicha,Aristides
+YR 2000
+T1 Proposed Approach for Combining Distributed Sensing, Robotic Sampling, and Offline Analysis for in situ Marine Monitoring
+
+RT Journal Article
+ID 4142195
+A1 Rejaie,R.
+A1 Handley,M.
+A1 Yu,H.
+A1 Estrin,D.
+YR 2000
+T1 Proxy caching mechanism for playback streams in the internet
+
+RT Journal Article
+ID 3442568
+A1 Estrin,Deborah
+A1 Handley,Mark
+A1 Heidermann,John
+A1 Mccanne,Steven
+A1 Xu,Ya
+A1 Yu,Haobo
+YR 2000
+T1 Network visualization with nam
+
+RT Journal Article
+ID 105355
+A1 Helmy,Ahmed
+A1 Gupta,Sandeep,K.,S.
+A1 Estrin,Deborah
+A1 Cerpa,Alberto
+A1 Yu,Yan
+YR 2000
+T1 Systematic Performance Evaluation of Multipoint Protocols
+JF Computing Research Repository
+VO cs.NI/0006
+SP 189
+OP 204
+
+RT Conference Proceedings
+ID 3352515
+A1 Intanagonwiwat,R.,G.,Chalermek
+A1 Estrin,D.
+YR 2000
+T1 Making Sensor Networks Practical with Robots
+
+RT Journal Article
+ID 239499
+A1 Yu,Yan
+A1 Estrin,Deborah
+A1 Gupta,Sandeep
+YR 2000
+T1 Worst Case Performance Analysis of Wireless Ad-hoc Routing Protocols: Case Studies
+
+RT Journal Article
+ID 231818
+A1 Helmy,Ahmed
+A1 Gupta,Sandeep
+A1 Estrin,Deborah
+A1 Cerpa,Alberto
+A1 Yu,Yan
+YR 2000
+T1 Performance Evaluation of Multipoint Protocols Using Systematic Scenario Synthesis: A Case Study for Timer-suppression Mechanisms
+
+RT Journal Article
+ID 39212474
+A1 Reddy,Anoop
+A1 Govindan,Ramesh
+A1 Estrin,Deborah
+YR 2000
+T1 Fault isolation in multicast trees
+JF Computer Communication Review
+SP 29
+OP 40
+
+RT Conference Proceedings
+ID 548550
+A1 Foster,Ian,T.
+A1 Culler,David,E.
+A1 Estrin,Deborah
+A1 Newman,Harvey
+A1 Stevens,Rick,L.
+YR 2000
+T1 The Ten Hottest Topics in Parallel and Distributed Computing for the Next Millennium
+SP 471
+
+RT Journal Article
+ID 33597078
+A1 Caro,L
+A1 Ghigliani,M
+A1 Uehara,H
+A1 Estrin,D
+YR 2000
+T1 Endoscopic ultrasound (EUS) in the staging and follow-up of gastric MALT lymphoma
+JF American Journal of Gastroenterology
+VO 95
+SP 2450
+OP 2450
+IS 9
+
+RT Journal Article
+ID 33597080
+A1 Caro,L.
+A1 Ghigliani,M.
+A1 Uehara,H.
+A1 Estrin,D.
+YR 2000
+T1 Endoscopic ultrasound (EUS) in the staging and follow-up of gastric MALT lymphoma
+JF American Journal of Gastroenterology
+VO 95
+SP 2450
+OP 2450
+IS 9
+
+RT Conference Proceedings
+ID 218441
+A1 Estrin,Deborah
+A1 Govindan,Ramesh
+A1 Heidemann,John,S.
+A1 Kumar,Satish
+YR 1999
+T1 Next century challenges: scalable coordination in sensor networks
+SP 263
+OP 270
+
+RT Conference Proceedings
+ID 293749
+A1 Estrin,Deborah
+A1 Heidemann,John
+A1 Govindan,Ramesh
+YR 1999
+T1 Scalable Coordination in Sensor Networks
+
+RT Conference Proceedings
+ID 391887
+A1 Rejaie,Reza
+A1 Handley,Mark
+A1 Estrin,Deborah
+YR 1999
+T1 RAP: An End-to-End Rate-Based Congestion Control Mechanism for Realtime Streams in the Internet
+VO 3
+SP 1337
+OP 1345
+
+RT Journal Article
+ID 277
+A1 Bajaj,Sandeep
+A1 Breslau,Lee
+A1 Estrin,Deborah
+A1 Fall,Kevin
+A1 Floyd,Sally
+A1 Haldar,Padma
+A1 Handley,Mark
+A1 Helmy,Ahmed
+A1 Heidemann,John
+A1 Huang,Polly
+A1 Kumar,Satish
+A1 Mccanne,Steven
+A1 Rejaie,Reza
+YR 1999
+T1 Improving Simulation for Network Research
+
+RT Journal Article
+ID 295383
+A1 Rejaie,Reza
+A1 Handley,Mark
+A1 Estrin,Deborah
+YR 1999
+T1 Quality Adaptation for Congestion Controlled Video Playback over the Internet
+JF Computer Communication Review
+VO 29
+SP 189
+OP 200
+IS 4
+
+RT Journal Article
+ID 355905
+A1 Estrin,Deborah
+A1 Handley,Mark
+A1 Heidemann,John
+A1 Mccanne,Steven
+A1 Xu,Ya
+A1 Yu,Haobo
+YR 1999
+T1 Network Visualization with the VINT Network Animator Nam
+
+RT Journal Article
+ID 262307
+A1 Estrin,Deborah
+A1 Yu,Haobo
+A1 Mark,H
+A1 Rejaie,Reza
+YR 1999
+T1 Proxy Caching Mechanism for Multimedia Playback Streams in the Internet
+
+RT Conference Proceedings
+ID 293295
+A1 Yu,Haobo
+A1 Estrin,Deborah
+A1 Govindan,Ramesh
+YR 1999
+T1 A Hierarchical Proxy Architecture for Internet-Scale Event Services
+SP 78
+OP 83
+
+RT Journal Article
+ID 1283643
+A1 Bajaj,S.
+A1 Breslau,L.
+A1 Estrin,D.
+A1 Fall,K.
+A1 Floyd,S.
+A1 Haldar,P.
+A1 Handley,M.
+A1 Helmy,A.
+A1 Heidemann,J.
+A1 Huang,P.
+A1 Kumar,S.
+A1 Mccanne,S.
+A1 Rejaie,R.
+A1 Sharma,P.
+A1 Shenker,S.
+A1 Varadhan,K.
+A1 Yu,H.
+A1 Xu,Y.
+A1 Zappala,D.
+YR 1999
+T1 Improving simulation for network research technical report 99-702
+
+RT Conference Proceedings
+ID 682363
+A1 Estrin,Deborah
+A1 Handley,Mark
+A1 Helmy,Ahmed
+A1 Huang,Polly
+A1 Thaler,David
+YR 1999
+T1 A Dynamic Bootstrap Mechanism for Rendezvous-based Multicast Routing
+VO 3
+SP 1090
+OP 1098
+
+RT Journal Article
+ID 258615
+A1 Reddy,Anoop
+A1 Estrin,Deborah
+A1 Govindan,Ramesh
+YR 1999
+T1 Large-Scale Fault Isolation
+JF IEEE Journal on Selected Areas in Communications
+
+RT Journal Article
+ID 2966476
+A1 Intanagonwiwat,C.
+A1 Govindan,R.
+A1 Estrin,D.
+YR 1999
+T1 Directed Diffusion: a Scalable and Robust Communication in Wireless Sensor Networks
+
+RT Conference Proceedings
+ID 1402407
+A1 Rejaie,R.
+A1 Handley,M.
+A1 Estrin,D.
+YR 1999
+T1 Quality adaptation for congestion controlled playback video over the internet
+
+RT Journal Article
+ID 2658313
+A1 Govindan,R.
+A1 Faber,T.
+A1 Heidemann,J.
+A1 Estrin,D.
+YR 1999
+T1 Ad hoc smart environments
+
+RT Conference Proceedings
+ID 2092179
+A1 Rejaie,R.
+A1 Handley,M.
+A1 Estrin,D.
+YR 1999
+T1 Quality Adaptation for Unicast Audio and Video
+
+RT Journal Article
+ID 2022447
+A1 Bajaj,S.
+A1 Breslau,L.
+A1 Estrin,D.
+A1 Fall,K.
+A1 Floyd,S.
+A1 Haldar,P.
+A1 Handley,M.
+A1 Helmy,A.
+A1 Heidemann,J.
+A1 Huang,P.
+A1 Kumar,S.
+A1 Mccanne,S.
+A1 Rejaie,R.
+A1 Sharma,P.
+A1 Shenker,S.
+A1 Varadhan,K.
+A1 Yu,H.
+A1 Xu,Y.
+A1 Zappala,D.
+YR 1999
+T1 Virtual InterNetwork Testbed: Status and Research Agenda
+
+RT Conference Proceedings
+ID 3453444
+A1 Estrin,D.
+A1 Govindan,R.
+A1 Heidemann,J.
+A1 Kumar,S.
+YR 1999
+T1 Next Century Challenges: Mobile Networking for Smart Dust
+
+RT Conference Proceedings
+ID 2379373
+A1 Rejaie,R.
+A1 Handley,M.
+A1 Estrin,D.
+YR 1999
+T1 RAP: End-to-end Rate Based Control for Real Time Streams in the Internet
+
+RT Journal Article
+ID 301607
+A1 Radoslavov,Pavlin,Ivanov
+A1 Estrin,Deborah
+A1 Govindan,Ramesh
+YR 1999
+T1 A Claim-Collide Mechanism for Robust Distributed Resource Allocation
+
+RT Journal Article
+ID 2588829
+A1 Estrin,Deborah
+YR 1999
+T1 A methodology for the exploration of public-private key pairs
+
+RT Journal Article
+ID 39212467
+A1 Rejaie,Reza
+A1 Handley,Mark
+A1 Estrin,Deborah
+YR 1999
+T1 Quality adaptation for congestion controlled video playback over the Internet
+JF Computer Communication Review
+SP 189
+OP 200
+
+RT Journal Article
+ID 1279806
+A1 Braden,B.
+A1 Clark,D.
+A1 Crowcroft,J.
+A1 Davie,UCL,B.
+A1 Deering,S.
+A1 Estrin,D.
+A1 Jacobson,V.
+A1 Minshall,G.
+A1 Partridge,C.
+A1 Peterson,BBN,L.
+A1 Ramakrishnan,K.
+A1 Shenker,S.
+A1 Zhang,LCS,L.
+YR 1998
+T1 Recommendations on Queue Management and Congestion Avoidance in the Internet
+
+RT Conference Proceedings
+ID 229467
+A1 Estrin,Deborah
+A1 Mark,H
+A1 Rejaie,Reza
+YR 1998
+T1 RAP: An End-to-end Rate-based Congestion Control Mechanism for Realtime Streams in the Internet
+
+RT Journal Article
+ID 740
+A1 Kumar,Satish
+A1 Radoslavov,Pavlin
+A1 Thaler,David
+A1 Alaettinoglu,Cengiz
+A1 Estrin,Deborah
+A1 Handley,Mark
+YR 1998
+T1 The MASC/BGMP Architecture for Inter-Domain Multicast Routing
+JF Computer Communication Review
+VO 28
+SP 93
+OP 104
+IS 4
+
+RT Conference Proceedings
+ID 290830
+A1 Huang,Polly
+A1 Estrin,Deborah
+A1 Heidemann,John,S.
+YR 1998
+T1 Enabling Large-Scale Simulations: Selective Abstraction Approach to the Study of Multicast Protocols
+SP 241
+OP 248
+
+RT Journal Article
+ID 296875
+A1 Sharma,Puneet
+A1 Estrin,Deborah
+YR 1998
+T1 Scalable Session Messages in SRM using Self-configuration
+
+RT Journal Article
+ID 1312272
+A1 Deering,S.
+A1 Estrin,D.
+A1 Farinacci,D.
+A1 Jacobson,V.
+A1 Helmy,A.
+A1 Meyer,D.
+A1 Wei,L.
+YR 1998
+T1 Protocol independent multicast version 2 dense mode specification
+
+RT Journal Article
+ID 3708680
+A1 Sharma,P.
+A1 Estrin,D.
+A1 Floyd,S.
+A1 Zhang,L.
+YR 1998
+T1 Scalable Session Messages in SRM
+
+RT Journal Article
+ID 765606
+A1 Liu,Ching-Gung
+A1 Estrin,Deborah
+A1 Shenker,Scott
+A1 Zhang,Lixia
+YR 1998
+T1 Local error recovery in SRM: comparison of two approaches
+JF IEEE/ACM Transactions on Networking
+VO 6
+SP 686
+OP 699
+IS 6
+
+RT Conference Proceedings
+ID 374022
+A1 Rejaie,Reza
+A1 Handley,Mark
+A1 Estrin,Deborah
+YR 1998
+T1 Architectural Considerations for Playback of Quality Adaptive Video over the Internet
+
+RT Conference Proceedings
+ID 293867
+A1 Helmy,Ahmed
+A1 Estrin,Deborah
+YR 1998
+T1 Simulation-based 'STRESS' Testing Case Study: A Multicast Routing Protocol
+SP 36
+OP 43
+
+RT Conference Proceedings
+ID 1291289
+A1 Varadhan,Kannan
+A1 Estrin,Deborah
+A1 Floyd,Sally
+YR 1998
+T1 Impact of network dynamics on end-to-end protocols: case studies in reliable multicast
+
+RT Journal Article
+ID 285640
+A1 Bajaj,Sandeep
+A1 Breslau,Lee
+A1 Estrin,Deborah
+A1 Fall,Kevin
+A1 Floyd,Sally
+YR 1998
+T1 Virtual InterNetwork Testbed: Status and Research Agenda
+
+RT Conference Proceedings
+ID 321861
+A1 Helmy,Ahmed
+A1 Estrin,Deborah
+A1 Gupta,Sandeep,K.,S.
+YR 1998
+T1 Fault-oriented Test Generation for Multicast Routing Protocol Design
+SP 93
+OP 109
+
+RT Journal Article
+ID 189432
+A1 Govindan,Ramesh
+A1 Alaettinoglu,Cengiz
+A1 Varadhan,Kannan
+A1 Estrin,Deborah
+YR 1998
+T1 Route Servers for Inter-Domain Routing
+JF Computer Networks and Isdn Systems
+VO 30
+SP 1157
+OP 1174
+IS 12
+
+RT Journal Article
+ID 1381884
+A1 Thaler,D.
+A1 Estrin,D.
+A1 Meyer,D.
+YR 1998
+T1 Border gateway multicast protocol (bgmp): protocol specification
+
+RT Journal Article
+ID 331814
+A1 Estrin,Deborah
+A1 Yu,Haobo
+A1 Govindan,Ramesh
+YR 1998
+T1 Large-Scale Weakly Consistent Replication using Multicast
+
+RT Journal Article
+ID 1158
+A1 Heidemann,John
+A1 Govindan,Ramesh
+A1 Estrin,Deborah
+YR 1998
+T1 Configuration Challenges for Smart Spaces
+
+RT Journal Article
+ID 2020119
+A1 Deering,S.
+A1 Estrin,D.
+A1 Farinacci,D.
+YR 1998
+T1 Internet draft: draft-ietf-idmr-pim-arch-05
+
+RT Journal Article
+ID 1983282
+A1 Braden,B.
+A1 Clark,D.
+A1 Crowcroft,J.
+A1 Davie,B.
+A1 Deering,S.
+A1 Estrin,D.
+A1 Floyd,S.
+A1 Jacobson,V.
+A1 Minshall,G.
+A1 Partridge,C.
+A1 Peterson,L.
+A1 Ramakrishnan,K.
+A1 Shenker,S.
+A1 Wroclawski,J.
+A1 Zhang,L.
+YR 1998
+T1 Request for comments: 2309
+
+RT Conference Proceedings
+ID 1267649
+A1 Kumar,K.
+A1 Radoslavov,P.
+A1 Alaettinoglu,C.
+A1 Estrin,D.
+A1 Handley,M.
+A1 Thaler,D.
+YR 1998
+T1 The masc/bgmp architecture for wide-area multicast routing
+
+RT Journal Article
+ID 39212441
+A1 Kumart,Satish
+A1 Radoslavov,Pavlin
+A1 Thaler,David
+A1 Alaettinoğlu,Cengiz
+A1 Estrin,Deborah
+A1 Handley,Mark
+YR 1998
+T1 The MASC/BGMP architecture for inter-domain multicast routing
+JF Computer Communication Review
+SP 93
+OP 104
+
+RT Journal Article
+ID 2791192
+A1 Thaler,D.
+A1 Estrin,D.
+A1 Meyer,D.
+YR 1998
+T1 Border Multicast Routing Protocol (BGMP): Protocol Specification
+
+RT Journal Article
+ID 350580
+A1 Estrin,Deborah
+A1 Farinacci,Dino
+A1 Helmy,Ahmed
+A1 Thaler,David
+A1 Deering,Stephen
+A1 Handley,Mark
+A1 Jacobson,Van
+A1 Liu,Ching-gung
+A1 Sharma,Puneet
+A1 Wei,Liming
+YR 1997
+T1 Protocol Independent Multicast-Sparse Mode (PIM-SM): Protocol Specification
+
+RT Conference Proceedings
+ID 682204
+A1 Sharma,Puneet
+A1 Estrin,Deborah
+A1 Floyd,Sally
+A1 Jacobson,Van
+YR 1997
+T1 Scalabel Timers for Soft State Protocols
+SP 222
+OP 229
+
+RT Conference Proceedings
+ID 50094058
+A1 Sharma,Puneet
+A1 Estrin,Deborah
+A1 Floyd,Sally
+A1 Jacobson,Van
+YR 1997
+T1 Scalable timers for soft state protocols
+VO 1
+SP 222
+
+RT Journal Article
+ID 248584
+A1 Liu,Ching-gung
+A1 Estrin,Deborah
+A1 Zhang,Lixia
+A1 Shenker,Scott
+YR 1997
+T1 Local Error Recovery in SRM : Comparison of Two Approaches
+
+RT Journal Article
+ID 387248
+A1 Sharma,Puneet
+A1 Estrin,Deborah
+A1 Floyd,Sally
+A1 Zhang,Lixia
+YR 1997
+T1 Scalable Session Messages in SRM
+
+RT Conference Proceedings
+ID 319917
+A1 Estrin,Deborah
+A1 Shenker,Scott
+YR 1997
+T1 Alternate Path Routing and Pinning for Interdomain Multicast Routing
+
+RT Journal Article
+ID 296830
+A1 Floyd,Sally
+A1 Estrin,Deborah
+YR 1997
+T1 Impact of Network Dynamics on End-to-End Protocols: Case Studies in Reliable Multicast
+
+RT Journal Article
+ID 1298026
+A1 Estrin,D.
+A1 Handley,M.
+A1 Kumar,S.
+A1 Thaler,D.
+YR 1997
+T1 The multicast address set claim (masc) protocol
+
+RT Journal Article
+ID 1936274
+A1 Estrin,Deborah
+YR 1997
+T1 The internet multicast address allocation architecture
+JF Psychnology Journal
+
+RT Journal Article
+ID 1349961
+A1 Thaler,D.
+A1 Estrin,D.
+A1 Meyer,D.
+YR 1997
+T1 Border gateway multicast protocol (bgmp): protocol specification
+
+RT Journal Article
+ID 1682325
+A1 Herzog,S.
+A1 Shenker,S.
+A1 Estrin,D.
+YR 1997
+T1 Sharing the (quote)cost(quote) of multicast trees: an axiomatic analysis
+JF IEEE/ACM Transactions on Networking
+
+RT Journal Article
+ID 396376
+A1 Govindan,Ramesh
+A1 Alaettinolu,Cengiz
+A1 Estrin,Deborah
+YR 1997
+T1 A Framework for Active Distributed Services
+
+RT Journal Article
+ID 324245
+A1 Estrin,Deborah
+A1 Shenker,Scott
+YR 1997
+T1 Interdomain Multicast Routing Support for Integrated Services Networks
+
+RT Journal Article
+ID 272803
+A1 Estrin,Deborah
+A1 Zhang,Lixia
+A1 Shenker,Scott
+YR 1997
+T1 Timer Adjustment in SRM
+
+RT Journal Article
+ID 1274977
+A1 Estrin,D.
+A1 Farinacci,D.
+A1 Helmy,A.
+A1 Thaler,D.
+A1 Deefing,S.
+A1 Handley,M.
+A1 Jacobson,V.
+A1 Liu,C.,G
+A1 Sharma,P.
+A1 Wei,L.
+YR 1997
+T1 Protocol independent multicast-sparse mode (pim-sm): specification
+
+RT Journal Article
+ID 2035676
+A1 Ganesan,D.
+A1 Govindan,R.
+A1 Shenker,S.
+A1 Estrin,D.
+YR 1997
+T1 Energy-Efficient Multipath Routing in Wireless Sensor Networks
+JF Mobile Computing and Communications Review
+
+RT Journal Article
+ID 1369548
+A1 Govindan,R.
+A1 Estrin,D.
+YR 1997
+T1 Self-configuring active network monitoring (scan)
+
+RT Journal Article
+ID 322864
+A1 Estrin,Deborah
+A1 Helmy,Ahmed
+A1 Thaler,David
+YR 1997
+T1 PIM Multicast Border Router (PMBR) specification for connecting PIM-SM domains to a DVMRP Backbone
+
+RT Journal Article
+ID 318534
+A1 Deering,Stephen,E.
+A1 Estrin,Deborah,L.
+A1 Farinacci,Dino
+A1 Jacobson,Van
+A1 Liu,Ching-Gung
+A1 Wei,Liming
+YR 1996
+T1 The PIM architecture for wide-area multicast routing
+JF IEEE/ACM Transactions on Networking
+VO 4
+SP 153
+OP 162
+IS 2
+
+RT Journal Article
+ID 879092
+A1 Shenker,Scott
+A1 Clark,David
+A1 Estrin,Deborah
+A1 Herzog,Shai
+YR 1996
+T1 Pricing in computer networks: Reshaping the research agenda
+JF Telecommunications Policy
+VO 20
+SP 183
+OP 201
+IS 3
+
+RT Journal Article
+ID 91485
+A1 Deering,Stephen
+A1 Estrin,Deborah
+YR 1996
+T1 Protocol Independent Multicast-Sparse Mode (PIM-SM): Motivation and Architecture
+
+RT Journal Article
+ID 1324121
+A1 Estrin,D.
+A1 Farinacci,D.
+A1 Helmy,A.
+A1 Jacobson,V.
+A1 Wei,L.
+YR 1996
+T1 Protocol independent multicast-dense mode (pim-dm): protocol specification
+
+RT Journal Article
+ID 2011319
+A1 Sharma,Puneet
+A1 Estrin,Deborah
+A1 Jacobson,Sally,Floyd,Van
+YR 1996
+T1 Scalable Timers for Soft State Protocols
+
+RT Journal Article
+ID 14416438
+A1 Shenker,S.
+A1 Clark,D.
+A1 Estrin,D.
+A1 Herzog,S.
+YR 1996
+T1 Pricing in computer networks: reshaping the research agenda
+JF Computer Communication Review
+VO 26
+SP 19
+OP 43
+IS 2
+
+RT Journal Article
+ID 3623084
+A1 Deering,S.
+A1 Estrin,D.
+A1 Farinacci,D.
+A1 Jacobson,V.
+A1 Liu,C.
+A1 Wei,L.
+A1 Sharma,P.
+A1 Helmy,A.
+YR 1996
+T1 Protocol Independent Multicast (PIM) : Motivation and Architecture
+
+RT Conference Proceedings
+ID 333157
+A1 Mitzel,Danny,J.
+A1 Estrin,Deborah
+A1 Shenkert,Scott
+A1 Zhangt,Lixia
+YR 1996
+T1 A Study of Reservation Dynamics in Integrated Services Packet Networks
+VO 2
+SP 871
+OP 879
+
+RT Journal Article
+ID 1291004
+A1 Estrin,D.
+A1 Li,T.
+A1 Rekhter,Y.
+A1 Varadhan,K.
+A1 Zappala,D.
+YR 1996
+T1 Source demand routing: packet format and forwarding specification
+
+RT Journal Article
+ID 115096
+A1 Helmy,Ahmed
+A1 Estrin,Deborah
+A1 Farinacci,Dino
+A1 Wei,Liming
+A1 Jacobson,Van
+YR 1996
+T1 Protocol Independent Multicast (PIM), Dense Mode Protocol Specification
+JF Psychnology Journal
+
+RT Conference Proceedings
+ID 306400
+A1 Wei,Liming
+A1 Estrin,Deborah
+YR 1995
+T1 The Trade-offs of Multicast Trees and Algorithms
+
+RT Journal Article
+ID 223426
+A1 Shenker,S.
+A1 Clark,D.
+A1 Estrin,D.
+A1 Herzog,S.
+YR 1995
+T1 Pricing in Computer Networks: Reshaping the Research Agenda
+JF Computer Communication Review
+
+RT Journal Article
+ID 360740
+A1 Braden,R.
+A1 Zhang,L.
+A1 Estrin,D.
+A1 Herzog,S.
+A1 Jamin,S.
+YR 1995
+T1 Resource ReSerVation Protocol (RSVP) - Version 1 Functional Specification
+
+RT Journal Article
+ID 380289
+A1 Estrin,Deborah
+A1 Zappala,Daniel
+A1 Li,Tony
+A1 Rekhter,Yakov
+A1 Varadhan,Kannan
+YR 1995
+T1 Source Demand Routing: Packet Format and Forwarding Specification
+
+RT Conference Proceedings
+ID 184878
+A1 Herzog,Shai
+A1 Shenker,Scott
+A1 Estrin,Deborah
+YR 1995
+T1 Sharing the ``Cost'' of Multicast Trees: An Axiomatic Analysis
+SP 315
+OP 327
+
+RT Journal Article
+ID 237338
+A1 Liu,Ching-gung
+A1 Estrin,Deborah
+A1 Farinacci,Dino
+A1 Wei,Liming
+A1 Deering,Stephen
+A1 Jacobson,Van
+YR 1995
+T1 Protocol Independent Multicast (PIM): Motivation and Architecture
+JF Psychnology Journal
+
+RT Conference Proceedings
+ID 2198953
+A1 Wei,Liming
+A1 Estrin,Deborah
+YR 1995
+T1 Multicast routing in dense and sparse modes: simulation study of tradeoffs and dynamics
+SP 150
+
+RT Journal Article
+ID 397570
+A1 Estrin,Deborah
+A1 Shenker,Scott
+A1 Zappala,Daniel
+YR 1995
+T1 Routing Support For RSVP
+
+RT Journal Article
+ID 2096008
+A1 Crowcroft,J.
+A1 Estrin,D.
+A1 Schulzrinne,H.
+A1 Schwartz,M.
+YR 1995
+T1 Special Issue: The Global Internet
+JF IEEE Journal on Selected Areas in Communications
+
+RT Journal Article
+ID 151660
+A1 Braden,Robert
+A1 Estrin,Deborah
+A1 Berson,Steve
+A1 Herzog,Shai
+A1 Zappala,Daniel
+YR 1995
+T1 The Design of the RSVP Protocol
+JF Ingénierie Des Systèmes D'information
+
+RT Journal Article
+ID 89336
+A1 Deering,Stephen
+A1 Fenner,Bill
+A1 Estrin,Deborah
+A1 Helmy,Ahmed
+YR 1995
+T1 Hierarchical PIM-SM Architecture for Inter-Domain Multicast Routing
+
+RT Journal Article
+ID 3182086
+A1 Deering,S.
+A1 Fenner,W.
+A1 Estrin,D.
+A1 Helmy,A.
+A1 Farinacci,D.
+A1 Wei,L.
+A1 Handley,M.
+A1 Jacobson,V.
+A1 Thaler,D.
+YR 1995
+T1 Hierarchical PIM for Inter-Domain Multicast Routing
+
+RT Journal Article
+ID 3423287
+A1 Wci,I,I,L.
+A1 Estrin,D.
+YR 1995
+T1 Multicast Routing in Dcnse and Spnrse Modes: Simulalim Study of Tradcoffs and Dynamics
+
+RT Journal Article
+ID 14416436
+A1 Herzog,Shai
+A1 Shenker,Scott
+A1 Estrin,Deborah
+YR 1995
+T1 Sharing the “cost” of multicast trees: an axiomatic analysis
+JF Computer Communication Review
+VO 25
+SP 315
+OP 327
+IS 4
+
+RT Journal Article
+ID 364462
+A1 Deering,Stephen,E.
+A1 Estrin,Deborah
+A1 Farinacci,Dino
+A1 Jacobson,Van
+A1 Liu,Ching-Gung
+A1 Wei,Liming
+YR 1994
+T1 An Architecture for Wide-Area Multicast Routing
+JF Computer Communication Review
+VO 24
+SP 126
+OP 135
+IS 4
+
+RT Conference Proceedings
+ID 368383
+A1 Estrin,Deborah
+A1 Wei,Liming
+YR 1994
+T1 The Trade-offs of Multicast Trees and Algorithms
+
+RT Conference Proceedings
+ID 660
+A1 Mitzel,Danny,J.
+A1 Estrin,Deborah
+A1 Shenker,Scott
+A1 Zhang,Lixia
+YR 1994
+T1 An Architectural Comparison of ST-II and RSVP
+SP 716
+OP 725
+
+RT Conference Proceedings
+ID 213481
+A1 Wei,Liming
+A1 Estrin,Deborah
+YR 1994
+T1 A Comparison of Multicast Trees and Algorithms
+
+RT Journal Article
+ID 290748
+A1 Deering,Stephen
+A1 Estrin,Deborah
+A1 Farinacci,Dino
+A1 Jacobson,Van
+A1 Liu,Ching-gung
+A1 Wei,Liming
+YR 1994
+T1 Protocol Independent Multicast (PIM), Sparse Mode Protocol Specification
+
+RT Journal Article
+ID 3026
+A1 Liu,Ching-gung
+A1 Estrin,Deborah
+A1 Farinacci,Dino
+A1 Wei,Liming
+A1 Deering,Stephen
+A1 Jacobson,Van
+YR 1994
+T1 Protocol Independent Multicast (PIM): Protocol Specification
+JF Psychnology Journal
+
+RT Journal Article
+ID 39212362
+A1 Deering,Stephen
+A1 Estrin,Deborah
+A1 Farinacci,Dino
+A1 Jacobson,Van
+A1 Liu,Ching-Gung
+A1 Wei,Liming
+YR 1994
+T1 An architecture for wide-area multicast routing
+JF Computer Communication Review
+SP 126
+OP 135
+
+RT Journal Article
+ID 383344
+A1 Estrin,Deborah
+A1 Zhang,Lixia
+A1 Shenker,Scott
+A1 Deering,Steve
+YR 1993
+T1 RSVP: A New Resource ReSerVation Protocol
+
+RT Journal Article
+ID 14404249
+A1 Zhang,L.
+A1 Deering,S.
+A1 Estrin,D.
+A1 Shenker,S.
+A1 Zappala,D.
+YR 1993
+T1 RSVP: a new resource ReSerVation Protocol
+JF IEEE Network
+VO 7
+SP 8
+OP 18
+IS 5
+
+RT Journal Article
+ID 178054
+A1 Cocchi,Ron
+A1 Shenker,Scott
+A1 Estrin,Deborah
+A1 Zhang,Lixia
+YR 1993
+T1 Pricing in computer networks: motivation, formulation, and example
+JF IEEE/ACM Transactions on Networking
+VO 1
+SP 614
+OP 627
+IS 6
+
+RT Journal Article
+ID 1289436
+A1 Zhang,Lisa
+A1 Deering,Stephen
+A1 Estrin,Deborah
+A1 Shenker,Scott,J.
+YR 1993
+T1 Zappala: rsvp: a new resource reservation protocol
+
+RT Journal Article
+ID 1319847
+A1 Zhang,L.
+A1 Braden,R.
+A1 Estrin,D.
+A1 Herzog,S.
+A1 Jamin,S.
+YR 1993
+T1 Resource reservation protocol (rsvp) - version i functional specification
+
+RT Journal Article
+ID 680942
+A1 Ahn,Jong-suk
+A1 Danzig,Peter,B.
+A1 Estrin,Deborah
+A1 Timmerman,Brenda
+YR 1993
+T1 Hybrid Technique for Simulating High Bandwidth Delay Computer Networks
+JF Sigmetrics Performance Evaluation Review
+VO 21
+SP 260
+OP 261
+IS 1
+
+RT Journal Article
+ID 1288351
+A1 Deering,S.
+A1 Estrin,D.
+A1 Farinacci,D.
+A1 Jacobson,V.
+YR 1993
+T1 Igmp router extensions for routing to dense multicast groups
+
+RT Journal Article
+ID 1365514
+A1 Estrin,D.
+A1 Li,T.
+A1 Rekhter,Y.
+A1 Zappala,D.
+YR 1993
+T1 Source demand routing protocol: packet format and forwarding specification
+
+RT Journal Article
+ID 765554
+A1 Estrin,Deborah
+A1 Steenstrup,Martha
+A1 Tsudik,Gene
+YR 1993
+T1 A protocol for route establishment and packet forwarding across multidomain internets
+JF IEEE/ACM Transactions on Networking
+VO 1
+SP 56
+OP 70
+IS 1
+
+RT Journal Article
+ID 1412066
+A1 Breslau,L.
+A1 Estrin,D.
+A1 Zhang,L.
+YR 1993
+T1 A simulation study of adaptive source routing in integrated services networks
+
+RT Journal Article
+ID 3450027
+A1 Zhang,L.
+A1 Deering,L.
+A1 Estrin,D.
+A1 Shenker,S.
+A1 Zappala,D.
+YR 1993
+T1 New Resource Reservation Protocol
+
+RT Conference Proceedings
+ID 4168138
+A1 Zhang,Lixia
+A1 Deering,Steve
+A1 Estrin,Deborah
+A1 Shenker,Scott
+A1 Zappala,Daniel
+YR 1993
+T1 RSVP: A New Reservation Protocol
+
+RT Journal Article
+ID 223843
+A1 Breslau,Lee
+A1 Estrin,Deborah
+A1 Zappala,Daniel
+A1 Zhang,Lixia
+YR 1993
+T1 Limited Distribution Updates to Reduce Overhead in Adaptive Internetwork Routing
+
+RT Journal Article
+ID 39213976
+A1 Ahn,Jong-Suk
+A1 Danzig,Peter,B.
+A1 Estrin,Deborah
+A1 Timmerman,Brenda
+YR 1993
+T1 Hybrid technique for simulating high bandwidth delay computer networks
+JF Sigmetrics Performance Evaluation Review
+SP 260
+OP 261
+
+RT Journal Article
+ID 1299008
+A1 Danzig,Peter,B.
+A1 Jamin,Sugih
+A1 Cáceres,Ramón
+A1 Mitzel,Danny,J.
+A1 Estrin,Deborah
+YR 1992
+T1 An Empirical Workload Model for Driving Wide-Area TCP/IP Network Simulations
+
+RT Journal Article
+ID 1298887
+A1 Estrin,Deborah
+A1 Culler,David
+A1 Pister,Kris
+A1 Sukhatme,Gaurav
+YR 1992
+T1 Connecting the Physical World with Pervasive Networks
+JF IEEE Pervasive Computing
+
+RT Journal Article
+ID 267968
+A1 Estrin,Deborah
+A1 Rekhter,Yakov
+A1 Hotz,Steven
+YR 1992
+T1 Scalable Inter-Domain Routing Architecture
+JF Computer Communication Review
+VO 22
+SP 40
+OP 52
+IS 4
+
+RT Book, Whole
+ID 235653
+A1 Wei,Liming
+A1 Liaw,Fongching
+A1 Estrin,Deborah
+A1 Romanow,Allyn
+A1 Lyon,Thomas,L.
+YR 1992
+T1 Analysis of a Resequencer Model for Multicast over ATM Networks
+SP 209
+OP 220
+
+RT Conference Proceedings
+ID 682095
+A1 Estrin,Deborah
+A1 Mitzeltt,Danny,J.
+YR 1992
+T1 An Assessment of State and Lookup Overhead in Routers
+SP 2332
+OP 2342
+
+RT Journal Article
+ID 1911542
+A1 Danzig,Peter,B.
+A1 Amin,Sugih,J
+A1 Caceres,Ramon
+A1 Mitzel,Danny,J.
+A1 Estrin,Deborah
+YR 1992
+T1 An artificial workload model of tcp/ip internetworks
+
+RT Journal Article
+ID 2101870
+A1 Cocchi,R.
+A1 Estrin,D.
+A1 Shenker,S.
+A1 Zhang,L.
+YR 1992
+T1 Pricing in computer networks: Motivation
+JF IEEE/ACM Transactions on Networking
+
+RT Journal Article
+ID 879193
+A1 Breslau,Lee
+A1 Estrin,Deborah
+A1 Zappala,Daniel
+A1 Zhang,Lixia
+YR 1992
+T1 Exploiting locality to provide adaptive routing of real-time flows in global internets (abstract)
+JF Computer Communication Review
+VO 22
+SP 45
+OP 46
+IS 3
+
+RT Journal Article
+ID 39212311
+A1 Estrin,Deborah
+A1 Rekhter,Yakov
+A1 Hotz,Steven
+YR 1992
+T1 Scalable inter-domain routing architecture
+JF Computer Communication Review
+SP 40
+OP 52
+
+RT Conference Proceedings
+ID 49939276
+A1 Breslau,L.
+A1 Estrin,D.
+A1 Zappala,D.
+A1 Zhang,Lixia
+YR 1992
+T1 Exploiting Locality to Provide Adaptive Routing of Real-Time Flows in Global Internets: Abstract
+
+RT Conference Proceedings
+ID 5814828
+A1 Meyer,Kraig,R.
+A1 Estrin,D.
+YR 1992
+T1 A Network Management Tool For Inter-domain Policy Routing
+
+RT Journal Article
+ID 262059
+A1 Cocchi,Ron
+A1 Estrin,Deborah
+A1 Shenker,Scott
+A1 Zhang,Lixia
+YR 1991
+T1 A Study of Priority Pricing in Multiple Service Class Networks
+JF Computer Communication Review
+VO 21
+SP 123
+OP 130
+IS 4
+
+RT Journal Article
+ID 703563
+A1 Estrin,Deborah
+YR 1991
+T1 Policy Requirements for Inter-Administrative Domain Routing
+JF Computer Networks and Isdn Systems
+VO 22
+SP 179
+OP 191
+IS 3
+
+RT Journal Article
+ID 1340458
+A1 Breslau,Lee
+A1 Estrin,Deborah
+YR 1991
+T1 Design and evaluation of inter-domain policy routing protocols
+
+RT Journal Article
+ID 804369
+A1 Hart,Paul
+A1 Estrin,Deborah
+YR 1991
+T1 Inter-organization networks, computer integration, and shifts in interdependence: the case of the semiconductor industry
+JF ACM Transactions on Information Systems
+VO 9
+SP 370
+OP 398
+IS 4
+
+RT Journal Article
+ID 704567
+A1 Estrin,Deborah
+A1 Tsudik,Gene
+YR 1991
+T1 Secure Control of Transit Internetwork Traffic
+JF Computer Networks and Isdn Systems
+VO 22
+SP 363
+OP 382
+IS 5
+
+RT Journal Article
+ID 1346111
+A1 Estrin,D.
+A1 Breslau,L.
+A1 Zhang,L.
+YR 1991
+T1 Protocol mechanisms for adaptive routing in global multimedia internets
+
+RT Conference Proceedings
+ID 682096
+A1 Estrin,Deborah
+A1 Obraczka,Katia
+YR 1991
+T1 Connectivity Database Overhead for Inter-Domain Policy Routing
+SP 265
+OP 278
+
+RT Journal Article
+ID 879238
+A1 Estrin,Deborah
+A1 Steenstrup,Martha
+YR 1991
+T1 Inter domain policy routing: overview of architecture and protocols
+JF Computer Communication Review
+
+RT Journal Article
+ID 289481
+A1 Estrin,Deborah
+A1 Tsudik,Gene
+YR 1991
+T1 An End-to-End Argument for Network Layer, Inter-Domain Access Controls
+
+RT Journal Article
+ID 39212289
+A1 Cocchi,Ron
+A1 Estrin,Deborah
+A1 Shenker,Scott
+A1 Zhang,Lixia
+YR 1991
+T1 A study of priority pricing in multiple service class networks
+JF Computer Communication Review
+SP 123
+OP 130
+
+RT Journal Article
+ID 14416378
+A1 Estrin,Deborah
+A1 Steenstrup,Martha
+YR 1991
+T1 Inter domain policy routing: overview of architecture and protocols
+JF Computer Communication Review
+VO 21
+SP 71
+OP 78
+IS 1
+
+RT Journal Article
+ID 638031
+A1 Breslau,Lee
+A1 Estrin,Deborah
+YR 1990
+T1 Design of Inter-Administrative Domain Routing Protocols
+JF Computer Communication Review
+VO 20
+SP 231
+OP 241
+IS 4
+
+RT Journal Article
+ID 224315
+A1 Estrin,Deborah
+A1 Zhang,Lixia
+YR 1990
+T1 Design considerations for usage accounting and feedback in internetworks
+JF Computer Communication Review
+VO 20
+SP 56
+OP 66
+IS 5
+
+RT Journal Article
+ID 886459
+A1 Hart,Paul
+A1 Estrin,D.
+YR 1990
+T1 Inter-organization computer networks: indications of shifts in interdependence
+JF ACM Sigois Bulletin
+VO 11
+SP 79
+OP 88
+IS 2-3
+
+RT Conference Proceedings
+ID 505345
+A1 Hart,Paul
+A1 Estrin,Deborah
+YR 1990
+T1 Computer integration: a co-requirement for effective inter-organization computer network implementation
+SP 131
+OP 142
+
+RT Journal Article
+ID 1930692
+A1 Hart,P.
+A1 Estrin,D.
+YR 1990
+T1 Inter-organization networks in support of application-specific integrated circuits: an empirical study
+
+RT Journal Article
+ID 39212272
+A1 Breslau,Lee
+A1 Estrin,Deborah
+YR 1990
+T1 Design of inter-administrative domain routing protocols
+JF Computer Communication Review
+SP 231
+OP 241
+
+RT Journal Article
+ID 1302071
+A1 Estrin,D.
+A1 Mogul,J.,C.
+A1 Tsudik,G.
+YR 1989
+T1 Visa protocols for controlling interorganizational datagram flow
+JF IEEE Journal on Selected Areas in Communications
+VO 7
+SP 486
+OP 498
+IS 4
+
+RT Conference Proceedings
+ID 441091
+A1 Estrin,Deborah
+A1 Tsudik,Gene
+YR 1989
+T1 Security Issues in Policy Routing
+SP 183
+OP 193
+
+RT Journal Article
+ID 3679503
+A1 Estrin,Deborah
+YR 1989
+T1 Requirements for Policy Based Routing in the Research Internet
+
+RT Journal Article
+ID 1387251
+A1 Estrin,D.
+A1 Hart,P.
+YR 1989
+T1 Inter-organization computer networks in the design and manufacturing of semiconductors: final report of a two year study
+
+RT Journal Article
+ID 215984
+A1 Estrin,Deborah
+A1 Mogul,Jeffrey
+A1 Tsudik,Gene
+A1 Anand,Kamaljit
+YR 1988
+T1 Visa Protocols for Controlling Inter-Organizational Datagram Flow
+JF IEEE Journal on Selected Areas in Communications
+
+RT Conference Proceedings
+ID 638545
+A1 Anderson,Sharon
+A1 Estrin,Deborah
+YR 1988
+T1 On supporting autonomy and interdependence in distributed systems
+SP 1
+OP 4
+
+RT Journal Article
+ID 2080781
+A1 Estrin,Deborah
+A1 Mogul,Jeffrey,C.
+A1 Tsudik,Gene
+A1 Anand,Kamaljit
+YR 1987
+T1 Visa Protocols for Controlling Inter-Organizational Datagram Flow: Extended Description
+
+RT Journal Article
+ID 765879
+A1 Estrin,Deborah
+YR 1987
+T1 Controls for Interorganization Networks
+JF IEEE Transactions on Software Engineering
+VO 13
+SP 249
+OP 261
+IS 2
+
+RT Journal Article
+ID 1587504
+A1 Estrin,D.
+YR 1987
+T1 Interconnection Protocols for Interorganization Networks
+JF IEEE Journal on Selected Areas in Communications
+VO 5
+SP 1480
+OP 1491
+IS 9
+
+RT Conference Proceedings
+ID 441090
+A1 Estrin,Deborah
+A1 Tsudik,Gene
+YR 1987
+T1 Visa Scheme for Inter-Organization Network Security
+SP 174
+OP 183
+
+RT Journal Article
+ID 1276637
+A1 Estrin,Deborah
+YR 1987
+T1 Interconnection of private networks
+
+RT Journal Article
+ID 41208449
+A1 Estrin,Deborah
+YR 1987
+T1 Interconnection of private networks : A link between industrial and telecommunications policy
+JF Telecommunications Policy
+VO 11
+SP 247
+OP 258
+IS 3
+
+RT Journal Article
+ID 886541
+A1 Estrin,Deborah
+YR 1986
+T1 Access to inter-organization computer networks
+JF ACM Sigois Bulletin
+VO 7
+SP 11
+OP 20
+IS 2-3
+
+RT Journal Article
+ID 638169
+A1 Estrin,Deborah
+YR 1986
+T1 Inter-organization networks: implications of access control: requirements for interconnection protocol
+JF Computer Communication Review
+VO 16
+SP 254
+OP 264
+IS 3
+
+RT Journal Article
+ID 882286
+A1 Estrin,Deborah
+YR 1986
+T1 Usage of inter-organization computer networks by research and development laboratories
+JF ACM Sigcue Outlook
+VO 19
+SP 70
+OP 77
+IS 1-2
+
+RT Journal Article
+ID 39212172
+A1 Estrin,Deborah
+YR 1986
+T1 Inter-organization networks: implications of access control: requirements for interconnection protocol
+JF Computer Communication Review
+SP 254
+OP 264
+
+RT Conference Proceedings
+ID 899050
+A1 Comer,Douglas
+A1 Estrin,Deborah
+YR 1986
+T1 CSNET (panel session): using inter-organization networks to support research and advanced development in computer science
+SP 391
+OP 392
+
+RT Conference Proceedings
+ID 1388231
+A1 Estrin,D.
+YR 1985
+T1 Non-discretionary controls for inter-organization networks
+
+RT Journal Article
+ID 703562
+A1 Estrin,Deborah
+YR 1985
+T1 Inter-Organizational Networks: Stringing Wires Across Administrative Boundaries
+JF Computer Networks and Isdn Systems
+VO 9
+SP 281
+OP 295
+IS 4
+
+RT Journal Article
+ID 1284912
+A1 Estrin,D.
+YR 1985
+T1 Acce~ to inter-organization computer networks
+
+RT Journal Article
+ID 6930698
+A1 Xu,Ya
+A1 Bien,Solomon
+A1 Mori,Yutaka
+A1 Heidemann,John
+A1 Estrin,Deborah
+T1 Topology Control Protocols to Conserve Energy in Wireless Ad Hoc Networks
+
+RT Journal Article
+ID 10623423
+A1 Kansal,Aman
+A1 Somasundara,Arun,A
+A1 Je,David,D
+A1 Srivastava,Mani,B
+A1 Estrin,Deborah
+T1 Intelligent Fluid Infrastructure for Embedded Networks
+
+RT Journal Article
+ID 1930688
+A1 Estrin,D.
+A1 Farinacci,D.
+A1 Helmy,A.
+A1 Thaler,D.
+A1 Deering,S.
+A1 Itandley,M.
+A1 Jacobson,V.
+A1 Liu,C.
+A1 Sharma,P.
+A1 Wei,L.
+T1 Protocol independent multicast-sparse mode (pim-sm)
+
+RT Journal Article
+ID 6949504
+A1 Rejaie,Reza
+A1 Handley,Mark
+A1 Yu,Haobo
+A1 Estrin,Deborah
+T1 Proxy Caching Mechanism for Multimedia Playback Streams in the Internet
+
+RT Journal Article
+ID 3708090
+A1 Bulusu,Nirupama
+A1 Bychkovskiy,Vladimir
+A1 Estrin,Deborah
+A1 Heidemann,John
+T1 Scalable, Ad Hoc Deployable RF-based Localization
+
+RT Book, Whole
+ID 928678
+A1 Savvides,Andreas
+A1 Srivastava,Mani
+A1 Girod,Lewis
+A1 Estrin,Deborah
+T1 Localization in Sensor Networks
+
+RT Journal Article
+ID 12663671
+A1 Silva,Fabio
+A1 Heidemann,John
+A1 Govindan,Ramesh
+A1 Estrin,Deborah
+T1 Directed Diffusion
+
+RT Journal Article
+ID 4114841
+A1 Parker,Andrew
+A1 Reddy,Sasank
+A1 Schmid,Thomas
+A1 Chang,Kevin
+A1 Saurabh,Ganeriwal
+A1 Srivastava,Mani
+A1 Hansen,Mark
+A1 Burke,Jeff
+A1 Estrin,Deborah
+A1 Allman,Mark
+A1 Paxson,Vern
+T1 Network System Challenges in Selective Sharing and Verification for Personal, Social, and Urban-Scale Sensing Applications
+
+RT Book, Whole
+ID 928664
+A1 Elson,Jeremy
+A1 Estrin,Deborah
+T1 Sensor Networks: A Bridge to the Physical World
+
+RT Conference Proceedings
+ID 12870936
+A1 Cerpa,Alberto
+A1 Estrin,Deborah
+T1 Summary on ASCENT: Adaptive Self-Configuring sEnsor Networks Topologies
+
+RT Journal Article
+ID 12869765
+A1 Ganesan,Deepak
+A1 Greenstein,Ben
+A1 Estrin,Deborah
+A1 Heidemann,John
+A1 Govindan,Ramesh
+T1 Multi-resolution Storage and Search in Sensor Networks
+JF ACM Transactions on Storage
+
+RT Journal Article
+ID 7006100
+A1 Sharma,Puneet
+A1 Estrin,Deborah
+A1 Floyd,Sally
+A1 Zhang,Lixia
+T1 Scalable Session Messages in SRM using Self-configuration
+
+RT Journal Article
+ID 211856
+A1 Estrin,Deborah
+A1 Yu,Haobo
+A1 Govindan,Ramesh
+T1 Scalable Non-Transactional Replication in the Internet
+
+RT Journal Article
+ID 1930765
+A1 Estrin,D.
+A1 Rekhter,Y.
+A1 Hotz,S.
+T1 A Unified Approach to Inter-Domain Routing
+
+RT Journal Article
+ID 4937702
+A1 Hicks,John
+A1 Paek,Jeongyeup
+A1 Coe,Sharon
+A1 Govindan,Ramesh
+A1 Estrin,Deborah
+T1 An Easily Deployable Wireless Imaging System
+
+RT Journal Article
+ID 5217438
+A1 Stathopoulos,Thanos
+A1 Heidemann,John
+A1 Estrin,Deborah
+T1 Centralized Routing for Resource-Constrained Wireless Sensor Networks
+
+RT Journal Article
+ID 5111510
+A1 Rahimi,Mohammad
+A1 Ahmadian,Shaun
+A1 Zats,David
+A1 Laufer,Rafael
+A1 Estrin,Deborah
+T1 Magic of Numbers in Networks of Wireless Image Sensors
+
+RT Journal Article
+ID 12640564
+A1 Szewczyk,Robert
+A1 Osterweil,Eric
+A1 Polastre,Joseph
+A1 Hamilton,Michael
+A1 Mainwaring,Alan
+A1 Estrin,Deborah
+T1 HABITAT MONITORING
+
+RT Journal Article
+ID 4547482
+A1 Wang,Hanbiao
+A1 Girod,Lewis
+A1 Ramanathan,Nithya
+A1 Estrin,Deborah
+A1 Yao,Kung
+T1 A PLATFORM FOR COLLABORATIVE ACOUSTIC SIGNAL PROCESSING
+
+RT Journal Article
+ID 3313229
+A1 Rejaie,R.
+A1 Handley,M.
+A1 Estrin,D.
+T1 Layered quality adaptation for Internet streaming video
+JF IEEE Journal on Selected Areas in Communications
+
+RT Journal Article
+ID 227651
+A1 Helmy,Ahmed,A,G
+A1 Estrin,Deborah
+A1 Gupta,Eep
+T1 STRESS Testing using Reduced Reachability Analysis: A Case Study for a Multicast Routing Protocol
+
+RT Journal Article
+ID 6113077
+A1 Yu,Yan
+A1 Estrin,Deborah
+A1 Govindan,Ramesh
+A1 Silva,Fabio
+T1 Region Based Multipoint Data Dissemination in Wireless Sensor Networks
+
+RT Journal Article
+ID 6570205
+A1 Whitesell,Kelsey
+A1 Kutler,Brendan
+A1 Ramanathan,Nithya
+A1 Estrin,Deborah
+T1 A System for Determining Indoor Air Quality from Images of an Air Sensor Captured on Cell Phones
+
+RT Journal Article
+ID 115123
+A1 Helmy,Ahmed
+A1 Thaler,David
+A1 Estrin,Deborah
+A1 Wei,Liming
+T1 Protocol Independent Multicast-Sparse Mode (PIM-SM): Deployment Guidelines
+
+RT Journal Article
+ID 11245074
+A1 Samanta,Vidyut
+A1 Ryder,Jason
+A1 Chaudhuri,Sona
+A1 Burkey,Jeff
+A1 Estrin,Deborah
+A1 Wagmistery,Fabian
+T1 UCLA/Cisco Metropolitan Wi-Fi Research Network
+
+RT Journal Article
+ID 5592514
+A1 Reddy,Sasank
+A1 Schmid,Thomas
+A1 Chen,Gong
+A1 Yau,Nathan
+A1 Estrin,Deborah
+A1 Hansen,Mark
+A1 Srivastava,Mani
+T1 ESP Framework: A Middleware Architecture For Heterogeneous Sensing Systems
+
+RT Journal Article
+ID 6185813
+A1 Falaki,Hossein
+A1 Govindan,Ramesh
+A1 Estrin,Deborah
+T1 Smart Screen Management on Mobile Phones
+
+RT Journal Article
+ID 6967304
+A1 Allen,Michael
+A1 Girod,Lewis
+A1 Newton,Ryan
+A1 Madden,Samuel
+A1 Blumstein,Daniel,T.
+A1 Estrin,Deborah
+A1 UCLA,CENS
+T1 VoxNet: AnInteractive,Rapidly-Deployable AcousticMonitoringPlatform
+
+RT Journal Article
+ID 12803338
+A1 Ganesan,Deepak
+A1 Govindan,Ramesh
+A1 Shenker,Scott
+A1 Estrin,Deborah
+T1 Previously proposed sensor network data dissemination sch emes require periodic low-rate flooding of data in order to allow recovery from failure. We consider c onstructing two kinds of multipaths to enable energy efficient recovery from failure of the shortes t path between source and sink. Disjoint multipath has been studied in the literature. We propose a no vel braided multipath scheme, which results in several partially disjoint multipath schemes. W e find that braided multipaths are a viable alternative for energy-efficient recovery from isolated an d patterned failures
+
+RT Journal Article
+ID 5064182
+A1 Girod,Lewis
+A1 Wang,Hanbiao
+A1 Tseng,Jeffrey
+A1 Lukac,Martin
+A1 Busek,Naim
+A1 Estrin,Deborah
+A1 Guy,Richard
+T1 Acoustic ENSBox ENSBox: a Platform for : a Platform for Collaborative Acoustic Environmental Monitoring Collaborative Acoustic Environmental Monitoring
+
+RT Journal Article
+ID 10605209
+A1 Estrin,Deborah
+A1 Steenstrup,Martha
+A1 Tsudik,Gene
+T1 A Protocol for Forwarding Route Establishment and Packet Across Multidomain Internets
+
+RT Journal Article
+ID 12402950
+A1 Getgen,George
+A1 Glazer,Alex
+A1 Goulden,Michael
+A1 Hodges,Scott
+A1 Magowan,Cathie
+A1 Powell,Frank
+A1 Costa,Daniel
+A1 Estrin,Deborah
+T1 WMRS Work Group Meeting UCOP, 9th Floor
+
+RT Journal Article
+ID 10370904
+A1 Smith,Ryan,N.
+A1 Stauffer,Beth
+A1 Heidarsson,Hordur
+A1 Das,Jnaneshwar
+A1 Pereira,Arvind
+A1 Chao,Yi
+A1 Darjany,Lindsay
+A1 Cetinic,Ivona
+A1 Estrin,Deborah
+A1 Oberg,Carl
+A1 Ragan,Matthew
+A1 Jones,Burton,H.
+A1 Sukhatme,Gaurav,S.
+A1 Caron,David,A.
+T1 Design and Implementation of Sensor Networks for the Observation and Research of Harmful Algal Blooms in Southern California Coastal Waters
+
+RT Journal Article
+ID 13032892
+A1 Bulusu,Nirupama
+A1 Heidemann,John
+A1 Estrin,Deborah
+T1 Very Small Devices
+
+RT Journal Article
+ID 11636701
+A1 Estrin,Deborah
+A1 Steenstrup,Martha
+T1 Protocol s
+
+RT Journal Article
+ID 12734859
+A1 Shah,Deep
+A1 Azari,Afrouz
+A1 Ko,Teresa
+A1 Ahmadian,Shaun
+A1 Rahimi,Mohammad
+A1 Estrin,Deborah
+T1 Center for Embedded Networked Sensing
+
+RT Journal Article
+ID 11626836
+A1 Reddy,Sasank
+A1 Burke,Jeff
+A1 Estrin,Deborah
+A1 Hansen,Mark
+A1 Srivastava,Mani
+T1 Poster Abstract: A Framework for Data Quality and Feedback in Participatory Sensing
+
+RT Journal Article
+ID 10602780
+A1 Wang,Hanbiao
+A1 Yipy,Len
+A1 Yaoy,Kung
+A1 Estrin,Deborah
+T1 LOWER BOUNDS OF LOCALIZATION UNCERTAINTY IN SENSOR NETWORKS
+
+RT Journal Article
+ID 10613093
+A1 Wang,H.
+A1 Ali,A.
+A1 Asgari,S.
+A1 Estrin,D.
+A1 Taylor,C.
+T1 Acoustic Sensor Networks for Woodpecker Localization
+
+RT Journal Article
+ID 10623169
+A1 Estrin,Deborah
+A1 Zhang,Lixia
+T1 Design Considerations for Usage Accounting and Feedback i n
+
+RT Journal Article
+ID 12634591
+A1 Breslau,Lee
+A1 Estrin,Deborah
+T1 Network researchers must test Internet protocols under varied conditions to determine whether they are robust and reliable. The Virtual Inter Network Testbed (VINT) project has enhanced its network simulator and related software to provide several practical innovations that broaden the conditions under which researchers can evaluate network protocols
+
+RT Journal Article
+ID 5126674
+A1 Hyman,Josh
+A1 Hansen,Mark
+A1 Graham,Eric
+A1 Estrin,Deborah
+T1 Estimating the Spectral Reflectance of Natural Imagery Using Color Image Features
+
+RT Journal Article
+ID 6011269
+A1 Ramanathan,Nithya
+A1 Reddy,Sasank
+A1 Burke,Jeff
+A1 Estrin,Deborah
+T1 Participatory Sensing for Surya
+
+RT Journal Article
+ID 13583889
+A1 Srivastava,Mani
+A1 Estrin,Deborah
+T1 Call for Articles for Computer
+
+RT Journal Article
+ID 12817540
+A1 Estrin,Deborah,L.
+T1 Research Interests My general area of interest is embedded sensor and actuator networks. Through the development and study of new applications, I will characterize and abstract new principles and primitives that enable robust embedded sensor systems to scale and flourish

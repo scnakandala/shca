@@ -1,0 +1,6202 @@
+RT Journal Article
+ID 57020180
+A1 Zhang,Hongjiang
+A1 Abdallah,Yasser
+A1 Chantalat,Regis
+A1 Thevenot,Marc
+A1 Monediere,Thierry
+A1 Jecko,Bernard
+YR 2012
+T1 Low-Profile and High-Gain Yagi Wire-Patch Antenna for WiMAX Applications
+JF IEEE Antennas and Wireless Propagation Letters
+VO 11
+SP 659
+OP 662
+
+RT Journal Article
+ID 57024257
+A1 Zhang,Haijian
+A1 Ruyet,Didier,Le
+A1 Roviras,Daniel
+A1 Sun,Hong
+YR 2012
+T1 Noncooperative Multicell Resource Allocation of FBMC-Based Cognitive Radio Systems
+JF IEEE Transactions on Vehicular Technology
+VO 61
+SP 799
+OP 811
+IS 2
+
+RT Journal Article
+ID 49145221
+A1 Deng,R.
+A1 Li,J.
+A1 Kang,H.,K.
+A1 Zhang,H.,J.
+A1 Wong,C.,C.
+YR 2011
+T1 Laser directed deposition of silver thin films
+JF Thin Solid Films
+VO 519
+SP 5183
+OP 5187
+IS 15
+
+RT Conference Proceedings
+ID 51084417
+A1 Zheng,Haijin
+A1 Zhang,Hongjiang
+A1 Fang,Shaowen
+A1 Yang,Jie
+A1 Xie,Songhua
+A1 Chen,Xiaoan
+YR 2011
+T1 Effects of different soil and water conservation tillage on runoff, sediment and soil carbon
+
+RT Conference Proceedings
+ID 56994511
+A1 Liu,Dong
+A1 Yan,Shuicheng
+A1 Mu,Yadong
+A1 Hua,Xian-Sheng
+A1 Chang,Shih-Fu
+A1 Zhang,Hong-Jiang
+YR 2011
+T1 Towards Optimal Discriminating Order for Multiclass Classification
+SP 388
+OP 397
+
+RT Journal Article
+ID 56946295
+A1 Toubet,Moustapha,Salah
+A1 Hajj,Mohamad
+A1 Chantalat,Regis
+A1 Arnaud,Eric
+A1 Jecko,Bernard
+A1 Monediere,Thierry
+A1 Zhang,Hongjiang
+A1 Diot,Jean-Christophe
+YR 2011
+T1 Wide Bandwidth, High-Gain, and Low-Profile EBG Prototype for High Power Applications
+JF IEEE Antennas and Wireless Propagation Letters
+VO 10
+SP 1362
+OP 1365
+
+RT Journal Article
+ID 51158079
+A1 Yang,Kuiyuan
+A1 Wang,Meng
+A1 Hua,Xian-Sheng
+A1 Yan,Shuicheng
+A1 Zhang,Hong-Jiang
+YR 2011
+T1 Assemble New Object Detector With Few Examples
+JF IEEE Transactions on Image Processing
+VO 20
+SP 3341
+OP 3349
+IS 12
+
+RT Journal Article
+ID 49682173
+A1 Wegrzyn,Ilona
+A1 Zhang,Haijian
+A1 Orwar,Owe
+A1 Jesorka,Aldo
+YR 2011
+T1 Nanotube-interconnected liposome networks
+JF Nano Communication Networks
+VO 2
+SP 4
+OP 15
+IS 1
+
+RT Journal Article
+ID 51186334
+A1 Yang,Kuiyuan
+A1 Hua,Xian-Sheng
+A1 Wang,Meng
+A1 Zhang,Hong-Jiang
+YR 2011
+T1 Tag Tagging: Towards More Descriptive Keywords of Image Content
+JF IEEE Transactions on Multimedia
+VO 13
+SP 662
+OP 673
+IS 4
+
+RT Journal Article
+ID 51186331
+A1 Liu,Dong
+A1 Yan,Shuicheng
+A1 Hua,Xian-Sheng
+A1 Zhang,Hong-Jiang
+YR 2011
+T1 Image Retagging Using Collaborative Tag Propagation
+JF IEEE Transactions on Multimedia
+VO 13
+SP 702
+OP 712
+IS 4
+
+RT Journal Article
+ID 39330499
+A1 Liu,Dong
+A1 Wang,Meng
+A1 Hua,Xian-Sheng
+A1 Zhang,Hong-Jiang
+YR 2011
+T1 Semi-Automatic Tagging of Photo Albums via Exemplar Selection and Tag Inference
+JF IEEE Transactions on Multimedia
+VO 13
+SP 82
+OP 91
+IS 1
+
+RT Journal Article
+ID 49148596
+A1 Zhou,Y.,B.
+A1 Hu,H.,T.
+A1 Zhang,H.,J.
+YR 2011
+T1 Oxidation behavior of aluminide coatings on carbon steel with and without electrodeposited Ni–CeO 2 film by low-temperature pack cementation
+JF Vacuum
+VO 86
+SP 210
+OP 217
+IS 2
+
+RT Journal Article
+ID 57659152
+A1 Guo,Xiaoxia
+A1 Zhang,Hongjiang
+A1 An,Jiyao
+YR 2011
+T1 A new species of Simulium (Gomphostilbia) from Hainan Island, China (Diptera: Simuliidae)
+JF Oriental Insects
+VO ahead-of-p
+SP 1
+OP 6
+IS ahead-of-p
+
+RT Journal Article
+ID 39326599
+A1 Liu,Dong
+A1 Hua,Xian-Sheng
+A1 Zhang,Hong-Jiang
+YR 2011
+T1 Content-based tag processing for Internet social images
+JF Multimedia Tools and Applications
+VO 51
+SP 723
+OP 738
+IS 2
+
+RT Conference Proceedings
+ID 51153334
+A1 Li,Xiwu
+A1 Zhang,Hongjiang
+YR 2011
+T1 The study of the beef cattle house environment controlling equipment based on singlechip
+
+RT Book, Whole
+ID 47932675
+A1 Yang,Kuiyuan
+A1 Wang,Meng
+A1 Hua,Xian-Sheng
+A1 Zhang,Hong-Jiang
+YR 2011
+T1 Tag-Based Social Image Search: Toward Relevant and Diverse Results
+
+RT Journal Article
+ID 27175390
+A1 Zhang,Haijian
+A1 Ruyet,Didier,Le
+A1 Roviras,Daniel
+A1 Medjahdi,Yahia
+A1 Sun,Hong
+YR 2010
+T1 Spectral Efficiency Comparison of OFDM/FBMC for Uplink Cognitive Radio Networks
+JF Eurasip Journal on Advances in Signal Processing
+VO 2010
+SP 1
+OP 15
+
+RT Journal Article
+ID 14405890
+A1 Wang,Meng
+A1 Yang,Kuiyuan
+A1 Hua,Xian-Sheng
+A1 Zhang,Hong-Jiang
+YR 2010
+T1 Towards a Relevant and Diverse Search of Social Images
+JF IEEE Transactions on Multimedia
+VO 12
+SP 829
+OP 842
+IS 8
+
+RT Conference Proceedings
+ID 13302604
+A1 Liu,Dong
+A1 Hua,Xian-Sheng
+A1 Wang,Meng
+A1 Zhang,Hong-Jiang
+YR 2010
+T1 Retagging social images based on visual and semantic consistency
+SP 1149
+OP 1150
+
+RT Journal Article
+ID 39235920
+A1 Liu,Dong
+A1 Hua,Xian-Sheng
+A1 Wang,Meng
+A1 Zhang,Hong-Jiang
+YR 2010
+T1 Image retagging
+SP 491
+OP 500
+
+RT Book, Whole
+ID 6047007
+A1 Yang,Kuiyuan
+A1 Wang,Meng
+A1 Hua,Xian-sheng
+A1 Zhang,Hong-jiang
+YR 2010
+T1 Social Image Search with Diverse Relevance Ranking
+SP 174
+OP 184
+
+RT Journal Article
+ID 27175492
+A1 Zhang,Haijian
+A1 Ruyet,Didier,Le
+A1 Terré,Michel
+YR 2010
+T1 Spectral Correlation of Multicarrier Modulated Signals and Its Application for Signal Detection
+JF Eurasip Journal on Advances in Signal Processing
+VO 2010
+SP 1
+OP 15
+
+RT Conference Proceedings
+ID 39235922
+A1 Yang,Kuiyuan
+A1 Hua,Xian-Sheng
+A1 Wang,Meng
+A1 Zhang,Hong-Jiang
+YR 2010
+T1 Tagging tags
+SP 619
+OP 622
+
+RT Journal Article
+ID 50903493
+A1 Zhang,Haijian
+A1 RUYET,Didier,LE
+A1 ROVIRAS,Daniel
+A1 Sun,Hong
+YR 2010
+T1 Uplink Capacity Comparison of OFDM / FBMC Based Cognitive Radio Networks
+SP 1
+OP 5
+
+RT Conference Proceedings
+ID 39235863
+A1 Liu,Dong
+A1 Yan,Shuicheng
+A1 Rui,Yong
+A1 Zhang,Hong-Jiang
+YR 2010
+T1 Unified tag analysis with multi-edge graph
+SP 25
+OP 34
+
+RT Journal Article
+ID 22058309
+A1 Wu,J.
+A1 Zhang,H.
+A1 Ying,W.
+A1 Fang,D.
+YR 2010
+T1 Simulation and Analysis of a Tubular Fixed-Bed Fischer-Tropsch Synthesis Reactor with Co-Based Catalyst
+JF Chemical Engineering & Technology
+VO 33
+SP 1083
+OP 1092
+IS 7
+
+RT Journal Article
+ID 14405855
+A1 Qi,Guo-Jun
+A1 Hua,Xian-Sheng
+A1 Rui,Yong
+A1 Tang,Jinhui
+A1 Zhang,Hong-Jiang
+YR 2010
+T1 Image Classification With Kernelized Spatial-Context
+JF IEEE Transactions on Multimedia
+VO 12
+SP 278
+OP 287
+IS 4
+
+RT Journal Article
+ID 51013806
+A1 Ang,X.,F.
+A1 Liu,H.,P.
+A1 Tan,Y.,L.
+A1 Lu,H.,J.
+A1 Wei,J.
+A1 Zhang,H.,J.
+A1 Chen,Z.
+A1 Wong,C.,C.
+YR 2010
+T1 Optimum pressure in low temperature direct metal bonding
+
+RT Conference Proceedings
+ID 39236062
+A1 Li,Darui
+A1 Yang,Linjun
+A1 Hua,Xian-Sheng
+A1 Zhang,Hong-Jiang
+YR 2010
+T1 Large-scale robust visual codebook construction
+SP 1183
+OP 1186
+
+RT Conference Proceedings
+ID 50951343
+A1 Cheng,Jinhua
+A1 Zhang,Hongjiang
+A1 Wang,Wei
+A1 Zhang,Youyan
+A1 Wang,Ran
+A1 Lu,Wenxing
+YR 2010
+T1 Effects of land use on preferential flow paths distributions in southwestern China
+
+RT Journal Article
+ID 56670371
+A1 Zhang,Hongjiang
+A1 Malrieu,Jean-Paul
+A1 Reinhardt,Peter
+A1 Ma,Jing
+YR 2010
+T1 Improved version of a local contracted configuration interaction of singles and doubles with partial inclusion of triples and quadruples
+
+RT Conference Proceedings
+ID 50951481
+A1 Wang,Wei
+A1 Zhang,Hongjiang
+A1 Wang,Haiyan
+A1 Cheng,Jinhua
+YR 2010
+T1 Morphological and distribution variability of preferential flow in plantation soils on the purple sandstone hillslopes using image analysis
+
+RT Journal Article
+ID 50941722
+A1 Zhang,Haijian
+A1 RUYET,Didier,LE
+A1 ROVIRAS,Daniel
+A1 Sun,Hong
+YR 2010
+T1 Capacity analysis of OFDM / FBMC based Cognitive Radio networks with estimated CSI
+
+RT Conference Proceedings
+ID 4734536
+A1 Liu,Dong
+A1 Hua,Xian-sheng
+A1 Yang,Linjun
+A1 Wang,Meng
+A1 Zhang,Hong-jiang
+YR 2009
+T1 Tag ranking
+SP 351
+OP 360
+
+RT Journal Article
+ID 13336655
+A1 Zhang,Haijian
+A1 Ruyet,Didier,Le
+A1 Terré,Michel
+YR 2009
+T1 Spectral efficiency comparison between OFDM/OQAM- and OFDM-based CR networks
+JF Wireless Communications and Mobile Computing
+VO 9
+SP 1487
+OP 1501
+IS 11
+
+RT Conference Proceedings
+ID 6368045
+A1 Wang,Changhu
+A1 Yan,Shuicheng
+A1 Zhang,Lei
+A1 Zhang,Hong-jiang
+YR 2009
+T1 Multi-label sparse coding for automatic image annotation
+SP 1643
+OP 1650
+
+RT Journal Article
+ID 39248366
+A1 Wang,Meng
+A1 Yang,Kuiyuan
+A1 Hua,Xian-Sheng
+A1 Zhang,Hong-Jiang
+YR 2009
+T1 Visual tag dictionary: interpreting tags with visual words
+SP 1
+OP 8
+
+RT Journal Article
+ID 6083243
+A1 Chen,Yuanhao
+A1 Zhu,Long,(Leo)
+A1 Zhang,Hongjiang
+YR 2009
+T1 Unsupervised Learning of Probabilistic Object Models (POMs) for Object Classification, Segmentation, and Recognition Using Knowledge Propagation
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 31
+SP 1747
+OP 1761
+IS 10
+
+RT Conference Proceedings
+ID 6046822
+A1 Qi,Guo-jun
+A1 Hua,Xian-sheng
+A1 Zhang,Hong-jiang
+YR 2009
+T1 Learning semantic distance from community-tagged media collection
+SP 243
+OP 252
+
+RT Conference Proceedings
+ID 13297978
+A1 Liu,Dong
+A1 Wang,Meng
+A1 Yang,Linjun
+A1 Hua,Xian-Sheng
+A1 Zhang,HongJiang
+YR 2009
+T1 Tag quality improvement for social images
+SP 350
+OP 353
+
+RT Conference Proceedings
+ID 13254842
+A1 Zhang,Haijian
+A1 Ruyet,Didier,Le
+A1 Terré,Michel
+YR 2009
+T1 Spectral Efficiency Analysis in OFDM and OFDM/OQAM Based Cognitive Radio Networks
+SP 1
+OP 5
+
+RT Conference Proceedings
+ID 5603488
+A1 Wang,Changhu
+A1 Yan,Shuicheng
+A1 Zhang,Hong-Jiang
+YR 2009
+T1 Large scale natural image classification by sparsity exploration
+SP 3709
+OP 3712
+
+RT Conference Proceedings
+ID 13299906
+A1 Yang,Kuiyuan
+A1 Wang,Meng
+A1 Zhang,Hong-Jiang
+YR 2009
+T1 Active tagging for image indexing
+SP 1620
+OP 1623
+
+RT Journal Article
+ID 40643224
+A1 Zhou,Y.,B.
+A1 Qian,B.,Y.
+A1 Zhang,H.,J.
+YR 2009
+T1 Al particles size effect on the microstructure of the co-deposited Ni–Al composite coatings
+JF Thin Solid Films
+VO 517
+SP 3287
+OP 3291
+IS 11
+
+RT Journal Article
+ID 26859259
+A1 Wu,H.
+A1 Dai,X.
+A1 Zhang,H.
+YR 2009
+T1 Semi-blind channel estimation for the uplink of multi-carrier code-division multiple access systems with timing offset
+JF Iet Communications
+VO 3
+SP 185
+IS 2
+
+RT Conference Proceedings
+ID 6046708
+A1 Zhang,Hongjiang
+YR 2009
+T1 Multimedia content analysis and search: new perspectives and approaches
+SP 1
+OP 2
+
+RT Conference Proceedings
+ID 6046805
+A1 Liu,Dong
+A1 Wang,Meng
+A1 Hua,Xian-sheng
+A1 Zhang,Hong-jiang
+YR 2009
+T1 Smart batch tagging of photo albums
+SP 809
+OP 812
+
+RT Book, Whole
+ID 4726753
+A1 Liu,Dong
+A1 Hua,Xian-sheng
+A1 Yang,Linjun
+A1 Zhang,Hong-jiang
+YR 2009
+T1 Multiple-Instance Active Learning for Image Categorization
+SP 239
+OP 249
+
+RT Journal Article
+ID 41082824
+A1 Zhou,Y.,B.
+A1 Zhao,G.,G.
+A1 Zhang,H.,J.
+A1 Zhang,Y.,C.
+A1 Qian,B.,Y.
+YR 2009
+T1 Effect of CeO 2 on the microstructure and isothermal oxidation of Ni–Al alloy coatings transformed from electrodeposited Ni–Al films at 800 °C
+JF Vacuum
+VO 83
+SP 1333
+OP 1339
+IS 11
+
+RT Conference Proceedings
+ID 4717799
+A1 Qi,Guo-jun
+A1 Tang,Jinhui
+A1 Zha,Zheng-jun
+A1 Chua,Tat-seng
+A1 Zhang,Hong-jiang
+YR 2009
+T1 An efficient sparse metric learning in high-dimensional space via l1-penalized log-determinant regularization
+SP 106
+OP 848
+
+RT Journal Article
+ID 26482167
+A1 Xudong,Cheng
+A1 Heping,Zhang
+A1 Qiyuan,Xie
+A1 Yong,Zhou
+A1 Hongjiang,Zhang
+A1 Chenjie,Zhang
+YR 2009
+T1 Study of announced evacuation drill from a retail store
+JF Building and Environment
+VO 44
+SP 864
+OP 870
+IS 5
+
+RT Conference Proceedings
+ID 13300021
+A1 Liu,Dong
+A1 Hua,Xian-Sheng
+A1 Wang,Meng
+A1 Zhang,HongJiang
+YR 2009
+T1 Boost search relevance for tag-based social image retrieval
+SP 1636
+OP 1639
+
+RT Journal Article
+ID 6127218
+A1 Wang,Changhu
+A1 Yan,Shuicheng
+A1 Zhang,Lei
+A1 Zhang,HongJiang
+YR 2009
+T1 NonNegative Semi-Supervised Learning
+JF Journal of Machine Learning Research
+VO 5
+SP 575
+OP 582
+
+RT Journal Article
+ID 6083233
+A1 Qi,Guo-jun
+A1 Hua,Xian-sheng
+A1 Rui,Yong
+A1 Tang,Jinhui
+A1 Zhang,Hong-jiang
+YR 2009
+T1 Two-Dimensional Multilabel Active Learning with an Efficient Online Adaptation Model for Image Classification
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 31
+SP 1880
+OP 1897
+IS 10
+
+RT Conference Proceedings
+ID 5726650
+A1 Wang,Changhu
+A1 Song,Zheng
+A1 Yan,Shuicheng
+A1 Zhang,Lei
+A1 Zhang,Hong-jiang
+YR 2009
+T1 Multiplicative nonnegative greph embedding
+SP 389
+OP 396
+
+RT Conference Proceedings
+ID 11379547
+A1 Wang,Changhu
+A1 Song,Zheng
+A1 Yan,Shuicheng
+A1 Zhang,Lei
+A1 Zhang,Hong-Jiang
+YR 2009
+T1 Multiplicative nonnegative greph embedding
+SP 389
+OP 396
+
+RT Journal Article
+ID 39998035
+A1 Cheng,Jinhua
+A1 Zhang,Hongjiang
+A1 Zhang,Youyan
+A1 Shi,Yuhu
+A1 Cheng,Yun
+YR 2009
+T1 Effects of preferential flow on soil-water and surface runoff in a forested watershed in China
+JF Frontiers of Forestry in China
+VO 4
+SP 132
+OP 139
+IS 2
+
+RT Conference Proceedings
+ID 4729460
+A1 Zhang,Weihua
+A1 Liu,Lili
+A1 Zhang,Chen
+A1 Zhang,Hongjiang
+A1 Zang,Binyu
+A1 Zhu,Chuanqi
+YR 2009
+T1 Optimizing techniques for saturated arithmetic with first-order linear recurrence
+SP 1883
+OP 1889
+
+RT Journal Article
+ID 39998064
+A1 Wang,Wei
+A1 Zhang,Hongjiang
+A1 Li,Meng
+A1 Cheng,Jinhua
+A1 Wang,Bo
+A1 Lu,Weili
+YR 2009
+T1 Infiltration characteristics of water in forest soils in the Simian mountains, Chongqing City, southwestern China
+JF Frontiers of Forestry in China
+VO 4
+SP 338
+OP 343
+IS 3
+
+RT Conference Proceedings
+ID 50783117
+A1 Wang,Changhu
+A1 Yan,Shuicheng
+A1 Zhang,Lei
+A1 Zhang,Hong-Jiang
+YR 2009
+T1 Multi-label sparse coding for automatic image annotation
+SP 1643
+OP 1650
+
+RT Conference Proceedings
+ID 50807094
+A1 Zhang,Haijian
+A1 RUYET,Didier,LE
+A1 ROVIRAS,Daniel
+A1 Sun,Hong
+YR 2009
+T1 Resource Allocation of noncooperative multi-cell for cognitive radio networks
+
+RT Conference Proceedings
+ID 4316983
+A1 Wang,Changhu
+A1 Zhang,Lei
+A1 Zhang,Hong-jiang
+YR 2008
+T1 Learning to reduce the semantic gap in web image retrieval and annotation
+SP 355
+OP 362
+
+RT Conference Proceedings
+ID 4704909
+A1 Qi,Guo-jun
+A1 Hua,Xian-sheng
+A1 Rui,Yong
+A1 Tang,Jinhui
+A1 Zhang,Hong-jiang
+YR 2008
+T1 Two-Dimensional Active Learning for image classification
+SP 1
+OP 8
+
+RT Journal Article
+ID 4412090
+A1 Xu,Dong
+A1 Yan,Shuicheng
+A1 Zhang,Lei
+A1 Lin,Stephen
+A1 Zhang,Hong-jiang
+A1 Huang,Thomas,S.
+YR 2008
+T1 Reconstruction and Recognition of Tensor-Based Objects With Concurrent Subspaces Analysis
+JF IEEE Transactions on Circuits and Systems for Video Technology
+VO 18
+SP 36
+OP 47
+IS 1
+
+RT Journal Article
+ID 4401449
+A1 Wang,Changhu
+A1 Jing,Feng
+A1 Zhang,Lei
+A1 Zhang,Hong-jiang
+YR 2008
+T1 Scalable search-based image annotation
+JF Multimedia Systems
+VO 14
+SP 205
+OP 220
+IS 4
+
+RT Journal Article
+ID 4405376
+A1 Qin,Tao
+A1 Zhang,Xu-dong
+A1 Liu,Tie-yan
+A1 Wang,De-sheng
+A1 Ma,Wei-ying
+A1 Zhang,Hong-jiang
+YR 2008
+T1 An active feedback framework for image retrieval
+JF Pattern Recognition Letters
+VO 29
+SP 637
+OP 646
+IS 5
+
+RT Conference Proceedings
+ID 4703504
+A1 Wang,Changhu
+A1 Zhang,Lei
+A1 Zhang,Hong-jiang
+YR 2008
+T1 Scalable Markov model-based image annotation
+SP 113
+OP 118
+
+RT Conference Proceedings
+ID 4301450
+A1 Wang,Changhu
+A1 Zhang,Lei
+A1 Zhang,Hong-jiang
+YR 2008
+T1 Graph-based multiple-instance learning for object-based image retrieval
+SP 156
+OP 163
+
+RT Conference Proceedings
+ID 4704981
+A1 Qi,Guo-jun
+A1 Hua,Xian-sheng
+A1 Rui,Yong
+A1 Tang,Jinhui
+A1 Zha,Zheng-jun
+A1 Zhang,Hong-jiang
+YR 2008
+T1 A joint appearance-spatial distance for kernel-based image categorization
+SP 1
+OP 8
+
+RT Conference Proceedings
+ID 4752617
+A1 Zhang,Haijian
+A1 Ruyet,Didier,Le
+A1 Terré,Michel
+YR 2008
+T1 Signal detection for OFDM/OQAM system using cyclostationary signatures
+SP 1
+OP 5
+
+RT Conference Proceedings
+ID 4704606
+A1 Chen,Yuanhao
+A1 Zhu,Long
+A1 Yuille,Alan,L.
+A1 Zhang,Hongjiang
+YR 2008
+T1 Unsupervised learning of probabilistic object models (POMs) for object classification, segmentation and recognition
+SP 1
+OP 8
+
+RT Journal Article
+ID 4416073
+A1 Qi,Guo-jun
+A1 Hua,Xian-sheng
+A1 Rui,Yong
+A1 Tang,Jinhui
+A1 Mei,Tao
+A1 Wang,Meng
+A1 Zhang,Hong-jiang
+YR 2008
+T1 Correlative multilabel video annotation with temporal kernels
+JF ACM Transactions on Multimedia Computing, Communications, and Applications
+VO 5
+SP 1
+OP 27
+IS 1
+
+RT Journal Article
+ID 4434820
+A1 Hua,Xian-sheng
+A1 Zhang,Hong-jiang
+YR 2008
+T1 Media Content Analysis
+JF Scholarpedia
+VO 3
+SP 3712
+IS 2
+
+RT Journal Article
+ID 19409308
+A1 Lu,Lie
+A1 Zhang,Hong-Jiang
+YR 2008
+T1 Method of real-time speaker change point detection, speaker tracking, and speaker model construction
+JF Journal of The Acoustical Society of America
+VO 124
+SP 2678
+IS 5
+
+RT Conference Proceedings
+ID 4355828
+A1 Zhang,Hongjiang
+YR 2008
+T1 Multimedia search: Past and current approaches
+
+RT Journal Article
+ID 2512315
+A1 Yan,Shuicheng
+A1 Xu,Dong
+A1 Zhang,Benyu
+A1 Zhang,Hong-Jiang
+A1 Yang,Qiang
+A1 Lin,Stephen
+YR 2007
+T1 Graph Embedding and Extensions: A General Framework for Dimensionality Reduction
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 29
+SP 40
+OP 51
+IS 1
+
+RT Conference Proceedings
+ID 4112572
+A1 Qi,Guo-jun
+A1 Hua,Xian-sheng
+A1 Rui,Yong
+A1 Tang,Jinhui
+A1 Mei,Tao
+A1 Zhang,Hong-jiang
+YR 2007
+T1 Correlative multi-label video annotation
+SP 17
+OP 26
+
+RT Journal Article
+ID 4412803
+A1 Xu,Dong
+A1 Yan,Shuicheng
+A1 Tao,Dacheng
+A1 Lin,Stephen
+A1 Zhang,Hong-Jiang
+YR 2007
+T1 Marginal Fisher Analysis and Its Variants for Human Gait Recognition and Content Based Image Retrieval
+JF IEEE Transactions on Image Processing
+VO 16
+SP 2811
+OP 2821
+IS 11
+
+RT Journal Article
+ID 4412985
+A1 Yan,Shuicheng
+A1 Xu,Dong
+A1 Yang,Qiang
+A1 Zhang,Lei
+A1 Tang,Xiaoou
+A1 Zhang,Hong-Jiang
+YR 2007
+T1 Multilinear Discriminant Analysis for Face Recognition
+JF IEEE Transactions on Image Processing
+VO 16
+SP 212
+OP 220
+IS 1
+
+RT Conference Proceedings
+ID 4112527
+A1 Wang,Changhu
+A1 Jing,Feng
+A1 Zhang,Lei
+A1 Zhang,Hong-jiang
+YR 2007
+T1 Content-Based Image Annotation Refinement
+
+RT Conference Proceedings
+ID 4138521
+A1 Qi,Guo-jun
+A1 Hua,Xian-sheng
+A1 Rui,Yong
+A1 Mei,Tao
+A1 Tang,Jinhui
+A1 Zhang,Hong-jiang
+YR 2007
+T1 Concurrent Multiple Instance Learning for Image Categorization
+
+RT Journal Article
+ID 4416041
+A1 He,Xiaofei
+A1 Cai,Deng
+A1 Wen,Ji-rong
+A1 Ma,Wei-ying
+A1 Zhang,Hong-jiang
+YR 2007
+T1 Clustering and searching WWW images using link and page layout analysis
+JF ACM Transactions on Multimedia Computing, Communications, and Applications
+VO 3
+SP 10
+IS 2
+
+RT Journal Article
+ID 31858190
+A1 Zhang,YongJi
+A1 Zhang,HongJiang
+A1 Cui,Yan
+A1 Cui,Hong
+A1 Xu,QingSong
+A1 Sun,Shu
+A1 Sun,LianPing
+A1 Lee,JungBin
+YR 2007
+T1 Population genetics for Y-chromosomal STRs haplotypes of Chinese Korean ethnic group in northeastern China
+JF Forensic Science International
+VO 173
+SP 197
+OP 203
+IS 2
+
+RT Conference Proceedings
+ID 4490044
+A1 Chen,Yuanhao
+A1 Zhu,Long
+A1 Lin,Chenxi
+A1 Yuille,Alan,L.
+A1 Zhang,Hongjiang
+YR 2007
+T1 Rapid Inference on a Novel AND/OR graph for Object Detection, Segmentation and Parsing
+
+RT Conference Proceedings
+ID 4242733
+A1 Wang,Changhu
+A1 Jing,Feng
+A1 Zhang,Lei
+A1 Zhang,Hong-jiang
+YR 2007
+T1 Learning query-biased web page summarization
+SP 555
+OP 562
+
+RT Conference Proceedings
+ID 4138522
+A1 Qi,Guo-Jun
+A1 Hua,Xian-Sheng
+A1 Rui,Yong
+A1 Mei,Tao
+A1 Tang,Jinhui
+A1 Zhang,Hong-Jiang
+YR 2007
+T1 Concurrent Multiple Instance Learning for Image Categorization
+
+RT Conference Proceedings
+ID 4277967
+A1 Qi,Guo-jun
+A1 Hua,Xian-sheng
+A1 Song,Yan
+A1 Tang,Jinhui
+A1 Zhang,Hong-jiang
+YR 2007
+T1 Transductive Inference with Hierarchical Clustering for Video Annotation
+SP 643
+OP 646
+
+RT Journal Article
+ID 39997932
+A1 Cheng,Jinhua
+A1 Zhang,Hongjiang
+A1 Zhang,Youyan
+A1 Shi,Yuhu
+A1 He,Fan
+A1 Qi,Shenglin
+A1 Sun,Yanhong
+YR 2007
+T1 Affecting factors of preferential flow in the forest of the Three Gorges area, Yangtze River
+JF Frontiers of Forestry in China
+VO 2
+SP 436
+OP 442
+IS 4
+
+RT Journal Article
+ID 2516116
+A1 Yan,Shuicheng
+A1 Hu,Yuxiao
+A1 Xu,Dong
+A1 Zhang,Hong-Jiang
+A1 Zhang,Benyu
+A1 Cheng,Qiansheng
+YR 2007
+T1 Nonlinear Discriminant Analysis on Embedded Manifold
+JF IEEE Transactions on Circuits and Systems for Video Technology
+VO 17
+SP 468
+OP 477
+IS 4
+
+RT Conference Proceedings
+ID 5039750
+A1 Yan,Jie
+A1 Li,Stan
+A1 Zhu,Shujie
+A1 Zhang,Hongjiang
+YR 2007
+T1 Ensemble SVM Regression Based Multi-View Face Detection System
+SP 163
+OP 169
+
+RT Journal Article
+ID 51172312
+A1 Yan,Shuicheng
+A1 Xu,Dong
+A1 Zhang,Benyu
+A1 Zhang,Hong-Jiang
+A1 Yang,Qiang
+A1 Lin,Stephen
+YR 2007
+T1 Graph Embedding and Extensions: A General Framework for Dimensionality Reduction
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 29
+SP 40
+OP 51
+IS 1
+
+RT Journal Article
+ID 41316472
+A1 ZHANG,Hong-jiang
+A1 WU,Jin-hong
+A1 YANG,Hua
+A1 YU,Xin-qiao
+A1 WANG,Xiao-shan
+A1 CHEN,Liang
+A1 MEI,Han-wei
+YR 2007
+T1 Comparison of Near Infrared Spectroscopy Models for Determining Protein and Amylose Contents Between Calibration Samples of Recombinant Inbred Lines and Conventional Varieties of Rice
+JF Agricultural Sciences in China
+VO 6
+SP 941
+OP 948
+IS 8
+
+RT Conference Proceedings
+ID 50615818
+A1 Zhang,Haijian
+A1 Yang,Wen
+A1 Zhou,Tongyuan
+A1 Sun,Hong
+YR 2007
+T1 Automatic extraction of power transmission tower series from PolSAR imagery based on MRF model
+
+RT Journal Article
+ID 19402773
+A1 Jiang,Hao
+A1 Zhang,Hong-Jiang
+YR 2007
+T1 Audio segmentation and classification using threshold values
+JF Journal of The Acoustical Society of America
+VO 121
+SP 22
+IS 1
+
+RT Journal Article
+ID 26844255
+A1 Zhang,H.
+A1 Dai,X.
+YR 2007
+T1 Time-varying channel estimation and symbol detection for OFDM systems using superimposed training
+JF Electronics Letters
+VO 43
+SP 1236
+IS 22
+
+RT Journal Article
+ID 4415288
+A1 Zhang,Hong-Jiang
+YR 2007
+T1 A Wonderful Three Years
+JF IEEE Transactions on Multimedia
+VO 9
+SP 1549
+OP 1550
+IS 8
+
+RT Journal Article
+ID 50566682
+A1 Yang,Wen
+A1 Zhang,Haijian
+A1 Chen,Jiayu
+A1 Sun,Hong
+YR 2007
+T1 Automatic Detection of Power Transmission Series in Full Polarimetric SAR Imagery
+SP 789
+OP 793
+
+RT Journal Article
+ID 2516492
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Han,Jiawei
+A1 Zhang,Hong-Jiang
+YR 2006
+T1 Orthogonal Laplacianfaces for Face Recognition
+JF IEEE Transactions on Image Processing
+VO 15
+SP 3608
+OP 3614
+IS 11
+
+RT Journal Article
+ID 1437172
+A1 Lu,Lie
+A1 Liu,Dan
+A1 Zhang,Hong-Jiang
+YR 2006
+T1 Automatic mood detection and tracking of music audio signals
+JF IEEE Transactions on Audio, Speech & Language Processing
+VO 14
+SP 5
+OP 18
+IS 1
+
+RT Conference Proceedings
+ID 2463747
+A1 Wang,Changhu
+A1 Jing,Feng
+A1 Zhang,Lei
+A1 Zhang,Hong-Jiang
+YR 2006
+T1 Image annotation refinement using random walk with restarts
+SP 647
+OP 650
+
+RT Journal Article
+ID 1668742
+A1 Han,Junwei
+A1 Ngan,King,Ngi
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+YR 2006
+T1 Unsupervised extraction of visual attention objects in color images
+JF IEEE Transactions on Circuits and Systems for Video Technology
+VO 16
+SP 141
+OP 145
+IS 1
+
+RT Journal Article
+ID 2519570
+A1 Cai,Rui
+A1 Lu,Lie
+A1 Hanjalic,Alan
+A1 Zhang,Hong-Jiang
+A1 Cai,Lian-hong
+YR 2006
+T1 A flexible framework for key audio effects detection and auditory context inference
+JF IEEE Transactions on Audio, Speech & Language Processing
+VO 14
+SP 1026
+OP 1039
+IS 3
+
+RT Journal Article
+ID 2516160
+A1 Xu,Dong
+A1 Yan,Shuicheng
+A1 Tao,Dacheng
+A1 Zhang,Lei
+A1 Li,Xuelong
+A1 Zhang,Hong-Jiang
+YR 2006
+T1 Human Gait Recognition With Matrix Representation
+JF IEEE Transactions on Circuits and Systems for Video Technology
+VO 16
+SP 896
+OP 903
+IS 7
+
+RT Journal Article
+ID 2516506
+A1 He,Jingrui
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+A1 Tong,Hanghang
+A1 Zhang,Changshui
+YR 2006
+T1 Generalized Manifold-Ranking-Based Image Retrieval
+JF IEEE Transactions on Image Processing
+VO 15
+SP 3170
+OP 3177
+IS 10
+
+RT Conference Proceedings
+ID 2463507
+A1 Wang,Changhu
+A1 Jing,Feng
+A1 Zhang,Lei
+A1 Zhang,Hong-Jiang
+YR 2006
+T1 Scalable search-based image annotation of personal images
+SP 269
+OP 278
+
+RT Journal Article
+ID 2510191
+A1 Zhang,Ruofei
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+YR 2006
+T1 A probabilistic semantic model for image annotation and multi-modal image retrieval
+JF Multimedia Systems
+VO 12
+SP 27
+OP 33
+IS 1
+
+RT Journal Article
+ID 2175045
+A1 Xie,Xing
+A1 Liu,Hao
+A1 Ma,Wei-ying
+A1 Zhang,Hong-Jiang
+YR 2006
+T1 Browsing Large Pictures Under Limited Display Sizes
+JF IEEE Transactions on Multimedia
+VO 8
+SP 707
+OP 715
+IS 4
+
+RT Conference Proceedings
+ID 2463711
+A1 Wang,Meng
+A1 Song,Yan
+A1 Yuan,Xun
+A1 Zhang,Hongjiang
+A1 Hua,Xian-sheng
+A1 Li,Shipeng
+YR 2006
+T1 Automatic video annotation by semi-supervised learning with kernel density estimation
+SP 967
+OP 976
+
+RT Journal Article
+ID 2516127
+A1 Hua,Xian-Sheng
+A1 Lu,Lie
+A1 Zhang,Hong-Jiang
+YR 2006
+T1 Photo2Video - A System for Automatically Converting Photographic Series Into Video
+JF IEEE Transactions on Circuits and Systems for Video Technology
+VO 16
+SP 803
+OP 819
+IS 7
+
+RT Journal Article
+ID 10419669
+A1 Tong,Hanghang
+A1 He,Jingrui
+A1 Li,Mingjing
+A1 Ma,Wei-Ying
+A1 Zhang,Hong-Jiang
+A1 Zhang,Changshui
+YR 2006
+T1 Manifold-Ranking-Based Keyword Propagation for Image Retrieval
+JF Eurasip Journal on Advances in Signal Processing
+VO 2006
+SP 1
+OP 11
+
+RT Conference Proceedings
+ID 50485592
+A1 Qi,Guo-jun
+A1 Song,Yan
+A1 Hua,Xian-Sheng
+A1 Zhang,Hong-Jiang
+A1 Dai,Li-Rong
+YR 2006
+T1 Video Annotation by Active Learning and Cluster Tuning
+
+RT Conference Proceedings
+ID 2437167
+A1 Wang,Meng
+A1 Hua,Xian-sheng
+A1 Song,Yan
+A1 Dai,Li-rong
+A1 Zhang,Hong-Jiang
+YR 2006
+T1 Semi-Supervised Kernel Regression
+SP 1130
+OP 1135
+
+RT Conference Proceedings
+ID 2463506
+A1 Song,Yan
+A1 Hua,Xian-sheng
+A1 Qi,Guo-jun
+A1 Dai,Li-rong
+A1 Wang,Meng
+A1 Zhang,Hong-Jiang
+YR 2006
+T1 Efficient semantic annotation method for indexing large personal video database
+SP 289
+OP 296
+
+RT Book, Whole
+ID 2201075
+A1 Yang,Wen
+A1 Wang,Hao
+A1 Cao,Yongfeng
+A1 Zhang,Haijian
+YR 2006
+T1 Classification of Polarimetric SAR Data Based on Multidimensional Watershed Clustering
+SP 157
+OP 164
+
+RT Conference Proceedings
+ID 50536944
+A1 Zhang,Haijian
+A1 Yang,Wen
+A1 Chen,Jiayu
+A1 Sun,Hong
+YR 2006
+T1 Improved Classification of Polarimetric SAR Data Based on Four-component Scattering Model
+
+RT Journal Article
+ID 1428485
+A1 He,Xiaofei
+A1 Yan,Shuicheng
+A1 Hu,Yuxiao
+A1 Niyogi,Partha
+A1 Zhang,Hong-Jiang
+YR 2005
+T1 Face Recognition Using Laplacianfaces
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 27
+SP 328
+OP 340
+IS 3
+
+RT Conference Proceedings
+ID 1796709
+A1 He,Xiaofei
+A1 Cai,Deng
+A1 Yan,Shuicheng
+A1 Zhang,Hong-Jiang
+YR 2005
+T1 Neighborhood Preserving Embedding
+VO 2
+SP 1208
+OP 1213
+
+RT Conference Proceedings
+ID 1788966
+A1 Yan,Shuicheng
+A1 Xu,Dong
+A1 Zhang,Benyu
+A1 Zhang,Hong-Jiang
+YR 2005
+T1 Graph Embedding: A General Framework for Dimensionality Reduction
+VO 2
+SP 830
+OP 837
+
+RT Journal Article
+ID 1646759
+A1 Ma,Yu-fei
+A1 Hua,Xian-sheng
+A1 Lu,Lie
+A1 Zhang,Hong-Jiang
+YR 2005
+T1 A generic framework of user attention model and its application in video summarization
+JF IEEE Transactions on Multimedia
+VO 7
+SP 907
+OP 919
+IS 5
+
+RT Journal Article
+ID 1668792
+A1 Ngo,Chong-wah
+A1 Ma,Yu-fei
+A1 Zhang,Hong-Jiang
+YR 2005
+T1 Video summarization and scene detection by graph modeling
+JF IEEE Transactions on Circuits and Systems for Video Technology
+VO 15
+SP 296
+OP 305
+IS 2
+
+RT Journal Article
+ID 1659474
+A1 Chen,Yu
+A1 Xie,Xing
+A1 Ma,Wei-ying
+A1 Zhang,Hong-Jiang
+YR 2005
+T1 Adapting Web Pages for Small-Screen Devices
+JF IEEE Internet Computing
+VO 9
+SP 50
+OP 56
+IS 1
+
+RT Conference Proceedings
+ID 1788923
+A1 Yan,Shuicheng
+A1 Xu,Dong
+A1 Yang,Qiang
+A1 Zhang,Lei
+A1 Tang,Xiaoou
+A1 Zhang,Hong-Jiang
+YR 2005
+T1 Discriminant Analysis with Tensor Representation
+VO 1
+SP 526
+OP 532
+
+RT Conference Proceedings
+ID 4115762
+A1 Hua,Xian-sheng
+A1 Lu,Lie
+A1 Zhang,Hong-jiang
+YR 2005
+T1 Robust learning-based TV commercial detection
+SP 149
+OP 152
+
+RT Journal Article
+ID 1693459
+A1 Jiang,Dalong
+A1 Hu,Yuxiao
+A1 Yan,Shuicheng
+A1 Zhang,Lei
+A1 Zhang,Hongjiang
+A1 Gao,Wen
+YR 2005
+T1 Efficient 3D reconstruction for face recognition
+JF Pattern Recognition
+VO 38
+SP 787
+OP 798
+IS 6
+
+RT Conference Proceedings
+ID 1789045
+A1 Xu,Dong
+A1 Yan,Shuicheng
+A1 Zhang,Lei
+A1 Zhang,Hong-Jiang
+A1 Liu,Zhengkai
+A1 Shum,Heung-yeung
+YR 2005
+T1 Concurrent Subspaces Analysis
+VO 2
+SP 203
+OP 208
+
+RT Journal Article
+ID 1682217
+A1 Han,Junwei
+A1 Ngan,King,N.
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+YR 2005
+T1 A memory learning framework for effective image retrieval
+JF IEEE Transactions on Image Processing
+VO 14
+SP 511
+OP 524
+IS 4
+
+RT Journal Article
+ID 1682268
+A1 Jing,Feng
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+A1 Zhang,Bo
+YR 2005
+T1 A unified framework for image retrieval using keyword and visual features
+JF IEEE Transactions on Image Processing
+VO 14
+SP 979
+OP 989
+IS 7
+
+RT Journal Article
+ID 1668703
+A1 Xu,Gu
+A1 Ma,Yu-fei
+A1 Zhang,Hong-Jiang
+A1 Yang,Shi-qiang
+YR 2005
+T1 An HMM-based framework for video semantic analysis
+JF IEEE Transactions on Circuits and Systems for Video Technology
+VO 15
+SP 1422
+OP 1433
+IS 11
+
+RT Journal Article
+ID 1693480
+A1 Liu,Xuezheng
+A1 Zhang,Lei
+A1 Li,Mingjing
+A1 Zhang,Hongjiang
+A1 Wang,Dingxing
+YR 2005
+T1 Boosting image classification with LDA-based feature combination for digital photograph management
+JF Pattern Recognition
+VO 38
+SP 887
+OP 901
+IS 6
+
+RT Conference Proceedings
+ID 1788784
+A1 Yan,Shuicheng
+A1 Xu,Dong
+A1 Zhang,Lei
+A1 Zhang,Benyu
+A1 Zhang,Hongjiang
+YR 2005
+T1 Coupled Kernel-Based Subspace Learning
+VO 1
+SP 645
+OP 650
+
+RT Conference Proceedings
+ID 1776439
+A1 Ma,Yu-fei
+A1 Zhang,Hong-Jiang
+YR 2005
+T1 Video Snapshot: A Bird View of Video Sequence
+SP 94
+OP 101
+
+RT Conference Proceedings
+ID 4277310
+A1 Hua,Xian-sheng
+A1 Li,Shipeng
+A1 Zhang,Hong-jiang
+YR 2005
+T1 Video booklet
+SP 189
+OP 192
+
+RT Conference Proceedings
+ID 1776442
+A1 Tong,Hanghang
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+A1 Zhang,Changshui
+A1 He,Jingrui
+A1 Ma,Wei-ying
+YR 2005
+T1 Learning No-Reference Quality Metric by Examples
+SP 247
+OP 254
+
+RT Conference Proceedings
+ID 1776391
+A1 Wang,Fei
+A1 Ma,Yu-fei
+A1 Zhang,Hong-Jiang
+A1 Li,Jin-tao
+YR 2005
+T1 A Generic Framework for Semantic Sports Video Analysis Using Dynamic Bayesian Networks
+SP 115
+OP 122
+
+RT Conference Proceedings
+ID 1776428
+A1 Mei,Tao
+A1 Ma,Yu-fei
+A1 Zhou,He-qin
+A1 Ma,Wei-ying
+A1 Zhang,Hong-Jiang
+YR 2005
+T1 Sports Video Mining with Mosaic
+SP 107
+OP 114
+
+RT Conference Proceedings
+ID 1796600
+A1 Zhang,Ruofei
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+YR 2005
+T1 A Probabilistic Semantic Model for Image Annotation and Multi-Modal Image Retrieva
+VO 1
+SP 846
+OP 851
+
+RT Journal Article
+ID 1704649
+A1 Lu,Lie
+A1 Zhang,Hong-Jiang
+YR 2005
+T1 Unsupervised speaker segmentation and tracking in real-time audio content analysis
+JF Multimedia Systems
+VO 10
+SP 332
+OP 343
+IS 4
+
+RT Conference Proceedings
+ID 1776411
+A1 Liu,Tie-yan
+A1 Ma,Wei-ying
+A1 Zhang,Hong-Jiang
+YR 2005
+T1 Effective Feature Extraction for Play Detection in American Football Video
+SP 164
+OP 171
+
+RT Conference Proceedings
+ID 2439034
+A1 Mei,Tao
+A1 Hua,Xian-sheng
+A1 Zhou,He-qin
+A1 Li,Shipeng
+A1 Zhang,Hong-Jiang
+YR 2005
+T1 Efficient video mosaicing based on motion analysis
+SP 861
+OP 864
+
+RT Conference Proceedings
+ID 4277275
+A1 Wu,Si
+A1 Ma,Yu-fei
+A1 Zhang,Hong-jiang
+YR 2005
+T1 Video quality classification based home video segmentation
+SP 217
+OP 220
+
+RT Conference Proceedings
+ID 1776396
+A1 Li,Zhiwei
+A1 Xu,Gu
+A1 Li,Mingjing
+A1 Ma,Wei-ying
+A1 Zhang,Hong-Jiang
+YR 2005
+T1 Grouping WWW Image Search Results by Novel Inhomogeneous Clustering Method
+SP 255
+OP 261
+
+RT Conference Proceedings
+ID 4277378
+A1 Hua,Xian-sheng
+A1 Li,Shipeng
+A1 Zhang,Hong-jiang
+YR 2005
+T1 Camera notes
+SP 666
+OP 669
+
+RT Conference Proceedings
+ID 1776433
+A1 Xu,Dong
+A1 Yan,Shuicheng
+A1 Zhang,Lei
+A1 Li,Mingjing
+A1 Ma,Wei-ying
+A1 Liu,Zhengkai
+A1 Zhang,Hongjiang
+YR 2005
+T1 Parallel Image Matrix Compression for Face Recognition
+SP 232
+OP 238
+
+RT Conference Proceedings
+ID 1776427
+A1 Wang,Changhu
+A1 Yan,Shuicheng
+A1 Zhang,Hongjiang
+A1 Ma,Wei-ying
+YR 2005
+T1 Realistic 3D Face Modeling by Fusing Multiple 2D Images
+SP 139
+OP 146
+
+RT Conference Proceedings
+ID 1764929
+A1 Rui,Yong
+A1 Jain,Ramesh
+A1 Georganas,Nicolas,D.
+A1 Zhang,HongJiang
+A1 Nahrstedt,Klara
+A1 Smith,John,R.
+A1 Kankanhalli,Mohan,S.
+YR 2005
+T1 What is the state of our community?
+SP 666
+OP 668
+
+RT Conference Proceedings
+ID 1789027
+A1 Jiang,Wei
+A1 Chan,Kap,Luk
+A1 Li,Mingjing
+A1 Zhang,Hongjiang
+YR 2005
+T1 Mapping Low-Level Features to High-Level Semantic Concepts in Region-Based Image Retrieval
+VO 2
+SP 244
+OP 249
+
+RT Conference Proceedings
+ID 1776395
+A1 Qin,Tao
+A1 Liu,Tie-yan
+A1 Zhang,Xu-dong
+A1 Ma,Wei-ying
+A1 Zhang,Hong-Jiang
+YR 2005
+T1 Subspace Clustering and Label Propagation for Active Feedback in Image Retrieval
+SP 172
+OP 179
+
+RT Conference Proceedings
+ID 1788953
+A1 Tong,Hanghang
+A1 He,Jingrui
+A1 Li,Mingjing
+A1 Ma,Wei-ying
+A1 Zhang,Changshui
+A1 Zhang,Hong-Jiang
+YR 2005
+T1 A Unified Optimization Based Learning Method for Image Retrieval
+VO 2
+SP 230
+OP 235
+
+RT Journal Article
+ID 1693456
+A1 Luo,Jiebo
+A1 Huang,Thomas,S.
+A1 Smith,John,R.
+A1 Zhang,Hong-Jiang
+YR 2005
+T1 Special Issue on Image Understanding for Digital Photographs
+JF Pattern Recognition
+VO 38
+SP 781
+OP 785
+IS 6
+
+RT Conference Proceedings
+ID 13293677
+A1 Zhang,HongJiang
+A1 Chua,Tat-Seng
+A1 Steinmetz,Ralf
+A1 Kankanhalli,Mohan,S.
+A1 Wilcox,Lynn
+YR 2005
+T1 Proceedings of the 13th ACM International Conference on Multimedia, November 6-11, 2005, Singapore
+
+RT Conference Proceedings
+ID 13293333
+A1 Zhang,HongJiang
+A1 Smith,John,R.
+A1 Tian,Qi
+YR 2005
+T1 Proceedings of the 7th ACM SIGMM International Workshop on Multimedia Information Retrieval, MIR 2005, November 10-11, 2005, Singapore
+
+RT Conference Proceedings
+ID 13276950
+A1 Myaeng,Sung-Hyon
+A1 Zhou,Ming
+A1 Wong,Kam-Fai
+A1 Zhang,HongJiang
+YR 2005
+T1 Information Retrieval Technology, Asia Information Retrieval Symposium, AIRS 2004, Beijing, China, October 18-20, 2004, Revised Selected Papers
+
+RT Conference Proceedings
+ID 4277365
+A1 Huang,Hao-da
+A1 Hua,Xian-sheng
+A1 Li,Shipeng
+A1 Zhang,Hong-jiang
+YR 2005
+T1 Online End Detection for Live-Broadcast Sports TV Programs
+SP 1322
+OP 1325
+
+RT Journal Article
+ID 51707991
+A1 Jiang,Hao
+A1 Zhang,Hongjiang
+YR 2005
+T1 Audio segmentation and classification
+JF Journal of The Acoustical Society of America
+VO 118
+SP 2765
+OP 2765
+
+RT Conference Proceedings
+ID 1239817
+A1 He,Jingrui
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+A1 Tong,Hanghang
+A1 Zhang,Changshui
+YR 2004
+T1 Manifold-ranking based image retrieval
+SP 9
+OP 16
+
+RT Journal Article
+ID 1071153
+A1 Jing,Feng
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+A1 Zhang,B.
+YR 2004
+T1 An efficient and effective region-based image retrieval framework
+JF IEEE Transactions on Image Processing
+VO 13
+SP 699
+OP 709
+IS 5
+
+RT Conference Proceedings
+ID 1798319
+A1 Hua,Xian-sheng
+A1 Chen,Xian
+A1 Zhang,Hong-Jiang
+YR 2004
+T1 Robust video signature based on ordinal measure
+VO 1
+SP 685
+OP 688
+
+RT Conference Proceedings
+ID 1239818
+A1 He,Xiaofei
+A1 Ma,Wei-Ying
+A1 Zhang,Hong-Jiang
+YR 2004
+T1 Learning an image manifold for retrieval
+SP 17
+OP 23
+
+RT Conference Proceedings
+ID 1870617
+A1 Hu,Yuxiao
+A1 Jiang,Dalong
+A1 Yan,Shuicheng
+A1 Zhang,Lei
+A1 Zhang,Hongjiang
+YR 2004
+T1 Automatic 3D Reconstruction for Face Recognition
+SP 843
+OP 850
+
+RT Conference Proceedings
+ID 1832707
+A1 Tong,Hanghang
+A1 Li,Mingjing
+A1 Zhang,Hongjiang
+A1 Zhang,Changshui
+YR 2004
+T1 Blur detection for digital images using wavelet transform
+SP 17
+OP 20
+
+RT Journal Article
+ID 1668640
+A1 Hua,Xian-sheng
+A1 Lu,Lie
+A1 Zhang,Hong-Jiang
+YR 2004
+T1 Optimization-based automated home video editing system
+JF IEEE Transactions on Circuits and Systems for Video Technology
+VO 14
+SP 572
+OP 583
+IS 5
+
+RT Journal Article
+ID 1668648
+A1 Jing,Feng
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+A1 Zhang,Bo
+YR 2004
+T1 Relevance feedback in region-based image retrieval
+JF IEEE Transactions on Circuits and Systems for Video Technology
+VO 14
+SP 672
+OP 681
+IS 5
+
+RT Conference Proceedings
+ID 1239957
+A1 Zhang,Lei
+A1 Hu,Yuxiao
+A1 Li,Mingjing
+A1 Ma,Wei-Ying
+A1 Zhang,Hongjiang
+YR 2004
+T1 Efficient propagation for face annotation in family albums
+SP 716
+OP 723
+
+RT Conference Proceedings
+ID 1239769
+A1 Lu,Lie
+A1 Wang,Muyuan
+A1 Zhang,Hong-Jiang
+YR 2004
+T1 Repeating pattern discovery and structure analysis from acoustic music data
+SP 275
+OP 282
+
+RT Journal Article
+ID 1668588
+A1 Xiao,Rong
+A1 Li,Ming-Jing
+A1 Zhang,Hong-Jiang
+YR 2004
+T1 Robust multipose face detection in images
+JF IEEE Transactions on Circuits and Systems for Video Technology
+VO 14
+SP 31
+OP 41
+IS 1
+
+RT Conference Proceedings
+ID 1870610
+A1 Hu,Yuxiao
+A1 Chen,Longbin
+A1 Zhou,Yi
+A1 Zhang,Hongjiang
+YR 2004
+T1 Estimating Face Pose by Facial Asymmetry and Geometry
+SP 651
+OP 656
+
+RT Journal Article
+ID 2159470
+A1 Wang,Yongmei,Michelle
+A1 Zhang,Hongjiang
+YR 2004
+T1 Detecting image orientation based on low-level visual content
+JF Computer Vision and Image Understanding
+VO 93
+SP 328
+OP 346
+IS 3
+
+RT Conference Proceedings
+ID 1239917
+A1 HUA,Xian-Sheng
+A1 LU,Lie
+A1 ZHANG,Hong-Jiang
+YR 2004
+T1 Automatic music video generation based on temporal pattern analysis
+SP 472
+OP 475
+
+RT Journal Article
+ID 1668625
+A1 Hua,Xian-sheng
+A1 Wenyin,Liu
+A1 Zhang,Hong-Jiang
+YR 2004
+T1 An automatic performance evaluation protocol for video text detection algorithms
+JF IEEE Transactions on Circuits and Systems for Video Technology
+VO 14
+SP 498
+OP 507
+IS 4
+
+RT Book, Whole
+ID 509914
+A1 Yan,Shuicheng
+A1 Zhang,Hong-Jiang
+A1 Hu,Yuxiao
+A1 Zhang,Benyu
+A1 Cheng,Qiansheng
+YR 2004
+T1 Discriminant Analysis on Embedded Manifold
+SP 121
+OP 132
+
+RT Book, Whole
+ID 1776889
+A1 Tong,Hanghang
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+A1 He,Jingrui
+A1 Zhang,Changshui
+YR 2004
+T1 Classification of Digital Photos Taken by Photographers or Home Users
+SP 198
+OP 205
+
+RT Conference Proceedings
+ID 1239956
+A1 Hua,Xian-Sheng
+A1 Lu,Lie
+A1 Zhang,Hong-Jiang
+YR 2004
+T1 Automatically converting photographic series into video
+SP 708
+OP 715
+
+RT Conference Proceedings
+ID 1239735
+A1 He,Jingrui
+A1 Tong,Hanghang
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+A1 Zhang,Changshui
+YR 2004
+T1 Mean version space: a new active learning method for content-based image retrieval
+SP 15
+OP 22
+
+RT Conference Proceedings
+ID 1798804
+A1 Zhang,Lei
+A1 Sun,Yanfeng
+A1 Li,Mingjing
+A1 Zhang,Hongjiang
+YR 2004
+T1 Automated red-eye detection and correction in digital photographs
+VO 4
+SP 2363
+OP 2366
+
+RT Conference Proceedings
+ID 1832355
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Ma,Wei-ying
+A1 Wen,Ji-rong
+A1 Zhang,Hong-Jiang
+YR 2004
+T1 Organizing WWW images based on the analysis of page layout and Web link structure
+SP 113
+OP 116
+
+RT Conference Proceedings
+ID 1239878
+A1 Wu,Jun
+A1 Hua,Xian-Sheng
+A1 Zhang,Bo
+A1 Zhang,Hong-jiang
+YR 2004
+T1 An online-optimized incremental learning framework for video semantic classification
+SP 320
+OP 323
+
+RT Conference Proceedings
+ID 1832387
+A1 Wang,Muyuan
+A1 Lu,Lie
+A1 Zhang,Hong-Jiang
+YR 2004
+T1 Repeating pattern discovery from acoustic musical signals
+SP 2019
+OP 2022
+
+RT Book, Whole
+ID 1777018
+A1 Gu,Jing
+A1 Lu,Lie
+A1 Cai,Rui
+A1 Zhang,Hong-Jiang
+A1 Yang,Jian
+YR 2004
+T1 Dominant Feature Vectors Based Audio Similarity Measure
+SP 890
+OP 897
+
+RT Conference Proceedings
+ID 1239843
+A1 HUA,Xian-Sheng
+A1 LU,Lie
+A1 ZHANG,Hong-Jiang
+YR 2004
+T1 P-Karaoke: personalized karaoke system
+SP 172
+OP 173
+
+RT Journal Article
+ID 1643346
+A1 Lu,Lie
+A1 Liu,Wenyin
+A1 Zhang,Hong-jiang
+YR 2004
+T1 Audio textures: theory and applications
+JF IEEE Transactions on Speech and Audio Processing
+VO 12
+SP 156
+OP 167
+IS 2
+
+RT Conference Proceedings
+ID 2372989
+A1 Cai,Rui
+A1 Lu,Lie
+A1 Zhang,Hong-Jiang
+A1 Cai,Lian-Hong
+YR 2004
+T1 Improve audio representation by using feature structure patterns
+VO 4
+
+RT Journal Article
+ID 1668578
+A1 Yan,Shuicheng
+A1 He,Xiaofei
+A1 Hu,Yuxiao
+A1 Zhang,Hongjiang
+A1 Li,Mingjing
+A1 Cheng,Qiansheng
+YR 2004
+T1 Bayesian shape localization for face recognition using global and local textures
+JF IEEE Transactions on Circuits and Systems for Video Technology
+VO 14
+SP 102
+OP 113
+IS 1
+
+RT Conference Proceedings
+ID 1799033
+A1 Tong,Hanghang
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+A1 Zhang,Changshui
+YR 2004
+T1 No-reference quality assessment for JPEG2000 compressed images
+VO 5
+SP 3539
+OP 3542
+
+RT Journal Article
+ID 4113725
+A1 He,Xiaofei
+A1 Cai,Deng
+A1 Wen,Ji-Rong
+A1 Ma,Wei-Ying
+A1 Zhang,Hong-Jiang
+YR 2004
+T1 ImageSeer: Clustering and Searching WWW Images Using Link and Page Layout Analysis
+
+RT Book, Whole
+ID 1776916
+A1 Hua,Xian-sheng
+A1 Zhang,Hong-Jiang
+YR 2004
+T1 An Attention-Based Decision Fusion Scheme for Multimedia Information Retrieval
+SP 1001
+
+RT Conference Proceedings
+ID 1802221
+A1 Lan,Dong-jun
+A1 Ma,Yu-fei
+A1 Zhang,Hong-Jiang
+YR 2004
+T1 Multilevel Anchorperson Detection Using Multimodal Association
+SP 890
+OP 893
+
+RT Conference Proceedings
+ID 1798252
+A1 Wang,Fei
+A1 Maz,Yu-Fei
+A1 Zhang,Hong-Jiang
+A1 Li,Jin-tao
+YR 2004
+T1 Dynamic bayesian network based event detection for soccer highlight extraction
+VO 1
+SP 633
+OP 636
+
+RT Conference Proceedings
+ID 1870639
+A1 Chen,Longbin
+A1 Zhang,Lei
+A1 Zhang,Hongjiang
+A1 Abdel-mottaleb,Mohamed
+YR 2004
+T1 3D Shape Constraint for Facial Feature Localization Using Probabilistic-like Output
+SP 302
+OP 307
+
+RT Conference Proceedings
+ID 1835819
+A1 Wang,Bin
+A1 Gu,Xiaodong
+A1 Zhang,Hongjiang
+YR 2004
+T1 An improvement to fine granularity scalability based on H.26L
+SP 833
+OP 836
+
+RT Conference Proceedings
+ID 1832289
+A1 Jing,Feng
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+A1 Zhang,Bo
+YR 2004
+T1 Entropy-based active learning with support vector machines for content-based image retrieval
+SP 85
+OP 88
+
+RT Conference Proceedings
+ID 1798655
+A1 Liu,Tie-yan
+A1 Qin,Tao
+A1 Zhang,Hong-Jiang
+YR 2004
+T1 Time-constraint boost for tv commercials detection
+VO 3
+SP 1617
+OP 1620
+
+RT Book, Whole
+ID 1776976
+A1 Wu,Jun
+A1 Hua,Xian-Sheng
+A1 Li,Jian-min
+A1 Zhang,Hong-jiang
+A1 Zhang,Bo
+YR 2004
+T1 An Online Learning Framework for Sports Video View Classification
+SP 289
+OP 297
+
+RT Journal Article
+ID 4113248
+A1 Xiao,Rong
+A1 Zhang,Lei
+A1 Zhang,Hong-Jiang
+YR 2004
+T1 Feature Selection on Combinations for Efficient Learning from Images
+
+RT Conference Proceedings
+ID 1832812
+A1 HanIs,Junwei
+A1 Ngan,King,N.
+A1 Li,Mingjing
+A1 Zhang,Hongjiang
+YR 2004
+T1 Learning semantic concepts from user feedback log for image retrieval
+SP 995
+OP 998
+
+RT Book, Whole
+ID 1776927
+A1 He,Jingrui
+A1 Li,Mingjing
+A1 Li,Zhiwei
+A1 Zhang,Hong-Jiang
+A1 Tong,Hanghang
+A1 Zhang,Changshui
+YR 2004
+T1 Pseudo Relevance Feedback Based on Iterative Probabilistic One-Class SVMs in Web Image Retrieval
+SP 213
+OP 220
+
+RT Conference Proceedings
+ID 1832770
+A1 Lai,Wei
+A1 Gu,Xiao-Dong
+A1 Wang,Ren-hua
+A1 Ma,Wei-ying
+A1 Zhanga,Hong-Jiang
+YR 2004
+T1 A content-based bit allocation model for video streaming
+SP 1315
+OP 1318
+
+RT Conference Proceedings
+ID 1802095
+A1 He,Jingrui
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+A1 Zhang,Changshui
+YR 2004
+T1 W-Boost and Its Application to Web Image Classification
+VO 1
+SP 148
+OP 151
+
+RT Book, Whole
+ID 1776979
+A1 Lan,Dong-jun
+A1 Ma,Yu-fei
+A1 Ma,Wei-ying
+A1 Zhang,Hong-Jiang
+YR 2004
+T1 Spatio-temporal Pattern Mining in Sports Video
+SP 306
+OP 313
+
+RT Book, Whole
+ID 1809574
+A1 Zhu,Jiahua
+A1 Zhang,Hongjiang
+A1 Shi,Hui
+A1 Zang,Binyu
+A1 Zhu,Chuanqi
+YR 2004
+T1 Overflow Controlled SIMD Arithmetic
+SP 424
+OP 438
+
+RT Book, Whole
+ID 1777050
+A1 He,Jingrui
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+A1 Tong,Hanghang
+A1 Zhang,Changshui
+YR 2004
+T1 Automatic Peak Number Detection in Image Symmetry Analysis
+SP 111
+OP 118
+
+RT Conference Proceedings
+ID 1798592
+A1 Han,Jiinwei
+A1 Ngan,King,N.
+A1 Li,Mingjing
+A1 Zhang,Hongjiang
+YR 2004
+T1 Towards unsupervised attention object extraction by integrating visual attention and object growing
+VO 2
+SP 941
+OP 944
+
+RT Conference Proceedings
+ID 2453414
+A1 Jing,Feng
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+A1 Zhang,Bo
+YR 2004
+T1 Keyword propagation for image retrieval
+SP 53
+OP 56
+
+RT Conference Proceedings
+ID 1798389
+A1 He,Jingrui
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+A1 Zhang,Changshui
+YR 2004
+T1 Symmetry feature in content-based image retrieval
+VO 1
+SP 417
+OP 420
+
+RT Conference Proceedings
+ID 1798613
+A1 Hua,Xian-sheng
+A1 Zhang,Hong-Jiang
+YR 2004
+T1 Content and transformation effect matching for automated home video editing
+VO 3
+SP 1613
+OP 1616
+
+RT Conference Proceedings
+ID 50357835
+A1 Zhang,Hongjiang
+A1 Ma,Wei-Ying
+YR 2004
+T1 Adaptive content delivery on mobile Internet across multiple form factors
+
+RT Book, Whole
+ID 1818380
+A1 Ma,Wei-ying
+A1 Zhang,Hongjiang
+A1 Hon,Hsiao-wuen
+YR 2004
+T1 Towards Next Generation Web Information Retrieval
+SP 17
+
+RT Book, Whole
+ID 1776995
+A1 Lai,Wei
+A1 Gu,Xiao-Dong
+A1 Wang,Ren-hua
+A1 Dai,Li-rong
+A1 Zhang,Hong-Jiang
+YR 2004
+T1 Perceptual Video Streaming by Adaptive Spatial-temporal Scalability
+SP 431
+OP 438
+
+RT Journal Article
+ID 61400439
+A1 Ma,Yu-Fei
+A1 Hua,Xian-Sheng
+A1 Lu,Lie
+A1 Zhang,Hong-Jiang
+YR 2004
+T1 User Attention Model based Video Summarization
+
+RT Conference Proceedings
+ID 2453553
+A1 Jiang,Wei
+A1 Li,Mingjing
+A1 Zhang,Hongjiang
+A1 Zhou,Jie
+YR 2004
+T1 Relevance feedback using random subspace method
+SP 41
+OP 44
+
+RT Conference Proceedings
+ID 1813296
+A1 Qian,Fang
+A1 Li,Mingjing
+A1 Zhang,Lei
+A1 Zhang,Hongjiang
+A1 Zhang,Bo
+YR 2004
+T1 Dynamic Feature Space Selection in Relevance Feedback Using Support Vector Machines
+SP 186
+OP 195
+
+RT Conference Proceedings
+ID 1832522
+A1 Xie,Xing
+A1 Ma,Wei-ying
+A1 Zhang,Hong-Jiang
+YR 2004
+T1 Maximizing information throughput for multimedia browsing on small displays
+SP 2143
+OP 2146
+
+RT Conference Proceedings
+ID 1832448
+A1 Jiang,Wei
+A1 Li,Mingjing
+A1 Zhang,Hongjiang
+A1 Gu,Jinwei
+YR 2004
+T1 Online feature selection based on generalized feature contrast model
+SP 1995
+OP 1998
+
+RT Journal Article
+ID 61400694
+A1 Xu,Dong
+A1 Yan,Shuicheng
+A1 Zhang,Lei
+A1 Liu,Zhengkai
+A1 Zhang,HongJiang
+YR 2004
+T1 Coupled Subspaces Analysis
+
+RT Conference Proceedings
+ID 1801669
+A1 Jing,Feng
+A1 Zhang,Bo
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+A1 Zhang,Jianwei
+YR 2004
+T1 Learning in Hidden Annotation-Based Image Retrieval
+VO 2
+SP 1001
+OP 1004
+
+RT Conference Proceedings
+ID 476573
+A1 Zhang,Hongjiang
+A1 Ma,Wei-ying
+YR 2004
+T1 Adaptive Content Delivery on Mobile Internet across Multiple Form Factor
+SP 8
+
+RT Conference Proceedings
+ID 1832700
+A1 Zhul,Qiang
+A1 Chengl,Kwang-Ting
+A1 Zhang,Hongjiang
+YR 2004
+T1 SSD tracking using dynamic template and log-polar transformation
+SP 723
+OP 726
+
+RT Conference Proceedings
+ID 50366793
+A1 Lan,Dong-Jun
+A1 Ma,Yu-Fei
+A1 Zhang,Hong-Jiang
+YR 2004
+T1 Multilevel anchorperson detection using multimodal association
+VO 3
+SP 890
+
+RT Book, Whole
+ID 1776872
+A1 Song,Bi
+A1 Li,Mingjing
+A1 Li,Zhiwei
+A1 Zhang,Hong-Jiang
+A1 Liu,Zhengkai
+YR 2004
+T1 Face Appeal Model Based on Statistics
+SP 344
+OP 351
+
+RT Book, Whole
+ID 1776990
+A1 Wang,Changhu
+A1 Yan,Shuicheng
+A1 Li,Hua
+A1 Zhang,Hong-Jiang
+A1 Li,Mingjing
+YR 2004
+T1 Automatic, Effective, and Efficient 3D Face Reconstruction from Arbitrary View Image
+SP 553
+OP 560
+
+RT Journal Article
+ID 61400682
+A1 Cai,Deng
+A1 He,Xiaofei
+A1 Ma,Wei-Ying
+A1 Wen,Ji-Rong
+A1 Zhang,HongJiang
+YR 2004
+T1 ORGANIZING WWW IMAGES BASED ON THE ANALYSIS OF PAGE LAYOUT
+
+RT Book, Whole
+ID 1777006
+A1 Li,Hua
+A1 Xiao,Rong
+A1 Zhang,Hong-Jiang
+A1 Peng,Li-zhong
+YR 2004
+T1 A Hierarchical Dynamic Bayesian Network Approach to Visual Tracking
+SP 617
+OP 624
+
+RT Book, Whole
+ID 2166432
+A1 Jing,Feng
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+A1 Zhang,Bo
+YR 2004
+T1 Relevance Feedback for Keyword and Visual Feature-Based Image Retrieval
+SP 438
+OP 447
+
+RT Journal Article
+ID 27174216
+A1 Liu,Jimmy,Jiang
+A1 Loe,Kia-Fock
+A1 Zhang,Hong-Jiang
+YR 2004
+T1 Robust Face Detection in Airports
+JF Eurasip Journal on Advances in Signal Processing
+VO 2004
+SP 503
+OP 509
+IS 4
+
+RT Journal Article
+ID 751665
+A1 Chen,Li-qun
+A1 Xie,Xing
+A1 Fan,Xin
+A1 Ma,Wei-ying
+A1 Zhang,Hong-Jiang
+A1 Zhou,He-qin
+YR 2003
+T1 A visual attention model for adapting images on small displays
+JF Multimedia Systems
+VO 9
+SP 353
+OP 364
+IS 4
+
+RT Conference Proceedings
+ID 438922
+A1 Ma,Yu-Fei
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 Contrast-based image attention analysis by using fuzzy growing
+SP 374
+OP 381
+
+RT Conference Proceedings
+ID 489145
+A1 Chen,Yu
+A1 Ma,Wei-Ying
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 Detecting web page structure for adaptive viewing on small form factor devices
+SP 225
+OP 233
+
+RT Conference Proceedings
+ID 438957
+A1 Liu,Hao
+A1 Xie,Xing
+A1 Ma,Wei-Ying
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 Automatic browsing of large pictures on mobile devices
+SP 148
+OP 155
+
+RT Journal Article
+ID 1668471
+A1 He,Xiaofei
+A1 King,Oliver
+A1 Ma,Wei-ying
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 Learning a semantic space from user's relevance feedback for image retrieval
+JF IEEE Transactions on Circuits and Systems for Video Technology
+VO 13
+SP 39
+OP 48
+IS 1
+
+RT Conference Proceedings
+ID 1796365
+A1 Xiao,Rong
+A1 Zhu,Long
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 Boosting Chain Learning for Object Detection
+SP 709
+OP 715
+
+RT Journal Article
+ID 751636
+A1 Lu,Lie
+A1 Zhang,Hong-Jiang
+A1 Li,Stan,Z.
+YR 2003
+T1 Content-based audio classification and segmentation by using support vector machines
+JF Multimedia Systems
+VO 8
+SP 482
+OP 492
+IS 6
+
+RT Conference Proceedings
+ID 1369632
+A1 He,Xiaofei
+A1 Yan,Shuicheng
+A1 Hu,Yuxiao
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 Learning a Locality Preserving Subspace for Visual Recognition
+SP 385
+OP 393
+
+RT Conference Proceedings
+ID 2372482
+A1 Cai,Rui
+A1 Lu,Lie
+A1 Zhang,Hong-Jiang
+A1 Cai,Lian-Hong
+YR 2003
+T1 Highlight sound effects detection in audio stream
+
+RT Conference Proceedings
+ID 1788335
+A1 Zhou,Yi
+A1 Gu,Lie
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 Bayesian Tangent Shape Model: Estimating Shape and Pose Parameters via Bayesian Inference
+VO 1
+SP 109
+OP 118
+
+RT Conference Proceedings
+ID 1905738
+A1 Liu,Dan
+A1 Lu,Lie
+A1 Zhang,Hongjiang
+YR 2003
+T1 Automatic mood detection from acoustic music data
+
+RT Conference Proceedings
+ID 438928
+A1 Zhang,Lei
+A1 Chen,Longbin
+A1 Li,Mingjing
+A1 Zhang,Hongjiang
+YR 2003
+T1 Automated annotation of human faces in family albums
+SP 355
+OP 358
+
+RT Journal Article
+ID 1681982
+A1 Su,Zhong
+A1 Zhang,Hongjiang
+A1 Li,Stan,Z.
+A1 Ma,Shaoping
+YR 2003
+T1 Relevance feedback in content-based image retrieval: Bayesian framework, feature subspaces, and progressive learning
+JF IEEE Transactions on Image Processing
+VO 12
+SP 924
+OP 937
+IS 8
+
+RT Conference Proceedings
+ID 631059
+A1 Wang,Jidong
+A1 Zeng,Hua-Jun
+A1 Chen,Zheng
+A1 Lu,Hong-Jun
+A1 Tao,Li
+A1 Ma,Wei-Ying
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 ReCoM: reinforcement clustering of multi-type interrelated data objects
+SP 274
+OP 281
+
+RT Journal Article
+ID 1668564
+A1 Liu,Tianming
+A1 Zhang,Hong-Jiang
+A1 Qi,Feihu
+YR 2003
+T1 A novel video key-frame-extraction algorithm based on perceived motion energy model
+JF IEEE Transactions on Circuits and Systems for Video Technology
+VO 13
+SP 1006
+OP 1013
+IS 10
+
+RT Conference Proceedings
+ID 1796399
+A1 Yan,Shuicheng
+A1 Li,Mingjing
+A1 Zhang,Hongjiang
+A1 Cheng,Qiansheng
+YR 2003
+T1 Ranking Prior Likelihood Distributions for Bayesian Shape Localization Framework
+SP 51
+OP 58
+
+RT Conference Proceedings
+ID 1254277
+A1 Fan,Xin
+A1 Xie,Xing
+A1 Ma,Wei-Ying
+A1 Zhang,Hong-Jiang
+A1 Zhou,He-Qin
+YR 2003
+T1 Visual attention based image browsing on mobile devices
+
+RT Journal Article
+ID 1681956
+A1 Ngo,Chong-Wah
+A1 Pong,Ting-Chuen
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 Motion analysis and segmentation through spatio-temporal slices processing
+JF IEEE Transactions on Image Processing
+VO 12
+SP 341
+OP 355
+IS 3
+
+RT Conference Proceedings
+ID 438948
+A1 HUA,Xian-Sheng
+A1 LU,Lie
+A1 ZHANG,Hong-Jiang
+YR 2003
+T1 AVE: automated home video editing
+SP 490
+OP 497
+
+RT Journal Article
+ID 2761922
+A1 Zhang,H.,J.
+A1 Kankanhalli,A.
+A1 Smoliar,S.,W.
+YR 2003
+T1 Automatic partitioning of video
+
+RT Book, Whole
+ID 27901
+A1 Jing,Feng
+A1 Li,Mingjing
+A1 Zhang,Lei
+A1 Zhang,Hong-Jiang
+A1 Zhang,Bo
+YR 2003
+T1 Learning in Region-Based Image Retrieval
+SP 206
+OP 215
+
+RT Conference Proceedings
+ID 631152
+A1 Xue,Gui-Rong
+A1 Zeng,Hua-Jun
+A1 Chen,Zheng
+A1 Ma,Wei-Ying
+A1 Zhang,Hong-Jiang
+A1 Lu,Chao-Jun
+YR 2003
+T1 Implicit link analysis for small web search
+SP 56
+OP 63
+
+RT Journal Article
+ID 15358
+A1 Yan,Shuicheng
+A1 Liu,Ce
+A1 Li,Stan,Z.
+A1 Zhang,Hongjiang
+A1 Shum,Heung-yeung
+A1 Cheng,Qiansheng
+YR 2003
+T1 Face alignment using texture-constrained active shape models
+JF Image and Vision Computing
+VO 21
+SP 69
+OP 75
+IS 1
+
+RT Conference Proceedings
+ID 37704
+A1 Jing,Feng
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+A1 Zhang,Bo
+YR 2003
+T1 Support vector machines for region-based image retrieval
+
+RT Journal Article
+ID 1646581
+A1 Lu,Ye
+A1 Zhang,Hongjiang
+A1 Wenyin,Liu
+A1 Hu,Chunhui
+YR 2003
+T1 Joint semantics and feature based image retrieval using relevance feedback
+JF IEEE Transactions on Multimedia
+VO 5
+SP 339
+OP 347
+IS 3
+
+RT Conference Proceedings
+ID 50314539
+A1 Li,Ying
+A1 Ma,Yu-Fei
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 Salient region detection and tracking in video
+
+RT Conference Proceedings
+ID 2605152
+A1 Lan,Dong-Jun
+A1 Ma,Yu-Fei
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 A novel motion-based representation for video mining
+
+RT Journal Article
+ID 784451
+A1 Chen,Longbin
+A1 Hu,Bao-gang
+A1 Zhang,Lei
+A1 Li,Mingjing
+A1 Zhang,Hongjiang
+YR 2003
+T1 Face Annotation for Family Photo Album Management
+JF International Journal of Image and Graphics
+VO 3
+SP 81
+OP 94
+IS 1
+
+RT Conference Proceedings
+ID 438971
+A1 Yu,Bin
+A1 Ma,Wei-Ying
+A1 Nahrstedt,Klara
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 Video summarization based on user log enhanced link analysis
+SP 382
+OP 391
+
+RT Conference Proceedings
+ID 438902
+A1 Lu,Lie
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 Automated extraction of music snippets
+SP 140
+OP 147
+
+RT Conference Proceedings
+ID 28088
+A1 Jing,Feng
+A1 Liz,Mingjing
+A1 Zhang,Hong-Jiang
+A1 Zhang,Bo
+YR 2003
+T1 Unsupervised image segmentation using local homogeneity analysis
+SP 456
+OP 459
+
+RT Conference Proceedings
+ID 1796352
+A1 Ngo,Chong-wah
+A1 Ma,Yu-fei
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 Automatic Video Summarization by Graph Modeling
+SP 104
+OP 109
+
+RT Conference Proceedings
+ID 494295
+A1 Chen,Longbin
+A1 Zhang,Lei
+A1 Hu,Yuxiao
+A1 Li,Mingjing
+A1 Zhang,Hongjiang
+YR 2003
+T1 Head Pose Estimation using Fisher Manifold Learning
+SP 203
+OP 207
+
+RT Conference Proceedings
+ID 50347391
+A1 Luo,Ming
+A1 Ma,Yu-Fei
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 Pyramidwise structuring for soccer highlight extraction
+
+RT Conference Proceedings
+ID 1797573
+A1 Xu,Gu
+A1 Ma,Yu-fei
+A1 Zhang,Hong-Jiang
+A1 Yang,Shiqiang
+YR 2003
+T1 A HMM based semantic analysis framework for sports game event detection
+VO 1
+SP 25
+OP 28
+
+RT Journal Article
+ID 4115765
+A1 Xiao,Rong
+A1 Li,Ming-Jing
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 Robust Multi-Pose Face Detection in Images
+JF IEEE Transactions on Circuits and Systems for Video Technology
+
+RT Conference Proceedings
+ID 485805
+A1 Yu,Kai
+A1 Schwaighofer,Anton
+A1 Tresp,Volker
+A1 Ma,Wei-ying
+A1 Zhang,Hongjiang
+YR 2003
+T1 Collaborative Ensemble Learning: Combining Collaborative and Content-Based Information Filtering via Hierarchical Bayes
+SP 616
+OP 623
+
+RT Conference Proceedings
+ID 476543
+A1 Chen,Li-qun
+A1 Xie,Xing
+A1 Ma,Wei-ying
+A1 Zhang,Hongjiang
+A1 Zhou,He-qin
+YR 2003
+T1 Image Adaptation Based on Attention Model for Small-Form-Factor Device
+SP 421
+
+RT Journal Article
+ID 27174052
+A1 Ma,Yu-Fei
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 Motion Pattern-Based Video Classification and Retrieval
+JF Eurasip Journal on Advances in Signal Processing
+VO 2003
+SP 199
+OP 208
+IS 2
+
+RT Conference Proceedings
+ID 14327
+A1 He,Xiaofei
+A1 Ma,Wei-Ying
+A1 Zhang,Hongjiang
+YR 2003
+T1 Imagerank : spectral techniques for structural analysis of image database
+
+RT Conference Proceedings
+ID 438976
+A1 Wang,Ming-Yu
+A1 Xie,Xing
+A1 Ma,Wei-Ying
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 MobiPicture: browsing pictures on mobile devices
+SP 106
+OP 107
+
+RT Journal Article
+ID 854897
+A1 Wen,Ji-Rong
+A1 Li,Qing
+A1 Ma,Wei-Ying
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 A multi-paradigm querying approach for a generic multimedia database management system
+JF Sigmod Record
+VO 32
+SP 26
+OP 34
+IS 1
+
+RT Conference Proceedings
+ID 438861
+A1 Cai,Rui
+A1 Lu,Lie
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 Using structure patterns of temporal and spectral feature in audio similarity measure
+SP 219
+OP 222
+
+RT Conference Proceedings
+ID 1798132
+A1 Han,Junwei
+A1 Li,Mingjing
+A1 Zhang,Hongjiang
+A1 Guo,Lei
+YR 2003
+T1 A memorization learning model for image retrieval
+VO 3
+SP 605
+OP 608
+
+RT Conference Proceedings
+ID 4910018
+A1 Luo,Ming
+A1 Ma,Yu-Fei
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 A spatial constrained K-means approach to image segmentation
+
+RT Conference Proceedings
+ID 1797775
+A1 Han,Junwei
+A1 Li,Mingjing
+A1 Zhang,Hongjiang
+A1 Guo,Lei
+YR 2003
+T1 Automatic attention object extraction from images
+VO 2
+SP 403
+OP 406
+
+RT Conference Proceedings
+ID 11770869
+A1 Wu,TingYao
+A1 Lu,Lie
+A1 Chen,Ke
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 UBM-based real-time speaker segmentation for broadcasting news
+VO 2
+
+RT Journal Article
+ID 768339
+A1 Zhang,Hongjiang
+A1 Chen,Zheng
+A1 Li,Mingjing
+A1 Su,Zhong
+YR 2003
+T1 Relevance Feedback and Learning in Content-Based Image Search
+JF World Wide Web
+VO 6
+SP 131
+OP 155
+IS 2
+
+RT Journal Article
+ID 1908149
+A1 Wen,Ji-rong
+A1 Zhang,Hongjiang
+YR 2003
+T1 Query Clustering in the Web Context
+
+RT Journal Article
+ID 752281
+A1 Qian,Fang
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+A1 Ma,Wei-ying
+A1 Zhang,Bo
+YR 2003
+T1 Alternating Feature Spaces in Relevance Feedback
+JF Multimedia Tools and Applications
+VO 21
+SP 35
+OP 54
+IS 1
+
+RT Conference Proceedings
+ID 1836760
+A1 Hua,Xian-sheng
+A1 Lu,Lie
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 Content based photograph slide show with incidental music
+SP 648
+OP 651
+
+RT Journal Article
+ID 18058801
+A1 Yan,Shuicheng
+A1 Hou,Xinwen
+A1 Li,Stan,Z.
+A1 (张宏江),Hong-jiang,Zhang
+A1 Cheng,Qiansheng
+YR 2003
+T1 Face alignment using view-based direct appearance models
+JF International Journal of Imaging Systems and Technology
+VO 13
+SP 106
+OP 112
+IS 1
+
+RT Conference Proceedings
+ID 1797672
+A1 Lilo,Bo
+A1 Tang,Xiaoou
+A1 Liu,Jianzhuang
+A1 Zhang,Hongjiang
+YR 2003
+T1 Video caption detection and extraction using temporal information
+VO 1
+SP 297
+OP 300
+
+RT Conference Proceedings
+ID 1781898
+A1 Chen,Li-qun
+A1 Xie,Xing
+A1 Ma,Wei-ying
+A1 Zhang,Hongjiang
+A1 Zhou,He-qin
+A1 Feng,Huanqing
+YR 2003
+T1 DRESS: A Slicing Tree Based Web Page Representation for Various Display Sizes
+
+RT Conference Proceedings
+ID 1797667
+A1 Lan,Dong-jun
+A1 Ma,Yu-fei
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 A systemic framework of camera motion analysis for home video
+VO 1
+SP 289
+OP 292
+
+RT Conference Proceedings
+ID 2322800
+A1 Zhang,Lei
+A1 Qian,Fang
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 An efficient memorization scheme for relevance feedback in image retrieval
+
+RT Conference Proceedings
+ID 438973
+A1 Yu,Kai
+A1 Ma,Wei-Ying
+A1 Tresp,Volker
+A1 Xu,Zhao
+A1 He,Xiaofei
+A1 Zhang,Hong-Jiang
+A1 Kriegel,Hans-Peter
+YR 2003
+T1 Knowing a tree from the forest: art image retrieval using a society of profiles
+SP 622
+OP 631
+
+RT Conference Proceedings
+ID 1836893
+A1 Yin,Xiaoxin
+A1 Li,Mingjing
+A1 Zhang,Lei
+A1 Zhang,Hongjiang
+YR 2003
+T1 Semantic image clustering using relevance feedback
+SP 904
+OP 907
+
+RT Conference Proceedings
+ID 476526
+A1 Wu,Ting-yao
+A1 Lu,Lie
+A1 Chen,Ke
+A1 Zhang,Hongjiang
+YR 2003
+T1 Universal Background Models for Real-time Speaker Change Detection
+SP 135
+OP 149
+
+RT Journal Article
+ID 751670
+A1 Wenyin,Liu
+A1 Chen,Zheng
+A1 Lin,Fan
+A1 Zhang,Hongjiang
+A1 Ma,Wei-ying
+YR 2003
+T1 Ubiquitous media agents: a framework for managing personally accumulated multimedia files
+JF Multimedia Systems
+VO 9
+SP 144
+OP 156
+IS 2
+
+RT Journal Article
+ID 2643768
+A1 Zhou,Y.
+A1 Gu,L.
+A1 Zhang,Hongjiang
+YR 2003
+T1 A Unified Bayesian Treatment for Shape Registration in Tangent Space
+
+RT Conference Proceedings
+ID 4111931
+A1 Lu,Lie
+A1 Mao,Yi
+A1 Wenyin,Liu
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 Audio restoration by constrained audio texture synthesis
+VO 5
+
+RT Conference Proceedings
+ID 606204
+A1 Chen,Xiang-rong
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 Photo time-stamp detection and recognition
+SP 319
+OP 322
+
+RT Conference Proceedings
+ID 1781981
+A1 Xue,Gui-rong
+A1 Zeng,Hua-jun
+A1 Chen,Zheng
+A1 Ma,Wei-ying
+A1 Zhang,Hong-Jiang
+A1 Lu,Chao-jun
+YR 2003
+T1 User Access Pattern Enhanced Small Web Search
+
+RT Journal Article
+ID 15240479
+A1 Zhang,Hongjiang
+A1 Chen,Zheng
+A1 Li,Mingjing
+A1 Su,Zhong
+YR 2003
+T1 Relevance Feedback and Learning in Content-Based Image Search
+JF World Wide Web
+VO 6
+SP 131
+OP 155
+IS 2
+
+RT Conference Proceedings
+ID 4138605
+A1 Yufei,M.
+A1 Hongjiang,Z.
+YR 2003
+T1 Contrast - based Image Attention Analysis by Using Fuzzy Growing
+
+RT Conference Proceedings
+ID 1781933
+A1 Ma,Wei-ying
+A1 Xie,Xing
+A1 Yuan,Chun
+A1 Chen,Yu
+A1 Zhang,Zheng
+A1 Zhang,Hongjiang
+YR 2003
+T1 Media Companion: Delivering Content-oriented Web Services to Internet Media
+
+RT Conference Proceedings
+ID 50306493
+A1 Wang,Peng
+A1 Ma,Yu-Fei
+A1 Zhang,Hong-Jiang
+A1 Yang,Shiqiang
+YR 2003
+T1 A people similarity based approach to video indexing
+VO 3
+
+RT Conference Proceedings
+ID 12711194
+A1 Hua,Xian-Sheng
+A1 Lu,Lie
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 Personalized karaoke
+
+RT Conference Proceedings
+ID 4116966
+A1 Wu,Ting,Yao
+A1 Lu,Lie
+A1 Chen,Ke
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 UBM-based incremental speaker adaptation
+
+RT Conference Proceedings
+ID 1797937
+A1 Liu,Xuezheng
+A1 Li,Mingjing
+A1 Zhang,Hongjiang
+A1 Wang,Dingxing
+YR 2003
+T1 Bayesian motion blur identification using blur priori
+VO 2
+SP 957
+OP 960
+
+RT Conference Proceedings
+ID 50347500
+A1 Jing,Feng
+A1 Liz,Mingjing
+A1 Zhang,Hong-Jiang
+A1 Zhangl,Bo
+YR 2003
+T1 Employing negative examples in region-based image retrieval
+
+RT Conference Proceedings
+ID 50347321
+A1 Wul,Hao
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+A1 Liu,Zhengkai
+YR 2003
+T1 Fast image restoration in large digital photos
+
+RT Conference Proceedings
+ID 12811212
+A1 Yuan,Chang
+A1 Ma,Yu-Fei
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 Extracting video object's motion trajectory by velocity voting
+
+RT Journal Article
+ID 751629
+A1 Zhang,Aidong
+A1 Zhang,Hongjiang
+YR 2003
+T1 Introduction to the Special Issue on Content-Based Image Retrieval (CBIR) Guest Editors
+JF Multimedia Systems
+VO 8
+SP 493
+OP 494
+IS 6
+
+RT Conference Proceedings
+ID 50314374
+A1 Gu,Xiaodong
+A1 Zhang,Hongjiang
+YR 2003
+T1 Implementing dynamic GOP in video encoding
+
+RT Journal Article
+ID 2350839
+A1 Zhang,Lei
+A1 Chen,Longbin
+A1 Zhang,Hongjiang
+YR 2003
+T1 Bayesian Face Annotation in Family Albums
+
+RT Conference Proceedings
+ID 50348208
+A1 Zhang,Hong-Jiang
+YR 2003
+T1 Learning semantics in content based image retrieval
+VO 1
+SP 284
+
+RT Book, Whole
+ID 509383
+A1 Li,Stan,Z.
+A1 Zhu,Long
+A1 Zhang,Zhenqiu
+A1 Blake,Andrew
+A1 Zhang,Hongjiang
+A1 Shum,Harry
+YR 2002
+T1 Statistical Learning of Multi-view Face Detection
+SP 67
+OP 81
+
+RT Conference Proceedings
+ID 438630
+A1 Ma,Yu-Fei
+A1 Lu,Lie
+A1 Zhang,Hong-Jiang
+A1 Li,Mingjing
+YR 2002
+T1 A user attention model for video summarization
+SP 533
+OP 542
+
+RT Journal Article
+ID 1387902
+A1 Lu,Lie
+A1 Zhang,Hong-jiang
+A1 Jiang,Hao
+YR 2002
+T1 Content analysis for audio classification and segmentation
+JF IEEE Transactions on Speech and Audio Processing
+VO 10
+SP 504
+OP 516
+IS 7
+
+RT Journal Article
+ID 804173
+A1 Wen,Ji-rong
+A1 Nie,Jian-yun
+A1 Zhang,Hong-Jiang
+YR 2002
+T1 Query clustering using user logs
+JF ACM Transactions on Information Systems
+VO 20
+SP 59
+OP 81
+IS 1
+
+RT Journal Article
+ID 850097
+A1 Dimitrova,Nevenka
+A1 Zhang,Hong-Jiang
+A1 Shahraray,Behzad
+A1 Sezan,M.,Ibrahim
+A1 Huang,Thomas,S.
+A1 Zakhor,Avideh
+YR 2002
+T1 Applications of Video-Content Analysis and Retrieval
+JF IEEE Multimedia
+VO 9
+SP 42
+OP 55
+IS 3
+
+RT Conference Proceedings
+ID 1248682
+A1 Ma,Yu-fei
+A1 Zhang,Hong-Jiang
+YR 2002
+T1 A model of motion attention for video skimming
+VO 1
+SP 129
+OP 132
+
+RT Journal Article
+ID 1646565
+A1 Ngo,Chong-wah
+A1 Pong,Ting-chuen
+A1 Zhang,Hong-Jiang
+YR 2002
+T1 On clustering and retrieval of video shots through temporal slices analysis
+JF IEEE Transactions on Multimedia
+VO 4
+SP 446
+OP 458
+IS 4
+
+RT Journal Article
+ID 1665923
+A1 Tang,Xiaoou
+A1 Gao,Xinbo
+A1 Liu,Jianzhuang
+A1 Zhang,Hongjiang
+YR 2002
+T1 A spatial-temporal approach for video caption detection and recognition
+JF IEEE Transactions on Neural Networks
+VO 13
+SP 961
+OP 971
+IS 4
+
+RT Conference Proceedings
+ID 1400609
+A1 Yu,Hui
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+A1 Feng,Jufu
+YR 2002
+T1 Color texture moments for content-based image retrieval
+VO 3
+SP 929
+OP 932
+
+RT Conference Proceedings
+ID 438304
+A1 Lu,Lie
+A1 Zhang,Hong-Jiang
+YR 2002
+T1 Speaker change detection and tracking in real-time news broadcasting analysis
+SP 602
+OP 610
+
+RT Conference Proceedings
+ID 1870766
+A1 Zhang,Zhenqiu
+A1 Zhu,Long
+A1 Li,Stan,Z.
+A1 Zhang,Hongjiang
+YR 2002
+T1 Real-Time Multi-View Face Detection
+SP 149
+OP 154
+
+RT Conference Proceedings
+ID 1811475
+A1 Li,Stan,Z.
+A1 Zhang,Zhenqiu
+A1 Shum,Heung-yeung
+A1 Zhang,Hongjiang
+YR 2002
+T1 FloatBoost Learning for Classification
+SP 993
+OP 1000
+
+RT Journal Article
+ID 1303712
+A1 Jiang,Dan-Ning
+A1 Lu,Lie
+A1 Zhang,Hong-Jiang
+A1 Tao,Jian-Hua
+A1 Cai,Lian-Hong
+YR 2002
+T1 MUSIC TYPE CLASSIFICATION BY SPECTRAL CONTRAST FEATURE1
+
+RT Conference Proceedings
+ID 10185556
+A1 Jiang,Dan-Ning
+A1 Lu,Lie
+A1 Zhang,Hong-Jiang
+A1 Tao,Jian-Hua
+A1 Cai,Lian-Hong
+YR 2002
+T1 Music type classification by spectral contrast feature
+
+RT Journal Article
+ID 1681914
+A1 Vailaya,Aditya
+A1 Zhang,Hongjiang
+A1 Yang,Changjiang
+A1 Liu,Feng-I.
+A1 Jain,Anil,K.
+YR 2002
+T1 Automatic image orientation detection
+JF IEEE Transactions on Image Processing
+VO 11
+SP 746
+OP 755
+IS 7
+
+RT Journal Article
+ID 784366
+A1 Ngo,Chong-wah
+A1 Pong,Ting-chuen
+A1 Zhang,Hongjiang
+YR 2002
+T1 Motion-Based Video Representation for Scene Change Detection
+JF International Journal of Computer Vision
+VO 50
+SP 127
+OP 142
+IS 2
+
+RT Conference Proceedings
+ID 438680
+A1 Sun,Yanfeng
+A1 Zhang,Hongjiang
+A1 Zhang,Lei
+A1 Li,Mingjing
+YR 2002
+T1 MyPhotos: a system for home photo management and processing
+SP 81
+OP 82
+
+RT Conference Proceedings
+ID 1870707
+A1 Li,Stan,Z.
+A1 Zhang,Hongjiang
+A1 Yan,Shuicheng
+A1 Cheng,Qiansheng
+YR 2002
+T1 Multi-View Face Alignment Using Direct Appearance Models
+SP 324
+OP 329
+
+RT Journal Article
+ID 32549
+A1 Li,Mingjing
+A1 Chen,Zheng
+A1 Zhang,Hong-Jiang
+YR 2002
+T1 Statistical correlation analysis in image retrieval
+JF Pattern Recognition
+VO 35
+SP 2687
+OP 2693
+IS 12
+
+RT Conference Proceedings
+ID 3335933
+A1 Feng,Tao
+A1 Li,Stan,Z.
+A1 Shum,Heung-Yeung
+A1 Zhang,HongJiang
+YR 2002
+T1 Local non-negative matrix factorization as a visual representation
+
+RT Conference Proceedings
+ID 4111684
+A1 Ma,Y.,F
+A1 (张宏江),Hong-jiang,Zhang
+A1 Li,M.,J
+YR 2002
+T1 An Attention Model for Video Summarization
+
+RT Conference Proceedings
+ID 46840
+A1 Jing,Feng
+A1 Li,Mingjing
+A1 Zhang,Hong-jiang
+A1 Zhang,Bo
+YR 2002
+T1 An effective region-based image retrieval framework
+SP 456
+OP 465
+
+RT Conference Proceedings
+ID 1890098
+A1 Zhang,Lei
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+YR 2002
+T1 Boosting Image Orientation Detection with Indoor vs. Outdoor Classification
+SP 95
+OP 99
+
+RT Conference Proceedings
+ID 438403
+A1 He,Xiaofei
+A1 Ma,Wei-Ying
+A1 King,Oliver
+A1 Li,Mingjing
+A1 Zhang,Hongjiang
+YR 2002
+T1 Learning and inferring a semantic space from user's relevance feedback for image retrieval
+SP 343
+OP 346
+
+RT Conference Proceedings
+ID 1800038
+A1 Hua,Xian-sheng
+A1 Yin,Pei
+A1 Zhang,Hong-Jiang
+YR 2002
+T1 Efficient video text recognition using multiple frame integration
+VO 2
+SP 397
+OP 400
+
+RT Conference Proceedings
+ID 1802810
+A1 Xut,Gu
+A1 Ma,Yu-fei
+A1 Zhang,Hong-Jiang
+A1 Yang,Shiqiang
+YR 2002
+T1 Motion Based Event Recognition Using HMM
+VO 2
+SP 831
+OP 834
+
+RT Journal Article
+ID 2605151
+A1 Lan,D.,J.
+A1 Ma,Y.,F.
+A1 (张宏江),Hong-jiang,Zhang
+YR 2002
+T1 A Novel Motion-Based Representation For Video Mining
+
+RT Conference Proceedings
+ID 1802775
+A1 Lu,Lie
+A1 Zhang,Hong-Jiang
+YR 2002
+T1 Real-Time Unsupervised Speaker Change Detection
+VO 2
+SP 358
+OP 361
+
+RT Conference Proceedings
+ID 1870698
+A1 Li,Stan,Z.
+A1 Zhang,Hongjiang
+A1 Peng,Xianhuan
+A1 Hou,Xinwen
+A1 Cheng,Qiansheng
+YR 2002
+T1 Multi-View Face Pose Estimation Based on Supervised ISA Learning
+SP 107
+OP 112
+
+RT Conference Proceedings
+ID 46906
+A1 Jing,Feng
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+A1 Zhang,Bo
+YR 2002
+T1 Region-based relevance feedback in image retrieval
+SP 145
+OP 148
+
+RT Conference Proceedings
+ID 1802742
+A1 Ma,Yu-fei
+A1 Zhang,Hong-Jiang
+YR 2002
+T1 Motion Texture: A New Motion Based Video Representation
+VO 2
+SP 548
+OP 551
+
+RT Conference Proceedings
+ID 47680
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+A1 Zhang,Bo
+YR 2002
+T1 LEARNING REGION WEIGHTING FROM RELEVANCE FEEDBACK IN IMAGE RETRIEVAL
+VO 4
+
+RT Conference Proceedings
+ID 438470
+A1 Wang,Yijin
+A1 Zhao,Peng
+A1 Zhang,Dong
+A1 Li,Mingjing
+A1 Zhang,Hongjiang
+YR 2002
+T1 MyVideos: a system for home video management
+SP 412
+OP 413
+
+RT Conference Proceedings
+ID 2310617
+A1 Hua,Xian-Sheng
+A1 Yin,Pei
+A1 Wang,Huajian
+A1 Chen,Junfeng
+A1 Lu,Lie
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+YR 2002
+T1 MSR-Asia at TREC11 Video Track
+
+RT Conference Proceedings
+ID 1890115
+A1 Zhang,Zhenqiu
+A1 Li,Mingjing
+A1 Li,Stan,Z.
+A1 Zhang,Hongjiang
+YR 2002
+T1 Multi-View Face Detection with FloatBoost
+SP 184
+
+RT Conference Proceedings
+ID 4114243
+A1 Li,Stan,Z.
+A1 Zhu,Long
+A1 Zhang,ZhenQiu
+A1 Zhang,HongJiang
+YR 2002
+T1 Learning to detect multi-view faces in real-time
+
+RT Conference Proceedings
+ID 486595
+A1 Zhang,Hongjiang
+A1 Su,Zhong
+YR 2002
+T1 Relevance Feedback in CBIR
+SP 21
+OP 35
+
+RT Journal Article
+ID 754258
+A1 Chen,Ke
+A1 Wu,Ting-yao
+A1 Zhang,Hong-Jiang
+YR 2002
+T1 On the use of nearest feature line for speaker identification
+JF Pattern Recognition Letters
+VO 23
+SP 1735
+OP 1746
+IS 14
+
+RT Conference Proceedings
+ID 12697226
+A1 Lu,Lie
+A1 Li,Stan
+A1 Wenyin,Liu
+A1 Zhang,Hong-Jiang
+A1 Mao,Yi
+YR 2002
+T1 Audio textures
+VO 2
+
+RT Journal Article
+ID 794433
+A1 Su,Zhong
+A1 Yang,Qiang
+A1 Zhang,Hongjiang
+A1 Xu,Xiaowei
+A1 Hu,Yu,Hen
+A1 Ma,Shaoping
+YR 2002
+T1 Correlation-Based Web Document Clustering for Adaptive Web Interface Design
+JF Knowledge and Information Systems
+VO 4
+SP 151
+OP 167
+IS 2
+
+RT Conference Proceedings
+ID 2342590
+A1 Qian,Fang
+A1 Li,Mingjing
+A1 Zhang,Lei
+A1 Zhang,Hong-Jiang
+A1 Zhang,Bo
+YR 2002
+T1 Gaussian mixture model for relevance feedback in image retrieval
+
+RT Journal Article
+ID 850926
+A1 LING,CHARLES X.
+A1 Gao,Jianfeng
+A1 Zhang,Huajie
+A1 Qian,Weining
+A1 Zhang,Hongjiang
+YR 2002
+T1 Improving Encarta Search Engine Performance by Mining User Logs
+JF International Journal of Pattern Recognition and Artificial Intelligence
+VO 16
+SP 1101
+OP 1116
+IS 8
+
+RT Conference Proceedings
+ID 4114695
+A1 Ma,Yu-Fei
+A1 Zhang,Hong-Jiang
+YR 2002
+T1 Motion pattern based video classification using support vector machines
+
+RT Conference Proceedings
+ID 486536
+A1 Wu,Hong
+A1 Li,Mingjing
+A1 Zhang,Hongjiang
+A1 Ma,Wei-ying
+YR 2002
+T1 Improving Image Retrieval with Semantic Classification Using Relevance Feedback
+SP 327
+OP 339
+
+RT Journal Article
+ID 1350445
+A1 Chen,Li-Qun
+A1 Xie,Xing
+A1 Ma,Wei-Ying
+A1 Zhang,Hong-Jiang
+A1 Zhou,Heqin
+A1 Feng,Huanqing
+YR 2002
+T1 DRESS: A Slicing Tree Based Web Representation for Various Display Sizes
+
+RT Journal Article
+ID 4111289
+A1 Lu,X.,Y.
+A1 Ma,Y.,F.
+A1 Wu,L.,D.
+A1 (张宏江),Hong-jiang,Zhang
+YR 2002
+T1 A New Approach of Semantic Video Segmentation
+
+RT Conference Proceedings
+ID 2310534
+A1 Yin,Pei
+A1 Hua,Xian-Sheng
+A1 Zhang,Hong-Jiang
+YR 2002
+T1 Automatic time stamp extraction system for home videos
+
+RT Conference Proceedings
+ID 2358465
+A1 Zhou,Wen-Jun
+A1 Wen,Ji-Rong
+A1 Ma,Wei-Ying
+A1 Zhang,Hong-Jiang
+YR 2002
+T1 A Concentric-Circle Model for Community Mining in Graph Structures
+
+RT Journal Article
+ID 39249978
+A1 NIE,JIAN-YUN
+A1 ZHANG,HONG-JIANG
+YR 2002
+T1 Query clustering using user logs
+JF ACM Transactions on Information Systems
+SP 59
+OP 81
+
+RT Conference Proceedings
+ID 50279834
+A1 Lu,Xiaoye
+A1 Ma,Yu-Fei
+A1 Zhang,Hong-Jiang
+A1 Wu,Lide
+YR 2002
+T1 An integrated correlation measure for semantic video segmentation
+
+RT Journal Article
+ID 15271154
+A1 Ngo,Chong-Wah
+A1 Pong,Ting-Chuen
+A1 Zhang,Hong-Jiang
+YR 2002
+T1 Motion-Based Video Representation for Scene Change Detection
+JF International Journal of Computer Vision
+VO 50
+SP 127
+OP 142
+IS 2
+
+RT Journal Article
+ID 44842625
+A1 Liu,H.-P.
+A1 Qui,S.-T.
+A1 Gan,Y.
+A1 Zhang,H.
+A1 De,J.-Y.
+YR 2002
+T1 Development of mechanical drive type non-sinusoidal oscillator for continuous casting of steel
+JF Ironmaking & Steelmaking
+VO 29
+SP 180
+OP 184
+IS 3
+
+RT Journal Article
+ID 15231856
+A1 Su,Zhong
+A1 Yang,Qiang
+A1 Zhang,Hongjiang
+A1 Xu,Xiaowei
+A1 Hu,Yu-Hen
+A1 Ma,Shaoping
+YR 2002
+T1 Correlation-Based Web Document Clustering for Adaptive Web Interface Design
+JF Knowledge and Information Systems
+VO 4
+SP 151
+OP 167
+IS 2
+
+RT Conference Proceedings
+ID 4452774
+A1 Sun,Yanfeng
+A1 Zhang,Hongjiang
+A1 Zhang,Lei
+A1 Li,Mingjing
+YR 2002
+T1 a system for home photo management and processing
+
+RT Conference Proceedings
+ID 1803220
+A1 Ngo,Chong-wah
+A1 Pong,Ting-chuen
+A1 Zhang,Hong-Jiang
+YR 2002
+T1 Motion Retrieval by Temporal Slices Analysis
+VO 4
+SP 64
+OP 67
+
+RT Journal Article
+ID 751630
+A1 Liu,Tianming
+A1 Zhang,Hong-Jiang
+A1 Qi,Wei
+A1 Qi,Feihu
+YR 2002
+T1 A systematic rate controller for MPEG4 FGS video streaming
+JF Multimedia Systems
+VO 8
+SP 369
+OP 379
+IS 5
+
+RT Journal Article
+ID 1646708
+A1 Basu,Sankar
+A1 Bimbo,Alberto,Del
+A1 Tewfik,Ahmed,H.
+A1 Zhang,Hongjiang
+YR 2002
+T1 Introduction to the special issue on multimedia database
+JF IEEE Transactions on Multimedia
+VO 4
+SP 141
+OP 145
+IS 2
+
+RT Conference Proceedings
+ID 2292689
+A1 Hua,Xian-Sheng
+A1 Zhang,Dong
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+YR 2002
+T1 Performance Evaluation Protocol for Video Scene Detection Algorithms
+
+RT Conference Proceedings
+ID 4452776
+A1 Wang,Yijin
+A1 Zhao,Peng
+A1 Zhang,Dong
+A1 Li,Mingjing
+A1 Zhang,Hongjiang
+YR 2002
+T1 a system for home video management
+
+RT Journal Article
+ID 61400654
+A1 Chen,Liqun
+A1 Xie,Xing
+A1 Fan,Xin
+A1 Ma,Wei-Ying
+A1 Zhang,Hong-Jiang
+A1 Zhou,Heqin
+YR 2002
+T1 A visual attention model for adapting images on small displays
+
+RT Journal Article
+ID 1681238
+A1 Vaiulaya,A.
+A1 Figueiredo,Mário,A.,T.
+A1 Jain,Anil,K.
+A1 Zhang,Hong-Jiang
+YR 2001
+T1 Image Classification for Content-Based Indexing
+JF IEEE Transactions on Image Processing
+VO 10
+SP 117
+OP 130
+IS 1
+
+RT Conference Proceedings
+ID 73481
+A1 Li,Stan,Z.
+A1 Hou,Xinwen
+A1 Zhang,Hongjiang
+A1 Cheng,Qiansheng
+YR 2001
+T1 Learning Spatially Localized, Parts-Based Representation
+VO 1
+SP 207
+OP 212
+
+RT Conference Proceedings
+ID 65533
+A1 Wen,Ji-Rong
+A1 Nie,Jian-Yun
+A1 Zhang,Hong-Jiang
+YR 2001
+T1 Clustering user queries of a search engine
+SP 162
+OP 168
+
+RT Conference Proceedings
+ID 71666
+A1 Lu,Lie
+A1 Jiang,Hao
+A1 Zhang,HongJiang
+YR 2001
+T1 A robust audio classification and segmentation method
+SP 203
+OP 211
+
+RT Conference Proceedings
+ID 489344
+A1 Chen,Jinlin
+A1 Zhou,Baoyao
+A1 Shi,Jin
+A1 Zhang,Hongjiang
+A1 Fengwu,Qiu
+YR 2001
+T1 Function-based object model towards website adaptation
+SP 587
+OP 596
+
+RT Conference Proceedings
+ID 1788223
+A1 Guot,Guo-Dong
+A1 Jain,Anil,K.
+A1 Mat,Wei-Ying
+A1 Zhangt,Hong-Jiang
+YR 2001
+T1 Learning Similarity Measure for Natural Image Retrieval with Relevance Feedback
+VO 1
+SP 731
+OP 736
+
+RT Journal Article
+ID 154907
+A1 Wenyin,Liu
+A1 Dumais,Susan
+A1 Sun,Yanfeng
+A1 Zhang,HongJiang
+A1 Czerwinski,Mary
+A1 Field,Brent
+YR 2001
+T1 Semi-Automatic Image Annotation
+
+RT Conference Proceedings
+ID 606330
+A1 Yang,Yudong
+A1 Zhang,Hongjiang
+YR 2001
+T1 HTML Page Analysis Based on Visual Cues
+SP 859
+OP 864
+
+RT Conference Proceedings
+ID 71803
+A1 Hou,Xinwen
+A1 Li,Stan,Z.
+A1 Zhang,Hongjiang
+A1 Chengl,QianSheng
+YR 2001
+T1 Direct Appearance Models
+VO 1
+SP 828
+OP 833
+
+RT Conference Proceedings
+ID 85219
+A1 Lu,Lie
+A1 Li,Stan,Z.
+A1 Zhang,Hong-Jiang
+YR 2001
+T1 Content-based audio segmentation using support vector machines
+
+RT Conference Proceedings
+ID 84929
+A1 Lit,Stan,Z.
+A1 Fu,Qingdong
+A1 Gu,Lie
+A1 Schölkopf,Bernhard
+A1 Cheng,Yimin
+A1 Zhang,Hongjiang
+YR 2001
+T1 Kernel Machine Based Learning for Multi-View Face Detection and Pose Estimation
+SP 674
+OP 679
+
+RT Conference Proceedings
+ID 2890327
+A1 Wang,Yongmei
+A1 Zhang,Hongjiang
+YR 2001
+T1 Content-based image orientation detection with support vector machines
+
+RT Book, Whole
+ID 86669
+A1 Chen,Xiang-rong
+A1 Zhang,Hongjiang
+YR 2001
+T1 Text Area Detection from Video Frames
+SP 222
+OP 228
+
+RT Conference Proceedings
+ID 438778
+A1 Ngo,Chong-Wah
+A1 Pong,Ting-Chuen
+A1 Zhang,Hong-Jiang
+YR 2001
+T1 On clustering and retrieval of video shots
+SP 51
+OP 60
+
+RT Conference Proceedings
+ID 73461
+A1 Ma,Yu-fei
+A1 Zhang,Hong-Jiang
+YR 2001
+T1 A new perceived motion based shot content representation
+SP 426
+OP 429
+
+RT Conference Proceedings
+ID 11990244
+A1 Lu,Lie
+A1 You,Hong
+A1 Zhang,Hong-Jiang
+YR 2001
+T1 A new approach to query by humming in music retrieval
+
+RT Conference Proceedings
+ID 51446
+A1 Hua,Xian-sheng
+A1 Wenyin,Liu
+A1 Zhang,Hong-Jiang
+YR 2001
+T1 Automatic Performance Evaluation for Video Text Detection
+SP 545
+OP 550
+
+RT Journal Article
+ID 34376
+A1 Chen,Zheng
+A1 Wenyin,Liu
+A1 Zhang,Feng
+A1 Li,Mingjing
+A1 Zhang,Hongjiang
+YR 2001
+T1 Web mining for Web image retrieval
+JF Journal of The American Society for Information Science and Technology
+VO 52
+SP 831
+OP 839
+IS 10
+
+RT Conference Proceedings
+ID 84140
+A1 Hua,Xian-Sheng
+A1 Chert,Xiang-Rong
+A1 Wenyin,Liu
+A1 Zhang,Hong-Jiang
+YR 2001
+T1 Automatic location of text in video frames
+SP 24
+OP 27
+
+RT Conference Proceedings
+ID 1832228
+A1 Xi,Jie
+A1 Hua,Xian-sheng
+A1 Chen,Xiang-rong
+A1 Wenyin,Liu
+A1 Zhang,Hong-Jiang
+YR 2001
+T1 A Video Text Detection And Recognition System
+
+RT Conference Proceedings
+ID 72366
+A1 Su,Zhong
+A1 Li,Stan,Z.
+A1 Zhang,Hongjiang
+YR 2001
+T1 Extraction of feature subspaces for content-based retrieval using relevance feedback
+SP 98
+OP 106
+
+RT Book, Whole
+ID 72113
+A1 Zhang,Dong
+A1 Qi,Wei
+A1 Zhang,Hongjiang
+YR 2001
+T1 A New Shot Boundary Detection Algorithm
+SP 63
+OP 70
+
+RT Conference Proceedings
+ID 73628
+A1 Chen,Xiangrong
+A1 Gu,Lie
+A1 Li,Stan,Z.
+A1 Zhang,Hong-Jiang
+YR 2001
+T1 Learning Representative Local Features for Face Detection
+VO 1
+SP 1126
+OP 1131
+
+RT Conference Proceedings
+ID 598506
+A1 Su,Zhong
+A1 Yang,Qiang
+A1 Zhang,Hongjiang
+A1 Xu,Xiaowei
+A1 Hu,Yuhen
+YR 2001
+T1 Correlation-based Document Clustering using Web Logs
+
+RT Conference Proceedings
+ID 71747
+A1 Zhao,Li
+A1 Qi,Wei
+A1 Wang,Yijin
+A1 Yang,Shi-Qiang
+A1 Zhang,HongJiang
+YR 2001
+T1 Video shot grouping using best-first model merging
+SP 262
+OP 269
+
+RT Conference Proceedings
+ID 72755
+A1 Gu,Lie
+A1 Li,Stan,Z.
+A1 Zhang,Hong-Jiang
+YR 2001
+T1 Learning Probabilistic Distribution Model for Multi-View Face Detection
+VO 2
+SP 116
+OP 122
+
+RT Conference Proceedings
+ID 71761
+A1 Guo,Guo-Dong
+A1 Zhang,Hong-Jiang
+A1 Li,Stan,Z.
+YR 2001
+T1 Pairwise Face Recognition
+SP 282
+OP 287
+
+RT Conference Proceedings
+ID 85475
+A1 Lin,Tong
+A1 Ngo,Chong-wah
+A1 Zhang,Hong-Jiang
+A1 Shi,Qing-yun
+YR 2001
+T1 Integrating color and spatial features for content-based video retrieval
+SP 592
+OP 595
+
+RT Journal Article
+ID 2146327
+A1 Ngo,C.,W.
+A1 Zhang,H.,J.
+A1 Chin,R.,T.
+A1 Pong,T.,C.
+YR 2001
+T1 Motion-Based Video Representation for Scene Change Detection
+JF International Journal of Computer Vision
+
+RT Journal Article
+ID 53584
+A1 Ngo,Chong-wah
+A1 Pong,Ting-chuen
+A1 Zhang,Hongjiang
+YR 2001
+T1 Recent Advances in Content-Based Video Analysis
+JF International Journal of Image and Graphics
+VO 1
+SP 445
+OP 468
+IS 3
+
+RT Conference Proceedings
+ID 1832258
+A1 Yang,Jun
+A1 Liu,Wenyin
+A1 Zhang,Hongjiang
+A1 Zhuang,Yueting
+YR 2001
+T1 Thesaurus-Aided Approach For Image Browsing And Retrieval
+
+RT Conference Proceedings
+ID 1832020
+A1 Lu,Lie
+A1 You,Hong
+A1 Zhang,Hongjiang
+YR 2001
+T1 A Newapproach To Query By Humming In Music Retrieval
+
+RT Conference Proceedings
+ID 69714
+A1 Guo,Guodong
+A1 Zhang,Hong-Jiang
+A1 Li,Stan,Z.
+YR 2001
+T1 Boosting For Content-Based Audio Classification And Retrieval: An Evaluation
+
+RT Conference Proceedings
+ID 71054
+A1 Li,Stan,Z.
+A1 Xiaoguang,Lv
+A1 Zhang,Hongjiang
+YR 2001
+T1 View-Based Clustering of Object Appearances Based on Independent Subspace Analysis
+SP 295
+OP 300
+
+RT Conference Proceedings
+ID 28671
+A1 Li,Mingjing
+A1 Chen,Zheng
+A1 Wenyin,Liu
+A1 Zhang,Hong-Jiang
+YR 2001
+T1 A statistical correlation model for image retrieval
+SP 42
+OP 45
+
+RT Conference Proceedings
+ID 4137157
+A1 Jing,Feng
+A1 Zhang,Bo
+A1 Lin,Fuzong
+A1 Ma,Wei-ying
+A1 Zhang,Hong-jiang
+YR 2001
+T1 A novel region-based image retrieval method using relevance feedback
+SP 28
+OP 31
+
+RT Conference Proceedings
+ID 71607
+A1 Ma,Yu-fei
+A1 Zhang,Hong-Jiang
+YR 2001
+T1 Detecting Motion Object By Spatio-Temporal Entropy
+
+RT Journal Article
+ID 72490
+A1 Wenyin,Liu
+A1 Su,Zhong
+A1 Li,Stan
+A1 Sun,Yan-Feng
+A1 Zhang,Hongjiang
+YR 2001
+T1 A Performance Evaluation Protocol for Content-Based Image Retrieval Algorithms/Systems
+
+RT Conference Proceedings
+ID 630864
+A1 Wen,Ji-Rong
+A1 Nie,Jian-Yun
+A1 Zhang,Hong-Jiang
+YR 2001
+T1 Query clustering using content words and user feedback
+SP 442
+OP 443
+
+RT Conference Proceedings
+ID 86031
+A1 Su,Zhong
+A1 Zhang,HongJiang
+A1 Ma,Shao-peng
+YR 2001
+T1 Relevance feedback using a Bayesian classifier in content-based image retrieval
+SP 97
+OP 106
+
+RT Conference Proceedings
+ID 84965
+A1 Guo,Guo-Dong
+A1 Zhang,Hong-Jiang
+YR 2001
+T1 Boosting for fast face recognition
+SP 96
+OP 100
+
+RT Conference Proceedings
+ID 1832164
+A1 Lin,Tong
+A1 Zhang,Hong-Jiang
+A1 Shi,Qing-yun
+YR 2001
+T1 Video Scene Extraction by Force Competition
+
+RT Journal Article
+ID 827414
+A1 Wenyin,Liu
+A1 Chen,Zheng
+A1 Li,Mingjing
+A1 Zhang,Hongjiang
+YR 2001
+T1 A media agent for automatically building a personalized semantic index of Web media objects
+JF Journal of The American Society for Information Science and Technology
+VO 52
+SP 853
+OP 855
+IS 10
+
+RT Conference Proceedings
+ID 37030
+A1 Chen,Zheng
+A1 Wenyin,Liu
+A1 Hu,Chunhui
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+YR 2001
+T1 iFind: a web image search engine
+SP 450
+OP 450
+
+RT Journal Article
+ID 83521
+A1 Zhu,Xingquan
+A1 Zhang,HongJiang
+A1 Liu,Wenyin
+A1 Hu,Chunhui
+A1 Wu,Lide
+YR 2001
+T1 New query refinement and semantics integrated image retrieval system with semiautomatic annotation scheme
+JF Journal of Electronic Imaging
+VO 10
+SP 850
+OP 860
+IS 4
+
+RT Conference Proceedings
+ID 71254
+A1 Li,Stan,Z.
+A1 Yan,Jie
+A1 Hou,Xinwen
+A1 Li,Zeyu
+A1 Zhang,Hongjiang
+YR 2001
+T1 Learning Low Dimensional Invariant Signature of 3-D Object under Varying View and Illumination from 2-D Appearances
+SP 635
+OP 640
+
+RT Journal Article
+ID 784441
+A1 Lin,Tong
+A1 Zhang,Hongjiang
+A1 Shi,Qing-yun
+YR 2001
+T1 Video Content Representation for Shot Retrieval and Scene Extraction
+JF International Journal of Image and Graphics
+VO 1
+SP 507
+OP 526
+IS 3
+
+RT Conference Proceedings
+ID 71650
+A1 Li,Stan,Z.
+A1 Xiao,Rong
+A1 Li,Ze,Yu
+A1 (张宏江),Hong-jiang,Zhang
+YR 2001
+T1 Nonlinear mapping from multi-view face patterns to a Gaussian distribution in a low dimensional space
+SP 47
+OP 54
+
+RT Conference Proceedings
+ID 435751
+A1 Zhou,Baoyao
+A1 Chen,Jinlin
+A1 Shi,Jin
+A1 Zhang,Hongjiang
+A1 Wu,Qiufeng
+YR 2001
+T1 Website link structure evaluation and improvement based on user visiting patterns
+SP 241
+OP 244
+
+RT Journal Article
+ID 1668811
+A1 Chang,Shih-fu
+A1 Puri,Atul
+A1 Sikora,Thomas
+A1 Zhang,Hongjiang
+YR 2001
+T1 Introduction to the special issue on MPEG7
+JF IEEE Transactions on Circuits and Systems for Video Technology
+VO 11
+SP 685
+OP 687
+IS 6
+
+RT Conference Proceedings
+ID 126177
+A1 Guo,Guodong
+A1 Zhang,Hong-Jiang
+A1 Li,Stan,Z.
+YR 2001
+T1 Distance-from-boundary as a metric for texture image retrieval
+VO 3
+SP 1629
+
+RT Conference Proceedings
+ID 577318
+A1 Ma,Yu-fei
+A1 Sheng,Jia
+A1 Chen,Yuan
+A1 Zhang,Hongjiang
+YR 2001
+T1 MSR-Asia at TREC10 Video Track: Shot Boundary Detection Task
+
+RT Conference Proceedings
+ID 4116965
+A1 Wenyin,Liu
+A1 Chen,Zheng
+A1 Lin,Fan
+A1 Yang,Rui
+A1 Li,Mingjing
+A1 Zhang,Hongjiang
+YR 2001
+T1 Ubiquitous media agents for managing personal multimedia files
+SP 519
+OP 521
+
+RT Conference Proceedings
+ID 568251
+A1 Zhang,Hongjiang
+YR 2001
+T1 Relevance Feedback in Content-based Image Search
+SP 1
+
+RT Book, Whole
+ID 478089
+A1 Peng,Zhenyun
+A1 Hong,Wei
+A1 Liang,Luhong
+A1 Xu,Guangyou
+A1 Zhang,Hongjiang
+YR 2001
+T1 Detecting Facial Features on Image Sequences Using Cross-Verification Mechanism
+SP 1060
+OP 1065
+
+RT Journal Article
+ID 4479960
+A1 Yang,Jun
+A1 Wenyin,Liu
+A1 Zhang,Hongjiang
+A1 Zhuang,Yueting
+YR 2001
+T1 AN APPROACH TO SEMANTICS-BASED IMAGE RETRIEVAL AND BROWSING
+
+RT Book, Whole
+ID 28947
+A1 Lin,Fan
+A1 Wenyin,Liu
+A1 Chen,Zheng
+A1 Zhang,Hongjiang
+A1 Tang,Long
+YR 2001
+T1 User Modeling for Efficient Use of Multimedia Files
+SP 182
+OP 189
+
+RT Conference Proceedings
+ID 77231
+A1 Ling,Charles,X.
+A1 Gao,Jianfeng
+A1 Zhang,Huajie
+A1 Qian,Weining
+A1 Zhang,Hongjiang
+YR 2001
+T1 Mining Generalized Query Patterns from Web Logs
+
+RT Conference Proceedings
+ID 4140096
+A1 Chang,Cheng
+A1 Liu,Wenyin
+A1 Zhang,HongJiang
+YR 2001
+T1 Image retrieval based on region shape similarity
+SP 31
+OP 38
+
+RT Journal Article
+ID 4111263
+A1 Wenyin,Liu
+A1 Chen,Zheng
+A1 Li,Mingjing
+A1 Zhang,Hongjiang
+YR 2001
+T1 A media agent for automatically building a personalized semantic index of Web media objects
+JF Journal of The American Society for Information Science and Technology
+VO 52
+SP 853
+OP 855
+IS 10
+
+RT Conference Proceedings
+ID 83730
+A1 Li,Stan,Z.
+A1 Lv,Xiao,Guang
+A1 (张宏江),Hong-jiang,Zhang
+YR 2001
+T1 View-subspace analysis of multi-view face patterns
+SP 125
+OP 132
+
+RT Conference Proceedings
+ID 1799622
+A1 Liu,Tianming
+A1 Zhang,Hongjiang
+A1 Qi,Wei
+A1 Qi,Feihu
+YR 2001
+T1 Systematic rate controller for MPEG4 FGS video streaming
+SP 985
+OP 988
+
+RT Conference Proceedings
+ID 38441
+A1 Chen,Zheng
+A1 Wenyin,Liu
+A1 Yang,Rui
+A1 Li,Mingjing
+A1 Zhang,Hongjiang
+YR 2001
+T1 A Web Media Agent
+
+RT Conference Proceedings
+ID 84760
+A1 Li,Stan,Z.
+A1 Lv,XiaoGuang
+A1 Zhang,HongJiang
+A1 Fu,QingDong
+A1 Cheng,Yimin
+YR 2001
+T1 Learning topographic representation for multi-view image patterns
+VO 2
+SP 1329
+
+RT Journal Article
+ID 54949690
+A1 Vailaya,A.
+A1 Figueiredo,M.,A.,T.
+A1 Jain,A.,K.
+A1 Zhang,Hong-Jiang
+YR 2001
+T1 Image classification for content-based indexing
+JF IEEE Transactions on Image Processing
+VO 10
+SP 117
+OP 130
+
+RT Journal Article
+ID 61400610
+A1 Li,Stan,Z.
+A1 Yan,Ji
+A1 Zhang,HongJiang
+A1 Zhu,Shujie
+YR 2001
+T1 Ensemble SVM Regression Based Multi-View Face Detection System
+
+RT Journal Article
+ID 39371559
+A1 Chen,Zheng
+A1 Wenyin,Liu
+A1 Zhang,Feng
+A1 Li,Mingjing
+A1 Zhang,Hongjiang
+YR 2001
+T1 Web mining for Web image retrieval
+JF Journal of The American Society for Information Science and Technology
+VO 52
+SP 831
+OP 839
+IS 10
+
+RT Conference Proceedings
+ID 1832019
+A1 Lu,Lie
+A1 Li,Stan,Z.
+A1 Zhang,Hongjiang
+YR 2001
+T1 Content-Based Audio Segmentation Content-Based Audio Segmentation
+
+RT Conference Proceedings
+ID 86148
+A1 Liu,Tianming
+A1 Qi,Wei
+A1 Zhang,Hongjiang
+A1 Qi,Feihu
+YR 2001
+T1 A Content-Aware Rate Controller For Streamed Delivery Of MPEG4 Fgs Video
+
+RT Journal Article
+ID 61400608
+A1 Li,Stan,Z.
+A1 Lu,XiaoGuang
+A1 Zhang,HongJiang
+YR 2001
+T1 Unsupervised Learning of View-Subspaces and View-Based Clustering of Appearances
+
+RT Journal Article
+ID 61400607
+A1 Li,Stan,Z.
+A1 Yan,Jie
+A1 Zhang,HongJiang
+YR 2001
+T1 Learning Illumination-Invariant View Subspaces of Object Appearances
+
+RT Conference Proceedings
+ID 222308
+A1 Lu,Ye
+A1 Hu,Chunhui
+A1 Zhu,Xingquan
+A1 Zhang,HongJiang
+A1 Yang,Qiang
+YR 2000
+T1 A unified framework for semantics and feature based relevance feedback in image retrieval systems
+SP 31
+OP 37
+
+RT Journal Article
+ID 1249248
+A1 Ma,Wei-Ying
+A1 Bedner,Ilja
+A1 Chang,Grace
+A1 Kuchinsky,Allan
+A1 Zhang,HongJiang
+YR 2000
+T1 A framework for adaptive content delivery in heterogeneous network environments
+
+RT Conference Proceedings
+ID 526587
+A1 Qi,Wei
+A1 Gu,Lie
+A1 Jiang,Hao
+A1 Chen,Xiang-rong
+A1 Zhang,Hong-Jiang
+YR 2000
+T1 Integrating Visual, Audio and Text Analysis for News Video
+VO 3
+SP 520
+
+RT Conference Proceedings
+ID 200410
+A1 Su,Zhong
+A1 Yang,Qiang
+A1 Lu,Ye
+A1 Zhang,Hongjiang
+YR 2000
+T1 WhatNext: A Prediction System for Web Request Using N-gram Sequence Models
+SP 214
+OP 221
+
+RT Conference Proceedings
+ID 1870740
+A1 Huang,Fu,Jie
+A1 Chen,Tsuhan
+A1 Zhou,Zhi-hua
+A1 Zhang,Hong-jiang
+YR 2000
+T1 Pose Invariant Face Recognition
+SP 245
+OP 250
+
+RT Conference Proceedings
+ID 533966
+A1 Lin,Tong
+A1 Zhang,Hong-Jiang
+YR 2000
+T1 Automatic Video Scene Extraction by Shot Grouping
+VO 4
+SP 4039
+OP 4042
+
+RT Conference Proceedings
+ID 2375899
+A1 Ngo,Chong-Wah
+A1 Pong,Ting-Chuen
+A1 Zhang,Hong-Jiang
+A1 Chin,R.,T.
+YR 2000
+T1 Motion characterization by temporal slices analysis
+VO 2
+SP 768
+
+RT Conference Proceedings
+ID 50188936
+A1 Wang,Roy
+A1 Zhang,Hong-Jiang
+A1 Zhang,Ya-Qin
+YR 2000
+T1 A confidence measure based moving object extraction system built for compressed domain
+
+RT Book, Whole
+ID 428016
+A1 Chen,Jinlin
+A1 Yang,Yudong
+A1 Zhang,Hongjiang
+YR 2000
+T1 An Adaptive Web Content Delivery System
+SP 284
+OP 288
+
+RT Journal Article
+ID 2126966
+A1 Zhang,HongJiang
+A1 Chen,Jinlin
+A1 Yang,Yudong
+YR 2000
+T1 Adaptive Delivery of HTML Contents
+
+RT Conference Proceedings
+ID 12018071
+A1 Zhang,HongJiang
+A1 Liu,Wenyin
+A1 Sun,Yanfeng
+YR 2000
+T1 MiAlbum—A System for Home Photo Management Using the Semi-Automatic Image Annotation Approach
+
+RT Conference Proceedings
+ID 438464
+A1 Zhao,Li
+A1 Qi,Wei
+A1 Li,Stan,Z.
+A1 Yang,Shi-Qiang
+A1 Zhang,HongJiang
+YR 2000
+T1 Key-frame extraction and shot retrieval using nearest feature line (NFL)
+SP 217
+OP 220
+
+RT Conference Proceedings
+ID 2068529
+A1 Wang,Roy
+A1 Zhang,Hong-Jiang
+A1 Zhang,Ya-Qin
+YR 2000
+T1 A confidence measure based moving object extraction system built for compressed domain1
+
+RT Conference Proceedings
+ID 534302
+A1 Ngo,Chong-wah
+A1 Pong,Ting-chuen
+A1 Chin,Roland,T.
+A1 Zhang,Hongjiang
+YR 2000
+T1 Motion-Based Video Representation for Scene Change Detection
+VO 1
+SP 1827
+OP 1830
+
+RT Journal Article
+ID 11422748
+A1 TROST,SUSANNE,U.
+A1 SWANSON,ERIC
+A1 GLOSS,BERND
+A1 WANG-IVERSON,DAVID,B.
+A1 ZHANG,HONGJIANG
+A1 VOLODARSKY,TANYA
+A1 GROVER,GARY,J.
+A1 BAXTER,JOHN,D.
+A1 CHIELLINI,GRAZIA
+A1 SCANLAN,THOMAS,S.
+A1 DILLMANN,WOLFGANG,H.
+YR 2000
+T1 The Thyroid Hormone Receptor Selective Agonist GC1 Differentially Affects Plasma Lipids and Cardiac Activity
+JF Endocrinology
+VO 141
+SP 3057
+OP 3064
+IS 9
+
+RT Conference Proceedings
+ID 212477
+A1 Su,Zhong
+A1 Yang,Qiang
+A1 Zhang,Hong-Jiang
+YR 2000
+T1 A prediction system for multimedia pre-fetching in Internet
+SP 3
+OP 11
+
+RT Conference Proceedings
+ID 909650
+A1 Wenyin,Liu
+A1 Sun,Yanfeng
+A1 Zhang,Hongjiang
+YR 2000
+T1 MiAlbum - a system for home photo managemet using the semi-automatic image annotation approach
+SP 479
+OP 480
+
+RT Conference Proceedings
+ID 438239
+A1 Zhang,HongJiang
+A1 Wenyin,Liu
+A1 Hu,Chunhul
+YR 2000
+T1 iFind -a system for semantics and feature based image retrieval over Internet
+SP 477
+OP 478
+
+RT Conference Proceedings
+ID 610301
+A1 Jiang,Hao
+A1 Lin,Tong
+A1 Zhang,Hong-Jiang
+YR 2000
+T1 Video Segmentation with the Assistance of Audio Content Analysis
+SP 1507
+OP 1510
+
+RT Journal Article
+ID 4117139
+A1 Jiang,Hao
+A1 Zhang,HongJiang
+A1 Lin,Tony
+YR 2000
+T1 Video segmentation with the Support of Audio Segmentation and classification
+
+RT Conference Proceedings
+ID 527759
+A1 Wenyin,Liu
+A1 Wang,Tao
+A1 Zhang,Hongjiang
+YR 2000
+T1 A Hierarchical Characterization Scheme for Image Retrieval
+VO 3
+SP 42
+
+RT Journal Article
+ID 72057
+A1 Su,Zhong
+A1 Zhang,Hongjiang
+A1 Ma,Shaoping
+YR 2000
+T1 Using Bayesian classifier in relevant feedback of image retrieval
+JF IEEE Transactions on Applications and Industry
+SP 258
+OP 261
+
+RT Conference Proceedings
+ID 73274
+A1 Yan,Jie
+A1 Zhang,Hongjiang
+YR 2000
+T1 Realistic Virtual Face and Body Synthesis
+SP 91
+OP 94
+
+RT Book, Whole
+ID 49791
+A1 Peng,Zhenyun
+A1 Tao,Linmi
+A1 Xu,Guangyou
+A1 Zhang,Hongjiang
+YR 2000
+T1 Detecting Facial Features on Images with Multiple Faces
+SP 191
+OP 198
+
+RT Conference Proceedings
+ID 71344
+A1 Yan,Jie
+A1 Zhang,Hongjiang
+YR 2000
+T1 Synthesized virtual view-based eigenspace for face recognition
+
+RT Book, Whole
+ID 247691
+A1 Yang,Qiang
+A1 Wang,Hai-feng
+A1 Wen,Ji-rong
+A1 Zhang,Gao
+A1 Lu,Ye
+A1 Lee,Kai-fu
+A1 Zhang,Hong-Jiang
+YR 2000
+T1 Towards a Next-Generation Search Engine
+SP 5
+OP 15
+
+RT Journal Article
+ID 12787353
+A1 Su,Zhong
+A1 Zhang,HongJiang
+A1 Ma,Shao-peng
+YR 2000
+T1 Relevance feedback using a Bayesian classifier in content-based image retrieval
+VO 4315
+SP 97
+OP 106
+
+RT Journal Article
+ID 1682241
+A1 Manjunath,B.,S.
+A1 Huang,Thomas,S.
+A1 Tekalp,A.,Murat
+A1 Zhang,Hongjiang
+YR 2000
+T1 Guest editorial introduction to the special issue on image and video processing for digital libraries
+JF IEEE Transactions on Image Processing
+VO 9
+SP 1
+OP 2
+IS 1
+
+RT Journal Article
+ID 61400398
+A1 Zhang,HongJiang
+A1 Hu,Chunhui,Hu
+A1 Yang,Qiang
+A1 Zhu,Ye,Lu,Xinquan,Zhu
+YR 2000
+T1 A Unified Semantics and Feature Based Image Retrieval Technique Using Relevance Feedback
+
+RT Journal Article
+ID 39236964
+A1 Zhang,Hongjiang
+A1 Wenyin,Liu
+A1 Hu,Chunhui
+YR 2000
+T1 iFind —a system for semantics and feature based image retrieval over Internet
+SP 477
+OP 478
+
+RT Journal Article
+ID 61400401
+A1 Zhang,HongJiang
+YR 2000
+T1 Adaptive Content Delivery: A New Research Area in Media Computing
+
+RT Conference Proceedings
+ID 526034
+A1 Zhong,Yu
+A1 Zhang,Hong-Jiang
+A1 Jain,Anil,K.
+YR 1999
+T1 Automatic Caption Localization in Compressed Video
+SP 96
+OP 100
+
+RT Journal Article
+ID 1313940
+A1 Hanjalic,Alan
+A1 Zhang,HongJiang
+YR 1999
+T1 An integrated scheme for automated video abstraction based on unsupervised cluster-validity analysis
+JF IEEE Transactions on Circuits and Systems for Video Technology
+VO 9
+SP 1280
+OP 1289
+IS 8
+
+RT Conference Proceedings
+ID 610555
+A1 Vailaya,Aditya
+A1 Figueiredo,Mário,A.,T.
+A1 Jain,Anil,K.
+A1 Zhang,Hongjiang
+YR 1999
+T1 Content-Based Hierarchical Classification of Vacation Images
+SP 518
+OP 523
+
+RT Conference Proceedings
+ID 527904
+A1 Marichal,Xavier
+A1 Ma,Wei-ying
+A1 Zhang,Hongjiang
+YR 1999
+T1 Blur Determination in the Compressed Domain Using DTC Information
+SP 386
+OP 390
+
+RT Conference Proceedings
+ID 229521
+A1 Vailaya,Aditya
+A1 Zhang,Hongjiang
+A1 Jain,Anil,K.
+YR 1999
+T1 Automatic Image Orientation Detection
+SP 600
+OP 604
+
+RT Journal Article
+ID 210676
+A1 Vailaya,Aditya
+A1 Figueiredo,Mario
+A1 Jain,Anil
+A1 Zhang,HongJiang
+YR 1999
+T1 A Bayesian Framework for Semantic Classification of Outdoor Vacation Images
+
+RT Conference Proceedings
+ID 610620
+A1 Hanjalic,Alan
+A1 Zhang,Hongjiang
+YR 1999
+T1 Optimal Shot Boundary Detection Based on Robust Statistical Models
+SP 710
+OP 714
+
+RT Journal Article
+ID 1942752
+A1 Ma,Wei-ying
+A1 Zhang,Hongjiang
+YR 1999
+T1 Handbook of multimedia computing
+
+RT Conference Proceedings
+ID 526414
+A1 Qi,Wei
+A1 Zhang,Hongjiang
+A1 Zhong,Yuzhuo
+YR 1999
+T1 A PreAnalysis Method for Robust Global Motion Estimation
+SP 625
+OP 628
+
+RT Conference Proceedings
+ID 909670
+A1 Chang,Shih-fu
+A1 Auffret,Gwendal
+A1 Foote,Jonathan
+A1 Li,Chung-shen
+A1 Shahraray,Behzad
+A1 Syeda-mahmood,Tanveer
+A1 Zhang,Hongjiang
+YR 1999
+T1 Multimedia access and retrieval (panel session): the state of the art and future directions
+
+RT Conference Proceedings
+ID 438803
+A1 Chang,Shih-fu
+A1 Auffret,Gwendal
+A1 Foote,Jonathan
+A1 Li,Chung-sheng
+A1 Shahraray,Behzad
+A1 Syeda-mahmood,Tanveer,Fathima
+A1 Zhang,Hongjiang
+YR 1999
+T1 Multimedia access and retrieval: the state of the art and future directions (panel session)
+SP 443
+OP 445
+
+RT Journal Article
+ID 26523019
+A1 Tu,S.-T
+A1 Zhang,H
+A1 Zhou,W-W
+YR 1999
+T1 Corrosion failures of high temperature heat pipes
+JF Engineering Failure Analysis
+VO 6
+SP 363
+OP 370
+IS 6
+
+RT Journal Article
+ID 39237027
+A1 Chang,Shih-Fu
+A1 Auffret,Gwendal
+A1 Foote,Jonathan
+A1 Li,Chung-Shen
+A1 Shahraray,Behzad
+A1 Syeda-Mahmood,Tanveer
+A1 Zhang,HongJiang
+YR 1999
+T1 Multimedia access and retrieval (panel session): the state of the art and future directions
+SP 443
+OP 445
+
+RT Journal Article
+ID 751620
+A1 Chang,Shih-fu
+A1 Zhang,Hongjiang
+YR 1999
+T1 Editorial: Content-Processing for Video Browsing, Retrieval, and Editing
+JF Multimedia Systems
+VO 7
+SP 255
+IS 4
+
+RT Journal Article
+ID 15229802
+A1 Chang,Shih-Fu
+A1 Zhang,HongJiang
+YR 1999
+T1 Content-Processing for Video Browsing, Retrieval, and Editing
+JF Multimedia Systems
+VO 7
+SP 255
+OP 255
+IS 4
+
+RT Journal Article
+ID 61402211
+A1 Wang,Roy
+A1 Zhang,Hong-Jiang
+A1 Zhang,Ya-Qin
+YR 1999
+T1 A confidence measure based moving object extraction system built for compressed domain 1
+
+RT Journal Article
+ID 291236
+A1 Vailaya,Aditya
+A1 Jain,Anil,K.
+A1 Zhang,Hongjiang
+YR 1998
+T1 On image classification: city images vs. landscapes
+JF Pattern Recognition
+VO 31
+SP 1921
+OP 1935
+IS 12
+
+RT Conference Proceedings
+ID 2002132
+A1 Vailaya,Aditya
+A1 Jain,Anil
+A1 (张宏江),Hong-jiang,Zhang
+YR 1998
+T1 On image classification: city vs. landscape
+
+RT Conference Proceedings
+ID 1269221
+A1 Ma,Wei-Ying
+A1 (张宏江),Hong-jiang,Zhang
+YR 1998
+T1 Benchmarking of image features for content-based retrieval
+VO 1
+SP 253
+
+RT Conference Proceedings
+ID 50118047
+A1 Zhao,B.
+A1 Feiler,D.
+A1 Ramanathan,V.
+A1 Liu,Q.,Z.
+A1 Brongo,M.
+A1 Wu,J.
+A1 Zhang,H.
+A1 Kuei,J.,C.
+A1 Young,D.
+A1 Brown,J.
+A1 Vo,C.
+A1 Xia,W.
+A1 Chu,C.
+A1 Zhou,J.
+A1 Nguyen,C.
+A1 Tsau,L.
+A1 Dornish,D.
+A1 Camilletti,L.
+A1 Ding,P.
+A1 Lai,G.
+A1 Chin,B.
+A1 Johnson,M.
+A1 Turner,J.
+A1 Ritzdorf,T.
+A1 Wu,G.
+A1 Cook,L.
+YR 1998
+T1 A Cu/low-κ dual damascene interconnect for high performance and low cost integrated circuits
+
+RT Journal Article
+ID 26833796
+A1 Zhao,B.
+A1 Feiler,D.
+A1 Liu,Q.,Z.
+A1 Nguyen,C.,H.
+A1 Brongo,M.
+A1 Kuei,J.
+A1 Ramanathan,V.
+A1 Zhang,H.
+A1 Wu,J.
+A1 Rumer,M.
+A1 Biberger,M.,A.
+A1 Sachan,V.
+A1 James,D.
+YR 1998
+T1 Integration of low permittivity dielectric in Al dual damascene architecture for low parasitic on-chip interconnect applications
+JF Electronics Letters
+VO 34
+SP 1309
+IS 13
+
+RT Conference Proceedings
+ID 50122188
+A1 Zhao,B.
+A1 Feiler,D.
+A1 Liu,Q.,Z.
+A1 Nguyen,C.,H.
+A1 Brongo,M.
+A1 Kuei,J.
+A1 Ramanathan,V.
+A1 Wu,J.
+A1 Zhang,H.
+A1 Rumer,M.
+A1 Biberger,M.,A.
+A1 Sachan,V.
+A1 James,D.
+YR 1998
+T1 Aluminum dual damascene interconnects with low-κ intra/inter-level dielectric for reduced capacitance and low cost
+
+RT Journal Article
+ID 14571108
+A1 Chang,Shih-Fu
+A1 Wong,Ping,Wah
+A1 (张宏江),Hong-jiang,Zhang
+YR 1998
+T1 Special Issue on Image Technology for World Wide Web Applications
+JF Journal of Visual Communication and Image Representation
+VO 9
+SP 255
+OP 255
+IS 4
+
+RT Journal Article
+ID 1693557
+A1 Zhang,Hongjiang
+A1 Wu,Jianhua
+A1 Zhong,Di
+A1 Smoliar,Stephen,W.
+YR 1997
+T1 An integrated system for content-based video retrieval and browsing
+JF Pattern Recognition
+VO 30
+SP 643
+OP 658
+IS 4
+
+RT Conference Proceedings
+ID 296289
+A1 Zhang,Hongjiang
+A1 Wang,John,Y.,A.
+A1 Altunbasak,Yucel
+YR 1997
+T1 Content-Based Video Retrieval and Compression: A Unified Solution
+SP 13
+OP 16
+
+RT Conference Proceedings
+ID 909785
+A1 Low,Chien,Yong
+A1 Tian,Qi
+A1 Zhang,Hongjiang
+YR 1997
+T1 An automatic news video parsing, indexing and browsing system
+
+RT Conference Proceedings
+ID 668878
+A1 Wei,Qi
+A1 Zhang,Hongjiang
+A1 Zhong,Yuzhuo
+YR 1997
+T1 Robust Approach to Video Segmentation Using Compressed Data
+VO 3022
+SP 448
+OP 456
+
+RT Journal Article
+ID 752170
+A1 Aigrain,Philippe
+A1 Zhang,Hongjiang
+A1 Petkovic,Dragutin
+YR 1996
+T1 Content-Based Representation and Retrieval of Visual Media: A State-of-the-Art Review
+JF Multimedia Tools and Applications
+VO 3
+SP 179
+OP 202
+IS 3
+
+RT Conference Proceedings
+ID 668854
+A1 Zhong,Di
+A1 Zhang,Hongjiang
+A1 Chang,Shih-Fu
+YR 1996
+T1 Clustering Methods for Video Browsing and Annotation
+VO 2670
+SP 239
+OP 246
+
+RT Journal Article
+ID 4066923
+A1 Smoliar,S.
+A1 Zhang,H.
+YR 1996
+T1 Video indexing and retrieval
+
+RT Conference Proceedings
+ID 438547
+A1 Zhang,HongJiang
+A1 Low,Chien,Yong
+A1 Smoliar,Stephen,W.
+A1 Wu,J.,H.
+YR 1995
+T1 Video parsing, retrieval and browsing: an integrated and content-based solution
+SP 15
+OP 24
+
+RT Conference Proceedings
+ID 609982
+A1 Gongt,Yihong
+A1 Sint,Lim,Teck
+A1 Chuan,Chua,Hock
+A1 Zhang,Hongjiang
+A1 Sakauchi,Masao
+YR 1995
+T1 Automatic Parsing of TV Soccer Programs
+SP 167
+OP 174
+
+RT Journal Article
+ID 752061
+A1 Zhang,Hongjiang
+A1 Low,Chien,Yong
+A1 Smoliar,Stephen,W.
+YR 1995
+T1 Video Parsing and Browsing Using Compressed Data
+JF Multimedia Tools and Applications
+VO 1
+SP 89
+OP 111
+IS 1
+
+RT Journal Article
+ID 751533
+A1 Zhang,Hongjiang
+A1 Tan,Shuang,Yeo
+A1 Smoliar,Stephen,W.
+A1 Gong,Yihong
+YR 1995
+T1 Automatic Parsing and Indexing of News Video
+JF Multimedia Systems
+VO 2
+SP 256
+OP 266
+IS 6
+
+RT Journal Article
+ID 1295051
+A1 Furht,B.
+A1 Smoliar,S.,W.
+A1 Zhang,H.
+YR 1995
+T1 Video and image processing in multimedia systems
+
+RT Conference Proceedings
+ID 668985
+A1 Zhang,Hongjiang
+A1 Zhong,Di
+YR 1995
+T1 Scheme for Visual Feature-Based Image Indexing
+VO 2420
+SP 36
+OP 46
+
+RT Journal Article
+ID 1339495
+A1 Zhang,H.,J.
+A1 Smoliar,S.,W.
+A1 Wu,J.
+YR 1995
+T1 Contentbased video browsing tools
+
+RT Conference Proceedings
+ID 3213310
+A1 Zhang,H.
+A1 Gong,Y.
+A1 Low,C.,Y.
+A1 Smoliar,S.,W.
+YR 1995
+T1 Image retrieval based on color features: An evaluation study
+
+RT Conference Proceedings
+ID 438551
+A1 Zhang,HongJiang
+A1 Wu,Jianhua
+A1 Low,Chien,Yong
+A1 Smoliar,Stephen,W.
+YR 1995
+T1 A video parsing, indexing and retrieval system
+SP 359
+OP 360
+
+RT Book, Whole
+ID 492220
+A1 Zhang,Hongjiang
+A1 Terrace,Keng
+YR 1995
+T1 SWIM: A Prototype Environment for Visual Media Retrieval
+SP 531
+OP 540
+
+RT Journal Article
+ID 3212229
+A1 Furht,B
+A1 Smoliar,S.,W
+A1 Zhang,H.,J
+YR 1995
+T1 Image and Video Processing in Multimedia Systems
+
+RT Journal Article
+ID 781556
+A1 Zhang,Hongjiang
+A1 Tian,Qi
+YR 1995
+T1 Digital video analysis and recognition for content-based access
+JF ACM Computing Surveys
+VO 27
+SP 643
+OP 644
+IS 4
+
+RT Conference Proceedings
+ID 619891
+A1 Gao,X.,Q.
+A1 Zhang,H.
+A1 He,Z.,Y.
+YR 1995
+T1 Subband Model and Implementation of 0-QAM System
+SP 1888
+OP 1891
+
+RT Conference Proceedings
+ID 50014091
+A1 Gaol,X.,Q.
+A1 Wang,X.,D.
+A1 Li,L.,H.
+A1 Zhang,H.
+A1 He,Z.,Y.
+YR 1995
+T1 Decision feedback neural network coherent receivers for continuous phase modulation based on frequency domain
+VO 5
+SP 3411
+
+RT Journal Article
+ID 850076
+A1 Smoliar,Stephen,W.
+A1 Zhang,Hongjiang
+YR 1994
+T1 Content-Based Video Indexing and Retrieval
+JF IEEE Multimedia
+VO 1
+SP 62
+OP 72
+IS 2
+
+RT Conference Proceedings
+ID 610316
+A1 Zhang,Hongjiang
+A1 Gong,Yihong
+A1 Smoliar,Stephen,W.
+A1 Tan,Shuang,Yeo
+YR 1994
+T1 Automatic Parsing of News Video
+SP 45
+OP 54
+
+RT Conference Proceedings
+ID 668984
+A1 Zhang,HongJiang
+A1 Smoliar,Stephen,W.
+YR 1994
+T1 Developing Power Tools for Video Indexing and Retrieval
+VO 2185
+SP 140
+OP 149
+
+RT Conference Proceedings
+ID 609985
+A1 Gong,Yihong
+A1 Zhang,Hongjiang
+A1 Chuan,H.,C.
+A1 Sakauchi,Masao
+YR 1994
+T1 An Image Database System with Contents Capturing and Fast Image Indexing Abilities
+SP 121
+OP 130
+
+RT Conference Proceedings
+ID 50009754
+A1 Gongt,Yihong
+A1 Zhang,Hongjiang
+A1 Chuan,H.,C.
+A1 Sakauchi,M.
+YR 1994
+T1 An image database system with content capturing and fast image indexing abilities
+
+RT Journal Article
+ID 4067033
+A1 Zhang,H.,J.
+A1 Low,C.,Y.
+A1 Smoliar,S.
+YR 1994
+T1 Video parsing using compressed data
+
+RT Conference Proceedings
+ID 49987258
+A1 Yihong,Gong
+A1 Hongjiang,Zhang
+A1 Chuan,Chua,Hock
+YR 1994
+T1 An image database system with fast image indexing capability based on color histograms
+
+RT Book, Whole
+ID 429619
+A1 Zhang,Hongjiang
+A1 Smoliar,Stephen,W.
+A1 Wu,Jianhua
+A1 Low,Chien,Yong
+A1 Kankanhalli,Atreyi
+YR 1994
+T1 A Video Database System for Digital Libraries
+SP 253
+OP 264
+
+RT Journal Article
+ID 1247278
+A1 Smoliar,Stephen,W.
+A1 Wu,Jian,Hua
+A1 Low,Chien,Yong
+A1 (张宏江),Hong-jiang,Zhang
+YR 1994
+T1 Development of A Video Database System
+JF ACM Sigois Bulletin
+VO 15
+SP 9
+IS 1
+
+RT Journal Article
+ID 4051487
+A1 Smoliar,Stephen,W
+A1 Zhang,Hongjiang
+A1 Wu,Jian,Hua
+YR 1994
+T1 Using frame technology to manage video
+
+RT Conference Proceedings
+ID 49987183
+A1 Smoliar,Stephen,W.
+A1 Zhang,HongJiang
+A1 Koh,Siew,Lian
+A1 Lu,Guo,Jun
+YR 1994
+T1 Interacting with digital video
+
+RT Journal Article
+ID 751451
+A1 Zhang,Hong-jiang
+A1 Kankanhalli,Atreyi
+A1 Smoliar,Stephen,William
+YR 1993
+T1 Automatic Partitioning of Full-Motion Video
+JF Multimedia Systems
+VO 1
+SP 10
+OP 28
+IS 1
+
+RT Journal Article
+ID 2366201
+A1 Zhang,H.,J.
+A1 Kankanhalli,A.
+A1 Smoliar,S.
+YR 1993
+T1 Automatic parsing of video
+
+RT Conference Proceedings
+ID 49970279
+A1 Zhou,W.,W.
+A1 Livolsi,P.
+A1 Miska,E.
+A1 Zhang,H.
+A1 Wu,J.
+A1 Yang,D.
+YR 1993
+T1 An intelligent traffic responsive contraflow lane control system
+
+RT Conference Proceedings
+ID 49927841
+A1 Zhang,HongJiang
+A1 Terrace,Keng
+YR 1992
+T1 Automatic Tracking Ice Floe From Satellite Imagery Abstract Via Invariant Moment Matching
+
+RT Journal Article
+ID 4117223
+A1 Chen,Z.
+A1 Liu,W.
+A1 Zhang,F.
+A1 Li,M.
+A1 (张宏江),Hong-jiang,Zhang
+YR 1989
+T1 Web Mining for Web Image Retrieval
+JF Journal of The American Society for Information Science and Technology
+
+RT Conference Proceedings
+ID 49864134
+A1 Gudmandsen,R.
+A1 Pedersen,L.,T.
+A1 Zhang,Hongjiang
+YR 1989
+T1 Remote Sensing Of The Greenland Sea
+
+RT Journal Article
+ID 6685339
+A1 Yan,Shuicheng
+A1 Liu,Ce
+A1 Li,Stan,Z.
+A1 Zhang,Hongjiang
+A1 Shum,Heung-Yeung
+A1 Cheng,Qiansheng
+T1 Texture-Constrained Active Shape Models
+
+RT Journal Article
+ID 12712702
+A1 Vailaya,Aditya
+A1 Jain,Anil,K.
+A1 Zhang,HongJiang
+T1 Video Clustering
+
+RT Book, Whole
+ID 48816625
+A1 Furht,Borko
+A1 Smoliar,Stephen,W.
+A1 Zhang,HongJiang
+T1 Content-Based Video Indexing And Retrieval
+
+RT Conference Proceedings
+ID 3560656
+A1 Liu,Tianming
+A1 Zhang,Hong-jiang
+A1 Qi,Feihu
+T1 PERCEPTUAL FRAME DROPPING IN ADAPTIVE VIDEO STREAMING
+
+RT Book, Whole
+ID 47925360
+A1 Hua,Xian-Sheng
+A1 Zhang,Hong-Jiang
+T1 Automatic Home Video Editing
+
+RT Journal Article
+ID 13225733
+A1 Qi,Guo-Jun
+A1 Hua,Xian-Sheng
+A1 Rui,Yong
+A1 Tang,Jinhui
+A1 Zhang,Hong-Jiang
+T1 Two-Dimensional Multi-Label Active Learning with An Efficient Online Adaptation Model for Image Classification
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+RT Journal Article
+ID 11650618
+A1 Jiang,Dalong
+A1 Hu,Yuxiao
+A1 Yan,Shuicheng
+A1 Zhang,Lei
+A1 Zhang,Hongjiang
+A1 Gao,Wen
+T1 Efficient 3D reconstruction for face recognition
+
+RT Journal Article
+ID 4113018
+A1 Ma,Wei-Ying
+A1 Xie,Xing
+A1 Yuan,Chun
+A1 Chen,Yu
+A1 Zhang,Zheng
+A1 Zhang,Hong-Jiang
+T1 Enabling Multimedia Adaptation Services in Content Delivery Networks
+
+RT Journal Article
+ID 4111543
+A1 Zhang,Hongjiang
+T1 ADAPTIVE CONTENT DELIVERY: AN EW APPLICATION AREA FOR MEDIA COMPUTING RESEARCH
+
+RT Book, Whole
+ID 47743914
+A1 Aigrain,Philippe
+A1 Zhang,Hongjiang
+A1 Petkovic,Dragutin
+T1 Content-Based Representation and Retrieval of Visual Media: A State-of-the-Art Review
+
+RT Journal Article
+ID 12873991
+A1 Hongjiang,Zhang
+A1 Yuhu,Shi
+A1 Yun,Cheng
+A1 Qianli,Sheng
+A1 Zongwei,Chen
+A1 Dandong,Chang
+T1 Movement Properties of the Pipe Flow along Granite Slope of the Three Gorges Area on Yangtze River in China
+
+RT Journal Article
+ID 10408030
+A1 Yana,Shuicheng
+A1 Liu,Ce
+A1 Lib,Stan,Z.
+A1 Zhang,Hongjiang
+A1 Shum,Heung-Yeung
+A1 Cheng,Qiansheng
+T1 Face alignment using texture-constrained active shape modelsq
+
+RT Book, Whole
+ID 47779038
+A1 Zhang,HongJiang
+A1 Aigrain,Philippe
+A1 Petkovic,Dragutin
+T1 Introduction to Special Issue on Represenatation and Retrieval of Visual Media in MultiMedia Systems (2)
+
+RT Book, Whole
+ID 48810910
+A1 Furht,Borko
+A1 Smoliar,Stephen,W.
+A1 Zhang,HongJiang
+T1 JPEG Algorithm for Full-Color Still Image Compression
+
+RT Book, Whole
+ID 48811639
+A1 Furht,Borko
+A1 Smoliar,Stephen,W.
+A1 Zhang,HongJiang
+T1 Introduction to Multimedia Compression
+
+RT Book, Whole
+ID 48813447
+A1 Furht,Borko
+A1 Smoliar,Stephen,W.
+A1 Zhang,HongJiang
+T1 MPEG Compression for Motion-Intensive Applications
+
+RT Book, Whole
+ID 48818421
+A1 Furht,Borko
+A1 Smoliar,Stephen,W.
+A1 Zhang,HongJiang
+T1 Overview of Multimedia Applications
+
+RT Book, Whole
+ID 48822453
+A1 Furht,Borko
+A1 Smoliar,Stephen,W.
+A1 Zhang,HongJiang
+T1 Applications of Compression Systems
+
+RT Book, Whole
+ID 48827814
+A1 Furht,Borko
+A1 Smoliar,Stephen,W.
+A1 Zhang,HongJiang
+T1 Content-Based Image Retrieval
+
+RT Book, Whole
+ID 48834795
+A1 Furht,Borko
+A1 Smoliar,Stephen,W.
+A1 Zhang,HongJiang
+T1 A Case Study In Video Parsing: Television News
+
+RT Book, Whole
+ID 48836577
+A1 Furht,Borko
+A1 Smoliar,Stephen,W.
+A1 Zhang,HongJiang
+T1 Video Processing Using Compressed Data
+
+RT Book, Whole
+ID 48836673
+A1 Furht,Borko
+A1 Smoliar,Stephen,W.
+A1 Zhang,HongJiang
+T1 Other Multimedia Compression Techniques
+
+RT Book, Whole
+ID 48839302
+A1 Furht,Borko
+A1 Smoliar,Stephen,W.
+A1 Zhang,HongJiang
+T1 Implementations of Compression Algorithms
+
+RT Book, Whole
+ID 48841099
+A1 Furht,Borko
+A1 Smoliar,Stephen,W.
+A1 Zhang,HongJiang
+T1 Basic Concepts
+
+RT Book, Whole
+ID 48856774
+A1 Furht,Borko
+A1 Smoliar,Stephen,W.
+A1 Zhang,HongJiang
+T1 Multimedia Networking and Synchronization
+
+RT Book, Whole
+ID 48864243
+A1 Furht,Borko
+A1 Smoliar,Stephen,W.
+A1 Zhang,HongJiang
+T1 Px64 Compression Algorithm for Video Telecommunications
+
+RT Journal Article
+ID 12727460
+A1 Wenyin,Liu
+A1 Chen,Zheng
+A1 Lin,Fan
+A1 Zhang,Hongjiang
+A1 Ma,Wei-Ying
+T1 Ubiquitous Media Agents: A Framework for Managing Personally Accumulated Multimedia Files1
+
+RT Journal Article
+ID 3718223
+A1 Xing,Xie
+A1 Wenyin,Liu
+A1 Zhang,Hong-Jiang
+A1 Yang,Yudong
+T1 Section-Based Filtering and Its Application to SearchFilter
+
+RT Journal Article
+ID 6855415
+A1 He,Jingrui
+A1 Li,Mingjing
+A1 Zhang,Hong-Jiang
+A1 Tong,Hanghang
+A1 Zhang,Changshui
+T1 Mean Version Space: a New Active Learning Method for Content-Based Image Retrieval
+
+RT Journal Article
+ID 11328926
+A1 Yang,Jun
+A1 Wenyin,Liu
+A1 Zhang,Hongjiang
+A1 Zhuang,Yueting
+T1 A Systematic Approach to Semantics-Based Image Retrieval and Organization Using Thesaurus1
+
+RT Journal Article
+ID 12767266
+A1 Zhong,SU
+A1 Shao-Ping,MA
+A1 Hong-Jiang,ZHANG
+T1 Feature Subspaces Extraction for Content-Based Image Retrieval
+
+RT Journal Article
+ID 12877059
+A1 Wang,Yongmei,Michelle
+A1 Zhang,Hongjiang
+T1 Detecting image orientation based on low-level visual content

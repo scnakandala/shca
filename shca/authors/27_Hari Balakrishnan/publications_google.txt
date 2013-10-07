@@ -1,0 +1,3426 @@
+<file>
+<record>
+<title>Chord: A scalable peer-to-peer lookup service for internet applications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;citation_for_view=Qf4bw4UAAAAJ:u5HHmVD_uO8C</link>
+<authors>I Stoica, R Morris, D Karger, MF Kaashoek, H Balakrishnan</authors>
+<source>ACM SIGCOMM Computer Communication Review 31 (4), 149-160</source>
+<citations>10904</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Energy-efficient communication protocol for wireless microsensor networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;citation_for_view=Qf4bw4UAAAAJ:u-x6o8ySG0sC</link>
+<authors>WR Heinzelman, A Chandrakasan, H Balakrishnan</authors>
+<source>System Sciences, 2000. Proceedings of the 33rd Annual Hawaii International ...</source>
+<citations>9610</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>An application-specific protocol architecture for wireless microsensor networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;citation_for_view=Qf4bw4UAAAAJ:pS0ncopqnHgC</link>
+<authors>WB Heinzelman, AP Chandrakasan, H Balakrishnan</authors>
+<source>Wireless Communications, IEEE Transactions on 1 (4), 660-670</source>
+<citations>5808</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>The cricket location-support system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;citation_for_view=Qf4bw4UAAAAJ:9yKSN-GCB0IC</link>
+<authors>NB Priyantha, A Chakraborty, H Balakrishnan</authors>
+<source>Proceedings of the 6th annual international conference on Mobile computing ...</source>
+<citations>3426</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Chord: a scalable peer-to-peer lookup protocol for internet applications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;citation_for_view=Qf4bw4UAAAAJ:UeHWp8X0CEIC</link>
+<authors>I Stoica, R Morris, D Liben-Nowell, DR Karger, MF Kaashoek, F Dabek, H ...</authors>
+<source>Networking, IEEE/ACM Transactions on 11 (1), 17-32</source>
+<citations>2816</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Span: An energy-efficient coordination algorithm for topology maintenance in ad hoc wireless networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;citation_for_view=Qf4bw4UAAAAJ:2osOgNQ5qMEC</link>
+<authors>B Chen, K Jamieson, H Balakrishnan, R Morris</authors>
+<source>Wireless networks 8 (5), 481-494</source>
+<citations>2497</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Adaptive protocols for information dissemination in wireless sensor networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;citation_for_view=Qf4bw4UAAAAJ:qjMakFHDy7sC</link>
+<authors>WR Heinzelman, J Kulik, H Balakrishnan</authors>
+<source>Proceedings of the 5th annual ACM/IEEE international conference on Mobile ...</source>
+<citations>2452</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Resilient overlay networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;citation_for_view=Qf4bw4UAAAAJ:IjCSPb-OGe4C</link>
+<authors>D Andersen, H Balakrishnan, F Kaashoek, R Morris</authors>
+<source>ACM SIGOPS Operating Systems Review 35 (5), 131-145</source>
+<citations>2122</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>A comparison of mechanisms for improving TCP performance over wireless links</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;citation_for_view=Qf4bw4UAAAAJ:zYLM7Y9cAGgC</link>
+<authors>H Balakrishnan, VN Padmanabhan, S Seshan, RH Katz</authors>
+<source>Networking, IEEE/ACM Transactions on 5 (6), 756-769</source>
+<citations>1459</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>OpenFlow: enabling innovation in campus networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;citation_for_view=Qf4bw4UAAAAJ:5nxA0vEk-isC</link>
+<authors>N McKeown, T Anderson, H Balakrishnan, G Parulkar, L Peterson, J Rexford, S ...</authors>
+<source>ACM SIGCOMM Computer Communication Review 38 (2), 69-74</source>
+<citations>1266</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Negotiation-based protocols for disseminating information in wireless sensor networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;citation_for_view=Qf4bw4UAAAAJ:W7OEmFMy1HYC</link>
+<authors>J Kulik, W Heinzelman, H Balakrishnan</authors>
+<source>Wireless Networks 8 (2/3), 169-185</source>
+<citations>1047</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Improving TCP/IP performance over wireless networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;citation_for_view=Qf4bw4UAAAAJ:Tyk-4Ss8FVUC</link>
+<authors>H Balakrishnan, S Seshan, E Amir, RH Katz</authors>
+<source>MobiCom 95, 2-11</source>
+<citations>990</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Improving reliable transport and handoff performance in cellular wireless networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;citation_for_view=Qf4bw4UAAAAJ:Y0pCki6q_DkC</link>
+<authors>H Balakrishnan, S Seshan, RH Katz</authors>
+<source>Wireless Networks 1 (4), 469-481</source>
+<citations>911</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Interconnections: bridges, routers, switches, and internetworking protocols</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;citation_for_view=Qf4bw4UAAAAJ:U_HPUtbDl20C</link>
+<authors>R Pearlman</authors>
+<source>Pearson Education, London</source>
+<citations>871</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>The design and implementation of an intentional naming system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;citation_for_view=Qf4bw4UAAAAJ:vRqMK49ujn8C</link>
+<authors>W Adjie-Winoto, E Schwartz, H Balakrishnan, J Lilley</authors>
+<source>ACM SIGOPS Operating Systems Review 33 (5), 186-201</source>
+<citations>854</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Application-specific protocol architectures for wireless networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;citation_for_view=Qf4bw4UAAAAJ:d1gkVwhDpl0C</link>
+<authors>WB Heinzelman</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations>837</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Looking up data in P2P systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;citation_for_view=Qf4bw4UAAAAJ:eQOLeE2rZwMC</link>
+<authors>H Balakrishnan, MF Kaashoek, D Karger, R Morris, I Stoica</authors>
+<source>Communications of the ACM 46 (2), 43-48</source>
+<citations>766</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>An end-to-end approach to host mobility</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;citation_for_view=Qf4bw4UAAAAJ:WF5omc3nYNoC</link>
+<authors>AC Snoeren, H Balakrishnan</authors>
+<source>Proceedings of the 6th annual international conference on Mobile computing ...</source>
+<citations>704</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>CarTel: a distributed mobile sensor computing system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;citation_for_view=Qf4bw4UAAAAJ:roLk4NBRz8UC</link>
+<authors>B Hull, V Bychkovsky, Y Zhang, K Chen, M Goraczko, A Miu, E Shih, H ...</authors>
+<source>Proceedings of the 4th international conference on Embedded networked sensor ...</source>
+<citations>687</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>The cricket compass for context-aware mobile applications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;citation_for_view=Qf4bw4UAAAAJ:_FxGoFyzp5QC</link>
+<authors>NB Priyantha, AKL Miu, H Balakrishnan, S Teller</authors>
+<source>Proceedings of the 7th annual international conference on Mobile computing ...</source>
+<citations>619</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Fast portscan detection using sequential hypothesis testing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=20&amp;citation_for_view=Qf4bw4UAAAAJ:LkGwnXOMwfcC</link>
+<authors>J Jung, V Paxson, AW Berger, H Balakrishnan</authors>
+<source>Security and Privacy, 2004. Proceedings. 2004 IEEE Symposium on, 211-225</source>
+<citations>618</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>A comparison of mechanisms for improving TCP performance over wireless links</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=20&amp;citation_for_view=Qf4bw4UAAAAJ:ufrVoPGSRksC</link>
+<authors>H Balakrishnan, VN Padmanabhan, S Seshan, RH Katz</authors>
+<source>ACM SIGCOMM Computer Communication Review 26 (4), 256-269</source>
+<citations>561</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Mitigating congestion in wireless sensor networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=20&amp;citation_for_view=Qf4bw4UAAAAJ:hqOjcs7Dif8C</link>
+<authors>B Hull, K Jamieson, H Balakrishnan</authors>
+<source>Proceedings of the 2nd international conference on Embedded networked sensor ...</source>
+<citations>560</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Binomial congestion control algorithms</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=20&amp;citation_for_view=Qf4bw4UAAAAJ:Se3iqnhoufwC</link>
+<authors>D Bansal, H Balakrishnan</authors>
+<source>INFOCOM 2001. Twentieth Annual Joint Conference of the IEEE Computer and ...</source>
+<citations>482</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Analysis of the evolution of peer-to-peer systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=20&amp;citation_for_view=Qf4bw4UAAAAJ:UebtZRa9Y70C</link>
+<authors>D Liben-Nowell, H Balakrishnan, D Karger</authors>
+<source>Proceedings of the twenty-first annual symposium on Principles of ...</source>
+<citations>480</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Anchor-free distributed localization in sensor networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=20&amp;citation_for_view=Qf4bw4UAAAAJ:3fE2CSJIrl8C</link>
+<authors>NB Priyantha, H Balakrishnan, E Demaine, S Teller</authors>
+<source>Proceedings of the 1st international conference on Embedded networked sensor ...</source>
+<citations>466</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>The effects of asymmetry on TCP performance</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=20&amp;citation_for_view=Qf4bw4UAAAAJ:0EnyYjriUFMC</link>
+<authors>H Balakrishnan, VN Padmanabhan, RH Katz</authors>
+<source>Mobile Networks and Applications 4 (3), 219-241</source>
+<citations>453</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Scalable Distributed Stream Processing.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=20&amp;citation_for_view=Qf4bw4UAAAAJ:kNdYIx-mwKoC</link>
+<authors>M Cherniack, H Balakrishnan, M Balazinska, D Carney, U Cetintemel, Y Xing ...</authors>
+<source>CIDR 3, 257-268</source>
+<citations>409</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>An integrated congestion management architecture for Internet hosts</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=20&amp;citation_for_view=Qf4bw4UAAAAJ:MXK_kJrjxJIC</link>
+<authors>H Balakrishnan, HS Rahul, S Seshan</authors>
+<source>ACM SIGCOMM Computer Communication Review 29 (4), 175-187</source>
+<citations>407</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>A measurement study of vehicular internet access using in situ Wi-Fi networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=20&amp;citation_for_view=Qf4bw4UAAAAJ:4DMP91E08xMC</link>
+<authors>V Bychkovsky, B Hull, A Miu, H Balakrishnan, S Madden</authors>
+<source>Proceedings of the 12th annual international conference on Mobile computing ...</source>
+<citations>404</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Explicit loss notification and wireless web performance</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=20&amp;citation_for_view=Qf4bw4UAAAAJ:8k81kl-MbHgC</link>
+<authors>H Balakrishnan, RH Katz</authors>
+<source>Proc. IEEE Globecom 98</source>
+<citations>393</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>DNS Performance and the Effectiveness of Caching</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=20&amp;citation_for_view=Qf4bw4UAAAAJ:Zph67rFs4hoC</link>
+<authors>J Jung, E Sit, H Balakrishnan, R Morris</authors>
+<source>Networking, IEEE/ACM Transactions on 10 (5), 589-603</source>
+<citations>380</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Tracking moving devices with the cricket location system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=20&amp;citation_for_view=Qf4bw4UAAAAJ:_kc_bZDykSQC</link>
+<authors>A Smith, H Balakrishnan, M Goraczko, N Priyantha</authors>
+<source>Proceedings of the 2nd international conference on Mobile systems ...</source>
+<citations>375</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Minimizing energy for wireless web access with bounded slowdown</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=20&amp;citation_for_view=Qf4bw4UAAAAJ:ULOm3_A8WrAC</link>
+<authors>R Krashinsky, H Balakrishnan</authors>
+<source>Wireless Networks 11 (1-2), 135-148</source>
+<citations>365</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>A layered naming architecture for the Internet</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=20&amp;citation_for_view=Qf4bw4UAAAAJ:4TOpqqG69KYC</link>
+<authors>H Balakrishnan, K Lakshminarayanan, S Ratnasamy, S Shenker, I Stoica, M Walfish</authors>
+<source>ACM SIGCOMM Computer Communication Review 34 (4), 343-352</source>
+<citations>333</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>TCP behavior of a busy Internet server: Analysis and improvements</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=20&amp;citation_for_view=Qf4bw4UAAAAJ:KlAtU1dfN6UC</link>
+<authors>H Balakrishnan, VN Padmanabhan, S Seshan, M Stemm, RH Katz</authors>
+<source>INFOCOM'98. Seventeenth Annual Joint Conference of the IEEE Computer and ...</source>
+<citations>329</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>INS/Twine: A scalable peer-to-peer architecture for intentional resource discovery</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=20&amp;citation_for_view=Qf4bw4UAAAAJ:YOwf2qJgpHMC</link>
+<authors>M Balazinska, H Balakrishnan, D Karger</authors>
+<source>Pervasive Computing, 195-210</source>
+<citations>324</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Cutting the electric bill for internet-scale systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=20&amp;citation_for_view=Qf4bw4UAAAAJ:k_IJM867U9cC</link>
+<authors>A Qureshi, R Weber, H Balakrishnan, J Guttag, B Maggs</authors>
+<source>ACM SIGCOMM Computer Communication Review 39 (4), 123-134</source>
+<citations>321</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Sift: A MAC protocol for event-driven wireless sensor networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=20&amp;citation_for_view=Qf4bw4UAAAAJ:mVmsd5A6BfQC</link>
+<authors>K Jamieson, H Balakrishnan, YC Tay</authors>
+<source>Wireless Sensor Networks, 260-275</source>
+<citations>301</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>An analysis of short-term fairness in wireless media access protocols (poster session)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=20&amp;citation_for_view=Qf4bw4UAAAAJ:qxL8FJ1GzNcC</link>
+<authors>CE Koksal, H Kassab, H Balakrishnan</authors>
+<source>ACM SIGMETRICS Performance Evaluation Review 28 (1), 118-119</source>
+<citations>299</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Cabernet: vehicular content delivery using WiFi</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=40&amp;citation_for_view=Qf4bw4UAAAAJ:hC7cP41nSMkC</link>
+<authors>J Eriksson, H Balakrishnan, S Madden</authors>
+<source>Proceedings of the 14th ACM international conference on Mobile computing and ...</source>
+<citations>282</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Enhancing TCPs loss recovery using limited transmit</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=40&amp;citation_for_view=Qf4bw4UAAAAJ:aqlVkmm33-oC</link>
+<authors>M Allman, H Balakrishnan, S Floyd</authors>
+<source>RFc 3042, January</source>
+<citations>280</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Building peer-to-peer systems with Chord, a distributed lookup service</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=40&amp;citation_for_view=Qf4bw4UAAAAJ:Wp0gIr-vW9MC</link>
+<authors>F Dabek, E Brunskill, MF Kaashoek, D Karger, R Morris, I Stoica, H Balakrishnan</authors>
+<source>Hot Topics in Operating Systems, 2001. Proceedings of the Eighth Workshop on ...</source>
+<citations>279</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Mobile-assisted localization in wireless sensor networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=40&amp;citation_for_view=Qf4bw4UAAAAJ:7PzlFSSx8tAC</link>
+<authors>NB Priyantha, H Balakrishnan, ED Demaine, S Teller</authors>
+<source>INFOCOM 2005. 24th Annual Joint Conference of the IEEE Computer and ...</source>
+<citations>257</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>OverQoS: An Overlay Based Architecture for Enhancing Internet QoS.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=40&amp;citation_for_view=Qf4bw4UAAAAJ:QIV2ME_5wuYC</link>
+<authors>L Subramanian, I Stoica, H Balakrishnan, RH Katz</authors>
+<source>NSDI 4, 6</source>
+<citations>246</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>A network architecture for heterogeneous mobile computing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=40&amp;citation_for_view=Qf4bw4UAAAAJ:M3ejUd6NZC8C</link>
+<authors>EA Brewer, RH Katz, Y Chawathe, SD Gribble, T Hodes, G Nguyen, M Stemm, T ...</authors>
+<source>Personal Communications, IEEE 5 (5), 8-24</source>
+<citations>244</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>The pothole patrol: using a mobile sensor network for road surface monitoring</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=40&amp;citation_for_view=Qf4bw4UAAAAJ:YFjsv_pBGBYC</link>
+<authors>J Eriksson, L Girod, B Hull, R Newton, S Madden, H Balakrishnan</authors>
+<source>Proceedings of the 6th international conference on Mobile systems ...</source>
+<citations>242</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Detecting BGP configuration faults with static analysis</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=40&amp;citation_for_view=Qf4bw4UAAAAJ:IWHjjKOFINEC</link>
+<authors>N Feamster, H Balakrishnan</authors>
+<source>Proceedings of the 2nd conference on Symposium on Networked Systems Design ...</source>
+<citations>234</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Dynamic behavior of slowly-responsive congestion control algorithms</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=40&amp;citation_for_view=Qf4bw4UAAAAJ:9ZlFYXVOiuMC</link>
+<authors>D Bansal, H Balakrishnan, S Floyd, S Shenker</authors>
+<source>ACM SIGCOMM Computer Communication Review 31 (4), 263-274</source>
+<citations>227</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>The case for separating routing from routers</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=40&amp;citation_for_view=Qf4bw4UAAAAJ:ZeXyd9-uunAC</link>
+<authors>N Feamster, H Balakrishnan, J Rexford, A Shaikh, J Van Der Merwe</authors>
+<source>Proceedings of the ACM SIGCOMM workshop on Future directions in network ...</source>
+<citations>226</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Savage S, et a1</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=40&amp;citation_for_view=Qf4bw4UAAAAJ:SGW5VrABaM0C</link>
+<authors>D Moore, V Paxson</authors>
+<source>Inside t he Slammer Wor m Secur ity 1 (4), 33-39</source>
+<citations>224</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Handoffs in cellular wireless networks: The Daedalus implementation and experience</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=40&amp;citation_for_view=Qf4bw4UAAAAJ:dhFuZR0502QC</link>
+<authors>S Seshan, H Balakrishnan, RH Katz</authors>
+<source>Wireless Personal Communications 4 (2), 141-162</source>
+<citations>216</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Collision-minimizing CSMA and its applications to wireless sensor networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=40&amp;citation_for_view=Qf4bw4UAAAAJ:hFOr9nPyWt4C</link>
+<authors>YC Tay, K Jamieson, H Balakrishnan</authors>
+<source>Selected Areas in Communications, IEEE Journal on 22 (6), 1048-1057</source>
+<citations>215</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>VTrack: accurate, energy-aware road traffic delay estimation using mobile phones</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=40&amp;citation_for_view=Qf4bw4UAAAAJ:zA6iFVUQeVQC</link>
+<authors>A Thiagarajan, L Ravindranath, K LaCurts, S Madden, H Balakrishnan, S Toledo ...</authors>
+<source>Proceedings of the 7th ACM Conference on Embedded Networked Sensor Systems ...</source>
+<citations>212</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Accountable internet protocol (aip)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=40&amp;citation_for_view=Qf4bw4UAAAAJ:iH-uZ7U-co4C</link>
+<authors>DG Andersen, H Balakrishnan, N Feamster, T Koponen, D Moon, S Shenker</authors>
+<source>ACM SIGCOMM Computer Communication Review 38 (4), 339-350</source>
+<citations>212</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Improving loss resilience with multi-radio diversity in wireless networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=40&amp;citation_for_view=Qf4bw4UAAAAJ:TQgYirikUcIC</link>
+<authors>A Miu, H Balakrishnan, CE Koksal</authors>
+<source>Proceedings of the 11th annual international conference on Mobile computing ...</source>
+<citations>207</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Fault-tolerance in the Borealis distributed stream processing system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=40&amp;citation_for_view=Qf4bw4UAAAAJ:e5wmG9Sq2KIC</link>
+<authors>M Balazinska, H Balakrishnan, SR Madden, M Stonebraker</authors>
+<source>ACM Transactions on Database Systems (TODS) 33 (1), 3</source>
+<citations>198</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Symbol-level network coding for wireless mesh networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=40&amp;citation_for_view=Qf4bw4UAAAAJ:BqipwSGYUEgC</link>
+<authors>S Katti, D Katabi, H Balakrishnan, M Medard</authors>
+<source>ACM SIGCOMM Computer Communication Review 38 (4), 401-412</source>
+<citations>195</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Analyzing stability in wide-area network performance</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=40&amp;citation_for_view=Qf4bw4UAAAAJ:qUcmZB5y_30C</link>
+<authors>H Balakrishnan, M Stemm, S Seshan, RH Katz</authors>
+<source>ACM SIGMETRICS Performance Evaluation Review 25 (1), 2-12</source>
+<citations>184</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>Quality-aware routing metrics for time-varying wireless mesh networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=40&amp;citation_for_view=Qf4bw4UAAAAJ:4JMBOYKVnBMC</link>
+<authors>CE Koksal, H Balakrishnan</authors>
+<source>Selected Areas in Communications, IEEE Journal on 24 (11), 1984-1994</source>
+<citations>178</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>PPR: Partial packet recovery for wireless networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=60&amp;citation_for_view=Qf4bw4UAAAAJ:blknAaTinKkC</link>
+<authors>K Jamieson, H Balakrishnan</authors>
+<source>ACM SIGCOMM Computer Communication Review 37 (4), 409-420</source>
+<citations>176</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Best-path vs. multi-path overlay routing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=60&amp;citation_for_view=Qf4bw4UAAAAJ:-f6ydRqryjwC</link>
+<authors>DG Andersen, AC Snoeren, H Balakrishnan</authors>
+<source>Proceedings of the 3rd ACM SIGCOMM conference on Internet measurement, 91-100</source>
+<citations>176</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Middleboxes No Longer Considered Harmful.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=60&amp;citation_for_view=Qf4bw4UAAAAJ:j3f4tGmQtD8C</link>
+<authors>M Walfish, J Stribling, MN Krohn, H Balakrishnan, R Morris, S Shenker</authors>
+<source>OSDI 4, 15-15</source>
+<citations>173</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Cross-layer wireless bit rate adaptation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=60&amp;citation_for_view=Qf4bw4UAAAAJ:ldfaerwXgEUC</link>
+<authors>M Vutukuru, H Balakrishnan, K Jamieson</authors>
+<source>ACM SIGCOMM Computer Communication Review 39 (4), 3-14</source>
+<citations>171</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Measuring the effects of internet path faults on reactive routing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=60&amp;citation_for_view=Qf4bw4UAAAAJ:_Qo2XoVZTnwC</link>
+<authors>N Feamster, DG Andersen, H Balakrishnan, MF Kaashoek</authors>
+<source>ACM SIGMETRICS Performance Evaluation Review 31 (1), 126-137</source>
+<citations>171</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>OverQoS: offering internet QoS using overlays</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=60&amp;citation_for_view=Qf4bw4UAAAAJ:mB3voiENLucC</link>
+<authors>L Subramanian, I Stoica, H Balakrishnan, RH Katz</authors>
+<source>ACM SIGCOMM Computer Communication Review 33 (1), 11-16</source>
+<citations>170</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>DDoS defense by offense</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=60&amp;citation_for_view=Qf4bw4UAAAAJ:isC4tDSrTZIC</link>
+<authors>M Walfish, M Vutukuru, H Balakrishnan, D Karger, S Shenker</authors>
+<source>ACM SIGCOMM Computer Communication Review 36 (4), 303-314</source>
+<citations>168</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>File system logging versus clustering: A performance comparison</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=60&amp;citation_for_view=Qf4bw4UAAAAJ:HDshCWvjkbEC</link>
+<authors>M Seltzer, KA Smith, H Balakrishnan, J Chang, S McMains, V Padmanabhan</authors>
+<source>Proceedings of the USENIX 1995 Technical Conference Proceedings, 21-21</source>
+<citations>167</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Packet loss recovery for streaming video</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=60&amp;citation_for_view=Qf4bw4UAAAAJ:RHpTSmoSYBkC</link>
+<authors>N Feamster, H Balakrishnan</authors>
+<source>12th International Packet Video Workshop, 9-16</source>
+<citations>160</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Fine-Grained Failover Using Connection Migration.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=60&amp;citation_for_view=Qf4bw4UAAAAJ:R3hNpaxXUhUC</link>
+<authors>AC Snoeren, DG Andersen, H Balakrishnan</authors>
+<source>USITS 1, 19-19</source>
+<citations>154</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Untangling the Web from DNS</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=60&amp;citation_for_view=Qf4bw4UAAAAJ:bEWYMUwI8FkC</link>
+<authors>M Walfisha, H Balakrishnana, S Shenkerb</authors>
+<source>Networked System Design and Implementation (NSDI)</source>
+<citations>153</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>The case for resilient overlay networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=60&amp;citation_for_view=Qf4bw4UAAAAJ:r0BpntZqJG4C</link>
+<authors>DG Andersen, H Balakrishnan, MF Kaashoek, R Morris</authors>
+<source>Hot Topics in Operating Systems, 2001. Proceedings of the Eighth Workshop on ...</source>
+<citations>149</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Contract-Based Load Management in Federated Distributed Systems.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=60&amp;citation_for_view=Qf4bw4UAAAAJ:GnPB-g6toBAC</link>
+<authors>M Balazinska, H Balakrishnan, M Stonebraker</authors>
+<source>NSDI 4, 15-15</source>
+<citations>143</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>The distance-2 matching problem and its relationship to the MAC-layer capacity of ad hoc wireless networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=60&amp;citation_for_view=Qf4bw4UAAAAJ:RGFaLdJalmkC</link>
+<authors>H Balakrishnan, CL Barrett, VSA Kumar, MV Marathe, S Thite</authors>
+<source>Selected Areas in Communications, IEEE Journal on 22 (6), 1069-1079</source>
+<citations>139</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Reconsidering internet mobility</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=60&amp;citation_for_view=Qf4bw4UAAAAJ:maZDTaKrznsC</link>
+<authors>AC Snoeren, H Balakrishnan, MF Kaashoek</authors>
+<source>Hot Topics in Operating Systems, 2001. Proceedings of the Eighth Workshop on ...</source>
+<citations>137</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>The aurora and medusa projects</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=60&amp;citation_for_view=Qf4bw4UAAAAJ:M3NEmzRMIkIC</link>
+<authors>U Cetintemel</authors>
+<source>Data Engineering 51, 3</source>
+<citations>136</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Retrospective on aurora</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=60&amp;citation_for_view=Qf4bw4UAAAAJ:O3NaXMp0MMsC</link>
+<authors>H Balakrishnan, M Balazinska, D Carney, U Çetintemel, M Cherniack, C Convey ...</authors>
+<source>The VLDB Journal 13 (4), 370-383</source>
+<citations>135</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Understanding the real-world performance of carrier sense</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=60&amp;citation_for_view=Qf4bw4UAAAAJ:NMxIlDl6LWMC</link>
+<authors>K Jamieson, B Hull, A Miu, H Balakrishnan</authors>
+<source>Proceedings of the 2005 ACM SIGCOMM workshop on Experimental approaches to ...</source>
+<citations>134</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Forming scatternets from bluetooth personal area networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=60&amp;citation_for_view=Qf4bw4UAAAAJ:ns9cj8rnVeAC</link>
+<authors>G Tan, A Miu, J Guttag, H Balakrishnan</authors>
+<source>Massachusetts Institute of Techonology, http://lcs. mit. edu/, Tech. Rep ...</source>
+<citations>123</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>TCP performance implications of network path asymmetry</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=60&amp;citation_for_view=Qf4bw4UAAAAJ:J_g5lzvAfSwC</link>
+<authors>H Balakrishnan, VN Padmanabhan, G Fairhurst, M Sooriyabandara</authors>
+<source>RFC 3449, Internet Engineering Task Force</source>
+<citations>120</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Efficient TCP over networks with wireless links</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=80&amp;citation_for_view=Qf4bw4UAAAAJ:hMod-77fHWUC</link>
+<authors>E Amir, H Balakrishnan, S Seshan, RH Katz</authors>
+<source>Hot Topics in Operating Systems, 1995.(HotOS-V), Proceedings., Fifth ...</source>
+<citations>119</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Relational cloud: A database-as-a-service for the cloud</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=80&amp;citation_for_view=Qf4bw4UAAAAJ:eJXPG6dFmWUC</link>
+<authors>C Curino, EPC Jones, RA Popa, N Malviya, E Wu, SR Madden, H Balakrishnan, N ...</authors>
+<source></source>
+<citations>117</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>System support for bandwidth management and content adaptation in Internet applications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=80&amp;citation_for_view=Qf4bw4UAAAAJ:JV2RwH3_ST0C</link>
+<authors>D Andersen, D Bansal, D Curtis, S Seshan, H Balakrishnan</authors>
+<source>Proceedings of the 4th conference on Symposium on Operating System Design ...</source>
+<citations>117</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>How network asymmetry affects TCP</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=80&amp;citation_for_view=Qf4bw4UAAAAJ:RYcK_YlVTxYC</link>
+<authors>H Balakrishnan, VN Padmanabhan</authors>
+<source>Communications Magazine, IEEE 39 (4), 60-67</source>
+<citations>116</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>TCP-friendly congestion control for real-time streaming applications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=80&amp;citation_for_view=Qf4bw4UAAAAJ:NaGl4SEjCO4C</link>
+<authors>D Bansal, H Balakrishnan</authors>
+<source>Proc. of INFOCOM00</source>
+<citations>116</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Memento: A health monitoring system for wireless sensor networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=80&amp;citation_for_view=Qf4bw4UAAAAJ:HoB7MX3m0LUC</link>
+<authors>S Rost, H Balakrishnan</authors>
+<source>Sensor and Ad Hoc Communications and Networks, 2006. SECON'06. 2006 3rd ...</source>
+<citations>110</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Towards a streaming SQL standard</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=80&amp;citation_for_view=Qf4bw4UAAAAJ:4OULZ7Gr8RgC</link>
+<authors>N Jain, S Mishra, A Srinivasan, J Gehrke, J Widom, H Balakrishnan, U ...</authors>
+<source>Proceedings of the VLDB Endowment 1 (2), 1379-1390</source>
+<citations>109</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Remote monitoring and control of equipment over computer networks using a single web interfacing chip</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=80&amp;citation_for_view=Qf4bw4UAAAAJ:2P1L_qKh6hAC</link>
+<authors>S Narasimhan, C Allred, M Stemm, H Balakrishnan</authors>
+<source>US Patent 6,446,192</source>
+<citations>109</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Infranet: Circumventing Web Censorship and Surveillance.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=80&amp;citation_for_view=Qf4bw4UAAAAJ:3s1wT3WcHBgC</link>
+<authors>N Feamster, M Balazinska, G Harfst, H Balakrishnan, DR Karger</authors>
+<source>USENIX Security Symposium, 247-262</source>
+<citations>106</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>An efficient scatternet formation algorithm for dynamic environments</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=80&amp;citation_for_view=Qf4bw4UAAAAJ:lSLTfruPkqcC</link>
+<authors>G Tan, A Miu, J Guttag, H Balakrishnan</authors>
+<source>Proceedings of the IASTED Communications and Computer Networks (CCN), 4-6</source>
+<citations>104</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Challenges to reliable data transport over heterogeneous wireless networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=80&amp;citation_for_view=Qf4bw4UAAAAJ:70eg2SAEIzsC</link>
+<authors>H Balakrishnan, RH Katz</authors>
+<source>University of California, Berkeley</source>
+<citations>104</citations>
+<pub_year>1998</pub_year>
+</record>
+<record>
+<title>On the interactions between layered quality adaptation and congestion control for streaming video</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=80&amp;citation_for_view=Qf4bw4UAAAAJ:35N4QoGY0k4C</link>
+<authors>N Feamster, D Bansal, H Balakrishnan</authors>
+<source>11th International Packet Video Workshop</source>
+<citations>102</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>The bay area research wireless access network (barwan)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=80&amp;citation_for_view=Qf4bw4UAAAAJ:vV6vV6tmYwMC</link>
+<authors>RH Katz, EA Brewer, E Amir, H Balakrishnan, A Fox, S Gribble, T Hodes, D ...</authors>
+<source>Compcon'96.'Technologies for the Information Superhighway'Digest of Papers ...</source>
+<citations>102</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Harnessing Exposed Terminals in Wireless Networks.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=80&amp;citation_for_view=Qf4bw4UAAAAJ:rO6llkc54NcC</link>
+<authors>M Vutukuru, K Jamieson, H Balakrishnan</authors>
+<source>NSDI 3 (1), 3.3</source>
+<citations>96</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>The congestion manager</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=80&amp;citation_for_view=Qf4bw4UAAAAJ:M05iB0D1s5AC</link>
+<authors>H Balakrishnan, S Seshan</authors>
+<source></source>
+<citations>96</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Geographic locality of IP prefixes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=80&amp;citation_for_view=Qf4bw4UAAAAJ:ZHo1McVdvXMC</link>
+<authors>MJ Freedman, M Vutukuru, N Feamster, H Balakrishnan</authors>
+<source>Proceedings of the 5th ACM SIGCOMM conference on Internet Measurement, 13-13</source>
+<citations>92</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Lessons from developing and deploying the cricket indoor location system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=80&amp;citation_for_view=Qf4bw4UAAAAJ:SeFeTyx0c_EC</link>
+<authors>H Balakrishnan, R Baliga, D Curtis, M Goraczko, A Miu, NB Priyantha, A Smith ...</authors>
+<source>Preprint</source>
+<citations>89</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Topology inference from BGP routing dynamics</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=80&amp;citation_for_view=Qf4bw4UAAAAJ:g5m5HwL7SMYC</link>
+<authors>DG Andersen, N Feamster, S Bauer, H Balakrishnan</authors>
+<source>Proceedings of the 2nd ACM SIGCOMM Workshop on Internet measurment, 243-248</source>
+<citations>89</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Observations on the dynamic evolution of peer-to-peer networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=80&amp;citation_for_view=Qf4bw4UAAAAJ:pqnbT2bcN3wC</link>
+<authors>D Liben-Nowell, H Balakrishnan, D Karger</authors>
+<source>Peer-to-Peer Systems, 22-33</source>
+<citations>89</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>CryptDB: protecting confidentiality with encrypted query processing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=80&amp;citation_for_view=Qf4bw4UAAAAJ:2VqYfGB8ITEC</link>
+<authors>RA Popa, C Redfield, N Zeldovich, H Balakrishnan</authors>
+<source>Proceedings of the Twenty-Third ACM Symposium on Operating Systems ...</source>
+<citations>87</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Some foundational problems in interdomain routing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=100&amp;citation_for_view=Qf4bw4UAAAAJ:u_35RYKgDlwC</link>
+<authors>N Feamster, H Balakrishnan, J Rexford</authors>
+<source>Proceedings of Third Workshop on Hot Topics in Networks (HotNets-III)</source>
+<citations>77</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Implications of autonomy for the expressiveness of policy routing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=100&amp;citation_for_view=Qf4bw4UAAAAJ:fPk4N6BV_jEC</link>
+<authors>N Feamster, R Johari, H Balakrishnan</authors>
+<source>ACM SIGCOMM Computer Communication Review 35 (4), 25-36</source>
+<citations>75</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Integrated routing and storage for messaging applications in mobile ad hoc networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=100&amp;citation_for_view=Qf4bw4UAAAAJ:cFHS6HbyZ2cC</link>
+<authors>D Nain, N Petigara, H Balakrishnan</authors>
+<source>Mobile Networks and Applications 9 (6), 595-604</source>
+<citations>75</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Divert: fine-grained path selection for wireless LANs</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=100&amp;citation_for_view=Qf4bw4UAAAAJ:yD5IFk8b50cC</link>
+<authors>A Miu, G Tan, H Balakrishnan, J Apostolopoulos</authors>
+<source>Proceedings of the 2nd international conference on Mobile systems ...</source>
+<citations>69</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>VPriv: Protecting Privacy in Location-Based Vehicular Services.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=100&amp;citation_for_view=Qf4bw4UAAAAJ:tS2w5q8j5-wC</link>
+<authors>RA Popa, H Balakrishnan, AJ Blumberg</authors>
+<source>USENIX security symposium, 335-350</source>
+<citations>62</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Modeling TTL-based Internet caches</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=100&amp;citation_for_view=Qf4bw4UAAAAJ:D03iK_w7-QYC</link>
+<authors>J Jung, AW Berger, H Balakrishnan</authors>
+<source>INFOCOM 2003. Twenty-Second Annual Joint Conference of the IEEE Computer and ...</source>
+<citations>62</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Workload-aware database monitoring and consolidation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=100&amp;citation_for_view=Qf4bw4UAAAAJ:9Nmd_mFXekcC</link>
+<authors>C Curino, EPC Jones, S Madden, H Balakrishnan</authors>
+<source>Proceedings of the 2011 ACM SIGMOD International Conference on Management of ...</source>
+<citations>60</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Improving web availability for clients with MONET</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=100&amp;citation_for_view=Qf4bw4UAAAAJ:a0OBvERweLwC</link>
+<authors>DG Andersen, H Balakrishnan, MF Kaashoek, RN Rao</authors>
+<source>Proceedings of the 2nd conference on Symposium on Networked Systems Design ...</source>
+<citations>59</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Method for low-energy adaptive clustering hierarchy</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=100&amp;citation_for_view=Qf4bw4UAAAAJ:xtRiw3GOFMkC</link>
+<authors>H Balakrishnan, AP Chandrakasan, WB Heinzelman</authors>
+<source>US Patent 7,035,240</source>
+<citations>56</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Accurate, low-energy trajectory mapping for mobile devices</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=100&amp;citation_for_view=Qf4bw4UAAAAJ:N5tVd3kTz84C</link>
+<authors>A Thiagarajan, L Ravindranath, H Balakrishnan, S Madden, L Girod</authors>
+<source>Proceedings of the 8th USENIX conference on Networked systems design and ...</source>
+<citations>55</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Scheduling aircraft landings under constrained position shifting</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=100&amp;citation_for_view=Qf4bw4UAAAAJ:P5F9QuxV20EC</link>
+<authors>H Balakrishnan, B Chandran</authors>
+<source>AIAA guidance, navigation and control conference and exhibit</source>
+<citations>55</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>ITP: An image transport protocol for the internet</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=100&amp;citation_for_view=Qf4bw4UAAAAJ:tOudhMTPpwUC</link>
+<authors>S Raman, H Balakrishnan, M Srinivasan</authors>
+<source>Networking, IEEE/ACM Transactions on 10 (3), 297-307</source>
+<citations>55</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Tolerating byzantine faults in transaction processing systems using commit barrier scheduling</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=100&amp;citation_for_view=Qf4bw4UAAAAJ:pyW8ca7W8N0C</link>
+<authors>B Vandiver, H Balakrishnan, B Liskov, S Madden</authors>
+<source>ACM SIGOPS Operating Systems Review 41 (6), 59-72</source>
+<citations>52</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Wishbone: Profile-based Partitioning for Sensornet Applications.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=100&amp;citation_for_view=Qf4bw4UAAAAJ:08ZZubdj9fEC</link>
+<authors>R Newton, S Toledo, L Girod, H Balakrishnan, S Madden</authors>
+<source>NSDI 9, 395-408</source>
+<citations>50</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Malware prevalence in the KaZaA file-sharing network</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=100&amp;citation_for_view=Qf4bw4UAAAAJ:f2IySw72cVMC</link>
+<authors>S Shin, J Jung, H Balakrishnan</authors>
+<source>Proceedings of the 6th ACM SIGCOMM conference on Internet measurement, 333-338</source>
+<citations>50</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>A framework for coordinated surface operations planning at Dallas-Fort Worth International Airport</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=100&amp;citation_for_view=Qf4bw4UAAAAJ:sSrBHYA8nusC</link>
+<authors>H Balakrishnan, Y Jung</authors>
+<source>AIAA Guidance, Navigation, and Control Conference, Hilton Head, SC</source>
+<citations>48</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>The CarTel mobile sensor computing system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=100&amp;citation_for_view=Qf4bw4UAAAAJ:K3LRdlH-MEoC</link>
+<authors>V Bychkovsky, K Chen, M Goraczko, H Hu, B Hull, A Miu, E Shih, Y Zhang, H ...</authors>
+<source>Proceedings of the 4th international conference on Embedded networked sensor ...</source>
+<citations>47</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Not-a-Bot: Improving Service Availability in the Face of Botnet Attacks.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=100&amp;citation_for_view=Qf4bw4UAAAAJ:uWQEDVKXjbEC</link>
+<authors>R Gummadi, H Balakrishnan, P Maniatis, S Ratnasamy</authors>
+<source>NSDI 9, 307-320</source>
+<citations>46</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>How to construct a correct and scalable iBGP configuration</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=100&amp;citation_for_view=Qf4bw4UAAAAJ:b0M2c_1WBrUC</link>
+<authors>M Vutukuru, P Valiant, S Kopparty, H Balakrishnan</authors>
+<source></source>
+<citations>45</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Pervasive pose-aware applications and infrastructure</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=100&amp;citation_for_view=Qf4bw4UAAAAJ:bFI3QPDXJZMC</link>
+<authors>S Teller, J Chen, H Balakrishnan</authors>
+<source>Computer Graphics and Applications, IEEE 23 (4), 14-18</source>
+<citations>45</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Xstream: A signal-oriented data stream management system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=120&amp;citation_for_view=Qf4bw4UAAAAJ:CHSYGLWDkRkC</link>
+<authors>L Girod, Y Mei, R Newton, S Rost, A Thiagarajan, H Balakrishnan, S Madden</authors>
+<source>Data Engineering, 2008. ICDE 2008. IEEE 24th International Conference on ...</source>
+<citations>44</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>The case for a signal-oriented data stream management system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=120&amp;citation_for_view=Qf4bw4UAAAAJ:NhqRSupF_l8C</link>
+<authors>L Girod, Y Mei, R Newton, S Rost, A Thiagarajan, H Balakrishnan, S Madden</authors>
+<source>In CIDR</source>
+<citations>44</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Stability analysis of explicit congestion control protocols</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=120&amp;citation_for_view=Qf4bw4UAAAAJ:OU6Ihb5iCvQC</link>
+<authors>H Balakrishnan, N Dukkipati, N McKeown, CJ Tomlin</authors>
+<source>Communications Letters, IEEE 11 (10), 823-825</source>
+<citations>43</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Thwarting web censorship with untrusted messenger discovery</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=120&amp;citation_for_view=Qf4bw4UAAAAJ:WbkHhVStYXYC</link>
+<authors>N Feamster, M Balazinska, W Wang, H Balakrishnan, D Karger</authors>
+<source>Privacy Enhancing Technologies, 125-140</source>
+<citations>41</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Distributed Quota Enforcement for Spam Control.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=120&amp;citation_for_view=Qf4bw4UAAAAJ:_xSYboBqXhAC</link>
+<authors>M Walfish, JD Zamfirescu, H Balakrishnan, DR Karger, S Shenker</authors>
+<source>NSDI</source>
+<citations>40</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Load management and high availability in the medusa distributed stream processing system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=120&amp;citation_for_view=Qf4bw4UAAAAJ:1sJd4Hv_s6UC</link>
+<authors>M Balazinska, H Balakrishnan, M Stonebraker</authors>
+<source>Proceedings of the 2004 ACM SIGMOD international conference on Management of ...</source>
+<citations>40</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Queuing models of airport departure processes for emissions reduction</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=120&amp;citation_for_view=Qf4bw4UAAAAJ:umqufdRvDiIC</link>
+<authors>I Simaiakis, H Balakrishnan</authors>
+<source>AIAA Guidance, Navigation and Control Conference and Exhibit</source>
+<citations>39</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Observability criteria and estimator design for stochastic linear hybrid systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=120&amp;citation_for_view=Qf4bw4UAAAAJ:dshw04ExmUIC</link>
+<authors>I Hwang, H Balakrishnan, C Tomlin</authors>
+<source>Proceedings of the IEE European control conference, 3-2</source>
+<citations>38</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Towards a logic for wide-area Internet routing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=120&amp;citation_for_view=Qf4bw4UAAAAJ:EUQCXRtRnyEC</link>
+<authors>N Feamster, H Balakrishnan</authors>
+<source>ACM SIGCOMM Computer Communication Review 33 (4), 289-300</source>
+<citations>38</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>The impact of false sharing on shared congestion management</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=120&amp;citation_for_view=Qf4bw4UAAAAJ:abG-DnoFyZgC</link>
+<authors>A Akella, S Seshan, H Balakrishnan</authors>
+<source>Network Protocols, 2003. Proceedings. 11th IEEE International Conference on ...</source>
+<citations>37</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Demonstration of reduced airport congestion through pushback rate control</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=120&amp;citation_for_view=Qf4bw4UAAAAJ:ZuybSZzF8UAC</link>
+<authors>I Simaiakis, H Balakrishnan, H Khadilkar, TG Reynolds, RJ Hansman, B Reilly ...</authors>
+<source></source>
+<citations>34</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>A session-based architecture for internet mobility</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=120&amp;citation_for_view=Qf4bw4UAAAAJ:IRz6iEL74y4C</link>
+<authors>MAC Snoeren</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations>34</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>State estimation for hybrid systems: applications to aircraft tracking</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=120&amp;citation_for_view=Qf4bw4UAAAAJ:olpn-zPbct0C</link>
+<authors>I Hwang, H Balakrishnan, C Tomlin</authors>
+<source>IEE Proceedings-Control Theory and Applications 153 (5), 556-566</source>
+<citations>33</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Improving end-to-end availability using overlay networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=120&amp;citation_for_view=Qf4bw4UAAAAJ:ODE9OILHJdcC</link>
+<authors>DG Andersen</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations>33</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Adaptive delivery of real-time streaming video</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=120&amp;citation_for_view=Qf4bw4UAAAAJ:kh2fBNsKQNwC</link>
+<authors>NG Feamster</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations>33</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>DoS: Fighting fire with fire</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=120&amp;citation_for_view=Qf4bw4UAAAAJ:nb7KW1ujOQ8C</link>
+<authors>M Walfish, H Balakrishnan, D Karger, S Shenker</authors>
+<source>HotNets</source>
+<citations>32</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Bandwidth management in wireless sensor networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=120&amp;citation_for_view=Qf4bw4UAAAAJ:UxriW0iASnsC</link>
+<authors>B Hull, K Jamieson, H Balakrishnan</authors>
+<source>Proceedings of the 1st international conference on Embedded networked sensor ...</source>
+<citations>32</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>An empirical study of bogon route advertisements</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=120&amp;citation_for_view=Qf4bw4UAAAAJ:XiSMed-E-HIC</link>
+<authors>N Feamster, J Jung, H Balakrishnan</authors>
+<source>ACM SIGCOMM Computer Communication Review 35 (1), 63-70</source>
+<citations>31</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Improving wireless network performance using sensor hints</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=120&amp;citation_for_view=Qf4bw4UAAAAJ:Fu2w8maKXqMC</link>
+<authors>L Ravindranath, C Newport, H Balakrishnan, S Madden</authors>
+<source>Proceedings of the 8th USENIX conference on Networked systems design and ...</source>
+<citations>30</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>TESLA: A Transparent, Extensible Session-Layer Architecture for End-to-end Network Services.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=120&amp;citation_for_view=Qf4bw4UAAAAJ:p2g8aNsByqUC</link>
+<authors>J Salz, H Balakrishnan, AC Snoeren</authors>
+<source>USENIX Symposium on Internet Technologies and Systems</source>
+<citations>30</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>A unified header compression framework for low-bandwidth links</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=140&amp;citation_for_view=Qf4bw4UAAAAJ:KxtntwgDAa4C</link>
+<authors>J Lilley, J Yang, H Balakrishnan, S Seshan</authors>
+<source>Proceedings of the 6th annual international conference on Mobile computing ...</source>
+<citations>30</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Energyefficient rouing protocols for wireless microsensors networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=140&amp;citation_for_view=Qf4bw4UAAAAJ:raTqNPD5sRQC</link>
+<authors>WR Heinzelman, A Chandrakasan, H Balakrishnan</authors>
+<source>Proceedings of Hawaii International Conference on System and Sciences</source>
+<citations>29</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Interference avoidance and control</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=140&amp;citation_for_view=Qf4bw4UAAAAJ:fQNAKQ3IYiAC</link>
+<authors>R Gummadi, R Patra, H Balakrishnan, E Brewer</authors>
+<source>Hotnets-VII,(Calgary, Canada)</source>
+<citations>26</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Holding the Internet accountable</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=140&amp;citation_for_view=Qf4bw4UAAAAJ:Tiz5es2fbqcC</link>
+<authors>DG Andersen, H Balakrishnan, N Feamster, T Koponen, D Moon, S Shenker</authors>
+<source></source>
+<citations>26</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Efficient and robust TCP stream normalization</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=140&amp;citation_for_view=Qf4bw4UAAAAJ:BrmTIyaxlBUC</link>
+<authors>M Vutukuru, H Balakrishnan, V Paxson</authors>
+<source>Security and Privacy, 2008. SP 2008. IEEE Symposium on, 96-110</source>
+<citations>25</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Algorithms for scheduling runway operations under constrained position shifting</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=140&amp;citation_for_view=Qf4bw4UAAAAJ:URolC5Kub84C</link>
+<authors>H Balakrishnan, BG Chandran</authors>
+<source>Operations research 58 (6), 1650-1665</source>
+<citations>24</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>TCP connection migration</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=140&amp;citation_for_view=Qf4bw4UAAAAJ:738O_yMBCRsC</link>
+<authors>AC Snoeren, H Balakrishnan</authors>
+<source>Internet Draft, IETF, Nov. 2000. draft-snoeren-tcp-migrate-00. txt (work in ...</source>
+<citations>24</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Wireless networks should spread spectrum based on demands</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=140&amp;citation_for_view=Qf4bw4UAAAAJ:q3oQSFYPqjQC</link>
+<authors>R Gummadi, H Balakrishnan</authors>
+<source>In HotNets 08</source>
+<citations>23</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Architecting for innovation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=140&amp;citation_for_view=Qf4bw4UAAAAJ:1lhNe0rCu4AC</link>
+<authors>T Koponen, S Shenker, H Balakrishnan, N Feamster, I Ganichev, A Ghodsi, P ...</authors>
+<source>ACM SIGCOMM Computer Communication Review 41 (3), 24-36</source>
+<citations>22</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>A dynamic programming algorithm for robust runway scheduling</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=140&amp;citation_for_view=Qf4bw4UAAAAJ:Mojj43d5GZwC</link>
+<authors>B Chandran, H Balakrishnan</authors>
+<source>American Control Conference, 2007. ACC'07, 1161-1166</source>
+<citations>22</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Correctness properties for Internet routing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=140&amp;citation_for_view=Qf4bw4UAAAAJ:B3FOqHPlNUQC</link>
+<authors>N Feamster, H Balakrishnan</authors>
+<source>Allerton Conference on Communication, Control, and Computing</source>
+<citations>22</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Polynomial approximation algorithms for belief matrix maintenance in identity management</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=140&amp;citation_for_view=Qf4bw4UAAAAJ:D_sINldO8mEC</link>
+<authors>H Balakrishnan, I Hwang, CJ Tomlin</authors>
+<source>Decision and Control, 2004. CDC. 43rd IEEE Conference on 5, 4874-4879</source>
+<citations>22</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Semantic-free referencing in linked distributed systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=140&amp;citation_for_view=Qf4bw4UAAAAJ:l7t_Zn2s7bgC</link>
+<authors>H Balakrishnan, S Shenker, M Walfish</authors>
+<source>Peer-to-Peer Systems II, 197-206</source>
+<citations>22</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Verifying the correctness of wide-area Internet routing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=140&amp;citation_for_view=Qf4bw4UAAAAJ:VOx2b1Wkg3QC</link>
+<authors>N Feamster, H Balakrishnan</authors>
+<source></source>
+<citations>21</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Efficient and equitable departure scheduling in real-time: new approaches to old problems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=140&amp;citation_for_view=Qf4bw4UAAAAJ:bnK-pcrLprsC</link>
+<authors>H Balakrishnan, B Chandran</authors>
+<source>7th USA-Europe Air Traffic Management Research and Development Seminar, 02-05</source>
+<citations>20</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>The Cricket indoor location system: Experience and status</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=140&amp;citation_for_view=Qf4bw4UAAAAJ:1qzjygNMrQYC</link>
+<authors>H Balakrishnan, NB Priyantha</authors>
+<source>2003 Workshop on Location-Aware Computing, 7</source>
+<citations>20</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>The migrate approach to Internet mobility</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=140&amp;citation_for_view=Qf4bw4UAAAAJ:5Ul4iDaHHb8C</link>
+<authors>AC Snoeren, H Balakrishnan, MF Kaashoek</authors>
+<source>Proc. of the Oxygen Student Workshop</source>
+<citations>20</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Rateless spinal codes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=140&amp;citation_for_view=Qf4bw4UAAAAJ:ILKRHgRFtOwC</link>
+<authors>J Perry, H Balakrishnan, D Shah</authors>
+<source>Proceedings of the 10th ACM Workshop on Hot Topics in Networks, 6</source>
+<citations>18</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>DDoS defense by offense</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=140&amp;citation_for_view=Qf4bw4UAAAAJ:LjlpjdlvIbIC</link>
+<authors>M Walfish, M Vutukuru, H Balakrishnan, D Karger, S Shenker</authors>
+<source>ACM Transactions on Computer Systems (TOCS) 28 (1), 3</source>
+<citations>18</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Implications of autonomy for the expressiveness of policy routing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=140&amp;citation_for_view=Qf4bw4UAAAAJ:8AbLer7MMksC</link>
+<authors>N Feamster, R Johari, H Balakrishnan</authors>
+<source>Networking, IEEE/ACM Transactions on 15 (6), 1266-1279</source>
+<citations>18</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Experience with an evolving overlay network testbed</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=160&amp;citation_for_view=Qf4bw4UAAAAJ:geHnlv5EZngC</link>
+<authors>DG Andersen, H Balakrishnan, MF Kaashoek, R Morris</authors>
+<source>ACM SIGCOMM Computer Communication Review 33 (3), 13-19</source>
+<citations>18</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Rate-aware splitting of aggregate traffic</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=160&amp;citation_for_view=Qf4bw4UAAAAJ:LPZeul_q3PIC</link>
+<authors>S Rost, H Balakrishnan</authors>
+<source>Technical report, MIT</source>
+<citations>18</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Code in the air: simplifying sensing and coordination tasks on smartphones</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=160&amp;citation_for_view=Qf4bw4UAAAAJ:lgwcVrK6X84C</link>
+<authors>L Ravindranath, A Thiagarajan, H Balakrishnan, S Madden</authors>
+<source>Proceedings of the Twelfth Workshop on Mobile Computing Systems ...</source>
+<citations>17</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Measurement and analysis of real-world 802.11 mesh networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=160&amp;citation_for_view=Qf4bw4UAAAAJ:VLnqNzywnoUC</link>
+<authors>K LaCurts, H Balakrishnan</authors>
+<source>Proceedings of the 10th ACM SIGCOMM conference on Internet measurement, 123-136</source>
+<citations>17</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Airblue: A system for cross-layer wireless protocol development</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=160&amp;citation_for_view=Qf4bw4UAAAAJ:uJ-U7cs_P_0C</link>
+<authors>MC Ng, KE Fleming, M Vutukuru, S Gross, H Balakrishnan</authors>
+<source>Proceedings of the 6th ACM/IEEE Symposium on Architectures for Networking ...</source>
+<citations>17</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Not-a-bot (nab): Improving service availability in the face of botnet attacks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=160&amp;citation_for_view=Qf4bw4UAAAAJ:5ugPr518TE4C</link>
+<authors>R Gummadi, H Balakrishnan, P Maniatis, S Ratnasamy</authors>
+<source>USENIX Association</source>
+<citations>17</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>The SoftPHY abstraction: from packets to symbols in wireless network design</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=160&amp;citation_for_view=Qf4bw4UAAAAJ:KUbvn5osdkgC</link>
+<authors>KA Jamieson</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations>17</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>A distributed multiple-target identity management algorithm in sensor networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=160&amp;citation_for_view=Qf4bw4UAAAAJ:_B80troHkn4C</link>
+<authors>I Hwang, K Roy, H Balakrishnan, C Tomlin</authors>
+<source>Decision and Control, 2004. CDC. 43rd IEEE Conference on 1, 728-734</source>
+<citations>17</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>On the adaptive real-time detection of fast-propagating network worms</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=160&amp;citation_for_view=Qf4bw4UAAAAJ:TIZ-Mc8IlK0C</link>
+<authors>J Jung, RA Milito, V Paxson</authors>
+<source>Detection of Intrusions and Malware, and Vulnerability Assessment, 175-192</source>
+<citations>16</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Data management in the CarTel mobile sensor computing system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=160&amp;citation_for_view=Qf4bw4UAAAAJ:J-pR_7NvFogC</link>
+<authors>V Bychkovsky, K Chen, M Goraczko, H Hu, B Hull, A Miu, E Shih, Y Zhang, H ...</authors>
+<source>Proceedings of the 2006 ACM SIGMOD international conference on Management of ...</source>
+<citations>16</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Proactive techniques for correct and predictable internet routing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=160&amp;citation_for_view=Qf4bw4UAAAAJ:tuHXwOkdijsC</link>
+<authors>NG Feamster</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations>16</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Multiple-target tracking and identity management</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=160&amp;citation_for_view=Qf4bw4UAAAAJ:kRWSkSYxWN8C</link>
+<authors>I Hwang, H Balakrishnan, K Roy, J Shin, L Guibas, C Tomlin</authors>
+<source>Sensors, 2003. Proceedings of IEEE 1, 36-41</source>
+<citations>16</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Looking up data in p2p system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=160&amp;citation_for_view=Qf4bw4UAAAAJ:TlpoogIpr_IC</link>
+<authors>B Hari, M Frans, K David</authors>
+<source>Communication of the ACM 46 (2), 43-48</source>
+<citations>16</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Peering peer-to-peer providers</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=160&amp;citation_for_view=Qf4bw4UAAAAJ:V3AGJWp-ZtQC</link>
+<authors>H Balakrishnan, S Shenker, M Walfish</authors>
+<source>Peer-to-Peer Systems IV, 104-114</source>
+<citations>15</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Multiple-target tracking and identity management in clutter, with application to aircraft tracking</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=160&amp;citation_for_view=Qf4bw4UAAAAJ:HE397vMXCloC</link>
+<authors>I Hwang, H Balakrishnan, K Roy, C Tomlin</authors>
+<source>American Control Conference, 2004. Proceedings of the 2004 4, 3422-3428</source>
+<citations>15</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Spinal codes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=160&amp;citation_for_view=Qf4bw4UAAAAJ:7BrZ7Jt4UNcC</link>
+<authors>J Perry, PA Iannucci, KE Fleming, H Balakrishnan, D Shah</authors>
+<source>Proceedings of the ACM SIGCOMM 2012 conference on Applications, technologies ...</source>
+<citations>14</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Stochastic motion planning and applications to traffic</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=160&amp;citation_for_view=Qf4bw4UAAAAJ:7T2F9Uy0os0C</link>
+<authors>S Lim, H Balakrishnan, D Gifford, S Madden, D Rus</authors>
+<source>Algorithmic Foundation of Robotics VIII, 483-500</source>
+<citations>14</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Fuel cost, delay and throughput tradeoffs in runway scheduling</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=160&amp;citation_for_view=Qf4bw4UAAAAJ:VL0QpB8kHFEC</link>
+<authors>H Lee, H Balakrishnan</authors>
+<source>American Control Conference, 2008, 2449-2454</source>
+<citations>14</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Cabernet: A content delivery network for moving vehicles</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=160&amp;citation_for_view=Qf4bw4UAAAAJ:wbdj-CoPYUoC</link>
+<authors>J Eriksson, H Balakrishnan, S Madden</authors>
+<source></source>
+<citations>14</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Spam-I-am: A Proposal for Spam Control using Distributed Quota Management</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=160&amp;citation_for_view=Qf4bw4UAAAAJ:mvPsJ3kp5DgC</link>
+<authors>H Balakrishnan, D Karger</authors>
+<source>3rd ACM SIGCOMM Workshop on Hot Topics in Networks (Hot-Nets)</source>
+<citations>14</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Inference methods for autonomous stochastic linear hybrid systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=180&amp;citation_for_view=Qf4bw4UAAAAJ:XiVPGOgt02cC</link>
+<authors>H Balakrishnan, I Hwang, JS Jang, CJ Tomlin</authors>
+<source>Hybrid Systems: Computation and Control, 64-79</source>
+<citations>14</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Chord: A scalable peer-to-peer lookup service for internet applications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=180&amp;citation_for_view=Qf4bw4UAAAAJ:eO3_k5sD8BwC</link>
+<authors>H Balakrishnan</authors>
+<source>ACM SIGCOMM</source>
+<citations>14</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>TCP improvements for heterogeneous networks: The Daedalus approach</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=180&amp;citation_for_view=Qf4bw4UAAAAJ:AXPGKjj_ei8C</link>
+<authors>H Balakrishnan, VN Padmanabhan, S Seshan, M Stemm, E Amir, RH Katz</authors>
+<source>PROCEEDINGS OF THE ANNUAL ALLERTON CONFERENCE ON COMMUNICATION CONTROL AND ...</source>
+<citations>14</citations>
+<pub_year>1997</pub_year>
+</record>
+<record>
+<title>CryptDB: A practical encrypted relational DBMS</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=180&amp;citation_for_view=Qf4bw4UAAAAJ:t7zJ5fGR-2UC</link>
+<authors>RA Popa, N Zeldovich, H Balakrishnan</authors>
+<source></source>
+<citations>13</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Stochastic motion planning and applications to traffic</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=180&amp;citation_for_view=Qf4bw4UAAAAJ:hkOj_22Ku90C</link>
+<authors>S Lim, H Balakrishnan, D Gifford, S Madden, D Rus</authors>
+<source>The International Journal of Robotics Research 30 (6), 699-712</source>
+<citations>12</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Modeling and control of airport departure processes for emissions reduction</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=180&amp;citation_for_view=Qf4bw4UAAAAJ:BJbdYPG6LGMC</link>
+<authors>I Simaiakis</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations>12</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Multi-radio diversity in wireless networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=180&amp;citation_for_view=Qf4bw4UAAAAJ:dTyEYWd-f8wC</link>
+<authors>A Miu, H Balakrishnan, CE Koksal</authors>
+<source>Wireless Networks 13 (6), 779-798</source>
+<citations>12</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Method and apparatus for determining orientation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=180&amp;citation_for_view=Qf4bw4UAAAAJ:SdhP9T11ey4C</link>
+<authors>SJ Teller, NB Priyantha, AKL Miu, H Balakrishnan</authors>
+<source>US Patent 6,816,437</source>
+<citations>12</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Performance analysis of hybrid estimation algorithms</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=180&amp;citation_for_view=Qf4bw4UAAAAJ:eMMeJKvmdy0C</link>
+<authors>I Hwang, H Balakrishnan, C Tomlin</authors>
+<source>Decision and Control, 2003. Proceedings. 42nd IEEE Conference on 5, 5353-5359</source>
+<citations>12</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>A distributed architecture for mobile, location-dependent applications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=180&amp;citation_for_view=Qf4bw4UAAAAJ:HbR8gkJAVGIC</link>
+<authors>A Chakraborty</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations>12</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>An architecture for intentional name resolution and application-level routing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=180&amp;citation_for_view=Qf4bw4UAAAAJ:WA5NYHcadZ8C</link>
+<authors>W Adjie-Winoto, E Schwartz, H Balakrishnan</authors>
+<source>Work in Progress</source>
+<citations>12</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Privacy and accountability for location-based aggregate statistics</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=180&amp;citation_for_view=Qf4bw4UAAAAJ:a3BOlSfXSfwC</link>
+<authors>RA Popa, AJ Blumberg, H Balakrishnan, FH Li</authors>
+<source>Proceedings of the 18th ACM conference on Computer and communications ...</source>
+<citations>11</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Techniques for reallocating airport resources during adverse weather</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=180&amp;citation_for_view=Qf4bw4UAAAAJ:JQOojiI6XY0C</link>
+<authors>H Balakrishnan</authors>
+<source>Decision and Control, 2007 46th IEEE Conference on, 2949-2956</source>
+<citations>11</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>WaveScope: a signal-oriented data stream management system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=180&amp;citation_for_view=Qf4bw4UAAAAJ:WqliGbK-hY8C</link>
+<authors>L Girod, K Jamieson, Y Mei, R Newton, S Rost, A Thiagarajan, H Balakrishnan ...</authors>
+<source>Proceedings of the 4th international conference on Embedded networked sensor ...</source>
+<citations>11</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Reachability analysis of delta-notch lateral inhibition using predicate abstraction</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=180&amp;citation_for_view=Qf4bw4UAAAAJ:t6usbXjVLHcC</link>
+<authors>I Hwang, H Balakrishnan, R Ghosh, C Tomlin</authors>
+<source>High Performance ComputingHiPC 2002, 715-724</source>
+<citations>11</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Estimation of arrival-departure capacity tradeoffs in multi-airport systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=180&amp;citation_for_view=Qf4bw4UAAAAJ:2KloaMYe4IUC</link>
+<authors>V Ramanujam, H Balakrishnan</authors>
+<source>Decision and Control, 2009 held jointly with the 2009 28th Chinese Control ...</source>
+<citations>10</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Distributed feedback control for an Eulerian model of the national airspace system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=180&amp;citation_for_view=Qf4bw4UAAAAJ:W5xh706n7nkC</link>
+<authors>J Le Ny, H Balakrishnan</authors>
+<source>American Control Conference, 2009. ACC'09., 2891-2897</source>
+<citations>10</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Metronome: Coordinating spectrum sharing in heterogeneous wireless networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=180&amp;citation_for_view=Qf4bw4UAAAAJ:eq2jaN3J8jMC</link>
+<authors>R Gummadi, H Balakrishnan, S Seshan</authors>
+<source>Communication Systems and Networks and Workshops, 2009. COMSNETS 2009. First ...</source>
+<citations>10</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Identification of Robust Routes using Convective Weather Forcasts</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=180&amp;citation_for_view=Qf4bw4UAAAAJ:Y5dfb0dijaUC</link>
+<authors>D Michalek, H Balakrishnan</authors>
+<source>Eurocontrol</source>
+<citations>10</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>A study of tradeoffs in scheduling Terminal-Area operations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=180&amp;citation_for_view=Qf4bw4UAAAAJ:NJ774b8OgUMC</link>
+<authors>H Lee, H Balakrishnan</authors>
+<source>Proceedings of the IEEE 96 (12), 2081-2095</source>
+<citations>10</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Stable policy routing with provider independence</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=200&amp;citation_for_view=Qf4bw4UAAAAJ:tkaPQYYpVKoC</link>
+<authors>N Feamster, R Johari, H Balakrishnan</authors>
+<source></source>
+<citations>10</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Estimation of aircraft taxi-out fuel burn using flight data recorder archives</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=200&amp;citation_for_view=Qf4bw4UAAAAJ:wMgC3FpKEyYC</link>
+<authors>H Khadilkar, H Balakrishnan</authors>
+<source>AIAA Guidance, Navigation, and Control Conference, Portland, Oregon, Aug, 8-11</source>
+<citations>9</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Building a stochastic terminal airspace capacity forecast from convective weather forecasts</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=200&amp;citation_for_view=Qf4bw4UAAAAJ:JoZmwDi-zQgC</link>
+<authors>D Michalek, H Balakrishnan</authors>
+<source>Aviation, Range and Aerospace Meteorology Special Symposium on Weather-Air ...</source>
+<citations>9</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>The aurora and medusa projects</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=200&amp;citation_for_view=Qf4bw4UAAAAJ:kVjdVfd2voEC</link>
+<authors>SZ Sbz, S Zdonik, M Stonebraker, M Cherniack, UC Etintemel, M Balazinska, H ...</authors>
+<source>IEEE Data Engineering Bulletin</source>
+<citations>9</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Impact of congestion on taxi times, fuel burn, and emissions at major airports</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=200&amp;citation_for_view=Qf4bw4UAAAAJ:tzM49s52ZIMC</link>
+<authors>I Simaiakis, H Balakrishnan</authors>
+<source>Transportation Research Record: Journal of the Transportation Research Board ...</source>
+<citations>8</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Measuring the uncertainty of weather forecasts specific to air traffic management operations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=200&amp;citation_for_view=Qf4bw4UAAAAJ:ye4kPcJQO24C</link>
+<authors>MP Matthews, M Wolfson, R DeLaura, JE Evans, CK Reiche, H Balakrishnan, D ...</authors>
+<source>Aviation, Range, and Aerospace Meteorology Special Symposium on Weather-Air ...</source>
+<citations>8</citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Revisiting Internet Adressing: Back to the Future!</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=200&amp;citation_for_view=Qf4bw4UAAAAJ:9vf0nzSNQJEC</link>
+<authors>M Vutukuru, N Feamster, M Walfish, H Balakrishnan, S Shenker</authors>
+<source></source>
+<citations>8</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Fault-tolerance and load management in a distributed stream processing system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=200&amp;citation_for_view=Qf4bw4UAAAAJ:GFxP56DSvIMC</link>
+<authors>M Balazinska</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations>8</citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>Multiple-target tracking and identity management in clutter for air traffic control</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=200&amp;citation_for_view=Qf4bw4UAAAAJ:1yQoGdGgb4wC</link>
+<authors>I Hwang, H Balakrishnan, K Roy, C Tomlin</authors>
+<source>Submitted to the American Control Conference</source>
+<citations>8</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Enhancing TCPs Loss Recovery Using Early Duplicate Acknowledgment Response</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=200&amp;citation_for_view=Qf4bw4UAAAAJ:5awf1xo2G04C</link>
+<authors>M Allman, H Balakrishnan, S Floyd</authors>
+<source>work in progress</source>
+<citations>8</citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Evaluation of strategies for reducing taxi-out emissions at airports</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=200&amp;citation_for_view=Qf4bw4UAAAAJ:zLWjf1WUPmwC</link>
+<authors>I Deonandan, H Balakrishnan</authors>
+<source>Proceedings of the AIAA Aviation Technology, Integration, and Operations ...</source>
+<citations>7</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Cafnet: A carry-and-forward delay-tolerant network</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=200&amp;citation_for_view=Qf4bw4UAAAAJ:vbGhcppDl1QC</link>
+<authors>KW Chen</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations>7</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Rate guarantees and overload protection in input-queued switches</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=200&amp;citation_for_view=Qf4bw4UAAAAJ:rHJHxKgnXwkC</link>
+<authors>H Balakrishnan, S Devadas, D Ehlert</authors>
+<source>INFOCOM 2004. Twenty-third AnnualJoint Conference of the IEEE Computer and ...</source>
+<citations>7</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>OverQoS: Offering Internet QoS Using Overlays</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=200&amp;citation_for_view=Qf4bw4UAAAAJ:4xDN1ZYqzskC</link>
+<authors>K Lakshminarayanan, I Stoica, H Balakrishnan, R Katz</authors>
+<source>1st HotNets Workshop, Princeton, NJ (October 2002)</source>
+<citations>7</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>An end-system architecture for unified congestion management</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=200&amp;citation_for_view=Qf4bw4UAAAAJ:PELIpwtuRlgC</link>
+<authors>HS Rahul, H Balakrishnan, S Seshan</authors>
+<source>Hot Topics in Operating Systems, 1999. Proceedings of the Seventh Workshop ...</source>
+<citations>7</citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Feedback control of the national airspace system to mitigate weather disruptions</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=200&amp;citation_for_view=Qf4bw4UAAAAJ:5icHVeHT4IsC</link>
+<authors>J Le Ny, H Balakrishnan</authors>
+<source>Decision and Control (CDC), 2010 49th IEEE Conference on, 2055-2062</source>
+<citations>6</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Impact of Arrivals on Departure Taxi Operations at Airports</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=200&amp;citation_for_view=Qf4bw4UAAAAJ:artPoR2Yc-kC</link>
+<authors>RR Clewlow, I Simaiakis, H Balakrishnan</authors>
+<source>AIAA Guidance, Navigation and Control Conference and Exhibit</source>
+<citations>6</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Analysis and control of airport departure processes to mitigate congestion impacts</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=200&amp;citation_for_view=Qf4bw4UAAAAJ:BzfGm06jWhQC</link>
+<authors>I Simaiakis, H Balakrishnan</authors>
+<source>Transportation Research Record: Journal of the Transportation Research Board ...</source>
+<citations>6</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Multiple-target tracking and identity management with application to aircraft tracking</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=200&amp;citation_for_view=Qf4bw4UAAAAJ:ZfRJV9d4-WMC</link>
+<authors>I Hwang, H Balakrishnan, K Roy, C Tomlin</authors>
+<source>Journal of guidance, control, and dynamics 30 (3), 641-653</source>
+<citations>6</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Opportunities and challenges in high-rate wireless sensor networking</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=200&amp;citation_for_view=Qf4bw4UAAAAJ:dQ2og3OwTAUC</link>
+<authors>H Balakrishnan</authors>
+<source>Local Computer Networks, 2004. 29th Annual IEEE International Conference on, 4</source>
+<citations>6</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Group: vanderbilt-multimedia-library 376 articles</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=220&amp;citation_for_view=Qf4bw4UAAAAJ:DrR-2ekChdkC</link>
+<authors>I Stoica, R Morris, DL Nowell, DR Karger, MF Kaashoek, F Dabek, H Balakrishnan</authors>
+<source>IEEE/ACM Trans. Netw 11 (1), 17-32</source>
+<citations>6</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Anchor-Free distributed localization in sensor networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=220&amp;citation_for_view=Qf4bw4UAAAAJ:jFemdcug13IC</link>
+<authors>N Hari, H Balakrishnan, E Demaine, S Teller</authors>
+<source>Science</source>
+<citations>6</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Analysis of the evolution of peer-to-peer systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=220&amp;citation_for_view=Qf4bw4UAAAAJ:UHK10RUVsp4C</link>
+<authors>H Balakrishnan, D Karger, D Liben-Nowell</authors>
+<source>Proceedings of the 21st ACM Symposium on Principles of Distributed Computing ...</source>
+<citations>6</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>End-to-end transmission control by modeling uncertainty about the network state</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=220&amp;citation_for_view=Qf4bw4UAAAAJ:rmuvC79q63oC</link>
+<authors>K Winstein, H Balakrishnan</authors>
+<source>Proceedings of the 10th ACM Workshop on Hot Topics in Networks, 19</source>
+<citations>5</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Estimation of maximum-likelihood discrete-choice models of the runway configuration selection process</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=220&amp;citation_for_view=Qf4bw4UAAAAJ:YohjEiUPhakC</link>
+<authors>V Ramanujam, H Balakrishnan</authors>
+<source>American Control Conference (ACC), 2011, 2160-2167</source>
+<citations>5</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Method and apparatus for allocating link bandwidth</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=220&amp;citation_for_view=Qf4bw4UAAAAJ:Br1UauaknNIC</link>
+<authors>S Devadas, H Balakrishnan, D Rosenband</authors>
+<source>US Patent 7,415,477</source>
+<citations>5</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Tradeoff evaluation of scheduling algorithms for terminal-area air traffic control</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=220&amp;citation_for_view=Qf4bw4UAAAAJ:ClCfbGk0d_YC</link>
+<authors>H Lee</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations>5</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>The Aurora and Borealis Stream Processing Engines</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=220&amp;citation_for_view=Qf4bw4UAAAAJ:_Ybze24A_UAC</link>
+<authors>U Cetintemel, D Abadi, Y Ahmad, H Balakrishnan, M Balazinska, M Cherniack, J ...</authors>
+<source>Data Stream Management: Processing High-Speed Data Streams,, Springer-Verlag</source>
+<citations>5</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Availability-consistency trade-offs in a fault-tolerant stream processing system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=220&amp;citation_for_view=Qf4bw4UAAAAJ:nrtMV_XWKgEC</link>
+<authors>M Balazinska, H Balakrishnan, S Madden, M Stonebraker</authors>
+<source></source>
+<citations>5</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Stability analysis of switched hybrid time-delay systemsanalysis of the rate control protocol</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=220&amp;citation_for_view=Qf4bw4UAAAAJ:PR6Y55bgFSsC</link>
+<authors>H Balakrishnan, N Dukkipati, N McKeown, C Tomlin</authors>
+<source>Tech. Report, Stanford University</source>
+<citations>5</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Wendi Heinzelman and Anantha Chandrakasan and Hari Balakrishnan</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=220&amp;citation_for_view=Qf4bw4UAAAAJ:SP6oXDckpogC</link>
+<authors>W Heinzelman, A Chandrakasan, H Balakrishnan</authors>
+<source>IEEE Transactions on Wireless Communications 1 (4), 660-670</source>
+<citations>5</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Embassies: Radically refactoring the web</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=220&amp;citation_for_view=Qf4bw4UAAAAJ:wvYxNZNCP7wC</link>
+<authors>J Howell, B Parno, JR Douceur</authors>
+<source>NSDI (to appear)</source>
+<citations>4</citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Traffic-aware techniques to reduce 3G/LTE wireless energy consumption</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=220&amp;citation_for_view=Qf4bw4UAAAAJ:mUJArPsKIAAC</link>
+<authors>S Deng, H Balakrishnan</authors>
+<source>Proceedings of the 8th international conference on Emerging networking ...</source>
+<citations>4</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>CryptDB: processing queries on an encrypted database</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=220&amp;citation_for_view=Qf4bw4UAAAAJ:L1USKYWJimsC</link>
+<authors>RA Popa, C Redfield, N Zeldovich, H Balakrishnan</authors>
+<source>Communications of the ACM 55 (9), 103-111</source>
+<citations>4</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Mosh: an interactive remote shell for mobile clients</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=220&amp;citation_for_view=Qf4bw4UAAAAJ:7Hz3ACDFbsoC</link>
+<authors>K Winstein, H Balakrishnan</authors>
+<source>USENIX Annual Technical Conference, Boston, Mass</source>
+<citations>4</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Analysis and modeling of airport surface operations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=220&amp;citation_for_view=Qf4bw4UAAAAJ:NyGDZy8z5eUC</link>
+<authors>H Khadilkar</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations>4</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Feedback control of the national airspace system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=220&amp;citation_for_view=Qf4bw4UAAAAJ:0N-VGjzr574C</link>
+<authors>JL Ny, H Balakrishnan</authors>
+<source>Journal of Guidance, Control, and Dynamics 34 (3), 832-846</source>
+<citations>4</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Departure Throughput Study for Boston Logan International Airport</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=220&amp;citation_for_view=Qf4bw4UAAAAJ:HIFyuExEbWQC</link>
+<authors>I Simaiakis, H Balakrishnan</authors>
+<source></source>
+<citations>4</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Asynchronous, distributed optimization for the coordinated planning of air and space assets</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=220&amp;citation_for_view=Qf4bw4UAAAAJ:UmS_249rOGwC</link>
+<authors>TM Herold, MR Abramson, AC Kahn, SE Kolitz, H Balakrishnan</authors>
+<source>Massachusetts Institute of Technology, Sloan School of Management ...</source>
+<citations>4</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>A distributed system for resolving flat names</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=220&amp;citation_for_view=Qf4bw4UAAAAJ:tKAzc9rXhukC</link>
+<authors>M Vutukuru, M Walfish, H Balakrishnan, S Shenker</authors>
+<source>Proc. ACM SIGCOMM, poster abstracts, Pisa</source>
+<citations>4</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Cricket indoor location system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=240&amp;citation_for_view=Qf4bw4UAAAAJ:BwyfMAYsbu0C</link>
+<authors>H Balakrishnan, R Baliga, D Curtis, ED Demaine, M Goraczko, A Miu</authors>
+<source>no</source>
+<citations>4</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Stochastic forecasts achieve high throughput and low delay over cellular networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=240&amp;citation_for_view=Qf4bw4UAAAAJ:EPG8bYD4jVwC</link>
+<authors>K Winstein, A Sivaraman, H Balakrishnan</authors>
+<source>Proceedings of the 10th USENIX conference on Networked Systems Design and ...</source>
+<citations>3</citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Estimation of aircraft taxi fuel burn using flight data recorder archives</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=240&amp;citation_for_view=Qf4bw4UAAAAJ:1taIhTC69MYC</link>
+<authors>H Khadilkar, H Balakrishnan</authors>
+<source>Transportation Research Part D: Transport and Environment 17 (7), 532-537</source>
+<citations>3</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Dynamic control of airport departures: Algorithm development and field evaluation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=240&amp;citation_for_view=Qf4bw4UAAAAJ:WC23djZS0W4C</link>
+<authors>I Simaiakis, H Balakrishnan</authors>
+<source>American Control Conference (ACC), 2012, 1695-1701</source>
+<citations>3</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>De-randomizing Shannon: The design and analysis of a capacity-achieving rateless code</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=240&amp;citation_for_view=Qf4bw4UAAAAJ:PaBasH6fAo0C</link>
+<authors>H Balakrishnan, P Iannucci, J Perry, D Shah</authors>
+<source>arXiv preprint arXiv:1206.0418</source>
+<citations>3</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Automatic reconfiguration for large-scale reliable storage systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=240&amp;citation_for_view=Qf4bw4UAAAAJ:6_hjMsCP8ZoC</link>
+<authors>R Rodrigues, B Liskov, K Chen, M Liskov, D Schultz</authors>
+<source>Dependable and Secure Computing, IEEE Transactions on 9 (2), 145-158</source>
+<citations>3</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Design, testing and evaluation of a pushback rate control strategy</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=240&amp;citation_for_view=Qf4bw4UAAAAJ:7H_MAutzIkAC</link>
+<authors>I Simaiakis, M Sandberg, H Balakrishnan, RJ Hansman</authors>
+<source>5th International Conference on Research in Air Transportation</source>
+<citations>3</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Analysis of Airport Performance using Surface Surveillance Data: A Case Study of BOS</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=240&amp;citation_for_view=Qf4bw4UAAAAJ:aIdbFUkbNIkC</link>
+<authors>H Khadilkar, H Balakrishnan, B Reilly</authors>
+<source>AIAA Aviation Technology, Integration and Operations (ATIO) Conference ...</source>
+<citations>3</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>A multi-modal unscented Kalman filter for inference of aircraft position and taxi mode from surface surveillance data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=240&amp;citation_for_view=Qf4bw4UAAAAJ:Xl6nMSl579sC</link>
+<authors>H Khadilkar, H Balakrishnan</authors>
+<source>Aviation Technology, Integration and Operations, AIAA Conference on ...</source>
+<citations>3</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Optimization of airport terminal-area air traffic operations under uncertain weather conditions</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=240&amp;citation_for_view=Qf4bw4UAAAAJ:QD3KBmkZPeQC</link>
+<authors>DM Pfeil</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations>3</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Code in the air: simplifying sensing on smartphones</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=240&amp;citation_for_view=Qf4bw4UAAAAJ:a9-T7VOCCH8C</link>
+<authors>T Kaler, JP Lynch, T Peng, L Ravindranath, A Thiagarajan, H Balakrishnan, S ...</authors>
+<source>Proceedings of the 8th ACM Conference on Embedded Networked Sensor Systems ...</source>
+<citations>3</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Extra-sensory perception for wireless networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=240&amp;citation_for_view=Qf4bw4UAAAAJ:-_dYPAW6P2MC</link>
+<authors>L Ravindranath, C Newport, H Balakrishnan, S Madden</authors>
+<source>Proceedings of the 9th ACM SIGCOMM Workshop on Hot Topics in Networks, 5</source>
+<citations>3</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>A comparison of aircraft trajectory-based and aggregate queue-based control of airport taxi processes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=240&amp;citation_for_view=Qf4bw4UAAAAJ:EYYDruWGBe4C</link>
+<authors>H Lee, I Simaiakis, H Balakrishnan</authors>
+<source>Digital Avionics Systems Conference (DASC), 2010 IEEE/AIAA 29th, 1. B. 3-1-1 ...</source>
+<citations>3</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Physical layer-aware wireless link layer protocols</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=240&amp;citation_for_view=Qf4bw4UAAAAJ:cWzG1nlazyYC</link>
+<authors>MR Vutukuru</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations>3</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Accountable Internet Protocol</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=240&amp;citation_for_view=Qf4bw4UAAAAJ:PkcyUWeTMh0C</link>
+<authors>D Anderson, H Balakrishnan, N Feamster, T Koponen, D Moon, S Shenker</authors>
+<source>SIGCOMM 08, August</source>
+<citations>3</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>The location/identity split is useful for middleboxes, too</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=240&amp;citation_for_view=Qf4bw4UAAAAJ:uLbwQdceFCQC</link>
+<authors>M Walfish, H Balakrishnan</authors>
+<source>Proceedings of Workshop on HIP and Related Architectures</source>
+<citations>3</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>{Opportunities in high-rate wireless sensor networking}</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=240&amp;citation_for_view=Qf4bw4UAAAAJ:jgBuDB5drN8C</link>
+<authors>H Balakrishnan</authors>
+<source></source>
+<citations>3</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Looking up data in P2P systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=240&amp;citation_for_view=Qf4bw4UAAAAJ:4MWp96NkSFoC</link>
+<authors>I Stoica, MF Kaashoek, D Karger, R Morris, H Balakrishnan</authors>
+<source>Communications of the ACM 46 (2), 43-49</source>
+<citations>3</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Resilient overlay networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=240&amp;citation_for_view=Qf4bw4UAAAAJ:_Re3VWB3Y0AC</link>
+<authors>H Balakrishnan, AC Smith, DG Andersen</authors>
+<source></source>
+<citations>3</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Structuring on-the-job troubleshooting performance to aid learning</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=240&amp;citation_for_view=Qf4bw4UAAAAJ:35r97b3x0nAC</link>
+<authors>B Minsk, H Balakrishnan, A Ram</authors>
+<source>Proceedings of the World Conference on Engineering Education</source>
+<citations>3</citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>TCP ex Machina: Computer-Generated Congestion Control</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=260&amp;citation_for_view=Qf4bw4UAAAAJ:k_7cPK9k7w8C</link>
+<authors>K Winstein, H Balakrishnan</authors>
+<source></source>
+<citations>3</citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Interaction of High-Speed Rail and Aviation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=260&amp;citation_for_view=Qf4bw4UAAAAJ:cK4Rrx0J3m0C</link>
+<authors>RRL Clewlow, JM Sussman, H Balakrishnan</authors>
+<source>Transportation Research Record: Journal of the Transportation Research Board ...</source>
+<citations>2</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>No symbol left behind: a link-layer protocol for rateless codes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=260&amp;citation_for_view=Qf4bw4UAAAAJ:XUvXOeBm_78C</link>
+<authors>PA Iannucci, J Perry, H Balakrishnan, D Shah</authors>
+<source>Proceedings of the 18th annual international conference on Mobile computing ...</source>
+<citations>2</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>UFlood: High-throughput flooding over wireless mesh networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=260&amp;citation_for_view=Qf4bw4UAAAAJ:48xauSegjOkC</link>
+<authors>J Subramanian, R Morris, H Balakrishnan</authors>
+<source>INFOCOM, 2012 Proceedings IEEE, 82-90</source>
+<citations>2</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Impact of Heavy Aircraft Operations on Airport Capacity at Newark Liberty International Airport</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=260&amp;citation_for_view=Qf4bw4UAAAAJ:uDGL6kOW6j0C</link>
+<authors>I Simaiakis, AD Donaldson, H Balakrishnan</authors>
+<source>AIAA ATIO</source>
+<citations>2</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Dynamic reconfiguration of terminal airspace during convective weather</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=260&amp;citation_for_view=Qf4bw4UAAAAJ:epqYDVWIO7EC</link>
+<authors>D Michalek, H Balakrishnan</authors>
+<source>Decision and Control (CDC), 2010 49th IEEE Conference on, 4875-4881</source>
+<citations>2</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>S3: Securing sensitive stuff</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=260&amp;citation_for_view=Qf4bw4UAAAAJ:3NQIlFlcGxIC</link>
+<authors>S Katti, A Ermolinskiy, M Casado, S Shenker, H Balakrishnan</authors>
+<source>USENIX OSDI</source>
+<citations>2</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Supplement to" Distributed Quota Enforcement for Spam Control"</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=260&amp;citation_for_view=Qf4bw4UAAAAJ:kzcrU_BdoSEC</link>
+<authors>M Walfish, JD Zamfirescu, H Balakrishnan, D Karger, S Shenker</authors>
+<source></source>
+<citations>2</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Target-tracking and identity management algorithms for air traffic surveillance</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=260&amp;citation_for_view=Qf4bw4UAAAAJ:yB1At4FlUx8C</link>
+<authors>H Balakrishnan</authors>
+<source></source>
+<citations>2</citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Managing the 802.11 energy/performance tradeoff with machine learning</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=260&amp;citation_for_view=Qf4bw4UAAAAJ:fEOibwPWpKIC</link>
+<authors>C Monteleoni, H Balakrishnan, N Feamster, T Jaakkola</authors>
+<source></source>
+<citations>2</citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>A systematic approach to BGP configuration checking</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=260&amp;citation_for_view=Qf4bw4UAAAAJ:EkHepimYqZsC</link>
+<authors>N Feamster, H Balakrishnan</authors>
+<source></source>
+<citations>2</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>A Session-Based Architecture for Internet Mobility</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=260&amp;citation_for_view=Qf4bw4UAAAAJ:ipzZ9siozwsC</link>
+<authors>M Alexander, C Snoeren, H Balakrishnan, MF Kaashoek, AC Smith</authors>
+<source></source>
+<citations>2</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>The congestion manager</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=260&amp;citation_for_view=Qf4bw4UAAAAJ:uc_IGeMz5qoC</link>
+<authors>S Seshan, H Balakrishnan</authors>
+<source>RFC 3124, 2001, ftp://ftp. rfc-editor. org/in-notes/rfc3124. txt</source>
+<citations>2</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>IEEE computer graphics &amp; applications: Projects in VR pervasive pose-aware applications and infrastructure</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=260&amp;citation_for_view=Qf4bw4UAAAAJ:0KyAp5RtaNEC</link>
+<authors>SJ Teller, J Chen, H Balakrishnan</authors>
+<source>IEEE Distributed Systems Online 4 (8)</source>
+<citations>2</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>A Structural Model for HTTP Connection Arrivals</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=260&amp;citation_for_view=Qf4bw4UAAAAJ:XD-gHx7UXLsC</link>
+<authors>J Jung, AW Berger, CE Koksal, H Balakrishnan</authors>
+<source>May</source>
+<citations>2</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Chord: a scalable peerrtorpeer lookup protocol for Internet applications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=260&amp;citation_for_view=Qf4bw4UAAAAJ:SnGPuo6Feq8C</link>
+<authors>I Stoica, R Morris, D Karger</authors>
+<source>Proceedings of the 2001 ACM SIGCOMM Conference, San Diego, California, USA</source>
+<citations>2</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Span: Topology Maintenance for Energy Efficiency in Ad Hoc Wireless Networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=260&amp;citation_for_view=Qf4bw4UAAAAJ:uWiczbcajpAC</link>
+<authors>K Jamieson, B Chen, H Balakrishnan, R Morris</authors>
+<source>Proc. ACM MobiCom 2001 conference</source>
+<citations>2</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Adaptive video streaming</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=260&amp;citation_for_view=Qf4bw4UAAAAJ:z_wVstp3MssC</link>
+<authors>N Feamster, H Balakrishnan</authors>
+<source></source>
+<citations>2</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Multimedia SPECmarks: a performance comparison of multimedia programs on different architectures</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=260&amp;citation_for_view=Qf4bw4UAAAAJ:j8SEvjWlNXcC</link>
+<authors>H Balakrishnan, R Garg</authors>
+<source>University of California, Berkeley, Computer Science Division</source>
+<citations>2</citations>
+<pub_year>1996</pub_year>
+</record>
+<record>
+<title>Chord: A scalable peer-to-peer look-up protocol for internet applications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=260&amp;citation_for_view=Qf4bw4UAAAAJ:g5Ck-dwhA_QC</link>
+<authors>R Morris, MF Kaashoek, D Karger, H Balakrishnan, I Stoica, D Liben-Nowell, F ...</authors>
+<source></source>
+<citations>2</citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Encaminamiento unicast en redes de área extensa en Internet</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=280&amp;citation_for_view=Qf4bw4UAAAAJ:ALROH1vI_8AC</link>
+<authors>H Balakrishnan</authors>
+<source>Artıculo disponible en la página web de la asignatura</source>
+<citations>2</citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Airport Characterization for the Adaptation of Surface Congestion Management Approaches</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=280&amp;citation_for_view=Qf4bw4UAAAAJ:BrOSOlqYqPUC</link>
+<authors>M Sandberg, T Reynolds, H Khadikar, H Balakrishnan</authors>
+<source></source>
+<citations>1</citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>A Plan for Optimizing Network-Intensive Cloud Applications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=280&amp;citation_for_view=Qf4bw4UAAAAJ:2l5NCbZemmgC</link>
+<authors>K LaCurts, S Deng, H Balakrishnan</authors>
+<source></source>
+<citations>1</citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>A hardware spinal decoder</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=280&amp;citation_for_view=Qf4bw4UAAAAJ:kWvqk_afx_IC</link>
+<authors>PA Iannucci, KE Fleming, J Perry, H Balakrishnan, D Shah</authors>
+<source>Proceedings of the eighth ACM/IEEE symposium on Architectures for networking ...</source>
+<citations>1</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Control of aircraft pushbacks at an airport using a dynamic programming formulation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=280&amp;citation_for_view=Qf4bw4UAAAAJ:Xz60mAmATU4C</link>
+<authors>H Khadilkar, H Balakrishnan</authors>
+<source>AIAA Guidance, Navigation, and Control Conference (submitted), Minneapolis, MN</source>
+<citations>1</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Block Modulation for Interference Management in Heterogeneous Wireless Networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=280&amp;citation_for_view=Qf4bw4UAAAAJ:v1_lew4L6wgC</link>
+<authors>A Ayyar, HR Balakrishnan, A Thangaraj, V Nagarajan, K Giridhar</authors>
+<source>Selected Topics in Signal Processing, IEEE Journal of 6 (3), 241-256</source>
+<citations>1</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Identification of robust terminal-area routes in convective weather</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=280&amp;citation_for_view=Qf4bw4UAAAAJ:_5tno0g5mFcC</link>
+<authors>DM Pfeil, H Balakrishnan</authors>
+<source>Transportation Science 46 (1), 56-73</source>
+<citations>1</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Measurement of Gaseous HAP Emissions from Idling Aircraft as a Function of Engine and Ambient Conditions</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=280&amp;citation_for_view=Qf4bw4UAAAAJ:MpfHP-DdYjUC</link>
+<authors>SC Herndon</authors>
+<source>Transportation Research Board</source>
+<citations>1</citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Opportunities for reducing surface emissions through airport surface movement optimization</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=280&amp;citation_for_view=Qf4bw4UAAAAJ:ML0RJ9NH7IQC</link>
+<authors>H Balakrishnan, I Deonandan, I Simaiakis</authors>
+<source></source>
+<citations>1</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Probabilistic models for mobile phone trajectory estimation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=280&amp;citation_for_view=Qf4bw4UAAAAJ:otzGkya1bYkC</link>
+<authors>A Thiagarajan</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations>1</citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Opportunistic sensing and mobile data delivery in the CarTel System</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=280&amp;citation_for_view=Qf4bw4UAAAAJ:tH6gc1N1XXoC</link>
+<authors>BW Hull</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations>1</citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>PCP: the personal commute portal</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=280&amp;citation_for_view=Qf4bw4UAAAAJ:BUYA1_V_uYcC</link>
+<authors>H Balakrishnan, N Correll, J Erikkson, S Lim, S Madden, D Rus</authors>
+<source>Proceedings of the 6th ACM conference on Embedded network sensor systems ...</source>
+<citations>1</citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>When the Sensors Hit the Roads (Invited Talk)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=280&amp;citation_for_view=Qf4bw4UAAAAJ:p__nRnzSRKYC</link>
+<authors>H Balakrishnan</authors>
+<source>Pervasive Computing and Communications Workshops, 2007. PerCom Workshops' 07 ...</source>
+<citations>1</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Defending networked resources against floods of unwelcome requests</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=280&amp;citation_for_view=Qf4bw4UAAAAJ:5qfkUJPXOUwC</link>
+<authors>MH Walfish</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations>1</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>OpenWiFi: a consumer WiFi sharing system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=280&amp;citation_for_view=Qf4bw4UAAAAJ:L7CI7m0gUJcC</link>
+<authors>H Hu</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations>1</citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Medusa: Scalable Distributed Stream Processing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=280&amp;citation_for_view=Qf4bw4UAAAAJ:Z5m8FVwuT1cC</link>
+<authors>M Balazinska, H Balakrishnan, E Demaine, H Iwashima, A Miu, J Salz, M ...</authors>
+<source>MIT Laboratory for Computer Science</source>
+<citations>1</citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Chord: Scalable, Robust Peer-to-Peer Services</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=280&amp;citation_for_view=Qf4bw4UAAAAJ:vDijr-p_gm4C</link>
+<authors>H Balakrishnan, J Cates, F Dabek, F Kaashoek, D Karger, D Liben-Nowell, R ...</authors>
+<source>MIT Laboratory for Computer Science</source>
+<citations>1</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Stability analysis of an axisymmetric boundary layer</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=280&amp;citation_for_view=Qf4bw4UAAAAJ:AvfA0Oy_GE0C</link>
+<authors>N Vinod, H Balakrishnan, R Govindarajan</authors>
+<source>Proceedings of Asian Congress of Fluid Mechanics, May 27-31, No pp. given</source>
+<citations>1</citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Implementing EFECT</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=280&amp;citation_for_view=Qf4bw4UAAAAJ:k8Z6L05lTy4C</link>
+<authors>IID Nestlerode</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations>1</citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>A Comparison of Logging and Clustering</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=280&amp;citation_for_view=Qf4bw4UAAAAJ:LXmCCkuhhTsC</link>
+<authors>J Ousterhout, H Balakrishnan, K Bostic, J Chang, S McMains, VN Padmanabhan ...</authors>
+<source>Computer Science Department, University of California, Berkeley (March 1994)</source>
+<citations>1</citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Mobile applications need targeted micro-updates</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=300&amp;citation_for_view=Qf4bw4UAAAAJ:eAlLMO4JVmQC</link>
+<authors>A Cheung, L Ravindranath, E Wu, S Madden, H Balakrishnan</authors>
+<source>Proceedings of the 4th Asia-Pacific Workshop on Systems, 8</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Telematics using personal mobile devices</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=300&amp;citation_for_view=Qf4bw4UAAAAJ:UuEBAcK4md4C</link>
+<authors>PG Malalur, H Balakrishnan, SR Madden</authors>
+<source>US Patent 8,457,880</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Estimation of Arrival-Departure Capacity Tradeoffs in Multi-Airport Systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=300&amp;citation_for_view=Qf4bw4UAAAAJ:rbm3iO8VlycC</link>
+<authors>H Balakrishnan, V Ramanujam</authors>
+<source>Institute of Electrical and Electronics Engineers</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Partial packet recovery for wireless networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=300&amp;citation_for_view=Qf4bw4UAAAAJ:An6A6Jpfc1oC</link>
+<authors>K Jamieson, H Balakrishnan</authors>
+<source>US Patent 8,386,892</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Rethinking data transport for a truly mobile world</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=300&amp;citation_for_view=Qf4bw4UAAAAJ:tHtfpZlB6tUC</link>
+<authors>H Balakrishnan</authors>
+<source>Communication Systems and Networks (COMSNETS), 2013 Fifth International ...</source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>Choreo: Network-Aware Task Placement for Cloud Applications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=300&amp;citation_for_view=Qf4bw4UAAAAJ:L_l9e5I586QC</link>
+<authors>K LaCurts, S Deng, A Goyal, H Balakrishnan</authors>
+<source></source>
+<citations></citations>
+<pub_year>2013</pub_year>
+</record>
+<record>
+<title>A comparison of two optimization approaches for airport taxiway and runway scheduling</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=300&amp;citation_for_view=Qf4bw4UAAAAJ:kzcSZmkxUKAC</link>
+<authors>H Lee, H Balakrishnan</authors>
+<source>Digital Avionics Systems Conference (DASC), 2012 IEEE/AIAA 31st, 4E1-1-4E1-15</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Fast-time simulations of Detroit Airport operations for evaluating performance in the presence of uncertainties</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=300&amp;citation_for_view=Qf4bw4UAAAAJ:kF1pexMAQbMC</link>
+<authors>H Lee, H Balakrishnan</authors>
+<source>Digital Avionics Systems Conference (DASC), 2012 IEEE/AIAA 31st, 4E2-1-4E2-13</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Merging and Spacing of Heterogeneous Aircraft in Support of NextGen</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=300&amp;citation_for_view=Qf4bw4UAAAAJ:jE2MZjpN3IcC</link>
+<authors>R Chipalkatty, P Twu, AR Rahmani, M Egerstedt</authors>
+<source>Journal of Guidance, Control, and Dynamics 35 (5), 1637-1646</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>RATELESS AND RATED CODING USING SPINAL CODES</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=300&amp;citation_for_view=Qf4bw4UAAAAJ:-mN3Mh-tlDkC</link>
+<authors>J PERRY, D SHAH, H BALAKRISHNAN</authors>
+<source>WO Patent 2,012,112,872</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Rateless and Rated Coding Using Spinal Codes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=300&amp;citation_for_view=Qf4bw4UAAAAJ:prdVHNxh-e8C</link>
+<authors>J Perry, D Shah, H Balakrishnan</authors>
+<source>US Patent 20,120,213,307</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>A network congestion control approach to airport departure management</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=300&amp;citation_for_view=Qf4bw4UAAAAJ:PYBJJbyH-FwC</link>
+<authors>H Khadilkar, H Balakrishnan</authors>
+<source>American Control Conference (ACC), 2012, 1682-1688</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Demo: code in the air-simplifying tasking on smartphones</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=300&amp;citation_for_view=Qf4bw4UAAAAJ:IaI1MmNe2tcC</link>
+<authors>L Ravindranath, TYH Chen, S Das, R Ifrim, H Balakrishnan, S Madden</authors>
+<source>Proceedings of the 10th international conference on Mobile systems ...</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>BFT: Practical Byzantine Fault Tolerance</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=300&amp;citation_for_view=Qf4bw4UAAAAJ:sA9dB-pw3HoC</link>
+<authors>R Rodrigues, B Liskov, K Chen, M Liskov, D Schultz, B Liskov, D Schultz, M ...</authors>
+<source>IEEE Transactions on Dependable and Secure Computing 9 (2), 146-158</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Methods and apparatus for securing a database</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=300&amp;citation_for_view=Qf4bw4UAAAAJ:YlPif8NxrbYC</link>
+<authors>H Balakrishnan, RA Popa, N Zeldovich</authors>
+<source>US Patent App. 13/357,988</source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Transportation Research Part D</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=300&amp;citation_for_view=Qf4bw4UAAAAJ:qe6vwMD2xtsC</link>
+<authors>H Khadilkar, H Balakrishnan</authors>
+<source></source>
+<citations></citations>
+<pub_year>2012</pub_year>
+</record>
+<record>
+<title>Evaluating aggregation protocols for vehicular networks in simulation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=300&amp;citation_for_view=Qf4bw4UAAAAJ:OP4eGU-M3BUC</link>
+<authors>S Gollakota</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations></citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Acknowledgment to Referees (2010)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=300&amp;citation_for_view=Qf4bw4UAAAAJ:yMeIxYmEMEAC</link>
+<authors>M Abkowitz, M Abou-Zeid, D Adelman, M Albareda-Sambola, C Antoniou, S ...</authors>
+<source>Transportation Science 45 (1), 143-145</source>
+<citations></citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Traffic delay prediction from historical observations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=300&amp;citation_for_view=Qf4bw4UAAAAJ:LO7wyVUgiFcC</link>
+<authors>P Malalur</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations></citations>
+<pub_year>2011</pub_year>
+</record>
+<record>
+<title>Method and apparatus for bandwidth guarantee and overload protection in a network switch</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=300&amp;citation_for_view=Qf4bw4UAAAAJ:SjuI4pbJlxcC</link>
+<authors>H Balakrishnan, S Devadas, A Mithal</authors>
+<source>US Patent 7,724,760</source>
+<citations></citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Provable and practical location privacy for vehicular and mobile systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=320&amp;citation_for_view=Qf4bw4UAAAAJ:LgRImbQfgY4C</link>
+<authors>RA Popa</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations></citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>A Survey of Airline Pilots Regarding Fuel Conservation Procedures for Taxi Operations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=320&amp;citation_for_view=Qf4bw4UAAAAJ:sJsF-0ZLhtgC</link>
+<authors>R Clewow, H Balakrishnan, TG Reynolds</authors>
+<source>International Airport Review 14 (3)</source>
+<citations></citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Dealing with the Airport and its Environment</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=320&amp;citation_for_view=Qf4bw4UAAAAJ:NXb4pA-qfm4C</link>
+<authors>H Balakrishnan, JP Clarke, E Feron, M Pelegrin</authors>
+<source>International Airport Review</source>
+<citations></citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Hardware implementation of wireless bit rate adaptation</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=320&amp;citation_for_view=Qf4bw4UAAAAJ:edDO8Oi4QzsC</link>
+<authors>SA Gross</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations></citations>
+<pub_year>2010</pub_year>
+</record>
+<record>
+<title>Operational planning for multiple heterogeneous unmanned aerial vehicles in three dimensions</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=320&amp;citation_for_view=Qf4bw4UAAAAJ:DJbcl8HfkQkC</link>
+<authors>BE Negron</authors>
+<source>Massachusetts Institute of Technology, Sloan School of Management ...</source>
+<citations></citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Armadillo</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=320&amp;citation_for_view=Qf4bw4UAAAAJ:_OXeSy2IsFwC</link>
+<authors>T Badirkhanli</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations></citations>
+<pub_year>2009</pub_year>
+</record>
+<record>
+<title>Robotics Research</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=320&amp;citation_for_view=Qf4bw4UAAAAJ:q-HalDI95KYC</link>
+<authors>WH Li, AM Zhang, L Kleeman</authors>
+<source>The International Journal of Robotics Research 27 (7), 785-814</source>
+<citations></citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>A Study of Tradeoffs in Scheduling Terminal-Area Operations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=320&amp;citation_for_view=Qf4bw4UAAAAJ:yqoGN6RLRZoC</link>
+<authors>H Balakrishnan, H Lee</authors>
+<source>Proceedings of the IEEE</source>
+<citations></citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Suspending and Resuming Network Applications using Session Continuations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=320&amp;citation_for_view=Qf4bw4UAAAAJ:dBIO0h50nwkC</link>
+<authors>AC Snoeren, D Panigrahi, S Mukhopadhyay, H Balakrishnan, MF Kaashoek</authors>
+<source>Department of Computer Science and Engineering, University of California ...</source>
+<citations></citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>Opportunities for Reducing Surface Emissions</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=320&amp;citation_for_view=Qf4bw4UAAAAJ:8d8msizDQcsC</link>
+<authors>H Balakrishnan</authors>
+<source>International Airport Review 12 (2)</source>
+<citations></citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>A comparison of discrete and flow-based models for air traffic flow management</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=320&amp;citation_for_view=Qf4bw4UAAAAJ:i2xiXl-TujoC</link>
+<authors>TV Phu</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations></citations>
+<pub_year>2008</pub_year>
+</record>
+<record>
+<title>2007 Index IEEE/ACM Transactions on Networking Vol. 15</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=320&amp;citation_for_view=Qf4bw4UAAAAJ:LhH-TYMQEocC</link>
+<authors>T Abdelzaher, F Abel, GB Agnew, J Aikat, IF Akyildiz, M Alicherry, DN ...</authors>
+<source>IEEE/ACM TRANSACTIONS ON NETWORKING 15 (6), 1619</source>
+<citations></citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Application-level distributed denial of service prevention in a replicated system</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=320&amp;citation_for_view=Qf4bw4UAAAAJ:bz8QjSJIRt4C</link>
+<authors>AM Vandiver</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations></citations>
+<pub_year>2007</pub_year>
+</record>
+<record>
+<title>Measuring the performance of a Distributed Quota Enforcement system for spam control</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=320&amp;citation_for_view=Qf4bw4UAAAAJ:KbBQZpvPDL4C</link>
+<authors>JD Zamfirescu-Pereira</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations></citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>METHOD AND APPARATUS FOR BANDWIDTH GUARANTEE AND OVERLOAD PROTECTION IN A NETWORK SWITCH</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=320&amp;citation_for_view=Qf4bw4UAAAAJ:AXkvAH5U_nMC</link>
+<authors>H Balakrishnan, S Devadas, A Mithal</authors>
+<source>EP Patent 1,654,616</source>
+<citations></citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>On constructing correct and scalable iBGP configurations</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=320&amp;citation_for_view=Qf4bw4UAAAAJ:ZzlSgRqYykMC</link>
+<authors>H Balakrishnan, M Vutukuru</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations></citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Towards a deployable framework for delegation of authority in network applications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=320&amp;citation_for_view=Qf4bw4UAAAAJ:WJVC3Jt7v1AC</link>
+<authors>W Stockwell</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations></citations>
+<pub_year>2006</pub_year>
+</record>
+<record>
+<title>Geographic locality of IP prefixes</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=320&amp;citation_for_view=Qf4bw4UAAAAJ:fbc8zXXH2BUC</link>
+<authors>M Vutukuru, MJ Freedman, N Feamster, H Balakrishnan</authors>
+<source>In IMC</source>
+<citations></citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>6.033 Computer System Engineering (SMA 5501), Spring 2005</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=320&amp;citation_for_view=Qf4bw4UAAAAJ:OcBU2YAGkTUC</link>
+<authors>H Balakrishnan, SR Madden</authors>
+<source></source>
+<citations></citations>
+<pub_year>2005</pub_year>
+</record>
+<record>
+<title>METHOD AND APPARATUS FOR ALLOCATING LINK BANDWIDTH</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=320&amp;citation_for_view=Qf4bw4UAAAAJ:6bLC7aUMtPcC</link>
+<authors>S Devadas, H Balakrishnan, DL Rosenband</authors>
+<source>EP Patent 1,402,396</source>
+<citations></citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Semantic-free referencing in linked systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=340&amp;citation_for_view=Qf4bw4UAAAAJ:Bg7qf7VwUHIC</link>
+<authors>MH Walfish</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations></citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Techniques for mitigating congestion in wireless sensor networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=340&amp;citation_for_view=Qf4bw4UAAAAJ:kz9GbA2Ns4gC</link>
+<authors>BW Hull</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations></citations>
+<pub_year>2004</pub_year>
+</record>
+<record>
+<title>Differential bandwidth allocation with multiplexed TCP connections</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=340&amp;citation_for_view=Qf4bw4UAAAAJ:b1wdh0AR-JQC</link>
+<authors>H Iwashima</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations></citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>METHOD AND APPARATUS FOR ALLOCATING LINK BANDWIDTH</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=340&amp;citation_for_view=Qf4bw4UAAAAJ:KaMxkj08jr0C</link>
+<authors>S DEVADAS, H BALAKRISHNAN, D ROSENBAND</authors>
+<source>WO Patent 2,003,005,227</source>
+<citations></citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Location handling system for mobile computing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=340&amp;citation_for_view=Qf4bw4UAAAAJ:ubry08Y2EpUC</link>
+<authors>H Balakrishnan, T Nakamura, M Matsuo</authors>
+<source>NTT Technical Review 1 (6), 21-28</source>
+<citations></citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>Defeating Web censorship with untrusted messenger discovery</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=340&amp;citation_for_view=Qf4bw4UAAAAJ:Ak0FvsSvgGUC</link>
+<authors>N Feamster, M Balazinska, W Wang, H Balakrishnan, D Karger</authors>
+<source>Workshop on Privacy Enhancing Technologies</source>
+<citations></citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>A simulation study of reordering-resilient TCP enhancements</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=340&amp;citation_for_view=Qf4bw4UAAAAJ:SpbeaW3--B0C</link>
+<authors>T Nightingale</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations></citations>
+<pub_year>2003</pub_year>
+</record>
+<record>
+<title>ID Tag</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=340&amp;citation_for_view=Qf4bw4UAAAAJ:j7_hQOaDUrUC</link>
+<authors>H Balakrishnan, VN Padmanabhan</authors>
+<source></source>
+<citations></citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Lecture 17: Overlay Routing in the Internet</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=340&amp;citation_for_view=Qf4bw4UAAAAJ:-DxkuPiZhfEC</link>
+<authors>H Balakrishnan</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations></citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Lecture 8: End-to-End Congestion Control</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=340&amp;citation_for_view=Qf4bw4UAAAAJ:hSRAE-fF4OAC</link>
+<authors>H Balakrishnan</authors>
+<source>Massachussetts Institute of Technology</source>
+<citations></citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Program committee chairs' message</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=340&amp;citation_for_view=Qf4bw4UAAAAJ:IsPWOBWtZBwC</link>
+<authors>H Balakrishnan, V Paxson</authors>
+<source>COMPUTER COMMUNICATION REVIEW 32 (4), IV-IV</source>
+<citations></citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Energy v. performance in wireless networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=340&amp;citation_for_view=Qf4bw4UAAAAJ:yFnVuubrUp4C</link>
+<authors>H Balakrishnan</authors>
+<source>Proceedings of the 6th international workshop on Discrete algorithms and ...</source>
+<citations></citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Lecture 7: Security Problems with Internet Architecture</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=340&amp;citation_for_view=Qf4bw4UAAAAJ:v6i8RKmR8ToC</link>
+<authors>H Balakrishnan</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations></citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Lecture 2: The Internetworking Problem</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=340&amp;citation_for_view=Qf4bw4UAAAAJ:27LrP4qxOz0C</link>
+<authors>H Balakrishnan</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations></citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>Energy Efficient Systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=340&amp;citation_for_view=Qf4bw4UAAAAJ:Ri6SYOTghG4C</link>
+<authors>H Balakrishnan</authors>
+<source>International Conference on Mobile Computing and Networking: Proceedings of ...</source>
+<citations></citations>
+<pub_year>2002</pub_year>
+</record>
+<record>
+<title>ID Tag</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=340&amp;citation_for_view=Qf4bw4UAAAAJ:_axFR9aDTf0C</link>
+<authors>S Floyd, KK Ramakrishnan, DL Black</authors>
+<source></source>
+<citations></citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>SUDS: Software Based Memory Speculation for Raw Microprocessors</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=340&amp;citation_for_view=Qf4bw4UAAAAJ:q3CdL3IzO_QC</link>
+<authors>M Frank, L Mui, A Muthitacharoen, TM Sezgin, X Yang, D Aguayo, D De Couto ...</authors>
+<source>Presented at the MIT Student Oxygen Workshop</source>
+<citations></citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>2LCSMIT</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=340&amp;citation_for_view=Qf4bw4UAAAAJ:Aul-kAQHnToC</link>
+<authors>SA Akella, S Seshan, H Balakrishnan</authors>
+<source></source>
+<citations></citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>High-performance communication networks, [Book Review]</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=340&amp;citation_for_view=Qf4bw4UAAAAJ:6ZxmRoH8BuwC</link>
+<authors>Z Papir, M Hassan, R Jain, G Xylomenos, GC Polyzos, P Mahonen, M Saaranen, H ...</authors>
+<source>IEEE Communications Magazine 39 (4), 18-18</source>
+<citations></citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Enhancing TCP\ x27s Loss Recovery Using Limited Transmit</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=340&amp;citation_for_view=Qf4bw4UAAAAJ:8Xgff_V0N9gC</link>
+<authors>S Floyd, H Balakrishnan, M Allman</authors>
+<source></source>
+<citations></citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>TCP PERFORMANCE-HOW NETWORK ASYMMETRY AFFECTS TCP-Several emerging wireline and wireless access network technologies exhibit asymmetry in their network characteristics. A high degree of asymmetry</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=360&amp;citation_for_view=Qf4bw4UAAAAJ:9pM33mqn1YgC</link>
+<authors>M Hassan, R Jain, H Balakrishnan, VN Padmanabhan</authors>
+<source>IEEE Communications Magazine 39 (4), 60-67</source>
+<citations></citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>Discovering network topology by correlating end-to-end delay measurements</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=360&amp;citation_for_view=Qf4bw4UAAAAJ:LI9QrySNdTsC</link>
+<authors>JIH Baron</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations></citations>
+<pub_year>2001</pub_year>
+</record>
+<record>
+<title>33rd Hawaii International Conference on System Sciences-Volume 8</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=360&amp;citation_for_view=Qf4bw4UAAAAJ:CYCckWUYoCcC</link>
+<authors>WR Heinzelman, A Chandrakasan, H Balakrishnan</authors>
+<source></source>
+<citations></citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>Reverse HTTP tunneling for firewall traversal</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=360&amp;citation_for_view=Qf4bw4UAAAAJ:5MTHONV0fEkC</link>
+<authors>EN Sit</authors>
+<source>Massachusetts Institute of Technology</source>
+<citations></citations>
+<pub_year>2000</pub_year>
+</record>
+<record>
+<title>The Seventh Workshop on Hot Topics in Operating Systems</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=360&amp;citation_for_view=Qf4bw4UAAAAJ:QsaTk4IG4EwC</link>
+<authors>HS Rahul, H Balakrishnan, S Seshan</authors>
+<source></source>
+<citations></citations>
+<pub_year>1999</pub_year>
+</record>
+<record>
+<title>Fifth Workshop on Hot Topics in Operating Systems (HotOS-V)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=360&amp;citation_for_view=Qf4bw4UAAAAJ:2v_ZtQDX9iAC</link>
+<authors>E Amir, H Balakrishnan, S Seshan, RH Katz</authors>
+<source></source>
+<citations></citations>
+<pub_year>1995</pub_year>
+</record>
+<record>
+<title>Timecard: Controlling User-Perceived Delays in Server-Based Mobile Applications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=360&amp;citation_for_view=Qf4bw4UAAAAJ:T_ojBgVMvoEC</link>
+<authors>L Ravindrantah, J Padhye, R Mahajan, H Balakrishnan, J Padhye</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Reports and Papers</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=360&amp;citation_for_view=Qf4bw4UAAAAJ:D_tqNUsBuKoC</link>
+<authors>K Shetty, TS Tao, RJ Hansman, K Bishop, A Butchibabu</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>The magazine archive includes every article published in Communications of the ACM for over the past 50 years.</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=360&amp;citation_for_view=Qf4bw4UAAAAJ:AYInfyleIOsC</link>
+<authors>RA Popa, CMS Redfield, N Zeldovich, H Balakrishnan</authors>
+<source>Communications of the ACM 55 (9), 103-111</source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>On the Probabilistic Modeling of Runway Inter-departure Times</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=360&amp;citation_for_view=Qf4bw4UAAAAJ:isU91gLudPYC</link>
+<authors>I SIMAIAKIS, H BALAKRISHNAN</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Metrics to Characterize Airport Operational Performance Using Surface Surveillance Data</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=360&amp;citation_for_view=Qf4bw4UAAAAJ:RJOyoaXV5v8C</link>
+<authors>H Khadilkar, H Balakrishnan</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Flattening the Internet: A Proposal for Global Device-to-Device Connectivity</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=360&amp;citation_for_view=Qf4bw4UAAAAJ:2ywjKiB__4kC</link>
+<authors>H Balakrishnan, J Guttag, MF Kaashoek, D Katabi, S Madden, R Morris, M van Dijk</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Data Management in an Connected World</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=360&amp;citation_for_view=Qf4bw4UAAAAJ:0aBXIfxlw9sC</link>
+<authors>H Balakrishnan, J Guttag, F Kaashoek, BC Kuszmaul, CE Leiserson, B Liskov, S ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Optimized Coordinated Planning of Asynchronous Air and Space Assets in the Presence of Uncertainty</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=360&amp;citation_for_view=Qf4bw4UAAAAJ:eGYfIraVYiQC</link>
+<authors>E Robinson, M Abramson, H Balakrishnan, S Kolitz</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>A State-of-the-Art Good Old-Fashioned Mobile Shell</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=360&amp;citation_for_view=Qf4bw4UAAAAJ:1tZ8xJnm2c8C</link>
+<authors>K WINSTEIN, H BALAKRISHNAN</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>ESD Working Paper Series</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=360&amp;citation_for_view=Qf4bw4UAAAAJ:X9ykpCP0fEIC</link>
+<authors>RR Clewlow, JM Sussman, H Balakrishnan</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Amer, PD, see Fecko, MA, T-NTW Oct 03 796-809 Anandalingam, G., see Keon, NJ, T-NTW Feb 03 66-80 Andrews, M., and L. Zhang. Achieving stability in networks of input-queued switches; T-NTW Oct 03 848-857</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=360&amp;citation_for_view=Qf4bw4UAAAAJ:qwy9JoKyICEC</link>
+<authors>F Anjum, J Auerbach, H Balakrishnan, M Baldi, PH Bauer, B Bensaou, DP ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>International Center for Air Transportation Research and Teaching Output of the MIT Community</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=360&amp;citation_for_view=Qf4bw4UAAAAJ:DyXnQzXoVgIC</link>
+<authors>J Stilwell, RJ Hansman, M Sandberg, T Reynolds, H Khadikar, H Balakrishnan ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Akyildiz, IF, see Levine, DA, T-NTW Feb 97 1-12 Akyildiz, IF, see Ho, JSM, T-NTW Oct 97 646-660 Ammar, MH, see Krupczak, B., T-NTW Aug 97 445-459 Andersin, M., Z. Rosberg, and J. Zander. Soft and safe admission control in cellular networks; T-NTW Apr 97 255-265</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=360&amp;citation_for_view=Qf4bw4UAAAAJ:SIv7DqKytYAC</link>
+<authors>MF Arlitt, H Balakrishnan, M Barbeau, BR Bellur, JCR Bennett, B Bensaou, A ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Air Transportation Research Research and Teaching Output of the MIT Community</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=360&amp;citation_for_view=Qf4bw4UAAAAJ:silx2ntsSuwC</link>
+<authors>J Stilwell, RJ Hansman, MD Wittman, WS Swelbar, M Sandberg, T Reynolds, H ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>journal homepage: www. elsevier. com/locate/trc</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=380&amp;citation_for_view=Qf4bw4UAAAAJ:Hck25ST_3aIC</link>
+<authors>RA Abbaspour, HA Abbass, MA Abdel-Aty, K Abdelghany, B Abdulhai, K Aboudolas ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Optimal Control of Airport Operations with Gate Capacity Constraints</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=380&amp;citation_for_view=Qf4bw4UAAAAJ:zGdJYJv2LkUC</link>
+<authors>H Khadilkar, H Balakrishnan</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Control design techniques for constrained positive compartmental systems with applications to air traffic flow management</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=380&amp;citation_for_view=Qf4bw4UAAAAJ:HJSXoJQnj-YC</link>
+<authors>HM ARNESON</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Loss-Optimized Routing in Overlay Networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=380&amp;citation_for_view=Qf4bw4UAAAAJ:5bg8sr1QxYwC</link>
+<authors>D Andersen, H Balakrishnan, AC Snoeren</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Alfalfa: A Videoconferencing Protocol for Cellular Wireless Networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=380&amp;citation_for_view=Qf4bw4UAAAAJ:WAzi4Gm8nLoC</link>
+<authors>K Winstein, A Sivaraman, H Balakrishnan</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>ダイナミックネットワークに関する研究開発課題ウ 利用者・アプリケーション指向の制御研究開発 (委託研究)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=380&amp;citation_for_view=Qf4bw4UAAAAJ:ziOE8S1-AIUC</link>
+<authors>H Balakrishnan, HS Rahul, S Seshan</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Browsing International Center for Air Transportation by Title</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=380&amp;citation_for_view=Qf4bw4UAAAAJ:-7ulzOJl1JYC</link>
+<authors>E Lester, RJ Hansman, LN Vigeant-Langlois, P Pina, M Lohrenz, I Anagnostakis ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>HotOSVIII Committee</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=380&amp;citation_for_view=Qf4bw4UAAAAJ:1Ye0OR6EYb4C</link>
+<authors>J Liedtke, M Shapiro, G Liefländer, K Elphinstone, W Kühnhauser, M Baker, H ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Arup Acharya, NEC</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=380&amp;citation_for_view=Qf4bw4UAAAAJ:Ade32sEp0pkC</link>
+<authors>E Al-Shaer, R Alur, Y Amir, E Anceaume, GS Avrunin, BR Badrinath, V Bahl, D ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>The Impact of False Sharing on Shared Congestion Management</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=380&amp;citation_for_view=Qf4bw4UAAAAJ:1yWc8FF-_SYC</link>
+<authors>AAS Seshan, H Balakrishnan</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>The Software Compass and Other New Location-Aware Devices</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=380&amp;citation_for_view=Qf4bw4UAAAAJ:jU7OWUQzBzMC</link>
+<authors>S Teller, H Balakrishnan, J Chen, V Kulikov, P Luka, S Markan, P Nichols</authors>
+<source>An Atlas Framework for Scalable Mapping, 43</source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>A Network-Based Model for Predicting Air Traffic Delays</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=380&amp;citation_for_view=Qf4bw4UAAAAJ:wKETBy42zhYC</link>
+<authors>JJ Rebollo, H Balakrishnan</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Research Abstracts-2006</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=380&amp;citation_for_view=Qf4bw4UAAAAJ:LdasjJ6CEcoC</link>
+<authors>A Miu, H Balakrishnan</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>A Graduate Course in Computer Networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=380&amp;citation_for_view=Qf4bw4UAAAAJ:buQ7SEKw-1sC</link>
+<authors>H Balakrishnan</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Message from the General Chair _ viii Message from the Program Chairs _ x External Reviewers _ xi</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=380&amp;citation_for_view=Qf4bw4UAAAAJ:AHdEip9mkN0C</link>
+<authors>H Yu, P Gibbons, M Kaminsky, F Xiao, P Venkitasubramaniam, L Tong, C Wright ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>An Image Transport Protocol for the Internet Ѓ</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=380&amp;citation_for_view=Qf4bw4UAAAAJ:vDZJ-YLwNdEC</link>
+<authors>S Raman, H Balakrishnan, M Srinivasan</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Logical Abstractions for Wide-Area Internet Routing</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=380&amp;citation_for_view=Qf4bw4UAAAAJ:gKiMpY-AVTkC</link>
+<authors>N Feamster, H Balakrishnan</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>LOBcast: A Hybrid Protocol for Reliable Dissemination in Wireless Sensor Networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=380&amp;citation_for_view=Qf4bw4UAAAAJ:8xutWZnSdmoC</link>
+<authors>S Rost, H Balakrishnan</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Anchor-Free Distributed Localization for Cricket Beacons</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=380&amp;citation_for_view=Qf4bw4UAAAAJ:nZcligLrVowC</link>
+<authors>NB Priyantha, H Balakrishnan, ED Demaine, S Teller</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Toward Ubiquitous Robotics and Direct Interaction, 2003-04</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=380&amp;citation_for_view=Qf4bw4UAAAAJ:r_AWSJRzSzQC</link>
+<authors>S Teller, H Balakrishnan, R Cipolla, T Darrell, J Leonard, D Rus, M Jethwa ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>I 1 Wireless Networks (WINET)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=400&amp;citation_for_view=Qf4bw4UAAAAJ:HeT0ZceujKMC</link>
+<authors>H Balakrishnan, S Seshan, E Amir, K Katz, Y Birk, Y Nachman, J Capone, L Merakos</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>An Ultrasonic Compass for Context-Aware Mobile Applications</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=400&amp;citation_for_view=Qf4bw4UAAAAJ:4vMrXwiscB8C</link>
+<authors>H Balakrishnan, NB Priyantha, K Steele, S Teller, KJ Wang</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Divert: Fine-Grained Access Point Selection for Wireless LANs</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=400&amp;citation_for_view=Qf4bw4UAAAAJ:QYdC8u9Cj1oC</link>
+<authors>A Miu, G Tan, H Balakrishnan</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Self-Calibrating Cricket Beacon Networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=400&amp;citation_for_view=Qf4bw4UAAAAJ:9c2xU6iGI7YC</link>
+<authors>H Balakrishnan, R Baliga, S Teller</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Research Abstracts-2007</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=400&amp;citation_for_view=Qf4bw4UAAAAJ:IUKN3-7HHlwC</link>
+<authors>L Girod, Y Mei, R Newton, S Rost, A Thiagarajan, H Balakrishnan, S Madden</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Twine: Scalable intentional resource discovery for pervasive computing environments</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=400&amp;citation_for_view=Qf4bw4UAAAAJ:OTTXONDVkokC</link>
+<authors>M Balazinska, H Balakrishnan</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Span: An Energy-Effi cient Coordination Algorithm for</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=400&amp;citation_for_view=Qf4bw4UAAAAJ:DUooU5lO8OsC</link>
+<authors>B Chen, K Jamieson, H Balakrishnan, R Morris</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>How Network Asymmetry Affects Transport Protocols</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=400&amp;citation_for_view=Qf4bw4UAAAAJ:sNmaIFBj_lkC</link>
+<authors>H Balakrishnan, VN Padmanabhan</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>http://nms. csail. mit. edu/ron/ronweb</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=400&amp;citation_for_view=Qf4bw4UAAAAJ:4hFrxpcac9AC</link>
+<authors>DG Andersen, H Balakrishnan, MF Kaashoek, RN Rao</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Symposium Organizers</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=400&amp;citation_for_view=Qf4bw4UAAAAJ:HtEfBTGE9r8C</link>
+<authors>DG Andersen, S Ratnasamy, A Akella, K Argyraki, R Arpaci-Dusseau, H ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Ghosts in the Machine: Interfaces for Better Power Management (PDF)-Awarded Best Paper!</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=400&amp;citation_for_view=Qf4bw4UAAAAJ:0izLItjtcgwC</link>
+<authors>M Anand, EB Nightingale, J Flinn, R Sarvas, E Herrarte, A Wilhelm, M Davis ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>CarTelDB: Continuous Query Processing in an Intermittently Connected World</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=400&amp;citation_for_view=Qf4bw4UAAAAJ:anf4URPfarAC</link>
+<authors>S Madden, Y Zhang, B Hull, V Bychkovsky, H Balakrishnan</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Chord and the Iris Project: Scalable, Robust Peer-to-Peer Services</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=400&amp;citation_for_view=Qf4bw4UAAAAJ:_FM0Bhl9EiAC</link>
+<authors>H Balakrishnan, J Cates, B Chen, F Dabek, T Gil, F Kaashoek, D Karger, D ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Data Engineering</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=400&amp;citation_for_view=Qf4bw4UAAAAJ:GtLg2Ama23sC</link>
+<authors>S Zdonik, M Stonebraker, M Cherniack, M Balazinska, H Balakrishnan, S ...</authors>
+<source>Urbana 51</source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Demo Abstract: PCP: The Personal Commute Portal</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=400&amp;citation_for_view=Qf4bw4UAAAAJ:4fGpz3EwCPoC</link>
+<authors>H Balakrishnan, N Correll, J Erikkson, S Lim, S Madden, D Rus</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Energy-Efficient Congestion Control in Wireless Sensor Networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=400&amp;citation_for_view=Qf4bw4UAAAAJ:86PQX7AUzd4C</link>
+<authors>B Hull, K Jamieson, H Balakrishnan</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Formatted Citation Show HTML Likes (beta)</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=400&amp;citation_for_view=Qf4bw4UAAAAJ:PVjk1bu6vJQC</link>
+<authors>L GORDIS</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Blueware: Support for Self-organizing Bluetooth Scatternets</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=400&amp;citation_for_view=Qf4bw4UAAAAJ:hCrLmN-GePgC</link>
+<authors>G Tan, A Miu, J Guttag, H Balakrishnan</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>MADHU, K. CMU-CS-01-125 MADHYASTHA, Tara CMU-CS-01-101 MAHABOOB, Habeen CMU-CS-01-162, CMU-CS-01-163</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=400&amp;citation_for_view=Qf4bw4UAAAAJ:XoXfffV-tXoC</link>
+<authors>UA ACAR, SA AKELLA, JR ANDERSON, R BUDIU, MW BIGRIGG, M BAKKALOGLU, H ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Note: Until a year after the conference, the full refereed papers are available only to USENIX members. When accessing restricted papers, remember to use your member number or login name as your userid. Not a USENIX member? Join today!</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=400&amp;citation_for_view=Qf4bw4UAAAAJ:ruyezt5ZtCIC</link>
+<authors>GS Banavar, W Zwaenepoel, D Terry, R Want, G Abowd, M Baker, H Balakrishnan ...</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Data Engineering</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=420&amp;citation_for_view=Qf4bw4UAAAAJ:foquWX3nUaYC</link>
+<authors>M Stonebraker, M Cherniack, U Cetintemel, M Balazinska, H Balakrishnan, S ...</authors>
+<source>Urbana 51, 61801</source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Effective Number of Transmissions and Routing in Multi-Hop Wireless Networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=420&amp;citation_for_view=Qf4bw4UAAAAJ:e_rmSamDkqQC</link>
+<authors>CE Koksal, H Balakrishnan</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Managing the 802.11 Energy/Performance Tradeoff with Online Learning</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=420&amp;citation_for_view=Qf4bw4UAAAAJ:-FonjvnnhkoC</link>
+<authors>C Monteleoni, H Balakrishnan, T Jaakkola</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Research Abstracts-2006</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=420&amp;citation_for_view=Qf4bw4UAAAAJ:WZBGuue-350C</link>
+<authors>K Jamieson, H Balakrishnan</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Untangling the Web from DNS Using Distributed Hash Tables</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=420&amp;citation_for_view=Qf4bw4UAAAAJ:M7yex6snE4oC</link>
+<authors>M Walfish, H Balakrishnan</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>System Support for Location-dependent Applications over Indoor Wireless Networks</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=420&amp;citation_for_view=Qf4bw4UAAAAJ:VaXvl8Fpj5cC</link>
+<authors>H Balakrishnan, JV Guttag</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Chord: A Scalable Peer-to-Peer Lookup Service</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=420&amp;citation_for_view=Qf4bw4UAAAAJ:tYavs44e6CUC</link>
+<authors>MF Kaashoek, H Balakrishnan</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+<record>
+<title>Real-Time Detection of Anomalous Network Activity</title>
+<link>http://scholar.google.com//citations?view_op=view_citation&amp;hl=en&amp;oe=ASCII&amp;user=Qf4bw4UAAAAJ&amp;cstart=420&amp;citation_for_view=Qf4bw4UAAAAJ:hMsQuOkrut0C</link>
+<authors>J Jung, H Balakrishnan</authors>
+<source></source>
+<citations></citations>
+<pub_year></pub_year>
+</record>
+</file>

@@ -1,0 +1,5729 @@
+RT Journal Article
+ID 6195012
+A1 Weidmann,Claudio
+A1 Vetterli,Martin
+YR 2012
+T1 Rate Distortion Behavior of Sparse Sources
+JF IEEE Transactions on Information Theory
+VO 58
+SP 4969
+OP 4992
+IS 8
+
+RT Journal Article
+ID 57014487
+A1 Konsbruck,Robert,L.
+A1 Telatar,Emre
+A1 Vetterli,Martin
+YR 2012
+T1 On Sampling and Coding for Distributed Acoustic Sensing
+JF IEEE Transactions on Information Theory
+VO 58
+SP 3198
+OP 3214
+IS 5
+
+RT Conference Proceedings
+ID 56965136
+A1 Cheny,Zichong
+A1 Barrenetxeay,Guillermo
+A1 Vetterliyz,Martin
+YR 2012
+T1 Share risk and energy: Sampling and communication strategies for multi-camera wireless monitoring networks
+SP 1862
+OP 1870
+
+RT Journal Article
+ID 57021660
+A1 Do,Minh,N.
+A1 Marchand-Maillet,Davy
+A1 Vetterli,Martin
+YR 2012
+T1 On the Bandwidth of the Plenoptic Function
+JF IEEE Transactions on Image Processing
+VO 21
+SP 708
+OP 717
+IS 2
+
+RT Journal Article
+ID 57012050
+A1 Yang,Feng
+A1 Lu,Yue,M.
+A1 Sbaiz,Luciano
+A1 Vetterli,Martin
+YR 2012
+T1 Bits From Photons: Oversampled Image Acquisition Using Binary Poisson Statistics
+JF IEEE Transactions on Image Processing
+VO 21
+SP 1421
+OP 1436
+IS 4
+
+RT Journal Article
+ID 51179632
+A1 Dubois-Ferriere,Henri
+A1 Grossglauser,Matthias
+A1 Vetterli,Martin
+YR 2011
+T1 Valuable Detours: Least-Cost Anypath Routing
+JF IEEE/ACM Transactions on Networking
+VO 19
+SP 333
+OP 346
+IS 2
+
+RT Journal Article
+ID 51186259
+A1 Benezit,Florence
+A1 Thiran,Patrick
+A1 Vetterli,Martin
+YR 2011
+T1 The Distributed Multiple Voting Problem
+JF IEEE Journal of Selected Topics in Signal Processing
+VO 5
+SP 791
+OP 804
+IS 4
+
+RT Journal Article
+ID 48890662
+A1 Simoni,S.
+A1 Padoan,S.
+A1 Nadeau,D.,F.
+A1 Diebold,M.
+A1 Porporato,A.
+A1 Barrenetxea,G.
+A1 Ingelrest,F.
+A1 Vetterli,M.
+A1 Parlange,M.,B.
+YR 2011
+T1 Hydrologic response of an alpine watershed: Application of a meteorological wireless sensor network to understand streamflow generation
+JF Water Resources Research
+VO 47
+SP 16
+IS 10
+
+RT Journal Article
+ID 51186275
+A1 Scaglione,Anna
+A1 Coates,Mark
+A1 Gastpar,Michael
+A1 Tsitsiklis,John
+A1 Vetterli,Martin
+YR 2011
+T1 Introduction to the Issue on Gossiping Algorithms Design and Applications
+JF IEEE Journal of Selected Topics in Signal Processing
+VO 5
+SP 645
+OP 648
+IS 4
+
+RT Conference Proceedings
+ID 51137626
+A1 Naini,Farid,Movahedi
+A1 Dousse,Olivier
+A1 Thiran,Patrick
+A1 Vetterli,Martin
+YR 2011
+T1 Population size estimation using a few individuals as agents
+SP 2499
+OP 2503
+
+RT Journal Article
+ID 51192838
+A1 Cheraghchi,Mahdi
+A1 Hormati,Ali
+A1 Karbasi,Amin
+A1 Vetterli,Martin
+YR 2011
+T1 Group Testing With Probabilistic Tests: Theory, Design and Application
+JF IEEE Transactions on Information Theory
+VO 57
+SP 7057
+OP 7067
+IS 10
+
+RT Conference Proceedings
+ID 51071613
+A1 Barbotin,Yann
+A1 Hormati,Ali
+A1 Rangan,Sundeep
+A1 Vetterli,Martin
+YR 2011
+T1 Estimating Sparse MIMO channels having Common Support
+SP 2920
+OP 2923
+
+RT Conference Proceedings
+ID 56942934
+A1 Dokmanic,Ivan
+A1 Ranieri,Juri
+A1 Chebira,Amina
+A1 Vetterli,Martin
+YR 2011
+T1 Sensor networks for diffusion fields: Detection of sources in space and time
+
+RT Conference Proceedings
+ID 51072555
+A1 Ranieri,Juri
+A1 Chebira,Amina
+A1 Lu,Yue,M.
+A1 Vetterli,Martin
+YR 2011
+T1 Sampling and reconstructing diffusion fields with localized sources
+SP 4016
+OP 4019
+
+RT Conference Proceedings
+ID 51071801
+A1 Parhizkar,Reza
+A1 Karbasi,Amin
+A1 Vetterli,Martin
+YR 2011
+T1 Calibration in circular ultrasound tomography devices
+SP 549
+OP 552
+
+RT Conference Proceedings
+ID 51071744
+A1 Dokmanic,Ivan
+A1 Lu,Yue,M.
+A1 Vetterli,Martin
+YR 2011
+T1 Can one hear the shape of a room: The 2-D polygonal case
+SP 321
+OP 324
+
+RT Conference Proceedings
+ID 56942876
+A1 Lu,Yue,M.
+A1 Dragotti,Pier,Luigi
+A1 Vetterli,Martin
+YR 2011
+T1 Localization of diffusive sources using spatiotemporal measurements
+
+RT Conference Proceedings
+ID 56942897
+A1 Unnikrishnan,Jayakrishnan
+A1 Vetterli,Martin
+YR 2011
+T1 Sampling trajectories for mobile sensing
+
+RT Journal Article
+ID 51179179
+A1 Hormati,Ali
+A1 Vetterli,Martin
+YR 2011
+T1 Compressive Sampling of Multiple Sparse Signals Having Common Support Using Finite Rate of Innovation Principles
+JF IEEE Signal Processing Letters
+VO 18
+SP 331
+OP 334
+IS 5
+
+RT Conference Proceedings
+ID 51072310
+A1 Pinto,Francisco
+A1 Vetterli,Martin
+YR 2011
+T1 Applications of short space-time fourier analysis in digital acoustics
+SP 2460
+OP 2463
+
+RT Conference Proceedings
+ID 51073035
+A1 Lu,Yue,M.
+A1 Vetterli,Martin
+YR 2011
+T1 Sparse spectral factorization: Unicity and reconstruction algorithms
+SP 5976
+OP 5979
+
+RT Journal Article
+ID 6620464
+A1 Ingelrest,François
+A1 Barrenetxea,Guillermo
+A1 Schaefer,Gunnar
+A1 Vetterli,Martin
+A1 Couach,Olivier
+A1 Parlange,Marc
+YR 2010
+T1 SensorScope: Application-specific sensor network for environmental monitoring
+JF ACM Transactions on Sensor Networks
+VO 6
+SP 1
+OP 32
+IS 2
+
+RT Journal Article
+ID 14356298
+A1 Lu,Yue,M.
+A1 Karzand,Mina
+A1 Vetterli,Martin
+YR 2010
+T1 Demosaicking by Alternating Projections: Theory and Fast One-Step Implementation
+JF IEEE Transactions on Image Processing
+VO 19
+SP 2085
+OP 2098
+IS 8
+
+RT Journal Article
+ID 39330066
+A1 Bénézit,Florence
+A1 Dimakis,Alexandros,G.
+A1 Thiran,Patrick
+A1 Vetterli,Martin
+YR 2010
+T1 Order-optimal consensus through randomized path averaging
+JF IEEE Transactions on Information Theory
+VO 56
+SP 5150
+OP 5167
+IS 10
+
+RT Conference Proceedings
+ID 50908507
+A1 Benezit,Florence
+A1 Blondel,Vincent
+A1 Thiran,Patrick
+A1 Tsitsiklis,John
+A1 Vetterli,Martin
+YR 2010
+T1 Weighted Gossip: Distributed Averaging using non-doubly stochastic matrices
+
+RT Journal Article
+ID 14379798
+A1 Pinto,Francisco
+A1 Vetterli,Martin
+YR 2010
+T1 Space-time-frequency processing of acoustic wave fields: theory, algorithms, and applications
+JF IEEE Transactions on Signal Processing
+VO 58
+SP 4608
+OP 4620
+IS 9
+
+RT Book, Whole
+ID 49062828
+A1 Velisavljević,Vladan
+A1 Vetterli,Martin
+A1 Beferull-Lozano,Baltasar
+A1 Dragotti,Pier,Luigi
+YR 2010
+T1 Sparse Image Representation by Directionlets
+JF Advances in Imaging and Electron Physics
+VO 161
+SP 147
+OP 209
+
+RT Journal Article
+ID 41776473
+A1 Roth,T.,R.
+A1 Westhoff,M.,C.
+A1 Huwald,H.
+A1 Huff,J.,A.
+A1 Rubin,J.,F.
+A1 Barrenetxea,G.
+A1 Vetterli,M.
+A1 Parriaux,A.
+A1 Selker,J.,S.
+A1 Parlange,M.,B.
+YR 2010
+T1 Stream Temperature Response to Three Riparian Vegetation Scenarios by Use of a Distributed Temperature Validated Model
+JF Environmental Science & Technology
+VO 44
+SP 2072
+OP 2078
+IS 6
+
+RT Conference Proceedings
+ID 39291516
+A1 Pinto,Francisco
+A1 Vetterli,Martin
+YR 2010
+T1 Near-field adaptive beamforming and source localization in the spacetime frequency domain
+SP 2734
+OP 2737
+
+RT Conference Proceedings
+ID 7017729
+A1 Tosic,Ivana
+A1 Jovanovic,Ivana
+A1 Frossard,Pascal
+A1 Vetterli,Martin
+A1 Duric,Neb
+YR 2010
+T1 Ultrasound tomography with learned dictionaries
+SP 5502
+OP 5505
+
+RT Journal Article
+ID 37466466
+A1 Menzer,Fritz
+A1 Brooks,Anna
+A1 Halje,Pär
+A1 Faller,Christof
+A1 Vetterli,Martin
+A1 Blanke,Olaf
+YR 2010
+T1 Feeling in control of your footsteps: Conscious gait monitoring and the auditory consequences of footsteps
+JF Cognitive Neuroscience
+VO 1
+SP 184
+OP 192
+IS 3
+
+RT Journal Article
+ID 14376601
+A1 Cunha,Arthur,L.,da
+A1 Do,Minh,N.
+A1 Vetterli,Martin
+YR 2010
+T1 On the information rates of the plenoptic function
+JF IEEE Transactions on Information Theory
+VO 56
+SP 1306
+OP 1321
+IS 3
+
+RT Journal Article
+ID 14379210
+A1 Hormati,Ali
+A1 Roy,Olivier
+A1 Lu,Yue,M.
+A1 Vetterli,Martin
+YR 2010
+T1 Distributed sampling of signals linked by sparse filtering: theory and applications
+JF IEEE Transactions on Signal Processing
+VO 58
+SP 1095
+OP 1109
+IS 3
+
+RT Journal Article
+ID 27616731
+A1 Parhizkar,Reza
+A1 Karbasi,Amin
+A1 Oh,Sewoong
+A1 Vetterli,Martin
+YR 2010
+T1 Calibration for Ultrasound Breast Tomography Using Matrix Completion
+JF Computing Research Repository
+VO abs/1012.4
+
+RT Conference Proceedings
+ID 27636668
+A1 Chen,Zichong
+A1 Barrenetxea,Guillermo
+A1 Vetterli,Martin
+YR 2010
+T1 Distributed Successive Approximation Coding using Broadcast Advantage: The Two-Encoder Case
+VO abs/1010.3
+
+RT Conference Proceedings
+ID 7015168
+A1 Kolundÿzija,Mihailo
+A1 Faller,Christof
+A1 Vetterli,Martin
+YR 2010
+T1 Baffled circular loudspeaker array with broadband high directivity
+SP 73
+OP 76
+
+RT Journal Article
+ID 13984799
+A1 Cheraghchi,Mahdi
+A1 Hormati,Ali
+A1 Karbasi,Amin
+A1 Vetterli,Martin
+YR 2010
+T1 Group Testing with Probabilistic Tests: Theory, Design and Application
+JF Computing Research Repository
+VO abs/1009.3
+
+RT Journal Article
+ID 13154023
+A1 Yang,Feng
+A1 Sbaiz,Luciano
+A1 Charbon,Edoardo
+A1 Süsstrunk,Sabine
+A1 Vetterli,Martin
+YR 2010
+T1 On pixel detection threshold in the gigavision camera
+VO 7537
+SP 75370
+
+RT Conference Proceedings
+ID 13547102
+A1 McCormick,Martin
+A1 Lu,Yue,M.
+A1 Vetterli,Martin
+YR 2010
+T1 Learning sparse systems at sub-Nyquist rates: A frequency-domain approach
+SP 4018
+OP 4021
+
+RT Conference Proceedings
+ID 39290951
+A1 Chebira,Amina
+A1 Fickus,Matthew
+A1 Vetterli,Martin
+YR 2010
+T1 Frame domain signal processing: Framework and applications
+SP 4094
+OP 4097
+
+RT Conference Proceedings
+ID 5685633
+A1 Bénézit,Florence
+A1 Thiran,Patrick
+A1 Vetterli,Martin
+YR 2009
+T1 Interval consensus: From quantized gossip to voting
+SP 3661
+OP 3664
+
+RT Journal Article
+ID 12428593
+A1 Vandewalle,Patrick
+A1 Kovacevic,Jelena
+A1 Vetterli,Martin
+YR 2009
+T1 Reproducible research in signal processing
+JF IEEE Signal Processing Magazine
+VO 26
+SP 37
+OP 47
+IS 3
+
+RT Book, Whole
+ID 4707378
+A1 Schaefer,Gunnar
+A1 Ingelrest,François
+A1 Vetterli,Martin
+YR 2009
+T1 Potentials of Opportunistic Routing in Energy-Constrained Wireless Sensor Networks
+SP 118
+OP 133
+
+RT Journal Article
+ID 4972096
+A1 Jovanovi,Ivana
+A1 Sbaiz,Luciano
+A1 Vetterli,Martin
+YR 2009
+T1 ACOUSTIC TOMOGRAPHY METHOD FOR MEASURING TEMPERATURE AND WIND VELOCITY
+
+RT Conference Proceedings
+ID 10258351
+A1 Lu,Yue,M.
+A1 Fredembach,Clément
+A1 Vetterli,Martin
+A1 Süsstrunk,Sabine
+YR 2009
+T1 Designing color filter arrays for the joint capture of visible and near-infrared images
+SP 3797
+OP 3800
+
+RT Conference Proceedings
+ID 6256784
+A1 Karbasi,Amin
+A1 Hormati,Ali
+A1 Mohajer,Soheil
+A1 Vetterli,Martin
+YR 2009
+T1 Support recovery in compressed sensing: An estimation theoretic approach
+
+RT Journal Article
+ID 6070383
+A1 Cheraghchi,Mahdi
+A1 Hormati,Ali
+A1 Karbasi,Amin
+A1 Vetterli,Martin
+YR 2009
+T1 Compressed Sensing with Probabilistic Measurements: A Group Testing Solution
+JF Computing Research Repository
+VO abs/0909.3
+
+RT Journal Article
+ID 5579994
+A1 Lu,Yue,M.
+A1 Vetterli,Martin
+YR 2009
+T1 Optimal color filter array design: quantitative conditions and an efficient search procedure
+SP 725009
+
+RT Conference Proceedings
+ID 5649803
+A1 Lu,Yue,M.
+A1 Vetterli,Martin
+YR 2009
+T1 Spatial super-resolution of a diffusion field by temporal oversampling in sensor networks
+SP 2249
+OP 2252
+
+RT Journal Article
+ID 4780768
+A1 Roy,Olivier
+A1 Vetterli,Martin
+YR 2009
+T1 Rate-Constrained Collaborative Noise Reduction for Wireless Hearing Aids
+JF IEEE Transactions on Signal Processing
+VO 57
+SP 645
+OP 657
+IS 2
+
+RT Conference Proceedings
+ID 13151361
+A1 Sbaiz,Luciano
+A1 Yang,Feng
+A1 Charbon,Edoardo
+A1 Süsstrunk,Sabine
+A1 Vetterli,Martin
+YR 2009
+T1 The gigavision camera
+SP 1093
+OP 1096
+
+RT Conference Proceedings
+ID 5878044
+A1 Lu,Yue,M.
+A1 Vetterli,Martin
+YR 2009
+T1 Distributed spatio-temporal sampling of diffusion fields from sparse instantaneous sources
+
+RT Conference Proceedings
+ID 5640205
+A1 Roy,Olivier
+A1 Hormati,Ali
+A1 Lu,Yue,M.
+A1 Vetterli,Martin
+YR 2009
+T1 Distributed sensing of signals linked by sparse filtering
+SP 2409
+OP 2412
+
+RT Journal Article
+ID 10504532
+A1 Nadeau,Daniel,F.
+A1 Brutsaert,W.
+A1 Parlange,M.,B.
+A1 Bou-Zeid,E.
+A1 Barrenetxea,G.
+A1 Couach,O.
+A1 Boldi,M.-O.
+A1 Selker,J.,S.
+A1 Vetterli,M.
+YR 2009
+T1 Estimation of urban sensible heat flux using a dense wireless network of observations
+JF Environmental Fluid Mechanics
+VO 9
+SP 635
+OP 653
+IS 6
+
+RT Conference Proceedings
+ID 50828453
+A1 Pinto,Francisco
+A1 Vetterli,Martin
+YR 2009
+T1 Coding of spatio-temporal audio spectra using tree-structured directional filterbanks
+SP 277
+OP 280
+
+RT Journal Article
+ID 27096465
+A1 Prandoni,Paolo
+A1 Vetterli,Martin
+YR 2009
+T1 From Lagrange to Shannon... and back: another look at sampling [DSP Education]
+JF IEEE Signal Processing Magazine
+VO 26
+SP 138
+OP 144
+IS 5
+
+RT Journal Article
+ID 6151180
+A1 Jovanovic,Ivana
+A1 Sbaiz,Luciano
+A1 Vetterli,Martin
+YR 2009
+T1 Acoustic Tomography for Scalar and Vector Fields: Theory and Application to Temperature and Wind Estimation
+JF Journal of Atmospheric and Oceanic Technology
+VO 26
+SP 1475
+IS 8
+
+RT Journal Article
+ID 10294189
+A1 Jovanovic,I.
+A1 Hormati,A.
+A1 Littrup,P.
+A1 Duric,N.
+A1 Rama,O.
+A1 Vetterli,M.
+YR 2009
+T1 Temperature monitoring during tissue freezing using ultrasound speed measurements
+VO 7265
+SP 23
+
+RT Journal Article
+ID 6071241
+A1 Hormati,Ali
+A1 Karbasi,Amin
+A1 Mohajer,Soheil
+A1 Vetterli,Martin
+YR 2009
+T1 An Estimation Theoretic Approach for Sparsity Pattern Recovery in the Noisy Setting
+JF Computing Research Repository
+VO abs/0911.4
+
+RT Journal Article
+ID 5758105
+A1 Lu,Yue,M.
+A1 Karzand,Mina
+A1 Vetterli,Martin
+YR 2009
+T1 Iterative demosaicking accelerated: theory and fast noniterative implementations
+VO 7246
+SP 72460
+
+RT Conference Proceedings
+ID 4288964
+A1 Barrenetxea,Guillermo
+A1 Ingelrest,François
+A1 Schaefer,Gunnar
+A1 Vetterli,Martin
+A1 Couach,Olivier
+A1 Parlange,Marc
+YR 2008
+T1 SensorScope: Out-of-the-Box Environmental Monitoring
+SP 332
+OP 343
+
+RT Journal Article
+ID 10123601
+A1 Blu,Thierry
+A1 Dragotti,Pier-Luigi
+A1 Vetterli,Martin
+A1 Marziliano,Pina
+A1 Coulot,Lionel
+YR 2008
+T1 Sparse Sampling of Signal Innovations
+JF IEEE Signal Processing Magazine
+VO 25
+SP 31
+OP 40
+IS 2
+
+RT Conference Proceedings
+ID 4315258
+A1 Barrenetxea,Guillermo
+A1 Ingelrest,François
+A1 Schaefer,Gunnar
+A1 Vetterli,Martin
+YR 2008
+T1 The hitchhiker's guide to successful wireless sensor network deployments
+SP 43
+OP 56
+
+RT Conference Proceedings
+ID 4722556
+A1 Denantes,Patrick
+A1 Bénézit,Florence
+A1 Thiran,Patrick
+A1 Vetterli,Martin
+YR 2008
+T1 Which Distributed Averaging Algorithm Should I Choose for my Sensor Network?
+SP 986
+OP 994
+
+RT Journal Article
+ID 4371917
+A1 Bénézit,Florence
+A1 Dimakis,Alexandros,G.
+A1 Thiran,Patrick
+A1 Vetterli,Martin
+YR 2008
+T1 Order-Optimal Consensus through Randomized Path Averaging
+JF Computing Research Repository
+VO abs/0802.2
+
+RT Conference Proceedings
+ID 5873767
+A1 Barrenetxea,Guillermo
+A1 Ingelrest,Francois
+A1 Schaefer,Gunnar
+A1 Vetterli,Martin
+YR 2008
+T1 Wireless Sensor Networks for Environmental Monitoring: The SensorScope Experience
+
+RT Journal Article
+ID 4413933
+A1 Roy,Olivier
+A1 Vetterli,Martin
+YR 2008
+T1 Dimensionality Reduction for Distributed Estimation in the Infinite Dimensional Regime
+JF IEEE Transactions on Information Theory
+VO 54
+SP 1655
+OP 1669
+IS 4
+
+RT Conference Proceedings
+ID 6610673
+A1 Hormati,Ali
+A1 Vetterli,Martin
+YR 2008
+T1 Distributed compressed sensing: Sparsity models and reconstruction algorithms using annihilating filter
+SP 5141
+OP 5144
+
+RT Conference Proceedings
+ID 13288258
+A1 Pinto,Francisco
+A1 Vetterli,Martin
+YR 2008
+T1 Wave Field coding in the spacetime frequency domain
+SP 365
+OP 368
+
+RT Journal Article
+ID 27096320
+A1 Baraniuk,Richard
+A1 Candes,Emmanuel
+A1 Nowak,Robert
+A1 Vetterli,Martin
+YR 2008
+T1 Compressive Sampling [From the Guest Editors]
+JF IEEE Signal Processing Magazine
+VO 25
+SP 12
+OP 13
+IS 2
+
+RT Journal Article
+ID 4477430
+A1 Sbaiz,Luciano
+A1 Vandewalle,Patrick
+A1 Vetterli,Martin
+YR 2008
+T1 Groebner basis methods for multichannel sampling with unknown offsets
+JF Applied and Computational Harmonic Analysis
+VO 25
+SP 277
+OP 294
+IS 3
+
+RT Conference Proceedings
+ID 6611045
+A1 Barrenetxea,Guillermo
+A1 Ingelrest,François
+A1 Lu,Yue,M.
+A1 Vetterli,Martin
+YR 2008
+T1 Assessing the challenges of environmental signal processing through the sensorscope project
+SP 5149
+OP 5152
+
+RT Journal Article
+ID 5185705
+A1 Do,Minh,N.
+A1 Marchand-Maillet,Davy
+A1 Vetterli,Martin
+YR 2008
+T1 On the Bandwidth of the Plenoptic Function
+
+RT Conference Proceedings
+ID 4716694
+A1 Vandewalle,Patrick
+A1 Baboulaz,Loïc
+A1 Dragotti,Pier,Luigi
+A1 Vetterli,Martin
+YR 2008
+T1 Subspace-based methods for image registration and super-resolution
+SP 645
+OP 648
+
+RT Journal Article
+ID 26421736
+A1 Pinfold,J.
+A1 Soukup,J.
+A1 Archambault,J.,P.
+A1 Cojocaru,C.
+A1 Khakzad,M.
+A1 Oakham,G.
+A1 Schram,M.
+A1 Vincter,M.,G.
+A1 Datskov,V.
+A1 Drobin,V.
+A1 Fedorov,A.
+A1 Golubykh,S.
+A1 Javadov,N.
+A1 Kalinnikov,V.
+A1 Kakurin,S.
+A1 Kazarinov,M.
+A1 Kukhtin,V.
+A1 Ladygin,E.
+A1 Lazarev,A.
+A1 Neganov,A.
+A1 Petrova,L.
+A1 Pisarev,I.
+A1 Rousakovitch,N.
+A1 Serochkin,E.
+A1 Shilov,S.
+A1 Shalyugin,A.
+A1 Usov,Yu.
+A1 Bruncko,D.
+A1 Kladiva,E.
+A1 Stavina,P.
+A1 Strizenec,P.
+A1 Barreiro,F.
+A1 Gabaldon,C.
+A1 Labarga,F.
+A1 Nebot,E.
+A1 Oliver,C.
+A1 Rodier,S.
+A1 Peso,J.,del
+A1 Heldmann,M.
+A1 Koepke,L.
+A1 Othegraven,R.
+A1 Schliephake,T.
+A1 Schroff,D.
+A1 Secker,H.
+A1 Thomas,J.
+A1 Zeitnitz,C.
+A1 Benchouk,C.
+A1 Djama,F.
+A1 Hubaut,F.
+A1 Monnier,E.
+A1 Niess,V.
+A1 Pralavorio,P.
+A1 Raymond,M.
+A1 Resende,B.
+A1 Sauvage,D.
+A1 Serfon,C.
+A1 Tisserant,S.
+A1 Toth,J.
+A1 Azuelos,G.
+A1 Delsart,P.
+A1 Leroy,C.
+A1 Mehdiyev,R.
+A1 Akimov,A.
+A1 Blagov,M.
+A1 Komar,A.
+A1 Snesarev,A.
+A1 Speransky,M.
+A1 Sulin,V.
+A1 Yakimenko,M.
+A1 Epshtein,V.
+A1 Khovansky,V.
+A1 Shatalov,P.
+A1 Aderholz,M.
+A1 Barillari,T.
+A1 Cwienk,W.
+A1 Fischer,A.
+A1 Habring,J.
+A1 Huber,J.
+A1 Karev,A.
+A1 Kiryunin,A.
+A1 Kurchaninov,L.
+A1 Menke,S.
+A1 Mooshofer,P.
+A1 Oberlack,H.
+A1 Salihagic,D.
+A1 Schacht,P.
+A1 Chen,T.
+A1 Ping,J.
+A1 Qi,M.
+A1 Kazanin,V.
+A1 Malyshev,V.
+A1 Maslennikov,A.
+A1 Pospelov,G.
+A1 Snopkov,R.
+A1 Soukharev,A.
+A1 Talyshev,A.
+A1 Tikhonov,Y.
+A1 Cavalleri,P.
+A1 Schwemling,P.
+A1 Chekulaev,S.
+A1 Denisov,S.
+A1 Evdokimov,V.
+A1 Levitsky,M.
+A1 Minaenko,A.
+A1 Mitrofanov,G.
+A1 Moiseev,A.
+A1 Pleskatch,A.
+A1 Stoyanova,D.
+A1 Zakamsky,L.
+A1 Bieri,M.
+A1 O’Neil,D.
+A1 Rani,J.
+A1 Schouten,D.
+A1 Vetterli,M.
+A1 Loch,P.
+A1 Rutherfoord,J.
+A1 Savin,A.
+A1 Shaver,L.
+A1 Shupe,M.
+A1 Galt,C.
+A1 Gorbounov,P.
+A1 Knecht,N.
+A1 Krieger,P.
+A1 Ma,L.
+A1 Mazini,R.
+A1 Orr,R.
+A1 Losty,M.
+A1 Oram,C.,J.
+A1 Wielers,M.
+A1 Birney,P.,S.
+A1 Fincke-Keeler,M.
+A1 Gable,I.
+A1 Hodges,T.,A.
+A1 Hughes,T.
+A1 Ince,T.
+A1 Kanaya,N.
+A1 Keeler,R.,K.
+A1 Langstaff,R.
+A1 Lefebvre,M.
+A1 Lenckowski,M.
+A1 McPherson,R.
+A1 Shaw,W.
+A1 Braun,H.,M.
+A1 Thadome,J.
+A1 Белкин),Andrey,Belkin,(Андрей
+YR 2008
+T1 Performance of the ATLAS liquid argon endcap calorimeter in the pseudorapidity region 2.5 | eta | 4.0 in beam tests
+JF Nuclear Instruments & Methods in Physics Research Section A-accelerators Spectrometers Detectors and Associated Equipment
+VO 593
+SP 324
+OP 342
+IS 3
+
+RT Journal Article
+ID 4432366
+A1 Dragotti,Pier,Luigi
+A1 Vetterli,Martin
+A1 Blu,Thierry
+YR 2007
+T1 Sampling Moments and Reconstructing Signals of Finite Rate of Innovation: Shannon Meets Strang-Fix
+JF IEEE Transactions on Signal Processing
+VO 55
+SP 1741
+OP 1757
+IS 5-1
+
+RT Journal Article
+ID 4432421
+A1 Vandewalle,Patrick
+A1 Sbaiz,Luciano
+A1 Vandewalle,Joos
+A1 Vetterli,Martin
+YR 2007
+T1 Super-Resolution From Unregistered and Totally Aliased Signals Using Subspace Methods
+JF IEEE Transactions on Signal Processing
+VO 55
+SP 3687
+OP 3703
+IS 7-2
+
+RT Journal Article
+ID 4412835
+A1 Velisavljevic,Vladan
+A1 Beferull-lozano,Baltasar
+A1 Vetterli,Martin
+YR 2007
+T1 Space-Frequency Quantization for Image Compression With Directionlets
+JF IEEE Transactions on Image Processing
+VO 16
+SP 1761
+OP 1773
+IS 7
+
+RT Journal Article
+ID 2501289
+A1 Agarwal,Ashok
+A1 Ahmed,M.
+A1 Berman,A.
+A1 Caron,B.,L.
+A1 Charbonneau,Andre
+A1 Deatrich,Denice
+A1 Desmarais,Ron
+A1 Dimopoulos,A.
+A1 Gable,Ian
+A1 Groer,L.,S.
+A1 Haria,R.
+A1 Impey,R.
+A1 Klektau,L.
+A1 Lindsay,C.
+A1 Mateescu,G.
+A1 Matthews,Q.
+A1 Norton,A.
+A1 Podaima,W.
+A1 Quesnel,D.
+A1 Simmonds,R.
+A1 Sobie,R.,J.
+A1 Arnaud,B.,St.
+A1 Usher,C.
+A1 Vanderster,D.,C.
+A1 Vetterli,M.
+A1 Walker,R.
+A1 Yuen,M.
+YR 2007
+T1 GridX1: A Canadian computational grid
+JF Future Generation Computer Systems
+VO 23
+SP 680
+OP 687
+IS 5
+
+RT Journal Article
+ID 6970549
+A1 Ajdler,Thibaut
+A1 Sbaiz,Luciano
+A1 Vetterli,Martin
+YR 2007
+T1 Dynamic measurement of room impulse responses using a moving microphone
+JF Journal of The Acoustical Society of America
+VO 122
+SP 1636
+IS 3
+
+RT Journal Article
+ID 5963957
+A1 Hormati,Ali
+A1 Vetterli,Martin
+YR 2007
+T1 Annihilating filter-based decoding in the compressed sensing framework
+VO 6701
+SP 63
+
+RT Conference Proceedings
+ID 4275852
+A1 Velisavljevic,Vladan
+A1 Beferull-lozano,Baltasar
+A1 Vetterli,Martin
+YR 2007
+T1 Space-Frequency Quantization using Directionlets
+VO 3
+SP 161
+OP 164
+
+RT Conference Proceedings
+ID 4979923
+A1 Vandewalle,P.
+A1 Barrenetxea,G.
+A1 Jovanovic,I.
+A1 Ridolfi,A.
+A1 Vetterli,M.
+YR 2007
+T1 Experiences with Reproducible Research in Various Facets of Signal Processing Research
+VO 4
+
+RT Journal Article
+ID 15315846
+A1 Aberer,Karl
+A1 Alonso,Gustavo
+A1 Barrenetxea,Guillermo
+A1 Beutel,Jan
+A1 Bovay,Jacques
+A1 Dubois-Ferriere,Henri
+A1 Kossmann,Donald
+A1 Parlange,Marc
+A1 Thiele,Lothar
+A1 Vetterli,Martin
+YR 2007
+T1 Infrastructures for a Smart Earth - The Swiss NCCR-MICS initiative
+VO 30
+SP 20
+OP 25
+IS 1
+
+RT Journal Article
+ID 10757158
+A1 Velisavljevic,Vladan
+A1 Beferull-Lozano,Baltasar
+A1 Vetterli,Martin
+A1 Dragotti,Pier,Luigi
+YR 2007
+T1 Image representation and compression using directionlets
+VO 6701
+SP 21
+
+RT Journal Article
+ID 4371155
+A1 Cunha,Arthur,L.,Da
+A1 Do,Minh,N.
+A1 Vetterli,Martin
+YR 2007
+T1 On the Information Rates of the Plenoptic Function
+JF Computing Research Repository
+VO abs/0711.2
+
+RT Conference Proceedings
+ID 2425673
+A1 Cunha,Arthur,L.,Da
+A1 Do,Minh,N.
+A1 Vetterli,Martin
+YR 2007
+T1 A Stochastic Model for Video and its Information Rates
+SP 3
+OP 12
+
+RT Conference Proceedings
+ID 4275987
+A1 Jovanovic,Ivana
+A1 Sbaiz,Luciano
+A1 Vetterli,Martin
+YR 2007
+T1 Tomographic Approach for Parametric Estimation of Local Diffusive Sources and Application to Heat Diffusion
+VO 4
+SP 153
+OP 156
+
+RT Conference Proceedings
+ID 6349684
+A1 Velisavljevic,V.
+A1 Beferull-Lozano,Baltasar
+A1 Vetterli,Martin
+YR 2007
+T1 Efficient image compression using directionlets
+
+RT Journal Article
+ID 14368411
+A1 Gastpar,M.
+A1 Dragotti,P.,L.
+A1 Vetterli,M.
+YR 2007
+T1 Correction of “The Distributed Karhunen–Loève Transform”
+JF IEEE Transactions on Information Theory
+VO 53
+SP 4400
+OP 4400
+IS 11
+
+RT Conference Proceedings
+ID 50604291
+A1 Roy,Olivier
+A1 Vetterli,Martin
+YR 2007
+T1 Distributed Spatial Audio Coding in Wireless Hearing Aids
+
+RT Journal Article
+ID 2571136
+A1 Vandewalle,Patrick
+A1 Süsstrunk,Sabine
+A1 Vetterli,Martin
+YR 2006
+T1 A Frequency Domain Approach to Registration of Aliased Images with Application to Super-resolution
+JF Eurasip Journal on Advances in Signal Processing
+VO 2006
+SP 1
+OP 15
+
+RT Journal Article
+ID 2175181
+A1 Cristescu,Razvan
+A1 Beferull-lozano,Baltasar
+A1 Vetterli,Martin
+A1 Wattenhofer,Roger
+YR 2006
+T1 Network correlated data gathering with explicit communication: NP-completeness and algorithms
+JF IEEE/ACM Transactions on Networking
+VO 14
+SP 41
+OP 54
+IS 1
+
+RT Journal Article
+ID 2156775
+A1 Velisavljevic,Vladan
+A1 Beferull-lozano,Baltasar
+A1 Vetterli,Martin
+A1 Dragotti,Pier,Luigi
+YR 2006
+T1 Directionlets: Anisotropic Multidirectional Representation With Separable Filtering
+JF IEEE Transactions on Image Processing
+VO 15
+SP 1916
+OP 1933
+IS 7
+
+RT Journal Article
+ID 4480851
+A1 Ajdler,Thibaut
+A1 Sbaiz,Luciano
+A1 Vetterli,Martin
+YR 2006
+T1 The Plenacoustic Function and Its Sampling
+JF IEEE Transactions on Signal Processing
+VO 54
+SP 3790
+OP 3804
+IS 10
+
+RT Journal Article
+ID 2175197
+A1 Grossglauser,Matthias
+A1 Vetterli,Martin
+YR 2006
+T1 Locating mobile nodes with EASE: learning efficient routes from encounter histories alone
+JF IEEE/ACM Transactions on Networking
+VO 14
+SP 457
+OP 469
+IS 3
+
+RT Journal Article
+ID 12773556
+A1 Gastpar,Michael
+A1 Vetterli,Martin
+A1 Dragotti,P.,L.
+YR 2006
+T1 Sensing reality and communicating bits: a dangerous liaison
+JF IEEE Signal Processing Magazine
+VO 23
+SP 70
+OP 83
+IS 4
+
+RT Journal Article
+ID 2156746
+A1 Chang,S.,Grace
+A1 ´,Zoran,Cvetkovic
+A1 Vetterli,Martin
+YR 2006
+T1 Locally adaptive wavelet-based image interpolation
+JF IEEE Transactions on Image Processing
+VO 15
+SP 1471
+OP 1485
+IS 6
+
+RT Conference Proceedings
+ID 5874126
+A1 Roy,Olivier
+A1 Vetterli,Martin
+YR 2006
+T1 Rate-Constrained Beamforming for Collaborating Hearing Aids
+
+RT Journal Article
+ID 2174734
+A1 Marziliano,Pina
+A1 Vetterli,Martin
+A1 Blu,Thierry
+YR 2006
+T1 Sampling and exact reconstruction of bandlimited signals with additive shot noise
+JF IEEE Transactions on Information Theory
+VO 52
+SP 2230
+OP 2233
+IS 5
+
+RT Journal Article
+ID 2175195
+A1 Barrenetxea,Guillermo
+A1 Beferull-lozano,Baltasar
+A1 Vetterli,Martin
+YR 2006
+T1 Lattice networks: capacity limits, optimal routing, and queueing behavior
+JF IEEE/ACM Transactions on Networking
+VO 14
+SP 492
+OP 505
+IS 3
+
+RT Conference Proceedings
+ID 50490778
+A1 Jovanovic,I.
+A1 Sbaiz,Luciano
+A1 Vetterli,Martin
+YR 2006
+T1 Acoustic Tomography Method for Measuring Temperature and Wind Velocity
+VO 4
+
+RT Conference Proceedings
+ID 2440620
+A1 Velisavljevic,Vladan
+A1 Beferull-lozano,Baltasar
+A1 Vetterli,Martin
+A1 Dragotti,Pier,Luigi
+YR 2006
+T1 Low-Rate Reduced Complexity Image Compression using Directionlets
+SP 1601
+OP 1604
+
+RT Conference Proceedings
+ID 6725666
+A1 Konsbruck,Robert,L.
+A1 Telatar,Emre
+A1 Vetterli,Martin
+YR 2006
+T1 On the Multiterminal Rate-Distortion Function for Acoustic Sensing
+VO 4
+
+RT Conference Proceedings
+ID 6297655
+A1 Vandewalle,Patrick
+A1 Sbaiz,Luciano
+A1 Vetterli,Martin
+YR 2006
+T1 Signal Reconstruction From Multiple Unregistered Sets Of Samples Using Groebner Bases
+VO 3
+
+RT Conference Proceedings
+ID 5958900
+A1 Ajdler,Thibaut
+A1 Sbaiz,Luciano
+A1 Ridolfi,Andrea
+A1 Vetterli,Martin
+YR 2006
+T1 On a Stochastic Version of the Plenacoustic Function
+VO 4
+
+RT Conference Proceedings
+ID 2440077
+A1 Cunha,Arthur,L.,Da
+A1 Do,Minh,N.
+A1 Vetterli,Martin
+YR 2006
+T1 On the Information Rate of the Plenoptic Function
+SP 2489
+OP 2492
+
+RT Conference Proceedings
+ID 4499044
+A1 Roy,Olivier
+A1 Vetterli,Martin
+YR 2006
+T1 Distributed Compression in Acoustic Sensor Networks using Oversampled A/D Conversion
+VO 4
+
+RT Journal Article
+ID 4979935
+A1 Ajdler,Thibaut
+A1 Konsbruck,Robert,L.
+A1 Roy,Olivier
+A1 Sbaiz,Luciano
+A1 Telatar,Emre
+A1 Vetterli,Martin
+YR 2006
+T1 SPATIO-TEMPORAL SAMPLING AND DISTRIBUTED COMPRESSION OF THE SOUND FIELD
+
+RT Journal Article
+ID 39249290
+A1 Grossglauser,Matthias
+A1 Vetterli,Martin
+YR 2006
+T1 Locating mobile nodes with EASE: learning efficient routes from encounter histories alone
+JF IEEE/ACM Transactions on Networking
+VO 14
+SP 457
+OP 469
+IS 3
+
+RT Journal Article
+ID 39249276
+A1 Cristescu,Razvan
+A1 Beferull-Lozano,Baltasar
+A1 Vetterli,Martin
+A1 Wattenhofer,Roger
+YR 2006
+T1 Network correlated data gathering with explicit communication: NP-completeness and algorithms
+JF IEEE/ACM Transactions on Networking
+VO 14
+SP 41
+OP 54
+IS 1
+
+RT Journal Article
+ID 39249293
+A1 Barrenetxea,Guillermo
+A1 Berefull-Lozano,Baltasar
+A1 Vetterli,Martin
+YR 2006
+T1 Lattice networks: capacity limits, optimal routing, and queueing behavior
+JF IEEE/ACM Transactions on Networking
+VO 14
+SP 492
+OP 505
+IS 3
+
+RT Journal Article
+ID 2517423
+A1 Barrenetxea,Guillermo
+A1 Beferull-lozano,Baltasar
+A1 Vetterli,Martin
+YR 2006
+T1 Correction to "Lattice networks: Capacity limits, optimal routing, and queueing behavior
+JF IEEE/ACM Transactions on Networking
+VO 14
+SP 1150
+OP 1150
+IS 5
+
+RT Journal Article
+ID 39249418
+A1 Barrenetxea,Guillermo
+A1 Beferull-Lozano,Baltasar
+A1 Vetterli,Martin
+YR 2006
+T1 Correction to "Lattice networks: Capacity limits, optimal routing, and queueing behavior"
+JF IEEE/ACM Transactions on Networking
+VO 14
+SP 1150
+OP 1150
+IS 5
+
+RT Conference Proceedings
+ID 5671353
+A1 Gastpar,Michael
+A1 Vetterli,Martin
+A1 Dragotti,Pier,Luigi
+YR 2006
+T1 Sensing and Communication With and Without Bits
+VO 5
+
+RT Conference Proceedings
+ID 2440446
+A1 Dragotti,Pier,Luigi
+A1 Vetterli,Martin
+A1 Blu,Thierry
+YR 2006
+T1 Exact Local Reconstruction Algorithms for Signals with Finite Rate of Innovation
+SP 1285
+OP 1288
+
+RT Journal Article
+ID 6276532
+A1 Faller,Christof
+A1 G,Tomas
+A1 Vetterli,Martin
+YR 2006
+T1 TWO STAGE ESTIMATION FOR THE ECHO PATHS IN STEREOPHONIC ACOU STIC ECHO CANCELLATION
+
+RT Journal Article
+ID 4967186
+A1 Ajdler,T.
+A1 Sbaiz,L.
+A1 Ridolfi,A.
+A1 Vetterli,M.
+YR 2006
+T1 Modeling UWB Spatio-Temporal Channels
+
+RT Journal Article
+ID 5997219
+A1 Roy,Olivier
+A1 Vetterli,Martin
+YR 2006
+T1 Acoustic Beamforming with Collaborating Hearing Aids
+
+RT Journal Article
+ID 13119984
+A1 Roy,Olivier
+A1 Vetterli,Martin
+YR 2006
+T1 Spectral shaping by means of frequency attenuation/amplification. Beamforming by combining coherently signals acquired at multiple microphones
+
+RT Journal Article
+ID 13226609
+A1 Roy,Olivier
+A1 Vetterli,Martin
+YR 2006
+T1 Collaborating Hearing Aids: An Information-Theoretic Perspective
+
+RT Journal Article
+ID 1682108
+A1 Do,Minh,N.
+A1 Vetterli,Martin
+YR 2005
+T1 The contourlet transform: an efficient directional multiresolution image representation
+JF IEEE Transactions on Image Processing
+VO 14
+SP 2091
+OP 106
+IS 12
+
+RT Journal Article
+ID 1453319
+A1 Gastpar,Michael
+A1 Vetterli,Martin
+YR 2005
+T1 On the capacity of large Gaussian relay networks
+JF IEEE Transactions on Information Theory
+VO 51
+SP 765
+OP 779
+IS 3
+
+RT Journal Article
+ID 1682203
+A1 Shukla,Rahul
+A1 Dragotti,Pier,Luigi
+A1 Do,Minh,N.
+A1 Vetterli,Martin
+YR 2005
+T1 Rate-distortion optimized tree-structured compression algorithms for piecewise polynomial images
+JF IEEE Transactions on Image Processing
+VO 14
+SP 343
+OP 359
+IS 3
+
+RT Journal Article
+ID 1453114
+A1 Cristescu,Razvan
+A1 Beferull-lozano,Baltasar
+A1 Vetterli,Martin
+YR 2005
+T1 Networked Slepian-Wolf: theory, algorithms, and scaling laws
+JF IEEE Transactions on Information Theory
+VO 51
+SP 4057
+OP 4073
+IS 12
+
+RT Journal Article
+ID 1588311
+A1 Gastpar,Michael
+A1 Vetterli,Martin
+YR 2005
+T1 Power, spatio-temporal bandwidth, and distortion in large sensor networks
+JF IEEE Journal on Selected Areas in Communications
+VO 23
+SP 745
+OP 754
+IS 4
+
+RT Journal Article
+ID 1641670
+A1 Maravicand,Irena
+A1 Vetterli,Martin
+YR 2005
+T1 Sampling and reconstruction of signals with finite rate of innovation in the presence of noise
+JF IEEE Transactions on Signal Processing
+VO 53
+SP 2788
+OP 2805
+IS 8-1
+
+RT Conference Proceedings
+ID 1900794
+A1 Dubois-Ferrière,Henri
+A1 Estrin,Deborah
+A1 Vetterli,Martin
+YR 2005
+T1 Packet combining in sensor networks
+SP 102
+OP 115
+
+RT Conference Proceedings
+ID 1806994
+A1 Cristescu,Razvan
+A1 Vetterli,Martin
+YR 2005
+T1 On the optimal density for real-time data gathering of spatio-temporal processes in sensor networks
+SP 159
+OP 164
+
+RT Conference Proceedings
+ID 6301577
+A1 Ajdlee,T.
+A1 Sbaiz,Luciano
+A1 Vetterli,Martin
+YR 2005
+T1 Plenacoustic function on the circle with application to HRTF interpolation
+VO 3
+
+RT Conference Proceedings
+ID 11626436
+A1 Dragotti,Pier,Luigi
+A1 Vetterli,Martin
+A1 Blu,Thierry
+YR 2005
+T1 Exact sampling results for signals with finite rate of innovation using Strang-Fix conditions and local kernels
+VO 4
+
+RT Journal Article
+ID 3645769
+A1 Shukla,R.
+A1 Dragotti,P.,L.
+A1 Do,M.,N.
+A1 Vetterli,M.
+YR 2005
+T1 Rat e-distortion optimized tree structured compression algorithms for piecewise smooth images
+JF IEEE Transactions on Image Processing
+
+RT Conference Proceedings
+ID 2438946
+A1 Vandewalle,Patrick
+A1 Sbaiz,Luciano
+A1 Vetterli,Martin
+A1 Süsstrunk,Sabine
+YR 2005
+T1 Super-resolution from highly undersampled images
+SP 889
+OP 892
+
+RT Conference Proceedings
+ID 2439133
+A1 Velisavljevic,Vladan
+A1 Beferull-lozano,Baltasar
+A1 Vetterli,Martin
+A1 Dragotti,Pier,Luigi
+YR 2005
+T1 Approximation power of directionlets
+SP 741
+OP 744
+
+RT Conference Proceedings
+ID 4900142
+A1 Hao,Yanyan
+A1 Marziliano,Pina
+A1 Vetterli,Martin
+A1 Blu,T.
+YR 2005
+T1 Compression of ECG as a Signal with Finite Rate of Innovation
+
+RT Conference Proceedings
+ID 2439773
+A1 Do,Minh,N.
+A1 Marchand-Maillet,Davy
+A1 Vetterli,Martin
+YR 2005
+T1 On the bandlimitedness of the plenoptic function
+SP 17
+OP 20
+
+RT Conference Proceedings
+ID 3507265
+A1 Cristescu,R.
+A1 Beferull-Lozano,B.
+A1 Vetterli,M.
+A1 Ganesan,D.
+A1 Acimovic,J.
+YR 2005
+T1 On the interaction of data representation and routing in sensor networks
+VO 5
+
+RT Conference Proceedings
+ID 1806970
+A1 Barrenetxea,Guillermo
+A1 Beferull-lozano,Baltasar
+A1 Vetterli,Martin
+YR 2005
+T1 Efficient routing with small buffers in dense networks
+SP 277
+OP 284
+
+RT Journal Article
+ID 3498579
+A1 Roy,Olivier
+A1 Vetterli,Martin
+YR 2005
+T1 On the Asymptotic Distortion Behavior of the Distributed Karhunen-Loeve Transform
+
+RT Journal Article
+ID 55993719
+A1 Shukla,R.
+A1 Dragotti,P.,L.
+A1 Do,M.,N.
+A1 Vetterli,M.
+YR 2005
+T1 Rate-distortion optimized tree-structured compression algorithms for piecewise polynomial images
+JF IEEE Transactions on Image Processing
+VO 14
+SP 343
+OP 359
+
+RT Conference Proceedings
+ID 50416359
+A1 Vetterli,M.
+YR 2005
+T1 Distributed signal processing for sensor networks
+
+RT Conference Proceedings
+ID 1384032
+A1 Cristescu,Razvan
+A1 Beferull-lozano,Baltasar
+A1 Vetterli,Martin
+YR 2004
+T1 On Network Correlated Data Gathering
+VO 4
+SP 2571
+
+RT Conference Proceedings
+ID 893047
+A1 Gastpar,Michael
+A1 Vetterli,Martin
+YR 2004
+T1 Power-bandwidth-distortion scaling laws for sensor networks
+SP 320
+OP 329
+
+RT Conference Proceedings
+ID 892996
+A1 Barrenechea,Guillermo
+A1 Beferull-Lozano,Baltasar
+A1 Vetterli,Martin
+YR 2004
+T1 Lattice sensor networks: capacity limits, optimal routing and robustness to failures
+SP 186
+OP 195
+
+RT Conference Proceedings
+ID 893048
+A1 Beferull-Lozano,Baltasar
+A1 Konsbruck,Robert,L.
+A1 Vetterli,Martin
+YR 2004
+T1 Rate-distortion problem for physics based distributed sensing
+SP 330
+OP 339
+
+RT Conference Proceedings
+ID 50395849
+A1 Ajdler,Thibaut
+A1 Kozintsev,Igor
+A1 Lienhart,Rainer
+A1 Vetterli,Martin
+YR 2004
+T1 Acoustic source localization in distributed sensor networks
+
+RT Conference Proceedings
+ID 1835416
+A1 Maravic,Irena
+A1 Vetterli,Martin
+A1 Ramchandran,Kannan
+YR 2004
+T1 Channel estimation and synchronization with sub-Nyquist sampling and application to ultra-wideband systems
+SP 381
+OP 384
+
+RT Journal Article
+ID 1640944
+A1 Maravic,I.
+A1 Vetterli,Martin
+YR 2004
+T1 Exact sampling results for some classes of parametric nonbandlimited 2-D signals
+JF IEEE Transactions on Signal Processing
+VO 52
+SP 175
+OP 189
+IS 1
+
+RT Book, Whole
+ID 688003
+A1 Cristescu,Razvan
+A1 Beferull-lozano,Baltasar
+A1 Vetterli,Martin
+YR 2004
+T1 Networked Slepian-Wolf: Theory and Algorithms
+SP 44
+OP 59
+
+RT Conference Proceedings
+ID 2140745
+A1 Vandewalle,Patrick
+A1 Sbaiz,Luciano
+A1 Vandewalle,Joos
+A1 Vetterli,Martin
+YR 2004
+T1 How to take advantage of aliasing in bandlimited signals
+VO 3
+
+RT Journal Article
+ID 2315135
+A1 Vandewalle,Patrick
+A1 Susstrunk,Sabine
+A1 Vetterli,Martin
+YR 2004
+T1 Double resolution from a set of aliased images
+VO 5301
+SP 374
+OP 382
+
+RT Conference Proceedings
+ID 2361154
+A1 Dragotti,Pier,Luigi
+A1 Vetterli,Martin
+YR 2004
+T1 Wavelet and footprint sampling of signals with a finite rate of innovation
+VO 2
+
+RT Conference Proceedings
+ID 1798418
+A1 Shukla,Rahul
+A1 Vetterli,Martin
+YR 2004
+T1 Geometrical image denoising using quadtree segmentation
+VO 2
+SP 1213
+OP 1216
+
+RT Conference Proceedings
+ID 10350628
+A1 Gastpar,Michael
+A1 Dragotti,Pier,Luigi
+A1 Vetterli,Martin
+YR 2004
+T1 On compression using the distributed Karhunen-Loeve transform
+VO 3
+
+RT Conference Proceedings
+ID 50381372
+A1 Gastpar,Michael
+A1 Vetterli,Martin
+YR 2004
+T1 A lower bound to the scaling behavior of sensor networks
+
+RT Conference Proceedings
+ID 50360452
+A1 Barrenechea,Guillermo
+A1 Beferull-Lozano,Baltasar
+A1 Vetterli,Martin
+YR 2004
+T1 Lattice sensor networks: capacity limits, optimal routing and robustness to failures
+
+RT Conference Proceedings
+ID 50360467
+A1 Gastpar,Michael
+A1 Vetterli,M.
+YR 2004
+T1 Power-bandwidth-distortion scaling laws for sensor networks
+
+RT Conference Proceedings
+ID 50360468
+A1 Beferull-Lozano,Baltasar
+A1 Konsbruck,Robert,L.
+A1 Vetterli,Martin
+YR 2004
+T1 Rate-distortion problem for physics based distributed sensing
+
+RT Conference Proceedings
+ID 50365136
+A1 Beferull-Lozano,Baltasar
+A1 Konsbruck,Robert,L.
+A1 Vetterli,Martin
+YR 2004
+T1 Rate-distortion problem for physics based distributed sensing [temperature measurement]
+VO 3
+
+RT Journal Article
+ID 984565
+A1 Gastpar,Michael
+A1 Rimoldi,Bixio
+A1 Vetterli,Martin
+YR 2003
+T1 To code, or not to code: lossy source-channel communication revisited
+JF IEEE Transactions on Information Theory
+VO 49
+SP 1147
+OP 1158
+IS 5
+
+RT Conference Proceedings
+ID 653288
+A1 Dubois-Ferriere,Henri
+A1 Grossglauser,Matthias
+A1 Vetterli,Martin
+YR 2003
+T1 Age matters: efficient route discovery in mobile ad hoc networks using encounter ages
+SP 257
+OP 266
+
+RT Journal Article
+ID 1213340
+A1 Do,Minh,N.
+A1 Vetterli,Martin
+YR 2003
+T1 The finite ridgelet transform for image representation
+JF IEEE Transactions on Image Processing
+VO 12
+SP 16
+OP 28
+IS 1
+
+RT Book, Whole
+ID 550638
+A1 Gastpar,Michael
+A1 Vetterli,Martin
+YR 2003
+T1 Source-Channel Communication in Sensor Networks
+SP 162
+OP 177
+
+RT Journal Article
+ID 1640795
+A1 Do,Minh,N.
+A1 Vetterli,Martin
+YR 2003
+T1 Framing pyramids
+JF IEEE Transactions on Signal Processing
+VO 51
+SP 2329
+OP 42
+IS 9
+
+RT Conference Proceedings
+ID 682514
+A1 Grossglauser,Matthias
+A1 Vetterli,Martin
+YR 2003
+T1 Locating Nodes with EASE: Mobility Diffusion of Last Encounters in Ad Hoc Networks
+
+RT Book, Whole
+ID 49068567
+A1 Do,M.,N.
+A1 Vetterli,M.
+YR 2003
+T1 Contourlets
+JF Studies in Computational Mathematics
+VO 10
+SP 83
+OP 105
+
+RT Conference Proceedings
+ID 2061702
+A1 Grossglauser,Matthias
+A1 Vetterli,Martin
+YR 2003
+T1 Locating nodes with EASE: last encounter routing in ad hoc networks through mobility diffusion
+VO 3
+SP 1954
+
+RT Journal Article
+ID 1640705
+A1 Dragotti,Pier,Luigi
+A1 Vetterli,Martin
+YR 2003
+T1 Wavelet footprints: theory, algorithms, and applications
+JF IEEE Transactions on Signal Processing
+VO 51
+SP 1306
+OP 1323
+IS 5
+
+RT Journal Article
+ID 2040042
+A1 Do,M.,N.
+A1 Vetterli,M.
+YR 2003
+T1 The contourlet transform:an efficient directional multiresolution image representation
+JF IEEE Transactions on Image Processing
+
+RT Journal Article
+ID 2359806
+A1 Maravic,Irena
+A1 Kusuma,Julius
+A1 Vetterli,Martin
+YR 2003
+T1 Low-Sampling Rate UWB Channel Characterization and Synchronization
+JF Journal of Communications and Networks
+
+RT Conference Proceedings
+ID 456110
+A1 Gastpar,Michael
+A1 Dragotti,Pier-Luigi
+A1 Vetterli,Martin
+YR 2003
+T1 The Distributed, Partial, And Conditional Karhunen-Loève Transforms
+SP 283
+OP 292
+
+RT Journal Article
+ID 1340362
+A1 Gastpar,Michael
+A1 Vetterliy,Martin
+YR 2003
+T1 Scaling Laws for Homogeneous Sensor Networks
+
+RT Journal Article
+ID 800560
+A1 Hasler,David
+A1 Sbaiz,Luciano
+A1 Süsstrunk,Sabine
+A1 Vetterli,Martin
+YR 2003
+T1 Outlier Modeling in Image Matching
+JF IEEE Transactions on Pattern Analysis and Machine Intelligence
+VO 25
+SP 301
+OP 315
+IS 3
+
+RT Conference Proceedings
+ID 17946
+A1 Kusuma,Julius
+A1 Maravic,I.
+A1 Vetterli,Martin
+YR 2003
+T1 Sampling with finite rate of innovation: channel and timing estimation for UWB and GPS
+
+RT Conference Proceedings
+ID 5678046
+A1 Spaendonck,Rutger,van
+A1 Blu,Thierry
+A1 Baraniuk,Richard
+A1 Vetterli,Martin
+YR 2003
+T1 Orthogonal Hilbert transform filter banks and wavelets
+VO 6
+
+RT Conference Proceedings
+ID 4977481
+A1 Ajdler,Thibaut
+A1 Vetterli,Martin
+YR 2003
+T1 The plenacoustic function, sampling and reconstruction
+VO 5
+
+RT Journal Article
+ID 885562
+A1 Cristescu,Răzvan
+A1 Vetterli,Martin
+YR 2003
+T1 Power efficient gathering of correlated data: optimization, NP-completeness and heuristics
+JF Mobile Computing and Communications Review
+VO 7
+SP 31
+OP 32
+IS 3
+
+RT Conference Proceedings
+ID 1880736
+A1 Vandewalle,Patrick
+A1 Süsstrunk,Sabine
+A1 Vetterli,Martin
+YR 2003
+T1 Superresolution images reconstructed from aliased images
+VO 5150
+SP 1398
+OP 1405
+
+RT Book, Whole
+ID 675213
+A1 Dubois-ferrière,Henri
+A1 Grossglauser,Matthias
+A1 Vetterli,Martin
+YR 2003
+T1 Space-Time Routing in Ad Hoc Networks
+SP 1
+OP 11
+
+RT Conference Proceedings
+ID 1797848
+A1 Chebira,A.
+A1 Dragotti,Pier,Luigi
+A1 Sbaiz,Luciano
+A1 Vetterli,Martin
+YR 2003
+T1 Sampling and interpolation of the plenoptic function
+VO 2
+SP 917
+OP 920
+
+RT Conference Proceedings
+ID 1797526
+A1 Velisavljevic,Vladan
+A1 Beferull-lozano,Baltasar
+A1 Vetterli,Martin
+A1 Dragotti,Pier,Luigi
+YR 2003
+T1 Discrete multidirectional wavelet bases
+VO 1
+SP 1025
+OP 1028
+
+RT Journal Article
+ID 846105
+A1 Balmelli,Laurent
+A1 Liebling,Thomas,M.
+A1 Vetterli,Martin
+YR 2003
+T1 Computational analysis of mesh simplification using global error
+JF Computational Geometry: Theory and Applications
+VO 25
+SP 171
+OP 196
+IS 3
+
+RT Conference Proceedings
+ID 2341459
+A1 Ajdler,Thibaut
+A1 Cristescu,Razvan
+A1 Dragorris,Pier,Luigi
+A1 Gastpar,Michael
+A1 Maravic,Irena
+A1 Vetterli,Martin
+YR 2003
+T1 Distributed signal processing and communications: on the interaction of sources and channels
+VO 4
+
+RT Journal Article
+ID 2085805
+A1 Cristescu,R.
+A1 Beferull-lozano,B.
+A1 Vetterli,M.
+YR 2003
+T1 Networked Slepian-Wolf: Theory
+
+RT Journal Article
+ID 3706124
+A1 Maravic,I.
+A1 Vetterli,M.
+YR 2003
+T1 Sampling results for classes of non-bandlimited 2-D signals
+JF IEEE Transactions on Signal Processing
+
+RT Conference Proceedings
+ID 36616
+A1 Grossglauser,Matthias
+A1 Vetterli,Martin
+YR 2003
+T1 Locating Nodes with EASE
+
+RT Conference Proceedings
+ID 1880715
+A1 Dragotti,Pier,Luigi
+A1 Velisavljevic,Vladan
+A1 Vetterli,Martin
+A1 Beferull-Lozano,Baltasar
+YR 2003
+T1 Discrete directional wavelet bases for image compression
+VO 5150
+SP 1287
+OP 1295
+
+RT Journal Article
+ID 2325955
+A1 Dubois-Ferri,Henri
+A1 Grossglauser,Matthias
+A1 Vetterli,Martin
+YR 2003
+T1 GREP: Protocol and Proof of Loop-Free Operation
+
+RT Journal Article
+ID 56506251
+A1 Dragotti,Pier,Luigi
+A1 Velisavljevic,Vladan
+A1 Vetterli,Martin
+A1 Beferull-Lozano,Baltasar
+YR 2003
+T1 Discrete directional wavelet bases and frames: analysis and applications
+VO 5207
+SP 583
+OP 591
+
+RT Conference Proceedings
+ID 1880795
+A1 Ajdler,Thibaut
+A1 Vetterli,Martin
+YR 2003
+T1 Acoustic based rendering by interpolation of the plenacoustic function
+VO 5150
+SP 1337
+OP 1346
+
+RT Journal Article
+ID 2353231
+A1 Dragotti,Pier,Luigi
+A1 Vetterli,Martin
+YR 2003
+T1 Resolution enhancement and sampling with wavelets and footprints
+VO 5207
+SP 59
+OP 68
+
+RT Conference Proceedings
+ID 77722
+A1 Gastpar,Michael
+A1 Vetterli,Martin
+YR 2002
+T1 On the capacity of wireless networks: The relay case
+VO 3
+SP 1577
+
+RT Journal Article
+ID 1202777
+A1 Do,Minh,N.
+A1 Vetterli,Martin
+YR 2002
+T1 Wavelet-based texture retrieval using generalized Gaussian density and Kullback-Leibler distance
+JF IEEE Transactions on Image Processing
+VO 11
+SP 146
+OP 158
+IS 2
+
+RT Journal Article
+ID 55793
+A1 Vetterli,Martin
+A1 Marziliano,Pina
+A1 Blu,Thierry
+YR 2002
+T1 Sampling signals with finite rate of innovation
+JF IEEE Transactions on Signal Processing
+VO 50
+SP 1417
+OP 1428
+IS 6
+
+RT Conference Proceedings
+ID 2377145
+A1 Gastpar,Michael
+A1 Vetterli,Martin
+YR 2002
+T1 On the asymptotic capacity of Gaussian relay networks
+
+RT Conference Proceedings
+ID 1799938
+A1 Do,Minh,N.
+A1 Vetterli,Martin
+YR 2002
+T1 Contourlets: a directional multiresolution image representation
+VO 1
+SP 357
+OP 360
+
+RT Conference Proceedings
+ID 1884352
+A1 Gastpar,Michael
+A1 Dragotti,Pier,Luigi
+A1 Vetterli,Martin
+YR 2002
+T1 The distributed Karhunen-Loeve transform
+SP 57
+OP 60
+
+RT Journal Article
+ID 103868
+A1 Do,Minh,N.
+A1 Vetterli,Martin
+YR 2002
+T1 Rotation invariant texture characterization and retrieval using steerable wavelet-domain hidden Markov models
+JF IEEE Transactions on Multimedia
+VO 4
+SP 517
+OP 527
+IS 4
+
+RT Conference Proceedings
+ID 24962
+A1 Kusuma,Julius
+A1 Ridolfi,Andrea
+A1 Vetterli,Martin
+YR 2002
+T1 Sampling of communication systems with bandwidth expansion
+
+RT Journal Article
+ID 1206289
+A1 Dragotti,Pier,Luigi
+A1 Servetto,Sergio,D.
+A1 Vetterli,Martin
+YR 2002
+T1 Optimal filter banks for multiple description coding: Analysis and synthesis
+JF IEEE Transactions on Information Theory
+VO 48
+SP 2036
+OP 2052
+IS 7
+
+RT Conference Proceedings
+ID 2310741
+A1 Daly,D.
+A1 Heneghan,C.
+A1 Fagan,A.
+A1 Vetterli,Martin
+YR 2002
+T1 Optimal Wavelet Packet Modulation under finite complexity constraint
+VO 3
+
+RT Conference Proceedings
+ID 1800223
+A1 Dragotti,Pier,Luigi
+A1 Velisavljevic,Vladan
+A1 Vetterli,Martin
+YR 2002
+T1 Directional wavelet transforms and frames
+VO 3
+SP 589
+OP 592
+
+RT Conference Proceedings
+ID 2279247
+A1 Ridolfi,Andrea
+A1 Maravic,Irena
+A1 Kusuma,Julius
+A1 Vetterli,Martin
+YR 2002
+T1 SAMPLING SIGNALS WITH FINITE RATE OF INNOVATION: THE NOISY C ASE
+
+RT Conference Proceedings
+ID 50300264
+A1 Do,Minh,N.
+A1 Vetterli,Martin
+YR 2002
+T1 Contourlets: a new directional multiresolution image representation
+VO 1
+SP 497
+
+RT Conference Proceedings
+ID 2064811
+A1 Maravic,Irena
+A1 Vetterli,Martin
+YR 2002
+T1 A sampling theorem for the Radon transform of finite complexity objects
+VO 2
+
+RT Conference Proceedings
+ID 3221401
+A1 Shukla,Rahul
+A1 Dragotti,Pier,Luigi
+A1 Do,Minh
+A1 Vetterli,Martin
+YR 2002
+T1 Improved quadtree algorithm based on joint coding for piecewise smooth image compression
+
+RT Conference Proceedings
+ID 66736
+A1 Servetto,Sergio,D.
+A1 Puri,Rohit
+A1 Wagner,Jean-paul
+A1 Scholtes,Pierre
+A1 Vetterli,Martin
+YR 2002
+T1 Video Multicast in (Large) Local Area Networks
+VO 2
+SP 733
+
+RT Conference Proceedings
+ID 3499341
+A1 Gastpar,M.
+A1 Vetterli,M.
+YR 2002
+T1 On the capacity of ad hoc wireless networks: the relay case
+
+RT Journal Article
+ID 426394
+A1 Balmelli,Laurent
+A1 Vetterli,Martin
+A1 Liebling,Thomas,M.
+YR 2002
+T1 Mesh Optimization Using Global Error with Application to Geometry Simplification
+JF Graphical Models /graphical Models and Image Processing /computer Vision, Graphics, and Image Processing
+VO 64
+SP 230
+OP 257
+IS 3-4
+
+RT Conference Proceedings
+ID 50300385
+A1 Maravic,I.
+A1 Vetterli,M.
+YR 2002
+T1 Digital DS-CDMA receivers working below the chip rate
+VO 2
+SP 1463
+
+RT Journal Article
+ID 2287666
+A1 Maravic,I.
+A1 Vetterli,M.
+YR 2002
+T1 Digital DS-CDMA receivers working below the chip rate: Theory and design
+JF IEEE Transactions on Communications
+
+RT Conference Proceedings
+ID 50264271
+A1 Dragotti,Pier,Luigi
+A1 Vetterli,Martin
+YR 2002
+T1 Deconvolution with wavelet footprints for ill-posed inverse problems
+VO 2
+
+RT Journal Article
+ID 3499371
+A1 Gastpar,M.
+A1 Vetterli,M.
+YR 2002
+T1 On the capacity of mobile ad hoc networks with delay constraints
+
+RT Journal Article
+ID 2276044
+A1 Dragotti,Pier,Luigi
+A1 Vetterli,Martin
+YR 2002
+T1 DECONVOLUTION WITH WAVELET FOOTPRINTS FOR ILL-POSED INVERS E PROBLEMS
+
+RT Journal Article
+ID 3646060
+A1 Shukla,R.
+A1 Do,M.,N.
+A1 Dragotti,P.,L.
+A1 Vetterli,M.
+YR 2002
+T1 Rate-distortion optimal tree based coding algorithms for piecewise polynomials
+
+RT Journal Article
+ID 8917
+A1 Dragotti,Pier,Luigi
+A1 Vetterli,Martin
+A1 Velisavljevic,Vladan
+YR 2002
+T1 Directional Wavelets and Wavelet Footprints for Compression and Denoising
+
+RT Journal Article
+ID 4200305
+A1 Do,M.,N.
+A1 Vetterli,M.
+YR 2002
+T1 Wavelet - based texture retrieval using generalized Gaus - WEI - MIN JENG AND JEN - HAO HSIAO 808 sian density and Kullback - Leibler distance
+JF IEEE Transactions on Image Processing
+
+RT Conference Proceedings
+ID 50270468
+A1 Shukla,R.
+A1 Do,Minh,N.
+A1 Dragotti,Pier,Luigi
+A1 Vetterli,Martin
+YR 2002
+T1 Rate-distortion optimal tree algorithms for piecewise polynomials
+
+RT Journal Article
+ID 50288711
+A1 Shukla,Rahul
+A1 Dragotti,Pier,Luigi
+A1 Do,Minh,N.
+A1 Vetterli,Martin
+YR 2002
+T1 Rate-distortion optimized tree based coding algorithms
+
+RT Journal Article
+ID 1283045
+A1 Hubaux,Jean-Pierre
+A1 Gross,Thomas
+A1 Boudec,Jean-Yves,Le
+A1 Vetterli,Martin
+YR 2001
+T1 Toward self-organized mobile ad hoc networks: the terminodes project
+JF IEEE Communications Magazine
+VO 39
+SP 118
+OP 124
+IS 1
+
+RT Journal Article
+ID 4008910
+A1 Hubaux,Jean-pierre
+A1 Gross,Thomas
+A1 Boudec,Jean-yves,Le
+A1 Vetterli,Martin
+YR 2001
+T1 Towards self-organizing mobile ad-hoc networks: the terminodes project
+
+RT Journal Article
+ID 2127385
+A1 Gastpar,M.
+A1 Rimoldi,B.
+A1 Vetterli,M.
+YR 2001
+T1 To code, or not to code: On the optimality of symbol-by-symbol communication
+JF IEEE Transactions on Information Theory
+
+RT Journal Article
+ID 1676687
+A1 Vetterli,Martin
+YR 2001
+T1 Wavelets, approximation, and compression
+JF IEEE Signal Processing Magazine
+VO 18
+SP 59
+OP 73
+IS 5
+
+RT Journal Article
+ID 4142891
+A1 Podolsky,Matthew,G.
+A1 Mccanne,Steven
+A1 Vetterli,Martin
+YR 2001
+T1 Soft ARQ for Layered Streaming Media
+JF Journal of Vlsi Signal Processing Systems for Signal Image and Video Technology
+VO 27
+SP 81
+OP 97
+IS 1-2
+
+RT Journal Article
+ID 1637663
+A1 Lebrun,Jérôme
+A1 Vetterli,Martin
+YR 2001
+T1 High-order balanced multiwavelets: theory, factorization, and design
+JF IEEE Transactions on Signal Processing
+VO 49
+SP 1918
+OP 1930
+IS 9
+
+RT Journal Article
+ID 101422
+A1 Vetterli,Martin
+A1 Marziliano,Pina
+A1 Blu,Thierry
+YR 2001
+T1 SAMPLING DISCRETE-TIME PIECEWISE BANDLIMITED SIGNALS
+
+RT Conference Proceedings
+ID 130888
+A1 Vetterli,Martin
+A1 Marziliano,Pina
+A1 Blu,Thierry
+YR 2001
+T1 A sampling theorem for periodic piecewise polynomial signals
+VO 6
+SP 3893
+
+RT Journal Article
+ID 1054736
+A1 ´,Zoran,Cvetkovic
+A1 Vetterli,Martin
+YR 2001
+T1 On simple oversampled A/D conversion in L2(IR)
+JF IEEE Transactions on Information Theory
+VO 47
+SP 146
+OP 154
+IS 1
+
+RT Conference Proceedings
+ID 50227865
+A1 Servetto,Sergio,D.
+A1 Vetterli,Martin
+YR 2001
+T1 Communication using phantoms: covert channels in the Internet
+
+RT Conference Proceedings
+ID 88058
+A1 Dragotti,Pier,Luigi
+A1 Vetterli,Martin
+YR 2001
+T1 FOOTPRINTS AND EDGEPRINTS FOR IMAGE DENOISING AND COMPRESS ION
+
+RT Conference Proceedings
+ID 50237422
+A1 Dragotti,P.,L.
+A1 Vetterli,Martin
+YR 2001
+T1 Footprints and edgeprints for image denoising and compression
+
+RT Journal Article
+ID 4697475
+A1 ´,Zoran,Cvetkovic
+A1 Vetterli,Martin
+YR 2001
+T1 On Simple Oversampled A/D Conversion in
+JF IEEE Transactions on Information Theory
+
+RT Conference Proceedings
+ID 50227890
+A1 Gastpar,M.
+A1 Rimoldi,B.
+A1 Vetterli,M.
+YR 2001
+T1 On source/channel codes of finite block length
+
+RT Journal Article
+ID 3706167
+A1 Marchand-maillet,D.
+A1 Vetterli,M.
+YR 2001
+T1 Sampling Theory for Image-Based Rendering
+
+RT Journal Article
+ID 14354412
+A1 Cvetkovic,Z.
+A1 Vetterli,M.
+YR 2001
+T1 On simple oversampled A/D conversion in L/sup 2/(R)
+JF IEEE Transactions on Information Theory
+VO 47
+SP 146
+OP 154
+IS 1
+
+RT Journal Article
+ID 1677022
+A1 Kovacevic,J.
+A1 Vetterli,M.
+YR 2001
+T1 Transform coding: past, present, and future
+JF IEEE Signal Processing Magazine
+VO 18
+SP 6
+OP 6
+IS 5
+
+RT Conference Proceedings
+ID 131536
+A1 Balmelli,Laurent
+A1 Liebling,Thomas,M.
+A1 Vetterli,Martin
+YR 2001
+T1 Computational analysis of 4-8 meshes with application to surface simplification using global error
+SP 33
+OP 36
+
+RT Conference Proceedings
+ID 1799468
+A1 Horbelt,Stefan
+A1 Balmelli,Laurent
+A1 Vetterli,Martin
+YR 2001
+T1 Joint mesh and texture compression using marginal analysis
+SP 114
+OP 117
+
+RT Journal Article
+ID 264274
+A1 Chang,S.,Grace
+A1 Yu,Bin
+A1 Vetterli,Martin
+YR 2000
+T1 Adaptive wavelet thresholding for image denoising and compression
+JF IEEE Transactions on Image Processing
+VO 9
+SP 1532
+OP 1546
+IS 9
+
+RT Journal Article
+ID 1681128
+A1 Chang,S.,Grace
+A1 Yu,Bin
+A1 Vetterli,Martin
+YR 2000
+T1 Spatially adaptive wavelet thresholding with context modeling for image denoising
+JF IEEE Transactions on Image Processing
+VO 9
+SP 1522
+OP 1531
+IS 9
+
+RT Conference Proceedings
+ID 2072998
+A1 Gastpar,Michael
+A1 Rimoldi,Bixio
+A1 Vetterli,Martin
+YR 2000
+T1 To code or not to code
+
+RT Journal Article
+ID 1448076
+A1 Goyal,Vivek,K.
+A1 Zhuang,Jun
+A1 Vetterli,Martin
+YR 2000
+T1 Transform coding with backward adaptive updates
+JF IEEE Transactions on Information Theory
+VO 46
+SP 1623
+OP 1633
+IS 4
+
+RT Journal Article
+ID 155274
+A1 Marziliano,Pina
+A1 Vetterli,Martin
+YR 2000
+T1 Reconstruction of irregularly sampled discrete-time bandlimited signals with unknown sampling locations
+JF IEEE Transactions on Signal Processing
+VO 48
+SP 3462
+OP 3471
+IS 12
+
+RT Journal Article
+ID 243266
+A1 Chang,S.,Grace
+A1 Yu,Bin
+A1 Vetterli,Martin
+YR 2000
+T1 Wavelet thresholding for multiple noisy image copies
+JF IEEE Transactions on Image Processing
+VO 9
+SP 1631
+OP 1635
+IS 9
+
+RT Conference Proceedings
+ID 112844
+A1 Dragotti,Pier,Luigi
+A1 Vetterli,Martin
+YR 2000
+T1 Wavelet Transform Footprints: Catching Singularities for Compression and Denoising
+VO 2
+SP 363
+
+RT Journal Article
+ID 1643032
+A1 Prandoni,Paolo
+A1 Vetterli,Martin
+YR 2000
+T1 R/D optimal linear prediction
+JF IEEE Transactions on Speech and Audio Processing
+VO 8
+SP 646
+OP 655
+IS 6
+
+RT Conference Proceedings
+ID 109344
+A1 Dragotti,Pier,Luigi
+A1 Servetto,Sergio,D.
+A1 Vetterli,Martin
+YR 2000
+T1 Analysis of Optimal Filter Banks for Multiple Description Coding
+SP 323
+OP 332
+
+RT Book, Whole
+ID 121953
+A1 Pecenovic,Zoran
+A1 Do,Minh,N.
+A1 Vetterli,Martin
+A1 Pu,Pearl
+YR 2000
+T1 Integrated Browsing and Searching of Large Image Collections
+SP 279
+OP 289
+
+RT Journal Article
+ID 95282
+A1 Do,Minh,N.
+A1 Lozano,Aurélie,C.
+A1 Vetterli,Martin
+YR 2000
+T1 Rotation Invariant Texture Retrieval using Steerable Wavelet-domain Hidden Markov Models
+
+RT Conference Proceedings
+ID 456630
+A1 Weidmann,Claudio
+A1 Vetterli,Martin
+YR 2000
+T1 Rate Distortion Behavior of Threshold-Based Nonlinear Approximations
+SP 333
+OP 342
+
+RT Journal Article
+ID 167601
+A1 Marziliano,Pina
+A1 Vetterli,Martin
+YR 2000
+T1 Fast Reconstruction In Periodic Nonuniform Sampling Of Discrete-Time Band-Limited Signals
+
+RT Conference Proceedings
+ID 220334
+A1 Servetto,Sergio,D.
+A1 Vetterli,Martin
+YR 2000
+T1 Video Multicast over Fair Queueing Networks
+VO 3
+SP 540
+
+RT Journal Article
+ID 102071
+A1 Dragotti,Pier,Luigi
+A1 Vetterli,Martin
+YR 2000
+T1 Optimal Biorthogonal Filter Banks for Multiple Description Coding
+
+RT Journal Article
+ID 54449613
+A1 Do,Minh,N.
+A1 Lozano,Aurelie,C.
+A1 Vetterli,Martin
+YR 2000
+T1 Rotation-invariant texture retrieval using steerable wavelet-domain hidden Markov models
+VO 4119
+SP 274
+OP 285
+
+RT Journal Article
+ID 53511926
+A1 Szu,Harold,H.
+A1 Vetterli,Martin
+A1 Campbell,William,J.
+A1 Buss,James,R.
+YR 2000
+T1 Wavelet Applications VII
+VO 4056
+
+RT Journal Article
+ID 51542895
+A1 Do,Minh,N.
+A1 Vetterli,Martin
+YR 2000
+T1 Image denoising using orthonormal finite ridgelet transform
+VO 4119
+SP 831
+OP 842
+
+RT Journal Article
+ID 52547574
+A1 Dragotti,Pier,L.
+A1 Vetterli,Martin
+YR 2000
+T1 Shift-invariant Gibbs-free denoising algorithm based on wavelet transform footprints
+VO 4119
+SP 821
+OP 830
+
+RT Conference Proceedings
+ID 456465
+A1 Goyal,Vivek,K.
+A1 Kovacevic,Jelena
+A1 Vetterli,Martin
+YR 1999
+T1 Quantized Frame Expansions as Source-Channel Codes for Erasure Channels
+SP 326
+OP 335
+
+RT Journal Article
+ID 264218
+A1 Goodwin,Michael,M.
+A1 Vetterli,Martin
+YR 1999
+T1 Matching pursuit and atomic signal models based on recursive filter banks
+JF IEEE Transactions on Signal Processing
+VO 47
+SP 1890
+OP 1902
+IS 7
+
+RT Journal Article
+ID 313957
+A1 Prandoni,Paolo
+A1 Vetterli,Martin
+YR 1999
+T1 Approximation and compression of piecewise smooth functions
+JF Philosophical Transactions of The Royal Society A: Mathematical, Physical and Engineering Sciences
+VO 357
+SP 2573
+OP 2591
+IS 1760
+
+RT Conference Proceedings
+ID 456631
+A1 Weidmann,Claudio
+A1 Vetterli,Martin
+YR 1999
+T1 Rate-Distortion Analysis of Spike Processes
+SP 82
+OP 91
+
+RT Conference Proceedings
+ID 174531
+A1 Balmelli,Laurent
+A1 Kovacevic,Jelena
+A1 Vetterli,Martin
+YR 1999
+T1 Quadtrees for Embedded Surface Visualization: Constraints and Efficient Data Structures
+SP 487
+OP 491
+
+RT Conference Proceedings
+ID 249444
+A1 Do,Minh,N.
+A1 Ayer,Serge
+A1 Vetterli,Martin
+YR 1999
+T1 Invariant Image Retrieval Using Wavelet Maxima Moment
+SP 451
+OP 458
+
+RT Conference Proceedings
+ID 339577
+A1 Prandoni,Paolo
+A1 Vetterli,Martin
+YR 1999
+T1 R/D optimal data hiding
+VO 3657
+SP 375
+OP 385
+
+RT Conference Proceedings
+ID 167846
+A1 Marziliano,Pina
+A1 Vetterli,Martin
+YR 1999
+T1 Irregular sampling with unknown locations
+VO 3
+SP 1657
+
+RT Conference Proceedings
+ID 286360
+A1 Horbelt,Stefan
+A1 Unser,Michael
+A1 Vetterli,Martin
+YR 1999
+T1 Wavelet Projections for Volume Rendering
+
+RT Conference Proceedings
+ID 4606254
+A1 Prandoni,Paolo
+A1 Vetterli,Martin
+YR 1999
+T1 Optimal bit allocation with side information
+VO 5
+SP 2411
+
+RT Conference Proceedings
+ID 527667
+A1 Hasler,David
+A1 Sbaiz,Luciano
+A1 Ayer,Serge
+A1 Vetterli,Martin
+YR 1999
+T1 From Local to Global Parameter Estimation in Panoramic Photographic Reconstruction
+SP 113
+OP 117
+
+RT Journal Article
+ID 3616841
+A1 Balmelli,L.
+A1 Cevi'c,J.,Kova
+A1 Vetterli,M.
+YR 1999
+T1 Progressive and adaptive meshes in a rate-distortion framework
+
+RT Journal Article
+ID 54639624
+A1 Lebrun,Jerome
+A1 Vetterli,Martin
+YR 1999
+T1 Balancing order and some other discrete-time properties of multiwavelets
+VO 3813
+SP 110
+OP 121
+
+RT Journal Article
+ID 53310466
+A1 Vetterli,Martin
+YR 1999
+T1 Wavelets: approximation and compression--a review
+VO 3723
+SP 28
+OP 31
+
+RT Journal Article
+ID 161710
+A1 Donoho,David,L.
+A1 Vetterli,Martin
+A1 Devore,Ronald,A.
+A1 Daubechies,Ingrid
+YR 1998
+T1 Data Compression and Harmonic Analysis
+JF IEEE Transactions on Information Theory
+VO 44
+SP 2435
+OP 2476
+IS 6
+
+RT Journal Article
+ID 1447736
+A1 Goyal,Vivek,K.
+A1 Vetterli,Martin
+A1 Thao,Nguyen,T.
+YR 1998
+T1 Quantized Overcomplete Expansions in IRN: Analysis, Synthesis, and Algorithms
+JF IEEE Transactions on Information Theory
+VO 44
+SP 16
+OP 31
+IS 1
+
+RT Journal Article
+ID 1636991
+A1 Cvetkovic,Z.
+A1 Vetterli,M.
+YR 1998
+T1 Oversampled filter banks
+JF IEEE Transactions on Signal Processing
+VO 46
+SP 1245
+OP 1255
+IS 5
+
+RT Conference Proceedings
+ID 166527
+A1 Goyal,Vivek,K.
+A1 Kovacevic,Jelena
+A1 Arean,Ramon
+A1 Vetterli,Martin
+YR 1998
+T1 Multiple Description Transform Coding of Images
+SP 674
+OP 678
+
+RT Journal Article
+ID 386359
+A1 Lebrun,J.
+A1 Vetterli,M.
+YR 1998
+T1 Balanced multiwavelets theory and design
+JF IEEE Transactions on Signal Processing
+VO 46
+SP 1119
+OP 1125
+IS 4
+
+RT Conference Proceedings
+ID 139010
+A1 Goyal,Vivek,K
+A1 Vetterli,Martin
+A1 Kovacevic,J.
+YR 1998
+T1 Multiple description transform coding: robustness to erasures using tight frame expansions
+
+RT Journal Article
+ID 1032684
+A1 Cvetkovic,Zoran
+A1 Vetterli,Martin
+YR 1998
+T1 Error-Rate Characteristics of Oversampled Analog-to-Digital Conversion
+JF IEEE Transactions on Information Theory
+VO 44
+SP 1961
+OP 1964
+IS 5
+
+RT Journal Article
+ID 306064
+A1 Prandoni,Paolo
+A1 Vetterli,Martin
+YR 1998
+T1 An FIR cascade structure for adaptive linear prediction
+JF IEEE Transactions on Signal Processing
+VO 46
+SP 2566
+OP 2571
+IS 9
+
+RT Conference Proceedings
+ID 263544
+A1 Vetterli,Martin
+YR 1998
+T1 High order balanced multiwavelets
+VO 3
+SP 1529
+
+RT Conference Proceedings
+ID 1356226
+A1 Podolsky,M.
+A1 Vetterli,M.
+A1 McCanne,S.
+YR 1998
+T1 Limited retransmission of real-time layered multimedia
+
+RT Conference Proceedings
+ID 3258836
+A1 Cheneval,Y.
+A1 Balmelli,L.
+A1 Prandoni,P.
+A1 Kovacevict,J.
+A1 Vetterli,M.
+YR 1998
+T1 Interactive DSP education using Java
+VO 3
+SP 1905
+
+RT Journal Article
+ID 1638019
+A1 Cvetkovic,Z.
+A1 Vetterli,M.
+YR 1998
+T1 Tight Weyl-Heisenberg frames in l/sup 2/(Z)
+JF IEEE Transactions on Signal Processing
+VO 46
+SP 1256
+OP 1259
+IS 5
+
+RT Journal Article
+ID 51169045
+A1 Cvetkovic,Z.
+A1 Vetterli,M.
+YR 1998
+T1 Tight Weyl-Heisenberg frames in l2(Z)
+JF IEEE Transactions on Signal Processing
+VO 46
+SP 1256
+OP 1259
+IS 5
+
+RT Conference Proceedings
+ID 171240
+A1 Balmelli,Laurent
+A1 Ayer,Serge
+A1 Vetterli,Martin
+YR 1998
+T1 Efficient Algorithms for Embedded Rendering of Terrain Models
+SP 914
+OP 918
+
+RT Conference Proceedings
+ID 142094
+A1 Weidmann,Claudio
+A1 Lebrun,Jérôme
+A1 Vetterli,Martin
+YR 1998
+T1 Significance Tree Image Coding using Balanced Multiwavelets
+SP 97
+OP 101
+
+RT Journal Article
+ID 3634847
+A1 Goyal,V.,K.
+A1 Vetterli,M.
+A1 Thao,N.,T.
+YR 1998
+T1 Quantized over-complete expansions in R
+JF IEEE Transactions on Information Theory
+
+RT Journal Article
+ID 263361
+A1 Ramchandran,Kannan
+A1 Vetterli,Martin
+YR 1998
+T1 Multiresolution Joint Source-Channel Coding for Wireless Channels
+
+RT Conference Proceedings
+ID 303618
+A1 Goyal,Vivek,K
+A1 Vetterli,Martin
+YR 1998
+T1 Manipulating rates, complexity and error-resilience with discrete transforms
+VO 1
+SP 457
+
+RT Journal Article
+ID 342959
+A1 Pecenovic,Zoran
+A1 Do,Minh
+A1 Ayer,Serge
+A1 Vetterli,Martin
+YR 1998
+T1 New Methods for Image Retrieval
+
+RT Conference Proceedings
+ID 69987
+A1 Prandoni,Paolo
+A1 Lcav,Martin,Vetterli
+YR 1998
+T1 Perceptually Hidden Data Transmission Over Audio Signals
+VO 6
+SP 3665
+
+RT Journal Article
+ID 1637454
+A1 Bernardini,Riccardo
+A1 Vetterli,Martin
+YR 1998
+T1 Discrete and continuous-time local cosine bases with multiple overlapping
+JF IEEE Transactions on Signal Processing
+VO 46
+SP 3166
+OP 3180
+IS 12
+
+RT Journal Article
+ID 108072
+A1 Goyal,Vivek,K
+A1 Vetterli,Martin
+YR 1998
+T1 BLOCK TRANSFORM ADAPTATION BY STOCHASTIC GRADIENT DESCENT
+JF Digital Signal Processing
+
+RT Conference Proceedings
+ID 50135935
+A1 Balmelli,Laurent
+A1 Ayer,Serge
+A1 Cheneval,Yves
+A1 Vetterli,Martin
+YR 1998
+T1 A framework for interactive courses and virtual laboratories
+
+RT Journal Article
+ID 1031175
+A1 Thao,Nguyen,T.
+A1 Vetterli,Martin
+YR 1998
+T1 Set theoretic compression with an application to image coding
+JF IEEE Transactions on Image Processing
+VO 7
+SP 1051
+OP 1056
+IS 7
+
+RT Journal Article
+ID 363726
+A1 Goyal,Vivek
+A1 Vetterli,Martin
+YR 1998
+T1 Adaptive Transform Coding Using LMS-like Principal Component Tracking
+
+RT Conference Proceedings
+ID 353617
+A1 Chang,S.,Grace
+A1 Yu,Bin
+A1 Vetterli,Martin
+YR 1998
+T1 Multiple Copy Image Denoising via Wavelet Thresholding
+SP 545
+OP 549
+
+RT Book, Whole
+ID 49076614
+A1 Vetterli,Martin
+YR 1998
+T1 Overcomplete expansions and robustness
+VO 7
+SP 301
+OP 338
+
+RT Journal Article
+ID 54836
+A1 Horbelt,Stefan
+A1 Vetterli,Martin
+A1 Unser,Michael
+YR 1998
+T1 High-Quality Wavelet Splatting for Volume Rendering
+
+RT Journal Article
+ID 6142057
+A1 Goodwin,Michael
+A1 Prandonit,Paolo
+A1 Vetterli,Martin
+YR 1998
+T1 Sound representation and modification with multiresolution sinusoidal models
+JF Journal of The Acoustical Society of America
+VO 103
+SP 2757
+IS 5
+
+RT Journal Article
+ID 258948
+A1 Mccanne,Steven
+A1 Vetterli,Martin
+A1 Jacobson,Van
+YR 1997
+T1 Low-Complexity Video Coding for Receiver-Driven Layered Multicast
+JF IEEE Journal on Selected Areas in Communications
+VO 15
+SP 982
+OP 1001
+IS 6
+
+RT Conference Proceedings
+ID 368564
+A1 Chang,S.,Grace
+A1 Yu,Bin
+A1 Vetterli,Martin
+YR 1997
+T1 Image Denoising via Lossy Compression and Wavelet Thresholding
+SP 604
+OP 607
+
+RT Conference Proceedings
+ID 1347907
+A1 Ortega,Antonio
+A1 Carignano,Fabio
+A1 Ayer,Serge
+A1 Vetterli,Martin
+YR 1997
+T1 Soft Caching: Web Cache Management Techniques for Images
+
+RT Conference Proceedings
+ID 370498
+A1 Chang,S.,Grace
+A1 Vetterli,Martin
+YR 1997
+T1 Spatial Adaptive Wavelet Thresholding for Image Denoising
+SP 374
+
+RT Conference Proceedings
+ID 50076120
+A1 Prandom,P.
+A1 Goodwin,Michael
+A1 Vetterli,Martin
+YR 1997
+T1 Optimal time segmentation for signal modeling and compression
+VO 3
+SP 2029
+
+RT Journal Article
+ID 1021556
+A1 Ortega,Antonio
+A1 Vetterli,Martin
+YR 1997
+T1 Adaptive scalar quantization without side information
+JF IEEE Transactions on Image Processing
+VO 6
+SP 665
+OP 676
+IS 5
+
+RT Journal Article
+ID 233876
+A1 Kalker,Ton
+A1 Vetterli,Martin
+YR 1997
+T1 Gr?bner Bases and Multidimensional FIR Multirate Systems
+
+RT Conference Proceedings
+ID 50076206
+A1 Lebrun,J.
+A1 Vetterli,M.
+YR 1997
+T1 Balanced multiwavelets
+VO 3
+SP 2473
+
+RT Conference Proceedings
+ID 50075659
+A1 Goyal,Vavek,K
+A1 Vetterli,M.
+YR 1997
+T1 Computation-distortion characteristics of block transform coding
+VO 4
+SP 2729
+
+RT Conference Proceedings
+ID 2034558
+A1 Goyal,Vivek,K.
+A1 Vetterli,Martin
+YR 1997
+T1 Dependent coding in quantized matching pursuit
+VO 3024
+SP 2
+OP 12
+
+RT Conference Proceedings
+ID 331185
+A1 Goodwin,Michael
+A1 Vetterli,Martin
+YR 1997
+T1 Atomic decompositions of audio signals
+
+RT Journal Article
+ID 48640483
+A1 Kalker,Ton
+A1 Vetterli,Martin
+YR 1997
+T1 Gröbner Bases and Multidimensional FIR Multirate Systems
+JF Multidimensional Systems and Signal Processing
+VO 8
+SP 11
+OP 30
+IS 1
+
+RT Conference Proceedings
+ID 6404068
+A1 Goodwin,Michael
+A1 Vetterli,Martin
+YR 1997
+T1 Atomic signal models based on recursive filter banks
+VO 2
+SP 1284
+
+RT Conference Proceedings
+ID 528377
+A1 Weidmann,Claudio
+A1 Vetterli,Martin
+A1 Ortega,Antonio
+A1 Carignano,Fabio
+YR 1997
+T1 Soft Caching: Image Caching in a Rate-Distortion Framework
+SP 696
+OP 699
+
+RT Conference Proceedings
+ID 141308
+A1 Goyal,Vivek,K.
+A1 Zhuang,Jun
+A1 Vetterli,Martin
+YR 1997
+T1 Universal Transform Coding Based on Backward Adaptation
+SP 231
+OP 240
+
+RT Journal Article
+ID 260205
+A1 Yu,Bin
+A1 Vetterli,Martin
+A1 Chang,S.,Grace
+YR 1997
+T1 Lossy Compression and Wavelet Thresholding for Image Denoising
+JF IEEE Transactions on Image Processing
+
+RT Conference Proceedings
+ID 50105479
+A1 Goyal,V.,K.
+A1 Vetterli,Martin
+YR 1997
+T1 Computation-distortion characteristics of JPEG encoding and decoding
+VO 1
+SP 229
+
+RT Conference Proceedings
+ID 6678532
+A1 Cvetkovic,Z.
+A1 Vetterli,Martin
+YR 1997
+T1 On error-rate characteristics of oversampled A/D conversion
+
+RT Journal Article
+ID 5142
+A1 McCanne,Steven
+A1 Jacobson,Van
+A1 Vetterli,Martin
+YR 1996
+T1 Receiver-Driven Layered Multicast
+JF Computer Communication Review
+VO 26
+SP 117
+OP 130
+IS 4
+
+RT Journal Article
+ID 373118
+A1 Cosman,Pamela,C.
+A1 Gray,Robert,M.
+A1 Vetterli,Martin
+YR 1996
+T1 Vector quantization of image subbands: a survey
+JF IEEE Transactions on Image Processing
+VO 5
+SP 202
+OP 225
+IS 2
+
+RT Conference Proceedings
+ID 183493
+A1 Amir,Elan
+A1 Mccanne,Steven
+A1 Vetterli,Martin
+YR 1996
+T1 A layered DCT coder for Internet video
+
+RT Journal Article
+ID 1469389
+A1 RAMCHANDRAN,KANNAN
+A1 VETTERLI,MARTIN
+A1 HERLEY,CORMAC
+YR 1996
+T1 Wavelets, subband coding, and best bases
+JF Proceedings of The IEEE
+VO 84
+SP 541
+OP 560
+IS 4
+
+RT Journal Article
+ID 1681101
+A1 Radha,Hayder
+A1 Vetterli,Martin
+A1 Leonardi,Riccardo
+YR 1996
+T1 Image compression using binary space partitioning trees
+JF IEEE Transactions on Image Processing
+VO 5
+SP 1610
+OP 1624
+IS 12
+
+RT Journal Article
+ID 344509
+A1 Ramchandran,Kannan
+A1 Xiong,Zixiang
+A1 Asai,Kohtaro
+A1 Vetterli,Martin
+YR 1996
+T1 Adaptive transforms for image coding using spatially varying wavelet packets
+JF IEEE Transactions on Image Processing
+VO 5
+SP 1197
+OP 1204
+IS 7
+
+RT Journal Article
+ID 1446713
+A1 Thao,Nguyen,T.
+A1 Vetterli,Martin
+YR 1996
+T1 Lower bound on the mean-squared error in oversampled quantization of periodic signals using vector quantization analysis
+JF IEEE Transactions on Information Theory
+VO 42
+SP 469
+OP 479
+IS 2
+
+RT Conference Proceedings
+ID 50051599
+A1 Cvetkovic,Z.
+A1 Vetterli,M.
+YR 1996
+T1 Overcomplete expansions and robustness
+
+RT Journal Article
+ID 1397128
+A1 Mccanne,S.
+A1 Jacobson,V.
+A1 Vetterli,M.
+YR 1996
+T1 Receiver-driven layered multicast", acm sigcomm'96
+
+RT Conference Proceedings
+ID 371518
+A1 Goodwin,Michael
+A1 Vetterli,Martin
+YR 1996
+T1 Time-frequency signal models for music analysis, transformation, and synthesis
+
+RT Conference Proceedings
+ID 50058345
+A1 Goyal,Vivek,K
+A1 Zhuang,Jun
+A1 Vetterli,Martin
+A1 Chan,Christopher
+YR 1996
+T1 Transform coding using adaptive bases and quantization
+
+RT Conference Proceedings
+ID 50049411
+A1 Vetterli,Martin
+A1 CvetkoviC,Zoran
+YR 1996
+T1 Oversampled FIR filter banks and frames in l2(Z)
+VO 3
+SP 1530
+
+RT Conference Proceedings
+ID 50049463
+A1 Goyal,Vivek,IC
+A1 Vetterli,Martin
+YR 1996
+T1 Consistency in quantized matching pursuit
+VO 3
+SP 1787
+
+RT Journal Article
+ID 39212405
+A1 McCanne,Steven
+A1 Jacobson,Van
+A1 Vetterli,Martin
+YR 1996
+T1 Receiver-driven layered multicast
+JF Computer Communication Review
+SP 117
+OP 130
+
+RT Journal Article
+ID 53006731
+A1 Cosman,P.,C.
+A1 Gray,R.,M.
+A1 Vetterli,M.
+YR 1996
+T1 Vector quantization of image subbands: a survey
+JF IEEE Transactions on Image Processing
+VO 5
+SP 202
+OP 225
+
+RT Journal Article
+ID 54875675
+A1 Mazza,Edoardo
+A1 Dual,J.
+A1 Musil,C.,R.
+A1 Danuser,Gaudenz
+A1 Vetterli,Martin
+YR 1996
+T1 Measurement of the strain field in a micrometer-sized region at a notch-tip
+VO 2782
+SP 160
+OP 168
+
+RT Journal Article
+ID 1412622
+A1 Vetterli,M.
+A1 Kovacevic,J.
+YR 1995
+T1 Wavelets and subband coding
+
+RT Conference Proceedings
+ID 527278
+A1 Mccanne,Steven
+A1 Vetterli,Martin
+YR 1995
+T1 Joint source/channel coding for multicast packet video
+SP 25
+OP 28
+
+RT Journal Article
+ID 1639941
+A1 Cvetkovic,Z.
+A1 Vetterli,M.
+YR 1995
+T1 Discrete-time wavelet extrema representation: design and consistent reconstruction
+JF IEEE Transactions on Signal Processing
+
+RT Conference Proceedings
+ID 358821
+A1 Chang,S.,Grace
+A1 Cvetkovic,Z.
+A1 Vetterli,Martin
+YR 1995
+T1 Resolution enhancement of images using wavelet transform extrema extrapolation
+VO 4
+SP 2379
+
+RT Journal Article
+ID 1639985
+A1 Kovacevic,J.
+A1 Vetterli,M.
+YR 1995
+T1 Nonseparable two- and three-dimensional wavelets
+JF IEEE Transactions on Signal Processing
+VO 43
+SP 1269
+OP 1273
+IS 5
+
+RT Conference Proceedings
+ID 3654370
+A1 Mccane,S.
+A1 Jacobson,V.
+A1 Vetterli,M.
+YR 1995
+T1 Receiver-driven layered multicast
+
+RT Journal Article
+ID 294472
+A1 Vetterli,Martin
+YR 1995
+T1 Perfect Reconstruction Filter Banks with Rational Sampling Factors
+
+RT Conference Proceedings
+ID 527266
+A1 Yeh,J.
+A1 Vetterli,Martin
+A1 Khansari,Masoud,R.,K.
+YR 1995
+T1 Motion compensation of motion vectors
+SP 574
+OP 577
+
+RT Conference Proceedings
+ID 50035565
+A1 Khansari,Masoud
+A1 Vetterli,Martin
+YR 1995
+T1 Layered transmission of signals over power-constrained wireless channels
+
+RT Conference Proceedings
+ID 456468
+A1 Goyal,Vivek,K.
+A1 Vetterli,Martin
+A1 Thao,Nguyen,T.
+YR 1995
+T1 Quantization of Overcomplete Expansions
+SP 13
+OP 22
+
+RT Conference Proceedings
+ID 330117
+A1 Chan,Christopher
+A1 Vetterli,Martin
+YR 1995
+T1 Lossy compression of individual signals based on string matching and one pass codebook design
+VO 4
+SP 2491
+
+RT Conference Proceedings
+ID 50032162
+A1 Khansari,Masoud
+A1 Vetterli,Martin
+YR 1995
+T1 Source coding and transmission of signals over time-varying channels with side information
+
+RT Journal Article
+ID 47752661
+A1 Ortega,Antonio
+A1 Garrett,Mark,W.
+A1 Vetterli,Martin
+YR 1995
+T1 Rate constraints for video transmission over atm networks based on joint source/network criteria
+JF Annales Des Télécommunications
+VO 50
+SP 603
+OP 616
+IS 7
+
+RT Journal Article
+ID 1454074
+A1 Hong,Jonathan
+A1 Vetterli,Martin
+YR 1995
+T1 Simple algorithms for BCH decoding
+JF IEEE Transactions on Communications
+VO 43
+SP 2324
+OP 2333
+IS 8
+
+RT Journal Article
+ID 14385149
+A1 CvetkoviC,Zoran
+A1 Vetterli,Martin
+YR 1995
+T1 Discrete-time wavelet extrema representation: design and consistent reconstruction
+JF IEEE Transactions on Signal Processing
+VO 43
+SP 681
+OP 693
+IS 3
+
+RT Conference Proceedings
+ID 345443
+A1 Kalker,Ton
+A1 Vetterli,Martin
+YR 1995
+T1 Groebner basis techniques in multidimensional multirate systems
+VO 4
+SP 2121
+
+RT Journal Article
+ID 52847672
+A1 Kalker,Ton
+A1 Vetterli,Martin
+YR 1995
+T1 Projection methods in motion estimation and compensation
+VO 2419
+SP 164
+OP 175
+
+RT Journal Article
+ID 1681473
+A1 Ramchandran,Kannan
+A1 Ortega,Antonio
+A1 Vetterli,Martin
+YR 1994
+T1 Bit allocation for dependent quantization with applications to multiresolution and MPEG video coders
+JF IEEE Transactions on Image Processing
+VO 3
+SP 533
+OP 545
+IS 5
+
+RT Journal Article
+ID 1386554
+A1 Ortega,Antonio
+A1 Ramchandran,Kannan
+A1 Vetterli,Martin
+YR 1994
+T1 Optimal trellis-based buffered compression and fast approximations
+JF IEEE Transactions on Image Processing
+VO 3
+SP 26
+OP 40
+IS 1
+
+RT Journal Article
+ID 1681059
+A1 Ramchandran,Kannan
+A1 Vetterli,Martin
+YR 1994
+T1 Rate-distortion optimal fast thresholding with complete JPEG/MPEG decoder compatibility
+JF IEEE Transactions on Image Processing
+VO 3
+SP 700
+OP 704
+IS 5
+
+RT Journal Article
+ID 1638739
+A1 Thao,Nguyen,T.
+A1 Vetterli,M.
+YR 1994
+T1 Deterministic analysis of oversampled A/D conversion and decoding improvement based on consistent estimates
+JF IEEE Transactions on Signal Processing
+VO 42
+SP 519
+OP 531
+IS 3
+
+RT Journal Article
+ID 1636786
+A1 Herley,Cormac
+A1 Vetterli,Martin
+YR 1994
+T1 Orthogonal time-varying filter banks and wavelet packets
+JF IEEE Transactions on Signal Processing
+VO 42
+SP 2650
+OP 2663
+IS 10
+
+RT Conference Proceedings
+ID 346350
+A1 Ortega,Antonio
+A1 Vetterli,Martin
+YR 1994
+T1 Adaptive Quantization without Side Information
+SP 856
+OP 860
+
+RT Conference Proceedings
+ID 64454
+A1 Neff,Ralph,A.
+A1 Zakhor,Avideh
+A1 Vetterli,Martin
+YR 1994
+T1 Very low bit-rate video coding using matching pursuits
+VO 2308
+SP 47
+OP 60
+
+RT Conference Proceedings
+ID 355059
+A1 Vetterli,Martin
+A1 Kalker,Ton
+YR 1994
+T1 Matching Pursuit for Compression and Application to Motion Compensated Video Coding
+SP 725
+OP 729
+
+RT Conference Proceedings
+ID 49988574
+A1 Vetterli,M.
+A1 Strang,G.
+YR 1994
+T1 Time-varying filter banks and multiwavelets
+
+RT Journal Article
+ID 1638716
+A1 Thao,Nguyen,T.
+A1 Vetterli,Martin
+YR 1994
+T1 Reduction of the MSE in R-times oversampled A/D conversion O(1/R) to O(1/R2)
+JF IEEE Transactions on Signal Processing
+VO 42
+SP 200
+OP 203
+IS 1
+
+RT Conference Proceedings
+ID 122966
+A1 Ortega,Antonio
+A1 Zhang,Z.
+A1 Vetterli,Martin
+YR 1994
+T1 A Framework for Optimization of a Multiresolution Remote Image Retrieval System
+SP 672
+OP 679
+
+RT Conference Proceedings
+ID 526690
+A1 Thao,Nguyen,T.
+A1 Asai,Kohtaro
+A1 Vetterli,Martin
+YR 1994
+T1 Set Theoretic Compression with an Application to Image Coding
+SP 336
+OP 340
+
+RT Journal Article
+ID 1469316
+A1 HONG,JONATHAN
+A1 VETTERLI,MARTIN
+A1 DUHAMEL,PIERRE
+YR 1994
+T1 Basefield transforms with the convolution property
+JF Proceedings of The IEEE
+VO 82
+SP 400
+OP 412
+IS 3
+
+RT Conference Proceedings
+ID 456022
+A1 Ramchandran,Kannan
+A1 Vetterli,Martin
+YR 1994
+T1 Syntax-Constrained Encoder Optimization Using Adaptive Quantization Thresholding for JPEG/MPEG Coders
+SP 146
+OP 155
+
+RT Conference Proceedings
+ID 50000585
+A1 Vetterli,M.
+YR 1994
+T1 Signal expansions for compression
+
+RT Conference Proceedings
+ID 49991068
+A1 Thao,N.,T.
+A1 Vetterli,M.
+YR 1994
+T1 Lower bound on the mean squared error in oversampled quantization of periodic signals
+
+RT Conference Proceedings
+ID 49990740
+A1 Cvetkovic,Zoran
+A1 Vetterli,Martin
+YR 1994
+T1 Wavelet extrema and zero-crossings representations: properties and consistent reconstruction
+VO iii
+
+RT Conference Proceedings
+ID 49998207
+A1 Thao,Nguyen,T.
+A1 Vetterli,Martin
+YR 1994
+T1 Lower bound on the mean squared error in multi-loop ΣΔ modulation with periodic bandlimited signals
+VO 2
+SP 1536
+
+RT Conference Proceedings
+ID 49990230
+A1 Asai,K.
+A1 Thao,Nguyen,T.
+A1 Vetterli,M.
+YR 1994
+T1 A study of convex coders with an application to image coding
+VO v
+
+RT Journal Article
+ID 51794603
+A1 Ortega,Antonio
+A1 Zhang,Zhensheng
+A1 Vetterli,Martin
+YR 1994
+T1 Modeling and optimization of a multiresolution remote image retrieval system
+VO 2186
+SP 185
+OP 196
+
+RT Journal Article
+ID 52741998
+A1 Thao,N.,T.
+A1 Vetterli,M.
+YR 1994
+T1 Reduction of the MSE in R-times oversampled A/D conversion O(1/R) to O(1/R/sup 2/)
+JF IEEE Transactions on Signal Processing
+VO 42
+SP 200
+OP 203
+
+RT Conference Proceedings
+ID 49983239
+A1 Thao,N.,T.
+A1 Vetterli,M.
+YR 1994
+T1 Vector quantization view of ΣΔ modulation
+
+RT Journal Article
+ID 1681049
+A1 Ramchandran,Kannan
+A1 Vetterli,Martin
+YR 1993
+T1 Best wavelet packet bases in a rate-distortion sense
+JF IEEE Transactions on Image Processing
+VO 2
+SP 160
+OP 175
+IS 2
+
+RT Journal Article
+ID 215017
+A1 Garrett,Mark,W.
+A1 Vetterli,Martin
+YR 1993
+T1 Joint source/channel coding of statistically multiplexed real-time services on packet networks
+JF IEEE/ACM Transactions on Networking
+VO 1
+SP 71
+OP 80
+IS 1
+
+RT Journal Article
+ID 797119
+A1 Ramchandran,Kannan
+A1 Ortega,Antonio
+A1 Uz,K.,Metin
+A1 Vetterli,Martin
+YR 1993
+T1 Multiresolution Broadcast for Digital HDTV Using Joint Source/Channel Coding
+JF IEEE Journal on Selected Areas in Communications
+VO 11
+SP 6
+OP 23
+IS 1
+
+RT Journal Article
+ID 1639608
+A1 Herley,C.
+A1 Vetterli,M.
+YR 1993
+T1 Wavelets and recursive filter banks
+JF IEEE Transactions on Signal Processing
+VO 41
+SP 2536
+OP 2556
+IS 8
+
+RT Journal Article
+ID 1636750
+A1 Herley,Cormac
+A1 Kovacevic,J.
+A1 Ramchandran,K.
+A1 Vetterli,M.
+YR 1993
+T1 Tilings of the time-frequency plane: construction of arbitrary orthogonal bases and fast tiling algorithms
+JF IEEE Transactions on Signal Processing
+VO 41
+SP 3341
+OP 3359
+IS 12
+
+RT Journal Article
+ID 1639573
+A1 Kovaceciv,J.
+A1 Vetterli,M.
+YR 1993
+T1 Perfect reconstruction filter banks with rational sampling factors
+JF IEEE Transactions on Signal Processing
+VO 41
+SP 2047
+OP 2066
+IS 6
+
+RT Journal Article
+ID 396933
+A1 Ortega,A.
+A1 Garrett,M.,W.
+A1 Vetterli,M.
+YR 1993
+T1 Toward Joint Optimization Of Vbr Video Coding And Packet Network Traffic Control
+
+RT Conference Proceedings
+ID 49955461
+A1 Ramchandran,K.
+A1 Ortega,A.
+A1 Vetterli,M.
+YR 1993
+T1 Bit allocation for dependent quantization with applications to MPEG video coders
+VO 5
+SP 381
+
+RT Conference Proceedings
+ID 619154
+A1 Herley,Cormac
+A1 Vetterli,Martin
+YR 1993
+T1 Orthogonal time-varying filter banks and wavelets
+SP 391
+OP 394
+
+RT Conference Proceedings
+ID 49955172
+A1 Herley,C.
+A1 Kovacevic,J.
+A1 Ramchandran,K.
+A1 Vetterli,M.
+YR 1993
+T1 Time-varying orthonormal tilings of the time-frequency plane
+VO 3
+SP 205
+
+RT Journal Article
+ID 1681686
+A1 Kovacevic,Jelena
+A1 Vetterli,Martin
+YR 1993
+T1 FCO sampling of digital video using perfect reconstruction filter banks
+JF IEEE Transactions on Image Processing
+VO 2
+SP 118
+OP 122
+IS 1
+
+RT Journal Article
+ID 2019936
+A1 Herley,C.
+A1 Vetterli,M.
+YR 1993
+T1 Biorthogonal bases of symmetric compactly supported wavelets
+
+RT Journal Article
+ID 2091823
+A1 Ramchandran,K.
+A1 Vetterli,M
+YR 1993
+T1 Best wavelet packet in the rate-distortion sense
+JF IEEE Transactions on Image Processing
+
+RT Journal Article
+ID 1447194
+A1 Hong,Jonathan
+A1 Vetterli,Martin
+YR 1993
+T1 Hartley transforms over finite fields
+JF IEEE Transactions on Information Theory
+VO 39
+SP 1628
+OP 1638
+IS 5
+
+RT Conference Proceedings
+ID 618390
+A1 Kovacevic,Jelena
+A1 Vetterli,Martin
+YR 1993
+T1 New results on multidimensional filter banks and wavelets
+SP 108
+OP 111
+
+RT Journal Article
+ID 1448120
+A1 Hong,Jonathan
+A1 Vetterli,Martin
+YR 1993
+T1 Computing m DFT's over GF(q) with one DFT over GF(qm)
+JF IEEE Transactions on Information Theory
+VO 39
+SP 271
+OP 274
+IS 1
+
+RT Conference Proceedings
+ID 49979843
+A1 Kovacevic,J.
+A1 Vetterli,Martin
+YR 1993
+T1 Time-varying modulated lapped transforms
+SP 481
+
+RT Conference Proceedings
+ID 49955227
+A1 Thao,Nguyen,T.
+A1 Vetterli,Martin
+YR 1993
+T1 A deterministic analysis of oversampled A/D conversion and Sigma Delta modulation
+VO 3
+SP 468
+
+RT Journal Article
+ID 15215828
+A1 Linzer,E.
+A1 Vetterli,M.
+YR 1993
+T1 Iterative Toeplitz Solver mit lokal quadratischer Konvergenz
+JF Computing
+VO 49
+SP 339
+OP 347
+IS 4
+
+RT Journal Article
+ID 48218739
+A1 Linzer,E.
+A1 Vetterli,M.
+YR 1993
+T1 Iterative Toeplitz solvers with local quadratic convergence
+JF Computing
+VO 49
+SP 339
+OP 347
+IS 4
+
+RT Conference Proceedings
+ID 619838
+A1 Thao,Nguyen,T.
+A1 Vetterli,Martin
+YR 1993
+T1 Lower bounds on the MSE in Nth order mulit-bit multi-loop sigma delta modulation with DC inputs
+SP 176
+OP 179
+
+RT Conference Proceedings
+ID 49959070
+A1 Thao,Nguyen,T.
+A1 Vetterli,Martin
+YR 1993
+T1 Lower bounds on the MSE in Nth order multi-bit multi-loop ΣΔ modulation with DC inputs
+
+RT Journal Article
+ID 49959002
+A1 Thao,Nguyen,T.
+A1 Vetterli,Martin
+YR 1993
+T1 Lower Bounds On The MSE In N/si th/ Order Multibit Multiloop Σspl Delta/ Modulation With DC Inputs
+
+RT Journal Article
+ID 1638443
+A1 Vetterli,Martin
+A1 Herley,Cormac
+YR 1992
+T1 Wavelets and filter banks: theory and design
+JF IEEE Transactions on Signal Processing
+VO 40
+SP 2207
+OP 2232
+IS 9
+
+RT Journal Article
+ID 1637424
+A1 Gilloire,Andrk
+A1 Vetterli,Martin
+YR 1992
+T1 Adaptive filtering in subbands with critical sampling: analysis, experiments, and application to acoustic echo cancellation
+JF IEEE Transactions on Signal Processing
+VO 40
+SP 1862
+OP 1875
+IS 8
+
+RT Journal Article
+ID 1446841
+A1 Kovacevic,Jelena
+A1 Vetterli,Martin
+YR 1992
+T1 Nonseparable multidimensional perfect reconstruction filter banks and wavelet bases for Rn
+JF IEEE Transactions on Information Theory
+VO 38
+SP 533
+OP 555
+IS 2
+
+RT Conference Proceedings
+ID 3525546
+A1 Ortega,Antonio
+A1 Ramchandran,Kannan
+A1 Vetterli,M.
+YR 1992
+T1 Optimal buffer-constrained source quantization and fast approximations
+
+RT Conference Proceedings
+ID 49931227
+A1 I,Corrnac,Herley
+A1 Kovacevic,J.
+A1 Ramchandran,K.
+A1 Vetterli,Martin
+YR 1992
+T1 Arbitrary orthogonal tilings of the time-frequency plane
+
+RT Journal Article
+ID 46365250
+A1 Vetterli,Martin
+A1 UZ,Kamil,Metin
+YR 1992
+T1 Multiresolution coding techniques for digital television: A review
+JF Multidimensional Systems and Signal Processing
+VO 3
+SP 161
+OP 187
+IS 2
+
+RT Journal Article
+ID 1363276
+A1 Vetterli,M.
+A1 Uz,K.,M.
+YR 1992
+T1 Multiresolution coding techniques for digital video: a review
+
+RT Conference Proceedings
+ID 49944299
+A1 Thao,Nguyen,T.
+A1 Vetterli,Martin
+YR 1992
+T1 Optimal MSE signal reconstruction in oversampled A/D conversion using convexity
+VO 4
+SP 165
+
+RT Conference Proceedings
+ID 49946169
+A1 Ramchandran,Kannan
+A1 Vetterli,Martin
+YR 1992
+T1 Best wavelet packet bases using rate-distortion criteria
+
+RT Journal Article
+ID 49947014
+A1 Ramchandran,K.
+A1 Ortega,A.
+A1 Uz,K.,M.
+A1 Vetterli,M.
+YR 1992
+T1 Multiresolution broadcast for digital HDTV using joint source-channel coding
+
+RT Conference Proceedings
+ID 49944199
+A1 Kovacevic,J.
+A1 Vetterli,Martin
+YR 1992
+T1 Design of multidimensional non-separable regular filter banks and wavelets
+VO 4
+SP 389
+
+RT Journal Article
+ID 1667956
+A1 Naveen,T.
+A1 Woods,John,W.
+A1 Uz,K.,M.
+A1 Vetterli,M.
+A1 LeGall,D.
+YR 1992
+T1 Comments on `Interpolative multiresolution coding of advanced television with compatible subchannels' [and reply and additional comments]
+JF IEEE Transactions on Circuits and Systems for Video Technology
+VO 2
+SP 95
+OP 100
+IS 1
+
+RT Journal Article
+ID 26538918
+A1 Uz,K.,M
+A1 Ramchandran,K
+A1 Vetterli,M
+YR 1992
+T1 Combined multiresolution source coding and modulation for digital broadcast of HDTV
+JF Signal Processing-image Communication
+VO 4
+SP 283
+OP 292
+IS 4-5
+
+RT Journal Article
+ID 26538916
+A1 Schäfer,R
+A1 Tanimoto,M
+A1 Vetterli,M
+YR 1992
+T1 All-digital high definition television: Dream or reality?
+JF Signal Processing-image Communication
+VO 4
+SP 263
+OP 264
+IS 4-5
+
+RT Conference Proceedings
+ID 49944171
+A1 Herley,Cormac
+A1 Vetterli,Martin
+YR 1992
+T1 Wavelets generated by IIR filter banks
+VO 4
+SP 601
+
+RT Conference Proceedings
+ID 49939533
+A1 Herley,Cormac
+A1 Vetterli,Martin
+YR 1992
+T1 Orthogonalization of Compactly Supported Wavelet Bases
+
+RT Conference Proceedings
+ID 49939582
+A1 Thao,N.,T.
+A1 Vetterli,M.
+YR 1992
+T1 Towards a Quantization Theorem
+
+RT Journal Article
+ID 1345690
+A1 Rioul,O.
+A1 Vetterli,M.
+YR 1991
+T1 Wavelets and signal processing
+JF IEEE Signal Processing Magazine
+VO 8
+SP 14
+OP 38
+IS 4
+
+RT Journal Article
+ID 1353757
+A1 Garrett,M.,W.
+A1 Vetterli,M.
+YR 1991
+T1 Congestion control strategies for packet video
+
+RT Journal Article
+ID 1667609
+A1 Uz,K.,M.
+A1 Vetterli,M.
+A1 LeGall,D.,J.
+YR 1991
+T1 Interpolative multiresolution coding of advance television with compatible subchannels
+JF IEEE Transactions on Circuits and Systems for Video Technology
+VO 1
+SP 86
+OP 99
+IS 1
+
+RT Conference Proceedings
+ID 2582034
+A1 Amir,Elan
+A1 McCanne,Steven
+A1 Vetterli,Martin
+YR 1991
+T1 A LAYERED DCT CODER FOR INTERNET VIDEO
+
+RT Conference Proceedings
+ID 49914000
+A1 Herley,C.
+A1 Vetterli,M.
+YR 1991
+T1 Linear phase wavelets: theory and design
+SP 2017
+
+RT Conference Proceedings
+ID 49913895
+A1 Kovacevic,J.
+A1 Vetterli,M.
+YR 1991
+T1 Perfect reconstruction filter banks with rational sampling rate changes
+SP 1785
+
+RT Journal Article
+ID 1447971
+A1 Kovacevic,Jelena
+A1 Vetterli,Martin
+YR 1991
+T1 The commutativity of up/downsampling in two dimensions
+JF IEEE Transactions on Information Theory
+VO 37
+SP 695
+OP 698
+IS 3
+
+RT Conference Proceedings
+ID 49909683
+A1 Kovacevic,J.
+A1 Vetterli,M.
+YR 1991
+T1 Nonseparable Multidimensional Perfect Reconstruction Filter Banks And Wavelet Bases For Rn
+
+RT Journal Article
+ID 2120049
+A1 Vetterli,M.
+YR 1991
+T1 Multirate Filter Banks for Subband Coding
+
+RT Conference Proceedings
+ID 386230
+A1 Thao,Nguyen,T.
+A1 Vetterli,Martin
+YR 1991
+T1 Oversampled A/D Conversion using Alternate Projections
+
+RT Journal Article
+ID 2782708
+A1 Rahda,H.
+A1 Leonardi,R.
+A1 Vetterli,M.
+A1 Naylor,B.,F.
+YR 1991
+T1 Binary space partitioning tree representation of images
+JF Journal of Visual Communication and Image Representation
+VO 2
+SP 201
+OP 221
+IS 3
+
+RT Journal Article
+ID 363942
+A1 Thao,Nguyen,T.
+A1 Vetterli,Martin
+YR 1991
+T1 Convex coders and oversampled A/D conversion: theory and algorithms
+
+RT Journal Article
+ID 3017389
+A1 Radha,H.,R.
+A1 Leonardi,R.
+A1 Vetterli,M.
+A1 Naylor,B.,F.
+YR 1991
+T1 Efficient Image Representation Using Binary Space Partitioning Trees
+
+RT Conference Proceedings
+ID 49914124
+A1 Radha,H.
+A1 Leonardi,R.
+A1 Vetterli,M.
+YR 1991
+T1 A multiresolution approach to binary tree representations of images
+SP 2653
+
+RT Journal Article
+ID 1614271
+A1 Anastassiou,D.
+A1 Vetterli,M.
+YR 1991
+T1 Television by the bit
+JF IEEE Circuits & Devices
+VO 7
+SP 17
+OP 21
+IS 1
+
+RT Journal Article
+ID 52541050
+A1 Radha,Hayder
+A1 Vetterli,Martin
+A1 Leonardi,Riccardo
+YR 1991
+T1 Fast piecewise-constant approximation of images
+VO 1605
+SP 475
+OP 486
+
+RT Conference Proceedings
+ID 49884541
+A1 Vetterli,Martin
+A1 Herley,C.
+YR 1990
+T1 Wavelets and filter banks: relationships and new results
+SP 1723
+
+RT Journal Article
+ID 26538870
+A1 Vetterli,Martin
+A1 Kovačević,Jelena
+A1 Legall,Didier,J.
+YR 1990
+T1 Perfect reconstruction filter banks for HDTV representation and coding
+JF Signal Processing-image Communication
+VO 2
+SP 349
+OP 363
+IS 3
+
+RT Journal Article
+ID 1254525
+A1 DUHAMEL,P.
+A1 VETTERLI,M.
+YR 1990
+T1 FAST FOURIER TRANSFORMS: A TUTORIAL REVIEW AND A STATE OF THE ART
+
+RT Journal Article
+ID 1583483
+A1 Karlsson,G.
+A1 Vetterli,M.
+YR 1990
+T1 Theory of two-dimensional multirate filter banks
+JF IEEE Transactions on Acoustics, Speech, and Signal Processing
+VO 38
+SP 925
+OP 937
+IS 6
+
+RT Conference Proceedings
+ID 49886251
+A1 Kovacevic,J.
+A1 Vetterli,Martin
+A1 Karlsson,Gunnar
+YR 1990
+T1 Design of multidimensional filter banks for non-separable sampling
+
+RT Journal Article
+ID 14493208
+A1 Duhamel,P.
+A1 Vetterli,M.
+YR 1990
+T1 Fast fourier transforms: A tutorial review and a state of the art
+JF Signal Processing
+VO 19
+SP 259
+OP 299
+IS 4
+
+RT Conference Proceedings
+ID 49886473
+A1 Uz,K.,M.
+A1 Vetterli,M.
+A1 LeGall,D.
+YR 1990
+T1 A multiresolution approach to motion estimation and interpolation with application to coding of digital HDTV
+
+RT Journal Article
+ID 2580655
+A1 Garrett,M.,W.
+A1 Vetterli,M.
+YR 1990
+T1 A joint source/channel model for real time services on ATM networks
+
+RT Journal Article
+ID 3291118
+A1 Vetterli,M.
+A1 Garrett,M.,W.
+YR 1990
+T1 Joint source/channel coding for real time packet services
+
+RT Journal Article
+ID 49883211
+A1 Vetterli,Martin
+A1 Anastassiou,Dimitris
+YR 1990
+T1 A multiresolution approach for all-digital HDTV
+JF Clinical Imaging
+
+RT Conference Proceedings
+ID 49894414
+A1 Hong,J.
+A1 Vetterli,M.
+YR 1990
+T1 Hartley Transforms over Finite Fields
+VO 1
+SP 103
+
+RT Journal Article
+ID 53836796
+A1 Radha,Hayder
+A1 Leonardi,Riccardo
+A1 Naylor,Bruce
+A1 Vetterli,Martin
+YR 1990
+T1 Image representation using binary space partitioning trees
+VO 1360
+SP 639
+OP 650
+
+RT Journal Article
+ID 1583413
+A1 Vetterli,M.
+A1 Gall,D.,Le
+YR 1989
+T1 Perfect reconstruction FIR filter banks: some properties and factorizations
+JF IEEE Transactions on Signal Processing
+
+RT Journal Article
+ID 1371998
+A1 Karlsson,G.
+A1 Vetterli,M.
+YR 1989
+T1 Packet video and its integration into the network architecture
+JF IEEE Journal on Selected Areas in Communications
+VO 7
+SP 739
+OP 751
+IS 5
+
+RT Journal Article
+ID 2395509
+A1 Karlsson,G.
+A1 Vetterli,M.
+YR 1989
+T1 Extension of finite length signals for sub-band coding
+JF Signal Processing
+VO 17
+SP 161
+OP 168
+IS 2
+
+RT Conference Proceedings
+ID 49870751
+A1 Kovacevic,Jelena
+A1 Gall,Didier,J.,Le
+A1 Vetterli,Martin
+YR 1989
+T1 Image coding with windowed modulated filter banks
+SP 1949
+
+RT Journal Article
+ID 51167139
+A1 Vetterli,M.
+A1 Duhamel,P.
+YR 1989
+T1 Split-radix algorithms for length-pm DFT's
+JF IEEE Transactions on Acoustics, Speech, and Signal Processing
+VO 37
+SP 57
+OP 64
+IS 1
+
+RT Conference Proceedings
+ID 49870528
+A1 VETTERLI,Martin
+A1 DUHAMEL,Pierre
+A1 GUILLEMOT,Christine
+YR 1989
+T1 Trade-off's in the computation of mono- and multi-dimensional DCT's
+SP 999
+
+RT Journal Article
+ID 1611258
+A1 VETTERLI,MARTIN
+YR 1989
+T1 Invertibility of linear periodically time-varying filters
+JF IEEE Transactions on Circuits and Systems
+VO 36
+SP 148
+OP 150
+IS 1
+
+RT Journal Article
+ID 1582863
+A1 Vetterli,M.
+A1 Duhamel,P.
+YR 1989
+T1 Split-radix algorithms for length-p/sup m/ DFT's
+JF IEEE Transactions on Acoustics, Speech, and Signal Processing
+VO 37
+SP 57
+OP 64
+IS 1
+
+RT Journal Article
+ID 27453113
+A1 Vetterli,M.
+A1 Gall,D.,Le
+YR 1989
+T1 Perfect reconstruction FIR filter banks: some properties and factorizations
+JF IEEE Transactions on Acoustics, Speech, and Signal Processing
+VO 37
+SP 1057
+OP 1071
+IS 7
+
+RT Journal Article
+ID 51388495
+A1 Kovacevic,Jelena
+A1 Vetterli,Martin
+YR 1989
+T1 Perfect reconstruction filter banks with rational sampling rates in one and two dimensions
+VO 1199
+SP 1258
+OP 1268
+
+RT Journal Article
+ID 14493092
+A1 Vetterli,M.
+YR 1989
+T1 Report on the second international workshop on packet videoSeptember 8–9, 1988, Turin, Italy
+JF Signal Processing
+VO 16
+SP 291
+OP 291
+IS 3
+
+RT Journal Article
+ID 2081164
+A1 Karlsson,G.
+A1 Vetterli,M.
+YR 1988
+T1 Sub±band coding of video for packet networks
+
+RT Conference Proceedings
+ID 1989970
+A1 Karlsson,G.
+A1 Vetterli,M.
+YR 1988
+T1 Three Dimensional Subband Coding of Video
+
+RT Conference Proceedings
+ID 2085257
+A1 Gilloire,Andre
+A1 Vetterli,Martin
+YR 1988
+T1 Adaptive filtering in sub-bands
+SP 1572
+
+RT Journal Article
+ID 1582843
+A1 Vetterli,M.
+YR 1988
+T1 Running FIR and IIR filtering using multirate filter banks
+JF IEEE Transactions on Signal Processing
+
+RT Conference Proceedings
+ID 49854760
+A1 Karlsson,G.
+A1 Vetterli,M.
+YR 1988
+T1 Three dimensional sub-band coding of video
+SP 1100
+
+RT Conference Proceedings
+ID 49851824
+A1 Vetterli,Martin
+A1 Gall,Didier,Le
+YR 1988
+T1 Perfect reconstruction FIR filter banks: lapped transforms, pseudo QMFs and paraunitary matrices
+
+RT Conference Proceedings
+ID 49854826
+A1 Vetterli,M.
+A1 Duhamel,P.
+YR 1988
+T1 Split-radix algorithms for length-pm DFTs
+SP 1415
+
+RT Journal Article
+ID 27453101
+A1 VETTERLI,MARTIN
+YR 1988
+T1 Running FIR and IIR filtering using multirate filter banks
+JF IEEE Transactions on Acoustics, Speech, and Signal Processing
+VO 36
+SP 730
+OP 738
+IS 5
+
+RT Journal Article
+ID 52786856
+A1 Hason,Baruh
+A1 Tzou,Kou-Hu
+A1 Lippman,Andrew,B.
+A1 Smith,Terrence,R.
+A1 Gaggioni,Hugo
+A1 Ohki,Jun-Ichi
+A1 Watanabe,Hiroshi
+A1 Peterfreund,N.
+A1 Mead,Carver,A.
+A1 Alspector,Joshua
+A1 Kollias,Stefanos,D.
+A1 Munro,Paul
+A1 Smith,Kurt
+A1 Allen,Charles,R.
+A1 Kobayashi,Kouji
+A1 Leonardi,Riccardo
+A1 Nakajima,Masayuki
+A1 Horne,E.
+A1 Spann,Michael
+A1 Franke,Uwe
+A1 Tomono,Akira
+A1 Green,I.,M.
+A1 Carlotto,Mark,J.
+A1 Yoshida,Yasuhiro
+A1 Kunt,Murat
+A1 Dianat,Soheil,A.
+A1 Sun,Huifang
+A1 Agui,Takeshi
+A1 Chang,Kuang-Yao
+A1 Leong,Kin,S.
+A1 Hsu,Hwei,P.
+A1 Zeevi,Yehoshua,Y.
+A1 Okullo-Oballa,T.,S.
+A1 Dellepiane,Silvana,G.
+A1 Giardina,Charles,R.
+A1 Gadjali,Hasan
+A1 Bruckstein,A.,M.
+A1 Seibert,Michael
+A1 Sakai,Kiyoshi
+A1 Biemond,Jan
+A1 Katsaggelos,Aggelos,K.
+A1 Ingle,Vinay,K.
+A1 Venetsanopoulos,Anastasios,N.
+A1 Pomalaza-Raez,Carlos,A.
+A1 Jung,G.,S.
+A1 Porat,Moshe
+A1 Astola,Jaakko,T.
+A1 Komarek,Thomas
+A1 Wu,Lance,T.
+A1 Baker,Richard,L.
+A1 Volkers,Hans
+A1 Boekee,Dick,E.
+A1 Hang,Hsueh-Ming
+A1 Ziff,Robert,D.
+A1 Jacquin,Arnaud,E.
+A1 Hartt,Keith,D.
+A1 Brechner,Eric
+A1 Mester,Rudolf
+A1 Vetterli,Martin
+A1 Haddad,Richard,A.
+A1 Feng,Yushu
+A1 Nasrabadi,Nasser,M.
+A1 Martin,Graham,R.
+A1 Eycken,Luc,van
+A1 Sewchand,Wilfred
+A1 Goldberg,Morris
+A1 Cobbs,Joseph,R.
+A1 Manolakis,Dimitris,G.
+A1 Ebenstein,David,B.
+A1 Stokely,Ernest,M.
+A1 Booth,Roy
+A1 Plesch,Andreas,M.
+A1 Vlontzos,John,A.
+A1 Malowany,Alfred,S.
+A1 Steenaart,Willem
+A1 Artieri,A.
+A1 Baker,Nick,C.
+A1 Bryson,Phil,R.
+A1 Tziritas,Georgios,G.
+A1 Park,Rae-Hong
+A1 Pinnoo,Luc
+A1 Othmer,Joseph,H.
+A1 Hayashi,Yasuhito
+A1 Lee,Wonrae,M.
+A1 Karlsson,Gunnar
+A1 Tenhunen,H.
+A1 Collet,Christian
+A1 Tada,Shunkichi
+A1 Jeng,Bor-Shenn
+A1 Lin,Wen-Tai
+A1 Springer,Robert
+A1 Liu,Bede
+A1 Goldstein,Robert,B.
+A1 Abidi,Mongi,A.
+A1 Roeder,Barbara,J.
+A1 Fleischer,Paul,E.
+A1 Legall,Didier,J.
+A1 Suzuki,Yutaka
+A1 Shlomot,Egal
+A1 Faggin,Federico
+A1 Huang,Paul,C.
+A1 Roysam,Badrinath
+A1 Nagata,Hiroshi
+A1 Gersho,Allen
+A1 Kobayashi,Yukio
+A1 Gisler,Maurice
+A1 Sundaramoorthy,Gopal
+A1 Zhang,Jin,Y.
+A1 Singh,Harcharan
+A1 Manikopoulos,Constantine,N.
+A1 Regazzoni,Carlo,S.
+A1 Cunningham,Robert,K.
+A1 Hosokawa,Takahiro
+A1 Wang,Xiao-Hua
+A1 Kim,Seo,Kyu
+A1 Neuvo,Yrjo,A.
+A1 Chong,Hyonil
+A1 Driessen,Johannes,N.
+A1 Geurtz,Alexander,M.
+A1 Marineau,Peter
+A1 Kovacevic,Jelena
+A1 Oosterlinck,Andre,J.
+A1 Moser,Allan,R.
+A1 Beresford,R.
+A1 Corbett,James,R.
+A1 Sheblee,Jaafar,S.
+A1 Rappl,Wolfgang
+A1 Kung,Sun-Yuan
+A1 Concordel,Gilles
+A1 Berry,Kyle,R.
+A1 Voeten,Bart
+A1 Kishino,Fumio
+A1 Korpiharju,T.
+A1 Haule,Damian,D.
+A1 Miyahara,Sueharu
+A1 Jou,I.-Chang
+A1 Gribble,Glen
+A1 Hsing,T.,Russell
+A1 Minami,Toshi
+A1 Bowen,E.,G.
+A1 Serpico,Sebastiano,B.
+A1 Wu,Jian
+A1 Matsuda,Kiichi
+A1 Lee,Chang-Bum
+A1 Sun,Ming-Ting
+A1 Welsh,A.
+A1 Staniskis,Witold
+A1 Wutz,Hans
+A1 Demassieux,Nicolas
+A1 Klapp,Spencer,R.
+A1 Tomberg,J.
+A1 Ting,Pei-Yih
+A1 Brainard,Ralph,C.
+A1 Vernazza,Gianni,L.
+A1 Kim,Sang-Jung
+A1 Leeperr,John,E.
+A1 Haskell,Barry,G.
+A1 Redinbo,G.,R.
+YR 1988
+T1 Mutual information of images: a new approach to pyramidal image analysis
+VO 1001
+
+RT Journal Article
+ID 1583617
+A1 VETTERLI,MARTIN
+YR 1987
+T1 A theory of multirate filter banks
+JF IEEE Transactions on Acoustics, Speech, and Signal Processing
+VO 35
+SP 356
+OP 372
+IS 3
+
+RT Journal Article
+ID 1584648
+A1 Duhamel,P.
+A1 Vetterli,M.
+YR 1987
+T1 Improved Fourier and Hartley transform algorithms: Application to cyclic convolution of real data
+JF IEEE Transactions on Acoustics, Speech, and Signal Processing
+VO 35
+SP 818
+OP 824
+IS 6
+
+RT Journal Article
+ID 1612210
+A1 WIDROW,BERNARD
+A1 BAUDRENGHIEN,PHILIPPE
+A1 VETTERLI,MARTIN
+A1 TITCHENER,PAUL,F.
+YR 1987
+T1 Fundamental relations between the LMS algorithm and the DFT
+JF IEEE Transactions on Circuits and Systems
+VO 34
+SP 814
+OP 820
+IS 7
+
+RT Journal Article
+ID 1604871
+A1 Vetterli,M.
+A1 Biglieri,E.
+A1 McCorkle,J.
+A1 Jones,W.
+YR 1987
+T1 Meeting reports
+JF IEEE Communications Magazine
+VO 25
+SP 74
+OP 75
+IS 10
+
+RT Conference Proceedings
+ID 49845376
+A1 KASSAPOGLOU,Korina
+A1 VETTERLI,Martin
+YR 1987
+T1 Computer aided implementation of complex algorithms on DSP's using automatic scaling
+
+RT Journal Article
+ID 14492927
+A1 Vetterli,M
+YR 1987
+T1 VLSI and modern signal processing edited by S.Y. Kung, H.J. Whitehouse and T. Kailath, in: Information and System Sciences Series, published by: Prentice-Hall, Inc., Englewood Cliffs, NJ 07632, U.S.A., 1985, xiii+481 pp., ISBN 0-13-942699-X
+JF Signal Processing
+VO 12
+SP 411
+OP 412
+IS 4
+
+RT Journal Article
+ID 14492976
+A1 Vetterli,Martin
+YR 1987
+T1 First international packet video workshopMay 1, 1987, New York, U.S.A
+JF Signal Processing
+VO 13
+SP 419
+OP 419
+IS 4
+
+RT Journal Article
+ID 55162826
+A1 Karlsson,G.
+A1 Vetterli,M.
+YR 1987
+T1 Subband coding of video signals for packet-switched networks
+VO 845
+SP 446
+
+RT Journal Article
+ID 2127406
+A1 Vetterli,M.
+YR 1986
+T1 Filter banks allowing perfect reconstruction
+
+RT Journal Article
+ID 1587822
+A1 Vetterli,M.
+A1 LIGTENBERG,ADRIAAN
+YR 1986
+T1 A Discrete Fourier-Cosine Transform Chip
+JF IEEE Journal on Selected Areas in Communications
+VO 4
+SP 49
+OP 61
+IS 1
+
+RT Conference Proceedings
+ID 49840833
+A1 Vetterli,M.
+YR 1986
+T1 Perfect transmultiplexers
+
+RT Journal Article
+ID 14492819
+A1 Vetterli,Martin
+YR 1986
+T1 Filter banks allowing perfect reconstruction
+JF Signal Processing
+VO 10
+SP 219
+OP 244
+IS 3
+
+RT Conference Proceedings
+ID 49840633
+A1 Duhamel,P.
+A1 Vetterli,M.
+YR 1986
+T1 Cyclic convolution of real sequences: Hartley versus Fourier and new schemes
+
+RT Journal Article
+ID 10987602
+A1 LIGTENBERG,A.
+A1 O'NEILL,J.,H.
+A1 VETTERLI,M.
+YR 1986
+T1 Moval: A framework for turning digital signal processing algorithms into custom chips
+JF Signal Processing
+VO 11
+SP 119
+OP 132
+IS 2
+
+RT Journal Article
+ID 14492856
+A1 Vetterli,Martin
+YR 1986
+T1 Multidimensional sub-band coding: Some theory and algorithmsSignal Processing Vol. 6, No. 2, April 1984, pp. 97–112
+JF Signal Processing
+VO 11
+SP 191
+OP 191
+IS 2
+
+RT Journal Article
+ID 14492868
+A1 Vetterli,Martin
+YR 1986
+T1 Analysis, synthesis and computational complexity of digital filter banks☆(Original French title: “Analyse, synthèse et complexité de calcul de bancs de filtres numériques”)
+JF Signal Processing
+VO 11
+SP 312
+OP 312
+IS 3
+
+RT Conference Proceedings
+ID 6850237
+A1 VETTERLI,MARTIN
+A1 Bellerive,Chemin,de
+YR 1985
+T1 Fast 2-D discrete cosine transform
+
+RT Journal Article
+ID 48304383
+A1 Vetterli,Martin
+A1 Nussbaumer,Henri,J.
+YR 1985
+T1 Algorithmes de transformations de Fourier et en cosinus mono et bidimensionnels
+JF Annales Des Télécommunications
+VO 40
+SP 466
+OP 476
+IS 9
+
+RT Journal Article
+ID 2127553
+A1 Vetterli,Martin
+YR 1984
+T1 Multidimensional sub-band coding: Some theory and algorithms
+VO 6
+SP 97
+OP 112
+IS 2
+
+RT Journal Article
+ID 2013697
+A1 Vetterli,Martin
+A1 Nussbaumer,Henri,J.
+YR 1984
+T1 Simple FFT and DCT algorithms with reduced number of operations
+JF Signal Processing
+VO 6
+SP 267
+OP 278
+IS 4
+
+RT Conference Proceedings
+ID 49832460
+A1 Nussbaumer,H.
+A1 Vetterli,M.
+YR 1984
+T1 Computationally efficient QMF filter banks
+
+RT Journal Article
+ID 14492598
+A1 Vetterli,M
+YR 1983
+T1 Tree structures for orthogonal transforms and application to the Hadamard transform
+JF Signal Processing
+VO 5
+SP 473
+OP 484
+IS 6
+
+RT Journal Article
+ID 4995692
+A1 Schmid,Thomas
+A1 Dubois-Ferri,Henri
+A1 Vetterli,Martin
+T1 SensorScope: Experiences with a Wireless Building Monitoring Sensor Network
+
+RT Journal Article
+ID 2966890
+A1 Velisavljevic,Vladan
+A1 Beferull-Lozano,Baltasar
+A1 Vetterli,Martin
+A1 Dragotti,Pier,Luigi
+T1 DIRECTIONLETS: ANISOTROPIC MULTI-DIRECTIONAL REPRESENTATION WITH SEPARABLE FILTERING
+JF IEEE Transactions on Image Processing
+
+RT Journal Article
+ID 4563391
+A1 Dubois-Ferriere,Henri
+A1 Grossglauser,Matthias
+A1 Vetterli,Martin
+T1 Least-Cost Opportunistic Routing
+
+RT Journal Article
+ID 5752204
+A1 Cvetkovic,Zoran
+A1 Vetterli,Martin
+T1 Tight Weyl-Heisenberg Frames in
+JF IEEE Transactions on Signal Processing
+
+RT Journal Article
+ID 6112591
+A1 Maravic,Irena
+A1 Vetterli,Martin
+T1 LOW-COMPLEXITY SUBSPACE METHODS FOR CHANNEL ESTIMATION AND SYNCHRONIZATION IN ULTRA-WIDEBAND SYSTEMS
+
+RT Journal Article
+ID 5670789
+A1 Barrenechea,Guillermo
+A1 Beferull-Lozano,Baltasar
+A1 Verma,Abhishek
+A1 Dragotti,Pier,Luigi
+A1 Vetterli,Martin
+T1 MULTIPLE DESCRIPTION SOURCE CODING AND DIVERSITY ROUTING: A JOINT SOURCE CHANNEL CODING APPROACH TO REAL-TIME SERVICES OVER DENSE NETWORKS
+
+RT Book, Whole
+ID 121981
+A1 Do,Minh,N.
+A1 Ayer,Serge
+A1 Vetterli,Martin
+T1 Invariant Image Retrieval Using Wavelet Maxima Moment
+
+RT Journal Article
+ID 5466054
+A1 Blu,Thierry
+A1 Dragotti,Pier-luigi
+A1 Vetterli,Martin
+A1 Marziliano,Pina
+A1 Coulot,Lionel
+T1 Sparse Sampling of Signal Innovations: Theory Algorithms and Performance Bounds
+
+RT Book, Whole
+ID 48446377
+A1 Goyal,Vivek,K
+A1 Vetterli,Martin
+A1 Thao,Nguyen,T.
+T1 Efficient representations with quantized matching pursuit
+
+RT Conference Proceedings
+ID 10292540
+A1 Velisavljevi,Vladan
+A1 Beferull-Lozano,Baltasar
+A1 Vetterli,Martin
+A1 Dragotti,Pier,Luigi
+T1 DISCRETE MULTI-DIRECTIONAL WAVELET BASES
+
+RT Journal Article
+ID 10226626
+A1 Vandewalle,Patrick
+A1 Sbaiz,Luciano
+A1 Süsstrunk,Sabine
+A1 Vetterli,Martin
+T1 Super-Resolution from Unregistered Aliased Images
+
+RT Journal Article
+ID 5861791
+A1 Ajdler,Thibaut
+A1 Faller,Christof
+A1 Sbaiz,Luciano
+A1 Vetterli,Martin
+T1 Sound Field Analysis Along a Circle and its Applications to HRTFs Interpolation
+
+RT Journal Article
+ID 4891739
+A1 Walker,R.
+A1 Vetterli,M.
+T1 FEDERATING GRIDS: LCG MEETS CANADIAN HEPGRID
+
+RT Conference Proceedings
+ID 10378966
+A1 Shukla,Rahul
+A1 Radha,Hayder
+A1 Vetterli,Martin
+T1 DISPARITY DEPENDENT SEGMENTATION BASED STEREO IMAGE CODING
+
+RT Journal Article
+ID 4972095
+A1 Sbaiz,Luciano
+A1 Vetterli,Martin
+T1 Acoustic tomography for estimating temperature and wind flow
+
+RT Journal Article
+ID 2319802
+A1 Dragotti,Pier,Luigi
+A1 Velisavljevic,Vladan
+A1 Vetterli,Martin
+A1 Beferull-Lozano,Baltasar
+T1 Discrete directional wavelet bases and frames for image compression and denoising
+
+RT Journal Article
+ID 3173413
+A1 Donoho,D.
+A1 Vetterli,M.
+A1 M,R.,Devore
+A1 Daubechies,I.
+T1 Harmonic analysis and signal processing
+JF IEEE Transactions on Information Theory
+
+RT Conference Proceedings
+ID 7023445
+A1 Velisavljevi,Vladan
+A1 Dragotti,Pier,Luigi
+A1 Vetterli,Martin
+T1 DIRECTIONAL WAVELET TRANSFORMS AND FRAMES
+
+RT Book, Whole
+ID 48846408
+A1 Vetterli,Martin
+A1 Uzf,Kamil,Metin
+T1 Multiresolution Coding Techniques for Digital Television: A Review
+
+RT Journal Article
+ID 3765592
+A1 Balmelli,Laurent
+A1 Kovacevic,Jelena
+A1 Vetterli,Martin
+T1 Solving the Coplanarity Problem of Regular Embedded Triangulations
+
+RT Journal Article
+ID 5669465
+A1 Ajdler,Thibaut
+A1 Kozintsev,Igor
+A1 Lienhart,Rainer
+A1 Vetterli,Martin
+T1 ACOUSTIC SOURCE LOCALIZATION IN DISTRIBUTED SENSOR NETWOR KS
+
+RT Journal Article
+ID 10880304
+A1 Vandewalle,Patrick
+A1 Sbaiz,Luciano
+A1 Vandewalle,Joos
+A1 Vetterli,Martin
+T1 Aliasing is Good for You: Joint Registration and Reconstruction for Super-Resolution
+
+RT Journal Article
+ID 165249
+A1 Marziliano,Pina
+A1 Vetterli,Martin
+T1 IRREGULAR SAMPLING IN APPROXIMATION SUBSPACES
+
+RT Journal Article
+ID 13559959
+A1 Kolundÿzija,Mihailo
+A1 Faller,Christof
+A1 Vetterli,Martin
+T1 Sound Field Reconstruction: An Improved Approach For Wave Field Synthesis
+
+RT Journal Article
+ID 11663207
+A1 Jovanovic,I.
+A1 Sbaiz,L.
+A1 Vetterli,M.
+T1 ACOUSTIC TOMOGRAPHY METHOD FOR MEASURING TEMPERATURE AND WIND FLOW
+
+RT Journal Article
+ID 14218215
+A1 Kolundÿzija,Mihailo
+A1 Faller,Christof
+A1 Vetterli,Martin
+T1 Designing Practical Filters For Sound Field Reconstruction
+
+RT Journal Article
+ID 12910304
+A1 Roy,Olivier
+A1 Vetterli,Martin
+T1 Collaborating Hearing Aids
+
+RT Book, Whole
+ID 48333252
+A1 Uz,K.,Metin
+A1 Vetterli,Martin
+A1 LeGall,Didier,J.
+T1 Interpolative Multiresolution Coding of Advanced TV with Subchannels
+
+RT Journal Article
+ID 10376865
+A1 Shukla,Rahul
+A1 Dragotti,Pier,Luigi
+A1 Do,Minh,N.
+A1 Vetterliyx,Martin
+T1 Rate-Distortion Optimized Tree Structured Compression Algorithms for Piecewise Polynomial Images
+
+RT Journal Article
+ID 13535447
+A1 Kolundÿzija,Mihailo
+A1 Faller,Christof
+A1 Vetterli,Martin
+T1 Spatio-Temporal Gradient Analysis of Differential Microphone Arrays
+
+RT Journal Article
+ID 4977456
+A1 Roy,Olivier
+A1 Vetterli,Martin
+T1 THE EFFECTIVE RANK: A MEASURE OF EFFECTIVE DIMENSIONALITY
+
+RT Journal Article
+ID 12815914
+A1 Shukla,Rahul
+A1 Vetterliyx,Martin
+T1 GEOMETRICAL IMAGE DENOISING USING QUADTREE SEGMENTATION
+
+RT Journal Article
+ID 10194597
+A1 Vetterli,Martin
+A1 Ajdler,T.
+A1 Chebira,A.
+A1 Cristescu,R.
+A1 Dragotti,P.,L.
+A1 Gastpar,M.
+A1 Maravic,I.
+T1 Distributed Signal Processing and Communications: On the Interaction of Source and Channel Coding
+
+RT Journal Article
+ID 13002839
+A1 Shukla,Rahul
+A1 Dragotti,Pier,Luigi
+A1 Do,Minh,N.
+A1 Vetterli,Martin
+T1 Rate-Distortion Optimized Tree-Structured Compression Algorithms for Piecewise
+
+RT Journal Article
+ID 13023935
+A1 Grossglauser,Matthias
+A1 Vetterli,Martin
+T1 in Ad Hoc Networks through Mobility Diffusion
+
+RT Book, Whole
+ID 48846318
+A1 Noukakis,Dimitrios
+A1 Ricci,Jean-François
+A1 Vetterli,Martin
+T1 Riding The Globalization Wave: Epfl’s Strategy and Achievements
+
+RT Journal Article
+ID 5752473
+A1 Ridolfi,Andrea
+A1 Maravi,Irena
+A1 Kusuma,Julius
+A1 Vetterli,Martin
+T1 A BERNOULLI-GAUSSIAN APPROACH TO THE RECONSTRUCTION OF NOISY SIGNALS WITH FINITE RATE OF INNOVATION
+
+RT Journal Article
+ID 11003756
+A1 Tosi,Ivana
+A1 Jovanovic,Ivana
+A1 Frossard,Pascal
+A1 Vetterli,Martin
+A1 Duric,Neb
+T1 ULTRASOUND TOMOGRAPHY IMAGE RECONSTRUCTION WITH LEARNED DICTIONARIES
+
+RT Journal Article
+ID 12985713
+A1 VETTERLI,MARTIN
+A1 Bellerive,Chemin,de
+T1 Abstract
+
+RT Journal Article
+ID 10023716
+A1 Nadeau,Daniel,F.
+A1 Bou-Zeid,E.
+A1 Parlange,M.,B.
+A1 Barrenetxea,G.
+A1 Vetterli,M.
+T1 9A.2 DETERMINATION OF THERMAL ROUGHNESS LENGTH FOR BUILT ENVIRONMENT WITH HIGH RESOLUTION WIRELESS METEOROLOGICAL STATIONS
+
+RT Journal Article
+ID 49574953
+A1 Vetterli,M.
+A1 Tavangar,R.
+A1 Weber,L.
+A1 Kelly,A.
+T1 Influence of the elastic properties of the phases on the coefficient of thermal expansion of a metal matrix composite
+JF Scripta Materialia
+
+RT Journal Article
+ID 12651339
+A1 Vetterli,Martin
+A1 Marziliano,Pina
+A1 Blu,Thierry
+T1 A SAMPLING THEOREM FOR PERIODIC PIECEWISE POLYNOMIAL SIGNAL S
+
+RT Journal Article
+ID 12421268
+A1 Vandewalle,P.
+A1 Barrenetxea,G.
+A1 Jovanovic,I.
+A1 Ridolfi,A.
+A1 Vetterli,M.
+T1 Experiences with Reproducible Research in Experiences with Reproducible Research in Various Facets of Signal Processing Research Various Facets of Signal Processing Research
+
+RT Journal Article
+ID 5212278
+A1 Hormati,Ali
+A1 Roy,Olivier
+A1 Lu,Yue,M.
+A1 Vetterli,Martin
+T1 Distributed Sensing of Signals Under a Sparse Filtering Model
+
+RT Journal Article
+ID 5636713
+A1 ´,Vladan,Velisavljevi
+A1 Beferull-Lozano,Baltasar
+A1 Vetterli,Martin
+T1 EFFICIENT ZEROTREE-BASED IMAGE COMPRESSION WITH DIRECTIONLETS
+
+RT Journal Article
+ID 12336725
+A1 Gastpar,Michael
+A1 Vetterli,Martin
+T1 On The Capacity Of Large Wireless Relay Networks
+
+RT Journal Article
+ID 6926292
+A1 Yang,Feng
+A1 Sbaiz,Luciano
+A1 Charbon,Edoardo
+A1 Vetterli,Martin
+T1 Image Reconstruction in the Gigavision Camera
+
+RT Journal Article
+ID 12894001
+A1 Vandewalle,Patrick
+A1 S,Sabine
+A1 Vetterli,Martin
+T1 Registration of aliased images for super-resolution imaging
+
+RT Journal Article
+ID 11357378
+A1 Maravi,Irena
+A1 Vetterliyz,Martin
+T1 LOW-COMPLEXITY SUBSPACE METHODS FOR CHANNEL ESTIMATION AND SYNCHRONIZATION IN ULTRA-WIDEBAND SYSTEMS
+
+RT Journal Article
+ID 12889849
+A1 Ajdler,Thibaut
+A1 Sbaiz,Luciano
+A1 Vetterli,Martin
+T1 Spatio-Temporal Channels From the Wave Equation Have Butterfly Spectra
+
+RT Journal Article
+ID 13054152
+A1 Ajdler,Thibaut
+A1 Sbaiz,Luciano
+A1 Vetterli,Martin
+T1 Convention Paper
+
+RT Journal Article
+ID 7012412
+A1 Chebira,Amina
+A1 Fickus,Matthew
+A1 Vetterli,Martin
+T1 FRAME DOMAIN SIGNAL PROCESSING: FRAMEWORK AND APPLICATION S
+
+RT Journal Article
+ID 13165121
+A1 Ingelrest,François
+A1 Barrenetxea,Guillermo
+A1 Vetterli,Martin
+T1 SensorScope, un système clef en main de surveillance de l'environnement
+
+RT Journal Article
+ID 13039291
+A1 Vetterli,M.
+A1 Pecenovic,Z.
+T1 "Frame reconstruction of the Laplacian pyramid," to appear in Proc. of IEEE International Conference on Acoustics, Speech, and Signal Processing , Salt Lake City, 2001. (8)
+
+RT Journal Article
+ID 13060810
+A1 Dragotti,Pier,Luigi
+A1 Vetterli,Martin
+T1 Applications
+
+RT Journal Article
+ID 5823189
+A1 Prandoni,Paolo
+A1 Vetterli,Martin
+T1 From Lagrange to Shannon. . . and Back
+
+RT Journal Article
+ID 415452
+A1 Balmelli,L.
+A1 Vetterli,M.
+T1 Progressive Meshes in an Operational Rate-Distortion Sense with Application to Terrain Data
+
+RT Journal Article
+ID 2350289
+A1 Vandewalle,Patrick
+A1 Vetterli,Martin
+T1 A Frequency Domain Approach to Super-Resolution Imaging from Aliased Low Resolution Images
+
+RT Journal Article
+ID 5924492
+A1 Hormati,Ali
+A1 Vetterli,Martin
+T1 DISTRIBUTED COMPRESSED SENSING: SPARSITY MODELS AND RECON STRUCTION ALGORITHMS USING ANNIHILATING FILTER
+
+RT Journal Article
+ID 12798796
+A1 Vetterli,Martin
+T1 Joint Source-Channel Coding on Graphs and Applications in Sensor Networks
+
+RT Journal Article
+ID 13006128
+A1 Vetterli,Martin.
+T1 the LP , this ef fect is a v oided
+
+RT Journal Article
+ID 13014610
+A1 Vetterli,Martin.
+T1 CONTINUOUS RIDGELET TRANSFORM W e start
+
+RT Journal Article
+ID 13053519
+A1 Vetterli,Martin.
+T1 ICIP2000. ABSTRA CT The
+
+RT Journal Article
+ID 13559310
+A1 Vetterli,Martin
+T1 MobiHoc Poster: Power Efficient Gathering of Correlated Data: Optimization, NP-Completeness and Heuristics
