@@ -1,0 +1,676 @@
+1. A. K. Jain, U. Park and H. C. Choi, “Apparatus and method for monitoring”, Korean Patent No. 10-1170269,July25,2012. 
+2. A. K. Jain, U. Park and H. C. Choi, “Apparatus and method for monitoring using beam splitter”,KoreanPatentNo. 10-1150563,May 21,2012. 
+3. A.K.Jain,L.Hong,R.BolleandS.Pankanti,“SystemandMethodforDeriving astring-based representation of a fingerprint image”, U.S. Patent No. 6,487,306, Nov. 26, 2002. 
+4. A.K. Jain, L. Hong, R. Bolle and S. Pankanti,“Determining A Point Correspondence Between TwoPoints inTwoRespective(Fingerprint) Images”,U.S.PatentNo. 6,049,621,April11, 2000. 
+5. A.K.Jain,L.Hong,R.BolleandS.Pankanti,“SystemandMethodforMatching(Fingerprint) Images Using an Aligned String-Based Representation”, U.S. Patent No. 6,185,318, Feb. 6, 2001. 
+6. A.K.Jain,L.Hong,R.BolleandS.Pankanti,“SystemandMethodForIdentifyingForeground And Background Portions Of Digitized Images”, U.S. Patent No. 6,263,091, July 17, 2001. 
+7. A.K. Jain, L. Hong, R. Bolle and S. Pankanti,“System and Method for Determining Block Direction in Fingerprint Images”, U.S. Patent No. 6,289112 Sept. 11, 2001. 
+8. A.K.Jain,L.Hong,R.BolleandS.Pankanti,“DeterminingAnAlignmentEstimationBetween Two(Fingerprint) Images”,U.S.PatentNo. 6,314,197,Nov. 6,2001.
+1. S.Z.Li andA.K.Jain(eds.), Handbook of Face Recognition, Second Edition, Springer, 2011. 
+2. A. K. Jain, A. Ross and K. Nandakumar, Introduction to Biometrics, Springer, 2011. 
+3. A.K.Jain,A.Ross andP.J.Flynn(eds.), Handbook of Biometrics, Springer, 2007. 
+4. A. Ross, K. Nandakumar and A. K. Jain, Handbook of Multibiometrics, Springer, 2006. 
+5. S.Z.Li andA.K.Jain(eds.), Handbook of Face Recognition, Springer, 2005. 
+6. J.L.Wayman,A.K.Jain,D.Maltoni andD.Maio(eds.), Biometric Systems: Technology, Design and Performance Evaluation, Springer, 2005. 
+7. D. Maltoni, D. Maio, A. K. Jain and S. Prabhakar, Handbook of Fingerprint Recognition, Springer-Verlag, 2003; Second edition, 2009. 
+8. A.K.Jain,S.Pankanti andR.Bolle(eds.), BIOMETRICS: Personal Identification in Net-worked Society, Kluwer, 1999.
+9. A.K.Jain andP.J.Flynn(eds.), 3D Object Recognition Systems, Elsevier, 1993. 
+10. R.Chellappa andA.K.Jain(eds.), Markov Random Fields: Theory and Applications, Academic Press, 1993. 
+11. I. Sethi and A. K. Jain (eds.), Neural Networks and Statistical Pattern Recognition, North Holland, 1991. 
+12. R.Jain andA.K.Jain(eds.), Analysis and Interpretation of Range Images, Springer Verlag, 1990. 
+13. A. K. Jain and R. C. Dubes, Algorithms for Clustering Data, Prentice Hall, 1988. One of the top-100 all-time cited publication in Computer Science according to CiteSeer 
+1. B.Gunsel,A.K.Jain,A.M.Tekalp andB.Sankur(eds.), Proc. International Workshop on Multimedia, Content Representation, Classification and Security, Springer, LNCS 4105, 2006 
+2. D.ZhangandA.K.Jain(eds.), Proc. InternationalConferenceonBiometrics(ICB),Springer, LNCS 3832, 2006 
+3. T.Kanade,A.K.Jain andN.Ratha(eds.), Proc. Audio-Video-Based Biometric Person Au-thentication(AVBPA), Springer, LNCS 3546, 2005 
+4. A.K.JainandN.K.Ratha(eds.), Proc. SPIE, Biometric Technology for Human Identification II, Vol. 5779, 2005 
+5. D.Maltoni andA.K.Jain(eds.),BiometricAuthentication, Proc. ECCV 2004 International Workshop(BioAW), Springer, LNCS 3087, 2004 
+6. D.ZhangandA.K.Jain(eds.), Proc. First International Conference Biometric Authentication (ICBA), Springer, LNCS 3072, 2004 
+7. A.K.JainandN.K.Ratha(eds.), Proc. SPIE, Biometric Technology for Human Identification I, Vol. 5404, 2004 
+8. M.Figueiredo,J.Zerubia andA.K.Jain(eds.), Energy minimization Methods in Computer Vision and Pattern Recognition, Springer-Verlag, LNCS 2134, 2001 
+9. A.K.Jain(ed.), Real Time Object Measurement and Classification, Springer Verlag, 1988 
+1. A. K. Jain, K. Nandakumar and A. Nagar, “Fingerprint Template Protection: From Theory toPractice”, inPrivacy andSecurity inBiometrics(P.Campisi,Ed.),Springer,2012. 
+2. A. K. Jain and A. Kumar, “Biometrics of Next Generation: An Overview”, in Second GenerationBiometrics(E.Mordini andD.Tzovaras,Eds.),Springer,2012. 
+3. T. Lange, M. Law, A. K. Jain and M. Buhmann, “Clustering with Constraints: A Mean-field ApproximationPerspective”, inConstrainedClustering,S.Basu,I.Davison andK.L.Wagstaff (eds.), CRC Press, 2008. 
+4. A. Ross and A. K. Jain, “Fusion Techniques in Multibiometric Systems”, in Face Biometrics for Personal Identification,R.I.Hammound,B.R.Abidi andM.A.Abidi(eds.),Springer, 2007. 
+5. A. K. Jain and U. Uludag, “Biometrics and Digital Rights Management”, in Multimedia Security Technologies for Digital Rights Management, Wenjun Zeng, Heather Yu, Ching-Yung Lin (eds), pp. 197-218, Academic Press, 2006.
+6. A.K.Jain,K.Nandakumar,U.Uludag andX.Lu, “MultimodalBiometrics:AugmentingFace With Other Cues”, in Face Processing: Advanced Modeling and Methods, W. Zhao and R. Chellappa(eds.),pp. 679-705,AcademicPress,2005. 
+7. A. Ross and A. K. Jain, “Multimodal Human Recognition Systems”, in Multi-Sensor Image Fusion and Its Application. R.S.Blum andZ.Liu(eds.),Taylor&Francis,2005. 
+8. A.K.JainandA.Ross, “Biometrics”,in the Encyclopedia of Cryptography and Security, Henk C.A. vanTilborg(ed.),Springer,2005. 
+9. A.K.JainandR.P.W.Duin, “PatternRecognition”,in Oxford Mind Encyclopedia, R.Gregory (ed.), Oxford UniversityPress, 2004. 
+10. S.PrabhakarandA.K.Jain, “FingerprintMatching”,in Advances in Fingerprint Recognition. N.Ratha andR.Bolle(eds.),Springer,2003. 
+11. A.K. Jain, “Biometrics”, Microsoft Encarta, on-line edition, 2001. 
+12. A.K. Jain and S. Pankanti, “Automatic Fingerprint Identification Systems”, in Advances in Fingerprint Sciences,R.E.Gaensslen andH.Lee(eds.),pp. 275-326,CRCPress,2001. 
+13. A.K. Jain and S. Pankanti, “Fingerprint Matching and Classification”, in Handbook of Image Processing,A.Bovik(ed.),pp. 821-835,AcademicPress,2000. 
+14. M. Figueiredo, J. Leitao and A.K. Jain, “On Fitting Mixture Models”, in Energy Minimization Methods in Computer Vision and Pattern Recognition, eds. E. Hancock and M. Pellillo, Springer-Verlag, 1999. 
+15. A.K. Jain and P. Flynn, “Image Segmentation Using Clustering”, in Advances in Image Understanding,K.Bowyer andN.Ahuja(eds.),IEEEComputerSociety Press,pp. 65-83,1996. 
+16. N.Ratha,A.K.JainandD.Rover,“FingerprintMatching onSplash2” inSplash2:FPGAsin aCustomComputingMachine,D.Buell,J.Arnold andW.Kleinfolder(eds.), IEEEComputer Society Press,pp. 117-140,1996. 
+17. A.K. Jain and J. Mao, “Neural Networks and Pattern Recognition”, in Computational Intelligence for Imitating Life,J.M.Zurada,R.J.Marks andC.J.Robinson(eds.),IEEEPress,pp. 194-212, 1994. 
+18. P. Flynn and A.K. Jain, “Three Dimensional Object Recognition”, in Handbook of Pattern Recognition and Image Processing,T.Y.Young(ed.),AcademicPress,1994,pp. 498-541. 
+19. M. Tuceryan and A.K. Jain, “Texture Analysis”, in Handbook of Pattern Recognition and Computer Vision, C.H. Chen, et al. (eds.), World Scientific Publishing Co., 1993, pp. 235276. 
+20. A.K. Jain and S. Nadabar, “Markov Random Field Applications in Image Analysis”, in Data Analysis in Astronomy IV,DiGesu et al.(eds.),PlenumPress,1992,pp. 39-50. 
+21. A.K. Jain, “Bootstrap Techniques in Statistical Pattern Recognition”, in Systems and Signal Processing,R.N.Madan et al.(eds.),Oxford andIBHPublishingCo.,1991,pp. 525-534. 
+22. S. Raudys and A.K. Jain, “Small Sample Size Problems in Designing Artificial Neural Networks”, in Neural Networks and Statistical Pattern Recognition,I.Sethi andA.K.Jain(eds.), NorthHolland,1991,pp. 33-50. 
+23. S. Nadabar and A.K. Jain, “Range Image Segmentation Using MRF Models”, in Markov Random Fields: Theory and Applications, R.Chellappa andA.K.Jain(eds.), AcademicPress, 1993,pp. 543-572. 
+24. A.K.JainandM.D.Ramaswami, “ClassifierDesignwithParzenWindows”,in Pattern Recognition and Artificial Intelligence,E.S.Gelsema andL.N.Kanal(eds.),NorthHolland,1988, pp. 211-228. 
+25. A.K. Jain, “Pattern Recognition”, in Encyclopedia of Robotics, R.C. Dorf(ed.), Wiley, 1988, pp. 1052-1063. 
+26. A.K. Jain, “Advances in Statistical Pattern Recognition”, in Pattern Recognition Theory and Applications,P.A.Devijver andJ.Kittler(eds.),SpringerVerlag,1987,pp. 1-19. 
+27. A.K. Jain and J.V. Moreau, “The Bootstrap Approach to Clustering”, in Pattern Recognition Theory and Applications,P.A.DevijverandJ.Kittler(eds.),SpringerVerlag,1987,pp. 63-71. 
+28. A.K.Jain, “ClusterAnalysis”, in Handbook of Pattern Recognition and Image Processing, T.Y. Young andK.S.Fu(eds.),AcademicPress,1987,pp. 35-57. 
+29. L. Ni and A.K. Jain, “Design of a Pattern Cluster using Two Level Pipelined Systolic Array”, in VLSI for Pattern Recognition and Image Processing, K.S. Fu(ed.), Springer Verlag, 1984, pp. 65-83. 
+30. A.K.JainandB.Chandrasekaran,“Dimensionality andSampleSizeConsiderations,in Pattern Recognition Practice”, Handbook of Statistics, Vol. II, P. R. Krishnaiah andL.N. Kanal(eds.), NorthHolland,1982,pp. 835-855. 
+31. N.Wyse,R.DubesandA.K.Jain, “ACriticalReviewofIntrinsicDimensionalityAlgorithms”, in Pattern Recognition in Practice,E.S.Gelsema andL.N.Kanal(eds.),NorthHolland,1980, pp. 415-425. 
+32. R. Dubes and A.K. Jain, “Clustering Methodologies in Exploratory Data Analysis”, in Advances in Computers,Vol. 19,M.Yovits(ed.),AcademicPress,1980,pp. 113-228. 
+1. S.Bucak,R.Jin,andA.K.Jain, ”MultipleKernelLearningforVisualObjectRecognition:A Review”,IEEE Transactions onPatternAnalysis and Machine Intelligence,2013(ToAppear). 
+2. E. Liu, A. K. Jain, and J. Tien, ”A Coarse to Fine Minutiae-Based Latent Palmprint Matching”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 35, No. 10, pp. 2307-2322,2013. 
+3. B. Klare and A. K. Jain, ”Heterogeneous Face Recognition using Kernel Prototype Similarities”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 35, No. 6, pp. 1410-1422,2012. 
+4. S.Liao,A.K.Jain,andS.Z.Li, ”PartialFaceRecognition:Alignment-FreeApproach”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 35, No. 5, pp. 1193-1205, 2012. 
+5. J. Feng, J. Zhou, and A. K. Jain, ”Orientation Field Estimation for Latent Fingerprint Enhancement“, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 35, No. 4, pp. 925-940, 2012. 
+6. L. Wu, R. Jin and A. K. Jain, “Tag Completion for Image Retrieval”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 35, No. 3, pp. 716-727, March 2013. 
+7. H. Han, B. Klare, K. Bonnen, and A. K. Jain, ”Matching Composite Sketches to Face Photos: A Component-Based Approach“, IEEE Transactions on Information Forensics and Security, Vol. 8, No. 1, pp. 191-204, January 2013. 
+8. K. Bonnen, B. Klare, and A. K. Jain, ”Component-Based Representation in Automated Face Recognition”, IEEE Transactions on Information Forensics and Security, Vol. 8, No. 1, pp. 239-253, January 2013. 
+9. A.A.Paulino,J.Feng,andA.K.Jain, ”LatentFingerprintMatchingUsing Descriptor-Based Hough Transform”, IEEE Transactions on Information Forensics and Security, Vol. 8, No. 1, pp. 31-45, January 2013. 
+10. A. Nagar, H. S. Choi, and A. K. Jain, ”Evidential Value of Automated Latent Fingerprint Comparison: An Empirical Approach”, IEEE Transactions on Information Forensics and Security, Vol. 7, No. 6, pp. 1752-1765, December 2012.
+11. B. F. Klare, M. Burge, J. Klontz, R. W. Vorder Bruegge, and A. K. Jain, ”Face Recognition Performance: Role of Demographic Information”, IEEE Transactions on Information Forensics and Security,Vol.7,No. 6,pp. 1789-1801,December2012 . 
+12. Z. Lei, S. Liao, A. K. Jain, and S. Z. Li, ”Coupled Discriminant Analysis for Heterogeneous Face Recognition”, IEEE Transactions on Information Forensics and Security, Vol. 7, No. 6, pp. 1701-1716,December2012. 
+13. Q.ZhaoandA.K.Jain,“Model-BasedSeparationofOverlappingLatentFingerprints”, IEEE Transactions on Information Forensics and Security, Vol. 7, No. 3, pp. 904-918, June 2012. 
+14. A. Nagar, K. Nandakumar, and A. K. Jain, “Multibiometric Cryptosystems based on Feature Level Fusion”, IEEE Transactions on Information Forensics and Security, Vol. 7, No. 1, pp. 255-268, February 2012. 
+15. A. K. Jain and K. Nandakumar, ”Biometric Authentication: System Security and User Privacy”, IEEE Computer, November, 2012. 
+16. A. K. Jain, R. Jin, and J.-E. Lee, ”Tattoo Image Matching and Retrieval”, IEEE Computer, Vol. 45, No. 5, pp. 93-96, May, 2012. 
+17. A.K.JainandS.Yoon, “AutomaticDetectionofAlteredFingerprints”, IEEE Computer, Vol. 45, No. 1, pp. 79-82, January, 2012. 
+18. J-E. Lee, W. Tong, R. Jin, and A. K. Jain, “Image Retrieval in Forensics: Tattoo Image Database Application”, IEEE Multimedia, Vol. 19, No. 1, pp. 40-49, 2012. 
+19. A. K. Jain, B. Klare, and U. Park, “Face Matching and Retrieval in Forensics Applications”, IEEE Multimedia, Vol. 19, No. 1, pp. 20-28, 2012. 
+20. Y.-B. Lee, U. Park, and A. K. Jain, “PILL-ID Matching and Retrieval of Drug Pill Images”, Pattern Recognition Letters, Vol. 33, No. 7, pp. 904-910, May 2012. 
+21. K. Nguyen, B. Sabata, and A. K. Jain, “Prostate Cancer Grading: Gland Segmentation and Structural Features”, Pattern Recognition Letters, Vol. 33, No. 7, pp. 951-961, May 2012. 
+22. S. Yoon, J. Feng, and A. K. Jain, “Altered Fingerprints: Analysis and Detection”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 34, No. 3, pp. 451-464, March 2012. 
+23. K.Nguyen,A.K.Jain,andB.Sabata, “ProstateCancerDetection:FusionofCytological and Textural Features”, Journal of Pathology Informatics, Vol. 2, No. 2, p. 3, 2011. 
+24. S. Prabhakar, A. Ivanisov, and A. K. Jain, “Biometric Recognition: Sensor Characteristics and Image Quality”, IEEE Instrumentation & Measurement Society Magazine, Vol. 14, No. 3, pp. 10-16, June 2011. 
+25. A. K. Jain, and B. Klare, “Matching Forensic Sketches and Mug Shots to Apprehend Criminals”, IEEE Computer, Vol.44, No. 5, pp. 94-96, May 2011. 
+26. Z.Li,U.Park,andAnilK.Jain,“ADiscriminativeModelforAgeInvariantFaceRecognition,” IEEE Transactions on Information Forensics and Security, Vol. 6, No. 3, pp. 1028-1037, September 2011. 
+27. H-I. Suk, A. K. Jain, and S-W. Lee, “A Network of Dynamic Probabilistic Models for Human Interaction Analysis”, IEEE Transactions on Circuits and Systems for Video Technology, Vol. 21, No. 7, pp. 932-945, July 2011. 
+28. F. Chen, J. Feng, A. K. Jain, J. Zhou, and J. Zhang, “Separating Overlapped Fingerprints”, IEEE Transactions on Information Forensics and Security, Vol. 6, No. 2, pp. 346-359, June 2011. 
+29. T. Bourlai, A. Ross, and A. K. Jain, “Restoring Degraded Face Images: A Case Study in Matching Faxed, Printed and Scanned Photos”, IEEE Transactions on Information Forensics and Security, Vol. 6, No. 2, pp. 371-384, June 2011. 
+30. U. Park, R. Jillela, A. Ross and A. K. Jain, “Periocular Biometrics in the Visible Spectrum”, IEEE Transactions on Information Forensics and Security, Vol. 6. No. 1, pp. 96-106, March 2011. 
+31. B. Klare, Z. Li, and A. K. Jain, “Matching Forensic Sketches to Mugshot Photos”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 33, No. 3, pp. 639-646, March 2011. 
+32. J. Feng and A. K. Jain, “Fingerprint Reconstruction: From Minutiae to Phase”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 33, No. 2, pp. 209–223, February 2011. 
+33. A. K. Jain and J. Feng, “Latent Fingerprint Matching”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 33, No. 1, pp. 88–100, January 2011. 
+34. K.Niinuma,U.Park,andA.K.Jain, “SoftBiometricTraitsForContinuousUserAuthentication”, IEEE Transactions on Information Forensics and Security,Vol. 5,No. 4,pp. 771–780, December 2010. 
+35. U. Park and A. K. Jain, “Face Matching and Retrieval Using Soft Biometrics”,IEEE Transactions on Information Forensics and Security, Vol. 5, No. 3, pp. 406–415, September 2010. 
+36. A. K. Jain,“Data Clustering: 50 Years Beyond K-Means”, Pattern Recognition Letters, Vol. 31, No. 8, pp. 651–666, June 2010. 
+37. A. Nagar, K. Nandakumar, and A. K. Jain,“A hybrid biometric cryptosystem for securing fingerprint minutiae templates”, Pattern Recognition Letters, Vol. 31, No. 8, pp. 733–741, June 2010. 
+38. U. Park, Y. Tong and A.K. Jain,“Age-invariant Face Recognition”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 32, No. 5, pp. 947–954, May 2010. 
+39. Y. C. Feng, P. C. Yuen and A. K. Jain, “A Hybrid Approach for Generating Secure and Discriminating Face Template”, IEEE Transactions on Information Forensics & security, Vol. 5, No. 1, pp. 103-117, March 2010. 
+40. A.K.Jain,J.Feng andK.Nandakumar, “FingerprintMatching”, IEEE Computer,pp. 36-44, February 2010. 
+41. P.K.Mallapragada,R.Jin,A.K.Jain andY.Liu,“SemiBoost: Boosting forSemi-supervised Learning”, IEEE Transactions on Pattern Analysis and Machine Intelligence,Vol. 31,No. 11, pp. 2000-2014,November2009. 
+42. A.K.JainandJ.Feng,“LatentPalmprintMatching”, IEEE Transactions on Pattern Analysis and Machine Intelligence,Vol. 31,No. 6,pp. 1032-1047,June2009. 
+43. X. Lu and A. K. Jain,“Deformation Modeling for Robust 3D Face Matching”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 30, No. 8, pp. 1346-1357, Aug. 2008. 
+44. K.Nandakumar,Y.Chen,S.C.DassandA.K.Jain,“LikelihoodRatioBasedBiometricScore Fusion”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 30, No. 2, pp. 342-347, Feb. 2008. 
+45. A.K.Jain,K.NandakumarandA.Nagar,“BiometricTemplateSecurity”, EURASIP Journal on Advances in Signal Processing, Special Issue on Advanced Signal Processing and Pattern Recognition Methods for Biometrics, Vol. 2008, ArticleID 579416, Jan. 2008. 
+46. K.Nandakumar,A.K.JainandS.Pankanti,“Fingerprint-basedFuzzyVault:Implementation and Performance”, IEEE Transactions on Information Forensics and Security, Vol. 2, No. 4, pp. 744-757, December 2007. 
+47. A. K. Jain,“Biometric Recognition: Q & A”, Nature,Vol. 449,pp. 38-40,Sept. 2007. 
+48. S. C. Dass, Y. Zhu and A. K. Jain,“Statistical Models for Assessing the Individuality of Fingerprints”, IEEE Transactions on Information Forensics and Security, Vol. 2, No. 3, pp. 391-401, Sept. 2007. 
+49. A.Ross,J.Shah andA.K.Jain,“FromTemplatestoImages:RegeneratingFingerprintsFrom Minutiae Points”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 29, No. 4, pp. 544-560, April 2007. 
+50. M.FarmerandA.K.Jain,“SmartAutomotiveAirbags:OccupantClassificationandTracking”, IEEE Transactions on Vehicular Technology, Vol. 52, No. 1, pp. 60-80, Jan. 2007. 
+51. A.K. Jain, Y. Chen and M. Demirkus,“Pores and Ridges: Fingerprint Matching Using Level 3 Features”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 29, No. 1, pp. 15-27, Jan. 2007. 
+52. S. C. Dass, Y. Zhu and A. K. Jain,“Validating a Biometric Authentication System: Sample Size Requirements”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 28, No. 12, pp. 1902-1913, Dec. 2006. 
+53. A. K. Jain, A. Ross and S. Pankanti,“Biometrics: A Tool for Information Security”, IEEE Transactions on Information Forensics and Security, Vol. 1, No. 2, pp. 125-143, June 2006. 
+54. M. H. Law and A. K. Jain,“Incremental Nonlinear Dimensionality Reduction by Manifold Learning”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 28, No. 3, pp. 377-391, Mar. 2006. 
+55. M. Farmer and A.K. Jain,“Wrapper-Based Approach to Image Segmentation And Classification”, IEEE Transactions on Image Processing,Vol.14,No. 12,pp. 2060-2072,Dec. 2005 
+56. Xiaoguang Lu, Anil K. Jain, and Dirk Colbry,“Matching 2.5D Face Scans to 3D Models,” IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol.28, No. 1, pp. 31-43, Jan. 2006. 
+57. A. Ross, S. Dass and A. K. Jain,“Fingerprint Warping Using Ridge Curve Correspondences”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 28, No.1, pp. 19-30, Jan. 2006. 
+58. R. Cappelli, D. Maio, D. Maltoni, J.L. Wayman and A.K. Jain,“Performance Evaluation of Fingerprint Verification Systems”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 28, No. 1, pp. 3-18, Jan. 2006. 
+59. A. Topchy, A.K. Jain, W. Punch,“Clustering Ensembles: Models of Consensus and Weak Partitions”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol, 27, No. 12,pp. 1866-1881,Dec2005. 
+60. A.K. Jain, K. Nandakumar and A. Ross,“Score Normalization in Multimodal Biometric Systems”, Pattern Recognition, Vol. 38, No. 12, pp. 2270-2285, December 2005. (Best Paper Award) 
+61. H.ChenandA.K.Jain,“DentalBiometrics:Alignment andMatching ofDentalRadiographs”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 27, No. 8, pp. 13191326, August 2005. 
+62. A.FredandA.K.Jain,“CombiningMultipleClusteringsUsingEvidenceAccumulation”, IEEE Transactions on Pattern Analysis and Machine Intelligence,Vol. 27,No. 8,pp. 835-850,June 2005. 
+63. R. Snelick, U. Uludag, A. Mink, M. Indovina and A.K. Jain,“Large Scale Evaluation of Multimodal Biometric Authentication Using State-of-the-Art Systems”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 27, No. 3, pp. 450-455, March 2005. 
+64. A. Ross, S. Dass and A.K. Jain,“A Deformable Model for Fingerprint Matching”, Pattern Recognition, Vol. 38, No. 1, pp. 95-103, Jan. 2005. 
+65. M.H.Law,M.A.T.Figueiredo,andA.K.Jain,“SimultaneousFeatureSelection andClustering Using Mixture Models”, IEEE Transactions Pattern Analysis and Machine Intelligence, vol. 26, no. 9, pp. 1154-1166, Sept. 2004. 
+66. U. Uludag, A. Ross and A.K. Jain,“Biometric Template Selection and Update: A Case Study in Fingerprints”, Pattern Recognition, Vol. 37, No. 7, pp. 1533-1542, July 2004. 
+67. A.K. Jain and Chen Hong,“Matching of Dental X-ray Images for Human Identification”, Pattern Recognition, Vol. 37, No. 7, pp. 1519-1532, July 2004. 
+68. U. Uludag, S. Pankanti, S. Prabhakar and A.K. Jain,“Biometric Cryptosystems: Issues and Challenges”,Proc. IEEE,SpecialIssueonMultimediaSecurityforDigitalRightsManagement, Vol. 92, No. 6, pp. 948-960, June 2004. 
+69. K.Jung,K.KimandA.K.Jain,“TextInformationExtraction inImagesandVideo:ASurvey”, Pattern Recognition, Vol. 37, No. 5, pp. 977-997, May 2004. 
+70. A.K. Jain, A. Ross and S. Prabhakar,“An Introduction to Biometric Recognition”, IEEE Transactions on Circuits and Systems for Video Technology, Special Issue on Image-and Video-Based Biometrics, Vol. 14, No. 1, pp. 4-20, Jan. 2004. 
+71. A.K. Jain and A. Ross,“Multibiometric Systems”, Comm. ACM, Vol. 47, No. 1, pp. 34-40, Jan. 2004. 
+72. A.Namboodiri andA.K.Jain,“On-LineHandwrittenScriptRecognition”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 26, No. 1, pp. 124-130, Jan. 2004. 
+73. R.L.HsuandA.K.Jain,“GeneratingDiscriminatingCartoonFacesUsingInteractingSnakes”, IEEE Transactions on Pattern Analysis and Machine Intelligence,Vol. 25,No. 11,pp. 13881398, Nov. 2003. 
+74. A.K. Jain and U. Uludag,“Hiding Biometric Data”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 25, No. 11, pp. 1494-1498, Nov. 2003. 
+75. S.Prabhakar,A.K.JainandS.Pankanti,“LearningFingerprintMinutiaeLocationandType”, Pattern Recognition, Vol. 36, No. 8, pp. 1847-1857, 2003. 
+76. A. Ross and Anil Jain,“Information Fusion in Biometrics”, Pattern Recognition Letters, Vol. 24, Issue 13, pp. 2115-2125, Sept. 2003. 
+77. S. Prabhakar, S. Pankanti, and A.K. Jain,“Biometric Recognition: Security & Privacy Concerns”, IEEE Security & Privacy Magazine, vol. 1, no. 2, pp. 33-42, March-April 2003. 
+78. A. K. Jain and S. Prabhakar“Biometrics Authentication”, INSIGHT: A Publication of the Institute for the Advancement of Emerging Technologies in Education, Vol. 2, pp. 29-52, Jan 2003. 
+79. A. Ross, A.K. Jain, and J. Reisman,“A Hybrid Fingerprint Matcher”, Pattern Recognition, Vol. 36, No. 7, pp. 1661-1673, 2003. 
+80. N. Duta, A.K. Jain and K.V. Mardia,“Matching of Palmprints”, Pattern Recognition Letters, Vol. 23, pp. 477-485, 2002. 
+81. S. Pankanti, S. Prabhakar and A.K. Jain,“On the Individuality of Fingerprints”, Fingerprint World, Vol. 28, No. 109, July 2002. 
+82. G.D. Guo, A.K. Jain, W.-Y. Ma and H.-J. Zhang,“Learning Similarity Measure for Natural Image Retrieval with Relevance Feedback”, IEEE Transactions on Neural Networks, Vol. 13, pp. 811-820, July 2002. 
+83. R.L. Hsu, M. Adbel-Mottaleb and A.K. Jain,“Face Detection in Color Images”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 24, pp. 696-707, May 2002. 
+84. A. Vailaya, H.J. Zhang, C. J. Yang, F.I. Liu, and A.K. Jain,“Automatic Image Orientation Detection”, IEEE Transactions on Image Processing,Vol. 11,pp. 746-755,July2002.
+85. S. Pankanti, S. Prabhakar and A.K. Jain,“On the Individuality of Fingerprints,” IEEE Transactions on Pattern Analysis and Machine Intelligence,Vol. 24,pp. 1010-1025,Aug. 2002. 
+86. A.K.Jain,FriederickeD.GriessandScottD.Connell,“On-lineSignatureVerification,”Pattern Recognition, Vol. 35, pp. 2963-2972, Dec. 2002. 
+87. A.K. Jain, S. Prabhakar and S. Pankanti,“On the Similarity of Identical Twin Fingerprints,” Pattern Recognition, vol. 35,pp. 2653-2663,Nov. 2002. 
+88. D. Maio, D. Maltoni, R. Cappelli, J. Wayman and A.K. Jain,“FVC2000: Fingerprint Verification Competition,” IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 24, No. 3, pp. 402-412, March 2002. 
+89. A.K. Jain, S. Prabhakar and S. Pankanti,“Matching and Classification: A case study in fingerprint domain”, Proc. Indian National Science Academy, Vol. 67(A), No. 2, Special Issue on Image Processing, Vision and Pattern Recognition, pp. 223-241, March 2001. 
+90. M.A.T. Figueiredo and A.K. Jain,“Unsupervised Learning of Finite Mixture Models”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 24, No. 3, pp. 381-396, March 2002. 
+91. S.D. Connell and A.K. Jain,“Writer Adaptation for Online Handwriting Recognition”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 24, No. 3, pp. 329-346, March 2002. 
+92. J. Liu, F.B. Dazzo, O. Glagoleva, B. Yu and A.K. Jain,“CMEIAS: A Computer Aided System for the Image Analysis of Bacterial Morphotypes in Microbial Communities”, Microbial Ecology, Vol. 41, pp. 173-194, 2001. 
+93. A.K. Jain and S. Pankanti,“Biometric Systems: Anatomy of Performance”, IEICE Transactions on Fundamentals, Vol. E84-D, No. 7, pp. 788-799, July 2001. 
+94. S.PrabhakarandA.K.Jain,“DecisionLevelFusion inFingerprintVerification, Pattern Recognition, Vol. 35, No. 4, pp. 861-874, April 2002. 
+95. B. Kamgar-Parsi, B. Kamgar-Parsi, A.K. Jain and J. Dayhoff,“Aircraft Detection: A Case Study in Using Human Similarity Measure”, IEEE Transactions on Pattern Analysis and Machine Intelligence,Vol.23,pp. 1404-1414,Dec. 2001. 
+96. N.Duta,A.K.JainandM.-P.Dubuisson-Jolly,“AutomaticConstructionof2DShapeModels”, IEEE Transactions on Pattern Analysis and Machine Intelligence,2001,Vol. 23,pp. 433-446, May 2001. 
+97. A. Vailaya, M. Figueiredo, A.K. Jain and H.J. Zhang,“Bayesian Framework for Hierarchical Semantic Classification of Vacation Images”, IEEE Transactions on Image Processing, Vol. 10, No. 1, pp. 157-172, Jan. 2001. 
+98. S.Connell andA.K.Jain,“Template-basedOn-LineCharacterRecognition”, Pattern Recognition, Vol. 34, No. 1, pp. 1-14, Jan. 2001. 
+99. M.Raymer,W.Punch,E.Goodman,L.KuhnandA.K.Jain,“DimensionalityReductionUsing Genetic Algorithms”, IEEE Transactions on Evolutionary Computation, Vol. 4, No. 2, July 2000. 
+100. Y. Zhong, A.K. Jain and M.P. Dubuisson-Jolly,“Object Tracking Using Deformable Templates”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 22, pp. 544549, May 2000. 
+101. A.K. Jain and C. Dorai,“3D Object Recognition: Representation and Matching”, Statistics and Computing, Vol. 10, No. 2, pp. 167-182, 2000. 
+102. M.T.Figueiredo,J.LeitaoandA.K.Jain,“UnsupervisedContourRepresentationandEstimation Using B-Splines and a Minimum Description Length Criterion”, IEEE Transactions on Image Processing,Vol. 9,No. 6,pp. 1075-1087,June2000. 
+103. A.K. Jain, S. Prabhakar, L. Hong and S. Pankanti,“Filterbank-based Fingerprint Matching”, IEEE Transactions on Image Processing, Vol. 9, No. 5, pp. 846-859, May 2000. 
+104. Y.Zhong,H.J.Zhang andA.K.Jain,“AutomaticCaptionLocalization inCompressedVideo”, IEEE Transactions on PatternAnalysis and Machine Intelligence,Vol. 22,No. 4,pp. 385-393, April 2000. 
+105. Y.ZhongandA.K.Jain,“ObjectLocalizationUsingColor,TextureandShape”, PatternRecognition, Vol. 33, No. 4, pp. 671-684, April 2000. 
+106. S.Pankanti,R.BolleandA.K.Jain,“Biometrics:TheFuture ofIdentification(GuestEditor’s Introduction)”, IEEE Computer, pp. 2-5, Feb. 2000. 
+107. A.K. Jain, L. Hong and S. Pankanti,“Biometric Identification”, Comm. ACM, Vol. 43, pp. 90-98, Feb. 2000. 
+108. A.K. Jain, R. Duin and J. Mao,“Statistical Pattern Recognition: A Review”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 22, pp, 4-37, Jan. 2000. 
+109. J. Liu and A.K. Jain,“Image-based Form Document Retrieval”, Pattern Recognition, Vol. 33, No. 3, pp. 503-513, 2000. 
+110. A.R.Jimenez,A.K.Jain,R.CeresandJ.L.Pons,“AutomaticFruitRecognition:ASurveyand New Results Using Range/Attenuation Images”, Pattern Recognition,Vol. 32,pp. 1719-1736, 1999. 
+111. A.K. Jain, S. Prabhakar and S. Chen,“Combining Multiple Matchers for High Security Fingerprint Verification System”, Pattern Recognition Letters, Vol. 20, pp. 1371-1379, 1999. 
+112. A.K. Jain, M. Narasimha Murty and P.J. Flynn,“Data Clustering: A Review”, ACM Computing Surveys, Vol. 31, No. 3, pp. 264-323, Sept. 1999. Top 10 Most Popular Magazine and Computing Surveys Article downloaded in 2004. 
+113. J. Strand, T. Taxt and A.K. Jain,“Two-Dimensional Phase Unwrapping Using a Block Least Squares Method”, IEEE Transactions on Image Processing, Vol. 8, No. 3, pp. 375-386, 1999. 
+114. A.K.Jain,S.PrabhakarandL.Hong,“AMultichannelApproachtoFingerprintClassification”, IEEE Transactions on PatternAnalysis and Machine Intelligence,Vol. 21,No. 4,pp. 348-359, 1999. 
+115. A.K. Jain, A. Vailaya and W. Xiong,“Query by Video Clip”, Multimedia Systems, Vol. 7, No. 5, pp. 369-384, 1999. 
+116. N.RathaandA.K.Jain,“ComputerVisionAlgorithmsonReconfigurableLogicArrays”,IEEE Transactions on Parallel and Distributed Systems, Vol. 10, No. 1, pp. 29-43, 1999. 
+117. Y.H. Li and A.K. Jain,“Classification of Text Documents”, The Computer Journal, Vol. 41, No. 8, 1998. 
+118. A.K. Jain, Y. Zhong and M.-P. Jolly,“Deformable Templates: A Review”, Signal Processing, Vol. 71, pp. 109-129, 1998. 
+119. L. Hong and A.K. Jain,“Integrating Faces and Fingerprints”, IEEE Transactions on Pattern Analysis and Machine Intelligence,Vol. 20,No. 12,pp. 1295-1307,Dec. 1998. 
+120. S.W. Chen, S.T. Tung, C.Y. Fang, S. Cherng and A.K. Jain,“Extended Attributed String Matching for Shape Recognition”, Computer Vision and Image Understanding, Vol. 70, No. 1, pp. 36-50, 1998. 
+121. L.HongY.WanandA.K.Jain,“FingerprintImageEnhancement:AlgorithmandPerformance Evaluation”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 20, No. 8, pp. 777-789, 1998. 
+122. D. Judd, P. McKinley and A.K. Jain, “Large-Scale Parallel Data Clustering”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 20, No. 8, pp. 871-876, 1998. 
+123. A.Vailaya,A.K.JainandH.J.Zhang,“OnImageClassification:CityImagesvs. Landscapes”, Pattern Recognition,Vol. 31,No. 12,pp. 1921-1935,1998. 
+124. A.K. Jain and B. Yu,“Automatic Text Location in Images and Video Frames”, Pattern Recognition,Vol. 31,No. 12,pp. 2055-2076,1998. 
+125. A.K. Jain and A. Vailaya,“Shape-Based Retrieval: A Case Study with Trademark Image Databases”, Pattern Recognition, Vol. 31, No. 9, pp. 1369-1390, 1998. 
+126. A.K.JainandB.Yu,“DocumentRepresentationand itsApplicationtoPageDecomposition”, IEEE Transactions on PatternAnalysis and Machine Intelligence,Vol. 20,No. 3,pp. 294-308, 1998. 
+127. A.K. Jain, L. Hong, S. Pankanti and R. Bolle,“An Identity Authentication System Using Fingerprints”, Proc. IEEE, Vol. 85, No. 9, pp. 1365-1388, 1997. 
+128. A.K. Jain and D. Zongker,“Representation and Recognition of Handwritten Digits Using De-formable Templates”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 19, No. 12, pp. 1386-1391, 1997. 
+129. C. Dorai, G. Wang, A.K. Jain and C. Mercer,“From Images to Models: Automatic 3D Object Model Construction from Multiple Views”,IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 20, No. 1, pp. 82-89, 1998. 
+130. C. Dorai and A.K. Jain,“COSMOS: A Representation scheme for 3D Free-Form Objects”, IEEE Trans Pattern Analysis and Machine Intelligence,Vol.19,No. 10,pp. 1115-1130,1997. 
+131. C. Dorai, J. Weng and A.K. Jain, Optimal Registration of Multiple Object Views”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 19, No. 10, pp. 1131-1138, 1997. 
+132. C. Dorai and A.K. Jain,“Shape Spectrum-Based View Grouping and matching of 3D Free-Form Objects”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 19, No. 10, pp. 1139-1145, 1997. 
+133. O. Trier, T. Taxt and A.K. Jain,“Recognition of Digits in Hydrographic Maps: Binary Versus TopographicAnalysis”,IEEE Transactions onPatternAnalysis andMachine Intelligence,Vol. 19, No. 4, pp. 399-404, 1997. 
+134. A.K. Jain, L. Hong and R. Bolle,“On Line Fingerprint Verification”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 19, No. 4, pp. 302-314, 1997. 
+135. A.K. Jain and D. Zongker,“Feature Selection: Evaluation, Application, and Small Sample Performance”,IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 19, No. 2, pp. 153-158, 1997. 
+136. M.GokmenandA.K.Jain,“-SpaceRepresentationofImagesandGeneralizedEdgeDetector”, IEEE Transactions on PatternAnalysis and Machine Intelligence,Vol. 19,No. 6,pp. 545-563, 1997. 
+137. H. Dulimarta and A.K. Jain,“Mobile Robot Localization in Indoor Environment”, Pattern Recognition, Vol. 30, No. 1, pp. 99-111, 1997. 
+138. A.K. Jain, N. Ratha and S. Lakshmanan,“Object Detection Using Gabor Filters”, Pattern Recognition, Vol. 30, No. 2, pp. 295-309, 1997. 
+139. A.K.JainandC.Dorai,“PracticingVision:Integration,EvaluationandApplications”,Pattern Recognition, Vol. 30, No. 2, pp. 193-196, 1997. This paper won Honorable Mention in the Best Paper Award Contest of the Pattern Recognition Society, 1997. 
+140. A. Schistad Solberg and A.K. Jain,“Texture Fusion and Feature Selection Applied to SAR Imagery”, IEEE Transactions on Geoscience and Remote Sensing, Vol. 35, No. 2, pp. 475479, March 1997. 
+141. J. Kuo, J. Deller, and A.K. Jain,“Pre/post-filter for performance improvement of transform coding”, Signal Processing: Image Communication, 8, pp. 229-239, 1996.
+142. B. Yu and A.K. Jain,“A Generic System for Form Dropout”, IEEE Transactions on Pattern Analysis and Machine Intelligence,Vol. 18,No. 11,pp. 1127-1134,1996. 
+143. N. Ratha, S. Chen, K. Karu and A.K. Jain,“A Real-time Matching System for Large Fingerprint Databases”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 18, 8, pp. 799-813, 1996. 
+144. G. Gimel’farb and A.K. Jain,“On Retrieving Textured Images from an Image Database”, Pattern Recognition, Vol. 29, No. 9, pp. 1461-1484, Sept. 1996. 
+145. K. Karu, A.K. Jain and R. Bolle,“Is there Texture in the Image?”, Pattern Recognition, Vol. 29, No. 9, pp. 1437-1446, Sept. 1996. This paper won Honorable Mention in the Best Paper Award Contest of the Pattern Recognition Society, 1996. 
+146. A.K. Jain, J. Mao, and M. Mohiuddin“Neural Networks: A Tutorial”, IEEE Computer, Vol. 29, 3, pp. 31-44, March 1996. 
+147. B. Yu and A.K. Jain,“A Robust and Fast Skew Detection Algorithm for Generic Documents”, Pattern Recognition,Vol. 29,No. 10,pp. 1599-1630,Oct. 1996. 
+148. A.K.JainandA.Vailaya,“ImageRetrievalUsing ColorandShape”, Pattern Recognition, Vol. 29,No. 8,pp. 1233-1244,1996. 
+149. H. Dulimarta and A.K. Jain,“A Client/Server Control Architecture for Robot Navigation”, Pattern Recognition, Vol. 29, No. 8, pp. 1259-1284, 1996. 
+150. O. Trier, A.K. Jain and T. Taxt,“Feature Extraction Methods for Character Recognition-A Survey”, Pattern Recognition, Vol. 29, 3, pp. 641-662, April 1996. 
+151. S. Nadabar and A.K. Jain,“Parameter Estimation in Markov Random Field Line Process Models”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 18, No. 3, pp. 326-329, March 1996. 
+152. A. K. Jain, Y. Zhong and S. Lakshmanan“Object Matching Using Deformable Templates”, IEEE Transactions on PatternAnalysis and Machine Intelligence,Vol. 18,No. 3,pp. 267-278, March 1996. 
+153. M.P. Dubuisson, S. Lakshamanan and A.K. Jain,“Vehicle Segmentation Using Deformable Templates”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 18, No. 3, pp. 293-308, March 1996. 
+154. A.K. Jain and Y. Zhong,“Page Segmentation Using Texture Analysis”, Pattern Recognition, Vol. 29, No. 5, pp. 743-770, May 1996. 
+155. K. Karu and A.K. Jain,“Fingerprint Classification”, Pattern Recognition, Vol. 29, No. 3, pp. 389-404, 1996. This paper won Honorable Mention in the Best Paper Award Contest of the Pattern Recognition Society, 1996. 
+156. A.SchistadSolberg,A.K.JainandT.Taxt,“AMarkovRandomFieldModelforClassification ofMultisourceSatelliteImagery”, IEEETransactions onGeoscience andRemoteSensing,Vol. 34, No. 1, pp. 100-113, Jan. 1996. 
+157. J.Mao andA.K.Jain,“ASelf-OrganizingNetworkforHyper-EllipsoidalClustering(HEC)”, IEEE Transactions on Neural Networks, Vol. 7, 1, pp. 16-29, Jan. 1996. 
+158. B. Gunsel, A.K. Jain and E. Panayirci, “Reconstruction and Boundary Estimation of Range andIntensityImagesUsingMultiscaleMRFRepresentations”, CVGIP: Image Understanding, Vol. 63, 2, pp. 353-366, March 1995. 
+159. N. Ratha, S. Chen and A.K. Jain,“Adaptive Flow Orientation Based Feature Extraction in Fingerprint Images”, Pattern Recognition, Vol. 28, pp. 1657-1672, Nov. 1995. 
+160. Y. Zhong, K. Karu and A.K. Jain,“Locating Text in Complex Color Images”, Pattern Recognition, Vol. 28, 10, pp. 1523-1536, Oct. 1995. 
+161. S. Pankanti and A.K. Jain,“Integrating Vision Modules: Stereo, Shading, Grouping, and Line Labeling”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 17, pp. 831-842, Sept. 1995. 
+162. T. Newman and A.K. Jain,“A System for 3D CAD-Based Inspection Using Range Images”, Pattern Recognition,Vol. 28,pp. 1555-1574,Oct. 1995. 
+163. M.NarasimhaMurtyandA.K.Jain,“Knowledge-BasedClusteringSchemeforCollectionManagement and Retrieval of Library Books”, Pattern Recognition, pp. 949-964, 1995. 
+164. A.K. Jain and K. Karu,“Learning Texture Discrimination Masks”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 18, 2, pp. 195-205, Feb. 1996. 
+165. O. Trier and A.K. Jain,“Goal-Directed Evaluation of Binarization Methods”, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 17, pp. 1191-1201, Dec. 1995. 
+166. M. Kraaijveld, J. Mao and A.K. Jain, “A Non-Linear Projection Method Based on Kohonen’s Topology Preserving Maps”, IEEE Transactions on Neural Networks, Vol. 6, pp. 548-559, May 1995. 
+167. M.-P.Dubuisson,A.K.JainandW.C.Taylor,“SegmentationandMatchingofVehicles inRoad Images”, Transportation Research Record,No. 1412,pp. 57-63,1993. 
+168. A. Schistad Solberg, A.K. Jain and T. Taxt,“Multisource Classification of Remotely Sensed Data: Fusion ofLandsatTMandSARImages”, IEEETransactions onGeoscience andRemote Sensing, Vol. 32, pp. 768-778, July 1994. 
+169. T. Newman and A.K. Jain,“A Survey of Automated Visual Inspection”, CVGIP: Image Understanding, Vol. 61, pp. 231-262, March 1995. 
+170. J. Mao, P. Flynn and A.K. Jain,“Integration of Multiple Feature Groups and Multiple Views into a 3D Object Recognition System”, CVGIP: Image Understanding, Vol. 62, pp. 309-329, Nov. 1995. Reprinted in Applications of Invariance in Computer Vision, Lecture Notes in Computer Science, Vol. 825, Springer Verlag, 1994. 
+171. M.-P. Dubuisson and A.K. Jain,“Contour Extraction of Moving Objects in Complex Outdoor Scenes”, International Journal of Computer Vision, Vol. 14, pp. 83-105, 1995. 
+172. J.MaoandA.K.Jain,“NeuralNetworksforFeatureExtractionandMultivariateDataProjection”, IEEE Transactions on Neural Networks, Vol. 6, pp. 296-317, March 1995. This paper received the 1996 IEEE Transactions on Neural Networks Outstanding Paper Award. 
+173. M.P. Dubuisson, A.K. Jain and M.K. Jain“Segmentation and Classification of Bacterial Culture Images”, Journal of Microbiological Methods, Vol. 19, pp. 279-295, 1994. 
+174. Y.ChenandA.K.Jain,“AddressBlockLocationUsing ColorandTextureAnalysis”, CVGIP: Image Understanding, Vol. 60, 2, pp. 179-190, 1994. 
+175. S. Nadabar and A.K. Jain,“Bayesian Approach to Sensor Fusion: Implementation on a Connection Machine(CM-2)”, Pattern Recognition, Vol. 28, No. 1, pp. 11-26, 1995. 
+176. N.S. Raja and A.K. Jain,“Obtaining Generic Parts from Range Images using a Multi-View Representation”, CVGIP: Image Understanding, Vol. 60, 1, pp. 44-64, July 1994. 
+177. P. Flynn, T. Newman and A.K. Jain, “Model-Based Classification of Quadric Surfaces”, CVGIP: Image Understanding, Vol. 58, No. 2, pp. 235-249, Sept. 1993. 
+178. S. Raudys and A.K. Jain,“On Training Sample Size and Complexity of Artificial Neural Net Classifier”, INFORMATICA,3,3,1992,pp. 301-337. 
+179. A.K. Jain and S. Bhattacharjee,“Text Segmentation for Automatic Document Processing”, Machine Vision and Applications, 5, 3, pp. 169-184, 1992. Reprinted in Document Image Analysis,R.Kasturi andL.O’Gorman(eds.),IEEEComputerSociety Press,1994. 
+180. A.K. Jain and S. Bhattacharjee,“Address Block Location on Envelopes Using Gabor Filters”, Pattern Recognition, 25, 12, pp. 1459-1477, 1992. 
+181. N.S. Raja and A.K. Jain,“Recognizing Geons from Superquadrics Fitted to Range Data”, Image and Vision Computing, 10, 3, pp. 179-190, 1992. 
+182. S.W. Chen and A.K. Jain,“Multi View and Multiple Matching Techniques for 3D Object Recognition”, Computer Vision, Graphics and Image Processing: Image Understanding, pp. 121-130, 1993. 
+183. P.Flynn andA.K.Jain,“3DObjectRecognitionUsing InvariantFeatureIndexing ofInterpretation Tables”, Computer Vision, Graphic and Image Processing, 55, 2, pp. 119-129, March 1992. 
+184. A.K. Jain and M.D. Ramaswami,“Rule Based 3D Object Recognition from Range Images”, JIETE, 1992. 
+185. T. Newman and A.K. Jain,“Range Intensity Histogram for Segmenting LADAR Images”, Pattern Recognition Letters, 13, 1, pp. 41-56, Jan. 1992. 
+186. P. Flynn and A.K. Jain,“BONSAI: 3D Object Recognition Using Constrained Search”, IEEE Transactions on on Pattern Analysis and Machine Intelligence,13,10,pp. 10661075,1991. 
+187. J. Mao and A.K. Jain,“Texture Classification and Segmentation Using Multiresolution Simultaneous Autoregressive Models”, Pattern Recognition, 25, 2, pp. 173-188, 1992. This paper won Honorable Mention in the Best Paper Award contest of the Pattern Recognition Society, 1992. 
+188. A.K.JainandM.-P.Dubuisson,“SegmentationofX ray andC scanImagesofFiberReinforced Composite Materials”, Pattern Recognition, Vol. 25, No. 3, pp. 257-270, 1992. 
+189. A.K.JainandF.Farrokhnia,“UnsupervisedTextureSegmentationUsingGaborFilters”, Pattern Recognition, 24,12, pp. 1167 1186, 1991. This paper received the Best Paper Award for 1991 from the Pattern Recognition Society. 
+190. S.W.ChenandA.K.Jain,“ObjectExtractionfromLaserRadarImagery”,PatternRecognition, 24, 6, pp. 587 600, 1991. 
+191. J. Ton, J. Sticklen and A.K. Jain,“Knowledge based Segmentation of Landsat Images”, IEEE Transactions on on Geoscience and Remote Sensing, 29, 2, pp. 222 232, 1991. 
+192. S. Raudys and A.K. Jain,“Small Sample Size Effects in Statistical Pattern Recognition: Recommendations for Practitioners”, IEEE Transactions on on Pattern Analysis and Machine Intelligence, 13, 3, pp. 252 264, 1991. 
+193. P. Flynn and A.K. Jain,“CAD Based Computer Vision: From CAD Models to Relational Graphs”, IEEE Transactions on on Pattern Analysis and Machine Intelligence,13,2,pp. 114 132,1991. Reprinted inComputerVision:AdvancesandApplications,R.Kasturi andR.Jain (eds.), IEEE Computer Society Press, pp. 228 247, 1991. Reprinted in Selected Papers on Model-BasedObjectRecognition,H. Nasr(ed.) SPIE,Vol. MS72(MilestoneSeries) SPIE Press, 1993. 
+194. M. Tuceryan and A.K. Jain,“Texture Segmentation with Voronoi Polygons”, IEEE Transactions on on Pattern Analysis and Machine Intelligence, 12, 2, pp. 211 216, 1990. 
+195. P.J. Flynn, T. Taxt and A.K. Jain,“Segmentation of Document Images”, IEEE Transactions on on Pattern Analysis and Machine Intelligence,11,12,pp. 13221329,1989. 
+196. J. Ton and A.K. Jain,“Registering Landsat Images Using Point Pattern Matching”, IEEE Transactions on on Geoscience and Remote Sensing, 27, 5, pp. 642 651, 1989. 
+197. R.DubesandA.K.Jain,“RandomFieldModels inImageAnalysis”, Journal of Applied Statistics, 6, 2, pp. 131 164, 1989. Reprinted in Advances in Applied Statistics, K.V. Mardia and G.K. Kanji(eds.), Carfax Publishing Co., 1993. 
+198. R. Jain and A.K. Jain,“Report on Range Image Understanding Workshop”, Machine Vision and Applications, pp. 45 60, 1989. 
+199. A.K. Jain and R. Hoffman,“Evidence based Recognition of 3D objects”, IEEE Transactions on on Pattern Analysis and Machine Intelligence, 10, 6, pp. 783 802, Nov. 1988. 
+200. S. Smith and A.K. Jain,“A Test to Determine the Multivariate Normality of a Data Set”, IEEE Transactions on on Pattern Analysis and Machine Intelligence, 10, 5,pp.757 761, Sept. 1988. 
+201. J. Ton, W.R. Enslin, W.D. Hudson and A.K. Jain,“Automatic Road Identification and Labeling in LANDSAT 4 TM Images”, Photogrammetria, 4, 3, 257 276, 1989. 
+202. A.K. Jain, C.C. Chen and R.C. Dubes,“Bootstrap Techniques for Error Estimation”, IEEE Transactions on on Pattern Analysis and Machine Intelligence, 9, 5, pp. 628 633, 1987. 
+203. A.K. Jain and J.V. Moreau,“Bootstrap Technique in Cluster Analysis”, Pattern Recognition, 20,5,pp. 547568,1987. Thispaper received the Best Paper Award for 1987from the Pattern Recognition Society. 
+204. R. Hoffman and A.K. Jain,“Segmentation and Classification of Range Images”, IEEE Transactions on on Pattern Analysis and Machine Intelligence, 9, 5, pp. 608 620, 1987. 
+205. R. Hoffman and A.K. Jain,“Sparse Decompositions for Exploratory Pattern Analysis”, IEEE Transactions on on Pattern Analysis and Machine Intelligence, 9, 4, pp. 551 560, 1987. 
+206. J. Coggins and A.K. Jain,“A Spatial Filtering Approach to Texture Analysis”, Pattern Recognition Letters, 3, pp. 195 203, 1985. 
+207. Z. You and A.K. Jain,“Performance Evaluation of Shape Matching via Chord Length Distribution”, Computer Vision, Graphics and Image Processing 28, pp. 185 198, 1984. Reprinted inDigital ImageProcessing and Analysis: Volume 2 Digital ImageAnalysis, R. Chellappa and A.A.Sawchuk(eds.),IEEEComputerSociety Press,pp. 129142,1986. 
+208. L.NiandA.K.Jain,“AVLSISystolicArchitectureforPatternClustering”, IEEETransactions on on Pattern Analysis and Machine Intelligence, 7, 1, pp. 80 89, 1985. 
+209. S.SmithandA.K.Jain,“TestingforUniformityinMultidimensionalData”, IEEETransactions on on Pattern Analysis and Machine Intelligence, 6, 1, pp. 73 81, 1984. 
+210. R.HoffmanandA.K.Jain,“ATest ofRandomnessBased onMinimalSpanningTree”, Pattern Recognition Letters, 1, pp. 175 180, 1983. 
+211. S. Smith and A.K. Jain,“Chord Distributions for Shape Matching”, Computer Graphics and Image Processing¡, 20, pp. 259 271, 1982. 
+212. G. Cross and A.K. Jain,“Markov Random Field Texture Models”, IEEE Transactions on on Pattern Analysis and Machine Intelligence, 5, pp. 25 39, 1982. Reprinted in Digital Image ProcessingandAnalysis: VolumeIDigitalImageProcessing,R.Chellappa andA.A.Sawchuk (eds.), IEEE Computer Society Press, pp. 149 163, 1985. Reprinted in Computer Vision: Advances&Applications,R.Kasturi andR.Jain(eds.),IEEEComputerSocietyPress,pp. 61 75, 1991. 
+213. L. Johnson and A.K. Jain,“An Efficient 2 Dim FFT Algorithm”, IEEE Transactions on on Pattern Analysis and Machine Intelligence, 3, pp. 698 701, 1981. 
+214. G.Biswas,R.DubesandA.K.Jain,“EvaluationofProjectionAlgorithms”,IEEE Transactions on on Pattern Analysis and Machine Intelligence, 3, pp. 702 708, 1981. 
+215. E. Backer and A.K. Jain,“A Clustering Performance Measure Based on Fuzzy Set Decomposition”, IEEE Transactions on on Pattern Analysis and Machine Intelligence, 3, pp. 66 75, 1981.ReprintedinFuzzyModelsforPatternRecognition,J.C.Bezdek andS.Pal(eds.),IEEE Press, 1992. 
+216. A.K.Jain,S.SmithandE.Backer,“SegmentationofMuscleCellPictures”, IEEE Transactions on on Pattern Analysis and Machine Intelligence, 2, pp. 232 242, 1980. 
+217. A.K.JainandB.Chandrasekaran,“OnBalancingDecisionFunctions”, Journal of Cybernetics and Information Science, 2, pp. 12 15, 1979.
+218. R. Dubes and A.K. Jain,“Validity Studies in Clustering Methodologies”, Pattern Recognition, 11, pp. 235 254, 1979. This paper won Honorable Mention in the Best Paper Award Contest of the Pattern Recognition Society, 1979. 
+219. K. Pettis, T. Bailey, A.K. Jain and R.C. Dubes,“An Intrinsic Dimensionality Estimator from Near Neighbor Information”, IEEE Transactions on on Pattern Analysis and Machine Intelligence, 1, pp. 25 37, 1979. 
+220. S.Shaffer,R.C.DubesandA.K.Jain,“SingleLinkCharacteristicsofaModeSeekingClustering Algorithm”, Pattern Recognition, 11, pp. 65 70, 1978. 
+221. A.K. Jain and W. Waller,“On the Monotonicity of the Performance of Bayesian Classifiers”, IEEE Transactions on on Information Theory, IT 24, pp. 392 394, 1978. 
+222. A.K. Jain and W. Waller,“On the Optimal Number of Features in the Classification of Multivariate Gaussian Data”, Pattern Recognition, 10, pp. 365 374, 1978. 
+223. T. Bailey and A.K. Jain,“A Note on Distance Weighted k Nearest Neighbor Rules”, IEEE Transactions on on Systems, Man, and Cybernetics, SMC 8, pp. 311 313, 1978. 
+224. A.K. Jain and R.C. Dubes,“Feature Definition in Pattern Recognition with Small Sample Size”, Pattern Recognition, 10, pp. 84 97, 1978. 
+225. R. Dubes and A.K. Jain,“Clustering Techniques: The User’s Dilemma”, Pattern Recognition, 8, pp. 247 260, 1976. This paper won Honorable Mention in the Best Paper Award Contest of the Pattern Recognition Society, 1976. 
+226. A.K. Jain,“On an Estimate of the Bhattacharyya Distance”, IEEE Transactions on on Systems, Man, and Cybernetics, SMC 6, pp. 763 766, 1976. 
+227. B.ChandrasekaranandA.K.Jain,“Independence,MeasurementComplexityandClassification Performance”, IEEE Transactions on on Systems, Man, and Cybernetics, SMC 5, pp. 240 244,1975. Reprinted inMachineRecognitionofPatterns,A.K.Agarwala(ed.),IEEEPress, pp. 242 246, 1977. 
+228. B.ChandrasekaranandA.K.Jain,“QuantizationComplexityandIndependentMeasurements”, IEEE Transactions on on Computers, C 23, pp. 102 106, 1974. 
+229. R.B.McGheeandA.K.Jain,“SomePropertiesofRegularlyRealizableGaitMatrices”, Mathematical Biosciences,13,pp. 179193,1972. Reprinted inSelections inNaturalComputations, Whitman Richards(ed.), MIT Press, 1988. 
+1. K. Niinuma, H. Han, and A. K. Jain, ”Automatic Multi-view Face Recognition via 3D Model Based Pose Regularization”, BTAS, Washington, D.C., Sept. 29-Oct. 2, 2013. 
+2. L. Best-Rowden, B. Klare, J. Klontz, and A. K. Jain, ”Video-to-Video Face Matching: Establishing a Baseline for Unconstrained Face Recognition”, BTAS, Washington, D.C., Sept. 29-Oct. 2, 2013. 
+3. J.Klontz,B.Klare,S.Klum,E.Taborsky,M.Burge,andA.K.Jain, ”OpenSourceBiometric Recognition”, BTAS, Washington, D.C., Sept. 29-Oct. 2, 2013. 
+4. S.Yoon,K.Cao,E.Liu,andA.K.Jain, ”LFIQ:LatentFingerprintImageQuality”,BTAS, Washington, D.C., Sept. 29-Oct. 2, 2013. 
+5. A. A. Paulino, E. Liu, K. Cao, and A. K. Jain, ”Latent Fingerprint Indexing: Fusion of Level 1 and Level 2 Features”, BTAS, Washington, D.C., Sept. 29-Oct. 2, 2013. 
+6. H.P.Silva,A.Loureno,A.Fred,andA.K.Jain, ”FingerECGSignalforUserAuthentication: Usability and Performance”, BTAS, Washington, D.C., Sept. 29-Oct. 2, 2013. 
+7. Q. Zhao, Y. Zhang, A. K. Jain, N. G. Paulter, and M. Taylor, “A Generative Model for Fingerprint Minutiae”, ICB, Madrid, Spain, June 4-7, 2013. 
+8. H. Han, C. Otto, and A. K. Jain, “Age Estimation from Face Images: Human vs. Machine Performance”, ICB, Madrid, Spain, June 4-7, 2013. 
+9. H. Han and A. K. Jain, “Tattoo Based Identification: Sketch to Image Matching”, ICB, Madrid, Spain, June 4-7, 2013. 
+10. E. Liu, S. Arora, K. Cao, and A. K. Jain, “A Feedback Paradigm for Latent Fingerprint Matching”, ICB, Madrid, Spain, June 4-7, 2013. 
+11. S. Klum, H. Han, and A. K. Jain, “Sketch Based Face Recognition: Forensic vs. Composite Sketches”, ICB, Madrid, Spain, June 4-7, 2013. 
+12. S. Yoon and A. K. Jain, “Is There Fingerprint Pattern in the Image?”, ICB, Madrid, Spain, June 4-7, 2013. 
+13. R.Chitta,R.Jin,andA.K.Jain,“EfficientKernelClustering usingRandomFourierFeatures”, ICDM, Brussels, Belgium, Dec. 10-13, 2012. 
+14. J. Yi, T. Yang, R. Jin, and A. K. Jain, “Robust Ensemble Clustering by Matrix Completion”, ICDM, Brussels, Belgium, Dec. 10-13, 2012. 
+15. J.Yi,R.Jin,A.K.Jain,S.Jain,andT.Yang, “Semi-CrowdsourcedClustering:Generalizing CrowdLabelingbyRobustDistanceMetricLearning”,NIPS,LakeTahoe,NE,Dec. 3-6,2012. 
+16. S.Yoon,E.Liu,andA.K.Jain, “OnLatentFingerprintImageQuality”,ICPRIWCFWorkshop, Tsukuba, Japan, Nov. 11, 2012. 
+17. H. Maeng, S. Liao, D. Kang, S.-W. Lee, and A. K. Jain, “Nighttime Face Recognition at Long Distance: Cross-distance and Cross-spectral Matching”, ACCV, Daejeon, Korea, Nov. 5-9, 2012. 
+18. C.Otto,H.Han,andA.K.Jain, “HowDoesAging AffectFacialComponents”,ECCVWIAF Workshop, Florence, Italy, Oct. 7-13, 2012. 
+19. K. Nguyen, A. Sarkar, and A. K. Jain, “Structure and Context in Prostatic Gland Segmentation and Classification”, In: N. Ayache et al. (eds.) MICCAI 2012, LNCS, Vol. 7510, pp. 115-123, Springer, Heidelberg, 2012. 
+20. B. Klare and A. K. Jain, “Face Recognition: Impostor-based Measures of Uniqueness and Quality”, BTAS, Washington, D.C., Sept. 23-26, 2012. 
+21. H. Han and A. K. Jain, “3D Face Texture Modeling from Uncalibrated Frontal and Profile Images”, BTAS, Washington, D.C., Sept. 23-26, 2012. 
+22. Q. Zhao, A. K. Jain, N. G. Paulter, and M. Taylor, “Fingerprint Image Synthesis based on Statistical Feature Models”, BTAS, Washington, D.C., Sept. 23-26, 2012. 
+23. H.S. Choi, M. Boaventura, I. A. G. Boaventura, and A. K. Jain, “Automatic Segmentation of Latent Fingerprints”, BTAS, Washington, D.C., Sept. 23-26, 2012. 
+24. S. Arora, M. Vatsa, R. Singh, and A. K. Jain, “On Iris Camera Interoperability”, BTAS, Washington, D.C., Sept. 23-26, 2012. 
+25. J.Yi,R.Jin,A.K.Jain,andS.Jain, “Crowdclustering withSparsePairwiseLabels:AMatrix Completion Approach”, HCOMP, Toronto, Canada, July 22-23, 2012. 
+26. Y. Zhong, Y. Deng, and A. K. Jain, “Keystroke Dynamics for User Authentication”, CVPR Workshop on Biometrics, Providence, RI, June 16-21, 2012. 
+27. B. Klare, S. S. Bucak, T. Akgul, and A. K. Jain, “Towards Automated Caricature Recognition”, ICB, New Delhi, India, March 29-April 1, 2012. 
+28. S. Yoon, Q. Zhao, and A. K. Jain, “On Matching Altered Fingerprints”, ICB, New Delhi, India, March 29-April 1, 2012. 
+29. S. S. Arora, M. Vatsa, R. Singh, and A. K. Jain, “Iris Recognition Under Alcohol Influence: A Preliminary Study”, ICB, New Delhi, India, March 29-April 1, 2012. 
+30. Z. Lei, C. Zhou, D. Yi, A. K. Jain, and S. Z. Li, “An Improved Coupled Spectral Regression for Heterogeneous Face Recognition”, ICB, New Delhi, India, March 29-April 1, 2012. 
+31. W. Tong, J.-E. Lee, R. Jin, and A. K. Jain, “Gang and Moniker Identification by Graffiti Matching”,InternationalACMWorkshoponMultimedia inForensicsandIntelligence(MiFor), Scottsdale, AZ, Nov. 28 -Dec. 1, 2011. 
+32. Q. Zhao, A. K. Jain, and G. Abramovich, “3D to 2D Fingerprints: Unrolling and Distortion Correction”, IJCB, Washington, DC, Oct. 11-13, 2011. 
+33. H.-S. Choi, A. Nagar, and A. K. Jain, “On the Evidential Value of Fingerprints”, IJCB, Washington, DC, Oct. 11-13, 2011. 
+34. S. Yoon, J. Feng, and A. K. Jain, “Latent Fingerprint Enhancement via Robust Orientation Field Estimation”, IJCB, Washington, DC, Oct. 11-13, 2011. 
+35. A. A. Paulino, J. Feng, and A. K. Jain, “Latent Fingerprint Matching using Descriptor-Based Hough Transform”, IJCB, Washington, DC, Oct. 11-13, 2011. 
+36. R. P. Lemes, O. R. P. Bellon, L. Silva, and A. K. Jain, “Biometric Recognition of Newborns: Identification using Palmprints”, IJCB, Washington, DC, Oct. 11-13, 2011. 
+37. S. Liao and A. K. Jain, “Partial Face Recognition: an Alignment Free Approach”, IJCB, Washington, DC, Oct. 11-13, 2011. 
+38. B. Klare and A. K. Jain, “Face Recognition Across Time Lapse: On Learning Feature Sub-spaces”, IJCB, Washington, DC, Oct. 11-13, 2011. 
+39. B. Klare, A. A. Paulino, and A. K. Jain, “Analysis of Facial Features in Identical Twins”, IJCB, Washington, DC, Oct. 11-13, 2011. 
+40. H. Maeng, H.-C. Choi, U. Park, S.-W. Lee, and A. K. Jain, ”NFRAD: Near-Infrared Face Recognition at a Distance”, IJCB, Washington, DC, Oct. 11-13, 2011. 
+41. K. Nguyen, A. K. Jain, and B. Sabata, “Prostate Cancer Detection: Fusion of Cytological and Textural Features”, MICCAI -Workshop on Histopathology Image Analysis, Toronto, Canada, Sep. 18-22, 2011. 
+42. R. Chitta, R. Jin, T. C. Havens, and A. K. Jain, “Approximate Kernel k-means: solution to Large Scale Kernel Clustering”, KDD, San Diego, CA, August 21-24, 2011. 
+43. S.S.Bucak,R.Jin,andA.K.Jain,“Multi-labelLearning withIncompleteClassAssignments”, CVPR, Colorado Springs, June 21-25, 2011. 
+44. W. Tong, F. Li, T. Yang, R. Jin, A. K. Jain, “A Kernel Density Based Approach for Large ScaleImageRetrieval”,ACMInternationalConference onMultimediaRetrieval,Trento,Italy, April 17-20, 2011. 
+45. T. C. Havens, R. Chitta, A. K. Jain, and R. Jin, “Speedup of Fuzzy and Possibilistic Kernel c-Means for Large-Scale Clustering”, Proc. IEEE Int. Conf. Fuzzy Systems, Taipei, Taiwan, June 27-30, 2011. 
+46. A.K.Jain,B.Klare,andU.Park,“FaceRecognition:SomeChallengesinForensics”,9thIEEE InternationalConference onAutomaticFace andGestureRecognition(FG),SantaBarbara, CA, March 21-25, 2011. 
+47. S. Bucak, R. Jin, A.K. Jain, “Multi-label Multiple Kernel Learning by Stochastic Approximation: Application to Visual Object Recognition,” 24th Annual Neural Information Processing Systems Conference(NIPS 2010), Vancouver, B.C., Canada, December 6-9, 2010. 
+48. B. Klare and A. K. Jain, “On a Taxonomy of Facial Features,” Proc. IEEE Conf. on Biometrics: Theory,Applications andSystems(BTAS),Sept. 27-29,2010. Received the Best Paper Award. 
+49. H.-C. Choi, U. Park, and A. K. Jain, “PTZ Camera Assisted Face Acquisition, Tracking & Recognition,”Proc. IEEEConf. onBiometrics:Theory,ApplicationsandSystems(BTAS), Sept. 27-29, 2010. 
+50. A.Paulino,A.K.JainandJ.Feng, “LatentFingerprintMatching:FusionofManuallyMarked and Derived Minutiae”, SIBGRAPI, Gramado, Brazil, Aug. 31-Sept. 3, 2010. Received the Best Paper Award. 
+51. A. Lourenco, A. L. N. Fred and A. K. Jain,“On the Scalability of Evidence Accumulation Clustering”, ICPR, Istanbul Turkey, August 23-26, 2010. 
+52. P. Mallapragada, R. Jin and A. K. Jain, “Non-parametric Mixture Models for Clustering”, SSSPR, Izmir Turkey, August 18-20, 2010. 
+53. T. Yang, R. Jin, A. K. Jain, Y. Zhou, W. Tong, “Unsupervised Transfer Classification: Application to Text Categorization
+”, KDD, Washington, DC, July 25-28, 2010. 
+54. T.Yang,R.Jin,A.K.Jain, “LearningfromNoisySideInformationbyGeneralizedMaximum Entropy Model”, ICML, Haifa Israel, June 21-24, 2010. 
+55. P. Mallapragada, R. Jin and A. K. Jain, “Online Visual Vocabulary Pruning Using Pairwise Constraints”, CVPR, San Francisco, June 13-18, 2010. 
+56. Q.ZhaoandA.K.Jain,“OntheUtility ofExtendedFingerprintFeatures:AStudy onPores”, CVPR, Workshop on Biometrics, San Francisco, June 18, 2010. 
+57. B. Klare and A.K. Jain, “Heterogeneous Face Recognition: Matching NIR to Visible Light Images”, ICPR, Istanbul, Turkey, August 23-26, 2010. 
+58. K. Nguyen, A.K. Jain and R. Allen, “Automated Gland Segmentation and Classification for Gleason Grading of Prostate Tissue Images”, ICPR, Istanbul Turkey, August 23-26, 2010. Received the Best Paper Award. 
+59. J-E.Lee,R.JinandA.K.Jain, “UnsupervisedEnsembleRanking:ApplicationtoLarge-Scale Image Retrieval”, ICPR, Istanbul Turkey, August 23-26, 2010. 
+60. Y. Lee, U. Park, and A. K. Jain, “PILL-ID Matching and Retrieval of Drug Pill Imprint Images”, ICPR, Istanbul Turkey, August 23-26, 2010. Received the Best Paper Award. 
+61. B. Klare, P. Mallapragada, A. K. Jain and K. Davis, “Clustering Face Carving: Application to Devatas of Angkor Wat”, ICPR, Istanbul Turkey, August 23-26, 2010. 
+62. J. feng, A. K. Jain and A. Ross, “Detecting Altered Fingerprints”, ICPR, Istanbul Turkey, August 23-26, 2010. 
+63. A. Nagar, K. Nandakumar, A. K. Jain, “Biometric Template Transformation: A Security Analysis”,in Proc. of SPIE, Electronic Imaging, Media Forensics and Security XII, San Jose, Jan. 2010. 
+64. S. Yoon, J. Feng, and A. K. Jain, “On Latent Fingerprint Enhancement”, in Proc. of SPIE Defense, Security, and Sensing: Biometrics Technology for Human Identification Conference, Orlando, April 2010. 
+65. K. Niinuma, A. K. Jain, “Continuous User Authentication Using Temporal Information”, in Proc. ofSPIEDefense,Security,andSensing:BiometricsTechnologyforHumanIdentification Conference, Orlando, April 2010. 
+66. B.KlareandA.K.Jain, “Sketch toPhotoMatching:AFeature-basedApproach”,inProc. of SPIEDefense,Security, andSensing: BiometricTechnologyforHumanIdentification,Orlando, April 2010. 
+67. Z. Sun, A. Paulino, J. Feng, Z. Chai, T. Tan, A.K. Jain, ”A Study of Multibiometric Traits of Identical Twins”, in Proc. of SPIE Defense, Security, and Sensing: Biometric Technology for Human Identification, Orlando, April 2010. 
+68. A. Nagar and A. K. Jain, “On the Security of Non-Invertible Fingerprint Template Transforms”, in Proc. of IEEE Workshop on Information Forensics & Security (WIFS), London, Dec. 2009. 
+69. A. K. Jain, J.-E. Lee, R. Jin, and N. Gregg,“Content Based Image Retrieval: An Application to Tattoo Images”, IEEE ICIP, Nov., 2009. 
+70. A. K. Jain, J-E. Lee, and R. Jin,“Graffiti-ID: Matching and Retrieval of Graffiti Images”, ACM MM Workshop, MiFor’09, Oct., 2009. 
+71. Fengjie Li, Wei Tong, Rong Jin, and Anil K. Jain and Jung-Eun Lee,“An Efficient Key Point Quantization Algorithm for Large Scale Image Retrieval”, ACM MM Workshop, LS-MMRM, Oct., 2009. 
+72. A. K. Jain and U. Park,“Facial Marks: Soft Biometric For Face Recognition”, IEEE ICIP, Nov., 2009. 
+73. K. Nandakumar, A. Ross, and A. K. Jain,“Biometric Fusion: Does Modeling Correlation Really Matter?”, in Proc. of Int‘l Conf. on Biometrics: Theory, Applications and Systems, Washington DC, September 2009. Received the Best Paper Award. 
+74. K. Nandakumar, A. K. Jain and A. Ross,“Fusion in Multibiometric Identification Systems: What about the Missing Data?” in Proc. of International conference on Biometrics (ICB), June, 2009. 
+75. J. Feng, S. Yoon, and A. K. Jain,“Latent Fingerprint Matching: Fusion of Rolled and Plain Fingerprints”, inProc. ofInternational conferenceonBiometrics(ICB),June,2009. 
+76. J. Feng, and A. K. Jain,“FM Model Based Fingerprint Reconstruction from Minutiae Template
+”, inProc. ofInternational conferenceonBiometrics(ICB),June,2009. 
+77. Y. Chen and A. K. Jain,“Beyond Minutiae: A Fingerprint Individuality Model with Pattern, Ridge andPoreFeatures”, inProc. ofInternational conference onBiometrics(ICB),June, 2009. Received the Best Paper Award. 
+78. A. L. N. Fred and A. K. Jain,“Cluster Validation Using a Probabilistic Attributed Graph”, in Proc. ofInternationalConferenceonPatternRecognition(ICPR),Tampa,December,2008. 
+79. P.K.Mallapragada,R.Jin andA.K.Jain,“ActiveQuerySelectionforSemi-SupervisedClustering
+”, inProc. ofInternationalConferenceonPatternRecognition(ICPR),Tampa,December, 2008. 
+80. J. Feng and A. K. Jain,“Filtering Large Fingerprint Database for Latent Matching”, in Proc. ofInternationalConference onPatternRecognition(ICPR),Tampa,December,2008. 
+81. A. Nagar, K. Nandakumar and A. K. Jain,“Securing Fingerprint Template: Fuzzy Vault with MinutiaeDescriptors”, inProc. ofInternationalConferenceonPatternRecognition(ICPR), December, 2008. Received the Best Paper Award. 
+82. J-E.Lee,A.K.Jain andR.Jin,“Scars,MarksandTattoos(SMT):SoftBiometricforSuspect and Victim Identification”, in Proc. Biometric Symposium, BCC, September, 2008. Received the Best Paper Award. 
+83. K. Nandakumar and A. K. Jain,“Multibiometric Template Security Using Fuzzy Vault”, in BTAS’08, September 2008. 
+84. J-E. Lee, R. Jin and A. K. Jain,“Rank-based Distance Metric Learning: An Application to Image Retrieval”, in Proc.. of CVPR, Alaska, June 2008. 
+85. A.K.Jain,J.Feng,A.NagarandK.Nandakumar,“OnMatching LatentFingerprints”,IEEE Computer Society Workshop on Biometrics, CVPR, Anchorage, Alaska, June 2008. 
+86. Y.C. Feng, P.C. Yuen and A.K. Jain,“A Hybrid Approach for Face Template Protection”, in Proc. of SPIE Conference of Biometric Technology for Human Identification V, Vol. 6944, Orlando, March 2008. 
+87. U. Park, S. Pankanti and A.K. Jain,“Fingerprint Verification Using SIFT Features”, in Proc. of SPIE Conference of Biometric Technology for Human Identification V, Vol. 6944, Orlando, March 2008. 
+88. A.K.Jain,J.-E.LeeandR.Jin,“Tattoo-ID:AutomaticTattooImageRetrievalforSuspect& VictimIdentification”,Proc. ofPacific-RimConferenceonMultimedia(PCM),pp. 256-265, Hong Kong, December 2007. 
+89. R. K. Rowe, U. Uludag, M. Demirkus, S. Parthasaradhi and A. K. Jain,“A Multispectral Whole-hand Biometric Authentication System”, Proc. of Biometric Symposium, BCC, Baltimore, September 2007. 
+90. Y. Chen and A. K. Jain,“Dots and Incipients: Extended Features for Partial Fingerprint Matching”, Proc. of Biometric Symposium, BCC, Baltimore, September, 2007. Received the Best Paper Award. 
+91. H. Gamboa, A. L. N. Fred and A. K. Jain,“Webbiometrics: User Verification Via Web Interaction”, Proc. of Biometric Symposium, BCC, Baltimore, September 2007. 
+92. Y.Liu,R.JinandA.K.Jain,“BoostCluster:BoostingClusteringbyPairwiseConstraints”, in 13thInternationalConference onKnowledgeDiscovery andData Mining(KDD),pp. 450-459, San Jose, USA, August 2007. 
+93. K. Nandakumar, A. Nagar and A.K. Jain,“Hardening Fingerprint-based Fuzzy Vault Using Password”,inProc. of2ndInternationalConferenceonBiometrics(ICB),pp. 927-937,Seoul, South Korea, August 2007. 
+94. U. Park and A.K. Jain,“3D Model-Based Face Recognition in Video”, in Proc. of 2nd InternationalConference onBiometrics(ICB),Seoul,SouthKorea,pp. 1085-1094,August,2007. 
+95. U. Park, A.K. Jain and A. Ross,“Face Recognition in Video: Adaptive Fusion of Multiple Matchers”,IEEEComputerSocietyWorkshoponBiometrics,CVPR,Minneapolis,USA,June 2007. 
+96. K. Nandakumar, Y. Chen, S.C. Dass and A.K. Jain,“Quality-based Score Level Fusion in MultibiometricSystems”,inProc. ofInternationalConferenceonPatternRecognition(ICPR), Vol. 4, pp. 473-476, Hong Kong, August 2006. 
+97. Y. Chen, M. Demirkus and A.K. Jain,“Pores and Ridges: Fingerprint Matching Using Level 3Features”, inProc. ofInternationalConferenceonPatternRecognition(ICPR),Vol.4,pp. 477-480, Hong Kong, August 2006. 
+98. C.Ryu,H.KimandA.K.Jain,“TemplateAdaptationbasedFingerprintVerification”, inProc. ofInternationalConference onPatternRecognition(ICPR),Vol. 4,pp. 582-585,Hong Kong, August, 2006. 
+99. Y.Zhu,S.C.DassandA.K.Jain,“CompoundStochasticModelsforFingerprintIndividuality”, in Proc. of International Conference on Pattern Recognition (ICPR), Vol. 3, pp. 532-535, Hong Kong, August, 2006. 
+100. U. Park and A.K. Jain,“ViSE: Visual Search Engine Using Multiple Networked Cameras”, in Proc. of International Conference on Pattern Recognition (ICPR), Vol. 3, pp. 1204-1207, Hong Kong, August, 2006. 
+101. A.Fred andA.K.Jain,“LearningPairwiseSimilarityforDataClustering”,inProc. ofInternationalConferenceonPatternRecognition(ICPR),Vol.1,pp. 925 -928,Hong Kong,August, 2006. Received the Best Paper Award. 
+102. A.K.Jain,P.K.MallapragadaandM.Law,.“BayesianFeedbackinDataClustering”, inProc. ofInternationalConference onPatternRecognition(ICPR),Vol. 3,pp. 374-378,Hong Kong, August, 2006. 
+103. U. Uludag and A.K. Jain,“Securing fingerprint template: fuzzy vault with helper data”, in Proc. IEEE Workshop on Privacy Research in Vision, pp. 163, New York, NY, June, 2006. 
+104. X. Lu and A. K. Jain,“ Deformation Modeling for Robust 3D Face Matching”, Proc. IEEE ComputerSocietyConference onComputerVision andPatternRecognition(CVPR2006),Vol. 2, pp. 1377-1383, New York, June, 2006. 
+105. U. Park and A.K. Jain,“3D Face Reconstruction from Stereo Video”, Proc. First InternationalWorkshop onVideoProcessingforSecurity(VP4S-06) inThirdCanadianConference onComputer andRobotVision(CRV’06),QuebecCity,Canada,June,2006. 
+106. X. Lu and A. K. Jain,“Automatic Feature Extraction for Multiview 3D Face Recognition”, Proc. 7thIEEEInternationalConference onAutomaticFace andGestureRecognition(FG2006), pp. 585-590, Southampton, UK, Apr. 2006. 
+107. X. Lu, H. Chen, and A. K. Jain,“Multimodal Facial Gender and Ethnicity Identification”, Proc. of IAPR Int’l Conf. on Biometrics, pp. 554-561, Hong Kong, Jan., 2006. 
+108. J.Fierrez-Aguilar,Y.Chen,J.Ortega-GarciaandA.K.Jain,“Incorporating imagequality in multi-algorithm fingerprint verification”, Proc. IAPR Int’l. Conf. on Biometrics, pp.213-220, Hong Kong, Jan., 2006. Received the Best Student Paper Award. 
+109. Y.Chen,S.C.Dass andA.K.Jain,“LocalizedIrisImageQuality Using 2-DWavelets”,Proc. IAPR Intl. Conf. on Biometrics, pp. 373-381, Hong Kong, Jan., 2006. 
+110. J.Fierrez-Aguilar,S.Krawczyk,J.Ortega-GarciaandA.K.Jain,“Fusionof local and regional approachesfor on-line signature verification”,Proc. In’tl. WorkshoponBiometricRecognition Systems, pp. 188-196, Beijing, China, Oct., 2005. 
+111. A. N. Marana and A. K. Jain,“ Ridge-Based Fingerprint Matching Using Hough Transform”, Proc. ofBrazilianSymposiumonComputerGraphicsandImageProcessing(SIBGRAPI), pp. 112-119, Natal, Brazil , Oct., 2005. 
+112. S. C. Dass, Y. Zhu and A. K. Jain,“Statistical Models for Assessing the Individuality of Fingerprints”,Proc. FourthIEEE workshop onAutomaticIdentificationAdvancedTechnologies, pp. 3-9, Buffalo, NY, Oct., 2005. 
+113. M.E. Farmer, S.B. Farmer and A.K. Jain,“Non-parametric Feature Selection for Image-based Airbag Suppression”, Proc. Applied Statistics Conf., Slovenia, Sept. 18-21, 2005. 
+114. U. Uludag, S. Pankanti and A.K. Jain,“Fuzzy vault for fingerprints”, Proc. 5th Int’l Conf. on Audio-andVideo-BasedBiometricPersonAuthentication(AVBPA),pp. 310-319,RyeBrook, NY, July, 2005. Received the Best Student Paper Award. 
+115. S.C. Dass, K. Nandakumar and A.K. Jain,“A Principled Approach to Score Level Fusion in Multimodal Biometric Systems”, Proc. 5th Int’l Conf. on Audio-and Video-Based Biometric PersonAuthentication(AVBPA),pp. 1049-1058,RyeBrook,NY,July,2005. 
+116. Y.Chen,S.C.Dass, andA.K.Jain,“FingerprintQualityIndicesforPredictingAuthentication Performance”, Proc. 5th Int’l Conf. on Audio-and Video-Based Biometric Person Authentication , pp. 160-170, Rye Brook, NY, July, 2005. 
+117. S. Krawczyk and A.K. Jain,“Securing Electronic Medical Records using Biometric Authentication”, Proc. 5th Int’l Conf. on Audio-and Video-Based Biometric Person Authentication (AVBPA), pp. 1110-1119, Rye Brook, NY, July, 2005. 
+118. T.Lange,M.H.Law,A.K.JainandJ.Buhmann,“LearningWithConstrainedandUnlabelled Data”, Proc. of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, vol. 1, pp. 730-737, San Diego, CA, June 2005. 
+119. D.Colbry,G.StockmanandA.K.Jain,“DetectionofAnchorPointsfor3DFaceVerification”, Proc. IEEE Workshop on Advanced 3D Imaging for Safety and Security A3DISS, San Diego, CA, June 25, 2005. 
+120. U. Park, H. Chen and A.K. Jain,“3D Model-assisted Face Recognition in Video”, Proc. of 2nd Workshop on Face Processing in Video, in conjunction with AI/GI/CRV’05, pp. 322329,Victoria, Canada, May, 2005. 
+121. A.K.JainandH.Chen,“Registrationofdental atlastoradiographsforhuman identification”, Proc. SPIE Conference of Biometric Technology for Human Identification II, Vol. 5779, pp. 292-298, Orlando, Florida, Mar-Apr, 2005. 
+122. A.Ross,J.Shah andA.K.Jain,“TowardsReconstructingFingerprintsfromMinutiaePoints”, Proc. SPIE Conference on Biometric Technology for Human Identification II, Vol. 5779, pp. 68-80, Orlando, Florida, Mar-Apr, 2005. 
+123. X.Lu,A.K.JainandS.C.Dass,“3DFacialExpressionModelingforRecognition”,Proc. SPIE Conference on Biometric Technology for Human Identification II, Vol. 5779, pp. 113-121, Orlando, Florida, Mar-Apr, 2005. 
+124. H.ChenandA.K.Jain,“DentalBiometrics:Alignment andMatching ofDentalRadiographs”, Proc. WACV (Workshop on Applications of Computer Vision), pp. 316-321, Breckenridge, Colorado, Jan. 2005. 
+125. Y. Chen, S. Dass, A. Ross and A.K. Jain,“Fingerprint Deformation Models Using Minutiae Locations andOrientations”,Proc. WACV(Workshop onApplications ofComputerVision), pp. 150-155, Breckenridge, Colorado, Jan. 2005. 
+126. X. Lu and A.K. Jain,“Integrating range and texture information for 3D face recognition”, Proc. WACV (Workshop on Applications of Computer Vision), pp. 156-163, Breckenridge, Colorado, Jan. 2005. 
+127. X.Lu andA.K.Jain,“DeformationAnalysisfor3DFaceMatching”,Proc. WACV(Workshop on Applications of Computer Vision), pp. 99-104, Breckenridge, Colorado, Jan. 2005. 
+128. A. Topchy, M.H. Law, A.K. Jain and A. Fred,“Analysis of Consensus Partition in Cluster Ensemble”,Proc. FourthIEEEInternationalConference onDataMining,pp. 225-232,Brighton, UK, Nov. , 2004. 
+129. H. Chen and A.K. Jain,“Tooth Contour Extraction for Matching Dental Radiographs”, Proc. ICPR 2004, vol. III, pp. 522-525, Cambridge, UK, Aug. 2004. 
+130. A.K.Jain,A.Topchy,M.H.C.LawandJ.M.Buhmann,“LandscapeofClusteringAlgorithms”, Proc. ICPR 2004, vol. I, pp. 260-263, Cambridge, UK, Aug. 2004. 
+131. A. Topchy, B. Minaei-Bidgoli, A.K. Jain and W.F. Punch,“Adaptive Clustering Ensembles”, Proc. ICPR 2004, vol. I, pp. 272-275, Cambridge, UK, Aug. 2004. 
+132. X. Lu, D. Colbry and A.K. Jain,“Three-dimensional Model Based Face Recognition”, Proc. ICPR 2004, vol. I, pp. 362-366, Cambridge, UK, Aug. 2004. 
+133. M.E. Farmer and A.K. Jain,“A Wrapper-based Approach to Image Segmentation and Classification”, Proc. ICPR 2004, vol. II, pp. 106-109, Cambridge, UK, Aug. 2004. 
+134. M.E.Farmer,S.BapnaandA.K.Jain,“LargeScaleFeatureSelectionUsingModifiedRandom MutationHillClimbing”,Proc. ICPR2004,vol.II,pp. 287-290,Cambridge,UK,Aug. 2004. 
+135. A.M. Namboodiri and A.K. Jain,“Retrieval of On-line Hand-Drawn Sketches”, Proc. ICPR 2004, vol. II, pp. 642-645, Cambridge, UK, Aug. 2004. 
+136. A.K.Jain,S.Pankanti,S.Prabhakar,L.Hong andA.Ross,“Biometrics:AGrandChallenge”, Proc. ICPR 2004, vol. II, pp. 935-942, Cambridge, UK, Aug. 2004. 
+137. U.Uludag andA.K.Jain,“FuzzyFingerprintVault”,Proc. Workshop:Biometrics:Challenges Arising fromTheory toPractice,pp. 13-16,Cambridge,UK,Aug. 2004. 
+138. G. Fahmy, D. Nassar, E. Haj-Said, H. Chen, O. Nomir, J. Zhou, R. Howell, H. H. Ammar, M. Abdel-Mottaleb and A. K. Jain,“Towards an Automated Dental Identification System (ADIS)”,Proc. InternationalConference onBiometricAuthentication(ICBA),pp. 789-796, Hong Kong, July 2004. 
+139. A.K. Jain, S.C. Dass and K. Nandakumar,“Soft Biometric Traits for Personal Recognition Systems”,Proc. InternationalConference onBiometricAuthentication(ICBA),pp. 731-738, Hong Kong, July 2004. 
+140. X. Lu, D. Colbry and A.K. Jain,“Matching 2.5D Scans for Face Recognition”, Proc. InternationalConference onBiometricAuthentication(ICBA),pp. 30-36,Hong Kong,July2004. 
+141. X. Lu, R. Hsu, A. Jain, B. Kamgar-Parsi and B. Kamgar-Parsi,“Face Recognition with 3D Model-BasedSynthesis”,Proc. InternationalConference onBiometricAuthentication(ICBA), pp. 139-146, Hong Kong, July 2004. 
+142. A. Ross, S. Dass and A.K. Jain,“Estimating Fingerprint Deformation”, Proc. of International Conference onBiometricAuthentication(ICBA),pp. 249-255,Hong Kong,July2004. 
+143. D. Maio, D. Maltoni, R. Cappelli, J.L. Wayman and A.K. Jain,“FVC2004: Third Fingerprint Verification Competition”, Proc. International Conference on Biometric Authentication (ICBA), pp. 1-7, Hong Kong, July 2004. 
+144. A.M.Namboodiri,S.Saini,X.Lu,andA.K.Jain,“SkilledForgeryDetection inOn-lineSignatures: A Multimodal Approach”,Proc. InternationalConference on BiometricAuthentication (ICBA), pp. 505-511, Hong Kong, July 2004. 
+145. A. Ross and A.K. Jain,“Biometric Sensor Interoperability: A Case Study in Fingerprints”, Proc. of International ECCV Workshop on Biometric Authentication (BioAW), (Prague), LNCS vol. 3087,pp. 134-145,SpringerPublishers,May 2004. 
+146. A.K. Jain, K. Nandakumar, X. Lu, and U. Park,“Integrating Faces, Fingerprints, and Soft Biometric Traits for User Recognition”, Proceedings of Biometric Authentication Workshop, in conjunction withECCV2004,LNCS3087,pp. 259-269,Prague,May 2004. 
+147. A. Topchy, A.K. Jain and W. Punch,“A Mixture Model for Clustering Ensembles”, Proc. SIAMInternationalConference onDataMining(SDM04),Florida,April22-24,2004. 
+148. M.H. Law, N. Zhang and A.K. Jain,“Nonlinear Manifold Learning for Data Stream”, Proc. SIAM International Conference on Data Mining (SDM04), pp. 33-44, Florida, April 22-24, 2004. Received the Best Student Paper Award. 
+149. A.K. Jain, S.C. Dass and K. Nandakumar,“Can Soft Biometric Traits Assist User Recognition?”, Proc. SPIE Defense and Security Symposium, pp. 561-572, Orlando, FL, April 12-16, 2004. 
+150. X. Lu and A.K. Jain,“Ethnicity Identification from Face Images”, Proc. SPIE Defense and Security Symposium, pp. 114-123, Orlando, FL, April 12-16, 2004. 
+151. U. Uludag and A.K. Jain,“Attacks on Biometric Systems: A Case Study in Fingerprints”, Proc. SPIE-EI2004,pp. 622-633,SanJose,CA,Jan. 18-22,2004. 
+152. A.M. Namboodiri and A.K. Jain,“Watermarking Document Images for Authentication Using On-lineSignature”,Proc. SPIE-EI2004,pp. 653-662,SanJose,CA,Jan. 18-22,2004. 
+153. M. Indovina, U. Uludag, R. Snelick, A. Mink and A. Jain,“Multimodal Biometric Authentication Methods: A COTS Approach”, Proc. MMUA 2003, Workshop on Multimodal User Authentication,SantaBarbara,CA,Dec. 11-12,2003,pp. 99-106. 
+154. M.E. Farmer and A.K. Jain,“Integrated segmentation and classification for automotive airbag suppression”,Proc. ICIP2003(IEEEInternationalConferenceonImageProcessing),Sept. 2003. 
+155. A.K. Jain and A. Namboodiri,“Indexing and Retrieval of On-line Handwritten Documents”, Proc. Seventh International Conference on Document Analysis and Recognition, Aug. 2003, Edinburgh, Scotland, pp. 655-659. 
+156. X. Lu, Y. Wang and A.K. Jain,“Combining Classifiers for Face Recognition”, Proc. ICME 2003(IEEE InternationalConference onMultimedia & Expo), Baltimore,MD, July 6-9,2003, pp. 13-16. 
+157. U. Uludag and A.K. Jain,“Multimedia Content Protection via Biometrics-based Encryption”, Proc. ICME2003(IEEEInternationalConference onMultimedia&Expo),Baltimore,MD, July6-9,2003,pp. 237-240. 
+158. A.L.N. Fred and A.K. Jain,“Robust Data Clustering”, Proc. IEEE Computer Society Conference onComputerVision andPatternRecognition(CVPR),Madison,Wisconsin,June16-22, 2003. 
+159. M.E.Farmer andA.K.Jain,“OccupantClassificationSystemforAutomotiveAirbag Suppres-sion”,Proc. IEEEComputerSocietyConference onComputerVision andPatternRecognition (CVPR), Madison, Wisconsin, June 16-22, 2003. 
+160. A. Kumar, D.C.M. Wong, H.C. Shen and A.K. Jain,“Personal Verification Using Palmprint andHandGeometryBiometric”,Proc. of4thInt’lConf. onAudio-andVideo-BasedBiometric Person Authentication(AVBPA), Guildford, UK, June 9-11, 2003. 
+161. Y. Wang, T. Tan and A.K. Jain,“Combining Face and Iris Biometrics for Identity Verification”, Proc. of 4th Int’l Conf. on Audio-and Video-Based Biometric Person Authentication (AVBPA), Guildford, UK, June 9-11, 2003. 
+162. A.K. Jain, H. Chen and S. Minut,“Dental Biometrics: Human Identification Using Dental Radiographs”,Proc. of4thInt’lConf. onAudio-andVideo-BasedBiometricPersonAuthentication(AVBPA), Guildford, UK, June 9-11, 2003. 
+163. A.K. Jain, U. Uludag and A. Ross,“Biometric Template Selection: A Case Study in Fingerprints”, Proc. of 4th Int’l Conf. on Audio-and Video-Based Biometric Person Authentication (AVBPA), Guildford, UK, June 9-11, 2003. 
+164. B.Kamgar-Parsi,B.Kamgar-ParsiandA.K.Jain,“SyntheticEyes”,Proc. of4thInt’lConf on Audio-andVideo-BasedPersonAuthentication(AVBPA),Guildford,UK,June9-11,2003. 
+165. X. Lu and A.K. Jain,“Resampling for Face Recognition”, Proc. of 4th Int’l Conf. on AudioandVideo-BasedBiometricPersonAuthentication(AVBPA),Guildford, UK,June9-11,2003. 
+166. M. H. Law, M. Figueiredo, A. K. Jain.“Feature selection in mixture-based clustering”, Proc. Advances inNeuralInformationProcessing Systems15(NIPS),pp. 609-616,2002. 
+167. R.L. Hsu and A.K. Jain,“Semantic Face Matching”, Proc. IEEE International Conference Multimedia andExpo(ICME),Lausanne,Aug. 2002. 
+168. A. Ross and A.K. Jain,“Fingerprint Matching Using Feature Space Correlation”, Proc. of ECCV Workshop on Biometric Authentication, Denmark, June 1, 2002. 
+169. A.K.JainandA.Ross,“FingerprintMosaicking”,Proc. ofIEEEInternationalConferenceon Acoustics,Speech andSignalProcessing(ICASSP),Orlando,FL,May 13-17,2002. 
+170. A.K.JainandA.Ross“LearningUsed-SpecificParameters inaMultibiometricSystem”,Proc. of International Conference on Image Processing, Rochester, New York, Sept. 22-25, 2002. 
+171. A.K. Jain and U. Uludag,“Hiding Fingerprint Minutiae into Images”, Proc. AutoID02, White Plains,NY,March2002,pp. 97-102. 
+172. A. K. Jain, U. Uludag and R.L. Hsu,“Hiding a Face in a Fingerprint Image”, Proc. ICPR, QuebecCity,Aug. 2002,pp. 756-759. 
+173. M.Farmer,R.L.Hsu andA.K.Jain,“InteractingMultipleModel(IMM) KalmanFiltersfor Robust High Speed Human Motion Tracking”, Proc. ICPR, Quebec City, Aug. 2002, pp. 20-23. 
+174. A. Ross, J. Reisman and A.K. Jain,“A Hybrid Fingerprint Matcher”, Proc. ICPR, Quebec City,Aug. 2002,pp. 795-798. 
+175. S. Dass, X. Lu and A.K. Jain,“Face Detection and Synthesis using Markov Random Field Models”,Proc. ICPR,QuebecCity,Aug. 2002,pp. 201-204. 
+176. A.Fred andA.K.Jain,“DataClusteringUsingEvidenceAccumulation”,Proc. ICPR,Quebec City,Aug. 2002,pp. 276-280. 
+177. A. K. Jain, X. Xu, T. Ho, F. Xiao, “Uniformity Testing Using Minimal Spanning Tree”, Proc. ICPR,QuebecCity,Aug. 2002,pp. 281-284. 
+178. A. Namboodri and A.K. Jain,“On-line Script Recognition”, Proc. ICPR, Quebec City, Aug. 2002,pp. 736-739. 
+179. A.K.JainandS.Minut,“HierarchicalKernelFitting forFingerprintClassificationandFiltering”,Proc. ICPR,QuebecCity,Aug. 2002,pp. 469-473. 
+180. A.Fred andA.K.Jain,“EvidenceAccumulationClusteringBased ontheK-MeansAlgorithm”, Proc. SSPR2002,Windsor,Aug. 2002,pp. 442-451. 
+181. D.Maio,D.Maltoni,R.Cappelli,J.L.WaymanandA.K.Jain,“FVC2002:SecondFingerprint VerificationCompetition”,Proc. ICPR,QuebecCity,Aug2002,pp. 811-814. 
+182. Guo-DangGuo,A.K.Jain,Wei-YingMaandHong-JiangZhang,“LearningSimilarityMeasure for Natural Image Retrieval with Relevance Feedback,” Proc. IEEE CVPR Conf., pp. I 731736, Dec. 2001. 
+183. M.A.T.FigueridoandA.K.Jain,“BayesianLearningofSparseClassifiers”,Proc. IEEECVPR Conf., pp. 35-41, Dec. 2001. 
+184. S. Pankanti, S. Prabhakar and A.K. Jain,“On the Individuality of Fingerprints”, Proc. IEEE CVPR Conf., pp.805-812, Dec. 2001. 
+185. A. Namboodri and A.K. Jain,“Structure in On-line Documents”, Proc. ICDAR, pp. 844-848, Seattle, Sept. 2001. 
+186. A.K. Jain, A. Ross and S. Prabhakar,“Fingerprint Matching Using Minutiae and Texture Features”,Proc. ICIP,Thessaloniki,pp. 282-285,Oct. 2001. 
+187. Rien-Lin Hsu and A.K. Jain,“Face Modeling for Recognition”, Proc. ICIP, Thessaloniki, pp. 693-696, Oct. 2001. 
+188. Rien-Lin Hsu, M. Abdel-Mottaleb and A.K. Jain,“Face Detection in Color Images”, Proc. ICIP,Thessaloniki,pp. 1046-1049,Oct. 2001. 
+189. S. Dass and A.K. Jain,“Markov Face Models”, Proc. ICCV, Vancouver, pp. 680-687, July 2001. 
+190. D. Gutchess, M. Trajkovic, E. Cohen-Soleil, D. Lyons and A.K. Jain,“A Background InitializationAlgorithmforVideoSurveillance”,Proc. ICCV,Vancouver,pp. 733-740,July2001. 
+191. S. Prabhakar and A.K. Jain,“Decision Level Fusion in Fingerprint Verification”, Proc. 2nd Int’l. Conf. on Multiple Classifier Systems, Cambridge, pp. 88-98, July 2001. 
+192. A.K. Jain, S. Prabhakar and S. Pankanti,“Twin Test: On Discriminability of Fingerprints”, Proc. 3rd AVBPA Conf., Halmstad, Sweden, pp. 211-216, July 2001. 
+193. A.Ross,A.K.JainandJianZongQian,“InformationFusion inBiometrics”,Proc.3rdAVBPA Conf., Halmstad, Sweden, pp. 354-359, June 2001. 
+194. B. Kamgar-Parsi, B. Kamgar-Parsi, J. Dayhoff and A.K. Jain,“Avoiding Metric Similarity Measure in ATR” SPIE Aerosense, Orlando, FL, April 24-28, 2000, Padova, Italy. 
+195. N. Ratha, A.K. Jain and D. Rover,“FPGA-Based Coprocessor for Text String Extraction”, Proc. Computer Architecture for Machine Perception 2000, Padova, Sept. 2000. 
+196. A.Vailaya and A.K. Jain,“Reject Option for VQ-Based Bayesian Classification”, Proc. 15th Int’lConference onPatternRecognition,Barcelona,pp. 48-51,Sept. 2000. 
+197. S. Connell, R.M.K. Sinha and A.K. Jain,“Recognition of Unconstrained On-Line Devanagari Characters”, Proc. 15th Int’l. Conference on Pattern Recognition, Barcelona, pp. 368-371, Sept. 2000. 
+198. S. Prabhakar, A.K. Jain, J. Wang, S. Pankanti and R. Bolle,“Minutia Verification and Classification for Fingerprint Matching”” Proc. 15th Int’l. Conference on Pattern Recognition, Barcelona,pp. 25-29,Sept. 2000. 
+199. M. Figueiredo and A.K. Jain,“Unsupervised Selection and Estimation of Finite Mixture Mod-els”,Proc. 15thInt’l. Conference onPatternRecognition,Barcelona,pp. 87-90,Sept. 2000. 
+200. D. Gutchess and A.K. Jain,“Automatic Surveillance Using Omnidirectional and Active Cameras”, Proc. 4th Asian Conf. Computer Vision, Taipei, Jan. 2000. 
+201. R.L.Hsu,A.K.JainandM.Tuceryan,“MultiresolutionModelCompressionUsing3DWavelets”, Proc. 4th Asian Conf. Computer Vision, Taipei, Jan. 2000. 
+202. A. Vailaya and A.K. Jain,“Detecting Sky and Vegetation in Outdoor Images”, Proc. SPIE Conf., San Jose, Jan. 2000. 
+203. L.Hong,A.K.JainandS.Pankanti,“CanMultibiometricsImprovePerformance?”,Proc.Auto ID ’99,Oct. 28-29,1999,pp. 59-64,Summit,NJ. 
+204. R.L. Hsu, S. Chen and A.K. Jain,“Local Weight Selection for Two-Dimensional Phase Unwrapping”, Proc. Int’l. Conf. Image Processing. Oct. 1999, Kobe, Japan. 
+205. A.K. Jain and N. Duta,“Deformable Matching of Hand Shapes for User Verification”, Proc. Int’l. Conf. Image Processing, Oct. 1999, Kobe, Japan. 
+206. A. Vailaya and A.K. Jain,“Incremental Learning for Bayesian Image Classification”, Proc. Int’l. Conf. Image Processing, Oct. 1999, Kobe, Japan. 
+207. A. Vailaya, H.J. Zhang and A.K. Jain,“Automatic Image Orientation Detection”, Proc. Int’l. Conf. ImageProcessing,Oct. 1999,Kobe,Japan. A.Vailayareceived theBestStudentPaper Award at Int’l. Conf. Image Processing. 
+208. Y. Zhong, H.J. Zhang and A.K. Jain,“Text Location in Compressed Images”, Proc. Int’l. Conf. Image Processing, Oct. 1999, Kobe, Japan. 
+209. S. Connell and A.K. Jain,“Writer Adaptation of on-line Handwriting Models”, Proc. of 5th Int’l. Conf. Document Analysis and Recognition, Bangalore, India, pp. 434-437, Sept. 1999. 
+210. N. Duta, A.K. Jain and M.P. Dubuisson-Jolly,“Learning-based Object Detection in Cardiac MR Images”, Proc. Int’l. Conf. Computer Vision, Corfu, Greece, Sept. 1999. 
+211. N. Duta and A.K. Jain,“Learning 2D Shape Models”, Proc. Computer Vision and Pattern Recognition ’99, Ft. Collins, pp. 8-13, June 1999. 
+212. N. Duta, M. Sonka and A.K. Jain,“Learning Shape Models from Examples Using Automatic Shape Clustering and Procrustes Analysis”, Proc. IPMI ’99, June 1999. 
+213. R. Lundervold, N. Duta, T. Taxt and A.K. Jain,“Model-Guided Segmentation of Corpus Callosum in MR Images”, Proc. Computer Vision and Pattern Recognition ’99, Ft. Collins, pp. 231-237, June 1999. 
+214. A.K.Jain,S.Prabhakar,L.Hong, andS.Pankanti,“Fingercode:AFilterbankforFingerprint Representation and Matching”, Proc. Computer Vision and Pattern Recognition ’99, Ft. Collins, pp. 187-192, June 1999. 
+215. A.Vailaya,M.Figueiredo,A.K.JainandH.-J.Zhang,“Content-BasedHierarchicalClassification of Vacation Images”, Proc. IEEE Multimedia Systems ’99, Florence, pp. 519-523, June 1999. 
+216. B. Kamgar-Parsi, B. Kamgar-Parsi and A.K. Jain,“Automatic Aircraft Recognition: Toward Using Human Similarity Measure in a Recognition System”, Proc. Computer Vision and Pattern Recognition ’99, Ft. Collins, pp. 268-273, June 1999. 
+217. A.K. Jain, A. Ross and S. Pankanti,“A Prototype Hand Geometry-Based Verification System”, Proc. Second Int’l. Conf. on Audio and Video-based Biometric Person Authentication, Washington, D.C., pp. 166-171, March 1999. 
+218. A.K. Jain, L. Hong and Y. Kulkarni,“A Multimodal Biometric System Using Fingerprint, Face and Speech”, Proc. Second Int’l. Conf. on Audio and Video-based Biometric Person Authentication, Washington, D.C., March 1999. 
+219. A.K.Jain,S.PrabhakarandL.Hong,“AMultichannelApproachtoFingerprintClassification”, Indian Conf. Computer Graphics, Vision and Image Processing, New Delhi, Dec. 1998. 
+220. A.K. Jain and B. Yu,“Automatic Text Location in Images and Video Frames”, Proc. 14th Int’l. Conf. PatternRecognition,Brisbane,pp. 1497-1499,pp. 1497-1499,Aug. 1998. 
+221. Y. Li and A.K. Jain,“Classification of Text Documents”, Proc. 14th Int’l. Conf. Pattern Recognition, Brisbane, pp. 1295-1297, Aug. 1998. 
+222. A.K. Jain, L. Hong, and Yatin Kulkarni,“F2ID: A Personal Identification System Using Faces and Fingerprints”, Proc. 14th Int’l. Conf. Pattern Recognition, Brisbane, pp. 1373-1375, Aug. 1998. 
+223. J. Liu and A.K. Jain,“Image-Based Form Document Retrieval”, Proc. 14th Int’l. Conf. PatternRecognition,Brisbane,pp. 626-628,Aug. 1998. 
+224. N. Duta and A.K. Jain,“Learning the Human Face Concept from Black and White Pictures”, Proc. 14thInt’l. Conf. PatternRecognition,Brisbane,pp. 1365-1367,Aug. 1998. 
+225. S. Connell and A.K. Jain,“Learning Prototypes for On-Line Handwritten Digits”, Proc. 14th Int’l. Conf. Pattern Recognition, Brisbane, pp. 182-184, Aug. 1998. 
+226. A.K. Jain, A. Vailaya and W. Xiong,“Query by Video Clip”, Proc. 14th Int’l. Conf. Pattern Recognition, Brisbane, pp. 909-911, Aug. 1998. 
+227. J. Strand, Y. Li, A.K. Jain and C. Mercer,“Three-Dimensional Object Model Construction from Multiple Range Views”, Proc. SPIE Conf. Laser Interferometry IX: Techniques and Analysis, Vol. 3478, San Diego, July 1998. 
+228. L. Hong, Y. Wan and A.K. Jain,“Fingerprint Image Enhancement: Algorithms and Performance Evaluation”, Proc. IEEE Comp. Soc. Workshop on Empirical Evaluation Techniques inComputerVision,SantaBarbara,June1998,pp. 117-134. 
+229. A.Vailaya,A.K.JainandH.J.Zhang,“OnImageClassification:CityversusLandscape”,IEEE Workshop on Content-based Access of Image Databases, June 23, 1998, Santa Barbara. 
+230. A. Sudhir, C.M. Lee and A.K. Jain,“Automatic Classification of Tennis Video for High-Level Content-Based Retrieval”, Proc. Workshop on Content-Based Retrieval, Jan. 3, 1998, Bombay. 
+231. L.Hong andA.K.Jain,“IntegratingFacesandFingerprintsforPersonalIdentification”,Proc. 3rd Asian Conf. Computer Vision, Hong Kong, Jan. 1998. 
+232. Y. Zhong, M.-P. Jolly and A.K. Jain,“Object Tracking Using Deformable Templates”, Proc. 5th Int’l. Cong. Computer Vision, Bombay, Jan. 1998. 
+233. N.K.RathaandA.K.Jain,“FPGA-BasedComputing inComputerVision”,Proc. IEEEConf. OnComputerArchitectureforMachinePerception,(CAMP’97),Boston,pp. 128-137,Oct. 1997. 
+234. N.K. Ratha and A.K. Jain,“Multilayer Perceptron on Splash-2”, Proc. IEEE Conf. On ComputerArchitectureforMachinePerception(CAMP-97),Boston,pp. 138-142,Oct. 1997. 
+235. B. Yu and A.K. Jain,“Lane Boundary Detection Using a Multiresolution Hough Transform”, Proc. IEEE Int’l. Conf. Image Processing, Santa Barbara, Oct. 1997. 
+236. A. Kurt, M. Gokmen and A.K. Jain,“Image Compression Based on Centipede Model”, Proc. 9thInternationalConf. OnImageAnalysisandProcessing,Florence,Italy,pp. 303-310,Sept. 1997. 
+237. A.K. Jain and B. Yu, “Model-Based Document Representation: Application to Page Segmentation”,Proc.Int’l. Conf. DocumentAnalysisandRecognition ’97,Ulm,Germany,pp. 34-38, Aug. 1997. 
+238. B.Yu,M.MohuiddinandA.K.Jain,“AddressBlockLocationonComplexMailPieces”,Proc. Int’l.Conf. DocumentAnalysisandRecognition ’97,Ulm,Germany,pp. 897-901,Aug. 1997. 
+239. M.Figueiredo,J.LeitaoandA.K.Jain,“AdaptiveB-SplinesandBoundaryEstimation”,Proc. IEEE Computer Vision and Pattern Recognition Conf., San Juan, pp. 724-730, June 1997. 
+240. J. Mao and A.K. Jain,“A Note on the Effective Number of Parameters in Nonlinear Learning Systems”, Proc. of Int’l Conf. Neural Networks ’97, Houston, pp. 1045-1050, June 1997. 
+241. M. Figueiredo, J. Leitao and A.K. Jain, “Adaptive Parametrically Deformable Contours”, Proc. Workshop on Energy Minimization Methods in Computer Vision and Pattern Recognition,Venice,Italy,May 1997,pp. 35-50. 
+242. Y. Zhong and A.K. Jain,“Object Localization Using Color, Texture and Shape”, Proc. Workshop on Energy Minimization Methods in Computer Vision and Pattern Recognition, Venice, pp. 279-294, May 1997. 
+243. L. Hong, A.K. Jain, R. Bolle and S. Pankanti,“Identity Authentication Using Fingerprints”, Proc. of First Int’l. Conf. On Audio-and Video-Based Biometric Person Authentication, Switzerland, pp. 103-110, March 1997. 
+244. A.K. Jain, S. Goel, S. Agarwal, V. Mittal, H. Sharma and R. Mahindru,“Multimedia Systems forArtandCulture: ACaseStudy ofBrihadisvaraTemple”,Proc. SPIE:Storage andRetrieval for Image and Video Databases, San Jose, Feb. 1997. 
+245. L.Hong,A.K.Jain,S.Pankanti andR.Bolle,“FingerprintEnhancement”,Proc. IEEEWorkshop on Applications of Computer Vision, Sarasota, FL, pp. 202-207, Dec. 1996. 
+246. B.Yu and A.K. Jain,“A Form Dropout System”, Proc. 13th Int’l. Conference on Pattern Recognition, Vienna, pp. 701-705, Aug. 1996. 
+247. A. Vailaya, Y. Zhong and A.K. Jain,“A Hierarchical System for Efficient Image Retrieval”, Proc. 13th Int’l. Conference on Pattern Recognition, Vienna, pp. 356-360, Aug. 1996. 
+248. A.K. Jain and D. Zongker,“Algorithms for Feature Selection: An Evaluation”, Proc. 13th Int’l. Conference on Pattern Recognition, Vienna, pp. 18-22, Aug. 1996. 
+249. C. Dorai, G. Wang, A.K. Jain and C. Mercer,“From Images to Models: Automatic 3D Object ModelConstructionforMultipleViews”,Proc. 13thInt’l. Conference onPatternRecognition, Vienna, pp. 770-774, Aug. 1996. 
+250. O. Trier, T. Taxt and A.K. Jain,“Gray Scale Processing of Hydrographic Maps”, Proc. 13th Int’l. Conference on Pattern Recognition, Vienna, pp. 870-874, Aug. 1996. 
+251. B.Kroeplin,A.VailayaandA.K.Jain,“ImageDatabases:ACaseStudy inNorwegianSilver”, Proc. 13th Int’l. Conference on Pattern Recognition, Vienna, pp. 370-374, Aug. 1996. 
+252. P.McKinley,D.Judd andA.K.Jain,“Large-ScaleParallelDataClustering”,Proc. 13thInt’l. Conference on Pattern Recognition, Vienna, pp. 488-493, Aug. 1996. 
+253. L. Hong and A.K. Jain,“On-Line Fingerprint Verification”, Proc. 13th Int’l. Conference on Pattern Recognition, Vienna, pp. 596-600, Aug. 1996. 
+254. Dorai and A.K. Jain,“Recognition and Pose Estimation of Free-Form Objects”, Proc. 13th Int’l. Conference on Pattern Recognition, Vienna, pp. 697-701, Aug. 1996. 
+255. K. Karu, A.K. Jain and R. Bolle,“Is There Any Texture in the Image”, Proc. 13th Int’l. Conference on Pattern Recognition, Vienna, pp. 770-774, Aug. 1996. 
+256. M. Gokmen, I. Ersoy and A.K. Jain,“Compression of Fingerprint Images Using Hybrid Image Model”, Proc. Int’l. Conf. Image Processing ’96, Lausanne, Sept. 1996. 
+257. M. Gokmen and A.K. Jain,“ --Space Representation of Images and Generalized Edge Detector”, Proc. IEEE Computer Vision and Pattern Recognition Conf., San Francisco, June 1996. 
+258. N. Ratha, D. Rover and A.K. Jain,“FPGA-Based High Performance Page Layout Segmenta-tion”,Proc. SixthGreatLakesSymposium onVLSI,Ames,Iowa,pp. 29-34,March1996. 
+259. A. Murni, A. Rais and A.K. Jain,“An Integrated Multisensor Image Classification Scheme for Land-Cover Mapping”, Proc. 2nd Asian Conf. on Computer Vision, Singapore, pp. III-92III-96, Dec. 1995. 
+260. A.K. Jain and A. Vailaya,“Image Retrieval Using Color and Shape”, Proc. 2nd Asian Conf. Computer Vision, Singapore, pp. II-529-II-533, Dec. 1995. 
+261. A.K. Jain and C. Dorai,“Practicing Vision: Integration, Evaluation and Applications”, Proc. 2nd Asian Conf. Computer Vision, Singapore, pp. 15-23, Dec. 1995. 
+262. A.K. Jain,“Document Processing Research at Michigan State University”, Proc. 1995 Symposium on Document Image Understanding Technology, Bowie, MD, pp. 126-140, Oct. 24, 1995. 
+263. A.K. Jain,“Texture Analysis: Representation and Matching”, Proc. 8th Italian Conf. on Image Processing and Analysis, San Remo, pp. 1-12, Sept. 1995. 
+264. A.K. Jain and C. Dorai,“View Organization and Matching of Free-Form Objects”, 1995 IEEE Internat’l. Symp. on Computer Vision, Coral Gables, FL, pp. 25-30, Nov. 1995. 
+265. M.-P. Dubuisson, S. Lakshmanan and A.K. Jain,“Vehicle Segmentation Using Deformable Templates”, 1995 IEEE Internat’l. Symp. on Computer Vision, Coral Gables, FL, pp. 581586, Nov. 1995. 
+266. S. Pankanti and A.K. Jain,“A Uniform Bayesian Framework for Integration”, 1995 IEEE Internat’l. Symp. on Computer Vision, Coral Gables, FL, pp. 497-502, Nov. 1995. 
+267. C. Dorai and A.K. Jain,“Shape-Spectra Based View Grouping for Free-Form Objects”, Int’l. Conf. Image Processing ’95, Washington, D.C., pp. 340-343, Oct. 1995. 
+268. A.K. Jain and Y. Zhong,“Page Segmentation Using Texture Discrimination Masks”, Proc. of 1995 International Conference on Image Processing, Washington, D.C., pp. 308-311, Oct. 1995. 
+269. S. Lakshamanan, Y. Zhong and A.K. Jain,“Detecting Straight Edges in Millimeter-Wave Images”, Int’l. Conf. Image Processing ’95, Washington, D.C., pp. 258-261, Oct. 1995. 
+270. N. Ratha, D. Rover and A.K. Jain,“An FPGA-Based Point Pattern Matching Processor with Application to Fingerprint Matching”, Computer Architecture for Machine Perception ’95, Italy, pp. 394-401, Sept. 1995. 
+271. N. Ratha, A.K. Jain and M.J. Chung,“Clustering Using Coarse-Grained Parallel Genetic Algorithm:APreliminaryStudy”,ComputerArchitectureforMachinePerception ’95,Italy,pp. 331-338, Sept. 1995. 
+272. N.Ratha,M.GokmenandA.K.Jain,“ADistributedEdgeDetection andSurfaceReconstructionAlgorithm”,ComputerArchitectureforMachinePerception ’95,Italy,pp. 149-154,Sept. 1995. 
+273. O. Trier, T. Taxt and A.K. Jain,“Data Capture from Maps Based on Gray Scale Topographic Analysis”,ThirdInt’l.Conf. onDocumentAnalysisandRecognition(Int’l.Conf. Document AnalysisandRecognition ’95),Montreal,pp. 923-926,Aug. 1995. 
+274. Y. Zhong, K. Karu and A.K. Jain,“Locating Text in Complex Color Images”, Int’l. Conf. DocumentAnalysisandRecognition ’95,Montreal,pp. 146-149,Aug. 1995. 
+275. A. Schistad Solberg and A.K. Jain,“A Study of the Invariance Properties of Textural Features inSARImages”,IGARSConf.,Florence,July1995,pp. 670-672. 
+276. G. Gimel’farb and A.K. Jain,“Retrieving Texture Images from an Image Data Base”, Proc. 9th Scandinavian Conf. on Image Analysis”, June 1995, Uppsala, Sweden, pp. 441-448. 
+277. C.Dorai andA.K.Jain,“COSMOS -ARepresentationSchemeforFree-FormSurfaces”,Proc. 5thIEEEInternationalConference onComputerVision,Boston,pp. 1024-1029,June1995. 
+278. N. Ratha, A.K. Jain and D. Rover,“Convolution on Splash 2”, Proc. IEEE FCCM-95, Napa Valley, pp. 204-213, April 1995. 
+279. M.-P. Dubuisson and A.K. Jain,“Fusing Color and Edge Information for Object Matching”, Proc. 1st IEEE Int’l Conf. Image Processing, Austin, pp. 982-986, Nov. 1994. 
+280. S.Lakshmanan,Y.ZhongandA.K.Jain,“MultiresolutionImageRepresentationUsingMarkov Random Fields”, Proc. 1st IEEE Int’l Conf. Image Processing, Austin, pp. 855-860, Nov. 1994. 
+281. O.TrierandA.K.Jain,“Goal-directedEvaluationofBinarizationMethods”,Proc.NSF/ARPA WorkshoponPerformanceVersusMethodologyinComputerVision,Seattle,pp. 206-217,June 1994. 
+282. A.K. Jain and K. Karu,“Automatic Filter Design for Texture Discrimination”, Proc. 12th Int’l. Conf. on Pattern Recognition, pp. 454-458, Oct. 1994, Jerusalem. 
+283. M.-P. Dubuisson and A.K. Jain,“A Modified Hausdorff Distance for Object Matching”, Proc. 12thInt’l.Conf. onPatternRecognition,pp. 566-568,Oct. 1994,Jerusalem. 
+284. J.Mao,K.MohuiddinandA.K.Jain,“MinimalNetworkDesignandFeatureSelectionThrough Node Pruning”, Proc. 12th Int’l. Conf. on Pattern Recognition, pp. 622-624, Oct. 1994, Jerusalem. 
+285. D. Judd, N. Ratha, P. McKinley, A.K. Jain and J. Weng,“Parallel Implementation of Vision Algorithms on Workstation Clusters”, Proc. 12th Int’l. Conf. on Pattern Recognition, pp. 317-321, Oct. 1994, Jerusalem. 
+286. C.Dorai,J.Weng andA.K.Jain,“OptimalRegistrationofMultipleRangeViews”,Proc. 12th Int’l. Conf. on Pattern Recognition, pp. 569-571, Oct. 1994, Jerusalem. 
+287. B.Gunsel,A.K.JainandE.Panayirci,“BoundaryDetectionUsingMultiscaleMarkovRandom Fields”,Proc. 12thInt’l.Conf. onPatternRecognition,pp. 173-177,Oct. 1994,Jerusalem. 
+288. M.-P. Dubuisson and A.K. Jain,“Matching Vehicles for Travel Time Estimation”, IEEE Intelligent Vehicle Symposium, pp. 266-271, Oct. 1994, Paris, France. 
+289. N. Ratha, S. Lakshmanan and A.K. Jain,“Object Detection in the Presence of Clutter Using Gabor Filters”, Proc. SPIE Symposium on Applications of Digital Image Processing XVII, SanDiego,CA,July1994,pp. 612-619. 
+290. K. Karu and A.K. Jain,“Learning Texture Discrimination Masks”, Proc. IEEE Conf. Neural Networks,pp. 4374-4379,June1994,Orlando. 
+291. J. Mao and A.K. Jain,“A Self-Organizing Network for Hyperellipsoidal Clustering (HEC), Proc. IEEEConf. NeuralNetworks,pp. 2967-2972,June1994,Orlando. 
+292. S. Pankanti, M. Tuceryan and A.K. Jain,“On Integration of Vision Modules”, Proc. IEEE Computer Vision and Pattern Recognition Conference, pp. 316-322, June 1994, Seattle. 
+293. M.-P.DubuissonandA.K.Jain,“2DMatchingof3DMovingObjects inColorOutdoorScenes”, Proc. IEEE Computer Vision and Pattern Recognition Conference, pp. 887-891, June 1994, Seattle. 
+294. J.CourtneyandA.K.Jain,“MobileRobotLocalizationviaClassificationofMultisensorMaps”, Proc. IEEEInternationalConference onRobotics andAutomation,May8-13,1994,pp. 16721678, San Diego. 
+295. T.Newman andA.K.Jain,“BidirectionalTemplateMatching for3DCAD-BasedInspection”, Proc. SPIE Conf. on Machine Vision Applications in Industrial Vision II, Feb. 1994. 
+296. T.NewmanandA.K.Jain,“CAD-BasedInspectionof3DObjectsUsingRangeImages”,Proc. 2nd IEEE CAD-Based Vision Workshop, Champion, PA, pp. 236-243, Feb. 1994. 
+297. J.Mao,P.J.FlynnandA.K.Jain,“IntegrationofMultipleFeatureGroupsandMultipleViews into a3DObjectRecognitionSystem”,Proc. 2ndIEEECAD-BasedVisionWorkshop,Champion, PA, pp. 184-191, Feb. 1994. 
+298. A.K. Jain and Y. Chen,“Bar Code Localization Using Texture Analysis”, Proc. Second InternationalConferenceonDocumentAnalysisandRecognition,Tsukuba,Japan,pp. 41-44,Oct. 1993. 
+299. H. Dulimarta and A.K. Jain,“Modular Agents for Robot Navigation”, Proc. SPIE Sensor Fusion VI Conference, Boston, Vol. 2059, Sept. 1993. 
+300. J.MaoandA.K.Jain,“RegularizationTechniques inArtificialNeuralNetworks”,Proc. World Congress onNeuralNetworks,Vol. 4,Portland,pp. 75-79,July1993. 
+301. C. Dorai, S. Pankanti and A.K. Jain,“Robust Feature Detection for 3D Object Recognition and Matching”, Proc. of SPIE Conference on Geometric Methods in Computer Vision, San Diego, pp. 366-377, July 1993. 
+302. M.-P. Dubuisson and A.K. Jain,“Object Contour Extraction Using Color and Motion”, Proc. ofIEEEComputerVision andPatternRecognitionConference,NewYork,pp. 471-476,June 1993. 
+303. A.K.Jain,“ObjectRecognitionUsingRangeImages”,Proc. 8thScandinavianConf. onImage Analysis,Tromso,Norway,pp. 797-805,May 1993. 
+304. A.Solberg,T.Taxt andA.K.Jain,“FusionofMultitemporalSatelliteImagesandGISDatafor Land-Use Classification”, Proc. 8th Scandinavian Conf. on Image Analysis, Tromso, Norway, pp. 691-697, May 1993. 
+305. J.MaoandA.K.Jain,“DiscriminantAnalysisNeuralNetwork”,Proc.1993IEEEInternational Conf. on Neural Networks, San Francisco, Vol. 1, pp. 300-305, March 1993. 
+306. A.K. Jain and J. Mao,“Artificial Neural Network for Nonlinear Projection of Multivariate Data”, Proc. International Joint Conference on Neural Networks ’92, Baltimore, pp. III-335III-340, June 1992. 
+307. A. Schistad and A.K. Jain,“Texture Analysis in the Presence of Speckle Noise”, Proc Int’l Geoscience and Remote Sensing Symposium, Houston, pp. 884-886, May 1992. 
+308. M.Tuceryan,N.AhujaandA.K.Jain,“SupervisedClassificationofEarlyPerceptualStructures inDotPatterns”,Proc. 11thInt’l.ConferenceonPatternRecognition,TheHague,pp. 88-91, Aug. 1992. 
+309. Q.Huang, G.Stockman andA.K. Jain,“AutomaticImageAnalysis ofPlantRootStructures”, Proc. 11th Int’l. Conference on Pattern Recognition, The Hague, pp. 569-572, Aug. 1992. 
+310. B. Gunsel and A.K. Jain,“Visual Surface Reconstruction and Boundary Detection Using Stochastic Models”, Proc. 11th Int’l. Conference on Pattern Recognition, The Hague, pp. 343-346, Aug. 1992. 
+311. A.K. Jain and S. Bhattacharjee,“Address Block Location on Envelopes Using Gabor Filters”, Proc. 11th Int’l. Conference on Pattern Recognition, The Hague, pp. 264-267, Aug. 1992. 
+312. T. Newman, A.K. Jain and H. Keshavan,“3D CAD Based Inspection I: Coarse Verification”, Proc. 11th Int’l. Conference on Pattern Recognition, The Hague, pp.49-52, Aug. 1992. 
+313. T. Newman, R. Enbody and A.K. Jain,“3D Object Recognition: Interpretation Tree Search on a MIMD Machine”, Proc. 11th Int’l. Conference on Pattern Recognition, The Hague, pp. 337-340, Aug. 1992. 
+314. J. Mao, M. Kraaijveld and A.K. Jain,“A Non Linear Projection Method Based on Kohonen’s TopologyPreservingMaps”,Proc. 11thInt’l. Conference onPatternRecognition,TheHague, pp. 41-45, Aug. 1992. 
+315. S.NadabarandA.K.Jain,“ParameterEstimation inMarkovRandomFieldContextualModels Using Geometric Models of Objects”, Proc. IEEE Computer Vision and Pattern Recognition Conf., Urbana, IL, pp. 528-533, June 1992. 
+316. A.K. Jain, S. Bhatacharjee and Y. Chen,“On Texture in Document Images”, Proc. IEEE Computer Vision and Pattern Recognition Conf., Urbana, IL, pp. 677-680, June 1992. 
+317. N.S. Raja and A.K. Jain,“Obtaining Generic Parts from Range Data Using a Multi View Representation”, Proc. SPIE: Applications of Artificial Intelligence X, Orlando, pp. 602-613, April 1992. 
+318. S. Nadabar and A.K. Jain,“Edge Detection and Labeling by Fusion of Intensity and Range Images”,Proc. SPIE:Applications ofArtificialIntelligenceX,Orlando, vol. 1708,pp. 108-119, April 1992. 
+319. P. Flynn and A.K. Jain,“On a Taxonomy of Interpretation Trees”, Proc. SPIE, Vol. 1607, Boston,Nov. 1991,pp. 548558. 
+320. T.Taxt andA.K.Jain,“ImageRestorationMethodsBased onQuantumFieldModels”,Proc. IEEE 1991 Medical Imaging Conference, Santa Fe, Nov. 1991. 
+321. M.-P.Dubuisson,A.K.JainandM.Madhukar,“MultisensorFusionforNondestructiveInspec-tionofFiberReinforcedCompositeMaterials”,Proc. ofSixthTechnicalConf. oftheAmerican Society ofComposites,Albany,Oct. 1991,pp. 941950. 
+322. N.RajaandA.K.Jain,“ObtainingaPartBased3DObjectRepresentationfromRangeData”, Proc. IEEETENCON ’91,NewDelhi,Aug. 1991,pp. 379382. 
+323. T. Newman, P. Flynn and A.K. Jain,“Model Based Surface Classification”, Proc. SPIE Conf. onGeometricMethods inComputerVision,SanDiego,July1991,pp. 250261. 
+324. A.K. Jain and J. Mao,“A K Nearest Neighbor Artificial Neural Network Classifier”, Proc. InternationalConf. onNeuralNetworks,Seattle,July1991,pp. 515520. 
+325. F.FarrokhniaandA.K.Jain,“AMultiChannelFilteringApproach toTextureSegmentation”, Proc. IEEEComputerVision andPatternRecognitionConf.,Maui,June1991,pp. 364370. 
+326. P.Flynn andA.K.Jain,“3DObjectRecognitionUsing InvariantFeatureIndexing ofInterpretation Tables”, Proc. IEEE Computer Society CAD Based Vision Workshop, Maui, June 2 3, 1991,pp. 115123. 
+327. P. Flynn and A.K. Jain,“BONSAI: 3D Object Recognition Using Constrained Search”, Proc. 3rdICCV,Osaka,Japan,Dec. 1990,pp. 263267. 
+328. S. Nadabar and A.K. Jain,“MRF Model Based Segmentation of Range Images”, Proc. 3rd ICCV,Osaka,Japan,Dec. 1990,pp. 667671. 
+329. A.K. Jain, F. Farrokhnia and D. Alman,“Texture Analysis of Automotive Finishes”, Proc. Vision ’90,DetroitMichigan,Nov. 1990,pp. 8.18.16. 
+330. A.K.JainandF.Farrokhnia,“UnsupervisedTextureSegmentationUsingGaborFilters”,Proc. 1990IEEEConf. onSMC,LosAngeles,CA,Nov. 1990,pp. 1419. 
+331. R. Dubes, S. Nadabar, C.C. Chen and A.K. Jain, “MRF Model Based Algorithm for Image Segmentation”,Proc. 10thInt’l. Conference onPatternRecognition,AtlanticCity,June1990, pp. 808 814. 
+332. N. Raja, M. Tuceryan and A.K. Jain,“Texture Segmentation on Two High Performance Computers”, Proc. 10th Int’l. Conference on Pattern Recognition, Atlantic City, June 1990, pp. 601 605. 
+333. S. Raudys and A.K. Jain,“Small Sample Size Effects in Statistical Pattern Recognition: RecommendationsforPractitioners andOpenProblems”,Proc. 10thInt’l. Conference onPattern Recognition,AtlanticCity,June1990,pp. 417423. 
+334. M. Tuceryan and A.K. Jain,“Segmentation and Grouping of Object Boundaries”, Proc. IEEE Int. Conf. onSystems,Man,andCybernetics,Cambridge,Mass.,Nov. 1989,pp. 570575. 
+335. P. Flynn, T. Taxt and A.K. Jain,“Segmentation of Document Images”, Proc. IEEE Int. Conf. onSystems,Man, andCybernetics,Cambridge,Mass.,Nov. 1989,pp. 10621067. 
+336. P. Flynn and A.K. Jain,“CAD Based Computer Vision: From CAD Models to Relational Graphs”, Proc. IEEE Int. Conf. on Systems, Man, and Cybernetics, Cambridge, Mass., Nov. 1989,pp. 162167. 
+337. P.J. Flynn and A.K. Jain,“On Reliable Curvature Estimation”, Proc. IEEE Conference on ComputerVision andPatternRecognition,SanDiego,June1989,pp. 110116. 
+338. G. Hu, R.S. Anbalagan and A.K. Jain,“A Segmentation and Object Extraction Algorithm with Linear Memory and Time Constraints”, Proc. 8th International Conference on Pattern Recognition,Rome,Nov. 1988,pp. 596600. 
+339. J.ChenandA.K.Jain,“AStructuralApproach toIdentifyDefects inTexturedImages”,Proc. IEEE 1988 International Conference on Systems, Man, and Cybernetics, Beijing, Aug. 1988. 
+340. P.J. Flynn and A.K. Jain,“Surface Classification: Hypothesis Testing and Parameter Estimation”, Proc. IEEE Conference on Computer Vision and Pattern Recognition, Ann Arbor, Michigan,June1988,pp. 261267. 
+341. M. Tuceryan, Y. Lee and A.K. Jain,“Texture Segmentation Using Voronoi Polygons”, Proc. IEEE Conference on Computer Vision and Pattern Recognition, Ann Arbor, Michigan, June 1988,pp. 9499. 
+342. R. Hoffman and A.K. Jain,“Learning Rules for 3D Object Recognition”, Proc. IEEE Conference onComputerVision andPatternRecognition,AnnArbor,Michigan,June1988,pp. 885 892. 
+343. J. Ton, W. Hudson, W. Enslin and A.K. Jain,“Automatic Road Detection in LANDSAT TM Images”, Proc. International Remote Sensing Symposium, Ann Arbor, Michigan, Oct. 1987. 
+344. R. Hoffman and A.K. Jain,“An Evidence Based 3D Vision System for Range Images”, Proc. 1st. InternationalConference onComputerVision,London,June1987,pp. 521525. 
+345. M.Tuceryan,Y.LeeandA.K.Jain,“ExtractingPerceptualStructures inLinePatterns”,Proc. 5thScandinavianConference onImageAnalysis,Stockholm,June1987,pp. 531538. 
+346. R. Enslin, J. Ton and A.K. Jain,“Land Cover Change Detection Using a GIS Guided, Feature Based Classification of Landsat Thematic Mapper Data”, Proc. American Society of Photogrammetry, Washington, D.C., March 1987. 
+347. R. Hoffman and A.K. Jain,“Evidence based Recognition of 3D Objects”, Proc. of SPIE Symposium on Electro optic Imaging Systems & Devices, vol. 754, Los Angeles, Jan. 1987, pp. 260 267. 
+348. J. Coggins and A.K. Jain,“Surface Orientation from Texture”, Proc. IEEE International Conference on Systems, Man, and Cybernetics, Atlanta, Oct. 1986. 
+349. A.K.Jain,“ComputerVision”,Proc.SymposiumonMicrocomputersforDevelopingCountries, Lisbon, Oct. 1986. 
+350. A.K.Jain,R.C.DubesandC.C.Chen,“BootstrappingTechniquesforErrorEstimation”,Proc. 8thInternationalConference onPatternRecognition,Paris,Oct. 1986,pp. 330332. 
+351. R. Hoffman and A.K. Jain,“Sparse Decomposition for Exploratory Pattern Analysis”, Proc. 8thInternationalConference onPatternRecognition,Paris,Oct. 1986,pp. 333335. 
+352. G.Hu,G.StockmanandA.K.Jain,“ShapefromLightStripeTexture”,Proc.IEEEConference onComputerVision andPatternRecognition,MiamiBeach,June 1986,pp. 412414. 
+353. R. Hoffman and A.K. Jain,“Segmentation and Classification of Range Images”, Proc. IEEE Conference on Computer Vision and Pattern Recognition, Miami Beach, June 1986, pp. 446 451. 
+354. J.V. Moreau and A.K. Jain,“How Many Clusters?”, Proc. IEEE Conference on Computer Vision andPatternRecognition,MiamiBeach,June1986,pp. 634636. 
+355. A.K. Jain and R. Hoffman,“Interpretation of Range Images”, Proc. Artificial Intelligence and AdvancedComputerTechnology Conference,Long Beach,April1986,pp. 8186. 
+356. G. Stockman and A.K. Jain,“Imaging Environment and General Image Processing Algorithms”, Proc. of American Society of Agriculture Engineers Summer Meeting, East Lansing, June 1985. 
+357. A.K.Jain,“Experiments inTextureAnalysisUsingSpatialFiltering”,Proc. ofIEEEWorkshop onLanguagesforAutomation,PalmadeMallorca,June1985,pp. 6670. 
+358. S.P. Smith and A.K. Jain,“Test for Multivariate Normality”, Proc. of IEEE Conference on ComputerVision andPatternRecognition,SanFrancisco,June1985,pp. 423425. 
+359. D. Ittner and A.K. Jain,“3 D Surface Discrimination from Local Curvature Measures”, Proc. of IEEE Conference on Computer Vision and Pattern Recognition, San Francisco, June 1985, pp. 119 123. 
+360. D. Ittner and A.K. Jain,“Segmentation of Range Data”, Proc. of Artificial Intelligence and AdvancedComputerTechnology Conference,Long Beach,April1985,pp. 2328. 
+361. Z.YouandA.K.Jain,“PerformanceEvaluationofShapeMatchingviaChordLengthDistribution”, Proc. of First International Conference on Computers and Applications, Beijing, June 1984,pp. 555562. 
+362. G. Cross and A.K. Jain,“Application of Image Models to Texture Homogeneity”, Proc. of 1983InternationalConference onSystems,Man, andCybernetics,Bombay,Jan. 1984,pp. 24 27. 
+363. R. Dubes and A.K. Jain,“Are the Sensor Data Random?”, Proc. of 1983 Conference on ArtificialIntelligence,Rochester,Michigan,April1983,pp. 984991. 
+364. L. Ni and A.K. Jain,“A VLSI Systolic Architecture for Pattern Clustering”, Proc. of IEEE Workshop on Computer Architecture for Pattern Analysis and Image Database Management, Pasadena, CA., Oct. 1983. 
+365. G. Cross and A.K. Jain,“Measures of Homogeneity in Textures”, Proc. of IEEE Conference onComputerVision andPatternRecognition,Washington,D.C.,June1983,pp. 211216. 
+366. S. Smith and A.K. Jain,“Testing for Uniformity in Multidimensional Data”, Proc. of IEEE Conference on Computer Vision and Pattern Recognition, Washington, D.C., June 1983, pp. 166 167. 
+367. G. Cross, N. Wyse and A.K. Jain,“Multivariate Normality in Pattern Recognition and Clustering”, Proc. 6th International Conference on Pattern Recognition, Munich, Germany, 1982, pp. 862 864. 
+368. A. Goshtasby, W.R. Enslin and A.K. Jain,“Automatic Digital Image Registration”, Proc. Eighth International Symposium on Machine Processing of Remotely Sensed Data, West Lafayette,July1982,pp. 347352. 
+369. S. Smith and A.K. Jain,“Structure of Multidimensional Patterns”, Proc. IEEE Conference on PatternRecognition andImageProcessing,LasVegas,Nevada,June1982,pp. 15. 
+370. G. Cross and A.K. Jain,“Recent Developments in Markovian Image Models”, Proc. SOUTHEASTCON,Destin,Florida,April1982,pp. 360363. 
+371. G. Cross and A.K. Jain,“Measurement of Clustering Tendency”, Proc. IFAC Symposium on DigitalControl,NewDelhi,Jan. 1982,pp. 2429. 
+372. G.Cross andA.K.Jain,“MarkovRandomFieldTextureModels”,Proc. IEEEConference on PatternRecognition andImageProcessing,Dallas,Aug. 1981,pp. 597602. 
+373. S. Smith and A.K. Jain,“Chord Distributions for Shape Matching”, Proc. IEEE Conference onPatternRecognition andImageProcessing,Dallas,Aug. 1981,pp. 168170. 
+374. J. Flora, A.K. Jain and S. Smith,“Computer Classification of Eddy Current Signals for Automatic Inspection of Steam Generator Tubes”, abstracted in Proc. of Workshop on Digital Signal and Waveform Analysis, Miami Beach, Dec. 1980. 
+375. O. Tosi, R.C. Dubes and A.K. Jain,“Speaker Identification Studies on Choral Speech”, Proc. Carnahan Conference on Crime Countermeasures, Lexington, Kentucky, May 1979, pp. 150 156. 
+376. R. Dubes and A.K. Jain,“Models and Methods in Cluster Validity”, Proc. IEEE Conference onPatternRecognition andImageProcessing,Chicago,May 1978,pp. 148155. 
+377. W. Waller and A.K. Jain,“Mean Recognition Accuracy of Dependent Binary Measurements”, Proc. Seventh International Conference on Cybernetics and Society, Washington, D.C., Sept. 1977,pp. 586590. 
+378. E. Backer and A.K. Jain,“On Feature Ordering in Practice and Some Finite Sample Effects”, Proc. Third International Joint Conference on Pattern Recognition, Coronado, California, Nov. 1976,pp. 4549. 
+379. A.K.JainandB.Chandrasekaran,“OnBalancingDecisionFunctions”,appears intheabstracts of papers presented at the 1976 International Symposium on Information Theory, Ronneby, Sweden,June1976,p. 142. 
+380. A.K. Jain and B. Chandrasekaran,“Distance Functions for Independent Measurements and Finite Sample Size”, Proc. Second International Joint Conference on Pattern Recognition, Lyngby,Denmark,Aug. 1974,pp. 4142. 
+381. A.K. Jain and B. Chandrasekaran,“Conditions for Perfect Discrimination for Independent Measurements”,Proc. ofSixthHawaiiInternationalConferenceonSystemsScience,Honolulu, Jan. 1973,pp. 7072. 
+382. B. Chandrasekaran and A.K. Jain,“Quantization of Independent Measurements and Recognition Performance”, appears in the abstracts of papers presented at the International Symposium on Information Theory, Pacific Grove, CA, Jan. 1972. 
