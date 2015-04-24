@@ -1,4 +1,6 @@
-package shca;
+package shca.helpers;
+
+
 
 import java.io.BufferedWriter;
 import java.io.File;
